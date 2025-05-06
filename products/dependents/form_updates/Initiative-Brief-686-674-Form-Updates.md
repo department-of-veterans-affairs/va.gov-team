@@ -30,12 +30,17 @@ Veterans submitting online 21-686c and 21-674 claims can trust that their submis
 ---
 ## Measuring Success
 
-| KPI                                                                        | Why It Matters                                | Target                      |
-| -------------------------------------------------------------------------- | --------------------------------------------- | --------------------------- |
-| Form start-to-submit rate                                                  | Signals usability of updated flow             | ≥85%                        |
-| Average time to complete form                                              | Should drop if deprecated fields are removed  | Down 10% from baseline      |
-| % of staging submissions that trigger no PDF generation errors             | Sanity check that output is clean before prod | ≥95%                        |
-| % of staging submissions that include all required fields for RBPS         | Data completeness before launch               | ≥90%              
+| KPI                                                                                        | Why It Matters                                                         | Target                             | Indicator Type |
+| ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------- | ---------------------------------- | -------------- |
+| Form start-to-submit rate                                                                  | Signals usability and reduction in drop-off due to improved form logic | ≥85%                               | Leading        |
+| Average time to complete form                                                              | Reflects reduced burden from deprecated fields and improved UI         | 10% decrease from baseline         | Leading        |
+| % of staging submissions that generate valid PDFs without errors                           | Ensures backend PDF system is working as expected pre-launch           | ≥95%                               | Leading        |
+| % of staging submissions that include all required RBPS fields                             | Checks if structured data is complete before production                | ≥90%                               | Leading        |
+| % of production submissions that autoestablish a claim in VBMS without manual intervention | Signals backend and payload integrity; reduces downstream work         | ≥85%                               | Leading        |
+| % of dependency claims requiring no development letters                                    | Validates completeness and clarity of front-end form design            | Increase over baseline (e.g. +15%) | Lagging        |
+| % of claims that are successfully processed without rerouting or fallback                  | Measures backend integrity and successful intake into VA systems       | ≥90%                               | Lagging        |
+| Mean time to resolution for claims processing issues post-launch                           | Measures downstream impact of form quality                             | Trend downward from baseline       | Lagging        |
+
 
 
 ---
