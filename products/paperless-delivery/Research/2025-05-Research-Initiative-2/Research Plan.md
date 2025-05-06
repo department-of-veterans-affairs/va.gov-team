@@ -1,12 +1,12 @@
 ## **Background**
 
-Currently, Veterans and other claimants receive claims and appeals decisions by paper mail. They can also download the decision letters for disability compensation claims on[ VA.gov](http://va.gov). For other claim types, Veterans and other claimants may learn on[ VA.gov](http://va.gov) or in the VAHB mobile app that a decision has been made, but they have to wait an additional 7-10 days to learn what the decision was.
+Currently, Veterans and other claimants receive claims and appeals decisions by paper mail. They can also download the decision letters for disability compensation claims on[ VA.gov](http://va.gov). For other claim types, Veterans and other claimants may learn on[ VA.gov](http://va.gov) or in the VAHB mobile app that a decision has been made, but they have to wait an additional 7-10 days to learn what the decision was by paper mail.
 
-Reducing the need to mail paper also represents a significant opportunity for cost savings. Transitioning to digital forms for veterans is a major initiative that will require substantial time and manpower. Currently, only one form—the disability compensation decision letter—is available digitally, with the 1095-B soon to follow.
+Reducing the need to mail paper represents a significant opportunity for cost savings. Transitioning to digitize all documents for Veterans is a major initiative that will require substantial time and manpower. Currently, only two documents—the disability compensation decision letter and the 1095-B—are available digitally.
 
-As more forms are converted to digital formats, it would be beneficial to establish a central location where veterans can opt in to paperless delivery for these documents in the authenticated Veteran experiences.
+As more informational documents are converted to digital formats, it would be beneficial to establish a central location where veterans can opt in to paperless delivery for these documents in the authenticated Veteran experiences.
 
-\[Link to product brief]\(url goes here).
+\[Link to product brief](https\://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/paperless-delivery/paperless-delivery-product-outline.md).
 
 
 ### **OCTO Priorities**
@@ -21,7 +21,7 @@ O1: VA’s digital  experiences are the  easiest and most efficient  way t
 
 ### **Veteran Journey**
 
-This feature would fit into the Veteran’s journey as they onboard to VA.gov and as they determine how they want to receive communication from VA.gov.
+This feature would fit into the Veteran’s journey as they onboard to VA.gov, as they enroll in different benefits, and as they determine how they want to receive communication from VA.gov.
 
 
 ## **Research Goals**
@@ -53,21 +53,23 @@ This research will provide insight into 
 
 1. Are users interested in receiving some or all forms or communications digitally instead of by mail?
 
-2. Are there any forms they would be hesitant to receive digitally? Why?
+2. Are there any documents they would be hesitant to receive digitally? Why?
 
-3. Where do Veterans expect to find and update their paperless delivery settings for a specific form?
+3. Where do Veterans expect to find and update their paperless delivery settings for the 1095-B?
 
 4. Can Veterans easily navigate to the section where they would update their paperless delivery settings without assistance?
 
-5. Are there any pain points or confusion when navigating to or making updates in the system?
+5. Does the Veteran experience any pain points or confusion when navigating to or making updates to their paperless delivery settings?
 
-6. Does the term “paperless” clearly communicate what Veterans can expect? If not, what terminology would they prefer?
+6. Does the word “paperless” clearly tell Veterans that they won’t get paper mail and will need to go online to see their documents? If not, what terminology would they prefer?
 
 7. After updating their paperless delivery settings, do users feel confident that their changes have been saved and will take effect?
 
-8. After signing up for paperless delivery, what kind of confirmation or follow-up communication do users expect?
+8. Do users understand what will happen when they make a selection? Do they think they’re opting in or out? And is that the same as what the system actually does?
 
-For conversation guide: Using your VA.gov navigate to where you think you would be able to choose that option.
+9. After signing up for paperless delivery, what kind of confirmation or follow-up communication do users expect?
+
+10. Do Veterans feel more comfortable with radio buttons or check boxes as their paperless option selection method?
 
 
 ### **Hypothesis**
@@ -81,7 +83,7 @@ For this research we plan to start the session with a few **semi-structured inte
 
 These questions will be followed by light **contextual inquiry** where we plan to observe where Veterans would expect to set up paperless delivery for a specific form on VA.gov. This will help us gain understanding into the Veteran’s mental models and uncover usability barriers.
 
-We will then transition to **Usability testing** to determine if Veterans are able to update paperless settings for the 1095-B form using our prototype and if they understand when and how they will be updated where there is a new form available and 
+We will then transition to **Usability testing** to determine if Veterans are able to update paperless settings for the 1095-B form using our prototype. At this stage we will also test usability of radio buttons vs checkboxes and content.
 
 
 ### **Location**
@@ -92,9 +94,11 @@ This research will be conducted over zoom.
 
 For moderated interviews with a usability study:
 
-- \[Link to conversation guide]\(url goes here)
+-  [Link to conversation guide](https\://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/paperless-delivery/Research/2025-05-Research-Initiative-2/Conversation%20Guide.md)
 
-- \[Link to prototype]\(url goes here)
+-  [Link to desktop prototype](https://www.figma.com/proto/DWOjExui9JzyzwhMBWOFkw/Paperless-delivery-opt-in?page-id=639%3A269369&node-id=639-269431&p=f&viewport=288%2C179%2C0.07&t=lvddPVVrS8SYhrX0-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=639%3A269431)
+
+-  [Link to mobile prototype](https://www.figma.com/proto/DWOjExui9JzyzwhMBWOFkw/Paperless-delivery-opt-in?page-id=639%3A217763&node-id=639-256763&p=f&viewport=3132%2C12765%2C0.44&t=QTYyKLm6jc2f5roS-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=639%3A256763)
 
 
 ## **Recruitment**
@@ -103,7 +107,7 @@ For moderated interviews with a usability study:
 
 We want to capture a wide range of experience in the group of Veterans we select. These are some of the areas we want to capture:
 
-1. **Various technical ability** (screener question- “Have you come across an option to receive certain forms or communications digitally instead of by mail when interacting with a government agency, healthcare provider, or financial institution”)
+1. **Various technical ability** (screener question- “Have you ever seen an option to receive forms or communications digitally instead of by physical mail when interacting with a government agency, healthcare provider, or financial institution?”)
 
 2. **Mobile users and desktop users**
 
@@ -157,7 +161,7 @@ For Cohorts 1 and 2, we would like to follow the following distribution as close
 
 - 1 Native, American Indian or Alaska Native
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeaytGquSPD_MmTKP4cj36sfjDZ5YEral8CQYSV5Y7aD3RopV7DrgIK82q046n6NzV46Pn2_-1fIS62fr2rIZNodNwyK3BY6vYlGAm_72EjSkJtfBBaj7QL8AdwwYRzks-uyYHW?key=BU5nvm8LI6j595KWky9Emo4s)
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcdJ43oejMz_aOcNQZhA6XihvovsggvKi7Y3LBZOvfaW7CzwR_Yyppn31iS3thK6VgN73trQvo_CVLaeM5aVIa-oUdKYmEzGX-k8EfZIOZiD_fy7CLMrvGe8xYSqZtOHxROVieT?key=BU5nvm8LI6j595KWky9Emo4s)
 
 For cohort 3 (Caretakers) we would like to follow this distribution:
 
@@ -178,7 +182,7 @@ For cohort 3 (Caretakers) we would like to follow this distribution:
 
 #### Screener Questions:
 
-1. Do you have a VA.gov account?
+1. Do you have a VA.gov account \[**Response needs to be some form of Yes**]?
 
    - Response options:
 
@@ -190,7 +194,7 @@ For cohort 3 (Caretakers) we would like to follow this distribution:
 
      - Not sure
 
-2. "Have you come across an option to receive certain forms or communications digitally instead of by mail when interacting with a government agency, healthcare provider, or financial institution?" \[Answer will determine cohort]
+2. "Have you come across an option to receive certain forms or communications digitally instead of by mail when interacting with a government agency, healthcare provider, or financial institution?" \[**Answer will determine cohort**]
 
    - Response options:
 
@@ -202,7 +206,7 @@ For cohort 3 (Caretakers) we would like to follow this distribution:
 
      - Not sure
 
-3. “Do you generally access VA.gov on your mobile device or on your desktop computer?” \[answer will determine cohort]
+3. “Do you generally access VA.gov on your mobile device or on your desktop computer?” \[**Answer will determine cohort**]
 
    - Response options:
 
@@ -213,27 +217,21 @@ For cohort 3 (Caretakers) we would like to follow this distribution:
 
 ## **Timeline**
 
-TBD
-
-Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.
+Pilot Session: May 22, 2025 (Thursday)\
+Start Research: May 28, 2025 (Wednesday)\
+End Research June 13, 2025 (Friday)
 
 
 ### **Prepare**
 
-TBD
-
-When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).
-
-A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.
-
 - Pilot participant email: Mike?
 
-- Date and time of pilot session: TBD
+- Date and time of pilot session: May 22, 2025; 11:30-12:30 
 
 
 ### **Research sessions**
 
-- Planned dates of research: TBD
+- Planned dates of research: May 28, 2025 - Jun 13, 2025
 
 
 ### **Length of sessions**
@@ -247,11 +245,33 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 ### **Availability**
 
-TBD
+All times are in EASTERN Standard Time.
 
-When would you like sessions scheduled? Please list exact dates and times in EASTERN Standard Time. _Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S._
+Wednesday May 28, 2025 1:00 pm - 3:00 pm
 
-Please request enough dates and at _least double the amount of time slots for the number of requested participants_. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; _12 time slots for 6 participants_). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
+Thurs May 29, 2025 3:30 pm - 5:00 pm
+
+Fri May 30, 2025 2:30 pm - 4:00 pm
+
+Monday Jun 2, 2025 3:30 pm - 6:00 pm
+
+Tuesday Jun 3, 2025 10:00 am - 6:00 pm
+
+Wednesday Jun 4, 2025 12:30 pm - 1:30 pm, 2:00 pm - 3:00 pm
+
+Thursday Jun 5, 2025 12:30 pm -2:00 pm, 3:00 pm - 6:00 pm
+
+Friday Jun 6, 2025 3:00 - 6:00 pm
+
+Monday Jun 9, 2025 3:30 pm - 6:00 pm
+
+Tuesday Jun 10, 2025 10:00-6:00 pm
+
+Wednesday Jun 11, 2025 12:30 pm - 3:00 pm, 4:00 pm - 6:00 pm
+
+Thursday Jun 12, 2025 4:00 pm - 5:00 pm
+
+Friday Jun 13, 2025 4:00 pm - 6:00 pm
 
 
 ## **Team Roles**
@@ -260,14 +280,22 @@ In the Slack study channel, send an email and primary phone number for the moder
 
 - Moderator: Raquel Eisele
 
-- Research guide writing and task development (usually but not always same as moderator): Raquel Eisele
+- Research guide writing and task development: Raquel Eisele
 
 - Participant recruiting & screening: Perigean
 
 - Project point of contact: Raquel Eisele
 
-- Participant(s) for pilot test: TBD
+- Participant(s) for pilot test: Mike King
 
 - Note-takers: Megan Commons
 
-- Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work. Spread observers across sessions. There should be no more than 5 to 6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side.
+- Observers: Need to make the list of attendees
+
+
+## **Approvals**
+
+- Reviewed by \[OCTO Product Owner, Team Lead] on \[MM-DD-YYYY]
+
+- Reviewed by OCTO Research-Ops Lead on \[MM-DD-YYYY]
+
