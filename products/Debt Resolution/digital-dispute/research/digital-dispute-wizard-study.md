@@ -484,7 +484,50 @@ This criteria is essential because it is a primary indicator of financial wellbe
 
 • Over $200K 
  
+
+### Screen for COHORT 2 (AT - screen reader users)
+
+### People who use screen readers or screen magnifiers
+
+**Do you need a screen reader or screen magnifier every time you use the Internet?** 
+
+We ask this question because we want to make sure that our website works for people who rely on these types of technologies.
+
+
+Response options: yes or no. (Answering yes would qualify the participant.)
  
+
+**We want to make sure our website works for people with various levels of experience with screen readers.** 
+
+Please rate your experience level using a screen reader:
+
+
+Response options: Beginner, Intermediate, Advanced.
+
+ 
+
+**Are you willing to join the Zoom session using this assistive technology?**
+
+Response options: yes or no. (Answering yes would qualify the participant.)
+
+**What device (computer/tablet/iPhone/Android) do you plan to use for the session?**
+
+Response option: text box.
+
+
+**What is the name of the screen reader or screen magnifier technology that you will use during the Zoom session?**
+
+Response option: text box.
+
+ 
+
+**How long have you been using this screen reader or screen magnifier?**
+
+Response option: text box.
+
+ 
+**What (if any) accommodations will you need to participate in this Zoom session?**
+Response option: text box.
 
 ## Timeline 🗓️
 
