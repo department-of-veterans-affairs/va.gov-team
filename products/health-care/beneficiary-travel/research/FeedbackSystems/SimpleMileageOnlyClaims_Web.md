@@ -45,11 +45,14 @@ CSAT (including VFS Questionnaire):
    </td>
    <td>Responses (N = 16)
    </td>
+    <td>%</td>
   </tr>
   <tr>
    <td> Top 2 Box (4 - 5)
    </td>
    <td> 11
+   </td>
+    <td> 69
    </td>
   </tr>
   <tr>
@@ -57,12 +60,14 @@ CSAT (including VFS Questionnaire):
    </td>
    <td> 4
    </td>
+    <td>25</td>
   </tr>
   <tr>
    <td> No response 
    </td>
    <td> 1
    </td>
+    <td>6</td>
    </table>
   
 Qualitative feedback:
