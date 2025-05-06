@@ -6,7 +6,7 @@ Reducing the need to mail paper represents a significant opportunity for cost sa
 
 As more informational documents are converted to digital formats, it would be beneficial to establish a central location where veterans can opt in to paperless delivery for these documents in the authenticated Veteran experiences.
 
-\[Link to product brief](https\://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/paperless-delivery/paperless-delivery-product-outline.md).
+[Link to product brief](https\://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/paperless-delivery/paperless-delivery-product-outline.md).
 
 
 ### **OCTO Priorities**
