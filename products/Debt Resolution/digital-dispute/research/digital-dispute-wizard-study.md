@@ -391,8 +391,10 @@ Inclusive research strategy
  
  - I currently have a fully unpaid or partially unpaid VA benefits overpayment debt 
 (disability compensation, education or pension benefits overpayments)
+
 - I had a VA benefits overpayment debt in the last 3 years (disability compensation, 
-education or pension benefits overpayments) and it has been fully repaid 
+education or pension benefits overpayments) and it has been fully repaid
+
 - I have not had a VA benefits overpayment debt in the last 3 years (does not 
 qualify) 
  
@@ -402,8 +404,11 @@ qualify)
 the last 3 years* 
 
  • The debt I had or currently have is in the range of $1 - $99 
+ 
  • The debt I had or currently have is in the range of $100 - $500 
+ 
  • The debt I had or currently have is in the range of $501 - $1,000 
+ 
  • The debt I had or currently have is over $1,000 
 
  
@@ -414,37 +419,49 @@ What is your perspective on this VA benefits overpayment debt?
 *Please select what applies to you (Check all that apply)* 
 
 •  I don’t think I owe this debt to VA 
+
 •  I don’t think the amount is correct on this debt 
+
 •  I can’t afford this debt 
+
 •  None of these apply to me 
+
 •  Decline to answer this question 
  
 **4. Experiences of financial hardship**
 
-Please select the statement(s) that apply to you: (Check all that apply) 
+*Please select the statement(s) that apply to you: (Check all that apply)* 
   
 • I am currently experiencing financial hardship. 
+
 • I have experienced financial hardship in the past. 
+
 • I have never experienced financial hardship.   
  
 **5. LGBTQ+**
 
-Do you identify as a member of the LGBTQ+ community ? 
+*Do you identify as a member of the LGBTQ+ community?*
+
 We ask this question because we want to make sure the feedback we get from these 
 sessions represents all the people we serve. 
  
 •  Yes 
+
 •  No 
+
 •  Decline to answer 
   
 **6. Cognitive consideration**
 
-Has a medical professional ever diagnosed you with a cognitive disorder? Some examples 
-include PTSD, Alzheimer's disease, Attention deficit disorder, Dementia, Parkinson's disease, 
+*Has a medical professional ever diagnosed you with a cognitive disorder?* 
+
+Some examples include PTSD, Alzheimer's disease, Attention deficit disorder, Dementia, Parkinson's disease, 
 Traumatic brain injury 
  
 •  Yes 
+
 •  No 
+
 •  Decline to answer 
   
 **7. What is your annual household income level?**
@@ -467,22 +484,6 @@ This criteria is essential because it is a primary indicator of financial wellbe
 
 • Over $200K 
  
-  
-**8. Attitudinal question - trust**
-
-Please indicate how much you agree or disagree with the following statement:  
-
-*"I trust VA to fulfill our country’s commitment to Veterans.”* 
-
-• Strongly agree 
-
-• Agree 
-
-• Neutral 
-
-• Disagree 
-
-• Strongly disagree 
  
 
 ## Timeline 🗓️
