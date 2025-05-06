@@ -74,7 +74,7 @@ Jump to:
 ### Prepare a follow-up email to send after a question is closed
 |Priority|Status|
 |:--|:--|
-|`Mid`|`In Progress`|
+|`Mid`|`Blocked`|
 
 > [!NOTE]
 > This is currently blocked by a CRM dependency and will likely not require any further design support.
