@@ -1,12 +1,56 @@
-# **How to Request and Process User Feedback**
+# How to Request and Process User Feedback
 
-All user feedback and analysis is captured in the [Appointments User Feedback sharepoint folder](https://dvagov.sharepoint.com/sites/HealthApartment/Shared%20Documents/Forms/AllItems.aspx?newTargetListUrl=%2Fsites%2FHealthApartment%2FShared%20Documents&viewpath=%2Fsites%2FHealthApartment%2FShared%20Documents%2FForms%2FAllItems%2Easpx&id=%2Fsites%2FHealthApartment%2FShared%20Documents%2FAppointments%2FUser%20Feedback&viewid=9384f3a8%2De3e8%2D4abb%2Db2ab%2D24cf305ccdac)
+The appointments team delivers the following user feedback report-outs:
+- Weekly Medallia reports 
+- Monthly Medallia reports (Sharepoint folder)
 
-[2025 user feedback spreadsheet](https://dvagov.sharepoint.com/:x:/r/sites/HealthApartment/Shared%20Documents/Appointments/User%20Feedback/2025%20Analysis.xlsx?d=wdaa5b5f611b649a28c4fcbc0bc8ef07a&csf=1&web=1&e=ZOW5q7)
+We also update data in two sources used for other reporting:
+- Monthly MHV on VA.gov health apps spreadsheet (Sharepoint folder)
+- UX Metrics spreadsheet (Excel spreadsheet)
 
-[2025 monthly feedback deck](https://dvagov.sharepoint.com/:p:/r/sites/HealthApartment/_layouts/15/Doc.aspx?sourcedoc=%7B1DFC1162-BA23-4198-B25E-FEEA23033455%7D&file=Medallia%20Feedback%202025.pptx&action=edit&mobileredirect=true)
+## Feedback sources
 
-## How to Request Medallia Feedback
+User feedback comes from three sources:
+- The blue feedback button at the bottom of each page
+- The My HealtheVet intercept survey that pops up only under the `va.gov/my-health` URLs for authenticated users
+- The VA.gov intercept survey. In October of 2024 this was replaced with the My HealtheVet intercept survey under `va.gov/my-health`. However, we still collect feedback from this survey when it pops up under the `va.gov/health-care/manage-appointments/` URL, as this is a major entry point into the tool.
+
+**Note:** we used to collect data from the VA Application feedback survey which was linked at the bottom of each page in the Need Help section. The link to this survey was removed in April 2025. Historic data is in the 2025 analysis spreadysheet under the `Mobile App - PowerBI` tab.
+
+## How to report/share out feedback
+
+### Weekly reports
+
+Every week we analyze feedback from the previous week and report to OCTO and the delivery team. These reports are generated from Medallia feedback - [here's how to request and code that feedback](#how-to-request-and-process-medallia-feedback).
+
+**How to put together and share out the report**
+- Filter the Medallia sheet by the date range you're analyzing
+- Add a second filter on the codes column for any cell that contains `quote`.
+- Copy the quotes into the [Select Quotes sheet](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Appointments/User%20Feedback/2025%20Analysis%20-%20Select%20Quotes.docx?d=w2738630d47d64de68e05cef933b39cea&csf=1&web=1&e=mHnZM7) (2025 example)
+- Share links to both the updated spreadsheet and Select Quotes document in the `#appointments-fe-meetup channel`. Note the dates of the updated date, and ping Kay, Kristen, and Robyn Singleton. 
+- Add the links to the Medallia ticket and close it.
+
+### Monthly IVC reports 
+
+Every month we report on the previous month's Medallia activity in an overall report to IVC.
+
+Add a section for the previous month to the [2025 monthly feedback deck](https://dvagov.sharepoint.com/:p:/r/sites/HealthApartment/_layouts/15/Doc.aspx?sourcedoc=%7B1DFC1162-BA23-4198-B25E-FEEA23033455%7D&file=Medallia%20Feedback%202025.pptx&action=edit&mobileredirect=true). Update the dates and copy in the relevant charts.
+
+### Monthly MHV on VA.gov feedback spreadsheets
+
+The MHV teams use a different process and format for analyzing user feedback. We copy the Medallia (auth) feedback into their monthly sheet, including the sentiment analysis but not the codes.
+
+The MHV monthly spreadsheets are in this folder: [MHV on VA.gov](https://dvagov.sharepoint.com/sites/HealthApartment/Shared%20Documents/Forms/AllItems.aspx?newTargetListUrl=%2Fsites%2FHealthApartment%2FShared%20Documents&viewpath=%2Fsites%2FHealthApartment%2FShared%20Documents%2FForms%2FAllItems%2Easpx&id=%2Fsites%2FHealthApartment%2FShared%20Documents%2FGeneral%2FMonitoring%2C%20Reporting%2C%20and%20Feedback%2FMedallia%20feedback&viewid=9384f3a8%2De3e8%2D4abb%2Db2ab%2D24cf305ccdac)
+
+Copy the data into that sheet, following the provided format.
+
+You do not need to add the universal codes. Just sentiment and other health tool.
+
+### UX Metrics spreadsheet
+
+The spreadsheet, and instructions on how to update it, are here.
+
+## How to Request and Process Medallia Feedback
 
 Using the template below, submit a ticket in GitHub to Contact Center to collect the Medallia feedback. The feedback should be emailed to a VA.gov email address since it may contain PHI/PII information. 
 
@@ -64,10 +108,6 @@ Medallia
 </details>
 
 
-
-
-
-
 **Product Name(s)**
 
 Appointments FE
@@ -103,56 +143,35 @@ None
 
 Note: Contact Center will email you the feedback to the VA email address you provide. See "How to process feedback" for next steps.
 
-## How to pull "VA Mobile App" feedback
-
-Note that this isn't feedback from the VA mobile app. It just comes from a form with that name.
-
-1. Access [this Power BI report](https://app.powerbigov.us/groups/me/reports/aca54410-27d4-41a5-a376-bcd67c1c4e70/ReportSection8279b935900d2a4a0166?ctid=e95f1b23-abaf-45ee-821d-b7ab251ab3bf) (Process for gaining access tba)
-
-2. Open the Reviews tab
-
-3. Under App Selection, choose `VA Online Scheduling` and `VA Online Scheduling Redesign`
-
-4. Choose the timeframe you're analyzing.
-
-5. All other fields can be "All"
-
-6. Click the sneaky More Options button, then Export Data
-
-7. Select Data with current layout
-
-8. Download to your computer.
-
-See "How to process feedback" for next steps.
-
 ## How to Process Feedback
 
-This process is the same for Medallia and VA Mobile Form Feedback.
+1. Download the spreadsheet to your machine/locally on the VA network. 
 
-2. Download the spreadsheet to your machine on the VA network. 
-
-3. Scrub the feedback of PII/PHI. Read through every user comment and replace personal information with codes as follows:
+2. Scrub the feedback of PII/PHI. Read through every user comment and replace personal information with codes as follows:
 - Email addresses - PII_EMAIL
 - Names - PII_NAME
 - Social security numbers - PII_SSN
 - Phone numbers - PII_PHONE
 - Other identifying info - PII_OTHER
 
-4. Copy the feedback into the appropriate tab of the current user feedback file.
+3. Copy the feedback into the appropriate tab of the current user feedback file.
 
-5. Check that the headings are correct across the entire sheet. The order the data points are received in does change.
+4. Check that the headings are correct across the entire sheet. The order the data points are received in does change.
 
-6. Sort the sheet by "URL". Move any feedback under the `https://www.va.gov/health-care/schedule-view-va-appointments/` URL to the Appts Benefits Hub tab.
+5. Sort the sheet by "URL". Move any feedback under the `https://www.va.gov/health-care/schedule-view-va-appointments/` URL to the Appts Benefits Hub tab.
 
-7. Delete the original file from your computer.
+8. Delete the original file from your computer.
 
 
 ## How to Analyze Feedback
 
-**Add codes**
+Analyzing the feedback involves adding codes for themes, feature requests, and sentiment
+
+**Themes and feature requests**
 
 Codes for themes and feature requests are in the [user feedback spreadsheet](https://dvagov.sharepoint.com/:x:/r/sites/HealthApartment/Shared%20Documents/Appointments/User%20Feedback/2025%20Analysis.xlsx?d=wdaa5b5f611b649a28c4fcbc0bc8ef07a&csf=1&web=1&e=ZOW5q7) (2025). Look in the tabs with those names. 
 
+**Sentiment**
 
 Codes for sentiment are:
 * Positive
@@ -162,27 +181,12 @@ Codes for sentiment are:
 
 Add the `quote` code to any piece of feedback that you want to share with the team.
 
-## How to report/share out feedback
 
-### Weekly reports
 
-- Filter each sheet by the date range you're analyzing
-- Add a second filter on the codes column for any cell that contains `quote`.
-- Copy the quotes into the [Select Quotes sheet](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Appointments/User%20Feedback/2025%20Analysis%20-%20Select%20Quotes.docx?d=w2738630d47d64de68e05cef933b39cea&csf=1&web=1&e=mHnZM7) (2025 example)
-- Share links to both the updated spreadsheet and Select Quotes document in the `#appointments-fe-meetup channel`. Note the dates of the updated date, and ping Kay, Kristen, and Robyn Singleton. 
-- Add the links to the Medallia ticket and close it.
 
-### Monthly IVC reports 
+<!--
 
-Add a section for the previous month to the [2025 monthly feedback deck](https://dvagov.sharepoint.com/:p:/r/sites/HealthApartment/_layouts/15/Doc.aspx?sourcedoc=%7B1DFC1162-BA23-4198-B25E-FEEA23033455%7D&file=Medallia%20Feedback%202025.pptx&action=edit&mobileredirect=true). Update the dates and copy in the relevant charts.
-
-### Monthly MHV on VA.gov feedback spreadsheets
-
-The MHV teams use a different process and format for analyzing user feedback. The monthly spreadsheets are in this folder: [MHV on VA.gov](https://dvagov.sharepoint.com/sites/HealthApartment/Shared%20Documents/Forms/AllItems.aspx?newTargetListUrl=%2Fsites%2FHealthApartment%2FShared%20Documents&viewpath=%2Fsites%2FHealthApartment%2FShared%20Documents%2FForms%2FAllItems%2Easpx&id=%2Fsites%2FHealthApartment%2FShared%20Documents%2FGeneral%2FMonitoring%2C%20Reporting%2C%20and%20Feedback%2FMedallia%20feedback&viewid=9384f3a8%2De3e8%2D4abb%2Db2ab%2D24cf305ccdac)
-
-Copy the data into that sheet, following the provided format.
-
-You do not need to add the universal codes. Just sentiment and other health tool.
+Note: likely no need to keep these records, but commenting out for now
 
 ## Previous feedback requests
 
@@ -319,3 +323,4 @@ You do not need to add the universal codes. Just sentiment and other health tool
 | Week 39 September 25th - October 1st | Melissa Lefevre  | ✅ [66687](https://github.com/department-of-veterans-affairs/va.gov-team/issues/66687) |
 </details>
 
+-->
