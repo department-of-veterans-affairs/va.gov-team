@@ -29,31 +29,18 @@
 
 ## Timeline (TBD)
 April 
-- Sprint 1 (April 14 to 27)
-	- Conduct an audit of all prefill-enabled and PDF-based forms to identify necessary updates.
-	- Component design initiated 
+- Component design completed by previous DST
+- Development of web component completed by previous DST
+- Documentation completed 
 
 May
-- Sprint 2 (April 28 to May 11)
-	- Document design decision log 
-	- Design: finalize designs in Figma,  reviewed with PO, designers and developers and finalized designs for web and mobile
-- Sprint 3 (May 12 to 25)
-	- Web component development? 
-	- Mobile component development??
-
-June
-- Sprint 4 (May 26 to June 8)
-	- Accessibility review ?
-- Sprint 5 (June 9 to 22) (if needed)
-	- Accessibility issues addressed
-	- Component library, guidance and Figma are published. 
-- Staging review scheduled 
-
+- Sprint 3 (May 12 to 25) - Accessibility review
+- If issues are found, those will be fixed
+- Staging review to be scheduled upon completion of all tasks
 
 
 ## Success Criteria
-- TBD
-- Positive feedback from users and stakeholders regarding usability and accessibility.
+- Positive feedback from users and stakeholders regarding usability and accessibility of the search filter improving findability of content.
 
 ## Risks and Mitigations
 
