@@ -1,12 +1,12 @@
 # How to Request and Process User Feedback
 
 The appointments team delivers the following user feedback report-outs:
-- Weekly Medallia reports 
-- Monthly Medallia reports (Sharepoint folder)
+- [Weekly Medallia reports](#weekly-medallia-reports) 
+- [Monthly IVC reports](#monthly-ivc-reports) 
 
 We also update data in two sources used for other reporting:
-- Monthly MHV on VA.gov health apps spreadsheet (Sharepoint folder)
-- UX Metrics spreadsheet (Excel spreadsheet)
+- [Monthly MHV on VA.gov health apps spreadsheet](#monthly-mhv-on-va-gov-feedback-spreadsheets) 
+- [UX Metrics spreadsheet](#ux-metrics-spreadsheet)
 
 ## Feedback sources
 
@@ -19,7 +19,7 @@ User feedback comes from three sources:
 
 ## How to report/share out feedback
 
-### Weekly reports
+### Weekly Medallia reports
 
 Every week we analyze feedback from the previous week and report to OCTO and the delivery team. These reports are generated from Medallia feedback - [here's how to request and code that feedback](#how-to-request-and-process-medallia-feedback).
 
@@ -44,11 +44,11 @@ The MHV monthly spreadsheets are in this folder: [MHV on VA.gov](https://dvagov.
 
 Copy the data into that sheet, following the provided format.
 
-You do not need to add the universal codes. Just sentiment and other health tool.
+You do not need to add the universal codes. Just copy over "sentiment" and "other health tool".
 
 ### UX Metrics spreadsheet
 
-The spreadsheet, and instructions on how to update it, are here.
+The spreadsheet, and instructions on how to update it, are [here](https://dvagov.sharepoint.com/:x:/r/sites/HealthApartment/_layouts/15/doc.aspx?sourcedoc=%7Bc95ca18b-ba4a-4913-ba21-0545e72d2cc9%7D&action=edit).
 
 ## How to Request and Process Medallia Feedback
 
