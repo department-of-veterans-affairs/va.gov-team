@@ -252,7 +252,10 @@ Before we move on to this next section, I have some questions about the pages yo
   
 ### MENTAL MODELS
 
+- Now that you've gone through these pages, I'd like to take some time to reflect and hear about how your experience was today.
   
+- How did you feel while completing this process? Were there any moments where you felt frustrated or overwhelmed? If so, why?
+
 
 -   Did you know this option to resolve your debt existed?
   
@@ -260,13 +263,12 @@ Before we move on to this next section, I have some questions about the pages yo
   
 -   How does this compare?
   
--   What did  you expect to see on this form that wasn’t there?
+-   What did  you expect to see on this form that wasn’t there, if anything? Was anything missing? 
 
 ## Digital Dispute Post Task Questions (5 minutes)
 
     
 -   What would you change, if anything? What can be improved? Was anything unclear?
-
 
 -   We want to know your thoughts on how clear the form you just  reviewed is.
     
@@ -276,7 +278,6 @@ Before we move on to this next section, I have some questions about the pages yo
     
 -   Why did you rate it a (rating)?
     
-
   
 
 Those are all the questions that I had for you today.
