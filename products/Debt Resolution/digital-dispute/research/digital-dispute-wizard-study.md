@@ -302,9 +302,6 @@ Note
 ### COHORT 2 (Veterans that use AT) total N = 2 (minimum)
 
 
-### COHORT 3 Veterans that have copays total N = 3 [time allowing only]
-
-Veterans that have copays 
 
 ## Recruitment criteria
 
@@ -395,9 +392,9 @@ Please select what applies to you (Check all that apply)
  
  - I currently have a fully unpaid or partially unpaid VA benefits overpayment debt 
 (disability compensation, education or pension benefits overpayments)
-- I had a VA benefits overpayment debt in the last 4 years (disability compensation, 
+- I had a VA benefits overpayment debt in the last 3 years (disability compensation, 
 education or pension benefits overpayments) and it has been fully repaid 
-- I have not had a VA benefits overpayment debt in the last 4 years (does not 
+- I have not had a VA benefits overpayment debt in the last 3 years (does not 
 qualify) 
  
 2. Amount of debt 
@@ -408,7 +405,7 @@ the last 4 years
  The debt I had or currently have is in the range of $100 - $500 
  The debt I had or currently have is in the range of $501 - $1,000 
  The debt I had or currently have is over $1,000 
- 
+
  
 3. What is your perspective on this VA debt 
  
@@ -446,7 +443,10 @@ Traumatic brain injury
  No 
  Decline to answer 
   
-7. What is your annual household income level? 
+7. What is your annual household income level?
+
+**For reviewers understanding only (please do not include in recruitment screener) - why we ask this:** This criteria is essential because it is a primary indicator of financial wellbeing and a possible indicator of financial hardship and/or poverty. We want to speak to Veterans in a range of financial situations, from high financial need to low financial need, because it is our hope that the debt portal can be accessed and the resources understood and acted upon regardless of financial situation. Combined with question 4, this also gives us a good indication as to what situation a Veteran might be in for the purpose of recruitment and for preparation before interviews. 
+ 
 $0 - $25K 
 $25K - 49.9K 
 $50K - 74.9K 
