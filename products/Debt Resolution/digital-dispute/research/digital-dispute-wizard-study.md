@@ -125,12 +125,7 @@ What are you trying to learn from this research?
   
 
 ### The purpose of this research is to find out:
-
-1.  ## Navigation, Wayfinding, & Mental Models
     
-2.  ## Usability & Comprehension
-    
-
 ### As a unified, connected experience: 
 
 ### 1. Navigation, wayfinding, preexisting mental models
