@@ -40,9 +40,14 @@
 ### Analytics
 
 Q1 2025 (Jan 1 - Mar 31)
+Search.gov and GA4 data analyzed with VAGPT
 
-**Top 5 related pages clicked in search**
-- In the top 1000 URLs clicked in search, 223,098 of 1,542,293 (14.5%) clicks were pages within the Find a VA form sub-directory
+#### Search clicks
+- Of the top 1000 URLs clicked in search, 223,098 of the 1,542,293 (14.5%) clicks were pages within the Find a VA form sub-directory
+  - The forms landing page was clicked 1.59% of the time
+  - Individual about form pages were clicked 12.88% of the time
+- There were approximately 134,065 searches that included the word "form"
+  - 588 (58.8%) of those queries included a specific form number in them and were entered 119,766 times (89.3% of all form related queries)
 
 Page | Clicks from search results
 --- | ---
@@ -55,6 +60,12 @@ About form 22-1990e | 9087
 
 Page | Pave views | Entrance rate | Bounce rate | Exit rate
 --- | --- | --- | --- | ---
+All pages in section | 2,936,059 | 23.5% | 13.47% | 31.91%
+All about form pages | 1,691,365 | 28.71% | 13.64% | 42.46%
+Find a VA form landing page | 1,244,610 | 16.42% | 8.05% | 17.59%
+About form 21-4138 | 89,054 | 37.75% | 18.21% | 47.055
+About form 21-526EZ | 67,257 | 28.55% | 8.93% | 43.05%
+About form 21-2680 | 64,422 | 26.57% | 12.42% | 44.08%
 
 
 
