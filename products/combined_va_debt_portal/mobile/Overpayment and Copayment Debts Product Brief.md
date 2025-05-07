@@ -59,7 +59,7 @@ O1: VA’s digital experiences are the easiest and most efficient way to access 
 * The resources and support page on VA Debt can be found [here](https://www.va.gov/resources/va-debt-management/).   
 * From user research conducted by the Financial Management Team, they reported a key finding that “everyone was excited about the potential of a mobile app and the ability to manage their VA bills and debt in the mobile app”.    
 * On VA.gov, overpayment and copayment debt information are separated on the debt portal.  
-* For Veterans to pay their overpayments online, a new tab will open from VA.gov, taking them to [pay.va.gov](https://www.pay.va.gov/).  
+* For Veterans to pay their overpayments online, a new tab will open from VA.gov, taking them to [pay.va.gov](https://www.pay.va.gov/). According to the Financial Management team this system will be deprecated and Veterans will need a new method to process payments electronically.    
 * For Veterans to pay their copayments online, a new tab will open from VA.gov, taking them to pay.gov.   
 * According to the Financial Management Team, Veterans can have a lot of copayment debts.    
 * The Financial Status Report (VA Form 5655\) is a form to request debt resolution, debt compromise, or monthly debt payments.    
