@@ -1,10 +1,10 @@
 # Impact Report: Migration to GitHub Enterprise Cloud and Loss of macOS Runners
 
 **Prepared by:** Tim Wright 
-**Date:** May 7, 2025 
-**Team:** VA Mobile Platform
 
----
+**Date:** May 7, 2025 
+
+**Team:** VA Mobile Platform
 
 ## Summary
 
@@ -103,8 +103,6 @@ disruption and loss of deployment velocity.
 | **Self-Hosted (On-Prem)**      | High         | Very High  | Very High              | Medium      |
 | **Self-Hosted (AWS)**          | Medium–High  | High       | High                   | Medium      |
 | **3rd-Party CI Tools**         | Medium       | Moderate   | Moderate–High          | Medium      |
-
----
 
 ## Recommendation
 
