@@ -65,12 +65,14 @@ NOTE: Screenshots below are taken from this [Figma file](https://www.figma.com/d
 
 </details>
 
-### Non-patient landing page (previously was MHV landing page: No access to MHV)
+### No facility registration: Non-patient landing page (previously was MHV landing page: No access to MHV)
 
 <details><summary>Non-patient landing page</summary>
-<img width="972" alt="Screenshot of non-patient landing page" src="https://github.com/user-attachments/assets/74581bb6-db77-4a0d-a9d5-489964b8b1c5" />
+<img width="972" alt="Screenshot of non-patient landing page" src="https://github.com/user-attachments/assets/36207cc3-0a84-4f25-a29b-5e1de4bef561" />
 
 </details>
+
+
 
 
 ## Missing MHV-Identifier (Account Creation API)
