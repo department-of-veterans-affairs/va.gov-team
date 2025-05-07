@@ -1,8 +1,8 @@
 ---
-name: DBC Base Team 2 Spike Template
-about: Spike template for the Disability Benefits Crew Team 2
+name: Disability Benefits Team Spike Template
+about: Spike template for Disability Benefits Team 
 title: ''
-labels: DBC Base Team 2, needs-refinement
+labels: disability-experience, needs-refinement
 assignees: ''
 
 ---
