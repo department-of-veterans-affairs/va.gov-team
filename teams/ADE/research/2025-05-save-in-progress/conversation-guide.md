@@ -148,7 +148,7 @@ We can help guide you through this if you need help. Please say what you're doin
 1. Check the "share sound" checkbox (so we can hear their screen reader speaking)--may have to tab a LOT to get to this in the right pane
 1. Activate the screen share
 
-*(If we can't hear the screen reader)* Since I can't hear your screen reader and don't want to interrupt it, after I ask you to do something, I'll try to not say anything until you say that you're done or need help, OK?
+**(If we can't hear the screen reader)** Since I can't hear your screen reader and don't want to interrupt it, after I ask you to do something, I'll try to not say anything until you say that you're done or need help, OK?
 
 
 ## Task 00: Open prototype
@@ -174,21 +174,20 @@ Please click the (green) "Continue" button.
 
 I'd like you to take a look at this page, and then use it to get your military records.
 
-Please **talk aloud** about what you're thinking BEFORE clicking on anything.
+Please **talk aloud** about what you're thinking BEFORE clicking on anything. And please share any **thoughts, reactions, and questions** you have about the current web page.
 
 [Sign in to start your request > Start your request; *must use enter, not space*]
 
 [When they get to the form:] Please stop here so I can give you the next instruction.
 
 ### Watch for:
-- [Anything re "You can save this request" light blue alert? Y / N]
-- [Anything re "We'll save your application on every change" Y / N]
+- [Notice "You can save this request" light blue alert? Y / N]
 
 ## Task 2: Fill out form [never reload the page]
 Please fill out this form to request your own military records, but I want you to use fake details so you don't share your personal information with me. 
 
 ### Watch for:
-- [Anything re saving info entered]
+- [Notice "We'll save your application on every change"? Y / N]]
 - [Anything re the progress bar? Steps vs. screens?]
 - [Anything re error messages? If so:
   - Do they know what the error means?
@@ -199,13 +198,15 @@ Please fill out this form to request your own military records, but I want you t
 [Note: If click on anything that goes outside the codespace (e.g., VA logo), you'll see spinning and get stuck. To fix, go back in your browser.]
 
 ## Task 3: (After enter SSN, before Continue) Short break in filling out form
-Pretend that your doorbell just rang, and you want to jump up to answer it. What will you do with the form that you're filling out?
+Pretend that your doorbell just rang, and you want to jump up to answer it. What will you do with the form that you're in the middle of filling out?
 
 - [leave open in browser / close browser / Finish later button / __________________]
 
 ### Watch for:
 - [Anything re saving info entered]
 - [Anything re the "Finish later" button]
+- [Noticed "Your records request has been saved"? Y / N]
+
 
 
 ## Task 4: Resume filling out form
