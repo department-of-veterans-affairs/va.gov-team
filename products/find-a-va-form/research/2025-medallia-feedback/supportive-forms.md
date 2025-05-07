@@ -1,7 +1,6 @@
 ## Supportive forms - 1Q2025 Medallia findings summary
 [Raw Medallia data](https://dvagov-my.sharepoint.com/:x:/r/personal/suzanne_middaugh_va_gov/Documents/Medallia/Medallia%2520Supporting%2520forms%20(version%201).xlsb?d=w077a600695224b75abdaea6834f8a321&csf=1&web=1&e=1c53yy) in Sharepoint.
 
-> [see additional analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/initiatives/centralized-forms/summary-existing-research-data.md)
 
 ### Summary 
 > Raw data from April 1, 2024 - April 1, 2025
