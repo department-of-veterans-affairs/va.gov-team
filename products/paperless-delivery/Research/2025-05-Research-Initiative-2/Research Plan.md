@@ -107,7 +107,7 @@ For moderated interviews with a usability study:
 
 We want to capture a wide range of experience in the group of Veterans we select. These are some of the areas we want to capture:
 
-1. **Various technical ability** (screener question- “Have you ever seen an option to receive forms or communications digitally instead of by physical mail when interacting with a government agency, healthcare provider, or financial institution?”)
+1. **Various technical ability** (mix of benefits application method)
 
 2. **Mobile users and desktop users**
 
@@ -123,7 +123,7 @@ Because we want a total of **14** participants we will recruit for **18** partic
 
 **Recruitment criteria**
 
-For this research we will meet with at least **14** individuals with VA.gov accounts and recruit for **18**. They will represent a mix of Veterans and Caregivers. We will use Perigean to recruit for the following four cohorts.
+For this research we will meet with at least **14** individuals with VA.gov accounts and recruit for **18**. They will represent a mix of Veterans and Caregivers. We will use Perigean to recruit for the following three cohorts.
 
 - Cohort 1:(5) Veterans with experience with products that may offer paperless
 
@@ -131,7 +131,7 @@ For this research we will meet with at least **14** individuals with VA.gov acco
 
 - Cohort 3: (4) Caregivers of Veterans
 
-For Cohorts 1 and 2, we would like to follow the following distribution as closely as possible:
+For Cohorts 1 and 2 combined, we would like to follow the following distribution as closely as possible:
 
 - 5 Veterans Age 55+
 
@@ -163,7 +163,7 @@ For Cohorts 1 and 2, we would like to follow the following distribution as close
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcdJ43oejMz_aOcNQZhA6XihvovsggvKi7Y3LBZOvfaW7CzwR_Yyppn31iS3thK6VgN73trQvo_CVLaeM5aVIa-oUdKYmEzGX-k8EfZIOZiD_fy7CLMrvGe8xYSqZtOHxROVieT?key=BU5nvm8LI6j595KWky9Emo4s)
 
-For cohort 3 (Caretakers) we would like to follow this distribution:
+For cohort 3 (Caretakers) we would like to follow this distribution as closely as possible:
 
 - 2 Caretakers Age 55+
 
@@ -182,7 +182,7 @@ For cohort 3 (Caretakers) we would like to follow this distribution:
 
 #### Screener Questions:
 
-1. Do you have a VA.gov account \[**Response needs to be some form of Yes**]?
+1. Are you enrolled in VA healthcare \[**Response needs to be some form of Yes**]?
 
    - Response options:
 
@@ -194,7 +194,7 @@ For cohort 3 (Caretakers) we would like to follow this distribution:
 
      - Not sure
 
-2. "Have you come across an option to receive certain forms or communications digitally instead of by mail when interacting with a government agency, healthcare provider, or financial institution?" \[**Answer will determine cohort**]
+2. "Have you come across an option to receive certain forms or communications digitally and stopping the delivery of paper mail when interacting with a government agency, healthcare provider, or financial institution?" \[**Answer will determine cohort**]
 
    - Response options:
 
@@ -206,13 +206,6 @@ For cohort 3 (Caretakers) we would like to follow this distribution:
 
      - Not sure
 
-3. “Do you generally access VA.gov on your mobile device or on your desktop computer?” \[**Answer will determine cohort**]
-
-   - Response options:
-
-     - Mobile Device
-
-     - Desktop Computer
 
 
 ## **Timeline**
