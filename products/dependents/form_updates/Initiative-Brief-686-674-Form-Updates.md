@@ -1,7 +1,7 @@
 # Initiative Brief: 686c/674 Form Updates
 
 ## Outcome Summary
-Veterans submitting online 21-686c and 21-674 claims can trust that their submissions include all the required information to ensure efficient processing. Veterans experience a online form that is accessible and easy to use.
+Veterans submitting online 21-686c and 21-674 claims can trust that their submissions include all the required information to ensure efficient processing. Veterans experience a online form that is accessible and easy to use. [Project milestone](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1292).
 
 **Related/Associated product(s)**
 - [686/674 Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/21-686c-product-outline.md)
