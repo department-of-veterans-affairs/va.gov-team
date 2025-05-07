@@ -7,7 +7,9 @@ Contributors: Matthew Declercq
 
 ## Situation 
 
-For deaf and nonverbal Veterans, some verification methods like phone calls or video interactions can pose significant barriers due to communication needs. If the Veteran is unable to complete the self-serve verification process with ID.me or Login.gov, their options become limited and difficult. A recurring issue is that Veterans in this situation are unaware of the options available to them and they don’t understand the associated limitations. Oftentimes, deaf/nonverbal Veterans end up in the ID.me video verification flow — due to limited ASL (American Sign Language) support and a lack of familiarity with assistive technology on their device,  it is common for these Veterans to fail verification. Additionally,  we’ve observed and received reports of several accessibility challenges for this group related to video calls, including:
+For deaf and nonverbal Veterans, some verification methods like phone calls or video interactions can pose significant barriers due to communication needs. If the Veteran is unable to complete the self-serve verification process with ID.me or Login.gov, their options become limited and difficult. 
+
+A recurring issue is that Veterans in this situation are unaware of the options available to them and they don’t understand the associated limitations. Oftentimes, deaf/nonverbal Veterans end up in the ID.me video verification flow — due to limited ASL (American Sign Language) support and a lack of familiarity with assistive technology on their device,  it is common for these Veterans to fail verification. Additionally,  we’ve observed and received reports of several accessibility challenges for this group related to video calls, including:
 * ID.me’s video verification can be unreliable on older devices. If technical problems occur, ID.me will first attempt to call the Veteran by phone and then arrange a Zoom call to complete verification. This process can be challenging, especially for Veterans who are deaf or hard-of-hearing.  
 * On mobile devices, users who rely on ASL must prop up their device to sign effectively, which can be challenging.  
 
