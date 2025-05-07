@@ -1,11 +1,11 @@
-# IA Design for Paperless Delivery (draft)
-**STATUS: In progress
+# IA Design for Paperless Delivery Opt-in in Profile
+**STATUS: Needs review
 
 **Team:** IIR
 
-**CAIA Intake ticket:**
+**CAIA Intake ticket:** [106648](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106648)
 
-**IA Tracker:** 
+**IA Tracker:** [107989](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107989)
 
 **On this page:**
 - [Navigation/page flows](#flows)
@@ -20,25 +20,25 @@
 ## <a name="flows"></a>Navigation/page flows <br>
 *Illustration and/or description of how users will navigate to and flow through the experience for all impacted visitors typies. This helps identify key entry points and findability requirements, user flow scenarios, and content/messaging needs across various scenarios.*
 
+![Paperless delivery opt-in v1_2025-05-07_20-52-02](https://github.com/user-attachments/assets/093f93ef-b1e0-460c-9efa-9968592dfbaa)
+
 
 ## <a name="map"></a>Page structure<br>
 *Illustration and/or description of where this product/feature will live within the overall IA of VA.gov (i.e. a site map). The placement of your product/feature determines the URL structure, breadcrumb, and navigational needs of the product/feature, and provides search engines with relationship information that impacts overall SEO and findability. Placement of a product/feature must follow established patterns and standards of the existing site.*
-
+![Paperless delivery opt-in v1_2025-05-07_20-38-25](https://github.com/user-attachments/assets/a9dea99c-a957-4658-adb5-ec6955dc1dff)
 
 ## <a name="url"></a>Page URLs and breadcrumbs
 *URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site. This section will also document form or tool flow URLs, titled sub-URLs.*
 
-
-**1) Page name - /New**
+**1) Page name - New**
 - URL: https://www.va.gov/profile/[notifications-settings]
 - Breadcrumb: Home > Profile > [H1]
-- Notes: Actual H1 TBD in (research)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/paperless-delivery/Research/2025-05-Research-Initiative-2/Research%20Plan.md]
+- Notes: Actual H1 will be informed by [research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/paperless-delivery/Research/2025-05-Research-Initiative-2/Research%20Plan.md) and determined by Content.
 
 **2) Page name - New**
 - URL: https://www.va.gov/profile/[paperless-settings]
 - Breadcrumb: Home > Profile > [H1]
-- Notes: Actual H1 TBD in (research)[https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/paperless-delivery/Research/2025-05-Research-Initiative-2/Research%20Plan.md]
-
+- Notes: Actual H1 will be informed by [research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/paperless-delivery/Research/2025-05-Research-Initiative-2/Research%20Plan.md) and determined by Content.
 
 
 ## <a name="nav"></a>Entry points <br>
@@ -47,65 +47,28 @@ Teams must launch with at least one entry point that allows site visitors to nav
 
 ### Required entry point(s)
 
-1. **[Page/placement name]**
-  - Placement description: 
-  - Link details
-    - Link label: 
-    - Link destination: 
-  - Notes:
-    - Who will update (IA, content, product team):
-    - When will this entry point go live (at launch? After staged rollout? after some designated time?):
+1. **Required entry point for launch**
+  - [Download Your IRS 1095-B Tax Form hub page](https://staging.va.gov/records/download-your-irs-1095-b/)
+  - Entry point link: www.va.gov/profile/paperless
+  - Notes: The Content & IA team will update this page to add an entry point to the authenticated Paperless space in Profile. We'll consider additional unauthenticated entry points when the paperless opt-in feature is available for more forms.
 
 ### Additional key entry points
-_Any additional key locations that the page should be navigable from. Although these are not required for launch, they are critical to the findability of your content/feature.  Examples of key entry points include "About a form" pages, additional navigation component (top, left) placements, additional static pages where its prominently linked from, etc._
-
-1. **[Page/placement name]**
-  - Placement description: 
-  - Link details
-    - Link label: 
-    - Link destination: 
-  - Notes:
-    - Who will update (IA, content, product team):
-    - When will this entry point go live (at launch? After staged rollout? after some designated time?):
+- Email notifications
+- Profile
 
 ##  <a name="redirects"></a>Redirects <br>
-*A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience.* 
-
-**For any redirects listed, please submit a request for the redirect using the [Redirect Request Issue Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=redirect-request.md) at least 2 weeks in advance.**  
-
-Current URL | Redirect to | Notes
---- | --- | ---
- |  | 
-
+None
 
 ## <a name="bestbets"></a>Search best bets
-*Search “best bets” are suggested pages that appear in the “Our top recommendations for you” section when you perform a search on VA.gov. Best bets are not implemented for every page, and not intended to be permanent.  They can aid in helping visitors find key content and features that are not ranking search well or competing with similar pages in search results. Existing best bets must be removed or updated when links/URLs change.*
+None
 
-**1. Best bet for [page name]** - 
-- Destination page:
-- Additional keywords:
-
-## <a name="launch"></a>Launch coordination <br>
-*Communication when preparing for launch is critical to ensuring all supporting content, links, and messaging are implemented in a timely manner to ensure a good experience. Missing any of these steps can result in findability challenges, incorrect or misleading information, duplicate content, etc. *
-
-Key task | Responsibility | When to complete | Additional info
---- | --- | --- | ---
-Communicate date of staging review | | Once scheduled |
-Submit redirect request | | at least 2 weeks prior to implementation | 
-Communicate launch date | | |
-
-
-
-
+## <a name="launch"></a>Launch coordination
 ### Staged rollout
 *Is the team planning a staged rollout? Roll-outs hidden behind a flipper flag need a static page to place a sign in widget or CTA on. Pages/sections where a sign in widget can't be implemented - find a form pages, within accordions, hub pages*
 
-1. What is the team's staged rollout plan?
-2. Which page will have the widget that controls views?
-3. Does the team need to manage search-engine results during rollout?
-
-
-
+1. What is the team's staged rollout plan? TBD
+2. Which page will have the widget that controls views? TBD
+3. Does the team need to manage search-engine results during rollout? No
 
 <hr>
 <hr>
