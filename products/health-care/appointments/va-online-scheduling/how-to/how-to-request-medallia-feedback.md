@@ -2,7 +2,7 @@
 
 ## Overview
 
-- We request user feedback from Contact Center - [here's the process](#how-to-request-and-process-medallia-feedback)
+- We request user feedback from Contact Center - [here's the process](#how-to-request-and-process-medallia-feedback). For help, reach out in #vsp-contact-center-support
 - Appointments user feedback is captured in [this sharepoint folder](https://dvagov.sharepoint.com/sites/HealthApartment/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FHealthApartment%2FShared%20Documents%2FAppointments%2FUser%20Feedback&viewid=9384f3a8%2De3e8%2D4abb%2Db2ab%2D24cf305ccdac&newTargetListUrl=%2Fsites%2FHealthApartment%2FShared%20Documents&viewpath=%2Fsites%2FHealthApartment%2FShared%20Documents%2FForms%2FAllItems%2Easpx)
 - Analytics from the likert scales in these reports are captured in the [MHV CSAT Dashboard in Domo](https://va-gov.domo.com/page/601491420?userId=917050460)
 
@@ -61,9 +61,11 @@ The spreadsheet, and instructions on how to update it, are [here](https://dvagov
 
 ## How to Request and Process Medallia Feedback
 
-Using the template below, submit a ticket in GitHub to Contact Center to collect the Medallia feedback. The feedback should be emailed to a VA.gov email address since it may contain PHI/PII information. 
+1 . Using the template below, submit a ticket in GitHub to Contact Center to collect the Medallia feedback. 
+2. If you want feedback delivered on a regular basis (daily/weekly/monthly note that in a comment in the generated ticket).
+3. Add a tracking ticket to [this Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102341)
 
-Template: https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=Kimberley2019%2C+ATMiddleton%2C+newworld2616%2C+aubreyarcangel&labels=VSP-contact-center%2Ccc-data-request&projects=&template=qualitative-data-request.yml&title=Qualitative+Data+Request
+Template: [https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=Kimberley2019%2C+ATMiddleton%2C+newworld2616%2C+aubreyarcangel&labels=VSP-contact-center%2Ccc-data-request&projects=&template=qualitative-data-request.yml&title=Qualitative+Data+Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=Kimberley2019%2C+ATMiddleton%2C+newworld2616%2C+aubreyarcangel&labels=VSP-contact-center%2Ccc-data-request&projects=&template=qualitative-data-request.yml&title=Qualitative+Data+Request)
 
 ### How to fill in the fields
 
@@ -75,7 +77,7 @@ User Surveys
 
 Medallia
 
-**Date  Range Start and End**
+**Date Range Start and End**
 
 [See the Feedback epic for weekly dates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102341)
 
@@ -112,7 +114,7 @@ None
 
 [Your VA email address]
 
-Note: Contact Center will email you the feedback to the VA email address you provide. See "How to process feedback" for next steps.
+Note: Contact Center will email you the feedback to the VA email address you provide. The feedback should be emailed to a VA.gov email address since it may contain PHI/PII information. 
 
 ## How to Process Feedback
 
