@@ -12,5 +12,6 @@
 | 22-5490 |   | Could be an interesting conversation. Looking at their question, I'm not actually sure they'd use our pattern. What do others think? |  |  |  |  |
 
 Resources:
-- [Team Slack conversation](https://dsva.slack.com/archives/C07909N7U8Z/p1746632957154659) about which teams to reach out to
+- [Team Slack conversation](https://dsva.slack.com/archives/C07909N7U8Z/p1746632957154659) about which teams to reach out to.
 - [All OCTO Products spreadsheet](https://dvagov.sharepoint.com/:x:/r/sites/oitocto1/_layouts/15/Doc.aspx?sourcedoc=%7B079F026A-B15E-4B1C-97E0-42C657EAAF0F%7D&file=All%20OCTO%20Products.xlsx&action=default&mobileredirect=true) which includes all of the forms, their POs and PMs. It's the most up-to-date resource we have.
+- [Slack thread](https://dsva.slack.com/archives/C04F9JLSATE/p1746640223496779) with the trauma-informed design community, who also left some feedback.
