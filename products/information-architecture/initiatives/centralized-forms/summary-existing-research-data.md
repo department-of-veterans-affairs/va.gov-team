@@ -58,6 +58,10 @@ About form 20-0955 | 12,105
 About form 21-4138 | 11,109
 About form 22-1990e | 9087
 
+#### Page performance
+- 57.6% of page traffic is to specific about form pages, while 42.4% is to the Find a VA form landing page
+- 
+
 Page | Pave views | Entrance rate | Bounce rate | Exit rate
 --- | --- | --- | --- | ---
 All pages in section | 2,936,059 | 23.5% | 13.47% | 31.91%
@@ -67,6 +71,21 @@ About form 21-4138 | 89,054 | 37.75% | 18.21% | 47.055
 About form 21-526EZ | 67,257 | 28.55% | 8.93% | 43.05%
 About form 21-2680 | 64,422 | 26.57% | 12.42% | 44.08%
 
+**Find a VA form landing page - top next pages**
+
+Page | %
+--- | --- 
+Exit site | 17.59%
+Home page | 11.03%
+
+
+**Find a VA form landing page - top referring pages**
+
+Page | %
+--- | --- 
+Home page | 11.54%
+Search | 5.19%
+Google | 3.29%
 
 
 ## Supporting forms for claims experience
@@ -128,6 +147,7 @@ Supporting forms landing page | 22,188 | 13.87% | 5.24% | 12.44%
 Page | %
 --- | --- 
 Home page | 14.14%
+Exit site | 12.44%
 Find form > About form 21-10210 | 11.46%
 Disability > Additional forms | 8.98%
 Search | 5.68% 
