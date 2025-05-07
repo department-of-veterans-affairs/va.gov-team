@@ -4,7 +4,7 @@
 
 ## Test users
 
-- TBD
+- judy.morrison@idme - general testing
 
 ## Scheduling scenarios
 
