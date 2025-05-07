@@ -1,7 +1,9 @@
 # Summary of existing related research findings and data
 
-**Question we want to answer**
+**Questions we want to answer**
 - How well can visitors find forms - both the online and the PDF versions - as well as form-related tools such as the form upload tool or their form status?
+- Can visitors easily find and understand information about the different ways to apply and how to do them?
+- Can visitors find related forms that they may need to submit?
 
 
 ## Find a VA form experience
@@ -131,7 +133,8 @@ Q1 2025 (Jan 1 - Mar 31)
 
 
 **Summary**
-- The landing page receives 2.6% of all page views in the section
+- The landing page receives only 2.6% of all page views in the section
+- Most visitors come to the landing page from other forms in the section or from links in the disability hub.
 
 
 **Page performance**
@@ -157,11 +160,11 @@ Search | 5.68%
 
 Page | %
 --- | --- 
+Forms within the section | 35.11%
 Disability > How to file | 18.72%
 Disability > Additional forms | 15.1%
-Google | 14.78%
+External search | 18.14%
 Search | 5.43%
-Lay witness form 21-10210 | 4.95%
 
 
 
