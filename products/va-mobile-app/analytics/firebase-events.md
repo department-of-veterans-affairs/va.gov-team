@@ -78,7 +78,6 @@ Last updated: 4/29/2025
 | `vama_login_start ` | User starts the login process |
 | `vama_login_success ` | Login is successful |
 | `vama_login_token_fetch ` | Debug event, error fetching the login token |
-| `vama_login_token_get ` | Success or failure of getting a refresh token |
 | `vama_login_token_refresh ` | Debug error attempting to initialize authentication with a refresh token |
 | `vama_login_token_store ` | The success or failure of storing a refresh token |
 | `vama_sso_cookie_received ` | Successful fetching of SSO cookies |
@@ -95,13 +94,9 @@ Last updated: 4/29/2025
 
 | Event Name | Purpose |
 | -------- | ------- |
-| `vama_accordion_click ` | Accordion component action with state information (open / close) |
 | `vama_pagination ` | Using pagination next / previous actions |
 | `vama_notification_click ` | Logging the registered app URL from a push notification |
-| `vama_segcontrol_click ` | Tab change on a segmented control |
 | `vama_toggle ` | Toggle options on the notification screen after allowing device notifications |
-| `vama_modalpick_open ` | Modal is shown to the user |
-| `vama_modalpick_sel ` | User selects an option in a modal |
 | `vama_click ` | Generic event to capture clicks, text, and screen information |
 | `vama_link_click ` | A link in the app was clicked, reports URL data |
 | `vama_link_confirm ` | A link to leave the app was clicked (not a webview) |
@@ -131,14 +126,10 @@ Last updated: 4/29/2025
 
 | Event Name | Purpose |
 | -------- | ------- |
-| `vama_hs_appts_count ` | Upcoming appointments count for the current authenticated user  |
 | `vama_hs_appts_load_time ` | Time from login to loading appointments on the homescreen |
-| `vama_hs_claims_count ` | Active claims count for the current authenticated user |
 | `vama_hs_claims_load_time ` | Time from login to loading active claims on the homescreen |
 | `vama_hs_load_time ` | Time from login to all completed API calls on the homescreen |
-| `vama_hs_rx_count ` | Refillable prescription count for the current authenticated user |
 | `vama_hs_rx_load_time ` | Time from login to loading refillable prescriptions on the homescreen |
-| `vama_hs_sm_count ` | Unread message count for an authenticated user |
 | `vama_hs_sm_load_time ` | Time from login to loading unread messages on the homescreen |
 
 ### Push Notifications
