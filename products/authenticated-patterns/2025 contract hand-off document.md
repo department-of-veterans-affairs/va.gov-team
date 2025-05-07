@@ -41,8 +41,9 @@ Patterns | Epic | Documentation | Collab Cycle, if any | Status
 # Team Members
 - Fran Cross, Agile6, Product manager
 - Lynn Stahl, Agile6, Product manager through April
-- Adam Whitlock, Ad Hoc, Lead software engineer
+- Adam Whitlock, Ad Hoc, Lead software engineer through early May
 - Belle Poopongpanit, Agile6, Software engineer
+- Alex Taker, Ad Hoc, Software engineer
 - Christine Rose Steiffer, Agile6, Design Lead
 - Kristen Faiferlick, Ad Hoc, UX Designer
 
