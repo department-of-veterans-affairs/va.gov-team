@@ -212,7 +212,7 @@ Pretend that your doorbell just rang, and you want to jump up to answer it. What
 ## Task 4: Resume filling out form
 OK, now let's say that you're back from answering the door. Please continue filling out the form that you were working on. 
 
-- [Record how resume: open browser tab / "Continue your request" link on form intro page / Link on My VA]
+- [Record how resume: open browser tab / "Continue your request" button on form intro page / Link on My VA]
 
 - [If needed, tell what to click to go to **Unauth (Lemon) / Auth (Apple) / My VA (Mango)**]
 
@@ -244,7 +244,7 @@ Say that you're really hungry and need to take a longer break to make lunch (or 
 ## Task 6: Resume filling out form (again)
 OK, pretend that you just finished your lunch (dinner). Now you want to get back to the form you were filling out. How would you do that?
 
-[Record how resume: open browser tab / "Continue your request" link on form intro page / Link on My VA]
+[Record how resume: open browser tab / "Continue your request" button on form intro page / Link on My VA]
 
 - [If needed, tell what to click to go to Unauth (Lemon) / Auth (Apple) / My VA (Mango)]
 
@@ -252,13 +252,16 @@ OK, pretend that you just finished your lunch (dinner). Now you want to get back
 - [Anything re saving info entered]
 - [See if go back to previous page to remember what they were doing]
 - [Anything re the progress bar? Steps vs. screens?]
-- [Anything re error messages]
+- [Anything re error messages? If so:
+  - Do they know what the error means?
+  - Do they know how to resolve the error?
+  - How do they want to find out about errors?] 
 
 [If see "can't submit your request" alert, say:] Don't worry! It's not working because this is a prototype, not a real form.
 
 # Post-Task Interview - 5 minutes
 
-*Type into #feedback-backchannel: "Any questions you want me to ask?"*
+[**Type into #feedback-backchannel**: "Any questions you want me to ask?"]
 1. Overall, about everything on the website in this session...What worked *well* for you?
 1. What was *unclear or didn't work well* for you?
 1. What would you like to *change or add*?
@@ -267,7 +270,7 @@ OK, pretend that you just finished your lunch (dinner). Now you want to get back
      1.  health care / education / other government form / online purchase /  _________________? 
 1. When do you expect the information you enter into an online form to be saved?
 
-     1. [Before / after submitting? Finish later button?]
+     1. [After every field / page / only after submitting / Finish later button?]
      1. If you walk away from the web page without clicking anything, what do you think will happen to the information you entered?
      1. [Do they recognize that their information is being saved all the time? Y / N]
 
