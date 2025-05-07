@@ -14,20 +14,8 @@ Help users to... Update prefilled information|[Original Epic](https://github.com
 Service list item component |   | [VADS documetation](https://design.va.gov/components/service-list-item); [Team Figma file](https://www.figma.com/design/ZIGDfSb8D5YLBdJavzDdqi/AE-Design-Patterns---Service-list?node-id=0-1&t=cfjBFHQtqWBGaRrv-1);  |  |  Finished | 
 Help users to... Manage benefits and tools | [Epic](https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/258) | [VADS documentation](https://design.va.gov/patterns/help-users-to/manage-benefits-and-tools); [Team Figma file](https://www.figma.com/design/ZIGDfSb8D5YLBdJavzDdqi/AE-Design-Patterns---Service-list?node-id=0-1&t=cfjBFHQtqWBGaRrv-1) | Collab [Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105516) | Finished |
 Critical Action Component | [Epic](https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/302) | [VADS documentation](https://design.va.gov/components/critical-action); [Team Figma file](https://www.figma.com/design/UOx5GSKdZW9GVAjy7078hT/AE-Design-Patterns---Critical-Action?node-id=0-1&t=KXmHDiPelm0bshPq-1)  | Collab [Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105516) | Finished |
-
-## In-progress patterns
-Pattern | Epic | Documentation | Collab Cycle, if any | Status
---- | --- | --- | --- | ---
 Marital Status | Original [Epic](TBD) | [Marital Status Pattern Design Decisions](https://docs.google.com/spreadsheets/d/1QF-FHZAW3fTNByj-2RWhnDAL7_qcLR_AjVrgA0-ubqM/edit?gid=0#gid=0); [Content Team Review Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108767); [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1742843561511/4f5e5e77a91df7e061628888f10dfb7b10309183); [Figma Designs](https://www.figma.com/design/Ie3VE755qGlK7ONjKGQpNd/AE-Design-Patterns---Marital-Status?node-id=1-128&p=f&t=PqLxgVJITaSqINah-0) | Staging Collab TBD | Designs are finalized, pending feedback from Content Team's review and 1010EZ Team's research 
 
- ## Future patterns
-Patterns | Epic | Documentation | Collab Cycle, if any | Status
---- | --- | --- | --- | ---
-[Personal Notification] [Pattern] Help users to... Know when there's a personal notification | [Epic](https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/19) | Documentation TBD | Collab Cycle TBD | Epic and tasks created |
-  |  |  |  |  |
-  |  |  |  |  |
-  |  |  |  |  |
-  |  |  |  |  |
 
 # AEDP Artifacts
 - [Sharepoint](https://dvagov.sharepoint.com/sites/TMFAuthenticatedExperienceDesignPatterns ) (must be on network)
@@ -37,6 +25,7 @@ Patterns | Epic | Documentation | Collab Cycle, if any | Status
 - Mural boards: (see links in tables above)
 - Slack channel (Agile6): #proj-va-design-patterns
 - Slack channel (DSVA): [#tmf-auth-exp-design-patterns](https://dsva.slack.com/archives/C07909N7U8Z)
+- Backlog of patterns considered and [tickets](https://github.com/orgs/department-of-veterans-affairs/projects/1314/views/4?sliceBy%5Bvalue%5D=_noValue)
 
 # Team Members
 - Fran Cross, Agile6, Product manager
