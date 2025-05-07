@@ -129,6 +129,7 @@ We are not:
 - [Collab Cycle Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83353)
 - [CAIA Review Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84170)
 - [Epic - Dependency Verification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62218)
+- [Project milestone](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1409)
 
 ### Timeline 
 - Design Intent: May 31, 2024
