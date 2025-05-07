@@ -2,7 +2,7 @@
 
 ## Overview
 
-- We request user feedback from Contact Center - [here's the process](#how-to-request-and-process-medallia-feedback). For help, reach out in #vsp-contact-center-support
+- We request user feedback from Contact Center - [here's the process](#how-to-request-and-process-medallia-feedback). For help, reach out in [#vsp-contact-center-support](https://dsva.slack.com/archives/CNCEXNXK4)
 - Appointments user feedback is captured in [this sharepoint folder](https://dvagov.sharepoint.com/sites/HealthApartment/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FHealthApartment%2FShared%20Documents%2FAppointments%2FUser%20Feedback&viewid=9384f3a8%2De3e8%2D4abb%2Db2ab%2D24cf305ccdac&newTargetListUrl=%2Fsites%2FHealthApartment%2FShared%20Documents&viewpath=%2Fsites%2FHealthApartment%2FShared%20Documents%2FForms%2FAllItems%2Easpx)
 - Analytics from the likert scales in these reports are captured in the [MHV CSAT Dashboard in Domo](https://va-gov.domo.com/page/601491420?userId=917050460)
 
@@ -35,7 +35,7 @@ Every week we analyze feedback from the previous week and report to OCTO and the
 - Filter the Medallia sheet by the date range you're analyzing
 - Add a second filter on the codes column for any cell that contains `quote`.
 - Copy the quotes into the [Select Quotes sheet](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Appointments/User%20Feedback/2025%20Analysis%20-%20Select%20Quotes.docx?d=w2738630d47d64de68e05cef933b39cea&csf=1&web=1&e=mHnZM7) (2025 example)
-- Share links to both the updated spreadsheet and Select Quotes document in the `#appointments-fe-meetup channel`. Note the dates of the updated date, and ping Kay, Kristen, and Robyn Singleton. 
+- Share links to both the updated spreadsheet and Select Quotes document in the `#appointments-fe-meetup` channel. Note the dates of the updated date, and ping Kay, Kristen, and Robyn Singleton. 
 - Add the links to the Medallia ticket and close it.
 
 ### Monthly IVC reports 
@@ -61,7 +61,7 @@ The spreadsheet, and instructions on how to update it, are [here](https://dvagov
 
 ## How to Request and Process Medallia Feedback
 
-1 . Using the template below, submit a ticket in GitHub to Contact Center to collect the Medallia feedback. 
+1. Using the template below, submit a ticket in GitHub to Contact Center to collect the Medallia feedback. 
 2. If you want feedback delivered on a regular basis (daily/weekly/monthly note that in a comment in the generated ticket).
 3. Add a tracking ticket to [this Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102341)
 
