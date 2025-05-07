@@ -1,4 +1,4 @@
-# Firebase Events recommende for removal
+# Firebase Events recommended for removal
 
 [Reference document](firebase-events.md)
 
