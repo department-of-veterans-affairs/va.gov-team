@@ -78,6 +78,7 @@ disruption and loss of deployment velocity.
   - **Security & Compliance:** Must be configured to meet VA’s security requirements (ATO), including hardening, logging, and continuous monitoring.
   - **ATO Complexity:** Although hosted on AWS, environments still need VA-specific accreditation, risk acceptance or a cATO setup
   - **Setup Time:** Requires cloud team involvement and CI/CD engineering support.
+  - **Setup Note:** AWS govcloud does not offer AWS EC2 MacOS instances. This will require us to have a commercial AWS account.
 
 ### Option 3: Use Third-Party CI Tools with macOS Support
 
