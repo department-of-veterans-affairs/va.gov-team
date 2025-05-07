@@ -186,6 +186,8 @@ Please **talk aloud** about what you're thinking BEFORE clicking on anything. An
 ## Task 2: Fill out form [never reload the page]
 Please fill out this form to request your own military records, but I want you to use fake details so you don't share your personal information with me. 
 
+[If p is quiet] Please talk aloud about any thoughts, reactions, and questions you have.
+
 ### Watch for:
 - [Notice "We'll save your application on every change"? Y / N]
 - [Anything re the progress bar? Steps vs. screens?]
@@ -218,6 +220,8 @@ OK, now let's say that you're back from answering the door. Please continue fill
 
 - [Can also get to My VA from header link and from Chris dropdown menu]
 
+[If p is quiet] Please talk aloud about any thoughts, reactions, and questions you have.
+
 ### Watch for:
 - [Anything re saving info entered]
 - [See if go back to previous page to remember what they were doing]
@@ -248,6 +252,8 @@ OK, pretend that you just finished your lunch (dinner). Now you want to get back
 
 - [If needed, tell what to click to go to Unauth (Lemon) / Auth (Apple) / My VA (Mango)]
 
+[If p is quiet] Please talk aloud about any thoughts, reactions, and questions you have.
+
 ### Watch for:
 - [Anything re saving info entered]
 - [See if go back to previous page to remember what they were doing]
@@ -264,6 +270,7 @@ OK, pretend that you just finished your lunch (dinner). Now you want to get back
 [**Type into #feedback-backchannel**: "Any questions you want me to ask?"]
 1. Overall, about everything on the website in this session...What worked *well* for you?
 1. What was *unclear or didn't work well* for you?
+     - [If they say nothing, could ask:] What, if anything, did you find annoying?
 1. What would you like to *change or add*?
 1. What kinds of online forms have you filled out before, and how does the process compare to the VA form you filled out today? 
 
