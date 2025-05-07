@@ -187,7 +187,7 @@ Please **talk aloud** about what you're thinking BEFORE clicking on anything. An
 Please fill out this form to request your own military records, but I want you to use fake details so you don't share your personal information with me. 
 
 ### Watch for:
-- [Notice "We'll save your application on every change"? Y / N]]
+- [Notice "We'll save your application on every change"? Y / N]
 - [Anything re the progress bar? Steps vs. screens?]
 - [Anything re error messages? If so:
   - Do they know what the error means?
@@ -228,11 +228,11 @@ OK, now let's say that you're back from answering the door. Please continue fill
   - How do they want to find out about errors?] 
 
 ## Task 5: (After specify records, after Continue) Long break in filling out form
-Say that you're really hungry and need to take a longer break to make lunch (or dinner). What will you do with the form that you're filling out?
+Say that you're really hungry and need to take a longer break to make a snack/lunch/dinner. What will you do with the form that you're filling out?
 
 - [leave open in browser / close browser / Finish later button / __________________]
 
-- *[If "leave open in browser")*, ASK:
+- *[If "leave open in browser"*, ASK:]
      - What if you were filling out this form in a public place, such as a library?
      - If you leave the browser open and go away, you'll be signed out after 30 minutes. What do you think will happen to the information you entered? 
 
