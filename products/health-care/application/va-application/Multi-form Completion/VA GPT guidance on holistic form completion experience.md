@@ -1,5 +1,7 @@
 # VA GPT prompt and answer for integrating the EZ, CG and CHAMPVA forms into a holistic experience
 
+- [Additional prompts and context for the forms and the relationship between them](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/IVC%20%26%20Health%20Apps%20team%20connections/VA%20GPT%20guidance%20on%20Health%20apps%20and%20CHAMPVA%20form%20relation%20and%20integration.md)
+
 ## Prompt
 - How could we integrate the 10-10EZ, 10-10D and 10-10CG forms as a whole experience
 
