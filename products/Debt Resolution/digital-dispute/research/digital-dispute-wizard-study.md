@@ -185,21 +185,21 @@ Does this question serve the goals of my study?
 
 1.  **Understand baseline & mental models**: What experience, if any, do Veterans have with seeking debt relief and contesting VBA/VHA charges? What channels have they used to understand what they need to do? How easy is it for them to understand what they need to do through the information supplied in the 'Wizard' in contrast to what they have done previously?
     
-3.  **Understand Navigation & Wayfinding**: How easy is it for Veterans to navigate the Manage VA Debt page, “Options to request help with VA debt” R&S page (“Wizard”), FSR intro page, Digital Dispute form debt portal, from the intro pages all the way to finding the information they need?
+2.  **Understand Navigation & Wayfinding**: How easy is it for Veterans to navigate the Manage VA Debt page, “Options to request help with VA debt” R&S page (“Wizard”), FSR intro page, Digital Dispute form debt portal, from the intro pages all the way to finding the information they need?
 
 **Measuring**: time to complete tasks, error rates
     
-4. **Understand Findability & Wayfinding**: How easy is it for Veterans to find the digital dispute form? (findability)
+3. **Understand Findability & Wayfinding**: How easy is it for Veterans to find the digital dispute form? (findability)
 
 **Measuring**: time to complete tasks
     
-6. **Understand Findability & Wayfinding**: Given that there are 2 paths Veterans can take to find the dispute form, which one do most Veterans take to find the dispute form? (this will be a task, and we will measure time on task)
+4. **Understand Findability & Wayfinding**: Given that there are 2 paths Veterans can take to find the dispute form, which one do most Veterans take to find the dispute form? (this will be a task, and we will measure time on task)
    
-7. **Understand Comprehension**: How understandable is the information on the “Options to request help with VA debt” R&S page? 
+5. **Understand Comprehension**: How understandable is the information on the “Options to request help with VA debt” R&S page? 
     
-7. **Understand Usability & Comprehension**: How is navigation and understanding of the Digital Dispute form itself?
+6. **Understand Usability & Comprehension**: How is navigation and understanding of the Digital Dispute form itself?
 
-8. **Understand Navigation & Accessibility** How easy is it for Veterans using screen readers to navigate through the pages from intro pages to Digital Dispute form?
+7. **Understand Navigation & Accessibility** How easy is it for Veterans using screen readers to navigate through the pages from intro pages to Digital Dispute form?
 
 
 
