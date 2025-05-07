@@ -1,6 +1,6 @@
 ---
-name: Disability Benefits Team Bug Template
-about: Bug issues for Disability Benefits Team 
+name: Disability Benefits Team Issue Template
+about: Issues for Disability Benefits Team 
 title: ''
 labels: disability-experience, needs-refinement
 assignees: ''
