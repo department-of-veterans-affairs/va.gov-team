@@ -1,10 +1,9 @@
 # Product Brief: Supplemental Claim Form (20-0995)
 
-### Team Communications
-
+## Team Communications
 - **Government lead**: Amy Lai
 - **Slack channel**: [#benefits-decision-reviews](https://dsva.slack.com/archives/C5AGLBNRK)
-- **Github labels**: benefits-team-1
+- **Github labels**: team-DRAGONS, Decision-Reviews-Team
 
 ### Core Team  
   
@@ -12,16 +11,16 @@
 |----|----|-----|
 |Amy Lai|Product Owner, Gov't Lead| amy.lai2@va.gov |
 |Julie Strothman|Design Lead, VA| julie.strothman@va.gov|
-|Cory Sohrakoff|Enginnering Lead, VA| Cory.T.Sohrakoff@omb.eop.gov|
-|Maurice DeBeary|Product Manager| maurice.debeary@coforma.io|
-|Shaun Burdick |Engineering Lead| shaun.burdick@coforma.io|
-|Eileen Chi| Research & Design |eileen.chi@coforma.io |
-|David Kennedy| Accessibility Lead | david.kennedy@adhocteam.us |
-|Robin Garrison |FE Engineer| robin.garrison@adhocteam.us |
-|Derek Fong | BE Engineer | derek.fong@adhocteam.us |
-|Molly Trombley-McCann | Engineer | molly.trombley-mccann@coforma.io |
-|Silke Dannemann|Delivery Manager|silke.dannemann@va.gov|
-|Michael Hobson | Product Manager, Lighthouse | michael.hobson@adhocteam.us |
+|Cory Sohrakoff|Engineering Lead, VA| Cory.T.Sohrakoff@omb.eop.gov|
+|Pam Macalintal|Delivery Manager|pam.macalintal@agile6.com|
+|Christian Crumlish|Product Manager| ccrumlish@kindsys.us|
+|Lauren Dawson| UX Researcher/Designer |lauren.dawson@agile6.com |
+|Kyra Berman-Gestring| UX Researcher/Designer |kyra.berman-gestring@agile6.com |
+|Tracy Tran| Accessibility Engineer | tracy.tran@agile6.com |
+|Cindy Lackey | Content Designer/Strategist | cindy.lackey@coa.solutions |
+|Grace Xu |Engineering Lead| gxu@kindsys.us|
+|Jerry Sea |Full Stack Engineer| jsea@kindsys.us |
+|Randi Mays | Full Stack Engineer | rmays@kindsys.us |
 
 ### VBA Subject Matter Experts  
 
@@ -29,12 +28,13 @@
 |----|----|-----|
 |Andrew Gray |Senior Automation Strategist, VBA OBA| andrew.gray@va.gov|
 |Alejandro Mendiolaflores |Senior Analyst, VBA OBA| alejandro.mendiolaflores@va.gov |
-
 ---
 
 ## Executive Summary
 
 ### Overview
+https://www.va.gov/decision-reviews/supplemental-claim/
+
 The supplemental claim service is the final decision review pathway to be digitized on VA.gov. More than 32,000 supplemental claims are filed each month (more than double the number of board appeals and higher-level reviews, combined) which indicates that streamlining and enhancing this pathway has an outsized potential to impact the lives of Veterans and their families.
 
 A supplemental claim is a claim type filed for a benefit when the claimant disagrees with the decision VA made on an initial or supplemental claim for the same or similar benefit on the same or similar basis. To file a supplemental claim, claimants typically need to provide new and relevant evidence that establishes a theory of service connection. This evidence enables a reviewer to determine if they should change the previous decision. Claimants can use this decision review process in three ways:
@@ -127,25 +127,6 @@ We want users to choose the right (best) decision review option; that means we d
 - [Grafana - Supplemental Claims](https://grafana.vfs.va.gov/d/ejdUuxTVk/sc-supplemental-claims-dashboard?orgId=1)
 - [Sentry](http://sentry.vfs.va.gov/organizations/vsp/dashboard/10/?project=4&statsPeriod=7d)
 
-<!-- ## Context and Decisions
-
-*Additional context, background, or useful information*
-
-## Designs
-
-@benefits-team-1
-
-## How to Access and Test
-
-@benefits-team-1
-
-## Integrations and Error Handling
-
-*What integrations (upsteam & downstream) does the feature make use of? How does the feature surface errors? If necessary, how does one tranlate them so they're actionable?*
-
-@benefits-team-1
-
-## Appendix -->
 #### Discovery Artifacts
 [Lighthouse suppl claims API discoveryf](https://community.max.gov/pages/viewpage.action?spaceKey=VAExternal&title=Supplemental+Claim+-+Initiative+Brief)
 

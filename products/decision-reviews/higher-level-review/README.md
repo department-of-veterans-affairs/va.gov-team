@@ -1,5 +1,29 @@
 # Higher-Level Review - Aug 2024 Updates
 
+## Team Communications
+- **Government lead**: Amy Lai
+- **Slack channel**: [#benefits-decision-reviews](https://dsva.slack.com/archives/C5AGLBNRK)
+- **Github labels**: team-DRAGONS, Decision-Reviews-Team
+
+### Core Team  
+  
+|Name|Role|Email|
+|----|----|-----|
+|Amy Lai|Product Owner, Gov't Lead| amy.lai2@va.gov |
+|Julie Strothman|Design Lead, VA| julie.strothman@va.gov|
+|Cory Sohrakoff|Engineering Lead, VA| Cory.T.Sohrakoff@omb.eop.gov|
+|Pam Macalintal|Delivery Manager|pam.macalintal@agile6.com|
+|Christian Crumlish|Product Manager| ccrumlish@kindsys.us|
+|Lauren Dawson| UX Researcher/Designer |lauren.dawson@agile6.com |
+|Kyra Berman-Gestring| UX Researcher/Designer |kyra.berman-gestring@agile6.com |
+|Tracy Tran| Accessibility Engineer | tracy.tran@agile6.com |
+|Cindy Lackey | Content Designer/Strategist | cindy.lackey@coa.solutions |
+|Grace Xu |Engineering Lead| gxu@kindsys.us|
+|Jerry Sea |Full Stack Engineer| jsea@kindsys.us |
+|Randi Mays | Full Stack Engineer | rmays@kindsys.us |
+
+|Michael Hobson | Product Manager, Lighthouse | michael.hobson@adhocteam.us |
+
 #### Overview
 
  - Product: Higher-Level Review
