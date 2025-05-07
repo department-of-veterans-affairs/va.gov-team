@@ -65,11 +65,10 @@ NOTE: Screenshots below are taken from this [Figma file](https://www.figma.com/d
 
 </details>
 
-### Non-patient landing page (previously was MHV landing page: No access to MHV
+### Non-patient landing page (previously was MHV landing page: No access to MHV)
 
-<details><summary>MHV landing page: No access to MHV</summary>
-<img width="972" alt="Screenshot 2024-12-16 at 3 46 42 PM" src="https://github.com/user-attachments/assets/94231bd6-e773-45cb-bd71-5318642f80f3" />
-
+<details><summary>Non-patient landing page</summary>
+<img width="972" alt="Screenshot of non-patient landing page" src="https://github.com/user-attachments/assets/74581bb6-db77-4a0d-a9d5-489964b8b1c5" />
 
 </details>
 
