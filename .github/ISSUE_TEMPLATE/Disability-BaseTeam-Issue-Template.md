@@ -1,8 +1,8 @@
 ---
-name: DBC Base Team 2 Issue Template
-about: Issue template for the Disability Benefits Crew Team 2
+name: Disability Benefits Team Bug Template
+about: Bug issues for Disability Benefits Team 
 title: ''
-labels: DBC Base Team 2, needs-refinement
+labels: disability-experience, needs-refinement
 assignees: ''
 
 ---
