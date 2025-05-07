@@ -20,7 +20,8 @@
 
 
 ## Key Features of the Component:
-- TBD
+- Responsive: Tabs that do not fit on the screen are moved to a dropdown that will show tabs that don't fit on screen. This happens dynamically.
+- Behavior: Clicking or tapping a tab takes the user to a dedicated page. Each tab is a separate react-router Link. Navigating between tabs take the user to a distinct URL.
 - Accessibility: Ensures compliance with WCAG standards and maintains ease of use for all users.
 
 ## Timeline (TBD)
