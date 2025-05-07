@@ -23,7 +23,7 @@ disruption and loss of deployment velocity.
 - **macOS Dependency:** Required for iOS builds due to Apple’s restriction of Xcode to macOS  
 - **Current CI Model:** Cloud-hosted macOS runners on GitHub.com
 
-## Impact of Migration to Azure GitHub Enterprise
+## Impact of Migration
 
 | Area                     | Impact                                                                 |
 |--------------------------|------------------------------------------------------------------------|
