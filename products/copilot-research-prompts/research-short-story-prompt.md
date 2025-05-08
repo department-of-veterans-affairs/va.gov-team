@@ -1,6 +1,6 @@
 # Purpose of the Prompt
 
-This prompt is designed to help summarize research reports in markdown format while maintaining a structured, user-friendly layout. The goal is to generate clear, concise, and accessible summaries that highlight key insights, nuanced analysis, and actionable next steps.
+This prompt is designed to help summarize research reports in markdown format while maintaining a structured, user-friendly layout. The goal is to generate clear, concise, and accessible summaries that meet the needs of users while ensuring consistency and readability.
 
 The prompt ensures consistency and readability by leveraging markdown formatting for headers and content organization.
 
@@ -37,24 +37,26 @@ Formatting:
 - The summary must be written in markdown format.
 - Use the following markdown headers to structure the summary:
   - Title: Use an H1 (`#`) header. Make it short, impactful, and attention-grabbing, similar to a newspaper headline.
+  - Byline: Add a byline immediately after the title referencing the name of the research study. Use italicized text.
   - Subsections: Use H2 (`##`) headers for all other sections.
 
 Content Structure:
 1. **Title**: Write a short, impactful headline.
-2. **tl;dr (too long, didn’t read)**: Use the `##` header. Provide a headline summary of the study.
-3. **What we did**: Use the `##` header. Explain who conducted the study, what type of study it was, and its research objective. 
+2. **Byline**: Add a byline immediately after the title. Reference the name of the research study in italicized text (e.g., *"Insights from the Veteran Homepage Study"*).
+3. **tl;dr (too long, didn’t read)**: Use the `##` header. Provide a headline summary of the study.
+4. **What we did**: Use the `##` header. Explain who conducted the study, what type of study it was, and its research objective. 
    - Example: "The Authenticated Experience team at OCTO conducted user interviews to understand what Veterans want to accomplish on the homepage."
-4. **Key insights**: Use the `##` header. Provide 3-5 bullet points summarizing the key insights from the study. Ensure:
+5. **Key insights**: Use the `##` header. Provide 3-5 bullet points summarizing the key insights from the study. Ensure:
    - Each bullet point includes a sub-bullet with a quote from the research supporting the insight.
    - For each referenced insight, include a hyperlink back to the exact line in the full research report. Add the line reference in parentheses for the insight.
      - Example:
        - Insight: Veterans value simplicity on the homepage. ([Line 34](#))
          - Quote: “I just want to find what I need quickly, without too much scrolling.”
-5. **Between the lines**: Use the `##` header. Add nuanced insight or analysis here.
-6. **Yes, but**: Use the `##` header. Introduce a counterpoint or alternative perspective here.
-7. **Why it matters**: Use the `##` header. Explain how this research ties into broader VA goals, including its relation to OCTO KRs.
-8. **What’s next**: Use the `##` header. Outline the next steps based on this research.
-9. **Go deeper**: Use the `##` header. Leave a space to link to the full research report.
+6. **Between the lines**: Use the `##` header. Add nuanced insight or analysis here.
+7. **Yes, but**: Use the `##` header. Introduce a counterpoint or alternative perspective here.
+8. **Why it matters**: Use the `##` header. Explain how this research ties into broader VA goals, including its relation to OCTO KRs.
+9. **What’s next**: Use the `##` header. Outline the next steps based on this research.
+10. **Go deeper**: Use the `##` header. Leave a space to link to the full research report.
 
 Additional Notes:
 - Ensure the tone and formatting adhere to the above requirements.
