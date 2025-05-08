@@ -59,6 +59,8 @@ In our `app/controllers/v0/my_va/submission_statuses_controller.rb` we have a li
 #### What are uploadable forms?
 > (...) Users can now not only download a PDF in the Find a form section of the site, but they can now upload that form back to us without leaving VA.gov in a modern and accessible way. The tool is rolling out slowly for Benefits forms. It is only active for 6 forms thus far but with more to follow. You can play around with the tool in Staging. (...)
 
+[Form Upload Feature Documentation](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/tree/main/Forms/DocumentUpload_FindaForm#readme)
+
 
 #### Already Included Forms:
 | Form Name                                                                             | Form ID       |
