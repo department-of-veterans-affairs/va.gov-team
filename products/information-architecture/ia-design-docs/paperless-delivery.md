@@ -1,5 +1,5 @@
 # IA Design for Paperless Delivery Opt-in in Profile
-**STATUS: Needs review
+**STATUS: Complete - will update URLS when labels are determined after research
 
 **Team:** IIR
 
