@@ -39,7 +39,21 @@ So far, there are 5 steps (pages) to
 collect payment from Veterans for copays. 
 > Is it possible to consolidate these 5 pages on one hosted page?
 
-**8. From a UI/UX perspective, will we need two different interfaces, one for pay.va.gov experience and one for pay.gov?** 
+**8. From a UI/UX perspective, will we need two different interfaces, one for pay.va.gov experience and one for pay.gov?**
+
+**9. Pay.va.gov uses pay.gov under the hood? If so, do we have a contac there?
+
+**10. How do we support/do we support paying multiple debts with one payment? Seems like pay.va.gov just uses an account number to associate a payment with a veteran? In fact, how do we even associate a single debt to a payment?
+
+**11. It looks like pay.gov sends emails including confirmation and recurring payment reminders. Are there any others? For example, what happens if a recurring payment method goes bad?
+
+**12. How does DMC find out about payments made?
+
+**13. Is there any particular reason we are not using "non-interactive services"? Just curious. Seems like the Hosted collection approach has been chosen already.
+
+**14. Who was the latest integration? Peace corps? Is there another example with a payment being tied to an entity like in our case possibly a debt? How long did the PeaceCorps/latest integration take?
+
+**15. Do we need to store anything like the tracking ID?
 
 
 
