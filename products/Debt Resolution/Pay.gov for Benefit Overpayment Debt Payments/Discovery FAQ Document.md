@@ -55,11 +55,6 @@ collect payment from Veterans for copays.
 
 **15. Do we need to store anything like the tracking ID?
 
-**16. 
-
-
-
-
 
 
 [See notes from meeting on 4/24](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107630#issuecomment-2828988071)
