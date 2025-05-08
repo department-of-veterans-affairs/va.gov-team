@@ -2,7 +2,7 @@
 | -------- | ------- | ------- | ------- | ------- | ------- | ------- |
 | 527EZ | Megan Graham |  | |  |  | Kristen waiting for response from Megan |
 | 10-10EZ | Renata and Heiu | |  |  |  |  |
-| 10-10EZR |  | |  |  |  |  |
+| 10-10EZR | Renata and Heiu | |  |  |  |  |
 | 21-686c |  | |  |  |  |  |
 | 10-10D |  | |  |  |  | Kristen waiting for a response from Jamie Fiore |
 | 5655 |  |  |  |  |  |  |
