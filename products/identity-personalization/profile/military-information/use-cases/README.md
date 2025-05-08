@@ -58,7 +58,7 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 </details>
 
 
-<details><summary>User does not have a Department of Defense ID or service history</summary>
+<details><summary>CONFIRM STATUS CODES User does not have a Department of Defense ID or service history</summary>
 
 - **Use case:** DEERS does not return a DoD ID or service history.
 - **Status code:** 403 CONFIRM STATUS CODES
