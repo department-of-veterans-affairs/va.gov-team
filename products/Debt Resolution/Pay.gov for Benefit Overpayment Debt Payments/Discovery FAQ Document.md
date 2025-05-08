@@ -41,6 +41,9 @@ collect payment from Veterans for copays.
 
 **8. From a UI/UX perspective, will we need two different interfaces, one for pay.va.gov experience and one for pay.gov?**
 
+**9. On pages hosted on Pay.gov ('Select a payment type' and 'Provide payment information'):** 
+  - *Documentation 7.2 Header Image* mentions the option of selecting a header image. Can custom code also be placed in the header and footer area?
+
 **9. Pay.va.gov uses pay.gov under the hood? If so, do we have a contac there?
 
 **10. How do we support/do we support paying multiple debts with one payment? Seems like pay.va.gov just uses an account number to associate a payment with a veteran? In fact, how do we even associate a single debt to a payment?
