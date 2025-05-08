@@ -1,6 +1,7 @@
 # Multi-form completion - Initiative Brief
 - Epic - [#103260](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103260)
 - Design file - TBD
+- [VA GPT guidance on creating a holistic experience](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Multi-form%20Completion/VA%20GPT%20guidance%20on%20holistic%20form%20completion%20experience.md)
 
 ## Outcome Summary
 - Enabling Veterans to complete multiple forms using the same data input.
