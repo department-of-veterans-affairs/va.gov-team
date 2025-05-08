@@ -44,10 +44,12 @@ Content Structure:
 2. **tl;dr (too long, didn’t read)**: Use the `##` header. Provide a headline summary of the study.
 3. **What we did**: Use the `##` header. Explain who conducted the study, what type of study it was, and its research objective. 
    - Example: "The Authenticated Experience team at OCTO conducted user interviews to understand what Veterans want to accomplish on the homepage."
-4. **Key insights**: Use the `##` header. Provide 3-5 bullet points summarizing the key insights from the study. Each bullet point must include a sub-bullet with a quote from the research supporting the key insight.
-   - Example:
-     - Insight: Veterans value simplicity on the homepage.
-       - Quote: “I just want to find what I need quickly, without too much scrolling.”
+4. **Key insights**: Use the `##` header. Provide 3-5 bullet points summarizing the key insights from the study. Ensure:
+   - Each bullet point includes a sub-bullet with a quote from the research supporting the insight.
+   - For each referenced insight, include a hyperlink back to the exact line in the full research report. Add the line reference in parentheses for the insight.
+     - Example:
+       - Insight: Veterans value simplicity on the homepage. ([Line 34](#))
+         - Quote: “I just want to find what I need quickly, without too much scrolling.”
 5. **Between the lines**: Use the `##` header. Add nuanced insight or analysis here.
 6. **Yes, but**: Use the `##` header. Introduce a counterpoint or alternative perspective here.
 7. **Why it matters**: Use the `##` header. Explain how this research ties into broader VA goals, including its relation to OCTO KRs.
