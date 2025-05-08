@@ -14,15 +14,19 @@
 
 ## Release Plan Overview Phase 2: Redesign form and update design patterns to v3
 
-| Phase | Duration | Users | Dates |
+| Phase | Duration | Authenticated Users | Dates |
 |---|---|---|---|
 |QA: Staging |1 week|TBD|Dec 2024 - Feb 2025|
 |Accessibility Audit |3 days|TBD|January 2025|
 |Staging Review |2 days|TBD|February 25, 2025|
 |Phase 0: Staging testing |2 days|TBD|February 2025|
 |Phase 1: Canary production testing |3 hours|10 claims|TBD|
-|Phase 1A: 100% of users| indefinite | 100% users (auth and non-auth) |TBD|
-|Phase 3: Retire V1| permanent | 100% users (auth and non-auth)|TBD|
+|Phase 2A: 1% of users| 7 days | 1% users |TBD|
+|Phase 2B: 25% of users| 7 days | 25% users |TBD|
+|Phase 2C: 50% of users| 7 days | 50% users |TBD|
+|Phase 2D: 75% of users| 7 days | 75% users |TBD|
+|Phase 2E: 100% of users| 60 days | 100% users |TBD|
+|Phase 3: Retire V1| permanent | 100% users|TBD|
 
 Considerations
 - Form volume is typically 25,000-40,000 submissions per month
@@ -48,24 +52,23 @@ The form updates will be broken into two phases to expidite improvements to the 
 [Release plan user flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1714073866859/62dbc2bda8fa99a2d87d3e5ed9103d99f96b8769?wid=522-1714073889846)
 
 ### The phase 2 release plan will need to consider the following [use cases](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1714073866859/62dbc2bda8fa99a2d87d3e5ed9103d99f96b8769?wid=522-1714073889846):
-1. Applications In-Progress (active session)
-   - After 100% release:
-      - If users are in an active session, they will be taken back to the start of the form and any data they entered on v1 of the form will appear in the new v2 form. The users will then review their data on v2 of the form and finish completing their v2 submission.
-2. Applications In-Progress (non-active session)
-      - If users start a form before the updated, leave the active session, and then return after the form updates, they will be taken back to the start of the form and see an [info alert](https://www.figma.com/design/7W55oNwdVXvXOTI9SaFzQ7/686c-Add-or-Remove-Dependents?node-id=3607-35894&t=6VbyLPxmE0TkiFGp-1) noting that the form has been updated. All of their v1 form data will appear in the v2 form.
-3. Applications Not Started
-   - After 100% release
-      - Users will complete v2.
+1. Feature toggle enabled during release:
+   - If users have an in-progress v1 form, they will continue their v1 session
+   - If users have an in-progress v2 form, they will continue their v2 session
+   - If users have an in-progress form _past_ the 60 day limit of Phase 2E, they will be taken to the start of the v2 form and any data they entered on v1 of the form will appear in the new v2 form. An alert will be displayed indicating that a new form has been released and they must start over, but all of their existing data should remain intact within the v2 form
+   - If users do not have an in-progress form, they will start a new v2 flow
+2. Feature toggle disabled during release:
+   - If users have an in-progress form, they will continue v1 flow
+   - If users do not have an in-progress form, they will start a new v1 flow
 
-**Needs Updating**
-| User Type | Flipper Status | Form in Progress | Visible Form | V2 Info Content Displayed | Data Migrated |
+| User Type | Flipper Status | Form in Progress | Visible Form | Switch to V2 alert displayed | Data Migrated |
 |---|---|---|---|---|---|
-| Authenticated Users | Disabled | No | v1 Form | No | No |
-| Authenticated Users | Disabled | Yes, v1 | v1 Form | No | No |
-| Authenticated Users | Disabled | Yes, v2 | v2 Form | Yes | No |
-| Authenticated Users | Enabled | No | v2 Form | No | Yes |
-| Authenticated Users | Enabled | Yes, v1 | v2 Form | Yes | Yes |
-| Authenticated Users | Enabled | Yes, v2 | v2 Form | Yes | No |
+| Authenticated Users | Enabled | Yes, v1 | v1 | No | No |
+| Authenticated Users | Enabled | Yes, v2 | v2 | No | No |
+| Authenticated Users | Enabled | Yes, v1 but past 60 days of full release | v2 | Yes | Yes |
+| Authenticated Users | Enabled | No | v2 | No | No |
+| Authenticated Users | Disabled | Yes, v1 | v1 | No | No |
+| Authenticated Users | Disabled | No | v1 | No | No |
 
 ### This phase 2 release will include the following components:
 1. Form field updates on some pages
@@ -77,21 +80,15 @@ The form updates will be broken into two phases to expidite improvements to the 
 
 ## Step 1: Development
 
-You'll need to create a feature toggle (or two) for any moderately or significantly changing feature. Follow the [best practices for creating feature toggles](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles).
-
-List the features toggles here.
+We have a single feature toggle which we will use to transition from v1 to v2: 
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| TBD | Enable the v2 form |
-| TBD | vets-website v2 toggle |
-| TBD | vets-api v2 toggle |
+| `va_dependents_v2` | Enable the v2 form |
 
 ## Step 2: Validation
 
-Since we use a [continuous delivery](https://depo-platform-documentation.scrollhelp.site/developer-docs/deployment-process) model, once code is in the `main` branch, it will be deployed that day. 
-
-Before enabling your feature toggle in production, you'll need to:
+Before enabling your feature toggle in production, we will:
 
 - [ ] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
 - [ ] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
@@ -101,46 +98,6 @@ Before enabling your feature toggle in production, you'll need to:
   - [ ] review the release plan with your team.
 
 ## Step 3: Production rollout
-- 1 day before release: An [info alert banner](https://www.figma.com/design/7W55oNwdVXvXOTI9SaFzQ7/686c-Add-or-Remove-Dependents?node-id=5201-37740&t=8ZxCIVyFDYV4Zawb-0) will be added to the top of every form page to alert users that the form will be undergoing maintenance on a specific date and they will be taken back to the start of the form to review their information before they submit.
-- Release: Flipper will be enabled in production.
-   - In-progress active sessions will continue through to the submission page. When the user clicks submit, they will be redirected back to the start of the form and alerted of the udpate and asked to review their information.
-   - In-progress non-active sessions will re-start the form at the information page and see an alert notifying them of the udpate and asking them to review their information.
-   - Inactive (new) users will see the info alert on the information page notifying them that the form has been updated.
-
-<!--
-### Do I need a staged rollout?
-
-**Yes**, a staged rollout is required unless you can confidently answer "yes" to all of the following:
-
-- This change does not add substantial new functionality to VA.gov
-- This change does not impact user flows through tasks
-- This change does not affect traffic to backend services
-
-*Example*: a change to a page's text content **could skip** staged rollout
-
-*Example*: a minor visual redesign to a page that doesn't affect user flows **could skip** staged rollout
-
-*Example*: adding a new field to an existing form **could skip** staged rollout
-
-*Example*: a new feature on an existing application that creates new backend traffic **needs staged rollout**
-
-*Example*: a significant change to how users navigate an existing form **needs staged rollout**
-
-*Example*: a feature that will route significantly more users (and therefore more backend traffic) to an existing application **needs staged rollout**
-
-#### Exceptions
-
-Currently, [feature toggles](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/platform/tools/feature-toggles/) are the primary tool VSP provides for facilitating staged rollout. If feature toggles don't work for your use case, you can request an exception from staged rollout in Staging Review.
-
-| Feature type | Possible with feature toggles? |
-| --- | --- |
-| New feature in existing application | Yes |
-| New application | Yes |
-| Static content changes | Doable but tricky |
-| URL redirects | No |
-
-DEPO VSP / OCTO leads can approve other exceptions to this requirement.
--->
 
 ### Define the Rollback process
 
@@ -153,17 +110,25 @@ Rollback plan:
    - New users will be directed to v1 of the form.
 
 ## Phase I: LAUNCH
-The 686/674 form flow underwent significant updates to all pages within the form flow, which makes it difficult to provide a phased launch experience for users without significant risk. Because of this, the url for the v1 form will be redirected to the v2 form on the backend, so that any form data already entered/saved will "migrate" to the v2 form when the user tries to submit the form. We acknowledge that allowing an active user to continue through the v1 form and then redirecting them when they try to submit is not ideal, but there are siginifcant limitations within the form experience that prevent us from "catching" and redirecting them during their active session. 
+The 686/674 form flow underwent significant updates to all pages within the form flow so we do plan on releasing v2 as a phased launch experience. As we will need to have both forms enabled at the same time, if the feature toggle is enabled and the Veteran is to fill out the v2 flow, the v1 form will redirect the Veteran to the v2 flow on the frontend. Form data migration will need to be accomplished on the backend.
 
 #### Rollout Planning
 
-### Stage A: Canary
+- Desired date range: 1 month
+- How will you make the product available in production while limiting the number of users who can find/access it: Flipper
+- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
+  - Submission volume:
+  - Error rate: <1%
+- Links to the dashboard(s) showing "success criteria" metrics: [DataDog Dashboard](https://vagov.ddog-gov.com/dashboard/vad-969-xqc/benefits-dependents-686674)
+- Who is monitoring the dashboard(s)?: Product Manager (Laura Steele), Engineering Lead (Matthew Knight), and OCTO PO (Sanja Bajovic)
+
+### Stage A: Canary (unmoderated production testing)
 
 *Test a small Veteran population to ensure any obvious bugs/edge cases are found.*
 
 #### Planning
 
-- Length of time: 10 submissions (estimated 4 hours)
+- Length of time: 10 submissions (estimated 3 hours)
 - Percentage of Users (and roughly how many users do you expect this to be): 5% of daily submission
 
 #### Results
@@ -174,12 +139,14 @@ The 686/674 form flow underwent significant updates to all pages within the form
 - Types of errors logged:
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? None
 
-### Stage B: 100% of users
+### Stage B: 1% of users
+
+*Test a small Veteran population to ensure any obvious bugs/edge cases are found.*
 
 #### Planning
 
-- Length of time: Indefinite
-- Percentage of Users (and roughly how many users do you expect this to be): 100%
+- Length of time: 1 week
+- Percentage of Users (and roughly how many users do you expect this to be): 1% (250-400 users)
 
 #### Results
 
@@ -189,48 +156,13 @@ The 686/674 form flow underwent significant updates to all pages within the form
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-
-
-<!---
-### Phase II: Canary Testing (unmoderated production testing)
-
-We recommend that the rollout plan has five stages, each increasing the number of Veterans. This plan is a strongly recommended guideline but should only be deviated for precise reasons.
-
-#### Rollout Planning
-
-- Desired date range: 1 day
-- How will you make the product available in production while limiting the number of users who can find/access it: Flipper
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
-  - Submission volume:
-  - Error rate: <1%
-- Links to the dashboard(s) showing "success criteria" metrics: DataDog Dashboard TBD
-- Who is monitoring the dashboard(s)?: Product Manager (Laura Steele), Engineering Lead (Matthew Knight), and OCTO PO (Sanja Bajovic)
-
-
-### Stage A: Canary
-
-*Test a small Veteran population to ensure any obvious bugs/edge cases are found.*
-
-#### Planning
-
-- Length of time: 10 submissions (estimated 4 hours)
-- Percentage of Users (and roughly how many users do you expect this to be): 20% of daily submission
-
-#### Results
-
-- Number of unique users: 10
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: No
-- Types of errors logged:
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? None
-
-### Stage B: 25% of users
+### Stage C: 25% of users
 
 *Test a larger user population to ensure larger usage patterns expose no issues.*
 
 #### Planning
 
-- Length of time: 2 days
+- Length of time: 1 week
 - Percentage of Users (and roughly how many users do you expect this to be): 25%
 
 #### Results
@@ -241,13 +173,13 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-### Stage C: 50% of users
+### Stage D: 50% of users
 
 *Test a larger user population to ensure larger usage patterns expose no issues.*
 
 #### Planning
 
-- Length of time: 2 days
+- Length of time: 1 week
 - Percentage of Users (and roughly how many users do you expect this to be): 50%
 
 #### Results
@@ -258,13 +190,13 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-### Stage D: 75% of users
+### Stage E: 75% of users
 
 *Test a larger user population to ensure larger usage patterns expose no issues.*
 
 #### Planning
 
-- Length of time: 2 days
+- Length of time: 1 week
 - Percentage of Users (and roughly how many users do you expect this to be): 75%
 
 #### Results
@@ -275,11 +207,13 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-### Stage E: 100% of users
+### Stage F: 100% of users
+
+*Test a larger user population to ensure larger usage patterns expose no issues.*
 
 #### Planning
 
-- Length of time: 2 days
+- Length of time: 1 week
 - Percentage of Users (and roughly how many users do you expect this to be): 100%
 
 #### Results
@@ -289,8 +223,6 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
---->
-
 
 ## Post Launch metrics
 
