@@ -48,9 +48,9 @@ Content Structure:
    - Example: "The Authenticated Experience team at OCTO conducted user interviews to understand what Veterans want to accomplish on the homepage."
 5. **Key insights**: Use the `##` header. Provide 3-5 bullet points summarizing the key insights from the study. Ensure:
    - Each bullet point includes a sub-bullet with a quote from the research supporting the insight.
-   - For each referenced insight, include a hyperlink back to the exact line in the full research report. Add the line reference in parentheses for the insight.
+   - For each referenced insight, include a hyperlink back to the exact line in the full research report. Use the GitHub URL structure to link directly to the line (e.g., `https://github.com/{owner}/{repo}/blob/{branch}/{path}#L{line_number}`). Replace `{owner}`, `{repo}`, `{branch}`, `{path}`, and `{line_number}` with the appropriate values for the research report.
      - Example:
-       - Insight: Veterans value simplicity on the homepage. ([Line 34](#))
+       - Insight: Veterans value simplicity on the homepage. ([Line 34](https://github.com/department-of-veterans-affairs/va.gov-team/blob/main/research-report.md#L34))
          - Quote: “I just want to find what I need quickly, without too much scrolling.”
 6. **Between the lines**: Use the `##` header. Add nuanced insight or analysis here.
 7. **Yes, but**: Use the `##` header. Introduce a counterpoint or alternative perspective here.
