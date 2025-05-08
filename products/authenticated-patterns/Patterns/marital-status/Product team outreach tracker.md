@@ -1,5 +1,5 @@
 | Form number & name | Point of contact | Notes | Slack thread, if applicable | Meeting date | Meeting notes | Next steps |
-| -------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| --------------- | -------------- | ------------ | ------- | ------- | ------- | -------------- |
 | 527EZ | Megan Graham |  | |  |  | Kristen waiting for response from Megan |
 | 10-10EZ | Renata and Heiu | |  |  |  |  |
 | 10-10EZR | Renata and Heiu | |  |  |  |  |
