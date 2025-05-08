@@ -79,5 +79,5 @@ O1: VA’s digital experiences are the easiest and most efficient way to access 
 | Date | Notes | 
 | --- | --- | 
 |5/7/2025| The Financial Management team is working on getting a new Lighthouse API for Copayment Debts. This additional data will allow Veterans to see the current status of their copay balance and not have to see data from their last statement, which could be almost a month old and not reflective of any recent payments or changes that have occurred. There is no official timeline on the API yet, but is top priority and the Financial Management team believes it could be ready in a few months.|
-|5/7/2025| Demand Letters will not be part of this effort, as they are not even included on VA.gov.|
+|5/7/2025| Demand Letters will not be part of this effort, as they are not even included on VA.gov, but something the Financial Management team is working on. No timeline was provided.|
 |5/8/2025| Once the new Lighthouse API for Copayment Debts is built, the old API will not be deprecated. The Financial Management team said they may reduce the data of the previous API, but will continue to use it if data that isn't available on the new one (example the statements).|
