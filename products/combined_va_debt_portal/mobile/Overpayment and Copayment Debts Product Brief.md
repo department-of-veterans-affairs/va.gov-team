@@ -58,9 +58,12 @@ O1: VA’s digital experiences are the easiest and most efficient way to access 
 * The MFS team will work closely with the Financial Management Team on this initiative.  
 * The resources and support page on VA Debt can be found [here](https://www.va.gov/resources/va-debt-management/).   
 * From user research conducted by the Financial Management Team, they reported a key finding that “everyone was excited about the potential of a mobile app and the ability to manage their VA bills and debt in the mobile app”.    
-* On VA.gov, overpayment and copayment debt information are separated on the debt portal.  
-* For Veterans to pay their overpayments online, a new tab will open from VA.gov, taking them to [pay.va.gov](https://www.pay.va.gov/). According to the Financial Management team this system will be deprecated and Veterans will need a new method to process payments electronically.    
-* For Veterans to pay their copayments online, a new tab will open from VA.gov, taking them to pay.gov.   
+* On VA.gov, overpayment and copayment debt information are separated on the debt portal.
+* Statements are received for copayment debts, and demand letters are received for overpayment debts.
+* Demand letters will not be part of this effort, as they are not even available on VA.gov. 
+* For Veterans to pay their overpayments online, a new tab will open from VA.gov, taking them to [pay.va.gov](https://www.pay.va.gov/). According to the Financial Management team this system will be deprecated and Veterans will need a new method to process payments electronically.
+* Pay.va.gov is using pay.gov in the background, to ensure that Veterans are submitting a payment for a specific debt.    
+* For Veterans to pay their copayments online, a new tab will open from VA.gov, taking them to pay.gov. The Financial Management team is currently working with the pay.gov team to add a new functionality.  
 * According to the Financial Management Team, Veterans can have a lot of copayment debts.    
 * The Financial Status Report (VA Form 5655\) is a form to request debt resolution, debt compromise, or monthly debt payments.    
 * The streamlined waiver path of the Financial Status Report (FSR \- VA Form 5655\) is currently live and provides Veterans who meet qualifications to bypass sections of the FSR. This waiver will only apply to Veterans who have copays and reduces the time required to complete the Financial Status Report (which is \~60 minutes).  
@@ -72,4 +75,9 @@ O1: VA’s digital experiences are the easiest and most efficient way to access 
 * The MVP to provide Veterans with the ability to make a debt payment, request help with their debt, or dispute a debt will include linking them to their Debt Portal on VA.gov. In future iterations, we plan to allow Veterans to take these actions within app, so Veterans have a seamless user experience. As of April 2025, this is dependent on the Financial Management Team.
 
 ## Decision Log
-- `Natalie to track decisions here`
+
+| Date | Notes | 
+| --- | --- | 
+|5/7/2025| The Financial Management team is working on getting a new Lighthouse API for Copayment Debts. This additional data will allow Veterans to see the current status of their copay balance and not have to see data from their last statement, which could be almost a month old and not reflective of any recent payments or changes that have occurred. There is no official timeline on the API yet, but is top priority and the Financial Management team believes it could be ready in a few months.|
+|5/7/2025| Demand Letters will not be part of this effort, as they are not even included on VA.gov.|
+|5/8/2025| Once the new Lighthouse API for Copayment Debts is built, the old API will not be deprecated. The Financial Management team said they may reduce the data, but will continue to use it if data that isn't available on the one (example the statements)|
