@@ -13,6 +13,7 @@ We will briefly discuss adding forms that are from either of the categories abov
   - [Including Other Lighhouse Benefits Inatake API forms](#including-other-lighhouse-benefits-inatake-api-forms)
     - [Test Implementation for Lighhouse Benefits Inatake API](#test-implementation-for-lighhouse-benefits-inatake-api)
 - [Uploadable Forms](#uploadable-forms)
+  - [What are uploadable forms?](#what-are-uploadable-forms)
   - [Already Included Forms](#already-included-forms-1)
   - [Including Other Uploadable forms](#including-other-uploadable-forms)
     - [Test Implementation for Uploadable Form](#test-implementation-for-uploadable-form)
@@ -54,6 +55,11 @@ In our `app/controllers/v0/my_va/submission_statuses_controller.rb` we have a li
 
 ----------------------------------------
 ### Uploadable Forms
+
+#### What are uploadable forms?
+> (...) Users can now not only download a PDF in the Find a form section of the site, but they can now upload that form back to us without leaving VA.gov in a modern and accessible way. The tool is rolling out slowly for Benefits forms. It is only active for 6 forms thus far but with more to follow. You can play around with the tool in Staging. (...)
+
+
 #### Already Included Forms:
 | Form Name                                                                             | Form ID       |
 |:--------------------------------------------------------------------------------------|:--------------|
