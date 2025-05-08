@@ -1,6 +1,8 @@
-	# Research Initiatives for Mobile Feature Support Including Military History, Debt Services, 2025
+📌 ARCHIVED 📌 Scope changed for this research initiative, and these goals + questions are no longer the guidelines.
 
-📌 This document serves as a reference for multiple research studies being planned in collaboration with the Financial Management Team. The goals and questions outlined below will be explored across individual studies.
+ 	# Research Initiatives for Mobile Feature Support Including Military History, Debt Services, 2025
+
+This document serves as a reference for multiple research studies being planned in collaboration with the Financial Management Team. The goals and questions outlined below will be explored across individual studies.
 
 ## Research Goals + Questions	
 Note: AT = assistive technology
