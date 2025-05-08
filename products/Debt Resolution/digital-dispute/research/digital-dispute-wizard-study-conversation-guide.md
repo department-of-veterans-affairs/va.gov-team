@@ -228,7 +228,7 @@ Before we move on to this next section, I have some questions about the pages yo
     
 -   Why did you rate it a (rating)?
     
-### Intro page
+## Digital Dispute Intro page
 
 
 -   What are your thoughts on this page?
@@ -250,12 +250,11 @@ Before we move on to this next section, I have some questions about the pages yo
     
 
   
-### MENTAL MODELS
+### DIGITAL DISPUTE MENTAL MODELS
 
-- Now that you've gone through these pages, I'd like to take some time to reflect and hear about how your experience was today.
+- Now that you've gone through this form, I'd like to take some time to reflect and hear about how your experience was today. Please only comment on your experience with the form. 
   
-- How did you feel while completing this process? Were there any moments where you felt frustrated or overwhelmed? If so, why?
-
+- How did you feel while completing this form? Were there any moments where you felt frustrated or overwhelmed? If so, why?
 
 -   Do you feel confident about what actions you need to take next?
   
@@ -265,26 +264,25 @@ Before we move on to this next section, I have some questions about the pages yo
   
 -   How does this compare?
   
--   What did  you expect to see on this form that wasn’t there, if anything? Was anything missing? 
+-   What did  you expect to see on this form that wasn’t there, if anything? Was anything missing?
 
-## Digital Dispute Post Task Questions (5 minutes)
-
-    
--   What would you change, if anything? What can be improved? Was anything unclear?
-
--   We want to know your thoughts on how clear the form you just  reviewed is.
-    
--   When you answer this question, think about how easily you would be able to fill out this form
+-   When you answer this next question, think about how easily you would be able to fill out this form
 
 -   On a scale from 1 to 5 with 1 being not easy at all, and 5 being very very easy, how easy to understand fill out was this form?
     
 -   Why did you rate it a (rating)?
     
+
+## Whole Experience Post Task Questions (5 minutes)
+
+    
+-   Now thinking about the experience from start to finish, how was your experience? Was anything difficult? Was anything easy? 
   
+-   What would you change, if anything? What can be improved? Was anything unclear? 
 
 Those are all the questions that I had for you today.
 
-  
+## Permission to use clips with internal VA partners
 
 -   Circling back about the optional use of clips with internal VA partners. Now that you know what we’ve discussed, are you still comfortable with this?
     
