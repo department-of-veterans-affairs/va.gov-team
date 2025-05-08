@@ -113,7 +113,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
  - [X] Ready to be sent for approvals (05/05/25)
  - [X] VA PO & COR sent the Sprint Goals (05/05/25)
  - [X] VA PO approved the Sprint Goals (05//06/25)
- - [ ] VA COR approved the Sprint Goals (05/xx/25)
+ - [X] VA COR approved the Sprint Goals (05/07/25)
  
 **_Delivery + Notes:_**
 - [ ] All goals have been updated in the sprint chart
