@@ -1,5 +1,5 @@
 # IA Design for Paperless Delivery Opt-in in Profile
-**STATUS: Complete - will update URLS when labels are determined after research
+**STATUS: Complete - will update with actual URL strings when H1s are finalized.
 
 **Team:** IIR
 
