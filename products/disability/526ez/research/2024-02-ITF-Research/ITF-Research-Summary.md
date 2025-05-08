@@ -34,7 +34,7 @@ This document is a summary of our findings.
 Artifacts in this review include:
 
 - [526 Shadowing Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2023-11-Shadowing-Research/research-findings.md)
-- [526 Medallia Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/Medallia%20Research/2023-10%20Research%20Findings.md)
+- [526 Medallia Research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2023-03-Medallia-Survey/Medallia-Survey-032023.md)
 - Technical discovery and ongoing work:
     * [Slack thread on PACT ITF outage fix](https://dsva.slack.com/archives/CBU0KDSB1/p1691591736796649)
     * [Post-mortem on PACT ITF outage](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1692204843804/b5b36454b254d3f9c8b300bf8bc4541d8d75ad7f?sender=udbd39c1bbebb4ec4d7d08829)
