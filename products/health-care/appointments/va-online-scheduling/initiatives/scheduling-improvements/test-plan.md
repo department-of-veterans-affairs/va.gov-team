@@ -49,7 +49,9 @@ Note: may need to add community care and sub-types of care here
 - Direct scheduling and “Call to schedule” can appear together if requests are disabled due to request limits  
 - Provider relationship exists but at a different facility: do not show provider  
 - Requests are enabled: display information with link to request at the bottom of the provider list  
-- Requests are not enabled (due to request limit reached): display info with facility phone number at the bottom of the provider list  
+- Requests are not enabled (due to request limit reached): display info with facility phone number at the bottom of the provider list
+
+- If the provider only has telehealth slots available, no slots available workflow
 
 ## Patient Indicated Date Page
 
