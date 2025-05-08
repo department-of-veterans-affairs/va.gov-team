@@ -78,6 +78,11 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - 2021: A [pop-up modal](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ebenefits/dependency-verification/modal) to prompt Veterans to update their dependent information was developed for VA.gov in 2021, but it was considered too disruptive to the VA.gov experience, so it was not launched. It can be triggered in the staging environment.
 - March 2024: The annual reminder email was postponed after feedback from David Reis and others that VA.gov needed a mechanism to capture if a Veteran had no changes to their dependent info by auto-generating and submitted a 21-0538 form. This change in scope kicked off the [Dependent Verification Tool](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/dependency_verification/initiative-brief-dependent-verification-tool.md).
 
+
+### Important Notes
+- Verification letters are sent to every Veteran that receives service-connected compensation (disability and pension) and has claimed a dependent
+- "Date last verified" could be any date the Veteran submits a 686/674 confirming the dependent still exists (e.g. listing an existing spouse on a 686 when adding a newborn child would update the spouse's date last verified). DLV would also be updated for all dependents on the Veteran's benefit if a 0538 is subitted indicating "no changes" to current dependents.
+
 ---
 
 #### Communications
