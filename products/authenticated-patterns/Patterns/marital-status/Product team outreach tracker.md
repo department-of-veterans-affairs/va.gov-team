@@ -1,11 +1,11 @@
 | Form number & name | Point of contact | Notes | Slack thread, if applicable | Meeting date | Meeting notes | Next steps |
 | --------------- | -------------- | ------------ | ------- | ------- | ------- | -------------- |
-| 527EZ | Megan Graham |  | |  |  | Kristen waiting for response from Megan |
-| 10-10EZ | Renata and Heiu | |  |  |  |  |
+| 21P-527EZ - Application for Veterans pension | Megan Graham |  | |  |  | Kristen waiting for response from Megan |
+| 10-10EZ - Apply for VA health care | Renata and Heiu | |  |  |  |  |
 | 10-10EZR | Renata and Heiu | |  |  |  |  |
 | 21-686c - Application Request to Add or Remove Dependents | OCTO (acting) PO Sanja; VFS PM Laura Steele | |  |  |  |  |
-| 10-10D -  | Jamie Fiore | |  |  |  | Kristen waiting for a response from Jamie Fiore |
-| 5655 |  |  |  |  |  |  |
+| 10-10D - Application for CHAMPVA Benefits | Jamie Fiore | |  |  |  | Kristen waiting for a response from Jamie Fiore |
+| 5655 - Financial Status Report | OCTO PO Denise Coveyduc; VFS PM Tom Davis |  |  |  |  |  |
 | 40-10007 - Application for Pre-Need Determination of Eligibility for Burial in a VA National Cemetery | OCTO PO Rhonda Jones; VFS PM Catherine Hughes, Michelle Diuudonne Yenyo | Asks the first marital status question, but has "single" as an option. I think adopting our pattern would be an easy lift. |  |  |  |  |
 | 22-1990 - Education benefits | OCTO PO Riley Ross; VFS PM Clayton Holcomb  | This would be interesting because they only ask "Are you married? yes/no" and I wonder how they'd feel about adjusting to our wordier first question that requires more time to read and process, and collects more information than they need. It's possible that we should have 2 variations of the pattern--one that's just that simple yes/no question, and the other full one we're currently building. |  |  |  |  |
 | 22-1995 - Change your education benefits | OCTO PO Darla va Nieukerk; VFS PM Kara Ciprich
