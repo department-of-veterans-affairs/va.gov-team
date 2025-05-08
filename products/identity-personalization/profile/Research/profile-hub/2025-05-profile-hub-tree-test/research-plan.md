@@ -280,7 +280,7 @@ All questions other than Q1 will be randomized to reduce bias.
 4. **Accredited representative/** If you were working with a Veteran Service Organization (VSO) representative or attorney to file a VA claim, where would you expect to find their information?
 5. **Period of service/** Where would you expect to find information about what military branch you served in?
 6. **Direct deposit/** Where would you expect to update your VA direct deposit information?
-7. **ILER IES/** Where would you expect to download a PDF copy of your possible military toxic exposure information?
+7. **ILER IES/** Where would you expect to download a report of your possible military toxic exposure information?
 8. **Veteran Status Card/** Where would you expect to find a digital version of your Veteran ID Card?
 9. **Paperless delivery/** Where would you go to sign up to receive VA mail digitally instead of through the postal service?
 10. **MHV signatures/** Where would you expect to go to manage the signature that appears on messages you send to your VA doctor?
