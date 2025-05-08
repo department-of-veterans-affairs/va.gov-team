@@ -71,3 +71,5 @@ O1: VA’s digital experiences are the easiest and most efficient way to access 
 
 * The MVP to provide Veterans with the ability to make a debt payment, request help with their debt, or dispute a debt will include linking them to their Debt Portal on VA.gov. In future iterations, we plan to allow Veterans to take these actions within app, so Veterans have a seamless user experience. As of April 2025, this is dependent on the Financial Management Team.
 
+## Decision Log
+- `Natalie to track decisions here`
