@@ -104,7 +104,7 @@ No validation use cases. Read only feature.
 
 ### Errors
 
-<details><summary>NEEDS VERIFICATION System is down</summary>
+<details><summary>NEEDS VERIFICATION System down</summary>
 
 - **Use case:** Cannot connect to the back end.
 - **Status code:** NEED STATUS CODES
