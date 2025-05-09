@@ -45,29 +45,25 @@ The modernized VA.gov benefit experience was built with a benefit-centric organi
 
 ## Goals
 
-The goal of this initiative is to establish a scalable IA for forms and form-related tools and corresponding guidance and governance.  This will help us achieve
-- improved findability of forms and form-related tools
-- easier contribution to the digital forms space for teams across the department
-- an IA that supports more audiences 
-- less duplication of content across similar pages
-- reduced number of similar pages appearing in search results 
+The goal of this initiative is to streamline content and establish a scalable IA for forms information, digitized forms, and form-related tools.  This includes establishing corresponding guidance and governance.  This will help us:
+- serve relevent content at the right time in the experience
+- reduce duplication of information across the experience
+- improve findability of forms and form-related tools
+- allow for easier contribution to the digital forms space for teams across VA 
+- reduce number of similar pages appearing in search results 
 
 
 ## Proposed solution
 
-- Create a single space in the IA of VA.gov to house all online forms and applications, as well as all form and application related tool (i.e. form search, pdf download, pdf upload, online completion)
-- This space would allow visitors to 
-  - search for a specific form
-  - download the most recent PDF of a form
-  - complete the form online
-  - upload a completed pdf form
-  - see related forms or other ways to complete a form (i.e. as part of a compound form flow)
+- Evolve existing Drupal template for the "About form" page to better accomodate relevant information about a form as well as provide the ability create relationships between forms, information, and tools 
+- Establish a forms directory in the VA.gov IA house all OMB forms - including the PDFs and online experiences - in addition to form related tools (i.e. form search and pdf uploads)
+
 
 ### Hypotheses
 
-- Centralizing all digitized forms will make it easier for all site visitors to find forms and applications.
-- Centralizing all form-related tools and information will make it easier for visitors to understand all the ways they can complete a form (paper or online) as well as how to submit a completed form (mail or upload).
-- Centralizing all form-related information will reduce duplicative information across multiple pages resulting in simplified search results and easier findability of key pages, as well as reduce content maintenance.
+- Centralizing digitized forms will make it easier for site visitors to find forms and applications.
+- Centralizing form-related tools and information will make it easier for visitors to understand all the ways they can complete a form (paper or online) as well as how to submit a completed form (mail or upload).
+- Centralizing form-related information will reduce duplicative information across multiple pages resulting in simplified search results and easier findability of key pages, as well as reduce content maintenance.
 
 
 ### Impacted products/experiences
