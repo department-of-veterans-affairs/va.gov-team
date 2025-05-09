@@ -75,7 +75,11 @@ These include: the suitability of the form you have been assigned to convert, yo
 
 Form Builder is available on the [CMS platform.](https://prod.cms.va.gov)
  
-Once logged into the CMS, you can find access to Form Builder in the menu here:
+![landing page]( ./guide-images/CMS-login.png)
+
+
+
+Once you are logged in, you will find the Form Builder in the menu
 
 ![landing page]( ./guide-images/Menu_item.png)
 
@@ -147,6 +151,23 @@ More on viewing a form and sharing for review in this [section](https://github.c
 ## Starting a new form
 
 When you are ready to begin providing the content for a new form conversion, there are a few steps to go through in order to begin with a draft of that form. 
+
+
+### Starting with Form Builder
+
+Form Builder is available on the [CMS platform.](https://prod.cms.va.gov)
+ 
+![landing page]( ./guide-images/CMS-login.png)
+
+
+
+Once you are logged in, you will find the Form Builder in the menu
+
+![landing page]( ./guide-images/Menu_item.png)
+
+
+
+
 
 ### First inputs for a new form
 
