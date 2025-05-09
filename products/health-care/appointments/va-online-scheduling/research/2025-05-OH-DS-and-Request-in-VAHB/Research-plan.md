@@ -7,7 +7,7 @@ Currently, Veterans can only view their appointments on the VA Health and Benefi
 
 [Appointments Tool Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/vaos-product-outline.md)
 
-### [OCTO-DE Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md) 
+### OCTO-DE Priorities
 
 `Objective 1:  VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.`  
 
@@ -20,10 +20,7 @@ Currently, Veterans can only view their appointments on the VA Health and Benefi
 > - **Key Result 1:** 100% of authentications to our systems and tools (both Veteran-facing and internal) occur using a secure credential.
 
 
-### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
-
-<details><summary>Where does your product fit into the Veteran journey?
-Are there moments that matter?</summary>
+### Veteran Journey
 	
 - `Starting Up`
 - `Taking Care of Myself`
@@ -31,15 +28,9 @@ Are there moments that matter?</summary>
 - `Putting Down Roots`
 - `Retiring`
 - `Aging`
-- `Dying`
 
-</details>
 
 ## Research Goals 🥅	
-`What are you trying to learn from this research?` 
-
-> [!NOTE]
-> Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.
 
 ### Goals
 
@@ -59,14 +50,10 @@ Are there moments that matter?</summary>
 ---
 
 ### Research questions
-> [!NOTE]
-> Do not write out all questions you plan to ask participants -- that should go in the` [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)
 
-***Consider bucketing research questions under research goals and think about:***
-	
-`What will I do with what I learn from this question?`
-  
-`Does this question serve the goals of my study?`
+Goal 1: 
+Goal 2: 
+Goal 3: 
 
 **`1.`[Enter Q1]**
 
