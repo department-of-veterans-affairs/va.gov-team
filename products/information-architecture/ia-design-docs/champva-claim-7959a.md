@@ -79,7 +79,7 @@
 
 ## <a name="redirects"></a>Redirects <br>
 
-- None
+- [5/9 update] - the form is live in production but has the wrong URL. IVC forms team will submit a redirect request to change https://www.va.gov/family-and-caregiver-benefits/health-and-disability/file-champva-claim-10-7959a/ to va.gov/family-and-caregiver-benefits/health-and-disability/champva/file-champva-claim-10-7959a/
 
 
 ## <a name="bestbets"></a>Best Bets<br>
