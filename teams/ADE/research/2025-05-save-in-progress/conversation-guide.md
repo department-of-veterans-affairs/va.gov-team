@@ -206,7 +206,7 @@ Pretend that your doorbell just rang, and you want to jump up to answer it. What
 ### Watch for:
 - [Anything re saving info entered]
 - [Anything re the "Finish later" button]
-- [Noticed "Your records request has been saved"? Y / N]
+  - [Noticed "Your records request has been saved"? Y / N]
 
 
 
@@ -242,10 +242,10 @@ Say that you're really hungry and need to take a longer break to make a snack/lu
 ### Watch for:
 - [Anything re saving info entered]
 - [Anything re the "Finish later" button]
-
+  - [Noticed "Your records request has been saved"? Y / N]
 
 ## Task 6: Resume filling out form (again)
-OK, pretend that you just finished your lunch (dinner). Now you want to get back to the form you were filling out. How would you do that?
+OK, pretend that you just finished your snack/lunch/dinner. Now you want to get back to the form you were filling out. How would you do that?
 
 [Record how resume: open browser tab / "Continue your request" button on form intro page / Link on My VA]
 
