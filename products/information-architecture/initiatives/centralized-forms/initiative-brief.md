@@ -8,6 +8,10 @@ The VA.gov experience includes information about and access to various VA forms,
 ### Problem 1:  
 The information related to VA forms - including what ways a form can be submitted, what information is needed for those forms, and what additional or supplemental forms may be needed - is scattered across multiple pages and often duplicated.  We need to streamline the information so it is provided at the right time in the experience and can be efficiently maintained. 
 
+- add info about pages...
+
+
+
 ### Problem 2: 
 The modernized VA.gov benefit experience was built with a benefit-centric organization structure - visitors first select a benefit, then find tasks and information related to that benefit.  OCTO and other teams across VA, are digitizing forms that are not related to any benefits, are related to multiple benefits, are not OMB forms, or are for non-Veteran or non-beneficiary audiences.  In these cases, the benefit-centric IA of VA.gov does not have a clear home for these types of forms.  
 
