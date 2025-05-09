@@ -274,13 +274,13 @@ OK, pretend that you just finished your snack/lunch/dinner. Now you want to get 
 1. What kinds of online forms have you filled out before, and how does the process compare to the VA form you filled out today? 
 
      1.  health care / education / other government form / online purchase /  _________________? 
-1. When do you expect the information you enter into an online form to be saved?
+1. When do you expect the information that you enter into an online form to be saved?
 
      1. [After every field / page / only after submitting / Finish later button?]
      1. If you walk away from the web page without clicking anything, what do you think will happen to the information you entered?
      1. [Do they recognize that their information is being saved all the time? Y / N]
 
-1. If you had a magic wand and could change *anything* about how we save your information before you submit a form, what would you want?
+1. If you had a magic wand and could change *anything* about *how we save your information* before you submit a form, what would you want?
 1. Is there anything else that we haven't talked about that you think I should know? 
 
 ## Thank You and Closing - 3 minutes
