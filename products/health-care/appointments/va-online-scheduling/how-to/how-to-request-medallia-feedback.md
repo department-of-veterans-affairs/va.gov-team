@@ -59,7 +59,7 @@ Process
 
 The spreadsheet, and instructions on how to update it, are [here](https://dvagov.sharepoint.com/:x:/r/sites/HealthApartment/_layouts/15/doc.aspx?sourcedoc=%7Bc95ca18b-ba4a-4913-ba21-0545e72d2cc9%7D&action=edit).
 
-## How to Request and Process Medallia Feedback
+## How to Request Medallia Feedback
 
 1. Using the template below, submit a ticket in GitHub to Contact Center to collect the Medallia feedback. 
 2. If you want feedback delivered on a regular basis (daily/weekly/monthly note that in a comment in the generated ticket).
@@ -118,7 +118,7 @@ Note: Contact Center will email you the feedback to the VA email address you pro
 
 ## How to Process Feedback
 
-1. Download the spreadsheet to your machine/locally on the VA network. 
+1. Download the spreadsheet sent by Contact Center to your machine/locally on the VA network. 
 
 2. Scrub the feedback of PII/PHI. Read through every user comment and replace personal information with codes as follows:
 - Email addresses - PII_EMAIL
@@ -127,9 +127,9 @@ Note: Contact Center will email you the feedback to the VA email address you pro
 - Phone numbers - PII_PHONE
 - Other identifying info - PII_OTHER
 
-3. Copy the feedback into the appropriate tab of the current user feedback file.
+3. Copy the feedback into the Medallia tab of the current user feedback file.
 
-4. Check that the headings are correct across the entire sheet. The order the data points are received in does change.
+4. Check that the headings are correct across the entire sheet. The order the data points are received in does change without warning. It's helpful to copy the heading row in with the rest of the data, then delete it when done.
 
 5. Sort the sheet by "URL". Move any feedback under the `https://www.va.gov/health-care/schedule-view-va-appointments/` URL to the Appts Benefits Hub tab.
 
@@ -139,17 +139,19 @@ Note: Contact Center will email you the feedback to the VA email address you pro
 
 Analyzing the feedback involves adding codes for themes, feature requests, and sentiment
 
-**Themes and feature requests**
+**Add codes for Themes and feature requests**
 
 Codes for themes and feature requests are in the [user feedback spreadsheet](https://dvagov.sharepoint.com/:x:/r/sites/HealthApartment/Shared%20Documents/Appointments/User%20Feedback/2025%20Analysis.xlsx?d=wdaa5b5f611b649a28c4fcbc0bc8ef07a&csf=1&web=1&e=ZOW5q7) (2025). Look in the tabs with those names. 
 
 **Sentiment**
 
-Codes for sentiment are:
-* Positive
-* Negative
-* Mixed
-* Neutral
-
-Add the `quote` code to any piece of feedback that you want to share with the team.
+- Each line of feedback may be coded with a single sentiment code. Codes for sentiment are:
+    - Positive
+    - Negative
+    - Mixed
+    - Neutral
+- Along with the comment, use the following fields to determine sentiment:
+    - `Were you able to do your task today?` - if the comment just includes a task, like "cancel an appointment" and they answer "No" to this question, then it's more likely a negative comment
+- You may leave sentiment blank, if there is no comment or likert rating
+- Add the `quote` code to any piece of feedback that you want to share with the team.
 
