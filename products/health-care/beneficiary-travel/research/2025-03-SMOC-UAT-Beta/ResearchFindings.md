@@ -11,18 +11,33 @@ https://dvagov-my.sharepoint.com/:p:/g/personal/cara_frissell_va_gov/EWJ221GsdcJ
 
 ## **Research Goals**
 
+The desired outcome of this study is to test key flows a Veteran user would use when submitting a simple mileage-only claim for travel for  VA medical care on VA.gov.  Broadly, the user experience research areas are around a) if and how users find the entry point to simple mileage-only claim submission from Past Appointments, b) if and how users understand what type of expenses they can submit for on VA.gov, c) if participants understand the simple mileage-only claim submission flow as designed and d) if participants understand when and why they are being redirected to BTSSS for more complex claims.  
+
 
 ## **Research Questions**
 
+1. Do participants find the entry point to submission from past Appointments?
+
+2. Do participants understand that they can only submit for simple mileage reimbursement on VA.gov?
+       a. Does being redirected to a second system (BTSSS) confuse participants?
+       b. When participants are redirected to BTSSS, do they understand why they are being redirected?
+   
+3. Do participants know if, when, and where to submit their complex claims?
+     a. Do participants know how to go to BTSSS?
+     b. Do participants recognize that they are being redirected to BTSSS?
+   
+4. Are participants accurately re-directed if they are trying to submit a complex claim?
+   
+5. Are participants able to complete a simple mileage-only claim submission if applicable?
+   
+6. Can participants differentiate between starting a claim and confirming that a claim has already been submitted?
 
 
 
 ## **Methodology**
 
-
-
-
-* [Link to conversation guide](htt
+* [Link to Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/2025-03-SMOC-UAT-Beta/ResearchPlan.md)
+* [Link to Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/research/2025-03-SMOC-UAT-Beta/ConversationGuide.md)
 
 
 
