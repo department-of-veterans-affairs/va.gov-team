@@ -2,25 +2,10 @@
 	# Research Plan for [UAE Team, OH direct appointments scheduling and requesting in VAHB app, TBD]
 
 ## Background 🏗️
-<details><summary>Briefly describe the background of your product.</summary>
 	
-`What problem is your product trying to solve?`
+Currently, Veterans can only view their appointments on the VA Health and Benefits (VAHB) app. In contrast, the Appointments tool on VA.gov enables logged-in Veterans to schedule and manage their appointments. The UAE team aims to enhance the VAHB app by introducing the ability to schedule appointments, beginning with facilities that use Oracle Health (OH). This research supports an initiative to expand appointment-related functionality within the VAHB app, empowering Veterans to more easily schedule, request, and cancel appointments directly from their mobile devices. 
 
-**[Enter answer here]**
-  
-`Where is your product situated on VA.gov? (ex: auth vs. unauth)`
-
-**[Enter answer here]**
-  
-`What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?`
-
-**[Enter answer here]**
-
-`Product Brief`
-
-**[Link to product brief](url goes here).**
-
-</details>
+[Appointments Tool Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/vaos-product-outline.md)
 
 ### [OCTO-DE Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md) 
 
