@@ -43,20 +43,21 @@ collect payment from Veterans for copays.
 
 **9. On pages hosted on Pay.gov ('Select a payment type' and 'Provide payment information'):** 
   - *Documentation 7.2 Header Image* mentions the option of selecting a header image. Can custom code also be placed in the header and footer area?
+  - *Can custom styles be applied to the content of the page (form area)?*
 
-**9. Pay.va.gov uses pay.gov under the hood? If so, do we have a contac there?
+**9. Pay.va.gov uses pay.gov under the hood? If so, do we have a contact there?**
 
-**10. How do we support/do we support paying multiple debts with one payment? Seems like pay.va.gov just uses an account number to associate a payment with a veteran? In fact, how do we even associate a single debt to a payment?
+**10. How do we support/do we support paying multiple debts with one payment? Seems like pay.va.gov just uses an account number to associate a payment with a veteran? In fact, how do we even associate a single debt to a payment?**
 
-**11. It looks like pay.gov sends emails including confirmation and recurring payment reminders. Are there any others? For example, what happens if a recurring payment method goes bad?
+**11. It looks like pay.gov sends emails including confirmation and recurring payment reminders. Are there any others? For example, what happens if a recurring payment method goes bad?**
 
-**12. How does DMC find out about payments made?
+**12. How does DMC find out about payments made?**
 
-**13. Is there any particular reason we are not using "non-interactive services"? Just curious. Seems like the Hosted collection approach has been chosen already.
+**13. Is there any particular reason we are not using "non-interactive services"? Just curious. Seems like the Hosted collection approach has been chosen already.**
 
-**14. Who was the latest integration? Peace corps? Is there another example with a payment being tied to an entity like in our case possibly a debt? How long did the PeaceCorps/latest integration take?
+**14. Who was the latest integration? Peace corps? Is there another example with a payment being tied to an entity like in our case possibly a debt? How long did the PeaceCorps/latest integration take?**
 
-**15. Do we need to store anything like the tracking ID?
+**15. Do we need to store anything like the tracking ID?**
 
 
 
