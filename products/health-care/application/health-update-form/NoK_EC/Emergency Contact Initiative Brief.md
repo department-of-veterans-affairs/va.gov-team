@@ -1,4 +1,4 @@
-# Initiative Brief Template
+# Emergency Contact - Initiative Brief
 #### Overview
 
 <details>
