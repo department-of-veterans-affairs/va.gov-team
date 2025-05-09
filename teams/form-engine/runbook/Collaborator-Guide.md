@@ -77,6 +77,7 @@ Form Builder is available on the [CMS platform.](https://prod.cms.va.gov)
  
 ![landing page]( ./guide-images/CMS-login.png)
 
+**Note:** If after attempting to log in with your PIV, and you are returned to this screen, you may need to reach out to the CMS team for access. 
 
 
 Once you are logged in, you will find the Form Builder in the menu
@@ -159,6 +160,7 @@ Form Builder is available on the [CMS platform.](https://prod.cms.va.gov)
  
 ![landing page]( ./guide-images/CMS-login.png)
 
+**Note:** If after attempting to log in with your PIV, and you are returned to this screen, you may need to reach out to the CMS team for access. 
 
 
 Once you are logged in, you will find the Form Builder in the menu
