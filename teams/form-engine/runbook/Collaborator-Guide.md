@@ -173,7 +173,12 @@ Once you are logged in, you will find the Form Builder in the menu
 
 ### First inputs for a new form
 
-After selecting the Build a new form option, you will need to provide from the existing form the information contained on it. 
+After selecting the menu item for Form Builder, you should arrive at the home page for Form Builder
+
+![landing page]( ./guide-images/FB-Home.jpg)
+
+You will need to start a new from by selecting the *Build a form* button and copying over information from your existing form.
+
 This begins with the form name and number. 
 
 
