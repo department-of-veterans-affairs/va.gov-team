@@ -34,11 +34,11 @@ Currently, Veterans can only view their appointments on the VA Health and Benefi
 
 ### Goals
 
-`1.` **[Enter answer here]**
+`1.` **We want to evaluate how effectively and efficiently Veterans can schedule, request, and cancel with facilities that use Oracle Health within the VAHB app.**
 
-`2.` **[Enter answer here]**
+`2.` **We want to identify pain points, usability issues, and unmet expectations for scheduling, requesting, and canceling with facilities that use Oracle Health within the VAHB app.**
 
-`3.` **[Enter answer here]** 
+`3.` **We want to understand Veterans' mental model and expectations related scheduling appointment.** 
   
 ### Outcome
 `How will this research advance your product to the next phase in the design process? What will you do with your learnings?`
