@@ -122,7 +122,7 @@ Veterans who have overpayment debts and/or medical copayments currently receive 
 - *Target Launch Date*
   - March 25, 2025
 - *Actual Launch Date* 
-  - tbd
+  - April 30, 2025
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
   - tbd
 
@@ -163,9 +163,9 @@ Veterans who have overpayment debts and/or medical copayments currently receive 
  
  - VA PO: Denise Coveyduc 
  - PM: Tom Davis
- - Delivery Manager: Devi Hill
- - Engineering: Andrew Rodiek, Brandyn Sullins, Aaron Ponce, Derek Dyer, Penny Lischer
- - UX Research/Design: Megan Gayle, Joseph Lee, Charlotte Cesana
+ - Delivery Manager: Heather Rienks
+ - Engineering: Andrew Rodiek, Brandyn Sullins, Aaron Ponce, Derek Dyer, Josh Mills
+ - UX Research/Design: Megan Gayle, Joseph Lee, Charlotte Cesana, Marcela Rojas
  
 </details>
 
