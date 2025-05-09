@@ -53,28 +53,34 @@ This research will provide insight into 
 
 1. Are users interested in receiving some or all forms or communications digitally instead of by mail?
 
-2. Are there any documents they would be hesitant to receive digitally? Why?
+2. What factors influence Veterans' trust in digital document delivery?
 
-3. Where do Veterans expect to find and update their paperless delivery settings for the 1095-B?
+3. Are there any documents they would be hesitant to receive digitally? Why?
 
-4. Can Veterans easily navigate to the section where they would update their paperless delivery settings without assistance?
+4. How do Veterans perceive the security of their data in paperless systems?
 
-5. Does the Veteran experience any pain points or confusion when navigating to or making updates to their paperless delivery settings?
+5. Where do Veterans expect to find and update their paperless delivery settings for the 1095-B?
 
-6. Does the word “paperless” clearly tell Veterans that they won’t get paper mail and will need to go online to see their documents? If not, what terminology would they prefer?
+6. Can Veterans easily navigate to the section where they would update their paperless delivery settings without assistance?
 
-7. After updating their paperless delivery settings, do users feel confident that their changes have been saved and will take effect?
+7. Does the Veteran experience any pain points or confusion when navigating to or making updates to their paperless delivery settings?
 
-8. Do users understand what will happen when they make a selection? Do they think they’re opting in or out? And is that the same as what the system actually does?
+8. Does the word “paperless” clearly tell Veterans that they won’t get paper mail and will need to go online to see their documents? If not, what terminology would they prefer?
 
-9. After signing up for paperless delivery, what kind of confirmation or follow-up communication do users expect?
+9. After updating their paperless delivery settings, do users feel confident that their changes have been saved and will take effect?
 
-10. Do Veterans feel more comfortable with radio buttons or check boxes as their paperless option selection method?
+10. Do users understand what will happen when they make a selection? Do they think they’re opting in or out? And is that the same as what the system actually does?
+
+11. After signing up for paperless delivery, what kind of confirmation or follow-up communication do users expect?
+
+12. Do Veterans feel more comfortable with radio buttons or check boxes as their paperless option selection method?
 
 
 ### **Hypothesis**
 
 If Veterans are provided with a paperless experience similar to market standards, then they will update their paperless settings confidently and without external direction. 
+
+Veterans may require additional support or guidance to adopt paperless settings confidently.
 
 
 ## **Methodology**
@@ -83,7 +89,7 @@ For this research we plan to start the session with a few **semi-structured inte
 
 These questions will be followed by light **contextual inquiry** where we plan to observe where Veterans would expect to set up paperless delivery for a specific form on VA.gov. This will help us gain understanding into the Veteran’s mental models and uncover usability barriers.
 
-We will then transition to **Usability testing** to determine if Veterans are able to update paperless settings for the 1095-B form using our prototype. At this stage we will also test usability of radio buttons vs checkboxes and content.
+We will then transition to **Usability testing** to determine if Veterans are able to update paperless settings for the 1095-B form using our prototype. At this stage we will also conduct some **A/B** testings to determine usability and preference of radio buttons vs checkboxes and content.
 
 
 ### **Location**
@@ -145,17 +151,11 @@ For Cohorts 1 and 2 combined, we would like to follow the following distribution
 
 - 3 Veterans with other than honorable discharge
 
-- 2 Veterans of Immigrant origin
-
 - 1 Veterans that are Women
-
-- 1 Expat
 
 - 3 Black or African American 
 
 - 2 Hispanic
-
-- 1 Biracial 
 
 - 1 Asian
 
@@ -176,8 +176,6 @@ For cohort 3 (Caretakers) we would like to follow this distribution as closely a
 - 1 Caretaker that is a Woman
 
 - 1 Black or African American 
-
-- 3 Caretakers who are also enrolled in VA healthcare
 
 
 #### Screener Questions:
@@ -241,8 +239,6 @@ End Research June 13, 2025 (Friday)
 All times are in EASTERN Standard Time.
 
 Wednesday May 28, 2025 1:00 pm - 3:00 pm
-
-Thurs May 29, 2025 3:30 pm - 5:00 pm
 
 Fri May 30, 2025 2:30 pm - 4:00 pm
 
