@@ -8,7 +8,7 @@ Kira Evsanaa, Mobile App Researcher (kira@themostudio.com)
 
 
 ## **Research Plan**
-Write text here
+Analyze year to date (Jan-April 2025) user reviews and in app feedback to discover user pain points and feature requests
 
 ### **Reserach Method (collection and analysis)**
 Write text here
