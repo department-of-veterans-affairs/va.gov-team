@@ -66,8 +66,7 @@ O1: VA’s digital experiences are the easiest and most efficient way to access 
 * For Veterans to pay their copayments online, a new tab will open from VA.gov, taking them to pay.gov. The Financial Management team is currently working with the pay.gov team to add a new functionality.  
 * According to the Financial Management Team, Veterans can have a lot of copayment debts.    
 * The Financial Status Report (VA Form 5655\) is a form to request debt resolution, debt compromise, or monthly debt payments.    
-* The streamlined waiver path of the Financial Status Report (FSR \- VA Form 5655\) is currently live and provides Veterans who meet qualifications to bypass sections of the FSR. This waiver will only apply to Veterans who have copays and reduces the time required to complete the Financial Status Report (which is \~60 minutes).  
-* Resources and support page on VA Debt can be found [here](https://www.va.gov/resources/va-debt-management/).   
+* The streamlined waiver path of the Financial Status Report (FSR \- VA Form 5655\) is currently live and provides Veterans who meet qualifications to bypass sections of the FSR. This waiver will only apply to Veterans who have copays and reduces the time required to complete the Financial Status Report (which is \~60 minutes).    
 * [Here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/staging-users-debtproducts.md) is the Debt Resolution Staging Users by Product, with \+81 being a good [test user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
 
 ## Solution Approach
