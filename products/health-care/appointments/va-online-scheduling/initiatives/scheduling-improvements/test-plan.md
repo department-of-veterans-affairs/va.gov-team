@@ -35,7 +35,8 @@ Note: may need to add community care and sub-types of care here
 - User selects “current location” from drop-down and has blocked browser location: display alert
 - If user hasn't been seen at a facility in the last 36 months, facility doesn't display in list
 - Appointment for care type at facility is outside allowed timeframe: block with Dead End: You can't schedule this appointment online 
-- User is not registered at any OH facility: display error  
+- User is not registered at any OH facility: display error
+- If the patient has only been seen for telehealth appts, don't show facility
 
 ## Page: Which provider do you want to schedule with?
 
@@ -50,8 +51,6 @@ Note: may need to add community care and sub-types of care here
 - Provider relationship exists but at a different facility: do not show provider  
 - Requests are enabled: display information with link to request at the bottom of the provider list  
 - Requests are not enabled (due to request limit reached): display info with facility phone number at the bottom of the provider list
-
-- If the provider only has telehealth slots available, no slots available workflow
 
 ## Patient Indicated Date Page
 
