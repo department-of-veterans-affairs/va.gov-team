@@ -51,9 +51,9 @@ Currently, Veterans can only view their appointments on the VA Health and Benefi
 
 ### Research questions
 
-Goal 1: 
-Goal 2: 
-Goal 3: 
+#### Goal 1: 
+#### Goal 2: 
+#### Goal 3: 
 
 **`1.`[Enter Q1]**
 
