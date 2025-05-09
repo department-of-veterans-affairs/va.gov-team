@@ -49,8 +49,8 @@ What metrics-based criteria will you look at before advancing rollout to the nex
 - [x] **2025/05/06** - Lighthouse team plans to deploy required change to production
 - [x] **2025/05/07** - BMT2 to increase to 25%; monitor DataDog as described above
 - [x] **2025/05/08** - BMT2 to increase to 50%; continue to monitor DataDog
-- [ ] **2025/05/12** - BMT2 to increase to 75%; continue to monitor DataDog
-- [ ] **2025/05/13** - BMT2 to increase to 100%; continue to monitor DataDog through the remainder of the week
+- [x] **2025/05/09** - BMT2 to increase to 75%; continue to monitor DataDog
+- [ ] **2025/05/12** - BMT2 to increase to 100%; continue to monitor DataDog through the remainder of the week
 
 ### Results:
 
@@ -61,3 +61,4 @@ What metrics-based criteria will you look at before advancing rollout to the nex
 - **2025/03/26** - Rolled back to 0% for [a few reasons](https://dsva.slack.com/archives/C04KHCT3ZMY/p1743012653750079) related to the previous discoveries
 - **2025/03/31** - BMT1's period of performance ends; BMT2 assumes responsibility for the completion of the rollout
 - **2025/05/08** - Mobile traffic turned on to 50% and both web and mobile began seeing an increase in `502` and `504` errors; error rates on Download reached 0.78%, but fell to 0.74% overnight
+- **2025/05/09** - A handful of `502`/`504` errors appeared at 10:30 AM ET, but when Stacy's self-imposed 11 AM ET assessment came around, she felt comfortable and increased to 75% as planned; continuing to monitor through early afternoon to see if a rollback to 50% would be better going into the weekend
