@@ -47,7 +47,7 @@ It is likely to change as the merged form experience is iterated.
 
 ## Where is the merged form?
 
-The merged form experience can currently be seen here.
+The merged form experience can currently be seen [here](https://staging.va.gov/ivc-champva/10-10d-extended/introduction).
 
 The URL will likely change, but the most current one can be found by navigating to the
 form's manifest.json file in `vets-website` [here](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/ivc-champva/10-10d-extended/manifest.json) and
