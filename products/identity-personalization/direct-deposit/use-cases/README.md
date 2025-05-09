@@ -128,7 +128,7 @@ Review your routing number and make sure it’s correct.
 
 <details><summary>NEEDS: DESIGN (Refer to code), STATUS CODES, QA | UpdatePhoneNumberError: Invalid home or work number entered</summary>
 
-- **Use case:** User edits their direct deposit information, a call is made to match the home and work phone, and the information is incorrect. There is no requirement to have valid phone numbers on file, and this is a legacy event from eBenefits. [More context linked here] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/validation-address-phone.md). Alert appears above input fields in Bank account information edit use case.
+- **Use case:** User edits their direct deposit information, a call is made to match the home and work phone, and the information is incorrect. There is no requirement to have valid phone numbers on file, and this is a legacy event from eBenefits. [More context linked here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/validation-address-phone.md). Alert appears above input fields in Bank account information edit use case.
 - **Status code:** TBD
 - **Content:**
 
