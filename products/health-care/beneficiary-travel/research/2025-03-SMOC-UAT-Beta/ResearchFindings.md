@@ -1,4 +1,4 @@
-# **SMOC UAT Beta - In progress**
+# **SMOC UAT Beta Research Findings
 
 Office of the CTO - Digital Experience (OCTO-DE), Beneficiary Travel Pay, Beneficiary Travel Pay team
 
