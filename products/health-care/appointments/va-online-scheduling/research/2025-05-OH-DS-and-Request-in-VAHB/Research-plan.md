@@ -41,11 +41,10 @@ Currently, Veterans can only view their appointments on the VA Health and Benefi
 `3.` **We want to understand Veterans' mental model and expectations related scheduling appointment.** 
   
 ### Outcome
-`How will this research advance your product to the next phase in the design process? What will you do with your learnings?`
 
 ---
 
-**[Enter outcome here]** 
+**This research will uncover what works well, where Veterans encounter friction, and how they mentally approach scheduling appointments. These insights will guide the team in making informed, user-centered design decisions that enhance the appointment experiencein both the VAHB app and the VA.gov web platform.** 
 
 ---
 
