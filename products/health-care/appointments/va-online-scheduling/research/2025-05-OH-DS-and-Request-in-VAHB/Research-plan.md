@@ -9,9 +9,6 @@ Currently, Veterans can only view their appointments on the VA Health and Benefi
 
 ### [OCTO-DE Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md) 
 
-<details><summary>Which OCTO priorities does this research support? Work with your VA lead and product manager as needed. </summary>
-
-
 `Objective 1:  VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.`  
 
 > - **Key Result 1:** Improve satisfaction with our web and mobile products by 5 points.
@@ -21,9 +18,6 @@ Currently, Veterans can only view their appointments on the VA Health and Benefi
 `Objective 2: OCTO’s platforms are the fastest, most efficient, and most secure way to deliver products at VA.`
 
 > - **Key Result 1:** 100% of authentications to our systems and tools (both Veteran-facing and internal) occur using a secure credential.
-
-
-</details>
 
 
 ### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
