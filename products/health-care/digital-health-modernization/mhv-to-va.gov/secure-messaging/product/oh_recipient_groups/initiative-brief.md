@@ -38,9 +38,21 @@ Patients that are treated at an EHRM transitioned facility will be asked to sele
 
 ## Launch Planning
 ### Collaboration Cycle
-> 💡 *Use for any Collab Cycle tracking, questions.*
+View all related tickets [in this view](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue%20state%3Aopen%20OH%20curated%20list)
 
-- Kickoff ticket
+#### Jan 2025 
+- [Kickoff ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102015)
+
+#### Feb 2025 
+- [Design intent](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103504)
+
+#### Mar 2025 
+- [Midpoint review - Content feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105996)
+- [Midpoint review - IA feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106046)
+- [Midpoint review - Design feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106094)
+
+#### May 2025 
+[add ticket]
 
 ### Timeline 
 - **March 2025**: basic messaging functionality (view, reply, compose) is integrated with EHRM/Oracle Health at the MHV backend level
@@ -59,7 +71,6 @@ Patients that are treated at an EHRM transitioned facility will be asked to sele
 ### Before
 TBD
 ### After
-
 TBD
 
 ---
