@@ -70,6 +70,17 @@ Currently, the Form Builder does not support a real-time preview. The adjustment
 There are a couple of considerations to weigh when thinking about working with Form Builder.  
 These include: the suitability of the form you have been assigned to convert, your familiarity with converting existing forms into digital experiences on VA.gov, your comfort with creating additional content, and working with other teams and stakeholders. This section should cover most of these challenges and dependencies.
 
+
+### Do you have access to Form Builder?
+
+Form Builder is available on the [CMS platform.](https://prod.cms.va.gov)
+ 
+Once logged into the CMS, you can find access to Form Builder in the menu here:
+
+![landing page]( ./guide-images/Menu_item.png)
+
+
+
 ### Is your form a fit for this process?
 
 Form Builder has been designed to work with simple forms. 
