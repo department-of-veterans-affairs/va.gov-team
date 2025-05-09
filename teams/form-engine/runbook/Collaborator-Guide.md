@@ -392,5 +392,8 @@ TBD Added by the engineering team. Referencing what alerts need to be sent and h
 
 ### PDF mapping
 
-PDF mapping is a manual process at this time, handled by an engineering effort. The Form Builder is not equipped to handle PDF mapping at this time.
+PDF mapping is a manual process at this time, handled by an engineering effort. 
+
+Mapping of the output to the previously designed PDF will typically happen later in the development of the form, once all of the necessary steps and content has been approved.
+The Form Builder is not equipped to handle PDF mapping at this time.
 
