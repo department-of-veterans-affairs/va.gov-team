@@ -1,38 +1,41 @@
-# Centralizing VA forms
+# Centralizing information and online flows for VA forms
 
 
 ## Background/Problem statement
 
-OCTO continues to digitize critical and supplemental forms that Veterans and their beneficiaries utilize to apply for and manage their benefits.  In addition, OCTO and other teams across VA, are looking to digitize forms that are not related to any benefit, are related to multiple benefits, are for non-Veteran or non-beneficiary audiences, etc.  The modernized VA.gov benefit experience was built with a benefit-centric organization structure - visitors first select a benefit, then find tasks and information related to that benefit.  This creates a challenge when determining where in the IA to place these digitized forms that don't map to a single benefit that ensures the visitors that need them can find them.
+The VA.gov experience includes information about and access to various VA forms, primarily related to applying for and managing benefits.  Information about these forms appears on multiple content pages, and the forms themselves are not located in a consistent or predictable place within the site IA.  As OCTO continues to digitize critical and supplemental forms that Veterans and their beneficiaries utilize to apply for and manage their benefits, we need to ensure that these forms, and the supporting information about the forms, are are easily findable.  
 
+### Problem 1:  
+The information related to VA forms - including what ways a form can be submitted, what information is needed for those forms, and what additional or supplemental forms may be needed - is scattered across multiple pages and often duplicated.  We need to streamline the information so it is provided at the right time in the experience and can be efficiently maintained. 
 
-### Current approach to organizing forms that are not related to a specific benefit
+### Problem 2: 
+The modernized VA.gov benefit experience was built with a benefit-centric organization structure - visitors first select a benefit, then find tasks and information related to that benefit.  OCTO and other teams across VA, are digitizing forms that are not related to any benefits, are related to multiple benefits, are not OMB forms, or are for non-Veteran or non-beneficiary audiences.  In these cases, the benefit-centric IA of VA.gov does not have a clear home for these types of forms.  
 
-**1) Place the form at the root level of the site as a stand-alone feature.**
-  - Examples:
-    - The forms related to managing dependents lives at the root level of the site - https://www.va.gov/view-change-dependents/ - because it is related to multiple benefit categories.
-    - The harassment reporting form was built at the top level in the IA of VA.gov at https://www.va.gov/report-harassment/ (actual digitized form on hold) because it does not relate to any benefit categories.
-  - This approach is not scalable over time and creates a number of issues for findability of the form.
-    - Continuing to place individual items at the root level of the site creates a very broad Information Architecture that can increase cognitive load as visitors try to sort through numerous menu options to find something specific.  Imagine a navigation menu with a list of 30 items - some are benefit categories, some are specific tasks, and some are general items.
-    - The existing primary navigation structure does not account for items outside of the benefit categories, so there is no place to include navigational links to these top level features.  Visitors  either need to access these forms via a crosslink in related benefit categories, a direct link placed in the header, home page or footer, or via search.
-    - The benefit-centric navigation model makes it difficult to determine where to even start looking.  For a form used for something like harassment reporting, this adds cognitive load on top of an already very sensitive topic. 
+**Our Current approach to organizing forms that are not related to a specific benefit**
 
-**2) Create a section for a group of forms.**
-  - Examples:
-    - The "Supporting forms for claims" section was created to house a number of forms being digitized that were related to multiple benefit types at https://www.va.gov/supporting-forms-for-claims/.
-    - The Records hub - https://www.va.gov/records/ - houses a few forms and links off to others.
-    - The school administrators section of the site - https://www.va.gov/school-administrators/ - was created to house information related to school certifying officials as well as digitized forms they use. 
-- While this approach provides a landing page with visibility and access to all of the different forms, it does not help findability of these forms.
-    - The concept of "supporting forms for claims" does not have any search value.  Visitors are searching for specific forms or looking for informaiton on all the forms for specific use cases - i.e how do I apply for disability with PTSD.
-    - Organizing the forms in these areas has challenges.  The Records hub is governed by the same hub/spoke structure as other benefit hubs (i.e. Get, Manage, Resources) which creates a confusing structure between what is getting records and what is managing records.
-    - There are 9 forms now available from the supporting forms for claims page, and as more launch, there is a need to organize them in a way that helps visitors find the specific form they need. Given many of these forms are for different benefits or different scenarios, organizing them all on one page is challenging. In addition, these forms are often part of larger form flows and the current content and length of the page makes it challenging to detail out this information.
-    - There could be benefits to having pages that bring together links to related forms for various scenarios (i.e. additional forms needed for your disability claim vs forms related to requesting your medical records), but organzing the forms themselves in this way is not scalable given forms can live in multiple scenarios.
-
-
-**3) Build a non-Veteran/beneficiary form flow in the Veteran experience**
-  - Example:  A new form for requesting a medallion at a private cemetery can be submitted by a Veteran's family member but as part of that request, a cemetery representative must review and approve that request. The plan is to build that review form flow within the Burials and memorials hub.
-  - This is not a pattern we want to continue - the Veteran and beneficiary space of the site is intended to house only those features supporting the Veterans and their family or caregivers.
-  - This flow will also live within this area of the IA but will not have any entry points to it, meaning that the cemetery officials can only access the approval form via a link in an email.  This IA approach does not provide any room for future growth of a landing page that allows a cemetery representative to access this review form at any time, see any requests in process, or access any other related information or forms.
+1) Place the form at the root level of the site as a stand-alone feature.
+    - Examples:
+      - The forms related to managing dependents - forms 21-686c and 21-674 - live at the root level of the site - https://www.va.gov/view-change-dependents/ - because it is related to multiple benefit categories.
+      - The Financial Status report - VA form 5655 - that can be submitted in support of requesting financial assistance with VA debt lives at https://www.va.gov/manage-va-debt/ because it is related to multiple benefit categories.
+    - This approach is not scalable over time and creates a number of issues for findability of the form.
+      - The existing primary navigation structure does not account for items outside of the benefit categories, so visitors must first select a benefit.  For tasks related to at least 1 benefit, this may be ok, but for tasks that are not specific to a benefit - such as submitting an FSR form 5655 related to debt - there is no clear way to navigate to it.
+      - Continuing to place individual items at the root level of the site creates a very broad Information Architecture that creates issues in navigation design. A focused navigation menu (i.e. just benefit categories) doesn't include everything making it challenging to know where to go, while a full navigation menu has too many items at varying levels of specificity (i.e. benefit categories, tasks, and general) making it hard to sift through.
+2) Create a section for a group of forms.
+    - Examples:
+      - The "Supporting forms for claims" section was created to house a number of forms being digitized that were related to multiple benefit types at https://www.va.gov/supporting-forms-for-claims/
+      - The Records hub - https://www.va.gov/records/ - houses a few forms and links off to others
+    - While this approach provides a landing page with access to all of the different forms, it doesn't always help findability of these forms.
+      - The concept of "supporting forms for claims" has very little search value - it as simply a title given to this group of forms.  Visitors are searching for specific forms or looking for informaiton on all the forms for specific use cases - i.e how do I apply for disability with PTSD.  It is also not readily accessible via primary navigation.  A site visitor would need to navigate to a benefit hub, find a link in relevant content, then link over to the specific forms in this section.  
+    - Organizing the forms in these areas has challenges.
+      - The Records hub is governed by the same hub/spoke structure as other benefit hubs (i.e. Get, Manage, Resources) which creates a confusing structure between what is getting records and what is managing records.
+      - There are 9 forms now available from the supporting forms for claims page, and as more launch, there is a need to organize them in a way that helps visitors scan the list of what's available to find the specific form they need. Given many of these forms are for different benefits or different scenarios, organizing them all on one page is challenging. 
+      - There could be benefits to having pages that bring together links to related forms for various scenarios (i.e. additional forms needed for your disability claim vs forms related to requesting your medical records), but organzing the forms themselves in this way is not scalable given forms can live in multiple scenarios.
+3) Force a form into a benefit hub
+    - Examples:
+      - The Pre-need Determination for Eligibility for Burial in a VA Cemetery form - form 40-10007 - is applicable to both Veterans and qualified family members.  The form is currently placed within the Veteran burials and memorials hub and the family member benefit hub sends visitors to that section of the site for informaiton and to apply. 
+      - A new form flow for requesting a medallion at a private cemetery has a form for a cemetery representative to review and approve that request. The plan is to build that review form flow within the Burials and memorials hub because there isn't a home for the audience.
+    - This is not a pattern we want to continue - the Veteran and beneficiary space of the site is intended to house only those features supporting the Veterans and their family or caregivers.
+    - This flow will also live within this area of the IA but will not have any entry points to it, meaning that the cemetery officials can only access the approval form via a link in an email.  This IA approach does not provide any room for future growth of a landing page that allows a cemetery representative to access this review form at any time, see any requests in process, or access any other related information or forms.
 
                     
 
