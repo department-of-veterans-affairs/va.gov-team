@@ -76,7 +76,7 @@ If you think this is an error, or think you have been a victim of bank fraud cal
 </details>
 
 
-<details><summary>NEEDS: DESIGN (Refer to old designs + staging), LINK TO CODE, QA | Payments detected: Edit direct deposit information</summary>
+<details><summary>NEEDS: DESIGN (Refer to old designs + staging), LINK TO CODE | Payments detected: Edit direct deposit information</summary>
 
 - **Use case:** Triggered when a user clicks the Edit button.
 - **Status code:** None
@@ -107,6 +107,56 @@ If you think this is an error, or think you have been a victim of bank fraud cal
 
 ## Edge cases
 
+### Validation
+
+<details><summary>NEEDS: DESIGN (Refer to code), STATUS CODES, QA | InvalidRoutingNumber: Invalid routing number entered</summary>
+
+- **Use case:** User edits their direct deposit information, a call is made to match the routing number, and the routing number is incorrect.
+- **Status code:** TBD
+- **Content:**
+
+We can’t find a bank linked to the routing number you entered.
+
+Review your routing number and make sure it’s correct.
+
+- **Format:** [Error alert component](https://design.va.gov/components/alert/#error-alert)
+- [Link to designs]
+- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blame/8bb9e606cbe6ac0d17598e748a550218b5bf3f2f/src/applications/personalization/profile/components/direct-deposit/alerts/UpdateErrorAlert.jsx#L65)
+
+</details>
+
+
+<details><summary>NEEDS: DESIGN (Refer to code), STATUS CODES, QA | UpdatePhoneNumberError: Invalid home or work number entered</summary>
+
+- **Use case:** User edits their direct deposit information, a call is made to match the home and work phone, and the information is incorrect. There is no requirement to have valid phone numbers on file, and this is a legacy event from eBenefits. [More context linked here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/validation-address-phone.md).
+- **Status code:** TBD
+- **Content:**
+
+We’re sorry. We couldn’t update your direct deposit bank information because your ${phoneNumberType} phone number is missing or invalid. Please go back to your profile and fill in this required information.
+
+- **Format:** [Error alert component](https://design.va.gov/components/alert/#error-alert)
+- [Link to designs]
+- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blame/8bb9e606cbe6ac0d17598e748a550218b5bf3f2f/src/applications/personalization/profile/components/direct-deposit/alerts/UpdateErrorAlert.jsx#L106)
+
+</details>
+
+
+<details><summary>NEEDS: DESIGN (Refer to code), STATUS CODES, QA | UpdateAddressError: Invalid address entered</summary>
+
+- **Use case:** User edits their direct deposit information, a call is made to match the address, and the information is incorrect. There is no requirement to have valid addresses on file, and this is a legacy event from eBenefits. [More context linked here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/validation-address-phone.md).
+- **Status code:** TBD
+- **Content:**
+
+We’re sorry. We couldn’t update your direct deposit bank information because your mailing address is missing or invalid. Please go back to your profile and fill in this required information.
+
+- **Format:** [Error alert component](https://design.va.gov/components/alert/#error-alert)
+- [Link to designs]
+- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blame/8bb9e606cbe6ac0d17598e748a550218b5bf3f2f/src/applications/personalization/profile/components/direct-deposit/alerts/UpdateErrorAlert.jsx#L93)
+
+</details>
+
+ 
+
 ### Flags 
 - [Payment Restriction Error (422 status): BGS has flagged the account for fraud](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/flag-fraud.md)
   - [Link to design for messaging](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=1855-3868&t=j194bBgehrlP0O0j-1)
@@ -118,15 +168,6 @@ If you think this is an error, or think you have been a victim of bank fraud cal
 
 ### Blocked users 
 - NO ACTION NEEDED [See documentation here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/blocked-account.md)
-
-### Validation
-User tries to update their direct deposit information, but ...
-- [Invalid Routing Number Error: Routing number can't be matched with a bank](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/editing-account-info.md#save-error-routing-number-entered-is-invalid-and-cant-be-matched-to-a-bank)
-  - [Link to code for messaging](https://github.com/department-of-veterans-affairs/vets-website/blame/8bb9e606cbe6ac0d17598e748a550218b5bf3f2f/src/applications/personalization/profile/components/direct-deposit/alerts/UpdateErrorAlert.jsx#L65)
-- [Invalid Home/Work Phone Number Error: No valid phone number on file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/validation-address-phone.md)
-  - [Link to code for messaging](https://github.com/department-of-veterans-affairs/vets-website/blame/8bb9e606cbe6ac0d17598e748a550218b5bf3f2f/src/applications/personalization/profile/components/direct-deposit/alerts/UpdateErrorAlert.jsx#L106)
-- [Invalid Address Error: No valid mailing address on file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/validation-address-phone.md)
-  - [Link to code for messaging](https://github.com/department-of-veterans-affairs/vets-website/blame/8bb9e606cbe6ac0d17598e748a550218b5bf3f2f/src/applications/personalization/profile/components/direct-deposit/alerts/UpdateErrorAlert.jsx#L93) 
 
 ### System
 - [Temporary Outage: System is down](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/system-cant-display-dd.md)
