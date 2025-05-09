@@ -137,21 +137,44 @@ Note: Contact Center will email you the feedback to the VA email address you pro
 
 ## How to Analyze Feedback
 
-Analyzing the feedback involves adding codes for themes, feature requests, and sentiment
+Analyzing the feedback involves adding codes for themes, feature requests, and sentiment. We also call out when other tools are mentioned.
 
-**Add codes for Themes and feature requests**
+**Add codes for themes and feature requests**
 
-Codes for themes and feature requests are in the [user feedback spreadsheet](https://dvagov.sharepoint.com/:x:/r/sites/HealthApartment/Shared%20Documents/Appointments/User%20Feedback/2025%20Analysis.xlsx?d=wdaa5b5f611b649a28c4fcbc0bc8ef07a&csf=1&web=1&e=ZOW5q7) (2025). Look in the tabs with those names. 
+- Each line of feedback may be coded with multiple themes or feature requests
+   - Separate each code with a comma, i.e., `appt-data-issue, fr-data-providername, fr-data-typeofcare, quote` 
+- Definitions for codes are in the [user feedback spreadsheet](https://dvagov.sharepoint.com/:x:/r/sites/HealthApartment/Shared%20Documents/Appointments/User%20Feedback/2025%20Analysis.xlsx?d=wdaa5b5f611b649a28c4fcbc0bc8ef07a&csf=1&web=1&e=ZOW5q7) (2025). 
+- Overall themes, whether positive or negative
+- Feature requests, if the user notes functionality that doesn't currently exist
+- Only add new codes when reviewing data for at least a month, preferably more, for new trends
+- Don't delete codes. At the end of the year, when spinning up a new tracker, we'll determine as a team which codes to drop from analysis.
+ 
+Some codes help with administrative tasks:
 
-**Sentiment**
+- Add the `quote` code to any piece of feedback that you want to share with the team. Once coding is done, you can filter down to rows that contain the "quote" value and copy those into the report doc.
+- Use `other-health-tool` to help the MHV Health Teams identify comments for their tools.
+   - When you use this code, always include a code for the Other Product Tool column (see below) 
+
+**Add codes for Sentiment**
 
 - Each line of feedback may be coded with a single sentiment code. Codes for sentiment are:
     - Positive
     - Negative
     - Mixed
     - Neutral
-- Along with the comment, use the following fields to determine sentiment:
+- If the sentiment is unclear by the comment alone, use the following fields to help determine sentiment:
     - `Were you able to do your task today?` - if the comment just includes a task, like "cancel an appointment" and they answer "No" to this question, then it's more likely a negative comment
-- You may leave sentiment blank, if there is no comment or likert rating
-- Add the `quote` code to any piece of feedback that you want to share with the team.
+    - `What is your overall satisfaction with this site`
+    - `VA.gov experience`
+    - `VA.gov understanding`
+    - `Please rate your experience with this site`
+- Leave sentiment blank if there is no comment or likert rating
+
+**Add codes for other products/tools**
+
+- If the comment includes a mention of a tool other than appointments, use the follow codes (separate multiple with commas):
+    - Secure Messaging
+    - Medical Records
+    - Medications
+- These are copied over to the monthly MHV on VA.gov feedback spreadsheets to help other teams identify relevant feedback
 
