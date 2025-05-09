@@ -19,8 +19,8 @@ Jump to:
 * [Executive Summary](#executive-summary)
 * [Participant Sample](#participant-sample)
 * [Key Findings and Recommendations](#key-findings-and-recommendations)
-  + [Claim submission flow](##the-21-686-submission-flow-is-not-intuitive,-but-is-accepted)
-    - [Landing page – Find Claimant](#landing-page-after-log-in:-find-claimant)
+  + [Claim submission flow](#the-21-686-submission-flow-is-not-intuitive,-but-is-accepted)
+    - [Landing page – Find Claimant](#landing-page-after-log-in)
     - [Submit form intro page](#submit-21-686c-intro-page)
     - [Step 1/3 Claimant and representative information](#step-1/3-claimant-and-representative-information)
     - [Step 2/3 Upload files](#step-2/3-upload-files)
@@ -85,7 +85,7 @@ When submitting a 21-686c from ARP, representatives’ expectations of what woul
 
 <img width="577" alt="image" src="https://github.com/user-attachments/assets/cb916624-8b6a-4d38-b763-b0252ca6f924" />
 
-### Landing page after log-in: Find Claimant
+### Landing page after log-in
 
 On “Find Claimant” page, 3/5 representatives did not expect, but accepted, what they saw in the search results.
 
