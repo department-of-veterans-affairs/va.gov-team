@@ -1,6 +1,6 @@
 # Purpose of the Prompt
 
-This prompt is designed to help summarize research reports in markdown format while maintaining a structured, user-friendly layout. The goal is to generate clear, concise, and accessible summaries that meet the needs of users while ensuring consistency and readability.
+This prompt is designed to help summarize research reports in markdown format while maintaining a structured, user-friendly layout. The goal is to generate clear, concise, and accessible summaries that...
 
 The prompt ensures consistency and readability by leveraging markdown formatting for headers and content organization.
 
@@ -48,16 +48,6 @@ Content Structure:
    - Example: "The Authenticated Experience team at OCTO conducted user interviews to understand what Veterans want to accomplish on the homepage."
 5. **Key insights**: Use the `##` header. Provide 3-5 bullet points summarizing the key insights from the study. Ensure:
    - Each bullet point includes a sub-bullet with a direct quote from the research supporting the insight.
-   - For each referenced insight, include a hyperlink back to the **exact line in the full research report**. Use the GitHub URL structure to link directly to the line (e.g., `https://github.com/{owner}/{repo}/blob/{branch}/{path}#L{line_number}`).
-   - Follow these steps to get the **exact line number for each quote**:
-     1. Open the full research report in GitHub.
-     2. Locate the specific quote in the research report.
-     3. Hover over the line number of the quote on the left-hand side of the GitHub file view.
-     4. Right-click on the line number and select **"Copy Link Address"**. This will copy a URL that includes the exact line number for the quote.
-     5. Paste this URL into the markdown summary as the hyperlink for the referenced insight.
-   - Example:
-     - Insight: Veterans value simplicity on the homepage. ([Line 34](https://github.com/department-of-veterans-affairs/va.gov-team/blob/main/research-report.md#L34))
-       - Quote: “I just want to find what I need quickly, without too much scrolling.”
 6. **Between the lines**: Use the `##` header. Add nuanced insight or analysis here.
 7. **Yes, but**: Use the `##` header. Introduce a counterpoint or alternative perspective here.
 8. **Why it matters**: Use the `##` header. Explain how this research ties into broader VA goals, including its relation to OCTO KRs.
@@ -66,6 +56,4 @@ Content Structure:
 
 Additional Notes:
 - Ensure the tone and formatting adhere to the above requirements.
-- Double-check each link to confirm it leads directly to the correct line in GitHub.
-- If a quote spans multiple lines in the file, link to the first line and clarify in the summary that the quote continues.
 ```
