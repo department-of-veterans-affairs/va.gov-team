@@ -31,12 +31,30 @@ User feedback comes from three sources:
 
 Every week we analyze feedback from the previous week and report to OCTO and the delivery team. These reports are generated from Medallia feedback - [here's how to request and code that feedback](#how-to-request-and-process-medallia-feedback).
 
-**How to put together and share out the report**
+#### **How to collect data for the report
+
 - Filter the Medallia sheet by the date range you're analyzing
 - Add a second filter on the codes column for any cell that contains `quote`.
 - Copy the quotes into the [Select Quotes sheet](https://dvagov.sharepoint.com/:w:/r/sites/HealthApartment/Shared%20Documents/Appointments/User%20Feedback/2025%20Analysis%20-%20Select%20Quotes.docx?d=w2738630d47d64de68e05cef933b39cea&csf=1&web=1&e=mHnZM7) (2025 example)
-- Share links to both the updated spreadsheet and Select Quotes document in the `#appointments-fe-meetup` channel. Note the dates of the updated date, and ping Kay, Kristen, and Robyn Singleton. 
+
+
+#### **How to organize the report**
+
+- Group the quotes into common themes. Codes can be helpful, but can also be combined here
+    - For example, if a lot of comments around canceling and rescheduling, merging those can be helpful to illustrate that they're part of the same workflow - often when a user cancels an appointment, they want to reschedule it
+    - If a comment spans categories, include it in the most relevant category
+        - Unless each comment is truly separate, like a bulletted list of issues, each of which is a worthy quote. In that case, include in multiple categories.
+- Important quotes go to the top.
+    - Note any big changes in feedback - and, if possible, why (like if a new feature was released)
+    - Note anything that sounds like a bug that needs to be addressed. 
+  
+
+#### How to share out the report**
+
+- Share links to both the updated spreadsheet and Select Quotes document in the `#appointments-fe-meetup` channel. Note the dates of the updated date, and ping Kay, Kristen, and Robyn Singleton.
+   - If you think you identified a bug, ping the PM and Dev Lead. 
 - Add the links to the Medallia ticket and close it.
+
 
 ### Monthly IVC reports 
 
@@ -139,7 +157,7 @@ Note: Contact Center will email you the feedback to the VA email address you pro
 
 Analyzing the feedback involves adding codes for themes, feature requests, and sentiment. We also call out when other tools are mentioned.
 
-**Add codes for themes and feature requests**
+### **Add codes for themes and feature requests**
 
 - Each line of feedback may be coded with multiple themes or feature requests
    - Separate each code with a comma, i.e., `appt-data-issue, fr-data-providername, fr-data-typeofcare, quote` 
@@ -152,10 +170,21 @@ Analyzing the feedback involves adding codes for themes, feature requests, and s
 Some codes help with administrative tasks:
 
 - Add the `quote` code to any piece of feedback that you want to share with the team. Once coding is done, you can filter down to rows that contain the "quote" value and copy those into the report doc.
+  - The best quotes are actionable and specific, or get a the reason behind the comment.
+  - Also include quotes that show emotion. These can be helpful, when paired with the specific issue, to get across the need.
 - Use `other-health-tool` to help the MHV Health Teams identify comments for their tools.
-   - When you use this code, always include a code for the Other Product Tool column (see below) 
+   - When you use this code, always include a code for the Other Product Tool column (see below)
+ 
+**Examples**
 
-**Add codes for Sentiment**
+| Comment | Code | Sentiment | Other Product/Tool | Explanation |
+|---------|------|-----------|--------------------|-------------|
+|         |       |           |                   |             |
+|         |       |           |                   |             |
+|         |       |           |                   |             |
+
+
+### **Add codes for Sentiment**
 
 - Each line of feedback may be coded with a single sentiment code. Codes for sentiment are:
     - Positive
@@ -170,7 +199,7 @@ Some codes help with administrative tasks:
     - `Please rate your experience with this site`
 - Leave sentiment blank if there is no comment or likert rating
 
-**Add codes for other products/tools**
+### **Add codes for other products/tools**
 
 - If the comment includes a mention of a tool other than appointments, use the follow codes (separate multiple with commas):
     - Secure Messaging
