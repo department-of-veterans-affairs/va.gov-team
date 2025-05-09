@@ -1,4 +1,4 @@
-# 10-10EZR Emeregency Contact (EC) and Next of Kin (NoK) - Release Plan 
+# 10-10EZR Emeregency Contact (EC) and Next of Kin (NoK) - Release Plan (WIP)
 - Last updated: 4/28/2025
 
 
@@ -9,8 +9,10 @@ Feature toggle
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| ezr_prod_??? | Toggle to enable users to see EC on 10-10EZR form |
-| ezr_prod_??? | Toggle to enable users to see NoK on 10-10EZR form |
+|ezr_associations_api_enabled | Enables VES's Associations REST API |
+|ezr_emergency_contacts_enabled| Enables emergency contact experience for 10-10EZR applicants|
+|ezr_next_of_kin_enabled|Enables next of kin experience for 10-10EZR applicants|
+| (NOT SURE ABOUT THIS ONE) ezr_prefill_contacts | Adds Veteran contacts to ezr prefill data |
 
 
 ## Step 2: Validation
@@ -73,33 +75,15 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 - Data source
      - [Datadog dashboard](https://vagov.ddog-gov.com/dashboard/kjp-9wp-u47/10-10ezr?historicalData=true&index=&refresh_mode=sliding&view=spans&from_ts=1703092684168&to_ts=1703179084168&live=true)
-     - [Google Analytics submissions](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20231220&_u.date01=20231221&explorer-segmentExplorer.segmentId=analytics.eventLabel&explorer-table.advFilter=%5B%5B0,%22analytics.eventLabel%22,%22PT%22,%22ezr--submission%22,0%5D%5D&explorer-table.plotKeys=%5B%5D&explorer-table.secSegmentId=analytics.pagePath&explorer-table.rowCount=25&explorer-graphOptions.selected=analytics.nthDay&explorer-graphMode.mode=lineChart/)
+     - [Google Analytics - EZR Events](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/B1BuF9JgTgCgLV3cx4EB4Q)
 
 **Note** Paper submissions are based on the average provided by HEC for volumes that are received by the HEC centralized processing center.  This does not include individual facilities, as there are no mechanisms in place to track them.
 | Product KPI | Historical | Target | Post-Launch 1 week |Post-Launch 1 month|
 |------------- |---------|-------------- |-------------- |-------------- |
-|Paper Submissions |15,000 (estimated) |4,000 (25%) | TBD |TBD |
-|Online Submissions |NEW |11,000 (75%) | TBD |TBD |
-|Submission Failures |NEW |None | TBD |TBD |
-|Veteran Validation errors |NEW |None | TBD |TBD |
+|NOK updates |TBD |TBD | TBD |TBD |
+|EC Updates |TBD |TBD | TBD |TBD |
 
-
-#### **Key Result #2:** Capture 75% of form submissions in a single session
-
-- Data source
-     - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
-     - [Google Analytics PDF Downloads](https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p176188361/_u.date00=20231217&_u.date01=20231221&explorer-table.plotKeys=%5B%5D&explorer-graphOptions.selected=analytics.nthDay&explorer-graphMode.mode=lineChart&_r.drilldown=analytics.eventAction:PDF%20Downloaded%20-%20Download%20VA%20Form%2010-10EZR/)
-
-| Product KPI | Historical  | Target | Post-Launch 1 week |Post-Launch 1 month|
-|------------- |---------|-------|-------------- |-------------- |
-|Single-session submissions |NEW |75% of submitted forms (8,250)| TBD |TBD |
-
-
-#### **Key Result #3:** Reduce number of EZR form downloads from VA.gov
-
-| Product KPI | Historical  | Target | Post-Launch 1 week |Post-Launch 1 month|
-|------------- |---------|-------|-------------- |-------------- |
-|EZR PDF Downloads |avg 10,400 monthly |2,600 monthly (25%) | TBD |TBD |
+#### **Key Result #2: TBD
 
 
 
@@ -108,7 +92,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
      - Data source - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/kjp-9wp-u47/10-10ezr?historicalData=true&index=&refresh_mode=sliding&view=spans&from_ts=1703092684168&to_ts=1703179084168&live=true)
      - Data source for errors - [Sentry Logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
 - Who is monitoring the dashboard(s)?:
-     - Product Manager - Alex Seelig, Heather Justice
+     - Product Manager - Heather Justice, Michael Skinner
      - Data Analyst - Luis Simauchi
 
 
@@ -120,8 +104,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Planning
 
 - Length of time:
-     -  6 days, 1/10/24-1/16/24
-     - (Initially 12/20/2023-1/2/2024)
+     -  TBD
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 10% of authenticated Veterans
      - About 10 submissions per day
@@ -141,8 +124,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Planning
 
 - Length of time:
-     - 6 days, 1/16/24-1/22/24
-     - (Initially 1/2-1/7/2024, paused and rolled back 1/3/24 due to issues with Veteran DOB and Preferred Facility)
+     - TBD
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 25% of authenticated Veterans
      - about 25 submissions per day
@@ -163,7 +145,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Planning
 
 - Length of time:
-     - 3 days, 1/22/24-1/24/2024
+     - TBD
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 75% of authenticated Veterans
      - about 75-100 submissions per day
@@ -181,7 +163,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Planning
 
 - Length of time:
-     - 1/24/24
+     - TBD
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 100% of authenticated Veterans
      - about 1,000 per week
