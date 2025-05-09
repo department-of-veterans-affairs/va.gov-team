@@ -48,7 +48,7 @@ What metrics-based criteria will you look at before advancing rollout to the nex
 
 - [x] **2025/05/06** - Lighthouse team plans to deploy required change to production
 - [x] **2025/05/07** - BMT2 to increase to 25%; monitor DataDog as described above
-- [ ] **2025/05/08** - BMT2 to increase to 50%; continue to monitor DataDog
+- [x] **2025/05/08** - BMT2 to increase to 50%; continue to monitor DataDog
 - [ ] **2025/05/12** - BMT2 to increase to 75%; continue to monitor DataDog
 - [ ] **2025/05/13** - BMT2 to increase to 100%; continue to monitor DataDog through the remainder of the week
 
