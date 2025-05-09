@@ -60,3 +60,4 @@ What metrics-based criteria will you look at before advancing rollout to the nex
 - **2025/03/25** - another [bug](https://dsva.slack.com/archives/C02CQP3RFFX/p1742925759539209) was discovered on the Lighthouse side
 - **2025/03/26** - Rolled back to 0% for [a few reasons](https://dsva.slack.com/archives/C04KHCT3ZMY/p1743012653750079) related to the previous discoveries
 - **2025/03/31** - BMT1's period of performance ends; BMT2 assumes responsibility for the completion of the rollout
+- **2025/05/08** - Mobile traffic turned on to 50% and both web and mobile began seeing an increase in `502` and `504` errors; error rates on Download reached 0.78%, but fell to 0.74% overnight
