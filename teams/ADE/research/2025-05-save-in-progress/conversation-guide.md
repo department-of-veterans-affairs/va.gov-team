@@ -21,7 +21,7 @@
   1. Check for all green text, and "Setup complete" (if anything red, slack Alex Taker)
   1. Open standalone browser window with prototype: **https://bit.ly/4lXVLTV** (https://musical-space-goggles-7wxj74rqgvpfv9v-3001.app.github.dev/records/request-personal-records-form-20-10206/introduction?loggedIn=false) and test it
 - Sign onto Zoom website as Perigean and start Zoom meeting
-- Slack Perigean notetaker the notes doc in Word
+- Slack Perigean notetaker a link to the notes doc in GitHub
 - Post p# and "observer instructions" in #feedback-backchannel
   - @mention observers
   - Share brief summary of participant demographic info
