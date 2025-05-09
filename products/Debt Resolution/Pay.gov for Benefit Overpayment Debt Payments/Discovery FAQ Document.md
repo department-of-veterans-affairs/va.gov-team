@@ -39,9 +39,7 @@ So far, there are 5 steps (pages) to
 collect payment from Veterans for copays. 
 > Is it possible to consolidate these 5 pages on one hosted page?
 
-**8. From a UI/UX perspective, will we need two different interfaces, one for pay.va.gov experience and one for pay.gov?**
-
-**9. On pages hosted on Pay.gov ('Select a payment type' and 'Provide payment information'):** 
+**8. On pages hosted on Pay.gov ('Select a payment type' and 'Provide payment information'):** 
   - *Documentation 7.2 Header Image* mentions the option of selecting a header image. Can custom code also be placed in the header and footer area?
   - *Can custom styles be applied to the content of the page (form area)?*
 
