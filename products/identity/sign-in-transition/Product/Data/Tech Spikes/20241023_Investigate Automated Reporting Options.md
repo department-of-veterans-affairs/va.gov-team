@@ -9,7 +9,7 @@ The current process for generating monthly and weekly SSiT reports in Domo requi
 ## Findings
 One of our primary goals in improving the data collection and transformation process for the Domo dashboard tracking SSiT metrics is to introduce automation where it can enhance efficiency and reduce dependencies in the current workflow. To help identify and communicate where these opportunities in the process could be, we first mapped the process out from the point the data is placed on a mounted drive to the final dashboard display into the following diagram:
 
-![Current State | SSiT Report Generation in Domo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/sign-in-transition/Product/Data/Tech%20Spikes/Supporting%20Artifacts/Current%20State%20-%20SSiT%20Report%20Generation%20in%20Domo.png)
+[Current State | SSiT Report Generation in Domo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/sign-in-transition/Product/Data/Tech%20Spikes/Supporting%20Artifacts/Current%20State%20-%20SSiT%20Report%20Generation%20in%20Domo.png)
 
 ### Bottleneck: Manual Data Pre-Processing with Domo Workbench  
 By mapping out the current state, we validated that the largest bottleneck occurs during the preprocessing step using Domo Workbench. This step involves hashing ICNs to comply with PII standards and de-duplicating incoming data before uploading it to Domo cloud. This step has become a bottleneck because it runs on a GFE laptop which requires a VPN connection, limiting the potential for automation. 
