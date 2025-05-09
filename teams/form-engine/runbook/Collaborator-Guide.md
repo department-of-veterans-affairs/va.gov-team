@@ -373,6 +373,9 @@ The layout screen may look something like this example (below). This will list a
 
 After the content has been updated, you can review the changes within Form Builder. To view the updated content in the context of the form, the content will need to be picked up in a build, which happens daily. It is possible that it may take longer for a day to populate the previously set up app that shows the content. If you are scheduling, a review please allow time for the app to populate with your content. 
 
+If the window of 24-48 hours has passed and your most recent updates are not in place, you may need to reach out to the CMS platform team for support. 
+
+
 ## Handing off the form 
 
 Further publishing the form, with all of the collaboration cycle sign-offs complete, will need to be handled by an engineering effort. 
