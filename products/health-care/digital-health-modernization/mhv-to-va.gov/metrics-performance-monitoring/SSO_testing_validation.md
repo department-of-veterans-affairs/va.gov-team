@@ -22,12 +22,12 @@
 
 | URL                                                         | Desktop | Mobile | Notes |
 |-------------------------------------------------------------|---------|--------|-------|
-| `/my-health`                                                | ❌ No   |    | Loads as expected on both |
-| `my-health/appointments`                                    | ❌ No        |  Yes  |   | Modal appeared unexpectedly on both |
-| `/my-health/secure-messages/inbox/`                         | ❌ No   |    | Loads as expected |
-| `/my-health/medications/?page=1`                            | ❌ No   |    | No modal triggered |
+| `/my-health`                                                | ❌ No   |     
+| `my-health/appointments`                                    | ❌ No            
+| `/my-health/secure-messages/inbox/`                         | ❌ No   |    
+| `/my-health/medications/?page=1`                            | ❌ No   |    
 | `/my-health/medical-records`                                | ❌ No
-| `/my-health/appointments/schedule/type-of-care`             | ❌ No   |    | Works as expected |
+| `/my-health/appointments/schedule/type-of-care`             | ❌ No   |      
 | `/my-health/secure-messages/new-message/`                   | ❌ No
 | `/my-health/medications/refill`                             | ❌ No
 | `/my-health/medications/?page=1`                            | ❌ No
