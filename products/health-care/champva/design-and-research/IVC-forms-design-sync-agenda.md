@@ -1,7 +1,7 @@
 # Running Design and Research Agenda
 
 ## May 12 2025
-Attendees: 
+Attendees: Jamie Fiore, Renata Keck, Rachel Pope, Premal Shah, Amanda Klausmeier, Andrea Merrill, Mike Mooney
 ### Agenda Topics
 * UX Roadmap
 * Roadmapping New PDF form flow for OHI standalone 
@@ -11,6 +11,78 @@ Attendees:
 * Medallia report
 
  ### Notes
+**Roadmap**
+- Reviewed what is currently in flight (first week of sprint)
+- Premal asked if claims improvements are in production
+    - Content-only changes are
+    - Example image pages are no
+    - Submissions have a 50% sendback rate now, which is similar to the paper form
+
+**OHI Standalone/PDF Update**
+- New PDF is close to being done to changes need to be made to match
+    - No longer collecting carrier name for Parts A&B
+    - Adding Part C info collection
+    - Adding Part D carrier name
+- Want to wait to release until updated form is available
+    - Can work on it and put it behind a feature flag
+    - Premal will see if there are issues with releasing it before the form
+- Merge will have new version of OHI
+- Will review with engineering in refinement to get estimate/tickets
+- UX tickets can be created now to review in refinement
+
+**Medicare Part C**
+- Jamie shared desk research from Reddit about user understanding on Medicare Part C
+    - Changes made to avoid confusion
+        - Radio buttons instead of checkboxes
+        - Explanatory language for Part C so users understand why A and B info is requested
+- Amanda suggested good future state would be to pull the info from the uploaded card instead of making user enter it
+    - Premal (in chat) mentioned pulling in info from CMS via API
+    - Andrea suggested training AI to get info from the image
+- Premal mentioned just asking for info instead of card upload - this would match the 1010ez
+
+**Medicare card images**
+- Part C card and Part D card are different from the A & B card
+    - Is there a sample card for each that we can use so we have examples for all card types?
+    - Can also mock up in image in Figma
+- Per Premal, should only include examples if there is a standard card enforced by CMS. Otherwise cards could look different.
+- Amanda asked about accessibility
+    - This was reviewed by CAIA (previous team) for accessibility and alt text was needed
+    - Current content team would need to review alt text
+- It’s possible the different card images could create more confusion, especially if user’s card doesn’t match
+    - If 1010ez doesn’t have upload or image and there are no issues, do we need this?
+    - We can leave as-is and collect more data to see if there is any confusion around C and D cards
+    - Renata can ask 1010 team why they don’t ask for the card upload
+    - We can ask stakeholders what issues they’re seeing with submissions and see if the cards/card info come up
+- For A and B images, can we get them from CMS somehow?
+    - Probably okay to use if from CMS site and current
+    - No direct connection to ask
+    - Content team possibly could coordinate
+    - Jamie will ask CMS teams at Ad Hoc to see if they have insight/options.
+
+**Claims Resubmission**
+- Third flow shows checkboxes that match the sendback letter
+- We can prototype this flow to show to stakeholders for feedback
+- Premal asked about dependency on PEGA
+    - We can put a feature flag on any work
+    - Angela had mentioned that it could be moved up in PEGA’s backlog so it might happen sooner
+- Premal expressed some concern that flow doesn’t match the benefits flow
+    - They don’t use PEGA for status so unclear if we’d be able to do the same thing
+    - This flow works for unauthenticated users as well
+    - Maybe something we can work towards in the future
+- Can discuss flow with stakeholders, but not implementation
+    - If they’re interested in moving forward after seeing flow, we can discuss PEGA work
+
+**Action Items**
+- Medicare flow
+    - Discard sample images for C and D cards
+    - Get C/IA sign-off before engineering works on it
+    - Team will send email to ask about known issues with OHI/Medicare
+- File upload desk research
+    - Still in progress
+    - Rachel will send out link to Mural when complete
+- Medallia research
+    - Renata will post link to findings when complete
+
 
 ## May 5 2025
 Attendees: Jamie Fiore, Premal Shah, Amanda Klausmeier, Renata Keck, Andrea Merril
