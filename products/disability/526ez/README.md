@@ -53,7 +53,7 @@
 - ITSC (IT Strategic Comms) liaison: n/a
 - VBA contact: David Reis, Alejandro Mendiolaflores
   
-** Cross team coordination and support:**
+**Cross team coordination and support:**
 - Program Lead: Jane Kim
 - Product Lead: Yurena Garcia-Hevia
 - Engineer Lead: Richard Jones
