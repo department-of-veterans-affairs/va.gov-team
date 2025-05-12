@@ -8,7 +8,14 @@ The VA.gov experience includes information about and access to various VA forms,
 ### Problem 1:  
 The information related to VA forms - including what ways a form can be submitted, what information is needed for those forms, and what additional or supplemental forms may be needed - is scattered across multiple pages and often duplicated.  We need to streamline the information so it is provided at the right time in the experience and can be efficiently maintained. 
 
-- add info about pages...
+**Current content pages that contain information related to the submission of a specific form**
+1) The "How to apply" page in benefits hubs
+    - Examples:
+      - [Disability > How to file a claim](https://www.va.gov/disability/how-to-file-claim/), [Health care > How to apply](https://www.va.gov/health-care/how-to-apply/)
+      - Sometimes the "how to apply" is not on a dedicated page in the hub such as the [Burials and memorials > Veterans burial allowance](https://www.va.gov/burials-memorials/veterans-burial-allowance/) page
+2) Form introduction pages
+3) The "About form" page within the find a form experience
+
 
 
 
@@ -55,7 +62,7 @@ The goal of this initiative is to streamline content and establish a scalable IA
 
 ## Proposed solution
 
-- Evolve existing Drupal template for the "About form" page to better accomodate relevant information about a form as well as provide the ability create relationships between forms, information, and tools 
+- Eliminate the "How to apply" page by reorganizing and structuring and better utilizing the form introduction page and Drupal "About form" page to serve relevant information in a timely manner 
 - Establish a forms directory in the VA.gov IA house all OMB forms - including the PDFs and online experiences - in addition to form related tools (i.e. form search and pdf uploads)
 
 
