@@ -22,7 +22,12 @@ Total monthly reduction estimate: 58.6 mil
 
 | Name                  | Month Event Count Estimate | Justification  | Status |
 | --------------------- | -------------------------- | -------------- | ------ |
-|  |  |  |  |
+| vama_auth_completed | 2.4 mil | Duplicative event to vama_login_success | active |
+| vama_react_query_retry | 675k | Rarely used debugging event | active |
+| vama_select_all | 74k | Tracked, but unused, no data gathered | active |
+| vama_pagination | 800k | Generic component, not very useful | active |
+
+Total monthly reduction estimate: 3.95 mil
 
 ## Post-MVP 2, experience teams
 
