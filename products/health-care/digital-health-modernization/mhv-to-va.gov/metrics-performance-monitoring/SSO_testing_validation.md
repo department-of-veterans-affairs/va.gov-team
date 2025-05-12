@@ -10,37 +10,38 @@
 
 ## Testing Steps
 
-- Sign in on [VA.gov homepage](https://www.va.gov) using ID.me  
-- Verify logged-in state 
-- Navigate to each target page while staying logged in
-  - Log in then visit every page possible that starts with va.gov/my-health
-  - Log in then visit every page possible that starts with va.gov/health-care
-  - Identify if visiting any of these urls seems to trigger a "sign in" modal
-- Record whether SSO was maintained or if a sign-in modal was triggered  
+- Signed in on the [VA.gov homepage](https://www.va.gov) using ID.me  
+- Confirmed I was successfully logged in  
+- While staying signed in, I manually visited every page I could that starts with:
+  - `va.gov/my-health`
+  - `va.gov/health-care`
+- For each page, I checked to see if a "sign in" modal appeared even though I was already logged in  
+- Logged whether SSO was maintained or if I was unexpectedly prompted to sign in again
 
 ## Test Results by Device
 
-| URL                                                                  | Desktop | Mobile | Notes |
-|--------------------------------------------------------------------------------|--------|-------|-------|
-| `/my-health`                                                         | ❌ No   |     
-| `my-health/appointments`                                             | ❌ No            
-| `/my-health/secure-messages/inbox/`                                  | ❌ No   |    
-| `/my-health/medications/?page=1`                                     | ❌ No   |    
-| `/my-health/medical-records`                                         | ❌ No
-| `/my-health/appointments/schedule/type-of-care`                      | ❌ No   |      
-| `/my-health/secure-messages/new-message/`                            | ❌ No
-| `/my-health/medications/refill`                                      | ❌ No
-| `/my-health/medications/?page=1`                                     | ❌ No
-| `/my-health/travel-pay/claims`                                       | ❌ No
-| `health-care/order-hearing-aid-or-CPAP-supplies`                     | ⚠️ na    |        | not availble yet/directed to VA.gov.
-| `health-care/order-medical-supplies/`                                | ❌ No
-| `health-care/copay-rates/`                                           | ❌ No
-| `health-care/health-needs-conditions/mental-health/`                 | ❌ No
-| `health-care/about-va-health-benefits/dental-care/`                  | ❌ No
-| `my-health/update-benefits-information-form-10-10ezr/introduction`   | ❌ No
-| `health-care/get-health-id-card/`                                    | ❌ No
+| URL                                                                  | Desktop  | Mobile | Notes |
+|---------------------------------------------------------------------------------|--------|-------|-------|
+| `/my-health`                                                         | ❌ No    | ❌ No | works as expected   
+| `my-health/appointments`                                             | ❌ No    | ❌ No | works as expected         
+| `/my-health/secure-messages/inbox/`                                  | ❌ No    | ❌ No | works as expected  
+| `/my-health/medications/?page=1`                                     | ❌ No    | ❌ No | works as expected  
+| `/my-health/medical-records`                                         | ❌ No    | ❌ No | works as expected 
+| `/my-health/appointments/schedule/type-of-care`                      | ❌ No    | ❌ No | works as expected     
+| `/my-health/secure-messages/new-message/`                            | ❌ No    | ❌ No | works as expected 
+| `/my-health/medications/refill`                                      | ❌ No    | ❌ No | works as expected 
+| `/my-health/medications/?page=1`                                     | ❌ No    | ❌ No | works as expected 
+| `/my-health/travel-pay/claims`                                       | ❌ No    | ❌ No | works as expected 
+| `health-care/order-hearing-aid-or-CPAP-supplies`                     | ⚠️ na    | ⚠️ na | not available yet/directed to VA.gov.
+| `health-care/order-medical-supplies/`                                | ❌ No    | ❌ No | works as expected 
+| `health-care/copay-rates/`                                           | ❌ No    | ❌ No | works as expected 
+| `health-care/health-needs-conditions/mental-health/`                 | ❌ No    | ❌ No | works as expected 
+| `health-care/about-va-health-benefits/dental-care/`                  | ❌ No    | ❌ No | works as expected 
+| `my-health/update-benefits-information-form-10-10ezr/introduction`   | ❌ No    | ❌ No | works as expected 
+| `health-care/get-health-id-card/`                                    | ❌ No    | ❌ No | works as expected 
 
 ## Observations
 
-- SSO fails intermittently on some subpages under /health-care and /my-health, even after valid sign-in.
-- The issue does **not** affect all users or pages, suggesting a possible code-level inconsistency.
+- Manual validation on an active Production MHV-linked account was completed across both desktop and mobile.
+- SSO behavior appeared normal and functioned as expected — no unexpected sign-in prompts were triggered during testing.
+- However, we will continue monitoring user feedback through Medallia to identify any patterns in user behavior or page flows where SSO issues may still be occurring.
