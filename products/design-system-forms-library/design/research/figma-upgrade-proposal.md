@@ -9,7 +9,7 @@ This document outlines a proposal for reorganizing the VA's Figma workspace. The
 To avoid confusion, this document uses specific capitalization for Figma's structural elements:
 
 * **Organization:** The highest level in the Figma hierarchy (our entire VA workspace).
-* **Team:** A distinct group within the Organization (e.g., MyHealthiVet, Lighthouse).
+* **Team:** A distinct group within the Organization (e.g., MyHealtheVet, Lighthouse).
 * **Project:** A collection of related design files within a specific Team.
 
 ## Current Challenges with the Previous "Pro" Tier Setup
@@ -27,7 +27,7 @@ Under the Professional tier, VA was limited to a single Team, with which each ac
 
 This setup caused several organizational challenges:
 
-* **All VA teams were treated as Projects:** This meant that some teams who have multiple initiatives, like Mobile App, MyHealthiVet, Lighthouse, had their various initiatives grouped together at the same level with all the other teams/Projects, reducing clarity.
+* **All VA teams were treated as Projects:** This meant that some teams who have multiple initiatives, like Mobile App, MyHealtheVet, Lighthouse, had their various initiatives grouped together at the same level with all the other teams/Projects, reducing clarity.
 * **Inconsistent Project Naming:** Some Projects were created without clear team affiliation (e.g., "Contact us page," "Careers and Employment"), making it difficult to quickly find and understand their context and ownership.
 * **Overwhelming Number of Shared Libraries:** With all work under one Team, any shared library created by one team became available to everyone. This resulted in 54 published libraries, many of which were likely team-specific, abandoned, poorly named (e.g., "Library," "Source of Truth SM"), or overshadowed essential multi-team libraries like the VADS Component Library.
 
@@ -36,7 +36,7 @@ This setup caused several organizational challenges:
 The Organization tier offers a more sensible and flexible structure:
 
 * **Organization** (Entire VA Workspace)
-    * **Team 1** (e.g., MyHealthiVet)
+    * **Team 1** (e.g., MyHealtheVet)
         * Project A (e.g., New Feature Design)
             * File(s)
         * Project B (e.g., User Research)
@@ -65,7 +65,7 @@ To get the most out of the Organization tier, the following guidelines are propo
 
 ## Additional Considerations
 
-* **Use Full Team Names (Avoid Acronyms):** To help searchability and onboarding for new members, use full names for Teams (e.g., "MyHealthiVet" instead of "MHV," "Lighthouse" instead of "LDX"). The only exception is "VA." Teams can still use acronyms for their internal Projects and Files if they wish.
+* **Use Full Team Names (Avoid Acronyms):** To help searchability and onboarding for new members, use full names for Teams (e.g., "MyHealtheVet" instead of "MHV," "Lighthouse" instead of "LDX"). The only exception is "VA." Teams can still use acronyms for their internal Projects and Files if they wish.
 * **Using 'va.gov' Email Addresses:**
     * Everyone will need to use a 'va.gov' email address for their Figma account.
     * If you don't have one, a new account will be needed.
