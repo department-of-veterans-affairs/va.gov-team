@@ -1,11 +1,11 @@
 Ask users for…
 
 
-# **Marital Status**
+# **Marital status**
 
 Use with caution: Available
 
-Follow this pattern to ask a user for their marital status. 
+Follow this pattern to ask a user for their marital status and information about their current and previous marriages. 
 
 ### Resources
 
@@ -14,6 +14,8 @@ Follow this pattern to ask a user for their marital status.
 ### Contributors
 
 Lynn Stahl (Agile Six)
+
+Fran Cross (Agile Six)
 
 Adam Whitlock (Ad Hoc)
 
@@ -44,11 +46,11 @@ Research findings
 
 #### **When to use this pattern**
 
-* **When you need to collect a person’s marital status.** This applies to a  Veteran, spouse, or dependent who may be applying for benefits.
+**When you need to collect a person’s marital status. This applies to a  Veteran, spouse, or dependent who may be applying for benefits.**
 
 #### **Design principles**
 
-* **Take a trauma-informed approach.** Although commonly asked, this question can bring up complex feelings and memories in respondents. Explain why we ask the question with an [Additional Info](https://design.va.gov/components/additional-info) component. Limit data collection to necessary data only for your form. 
+**Take a trauma-informed approach. Although commonly asked, questions about marital status and previous marriages can bring up complex feelings and memories in respondents. Explain why we ask the question with an [Additional info](https://design.va.gov/components/additional-info) component. Limit data collection to only the necessary data for your form.** 
 
 
 ### **How to design and build**
@@ -58,9 +60,9 @@ Research findings
 ##### “What is your marital status?” question
 
 * **This question is the only required part of this pattern.**  Use the other questions in this pattern if your form needs more information.
-* **Include an explanation for why we ask this question.** Place this explanation in an [Additional Info](https://design.va.gov/components/additional-info) component to give users the option to learn more if necessary.
+* **Include an explanation for why we ask this question.** Place this explanation in an [Additional info](https://design.va.gov/components/additional-info) component for questions that may be difficult for respondents to give them the option to learn more.
 
-Use these following questions in this pattern if your form needs more information. 
+Use the following questions in this pattern if your form needs more information. 
 
 
 ##### Spouse information
@@ -69,9 +71,9 @@ This optional section includes questions about the spouse, including:
 
 * Name
 * Date of birth
-* Social Security number (SSN)
+* Social Security number
 * If they are a Veteran
-    * If yes, their VA file number and military service number
+* Their VA file number and military service number if they are a Veteran
 
 
 ##### Marriage information
@@ -91,9 +93,9 @@ This optional section asks if the user lives with their spouse. If not, it also 
 
 ##### Previous marriage information
 
-This optional section features the [Multiple Responses](https://design.va.gov/patterns/ask-users-for/multiple-responses) (also known as: List & Loop) pattern to ask questions about previous marriages, including:
+This optional section features the [Multiple responses](https://design.va.gov/patterns/ask-users-for/multiple-responses) (also known as: List & Loop) pattern to ask questions about previous marriages, including:
 
-* Names of former spouse(s)
+* Name(s) of former spouse(s)
 * Veteran status of former spouse(s)
 * Date and place of marriage(s)
 * Date and place of marriage termination(s)
@@ -102,13 +104,13 @@ This optional section features the [Multiple Responses](https://design.va.gov/pa
 
 #### **Patterns and components used in this pattern**
 
-* [Radio Button](https://design.va.gov/components/form/radio-button)
+* [Radio button](https://design.va.gov/components/form/radio-button)
 * [Select](https://design.va.gov/components/form/select)
-* [Multiple Responses](https://design.va.gov/patterns/ask-users-for/multiple-responses)
-* [Additional Info](https://design.va.gov/components/additional-info)
+* [Multiple responses](https://design.va.gov/patterns/ask-users-for/multiple-responses)
+* [Additional info](https://design.va.gov/components/additional-info)
 
 #### **Additional considerations**
-* If you are asking only one question on a page, the question label should be an h3, as shown in the [Ask Users for... a Single Response](https://design.va.gov/patterns/ask-users-for/a-single-response#annotated) pattern. However, if you are asking multiple questions per page, give the page a descriptive page title as an h3 and use standard (non-header) labels for questions.
+* If you are asking only one question on a page, the question label should be an h3, as shown in the [Ask users for... A single response](https://design.va.gov/patterns/ask-users-for/a-single-response#annotated) pattern. However, if you are asking multiple questions per page, give the page a descriptive page title as an h3 and use standard (non-header) labels for questions.
 
 
 ### **Examples**
@@ -134,9 +136,13 @@ Veterans, their spouse, or a dependent can complete forms. Depending on who is c
 
 #### Radio button accessibility considerations
 
-* **VoiceOver on Safari has accessibility issues.** VoiceOver on Safari reads out the fieldset legend for each radio item. It should only read out the legend at the end of the first radio option. There's no workaround right now. Learn more in the [Radio Button component](https://design.va.gov/components/form/radio-button) page.
+**VoiceOver on Safari has accessibility issues.** VoiceOver on Safari reads out the fieldset legend for each radio item. It should only read out the legend at the end of the first radio option. Theres no workaround right now.
+
+**Learn more in the** [Radio button component](https://design.va.gov/components/form/radio-button) page
 
 
 ### **Research findings**
 
-A [secondary research report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Discovery%20Research%20Report.md) from April 2025 explores which VA forms ask questions related to an applicant's marital status and how they phrase these quesitons. It also provides recommendations that influenced the creation of this pattern. 
+A [secondary research report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Discovery%20Research%20Report.md) from April 2025 explores which VA forms ask questions related to an applicant's marital status and how they phrase these questions. It also provides recommendations that influenced the creation of this pattern. 
+
+**Learn more in the** [research report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Discovery%20Research%20Report.md) 
