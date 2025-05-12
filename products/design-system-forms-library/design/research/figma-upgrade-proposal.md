@@ -79,4 +79,4 @@ To get the most out of the Organization tier, the following guidelines are propo
     * Prevent confusion with the new VA.gov Platform Organization
     * Identify files that need to be moved to a new Team
     * Identify files that are not currently active or maintained
-* **Publicly Viewable Teams:** Unless there’s a compelling reason (e.g., sensitive projects), Teams should default to be public viewable to promote transparency and knowledge sharing. **Note:** Even if a Team is public, Projects and Files within that Team will only be viewable (not editable) by people outside that specific Team.
+* **Publicly Viewable Teams:** Unless there’s a compelling reason (e.g., sensitive projects), all Teams should default to be viewable by the full Organization to promote transparency and knowledge sharing. (This is an option during Team creation.) **Note:** Even if a Team is viewable by the Organization, Projects and Files within that Team will only be viewable (not editable) by people outside that specific Team.
