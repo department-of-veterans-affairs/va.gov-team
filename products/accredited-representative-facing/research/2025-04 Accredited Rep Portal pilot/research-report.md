@@ -3,12 +3,10 @@
 Office of the CTO - Digital Experience (OCTO-DE), Accredited Representative Facing Team
 
 Date: 05/2025
-
-Product: Accredited Representative Portal (ARP)
-
 - Jen Seipel, Eva Heintzelman (research preparation, session moderation, notetaking, interview synthesis)
 - Marisa Dominguez (session moderation, notetaking)
 
+Product: Accredited Representative Portal (ARP)
 
 # Table of contents
 - [Background](https://docs.google.com/document/d/1xnDp0MbgVIkj79msIeQCWLrXfB_fwVD0/edit#heading=h.92u22pnoq259)
@@ -40,11 +38,9 @@ In this study, we used a prototype that matches the functionality currently in p
 
 ## Research goals
 
-1. Evaluate the usability of ARP, finding, reviewing, and accepting/declining a POA request.
-
-2. Understand accredited representative workflows more fully, especially related to POA.
-
-3. Understand high-level organizational procedures of a small NE state VSO, in this case, CT DVA.
+- Evaluate the usability of ARP, finding, reviewing, and accepting/declining a POA request.
+- Understand accredited representative workflows more fully, especially related to POA.
+- Understand high-level organizational procedures of a small NE state VSO, in this case, CT DVA.
 
 
 ## Methodology
@@ -52,36 +48,26 @@ In this study, we used a prototype that matches the functionality currently in p
 **Usability testing, concept testing, and semi-structured interviews**
 
 - **5 non-pilot participants** / 1:1 sessions 
-
   - POA usability testing: clickable Figma prototype 
-
   - Concept testing: clickable Figma prototype 
-
 - **3 pilot participants** / 1:1 sessions
-
   - POA usability testing: clickable Figma prototype 
-
   - Concept testing: clickable Figma prototype 
-
 - Followed by semi-structured interviews
 
 
 ## Research artifacts
 
 - [Mural Synthesis Board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1743630068812/0d1b6f777adf4a4990564a64d5fc657dd1e032e3?sender=u8c680948381f722d73501107)
-
 - [2025 04 ARP Pilot - Research plan](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/_layouts/15/Doc.aspx?sourcedoc=%7BD9336A7C-9281-4D36-9CF5-A10838F96D0E%7D\&file=2025%2004%20ARP%20Pilot%20-%20Research%20plan.docx\&action=default\&mobileredirect=true) (Sharepoint)
-
 - [2025 04 ARP Pilot - Representative convo guide](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/_layouts/15/Doc.aspx?sourcedoc=%7B674138E2-D8FB-425B-83C4-F67474FFCF0C%7D\&file=2025-04%20ARP%20Pilot%20-%20Representative%20convo%20guide.docx\&action=default\&mobileredirect=true) (Sharepoint)
-
 
 # Participant sample
 
 Representatives using the 3rd party tools VetraSpec and VetPro are over-represented in the sample. Before starting work with CT Veterans Affairs, we had thought they were QuickSubmit and/or SEP users for POA establishment. It turned out that the organization had adopted VetraSpec recently. Our sample is also skewed toward more experienced representatives and supervisors.
 
-|    |                              |                                   |                                                  |                                |                            |
-| -- | ---------------------------- | --------------------------------- | ------------------------------------------------ | ------------------------------ | -------------------------- |
 |    | Veteran Service Organization | Tool used for POA                 | Other tools used for submissions                 | Supervisory role               | Cross/Single accreditation |
+| -- | ---------------------------- | --------------------------------- | ------------------------------------------------ | ------------------------------ | -------------------------- |
 | P1 | MN Dept of Veterans          | VetPro                            | QuickSubmit                                      | Non-supervisor (has assistant) | Cross (5)                  |
 | P2 | Vietnam Vets of America      | QuickSubmit                       | VetPro                                           | Supervisor                     | Cross (2)                  |
 | P3 | American Legion (MI)         | VetraSpec                         | SEP for dependency claims                        | Supervisor                     | Cross (2)                  |
@@ -91,40 +77,26 @@ Representatives using the 3rd party tools VetraSpec and VetPro are over-represen
 | P7 | CT Veterans Affairs          | VetraSpec                         | QuickSubmit for forms VetraSpec does not support | Non-supervisor                 | Single                     |
 | P8 | CT Veterans Affairs          | VetraSpec                         |                                                  | Non-supervisor                 | Single                     |
 
-
 # Summary of key findings
 
 ### **1. Adoption of new method for POA establishment**
-
-- Representatives with “instant submission” of the 21-22 in their current process have limited reason to adopt the new method for POA establishment. 
-
-- ### **Compared to the new method of POA establishment, current processes are better suited to establish POA in an in-person setting and with Veterans who do not have VA.gov accounts.**  
-
-- ### **Concerns that stem from a lack of familiarity with the new ARP method can be overcome with improved marketing materials and onboarding methods.** 
-
+- Representatives with “instant submission” of the 21-22 in their current process have limited reason to adopt the new method for POA establishment.
+- Compared to the new method of POA establishment, current processes are better suited to establish POA in an in-person setting and with Veterans who do not have VA.gov accounts.
+- Concerns that stem from a lack of familiarity with the new ARP method can be overcome with improved marketing materials and onboarding methods.
 
 ### **2. Usability of POA functionality in ARP and concept testing of future design ideas**
-
 - Managing POA requests in the portal and the portal design overall, received positive feedback. Participants found the design straightforward and clear, and it was easy to complete tasks. But there are opportunities to add more clarity, and areas where functionality is insufficient.
-
 - Participants favored concepts that gave them granular, yet flexible options for searching, sorting, and filtering POA requests. They expect to be able to search the portal using the same information they search in similar systems. 
 
-**3. Notifications**
-
+### **3. Notifications**
 - Representatives would benefit from notifications of key POA activity in the portal, but have concerns about notifications becoming noise.
 
-
 ### **4. Cross-accreditation**
-
-- ### Cross-accredited representatives do not care what organization has POA.
-
+- Cross-accredited representatives do not care what organization has POA.
 
 ### **5. Technology setup and usage of help resources**
-
 - We should design the ARP Portal with desktop users in mind, because representatives do their work on a laptop, often with one or more external monitors. 
-
 - Contacting their regional office (RO) was the most frequently mentioned help channel for resolving issues. (This is based on analysis from this study and the April Usability Test of Claims Submission study).  
-
 
 # Key findings and recommendations
 
@@ -133,13 +105,10 @@ Representatives using the 3rd party tools VetraSpec and VetPro are over-represen
 ### **Representatives with “instant submission” of the 21-22 in their current process have limited reason to adopt the new ARP method for POA establishment.** 
 
 - As expected, participants who currently use VetraSpec, which has “instant submission” of POA, did not value the new ARP method as much as participants without access to “instant submission.”
-
   - “This is just another avenue for submitting POA, no better or worse.” — P6 (uses VetraSpec for POA)
-
   - Most VetraSpec users complete the form in person with the Veteran and submit it during the meeting. But VetraSpec recently released another method for establishing POA that can be done 100% electronically. It involves sending documents to the Veteran (directly from VetraSpec) to digitally sign. 
 
 - The one participant who used QuickSubmit for POA submission thought they would prefer the new ARP method because of speed.
-
   - “I think it is better and I’ll tell you why …We can’t have a deeper conversation about their claim until I can see their file. If this were instantaneous and on the very first meeting with a Veteran…If I could as a VSO see the file on that first meeting, that is a game changer.” — P2 (uses QuickSubmit for POA)
 
 - Two participants in the study used VetPro for POA submission. They estimated 24-72 hours and 1-4 business days from submission to VBMS access. This wait time suggests that VetPro uses the Benefits Intake API and not the faster Benefits Claims API for 21-22 submission. 
@@ -147,75 +116,53 @@ Representatives using the 3rd party tools VetraSpec and VetPro are over-represen
 **Recommendations**
 
 - Conduct research with pilot organizations to better understand the feature set of popular tools like VetPro and VetraSpec and determine whether and how our product can provide incremental value beyond these tools.
-
   - Ask our pilot organization, CT DVA, to give us a demo of 21-22 submission using VetraSpec, including the in-person and all electronic methods.
-
   - Consider piloting with a VetPro organization to learn more about this tool. Confirm whether and how VetPro is leveraging Lighthouse APIs.
 
 - Roll-out: Continue with the current strategy of targeting organizations that do not use third-party tools and instead rely on QuickSubmit or SEP for establishing POA. An exception is the recommendation to pilot with a VetPro organization for learning purposes.
-
   - To support this approach, compile intel on what tools organizations use for 21-22 submission. 
-
 
 ### **Compared to the new ARP method of POA establishment, current processes are better suited to establish POA in an in-person setting and with Veterans who do not have VA.gov accounts.**  
 
 - All participants preferred in-person interaction, at least initially. Participants from all organizations described a similar process of meeting in person with a Veteran at the start of the engagement and using part of this initial meeting to establish POA. When meeting in-person and using current tools for 21-22 submission (VetraSpec, VetPro, or QuickSubmit), it does not matter whether the Veteran has a VA.gov account because the representative is filling out and submitting the form. All the Veteran needs to do is review and sign the form.  
-
   - “Ideally, I do have Veterans come into the office because the conversations we have sometimes are difficult and complicated. Sometimes there are pictures and drawings involved, and it makes it a lot easier if they’re here in person.” — P2
-
   - [See Appendix ](https://docs.google.com/document/d/1xnDp0MbgVIkj79msIeQCWLrXfB_fwVD0/edit#heading=h.od1e275705x)for a more detailed description of the current process for CT DVA.
 
 - Even though the new ARP method could be used in-person if the Veteran has a VA.gov account and a device for completing the Appoint a Rep flow, some participants did not think of using it this way. Instead, they perceived it as a method for a remote scenario only. 
-
   - “Because they’re not in front of me…..This is pretty impersonal. I don’t care for it.” — P4
-
   - “I think the portal is great, but I’m not sure there is a use for it during in-person” — P7 (This was the only pilot participant who had gotten requests into the portal at the time we did the interviews. See [Appendix](https://docs.google.com/document/d/1xnDp0MbgVIkj79msIeQCWLrXfB_fwVD0/edit#heading=h.78gl1oy2rv6z) for stories of the first two submissions to the portal.)
-
   - One participant envisioned establishing POA using the new ARP method, PRIOR to meeting with the Veteran for the first time. He would call all of his appointments ahead of time and ask them to submit POA before the meeting, so that they don’t need to take time for this and can instead look at the Veteran’s files during the first in-person meeting.  
 
 - Many Veterans, particularly older Veterans, do not have a VA.gov account, which is required to submit the 21-22 online on VA.gov. Even for representatives that do adopt this new ARP method, they will still need to rely on other methods, e.g., third-party tools or Quick Submit, for Veterans without VA.gov accounts.
 
   - “As time goes on, there will be fewer and fewer Veterans who do not have a way to log into VA.gov. But we still have a huge swath of Veterans who are not going to have a VA.gov account….They are homeless, they do not own technology.  Even if they have a phone, which most people do, they’re not capable of navigating these apps and doing that.” — P6
-
   - One participant estimated that about a third of the Veterans he works with have a VA.gov account, while another estimated “fewer than 50%.”
 
 - While participants recognize that there is value for Veterans in having a VA.gov account, only one participant mentioned helping Veterans set it up as part of their services. Other participants wish there were more resources to help with account setup.
-
   - Two participants noted referring Veterans to external resources for help, like VA hospitals and a local non-profit.
-
   - One participant was not aware of any support for this: “It would be terrific if they had kiosks somewhere, where these guys who don’t have laptops, where they can set it \[VA.gov] up in some way and then be shown how to get the app on their phone.” — P6 
 
 **Recommendations**
 
 Short-term (before broad release)
-
 - Compile a list of resources that representatives can share with Veterans for help with setting up VA.gov accounts.
-
 - When onboarding a new pilot organization, talk to organization leadership (including at least one experienced representative) early to understand their current process and talk through how the new ARP method could be incorporated.
 
 Long-term (after broad release)
-
 - Consider prioritizing a method for POA establishment that can be completed in person by the representative and the Veteran together and that does not require the Veteran to have a VA.gov account.
-
-
-### ****
 
 ### **Concerns that stem from a lack of familiarity with the new ARP method can be overcome with improved marketing materials and onboarding methods.** 
 
 Participants had other concerns with the new ARP method, related to their lack of understanding how Veterans would authenticate and submit the request on their end of the process. We anticipate that these concerns are not blockers to adoption, if we address them proactively.
 
 - Four participants expressed concerns about the security of the system. They wondered how they could confirm where the request is coming from and that the Veteran is who they say they are.
-
   - “The other thing you worry about is if somebody else is submitting the POA for somebody else, and I know it might take a lot to do that because you have to sign into VA.gov, etcetera, but you never know.”  — P8
 
 - Two participants talked about the importance of understanding the Veteran side of the process more fully before recommending it to a Veteran. Because we did not go through the full Appoint a Rep flow during the interviews, they were not familiar with the Veteran submission process, unless they were a pilot participant from CT DVA.
-
   - “I would never use the system with a Veteran until I was familiar with it… I am a Veteran but also I like putting myself as the test case. I would go to VA.gov and I would try to do a 21-22 and know those steps, so that when I tell them, I am telling them not just from me guessing what it is but from me knowing what it is.” — P2
 
 - Other one-off concerns
-
   - One pilot participant was concerned with using their personal email for login.gov, and co-mingling personal and business accounts.
-
   - One participant wondered if representatives could get overwhelmed by too many requests. They were not aware that a repeat request would replace a prior pending request in the portal.
 
 **Recommendations**
