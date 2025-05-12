@@ -28,7 +28,7 @@ We also have two smaller products, Nametag and the Authenticated Menu.
 - Add or Change Content or Features on My VA (COMING SOON!)
 
 ### For Profile
-- Add or Change Content or Features on Profile (COMING SOON!)
+- [Add or Update Features on VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/team/governance/add-update-features-profile.md)
 
 
 ## Our Intake Process
