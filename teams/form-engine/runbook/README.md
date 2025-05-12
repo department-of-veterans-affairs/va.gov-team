@@ -21,7 +21,7 @@ Once the yeoman task has completed, you should have a new Form Engine app scaffo
 
 ## Using the Form Builder
 
-Forms are designed using the Form Builder tool inside of the VA CMS. For more information, refer to the Collaborator's guide.
+Forms are designed using the Form Builder tool inside of the VA CMS. For more information, refer to the [Collaborator's guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/form-engine/runbook/Collaborator-Guide.md).
 
 ## Handling Form Submissions
 
