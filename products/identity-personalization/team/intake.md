@@ -1,8 +1,7 @@
-**Updated 4/3/2025:** cleaned up document, added in informational sections
-
 # Authenticated Experience Team Intake Process
 
-`3rd DRAFT`
+`Version 3.0` **Updated 4/3/2025:** cleaned up document, added in informational sections
+
 
 ## Our Team 
 
