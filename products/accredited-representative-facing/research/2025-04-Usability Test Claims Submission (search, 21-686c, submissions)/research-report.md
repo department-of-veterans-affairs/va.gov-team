@@ -22,10 +22,10 @@ Jump to:
   + [Claim submission flow](#the-21-686-submission-flow-is-not-intuitive,-but-is-accepted)
     - [Landing page – Find Claimant](#landing-page-after-log-in)
     - [Submit form intro page](#submit-21-686c-intro-page)
-    - [Step 1/3 Claimant and representative information](#step-1/3-claimant-and-representative-information)
-    - [Step 2/3 Upload files](#step-2/3-upload-files)
-    - [Step 2/3 Upload files – Form mismatch](#step-2/3-upload-files-form-mismatch-message)
-    - [Step 3/3 Review and Submit](#step-3/3-review-and-submit)
+    - [Step 1/3 Claimant and representative information](#step-1-of-3-claimant-and-representative-information)
+    - [Step 2/3 Upload files](#step-2-of-3-upload-files)
+    - [Step 2/3 Upload files – Form mismatch](#step-2-of-3-upload-files-form-mismatch-message)
+    - [Step 3/3 Review and Submit](#step-3-of-3-review-and-submit)
     - [Success](#success)
     - [Perceived overall value of claim submission solution](#for-ARP’s-claims-submission-solution-to-have-greater-value,-continue-to-track-and-align-with-long-term-goals)
   + [Submissions page](#the-submissions-page-can-fulfill-its-goal-as-a-quick-reference-after-applying-content-improvements.)
@@ -144,7 +144,7 @@ Post first release:
 
 ![image](https://github.com/user-attachments/assets/a8bb73d9-5237-46d7-8388-c80315edda9d)
 
-### Step 1/3 Claimant and representative information
+### Step 1 of 3 Claimant and representative information
 
 After the intro page, participants expected that they would see the 21-686c form. 2/5 representatives referenced QuickSubmit’s one-step format. While they did not expect to see claimant and representative information, they also accepted this as a first step to submitting the form.
 
@@ -152,11 +152,11 @@ After the intro page, participants expected that they would see the 21-686c form
 
 See recommendations in the section “Overall value” that address how this flow could be improved.
 
-### Step 2/3 Upload files
+### Step 2 of 3 Upload files
 
 4/5 participants felt that this page was clear and expected; 1/5 participants expected a format similar to SEP, where dependent information is shown.
 
-### Step 2/3 Upload files - Form mismatch message
+### Step 2 of 3 Upload files form mismatch message
 
 3/5 participants noticed the alert while two others did not notice it. After reviewing the alert, all participants believed that they would need to check the recency of the form used. This however is not the purpose of the alert.
 
@@ -169,7 +169,7 @@ Prior to first release:
 
 ![image](https://github.com/user-attachments/assets/06345740-1d15-4851-82ad-30c65ecd4a26)
 
-### Step 3/3 Review and Submit
+### Step 3 of 3 Review and Submit
 
 All the participants recognized the value of checking information one last time prior to submission; the information on this page was clear.
 
@@ -244,7 +244,7 @@ Post first release (long-term):
 
 1. Consider what permissions and functions a VSO representative manager role might need, and how to design for this persona.
 
-### 60-day limit
+### 60 day limit
 
 4/5 participants wanted to see submissions prior to 60 days, especially when systems like Vetraspec and QuickSubmit allow them to view submissions across years, and “some forms have been out there for 8-9 months” — P2. If this view was limited to 60 days, representatives would go to VBMS to look for the submission and its status.
 
