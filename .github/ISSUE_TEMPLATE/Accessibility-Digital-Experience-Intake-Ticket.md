@@ -115,7 +115,7 @@ _Select all that apply._
 - [ ] _Label with `Originator/Team` (product team or stakeholder requesting support)_
 - [ ] _Label date in the `Open Date` field_
 - [ ] _Label with `Estimate` (level of effort expected for this ticket)_
-- [ ] _Add `Assignee(s)` name(s) to ticket_ (include Naomi)
+- [ ] _Add `Assignee(s)` name(s) to ticket_ (include Lakwi)
 - [ ] _Add `Assignee(s) name(s) to each task` they will complete via handle tag (if known)_
 - [ ] _Select a `Priority Level`_
 - [ ] _Update date in `Last Checked` field_
