@@ -73,7 +73,7 @@ Before we look at the prototype, let’s start with a few warm-up questions.
 
 - Today you’ll go through two different prototypes - option green and option red.
 
-- Imagine you have a spouse and one dependent. You may have filled out a similar form before and now, they’re asking you to update your financial information. 
+- Imagine you have a spouse and one dependent. You may have filled out a similar form before and now, they’re asking you to update your financial information. In this scenario, you logged into your VA.gov account, where the system has prefilled some of your information for you.
 
 - For this scenario, are you comfortable with sharing your screen and talk through your process?
 
