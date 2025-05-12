@@ -1,7 +1,7 @@
 | Form number & name | Point of contact | Notes | Slack thread, if applicable | Meeting date | Meeting notes | Steps Taken / Next steps |
 | --------------- | -------------- | ------------ | ------- | ------- | ------- | -------------- |
 | 21P-527EZ - Application for Veterans pension | Megan Graham |  | |  |  | Kristen waiting for response from Megan |
-| 10-10EZ - Apply for VA health care | Renata and Heiu | |  |  |  |  |
+| 10-10EZ - Apply for VA health care | Renata and Heiu | |  |  |  |  We're already in convo with Renata and Heiu |
 | 10-10EZR | Renata and Heiu | |  |  |  |  |
 | 21-686c - Application Request to Add or Remove Dependents | OCTO (acting) PO Sanja; VFS PM Laura Steele; Fiorella is a designer | |  |  |  | Kristen DM'd Fiorella, who works on this pattern |
 | 10-10D - Application for CHAMPVA Benefits | Jamie Fiore | |  |  |  | Met with Jamie and Rachel on 5/12/25. They'll consider using the pattern; no major feedback. |
