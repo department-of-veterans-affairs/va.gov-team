@@ -22,7 +22,7 @@ Below is a list of research that has been carried out to develop and support the
 - [Landing page gap analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page/research/gap-analysis-2024.md) (July 2024)
 - [Landing Page Usability Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page/research/2023-03-Landing-Page-User-Research) (March 2023)
 
-## Secure Messaging research
+## Secure messaging research
 - [Care Names Comparative Study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2024-07-Care-Names-Comparative-Study) (July-September 2024)
 - [Secure Messaging Usability Testing Round 3 - Complex Cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2023-09-usability-round3-phase0) (September/ October 2023)
 - [Triage Group Naming Generative Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2023-08-triage-group-generative-study) (August/ September 2023)
@@ -32,7 +32,7 @@ Below is a list of research that has been carried out to develop and support the
 - [Secure Messaging Round 1 Usability Testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/SecureMessaging_Round1_Usability) (July 2022)
 - [Research on broader context of Secure Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/prior-research) (no date)
 
-## Medical Records research
+## Medical records research
 - [Medical Records Usability Study Round 4 (AT)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2025-01-usability-testing-rd4-at) (January 2025)
 - [Medical Records Findability Study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2024-10-findability-study) (October 2024)
 - [Medical Records in VA.gov Usability Study Round 3 (AT)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2024-08-usability-testing-rd3-at) (August 2024)
@@ -41,8 +41,11 @@ Below is a list of research that has been carried out to develop and support the
 - [Medical Records Generative Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2022-10_Generative-research) (October 2022)
 - [Medical Records Discovery](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/research/2022-09-informational-interviews) (September 2022)
 
-## Medications research
+## Medications & supply reordering research
+- [Multistep task pattern research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/supply-reordering-tool/research/2025-02%20Multistep%20task%20pattern%20research) (February 2025)
 - [Medications Usability Testing - Round 3](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/2024-05-medications-usability-testing-round3-AT) (May 2024)
+- [Medications and medical supplies concept testing research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/supply-reordering-tool/research/2024-04-Meds%20and%20supplies%20concept%20testing) (April 2024)
+- [Supply Reordering Usability testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/supply-reordering-tool/research/2024-04-Meds%20and%20supplies%20concept%20testing) (March 2024)
 - [Medications Findability Generative Study](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/2024-02-findability-study) (February 2024)
 - [Medications Usability Testing - Complex Cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/2023-11-medications-usability-testing-round2-AT) (November 2023)
 - [Medications Usability Testing Round 1](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/2023-07-medications-usability-testing-round1) (July/ August 2023)
