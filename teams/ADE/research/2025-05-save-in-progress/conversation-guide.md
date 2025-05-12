@@ -271,9 +271,10 @@ OK, pretend that you just finished your snack/lunch/dinner. Now you want to get 
 1. What was *unclear or didn't work well* for you?
      - [If they say nothing, could ask:] What, if anything, did you find annoying?
 1. What would you like to *change or add*?
-1. What kinds of online forms have you filled out before, and how does the process compare to the VA form you filled out today? 
+1. What kinds of online forms have you filled out before?
+     1. health care / education / other government form / online purchase /  _________________? 
+     1. How does the process of filling them out compare to the VA form you just filled out? 
 
-     1.  health care / education / other government form / online purchase /  _________________? 
 1. When do you expect the information that you enter into an online form to be saved?
 
      1. [After every field / page / Finish later / Continue button / only after submitting?]
