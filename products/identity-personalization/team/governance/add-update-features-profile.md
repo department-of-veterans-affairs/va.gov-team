@@ -8,7 +8,7 @@ _The following information is meant as guidance when adding or updating VA.gov P
 
 The VA.gov Profile provides a centralized place where users can see what information the VA knows about them, and where they can update that information as needed and available.
 
-Our team does not manage the back-end systems that store Veteran information. The back-end systems we are integrated with are VA Profile, VA Notify, VEText, MPI, and [Lighthouse]()[\[LC1\]](#_msocom_1) . We also attempt to keep parity with the VA Mobile App. Please keep this in mind when recommending new or updated features as requests will typically require cross team coordination.
+Our team does not manage the back-end systems that store Veteran information. The back-end systems we are integrated with are VA Profile, VA Notify, VEText, MPI, and Lighthouse. We also attempt to keep parity with the VA Mobile App. Please keep this in mind when recommending new or updated features as requests will typically require cross team coordination.
 
 [VA.gov Profile product documentation.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile)
 
