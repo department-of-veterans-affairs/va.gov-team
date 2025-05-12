@@ -55,17 +55,7 @@
 
 **Kristen**: it's possible research could happen while our team is still here.
 
-**Renanta**: will keep us in the loop to ensure we can reserve.
-
-
-
-
-
-
-
-
-
-
+**Renata**: will keep us in the loop to ensure we can reserve.
 
 https://www.figma.com/design/tggcJk382w9yQ0ElwKfh3N/10-10EZR?node-id=8109-122152&t=gmlm4gszmnkMxhR9-1
 
