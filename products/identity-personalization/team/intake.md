@@ -22,9 +22,9 @@ We also have two smaller products, Nametag and the Authenticated Menu.
 ## Integration Documentation
 
 ### For My VA
+- [Add or Update Features on My VA](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/team/governance/add-update-features-myva.md)
 - Save in Progress Forms Self Service (COMING SOON!)
 - Form Status Self Service (COMING SOON!)
-- Add or Change Content or Features on My VA (COMING SOON!)
 
 ### For Profile
 - [Add or Update Features on VA.gov Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/team/governance/add-update-features-profile.md)
