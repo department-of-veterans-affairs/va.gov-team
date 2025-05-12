@@ -7,6 +7,36 @@ Vital to the success of VA.gov , The Platform Content Team builds, organizes, wr
 
 
 ----
-# Documentation
+### Aligned to 2025 OCTO OKRs
+Platform Content Team actively contributes toward the following 2025 OCTO OKRs:
 
-In this folder, you will find information about the best practices for creating documentation on the Veteran-facing Services Platform (VSP).
+**Objective 3: OCTO teammates are empowered with the knowledge and resources they need to make sustained impact.**
+
+OKR 3.3: 75% or more team members are confident they have the knowledge needed to make effective decisions.
+
+### List of Products
+Our team has contributed to the following products to date:
+
+**Ongoing Products and Priorities**
+[Platform Website](https://depo-platform-documentation.scrollhelp.site/) - Platform Website houses platform, team, product, and development information for VA.gov application teams (aka "VFS teams").
+
+**Platform team collaborations** - Provide content support to Platform teams to ensure that information written about the Platform ecosystem is easily findable, error-free, and written in plain language.
+
+**VFS team feedback response** - Provide or suggest new content for the Platform website, Platform website footer intake, Slack channels: #vfs-platform-support or #platform-content.
+
+ 
+
+### Our Work at a Glance
+Roadmap
+
+### DSVA Slack Channel
+Please reach out to us at our DSVA Slack channel: #platform-content
+
+### Key Stakeholders
+Erika Washburn, VA Product Owner, VA 
+
+Andrea Townsend, Program Manager, Oddball 
+
+Joe Knipes, Product Manager, Oddball 
+
+
