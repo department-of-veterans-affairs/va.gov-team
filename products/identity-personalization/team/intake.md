@@ -20,7 +20,7 @@ We also have two smaller products, Nametag and the Authenticated Menu.
 - We’re not My HealtheVet as our products support many different benefits, not exclusively healthcare. 
 
 
-## Common Integration Documentation
+## Integration Documentation
 
 ### For My VA
 - Save in Progress Forms Self Service (COMING SOON!)
@@ -32,7 +32,7 @@ We also have two smaller products, Nametag and the Authenticated Menu.
 
 
 ## Our Intake Process
-1. Review Common Integration Documentation as related to the change you'd like to implement on My VA or Profile.
+1. Review Integration Documentation as related to the change you'd like to implement on My VA or Profile.
    - If there is a task that you are attempting to complete but do not see documented let us know.
 3. [Complete the intake ticket.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=auth-exp-request.yml)
 4. Reach out to team on the #accountexp-authexp Slack channel for next steps.
