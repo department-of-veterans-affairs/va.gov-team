@@ -7,6 +7,7 @@ Last updated: [DATE]
 
 
 ## ADR XXX - Decision Label
+_Copy an ADR section for each decision made_
 
 ### Status: [STATUS]
 _Describe the status of the decision. Options are "proposed", "accepted", "rejected", "deprecated", "superseded"._
