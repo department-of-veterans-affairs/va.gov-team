@@ -15,9 +15,9 @@
 
 ## Summary
 - A segmented button is used to switch between related views of information within the same context.
-
-- [Mobile segmented control design](https://department-of-veterans-affairs.github.io/va-mobile-app/design/Components/Navigation/Secondary/SegmentedControl/)
-- [Mobile segmented control storybook](https://design.va.gov/storybook/?path=/docs/va-mobile_segmented-control--docs)
+- Designs will be based on the mobile design system segmented control component
+ - [Mobile segmented control design](https://department-of-veterans-affairs.github.io/va-mobile-app/design/Components/Navigation/Secondary/SegmentedControl/)
+ - [Mobile segmented control storybook](https://design.va.gov/storybook/?path=/docs/va-mobile_segmented-control--docs)
   
 ## Objectives
 - Why or how will this component be used
