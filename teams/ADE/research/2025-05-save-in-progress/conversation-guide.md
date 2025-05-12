@@ -52,11 +52,11 @@ There are a few of my teammates who would like to observe this session as well. 
 
 Could the observers please turn their cameras off now to save bandwidth? 
 
-Today we're going to talk about filling out VA forms online. I'm going to ask you a few questions, and then I'll ask you to do some specific tasks using a website that I will share with you.
+Today we're going to talk about filling out VA forms online. I'm going to ask you a few questions, and then I'll have you do some specific tasks using a website that I will share with you.
 
 Before we start, I want to go over a few things:
 
-- **This entire session should take about 60 (or 90) minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 60 (or 90) minutes.** I want to be sure not to keep you longer, so I may occasionally prompt you with the next question or topic.
   
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. We're testing a website to learn how we can make it easier to use. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
 - **Your participation in this interview is completely voluntary.** Whether or not you choose to participate will not affect your benefits with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Just let me know.
@@ -72,7 +72,7 @@ Before we start, I want to go over a few things:
 - I have started recording. I'd like to confirm: 
   - **Are you comfortable if I record my screen and the audio as we talk today?** Yes / No
  
-  - **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?** Yes / No
+  - **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners as long as we remove any information that can be used to identify you?** Yes / No
 
 In the bottom toolbar of the Zoom window, click the arrow next to **SHOW CAPTIONS** > **View Full Transcript** > Save (NEED TO DO THIS TO GET TRANSCRIPT)
 
@@ -211,7 +211,7 @@ Pretend that your doorbell just rang, and you want to jump up to answer it. What
 
 
 ## Task 4: Resume filling out form
-OK, now let's say that you're back from answering the door. Please continue filling out the form that you were working on. 
+OK, now let's say that you're back from answering the door. Please resume filling out the form that you were working on. 
 
 - [Record how resume: open browser tab / "Continue your request" button on form intro page / Link on My VA]
 
@@ -276,7 +276,7 @@ OK, pretend that you just finished your snack/lunch/dinner. Now you want to get 
      1.  health care / education / other government form / online purchase /  _________________? 
 1. When do you expect the information that you enter into an online form to be saved?
 
-     1. [After every field / page / only after submitting / Finish later button?]
+     1. [After every field / page / Finish later / Continue button / only after submitting?]
      1. If you walk away from the web page without clicking anything, what do you think will happen to the information you entered?
      1. [Do they recognize that their information is being saved all the time? Y / N]
 
