@@ -45,31 +45,39 @@
 **Government Stakeholders:**
 - Executive sponsor: Chris Johnston (christopher.johnston2@va.gov)
 - Comp Services policy and process partners: Paul Schute (paul.shute@va.gov)
-- Product Owner:  Emily Theis (emily.theis@va.gov), Leah Keeler (Leah.Keeler@va.gov)
+- Product Owner: Emily Theis (emily.theis@va.gov)
 - Design and Research Lead: Shannon Ford (Shannon.Ford1@va.gov)
 - Engineering Lead: Sam Wiley (samuel.wiley@va.gov)
 - Contact center partner: Chante Lantos-Swett, Kimberly Monroe-Daniels
 - Web comms partner: n/a
 - ITSC (IT Strategic Comms) liaison: n/a
-- VBA contact: David Reis
+- VBA contact: David Reis, Alejandro Mendiolaflores
   
-**Team 1 🦖**
+** Cross team coordination and support:**
+- Program Lead: Jane Kim
+- Product Lead: Yurena Garcia-Hevia
+- Engineer Lead: Richard Jones
+- Accessibility Lead: Etan Berkowitz
+
+**Disability Benefits Team**
  
-- Github Project: [DBEX TREX 2024 VA Disability 526](https://github.com/orgs/department-of-veterans-affairs/projects/1268/views/2)
-- GitHub team label: DBEX-TREX
-- Product manager: Mike Marinos
-- Design and Research: Lauren Dawson, Melissa Schaff, Tashi Islam
-- Engineering: Aurora Hampton, Seth Darr, Mark Chae, Tommasina Miller, Ari Perez, Tracy Tran
-- Delivery: Pam Macalintal
+- Github Project: [Disability Benefits Crew](https://github.com/orgs/department-of-veterans-affairs/projects/1660/views/1)
+- GitHub team label: #disability-experience
+- Product manager: Andrew Belov
+- Design and Research: Momo Miyazaki, Irene Vailikit
+- Engineering: Kyle Soskin, Tommasina Miller, Alison Jones, JR Reed, Malesa Williams
  
-**Team 2 🍞**
+- Product manager: Maurice DeBeary
+- Design and Research: Ruben Sun, Qian Chen
+- Engineering: Mark Chae, Justin Linn, Nathan Burgess, Scott Regenthal, Alex Tran
+
+**Conditions and Evidence Team**
  
-- Github Project: [DBEX Carbs 2024 VA Disability 526](https://github.com/orgs/department-of-veterans-affairs/projects/1263/views/7)
-- GitHub team label: DBEX-CARBS
-- Product manager: Lisa Capaccioli
-- Design and Research: Ruben Sun, Evelyn Hillbrich Davis, Qian Chen
-- Engineering: Kyle Soskin, Nathan Burgess, Scott Regenthal, Alison Jones, JR Reed
-- Delivery: Amy Plange
+- Github Project: [Conditions and Evidence](https://github.com/orgs/department-of-veterans-affairs/projects/873/views/2)
+- GitHub team label: #contention-classification
+- Product manager: Jack Bates
+- Design and Research:
+- Engineering: Lisa Chung, Sami Barghshoon, Zach Murray
 
 # Quick links 🔗
 
