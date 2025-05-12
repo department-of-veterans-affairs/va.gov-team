@@ -230,8 +230,7 @@ OK, now let's say that you're back from answering the door. Please resume fillin
   - Do they know how to resolve the error?
   - How do they want to find out about errors?] 
 
-*[If see “Uncaught runtime errors”, close with “X” (label “dismiss”) in top right corner, Leave site if prompted. Check my browser window to see if codespace shut down. If so, restart it.
-Then have them click on the Apple button to resume/start over.]*
+
 
 
 ## Task 5: (After specify records, after Continue) Long break in filling out form
@@ -247,6 +246,9 @@ Say that you're really hungry and need to take a longer break to make a snack/lu
 - [Anything re saving info entered]
 - [Anything re the "Finish later" button]
   - [Noticed "Your records request has been saved"? Y / N]
+
+*[If see “Uncaught runtime errors”, close with “X” (label “dismiss”) in top right corner, Leave site if prompted. Check my browser window to see if codespace shut down. If so, restart it.
+Then have them click on the Apple button to resume/start over.]*
 
 ## Task 6: Resume filling out form (again)
 OK, pretend that you just finished your snack/lunch/dinner. Now you want to get back to the form you were filling out. How would you do that?
