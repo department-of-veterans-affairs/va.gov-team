@@ -1,145 +1,66 @@
-# Cancel appointment
+# Appointment cancellation
 
 ## Overview
-Veterans can cancel their appointments and requests through VAOS.
 
-## User stories
-
-- As a user I want to cancel my appointments online.
-- As a user I want to cancel my appointment requests online.
-- As a user I want to know when the facility cancels my appointment.
+The appointments tool should allow veterans to cancel their appointments or requests if possible. For how cancelled appointments should be displayed, refer to the [feature reference for each appointment type](../appointment-types/).
 
 ## Requirements
 
-**Functional**
-<!-- What the system should do in order to meet the user's needs (see user stories.) These are the aspects of the feature that the user can detect. -->
+The cancel button should be displayed on the details page if an appointment or request is considered "cancellable". This button will begin the appointment cancellation user flow.
+  - Refer to the [feature reference](https://www.figma.com/design/eonNJsp57eqfPqx7ydsJY9/Feature-Reference-%7C-Appointments-FE?node-id=1150-105402&p=f&t=MkZlzwY4fXRA3hsB-0) for the most up to date UI specifications.
 
-A user can cancel VA in-person appointments.
+The following sections lists the requirements for appointments to be considered "cancellable" at each layer of the application. Note that some of the layers need additional data from upstream layers to determine if an appointment is cancellable.
 
-A user can cancel:
-- VA requests
-- Community care requests
+### Webapp (vets-website)
 
-A user cannot cancel: 
-  - Community Care appointments
-  - COVID appointments
-  - Compensation and Pension exam appointments
-  - Telehealth (VA Video Care) appointments<sup>1</sup>
-  - For all of those types the user must be instructed to contact the facility to cancel the appointments.
+- Appointments and requests are retrieved from the API layer using the endpoint `/vaos/v2/appointments/(:id)`
+- All requests (VA request and CC request i.e. with `"status": "proposed"` in the API response) are considered cancellable regardless of the `"cancellable"` property.
+- Appointments are considered cancellable if **ALL** of the following are true:
+  - `"cancellable": true` is retrieved in the API response.
+  - The appointment is not in the past.
+- Otherwise, the appointment is not cancellable
 
-VA phone appointments are cancelable UNLESS they meet the following criteria<sup>1</sup>:
+### API (vets-api)
+
+- Appointments and requests are retrieved from the Backend layer using the endpoint `/vpg/v1/patients/#{user.icn}/appointments/(:id)` or `/vaos/v1/patients/#{user.icn}/appointments/(:id)`.
+- Appointments considered not cancellable if **ANY** of the following are true and will have the `"cancellable"` property set to `false` in the API response.
+  - Appointment is a booked CC appointment (i.e. `"kind": "cc"` and `"status": "booked"`)
+  - Appointment is a covid vaccine appointment (i.e. `"serviceType": "covid"` or `"serviceTypes"` includes `"covid"`)
+  - Appointment is a compensation and pension exam appointment (i.e. `"serviceCategory"` includes `"COMPENSATION & PENSION"`)
+  - Appointment is a telehealth appointment (i.e. `"kind": "telehealth"`)[^1]
+  - Appointment occurred in the past
+- Otherwise, the `"cancellable"` property retrieved from the Backend layer is returned directly in the API response.
+
+
+### Backend
+
+VA phone appointments are cancelable UNLESS they meet the following criteria[^2]:
   - After the merge, there is more than 1 VistA appointment that was merged together
-  - The appointment has a prohibited status for cancelation (ACT REQ/CHECKED IN,CHECKED IN,ACT REQ/CHECKED OUT,CHECKED OUT,INPATIENT/CHECKED OUT,INPATIENT/ACT REQ,NO-SHOW)
+  - The appointment has a prohibited status for cancellation (ACT REQ/CHECKED IN,CHECKED IN,ACT REQ/CHECKED OUT,CHECKED OUT,INPATIENT/CHECKED OUT,INPATIENT/ACT REQ,NO-SHOW)
   - The appointment was already cancelled (a Canceled status)
   - The appointment was checked-in (so a Checked-in status)
   - It's a cerner appointment
   - It's an HSRM request that has already had a cancellation request submitted
 
-1. There isn't a way right now to automatically cancel the associated appts either in VVS or the provider side appts. So a Veteran could still get video appt reminders even though they cancelled the VistA side. And/or the provider slot may not be notified to cancel.
-2. There is no specific logic that made phone appointments not-cancellable. VA phone appointments will always show the cancel button because `vaos-service` is always returning cancelable as true. It is possible that users then click on the "cancel" button and are sometimes not able to cancel due to not passing the checks listed above. Currently there's no way for us to tell if an appointment is cancelable or not until the user clicks the cancel button and we make a req to `vaos-service`. We're working with `vaos-service` on this to improve user experience.
- 
-### Status Message
-- The canceled appointment displays a status indicating who canceled it.
-- Canceled VA appointments with VistA Status = `CANCELLED BY PATIENT` (VSE GUI Expand Entry for appointment) status must display text indicating that the Veteran cancelled the appointment.
-  - In this case, the alert message is "You canceled your appointment."  
-- Canceled VA appointments with VistA Status = `CANCELLED BY CLINIC` (VSE GUI Expand Entry for appointment) status must display text indicating that the facility cancelled the appointment.
-  - In this case, the alert message is "Facility canceled your appointment." 
- 
-**Non-functional/Backend**
-- A VA appointment may only be cancelled if either of the following is true:
+A VA appointment may only be cancelled if either of the following is true:
   - Clinic has Prohibit Access = NO/NULL (VistA Hospital Location file #44)   OR
   - Clinic has Prohibit Access = YES and VIAB proxy user is IN the privileged user list (VistA Hospital Location file #44).
-- The VistA system must be updated when an appointment is cancelled:  
+- The VistA system must be updated when an appointment is cancelled: 
   -  A VAOS initiated cancelled appointment must file in VistA with status = `CANCELLED BY PATIENT` (VSE GUI Expand Entry for appointment) and VistA Cancel Reason = `UNABLE TO KEEP APPOINTMENT`
-  - The original appointment request must be reopened in the VistA system if a VA appointment is cancelled in VAOS.  
- 
+  - The original appointment request must be reopened in the VistA system if a VA appointment is cancelled in VAOS. 
 
+1. All VVS appointment are NOT cancellable – KIND = TELEHEALTH and VVSKIND = ADHOC OR MOBILE_ANY
+2. Validate veteran is NOT able to cancel appointment as the VeteranSelfCancelAllowed flag must override (take precedence over the Prohibit Access and Proxy User List).:  VeteranSelfCancelAllowed = false in VistA, Prohibit access =true and VAOS proxy user is in list. SDESOITEAS,SRV
+3. Comp and Pen Appt are not cancellable
+4. Past appts are not cancellable
+5. Validate veteran is NOT able to cancel appointment. :  VeteranSelfCancelAllowed = NULL in VistA.  Prohibit access =TRUE and VAOS proxy user is NOT on list.
 
+[^1]: There isn't a way right now to automatically cancel the associated appts either in VVS or the provider side appts. So a Veteran could still get video appt reminders even though they cancelled the VistA side. And/or the provider slot may not be notified to cancel.
 
+[^2]: There is no specific logic that made phone appointments not-cancellable. VA phone appointments will always show the cancel button because `vaos-service` is always returning cancelable as true. It is possible that users then click on the "cancel" button and are sometimes not able to cancel due to not passing the checks listed above. Currently there's no way for us to tell if an appointment is cancelable or not until the user clicks the cancel button and we make a req to `vaos-service`. We're working with `vaos-service` on this to improve user experience.
 
-## Specifications
+## UI Specifications
 
-[User flow](Add link) 
+These use flows illustrate the user flow for cancelling appointments and requests along with alerts that may be encountered.
 
-[Page template](Add link)
-
-[Page content](Add link)
-
-## Metrics
-<!--Goals for this feature, and how we track them through analytics-->
-
-- Goal 1
-- Goal 2
-
-**Events tracked**
-<!-- Descriptions of events tracked on this page to meet those goals -->
-
-- Event 1
-- Event 2
-
-[All events VAOS tracks](Link TBD)
-
-## Alerts and conditional states
-<!-- Any alerts that could display for this feature and what triggers them. -->
-
-### System fails to cancel appointment
-<!-- Add a new section for each alert -->
-
-**Alert trigger**
-A message must display to the veteran if the system fails to cancel the appointment.  
-
-**Alert UI**
-- [User flow](Add link)
-- [State template](Add link)
-- [State content](Add link)
-
-## Technical design
-<!-- Endpoints and sample responses -->
-
-**Staging URL:** [Add staging URL]
-
-**Staging base URL:** https://staging-api.va.gov/
-
-**Prod base URL:** https://api.va.gov/
-
-**Endpoints**
-`replace-with-endpoint-1`
-
-`replace-with-endpoint-2`
-
-To see the current api responses:
-- Navigate to the [vets-api swagger](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/)
-- Search for `https://api.va.gov/vaos/v2/apidocs`
-
-<details>
-  <summary>Sample response</summary>
-
-```json
-[Add sample response]
-```
-
-</details>
-
-## Development testing
-<!-- Unit tests, API tests -->
-
-### [Call name] call
-
-[How to use the VCR test framework](https://www.rubydoc.info/gems/vcr/VCR)
-  
-<details>
-  <summary><b>VCR cassette</b></summary>
-
-```
-[Add VCR cassette]
-
-```
-</details>
-
-<details>
-  <summary><b>Example test for "[Call name]" that corresponds to the above VCR cassette.</b></summary>
-
-```
-[Add example test]
-```
-</details>
+- [User flow](https://www.figma.com/design/eonNJsp57eqfPqx7ydsJY9/Feature-Reference-%7C-Appointments-FE?node-id=1157-73820&t=MkZlzwY4fXRA3hsB-0)
