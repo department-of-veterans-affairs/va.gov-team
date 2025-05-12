@@ -20,40 +20,25 @@
 
 ## Test Results by Device
 
-| URL                                                         | Desktop | Mobile | Notes |
-|-------------------------------------------------------------|---------|--------|-------|
-| `/my-health`                                                | ❌ No   |     
-| `my-health/appointments`                                    | ❌ No            
-| `/my-health/secure-messages/inbox/`                         | ❌ No   |    
-| `/my-health/medications/?page=1`                            | ❌ No   |    
-| `/my-health/medical-records`                                | ❌ No
-| `/my-health/appointments/schedule/type-of-care`             | ❌ No   |      
-| `/my-health/secure-messages/new-message/`                   | ❌ No
-| `/my-health/medications/refill`                             | ❌ No
-| `/my-health/medications/?page=1`                            | ❌ No
-| `/my-health/travel-pay/claims`                              | ❌ No
-| `health-care/order-hearing-aid-or-CPAP-supplies`            | ✅ Yes | Supplies page not available yet. Redirected to VA.gov homepage.
-| `health-care/order-medical-supplies/`                       | ❌ No
-| `/health-care/health-needs-conditions/mental-health/`       | ❌ No
-| `health-care/order-medical-supplies/`                       | ❌ No
-| `health-care/order-medical-supplies/`                       | ❌ No
-| `health-care/order-medical-supplies/`                       | ❌ No
-| `health-care/order-medical-supplies/`                       | ❌ No
-| `health-care/order-medical-supplies/`                       | ❌ No
-| `health-care/order-medical-supplies/`                       | ❌ No
-| `health-care/order-medical-supplies/`                       | ❌ No
-| `health-care/order-medical-supplies/`                       | ❌ No
-| `health-care/order-medical-supplies/`                       | ❌ No
-| `health-care/order-medical-supplies/`                       | ❌ No
-
-
-
-
-
-
-
-
-
+| URL                                                                  | Desktop | Mobile | Notes |
+|--------------------------------------------------------------------------------|--------|-------|-------|
+| `/my-health`                                                         | ❌ No   |     
+| `my-health/appointments`                                             | ❌ No            
+| `/my-health/secure-messages/inbox/`                                  | ❌ No   |    
+| `/my-health/medications/?page=1`                                     | ❌ No   |    
+| `/my-health/medical-records`                                         | ❌ No
+| `/my-health/appointments/schedule/type-of-care`                      | ❌ No   |      
+| `/my-health/secure-messages/new-message/`                            | ❌ No
+| `/my-health/medications/refill`                                      | ❌ No
+| `/my-health/medications/?page=1`                                     | ❌ No
+| `/my-health/travel-pay/claims`                                       | ❌ No
+| `health-care/order-hearing-aid-or-CPAP-supplies`                     | ⚠️ na    |        | not availble yet/directed to VA.gov.
+| `health-care/order-medical-supplies/`                                | ❌ No
+| `health-care/copay-rates/`                                           | ❌ No
+| `health-care/health-needs-conditions/mental-health/`                 | ❌ No
+| `health-care/about-va-health-benefits/dental-care/`                  | ❌ No
+| `my-health/update-benefits-information-form-10-10ezr/introduction`   | ❌ No
+| `health-care/get-health-id-card/`                                    | ❌ No
 
 ## Observations
 
