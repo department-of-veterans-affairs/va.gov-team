@@ -1,5 +1,17 @@
 # Running Design and Research Agenda
 
+## May 12 2025
+Attendees: 
+### Agenda Topics
+* UX Roadmap
+* Roadmapping New PDF form flow for OHI standalone 
+* CHAMPVA claims: review [resubmission user flows](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1742221275311/1794184f6793a8f3f1a91a54447817403dc39fec?wid=0-1746625930021)
+* 10-10d/OHI merge: supporting docs file upload desk research
+* 10-10d/OHI merge: Medicare Part C exploration and [Medicare card sample images](https://www.figma.com/design/UmAtr3ULQEInMXfNFwP0g0/Application-for-CHAMPVA?node-id=6136-198759&t=sZrw4LDo39h6YNvv-4) 
+* Medallia report
+
+ ### Notes
+
 ## May 5 2025
 Attendees: Jamie Fiore, Premal Shah, Amanda Klausmeier, Renata Keck, Andrea Merril
 ### Agenda Topics
