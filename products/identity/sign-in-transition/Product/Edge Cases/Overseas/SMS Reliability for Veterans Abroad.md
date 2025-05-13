@@ -1,8 +1,8 @@
 # SMS Reliability for Veterans Abroad
 
-**Edge Case**: 2\_4  
+**Edge Case**: [Veterans Living Abroad](https://jira.devops.va.gov/browse/SITEC-13) \
 **Created**: 22 April 2025  
-**Last Updated**: 22 April 2025  
+**Last Updated**: 13 May 2025  
 **Contributors**: Jillian King, Matthew Declercq
 
 ## Situation
