@@ -29,7 +29,7 @@ Work done in [#76465](https://github.com/department-of-veterans-affairs/va.gov-t
 
 ![image](https://github.com/user-attachments/assets/11696ae6-df7c-43f1-9fe0-326148864f4b)
 - This question is asked at the end of every form branch
-- If yes, the clainm will continue through to RBPS
+- If yes, the claim will continue through to RBPS
 - If no, the claim will off-ramp for manual review review where the VBA will usually ask the Veteran a complete income/asset picture via a 21P-0969 or 21P-8416
 
 -----
