@@ -150,6 +150,25 @@ I want to make sure the next 60 minutes are still good for you today?
     
 -   In 1-3 words, what words would you use to describe the process of understanding and resolving your debt in your experience so far?
 
+
+### Prototype (5 minutes)
+
+Let’s go to the next part of the interview where we are going to share a digital experience we’re working on and ask for your feedback. A few things I want you to know:
+
+You'll be interacting with a prototype that may not work exactly the way you expect. 
+Some areas of the prototype will be clickable, and some will not. 
+This is very important to know: since it's a demo, we have used fake information, and none of your actions will affect your actual VA information or benefits.
+In this task, we would like to hear your honest feedback. 
+Please comment on what is clear and unclear.
+
+I am going to drop a link in the Zoom chat. When you receive the link, please open the page.
+Send direct link to Debt Portal prototype
+Prototype Link: (https://zyc78g.csb.app/manage-va-debt)
+[Mobile sessions screen share directions]
+[Sharing screen instructions as needed]
+
+
+
 ### Manage your VA debt for benefit overpayments and copay bills [[page](https://zyc78g.csb.app/manage-va-debt)] [2-3 minutes]
 
   
