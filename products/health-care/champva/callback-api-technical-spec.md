@@ -84,7 +84,7 @@ There is also an [ADR](https://github.com/department-of-veterans-affairs/va.gov-
 8. After an update from PEGA we can check all the rows in the table for the UUID they sent us and if all the files related are "processed" we can trigger `VANotify::EmailJob.perform_async()` to 
    send an email to the Veteran. We will need a new template created by person X (Ex: preneeds_burial_form_email: preneeds_burial_form_email_template_id)
    After we have the database updated by PEGA requests we can then start utilizing the data to actually notify the veteran using Sidekiq. We will want to create one or two Sidekiq jobs.
-9. Clean Up Job (CRON) - We don't want the data rows to remain in the table for over 60 days after being processed, due to our ATO requirements. We can use the status and updated_at column to distinguish what can be purged from the database.
+9. Clean Up Job (Sidekiq) - We don't want the data rows to remain in the table for over 60 days after being processed due to our ATO requirements. In `old_records_cleanup_job.rb`, we use the `updated_at` column to distinguish what can be purged from the database. The sidekiq job is configured to run daily at 3AM and query the database for records more than 60 days old in batches and destroy them. The job is controlled both by `Settings.ivc_forms.sidekiq.old_records_cleanup_job.enabled` as well as `Flipper.enabled?(:champva_old_records_cleanup_job)` and will not execute until both are enabled. The Flipper toggle should be removed at a later date.
 10. Email - If we don't do inline VANotify email then we'll want to kick off a job instead that handles that process and can retry if there are errors.
 
 ## Creating Service Account
