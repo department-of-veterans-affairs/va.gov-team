@@ -1,9 +1,9 @@
 # Identity Verification Issues for Deaf/Nonverbal Veterans
 
-Edge case: [Deaf, Hard-of-Hearing, Nonverbal Veterans](https://jira.devops.va.gov/browse/SITEC-45)\
-Created: 17 April 2025  
-Last Updated: 7 May 2025  
-Contributors: Matthew Declercq
+**Edge case:** [Deaf, Hard-of-Hearing, Nonverbal Veterans](https://jira.devops.va.gov/browse/SITEC-45)\
+**Created:** 17 April 2025  
+**Last Updated:** 7 May 2025  
+**Contributors:** Matthew Declercq
 
 ## Situation 
 
