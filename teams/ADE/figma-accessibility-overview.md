@@ -1,17 +1,33 @@
 # Accessibility in Figma
-Originally written by Eli Mellen for the CAIA team. This information was taken from a comparison done in the Summer of 2023 between Sketch and Figma. 
+Last updated May 2025. Originally written by Eli Mellen, updated by Jamie Klenetsky Fay
 
+## Figma Sites
+Figma Sites lets Figma users to turn mocks into web sites within the Figma platform.
+
+**Unfortunately, the websites Figma Sites generates are not accessible.** Accessibility specialists have uncovered many issues, including:
+- No semantic markup (all objects are <divs>, including headings)
+- Issues with reading order
+- Links open in new tabs by default, with no way to change the setting or warn the user
+
+Because of these critical accessibility issues, we ask that you don’t use Figma Sites for testing with users of assistive technology.
+
+We’ll keep track of Figma Sites’ evolution and if the (many) critical issues are corrected, we will let you know. Thanks for all you do to support research and design with assistive tech users.
+
+References:
+- [Emily Lawes' writeup on LinkedIn](https://www.linkedin.com/posts/emilylawes_accessibility-figma-a11y-activity-7326207820545028096-0RUN/?utm_source=productpicnic.beehiiv.com&utm_medium=referral&utm_campaign=figma-dreamweaver)
+- [Do Not Publish Your Designs on the Web with Figma Sites](https://adrianroselli.com/2025/05/do-not-publish-your-designs-on-the-web-with-figma-sites.html)
+- [Figma Dreamweaver](https://productpicnic.beehiiv.com/p/figma-dreamweaver)
 
 ## Accessible Prototypes
 **While in accessibility mode, Figma design elements are translated to HTML or HyperText Markup Language.**
 - **Screen readers** interpret HTML tags to understand the content and sections of a document, as well as which elements are available for a user to interact with on a page.
 - **Semantic HTML tags** also allow a screen reader to communicate content that may be highlighted visually to a user.
-However, this is for non-mobile prototypes only - hopefully, mobile is not too far behind in beta. 
+However, this is for non-mobile prototypes only. 
 - **Accessible prototypes are only available in the desktop browser** and on the Figma desktop app. 
 - **Accessibility mode does not work for mobile or mobile web prototypes.**
 - [Learn more about browser and OS requirements.](https://help.figma.com/hc/en-us/articles/360039827194-Figma-browser-requirements) 
 
-**Words of caution** from [someone who tried it (ref. article)](https://bootcamp.uxdesign.cc/i-tried-the-prototype-screen-reader-in-figma-beta-ceda511d715a) Build your prototype with HTML in mind. Evaluate your user flow carefully. Try it yourself. 
+**Words of caution** from [someone who tried it (ref. article)](https://bootcamp.uxdesign.cc/i-tried-the-prototype-screen-reader-in-figma-beta-ceda511d715a) Build your prototype with HTML in mind. Evaluate your user flow carefully. Try it yourself. **ADE recommends not using Figma prototypes for testing with users of assistive technology.** 
 
 [Content Source: Accessible Prototypes](https://help.figma.com/hc/en-us/articles/7810391964695-Accessible-prototypes-in-Figma)
 
