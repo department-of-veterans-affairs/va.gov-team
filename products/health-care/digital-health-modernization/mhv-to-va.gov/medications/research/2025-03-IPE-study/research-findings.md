@@ -10,15 +10,15 @@ Melissa Stern, Dan Van Vleck
 
 Jump to:
 
-[Hypotheses and conclusions](#_hywtz87k5fr2)
+[Hypotheses and Conclusions](#hypotheses-and-conclusions)
 
-[Key themes](#_wid7s59b05z4)
+[Key Findings](#key-findings)
 
-[Recommendations](#_qpwg289833ih)
+[Recommendations](#recommendations)
 
-[Who we talked to](https://docs.google.com/document/u/1/d/1sTtUtMp1q63vqiAwPEifVlouKXb9DufbpqnPC-CkCtc/edit)
+[Further research needed](#further-research-needed)
 
-[Further research needed](#_llvilv58tusf)
+[Who we talked to](#who-we-talked-to)
 
 ## Most Applicable Law
 
