@@ -78,8 +78,6 @@
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-> 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
-> 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
 **OBJ: Provide Veterans with additional form options based on input and potential eligibility, so that they may be aware and apply for multiple benefits during their session on VA.gov**
 - Source: Google Analytics (GA4), DOMO dashboard
