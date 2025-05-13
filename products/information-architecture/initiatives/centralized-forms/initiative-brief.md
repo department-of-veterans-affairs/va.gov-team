@@ -88,26 +88,31 @@ The goal of this initiative is to streamline content and establish a scalable IA
 - There is no easy way to "move" existing online forms or tools within the IA of the site.  Changing the URLs to move a page/form flow to a new location in the IA requires engineering resources to change the URL in the code, test the changes, and implement redirects.  As well as follow-on content and IA work to update entry points in navigation as well as referring links across the site. 
 
 **Compound forms - form flows that include more than 1 VA form**
-- Some online form flows include more than 1 VA form in the flow.  This creates a challenge around where to place that digitized form within this centralized forms space and how to create a relationship between more than 1 information page about the form.  There are different types of compound forms:
-  - Additional form is included as a distinct form/flow in the experience via messaging, content, or navigation
-    - [Supplemental claim form](https://www.va.gov/decision-reviews/supplemental-claim/file-supplemental-claim-form-20-0995/) includes the authorization to disclose information to VA form (21-4142, 21/4142a)
-    - [Disability claim form](https://www.va.gov/disability/file-disability-claim-form-21-526ez/) - this forms simply provides a message indicating that the intent to file (form 21-0966) was submitted automatically, but for other sub-forms it presents a card display indicating which forms are needed, the status, and helps the user to walk through each sub-form
-    - [Disability claim form](https://www.va.gov/disability/file-disability-claim-form-21-526ez/) - this form also 
-  - Additional forms is not represented as a distinct form/flow in the experience, the forms appear as a "merged" experience 
-    - [Dependents forms 686 and 674](https://www.va.gov/view-change-dependents/add-remove-form-21-686c/) - this form asks questions initially and serves up the proper form questions based on answers
-    - [Non-VA medical info release forms 21-4142 and 21-4142a](https://www.va.gov/supporting-forms-for-claims/release-information-to-va-form-21-4142/) - this form does not indentify which form you are completing
-  - Forms that are available as a stand-alone form or compound form
-    - [Non-VA medical info release forms 21-4142 and 21-4142a](https://www.va.gov/supporting-forms-for-claims/release-information-to-va-form-21-4142/) - this form is available on its own or as part of the disability claim form
+- Sub-forms are those forms that are included as a separate flow within a primary forms experience. Sub-forms are often identified in the experience via content or navigational elements.
+  - [Decision review supplemental claim form 20-0995](https://www.va.gov/decision-reviews/supplemental-claim/file-supplemental-claim-form-20-0995/) includes the authorization to disclose information to using forms 21-4142 and 21-4142a
+  - [Disability claim form 21-526EZ](https://www.va.gov/disability/file-disability-claim-form-21-526ez/) includes the intent to file form 21-0966, information disclosure forms 21-4142 and 21-4142a, and the mental health claim form 21-0781. The ITF is submitted automatically, but other sub-forms are presented as sub-tasks in the flow indicating which forms are needed, the status, and helps the user to walk through each sub-form.
+- Merged forms are those form flows that do not present a single form as the primary experience. The forms may be served in the flow based on user selections/scenarios and the visitor may or may not know which specific form they are ultimately submitting. 
+  - [Dependents forms 686 and 674](https://www.va.gov/view-change-dependents/add-remove-form-21-686c/) is a single flow that asks questions initially and serves up the proper form questions based on answers
+  - [Non-VA medical info release forms 21-4142 and 21-4142a](https://www.va.gov/supporting-forms-for-claims/release-information-to-va-form-21-4142/) is a single flow for both forms that are required for VA to request medical records from non-VA providers
 
-**Secondary form flows for different audiences**
--  Some forms trigger a second form flow once they are submitted.  An example would be a request/application form flow that once submitted sends a notification/email to a reviewer or approval who then needs to complete a form flow.  This creates a challenge around how to provide entry points to different forms, especially when they are for different audiences.  This also creates a challenge in determining if the approver form should be in the centralized forms experience or if it should be part of an admin experience for that office.
+**Forms for audiences other than Veterans and their family members**
+- The forms library contains many forms for audiences outside of the Vetera(sn and Veteran family member space. These forms may be for VA employees, school certifying officials, the general public, etc. 
+  - A number of forms are currently being built for SCOs and placed in a separate section of the site. 
+
+**Non-OMB form flows**
+- There are several features on VA.gov that utilize the forms library to create a form flow experience for various tasks. 
+  - Examples of these are the income limits wizard, form upload flow, online harassment reporting, etc.
+  - Cemetery rep medallion approval form flow is triggered after someone submits a request for a medallion with form 40-1330M. This secondary form flow is not an OMB form and is for a different audience. This is not currently live on the site.
+
+**Key benefit forms**
+- There may be some benefit to keep core benefit applications within their specific benefit hubs. These forms are often compound forms and benefit from the close connection to the benefit hub structure and information.
+
+**Task flows**
+- Some tasks on VA.gov are in support of an OMB form but have evolved from a form flow experience to a more dynamic task-based experience.
+  - Examples of this evolution will be seen in medical supply reordering and dependents management
 
 **Form upload feature**
 - Currently the form upload feature requires knowledge of the specific form that is being uploaded.  It acquires that information by only allowing access to it from a specific form detail page.  The navigational structure of this feature has been challenging due to the need to dynamically generate a URL based on the unique form.  Ideally there would not be a need to generate a unique URL, and instead use a form number passed via a parameter based on navigation path or from a user selection would. 
-
-**Placement of key benefit forms**
-- There may be some benefit to keep core benefit applications within their specific benefit hubs.  These forms are oftent compound forms and benefit from the close connection to the benefit hub structure.  
-
 
 ## Measuring Success
 
