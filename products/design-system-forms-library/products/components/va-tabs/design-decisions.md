@@ -80,11 +80,11 @@ Tabs with similar overflow interactions were also reviewed from other design sys
 #### Tab Styles  
 
 1. **Underline:** No underline. Tabs are treated as navigation elements like side nav or main menu.  
-2. **Padding:** 8px horizontal, 16px vertical (minimum 44px height).  
-3. **Margin Between Tabs:** 24px.  
-4. **Inactive State:** Gray line below tabs; link color text; normal font weight.  
-5. **Hover State:** Same gray background and hover style as side nav and links.  
-6. **Active State:** 4px underline, bold text, base color.  
+2. **Padding:** 8px horizontal, 16px vertical (minimum 44px height and width).  
+3. **Margin Between Tabs:** 24px of space when a dropdown isn't used. If the dropdown is used, the layout changes to a flex layout with space-between.  
+4. **Inactive State:** Gray line that spans all tabs in the same outline color as [cards](https://design.va.gov/components/card#with-drop-shadow); VA link color text; normal font weight.  
+5. **Hover State:** Same gray background and hover style as VA side nav and [VA links](https://design.va.gov/components/link/#default).  
+6. **Active State:** 4px underline in the VA primary color, bold text, base text color.  
 7. **Focus State:** Matches standard VA focus state for buttons and links.  
 8. **Max Width:** 128px (ensures two tabs fit on 320px screens).  
 9. **Min Width:** 44px (meets accessibility standards).  
