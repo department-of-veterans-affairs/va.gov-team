@@ -14,9 +14,10 @@ The information related to VA forms - including what ways a form can be submitte
       - [Disability > How to file a claim](https://www.va.gov/disability/how-to-file-claim/), [Health care > How to apply](https://www.va.gov/health-care/how-to-apply/)
       - Sometimes the "how to apply" is not on a dedicated page in the hub such as the [Burials and memorials > Veterans burial allowance](https://www.va.gov/burials-memorials/veterans-burial-allowance/) page
 2) Form introduction pages
-3) The "About form" page within the find a form experience
-
-
+    - Examples:
+      -  [File for disability compensation]9https://www.va.gov/disability/file-disability-claim-form-21-526ez/introduction), [Apply for VA health care](https://www.va.gov/health-care/apply-for-health-care-form-10-10ez/introduction)
+4) The "About form" page within the find a form experience
+    - Examples:[About VA Form 21-526EZ](https://www.va.gov/find-forms/about-form-21-526ez/), [About VA Form 10-10EZ]9https://www.va.gov/find-forms/about-form-10-10ez/)
 
 
 ### Problem 2: 
