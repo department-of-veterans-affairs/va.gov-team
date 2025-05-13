@@ -1,6 +1,6 @@
 # Research Plan Creation Prompt for GitHub Copilot
 
-Use this prompt to conversationally create a research plan in alignment with the research plan template in this repository. Answer each question thoroughly, and Copilot will generate a draft research plan for you.
+Use this prompt to conversationally create a research plan in alignment with the [research plan template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/research-plan-template.md) in this repository. Answer each question thoroughly, and Copilot will generate a draft research plan for you.
 
 ---
 
