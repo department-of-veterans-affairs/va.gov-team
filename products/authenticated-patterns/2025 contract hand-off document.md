@@ -1,12 +1,11 @@
 # Authenticated Experience Design Patterns Team Hand-off Document
-### Last updated: 5-8-2025
+**Last updated: 5-8-2025**
 The Authenticated Experience Design Patterns team develops and contributes design patterns to the [VA Design System](https://design.va.gov/) (VADS). Teams who develop products on VA.gov can use these patterns for their applications. Patterns are flexible for adoption. 
 
 This information helps future teams onboard on remaining authenticated experience design patterns work.
 
-# Design patterns
+## Design patterns
 
-## Completed patterns
 Pattern | Epic | Documentation | Collab Cycle| Status
 --- | --- | --- | --- | --- 
 Help users to... Know when their information is prefilled  | [Epic](https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/17) | [VADS documentation](https://design.va.gov/patterns/help-users-to/know-when-their-information-is-prefilled); [Team Figma file](https://www.figma.com/design/2j01RTqCSJRy4lX3eUOiod/AE-Design-Patterns---Prefill?node-id=0-1&t=Le4l9APPu5SGU0jV-1); [USWDS pattern proposal](https://github.com/uswds/uswds/discussions/6053) | Collab [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90181) | Finished
@@ -18,7 +17,7 @@ Help users to... Understand their current benefits and eligibility (AKA "enrollm
 Marital Status | [Epic](https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns/issues/325) | [Marital Status Pattern Design Decisions](https://docs.google.com/spreadsheets/d/1QF-FHZAW3fTNByj-2RWhnDAL7_qcLR_AjVrgA0-ubqM/edit?gid=0#gid=0); [Content Team Review Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108767); [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1742843561511/4f5e5e77a91df7e061628888f10dfb7b10309183); [Figma Designs](https://www.figma.com/design/Ie3VE755qGlK7ONjKGQpNd/AE-Design-Patterns---Marital-Status?node-id=1-128&p=f&t=PqLxgVJITaSqINah-0) | Staging Collab TBD | Designs are finalized, pending feedback from Content Team's review and 1010EZ Team's research 
 
 
-# AEDP Artifacts
+## AEDP Artifacts
 - [Sharepoint](https://dvagov.sharepoint.com/sites/TMFAuthenticatedExperienceDesignPatterns ) (must be on network)
 - [GitHub repo](https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns)
 - [GitHub board](https://github.com/orgs/department-of-veterans-affairs/projects/1314/views/4?sliceBy%5Bvalue%5D=_noValue)
@@ -29,7 +28,7 @@ Marital Status | [Epic](https://github.com/department-of-veterans-affairs/tmf-au
 - Slack channel (DSVA): [#tmf-auth-exp-design-patterns](https://dsva.slack.com/archives/C07909N7U8Z)
 - Backlog of patterns [considered](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1719240863056/54e2c8569725a72e996ae9b2a687867f572f4051) and [tickets](https://github.com/orgs/department-of-veterans-affairs/projects/1314/views/4?sliceBy%5Bvalue%5D=_noValue)
 
-# Team Members
+## Team Members
 - Fran Cross, Agile6, Product manager
 - Lynn Stahl, Agile6, Product manager through April
 - Adam Whitlock, Ad Hoc, Lead software engineer through early May
@@ -38,7 +37,7 @@ Marital Status | [Epic](https://github.com/department-of-veterans-affairs/tmf-au
 - Christine Rose Steiffer, Agile6, Design Lead
 - Kristen Faiferlick, Ad Hoc, UX Designer
 
-# VA Product Owners
+## VA Product Owners
 - Becky Phung
 - Matt Dingee
 - Kevin Hoffman
