@@ -53,7 +53,7 @@ The modernized VA.gov benefit experience was built with a benefit-centric organi
 
 ## Goals
 
-The goal of this initiative is to streamline content and establish a scalable IA for forms information, digitized forms, and form-related tools.  This includes establishing corresponding guidance and governance.  This will help us:
+The goal of this initiative is to revise and streamline content supporting VA forms and establish an overall IA for forms information, digitized forms, and form-related tools.  This will also include establishing corresponding guidance and governance.  This will help us:
 - serve relevent content at the right time in the experience
 - reduce duplication of information across the experience
 - improve findability of forms and form-related tools
@@ -63,8 +63,8 @@ The goal of this initiative is to streamline content and establish a scalable IA
 
 ## Proposed solution
 
-- Eliminate the "How to apply" page by reorganizing and structuring and better utilizing the form introduction page and Drupal "About form" page to serve relevant information in a timely manner 
-- Establish a forms directory in the VA.gov IA house all OMB forms - including the PDFs and online experiences - in addition to form related tools (i.e. form search and pdf uploads)
+- Eliminate the "How to apply" page by structuring and better utilizing the form introduction page and Drupal "About form" page to serve relevant information about forms in a timely manner. 
+- Design a forms structure in the VA.gov IA to accommodate all OMB forms (PDF and online experiences versions) and form related tools (i.e. form search, pdf uploads)
 
 
 ### Hypotheses
