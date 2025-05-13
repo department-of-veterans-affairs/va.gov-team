@@ -1,7 +1,8 @@
-# Court-Appointed Guardians  
-**Created by**: Matt Declercq  
-**Team**: SSIT Identity Team  
-**Date**: 09/19/2024
+# Delegate Access in the Private Sector
+**Edge Case**: [Delegates & Caregivers](https://jira.devops.va.gov/browse/SITEC-1)\
+**Created**: 9 September 2024\
+**Last Updated:** 13 May 2025  
+**Contributors**: Matthew Declercq
 
 ## Background  
 As part of the VA’s sign-in transition effort, the VA is interested in understanding how Court-Appointed Guardians are handled in the private healthcare sector. To better craft a desirable experience for Veterans and their Guardians, we will assess how guardians gain access to records and digital systems from private sector providers and insurance companies.
