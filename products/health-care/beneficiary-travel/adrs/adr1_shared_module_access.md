@@ -1,5 +1,5 @@
 # Decision: Each product line will use their own controller to access the shared travel pay module
-Status: Proposed
+Status: Accepted
 
 ## Context
 The BTSSS (Travel Pay) system is building an API to support an omnichannel experience and further scalability. Vets-api integrates with this API through a Ruby on Rails engine (in the `/modules/travel_pay` folder). 
@@ -35,6 +35,82 @@ Rel(ctrlb, tpmod, "Intantiates")
 Rel(ctrlc, tpmod, "Intantiates")
 
 UpdateLayoutConfig($c4ShapeInRow="3", $c4BoundaryInRow="1")
+```
+
+# Custom Controllers, Shared Services
+To use a shared service with the travel pay api, each system needs to have its own client number. The diagram/description below describes how teams can achieve this. Note, as of 5/13/2025, the `SmocService` does not yet exist.
+
+> Custom controllers, shared services
+
+The basic idea behind this approach is that each application should use their own controller and integrate with the services defined in the `travel_pay` vets-api module. The slogan for this approach is "Custom controllers, shared services."
+
+## Pros of this approach
+- Simple to define and use your own app's client number (e.g. your client_number is defined in your app's config in `settings.yml`)
+- Simple to maintain ownership/accountability over your own application
+- Follows patterns defined elsewhere in VA.gov
+- Backend-only work - nothing changes on the frontend
+
+## Cons of this approach
+- Duplication of code if your controller very closely matches the `TravelPay::ClaimsController`
+- Potentially more of an defined contract established between the owner of the services and the owner(s) of the controllers
+
+We feel the cons of this approach are minimal or can be mitigated easily.
+
+## Class Diagram
+
+```mermaid
+classDiagram
+  direction LR
+  class SmocService {
+    +perform(appt_date_time, auth_manager, user)
+  }
+
+  class ClaimsService {
+    -auth_manager
+    -user
+    +intialize(auth_man, user)
+    +create_new_claim(appt_id)
+    +submit_claim(claim_id)
+  }
+
+  class ExpensesService {
+    -auth_manager
+    +initialize(auth_man)
+    +add_expense(claim_id, expense_id)
+  }
+
+  class AppointmentsService {
+    -auth_manager
+    +initialize(auth_man)
+    +find_or_create_appointment(appt_datetime)
+  }
+
+  class AuthManager {
+    -user
+    +initialize(client_no, user)
+    +authorize()
+  }
+
+  class TokenClient {
+    -client_no
+    +initialize(client_no)
+  }
+
+  class CC["YourNamespace::YourController"] {
+    -client_no
+    -user
+    -params
+    +create(params)
+  }
+
+  note for CC "\`client_no\` from <br/>Settings.your_app.client_number, for example"
+
+  CC o-- SmocService
+  SmocService o-- AppointmentsService
+  SmocService o-- ClaimsService
+  SmocService o-- ExpensesService
+  CC o-- AuthManager : instantiates with client_no
+  AuthManager o-- TokenClient
 ```
 
 ## Consequences
