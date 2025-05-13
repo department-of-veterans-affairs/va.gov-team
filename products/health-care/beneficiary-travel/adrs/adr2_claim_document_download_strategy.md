@@ -60,6 +60,7 @@ Similar to Option 2, but with local caching of downloaded documents to prevent r
   * All advantages of Option 2
   * Improved performance for repeated downloads of the same document
 * Bad
+  * All disadvantages of Option 2
   * Increased implementation complexity
   * Additional memory usage for caching
   * Potentially over-engineered if repeated downloads are rare
@@ -76,7 +77,8 @@ If Option 3 is selected, we'll also need to:
 
 ## Validation
 
-User research should be conducted to determine:
-1. How frequently users download multiple documents from the same claim
-2. How frequently users download the same document multiple times
-3. User tolerance for initial page load time vs. on-demand download delays
+User research and/or API log analysis should be conducted to determine:
+1. Document binary fetch call latency times
+2. How frequently users download multiple documents from the same claim
+3. How frequently users download the same document multiple times
+4. User tolerance for initial page load time vs. on-demand download delays
