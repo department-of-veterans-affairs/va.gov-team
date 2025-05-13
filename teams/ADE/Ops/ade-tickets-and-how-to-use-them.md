@@ -74,22 +74,31 @@ This document details how to create, update, and close an ADE ticket, ensuring a
 <details><summary>Expand to view descriptions of the three main ticket types.</summary>
     
 ### ADE Intake Requests
-- [This is the intake for teams to request collaboration with ADE](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=Accessibility-Digital-Experience-Intake-Ticket.md).
-    - During refinement, ADE will attach new work tickets to capture individual support tasks needed.
+[This is the intake for teams to request collaboration with ADE](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=Accessibility-Digital-Experience-Intake-Ticket.md).
+- During refinement, ADE will attach new work tickets to capture individual support tasks needed.
 - You will use the intake ticket to communicate with the product team/stakeholder and share any deliverables.
     - This intake ticket becomes the container for all the work that takes place, relating to this request. 
 ### ADE Work Ticket
-- These are ticket sub-issues created by ADE.
-    - These are based on an intake or stakeholder request stemming from our "menu" of [services we offer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/readme.md#services-we-offer).
-        - Our menu outlines the specific work needed from an individual contributor (we have also called these "child" or "task" tickets).
-    - Product teams can see work tickets attached to their intake, but these work tickets are for you to use.
-    - You can add notes in comments and checklists to help you track your progress and move the ticket wherever in belongs in the status swim lanes described below.
+These are ticket sub-issues created by ADE.
+- These are based on an intake or stakeholder request stemming from our "menu" of [services we offer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/readme.md#services-we-offer).
+    - Our menu outlines the specific work needed from an individual contributor (we have also called these "child" or "task" tickets).
+        - Product teams can see work tickets attached to their intake, but these work tickets are for you to use.
+        - You can add notes in comments and checklists to help you track your progress and move the ticket wherever in belongs in the status swim lanes described below.
 ### ADE Research Ticket
-- [This is the initial ticket for teams to request collaboration with ADE on research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=Accessibility-Digital-Experience-Intake-Ticket.md)
-    - This ticket can be opened as a standalone ticket, or be opened after or during an intake request
+[This is the initial ticket for teams to request collaboration with ADE on research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=Accessibility-Digital-Experience-Intake-Ticket.md)
+- This ticket can be opened as a standalone ticket, or be opened **after** or **during** an intake request
+- **Refinement**:
     - During refinement, ADE will attach new research work tickets to capture individual support tasks needed, based on the selections made in the research ticket.
-        - If a pilot is requested, ADE will attach a pilot ticket to this research ticket.
-        - If AT research support takes place, a research feedback ticket will be opened by ADE for each issue found, and attached to the main research ticket. 
+        - **Pilots**:
+            - If a pilot is requested, ADE will attach [a research pilot ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=ADE-internal-Research-Pilot-Ticket.md) to this research ticket.
+        - **Support Tasks**:
+            - [Research support child tickets](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=ADE-internal-research-refined-ticket-template.md) will be spun up based on the tasks needed:
+                - Review Research Materials
+                - Provide Technical Support
+                - Help with Research Sessions
+        - **Research Feedback**:
+            - If AT research support takes place, [a research child feedback ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=ADE-internal-research-accessibility-feedback-issue-quantification.md) will be opened by ADE for each issue found, and attached to the main research ticket. This is to quantify issues found.
+            - Refer to the following section on research child tickets aka research "sub-issue(s)" for more information. 
 
 #### Child Ticket Creation Workflow for ADE Research
 The following is the child ticket creation workflow for issues found during pilots and research sessions.
