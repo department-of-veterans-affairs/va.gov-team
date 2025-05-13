@@ -1,61 +1,37 @@
-# Segmented Button Product Outline
+# Segmented Button Design Decisions
+Last updated: May 13, 2025
 
-## Design System Team
-- Product Managers: Carol Wong, Tricia Baker
-- Designer: Dan Brady
-- Web Dev: ???
-- Mobile Dev: Tim Roettger 
+- [ADR: 001 - Segmented Button Design](#ADR-001---Segmented-Button-Design)
 
-## Artifacts
-- [Design Decision Log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/segmented-button/design-decision-log.md) 
-- Link to Figma flle (TBD)
-- Link to properties / architecture document
+## ADR 001 - Segmented Button Design
 
-## Summary
+### Status: Accepted
 
-The Segmented Button component is designed to help users easily switch between different views of information that are all related to the same topic or context. Our approach is based on the existing and successful Segmented Control component used in the VA Mobile Design System.
+- Date issue raised: 2025-05-07
+- Decision date: 2025-05-07
 
-* [Mobile segmented control design](https://department-of-veterans-affairs.github.io/va-mobile-app/design/Components/Navigation/Secondary/SegmentedControl/)
-* [Mobile segmented control storybook](https://design.va.gov/storybook/?path=/docs/va-mobile_segmented-control--docs)
+### Context
 
-## Objectives
+As part of our initiative to align VADS components with our existing Mobile Design System counterparts, we reviewed the Segmented Control component ([Storybook](https://design.va.gov/storybook/?path=/docs/va-mobile_segmented-control--docs)) that the VA Mobile DS team has successfully implemented.
 
-The component should create a clear and intuitive navigation component that allows users to seamlessly access related content sections without leaving their current context.
+VADS currently lacks a component providing this specific functionality. We also considered the [USWDS segmented button group](https://designsystem.digital.gov/components/button-group/), which shares visual similarities.
 
-## Key Features of the Component
+### Decision
 
-- Supports multiple segments (2-4) with clear visual indication of the active segment.
-- Allows for customization of segment content (text only).
-- Includes multiple states for individual segments.
-- Ensures responsiveness across various screen sizes.
-- Provides clear accessibility support, ensuring compliance with WCAG standards and maintaining ease of use for all users, including keyboard navigation and screen reader support.
-- Easily connected with common events product teams use to manage application state or navigation routing.
+Based on our review and the successful implementation of the Mobile component in production, we've decided on the following:
 
-## Timeline (TBD)
+* We will largely adopt the functionality of the existing Mobile Segmented Control component.
+* The visual design will be updated to align with the current VADS (and USWDS) styling for primary and secondary buttons, ensuring consistency within the VADS ecosystem.
+* We will not be incorporating additional semantic color variations, such as those found in USWDS, at this time.
+* The component will be named "Segmented Button" within VADS.
 
-- Sprint 3 (May 12 to 25)
-- Sprint XX 
-	- Web component development
-	- Mobile component development
-- Sprint XX
-	- Accessibility review
-	- Documentation 
-- Staging review scheduled 
+### Consequences
 
-## Success Criteria
+* There is a potential risk that product teams may require alternate view configurations not included in the initial implementation.
+* The current visual design of the Mobile component does not fully align with current VADS primary button styling, which may require additional design.
+* The difference in component names ("Segmented Control" in Mobile vs. "Segmented Button" in VADS) is an inconsistency we should address.
 
-- Used by product teams across web and mobile platforms.
-- Successful implementation in a variety of use cases.
-- Minimal bug reports or issues related to the component post-release.
+### Open Questions
 
-## Risks and Mitigations
-
-### Risks
-
-- Keeping the look and feel, and functionality, exactly the same on both web and mobile could be a challenge.
-- Teams might use the component in ways it wasn't intended, perhaps with too many options or as an alternative to Tabs, which could confuse users.
-
-### Mitigations
-
-- Clear documentation that shows how to use the component correctly, along with guidance on when it's not the best fit.
-- Provide straightforward examples and advice for integrating the component with common patterns.
+* The Mobile component includes a "dark mode" variation. How should VADS handle this, given that VADS does not currently have a comprehensive "dark mode" strategy?
+* Should we propose creating an issue to discuss renaming the Mobile "Segmented Control" component for better alignment?
