@@ -1,5 +1,5 @@
 # `va-tabs` Design Decisions  
-_Last updated: 2025-05-07_
+_Last updated: 2025-05-13_
 
 ## Index  
 - [ADR 001: Behavior When Tabs Overflow Off the Screen](#adr-001-behavior-when-tabs-overflow-off-the-screen)  
