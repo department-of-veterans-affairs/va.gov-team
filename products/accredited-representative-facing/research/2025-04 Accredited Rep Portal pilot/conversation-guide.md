@@ -3,30 +3,9 @@
 Conversation Guide for 1:1 sessions  
 March/April 2025
 
-[Logistics](#_1fob9te)
-
-[2-3 days before the session](#_3znysh7)
-
-[Day of the session](#_2et92p0)
-
-[Intro (5 min)](#_tyjcwt)
-
-[Warm-up (5 min)](#_3dy6vkm)
-
-[Part 1: Term review exercise (20 min)](#_1t3h5sf)
-
-[Part 2: Interview (25 min)](#_4d34og8)
-
-[Contention naming](#_2s8eyo1)
-
-[Classification](#_17dp8vu)
-
-[Closing (2 min)](#_3rdcrjn)
-
 ## Logistics
 
 ### 2-3 days before the session
-
 - Do a dry run of the interview
 - Prepare note-taking templates (in Mural or Word) and review with notetakers and observers
 - Make sure the Figma prototype is ready
@@ -34,7 +13,6 @@ March/April 2025
 - Make sure Teams is working as expected on GFE
 
 ### Day of the session
-
 - Setup feedback thread for real-time feedback (Use [#feedback-backchannel](https://dsva.slack.com/archives/C40B45NJK))
 - Mute slack notifications
 - Send out observer instructions to your observers
@@ -42,12 +20,10 @@ March/April 2025
 - Facilitator and Notetaker should expect to join between 5-10 minutes prior to the session start time.
 
 ### Starting the session
-
 - Attendees should start with their cameras on, muted
 - Check your screensharing setup and share permissions for participants
 
 ## Intro (5 min)
-
 Thanks for joining us today! My name is \[name\] and I’m a researcher with the team in the VA’s Chief Technology Office. Our team is focused on building tools for accredited representatives.
 
 - ~~\[If pilot participant\] We met briefly during the meet and greet a few weeks ago. Thank you for participating in the pilot. Today we are hoping to learn more about your experience thus far using the new portal to review power of attorney requests. We’ll be asking you to walk through how you are using the portal. Then, we have a few new concepts that we will share for your feedback.~~
@@ -76,39 +52,28 @@ Thank you. Do you have any questions before we begin?
 
 ## Warm-up and background questions (10 min)
 
-Before we get started, can you tell me where you work and a little bit about your role? \[ORG NAME\]?
+- Before we get started, can you tell me where you work and a little bit about your role?
+          - How long have you been in this role?
+- Which organizations are you accredited with now and why?
+     - Is there one you consider to be your primary organization? Why?
+- I’d like to confirm, do you work with Veterans to establish power of attorney with your organization/x?
+     - \[If no, learn how this works at their organization and go to emergency exit\]
+- Do your claim submissions need to be reviewed by a supervisor or manager in your organization prior to being submitted to the VA? Why?
+- What is your caseload now? How many Veterans do you typically meet with or talk to in a day/week?
+- How do you connect with Veterans? In-person, on the phone? Why?
+- What tools do you use in your daily work with Veterans?
+     - What device do you use? What is the size of your screen?
+     - Do you use any other devices when working with Veterans? In what situations?
+          - Do you use a mobile device for your work? If so, when and why?
+     - Do you use assistive technology such as a screen magnifier, screen reader or alternative keyboard?
+     - What VA tools do you use in your daily work with Veterans?
+          - Have you heard of SEP and is this a tool you use today or have used in the past? QuickSubmit?
+     - What other (non-VA) applications do you use in your daily work?
+          - What organization are these offered through?
 
-- How long have you been in this role?
-
-Which organizations are you accredited with now and why?
-
-- Is there one you consider to be your primary organization? Why?
-
-I’d like to confirm, do you work with Veterans to establish power of attorney with your organization/x?
-
-- \[If no, learn how this works at their organization and go to emergency exit\]
-
-Do your claim submissions need to be reviewed by a supervisor or manager in your organization prior to being submitted to the VA? Why?
-
-What is your caseload now? How many Veterans do you typically meet with or talk to in a day/week?
-
-How do you connect with Veterans? In-person, on the phone? Why?
-
-What tools do you use in your daily work with Veterans?
-
-- What device do you use? What is the size of your screen?
-- Do you use any other devices when working with Veterans? In what situations?
-  - Do you use a mobile device for your work? If so, when and why?
-- Do you use assistive technology such as a screen magnifier, screen reader or alternative keyboard?
-- What VA tools do you use in your daily work with Veterans?
-  - Have you heard of SEP and is this a tool you use today or have used in the past? QuickSubmit?
-- What other (non-VA) applications do you use in your daily work?
-  - What organization are these offered through?
-
-Help Support
-
-- What VA help support channels have you used in the past? \[for help with a technology issue or a claimant issue\]
-- Have you used Ask VA in the past?
+- Help Support
+     - What VA help support channels have you used in the past? \[for help with a technology issue or a claimant issue\]
+     - Have you used Ask VA in the past?
 
 ## ~~Part 1: \[If pilot participant\] ARP walkthrough (20 min)~~
 
