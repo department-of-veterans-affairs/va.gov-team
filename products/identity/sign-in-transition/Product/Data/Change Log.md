@@ -28,6 +28,7 @@ A change log to document data and reporting changes, such as: query updates, rep
 | 21 | 2025-04-15     | Introduced cards for DSL CSP Users and whether they have modern credentials. | Request from POs to see the "true" count of users who need to transition, i.e. users who are still using DSL credentials and do not have a Login.gov or ID.me account.       | John Marchi, Dennis O'Neill   |
 | 22 |2025-04-18     | Modified Domo transforms to incorporate SSOe data for unlinked ID.me users (200VIDM CSPIDs). | Restores historical credential records for ~12.6k unlinked users and ~40k returning users. Improves accuracy of modern credential adoption reporting.       | Steve Dickson    |
 | 23 |2025-05-07     | Streamlined the IAM MPI user credential dataflow by removing a redundant dependency ("IAM MPI User Credentials - latest snapshot v2") and consolidating logic to consume a single derivative dataset ("MHV Expanded Set combined with IAM - w basic mach no"). | Reduced sequencing complexity and ensured charts render consistently from the same unified dataset.       | Dennis O'Neill   |
+| 24 | 2025-05-13     | Added Tier 1 support issues graph to Domo dashboard with filter functionality for the four CSPs.       | Request from POs to expand visibility into Tier 1 support volume, alongside existing reports for Tier 2 & 3 issues. | Dennis O'Neill |
 | # | YYYY-MM-DD     | Brief description of change | Explanation for the modification       | Author's Name    |
 
 
