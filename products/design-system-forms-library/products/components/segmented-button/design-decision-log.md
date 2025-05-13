@@ -1,30 +1,61 @@
-# Segmented Button Design Decisions
-Last updated: May 13, 2025
+# Segmented Button Product Outline
 
-- [ADR: XXX - DECISION LABEL](#ADR-XXX---Decision-Label)
-- [ADR: XXX - DECISION LABEL](#ADR-XXX---Decision-Label)
+## Design System Team
+- Product Managers: Carol Wong, Tricia Baker
+- Designer: Dan Brady
+- Web Dev: ???
+- Mobile Dev: Tim Roettger 
 
+## Artifacts
+- [Design Decision Log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/segmented-button/design-decision-log.md) 
+- Link to Figma flle (TBD)
+- Link to properties / architecture document
 
-## Adopt mobile design system component design - Decision Label
+## Summary
 
-### Status: Proposed
-- Date issue raised: 5/07/2025
-- Decision date: 5/07/2025
+The Segmented Button component is designed to help users easily switch between different views of information that are all related to the same topic or context. Our approach is based on the existing and successful Segmented Control component used in the VA Mobile Design System.
 
-### Context
-Design approach
+* [Mobile segmented control design](https://department-of-veterans-affairs.github.io/va-mobile-app/design/Components/Navigation/Secondary/SegmentedControl/)
+* [Mobile segmented control storybook](https://design.va.gov/storybook/?path=/docs/va-mobile_segmented-control--docs)
 
+## Objectives
 
-### Decision
-Per Matt on 5/7: We'll be porting over the design from the mobile app since it's proven to be well-used and hasn't had any issues.
-We will determine at a later point if we need any additional variations like USWDS has.
+The component should create a clear and intuitive navigation component that allows users to seamlessly access related content sections without leaving their current context.
 
+## Key Features of the Component
 
+- Supports multiple segments (2-4) with clear visual indication of the active segment.
+- Allows for customization of segment content (text only).
+- Includes multiple states for individual segments.
+- Ensures responsiveness across various screen sizes.
+- Provides clear accessibility support, ensuring compliance with WCAG standards and maintaining ease of use for all users, including keyboard navigation and screen reader support.
+- Easily connected with common events product teams use to manage application state or navigation routing.
 
-### Consequences
-n/a
+## Timeline (TBD)
 
+- Sprint 3 (May 12 to 25)
+- Sprint XX 
+	- Web component development
+	- Mobile component development
+- Sprint XX
+	- Accessibility review
+	- Documentation 
+- Staging review scheduled 
 
+## Success Criteria
 
-### Open Questions
-Should we include variations? 
+- Used by product teams across web and mobile platforms.
+- Successful implementation in a variety of use cases.
+- Minimal bug reports or issues related to the component post-release.
+
+## Risks and Mitigations
+
+### Risks
+
+- Keeping the look and feel, and functionality, exactly the same on both web and mobile could be a challenge.
+- Teams might use the component in ways it wasn't intended, perhaps with too many options or as an alternative to Tabs, which could confuse users.
+
+### Mitigations
+
+- Clear documentation that shows how to use the component correctly, along with guidance on when it's not the best fit.
+- Provide straightforward examples and advice for integrating the component with common patterns.
