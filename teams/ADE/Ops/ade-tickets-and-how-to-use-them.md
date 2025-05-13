@@ -91,6 +91,26 @@ This document details how to create, update, and close an ADE ticket, ensuring a
         - If a pilot is requested, ADE will attach a pilot ticket to this research ticket.
         - If AT research support takes place, a research feedback ticket will be opened by ADE for each issue found, and attached to the main research ticket. 
 
+#### Child Ticket Creation Workflow for ADE Research
+The following is the child ticket creation workflow for issues found during pilots and research sessions.
+
+##### Share Feedback:
+- Ensure that you share feedback with the research team during the session via the [Slack Feedback Channel](link to DSVA FEEDBACK RESEARCH CHANNEL) (or preferred method communicated by the research team)
+- Ex. Mural, Google Doc, etc.
+##### Track Research:
+- Update the [research tracker](https://docs.google.com/spreadsheets/d/1IBt-C2nXK9uDMPvFdQ_SEEx6WNJ8ms3gKVkuEVlns0U/edit?gid=2141787939#gid=2141787939) with:
+    - the details of the study (tech, skill, device, etc.)
+    - the number of accessibility issues identified (columns L-S).
+##### Generate Tickets:
+- If any issues were found, create a child ticket “sub-issue” and connect it to the research intake, for each issue.
+    - Use the [new template provided for ADE Research Feedback](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=ADE-internal-research-accessibility-feedback-issue-quantification.md).
+    - This should have the label `ADE Research Feedback`, by default.
+##### Close Tickets:
+- Close the child tickets, after connecting them.
+    - Please fill all fields in the GitHub ticket (originator team, closed date, sprint, etc) before closing. [Ref. Closing Tickets Section](#Closing-Tickets)
+##### Track Closed Tickets:
+- Ensure all the tickets you closed and all of the ticket’s relevant information are entered into the closed tickets tracker in the sheet for the appropriate sprint.
+
 </details>
 
 > [!NOTE]
