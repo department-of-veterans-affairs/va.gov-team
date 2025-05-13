@@ -1,7 +1,7 @@
 # Identity Verification Issues for Veterans in the Philippines and Abroad
-**Edge cases:** 2\_1,  2\_2,  2\_3,  2\_4,  2\_5,  2\_6  
+**Edge Case:** [Veterans Living Abroad](https://jira.devops.va.gov/browse/SITEC-13)\
 **Created**: 9 April 2025  
-**Last Updated:** 14 April 2025   
+**Last Updated:** 13 May 2025   
 **Contributors:** Matthew Declercq
 
 ## Situation
