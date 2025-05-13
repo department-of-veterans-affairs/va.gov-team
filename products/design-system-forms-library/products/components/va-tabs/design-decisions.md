@@ -48,6 +48,9 @@ Prototypes were created for each approach:
   - VA design system guidance recommends links for URL-based navigation; native selects do not support links.  
   - Reference: [Design system guidance: Links vs. Buttons](https://design.va.gov/components/link/#links-vs-buttons)
 
+- **Flex layout:** The tabs layout will switch from a left aligned margin layout to a flex layout when dropdown is used**
+  - The dropdown is only used when there is limited space on the screen. When there is more space on the screen we have room to spread the tabs out so they have more space between the tabs. When the dropdown is used we know that space is limited so we can use the flex layout to show more tabs on screen when there is less space. 
+
 ### Consequences  
 - This solution has not yet been tested with users.  
 - Further usability research will be needed to validate whether users understand and use the dropdown effectively.
