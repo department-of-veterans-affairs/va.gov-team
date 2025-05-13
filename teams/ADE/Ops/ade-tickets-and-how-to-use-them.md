@@ -133,11 +133,12 @@ We use templates to make it easier to create tickets for specific kinds of work 
 |------------------|------------------|-------------------------------------|
 | [ADE Research Child Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=ADE-internal-research-refined-ticket-template.md) | Template for ADE Research Child Tickets - based on the work requested in the research intake ticket. These will be created as sub-issues, under the parent research intake ticket. | [ADE Research]:[Team Name][Product][Researching] - [Type of Support Requested]   |
 | [ADE Pilot Research Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=ADE-internal-Research-Pilot-Ticket.md) | Template for pilots conducted prior to research, created based on requests made to ADE. | [ADE Research - Pilot]:[Team Name][Product][Researching]- [Device Type](Month Year of Research) |
+| [ADE Research Accessibility Feedback Issue Quantification Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=ADE-internal-research-accessibility-feedback-issue-quantification.md) |Template to utilize following ADE research support for AT, in order to document and quantify the issues identified. These will be created as sub-issues, under the parent research intake ticket. | [ADE Research - Feedback] - [Team Name]: [Study] (Type of accessibility issue encountered) |
 | [ADE Accessibility Short Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=ADE-Internal-Short-Ticket.md) | Template for ADE members to utilize, when needing to create a ticket outside the intake process such as a child ticket or an internal ADE work ticket. | [ADE Support]:[Team][Product][Requesting] 
 | [ADE 508 Accessibility Audit Support Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=ADE-Internal-508-Audit-Support-Ticket.md) | Template for ADE members to utilize, when needing to create a 508 Audit Support Ticket as either a primary parent intake ticket c/o email report received by Martha, or as a child ticket aka sub-issue. | **Parent Ticket:** [ADE 508 Audit]: `TEAM NAME`: `PRODUCT AUDITED`: 508 Audit Report Findings Support <br> <br> **Child ticket (sub-issue)** [ADE Support]: `TEAM NAME`: `PRODUCT AUDITED`: 508 Audit Report Findings -`Name of Specific Finding` Issue | 
 | [ADE CC Work Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=ADE-Internal-CC-Work-Ticket.md) | Template for ADE members to utilize, when needing to create a ticket oustide the intake process such as a child ticket or a parent/epic for work being done to support the CC. | [ADE CC]:[Team][Product][Requesting][Stage] | 
 | [ADE Accessibility Office Hours Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=ADE-Internal-Office-Hours-Ticket.md) | Template for ADE members to utilize, when needing to create a ticket to track work done to support office hours. Ex. Prepwork before the call. | [ADE Office Hours][Team Name]: [Product] - [Support Requested] | 
-| [ADE Research Accessibility Feedback Issue Quantification Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=ADE-internal-research-accessibility-feedback-issue-quantification.md) |Template to utilize following ADE research support for AT, in order to document and quantify the issues identified. These will be created as sub-issues, under the parent research intake ticket. | [ADE Research - Feedback] - [Team Name]: [Study] (Type of accessibility issue encountered) |
+
 
 ## Custom Ticket Fields
 This section contains field data that is important for filtering and tracking issues within the ADE pipeline. [^2] 
@@ -171,6 +172,7 @@ This section contains field data that is important for filtering and tracking is
     - **Medium** - important but not as urgent as high priority
   	- **Normal** - default, regular priority
   	- **Low** - not urgent, does not require immediate work. This can be used for items in backlog without current work or actionable next steps. It can also be used for items that can be worked on slowly as time and capacity allows (formerly known as a "chipper"), i.e. long-term initiatives or items with no fixed deadline.
+- **OKR** - Set by Martha, used to indicate the primary OKR the ticket is supporting. 
 - **Sprint** - (required if being worked on or known)Used for planning when the work in this ticket should be scheduled
 - **Blocked by** - used to indicate which OCTO crew is blocking the work
 - **Reason Blocked** - general text field to  add detail to the reason the ticket is blocked
@@ -190,6 +192,7 @@ Sometimes refered to as tags. These allow for ADE to 'tag' which discipline need
     - **ADE MHV** (any ADE support provided to MHV work)
     - **ADE Research** (required for all ADE research tickets)
         - **ADE Research Feedback** (for tracking feedback/findings provided to VFS teams)
+        - **ADE Internal Research** (research conducted by ADE initiated by OCTO and/or ADE)
     - **ADE Transition** (internal label for transition from CAIA)
 - **Collaboration Cycle ADE Labels**
     - **ADE CC AN** (assistance needed for collab cycle work)
@@ -268,6 +271,7 @@ We want to make sure that all of the GitHub Project fields are updated/completed
 - **Estimate** (estimated work effort needed to complete this ticket)
 - **Actual** (actual work effort utilized to complete this ticket)
 - **Priority** (should be set by Martha)
+- **OKR** (should be selected by Martha)
 - **Sprint** (you are closing the ticket)
 - **Last checked**(update throughout the ticket's lifespan and upon closing)
 The ticket in GitHub proper should reflect as closed as well, in addition to the status in GHP.[^5]
