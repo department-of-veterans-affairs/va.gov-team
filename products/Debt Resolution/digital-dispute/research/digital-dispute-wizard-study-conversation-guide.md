@@ -49,7 +49,7 @@ You’ll notice there are a few people on the call already. They’re my colleag
 
   
 
-My goal today is to learn how easy or difficult it is to use a digital portal we are working on to help you understand how to resolve and resolve your VA bills and debts.
+My goal today is to learn how easy or difficult it is to use a digital portal we are working on to help you understand how to resolve and resolve VA overpayment debts.
 
   
 
