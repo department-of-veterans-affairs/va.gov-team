@@ -1,6 +1,6 @@
 # Status update on design initiatives
 
-Last updated by @tygindraux on May 12, 2025
+Last updated by @tygindraux on May 13, 2025
 
 Jump to:
 - [January to March](#january-to-march)
@@ -102,7 +102,6 @@ We have prioritized the following design-led initiatives to focus on through end
 |Design a standalone page for attachments|[Designs](https://www.figma.com/design/YoeGJtWzHEH2bX2S4EGyBG/Ask-VA-Form---Phase-II-exploration?node-id=863-30251), [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1742922692716/2b001acf2602b3877e68f046c46b593e251d56df?wid=0-1743094194591), [Test scripts](https://docs.google.com/spreadsheets/d/1u55VrMylaNxEtxDkeIGLZ00H6nQUOHWiNCnTw1zvtnY/edit?gid=745919254#gid=745919254)|[#1712](https://github.com/orgs/department-of-veterans-affairs/projects/1033/views/1?filterQuery=label%3Adesign+attachment&pane=issue&itemId=104085985&issue=department-of-veterans-affairs%7Cask-va%7C1712)|51|🟩|
 |Inventory past requests from business lines to update topic names and confirm changes|[PATSR: #1573 - In Progress](https://github.com/orgs/department-of-veterans-affairs/projects/1033/views/1?filterQuery=label%3Adesign+topic&pane=issue&itemId=93340275&issue=department-of-veterans-affairs%7Cask-va%7C1573), [Life insurance: #1630 - In Progress](https://github.com/department-of-veterans-affairs/ask-va/issues/1630), [DMC: #1508 - Done](https://github.com/department-of-veterans-affairs/ask-va/issues/1508)|[#1573](https://github.com/orgs/department-of-veterans-affairs/projects/1033/views/1?filterQuery=label%3Adesign+topic&pane=issue&itemId=93340275&issue=department-of-veterans-affairs%7Cask-va%7C1573) [#1630](https://github.com/department-of-veterans-affairs/ask-va/issues/1630) [#1508](https://github.com/department-of-veterans-affairs/ask-va/issues/1508)|51|🟨|
 |Prepare 1-3 case(s) for removing some topics based on routing queues|[Center for Women Veterans](https://docs.google.com/presentation/d/1GuPYM3sBXAB4a9TwfQU5sDJeU4pvTWA8xaZ8WhnGl1o/edit#slide=id.g2f0e6ad5120_0_49), [Center for Minority Veterans](https://docs.google.com/presentation/d/1qCyXz0RNZkmkw06stssLEO_ZYloZ88cR__MtRyWCvkA/edit#slide=id.g35526874930_0_10), [Life insurance: #1630](https://github.com/department-of-veterans-affairs/ask-va/issues/1630) [#1508](https://github.com/department-of-veterans-affairs/ask-va/issues/1508)|[#1724](https://github.com/orgs/department-of-veterans-affairs/projects/1033/views/1?filterQuery=label%3Adesign&pane=issue&itemId=105078032&issue=department-of-veterans-affairs%7Cask-va%7C1724)|51|🟩|
-|Create a plan to share which department will receive a given question on confirmation page|Designs, Documentation|[#1668](https://github.com/orgs/department-of-veterans-affairs/projects/1033/views/1?filterQuery=label%3Adesign&pane=issue&itemId=101905360&issue=department-of-veterans-affairs%7Cask-va%7C1668)|52|🟨|
 
 
 Other operational tasks we need to complete before end of May:
