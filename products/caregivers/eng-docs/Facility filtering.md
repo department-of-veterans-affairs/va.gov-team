@@ -20,7 +20,8 @@
      <Summary>01/28/2025 - First discussion with team</Summary>
 
 **Mitch Saltykov**
-  Jan 28th at 8:06 AM
+Jan 28th at 8:06 AM
+
 Hey, Heather Justice Brandon Cooper and I have been looking at the CG issue with folks looking in Santa Fe but being redirected to Manilla. There was a bug in how we handled requests for parent facilities that aren't in the initial result set, which we've worked through, but we noticed that the Manilla facility (vha_358) does not offer Caregiver Support services. We didn't notice this before because the Philippine Islands' "state" code varies between "PI" and "PH" across the app.
 Do we know what Caregivers in Manilla are supposed to do for support? It's the only international VA health office, and it's not like any other facilities are going to be "close enough", right? With this bug fixed, we won't be sending folks to Manilla from Santa Fe, but we will still have no options for Philippine Veterans' Caregivers....
 
