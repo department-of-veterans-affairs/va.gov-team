@@ -16,8 +16,9 @@ In March 2025, VA.gov removed the `MANUAL_VAGOV` "flag" from 674-only claims (se
    - Child's name, ssn, dob does not match corporate records. ([#61672](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61672) could mitigate this issue.)
    - Child does not exist on award. ([#61672](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61672) could mitigate this issue.)
 
-The following claim types still receive the `MANUAL_VAGOV` "flag" and are off-ramped by BIS before they reach RBPS. This logic should be [reviewed as some point with RBPS stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89907) to ensure RBPS has not added logic to process these claims automatically.
+The following claim types still receive the `MANUAL_VAGOV` "flag" and are off-ramped by BIS before they reach RBPS.
 - All 686c claims submitted with a 674
+   - These claim types are off-ramped bc VA.gov assigns a seperate procID to each claim type. [Work needs to be done](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25030) to merge both claims under the same procID. Once this is done, these claim types can go directly to RBPS and no longer need to be off-ramped by VA.gov
 - Adding a spouse due to a non-religious or non-civil marriage
 - Removing a child or parent due to death
 - Removing a school child over 18 who has stopped attending school
