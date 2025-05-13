@@ -10,7 +10,7 @@ Currently, all dependency pension claims submitted to RBPS off-ramp for manual p
 
 Work done in [#76465](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76465) confirmed that we can leverage and API that identifies if the Veteran is receiving pension benefits, so we can conditionally show the income questions only to Veterans who need to see them.
 
-Sample questions:
+### Sample questions:
 
 ![image](https://github.com/user-attachments/assets/ba77b819-232d-4af7-aea1-22ed571a5170)
 - This question is asked for every dependent branch in the form
