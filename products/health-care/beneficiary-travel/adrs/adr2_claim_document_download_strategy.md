@@ -60,7 +60,7 @@ Similar to Option 2, but with local caching of downloaded documents to prevent r
   * All advantages of Option 2
   * Improved performance for repeated downloads of the same document
 * Bad
-  * All disadvantages of Option 2
+  * All disadvantages of Option 2 (for uncached download)
   * Increased implementation complexity
   * Additional memory usage for caching
   * Potentially over-engineered if repeated downloads are rare
