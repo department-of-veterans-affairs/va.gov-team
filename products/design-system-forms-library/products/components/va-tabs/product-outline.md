@@ -1,6 +1,6 @@
 ## va-tab: New Tab Design
 
-### [Design Decisions] TBD
+### [Design Decisions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/va-tabs/design-decisions.md)
 
 ## Design System Team
 - Product Managers: Carol Wong, Tricia Baker
@@ -11,6 +11,8 @@
 ## Artifacts
 - [Figma](https://www.figma.com/design/afurtw4iqQe6y4gXfNfkkk/VADS-Component-Library?node-id=24991-2000&p=f)
 - [Experimental Design Request](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/2346)
+- [Dropdowns and expandable components audit in Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1745526301433/147ef4e2490afbb999981a3cd80452f3a4871e4f?sender=uc445c662daeb45814b8d8356)
+- [Tab prototypes in Codepen](https://codepen.io/collection/NKxJBM)
 
 ## Summary
 - The new va-tab design originates from an experimental design request by the claim status tool team who updated the tabs design to address an accessibility issue with the previous tab design. The new design addresses a 508 defect where tab items were styled as links without keyboard functionality. 
@@ -29,7 +31,7 @@ April
 - Research completed by previous DST
 - Designs started by previous DST
 - Sprint 1 (April 14 to 27)
-	- [Dropdown and menu components - Audit](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/4040)to identify how to accommodate a menu when the number of tabs is too long to display
+	- [Dropdown and menu components - Audit](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/4040) to identify how to accommodate a menu when the number of tabs is too long to display
 
 May
 - Sprint 2 (April 28 to May 11)
