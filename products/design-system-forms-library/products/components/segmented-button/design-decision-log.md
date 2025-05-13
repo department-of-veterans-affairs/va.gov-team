@@ -3,31 +3,28 @@ Last updated: May 13, 2025
 
 - [ADR: XXX - DECISION LABEL](#ADR-XXX---Decision-Label)
 - [ADR: XXX - DECISION LABEL](#ADR-XXX---Decision-Label)
-- [ADR: XXX - DECISION LABEL](#ADR-XXX---Decision-Label)
 
 
-## ADR XXX - Decision Label
-_Copy an ADR section for each decision made_
+## Adopt mobile design system component design - Decision Label
 
-### Status: [STATUS]
-_Describe the status of the decision. Options are "proposed", "accepted", "rejected", "deprecated", "superseded"._
-
-- Date issue raised: [DATE]
-- Decision date: [DATE]
+### Status: Proposed
+- Date issue raised: 5/07/2025
+- Decision date: 5/07/2025
 
 ### Context
-_Describe the context and problem statement, including any forces influencing the decision._
+Design approach
 
 
 ### Decision
-_Describe the change we are proposing/doing._
+Per Matt on 5/7: We'll be porting over the design from the mobile app since it's proven to be well-used and hasn't had any issues.
+We will determine at a later point if we need any additional variations like USWDS has.
 
 
 
 ### Consequences
-_Describe the consequences of the decision. This could include positive and negative impacts, as well as any risks and how they will be mitigated._
+n/a
 
 
 
 ### Open Questions
-_Include any open questions that may still be lingering_
+Should we include variations? 
