@@ -29,6 +29,9 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 | QP9 | **VHA Repayment Plan (10-323)**:  Discovery & Design Prototyping *| [#106208](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106208)|   |**[UX]**   ||
 | QP10| **Payment History (VHA):** Progress development efforts and continue align with Lighthouse * | [#18859](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18859) | Goal to launch June 2025 or sooner | **[UX+FE+BE]** Tremendous User Value! Dependent on Lighthouse team collaboration to build API|   ||
 
+**_Approvals:_** _(sent via email but approvals tracked here)_
+ - [ ] VA PO approved end of quarter status of Quarterly Goals (0x/xx/25)
+
 ## Sprint Goals - Sprint: 5 [3/26/25 - 4/8/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
@@ -129,6 +132,9 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 | QP2 | Launch Wizard updates in production| [#48133](https://github.com/orgs/department-of-veterans-affairs/projects/1514/views/6?pane=issue&itemId=88349041&issue=department-of-veterans-affairs%7Cva.gov-team%7C48133)| In progress |  Dependent on CAIA team collaboration |  March 2025|--|
 | QP3 | Payment History (VHA)  | [#18859](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18859) | TBD |  TBD |  June 2025 or sooner|--|
 | QP4 | CSAT / Medallia Work  | [#102194](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102194) | In Progress |  Collaborating with Contact Center Team |   N/A |--|
+
+**_Approvals:_** _(sent via email but approvals tracked here)_
+ - [ ] VA PO approved end of quarter status of Quarterly Goals (0x/xx/25)
 
 ## Sprint Goals - Sprint: 1 [1/24/25 - 2/11/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
