@@ -2,7 +2,7 @@
 
 ## Overview
 
-The appointments tool should allow veterans to cancel their appointments or requests if possible. For how cancelled appointments should be displayed, refer to the [feature reference for each appointment type](../appointment-types/).
+The appointments tool allows veterans to cancel their appointments or requests if possible. For how cancelled appointments should be displayed, refer to the [feature reference for each appointment type](../appointment-types/).
 
 ## Requirements
 
