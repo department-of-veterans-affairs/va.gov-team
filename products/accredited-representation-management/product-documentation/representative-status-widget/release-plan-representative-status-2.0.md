@@ -9,7 +9,7 @@ This feature toggle is setup for authenticated users and we can also enable earl
 - [ ] All "launch blocking" items from Staging Review have been addressed
 - [ ] All "Before release" items have been addressed
 - [ ] Analytics request is submitted, for Domo dashboard updates
-- [ ] Monitoring in Datadog is setup, for Profile
+- [x] Monitoring in Datadog is setup, for Profile
 - [ ] Contact Center Review is submitted 
 - [ ] Privacy, Security, IA Readiness Review is complete
 
