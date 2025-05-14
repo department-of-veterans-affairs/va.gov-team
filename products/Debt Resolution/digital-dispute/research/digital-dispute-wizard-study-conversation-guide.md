@@ -255,13 +255,27 @@ Before we move on to this next section, I have some questions about the pages yo
 
   
 
--   Please go ahead and go through this form, imagining you were filling this form out.
+-   Please go ahead and go through this form, imagining you were filling this form out. I want to remind you that the information filled out in this demo is fake information. 
     
 -   Please remember to talk out loud and point out anything that is unclear or confusing
     
 -   I’ll stop you if I have follow up questions
-    
 
+    [Reason for dispute page]
+
+  - Do any of these reasons apply to you? Which one would you select and why? 
+
+    [Reason for dispute page - entry field]
+
+- What type of information would you include in this section?
+
+
+ [ Review and submit page]
+
+ - Do they expand the accordion?
+
+ - Any concerns on this page?
+   
   
 ### DIGITAL DISPUTE MENTAL MODELS
 
