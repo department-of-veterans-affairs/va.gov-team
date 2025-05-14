@@ -20,16 +20,17 @@ VADS currently lacks a component providing this specific functionality. We also 
 
 Based on our review and the successful implementation of the Mobile component in production, we've decided on the following:
 
-* We will largely adopt the functionality of the existing Mobile Segmented Control component.
-* The visual design will be updated to align with the current VADS (and USWDS) styling for primary and secondary buttons, ensuring consistency within the VADS ecosystem.
+* We will largely adopt the visual design and functionality of the existing Mobile Segmented Control component.
+* The VADS visual design will be modified to allow the component to resize responsively. (Whereas the current mobile design is fixed at 320px.) 
 * We will not be incorporating additional semantic color variations, such as those found in USWDS, at this time.
-* The component will be named "Segmented Button" within VADS.
+* The component will be addressed as "Button - Segmented" within guidance and Figma.
+* The web component will be named "va-button-segmented".
 
 ### Consequences
 
 * There is a potential risk that product teams may require alternate view configurations not included in the initial implementation.
 * The current visual design of the Mobile component does not fully align with current VADS primary button styling, which may require additional design.
-* The difference in component names ("Segmented Control" in Mobile vs. "Segmented Button" in VADS) is an inconsistency we should address.
+* The difference in component names ("Segmented Control" in Mobile vs. "Segmented Button" in VADS) is an inconsistency that should be addressed.
 
 ### Open Questions
 
