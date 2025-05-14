@@ -131,7 +131,7 @@ I want to make sure the next 60 minutes are still good for you today?
 
 -  We like to start off with a lighthearted question to get to know you better.
     
--   What's your favorite thing about Spring?
+-   What’s something you enjoy doing these days—any hobbies or routines? OR What's your favorite thing about Spring?
     
 
 - Thank you for sharing! (personalize response)
