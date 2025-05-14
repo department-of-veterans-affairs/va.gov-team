@@ -1,6 +1,6 @@
 # Authenticated Experience Team Intake Process
 
-`Version 3.1` **Updated 5/14/2025:**
+`Version 3.1` **Updated 5/14/2025**
 
 
 ## Our Team 
