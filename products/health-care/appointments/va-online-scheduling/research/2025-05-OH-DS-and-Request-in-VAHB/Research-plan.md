@@ -125,12 +125,13 @@ Currently, Veterans can only view their appointments on the VA Health and Benefi
 3. Have you used VA Benefits and Health app on your phone? (Yes - 5 /No - 5)
 
 #### Secondary criteria (nice-to-haves)
-*What criteria would strengthen your results?* 
 
-- `[Place secondary criteria here between hash marks when in edit mode]`
-- `secondary criteria`
-- `secondary criteria`
-- **`Add more criteria as needed`**
+- `At least 4 participants with a cognitive disabilty`
+- `At least 1 who lives in a rural area`
+
+**Screener questions**
+1. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? (We ask this because we want to make sure that our tools work for people who live with challenges like these.) - Yes (looking for 4 participants)
+
 
 ## Timeline 🗓️
 > [!NOTE]
