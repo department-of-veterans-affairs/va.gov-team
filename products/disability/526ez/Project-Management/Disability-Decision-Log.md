@@ -19,36 +19,36 @@ Not every decision a project makes gets recorded in the Decision Log. When to in
 |5.8.25 |Notifying IPF users |  Users with an In-Progress form won't be notified about a new form | We’re putting this on hold for now. The rationale is it’s too difficult to provide folks with the right details to make an empowered decision, and for the most part VBA can process legacy 0781/a effectively enough without having to have folks submit new 0781s. This may be potentially revisited once we’ve rolled out the 0781 at 100% to new users. | Emily Theis & David Reis | <code>Resolved</code>
 
 Old decisions: 
-- May 30
-	5103 Claim Certification (Paper Form Sync)
+- May 30 - 5103 Claim Certification (Paper Form Sync)
+  
 	5103 Claim language, keep the first paragraph’s copy verbatim with the paper form. We will edit the language in the last paragraph which refers to the pages and boxes on the paper form.
 
-- May 9 2024
-	TE Release
+- May 9 2024 - TE Release
+
 	If LH /submit endpoint isn’t ready by end of June, DBEX teams will not re-pipe the TE solution to use EVSS. VA’s expectation is that TE solution is complete and ready by end of June for LH’s /submit production release
 
-- May 9 2024
-	TE Release
+- May 9 2024 - TE Release
+  
 	Targeting Thursday June 27th for 1st phase TE canary release
 
-- May 9 2024
-	Benefits Claims endpoint
+- May 9 2024 - Benefits Claims endpoint
+
 	Begin work on this when Mark comes back May 13th.
 
-- May 2, 2024
-	TE rollout
+- May 2, 2024 - TE rollout
+
 	Once TE is on for a given Veteran’s claim, it stays on, and trumps wether or not the feature flag is on for them.
 
-- May 1, 2024
-	Date ranges in 526 Section IV
+- May 1, 2024 - Date ranges in 526 Section IV
+
 	The date range fields on 526 pages for paper form sections 15b, and 15c, and 15d will not be populated in the PDF. Instead, all toxic exposure date ranges will be populated in 15e. We are doing this to allow Veterans to enter all relevant dates for a given location/exposure at one time and to ensure all data is maintained and clear for VSR review, rather than split between fields. - JP
 
-- Apr 30, 2024
-	Toxic Exposure incremental release
+- Apr 30, 2024 - Toxic Exposure incremental release
+  
 	First release only to Vets who begin a new 526 form, when successful release to Vets who have an In Progress Form (IPF) 
 
-- April 26, 2024
-	Behavior of secondary disabilities
+- April 26, 2024 - Behavior of secondary disabilities
+  
 	a) For TE MVP, don't change the current behavior of the front end replacing SECONDARY with NEW in the JSON that is sent to LH for writing to the PDF
 b) Write the same content as for the NEW radio selection in column 2
 c) Retain the "secondary to [selected disability]" append to the Column 3 text, which will also include any further description from the front end
