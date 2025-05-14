@@ -18,15 +18,9 @@
 
 ---
 
-## June 2025 – Launch Intercepts on Non-Form Pages, Qualtrics Pilot
+## June 2025 – Launch Intercepts on Non-Form Pages
 - Implement new intercepts on **non-form experiences**
     - Track **initial performance** (capture rate, response rate)
-
-#### Pilot Qualtrics on 1-2 products as an A/B comparison
-- Run side-by-side comparison with Medallia:
-  - UI control
-  - Response quality and volume
-  - Analytics and data reporting capabilities
 
 ---
 
