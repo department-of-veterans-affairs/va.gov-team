@@ -186,18 +186,14 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 >
 > **Please list the names of people in each role.** In the Slack study channel, send an email and primary phone number for the moderator. Also send emails for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
 
-- `Moderator:` **Jenny Wang**	
-- `Research guide writing and task development (usually but not always same as moderator):` **Jenny Wang**		
-- `Participant recruiting & screening:`	**Jenny Wang**	
+- `Moderator:` Jenny Wang	
+- `Research guide writing and task development (usually but not always same as moderator):` Jenny Wang		
+- `Participant recruiting & screening:`	Jenny Wang	
 - `Project point of contact:` **[Enter full name]**		
 - `Accessibility specialist (for sessions where support for assistive technology may be needed):` **[Enter full name]**	
 - `Note-takers:` **[Enter full name]** ***or*** **[Designate Perigean]**	
-- `Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work. Spread observers across sessions. There should be no more than 5 to 6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side.`
-
-- **[Enter full name]**
-- **[Enter full name]**
-- **[Enter full name]**
+- `Observers:` [Link to sign up sheet](url goes here)
 
 ## Approvals ✅
-- `Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]`
+- `Reviewed by Kristen Mcconnell on [MM-DD-YYYY]`
 - `Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]`
