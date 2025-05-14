@@ -4,7 +4,7 @@ Status: Proposed
 
 ## Context
 
-Currently, decision letters are downloadable only in Microsoft Word (docx) format. If there's a way to convert to a more portable format, or to somehow render salient parts of the letter on the page, it would help users who don't have Microsoft Word on the page.
+Currently, decision letters are downloadable only in Microsoft Word (docx) format. If there's a way to convert to a more portable format, or to somehow render salient parts of the letter on the page, it would help users who don't have Microsoft Word view their letters.
 Decision letters are the source of truth for decided claims, and so it's important the information be available to all.
 
 ## Decision Drivers
