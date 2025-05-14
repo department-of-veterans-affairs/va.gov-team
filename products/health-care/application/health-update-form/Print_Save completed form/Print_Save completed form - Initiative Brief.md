@@ -45,7 +45,7 @@
 ---
 ## Measuring Success
 
-### Key Performance Indicators (KPIs)
+### Key Performance Indicators (KPIs) - ‼️ SECTION NEEDS UPDATING with actual monitoring links
 
 - Data source
   - [TBD - (EZ Datadog Service tracking)](https://vagov.ddog-gov.com/apm/resource/healthcare-form/rack.request/fed2018843dbdd46?query=env%3Aeks-staging%20operation_name%3Arack.request%20resource_name%3A%22V0%3A%3AHealthCareformsController%23download_pdf%22%20service%3Ahealthcare-form&env=eks-prod&fromUser=false&start=1744641831958&end=1745246631958&paused=false)
@@ -94,7 +94,7 @@
 
 ## Launch Planning
 
-### Incident Response info - ‼️ SECTION NEEDS UPDATING
+### Incident Response info - ‼️ SECTION NEEDS UPDATING with actual monitoring links and POCs
 - The 1010EZR form is currently in production; we are adding the ability to print and/or save (download) the form, with the Veteran's input, after submission is complete
 - We will use the following 1010EZR monitoring forms for any latency or errors being logged
      - [Datadog monitoring dashboard](https://app.datadoghq.com/dashboard/8it-wik-f5q/vsa-1010-team)
@@ -107,21 +107,21 @@
      - (? Engineering lead)
      - (? Product Owner)
 - 
-### Timeline - ‼️ SECTION NEEDS UPDATING
-* [Link to Release Plan for this Initiative](TBD)
+### Timeline - ‼️ SECTION NEEDS UPDATING with actual release plan link
+* Link to Release Plan for this Initiative
 
-## Key deliverables
-- [Figma Design and User Flow](TBD)
+## Key deliverables - ‼️ SECTION NEEDS UPDATING with actual design link
+- Figma Design and User Flow - TBD
 - [Production env](https://www.va.gov/my-health/update-benefits-information-form-10-10ezr/introduction)
 
 
-### Key Dates
+### Key Dates - ‼️ SECTION NEEDS UPDATING with actual dates
 
 - TBD
 
 ---
    
-## Screenshots
+## Screenshots - ‼️ SECTION NEEDS UPDATING with actual screenshots
 
 ### Before
 
