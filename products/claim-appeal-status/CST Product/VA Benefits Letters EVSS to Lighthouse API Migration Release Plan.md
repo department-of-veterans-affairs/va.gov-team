@@ -63,3 +63,4 @@ What metrics-based criteria will you look at before advancing rollout to the nex
 - **2025/05/08** - Mobile traffic turned on to 50% and both web and mobile began seeing an increase in `502` and `504` errors; error rates on Download reached 0.78%, but fell to 0.74% overnight
 - **2025/05/09** - A handful of `502`/`504` errors appeared at 10:30 AM ET, but when Stacy's self-imposed 11 AM ET assessment came around, she felt comfortable and increased to 75% as planned; bumped traffic to 75% at approx. 11:30 AM ET
 - **2025/05/12** - Increased traffic to 100%
+- **2025/05/13** - Critical issues were discovered with the Benefits Summary Letter; consequently, both web and mobile rolled back to 0% while the issues are being worked out
