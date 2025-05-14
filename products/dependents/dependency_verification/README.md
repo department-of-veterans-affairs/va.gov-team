@@ -81,7 +81,9 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 ### Important Notes
 - Verification letters are sent to every Veteran that receives service-connected compensation (disability and pension) and has claimed a dependent
-- "Date last verified" could be any date the Veteran submits a 686/674 confirming the dependent still exists (e.g. listing an existing spouse on a 686 when adding a newborn child would update the spouse's date last verified). DLV would also be updated for all dependents on the Veteran's benefit if a 0538 is subitted indicating "no changes" to current dependents.
+- "Date last verified" stored for each individual dependent, and it could be any date the Veteran submits a 686/674 confirming the dependent still exists (e.g. listing an existing spouse on a 686 when adding a newborn child would update the spouse's date last verified). DLV would also be updated for all dependents on the Veteran's benefit if a 0538 is subitted indicating "no changes" to current dependents.
+- The diary 24 start date in VBMS is the date the Veteran last submitted an 0538 to verify all the dependents on their benefits
+- The diary 24 end date in VBMS prompts the workflow that generates the verification paper letter
 
 ---
 
