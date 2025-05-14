@@ -1,6 +1,46 @@
 	# Research Plan for Mobile Feature Support, Debt Portal: Overpayments and Copayments, May 2025
 
 
+<!-- ## Background 🏗️
+<details><summary>Briefly describe the background of your product.</summary>
+	
+`What problem is your product trying to solve?`
+
+**[Enter answer here]**
+  
+`Where is your product situated on VA.gov? (ex: auth vs. unauth)`
+
+**[Enter answer here]**
+  
+`What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?`
+
+**[Enter answer here]**
+
+`Product Brief`
+
+**[Link to product brief](url goes here).**
+
+</details>
+-->
+
+### [OCTO-DE Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md) 
+
+
+`Objective 1:  VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.`  
+
+> - **Key Result 1:** Improve satisfaction with our web and mobile products by 5 points.
+> - **Key Result 3:** 100% of transactions received via our digital experiences are either processed correctly or we have notified the user of an error.
+
+
+### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
+
+	
+- `Starting Up (Moment: Balancing Finances)`
+- `Taking Care of Myself (Moment: Maintaining my health)`
+- `Putting Down Roots (Moment: Maintaining my financial, social, and emotional health)`
+- `Retiring (Moment: Taking care of my health)`
+- `Aging (Moment that Matters: Managing my declining health)`
+
 ## Research Goals 🥅	
 
 ### Goals
@@ -13,8 +53,8 @@
 
 `4.` **Evaluate the experience of completing actions outside the app.**
 
-<!-- ### Outcome
-`How will this research advance your product to the next phase in the design process? What will you do with your learnings?`
+### Outcome
+
 - Determine optimal methods and timing for notifications about new debts to guide future design decisions
 - Determine if native app products should be built (or path to external sites will remain) for:
   - paying copays + overpayment debts
@@ -23,11 +63,7 @@
 - Address and identify accessibility gaps
 - Validate designs for viewing copays + overpayment debts
 
----
 
-**[Enter outcome here]** 
-
---- -->
 
 ### Research questions
 
