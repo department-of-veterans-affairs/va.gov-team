@@ -1,6 +1,6 @@
 # Financial Management Product Release Notes
 
-*Here you can learn about changes to VA Debt Portal at* https://www.va.gov/manage-va-debt
+*Learn about changes to VA Debt Portal at:* https://www.va.gov/manage-va-debt
 
 **Last Updated: May 14, 2025**
 
