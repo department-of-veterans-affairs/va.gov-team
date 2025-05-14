@@ -195,7 +195,7 @@ Prototype Link: (https://zyc78g.csb.app/manage-va-debt)
     
 -   Which link would you most interested in clicking on first? Why?
 
--   Please click on the <Learn about other ways to request help with VA debt> link
+-   Please click on the Learn about other ways to request help with VA debt link
 
 
   
