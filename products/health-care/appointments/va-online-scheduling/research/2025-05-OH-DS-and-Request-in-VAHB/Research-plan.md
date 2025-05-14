@@ -105,30 +105,24 @@ Currently, Veterans can only view their appointments on the VA Health and Benefi
 
 ### Recruitment criteria
 
-> [!NOTE]
-> - **Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants.**
-> - Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
-
-> [!TIP]
-> - The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria.
-> - Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria.
-> - Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Review an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/pre-mhv-prototype/generative-research-study-1/2020-12.research-plan1.md)
-
-**List the total number and type (Veterans, caregivers, etc.) of participants for this study:**
-
-- `Veterans:` **[10]**
-- `Caregivers:` **[n]**
-- `Dependents:` **[n]**
-- `Total:` **[n]**
+- `Veterans:` **10**
+- `Caregivers:` N/A
+- `Dependents:` N/A
+- `Total:` **10**
 
 ### Primary criteria (must-haves)
-*What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
 
-- `[Place primary criteria here between hash marks when in edit mode]`
-- `primary criteria`
-- `primary criteria`
-- **`Add more criteria as needed`**
+- `All participants must have a MHV account and have used it in the past 12 months.`
+
+#### Screener questions
+1. In the past 12 months or upcoming 12 months, did you or do you have appointments at any of the following facilities? (Yes/No) (If no, Disqualify)
+  - Mann-Grandstaff VA Medical Center in Spokane, Washington
+  - Jonathan M. Wainwright Memorial VA Medical Center in Walla Walla, Washington
+  - VA Central Ohio Healthcare System in Columbus, Ohio
+  - Roseburg VA Health Care System in Roseburg, Oregon
+  - VA Southern Oregon Rehabilitation Center and Clinics in White City, Oregon
+2. Have you used My HealtheVet to view or manage your appointments? (Yes - 5 /No - 5)
+3. Have you used VA Benefits and Health app on your phone? (Yes - 5 /No - 5)
 
 #### Secondary criteria (nice-to-haves)
 *What criteria would strengthen your results?* 
