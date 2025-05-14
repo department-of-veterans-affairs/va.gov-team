@@ -18,7 +18,7 @@ My VA aggregates information from across VA.gov. While our team pulls info from 
 
 ### Prepare intake
 
-1. Review all documentation on this page, and any relevant [integration documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/team/intake.md#common-integration-documentation).
+1. Review all documentation on this page, and any relevant [implementation documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/team/intake.md#common-integration-documentation).
 2. [Complete an intake ticket.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=auth-exp-request.yml)
 3. Reach out to team on the #accountexp-authexp Slack channel for next steps.
 
