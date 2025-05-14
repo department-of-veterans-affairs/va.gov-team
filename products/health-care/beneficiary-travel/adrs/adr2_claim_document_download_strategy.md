@@ -16,9 +16,13 @@ The Travel Pay application's front-end needs to implement functionality to downl
 
 ## Considered Options
 
-### Option 1: Fetch All Documents on Page Load
+### Option 1a: Fetch All Documents on Page Load
 
 Download binary data for all documents when the travel claim details page loads.
+
+### Option 1b: Pre-fetch a Portion of Documents before Page Load
+
+From the claim status list page, hovering on the link to the claim details kicks off the download API calls for user submitted documents. 
 
 ### Option 2: Fetch Single Document on Click
 
@@ -34,7 +38,7 @@ Similar to Option 2, but with local caching of downloaded documents to prevent r
 
 ## Pros and Cons of the Options
 
-### Option 1: Fetch All Documents on Page Load
+### Option 1a: Fetch All Documents on Page Load
 
 * Good
   * Simplified loading and error state handling. Loading can be bundled with the page load spinner and error could be a global alert on the page.
@@ -43,6 +47,16 @@ Similar to Option 2, but with local caching of downloaded documents to prevent r
 * Bad
   * Potentially wasteful network usage if users don't download all documents
   * Increased initial page load time, especially on slow connections
+ 
+### Option 1b: Pre-fetch a Portion of Documents before Page Load
+
+* Good
+  * Reduced perceived load time for the claim details page
+  * Downloads occur during user consideration time (hover state)
+  * More responsive experience for downloading user-submitted documents
+* Bad
+  * Complex implementation for hover-based prefetching
+  * Potentially wasted downloads if user hovers but doesn't navigate
 
 ### Option 2: Fetch Single Document on Click
 
