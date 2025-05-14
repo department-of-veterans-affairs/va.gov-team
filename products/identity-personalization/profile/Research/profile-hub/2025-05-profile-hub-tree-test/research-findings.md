@@ -34,7 +34,7 @@ The goal of this research is to inform iteration on the information architecture
 
 Outcome will be a validated IA for incorporating new sections into VA.gov Profile Hub, including a Letters and documents section to house the downloadable ILER IES report.
 
-<details><summary>Where does your product fit into the Veteran journey? Are there moments that matter?</summary>
+<details><summary>Where does your product fit into the Veteran journey?</summary>
 
 - `Starting Up`
 - `Taking Care of Myself`
