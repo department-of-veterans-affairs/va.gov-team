@@ -125,13 +125,13 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 
 ### 1-week results
 
-- Number of unique users: 
+- Number of unique users: 576
 - Post-launch KPI 1 actual: [FILL_IN]
 - Post-launch KPI 2 actual: [FILL_IN]
 - Post-launch KPI 3 actual: [FILL_IN]
-- Any issues with VA handling/processing?: 
-- Types of errors logged: BackendServiceException: 
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges?  
+- Any issues with VA handling/processing?: 2 
+- Types of errors logged: BackendServiceException: These are 499's we think this is from a stale session. 
+- Any changes necessary based on the logs, feedback on user challenges, or VA challenges?: No
 - If yes, what: Minor changes to requests to VaNotify service to prevent client side errors.
 
 ### 1-month results
