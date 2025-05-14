@@ -7,7 +7,7 @@ Our technical stack spans several different repositories. Each repository includ
 - [va.gov-cms](https://github.com/department-of-veterans-affairs/va.gov-cms) powers the Drupal CMS, including data migrations from other systems. This repo is also where our team’s ticketing and sprint boards live.
 - [content-build](https://github.com/department-of-veterans-affairs/content-build) is the templating layer of the front-end, and uses Node.js, Metalsmith, and liquid.js templates.
 - [next-build](https://github.com/department-of-veterans-affairs/next-build/tree/main) is a newer templating layer of the front-end built in NextJS, that will eventually replace content-build. We are slowly migrating templates from content-build to next-build.
-- [vets-websit](https://github.com/department-of-veterans-affairs/vets-website)e houses frontend Node.js / React apps. Many teams in the VA ecosystem code exclusively in vets-website and vets-api.
+- [vets-website](https://github.com/department-of-veterans-affairs/vets-website) houses frontend Node.js / React apps. Many teams in the VA ecosystem code exclusively in vets-website and vets-api.
 - [vsp-platform-revproxy](https://github.com/department-of-veterans-affairs/vsp-platform-revproxy) Primarily owned by Platform team. Our main contribution to this repo is adding content redirects to [redirects.yml](https://github.com/department-of-veterans-affairs/vsp-platform-revproxy/blob/main/template-rendering/revproxy-vagov/vars/redirects.yml)
 
 ### Front-end environment setup 
