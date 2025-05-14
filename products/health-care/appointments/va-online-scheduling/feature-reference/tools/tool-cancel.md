@@ -7,7 +7,7 @@ The appointments tool should allow veterans to cancel their appointments or requ
 ## Requirements
 
 The cancel button should be displayed on the details page if an appointment or request is considered "cancellable". This button will begin the appointment cancellation user flow.
-  - Refer to the [feature reference](https://www.figma.com/design/eonNJsp57eqfPqx7ydsJY9/Feature-Reference-%7C-Appointments-FE?node-id=1150-105402&p=f&t=MkZlzwY4fXRA3hsB-0) for the most up to date UI specifications.
+  - Refer to the [feature reference](https://www.figma.com/design/eonNJsp57eqfPqx7ydsJY9/Feature-Reference-%7C-Appointments-FE?node-id=1087-86861) for the most up to date UI specifications.
 
 The following sections lists the requirements for appointments to be considered "cancellable" at each layer of the application. Note that some of the layers need additional data from upstream layers to determine if an appointment is cancellable.
 
