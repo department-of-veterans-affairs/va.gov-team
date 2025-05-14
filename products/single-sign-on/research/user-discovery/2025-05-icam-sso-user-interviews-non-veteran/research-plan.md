@@ -57,7 +57,7 @@ This research does not directly involve Veterans.
 
 `1.` **Understand how users interact with ICAM (SSO).**
 
-`2.` **Surface any pain points isers experience interacting with ICAM (SSO).**
+`2.` **Surface any pain points users experience interacting with ICAM (SSO).**
 
 `3.` **Discover differences and similarities among user types.** 
   
