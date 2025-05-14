@@ -35,7 +35,7 @@ We also have two smaller products, Nametag and the Authenticated Menu.
 An intake form should be completed for **ALL** work being completed on My VA or VA.gov Profile so the Authenticated Experience team can ensure all projects are tracked and documented. This is regardless of what team is adding or updating the feature.
 
 To get started:
-1. Review the documentation linked above that relates to the change you'd like to implement on My VA or Profile.
+1. Review the implementation documentation linked above that relates to the change you'd like to implement on My VA or Profile.
    - If there is a change that you are attempting to complete but do not see documented let us know.
 2. [Complete the intake ticket.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=auth-exp-request.yml)
 3. Reach out to team on the #accountexp-authexp Slack channel for next steps.
