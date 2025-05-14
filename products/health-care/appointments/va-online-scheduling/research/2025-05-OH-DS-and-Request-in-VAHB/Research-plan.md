@@ -117,7 +117,7 @@ Currently, Veterans can only view their appointments on the VA Health and Benefi
 
 **List the total number and type (Veterans, caregivers, etc.) of participants for this study:**
 
-- `Veterans:` **[n]**
+- `Veterans:` **[10]**
 - `Caregivers:` **[n]**
 - `Dependents:` **[n]**
 - `Total:` **[n]**
