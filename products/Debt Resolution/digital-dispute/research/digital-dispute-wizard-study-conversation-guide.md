@@ -41,7 +41,7 @@ How are you today?
 
   
 
-I work at VA.gov to help improve access to benefits and services for Veterans like you. This work is meaningful to me because I believe that those who have served have a right to these services. [meaning]
+I work at VA.gov to help improve access to benefits and services for Veterans like you. This work is meaningful to me because I believe that those who have served have a right to these services and benefits. [meaning]
 
   
 
@@ -49,7 +49,7 @@ You’ll notice there are a few people on the call already. They’re my colleag
 
   
 
-My goal today is to learn how easy or difficult it is to use a digital portal we are working on to help you understand how to resolve and resolve VA overpayment debts.
+My goal today is to learn how easy or difficult it is to use a digital portal we are working on to help you understand how to pay or get help with VA overpayment debts.
 
   
 
@@ -81,11 +81,9 @@ Your identity will be kept confidential, and any information we take away from t
 
   
 
+I'm going to ask if you are comfortable recordingt his interview - we use recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. 
+
 Are you comfortable if I record my screen and audio as we talk today?
-
-  
-
-We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly.
 
   
 
@@ -157,7 +155,7 @@ Let’s go to the next part of the interview where we are going to share a digit
 
 You'll be interacting with a prototype that may not work exactly the way you expect. 
 Some areas of the prototype will be clickable, and some will not. 
-This is very important to know: since it's a demo, we have used fake information, and none of your actions will affect your actual VA information or benefits.
+This is very important to know: since it's a demo, we have used fake, prefilled information, and none of your actions will affect your actual VA information or benefits.
 In this task, we would like to hear your honest feedback. 
 Please comment on what is clear and unclear.
 
