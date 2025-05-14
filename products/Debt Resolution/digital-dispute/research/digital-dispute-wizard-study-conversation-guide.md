@@ -185,25 +185,18 @@ Prototype Link: (https://zyc78g.csb.app/manage-va-debt)
 
 -   Take a moment to show me where on the page you would go to get help with your debt [task]
     
-
-  
-
 -   I’d like to bring you attention to the ‘Request financial help’ section. [comprehension]
     
 -   What are your thoughts about this page? Any information missing that you’d like to see?
-    
-
   
-  
+-   Where on this page would you click on if you wanted help with your debt? Can you point out which links, specifically? 
 
 -   Before you click, what do you understand to be the difference between the first link <[Request help with overpayments and copay bills online](https://zyc78g.csb.app/request-help)> and the second <[Learn about other ways to request help with VA debt](https://zyc78g.csb.app/help-options)> [Mental Models]
     
+-   Which link would you most interested in clicking on first? Why?
 
--   Which link are you most interested in clicking on first? Why?
-    
+-   Please click on the <Learn about other ways to request help with VA debt> link
 
--   Please click into the link you’re interested in
-    
 
   
   
@@ -222,17 +215,18 @@ Prototype Link: (https://zyc78g.csb.app/manage-va-debt)
     
 -   Which option would you say is relevant to your situation?
     
--   Can you show me where you might look if you want to see if there is a process to let the VA know that you shouldn’t have this debt [task: finding dispute section]
+-   Can you show me where you might look if you want to see if there is a process to let the VA know that you shouldn’t have this debt? [task: finding dispute section]
     
-
 -   If unclear, give a bit more guidance [partial pass]
-    
+-   Based on what it says here, what is important to know about disputing overpayment debt? 
+-   What could happen after 30 days if you don't make any payments on your debt? [correct answer: could be sent to collections]
+-   Do you have any questions or concerns after reading this paragraph? 
 
 ## Dispute Form
 
 Before we move on to this next section, I have some questions about the pages you just reviewed.
 
-## ‘Wizard’ Post Task Questions (5 minutes)
+## ‘Wizard’  Post Task Questions (5 minutes)
 
 -   What was your overall experience with the pages you reviewed until this point?
 
@@ -253,8 +247,8 @@ Before we move on to this next section, I have some questions about the pages yo
 -   What are your thoughts on this page?
     
 -   Is anything unclear?
-    
-
+  
+-   Do you have any concerns after reading this paragraph? 
   
 
 ### Prompt
