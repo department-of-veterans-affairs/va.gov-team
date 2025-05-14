@@ -64,3 +64,6 @@ What metrics-based criteria will you look at before advancing rollout to the nex
 - **2025/05/09** - A handful of `502`/`504` errors appeared at 10:30 AM ET, but when Stacy's self-imposed 11 AM ET assessment came around, she felt comfortable and increased to 75% as planned; bumped traffic to 75% at approx. 11:30 AM ET
 - **2025/05/12** - Increased traffic to 100%
 - **2025/05/13** - Critical issues were discovered with the Benefits Summary Letter; consequently, both web and mobile rolled back to 0% while the issues are being worked out
+    - Slack threads regarding these issues:
+        - https://dsva.slack.com/archives/C02CQP3RFFX/p1747159220624239
+        - https://dsva.slack.com/archives/C02CQP3RFFX/p1747167993375199
