@@ -1,6 +1,51 @@
 ## CHAMPVA Claims biweekly stakeholder sync
 Every other Wednesday at 2:35pm ET
 
+## 05/14/25 CHAMPVA Claims
+
+**Attendees:** Andrea, Jamie, Rachel P., Renata, Mike, Katrina, Erick, Angela P., Elizabeth, Arleen, Premal, Amanda
+
+**Agenda**
+* CHAMPVA Claims Resubmissions
+* Backlog queues
+* Any new sendbacks data (not addressed, ask over email)
+
+
+**CHAMPVA Claims Resubmissions**
+
+* Jamie walks through the simple resubmission mocks
+    * Claims folks note that PDI numbers aren't being used anymore, been replaced with the batch number (DATE + an 8 digit code = XX/XX/XXXX-VA111111-001-001)...but as a business rule the letter just includes the VA111111 instead of the rest of the code to make it less complicated
+    * Angela P. notes that CHAMPVA needs to change the language on the letter from PDI to batch number
+* Complex resubmission mock walkthrough
+    * No feedback from CHAMPVA
+* Q: Has CHAMPVA claims noticed multiple sendbacks for a single claim happening regularly?
+    * It depends. As benes get savvier, they get more accurate. The first few claims can be the least accurate. 
+    * Likelihood of multiple sendbacks occurs the more things we're asking them to provide. 
+    * CHAMPVA concerned that this shouldn't be designed in too detailed and become a blocker to resubmission. 
+    * Benes can request Duty to Assist when filing claims, which is an obligation to support beneficiaries. Maybe we need to steer more complex resubs in the direction of DTA rather than through the form. 
+* Q: What information is provided on the sendback? Does it say "DX codes" or an explanation of what that is, where it might be found?
+    * A: Letters, especially for pharmacy stuff, gives users context about where to locate missing information on paperwork
+       * Angela P to show us a sendback letter that's filled out, plus a checklist (double check where that checklist is located)
+* Q: we talked at one point about not requiring the number (PDI or batch) in case people lost the letter. Is that still a possibility?
+    * If no PDI/batch number, we need their name and the date of service that's listed on the claim, and the doctor you saw.
+        * Angela P. notes that if the claim wasn't already open in the system, there'd be nothing to look up and marry the two halves of the claim
+    * It's possible when there's a large batch that some were entered into PEGA and others weren't (the ones that required a sendback letter)
+
+
+**Backlog queues**
+
+* Team is currently trying to understand the backlog queues right now and delays. We've heard some things take 5-7 days and other take 90 days to process. 
+    * **CIPM:** all physical mail received goes through CIPM to be scanned. **This is currently a bottleneck.** 
+        * Backlog of physical mail in a warehouse that hasn't been scanned in - for bene claims (about 10% bene claims, the rest of it is appeals and eligibility), that backlog should be cleared soon. Note that provider claims aren't sent the warehouse, they're submitted differently.
+        * Note that when the backlog of scanning mail gets resolved, CHAMPVA will be temporarily prioritizing processing those claims first and digitally submitted claims processing will slow down for a time, at least until the scanned mail is caught up, and then everything is handled at the same rate (first in/first out)
+    * **PEGA:** where digital submissions go. **No backlog of claims**, they're handled almost as soon as they hit the system (resolved within 2 weeks or less). 
+        * Eligibility backlog is also in PEGA, was scanned in already. It's backlogged because of insufficient eligibility staff. More staff modernizing the flow has reduced 60% of the time to input the eligibility queue. 
+* 10x as many faxes are received than any kind of mail for claims. Since eligibility went live, fax/mail has dropped 60%
+    * Resubmits are expensive in terms of time
+    * CHAMPVA claims says digitizing that checklist from Angela P. would be great as a simpler claims submission form (note to team: let's look at the checklist again and think it through). 
+* FMP works the same way, but it's a different processing group and different backlog (currently has a higher volume of faxes and handwritten forms so it shortens from days/weeks to input information into the databases so they can process faster).
+
+
 ## 04/30/25
 **Attendees:** Premal, Amanda, Arleen, Angela C., Angela P., Melissa, Joie, Andrea, Jamie, Rachel P., Renata
 
