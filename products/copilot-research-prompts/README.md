@@ -44,4 +44,3 @@ This folder contains reusable prompts designed to guide research activities and 
 
 ---
 
-Feel free to let me know if you’d like to expand on any of these descriptions or explore additional follow-up opportunities!
