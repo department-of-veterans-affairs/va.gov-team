@@ -1,7 +1,3 @@
-Here's a summary for the README that explains each prompt file located in the "copilot-research-prompts" folder:
-
----
-
 # README: Copilot Research Prompts
 
 This folder contains reusable prompts designed to guide research activities and analyses, leveraging GitHub Copilot to streamline workflows. Below is a brief explanation of each file:
