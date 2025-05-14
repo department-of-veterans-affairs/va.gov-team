@@ -34,11 +34,11 @@ Currently, Veterans can only view their appointments on the VA Health and Benefi
 
 ### Goals
 
-`1.` We want to evaluate how effectively and efficiently Veterans can schedule, request, and cancel with facilities that use Oracle Health within the VAHB app.
+`1.` **We want to evaluate how effectively and efficiently Veterans can schedule, request, and cancel with facilities that use Oracle Health within the VAHB app.**
 
-`2.` We want to identify pain points, usability issues, and unmet expectations for scheduling, requesting, and canceling with facilities that use Oracle Health within the VAHB app.
+`2.` **We want to identify pain points, usability issues, and unmet expectations for scheduling, requesting, and canceling with facilities that use Oracle Health within the VAHB app.**
 
-`3.` We want to understand Veterans' mental model and expectations related scheduling appointment.
+`3.` **We want to understand Veterans' mental model and expectations related scheduling appointment.**
   
 ### Outcome
 
@@ -76,22 +76,16 @@ Goal 3: We want to understand Veterans' mental model and expectations related sc
 
 
 ### Hypotheses
-> [!NOTE]
-> Remember to constrain the hypotheses to the goals of your study!
- 
-**Think through these prompts to develop strong hypotheses:**
-	
-`What do you intend to learn and measure from this study?` 
-
-`What do you already know about this problem space?`
- 
-`What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)`
-  
-`Write a generalized statement that combines what you know + what you think will happen during the study.`
 
 ---
 
-**[Enter hypotheses here]** 
+1. At least 90 % of participants will successfully schedule, request, and cancel an appointment on their first attempt without facilitator assistance.
+2. All participants will complete each task quickly; a few may back-track or abandon the scheduling flow before finishing.
+3. At least 85 % of participants will rate their confidence in task completion as 4 or 5 on a 5-point scale.
+4. The highest friction will occur on facilities selection and providers selection screens, due to personal needs and preferences.
+5. Some participants will expect more content around features and functionalities that won't be available, such as type of care and providers they can't schedule with.
+6. Most participants will prefer to schedule with a provider on the app now, instead of requesting and calling.
+7. Participants will expect to see providers and their availabilities at the same time to help them choose who and when to schedule their appointments. 
 
 ---
   
