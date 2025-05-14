@@ -56,14 +56,14 @@ Currently, Veterans can only view their appointments on the VA Health and Benefi
 3. Do Veterans feel confident that their appointment actions (scheduling, requesting, canceling) were completed successfully, why and why not?
 
 `Goal 2: We want to identify pain points, usability issues, and unmet expectations for scheduling, requesting, and canceling with facilities that use Oracle Health within the VAHB app.`
-4. At which screens, fields, or decision points do Veterans encounter confusion, delays, or errors while scheduling, requesting, or canceling?
-5. Where does the current flow, content, or feedback fall short of what Veterans expect when completing these tasks?
-6. Which aspects of the experience create frustration, anxiety, or distrust, and why?
+1. At which screens, fields, or decision points do Veterans encounter confusion, delays, or errors while scheduling, requesting, or canceling?
+2. Where does the current flow, content, or feedback fall short of what Veterans expect when completing these tasks?
+3. Which aspects of the experience create frustration, anxiety, or distrust, and why?
 
 `Goal 3: We want to understand Veterans' mental model and expectations related scheduling appointment.`
-7. How do Veterans decide to make an appointment when presented with available providers and scheduling options (online, request, and call)?
-8. What details (e.g., provider name, last appointment date) do Veterans expect to see at each step to feel informed and in control?
-9. How do Veterans think the overall appointment scheduling process “should” work, and if previous experiences shape their expectations and how?
+1. How do Veterans decide to make an appointment when presented with available providers and scheduling options (online, request, and call)?
+2. What details (e.g., provider name, last appointment date) do Veterans expect to see at each step to feel informed and in control?
+3. How do Veterans think the overall appointment scheduling process “should” work, and if previous experiences shape their expectations and how?
 
 
 ### Hypotheses
