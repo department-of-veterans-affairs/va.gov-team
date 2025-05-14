@@ -52,9 +52,11 @@ Currently, Veterans can only view their appointments on the VA Health and Benefi
 
 Goal 1: We want to evaluate how effectively and efficiently Veterans can schedule, request, and cancel with facilities that use Oracle Health within the VAHB app.
 
-`1.`Can Veterans successfully schedule, request, and cancel an appointment?
+`1. Can Veterans successfully schedule, request, and cancel appointments with Oracle Health facilities using the VAHB app?`
 
-`2. Can Veterans successfully schedule, request, and cancel an appointment?`
+`2. What barriers or points of confusion do Veterans encounter during these appointment tasks?`
+
+`3. Do Veterans feel confident that their appointment actions (scheduling, requesting, canceling) were completed successfully?`
 
 **`3.`[Enter Q3]**
 
