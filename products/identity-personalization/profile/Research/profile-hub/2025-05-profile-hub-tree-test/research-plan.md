@@ -111,8 +111,8 @@ Are there moments that matter?</summary>
 ## Research materials 📔
 
 **For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html)**
-- `[Link to email with instructions](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/identity-personalization/profile/Research/profile-hub/2025-05-profile-hub-tree-test/research-plan.md#instruction-email)`
-- `[Link to OptimalSort session](https://dj540s05.optimalworkshop.com/treejack/profile-hub)`
+- [Link to email with instructions](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/identity-personalization/profile/Research/profile-hub/2025-05-profile-hub-tree-test/research-plan.md#instruction-email)
+- [Link to OptimalSort session](https://dj540s05.optimalworkshop.com/treejack/profile-hub)
 
 	
 ## Recruitment 🎯
@@ -125,10 +125,10 @@ Are there moments that matter?</summary>
 
 **List the total number and type (Veterans, caregivers, etc.) of participants for this study:**
 
-- `Veterans:` **[75]**
-- `Caregivers:` **[0]**
-- `Dependents:` **[0]**
-- `Total:` **[75]**
+- `Veterans:` **75**
+- `Caregivers:` **0**
+- `Dependents:` **0**
+- `Total:` **75**
 
 #### Primary criteria (must-haves)
 *What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
