@@ -31,7 +31,7 @@ _The Profile page typically has ~130k users per week, but it can climb up to ~15
 1. Stage A: 5% of users
 2. Stage B: 25% of users
 3. Stage C: 50% of users
-4. Stage D: 100% of users
+4. Stage D: 100% of users + add an entry point to MyVA
 
 ***
 
