@@ -159,13 +159,9 @@ Currently, Veterans can only view their appointments on the VA Health and Benefi
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
 
-> [!NOTE]
-> We recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S. 
-
 > [!TIP]
 > Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. **(e.g. 3/17, Monday 9:00AM-1:00PM, 3:00PM-6:00PM EST; 3/18, Tuesday 9:00AM-6:00PM EST, etc.;** ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
 >
-> **Place time slots between `hash marks` when in edit mode.**
 
 - `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
 - `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
@@ -175,11 +171,6 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 - `Add more slots as needed`
   
 ## Team Roles  🕵️👩‍💻👩‍🔬
-
-> [!NOTE]
-> **Please do not include email addresses in this section.** We previously required email addresses. VA's GitHub policy ([see announcement](https://github.com/orgs/department-of-veterans-affairs/discussions/13)) has changed. VA.gov email addresses cannot be in public repositories.
->
-> **Please list the names of people in each role.** In the Slack study channel, send an email and primary phone number for the moderator. Also send emails for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
 
 - `Moderator:` Jenny Wang	
 - `Research guide writing and task development (usually but not always same as moderator):` Jenny Wang		
