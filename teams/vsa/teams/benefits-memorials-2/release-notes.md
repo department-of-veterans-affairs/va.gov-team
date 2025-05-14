@@ -7,8 +7,8 @@ Last Updated: May 14, 2025
 Please note that links in older posts may be invalid or may have been removed. Please contact the team with any questions via Slack at financial-management .
 <br/><br/>
 
-|Release Date  | Notes + Details
-|--|--|
+|Release Date| Notes + Details
+|----|------|
 **2025*
 | May 6, 2025 | `fsr_wizard` shifted to 100%! Introduces new static "wizard" link to a resource page to replace the inaccessible legacy design |
 | April 30, 2025 | One VA Debt Letter hit 100% on production (`show_one_va_debt_letter`) |
