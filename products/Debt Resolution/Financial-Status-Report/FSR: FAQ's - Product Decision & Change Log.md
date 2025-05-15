@@ -4,7 +4,7 @@
 
 
 
-### FSR: FAQ's - Product Decision & Change Log 
+### Product Decision & Change Log 
 
 | Date | Source (Who?) | Decision/ Production Code Change |Details |
 | ---- | ---- | ---- |---- |
@@ -21,7 +21,7 @@ The following were considered but rejected.
 | ------- | -------- |
 | TBD| TBD |
 
-### FSR FAQ's
+### FAQ's
 
 - **Question**
   - Answer
