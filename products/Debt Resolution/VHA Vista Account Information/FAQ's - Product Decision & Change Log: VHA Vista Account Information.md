@@ -1,7 +1,26 @@
-## Discovery FAQ Document for VHA Vista Account Information
-**Context:** _Information and question/answers will be collected to better define initiative as we learn more during all phases of development. Please number any questions for easy reference._
+# FAQ's - Product Decision & Change Log: VHA Vista Account Information
+***Tracking decisions, changes, and considerations as they relate to the debt products on va.gov***
+
+
+
+
+### Product Decision & Change Log 
+
+| Date | Source (Who?) | Decision/ Production Code Change |Details |
+| ---- | ---- | ---- |---- |
+| TBD | TBD | TBD |TBD |
+
+### Product Considerations
+
+The following were considered but rejected.
+
+| Date | Source (Who?) | Content area | Rationale |
+| ------- | -------- | -------- | -------- |
+| TBD| TBD | TBD | TBD |
 
 ---
+
+### FAQ's
 
 Given VHA Payment History progress and implementation phases, the UX team has questions for PO and SMEs/stakeholders. 
 
