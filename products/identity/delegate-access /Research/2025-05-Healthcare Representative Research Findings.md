@@ -193,13 +193,20 @@ Related to: Hypothesis 1, Question 1, Question 2, Question 3, Question 4
 >_""I feel like [the VIST coordinator] saved [my husband's] life."" - Participant 2_
 
 
-## Recommendations
+## Next Steps / additional research
 
-1. 
+1. Update documentation.
+  - Desired outcome: Caregivers should be able to easily navigate resources and documentation to find what they need.  They should also be able to clearly understand what benefits not only the Veteran but they qualify for.
+2. Obtain behavioral data and observational data from Google Analytics, Facebook community groups, VSignals survey, and etc.
+  - Desired outcome: Obtain a clearer picture of where caregivers are struggling the most, what information they are searching for and develop an understanding any potential for digital access.
+3. Dive deeper into consent/POA pain points.
+  - Desired outcome: Improve the access and/or authorization of caregivers to complete actions on behalf of Veterans that have already proven they have the permissions to do so.  Compliance should also be considered.
+4. Speak to staff who have interacted with Veterans and their caregivers.
+  - Desired outcome: Staff / front-line people see first hand the issues caregivers are experiencing. How can we better understand what these pain points are and how staff is supporting caregivers? Understand what types of care are currently blocked (or unnecessarily difficult) for Veterans who rely on a caregiver?
+5. Understand technical implementation of CARMA, MPI and Veteran profiles.
+  - Desired outcome: From a technical perspective, data is flowing from "somewhere" to MPI and to a Veteran's profile. How does this work in reality? Can our team leverage any of what's been built so far? How is the CARMA solution being utilized and can we piggyback off of it?  Build an understanding of what tools might be needed to enable a caregiver to .have meaningful caregiver status.
    
 
-## Further research needed
 
-1. 
 
 
