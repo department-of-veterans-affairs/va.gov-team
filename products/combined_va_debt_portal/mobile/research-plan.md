@@ -72,7 +72,7 @@
 
 `1.` What prompts users to check on or take action regarding money they owe to the VA?  
 `2.` How do users expect to be notified or informed about new debts (e.g., copays, overpayments)?  
-`3.` Can users successfully locate the section of the app with information about money owed? 
+`3.` Can users successfully locate the section of the app with information about money owed?  
 `4.` What term most clearly identifies the section they would go to manage money owed?
 
 **Assess how well users understand and interpret their copay and overpayment information.**
