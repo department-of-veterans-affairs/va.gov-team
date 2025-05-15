@@ -281,7 +281,7 @@ Before we move on to this next section, I have some questions about the pages yo
   
 - How did you feel while completing this form? Were there any moments where you felt frustrated or overwhelmed? If so, why?
 
--   Do you feel confident about what actions you need to take next?
+-   How confident do you feel confident about what actions you need to take next?
   
 -   Did you know this option to resolve your debt existed?
   
