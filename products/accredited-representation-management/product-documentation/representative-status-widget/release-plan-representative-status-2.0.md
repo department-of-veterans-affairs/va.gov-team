@@ -10,7 +10,7 @@ This feature toggle is setup for authenticated users and we can also enable earl
 - [ ] All "Before release" items have been addressed
 - [x] Analytics request is submitted, for Domo dashboard updates - https://github.com/department-of-veterans-affairs/va.gov-team/issues/107490
 - [ ] Monitoring in the [Profile Datadog dashboard](https://vagov.ddog-gov.com/dashboard/86m-u8e-z5x/authenticated-experience-profile?fromUser=false&refresh_mode=sliding&from_ts=1746734846272&to_ts=1747339646272&live=true) is setup
-- [ ] Contact Center Review is submitted 
+- [x] Contact Center Review is submitted - http://github.com/department-of-veterans-affairs/va.gov-team/issues/109902
 - [ ] Privacy, Security, IA Readiness Review is complete
 
 #### Go/No Go Meeting Thursday, 5/22 1:00pm ET
