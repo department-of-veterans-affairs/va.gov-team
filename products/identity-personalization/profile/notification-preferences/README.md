@@ -60,8 +60,6 @@ Notification Group | Item | Description | Notes | Channel | In Production
 -- | -- | -- | -- | :-: | :-:
 Your health care | Appointment reminders |   |   | Text | Yes
 Your health care | Appointment reminders |   |   | Email | Yes
-Your health care | Appointment reminders with PHI/PII |   |   | Text | No
-Your health care | Appointment reminders with PHI/PII|   |   | Email | No
 Your health care | Prescription shipment and tracking updates |   | This is available only with specific facilities | Text | Yes
 Your health care | Prescription shipment and tracking updates |   | This is available only with specific facilities | Email | Yes
 Your health care | Medical images and reports |   | MHV Migration Item | Email | Yes
