@@ -8,8 +8,8 @@ This feature toggle is setup for authenticated users and we can also enable earl
 #### Preparing for Release
 - [ ] All "launch blocking" items from Staging Review have been addressed
 - [ ] All "Before release" items have been addressed
-- [ ] Analytics request is submitted, for Domo dashboard updates
-- [x] Monitoring in Datadog is setup, for Profile
+- [x] Analytics request is submitted, for Domo dashboard updates - https://github.com/department-of-veterans-affairs/va.gov-team/issues/107490
+- [ ] Monitoring in Datadog is setup, for Profile
 - [ ] Contact Center Review is submitted 
 - [ ] Privacy, Security, IA Readiness Review is complete
 
