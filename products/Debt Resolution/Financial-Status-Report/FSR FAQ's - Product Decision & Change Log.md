@@ -1,10 +1,10 @@
-# FSR Product Decision & Change Log 
+# FSR FAQ's - Product Decision & Change Log 
 ***Tracking decisions, changes, and considerations as they relate to the debt products on va.gov***
 
 
 
 
-### FSR Product Decision & Change Log 
+### FSR FAQ's - Product Decision & Change Log 
 
 | Date | Source (Who?) | Decision/ Production Code Change |Details |
 | ---- | ---- | ---- |---- |
@@ -20,3 +20,10 @@ The following were considered but rejected.
 | Content area | Rationale |
 | ------- | -------- |
 | TBD| TBD |
+
+### FSR FAQ's
+
+- **Question**
+  - Answer
+- **Question**
+  - Answer
