@@ -61,7 +61,7 @@ Next, I want to explain my role better.
 
   
 
-I am a consultant for the VA and my role is to talk to Veterans like you to understand the challenges you face in the space of VA medical copay billing. I am gathering information to help improve the experience of managing or resolving your VA copay bills.
+I am a consultant for the VA and my role is to talk to Veterans like you to understand the challenges you face in the space of VA overpayment debt. I am gathering information to help improve the experience of addressing or resolving your VA overpayment debt. 
 
   
 
