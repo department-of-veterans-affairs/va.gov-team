@@ -20,7 +20,7 @@ My VA aggregates information from across VA.gov. While our team pulls info from 
 
 1. Review all documentation on this page, and any relevant [implementation documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/team/intake.md#common-integration-documentation).
 2. [Complete an intake ticket.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=auth-exp-request.yml)
-3. Reach out to team on the #accountexp-authexp Slack channel for next steps.
+3. Reach out to team on the #accountexp-authexp Slack channel for next steps. The team typically responds within 24 - 72 hours.
 
 *Note: Ideally this step should occur before Design Intent but should not occur after Midpoint Review. This allows the Authenticated Experience team time to provide support and knowledge to help reduce deployment timelines.*
 
