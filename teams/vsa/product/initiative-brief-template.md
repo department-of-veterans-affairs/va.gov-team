@@ -3,7 +3,7 @@
 
 <details>
  
- *There is roughly a 1:many relationship between products and initiatives, or our attempts to improve a product/achieve Veteran outcomes. The same goes for product outlines and initiative briefs. This template can be used as product documentation for the Collaboration Cycle, especially when iterating an existing product. In addition, the Brief is an important communication tool within a team and between the team and Crew Chief/PO/other teams.* 
+Veterans often encounter barriers when attempting to correct personal information (e.g., name, gender, service dates) due to fragmented data ownership between the Department of Veterans Affairs (VA) and the Department of Defense (DoD). This repository outlines the work to improve the Veteran and staff experience by clarifying data ownership, documenting update workflows, and providing standardized communication and escalation tools.
  
 </details>
 
