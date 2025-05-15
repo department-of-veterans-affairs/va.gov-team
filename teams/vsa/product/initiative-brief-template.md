@@ -31,10 +31,15 @@ Veterans often encounter barriers when attempting to correct personal informatio
 - Product | Link to product outline 
 
 ## Problem
-> *Describe the challenge / pain point you seek to address.:* 
-* What is the problem and who is affected? And, what evidence do we have of the problem?
-* Why do you think the problem is occurring? Other reasons why this might be occurring?
-* How does this initiative help further OCTO-DE's mission and goals?
+> Veterans and VA staff lack clear direction on:
+
+* Who owns Veteran data (VA or DoD)
+
+* Where Veteran data is stored
+
+* How to initiate corrections based on data ownership
+
+ *This results in frustration, delays, and inconsistent outcomes.
 
 <!--
 ## Desired User Outcomes
