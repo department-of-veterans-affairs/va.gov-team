@@ -71,8 +71,8 @@ Our primary diversity and inclusion criteria:
 ## Key Findings
 
 1. **The burden of being a caregiver is heavy.**
-  **Insight**: Caregivers who work with their loved ones seemed overwhelmed.  Some are able to find support, but others are really struggling.  
-  * **Key Quote:** "When you have a significant other, there's a lot of things they do. The frustrating part for me was trying to help her take care of the little things.  She had so many tasks I needed to help with it was like "where's my time?" **\- *P4***
+* **Insight:** Caregivers who work with their loved ones seemed overwhelmed.  Some are able to find support, but others are really struggling.  
+    * **Key Quote**: "When you have a significant other, there's a lot of things they do. The frustrating part for me was trying to help her take care of the little things.  She had so many tasks I needed to help with it was like "where's my time?" **\- *P4***
 
 2. **Caregiver designation doesn’t equal authorization and/or access.**
 
@@ -84,9 +84,9 @@ Our primary diversity and inclusion criteria:
       * Some caregivers reported that community support groups were more helpful than the caregiver support programs.
       
 3. **Caregivers are adept at working around the system to get things done.**
-  * **Insight:** Caregivers are able to act on Veteran's behalf thru the phone, in-person & online.  
+  * **Insight:** Caregivers are able to act on Veteran's behalf thru the phone, in-person & online.
+  * * **Insight:** Caregivers who used a Veterans' credentials did not seem concerned with security.
   * **Insight from stakeholder call – not officially sanctioned, but many workarounds are tolerated by staff based on familiarity and need.*  
-  * **Insight:** Caregivers who used a Veterans' credentials did not seem concerned with security.
 
 4. **VA systems are fragmented and hard to navigate.**
 
@@ -94,6 +94,7 @@ Our primary diversity and inclusion criteria:
   * **Insight:** Many caregivers expressed that they had difficulty navigating the VA.  
     * **Key Quote**: "A civilian trying to navigate a military world and lingo has been a learning curve." **\- *P6***  
   * **Insight:** Documentation and resources were hard to find on va.gov.
+    * **Key Quote**: ""I think sometimes technology hurts with that [tech silos and bridging gaps]." **\- *P7*** 
   * **Insight:** Since the VBA and VHA are separate entities, caregivers were frustrated with having to navigate both systems separately which felt redundant and unecessary.
   * **Insight from stakeholder call – even when caregivers complete authorization forms, they’re not consistently recognized across services.*
 
@@ -109,7 +110,7 @@ Our primary diversity and inclusion criteria:
 
 Labels: `Accessibility`, `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: Smartphone`, `PRDT: Login`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`
 
-- Related to: Hypothesis 2, Hypothesis 3, Question 2
+Related to: Hypothesis 2, Hypothesis 3, Question 2
 
 Of the caregivers we spoke to, many reported feeling overwhelmed by the sheer amount of responsibility need to care for their loved ones (within the VA and external to the VA ecosystem).  Some caregivers reported that they had little to no time for self-care, but they were more than willing to do what it took to support the Veteran they were caring for.
 
@@ -118,9 +119,9 @@ Of the caregivers we spoke to, many reported feeling overwhelmed by the sheer am
 
 **2. Caregiver designation does not equal authorization and/or access.**
 
-Labels: `Accessibility`, `AUD: Veterans`, `DSC: Accordions`, `HDW: Desktop`, `HDW: Laptop`, `HDW: Smartphone`, `PRDT: Content`, `PRDT: Login`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`, `RESRCH: Usability`
+Labels: `Accessibility`, `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: Smartphone`, `PRDT: Content`, `PRDT: Login`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`, `RESRCH: Usability`
 
-- Related to: Hypothesis 2, Question 3
+Related to: Hypothesis 2, Question 3
 
 POA's and consent forms were what caregivers used to interact with VA staff to speak or complete actions on behalf of Veterans.
 However, caregivers reported having to re-submit or carry around POA’s or consent forms multiple times.
@@ -129,6 +130,13 @@ This designation did not give them specific access to information or provide any
 
 >_"I would have thought that when we were approved for the program but we've never been able to do anything on his behalf." - Participant 3_
 
+There are 2 caregiver support programs:
+Program of General Caregiver Support Services (PGCSS) - provides peer  support mentoring, skills training, coaching,  telephone support, online programs, and referrals to available resources to caregivers of Veterans
+Program of Comprehensive Assistance for Family Caregivers (PCAFC) - offers enhanced clinical support and services for caregivers of eligible Veterans who have a serious injury (or illness) and require in-person personal care services among other requirements.
+Has additional benefits like CHAMPVA, monthly stipends and beneficiary travel
+Many conflated PCAFC with official caregiver status and were frustrated they couldn’t do “anything”.
+A few Veterans report that community support groups have helped them find information.
+
 >_"“There are support meetings and in-person sessions (like an open house) where you can meet people who provide resources.” - Participant 4_
 
 
@@ -136,8 +144,15 @@ This designation did not give them specific access to information or provide any
 
 Labels: `Accessibility`, `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: Smartphone`, `PRDT: Content`, `PRDT: Login`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`
 
-- Related to: Hypothesis 2
-
+Related to: Hypothesis 2
+- We intentionally spoke with caregivers who used digital, telephonic or in-person mechanisms to support their Veterans
+- Some caregivers prefer using the phone because:
+  - They are familiar with utilizing the phone. 
+  - One Veteran reported that she called in at 8AM if she needed do get something accomplished so she wouldn’t have to wait in a long queue.
+  - Another Veteran reported that they didn’t trust websites
+- If caregivers went online, they often used their ward’s accounts
+  - If they had their own MyHealtheVet accounts, they were not able to do anything on behalf of the Veteran in their care.
+  - Privacy and security were not at the forefront of caregivers’ minds when they were attempting to complete actions.
 
 >_"Social worker learned a lot from me." - Participant 5_
 
@@ -146,17 +161,15 @@ Labels: `Accessibility`, `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: S
 
 Labels: `Accessibility`, `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: Smartphone`, `PRDT: Content`, `PRDT: Login`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`, `RESRCH: Usability`
 
-- Related to: Hypothesis 1, Hypothesis 3
+Related to: Hypothesis 1, Hypothesis 3
 
-Some caregivers prefer using the phone because:
-They are familiar with utilizing the phone. 
-One Veteran reported that she called in at 8AM if she needed do get something accomplished so she wouldn’t have to wait in a long queue.
-Another Veteran reported that they didn’t trust websites.
+- Gaining a disability rating is difficult and time consuming (most emotionally and mentally draining part of the process.
+  - Once a Veteran gets a rating, managing benefits is mostly maintenance
+- Different staff have different understanding/level of ability to assist Veterans and their caretakers
 
-If caregivers went online, they often used their ward’s accounts
-If they had their own MyHealtheVet accounts, they were not able to do anything on behalf of the Veteran in their care.
-Secure messaging and prescriptions were the most used.
-Only 1 caregiver mentioned being able to check on the status of their "application" online.
+- Many caregivers expressed frustration at not being able to navigate the VA healthcare system.
+  - Until interfacing directly with a VA doctor many Veterans don't know they're eligible for  certain equipment, benefits, etc.
+- Website isn’t always forthcoming or easy to find the information a caregiver might need at any given time.
 
 >_“You don't know what you don't know.” - Participant 7_
 
@@ -167,16 +180,16 @@ Only 1 caregiver mentioned being able to check on the status of their "applicati
 
 **5. There are some bright spots with VA interactions.**
 
-Labels: `Accessibility`, `AUD: Veterans`, `DSC: Accordions`, `HDW: Desktop`, `HDW: Laptop`, `HDW: Smartphone`, `PRDT: Content`, `PRDT: Login`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`, `RESRCH: Usability`
+Labels: `Accessibility`, `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: Smartphone`, `PRDT: Content`, `PRDT: Login`, `RESRCH: Evaluative`, `RESRCH: Interviews`, `RESRCH: Remote`, `RESRCH: Usability`
 
-- Related to: Hypothesis 1, Question 1, Question 2, Question 3, Question 4
+Related to: Hypothesis 1, Question 1, Question 2, Question 3, Question 4
 
-Obtaining prescription refills on the phone and online is straightforward and simple.
-The process for getting medical devices is quick and easy.
+- Obtaining prescription refills on the phone and online is straightforward and simple.
+- The process for getting medical devices is quick and easy.
 
-Very happy with medical care - prompt and straightforward getting wheelchair, ramp, chair glide.
+- Very happy with medical care - prompt and straightforward getting wheelchair, ramp, chair glide.
 
-Doctors and support staff at the VA are helpful with getting Veterans information and documentation they need.
+- Doctors and support staff at the VA are helpful with getting Veterans information and documentation they need.
 >_""I feel like [the VIST coordinator] saved [my husband's] life."" - Participant 2_
 
 
