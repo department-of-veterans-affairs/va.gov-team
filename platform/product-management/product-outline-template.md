@@ -166,10 +166,13 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 <details>
  
- - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
+ - DEPO Lead: Chante Lantos-Swett
+ - PM: Anita Middlton
+ - Customer Support: Kimberley Monroe-Daniels
+ - Engineering: Aubrey Arcangel
+ - Research/Design: Camille Green
+ - Technical Writer: Steven Tarlow
+ - Data Analytics - Sarifa Khalilullah
  
 </details>
 
@@ -177,8 +180,13 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 #### Stakeholders
 
 <details>
- 
-_| Group                     | Role                                                  |
+ VA Veteran Support Services
+VA Data Management Teams
+DoD/DMDC Representatives
+Tier 3 Support Teams
+Veterans
+
+ _| Group                     | Role                                                  |
 | ------------------------- | ----------------------------------------------------- |
 | VA Veteran Support Teams  | Frontline support for Veterans                        |
 | VA Data Management        | Policy and data ownership validation                  |
