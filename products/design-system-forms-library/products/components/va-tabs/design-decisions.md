@@ -24,6 +24,8 @@ These definitions are based on the original submissions and informed by terminol
 - **Unselected Tab:** A tab that is not currently active.
 - **Divider:** A horizontal line running beneath the tabs, typically full-width, that visually separates the tab row from the content below.
 - **Dropdown Button:** A button within the tab row that triggers the display of additional tab items not shown in the primary row.
+- **Open:** When the dropdown is open.
+- **Closed:** When the dropdown is closed.
 - **Popover:** A floating panel that appears when the dropdown button is activated, containing overflow tab items.
 - **Tab Count:** The number displayed on the dropdown button indicating how many additional tab items are hidden in the popover.
 
