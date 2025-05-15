@@ -134,7 +134,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 | QP4 | CSAT / Medallia Work  | [#102194](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102194) | In Progress |  Collaborating with Contact Center Team |   N/A |Completed|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
- - [X] VA PO approved end of quarter status of Quarterly Goals (0x/xx/25)
+ - [X] VA PO approved end of quarter status of Quarterly Goals (05/15/25)
 
 ## Sprint Goals - Sprint: 1 [1/24/25 - 2/11/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
