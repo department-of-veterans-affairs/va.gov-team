@@ -52,3 +52,5 @@ From our Pension and Fiduciary Service SME, Jennifer Feuer:
 My recommendation is to add a bullet: "Their income status"
 
 _Note: if that question will only apply to certain cases, we can explain that there._
+
+2. We should also inform the user of the process changes that occurs _and why_ if they answer "Yes" 
