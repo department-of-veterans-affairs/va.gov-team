@@ -14,7 +14,7 @@
 - **Kristen/Christine/Fran** - Talk more about document uploads
 - Consider trauma informed considerations in contacting previous spouses
 - They also ask for their Military Service Number - aside from SSN and Spouse's VA file number. Part of the bank; not conditional?
-- The form names should be modifiable to accommodate types of forms.
+- The upload page name should be modifiable to accommodate types of forms.
 
 ## Agenda: 
 The Authenticated Experience Design Patterns team (#tmf-auth-exp-design-patterns) is building a new pattern to collect information on a user's marital status and information about their spouse. We see that Form 686c has a few questions about an applicant's marital status. We'd love to show you the pattern that we're designing, see if you have any questions or feedback, and discuss if/how your form might adopt the pattern down the line. 
@@ -55,7 +55,7 @@ Paused for questions:
 
 - **Kristen**: Some forms do want to see uploads.
   - **Fiorella**: Just some documentation; not necessarily divorce or marriage documentation.
-  - **Kristen**: The form names should be modifiable to accommodate types of forms.
+  - **Kristen**: upload page name should be modifiable to accommodate different types of forms.
 
 - **Gretchen**: This is very interesting to me, that on the next screen it will ask you to upload the documents. I see forms doing this in a lot of different ways. In pension form we only ask in the end; we give a list based on their answers they need to upload. Is our screen based on research? 
   - **Kristen**: Not based on research. When we audited the forms, we saw they did want uploads, and it was around marriage or divorce documentation. In the cse of the divorce flow, we ask for the divorce documentation. For other forms that need more types of documentation, alerting folks early in the form is good. 
