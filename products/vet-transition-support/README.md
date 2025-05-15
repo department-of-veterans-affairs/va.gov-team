@@ -8,7 +8,11 @@ Transitioning Servicemembers (TSMs) and Recently Separated Veterans (RSVs) are p
 As part of the President's Management Agenda (PMA) and in partnership with VEO and OTED; VA has an opportunity to address the specific needs of TSMs and RSVs. By creating centralized resources and a "front door", we can help navigate benefits for awareness, and make personalized recommendations based on the information we receive. Veteran Transition Support, also known as "Transition Experience" is a product that bridges the gap between DoD and VA for incoming Veterans around core VA benefits (healthcare, disability, education, career planning, housing) and extended benefits from cross agency partners (SBA, DOL, HUD, etc). It can be enriched by connections to various systems and services such as VA.gov personalization, MyVA, Benefit Discovery Service (BDS) and VA Solid Start, as well as any other onboarding programs around Transition.
 
 ### Key Outcome
-The primary goal of Veteran Transition Support is to serve as a hub that can help the discovery of benefits, understand eligibility, and ideally simplify the enrollment process. The main goals are; increasing the utilization of benefits, better awareness of benefits beyond the most well-known (healthcare, disability, home loan) as well as other non-VA benefits (SBA, DoL, etc), creating earlier engagement with active VA from active servicemembers and increasing the proportion of Veterans that engage with VA post-service.
+The primary goal of Veteran Transition Support is to aid in simplifying the enrollment process by acting as a hub for TSMs or RSCs discover their benefits and understand eligibility. The main goals are to 
+- increase the utilization of benefits
+- improve awareness of benefits beyond the most well-known (healthcare, disability, home loan) as well as other non-VA benefits (SBA, DoL, etc)
+- create earlier engagement between VA and active servicemembers
+- increase the proportion of Veterans that engage with VA post-service
 
 While the initial value proposition is aimed at TSMs and RSVs, the Veteran Transition Support product is meant to be useful for anyone engaging with the VA including family members and caregivers, as well as Veterans re-engaging with VA regardless of their time since service.
 
