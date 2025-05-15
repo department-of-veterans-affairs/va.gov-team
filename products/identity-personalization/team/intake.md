@@ -38,6 +38,6 @@ To get started:
 1. Review the implementation documentation linked above that relates to the change you'd like to implement on My VA or Profile.
    - If there is a change that you are attempting to complete but do not see documented let us know.
 2. [Complete the intake ticket.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=auth-exp-request.yml)
-3. Reach out to team on the #accountexp-authexp Slack channel for next steps.
+3. Reach out to team on the #accountexp-authexp Slack channel for next steps. The team typically responds within 24 - 72 hours.
 
 _Note: Ideally submitting an Intake Ticket should occur before Design Intent but should not occur after Midpoint Review. This allows the Authenticated Experience team time to provide support and knowledge to help reduce deployment timelines._
