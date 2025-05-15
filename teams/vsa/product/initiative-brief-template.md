@@ -24,7 +24,7 @@ Veterans often encounter barriers when attempting to correct personal informatio
 ---
 
 ## Outcome Summary
-> *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
+> By defining ownership rules, creating workflows, and providing communication and escalation templates, we will improve the clarity, speed, and consistency of resolving Veteran data correction issues, resulting in fewer complaints, faster resolutions, and greater staff confidence.By defining ownership rules, creating workflows, and providing communication and escalation templates, we will improve the clarity, speed, and consistency of resolving Veteran data correction issues, resulting in fewer complaints, faster resolutions, and greater staff confidence.
 * .
 
 **Related/Associated product(s)**
