@@ -149,6 +149,8 @@ We can help guide you through this if you need help. Please say what you're doin
 
 **(If we can't hear the screen reader)** Since I can't hear your screen reader and don't want to interrupt it, after I ask you to do something, I'll try to not say anything until you say that you're done or need help, OK?
 
+[Avoid AI Companion, which is a new option next to “Share” in the Zoom buttons]
+
 
 ## Task 00: Open prototype
 Now I'd like you to open a website that I'm going to share with you. 
