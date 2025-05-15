@@ -212,6 +212,10 @@ Prototype Link: (https://zyc78g.csb.app/manage-va-debt)
 -   What questions do you have after reviewing this page, if any?
     
 -   Which option would you say is relevant to your situation?
+
+- What do you understand to be the difference between the 2 sections, 'appeal the VA decision that resulted in this overpayment' and 'appeal a decision on a waiver request'? (added after interview P2)
+
+- What are the different ways you can appeal a decision on a waiver request based on what you see here? (added after interview P2)
     
 -   Can you show me where you might look if you want to see if there is a process to let the VA know that you shouldn’t have this debt? [task: finding dispute section]
     
