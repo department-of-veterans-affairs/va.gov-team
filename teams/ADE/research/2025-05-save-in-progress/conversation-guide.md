@@ -87,6 +87,7 @@ In the bottom toolbar of the Zoom window, click the arrow next to **SHOW CAPTION
 - Great, now I can see your screen! Thank you for your patience in figuring this out.
 
 - iPad: **Broadcast screen**
+- [Avoid **AI Companion**, which is a new option next to “Share” in the Zoom buttons]
 
 
 # Warm-up Questions - 5 minutes
@@ -149,8 +150,7 @@ We can help guide you through this if you need help. Please say what you're doin
 
 **(If we can't hear the screen reader)** Since I can't hear your screen reader and don't want to interrupt it, after I ask you to do something, I'll try to not say anything until you say that you're done or need help, OK?
 
-[Avoid AI Companion, which is a new option next to “Share” in the Zoom buttons]
-
+**(If video window is covering up phone screen)** It looks like my zoom video is covering up a lot of your screen. Could you please swipe it off? (Screen reader: swipe right until the video window has focus, and then double tap when you hear "Stash preview".)
 
 ## Task 00: Open prototype
 Now I'd like you to open a website that I'm going to share with you. 
@@ -183,6 +183,8 @@ Please **talk aloud** about what you're thinking BEFORE clicking on anything. An
 
 ### Watch for:
 - [Notice "You can save this request" light blue alert? Y / N]
+
+**(If can’t see zoomed screen)** Is your screen zoomed in? If so, I can’t see that. Could you please tell me how far across the page you can see? And how far down from the top of the page?
 
 ## Task 2: Fill out form [never reload the page]
 Please fill out this form to request your own military records, but I want you to use fake details so you don't share your personal information with me. 
