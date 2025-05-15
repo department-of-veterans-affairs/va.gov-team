@@ -1,13 +1,36 @@
 # `va-tabs` Design Decisions  
 _Last updated: 2025-05-13_
 
-## Index  
-- [ADR 001: Behavior When Tabs Overflow Off the Screen](#adr-001-behavior-when-tabs-overflow-off-the-screen)  
-- [ADR 002: Tab Style Choices](#adr-002-tab-style-choices)  
+## Index
+- [ADR 001: Tab definitions](#adr-001-tab-definitions)
+- [ADR 002: Behavior When Tabs Overflow Off the Screen](#adr-002-behavior-when-tabs-overflow-off-the-screen)  
+- [ADR 003: Tab Style Choices](#adr-003-tab-style-choices)
 
 ---
 
-## ADR 001: Behavior When Tabs Overflow Off the Screen  
+## ADR 001: Tab Definitions  
+
+### Status: Accepted  
+- **Date Raised:** 2023-12-08  
+- **Decision Date:** 2025-04-15  
+
+### Context
+These definitions are based on the original submissions and informed by terminology used in other design systems. They clarify the structure and elements within a tab component.
+
+### Decision
+- **Tabs:** The entire component consisting of multiple tab items, typically used to navigate between sections of content.
+- **Tab (Horizontal or Vertical Tab):** An individual tab within the tabs component, arranged horizontally or vertically within the popover.
+- **Selected Tab:** The currently active tab, either clicked or navigated to via keyboard.
+- **Unselected Tab:** A tab that is not currently active.
+- **Divider:** A horizontal line running beneath the tabs, typically full-width, that visually separates the tab row from the content below.
+- **Dropdown Button:** A button within the tab row that triggers the display of additional tab items not shown in the primary row.
+- **Popover:** A floating panel that appears when the dropdown button is activated, containing overflow tab items.
+- **Tab Count:** The number displayed on the dropdown button indicating how many additional tab items are hidden in the popover.
+
+### Consequences
+Clear and consistent naming reduces future design debt. Establishing terminology early helps streamline communication and decision-making across design and development teams.
+
+## ADR 002: Behavior When Tabs Overflow Off the Screen  
 
 ### Status: Accepted  
 - **Date Raised:** 2023-12-08  
@@ -34,9 +57,11 @@ Prototypes were created for each approach:
   - While research indicates dropdowns may limit discoverability, the team believes the specific use case here mitigates that risk.  
   - Reference: [MHV on VA.gov secondary navigation comparison research - Topline Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/va-tabs/design-decisions.md)
 
-- **Dropdown Name:** The dropdown will be labeled **"More"**.  
+- **Dropdown Text:** The dropdown will be labeled **"More"**.  
   - Alternatives like "Menu" were considered, but a design system audit showed "More" is more common.  
   - [Design audit of tabs and dropdown components](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1745526301433/147ef4e2490afbb999981a3cd80452f3a4871e4f?wid=0-1745614150592)
+ 
+- **Dropdown button:** The dropdown button will use a ghost version the [VADS button with a trailing icon](https://design.va.gov/components/button/#continue) that will toggle directions when clicked. Similar to the [Additional Info](https://design.va.gov/components/additional-info#default) VADS component.  
 
 - **Dropdown Count:** A numeric count will be added to the "More" button to show how many tabs are hidden (e.g., "More (3)").  
   - This helps users understand that additional tabs exist.  
@@ -49,7 +74,9 @@ Prototypes were created for each approach:
   - Reference: [Design system guidance: Links vs. Buttons](https://design.va.gov/components/link/#links-vs-buttons)
 
 - **Flex layout:** The tabs layout will switch from a left aligned margin layout to a flex layout when dropdown is used**
-  - The dropdown is only used when there is limited space on the screen. When there is more space on the screen we have room to spread the tabs out so they have more space between the tabs. When the dropdown is used we know that space is limited so we can use the flex layout to show more tabs on screen when there is less space. 
+  - The dropdown is only used when there is limited space on the screen. When there is more space on the screen we have room to spread the tabs out so they have more space between the tabs. When the dropdown is used we know that space is limited so we can use the flex layout to show more tabs on screen when there is less space.
+ 
+- **Minimum dropdown tab count:** The dropdown should only be used if there are more than two overflow tabs. Avoid using a dropdown to replace a single tab.
 
 ### Consequences  
 - This solution has not yet been tested with users.  
@@ -57,7 +84,7 @@ Prototypes were created for each approach:
 
 ---
 
-## ADR 002: Tab Style Choices  
+## ADR 003: Tab Style Choices  
 
 ### Status: Accepted  
 - **Date Raised:** 2023-12-08  
@@ -77,41 +104,52 @@ Tabs with similar overflow interactions were also reviewed from other design sys
 
 ### Decision  
 
-#### Tab Styles  
+### Tabs component 
 
-1. **Underline:** No underline. Tabs are treated as navigation elements like side nav or main menu.  
-2. **Padding:** 8px horizontal, 16px vertical (minimum 44px height and width).  
-3. **Margin Between Tabs:** 24px of space when a dropdown isn't used. If the dropdown is used, the layout changes to a flex layout with space-between.  
-4. **Inactive State:** Gray line that spans all tabs in the same outline color as [cards](https://design.va.gov/components/card#with-drop-shadow); VA link color text; normal font weight.  
-5. **Hover State:** Same gray background and hover style as VA side nav and [VA links](https://design.va.gov/components/link/#default).  
-6. **Active State:** 4px underline in the VA primary color, bold text, base text color.  
-7. **Focus State:** Matches standard VA focus state for buttons and links.  
-8. **Max Width:** 128px (ensures two tabs fit on 320px screens).  
-9. **Min Width:** 44px (meets accessibility standards).  
-10. **Text Overflow:** Wraps to two lines if necessary.  
-11. **Line Height:** Matches line height used in buttons.
+1. **Divider:** Gray line that spans all tabs in the same outline color as [cards](https://design.va.gov/components/card#with-drop-shadow)
+2. **Space Between Tabs:** 24px of space when a dropdown isn't used. If the dropdown is used, the layout changes to a flex layout with space-between.
+3. **Indention:** The tabs component should have no left, right, or top and bottom margin, remaining flush with the edges of the page container.
 
-#### “More” Dropdown Button  
+#### General Tab Styles
 
-1. **Icon:** Uses the down chevron icon, consistent with expandable alerts.  
-2. **Text:** Uses the word **"More"** (based on audit findings).  
-3. **Hover/Active/Focus States:** *TBD*  
-4. **Dropdown Count:** Numeric count shown in parentheses (e.g., "More (3)"). Badge design was considered but deferred for MVP.
+1. **Unselected Tab:** No underline. Tabs are treated as navigation elements like side nav or main menu. The VA primary link color will be used with a normal font weight.
+2. **Hover State:** Same gray background and hover style as VA side nav and [VA links](https://design.va.gov/components/link/#default).
+3. **Selected Tab:** 4px border on bottom for horizontal tabs and on the left side for vertical tabs in the VA primary color. The text styles will be bold text in the base text color.
+4. **Focus State:** Matches standard VA focus state for buttons and links.  
+5. **Text Overflow:** Wraps to two lines if necessary.  
+6. **Line Height:** Matches line height used in buttons.
 
-#### Dropdown Popover  
+#### Tabs - Horizontal Styles
+
+1. **Padding:** 8px horizontal, 16px vertical (minimum 44px height and width).
+2. **Max Width:** 144px (ensures two tabs fit on 320px screens).  
+3. **Min Width:** 64px (meets accessibility standards and optimal size for touch targets). 
+
+#### Tabs - Vertical Styles
+
+1. **Spacing:** 16px padding on all sides.  
+2. **Divider:** No divider is used between the tabs within the popover.  
+3. **Text Overflow:** Wraps to two lines if needed.
+4. **Max Width:** 288px (minimum width of VADS components).  
+3. **Min Width:** 128px (width of dropdown button).
+
+#### Dropdown Button  
+
+1. **Icon:** Uses the `expand_less/expand_more` icons from the [VADS](https://design.va.gov/components/icon), consistent with expandable alerts.
+2. **Spacing:** Uses the VADS button to match spacing and design.
+3. **Text:** Uses the word **"More"** (based on audit findings).  
+4. **Hover/Active/Focus States:** Use the same states as the tabs.  
+5. **Dropdown Count:** Numeric count shown in parentheses (e.g., "More (3)"). Badge design was considered but deferred for MVP.
+6. **Width:** The width is set to 128px since the text within the button is fixed. This will allow us to figure out how many tabs can fit at different screen sizes. 
+
+#### Popover  
 
 1. **Padding:** 8px (top and bottom).  
-2. **Margin:** 4px (top).  
+2. **Margin:** 0px (top).  
 3. **Border Radius:** 8px on all corners.  
-4. **Border & Shadow:** Matches card component styles.  
+4. **Border & Shadow:** Matches [card component](https://design.va.gov/components/card#with-drop-shadow) styles.  
 5. **Max Width:** 288px (standard VA minimum component width).
-
-#### Dropdown Options  
-
-1. **States:** Mirror tab states, with a 4px **left border** (instead of bottom underline) for active/focused options.  
-2. **Spacing:** 16px padding on all sides.  
-3. **Divider:** Light gray border between options.  
-4. **Text Overflow:** Wraps to two lines if needed.
+6. **Min Width:** 128px (The max width of the dropdown button. This will ensure the component feels connected to the button and the popover isn't smaller than the button.)  
 
 ### Consequences  
-The tab component has many interactive and visual elements. This decision document outlines the rationale behind each choice. However, given the complexity, inconsistencies or unforeseen use cases may arise, and the design may need future refinement.
+The tab component has many interactive and visual elements. This decision document outlines the rationale behind each choice. However, given the complexity, inconsistencies or unforeseen use cases may arise, and the design may need future refinement to remain consistent with future design system components.
