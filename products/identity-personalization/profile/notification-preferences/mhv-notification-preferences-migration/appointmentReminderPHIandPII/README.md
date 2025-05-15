@@ -1,6 +1,8 @@
 # Initiative Brief - Permission to Include PHI and PII in Appointment Reminders
 
-**Last Update:** 4/16/25 - new slack channel added
+**Last Update:** 5/15/25 - new slack channel added
+
+It was determined on 5/15/2025 this is no longer needed. The privacy office determined that PHI/PII is required in the appointment reminder for them to be meaningful and there will not be an option to have an alert w/o phi/pii.
 
 - **Product:** VA.gov Profile | Notification Settings
 - **Initiative:** Support the MHV to VA.gov Migration by displaying the PHI/PII Appointment Reminder Permission 
