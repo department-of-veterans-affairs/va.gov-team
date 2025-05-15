@@ -26,7 +26,7 @@ This feature toggle is setup for authenticated users and we can also enable earl
 - Limited production access to the v2 features of Appoint a Representative will be controlled through the frontend feature toggle `representative_status_enable_v2_features`
 - Errors will be tracked in Datadog and will trigger a Slack alert to our team channel #benefits-representation-management-notifications, to initiate our rollback process (detailed below)
 
-#### Rollout dates: TBD
+#### Rollout dates: May 22 - June 2, 2025
 _The Profile page typically has ~130k users per week, but it can climb up to ~150k users per week._
 1. Stage A: 5% of users - Thursday, 5/22
 2. Stage B: 25% of users - Tuesday, 5/27
