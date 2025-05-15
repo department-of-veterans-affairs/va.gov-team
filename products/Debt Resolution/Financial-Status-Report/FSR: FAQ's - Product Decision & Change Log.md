@@ -21,6 +21,8 @@ The following were considered but rejected.
 | ------- | -------- | -------- | -------- |
 | TBD| TBD | TBD | TBD |
 
+---
+
 ### FAQ's
 
 - **Question**
