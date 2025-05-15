@@ -2,6 +2,104 @@
 
 _Please note: Google Analytics Data is on a 48-hour delay (e.g. data for 1/13 will not be complete until 1/15)_ 
 
+###  Tuesday 5/6/25 - Monday 5/12/25 - 100%
+
+#### Medallia feedback 
+30 responses, 26 using the VFS Questionnaire and 4 using the MHV Form.  
+
+Task completion:
+
+<table>
+  <tr>
+   <td>Were you able to do your task today? 
+   </td>
+   <td>Responses (N = 30)
+     </td>
+    <td>%</td>
+  </tr>
+  <tr>
+   <td>Yes
+   </td>
+   <td>25
+     </td>
+    <td> 83
+  </tr>
+  <tr>
+   <td>No
+   </td>
+    <td> 23
+   <td>4
+   </td>
+  </tr>
+  <tr>
+   <td>No response to question
+   </td>
+   </td>
+   <td>1
+     </td>
+    <td> 3
+   </td>
+  </tr>
+</table>
+
+CSAT (including VFS Questionnaire): 
+
+<table>
+  <tr>
+   <td>What is your overall satisfaction with this site? (rating)
+   </td>
+   <td>Responses (N = 30)
+   </td>
+    <td>%</td>
+  </tr>
+  <tr>
+   <td> Top 2 Box (4 - 5)
+   </td>
+   <td> 22
+   </td>
+    <td> 73
+   </td>
+  </tr>
+  <tr>
+   <td> Bottom 3 Box (1 - 3)
+   </td>
+   <td> 7
+   </td>
+    <td>23</td>
+  </tr>
+  <tr>
+   <td> No response 
+   </td>
+   <td> 1
+   </td>
+    <td>3</td>
+   </table>
+  
+Qualitative feedback:
+
+*Task trying to complete:*
+
+“File a mileage reimbursement claim."
+
+
+*Experience:*
+
+“Milage reimbursement  Note: ty for the expedited, just milage claim process, but could you please add a start another milage claim button after the submit process, its a pain in the Butt to navigate back to that main page. Ty."
+
+"A little archaic, but it works."
+
+"Not satisfied, as I used to be able to get all of my notes for a specified period of time.  Now I have to click on each one, which is frustrating, as I now have to check multiple windows, when I used to be able to download 3-6 months worth of data into one pdf file."
+
+"To get in it takes forever to get on site it sucks"
+
+"Please provide a "verification" that travel pay has been confirmed. PLEASE!!!"
+
+"This has my wrong address.  I tried updating but it doesn't let me."
+
+
+
+
+
 
 ### Thursday 5/1/25 - Monday 5/5/25 - 100%
 
