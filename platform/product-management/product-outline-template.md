@@ -9,21 +9,14 @@
 
 ## Problem Statement
 *Veterans face inconsistent and unclear experiences when trying to correct personal data (name, gender, service dates, etc.) due to split data ownership between VA and DoD. The current lack of clarity on:
-
-Who owns the data (VA or DoD)
-
-Where the data resides
-
-How Veterans or VA staff should initiate updates or escalations
-
-results in delays, frustration, and unresolved issues. Both Veterans and VA staff need a reliable system of processes, communication materials, and escalation pathways.(https://www.atlassian.com/team-playbook/plays/problem-framing)*
+- Who owns the data (VA or DoD)
+- Where the data resides
+- How Veterans or VA staff should initiate updates or escalations results in delays, frustration, and unresolved issues. Both Veterans and VA staff need a reliable system of processes, communication materials, and escalation pathways.(https://www.atlassian.com/team-playbook/plays/problem-framing)*
 
 
 ## Desired User Outcomes
 
-- We believe that by documenting data ownership rules, defining update execution workflows, and providing standardized veteran communication and staff escalation templates,
-we will improve the clarity, speed, and consistency of resolving veteran data correction requests, resulting in reduced veteran frustration, fewer misdirected inquiries, and faster resolution times,
-as measured by decreased complaint volumes, increased first-contact resolution rates, and improved staff confidence in handling data update issues.
+- We believe that by documenting data ownership rules, defining update execution workflows, and providing standardized veteran communication and staff escalation templates, we will improve the clarity, speed, and consistency of resolving veteran data correction requests, resulting in reduced veteran frustration, fewer misdirected inquiries, and faster resolution times, as measured by decreased complaint volumes, increased first-contact resolution rates, and improved staff confidence in handling data update issues.
 
 ## Undesired User Outcomes
 
@@ -47,22 +40,18 @@ All relevant VA teams are fully trained and equipped with updated tools, templat
 
 - Data Integrity Across VA and DoD Systems
 Fewer data inconsistencies through proactive corrections and validated update processes.
+
 ## Undesired Business Outcomes
 - Continued Veteran Confusion
 Veterans remain unsure of who owns their data or how to correct it, resulting in frustration and mistrust.
-
 - Inconsistent Staff Guidance
 VA staff provide conflicting, incomplete, or inaccurate instructions, leading to escalations and rework.
-
 - Unresolved or Delayed Data Corrections
 Issues are stalled or misrouted, increasing resolution times and harming Veteran experience.
-
 - Staff Reliance on Workarounds
 Teams bypass the standardized process, leading to inconsistent outcomes and loss of accountability.
-
 - Increased Complaints or Escalations
 Veterans escalate issues to leadership, the White House hotline, or external advocacy groups due to poor experiences.
-
 - Breakdown in VA-DoD Collaboration
 Failure to validate ownership rules or establish effective workflows results in operational friction and delays.
 
@@ -91,10 +80,19 @@ Improved resolution time for data correction requests.
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
 
 - Objective:
-  - Key result: 
-  - Key result: 
-
-
+  - Map Data Ownership Rules
+  - Confirm rules based on service era (pre/post-1980).
+  - Document where data is stored (VA systems vs DoD systems).
+  - Define Update Execution Workflows
+  - Develop clear, repeatable processes for executing data updates for both VA and DoD records.
+  - Include escalation pathways to Tier 3 support when direct resolution is not possible.
+  - Veteran Communication Templates
+  - Create clear, Veteran-friendly templates that guide them to the correct entity (VA or DoD) based on their service era.
+  - Provide instructions on what documentation is required and how to submit requests.
+  - Internal Staff Escalation Templates
+  - Develop standardized templates for VA staff to escalate complex issues to Tier 3 support teams.
+  - Veteran Notification and Status Updates
+  - Ensure Veterans receive status communications so they understand progress and next steps.
 ---
 
 ## Assumptions
