@@ -33,7 +33,7 @@
 
 When the participant is ready, turn on your camera and begin session with the intro
 
-CHECK SLACK for real-time feedback and questions from observers
+CHECK SLACK for real-time feedback or questions from observers
 
 
 # Intro - 5 minutes
@@ -56,7 +56,7 @@ Today we're going to talk about filling out VA forms online. I'm going to ask yo
 
 Before we start, I want to go over a few things:
 
-- **This entire session should take about 60 (or 90) minutes.** I want to be sure not to keep you longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session may take 60 (or 90) minutes.** I want to be sure not to keep you longer, so I may occasionally prompt you with the next question or topic.
   
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. We're testing a website to learn how we can make it easier to use. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
 - **Your participation in this interview is completely voluntary.** Whether or not you choose to participate will not affect your benefits with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Just let me know.
@@ -175,7 +175,7 @@ Please click the (green) "Continue" button.
 
 I'd like you to take a look at this page, and then use it to get your military records.
 
-Please **talk aloud** about what you're thinking BEFORE clicking on anything. And please share any **thoughts, reactions, and questions** you have about the current web page.
+Please **talk aloud** about what you're thinking BEFORE clicking on anything. And please share any **thoughts, reactions, or questions** you have about the current web page.
 
 [Sign in to start your request > Start your request; *must use enter, not space*]
 
@@ -189,7 +189,7 @@ Please **talk aloud** about what you're thinking BEFORE clicking on anything. An
 ## Task 2: Fill out form [never reload the page]
 Please fill out this form to request your own military records, but I want you to use fake details so you don't share your personal information with me. 
 
-[If p is quiet] Please talk aloud about any thoughts, reactions, and questions you have.
+[If p is quiet] Please talk aloud about any thoughts, reactions, or questions you have.
 
 ### Watch for:
 - [Notice "We'll save your application on every change"? Y / N]
@@ -223,7 +223,7 @@ OK, now let's say that you're back from answering the door. Please resume fillin
 
 - [Can also get to My VA from header link and from Chris dropdown menu]
 
-[If p is quiet] Please talk aloud about any thoughts, reactions, and questions you have.
+[If p is quiet] Please talk aloud about any thoughts, reactions, or questions you have.
 
 ### Watch for:
 - [Anything re saving info entered]
@@ -261,7 +261,7 @@ OK, pretend that you just finished your snack/lunch/dinner. Now you want to get 
 
 - [If needed, tell what to click to go to Unauth (Lemon) / Auth (Apple) / My VA (Mango)]
 
-[If p is quiet] Please talk aloud about any thoughts, reactions, and questions you have.
+[If p is quiet] Please talk aloud about any thoughts, reactions, or questions you have.
 
 ### Watch for:
 - [Anything re saving info entered]
