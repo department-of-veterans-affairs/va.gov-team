@@ -27,8 +27,8 @@ The Authenticated Experience Design Patterns team (#tmf-auth-exp-design-patterns
 ## Meeting Notes
 _Note that notes are not verbatim. Paraphrasing is used._
 
-- **Kristen**: Our team did an audit to see what forms asked about marriage or marital status. We've largely been using form numbers. But I would love to get an audit on this call - what are the form numbers ya'll are working on besides 526c?
-  - 527: whole section on marriage
+- **Kristen**: Our team did an audit to see what forms asked about marriage or marital status. We've largely been using form numbers. But I would love to get an audit on this call - what are the form numbers ya'll are working on besides 686c?
+  - 527 has a whole section on marriage
   - 534 also asks but not digitized yet. On our radar. Survivors pension.
 
 **Kristen**: Priority is digitized forms that could adopt the pattern. Also non-digitized to ensure they can use the pattern when they digitize. We thought to ask perhaps the more complicated questions. One or both forms ask for previous marriages and current-spouses past-marriages. Would love to show how we are envisioning the pattern set up. During the call, we'd love to hear if you think you couldn't bring the pattern on for any reason, or other things we should consider. We also have VADS documentatiuon we're setting up and are happy to share that too.
@@ -47,7 +47,7 @@ Paused for questions:
 
 - **Gretchen**: How you were married on the pension form. A bunch of options. How to map? A combination of the first two on one radio button, and the other radio button is another way. PDF mapping. By common law and tribal ceremony - if we only needed certain items in our paper form do we need to include all of those? 
   - **Kristen**: We are seeing different things on the 527 form and different on others. We adopted the one with the most detailed mapping. Is your question: do you keep all of these and do they map in a dfferent way? Or does your form not include the other three options? 
-  - **Gretchen**: When digitzing the form, maybe we should say the VA needs to decide what we need. Could also map teh questions by common law, by proxy , in a tribal ceremony to "Some other way".
+  - **Gretchen**: When digitzing the form, maybe we should say the VA needs to decide what we need. Could also map the questions by common law, by proxy , in a tribal ceremony to "Some other way".
   - **Fran/Christine:** Yes, that will work.
 
 - **Fiorella**: Here's a [Figma file](https://www.figma.com/design/7W55oNwdVXvXOTI9SaFzQ7/686c-Add-or-Remove-Dependents?node-id=1264-50028&t=Bn1nt5AuxptczMFJ-1) that shows examples.
