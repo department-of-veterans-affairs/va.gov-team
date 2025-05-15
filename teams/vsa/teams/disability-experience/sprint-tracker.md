@@ -94,7 +94,7 @@ _Approvals:_ _(sent via email but approvals tracked here)_
 - [x] ~~VA PO approved the Sprint Goals (04/29/25)~~
 - [x] ~~VA COR approved the Sprint Goals (04/29/25)~~
 - [x] ~~VA PO approved the Sprint Review (05/09/25)~~
-- [ ] VA COR approved the Sprint Review 
+- [x] ~~VA COR approved the Sprint Review (05/15/25)~~
 
 _Delivery + Notes:_
 - [x] ~~All goals have been updated in the sprint chart~~
