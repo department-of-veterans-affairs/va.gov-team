@@ -1,4 +1,4 @@
-# Financial Hardship Suspension for Benefit Overpayment Debts: FAQ's - Product Decision & Change Log 
+# FAQ's - Product Decision & Change Log: Financial Hardship Suspension for Benefit Overpayment Debts
 ***Tracking decisions, changes, and considerations as they relate to the debt products on va.gov***
 
 
