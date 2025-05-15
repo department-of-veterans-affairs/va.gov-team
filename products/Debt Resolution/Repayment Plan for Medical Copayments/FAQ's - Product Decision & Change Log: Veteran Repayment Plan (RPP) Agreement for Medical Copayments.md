@@ -18,6 +18,8 @@ The following were considered but rejected.
 | ------- | -------- | -------- | -------- |
 | TBD| TBD | TBD | TBD |
 
+---
+
 ### FAQ's
 
 - **What form needs to be submitted for a Veteran to enter into a VA Repayment Plan Agreement?**
