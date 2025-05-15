@@ -12,18 +12,26 @@ Related to [Research Plan](https://github.com/department-of-veterans-affairs/va.
 
 ### [OCTO-DE Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md) 
 
+<details>
+<br>
+	
 `Objective 1:  VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.`  
 
 > - **Key Result 1:** Improve satisfaction with our web and mobile products by 5 points.
+</details>
 
 ### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
 
-	
+
+ <details>
+<br>
+	 
 - `Starting Up (Moment: Balancing Finances)`
 - `Taking Care of Myself (Moment: Maintaining my health)`
 - `Putting Down Roots (Moment: Maintaining my financial, social, and emotional health)`
 - `Retiring (Moment: Taking care of my health)`
 - `Aging (Moment that Matters: Managing my declining health)`
+</details>
 
 ## Research Goals 🥅	
 
