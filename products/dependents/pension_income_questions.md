@@ -42,3 +42,13 @@ From our Pension and Fiduciary Service SME, Jennifer Feuer:
 ### Open Questions
 1. Should VA.gov preemptively off-ramp pension-related claims that cannot be processed by RBPS? Or, is RBPS responsible for off-ramping them?
 2. 
+
+### Content Recommendations
+1. Considering that we are listing on a preceding page all information that will be asked, we should include 'income status'. User should be prepared to answer, since income is: 
+- sensitive
+- not usually memorized (time to gather)
+- affect benefits
+
+My recommendation is to add a bullet: "Their income status"
+
+_Note: if that question will only apply to certain cases, we can explain that there._
