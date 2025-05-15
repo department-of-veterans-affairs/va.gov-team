@@ -1,6 +1,6 @@
 # Product outline: Personal information in the VA.gov profile
 
-**Last Updated:** February 15, 2024 (removed Sketch links)
+**Last Updated:** May 15, 2025 (update details about non-nullability of preferred name)
 
 ## Table of Contents
 
@@ -106,6 +106,8 @@ The VA Profile API applies the following rules to the preferred name field:
 | preferredName.NotNull | PRFN100 | Must not be null
 | preferredName.ValidCharacters | PRFN102 | Must only contain alpha, -, acute, grave, diaeresis, circumflex, tilde (case sensitive)
 | preferredName.Size | PRFN103 | Size must be between 1 and 25
+
+[The current API does not allow a user to remove a preferred name once one has been entered](https://dsva.slack.com/archives/C7TE0PFTL/p1747326498200189). 
 
 Examples for each of the allowed accents:
 
