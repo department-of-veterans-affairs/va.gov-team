@@ -9,11 +9,11 @@ This feature toggle is setup for authenticated users and we can also enable earl
 - [ ] All "launch blocking" items from Staging Review have been addressed
 - [ ] All "Before release" items have been addressed
 - [x] Analytics request is submitted, for Domo dashboard updates - https://github.com/department-of-veterans-affairs/va.gov-team/issues/107490
-- [ ] Monitoring in Datadog is setup, for Profile
+- [ ] Monitoring in the [Profile Datadog dashboard](https://vagov.ddog-gov.com/dashboard/86m-u8e-z5x/authenticated-experience-profile?fromUser=false&refresh_mode=sliding&from_ts=1746734846272&to_ts=1747339646272&live=true) is setup
 - [ ] Contact Center Review is submitted 
 - [ ] Privacy, Security, IA Readiness Review is complete
 
-#### Go/No Go Meeting
+#### Go/No Go Meeting Thursday, 5/22 1:00pm ET
 - [ ] Test the 2.0 Profile and MyVA experience in Production
 - [ ] Review the release plan
 - [ ] Address any open questions or concerns 
@@ -28,10 +28,10 @@ This feature toggle is setup for authenticated users and we can also enable earl
 
 #### Rollout dates: TBD
 _The Profile page typically has ~130k users per week, but it can climb up to ~150k users per week._
-1. Stage A: 5% of users
-2. Stage B: 25% of users
-3. Stage C: 50% of users
-4. Stage D: 100% of users + add an entry point to MyVA
+1. Stage A: 5% of users - Thursday, 5/22
+2. Stage B: 25% of users - Tuesday, 5/27
+3. Stage C: 50% of users - Thursday, 5/29
+4. Stage D: 100% of users + add an entry point to MyVA - Monday, 6/2
 
 ***
 
