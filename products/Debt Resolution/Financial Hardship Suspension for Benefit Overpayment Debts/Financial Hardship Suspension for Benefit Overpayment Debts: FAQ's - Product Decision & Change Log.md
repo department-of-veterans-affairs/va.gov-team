@@ -14,9 +14,9 @@
 
 The following were considered but rejected.
 
-| Content area | Rationale |
-| ------- | -------- |
-| TBD| TBD |
+| Date | Source (Who?) | Content area | Rationale |
+| ------- | -------- | -------- | -------- |
+| TBD| TBD | TBD | TBD |
 
 ### FAQ's
 
