@@ -56,7 +56,7 @@ This document outlines the standards and procedures for Frontend Engineering wit
 
 ## Peer Reviews
 - Create Draft PRs prior to marking PRs ready for review
-- Before moving a Pull Request from Draft to Ready
+  - Before moving a Pull Request from Draft to Ready
 - Unit, integration, and E2E tests must be passing
 - Pull Requests must be filled out with a linked issue
 - Provide screenshots when styles (not functionality) changes
