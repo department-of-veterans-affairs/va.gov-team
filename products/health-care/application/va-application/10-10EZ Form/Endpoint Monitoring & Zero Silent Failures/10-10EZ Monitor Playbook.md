@@ -139,6 +139,9 @@ _last updated: 03-17-2025_
 
 - No Action needed, this alert is letting us know that the error rate is back to normal
 
+---
+
+# Monitor: "1010EZ Silent Failure on sending submission failure email [VA Notify callback]"
 ## Slack & Email Alert: "1010EZ Silent Failure on sending submission failure email [VA Notify callback]"
 
 - A 10-10EZ Form submission has failed submission, and the email that is sent to the Veteran has failed sending through VANotify.
