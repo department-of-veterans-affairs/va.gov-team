@@ -18,6 +18,8 @@ _Last updated: 2025-05-13_
 These definitions are based on the original submissions and informed by terminology used in other design systems. They clarify the structure and elements within a tab component.
 
 ### Decision
+
+### Tabs Anatomy
 - **Tabs:** The entire component consisting of multiple tab items, typically used to navigate between sections of content.
 - **Tab (Horizontal or Vertical Tab):** An individual tab within the tabs component, arranged horizontally or vertically within the popover.
 - **Selected Tab:** The currently active tab, either clicked or navigated to via keyboard.
