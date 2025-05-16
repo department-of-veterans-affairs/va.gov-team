@@ -93,7 +93,7 @@ Alerts will typically have a priority rating, from P1 being the most critical to
 - **P1**: Critical - Immediate response (minutes); complete service outage affecting all users; 24/7 continuous work until resolved
 - **P2**: High - Response within 30-60 minutes; major functionality broken affecting many users; business hours plus extended coverage
 - **P3**: Medium - Same-day response during business hours; non-critical functionality affected; expected resolution within 1-2 business days
-- **P4**: Low - Scheduled response during normal business hours; minor issues with minimal user impact; expected resolution within 1-2 weeks
+- **P4**: Low - Scheduled response during normal business hours; minor issues with minimal user impact; expected resolution within 1-2 weeks (current sprint)
 - **P5**: Informational - Backlog response with no specific timeframe; no current impact; preventative or improvement opportunities 
 Our current alerts range from P3-P5 and should be addressed accordingly.
 
@@ -148,6 +148,13 @@ When investigating a traffic anomaly, you should consider the following factors:
 
 6. **Inspecting InProgressForm Data and Using Rails Console**  
    When debugging a submission blocking error, it can be helpful to inspect the user’s `InProgressForm` data. The `InProgressForm` data shows what information the Veteran indicated, and the metadata shows, among other things, error messages the Veteran has experienced. In addition to the user's unique identifier, you will need **ArgoCD** and **vets-api terminal access** in order to do this. See [Script](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/engineering/scripts.md#get-inprogressform-data). As a general rule of thumb, it's good practice to run the Rails console for querying user information with the `--sandbox` flag, e.g. `bundle exec rails console --sandbox` in case any accidental updates are made.
+
+   Here are a few Slack channels here where you can find updates about maintenance windows, software upgrades, CI updates, API outages, etc.:
+   - #vfs-platform-support
+   - #vfs-all-teams
+   - #vfs-backend
+   - #vfs-frontend
+   - #platform-cop-frontend
 
 #### Finding Files in S3
 
