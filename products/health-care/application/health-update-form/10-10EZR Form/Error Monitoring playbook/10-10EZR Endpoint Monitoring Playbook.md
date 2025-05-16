@@ -143,7 +143,7 @@ _last updated: 4/15/2025_
 # TBD - Needs Updating - Monitor: "1010EZR Silent Failure on sending submission failure email [VA Notify callback]"
 ## Slack & Email Alert: "1010EZR Silent Failure on sending submission failure email [VA Notify callback]"
 
-- A 10-10EZr Form submission has failed submission, and the email that is sent to the Veteran has failed sending through VANotify.
+- A 10-10EZR Form submission has failed submission, and the email that is sent to the Veteran has failed sending through VANotify.
 - We should have already seen a `1010EZR submission job has failed with no retries left` failure, and then this monitor would trigger roughly 24 hours later if the email also fails (The email send operation is in a sidekiq job that has 16 retries).
 
 ### Required access
@@ -156,6 +156,7 @@ _last updated: 4/15/2025_
 - SOCKS access to review [Sentry logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
 
 ### Steps - Needs review & revision for EZR (the info below is specific for EZ)
+- CONFIRM [THIS MONITOR](https://vagov.ddog-gov.com/monitors/370871) IS CORRECT, SPECIFICALLY THE FUNCTION IDENTIFIED. IF DIFFERENT, THE [ZSF DASHBOARD](https://vagov.ddog-gov.com/dashboard/w4w-uc4-u6u/10-10-health-apps-zsf?fromUser=false&fullscreen_end_ts=1747407573916&fullscreen_paused=false&fullscreen_refresh_mode=sliding&fullscreen_section=overview&fullscreen_start_ts=1746802773916&fullscreen_widget=8940342090768042&refresh_mode=sliding&from_ts=1746802354974&to_ts=1747407154974&live=true) WILL NEED AN UPDATE
 
 - There should be a corresponding rails log named `Error notification to user failed to deliver` and with metadata containing the notification_id and form id (`{ notification_record_id: notification_record.id, form_number: metadata['form_number'] }`). The form id is `10-10EZ`.
 - Query the database with `VANotify::Notification.find_by(notification_id: notification_id)` to find the failed notification record. The `to` attribute will be the Veteran's email address that we attempted to send the email message to. This email should correspond to a Personal Information Log from roughly 24 hours prior that is created when a 10-10EZ Form fails submission. Use this log to:
