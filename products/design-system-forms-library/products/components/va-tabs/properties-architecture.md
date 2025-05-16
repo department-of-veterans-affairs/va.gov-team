@@ -11,7 +11,7 @@ See [ADR 003](https://github.com/department-of-veterans-affairs/va.gov-team/blob
 | v1          | aria-label      | true        | `string` | -                 | web/mobile   | A unique name for the rendered nav landmark. |
 | v1          | aria-current    | true        | ` 'page'  'step' 'location'  'date'  'time' 'true' 'false'` |  `'page'` |   web/mobile   |  Set aria-current to "page" to indicate that the item represents the current page. Set aria-current to "location" to indicate that the item represents the current location on a page. For more information about aria-current, see [MDN](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Reference/Attributes/aria-current). |
 | v1          | href      | true         |  `string` |    -             |    web/mobile               |   The unique url used for each tab        |   
-| v2         |  overflowBehavior  | true        |  `'stacked'` `'menu'` |  `'menu'`        |  web/mobile | Choose between the overflow behavior for the tabs. A `stacked` option will show all tabs in a single vertical column while the menu option will bundle all the tabs that don't fit into a dropdown. |
+| v2         |  overflowBehavior  | true        |  `'stacked'` `'menu'` |  `'menu'`        |  web/mobile | Choose between the overflow behavior for the tabs. A `'stacked'` option will show all tabs in a single vertical column while the `'menu'` option will bundle all the extra tabs into a dropdown. |
 
 ## Architecture Overview
 
