@@ -7,6 +7,7 @@ title: "[ADE Research - Feedback] - Team Name: Study (Type of accessibility issu
   encountered)"
 labels: ADE Research Feedback, ADE, ADE Research
 assignees: lakper, sara-amanda
+type: bug
 
 ---
 
