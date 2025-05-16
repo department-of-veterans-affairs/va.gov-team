@@ -1,5 +1,5 @@
 # 10-10EZR Endpoint Monitoring Playbook 
-_last updated: 4/15/2025_  
+_last updated: 5/16/2025_  
 
 ## Overview
 
