@@ -24,16 +24,17 @@
 | 21 | [About VA DIC for spouses, dependents, and parents](https://www.va.gov/disability/dependency-indemnity-compensation-esp/) | Spanish | 11/16/23 | 
 | 22 | [GI Bill and other education benefit eligibility](https://www.va.gov/education/eligibility-esp/) | Spanish | 2/14/24 |
 | 23 | [VA Survivors Pension](https://www.va.gov/pension/survivors-pension-esp) | Spanish | 3/6/24 |
-| 24 | [What to bring to create your online sign in account](https://www.va.gov/resources/what-to-bring-to-create-your-online-sign-in-account-esp/) | Spanish | 8/23/24 
-| 25 | [After you apply for an eligibility determination](https://www.va.gov/burials-memorials/pre-need-eligibility/after-you-apply-esp/) (archived)| Spanish | 8/27/24 
-| 26 | [Verifying your identity on VA.gov](https://www.va.gov/resources/verifying-your-identity-on-vagov-esp/) | Spanish | 8/29/24 
-| 27 | [Signing in to VA.gov](https://www.va.gov/resources/signing-in-to-vagov-esp/) | Spanish | 8/29/24 
-| 28 | [Educational and career counseling (VA Chapter 36)](https://www.va.gov/careers-employment/education-and-career-counseling-esp/) | Spanish | 8/31/24 
-| 29 | [Eligibility for burial in a VA national cemetery](https://www.va.gov/burials-memorials/eligibility-esp/) (archived)| Spanish | 8/31/24 
-| 30 | [Pre-need eligibility for burial in a VA cemetery](https://www.va.gov/burials-memorials/pre-need-eligibility-esp/) (archived)| Spanish | 8/31/24 
-| 31 | [VA dental care](https://www.va.gov/health-care/about-va-health-benefits/dental-care-esp) | Spanish | 9/2/24  
-| 32 | [Eligibility for Veteran Readiness and Employment](https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility-esp/) | Spanish | 9/2/24 
-| 33 | [Creating an account for VA.gov](https://www.va.gov/resources/creating-an-account-for-vagov-esp) | Spanish | 9/3/24 
-| 34 | [Disaster help](https://www.va.gov/resources/disaster-help-esp/) | Spanish | 10/10/24
-| 35 | [How to apply for Veteran Readiness and Employment](https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply-esp/)| Spanish | 5/5/25
-| 36 | [Board Appeals](https://www.va.gov/decision-reviews/board-appeal-esp/) | Spanish | 5/14/25
+| 24 | [What to bring to create your online sign in account](https://www.va.gov/resources/what-to-bring-to-create-your-online-sign-in-account-esp/) | Spanish | 8/23/24 |
+| 25 | [After you apply for an eligibility determination](https://www.va.gov/burials-memorials/pre-need-eligibility/after-you-apply-esp/) (archived)| Spanish | 8/27/24 |
+| 26 | [Verifying your identity on VA.gov](https://www.va.gov/resources/verifying-your-identity-on-vagov-esp/) | Spanish | 8/29/24 |
+| 27 | [Signing in to VA.gov](https://www.va.gov/resources/signing-in-to-vagov-esp/) | Spanish | 8/29/24 |
+| 28 | [Educational and career counseling (VA Chapter 36)](https://www.va.gov/careers-employment/education-and-career-counseling-esp/) | Spanish | 8/31/24 |
+| 29 | [Eligibility for burial in a VA national cemetery](https://www.va.gov/burials-memorials/eligibility-esp/) (archived)| Spanish | 8/31/24 |
+| 30 | [Pre-need eligibility for burial in a VA cemetery](https://www.va.gov/burials-memorials/pre-need-eligibility-esp/) (archived)| Spanish | 8/31/24 | 
+| 31 | [VA dental care](https://www.va.gov/health-care/about-va-health-benefits/dental-care-esp) | Spanish | 9/2/24  |
+| 32 | [Eligibility for Veteran Readiness and Employment](https://www.va.gov/careers-employment/vocational-rehabilitation/eligibility-esp/) | Spanish | 9/2/24 |
+| 33 | [Creating an account for VA.gov](https://www.va.gov/resources/creating-an-account-for-vagov-esp) | Spanish | 9/3/24 |
+| 34 | [Disaster help](https://www.va.gov/resources/disaster-help-esp/) | Spanish | 10/10/24 |
+| 35 | [VA dental care](https://www.va.gov/health-care/about-va-health-benefits/dental-care-esp/) | Spanish | 1/14/25 |
+| 36 | [How to apply for Veteran Readiness and Employment](https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply-esp/)| Spanish | 5/5/25 |
+| 37 | [Board Appeals](https://www.va.gov/decision-reviews/board-appeal-esp/) | Spanish | 5/14/25 |
