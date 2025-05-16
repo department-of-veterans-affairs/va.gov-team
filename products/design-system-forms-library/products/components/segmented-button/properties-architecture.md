@@ -1,16 +1,11 @@
 # Properties / Architecture Template
 
-Copy this template to assist with the initial planning of properties and architecture of a new component.
-
 ## Properties
 
-|             |          |              |          |                   |              |                                                                  |
-| ----------- | -------- | ------------ | -------- | ----------------- | ------------ | ---------------------------------------------------------------- |
-| **Release** | **Name** | **Required** | **Type** | **Default Value** | **Platform** | **Description**                                                  |
-| v1          | url      | false        | `string` | -                 | web/mobile   | Specifies the href value that will apply an optional anchor link |
-|             |          |              |          |                   |              |                                                                  |
-|             |          |              |          |                   |              |                                                                  |
-|             |          |              |          |                   |              |                                                                  |
+| Release     | Name       | Required     | Type      | Default Value     | Platform     | Description                                                      |
+| ----------- | --------   | ------------ | --------  | ----------------- | ------------ | ---------------------------------------------------------------- |
+| MVP         | full-width | false        | `boolean` | false             | web          | Specifies if the component spans the width of it's container (Should we enforce full width on mobile viewports?)     |
+|             |            |              |           |                   |              |                                                                  |
 
 ## Architecture Overview
 
@@ -18,4 +13,8 @@ The high-level vision behind the component’s architectural direction which cou
 
 ## Future Considerations
 
-If this is an MVP, we should outline anything that we might need to account for in future iterations of the component.
+- Should we have different sizes? For example: `small`/`default`/`large`.
+- Should we allow icons in with the labels?
+- Should we allow icons alone as the label? 
+
+
