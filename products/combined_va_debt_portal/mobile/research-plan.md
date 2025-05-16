@@ -152,5 +152,5 @@ Sessions will also include semi-structured interview questions. These questions 
 
 Note on Accessibility: Due to prototype limitations, testing will not include users of assistive technologies.
 
-- [ ] **Remote**
+- [X] **Remote**
 - [ ] **In-person**
