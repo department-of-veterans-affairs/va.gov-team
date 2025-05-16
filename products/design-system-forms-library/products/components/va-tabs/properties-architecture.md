@@ -48,13 +48,21 @@ When the number of tabs exceeds the available horizontal space:
 
 > Note: While the prototype demonstrates functionality, it is **not required** to replicate its architecture or styles.
 
+### Max-width
+This is something I kept going back and forth about. What is a good max-width for the tabs? Some scenarios I was thinking of. This might be something we need to test out different scenarios.
+1. 120px max-width if there were only two tabs then both tabs could fit on a 288px screen width with a 24px margin between the tabs.
+2. 144px max-width so that 2 tabs could fit but we would need to remove the margin and the tabs would be flush.
+3. 160px max-width so that a single tab and the dropdown button can fit on screen.
+
+### Minimum of 2 tabs in the dropdown
+
+This is a behavior we saw in the [Primer DS](https://primer.style/react/storybook/?path=/story/components-underlinenav-features--overflow-on-narrow-screen&globals=viewport:narrowScreen) where the dropdown would not appear until there were two tabs that needed to be put in the dropdown. There is probably a few different scenarios to consider with this when you think about making sure two tabs can fit at a 288px width. 
 
 ### Click behavior
 
 Clicking or tapping on a tab navigates the user to a new page via the tab’s URL.
 
 More on the click behavior can be found in the [Experimental Design: New Tabs Design #2346](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/2346).
-
 
 ## Future Considerations
 
