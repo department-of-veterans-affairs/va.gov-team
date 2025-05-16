@@ -39,7 +39,7 @@ The overflow behavior works by sizing each tab individually and figuring out how
 
 See [ADR 002](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/va-tabs/design-decisions.md#adr-002-behavior-when-tabs-overflow-off-the-screen) For more info about the tab overflow behavior.
 
-You can see a prototype of the [tab overflow - menu](https://codepen.io/babsdenney/pen/EaaYvQV).
+You can see a prototype of the [tab overflow - menu](https://codepen.io/babsdenney/pen/EaaYvQV). This prototype can be used as a example but it is not required to follow the architecture or styles.
 
 See [ADR 003](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/va-tabs/design-decisions.md#adr-003-tab-style-choices) for more information about different styles and layout used for the tabs.
 
