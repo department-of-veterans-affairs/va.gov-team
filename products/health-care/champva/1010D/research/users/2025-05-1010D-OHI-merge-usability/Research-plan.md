@@ -60,62 +60,57 @@ Are there moments that matter?</summary>
 
 2. Understand if the placement of the 10-7959c within the 10-10D form works better for users, specifically as it relates to providing all necessary and required supporting evidence.
 
-3. **[Enter answer here]** 
+3. Get user feedback on the [V3 file upload component](https://design.va.gov/storybook/?path=/docs/uswds-va-file-input--docs#upload-status).
   
 ### Outcome
-`How will this research advance your product to the next phase in the design process? What will you do with your learnings?`
+Findings and recommendations from this research will inform the usability and accessibility of the 10-10D/OHI merged MVP for authenticated and unauthenticated users. We will identify areas for improvement based on severity and potential impact to successful forms submission, building out MVP and post-MVP improvements the team can make. 
 
----
+Some recommendations will also inform prioritization of the backlog for the 10-10D and OHI standalone forms, as well as dictate how we might merge other forms, such as the 10-7959A and 10-7959c, at a later date.
 
-**[Enter outcome here]** 
+In addition, user feedback about the v3 file upload component will be shared back to Platform, to help inform the adoption of the component on other VFS teams. 
 
 ---
 
 ### Research questions
-> [!NOTE]
-> Do not write out all questions you plan to ask participants -- that should go in the` [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)
 
-***Consider bucketing research questions under research goals and think about:***
-	
-`What will I do with what I learn from this question?`
-  
-`Does this question serve the goals of my study?`
+**Goal 1: Understand whether the placement of the 10-7959c within the 10-10D application for CHAMPVA benefits works better, as it relates to form submission and time on task.**
+1. How well are users able to orient into and out of the ancillary 10-7959c within the 10-10D?
+2. Does content on transitional pages between the 10-10D and 10-7959c provide sufficient context about the purpose of the 10-7959c?
+3. Is the slim header/footer sufficient context for users knowing where they are within the 10-10D or 10-7959c?
 
-**`1.`[Enter Q1]**
+**Goal 2: Understand if the placement of the 10-7959c within the 10-10D form works better for users, specifically as it relates to providing all necessary and required supporting evidence.**
+1. Will users be confused by what supporting evidence is required for the 10-10D and 10-7959c?
+2. Will users prefer to upload documents mid-flow, at the end of list&loops for a subsection of the form, or all together at the end of the form (or form-within-a-form)?
+3. Are the examples and content around what evidence to prepare and provide on the forms clear?
 
-**`2.`[Enter Q2]**
-
-**`3.`[Enter Q3]**
-
-**`4.`[Enter Q4]**
-
-**`5.`[Enter Q5]**
-
-> [!TIP]
->Enter more questions as needed
+**Goal 3: Get user feedback on the [V3 file upload component](https://design.va.gov/storybook/?path=/docs/uswds-va-file-input--docs#upload-status).**
+1. Does the v3 file upload component help users to successfully upload front/back views of their Medicare and Private Health Insurance cards?
+2. Do users want any additional confirmation around uploading files?
+3. Does the user understand how to fix an upload when an error appears?
 
 ### Hypotheses
-> [!NOTE]
-> Remember to constrain the hypotheses to the goals of your study!
- 
-**Think through these prompts to develop strong hypotheses:**
-	
-`What do you intend to learn and measure from this study?` 
-
-`What do you already know about this problem space?`
- 
-`What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)`
-  
-`Write a generalized statement that combines what you know + what you think will happen during the study.`
 
 ---
 
-**[Enter hypotheses here]** 
+**Goal 1: Understand whether the placement of the 10-7959c within the 10-10D application for CHAMPVA benefits works better, as it relates to form submission and time on task.**
+* When filling out the merged 10-10D/10-7959c, users will have faster completion times when compared to cumulative completion times from the standalone 10-10D and 10-7959c.
+* Users will be able to easily orient themselves around the transition between the 10-10D and 10-7959c.
+* Users will prefer to complete the 10-7959c as part of their CHAMPVA application, as opposed to a separate, standalone form.
+
+**Goal 2: Understand if the placement of the 10-7959c within the 10-10D form works better for users, specifically as it relates to providing all necessary and required supporting evidence.**
+* New instructions, examples, and directions for uploading necessary and required supporting evidence will provide relevant assistance as the user navigates the forms.
+* Veterans will understand that there is separate upload sections for applicant information and OHI, and avoid duplicate uploads/entries. 
+
+**Goal 3: Get user feedback on the [V3 file upload component](https://design.va.gov/storybook/?path=/docs/uswds-va-file-input--docs#upload-status).**
+* The v3 file upload component will provide visual validation of complex file uploads, like front/back of Medicare and Private Health Insurance cards
+* The v3 component will help users identify if they have provided all necessary evidence before submitting. 
 
 ---
   
 ## Methodology  🛠️
-We will conduct remote moderated usability testing to observe research participants filling out the merged online forms. The participants will be AUTH? UNAUTH?. We will be testing in the Staging environment.
+We will conduct remote moderated usability testing to observe research participants filling out the merged online forms. The participants will be **AUTH? UNAUTH?**. We will be testing in the Staging environment.
+
+The methodology will be a mixed-methods approach, combining a usability study with a post-task exit interview. We anticipate 45-60min of usability testing, utilizing the think-aloud protocol, to identify significant issues with the merged digital form experience. Exit interview questions will include a Single Ease Question (SEQ) to triangulate task completion times and qualitative user feedback about the usability and accessibility of the merged forms. 
 
 Sessions will be conducted over Zoom with transcripts.
 
@@ -130,39 +125,20 @@ Remote research, over Zoom.
 > [!NOTE]
 > **Your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.**
 
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
-
-**For moderated interviews:** 
-	
-- [Link to conversation guide](url goes here)
-
 **For moderated usability tests:** 
 - [Link to conversation guide](url goes here)
 - [Link to prototype](url goes here)
-
-**For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html)**
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
-
-
-
-**If recruiting outside of Perigean’s participant database:**
-- [Link to recruitment flyer](url goes here)
 	
 ## Recruitment 🎯	
-*OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers.*
-
 > [!NOTE]
 > Before writing your recruitment criteria, be sure to review the following resources: 
 > - [Refer to the Perigean Recruitment Guidance](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants) to learn how Perigean recruits, screens, and prepares participants for research. 
 > - [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
 
 ### Recruitment approach
-*Who is your intended audience for this research (e.g. Veterans, caregivers, VSOs, SMEs), and how will you recruit them?* 
-- Perigean **CANNOT** recruit VA employees or VSOs. Work with your VA lead to recruit these groups. 
-- Perigean can also support remote, [unmoderated studies](https://depo-platform-documentation.scrollhelp.site/research-design/perigean-recruiting-process-for-unmoderated-studie), however, these studies require strict recruitment requirements. 
-- Which inclusive research strategies are you leveraging for this study? OCTO recommends using a lean maximum variation strategy for most studies. Read this [introduction to inclusive research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/introduction.md) and use the [recruitment checker (google sheets)](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?usp=sharing) to understand OCTO's targets for inclusivity.
+> [!NOTE]
+> **does the team want to recruit existing CHAMPVA beneficiaries, or those who may qualify and haven't applied yet?**
+> **draft** Our intended audience for this study is Veterans and Dependent spouses and children who have applied for benefits through the CHAMPVA program. We will be utilizing Perigean to assist us with recruiting our participants. WE will use the lean maximum variation inclusive recruitment strategy outlined by OCTO. 
 
 ### Recruitment criteria
 
@@ -206,8 +182,9 @@ Provide a link to any materials you need to run your study, including any materi
 > **Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.** 
 
 ### Optional Kick-off Call with Perigean
+We would like a kick-off call with Perigean to discuss recruitment criteria.
 
-- `Suggested dates and times:` **[Enter dates and times MM/DD HH:MM]**
+- `Suggested dates and times:` May 27-30, 9am-6pm ET (the team can be flexible to accommodate Perigean's schedule)
 
 ### Prepare
 *When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).*
@@ -216,52 +193,42 @@ Provide a link to any materials you need to run your study, including any materi
 > [!NOTE]
 > **Send pilot participant email in study Slack channel**
 
-- `Pilot participant name:` **[Enter name]**
-- `Date and time of pilot session:` **[Enter time]** 
+- `Pilot participant name:` Michael Skinner
+- `Date and time of pilot session:` May 27 or 28 
 
 ### Research sessions
-- `Planned dates of research:` **[Enter dates MM/DD-MM/DD]**
+- `Planned dates of research:` **June 4-17**
 
 ### Length of sessions
-- `Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)` **[Enter time length]**
+- `Session length:` Up to 90 minutes
   
-- `Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time)` **[Enter buffer time]**
+- `Buffer time between sessions:` 30-60 minutes
   
-- `Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)` **[Enter NUM per day]**
+- `Maximum Sessions per day:` 3 per day
 
 ### Availability
-When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
-
-> [!NOTE]
-> We recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S. 
+` Monday - Friday 9am-12pm ET and 1pm-6pm ET `
 
 > [!TIP]
 > Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. **(e.g. 3/17, Monday 9:00AM-1:00PM, 3:00PM-6:00PM EST; 3/18, Tuesday 9:00AM-6:00PM EST, etc.;** ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
 >
 > **Place time slots between `hash marks` when in edit mode.**
+> - `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
+> - `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
+> - `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
+> - `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
+> - `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
 
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `Add more slots as needed`
-  
 ## Team Roles  🕵️👩‍💻👩‍🔬
-
-> [!NOTE]
-> **Please do not include email addresses in this section.** We previously required email addresses. VA's GitHub policy ([see announcement](https://github.com/orgs/department-of-veterans-affairs/discussions/13)) has changed. VA.gov email addresses cannot be in public repositories.
->
-> **Please list the names of people in each role.** In the Slack study channel, send an email and primary phone number for the moderator. Also send emails for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
 
 - `Moderator:` Renata Keck & [SOMEONE ELSE]	
 - `Research guide writing and task development:` Renata Keck	
 - `Participant recruiting & screening:`	Perigean	
 - `Project point of contact:` Renata Keck & [SOMEONE ELSE] 	
 - `Accessibility specialist (for sessions where support for assistive technology may be needed):` **[Enter full name]**	
-- `Note-takers:` **[Enter full name]** 
+- `Note-takers:` Renata Keck, Jamie Fiore, and Rachel Pope
 - `Observers:` Will need to sign up so we can limit the number per session. Renata will add them to the session invites received from Perigean.
 
 ## Approvals ✅
-- `Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]`
+- `Reviewed by Amanda Klausmeier [OCTO Design Lead] on [MM-DD-YYYY]`
 - `Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]`
