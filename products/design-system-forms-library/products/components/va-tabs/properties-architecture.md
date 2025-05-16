@@ -1,4 +1,5 @@
-# Properties / Architecture Template
+# `va-tabs` Properties / Architecture
+_Last updated: 2025-05-16_
 
 See [ADR 003](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/va-tabs/design-decisions.md#adr-003-tab-style-choices) for a list of design systems that have tab component with a similar tab overflow behavior.
 
