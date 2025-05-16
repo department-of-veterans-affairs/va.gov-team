@@ -119,3 +119,38 @@ Veterans currently manage their debt and copayments on VA.gov; this will be a ne
 
 `12.` How do users feel about being redirected to VA.gov to complete actions like requesting help or disputing a debt?  
 `13.` Are users comfortable signing in to a new site and copying/pasting information from the app to complete a payment?  
+
+<!--
+### Hypotheses
+> [!NOTE]
+> Remember to constrain the hypotheses to the goals of your study!
+ 
+**Think through these prompts to develop strong hypotheses:**
+	
+`What do you intend to learn and measure from this study?` 
+
+`What do you already know about this problem space?`
+ 
+`What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)`
+  
+`Write a generalized statement that combines what you know + what you think will happen during the study.`
+
+---
+
+**[Enter hypotheses here]** 
+
+---
+-->
+
+## Methodology  🛠️
+
+Moderated usability testing using high-fidelity Figma prototypes over Zoom. The prototypes will simulate the mobile app's MVP debt portal where users can view details on their copays and overpayment debts.
+Sessions will also include semi-structured interview questions. These questions will explore:
+
+- Experiences and awareness of debt before accessing the app
+- Actions taken outside of the app that will not be included in the MVP, such as payments, disputing charges, and requesting financial assistance. For the initial release, users will be linked to VA.gov for these actions
+
+Note on Accessibility: Due to prototype limitations, testing will not include users of assistive technologies.
+
+- [ ] **Remote**
+- [ ] **In-person**
