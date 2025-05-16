@@ -126,7 +126,7 @@ Remote research, over Zoom.
 > **Your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.**
 
 **For moderated usability tests:** 
-- [Link to conversation guide](url goes here)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/research/users/2025-05-1010D-OHI-merge-usability/Conversation-guide.md)
 - [Link to prototype](url goes here)
 	
 ## Recruitment 🎯	
