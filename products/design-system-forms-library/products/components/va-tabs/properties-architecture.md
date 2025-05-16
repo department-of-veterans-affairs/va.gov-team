@@ -15,12 +15,12 @@ See [ADR 003](https://github.com/department-of-veterans-affairs/va.gov-team/blob
 
 ## Architecture Overview
 
-See the [ADR 001](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/va-tabs/design-decisions.md#adr-001-tab-definitions) for a definition list of the tab anatomy.
+See the [ADR 001](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/va-tabs/design-decisions.md#adr-001-tab-definitions) for a detailed definition list of the tabs.
 
 The challenging part of this component is there are alot of different smaller components being used together. 
-1. **Tabs:** The tabs will be contained within the the page.
-2. **Divider:** The divider will be 
-3. **Horizontal Tab:** URL based so they will be links instead of buttons.
+1. **Tabs:** The primary container.
+2. **Divider:** A visual separator between the tabs and the content below that will extend the entire width of the container.
+3. **Horizontal Tab:** These are **URL-based** tabs implemented as `<a>` links (not buttons).
   - Selected
     - Hover
     - Active
@@ -29,24 +29,32 @@ The challenging part of this component is there are alot of different smaller co
     - Hover
     - Active
     - Focus 
-2. **Button:** The dropdown will be a button.
-3. **Popover:** The container for the overflow tabs.
-4. **Vertical Tab:** The tabs in a vertical layout within the popover. Will have the same selected and unselected states as horizontal tabs.
+2. **Dropdown Button:** A button used to trigger a menu when tabs overflow.
+3. **Popover:**
+   - A floating container that appears when the dropdown is triggered.
+   - Houses the vertical list of overflowed tabs.
+4. **Vertical Tab (Inside Popover):**
+  - Displayed vertically inside the popover.
+  - Mirror the same states and behaviors as the horizontal tabs.
 
 ### Overflow behavior
 
-The overflow behavior works by sizing each tab individually and figuring out how many tabs can fit within the contained space. Any tabs that doesn't fit horizontally will be placed into the dropdown. 
+When the number of tabs exceeds the available horizontal space:
 
-See [ADR 002](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/va-tabs/design-decisions.md#adr-002-behavior-when-tabs-overflow-off-the-screen) For more info about the tab overflow behavior.
+- Each tab is measured individually.
+- Tabs that don’t fit are moved into a dropdown menu (Popover).
+- Reference: [ADR 002 – Overflow Behavior](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/va-tabs/design-decisions.md#adr-002-behavior-when-tabs-overflow-off-the-screen)
+- Prototype Example: [Tab Overflow Menu (CodePen)](https://codepen.io/babsdenney/pen/EaaYvQV)
 
-You can see a prototype of the [tab overflow - menu](https://codepen.io/babsdenney/pen/EaaYvQV). This prototype can be used as a example but it is not required to follow the architecture or styles.
+> Note: While the prototype demonstrates functionality, it is **not required** to replicate its architecture or styles.
 
-See [ADR 003](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/va-tabs/design-decisions.md#adr-003-tab-style-choices) for more information about different styles and layout used for the tabs.
 
 ### Click behavior
 
-Clicking or tapping a tab takes the user to a dedicated page. You can find more information about the URL behavior in the submitted experimental design. 
-[Experimental Design [New tabs design] #2346](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/2346)
+Clicking or tapping on a tab navigates the user to a new page via the tab’s URL.
+
+More on the click behavior can be found in the [Experimental Design: New Tabs Design #2346](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/2346).
+
 
 ## Future Considerations
 
@@ -55,6 +63,6 @@ Clicking or tapping a tab takes the user to a dedicated page. You can find more 
   [Stacked tabs prototype](https://codepen.io/babsdenney/pen/yyyBbYY)
 
 ### Popover and Side nav components
-- This component could be the starting point for future components that can be reused.
-  - Side nav component - You can consider this component a horizontal version of the side nav component. The vertical tabs used within the dropdown should probably be revaluated when we do decide to implement a side nav component. 
-  - Popover component - We have a few instances now that use a form of a popover. The combo box, search results, and now this button dropdown component. We should consider adding a popover component to create consistency within the components.
+This component could be the starting point for future components that can be reused.
+- **Side nav component:** You can consider this component a horizontal version of the side nav component. The vertical tabs used within the dropdown should probably be revaluated when we do decide to implement a side nav component. 
+- **Popover component:** We have a few instances now that use a form of a popover. The combo box, search results, and now this button dropdown component. We should consider adding a popover component to create consistency within the components.
