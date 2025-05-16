@@ -87,7 +87,7 @@ Veterans currently manage their debt and copayments on VA.gov; this will be a ne
   - paying copays + overpayment debts
   - requesting financial help
   - disputing debts
-- Address and identify accessibility gaps
+- Address and identify accessibility gaps (note: Due to prototype limitations, we likely will not identify all accessibility issues)
 - Validate designs for viewing copays + overpayment debts
 
 
