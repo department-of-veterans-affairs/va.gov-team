@@ -72,13 +72,13 @@ The following widget states are displayed, based on the status code returned fro
    3. Status code 500, 502 and 503 (missing ICN, likely LOA1 users)
    4. Status code 504 (timeout issue, likely related to an ongoing issue with timeouts during vets-api deployments)
 
+### Version 2.0
+
+CONTENT TO COME
+
 ## **Future Plans and Ideas**
 
-When the [Appoint a Representative product](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/product-documentation/appoint-a-representative) is released, the Representative Status widget will be included in the user flow to help users understand if they have existing representation, and that any requests for new representation will replace their current appointed representative.
-
-We are also partnering with the Profile and MyVA teams to include a version of the representative status information that better matches existing design patterns.
-
-While timeline is TBD, ideas for the next version are stored in our [Representative Status v2](https://dsva.slack.com/docs/T03FECE8V/F07UPV3TKUM) Slack canvas. Longer term ideas for Find a Representative are stored in our[ ARM Future Ideas](https://dsva.slack.com/docs/T03FECE8V/F06JUJ4CR19) Slack canvas.
+Longer term ideas for Find a Representative are stored in our[ ARM Future Ideas](https://dsva.slack.com/docs/T03FECE8V/F06JUJ4CR19) Slack canvas.
 
 ## **Communications**
 
