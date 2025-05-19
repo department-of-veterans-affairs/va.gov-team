@@ -229,11 +229,11 @@ The header text is displayed as the parent accordion’s `header` prop instead o
 
 **Desktop**
 
-![Open Screenshot 2025-04-07 at 1.38.45 PM.png](blob:https://vfs.atlassian.net/5e96dce7-68c0-485e-b592-a2e73cbc5daf#media-blob-url=true&id=0ddb6d6a-fba4-4d5e-b402-1fa077df54ed&collection=contentId-4014112769&contextId=4014112769&mimeType=image%2Fpng&name=Screenshot%202025-04-07%20at%201.38.45%E2%80%AFPM.png&size=10148&width=331&height=271&alt=)
+![Filter Desktop - Figma](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/refs/heads/master/products/design-system-forms-library/products/components/va-search/images/figma-filter-desktop.png)
 
-**Mobile**
+**Mobile Web**
 
-![Open Screenshot 2025-04-08 at 11.21.37 AM.png](blob:https://vfs.atlassian.net/6ab2e58a-75f8-4a7f-bc0f-0d0eeca68f68#media-blob-url=true&id=7b3e14aa-b743-49c2-989f-3cc1a42b67f9&collection=contentId-4014112769&contextId=4014112769&mimeType=image%2Fpng&name=Screenshot%202025-04-08%20at%2011.21.37%E2%80%AFAM.png&size=9661&width=320&height=250&alt=)
+![Filter Mobile Web - Figma](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/refs/heads/master/products/design-system-forms-library/products/components/va-search/images/figma-filter-mobile-web.png)
 
 **Mobile Display: Parent Accordion**
 
@@ -262,7 +262,7 @@ Future component name ideas:
     
 - `va-search-active-categories`
 
-![Open Screenshot 2025-04-10 at 5.16.25 PM.png](blob:https://vfs.atlassian.net/c643242d-3139-4fba-b8e3-9445f7124ef9#media-blob-url=true&id=c97892dc-2ff3-408e-9195-4839ab138206&collection=contentId-4014112769&contextId=4014112769&mimeType=image%2Fpng&name=Screenshot%202025-04-10%20at%205.16.25%E2%80%AFPM.png&size=15521&width=302&height=216&alt=)
+![Filter Pills - Figma](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/refs/heads/master/products/design-system-forms-library/products/components/va-search/images/figma-filter-pills.png)
 
 **Nested Facets**
 
