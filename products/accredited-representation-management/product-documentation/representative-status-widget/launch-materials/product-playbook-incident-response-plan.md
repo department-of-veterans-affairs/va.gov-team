@@ -6,11 +6,11 @@
 
 The code for the widget can be found here:
 
-#### Widget Code:
+#### Representative Status Widget Code:
 
 - [https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/platform/user/widgets/representative-status](`src/platform/user/widgets/representative-status`)
 
-#### Profile Code:
+#### Representative Status in Profile Code:
 
 - [https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/profile/components/hub/Hub.jsx](src/applications/personalization/profile/components/hub/Hub.jsx)
 - [https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/profile/components/accredited-representative/AccreditedRepresentative.jsx](src/applications/personalization/profile/components/accredited-representative/AccreditedRepresentative.jsx)
@@ -45,13 +45,13 @@ This section will focus on how to identify and measure errors and performance me
 #### Error Logging
 
 - **Sentry Integration:** Ensure Sentry is properly integrated into both vets-api and vets-website. Sentry will capture any runtime errors, performance issues, or exceptions in the application.
-- **Error Alerts:** Set up Sentry alerts to notify the team via email or Slack when critical errors occur or when error rates exceed a predefined threshold (NOTIFICATIONS HAVE NOT BEEN SETUP YET).
+- **Error Alerts:** Datadog alerts notify the team via Slack when critical errors occur or when error rates exceed a predefined threshold. Our error notification channel is [#benefits-representation-management-notifications](https://dsva.slack.com/archives/C06QG3C318D).
 - **Error Types and Frequencies:** Regularly review error logs to identify common or recurring issues. Pay special attention to error types, frequencies, and the severity of impacts on users.
 
 #### Performance Metrics
 
 - **Datadog Monitoring:** Utilize Datadog to monitor the application's performance. Track metrics like response times, server load, and API call frequencies.
-- **Thresholds and Anomalies:** Set performance thresholds in Datadog. Receive alerts when metrics fall outside of these thresholds, indicating potential performance issues (NOTIFICATIONS HAVE NO BEEN SETUP YET).
+- **Thresholds and Anomalies:** Set performance thresholds in Datadog. Receive alerts when metrics fall outside of these thresholds, indicating potential performance issues. Our error notification channel is [#benefits-representation-management-notifications](https://dsva.slack.com/archives/C06QG3C318D).
 - **User Journey Tracking:** Monitor key user journeys to ensure the feature is performing as expected. This can include tracking clicks to pages linked to within the widget.
 
 #### Feedback Loop
@@ -84,6 +84,7 @@ This section outlines the steps to investigate and resolve issues related to the
 ### Flipper Features and Rollback
 
 - Enables the Representative Status Widget on the frontend - `representative_status_enabled`
+- Enables Representative Status widget 2.0 features for frontend and backend - `representativeStatusEnableV2Features`
 
 ## Security
 
