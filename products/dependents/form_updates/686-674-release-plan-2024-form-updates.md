@@ -52,23 +52,35 @@ The form updates will be broken into two phases to expidite improvements to the 
 [Release plan user flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1714073866859/62dbc2bda8fa99a2d87d3e5ed9103d99f96b8769?wid=522-1714073889846)
 
 ### The phase 2 release plan will need to consider the following [use cases](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1714073866859/62dbc2bda8fa99a2d87d3e5ed9103d99f96b8769?wid=522-1714073889846):
-1. Feature toggle enabled during release:
-   - If users have an in-progress v1 form, they will continue their v1 session
-   - If users have an in-progress v2 form, they will continue their v2 session
-   - If users have an in-progress form _past_ the 60 day limit of Phase 2E, they will be taken to the start of the v2 form and any data they entered on v1 of the form will appear in the new v2 form. An alert will be displayed indicating that a new form has been released and they must start over, but all of their existing data should remain intact within the v2 form
-   - If users do not have an in-progress form, they will start a new v2 flow
-2. Feature toggle disabled during release:
-   - If users have an in-progress form, they will continue v1 flow
-   - If users do not have an in-progress form, they will start a new v1 flow
 
-| User Type | Flipper Status | Form in Progress | Visible Form | Switch to V2 alert displayed | Data Migrated |
-|---|---|---|---|---|---|
-| Authenticated Users | Enabled | Yes, v1 | v1 | No | No |
-| Authenticated Users | Enabled | Yes, v2 | v2 | No | No |
-| Authenticated Users | Enabled | Yes, v1 but past 60 days of full release | v2 | Yes | Yes |
-| Authenticated Users | Enabled | No | v2 | No | No |
-| Authenticated Users | Disabled | Yes, v1 | v1 | No | No |
-| Authenticated Users | Disabled | No | v1 | No | No |
+| # | User Type | `va_dependents_v2` flipper status | Form in Progress | Visible Form | Switch to V2 alert displayed | Data Migrated |
+|---|---|---|---|---|---|---|
+|1| Authenticated User | Enabled | Yes, v1 | v1 | No | No |
+|2| Authenticated User | Enabled | Yes, v2 | v2 | No | No |
+|3| Authenticated User | Enabled | Yes, v1 but past 60 days of full release | v2 | Yes | NO &dagger; |
+|4| Authenticated User | Enabled | No | v2 | No | No |
+|5| Authenticated User | Disabled | Yes, v1 | v1 | No | No |
+|6| Authenticated User | Disabled | No | v1 | No | No |
+|7| Authenticated User | Disabled | Yes, v2, maybe v1? | v1 | No | No |
+
+&dagger; After v1 IPF expires, we will redirect to v2 and start the form anew.
+
+- Case 1: Veteran remains in v1 flow, no change
+- Case 2: Veteran remains in v2 flow, no change
+- Case 3:
+  - Past the deadline, so switch from v1 to v2.
+  - v1 introduction page will detect v1 save-in-progress and trigger a redirect to v2 introduction page (Veteran will see a switching form version alert).
+  - Veteran will start v2 as a blank application (since the v1 IPF expired)
+- Case 4: Veteran does not have an in progress v1, so frontend will redirect to v2 introduction. No alert is shown
+- Case 5: Veteran has v1 in progress, no change
+- Case 6: Veteran remains in v1 flow, no change
+- Case 7 (rollback):
+  - Veteran already in v2 flow, then has feature toggle disabled
+  - Switch back to v1 flow? Not sure how toggle would handle this situation
+  - If they have a previous v1 in progress form, they would see their original
+    v1 in progress data (no new data)
+  - If they didn't have a previous v1 in progress form, they would see a start a
+    new v1 form
 
 ### This phase 2 release will include the following components:
 1. Form field updates on some pages
@@ -76,6 +88,13 @@ The form updates will be broken into two phases to expidite improvements to the 
 3. High-priority accessibility updates (level 0-2)
 4. Info alert on the form information page letting in-progress users who were redirected back to the start of the form that the form has been updated and they need to review the info they've already entered.
 6. Ability to submit multiple 674s within the same session/loop.
+
+### Rollback plan
+
+Rollback feature toggle if:
+- Any submission failures during rollout at 1%
+- Team judgement call
+
 ---
 
 ## Step 1: Development
