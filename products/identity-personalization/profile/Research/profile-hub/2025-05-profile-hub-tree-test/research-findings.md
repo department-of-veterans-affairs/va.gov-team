@@ -131,19 +131,12 @@ The analysis approach was supported by [Optimal Workshop](https://support.optima
 The target for our study was greater than 60% success rate in order to move forward with our recommendations. The following tasks are listed in order of highest success rate to lowest.
 
 1. 96% Financial information > Direct deposit information
-
 2. 87% Service history information > Military branch information
-
 3. 87% Dependents and personal contacts > Marriage information
-
 4. 80% Dependents and personal contacts > VA health care next of kin
-
 5. 73% Communication settings > Paperless delivery
-
 6. 71% Personal information > Disability rating
-
 7.  62% Communication settings > MHV signature
-
    1. _Noting there was no close second option for MHV signature._
 
 
@@ -225,25 +218,25 @@ Any negative feedback was directly associated with VA.gov, and not the proposed 
 
 5. **Keep** ‘Disability rating’ in ‘Personal information section’.
 
-_Supporting evidence: Key finding 1_
+[_Supporting evidence: Key finding 1_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/profile-hub/2025-05-profile-hub-tree-test/research-findings.md#finding-1-7-of-10-tasks-were-a-success-supporting-recommendations-based-on-prior-research-and-analytics)
 
 **Recommendation 2: Work with Accredited Representative Management (ARM) team to identify ideal location for Accredited representative card, and validate location with Veterans.**
 
-_Supporting evidence: Key finding 2_
+[_Supporting evidence: Key finding 2_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/profile-hub/2025-05-profile-hub-tree-test/research-findings.md#finding-2-accredited-representatives-had-the-lowest-success-rate-with-only-9-of-participants-successfully-navigating-to-dependents-and-personal-contacts)
 
 **Recommendation 3: Continue with proposed ILER IES report designs. Have the report in Letters and documents and link from the Service history information page.**
 
 OR Have the report downloadable from the Service history information page. Both options are viable.
 
-_Supporting evidence: Key finding 3_
+[_Supporting evidence: Key finding 3_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/profile-hub/2025-05-profile-hub-tree-test/research-findings.md#finding-3-the-iler-ies-report-was-more-associated-with-service-history-information-71-than-letters-and-documents-29)
 
 **Recommendation 4: Decide as a team on the long term location of the Veteran Status Card. Options include Personal information or Letters and documents. Both options are viable.**
 
-_Supporting evidence: Key finding 4_
+[_Supporting evidence: Key finding 4_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/profile-hub/2025-05-profile-hub-tree-test/research-findings.md#finding-4-veteran-status-card-placement-was-almost-an-even-split-between-letters-and-documents-40-and-personal-information-44)
 
 **Recommendation 5: In future research gather more information on how and why Veterans want health care information in their profile to see if it’s a good future feature for VA.gov Profile.**
 
-_Supporting evidence: Key finding 5_
+[_Supporting evidence: Key finding 5_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Research/profile-hub/2025-05-profile-hub-tree-test/research-findings.md#finding-5-25-56-participants-had-no-additional-feedback-on-the-proposed-navigation-12-27-requested-a-health-care-section-and-5-11-requested-a-disability-information-section)
 
 
 ## **Product User and Business Outcomes**
