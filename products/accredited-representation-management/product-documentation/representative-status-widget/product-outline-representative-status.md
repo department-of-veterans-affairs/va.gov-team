@@ -1,19 +1,25 @@
 # **Product Outline: Representative Status**
 
-Team: Accredited Representation Management
+**Team**: Accredited Representation Management
 
 The Representative Status widget is available on the following pages:
 
 1. [Find a VA accredited representative or VSO](https://www.va.gov/get-help-from-accredited-representative/find-rep)
 2. [Get help from a VA accredited representative or VSO](https://www.va.gov/get-help-from-accredited-representative/)
+3. [Profile Subpage: Accredited Representative](https://www.va.gov/profile/accredited-representative)
+4. [MyVA Dashboard (link in "Claims and Appeals")](https://www.va.gov/my-va)
+
+---
 
 ## **Overview**
 
-Create a user-friendly, accessible service on VA.gov that reflects a user's (Veteran or claimant) current representative status.
+Create a user-friendly, accessible service on VA.gov that reflects a user's (Veteran or claimant) current representative status. This includes both a lightweight widget and a detailed Profile subpage for LOA3 users.
+
+---
 
 ## **Problem Statement**
 
-There is not currently an experience on VA.gov for users to understand their current representative status. Without insight into existing representation a Veteran or claimant may accidentally remove a representative that is actively assisting with a claim and delay their already lengthy claims process.
+There is not currently an experience on VA.gov for users to understand their current representative status. Without insight into existing representation, a Veteran or claimant may accidentally remove a representative who is actively assisting with a claim, potentially delaying their already lengthy claims process.
 
 **How might we provide Veterans with insight into their current representative status on VA.gov?**
 
@@ -25,7 +31,7 @@ There is not currently an experience on VA.gov for users to understand their cur
 
 ## **Desired Business Outcomes**
 
-1. Increase the functionality of VA.gov to support Veteran’s insight into current representation.
+1. Increase the functionality of VA.gov to support Veteran insight into current representation.
 
 ## **Assumptions**
 
@@ -34,13 +40,18 @@ There is not currently an experience on VA.gov for users to understand their cur
 
 ## **Solution Approach**
 
-Our immediate goal for the Representative Status is to provide Veterans and claimants with insight into any existing representation, by way of a widget that can easily be implemented to any page on VA.gov.
+Our goal is to provide Veterans and claimants with visibility into their current representation status via:
+
+- A widget shown on relevant VA.gov pages
+- A Profile subpage (only for LOA3 users) that provides detailed information
 
 ## **Measuring Success**
 
-Monthly performance metrics are currently documented in Sharepoint: the [Performance Metrics](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FAccredited%20Representation%20Management%2FPerformance%20Metrics&viewid=3fa7a9bb%2D3d4e%2D44c2%2Db93f%2D629268a08e72) folder includes raw data, which is summarized in the monthly [Sprint Report](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FAccredited%20Representation%20Management%2FVeteran%20Facing%20Sprint%20Reports%20and%20Demos&viewid=3fa7a9bb%2D3d4e%2D44c2%2Db93f%2D629268a08e72) decks.
+Monthly performance metrics are currently documented in SharePoint: the [Performance Metrics](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FAccredited%20Representation%20Management%2FPerformance%20Metrics&viewid=3fa7a9bb%2D3d4e%2D44c2%2Db93f%2D629268a08e72) folder includes raw data, which is summarized in the monthly [Sprint Report](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FAccredited%20Representation%20Management%2FVeteran%20Facing%20Sprint%20Reports%20and%20Demos&viewid=3fa7a9bb%2D3d4e%2D44c2%2Db93f%2D629268a08e72) decks.
 
-We are actively working with the Platform Analytics team to visualize our[ ARM OKRs](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718224425278/b300ea8d63dcaaa0cdad0ebf6b4a65a20fcc9371?sender=ubac5f0487f25bc4431288699) in a Domo dashboard at a future time.
+We are actively working with the Platform Analytics team to visualize our [ARM OKRs](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718224425278/b300ea8d63dcaaa0cdad0ebf6b4a65a20fcc9371?sender=ubac5f0487f25bc4431288699) in a Domo dashboard.
+
+---
 
 ## **Supporting Documentation**
 
@@ -53,38 +64,49 @@ We are actively working with the Platform Analytics team to visualize our[ ARM O
 
 ### Version 1.0 (MVP) ([Demo](https://dsva.slack.com/archives/C05L6HSJLHM/p1716406611746829))
 
-The Representative Status widget 1.0 (MVP) was **released to 100% of users on May 20, 2024** ([release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/representative-status-widget/release-plan-representative-status-widget-1.0.md)), which involved adding the Representative Status widget to the[ accredited representative landing page](https://www.va.gov/get-help-from-accredited-representative/) and the live[ Find a Representative page](https://www.va.gov/get-help-from-accredited-representative/find-rep/).
+Released May 20, 2024. Added the widget to the [landing page](https://www.va.gov/get-help-from-accredited-representative/) and [Find a Representative page](https://www.va.gov/get-help-from-accredited-representative/find-rep/).
 
-The following widget states are displayed, based on the status code returned from the Benefits Claims API’s Power of Attorney Services ([Swagger documentation](https://developer.va.gov/explore/api/benefits-claims/docs?version=current)):
+Included widget states:
 
-1. Unauthenticated
-   1. User is not signed into VA.gov
-2. Authenticated, no representative
-   1. Status code 200 (successful API call, no active representative on file)
-   2. Status code 422 (no Participant ID on file, indicating representation has never been appointed)
-3. Authenticated, organization appointed (VSO)
-   1. Status code 200 (successful API call, active VSO representation on file)
-4. Authenticated, individual appointed (attorney or claims agent)
-   1. Status code 200 (successful API call, active attorney or claims agent representation on file)
-5. Error state (includes a number to call to inquire about representative status)
-   1. Status code 401 (invalid token)
-   2. Status code 404 (vets-api is unavailable)
-   3. Status code 500, 502 and 503 (missing ICN, likely LOA1 users)
-   4. Status code 504 (timeout issue, likely related to an ongoing issue with timeouts during vets-api deployments)
+- Unauthenticated
+- Authenticated, no representative (200, 422)
+- Authenticated, represented by VSO (200)
+- Authenticated, represented by individual (200)
+- Error (401, 404, 500, 502, 503, 504)
 
-### Version 2.0
+### Version 2.0 – Released May XX, 2025
 
-CONTENT TO COME
+**Key updates:**
+
+- Added LOA1-specific state prompting users to verify their identity
+- Added Profile subpage at [https://www.va.gov/profile/accredited-representative](https://www.va.gov/profile/accredited-representative)
+- Added MyVA Dashboard link to the Profile subpage
+- Updated error-handling behavior and messaging
+- Added handling for "incompetent" users and those with fiduciaries (these users see an account security warning)
+
+**User states now supported:**
+
+1. **Unauthenticated** – Prompt to sign in
+2. **LOA1** – Prompt to verify identity
+3. **LOA3, no representative** – Message shown indicating no rep is on file
+4. **LOA3, represented by VSO** – Displays VSO information
+5. **LOA3, represented by individual (attorney or agent)** – Displays individual rep info
+6. **Incompetent / fiduciary users** – Warning that information cannot be shown
+7. **Error** – Generic error with support guidance
+
+All authenticated states include a link to the [FAQ page](https://www.va.gov/resources/va-accredited-representative-faqs/) for more help.
 
 ## **Future Plans and Ideas**
 
-Longer term ideas for Find a Representative are stored in our[ ARM Future Ideas](https://dsva.slack.com/docs/T03FECE8V/F06JUJ4CR19) Slack canvas.
+Longer-term ideas for Find a Representative are stored in the [ARM Future Ideas](https://dsva.slack.com/docs/T03FECE8V/F06JUJ4CR19) Slack canvas.
 
 ## **Communications**
 
 1. **Team Name**: Accredited Representation Management
-2. **GitHub Label**: accredited-representation-management-team
-3. **Slack channel**: #benefits-representation-management
+2. **GitHub Label**: `accredited-representation-management-team`
+3. **Slack channel**: `#benefits-representation-management`
+
+---
 
 ## **Team Members**
 
