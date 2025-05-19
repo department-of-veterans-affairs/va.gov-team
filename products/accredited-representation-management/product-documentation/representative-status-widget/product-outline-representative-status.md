@@ -83,16 +83,14 @@ The following widget states are displayed, based on the status code returned fro
 
 ### Version 2.0 (in Profile/MyVA) (Demo TBD)
 
-Representative Status 2.0 introduces the same states as the widget (1.0), but on a dedicated Profile subpage. **This release is scheduled to begin in May 2025.
+Representative Status 2.0 introduces the same states as the widget (1.0), but on a dedicated Profile subpage. **This release is scheduled to begin in May 2025.**
 
 The URL for this Profile subpage is https://va.gov/profile/accredited-representative. There is also a link to this Profile subpage on MyVA, in the Claims and Appeals section titled “Get help from your accredited representative or VSO”. The URL for MyVA is https://va.gov/my-va. 
 
 The Representative Status Profile subpage can only be accessed by LOA3 users. This subpage is not available to:
 1.	LOA1 users. These users can only see an "Account security" page with a warning to verify their identity.
 2.	Users classified as "incompetent". These users can only see an "Account security" page with a warning "We can't show your information".
-3.	Users with a fiduciary appointed. These users can only see an "Account security" page with a warning "We can't show your information". 
-![image](https://github.com/user-attachments/assets/e795c2b2-13f4-495d-ad4a-adb90852bc46)
-
+3.	Users with a fiduciary appointed. These users can only see an "Account security" page with a warning "We can't show your information".
 
 ## **Future Plans and Ideas**
 
