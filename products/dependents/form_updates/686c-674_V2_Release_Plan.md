@@ -108,6 +108,18 @@ Mitigation: Controlled rollout using `va_dependents_v2`, review of in-progress f
 
 ## Rollback Criteria
 
-* Sustained submission error rate above alert threshold
-* Manual routing or backup pathway usage exceeds expected benchmarks
-* Downstream partners report failed
+- Sustained submission error rate above alert threshold
+- Manual routing or backup pathway usage exceeds expected benchmarks
+- Downstream partners report failed EP creation or broken PDF output
+- Silent failures detected without accompanying alerts
+- Engineering determines critical fault based on system health or user impact
+
+---
+
+## Responsibilities
+
+- **Engineering (Evan, Robin):** Maintain alert logic, investigate errors, ensure proper tagging of V2 claims
+- **Monitoring (Laura, Matt):** Build and maintain dashboards, configure alerts, confirm filtering logic
+- **Product (Jacob):** Drive go/no-go decisions, maintain readiness documentation, track follow-up work
+- **Stakeholders (Sanja, Caleb):** Validate downstream impact, confirm VBMS and RBPS behavior
+- **Entire Team:** Expected to respond to alerts and surface anomalies immediately
