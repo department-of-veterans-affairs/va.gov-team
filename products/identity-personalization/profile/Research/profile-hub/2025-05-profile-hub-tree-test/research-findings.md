@@ -126,7 +126,7 @@ The analysis approach was supported by [Optimal Workshop](https://support.optima
 
 ## **Details of Findings** 
 
-**Finding 1: 7 of 10 tasks were a success, supporting recommendations based on prior research and analytics.**
+#### **Finding 1: 7 of 10 tasks were a success, supporting recommendations based on prior research and analytics.**
 
 The target for our study was greater than 60% success rate in order to move forward with our recommendations. The following tasks are listed in order of highest success rate to lowest.
 
@@ -147,22 +147,22 @@ The target for our study was greater than 60% success rate in order to move forw
    1. _Noting there was no close second option for MHV signature._
 
 
-**Finding 2: Accredited representatives had the lowest success rate, with only 9% of participants successfully navigating to Dependents and personal contacts.**
+#### **Finding 2: Accredited representatives had the lowest success rate, with only 9% of participants successfully navigating to Dependents and personal contacts.**
 
 There is no clear reason as to why accredited representatives had such a low success rate or clear alternative location.
 
 
-**Finding 3: The ILER IES report was more associated with Service history information (71%) than Letters and documents (29%).**
+#### **Finding 3: The ILER IES report was more associated with Service history information (71%) than Letters and documents (29%).**
 
 There were no other quantifiable locations selected by participants. The finding is not remarkable and matches previous conversations on ILER IES report placement options.
 
 
-**Finding 4: Veteran Status Card placement was almost an even split between Letters and documents (40%) and Personal information (44%).**
+#### **Finding 4: Veteran Status Card placement was almost an even split between Letters and documents (40%) and Personal information (44%).**
 
 There were no other quantifiable locations selected by participants. Both options would be viable locations for the Veteran Status Card placement.
 
 
-**Finding 5: 25 (56%) participants had no additional feedback on the proposed navigation. 12 (27%) requested a health care section, and 5 (11%) requested a disability information section.**
+#### **Finding 5: 25 (56%) participants had no additional feedback on the proposed navigation. 12 (27%) requested a health care section, and 5 (11%) requested a disability information section.**
 
 Half of health care requests had no specifics given other than ‘Health information’ or ‘Medical history information’. The other requests were one offs, and recapped almost all information on the My HealtheVet page.
 
@@ -171,11 +171,11 @@ Most disability information requests described a tool much like the claims track
 
 Two notable one off requests were for Awards and medals and VA burial information.
 
-**Finding 6: ‘Dependents and contacts’ received the most votes (40%) as the preferred section title for content related to dependents, health care contacts, and accredited representatives. The next most popular was ‘Beneficiaries, dependents, and contacts,’ which received 29% of votes.**
+#### **Finding 6: ‘Dependents and contacts’ received the most votes (40%) as the preferred section title for content related to dependents, health care contacts, and accredited representatives. The next most popular was ‘Beneficiaries, dependents, and contacts,’ which received 29% of votes.**
 
 ![What would you call a section of the profile that includes your dependents, health care contacts, and Veteran Service Organization (VSO) representative information_](https://github.com/user-attachments/assets/25dc7ef2-bbed-43f6-b8a0-a0351c2087ea)
 
-**Finding 7: 84.4% of participants had a positive satisfaction rating for the proposed navigation. 10 participants provided written feedback, all of which was positive or neutral.**
+#### **Finding 7: 84.4% of participants had a positive satisfaction rating for the proposed navigation. 10 participants provided written feedback, all of which was positive or neutral.**
 
 Positive feedback focused on the ease of the navigation. Neutral feedback focused on that the navigation seemed easy to learn.
 
