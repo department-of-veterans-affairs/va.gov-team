@@ -33,7 +33,7 @@ Mitigation: Controlled rollout using `va_dependents_v2`, in-progress form handli
 
 ## Success Criteria
 
-### Pre-launch
+### Pre-launch Go/No-go criteria
 
 - Maximal payload PDF validated field by field
 - Test cases validated by RBPS (routing + claim creation)
