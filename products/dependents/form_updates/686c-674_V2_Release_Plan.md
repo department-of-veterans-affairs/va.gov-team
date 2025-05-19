@@ -8,117 +8,90 @@ The 686c/674 V2 release introduces significant backend and payload changes, incl
 
 ## Launch Goals
 
-- Route V2 submissions correctly to BGS and RBPS
-- Auto-establish claims in VBMS with correct EP codes and metadata
-- Generate accurate PDFs for all supported scenarios, including dual 674s
-- Prevent silent failures or large-scale fallback to manual routing
+* Route V2 submissions correctly to BGS and RBPS
+* Auto-establish claims in VBMS with correct EP codes and metadata
+* Generate accurate PDFs for all supported scenarios, including dual 674s
+* Prevent silent failures or large-scale fallback to manual routing
 
 ---
 
 ## Key Risks and Mitigations
 
-**Risk: Incorrect or malformed payloads cause unexpected routing behavior**  
+**Risk: Incorrect or malformed payloads cause unexpected routing behavior**
 Mitigation: Structured test payloads, end-to-end validation with RBPS
 
-**Risk: Spike in claims routed to manual processing**  
-Mitigation: Datadog alerting on `manual_vagov` values, regression coverage
+**Risk: Spike in claims routed to manual processing**
+Mitigation: Datadog alerting on `manual_vagov` rate, regression coverage
 
-**Risk: PDF generation or mapping errors in VBMS**  
-Mitigation: Maximal payload verification, line-by-line field checks, targeted scenario reviews
+**Risk: PDF generation or mapping errors in VBMS**
+Mitigation: Maximal payload verification, field-level checks for common submission types
 
-**Risk: Feature flag inconsistencies lead to routing failures**  
-Mitigation: Controlled rollout using `va_dependents_v2`, in-progress form handling review
+**Risk: BE changes  lead to routing failures**
+Mitigation: Controlled rollout using `va_dependents_v2`, review of in-progress form handling
 
 ---
 
 ## Success Criteria
 
-### Pre-launch Go/No-go criteria
+### Pre-launch
 
-- Maximal payload PDF validated field by field
-- Test cases validated by RBPS (routing + claim creation)
-- Datadog alerting live for:
-  - Spike in `manual_vagov` claims
-  - Submission error anomalies
-  - API failures or degraded routing
+* Maximal payload PDF validated field by field
+* Test cases validated by RBPS (routing + claim creation)
+* Datadog alerts configured for:
+
+  * Manual routing rate
+  * Backup pathway usage
+  * Silent failures
+  * 500-series and 422 errors
+  * Overall error rate
 
 ### Post-launch
 
-- Submission error rate remains below 1%
-- No increase in manual routing above baseline
-- VBMS EP creation and PDFs behave as expected
+* Manual routing does not exceed 35 percent
+* Backup pathway usage remains below 1.5 percent
+* Silent failures trigger alerts at any volume (0 percent threshold)
+* Error rate does not exceed alert threshold (initial target benchmark: 33 percent)
+* VBMS EP creation and PDFs behave as expected
 
 ---
 
 ## Early Warning Signals
 
-- Unexpected rise in `manual_vagov` volume
-- Increased submission or transmission failures
-- Long tail of pending submissions with no claim activity
-- Downstream reports of unreadable or missing PDFs
-- Manual processing queue strain reported by BEP/RBPS
+* Manual routing rate increases beyond 35 percent
+* Backup pathway usage exceeds 1.5 percent
+* Any silent failure events detected
+* Spike in 422 or 500-series errors
+* Drop in successful submissions or PDF uploads
+* Downstream feedback about claim anomalies or delays
 
 ---
 
 ## Phased Rollout Strategy
 
-**Canary Phase**  
-Audience: Internal only  
-Goal: Confirm end-to-end success on real infrastructure with small volume  
-Trigger: Proceed when V2 routing, VBMS upload, and PDFs succeed for ~10 claims
+**Canary Phase**
+Audience: Internal only
+Trigger: After \~10 claims, confirm submissions route correctly, PDFs upload, and no silent failures
 
-**Stage 1**  
-Audience: 1% of traffic  
-Goal: Monitor for spikes in manual routing, PDF errors, or routing anomalies  
-Trigger: Advance after 3–5 days of stability and no alerts
+**Stage 1**
+Audience: 1% of live traffic
+Trigger: 3–5 days of error-free operation with alerting in place
 
-**Stage 2**  
-Audience: 25% of traffic  
-Goal: Validate system performance and routing at modest scale  
-Trigger: Advance after 1 week of consistent metrics
+**Stage 2**
+Audience: 25%
+Trigger: One week of stable routing and PDF generation
 
-**Stage 3**  
-Audience: 50% of traffic  
-Goal: Ensure parity with V1 behavior, uncover edge case issues  
-Trigger: Proceed if error rates and routing remain stable
+**Stage 3**
+Audience: 50%
+Trigger: No alerting anomalies, VBMS and RBPS confirm healthy volume
 
-**Stage 4 (Full Release)**  
-Audience: 100% of traffic  
-Goal: Retire V1 logic, remove feature flag  
-Trigger: Confirmed stability across submissions, routing, PDF generation, and downstream feedback
+**Stage 4 (Full Release)**
+Audience: 100%
+Trigger: Confirmed stability across submission types, routing paths, and PDF outputs
 
 ---
 
 ## Rollback Criteria
 
-- Sustained submission error rate above 1%
-- Surge in manual processing with no legitimate justification
-- Validated cases not creating EPs in VBMS
-- Negative feedback from downstream partners about claim quality or processing strain
-
----
-
-## Responsibilities
-
-- **Engineering (Evan Smith, Robin Garrison):** Ensure V2 submissions are tagged appropriately, implement and maintain alerting logic, investigate errors surfaced during rollout.
-- **Monitoring and Observability (Tai Wilkin, Matt Knight):** Configure dashboards and alerts in DataDog, ensure V2-specific metrics are trackable, set thresholds for early warning signals.
-- **Product (Jacob Worrell):** Coordinate go/no-go decision-making, ensure test coverage aligns with rollout scope, support prioritization of follow-up issues.
-- **Stakeholder Coordination (Jacob Worrell, Caleb Roberts):** Validate downstream claim behavior, ensure government visibility into risk posture and post-launch behavior.
-- **Team-wide:** All members are expected to respond to alerts and escalate anomalies surfaced during rollout.
-
-
----
-
-## Additional Work Required Before Release
-
-- Complete field-level validation of the maximal test case PDF
-- Confirm logging and tagging is in place to segment V2 traffic in monitoring tools
-- Finalize and send test tracker to RBPS with participant and proc IDs
-- Confirm Datadog alerts for routing spikes, error rates, and PDF failures
-- Verify feature flag logic behaves as expected across new and in-progress claims
-
----
-
-## Notes
-
-- Monthly volume for these forms is ~30,000. Our rollout strategy should validate behavior at scale while minimizing risk of harm to Veterans or strain on backend processors.
+* Sustained submission error rate above alert threshold
+* Manual routing or backup pathway usage exceeds expected benchmarks
+* Downstream partners report failed
