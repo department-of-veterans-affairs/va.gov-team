@@ -32,7 +32,6 @@ Feature went live on 4/22/2025
 | **NOT\_TITLE\_38** (error message) | No Data |  |  |  |  |  |  |
 | **Not NOT\_TITLE\_38** (error message) | No Data |  |  |  |  |  |  |
 | **ERROR Not Confirmed** (error message) | No Data |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |
 
 * NOT\_TITLE\_38 error message: This message on the FE states **You're not eligible for a Veteran Status Card**.
 * Not NOT\_TITLE\_38 error message: This  message on the FE states **There's a problem with your discharge status records**.
