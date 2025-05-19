@@ -2,7 +2,23 @@
 
 ## Product Description
 
-**Product Overview:** [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/representative-status-widget/product-outline-representative-status-widget.md)
+**Product Overview:** [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/representative-status-widget/product-outline-representative-status.md)
+
+The code for the widget can be found here:
+
+#### Widget Code:
+
+- [https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/platform/user/widgets/representative-status](`src/platform/user/widgets/representative-status`)
+
+#### Profile Code:
+
+- [https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/profile/components/hub/Hub.jsx](src/applications/personalization/profile/components/hub/Hub.jsx)
+- [https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/profile/components/accredited-representative/AccreditedRepresentative.jsx](src/applications/personalization/profile/components/accredited-representative/AccreditedRepresentative.jsx)
+- [https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/profile/components/Profile.jsx](src/applications/personalization/profile/components/Profile.jsx)
+- [https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/profile/constants.js](src/applications/personalization/profile/constants.js)
+- [https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/profile/routesForNav.js](src/applications/personalization/profile/routesForNav.js)
+- [https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/profile/tests/components/accredited-representative/AccreditedRepresentative.unit.spec.jsx](src/applications/personalization/profile/tests/components/accredited-representative/AccreditedRepresentative.unit.spec.jsx)
+- [https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/profile/tests/e2e/accredited-representative/accredited-representative.cypress.spec.js](src/applications/personalization/profile/tests/e2e/accredited-representative/accredited-representative.cypress.spec.js)
 
 ## Contacts
 
@@ -16,9 +32,8 @@
 
 ### Outage Contacts:
 
-- Accredited Representation Management team Lead Engineer: Holden Hinkle, holden.hinkle@oddball.io
+- Accredited Representation Management team Tech Lead: Holden Hinkle, holden.hinkle@oddball.io
 - Accredited Representation Management team Backend Engineer : Josh Fike, josh.fike@oddball.io
-- Accredited Representation Management team Backend Engineer : Jonathan VanCourt, jonathan.vancourt@adhocteam.us
 - Accredited Representation Management team Frontend Engineer: Colin O'Sullivan, colin.osullivan@adhocteam.us
 
 ## Troubleshooting
@@ -67,6 +82,7 @@ This section outlines the steps to investigate and resolve issues related to the
 - **Postmortem Analysis:** Conduct a postmortem analysis to understand the root cause and document learnings. Update the playbook accordingly to improve response for future incidents.
 
 ### Flipper Features and Rollback
+
 - Enables the Representative Status Widget on the frontend - `representative_status_enabled`
 
 ## Security
