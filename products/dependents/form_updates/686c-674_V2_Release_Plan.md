@@ -69,24 +69,40 @@ Mitigation: Controlled rollout using `va_dependents_v2`, review of in-progress f
 ## Phased Rollout Strategy
 
 **Canary Phase**
-Audience: Internal only
-Trigger: After \~10 claims, confirm submissions route correctly, PDFs upload, and no silent failures
+- **Audience**: Internal only
+- **Duration**: Until at least 10 internal V2 submissions have been validated
+- **Advancement Criteria**:
+  - Confirm correct routing, EP creation, and PDF upload for all internal test cases
+  - No silent failures
+  - No increase in `manual_vagov` or error rates relative to baseline
 
 **Stage 1**
-Audience: 1% of live traffic
-Trigger: 3–5 days of error-free operation with alerting in place
+- **Audience**: 1% of live traffic
+- **Duration**: Minimum 2 full business days
+- **Advancement Criteria**:
+  - Manual routing rate ≤ 35%
+  - Backup pathway usage ≤ 1.5%
+  - Silent failures = 0
+  - No alerts triggered on 422/500 error charts or overall error rate
+  - Downstream confirmation from RBPS (if available)
 
 **Stage 2**
-Audience: 25%
-Trigger: One week of stable routing and PDF generation
+- **Audience**: 25% of live traffic
+- **Duration**: Minimum 2 full business days
+- **Advancement Criteria**: Same as Stage 1
 
 **Stage 3**
-Audience: 50%
-Trigger: No alerting anomalies, VBMS and RBPS confirm healthy volume
+- **Audience**: 50% of live traffic
+- **Duration**: Minimum 2 full business days
+- **Advancement Criteria**: Same as Stage 1
 
 **Stage 4 (Full Release)**
-Audience: 100%
-Trigger: Confirmed stability across submission types, routing paths, and PDF outputs
+- **Audience**: 100% of live traffic
+- **Duration**: Indefinite (V2 becomes default path)
+- **Finalization Criteria**:
+  - At least 2 full business days of stable performance at full volume
+  - Retrospective review of alert history, downstream impact, and open bugs
+  - PM and Engineering lead jointly confirm removal of feature flag
 
 ---
 
