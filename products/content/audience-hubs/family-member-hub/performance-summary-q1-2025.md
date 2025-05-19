@@ -4,6 +4,8 @@
 
 ## Page data
 
+**General page performance**
+
 Hub |Page views | Entrance rate | Bounce rate | Exit rate
 |---|---|---|---|---
 New hub (equivalent pages) |	866,083|	29.21%	|13.51%| 31.09%
@@ -19,6 +21,8 @@ Original hub 	|1,178,240	|	29.90%	|	0.74%	|	33.29%
    -  Exit rates for this landing page are low (~18%) and considerably lower compared to the previous landing page (>28%) that lived at Education > Dependent education benefits
 
 ## CSAT 
+
+**CSAT scores for the hub**
 
 Hub | CSAT <br>score	| CSAT <br>responses	| VA trust <br>score | VA trust <br>responses|	Task completion <br>score	| Task completion <br>responses
 ---|---|---|---|---|---|---
