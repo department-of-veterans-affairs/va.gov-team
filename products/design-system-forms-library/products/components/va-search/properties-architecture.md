@@ -1,11 +1,11 @@
-# Properties / Architecture Template
+# va-search-filter: Properties + Architecture Proposal
 
-Copy this template to assist with the initial planning of properties and architecture of a new component.
+Figma Designs: [VADS Templates, Patterns, and Forms ](https://www.figma.com/design/4A3O3mVx4xDAKfHE7fPF1U/VADS-Templates--Patterns--and-Forms?node-id=15688-5938&p=f&t=6dHpwQGULZOoLJuo-0)
 
 ## Properties
 
 |             |          |              |          |                   |              |                                                                  |
-| ----------- | -------- | ------------ | -------- | ----------------- | ------------ | ---------------------------------------------------------------- |
+| ----------- | -------- | ------------ | -------- | ----------------- | ------------ | ---------------------------------------------------------------- 
 | **Release** | **Name** | **Required** | **Type** | **Default Value** | **Platform** | **Description**                                                  |
 | v1          | header   | true        | `string` | Filter             | web/mobile   |  The filter header text. |
 | v1          | filter-options  | true  | string` | Filter             | web/mobile   |  Represents a list of filter facets and their categories. Use a JSON array of objects with label properties. Wrap in a string if not using the React-binding version of the web component. |
@@ -18,11 +18,8 @@ Copy this template to assist with the initial planning of properties and archite
 The component will be composed of several child components:
 
 - va-accordion
-    
 - va-accordion-item
-    
 - va-checkbox-group
-    
 - va-button, or, va-button-pair (if possible based on the design)
 
 For example:
