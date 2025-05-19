@@ -234,13 +234,13 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 - `May 19, Mon, 2 - 3 or 3:30 PM ET`
 - `May 19, Mon, 5 - 6 or 6:30 PM ET`
 - `May 19, Mon, 7 - 8 or 8:30 PM ET`
-- `May 20, Mon, 12 - 1 or 1:30 PM ET`
-- `May 20, Mon, 2 - 3 or 3:30 PM ET`
-- `May 20, Mon, 5 - 6 or 6:30 PM ET`
-- `May 20, Mon, 7 - 8 or 8:30 PM ET`
-- `May 21, Mon, 12 - 1 or 1:30 PM ET`
-- `May 21, Mon, 2 - 3 or 3:30 PM ET`
-- `May 21, Mon, 5 - 6 or 6:30 PM ET`
+- `May 20, Tue, 12 - 1 or 1:30 PM ET`
+- `May 20, Tue, 2 - 3 or 3:30 PM ET`
+- `May 20, Tue, 5 - 6 or 6:30 PM ET`
+- `May 20, Tue, 7 - 8 or 8:30 PM ET`
+- `May 21, Wed, 12 - 1 or 1:30 PM ET`
+- `May 21, Wed, 2 - 3 or 3:30 PM ET`
+- `May 21, Wed, 5 - 6 or 6:30 PM ET`
 
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
