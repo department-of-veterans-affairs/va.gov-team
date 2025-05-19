@@ -121,6 +121,26 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 **_Delivery + Notes:_**
 - [ ] All goals have been updated in the sprint chart
 - [ ] Any Additional details about goals **not** completed will be documented here
+
+## Sprint Goals - Sprint: 9 [5/21/25 - 6/3/25]  
+| Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
+|--|--|--|--|--|
+|UX: Complete R&S (Wizard) and Digital Dispute Study interviews and publish topline summary of early findings (before the full report). | QP3 QP4 |--|--|--|
+|UX: Begin drafting the research plan for pay.gov study. | QP6 |--|--|--|
+|UX: Refine Pay.gov user flows based on stakeholder feedback and tech guidelines. | QP6 |--|--|--|
+|ENG: Implement the ability to use international phone numbers in the portal. | N/A |--|--|--|
+|ENG: Complete at least 5 FE Digital Dispute tickets (66% of the remaining FE tickets for the initiative). | QP4 |--|--|--|
+|ENG: Obtain the credentials from pay.gov to be added to the portal environment. |QP6|--|--|--|
+
+**_Approvals:_** _(sent via email but approvals tracked here)_
+ - [X] Ready to be sent for approvals (05/19/25)
+ - [ ] VA PO & COR sent the Sprint Goals (05/xx/25)
+ - [ ] VA PO approved the Sprint Goals (05//xx/25)
+ - [ ] VA COR approved the Sprint Goals (05/xx/25)
+ 
+**_Delivery + Notes:_**
+- [ ] All goals have been updated in the sprint chart
+- [ ] Any Additional details about goals **not** completed will be documented here
 ---
 
 ## Quarterly Priorities for FY25Q2 (Jan, Feb, Mar 2025)  
