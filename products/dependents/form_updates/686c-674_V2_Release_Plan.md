@@ -54,7 +54,9 @@ Mitigation: Controlled rollout using `va_dependents_v2`, review of in-progress f
 * Manual routing does not exceed 35 percent
 * Backup pathway usage remains below 1.5 percent
 * Silent failures trigger alerts at any volume (0 percent threshold)
-* Error rate does not exceed alert threshold (initial target benchmark: 33 percent)
+* Overall submission error rate does not exceed alert threshold (initial target benchmark: 33 percent)
+* 500 series error rate does not exceed X
+* 422 series error rate does not exceed X
 * VBMS EP creation and PDFs behave as expected
 
 ---
