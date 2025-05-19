@@ -4,21 +4,24 @@
 
 ## Page data
 
-**General page performance**
+**Page performance data**
 
 Hub |Page views | Entrance rate | Bounce rate | Exit rate
 |---|---|---|---|---
-New hub (equivalent pages) |	866,083|	29.21%	|13.51%| 31.09%
-Original hub 	|1,178,240	|	29.90%	|	0.74%	|	33.29%	
+New hub page | 132,854 | 22.57% | 10.03% | 20.36%
+Original hub page | 272,870 | 22.29% | .077% | 19.40% 
+New hub + 12 child pages |	866,083|	29.21%	|13.51%| 31.09%
+Original hub + 11 benefit hub pages 	| 1,178,240	|	29.90%	|	0.74%	|	33.29%	
 
+_Notes:_ 
+- _Original data was pulled from Google Universal Analytics and the new data is pulled from GA4, which could account for up to 20% of the difference_
+- _Bounce rates are calculated differently in GA4 vs UA and are expected to be higher than UA._
 
-- Overall, page views are significantly lower, while entrance rate is equivalent and exit rate has slightly improved. Bounce rate is calculated difference in GA4 and can't be compared, however, bounce rates below 30% are considered low.
-  - Note: Original data was pulled from Googl Universal Analytics and the new data is pulled from GA4, which likely accounts for at least part of the difference
--  For the "Health and disaiblity benefits" landing page
-   -  Entrance rates were somewhat low at about 12%, but the detail pages within this section have high entrance rates and are likely ranking better in search and providing a more specific experience
-   -  Exit rates for this landing page are low (~15%) and considerably lower compared to the previous landing page (>30%) that lived at Health care > Family and caregiver health benefits.
--  For the "Education and career benefits" landing page
-   -  Exit rates for this landing page are low (~18%) and considerably lower compared to the previous landing page (>28%) that lived at Education > Dependent education benefits
+**Summary**
+- Overall page views are lower and entrance rate is equivalent. Bounce rates can't be compared, but bounces rates below 30% are considered low.
+- Exit rates overall are lower, and significantly lower for the Health and Education sub-hub pages. This indicates that visitors are remaining engaged in the site, possibly continuing on in their tasks or discovering related information.
+   -  Exit rates for the health and disability landing (~15%) are considerably lower than the previous landing page (>30%) that lived at Health care > Family and caregiver health benefits.
+   -  Exit rates for the education landing page(~18%) and considerably lower than the previous landing page (>28%) that lived at Education > Dependent education benefits
 
 ## CSAT 
 
