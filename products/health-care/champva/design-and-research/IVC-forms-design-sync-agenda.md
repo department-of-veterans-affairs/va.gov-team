@@ -1,5 +1,16 @@
 # Running Design and Research Agenda
 
+
+## May 19 2025
+Attendees: Jamie Fiore, Renata Keck, Premal Shah, Amanda Klausmeier, Andrea Merrill, Mike Mooney
+### Agenda Topics
+* UX Roadmap
+* Learning what we learned from Alli (OHI) are comfortable moving forward with the Medicare section?
+* Touchbase on Claims Resubmits. Here's the WIP Figma
+* Usability testing for the 10-10d/OHI merge: quick tb re: methodology and approach
+
+ ### Notes
+
 ## May 12 2025
 Attendees: Jamie Fiore, Renata Keck, Rachel Pope, Premal Shah, Amanda Klausmeier, Andrea Merrill, Mike Mooney
 ### Agenda Topics
