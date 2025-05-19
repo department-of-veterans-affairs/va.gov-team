@@ -95,7 +95,7 @@ Please note, this may differ based on your use case.
 - Evaluate business outcomes and make revisions as needed *
 
 ## Billing
-VA Notify charges for SMS text messages to cover phone number and messaging costs. The process for transfering funds is currently under review and discussion. We can provide billing estimates and reports so you can plan within your budget until a process to transfer funds is available.
+VA Notify is currently paid for by OIT and there’s currently no charge to our partners. At this time we don’t have plans on cost recovery.
 
 ## Reviewing our API docs
 Your technical team can review the [API documentation](https://staging.notifications.va.gov/developer/api_docs) and other technical information on our Self Service Portal.

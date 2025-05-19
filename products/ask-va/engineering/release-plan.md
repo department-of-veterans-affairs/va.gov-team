@@ -119,6 +119,7 @@ Targeting Launch March 18-25th
 | Stage                                                   | Throughput | Error Rate: Form Submissions (422, 5xx) | Error Rate: Dashboard replies<br>(422, 5xx) | Error Rate:<br>Authorization Related<br>(401) | Error Rate:<br>Other<br>(404) | Latency: vet-api | Latency: CRM |
 | ------------------------------------------------------- | ---------- | --------------------------------------- | ------------------------------------------- | --------------------------------------------- | ----------------------------- | ---------------- | ------------ |
 | Canary - 100%<br>(May 15)      | 397         | 0%                                      | 0%                                          | 3.5% (14)                                          | 0%                            |                  | ~~AVG 2.7s~~     |
+| Canary - 100%<br>(May 16)      | 414         | 0%                                      | 0%                                          | 0%                                          | 0%                            |                  | AVG 2.46s     |
 
 
 #### Total

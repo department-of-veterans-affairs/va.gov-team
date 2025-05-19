@@ -18,7 +18,7 @@ Please check the analytics tool(s) you need access to:
 - [ ] Domo
 
 ## 2. User Email Address to Receive Access 
-**Due to privacy concerns, please do not put your email in this ticket.** Instead please use `/support` on the DSVA Slack channel [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support), select `Analytics` in the "I need help from" dropdown, and then add in the `Summary of request` section: 
+**Due to privacy concerns, please do not put your email in this ticket.** Instead please use `/support` on the DSVA Slack channel [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support), select `Google Analytics/Domo` in the `Request topic` dropdown menu and then add in the `Summary of request` section: 
  1. This issue's link 
  2. Emails that need access
 

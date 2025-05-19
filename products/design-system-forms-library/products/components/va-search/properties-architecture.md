@@ -1,11 +1,11 @@
-# Properties / Architecture Template
+# va-search-filter: Properties + Architecture Proposal
 
-Copy this template to assist with the initial planning of properties and architecture of a new component.
+Figma Designs: [VADS Templates, Patterns, and Forms ](https://www.figma.com/design/4A3O3mVx4xDAKfHE7fPF1U/VADS-Templates--Patterns--and-Forms?node-id=15688-5938&p=f&t=6dHpwQGULZOoLJuo-0)
 
 ## Properties
 
 |             |          |              |          |                   |              |                                                                  |
-| ----------- | -------- | ------------ | -------- | ----------------- | ------------ | ---------------------------------------------------------------- |
+| ----------- | -------- | ------------ | -------- | ----------------- | ------------ | ---------------------------------------------------------------- 
 | **Release** | **Name** | **Required** | **Type** | **Default Value** | **Platform** | **Description**                                                  |
 | v1          | header   | true        | `string` | Filter             | web/mobile   |  The filter header text. |
 | v1          | filter-options  | true  | string` | Filter             | web/mobile   |  Represents a list of filter facets and their categories. Use a JSON array of objects with label properties. Wrap in a string if not using the React-binding version of the web component. |
@@ -18,16 +18,46 @@ Copy this template to assist with the initial planning of properties and archite
 The component will be composed of several child components:
 
 - va-accordion
-    
 - va-accordion-item
-    
 - va-checkbox-group
-    
 - va-button, or, va-button-pair (if possible based on the design)
 
 For example:
 
-`<va-accordion> <va-accordion-item header="facet (1)"> <va-checkbox-group onVaChange={callback}> <va-checkbox label="category" checked /> <va-checkbox label="category" /> </va-checkbox-group> </va-accordion-item> <va-accordion-item header="facet (1)"> <va-checkbox-group onVaChange={callback}> <va-checkbox label="category" checked /> </va-checkbox-group> </va-accordion-item> </va-accordion> <va-button full-width text="Apply" onClick={callback} /> <va-button full-width secondary text="Clear all filters" onClick={callback} />` 
+```jsx
+<va-accordion>
+  <va-accordion-item header="facet (1)">
+    <va-checkbox-group onVaChange={callback}>
+      <va-checkbox
+        label="category"
+        checked
+      />
+      <va-checkbox
+        label="category"
+      />
+    </va-checkbox-group>
+  </va-accordion-item>
+  <va-accordion-item header="facet (1)">
+   <va-checkbox-group onVaChange={callback}>
+      <va-checkbox
+        label="category"
+        checked
+      />
+    </va-checkbox-group>
+  </va-accordion-item>
+</va-accordion>
+<va-button
+  full-width
+  text="Apply"
+  onClick={callback}
+/>
+<va-button
+  full-width
+  secondary
+  text="Clear all filters"
+  onClick={callback}
+/>
+```
 
 #### Receiving Filter Data
 
@@ -35,25 +65,127 @@ The markup could be rendered using slots but this component will instead render 
 
 **Data Structure received by the** `filter-options` **property**
 
-`[ { label: "Benefits", category: [ { label: "Health Care" }, { label: "Education" }, { label: "Housing" } ] }, { label: "Service Status", category: [ { label: "Veteran" }, { label: "Active Duty" }, { label: "Reservist" } ] } ]`
+```js
+[
+  {
+    label: "Benefits",
+    category: [
+      { label: "Health Care" },
+      { label: "Education" },
+      { label: "Housing" }
+    ]
+  },
+  {
+    label: "Service Status",
+    category: [
+      { label: "Veteran" },
+      { label: "Active Duty" },
+      { label: "Reservist" }
+    ]
+  }
+
+```
 
 **Types** `Filter[]`
 
-`export type FilterFacet = { label: string; category: FilterCategory[]; }; export type FilterCategory = { label: string; checked: boolean; }; export type Filter = FilterFacet[];`
+```js
+export type FilterFacet = {
+  label: string;
+  category: FilterCategory[];
+};
+export type FilterCategory = {
+  label: string;
+  checked: boolean;
+};
+export type Filter = FilterFacet[];
+```
 
 **Displaying Selection Count**
 
-`Filters (3) - facet (1) - [x] category - [ ] category - facet (1) - [x] category - [ ] category - facet (1) - [x] category - [ ] category`
+```html
+Filters (3)
+  - facet (1)
+    - [x] category
+    - [ ] category
+  - facet (1)
+    - [x] category
+    - [ ] category
+  - facet (1)
+    - [x] category
+    - [ ] category
+```
 
 Internal state will need to keep track of the selection counts for displaying the number of selected categories. [We might not need to re-render the component](https://stenciljs.com/docs/state#when-to-use-state "https://stenciljs.com/docs/state#when-to-use-state") after each va-checkbox change so we should try to avoid using the state decorator if possible. Otherwise, use `@State`.
 
-`@Prop() filterOptions?: Filter[] | string; filtersInternal: Filter[]; handleChange() { // update the checked state in this.filtersInternal } onComponentDidLoad() { // map provided filterOptions to this.filtersInternal } <va-accordion-item header="facet (1)"> <va-checkbox-group onVaChange={handleChange}> <va-checkbox label="category" checked /> </va-checkbox-group> </va-accordion-item>`
+```js
+@Prop() filterOptions?: Filter[] | string;
+
+filtersInternal: Filter[];
+
+handleChange() {
+  // update the checked state in this.filtersInternal
+}
+
+onComponentDidLoad() {
+  // map provided filterOptions to this.filtersInternal
+}
+
+<va-accordion-item header="facet (1)">
+  <va-checkbox-group onVaChange={handleChange}>
+    <va-checkbox
+      label="category"
+      checked
+    />
+  </va-checkbox-group>
+</va-accordion-item>
+```
 
 ### Sending Active Filter Data
 
 We should be keeping track of active categories in `filtersInternal` for sending to the server and to any complimentary components (see the active filters component below). The active filters should be sent as a payload with the component’s custom event `VaFilterChange`:
 
-`this.filtersInternal = [ { label: "Benefits", category: [ { label: "Health Care", active: true }, { label: "Education" }, { label: "Housing" } ] }, { label: "Service Status", category: [ { label: "Veteran" }, { label: "Active Duty", active: true }, { label: "Reservist" } ] } ] const filtersActive = filtersInternal .map(facet => ({ ...facet, category: facet.category.filter(category => category.active === true) })) .filter(facet => facet.category.length > 0); filtersActive = [ { label: "Benefits", category: [ { label: "Health Care", active: true } ] }, { label: "Service Status", category: [ { label: "Active Duty", active: true } ] } ]`
+```js
+this.filtersInternal = [
+  {
+    label: "Benefits",
+    category: [
+      { label: "Health Care", active: true },
+      { label: "Education" },
+      { label: "Housing" }
+    ]
+  },
+  {
+    label: "Service Status",
+    category: [
+      { label: "Veteran" },
+      { label: "Active Duty", active: true },
+      { label: "Reservist" }
+    ]
+  }
+]
+
+const filtersActive = filtersInternal
+  .map(facet => ({
+    ...facet,
+    category: facet.category.filter(category => category.active === true)
+  }))
+  .filter(facet => facet.category.length > 0);
+  
+filtersActive = [
+  {
+    label: "Benefits",
+    category: [
+      { label: "Health Care", active: true }
+    ]
+  },
+  {
+    label: "Service Status",
+    category: [
+      { label: "Active Duty", active: true }
+    ]
+  }
+]
+```
 
 ### Mobile / Small Viewport
 
@@ -63,7 +195,30 @@ We can try to do this using CSS using `display` but we may have issues keeping e
 
 The approach we probably will need to do instead is listening for the `resize` event, or, using the [ResizeObserver](https://developer.mozilla.org/en-US/docs/Web/API/ResizeObserver "https://developer.mozilla.org/en-US/docs/Web/API/ResizeObserver") API.
 
-``@Listen('resize', { target: 'window' }) handleResize() { // determine window size and set `isDesktop` boolean. } if (isDesktop) { return ( <Host> <va-accordion> ... </va-accordion> </Host> ) } return ( <Host> <va-accordion> ... </va-accordion> </Host> )``
+```js
+@Listen('resize', { target: 'window' })
+handleResize() {
+  // determine window size and set `isDesktop` boolean.
+}
+
+if (isDesktop) {
+  return (
+    <Host>
+      <va-accordion>
+        ...
+      </va-accordion>
+    </Host>
+  )
+}
+
+return (
+  <Host>
+    <va-accordion>
+      ...
+    </va-accordion>
+  </Host>
+)
+```
 
 **Mobile Display: Header**
 
@@ -71,15 +226,11 @@ The header text is displayed as the parent accordion’s `header` prop instead o
 
 **Desktop**
 
-Open Screenshot 2025-04-07 at 1.38.45 PM.png
+![Filter Desktop - Figma](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/refs/heads/master/products/design-system-forms-library/products/components/va-search/images/figma-filter-desktop.png)
 
-![](blob:https://vfs.atlassian.net/5e96dce7-68c0-485e-b592-a2e73cbc5daf#media-blob-url=true&id=0ddb6d6a-fba4-4d5e-b402-1fa077df54ed&collection=contentId-4014112769&contextId=4014112769&mimeType=image%2Fpng&name=Screenshot%202025-04-07%20at%201.38.45%E2%80%AFPM.png&size=10148&width=331&height=271&alt=)
+**Mobile Web**
 
-**Mobile**
-
-Open Screenshot 2025-04-08 at 11.21.37 AM.png
-
-![](blob:https://vfs.atlassian.net/6ab2e58a-75f8-4a7f-bc0f-0d0eeca68f68#media-blob-url=true&id=7b3e14aa-b743-49c2-989f-3cc1a42b67f9&collection=contentId-4014112769&contextId=4014112769&mimeType=image%2Fpng&name=Screenshot%202025-04-08%20at%2011.21.37%E2%80%AFAM.png&size=9661&width=320&height=250&alt=)
+![Filter Mobile Web - Figma](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/refs/heads/master/products/design-system-forms-library/products/components/va-search/images/figma-filter-mobile-web.png)
 
 **Mobile Display: Parent Accordion**
 
@@ -107,11 +258,8 @@ Future component name ideas:
 - `va-search-active`
     
 - `va-search-active-categories`
-    
 
-Open Screenshot 2025-04-10 at 5.16.25 PM.png
-
-![](blob:https://vfs.atlassian.net/c643242d-3139-4fba-b8e3-9445f7124ef9#media-blob-url=true&id=c97892dc-2ff3-408e-9195-4839ab138206&collection=contentId-4014112769&contextId=4014112769&mimeType=image%2Fpng&name=Screenshot%202025-04-10%20at%205.16.25%E2%80%AFPM.png&size=15521&width=302&height=216&alt=)
+![Filter Pills - Figma](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/refs/heads/master/products/design-system-forms-library/products/components/va-search/images/figma-filter-pills.png)
 
 **Nested Facets**
 
@@ -119,6 +267,6 @@ Will there ever be a need for nested facets (tree)? I think there are better way
 
 **Search API**
 
-Right now [![](https://s3-us-gov-west-1.amazonaws.com/content.www.va.gov/img/design/icons/favicon.ico)VA.gov Home | Veterans Affairs](http://va.gov/) is using [![](https://search.gov/assets/img/favicons/favicon-32x32.png)Search.gov Home](http://search.gov/) for basic lexical search. Faceted search is not implemented but [search.gov supports it](https://open.gsa.gov/api/searchgov-results/#expected-results "https://open.gsa.gov/api/searchgov-results/#expected-results") at least in a limited capacity. This is useful for understanding how a filter request might be made.
+Right now [VA.gov](http://va.gov/) is using [Search.gov](http://search.gov/) for basic lexical search. Faceted search is not implemented but [search.gov supports it](https://open.gsa.gov/api/searchgov-results/#expected-results "https://open.gsa.gov/api/searchgov-results/#expected-results") at least in a limited capacity. This is useful for understanding how a filter request might be made.
 
 > Faceted search offers a set of filters people can use to narrow their results. We support filters for **tags, audience, content type, file (MIME) type, and three custom use fields**. To enable faceted search on your results page, use the parameters below. You must set include_facets=true for these parameters to be applied.

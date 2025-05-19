@@ -23,6 +23,25 @@ Adoption is our key performance indicator. We’ll track Veteran engagement and 
 * Total number of views of the Proof of Veteran Status Card. We expect this to increase over the baseline, which will be updated once numbers are provided by Alex, per month.   
 * Views of each error message. We expect this to be a non-zero amount across all error messages and will track the number of times each error message is surfaced to determine whether additional granularity could be helpful in the future.
 
+### Table of the Key Performance Indicators 
+Feature went live on 4/22/2025
+
+|  | 03/2025 | 04/2025 | 05/2025 | 06/2025 | 07/2025 | 08/2025 | 09/2025 |
+| ----- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Total number of views** | 479k | 557k |  |  |  |  |  |
+| **NOT\_TITLE\_38** (error message) | No Data |  |  |  |  |  |  |
+| **Not NOT\_TITLE\_38** (error message) | No Data |  |  |  |  |  |  |
+| **ERROR Not Confirmed** (error message) | No Data |  |  |  |  |  |  |
+
+* NOT\_TITLE\_38 error message: This message on the FE states **You're not eligible for a Veteran Status Card**.
+* Not NOT\_TITLE\_38 error message: This  message on the FE states **There's a problem with your discharge status records**.
+* ERROR Not Confirmed message: This message on the FE states **Something went wrong**.
+
+Additional Notes:
+* The total number of views of the proof of Veteran Status Card is pulled from the [Monthly Mobile Metrics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/analytics/README.md#march-2025).
+* BE metrics is tracked trhough Data Dog (link to come).
+* FE metrics is tracked through Firebase (link to come). 
+
 ### Supporting OCTO OKRs:
 
 O1: VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.

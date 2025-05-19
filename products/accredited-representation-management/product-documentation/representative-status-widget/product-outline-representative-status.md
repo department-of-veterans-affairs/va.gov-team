@@ -47,7 +47,7 @@ Our goal is to provide Veterans and claimants with visibility into their current
 
 ## **Measuring Success**
 
-Monthly performance metrics are currently documented in SharePoint: the [Performance Metrics](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FAccredited%20Representation%20Management%2FPerformance%20Metrics&viewid=3fa7a9bb%2D3d4e%2D44c2%2Db93f%2D629268a08e72) folder includes raw data, which is summarized in the monthly [Sprint Report](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FAccredited%20Representation%20Management%2FVeteran%20Facing%20Sprint%20Reports%20and%20Demos&viewid=3fa7a9bb%2D3d4e%2D44c2%2Db93f%2D629268a08e72) decks.
+Performance is tracked in the [ARM: Representative Status](https://vagov.ddog-gov.com/dashboard/ttj-p2z-9gh/arm-representative-status?fromUser=false&refresh_mode=sliding&from_ts=1745099169063&to_ts=1747691169063&live=true) Datadog dashboard
 
 We are actively working with the Platform Analytics team to visualize our [ARM OKRs](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718224425278/b300ea8d63dcaaa0cdad0ebf6b4a65a20fcc9371?sender=ubac5f0487f25bc4431288699) in a Domo dashboard.
 
@@ -74,31 +74,21 @@ Included widget states:
 - Authenticated, represented by individual (200)
 - Error (401, 404, 500, 502, 503, 504)
 
-### Version 2.0 – Released May XX, 2025
+### Version 2.0 (in Profile/MyVA) (Demo TBD)
 
-**Key updates:**
+Representative Status 2.0 introduces the same states as the widget (version 1.0), but on a dedicated Profile subpage. **This release is scheduled to begin in May 2025.**
 
-- Added LOA1-specific state prompting users to verify their identity
-- Added Profile subpage at [https://www.va.gov/profile/accredited-representative](https://www.va.gov/profile/accredited-representative)
-- Added MyVA Dashboard link to the Profile subpage
-- Updated error-handling behavior and messaging
-- Added handling for "incompetent" users and those with fiduciaries (these users see an account security warning)
+The URL for this Profile subpage is https://va.gov/profile/accredited-representative. There is also a link to this Profile subpage on MyVA, in the Claims and Appeals section titled “Get help from your accredited representative or VSO”. The URL for MyVA is https://va.gov/my-va.
 
-**User states now supported:**
+The Representative Status Profile subpage can only be accessed by LOA3 users. This subpage is not available to:
 
-1. **Unauthenticated** – Prompt to sign in
-2. **LOA1** – Prompt to verify identity
-3. **LOA3, no representative** – Message shown indicating no rep is on file
-4. **LOA3, represented by VSO** – Displays VSO information
-5. **LOA3, represented by individual (attorney or agent)** – Displays individual rep info
-6. **Incompetent / fiduciary users** – Warning that information cannot be shown
-7. **Error** – Generic error with support guidance
-
-All authenticated states include a link to the [FAQ page](https://www.va.gov/resources/va-accredited-representative-faqs/) for more help.
+1. LOA1 users. These users can only see an "Account security" page with a warning to verify their identity.
+2. Users classified as "incompetent". These users can only see an "Account security" page with a warning "We can't show your information".
+3. Users with a fiduciary appointed. These users can only see an "Account security" page with a warning "We can't show your information".
 
 ## **Future Plans and Ideas**
 
-Longer-term ideas for Find a Representative are stored in the [ARM Future Ideas](https://dsva.slack.com/docs/T03FECE8V/F06JUJ4CR19) Slack canvas.
+Longer term ideas are stored in our[ ARM Future Ideas](https://dsva.slack.com/docs/T03FECE8V/F06JUJ4CR19) Slack canvas.
 
 ## **Communications**
 

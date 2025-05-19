@@ -1,5 +1,89 @@
 # Running Design and Research Agenda
 
+
+## 05/19/25 IVC Design Sync
+
+**Attendees:** Amanda, Andrea, Jamie, Renata, Mike
+
+### Agenda
+
+* UX roadmap
+* OHI: what we learned from Alli about the Medicare section
+* 10-7959a claims resubmits WIP
+* 10-10d/OHI merge: usability testing updates
+* Upload verification with LLM
+
+**Notes**
+
+**UX roadmap**
+
+* Overview of what's in the sprint, what's closing, what's next
+* **AI:** Reminder to add notes about when something is blocked on the board, and WHY
+* **AI:** Add the LLM upload verification to now/next/later (testing with users, designing error messages -- don't think this will be much more of a UX lift than that)
+
+
+**OHI/Medicare**
+
+* Jamie summarizes correspondence with OHI SME: no major updates, will show example cards when/where we can, planning to take this to ADE office hours for approval of alt text
+* Do we know what the timeline is to get feedback from ADE on alt text?
+    * They seem to swarm pretty quickly, so Jamie will put in the ticket/request to the ADE team soon
+* Can we hand this off to engineers while we're waiting on alt text?
+    * Andrea: Don't see why not
+    * **AI:** Confirm with engineers if they're able to add alt-text later
+
+
+**10-7959c claims resubmits WIP**
+
+* Jamie updated the flow based on feedback from the CHAMPVA claims team
+* PDI/batch number question (or send back letter) question should probably be optional, not required
+    * Jamie baked in logic so if users say YES, they will upload the letter or provide the PDI/batch number
+    * If user marks NO, they will be asked to provide provide name and date of service
+* Andrea notes that PEGA will have to display additional fields for name of provider and date of service
+	* Pega does PI planning the week of 6/21 and that covers 6 sprints
+	* **AI:** confirm with PEGA around those additional fields 
+* Jamie wants to know if it would be helpful to have a document labeler on the upload screen (including options for itemized bill/superbill, EOB and pharmacy statement (?)
+    * Amanda asks if we bake in pharmacy/medical logic into the resubs flow
+        * Jamie tried to add prompts for both medical and pharmacy claims on fields
+        * Renata points out that's asking for 2 things per form field, and there's the potential for errors (assuming they need to provide their prescribing physician name)
+        * **AI:** Amanda wants to advocate for branching logic for medical/rx claim, and then we can omit the document labeler
+    * Let's ask CHAMPVA claims folks if it's useful to label the documents
+        * Maybe something to consider for the LLM exploration? Just reserve the mocks for later if/when we know the LLM's capabilities
+        * **AI:** Ask engineers if that's needed
+
+**10-10d/OHI merge usability research planning**
+
+* Testing with AT users: we didn’t get to do a lot of testing the first time around because of no-shows and the wrong tech being used by users. It would be beneficial to get extra insight from AT users being that we were not able to during the first time with the 1010d. This ADE team may be able to help recruit more this time around.
+    * **AI:** Talk to ADE about AT user recruitment (we want to include them in our testing)
+* Test split should be about 80-20 Veterans and dependent spouses/children
+* Auth/unauth users in staging? From DataDog:
+    * 82% authenticated submissions
+    * 11.5% unauth
+    * 6% verified by email
+* Timeline:
+    * We are estimating 60-90 minutes time slots for participants
+    * Hoping to do a kick off with Perigean next week.
+    * We will run research sessions with users during the first 2 weeks of June and planning to do analysis during testing.
+* Didn't have time to ask: 
+    * Can we reserve some staging users for testing? 
+    * Do we want a split of participants who are already in CHAMPVA and those who haven't applied yet?
+
+
+**Upload verification with LLM**
+
+* If we're testing with users, we'll have to create dummy docs (EOBs, etc.) - are we allowed to do that?
+* Does the high level of effort required to build in staging necessitate usability testing pre-staging? Are there limitations around testing a v0 prototyping for something we're trying to build for va.gov?
+	* Amanda wants the data we collect to be valid, based on how we choose to do the testing
+
+## May 19 2025
+Attendees: Jamie Fiore, Renata Keck, Premal Shah, Amanda Klausmeier, Andrea Merrill, Mike Mooney
+### Agenda Topics
+* UX Roadmap
+* Learning what we learned from Alli (OHI) are comfortable moving forward with the Medicare section?
+* Touchbase on Claims Resubmits. Here's the WIP Figma
+* Usability testing for the 10-10d/OHI merge: quick tb re: methodology and approach
+
+ ### Notes
+
 ## May 12 2025
 Attendees: Jamie Fiore, Renata Keck, Rachel Pope, Premal Shah, Amanda Klausmeier, Andrea Merrill, Mike Mooney
 ### Agenda Topics

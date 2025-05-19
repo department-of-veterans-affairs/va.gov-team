@@ -16,6 +16,7 @@ Not every decision a project makes gets recorded in the Decision Log. When to in
 
 | Date | Decision Title | Summary | Decision & Reasoning | Made By | Status
 |---|---|---|---|---|---|
+|5.16.25 |4142 version update |  Decision Reviews team taking lead on Backend | The 4142 backend is shared by the Decision Reviews and Disability teams and both teams share similar code pathways. DR will refactor both nearly-identical 4142 processors for 0995 and 526 forms. The design work for shared components to create a consistent UI experience, will be come at a later juncture. But Disability will begin to explore the frontend experience content design in the interim  | Grace Xu & Kyle Soskin | <code>Resolved</code>
 |5.8.25 |Notifying IPF users |  Users with an In-Progress form won't be notified about a new form | We’re putting this on hold for now. The rationale is it’s too difficult to provide folks with the right details to make an empowered decision, and for the most part VBA can process legacy 0781/a effectively enough without having to have folks submit new 0781s. This may be potentially revisited once we’ve rolled out the 0781 at 100% to new users. | Emily Theis & David Reis | <code>Resolved</code>
 
 Old decisions: 

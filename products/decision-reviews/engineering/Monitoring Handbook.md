@@ -1,4 +1,22 @@
-## Decision Reviews Monitoring Handbook
+# Decision Reviews Monitoring Handbook
+# Table of Contents
+- [Background](#background)
+- [Logging](#logging)
+- [Monitoring](#monitoring)
+    - [Tools and Access Required](#tools-and-access-required)
+    - [Monitor Triage Duty [**Pending Process Changes**]](#monitor-triage-duty-pending-process-changes)
+    - [Creating a Bug Ticket](#creating-a-bug-ticket)
+    - [Types of Alerts](#types-of-alerts)
+    - [How to Triage Alerts](#how-to-triage-alerts)
+      - [Alert Priority Levels](#alert-priority-levels)
+      - [General Approach](#general-approach)
+      - [Traffic Anomaly Alert Investigation Tips](#traffic-anomaly-alert-investigation-tips)
+      - [Error Investigation Tips](#error-investigation-tips)
+      - [Finding Files in S3](#finding-files-in-s3)
+- [Google Analytics](#google-analytics)
+- [Real User Monitoring](#real-user-monitoring)
+- [Useful Links](#useful-links)
+- [Footnotes](#footnotes)
 
 ## Background
 
@@ -19,9 +37,19 @@ While building more comprehensive logging and monitoring for the NOD form, we es
 
 The enumerated monitors below (see “Monitors” sections below) are configured to send alerts to #benefits-decision-reviews-notifications channel in VA’s Slack.  The channel contains alerts from our Decision Reviews apps only.  [TBD - Rotating Monitor Triage Duty role for monitoring this channel]
 
+## Tools and Access Required
+Refer to [VA Platform documentation](https://depo-platform-documentation.scrollhelp.site/getting-started/request-access-to-tools) for details. You will need access to:
+- Slack
+- SOCKS Proxy 
+- Datadog
+- ArgoCD (needed for vets-api terminal and Rails console access)
+- Vets API Rails console
+- AWS
+- PagerDuty (currently only used to manage rotations)
+
 ### Monitor Triage Duty [\*\*Pending Process Changes\*\*]
 
-Every sprint, at least one engineer is assigned to monitor the #benefits-decision-reviews-notifications channel and triage any alerts that pop up during the sprint.  That engineer’s monitor triage work is represented by a ticket like [this one](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77054).  Please note the description in the linked ticket.  The goal of monitor triage is _not_ to immediately resolve any bugs that arise.  Rather, the goal is to conduct a preliminary investigation to determine whether no follow up is necessary, or if follow up is necessary, to draft a ticket to be discussed and prioritized at the next standup (see “Creating a Bug Ticket” below).  Traditionally, we have assigned 2 points to this ticket.
+Every sprint, at least one engineer is assigned to monitor the **#benefits-decision-reviews-notifications** channel and triage any alerts that pop up during the sprint.  That engineer’s monitor triage work is represented by a ticket like [this one](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77054).  Please note the description in the linked ticket.  The goal of monitor triage is _not_ to immediately resolve any bugs that arise.  Rather, the goal is to conduct a preliminary investigation to determine whether no follow up is necessary, or if follow up is necessary, to draft a ticket to be discussed and prioritized at the next standup (see “Creating a Bug Ticket” below).  Traditionally, we have assigned 2 points to this ticket.
 
 During that duty, it is important to respond promptly to any alerts and keep VA stakeholders informed of our investigations.  To indicate that you are looking into an alert, react to the alert with an 👀 emoji.  If the alert was a false alarm, or otherwise resolved, react to the alert with an ✅ emoji, and leave an explanatory comment.  Here is [an example](https://dsva.slack.com/archives/C05UPRR0HK3/p1710712459247059).  If you end up creating a follow-up ticket, post a link to the ticket in the alert’s thread, and leave any other notes you think our VA stakeholders may find helpful.
 
@@ -60,23 +88,73 @@ Error alerts are triggered when the number of errors related to some kind of act
 
 ### How to Triage Alerts
 
-#### Traffic Anomalies
+#### Alert Priority Levels
+Alerts will typically have a priority rating, from P1 being the most critical to P5 being the least. You can view the full list of our monitors and their corresponding priorities in Datadog [here](https://vagov.ddog-gov.com/monitors/manage?q=benefits-decision-reviews-notifications). The team should follow typical guidelines based on the severity of the alert:
+- **P1**: Critical - Immediate response (minutes); complete service outage affecting all users; 24/7 continuous work until resolved
+- **P2**: High - Response within 30-60 minutes; major functionality broken affecting many users; business hours plus extended coverage
+- **P3**: Medium - Same-day response during business hours; non-critical functionality affected; expected resolution within 1-2 business days
+- **P4**: Low - Scheduled response during normal business hours; minor issues with minimal user impact; expected resolution within 1-2 weeks (current sprint)
+- **P5**: Informational - Backlog response with no specific timeframe; no current impact; preventative or improvement opportunities 
+Our current alerts range from P3-P5 and should be addressed accordingly.
+
+#### General Approach
+When monitoring alerts, our primary concern is identifying permanent failure states in form submissions or evidence uploads. In these critical scenarios, our mitigation protocol centers around email notification delivery through [VANotify](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-notify).
+
+Generally speaking, for form or evidence submission errors, we want to first verify that notification emails have been successfully delivered. In the case of email delivery failure, we can then check if the form or file still made it to Lighthouse/downstream systems despite the initial failure (this has previously been known to happen occasionally). Very rarely, when both the email failed to send and the submission failed to upload, you may need to reach out to the enablement team and Contact Center for further remediation.
+```mermaid
+flowchart LR
+    A[Error Alert in Slack] --> B{Notification Email Sent?}
+    B -->|Yes| C[Mitigation Complete]
+    B -->|No| D{Form/File Uploaded?}
+    D -->|Yes| E[Mitigation Complete]
+    D -->|No| F[Raise with Enablement Team/Consider using Contact Center for Remediation]
+```
+
+#### Traffic Anomaly Alert Investigation Tips
 
 When investigating a traffic anomaly, you should consider the following factors: the time of day, the day of the week, whether it was a holiday or otherwise special day, whether traffic was anomalously high or low,[^5] what traffic has looked like on that same day at that same time in previous weeks and months, whether there were any known outages or maintenance windows during that time, whether we recently pushed any code, whether the drop in traffic corresponded with the daily deploy, and the length of the anomaly.  This is a non-exhaustive list.
 
-#### Errors
+#### Error Investigation Tips
+1. **Isolate the Time Frame**
+   - Use click and drag on the timeseries or the time field to highlight the narrow time range where the error occurred
+   - Use the "Pin" option for that time in DataDog for consistent reference
+     ![Screenshot 2025-05-15 at 5 18 44 PM](https://github.com/user-attachments/assets/4be75fd5-33d0-495f-abbd-6f5aa93dd689)
 
-Every error is different, but here are some general tips for investigating error alerts.  First, use the click and drag function to highlight the narrow time range where the error occurred, and pin that time in DataDog.  Then, go to the dashboard corresponding to the alert and track down relevant charts, and especially any log widgets.
+2. **Review Dashboard Data**
+   - Navigate to the dashboard corresponding to the alert
+   - Use relevant charts and log widgets as a jumping off point for further investigation
 
-You can oftentimes find the backtrace for an error by clicking on a log’s “trace” tab, clicking “View Trace Details,” and then clicking “Errors.”
+3. **Locate Error Backtraces**
+   - Click on a log's "Trace" tab  
+    ![Screenshot 2025-05-15 at 5 20 30 PM](https://github.com/user-attachments/assets/eae28e91-29b9-48aa-b24a-3ccdbbc0aab1)
+       - Click "View Trace in APM"  
+        ![Screenshot 2025-05-15 at 5 21 09 PM](https://github.com/user-attachments/assets/51ac7be8-b41e-47b4-9b63-c94cfbd57c72)
+       - Click "Errors" or "Logs" in the **Span** section at the bottom of the screen for related details  
+        ![Screenshot 2025-05-15 at 5 21 33 PM](https://github.com/user-attachments/assets/a0249d41-a772-41b2-8e6a-cc45dfebb446)
+   - Alternatively, click on the "View in Context" button on a log to see other related logs from around the same time
+    ![Screenshot 2025-05-15 at 5 22 37 PM](https://github.com/user-attachments/assets/2b7ae53a-5222-4a8f-8c5c-f4961dc41b2b)
 
-Many logs contain a user_uuid that you can use to find related errors in Sentry (via the `user.id` parameter) if there are not enough details from the DataDog trace. Keep in mind that there are plans to sunset our use of Sentry, so if you find a specific case where there is additional logging that is only being sent to Sentry, please create a ticket to cover adding similar logging to DataDog. [Here is an example](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90265) of that kind of ticket.
+4. **User-Specific Errors**
+   - Many logs contain a `user_uuid` for tracking related errors. Note that due to a broader VA.gov [refactoring effort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/user_uuid%20Refactor/user_uuid_refactor_faq.md) to move away from using `user_uuid`, you may need to look for and start logging `user_account_id` instead. 
+   - Previously, Sentry could be searched for the `user.id` parameter when DataDog has insufficient details. However, Sentry has since been sunset and tickets like [this one](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90265) were created for fleshing out missing DataDog logging.
 
-Job logs contain a `@named_tags.jid` that you can use to find other logs associated with the job.  This can help you determine, among other things, whether a failed job succeeded on retry.  You can find job logs using the `class` and `jid` of the job (e.g. `@named_tags.class:"DecisionReview::SubmitUpload" @named_tags.jid:12345`).
+5. **Job-Related Errors**
+   - Job logs contain `@named_tags.jid` that you can use to find other logs associated with the job
+   - Useful for things like determining if failed jobs succeeded on retry
+   - Find logs using class and jid, e.g.:
+     ```
+     @named_tags.class:"DecisionReview::SubmitUpload" @named_tags.jid:12345
+     ```
 
-#### Inspecting InProgressForm Data
+6. **Inspecting InProgressForm Data and Using Rails Console**  
+   When debugging a submission blocking error, it can be helpful to inspect the user’s `InProgressForm` data. The `InProgressForm` data shows what information the Veteran indicated, and the metadata shows, among other things, error messages the Veteran has experienced. In addition to the user's unique identifier, you will need **ArgoCD** and **vets-api terminal access** in order to do this. See [Script](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/engineering/scripts.md#get-inprogressform-data). As a general rule of thumb, it's good practice to run the Rails console for querying user information with the `--sandbox` flag, e.g. `bundle exec rails console --sandbox` in case any accidental updates are made.
 
-When debugging a submission blocking error, it can be helpful to inspect the Veteran’s InProgressForm data.  See [Script](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/engineering/scripts.md#get-inprogressform-data).  The form data shows what information the Veteran indicated, and the metadata shows, among other things, error messages the Veteran has experienced.
+   Here are a few Slack channels here where you can find updates about maintenance windows, software upgrades, CI updates, API outages, etc.:
+   - #vfs-platform-support
+   - #vfs-all-teams
+   - #vfs-backend
+   - #vfs-frontend
+   - #platform-cop-frontend
 
 #### Finding Files in S3
 
@@ -124,6 +202,7 @@ And all 3 [decision review forms have the same settings](https://github.com/depa
 
 We also have [browser monitoring enabled](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/appeals/shared/utils/useBrowserMonitoring.js#L80) (set up based on RUM initialization code) which records the validation errors which helped us discover the source of validation problems on the review & submit page. Users were getting blocked due to an unexpected validation error - this is why the Supplemental Claims dashboard includes a “Review & Submit Page Validation Errors” & “Top List”. We caught a issue due to partial evidence data within the form data causing schema validation to block form submission.
 
+# Useful Links
 ## Notice of Disagreement
 
 ### Dashboards

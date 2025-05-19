@@ -1,8 +1,8 @@
 ---
 name: ARF Design Research Issue
-about: Research issue for the ARF Design Team
+about: UX (design, research or content) issue for the ARF Design Team
 title: ''
-labels: accredited-rep-facing, research
+labels: accredited-rep-facing, ux
 assignees: ''
 type: Task
 

@@ -4,7 +4,6 @@
 
 ### Members, Level 1
 - **Ruben Sun**, UX researcher and designer on Benefits Team 1
-- **Ade Ajayi**, Researcher on MHV
 - **Anne Costello**, ResearchOps lead on the MHV and MHV on VA.gov UCD team ✔️
 - **Rocio De Santiago**, Front end developer on Benefits Decision Reviews ✔️
 - **Cara Frissell**, Research Lead for the Cartography team ✔️

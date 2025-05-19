@@ -61,7 +61,7 @@ Before we start, I want to go over a few things:
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. We're testing a website to learn how we can make it easier to use. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
 - **Your participation in this interview is completely voluntary.** Whether or not you choose to participate will not affect your benefits with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Just let me know.
 
-- I would like to record my screen and audio to confirm that I’ve captured your opinions accurately and sometimes share video clips with our colleagues at the VA to show user feedback. If we do this, we don’t link anything you choose to share in the session to any information that identifies you, and we remove your face and name from any videos that we share.
+- Finally, I would like to record my screen and audio to confirm that I’ve captured your opinions accurately and sometimes share video clips with our colleagues at the VA to show user feedback. If we do this, we don’t link anything you choose to share in the session to any information that identifies you, and we remove your face and name from any videos that we share.
 **Knowing this, are you comfortable if I record my screen and audio as we talk today?**
   - *(If yes:)* Once I start recording, I am going to confirm once more that you are ok with me recording this session.
 
@@ -87,8 +87,12 @@ In the bottom toolbar of the Zoom window, click the arrow next to **SHOW CAPTION
 - Great, now I can see your screen! Thank you for your patience in figuring this out.
 
 - iPad: **Broadcast screen**
+## Troubleshooting
 - [Avoid **AI Companion**, which is a new option next to “Share” in the Zoom buttons]
 
+- [If see **unpredictable jumping around** behavior and participant is using a browser other than Chrome, ask them to switch to Chrome (this helped with VoiceOver on an iPhone using Safari)]
+
+- [If having **difficulty moving windows around** or opening the prototype, you could request control of the participant’s screen and mouse in Zoom: `<Name>’s screen tab > Request remote control`. Then you can move/resize browser (but not zoom windows/buttons) and type into browser bar. The participant may need to minimize the zoom video view, and drag the zoom buttons to the bottom of the screen so out of the way.]
 
 # Warm-up Questions - 5 minutes
 

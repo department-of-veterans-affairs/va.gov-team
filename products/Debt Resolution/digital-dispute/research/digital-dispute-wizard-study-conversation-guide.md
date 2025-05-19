@@ -239,7 +239,7 @@ Before we move on to this next section, I have some questions about the pages yo
 
 -   We want to know your thoughts on how easy or difficult the experience you reviewed is. When you answer this question, think about how easily you would find information you are most interested in
     
--   On a scale from 1 to 5 with 1 being not easy at all, and 5 being very easy, how easy were the pages you reviewed?
+-   On a scale from 1 to 5 with 1 being not easy at all, and 5 being very easy, how easy were the pages you reviewed? [how easy would it be to find the information you are most interested in?]
     
 -   Why did you rate it a (rating)?
     

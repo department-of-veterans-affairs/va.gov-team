@@ -1,12 +1,12 @@
 ---
 
 name: "DMT: Design Issue"
-about: Use this ticket to track bugs.
+about: Use this ticket to track design work.
 title: "DMT: [Form or initiative] - [issue title]"
 labels: dependents-benefits, design
 assignees: ''
 type: task
-projects: Life Stages - Benefits Dependents Experience+LSS Team
+projects: department-of-veterans-affairs/1237
 
 ---
 
