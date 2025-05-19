@@ -45,7 +45,7 @@ Our immediate goal for the Representative Status is to provide Veterans and clai
 
 ## **Measuring Success**
 
-Monthly performance metrics are currently documented in Sharepoint: the [Performance Metrics](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FAccredited%20Representation%20Management%2FPerformance%20Metrics\&viewid=3fa7a9bb%2D3d4e%2D44c2%2Db93f%2D629268a08e72) folder includes raw data, which is summarized in the monthly [Sprint Report](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FAccredited%20Representation%20Management%2FVeteran%20Facing%20Sprint%20Reports%20and%20Demos\&viewid=3fa7a9bb%2D3d4e%2D44c2%2Db93f%2D629268a08e72) decks.
+Performance is tracked in the [ARM: Representative Status](https://vagov.ddog-gov.com/dashboard/ttj-p2z-9gh/arm-representative-status?fromUser=false&refresh_mode=sliding&from_ts=1745099169063&to_ts=1747691169063&live=true) Datadog dashboard
 
 We are actively working with the Platform Analytics team to visualize our[ ARM OKRs](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718224425278/b300ea8d63dcaaa0cdad0ebf6b4a65a20fcc9371?sender=ubac5f0487f25bc4431288699) in a Domo dashboard at a future time.
 
@@ -81,15 +81,22 @@ The following widget states are displayed, based on the status code returned fro
    3. Status code 500, 502 and 503 (missing ICN, likely LOA1 users)
    4. Status code 504 (timeout issue, likely related to an ongoing issue with timeouts during vets-api deployments)
 
+### Version 2.0 (in Profile/MyVA) (Demo TBD)
+
+Representative Status 2.0 introduces the same states as the widget (1.0), but on a dedicated Profile subpage. **This release is scheduled to begin in May 2025.
+
+The URL for this Profile subpage is https://va.gov/profile/accredited-representative. There is also a link to this Profile subpage on MyVA, in the Claims and Appeals section titled “Get help from your accredited representative or VSO”. The URL for MyVA is https://va.gov/my-va. 
+
+The Representative Status Profile subpage can only be accessed by LOA3 users. This subpage is not available to:
+1.	LOA1 users. These users can only see an "Account security" page with a warning to verify their identity.
+2.	Users classified as "incompetent". These users can only see an "Account security" page with a warning "We can't show your information".
+3.	Users with a fiduciary appointed. These users can only see an "Account security" page with a warning "We can't show your information". 
+![image](https://github.com/user-attachments/assets/e795c2b2-13f4-495d-ad4a-adb90852bc46)
+
 
 ## **Future Plans and Ideas**
 
-When the [Appoint a Representative product](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/product-documentation/appoint-a-representative) is released, the Representative Status widget will be included in the user flow to help users understand if they have existing representation, and that any requests for new representation will replace their current appointed representative.
-
-We are also partnering with the Profile and MyVA teams to include a version of the representative status information that better matches existing design patterns.
-
-While timeline is TBD, ideas for the next version are stored in our [Representative Status v2](https://dsva.slack.com/docs/T03FECE8V/F07UPV3TKUM) Slack canvas. Longer term ideas for Find a Representative are stored in our[ ARM Future Ideas](https://dsva.slack.com/docs/T03FECE8V/F06JUJ4CR19) Slack canvas.
-
+Longer term ideas are stored in our[ ARM Future Ideas](https://dsva.slack.com/docs/T03FECE8V/F06JUJ4CR19) Slack canvas.
 
 ## **Communications**
 
