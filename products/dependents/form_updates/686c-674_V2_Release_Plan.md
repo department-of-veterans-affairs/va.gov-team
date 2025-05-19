@@ -119,7 +119,7 @@ Mitigation: Controlled rollout using `va_dependents_v2`, review of in-progress f
 ## Responsibilities
 
 - **Engineering (Evan, Robin):** Maintain alert logic, investigate errors, ensure proper tagging of V2 claims
-- **Monitoring (Laura, Matt):** Build and maintain dashboards, configure alerts, confirm filtering logic
+- **Monitoring (Tai):** Build and maintain dashboards, configure alerts, confirm filtering logic
 - **Product (Jacob):** Drive go/no-go decisions, maintain readiness documentation, track follow-up work
 - **Stakeholders (Sanja, Caleb):** Validate downstream impact, confirm VBMS and RBPS behavior
 - **Entire Team:** Expected to respond to alerts and surface anomalies immediately
