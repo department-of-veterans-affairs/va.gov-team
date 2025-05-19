@@ -18,15 +18,19 @@ The 686c/674 V2 release introduces significant backend and payload changes, incl
 ## Key Risks and Mitigations
 
 **Risk: Incorrect or malformed payloads cause unexpected routing behavior**
+
 Mitigation: Structured test payloads, end-to-end validation with RBPS
 
 **Risk: Spike in claims routed to manual processing**
+
 Mitigation: Datadog alerting on `manual_vagov` rate, regression coverage
 
 **Risk: PDF generation or mapping errors in VBMS**
+
 Mitigation: Maximal payload verification, field-level checks for common submission types
 
 **Risk: BE changes  lead to routing failures**
+
 Mitigation: Controlled rollout using `va_dependents_v2`, review of in-progress form handling
 
 ---
