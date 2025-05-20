@@ -10,10 +10,22 @@ We've outlined the API endpoints, data, and use cases the team confident in, as 
 3. Map the API endpoints I can use to reason about business logic in Goal #2
 4. Get consensus from stakeholders about Goals 1-3
 
+> [!IMPORTANT]
+> The following section supersedes previous discussions and represents what we believe to be the final direction for displaying Benefit Summary Letter checkboxes and labels.
+
+## Decisions reached from Benefits Letters Checkboxes sync-up meeting on 5/25/25
+After meeting with stakeholders on May 13, 2025, we decided to simplify the Benefit Summary and Service Verification Letter logic. Broadly speaking, we settled on the following:
+
+1. Use the Lighthouse data as the single source of truth for what checkbox options to show
+1. All frontend logic to determine what to show or hide will be removed
+1. The only logic required on the frontend will map benefit datato the friendly checkbox labels developed by the BMT II design and content specialists.
+1. The only letter that currently displays checkboxes is the Veteran benefit summary letter. Non-Veteran benefit summary letters are generated without options. This is the current behavior and will be continued.
+1. The [/v0/letters/beneficiary](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/benefits_status/getLettersBeneficiary) is our API source of truth. Specifically the `benefit_information` object.
+
 ## Original Slack thread
 * https://dsva.slack.com/archives/C02CQP3RFFX/p1743426933303629 thread capturing all the data gathered so far about user type.
 
-## Additional findings from 3/21
+## Additional findings from 3/21/25
 The `VeteranBenefitSummaryLetter` React component (vets-website) calls several endpoints to populate the Benefit Summary letter checkboxes correctly. It appears the current logic assumes all users are veterans (not dependents) and references an old issue from vets.gov that we weren't able to find. This logic can be viewed on [line 213](https://github.com/department-of-veterans-affairs/vets-website/blob/575faac12a020577a08d5e81935f4a289d489e32/src/applications/letters/containers/VeteranBenefitSummaryLetter.jsx#L213) of the component. Also added here in a code block.
 
 ```javascript
@@ -120,7 +132,7 @@ Statements we know to be true, and endpoints we can use to validate them. These 
 ## Next steps
 Quickly summarizing what steps remain before we can move ahead with the development effort
 
-* [] Confirm business logic for user groups. This is currently being undertaken in an async email thread.
-* [] Review API endpoints for relevant data to support business logic
-* [] `IF NECESSARY` Follow up with API team(s) to update data returned from endpoint(s)
-* [] Document relevant API endpoints and data used to translate business logic into UI layout
+* [x] Confirm business logic for user groups. This is currently being undertaken in an async email thread.
+* [x] Review API endpoints for relevant data to support business logic
+* [] ~~`IF NECESSARY` Follow up with API team(s) to update data returned from endpoint(s)~~
+* [x] Document relevant API endpoints and data used to translate business logic into UI layout
