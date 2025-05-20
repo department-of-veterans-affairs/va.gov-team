@@ -157,8 +157,10 @@ THIS IS JUST AN IDEA WE CAN CONSIDER -  TO OPERATIONALIZE IT A BIT
 
 
 ## Frontend
+All changes behind: `my_va_auth_exp_redesign_enabled` (a FE & BE toggle)
 
 ## Backend
+All changes behind: `my_va_auth_exp_redesign_enabled` (a BE & FE toggle)
 
 ## Security 
 
