@@ -22,7 +22,7 @@ Paralyzed Veterans with limited or no arm mobility face significant barriers whe
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | Backup Codes | Login.gov, ID.me | Pre-generated codes for MFA. | No real-time device interaction; can be read aloud. | Limited codes; needs secure storage. | Moderate |
 | Phone Call MFA Code | Login.gov, ID.me | Code via phone call. | No mobile device needed; code audible. | Setup and code entry may need assistance. | Low-Moderate |
-| SMS or Autenticator App code | Login.gov, ID.me  | Codes delivered via SMS or App. |  | Requires extensive know of device specific assistive tech  | Low |
+| SMS or Authenticator App code | Login.gov, ID.me  | Codes delivered via SMS or App. | Codes are easy to read. | Requires extensive knowledge of device specific assistive tech | Low |
 | Security Key | Login.gov | Physical key for authentication. | Secure and reusable. | Requires physical insertion. | Very Low |
 | Passkeys (Face/Touch Unlock) | Login.gov, ID.me | MFA using facial recognition, fingerprint, or PIN; FIDO2-based. | Streamlined; biometric option. | Requires device positioning or touching.  | Very Low |
 
