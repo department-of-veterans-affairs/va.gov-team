@@ -16,6 +16,10 @@ Copy this template to assist with the initial planning of properties and archite
 
 The high-level vision behind the component’s architectural direction which could include how it will handle properties/data, present markup, its flexibilities and constraints. This might also be a good place to list features.
 
+## Tests (e2e & unit)
+
+Tests that will be written for the component.
+
 ## Future Considerations
 
 If this is an MVP, we should outline anything that we might need to account for in future iterations of the component.
