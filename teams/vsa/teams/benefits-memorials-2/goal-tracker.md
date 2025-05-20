@@ -130,11 +130,11 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 |UX: Refine Pay.gov user flows based on stakeholder feedback and tech guidelines. | QP6 |--|--|--|
 |ENG: Implement the ability to use international phone numbers in the portal. | N/A |--|--|--|
 |ENG: Complete at least 5 FE Digital Dispute tickets (66% of the remaining FE tickets for the initiative). | QP4 |--|--|--|
-|ENG: Obtain the credentials from pay.gov to be added to the portal environment. |QP6|--|--|--|
+|ENG: Define, request and begin setup for any provided credentials from pay.gov to be added to the portal environment. |QP6|--|--|--|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [X] Ready to be sent for approvals (05/19/25)
- - [ ] VA PO & COR sent the Sprint Goals (05/xx/25)
+ - [X] VA PO & COR sent the Sprint Goals (05/20/25)
  - [ ] VA PO approved the Sprint Goals (05//xx/25)
  - [ ] VA COR approved the Sprint Goals (05/xx/25)
  
