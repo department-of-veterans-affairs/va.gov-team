@@ -2,7 +2,12 @@
 # Monthly Medallia Report: April 2025
 
 
-# FSR Custom Survey 
+# FSR Custom Survey and VFS Survey (FSR feedback)
+
+URLs:
+
+https://www.va.gov/manage-va-debt/request-debt-help-form-5655/confirmation
+https://www.va.gov/manage-va-debt/request-debt-help-form-5655/introduction
 
 The FSR custom survey appears on the confirmation page of the [Financial Status Report (5655)](http://va.gov/manage-va-debt/request-debt-help-form-5655/introduction). To access this survey, users click on a modal button that asks for feedback towards the top of the page to launch the survey. All responses are optional, there are no required questions so users can decide on their own which questions to respond to. 
 
@@ -16,7 +21,7 @@ This is a look back at all of the responses for the 6 questions on the  FSR cust
 
 ## 1. I was able to easily complete this form online.
 
-**62 Responses**
+**86 Responses**
 
 **Mode: Strongly Agree (5)**
 
@@ -33,7 +38,7 @@ This is a look back at all of the responses for the 6 questions on the  FSR cust
  
 Users are able to select all that apply.
 
-**57 responses**
+**60 responses**
 
 Listed from most responses to least: 
 |Category|# of Responses|
@@ -47,4 +52,84 @@ Listed from most responses to least:
 | Veteran information | 0 |
 | Bankruptcy history | 3 |
 
+
+## 3. What specific changes, if any, would you like to see in the form to make it more user-friendly and easier?
+
+Open text field provided.
+
+**45 Qualitative Responses total**
+
+### None, NA, N/A, no suggestions, positive feedback
+
+17 Responses
+
+> Honestly best experience Iâ€™ve ever had filling out a VA form
+
+> Keep the form as it is.
+
+> Very easy process
+
+> I think the process was very easy.
+
+
+### Suggestions for Improvement, FSR Form-specific: 
+
+### Final Review
+
+> The mandatory check box selection That shows up to complete this waiver mentions an education debt and the debt that I have is not education. There was no way to correct this and the only way to complete this waiver request is to select the wrong thing.
+
+### Bankruptcy Section
+
+> My Bankruptcies are in the distant past, more than 20 years ago. I no longer have any records of these.  Also, my credit cards are not listed in the expenses. And I have an high interest line of credit with CashNetUSA that I did not know how to input to this form.
+
+> Date of BankRupsy
+
+> Closed bankruptcy shouldnt require details unless it is a current bankruptcy. No one has those details memorized. Also how much my 23 year old truck is worth shouldn't matter. Living expenses versus assets doesn't mean squat when you don't have the money. The assets are ready made cash.
+
+> bankruptcy history does not allow a bankruptcy over 15 years
+
+### Income
+
+> An example of a paystub with deductions listed.
+
+
+### Expenses Section
+
+> to remember that not everyone lives in a home .. many live in mobile homes that have different bills to pay.
+
+> Better number to call with correct extension when help is needed with the hours of operation so not to waste time or add to queue.
+
+> It would be nice if it remembered the answers from last time.
+
+> It is hard to correlate a one month period and provide reliable assets. It all depends on the billing cycle for  any given month.
+
+> I wasn't sure if you were looking for all my credit card debt or not.  It seemed to ask the question... "are you behind on any credit card debt" which I am not, but it never seemed to ask what my credit card debt was.  A  section seemed to ask for my personal loan and auto loan information.
+
+### Reliefs Options
+
+> Explain fully what i need to do before things get worse for myself and my family before it keeps getting worse.
+
+
+### Assets
+
+> The assets questions are very vague as it allows a person to list assets but no liabilities attached to it. You should change that question to allow a person so say, yes, I own a travel trailer but there is a loan I am paying on it. Same for car loans.
+
+### Misc
+
+> Maybe some more personal data like um assistance from neighbors
+
+> Left out the option of living with someone or parents
+
+## 4. I would recommend completing this form online instead of paper to another Veteran?
+
+**70 responses**
+
+
+|Score|Response|# of Responses|
+|--|--|--|
+| 1 | Strongly Disagree | 7 |
+| 2 | Disagree | 0 |
+| 3 | Neither Agree nor Disagree | 5 |
+| 4 | Agree | 18 |
+| 5 | Strongly Agree | 40 |
 
