@@ -20,6 +20,10 @@ The high-level vision behind the component’s architectural direction which cou
 
 Tests that will be written for the component.
 
+## Storybook Examples
+
+List the component examples and variations that will be displayed in Storybook.
+
 ## Future Considerations
 
 If this is an MVP, we should outline anything that we might need to account for in future iterations of the component.
