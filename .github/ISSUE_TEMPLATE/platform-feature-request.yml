@@ -3,11 +3,9 @@ description: "If you have a request for a feature you believe the VA Platform sh
 title: "[Feature request name]:"
 labels:
   - "platform-feature-request"
-assignees:
-  - steel36 
+assignees: 
   - tayism   
-  - twoangstroms 
-  - gopixelsgo 
+  - naomimarcussen
 body:
   - type: markdown
     attributes:
