@@ -7,7 +7,7 @@
 
 ## Situation
 
-Paralyzed Veterans with limited or no arm mobility face significant barriers when accessing VA.gov services due to multi-factor authentication (MFA) requirements on ID.me and Login.gov. While account creation is possible with voice technology or assistance, MFA methods like typing codes, using apps, or facial recognition require physical interaction, which these Veterans cannot perform. Current platforms lack voice-based MFA options, such as verbal code recitation, limiting independent access to critical healthcare and benefits services.
+Paralyzed Veterans with limited or no arm mobility face significant barriers when accessing VA.gov services due to multi-factor authentication (MFA) requirements on ID.me and Login.gov. While account creation is possible with voice technology or assistance, MFA methods like typing codes, using apps, or facial recognition require physical interaction, which these Veterans cannot perform. Account verification is nearly impossible without caregiver assistance, as photographing documents is quite challenging. Current platforms lack voice-based MFA options, such as verbal code recitation, limiting independent access to critical healthcare and benefits services.
 
 ## Key Findings
 
