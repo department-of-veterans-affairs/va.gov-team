@@ -220,7 +220,7 @@ return (
 )
 ```
 
-**Mobile Display: Header**
+#### Mobile Display: Header
 
 The header text is displayed as the parent accordion’s `header` prop instead of in a header element above the accordions:
 
