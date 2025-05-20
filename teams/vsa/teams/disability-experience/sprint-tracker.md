@@ -8,7 +8,7 @@ _**Overview:** This tracker is designed to track sprint goals with completed wor
 \*Includes Memorial Day Holiday
 
 
-## Base Teams
+## Disability Teams 1 and 2
 
 Main Sprint Goal:
 
