@@ -21,9 +21,8 @@ Progress the rollout of 0781 form release, while continuing to address the stagi
 
 Goal: We want to get the release out to 75%.
 
-|                                                                                 |                                                                                        |                            |                 |                          |
-| :-----------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :------------------------: | :-------------: | :----------------------: |
 |                                 **Sprint Goal**                                 |                                **GitHub Ticket Number**                                | **Reason if Not Complete** | **Update Date** | **End of Sprint Status** |
+| ----------------------------------------------------------------------------- | :------------------------------------------------------------------------------------: | :------------------------: | :-------------: | :----------------------: |
 |      \[0781 PS] Vets-json-schema to match the final version of our schema       |  [103147](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103147) |                            |                 |                          |
 |      Add missing headings to Step 4 of 6: Supporting Evidence - development     | [109932](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109932)  |                            |                 |                          |
 | Staging Review finding: Inaccurate link to download lay/witness statement - ENG | [108117](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108117)  |                            |                 |                          |
@@ -34,9 +33,8 @@ Goal: We want to get the release out to 75%.
 
 Goal: Begin frontend date handling improvements
 
-|                                             |                                                                                                                                                                                   |                            |                 |                          |
-| :-----------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------: | :-------------: | :----------------------: |
 |               **Sprint Goal**               |                                                                              **GitHub Ticket Number**                                                                             | **Reason if Not Complete** | **Update Date** | **End of Sprint Status** |
+| ----------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------: | :-------------: | :----------------------: |
 |      Phase 1 Fix TE invalid date format     |                                               #[110031](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110031)                                              |                            |                 |                          |
 |       Phase 1 unit +integration tests       |                                               #[110032](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110032)                                              |                            |                 |                          |
 | Phase 2 create centralized utility(Stretch) | [#11024](https://github.com/orgs/department-of-veterans-affairs/projects/1660/views/14?pane=issue\&itemId=111360128\&issue=department-of-veterans-affairs%7Cva.gov-team%7C110024) |                            |                 |                          |
@@ -46,9 +44,8 @@ Goal: Begin frontend date handling improvements
 
 Goal: Work on outstanding tech debt 
 
-|                                                                                             |                                                                                        |                            |                 |                          |
-| :-----------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------: | :------------------------: | :-------------: | :----------------------: |
 |                                       **Sprint Goal**                                       |                                **GitHub Ticket Number**                                | **Reason if Not Complete** | **Update Date** | **End of Sprint Status** |
+| ----------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------: | :------------------------: | :-------------: | :----------------------: |
 |                            526 Cypress test investigation and fix                           | [109736](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109736)  |                            |                 |                          |
 | Automated axe e2e tests - 526EZ: heading-order issue with SaveInProgressIntro on intro page | [106879](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106879)  |                            |                 |                          |
 |                            Resolve 10 errors from CodeQL scanning                           | [#109395](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109395) |                            |                 |                          |
@@ -61,37 +58,25 @@ Goal: Work on outstanding tech debt 
 
 ### Conditions Taxonomy and Classification
 
-Machine Learning Classifier
-
-Goal: Define architecture needs.
-
-|                                                           |                                                                                                 |                            |                 |                          |
-| :-------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :------------------------: | :-------------: | ------------------------ |
-|                      **Sprint Goal**                      |                                     **GitHub Ticket Number**                                    | **Reason if Not Complete** | **Update Date** | **End of Sprint Status** |
+|  **Sprint Goal**  |                                     **GitHub Ticket Number**                                    | **Reason if Not Complete** | **Update Date** | **End of Sprint Status** |
+| ------------------------------------------------------- | :---------------------------------------------------------------------------------------------: | :------------------------: | :-------------: | ------------------------ |
+| **Machine Learning Classifier** <br> <br> Goal: Define architecture needs for ML classifier  | | | |
 |           Create scaffolding for new classifier           | [#758](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/758) |                            |                 |                          |
 |       Discovery on AI Team's ML Classification model      | [#767](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/767) |                            |                 |                          |
-|                        Other issues                       |                                                                                                 |                            |                 |                          |
+| **Other issues**                  |                                                                                                 |                            |                 |                          |
 | Deploy updated classification code mappings (5 new terms) | [#766](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/766) |                            |                 |                          |
 
 
 ### Conditions Submission Improvements
 
-Prepare for usability testing
-
-Goals: 
-
-- Draft conversation guide
-
-- Iterate on research plan based on feedback
-
-|                                                                                                             |                                                                                                 |                            |                 |                          |
-| :---------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :------------------------: | :-------------: | ------------------------ |
 |                                               **Sprint Goal**                                               |                                     **GitHub Ticket Number**                                    | **Reason if Not Complete** | **Update Date** | **End of Sprint Status** |
+| --------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------: | :------------------------: | :-------------: | ------------------------ |
+| **Prepare for usability testing** <br> <br> Goals: <br> - Draft conversation guide <br> - Iterate on research plan based on feedback          |                               |                            |                 |                          |
 |                          Multi-step conditions submission: Draft Conversation Guide                         | [#770](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/770) |                            |                 |                          |
 |                                  Iterate on research plan based on feedback                                 | [#771](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/771) |                            |                 |                          |
 | Prepare prototypes for usability testingGoal: - Deploy updated prototypes and update status of known issues |                                                                                                 |                            |                 |                          |
 |                           Deploy updated edit flows for Mango and Kiwi prototypes                           | [#768](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/768) |                            |                 |                          |
-|                                                 Other issues                                                |                                                                                                 |                            |                 |                          |
+| **Other issues**                                            |                                                                                                 |                            |                 |                          |
 |               Technical discovery to understand focus issue on conditions follow up questions               | [#765](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/765) |                            |                 |                          |
 
 _Approvals:_ _(sent via email but approvals tracked here)_
