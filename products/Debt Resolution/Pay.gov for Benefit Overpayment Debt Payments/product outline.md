@@ -124,7 +124,7 @@ Objective 2: Strengthen Veteran trust in the debt payment experience
  - PM: Tom Davis
  - DM: Heather Rienks
  - Engineering: Andrew Rodiek, Brandyn Sullins, Aaron Ponce, Derek Dyer, Josh Mills
- - Research/Design: Charlotte Cesana, Megan Gayle, Marsela 
+ - Research/Design: Charlotte Cesana, Megan Gayle, Marcela Rojas 
 
 
 
