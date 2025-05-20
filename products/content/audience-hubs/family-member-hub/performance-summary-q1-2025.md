@@ -74,8 +74,8 @@ Original hub overall | 	55.53%|	50	|57.25%|	39|	25.33%	|98
 
 **Highlights**
 
-- Most of the main landing pages (hub and sub-hub pages) within the family hub had a very high percentage (>70%) of visitors that remained in the family hub after leaving that page.  This indicates that visitors were remaining in the hubs to  complete their tasks or discover more information. 
-  - The other sub-hubs that had lower retention rates have 0-1 child pages and mostly require the visitor to link over to a Veteran hub to get more information or complete a related task.
+- Most of the main landing pages (hub and sub-hub pages) within the family hub had a very high percentage (>70%) of visitors that remained in the family hub after leaving that page.  This indicates that visitors were remaining in the hubs to complete their tasks or discover more information. 
+  - The other sub-hubs that had lower retention rates have 0 (Burials and Life Ins) or 1 (Housing) child pages and mostly require the visitor to link over to a Veteran hub to get more information or complete a related task.
 
 **Retention by hub**
 
@@ -93,7 +93,10 @@ Burials and memorials | 17.51%
 
 ### Referrals to apply
 
-- There are currently 4 benefit applications live within within the family member hub - CHAMPVA, PCAFCG, DEA, and Transferred GI Bill benefits. In 3/4 cases, the top next page from the supporting content page is the benefit application. In the 4th case (DEA), the online application is a fraction of a percent behind the DEA rates page as the top next page. 
+**Highlights**
+
+- There are currently 4 benefit applications live within within the family member hub - CHAMPVA, PCAFCG, DEA, and Transferred GI Bill benefits. In 3 out of 4 cases, the top next page from the supporting content page is the benefit application. In the 4th case (DEA), the online application is a fraction of a percent behind the DEA rates page as the top next page.
+- The links to download the PDF applications are not consistently tracked. 
 
 
 
@@ -104,14 +107,13 @@ Burials and memorials | 17.51%
 
 **Highlights**
 
-- The links provided on the main family and caregiver benefits hub page had a combined total clicks that was over 7x the corresponding clicks within the Veteran benefits hubs total
-  - The "Health and disability benefits" link in the family hub had 135,520 clicks, while the "Family health care benefits" link in the Veteran health care hub had on 15,499 clicks
-  - The "Survivors compensation" link had 72,868 clicks, while the combined total for the "Survivor and Dependent compensation" link in disability (14,444) and the "Survivors Pension" link in Pension (9,789) had a total of 24,333
-- On the Family and caregiver benefits hub page, the bottom section for "Help a Veteran find benefits" performed ok (10.53% of page clicks) for a "related options" type section .  The highest clicked option was disability compensation (3.26% clicks) followed by life insurance (2.34%) clicks.  The higher clicks on disability compensation could be related to dependent management given the high searches for that term.
+- The links provided on the main family and caregiver benefits hub page had a combined total clicks that was over 7x more than the clicks within the corresponding Veteran benefits hubs.
+  - The "Health and disability benefits" link in the family hub had 135,520 clicks, while the "Family health care benefits" link in the Veteran health care hub had only 15,499 clicks
+  - The "Survivors compensation" link had 72,868 clicks, while the combined total for the "Survivor and Dependent compensation" link in disability (14,444) and the "Survivors Pension" link in Pension (9,789) had a total of only 24,333 clicks.
 - Engagement with the sub-hub pages was primarily driven by the options within the "Get benefits" section of the page, which is somewhat different than the Veteran hubs where they are often split evenly between the "Get" and "Manage".
 - The family sub-hubs did show a higher engagement - sometimes significantly higher - with the "Related benefits and services" section than most of the Veteran hubs have. This is a positive thing given one of the goals of creating this hub was to improve discoverability of other benefits a family member may be eligible for.
   - For example, the family life insurance sub-hub related benefits section received 22.25% of the total page clicks, while on the Veteran hub, the related benefits section only had 2.43% of the total page clicks.
- 
+  - On the Family and caregiver benefits hub page, the section at the bottom titled "Help a Veteran find benefits" performed ok (10.53% of page clicks) for a "related options" type section.  The highest clicked option was disability compensation (3.26% clicks) followed by life insurance (2.34%) clicks.  The higher clicks on disability compensation could be related to dependent management given the high searches for that term. 
 
 **Page clicks for the main landing page**
 
