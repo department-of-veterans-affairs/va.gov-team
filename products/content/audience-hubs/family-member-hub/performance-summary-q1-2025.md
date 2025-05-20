@@ -4,26 +4,33 @@
 
 ## Summary
 
-**Desired User Outcomes**
-As a family member and/or caregiver of a Veteran, I can easily
-- find and learn about the benefits and services available to me
+**Desired user outcomes**
+
+1) As a family member and/or caregiver of a Veteran, I can easily find and learn about the benefits and services available to me.
   - Metrics
     - Are the new pages being utilized as much as or more than the previous pages (findability)
     - Mre visitors to the hub engaging with more than one page in the hub (retention)
-  - Findings
-    - Success. While the new pages do not have increased traffic, the hub in general shows that visitors are remaining in the hub once there.
-- apply online or understand how to apply for the benefits and services available to me
+  - Finding: Partially successful.
+    - While the new pages do not have increased traffic, the hub in general shows that visitors are remaining in the hub once there and interacting with the content. In addition, the percent of visitors executing a search from the hub is very low. 
+
+2) As a family member and/or caregiver of a Veteran, I can apply online or understand how to apply for the benefits and services available to me.
   - Metrics
     - Are visitors accessing the applications for family member benefits as much as or more than prior to the new hub (conversion)
     - Are visitors happy with the experience and can they complete their task (satisfaction)
-  - Findings
-    - Uncertain.  Although number of responses are going up, they are still somewhat low.  Scores for the hub as a whole and individual pages are average, but task completion score is very low.  
-- access tools to manage my health care and benefits I am receiving through VA
-  - Metric: Are visitors accessing the tools to manage their health care and benefits as much as or more than prior to the new hub (engagement)
+  - Finding: Uncertain.
+    - Although number of responses are going up, they are still somewhat low.  Scores for the hub as a whole and individual pages are average, but task completion score is very low.  
+
+3) As a family member and/or caregiver of a Veteran, I can access tools to manage my health care and benefits I am receiving through VA
+  - Metrics
+    - Are visitors accessing the tools to manage their health care and benefits as much as or more than prior to the new hub (engagement)
+  - Finding: Uncertain
+    - Engaement with the "Manage benefits" section of each sub-hub is considerably lower than the Veteran hubs for health care and education benefits.  The focus on tasks related to managing benefits was removed from the original scope of the project, so more time is needed to refine this section and understand what would be most effective. 
+
+
 
 ## Metrics
 
-### **Page performance data**
+### Page performance
 
 **Highlights**
 
@@ -33,7 +40,7 @@ As a family member and/or caregiver of a Veteran, I can easily
    -  Exit rates for the education landing page(~18%) and considerably lower than the previous landing page (>28%) that lived at Education > Dependent education benefits
 
 
-Hub |Page views | Entrance rate | Bounce rate | Exit rate
+Hub |Page views <br> (Month Avg) | Entrance rate | Bounce rate | Exit rate
 |---|---|---|---|---
 New hub page | 132,854 | 22.57% | 10.03% | 20.36%
 Original hub page | 272,870 | 22.29% | .077% | 19.40% 
@@ -83,7 +90,17 @@ Life insurance | 35.85%
 Burials and memorials | 17.51%
 
 
-### Page clicks**
+
+### Referrals to apply
+
+- There are currently 4 benefit applications live within within the family member hub - CHAMPVA, PCAFCG, DEA, and Transferred GI Bill benefits. In 3/4 cases, the top next page from the supporting content page is the benefit application. In the 4th case (DEA), the online application is a fraction of a percent behind the DEA rates page as the top next page. 
+
+
+
+
+
+
+### Page clicks
 
 **Highlights**
 
@@ -164,10 +181,8 @@ Family > Survivors comp > DIC | 0.17%
 
 ## Recommendations
 
-**1) Add dependents management crosslinks**
-  - The current family and caregiver benefit hub landing page does not include a link or reference to managing dependents. This was originally not included given it is information that impacts the Veteran's benefits not the family members, and only a Veteran can modify.  Given the high search volume across various pages, adding a crosslink to this feature may help with findability.
-
-**2) Ensure references to key terms, alternative names, and form numbers where appropriate**
-  - Search data shows that visitors are searching for specific form numbers or alternative names while on the specific page related to those terms.  We should review how we label benefits and their associated forms to ensure we are hitting on key terms. For example, DEA education benefits are often searched for as "chapter 35" and "22-5490".
-
-
+1) Add dependents management crosslinks - The current family and caregiver benefit hub landing page does not include a link or reference to managing dependents. This was originally not included given it is information that impacts the Veteran's benefits not the family members, and only a Veteran can modify.  Given the high search volume across various pages, adding a crosslink to this feature may help with findability.
+2) Ensure references to key terms, alternative names, and form numbers where appropriate - Search data shows that visitors are searching for specific form numbers or alternative names while on the specific page related to those terms.  We should review how we label benefits and their associated forms to ensure we are hitting on key terms. For example, DEA education benefits are often searched for as "chapter 35" and "22-5490".
+3) Implement tracking on "Additional benefits" section of sub-hub pages - the links in these sections of the sub-hub pages do not appear to be tracked in GA4.
+4) Review Medallia feedback for task related comments to determine what challenges there are to completing tasks within the hub.
+5) Review the "manage benefits" sections within each sub-hub to determine what links are performing well, what might be missing, and what family members can actually do online to manage their benefits. 
