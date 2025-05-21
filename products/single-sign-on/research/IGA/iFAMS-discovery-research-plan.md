@@ -75,7 +75,7 @@ We will use the second half to conduct a prioritization exercise to rank the imp
 #### Location
 Interviews will be conducted via Teams.
 
- - [ ] Remote
+ - [x] Remote
  - [ ] In-person
  
 ### Research materials 📔
