@@ -79,7 +79,7 @@ collect payment from Veterans for copays.
 [See notes from meeting on 4/24](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107630#issuecomment-2828988071)
 
 
-05/20/25 Questions:
+## 05/20/25 Questions:
 
 
 Combining payments:
