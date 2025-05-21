@@ -39,12 +39,12 @@ This section will focus on how to identify and measure errors and performance me
 
 #### Feedback Loop
 
-- **User Feedback:** Incorporate user feedback regarding the "Manage POA Request" feature obtained through interviews with pilot participants and support emails sent directly to the Accredited Representative Facing team.
-- **Analytics:** Use Google Analytics to track user engagement and behavior on the "Manage POA Request" feature pages. This will help in understanding how users interact with the feature and where they might encounter issues.
+- **User Feedback:** Incorporate user feedback regarding the Self-Service Authentication feature obtained through interviews with pilot participants and support emails sent directly to the Accredited Representative Facing team.
+
 
 ### Issue Investigation Steps
 
-This section outlines the steps to investigate and resolve issues related to the "Manage POA Request" feature.
+This section outlines the steps to investigate and resolve issues related to the Self-Service Authentication.
 
 #### Initial Assessment
 
