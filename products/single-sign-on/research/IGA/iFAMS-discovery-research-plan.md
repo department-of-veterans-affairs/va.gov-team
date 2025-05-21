@@ -102,13 +102,13 @@ Planned dates of research: 05/20 - 06/12 (duration is contingent on participant 
 Recruited participants through iFAMS Section / Division Chiefs.
 
 #### Team Roles 🕵️👩‍💻👩‍🔬
-*Moderator:* Lauren Russell
-*Research guide writing and task development:* Lauren Russell
-*Participant recruiting & screening:* Jonathan Gilmore, Kerry Laake, Alfonso Saldana
-*Project point of contact:* Lauren Russell
-*Accessibility specialist*: N/A
-*Note-takers:* Ciera Maddox
-*Observers:* Additional team members as availability permits
+- Moderator: Lauren Russell
+- Research guide writing and task development: Lauren Russell
+- Participant recruiting & screening: Jonathan Gilmore, Kerry Laake, Alfonso Saldana
+- Project point of contact: Lauren Russell
+- Accessibility specialist: N/A
+- Note-takers: Ciera Maddox
+- Observers: Additional team members as availability permits
 
 
 Approvals ✅
