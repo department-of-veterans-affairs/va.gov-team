@@ -1,5 +1,5 @@
-# Research plan for iFAMS Requirements Discovery Sessions (internal VA employees) 
-##### May 2025
+# Research plan for iFAMS Requirements Discovery Sessions 
+##### May 2025; internal VA employees
 ## Background 🏗️
 The ICAM Next Gen UX team is conducting a series of studies to gather data to help streamline employee workflows and processes that relate to identity and access management services at VA. These changes intend to refine inefficiencies, increase productivity, and result in scalable solutions across the organization. 
 
