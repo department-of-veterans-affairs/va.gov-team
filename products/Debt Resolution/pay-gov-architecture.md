@@ -3,6 +3,8 @@
 This doc outlines the workflow that will allow VA.gov to integrate with pay.gov to enable veterans to make payments for VA debts.
 This will use PA.gov hosted collection pages to securely process payments, minimize risk to the VA, and offer a good ux.
 
+This doc reflects our current understanding and is subject to change
+
 ### Pay.gov components
 1. Hosted collection page service - Primary payment flow
 2. TCS Single Query Web Service - For transaction verification
