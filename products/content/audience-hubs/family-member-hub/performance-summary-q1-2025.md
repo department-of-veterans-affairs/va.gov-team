@@ -12,7 +12,7 @@
     - Are visitors to the hub engaging with the pages (retention)
     - Are visitors to the hub viewing more than 1 benefit (discoverability)
   - Finding: Partially successful.
-    - While the new pages do not have increased traffic, the hub in general shows that visitors are remaining in the hub once there and interacting with the content. 
+    - While the new pages do not have increased traffic, the hub in general shows that visitors are remaining in the hub once there and interacting with the content. GA does not provide elaborate path data to truly understand how often visitors are viewing pages in multiple sub-hubs, but high level data does indicate that some pages are referring visitors to other benefit sub-hubs.
 
 2) As a family member and/or caregiver of a Veteran, I can apply online or understand how to apply for the benefits and services available to me.
   - Metrics
@@ -75,8 +75,14 @@ Original hub overall | 	55.53%|	50	|57.25%|	39|	25.33%	|98
 
 **Highlights**
 
-- Most of the main landing pages (hub and sub-hub pages) within the family hub had a very high percentage (>70%) of visitors that remained in the family hub after leaving that page.  This indicates that visitors were remaining in the hubs to complete their tasks or discover more information. 
+- Most of the main landing pages (hub and sub-hub pages) within the family hub had a very high percentage (>70%) of visitors that navigated to another page within the family hub.  This indicates that visitors were remaining in the hubs to complete their tasks or discover more information. 
   - The other sub-hubs that had lower retention rates have 0 (Burials and Life Ins) or 1 (Housing) child pages and mostly require the visitor to link over to a Veteran hub to get more information or complete a related task.
+- There are currently 4 benefit applications live within the family member hub - CHAMPVA, PCAFCG, DEA, and Transferred GI Bill benefits. In 3 out of 4, the top next page from the supporting content page is the benefit application. In the 4th case (DEA), the online application is a fraction of a percent behind the DEA rates page as the top next page.
+  - The links to download the PDF applications are not consistently tracked.
+- GA does not provide elaborate path data to truly understand how often visitors are viewing pages in multiple sub-hubs, but high level data does indicate that some pages are referring visitors to other benefit sub-hubs.
+  - 6.3% of next page views from the Education DEA page is the Survivors comp DIC page
+  - From the housing sub-hub page, next page views include the Survivors comp sub-hub (8.22%) and the Health and disability sub-hub (5.16%)
+  - From the Life insurance sub-hub page, next page views include the Survivors comp DIC (6.58%) and Survivors Pension (5%) pages
 
 **Retention by hub**
 
@@ -89,27 +95,6 @@ Education and careers | 74.65%
 Housing assistance | 55.92%
 Life insurance | 35.85%
 Burials and memorials | 17.51%
-
-**Referrals between hubs**
-
-Sub-hub | Total referrals |  Health | Education | Survivor comp | Housing | Life ins | Burials
---- | --- | --- | --- | --- | --- | --- | ---
-Health | 8.15% | --- | 3.38% | **3.98%** | .36% | .08%
-Education | 3.11%  | 1.11% | --- | 1.72% | .13% | .15% | 0
-Surivor comp | 34.66% | 6.61% | 24.96% | --- | 1.41% | 1.09% 
-Housing | 3.22% | 1.39% |  .56% | 1.04% | --- | .10% | .13%
-Life ins | --- | --- | --- | --- | --- | --- | ---
-Burials | --- | --- | --- | --- | --- | --- | ---
-
-### Referrals to apply
-
-**Highlights**
-
-- There are currently 4 benefit applications live within within the family member hub - CHAMPVA, PCAFCG, DEA, and Transferred GI Bill benefits. In 3 out of 4 cases, the top next page from the supporting content page is the benefit application. In the 4th case (DEA), the online application is a fraction of a percent behind the DEA rates page as the top next page.
-- The links to download the PDF applications are not consistently tracked. 
-
-
-
 
 
 
@@ -132,7 +117,7 @@ Family hub | total clicks | Veteran hub | total clicks
 Family hub total | 316,954 | Veteran hubs total | 41262
 Health and disability link | 135,520 | Health care > Family benefits link | 15,499
 Survivor compensation link | 72,868 | Disability > DIC link | 14,444
- | | Pension > Survivors pension link | 9789
+--- | --- | Pension > Survivors pension link | 9789
 Housing assistance for survivong spouses link | 10,520 | Housing > Survivor home loan program link | 1,530
 Life insurance for family members (FSGLI) | 8,732 | No family link on the Life Ins hub page | 
 Burial and memorial benefits | 16,058 | No family link on the Veteran burials and memorials hub page | 
