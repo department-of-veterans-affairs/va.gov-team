@@ -39,7 +39,6 @@ Feature went live on 4/22/2025
 
 Additional Notes:
 * The total number of views of the proof of Veteran Status Card is pulled from the [Monthly Mobile Metrics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/analytics/README.md#march-2025).
-* BE metrics is tracked trhough Data Dog (link to come).
 * FE metrics is tracked through Firebase (link to come). 
 
 ### Supporting OCTO OKRs:
