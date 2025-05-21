@@ -11,7 +11,7 @@ The link on the landing page, "Share your personal health data on the Share My H
 - The link will only work if tester is signed in to CAG and copies and pastes the link into a browser within CAG
 - When following the instruction in the bullet just before this one, sometimes the site would require the tester to sign in again to VA.gov
 
-### During GNG on May 16th, these issues were resolved:
+### On prod (during GNG on May 16) these issues were resolved:
 - In prod, the link works as expected when the tester clicks the link in a browser outside of CAG
 - In prod, the tester is not required to sign in again on VA.gov upon clicking the link
 
