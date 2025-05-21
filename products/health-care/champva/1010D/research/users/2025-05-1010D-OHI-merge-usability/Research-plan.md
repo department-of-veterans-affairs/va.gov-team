@@ -80,13 +80,12 @@ In addition, user feedback about the v3 file upload component will be shared bac
 
 **Goal 2: Understand if the placement of the 10-7959c within the 10-10D form works better for users, specifically as it relates to providing all necessary and required supporting evidence.**
 1. Will users be confused by what supporting evidence is required for the 10-10D and 10-7959c?
-2. Will users prefer to upload documents mid-flow, at the end of list&loops for a subsection of the form, or all together at the end of the form (or form-within-a-form)?
+2. Will users prefer to upload documents mid-flow?
 3. Are the examples and content around what evidence to prepare and provide on the forms clear?
 
 **Goal 3: Get user feedback on the [V3 file upload component](https://design.va.gov/storybook/?path=/docs/uswds-va-file-input--docs#upload-status).**
 1. Does the v3 file upload component help users to successfully upload front/back views of their Medicare and Private Health Insurance cards?
 2. Do users want any additional confirmation around uploading files?
-3. Does the user understand how to fix an upload when an error appears?
 
 ### Hypotheses
 
@@ -161,10 +160,10 @@ Our intended audience for this study is Veterans with high disability ratings an
 ### Primary criteria (must-haves)
 *What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
 
+- `3 must use a screen reader every time they access the internet`
+- `2 must use a screen magnifier every time they access the internet`
 - `7 must be aged 55-64+`
 - `At least 7 must NOT use assistive technology`
-- `3 must use a screen reader every time they access the internet`
-- `3 must use a screen magnifier every time they access the internet`
 - `At least 5 must be primarily mobile users and willing to use it for the session`
 
 - **`Add more criteria as needed`**
@@ -192,9 +191,15 @@ We would like a kick-off call with Perigean to discuss recruitment criteria.
 **A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.** 
 > [!NOTE]
 > **Send pilot participant email in study Slack channel**
+We would like to have an AT user pilot, and non-AT user pilot
 
+**Non-AT user pilot**
 - `Pilot participant name:` Michael Skinner
-- `Date and time of pilot session:` May 27 or 28 
+- `Date and time of pilot session:`
+
+**AT user pilot**
+- `Pilot participant name:` TBD (link ADE ticket)
+- `Date and time of pilot session:` 
 
 ### Research sessions
 - `Planned dates of research:` **June 4-17**
