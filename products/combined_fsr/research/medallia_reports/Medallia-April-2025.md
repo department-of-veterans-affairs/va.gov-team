@@ -207,6 +207,9 @@ N = 44 (qualitative responses)
 
 > Can you please email me when a payment is due and when a payment has been made. My account shows a payment due and late, but I think I made the payment but there is no way of knowing.
 
+> I was attempting to pay my prescription co-pay.  However, the only time I know how much I owe is if I got to the VA site and I am informed I have a past due bill.  Is there anyway I can keep my credit card on file and have copay placed directly on my credit card when I owe something not being informed after it is overdue?
+
+
 > Check my co-pay amount due.  Would like to see confirmation of paid bills.
 
 > Pay copay. It's confusing. To me it doesn't make any sense.  Why not have a detailed bill, which shows total amount due?  It truly sucks!
@@ -228,12 +231,13 @@ N = 44 (qualitative responses)
 
 > My bank account shows a withdrawal of $4,180.97 which I can't see ever receiving, this was my wife's previous monthly check {  } I have to borrow this to get my checking account back above negative. DON'T KNOW WHERE TO TURN!!!
 
+
+> I am trying to request my prescription bill be submitted to my new insurance.  I have new insurance as of 1/1/2025.  I brought my card to my appt. 4/4/2025, so it could be updated in the system, but so far this year none of my prescriptions were run through my new insurance.  I call the 1-866-290-4618 number for statement questions at 9:15am PST today, but no answered. Please help me determine how I can have my 2025 prescriptions submitted to my new insurance. Thank you, 
+
 ## Misc
 
 
 > Find out my priority group for my VA medical coverage and the things that would or would not be covered.  Nothing but generalized information.
-
-> I was attempting to pay my prescription co-pay.  However, the only time I know how much I owe is if I got to the VA site and I am informed I have a past due bill.  Is there anyway I can keep my credit card on file and have copay placed directly on my credit card when I owe something not being informed after it is overdue?
 
 > Dispute your copay charges - this procedure is incorrect for  [ ]. , OR VA per
 
@@ -244,8 +248,6 @@ N = 44 (qualitative responses)
 > Identify who put in the wrong mailing address and who corrected it.
 
 > In the past, I paid my co-pay online. With this new system it seems that option does not exist?
-
-> I am trying to request my prescription bill be submitted to my new insurance.  I have new insurance as of 1/1/2025.  I brought my card to my appt. 4/4/2025, so it could be updated in the system, but so far this year none of my prescriptions were run through my new insurance.  I call the 1-866-290-4618 number for statement questions at 9:15am PST today, but no answered. Please help me determine how I can have my 2025 prescriptions submitted to my new insurance. Thank you, 
 
 ## Bug on pay.gov
 
