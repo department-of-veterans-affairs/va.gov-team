@@ -120,27 +120,17 @@ Veterans currently manage their debt and copayments on VA.gov; this will be a ne
 `12.` How do users feel about being redirected to VA.gov to complete actions like requesting help or disputing a debt?  
 `13.` Are users comfortable signing in to a new site and copying/pasting information from the app to complete a payment?  
 
-<!--
 ### Hypotheses
-> [!NOTE]
-> Remember to constrain the hypotheses to the goals of your study!
- 
-**Think through these prompts to develop strong hypotheses:**
-	
-`What do you intend to learn and measure from this study?` 
 
-`What do you already know about this problem space?`
- 
-`What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)`
-  
-`Write a generalized statement that combines what you know + what you think will happen during the study.`
+- Veterans will want notifications from the app when payments are due.
+- Veterans will appreciate the overview of money owed from overpayment debts and copays.
+- Veterans will find the details of each payment owed clear.
+- Veterans will find navigation confusing when redirected out of the app to complete tasks.
+- Veterans will be frustrated by having to log in to another site to make payments.
+- PDF copay statements will not be useful.
+- Veterans will find the help pages overwhelming with too much information.
 
----
 
-**[Enter hypotheses here]** 
-
----
--->
 
 ## Methodology  🛠️
 
