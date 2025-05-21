@@ -121,6 +121,7 @@ Targeting Launch March 18-25th
 | Canary - 100%<br>(May 15)              | 397        | 0%                                      | 0%                                          | 3.5% (14)                                     | 0%                            |                  | ~~AVG 2.7s~~ |
 | Canary - 100%<br>(May 16)              | 414        | 0%                                      | 0%                                          | 0%                                            | 0%                            |                  | AVG 2.46s    |
 | May 17, 12:00am ET - May 20, 9:00am ET | 912        | 0%                                      | 0%                                          | <0.5%                                         | <0.5%                         |                  | AVG 2.51s    |
+| May 20, 9:01am ET - May 21, 9:00am ET  | 517        | 1%                                      | 0%                                          | 0.5%                                          | <0.5%                         |                  | AVG 2.65s    |
 
 
 #### Total
