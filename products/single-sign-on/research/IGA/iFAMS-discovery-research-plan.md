@@ -75,8 +75,8 @@ We will use the second half to conduct a prioritization exercise to rank the imp
 #### Location
 Interviews will be conducted via Teams.
 
- Remote
- In-person
+ - [ ] Remote
+ - [ ] In-person
  
 ### Research materials 📔
 [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/single-sign-on/research/IGA/iFAMS-discovery-research-convo-guide.md)
@@ -95,30 +95,22 @@ Planned dates of research: 05/20 - 06/12 (duration is contingent on participant 
 
 #### Length of sessions
 - Session length: 60 minutes
-
 - Buffer time between sessions: x minutes
-
 - Maximum Sessions per day: 2
 
 #### Availability
 Recruited participants through iFAMS Section / Division Chiefs.
 
 #### Team Roles 🕵️👩‍💻👩‍🔬
-Moderator: Lauren Russell
-
-Research guide writing and task development: Lauren Russell
-
-Participant recruiting & screening: Jonathan Gilmore, Kerry Laake, Alfonso Saldana
-
-Project point of contact: Lauren Russell
-
-Accessibility specialist: N/A
-
-Note-takers: Ciera Maddox
-
-Observers: Additional team members as availability permits
+*Moderator:* Lauren Russell
+*Research guide writing and task development:* Lauren Russell
+*Participant recruiting & screening:* Jonathan Gilmore, Kerry Laake, Alfonso Saldana
+*Project point of contact:* Lauren Russell
+*Accessibility specialist*: N/A
+*Note-takers:* Ciera Maddox
+*Observers:* Additional team members as availability permits
 
 
 Approvals ✅
-Reviewed by [Felecia Becerra, Team Lead] on [05-12-2025]
-Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]
+- Reviewed by [Felecia Becerra, Team Lead] on [05-12-2025]
+- Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]
