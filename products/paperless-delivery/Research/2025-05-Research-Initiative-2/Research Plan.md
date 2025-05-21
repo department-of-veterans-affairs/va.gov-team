@@ -78,7 +78,7 @@ This research will provide insight into 
 
 ### **Hypothesis**
 
-If Veterans are provided with a paperless experience similar to market standards, then they will update their paperless settings confidently and without external direction. 
+If Veterans are provided with paperless settings within their profile, then they will update their paperless settings confidently and without external direction. 
 
 Veterans may require additional support or guidance to adopt paperless settings confidently.
 
