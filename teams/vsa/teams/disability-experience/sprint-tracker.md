@@ -21,7 +21,7 @@ Progress the rollout of 0781 form release, while continuing to address the stagi
 
 Goals:
 
-- We want to get the release out to 75%.
+- We want to get the release out to 100% of Veterans who are starting a new 526 + 0781.
 
 - HCD: We want to spotcheck 0781 to be able to identify any urgent pain points and issues.
 
