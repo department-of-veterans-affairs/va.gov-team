@@ -72,4 +72,4 @@ Note: We will be in direct contact with all 13 pilot participants during the pil
 
 ## Security
 <!--  descibe any security concerns the responders should be aware, for example: Does your product have PII? Do you log senstive information that needs to be handled in a particular manner? Does your product have a known security vulnerability that has been accepted by leadership? etc. -->
-No PII/PHI captured in this feature. However, we do obtain PII/PHI information through the POA request. That data will expire and be deleted after 60 days.
+No PII/PHI captured in this feature. 
