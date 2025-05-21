@@ -149,3 +149,101 @@ Note on Accessibility: Due to prototype limitations, this study will not include
 
 - [X] **Remote**
 - [ ] **In-person**
+
+
+<!--
+## Research materials 📔
+
+> [!NOTE]
+> **Your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.**
+
+
+**For moderated usability tests:** 
+- [Link to conversation guide](url goes here)
+- [Link to prototype](url goes here)
+-->
+
+
+
+<!--
+## Recruitment 🎯	
+
+
+### Recruitment approach
+
+Veterans, recruited by Perigean
+
+Lean maximum variation strategy
+
+### Screener Questions
+
+1. Please check all that apply
+	1. I currently have an unpaid VA benefits overpayment debt (disability compensation, education, or pension benefits overpayments)
+	2. I previously had a VA benefits overpayment debt in the last 3 years (disability compensation, education, or pension benefits overpayments)
+	3. I have not had a VA benefits overpayment debt in the last 3 years
+
+2. Please select the total amount of your debt from VA overpayments from the last 3 years
+	1. I have not had VA overpayment debt in the last 3 years
+	2. The debt I had or currently have is in the range of $1 - $99
+	3. The debt I had or currently have is in the range of $100 - $500
+	4. The debt I had or currently have is in the range of $501 - $1,000
+	5. The debt I had or currently have is over $1,000
+
+3. Do you use VA Healthcare? If so, have you received a copayment bill in the last six months?
+	1. Yes
+	2. No
+When interacting with apps on your smartphone, do you usually adjust the standard display and/or use accessibility features? Please select all that apply.
+I mostly use the phone's standard display settings.
+I often increase the text size significantly.
+I use screen magnification or zoom features.
+I use a screen reader (such as VoiceOver or TalkBack).
+Other (please specify)
+Prefer not to say
+Do you identify as a member of the LGBTQ+ community?
+We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.
+Yes
+No
+Decline to answer
+Has a medical professional ever diagnosed you with a cognitive disorder?
+Some examples include PTSD, Alzheimer's disease, Attention deficit disorder, Dementia, Parkinson's disease, Traumatic brain injury
+Yes
+No
+Decline to answer
+
+
+- **Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants.**
+- Consider providing links to products and/or clear descriptions to ensure participants understand the question.
+  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
+
+- The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria.
+- Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria.
+- Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Review an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/pre-mhv-prototype/generative-research-study-1/2020-12.research-plan1.md)
+
+### List the ideal completed sessions and total number and type (Veterans, caregivers, etc.) of participants for this study:
+
+- `Veterans:` **[15]**
+- `Caregivers:` **[0]**
+- `Dependents:` **[0]**
+- `Total:` **[15]**
+- `Ideal completed sessions:` **[10]**
+
+### Primary criteria (must-haves)
+
+- `7+ : received a copayment bill in the last 6 months`
+- `8+ : had a debt balance from overpayment debt in last three years`
+- `Range of debt amount`
+- `Complete session on their smartphone via the Zoom app`
+- `No assistive technology users or accessibility features turned on (this is due to prototype limitations; we will be testing with assistive technology at a later date)`
+
+#### Secondary criteria (nice-to-haves)
+
+- `5 ages 55+`
+- `5 under age 35`
+- `7 with an identified cognitive disability`
+- `5 people of color`
+- `4 in a rural area`
+- `4 without a degree`
+- `2 with immigrant origins`
+- `2 women`
+- `2 from LGTBQ+ community`
+-->
