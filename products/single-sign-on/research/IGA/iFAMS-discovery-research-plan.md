@@ -79,7 +79,7 @@ Interviews will be conducted via Teams.
  In-person
  
 ### Research materials 📔
-[Link to conversation guide]
+[Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/single-sign-on/research/IGA/iFAMS-discovery-research-convo-guide.md)
 
 ### Recruitment 🎯
 #### Recruitment approach
