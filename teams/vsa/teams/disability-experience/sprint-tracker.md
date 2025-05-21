@@ -127,50 +127,92 @@ _Delivery + Notes:_
 
 
 
-## **Sprint Goals - Sprint: 4 \[05/07/25 - 05/20/25]**
+# Sprint 4 Goals \[05/07/25 - 05/20/25]
 
-|                                                                                                                                                                  |                          |                  |           |                          |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------: | :--------------: | :-------: | ------------------------ |
-|                                                                          **Sprint Goal**                                                                         | **GitHub Ticket Number** | **Updated Date** | **Notes** | **End of Sprint Status** |
-|                                           0781 Form Progressive Rollout: Update 0781 Traumatic Events Phrasing #108785                                           |          108785          |                  |           |                          |
-|                            0781 Form Progressive Rollout: Update 0781 Destructive Action Prompts Bullet Styling + Lead In text #108799                           |          108799          |                  |           |                          |
-|                         0781 Form Progressive Rollout: \[0781 PS] add 0781 Reporting metrics to dashboard, ensure working in prod #106932                        |          106932          |                  |           |                          |
-|                     0781 Prioritize Staging Review Tickets: Staging Review finding: Missing legend and multiple H3s on several pages #108126                     |          108126          |                  |           |                          |
-|             0781 Prioritize Staging Review Tickets: Staging Review finding: Missing focus management when providing details about conditions #108130             |          108130          |                  |           |                          |
-|                                               0781 Prioritize Staging Review Tickets: No auth error message #108841                                              |          108841          |                  |           |                          |
-|                                          0781 Prioritize Staging Review Tickets: Fix lack of auth error message #108842                                          |          108842          |                  |           |                          |
-|                          0781 Finalize Content ChangesStaging Review finding: 526 Parenthetical Text — Supporting Evidence Intro #108124                         |          108124          |                  |           |                          |
-|                                  0781 Finalize Content ChangesStaging Review finding: 0781 Explanatory text readability #108120                                  |          108120          |                  |           |                          |
-|                         0781 Finalize Content ChangesStaging Review finding: 0781 Types of Traumatic Events — Language Refinement #108122                        |          108122          |                  |           |                          |
-|                          0781 Finalize Content ChangesStaging Review finding: 0781 Behavior Changes Intro — Language Refinement #108123                          |          108123          |                  |           |                          |
-|                                 0781 Finalize Content ChangesStaging Review finding: Fix spacing of "add an event" button #108116                                |          108116          |                  |           |                          |
-| 0781 Finalize Content ChangesCollaboration Cycle for \[Disability Benefits Experience Team 2, Disability Comp Application (21-526 EZ), Updated 0781 Flow] #80848 |           80848          |                  |           |                          |
-|                                             0781 Finalize Content Changes\[0781 PS] In-Progress Form Handling #103911                                            |          103911          |                  |           |                          |
-|                                                         0781 IPF Alert Notification Finalization #109025                                                         |          109025          |                  |           |                          |
-|                                                4142 PS: Draft product/design brief and outline next steps #108559                                                |          108559          |                  |           |                          |
-|                                                    Staging Review finding: 4142 No Auth Error Message #108119                                                    |          108119          |                  |           |                          |
-|                                                      Tech Debt: VA Notification email investigation #108885                                                      |          108885          |                  |           |                          |
-|                                                   Tech Debt: 526 'XX' Data Issue - Discovery (Frontend) #108295                                                  |          108295          |                  |           |                          |
-|                                                         Tech Debt: 526 'XX' Data Issue (Backend) #108294                                                         |          108294          |                  |           |                          |
-|                                                      Tech Debt: Fix special chars converting to '?' #108835                                                      |          108835          |                  |           |                          |
-|                                                          Tech Debt: Watermark removal discovery #108832                                                          |          108832          |                  |           |                          |
-|                                  Tech Debt: Update form526 IPF expiration date to 1 year from creation, not last update #107727                                  |          107727          |                  |           |                          |
-|                                                  Conditions: Set up local dev environment for new engineers #752                                                 |            752           |                  |           |                          |
-|                                       Conditions: Investigate the steps required to create a new endpoint in vets-api #755                                       |            755           |                  |           |                          |
-|                               Conditions Submission Improvements: Set up local dev for the front-end prototypes Kiwi and Mango #756                              |            756           |                  |           |                          |
-|                                 Conditions: Understand the current status of Research Plan and sync with Shannon for review #757                                 |            757           |                  |           |                          |
+## Base Teams
+
+### 0781 Form Updates
+
+|                                                                                                                                                                  |                          |                  |                                       |                                         |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------: | :--------------: | :-----------------------------------: | :-------------------------------------: |
+|                                                                          **Sprint Goal**                                                                         | **GitHub Ticket Number** | **Updated Date** |               **Notes**               |         **End of Sprint Status**        |
+|                                           0781 Form Progressive Rollout: Update 0781 Traumatic Events Phrasing #108785                                           |          108785          |                  |                                       |                  Closed                 |
+|                            0781 Form Progressive Rollout: Update 0781 Destructive Action Prompts Bullet Styling + Lead In text #108799                           |          108799          |                  | Completed and waiting platform review |               In Progress               |
+|                         0781 Form Progressive Rollout: \[0781 PS] add 0781 Reporting metrics to dashboard, ensure working in prod #106932                        |          106932          |                  |                                       |                  Closed                 |
+|                     0781 Prioritize Staging Review Tickets: Staging Review finding: Missing legend and multiple H3s on several pages #108126                     |          108126          |                  |                                       |                  Closed                 |
+|             0781 Prioritize Staging Review Tickets: Staging Review finding: Missing focus management when providing details about conditions #108130             |          108130          |                  |                                       |                  Closed                 |
+|                                               0781 Prioritize Staging Review Tickets: No auth error message #108841                                              |          108841          |                  |                                       |                  Closed                 |
+|                                          0781 Prioritize Staging Review Tickets: Fix lack of auth error message #108842                                          |          108842          |                  |                                       | PR open, only pending content approval  |
+|                          0781 Finalize Content ChangesStaging Review finding: 526 Parenthetical Text — Supporting Evidence Intro #108124                         |          108124          |                  |                                       |                  Closed                 |
+|                                  0781 Finalize Content ChangesStaging Review finding: 0781 Explanatory text readability #108120                                  |          108120          |                  |                                       |                  Closed                 |
+|                         0781 Finalize Content ChangesStaging Review finding: 0781 Types of Traumatic Events — Language Refinement #108122                        |          108122          |                  |                                       |                  Closed                 |
+|                          0781 Finalize Content ChangesStaging Review finding: 0781 Behavior Changes Intro — Language Refinement #108123                          |          108123          |                  |                                       |                  Closed                 |
+|                                 0781 Finalize Content ChangesStaging Review finding: Fix spacing of "add an event" button #108116                                |          108116          |                  |                                       |                  Closed                 |
+| 0781 Finalize Content ChangesCollaboration Cycle for \[Disability Benefits Experience Team 2, Disability Comp Application (21-526 EZ), Updated 0781 Flow] #80848 |           80848          |                  |                                       |                  Closed                 |
+|                                             0781 Finalize Content Changes\[0781 PS] In-Progress Form Handling #103911                                            |          103911          |                  |                                       |                  Closed                 |
+|                                                         0781 IPF Alert Notification Finalization #109025                                                         |          109025          |                  |                                       |                  Closed                 |
+
+
+### 4142 Form Updates
+
+|                                                                    |                          |                  |           |                                               |
+| :----------------------------------------------------------------: | :----------------------: | :--------------: | :-------: | --------------------------------------------- |
+|                           **Sprint Goal**                          | **GitHub Ticket Number** | **Updated Date** | **Notes** | **End of Sprint Status**                      |
+| 4142 PS: Draft product/design brief and outline next steps #108559 |          108559          |                  |           | Closed                                        |
+|     Staging Review finding: 4142 No Auth Error Message #108119     |          108119          |                  |           | Default ticket. Will close once 108842 closes |
+
+
+### 526 Tech Debt
+
+|                                                                                                |                          |                  |           |                          |
+| :--------------------------------------------------------------------------------------------: | :----------------------: | :--------------: | :-------: | :----------------------: |
+|                                         **Sprint Goal**                                        | **GitHub Ticket Number** | **Updated Date** | **Notes** | **End of Sprint Status** |
+|                     Tech Debt: VA Notification email investigation #108885                     |          108885          |                  |           |          Closed          |
+|                  Tech Debt: 526 'XX' Data Issue - Discovery (Frontend) #108295                 |          108295          |                  |           |          Closed          |
+|                        Tech Debt: 526 'XX' Data Issue (Backend) #108294                        |          108294          |                  |           |          Closed          |
+|                     Tech Debt: Fix special chars converting to '?' #108835                     |          108835          |                  |           |          Closed          |
+|                         Tech Debt: Watermark removal discovery #108832                         |          108832          |                  |           |          Closed          |
+| Tech Debt: Update form526 IPF expiration date to 1 year from creation, not last update #107727 |          107727          |                  |           |          Closed          |
+
+
+## Conditions Team
+
+### Conditions Taxonomy and Classification
+
+|                                                                                      |                                                                                                |                  |           |                          |
+| :----------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------: | :--------------: | :-------: | ------------------------ |
+|                                    **Sprint Goal**                                   |                                    **GitHub Ticket Number**                                    | **Updated Date** | **Notes** | **End of Sprint Status** |
+|            Conditions: Set up local dev environment for new engineers #752           | [752](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/752) |                  |           | Closed                   |
+| Conditions: Investigate the steps required to create a new endpoint in vets-api #755 | [755](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/755) |                  |           | Closed                   |
+
+
+### Conditions Submission improvements
+
+|                                                                                                                                                                             |                                                                                                 |                  |           |                          |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------: | :--------------: | :-------: | ------------------------ |
+|                                                                               **Sprint Goal**                                                                               |                                     **GitHub Ticket Number**                                    | **Updated Date** | **Notes** | **End of Sprint Status** |
+|                                    Conditions Submission Improvements: Set up local dev for the front-end prototypes Kiwi and Mango #756                                    |  [756](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/756) |                  |           | Closed                   |
+| Introduce new team to upcoming research for multi-step condition submission[ #751](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/751) | [#751](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/751) |                  |           | Closed                   |
 
 _Approvals:_ _(sent via email but approvals tracked here)_
-- [x] ~~Ready to be sent for approvals (05/05/25)~~
-- [x] ~~VA PO & COR sent the Sprint Goals (05/05/25)~~
-- [x] ~~VA PO approved the Sprint Goals (05/07/25)~~
-- [x] ~~VA COR approved the Sprint Goals (05/07/25)~~
-- [ ] VA PO approved the Sprint Review
-- [ ]  VA COR approved the Sprint Review
+
+- [x]  ~~Ready to be sent for approvals (05/05/25)~~
+
+- [x]  ~~VA PO & COR sent the Sprint Goals (05/05/25)~~
+
+- [x]  ~~VA PO approved the Sprint Goals (05/07/25)~~
+
+- [x]  ~~VA COR approved the Sprint Goals (05/07/25)~~
+
+- [ ]  VA PO approved the Sprint Review
+
+- [ ]   VA COR approved the Sprint Review
 
 _Delivery + Notes:_
-- [ ] All goals have been updated in the sprint chart
-- [ ] Any Additional details about goals not completed will be documented here
+
+- [x] ~~All goals have been updated in the sprint chart~~
+
+- [x] ~~Any Additional details about goals not completed will be documented here~~
 
 
 ## **Sprint Goals - Sprint: 3 \[04/23/25 - 05/06/25]**
