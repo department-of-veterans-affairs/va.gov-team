@@ -4,14 +4,15 @@
 
 ## Summary
 
-**Desired user outcomes**
+**Goals**
 
 1) As a family member and/or caregiver of a Veteran, I can easily find and learn about the benefits and services available to me.
   - Metrics
     - Are the new pages being utilized as much as or more than the previous pages (findability)
-    - Mre visitors to the hub engaging with more than one page in the hub (retention)
+    - Are visitors to the hub engaging with the pages (retention)
+    - Are visitors to the hub viewing more than 1 benefit (discoverability)
   - Finding: Partially successful.
-    - While the new pages do not have increased traffic, the hub in general shows that visitors are remaining in the hub once there and interacting with the content. In addition, the percent of visitors executing a search from the hub is very low. 
+    - While the new pages do not have increased traffic, the hub in general shows that visitors are remaining in the hub once there and interacting with the content. 
 
 2) As a family member and/or caregiver of a Veteran, I can apply online or understand how to apply for the benefits and services available to me.
   - Metrics
@@ -89,7 +90,16 @@ Housing assistance | 55.92%
 Life insurance | 35.85%
 Burials and memorials | 17.51%
 
+**Referrals between hubs**
 
+Sub-hub | Total referrals |  Health | Education | Survivor comp | Housing | Life ins | Burials
+--- | --- | --- | --- | --- | --- | --- | ---
+Health | 8.15% | --- | 3.38% | **3.98%** | .36% | .08%
+Education | 3.11%  | 1.11% | --- | 1.72% | .13% | .15% | 0
+Surivor comp | 34.66% | 6.61% | 24.96% | --- | 1.41% | 1.09% 
+Housing | 3.22% | 1.39% |  .56% | 1.04% | --- | .10% | .13%
+Life ins | --- | --- | --- | --- | --- | --- | ---
+Burials | --- | --- | --- | --- | --- | --- | ---
 
 ### Referrals to apply
 
