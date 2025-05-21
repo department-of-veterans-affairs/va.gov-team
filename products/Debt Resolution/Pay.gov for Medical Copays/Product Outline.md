@@ -5,14 +5,13 @@
 Establish a "hosted collection page" from pay.gov to the va.gov debt portal to streamline the Veteran experience by enabling them to make payments for medical copayment debts without navigating away from the va.gov financial management experience. 
 
 ## Problem Statement
-Currently Veterans managing their debts on our platform must navigate to an external website (pay.gov) to complete payments. This context switching leads to drop-off, confusing and an inconsistent user experience. There is a little visibility into how Veterans interact with the payment process once they leave our platform, making it difficult to optimize performance or troubleshoot issues. 
+Currently Veterans managing their copays on the va.gov platform must navigate to an external website (pay.gov) to complete payments. This context switching leads to drop-off, confusing and an inconsistent user experience. There is a little visibility into how Veterans interact with the payment process once they leave the va.gov platform, making it difficult to optimize performance or troubleshoot issues. 
 
-In addition, the VA Debt Management Center (DMC) will be deprecating the pay.va.gov site and would like to process payments through a pay.gov integration. While this solution will greatly improve the Veteran experience as described above, it will also provide a means for DMC to shift payments from the pay.va.gov process and ultimately eliminate that functionality. 
 
 ## Desired User Outcomes
-- Veterans can initiate and complete debt payments directly from va.gov debt portal site without being redirected to pay.gov
+- Veterans can initiate and complete copay payments directly from va.gov debt portal site without being redirected to pay.gov
 - Veterans feel secure and confident in the payment process.
-- The flow feels intuitive, quick, and personalized to the type of debt they are managing.
+- The flow feels intuitive, quick, and personalized to the medical copay they are managing.
 
 ## Undesired User Outcomes
 - Veterans get confused or drop off mid-process due to unclear interfaces or payment errors. 
@@ -20,10 +19,10 @@ In addition, the VA Debt Management Center (DMC) will be deprecating the pay.va.
 - Veterans encounter technical issues without clear paths to resolution.
 
 ## Desired Business Outcomes
-- Overpayment Debt Payments are successful being processed via new pay.gov hosted collection page
+- Payments for medical copayments are successful being processed via new pay.gov hosted collection page
 - Reduced call center calls related to payment questions or issues. 
 - Enhanced data visibility and reporting on Veteran payment behavior. 
-- Improved Veteran satisfaction and retention for the debt management portal.
+- Improved Veteran satisfaction and retention for the debt management portal on va.gov.
 
 ## Undesired Business Outcomes
 - Low adoption of the hosted payment solution due to poor UX or technical issues.
@@ -42,8 +41,8 @@ In addition, the VA Debt Management Center (DMC) will be deprecating the pay.va.
 - CSAT scores related to experience - target 80%+ (Trust/Satisfaction)
 
 #### Baseline KPI Values
-- Current payment completion rate via pay.va.gov
-- Average number of call centers per month related to payment of overpayment debt
+- Current clicks to pay.gov site; indicating Veterans desire to process a payment
+- Average number of Health Resource Center (HRC)call centers per month related to payment of medical copayments
 
 ### Objectives and Key results (OKRs)
 Objective 1: Improve payment experience and reduce friction 
@@ -112,7 +111,7 @@ Objective 2: Strengthen Veteran trust in the debt payment experience
 - GitHub Label: vsa-debt
 - Slack channel: #financial-management 
 - Product POCs: Denise Coveyduc
-- Stakeholders: Robert Vitt
+- Stakeholders: Robert Vitt, Monica Smith, Mari Beth Nye, David Adcock
 
 </details>
 
