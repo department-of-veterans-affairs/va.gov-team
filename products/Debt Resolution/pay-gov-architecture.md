@@ -13,7 +13,7 @@ This doc reflects our current understanding and is subject to change
 sequenceDiagram
     participant Veteran as Veteran
     participant VA as VA.gov
-    participant DebtSvc as VA Debt Service
+    participant DebtSvc as vets-api
     participant PayGov as Pay.gov
     participant FinInst as Financial Institution
 
