@@ -1,7 +1,5 @@
 
 # Product Outline - Self-Service Authentication
-*Iterating on a product? Have a new feature? Check out the [Initiative Brief Template.](https://bit.ly/initiative-brief-template)*
-
 ---
 
 ## Overview
@@ -63,7 +61,7 @@ Veterans escalate issues to leadership, the White House hotline, or external adv
 
 ## Launch Strategy
 - We will collaborate with OGC and VBA VSO Liaison, Martin Martinez, to provide awareness for the portal. 
-- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/product-info/self-service-auth/release-plan-self-service-auth.md)
 
 ## Launch Dates
 - *Target Launch Date*
