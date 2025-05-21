@@ -130,15 +130,15 @@ Remote research, over Zoom.
 - [Link to prototype](url goes here)
 	
 ## Recruitment 🎯	
-> [!NOTE]
-> Before writing your recruitment criteria, be sure to review the following resources: 
-> - [Refer to the Perigean Recruitment Guidance](https://depo-platform-documentation.scrollhelp.site/research-design/recruiting-participants) to learn how Perigean recruits, screens, and prepares participants for research. 
-> - [Refer to the inclusive recruitment strategies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md) to learn how to be inclusive of underserved Veteran communities.
 
 ### Recruitment approach
-> [!NOTE]
-> **does the team want to recruit existing CHAMPVA beneficiaries, or those who may qualify and haven't applied yet?**
-> **draft** Our intended audience for this study is Veterans and Dependent spouses and children who have applied for benefits through the CHAMPVA program. We will be utilizing Perigean to assist us with recruiting our participants. WE will use the lean maximum variation inclusive recruitment strategy outlined by OCTO. 
+We would like Perigean to recruit assistive technology (AT) and non-AT users.
+
+Our intended audience for this study is Veterans with high disability ratings and their dependent spouses and children, who may or may not be currently enrolled in the CHAMPVA program. We will split this study into two cohorts:
+
+* **Cohort 1 (14 participants):** Veterans with a 100% service connected disability rating with spouse and/or dependent children.
+  
+* **Cohort 2 (8 participants):** Spouses and dependent children of Veterans with a 100% service connected disability rating
 
 ### Recruitment criteria
 
@@ -151,15 +151,12 @@ Remote research, over Zoom.
 - Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Review an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/pre-mhv-prototype/generative-research-study-1/2020-12.research-plan1.md)
 
 ### List the ideal completed sessions and total number and type (Veterans, caregivers, etc.) of participants for this study:
-> [!NOTE]
-> Your total number should equal **1.5x** your ideal completed sessions number *(e.g. for 10 ideal completed sessions, request 15 total participants)*
 
-
-- `Veterans:` **[n]**
-- `Caregivers:` **[n]**
-- `Dependents:` **[n]**
-- `Total:` **[n]**
-- `Ideal completed sessions:` **[n]**
+- `Veterans:` **14**
+- `Spouses:` **4**
+- `Dependents:` **4**
+- `Total:` **22**
+- `Ideal completed sessions:` **15**
 
 ### Primary criteria (must-haves)
 *What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
@@ -200,14 +197,14 @@ We would like a kick-off call with Perigean to discuss recruitment criteria.
 - `Planned dates of research:` **June 4-17**
 
 ### Length of sessions
-- `Session length:` Up to 90 minutes
+- `Session length:` 60 minutes for non-AT users, 90 minutes for AT users
   
-- `Buffer time between sessions:` 30-60 minutes
+- `Buffer time between sessions:` 30 minutes
   
-- `Maximum Sessions per day:` 3 per day
+- `Maximum Sessions per day:` 4 per day
 
 ### Availability
-` Monday - Friday 9am-12pm ET and 1pm-6pm ET `
+` Monday - Friday 9:30am-1:30pm ET and 2:30pm-6:30pm ET `
 
 > [!TIP]
 > Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. **(e.g. 3/17, Monday 9:00AM-1:00PM, 3:00PM-6:00PM EST; 3/18, Tuesday 9:00AM-6:00PM EST, etc.;** ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
