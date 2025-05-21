@@ -76,6 +76,7 @@ collect payment from Veterans for copays.
 **14. Who was the latest integration? Peace corps? Is there another example with a payment being tied to an entity like in our case possibly a debt? How long did the PeaceCorps/latest integration take?**
 
 **15. Do we need to store anything like the tracking ID?**
+[See notes from meeting on 4/24](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107630#issuecomment-2828988071)
 
 
 05/20/25 Questions:
@@ -85,11 +86,12 @@ Combining payments:
 
 **1. Will Pay.gov be able to process multiple copays AND overpayments within the same transaction?**
 
-**2. Will Pay.gov be able to process multiple within the same transaction? And be able to attach the payment amount to each copay. Ex: $40 goes to VA Medical Center A, $200 goes to VA Medical Center B (Same question for overpayments)**
+**2. Will Pay.gov be able to process multiple copay bills within the same transaction? And be able to attach the payment amount to each copay? Ex: $40 goes to VA Medical Center A, $200 goes to VA Medical Center B. 
+Same question for overpayments: Will Pay.gov be able to process multiple overpayment bills within the same transaction? And be able to attach the payment amount to each overpayment? Ex: $40 goes to GI Bill overpayment, $200 goes to Compensation and Pension overpayment.**
 
-Logged out experience:
+Logged out/Unauth experience:
 
-**3. In the future will it be possible for Pay.gov to confirm that debts exist?**
+**3. Will it be possible for Pay.gov to confirm that debts exist?**
 
 **4. If not, is it possible to send this data to VA to reject payments for debt that does not exist before the transaction is complete?**
 
@@ -99,4 +101,3 @@ Required information:
 
 
 
-[See notes from meeting on 4/24](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107630#issuecomment-2828988071)
