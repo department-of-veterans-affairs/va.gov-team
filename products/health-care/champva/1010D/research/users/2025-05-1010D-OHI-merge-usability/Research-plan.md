@@ -152,24 +152,27 @@ Our intended audience for this study is Veterans with high disability ratings an
 
 ### List the ideal completed sessions and total number and type (Veterans, caregivers, etc.) of participants for this study:
 
-- `Veterans:` **14**
-- `Spouses:` **4**
-- `Dependents:` **4**
-- `Total:` **22**
-- `Ideal completed sessions:` **15**
+- `Veterans:` **10**
+- `Spouses:` **3**
+- `Dependents:` **2**
+- `Total:` **15**
+- `Ideal completed sessions:` **22**
 
 ### Primary criteria (must-haves)
 *What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
 
-- `[Place primary criteria here between hash marks when in edit mode]`
-- `primary criteria`
-- `primary criteria`
+- `7 must be aged 55-64+`
+- `At least 7 must NOT use assistive technology`
+- `3 must use a screen reader every time they access the internet`
+- `3 must use a screen magnifier every time they access the internet`
+- `At least 5 must be primarily mobile users and willing to use it for the session`
+
 - **`Add more criteria as needed`**
 
 #### Secondary criteria (nice-to-haves)
 *What criteria would strengthen your results?* 
 
-- `[Place secondary criteria here between hash marks when in edit mode]`
+- `At least 7 `
 - `secondary criteria`
 - `secondary criteria`
 - **`Add more criteria as needed`**
