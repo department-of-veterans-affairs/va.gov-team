@@ -150,4 +150,103 @@ Open text field provided.
 # Debt Portal Feedback (VFS Survey [blue button feedback] and A11 Survey [intercept survey])
 
 
+## VA.gov A11 Questionnaire
 
+## What is your overall satisfaction with this site? Average: 2.23 (out of 5)
+
+Why did you select that rating? 
+
+N = 45 (qualitative responses)
+
+## Positive feedback, N = 25
+
+Examples: 
+
+> Easier to find information than before.
+
+> Ryan helped me with each reason for which I called.
+
+> I was paying a copay pharma bill. It was a very easy process.
+
+> I understand everything that pertains to my needs
+
+> Very easy to navigate the website.
+
+> the site is getting better and easier to use
+
+
+## VA.gov VFS Questionnaire
+
+## What task were you trying to do today?
+
+N = 44 (qualitative responses)
+
+## Recent payments made not reflected on debt portal, processing delays, N = 14
+
+> I made an online payment - I copied your confirmation of payment details - your site IS NOT UPDATED YET ..
+
+> Balance data is confusing.  I've paid this.  It doesn't need to show any longer.
+
+> Wanted to check the balance for my co-pays.  I was not able to do that as the data is old.  Today is 4 Apr 25 and the last update was 8 Feb 25.
+
+> Payment information has not been updated since Jan 2025.  Shows I still owe and I have made all my payments.
+
+> Wanted to check the balance for my co-pays.  I was not able to do that as the data is old.  Today is 4 Apr 25 and the last update was 8 Feb 25.
+
+> reviewing my co-pay and rx bill states i may be overdue. but it also states" if paid after the posted date it will not reflect here". this page should reflect all payments made to clear a "bill over due statement" even after the posted date.
+
+> Pay bill for medication.  I have been signed in and  verified several times.  Was told I never used VA healthcare!  Was told I had no account.  This website never works for me and I have Id.me and login.gov accounts .  Also phone is not answered for     copay phone just goes dead
+
+
+
+## Ideas and more detail requested
+
+> I would like to the the payment history of what is currently being taken out each month and the amount owed or the history each 
+
+> Reconcile my account. you show 3 statements only?
+
+> Can you please email me when a payment is due and when a payment has been made. My account shows a payment due and late, but I think I made the payment but there is no way of knowing.
+
+> Check my co-pay amount due.  Would like to see confirmation of paid bills.
+
+> Pay copay. It's confusing. To me it doesn't make any sense.  Why not have a detailed bill, which shows total amount due?  It truly sucks!
+
+> Checking my debt re my meds ordered. It says I owe money and I do not. System does not update as all other financial systems do. Also it would be better to be available on the phone app to see instead of having to use a computer to find it!
+
+> you make everything so F'n difficult that I can not even pay a debt without filling out form. I will just wait the 60 days and you can bill me automaticlly. I thought the VA was suppose to make thing easier. it's NOT!!!!!!!!!!
+
+## Inconsistent messaging
+
+> Trying to find out why money is being taken out of my disability check if you say I don't have any VA debt??
+
+> It says I have 2 VA debts but when I click on it it says I do no owe the VA any money
+
+> Clown show! Looking for a debt to VA I supposedly owe. last statement I see is from Jan 2025 One place shows a debt of $105.27 another page says I have no debt. a phone call to VA was told I actually have a credit!!!!  SMH! (copay)
+
+
+## Service Design issues
+
+> My bank account shows a withdrawal of $4,180.97 which I can't see ever receiving, this was my wife's previous monthly check {  } I have to borrow this to get my checking account back above negative. DON'T KNOW WHERE TO TURN!!!
+
+## Misc
+
+
+> Find out my priority group for my VA medical coverage and the things that would or would not be covered.  Nothing but generalized information.
+
+> I was attempting to pay my prescription co-pay.  However, the only time I know how much I owe is if I got to the VA site and I am informed I have a past due bill.  Is there anyway I can keep my credit card on file and have copay placed directly on my credit card when I owe something not being informed after it is overdue?
+
+> Dispute your copay charges - this procedure is incorrect for  [ ]. , OR VA per
+
+> Had i not been just looking around, I would have never noticed the 44 I owe you.  You guys are or have been really good with billing.  I received no such bill this time.....
+
+> See my VA balance and make a payment.  Afer 15 years, it tells me I am not enrolled for VA Health care.
+
+> Identify who put in the wrong mailing address and who corrected it.
+
+> In the past, I paid my co-pay online. With this new system it seems that option does not exist?
+
+> I am trying to request my prescription bill be submitted to my new insurance.  I have new insurance as of 1/1/2025.  I brought my card to my appt. 4/4/2025, so it could be updated in the system, but so far this year none of my prescriptions were run through my new insurance.  I call the 1-866-290-4618 number for statement questions at 9:15am PST today, but no answered. Please help me determine how I can have my 2025 prescriptions submitted to my new insurance. Thank you, 
+
+## Bug on pay.gov
+
+> pay.gov was not available today on this new site. It will not load on my computer.
