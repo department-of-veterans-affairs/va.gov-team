@@ -67,9 +67,9 @@ User actions prioritized for the MVP
 | Event type | Event description | Identifier | Implemented |
 | --- | --- | --- | --- |
 | Sign-in | Sign in on [VA.gov](http://va.gov/) | sign_in | :white_check_mark: |
-| Profile | Update mailing address | update_mailing_address |  |
-|  | Update phone number | update_phone_number |  |
-|  | Update email address | update_email_address |  |
+| Profile | Update mailing address | update_mailing_address | :white_check_mark: |
+|  | Update phone number | update_phone_number | :white_check_mark: |
+|  | Update email address | update_email_address | :white_check_mark: |
 | Payments | Add direct deposit for pension | add_direct_deposit_pension |  |
 |  | Update direct deposit for pension | update_direct_deposit_pension |  |
 |  | Add direct deposit for disability compensation | update_direct_deposit_disability |  |
