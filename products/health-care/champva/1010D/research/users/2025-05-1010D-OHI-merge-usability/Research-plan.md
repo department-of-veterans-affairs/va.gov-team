@@ -141,6 +141,10 @@ Our intended audience for this study is Veterans with high disability ratings an
 
 ### Recruitment criteria
 
+
+**Cohort 1 (Veterans)**
+
+
 - **Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants.**
 - Consider providing links to products and/or clear descriptions to ensure participants understand the question.
   Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
@@ -163,8 +167,9 @@ Our intended audience for this study is Veterans with high disability ratings an
 - `3 must use a screen reader every time they access the internet`
 - `2 must use a screen magnifier every time they access the internet`
 - `7 must be aged 55-64+`
+- `At least 4 must be primarily mobile users and willing to use it for the session`
+- `At least 4 must be users on desktop/laptop devices
 - `At least 7 must NOT use assistive technology`
-- `At least 5 must be primarily mobile users and willing to use it for the session`
 
 - **`Add more criteria as needed`**
 
@@ -226,10 +231,10 @@ We would like to have an AT user pilot, and non-AT user pilot
 
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
-- `Moderator:` Renata Keck & [SOMEONE ELSE]	
+- `Moderator:` Renata Keck & Jamie Fiore
 - `Research guide writing and task development:` Renata Keck	
 - `Participant recruiting & screening:`	Perigean	
-- `Project point of contact:` Renata Keck & [SOMEONE ELSE] 	
+- `Project point of contact:` Renata Keck & Jamie Fiore	
 - `Accessibility specialist (for sessions where support for assistive technology may be needed):` **[Enter full name]**	
 - `Note-takers:` Renata Keck, Jamie Fiore, and Rachel Pope
 - `Observers:` Will need to sign up so we can limit the number per session. Renata will add them to the session invites received from Perigean.
