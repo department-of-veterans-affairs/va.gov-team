@@ -16,7 +16,7 @@ iFAMS is the current system that VA employees use to complete financial and acqu
 
 ### Product Brief
 
-**[Link to product brief](url goes here).**
+**[Link to product brief](https://dvagov.sharepoint.com/:w:/r/sites/PEICAM/_layouts/15/Doc.aspx?sourcedoc=%7B727188AD-B6F8-47D9-B7E1-5AAFF8FDDAA5%7D&file=IGA%20Value-add%20at%20the%20VA.docx&action=default&mobileredirect=true).**
 
 #### [OCTO-DE Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md) 
 <details><summary>Which OCTO priorities does this research support? Work with your VA lead and product manager as needed. </summary>
