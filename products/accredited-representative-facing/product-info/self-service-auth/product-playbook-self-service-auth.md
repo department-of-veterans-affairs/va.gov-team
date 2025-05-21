@@ -23,7 +23,7 @@
 
 ### Errors and Metrics
 
-This section will focus on how to identify and measure errors and performance metrics for the "Manage POA Request" feature.
+This section will focus on how to identify and measure errors and performance metrics for the Self-Service Authentication feature.
 
 #### Error Logging
 
@@ -35,7 +35,6 @@ This section will focus on how to identify and measure errors and performance me
 
 - **Datadog Monitoring:** Utilize Datadog to monitor the application's performance. Track metrics like response times, server load, and API call frequencies.
 - **Thresholds and Anomalies:** Set performance thresholds in Datadog. Receive alerts when metrics fall outside of these thresholds, indicating potential performance issues (NOTIFICATIONS HAVE NO BEEN SETUP YET).
-- **User Journey Tracking:** Monitor key user journeys to ensure the feature is performing as expected. This can include tracking the success rate of POA requests decisions being submitted.
 
 #### Feedback Loop
 
@@ -65,8 +64,7 @@ This section outlines the steps to investigate and resolve issues related to the
 - **Postmortem Analysis:** Conduct a postmortem analysis to understand the root cause and document learnings. Update the playbook accordingly to improve response for future incidents.
 
 ### Flipper Features and Rollback
-- Add pilot participant emails to whitelist to enable their access to the Accredited Representative Portal
-- For rollback, we will need to work with the Accredited Representation Management team to [disable feature toggle as a rollback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/appoint-a-representative/launch-materials/product-playbook-incident-response-plan.md#v2)
+- [Flipper for the API endpoint](https://github.com/department-of-veterans-affairs/vets-api/blob/0044406fa912f5f05084f34a6be90fd31234c65d/modules/accredited_representative_portal/app/controllers/accredited_representative_portal/application_controller.rb#L57-L66)
 
 Note: We will be in direct contact with all 13 pilot participants during the pilot phase. Any issues that arise, we will be able assist. 
 
