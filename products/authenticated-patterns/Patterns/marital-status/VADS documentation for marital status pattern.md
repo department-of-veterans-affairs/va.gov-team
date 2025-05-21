@@ -25,6 +25,14 @@ Christine Rose Steiffer (Agile Six)
 
 Kristen Faiferlick (Ad Hoc)
 
+Jeana Clark (Ad Hoc)
+
+Beth Pandone (Pluribus)
+
+Jaci Wilkinson (Ad Hoc)
+
+
+
 ### On this page
 
 Usage
@@ -52,6 +60,8 @@ Research findings
 
 **Take a trauma-informed approach.** Although commonly asked, questions about marital status and previous marriages can bring up complex feelings and memories in respondents. Explain why we ask the question with an [Additional info](https://design.va.gov/components/additional-info) component. Limit data collection to only the necessary data for your form. 
 
+**Only ask for what you really need.** While this pattern offers many options for subsequent questions that can be asked, only collect the specific data that your forms requires. 
+
 
 ### **How to design and build**
 
@@ -59,7 +69,8 @@ Research findings
 
 ##### “What is your marital status?” question
 
-* **This question is the foundational part of this pattern.**  If your form needs additional information, you can include questions from the question bank below. 
+* **This question is the foundational part of this pattern.**  If your form needs additional information, you can include questions from the question bank in this guidance.
+* **If your form doesn't need this level of detail, simply ask 'Are you married?'.** Include 'Yes/No' radio button options for a response, and map those to the 'Married/Never Married' workflows.
 * **Include an explanation for why we ask this question.** Place this explanation in an [Additional info](https://design.va.gov/components/additional-info) component for questions that may feel particularly invasive or difficult for users to answer. 
 
 Use the following questions in this pattern if your form needs more information. 
