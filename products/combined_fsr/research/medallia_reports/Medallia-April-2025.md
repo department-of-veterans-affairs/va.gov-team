@@ -10,7 +10,7 @@
 |--|--|--| --
 |VA.gov Experience Rating  |  **71.18%, N = 59** | **49.01%** | 54.94% |
 |Overall User Satisfaction With the Site  | **35%, N = 108** | **13.61%** | 26.71% |
-|Users Understanding of the VA.gov Website  | **75.47, N = 53**| **49.64%** | 58.89% |
+|Users Understanding of the VA.gov Website  | **75.47%, N = 53**| **49.64%** | 58.89% |
 |Users Trust in the VA's Commitment to Veterans  | **68%, N = 116**| **64.01%** | 57.76% |
 |Users Trust in the VA in General  | **55.17% N = 116** | **33.33%** | 34.18% |
 
