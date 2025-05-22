@@ -3,6 +3,65 @@ Every other Wednesday at 2:35pm ET
 
 ## 05/14/25 CHAMPVA Claims
 
+**Attendees:** Andrea, Jamie, Renata, Mike, Angela P, Melissa, Joie
+
+### Notes:
+[Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1742221275311/1794184f6793a8f3f1a91a54447817403dc39fec) \
+
+IVC identified different types of claims based on past conversations emails: new claim, open claims, existing claim (with missing info), re-opened claim 
+
+A claims submission is a **new claim** 
+
+**Partially processed **claims result in a sendback
+
+
+
+* Once a bene provides missing info is there a different term that is used? From Mellssa: An example would be if a bene sent in 2 documents with dates of services at the same time that would count as 2 claims. If only one of those claims can be processed it would result in a partially processed claim. 
+* It happens a lot that there are multiple claims within one claim submission that the bene sends. Some benes might submit claims on a monthly basis. 
+* It will be considered partially processed if one claim in the packet is missing something.
+* A partially processed claim is when some of the claims in the packet were processed.
+* If a bene sends in 5 pages and only four were able to get processed, page 5 is going to be a sendback. 
+* There are times that they can process a claim with multiple missing items and the system will reject it and create an EOB. 
+* CHAMPVA will create a sendback when a claim has two or more missing pieces
+* It would be entered in the system and there was placeholder information that was entered in because they were missing info they would have to reopen the claim. 
+* Anything complete will be processed, anything incomplete will be sent back (but if user submitted multiple claims, it's not stopping processing for the entire submission)
+
+Renata reviewed current claims form (without online resubmission)
+Is there a better term to use rather than “resubmission”? Melissa noted that the sendback letter calls it a “resubmission”. 
+
+**Reopened claims **occurs when the sendback letter and missing items are received \
+If some of claim info is the system and it is just missing codes CHAMPVA will reopen the claim 
+
+The current online claim forms suggest only submitting one claim (date of service) at a time.
+
+
+
+* Bene are sending multiple claims on the digital form despite it stating to only submit one at a time
+* Just as long as the group of visits (dates of service) has the same provider and DX code it can be put in the system as one claim.  \
+
+* If the date spans across 2 calendar years CHAMPVA will break it into the 2 claims in the system
+* In the case of multiple visits per claim users should enter the first date service if they are asked for it. 
+* If a bene submitted for multiple services each claim will get their own unique ID unless they are all by the same provider and the same DX. 
+* CHAMPVA has seen both RX and Medical claims come through in the same online form submission. 
+
+**A resubmission** is resubmitting or adding additional info to a claim \
+
+
+**Reopen claim** was partially processed and has its own claims number and CHAMPVA EOB
+
+IVC is working on document info verification so it could detect if there is any missing info on the file upload. We would need users to upload each doc separately for this to work properly. 
+CHAMPVA will do a demo of a rebsubmission/Reopen next week 5-28/25 \
+
+We still need to ask: 
+
+* Do they need the address and contact info again for resubmission?
+* How do they match it back to original resubmission? Can we see a demo of a resubmission? Pega may be able to to do most of the heavy lifting on matching up the claims and resubs
+* Does the timeline differ for new claims, resubmits and reopens? 
+* What  we are some things that can be missing be won’t result in a sendback or reopen \
+
+
+## 05/14/25 CHAMPVA Claims
+
 **Attendees:** Andrea, Jamie, Rachel P., Renata, Mike, Katrina, Erick, Angela P., Elizabeth, Arleen, Premal, Amanda
 
 **Agenda**
