@@ -1,22 +1,24 @@
-# Initiative Brief: Add Data to the List View
+# Initiative Brief: Add Actions to the List View
 
 ## Goals
-- Validate value of showing clinic name and clinic location in the list views for upcoming and past appointments.
+- Veterans can start some tasks directly from the list view. This helps surface time-sensitive tasks like joining a video appointment or filing for travel pay, while making it easy to access common tasks like viewing an after-visit summary.
 
 ## Github link
- - [Initative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110421)
+- [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110423)
 
 ## Metrics
-- Complaints about data missing from list view go down (Medallia).
-  - These will likely never go away, as for some users the data won’t display AND clinic name will not contain the needed information.
-- Complaints about clinic names in list view do not start/increase (Medallia).
-- Clicks into details views go down.
-- Printing list view goes up.
+- Clicks on tasks from the list view go up and either continue to rise or level out (doesn't drop sharply).
 
 ## Roadmap
-- Secondary research - Review previous related studies.
-- Determine which appointment types should display clinic name and location in the list.
-- Design wireframes with minimal changes to the current list view. Design explorations.
-- Build under feature flag
-- Run production UAT
-- Phased release/track Medallia feedback
+- Collab Cycle - Design Intent
+  -  May want to include print features in collab cycle/research.
+- Secondary Research
+  - Review CIE research on tasks in the list view.
+  - Review Medications studies about tasks. 
+- Design Prototype for Testing
+  - Review CIE prototypes for similar functionality.
+- Collab Cycle - Midpoint Review
+- Test Prototype  
+- Collab Cycle - Staging Review
+- Release
+- Track Medallia and Usage
