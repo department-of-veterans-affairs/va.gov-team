@@ -30,7 +30,7 @@ This feature toggle is setup for authenticated users and we can also enable earl
 _The Profile page typically has ~130k users per week, but it can climb up to ~150k users per week._
 1. Stage A: 25% of users (~4.6k users per day) - Thursday, 5/22 + _inform Platform Support in case any issues arise over the holiday weekend_
 2. Stage B: 50% of users (~9.2k users per day) - Tuesday, 5/27
-4. Stage D: 100% of users (~18.5k users per day) - Monday, 6/2
+4. Stage C: 100% of users (~18.5k users per day) - Monday, 6/2
 
 ***
 
