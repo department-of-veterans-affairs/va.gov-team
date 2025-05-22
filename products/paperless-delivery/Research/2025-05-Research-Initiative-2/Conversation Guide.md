@@ -107,24 +107,33 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 2) When do you log into your VA.gov account? What prompts you?
 
-3) Can you tell me a little about how you typically receive important forms or communications? (e.g. through physical mail, email, etc.)
+3) Imagine you navigated to your profile and you see a section called notification settings. What would you expect to be able to do in the section?
 
-4) How comfortable are you using digital platforms to access information?
+4) When you hear the terms **paperless**, **paper-free**, and **online documents**, what comes to mind? Can you describe how you would define each of them in your own words?
+
+5) Are there other similar terms or labels you think would make the process clearer?
+
+6) Can you tell me a little about how you typically receive important forms or communications? (e.g. through physical mail, email, etc.)
+
 
 
 ## **First Task: Feelings toward Digital Communication - 5 minutes**
 
 - Interest in Digital Communications
 
-  - Are you interested in receiving all or some of your documents like the 1095-B tax document, decision letters, or other communications only digitally on VA.gov and not recieve paper copies by mail? Why or why not?
+- How does the idea of paperless communication make you feel? Why?
 
-  - What would make you more likely to choose digital communication only and not receive paper mail?
+- Are you interested in receiving all or some of your documents like the 1095-B tax document, decision letters, or other communications only digitally on VA.gov and not recieve paper copies by mail? Why or why not?
+
+- What would make you more likely to choose digital communication only and not receive paper mail?
 
 - Hesitation to Digital Forms
 
-  - Are there any VA documents or other communication you would prefer to receive by physical mail vs only digitally on your VA.gov account? Why?
+- Can you tell me about your experiences receiving important documents digitally—for example, from the VA or other government services? What made you feel confident or unsure about those experiences? (e.g. privacy, security, reliability, easy of access)
 
-  - Are there any specific concerns you would have about receiving certain documents or communications digitally? (e.g. privacy, reliability, easy of access)
+- Are there any VA documents or other communication you would prefer to receive by physical mail vs only digitally on your VA.gov account? Why?
+
+- Do you have any concerns about switching to digital communication?
 
 
 ### **Things to watch for:**
@@ -175,10 +184,16 @@ Before we look at the website, let’s start with a few warm-up questions.
 - After updating your preferences, how confident do you feel that your changes have been saved?
 
 - When do you think your updated preferences will start taking effect?
+  
+- After updating your preferences, can you show me how you would confirm that your changes have been saved?
 
-- Would you expect a confirmation or follow-up communication about your update? How would you expect to receive that?
+- Can you describe what steps you would take if you did not receive a confirmation?
 
 - I will now provide an alternative view (radio or checkbox) of the paperless delivery page for you to opt in to paperless delivery on.
+
+- How easy or difficult was it to interact with the prototype on your device?
+
+- Did you notice any features that made it easier or harder for you to complete the tasks?
 
 - Which option did you prefer?
 
@@ -205,6 +220,8 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 
 ## **Post-Task Interview - 3 minutes**
+
+- After seeing this prototype, is there anything that might make you hesitate or decide not to sign up for paperless delivery?
 
 - If you had a magic wand and could make any changes to the way the VA communicates with you what would that be?
 
