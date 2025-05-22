@@ -36,7 +36,7 @@ This project aims to improve the appointment list view experience by adding esse
 
 **Goal:** Allow veterans to initiate tasks directly from the list view, such as joining video appointments or filing travel pay, and access common tasks like viewing after-visit summaries.  
 
- [Github link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110423)
+- [Github link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110423)
 
 **Metrics:**
 - Increased and sustained task clicks from the list view.
