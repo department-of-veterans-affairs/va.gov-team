@@ -4,7 +4,7 @@
 - Validate value of showing clinic name and clinic location in the list views for upcoming and past appointments.
 
 ## Github link
- - [Link] (https://github.com/department-of-veterans-affairs/va.gov-team/issues/110421)
+ - [Initative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110421)
 
 ## Metrics
 - Complaints about data missing from list view go down (Medallia).
