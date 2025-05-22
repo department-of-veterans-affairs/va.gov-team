@@ -6,7 +6,7 @@
 | :-------------  | :-------------          | :-------------       | :----------- |
 | Jan 2025 | quantitative data review | regular check in of survey and help center data covering Oct/Nov 2024 | [Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/Ongoing%20-%20quantitative%20data/2024%20Q4%20quantitative%20data%20findings.md) |
 | Feb/Mar 2025 | delegate access | Secondary research - understanding past research related to delegate access | [Demo slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/delegate%20access%20/Delegate%20Access%20Resources.pdf), [research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Research/2024-11%20Guardian%20access) |
-| Apr 2025 | delegate access | moderated discovery to help narrow our MVP focus | [research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Research/2025-04%20delegate%20access) | 
+| Apr/May 2025 | delegate access | moderated discovery to help narrow our MVP focus | [research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Research/2025-04%20delegate%20access) | 
 
 ## CY 2024
 
