@@ -8,7 +8,7 @@ The link on the landing page, "Share your personal health data on the Share My H
 - On production env, the smhd link is 'https://veteran.apps.va.gov/smhdWeb'.
 
 ### On staging, the following issues were identified:
-- The link will only work if tester is signed in to CAG and copies and pastes the link into a browser within CAG
+- The link will only work if the tester clicks on it in a browser within the CAG network
 - When following the instruction in the bullet just before this one, sometimes the site would require the tester to sign in again to VA.gov
 
 ### On prod (during GNG on May 16) these issues were resolved:
