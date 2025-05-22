@@ -60,7 +60,7 @@ Step 4
 
 ## **Intro - 5 minutes**
 
-Thanks for joining us today! My name is Raquel and Megan Commons is taking notes. I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them...
+Thanks for joining us today! My name is Raquel and Megan is taking notes. I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them...
 
 I have a few things that I want to go over with you:
 
@@ -178,7 +178,9 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - Would you expect a confirmation or follow-up communication about your update? How would you expect to receive that?
 
-- I will now provide an alternative view (radio or checkbox) of the paperless delivery page for you to opt in to paperless delivery on. Which option did you prefer?
+- I will now provide an alternative view (radio or checkbox) of the paperless delivery page for you to opt in to paperless delivery on.
+
+- Which option did you prefer?
 
 
 ### **Things to watch for:**
