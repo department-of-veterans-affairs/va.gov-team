@@ -14,12 +14,12 @@ This feature toggle is setup for authenticated users and we can also enable earl
 - [x] Privacy, Security, IA Readiness Review - https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/issues/3986
 
 #### Go/No Go Meeting Thursday, 5/22 1:00pm ET
-- [ ] Test the 2.0 Profile and MyVA experience in Production
-- [ ] Review the release plan
-- [ ] Address any open questions or concerns 
-- [ ] Determine a verdict
+- [x] Test the 2.0 Profile and MyVA experience in Production
+- [x] Review the release plan
+- [x] Address any open questions or concerns 
+- [x] Determine a verdict
 
-**Verdict:TBD**
+**Verdict:GO!**
 
 # Staged Rollout Details
 
@@ -30,7 +30,6 @@ This feature toggle is setup for authenticated users and we can also enable earl
 _The Profile page typically has ~130k users per week, but it can climb up to ~150k users per week._
 1. Stage A: 25% of users (~4.6k users per day) - Thursday, 5/22 + _inform Platform Support in case any issues arise over the holiday weekend_
 2. Stage B: 50% of users (~9.2k users per day) - Tuesday, 5/27
-3. Stage C: 100% of users (~18.5k users per day) - Thursday, 5/29
 4. Stage D: 100% of users (~18.5k users per day) - Monday, 6/2
 
 ***
