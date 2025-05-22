@@ -6,7 +6,7 @@ Feature Toggle/flag:
 This feature toggle is setup for authenticated users and we can also enable early access in Production to individual users, via email address.
 
 #### Preparing for Release
-- [ ] All "launch blocking" items from Staging Review have been addressed
+- [x] All "launch blocking" items from Staging Review have been addressed
 - [x] All "Before release" items have been addressed
 - [x] Analytics request is submitted, for Domo dashboard updates - https://github.com/department-of-veterans-affairs/va.gov-team/issues/107490
 - [x] Monitoring in the [Profile Datadog dashboard](https://vagov.ddog-gov.com/dashboard/86m-u8e-z5x/authenticated-experience-profile?fromUser=false&refresh_mode=sliding&from_ts=1746734846272&to_ts=1747339646272&live=true) is setup
