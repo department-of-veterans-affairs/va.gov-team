@@ -176,23 +176,45 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - Navigate to where you would expect to update your delivery preferences.
 
+- Based on what you see here, what delivery settings are selected for this account?
+
+- What documents would these settings apply to?
+  
+- How do you feel about being auto opted in to paperless delivery?
+
 - How would you describe what “paperless” means? (expected response: they will not receive mail but instead will access documents on VA.gov)
 
 - Is there a different word you would prefer to use?
 
-- Talk me through how you would update your delivery preferences.
-
-- Now that you updated your preferences what would you expect to happen? Will you continue to receive paper mail?
+- Now, imagine you would like to change your delivery preferences, talk me through how you would expect to do that.
 
 - After updating your preferences, how confident do you feel that your changes have been saved?
 
+- How would you would confirm that your changes have been saved?
+
+- Optional - If participant expected a confirmation: Can you describe what steps you would take if you did not receive a confirmation?
+
+- Now that you updated your preferences how will you recieve your 1095-B?
+
 - When do you think your updated preferences will start taking effect?
   
-- After updating your preferences, can you show me how you would confirm that your changes have been saved?
+- How easy or difficult was it to interact with the prototype on your device?
 
-- Can you describe what steps you would take if you did not receive a confirmation?
 
 - I will now provide an alternative view (radio or checkbox) of the paperless delivery page for you to opt in to paperless delivery on.
+
+  [Link to Mobile checkbox prototype](https://www.figma.com/proto/DWOjExui9JzyzwhMBWOFkw/Paperless-delivery-opt-in?page-id=639%3A217763&node-id=639-256763&p=f&viewport=3132%2C12765%2C0.44&t=EKzVANrDrYUsm8KA-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=639%3A256763)
+
+[Link to Mobile radio button prototype](https://www.figma.com/proto/DWOjExui9JzyzwhMBWOFkw/Paperless-delivery-opt-in?node-id=746-184108&t=jYjywdRA1cTmbUwL-1)
+
+
+[Link to Desktop checkbox prototype](https://www.figma.com/proto/DWOjExui9JzyzwhMBWOFkw/Paperless-delivery-opt-in?page-id=639%3A269369&node-id=639-269431&p=f&viewport=288%2C179%2C0.07&t=lvddPVVrS8SYhrX0-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=639%3A269431)
+
+[Link to Desktop radio button prototype](https://www.figma.com/proto/DWOjExui9JzyzwhMBWOFkw/Paperless-delivery-opt-in?node-id=746-173444&t=jYjywdRA1cTmbUwL-1)
+
+- Navigate to where you would expect to update your delivery preferences.
+
+- Based on what you see here, what delivery settings are selected for this account? 
 
 - How easy or difficult was it to interact with the prototype on your device?
 
