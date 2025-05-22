@@ -27,6 +27,49 @@ The Sidenav component provides a consistent, accessible, and responsive side nav
 - Customizability: Allow for configurable menu items, icons, section headers, and states (active, disabled, etc.).
 - Integration: Facilitate easy integration into existing layouts and work seamlessly with other design system components such as headers, footers, and content areas.
 
+## Tasks / Things to consider
+### Research
+- Audit existing patterns - [examples from other design system](https://docs.google.com/document/d/1qo6vLp1LqF1LYz828__bkv3LwiQRrScnsZCI4-HpXjk/edit?usp=sharing)s 
+- Reached out to Raquel to get requirements - waiting to hear back
+
+### Design & UX
+- What are the different states (default, hover, active, disabled, loading)?
+- Are there existing design patterns this should follow or extend?
+- Does it need to support themes (e.g., light/dark mode)?
+- How should it behave responsively (mobile, tablet, desktop)?
+
+### Content Considerations
+- Is there new content that needs to be run by CIA?
+- Error states, hint text?
+
+### Structure & Content
+- What are the required and optional props/inputs?
+- Are there any interactive states?
+- What variations or configurations are needed (e.g., size, layout, icon options)?
+- Are there edge cases to consider?
+
+### Accessibility
+- What are the ARIA roles, properties, or patterns needed?
+- How will it be usable with keyboard navigation and screen readers?
+- Are there any color contrast or focus management considerations?
+
+### Technical Requirements
+### Testing & Documentation
+- What test coverage is required (unit, integration, visual regression)?
+- How will usage examples be documented?
+- What controls and props will be exposed in tools like Storybook?
+
+### Versioning & Lifecycle
+- How might this component evolve over time?
+- Are there plans for deprecation of similar components?
+- How will backward compatibility be handled?
+
+## Key Features of the Component:
+- description 
+- description
+- Accessibility: Ensures compliance with WCAG standards and maintains ease of use for all users.
+
+
 ## Timeline 
 
 - Sprint 4 (May 26 - June08)
@@ -44,7 +87,7 @@ The Sidenav component provides a consistent, accessible, and responsive side nav
 
 
 ## Success Criteria
-- TBD
+- Adoption, Usability
 - Positive feedback from users and stakeholders regarding usability and accessibility.
 
 ## Risks and Mitigations
