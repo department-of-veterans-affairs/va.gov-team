@@ -1,5 +1,5 @@
 
-# Product Outline - Representative Claim Submission Form Upload
+# Product Outline - Accredited Representative Portal - Claim Submission and Self-Service Auth
 
 ---
 
@@ -16,6 +16,8 @@ We forked Simple Forms code as a starting point, rather than re-using it. Liftin
 - Because reps are power users, we wanted to simplify the process by making the digital form one page
 
 Our plan is to start by piloting form upload for the 686c form, then expand to 526, then roll out a number of forms.
+
+When releasing claims submission, we'll also introduce the ability for accredited representatives to self-service sign up for ARP, rather than our team having to manually grant them access. 
 
 ## Problem Statement
 Representatives need a reliable tool to upload and submit documents for their claimants. Stakeholder Enterprise Portal (SEP) is able to process claims well. However, forms were often outdated, which could delay processing even more. This is [the research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/2024-10-VSO-VAbenefits-interviews/research-findings.md#detractors-pain-points) that references the VSOs pain points. 
