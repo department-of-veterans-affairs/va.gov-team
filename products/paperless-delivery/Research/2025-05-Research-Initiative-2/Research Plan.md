@@ -65,15 +65,23 @@ This research will provide insight into 
 
 7. Does the Veteran experience any pain points or confusion when navigating to or making updates to their paperless delivery settings?
 
-8. Does the word “paperless” clearly tell Veterans that they won’t get paper mail and will need to go online to see their documents? If not, what terminology would they prefer?
+8. Does the word “paperless” clearly tell Veterans that they won’t get paper mail and will need to go online to see their documents? If not, what terminology would they prefer? Paperfree delivery? Online documents?
 
 9. After updating their paperless delivery settings, do users feel confident that their changes have been saved and will take effect?
 
 10. Do users understand what will happen when they make a selection? Do they think they’re opting in or out? And is that the same as what the system actually does?
 
-11. After signing up for paperless delivery, what kind of confirmation or follow-up communication do users expect?
+11. Do Veterans feel more comfortable with radio buttons or check boxes as their paperless option selection method?
 
-12. Do Veterans feel more comfortable with radio buttons or check boxes as their paperless option selection method?
+12. After signing up for paperless delivery, what kind of confirmation or follow-up communication do users expect?
+
+13. Are users reassured by email confirmations?
+
+14. Do they expect reminders or notifications for new digital documents?
+
+15. What barriers, beyond technical ability, might prevent Veterans from opting for paperless delivery (e.g., trust, perceived complexity)?
+
+16. How do Veterans currently store and access important documents, and how does that influence their willingness to go paperless?
 
 
 ### **Hypothesis**
@@ -89,7 +97,7 @@ For this research we plan to start the session with a few **semi-structured inte
 
 These questions will be followed by light **contextual inquiry** where we plan to observe where Veterans would expect to set up paperless delivery for a specific form on VA.gov. This will help us gain understanding into the Veteran’s mental models and uncover usability barriers.
 
-We will then transition to **Usability testing** to determine if Veterans are able to update paperless settings for the 1095-B form using our prototype. At this stage we will also conduct some **A/B** testings to determine usability and preference of radio buttons vs checkboxes and content.
+We will then transition to **Usability testing** to determine if Veterans are able to update paperless settings for the 1095-B form using our prototype. At this stage we will also conduct some **A/B** testing to determine usability and preference of radio buttons vs checkboxes and content in particular paperless vs Paper-free delivery vs online documents.
 
 
 ### **Location**
