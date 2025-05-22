@@ -188,6 +188,8 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - Now, imagine you would like to change your delivery preferences, talk me through how you would expect to do that.
 
+- Update the prototype to recieve paper mail.
+
 - After updating your preferences, how confident do you feel that your changes have been saved?
 
 - How would you would confirm that your changes have been saved?
@@ -214,7 +216,9 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - Navigate to where you would expect to update your delivery preferences.
 
-- Based on what you see here, what delivery settings are selected for this account? 
+- Based on what you see here, what delivery settings are selected for this account?
+
+- Update the prototype to recieve paper mail.
 
 - How easy or difficult was it to interact with the prototype on your device?
 
