@@ -30,7 +30,14 @@ The Sidenav component provides a consistent, accessible, and responsive side nav
 ## Tasks / Things to consider
 ### Research
 - Audit existing patterns - [examples from other design system](https://docs.google.com/document/d/1qo6vLp1LqF1LYz828__bkv3LwiQRrScnsZCI4-HpXjk/edit?usp=sharing)s 
-- Reached out to Raquel to get requirements - waiting to hear back
+- Reached out to Raquel to get requirements
+  #### What problem does this component solve?
+     - It helps organize related settings—like notification preferences and paperless delivery—into a single, easy-to-find group. This reduces clutter on the profile page and makes it easier for users to manage their communication settings.
+   #### Where and how will it be used in the product?
+   -  It will be used in the profile section of the product. Specifically, it will appear as a side navigation menu with sub-navigation options under a new "Communication Settings" category.
+  #### Specific use cases
+   - For example: A user wants to update how they receive VA communications and can easily find both paperless delivery and notification preferences in one place.
+A user navigating through their profile will experience a cleaner layout, with fewer top-level options and clearer grouping of related settings.
 
 ### Design & UX
 - What are the different states (default, hover, active, disabled, loading)?
