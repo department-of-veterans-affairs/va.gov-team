@@ -1,5 +1,5 @@
 
-# Sidenav Outline (DRAFT)
+# Sidenav Outline 
 
 ## Design System Team
 - Product Managers: Carol Wong, Tricia Baker
@@ -11,7 +11,7 @@
 - [discovery research ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/4083) 
 - Link to Figma flle
 - [Experimental design request](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/485)
-- Link to properties / architecture document
+- [Properties / architecture document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/sidenav/properties-architecture.md) 
 
 ## Summary
 The Sidenav component provides a consistent, accessible, and responsive side navigation panel for web applications. It is designed to help users quickly navigate between major sections or features within a page or application. The Sidenav is intended for use in layouts where persistent or easily accessible navigation is essential, such as dashboards, admin panels, and complex workflows.
@@ -27,7 +27,7 @@ The Sidenav component provides a consistent, accessible, and responsive side nav
 - Customizability: Allow for configurable menu items, icons, section headers, and states (active, disabled, etc.).
 - Integration: Facilitate easy integration into existing layouts and work seamlessly with other design system components such as headers, footers, and content areas.
 
-## Timeline (TBD)
+## Timeline 
 
 - Sprint 4 (May 26 - June08)
 	- Research / Discovery
