@@ -5,7 +5,6 @@
 - Product Managers: Carol Wong, Tricia Baker
 - Designer: Dan Brady
 - Web Dev: ???
-- Mobile Dev: Tim Roettger 
   
 ## Artifacts
 - [Design Decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/sidenav/design-decision-log.md)
@@ -15,31 +14,33 @@
 - Link to properties / architecture document
 
 ## Summary
-- Description of component 
+The Sidenav component provides a consistent, accessible, and responsive side navigation panel for web applications. It is designed to help users quickly navigate between major sections or features within a page or application. The Sidenav is intended for use in layouts where persistent or easily accessible navigation is essential, such as dashboards, admin panels, and complex workflows.
   
 ## Objectives
-- Why or how will this component be used
+- The Sidenav component organizes navigation links, section headers, icons, and potentially sub-menus into a vertical layout that is both space-efficient and easy to scan.
+- The component supports highlighting the active section, collapsing or expanding menu groups, and adapting its display for various screen sizes (responsive behavior).
+- Users will use the sidenav to jump directly to different areas of the application, understand their current location, and maintain orientation as they navigate.
 
 ## Key Features of the Component:
-- description 
-- description
 - Accessibility: Ensures compliance with WCAG standards and maintains ease of use for all users.
+- Responsiveness: Adapt gracefully to a range of device sizes, including desktops, tablets, and mobile devices; support collapsible modes as needed.
+- Customizability: Allow for configurable menu items, icons, section headers, and states (active, disabled, etc.).
+- Integration: Facilitate easy integration into existing layouts and work seamlessly with other design system components such as headers, footers, and content areas.
 
 ## Timeline (TBD)
 
-- Sprint XX
+- Sprint 4 (May 26 - June08)
 	- Research / Discovery
-	- Design: 
-- Sprint XX
-	- Design:  
-- Sprint XX 
+	- Design phase 1 
+- Sprint 5 (June 09 - 22) 
+	- Design phase 2  
 	- Web component development
-	- Mobile component development
-- Sprint XX
+- Sprint 6 (June 23 - July 06)
 	- Accessibility review
 	- Documentation 
+- Sprint 7 (July 07 - 20) - if needed
+        - Fix accessibility issues
 - Staging review scheduled 
-
 
 
 ## Success Criteria
