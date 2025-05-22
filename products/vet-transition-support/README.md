@@ -1,6 +1,7 @@
 # Veteran Transition Support
 ## Product Outline
 
+
 ### Problem to Solve
 Transitioning Servicemembers (TSMs) and Recently Separated Veterans (RSVs) are particularly overwhelmed by the transition process. The entire process, from planning, to separation, to adjustment to civilian life can occur over the course of several years. The change to routines and circumstances are a major change and during that time there is an increased risk of creating vulnerable populations. In addition to juggling personal challenges, TSMs and RSVs have no easy way to find the range of benefits which they are eligible for.
 
