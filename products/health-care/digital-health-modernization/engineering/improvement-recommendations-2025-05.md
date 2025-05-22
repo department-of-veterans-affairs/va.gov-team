@@ -22,7 +22,7 @@ React Router has added performance-enhancing features in v6 and v7. Currently `v
 
 > React Router v6 has been rewritten with React Hooks, significantly improving bundle sizes and composition. You will need to upgrade to 16.8+ in order to migrate to React Router v6.
 
-## Data APIs and `loader` functions
+#### Data APIs and `loader` functions
 
 React Router v6.4 added [new hooks-based Routers](https://reactrouter.com/6.30.1/routers/picking-a-router) that use Data APIs, and the new APIS add capabilities such as [loaders](https://reactrouter.com/6.30.1/route/loader). Loaders are functions that make it possible to fetch data used by a route's component before it renders, and that can improve application performance.
 
