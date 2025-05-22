@@ -107,11 +107,11 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 2) When do you log into your VA.gov account? What prompts you?
 
-3) Imagine you navigated to your profile and you see a section called notification settings. What would you expect to be able to do in the section?
+3) Imagine you see a section on VA.gov called notification settings. What would you expect to be able to do in the section?
 
-4) When you hear the terms **paperless**, **paper-free**, and **online documents**, what comes to mind? Can you describe how you would define each of them in your own words?
+4) When you hear the terms **paperless**, **paper-free**, and **digital online documents**, what comes to mind? Can you describe how you would define each of them in your own words?
 
-5) Are there other similar terms or labels you think would make the process clearer?
+5) Are there other similar terms or labels you you prefer above paperless, paper-free, or digital online documents?
 
 6) Can you tell me a little about how you typically receive important forms or communications? (e.g. through physical mail, email, etc.)
 
@@ -120,8 +120,6 @@ Before we look at the website, let’s start with a few warm-up questions.
 ## **First Task: Feelings toward Digital Communication - 5 minutes**
 
 - Interest in Digital Communications
-
-- How does the idea of paperless communication make you feel? Why?
 
 - Are you interested in receiving all or some of your documents like the 1095-B tax document, decision letters, or other communications only digitally on VA.gov and not recieve paper copies by mail? Why or why not?
 
@@ -167,9 +165,14 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 - We will now provide a prototype for you to interact with. This prototype has limited functionality so do not expect all buttons to work. As you navigate through the prototype please share any thoughts, frustrations, or points of confusion.
 
-[Link to Mobile prototype](https://www.figma.com/proto/DWOjExui9JzyzwhMBWOFkw/Paperless-delivery-opt-in?page-id=639%3A217763&node-id=639-256763&p=f&viewport=3132%2C12765%2C0.44&t=EKzVANrDrYUsm8KA-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=639%3A256763)
+[Link to Mobile checkbox prototype](https://www.figma.com/proto/DWOjExui9JzyzwhMBWOFkw/Paperless-delivery-opt-in?page-id=639%3A217763&node-id=639-256763&p=f&viewport=3132%2C12765%2C0.44&t=EKzVANrDrYUsm8KA-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=639%3A256763)
 
-[Link to Desktop prototype](https://www.figma.com/proto/DWOjExui9JzyzwhMBWOFkw/Paperless-delivery-opt-in?page-id=639%3A269369&node-id=639-269431&p=f&viewport=288%2C179%2C0.07&t=lvddPVVrS8SYhrX0-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=639%3A269431)
+[Link to Mobile radio button prototype](https://www.figma.com/proto/DWOjExui9JzyzwhMBWOFkw/Paperless-delivery-opt-in?node-id=746-184108&t=jYjywdRA1cTmbUwL-1)
+
+
+[Link to Desktop checkbox prototype](https://www.figma.com/proto/DWOjExui9JzyzwhMBWOFkw/Paperless-delivery-opt-in?page-id=639%3A269369&node-id=639-269431&p=f&viewport=288%2C179%2C0.07&t=lvddPVVrS8SYhrX0-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=639%3A269431)
+
+[Link to Desktop radio button prototype](https://www.figma.com/proto/DWOjExui9JzyzwhMBWOFkw/Paperless-delivery-opt-in?node-id=746-173444&t=jYjywdRA1cTmbUwL-1)
 
 - Navigate to where you would expect to update your delivery preferences.
 
