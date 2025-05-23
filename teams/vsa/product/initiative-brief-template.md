@@ -3,7 +3,7 @@
 
 <details>
  
-Veterans often encounter barriers when attempting to correct personal information (e.g., name, gender, service dates) due to fragmented data ownership between the Department of Veterans Affairs (VA) and the Department of Defense (DoD). This repository outlines the work to improve the Veteran and staff experience by clarifying data ownership, documenting update workflows, and providing standardized communication and escalation tools.
+ *There is roughly a 1:many relationship between products and initiatives, or our attempts to improve a product/achieve Veteran outcomes. The same goes for product outlines and initiative briefs. This template can be used as product documentation for the Collaboration Cycle, especially when iterating an existing product. In addition, the Brief is an important communication tool within a team and between the team and Crew Chief/PO/other teams.* 
  
 </details>
 
@@ -24,22 +24,17 @@ Veterans often encounter barriers when attempting to correct personal informatio
 ---
 
 ## Outcome Summary
-> By defining ownership rules, creating workflows, and providing communication and escalation templates, we will improve the clarity, speed, and consistency of resolving Veteran data correction issues, resulting in fewer complaints, faster resolutions, and greater staff confidence.By defining ownership rules, creating workflows, and providing communication and escalation templates, we will improve the clarity, speed, and consistency of resolving Veteran data correction issues, resulting in fewer complaints, faster resolutions, and greater staff confidence.
+> *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
 * .
 
 **Related/Associated product(s)**
 - Product | Link to product outline 
 
 ## Problem
-> Veterans and VA staff lack clear direction on:
-
-* Who owns Veteran data (VA or DoD)
-
-* Where Veteran data is stored
-
-* How to initiate corrections based on data ownership
-
- *This results in frustration, delays, and inconsistent outcomes.
+> *Describe the challenge / pain point you seek to address.:* 
+* What is the problem and who is affected? And, what evidence do we have of the problem?
+* Why do you think the problem is occurring? Other reasons why this might be occurring?
+* How does this initiative help further OCTO-DE's mission and goals?
 
 <!--
 ## Desired User Outcomes
