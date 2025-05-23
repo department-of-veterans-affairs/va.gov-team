@@ -31,20 +31,22 @@ The component should create a clear and intuitive navigation component that allo
 - Provides clear accessibility support, ensuring compliance with WCAG standards and maintaining ease of use for all users, including keyboard navigation and screen reader support.
 - Easily connected with common events product teams use to manage application state or navigation routing.
 
-## Timeline (TBD)
+## Timeline 
 
 - Sprint 3 (May 12 to 25)
-- Sprint XX 
+        - Design 
+- Sprint 4 (May 26 to June 8) 
 	- Web component development
-	- Mobile component development
-- Sprint XX
+- Sprint 5 (June 9 to 22)
 	- Accessibility review
 	- Documentation 
-- Staging review scheduled 
+- Sprint 6 (June 23 to July 6) if needed
+        - A11y bug fixes 
+- Staging review to be scheduled for late June or early July
 
 ## Success Criteria
 
-- Used by product teams across web and mobile platforms.
+- Used by product teams across web.
 - Successful implementation in a variety of use cases.
 - Minimal bug reports or issues related to the component post-release.
 
