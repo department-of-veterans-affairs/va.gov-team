@@ -70,6 +70,8 @@ A bug in travePaySubmissionJob
 - [ ] Collect phone numbers of those veterans who were impacted and deliver to PO(Kay)
 - [ ] Create a monitor for when text messages sent are not equal to the number of succeses and errors
 - [ ] Use [Atlas](https://www.va.gov/atlas/apps/vets-api/deploy_status) to monitor deployments before toggling features(don't make assumptions about deployment timing John)
+- [ ] Make imporovements to existing logs(include UUIDs etc.) to help identify impacted veterans more easily without exposing PII
+- [ ] Improve code to help with readability(more comments, less nesting)
 
 
 ## Appendix
