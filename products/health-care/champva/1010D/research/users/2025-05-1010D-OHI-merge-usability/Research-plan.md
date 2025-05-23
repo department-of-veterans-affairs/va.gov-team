@@ -135,9 +135,11 @@ We would like Perigean to recruit assistive technology (AT) and non-AT users.
 
 Our intended audience for this study is Veterans with high disability ratings and their dependent spouses and children, who may or may not be currently enrolled in the CHAMPVA program. We will split this study into two cohorts:
 
-* **Cohort 1 (14 participants):** Veterans with a 100% service connected disability rating with spouse and/or dependent children.
+* **Cohort 1:** Veterans with a 100% service connected disability rating with spouse and/or dependent children.
   
-* **Cohort 2 (8 participants):** Spouses and dependent children of Veterans with a 100% service connected disability rating
+* **Cohort 2:** Spouses and dependent children of Veterans with a 100% service connected disability rating
+  
+* **Cohort 3:** Assistive technology (AT users), can be either Veterans or spouses/dependent children of Veterans with a 100% service connected disaiblity rating
 
 ### Recruitment criteria
 
@@ -156,19 +158,18 @@ Our intended audience for this study is Veterans with high disability ratings an
 ### List the ideal completed sessions and total number and type (Veterans, caregivers, etc.) of participants for this study:
 
 - `Veterans:` **10**
-- `Spouses:` **3**
-- `Dependents:` **2**
-- `Total:` **15**
-- `Ideal completed sessions:` **22**
+- `Spouses and dependent chilren:` **3-5**
+- `AT users (Veterans and spouses/dependent chidlren:` **3-5**
+- `Total:` **16**
+- `Ideal completed sessions:` **20**
 
 ### Primary criteria (must-haves)
 *What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
 
 - `3 must use a screen reader every time they access the internet`
 - `2 must use a screen magnifier every time they access the internet`
-- `7 must be aged 55-64+`
 - `At least 4 must be primarily mobile users and willing to use it for the session`
-- `At least 4 must be users on desktop/laptop devices
+- `At least 4 must be users on desktop/laptop devices`
 - `At least 7 must NOT use assistive technology`
 
 - **`Add more criteria as needed`**
@@ -176,7 +177,7 @@ Our intended audience for this study is Veterans with high disability ratings an
 #### Secondary criteria (nice-to-haves)
 *What criteria would strengthen your results?* 
 
-- `At least 7 `
+- `7 must be aged 55-64+`
 - `secondary criteria`
 - `secondary criteria`
 - **`Add more criteria as needed`**
