@@ -51,4 +51,4 @@ We need to define our exact process, but we think that:
 
 When analyzing feedback, we will focus on feedback that is actionable. Meaning, teams or business lines can use this feedback to consider changes or improvements to make to the technology, processes or workflows that support Ask VA.
 
-We will tag feedback with relevant partners. For example, if we get feedback that a topic name is confusing, we will tag this with `VA.gov` and `Business lines.`
+We will tag actionable feedback with relevant partners. For example, if we get feedback that a topic name is confusing, we will tag this with `VA.gov` and `Business lines.`
