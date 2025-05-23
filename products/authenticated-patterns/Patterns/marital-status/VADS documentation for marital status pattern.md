@@ -14,39 +14,23 @@ Follow this pattern to ask a user for their marital status and information about
 ### Contributors
 
 Lynn Stahl (Agile Six)
-
 Fran Cross (Agile Six)
-
 Adam Whitlock (Ad Hoc)
-
 Belle Poopongpanit (Agile Six)
-
 Christine Rose Steiffer (Agile Six)
-
 Kristen Faiferlick (Ad Hoc)
-
 Jeana Clark (Ad Hoc)
-
 Beth Pandone (Pluribus)
-
 Jaci Wilkinson (Ad Hoc)
-
-
 
 ### On this page
 
 Usage
-
 Examples
-
 How to design and build
-
 Code usage
-
 Content considerations
-
 Accessibility considerations
-
 Research findings
 
 
