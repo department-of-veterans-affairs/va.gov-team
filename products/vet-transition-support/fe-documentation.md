@@ -1,6 +1,7 @@
 # How the Discover Your Benefits product works
 
 **Last updated**: May 23, 2025
+
 *Created first draft of documentation based on MVP*
 
 ## Purpose
@@ -102,8 +103,8 @@ There are a few components that are managed separately in the code:
 * **Card**: Referenced in [BenefitCard.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/discover-your-benefits/components/BenefitCard.jsx)
 * **Modal**: Referenced in [CopyResultsModal.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/discover-your-benefits/components/CopyResultsModal.jsx)
 * **Need help?**: Referenced in [GetFormHelp.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/discover-your-benefits/components/GetFormHelp.jsx)
-* **Banner**: Referenced in [NoResultsBanner.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/discover-your-benefits/components/NoResultsBanner.jsx) - should this use the Alert? (TBD - based on response to alert/banner components above)
-* **SubmitHelper**: What is this component used for?
+* **Banner**: Referenced in [NoResultsBanner.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/discover-your-benefits/components/NoResultsBanner.jsx)
+* **SubmitHelper**: TBD
 
 ### Patterns
 
