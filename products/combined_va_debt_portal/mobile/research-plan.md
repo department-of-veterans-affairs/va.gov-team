@@ -172,21 +172,22 @@ Note on Accessibility: Due to prototype limitations, this study will not include
 ### Recruitment approach
 
 We would like Perigean to recruit Veterans, non-AT users, for Zoom sessions on smartphones.
+Two cohorts: those who have experience with benefits overpayment debts, and those who have experience with VA healthcare copayments.
 
 ### Recruitment criteria
 
-- `Veterans:` **[15]**
+- `Veterans:` **[16]**
 - `Caregivers:` **[0]**
 - `Dependents:` **[0]**
-- `Total:` **[15]**
+- `Total:` **[16]**
 - `Ideal completed sessions:` **[10]**
 
 ### Primary criteria (must-haves)
 
 - `All participants must meet at least one of the following primary criteria:`
-	- `At least 8 had a debt balance from overpayment debt in last three years`
-	- `At least 7 received a copayment bill in the last year`
-- `Range of debt amount`
+	- `Cohort 1: at least 8 had a debt balance from overpayment debt in last three years`
+	- `Cohort 2: at least 7 received a VHA copayment bill in the last year`
+- `Range of debt amount (for Cohort 1)`
 - `Complete session on their smartphone via the Zoom app`
 - `No assistive technology users or accessibility features turned on` (this is due to prototype limitations; we will be testing with assistive technology at a later date)
 
@@ -208,6 +209,8 @@ We would like Perigean to recruit Veterans, non-AT users, for Zoom sessions on s
 	1. I currently have an unpaid VA benefits overpayment debt (disability compensation, education, or pension benefits overpayments)
 	2. I previously had a VA benefits overpayment debt in the last 3 years (disability compensation, education, or pension benefits overpayments)
 	3. I have not had a VA benefits overpayment debt in the last 3 years _(jump to question 3)_
+
+ 	_(This is to recruit for Cohort 1: 8 people)_
 <br>
 
 2. Please select the total amount of your debt from VA overpayments from the last 3 years
@@ -220,9 +223,11 @@ We would like Perigean to recruit Veterans, non-AT users, for Zoom sessions on s
 <br>
 
 
-3. Do you use VA Healthcare? If so, have you received a copayment bill in the last year?
+3. Have you received a copayment bill from VA in the last year?
 	1. Yes
 	2. No
+
+ 	_(This is to recruit for Cohort 2: 8 people)_
 <br>
 
 4. When interacting with apps on your smartphone, do you usually adjust the standard display and/or use accessibility features? Please select all that apply.
