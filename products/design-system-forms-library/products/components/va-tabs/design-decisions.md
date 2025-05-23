@@ -5,6 +5,7 @@ _Last updated: 2025-05-13_
 - [ADR 001: Tab definitions](#adr-001-tab-definitions)
 - [ADR 002: Behavior When Tabs Overflow Off the Screen](#adr-002-behavior-when-tabs-overflow-off-the-screen)  
 - [ADR 003: Tab Style Choices](#adr-003-tab-style-choices)
+- [ADR 004: Consistent popover styles](#adr-004-consistent-popover-styles)
 
 ---
 
@@ -157,3 +158,34 @@ Tabs with similar overflow interactions were also reviewed from other design sys
 
 ### Consequences  
 The tab component has many interactive and visual elements. This decision document outlines the rationale behind each choice. However, given the complexity, inconsistencies or unforeseen use cases may arise, and the design may need future refinement to remain consistent with future design system components.
+
+---
+
+## ADR 004: Consistent popover styles  
+
+### Status: Accepted  
+- **Date Raised:** 2025-05-12  
+- **Decision Date:** 2025-05-23  
+
+### Context 
+We currently have 3 components now that have a popover component. 
+- [Combo box](https://design.va.gov/components/form/combo-box)
+- [Search input with typeahead](https://design.va.gov/components/search-input#with-typeahead)
+- [Tabs](https://design.va.gov/components/tabs)
+
+With a growing list of popover components we decided to align to a single popover design so that we can create consistentcy between the components. 
+
+### Decision 
+We will use the combobox popver design for the Popover in the tab component. 
+
+The style changes to the popover will be: 
+1. **Border color:** vads-color-base-dark token
+2. **Border radius:** No border radius is used
+3. **Shadow:** No shadow is used
+
+### Consequences
+We created a ticket to add a popover component to the Design System so that we can use it for future components and move all the current components like the search input and the combo box to the popover component. 
+
+Once the popover component is completed, we will need to revisit the tabs and move the tabs popover to the popover component which might create additional work later on. 
+
+[Popover - Design (phase 1) #4151](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/4151)
