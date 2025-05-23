@@ -172,21 +172,22 @@ Note on Accessibility: Due to prototype limitations, this study will not include
 ### Recruitment approach
 
 We would like Perigean to recruit Veterans, non-AT users, for Zoom sessions on smartphones.
+Two cohorts: those who have experience with benefits overpayment debts, and those who have experience with VA healthcare copayments.
 
 ### Recruitment criteria
 
-- `Veterans:` **[15]**
+- `Veterans:` **[16]** (2 cohorts of 8 each)
 - `Caregivers:` **[0]**
 - `Dependents:` **[0]**
-- `Total:` **[15]**
-- `Ideal completed sessions:` **[10]**
+- `Total:` **[16]**
+- `Ideal completed sessions:` **[10]** (5 from each cohort)
 
 ### Primary criteria (must-haves)
 
 - `All participants must meet at least one of the following primary criteria:`
-	- `At least 8 had a debt balance from overpayment debt in last three years`
-	- `At least 7 received a copayment bill in the last year`
-- `Range of debt amount`
+	- `Cohort 1: 8 had a debt balance from overpayment debt in last three years`
+	- `Cohort 2: 8 received a VA copayment bill in the last year`
+- `Range of debt amount (for Cohort 1)`
 - `Complete session on their smartphone via the Zoom app`
 - `No assistive technology users or accessibility features turned on` (this is due to prototype limitations; we will be testing with assistive technology at a later date)
 
@@ -204,10 +205,12 @@ We would like Perigean to recruit Veterans, non-AT users, for Zoom sessions on s
 
 ### Screener Questions
 
+#### Cohort 1: 8 people (overpayment debt)
+
 1. Please check all that apply
 	1. I currently have an unpaid VA benefits overpayment debt (disability compensation, education, or pension benefits overpayments)
 	2. I previously had a VA benefits overpayment debt in the last 3 years (disability compensation, education, or pension benefits overpayments)
-	3. I have not had a VA benefits overpayment debt in the last 3 years _(jump to question 3)_
+	3. I have not had a VA benefits overpayment debt in the last 3 years _(DISQUALIFY)_
 <br>
 
 2. Please select the total amount of your debt from VA overpayments from the last 3 years
@@ -219,10 +222,9 @@ We would like Perigean to recruit Veterans, non-AT users, for Zoom sessions on s
 	_(please recruit a range of debt amount as much as possible)_
 <br>
 
-
-3. Do you use VA Healthcare? If so, have you received a copayment bill in the last year?
+3. Are you able to join the Zoom session from a smartphone such as a Samsung Galaxy or Apple iPhone? Any kind of smartphone will work as long as it connects to the internet.
 	1. Yes
-	2. No
+	2. No _(DISQUALIFY)_
 <br>
 
 4. When interacting with apps on your smartphone, do you usually adjust the standard display and/or use accessibility features? Please select all that apply.
@@ -246,8 +248,38 @@ We would like Perigean to recruit Veterans, non-AT users, for Zoom sessions on s
 	3. Decline to answer
 <br>
 
-7. Are you able to join the Zoom session from a smartphone such as a Samsung Galaxy or Apple iPhone? Any kind of smartphone will work as long as it connects to the internet.
+
+#### Cohort 2: 8 people (medical copays)
+
+1. Have you received a medical copayment bill from VA in the last year?
 	1. Yes
 	2. No _(DISQUALIFY)_
+<br>
+
+2. Are you able to join the Zoom session from a smartphone such as a Samsung Galaxy or Apple iPhone? Any kind of smartphone will work as long as it connects to the internet.
+	1. Yes
+	2. No _(DISQUALIFY)_
+<br>
+
+3. When interacting with apps on your smartphone, do you usually adjust the standard display and/or use accessibility features? Please select all that apply.
+	1. I mostly use the phone's standard display settings. _(ask next question)_
+	2. I often increase the text size significantly. _(DISQUALIFY)_
+	3. I use screen magnification or zoom features. _(DISQUALIFY)_
+	4. I use a screen reader (such as VoiceOver or TalkBack). _(DISQUALIFY)_
+	5. Other _(DISQUALIFY)_
+	6. Prefer not to say _(DISQUALIFY)_
+<br>
+
+4. Do you identify as a member of the LGBTQ+ community? We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.
+	1. Yes
+	2. No
+	3. Decline to answer
+<br>
+
+5. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.
+	1. Yes _(mark as having a cognitive disability)_
+	2. No
+	3. Decline to answer
+<br>
 
 
