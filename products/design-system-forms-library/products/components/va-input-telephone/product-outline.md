@@ -16,7 +16,11 @@
 - The va-input-telephone component is being developed to enable support for international phone numbers across the VA.gov ecosystem.
 - This enhancement is critical to improving accessibility and usability for veterans and users residing outside the United States.
 - The updated component will ensure consistency, flexibility, and compliance across all platforms, including My VA Profile, VA.gov forms, and VA mobile applications.
-  
+
+##  When to use International Phone Number
+- If the PDF, online form and the API can support an International Phone Number
+- If using prefill, ensure there is error messaging when a form can't accept an international phone number explaining why need to change to a domestic number. 
+
 ## Context
 - As part of the migration of My HealtheVet (MHV) to VA.gov, it was identified that the current My VA Profile does not support international phone numbers.
 - This limitation presents a significant blocker for the migration of My HealtheVet
