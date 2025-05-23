@@ -185,8 +185,8 @@ Two cohorts: those who have experience with benefits overpayment debts, and thos
 ### Primary criteria (must-haves)
 
 - `All participants must meet at least one of the following primary criteria:`
-	- `Cohort 1: at least 8 had a debt balance from overpayment debt in last three years`
-	- `Cohort 2: at least 7 received a VHA copayment bill in the last year`
+	- `Cohort 1: 8 had a debt balance from overpayment debt in last three years`
+	- `Cohort 2: 8 received a VA copayment bill in the last year`
 - `Range of debt amount (for Cohort 1)`
 - `Complete session on their smartphone via the Zoom app`
 - `No assistive technology users or accessibility features turned on` (this is due to prototype limitations; we will be testing with assistive technology at a later date)
@@ -223,7 +223,7 @@ Two cohorts: those who have experience with benefits overpayment debts, and thos
 <br>
 
 
-3. Have you received a copayment bill from VA in the last year?
+3. Have you received a medical copayment bill from VA in the last year?
 	1. Yes
 	2. No
 
