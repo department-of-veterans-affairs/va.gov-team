@@ -26,8 +26,8 @@ Follow this pattern to ask a user for their marital status and information about
 ### On this page
 
 - Usage
-- Examples
 - How to design and build
+- Examples
 - Code usage
 - Content considerations
 - Accessibility considerations
