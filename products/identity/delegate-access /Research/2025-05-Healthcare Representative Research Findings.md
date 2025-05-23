@@ -133,10 +133,11 @@ Labels: `Accessibility`, `AUD: Veterans`, `HDW: Desktop`, `HDW: Laptop`, `HDW: S
 
 Related to: Hypothesis 2, Hypothesis 3, Question 2
 
-Of the caregivers we spoke to, many reported feeling overwhelmed by the sheer amount of responsibility need to care for their loved ones (within the VA and external to the VA ecosystem).  Some caregivers reported that they had little to no time for self-care, but they were more than willing to do what it took to support the Veteran they were caring for.
+Of the caregivers we spoke to, many reported feeling overwhelmed by the sheer amount of responsibility needed to care for their loved ones (within the VA and external to the VA ecosystem).  Some caregivers reported that they had little to no time for self-care, but they were more than willing to do what it took to support the Veteran they were caring for. Some are able to find support, but others are really struggling. Some reported that they had to take care of everything their loved ones couldn’t do which could encompass “everything”.
+Others reported that they were a full time caregiver and that being a caregiver was a full-time job.
 
->_"[They are] rules that the owner of the website has for you to use the functionality" - Participant 17_
 
+>_"When you have a significant other, there's a lot of things they do. The frustrating part for me was trying to help her take care of the little things.  She had so many tasks I needed to help with it was like "where's my time?" -P4_
 
 **2. Caregiver designation does not equal authorization and/or access.**
 
@@ -213,19 +214,45 @@ Related to: Hypothesis 1, Question 1, Question 2, Question 3, Question 4
 - Doctors and support staff at the VA are helpful with getting Veterans information and documentation they need.
 >_""I feel like [the VIST coordinator] saved [my husband's] life."" - Participant 2_
 
+## Compliance and Laws
+
+### Laws
+
+* Federal laws and regulations are mostly focused on privacy, and how different types of delegates can access information  
+* Privacy laws are especially concerned with how information can and can’t be shared with someone other than the veteran and how that relationship is established.  
+*   
+* Consent to someone working in a professional capacity comes with some restrictions, like training or even licensure. But consent to someone working in a personal capacity to a veteran seems to be mostly open, other then the need to express in writing, and so most often on a form. 
+
+### Compliance  
+There are two primary legal/privacy concerns when it comes to online delegate access: 
+
+1. Who is making a change (eg. veteran, caregiver, etc)?   
+2. Whether that person is approved to make a change (ie. Does that person have legal authority to act on behalf of the person for whom they are making the change?) 
+
+From a technical perspective, we can solve “who is making a change?” by requiring people to sign into VA.gov with their own verified account. What we can’t solve is whether a person is legally allowed to make that change.
+
+* Different legal designations are allowed to do different things (eg. A health care POA might have different capabilities than a court-appointed guardian).   
+* Different legal designations are not tracked in a way that is uniform across VA. This means that someone who is a health care POA might need to carry paperwork with them everywhere, and they might need to present it to the pharmacy, the medical team, etc, because VA is not tracking this data in a consumable way. 
+
+From a HIPAA perspective, it sounds like health care POA and court-appointed guardian status are tracked in a patient’s medical record, which means we can not show this to the POA or court-appointed guardian in their VA.gov account (because this means we are showing them info in someone else’s medical record).
+
+## Conclusion
+
+* Based on our conversations, reviewing previous research, and  exploring legal/policy constraints, continuing to explore a technical solution from the Identity Team’s perspective does not make sense.  
+* However, we firmly believe that there are things we can do to help caregivers and the Veterans they support.
 
 ## Next Steps / additional research
 
-1. Update documentation.
-  - Desired outcome: Caregivers should be able to easily navigate resources and documentation to find what they need.  They should also be able to clearly understand what benefits not only the Veteran but they qualify for.
-2. Obtain behavioral data and observational data from Google Analytics, Facebook community groups, VSignals survey, and etc.
-  - Desired outcome: Obtain a clearer picture of where caregivers are struggling the most, what information they are searching for and develop an understanding any potential for digital access.
-3. Dive deeper into consent/POA pain points.
-  - Desired outcome: Improve the access and/or authorization of caregivers to complete actions on behalf of Veterans that have already proven they have the permissions to do so.  Compliance should also be considered.
-4. Speak to staff who have interacted with Veterans and their caregivers.
-  - Desired outcome: Staff / front-line people see first hand the issues caregivers are experiencing. How can we better understand what these pain points are and how staff is supporting caregivers? Understand what types of care are currently blocked (or unnecessarily difficult) for Veterans who rely on a caregiver?
-5. Understand technical implementation of CARMA, MPI and Veteran profiles.
-  - Desired outcome: From a technical perspective, data is flowing from "somewhere" to MPI and to a Veteran's profile. How does this work in reality? Can our team leverage any of what's been built so far? How is the CARMA solution being utilized and can we piggyback off of it?  Build an understanding of what tools might be needed to enable a caregiver to .have meaningful caregiver status.
+1. Dive deeper into consent/POA pain points.  
+   1. **Desired outcome**: Improve the access and/or authorization of caregivers to complete actions    
+2. Update documentation  
+   1. **Desired outcome**: Caregivers should be able to easily navigate resources and documentation to find what they need.  They should also be able to clearly understand what benefits not only the Veteran but they qualify for.  
+3. Obtain behavioral data and observational data from Google Analytics, Facebook community groups, VSignals survey, and etc.  
+   1. **Desired outcome**: Obtain a clearer picture of where caregivers are struggling the most, what information they are searching for and develop an understanding of any potential for digital access.  
+4. Speak to staff who have interacted with Veterans and their caregivers.  
+   1. **Desired outcome**: Staff / front-line people see first hand the issues caregivers are experiencing. How can we better understand what these pain points are and how staff are supporting caregivers? Understand what types of care are currently blocked (or unnecessarily difficult) for Veterans who rely on a caregiver?  
+5. Understand technical implementation of CARMA, MPI and Veteran profiles.  
+   1. **Desired outcome**: From a technical perspective, data is flowing from "somewhere" to MPI and to a Veteran's profile. How does this work in reality? Can our team leverage any of what's been built so far? How is the CARMA solution being utilized and can we piggyback off of it?  Build an understanding of what tools might be needed to enable a caregiver to have meaningful caregiver status.
    
 
 
