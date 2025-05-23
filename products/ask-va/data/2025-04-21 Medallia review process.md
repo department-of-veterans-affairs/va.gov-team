@@ -1,8 +1,8 @@
 # Medallia review process
 
-Last updated by @tygindraux: April 21, 2025
+Last updated by @tygindraux: May 23, 2025
 
-This document describes how we plan to review Medallia feedback to improve Ask VA. It will evolve as we streamline processes and iron out details between teams.
+This document describes how we plan to review Medallia feedback to improve Ask VA. It continues to evolve as we streamline processes and iron out details between teams.
 
 ## Types of feedback
 
@@ -24,8 +24,8 @@ During launch, we will review feedback daily. We will focus on VSignals feedback
 ### Process
 
 1. Becky will export VSignals feedback to Excel daily.
-2. Towards the   end of each day, Becky and Tyler will review asynchronously and highlight any notable items from the daily export. (Becky will also monitor in real-time to report any urgent issues.)
-3. Becky and/or Tyler will post any notable feedback on the #ask-va-integration Slack channel, including any relevant details, suggested action items, questions and tag relevant team members/
+2. Towards the  end of each day, Becky and Tyler will review asynchronously and highlight any notable items from the daily export. (Becky will also monitor in real-time to report any urgent issues.)
+3. Becky and/or Tyler will post any notable feedback on the #ask-va-integration Slack channel, including any relevant details, suggested action items, questions and tag relevant team members.
 4. Relevant team members will discuss the issue in a Slack thread. Once we agree on any action item(s), we will tag Ariel to create a ticket.
 5. After a ticket is created, we will add a link to the ticket in the Excel feedback sheet, so we track how we're responding to notable feedback.
 
@@ -33,7 +33,7 @@ During launch, we will review feedback daily. We will focus on VSignals feedback
 
 ### Frequency
 
-After launch, we will continue to monitor feedback near-daily. Once feedback starts to stabilize, we will move to reviewing every 2 weeks. Eventually, we expect to review feedback monthly.
+After launch, we will continue to monitor feedback often. Once feedback starts to stabilize, we will move to reviewing every 2 weeks. Eventually, we expect to review feedback monthly.
 
 ### Process
 
@@ -43,4 +43,12 @@ We need to define our exact process, but we think that:
 - CRM team will be responsible for monitoring, reviewing and sharing insights from ESignals.
 - Both teams will share and learn from the partner team's findings.
 - We will focus on sharing a high-level summary between teams, but all team members should have access to the Excel sheet where the data has been exported.
-- We need to consider who is responsible for sharing feedback with business lines, how often and in what format. We think that business lines could benefit from a high-level summary of feedback from both submitters and other staff that is shared monthly on Teams or email. They should know who to contact for more details, if they want them, but the focus will be high-level, actionable feedback.
+
+> ![NOTE]
+> **Open question:** We need to determine how often we share feedback, with whom and in what foramt. We think that business lines could benefit from a high-level summary of feedback from both submitters and other staff that is shared monthly on Teams or email. They should know who to contact for more details, if they want them, but the focus will be high-level, actionable feedback.
+
+### Tagging feedback
+
+When analyzing feedback, we will focus on feedback that is actionable. Meaning, teams or business lines can use this feedback to consider changes or improvements to make to the technology, processes or workflows that support Ask VA.
+
+We will tag feedback with relevant partners. For example, if we get feedback that a topic name is confusing, we will tag this with `VA.gov` and `Business lines.`
