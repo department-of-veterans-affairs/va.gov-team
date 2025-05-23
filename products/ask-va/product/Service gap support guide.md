@@ -13,10 +13,11 @@ To sustain Ask VA, we primarily need system reliability and availability support
 
 |Support tasks|Primary responsible person|
 |:--|:--|
-|Monitor #ask-va-notifications channel and Datadog|Watchtower and/or IIR|
-|Investigate error|Watchtower and/or IIR|
-|Assess issue severity|Watchtower and/or IIR|
+|Monitor #ask-va-notifications channel and Datadog|Watchtower|
+|Investigate error|Watchtower|
+|Assess issue severity|Watchtower|
 |Approve issue severity|Becky|
+|Remediate issue if needed|Watchtover (IIR support if needed)|
 |Monitor Medallia feedback|Becky|
 |Create tickets in [Ask VA repo](https://github.com/department-of-veterans-affairs/ask-va)|Becky|
 
