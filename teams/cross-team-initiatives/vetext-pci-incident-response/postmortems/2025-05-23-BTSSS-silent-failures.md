@@ -73,5 +73,3 @@ A bug in travePaySubmissionJob
 - [ ] Make imporovements to existing logs(include UUIDs etc.) to help identify impacted veterans more easily without exposing PII
 - [ ] Improve code to help with readability(more comments, less nesting)
 
-
-## Appendix
