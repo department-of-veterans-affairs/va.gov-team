@@ -5,7 +5,7 @@
 *Created first draft of documentation based on MVP*
 
 ## Purpose
-This documentation serves as the source of truth for the design, content, and functionality in the [Discover Your Benefits](https://www.va.gov/discover-your-benefits/introduction) product on [va.gov](va.gov).
+This documentation serves as the source of truth for the design, content, and functionality in the [Discover Your Benefits](https://www.va.gov/discover-your-benefits/introduction) product on va.gov.
 
 ## Overview
 
@@ -33,9 +33,9 @@ Content that is **in progress** can be found in:
 
 ### How the results are determined
 
-The **all benefits** page displays all benefits that a Veteran or TSM may be eligible for.
+The **all benefits** page displays all benefits that a Veteran (including RSVs) or TSM may be eligible for.
 
-The **recommended benefits** page displays benefits that Veterans and TSMs may be eligible for based on their answers in the questionnaire. The [Logic Mapping spreadsheet in Sharepoint](https://dvagov.sharepoint.com/:x:/r/sites/VESPortfolioOpsManagement/_layouts/15/Doc.aspx?sourcedoc=%7BC0881268-34D7-4863-936A-DABCD4B7B15D%7D&file=MASTER%20Logic%20Mapping%20Spreadsheet%20-%2001NOV2024.xlsx&action=default&mobileredirect=true) is the source of truth for how eligibility is determined for each benefit. Below are a few key factors for determining eligibility:
+The **recommended benefits** page displays benefits that Veterans (including RSVs) and TSMs may be eligible for based on their answers in the questionnaire. The [Logic Mapping spreadsheet in Sharepoint](https://dvagov.sharepoint.com/:x:/r/sites/VESPortfolioOpsManagement/_layouts/15/Doc.aspx?sourcedoc=%7BC0881268-34D7-4863-936A-DABCD4B7B15D%7D&file=MASTER%20Logic%20Mapping%20Spreadsheet%20-%2001NOV2024.xlsx&action=default&mobileredirect=true) is the source of truth for how eligibility is determined for each benefit. Below are a few key factors for determining eligibility:
 
 * **Only TSMs who are still serving qualify for the following benefits:**
     * DOD SkillBridge program
