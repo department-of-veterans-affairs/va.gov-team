@@ -44,7 +44,7 @@ We need to define our exact process, but we think that:
 - Both teams will share and learn from the partner team's findings.
 - We will focus on sharing a high-level summary between teams, but all team members should have access to the Excel sheet where the data has been exported.
 
-> ![NOTE]
+> [!NOTE]
 > **Open question:** We need to determine how often we share feedback, with whom and in what foramt. We think that business lines could benefit from a high-level summary of feedback from both submitters and other staff that is shared monthly on Teams or email. They should know who to contact for more details, if they want them, but the focus will be high-level, actionable feedback.
 
 ### Tagging feedback
