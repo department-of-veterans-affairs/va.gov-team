@@ -63,7 +63,9 @@ O1: VA’s digital experiences are the easiest and most efficient way to access 
 * Demand letters will not be part of this effort, as they are not even available on VA.gov. 
 * For Veterans to pay their overpayments online, a new tab will open from VA.gov, taking them to [pay.va.gov](https://www.pay.va.gov/). According to the Financial Management team this system will be deprecated and Veterans will need a new method to process payments electronically.
 * Pay.va.gov is using pay.gov in the background, to ensure that Veterans are submitting a payment for a specific debt.    
-* For Veterans to pay their copayments online, a new tab will open from VA.gov, taking them to pay.gov. The Financial Management team is currently working with the pay.gov team to add a new functionality.  
+* For Veterans to pay their copayments online, a new tab will open from VA.gov, taking them to pay.gov. The Financial Management team is currently working with the pay.gov team to add a new functionality.
+* There are only 6 months of copayment statements that are currently displayed in the debt portal.
+* Copayment Statements are issued on the first of the month.  
 * According to the Financial Management Team, Veterans can have a lot of copayment debts.    
 * The Financial Status Report (VA Form 5655\) is a form to request debt resolution, debt compromise, or monthly debt payments.    
 * The streamlined waiver path of the Financial Status Report (FSR \- VA Form 5655\) is currently live and provides Veterans who meet qualifications to bypass sections of the FSR. This waiver will only apply to Veterans who have copays and reduces the time required to complete the Financial Status Report (which is \~60 minutes).    
