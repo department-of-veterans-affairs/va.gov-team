@@ -183,8 +183,9 @@ We would like Perigean to recruit Veterans, non-AT users, for Zoom sessions on s
 
 ### Primary criteria (must-haves)
 
-- `At least 8 had a debt balance from overpayment debt in last three years`
-- `At least 7 received a copayment bill in the last year`
+- `All participants must meet at least one of the following primary criteria:`
+	- `At least 8 had a debt balance from overpayment debt in last three years`
+	- `At least 7 received a copayment bill in the last year`
 - `Range of debt amount`
 - `Complete session on their smartphone via the Zoom app`
 - `No assistive technology users or accessibility features turned on` (this is due to prototype limitations; we will be testing with assistive technology at a later date)
