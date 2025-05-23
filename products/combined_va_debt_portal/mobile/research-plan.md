@@ -180,7 +180,7 @@ Two cohorts: those who have experience with benefits overpayment debts, and thos
 - `Caregivers:` **[0]**
 - `Dependents:` **[0]**
 - `Total:` **[16]**
-- `Ideal completed sessions:` **[10]**
+- `Ideal completed sessions:` **[10]** (5 from each cohort)
 
 ### Primary criteria (must-haves)
 
