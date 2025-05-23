@@ -1,5 +1,5 @@
 # IA Design for Paperless Delivery Opt-in in Profile
-**STATUS: Complete - will update with actual URL strings when H1s are finalized.
+**STATUS: Complete
 
 **Team:** IIR
 
@@ -31,14 +31,14 @@
 *URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site. This section will also document form or tool flow URLs, titled sub-URLs.*
 
 **1) Page name - New**
-- URL: https://www.va.gov/profile/[notifications-settings]
+- URL: https://www.va.gov/profile/notifications-settings
 - Breadcrumb: Home > Profile > [H1]
-- Notes: Actual H1 will be informed by [research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/paperless-delivery/Research/2025-05-Research-Initiative-2/Research%20Plan.md) and determined by Content.
+- Notes:
 
 **2) Page name - New**
-- URL: https://www.va.gov/profile/[paperless-settings]
+- URL: https://www.va.gov/profile/paperless-delivery
 - Breadcrumb: Home > Profile > [H1]
-- Notes: Actual H1 will be informed by [research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/paperless-delivery/Research/2025-05-Research-Initiative-2/Research%20Plan.md) and determined by Content.
+- Notes:
 
 
 ## <a name="nav"></a>Entry points <br>
@@ -49,7 +49,7 @@ Teams must launch with at least one entry point that allows site visitors to nav
 
 1. **Required entry point for launch**
   - [Download Your IRS 1095-B Tax Form hub page](https://staging.va.gov/records/download-your-irs-1095-b/)
-  - Entry point link: www.va.gov/profile/paperless
+  - Entry point link: www.va.gov/profile/paperless-delivery
   - Notes: The Content & IA team will update this page to add an entry point to the authenticated Paperless space in Profile. We'll consider additional unauthenticated entry points when the paperless opt-in feature is available for more forms.
 
 ### Additional key entry points
