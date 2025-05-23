@@ -74,5 +74,5 @@ We've been tracking issues after launching on VA.gov [in this Excel file](https:
 |Next step options|Description|
 |:--|:--|
 |**Remediate issue**, if Severity 1 Priority 1 OR Severity 2 Priority 2|We prioritize these issues for immediate remediation. Review [the Excel file](https://dvagov.sharepoint.com/:x:/s/AskVA/EWNfTVN1y_lGuewV4hmQGZ8BpWLewORLJNhiNil8X4cZ_Q?e=YekMCw) for previous examples.|
-|**Move issue to backlog**, if a lower severity/priority|These are issues we can remediate later.|
+|**Move issue to backlog**, if a lower severity/priority|These are issues we can remediate later. Review [the Excel file](https://dvagov.sharepoint.com/:x:/s/AskVA/EWNfTVN1y_lGuewV4hmQGZ8BpWLewORLJNhiNil8X4cZ_Q?e=YekMCw) for previous examples.|
 |**Rollback to the classic Ask VA experience**, if a Severity 1 Priority 1 OR Severity 2 Priority 2 cannot be remediated in a timely fashion|Since we're new on VA.gov, we can rollback to the previous Ask VA experience. We should make all attempts to fix the issue on VA.gov first though. For example, we rolled back when we discovered a security issue. You can view our postmortem [in this GitHub doc](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Postmortems/2025/2025-04-11%20-%20AskVA%20OOB%20vulnerability%20patch.md).|
