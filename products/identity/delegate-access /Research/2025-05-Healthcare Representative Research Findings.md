@@ -67,6 +67,27 @@ Our primary diversity and inclusion criteria:
    -  **Partially True**
 5. With the deprecation of MHV, there has been a significant roadblock for representatives/caregivers to digitally monitor and complete actions for Veterans in their care.
    -  **Unconfirmed**
+  
+## Previous Research
+
+There have been numerous efforts by many in the VA at all levels that have evaluated the issues caregivers face.  These caregivers play a critical role in helping Veterans manage benefits and healthcare, yet existing systems don’t formally support digital access on a Veteran’s behalf.    
+There have been many teams that have come before the Identity team; we wanted to learn from their efforts and experience while we considered how the Identity team could potentially assist caregivers.
+
+We looked at data points that were relevant to the questions we had so this recap is not comprehensive but calls out things as they relate to our research.
+
+* * [2024-10 Caregiver study](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1726173728303/0cf8beb343b2e2ed0a84d4afc9732e3bf40d3ad0)  
+  * This research focused primarily on form 10-10CG but there were some findings as related to caregivers in general.  
+    * Many caregivers wanted to know what eligibility and benefits they and their Veterans qualified for prior to applying.  
+    * The caregiver program brought up negative feelings and feelings of confusion.  
+    * In terms of caregiver roles, there was quite a bit of confusion between the various types of roles and there was an expectation that the nuances be spelled out.  
+* [Liz Lantz](https://github.com/department-of-veterans-affairs/va.gov-team/blob/8c46b257b67a9d28fbaa3cda92115671ed48cfcc/products/identity/Research/user-roles/discovery/non-veteran-user-roles-discovery-phase-1.md) in Nov 2021 completed discovery into the non-Veteran user roles space.   
+  * Caregivers are not a support role in eBenefits  
+  * MPI added a person data type data point in 2019\.  However, this list is not a 1:1 relationship with MHV.  
+  * MPI can store a delegate after a Veteran designates them as such  
+  * They have the ability to: Refill prescriptions online, manage self-reported Veteran information regarding medication, supplements, and health journals, write and respond to Secure Messages.  
+* [The Digital Health Modernization Team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/pre-mhv-prototype/generative-research-study-1/research-findings.md) completed a generative research study in 2022 and found that:  
+  * Veterans and caregivers did not go to [VA.gov](http://VA.gov) to do tasks but completed most of those actions on MyHealtheVet.  
+  * There was frustration that although a caregiver was given permission to complete actions on behalf of a Veteran, there was no way to distinguish between who completed which action and that caused “friction and confusion”. 
 
 ## Key Findings
 
