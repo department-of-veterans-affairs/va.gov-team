@@ -43,6 +43,12 @@ We primarily use Datadog to monitor Ask VA. We espeically monitor the Ask VA CRM
 
 ## Incident response
 Follow these steps when someone discovers an issue or when an error comes through Datadog.
+1. Assess severity and priority
+2. Document issue
+3. Determine next steps
+   - Option 1: Remediate issue
+   - Option 2: Move issue to backlog
+   - Option 3: Rollback to the classic Ask VA experience
 
 1. **Assess severity and priority**: Use the tables below to assess severity and priority.
    
