@@ -8,18 +8,11 @@ Last modified: 2025-05-23
 
 ## Summary
 
-On Tuesday May 20th at around 3:00PM ET code was deployed to prod to improve upon how we handle timeouts for the BTSSS submission as part of the check in experience. There was a bug that prevented notifcations from going to to veterans who submitted a travel claim and BTSSS api returned an error, resulting in a silent failures. There were no monitors that went off and the logs looked good no uptick in errors or monitors going off for silent failures. **We didn't notice that the Successes and failures didn't add up to the text messages that were sent out.**
-
-On Wednesday the 21st at 10:30am ET an alert went off for higher than normal error rates. It recovered quickly so we didn't look into it further until I thought to check up on the recent deployment again at around 12:30PM ET that day. It was then that we noticed that the successes and failures didn't add up to the text messages we got on a call and started to debug and found the error pretty quickly. I shut the feature off at 2:40PM ET and we worked on getting a fix deployed.
-
-The next day Thursday the 22nd, thinking that the fix was deployed, I turned the feature back on and this resulted in another batch of silent failures. I shut the feature off and waited for the code to be deployed. It was deployed at around 3:00PM ET and I turned the feature back on at 3:40PM ET and monitored the logs. There was a high percentage(20%) `appointment not found` errors but the correct number of text messages were showing up so we left the feature on hoping the the level of appointment not found errors would go back to normal.
-
-Friday May 23rd we monitored the logs and everything looked good. Error rates are normal.
+Between May 20–23, 2025, a code deployment intended to improve BTSSS submissions introduced a bug that caused silent failures—veterans were not notified when errors occurred. The issue went undetected initially, leading to a the silent failures until it was identified, the feature was disabled, and a fix was deployed. Logs were gathered and analyized to produce a list of phone numbers of those veterans who were impacted by the silent failures. Monitoring confirmed the problem was resolved and error rates returned to normal.
 
 ## Impact
 
 There were roughly 260 veterans impacted by the silent failure over the three days.
-
 
 ## Incident Timeline: BTSSS Silent Failures
 
