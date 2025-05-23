@@ -10,6 +10,7 @@
 ## Artifacts
 - [Web Designs](https://www.figma.com/design/SzBiTsdFPDXHyuSJLqo5nm/WIP---International-Phone-Exploration?node-id=0-1&p=f&t=BZALaWdTj5dzJUuC-0)
 - [Mobile Designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=2119-2783&t=litTRdAgMiaN29Tr-0)
+- [StoryBook](https://design.va.gov/storybook/?path=/story/components-va-input-telephone--docs)
 - 
 ## Summary
 - The va-input-telephone component is being developed to enable support for international phone numbers across the VA.gov ecosystem.
