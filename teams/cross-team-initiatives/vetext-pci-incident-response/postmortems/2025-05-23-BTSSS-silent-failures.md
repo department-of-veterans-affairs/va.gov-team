@@ -8,7 +8,7 @@ Last modified: 2025-05-23
 
 ## Summary
 
-Between May 20–23, 2025, a code deployment intended to improve BTSSS submissions introduced a bug that caused silent failures—veterans were not notified when errors occurred. The issue went undetected initially, leading to a the silent failures until it was identified, the feature was disabled, and a fix was deployed. Logs were gathered and analyized to produce a list of phone numbers of those veterans who were impacted by the silent failures. Monitoring confirmed the problem was resolved and error rates returned to normal.
+Between May 20–23, 2025, a code deployment intended to improve BTSSS submissions introduced a bug that caused silent failures—veterans were not notified when errors occurred. The issue went undetected initially, leading to veterans not being sent a notification that their travel claim had not been submitted successfully until it was identified, the feature was disabled, and a fix was deployed. Logs were gathered and analyized to produce a list of phone numbers of those veterans who were impacted by the silent failures. Monitoring confirmed the problem was resolved and error rates returned to normal.
 
 ## Impact
 
