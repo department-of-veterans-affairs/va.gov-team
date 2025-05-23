@@ -176,7 +176,7 @@ Two cohorts: those who have experience with benefits overpayment debts, and thos
 
 ### Recruitment criteria
 
-- `Veterans:` **[16]**
+- `Veterans:` **[16]** (2 cohorts of 8 each)
 - `Caregivers:` **[0]**
 - `Dependents:` **[0]**
 - `Total:` **[16]**
@@ -205,12 +205,12 @@ Two cohorts: those who have experience with benefits overpayment debts, and thos
 
 ### Screener Questions
 
+#### Cohort 1: 8 people (overpayment debt)
+
 1. Please check all that apply
 	1. I currently have an unpaid VA benefits overpayment debt (disability compensation, education, or pension benefits overpayments)
 	2. I previously had a VA benefits overpayment debt in the last 3 years (disability compensation, education, or pension benefits overpayments)
-	3. I have not had a VA benefits overpayment debt in the last 3 years _(jump to question 3)_
-
- 	_(This is to recruit for Cohort 1: 8 people)_
+	3. I have not had a VA benefits overpayment debt in the last 3 years _(DISQUALIFY)_
 <br>
 
 2. Please select the total amount of your debt from VA overpayments from the last 3 years
@@ -222,12 +222,9 @@ Two cohorts: those who have experience with benefits overpayment debts, and thos
 	_(please recruit a range of debt amount as much as possible)_
 <br>
 
-
-3. Have you received a medical copayment bill from VA in the last year?
+3. Are you able to join the Zoom session from a smartphone such as a Samsung Galaxy or Apple iPhone? Any kind of smartphone will work as long as it connects to the internet.
 	1. Yes
-	2. No
-
- 	_(This is to recruit for Cohort 2: 8 people)_
+	2. No _(DISQUALIFY)_
 <br>
 
 4. When interacting with apps on your smartphone, do you usually adjust the standard display and/or use accessibility features? Please select all that apply.
@@ -251,8 +248,38 @@ Two cohorts: those who have experience with benefits overpayment debts, and thos
 	3. Decline to answer
 <br>
 
-7. Are you able to join the Zoom session from a smartphone such as a Samsung Galaxy or Apple iPhone? Any kind of smartphone will work as long as it connects to the internet.
+
+#### Cohort 2: 8 people (medical copays)
+
+1. Have you received a medical copayment bill from VA in the last year?
 	1. Yes
 	2. No _(DISQUALIFY)_
+<br>
+
+2. Are you able to join the Zoom session from a smartphone such as a Samsung Galaxy or Apple iPhone? Any kind of smartphone will work as long as it connects to the internet.
+	1. Yes
+	2. No _(DISQUALIFY)_
+<br>
+
+3. When interacting with apps on your smartphone, do you usually adjust the standard display and/or use accessibility features? Please select all that apply.
+	1. I mostly use the phone's standard display settings. _(ask next question)_
+	2. I often increase the text size significantly. _(DISQUALIFY)_
+	3. I use screen magnification or zoom features. _(DISQUALIFY)_
+	4. I use a screen reader (such as VoiceOver or TalkBack). _(DISQUALIFY)_
+	5. Other _(DISQUALIFY)_
+	6. Prefer not to say _(DISQUALIFY)_
+<br>
+
+4. Do you identify as a member of the LGBTQ+ community? We ask this question because we want to make sure the feedback we get from these sessions represents all the people we serve.
+	1. Yes
+	2. No
+	3. Decline to answer
+<br>
+
+5. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.
+	1. Yes _(mark as having a cognitive disability)_
+	2. No
+	3. Decline to answer
+<br>
 
 
