@@ -48,10 +48,7 @@ Follow these steps when someone discovers an issue or when an error comes throug
 ### Summarized steps
 1.  Assess severity and priority
 2.  Document issue
-3.  Determine next steps
-   - Option 1: Remediate issue
-   - Option 2: Move issue to backlog
-   - Option 3: Rollback to the classic Ask VA experience
+3.  Determine next steps ([1] Remediate issue, [2] Move issue to backlog, or [3] Rollback to the classic Ask VA experience)
 
 ### Detailed steps
 1. **Assess severity and priority**: Use the tables below to assess severity and priority.
