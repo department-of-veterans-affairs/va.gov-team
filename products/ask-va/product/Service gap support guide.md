@@ -17,7 +17,7 @@ To sustain Ask VA, we primarily need system reliability and availability support
 |Investigate error|Watchtower|
 |Assess issue severity|Watchtower|
 |Approve issue severity|Becky|
-|Remediate issue if needed|Watchtover (IIR support if needed)|
+|Remediate issue if needed|Watchtower (IIR support if needed)|
 |Monitor Medallia feedback|Becky|
 |Create tickets in [Ask VA repo](https://github.com/department-of-veterans-affairs/ask-va)|Becky|
 
