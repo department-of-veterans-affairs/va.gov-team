@@ -35,7 +35,7 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 
 ### User logs in with LOA3 account: Bank account information
 
-<details><summary>NEEDS: DESIGN (Refer to code), STATUS CODES, QA | Ineligible: No payments detected</summary>
+<details><summary>NEEDS: DESIGN (Refer to code), STATUS CODES | Ineligible: No payments detected</summary>
 
 - **Use case:** Detected that the user is not receiving any payments.
 - **Status code:** TBD
@@ -52,7 +52,7 @@ If you think this is an error, or think you have been a victim of bank fraud cal
 </details>
 
 
-<details><summary>NEEDS: DESIGN (Refer to design linked), LINK TO CODE, STATUS CODES, QA | Payments detected: No direct deposit set up</summary>
+<details><summary>NEEDS: DESIGN (Refer to design linked), LINK TO CODE, STATUS CODES | Payments detected: No direct deposit set up</summary>
 
 - **Use case:** Detected the user is receiving payments, but does not have direct deposit set up.
 - **Status code:** TBD
@@ -109,7 +109,7 @@ If you think this is an error, or think you have been a victim of bank fraud cal
 
 ### Validation
 
-<details><summary>NEEDS: DESIGN (Refer to code), STATUS CODES, QA | InvalidRoutingNumber: Invalid routing number entered</summary>
+<details><summary>NEEDS: DESIGN (Refer to code), STATUS CODES | InvalidRoutingNumber: Invalid routing number entered</summary>
 
 - **Use case:** User edits their direct deposit information, a call is made to match the routing number, and the routing number is incorrect. Alert appears above input fields in Bank account information edit use case.
 - **Status code:** TBD
@@ -126,7 +126,7 @@ Review your routing number and make sure it’s correct.
 </details>
 
 
-<details><summary>NEEDS: DESIGN (Refer to code), STATUS CODES, QA | UpdatePhoneNumberError: Invalid home or work number entered</summary>
+<details><summary>NEEDS: DESIGN (Refer to code), STATUS CODES | UpdatePhoneNumberError: Invalid home or work number entered</summary>
 
 - **Use case:** User edits their direct deposit information, a call is made to match the home and work phone, and the information is incorrect. There is no requirement to have valid phone numbers on file, and this is a legacy event from eBenefits. [More context linked here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/validation-address-phone.md). Alert appears above input fields in Bank account information edit use case.
 - **Status code:** TBD
@@ -141,7 +141,7 @@ We’re sorry. We couldn’t update your direct deposit bank information because
 </details>
 
 
-<details><summary>NEEDS: DESIGN (Refer to code), STATUS CODES, QA | UpdateAddressError: Invalid address entered</summary>
+<details><summary>NEEDS: DESIGN (Refer to code), STATUS CODES | UpdateAddressError: Invalid address entered</summary>
 
 - **Use case:** User edits their direct deposit information, a call is made to match the address, and the information is incorrect. There is no requirement to have valid addresses on file, and this is a legacy event from eBenefits. [More context linked here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/validation-address-phone.md). Alert appears above input fields in Bank account information edit use case.
 - **Status code:** TBD
@@ -158,7 +158,7 @@ We’re sorry. We couldn’t update your direct deposit bank information because
  
 ### Flags 
 
-<details><summary>NEEDS: DESIGN (Designs), STATUS CODES, QA | PaymentRestrictionError: Account flagged for fraud</summary>
+<details><summary>NEEDS: DESIGN (Designs), STATUS CODES | PaymentRestrictionError: Account flagged for fraud</summary>
 
 - **Use case:** User edits their direct deposit information, a call is made to check for fraud, and returns the alert. Alert appears above input fields in Bank account information edit use case.
 - **Status code:** TBD
@@ -181,7 +181,7 @@ Or you can contact a regional office near you to come in for help in person. [
 </details>
 
 
-<details><summary>NEEDS: DESIGN (Refer to code), STATUS CODES, QA | FlaggedRoutingNumber: Routing number flagged for fraud</summary>
+<details><summary>NEEDS: DESIGN (Refer to code), STATUS CODES | FlaggedRoutingNumber: Routing number flagged for fraud</summary>
 
 - **Use case:** User edits their direct deposit information, a call is made to check for routing number fraud, and returns the alert. Alert appears above input fields in Bank account information edit use case.
 - **Status code:** TBD
@@ -204,7 +204,7 @@ You can also update this information by mail or in person at a VA regional offic
 
 ### Errors 
 
-<details><summary>NEEDS: DESIGN (Refer to code), STATUS CODES, QA | GenericError: Used for all other errors</summary>
+<details><summary>NEEDS: DESIGN (Refer to code), STATUS CODES | GenericError: Used for all other errors</summary>
 
 - **Use case:** Unsure when this is used.
 - **Status code:** TBD
@@ -223,7 +223,7 @@ We’re sorry. We couldn’t update your payment information. Please try again
 
 #### System error
 
-<details><summary>NEEDS: DESIGN (Refer to code), STATUS CODES, QA | TemporaryOutage: Used for back end system outages</summary>
+<details><summary>NEEDS: DESIGN (Refer to code), STATUS CODES | TemporaryOutage: Used for back end system outages</summary>
 
 - **Use case:** Error will appear when we are having issues connecting to the back end, and can't determine if they have direct deposit information to show. There is no action the user can take to correct this.
 - **Status code:** TBD
