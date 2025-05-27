@@ -23,5 +23,5 @@ Veterans attempting to verify their identities on Login.gov and ID.me have repor
 2. **For Login.gov and ID.me Product Teams**:  
    * **Add Guidance to Help Pages**: Update help documentation to include specific instructions for disabling ad/tracker blockers.  
    * **Optimize Script Detection**: Ensure scripts and cookies critical to verification are not easily flagged as trackers by common blockers.   
-   * **User Notifications**: Implement on-site alerts that detect blocker interference and prompt users to disable blockers or allowlist the site..  
+   * **User Notifications**: Implement on-site alerts that detect blocker interference and prompt users to disable blockers or allowlist the site.  
    * **Test with Privacy Browsers**: Conduct regular compatibility testing with privacy-focused browsers like DuckDuckGo to identify and resolve issues proactively.
