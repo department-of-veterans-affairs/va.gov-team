@@ -18,7 +18,7 @@ There were roughly 260 veterans impacted by the silent failure over the three da
 
 ### **Tuesday, May 20th, 2025**
 - **3:00 PM ET:**  
-  Code deployed to production to improve timeout handling for BTSSS submissions as part of the check-in experience.  
+  Code deployed to production to improve timeout handling for BTSSS submissions as part of the check-in experience. https://github.com/department-of-veterans-affairs/vets-api/pull/22231
   - A bug prevented notifications from being sent to veterans when the BTSSS API returned an error, resulting in silent failures.  
   - No monitors or logs indicated issues; errors appeared normal.  
   - **Key oversight:** Successes and failures did not match the number of text messages sent.
@@ -48,7 +48,7 @@ There were roughly 260 veterans impacted by the silent failure over the three da
 - **Feature turned off again** until the fix was confirmed as deployed.  
 
 - **3:00 PM ET:**  
-  Fix successfully deployed to production and verfied on Atlas.  
+  Fix successfully deployed to production and verfied on Atlas.  https://github.com/department-of-veterans-affairs/vets-api/pull/22331
 
 - **3:40 PM ET:**  
   Feature turned back on and logs monitored.  
