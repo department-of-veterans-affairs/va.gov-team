@@ -1,5 +1,17 @@
 # Running Design and Research Agenda
 
+## 05/27/25 IVC Design Sync
+
+**Attendees:** Amanda, Andrea, Jamie, Renata, Mike, Rachel
+
+### Agenda
+
+* UX roadmap
+* Review of [Standalone OHI form revisions](https://www.figma.com/design/sSPoS7R9HE6ZlxRESRy2ms/Other-Health-Insurance-Certification--10-7959c--Form?node-id=4991-3&p=f&t=RrPtgbSms9QwmRUT-0)
+* Review of [Claims Resubmissions](https://www.figma.com/design/Tfhq5h2LwXEeEEtFBAAFOv/CHAMPVA-Claims--10-7959a-?node-id=4578-61533&p=f&t=y08MGPJUGDevRC6i-0)
+
+**Notes**
+
 
 ## 05/19/25 IVC Design Sync
 
