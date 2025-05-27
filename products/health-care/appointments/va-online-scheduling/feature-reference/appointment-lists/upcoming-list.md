@@ -13,8 +13,6 @@ Veterans use this list to get a quick understanding of their upcoming appointmen
 
 ## Requirements
 
-**Functional**
-
 - User can review a summary of their upcoming appointments.
 - Upcoming appointments are sorted starting from most recent to furthest in the future.
 - User can navigate to the details for all appointments in the summary list.
@@ -23,7 +21,7 @@ Veterans use this list to get a quick understanding of their upcoming appointmen
 - When any of the backend services fails to retrieve appointments (VSP for VistA, HSRM for community care appointments and VVS for video appointments) an alert must display to the user informing them that not all appointments can be displayed.
 
 
-**Appointments displayed**
+### Appointments to display
 
 Display future booked appointments in the upcoming list: 
 - Display appointments when they are created
@@ -44,7 +42,7 @@ Display future booked appointments in the upcoming list:
 - No requests are displayed.
 - Note: Future appointments that have been canceled display in the list so the Veteran has a record of the appointment when the facility cancels it.
 
- **Data displayed**
+### Data to display
 - For each appointment, the following data is displayed:
 
 |   Data                                  | VA upcoming/past | CC upcoming/past |
