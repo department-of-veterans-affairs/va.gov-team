@@ -195,6 +195,7 @@ Before you start filling out the form, I’d like you to take a look at the info
 - If you accidentally input some information wrong, say your health insurance provider, how would you fix that?
 - Without clicking anything, if you submitted the form, what do you expect to happen next?
 - How soon do you expect to be notified about your application?
+- You won't be able to submit the application in this test form, so you can stop screen sharing now, and we just have a few more questions for you as part of this session. 
 
 **Participant rating:** On a scale of 1-5 (with 1 being very hard and 5 being very easy) - how difficult or easy was it to complete this section of the form? Why did you give it that rating?
 
@@ -208,7 +209,9 @@ Before you start filling out the form, I’d like you to take a look at the info
 
 1. Overall, was there anything you saw in this session that worked well for you?
 2. What was unclear or didn't work well for you?
-3. [_If the participant is a current CHAMPVA beneficiary or applied in the past_] How would you compare the form you just completed to your experience filling out the CHAMPVA application previously? Why?
+3. What research would you do before applying and completing a form like this?
+4. What are your thoughts about the amount of information provided in this form?
+5. [_If the participant is a current CHAMPVA beneficiary or applied in the past_] How would you compare the form you just completed to your experience filling out the CHAMPVA application previously? Why?
 - Any questions for me? 
 
 ## Consent to use video clips
