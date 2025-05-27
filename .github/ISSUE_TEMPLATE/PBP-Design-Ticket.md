@@ -1,5 +1,5 @@
 ---
-name: Update PBP Design Ticket
+name: PBP Design Ticket
 about: Template to Update PBP Design Ticket
 title: Update PBP Design Ticket Request
 labels: ''
