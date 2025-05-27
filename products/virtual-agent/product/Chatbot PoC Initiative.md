@@ -32,39 +32,48 @@ The purpose is to evaluate whether the integration of an LLM (at the intent clas
 
 ## Problem
 > What is the problem and who is affected?
+
 The current VA.gov Chatbot is losing users, partly because it fails to provide answers to a wide range of generally asked questions by Veterans. It struggles with accurately interpreting user queries as conversational text and does not effectively direct users to relevant information.
+
 > What evidence do we have of the problem?
+
 Total messages decreased from:​​
 * Q1 2024 = 53,617
 * Q1 2025 = 19,541
+
 > Why do you think the problem is occurring?
+
 The chatbot currently struggles with synonyms which causes it to not understand the users intent with the question. This causes it to have to follow up to understand what topic to direct the user to leading to longer user journeys, especially when the question is personalized. With GenAI sites that are able to not only understand the intent of the question, but also provide answers to questions by sourcing data from not only the VA site, but other sites across the internet. Veterans are more likely to use them instead of the VA Chatbot to ask questions that are more personalized to their needs.  
+
 > Why was this topic prioritized?
+
 * Currently a common support use case for support teams at the VA. 
 * Content availability - there is currently a robust troubleshooting guide available on VA.gov that the chatbot can surface as well as be trained on. 
 * Can be a part of the ground floor for integrating Ask VA. 
 * Does not contain user specific or sensitive data which allows us to move fast and explore more technologies in a short period of time
+
 > How does this initiative help further OCTO-DE's mission and goals?
+
 As part of the One-Bot approach. 
 
 ---
 ## Measuring Success
 > 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup> *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
-- Intent Recognition Accuracy: 
-* The percentage of correctly identified login-related user intents. 
-* Improved matching of user queries specific to login support.  
+* **Intent Recognition Accuracy:** 
+  * The percentage of correctly identified login-related user intents. 
+  * Improved matching of user queries specific to login support.  
 * **Response Accuracy:**
-* The correctness and relevance of the responses provided by the chatbot for login issues. 
+  * The correctness and relevance of the responses provided by the chatbot for login issues. 
 * **User Satisfaction:** 
-* Feedback from Veterans on the usability and effectiveness of the chatbot for login-related support in comparison to existing flows. 
-* Perceived value to the business-end that handles troubleshooting tickets. 
+  * Feedback from Veterans on the usability and effectiveness of the chatbot for login-related support in comparison to existing flows. 
+  * Perceived value to the business-end that handles troubleshooting tickets. 
 * **Semantic and Synonym Search Effectiveness**
-* Improvement in the Chatbot’s ability to understand and respond to login-related queries using semantic search and synonyms.
-* Enhanced ability to surface relevant answers based on varied user language (and audience) related to login issues. 
+  * Improvement in the Chatbot’s ability to understand and respond to login-related queries using semantic search and synonyms.
+  * Enhanced ability to surface relevant answers based on varied user language (and audience) related to login issues. 
 * **Fallback and Redirect Efficiency:**
-* Reduction in occurrences where the Chatbot fails to provide a direct answer for login-related issues.
-* Improved accuracy in redirecting users to the correct VA.gov pages or resources for further login support information.
+  * Reduction in occurrences where the Chatbot fails to provide a direct answer for login-related issues.
+  * Improved accuracy in redirecting users to the correct VA.gov pages or resources for further login support information.
 
 ---
 ## Deliverables
