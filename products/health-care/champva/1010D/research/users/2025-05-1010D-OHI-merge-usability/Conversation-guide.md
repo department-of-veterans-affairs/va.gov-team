@@ -143,39 +143,51 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 Thank you for sharing your experiences. 
 
-## First Task: Form Intro Page - 5 minutes
+## First Task: [Form Intro Page] - 5 minutes
+
+Before you start filling out the form, I’d like you to take a look at the information on this page. Tell us your initial thoughts before clicking on anything. 
+
+- Do you know if you’re on the right page to apply for CHAMPVA benefits? 
+- Do you know how to check your eligibility for CHAMPVA benefits for you/your spouse/your dependent children?
+- What information do you think you’d need to fill out this application for you/your spouse/your dependent children?
+- Do you have all that information on hand, or would you need to pause to find it if you were really applying for CHAMPVA benefits today?
+- Without clicking anything, do you know how to start this form? Can you show me?
+
+**Participant rating:** On a scale of 1-5 (with 1 being poorly and 5 being very well) - how informed do you feel about the application you are about to begin based on this page's content? Why did you give it that rating?
+
+> [!NOTE]
+> ### Things to watch for:
+> - [Does the participant easily locate the information about CHAMPVA benefits and OHI?]
+> - [Does the participant locate the apply and supporting documents links?]
+> - [Does the participant indicate they would need to pause to gather information, or would need to coordinate with others to complete the application together?]
+
+## Second Task: [Sponsor and Applicant Loops] - X minutes
+
+- Now I'd like you to start the form as if you were applying for [yourself/your spouse] and one other family member. Some things to note:
+ - This is our testing site so you don't have to worry about the information that you enter going anywhere. Feel free to use fake information for sensitive questions such as your social security number or birth date that you don't want to share.
+ - As you go through the form, please remember to think out loud. We want to hear any reactions you have as you're experiencing them.
+
+**Participant rating:** On a scale of 1-5 (with 1 being very hard and 5 being very easy) - how difficult or easy was it to complete this section of the form? Why did you give it that rating?
+
+> [!NOTE]
+> ### Things to watch for:
+> - [Does the participant understand filling out the sponsor loop?]
+> - [Does the participant understand how to add two applicants to the form?]
+> - [Does the participant have any comments about supporting documents that are asked in the applicant loops?]
+
+## Third Task: [OHI Sub-form] - X minutes
+
+- Now I'd like you to fill out this section, including Medicare and Private Health Insurance for yourself and the one other family member you included in the last task. As a reminder:
+ - This is our testing site and your information will not go anywhere. You're free to include fake information for sensitive questions.
 
 - [ ] Step 1
 - [ ] Step 2
 
 > [!NOTE]
 > ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
-> - [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-> - [Etc]
-
-## Second Task: Complete Applicant Loop - X minutes
-
-- [ ] Step 1
-- [ ] Step 2
-
-> [!NOTE]
-> ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
-> - [Etc]
-
-## Third Task: [TASK NAME] - X minutes
-
-- [ ] Step 1
-- [ ] Step 2
-
-> [!NOTE]
-> ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
-> - [Etc]
+> - [Does the participant understand the Medicare Parts questions?]
+> - [If the participant is 65+, do they understand the attestation question?]
+> - [Are the participants comfortable with selecting health insurance and selecting an applicant?]
 
 # Post-Task Interview - 5 minutes
 [Type into **#feedback-backchannel**: "Any questions you want me to ask?]
