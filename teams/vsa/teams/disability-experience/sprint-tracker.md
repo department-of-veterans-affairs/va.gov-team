@@ -115,8 +115,8 @@ Goals: 
 _Approvals:_ _(sent via email but approvals tracked here)_
 - [x]  ~~Ready to be sent for approvals (05/20/25)~~
 - [x]  ~~VA PO & COR sent the Sprint Goals (05/20/25)~~
-- [ ]  VA PO approved the Sprint Goals 
-- [ ]  VA COR approved the Sprint Goals
+- [x]  ~~VA PO approved the Sprint Goals (05/20/25)~~
+- [x]  ~~VA COR approved the Sprint Goals (05/20/25)~~
 - [ ]  VA PO approved the Sprint Review
 - [ ]   VA COR approved the Sprint Review
 
