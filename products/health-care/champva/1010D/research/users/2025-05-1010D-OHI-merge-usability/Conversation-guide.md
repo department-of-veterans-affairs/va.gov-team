@@ -115,6 +115,8 @@ Before we look at the website, let’s start with a few warm-up questions.
 1. Have you ever applied for the CHAMPVA program? (A cost-sharing program for spouses and children of Veterans with disabilities who don’t qualify for Tricare)
   * *[IF YES:]*
     * Did anyone, such as a VSO or family member/friend, help you fill out the application?
+    * Are you or anyone else in your household currently enrolled in the CHAMPVA program?
+    * Have you or anyone else in your household enrolled in the CHAMPVA program submitted updated health insurance information using the Other Health Insurance Certification (10-7959) form?
     * Did you fill out the CHAMPVA application online, on paper, over the phone, etc.?
       * *[IF ONLINE:]*
         * What was your experience like submitting the CHAMPVA application on VA.gov?
@@ -126,10 +128,8 @@ Before we look at the website, let’s start with a few warm-up questions.
         * Did you have to mail or fax in anything after you submitted your application?
    * [*IF NO:]* Do you intend to apply for CHAMPVA benefits in the future?
      * Why/why not?
-     * Are you or anyone else in your household currently enrolled in the CHAMPVA program?
-     * Have you or anyone else in your household enrolled in the CHAMPVA program submitted updated health insurance information using the Other Health Insurance Certification (10-7959) form?
-
-2. Have you submitted any medical claims to the CHAMPVA program?
+    
+2. _[If enrolled in CHAMPVA]_ Have you submitted any medical claims to the CHAMPVA program?
   * *[IF YES:]*
     * What was your experience like?
 
@@ -161,7 +161,7 @@ Before you start filling out the form, I’d like you to take a look at the info
 > - [Does the participant locate the apply and supporting documents links?]
 > - [Does the participant indicate they would need to pause to gather information, or would need to coordinate with others to complete the application together?]
 
-## Second Task: [Sponsor and Applicant Loops] - X minutes
+## Second Task: [Sponsor and Applicant Loops] - 10 minutes
 
 - Now I'd like you to start the form as if you were applying for [yourself/your spouse] and one other family member. Some things to note:
  - This is our testing site so you don't have to worry about the information that you enter going anywhere. Feel free to use fake information for sensitive questions such as your social security number or birth date that you don't want to share.
@@ -171,29 +171,44 @@ Before you start filling out the form, I’d like you to take a look at the info
 
 > [!NOTE]
 > ### Things to watch for:
+> - [What does the term 'sponsor' mean to the participant?]
 > - [Does the participant understand filling out the sponsor loop?]
 > - [Does the participant understand how to add two applicants to the form?]
-> - [Does the participant have any comments about supporting documents that are asked in the applicant loops?]
+> - [Does the participant have any issues with the supporting documents that are asked in the applicant loop?]
 
-## Third Task: [OHI Sub-form] - X minutes
+## Third Task: [OHI Sub-form] - 10 minutes
 
-- Now I'd like you to fill out this section, including Medicare and Private Health Insurance for yourself and the one other family member you included in the last task. As a reminder:
- - This is our testing site and your information will not go anywhere. You're free to include fake information for sensitive questions.
+- These next few pages, I'd like you to fill out Medicare and private health insurance information for [yourself/your spouse] and one other family member. 
 
-- [ ] Step 1
-- [ ] Step 2
+**Participant rating:** On a scale of 1-5 (with 1 being very hard and 5 being very easy) - how difficult or easy was it to complete this section of the form? Why did you give it that rating?
 
 > [!NOTE]
 > ### Things to watch for:
 > - [Does the participant understand the Medicare Parts questions?]
 > - [If the participant is 65+, do they understand the attestation question?]
 > - [Are the participants comfortable with selecting health insurance and selecting an applicant?]
+> - [Do participants have feedback about the v3 file upload component?]
+
+## Fourth Task: [Review and Submit] - 10 minutes
+
+- Please review your application for CHAMPVA benefits for [yourself/your spouse] and one other family member.
+- If you accidentally input some information wrong, say your health insurance provider, how would you fix that?
+- Without clicking anything, if you submitted the form, what do you expect to happen next?
+- How soon do you expect to be notified about your application?
+
+**Participant rating:** On a scale of 1-5 (with 1 being very hard and 5 being very easy) - how difficult or easy was it to complete this section of the form? Why did you give it that rating?
+
+> [!NOTE]
+> ### Things to watch for:
+> - [Does the participant know how to update information on the form before submitting]
+> - [What are the participant's expectations about being notified about their CHAMPVA application?]
 
 # Post-Task Interview - 5 minutes
 [Type into **#feedback-backchannel**: "Any questions you want me to ask?]
 
 1. Overall, was there anything you saw in this session that worked well for you?
 2. What was unclear or didn't work well for you?
+3. [_If the participant is a current CHAMPVA beneficiary or applied in the past_] How would you compare the form you just completed to your experience filling out the CHAMPVA application previously? Why?
 - Any questions for me? 
 
 ## Consent to use video clips
