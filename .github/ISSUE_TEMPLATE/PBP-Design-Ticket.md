@@ -19,4 +19,5 @@ assignees: ''
 [Link to Figma once work is complete]
 
 ## Screenshot
-[Add image here as visual reference]
+
+<img width="968" alt="Screenshot" src="https://github.com/user-attachments/assets/0133913f-3149-4eec-af4d-cb877d74bd49" />
