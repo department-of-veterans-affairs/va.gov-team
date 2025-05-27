@@ -30,7 +30,7 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 </details>
 
 
-<details><summary>NEEDS: STATUS CODES | NotInDEERSAlert, NoServiceHistoryAlert: User does not have a Department of Defense ID or service history</summary>
+<details><summary>NEEDS: STATUS CODES, TEST RAIL | NotInDEERSAlert, NoServiceHistoryAlert: User does not have a Department of Defense ID or service history</summary>
 
 - **Use case:** DEERS does not return a DoD ID or service history.
 - **Status code:** 403
@@ -49,11 +49,12 @@ If you think there might be a problem with your military service records, you ca
 - **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
 - [Link to designs](https://www.figma.com/design/zb5ecY9yMnupiLjaH9UmSc/Profile---Military-Information?node-id=619-10743&t=iU7vARDUjgIJkIfo-1)
 - [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/29f17e7e54f4b13149934df66d49cc886dedf1fb/src/applications/personalization/profile/components/military-information/MilitaryInformation.jsx#L45)
+- Link to Test Rail
 
 </details>
 
 
-<details><summary>NEEDS: STATUS CODES | NotAVeteranAlert: User is not a Veteran</summary>
+<details><summary>NEEDS: STATUS CODES, TEST RAIL | NotAVeteranAlert: User is not a Veteran</summary>
 
 - **Use case:** User is confirmed as a non-Veteran.
 - **Status code:** TBD
@@ -66,6 +67,7 @@ If you think this is an error,  call us at 800-698-2411 (TTY: 711). We’re here
 - **Format:** [Info alert component](https://design.va.gov/components/alert/#informational-alert-aka-default)
 - [Link to designs](https://www.figma.com/design/zb5ecY9yMnupiLjaH9UmSc/Profile---Military-Information?node-id=619-10743&t=48R0Oy0eosW8QzYj-1)
 - [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/8bb9e606cbe6ac0d17598e748a550218b5bf3f2f/src/applications/personalization/profile/components/military-information/MilitaryInformation.jsx#L22)
+- Link to Test Rail
 
 </details>
 
@@ -76,7 +78,7 @@ No validation use cases. Read only feature.
 
 ### Errors
 
-<details><summary>NEEDS: LINK TO CODE, STATUS CODES | System down</summary>
+<details><summary>NEEDS: LINK TO CODE, STATUS CODES, TEST RAIL | System down</summary>
 
 - **Use case:** Cannot connect to the back end.
 - **Status code:** TBD
@@ -89,6 +91,7 @@ We’re sorry. Something went wrong on our end. Refresh this page or try again l
 - **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
 - [Link to designs](https://www.figma.com/design/zb5ecY9yMnupiLjaH9UmSc/Profile---Military-Information?node-id=619-3634&t=iU7vARDUjgIJkIfo-1)
 - [Link to code]
+- Link to Test Rail
 
 </details>
 
