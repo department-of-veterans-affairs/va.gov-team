@@ -135,53 +135,89 @@ We would like Perigean to recruit assistive technology (AT) and non-AT users.
 
 Our intended audience for this study is Veterans with high disability ratings and their dependent spouses and children, who may or may not be currently enrolled in the CHAMPVA program. We will split this study into two cohorts:
 
-* **Cohort 1:** Veterans with a 100% service connected disability rating with spouse and/or dependent children.
+* **Cohort 1 (N = 12 minimum):** Veterans with a 100% service connected disability rating with spouse and/or dependent children who may or may not be enrolled in CHAMPVA benefits
   
-* **Cohort 2:** Spouses and dependent children of Veterans with a 100% service connected disability rating
-  
-* **Cohort 3:** Assistive technology (AT users), can be either Veterans or spouses/dependent children of Veterans with a 100% service connected disaiblity rating
+* **Cohort 2 (N = 3 minimum):** Spouses and dependent children of Veterans with a 100% service connected disability rating, who may or may not be enrolled in CHAMPVA benefits
 
 ### Recruitment criteria
+**All participants must:**
+- Be on a computer or mobile device
+- During the session, be willing to share a web browser window on their device
+- Have a working microphone
+- Have Zoom downloaded to their device prior to the session and know how to share their screen
 
+**Cohort 1 must:**
+- Be a Veteran with a service-connected disability rating of 100%
+- Have a spouse and/or dependent children
+- Spouse/children do 
+- Recruit 4 assistive tech users - **at least 2 AT user sessions** are needed for this study to be complete
 
-**Cohort 1 (Veterans)**
+**Screener Cohort 1 (Veterans with 100% service connected disability whose spouse/dependents may or may not be enrolled in CHAMPVA benefits):**
+1. Do you get a VA disability compensation for a service-connected disability rating of 100%?
+_Response otions: YES or NO_
+* Yes [jump to next question]
+* No [disqualify]
 
+2. Do you have a spouse or dependent children?
+_Response options: YES or NO_
+* Yes [jump to next question]
+* No [disqualify]
 
-- **Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants.**
-- Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
+3. Is your spouse and/or dependents enrolled in the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA)?
+_Response options: YES, NO, UNSURE_
+* Yes (Qualifies for study, RECORD as enrolled in CHAMPVA)
+* No (Qualifies for study, RECORD as not enrolled in CHAMPVA)
+* Unsure (Qualifies for study, RECORD as unsure if enrolled in CHAMPVA)
 
-- The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria.
-- Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria.
-- Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Review an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/pre-mhv-prototype/generative-research-study-1/2020-12.research-plan1.md)
+4. Do you need a screen reader or screen magnifier **every time** you use the Internet? We ask this question because we want to make sure that our website works for people who rely on these types of technologies
+_Response options: YES or NO_
+* Yes [Recruit **at least 2**, proceed to next question]
+* No [Recruit **at least 10**, end of screener questions]
+
+5. [If yes to Q4] Please list the name of the screen reader or screen magnifier technology you will use during the session
+_Response: free text field_ (If user mentions a browser extension such as Real Aloud, this disqualifies them from being recruited as a screen reader user. 
+
+6. Are you willing to join the zoom session using this assistive technology?
+_Response options: YES or NO_
+* Yes [Recruit **at least 2**, proceed to next question]
+* No [Disqualified]
+  
+**Cohort 2 must:**
+- Identify as a spouse or dependent child of a Veteran with a service-connected disability rating of 100%
+- We'd like to hear from both spouses/children who are currently enrolled in Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA) as well as those who are **not** currently enrolled
+
+**Screener Cohort 2 (Spouses and dependent children of Veterans with a 100% service connected disability):**
+1. Please select the answer that best fits you:
+_Response options: Spouse of a Veteran, Dependent child of a Veteran (Answering either would qualify the participant)_
+
+2. Does the Veteran you are related to get a VA disability compensation for a service-connected disability rating of 100%?
+_Response options: yes or no (Answering YES would qualify the participant)_
+
+3. Are you enrolled in the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA)?
+_Response options: YES or NO (Mark answer, either qualifies for study)_
 
 ### List the ideal completed sessions and total number and type (Veterans, caregivers, etc.) of participants for this study:
 
 - `Veterans:` **10**
 - `Spouses and dependent chilren:` **3-5**
-- `AT users (Veterans and spouses/dependent chidlren:` **3-5**
-- `Total:` **16**
+- `AT users (can be: Veterans and spouses/dependent chidlren:` **2-5**
+- `Total:` **15**
 - `Ideal completed sessions:` **20**
 
 ### Primary criteria (must-haves)
-*What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
-
-- `3 must use a screen reader every time they access the internet`
-- `2 must use a screen magnifier every time they access the internet`
+- `1 must use a screen reader or screen magnifier every time they access the internet`
 - `At least 4 must be primarily mobile users and willing to use it for the session`
-- `At least 4 must be users on desktop/laptop devices`
-- `At least 7 must NOT use assistive technology`
-
-- **`Add more criteria as needed`**
+- `At least 4 must be users on desktop/laptop devices and willing to use it for the session`
+- `8 must NOT use assistive technology`
 
 #### Secondary criteria (nice-to-haves)
-*What criteria would strengthen your results?* 
-
 - `7 must be aged 55-64+`
-- `secondary criteria`
-- `secondary criteria`
-- **`Add more criteria as needed`**
-
+- `At least 2 women`
+- `At least 2 don't have any degree or vocational training after high school`
+- `At least 2 are 35 or under`
+- `At least 2 live in a rural or remote area`
+- `At least 3 people of color`
+  
 ## Timeline 🗓️
 > [!NOTE]
 > **Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.** 
