@@ -28,10 +28,11 @@
 - 
 
 ### Unit Test Coverage
-- Lines = 
-- Functions = 
-- Statements = 
-- Branches = 
+Here are the percentages as of May 27, 2025:
+- Lines = 99.01%
+- Functions = 100%
+- Statements = 99.03%
+- Branches = 81.01%
 
 ### Endpoint Monitoring
 - 
