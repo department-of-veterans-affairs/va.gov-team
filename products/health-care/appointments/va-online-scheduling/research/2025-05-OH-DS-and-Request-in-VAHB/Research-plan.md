@@ -1,9 +1,11 @@
 
-	# Research Plan for [UAE Team, OH direct appointments scheduling and requesting in VAHB app, TBD]
+# Research Plan for [UAE Team, OH direct appointments scheduling and requesting in VAHB app, TBD]
 
 ## Background 🏗️
 	
 Currently, Veterans can only view their appointments on the VA Health and Benefits (VAHB) app. In contrast, the Appointments tool on VA.gov enables logged-in Veterans to schedule and manage their appointments. The UAE team aims to enhance the VAHB app by introducing the ability to schedule appointments, beginning with facilities that use Oracle Health (OH). This research supports an initiative to expand appointment-related functionality within the VAHB app, empowering Veterans to more easily schedule, request, and cancel appointments directly from their mobile devices. 
+
+<!-- Note from PR: Jenny, canceling OH appts is a separate initiative. You can probably pull that (or lmk if I'm wrong and we're testing OH cancelation as part of this) -->
 
 [Appointments Tool Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/vaos-product-outline.md)
 
@@ -18,6 +20,8 @@ Currently, Veterans can only view their appointments on the VA Health and Benefi
 `Objective 2: OCTO’s platforms are the fastest, most efficient, and most secure way to deliver products at VA.`
 
 > - **Key Result 1:** 100% of authentications to our systems and tools (both Veteran-facing and internal) occur using a secure credential.
+
+<!-- Note from PR: Jenny, I'm not sure if these OKRs can be accomplished by this project. Especially Objective 2, KR 1 seems out of scope.  -->
 
 
 ### Veteran Journey
@@ -53,6 +57,7 @@ Currently, Veterans can only view their appointments on the VA Health and Benefi
 `Goal 1: We want to evaluate how effectively and efficiently Veterans can schedule, request, and cancel with facilities that use Oracle Health within the VAHB app.`
 1. Can Veterans successfully schedule, request, and cancel appointments with Oracle Health facilities using the VAHB app?
 2. How much time, how many taps/steps, and how many errors or reversals does it take Veterans to finish each task?
+     <!-- Note from PR: Jenny, this is measuring a few different things, it might be good to break it up. Also, it'd be good to see what your perspective is on these - what's a good vs. bad result?. For example, more taps/steps isn't always bad if the information is clearer. -->
 3. Do Veterans feel confident that their appointment actions (scheduling, requesting, canceling) were completed successfully, why and why not?
 
 `Goal 2: We want to identify pain points, usability issues, and unmet expectations for scheduling, requesting, and canceling with facilities that use Oracle Health within the VAHB app.`
@@ -65,6 +70,7 @@ Currently, Veterans can only view their appointments on the VA Health and Benefi
 2. What details (e.g., provider name, last appointment date) do Veterans expect to see at each step to feel informed and in control?
 3. How do Veterans think the overall appointment scheduling process “should” work, and if previous experiences shape their expectations and how?
 
+ <!-- Note from PR: Jenny, in general I think there are too many things to measure packed into a few of these - see Goal 2/item 1 for example. To meet that goal, you'll need a list of each screen, field, and decision point, and for each you'll need a method to measure confusion level, delays, or errors. I'm assuming you mean user errors and delays, since the system errors and delays are largely in control of the prototype. A usability test of a Figma prototype is likely not robust enough to handle that level of measurement detail. I'd recommend simplifying these. One thing that may help is to make sure each thing you're measuring is tied to one of your hypotheses. -->
 
 ### Hypotheses
 
@@ -77,6 +83,15 @@ Currently, Veterans can only view their appointments on the VA Health and Benefi
 5. Some participants will expect more content around features and functionalities that won't be available, such as type of care and providers they can't schedule with.
 6. Most participants will prefer to schedule with a provider on the app now, instead of requesting and calling.
 7. Participants will expect to see providers and their availabilities at the same time to help them choose who and when to schedule their appointments. 
+
+<!-- Notes from PR:
+
+- For 1: when you say "without facilitator assistance" it might be helpful to clarify that. They may have questions in general - does answering those count as assistance? Or just helping them when they get completely stuck?
+- For 2: How fast is "quickly"? Need a way to measure this. Also "a few may back-track" is a separate hypothesis.
+- For 4: How will you measure "friction"?
+- For 6: Maybe change this to "Most participants will indicate a preference for scheduling through the app over requesting or calling". That focuses it on the modality vs. how they schedule (with a provider). Also, it would be good to ask them their preference both before and after they see the experience.
+
+-->
 
 ---
   
@@ -110,9 +125,13 @@ Currently, Veterans can only view their appointments on the VA Health and Benefi
 - `Dependents:` N/A
 - `Total:` **10**
 
+<!-- Note from PR: Jenny, I would recruit for 18 and aim for a minimum of 12 -->
+
 ### Primary criteria (must-haves)
 
 - `All participants must have a MHV account and have used it in the past 12 months.`
+
+<!-- Note from PR: Jenny, include the criteria `All participants must be registered at an Oracle Health facility` since you're asking for that in your screener q's -->
 
 #### Screener questions
 1. In the past 12 months or upcoming 12 months, did you or do you have appointments at any of the following facilities? (Yes/No) (If no, Disqualify)
@@ -123,6 +142,8 @@ Currently, Veterans can only view their appointments on the VA Health and Benefi
   - VA Southern Oregon Rehabilitation Center and Clinics in White City, Oregon
 2. Have you used My HealtheVet to view or manage your appointments? (Yes - 5 /No - 5)
 3. Have you used VA Benefits and Health app on your phone? (Yes - 5 /No - 5)
+
+<!-- Note from PR: Jenny, shouldn't q2 be Yes - 10? Otherwise it negates your primary criteria doesn't it? If they have an MHV account, they will know because they have used it -->
 
 #### Secondary criteria (nice-to-haves)
 
