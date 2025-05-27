@@ -107,7 +107,7 @@ In addition, user feedback about the v3 file upload component will be shared bac
 ---
   
 ## Methodology  🛠️
-We will conduct remote moderated usability testing to observe research participants filling out the merged online forms. The participants will be **AUTH? UNAUTH?**. We will be testing in the Staging environment.
+We will conduct remote moderated usability testing to observe research participants filling out the merged online forms. We will be testing in the Staging environment.
 
 The methodology will be a mixed-methods approach, combining a usability study with a post-task exit interview. We anticipate 45-60min of usability testing, utilizing the think-aloud protocol, to identify significant issues with the merged digital form experience. Exit interview questions will include a Single Ease Question (SEQ) to triangulate task completion times and qualitative user feedback about the usability and accessibility of the merged forms. 
 
@@ -223,28 +223,29 @@ _Response options: YES or NO (Mark answer, either qualifies for study)_
 > **Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.** 
 
 ### Optional Kick-off Call with Perigean
-We would like a kick-off call with Perigean to discuss recruitment criteria.
+We would like a kick-off call with Perigean to discuss recruitment criteria. Suggested dates and times: 
 
-- `Suggested dates and times:` May 27-30, 9am-6pm ET (the team can be flexible to accommodate Perigean's schedule)
+- `06/05, Thursday, 10am-12:00 pm ET, 2:30pm-5:30pm ET`
+- `06/06, Friday, 9:30am-12:00 pm ET, 4:00-6:00pm ET`
+- 06/09, Monday, 9:30am-12:00 pm ET, 1:00pm-4:00pm ET`
 
 ### Prepare
-*When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).*
-
 **A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.** 
 > [!NOTE]
 > **Send pilot participant email in study Slack channel**
+
 We would like to have an AT user pilot, and non-AT user pilot
 
 **Non-AT user pilot**
 - `Pilot participant name:` Michael Skinner
-- `Date and time of pilot session:`
+- `Date and time of pilot session:` 06/10 or 06/11
 
 **AT user pilot**
 - `Pilot participant name:` TBD (link ADE ticket)
-- `Date and time of pilot session:` 
+- `Date and time of pilot session:` TBD (Week of 06/09, hopefully)
 
 ### Research sessions
-- `Planned dates of research:` **June 4-17**
+- `Planned dates of research:` **June 16-30**
 
 ### Length of sessions
 - `Session length:` 60 minutes for non-AT users, 90 minutes for AT users
@@ -254,17 +255,8 @@ We would like to have an AT user pilot, and non-AT user pilot
 - `Maximum Sessions per day:` 4 per day
 
 ### Availability
-` Monday - Friday 9:30am-1:30pm ET and 2:30pm-6:30pm ET `
-
-> [!TIP]
-> Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. **(e.g. 3/17, Monday 9:00AM-1:00PM, 3:00PM-6:00PM EST; 3/18, Tuesday 9:00AM-6:00PM EST, etc.;** ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
->
-> **Place time slots between `hash marks` when in edit mode.**
-> - `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-> - `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-> - `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-> - `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-> - `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
+> - `Monday - Friday 9:30am-12:00pm ET and 1:00pm-6:30pm ET`
+> - `**EXCEPT** 06/19`
 
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
@@ -272,7 +264,7 @@ We would like to have an AT user pilot, and non-AT user pilot
 - `Research guide writing and task development:` Renata Keck	
 - `Participant recruiting & screening:`	Perigean	
 - `Project point of contact:` Renata Keck & Jamie Fiore	
-- `Accessibility specialist (for sessions where support for assistive technology may be needed):` **[Enter full name]**	
+- `Accessibility specialist (for sessions where support for assistive technology may be needed):` **TBD**	
 - `Note-takers:` Renata Keck, Jamie Fiore, and Rachel Pope
 - `Observers:` Will need to sign up so we can limit the number per session. Renata will add them to the session invites received from Perigean.
 
