@@ -55,10 +55,25 @@ Follow this pattern to ask a user for their marital status and information about
 ##### “What is your marital status?” question
 
 * **This question is the foundational part of this pattern.**  If your form needs additional information, you can include questions from the question bank in this guidance.
+
+![Standard Marital Status](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Images/Standard%20Marital%20Status.jpg)
+
+[Alt text: A display of the standard Marital Status question with reponses available with radio buttons and an additional info component that provides more information on why we ask this information.]
+
+[Caption: The standard Marital Status question to be used in most forms. Always provide a detailed explanation in the additional info component that tells the user why you need this information.]
+
+
 * **If your form doesn't need this level of detail, simply ask 'Are you married?'.** Include 'Yes/No' radio button options for a response, and map those to the 'Married/Never Married' workflows.
+
+![Simple Marital Status](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Images/Simple%20Marital%20Status.jpg)
+
+[Alt text: An annotated display of the simplified version of the Marital Status question with reponses available with radio buttons and an additional info component that provides more information on why we ask this information.]
+
+[Caption: The simplified Marital Status question is to be used in forms that don't need to collect detailed information on the user's marital status and that simply need a yes/no answer to the question.]
+
 * **Include an explanation for why we ask this question.** Place this explanation in an [Additional info](https://design.va.gov/components/additional-info) component for questions that may feel particularly invasive or difficult for users to answer. 
 
-Use the following questions in this pattern if your form needs more information. 
+Only use the following questions in this pattern if your form needs more information. 
 
 
 ##### Spouse personal information and identification
@@ -71,11 +86,33 @@ This optional section includes questions about the spouse, including:
 * If they are a Veteran
 * Their VA file number and military service number if they are a Veteran
 
+![Spouse Personal Info](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Images/Spouse%20Personal%20Info.jpg)
+
+[Alt text: A display of the page asking for spouse name and date of birth.]
+
+[Caption: The first of two pages that allow forms to ask for the spouse's personal information.]
+
+![Spouse Identity](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Images/Spouse%20Identity.jpg)
+
+[Alt text: An annotated display of the page asking for spouse social security number and Veteran status.]
+
+[Caption: The second of two pages that allow forms to ask for the spouse's identity information.]
+
 
 ##### Living arrangement information
 
 This optional section asks if the user lives with their spouse. If not, it also asks why and how much financial support the user provided their spouse over the past 12 months. 
 
+![Spouse Living Situation2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Images/Spouse%20Living%20Situation2.jpg)
+[Alt text: A display of the page asking if the user lives with their spouse.]
+
+[Caption: The first of two pages that allow forms to ask living arrangement questions.]
+
+![Spouse Additional Living Situation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Images/Spouse%20Additional%20Living%20Situation.jpg)
+
+[Alt text: A display of the page asking for additional information about their living arrangements.]
+
+[Caption: The second of two pages that allow forms to ask more information about the spouse's living arrangements.]
 
 ##### Marriage information
 
