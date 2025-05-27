@@ -3,7 +3,7 @@ name: Redirect, URL change, or vanity URL request
 about: Submit a request to change a URL and/or implement a redirect for a URL. Also
   for vanity URL requests.
 title: Redirect Request
-labels: Redirect request, sitewide CAIA, VA.gov frontend
+labels: Redirect request, content-ia-centralized-team, ia-centralized-team, VA.gov frontend
 assignees: mnorthuis
 
 ---
