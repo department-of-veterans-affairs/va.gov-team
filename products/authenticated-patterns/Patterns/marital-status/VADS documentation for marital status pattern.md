@@ -39,13 +39,13 @@ Follow this pattern to ask a user for their marital status and information about
 
 #### **When to use this pattern**
 
-**When you need to collect a person’s marital status.** This applies to a  Veteran, spouse, or dependent who may be applying for benefits.
+**When you need to collect a person’s marital status or information about their current and previous marriages.** This applies when you need information from a Veteran, spouse, or dependent.
 
 #### **Design principles**
 
-**Take a trauma-informed approach.** Although commonly asked, questions about marital status and previous marriages can bring up complex feelings and memories in respondents. Explain why we ask the question with an [Additional info](https://design.va.gov/components/additional-info) component. Limit data collection to only the necessary data for your form. 
+**Take a trauma-informed approach.** Although commonly asked, questions about marital status and previous marriages can bring up complex feelings and memories in respondents. Explain why we ask the question with an [Additional info](https://design.va.gov/components/additional-info) component. 
 
-**Only ask for what you really need.** While this pattern offers many options for subsequent questions that can be asked, only collect the specific data that your forms requires. 
+**Only ask for what you really need.** While this pattern includes multiple follow-up questions, only collect the specific data that your forms requires. 
 
 
 ### **How to design and build**
@@ -63,21 +63,19 @@ Follow this pattern to ask a user for their marital status and information about
 [Caption: The standard Marital Status question to be used in most forms. Always provide a detailed explanation in the additional info component that tells the user why you need this information.]
 
 
-* **If your form doesn't need this level of detail, simply ask 'Are you married?'.** Include 'Yes/No' radio button options for a response, and map those to the 'Married/Never Married' workflows.
+* **If your form doesn't need this level of detail, simply ask 'Are you married?'.** Include 'Yes/No' radio button options for a response. Map those to the 'Married/Never Married' workflows.
 
 ![Simple Marital Status](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Images/Simple%20Marital%20Status.jpg)
 
 [Alt text: An annotated display of the simplified version of the Marital Status question with reponses available with radio buttons and an additional info component that provides more information on why we ask this information.]
 
-[Caption: The simplified Marital Status question is to be used in forms that don't need to collect detailed information on the user's marital status and that simply need a yes/no answer to the question.]
+[Caption: Use the simplified Marital Status question in forms that don't need to collect detailed information on the user's marital status. Use when your form only needs a yes/no answer to the question.]
 
 * **Include an explanation for why we ask this question.** Place this explanation in an [Additional info](https://design.va.gov/components/additional-info) component for questions that may feel particularly invasive or difficult for users to answer. 
 
 Only use the following questions in this pattern if your form needs more information. 
 
-
 ##### Spouse personal information and identification
-
 This optional section includes questions about the spouse, including:
 
 * Name
