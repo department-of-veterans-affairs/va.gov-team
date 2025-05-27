@@ -56,49 +56,29 @@ While we cannot think of any events that would be critical enough to merit a rol
 
 ## Staged Rollout Metrics
 ### Stage A
-Datadog Endpoint activity ([Representative Status Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/ttj-p2z-9gh?fromUser=true&refresh_mode=sliding&from_ts=1734903344987&to_ts=1737581744987&live=true))
-
-1. 
-
-Google Analytics traffic to /profile/accredited-representative ([Profile KPIs Domo Dashboard](https://va-gov.domo.com/page/1834995012))
-
-1. 
+Datadog Endpoint activity:
+1. 98.7% success rate for returning a representative status, when the LH API is called ([Rep Status dashboard](https://vagov.ddog-gov.com/dashboard/ttj-p2z-9gh/arm-representative-status?fromUser=true&refresh_mode=paused&from_ts=1747897200000&to_ts=1748027517007&live=false))
+2. 125 requests to the /profile/accredited-representative URL with a 93.6% success rate for page load. ([Profile dashboard](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/cvt-efh-hzf))
+   1. There is one `301` status, indicating "the requested web page has been permanently moved to a new location". This is odd since the URL should be valid, will keep an eye on this one as we advance to Stage B.
+   2. There are two `499` statuses, indicating the connection was closed before the page could load.
+   3. There are five `304` statuses, indicating the browser used a cached version of the page instead of initiating a new request to load the page.
 
 ### Stage B 
-Datadog Endpoint activity ([Representative Status Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/ttj-p2z-9gh?fromUser=true&refresh_mode=sliding&from_ts=1734903344987&to_ts=1737581744987&live=true))
-
-1. 
-
-Google Analytics traffic to /profile/accredited-representative ([Profile KPIs Domo Dashboard](https://va-gov.domo.com/page/1834995012))
-
-1. 
+Datadog Endpoint activity:
 
 ### Stage C 
-Datadog Endpoint activity ([Representative Status Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/ttj-p2z-9gh?fromUser=true&refresh_mode=sliding&from_ts=1734903344987&to_ts=1737581744987&live=true))
-
-1. 
-
-Google Analytics traffic to /profile/accredited-representative ([Profile KPIs Domo Dashboard](https://va-gov.domo.com/page/1834995012))
-
-1. 
+Datadog Endpoint activity:
 
 ## Post Launch Metrics
 
 ### 1-Week Results Post-Launch 
-Datadog Endpoint activity ([Representative Status Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/ttj-p2z-9gh?fromUser=true&refresh_mode=sliding&from_ts=1734903344987&to_ts=1737581744987&live=true))
-
-1. 
-
-Google Analytics traffic to /profile/accredited-representative ([Profile KPIs Domo Dashboard](https://va-gov.domo.com/page/1834995012))
-
-1. 
+Datadog Endpoint activity:
 
 ### 1-Month Results Post Launch
 
-1. Datadog Endpoint activity ([Representative Status Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/ttj-p2z-9gh?fromUser=true&refresh_mode=sliding&from_ts=1734903344987&to_ts=1737581744987&live=true))
-2. Google Analytics traffic to /profile/accredited-representative ([Profile KPIs Domo Dashboard](https://va-gov.domo.com/page/1834995012))
-12. Contact Center calls (MyVA411): 
-13. Feedback survey submmissions (Medallia): 
+1. Datadog Endpoint activity:
+2. Contact Center calls (MyVA411): 
+3. Feedback survey submmissions (Medallia): 
 
 **What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?**  
 
