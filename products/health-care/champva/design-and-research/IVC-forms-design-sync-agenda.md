@@ -10,7 +10,74 @@
 * Review of [Standalone OHI form revisions](https://www.figma.com/design/sSPoS7R9HE6ZlxRESRy2ms/Other-Health-Insurance-Certification--10-7959c--Form?node-id=4991-3&p=f&t=RrPtgbSms9QwmRUT-0)
 * Review of [Claims Resubmissions](https://www.figma.com/design/Tfhq5h2LwXEeEEtFBAAFOv/CHAMPVA-Claims--10-7959a-?node-id=4578-61533&p=f&t=y08MGPJUGDevRC6i-0)
 
-**Notes**
+### Roadmap
+- Reviewed tickets currently in progress
+- Research plan for merge user testing is almost complete. 
+    - Renata will hand off to Jamie and Rachel for review
+    - Next steps are Perigean and ADE ticket to recruit testers
+- OCR ticket is ready to be picked up
+- Will review in greater detail at end of call
+
+### OHI Standalone
+- Reviewed new paper form
+    - Has specific Part C section and a space for Part D information
+    - Schedule of benefits removed (not needed)
+    - Updated Medigap plans
+    - Country code listed
+    - 3rd party signer?
+        - No, just signature on paper form
+        - We ask on the online form so we can collect an email
+- Pages were already done for the merge, so they were moved over to the standalone form
+    - Beneficiary DOB added even though not on paper form so that we can use age to check for medicare eligibility
+    - Language changed to “add or update” for medicare and health insurance since this form can be used to update OHI
+    - Doesn’t need list and loop because standalone is for one applicant only
+- Andrea asked about headings/URLs
+    - Should be the same
+- Amanda asked about C/IA review
+    - The pages are already being reviewed as part of the merge
+    - Jamie will double-check conditional statements to ensure they make sense
+    - Team will run past content in one of our syncs to see if they would want to review again
+- Andrea mentions that we need to check with engineering on the lift to make these changes
+    - May not have time to build within this contract
+    - Design team will prep and have ready for hand-off
+    - If not building within contract, Amanda would like IA to review, especially for headings and URLs
+
+### Resubmissions
+- Jamie walks through the flow for resubmissions in Figma
+- Resubmit and reopen are the same experience for users on the front end (ref # and upload missing docs)
+    - Different process on backend per call 5/22/25
+    - Similar flow can be used for both in UI
+    - Does the user need to know the difference?
+    - Need to check language used on sendback letters for both to see what language to use
+    - Will verify in stakeholder call
+- Would like to simplify the resubmit process to just the necessary info
+    - Remove pages like sponsor info, SSN, etc.
+    - Verify with stakeholders on what they need to match up the claim
+- PDI or claim number will be optional entries
+    - We should ask this and date of service questions upfront before beneficiary info in the form
+    - Renata will update this in the Mural flow also
+- Andrea states PEGA will not display any information that isn’t asked for in the initial claim submission (i.e. PDI, date of service)
+    - Need to verify if the metadata is sufficient to match up claims
+    - Need to know whether PEGA needs to store that information somewhere
+- Renata states the same PDI could be used for multiple claims (everything submitted in the same batch) 
+    - They will need to look up date of service in order to match the right claims
+    - Do we need to design this to accommodate multiple claims?
+    - We still need to ask what they need on the backend
+    - Review of terms/flow from the call
+- Amanda asks if we feel confident we’ll get the info we need on the call
+    - Yes, if we stick to the single claim/basic resubmission
+
+### Roadmap (again)
+- OHI
+    - Need to check if this is feasible before end of contract
+    - Will at least be ready for handoff
+- Research
+    - Need supporting docs and medicare built out
+    - The bulk of the work will be in staging by the end of this sprint so we can start testing next sprint
+- LLM verification
+    - Andrea is concerned that users submitting multiple documents or multiple claims within one document could make this more complex to implement
+- Resubmissions
+    - Update roadmap to reflect that we are working on this through the end of this sprint
 
 
 ## 05/19/25 IVC Design Sync
