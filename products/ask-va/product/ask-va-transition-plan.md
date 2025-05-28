@@ -1,12 +1,9 @@
 # Ask VA Transition Plan
+Last Updated: May 28, 2025
 
-Last Updated: May 22, 2025
-
-  
 Team Oddball understands the criticality of a smooth transition and treats transition-out tasks with the same level of quality and importance as all other tasks on the Ask VA project. Understanding that this project will be delivered in an agile fashion, all documentation should be up-to-date and stored in a central workspace. However, a centralized plan will help communicate the current status of the project as well as provide helpful guidance on documentation, monitoring processes, and procedures that have been implemented. 
 
 ## Move Ask VA frontend to VA.gov
-
 **Background:** The previous implementation of Ask VA (AVA) lived in a standalone Microsoft portal. The Microsoft portal was not mobile friendly, wasn't accessible, and didn't align with the VA design standards.
 
 **Solution:** Bring the Ask VA frontend to VA.gov. Update the frontend to align with the VA.gov modernized platform. It should remain compatible with the existing Microsoft Customer Relationship Management (CRM) tool. 
@@ -16,30 +13,27 @@ Team Oddball understands the criticality of a smooth transition and treats trans
 - ⬆ Customer satisfaction/experience
 - ⬆ Accurate routing
 
-
 **Current status:** On May 15, 2025, we began routing 100% of users coming from the [VA.gov](http://va.gov) Contact Us to the new Ask VA experience. Full traffic from [ask.va.gov](http://ask.va.gov) was redirected to the new Ask VA portal on May 21, 2025.
 
-| **Documentation**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | **Purpose**                                                    |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/move-frontend%20Mar%202025/initiative-brief.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Provides an overview of this initiative                        |
-| [Product guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/VA.gov%20Product%20Guide%20-%20Ask%20VA%20-%20Version%201.docx.pdf)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Overview of the product, user access, functionality and errors |
-| [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/engineering/release-plan.md)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Describes our phased approach to releasing on VA.gov           |
-| [Inquiry re-routing tables](https://login.microsoftonline.com/e95f1b23-abaf-45ee-821d-b7ab251ab3bf/oauth2/authorize?client%5Fid=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&response%5Fmode=form%5Fpost&response%5Ftype=code%20id%5Ftoken&resource=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&scope=openid&nonce=A09659BF7A3CABF7B8707B918BEB2F87DF3E5912E183C631%2DA87578F31FE0CD092B09CE2EA3AEB6828B8F3CE51C4FFEE7C7C7598911705C0E&redirect%5Furi=https%3A%2F%2Fdvagov%2Esharepoint%2Ecom%2F%5Fforms%2Fdefault%2Easpx&state=OD0w&claims=%7B%22id%5Ftoken%22%3A%7B%22xms%5Fcc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&client%2Drequest%2Did=dc058ea1%2D3036%2D8000%2D5d2c%2D4829cdffa953) (SharePoint) | Outlines business lines in Ask VA their corresponding queues   |
-| [Figma](https://www.figma.com/design/aQ6JsjD4pvMxSVPAZHllMX/AVA-Page-Library?node-id=0-1&p=f&t=AF1HF7A4cEyvXQ6G-0)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | Workspace for interface designs                                |
-| [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/r/1686859097688)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Workspace for flow diagrams, workshops, strategies and more    |
-| [Ask VA Private Repo](https://github.com/department-of-veterans-affairs/ask-va/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | Ask VA repo for private docs                                   |
-| [Public Github repository](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | Storage space for all public documentation related to Ask VA   |
+| **Documentation** | **Purpose**|
+|---|---|
+|[Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/move-frontend%20Mar%202025/initiative-brief.md)|Provides an overview of this initiative|
+|[Product guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/VA.gov%20Product%20Guide%20-%20Ask%20VA%20-%20Version%201.docx.pdf)|Overview of the product, user access, functionality and errors|
+|[Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/engineering/release-plan.md)|Describes our phased approach to releasing on VA.gov|
+|[Inquiry re-routing tables](https://login.microsoftonline.com/e95f1b23-abaf-45ee-821d-b7ab251ab3bf/oauth2/authorize?client%5Fid=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&response%5Fmode=form%5Fpost&response%5Ftype=code%20id%5Ftoken&resource=00000003%2D0000%2D0ff1%2Dce00%2D000000000000&scope=openid&nonce=A09659BF7A3CABF7B8707B918BEB2F87DF3E5912E183C631%2DA87578F31FE0CD092B09CE2EA3AEB6828B8F3CE51C4FFEE7C7C7598911705C0E&redirect%5Furi=https%3A%2F%2Fdvagov%2Esharepoint%2Ecom%2F%5Fforms%2Fdefault%2Easpx&state=OD0w&claims=%7B%22id%5Ftoken%22%3A%7B%22xms%5Fcc%22%3A%7B%22values%22%3A%5B%22CP1%22%5D%7D%7D%7D&wsucxt=1&cobrandid=11bd8083%2D87e0%2D41b5%2Dbb78%2D0bc43c8a8e8a&client%2Drequest%2Did=dc058ea1%2D3036%2D8000%2D5d2c%2D4829cdffa953) (SharePoint) | Outlines business lines in Ask VA their corresponding queues|
+|[Figma](https://www.figma.com/design/aQ6JsjD4pvMxSVPAZHllMX/AVA-Page-Library?node-id=0-1&p=f&t=AF1HF7A4cEyvXQ6G-0)|Workspace for interface designs|
+|[Mural](https://app.mural.co/t/departmentofveteransaffairs9999/r/1686859097688)|Workspace for flow diagrams, workshops, strategies and more|
+|[Ask VA Private Repo](https://github.com/department-of-veterans-affairs/ask-va/)|Ask VA repo for private docs|
+|[Public Github repository](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va)|Storage space for all public documentation related to Ask VA|
 
   **Action items:**
-- [508 Compliance Ticket](https://github.com/department-of-veterans-affairs/ask-va/issues/1736) needs to be kicked off
+- Kick off [508 Compliance Ticket](https://github.com/department-of-veterans-affairs/ask-va/issues/1736)
 - Implement STS Token
 - Confirm how the current CRM portal is managing to block users from accessing inquiries that don’t belong to them
 - Implement learnings
 - Reach out to Mark Dewey from Travel Pay to validate the app’s behavior
- 
 
 # Keeping the lights on
-
 **How (and when) to rollback to the classic experience:** The flow of users through the Contact-Us page of [VA.gov](http://va.gov) can be rolled back to 0% of users via a flipper. The redirect is managed by NEO. Becky has managed this redirect process with the group and submits an email request to <[NOCNetworkEdgeOperations@va.gov](mailto:NOCNetworkEdgeOperations@va.gov)>.
 
   Typically, production issues have been categorized using the following rubric:
@@ -57,23 +51,16 @@ Team Oddball understands the criticality of a smooth transition and treats trans
 | Priority 3                                            | Low urgency            |
 *Severity 1 issues are always prioritized Severity 1, Priority 1)
 
+**Rollback criteria**
+Rollback to the classic Ask VA portal is a last resort. Only roll back if you cannot resolve Severity 1 and 2, Priority 1 issues.
 
-Rollback Criteria
+|Severity|Description|
+|---|---|
+|Blocking Issues (Severity 1 and Severity 2, Priority 1) | Events or Errors where a user’s core functionality of AVA cannot be executed.<br><br>Examples:<br><br>- Can’t complete a question (can’t answer a required field)<br>    <br>- Can’t sign in<br>    <br>- Can’t read the details of my answer from the VA\| Roll back to Ava Classic<br>    <br>- Inquiry details don’t enter CRM - Submitter submits but the details don’t follow down stream ||Non-blocking (Severity 2, Priority 2 and below)|Non Fatal errors include minor design issues and impact to non required fields.<br><br>Examples:<br><br>- Can’t answer a non required field<br>    <br>- Can’t check the status of my inquiry while not authenticated|
 
-| Severity                                                | Description                                                                                                                                                                                                                                                                                                                                                                                    |
-| ------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Blocking Issues (Severity 1 and Severity 2, Priority 1) | Events or Errors where a user’s core functionality of AVA cannot be executed.<br><br>Examples:<br><br>- Can’t complete a question (can’t answer a required field)<br>    <br>- Can’t sign in<br>    <br>- Can’t read the details of my answer from the VA\| Roll back to Ava Classic<br>    <br>- Inquiry details don’t enter CRM - Submitter submits but the details don’t follow down stream |
-| Non-blocking (Severity 2, Priority 2 and below)         | Non Fatal errors include minor design issues and impact to non required fields.<br><br>Examples:<br><br>- Can’t answer a non required field<br>    <br>- Can’t check the status of my inquiry while not authenticated                                                                                                                                                                          |
-With that said, any production issues should be discussed with the VA Product Owners to confirm the categorization.
-
-All team members are in the #ask-va-notifications channel however, usually the Tech Lead and a 1 developer (Back-end) monitor Ask VA off hours.
-
-**Action Items:**
-- Establish formal on-call rotation process.
-	- Setup PagerDuty
+Confirm prioritization of production issues with VA Product Owners. All team members are in the #ask-va-notifications channel. After-hours monitoring isn't necessary.
 
 ## Datadog Monitoring
-
 **Background:** Datadog is the primary tool used by [VA.gov](http://va.gov)  software teams to monitor system health, performance, and behavior. Since the previous Ask VA version was not on [VA.Gov](http://va.gov), a new Datadog dashboard needed to be created. In addition to the dashboard, Datadog has been configured to send alerts to Slack.
 
 **Current status:** The Ask VA Datadog has been set up and the widgets have been configured to track the metrics listed in the performance section of the [KPI document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/KPIs.md). With that said, all activity is logged in Datadog so no data is “lost” despite only focusing on these metrics.
