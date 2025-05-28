@@ -36,7 +36,7 @@ This initiative ensures that non-veteran beneficiaries—such as dependents, spo
 ![image](https://github.com/user-attachments/assets/14368ecb-a1a4-4a77-b8b9-75b9b5d4d76a)
 
 ## Analytics
-
+- [Basic GA4 template that each person will need to update for their own view of the data](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/5Jm2bveUQDG4SBSAp_OrJQ)
 
 ## Important Artifcats 
 -  [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92610)
