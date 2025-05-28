@@ -226,11 +226,11 @@ The header text is displayed as the parent accordion’s `header` prop instead o
 
 **Desktop**
 
-![Filter Desktop - Figma](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/refs/heads/master/products/design-system-forms-library/products/components/va-search/images/figma-filter-desktop.png)
+![Filter Desktop - Figma](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/refs/heads/master/products/design-system-forms-library/products/components/va-search-filter/images/figma-filter-desktop.png)
 
 **Mobile Web**
 
-![Filter Mobile Web - Figma](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/refs/heads/master/products/design-system-forms-library/products/components/va-search/images/figma-filter-mobile-web.png)
+![Filter Mobile Web - Figma](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/refs/heads/master/products/design-system-forms-library/products/components/va-search-filter/images/figma-filter-mobile-web.png)
 
 **Mobile Display: Parent Accordion**
 
@@ -259,7 +259,7 @@ Future component name ideas:
     
 - `va-search-active-categories`
 
-![Filter Pills - Figma](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/refs/heads/master/products/design-system-forms-library/products/components/va-search/images/figma-filter-pills.png)
+![Filter Pills - Figma](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/refs/heads/master/products/design-system-forms-library/products/components/va-search-filter/images/figma-filter-pills.png)
 
 **Nested Facets**
 
