@@ -27,4 +27,6 @@ This initiative ensures that non-veteran beneficiaries—such as dependents, spo
 ![image](https://github.com/user-attachments/assets/14368ecb-a1a4-4a77-b8b9-75b9b5d4d76a)
 
 
-
+## Important Artifcats 
+-  [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92610)
+-  [Designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=1855-3868&t=919ZyW3EaSu2495z-0)
