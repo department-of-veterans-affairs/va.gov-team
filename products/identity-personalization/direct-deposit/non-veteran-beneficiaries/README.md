@@ -2,6 +2,7 @@
 # Direct Deposit for Non-Veteran Beneficiaries
 
 ## Overview 
+This initiative ensures that non-veteran beneficiaries—such as dependents, spouses, and survivors—can securely view their direct deposit information on VA.gov. Read access was revoked by BGS and Lighthouse and we will need to work at a later time to allow user's access to the edit features. 
 
 ## Purpose
 - Provide information on how non-veteran beneficiaries (e.g., dependents, survivors) can **view** their direct deposit details.
