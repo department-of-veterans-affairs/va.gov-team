@@ -57,7 +57,7 @@ If you think this is an error, or think you have been a victim of bank fraud cal
 
 - **Use case:** Detected the user is receiving payments, but does not have direct deposit set up.
 - **Status code:** TBD
-- **Content:** Content prompts user to add account information by clicking the 'Edit' button.
+- **Content:** Content prompts user to add bank account information by clicking the 'Edit' button.
 - **Format:** See designs
 - [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=0-104&t=YyRIssxrSn59rYTM-1)
 - [Link to code]
@@ -69,7 +69,7 @@ If you think this is an error, or think you have been a victim of bank fraud cal
 
 - **Use case:** Detected the user is receiving payments, and has direct deposit set up.
 - **Status code:** 200
-- **Content:** Bank information shows as read only, with an option to click an 'Edit' button to change information.
+- **Content:** Bank account information shows as read only, with an option to click an 'Edit' button to change information.
 - **Format:** See designs
 - [Link to designs]
 - [Link to code]
@@ -84,13 +84,13 @@ If you think this is an error, or think you have been a victim of bank fraud cal
 - **Content:**
 
 **Editing**
-- All fields appear inline in the bank information section. For security purposes, all fields are blank when edit mode is entered.
+- All fields appear inline in the Bank account information section. For security purposes, all fields are blank when edit mode is entered.
 - Errors appear inline with inputs per VADS component standards.
 - [Link to designs]
 
 **Saving changes**
-- Once the form is successfully saved, the user is returned to "read" mode and a success alert should display above the edit button.
-- When direct deposit information is changed, a confirmation email is sent to the user in case they did not make these updates. We send these emails to both the contact email address in the profile **and** the sign in email address in case of fraud. These confirmation emails have information on how to report fraud.
+- Once the form is successfully saved, the user is returned to "read" mode and a success alert displays above the edit button.
+- When Bank account information is changed, a confirmation email is sent to the user in case they did not make these updates. We send these emails to both the contact email address in the profile **and** the sign in email address in case of fraud. These confirmation emails have information on how to report fraud.
 - [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=0-116&t=YyRIssxrSn59rYTM-1)
 
 **Canceling changes**
