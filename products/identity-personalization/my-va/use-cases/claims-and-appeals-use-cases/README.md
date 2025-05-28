@@ -16,6 +16,18 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 
 ## Common use cases
 
+<details><summary>User does not have an open claim or appeal, or one that has been closed in the last 60 days</summary>
+
+- **Use case:** If a logged in LOA3 user does not have an open claim or appeal or one that has been closed in the last 60 days, they will see informational text and be provided a link to manage all claims and appeals.
+- **Status code:** TBD
+- **Content:** PINEAPPLE TBD
+- **Format:** [Card component](https://design.va.gov/components/card)
+- [Link to designs]
+- [Link to code]
+
+</details>
+
+
 <details><summary>User has an open claim or appeal</summary>
 
 - **Use case:** If a LOA3 user has an open claim or appeal, they will see a card in this section that tells them the type of claim or appeal, the date the application was received, a current status update, and a link to "Review details" which links to the details page for that specific claim in the claims tool. The claim details link is specific to the claim card. It is in the following format and the ###### is the claim number: https://va.gov/track-claims/your-claims/########/status.
@@ -33,18 +45,6 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 - **Use case:** If a logged in LOA3 user has a claim or appeal that has been closed in the last 60 days, they will see a card in this section that tells them the type of claim or appeal, the date the application was received, a current status update of “Complete”, and a link to "Review details" which links to the details page for that specific claim in the claims tool. The claim details link is specific to the claim card. It is in the following format and the ###### is the claim number: https://va.gov/track-claims/your-claims/########/status. Once a claim or appeal has been closed for longer than 60 days, the status card will no longer show on My VA.
 - **Status code:** TBD
 - **Content:** Varies on claim and appeal type. See code.
-- **Format:** [Card component](https://design.va.gov/components/card)
-- [Link to designs]
-- [Link to code]
-
-</details>
-
-
-<details><summary>User does not have an open claim or appeal, or one that has been closed in the last 60 days</summary>
-
-- **Use case:** If a logged in LOA3 user does not have an open claim or appeal or one that has been closed in the last 60 days, they will see informational text and be provided a link to manage all claims and appeals.
-- **Status code:** TBD
-- **Content:** PINEAPPLE TBD
 - **Format:** [Card component](https://design.va.gov/components/card)
 - [Link to designs]
 - [Link to code]
