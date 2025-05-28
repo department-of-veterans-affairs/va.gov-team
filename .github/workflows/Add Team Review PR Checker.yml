@@ -1,0 +1,55 @@
+name: Add Team Reviewer CoP Checker
+
+on:
+  pull_request_review:
+    types: [submitted]
+    
+jobs:
+  add-team-reviewer:
+    # Only run this job when changes are requested
+    if: github.event.review.state == 'changes_requested'
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Check if reviewer is team member and add team
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.TEAM_ACCESS_TOKEN }}
+          script: |
+            const reviewer = context.payload.review.user.login;
+            const teamSlug = 'platform-support';
+            const teamToAdd = 'department-of-veterans-affairs/platform-support';
+            
+            console.log(`Changes requested by: ${reviewer}`);
+            
+            try {
+              // Check if the reviewer is a member of the specified team
+              const { data: teamMembers } = await github.rest.teams.listMembersInOrg({
+                org: context.repo.owner,
+                team_slug: teamSlug
+              });
+              
+              const isTeamMember = teamMembers.some(member => member.login === reviewer);
+              
+              if (isTeamMember) {
+                console.log(`${reviewer} is a member of ${teamSlug}. Adding team as reviewer.`);
+                
+                // Add the team as a reviewer
+                await github.rest.pulls.requestReviewers({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  pull_number: context.payload.pull_request.number,
+                  team_reviewers: [teamSlug]
+                });
+                
+                console.log(`Added ${teamSlug} as reviewer`);
+              } else {
+                console.log(`${reviewer} is not a member of ${teamSlug}. No action taken.`);
+              }
+            } catch (error) {
+              console.error('Error:', error);
+              core.setFailed(`Action failed with error: ${error}`);
+            }
