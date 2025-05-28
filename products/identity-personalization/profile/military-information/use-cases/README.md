@@ -1,5 +1,5 @@
-# NEW Military Information Use Cases
-**Last updated:** May 2025
+# Military Information Use Cases
+**Last updated: May 2025**
 
 For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the user will be directed to the Profile Account Security section.
 
@@ -94,7 +94,8 @@ We’re sorry. Something went wrong on our end. Refresh this page or try again l
 </details>
 
 
-
+<details><summary>Archive | Military information use cases, February 2024</summary>
+  
 # Military Information Use Cases
 **Last updated:** February 15, 2024
 
@@ -121,3 +122,5 @@ This feature has no validation use cases, since it is read only.
 
 ## Flow diagrams
 - [User flow on mobile page of design files](https://www.figma.com/file/zb5ecY9yMnupiLjaH9UmSc/Profile---Military-Information?type=design&node-id=0%3A1&mode=design&t=ISGgZpVUB35oOzXb-1)
+
+</details>
