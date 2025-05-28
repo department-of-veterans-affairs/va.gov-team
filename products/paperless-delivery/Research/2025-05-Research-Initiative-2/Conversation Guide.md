@@ -253,6 +253,8 @@ Hesitation to Digital Forms
 
 - If you had a magic wand and could make any changes to the way the VA communicates with you what would that be?
 
+- What would you expect to see if you were not enrolled in health care?
+
 - Do you have any additional feedback on the process or terms we discussed today?
 
 
