@@ -26,4 +26,6 @@ _Presentations occur at 1:05pm ET_
 | IIR |Mike King|Welcome to my VA version 1|January 2025|April 10, 2025|
 |Facilities|Michelle Middaugh|Mobile map functionality|March 2025|May 22, 2025|
 |Benefits Portfolio|Mack Howell|ALS flash to Disability claims|March 2025|June 12, 2025|
+|TBD|TBD|TBD|TBD|July 17, 2025|
+|TBD|TBD|TBD|TBD|August 14, 2025|
 
