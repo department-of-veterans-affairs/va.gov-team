@@ -14,12 +14,12 @@ To sustain Ask VA, we primarily need system reliability and availability support
 |Support tasks|Primary responsible person|
 |:--|:--|
 |Monitor #ask-va-notifications channel and Datadog|Watchtower|
-|Investigate error|Watchtower|
+|Investigate errors when:<br>- Status code is 422 or 500 error for `create`, `unauth_create`, and `create_reply` CRM endpoints<br>- When one of these Datadog monitors don't recover in 2 hours|Watchtower|
 |Assess issue severity|Watchtower|
 |Approve issue severity|Becky|
 |Remediate issue if needed|Watchtower (IIR support if needed)|
 |Monitor Medallia feedback|Becky|
-|Send Datadog report|Becky|
+|Send Datadog report MWF before 10am ET to whole Ask VA team|Becky|
 |Create tickets in [Ask VA repo](https://github.com/department-of-veterans-affairs/ask-va)|Becky|
 
 ## Monitoring
