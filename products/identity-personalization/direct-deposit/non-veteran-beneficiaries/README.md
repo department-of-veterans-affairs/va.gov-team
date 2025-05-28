@@ -23,6 +23,27 @@ This initiative ensures that non-veteran beneficiaries—such as dependents, spo
   - Dependents
   - Survivors (e.g., receiving Dependency and Indemnity Compensation)
 
+<details><summary>Lighthouse process for eligibility</summary>
+<p>
+
+
+Lighthouse has a definition/process they're using:
+
+![image](https://github.com/user-attachments/assets/28b39edb-4524-4fed-8f17-1e768eb6bbe1)
+
+Lighthouse created a new field to allow VA.gov to preemptively detect if a user is a veteran or dependent to blocke edits their direct deposit information. That field is called `veteranStatus`
+
+This new field has the following options ([enums found on the LH documentation page](https://developer.va.gov/explore/api/direct-deposit-management/docs?version=current)):
+
+- VETERAN
+- DEPENDENT
+- NEITHER_VETERAN_NOR_DEPENDENT
+- COULD_NOT_DETERMINE_DUE_TO_EXCEPTION
+
+</p>
+</details> 
+
+
 ## Access to Direct Deposit Information
 
 ### Read-Only View
