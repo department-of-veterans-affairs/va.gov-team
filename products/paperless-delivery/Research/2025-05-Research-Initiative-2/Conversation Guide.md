@@ -60,7 +60,7 @@ Step 4
 
 ## **Intro - 5 minutes**
 
-Thanks for joining us today! My name is Raquel and Megan is taking notes. I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them...
+Thanks for joining us today! My name is Raquel. I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them...
 
 I have a few things that I want to go over with you:
 
@@ -105,31 +105,26 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 1. First can you tell me if you have a VA.gov account?
 
-2) When do you log into your VA.gov account? What prompts you?
-
-3) Imagine you see a section on VA.gov called notification settings. What would you expect to be able to do in the section?
-
-4) When you hear the terms **paperless**, **paper-free**, and **digital online documents**, what comes to mind? Can you describe how you would define each of them in your own words?
-
-5) Are there other similar terms or labels you you prefer above paperless, paper-free, or digital online documents?
-
-6) Can you tell me a little about how you typically receive important forms or communications? (e.g. through physical mail, email, etc.)
-
+2. When do you log into your VA.gov account? What prompts you?
 
 
 ## **First Task: Feelings toward Digital Communication - 5 minutes**
 
-- Interest in Digital Communications
-
+Interest in Digital Communications
+    
 - Are you interested in receiving all or some of your documents like the 1095-B tax document, decision letters, or other communications only digitally on VA.gov and not recieve paper copies by mail? Why or why not?
 
-- What would make you more likely to choose digital communication only and not receive paper mail?
+- Is there anything that would make you more likely to choose digital communication only and not receive paper mail?
 
-- Hesitation to Digital Forms
+Hesitation to Digital Forms
 
-- Can you tell me about your experiences receiving important documents digitally—for example, from the VA or other government services? What made you feel confident or unsure about those experiences? (e.g. privacy, security, reliability, easy of access)
+- Can you tell me a little about how you typically receive important forms or communications? (e.g. through physical mail, email, etc.)
+
+- What made you feel confident or unsure about those experiences? (e.g. privacy, security, reliability, ease of access)
 
 - Are there any VA documents or other communication you would prefer to receive by physical mail vs only digitally on your VA.gov account? Why?
+
+- Would you feel comfortable printing a copy yourself instead of having it mailed to you?
 
 - Do you have any concerns about switching to digital communication?
 
@@ -145,12 +140,16 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ## **Second Task: Existing Usability and Navigation Mental Models - 5 minutes**
 
-- Imagine you wanted to update your VA.gov account to stop the 1095-B tax form from being sent to you via paper mail. 
+- If you wanted to control how a company sends you emails or texts — where would you navigate to control that? What kinds of settings would you look for?
 
-- Now, log in to your VA.gov account and walk me through where you would go to do this? (Note: this functionality does not currently exist) As you are navigating, if there is a section you would expect to exist, share what you are looking for out loud.
+- If you wanted to control how a company sends you physical mail — where would you navigate to control that? What kinds of settings would you look for?
+
+- Go ahead and log in to your VA.gov account. Now, talk me though where you’d expect to go and what you would expect to see to stop receiving the 1095-B tax form by mail. Please share your thoughts out loud. As you are navigating, if there is a section you would expect to exist, share what you are looking for out loud.
 
 
 ### **Things to watch for:**
+
+- Pay attention for if the participant mentions notificaion settings or paperless settings.
 
 - Note the paths the participants took to update their delivery preferences.
 
@@ -182,9 +181,9 @@ Before we look at the website, let’s start with a few warm-up questions.
   
 - How do you feel about being auto opted in to paperless delivery?
 
-- How would you describe what “paperless” means? (expected response: they will not receive mail but instead will access documents on VA.gov)
+- How would you define what ‘paperless settings’ are? (expected response: they will not receive mail but instead will access documents on VA.gov)
 
-- Is there a different word you would prefer to use?
+- Can you think of any other names that would make more sense to you than ‘paperless settings’?
 
 - Now, imagine you would like to change your delivery preferences, talk me through how you would expect to do that.
 
