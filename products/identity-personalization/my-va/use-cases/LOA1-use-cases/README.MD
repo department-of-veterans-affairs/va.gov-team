@@ -16,7 +16,8 @@ PINEAPPLE A user is considered "LOA1" when they log in to VA.gov and they have n
    - Popular tasks: Includes 5 links that are driven by top search terms from My VA
    - Get help: Includes all ways to get help from VA
 
-<details><summary>Archive | Current experience</summary>
+<details><summary>Archive | Current experience, 12/2024</summary>
+
 ## Current experience
 - When a LOA1 user signs in from the homepage, they are automatically redirected to My VA. 
 - Until they have verified their identity, they will see a prompt on My VA to verify their identity at the top of the page. 
@@ -30,4 +31,5 @@ PINEAPPLE A user is considered "LOA1" when they log in to VA.gov and they have n
 
 ### Flow diagrams
 - [User flow for LOA1 user on My VA](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0-7050&mode=design)
+
 </details>
