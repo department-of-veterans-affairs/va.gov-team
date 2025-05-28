@@ -65,7 +65,7 @@ If you think this is an error, or think you have been a victim of bank fraud cal
 </details>
 
 
-<details><summary> LINK TO CODE | Payments detected: Direct deposit set up</summary>
+<details><summary>NEEDS: LINK TO CODE | Payments detected: Direct deposit set up</summary>
 
 - **Use case:** Detected the user is receiving payments, and has direct deposit set up.
 - **Status code:** 200
@@ -77,7 +77,7 @@ If you think this is an error, or think you have been a victim of bank fraud cal
 </details>
 
 
-<details><summary> LINK TO CODE | Payments detected: Edit Bank account information</summary>
+<details><summary>NEEDS: LINK TO CODE | Payments detected: Edit Bank account information</summary>
 
 - **Use case:** Triggered when a user clicks the Edit button.
 - **Status code:** None
