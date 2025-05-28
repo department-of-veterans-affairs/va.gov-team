@@ -7,7 +7,8 @@
 4. [Access to Direct Deposit Information](#access-to-direct-deposit-information)
    - [Read-Only View](#read-only-view)
    - [Online Updates Not Supported](#online-updates-not-supported)
-5. [Important Artifacts](#important-artifacts)
+5. [Analytics](#analytics)
+6. [Important Artifacts](#important-artifacts)
 
 ## Overview 
 This initiative ensures that non-veteran beneficiaries—such as dependents, spouses, and survivors—can securely view their direct deposit information on VA.gov. Read access was revoked by BGS and Lighthouse and we will need to work at a later time to allow user's access to the edit features. 
@@ -33,6 +34,8 @@ This initiative ensures that non-veteran beneficiaries—such as dependents, spo
 - Users will see a message explaining this limitation and the steps to take.
 
 ![image](https://github.com/user-attachments/assets/14368ecb-a1a4-4a77-b8b9-75b9b5d4d76a)
+
+## Analytics
 
 
 ## Important Artifcats 
