@@ -6,6 +6,16 @@ PINEAPPLE A user is considered "LOA1" when they log in to VA.gov and they have n
 - Figma files
 - Test Rail QA
 
+## Phase 1, 3.0 experience
+- When a LOA1 user signs in from the homepage, they are automatically redirected to My VA. 
+- Until they have verified their identity, they will see a prompt on My VA to verify their identity at the top of the page. 
+- PINEAPPLE They will also see the following sections:
+   - Track claims and appeals: Includes an introductory link
+   - Forms: Includes any in-progress forms, and an additional information dropdown
+   - Health: Includes an introductory link
+   - Popular tasks: Includes 5 links that are driven by top search terms from My VA
+   - Get help: Includes all ways to get help from VA
+
 ## Current experience
 - When a LOA1 user signs in from the homepage, they are automatically redirected to My VA. 
 - Until they have verified their identity, they will see a prompt on My VA to verify their identity at the top of the page. 
@@ -17,15 +27,5 @@ PINEAPPLE A user is considered "LOA1" when they log in to VA.gov and they have n
 - [LOA1 user does not have any saved applications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/LOA1-use-cases/LOA1-without-saved-applications.md)
 - [LOA1 user has saved application(s)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/LOA1-use-cases/LOA1-with-saved-applications.md)
 
-## Flow diagrams
+### Flow diagrams
 - [User flow for LOA1 user on My VA](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0-7050&mode=design)
-
-## Phase 1 3.0 experience
-- When a LOA1 user signs in from the homepage, they are automatically redirected to My VA. 
-- Until they have verified their identity, they will see a prompt on My VA to verify their identity at the top of the page. 
-- PINEAPPLE They will also see the following sections:
-   - Track claims and appeals: Includes an introductory link
-   - Forms: Includes any in-progress forms, and an additional information dropdown
-   - Health: Includes an introductory link
-   - Popular tasks: Includes 5 links that are driven by top search terms from My VA
-   - Get help: Includes all ways to get help from VA
