@@ -16,7 +16,8 @@ PINEAPPLE A user is considered "LOA1" when they log in to VA.gov and they have n
    - Popular tasks: Includes 5 links that are driven by top search terms from My VA
    - Get help: Includes all ways to get help from VA
 
-## Current experience DELETE
+<details><summary>Archive | Current experience</summary>
+## Current experience
 - When a LOA1 user signs in from the homepage, they are automatically redirected to My VA. 
 - Until they have verified their identity, they will see a prompt on My VA to verify their identity at the top of the page. 
 - They will also see sections for "Claims and appeals", "Health care", and "Education and training" that have introductory links for more info about each. They will also see a section for "Benefit applications and forms" where any benefit applications that are started and saved but not submitted will show as a card, as well as [some forms that have been submitted](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/forms-status-on-My-VA).
@@ -29,3 +30,4 @@ PINEAPPLE A user is considered "LOA1" when they log in to VA.gov and they have n
 
 ### Flow diagrams
 - [User flow for LOA1 user on My VA](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0-7050&mode=design)
+</details>
