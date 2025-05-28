@@ -33,7 +33,7 @@ Team Oddball understands the criticality of a smooth transition and treats trans
 - Implement learnings
 - Reach out to Mark Dewey from Travel Pay to validate the app’s behavior
 
-# Keeping the lights on
+## Keeping the lights on
 **How (and when) to rollback to the classic experience:** The flow of users through the Contact-Us page of [VA.gov](http://va.gov) can be rolled back to 0% of users via a flipper. The redirect is managed by NEO. Becky has managed this redirect process with the group and submits an email request to <[NOCNetworkEdgeOperations@va.gov](mailto:NOCNetworkEdgeOperations@va.gov)>.
 
   Typically, production issues have been categorized using the following rubric:
@@ -51,12 +51,12 @@ Team Oddball understands the criticality of a smooth transition and treats trans
 | Priority 3                                            | Low urgency            |
 *Severity 1 issues are always prioritized Severity 1, Priority 1)
 
-**Rollback criteria**
-Rollback to the classic Ask VA portal is a last resort. Only roll back if you cannot resolve Severity 1 and 2, Priority 1 issues.
+### Rollback criteria
+**Only roll back if you cannot resolve Severity 1 and 2, Priority 1 issues.** Rolling back to the classic Ask VA portal is a last resort. 
 
 |Severity|Description|
 |---|---|
-|Blocking Issues (Severity 1 and Severity 2, Priority 1) | Events or Errors where a user’s core functionality of AVA cannot be executed.<br><br>Examples:<br><br>- Can’t complete a question (can’t answer a required field)<br>    <br>- Can’t sign in<br>    <br>- Can’t read the details of my answer from the VA\| Roll back to Ava Classic<br>    <br>- Inquiry details don’t enter CRM - Submitter submits but the details don’t follow down stream ||Non-blocking (Severity 2, Priority 2 and below)|Non Fatal errors include minor design issues and impact to non required fields.<br><br>Examples:<br><br>- Can’t answer a non required field<br>    <br>- Can’t check the status of my inquiry while not authenticated|
+|Blocking Issues (Severity 1 and Severity 2, Priority 1) |Events or Errors where a user’s core functionality of AVA cannot be executed.<br><br>Examples:<br><br>- Can’t complete a question (can’t answer a required field)<br>    <br>- Can’t sign in<br>    <br>- Can’t read the details of my answer from the VA\| Roll back to Ava Classic<br>    <br>- Inquiry details don’t enter CRM - Submitter submits but the details don’t follow down stream ||Non-blocking (Severity 2, Priority 2 and below)|Non Fatal errors include minor design issues and impact to non required fields.<br><br>Examples:<br><br>- Can’t answer a non required field<br>    <br>- Can’t check the status of my inquiry while not authenticated|
 
 Confirm prioritization of production issues with VA Product Owners. All team members are in the #ask-va-notifications channel. After-hours monitoring isn't necessary.
 
@@ -77,9 +77,9 @@ Confirm prioritization of production issues with VA Product Owners. All team mem
 - Train Watch Tower OCTO Team member to our Datadog dashboard and explain when to escalate errors.
 
 
-# Ask VA Phase 2 Projects
+## Ask VA Phase 2 Projects
 
-## Prefill topic questions with NLP data model
+### Prefill topic questions with NLP data model
 
 **Background:** To route their question to the right place, Veterans have to answer multiple questions. These category, topic, and subtopic questions require a Veteran to choose from a long list of options.
 
@@ -100,13 +100,7 @@ Confirm prioritization of production issues with VA Product Owners. All team mem
 | [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/r/1686859097688)                                                                                                                                                      | Workspace for flow diagrams, workshops, strategies and more     |
 | [Public Github repository](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va)                                                                                                                | Storage space for all public documentation related to Ask VA    |
 
-**Action items:**
-- To add
-- To add
-
-
-## Ask VA Phase 2
-
+### Ask VA Phase 2
 **Background:** After launching on VA.gov, we plan to make quick, responsive improvements to the product while also bringing partners along on the journey.
 
 **Current status:** The design team is undertaking initiatives to inform near- and further future product improvements.
@@ -121,7 +115,7 @@ Confirm prioritization of production issues with VA Product Owners. All team mem
 - [107821](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107821) - Follow up with Content and IA team on their review of helpful links MVP.
 
 
-## Proof of concept for chatbot integration
+### Proof of concept for chatbot integration
 
 **Background:** A user should be able to start asking a question through chatbot and when chatbot is unable to answer, they can complete an Ask VA inquiry submission through the chatbot interface.We developed a prototype that shows a potential option for integrating Ask VA with chatbot. 
 
