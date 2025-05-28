@@ -80,3 +80,30 @@ How have you been involved with the VA – both in the past and now?
 
 * Have you been in any of their facilities?
 * Have you used the website?
+
+
+<!--
+## Consent to use video clips
+
+* I want to check once again that you are comfortable if we were to share a video clip of this session with our VA partners with your identifying information removed.
+* Is there any part of our discussion you would NOT want shared in a video clip?
+
+## Thank-You and Closing - X minutes
+
+Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the digital experience and make sure it really works for Veterans.
+
+Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
+
+Thank you so much again, and enjoy the rest of your day!
+
+
+## Emergency Exit
+
+[Emergency guidance](https://depo-platform-documentation.scrollhelp.site/research-design/research-safety-and-emergency-exit-strategies#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies)
+
+If needing to exit the session
+
+1. "If for any reason and at any time you want to stop the session, please let me know. You will not lose your stipend or be penalized in any way if we need to stop."
+2. “I’ve just learned that the prototype we were planning on using today is having some technical issues, so we will have to end this session early.”
+3. Thank them profusely for their feedback or for making the time to talk to you.
+-->
