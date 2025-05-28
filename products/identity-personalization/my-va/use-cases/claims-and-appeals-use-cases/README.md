@@ -67,7 +67,7 @@ There are no flags associated with this feature.
 
 Header: We can't access your claims or appeals information.
 
-We're sorry. Something went wrong on our end. If you have any claims and appeals, you won't be able to access your claims and appeals information right now. Please refresh or try again later."
+We're sorry. Something went wrong on our end. If you have any claims and appeals, you won't be able to access your claims and appeals information right now. Please refresh or try again later.
 
 - **Format:** [Error alert](https://design.va.gov/components/alert/#error-alert), **no other content appears in the section when the alert is triggered.**
 - [Link to designs]
