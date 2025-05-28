@@ -30,6 +30,6 @@ _Presentations occur at 1:05pm ET_
 |TBD|TBD|TBD|TBD|August 14, 2025|
 |TBD|TBD|TBD|TBD|September 2025|
 |TBD|TBD|TBD|TBD|October 2025|
-|BTSSS|Ayush Chakravarty|Simple, Mileage-Only Travel Claims on VA.gov|April 2025|November 2025|
+|BTSSS|Ayush Chakravarty|Simple, Mileage-Only Travel Claims on VA.gov|April 2025|November 13, 2025|
 |TBD|TBD|TBD|TBD|December 2025|
 
