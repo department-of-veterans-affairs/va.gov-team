@@ -39,13 +39,10 @@ assignees: ''
 - [ ] Standard has not been met
 ##### Explanation of failure to meet standard (if applicable): #####
 #### Unit Test Coverage
-- Lines %:
-
-- Functions %:
-
 - Statements %:
-
 - Branches %:
+- Functions %:
+- Lines %:
 
 - [ ] Standard has been met
 - [ ] Standard has not been met
