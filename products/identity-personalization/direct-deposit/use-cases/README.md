@@ -77,7 +77,7 @@ If you think this is an error, or think you have been a victim of bank fraud cal
 </details>
 
 
-<details><summary>NEEDS: DESIGN (Refer to old designs + staging), LINK TO CODE | Payments detected: Edit Bank account information</summary>
+<details><summary> LINK TO CODE | Payments detected: Edit Bank account information</summary>
 
 - **Use case:** Triggered when a user clicks the Edit button.
 - **Status code:** None
@@ -91,12 +91,12 @@ If you think this is an error, or think you have been a victim of bank fraud cal
 **Saving changes**
 - Once the form is successfully saved, the user is returned to "read" mode and a success alert displays above the edit button.
 - When Bank account information is changed, a confirmation email is sent to the user in case they did not make these updates. We send these emails to both the contact email address in the profile **and** the sign in email address in case of fraud. These confirmation emails have information on how to report fraud.
-- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=0-116&t=YyRIssxrSn59rYTM-1)
+- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2308-7149&t=2E35Z57ibI3XozvU-1)
 
 **Canceling changes**
 - If a user has made changes to any form field, and hits cancel, they'll be presented with a modal asking them to confirm they want to leave edit mode.
 - **Format:** See designs
-- [Link to designs]
+- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2308-7194&t=2E35Z57ibI3XozvU-1)
 - [Link to code]
 
 </details>
