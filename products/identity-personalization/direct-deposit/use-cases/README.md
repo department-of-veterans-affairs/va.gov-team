@@ -22,10 +22,10 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 - **Status code:** None
 - **Content:**
 
-- Card: Bank account information
-- Additional info: How to update your direct deposit information for Montgomery GI Bill
-- Information alert: What if I think I’ve been the victim of bank fraud?
-- Card: VA payment history
+   - Card: Bank account information
+   - Additional info: How to update your direct deposit information for Montgomery GI Bill
+   - Information alert: What if I think I’ve been the victim of bank fraud?
+   - Card: VA payment history
 
 - **Format:** See designs
 - [Link to designs]
