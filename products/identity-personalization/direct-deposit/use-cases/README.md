@@ -16,7 +16,7 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 
 ### User logs in with LOA3 account: Direct deposit page content
 
-<details><summary>NEEDS: DESIGN (Refer to staging) | All page content</summary>
+<details><summary>NEEDS: STATUS CODE | LINK TO CODE </summary>
 
 - **Use case:** Content shows for all LOA3 users. Bank account information is dynamic, all other information is read only.
 - **Status code:** None
@@ -28,7 +28,7 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
    - Card: VA payment history
 
 - **Format:** See designs
-- [Link to designs]
+- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2258-5791&t=2E35Z57ibI3XozvU-1) 
 - [Link to code]
 
 </details>
@@ -36,7 +36,7 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 
 ### User logs in with LOA3 account: Bank account information
 
-<details><summary>NEEDS: DESIGN (Refer to code), STATUS CODES | Ineligible: No payments detected</summary>
+<details><summary>NEEDS: STATUS CODES | Ineligible: No payments detected</summary>
 
 - **Use case:** Detected that the user is not receiving any payments.
 - **Status code:** TBD
@@ -47,31 +47,31 @@ Our records show that you don’t receive benefit payments from VA.
 If you think this is an error, or think you have been a victim of bank fraud call us at 800-827-1000 (TTY: 711). We’re here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
 
 - **Format:** Body copy
-- [Link to designs]
+- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2302-7003&t=2E35Z57ibI3XozvU-1)
 - [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/cc4af4e2e0fed33ea05835acd63566fd02970abd/src/applications/personalization/profile/components/direct-deposit/alerts/Ineligible.jsx)
 
 </details>
 
 
-<details><summary>NEEDS: DESIGN (Refer to design linked), LINK TO CODE, STATUS CODES | Payments detected: No direct deposit set up</summary>
+<details><summary>NEEDS: LINK TO CODE, STATUS CODES | Payments detected: No direct deposit set up</summary>
 
 - **Use case:** Detected the user is receiving payments, but does not have direct deposit set up.
 - **Status code:** TBD
 - **Content:** Content prompts user to add bank account information by clicking the 'Edit' button.
 - **Format:** See designs
-- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=0-104&t=YyRIssxrSn59rYTM-1)
+- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2308-6926&t=2E35Z57ibI3XozvU-1)
 - [Link to code]
 
 </details>
 
 
-<details><summary>NEEDS: DESIGN (Refer to staging, recommend QA account 226), LINK TO CODE | Payments detected: Direct deposit set up</summary>
+<details><summary> LINK TO CODE | Payments detected: Direct deposit set up</summary>
 
 - **Use case:** Detected the user is receiving payments, and has direct deposit set up.
 - **Status code:** 200
 - **Content:** Bank account information shows as read only, with an option to click an 'Edit' button to change information.
 - **Format:** See designs
-- [Link to designs]
+- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2300-6759&t=2E35Z57ibI3XozvU-1)
 - [Link to code]
 
 </details>
@@ -86,7 +86,7 @@ If you think this is an error, or think you have been a victim of bank fraud cal
 **Editing**
 - All fields appear inline in the Bank account information section. For security purposes, all fields are blank when edit mode is entered.
 - Errors appear inline with inputs per VADS component standards.
-- [Link to designs]
+- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2278-6852&t=2E35Z57ibI3XozvU-1)
 
 **Saving changes**
 - Once the form is successfully saved, the user is returned to "read" mode and a success alert displays above the edit button.
