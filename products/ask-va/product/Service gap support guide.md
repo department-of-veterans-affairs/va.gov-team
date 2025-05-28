@@ -14,7 +14,7 @@ To sustain Ask VA, we primarily need system reliability and availability support
 |Support tasks|Primary responsible person|
 |:--|:--|
 |Monitor #ask-va-notifications channel and Datadog|Watchtower|
-|Investigate errors when:<br>- Status code is 422 or 500 error for `create`, `unauth_create`, and `create_reply` CRM endpoints<br>- When one of these Datadog monitors don't recover in 2 hours|Watchtower|
+|Investigate errors when:<br>- Status code is 422 or 500 error for `create`, `unauth_create`, and `create_reply` CRM endpoints<br>- When one of these Datadog monitors don't recover in 2 hours ([Datadog](https://vagov.ddog-gov.com/monitors/manage?q=Ask%20VA%20API%20-%20Submit%20status%3Aok&order=asc&sort=status) or #ask-va-notifications)|Watchtower|
 |Assess issue severity|Watchtower|
 |Approve issue severity|Becky|
 |Remediate issue if needed|Watchtower (IIR support if needed)|
