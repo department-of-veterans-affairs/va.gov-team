@@ -18,7 +18,12 @@ This initiative ensures that non-veteran beneficiaries—such as dependents, spo
 - Explain why online updates are not supported and how users can make changes via VA assistance.
 
 ## Eligibility
-- Defines who is considered a non-veteran beneficiary:
+
+Veterans are the only people who can update on VA.gov 
+If classified as a Dependent we will show the alert seen in the design below 
+Also if classified as "Neither veteran nor dependent" we will show the same alert
+
+Lighthouse has said all of the users below are classified as dependents:
   - Spouses receiving VA benefits
   - Dependents
   - Survivors (e.g., receiving Dependency and Indemnity Compensation)
