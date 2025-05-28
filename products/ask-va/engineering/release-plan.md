@@ -123,9 +123,5 @@ Targeting Launch March 18-25th
 | May 21, 9:00 am – May 22, 9:00 am      | 1710       | <0.5%                                   | 0%                                          | <0.5%                                         | <0.5%                         |                  | AVG 2.28s    |
 | May 22, 9:01 am – May 23, 9:00 am      | 1720       | 0.5%                                    | 0.3%                                        | 1%                                            | <0.5%                         |                  | AVG 2.20s    |
 | May 23, 9:01 am – May 27, 9:00 am      | 2,900      | 0.5%                                    | 0.3%                                        | 1%                                            | <0.5%                         |                  | AVG 2.90s    |
-
-#### Total
-
-| Time Range                     | Throughput | Error Rate: Form Submissions (422, 5xx) | Error Rate: Dashboard replies<br>(422, 5xx) | Error Rate:<br>Authorization Related<br>(401) | Error Rate:<br>Other<br>(404) | Latency:<br>vets-api | Latency:<br>CRM |
-| ------------------------------ | ---------- | --------------------------------------- | ------------------------------------------- | --------------------------------------------- | ----------------------------- | -------------------- | --------------- |
-| May 15 - May 15 | 397       | 0%                                    | 0%                                          | 3.5%                                          | 0%                         |                      | ~~AVG 2.7s~~        |
+| May 27, 9:01 am – May 28, 9:00 am      | 2,200      | 0.5%                                    | 0%                                          | 0.7%                                          | <0.5%                         |                  | AVG 2.30s    |
+| May 28, 9:01 am – May 29, 9:00 am      |            |                                         |                                             |                                               |                               |                  |              |
