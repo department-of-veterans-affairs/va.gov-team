@@ -1,0 +1,6 @@
+{
+  "default": "New Secure Message",
+  "APNS": "{\"aps\":{\"alert\": {\"title\":\"New Secure Message\",\"body\":\"Review your messages in the health care section of the VA app\"}},\"url\":\"vamobile://messages/%%MSG_ID%%\"}",
+  "APNS_SANDBOX": "{\"aps\":{\"alert\": {\"title\":\"New Secure Message\",\"body\":\"Review your messages in the health care section of the VA app\"}},\"url\":\"vamobile://messages/%%MSG_ID%%\"}",
+  "GCM": "{\"notification\": {\"title\": \"New Secure Message\",\"body\":\"Review your messages in the health care section of the VA app\"},\"data\": {\"url\":\"vamobile://messages/%%MSG_ID%%\"}}"
+}
