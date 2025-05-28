@@ -1,14 +1,20 @@
 # My VA: LOA1 User
-**Last updated: October 29, 2024** - added form statuses
+**Last updated: May 2025**
 
 A user is considered "LOA1" when they log in to VA.gov and they have not verified their identity with any of the credentials we support. LOA1 users who sign into VA.gov are immediately prompted to verify their identity on My VA. 
 
-## UX
-- When an LOA1 user signs in from the homepage, they are automatically redirected to My VA. 
+## Current experience
+- When a LOA1 user signs in from the homepage, they are automatically redirected to My VA. 
 - Until they have verified their identity, they will see a prompt on My VA to verify their identity at the top of the page. 
 - They will also see sections for "Claims and appeals", "Health care", and "Education and training" that have introductory links for more info about each. They will also see a section for "Benefit applications and forms" where any benefit applications that are started and saved but not submitted will show as a card, as well as [some forms that have been submitted](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/forms-status-on-My-VA).
 - [Desktop mock-up](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A246&mode=design&t=0sqAEWapTl9rGnyL-1)
 - [Mobile mock-up](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A911&mode=design&t=0sqAEWapTl9rGnyL-1)
+
+## Phase 1 3.0 experience
+- When a LOA1 user signs in from the homepage, they are automatically redirected to My VA. 
+- Until they have verified their identity, they will see a prompt on My VA to verify their identity at the top of the page. 
+- PINEAPPLE They will also see sections for 'Track claims and appeals', 'Forms', and 'Health' that have introductory links for more info about each. They also see a 'Popular tasks' and 'Get help' section.
+- PINEAPPLE [Figma designs]
 
 ## Common use cases
 - [LOA1 user does not have any saved applications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/LOA1-use-cases/LOA1-without-saved-applications.md)
