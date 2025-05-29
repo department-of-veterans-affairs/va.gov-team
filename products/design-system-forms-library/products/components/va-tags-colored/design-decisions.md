@@ -46,6 +46,7 @@ Tags can come in a variety of styles and we needed to finalize a final design fo
 - [Colored tag use cases](https://www.figma.com/design/5y1gpQBX0zZ83i8vsX9xCE/Colored-tags?node-id=1-323)
 - [Design options considered](https://www.figma.com/design/5y1gpQBX0zZ83i8vsX9xCE/Colored-tags?node-id=50-367)
 - [Mockups with tag design options](https://www.figma.com/design/5y1gpQBX0zZ83i8vsX9xCE/Colored-tags?node-id=58-391)
+- [Design System audit](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1747766690440/cc2b1b4eb7c707954968bac635886fbb34129c27?sender=uc445c662daeb45814b8d8356) - An audit of tags in other design systems was completed
 
 1. **Experimental design:** The original experimental design submitted has a variety of color options and a border around the tags. The tags are slightly bigger than the original USWDS/VADS tags. The alert tag versions included a icon that matches the icons used for the alerts.
 2. **Mobile design:** The mobile design uses the same colors as the alert backgrounds and has a large border radius with a border.
