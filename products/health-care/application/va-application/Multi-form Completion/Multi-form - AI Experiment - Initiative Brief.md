@@ -1,6 +1,5 @@
 # Multi-form - AI Experiment - Initiative Brief
 - Epic - [#109698](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109698)
-- Design file - TBD
 - [VA GPT guidance on creating a holistic experience](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Multi-form%20Completion/VA%20GPT%20guidance%20on%20holistic%20form%20completion%20experience.md)
 - [Mural - AI prototyping experiment](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1746467375767/c971bec1894623ca05ae32976dee99ca538c7f47)
 - [Mural - AI Experiment brainstorm & planning](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1746708567334/89dc9187ed20ce833ffec9675c53a685a17cf120?wid=0-1747147180759)
@@ -58,6 +57,7 @@
 - Product | [10-10EZ product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20Product%20Outline.md)
 - Product | [10-10CG product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Caregiver%20application%20product-outline.md)
 - Product | [10-10EZR product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZR%20Form/10-10EZR%20Product%20Brief%20(standalone%20form).md)
+- Product | [10-10D product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/10-10d-product-outline.md)
 
 ## Problem
 - Veterans often need to complete multiple forms when applying for various benefits and services.
@@ -75,21 +75,6 @@
 - Decrease time and frustration among Veterans and family members when using VA.gov
 
 ---
-## Measuring Success
-
-### Key Performance Indicators (KPIs)
-
-**OBJ: Provide Veterans with additional form options based on input and potential eligibility, so that they may be aware and apply for multiple benefits during their session on VA.gov**
-- Source: Google Analytics (GA4), DOMO dashboard
-
-| Metric| Baseline | Target | 1 Month|
-|-------| ------- | ------- | -------|
-|Rate of task completion (Medallia) | TBD | TBD | TBD|
-|Rate of click-thru to next form| TBD | TBD | TBD|
-|Number of Users Completing Multiple Forms Concurrently | TBD | TBD | TBD|
-|Number of Forms completed concurrently | TBD | TBD | TBD|
-|Average Time to Complete Multiple Forms | TBD | TBD | TBD|
-
 ## Discovery
 ### Assumptions/Risks
 > *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
@@ -113,18 +98,7 @@
 - Stretch: Prefill the next form with entered data.
 
 --- 
-
-## Launch Planning
-- AI Experiment Epic
-   - [ ] Ideation
-   - [ ] Designs
-   - [ ] Prototype
-   - [ ] Testing
-
-
-
----
-   
+  
 ## Screenshots
 
 ### Before
