@@ -1,8 +1,6 @@
 # How the Discover Your Benefits product works
 
-**Last updated**: May 23, 2025
-
-*Created first draft of documentation based on MVP*
+**Last updated**: May 29, 2025
 
 ## Purpose
 This documentation serves as the source of truth for the design, content, and functionality in the [Discover Your Benefits](https://www.va.gov/discover-your-benefits/introduction) product on va.gov.
@@ -18,12 +16,29 @@ The product is organized into three main sections:
 
 ### How we manage content in the product
 
+#### In production
+
+The **designer** and **engineers** are both responsible for managing content that’s in production. The engineers will maintain the source of truth in GitHub and the designer will maintain the [Figma (production file)](https://www.figma.com/design/e0L8mXXi5lqywARbnBy5Zx/%F0%9F%9A%80-Production---Version-2.5--Transition-experience-?m=auto&t=ODHjsOOxGnDsLBLf-6). Both files should include the same content at all times. Content that’s in production is live on va.gov.
+
 Content that is **in production** can be found in:
 * **⭐️ Source of truth**: [GitHub](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/discover-your-benefits)
     * Introduction ([/containers/IntroductionPage.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/discover-your-benefits/containers/IntroductionPage.jsx))
     * Questionnaire ([/config/form.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/discover-your-benefits/config/form.js), [/pages](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/discover-your-benefits/pages))
     * Results ([/containers/ConfirmationPage.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/discover-your-benefits/containers/ConfirmationPage.jsx), [/constants/benefits.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/discover-your-benefits/constants/benefits.js), [/constants/urls.js](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/discover-your-benefits/constants/urls.js), [/components](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/discover-your-benefits/components))
-* **Other sources**: [Figma (production file)](https://www.figma.com/design/e0L8mXXi5lqywARbnBy5Zx/%F0%9F%9A%80-Production---Version-2.5--Transition-experience-?m=auto&t=ODHjsOOxGnDsLBLf-6), [Sharepoint](https://dvagov.sharepoint.com/sites/VESPortfolioOpsManagement/Shared%20Documents/Forms/AllItems.aspx?FolderCTID=0x0120005D19BD4FFB74134285F70EC84B94C756&id=%2Fsites%2FVESPortfolioOpsManagement%2FShared%20Documents%2FProduct%20Lines%2FSeamless%20Experience%20Product%20Line%2FTransition%2FDesign%2C%20Content%2C%20and%20Logic&viewid=f0fefbdc%2D305b%2D4c46%2Dae6a%2D4872045e22d8)
+* **⭐️ Source of truth**: [Figma (production file)](https://www.figma.com/design/e0L8mXXi5lqywARbnBy5Zx/%F0%9F%9A%80-Production---Version-2.5--Transition-experience-?m=auto&t=ODHjsOOxGnDsLBLf-6)
+
+#### Ready for development
+
+The **designer** is responsible for managing content that’s ready for development. It will be clearly labeled as **ready for development** in the [Figma (working file)](https://www.figma.com/design/fRuATIubZQNSeQmnvxzqKY/%F0%9F%92%A1-Working-file--Transition-experience-?m=auto&t=ODHjsOOxGnDsLBLf-6). This content will be referenced by the internal team, especially engineers.
+
+Content that is **ready for development** can be found in:
+* **⭐️ Source of truth**: [Figma (working file)](https://www.figma.com/design/fRuATIubZQNSeQmnvxzqKY/%F0%9F%92%A1-Working-file--Transition-experience-?m=auto&t=ODHjsOOxGnDsLBLf-6)
+* **Other sources**: [Jira](https://jira.devops.va.gov/secure/RapidBoard.jspa?rapidView=10991&projectKey=PTEMSVT&view=planning&issueLimit=100#) (may be used for minor updates)
+
+
+#### In progress
+
+The **designer** and **researcher** are responsible for managing content that’s in progress. It will be clearly labeled as **in progress** or **in review** in the [Figma (working file)](https://www.figma.com/design/fRuATIubZQNSeQmnvxzqKY/%F0%9F%92%A1-Working-file--Transition-experience-?m=auto&t=ODHjsOOxGnDsLBLf-6). This content may be referenced by the internal team, external stakeholders, and/or the Content & IA team.
 
 Content that is **in progress** can be found in:
 * **⭐️ Source of truth**: [Figma (working file)](https://www.figma.com/design/fRuATIubZQNSeQmnvxzqKY/%F0%9F%92%A1-Working-file--Transition-experience-?m=auto&t=ODHjsOOxGnDsLBLf-6)
