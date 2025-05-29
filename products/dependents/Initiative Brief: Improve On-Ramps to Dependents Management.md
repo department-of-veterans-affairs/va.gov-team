@@ -61,7 +61,7 @@ TBD — to be developed as part of our recommendations package.
 ---
 
 ### Communications
-- Team Name: Benefits Dependent Experience Team
+- Team Name: Dependents Management Team (DMT)
 - GitHub Label(s): dependents-benefits
 - Slack channel: benefits-dependents-management
 - Product POC: Jacob Worrell
@@ -70,5 +70,5 @@ TBD — to be developed as part of our recommendations package.
 - Platform Product: TBD
 - Front Door Team: TBD
 - VA.gov Search Team: TBD
-- OCTO: Sanja Bajovic, Dene Gabaldon
-- VBA: Kevin Schneider, Kayce White
+- OCTO: Sanja Bajovic, Ben Guhin Delphine
+- VBA: Kevin Schneider
