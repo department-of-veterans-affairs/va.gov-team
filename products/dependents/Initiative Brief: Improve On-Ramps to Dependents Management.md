@@ -46,6 +46,7 @@ Veterans can easily locate and access the Add/Remove Dependents section of VA.go
 - Platform, Front Door, and Search teams may have backlog or governance constraints that affect ability to implement recommended changes.
 
 ### Recommendations
+- Add a prominent link to "Manage your dependents" within the main site navigation menu
 - Add a prominent link to “Manage your dependents” on the myVA dashboard for logged-in users.
 - Ensure the Dependents Management entry point is available in global navigation or Service Hubs for logged-out users.
 - Reduce reliance on site search by providing intuitive navigation paths to the Add/Remove Dependents experience.
