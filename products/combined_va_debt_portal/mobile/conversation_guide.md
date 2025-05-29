@@ -81,6 +81,35 @@ How have you been involved with the VA – both in the past and now?
 * Have you been in any of their facilities?
 * Have you used the website?
 
+Now we're going to move to the financial portion of our discussion.
+
+* _Understanding situation of money owed_
+    * What is your experience with medical copayments through the VA?
+        * Do you receive any of these bills?
+        * How long have you been receiving them?
+        * How often do you receive them?
+    * Have you had any debts as a result of a benefit overpayment?
+        * What was the situation?
+        * When were you notified of the debt?
+        * How long did it take you to pay it off? Or do you have a rough idea when you’ll pay it off?
+
+<br>
+
+* _Notifications/awareness_
+    * (copays) Tell me how you learn that you have a bill.
+        * What is your thought on how the bills are presented to you?
+        * How are you paying the bills? (mobile/web, how often, payment method)
+        * Is there anything that could make things easier for you?
+    * (VBA debts) Tell me how you know you need to make a payment.
+        * What is your thought on the communication regarding what needs to be paid?
+        * How are you paying the debts? (payment method, benefit reduction, how often, mobile/web)
+        * Is there anything that could make things easier for you?
+
+<br>
+
+* _(if they have both)_
+    * Consider both the copayment bills and the overpayment debts: in your mind, do these feel like different types of financial issues to you? Or do they belong in the same category?
+
 
 <!--
 ## Consent to use video clips
