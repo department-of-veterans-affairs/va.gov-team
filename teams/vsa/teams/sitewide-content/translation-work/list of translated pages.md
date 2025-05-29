@@ -38,3 +38,5 @@
 | 35 | [VA dental care](https://www.va.gov/health-care/about-va-health-benefits/dental-care-esp/) | Spanish | 1/14/25 |
 | 36 | [How to apply for Veteran Readiness and Employment](https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply-esp/)| Spanish | 5/5/25 |
 | 37 | [Board Appeals](https://www.va.gov/decision-reviews/board-appeal-esp/) | Spanish | 5/14/25 |
+| 38 | [How to request a VA home loan Certificate of Eligibility (COE)](https://www.va.gov/housing-assistance/home-loans/how-to-request-coe-esp/) | Spanish | 5/20/25 |
+| 39 | [After you request a decision review](https://www.va.gov/decision-reviews/after-you-request-review-esp/) | Spanish | 5/21/25 |
