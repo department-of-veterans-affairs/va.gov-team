@@ -242,6 +242,7 @@ Refresh this page or try again later.
 ### Blocked users 
 - [See documentation here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/blocked-account.md)
  
+---
 
 <details><summary>Archive | Direct deposit use cases, February 2024</summary>
 
