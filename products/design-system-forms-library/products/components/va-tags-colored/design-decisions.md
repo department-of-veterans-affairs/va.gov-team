@@ -35,7 +35,7 @@ Applying colors to tags can introduce a few different interaction issues that we
 ### Status: Accepted
 
 - Date Raised: 2025-12-05
-- Decision Date: 2025-23-25
+- Decision Date: 2025-05-25
 
 ### Context
 
