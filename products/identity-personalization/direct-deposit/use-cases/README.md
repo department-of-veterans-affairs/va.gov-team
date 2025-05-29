@@ -155,7 +155,7 @@ We’re sorry. We couldn’t update your direct deposit bank information because
  
 ### Flags 
 
-<details><summary>NEEDS: DESIGN (Designs) | PaymentRestrictionError: Account flagged for fraud</summary>
+<details><summary>PaymentRestrictionError: Account flagged for fraud</summary>
 
 - **Use case:** User edits their Bank account information, a call is made to check for fraud, and returns the alert. Alert appears above input fields in Bank account information edit use case.
 - **Status code:** PUT **422**
@@ -172,13 +172,13 @@ Call us at 800-827-1000 (TTY: 711). Tell the representative you received this me
 Or you can contact a regional office near you to come in for help in person. [Find a VA regional office near you (opens in a new tab)](https://www.va.gov/find-locations)
 
 - **Format:** [Error alert component](https://design.va.gov/components/alert/#error-alert)
-- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=1855-3868&t=YyRIssxrSn59rYTM-1)
+- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2324-22645&t=LjjeJObYt6wPn3uz-1)
 - [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blame/8bb9e606cbe6ac0d17598e748a550218b5bf3f2f/src/applications/personalization/profile/components/direct-deposit/alerts/UpdateErrorAlert.jsx#L123C10-L123C33)
 
 </details>
 
 
-<details><summary>NEEDS: DESIGN (Refer to code) | FlaggedRoutingNumber: Routing number flagged for fraud</summary>
+<details><summary>FlaggedRoutingNumber: Routing number flagged for fraud</summary>
 
 - **Use case:** User edits their Bank account information, a call is made to check for routing number fraud, and returns the alert. Alert appears above input fields in Bank account information edit use case.
 - **Status code:** TBD
@@ -193,7 +193,7 @@ You can also update this information by mail or in person at a VA regional offic
 [Learn how to update your direct deposit bank information.](https://www.va.gov/change-direct-deposit/)
 
 - **Format:** [Error alert component](https://design.va.gov/components/alert/#error-alert)
-- [Link to designs]
+- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2324-22768&t=LjjeJObYt6wPn3uz-1)
 - [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blame/8bb9e606cbe6ac0d17598e748a550218b5bf3f2f/src/applications/personalization/profile/components/direct-deposit/alerts/UpdateErrorAlert.jsx#L37)
 
 </details>
@@ -201,7 +201,7 @@ You can also update this information by mail or in person at a VA regional offic
 
 ### Errors 
 
-<details><summary>NEEDS: DESIGN (Refer to code) | GenericError: Used for all other errors</summary>
+<details><summary>GenericError: Used for all other errors</summary>
 
 - **Use case:** Used as generic PUT/UPDATE error.
 - **Status codes:**
@@ -216,13 +216,13 @@ H2: We couldn't update your direct deposit information
 We’re sorry. We couldn’t update your payment information. Please try again
 
 - **Format:** [Error alert component](https://design.va.gov/components/alert/#error-alert)
-- [Link to designs]
+- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2324-22985&t=LjjeJObYt6wPn3uz-1)
 - [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blame/8bb9e606cbe6ac0d17598e748a550218b5bf3f2f/src/applications/personalization/profile/components/direct-deposit/alerts/UpdateErrorAlert.jsx#L81)
 
 </details>
 
 
-<details><summary>NEEDS: DESIGN (Refer to content on this page) | This page is not available right now</summary>
+<details><summary>This page is not available right now</summary>
 
 - **Use case:** Used as generic GET/SHOW error.
 - **Status codes:**
@@ -237,7 +237,7 @@ H2: This page isn't available right now.
 We're sorry. Something went wrong on our end. Refresh this page or try again later.
 
 - **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert) replaced Bank information widget. Widget does not show.
-- [Link to designs]
+- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2324-23090&t=LjjeJObYt6wPn3uz-1)
 - [Link to code]
 
 </details>
@@ -245,7 +245,7 @@ We're sorry. Something went wrong on our end. Refresh this page or try again lat
 
 #### System error
 
-<details><summary>NEEDS: DESIGN (Refer to code) | TemporaryOutage: Used for back end system outages</summary>
+<details><summary>TemporaryOutage: Used for back end system outages</summary>
 
 - **Use case:** Error will appear when we are having issues connecting to the back end, and can't determine if they have direct deposit information to show. There is no action the user can take to correct this.
 - **Status code:** TBD
@@ -258,7 +258,7 @@ We’re sorry. Direct deposit information isn’t available right now. We’re d
 Refresh this page or try again later.
 
 - **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
-- [Link to designs]
+- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2327-23209&t=LjjeJObYt6wPn3uz-1)
 - [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/cc4af4e2e0fed33ea05835acd63566fd02970abd/src/applications/personalization/profile/components/direct-deposit/alerts/TemporaryOutage.jsx#L32)
 
 </details>
