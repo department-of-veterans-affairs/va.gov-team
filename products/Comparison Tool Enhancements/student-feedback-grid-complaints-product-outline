@@ -17,18 +17,28 @@ Why
 *We believe that by the updated Complaints section of the Comparison Tool will meet the requirements by clearly displaying the year a complaint was reported and its type in a read-only format. This will improve data transparency and usability, allowing Veteran’s to better understand the scope and relevance of complaints related to each individual institution searched. This will also provide Veteran’s the ability to be more informed and increase their confidence in making participation decisions with a more compliant user experience.* 
 
 ## Undesired User Outcomes
-
+*We believe that If the required data fields cannot be displayed, the GI Bill Comparison Tool will remain non-compliant with the Dole Act, posing regulatory risk. Veteran’s may continue to lack critical information needed to assess the institution, leading to confusion. This could result in reduced participation and missed opportunities for program participation.*
 
 ## Desired Business Outcomes
 
 - *Why would your business want this to exist?*
 - *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+•	Achieves full compliance of the Dole Act
+•	Increased engagement from the Veteran’s 
+•	Enhances the credibility of the VA and institutions 
+
 
 ## Undesired Business Outcomes
-
+•	Non-compliance with the Dole Act
+•	Veteran confusion
+•	Decreased engagement 
+•	Risk of reputational damage 
 
 ---
 ## Measuring Success
+Confirmation that the GI Bill Comparison Tool meets all Dole Act requirements 
+Zero compliance issues are reported post-launch
+The data is accessible per institution. 
 
 
 ### Key Performance Indicators (KPIs)
@@ -120,16 +130,16 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 <details>
  
  - DEPO Lead: 
- - PM: 
- - Engineering:
- - Research/Design: 
+ - PM: Emyly Hall
+ - Engineering: Liz Wendling 
+ - Research/Design: Jenna Moffit 
  
 </details>
 
 
 #### Stakeholders
 
-<details>
+
  
 _What offices/departments are critical to make this initiative successful?_
  
