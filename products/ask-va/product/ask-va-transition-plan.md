@@ -81,6 +81,38 @@ Confirm prioritization of production issues with VA Product Owners. All team mem
   **Action items:**
 - Train Watch Tower OCTO Team member to our Datadog dashboard and explain when to escalate errors.
 
+## Quality Assurance
+
+**Background:** The majority of the phase 1 testing was conducted manually based on test scripts that cover various scenarios or flows within the Ask VA application. These scripts have been moved to TestRails under the "Ask VA" project.
+
+Cypress tests have been written based on the TestRails cases, and a small subset of tests run in the pipeline. With that said, the recommendation is to run the larger Cypress suite on reoccurring basis in order to catch potential issues ahead of time. 
+
+| Link                                                                                                                                                     | Description                                                                                                                                            |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Ask VA Test Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/engineering/test-plans/ask-va-test-plan.md) | High level test plan for Ask VA phase 1                                                                                                                |
+| [TestRails Project](https://dsvavsp.testrail.io/index.php?/projects/overview/98)                                                                         | All manual Form and Dashboard manual test scripts have been moved here. These scripts mirror those in the spreadsheets linked in the Ask VA Test Plan. |
+| [Cypress Test Folder](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/ask-va/tests/e2e/fixtures/flows)         | Cypress tests have the same ID as the manual test scenarios.                                                                                           |
+
+**Action Items:**
+- Build Insomnia test suite
+- Establish a cadence to run larger Cypress test suite
+
+## Collaboration Cycle/Staging Review
+
+**Background:** Collaboration Cycle is a mandatory governance process that all VA product teams must follow in order to launch new products or major initiatives. The final touchpoint in the cycle  is the "Staging Review" in which the platform governance team tests an app to find any potential launch blocking issues.
+
+All Ask VA launch blocking issues have been addressed however there are still several issues that are open which need to be prioritized.
+
+| Link                                                                                                            | Description                                                                                        |
+| --------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| [Ask VA Staging Review Tickets](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1089)   | List of issues discovered by the platform governance team during their review of Ask VA in phase 1 |
+| [Ask VA Collaboration Cycle Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62304) | Ticket includes all the various touch points and related documentation for each.                   |
+
+
+**Action Items:**
+- Review and prioritize remaining Staging Review tickets.
+
+
 
 ## Ask VA Phase 2 Projects
 
