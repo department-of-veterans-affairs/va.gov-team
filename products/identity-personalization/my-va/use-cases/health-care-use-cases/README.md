@@ -25,6 +25,12 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 
 </details>
 
+### Appointments
+
+
+
+### Messages
+
 - [User has VA health care and does or does not have upcoming appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/health-care-use-cases/health-care-appointments.md)
 - [User has VA health care and does or does not have unread messages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/health-care-use-cases/health-care-messages.md)
 
