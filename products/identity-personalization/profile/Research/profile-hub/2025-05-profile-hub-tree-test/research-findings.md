@@ -6,7 +6,7 @@
 
 **Contacts:** Janelle Finnerty, Oddball
 
-**[Link to Research Readout](link-here)**
+**[Link to Research Readout](https://dvagov.sharepoint.com/:p:/s/AuthenticatedExperience2/EVKesjOXn2dNjVXRRDRd7sAB9EjotEhN6WnO0MzRPQDb2Q?e=KecM6g)**
 
 **Jump to:**
 
