@@ -106,7 +106,7 @@ If you think this is an error, or think you have been a victim of bank fraud cal
 
 ### Validation
 
-<details><summary>NEEDS: DESIGN (Refer to code), STATUS CODES | InvalidRoutingNumber: Invalid routing number entered</summary>
+<details><summary>NEEDS: DESIGN (Refer to code) | InvalidRoutingNumber: Invalid routing number entered</summary>
 
 - **Use case:** User edits their Bank account information, a call is made to match the routing number, and the routing number is incorrect. Alert appears above input fields in Bank account information edit use case.
 - **Status code:** TBD
@@ -123,7 +123,7 @@ Review your routing number and make sure it’s correct.
 </details>
 
 
-<details><summary>NEEDS: DESIGN (Refer to code), STATUS CODES | UpdatePhoneNumberError: Invalid home or work number entered</summary>
+<details><summary>NEEDS: DESIGN (Refer to code) | UpdatePhoneNumberError: Invalid home or work number entered</summary>
 
 - **Use case:** User edits their Bank account information, a call is made to match the home and work phone, and the information is incorrect. There is no requirement to have valid phone numbers on file, and this is a legacy event from eBenefits. [More context linked here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/validation-address-phone.md). Alert appears above input fields in Bank account information edit use case.
 - **Status code:** TBD
@@ -138,7 +138,7 @@ We’re sorry. We couldn’t update your direct deposit bank information because
 </details>
 
 
-<details><summary>NEEDS: DESIGN (Refer to code), STATUS CODES | UpdateAddressError: Invalid address entered</summary>
+<details><summary>NEEDS: DESIGN (Refer to code) | UpdateAddressError: Invalid address entered</summary>
 
 - **Use case:** User edits their Bank account information, a call is made to match the address, and the information is incorrect. There is no requirement to have valid addresses on file, and this is a legacy event from eBenefits. [More context linked here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/validation-address-phone.md). Alert appears above input fields in Bank account information edit use case.
 - **Status code:** TBD
@@ -178,7 +178,7 @@ Or you can contact a regional office near you to come in for help in person. [
 </details>
 
 
-<details><summary>NEEDS: DESIGN (Refer to code), STATUS CODES | FlaggedRoutingNumber: Routing number flagged for fraud</summary>
+<details><summary>NEEDS: DESIGN (Refer to code) | FlaggedRoutingNumber: Routing number flagged for fraud</summary>
 
 - **Use case:** User edits their Bank account information, a call is made to check for routing number fraud, and returns the alert. Alert appears above input fields in Bank account information edit use case.
 - **Status code:** TBD
@@ -245,7 +245,7 @@ We're sorry. Something went wrong on our end. Refresh this page or try again lat
 
 #### System error
 
-<details><summary>NEEDS: DESIGN (Refer to code), STATUS CODES | TemporaryOutage: Used for back end system outages</summary>
+<details><summary>NEEDS: DESIGN (Refer to code) | TemporaryOutage: Used for back end system outages</summary>
 
 - **Use case:** Error will appear when we are having issues connecting to the back end, and can't determine if they have direct deposit information to show. There is no action the user can take to correct this.
 - **Status code:** TBD
