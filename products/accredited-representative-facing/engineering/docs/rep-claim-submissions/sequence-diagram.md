@@ -7,7 +7,6 @@ participant "Lighthouse API\n(Benefits Claims API)" as LighthouseAPIClaims
 participant "Lighthouse API\n(Benefits Intake API)" as LighthouseAPIIntake
 database "VA.gov Database\n(PostgreSQL)" as VAGovDB
 
-' --- List POA Requests Flow ---
 "Accredited Representative" -> Frontend: Go to /representative/representative-form-upload/form-number
 Frontend -> Backend: GET User
 activate Backend
