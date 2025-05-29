@@ -213,7 +213,7 @@ You can also update this information by mail or in person at a VA regional offic
 
 H2: We couldn't update your direct deposit information
 
-We’re sorry. We couldn’t update your payment information. Please try again
+We’re sorry. We couldn’t update your payment information. Please try again later.
 
 - **Format:** [Error alert component](https://design.va.gov/components/alert/#error-alert)
 - [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2324-22985&t=LjjeJObYt6wPn3uz-1)
