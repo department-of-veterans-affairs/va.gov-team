@@ -1,44 +1,14 @@
 
-	# Research Plan for [Team, Product, Date]
+	# Research Plan for [VA Mobile Team, VA Mobile Docs Site, 5/28/2025]
 
 ## Background 🏗️
-<details><summary>Briefly describe the background of your product.</summary>
+<details><summary>The VA Mobile Docs site is the main source of written guidance and documentation for how to interact with the Mobile Platform and build features for the Mobile App. The current VA Mobile Docs site was initially created as operational documentation for the platform mobile team and evolved to also assist teams across the VA in developing for mobile in collaboration with the VA mobile team. Its last update occurred about 3 years ago and currently does not include up to date guidance for the Mobile Platform. Additionally, there is guidance to move any related design system elements of the site over to the VA design system itself. </summary>
 	
-`What problem is your product trying to solve?`
-
-**[Enter answer here]**
-  
-`Where is your product situated on VA.gov? (ex: auth vs. unauth)`
-
-**[Enter answer here]**
-  
-`What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?`
-
-**[Enter answer here]**
-
-`Product Brief`
-
-**[Link to product brief](url goes here).**
-
-</details>
 
 ### [OCTO-DE Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md) 
 
 <details><summary>Which OCTO priorities does this research support? Work with your VA lead and product manager as needed. </summary>
 
-
-`Objective 1:  VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.`  
-
-> - **Key Result 1:** Improve satisfaction with our web and mobile products by 5 points.
-> - **Key Result 2:** We have reduced the total time Veterans spend waiting for a response from our digital experiences by 50%, towards a goal of less than 4 seconds per transaction.
-> - **Key Result 3:** 100% of transactions received via our digital experiences are either processed correctly or we have notified the user of an error.
-
-`Objective 2: OCTO’s platforms are the fastest, most efficient, and most secure way to deliver products at VA.`
-
-> - **Key Result 1:** 100% of authentications to our systems and tools (both Veteran-facing and internal) occur using a secure credential.
-> - **Key Result 2:** We have reduced the total error rates in our platforms by 50% compared to Q4 2024, towards a goal less than 1% per endpoint.
-> - **Key Result 3:** 100% of VA employees have access to a valuable Generative AI tool to help with their work.
-> - **Key Result 4:** Each of our platforms* and tools increase the number of non-OCTO built capabilities or non-OCTO users by 50%. (*excluding mobile)
 
 `Objective 3: OCTO teammates are empowered with the knowledge and resources they need to make sustained impact.`
 
@@ -54,9 +24,6 @@
 
 </details>
 
-> [!TIP]
-> Delete priorities not supported by this research.
-
 ## Research Goals 🥅	
 `What are you trying to learn from this research?` 
 
@@ -65,18 +32,20 @@
 
 ### Goals
 
-`1.` **[Enter answer here]**
+`1.` **Identify how the VA Mobile Docs site can be improved to better serve all teams.**
 
-`2.` **[Enter answer here]**
+`2.` **Determine when we can link experience teams to VADS and when we should give guidance.**
 
-`3.` **[Enter answer here]** 
+`3.` **EXP teams are able to access the docs site and find answers to their questions.** 
   
 ### Outcome
 `How will this research advance your product to the next phase in the design process? What will you do with your learnings?`
 
 ---
 
-**[Enter outcome here]** 
+**After this research the mobile platform team will have evidence-based direction for improvements to the VA Mobile Docs with clear ways to measure success based on the following success criteria.
+EXP Team satisfaction in relation to Docs Site is positive.
+EXP Teams show an increase in use of Docs Site.** 
 
 ---
 
@@ -90,9 +59,9 @@
   
 `Does this question serve the goals of my study?`
 
-**`1.`[Enter Q1]**
+**`1. Who is using the VA Mobile docs site today?**
 
-**`2.`[Enter Q2]**
+**`2. How frequently are they interacting with the site?**
 
 **`3.`[Enter Q3]**
 
