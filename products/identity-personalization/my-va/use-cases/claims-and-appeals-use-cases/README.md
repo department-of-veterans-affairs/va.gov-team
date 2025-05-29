@@ -4,7 +4,7 @@
 
 For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the user will see the [LOA1 experience](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/LOA1-use-cases).
 
-- PINEAPPLE User flow
+- User flow
 - Figma files
 - Test Rail QA
 
@@ -24,7 +24,7 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 
 - **Use case:** If a logged in LOA3 user does not have an open claim or appeal or one that has been closed in the last 60 days, they will see informational text and be provided a link to manage all claims and appeals.
 - **Status code:** TBD
-- **Content:** PINEAPPLE TBD
+- **Content:** TBD
 - **Format:** [Card component](https://design.va.gov/components/card)
 - [Link to designs]
 - [Link to code]
@@ -60,7 +60,7 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 
 <details><summary>User does not have a disability rating</summary>
 
-- **Use case:** PINEAPPLE If a logged in LOA3 user does not have a disability rating they see... TBD
+- **Use case:** If a logged in LOA3 user does not have a disability rating they see... TBD
 - **Status code:** TBD
 - **Content:** TBD
 - **Format:** TBD
@@ -72,7 +72,7 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 
 <details><summary>User has a disability rating</summary>
 
-- **Use case:** PINEAPPLE If a logged in LOA3 user has a disability rating they see a card with their combined disability rating, and a link to review the rating breakdown.
+- **Use case:** If a logged in LOA3 user has a disability rating they see a card with their combined disability rating, and a link to review the rating breakdown.
 - **Status code:** TBD
 - **Content:** TBD
 - **Format:** [Card component](https://design.va.gov/components/card)
