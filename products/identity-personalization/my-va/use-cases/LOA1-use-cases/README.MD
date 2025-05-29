@@ -16,6 +16,8 @@ A user is considered "LOA1" when they log in to VA.gov and they have not verifie
    - Popular tasks: Includes 5 links that are driven by top search terms from My VA
    - Get help: Includes all ways to get help from VA
 
+---
+
 <details><summary>Archive | Current experience, 12/2024</summary>
 
 ## Current experience
