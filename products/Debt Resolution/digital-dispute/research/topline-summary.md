@@ -1,8 +1,9 @@
 <!-- This was copied over from the VSA document at https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/design/topline-summary-template.md -->
 
 # Financial Management Team, R&S page (and intro pages) and Digital Dispute Form, May 2025 Topline Summary
-[link research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/digital-dispute/research/digital-dispute-wizard-study.md)
-[link conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/digital-dispute/research/digital-dispute-wizard-study-conversation-guide.md)
+- [link research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/digital-dispute/research/digital-dispute-wizard-study.md)
+  
+- [link conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/digital-dispute/research/digital-dispute-wizard-study-conversation-guide.md)
 
 This topline summary is a high level, top of mind summary of trends found in the sessions, but is not the final result of working with the data discovered. The information in this document may change following a deeper review and analysis of the data gathered. 
 
