@@ -18,7 +18,7 @@ The product is organized into three main sections:
 
 #### In production
 
-The **designer** and **engineers** are both responsible for managing content that’s in production. The engineers will maintain the source of truth in GitHub and the designer will maintain the [Figma (production file)](https://www.figma.com/design/e0L8mXXi5lqywARbnBy5Zx/%F0%9F%9A%80-Production---Version-2.5--Transition-experience-?m=auto&t=ODHjsOOxGnDsLBLf-6). Both files should include the same content at all times. Content that’s in production is live on va.gov.
+The **designer** and **engineers** are both responsible for managing content that’s in production. The engineers will maintain the source of truth in [GitHub](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/discover-your-benefits) and the designer will maintain the [Figma (production file)](https://www.figma.com/design/e0L8mXXi5lqywARbnBy5Zx/%F0%9F%9A%80-Production---Version-2.5--Transition-experience-?m=auto&t=ODHjsOOxGnDsLBLf-6). Both files should include the same content at all times. Content that’s in production is live on va.gov.
 
 Content that is **in production** can be found in:
 * **⭐️ Source of truth**: [GitHub](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/discover-your-benefits)
