@@ -1,5 +1,5 @@
 # Ask VA Transition Plan
-Last Updated: May 28, 2025
+Last Updated: May 29, 2025
 
 Team Oddball understands the criticality of a smooth transition and treats transition-out tasks with the same level of quality and importance as all other tasks on the Ask VA project. Understanding that this project will be delivered in an agile fashion, all documentation should be up-to-date and stored in a central workspace. However, a centralized plan will help communicate the current status of the project as well as provide helpful guidance on documentation, monitoring processes, and procedures that have been implemented. 
 
@@ -29,9 +29,14 @@ Team Oddball understands the criticality of a smooth transition and treats trans
   **Action items:**
 - Kick off [508 Compliance Ticket](https://github.com/department-of-veterans-affairs/ask-va/issues/1736)
 - Implement STS Token
+   - We have drafted the details on the STS token and stored it [here in Github](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fgithub.com%2Fdepartment-of-veterans-affairs%2Fask-va%2Fblob%2Fmain%2Fdocs%2Fadr%2F0002-use-sts-token-to-transmit-icn-to-crm-for-authorization.md&data=05%7C02%7C%7C258639e8e8694b21a2de08dd9df93325%7Ce95f1b23abaf45ee821db7ab251ab3bf%7C0%7C0%7C638840415827042483%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=q6bTatW6Q%2BlvXn0jfbVzBQfgmThSs8ffn%2FhAy2gBY3w%3D&reserved=0).
 - Confirm how the current CRM portal is managing to block users from accessing inquiries that don’t belong to them
+   - Because the ask.va.gov portal and the CRM module are both reading and writing to the same back-end data store and live in the same environment, there is no API interface involved. Authorization is handled directly as part of CRM capabilities.
+   - We think it is worth exploring whether any of these authorization capabilities (especially ‘External Identities’ and ‘Table Permissions’) could/should be used as part of the authorization flow for the CRM API, as an addition to or instead of the current approach of coding the authorization logic in the API routes themselves.
+   - We have requested the CRM team work with Microsoft to get advice on this matter. 
 - Implement learnings
 - Reach out to Mark Dewey from Travel Pay to validate the app’s behavior
+   - Confirmed that Travel Pay is utilizing an STS token. No further follow up required here.
 
 ## Keeping the lights on
 **How (and when) to rollback to the classic experience:** The flow of users through the Contact-Us page of [VA.gov](http://va.gov) can be rolled back to 0% of users via a flipper. The redirect is managed by NEO. Becky has managed this redirect process with the group and submits an email request to <[NOCNetworkEdgeOperations@va.gov](mailto:NOCNetworkEdgeOperations@va.gov)>.
