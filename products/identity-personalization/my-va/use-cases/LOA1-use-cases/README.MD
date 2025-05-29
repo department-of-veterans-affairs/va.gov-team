@@ -2,14 +2,14 @@
 **Last updated: May 2025**
 
 A user is considered "LOA1" when they log in to VA.gov and they have not verified their identity with any of the credentials we support. LOA1 users who sign into VA.gov are immediately prompted to verify their identity on My VA.
-- PINEAPPLE User flow
+- User flow
 - Figma files
 - Test Rail QA
 
 ## Phase 1, 3.0 experience
 - When a LOA1 user signs in from the homepage, they are automatically redirected to My VA. 
 - Until they have verified their identity, they will see a prompt on My VA to verify their identity at the top of the page. 
-- PINEAPPLE They will also see the following sections:
+- They will also see the following sections:
    - Track claims and appeals: Includes an introductory link
    - Forms: Includes any in-progress forms, and an additional information dropdown
    - Health: Includes an introductory link
