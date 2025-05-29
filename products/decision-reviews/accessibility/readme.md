@@ -26,6 +26,11 @@ The [Benefits Management Tools and Decision Reviews Accessibility Work project b
 ### Higher Level Review: 
 - Last substantial audit took place in [August, 2024](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91384).
 - Before that, the last substantial audit took place in [May, 2024](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82890) and [December, 2021](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34244). 
+
+## Accessibility Annotations
+- 5/2025 Supplemental Claims - [4142 Updated Legalese inside of accordions open on page load](https://www.figma.com/design/2LGebZcUuu5Iqh4QLPII6A/Supplemental-Claims--VA-0995-?node-id=5090-17576&t=SIUE1pTEZTp7ekrZ-0)
+
+
 ## Resources
 
 Much of the accessibility-related documentation resides elsewhere on shared, Platform areas.
