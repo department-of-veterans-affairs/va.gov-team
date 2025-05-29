@@ -9,7 +9,7 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 - Test Rail QA
 
 ## Phase 1, 3.0 experience
-- This feature highlights user in progress claims and appeals, their disability rating, and a link to access all their claims and appeals.
+- This feature highlights a users in progress claims and appeals, their disability rating, and a link to access all their claims and appeals.
    - Dynamic claim card, that provides a status update on any open or recently closed claims, and links the user to claims details. Cards only display for up to 60 days after they are "Complete", after that they are removed. Only 1 card shows at a time, and is the most recent update.
    - Dynamic disability rating card, that provides the Veteran with their combined disabilty rating, and a link to the disability rating page.
    - Link to claims tracker to manage all claims and appeals.
