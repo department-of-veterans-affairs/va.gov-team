@@ -1,1 +1,8 @@
 This folder can house all the docs related to AI Experiment 
+
+
+- [Multi-form AI Experiment - initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Multi-form%20Completion/Multi-form%20-%20AI%20Experiment%20-%20Initiative%20Brief.md)
+- [5-day sprint Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1746708567334/89dc9187ed20ce833ffec9675c53a685a17cf120)
+- [AI tools and prompts sheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Multi-form%20Completion/AI%20Experiment/AI_Tools_Experiment.xlsx)
+- [Presentation Recording](https://teams.microsoft.com/l/meetingrecap?driveId=b%219Mb9N5tnOkWzLmam-dIwXWyuNSeY0FFKvBuXSek7arknX8eVa7arRoCRmYTnlpyH&driveItemId=01DD4LMGRNRTJO6WV7ZFB2CV2P3VXSF6OY&sitePath=https%3A%2F%2Fdvagov-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Falexandria_parker_va_gov1%2FES2M0u9av8lDoVdP3W8i-dgBX2_G-WWPSdhAZSJgwbDgeQ&fileUrl=https%3A%2F%2Fdvagov-my.sharepoint.com%2Fpersonal%2Falexandria_parker_va_gov1%2FDocuments%2FRecordings%2FHE%2520Demo_%2520Multi%2520Form%2520AI%2520Experiment-20250529_133622-Meeting%2520Recording.mp4%3Fweb%3D1&iCalUid=040000008200e00074c5b7101a82e00800000000c0d4e23c4ecadb01000000000000000010000000f10a7becef5e794681edd489fd63f58e&threadId=19%3Ameeting_YWViMGZmNjctMDlkZC00OGMzLTg5YjEtZmQzZTM4M2QyZWU0%40thread.v2&organizerId=b8eea29f-e3a0-4708-b2b7-de1d925f1879&tenantId=e95f1b23-abaf-45ee-821d-b7ab251ab3bf&callId=498c99c8-d7a3-4312-9a02-e8f7f54b7924&threadType=meeting&meetingType=Scheduled&subType=RecapSharingLink_RecapCore)
+
