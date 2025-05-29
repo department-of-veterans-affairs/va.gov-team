@@ -141,8 +141,10 @@ This optional section features the [Multiple responses](https://design.va.gov/pa
 * [Additional info](https://design.va.gov/components/additional-info)
 
 ### Additional considerations
-* If you are asking only one question on a page, the question label should be an h3, as shown in the [Ask Users For... A Single Response](https://design.va.gov/patterns/ask-users-for/a-single-response#annotated) pattern. However, if you are asking multiple questions per page, give the page a descriptive page title as an h3 and use standard (non-header) labels for questions.
 
+* If a form requires file uploads (for example, a marriage certificate or divorce decree), state that these files are needed on the form introduction page.
+* As the user moves through the form, if they provide a response that triggers conditionally-required file uploads, explain why the file upload is needed. For example, if a user indicates that they were married in a way that is not among the standard responses, include text like this: "Based on your answer, you'll need to provide supporting documents to help us understand your marital status. We'll ask you to upload these documents on the next screen [or on the final screen of the form, depending on your form's situation]."
+* If you are asking only one question on a page, the question label should be an h3, as shown in the [Ask Users For... A Single Response](https://design.va.gov/patterns/ask-users-for/a-single-response#annotated) pattern. However, if you are asking multiple questions per page, give the page a descriptive page title as an h3 and use standard (non-header) labels for questions.
 
 ## Examples
 
