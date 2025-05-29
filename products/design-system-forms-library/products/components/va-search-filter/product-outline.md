@@ -1,4 +1,4 @@
-## Search Filter Product Outline [DRAFT]
+## Search Filter Product Outline 
 
 ### [Design Decisions] TBD
 
