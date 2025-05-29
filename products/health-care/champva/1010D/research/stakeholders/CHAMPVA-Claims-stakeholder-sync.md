@@ -1,7 +1,79 @@
 ## CHAMPVA Claims biweekly stakeholder sync
 Every other Wednesday at 2:35pm ET
 
-## 05/22/25 CHAMPVA Claims
+### 05/28/25
+**Attendees:** Amanda, Angela P., Joie, Melissa J., Andrea, Jamie, Renata, Rachel P.
+
+**Agenda**
+
+* Claims resubmission/re-open walkthrough
+
+### Notes
+**Note from Renata:** This is explicitly a claim re-open walkthrough. Some of the questions and information in the walk through apply to a resubmission (when a beneficiary receives a send back letter), but it is clear from the call that the way a resubmit and a re-open are handled in the system are different. It is important not to conflate the two. 
+
+
+1. In CXM, when you look up a beneficiary by claim number, the UI populates some notes on the claim:
+> - M = manual submission 
+> - Remarks/notes includes the claims number, the original documents that are sent in, and notes about what is missing.
+> - When diagnostic codes are missing, it populates as ZZZZZZZZZZ in the claim. It also says “disallowed.”
+
+2. Once found, transfers the claim and reopens it (transfers it to medical claims processing). 
+- When re-opened, it creates a new claim number: an initial claim and the re-open will have similar claim numbers, separated by the last digit (ex. #########0, #########1)
+
+Q: If someone gives you a partial ID, are you able to look up the claim? For example, just 10 digits of the claim number?
+
+A: yes, but it will only give you the general claim (asks if you want to run a query with sub-10 digits)
+
+Q: If we asked beneficiaries to send in just the first 10 digits of the claim number, is that enough?
+
+A: Yes, it will populate results that show every claim that’s been worked on in that packet. A full Claim number or PDI# would be best, but the first 10 should let us narrow it down to a couple of claims or the only claim number. It really depends on how the claim was created.
+
+> - Note: easier to reopen a claim if a beneficiary doesn’t have other health insurance. You just have to verify the information that was already input in the system against what the beneficiary resubmits. 
+
+3. There’s really not a lot to the reopens. The CHAMPVA EOB (sent out via CXM) doesn’t say if it’s missing a DX code or CPT. In some cases the beneficiary calls the call center and the rep can identify what’s missing from the form. 
+
+Q: Do beneficiaries call often to request this information?
+
+A: We don’t have data on that. From our assumption, they’re going to call. The remarks code is very vague, it’s not clear.
+
+Q: From a beneficiary’s standpoint, is there any difference between the EOB with the re-open instructions, or the sendback letter asking them to resubmit?
+
+A: The re-opens, the beneficiary receives that EOB. The resubmission, it’s the sendback letter. There’s a couple of different cases to consider: 
+> - Partially submitted (Sendback letter, no EOB sent)
+> - Partially processed (EOB is sent, possibly after a sendback letter)
+> - A beneficiary could possibly receive both a sendback letter and an EOB, based on what they submitted initially.
+
+
+
+Q: What is the minimum amount of information needed from the beneficiary to find their past claim or prior submission (name/address/sponsor info/etc.)?
+
+A: It depends. If they submit their SSN, that’s going to be very helpful to find all of their information. If they provide their SSN and a couple of pieces of documentation, it will be hard to find what was previously submitted and match those two submissions up. Typically the following “should” be enough:
+
+> * Bene name
+> * SSN
+> * PDI/Batch/Claim
+> * Provider name, date of service
+> 
+> If it’s a full send back, meaning nothing/next to nothing was submitted with the initial claim, it’s essential that they provide the PDI number. It would otherwise be a needle in a haystack to marry them together. Provider name/date of service wouldn’t be enough. 
+
+**Reminder:** With a sendback, nothing has been processed and there’s nothing to marry together. The initial claim is submitted but not open.  **FYI - being changed to Batch from PDI, team needs to keep language in form consistent with the sendback letter.**
+
+Questions from CHAMPVA Claims team for IVC:
+Q: If the PDI/batch number doesn’t help marrying submissions up, then what’s the point of asking for it?
+
+A: It depends on what department it goes to. 
+
+Q: When beneficiaries are submitting documents, are they told to submit med docs or any supporting docs separately? How does this work online?
+
+A: Right now they pick if it’s a medical or pharmacy claim first, and depending on what they select, they’ll be prompted to upload specific paperwork (EOB, itemized bill, pharmacy receipt). It’s asked on separate screens.
+
+Q: Would they need to individually upload each document separately?
+
+
+**IVC team AI:** Check with engineers and let CHAMPVA folks know
+All docs of the same type can be uploaded in a single file - is there a way to let users know?
+
+## 05/22/25
 
 **Attendees:** Andrea, Jamie, Renata, Mike, Angela P, Melissa, Joie
 
@@ -54,7 +126,7 @@ We still need to ask:
 * What  we are some things that can be missing be won’t result in a sendback or reopen 
 
 
-## 05/14/25 CHAMPVA Claims
+## 05/14/25 
 
 **Attendees:** Andrea, Jamie, Rachel P., Renata, Mike, Katrina, Erick, Angela P., Elizabeth, Arleen, Premal, Amanda
 
@@ -63,6 +135,7 @@ We still need to ask:
 * Backlog queues
 * Any new sendbacks data (not addressed, ask over email)
 
+### Notes
 
 **CHAMPVA Claims Resubmissions**
 
@@ -108,6 +181,7 @@ We still need to ask:
 * Review mockups of example EOB and itemized bills (Jamie)
 * Processing time of resubmissions
 
+### Notes
 
 **CHAMPVA claims supporting docs content changes**
 
