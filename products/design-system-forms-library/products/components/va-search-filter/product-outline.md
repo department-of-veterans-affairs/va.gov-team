@@ -1,8 +1,5 @@
 ## Search Filter Product Outline 
 
-### [Design Decisions] TBD
-
-
 ## Design System Team
 - Product Managers: Carol Wong, Tricia Baker
 - Designer: Dan Brady and Barb Denney
