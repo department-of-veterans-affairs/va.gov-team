@@ -26,11 +26,9 @@ Follow this pattern to ask a user for their marital status and information about
 
 - [Usage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/VADS%20documentation%20for%20marital%20status%20pattern.md#usage)
 - [How to design and build](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/VADS%20documentation%20for%20marital%20status%20pattern.md#how-to-design-and-build)
-- [Examples](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/VADS%20documentation%20for%20marital%20status%20pattern.md#examples)
 - [Code usage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/VADS%20documentation%20for%20marital%20status%20pattern.md#code-usage)
 - [Content considerations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/VADS%20documentation%20for%20marital%20status%20pattern.md#content-considerations)
-- [Accessibility considerations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/VADS%20documentation%20for%20marital%20status%20pattern.md#accessibility-considerations
-)
+- [Accessibility considerations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/VADS%20documentation%20for%20marital%20status%20pattern.md#accessibility-considerations)
 - [Research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/VADS%20documentation%20for%20marital%20status%20pattern.md#research-findings)
 
 
@@ -117,9 +115,35 @@ This optional section asks if the user lives with their spouse. If not, it also 
 This optional section includes questions about the marriage, such as:
 
 * Date and place of marriage
+
+![Place Date of Marriage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Images/Place%20Date%20of%20Marriage.jpg)
+
+[Alt text: A display of the page asking for the place and date of the marriage.]
+
+[Caption: The page that asks for the place and date of the marriage.]
+
 * Type of marriage
+
+![How Married](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Images/How%20Married.jpg)
+
+[Alt text: A display of the page asking how the couple was married.]
+
+[Caption: The page that asks for the type of marriage ceremony.]
+
 * Reason for termination, if applicable
+
+![How Marriage Ended](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Images/How%20Marriage%20Ended.png)
+
+[Alt text: A display of the page asking how the marriage ended.]
+
+[Caption: The page that asks for how the marriage ended.]
+
 * Date and place of termination or spouse’s death, if applicable
+![Date Place Marriage Ended](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Images/Date%20Place%20Marriage%20Ended.jpg)
+
+[Alt text: A display of the page asking for the date and place of the marriage termination.]
+
+[Caption: The page that asks for the date and place of the marriage termination.]
 
 
 #### Previous marriage information
@@ -127,10 +151,31 @@ This optional section includes questions about the marriage, such as:
 This optional section features the [Multiple responses](https://design.va.gov/patterns/ask-users-for/multiple-responses) (also known as: List & Loop) pattern to ask questions about previous marriages, including:
 
 * Name(s) of former spouse(s)
+
+![Previous Spouse Personal Info](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Images/Previous%20Spouse%20Personal%20Info.jpg)
+
+[Alt text: A display of the page asking for the previous spouse's personal information.]
+
+[Caption: The page that asks for the previous spouse's personal information.]
+
 * Veteran status of former spouse(s)
+
+![Previous Spouse Identity Info](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Images/Previous%20Spouse%20Identity%20Info.jpg)
+
+[Alt text: A display of the page asking for the previous spouse's identity information including Veteran status.]
+
+[Caption: The page that asks for the previous spouse's identity information including Veteran status.]
+  
 * Date and place of marriage(s)
-* Date and place of marriage termination(s)
-* Method of marriage termination(s)
+
+![Previous Spouse Date Place of Marriage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Images/Previous%20Spouse%20Date%20Place%20of%20Marriage.jpg)
+
+[Alt text: A display of the page asking for the date and place of the previous marriage.]
+
+[Caption: The page that asks for the date and place of the previous marriage.]
+
+* Date and place of marriage termination(s) - See reference image under 'Marriage Information' section.
+* Method of marriage termination(s) - See reference image under 'Marriage Information' section.
 
 
 ### Patterns and components used in this pattern
@@ -146,17 +191,10 @@ This optional section features the [Multiple responses](https://design.va.gov/pa
 * As the user moves through the form, if they provide a response that triggers conditionally-required file uploads, explain why the file upload is needed. For example, if a user indicates that they were married in a way that is not among the standard responses, include text like this: "Based on your answer, you'll need to provide supporting documents to help us understand your marital status. We'll ask you to upload these documents on the next screen [or on the final screen of the form, depending on your form's situation]."
 * If you are asking only one question on a page, the question label should be an h3, as shown in the [Ask Users For... A Single Response](https://design.va.gov/patterns/ask-users-for/a-single-response#annotated) pattern. However, if you are asking multiple questions per page, give the page a descriptive page title as an h3 and use standard (non-header) labels for questions.
 
-## Examples
-
-[Will add examples once designs are complete]
-
-*[Alt text: A form asking for the marital status of the user.]*
-
 
 ## Code usage
 
 (Link to the page.code-link, when available)
-
 
 ## Content considerations
 
