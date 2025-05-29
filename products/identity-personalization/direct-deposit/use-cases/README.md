@@ -155,10 +155,10 @@ We’re sorry. We couldn’t update your direct deposit bank information because
  
 ### Flags 
 
-<details><summary>NEEDS: DESIGN (Designs), STATUS CODES | PaymentRestrictionError: Account flagged for fraud</summary>
+<details><summary>NEEDS: DESIGN (Designs) | PaymentRestrictionError: Account flagged for fraud</summary>
 
 - **Use case:** User edits their Bank account information, a call is made to check for fraud, and returns the alert. Alert appears above input fields in Bank account information edit use case.
-- **Status code:** TBD
+- **Status code:** PUT **422**
 - **Content:**
 
 H2: We couldn't update your direct deposit information
@@ -201,10 +201,14 @@ You can also update this information by mail or in person at a VA regional offic
 
 ### Errors 
 
-<details><summary>NEEDS: DESIGN (Refer to code), STATUS CODES | GenericError: Used for all other errors</summary>
+<details><summary>NEEDS: DESIGN (Refer to code) | GenericError: Used for all other errors</summary>
 
 - **Use case:** Unsure when this is used.
-- **Status code:** TBD
+- **Status codes:**
+   - PUT **400** Bad request to BGS
+   - PUT **401** Unauthenticated user
+   - PUT **403** Forbidden user
+   - PUT **502** Bad gateway, API not receiving answer from back end server
 - **Content:**
 
 H2: We couldn't update your direct deposit information
