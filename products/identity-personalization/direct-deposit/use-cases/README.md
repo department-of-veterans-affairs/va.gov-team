@@ -95,9 +95,7 @@ If you think this is an error, or think you have been a victim of bank fraud cal
 
 **Canceling changes**
 - If a user has made changes to any form field, and hits cancel, they'll be presented with a modal asking them to confirm they want to leave edit mode.
-- **Format:** See designs
 - [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2308-7194&t=2E35Z57ibI3XozvU-1)
-- [Link to code]
 
 </details>
 
