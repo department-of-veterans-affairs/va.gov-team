@@ -19,7 +19,7 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 - **Use case:** PINEAPPLE When a LOA3 user does not have VA health care, they will see text in the section prompting them to apply for VA health care. No other secondary content shows in this use case.
 - **Status code:** TBD
 - **Content:** TBD
-- **Format:** [Card component](https://design.va.gov/components/card)
+- **Format:** TBD
 - [Link to designs]
 - [Link to code]
 
