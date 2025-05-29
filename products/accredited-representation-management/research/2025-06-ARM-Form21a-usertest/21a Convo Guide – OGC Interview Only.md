@@ -1,4 +1,3 @@
-21a Convo Guide - OGC\
 ****21a Convo Guide – OGC Interview Only**** \
 &#x20;
 
