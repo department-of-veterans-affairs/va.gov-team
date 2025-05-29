@@ -16,7 +16,7 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 
 ### User logs in with LOA3 account: Direct deposit page content
 
-<details><summary>NEEDS: STATUS CODE | LINK TO CODE </summary>
+<details><summary>All information shown</summary>
 
 - **Use case:** Content shows for all LOA3 users. Bank account information is dynamic, all other information is read only.
 - **Status code:** None
@@ -36,7 +36,7 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 
 ### User logs in with LOA3 account: Bank account information
 
-<details><summary>NEEDS: STATUS CODES | Ineligible: No payments detected</summary>
+<details><summary>Ineligible: No payments detected</summary>
 
 - **Use case:** Detected that the user is not receiving any payments.
 - **Status code:** TBD
@@ -53,7 +53,7 @@ If you think this is an error, or think you have been a victim of bank fraud cal
 </details>
 
 
-<details><summary>NEEDS: LINK TO CODE, STATUS CODES | Payments detected: No direct deposit set up</summary>
+<details><summary>Payments detected: No direct deposit set up</summary>
 
 - **Use case:** Detected the user is receiving payments, but does not have direct deposit set up.
 - **Status code:** TBD
@@ -65,7 +65,7 @@ If you think this is an error, or think you have been a victim of bank fraud cal
 </details>
 
 
-<details><summary>NEEDS: LINK TO CODE | Payments detected: Direct deposit set up</summary>
+<details><summary>Payments detected: Direct deposit set up</summary>
 
 - **Use case:** Detected the user is receiving payments, and has direct deposit set up.
 - **Status code:** 200
@@ -77,7 +77,7 @@ If you think this is an error, or think you have been a victim of bank fraud cal
 </details>
 
 
-<details><summary>NEEDS: LINK TO CODE | Payments detected: Edit Bank account information</summary>
+<details><summary>Payments detected: Edit Bank account information</summary>
 
 - **Use case:** Triggered when a user clicks the Edit button.
 - **Status code:** None
@@ -203,7 +203,7 @@ You can also update this information by mail or in person at a VA regional offic
 
 <details><summary>NEEDS: DESIGN (Refer to code) | GenericError: Used for all other errors</summary>
 
-- **Use case:** Unsure when this is used.
+- **Use case:** Used as generic PUT/UPDATE error.
 - **Status codes:**
    - PUT **400** Bad request to BGS
    - PUT **401** Unauthenticated user
@@ -218,6 +218,27 @@ We’re sorry. We couldn’t update your payment information. Please try again
 - **Format:** [Error alert component](https://design.va.gov/components/alert/#error-alert)
 - [Link to designs]
 - [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blame/8bb9e606cbe6ac0d17598e748a550218b5bf3f2f/src/applications/personalization/profile/components/direct-deposit/alerts/UpdateErrorAlert.jsx#L81)
+
+</details>
+
+
+<details><summary>NEEDS: DESIGN (Refer to content on this page) | This page is not available right now</summary>
+
+- **Use case:** Used as generic GET/SHOW error.
+- **Status codes:**
+   - GET **401** Unauthenticated user
+   - GET **403** Forbidden user
+   - GET **502** Bad gateway, API not receiving answer from back end server
+   - GET **503** Service unavailable
+- **Content:**
+
+H2: This page isn't available right now.
+
+We're sorry. Something went wrong on our end. Refresh this page or try again later.
+
+- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
+- [Link to designs]
+- [Link to code]
 
 </details>
 
