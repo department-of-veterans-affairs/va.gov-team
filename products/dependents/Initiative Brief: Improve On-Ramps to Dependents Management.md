@@ -9,7 +9,6 @@ Veterans can easily locate and access the Add/Remove Dependents section of VA.go
 ## Problem
 - “Dependent” and “add dependent” are the 6th most searched terms on VA.gov, with over 25,000 search instances in the past year—indicating high demand and poor organic findability.
 - Veterans who log in to VA.gov are taken to the myVA dashboard, which does not provide a clear link to Dependents Management, creating unnecessary friction for logged-in users.
-- Our team cannot directly modify site architecture or logged-in homepage components. We rely on other Platform and Front Door teams to act on these findings.
 
 ## Desired User Outcomes
 - Veterans can find and access the Add/Remove Dependents experience without needing to use the site search or call VA for help.
