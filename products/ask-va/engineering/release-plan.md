@@ -114,14 +114,4 @@ Targeting Launch March 18-25th
 * Who is monitoring the dashboard(s)?: 
 	- Ask VA development team
 
-| Stage                                  | Throughput | Error Rate: Form Submissions (422, 5xx) | Error Rate: Dashboard replies<br>(422, 5xx) | Error Rate:<br>Authorization Related<br>(401) | Error Rate:<br>Other<br>(404) | Latency: vet-api | Latency: CRM |
-| -------------------------------------- | ---------- | --------------------------------------- | ------------------------------------------- | --------------------------------------------- | ----------------------------- | ---------------- | ------------ |
-| Canary - 100%<br>(May 15)              | 397        | 0%                                      | 0%                                          | 3.5% (14)                                     | 0%                            |                  | ~~AVG 2.7s~~ |
-| Canary - 100%<br>(May 16)              | 414        | 0%                                      | 0%                                          | 0%                                            | 0%                            |                  | AVG 2.46s    |
-| May 17, 12:00am ET - May 20, 9:00am ET | 912        | 0%                                      | 0%                                          | <0.5%                                         | <0.5%                         |                  | AVG 2.51s    |
-| May 20, 9:01am - May 21, 9:00am        | 517        | 1%                                      | 0%                                          | 0.5%                                          | <0.5%                         |                  | AVG 2.65s    |
-| May 21, 9:00 am – May 22, 9:00 am      | 1710       | <0.5%                                   | 0%                                          | <0.5%                                         | <0.5%                         |                  | AVG 2.28s    |
-| May 22, 9:01 am – May 23, 9:00 am      | 1720       | 0.5%                                    | 0.3%                                        | 1%                                            | <0.5%                         |                  | AVG 2.20s    |
-| May 23, 9:01 am – May 27, 9:00 am      | 2,900      | 0.5%                                    | 0.3%                                        | 1%                                            | <0.5%                         |                  | AVG 2.90s    |
-| May 27, 9:01 am – May 28, 9:00 am      | 2,200      | 0.5%                                    | 0%                                          | 0.7%                                          | <0.5%                         |                  | AVG 2.30s    |
-| May 28, 9:01 am – May 29, 9:00 am      | 2124       | <0.5%                                   | 0%                                          | 1%                                            | 0.01%                         |                  | AVG 2.25s    |
+5/29 update: BP moved launch metrics to the [Launch metrics GitHub doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/engineering/Launch-metrics.md) in ask-va/engineering
