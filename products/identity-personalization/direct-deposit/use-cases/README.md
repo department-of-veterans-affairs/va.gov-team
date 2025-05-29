@@ -236,7 +236,7 @@ H2: This page isn't available right now.
 
 We're sorry. Something went wrong on our end. Refresh this page or try again later.
 
-- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
+- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert) replaced Bank information widget. Widget does not show.
 - [Link to designs]
 - [Link to code]
 
