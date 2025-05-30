@@ -34,14 +34,14 @@ Health Products
 
 ### Team Members:
 - Heather Justice | heather.justice1@va.gov / heather.justice@adhocteam.us / GH "hdjustice" - Product manager
-- Alex Seelig | alexander.seelig@va.gov / alex.seelig@agile6.com / GH "alexseelig" - Product manager
+- Michael Skinner | michael.skinner1@va.gov / michael.skinner@agile6.com / GH "Agile6MSkinner" - Product manager
 - Alexandria "Alex" Parker | alexandria.parker@va.gov / alexandria.parker@agile6.com / GH "ACParker89" - Delivery Lead
 - Jessica Stump | jessica.stump@va.gov / jessica.stump@adhocteam.us / "jessicastump" - Sr UX Design/Research
 - Liza McRuer | elizabeth.mcruer@va.gov / liza.mcruer@adhocteam.us / GH "emcruer" - UX Design
 - Renata Keck | renata.keck@va.gov / renata.keck@agile6.com / GH "renatakeck" - UX Design
 - Hieu Vo | hieu.vo@va.gov / hieu.vo@agile6.com / GH "IMHieuVo" - UX Design/Research
 - Matt Long | matthew.long6@va.gov / matt.long@adhocteam.us / GH "longmd" - Sr Frontend Engineer
-- Matt Kerns | matthew.kerns@va.gov / matt.kerns@agile6.com / GH "mkerns1" - Frontend Engineer
+- Daniel Sasser | daniel.sasser@va.gov / daniel.sasser@agile6.com / GH "dsasser" - Frontend Engineer
 - Derrick Ellerbie | derrick.ellerbie@va.gov / derrick.ellerbie@Agile6.com / GH "dellerbie" - Full Stack Engineer
 - Joshua Drumm | joshua.drumm@va.gov / joshua.drumm@agile6.com / GH "JoshingYou1" - Full Stack/Backend focus Engineer
 - Mitch Saltykov | dmitry.saltykov@va.gov / mitch.saltykovs@agile6.com / GH "mitch-a6" - Full Stack Engineer
