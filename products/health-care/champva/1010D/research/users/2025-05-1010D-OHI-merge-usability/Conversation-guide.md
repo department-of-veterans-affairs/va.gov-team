@@ -204,8 +204,9 @@ Thank you.
 
 - For the purposes of today's study, I'd like you to imagine [you/your spouse] and family member both have Medicare and private health insurance. Go ahead and fill out Medicare and private health insurance information for [yourself/your spouse] and one other family member, and remember to think out loud as you go through the pages.
 
-### After completing the task: **Participant rating:** 
+### After completing the task: **Questions and Participant rating:** 
 - On a scale of 1-5 (with 1 being very hard and 5 being very easy) - how difficult or easy was it to complete this section of the form? Why did you give it that rating?
+- On this page, do you know if you uploaded the front and back of [your/your spouse's] and your family member's Medicare and Health Insurance cards? How do you know?
 
 > [!NOTE]
 > ### Things to watch for:
@@ -217,13 +218,13 @@ Thank you.
 
 ## Fourth Task: [Review and Submit] - 10 minutes
 
-- Please review your application for CHAMPVA benefits for [yourself/your spouse] and one other family member.
-- If you accidentally input some information wrong, say your health insurance provider, how would you fix that?
+- Without clicking submit, review your application for CHAMPVA benefits for [yourself/your spouse] and one other family member. 
+- If you accidentally input some information wrong, say your family member's name, how would you fix that?
 - Without clicking anything, if you submitted the form, what do you expect to happen next?
 - How soon do you expect to be notified about your application?
 - You won't be able to submit the application in this test form, so you can stop screen sharing now, and we just have a few more questions for you as part of this session. 
 
-**Participant rating:** On a scale of 1-5 (with 1 being very hard and 5 being very easy) - how difficult or easy was it to complete this section of the form? Why did you give it that rating?
+**Participant rating:** On a scale of 1-5 (with 1 being very hard and 5 being very easy) - how difficult or easy was it to review your application for CHAMPVA benefits? Why did you give it that rating?
 
 > [!NOTE]
 > ### Things to watch for:
