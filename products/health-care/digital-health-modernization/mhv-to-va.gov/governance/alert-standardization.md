@@ -122,8 +122,7 @@ The 404 error sends users to a new page; this error component will only be exper
 [Figma file](https://www.figma.com/design/m992k2m1DSl9MXV9hDytsQ/MHV-Account-Security-%26-Access-Standards?node-id=1071-19363&t=rNA4JxDx5GaXwOk9-1)
 
 <details><summary>404 Page not found for VA.gov</summary>
-<img width="928" alt="Screenshot 2025-04-02 at 3 37 17 PM" src="https://github.com/user-attachments/assets/df66c524-85dc-4937-8872-0edae21edd4f" />
-
+<img width="928" alt="Screenshot 2025-04-02 at 3 37 17 PM" src="https://github.com/user-attachments/assets/7cdda17c-95d6-4beb-aedb-f5a49c1324c9" />
 </details>
 
 ## 500 Internal service error component
