@@ -53,7 +53,7 @@ Follow this pattern to ask a user for their marital status and information about
 
 * **This question is the foundational part of this pattern.** If your form needs additional information, you can include questions from the question bank in this guidance.
 
-![Standard Marital Status](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Images/Standard%20Marital%20Status.jpg)
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Images/Standard%20Marital%20Status.jpg?raw=true" alt="Standard Marital Status" width="50%" />
 
 [Alt text: A display of the standard Marital Status question with reponses available with radio buttons and an additional info component that provides more information on why we ask this information.]
 
@@ -62,7 +62,7 @@ Follow this pattern to ask a user for their marital status and information about
 
 * **If your form doesn't need this level of detail, simply ask "Are you married?".** Include "Yes/No" radio button options for a response. Map those to the "Married/Never Married" workflows.
 
-![Simple Marital Status](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Images/Simple%20Marital%20Status.jpg)
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Images/Simple%20Marital%20Status.jpg?raw=true" alt="Simple Marital Status" width="65%" />
 
 [Alt text: An annotated display of the simplified version of the Marital Status question with reponses available with radio buttons and an additional info component that provides more information on why we ask this information.]
 
@@ -81,13 +81,13 @@ This optional section includes questions about the spouse, including:
 * If they are a Veteran
 * Their VA file number and military service number if they are a Veteran
 
-![Spouse Personal Info](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Images/Spouse%20Personal%20Info.jpg)
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Images/Spouse%20Personal%20Info.jpg?raw=true" alt="Spouse Personal Info" width="50%" />
 
 [Alt text: A display of the page asking for spouse name and date of birth.]
 
 [Caption: The first of two pages that allow forms to ask for the spouse's personal information.]
 
-![Spouse Identity](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Images/Spouse%20Identity.jpg)
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Images/Spouse%20Identity.jpg?raw=true" alt="Spouse Identity" width="60%" />
 
 [Alt text: An annotated display of the page asking for spouse social security number and Veteran status.]
 
@@ -98,13 +98,13 @@ This optional section includes questions about the spouse, including:
 
 This optional section asks if the user lives with their spouse. If not, it also asks why and how much financial support the user provided their spouse over the past 12 months. 
 
-![Spouse Living Situation2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Images/Spouse%20Living%20Situation2.jpg)
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Images/Spouse%20Living%20Situation2.jpg?raw=true" alt="Spouse Living Situation2" width="50%" />
 
 [Alt text: A display of the page asking if the user lives with their spouse.]
 
 [Caption: The first of two pages that allow forms to ask living arrangement questions.]
 
-![Spouse Additional Living Situation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Images/Spouse%20Additional%20Living%20Situation.jpg)
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Images/Spouse%20Additional%20Living%20Situation.jpg?raw=true" alt="Spouse Additional Living Situation" width="50%" />
 
 [Alt text: A display of the page asking for additional information about their living arrangements.]
 
@@ -116,7 +116,7 @@ This optional section includes questions about the marriage, such as:
 
 * Date and place of marriage
 
-![Place Date of Marriage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Images/Place%20Date%20of%20Marriage.jpg)
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Images/Place%20Date%20of%20Marriage.jpg?raw=true" alt="Place Date of Marriage" width="50%" />
 
 [Alt text: A display of the page asking for the place and date of the marriage.]
 
@@ -124,7 +124,7 @@ This optional section includes questions about the marriage, such as:
 
 * Type of marriage
 
-![How Married](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Images/How%20Married.jpg)
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Images/How%20Married.jpg?raw=true" alt="How Married" width="50%" />
 
 [Alt text: A display of the page asking how the couple was married.]
 
@@ -132,14 +132,15 @@ This optional section includes questions about the marriage, such as:
 
 * Reason for termination, if applicable
 
-![How Marriage Ended](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Images/How%20Marriage%20Ended.png)
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Images/How%20Marriage%20Ended.png?raw=true" alt="How Marriage Ended" width="60%" />
 
 [Alt text: A display of the page asking how the marriage ended.]
 
 [Caption: The page that asks for how the marriage ended.]
 
 * Date and place of termination or spouse’s death, if applicable
-![Date Place Marriage Ended](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Images/Date%20Place%20Marriage%20Ended.jpg)
+  
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Images/Date%20Place%20Marriage%20Ended.jpg?raw=true" alt="Date Place Marriage Ended" width="50%" />
 
 [Alt text: A display of the page asking for the date and place of the marriage termination.]
 
@@ -152,7 +153,7 @@ This optional section features the [Multiple responses](https://design.va.gov/pa
 
 * Name(s) of former spouse(s)
 
-![Previous Spouse Personal Info](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Images/Previous%20Spouse%20Personal%20Info.jpg)
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Images/Previous%20Spouse%20Personal%20Info.jpg?raw=true" alt="Previous Spouse Personal Info" width="65%" />
 
 [Alt text: A display of the page asking for the previous spouse's personal information.]
 
@@ -160,7 +161,7 @@ This optional section features the [Multiple responses](https://design.va.gov/pa
 
 * Veteran status of former spouse(s)
 
-![Previous Spouse Identity Info](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Images/Previous%20Spouse%20Identity%20Info.jpg)
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Images/Previous%20Spouse%20Identity%20Info.jpg?raw=true" alt="Previous Spouse Identity Info" width="50%" />
 
 [Alt text: A display of the page asking for the previous spouse's identity information including Veteran status.]
 
@@ -168,7 +169,7 @@ This optional section features the [Multiple responses](https://design.va.gov/pa
   
 * Date and place of marriage(s)
 
-![Previous Spouse Date Place of Marriage](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Images/Previous%20Spouse%20Date%20Place%20of%20Marriage.jpg)
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Images/Previous%20Spouse%20Date%20Place%20of%20Marriage.jpg?raw=true" alt="Previous Spouse Date Place of Marriage" width="50%" />
 
 [Alt text: A display of the page asking for the date and place of the previous marriage.]
 
