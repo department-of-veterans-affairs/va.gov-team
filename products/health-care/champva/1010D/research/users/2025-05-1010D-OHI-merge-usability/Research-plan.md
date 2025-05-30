@@ -238,7 +238,7 @@ We would like to have an AT user pilot, and non-AT user pilot
 - `Date and time of pilot session:` 06/10 or 06/12
 
 **AT user pilot**
-- `Pilot participant name:` TBD (link ADE ticket)
+- `Pilot participant name:` TBD (Opened [ADE Research ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110909) 05/30/35)
 - `Date and time of pilot session:` TBD (Week of 06/09, hopefully)
 
 ### Research sessions
