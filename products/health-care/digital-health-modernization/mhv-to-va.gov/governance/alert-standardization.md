@@ -126,17 +126,5 @@ The 404 error sends users to a new page; this error component will only be exper
 </details>
 
 ## 500 Internal service error component
-There are two versions of the 500 component copy; one provides basic guidance to users to recover (refresh browser) and can be used in any scenario in which the basic guidance would be the same. The other version is only a template and teams that need to deviate from the basic guidance will need to write their own copy to help users recover from the error. The intention behind creating two versions is to explicitly sanction and encourage teams to write their own copy when specific instructions would be helpful to the user. 
-
-On the question of placement: This error component should appear after the page's H1 and lede text (if applicable) and before any other content on the page.
-
-[Figma file](https://www.figma.com/design/m992k2m1DSl9MXV9hDytsQ/MHV-Account-Security-%26-Access-Standards?node-id=753-3)
-
-<details><summary>Messages' Inbox page: 500 **with** guidance</summary>
-<img width="928" alt="image" src="https://github.com/user-attachments/assets/e2b47c05-510b-4ac8-9e04-1e0f3faf8c68" />
-</details>
-
-<details><summary>Messages' Inbox page: 500: **no** guidance</summary>
-<img width="930" alt="image" src="https://github.com/user-attachments/assets/754d38c3-6356-4d2d-8e04-3045f0547960" />
-</details>
-
+Edit made 5/30/25: Based on feedback from tool teams and content, we have decided to retract both 500 design versions.
+~~There are two versions of the 500 component copy; one provides basic guidance to users to recover (refresh browser) and can be used in any scenario in which the basic guidance would be the same. The other version is only a template and teams that need to deviate from the basic guidance will need to write their own copy to help users recover from the error. The intention behind creating two versions is to explicitly sanction and encourage teams to write their own copy when specific instructions would be helpful to the user.~~ 
