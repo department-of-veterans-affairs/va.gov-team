@@ -57,7 +57,7 @@ Before we start, I have a few logistics to cover:
 * This will take about 60 minutes. Because I want to keep us on time, I may occasionally prompt you to the next topic.
 * We want your honest opinions. There are no right or wrong answers, and we’re not testing anything of you. I will not be offended by any opinions you share.
 * Your participation in this interview is completely voluntary. You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
-* I’ll be having you work with a prototype for part of today. It may look and act like the real app and website, but it’s only a demo tool and therefore lots of elements will not be working. You will not be logged into your account, so nothing you do will affect your benefits or anything else in your account.
+* I’ll be having you work with a prototype for part of today. It may look and act like the real app, but it’s only a demo tool and therefore lots of elements will not be working. You will not be logged into your account, so nothing you do will affect your benefits or anything else in your account.
 * If you would be okay with it, we would like to record this session today, but let me explain things first before you consent. 
     * The purpose is to assure that we capture your opinions accurately. Your name and other identifying information will never be used when reporting on this project – for example we assign you a participant ID (such as P7) if quoting you. And after we complete the analysis, the recordings are destroyed.
     * Knowing this, are you comfortable with me recording the session?
@@ -79,11 +79,11 @@ Could you tell me a bit about yourself as a Veteran: what branch of the military
 How have you been involved with the VA – both in the past and now?
 
 * Have you been in any of their facilities?
-* Have you used the website?
+* Have you used the website and/or app? For what purpose(s)?
 
-Now we're going to move to the financial portion of our discussion.
+Now we're going to move to the financial portion of our discussion. I have no insight into your financial obligations with VA. For our conversation, we'll be more focused on your experience with the finances, so any specific amounts will not need to be shared.
 
-* _Understanding situation of money owed_
+* _Overview of their financial obligations_
     * What is your experience with medical copayments through the VA?
         * Do you receive any of these bills?
         * How long have you been receiving them?
@@ -117,7 +117,7 @@ Now we're going to move to the financial portion of our discussion.
 * I want to check once again that you are comfortable if we were to share a video clip of this session with our VA partners with your identifying information removed.
 * Is there any part of our discussion you would NOT want shared in a video clip?
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the digital experience and make sure it really works for Veterans.
 
