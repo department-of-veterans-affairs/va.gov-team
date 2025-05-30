@@ -123,7 +123,7 @@ Remote research, over Zoom.
 
 **For moderated usability tests:** 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/research/users/2025-05-1010D-OHI-merge-usability/Conversation-guide.md)
-- [Link to prototype](url goes here)
+- [Link to prototype]((https://staging.va.gov/ivc-champva/10-10d-extended/introduction))
 	
 ## Recruitment 🎯	
 
