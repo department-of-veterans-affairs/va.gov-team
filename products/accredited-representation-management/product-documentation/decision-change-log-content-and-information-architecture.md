@@ -52,3 +52,5 @@ This document is actively maintained by Product Manager, Lindsay Li-Smith, and u
   _Confirmed by the 10-10 team ([Slack message](https://dsva.slack.com/archives/CMJ2V70UV/p1729556961782609?thread_ts=1723062021.733149&cid=CMJ2V70UV))._
 - **3/13/2025**: Guidance from VA Enablement that we don't need a content expert for small things, like the decline message in the Veteran-facing alert + email notification. We can do the initial leg work, and simply use Jen S for final review.\
   _Confirmed by Enablement member Lesley Ropp ([Slack message](https://dsva.slack.com/archives/C07QNERTKPB/p1741889213038179))._
+- **5/30/2025**: The [FAQ page](https://www.va.gov/resources/va-accredited-representative-faqs/) was updated to provide clarity for VSOs and VSO representatives, and to include a link to Find a Representative.\
+  _Requested and confirmed in this ([Github ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108469))._  
