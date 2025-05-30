@@ -27,7 +27,9 @@ Why: By digitizing the form, we can remove barriers to entry, making it easiers 
 ## Desired Business Outcomes
 
 •	Enhance user experience: Improve the overall user experience on VA.gov by offering a streamlined, efficient digital solution. Reinforcing our commitment to user-centric design. 
+
 •	Operational efficiency: Reduce administrative overhead and processing time associated wth handling physical form submissions.
+
 •	Reputation and trust: Strengthen trust and reputation with our user bse by demonstrating our dedication to modernizing services and addressing their needs effectively.
 
 
