@@ -127,4 +127,5 @@ The 404 error sends users to a new page; this error component will only be exper
 
 ## 500 Internal service error component
 Edit made 5/30/25: Based on feedback from tool teams and content, we have decided to retract both 500 design versions.
+
 ~~There are two versions of the 500 component copy; one provides basic guidance to users to recover (refresh browser) and can be used in any scenario in which the basic guidance would be the same. The other version is only a template and teams that need to deviate from the basic guidance will need to write their own copy to help users recover from the error. The intention behind creating two versions is to explicitly sanction and encourage teams to write their own copy when specific instructions would be helpful to the user.~~ 
