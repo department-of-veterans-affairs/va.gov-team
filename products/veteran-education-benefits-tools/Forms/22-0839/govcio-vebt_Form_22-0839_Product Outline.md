@@ -132,7 +132,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
  - DEPO Lead: 
  - PM: Emyly Hall
  - Engineering: Liz Wendling 
- - Research/Design: Jenna Moffit 
+ - Research/Design: Ariana Adili
  
 </details>
 
