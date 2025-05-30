@@ -22,13 +22,12 @@ Our initial focus is on detection, but discovery efforts across ***all three are
 2. How can we block fraud while protecting legitimate users?  
    1. What is our appetite for fraud risk?
 
-To focus our work, we’ve outlined five discovery buckets:
+To focus our work, we’ve outlined four discovery buckets:
 
 * *Landscape & metrics* – What is the identity fraud picture across VA systems today?  
 * *Stakeholder roles & ownership* – Who detects fraud? Who responds to it? What workflows already exist?  
 * *Signals & data review* – What system behaviors, identity flows, or … might indicate fraud, misuse, or user confusion?  
 * *Risk tolerance and user impact* – Are protections blocking real users? Where is friction happening? What level of risk is acceptable? Do teams agree on what’s “enough” protection and what counts as overkill? How do we balance access with security?  
-* *Tech enablers* – What technical foundations or constraints shape what we can detect, prototype, or scale?
 
 ## Core Discovery Questions:
 
