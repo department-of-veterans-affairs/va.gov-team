@@ -29,7 +29,7 @@ This topline summary is a high level, top of mind summary of trends found in the
     
 - The 2 screen reader users we interviewed (who interacted with the prototype) expanded the accordion with no issues as well.
 
-  >"... it breaks down everything that you can actually talk about. And then it's a hyperlink for anything that you need to talk about it talks about yourself as a veteran. It talks about family members, it talks about the schooling, and you know, and it gives you the hyperlink, so you can actually dive into it. So like I said, it's pretty much self-explanatory like I can't see how somebody can get confused on it, because it's walking you through the steps." -P13 (screen reader user)
+  >"... it breaks down everything that you can actually talk about. And then it's a hyperlink for anything that you need to talk about it. It talks about yourself as a veteran. It talks about family members, it talks about schooling, and you know, and it gives you the hyperlink, so you can actually dive into it. So like I said, it's pretty much self-explanatory, like, I can't see how somebody can get confused on it because it's walking you through the steps." -P13 (screen reader user)
 
 
 **Finding 2: Comprehension**
@@ -45,7 +45,7 @@ The point of confusion for a few participants was the following:
 
 - Participants interpreted both in these interviews.
   
-  > "But this repayment plan of more than 5 years or debt relief does that mean? I need to repay over more than 5 years. Or does that mean I need to repay something from over 5 years ago?... It is if it said, like more than 2 years, I would think, okay, that's me because my debt was from more than 2 years ago. It would occur to me to say, 'oh, I need more than 5 years to pay this back'... I mean no debt that anybody has in any part of their life comes back to you and says, Hey, do you need more than 5 years to pay this. Well, I don't know. Let's compute how much the payments would be, and then I'll tell you." -P18
+  > "But this repayment plan of more than 5 years or debt relief, what does that mean? I need to repay over more than 5 years. Or does that mean I need to repay something from over 5 years ago?... If it said, like more than 2 years, I would think, okay, that's me because my debt was from more than 2 years ago. It would occur to me to say, 'oh, I need more than 5 years to pay this back'... I mean no debt that anybody has in any part of their life comes back to you and says, Hey, do you need more than 5 years to pay this. Well, I don't know. Let's compute how much the payments would be, and then I'll tell you." -P18
 
         
 
@@ -73,7 +73,7 @@ Recommendation or solution:
 - Some participants mentioned they would like an option to edit the information on the Review Page.
 - Some participants mentioned they would like a way to upload important documents.
 
-  > "I think it's it's a good amount of information. And I like how it has the "Start your dispute" right above there like you don't have to go to into a totally different section in order to fill out forms..." -P2
+  > "I think it's a good amount of information. And I like how it has the "Start your dispute" right above there, like you don't have to go to into a totally different section in order to fill out forms..." -P2
   
   > "I like it because it's very direct. So you know, sometimes, like the website can be daunting and things like that. But, like, with this format, it's very direct. I knew pretty much what I would expect when I clicked on here, and it met those expectations." -P3
 
