@@ -191,7 +191,7 @@ You can also update this information by mail or in person at a VA regional offic
 [Learn how to update your direct deposit bank information.](https://www.va.gov/change-direct-deposit/)
 
 - **Format:** [Error alert component](https://design.va.gov/components/alert/#error-alert)
-- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2324-22768&t=LjjeJObYt6wPn3uz-1)
+- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2384-7878&t=BL6lzEhD4KknMHDG-1)
 - [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blame/8bb9e606cbe6ac0d17598e748a550218b5bf3f2f/src/applications/personalization/profile/components/direct-deposit/alerts/UpdateErrorAlert.jsx#L37)
 
 </details>
