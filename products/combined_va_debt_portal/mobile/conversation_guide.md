@@ -84,13 +84,13 @@ How have you been involved with the VA – both in the past and now?
 Now we're going to move to the financial portion of our discussion. I have no insight into your financial obligations with VA. For our conversation, we'll be more focused on your experience with the finances, so any specific amounts will not need to be shared.
 
 * _Overview of their financial obligations_
-    * What is your experience with medical copayments through the VA?
+    * (copays) What is your experience with medical copayments through the VA?
         * Do you receive any of these bills?
         * How long have you been receiving them?
         * How often do you receive them?
-    * Have you had any debts as a result of a benefit overpayment?
+    * (VBA debts) Have you had any debts as a result of a benefit overpayment?
         * What was the situation?
-        * When were you notified of the debt?
+        * When and how were you notified of the debt?
         * How long did it take you to pay it off? Or do you have a rough idea when you’ll pay it off?
 
 <br>
