@@ -4,7 +4,7 @@ about: To request a new standardized KPI dashboard on Domo for your product or a
   Update to an existing KPI dashboard
 title: Analytics New KPI dashboard request & KPI dashboard update request for [Team]
 labels: analytics-insights, analytics-request, kpi-dashboard, new
-assignees: 'AdamOye'
+assignees: 'AdamOye''Blivaditis'
 
 ---
 
