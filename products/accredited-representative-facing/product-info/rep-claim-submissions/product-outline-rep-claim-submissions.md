@@ -52,6 +52,7 @@ A digital form submission tool
 - *How are Veterans and others using this product going to know it exists?*
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
 - [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/product-info/rep-claim-submissions/release-plan-rep-claim-submissions.md.md)
+- [Link to Product Playbook/Incident Response Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/product-info/rep-claim-submissions/product-playbook-incident-response-rep-claim-submissions.md)
 
 ## Launch Dates
 - *Target Launch Date*
