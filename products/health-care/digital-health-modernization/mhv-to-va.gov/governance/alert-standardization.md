@@ -113,8 +113,8 @@ The 403 error sends the user to a new page; this error component will only be ex
 [Figma file](https://www.figma.com/design/m992k2m1DSl9MXV9hDytsQ/MHV-Account-Security-%26-Access-Standards?node-id=685-14636)
 
 <details><summary>403 error page for MHV users</summary>
-<img src="https://github.com/user-attachments/assets/015ea1f8-4322-4141-888c-76c28433c475" />
-    
+<img src="https://github.com/user-attachments/assets/df66c524-85dc-4937-8872-0edae21edd4f" />
+
 </details>
 
 ## 404 Page not found component
