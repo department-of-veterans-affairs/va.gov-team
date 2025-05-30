@@ -30,6 +30,7 @@ A change log to document data and reporting changes, such as: query updates, rep
 | 23 |2025-05-07     | Streamlined the IAM MPI user credential dataflow by removing a redundant dependency ("IAM MPI User Credentials - latest snapshot v2") and consolidating logic to consume a single derivative dataset ("MHV Expanded Set combined with IAM - w basic mach no"). | Reduced sequencing complexity and ensured charts render consistently from the same unified dataset.       | Dennis O'Neill   |
 | 24 | 2025-05-13     | Added Tier 1 support issues graph to Domo dashboard with filter functionality for the four CSPs.       | Request from POs to expand visibility into Tier 1 support volume, alongside existing reports for Tier 2 & 3 issues. | Dennis O'Neill |
 | 25 | 2025-05-28     | Updated dashboard to include ID.me and Login.gov credentials from VA.gov authentication transaction data.       | There is a known issue where users who log in with credentials new to VA via the VAHB/SiS are not getting added to the AuthDB database and weren't being represented in reports.  This has accounted for about 50K additional Veterans who are now correctly being reported as having modern credentials. | Steve Dickson |
+| 26 | 2025-05-30     | Removed the following unused views from Domo: Active, Basic Matched MHV Users (with and without MHV credentials) - Weekly  | Request from PO to remove this from the dashboard, as it is no longer in use.     | Dennis O'Neill    |
 | # | YYYY-MM-DD     | Brief description of change | Explanation for the modification       | Author's Name    |
 
 
