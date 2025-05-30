@@ -94,20 +94,6 @@ In the bottom toolbar of the Zoom window, click the arrow next to **SHOW CAPTION
 
  <mark>**[Record answer here]**</mark>
 
-## Screen sharing instructions (if needed)
-- In the Zoom application on your computer, there's a row of buttons at the bottom. In the center is a button that says **Share** *(on phone, may need to scroll sideways or click **More...**)*
-  - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
-  - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
-
-- Now I'd like you to share your screen with me. Tap on the button that says **Share**. Then there will be options for what to share. Please choose **"Screen"** (phone) or your web browser.
-- Great, now I can see your screen! Thank you for your patience in figuring this out.
-
-- iPad: **Broadcast screen**
-- [Avoid **AI Companion**, which is a new option next to “Share” in the Zoom buttons]
-
-- *If having **difficulty moving windows around** or opening the prototype, you could request control of the participant’s screen and mouse in Zoom:* `<Name>’s screen tab > Request remote control`. Then you can move/resize browser (but not zoom windows/buttons) and type into browser bar. The participant may need to minimize the zoom video view, and drag the zoom buttons to the bottom of the screen so out of the way.
-
-
 # Warm-up Questions (Optional) - 5 minutes
 
 Before we look at the website, let’s start with a few warm-up questions.
@@ -143,21 +129,50 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 Thank you for sharing your experiences. 
 
+## Task Zero: [Screen share] - 5 minutes
+
+I'm going to drop a link in the chat, which I'd like you to open in your browser and then share your screen in Zoom. I can help walk you through how to share your screen, but I want to give you a moment to close any other browser windows, tabs or applications you may have running, and silence notifications on your [computer/phone] so it doesn't interfere. Let me know when you're ready for the link. 
+
+<mark>Wait for participant's verbal consent.</mark>
+
+Great! I'm pasting the link to the site in the chat. You can find that in the row of buttons at the bottom, under the chat icon: https://staging.va.gov/ivc-champva/10-10d-extended/
+
+### Screen sharing instructions (if needed)
+- In the Zoom application on your computer, there's a row of buttons at the bottom. In the center is a button that says **Share** *(on phone, may need to scroll sideways or click **More...**)*
+  - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
+  - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
+
+- Now I'd like you to share your screen with me. Tap on the button that says **Share**. Then there will be options for what to share. Please choose **"Screen"** (phone) or your web browser.
+- Great, now I can see your screen! Thank you for your patience in figuring this out.
+
+- iPad: **Broadcast screen**
+- [Avoid **AI Companion**, which is a new option next to “Share” in the Zoom buttons]
+
+- *If having **difficulty moving windows around** or opening the prototype, you could request control of the participant’s screen and mouse in Zoom:* `<Name>’s screen tab > Request remote control`. Then you can move/resize browser (but not zoom windows/buttons) and type into browser bar. The participant may need to minimize the zoom video view, and drag the zoom buttons to the bottom of the screen so out of the way.
+
 ## First Task: [Form Intro Page] - 5 minutes
 
-Before you start filling out the form, I’d like you to take a look at the information on this page. Tell us your initial thoughts before clicking on anything. 
+Before you start filling out the form, this is our testing site so you don't have to worry about the information that you enter going anywhere. Nothing you click on in this form will have any bearing on your benefits. As we go through the form today, feel free to use fake information for sensitive questions, such as Social Security Numbers, if you don't want to use your real information. You may be asked to upload some documents; those won't be submitted. I can provide a sample PDF for you to use, if you don't have any files you feel comfortable using. Do you have any questions?
 
-- Do you know if you’re on the right page to apply for CHAMPVA benefits? 
+<mark>Wait for participant answer.</mark>
+
+Without clicking on anything. I’d like you to take a look at the information on this page. Tell us your initial thoughts. 
+
+- Do you know if you’re on the right page to apply for CHAMPVA benefits? How do you know?
+- What does "VA Form 10-10D EXTENDED" mean to you? How about "10-7959c"?
+- In your mind, why would the application for CHAMPVA form include Form 10-7959c?
 - Do you know how to check your eligibility for CHAMPVA benefits for you/your spouse/your dependent children?
 - What information do you think you’d need to fill out this application for you/your spouse/your dependent children?
 - Do you have all that information on hand, or would you need to pause to find it if you were really applying for CHAMPVA benefits today?
 - Without clicking anything, do you know how to start this form? Can you show me?
 
-**Participant rating:** On a scale of 1-5 (with 1 being poorly and 5 being very well) - how informed do you feel about the application you are about to begin based on this page's content? Why did you give it that rating?
+### After completing the task: **Participant rating:** 
+
+- On a scale of 1-5 (with 1 being poorly and 5 being very well) - how informed do you feel about the application you are about to begin based on this page's content? Why did you give it that rating?
 
 > [!NOTE]
 > ### Things to watch for:
-> - [Does the participant easily locate the information about CHAMPVA benefits and OHI?]
+> - [Does the participant easily locate the information about CHAMPVA benefits and OHI? Do they understand they will be filling out two forms at the same time?]
 > - [Does the participant locate the apply and supporting documents links?]
 > - [Does the participant indicate they would need to pause to gather information, or would need to coordinate with others to complete the application together?]
 
@@ -167,7 +182,9 @@ Before you start filling out the form, I’d like you to take a look at the info
  - This is our testing site so you don't have to worry about the information that you enter going anywhere. Feel free to use fake information for sensitive questions such as your social security number or birth date that you don't want to share.
  - As you go through the form, please remember to think out loud. We want to hear any reactions you have as you're experiencing them.
 
-**Participant rating:** On a scale of 1-5 (with 1 being very hard and 5 being very easy) - how difficult or easy was it to complete this section of the form? Why did you give it that rating?
+### After completing the task:**Participant rating:** 
+
+- On a scale of 1-5 (with 1 being very hard and 5 being very easy) - how difficult or easy was it to complete this section of the form? Why did you give it that rating?
 
 > [!NOTE]
 > ### Things to watch for:
@@ -178,15 +195,24 @@ Before you start filling out the form, I’d like you to take a look at the info
 
 ## Third Task: [OHI Sub-form] - 10 minutes
 
-- These next few pages, I'd like you to fill out Medicare and private health insurance information for [yourself/your spouse] and one other family member. 
+- Before starting this section, I'd like you to take a look at the page and let me know if anything stands out to you.
+- What is this section of the form asking for?
+- Recalling the information you saw on the first page, why is the form asking for this information?
+- If you were filling out this application for CHAMPVA benefits on VA.gov today, would you need to stop and collect more documents?
 
-**Participant rating:** On a scale of 1-5 (with 1 being very hard and 5 being very easy) - how difficult or easy was it to complete this section of the form? Why did you give it that rating?
+Thank you. 
+
+- For the purposes of today's study, I'd like you to imagine [you/your spouse] and family member both have Medicare and private health insurance. Go ahead and fill out Medicare and private health insurance information for [yourself/your spouse] and one other family member, and remember to think out loud as you go through the pages.
+
+### After completing the task: **Participant rating:** 
+- On a scale of 1-5 (with 1 being very hard and 5 being very easy) - how difficult or easy was it to complete this section of the form? Why did you give it that rating?
 
 > [!NOTE]
 > ### Things to watch for:
+> - [Does the participant understand they are starting a the sub-form 10-7959c?]
 > - [Does the participant understand the Medicare Parts questions?]
 > - [If the participant is 65+, do they understand the attestation question?]
-> - [Are the participants comfortable with selecting health insurance and selecting an applicant?]
+> - [Are the participants comfortable with selecting a health insurance plan before identifying an applicant?]
 > - [Do participants have feedback about the v3 file upload component?]
 
 ## Fourth Task: [Review and Submit] - 10 minutes
