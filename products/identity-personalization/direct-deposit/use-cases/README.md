@@ -176,6 +176,27 @@ Or you can contact a regional office near you to come in for help in person. [
 </details>
 
 
+<details><summary>FlaggedRoutingNumber: Routing number flagged for fraud</summary>
+
+- **Use case:** User edits their Bank account information, a call is made to check for routing number fraud, and returns the alert. Alert appears above input fields in Bank account information edit use case.
+- **Status code:** TBD
+- **Content:**
+
+H2: We couldn't update your direct deposit information
+
+We’re sorry. The bank routing number you entered requires additional verification before we can save your information. To use this bank routing number, you’ll need to call us at 800-827-1000 (TTY: 711). We’re here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
+
+You can also update this information by mail or in person at a VA regional office.
+
+[Learn how to update your direct deposit bank information.](https://www.va.gov/change-direct-deposit/)
+
+- **Format:** [Error alert component](https://design.va.gov/components/alert/#error-alert)
+- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2324-22768&t=LjjeJObYt6wPn3uz-1)
+- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blame/8bb9e606cbe6ac0d17598e748a550218b5bf3f2f/src/applications/personalization/profile/components/direct-deposit/alerts/UpdateErrorAlert.jsx#L37)
+
+</details>
+
+
 ### Errors 
 
 <details><summary>GenericError: Used for all other errors</summary>
@@ -278,26 +299,6 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 
 ### Flags 
 - [LOA3 ID.me or Login.gov user tries to update their bank information, but they have a fraud or identity theft flag on their account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/flag-fraud.md)
-
-<details><summary>FlaggedRoutingNumber: Routing number flagged for fraud</summary>
-
-- **Use case:** User edits their Bank account information, a call is made to check for routing number fraud, and returns the alert. Alert appears above input fields in Bank account information edit use case.
-- **Status code:** TBD
-- **Content:**
-
-H2: We couldn't update your direct deposit information
-
-We’re sorry. The bank routing number you entered requires additional verification before we can save your information. To use this bank routing number, you’ll need to call us at 800-827-1000 (TTY: 711). We’re here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
-
-You can also update this information by mail or in person at a VA regional office.
-
-[Learn how to update your direct deposit bank information.](https://www.va.gov/change-direct-deposit/)
-
-- **Format:** [Error alert component](https://design.va.gov/components/alert/#error-alert)
-- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2324-22768&t=LjjeJObYt6wPn3uz-1)
-- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blame/8bb9e606cbe6ac0d17598e748a550218b5bf3f2f/src/applications/personalization/profile/components/direct-deposit/alerts/UpdateErrorAlert.jsx#L37)
-
-</details>
 
 #### Blockecd users 
 [See documentation here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/blocked-account.md)
