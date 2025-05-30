@@ -121,9 +121,6 @@ Remote research, over Zoom.
 
 ## Research materials 📔
 
-> [!NOTE]
-> **Your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.**
-
 **For moderated usability tests:** 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/research/users/2025-05-1010D-OHI-merge-usability/Conversation-guide.md)
 - [Link to prototype](url goes here)
@@ -225,9 +222,9 @@ _Response options: YES or NO (Mark answer, either qualifies for study)_
 ### Optional Kick-off Call with Perigean
 We would like a kick-off call with Perigean to discuss recruitment criteria. Suggested dates and times: 
 
-- `06/05, Thursday, 10am-12:00 pm ET, 2:30pm-5:30pm ET`
-- `06/06, Friday, 9:30am-12:00 pm ET, 4:00-6:00pm ET`
-- 06/09, Monday, 9:30am-12:00 pm ET, 1:00pm-4:00pm ET`
+- `06/06, Friday, 3:00pm-6:00pm ET`
+- `06/09, Monday, 1:00pm-4:00pm ET`
+- `06/10, Tuesday, 9:30am-10:30am ET, 12:00pm-5:30pm ET`
 
 ### Prepare
 **A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.** 
@@ -238,14 +235,14 @@ We would like to have an AT user pilot, and non-AT user pilot
 
 **Non-AT user pilot**
 - `Pilot participant name:` Michael Skinner
-- `Date and time of pilot session:` 06/10 or 06/11
+- `Date and time of pilot session:` 06/10 or 06/12
 
 **AT user pilot**
 - `Pilot participant name:` TBD (link ADE ticket)
 - `Date and time of pilot session:` TBD (Week of 06/09, hopefully)
 
 ### Research sessions
-- `Planned dates of research:` **June 16-30**
+- `Planned dates of research:` **June 16-July 1**
 
 ### Length of sessions
 - `Session length:` 60 minutes for non-AT users, 90 minutes for AT users
@@ -256,7 +253,7 @@ We would like to have an AT user pilot, and non-AT user pilot
 
 ### Availability
 > - `Monday - Friday 9:30am-12:00pm ET and 1:00pm-6:30pm ET`
-> - `**EXCEPT** 06/19`
+> - `EXCEPT Thursday, 06/19 and Friday, 6/20 (no sessions)`
 
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
