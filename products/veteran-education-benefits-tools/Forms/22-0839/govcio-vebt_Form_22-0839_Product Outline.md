@@ -107,7 +107,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
    
 ## Screenshots
 
-### Before
+### Before https://www.vba.va.gov/pubs/forms/VBA-22-0839-ARE.pdf
 
 ### After
 
