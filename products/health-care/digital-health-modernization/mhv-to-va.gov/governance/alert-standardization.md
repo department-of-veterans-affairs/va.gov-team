@@ -108,13 +108,12 @@ Benefit hub pages corresponding with these tools currently have more complex ver
 The entire `/my-health` portal sits behind authentication and every application under this namespace must require authentication. Thus, any unauthenticated user who attempts to access a URL within any application in this space should trigger the sign-in modal. Until a user signs in, we cannot determine whether a user has authorization to access the page they are attempting to reach. 
 
 ## 403 Access denied component
-The 403 error sends the user to a new page; this error component will only be experienced by users with access to My HealtheVet who attempt to access a url within the /my-health name space that they don't have credentials for (i.e. a records url for a different user). As shown in the screenshot below, the 403 error includes guidance to call the My HealtheVet helpdesk, try other health-related resources, or navigate elsewhere within the portal using the MHV secondary nav.
+The 403 error sends the user to a new page; this error component will only be experienced by users with access to My HealtheVet who attempt to access a url within the /my-health name space that they don't have credentials for (i.e. a records url for a different user). As shown in the screenshot below, the 403 error includes guidance to call the My HealtheVet helpdesk or navigate elsewhere within the portal using the MHV secondary nav.
 
 [Figma file](https://www.figma.com/design/m992k2m1DSl9MXV9hDytsQ/MHV-Account-Security-%26-Access-Standards?node-id=685-14636)
 
 <details><summary>403 error page for MHV users</summary>
-<img src="https://github.com/user-attachments/assets/df66c524-85dc-4937-8872-0edae21edd4f" />
-
+<img src="https://github.com/user-attachments/assets/6f779428-1b0b-4e9d-9a01-d62eed8a58a4" />
 </details>
 
 ## 404 Page not found component
@@ -123,7 +122,7 @@ The 404 error sends users to a new page; this error component will only be exper
 [Figma file](https://www.figma.com/design/m992k2m1DSl9MXV9hDytsQ/MHV-Account-Security-%26-Access-Standards?node-id=1071-19363&t=rNA4JxDx5GaXwOk9-1)
 
 <details><summary>404 Page not found for VA.gov</summary>
-<img width="928" alt="Screenshot 2025-04-02 at 3 37 17 PM" src="https://github.com/user-attachments/assets/7875ffce-58c7-4bcc-9568-dca434d29562" />
+<img width="928" alt="Screenshot 2025-04-02 at 3 37 17 PM" src="https://github.com/user-attachments/assets/df66c524-85dc-4937-8872-0edae21edd4f" />
 
 </details>
 
