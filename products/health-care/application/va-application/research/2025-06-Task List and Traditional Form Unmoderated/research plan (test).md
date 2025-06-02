@@ -21,7 +21,7 @@ This product is situated within the authenticated and unauthenticated pathways o
 
 The 10-10EZ form is an existing and critical tool for Veterans. This research explores a significant iteration on its user interface pattern, moving from a traditional sequential flow to a task list/choose-your-own-adventure approach. Veterans will likely have some familiarity with the concept of filling out forms online, but this specific pattern may be new to them in the context of VA.gov.
 
-### Product Brief
+### Product Brief (TBD)
 
 [Link to product brief](#) <!-- Please insert actual link when available -->
 
