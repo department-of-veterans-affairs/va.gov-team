@@ -121,7 +121,8 @@ The primary goal of this MVP is to reduce silent submission failures in the form
 
 - [Technical discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/forms-status-on-My-VA/technical-discovery.md)
 - [Figma designs /](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2049-36392) [user flow](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=0-7641&p=f&t=o3kG1zB7BNF9SzFu-0)
-  
+- [Original Epic](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/forms-status-on-My-VA#project-outline-forms-status-on-my-va-mvp)
+- [PDF Feature & All benefits intake api forms support Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109605) - note, the original epic only offered support for some forms, this epic expands that capability to all forms that use the benefits intake API.    
 
 ### Key Dates
 
