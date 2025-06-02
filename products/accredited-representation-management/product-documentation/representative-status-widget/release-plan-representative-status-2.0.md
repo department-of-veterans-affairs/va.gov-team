@@ -65,9 +65,10 @@ Datadog Endpoint activity:
 
 ### Stage B 
 Datadog Endpoint activity:
+1. 99.0% success rate for the page load, with a total of 5.58k requests to Profile subpage (Profile dashboard)
+2. 98.8% success rate for returning a representative status, when the LH API is called (Rep Status dashboard) - no change.
 
-### Stage C 
-Datadog Endpoint activity:
+Known issue: [Unexpected No Rep state UI in Profile Production](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110911). The team is actively working to address this and does not feel the UI difference is a critical issue; the user is still presented with the correct representative status and a link to our FAQ page for more info.
 
 ## Post Launch Metrics
 
