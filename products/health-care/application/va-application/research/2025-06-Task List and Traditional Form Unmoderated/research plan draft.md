@@ -131,11 +131,11 @@ Please see below for links and details on research materials.
 Our intended audience is Veterans and we will partner with Perigean for recruitment. All efforts will be made to recruit a diverse sample, with participants backgrounds ranging across age, abilities, and ethnicities. Ideally, participants will not have filled out the 10-10EZ in the last 6 months, so that we avoid too much familiarity with the health enrollment form structure.      
 
 ### List the ideal completed sessions and total number and type (Veterans, caregivers, etc.) of participants for this study:   
-- Ideal completed sessions: 15 - 20
-- Total participants: 20 - 26
+- Ideal completed sessions total: 30
+- Total participants: 15 per cohort
 - All participants will be Veterans   
 
-**Target:** 20–25 Veterans (10–13 per cohort)  
+**Target:** 40 Veterans (at least 15 per cohort)  
 **Tool:** Perigean  
 **Device requirement:** Desktop/laptop only
 
