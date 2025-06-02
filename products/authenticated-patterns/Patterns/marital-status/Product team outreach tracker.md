@@ -1,8 +1,8 @@
 | Form number & name | Point of contact | Notes | Slack thread, if applicable | Meeting date | Meeting notes | Steps Taken / Next steps |
 | --------------- | -------------- | ------------ | ------- | ------- | ------- | -------------- |
 | 21P-527EZ - Application for Veterans pension | Megan Graham |  | [Slack thread](https://dsva.slack.com/archives/C05MS96P6P2/p1747152120912439) |   |  | Working to schedule |
-| 10-10EZ - Apply for VA health care | Renata and Heiu | |  |  |  |  We're already in convo with Renata and Heiu |
-| 10-10EZR | Renata and Heiu | |  |  |  |  |
+| 10-10EZ - Apply for VA health care | Renata and Hieu | |  |  |  |  We're already in convo with Renata and Hieu |
+| 10-10EZR | Renata and Hieu | |  |  |  |  |
 | 21-686c - Application Request to Add or Remove Dependents | OCTO (acting) PO Sanja; VFS PM Laura Steele; Fiorella is a designer | |  |  |  | Kristen DM'd Fiorella, who works on this pattern |
 | 10-10D - Application for CHAMPVA Benefits | Jamie Fiore | |  |  |  | Met with Jamie and Rachel on 5/12/25. They'll consider using the pattern; no major feedback. |
 | 5655 - Financial Status Report | OCTO PO Denise Coveyduc; VFS PM Tom Davis; Designer Megan Gayle |  |  |  |  | [Open Slack thread](https://dsva.slack.com/archives/CPE4AJ6Q0/p1746450024403249); Kristen trying to set up meeting |
