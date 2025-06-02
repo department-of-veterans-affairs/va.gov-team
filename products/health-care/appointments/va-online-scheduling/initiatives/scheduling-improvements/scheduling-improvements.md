@@ -9,9 +9,8 @@ The Appointments team is looking for ways to improve the tool to help the Vetera
 
 | Priority | ZenHub #  | Status | 
 | ------- | ---------- | ----- | 
-| Oracle Health  | [#75263](https://app.zenhub.com/workspaces/appointments-product-management-63d2b0c51ad23091ff211acb/issues/gh/department-of-veterans-affairs/va.gov-team/75263) | In progress | 
 |Irrelevant locations | [#53329](https://app.zenhub.com/workspaces/appointments-product-management-63d2b0c51ad23091ff211acb/issues/gh/department-of-veterans-affairs/va.gov-team/53329) | Not started | 
-| Commnunity care direct scheduling | [#62496](https://app.zenhub.com/workspaces/appointments-product-management-63d2b0c51ad23091ff211acb/issues/gh/department-of-veterans-affairs/va.gov-team/62496) | Not started |
+| Community care direct scheduling | [#62496](https://app.zenhub.com/workspaces/appointments-product-management-63d2b0c51ad23091ff211acb/issues/gh/department-of-veterans-affairs/va.gov-team/62496) | Not started |
 | Surfacing appointment availability | Epic/Feature # | Not started | 
 
 ## Key Decisions
