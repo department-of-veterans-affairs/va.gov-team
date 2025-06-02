@@ -107,6 +107,10 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 2. When do you log into your VA.gov account? What prompts you?
 
+3. What device are you using today?
+
+4. What browser are you using?
+
 
 ## **First Task: Feelings toward Digital Communication - 5 minutes**
 
