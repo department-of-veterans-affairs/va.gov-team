@@ -21,7 +21,7 @@ This product is situated within the authenticated and unauthenticated pathways o
 
 The 10-10EZ form is an existing and critical tool for Veterans. This research explores a significant iteration on its user interface pattern, moving from a traditional sequential flow to a task list/choose-your-own-adventure approach. Veterans will likely have some familiarity with the concept of filling out forms online, but this specific pattern may be new to them in the context of VA.gov.
 
-### Product Brief (TBD)
+### Product Brief (TBD - Need to add link)
 
 [Link to product brief](#) <!-- Please insert actual link when available -->
 
@@ -29,7 +29,7 @@ The 10-10EZ form is an existing and critical tool for Veterans. This research ex
 
 ---
 
-## OCTO-DE Priorities (TBD)
+## OCTO-DE Priorities
 
 <details>
 <summary>Which OCTO priorities does this research support?</summary>
@@ -73,25 +73,23 @@ This research will help us determine if there is an opportunity to further inves
 1. What are Veterans' initial impressions of the Orange vs. Green form navigation?
 2. How do they attempt to navigate and locate information in each pattern?
 3. Which pattern feels easier or more intuitive—and why?
-4. What high-level points of confusion arise during interaction?
-5. Which pattern do Veterans prefer and what are the reasons?
+4. What high-level points of confusion, if any, arise during interaction with the Orange and Green flows?
+5. After experiencing both flows, which pattern do Veterans prefer for navigating a healthcare application and what are the reasons?
 6. What are their overall impressions and satisfaction levels with both designs?
 
-> _Note: Accessibility and detailed usability questions will be addressed in future studies._
+> _Note: Accessibility and detailed usability around task completion will be addressed in future studies._
 
-### Hypotheses (TBD)   
+### Hypotheses
 
-`What do you intend to learn and measure from this study?` 
+- We want to learn if the non-linear task flow assists Veterans in completing the 10-10EZ.
 
-`What do you already know about this problem space?`
+- We know that short-form users (100% disability rating) might not benefit from a task list; however, Veterans who are required to fill out the longer sections, such as household information, may benefit from the opportunity to click through various sections, fill out what they can immediately, then return to the form later, if additional information is needed. Some documents that users need may not be immediately on hand. 
  
-`What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)`
-  
-`Write a generalized statement that combines what you know + what you think will happen during the study.`   
+- We think Veterans will appreciate the ability to choose how they interact with forms, and that it may assist authenticated users who want to complete easier sections first, then come back to more complex sections after gathering necessarily documents or information. 
 
 ---
 
-**[Enter hypotheses here]** 
+**We believe a non-linear task list will benefit Veterans completing longer versions of the 10-10EZ by allowing flexible navigation and the option to pause and return. While it may not add value for short-form users, we expect most Veterans will appreciate having control over how they complete the application.** 
 
 ---
 
