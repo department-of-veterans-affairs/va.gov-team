@@ -126,7 +126,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
 |UX: Complete R&S (Wizard) and Digital Dispute Study interviews and publish topline summary of early findings (before the full report). | QP3 QP4 |--|05/29/25|Completed|
-|UX: Begin drafting the research plan for pay.gov study. | QP6 |--|--|--|
+|UX: Begin drafting the research plan for pay.gov study. | QP6 |--|06/02/25|Completed|
 |UX: Refine Pay.gov user flows based on stakeholder feedback and tech guidelines. | QP6 |--|06/02/25|Completed|
 |ENG: Implement the ability to use international phone numbers in the portal. | N/A |--|--|--|
 |ENG: Complete at least 5 FE Digital Dispute tickets (66% of the remaining FE tickets for the initiative). | QP4 |--|--|--|
