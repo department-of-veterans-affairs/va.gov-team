@@ -13,6 +13,63 @@
   * [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/research/users/2025-05-1010D-OHI-merge-usability/Conversation-guide.md)
  * Review the [discovery work](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1748614056458/794e1a8137cca18b3c527cf190957578e09ba4ba) for OCR/AI scanning of file uploads (in progress).
 
+## **Notes**
+
+### **UX Roadmap**
+
+* On the OHI standalone, we need to look into skipping the Medicare card upload, by asking for MBI number
+    * Team to plan to confirm with Premal what the pattern needs to include and then create tickets for that work
+* For Medallia, can we shift to quarterly reports?
+    * For FMP, yes. 10-10D definitely we’ve seen some bugs reported so we may want to keep those monthly. 
+    * Will include recommendations within the summary of findings report
+
+
+### **CHAMPVA Claims: Resubmission**
+
+* Walk through the resubmission userflow (the difference between the re-open vs. resubmission)
+* There’s still some confusion around types of numbers (PDI/Batch vs. EOB/itemized bill) where we don’t really have enough evidence to support a complex branching logic. 
+    * User research would be needed to help understand users’ claims literacy and where there are break points in the claims journey where we can better support them
+* Team is advocating for a simple user flow, replicating all screens from the initial claim. This will ask users to provide duplicate data, but it will  allow resubmissions and re-opens to go through the same flow. 
+    * Claim identifying number screen = asking for PDI and claim number, and will provide a number to get that ID if you don’t have it
+    * We may need to partner with CHAMPVA to update their sendback letter and EOB to be more directed content about what’s missing and needed
+    * Ideal state would be a version of the benefits decision tracking pattern, where users can digitally monitor their CHAMPVA claims and will be notified what specific information is missing
+
+### **User research for 1010d/OHI merge**
+* Needs Review by Amanda (will look at it today).
+* Next steps:
+	* Open ticket with Shane
+	* Opened ticket with ADE team (5/30/25) for them to do live tech support on AT user test sessions (ADE offers moderation if necessary, and will provide us with an AT user for our pilot session).
+	* We will pilot Non-AT and AT user
+* We will be testing in Staging w/ unauth users (easier for participants)
+	* Can look into getting a logged in test but it can create more tech difficulty then it’s worth.
+	* We want to make it as simple as possible for someone to get into the test.
+* Timing of the study:
+	* Andrea notes that staging may not be ready so we may be doing it in the sandbox environment instead.
+	* Renata pushed the participants to 16th. We can push it a few more days out if we need.
+
+### **LLM OCR file uploads**
+
+* Rachel walks through the file verification Mural
+	* Broke up mural 4 sections:
+	* Tech info
+	* Went over with Kyle (Engineering)
+* Some design considerations:
+	* We can show then specific reasons it failed	
+	* Can take up 20 secs to scan the docs - users in research are willing to wait for something to load longer if they know the AI is working in the background.
+	* If we mention AI there may be trust issues, especially with PII
+ 	* We should be able to let them open up the dosc once scanned
+	* Can group documents and still scan
+	* Possible Workflows/Pro and Cons: Scan individually vs scanning all at end
+* Research Questions - thinks we should test content and design pattern.
+	* Can we do research for this? Should we do Longer vs shorter research methods or maybe do it post launch
+* Tech stack for the upload tool?
+	* Kimberly recommended using either the GPT chatbot or AWS Textract
+		* A6 willing to get IVC Textract (AMS) a license for testing
+	* Amanda asks for a list of the information the OCR needs to verify in each document - references thread from Friday in Slack. 
+    		* Jamie will update GitHub with what was included in that thread (by midday Tuesday, 6/3/25). 
+		* Let Amanda know if more is needed from Kimberly or anyone else
+* **Action item:** We need a ticket to do exploration with AWS Textract in the coming sprint
+* **Action item:** Jamie to add the info that is needed for claims to Supporting Docs GH file
 
 ## 05/27/25 IVC Design Sync
 
