@@ -23,7 +23,7 @@ The 10-10EZ form is an existing and critical tool for Veterans. This research ex
 
 ### Product Brief
 
-[Link to product brief](products/health-care/application/va-application/Choose-your-own-adventure/Choose-your-own-adventure - Initiative Brief.md)
+[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Choose-your-own-adventure/Choose-your-own-adventure%20-%20Initiative%20Brief.md)
 </details>
 
 ---
