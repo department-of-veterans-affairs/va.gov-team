@@ -1,5 +1,19 @@
 # Running Design and Research Agenda
 
+## 06/02/25 IVC Design Sync
+
+**Attendees:** Amanda, Andrea, Jamie, Renata, Rachel
+
+### Agenda
+
+* UX roadmap
+* Review the latest [Claims resubmission figma](https://www.figma.com/design/Tfhq5h2LwXEeEEtFBAAFOv/CHAMPVA-Claims--10-7959a-?node-id=4578-61533&p=f&t=R4DNUPF1r0yHBYhX-0)
+* 10-10D/OHI merge usability testing:
+  * [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/research/users/2025-05-1010D-OHI-merge-usability/Research-plan.md)
+  * [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/research/users/2025-05-1010D-OHI-merge-usability/Conversation-guide.md)
+ * Review the [discovery work](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1748614056458/794e1a8137cca18b3c527cf190957578e09ba4ba) for OCR/AI scanning of file uploads (in progress).
+
+
 ## 05/27/25 IVC Design Sync
 
 **Attendees:** Amanda, Andrea, Jamie, Renata, Mike, Rachel
