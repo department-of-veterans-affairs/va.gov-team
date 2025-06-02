@@ -4,7 +4,7 @@
 
 ---
 
-## Background 🏗️
+## Background 
 
 <details>
 <summary>Briefly describe the background of your product.</summary>
@@ -54,7 +54,7 @@ The 10-10EZ form is an existing and critical tool for Veterans. This research ex
 
 ---
 
-## Research Goals 🥅
+## Research Goals 
 
 This study aims to evaluate two potential form patterns—**"Orange" task list** and **"Green" traditional flow**—for the 10-10EZ health care application.
 
@@ -70,7 +70,7 @@ This study aims to evaluate two potential form patterns—**"Orange" task list**
 
 ---
 
-## Research Questions ❓
+## Research Questions
 
 1. What are Veterans' initial impressions of the Orange vs. Green form navigation?
 2. How do they attempt to navigate and locate information in each pattern?
@@ -83,7 +83,7 @@ This study aims to evaluate two potential form patterns—**"Orange" task list**
 
 ---
 
-## Methodology 🔬
+## Methodology 
 
 **Type:** Unmoderated within-subjects study  
 **Platform:** Optimal Workshop  
@@ -102,7 +102,7 @@ Participants will be shown limited-functionality Figma prototypes and asked to p
 
 ---
 
-## Participants and Recruitment 🎯
+## Participants and Recruitment 
 
 **Target:** 20–25 Veterans (10–13 per cohort)  
 **Tool:** Perigean  
@@ -124,7 +124,7 @@ Participants will be shown limited-functionality Figma prototypes and asked to p
 
 ---
 
-## Timeline 📆
+## Timeline 
 
 - **Prototype finalization:** TBD
 - **Study launch:** TBD
@@ -134,7 +134,7 @@ Participants will be shown limited-functionality Figma prototypes and asked to p
 
 ---
 
-## Team & Roles 👥
+## Team & Roles
 
 - **Lead UX Researcher:** TBD  
 - **Designer:** TBD  
@@ -143,7 +143,7 @@ Participants will be shown limited-functionality Figma prototypes and asked to p
 
 ---
 
-## Success Metrics 📊 (TBD)
+## Success Metrics (TBD)
 
 _Examples to consider:_
 
@@ -153,7 +153,7 @@ _Examples to consider:_
 
 ---
 
-## Risks & Mitigations ⚠️ (TBD)
+## Risks & Mitigations  (TBD)
 
 | Risk | Mitigation |
 |------|------------|
@@ -162,7 +162,7 @@ _Examples to consider:_
 
 ---
 
-## Data Analysis Plan 🧮 (TBD)
+## Data Analysis Plan (TBD)
 
 - Export and analyze **clickstream data** from Optimal Workshop
 - **Thematic coding** of qualitative feedback (e.g., in Dovetail or similar tool)
@@ -170,7 +170,7 @@ _Examples to consider:_
 
 ---
 
-## Prototype Links 🧪 (TBD)
+## Prototype Links (TBD)
 
 - [Orange Prototype – Task List](#)
 - [Green Prototype – Traditional Flow](#)
