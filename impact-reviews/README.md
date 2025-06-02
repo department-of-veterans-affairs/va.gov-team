@@ -25,7 +25,7 @@ _Presentations occur at 1:05pm ET_
 | BTSSS |Ayush Chakravarty|MVP Travel Reimbursement Status page|January 2025|March 20, 2025|
 | IIR |Mike King|Welcome to my VA version 1|January 2025|April 10, 2025|
 |Facilities|Michelle Middaugh|Mobile map functionality|March 2025|May 22, 2025|
-|Benefits Portfolio|Mack Howell|Improve the VA.gov document submission screen for Private Medical Records|March 2025|June 12, 2025|
+|Benefits Portfolio|Mack Howell|Improve the VA.gov document submission screen for Private Medical Records|May 2025|June 12, 2025|
 |Accredited Representation Management|Lindsay Li-Smith|Appoint a Representative 2.0 and Accredited Representative Portal (ARP) MVP|March 2025|July 17, 2025|
 |TBD|TBD|TBD|TBD|August 14, 2025|
 |TBD|TBD|TBD|TBD|September 2025|
