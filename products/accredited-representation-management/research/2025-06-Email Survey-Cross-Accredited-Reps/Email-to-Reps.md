@@ -12,4 +12,4 @@ Best,
 
 Marisa Dominguez\
 Lead UX Researcher\
-Accredited Management Team, VA.gov
+Accredited Representatives Management Team, VA.gov
