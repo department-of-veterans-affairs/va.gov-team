@@ -116,20 +116,21 @@ This study will be remote and unmoderated, using Optimal Workshop.
 - [X] **Remote**
 - [ ] **In-person**
       
-## Research materials 📔 (TBD)
-Please see below for links and details on research materials.
+## Research materials 📔 (TBD) - Need to add links
+Please see below for links and details on research materials.  
 
-**For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html)**
-- [Link to email with instructions](url goes here)
+- [Link to email with instructions](url goes here) - Do we need to write this? / TBD
 - [Link to prototype or OptimalSort session for group A](url goes here)
 - [Link to prototype or OptimalSort session for group B](url goes here)
+- [Link to study questions]
+- [Link to Figma Prototypes]
 
 ---
 
 ## Recruitment 🎯   
 
 ### Recruitment approach (REVIEW)
-Our intended audience is Veterans. We are looking at sample of the general population, who have not filled out the 10-10EZ in the last 6 months, so that we avoid too much familiarity with the health enrollment form structure.   
+Our intended audience is Veterans and we will partner with Perigean for recruitment. All efforts will be made to recruit a diverse sample, with participants backgrounds ranging across age, abilities, and ethnicities. Ideally, participants will not have filled out the 10-10EZ in the last 6 months, so that we avoid too much familiarity with the health enrollment form structure.      
 
 ### List the ideal completed sessions and total number and type (Veterans, caregivers, etc.) of participants for this study:   
 - Ideal completed sessions: 15 - 20
@@ -152,6 +153,11 @@ Our intended audience is Veterans. We are looking at sample of the general popul
 - Mix of **tech comfort levels**
 - Users with/without current **VA benefits**
 
+### Screening questions   
+1. Have you completed the 10-10EZ form in order to apply for VA health care in the last 6 months?
+   a. Yes (exclude)
+   b. No
+
 > _Note: Accessibility testing is out of scope for this study but planned for future rounds._
 
 ---
@@ -165,11 +171,11 @@ Our intended audience is Veterans. We are looking at sample of the general popul
 - `Pilot participant name:` **[Enter name]**
 - `Date and time of pilot session:` **[Enter time]** 
 
-### Research sessions
-- `Planned dates of research:` **[Enter dates MM/DD-MM/DD]**
+### Research sessions (Tentative)
+- **Session will be open: 06/23-06/30**
 
 ### Length of sessions
-- We estimate each participant will need XX minutes to complete both of the flows.
+- We estimate each participant will need 45 minutes to complete both of the flows.
 
 ### Availability
 As these sessions are unmoderated, Veterans can complete them on their own time. We would like the final session to be completed by XX/XX/XXXX when the study closes.
