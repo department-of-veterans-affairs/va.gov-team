@@ -176,7 +176,7 @@ Our intended audience is Veterans and we will partner with Perigean for recruitm
 - We estimate each participant will need 45 minutes to complete both of the flows.
 
 ### Availability
-As these sessions are unmoderated, Veterans can complete them on their own time. We would like the final session to be completed by XX/XX/XXXX when the study closes.
+As these sessions are unmoderated, Veterans can complete them on their own time. We would like the final session to be completed by 06/30/2025 when the study closes.
 
 ---
 
