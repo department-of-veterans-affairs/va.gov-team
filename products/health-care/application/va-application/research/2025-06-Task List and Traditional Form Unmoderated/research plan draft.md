@@ -21,10 +21,9 @@ This product is situated within the authenticated and unauthenticated pathways o
 
 The 10-10EZ form is an existing and critical tool for Veterans. This research explores a significant iteration on its user interface pattern, moving from a traditional sequential flow to a task list/choose-your-own-adventure approach. Veterans will likely have some familiarity with the concept of filling out forms online, but this specific pattern may be new to them in the context of VA.gov.
 
-### Product Brief (TBD - Need to add link)
+### Product Brief
 
-[Link to product brief](#) <!-- Please insert actual link when available -->
-
+[Link to product brief](products/health-care/application/va-application/Choose-your-own-adventure/Choose-your-own-adventure - Initiative Brief.md)
 </details>
 
 ---
@@ -44,8 +43,7 @@ The 10-10EZ form is an existing and critical tool for Veterans. This research ex
 
 ### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
 
-<details><summary>This new pattern currently fits into the following stages of the Veteran journey: Getting Out, Starting Up (Attending to health needs - Moment that Matters), and Taking Care of Myself.	
-</details>
+This new pattern currently fits into the following stages of the Veteran journey: Getting Out, Starting Up (Attending to health needs - Moment that Matters), and Taking Care of Myself.	
 
 ---
 
