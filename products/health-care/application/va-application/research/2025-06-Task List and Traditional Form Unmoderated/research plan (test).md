@@ -4,7 +4,7 @@
 
 ---
 
-## Background 
+## Background 🏗️
 
 <details>
 <summary>Briefly describe the background of your product.</summary>
@@ -29,7 +29,7 @@ The 10-10EZ form is an existing and critical tool for Veterans. This research ex
 
 ---
 
-## OCTO-DE Priorities
+## OCTO-DE Priorities (TBD)
 
 <details>
 <summary>Which OCTO priorities does this research support?</summary>
@@ -52,9 +52,27 @@ The 10-10EZ form is an existing and critical tool for Veterans. This research ex
 
 </details>
 
+### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
+
+<details><summary>Where does your product fit into the Veteran journey? (TBD)
+Are there moments that matter?</summary>
+	
+- `Joining`
+- `Serving`
+- `Getting Out`
+- `Starting Up`
+- `Taking Care of Myself`
+- `Reinventing Myself`
+- `Putting Down Roots`
+- `Retiring`
+- `Aging`
+- `Dying`
+
+</details>
+
 ---
 
-## Research Goals 
+## Research Goals 🥅
 
 This study aims to evaluate two potential form patterns—**"Orange" task list** and **"Green" traditional flow**—for the 10-10EZ health care application.
 
@@ -65,6 +83,15 @@ This study aims to evaluate two potential form patterns—**"Orange" task list**
 - **Identify High-Level Points of Confusion:** Spot any early usability issues in the form structure and navigation.
 - **Assess Initial Preference:** Identify which pattern Veterans prefer and why.
 - **Gather Initial Qualitative Feedback:** Collect qualitative insights on both patterns' structure and clarity.
+
+### Outcome
+`How will this research advance your product to the next phase in the design process? What will you do with your learnings?`
+
+---
+
+**[Enter outcome here]** 
+
+---
 
 > _Note: This study will not cover full form completion, detailed field usability, or accessibility testing._
 
@@ -80,6 +107,20 @@ This study aims to evaluate two potential form patterns—**"Orange" task list**
 6. What are their overall impressions and satisfaction levels with both designs?
 
 > _Note: Accessibility and detailed usability questions will be addressed in future studies._
+
+### Hypotheses (TBD)   
+
+`What do you intend to learn and measure from this study?` 
+
+`What do you already know about this problem space?`
+ 
+`What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)`
+  
+`Write a generalized statement that combines what you know + what you think will happen during the study.`   
+
+---
+
+**[Enter hypotheses here]** 
 
 ---
 
@@ -100,9 +141,31 @@ Participants will be shown limited-functionality Figma prototypes and asked to p
 - Reduces order bias via counterbalancing.
 - Optimal Workshop is well-suited for this type of interaction and feedback capture.
 
+### Location
+This study will be remote and unmoderated, using Optimal Workshop.   
+
+- [X] **Remote**
+- [ ] **In-person**
+      
+## Research materials 📔 (TBD)
+Please see below for links and details on research materials.
+
+**For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html)**
+- [Link to email with instructions](url goes here)
+- [Link to prototype or OptimalSort session for group A](url goes here)
+- [Link to prototype or OptimalSort session for group B](url goes here)
+
 ---
 
-## Participants and Recruitment 
+## Recruitment 🎯   
+
+### Recruitment approach (REVIEW)
+Our intended audience is Veterans. We are looking at sample of the general population, who have not filled out the 10-10EZ in the last 6 months, so that we avoid too much familiarity with the health enrollment form structure.   
+
+### List the ideal completed sessions and total number and type (Veterans, caregivers, etc.) of participants for this study:   
+- Ideal completed sessions: 15 - 20
+- Total participants: 20 - 26
+- All participants will be Veterans   
 
 **Target:** 20–25 Veterans (10–13 per cohort)  
 **Tool:** Perigean  
@@ -124,57 +187,41 @@ Participants will be shown limited-functionality Figma prototypes and asked to p
 
 ---
 
-## Timeline 
+## Timeline  🗓️ (TBD)   
 
-- **Prototype finalization:** TBD
-- **Study launch:** TBD
-- **Data collection complete:** TBD
-- **Synthesis complete:** TBD
-- **Stakeholder readout:** TBD
+### Optional Kick-off Call with Perigean
+
+- `Suggested dates and times:` **[Enter dates and times MM/DD HH:MM]**
+- **Pilot Session** 
+- `Pilot participant name:` **[Enter name]**
+- `Date and time of pilot session:` **[Enter time]** 
+
+### Research sessions
+- `Planned dates of research:` **[Enter dates MM/DD-MM/DD]**
+
+### Length of sessions
+- We estimate each participant will need XX minutes to complete both of the flows.
+
+### Availability
+As these sessions are unmoderated, Veterans can complete them on their own time. We would like the final session to be completed by XX/XX/XXXX when the study closes.
 
 ---
 
 ## Team & Roles
 
-- **Lead UX Researcher:** TBD  
-- **Designer:** TBD  
-- **Recruitment support:** Perigean  
-- **Stakeholders:** TBD
-
+- `Moderator:` **N/A - Unmoderated**	
+- `Research guide writing and task development (usually but not always same as moderator):` **Jessica Stump**
+- `Secondary researcher:` **Liza McRuer**
+- `Participant recruiting & screening:`	**[Enter full name]**	
+- `Project point of contact:` **Jessica Stump**		
+- `Accessibility specialist (for sessions where support for assistive technology may be needed):` **N/A - Accessibility will be tested in a later study**	
+- `Note-takers:` **N/A - Unmoderated**	
+- `Observers: N/A - Unmoderated
 ---
 
-## Success Metrics (TBD)
-
-_Examples to consider:_
-
-- Clear directional preference between patterns
-- >X% of participants successfully complete initial navigation
-- >Y% find at least one version intuitive and easy to use
-
----
-
-## Risks & Mitigations  (TBD)
-
-| Risk | Mitigation |
-|------|------------|
-| Limited fidelity may confuse users | Explain prototype limitations clearly |
-| Sample too small for confidence | Aim for diverse representation across segments |
-
----
-
-## Data Analysis Plan (TBD)
-
-- Export and analyze **clickstream data** from Optimal Workshop
-- **Thematic coding** of qualitative feedback (e.g., in Dovetail or similar tool)
-- Compare navigation effectiveness and preference across cohorts
-
----
-
-## Prototype Links (TBD)
-
-- [Orange Prototype – Task List](#)
-- [Green Prototype – Traditional Flow](#)
-
+## Approvals ✅
+- `Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]`
+- `Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]`
 ---
 
 
