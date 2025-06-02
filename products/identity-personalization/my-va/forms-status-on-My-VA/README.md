@@ -1,6 +1,6 @@
 # Project outline: Forms Status on My VA MVP
 
-**Last updated: October 29, 2024 - updated key dates, added screenshot**
+**Last updated: June 2, 2025 - updated links for figma, added launch date range for pdf support**
 
 This initative is a collabortion between the Authenticated Experience My VA team and the Veteran Facing Forms team.
 
@@ -120,9 +120,7 @@ The primary goal of this MVP is to reduce silent submission failures in the form
 ## Key deliverables
 
 - [Technical discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/forms-status-on-My-VA/technical-discovery.md)
-
-- Usability study artifacts and findings (TK)
-- Figma designs
+- [Figma designs /](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2049-36392) [user flow](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=0-7641&p=f&t=o3kG1zB7BNF9SzFu-0)
   
 
 ### Key Dates
@@ -137,6 +135,7 @@ The primary goal of this MVP is to reduce silent submission failures in the form
 - October 10, 2024: internal UAT
 - October 17, 2024: Begin phased launch (25%)
 - October 21, 2024: Launch to 100%
+- June 2025: Enhance with PDF download capability 
    
 ## Screenshots
 
