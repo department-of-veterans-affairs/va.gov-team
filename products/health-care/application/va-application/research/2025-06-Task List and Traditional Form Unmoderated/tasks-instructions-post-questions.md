@@ -1,6 +1,6 @@
 ### Convo Guide / Task Instructions & Post-Questions
 
-**Introductory Text for Participants (Common to both cohorts):**
+**Introductory Text for Participants in Optimal Workshop (Common to both cohorts):**
 
 "Thank you for participating in this study. We are exploring different ways to improve the online application process for VA health care on VA.gov. Today, we'd like you to imagine you are a Veteran applying for health care benefits using a new design concept. There are no right or wrong answers, and we are not testing your abilities. We are testing the designs.
 
