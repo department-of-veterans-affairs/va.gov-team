@@ -37,18 +37,18 @@ The 10-10EZ form is an existing and critical tool for Veterans. This research ex
 ### Objective 1:
 **VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.**
 
-- **Key Result 1:** Improve satisfaction with our web and mobile products by 5 points.
-- **Key Result 2:** Reduce total time Veterans spend waiting for a response from our digital experiences by 50%, toward a goal of less than 4 seconds per transaction.
+- **Key Result 1:** TBD
+- **Key Result 2:** TBD
 
 ### Objective 2:
 **Veterans and their families can apply for, track, and manage their benefits and services in one centralized place.**
 
-- **Key Result 1:** Digital experiences allow Veterans to complete their transactions and get their questions answered without needing to contact VA.
+- **Key Result 1:** TBD
 
 ### Objective 3:
 **Veterans and their families can easily find the information they need to make informed decisions about their benefits and services.**
 
-- **Key Result 1:** Provide consistent, clear, and trustworthy information on VA.gov.
+- **Key Result 1:** TBD
 
 </details>
 
