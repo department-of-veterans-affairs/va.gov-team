@@ -37,61 +37,32 @@ The 10-10EZ form is an existing and critical tool for Veterans. This research ex
 ### Objective 1:
 **VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.**
 
-- **Key Result 1:** TBD
-- **Key Result 2:** TBD
-
-### Objective 2:
-**Veterans and their families can apply for, track, and manage their benefits and services in one centralized place.**
-
-- **Key Result 1:** TBD
-
-### Objective 3:
-**Veterans and their families can easily find the information they need to make informed decisions about their benefits and services.**
-
-- **Key Result 1:** TBD
+- **Key Result 1:** Improve satisfaction with our web and mobile products by 5 points.
+- **Key Result 2:** Key Result 2: We have reduced the total time Veterans spend waiting for a response from our digital experiences by 50%, towards a goal of less than 4 seconds per transaction.
 
 </details>
 
 ### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
 
-<details><summary>Where does your product fit into the Veteran journey? (TBD)
-Are there moments that matter?</summary>
-	
-- `Joining`
-- `Serving`
-- `Getting Out`
-- `Starting Up`
-- `Taking Care of Myself`
-- `Reinventing Myself`
-- `Putting Down Roots`
-- `Retiring`
-- `Aging`
-- `Dying`
-
+<details><summary>This new pattern currently fits into the following stages of the Veteran journey: Getting Out, Starting Up (Attending to health needs - Moment that Matters), and Taking Care of Myself.	
 </details>
 
 ---
 
 ## Research Goals 🥅
 
-This study aims to evaluate two potential form patterns—**"Orange" task list** and **"Green" traditional flow**—for the 10-10EZ health care application.
+This study aims to evaluate two potential form patterns—**"Orange" task list** and **"Green" traditional flow**—for the 10-10EZ health care application to determine if there is potential to improve the form flow with a non-linear navigation.
 
 ### Specific Goals:
 
-- **Gauge Veteran Interest:** Understand Veterans' initial reactions and potential interest in both patterns.
-- **Evaluate Navigation & Perceived Intuitiveness:** Determine how Veterans perceive ease of locating and initiating form sections.
-- **Identify High-Level Points of Confusion:** Spot any early usability issues in the form structure and navigation.
+- **Gauge Veteran Interest:** Understand Veterans' initial reactions to in both patterns, in a counter-balanced study, where each cohort will interact with both prototypes.
+- **Evaluate Navigation & Perceived Intuitiveness:** Determine how Veterans perceive ease of locating and initiating form sections in both prototypes.
+- **Identify High-Level Points of Confusion:** Spot any early usability issues in the task list structure and navigation.
 - **Assess Initial Preference:** Identify which pattern Veterans prefer and why.
-- **Gather Initial Qualitative Feedback:** Collect qualitative insights on both patterns' structure and clarity.
+- **Gather Initial Qualitative Feedback:** Collect qualitative insights on both patterns' structure and clarity, with the focus on the non-linear pattern compared to the existing form.
 
 ### Outcome
-`How will this research advance your product to the next phase in the design process? What will you do with your learnings?`
-
----
-
-**[Enter outcome here]** 
-
----
+This research will help us determine if there is an opportunity to further investigate and create a non-linear navigation on forms. This study is primarily early discovery, so that we can gauge interest and useage, before investing heavily into the creation and development of a new form navigation component.
 
 > _Note: This study will not cover full form completion, detailed field usability, or accessibility testing._
 
