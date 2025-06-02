@@ -6,13 +6,13 @@ Attendees:
 - Alexandria Parker
 - Alex Seelig
 - Amanda Scully
-- April Sims
+- April Mims
 - Stephen Ward
 
 ### Notes
 
 * Automating outbound?
-    * Stephen is looking into the work already done so far (with April Sims?)
+    * Stephen is looking into the work already done so far (with April Mims?)
         * PPT decks
             * Outbound campaign for apps missing data (this would be pending)
                 * Current process - 8, 30, 310 days roster to outbound calls system (autodialer) connects staff & veteran to review over the phone
