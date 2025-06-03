@@ -3,7 +3,14 @@
 
 **Product/Feature:** Secure messaging tool (Phase 0)
 
-**Background/Context:** In this first phase, we are migrating a modernized secure messaging to VA.gov. It will migrate as a standalone tool but will eventually be part of the My Health portal in late 2023. 
+**Background/Context:** 
+* 2025 - Remainder of year will be spent focusing on a pilot that integrates the OH/Cerner EHR into the front-end. 
+* 2025 Milestone 2: June 4, 2025 - Remaining 3 major tools shut off on MHV Classic: SM, MR, Pharmacy. Also self-entered data, Account Activity Logs, Mental health resources, and many resources were also sunset on Classic. 
+* 2025 Milestone 1: March 12, 2025 - Appointments has been shut off on MHV Classic. All of VA.gov now points to the VA.gov version of tools
+* 2024 Phase 2: Medical Records has now launched on Va.gov & all tools have reached Phase 2 as of December 20, 2024. The experiences are also still available on MHV Classic and VA.gov points back to classic versions of tools at this time. 
+* 2024 Phase 1.5: Secondary navigation released and all tools are connected to one another on VA.gov - however the rest of Va.gov does not point to them yet. And Medical Records is still not available on VA.gov
+* 2023 Phase 1: Launched to all users on VA.gov and is accessible via a link in a "try me" banner on Classic, but is not connected to the overall VA.gov experience or to the other tools - they will remain "islands" until Phase 2
+* 2023 Phase 0: We are migrating a modernized secure messaging to VA.gov. It will migrate as a standalone tool that is only accessible to a very small group of known test users, but will eventually be part of the My Health portal.
 
 **IA Request:** https://github.com/department-of-veterans-affairs/va.gov-team/issues/42428
 
@@ -11,9 +18,11 @@
 
 **Last update:** 
 - 06/2025 - Sara - MHV Classic version of SM is being sunset on 6/4/2025 - users will be redirected to SM on VA.gov.
-- 05/2025 - Sara - Beginning to plan for the integration of OH/Cerner users in the new version of the tool. The /new-message flow will need to be updated to accommodate an extra screen in order to step users through a flow based on how triage group data are organized in that EHR system. New features also include surfacing recent recipients and updated UI for editing contact lists (VistA only). 
+- 05/2025 - Sara - Beginning to plan for the integration of OH/Cerner users in the new version of the tool. The /new-message flow will need to be updated to accommodate an extra screen in order to step users through a flow based on how triage group data are organized in that EHR system. New features also include surfacing recent recipients and updated UI for editing contact lists (VistA only).
 - 03/2025 - Sara - Links on VA.gov connect all users to the new tool (no longer route to MHV Classic version)
-- 06/2024 - Sara - Integrating secure messages into the full MHV on VA.gov portal, with secondary navigation to connect all tools. 
+- 12/20/2024 - Sara - All tools in Phase 2 (open to all users - no longer in pilot phase) 
+- 06/2024 - Sara - Integrating secure messages into the full MHV on VA.gov portal, with secondary navigation to connect all tools.
+- 10/2023 - SM is in Phase 0
 - 12/19/2022 - Joni completed documentation
 - 12/28/2022 - Mikki - added link to phased roll-out Mural, updated image of visual site map to represent full launch IA, simplified URL/breadcrumb info, other minor copy updates
 - 1/11/2023 - Mikki - updated sitemap to represent core pages in structure, dynamic views, and sub-task flows;  updated breadcrumbs for My folders and Advanced Search pages
