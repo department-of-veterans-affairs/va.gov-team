@@ -12,6 +12,7 @@ LOA1 and LOA3 (identify verified) users can see all use cases.
 
 - [User has a benefit application or form draft saved but not yet submitted](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/benefit-applications-and-forms-use-cases/user-has-applications-drafts.md#how-to-reproduce)
 - [User has submitted a benefit application and/or form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/benefit-applications-and-forms-use-cases/user-has-applications-and-or-forms.md#how-to-reproduce)
+- [User has no benefit applications, forms, or drafts saved](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/benefit-applications-and-forms-use-cases/user-has-no-applications-forms-or-drafts.md#how-to-reproduce)
 
 </details>
 
@@ -28,17 +29,18 @@ LOA1 and LOA3 (identify verified) users can see all use cases.
 
 <details><summary>User does not have any drafts or completed forms</summary>
 
-- **Use case:** If a logged in user does not have in progress or recently completed form or application they see... TBD
+- **Use case:** When a user does not have any saved benefit application drafts, they will see ... TBD.
 - **Status code:** TBD
-- **Content:** TBD
+- **Content:**
+
+You have no benefit application drafts to show.
+
 - **Format:** TBD
 - [Link to designs]
 - [Link to code]
 
 </details>
 
-
-### Drafts
 
 <details><summary>User has a benefit application or form draft saved but not yet submitted</summary>
 
@@ -71,23 +73,11 @@ LOA1 and LOA3 (identify verified) users can see all use cases.
 
 </details>
 
-### Submitted applications or forms
-
-- [User has no benefit applications and/or forms being tracked, or drafts saved](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/benefit-applications-and-forms-use-cases/user-has-no-applications-forms-or-drafts.md)
 
 ## Edge cases:
 
 ### System:
 The data for saved applications is gathered from the same API as the main user call. Therefore, there are no errors specific to just this section. If the main user call fails, the entire My VA page displays an error (MPI error).
-
-## Flow diagrams:
-- [User flow for benefit applications and forms (including drafts) on My VA](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A7642&mode=design&t=CREOF8xG3jKa75nz-1)
-
-## Overview of Submitted Forms:
-
-- For all of these use cases, the user must be LOA3 (identity verified). All LOA3 (and LOA1) users will see this section on My VA.
-- This feature shows a card for any benefit application or form that a user has completed and submitted __that can be tracked and displayed on My VA__, or text stating that the user has no benefit applications or forms (if there are no drafts as well).
-- Submitted form cards have three different states: submission in progress, received, and action needed
 
 ---
 
