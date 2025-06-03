@@ -4,7 +4,7 @@
 
 For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the user will see the [LOA1 experience](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/LOA1-use-cases).
 
-- PINEAPPLE User flow
+- User flow
 - Figma files
 - Test Rail QA
 
