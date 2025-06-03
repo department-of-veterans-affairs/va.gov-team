@@ -17,8 +17,7 @@ Please review the Self-service Product Guide Template [link](https://github.com/
 
 
 ## Description
-*Please provide the name(s) of your product and a high-level description of your product.*
-<br>
+*Please provide the name(s) of your product and a high-level description of your product.*  
 *Note: Include [your team's Github label], e.g., "BAH-526"*
 
 ### Launch Date
