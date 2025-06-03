@@ -442,7 +442,8 @@
 - Angela: 1/24
 
 ---
-## 📆 Sprint 10 (Dec 18 - Dec 31) & Sprint 11(Jan 1 - Jan 14) - Double Sprint planning due to EOY holidays
+## 📆 Sprint 10 (Dec 18 - Dec 31) & Sprint 11(Jan 1 - Jan 14)
+- Double Sprint planning due to EOY holidays
 
 ### 10-10EZ
 
