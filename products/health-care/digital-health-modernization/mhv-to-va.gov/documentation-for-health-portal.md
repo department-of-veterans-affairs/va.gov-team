@@ -151,13 +151,123 @@ You can learn more about getting started with research at VA here: [Research at 
 
 ## <a name="engineering"></a>Engineering resources<be>
 
-- [This directory contains engineering info that applies to the entire MHV to VA.gov project](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/engineering)
+This section provides key resources and documentation for engineers working on the My HealtheVet (MHV) to VA.gov transition. It includes links to developer documents, repositories, onboarding, and other documentation for the applications and shared functions our team is responsible for.
 
-**Relevant murals**
+### Plateform Developer Resources
 
-- [My HealtheVet on VA.gov - API logic diagram](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717177396025/367057c4a9219404c3b7080e71210082b3c65771?sender=u24af215c7d9bf806b8545488) 
+- [Developer documentation home](https://depo-platform-documentation.scrollhelp.site/developer-docs/)
+- [Frontend developer documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/frontend-developer-documentation)
+- [Backend developer documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/backend-developer-documentation)
+- [Onboarding guide](https://depo-platform-documentation.scrollhelp.site/developer-docs/onboarding)
 
-For more documentation and [resources for developers, go here](https://design.va.gov/about/developers/) 
+### Github Repositories
+
+- [vets-website (frontend)](https://github.com/department-of-veterans-affairs/vets-website)
+- [vets-api (backend)](https://github.com/department-of-veterans-affairs/vets-api)
+
+### Murals diagram of MHV Backend logic
+
+- [My HealtheVet on VA.gov - API logic diagram](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717177396025/367057c4a9219404c3b7080e71210082b3c65771?sender=u24af215c7d9bf806b8545488)
+
+### Engineering Documentation
+
+This directory contains engineering info that applies to the entire [MHV to VA.gov project](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/engineering).
+
+Within this directory, you will find:
+
+- **MHV landing page flowchart**
+  [landingpage-flowchart-2025-6-3.pdf](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/engineering/landingpage-flowchart-2025-6-3.pdf)
+  Diagram of the My HealtheVet landing page logic.
+
+- **Authorization and Access Control:**
+  [mhv-authorization.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/engineering/mhv-authorization.md)
+  Details on how user permissions and access are managed across MHV features.
+
+- **Home Page Alerts:**
+  [mhv-home-alerts.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/engineering/mhv-home-alerts.md)
+  Documentation on alert messages that are surfaced to users on the My HealtheVet landing page.
+
+- **Access and Visibility Graphs:**
+  [mhv-access-visibility-graphs.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/engineering/mhv-access-visibility-graphs.md)
+  Visualizations and logic for determining what features are visible to which users.
+
+- **Improvement Recommendations:**
+  [improvement-recommendations-2025-05.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/engineering/improvement-recommendations-2025-05.md)
+  Recommended technical improvements for MHV applications to enhance performance and maintainability, based on findings from evaluating a unified My HealtheVet SPA approach.
+
+### Application and Shared Function Documentation
+
+Below are the primary applications and shared functions our team is responsible for, with links to their code and documentation:
+
+#### My HealtheVet Landing Page
+
+- **Path:** `vets-website/src/applications/mhv-landing-page`
+
+- **Description:** Main entry point for the My HealtheVet experience on VA.gov, providing Veterans with access to health tools, personalized content, and navigation to health-related features.
+
+- **Key Documentation:** [README](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/mhv-landing-page/README.md)
+
+#### MHV Downtime Shared Function
+
+- **Path:** `vets-website/src/platform/mhv/downtime`
+
+- **Description:** Shared logic and components for displaying downtime notifications and handling service outages across MHV-related applications.
+
+- **Key Documentation:** [README](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/platform/mhv/downtime/README.md)
+
+#### MHV Secondary Navigation Shared Function
+
+- **Path:** `vets-website/src/platform/mhv/secondary-nav`
+
+- **Description:** Reusable navigation component for health tools, providing consistent secondary navigation across MHV applications on VA.gov.
+
+- **Key Documentation:** [README](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/platform/mhv/secondary-nav/README.md)
+
+#### MHV Page Not Found Component
+
+- **Path:** `vets-website/src/platform/mhv/components/MhvPageNotFound.jsx`
+
+- **Description:** Reusable component that displays a user-friendly "Page Not Found" message for invalid or unavailable routes within MHV-related applications on VA.gov.
+
+- **Notes:** Ensures consistent error handling and user experience across all MHV applications.
+
+#### MHV Registered User Guard Component
+
+- **Path:** `vets-website/src/platform/mhv/components/MhvRegisteredUserGuard.jsx`
+
+- **Description:** Higher-order component that restricts access to certain MHV applications, ensuring only identity-verified and registered My HealtheVet users can view protected health tools content.
+
+- **Notes:** Implements route guard logic to ensure users meet a base level of authorization—specifically, that their account is identity-verified and they are a registered patient—before granting access to health tools. This includes checking the MHV account state for tools that require this level of access.
+
+#### MHV Supply Reordering Application
+
+- **Path:** `vets-website/src/applications/mhv-supply-reordering`
+
+- **Description:** Application for Veterans to reorder medical supplies through the My HealtheVet portal on VA.gov. When completed
+
+- **Key Documentation:** [README](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/mhv-supply-reordering/README.md), [ROES/DALC/MDOT API](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/health-care/mdot-roes-dalc-supply-reordering)
+
+- **Notes:** It will replace the classic Health Care Supply Reordering Application. This application supports integration with future supply ordering enhancements.
+
+#### Classic Health Care Supply Reordering Application
+
+- **Path:** `vets-website/src/applications/health-care-supply-reordering`
+
+- **Description:** Application for ordering health care supplies, supporting workflows for Veterans outside of the MHV context.
+
+- **Key Documentation:** [README](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/health-care-supply-reordering/README.md)
+
+- **Notes:** It will be replaced by the above MHV Supply Reordering Application
+
+### Analytics
+
+- [DataDog MHV on VA.gov Dashboard](https://vagov.ddog-gov.com/dashboard/e4a-257-6wa/mhv-on-vagov?fromUser=false&refresh_mode=sliding&from_ts=1748301300955&to_ts=1748906100955&live=true)
+
+- [DataDog MHV-on-VA.gov RUM Dashboard](https://vagov.ddog-gov.com/dashboard/hzz-d8e-79j/mhv-on-vagov-integration-rum?fromUser=false&refresh_mode=sliding&from_ts=1748902543797&to_ts=1748906143797&live=true)
+
+- [DataDog Medical supply reordering Dashboard](https://vagov.ddog-gov.com/dashboard/nfr-cy2-8vq/medical-supply-reordering?fromUser=false&refresh_mode=sliding&from_ts=1748301126073&to_ts=1748905926073&live=true)
+
+- [GA4 Dashboards](https://analytics.google.com/analytics/web/#/p419143770/reports/intelligenthome)
 
 ## <a name="qa"></a>Quality Assurance<be>
 

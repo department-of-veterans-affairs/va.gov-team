@@ -1,23 +1,22 @@
 # MHV Home -- Alerts
 
 ## Current Alerts
+✅ | Verified credentials = LOA3 and No VA patient facility registration | Non-Patient Veterans Page
+
 
 Implemented | Conditions | View
 --- | --- | ---
 ✅ | MHV basic credentials (LOA1) | ![](./assets/mhv-alert--mhv-basic-account.png)
-✅ | ID.me/Login.gov credentials < LOA3 | ![](./assets/mhv-alert--verify-and-register.png)
-✅ | No associated MHV account | ![](./assets/mhv-alert--mhv-registration.png)
-✅ | No VA patient facility registration | ![](./assets/mhv-alert--unregistered.png)
-❌ | Identity not verified | ![](./assets/mhv-alert--verify-identity-alert.png)
-
+✅ | ID.me: credentials < LOA3 | ![](./assets/mhv-alert--verify-and-register-idme.png)
+✅ | Login.gov: credentials < LOA3 | ![](./assets/mhv-alert--verify-and-register-logingov.png)
+✅ | DS_Logon: credentials < LOA3 and No VA patient facility registration | ![](./assets/mhv-alert--unverified.png)
+✅ | No associated MHV account API Errors | ![](./assets/mhv-alert--mhv-account-api-actionable-error.png) ![](./assets/mhv-alert--mhv-account-api-error.png)
 
 ## Authentication Providers/Credential Service Providers (CSPs)
 
 - ID.me
 - Login.gov
-- My HealtheVet National Portal API
 - DS Logon
-
 
 ## Alert flow
 
@@ -29,16 +28,16 @@ alert to the user.
 
 ```
 if MHV basic creds and not identity-verified then
-  render "Sign in with a different account"
+  render "You need to sign in with a different account"
 
 else if ID.me/Login.gov creds and not identity-verified then
-  render "Verify and register"
+  render "Verify your identity"
 
-else if no facilities/not a VA patient then
-  render "You don't have access"
+else if not identity-verified and no facilities/not a VA patient then
+  render "Our records don't show any VA health data for you right now"
 
 else if no associated MHV account
-  render "Register your account w/ MHV"
+  render "Error code xxx: Contact the My HealtheVet help desk" / "You can't access messages, medications, or medical records right now"
 
 else
   no alert
