@@ -11,6 +11,7 @@ LOA1 and LOA3 (identify verified) users can see all use cases.
 <details><summary>Archive | How to reproduce in staging</summary>
 
 - [User has a benefit application or form draft saved but not yet submitted](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/benefit-applications-and-forms-use-cases/user-has-applications-drafts.md#how-to-reproduce)
+- [User has submitted a benefit application and/or form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/benefit-applications-and-forms-use-cases/user-has-applications-and-or-forms.md#how-to-reproduce)
 
 </details>
 
