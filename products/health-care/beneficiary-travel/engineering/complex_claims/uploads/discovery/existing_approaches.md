@@ -33,7 +33,7 @@ Cons:
 
 ## Recommendation
 
-We'll need to at least use the Faraday::Mutlipart middleware, but we recommend using CarrierWave as well for the initial upload. The benefits of this are:
+We'll need to at least use the Faraday::Mutlipart middleware to ultimately get the file to the Travel Pay API, but we recommend using CarrierWave as well for the initial upload. The benefits of this are:
 
 * Gives us some fault-tolerance in the form of retries, etc.
 * Allows us to be flexible in our approach (e.g. async or sync)
