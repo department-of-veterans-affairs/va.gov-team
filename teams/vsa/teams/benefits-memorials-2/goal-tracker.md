@@ -151,7 +151,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 |UX: Prepare the presention & present the R&S/Digital Dispute study readout | QP3 QP4 |--|--|--|
 |UX: Complete the Monthly May Medallia report | QPX |--|--|--|
 |UX: Make updates to the designs based off the Midpoint review feedback for 1TPP (One Thing Per Page) | QP5 |--|--|--|
-|ENG: Complete the DD (Digital Dispute) Front End and provide to UX for implimentation review| QP4 |--|--|--|
+|ENG: Complete the DD (Digital Dispute) Front End work and provide to UX for implimentation review| QP4 |--|--|--|
 |ENG: Front End complete the functionality of sending the Back End PDF’s for DD submissions| QP4- |--|--|--|
 |ENG: Back End complete the functionality of accepting the DD PDF submissions to be sent for review | QP4 |--|--|--|
 |ENG: Complete PSIRR (Privacy, Security, Infrastructure readiness review) Collab Cycle stage for DD | QP4 |--|--|--|
