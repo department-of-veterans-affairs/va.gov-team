@@ -41,5 +41,5 @@ We'll need to at least use the Faraday::Mutlipart middleware to ultimately get t
 
 ## Approach
 
-* [Infrastructure/Architecture]()
-* [Sequence diagram]()
+* [Infrastructure/Architecture](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/engineering/complex_claims/uploads/c4)
+* [Sequence diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/engineering/complex_claims/uploads/sequence_diagrams.md)
