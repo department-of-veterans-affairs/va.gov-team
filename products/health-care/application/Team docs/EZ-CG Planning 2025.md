@@ -10,6 +10,7 @@
 
 #### Obj: EZ [CYOA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103253)
 - [#109455](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109455) - [Research] Research report and Convo guide v1
+- [#108197](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108197) - [Design] Initial prototype/designs
 
 #### Obj: EZ [Improvements/BUGS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
 - [#111096](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111096) - [FE] Investigate Future Discharge Date event spike
@@ -29,7 +30,7 @@
 ##
 ### Team PTO
 - Matt: 6/4, 6/9
-- ...
+- Mitch: 6/5
 ---
 ## 📆 Sprint 21 (May 21 - June 3)
 
