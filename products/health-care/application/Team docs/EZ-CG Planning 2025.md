@@ -9,19 +9,22 @@
 - [#111103](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111103) - [BE] Tech exploration of BDS API
 
 #### Obj: EZ [CYOA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103253)
-- #tbd
+- [#109455](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109455) - [Research] Research report and Convo guide v1
 
 #### Obj: EZ [Improvements/BUGS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
 - [#111096](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111096) - [FE] Investigate Future Discharge Date event spike
+- [#103446](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103446) - [BE] In-progress Notification failures investigation
 
 #### Obj: EZ [Form Statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95313)
-- #tbd
+- PM working on this - In progress 
 
 ## 
 ### 10-10CG
 
 #### Obj: CG [Improvements/BUGs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40165)
-- #tbd
+- [#102073](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102073) - [FE] Update signature page
+- [#99053](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99053) - [FE] va-statement-of-truth web component
+- [#99952](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99952) - [Design] Update content on Caregivers' contact info pages
 
 ##
 ### Team PTO
