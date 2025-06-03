@@ -13,6 +13,9 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 - [Does not have health care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/health-care-use-cases/no-health-care.md#how-to-reproduce)
 - [Health care appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/health-care-use-cases/health-care-appointments.md#how-to-reproduce)
 - [Health care messages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/health-care-use-cases/health-care-messages.md#how-to-reproduce)
+- [The main user call fails and the system can’t tell if the user has VA health care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/health-care-use-cases/main-user-call-fails.md#how-to-reproduce)
+- [The appointments API is down and the system can't tell if the user has appointments scheduled but can tell they have VA health care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/health-care-use-cases/appointments-api-down.md#how-to-reproduce)
+- [The messaging API is down and we can’t tell if the user has any unread messages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/health-care-use-cases/messaging-api-down.md#how-to-reproduce)
 
 </details>
 
@@ -90,14 +93,52 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 ### Flags
 There are no flags associated with this feature.
 
-### System
-- [The main user call fails and the system can’t tell if the user has VA health care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/health-care-use-cases/main-user-call-fails.md)
-- [The appointments API is down and the system can't tell if the user has appointments scheduled but can tell they have VA health care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/health-care-use-cases/appointments-api-down.md)
-- [The messaging API is down and we can’t tell if the user has any unread messages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/health-care-use-cases/messaging-api-down.md)
+### System errors
+
+<details><summary>The main user call fails and the system can’t tell if the user has VA health care</summary>
+
+- **Use case:** If an LOA3 user logs in and the main user call fails, then we will not be able to detect if a user has VA health care or not. If this error occurs, in most cases the entire page will fail to load and the user will see a full page error.
+   - In rare cases, this error could occur and the page may still load. If this occurs, we display an error in the health care section.
+- **Status code:** TBD
+- **Content:** 
+
+**Ashley - will need to revisit this copy with CAIA**
+Header: We can't access any health care information right now.
+We're sorry. Something went wrong on our end. If you get health care through VA, you can go to My HealtheVet to access your health care information. Visit My HealtheVet
+
+- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
+- [Link to designs]
+- [Link to code]
+
+</details>
 
 
-## Flow diagrams
-- [User flow for health care on My VA](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0-7253&mode=design)
+<details><summary>The appointments API is down and the system can't tell if the user has appointments scheduled but can tell they have VA health care</summary>
+
+- **Use case:** If an LOA3 user logs in who has VA health care and there is an error with the appointments API, then we will be able to detect that they have VA health care but we will not be able to show any upcoming appointment information. If this error occurs, we display a warning alert in the Health care section.
+- **Status code:** TBD
+- **Content:**
+
+Header: We can't access your appointment information.
+We're sorry. Something went wrong on our end and we can’t access your appointment information. Please try again later or go to the appointments tool: [Schedule and manage your appointments](https://va.gov/my-health/appointments)
+
+- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
+- [Link to designs]
+- [Link to code]
+
+</details>
+
+
+<details><summary>The messaging API is down and we can’t tell if the user has any unread messages</summary>
+
+- **Use case:** If an LOA3 user logs in who has VA health care and the messaging API is down, then we will not be able to detect if a user has unread messages or not. If this error occurs, we direct the user to their inbox.
+- **Status code:** TBD
+- **Content:** TBD
+- **Format:** [Card component](https://design.va.gov/components/card)
+- [Link to designs]
+- [Link to code]
+
+</details>
 
 ---
 
