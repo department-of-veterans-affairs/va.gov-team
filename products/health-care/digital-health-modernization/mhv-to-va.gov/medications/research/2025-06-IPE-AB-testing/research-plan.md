@@ -19,8 +19,6 @@ _Work with your VA lead and product manager as needed._
 ### Objective 1: VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.
 
 - **KR1:** Improve satisfaction with our web and mobile products by 5 points.
-- **KR2:** Reduce the total time Veterans spend waiting for a response from our digital experiences by 50%, toward a goal of less than 4 seconds per transaction.
-- **KR3:** Ensure 100% of transactions are either processed correctly or notify the user of an error.
 
 ---
 
