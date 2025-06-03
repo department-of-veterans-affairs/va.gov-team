@@ -1,6 +1,4 @@
-# Research Plan for MHV on VA.gov  
-**Medications – IPE A/B Testing**  
-**June 2025**
+# Research Plan for MHV on VA.gov Medications – IPE A/B Testing June 2025
 
 ---
 
@@ -81,9 +79,9 @@ The results of the study will help determine if the current designs offer the be
 
 ## Hypotheses
 
-- **H1:** The “filter open” version enables Veterans to find medications more easily than other versions.
-- **H2:** The “filter open” version promotes more frequent use of the filter.
-- **H3:** The “filter open” version will yield:
+- **Hypothesis 1:** The “filter open” version enables Veterans to find medications more easily than other versions.
+- **Hypothesis 2:** The “filter open” version promotes more frequent use of the filter.
+- **Hypothesis 3:** The “filter open” version will yield:
   - Lower task completion times
   - Higher accuracy rates
   - Higher satisfaction scores
@@ -129,7 +127,7 @@ Remote testing via Optimal Workshop.
 
 ### Approach
 
-- Partner with **Perigean** for Veteran recruitment.
+- We will partner with **Perigean** for Veteran recruitment.
 
 ### Sample Size
 
@@ -139,7 +137,7 @@ Remote testing via Optimal Workshop.
 
 ### Age Distribution
 
-- 18–34: 18
+- 18–34: 19
 - 35–54: 47
 - 55–64: 38
 - 65–74: 74
@@ -203,5 +201,5 @@ Available time slots:
 - **Moderator:** N/A
 - **Research design & task development:** Melissa Stern, Dan Van Vleck
 - **Recruitment & screening:** Perigean
-- **Points of contact:** Dan Van Vleck, Melissa Stern, Anne Costello Kennedy
+- **Points of contact:** Dan Van Vleck, Anne Costello Kennedy
 - **Pilot testers, accessibility specialists, note-takers, observers:** N/A
