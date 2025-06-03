@@ -140,7 +140,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
  
 **_Delivery + Notes:_**
 - [X] All goals have been updated in the sprint chart
-- [ ] Any Additional details about goals **not** completed will be documented here
+- [X] Any Additional details about goals **not** completed will be documented here
   - **Goal "ENG: Complete at least 5 FE Digital Dispute tickets (66% of the remaining FE tickets for the initiative)."** Due to a change in approach mid-sprint from DMC (JSON to PDF), the scope of the tickets originally pulled into the sprint changed, causing additional ticket requirements and resulting in not all of the anticipated items being closed. These are currently in progress and expected to close early in Sprint 10.
   - **Goal ENG: Define, request and begin setup for any provided credentials from pay.gov to be added to the portal environment."** ENG requested and began the setup process; however no credentials were provided from pay.gov this sprint. The team completed their portion. However, additional work will be needed once credentials are provided.
 
@@ -151,14 +151,14 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 |UX: Prepare the presention & present the R&S/Digital Dispute study readout | QP3 QP4 |--|--|--|
 |UX: Complete the Monthly May Medallia report | QPX |--|--|--|
 |UX: Make updates to the designs based off the Midpoint review feedback for 1TPP (One Thing Per Page) | QP5 |--|--|--|
-|ENG: Complete the DD (Digital Dispute) Front End work and provide to UX for implimentation review| QP4 |--|--|--|
+|ENG: Complete the DD (Digital Dispute) PDF generation for submission functionality and review with UX to confirm design| QP4 |--|--|--|
 |ENG: Front End complete the functionality of sending the Back End PDF’s for DD submissions| QP4- |--|--|--|
 |ENG: Back End complete the functionality of accepting the DD PDF submissions to be sent for review | QP4 |--|--|--|
 |ENG: Complete PSIRR (Privacy, Security, Infrastructure readiness review) Collab Cycle stage for DD | QP4 |--|--|--|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [X] Ready to be sent for approvals (05/19/25)
- - [ ] VA PO & COR sent the Sprint Goals (05/20/25)
+ - [X] VA PO & COR sent the Sprint Goals (05/20/25)
  - [ ] VA PO approved the Sprint Goals (05//20/25)
  - [ ] VA COR approved the Sprint Goals (05/20/25)
  
