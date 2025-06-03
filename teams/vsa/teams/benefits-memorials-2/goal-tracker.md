@@ -129,7 +129,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 |UX: Begin drafting the research plan for pay.gov study. | QP6 |--|06/02/25|Completed|
 |UX: Refine Pay.gov user flows based on stakeholder feedback and tech guidelines. | QP6 |--|06/02/25|Completed|
 |ENG: Implement the ability to use international phone numbers in the portal. | N/A |--|--|--|
-|ENG: Complete at least 5 FE Digital Dispute tickets (66% of the remaining FE tickets for the initiative). | QP4 |--|--|--|
+|ENG: Complete at least 5 FE Digital Dispute tickets (66% of the remaining FE tickets for the initiative). | QP4 |--|6/3/25|Incomplete|
 |ENG: Define, request and begin setup for any provided credentials from pay.gov to be added to the portal environment. |QP6|--|--|--|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
@@ -139,8 +139,9 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
  - [X] VA COR approved the Sprint Goals (05/20/25)
  
 **_Delivery + Notes:_**
-- [ ] All goals have been updated in the sprint chart
+- [X] All goals have been updated in the sprint chart
 - [ ] Any Additional details about goals **not** completed will be documented here
+  - **Goal "ENG: Complete at least 5 FE Digital Dispute tickets (66% of the remaining FE tickets for the initiative)."** Due to a change in approach mid sprint from DMV (JSON to PDF) the scope of the tickets originally pulled into the sprint has changed causing additional ticket requirements resulting in not all of the anticipated items being closed. These are currently in progress an expected to close early in Sprint 10.
 
 ## Sprint Goals - Sprint: 10 [6/4/25 - 6/17/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
