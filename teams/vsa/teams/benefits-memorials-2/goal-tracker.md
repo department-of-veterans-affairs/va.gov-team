@@ -145,15 +145,17 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 ## Sprint Goals - Sprint: 10 [6/4/25 - 6/17/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
-|UX: | QP- |--|--|--|
-|UX: | QP- |--|--|--|
-|UX: | QP- |--|--|--|
-|ENG: | QP- |--|--|--|
-|ENG: | QP- |--|--|--|
-|ENG: | QP- |--|--|--|
+|UX: Complete the full report for R&S/Digital Dispute study | QP3 QP |--|--|--|
+|UX: Prepare the presentation for R&S/Digital Dispute study readout | QP3 QP |--|--|--|
+|UX: Complete the Monthly Medallia report | QPX |--|--|--|
+|UX: Make updates to the designs based off the Midpoint review feedback for 1TPP (One Thing Per PAge) | QP5 |--|--|--|
+|ENG: Complete the DD (Digital Dispute) Front End and provide to UX for implimentation review| QP4 |--|--|--|
+|ENG: Front End complete the functionality of sending the Back End PDF’s for DD submissions| QP4- |--|--|--|
+|ENG: Back End complete the functionality of accepting the DD PDF submissions to be sent for review | QP4 |--|--|--|
+|ENG: Complete PSIRR (Privacy, Security, Infrastructure readiness review) Collab Cycle stage for DD | QP4 |--|--|--|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
- - [ ] Ready to be sent for approvals (05/19/25)
+ - [X] Ready to be sent for approvals (05/19/25)
  - [ ] VA PO & COR sent the Sprint Goals (05/20/25)
  - [ ] VA PO approved the Sprint Goals (05//20/25)
  - [ ] VA COR approved the Sprint Goals (05/20/25)
