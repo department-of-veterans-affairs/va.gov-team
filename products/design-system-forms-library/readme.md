@@ -159,7 +159,8 @@ To accelerate the creation of accessible, consistent, and Veteran-centered digit
     
 - Engineer: Amy Leadem 
     
-- Engineer: Ryan Munsch (May 12th)
+- Engineer: Ryan Munsch
+- Engineer: Eddie Otero
     
 
 ---
