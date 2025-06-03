@@ -1,6 +1,20 @@
 # Launch metrics
 [View Ask VA Datadog dashboard](https://vagov.ddog-gov.com/dashboard/ye3-k3q-unc/ask-va-dashboard-playground?fromUser=false&refresh_mode=sliding&from_ts=1748523806804&to_ts=1748610206804&live=true)
 
+## Definitions
+- **Throughput**: Count of successful 2xx requests
+   - Filter: `payload.action` is create OR unauth_create
+- **Error Rate: Form Submissions (422, 5xx)**: Count of 4xx and 5xx errors DIVIDED BY total number of requests
+   - Filter: `payload.action` is create OR unauth_create
+- **Error Rate: Dashboard replies<br>(422, 5xx)**: Count of 4xx and 5xx errors DIVIDED BY total number of requests
+   - Filter: `payload.action` is create_reply
+- **Error Rate:<br>Authorization Related<br>(401)**: Count of 401 errors DIVIDED BY total number of requests
+   - Filter: None, include all `payload.action`
+- **Error Rate:<br>Other<br>(404)**: Count of 404 errors DIVIDED BY total number of requests
+   - Filter: None, include all `payload.action`
+- **Latency: CRM**: AVERAGE of count of 2xx requests
+   - Filter: `payload.action` is create, unauth_create, OR create_reply
+
 ## May relaunch
 |Stage|Throughput|Error Rate: Form Submissions (422, 5xx)|Error Rate: Dashboard replies<br>(422, 5xx)|Error Rate:<br>Authorization Related<br>(401)|Error Rate:<br>Other<br>(404)|Latency: CRM|
 |---|---|---|---|---|---|---|
