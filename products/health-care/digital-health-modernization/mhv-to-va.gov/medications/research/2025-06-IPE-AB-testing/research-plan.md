@@ -22,25 +22,6 @@ _Work with your VA lead and product manager as needed._
 - **KR2:** Reduce the total time Veterans spend waiting for a response from our digital experiences by 50%, toward a goal of less than 4 seconds per transaction.
 - **KR3:** Ensure 100% of transactions are either processed correctly or notify the user of an error.
 
-### Objective 2: OCTO’s platforms are the fastest, most efficient, and secure.
-
-- **KR1:** 100% of authentications use secure credentials.
-- **KR2:** Reduce error rates by 50% compared to Q4 2024 (target: <1% per endpoint).
-- **KR3:** 100% of VA employees have access to a valuable Generative AI tool.
-- **KR4:** Increase non-OCTO usage of platforms/tools by 50% (excluding mobile).
-
-### Objective 3: Empower OCTO teammates with knowledge and resources.
-
-- **KR1:** 5-point reduction in stress reporting each quarter vs. 2024.
-- **KR2:** Every portfolio identifies 2+ strategic decisions per quarter and documents them publicly.
-- **KR3:** 75%+ of team members feel confident making effective decisions.
-
-### Objective 4: Improve VA’s software delivery quality, safety, and speed.
-
-- **KR1:** Deliver 10+ learning artifacts (e.g., trainings, guides) with NPS ≥ 30.
-- **KR2:** Support resolution of 10+ significant issues/products outside the portfolio.
-- **KR3:** 5+ non-OCTO teams use SPRUCE to deliver quality software.
-
 ---
 
 ## Veteran Journey
