@@ -10,6 +10,8 @@ All apps on VA.gov that rely on any API have to go through [vets-api](https://gi
 
 This means that in order to integrate with the BDS API, we would most likely need to create a module in the `vets-api` repo, which would essentially be it's own API that handles requests to and from the BDS API. Implementing this API in `vets-api` would require work from backend engineers familiar with Ruby on Rails.
 
+The technical lift for this wouldn't be small, as there would be a lot of work sorting out the API schema and making sure the data flow between our app and BDS is consistent. Many VFS teams I've seen in the past often have dedicated backend engineers on their team that handles the API portion of the app, as the frontend and backend can be seen a two seperate apps.
+
 ## Authentication
 
 Apps on VA.gov do not need to require users to be authenticated in order to use an API from `vets-api`. An example of this can be seen with the [Find VA locations](https://www.va.gov/find-locations) and [GI Bill Comparison Tool](https://www.va.gov/education/gi-bill-comparison-tool) applications. This means we could still manage an unauthenticated experience even when integrating with the BDS API.
