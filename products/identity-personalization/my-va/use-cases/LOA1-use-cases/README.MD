@@ -6,6 +6,13 @@ A user is considered "LOA1" when they log in to VA.gov and they have not verifie
 - Figma files
 - Test Rail QA
 
+<details><summary>Archive | How to reproduce in staging</summary>
+
+- [User has no saved applications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/LOA1-use-cases/LOA1-without-saved-applications.md#how-to-reproduce)
+- [User has saved applications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/LOA1-use-cases/LOA1-with-saved-applications.md#how-to-reproduce)
+
+</details>
+
 ## Phase 1, 3.0 experience
 - When a LOA1 user signs in from the homepage, they are automatically redirected to My VA. 
 - Until they have verified their identity, they will see a prompt on My VA to verify their identity at the top of the page. 
