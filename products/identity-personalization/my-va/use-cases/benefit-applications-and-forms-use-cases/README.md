@@ -23,7 +23,7 @@ LOA1 and LOA3 (identify verified) users can see all use cases.
 
 ## Common use cases
 
-<details><summary>User does not have any drafts or completed forms/summary>
+<details><summary>User does not have any drafts or completed forms</summary>
 
 - **Use case:** If a logged in user does not have in progress or recently completed form or application they see... TBD
 - **Status code:** TBD
@@ -36,9 +36,9 @@ LOA1 and LOA3 (identify verified) users can see all use cases.
 
 ### Drafts
 
-<details><summary>User does not have an open claim or appeal, or one that has been closed in the last 60 days</summary>
+<details><summary>User has a benefit application or form draft saved but not yet submitted</summary>
 
-- **Use case:** If a logged in LOA3 user does not have an open claim or appeal or one that has been closed in the last 60 days, they will see informational text and be provided a link to manage all claims and appeals.
+- **Use case:** TBD
 - **Status code:** TBD
 - **Content:** TBD
 - **Format:** [Card component](https://design.va.gov/components/card)
