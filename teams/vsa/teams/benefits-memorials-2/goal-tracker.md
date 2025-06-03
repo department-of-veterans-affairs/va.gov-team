@@ -157,10 +157,10 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 |ENG: Complete PSIRR (Privacy, Security, Infrastructure readiness review) Collab Cycle stage for DD | QP4 |--|--|--|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
- - [X] Ready to be sent for approvals (05/19/25)
- - [X] VA PO & COR sent the Sprint Goals (05/20/25)
- - [ ] VA PO approved the Sprint Goals (05//20/25)
- - [ ] VA COR approved the Sprint Goals (05/20/25)
+ - [X] Ready to be sent for approvals (06/3/25)
+ - [X] VA PO & COR sent the Sprint Goals (06/3/25)
+ - [ ] VA PO approved the Sprint Goals (06/x/25)
+ - [ ] VA COR approved the Sprint Goals (06/x/25)
  
 **_Delivery + Notes:_**
 - [ ] All goals have been updated in the sprint chart
