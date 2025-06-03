@@ -4,7 +4,7 @@ Last updated: June 2025
 For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the user will be directed to the Profile Account Security section.
 
 ## User flow
-- Figma files: https://www.figma.com/design/dm2KXJmeJEgCNKrDgIq8ko/Profile---Vet-Status-Card?node-id=3003-221676&t=VQj0uFMqGcBcuBg7-1
+- Figma files: https://www.figma.com/design/dm2KXJmeJEgCNKrDgIq8ko/Profile---Vet-Status-Card?node-id=3019-459250&t=4qBrNlwhsoeAPg30-1
 - Test Rail QA: [TBD]
 - Staging test accounts: [TBD - will be added once staging is available]
 
@@ -28,8 +28,7 @@ User logs in with an LOA1 account and is directed to the Profile Account Securit
 - FAQs section (always displayed)
 - "Print your Veteran Status Card (PDF)" link under FAQ "How do I get a physical version of my Veteran status card?" (only shown when user is confirmed as veteran)
 
-**Format:** See designs  
-**Link to designs:** [Figma link above]
+**Link to designs:** [[Success Case]](https://www.figma.com/design/dm2KXJmeJEgCNKrDgIq8ko/Profile---Vet-Status-Card?node-id=3003-269050&t=4qBrNlwhsoeAPg30-1)
 
 ## Edge cases
 
@@ -41,7 +40,7 @@ User logs in with an LOA1 account and is directed to the Profile Account Securit
 H2: This page isn't available right now
 We're sorry. Something went wrong on our end. Refresh this page or try again later.
 **Format:** Warning alert component  
-**Link to designs:** [TBD]  
+**Link to designs:** [NoServiceHistory](https://www.figma.com/design/dm2KXJmeJEgCNKrDgIq8ko/Profile---Vet-Status-Card?node-id=3003-269294&t=4qBrNlwhsoeAPg30-1)
 **Link to code:** [TBD]
 
 #### Use case: 403 response or successful response with no service history
@@ -52,7 +51,7 @@ We're sorry for this issue. If you want to learn what military service records m
 If you think there might be a problem with your military service records, you can apply for a correction.
 Learn how to correct your military service records on the National Archives website
 **Format:** Warning alert component  
-**Link to designs:** [TBD]  
+**Link to designs:** [Mismatch History](https://www.figma.com/design/dm2KXJmeJEgCNKrDgIq8ko/Profile---Vet-Status-Card?node-id=3003-269336&t=4qBrNlwhsoeAPg30-1)
 **Link to code:** [TBD]
 
 ### NotEligibleAlert: User is not eligible for Veteran Status Card
@@ -64,7 +63,7 @@ Learn how to correct your military service records on the National Archives webs
 H2: You're not eligible for a Veteran Status Card
 To get a Veteran Status Card, you must have received an honorable discharge for at least one period of service. If you think your discharge status is incorrect, call the Defense Manpower Data Center at 800-538-9552 (TTY: 711). They're open Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
 **Format:** Info alert component  
-**Link to designs:** [TBD]  
+**Link to designs:** [[Ineligible Case]  ](https://www.figma.com/design/dm2KXJmeJEgCNKrDgIq8ko/Profile---Vet-Status-Card?node-id=3003-269210&t=4qBrNlwhsoeAPg30-1)
 **Link to code:** [TBD]
 
 #### Use case: Discharge status requires research or other eligibility issues
@@ -74,7 +73,7 @@ To get a Veteran Status Card, you must have received an honorable discharge for 
 H2: There's a problem with your discharge status records
 We're sorry. To fix the problem with your records, call the Defense Manpower Data Center at 800-538-9552 (TTY: 711). They're open Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
 **Format:** Warning alert component  
-**Link to designs:** [TBD]  
+**Link to designs:** [[Missing Service History]  ](https://www.figma.com/design/dm2KXJmeJEgCNKrDgIq8ko/Profile---Vet-Status-Card?node-id=3003-269252&t=4qBrNlwhsoeAPg30-1)
 **Link to code:** [TBD]
 
 ## Errors
@@ -86,7 +85,7 @@ We're sorry. To fix the problem with your records, call the Defense Manpower Dat
 H2: Something went wrong
 We're sorry. Try to view your Veteran Status Card later.
 **Format:** Error alert component  
-**Link to designs:** [TBD]  
+**Link to designs:** [[System Error]](https://www.figma.com/design/dm2KXJmeJEgCNKrDgIq8ko/Profile---Vet-Status-Card?node-id=3003-269378&t=4qBrNlwhsoeAPg30-1)
 **Link to code:** [TBD]
 
 ### PrintError: Error downloading PDF
@@ -95,3 +94,4 @@ We're sorry. Try to view your Veteran Status Card later.
 **Content:**
 H2: Something went wrong
 We're sorry. Try to download your Veteran Status Card later.
+**Link to designs:** [Error downloading PDF](https://www.figma.com/design/dm2KXJmeJEgCNKrDgIq8ko/Profile---Vet-Status-Card?node-id=3003-269121&t=4qBrNlwhsoeAPg30-1)
