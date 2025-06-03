@@ -65,6 +65,20 @@ Alt: A page for users to update their mailing address. Below the address fields 
 
 <img width="565" alt="Edit-choose-where-to-save" src="https://github.com/user-attachments/assets/47a3f173-4624-4dc3-819e-0ce0ba5065bd">
 
+#### Prefilled information that is missing and required
+There may be instances where some information that gets prefilled is missing from the database, but also required by the form itself. In those instances, users will be brought to a page with a card that has an error tag indicated that the information is missing, along with the word '(*Required)' next to the field heading text to indicate the user needs to provide that information.  
+
+Alt: A page showing users they have missing and required information they will need to add."
+
+[will add image here]
+
+If the user does not provide the required missing information and tries to continue past this page in the form, they will see the same page with that card in an error state and some text telling them what information they need to provide. Once they click 'add' and provide the information, they will be able to continue past this screen.  
+
+Alt: A page showing users an error state of the card with missing and required information they need to add."
+
+[will add image here]
+
+
 ### How this pattern works
 
 #### Communicate whether or not users can update their prefilled information online
