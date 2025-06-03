@@ -79,6 +79,11 @@ collect payment from Veterans for copays.
 [See notes from meeting on 4/24](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107630#issuecomment-2828988071)
 
 
+
+## 6/3/25 Questions
+
+**1. Can the UX team see an example of a payment review page?** 
+
 ## 05/20/25 Questions:
 
 
@@ -86,8 +91,17 @@ Combining payments:
 
 **1. Will Pay.gov be able to process multiple copays AND overpayments within the same transaction?**
 
+Answer from 5/28 email from Danielle and updates from Denise: 
+> This is not possible at this time (2 different cashflows, Veterans will need to process two different transactions)
+
 **2. Will Pay.gov be able to process multiple copay bills within the same transaction? And be able to attach the payment amount to each copay? Ex: $40 goes to VA Medical Center A, $200 goes to VA Medical Center B. 
 Same question for overpayments: Will Pay.gov be able to process multiple overpayment bills within the same transaction? And be able to attach the payment amount to each overpayment? Ex: $40 goes to GI Bill overpayment, $200 goes to Compensation and Pension overpayment.**
+
+
+Answer from 5/28 email from Danielle and updates from Denise: 
+> Currently Veterans are required to pay for individual debts as individual transactions  (3 copay bills means 3 transactions) - same on overpayment side.
+> Both sides are willing to look at allowing Veterans to pay for multiple copays or multiple overpayments in one transaction provided we can send across (thru pay.gov) the necessary information to identify the amount and the debts that the transaction should be applied to.
+
 
 Logged out/Unauth experience:
 
@@ -98,6 +112,4 @@ Logged out/Unauth experience:
 Required information:
 
 **5. Is there a spreadsheet or list of information that Pay.gov requires from the user in order to complete a transaction?**
-
-
 
