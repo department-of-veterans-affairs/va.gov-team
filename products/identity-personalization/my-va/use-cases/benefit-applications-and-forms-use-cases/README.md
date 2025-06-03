@@ -10,6 +10,8 @@ LOA1 and LOA3 (identify verified) users can see all use cases.
 
 <details><summary>Archive | How to reproduce in staging</summary>
 
+- [User has a benefit application or form draft saved but not yet submitted](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/benefit-applications-and-forms-use-cases/user-has-applications-drafts.md#how-to-reproduce)
+
 </details>
 
 
@@ -34,23 +36,42 @@ LOA1 and LOA3 (identify verified) users can see all use cases.
 
 </details>
 
+
 ### Drafts
 
 <details><summary>User has a benefit application or form draft saved but not yet submitted</summary>
 
-- **Use case:** TBD
+- **Use case:** When a user has a benefit application draft saved in progress, they will see a card in this section that tells them the form code, application type, an expiration date for the application, the date that they last saved it, and a link to continue the application.
 - **Status code:** TBD
 - **Content:** TBD
 - **Format:** [Card component](https://design.va.gov/components/card)
 - [Link to designs]
-- [Link to code]
+- [Link to code](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/engineering-docs/frontend/benefit-applications-and-forms.md)
+
+</details>
+
+
+<details><summary>User has submitted a benefit application and/or form</summary>
+
+- **Use case:** When a user has submitted a supported application or form, they will see a card that provide submission information and errors in cases of action is needed. Cards only stay for 60 days then are removed from My VA. TBD need direction on PDFs.
+- **Status code:** TBD
+- **Content:**
+
+   - Current step in the submission process (Submission in progress, Received, or Action needed)
+   - Form name
+   - Form code
+   - Submitted on date
+   - Last updated date
+   - IF action needed: an error alert
+
+- **Format:** [Card component](https://design.va.gov/components/card)
+- [Link to designs]
+- [Link to code](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/engineering-docs/frontend/benefit-applications-and-forms.md)
 
 </details>
 
 ### Submitted applications or forms
 
-- [User has a benefit application or form draft saved but not yet submitted](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/benefit-applications-and-forms-use-cases/user-has-applications-drafts.md)
-- [User has a benefit application or form that's been submitted and is trackable](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/benefit-applications-and-forms-use-cases/user-has-applications-and-or-forms.md)
 - [User has no benefit applications and/or forms being tracked, or drafts saved](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/benefit-applications-and-forms-use-cases/user-has-no-applications-forms-or-drafts.md)
 
 ## Edge cases:
