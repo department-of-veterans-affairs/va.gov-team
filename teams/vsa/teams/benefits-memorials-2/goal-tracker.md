@@ -128,9 +128,9 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 |UX: Complete R&S (Wizard) and Digital Dispute Study interviews and publish topline summary of early findings (before the full report). | QP3 QP4 |--|05/29/25|Completed|
 |UX: Begin drafting the research plan for pay.gov study. | QP6 |--|06/02/25|Completed|
 |UX: Refine Pay.gov user flows based on stakeholder feedback and tech guidelines. | QP6 |--|06/02/25|Completed|
-|ENG: Implement the ability to use international phone numbers in the portal. | N/A |--|--|--|
-|ENG: Complete at least 5 FE Digital Dispute tickets (66% of the remaining FE tickets for the initiative). | QP4 |--|6/3/25|Incomplete (3/5 completed)|
-|ENG: Define, request and begin setup for any provided credentials from pay.gov to be added to the portal environment. |QP6|--|6/3/25|FM Completed their initial steps)
+|ENG: Implement the ability to use international phone numbers in the portal. | N/A |--|--|Incomplete|
+|ENG: Complete at least 5 FE Digital Dispute tickets (66% of the remaining FE tickets for the initiative). | QP4 |--|06/03/25|Incomplete (3 of 5 tickets completed)|
+|ENG: Define, request and begin setup for any provided credentials from pay.gov to be added to the portal environment. |QP6|--|06/03/25|FM team Completed initial steps)
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [X] Ready to be sent for approvals (05/19/25)
@@ -142,7 +142,8 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 - [X] All goals have been updated in the sprint chart
 - [X] Any Additional details about goals **not** completed will be documented here
   - **Goal "ENG: Complete at least 5 FE Digital Dispute tickets (66% of the remaining FE tickets for the initiative)."** Due to a change in approach mid-sprint from DMC (JSON to PDF), the scope of the tickets originally pulled into the sprint changed, causing additional ticket requirements and resulting in not all of the anticipated items being closed. These are currently in progress and expected to close early in Sprint 10.
-  - **Goal ENG: Define, request and begin setup for any provided credentials from pay.gov to be added to the portal environment."** ENG requested and began the setup process; however no credentials were provided from pay.gov this sprint. The team completed their portion. However, additional work will be needed once credentials are provided.
+  - **Goal "ENG: Define, request and begin setup for any provided credentials from pay.gov to be added to the portal environment."** Engineering requested and began the setup process; however no credentials were able to be provided from pay.gov this sprint. The team completed their portion. However, additional work will be needed once credentials are provided.
+  -   **Goal "ENG: Implement the ability to use international phone numbers in the portal."** This work is currently blocked by the Authenticated Expereince Platform team. They reported they need to update the Front End form component before we can proceed with this work. 
 
 ## Sprint Goals - Sprint: 10 [6/4/25 - 6/17/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
@@ -153,8 +154,8 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 |UX: Make updates to the designs based off the Midpoint review feedback for 1TPP (One Thing Per Page) | QP5 |--|--|--|
 |ENG: Complete the DD (Digital Dispute) PDF generation for submission functionality and review with UX to confirm design| QP4 |--|--|--|
 |ENG: Front End to complete the functionality of sending the Back End PDF’s for DD submissions| QP4- |--|--|--|
-|ENG: Back End to create an endpoint that can receive a PDF blog and other relevant data from the front end allowing the acceptance of the DD PDF submissions | QP4 |--|--|--|
-|ENG: Complete PSIRR (Privacy, Security, Infrastructure readiness review) Collab Cycle stage for DD | QP4 |--|--|--|
+|ENG: Back End to create an endpoint that can receive a PDF blob and other relevant data from the front end allowing the acceptance of the DD PDF submissions | QP4 |--|--|--|
+|ENG: Complete PSIRR (Privacy, Security, Infrastructure Readiness Review) Collab Cycle stage for DD | QP4 |--|--|--|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [X] Ready to be sent for approvals (06/3/25)
