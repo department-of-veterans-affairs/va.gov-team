@@ -80,5 +80,5 @@ The big change was a drop in 422's after the new push - but we still have high 5
 -  [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92610)
 -  [Designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=1855-3868&t=919ZyW3EaSu2495z-0)
 
-## Launch 
+
 
