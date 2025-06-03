@@ -205,7 +205,7 @@
 ### 10-10EZ
 
 #### Obj: EZ [Submission Traceability](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80978)
-- #106005 - [BE] Support for POC
+- #[106005](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106005) - [BE] Support for POC
 
 #### Obj: [EZ Print/Save/download after submission](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60909)
 - #[102901](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102901) - QA
@@ -251,159 +251,224 @@
 - Jessica S: 4/7-8
 
 ---
-## 📆 Sprint xx 
+## 📆 Sprint 16 (Mar 12 - Mar 25)
 
 ### 10-10EZ
 
-#### Obj: EZ [CYOA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103253)
-- 
+#### Obj: EZ [Submission Traceability](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80978)
+- [#104890](https://github.com/department-of-veterans-affairs/va.gov-team/issues/104890) - [BE] Support for POC
 
-#### Obj: EZ [Improvements/BUGS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
-- 
-
-#### Obj: EZ [AI Exploration](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109122)
-- 
+#### Obj: [EZ Print/Save/download after submission](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60909)
+- [#104471](https://github.com/department-of-veterans-affairs/va.gov-team/issues/104471) - Design update
+- [#102901](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102901) - QA
 
 #### Obj: EZ [Form Statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95313)
-- 
+- [#95330](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95330) - [Research] VES status Carried
 
-## 
+#### Obj: EZ [Facilities Selection](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19433)
+- [#102956](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102956) - [Eng] Discovery on caching facilities
+
+#### Obj: EZ [Unhoused/No Address](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103256)
+- [stretch] [#102942](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102942) - Engineering exploration
+
+#### Obj: EZ [Improvements/BUGS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
+- [#103047](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103047) - [Research] In-person research planning Carried
+
+##
 ### 10-10CG
 
+#### Obj: CG [OAuth2.0](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89108)
+- [#90419](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90419) - [BE] Launch in Prod (CG team dependency)
+
 #### Obj: CG [Improvements/BUGs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40165)
-- 
+- [#104910](https://github.com/department-of-veterans-affairs/va.gov-team/issues/104910) - [BE] Facility address objects fix
+- #TBD - [FE] Performance & readability
 
 ##
 ### Team PTO
+- Jess W: 3/10-14
 
 ---
-## 📆 Sprint xx 
+## 📆 Sprint 15 (Feb 26 - Mar 11)
 
 ### 10-10EZ
 
-#### Obj: EZ [CYOA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103253)
-- 
+#### Obj: EZ [Submission Traceability](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80978)
+- [#102929](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102929) - Support for POC
 
-#### Obj: EZ [Improvements/BUGS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
-- 
+#### Obj: [EZ Print/Save/download after submission](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60909)
+- [#102897](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102897) - [BE] Endpoint
 
-#### Obj: EZ [AI Exploration](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109122)
-- 
+#### Obj: EZ [Reg Only V2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103257)
+- [#103654](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103654) - [Design] Prototypes Carried
+- [#67390](https://github.com/department-of-veterans-affairs/va.gov-team/issues/67390) - [UX] Intro page exploration
 
 #### Obj: EZ [Form Statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95313)
-- 
+- [#95330](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95330) - [Research] VES status
 
-## 
+#### Obj: EZ [Improvements/BUGS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
+- [#103047](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103047) - [Research] In-person research planning
+- [#102376](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102376) - [UX] Content map Carried
+- [#103774](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103774) - [FE] Performance & readability
+
 ### 10-10CG
 
-#### Obj: CG [Improvements/BUGs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40165)
-- 
+#### Obj: CG [OAuth2.0](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89108)
+- [#90419](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90419) - [BE] Launch in Prod (CG team dependency)
 
-##
 ### Team PTO
+- Matt L: 2/28-3/3
+- Emily: 2/28
+- Jessica S: 3/6-7
+- Luis: 3/7-11
+- Jessica W: 3/10-14
+- Alex: 3/6-10
 
 ---
-## 📆 Sprint xx 
+## 📆 Sprint 14 (Feb 12 - Feb 25) 
 
 ### 10-10EZ
 
-#### Obj: EZ [CYOA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103253)
-- 
+#### Obj: EZ [Reg Only](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43221)
+- Content discussions/planning
 
-#### Obj: EZ [Improvements/BUGS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
-- 
+#### Obj: [EZ Print/Save/download after submission](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60909)
+- [#102887](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102887) - [BE] Map field & generate
 
-#### Obj: EZ [AI Exploration](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109122)
-- 
+#### Obj: EZ [Improvements/BUGS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40159)
+- [#93247](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93247) - [BE] Submission failure callback (unblocked?)
 
-#### Obj: EZ [Form Statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95313)
-- 
+#### Obj: EZ [Submission Traceability](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80978)
+- [#102929](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102929) - Support for POC
 
-## 
+#### Obj: EZ [VOC reporting](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91463)
+- [#102507](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102507) - [DA] Medallia review Carried
+
 ### 10-10CG
 
-#### Obj: CG [Improvements/BUGs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40165)
-- 
+#### Obj: CG [Facilities Selection](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19433)
+- [#92037](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92037) - Launch 50%
+- [#92038](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92038) - Launch 100%
+- [#95342](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95342) (tied to [#98954](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98954)) - [BE] add logging for silent failures (Stg finding) (unblocked?)
+- [#97812](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97812) - [PM] Submit 508 Compliance
 
-##
 ### Team PTO
+- Presidents’ Day: 2/17
+- Hieu: 2/13-14
+- Alex: 2/18
+- Mitch: 2/18-21
 
 ---
-## 📆 Sprint xx 
+## 📆 Sprint 13 (Jan 29 - Feb 11)
 
 ### 10-10EZ
 
-#### Obj: EZ [CYOA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103253)
-- 
+#### Obj: EZ [Reg Only](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43221)
+- [#99286](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99286) - [UX] Content working sessions Carried
 
-#### Obj: EZ [Improvements/BUGS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
-- 
+#### Obj: [EZ Print/Save/download after submission](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60909)
+- [#97342](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97342) - [PM, Eng] Discovery Carried
 
-#### Obj: EZ [AI Exploration](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109122)
-- 
+#### Obj: EZ [Improvements/BUGS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40159)
+- [#101868](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101868) - [Team] Attend offsite (person & virtual)
+- [#101817](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101817) - [BE] Investigate Schema 500 errors
+- [#101579](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101579) - [FE] Remove TERA conditionals
+- [#99214](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99214) - [BE] Facilities API V2 update
 
-#### Obj: EZ [Form Statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95313)
-- 
+#### Obj: EZ [Submission Traceability](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80978)
+- [#99535](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99535) - Support for POC
 
-## 
 ### 10-10CG
 
-#### Obj: CG [Improvements/BUGs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40165)
-- 
+#### Obj: CG [Facilities Selection](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19433)
+- [#101907](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101907) - [BE] Blank facility sent downstream
+- [#92034](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92034) - Launch 10%
+- [#92036](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92036) - Launch 25%
 
-##
+#### Obj: CG [Baseline research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49186)
+- [#101045](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101045) - [UX] CG Stakeholder convos Carried
+
+#### Obj: CG [Improvements/BUGs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40165)
+- #TBD - [FE] Cypress tests improvement
+
 ### Team PTO
+- DC Team trip: 2/3-6
+- Luis: 1/30
+- Alex: 1/30-31
 
 ---
-## 📆 Sprint xx 
+## 📆 Sprint 12 (Jan 15 - Jan 28)
 
 ### 10-10EZ
 
-#### Obj: EZ [CYOA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103253)
-- 
+#### Obj: EZ [Reg Only](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43221)
+- [#99286](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99286) - [UX] Content working sessions Carried
 
-#### Obj: EZ [Improvements/BUGS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
-- 
+#### Obj: [EZ Print/Save/download after submission](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60909)
+- [#97342](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97342) - [PM, Eng] Discovery
 
-#### Obj: EZ [AI Exploration](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109122)
-- 
+#### Obj: EZ [Improvements/BUGS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40159)
+- [#100726](https://github.com/department-of-veterans-affairs/va.gov-team/issues/100726) - [FE] Cypress test improvements Carried
+- [#99303](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99303) - [BE] Remove redis key Carried
+- [#93247](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93247) - [BE] Submission failure callback Carried
+- [#101073](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101073) - [Team] Off-site Prep
 
-#### Obj: EZ [Form Statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95313)
-- 
+#### Obj: EZ [VOC reporting](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91463)
+- [#100707](https://github.com/department-of-veterans-affairs/va.gov-team/issues/100707) - [DA] Medallia review Carried
 
-## 
 ### 10-10CG
 
-#### Obj: CG [Improvements/BUGs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40165)
-- 
+#### Obj: CG [Facilities Selection](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19433)
+- [#95342](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95342) (tied to [#98954](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98954)) - [BE] add logging for silent failures (Stg finding) Carried
+- [#92034](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92034) - Launch 10%
+- [#92036](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92036) - Launch 25%
+- [#92037](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92037) - Launch 50%
+- [#92038](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92038) - Launch 100%
 
-##
+#### Obj: CG [Baseline research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49186)
+- [#101045](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101045) - [UX] CG Stakeholder convos
+
 ### Team PTO
+- Martin Luther King, Jr Day - 1/20
+- Matt L: 1/22-24
+- Angela: 1/24
 
 ---
-## 📆 Sprint xx 
+## 📆 Sprint 10 (Dec 18 - Dec 31) & Sprint 11(Jan 1 - Jan 14) - Double Sprint planning due to EOY holidays
 
 ### 10-10EZ
 
-#### Obj: EZ [CYOA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103253)
-- 
-
-#### Obj: EZ [Improvements/BUGS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
-- 
-
-#### Obj: EZ [AI Exploration](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109122)
-- 
-
-#### Obj: EZ [Form Statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95313)
-- 
+#### Obj: EZ [Reg Only](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43221)
+- [#99286](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99286) - [UX] Content working sessions
 
 ## 
 ### 10-10CG
 
-#### Obj: CG [Improvements/BUGs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40165)
-- 
+#### Obj: CG [Facilities Selection](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19433)
+- [#98100](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98100) - [BE] Explore options to replace GET Carried over
+- [#97565](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97565) - [FE, QA] Update search bar error msg (Ready for dev?)
+- [#97653](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97653) - [UX, Eng] Explore search bar improvements Carried over
+- [#95342](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95342) (tied to [#98954](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98954)) - [BE] add logging for silent failures (Stg finding)
+- [#99039](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99039) - [FE] Update title tag to match H1 (Stg finding)
+- [#99040](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99040) - [FE] Confirmation page updates (Stg finding)
+- [#99043](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99043) - [UX, FE] Paragraph break on caregiver SSN pages (Stg finding)
+- [#99045](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99045) - [FE] Remove “role=”search” from card
+- [#99048](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99048) - [FE] Update "Load more facilities” element to button (Stg finding)
+- [#99049](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99049) - [FE] Update aria-live for screenreader
+
+#### Obj: CG [Baseline research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49186)
+- [#98754](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98754) - [UX] Workshop planning
 
 ##
 ### Team PTO
+- Christmas Holiday : 12/25
+- Angela: 12/23-27
+- Jessica: 12/23-27
+- Luis: 12/23-27
+- Brandon: 12/23-26
+- Derrick: 12/24, 12/30-31
+- Renata: 12/24, 12/31
+- Mitch: 12/30-31
+- Heather: 12/30-31
 
 ---
