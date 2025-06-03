@@ -102,6 +102,8 @@ Remote testing via Optimal Workshop.
 
 [Link to prototypes](https://www.figma.com/proto/cqiuYyA1vn728D0Nde2NgS/Medications---Milestone-1---2?page-id=18147%3A40164&node-id=18147-40454&viewport=2158%2C-173%2C0.79&t=E4JE17EMowDPb8Lb-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=18147%3A40454&show-proto-sidebar=1)
 
+[Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/2025-06-IPE-AB-testing/Conversation-guide.md)
+
 ---
 
 ## Recruitment
