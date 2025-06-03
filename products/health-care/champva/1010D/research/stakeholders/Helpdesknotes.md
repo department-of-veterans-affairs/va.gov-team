@@ -1,9 +1,7 @@
 
 
-## Meeting with VFMP helpdesk
-Every other Tuesday at 10:35am ET
 
-## **04/29/25s**
+## **06/3/25s**
 
 **Attendees:** Premal, Amanda, Brian G.
 
