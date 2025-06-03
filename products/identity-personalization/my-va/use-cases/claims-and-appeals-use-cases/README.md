@@ -8,6 +8,16 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 - Figma files
 - Test Rail QA
 
+<details><summary>Archive | How to reproduce in staging</summary>
+
+- [User has open claim or appeal](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/claims-and-appeals-use-cases/user-has-open-claim-or-appeal.md#how-to-reproduce)
+- [User has open claim or appeal that has closed in the last 60 days](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/claims-and-appeals-use-cases/user-has-recently-closed-claim.md#how-to-reproduce)
+- [User does not have an open claim or appeal that has closed in the last 60 days](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/claims-and-appeals-use-cases/user-has-no-claims-or-appeals.md#how-to-reproduce)
+- [Claims API is down](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/claims-and-appeals-use-cases/claims-api-down.md#how-to-reproduce)
+
+</details>
+
+
 ## Phase 1, 3.0 experience
 - This feature highlights a users in progress claims and appeals, their disability rating, and a link to access all their claims and appeals.
    - Dynamic claim card, that provides a status update on any open or recently closed claims, and links the user to claims details. Cards only display for up to 60 days after they are "Complete", after that they are removed. Only 1 card shows at a time, and is the most recent update.
