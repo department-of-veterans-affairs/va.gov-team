@@ -73,7 +73,7 @@ In addition, user feedback about the v3 file upload component will be shared bac
 
 ### Research questions
 
-**Goal 1: Understand whether the placement of the 10-7959c within the 10-10D application for CHAMPVA benefits works better, as it relates to form submission and time on task.**
+**Goal 1: Understand whether the placement of the 10-7959c within the 10-10D application for CHAMPVA benefits works better than the standalone forms, as it relates to form submission and time on task.**
 1. How well are users able to orient into and out of the ancillary 10-7959c within the 10-10D?
 2. Does content on transitional pages between the 10-10D and 10-7959c provide sufficient context about the purpose of the 10-7959c?
 3. Is the slim header/footer sufficient context for users knowing where they are within the 10-10D or 10-7959c?
@@ -91,7 +91,7 @@ In addition, user feedback about the v3 file upload component will be shared bac
 
 ---
 
-**Goal 1: Understand whether the placement of the 10-7959c within the 10-10D application for CHAMPVA benefits works better, as it relates to form submission and time on task.**
+**Goal 1: Understand whether the placement of the 10-7959c within the 10-10D application for CHAMPVA benefits works better than the standalone forms, as it relates to form submission and time on task.**
 * When filling out the merged 10-10D/10-7959c, users will have faster completion times when compared to cumulative completion times from the standalone 10-10D and 10-7959c.
 * Users will be able to easily orient themselves around the transition between the 10-10D and 10-7959c.
 * Users will prefer to complete the 10-7959c as part of their CHAMPVA application, as opposed to a separate, standalone form.
