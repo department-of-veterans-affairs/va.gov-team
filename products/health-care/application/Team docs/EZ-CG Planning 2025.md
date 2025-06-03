@@ -311,11 +311,13 @@
 - [#102376](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102376) - [UX] Content map Carried
 - [#103774](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103774) - [FE] Performance & readability
 
+## 
 ### 10-10CG
 
 #### Obj: CG [OAuth2.0](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89108)
 - [#90419](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90419) - [BE] Launch in Prod (CG team dependency)
 
+## 
 ### Team PTO
 - Matt L: 2/28-3/3
 - Emily: 2/28
@@ -344,6 +346,7 @@
 #### Obj: EZ [VOC reporting](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91463)
 - [#102507](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102507) - [DA] Medallia review Carried
 
+## 
 ### 10-10CG
 
 #### Obj: CG [Facilities Selection](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19433)
@@ -352,6 +355,7 @@
 - [#95342](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95342) (tied to [#98954](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98954)) - [BE] add logging for silent failures (Stg finding) (unblocked?)
 - [#97812](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97812) - [PM] Submit 508 Compliance
 
+## 
 ### Team PTO
 - Presidents’ Day: 2/17
 - Hieu: 2/13-14
@@ -378,6 +382,7 @@
 #### Obj: EZ [Submission Traceability](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80978)
 - [#99535](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99535) - Support for POC
 
+## 
 ### 10-10CG
 
 #### Obj: CG [Facilities Selection](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19433)
@@ -391,6 +396,7 @@
 #### Obj: CG [Improvements/BUGs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40165)
 - #TBD - [FE] Cypress tests improvement
 
+## 
 ### Team PTO
 - DC Team trip: 2/3-6
 - Luis: 1/30
@@ -416,6 +422,7 @@
 #### Obj: EZ [VOC reporting](https://github.com/department-of-veterans-affairs/va.gov-team/issues/91463)
 - [#100707](https://github.com/department-of-veterans-affairs/va.gov-team/issues/100707) - [DA] Medallia review Carried
 
+## 
 ### 10-10CG
 
 #### Obj: CG [Facilities Selection](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19433)
@@ -428,6 +435,7 @@
 #### Obj: CG [Baseline research](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49186)
 - [#101045](https://github.com/department-of-veterans-affairs/va.gov-team/issues/101045) - [UX] CG Stakeholder convos
 
+## 
 ### Team PTO
 - Martin Luther King, Jr Day - 1/20
 - Matt L: 1/22-24
