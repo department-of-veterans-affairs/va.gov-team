@@ -29,11 +29,39 @@ Authentication can be made required via the [RequiredLoginView](https://github.c
 
 This works great for the authenticated workflow of our app, but becomes a bit more tricky accounting for both the authenticated and unauthenticated workflows. From my findings, there aren't any apps that support both authenticated and unauthenticated workflows, so our app would potentially be the first to do so. There are a few ways we could potentially handle this:
 
-- The [Sign-in](https://www.va.gov/sign-in) application on the VA.gov website essentially directs the user to the sign-in page so they can authenticate. We could have an entry page to the app that allows the user to choose whether they want to log in and continue the app (explaining the benefits of logging in) or continue unauthenticated, and based on that selection, we would navigate them to the `Sign-in` app so they can authenticate.
+1. The [Sign-in](https://www.va.gov/sign-in) application on the VA.gov website essentially directs the user to the sign-in page so they can authenticate. We could have an entry page to the app that allows the user to choose whether they want to log in and continue the app (explaining the benefits of logging in) or continue unauthenticated, and based on that selection, we would navigate them to the `Sign-in` app so they can authenticate.
 
-- Another approach, similar to the first option is that after the user decides which workflow to proceed with, instead of routing them to the `Sign-in` application, we render the version of the app wrapped in the `RequiredLoginView`, that way we are enforcing authentication before they continue.
+- Pros:
 
-- One last way would be to not ask the user whether they would like to sign in, and just check whether they are authenticated or not, and if they are authenticated, use the authenticated workflow.
+  - We wouldn't need to explicitly wrap our app in an authenticated view, meaning it would be more or less up to the veteran and the `Sign in` app to handle authentication. We would somewhat be the messenger (i.e. it would be like telling the veteran "Do you want to sing in before continuing? If so, go to this other page to sign in and we'll see you back when you're done, otherwise, continue onto our app)
+
+- Cons:
+
+  - It's not clear whether the user would be automaticallty be navigated back to our app, which if they aren't, would be a less than ideal user experience. 
+
+2. Another approach, similar to the first option is that after the user decides which workflow to proceed with, instead of routing them to the `Sign in` application, we render the version of the app wrapped in the `RequiredLoginView`, that way we are enforcing authentication before they continue.
+
+- Pros:
+
+  - Easier to ensure they stay within the app after signing in. When routing them to the Sign in application, It's not certain whether they'd be automatically routed back to the app that sent them there
+
+  - Implementation would probably be less cumbersome because we wouldn't need to send them to a different app for authentication, we would be supporting it natively in ours
+
+  - We wouldn't be dependent on another app. While unlikely to happen, if anything changed with the URL of the `Sign in` app, or the implementation changed, this could impact the consitency of our app
+
+- Cons:
+
+  - We'd need to handle certain edge cases, e.g. if the veteran navigates back to the options screen after already having selected an options, we'd want to make sure we reset the state of their initial choice. We'd also need to figure out how to handle if the user tried to supersede the option page that asks them whether they'd like to sign in or not. (e.g. do we automatically kick them back to the options page if they haven't selected an option? Do we just show the unauthenticated version of the app?) So it would require more thinking and logic on our end to handle edge cases like that
+
+3. One last way would be to not ask the user whether they would like to sign in, and just check whether they are authenticated or not, and if they are authenticated, use the authenticated workflow.
+
+- Pros:
+
+  - This is probably the simplest approache out of the 3, requiring minimal extra work from an engineering standpoint, as we'd just be perfoming a check to see whether they are authenticated or not and proceed from there
+
+- Cons:
+
+  - Not clear to the veteran that there are 2 different workflows, and that there could be added benefits if they were authenticated before using the app
 
 ## Scalability of Vets API Integration
 
