@@ -130,7 +130,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 |UX: Refine Pay.gov user flows based on stakeholder feedback and tech guidelines. | QP6 |--|06/02/25|Completed|
 |ENG: Implement the ability to use international phone numbers in the portal. | N/A |--|--|--|
 |ENG: Complete at least 5 FE Digital Dispute tickets (66% of the remaining FE tickets for the initiative). | QP4 |--|6/3/25|Incomplete (3/5 completed)|
-|ENG: Define, request and begin setup for any provided credentials from pay.gov to be added to the portal environment. |QP6|--|--|--|
+|ENG: Define, request and begin setup for any provided credentials from pay.gov to be added to the portal environment. |QP6|--|6/3/25|FM Completed their initial steps)
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [X] Ready to be sent for approvals (05/19/25)
@@ -142,6 +142,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 - [X] All goals have been updated in the sprint chart
 - [ ] Any Additional details about goals **not** completed will be documented here
   - **Goal "ENG: Complete at least 5 FE Digital Dispute tickets (66% of the remaining FE tickets for the initiative)."** Due to a change in approach mid-sprint from DMC (JSON to PDF), the scope of the tickets originally pulled into the sprint changed, causing additional ticket requirements and resulting in not all of the anticipated items being closed. These are currently in progress and expected to close early in Sprint 10.
+  - **Goal ENG: Define, request and begin setup for any provided credentials from pay.gov to be added to the portal environment."** ENG requested and began the setup process; however no credentials were provided from pay.gov this sprint. The team completed their portion. However, additional work will be needed once credentials are provided.
 
 ## Sprint Goals - Sprint: 10 [6/4/25 - 6/17/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
