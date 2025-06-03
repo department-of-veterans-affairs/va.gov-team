@@ -103,7 +103,9 @@ There are no flags associated with this feature.
 - **Content:** 
 
 **Ashley - will need to revisit this copy with CAIA**
+
 Header: We can't access any health care information right now.
+
 We're sorry. Something went wrong on our end. If you get health care through VA, you can go to My HealtheVet to access your health care information. Visit My HealtheVet
 
 - **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
@@ -120,6 +122,7 @@ We're sorry. Something went wrong on our end. If you get health care through VA,
 - **Content:**
 
 Header: We can't access your appointment information.
+
 We're sorry. Something went wrong on our end and we can’t access your appointment information. Please try again later or go to the appointments tool: [Schedule and manage your appointments](https://va.gov/my-health/appointments)
 
 - **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
