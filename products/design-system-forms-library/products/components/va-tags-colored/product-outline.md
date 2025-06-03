@@ -1,7 +1,5 @@
 ## va-tag-colored
 
-### [Design Decisions] TBD
-
 ## Design System Team
 - Product Managers: Carol Wong, Tricia Baker
 - Designer: Barb Denney
