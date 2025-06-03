@@ -64,6 +64,16 @@ This new field has the following options ([enums found on the LH documentation p
 ## Analytics
 - [Basic GA4 template that each person will need to update for their own view of the data](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/5Jm2bveUQDG4SBSAp_OrJQ)
 
+### Launch showing improved metrics 
+#### GET/SHOW
+
+![image](https://github.com/user-attachments/assets/8025d0ab-7ab5-48f1-aa2c-116dca7393a0)
+
+#### PUT/UPDATE 
+
+![image](https://github.com/user-attachments/assets/0b258e5d-9f81-42c9-b1b4-4ca46da647ed)
+
+
 ## Important Artifcats 
 -  [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92610)
 -  [Designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=1855-3868&t=919ZyW3EaSu2495z-0)
