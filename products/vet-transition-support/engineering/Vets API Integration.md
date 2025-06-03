@@ -2,7 +2,7 @@
 
 ## Overview
 
-The intent of this write-up is to explore the technical requirements, reasonability, and lift for integrating the BDS API with the `Discover your Benefits` app on VA.gov.
+The intent of this write-up is to explore the technical requirements, reasonability, and lift for integrating the [BDS API](https://github.com/department-of-veterans-affairs/ves-benefits-discovery-service) with the `Discover your Benefits` app on VA.gov.
 
 ## Vets API Overview
 
@@ -10,7 +10,7 @@ All apps on VA.gov that rely on any API have to go through [vets-api](https://gi
 
 Therefore, in order to integrate with the BDS API, we would most likely need to create a [module](https://depo-platform-documentation.scrollhelp.site/developer-docs/backend-endpoint-tutorial) in the `vets-api` repo, which would essentially be its own API that handles requests to and from the BDS API. Implementing this API in `vets-api` would require work from backend engineers familiar with Ruby on Rails.
 
-While the technical lift wouldn't be large since the BDS API doesn't have many endpoints, the lift for this wouldn't be small either, as there would be a lot of work sorting out the API schema and making sure the data flow between our app and BDS is consistent. Many VFS teams I've seen in the past often have dedicated backend engineers on their team that handles the API portion of the app, as the frontend and backend can be seen as two separate apps.
+While the technical lift wouldn't be large since the [BDS API](https://effective-adventure-ozmrjm3.pages.github.io/) doesn't have many endpoints, the lift for this wouldn't be small either, as there would be a lot of work sorting out the API schema and making sure the data flow between our app and BDS is consistent. Many VFS teams I've seen in the past often have dedicated backend engineers on their team that handles the API portion of the app, as the frontend and backend can be seen as two separate apps.
 
 ## Authentication
 
