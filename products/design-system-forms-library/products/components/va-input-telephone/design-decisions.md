@@ -1,5 +1,5 @@
 # va-input-telephone Design Decisions
-Last updated: 2025-05-02
+Last updated: 2025-06-03
 
 - [ADR: 001 - Country code field and phone field will not interact](#ADR-001---Country-code-field-and-phone-field-will-not-interact)
 - [ADR: 002 - Geolocation on country code](#adr-002---geolocation-on-country-code)
@@ -8,7 +8,7 @@ Last updated: 2025-05-02
 - [ADR: 005 - Props allowed for International Phone](#ADR-005---Props-allowed-for-International-Phone)
 - [ADR: 006 -  One field for both international and domestic phone number](#ADR-006---One-field-for-both-international-and-domestic-phone-number)
 - [ADR: 007 -  On screens smaller than 360px we will stack the country code and phone number](#ADR-007---On-screens-smaller-than-360px-we-will-stack-the-country-code-and-phone-number)
-- [ADR: 008 -  When the combo box is smaller than 216px, country names may be truncated](#ADR-008---When-the-combo-box-is-smaller-than-216px-country-names-may-be-truncated)
+- [ADR: 008 -  When the combo box is smaller than 216px, country names may be truncated](#ADR-008---When-the-combo-box-is-smaller-than-216px-country-names-may-be-truncated)~~
 
 
 
@@ -201,9 +201,10 @@ Mobile and desktop users will be able to easily interact with each field
 
 ### Status: Accepted
 - Decision Date: 2025-04-29
+- Update: 2025-06-03 to clarify CSS truncation
 
 ### Context
-The longest country name in our list is 33 characters long, average length is 17 characters. If we design for the outliers, this could be a quite annoying design.  We may need to truncate country names in certain cases
+The longest country name in our list is 33 characters long, average length is 17 characters. If we design for the outliers, this could be a quite annoying design.  We will need to truncate country names in certain cases
 
 ### Decision
 We will truncate country names in the combo box selector. In the drop down that shows the country names, country names will not be truncated as we will be able to wrap and display country names on two lines.
@@ -211,9 +212,8 @@ We will truncate country names in the combo box selector. In the drop down that 
 ### Consequences
 - The design of the component will work for a majority of country names. But outliers may be truncated in the collapsed combo box display. 
 - Users will be able to see the full country name when activating the combo box drop down
-- We need to consider accessibility implications of truncation. 
+- By using CSS for truncation, full country names will be announced for screen reader users. Javascript truncation does not read the fully country name.
 
-### Open questions
-Can we still have a screen reader announce the full country name, and ignore the truncation? 
+
 
 
