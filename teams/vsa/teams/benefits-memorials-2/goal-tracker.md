@@ -141,7 +141,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 **_Delivery + Notes:_**
 - [X] All goals have been updated in the sprint chart
 - [ ] Any Additional details about goals **not** completed will be documented here
-  - **Goal "ENG: Complete at least 5 FE Digital Dispute tickets (66% of the remaining FE tickets for the initiative)."** Due to a change in approach mid sprint from DMC (JSON to PDF) the scope of the tickets originally pulled into the sprint has changed causing additional ticket requirements resulting in not all of the anticipated items being closed. These are currently in progress an expected to close early in Sprint 10.
+  - **Goal "ENG: Complete at least 5 FE Digital Dispute tickets (66% of the remaining FE tickets for the initiative)."** Due to a change in approach mid-sprint from DMC (JSON to PDF), the scope of the tickets originally pulled into the sprint changed, causing additional ticket requirements and resulting in not all of the anticipated items being closed. These are currently in progress and expected to close early in Sprint 10.
 
 ## Sprint Goals - Sprint: 10 [6/4/25 - 6/17/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
