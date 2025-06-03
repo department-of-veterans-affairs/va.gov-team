@@ -8,6 +8,14 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 - Figma files
 - Test Rail QA
 
+<details><summary>Archive | How to reproduce in staging</summary>
+
+- [Does not have health care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/health-care-use-cases/no-health-care.md#how-to-reproduce)
+- [Health care appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/health-care-use-cases/health-care-appointments.md#how-to-reproduce)
+- [Health care messages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/health-care-use-cases/health-care-messages.md#how-to-reproduce)
+
+</details>
+
 ## Phase 1, 3.0 Experience
 - This feature on My VA integrates with My HealtheVet and the VA online scheduling tool (VAOS or Appointments) to give the user dynamic content updates for upcoming appointments and unread messages.
 - Users only see this content if they are defined as health care users, and have a health care facility associated with them. Which means, the facilities attribute in `user` state is greater than 0.
@@ -27,12 +35,54 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 
 ### Appointments
 
+<details><summary>User does not have any upcoming appointments</summary>
+
+- **Use case:** When a user does not have any upcoming appointments, they will see text in this section that states ... TBD
+- **Status code:** TBD
+- **Content:** See designs
+- **Format:** TBD
+- [Link to designs]
+- [Link to code]
+
+</details>
+
+
+<details><summary>User has upcoming appointments</summary>
+
+- **Use case:** If a user has a confirmed upcoming appointment, they will see **up to** two cards in this section that tells them the date, time, and location of the appointment, as well as a link to the online scheduling tool.
+- **Status code:** TBD
+- **Content:** See designs
+- **Format:** [Card component](https://design.va.gov/components/card)
+- [Link to designs]
+- [Link to code]
+
+</details>
 
 
 ### Messages
 
-- [User has VA health care and does or does not have upcoming appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/health-care-use-cases/health-care-appointments.md)
-- [User has VA health care and does or does not have unread messages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/health-care-use-cases/health-care-messages.md)
+<details><summary>User does not have any unread messages</summary>
+
+- **Use case:** When a user does not have any unread messages, they will see ... TBD
+- **Status code:** TBD
+- **Content:** See designs
+- **Format:** [Card component](https://design.va.gov/components/card)
+- [Link to designs]
+- [Link to code]
+
+</details>
+
+
+<details><summary>User has unread messages</summary>
+
+- **Use case:** When a user has unread messages, they will see a card informing them they have unread messages.
+- **Status code:** TBD
+- **Content:** See designs
+- **Format:** [Card component](https://design.va.gov/components/card)
+- [Link to designs]
+- [Link to code]
+
+</details>
 
 
 ## Edge cases
