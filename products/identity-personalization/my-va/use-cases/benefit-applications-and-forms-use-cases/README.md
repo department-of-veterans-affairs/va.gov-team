@@ -1,4 +1,77 @@
-# My VA: Benefit Applications and Forms Use Cases
+# My VA: Applications and forms use cases
+
+**Last updated: June 2025**
+
+LOA1 and LOA3 (identify verified) users can see all use cases.
+
+- User flow
+- Figma files
+- Test Rail QA
+
+<details><summary>Archive | How to reproduce in staging</summary>
+
+</details>
+
+
+## Phase 1, 3.0 experience
+- This feature shows a card for any benefit applications or forms that a user has started or completed. TBD on how many are shown or how we break this up per other conversations.
+  - Conditions in [Platform documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-set-up-save-in-progress-si#VAFormsLibrary-HowtosetupSaveInProgress(SiP)-MyVAPage) for saving forms in progress and changes in User Profile code must be met in order for a form that is saved to show up in this section of My VA.
+  - Completed forms only show for 60 days, at which point they disappear from My VA.
+  - TBD need to add PDF download to this section.
+- An accordion component with information pertaining to tracking benefit applications and forms statuses is always visible at the bottom of this section unless an error is preventing the displaying of forms.
+
+
+## Common use cases
+
+<details><summary>User does not have any drafts or completed forms/summary>
+
+- **Use case:** If a logged in user does not have in progress or recently completed form or application they see... TBD
+- **Status code:** TBD
+- **Content:** TBD
+- **Format:** TBD
+- [Link to designs]
+- [Link to code]
+
+</details>
+
+### Drafts
+
+<details><summary>User does not have an open claim or appeal, or one that has been closed in the last 60 days</summary>
+
+- **Use case:** If a logged in LOA3 user does not have an open claim or appeal or one that has been closed in the last 60 days, they will see informational text and be provided a link to manage all claims and appeals.
+- **Status code:** TBD
+- **Content:** TBD
+- **Format:** [Card component](https://design.va.gov/components/card)
+- [Link to designs]
+- [Link to code]
+
+</details>
+
+### Submitted applications or forms
+
+- [User has a benefit application or form draft saved but not yet submitted](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/benefit-applications-and-forms-use-cases/user-has-applications-drafts.md)
+- [User has a benefit application or form that's been submitted and is trackable](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/benefit-applications-and-forms-use-cases/user-has-applications-and-or-forms.md)
+- [User has no benefit applications and/or forms being tracked, or drafts saved](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/benefit-applications-and-forms-use-cases/user-has-no-applications-forms-or-drafts.md)
+
+## Edge cases:
+
+### System:
+The data for saved applications is gathered from the same API as the main user call. Therefore, there are no errors specific to just this section. If the main user call fails, the entire My VA page displays an error (MPI error).
+
+## Flow diagrams:
+- [User flow for benefit applications and forms (including drafts) on My VA](https://www.figma.com/file/15yOY4VEzitxm5tRMDiAzz/My-VA?type=design&node-id=0%3A7642&mode=design&t=CREOF8xG3jKa75nz-1)
+
+## Overview of Submitted Forms:
+
+- For all of these use cases, the user must be LOA3 (identity verified). All LOA3 (and LOA1) users will see this section on My VA.
+- This feature shows a card for any benefit application or form that a user has completed and submitted __that can be tracked and displayed on My VA__, or text stating that the user has no benefit applications or forms (if there are no drafts as well).
+- Submitted form cards have three different states: submission in progress, received, and action needed
+
+---
+
+<details><summary>Archive | My VA: Benefits applications and forms use cases, November 2024</summary>
+
+# My VA: Applications and forms use cases
 
 **Last updated:** November 13, 2024 - updated links
 
@@ -35,3 +108,4 @@ The data for saved applications is gathered from the same API as the main user c
 - This feature shows a card for any benefit application or form that a user has completed and submitted __that can be tracked and displayed on My VA__, or text stating that the user has no benefit applications or forms (if there are no drafts as well).
 - Submitted form cards have three different states: submission in progress, received, and action needed
 
+</details>
