@@ -83,7 +83,6 @@ Sprint Goals: 
 |                                                  |                                                                                       |                            |                 |                          |
 | ------------------------------------------------ | :-----------------------------------------------------------------------------------: | :------------------------: | :-------------: | :----------------------: |
 | **Sprint Goal**                                  |                                **GitHub Ticket Number**                               | **Reason if Not Complete** | **Update Date** | **End of Sprint Status** |
-| Get access to MyVA411 data and analyze           |                                       Ticket TBD                                      |                            |                 |                          |
 | Complete design work for MyVA Submission Status  | [107771](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107771) |                            |                 |                          |
 | Complete content work for MyVA Submission Status |                                       Ticket TBD                                      |                            |                 |                          |
 
