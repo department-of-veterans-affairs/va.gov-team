@@ -2,76 +2,71 @@
 
 ## Overview
 
-This integration enables the Eventbus Gateway to securely send POST requests to a dedicated vets-api endpoint (`/v0/event_bus_gateway/send_email`) using OAuth-based service account authentication via VA’s STS.
+This integration enables the Eventbus Gateway to securely send POST requests to a dedicated `vets-api` endpoint (`/v0/event_bus_gateway/send_email`) using OAuth-based service account authentication via VA’s Secure Token Service (STS).
 
 This work supports the Decision Letter Notification initiative and was handed off to Benefits Management Tools Team 2 from the previous BMT1 team.
 
+---
+
 ## Problem
 
-VA’s Eventbus Gateway service needs to send POST requests with Veteran data (e.g., participant ID) to vets-api for email delivery. This requires:
+The Eventbus Gateway needs to send POST requests containing Veteran data (e.g., `participant_id`) to `vets-api` for email delivery. To do so securely and without relying on user authentication, the service must integrate with STS to act as a non-user service client.
 
-- Secure, scoped access from a service-level (non-user) client
-- STS integration between Eventbus Gateway and vets-api
-- A new endpoint that does not require user context but should not be publicly accessible
+Requirements:
+- Secure, scoped service-to-service access
+- A dedicated vets-api endpoint that does not require user context
+- Protection against unauthorized internet access
 
-## Integration Steps
+---
 
-### 1. STS Configuration (Identity Team)
+## 1. STS Configuration (Identity Team)
 
-- Service Account ID: `75d8725d-1fa9-4cbd-b8a7-2252da6e25c1`
-- Audience: `eventbus-gateway-prod`
-- Scope: `https://api.va.gov/v0/event_bus_gateway/send_email`
-- User Attribute: `participant_id`
-- Controller: `EventBusGatewayController` in vets-api
-- Parent Class: `SignIn::ServiceAccountApplicationController`
-  - Skips CSRF
-  - Enables token validation
+**ServiceAccountConfig Attributes**
 
-### 2. Certificate and Token
+- `service_account_id`: `75d8725d-1fa9-4cbd-b8a7-2252da6e25c1`
+- `access_token_audience`: `eventbus-gateway-prod`
+- `scopes`: `["https://api.va.gov/v0/event_bus_gateway/send_email"]`
+- `access_token_user_attributes`: `["participant_id"]`
+- **Public certificate**: Provided by Eventbus Gateway team; validated and added to vets-api configuration
+  - Example: Generic testing cert used in vets-api testing [can be linked if needed]
 
-- Public certificate: Provided by BMT team and added by Identity
-- Private key: Stored securely by BMT team (recommended: Parameter Store)
-- JWT Assertion: Created by Eventbus Gateway and submitted to `/v0/sign_in/token` to obtain an access token
+These values are configured in `vets-api` to authorize access from the Eventbus Gateway using STS.
 
-### 3. Endpoint Design (vets-api)
+---
 
-- Path: `/v0/event_bus_gateway/send_email`
-- Authenticates via STS token
-- Extracts `participant_id` from `access_token.user_attributes`
-- Only accepts requests from clients with valid scopes and tokens
+## 2. Certificate and Token (Eventbus Gateway Setup)
 
-## Key Notes and Troubleshooting
+- **JWT Assertion Flow**:
+  - Gateway creates an assertion JWT signed with its private key.
+  - Sends the JWT to `/v0/sign_in/token`.
+  - Receives an access token scoped for the authorized endpoint.
 
-- The `sub` claim in the JWT can use `participant_id`. No strict validation is enforced.
-- Use VA AWS Parameter Store for storing private keys.
-- Staging was tested successfully with endpoint: `https://staging-api.va.gov/v0/event_bus_gateway/send_email`
-- Production configuration is identical. All attributes should be reviewed before enabling.
+- **Key Management**:
+  - **Private key**: Securely stored by the Eventbus Gateway team (recommended: AWS Parameter Store).
+  - **Public certificate**: Provided to Identity team for STS registration.
 
-### Common Errors
+- **JWT Sub Field**:
+  - Accepts any string (no enforced format); `participant_id` is acceptable.
 
-| Error                     | Cause                          | Resolution                                      |
-|--------------------------|---------------------------------|------------------------------------------------|
-| 403 Forbidden             | CSRF or missing auth headers   | Inherit from `ServiceAccountApplicationController` |
-| 500 Internal Server Error| Invalid public certificate     | Remove extra whitespace or newlines in cert    |
+---
 
-## Contacts
+## 3. Endpoint Design (vets-api)
 
-| Role                    | Contact                              |
-|-------------------------|--------------------------------------|
-| Identity Team           | Trevor Bosaw, Joe Niquette, John Bramley |
-| Benefits Management     | Stacy Wise                          |
-| Eventbus Gateway Dev    | Ian Donovan, Dariusz Dzien         |
-| Incident Response       | #benefits-management-tools, event-bus@veterans-affairs.pagerduty.com |
+**Path**: `/v0/event_bus_gateway/send_email`
 
-## Next Steps
+**Controller Setup**:
+- Controller: `EventBusGatewayController`
+- Inherits from: `SignIn::ServiceAccountApplicationController`
 
-- Staging config tested successfully
-- Production config created (May 22)
-- Certificate validated and added
-- Schedule final security sign-off (week of May 27)
-- Proceed with production deployment when app is ready
+**Authentication Features Inherited**:
+- Skips CSRF protection
+- Automatically validates STS access token
+- Only permits requests with:
+  - Valid `scope`
+  - Matching `audience`
+  - Signed JWT from registered `service_account_id`
 
-## References
-
-- [STS Auth Flow Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/service_account_auth_flows.md)
-- [GitHub Epic: Decision Letter Notifications](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77622)
+**Business Logic**:
+- Extracts `participant_id` from:
+  ```ruby
+  service_account_access_token.user_attributes['participant_id']
