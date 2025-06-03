@@ -8,26 +8,6 @@ Date: 05/2025
 
 Product: Accredited Representative Portal (ARP)
 
-# Table of contents
-- [Background](https://docs.google.com/document/d/1xnDp0MbgVIkj79msIeQCWLrXfB_fwVD0/edit#heading=h.92u22pnoq259)
-     - [Research goals](https://docs.google.com/document/d/1xnDp0MbgVIkj79msIeQCWLrXfB_fwVD0/edit#heading=h.1kopkco6furs)
-     - [Methodology](https://docs.google.com/document/d/1xnDp0MbgVIkj79msIeQCWLrXfB_fwVD0/edit#heading=h.z4q5rot9x7zg)
-     - [Research artifacts](https://docs.google.com/document/d/1xnDp0MbgVIkj79msIeQCWLrXfB_fwVD0/edit#heading=h.p2ym0rdh10ym)
-- [Participant sample](https://docs.google.com/document/d/1xnDp0MbgVIkj79msIeQCWLrXfB_fwVD0/edit#heading=h.ubcflg2rnib5)
-- [Summary of key findings](https://docs.google.com/document/d/1xnDp0MbgVIkj79msIeQCWLrXfB_fwVD0/edit#heading=h.gnv12zw3o6as)
-- [Key findings and recommendations](https://docs.google.com/document/d/1xnDp0MbgVIkj79msIeQCWLrXfB_fwVD0/edit#heading=h.kpe6i8jqd7q)
-     - [1. Adoption of the new ARP method for POA establishment](https://docs.google.com/document/d/1xnDp0MbgVIkj79msIeQCWLrXfB_fwVD0/edit#heading=h.uhq3oueqca4h)
-     - [2a. Usability of POA functionality in ARP](https://docs.google.com/document/d/1xnDp0MbgVIkj79msIeQCWLrXfB_fwVD0/edit#heading=h.eu85ajjvwify)
-     - [2b. Concept testing future design ideas](https://docs.google.com/document/d/1xnDp0MbgVIkj79msIeQCWLrXfB_fwVD0/edit#heading=h.la387c6d7lwo)
-     - [3. Notifications](https://docs.google.com/document/d/1xnDp0MbgVIkj79msIeQCWLrXfB_fwVD0/edit#heading=h.mxr8xpb3qxbs)
-     - [4. Cross-accreditation](https://docs.google.com/document/d/1xnDp0MbgVIkj79msIeQCWLrXfB_fwVD0/edit#heading=h.put9vulegujc)
-     - [5. Technology setup and usage of help resources](https://docs.google.com/document/d/1xnDp0MbgVIkj79msIeQCWLrXfB_fwVD0/edit#heading=h.cvlj6vfgjr60)
-- [Other findings](https://docs.google.com/document/d/1xnDp0MbgVIkj79msIeQCWLrXfB_fwVD0/edit#heading=h.v3plwdp3rqu0)
-- [Appendix](https://docs.google.com/document/d/1xnDp0MbgVIkj79msIeQCWLrXfB_fwVD0/edit#heading=h.olppea4kknpx)
-     - [CT Veterans Affairs current process for establishing POA](https://docs.google.com/document/d/1xnDp0MbgVIkj79msIeQCWLrXfB_fwVD0/edit#heading=h.8q030ghwgpnq)
-     - [Pilot participant experience](https://docs.google.com/document/d/1xnDp0MbgVIkj79msIeQCWLrXfB_fwVD0/edit#heading=h.98ojwx2js1pq)
-     - [Summary of recommendations](https://docs.google.com/document/d/1xnDp0MbgVIkj79msIeQCWLrXfB_fwVD0/edit#heading=h.kduw0aiz79df)
-
 
 # Background
 
