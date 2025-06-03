@@ -76,7 +76,7 @@ You have no benefit application drafts to show.
 
 ## Edge cases:
 
-### System:
+### System
 The data for saved applications is gathered from the same API as the main user call. Therefore, there are no errors specific to just this section. If the main user call fails, the entire My VA page displays an error (MPI error).
 
 ---
