@@ -65,6 +65,8 @@ This new field has the following options ([enums found on the LH documentation p
 - [Basic GA4 template that each person will need to update for their own view of the data](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/5Jm2bveUQDG4SBSAp_OrJQ)
 
 ### Launch showing improved metrics 
+
+The big change was a drop in 422's after the new push - but we still have high 502s
 #### GET/SHOW
 
 ![image](https://github.com/user-attachments/assets/8025d0ab-7ab5-48f1-aa2c-116dca7393a0)
