@@ -3,41 +3,30 @@
 
 ## Background 🏗️
 Our project is part of the Digital Health Modernization strategy, which aims to create a centralized place for Veterans to access their health information. As part of this effort, My HealtheVet (MHV) is being moved to VA.gov. 
-	
-`What problem is your product trying to solve?`
 
 MHV provides Veterans with the ability to securely message and access previous messages with their healthcare teams.
-  
-`Where is your product situated on VA.gov? (ex: auth vs. unauth)`
 
 Secure Messaging requires a Veteran to be authenticated.
   
-`What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?`
-
 Many Veterans are familiar with this tool as it was launched in November of 2023. With the passing of Milestones 1 and 2, there is an influx of Veterans using this product for the first time.
 
-`Product Brief`
-
-**[Link to product brief](url goes here).**
+**[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/product/README.md)**
 
 </details>
 
 ### [OCTO-DE Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md) 
 
-<details><summary>Which OCTO priorities does this research support? Work with your VA lead and product manager as needed. </summary>
+Which OCTO priorities does this research support? Work with your VA lead and product manager as needed.
 
 
 `Objective 1:  VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.`  
 
-> - **Key Result 1:** Improve satisfaction with our web and mobile products by 5 points.
+**Key Result 1:** Improve satisfaction with our web and mobile products by 5 points.
 
 
 
 ### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
 
-<details><summary>Where does your product fit into the Veteran journey?
-Are there moments that matter?</summary>
-	
 - `Starting Up`
 - `Taking Care of Myself`
 - `Reinventing Myself`
@@ -48,10 +37,6 @@ Are there moments that matter?</summary>
 
 
 ## Research Goals 🥅	
-`What are you trying to learn from this research?` 
-
-> [!NOTE]
-> Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.
 
 ### Goals
 
@@ -62,23 +47,12 @@ Are there moments that matter?</summary>
 `3.` **[Enter answer here]** 
   
 ### Outcome
-`How will this research advance your product to the next phase in the design process? What will you do with your learnings?`
 
----
-
-**[Enter outcome here]** 
+**The results of this study will help us determine if our designs provide the best user experience for Veterans to compose secure messages and help to identify any pain points. The findings will inform future iterations of designs.** 
 
 ---
 
 ### Research questions
-> [!NOTE]
-> Do not write out all questions you plan to ask participants -- that should go in the` [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)
-
-***Consider bucketing research questions under research goals and think about:***
-	
-`What will I do with what I learn from this question?`
-  
-`Does this question serve the goals of my study?`
 
 **`1.`[Enter Q1]**
 
@@ -90,28 +64,13 @@ Are there moments that matter?</summary>
 
 **`5.`[Enter Q5]**
 
-> [!TIP]
->Enter more questions as needed
+
 
 ### Hypotheses
-> [!NOTE]
-> Remember to constrain the hypotheses to the goals of your study!
+
  
-**Think through these prompts to develop strong hypotheses:**
-	
-`What do you intend to learn and measure from this study?` 
-
-`What do you already know about this problem space?`
- 
-`What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)`
-  
-`Write a generalized statement that combines what you know + what you think will happen during the study.`
-
----
-
 **[Enter hypotheses here]** 
 
----
   
 ## Methodology  🛠️
 
@@ -142,85 +101,137 @@ We will partner with Perigean to recruit Veterans.
 - `Ideal completed sessions:` **[10]**
 
 ### Primary criteria (must-haves)
-*What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
+Please make sure that ALL participants are willing to complete the session on the device they sign up for and:
 
-- `[Place primary criteria here between hash marks when in edit mode]`
-- `primary criteria`
-- `primary criteria`
-- **`Add more criteria as needed`**
+ - During the session, are willing to share their screen
+ - Are willing to be on camera (on desktop/laptop)
+ - Are willing to have their session recorded
+ - Have a working microphone and camera on their device
+ - Only one participant per US State
 
-#### Secondary criteria (nice-to-haves)
-*What criteria would strengthen your results?* 
+**Criteria for participants**
+ - 6 participants must regularly use Secure Messages (see screener)
+ - At least 4 participants with cognitive disabilities – mild to severe (see screener)
+ - Have not worked for the VA in the previous 5 years.
 
-- `[Place secondary criteria here between hash marks when in edit mode]`
-- `secondary criteria`
-- `secondary criteria`
-- **`Add more criteria as needed`**
+
+- `1. Age distribution:
+  
+	- (2) 75+
+
+	- (4) 65 – 74
+
+ 	- (2) 55 – 64
+
+	- (3) 35 – 54
+
+ 	- (1) 18 – 34'
+
+ - '2. Education distribution:
+   
+ 	- (4) High School graduate or equivalent or less
+    
+	- (3) Some college, no degree
+    
+ 	- (2) Associate degree (occupational or academic)
+    
+ 	- (2) Bachelor's degree
+    
+ 	- (1) Master's degree or higher'
+
+ - '3. Demographic distribution:
+      
+ 	- (0) American Indian or Alaska Native
+    
+	- (0) Asian
+   
+ 	- (2) Black or African American
+    
+ 	- (2) Hispanic, Latino, or Spanish origin
+    
+	- (8) White or Caucasian'
+
+   
+ - '4. Residence:
+
+	- (3) rural
+   
+ 	- (9) urban`
+
+
+#### Screener Questions
+
+1. Have you used Secure Messaging on VA.gov within the last 3 months?
+   
+   a. _Yes (recruit 6)_
+   
+   b. _No_(recruit 6)
+
+2. Have you been diagnosed with (formally or informally) a cognitive disability? This may include any intellectual disability, ADHD, Autism Spectrum Disorder, severe, persistent mental illness, brain injury, stroke, Alzheimer's disease and other dementias, or others not listed.
+ 
+   a. _Yes (Recruit 4)_
+
+   b. _No (Recruit 8)_
+
+3. Based on your response to the previous question, how would you rate the severity of your cognitive disability? (For those who answered Yes on the previous question do not recruit d or e)
+    
+    a. _Mild - (Symptoms have a limited effect on daily life)_
+   
+    b. _Moderate – (Symptoms make daily life much more difficult than my peers.)_
+   
+    c. _Severe - (Symptoms make daily life extremely difficult and I require assistance.)_
+   
+    d. _I prefer not to answer_
+   
+    e. _Not applicable_
+
+
+
+
 
 ## Timeline 🗓️
-> [!NOTE]
-> **Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.** 
 
 ### Optional Kick-off Call with Perigean
 
 - `Suggested dates and times:` **[Enter dates and times MM/DD HH:MM]**
 
 ### Prepare
-*When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).*
 
-**A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.** 
-> [!NOTE]
-> **Send pilot participant email in study Slack channel**
-
-- `Pilot participant name:` **[Enter name]**
-- `Date and time of pilot session:` **[Enter time]** 
+- `Pilot participant name:` **TBD**
+- `Date and time of pilot session:` **We will handle this internally** 
 
 ### Research sessions
-- `Planned dates of research:` **[Enter dates MM/DD-MM/DD]**
+- `Planned dates of research:` **06/17-06/25]**
 
 ### Length of sessions
-- `Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)` **[Enter time length]**
+- `Session length:` **60 minutes**
   
-- `Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time)` **[Enter buffer time]**
+- `Buffer time between sessions:` **30 minutes**
   
-- `Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)` **[Enter NUM per day]**
+- `Maximum Sessions per day: ` **4**
 
 ### Availability
-When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
 
-> [!NOTE]
-> We recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S. 
-
-> [!TIP]
-> Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. **(e.g. 3/17, Monday 9:00AM-1:00PM, 3:00PM-6:00PM EST; 3/18, Tuesday 9:00AM-6:00PM EST, etc.;** ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
->
-> **Place time slots between `hash marks` when in edit mode.**
-
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `Add more slots as needed`
+- `[06/17, Tuesday, 08:30 AM - 07:00 PM] EST`
+- `[06/18, Wednesday, 08:30 AM - 07:00 PM] EST`
+- `[06/20, Friday, 08:30 AM - 04:00 PM] EST`
+- `[06/23, Monday, 08:30 AM - 07:00 PM] EST`
+- `[06/24, Tuesday, 08:30 AM - 07:00 PM] EST`
   
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
-> [!NOTE]
-> **Please do not include email addresses in this section.** We previously required email addresses. VA's GitHub policy ([see announcement](https://github.com/orgs/department-of-veterans-affairs/discussions/13)) has changed. VA.gov email addresses cannot be in public repositories.
->
-> **Please list the names of people in each role.** In the Slack study channel, send an email and primary phone number for the moderator. Also send emails for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
-
-- `Moderator:` **[Enter full name]**	
-- `Research guide writing and task development (usually but not always same as moderator):` **[Enter full name]**		
-- `Participant recruiting & screening:`	**[Enter full name]**	
-- `Project point of contact:` **[Enter full name]**		
-- `Accessibility specialist (for sessions where support for assistive technology may be needed):` **[Enter full name]**	
-- `Note-takers:` **[Enter full name]** ***or*** **[Designate Perigean]**	
+- `Moderator:` **Dan Van Vleck**	
+- `Research guide writing and task development (usually but not always same as moderator):` **Anne Costello Kennedy**		
+- `Participant recruiting & screening:`	**Perigean**	
+- `Project point of contact:` **Anne Costello Kennedy**		
+- `Accessibility specialist (for sessions where support for assistive technology may be needed):` **N/A**	
+- `Note-takers:` **TBD**	
 - `Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work. Spread observers across sessions. There should be no more than 5 to 6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side.`
 
-- **[Enter full name]**
-- **[Enter full name]**
-- **[Enter full name]**
+- **Becky Phung**
+- **Lexi Wunder**
+- **Emily Taylor**
+- **Ben Caldwell**
 
 ## Approvals ✅
 - `Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]`
