@@ -1,7 +1,15 @@
 # Veteran Status Card Redesign Staging Review Artifacts  
 
-### Staging URL
-- 
+### Staging URL's
+- https://staging.va.gov/profile
+  - Includes a new Veteran Status Card profile hub card and link
+- https://staging.va.gov/profile/military-information
+  - Removes of the "Proof of Veteran Status" section
+  - Adds "Access your Veteran Status Card" link
+- https://staging.va.gov/profile/veteran-status-card
+  - The new Veteran Status Card page
+  - Includes a "Frequently asked questions" section with collapsible/expandable topics
+  - Includes a "Print your Veteran Status Card (PDF)" link within the third expandable FAQ
 
 ### Test Users & Scenarios
 - 
