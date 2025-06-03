@@ -63,9 +63,9 @@ Jamie’s doctor is encouraging them to manage their high blood sugar. Jamie use
 
 ## ✅ Third Task: Keri Lotion
 
-Jamie realizes they are running low on their **active Keri Lotion** prescription.
+Jamie realizes they are running low on their **current Keri Lotion** prescription.
 
-> **Task:** Find and open the **active Keri Lotion** prescription so Jamie can get more information.
+> **Task:** Find and open the **current Keri Lotion** prescription so Jamie can get more information.
 
 **How would you rate the difficulty of locating Jamie's Keri Lotion prescription?**  
 1: Very Difficult  
