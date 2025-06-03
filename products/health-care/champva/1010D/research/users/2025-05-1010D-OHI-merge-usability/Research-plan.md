@@ -56,7 +56,7 @@ Are there moments that matter?</summary>
 
 ### Goals
 
-1. Understand whether the placement of the 10-7959c within the 10-10D application for CHAMPVA benefits works better, as it relates to form submission and time on task.
+1. Understand whether the placement of the 10-7959c within the 10-10D application for CHAMPVA benefits works better than the standalone forms, as it relates to form submission and time on task.
 
 2. Understand if the placement of the 10-7959c within the 10-10D form works better for users, specifically as it relates to providing all necessary and required supporting evidence.
 
