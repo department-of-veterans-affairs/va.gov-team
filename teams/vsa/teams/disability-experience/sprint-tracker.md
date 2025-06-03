@@ -56,8 +56,6 @@ Sprint Goals:
 | Partial date validation on TE (Stretch)                                                                                                                      |  [111023](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110027) |                            |                 |                          |
 | Fix typo on C\&P exam page                                                                                                                                   |  [110952](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110952) |                            |                 |                          |
 | Fix traumatic events jump around                                                                                                                             |  [110754](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110745) |                            |                 |                          |
-| \[STRETCH] HCD: 0781 UX MonitoringFeedback on Datadog Dashboard for 0781                                                                                     |  [110757](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110757) |                            |                 |                          |
-| \[STRETCH] HCD: 0781 UX MonitoringReceive and Refine GA4 Dashboard for 0781                                                                                  |  [110754](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110754) |                            |                 |                          |
 | HCD: 0781 UX Monitoring Request and Receive MyVA411 Data                                                                                                     |  [110225](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110225) |                            |                 |                          |
 | HCD: 0781 UX Monitoring Analyze MyVA411 Data                                                                                                                 |  [111026](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111026) |                            |                 |                          |
 | HCD: Content development for “text notifications” ZSF work related to [110512](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110512)  |                                       Ticket TBD                                       |                            |                 |                          |
@@ -191,8 +189,6 @@ _Delivery + Notes:_
 
 - [ ] Any Additional details about goals not completed will be documented here
 
-
-#
 
 
 # Sprint 5 Goals \[05/21/25 - 06/03/25] - Sprint Spam Musubi 🍣 
