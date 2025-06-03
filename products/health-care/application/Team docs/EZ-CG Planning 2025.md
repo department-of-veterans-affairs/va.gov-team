@@ -23,6 +23,7 @@
 ### 10-10CG
 
 #### Obj: CG [Improvements/BUGs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40165)
+- [#111162](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111162) - [BE] Update submittedAt attribute date/time stamp
 - [#102073](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102073) - [FE] Update signature page
 - [#99053](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99053) - [FE] va-statement-of-truth web component
 - [#99952](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99952) - [Design] Update content on Caregivers' contact info pages
