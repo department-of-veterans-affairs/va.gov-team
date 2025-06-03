@@ -10,7 +10,7 @@
   
 ## Artifacts
 - [Semantic color discovery](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/3846#issuecomment-2787713373) 
-- [Figma](NEED LINK)
+- [Figma](https://www.figma.com/design/afurtw4iqQe6y4gXfNfkkk/branch/As3gh7VNu3IcCFQ6hg5nMu/VADS-Component-Library?m=auto)
 - [Experimental Design [Colored tags]](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/2993#top)
 
 ## Summary
