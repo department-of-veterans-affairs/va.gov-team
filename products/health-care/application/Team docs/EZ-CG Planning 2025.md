@@ -23,6 +23,7 @@
 #### Obj: CG [Improvements/BUGs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40165)
 - #tbd
 
+##
 ### Team PTO
 - Matt: 6/4, 6/9
 - ...
@@ -50,6 +51,7 @@
 - [#102073](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102073) - [FE] Update UI on signature page
 - [#99952](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99952) - [Design] Contact info page content
 
+##
 ### Team PTO
 - Holiday: Memorial Day, Monday 5/26
 - Josh: 5/6-5/21
@@ -81,6 +83,7 @@
 - [#108604](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108604) - [BE] Audit Sentry logs for DD move
 - [#99952](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99952) - [Design] Contact info page content
 
+##
 ### Team PTO
 - Derrick: 5/5-5/19
 - Josh: 5/6-5/21
