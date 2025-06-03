@@ -54,7 +54,12 @@ If a Veteran has a VA debt that they would like to dispute there is currently no
 #### Baseline KPI Values
 * _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
 
-    <TBD: Awaiting statistic from Debt Management Center on total number of debt disputes>
+Current disputes being processed by DMC; as of June 1, 2025.
+|Type|Count| 
+|--|--|
+|C&P Dispute  | 7071 |
+|EDU Dispute  |394  |
+
 
 ### Objectives and Key results (OKRs)
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
