@@ -132,9 +132,9 @@ We would like Perigean to recruit assistive technology (AT) and non-AT users.
 
 Our intended audience for this study is Veterans with high disability ratings and their dependent spouses and children, who may or may not be currently enrolled in the CHAMPVA program. We will split this study into two cohorts:
 
-* **Cohort 1 (N = 12 minimum):** Veterans with a 100% service connected disability rating with spouse and/or dependent children who may or may not be enrolled in CHAMPVA benefits
+* **Cohort 1 (n = 12 minimum):** Veterans with a 100% service connected disability rating with spouse and/or dependent children who may or may not be enrolled in CHAMPVA benefits
   
-* **Cohort 2 (N = 3 minimum):** Spouses and dependent children of Veterans with a 100% service connected disability rating, who may or may not be enrolled in CHAMPVA benefits
+* **Cohort 2 (n = 3 minimum):** Spouses and dependent children of Veterans with a 100% service connected disability rating, who may or may not be enrolled in CHAMPVA benefits
 
 ### Recruitment criteria
 **All participants must:**
@@ -223,7 +223,7 @@ _Response options: YES or NO (Mark answer, either qualifies for study)_
 We would like a kick-off call with Perigean to discuss recruitment criteria. Suggested dates and times: 
 
 - `06/06, Friday, 3:00pm-6:00pm ET`
-- `06/09, Monday, 1:00pm-4:00pm ET`
+- `06/09, Monday, 9:30am-11:00pm and 3:00pm-4:00pm ET`
 - `06/10, Tuesday, 9:30am-10:30am ET, 12:00pm-5:30pm ET`
 
 ### Prepare
@@ -261,10 +261,10 @@ We would like to have an AT user pilot, and non-AT user pilot
 - `Research guide writing and task development:` Renata Keck	
 - `Participant recruiting & screening:`	Perigean	
 - `Project point of contact:` Renata Keck & Jamie Fiore	
-- `Accessibility specialist (for sessions where support for assistive technology may be needed):` **TBD**	
+- `Accessibility specialist (for sessions where support for assistive technology may be needed):` **TBD** - team has opened an ADE ticket for support [(#110909)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110909)	
 - `Note-takers:` Renata Keck, Jamie Fiore, and Rachel Pope
 - `Observers:` Will need to sign up so we can limit the number per session. Renata will add them to the session invites received from Perigean.
 
 ## Approvals ✅
-- `Reviewed by Amanda Klausmeier [OCTO Design Lead] on [MM-DD-YYYY]`
+- `Reviewed by Amanda Klausmeier, OCTO Design Lead on [06/02/2025]`
 - `Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]`
