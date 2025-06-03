@@ -6,11 +6,11 @@
    - Filter: `payload.action` is create OR unauth_create
 - **Error Rate: Form Submissions (422, 5xx)**: Count of 4xx and 5xx errors DIVIDED BY total number of requests
    - Filter: `payload.action` is create OR unauth_create
-- **Error Rate: Dashboard replies<br>(422, 5xx)**: Count of 4xx and 5xx errors DIVIDED BY total number of requests
+- **Error Rate: Dashboard replies (422, 5xx)**: Count of 4xx and 5xx errors DIVIDED BY total number of requests
    - Filter: `payload.action` is create_reply
-- **Error Rate:<br>Authorization Related<br>(401)**: Count of 401 errors DIVIDED BY total number of requests
+- **Error Rate: Authorization Related (401)**: Count of 401 errors DIVIDED BY total number of requests
    - Filter: None, include all `payload.action`
-- **Error Rate:<br>Other<br>(404)**: Count of 404 errors DIVIDED BY total number of requests
+- **Error Rate: Other (404)**: Count of 404 errors DIVIDED BY total number of requests
    - Filter: None, include all `payload.action`
 - **Latency: CRM**: AVERAGE of count of 2xx requests
    - Filter: `payload.action` is create, unauth_create, OR create_reply
