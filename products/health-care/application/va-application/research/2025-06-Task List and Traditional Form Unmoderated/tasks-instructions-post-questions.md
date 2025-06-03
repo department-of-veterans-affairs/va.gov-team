@@ -2,11 +2,11 @@
 
 **Introductory Text for Participants in Optimal Workshop (Common to both cohorts):**
 
-"Thank you for participating in this study. We are exploring different ways to improve the online application process for VA health care on VA.gov. Today, we'd like you to imagine you are a Veteran applying for health care benefits using a new design concept. There are no right or wrong answers, and we are not testing your abilities. We are testing the designs.
+Thank you for participating in this study. We are exploring different ways to improve the online application process for VA health care on VA.gov. Today, we'd like you to imagine you are a Veteran applying for health care benefits using a new design concept. There are no right or wrong answers, and we are not testing your abilities. We are testing the designs.
 
 This study will involve interacting with **two different prototype versions** of the health care application and answering a few questions after each, and then some comparison questions at the end. It should take approximately [30-40 minutes] to complete.
 
-Ready to begin? Please click 'Continue' to start."
+Ready to begin? Please click 'Continue' to start.
 
 ---
 
@@ -14,7 +14,7 @@ Ready to begin? Please click 'Continue' to start."
 
 Imagine you are a Veteran who recently separated from military service and you want to apply for VA health care benefits. You've heard that applying online is the easiest way.
 
-Your goal for this task is to explore this application prototype and try to navigate to and identify where you would enter your information. You don't need to actually fill out the forms, just navigate to those sections and get a feel for the structure.
+Your goal for this task is to explore this application prototype and try to navigate to and identify where you would enter your information. You don't need to actually fill out the forms, just navigate to those sections and get a feel for the structure and moving about the form.
 
 ---
 
@@ -24,7 +24,7 @@ You will now explore the **Orange** prototype. This is a new approach to the app
 
 **Prototype Link (Orange - Task List):** [PROTOTYPE LINK]
 
-When you have finished exploring this prototype and feel you understand its navigation for the specified sections, please return to this survey.
+When you have finished exploring this prototype and feel you understand its navigation for the specified sections, this task is compelete.
 
 ---
 
@@ -44,7 +44,7 @@ Now, you will explore a different approach to the application, the **Green** pro
 
 **Prototype Link (Green - Traditional Flow):** 
 
-When you have finished exploring this prototype and feel you understand its navigation for the specified sections, please return to this survey.
+When you have finished exploring this prototype and feel you understand its navigation for the specified sections, this task is compelete.
 
 ---
 
@@ -64,7 +64,7 @@ When you have finished exploring this prototype and feel you understand its navi
 
 **Prototype Link (Green - Traditional Flow):** [LINK TO GREEN/ORANGE PROTOTYPE HERE]
 
-When you have finished exploring this prototype and feel you understand its navigation for the specified sections, please return to this survey.
+When you have finished exploring this prototype and feel you understand its navigation for the specified sections, this task is compelete.
 
 ---
 
@@ -80,10 +80,10 @@ When you have finished exploring this prototype and feel you understand its navi
 
 **Task Instructions for Cohort 2 - Task 2 (Orange Pattern):**
 
-"Now, you will explore a different approach to the application, the **Orange** prototype, which is a new task list approach. Please click on the link below to open this prototype. Once it loads, please navigate and try to understand where you would enter your information.
+Now, you will explore a different approach to the application, the **Orange** prototype, which is a new task list approach. Please click on the link below to open this prototype. Once it loads, please navigate and try to understand where you would enter your information.
 
 **Prototype Link (Orange - Task List):** 
-When you have finished exploring this prototype and feel you understand its navigation for the specified sections, please return to this survey."
+When you have finished exploring this prototype and feel you understand its navigation for the specified sections, this task is compelete.
 
 ---
 
