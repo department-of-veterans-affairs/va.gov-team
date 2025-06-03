@@ -196,6 +196,6 @@ tbd
 **Team Members:**  
 - **BMT2:** Stacy Wise (Tech Lead), Ian Donovan (Engineer), Saliha Ghaffar (Product Manager).  
 - **OCTO Benefits Portfolio:** Amy Lai (Product Owner), Julie Strothman (Designer), Cory Sohrakoff (Engineering).  
-- **Event Bus Team:** 
+- **Event Bus Team:** Anthony Nguyen (PO), Emily Wilson (Tech Lead), Darius Dzien (Engineer), Rick Golden (Product Manager).
 **Stakeholders:**  
 - BMT, Event Bus team, BIP team, VA Notify team, VA Communications team, Veterans.
