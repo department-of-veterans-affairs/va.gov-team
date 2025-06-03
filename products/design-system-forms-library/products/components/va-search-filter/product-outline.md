@@ -7,7 +7,7 @@
 - Mobile Dev: Tim Roettger
   
 ## Artifacts
-- [Figma](https://www.figma.com/design/afurtw4iqQe6y4gXfNfkkk/VADS-Component-Library)
+- [Figma](https://www.figma.com/design/afurtw4iqQe6y4gXfNfkkk/VADS-Component-Library?node-id=29763-24650&p=f&t=SSaoOjXDVsrn5Jez-0)
 - [Guidance](https://design.va.gov/templates/search-results)
 - [Experimental Design Request](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/3423)
 
