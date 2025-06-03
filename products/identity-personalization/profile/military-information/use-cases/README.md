@@ -7,6 +7,14 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 - [Figma files](https://www.figma.com/design/zb5ecY9yMnupiLjaH9UmSc/Profile---Military-Information?node-id=609-2756&t=iU7vARDUjgIJkIfo-1)
 - Test Rail QA
 
+<details><summary>Archive | How to reproduce in staging</summary>
+
+- [Does not have health care](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/health-care-use-cases/no-health-care.md#how-to-reproduce)
+- [Health care appointments](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/health-care-use-cases/health-care-appointments.md#how-to-reproduce)
+- [Health care messages](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/health-care-use-cases/health-care-messages.md#how-to-reproduce)
+
+</details>
+
 ## Common use cases
 ### User logs in with LOA1 account
 - [User logs in with an LOA1 account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
