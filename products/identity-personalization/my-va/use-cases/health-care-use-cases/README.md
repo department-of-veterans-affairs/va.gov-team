@@ -1,4 +1,4 @@
-# My VA: Health care Use Cases
+# My VA: Health care use cases
 
 **Last updated: May 2025**
 
