@@ -13,11 +13,9 @@ Sprint Goals: 
 
 - Product prioritization of additional requests related the single-page list and loop implementation:
 
-|                                                                                            |                                                                                       |                            |                 |                          |
-| ------------------------------------------------------------------------------------------ | :-----------------------------------------------------------------------------------: | :------------------------: | :-------------: | :----------------------: |
-| **Sprint Goal**                                                                            |                                **GitHub Ticket Number**                               | **Reason if Not Complete** | **Update Date** | **End of Sprint Status** |
-| Review the need to update outdated instances of the single-page list and loop in 526 pages |                                       Ticket TBD                                      |                            |                 |                          |
-| Revisit button pair for alignment with design system and magnification usability           | [110725](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110725) |                            |                 |                          |
+  - Review the need to update outdated instances of the single-page list and loop in 526 pages
+
+  - Prioritize existing ticket: Revisit button pair for alignment with design system and magnification usability: [#110725](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110725)
 
 
 ### Product Analytics Dashboards for 526
@@ -32,28 +30,42 @@ Sprint Goals:
 
 - Begin consolidation of existing sources
 
-|                                                                |                          |                            |                 |                          |
-| -------------------------------------------------------------- | :----------------------: | :------------------------: | :-------------: | :----------------------: |
-| **Sprint Goal**                                                | **GitHub Ticket Number** | **Reason if Not Complete** | **Update Date** | **End of Sprint Status** |
-| Continue the audit of existing dashboards. Pending GA indexing |            TBD           |                            |                 |                          |
-| Begin consolidation of existing sources                        |            TBD           |                            |                 |                          |
+|                                             |                                                                                        |                            |                 |                          |
+| ------------------------------------------- | :------------------------------------------------------------------------------------: | :------------------------: | :-------------: | :----------------------: |
+| **Sprint Goal**                             |                                **GitHub Ticket Number**                                | **Reason if Not Complete** | **Update Date** | **End of Sprint Status** |
+| Continue the audit of existing dashboards.  | [#111179](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111179) |                            |                 |                          |
+| Begin consolidation of Datadog dashboards   | [#111180](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111180) |                            |                 |                          |
 
 
 ## Disability Teams 1 and 2
 
 ### 0781 Updates
 
-|                                                                              |                                                                                        |                            |                 |                          |
-| ---------------------------------------------------------------------------- | :------------------------------------------------------------------------------------: | :------------------------: | :-------------: | :----------------------: |
-| **Sprint Goal**                                                              |                                **GitHub Ticket Number**                                | **Reason if Not Complete** | **Update Date** | **End of Sprint Status** |
-| 0781 /fully-developed-claim page link open new tab - eng                     | [110147](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110147)  |                            |                 |                          |
-| 0781 Need to add a cypress test, related to bug/post-mortem                  | [110548](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110548)  |                            |                 |                          |
-| Entering PTSD as a condition should take user through detail loop            | [110665](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110665)  |                            |                 |                          |
-| Fix traumatic events jump around                                             |  [110754](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110745) |                            |                 |                          |
-| HCD: 0781 UX Monitoring Request and Receive MyVA411 Data                     |  [110225](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110225) |                            |                 |                          |
-| HCD: 0781 UX Monitoring Analyze MyVA411 Data                                 |  [111026](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111026) |                            |                 |                          |
-| HCD: Create Documentation for Accessing Analytics Platforms and Data Sources |  [110755](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110755) |                            |                 |                          |
-| HCD: Finalized 0781 Content Refinement                                       |  [109020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109020) |                            |                 |                          |
+|                                                                                                |                                                                                                                                                   |                            |                 |                          |
+| ---------------------------------------------------------------------------------------------- | :-----------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------: | :-------------: | :----------------------: |
+| **Sprint Goal**                                                                                |                                                              **GitHub Ticket Number**                                                             | **Reason if Not Complete** | **Update Date** | **End of Sprint Status** |
+| _Team 1_ - 0781 /fully-developed-claim page link open new tab - eng                            |                               [110147](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110147)                               |                            |                 |                          |
+| _Team 1_ - 0781 Need to add a cypress test, related to bug/post-mortem                         |                               [110548](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110548)                               |                            |                 |                          |
+| _Team 1_ - Entering PTSD as a condition should take user through detail loop                   |                               [110665](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110665)                               |                            |                 |                          |
+| _Team 2_ - Fix traumatic events jump around                                                    |                               [110754](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110745)                               |                            |                 |                          |
+| HCD: Finalized 0781 Content Refinement                                                         |                               [109020](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109020)                               |                            |                 |                          |
+| HCD: \[0781 Monitoring] Request and Receive MyVA411 Data                                       |                               [110225](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110225)                               |                            |                 |                          |
+| HCD: \[0781 Monitoring] Analyze MyVA411 Data                                                   |                               [111026](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111026)                               |                            |                 |                          |
+| HCD: \[0781 Monitoring]Create Documentation for Accessing Analytics Platforms and Data Sources |                               [110755](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110755)                               |                            |                 |                          |
+| HCD: \[0781 Monitoring] Feedback on Datadog Dashboard for 0781                                 |                               [110757](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110757)                               |                            |                 |                          |
+| HCD: \[0781 Monitoring] Set up GA4 Dashboard for 0781                                          | [110754](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110224?issue=department-of-veterans-affairs%7Cva.gov-team%7C110754) |                            |                 |                          |
+
+
+### 4142 Paper Sync
+
+Sprint Goals: 
+
+- Finalize MVP Designs for technical handoff
+
+|                                         |                                                                                       |                            |                 |                          |
+| --------------------------------------- | :-----------------------------------------------------------------------------------: | :------------------------: | :-------------: | :----------------------: |
+| **Sprint Goal**                         |                                **GitHub Ticket Number**                               | **Reason if Not Complete** | **Update Date** | **End of Sprint Status** |
+| HCD: \[Finalize MVP Design for Handoff] | [111178](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111178) |                            |                 |                          |
 
 
 ### Tech Debt
@@ -64,27 +76,26 @@ Sprint Goals: 
 
 - Fix errors around Toxic Exposure date entry validations.
 
-|                                                                                                                                                         |                                                                                        |                            |                 |                          |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------: | :------------------------: | :-------------: | :----------------------: |
-| **Sprint Goal**                                                                                                                                         |                                **GitHub Ticket Number**                                | **Reason if Not Complete** | **Update Date** | **End of Sprint Status** |
-| ZSF text notifications for silent failure emails - discovery/planning                                                                                   | [110512](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110512)  |                            |                 |                          |
-| Content development for “text notifications” ZSF work related to [110512](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110512)  |                                       Ticket TBD                                       |                            |                 |                          |
-| 526 PDF manual overflow should correctly list included forms                                                                                            |  [110666](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110666) |                            |                 |                          |
-| Timing out to lighthouse wrongfully causes non\_retryable\_error - discovery                                                                            |  [110575](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110575) |                            |                 |                          |
-| Remove toxic exposure data on opt out                                                                                                                   |  [110031](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110031) |                            |                 |                          |
-| Add frontend data validation for TE date fields                                                                                                         |  [110027](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110027) |                            |                 |                          |
-| Cypress test for TE for partial date opt out                                                                                                            |  [110032](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110027) |                            |                 |                          |
-| \[STRETCH] Partial date validation on TE                                                                                                                |  [111023](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110027) |                            |                 |                          |
-| Fix typo on C\&P exam page                                                                                                                              |  [110952](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110952) |                            |                 |                          |
+|                                                                                                                                                                 |                                                                                        |                            |                 |                          |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------: | :------------------------: | :-------------: | :----------------------: |
+| **Sprint Goal**                                                                                                                                                 |                                **GitHub Ticket Number**                                | **Reason if Not Complete** | **Update Date** | **End of Sprint Status** |
+| _Team 1_ - ZSF text notifications for silent failure emails - discovery/planning                                                                                | [110512](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110512)  |                            |                 |                          |
+| _HCD -_ Content development for “text notifications” ZSF work related to [110512](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110512)  |  [111045](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111045) |                            |                 |                          |
+| _Team 1_ - 526 PDF manual overflow should correctly list included forms                                                                                         |  [110666](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110666) |                            |                 |                          |
+| _Team 1_ - Timing out to lighthouse wrongfully causes non\_retryable\_error - discovery                                                                         |  [110575](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110575) |                            |                 |                          |
+| _Team 2 -_ Remove toxic exposure data on opt out                                                                                                                |  [110031](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110031) |                            |                 |                          |
+| _Team 2 -_ Add frontend data validation for TE date fields                                                                                                      |  [110027](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110027) |                            |                 |                          |
+| _Team 2 -_ Cypress test for TE for partial date opt out                                                                                                         |  [110032](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110027) |                            |                 |                          |
+| _Team 2 -_ \[STRETCH] Partial date validation on TE                                                                                                             |  [111023](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110027) |                            |                 |                          |
+| _Team 2 -_ Fix typo on C\&P exam page                                                                                                                           |  [110952](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110952) |                            |                 |                          |
 
 
-### MyVA 
+### MyVA Submission Status
 
-|                                                  |                                                                                       |                            |                 |                          |
-| ------------------------------------------------ | :-----------------------------------------------------------------------------------: | :------------------------: | :-------------: | :----------------------: |
-| **Sprint Goal**                                  |                                **GitHub Ticket Number**                               | **Reason if Not Complete** | **Update Date** | **End of Sprint Status** |
-| Complete design work for MyVA Submission Status  | [107771](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107771) |                            |                 |                          |
-| Complete content work for MyVA Submission Status |                                       Ticket TBD                                      |                            |                 |                          |
+|                                                            |                                                                                       |                            |                 |                          |
+| ---------------------------------------------------------- | :-----------------------------------------------------------------------------------: | :------------------------: | :-------------: | :----------------------: |
+| **Sprint Goal**                                            |                                **GitHub Ticket Number**                               | **Reason if Not Complete** | **Update Date** | **End of Sprint Status** |
+| Complete design and design work for MyVA Submission Status | [107771](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107771) |                            |                 |                          |
 
 
 ## Conditions Team
@@ -101,7 +112,7 @@ Sprint Goals: 
 
 - Run an internal bug-bash session to validate that prototypes meet the requirements for testing
 
-- If agreed with the OCTO enabling team, prepare and run Collab Cycle: Research Review and Midpoint Review
+- If agreed with the OCTO enabling team, prepare and run Collab Cycle: Research Review
 
 - Reserve capacity for potential fixes and requirements changes identified during testing
 
@@ -110,7 +121,6 @@ Sprint Goals: 
 | **Sprint Goal**                                                                                      |                                     **GitHub Ticket Number**                                    | **Reason if Not Complete** | **Update Date** | **End of Sprint Status** |
 | Revise conversation guide and research plan based on feedback                                        | [#780](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/780) |                            |                 |                          |
 | Multi-step conditions: Internal Bug Bash session                                                     | [#779](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/779) |                            |                 |                          |
-| \[STRETCH] Multi-step Conditions: Prepare for Midpoint Review                                        | [#788](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/788) |                            |                 |                          |
 | \[STRETCH] depends should clear the data of the dependent pages when the condition is no longer true | [#691](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/691) |                            |                 |                          |
 | \[STRETCH] Multi-step conditions: Look into changing how page headings work in Step 2 (Conditions)   | [#782](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/782) |                            |                 |                          |
 
@@ -162,10 +172,10 @@ Sprint Goals:
 
 - Initial discovery to assess potential autosuggestions and classification mappings that may be controversial
 
-|                                                                                                           |                          |                            |                 |                          |
-| --------------------------------------------------------------------------------------------------------- | :----------------------: | :------------------------: | :-------------: | :----------------------: |
-| **Sprint Goal**                                                                                           | **GitHub Ticket Number** | **Reason if Not Complete** | **Update Date** | **End of Sprint Status** |
-| Initial discovery to assess potential autosuggestions and classification mappings that may be problematic |            TBD           |                            |                 |                          |
+|                                                                                                           |                                                                                                |                            |                 |                          |
+| --------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------: | :------------------------: | :-------------: | :----------------------: |
+| **Sprint Goal**                                                                                           |                                    **GitHub Ticket Number**                                    | **Reason if Not Complete** | **Update Date** | **End of Sprint Status** |
+| Initial discovery to assess potential autosuggestions and classification mappings that may be problematic | [791](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/791) |                            |                 |                          |
 
 
 #### Increase the number of automation-eligible conditions covered in autosuggestions and classification
@@ -176,23 +186,25 @@ Sprint Goals:
 
 - Coordinate with Alejandro to get access to the latest version of Automation Eligible conditions from VBA teams
 
-|                                                                  |                          |                            |                 |                          |
-| ---------------------------------------------------------------- | :----------------------: | :------------------------: | :-------------: | :----------------------: |
-| **Sprint Goal**                                                  | **GitHub Ticket Number** | **Reason if Not Complete** | **Update Date** | **End of Sprint Status** |
-| Request VBA the latest version of automation eligible conditions |            TBD           |                            |                 |                          |
+|                                                                  |                                                                                                |                            |                 |                          |
+| ---------------------------------------------------------------- | :--------------------------------------------------------------------------------------------: | :------------------------: | :-------------: | :----------------------: |
+| **Sprint Goal**                                                  |                                    **GitHub Ticket Number**                                    | **Reason if Not Complete** | **Update Date** | **End of Sprint Status** |
+| Request VBA the latest version of automation eligible conditions | [792](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/792) |                            |                 |                          |
 
 \
 
 
 _Approvals:_ _(sent via email but approvals tracked here)_
 
-- [ ]  Ready to be sent for approvals 
+- [x]  ~~Ready to be sent for approvals (06/03/25)~~
 
-  - [ ] Team 1
+  - [x] ~~Team 1~~
 
-  - [ ] Team 2
+  - [x] ~~Team 2~~
 
-  - [ ] Conditions Team
+  - [x] ~~HCD~~
+
+  - [x] ~~Conditions~~ 
 
 - [ ]  VA PO & COR sent the Sprint Goals
 
@@ -212,7 +224,9 @@ _Delivery + Notes:_
 
   - [ ] Team 2
 
-  - [ ] Conditions Team
+  - [ ] HCD
+
+  - [ ] Conditions 
 
 - [ ] Any Additional details about goals not completed will be documented here
 
@@ -241,15 +255,15 @@ Goals:
 
 - HCD: We want to spotcheck 0781 to be able to identify any urgent pain points and issues.
 
-|                                                                                 |                                                                                        |                                                                                                                                                                   |                 |                          |
-| ------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :----------------------: |
-| **Sprint Goal**                                                                 |                                **GitHub Ticket Number**                                |                                                                     **Reason if Not Complete**                                                                    | **Update Date** | **End of Sprint Status** |
-| \[0781 PS] Vets-json-schema to match the final version of our schema            |  [103147](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103147) | Not doing: there is unclear value especially compared to the amount of work involved - being deprioritized for now to prioritize other more impactful work first. |                 |                          |
-| Add missing headings to Step 4 of 6: Supporting Evidence - development          | [109932](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109932)  |               A failing test required additional investigation. Issue has been resolved and PR is currently under review and should soon be merged.               |                 |                          |
-| Staging Review finding: Inaccurate link to download lay/witness statement - ENG | [108117](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108117)  |                                                                                                                                                                   |                 |                          |
-| 0781 rollout                                                                    | [110089](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110089)  |                                                                                                                                                                   |                 |                          |
-| \[0781 Monitoring] Conduct Discovery on GA4 and Datadog Offerings               |  [110229](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110229) |                                                                                                                                                                   |                 |                          |
-| \[0781 Monitoring] Request/Analyze MyVA411 Data                                 |  [110225](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110225) |                                                                                                                                                                   |                 |                          |
+|                                                                                 |                                                                                        |                                                                                                                                                                                                                                                               |                 |                          |
+| ------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------: | :----------------------: |
+| **Sprint Goal**                                                                 |                                **GitHub Ticket Number**                                |                                                                                                                   **Reason if Not Complete**                                                                                                                  | **Update Date** | **End of Sprint Status** |
+| \[0781 PS] Vets-json-schema to match the final version of our schema            |  [103147](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103147) |                                               Not doing: there is unclear value especially compared to the amount of work involved - being deprioritized for now to prioritize other more impactful work first.                                               |                 |                          |
+| Add missing headings to Step 4 of 6: Supporting Evidence - development          | [109932](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109932)  |                                                             A failing test required additional investigation. Issue has been resolved and PR is currently under review and should soon be merged.                                                             |                 |                          |
+| Staging Review finding: Inaccurate link to download lay/witness statement - ENG | [108117](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108117)  |                                                                                                                                                                                                                                                               |                 |                          |
+| 0781 rollout                                                                    | [110089](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110089)  |                                                                                                                                                                                                                                                               |                 |                          |
+| \[0781 Monitoring] Conduct Discovery on GA4 and Datadog Offerings               |  [110229](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110229) |                                                                                                                                                                                                                                                               |                 |           Done           |
+| \[0781 Monitoring] Request and Receive MyVA411 Data                             |  [110225](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110225) | This ticket has evolved because of new knowledge and is being rolled into the next sprint. In sprint 5, the ticket read "request/analyze" and we decided to break that out into two tickets, "request/receive" and "analyze", and both are part of Sprint 6.  |                 |        In Progress       |
 
 
 ### 526 Tech Debt
@@ -319,10 +333,22 @@ Goals:
 * Iterate on research plan based on feedback |                                                                                                |                            |                 |                          |
 | Multi-step conditions submission: Draft Conversation Guide                                                       | [770](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/770) |                            |                 |                          |
 | Iterate on research plan based on feedback                                                                       | [771](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/771) |                            |                 |                          |
-| **Prepare prototypes for usability testing*** Deploy updated prototypes and update status of known issues        |                                                                                                |                            |                 |                          |
-| Deploy updated edit flows for Mango and Kiwi prototypes                                                          | [768](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/768) |                            |                 |                          |
-| **Other**                                                                                                        |                                                                                                |                            |                 |                          |
-| Technical discovery to understand focus issue on conditions follow up questions                                  | [765](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/765) |                            |                 |                          |
+
+\
+
+
+|                                                                                                           |                                                                                                |   |   |   |
+| --------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------: | - | - | - |
+| **Prepare prototypes for usability testing*** Deploy updated prototypes and update status of known issues |                                                                                                |   |   |   |
+| Deploy updated edit flows for Mango and Kiwi prototypes                                                   | [768](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/768) |   |   |   |
+
+\
+
+
+|                                                                                 |                                                                                                |   |   |   |
+| ------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------: | - | - | - |
+| **Other**                                                                       |                                                                                                |   |   |   |
+| Technical discovery to understand focus issue on conditions follow up questions | [765](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/765) |   |   |   |
 
 _Approvals:_ _(sent via email but approvals tracked here)_
 
@@ -340,7 +366,15 @@ _Approvals:_ _(sent via email but approvals tracked here)_
 
 _Delivery + Notes:_
 
-- [ ] All goals have been updated in the sprint chart
+- [x] ~~All goals have been updated in the sprint chart~~
+
+  - [x] ~~Team 1~~
+
+  - [x] ~~Team 2~~
+
+  - [x] ~~HCD~~
+
+  - [x] ~~Conditions~~
 
 - [ ] Any Additional details about goals not completed will be documented here
 
