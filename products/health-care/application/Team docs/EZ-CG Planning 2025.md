@@ -5,14 +5,14 @@
 
 ### 10-10EZ
 
-#### Obj: 
-
+#### Obj: EZ [Multi-form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103260)
+- [#111103](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111103) - [BE] Tech exploration of BDS API
 
 #### Obj: EZ [CYOA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103253)
 - #tbd
 
 #### Obj: EZ [Improvements/BUGS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
-- #tbd - 
+- [#111096](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111096) - [FE] Investigate Future Discharge Date event spike
 
 #### Obj: EZ [Form Statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95313)
 - #tbd
