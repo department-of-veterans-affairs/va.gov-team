@@ -10,6 +10,10 @@
 **Feedback created:** 12/15/2022
 
 **Last update:** 
+- 06/2025 - Sara - MHV Classic version of SM is being sunset on 6/4/2025 - users will be redirected to SM on VA.gov.
+- 05/2025 - Sara - Beginning to plan for the integration of OH/Cerner users in the new version of the tool. The /new-message flow will need to be updated to accommodate an extra screen in order to step users through a flow based on how triage group data are organized in that EHR system. New features also include surfacing recent recipients and updated UI for editing contact lists (VistA only). 
+- 03/2025 - Sara - Links on VA.gov connect all users to the new tool (no longer route to MHV Classic version)
+- 06/2024 - Sara - Integrating secure messages into the full MHV on VA.gov portal, with secondary navigation to connect all tools. 
 - 12/19/2022 - Joni completed documentation
 - 12/28/2022 - Mikki - added link to phased roll-out Mural, updated image of visual site map to represent full launch IA, simplified URL/breadcrumb info, other minor copy updates
 - 1/11/2023 - Mikki - updated sitemap to represent core pages in structure, dynamic views, and sub-task flows;  updated breadcrumbs for My folders and Advanced Search pages
