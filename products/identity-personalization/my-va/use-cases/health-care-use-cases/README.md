@@ -10,13 +10,13 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 
 ## Phase 1, 3.0 Experience
 - This feature on My VA integrates with My HealtheVet and the VA online scheduling tool (VAOS or Appointments) to give the user dynamic content updates for upcoming appointments and unread messages.
-- Users only see this content if they are defined as health care users, and have a health care facility associated with them. I.e. the facilities attribute in `user` state is greater than 0.
+- Users only see this content if they are defined as health care users, and have a health care facility associated with them. Which means, the facilities attribute in `user` state is greater than 0.
 
 ## Common use cases
 
 <details><summary>User does not have VA health care</summary>
 
-- **Use case:** PINEAPPLE When a LOA3 user does not have VA health care, they will see text in the section prompting them to apply for VA health care. No other secondary content shows in this use case.
+- **Use case:** When a LOA3 user does not have VA health care, they will see text in the section prompting them to apply for VA health care. No other secondary content shows in this use case.
 - **Status code:** TBD
 - **Content:** TBD
 - **Format:** TBD
