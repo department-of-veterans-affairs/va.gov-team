@@ -2,8 +2,6 @@
 
 **Last updated: June 2025**
 
-For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the user will not see this section on My VA.
-
 - User flow
 - Figma files
 - Test Rail QA
@@ -20,6 +18,7 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 
 
 ## Phase 1, 3.0 experience
+- For all of these use cases, the user must be LOA3 (identity verified). **If the user is not LOA3, the user will not see this section on My VA.**
 - Outstanding debts encompasses overpayment debts and copay debts.
    - Overpayment debts occur when a user is overpaid for VA benefits. This can happen for a variety of reasons, but an example is when a Veteran doesn't update their dependency information and is paid more for their VA benefits than they are entitled to. The Veteran then owes this money back to VA as an overpayment debt.
    - A copay debt is an amount that a Veteran must pay for VA health care services, similar to how copays work with private health insurance. This amount varies depending on a Veteran's health care benefits through VA.
