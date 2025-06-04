@@ -201,43 +201,43 @@ Below are the primary applications and shared functions our team is responsible 
 
 #### My HealtheVet Landing Page
 
-- **Path:** `vets-website/src/applications/mhv-landing-page`
+- **Path:** [vets-website/src/applications/mhv-landing-page](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/mhv-landing-page)
 - **Description:** Main entry point for the My HealtheVet experience on VA.gov. Provides Veterans with access to health tools, personalized content, and navigation to health-related features.
 - **Key Documentation:** [README](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/mhv-landing-page/README.md)
 
 #### MHV Downtime Shared Function
 
-- **Path:** `vets-website/src/platform/mhv/downtime`
+- **Path:** [vets-website/src/platform/mhv/downtime](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/platform/mhv/downtime)
 - **Description:** Shared logic and components for displaying downtime notifications and handling service outages across MHV-related applications.
 - **Key Documentation:** [README](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/platform/mhv/downtime/README.md)
 
 #### MHV Secondary Navigation Shared Function
 
-- **Path:** `vets-website/src/platform/mhv/secondary-nav`
+- **Path:** [vets-website/src/platform/mhv/secondary-nav](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/platform/mhv/secondary-nav)
 - **Description:** Reusable navigation component for health tools, providing consistent secondary navigation across MHV applications on VA.gov.
 - **Key Documentation:** [README](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/platform/mhv/secondary-nav/README.md)
 
 #### MHV Page Not Found Component
 
-- **Path:** `vets-website/src/platform/mhv/components/MhvPageNotFound.jsx`
+- **Path:** [vets-website/src/platform/mhv/components/MhvPageNotFound.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/platform/mhv/components/MhvPageNotFound.jsx)
 - **Description:** Reusable component that displays a user-friendly "Page Not Found" message for invalid or unavailable routes within MHV-related applications on VA.gov.
 - **Notes:** Ensures consistent error handling and user experience across all MHV applications.
 
 #### MHV Registered User Guard Component
 
-- **Path:** `vets-website/src/platform/mhv/components/MhvRegisteredUserGuard.jsx`
+- **Path:** [vets-website/src/platform/mhv/components/MhvRegisteredUserGuard.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/platform/mhv/components/MhvRegisteredUserGuard.jsx)
 - **Description:** Higher-order component that restricts access to certain MHV applications, ensuring only identity-verified and registered My HealtheVet users can view protected health tools content.
 - **Notes:** Implements route guard logic to ensure users meet a base level of authorization—specifically, that their account is identity-verified and they are a registered patient—before granting access to health tools. This includes checking the MHV account state for tools that require this level of access.
 
 #### MHV Supply Reordering Application
 
-- **Path:** `vets-website/src/applications/mhv-supply-reordering`
+- **Path:** [vets-website/src/applications/mhv-supply-reordering](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/mhv-supply-reordering)
 - **Description:** Application for Veterans to reorder medical supplies through the My HealtheVet portal on VA.gov. When completed, it will replace the classic Health Care Supply Reordering Application and support integration with future supply ordering enhancements.
 - **Key Documentation:** [README](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/mhv-supply-reordering/README.md), [ROES/DALC/MDOT API](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/products/health-care/mdot-roes-dalc-supply-reordering)
 
 #### Classic Health Care Supply Reordering Application
 
-- **Path:** `vets-website/src/applications/health-care-supply-reordering`
+- **Path:** [vets-website/src/applications/health-care-supply-reordering](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/health-care-supply-reordering)
 - **Description:** Application for ordering health care supplies, supporting workflows for Veterans outside of the MHV context. It will be replaced by the above MHV Supply Reordering Application.
 - **Key Documentation:** [README](https://github.com/department-of-veterans-affairs/vets-website/tree/master/src/applications/health-care-supply-reordering/README.md)
 
