@@ -8,10 +8,10 @@
 
 - [Key Data](#key-data-points)
    - [Medallia feedback survey](#medallia-feedback-survey---quantitative)
-   - [Medallia intercept survey](#medallia-intercept-survey-quantitative)
-   - [My VA411 calls](#MyVA411-calls)
-- [Discussion](#discussion)
-- [Comparisons](#comparisons)
+   - [Medallia intercept survey](#medallia-intercept-survey---quantitative)
+   - [My VA411 calls](#MyVA411-calls) - section to be added
+   - [Comparisons](#comparisons) - section to be added
+- [Discussion](#discussion) - section to be added
 - [Recommendations](#recommendations)
 
 ## Background
@@ -65,6 +65,8 @@ We requested survey data for January thru March the Contact Center Team in April
 | Verify                 | 164   | 12.3%       |
 | CSP - ID.me            | 92    | 6.9%        |
 | CSP - Login.gov        | 54    | 4.1%        |
+
+### Comparisons
 
 ### Themes from Qualitative Data
 
