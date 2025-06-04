@@ -1,12 +1,79 @@
 
 # Oracle Health Scheduling Test Plan
 
+Last Updated: YYYY-MM-DD
+Author: [Your Name/Team]
+Status: Draft
 
-## Test users
+## Introduction & Overview
 
-- judy.morrison@idme - general testing
+### Feature Description
 
-## Scheduling scenarios
+Adding support for scheduling Oracle Health appointments to the Appointments tool on VA.gov. 
+
+TODO: Link to any relevant design documents, user stories, or specifications (e.g., "Feature Spec Document").
+
+### Goals of this Test Plan
+
+- Verify functionality of features
+
+## Scope of Testing
+
+### In Scope
+
+- Scheduling an appointment at an Oracle Health Facility
+- Requesting Oracle Health appointments
+- Canceling scheduled and requested OH appointments
+
+### Out of Scope
+
+[TBD]
+
+## Testing Objectives
+
+- To verify that all functional requirements of Oracle Health Scheduling are met as per the specification.
+- To identify and report any defects or issues in Oracle Health Scheduling.
+- To confirm that existing functionalities are not adversely affected by the introduction of [Feature Name].
+
+## Test Strategy & Approach
+
+### Types of Testing
+
+- Functional Testing: Verifying each function of the software as specified in the requirements.
+- Compatibility Testing: Testing on different browsers, devices, and operating systems.
+- Regression Testing: Ensuring existing functionality is not broken by new changes.
+- Accessibility Testing: Ensuring the feature is usable by people with disabilities.
+
+### Approach
+
+Manually testing each scenario.
+
+## Test Environment & Setup
+
+### Test Environment
+
+Describe the environment(s) where testing will occur (e.g., Development, Staging/QA, UAT).
+
+Staging Environment: staging.va.gov
+
+Test users:
+- judy.morrison@idme
+
+### Test Data Requirements
+
+Test users with the following configurations:
+- 1 provider available for scheduling
+- 2 or more providers available for scheduling
+- No providers available for scheduling
+- No relationships with any providers
+
+[TODO] Review scenarios and fill this out.
+
+### Tools
+
+- Accessibility testing checklist
+
+## Test scenarios
 
 ## Access Scenarios
 
