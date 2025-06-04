@@ -44,6 +44,15 @@ A user can view their appointments (upcoming, pending, canceled or past), book a
 
 ## Key Decisions
 
+### General
+
+- The user cannot schedule an appointment and cancel a booked appointment at a VA site that is migrating over from Vista to Oracle Health. (confirm on VA request) 
+- The Community Care request functionality will remain the same.
+- The VA request cancel functionality will remain the same. 
+- The user should be able to have clear instructions on how to manage their booked appointments online. 
+- The MVP will not include integration into secure messaging
+- The MVP will not include the ability to select modality
+
 ### Access
 
 Follows the business rules for [login and access](login-and-access.md).
