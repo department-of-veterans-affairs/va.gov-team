@@ -1,7 +1,7 @@
 ## Pay.gov Technical Overview
 
 This doc outlines the workflow that will allow VA.gov to integrate with pay.gov to enable veterans to make payments for VA debts.
-This will use PA.gov hosted collection pages to securely process payments, minimize risk to the VA, and offer a good ux.
+This will use pay.gov hosted collection pages to securely process payments, minimize risk to the VA, and offer a good ux.
 
 This doc reflects our current understanding and is subject to change
 
