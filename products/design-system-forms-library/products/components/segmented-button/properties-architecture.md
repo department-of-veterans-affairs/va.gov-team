@@ -4,9 +4,10 @@
 
 | Release     | Name       | Required     | Type                                                 | Default Value                          | Platform     | Description                                                                                                                        |
 | ----------- | --------   | ------------ | ---------------------------------------------------  | -------------------------------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------- |
+| v1          | ariaLabel    | true         | `string`  | null                                   | mobile/web   | The `aria-label` value to be applied to component's `<ul>` element.
 | v1          | buttons    | true         | `Button[]`<br> _Must contain between 2 to 4 items._  | null                                   | mobile/web   | An array of button labels and values.
-| v1          | onChange   | true         | `event`                                              | null                                   | mobile/web   | A custom event emitted that returns to value of the active button when the component changes                                       |
-| v1          | selected   | true         | ?                                                    | First button?                          | mobile/web   | The active button
+| v1          | onVaButtonClick   | true         | `event`                                              | null                                   | mobile/web   | A custom event emitted that returns to value of the active button when one of the buttons is clicked.                                     |
+| v1          | selected   | false         | `number`                                                    | `0`                         | mobile/web   | The active button
 
 **NOTE: May need to reconcile properties with the mobile implementation.**
 
