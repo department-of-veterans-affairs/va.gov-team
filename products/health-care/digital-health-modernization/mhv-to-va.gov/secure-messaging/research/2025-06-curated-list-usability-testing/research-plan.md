@@ -40,11 +40,11 @@ Which OCTO priorities does this research support? Work with your VA lead and pro
 
 ### Goals
 
-`1.` **[Enter answer here]**
+`1.` **Assess Veterans’ ability to find and select the correct care team for messaging.**
 
-`2.` **[Enter answer here]**
+`2.` **Evaluate how Veterans understand and interact with contact list features.**
 
-`3.` **[Enter answer here]** 
+`3.` **Understand how Veterans respond when they can’t find the contact they need.** 
   
 ### Outcome
 
@@ -54,22 +54,37 @@ Which OCTO priorities does this research support? Work with your VA lead and pro
 
 ### Research questions
 
-**`1.`[Enter Q1]**
+**`1.`Can Veterans successfully use the new curated list flow to message their intended care team?**
 
-**`2.`[Enter Q2]**
+**`2.`Do Veterans notice the contact list link and successfully use the contact list page to select the appropriate care teams for messaging?**
 
-**`3.`[Enter Q3]**
+**`3.`Can Veterans effectively use the combo box to find and select the appropriate care team?**
 
-**`4.`[Enter Q4]**
+**`4.`Do Veterans notice, understand, and appropriately use the ‘If you can’t find your care team’ content and related links?**
 
-**`5.`[Enter Q5]**
+**`5.`When Veterans don’t see their intended recipient in the recent list, can they successfully identify and select the correct contact?**
 
 
 
 ### Hypotheses
 
  
-**[Enter hypotheses here]** 
+**Hypothesis 1:
+Most Veterans will be able to use the new curated list flow to identify and message the appropriate care team without confusion.** 
+
+ 
+**Hypothesis 2:
+Many Veterans will recognize the combo box as a searchable input field and expect to use it like a search engine.** 
+
+**Hypothesis 3:
+Most Veterans will not notice the “If you can’t find your care team” link.** 
+
+**Hypothesis 4:
+When Veterans don’t see their desired recipient in the recent contacts list, most will correctly use the “Select a different recipient” option to proceed.**
+
+**Hypothesis 5:
+Most Veterans will not notice the contact list link.**
+
 
   
 ## Methodology  🛠️
@@ -193,7 +208,7 @@ Please make sure that ALL participants are willing to complete the session on th
 
 ### Optional Kick-off Call with Perigean
 
-- `Suggested dates and times:` **[Enter dates and times MM/DD HH:MM]**
+- `Suggested dates and times:` **None needed**
 
 ### Prepare
 
@@ -201,7 +216,7 @@ Please make sure that ALL participants are willing to complete the session on th
 - `Date and time of pilot session:` **We will handle this internally** 
 
 ### Research sessions
-- `Planned dates of research:` **06/17-06/25]**
+- `Planned dates of research:` **06/17-06/25**
 
 ### Length of sessions
 - `Session length:` **60 minutes**
