@@ -1,3 +1,33 @@
+# My VA use case: System can't connect to MPI error
+
+**Last updated: May 2025**
+
+- User flow
+- Figma files
+- Test Rail QA
+
+<details><summary>Archive | How to reproduce in staging</summary>
+
+- [How to reproduce in staging](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/system-cant-connect-to-MPI.md#how-to-reproduce)
+
+</details>
+
+## Phase 1, 3.0 experience
+- **Use case:** If this error occurs, the entire page will fail to load and the user will see a full page error
+- **Status code:** TBD
+- **Content:**
+
+Header: This page isn't available right now
+We’re sorry. Something went wrong on our end. Refresh this page or try again later.	
+
+- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
+- [Link to designs]
+- [Link to code]
+
+---
+
+<details><summary>Archive | My VA Use Case: There's an error because the system can't connect to MPI, 2024</summary>
+
 # My VA Use Case: There's an error because the system can't connect to MPI
 
 For users who sign in and the main user call fails, they will see an error for the entire page.
@@ -12,3 +42,5 @@ For users who sign in and the main user call fails, they will see an error for t
 - In your browser, go to the Developer Tools menu, go to the Network tab and right click on the api. Select `Block Request Url` and then reload the page.
 - Be sure to remove that block after testing.
 - [See more details about blocking specific network requests here.](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/profile_errors.md#appendix-blocking-specific-network-requests)
+
+</details>
