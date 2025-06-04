@@ -8,7 +8,9 @@
 
 <details><summary>Archive | How to reproduce in staging</summary>
 
-- 
+- [User has not received any payments from VA in the last 60 days](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/benefit-payments-use-cases/no-recent-payments.md#how-to-reproduce)
+- [User has received any payments from VA in the last 60 days](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/benefit-payments-use-cases/has-recent-payments.md#how-to-reproduce)
+- [The payments API is down and we can't display any payment information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/benefit-payments-use-cases/payment-API-error.md#how-to-reproduce)
 
 </details>
 
@@ -19,9 +21,9 @@
 
 ## Common use cases
 
-<details><summary>User *has not* received any payments from VA in the last 60 days</summary>
+<details><summary>User has not received any payments from VA in the last 60 days</summary>
 
-- **Use case:** If a logged in LOA3 user does not have an open claim or appeal or one that has been closed in the last 60 days, they will see informational text and be provided a link to manage all claims and appeals.
+- **Use case:** If a LOA3 user signs in and has not received any payments from VA in the last 60 days, they will see a card in the Benefit payments section stating that they have no recent payments as well as a link to review their payment history.
 - **Status code:** TBD
 - **Content:** TBD
 - **Format:** [Card component](https://design.va.gov/components/card)
@@ -30,8 +32,19 @@
 
 </details>
 
-- [User *has* received a payment from VA in the last 60 days via direct deposit or paper check](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/benefit-payments-use-cases/has-recent-payments.md)
-- [User *has not* received any payments from VA in the last 60 days](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/benefit-payments-use-cases/no-recent-payments.md)
+
+<details><summary>User has received any payments from VA in the last 60 days</summary>
+
+- **Use case:** If a LOA3 user has received a payment from VA in the last 60 days, they will see a card in the Benefits payments section that tells them the dollar amount of the payment, the type of benefit payment, the date it was deposited or mailed to them, and a link to the payment history tool. Only the most recent payment is shown.
+   - If a user received the payment via direct deposit, then the date text will read "Deposited on" whereas if they received it via mailed paper check, the date text will read "Checked mailed on".
+- **Status code:** TBD
+- **Content:** TBD
+- **Format:** [Card component](https://design.va.gov/components/card)
+- [Link to designs]
+- [Link to code]
+
+</details>
+
 
 ## Edge cases
 
@@ -39,7 +52,21 @@
 There are no flags associated with this feature.
 
 ### System
-- [The payments API is down and we can't display any payment information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/benefit-payments-use-cases/payment-API-error.md)
+
+<details><summary>The payments API is down and we can't display any payment information</summary>
+
+- **Use case:** If an LOA3 user logs in and there is an error with the payments API show a warning alert, and hide the payment card. TBD Do we show the link to payment tool or just leave it when this shows? The link could be in the alert.
+- **Status code:** TBD
+- **Content:**
+
+Header: We can't access your payment history.
+We're sorry. We can't access your payment history right now. We're working to fix this problem. Please check back later.
+
+- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
+- [Link to designs]
+- [Link to code]
+
+</details>
 
 ---
 
