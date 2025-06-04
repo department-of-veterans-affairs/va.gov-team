@@ -35,6 +35,8 @@ This topline summary is a high level, top of mind summary of trends found in the
 **Finding 2: Comprehension**
 
 **Disability compensation, pension, and GI Bill benefits**
+
+
 We identified a few improvements to begin thinking about:
 
 - The wording on the headers of the accordion for the FSR Repayment plan 'more than 5 years' and 'less than 5 years'  was confusing to a few participants: 
