@@ -60,6 +60,7 @@ There are no flags associated with this feature.
 - **Content:**
 
 Header: We can't access your payment history.
+
 We're sorry. We can't access your payment history right now. We're working to fix this problem. Please check back later.
 
 - **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
