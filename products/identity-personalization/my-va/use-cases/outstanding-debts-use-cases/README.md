@@ -77,6 +77,7 @@ There are no flags associated with this feature.
 - **Content:**
 
 Header: We can't access some of your financial information.
+
 We're sorry. We can't access some of your financial information right now. We're working to fix this problem. Please check back later.
 
 - **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
@@ -93,6 +94,7 @@ We're sorry. We can't access some of your financial information right now. We're
 - **Content:**
 
 Header: We can't access some of your financial information.
+
 We're sorry. We can't access some of your financial information right now. We're working to fix this problem. Please check back later.
 
 - **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
