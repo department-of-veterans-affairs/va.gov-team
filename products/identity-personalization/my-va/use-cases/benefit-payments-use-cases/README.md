@@ -2,8 +2,6 @@
 
 **Last updated: June 2025**
 
-For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the user will not see this section on My VA.
-
 - User flow
 - Figma files
 - Test Rail QA
@@ -15,10 +13,23 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 </details>
 
 ## Phase 1, 3.0 experience
+- For all of these use cases, the user must be LOA3 (identity verified). **If the user is not LOA3, the user will not see this section on My VA.**
 - Benefit payments occur when a Veteran has already applied and been approved for VA benefits. These are paid out monthly via direct deposit or paper check.
 - This feature on My VA gives the Veteran a summary of their most recent benefit payment and a link to past payments, if there are any to show.
 
 ## Common use cases
+
+<details><summary>User *has not* received any payments from VA in the last 60 days</summary>
+
+- **Use case:** If a logged in LOA3 user does not have an open claim or appeal or one that has been closed in the last 60 days, they will see informational text and be provided a link to manage all claims and appeals.
+- **Status code:** TBD
+- **Content:** TBD
+- **Format:** [Card component](https://design.va.gov/components/card)
+- [Link to designs]
+- [Link to code]
+
+</details>
+
 - [User *has* received a payment from VA in the last 60 days via direct deposit or paper check](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/benefit-payments-use-cases/has-recent-payments.md)
 - [User *has not* received any payments from VA in the last 60 days](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/benefit-payments-use-cases/no-recent-payments.md)
 
