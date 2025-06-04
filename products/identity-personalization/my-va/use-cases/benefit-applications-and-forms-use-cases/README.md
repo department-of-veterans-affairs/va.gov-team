@@ -2,8 +2,6 @@
 
 **Last updated: June 2025**
 
-LOA1 and LOA3 (identify verified) users can see all use cases.
-
 - User flow
 - Figma files
 - Test Rail QA
@@ -18,6 +16,7 @@ LOA1 and LOA3 (identify verified) users can see all use cases.
 
 
 ## Phase 1, 3.0 experience
+- LOA1 and LOA3 (identify verified) users can see all use cases.
 - This feature shows a card for any benefit applications or forms that a user has started or completed. TBD on how many are shown or how we break this up per other conversations.
   - Conditions in [Platform documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-set-up-save-in-progress-si#VAFormsLibrary-HowtosetupSaveInProgress(SiP)-MyVAPage) for saving forms in progress and changes in User Profile code must be met in order for a form that is saved to show up in this section of My VA.
   - Completed forms only show for 60 days, at which point they disappear from My VA.
