@@ -38,7 +38,9 @@
 ### Program Manager:
 
 - [Add user to VA Github Org](https://github.com/department-of-veterans-affairs/github-user-requests/issues/new?template=add-user.yml)
-     - **Requires access to VA email** 
+     - Requires access to VA email
+     - VA email must be added to user's Github account
+  
 ### Team member:
 - [ ] Complete a [New VFS Team Member Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=New-VFS-Team-Member.yml)
      - Required for Github write access  
