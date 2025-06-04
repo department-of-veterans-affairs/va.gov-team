@@ -7,7 +7,7 @@
 **Jump to:**
 
 - [Key Data](#key-data-points)
-   - [Medallia feedback survey](#medallia-feedback-survey-quantitative)
+   - [Medallia feedback survey](#medallia-feedback-survey---quantitative)
    - [Medallia intercept survey](#medallia-intercept-survey-quantitative)
    - [My VA411 calls](#MyVA411-calls)
 - [Discussion](#discussion)
