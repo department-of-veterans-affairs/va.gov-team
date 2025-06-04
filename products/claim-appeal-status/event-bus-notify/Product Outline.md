@@ -146,11 +146,12 @@ _(to be provided in final release plan; placeholders)_
   - Stacy Wise (Tech Lead)  
   - Ian Donovan (Engineer)  
 - **Event Bus Team:**  
-  - Thomas Sidebottom (BIP Contact)  
-  - Stephen Quick (Solution Architect)  
+  - Rick Golden (Product Manager)
+  - Emily Wilson (Tech Lead)
+  - Darius Dzien (Engineer)
 - **VA Notify Team:**  
   - Melanie Jones (Product Manager)  
-  - Beverly Nelson (Product Owner)  
+  - Kyle MacMillan (Tech Lead) 
 - **VA OCTO Benefits Portfolio:**  
   - Amy Lai (Product Owner)  
   - Julie Strothman (Designer)  
