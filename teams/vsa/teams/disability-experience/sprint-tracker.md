@@ -65,7 +65,7 @@ Sprint Goals: 
 |                                         |                                                                                       |                   |                            |                 |                          |
 | --------------------------------------- | :-----------------------------------------------------------------------------------: | :---------------: | :------------------------: | :-------------: | :----------------------: |
 | **Sprint Goal**                         |                                **GitHub Ticket Number**                               | **Ticket Points** | **Reason if Not Complete** | **Update Date** | **End of Sprint Status** |
-| HCD: \[Finalize MVP Design for Handoff] | [111178](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111178) |                   |                            |                 |                          |
+| HCD: \[Finalize MVP Design for Handoff] | [111178](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111178) |         3         |                            |                 |                          |
 
 
 ### Tech Debt
@@ -80,13 +80,14 @@ Sprint Goals: 
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------: | :---------------: | :------------------------: | :-------------: | :----------------------: |
 | **Sprint Goal**                                                                                                                                                 |                                **GitHub Ticket Number**                                | **Ticket Points** | **Reason if Not Complete** | **Update Date** | **End of Sprint Status** |
 | _Team 1_ - ZSF text notifications for silent failure emails - discovery/planning                                                                                | [110512](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110512)  |         3         |                            |                 |                          |
-| _HCD -_ Content development for “text notifications” ZSF work related to [110512](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110512)  |  [111045](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111045) |                   |                            |                 |                          |
+| _HCD -_ Content development for “text notifications” ZSF work related to [110512](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110512)  |  [111045](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111045) |         5         |                            |                 |                          |
 | _Team 1_ - 526 PDF manual overflow should correctly list included forms                                                                                         |  [110666](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110666) |         3         |                            |                 |                          |
-| _Team 1_ - Timing out to lighthouse wrongfully causes non\_retryable\_error - discovery                                                                         |  [110575](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110575) |                   |                            |                 |                          |
+| _Team 1_ - Timing out to lighthouse wrongfully causes non\_retryable\_error - discovery                                                                         |  [110575](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110575) |         3         |                            |                 |                          |
 | _Team 2 -_ Remove toxic exposure data on opt out                                                                                                                |  [110031](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110031) |         3         |                            |                 |                          |
 | _Team 2 -_ Add frontend data validation for TE date fields                                                                                                      |  [110027](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110027) |         5         |                            |                 |                          |
 | _Team 2 -_ Cypress test for TE for partial date opt out                                                                                                         |  [110032](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110027) |         5         |                            |                 |                          |
-| _Team 2 -_ \[STRETCH] Partial date validation on TE                                                                                                             |  [111023](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110027) |         5         |                            |                 |                          |
+| _Team 2 -_ \[STRETCH] Partial date validation on TE                                                                                                             |  [111023](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111023) |         3         |                            |                 |                          |
+| _Team 2 -_ \[STRETCH] Date range validation on TE                                                                                                               |  [111024](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111024) |         3         |                            |                 |                          |
 | _Team 2 -_ Fix typo on C\&P exam page                                                                                                                           |  [110952](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110952) |         1         |                            |                 |                          |
 
 
@@ -119,10 +120,10 @@ Sprint Goals: 
 |                                                                                                      |                                                                                                 |                   |                            |                 |                          |
 | ---------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------: | :---------------: | :------------------------: | :-------------: | :----------------------: |
 | **Sprint Goal**                                                                                      |                                     **GitHub Ticket Number**                                    | **Ticket Points** | **Reason if Not Complete** | **Update Date** | **End of Sprint Status** |
-| Revise conversation guide and research plan based on feedback                                        | [#780](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/780) |                   |                            |                 |                          |
+| Revise conversation guide and research plan based on feedback                                        | [#780](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/780) |         3         |                            |                 |                          |
 | Multi-step conditions: Internal Bug Bash session                                                     | [#779](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/779) |         2         |                            |                 |                          |
-| \[STRETCH] depends should clear the data of the dependent pages when the condition is no longer true | [#691](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/691) |                   |                            |                 |                          |
-| \[STRETCH] Multi-step conditions: Look into changing how page headings work in Step 2 (Conditions)   | [#782](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/782) |                   |                            |                 |                          |
+| \[STRETCH] depends should clear the data of the dependent pages when the condition is no longer true | [#691](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/691) |         3         |                            |                 |                          |
+| \[STRETCH] Multi-step conditions: Look into changing how page headings work in Step 2 (Conditions)   | [#782](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/782) |         2         |                            |                 |                          |
 
 
 #### Front-end bugs and small enhancements
@@ -134,9 +135,9 @@ Sprint Goals: 
 |                                                                                                                                                     |                                                                                                 |                   |                            |                 |                          |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------: | :---------------: | :------------------------: | :-------------: | :----------------------: |
 | **Sprint Goal**                                                                                                                                     |                                     **GitHub Ticket Number**                                    | **Ticket Points** | **Reason if Not Complete** | **Update Date** | **End of Sprint Status** |
-| Update a selected Secondary Condition on Multi-Page list and loop item update or deletion                                                           | [#745](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/745) |                   |                            |                 |                          |
-| Date Field Validation Skipped When Input Has Focus on Continue                                                                                      | [#790](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/790) |                   |                            |                 |                          |
-| \[STRETCH] Focus on edit: Ideate and align on solution to resolve buttons hiding on edit due to dropdown expanding on focus (Discovery for #110668) | [#784](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/784) |                   |                            |                 |                          |
+| Update a selected Secondary Condition on Multi-Page list and loop item update or deletion                                                           | [#745](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/745) |         3         |                            |                 |                          |
+| Date Field Validation Skipped When Input Has Focus on Continue                                                                                      | [#790](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/790) |         5         |                            |                 |                          |
+| \[STRETCH] Focus on edit: Ideate and align on solution to resolve buttons hiding on edit due to dropdown expanding on focus (Discovery for #110668) | [#784](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/784) |         1         |                            |                 |                          |
 
 
 ###
@@ -158,10 +159,10 @@ Sprint Goals:
 |                                                                                                                                                                                                                                                                                                 |                                                                                                 |                   |                            |                 |                          |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------: | :---------------: | :------------------------: | :-------------: | :----------------------: |
 | **Sprint Goal**                                                                                                                                                                                                                                                                                 |                                     **GitHub Ticket Number**                                    | **Ticket Points** | **Reason if Not Complete** | **Update Date** | **End of Sprint Status** |
-| Infrastructure strategy for deploying new classifier                                                                                                                                                                                                                                            | [#778](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/778) |                   |                            |                 |                          |
-| Build mechanism to test performance of the new classifier                                                                                                                                                                                                                                       | [#775](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/775) |                   |                            |                 |                          |
-| Run the new classifier in a local environment                                                                                                                                                                                                                                                   | [#789](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/789) |                   |                            |                 |                          |
-| \[STRETCH] Add logging utilities for responses from the ML and hybrid classification endpoints.This ticket will complete the work started in: Create Structure to Incorporate ML Model API Call [#677](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/677) | [#777](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/777) |                   |                            |                 |                          |
+| Infrastructure strategy for deploying new classifier                                                                                                                                                                                                                                            | [#778](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/778) |         3         |                            |                 |                          |
+| Build mechanism to test performance of the new classifier                                                                                                                                                                                                                                       | [#775](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/775) |         3         |                            |                 |                          |
+| Run the new classifier in a local environment                                                                                                                                                                                                                                                   | [#789](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/789) |         3         |                            |                 |                          |
+| \[STRETCH] Add logging utilities for responses from the ML and hybrid classification endpoints.This ticket will complete the work started in: Create Structure to Incorporate ML Model API Call [#677](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/677) | [#777](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/777) |         2         |                            |                 |                          |
 
 
 #### Investigate problematic classification mappings that may be misclassified
@@ -175,7 +176,7 @@ Sprint Goals:
 |                                                                                                           |                                                                                                |                   |                            |                 |                          |
 | --------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------: | :---------------: | :------------------------: | :-------------: | :----------------------: |
 | **Sprint Goal**                                                                                           |                                    **GitHub Ticket Number**                                    | **Ticket Points** | **Reason if Not Complete** | **Update Date** | **End of Sprint Status** |
-| Initial discovery to assess potential autosuggestions and classification mappings that may be problematic | [791](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/791) |                   |                            |                 |                          |
+| Initial discovery to assess potential autosuggestions and classification mappings that may be problematic | [791](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/791) |         3         |                            |                 |                          |
 
 
 #### Increase the number of automation-eligible conditions covered in autosuggestions and classification
@@ -189,9 +190,9 @@ Sprint Goals:
 |                                                                       |                                                                                                |                   |                            |                 |                          |
 | --------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------: | :---------------: | :------------------------: | :-------------: | :----------------------: |
 | **Sprint Goal**                                                       |                                    **GitHub Ticket Number**                                    | **Ticket Points** | **Reason if Not Complete** | **Update Date** | **End of Sprint Status** |
-| Request from VBA the latest version of automation-eligible conditions | [792](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/792) |                   |                            |                 |                          |
+| Request from VBA the latest version of automation-eligible conditions | [792](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/792) |         1         |                            |                 |                          |
 
-\
+
 
 
 _Approvals:_ _(sent via email but approvals tracked here)_
@@ -206,11 +207,11 @@ _Approvals:_ _(sent via email but approvals tracked here)_
 
   - [x] ~~Conditions~~ 
 
-- [ ]  VA PO & COR sent the Sprint Goals
+- [x]  ~~VA PO & COR sent the Sprint Goals (06/03/25)~~
 
-- [ ]  VA PO approved the Sprint Goals 
+- [x]  ~~VA PO approved the Sprint Goals  (06/03/25)~~
 
-- [ ]  VA COR approved the Sprint Goals
+- [x]  ~~VA COR approved the Sprint Goals (06/03/25)~~
 
 - [ ]  VA PO approved the Sprint Review
 
@@ -223,6 +224,12 @@ _Delivery + Notes:_
   - [ ] Team 1
 
   - [ ] Team 2
+
+  - [ ] HCD
+
+  - [ ] Conditions 
+
+- [ ] Any Additional details about goals not completed will be documented here
 
   - [ ] HCD
 
