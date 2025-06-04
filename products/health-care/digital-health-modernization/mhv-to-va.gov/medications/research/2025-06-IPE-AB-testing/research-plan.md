@@ -100,7 +100,7 @@ Remote testing via Optimal Workshop.
 
 [Link to prototypes](https://www.figma.com/proto/cqiuYyA1vn728D0Nde2NgS/Medications---Milestone-1---2?page-id=18147%3A40164&node-id=18147-40454&viewport=2158%2C-173%2C0.79&t=E4JE17EMowDPb8Lb-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=18147%3A40454&show-proto-sidebar=1)
 
-[Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/2025-06-IPE-AB-testing/Conversation-guide.md)
+[Link to task guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/2025-06-IPE-AB-testing/Conversation-guide.md)
 
 ---
 
@@ -116,34 +116,6 @@ Remote testing via Optimal Workshop.
 - **No Assistive Technology (AT) users**
 - **Pilot group**: 5 participants to validate setup and data accuracy
 
-### Age Distribution
-
-- 18–34: 19
-- 35–54: 47
-- 55–64: 38
-- 65–74: 74
-- 75+: 47
-
-### Education Distribution
-
-- High School or less: 77
-- Some college: 51
-- Associate degree: 28
-- Bachelor’s: 42
-- Master’s or higher: 27
-
-### Demographics
-
-- American Indian or Alaska Native: 7
-- Asian: 8
-- Black or African American: 36
-- Hispanic, Latino, or Spanish origin: 28
-- White or Caucasian: 146
-
-### Residence
-
-- Rural: 56
-- Urban: 169
 
 ---
 
