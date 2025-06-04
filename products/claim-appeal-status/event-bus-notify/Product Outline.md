@@ -1,3 +1,5 @@
+# Decision Letter Email Notifications Product Outline
+
 ## Overview
 Introduce an event-driven architecture to the VA notification ecosystem to proactively inform Veterans when their Decision Letter is available for download. This ensures Veterans have timely updates, can take key actions sooner, and improves their overall sense of trust and satisfaction.
 
