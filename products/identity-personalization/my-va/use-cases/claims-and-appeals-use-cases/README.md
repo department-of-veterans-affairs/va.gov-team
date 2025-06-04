@@ -2,8 +2,6 @@
 
 **Last updated: May 2025**
 
-For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the user will see the [LOA1 experience](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/LOA1-use-cases).
-
 - User flow
 - Figma files
 - Test Rail QA
@@ -19,6 +17,7 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 
 
 ## Phase 1, 3.0 experience
+- For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the user will see the [LOA1 experience](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/LOA1-use-cases).
 - This feature highlights a users in progress claims and appeals, their disability rating, and a link to access all their claims and appeals.
    - Dynamic claim card, that provides a status update on any open or recently closed claims, and links the user to claims details. Cards only display for up to 60 days after they are "Complete", after that they are removed. Only 1 card shows at a time, and is the most recent update.
    - Dynamic disability rating card, that provides the Veteran with their combined disabilty rating, and a link to the disability rating page.
