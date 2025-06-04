@@ -71,23 +71,34 @@ Test users with the following configurations:
 
 ### Tools
 
-- Accessibility testing checklist
+- Manual testing
+- [Accessibility testing checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/how-to/accessibility-testing-checklist.md)
 
 ## Test scenarios
 
-## Access Scenarios
-
-- User is logged in and registered at VA locations: allow access to scheduling flow  
-
-## Page: What type of care do you need?
-
-- Fetch address on file `residentialAddress` API call `GET /v0/user`:  
-  - User does not have a home address on file: display alert “To use some of the tool’s features, you need a home address on file”  
-  - User does have a home address on file: display page without alert  
-- User selects Nutrition and Food (supported MVP care type): continue to next check (past appointment history)  
+| ID | Description                                                                         | Test Cases |
+|----|-------------------------------------------------------------------------------------|------------|
+|    | Verify user can access scheduling flow                                              |            |
+|    | Verify user is alerted if home address is missing from profile 
 
 
-Note: may need to add community care and sub-types of care here
+## Test cases and steps
+
+Verify user is alerted if home address is missing from profile
+1. Remove home address from Profile
+2. Navigate to [URL]
+Success: Alert displays at top of page “To use some of the tool’s features, you need a home address on file”
+Failure: Alert does not display
+
+Verify user is not alerted if home address is present in profile
+1. Add home address to Profile
+2. Navigate to [URL]
+Success: Alert does not display at top of page
+Failure: Alert displays at top of page “To use some of the tool’s features, you need a home address on file”
+ 
+
+
+
 
 ## Page: Which VA location would you like to go to?
 
@@ -162,3 +173,157 @@ Note: may need to add community care and sub-types of care here
 ## Cancelation scenarios
 
 Note: waiting on Spike on cancelation logic to write up testing plan
+
+
+[TODO: Work below into plan as needed]
+
+7. Entry and Exit Criteria
+7.1. Entry Criteria (Start Testing):
+
+Conditions that must be met before testing can begin.
+
+Examples:
+
+Feature development is complete and deployed to the test environment.
+
+Test environment is stable and accessible.
+
+Required test data is available.
+
+Test plan reviewed and approved.
+
+Relevant documentation (specs, user stories) is available.
+
+7.2. Suspension Criteria (Pause Testing):
+
+Conditions under which testing will be temporarily halted.
+
+Examples:
+
+Critical bug blocks further testing of major functionality.
+
+Test environment becomes unstable or unavailable.
+
+7.3. Resumption Criteria (Resume Testing):
+
+Conditions under which testing will resume after suspension.
+
+Examples:
+
+Blocking defects are fixed and verified.
+
+Test environment is restored.
+
+7.4. Exit Criteria (End Testing):
+
+Conditions that signify testing is complete for the current phase.
+
+Examples:
+
+All planned test cases have been executed.
+
+A certain percentage of test cases have passed (e.g., 95% pass rate).
+
+No outstanding Critical or Major defects related to the core feature.
+
+All High priority bugs are fixed and verified.
+
+Test summary report is generated and reviewed.
+
+8. Test Deliverables
+List all documents or outputs that will be produced as part of the testing process.
+
+Examples:
+
+Test Plan (this document).
+
+Test Cases (if separate from this plan).
+
+Test Data.
+
+Bug Reports (logged in the tracking system).
+
+Test Execution Logs.
+
+Test Summary Report (detailing results, coverage, outstanding defects).
+
+Automation Scripts (if applicable).
+
+9. Risks and Mitigation
+Identify potential risks that could impact the testing effort and outline mitigation strategies.
+
+Examples:
+
+Risk: Feature requirements are ambiguous or change frequently.
+
+Mitigation: Regular meetings with product owners/developers for clarification; establish a clear change management process.
+
+Risk: Test environment instability.
+
+Mitigation: Dedicated support for the test environment; pre-testing environment checks.
+
+Risk: Insufficient time allocated for testing.
+
+Mitigation: Prioritize test cases based on risk; communicate resource needs early.
+
+Risk: Lack of appropriate test data.
+
+Mitigation: Plan and prepare test data in advance; develop scripts to generate data if needed.
+
+10. Roles and Responsibilities
+Define the roles involved in the testing process and their responsibilities.
+
+Examples:
+
+Test Lead/Manager: Overall test strategy, planning, resource allocation, reporting.
+
+QA Tester(s): Test case design, execution, bug reporting, retesting.
+
+Developer(s): Unit testing, bug fixing, providing technical support to QA.
+
+Product Owner/Manager: Clarifying requirements, UAT, approving releases.
+
+DevOps/SysAdmin: Environment setup and maintenance.
+
+11. Schedule (Optional)
+Provide a high-level timeline for testing activities.
+
+Examples:
+
+Test Plan Creation: YYYY-MM-DD to YYYY-MM-DD
+
+Test Environment Setup: YYYY-MM-DD
+
+Test Case Design: YYYY-MM-DD to YYYY-MM-DD
+
+Test Execution (Cycle 1): YYYY-MM-DD to YYYY-MM-DD
+
+Bug Fixing & Retesting: YYYY-MM-DD to YYYY-MM-DD
+
+Regression Testing: YYYY-MM-DD to YYYY-MM-DD
+
+Test Sign-off: YYYY-MM-DD
+
+12. Metrics
+Define the metrics that will be used to track testing progress and quality.
+
+Examples:
+
+Test Case Coverage (Executed Test Cases / Total Test Cases).
+
+Pass/Fail Rate (Passed Test Cases / Executed Test Cases).
+
+Defect Density (Number of Defects / Size of Feature or KLOC).
+
+Defect Severity Distribution (Number of Critical, Major, Minor defects).
+
+Defect Resolution Time.
+
+Requirements Coverage.
+
+Appendix (Optional)
+Glossary of terms.
+
+References to other relevant documents.
+
+
