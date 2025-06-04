@@ -2,8 +2,6 @@
 
 **Last updated: May 2025**
 
-For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the user will see the [LOA1 experience](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/LOA1-use-cases).
-
 - User flow
 - Figma files
 - Test Rail QA
@@ -20,6 +18,7 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 </details>
 
 ## Phase 1, 3.0 Experience
+- For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the user will see the [LOA1 experience](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/LOA1-use-cases).
 - This feature on My VA integrates with My HealtheVet and the VA online scheduling tool (VAOS or Appointments) to give the user dynamic content updates for upcoming appointments and unread messages.
 - Users only see this content if they are defined as health care users, and have a health care facility associated with them. Which means, the facilities attribute in `user` state is greater than 0.
 
