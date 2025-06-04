@@ -2,7 +2,7 @@
 
 **Last updated: June 2025**
 
-## ## Phase 1, 3.0 experience
+## Phase 1, 3.0 experience
 - Education and training courses will be removed for Phase 1 of My VA 3.0. This is due to the lack of dynamic information. When dynamic education information is prioritized this section will come back.
 - We acknowledge that the GI Bill is a popular topic from My VA, and have incorporated a link to the tool in our Common tasks section.
 
