@@ -189,3 +189,29 @@ We created a ticket to add a popover component to the Design System so that we c
 Once the popover component is completed, we will need to revisit the tabs and move the tabs popover to the popover component which might create additional work later on. 
 
 [Popover - Design (phase 1) #4151](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/4151)
+
+---
+
+## ADR 005: Focus styles  
+
+### Status: Accepted  
+- **Date Raised:** 2025-04-01  
+- **Decision Date:** 2025-06-02  
+
+### Context
+
+We’re updating focus styles across the VA to match the new design in this [Figma file](https://www.figma.com/design/l7VRNfLewK8W6mcPDtrc1S/Focus-styles?node-id=108-10551&t=h4TaCpzayAMErp4X-1). The new style uses a 4px bottom border for sufficient contrast on both light and dark backgrounds. However, tabs also use a 4px bottom border to indicate selection, making the focus and selected states too similar.
+
+To differentiate focus from selection, we explored three options:
+
+- **Option 1:** Increase the selected tab’s bottom border to 6px, keeping focus at 4px.
+- **Option 2:** Add a 2px dark border around the tab on focus.
+- **Option 3:** Use the USWDS blue outline for focus.
+
+### Decision
+
+We chose **Option 2**: adding a 2px dark border around focused tabs. This provides clear differentiation while maintaining consistency with the overall design.
+
+### Consequences
+
+This change introduces a new focus style for tabs, diverging from other components, which do not currently use an outer border for focus. 
