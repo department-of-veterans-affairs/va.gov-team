@@ -10,8 +10,11 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 
 <details><summary>Archive | How to reproduce in staging</summary>
 
+- [User does not have any outstanding VA debt](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/outstanding-debts-use-cases/no-outstanding-debt.md#how-to-reproduce)
 - [User has outstanding overpayment debts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/outstanding-debts-use-cases/overpayment-debts.md#how-to-reproduce)
 - [User has outstanding copays](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/outstanding-debts-use-cases/copay-debts.md#how-to-reproduce)
+- [The debts API is down and we can't display any overpayment debt information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/outstanding-debts-use-cases/debts-API-error.md#how-to-reproduce)
+- [The copays API is down and we can't display any copay information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/outstanding-debts-use-cases/copay-API-error.md#how-to-reproduce)
 - 
 
 </details>
@@ -25,6 +28,18 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 
 
 ## Common use cases
+
+<details><summary>User does not have any outstanding VA debt</summary>
+
+- **Use case:** If a logged in LOA3 user does not have any debt in the combined debt portal or their total debt equals 0, they will see ... TBD
+- **Status code:** TBD
+- **Content:** TBD
+- **Format:** [Card component](https://design.va.gov/components/card)
+- [Link to designs]
+- [Link to code]
+
+</details>
+
 
 <details><summary>User has outstanding overpayment debts</summary>
 
@@ -50,17 +65,43 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 </details>
 
 
-- [User does not have any outstanding VA debt](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/outstanding-debts-use-cases/no-outstanding-debt.md)
-
 ## Edge cases
 
 ### Flags
 There are no flags associated with this feature.
 
 ### System
-- [The debts API is down and we can't display any overpayment debt information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/outstanding-debts-use-cases/debts-API-error.md)
-- [The copays API is down and we can't display any copay information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/outstanding-debts-use-cases/copay-API-error.md)
-- [Both the debts and copays APIs are down and we can't display information for either of them](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/outstanding-debts-use-cases/debt-and-copay-error.md)
+
+<details><summary>The debts API is down and we can't display any overpayment debt information</summary>
+
+- **Use case:** If an LOA3 user logs in and there is an error with the debt API, show a warning alert to the user, do not show the overpayment debts card. The alert is placed where the copay debts card typically is. TBD
+- **Status code:** TBD
+- **Content:**
+
+Header: We can't access some of your financial information.
+We're sorry. We can't access some of your financial information right now. We're working to fix this problem. Please check back later.
+
+- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
+- [Link to designs]
+- [Link to code]
+
+</details>
+
+
+<details><summary>The copays API is down and we can't display any copay information</summary>
+
+- **Use case:** If an LOA3 user logs in and there is an error with the copay API, show a warning alert to the user, do not show the copay debts card. The alert is placed where the copay debts card typically is. TBD
+- **Status code:** TBD
+- **Content:**
+
+Header: We can't access some of your financial information.
+We're sorry. We can't access some of your financial information right now. We're working to fix this problem. Please check back later.
+
+- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
+- [Link to designs]
+- [Link to code]
+
+</details>
 
 ---
 
