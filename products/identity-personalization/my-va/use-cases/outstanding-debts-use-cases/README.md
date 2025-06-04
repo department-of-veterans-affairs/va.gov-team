@@ -15,7 +15,6 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 - [User has outstanding copays](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/outstanding-debts-use-cases/copay-debts.md#how-to-reproduce)
 - [The debts API is down and we can't display any overpayment debt information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/outstanding-debts-use-cases/debts-API-error.md#how-to-reproduce)
 - [The copays API is down and we can't display any copay information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/outstanding-debts-use-cases/copay-API-error.md#how-to-reproduce)
-- 
 
 </details>
 
