@@ -1,5 +1,6 @@
 # My VA Use Cases
-**Last updated:** November 8, 2024
+**Last updated: June 2025**
+'Updated to reflect My VA 3.0 Phase 1 use cases.'
 
 ## Common Use Cases
 
