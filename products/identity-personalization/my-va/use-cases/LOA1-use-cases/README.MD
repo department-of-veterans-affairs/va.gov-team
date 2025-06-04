@@ -1,7 +1,7 @@
 # My VA: LOA1 User
 **Last updated: May 2025**
 
-A user is considered "LOA1" when they log in to VA.gov and they have not verified their identity with any of the credentials we support. LOA1 users who sign into VA.gov are immediately prompted to verify their identity on My VA.
+A user is considered LOA1 when they log in to VA.gov and they have not verified their identity with any of the credentials we support. LOA1 users who sign into VA.gov are immediately prompted to verify their identity on My VA.
 - User flow
 - Figma files
 - Test Rail QA
