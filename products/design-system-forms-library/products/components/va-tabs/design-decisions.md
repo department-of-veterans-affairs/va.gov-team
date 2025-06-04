@@ -6,6 +6,7 @@ _Last updated: 2025-05-13_
 - [ADR 002: Behavior When Tabs Overflow Off the Screen](#adr-002-behavior-when-tabs-overflow-off-the-screen)  
 - [ADR 003: Tab Style Choices](#adr-003-tab-style-choices)
 - [ADR 004: Consistent popover styles](#adr-004-consistent-popover-styles)
+- [ADR 005: Focus styles](#adr-005-focus-styles)
 
 ---
 
