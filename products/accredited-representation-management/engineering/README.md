@@ -18,7 +18,7 @@ You can learn more about this service [here.](https://github.com/department-of-v
 
 ### How to Run Locally
 TO DO: Need To Add a ReadMe.md file here - src/applications/representative-search
-[ View here]()
+[Go here for infomration on running locally]()
 
 ## Appoint a Representative
 This tool allows va users to pre-fill their VA Form 21-22 to appoint a Veteran Service Organization (VSO). 
@@ -28,7 +28,7 @@ You can learn more about this service [here.](https://github.com/department-of-v
 
 ### How to Run Locally
 TO DO: Need To Add a ReadMe.md file here - src/applications/representative-appoint
-[View here]()
+[Go here for infomration on running locally]()
 
 ## Profile - Representative Status
 This tool allows a va user to go to home page, select `Profile` from the drop down under their name. 
@@ -39,10 +39,12 @@ You can learn more about this service [here.](https://github.com/department-of-v
 ### How to Run Locally
 TO DO: Need To Add a ReadMe.md file here - src/applications/personalization/profile and src/applications/personalization/profile/components/accredited-representative
 
-[View here]()
+[Go here for infomration on running locally]()
 
 ## Accredited Representivie Portal - Form 21A
 This tool allows an attorney or claims agent to start the application process to become a VA-accredited representative. They can fill out the Form 21A online and submit it.
 
 ### How to Run Locally
 TO DO: Need To Add a ReadMe.md file here - src/applications/accreditation/21a
+
+[Go here for infomration on running locally]()
