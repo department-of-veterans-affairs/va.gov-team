@@ -4,27 +4,24 @@
 
 The OCTO Identity team manages the authentication integration for VA.gov. We work with identity partners to confirm who’s signing in and provide secure access to VA.gov resources. Our team understands how identity and security works across the entire platform.
 
-## **2025Q2 ROADMAP**
+## **PRIORITIES**
 
-**NOW**
-- [Delegate Access MVP](https://github.com/department-of-veterans-affairs/identity-documentation/milestone/3)
-- OKTA SSO Pilot
-_IAM is replacing the ISAM identity broker with an Okta-based solution and has requested our assistance in piloting the integration._
-- Sign-In Transition: DMDC Federation
-_ON HOLD: Awaiting next steps from leadership._
-  
-**NEXT**
-- [[Sign-In Transition: DS Logon Deprecation](https://github.com/department-of-veterans-affairs/identity-documentation/milestone/2)](https://github.com/department-of-veterans-affairs/identity-documentation/issues/15)
-_Veterans will have a more streamlined and secure sign in experience via id.me and login.gov._
-- [Post-MHV Deprecation Work](https://github.com/department-of-veterans-affairs/identity-documentation/milestone/4)
-- [Improving CSAT Metrics](https://github.com/department-of-veterans-affairs/identity-documentation/milestone/5)
-- Operational Readiness: Internal Processes
-- MHV & MVH move into VA.gov
-*[Oracle Health Provisioning Expansion](https://github.com/department-of-veterans-affairs/identity-documentation/milestone/1)
+| Product Line | Status | Benefit |
+|--------------|--------|---------|
+| [Sign-In Transition: DS Logon Deprecation](https://github.com/department-of-veterans-affairs/identity-documentation/issues/15) | Now | Improves Veteran sign-in experience and security by consolidating to modern credentials |
+| [Post-MHV Deprecation Work](https://github.com/department-of-veterans-affairs/identity-documentation/milestone/4) | Now | Ensures continuity and secure access for Veterans post-MHV deprecation |
+| [Production Test Account Replacement Recommendations](https://github.com/department-of-veterans-affairs/identity-documentation/milestone/12) | Now | Provides secure testing and training options for internal VA teams and contractors after MHV sunset |
+| [Delegate Access MVP](https://github.com/department-of-veterans-affairs/identity-documentation/milestone/3) | Now | Enables caregivers and representatives to act on behalf of Veterans with proper access controls |
+| [Fraud Detection -> Prevention](https://github.com/department-of-veterans-affairs/identity-documentation/milestone/8) | Next | Proactively protects Veteran data and services from unauthorized access |
+| [Improving CSAT Metrics](https://github.com/department-of-veterans-affairs/identity-documentation/milestone/5) | Next | Enhances user satisfaction by reducing friction and improving sign-in experience |
+| [MHV & MVH move into VA.gov](https://github.com/department-of-veterans-affairs/identity-documentation/milestone/1) | As Time Allows | Streamlines access and experience for Veterans by integrating services into VA.gov |
+| [Oracle Health Provisioning Expansion](https://github.com/department-of-veterans-affairs/identity-documentation/milestone/1) | As Time Allows | Expands secure access to Oracle Health records and tools |
+| [Operational Readiness: Internal Processes](https://github.com/department-of-veterans-affairs/identity-documentation/milestone/10) | As Time Allows | Improves team coordination, documentation, and support efficiency |
+| Error Reduction on VA.gov | Later | Reduces authentication and access errors, improving trust and reliability |
+| [Identity Dashboard: STS focus](https://github.com/orgs/department-of-veterans-affairs/projects/1646/views/10?pane=issue&itemId=111916085&issue=department-of-veterans-affairs%7Cidentity-documentation%7C323) | In Intake | Provides VA teams with self-service tools for managing STS integrations securely |
+| Sign-In Transition: DMDC Federation | On Hold | TBD |
 
-**LATER**
-- Fraud Detection -> Prevention
-- Error Reduction on VA.gov
+
 
 ## **How we can help**
 
