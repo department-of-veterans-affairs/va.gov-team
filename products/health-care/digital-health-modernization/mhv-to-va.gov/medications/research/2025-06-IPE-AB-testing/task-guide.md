@@ -31,13 +31,13 @@ Please click **(Start)** when you are ready.
 
 ---
 
-## ✅ First Task: Albuterol
+## ✅ First Task: Keri Lotion
 
-Jamie has asthma and occasionally uses an inhaler. They are currently having a flare-up and need to find their **expired Albuterol Sulfate** prescription.
+Jamie realizes they are running low on their **current Keri Lotion** prescription.
 
-> **Task:** Locate Jamie’s prescription and open it.
+> **Task:** Find and open the **current Keri Lotion** prescription so Jamie can get more information.
 
-**How would you rate the difficulty of locating Jamie's Albuterol Sulfate prescription?**  
+**How would you rate the difficulty of locating Jamie's Keri Lotion prescription?**  
 1: Very Difficult  
 2: Difficult  
 3: Neither easy nor difficult  
@@ -61,13 +61,13 @@ Jamie’s doctor is encouraging them to manage their high blood sugar. Jamie use
 
 ---
 
-## ✅ Third Task: Keri Lotion
+## ✅ Third Task: Albuterol
 
-Jamie realizes they are running low on their **current Keri Lotion** prescription.
+Jamie has asthma and occasionally uses an inhaler. They are currently having a flare-up and need to find their **expired Albuterol Sulfate** prescription.
 
-> **Task:** Find and open the **current Keri Lotion** prescription so Jamie can get more information.
+> **Task:** Locate Jamie’s prescription and open it.
 
-**How would you rate the difficulty of locating Jamie's Keri Lotion prescription?**  
+**How would you rate the difficulty of locating Jamie's Albuterol prescription?**  
 1: Very Difficult  
 2: Difficult  
 3: Neither easy nor difficult  
