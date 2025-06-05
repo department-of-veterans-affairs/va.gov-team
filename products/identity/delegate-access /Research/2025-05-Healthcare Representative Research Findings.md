@@ -238,7 +238,7 @@ From a HIPAA perspective, it sounds like health care POA and court-appointed gua
 
 ## Conclusion
 
-* Based on our conversations, reviewing previous research, and  exploring legal/policy constraints, continuing to explore a technical solution from the Identity Team’s perspective does not make sense.  
+* Based on our conversations, reviewing previous research, and  exploring legal/policy constraints, we'll continue exploring policy avenues to see how we can expand what's technicall feasible.
 * However, we firmly believe that there are things we can do to help caregivers and the Veterans they support.
 
 ## Next Steps / additional research
