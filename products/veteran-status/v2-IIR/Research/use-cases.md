@@ -62,29 +62,6 @@ We're sorry. To fix the problem with your records, call the Defense Manpower Dat
 - **Link to code:** [TBD]
 </details>
 
-## Errors
-<details><summary> System error or API error </summary>
-  
-- **Use case:** System error or when Not Confirmed reason is ERROR  
-- **Status code:** TBD  
-- **Content:**
-H2: Something went wrong
-We're sorry. Try to view your Veteran Status Card later.
-- **Format:** Error alert component  
-- **Link to designs:** [[System Error]](https://www.figma.com/design/dm2KXJmeJEgCNKrDgIq8ko/Profile---Vet-Status-Card?node-id=3003-269378&t=4qBrNlwhsoeAPg30-1)
-- **Link to code:** [TBD]
-</details>
-
-<details><summary>Error downloading PDF</summary>
-  
-- **Use case:** Error occurs when user clicks "Print your Veteran Status Card (PDF)" link 
-- **Status code:** TBD  
-- **Content:**
-H2: Something went wrong
-We're sorry. Try to download your Veteran Status Card later.
-- **Link to designs:** [Error downloading PDF](https://www.figma.com/design/dm2KXJmeJEgCNKrDgIq8ko/Profile---Vet-Status-Card?node-id=3003-269121&t=4qBrNlwhsoeAPg30-1)
-</details>
-
 ## Edge cases
 
 ### NotInServiceHistoryAlert: 
@@ -114,4 +91,25 @@ Learn how to correct your military service records on the National Archives webs
 - **Link to code:** [TBD]
 </details>
 
+## Errors
+<details><summary> System error or API error </summary>
+  
+- **Use case:** System error or when Not Confirmed reason is ERROR  
+- **Status code:** TBD  
+- **Content:**
+H2: Something went wrong
+We're sorry. Try to view your Veteran Status Card later.
+- **Format:** Error alert component  
+- **Link to designs:** [[System Error]](https://www.figma.com/design/dm2KXJmeJEgCNKrDgIq8ko/Profile---Vet-Status-Card?node-id=3003-269378&t=4qBrNlwhsoeAPg30-1)
+- **Link to code:** [TBD]
+</details>
 
+<details><summary>Error downloading PDF</summary>
+  
+- **Use case:** Error occurs when user clicks "Print your Veteran Status Card (PDF)" link 
+- **Status code:** TBD  
+- **Content:**
+H2: Something went wrong
+We're sorry. Try to download your Veteran Status Card later.
+- **Link to designs:** [Error downloading PDF](https://www.figma.com/design/dm2KXJmeJEgCNKrDgIq8ko/Profile---Vet-Status-Card?node-id=3003-269121&t=4qBrNlwhsoeAPg30-1)
+</details>
