@@ -54,4 +54,5 @@ Here are the percentages as of May 27, 2025:
 - 
 
 ### Logging Silent Failures
--
+- There are no silent failures found related to the Mobile Veteran Status Card.
+- Any scenario where an exception is raised or an error reported to StatsD is also returned to the end user in the mobile app.
