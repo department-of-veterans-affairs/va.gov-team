@@ -13,6 +13,7 @@
 - **Page titles**: How do page titles help with accessibility?
 - ~**What does one thing per page mean?**: How much content is one thing?~
 - **Tools to do better research**: Help teams do better research with people with disabilities.
-- **Managing focus**: How to manage focus in an accessible way.
+- ~**Managing focus**: How to manage focus in an accessible way.~
 - **Labeling controls**: When should we use sr-only classes vs aria-labels or aria-describedby or aria-label.
 - **Making a prototype accessible**: How to make a Figma/UXPin/DesignToolX prototype accessible? And if this is not possible, then what are the alternatives?
+- **Skip links**: Importance of, why we need them, how they work, where to make them go to
