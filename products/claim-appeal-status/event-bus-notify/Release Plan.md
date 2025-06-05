@@ -67,7 +67,7 @@ Our PM and PO will monitor analytics, e.g. DataDog. If they notice a spike in er
 
 #### Planning
 
-- Desired date range or test duration: June 16th-18th, 2025
+- Desired date range or test duration: June 16, 2025
 - Desired number of users: 1
 - How you'll recruit the right production test users: We have already contacted Robin Garrison, who has agreed to let us use his participant ID.
 - How you'll conduct the testing: We will manually trigger the Event Bus Gateway to send a POST request to vets-api with Robin Garrison's participant ID.
@@ -91,7 +91,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Rollout Planning
 
-- Desired date range: June 3rd-6th, 2025
+- Desired date range: June 17, 2025 - June 27, 2025
 - How will you make the product available in production while limiting the number of users who can find/access it: Gateway will **not** be connected to the full production Kafka topic at this time, but rather a series of iteratively-larger subsets of messages.
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
   - DataDog error rate below 5%
