@@ -53,7 +53,7 @@ Follow this pattern to ask a user for their marital status and information about
 
 * **This question is the foundational part of this pattern.** If your form needs additional information, you can include questions from the question bank in this guidance.
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Images/Standard%20Marital%20Status.jpg?raw=true" alt="Standard Marital Status" width="50%" />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Images/Standard.png" alt="Standard Marital Status" width="50%" />
 
 [Alt text: A display of the standard Marital Status question with reponses available with radio buttons and an additional info component that provides more information on why we ask this information.]
 
@@ -62,7 +62,7 @@ Follow this pattern to ask a user for their marital status and information about
 
 * **If your form doesn't need this level of detail, simply ask "Are you married?".** Include "Yes/No" radio button options for a response. Map those to the "Married/Never Married" workflows.
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Images/Simple%20Marital%20Status.jpg?raw=true" alt="Simple Marital Status" width="65%" />
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/Images/Simple.png" alt="Simple Marital Status" width="65%" />
 
 [Alt text: An annotated display of the simplified version of the Marital Status question with reponses available with radio buttons and an additional info component that provides more information on why we ask this information.]
 
