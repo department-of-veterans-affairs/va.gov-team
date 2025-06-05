@@ -18,9 +18,7 @@ Don't fill out the acceptance criteria (Development Checklist) or Developer refe
 
 ### Bugs
 - In the 'Template' dropdown, select the VAOS Bug Template
-  - ![zh-choose-bug-template](https://user-images.githubusercontent.com/72046525/112037999-92da3680-8aff-11eb-959b-5dca37021116.jpg)
 - If prompted to change the template, select `Confirm` 
-  - ![Screen Shot 2021-09-24 at 2 37 47 PM](https://user-images.githubusercontent.com/72046525/134742477-33f73e56-834c-48e8-8199-1778995783ae.jpg)
 - Complete all sections of the template
 - Select `Submit new issue`
 
