@@ -38,10 +38,10 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 </details>
 
 
-<details><summary>NEEDS: STATUS CODES | NotInDEERSAlert, NoServiceHistoryAlert: User does not have a Department of Defense ID or service history</summary>
+<details><summary>NotInDEERSAlert, NoServiceHistoryAlert: User does not have a Department of Defense ID or service history</summary>
 
 - **Use case:** DEERS does not return a DoD ID or service history.
-- **Status code:** 403
+- **Status code:** GET/SHOW 403
 - **Content:**
 
 H2: We can’t match your information to any military service records
@@ -61,7 +61,7 @@ If you think there might be a problem with your military service records, you ca
 </details>
 
 
-<details><summary>NEEDS: STATUS CODES | NotAVeteranAlert: User is not a Veteran</summary>
+<details><summary>NotAVeteranAlert: User is not a Veteran</summary>
 
 - **Use case:** User is confirmed as a non-Veteran.
 - **Status code:** TBD
@@ -84,7 +84,7 @@ No validation use cases. Read only feature.
 
 ### Errors
 
-<details><summary>NEEDS: LINK TO CODE, STATUS CODES | System down</summary>
+<details><summary>System down</summary>
 
 - **Use case:** Cannot connect to the back end.
 - **Status code:** TBD
