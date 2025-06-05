@@ -118,8 +118,8 @@ This study will be remote and unmoderated, using Optimal Workshop.
 Please see below for links and details on research materials.  
 
 - [Link to email with instructions](url goes here) - TBD
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
+- [Link to prototype or OptimalSort session for Cohort 1]([url goes here](https://dj540s05.optimalworkshop.com/prototype/6mv0y39c)
+- [Link to prototype or OptimalSort session for Cohort 2](url goes here) - TBD (will duplicate 1 when it is finalized).
 - [Link to task questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2025-06-Task%20List%20and%20Traditional%20Form%20Unmoderated/tasks-instructions-post-questions.md)
 - [Link to Figma Prototypes](https://www.figma.com/design/0DGvBhCaSMf6WH1ofSw35y/10-10EZ---CYOA---Prototype---Study-1?node-id=3-28&t=hvLGbrvCE9CFdkPA-1)
 
