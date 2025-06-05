@@ -51,13 +51,14 @@ flowchart TD
   - Consumes and parses Kafka events.
   - Extracts key data (`VeteranParticipantId`, `ClaimTypeCode`).
   - Requests an access token using the `VeteranParticipantId` from the Sign-In Service (`vets-api`).
-  - Calls the `/v0/event_bus_gateway/send_email` endpoint in `vets-api` with the access token.
+  - Calls the `/v0/event_bus_gateway/send_email` endpoint in `vets-api` with the access token, sending the `template_id` for use with this notification.
 
 - **vets-api:**
   - `/v0/event_bus_gateway/send_email` controller validates the access token.
   - If valid, enqueues a Sidekiq job (`LetterReadyEmailJob`).
+  - The token is **not** stored anywhere for later use.
   - The job fetches additional info (first name) from BGS using `participant_id`.
-  - Sends an email through VaNotify, using the resolved name and template.
+  - Sends an email through VaNotify, using the resolved name and template provided by the gateway.
   - If token validation fails, responds with 401 Unauthorized.
 
 ---
