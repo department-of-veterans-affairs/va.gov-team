@@ -117,11 +117,11 @@ This study will be remote and unmoderated, using Optimal Workshop.
 ## Research materials 📔 (TBD) - Need to add links
 Please see below for links and details on research materials.  
 
-- [Link to email with instructions](url goes here) - Do we need to write this? / TBD
+- [Link to email with instructions](url goes here) - TBD
 - [Link to prototype or OptimalSort session for group A](url goes here)
 - [Link to prototype or OptimalSort session for group B](url goes here)
-- [Link to study questions]
-- [Link to Figma Prototypes]
+- [Link to task questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2025-06-Task%20List%20and%20Traditional%20Form%20Unmoderated/tasks-instructions-post-questions.md)
+- [Link to Figma Prototypes](https://www.figma.com/design/0DGvBhCaSMf6WH1ofSw35y/10-10EZ---CYOA---Prototype---Study-1?node-id=3-28&t=hvLGbrvCE9CFdkPA-1)
 
 ---
 
@@ -135,7 +135,7 @@ Our intended audience is Veterans and we will partner with Perigean for recruitm
 - Total participants: 15 per cohort
 - All participants will be Veterans   
 
-**Target:** 40 Veterans (at least 15 per cohort)  
+**Recruitment Target:** 40 Veterans (goal is at least 15 complete sessions per cohort)  
 **Tool:** Perigean  
 **Device requirement:** Desktop/laptop only
 
@@ -173,10 +173,10 @@ Our intended audience is Veterans and we will partner with Perigean for recruitm
 - **Session will be open: 06/23-06/30**
 
 ### Length of sessions
-- We estimate each participant will need 45 minutes to complete both of the flows.
+- We estimate each participant will need 30-45 minutes to complete both of the flows.
 
 ### Availability
-As these sessions are unmoderated, Veterans can complete them on their own time. We would like the final session to be completed by 06/30/2025 when the study closes.
+As these sessions are unmoderated, Veterans can complete them on their own time. We would like the final sessions to be completed by 06/30/2025 when the study closes.
 
 ---
 
