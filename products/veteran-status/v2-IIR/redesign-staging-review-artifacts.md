@@ -51,7 +51,7 @@ Here are the percentages as of May 27, 2025:
 - Branches = 81.01%
 
 ### Endpoint Monitoring
-- 
+- Playbook is linked here: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/playbooks/vet-verification-status.md
 
 ### Logging Silent Failures
 - There are no silent failures found related to the Mobile Veteran Status Card.
