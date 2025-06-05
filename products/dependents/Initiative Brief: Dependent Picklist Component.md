@@ -48,7 +48,7 @@ Veterans can select known dependents from a picklist when verifying or removing 
 - We can build the picklist to degrade gracefully in edge cases (e.g. no known dependents, name mismatches, data freshness issues).
 - Downstream systems will treat picklist-driven selections as more reliable than free-text input.
 
-### What're you recommending
+### Recommendations
 - Conduct initial discovery and usability testing to assess viable approaches and define the scope of a Picklist MVP.
 - Design and implement a picklist component for dependents, leveraging available data on file.
 - Integrate this component into the Dependent Verification MVP as a fast follow after launch.
