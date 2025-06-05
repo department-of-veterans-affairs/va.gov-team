@@ -133,11 +133,11 @@ As part of the One-Bot approach.
 - Bot can handle bad actors
   - Identify and filter harmful content from input and output (moderation, input/output guard rails)
 - Bot does not provide recommendations on any eligibility
+- Bot has a feedback system 
 
 > *What have you explicitly decided to **not** include and why?*
 - Being 508 compliant (for PoC) 
 - Store/Transfer transcripts to CXI & dataleaks
-- Have a feedback system 
 - Have moderation/monitoring alerts
 - Be a part of an ATO that should have GenAI parameters
 - Encrypt, as best as possible, PII/PHI
@@ -161,6 +161,7 @@ As part of the One-Bot approach.
 1. Resource Onboarding: May 12th, 2025
 2. Kickoff: May 19th, 2025 
 3. Build Start: June 02, 2025
+4. Build End: July 18, 2025
 
 
 ### Key Decisions
