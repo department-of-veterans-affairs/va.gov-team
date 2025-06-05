@@ -21,8 +21,8 @@
 
 ## Current experience
 - For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the user will be directed to the Profile Account Security section. [See LOA1 account documentation.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
-- This page shows dyanmic bank account information, all other information is read only, and includes:
-   - Bank account information
+- This page shows dyanmic Bank account information, which allows the user to update their direct deposit information.
+- All other information is read only, and includes:
    - How to update your direct deposit information for Montgomery GI Bill
    - What if I think I’ve been the victim of bank fraud?
    - VA payment history
@@ -101,6 +101,8 @@ If you think this is an error, or think you have been a victim of bank fraud cal
 
 ## Edge cases
 
+### System errors
+
 <details><summary>TemporaryOutage: Used for back end system outages</summary>
 
 - **Use case:** Error will appear when we are having issues connecting to the back end, and can't determine if they have direct deposit information to show. There is no action the user can take to correct this.
@@ -120,9 +122,13 @@ Refresh this page or try again later.
 </details>
 
 
-## Edge cases: Bank account information
+### Blocked users 
+- [See documentation here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/blocked-account.md)
 
-### Validation
+
+### Bank account information
+
+#### Validation
 
 <details><summary>InvalidRoutingNumber: Invalid routing number entered</summary>
 
@@ -171,7 +177,7 @@ We’re sorry. We couldn’t update your direct deposit bank information because
 </details>
 
  
-### Flags 
+#### Flags 
 
 <details><summary>PaymentRestrictionError: Account flagged for fraud</summary>
 
@@ -217,7 +223,7 @@ You can also update this information by mail or in person at a VA regional offic
 </details>
 
 
-### Errors 
+#### Errors 
 
 <details><summary>GenericError: Used for all other errors</summary>
 
@@ -259,10 +265,6 @@ We're sorry. Something went wrong on our end. Refresh this page or try again lat
 - [Link to code]
 
 </details>
- 
-
-### Blocked users 
-- [See documentation here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/blocked-account.md)
  
 ---
 
