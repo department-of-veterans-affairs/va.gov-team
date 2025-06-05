@@ -11,7 +11,7 @@ See [ADR 003](https://github.com/department-of-veterans-affairs/va.gov-team/blob
 | v1          | aria-label      | true        | `string` | -                 | web/mobile   | A unique name for the rendered nav landmark. |
 | v1          | aria-current    | true        | ` 'page'  'step' 'location'  'date'  'time' 'true' 'false'` |  `'page'` |   web/mobile   |  Set aria-current to "page" to indicate that the item represents the current page. Set aria-current to "location" to indicate that the item represents the current location on a page. For more information about aria-current, see [MDN](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Reference/Attributes/aria-current). |
 | v1          | href      | true         |  `string` |    -             |    web/mobile               |   The unique url used for each tab        |   
-| v2         |  overflowBehavior  | true        |  `'stacked'` `'menu'` |  `'menu'`        |  web/mobile | Choose between the overflow behavior for the tabs. A `'stacked'` option will show all tabs in a single vertical column while the `'menu'` option will bundle all the extra tabs into a dropdown. |
+| v2         |  overflowBehavior  | true        |  `'stacked'` `'full-width'` `'menu'` |  `'menu'`        |  web/mobile | Choose between the overflow behavior for the tabs. A `'stacked'` option will show all tabs in a single vertical column while the `'menu'` option will bundle all the extra tabs into a dropdown. |
 
 ## Architecture Overview
 
@@ -67,7 +67,7 @@ More on the click behavior can be found in the [Experimental Design: New Tabs De
 ## Future Considerations
 
 ### Stacked option
-- For V2, it could be beneficial to offer different overflow behaviors. A stacked version like you see in this prototype might be a better option in some use cases. 
+- For V2, it could be beneficial to offer different overflow behaviors. A stacked version like you see in this prototype might be a better option in some use cases or possibly a full-width version for mobile that would be similar to the [buttons - segmented](https://design.va.gov/components/button/button-segmented) option on mobile. 
   [Stacked tabs prototype](https://codepen.io/babsdenney/pen/yyyBbYY)
 
 ### Popover and Side nav components
