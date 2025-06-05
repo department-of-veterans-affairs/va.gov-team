@@ -108,12 +108,12 @@ Future iterations will expand the types of notifications (other claim events, ad
 - Coordination with VA Comms team for user education.
 
 **Link to Release Plan:**  
-tbd
+[Decision Letter Email Notification Release Plan](./Release%20Plan.md)
 
 
 ## Launch Dates
 
-- **Target Launch Date:** June 2025  
+- **Target Launch Date:** June 16, 2025  
 - **Actual Launch Date:** tbd  
 - **Impact Review / Evaluation Date:** tbd  
 
@@ -135,17 +135,19 @@ _(to be provided in final release plan; placeholders)_
 
 **Communications:**  
 - Stakeholder demos planned.  
-- Updates via Slack, VA.gov team updates, and ongoing discovery sessions.
+- Updates via Slack ([#decision-letter-notification-taskforce](https://dsva.slack.com/archives/C06Q9H7FTSR)), VA.gov team updates, and ongoing discovery sessions.
 
 
 ## Incident Response
 
 **Points of Contact:**  
-- **BMT Team:**  
+- **BMT Team:**
+  - [#benefits-management-tools](https://dsva.slack.com/archives/C04KHCT3ZMY) in Slack
   - Saliha Ghaffar (Product Manager)  
   - Stacy Wise (Tech Lead)  
   - Ian Donovan (Engineer)  
-- **Event Bus Team:**  
+- **Event Bus Team:**
+  - [#event-bus-support](https://dsva.slack.com/archives/C074VK55M9P) in Slack
   - Rick Golden (Product Manager)
   - Emily Wilson (Tech Lead)
   - Darius Dzien (Engineer)
@@ -168,11 +170,15 @@ _(to be provided in final release plan; placeholders)_
 
 
 **New Publicly-Exposed Endpoints:**  
-- No new publicly-exposed APIs in the MVP.  
-- Uses existing VA Notify endpoints for notification delivery.
+- `https://api.va.gov/v0/event_bus_gateway/send_email`
+    - Authenticated endpoint requiring a service account token.
+    - `eventbus-gateway` application retrieves the token from the Sign-In Service utilizing the received Participant ID as the Veteran identifier
+    - Called by `eventbus-gateway` application; initiates the email job within `vets-api`.
+- Uses existing VA Notify functionality for notification delivery.
 
 **New Interactions with Dependent VA Backends:**  
-- Consumes BIP ClaimLifecycleStatusUpdated events via Event Bus.  
+- Consumes BIP ClaimLifecycleStatusUpdated events via Event Bus.
+- Uses Sign-In Service to authenticate with a service access token
 - Leverages Event Bus and VA Notify infrastructure.  
 
 **Security Hotspots to Watch:**  
@@ -185,9 +191,7 @@ _(to be provided in final release plan; placeholders)_
 ## Privacy, Security, Infrastructure Readiness Review
 
 **Link to Release Plan with “Planning” sections completed:**  
-tbd
-  
-- [Release Plan](tbd)
+- [Decision Letter Email Notification Release Plan](./Release%20Plan.md)
 
 
 ## Outcome and Next Steps
