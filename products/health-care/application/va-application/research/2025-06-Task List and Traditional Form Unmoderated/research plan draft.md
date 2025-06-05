@@ -114,7 +114,7 @@ This study will be remote and unmoderated, using Optimal Workshop.
 - [X] **Remote**
 - [ ] **In-person**
       
-## Research materials 📔 (TBD) - Need to add links
+## Research materials 📔 (In progress)
 Please see below for links and details on research materials.  
 
 - [Link to email with instructions](url goes here) - TBD
@@ -127,7 +127,7 @@ Please see below for links and details on research materials.
 
 ## Recruitment 🎯   
 
-### Recruitment approach (REVIEW)
+### Recruitment approach
 Our intended audience is Veterans and we will partner with Perigean for recruitment. All efforts will be made to recruit a diverse sample, with participants backgrounds ranging across age, abilities, and ethnicities. Ideally, participants will not have filled out the 10-10EZ in the last 6 months, so that we avoid too much familiarity with the health enrollment form structure.      
 
 ### List the ideal completed sessions and total number and type (Veterans, caregivers, etc.) of participants for this study:   
