@@ -1,8 +1,6 @@
 # Direct Deposit Use Cases
 
-**Last updated:** May 2025
-
-For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the user will be directed to the Profile Account Security section.
+**Last updated: June 2025**
 
 - [User flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1746465334851/afdc4978dfd4cd9880a90f4066e236095170365b?wid=0-1743526306164&outline=open)
 - [Figma files](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=0-1&t=YyRIssxrSn59rYTM-1)
@@ -21,29 +19,18 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 
 </details>
 
+## Current experience
+- For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the user will be directed to the Profile Account Security section. [See LOA1 account documentation.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
+- This page shows dyanmic bank account information, all other information is read only, and includes:
+   - Bank account information
+   - How to update your direct deposit information for Montgomery GI Bill
+   - What if I think I’ve been the victim of bank fraud?
+   - VA payment history
+
+
 ## Common use cases
 ### User logs in with LOA1 account
 - [User logs in with an LOA1 account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
-
-
-### User logs in with LOA3 account: Direct deposit page content
-
-<details><summary>All information shown</summary>
-
-- **Use case:** Content shows for all LOA3 users. Bank account information is dynamic, all other information is read only.
-- **Status code:** None
-- **Content:**
-
-   - Card: Bank account information
-   - Additional info: How to update your direct deposit information for Montgomery GI Bill
-   - Information alert: What if I think I’ve been the victim of bank fraud?
-   - Card: VA payment history
-
-- **Format:** See designs
-- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2258-5791&t=2E35Z57ibI3XozvU-1) 
-- [Link to code]
-
-</details>
 
 
 ### User logs in with LOA3 account: Bank account information
@@ -113,6 +100,27 @@ If you think this is an error, or think you have been a victim of bank fraud cal
 
 
 ## Edge cases
+
+<details><summary>TemporaryOutage: Used for back end system outages</summary>
+
+- **Use case:** Error will appear when we are having issues connecting to the back end, and can't determine if they have direct deposit information to show. There is no action the user can take to correct this.
+- **Status code:** TBD
+- **Content:**
+
+H2: Direct deposit information isn’t available right now
+
+We’re sorry. Direct deposit information isn’t available right now. We’re doing some maintenance work on this system.
+
+Refresh this page or try again later.
+
+- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
+- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2327-23209&t=LjjeJObYt6wPn3uz-1)
+- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/cc4af4e2e0fed33ea05835acd63566fd02970abd/src/applications/personalization/profile/components/direct-deposit/alerts/TemporaryOutage.jsx#L32)
+
+</details>
+
+
+## Edge cases: Bank account information
 
 ### Validation
 
@@ -213,7 +221,7 @@ You can also update this information by mail or in person at a VA regional offic
 
 <details><summary>GenericError: Used for all other errors</summary>
 
-- **Use case:** Used as generic PUT/UPDATE error.
+- **Use case:** Used as generic Bank account information PUT/UPDATE error.
 - **Status codes:**
    - PUT **400** Bad request to BGS
    - PUT **401** Unauthenticated user
@@ -234,7 +242,7 @@ We’re sorry. We couldn’t update your payment information. Please try again l
 
 <details><summary>This page is not available right now</summary>
 
-- **Use case:** Used as generic GET/SHOW error.
+- **Use case:** Used as generic Bank account information GET/SHOW error.
 - **Status codes:**
    - GET **401** Unauthenticated user
    - GET **403** Forbidden user
@@ -249,27 +257,6 @@ We're sorry. Something went wrong on our end. Refresh this page or try again lat
 - **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert) replaced Bank information widget. Widget does not show.
 - [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2324-23090&t=LjjeJObYt6wPn3uz-1)
 - [Link to code]
-
-</details>
-
-
-#### System error
-
-<details><summary>TemporaryOutage: Used for back end system outages</summary>
-
-- **Use case:** Error will appear when we are having issues connecting to the back end, and can't determine if they have direct deposit information to show. There is no action the user can take to correct this.
-- **Status code:** TBD
-- **Content:**
-
-H2: Direct deposit information isn’t available right now
-
-We’re sorry. Direct deposit information isn’t available right now. We’re doing some maintenance work on this system.
-
-Refresh this page or try again later.
-
-- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
-- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2327-23209&t=LjjeJObYt6wPn3uz-1)
-- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/cc4af4e2e0fed33ea05835acd63566fd02970abd/src/applications/personalization/profile/components/direct-deposit/alerts/TemporaryOutage.jsx#L32)
 
 </details>
  
