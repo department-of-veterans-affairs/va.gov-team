@@ -25,7 +25,7 @@
 - https://github.com/department-of-veterans-affairs/va.gov-team/issues/95487 
   
 ### Accessibility Test Artifcat
-- 
+- [Issue 110472](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110472)
 
 ### Regression Test Plan
 - 
