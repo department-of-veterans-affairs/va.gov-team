@@ -103,7 +103,11 @@ If you think this is an error, or think you have been a victim of bank fraud cal
 
 ## Edge cases
 
-### System errors
+### Blocked users 
+- [See documentation here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/blocked-account.md)
+
+
+### Errors
 
 <details><summary>TemporaryOutage: Used for back end system outages</summary>
 
@@ -122,10 +126,6 @@ Refresh this page or try again later.
 - [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/cc4af4e2e0fed33ea05835acd63566fd02970abd/src/applications/personalization/profile/components/direct-deposit/alerts/TemporaryOutage.jsx#L32)
 
 </details>
-
-
-### Blocked users 
-- [See documentation here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/blocked-account.md)
 
 
 ### Bank account information section
