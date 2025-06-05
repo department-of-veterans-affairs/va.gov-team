@@ -74,7 +74,7 @@ Currently, the VA overpays $250 million in dependent benefits each year. If a Ve
 
 | KPI                                                        | Category           | Baseline | Goal   |
 |------------------------------------------------------------|--------------------|----------|--------|
-| Annual Overpayment Amount                                  | Service Completion | $250m    | -80%   |
+| Annual Overpayment Amount                                  | Service Completion | $250m    | -30%   |
 | Improved response rate to dependency verification requests | Ease of Use        |    0     |        |
 | # of VA.gov 21-0538 submissions                            | Ease of Use        |          |        |
 | % of submission failures                                   | Form Health        |    0     | <1%    |
