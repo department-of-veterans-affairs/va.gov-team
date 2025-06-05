@@ -35,7 +35,7 @@
 
 ### User logs in with LOA3 account
 
-#### Bank account information
+#### Bank account information section
 
 <details><summary>Ineligible: No payments detected</summary>
 
@@ -128,7 +128,7 @@ Refresh this page or try again later.
 - [See documentation here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/blocked-account.md)
 
 
-### Bank account information
+### Bank account information section
 
 #### Validation
 
