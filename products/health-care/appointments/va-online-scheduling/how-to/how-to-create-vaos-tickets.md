@@ -9,10 +9,9 @@ For handing off any new design work to devs:
 2. Use the VAOS Developer Task Template
 3. Add it to the Backlog column/use that status
 4. Add the needs-grooming lab
-5. Fill out these areas
-6. Description - high level overview of what's changing
-7. Design assets - link any files that contain the changes
-8. Definition of done - add a checklist of high level changes you (or another UXer) will use to validate that the ticket is complete
+6. Fill out description - high level overview of what's changing
+7. Add design assets - link any files that contain the changes
+8. In definition of done section, add a checklist of high level changes you (or another UXer) will use to validate that the ticket is complete
 
 Don't fill out the acceptance criteria (Development Checklist) or Developer reference sections. Once that's done, it'll be in the queue for the next team refinement, which happens weekly. Any ticket you create you'll likely be asked to walk through at that meeting. And devs will size it etc.
 
