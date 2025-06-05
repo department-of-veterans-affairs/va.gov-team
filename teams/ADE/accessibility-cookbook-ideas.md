@@ -17,3 +17,4 @@
 - **Labeling controls**: When should we use sr-only classes vs aria-labels or aria-describedby or aria-label.
 - **Making a prototype accessible**: How to make a Figma/UXPin/DesignToolX prototype accessible? And if this is not possible, then what are the alternatives?
 - **Skip links**: Importance of, why we need them, how they work, where to make them go to
+- **Error handling and focus management**: Additional documentation on how errors are displayed and which code element receieves focus to read the error and where focus lands so the user can fix the error
