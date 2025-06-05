@@ -1,28 +1,69 @@
+# Data Flow Diagram: EventBus Gateway & `/v0/event_bus_gateway/send_email` (with Authorization)
+
+This diagram illustrates the data flow for events coming into the EventBus Gateway application, including the authorization flow for the `/v0/event_bus_gateway/send_email` endpoint in the `vets-api` application.
+
 ```mermaid
 flowchart TD
-    subgraph Upstream["Upstream System"]
-        A1["Produce Kafka Event (decision_letter_availability)"]
+    %% External Event Source
+    A[Kafka Topic<br/>Event Message]:::external
+    subgraph EventBus Gateway Application
+        B["EventBus Gateway<br/>Kafka Consumer"]
+        C["Event Handler / Processor"]
+        D["API Client<br/>(vets-api)"]
+    end
+    subgraph vets-api Application
+        E["EventBusGatewayController<br/>/v0/event_bus_gateway/send_email"]
+        I["Sign-In Service<br/>(Service Account)"]
+        J["Access Token Validation"]
+        F["EventBusGateway::LetterReadyEmailJob<br/>(Background Job)"]
+        G["BGS Service<br/>(Fetch Profile for Personalization)"]
+        H["VaNotify::Service<br/>(Send Email)"]
     end
 
-    subgraph EventBusGateway["eventbus-gateway"]
-        B1["Karafka Consumer (DecisionLetterAvailabilityConsumer)"]
-        B2["Process Event & Make API Call"]
-        B3["POST to vets-api /v0/event_bus_gateway/send_email"]
-    end
+    %% Data flow lines
+    A -- "#1. Kafka Event<br />Contains VeteranParticipantId,<br />ClaimTypeCode, etc." --> B
+    B -- "#2. Parse Event<br />(deserialize JSON)" --> C
+    C -- "#3. Validate & Extract Data<br />(e.g., VeteranParticipantId, ClaimTypeCode)" --> D
+    D -- "#4. Request Access Token<br />Identifier: VeteranParticipantId" --> I
+    I -- "#5. Access Token" --> D
+    D -- "#6. POST /v0/event_bus_gateway/send_email<br />{ template_id }<br />(with Bearer Token)" --> E
+    E -- "#7. Validate Access Token" --> J
+    J -- "#8. On Success: Enqueue<br />LetterReadyEmailJob" --> F
+    J -. "#9. On Failure: 401 Unauthorized" .-> D
+    F -- "#10. Look up Profile<br />via BGS Service" --> G
+    F -- "#11. Send Email via VaNotify" --> H
+    G -- "Profile Information" --> F
 
-    subgraph VetsAPI["vets-api"]
-        C1["EventBusGatewayController"]
-        C2["Enqueue Sidekiq Job (LetterReadyEmailJob)"]
-        C3["Send Notification (Email)"]
-    end
+    %% Styling
+    classDef external color:#000,fill:#9cf,stroke:#333,stroke-width:2px
+    class A external
 
-    K[("Kafka Topic: decision_letter_availability")]
-
-    A1 --> K
-    K --> B1
-    B1 --> B2
-    B2 --> B3
-    B3 --> C1
-    C1 --> C2
-    C2 --> C3
+    %% Dashed arrow for error
+    %% J -. "Unauthorized" .-> D
 ```
+
+## Data & Authorization Flow Details
+
+- **Kafka Event (input):**  
+  - Receives a JSON message with keys like `VeteranParticipantId`, `ClaimTypeCode`, etc.
+
+- **EventBus Gateway:**  
+  - Consumes and parses Kafka events.
+  - Extracts key data (`VeteranParticipantId`, `ClaimTypeCode`).
+  - Requests an access token using the `VeteranParticipantId` from the Sign-In Service (`vets-api`).
+  - Calls the `/v0/event_bus_gateway/send_email` endpoint in `vets-api` with the access token.
+
+- **vets-api:**
+  - `/v0/event_bus_gateway/send_email` controller validates the access token.
+  - If valid, enqueues a Sidekiq job (`LetterReadyEmailJob`).
+  - The job fetches additional info (first name) from BGS using `participant_id`.
+  - Sends an email through VaNotify, using the resolved name and template.
+  - If token validation fails, responds with 401 Unauthorized.
+
+---
+
+**Legend:**
+- Blue Nodes: External systems
+- Grouped Nodes: Application boundaries
+- Arrows: Data flow (with key data highlighted)
+- Dashed Arrow: Error/Unauthorized path
