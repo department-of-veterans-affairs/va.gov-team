@@ -82,8 +82,12 @@ If you think this is an error,  call us at 800-698-2411 (TTY: 711). We’re here
 
 
 ## Edge cases
+
 ### Validation
-No validation use cases. Read only feature.
+No validation use cases.
+
+### Flags
+No flags for this feature.
 
 ### Errors
 
