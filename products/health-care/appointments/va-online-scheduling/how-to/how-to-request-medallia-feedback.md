@@ -58,10 +58,15 @@ A tool for Veterans to schedule and manage their appointments online.
 **Survey URL(s), key term(s), case category or type**
 
 ```
-All comments under and including these URLS and all of their sub-URLs:
+All comments under and including these URLS and all of their sub-URLs.
 
+Public URLs:
 - https://www.va.gov/health-care/manage-appointments/
 - https://www.va.gov/resources/what-should-i-bring-to-my-health-care-appointments/
+- https://www.va.gov/resources/about-managing-health-appointments-online/
+- https://www.va.gov/resources/how-to-get-community-care-referrals-and-schedule-appointments/
+
+Logged in experience:
 - https://www.va.gov/my-health/appointments
 ```
 
