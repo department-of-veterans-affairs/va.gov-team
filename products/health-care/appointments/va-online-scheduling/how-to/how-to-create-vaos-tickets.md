@@ -4,11 +4,10 @@
 
 [UAE Appointments Team Github Board](https://github.com/orgs/department-of-veterans-affairs/projects/1554)
 
-For handing off any new design work to devs: 
-1. Create a new ticket in the Github board
-2. Use the VAOS Developer Task Template
-3. Add it to the Backlog column/use that status
-4. Add the needs-grooming lab
+For handing off any new design work to devs:
+
+1. Create a new ticket in the Github board, and use the VAOS Developer Task Template
+3. Add it to the Backlog column/add that status label and the needs-grooming label
 6. Fill out description - high level overview of what's changing
 7. Add design assets - link any files that contain the changes
 8. In definition of done section, add a checklist of high level changes you (or another UXer) will use to validate that the ticket is complete
