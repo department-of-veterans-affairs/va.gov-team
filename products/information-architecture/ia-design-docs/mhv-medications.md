@@ -1,5 +1,5 @@
 # IA Design for MHV on VA.gov - Medications
-**STATUS: Phase 1**
+**STATUS: Launched to all Veterans with VistA facilities in their profiles**
 
 **Team:** MHV on VA.gov Medications
 
