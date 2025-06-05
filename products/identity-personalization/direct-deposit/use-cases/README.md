@@ -119,7 +119,7 @@ If you think this is an error, or think you have been a victim of bank fraud cal
 <details><summary>InvalidRoutingNumber: Invalid routing number entered</summary>
 
 - **Use case:** User edits their Bank account information, a call is made to match the routing number, and the routing number is incorrect. Alert appears above input fields in Bank account information edit use case.
-- **Status code:** TBD
+- **Status code:** PUT/UPDATE 400
 - **Content:**
 
 We can’t find a bank linked to the routing number you entered.
@@ -136,7 +136,7 @@ Review your routing number and make sure it’s correct.
 <details><summary>UpdatePhoneNumberError: Invalid home or work number entered</summary>
 
 - **Use case:** User edits their Bank account information, a call is made to match the home and work phone, and the information is incorrect. There is no requirement to have valid phone numbers on file, and this is a legacy event from eBenefits. [More context linked here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/validation-address-phone.md). Alert appears above input fields in Bank account information edit use case.
-- **Status code:** TBD
+- **Status code:** PUT/UPDATE 400
 - **Content:**
 
 We’re sorry. We couldn’t update your direct deposit bank information because your ${phoneNumberType} phone number is missing or invalid. Please go back to your profile and fill in this required information.
@@ -151,7 +151,7 @@ We’re sorry. We couldn’t update your direct deposit bank information because
 <details><summary>UpdateAddressError: Invalid address entered</summary>
 
 - **Use case:** User edits their Bank account information, a call is made to match the address, and the information is incorrect. There is no requirement to have valid addresses on file, and this is a legacy event from eBenefits. [More context linked here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/validation-address-phone.md). Alert appears above input fields in Bank account information edit use case.
-- **Status code:** TBD
+- **Status code:** PUT/UPDATE 400
 - **Content:**
 
 We’re sorry. We couldn’t update your direct deposit bank information because your mailing address is missing or invalid. Please go back to your profile and fill in this required information.
@@ -168,7 +168,7 @@ We’re sorry. We couldn’t update your direct deposit bank information because
 <details><summary>PaymentRestrictionError: Account flagged for fraud</summary>
 
 - **Use case:** User edits their Bank account information, a call is made to check for fraud, and returns the alert. Alert appears above input fields in Bank account information edit use case.
-- **Status code:** PUT **422**
+- **Status code:** PUT/UPDATE 422
 - **Content:**
 
 H2: We couldn't update your direct deposit information
