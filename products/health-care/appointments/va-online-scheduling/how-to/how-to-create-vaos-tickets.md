@@ -2,14 +2,19 @@
 
 ## Appointments Team Board
 
-[Appointments Team ZenHub Board](https://app.zenhub.com/workspaces/appointments-team-603fdef281af6500110a1691/board)
+[UAE Appointments Team Github Board](https://github.com/orgs/department-of-veterans-affairs/projects/1554)
 
-For all new VAOS tickets:
-1. From our team board in ZenHub, click [New Issue](https://app.zenhub.com/workspaces/vaos-team-603fdef281af6500110a1691/issues/department-of-veterans-affairs/va.gov-team/new?issueType=issue)
+For handing off any new design work to devs: 
+1. Create a new ticket in the Github board
+2. Use the VAOS Developer Task Template
+3. Add it to the Backlog column/use that status
+4. Add the needs-grooming lab
+5. Fill out these areas
+6. Description - high level overview of what's changing
+7. Design assets - link any files that contain the changes
+8. Definition of done - add a checklist of high level changes you (or another UXer) will use to validate that the ticket is complete
 
-   ![zh-new-issue-button](https://user-images.githubusercontent.com/72046525/112037175-b355c100-8afe-11eb-922f-3ef7d911373c.jpg)
-
-2. Use additional instructions below as applicable
+Don't fill out the acceptance criteria (Development Checklist) or Developer reference sections. Once that's done, it'll be in the queue for the next team refinement, which happens weekly. Any ticket you create you'll likely be asked to walk through at that meeting. And devs will size it etc.
 
 ---
 
