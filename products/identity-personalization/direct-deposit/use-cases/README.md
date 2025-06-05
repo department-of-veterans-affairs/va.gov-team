@@ -33,7 +33,9 @@
 - [User logs in with an LOA1 account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
 
 
-### User logs in with LOA3 account: Bank account information
+### User logs in with LOA3 account
+
+#### Bank account information
 
 <details><summary>Ineligible: No payments detected</summary>
 
