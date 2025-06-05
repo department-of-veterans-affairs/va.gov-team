@@ -61,6 +61,7 @@ A tool for Veterans to schedule and manage their appointments online.
 All comments under and including these URLS and all of their sub-URLs:
 
 - https://www.va.gov/health-care/manage-appointments/
+- https://www.va.gov/resources/what-should-i-bring-to-my-health-care-appointments/
 - https://www.va.gov/my-health/appointments
 ```
 
@@ -104,7 +105,9 @@ But make sure to review the entire sheet every time, as new data columns can be 
 
 4. Check that the headings are correct across the entire sheet. The order the data points are received in does change without warning. It's helpful to copy the heading row in with the rest of the data, then delete it when done.
 
-5. Sort the sheet by "URL". Move any feedback under the `https://www.va.gov/health-care/manage-appointments/` URL (and any subURLs) to the Appts Benefits Hub tab.
+5. Sort the sheet by "URL". Move any feedback under the unauth urls URL (and any subURLs) to the "Unauth" (previously "Appts Benefits Hub") tab:
+- `https://www.va.gov/health-care/manage-appointments/`
+- `https://www.va.gov/resources/what-should-i-bring-to-my-health-care-appointments/`
 
 8. Delete the original file from your computer.
 
