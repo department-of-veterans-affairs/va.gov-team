@@ -45,5 +45,21 @@
 
 
 * **If beneficiary has a medical claim:** Itemized billing statement or superbill
+  * Beneficiary's full name, date of birth
+  * Provider's full name, Full name, Medical title, Address where services were rendered, 10-digit National Provider Identifier (NPI), 9-digit tax identification number (TIN or Tax ID; example 12-1234567)
+  * A list of charges for care
+  * Dates of service for care
+  * Diagnosis (DX) codes for the care
+  * A list of procedure codes for the care: Current Procedural Terminology (CPT) codes or Healthcare Common Procedure Coding System (HCPCS) codes
 * **If beneficiary has a medical claim and other health insurance and/or medicare:** Explanation of Benefits from each insurance provider
+  * Date of service that matches the date of care.
+  * The health care provider’s: Name, 10-digit NPI (National Provider Identifier) code if not shown on itemized billing statement.
+  * The services the insurance provider paid for. This may be a 5-digit CPT (Current Procedural Terminology) or HCPCS (Healthcare Common Procedure Coding System) code or a description of the service or medical procedure.
+  * The amount paid by the insurance provider. 
 * **If beneficiary has a pharmacy claim:** Pharmacy statement
+  * The pharmacy’s name, address, phone number
+  * The medication’s name, dosage, strength, quantity, cost
+  * Copay amount
+  * National Drug Code (NDC) for each medication. This is an 11-digit number that’s different from the Rx number
+  * Date the pharmacy filled the prescription
+  * Name of the provider who wrote the prescription
