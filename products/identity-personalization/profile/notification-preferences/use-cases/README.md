@@ -9,7 +9,7 @@
 
 - [See user list in the sensitive repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/notification_settings/default-send/qa-default-send.md)
 - [User has no contact info on file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/use-cases/user-missing-contact-info.md#how-to-reproduce)
-- 
+- [User has incomplete contact information on file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/use-cases/user-partial-contact-info.md#how-to-reproduce)
 
 </details>
 
@@ -17,7 +17,7 @@
 ## Current experience
 - For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the user will be directed to the Profile Account Security section. [See LOA1 account documentation.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
 - This page allows users to opt in and out of text and email notifications on the VA.gov Profile.
-   - Text notifications are managed through VeText.
+   - Text notifications are managed through VeText. Text notifications require a US based phone number to send.
    - Email notifications are managed through VA Notify.
    - If you have questions about how the integrations work or need to set up new integrations please speak to the respective teams. These use cases are ONLY for the VA.gov Profile experience
 - As of June 2025, the notification settings page has notifications for the following topics:
@@ -44,15 +44,25 @@
 - **Content:**
 
 Current
+
 Header: We don’t have your contact information
+
 To get started managing your notification settings, add an email address or phone number to your profile.
+
 Link: Add an email address to your profile ›
+
 Link: Add a mobile number to your profile ›
 
+
+
 International phone number
+
 Header: We don’t have your contact information
+
 To get started managing your notification settings, add an email address or US based mobile phone number to your profile.
+
 Link: Add an email address to your profile ›
+
 Link: Add a US based mobile number to your profile ›
 
 - **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
@@ -61,10 +71,27 @@ Link: Add a US based mobile number to your profile ›
 
 </details>
 
+
+<details><summary>User has incomplete contact information on file</summary>
+
+- **Use case:** If a user has missing email or phone number information, we show:
+   - The information on file with a link to edit. Which prompts the edit-as-a-subtask flow.
+   - A link prompting the user to add the missing information. Which prompts the edit-as-a-subtask flow.
+   - Notifications related to the missing information are hidden, and instead, the user sees an [expandable alert](https://design.va.gov/components/alert/alert-expandable/#default-informational) explaining which notifications are not visible.
+- **Status code:** TBD
+- **Content:** See designs
+- **Format:** See designs
+- Links to designs
+   - [No email on file](https://www.figma.com/design/e6JEtrwZCInKk9SjZktx2T/Profile---Notification-Settings?m=auto&node-id=2553-20789&t=jPNC2z23oWW0ILj9-1)
+   - [No mobile phone number on file](https://www.figma.com/design/e6JEtrwZCInKk9SjZktx2T/Profile---Notification-Settings?m=auto&node-id=2553-20816&t=jPNC2z23oWW0ILj9-1)
+   - No US based mobile phone number on file TBD
+- [Link to code]
+
+</details>
+
+
 - [User needs to update setting for one or more notifications](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/use-cases/update-settings.md)
 
-- [User has partial contact info (email OR phone number)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/use-cases/user-partial-contact-info.md)
-	- This is only valid once we have multiple notification channels (e.g. text and email)
 - ADD edit as a subtask flow to page
 - ADD international phone number on file to use cases
 
