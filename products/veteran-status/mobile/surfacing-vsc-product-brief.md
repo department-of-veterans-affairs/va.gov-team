@@ -26,12 +26,13 @@ Adoption is our key performance indicator. We’ll track Veteran engagement and 
 ### Table of the Key Performance Indicators 
 Feature went live on 4/22/2025
 
+
 |  | 03/2025 | 04/2025 | 05/2025 | 06/2025 | 07/2025 | 08/2025 | 09/2025 |
 | ----- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Total number of views** | 479k | 557k |  |  |  |  |  |
-| **NOT\_TITLE\_38** (error message) | No Data |  |  |  |  |  |  |
-| **Not NOT\_TITLE\_38** (error message) | No Data |  |  |  |  |  |  |
-| **ERROR Not Confirmed** (error message) | No Data |  |  |  |  |  |  |
+| **Total number of views** | 479k | 557k | 874k  |  |  |  |  |
+|**NOT\_TITLE\_38** (error message - BE) | No Data | No Data | 0.3% |  |  |  |  |
+| **Not NOT\_TITLE\_38** (error message - BE) | No Data | No Data | 2.9% |  |  |  |  |
+|**ERROR Not Confirmed** (error message - BE) | No Data | No Data | 0% |  |  |  |  |
 
 * NOT\_TITLE\_38 error message: This message on the FE states **You're not eligible for a Veteran Status Card**.
 * Not NOT\_TITLE\_38 error message: This  message on the FE states **There's a problem with your discharge status records**.
@@ -39,7 +40,10 @@ Feature went live on 4/22/2025
 
 Additional Notes:
 * The total number of views of the proof of Veteran Status Card is pulled from the [Monthly Mobile Metrics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/analytics/README.md#march-2025).
-* FE metrics is tracked through Firebase (link to come). 
+* BE metrics is tracked through [Datadog](https://vagov.ddog-gov.com/dashboard/ech-i5z-egy/veteran-status-card?fromUser=true&refresh_mode=paused&from_ts=1746075600000&to_ts=1748753999999&live=false)
+* FE metrics is tracked through Firebase (link to come).
+* BE metrics was setup on 5/16/2025 and will show a percentage of users that receive the error message. This data is captured when a Veteran signs into the app.  
+* FE analytics will detail the number of views for each error message and is tracked when a Veteran clicks on the Proof of Status button and the respective error message populates. MFS is **in progress** with setting up Firebase and we expect to have this resolved by the end of June 2025. 
 
 ### Supporting OCTO OKRs:
 
