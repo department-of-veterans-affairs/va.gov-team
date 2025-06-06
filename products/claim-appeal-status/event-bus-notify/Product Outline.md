@@ -59,11 +59,15 @@ Baseline data from MyVA, CST, and call center analytics.
 Empower Veterans with faster, clearer access to their Decision Letters.
 
 **Key Results:**  
+
+> [!NOTE]
+> Exact baseline values and targets for KPIs such as call center inquiries will be determined in collaboration
+> with the product manager and analytics team, based on the most current and reliable data available.
+
 - Achieve XX% email open rates within XX days of launch.  
 - Achieve XX% download conversion rates for notified Veterans.  
 - Reduce call center inquiries about Decision Letters by XX% within three months.  
 - Achieve “Satisfied” or higher Medallia scores for Veterans interacting with these notifications.
-
 
 ## Assumptions
 - BMT can co-create and maintain the notifications platform in collaboration with Event Bus and VA Notify.
@@ -95,9 +99,9 @@ Future iterations will expand the types of notifications (other claim events, ad
 
 | Initiative                                   | Link to Initiative Brief                      |
 |----------------------------------------------|-----------------------------------------------|
-| Event-Driven Notification MVP                | [[Event-Driven Notification Initiative]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/fa4386986f628e08c1a744354de492b07a72e7c9/products/claim-appeal-status/CST%20Product/Event-Driven%20Notifications%20Initiative.md)  |
-| Mobile and Push Notification Expansion       | tbd                                           |
-| Additional Claims Event Notifications        | tbd                                           |
+| Event-Driven Notification MVP                | [Event-Driven Notification Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/fa4386986f628e08c1a744354de492b07a72e7c9/products/claim-appeal-status/CST%20Product/Event-Driven%20Notifications%20Initiative.md)  |
+| Mobile and Push Notification Expansion       | To be determined                              |
+| Additional Claims Event Notifications        | To be determined                              |
 
 
 ## Launch Strategy
@@ -114,8 +118,8 @@ Future iterations will expand the types of notifications (other claim events, ad
 ## Launch Dates
 
 - **Target Launch Date:** June 16, 2025  
-- **Actual Launch Date:** tbd
-- **Impact Review / Evaluation Date:** tbd
+- **Actual Launch Date:** To be set after evaluation on June 16, 2025
+- **Impact Review / Evaluation Date:** Approx. 2-4 weeks after launch date
 
 
 ## Solution Narrative
