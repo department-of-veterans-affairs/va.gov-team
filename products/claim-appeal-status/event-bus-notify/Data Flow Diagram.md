@@ -26,7 +26,7 @@ flowchart TD
     B -- "#2. Parse Event<br />(deserialize JSON)" --> C
     C -- "#3. Validate & Extract Data<br />(e.g., VeteranParticipantId, ClaimTypeCode)" --> D
     D -- "#4. Request Access Token<br />Identifier: VeteranParticipantId" --> I
-    I -- "#5. Access Token" --> D
+    I -- "#5. Access Token containing encrypted VeteranParticipantId" --> D
     D -- "#6. POST /v0/event_bus_gateway/send_email<br />{ template_id }<br />(with Bearer Token)" --> E
     E -- "#7. Validate Access Token" --> J
     J -- "#8. On Success: Enqueue<br />LetterReadyEmailJob" --> F
