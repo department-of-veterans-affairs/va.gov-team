@@ -7,14 +7,21 @@
 
 <details><summary>Archive | How to reproduce in staging</summary>
 
-- 
+- [User needs to add, edit, or remove contact information (addresses, phone numbers, or contact email)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/add-edit-delete-contact-info.md#how-to-reproduce)
 
 </details>
 
 
 ## Current experience
 - For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the user will be directed to the Profile Account Security section. [See LOA1 account documentation.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
-- All information on the page, other than login email, is editable, including: addresses, phone numbers, and contact email.
+- All information on the page, other than login email, is editable, including:
+	- Mailing address
+	- Home address
+	- Home phone
+	- Work phone
+	- Mobile phone
+	- Contact email address
+- Once they’ve added information, they can use the “Remove” button to delete the information on **any section *except* mailing address**.
 
 
 ## Common use cases
@@ -22,7 +29,61 @@
 - [User logs in with an LOA1 account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
 
 ### User logs in with LOA3 account
-- [User needs to add, edit, or remove contact information (addresses, phone numbers, or contact email)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/add-edit-delete-contact-info.md#adding-information)
+<details><summary>Adding information</summary>
+
+- **Use case:** For each section without information on file, i.e. a `null` value, the user will see the name of the section and prompt that tells them they can edit their profile to add [section information]. Clicking the Edit button will put the section into an inline edit mode.
+- **Status code:** None
+- **Content:** See designs
+- **Format:** See designs
+- Links to designs
+   - [Address]
+   - [Phone number]
+   - [Email address]
+
+</details>
+
+
+<details><summary>Editing information</summary>
+
+- **Use case:** Clicking the Edit button will put the section into edit mode and reveal the editable fields inline. If there are input errors they show inline with the input field.
+- **Status code:** None
+- **Content:** See designs
+- **Format:** See designs
+- Links to designs
+   - [Address]
+   - [Phone number]
+   - [Email address]
+
+</details>
+
+
+<details><summary>Saving information</summary>
+
+- **Use case:** Changes are saved once the user presses the Save button. Once the form is successfully saved, the user is returned to Read mode and a slim success alert should display below the section header.
+- **Status code:** None
+- **Content:** See designs
+- **Format:** See designs
+- Links to designs
+   - [Address]
+   - [Phone number]
+   - [Email address]
+
+</details>
+
+
+### Removing information
+- Clicking the remove button will trigger a modal prompting the user to confirm they want to remove their information
+- [Desktop mock-up, remove modal](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0-790&mode=design&t=rqPFqCwnOiocoCbM-11)
+- [Mobile mock-up, remove modal](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0-2&mode=design&t=rqPFqCwnOiocoCbM-11)
+
+### Canceling changes
+* If a user has made changes to any form field, and hits cancel, they’ll first see the field validation message. This is a limitation of the form system.
+* If they hit cancel a second time, or hit cancel before editing any fields they’ll be presented with a modal asking them to confirm they want to leave edit mode.
+* Once they cancel, they’ll be returned to read mode.
+- [Desktop mock-up, cancel modal](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0-1046&mode=design&t=rqPFqCwnOiocoCbM-11)
+- [Mobile mock-up, cancel modal](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=64-7360&mode=design&t=rqPFqCwnOiocoCbM-11)
+
+
 
 
 ## Edge cases
@@ -36,6 +97,9 @@
 ### System
 - [Something has gone wrong and VA.gov can’t display any contact information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/system-cant-display-contact-info.md)
 - [High incidences of address save failures](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Address%20Save%20Failure%20Codes.md)
+- ### Save error: information can’t be saved
+* If we can’t write to the backend for any reason, a generic error message is displayed above the update button. ([Mock-up](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/kavrLvD))
+* If the save continues to fail, the user is returned to read mode with an error displayed in the section they attempted to edit. ([Mock-up](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0-461&mode=design&t=rqPFqCwnOiocoCbM-11))
 
 ---
 
