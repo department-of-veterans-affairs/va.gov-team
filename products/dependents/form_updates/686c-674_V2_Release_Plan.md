@@ -82,7 +82,7 @@ Mitigation: Controlled rollout using `va_dependents_v2`, review of in-progress f
   - No silent failures
   - No increase in `manual_vagov` or error rates relative to baseline
 
-**Stage 1**
+**Stage A**
 - **Audience**: 1% of live traffic
 - **Duration**: Minimum 2 full business days
 - **Advancement Criteria**:
@@ -92,17 +92,17 @@ Mitigation: Controlled rollout using `va_dependents_v2`, review of in-progress f
   - No alerts triggered on 422/500 error charts or overall error rate
   - Downstream confirmation from RBPS (if available)
 
-**Stage 2**
+**Stage B**
 - **Audience**: 25% of live traffic
 - **Duration**: Minimum 2 full business days
 - **Advancement Criteria**: Same as Stage 1
 
-**Stage 3**
+**Stage C**
 - **Audience**: 50% of live traffic
 - **Duration**: Minimum 2 full business days
 - **Advancement Criteria**: Same as Stage 1
 
-**Stage 4 (Full Release)**
+**Stage D (Full Release)**
 - **Audience**: 100% of live traffic
 - **Duration**: Indefinite (V2 becomes default path)
 - **Finalization Criteria**:
