@@ -37,16 +37,23 @@
 
 ### User logs in with LOA3 account
 
-<details><summary>User doesn't have email or mobile phone number on file</summary>
+<details><summary>User doesn't have email or US based mobile phone number on file</summary>
 
 - **Use case:** If a user does not have an email or a US based mobile phone number on file they see a warning alert prompting them to add contact information. [The link directs the user to the edit-as-a-subtask pattern.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/editing-as-a-subtask)
 - **Status code:** TBD
 - **Content:**
 
+Current
 Header: We don’t have your contact information
 To get started managing your notification settings, add an email address or phone number to your profile.
 Link: Add an email address to your profile ›
 Link: Add a mobile number to your profile ›
+
+International phone number
+Header: We don’t have your contact information
+To get started managing your notification settings, add an email address or US based mobile phone number to your profile.
+Link: Add an email address to your profile ›
+Link: Add a US based mobile number to your profile ›
 
 - **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
 - [Link to designs](https://www.figma.com/design/e6JEtrwZCInKk9SjZktx2T/Profile---Notification-Settings?m=auto&node-id=2553-20776&t=9qMroEtWj0VhgZue-1)
