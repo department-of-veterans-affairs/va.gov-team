@@ -19,10 +19,10 @@ flowchart TD
         G["BGS Service<br/>(Fetch Profile for Personalization)"]
         H["VaNotify::Service<br/>(Send Email)"]
     end
-    K(((User's Email)))
+    K(((User's Email))):::external
 
     %% Data flow lines
-    A -- "#1. Kafka Event<br />Contains VeteranParticipantId,<br />ClaimTypeCode, etc." --> B
+    A -- "#1. Kafka Event<br />Contains VeteranParticipantId,<br />ClaimTypeCode, etc.<br />(Authenticated via OAuth/IAM role configuration)" --> B
     B -- "#2. Parse Event<br />(deserialize JSON)" --> C
     C -- "#3. Validate & Extract Data<br />(e.g., VeteranParticipantId, ClaimTypeCode)" --> D
     D -- "#4. Request Access Token<br />Identifier: VeteranParticipantId" --> I
