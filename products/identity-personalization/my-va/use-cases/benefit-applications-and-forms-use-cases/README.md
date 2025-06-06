@@ -56,7 +56,7 @@ You have no benefit application drafts to show.
 
 <details><summary>User has submitted a benefit application and/or form not on LH BI API</summary>
 
-- **Use case:** When a user has submitted a supported application or form not on Lighthouse Benefits Intake API, they will see a card that provide submission information and errors in cases of action is needed. Cards only stay for 60 days then are removed from My VA.
+- **Use case:** When a user has submitted a supported application or form not on Lighthouse Benefits Intake API, they will see a card that provides submission information and errors in cases of action is needed. Cards only stay for 60 days then are removed from My VA.
 - **Status code:** TBD
 - **Content:**
 
@@ -76,7 +76,7 @@ You have no benefit application drafts to show.
 
 <details><summary>User has submitted a benefit application and/or form on LH BI API</summary>
 
-- **Use case:** When a user has submitted a supported application or form on the Lighthouse Benefits Intake API, they will see a card that provide submission information, a downloadable PDF, and errors in cases of action is needed. Cards only stay for 60 days then are removed from My VA.
+- **Use case:** When a user has submitted a supported application or form on the Lighthouse Benefits Intake API, they will see a card that provides submission information, a downloadable PDF, and errors in cases of action is needed. Cards only stay for 60 days then are removed from My VA.
 - **Status code:** TBD
 - **Content:**
 
