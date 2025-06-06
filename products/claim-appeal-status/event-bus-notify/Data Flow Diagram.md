@@ -48,6 +48,7 @@ flowchart TD
   - Receives a JSON message with keys like `VeteranParticipantId`, `ClaimTypeCode`, etc.
 
 - **EventBus Gateway:**  
+  - Securely subscribed to `decision_letter_availability` topic via cross-account IAM roles (LHDI/DSVA) configured to connect to one another.
   - Consumes and parses Kafka events.
   - Extracts key data (`VeteranParticipantId`, `ClaimTypeCode`).
   - Requests an access token using the `VeteranParticipantId` from the Sign-In Service (`vets-api`).
