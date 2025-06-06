@@ -1,4 +1,4 @@
-# My VA: Track claims and appeals use cases
+# My VA: Claims and appeals use cases
 
 **Last updated: May 2025**
 
