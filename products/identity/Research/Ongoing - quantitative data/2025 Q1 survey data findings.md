@@ -9,7 +9,7 @@
 - [Key Data](#key-data-points)
    - [Medallia feedback survey](#medallia-feedback-survey---quantitative)
    - [Medallia intercept survey](#medallia-intercept-survey---quantitative)
-   - [My VA411 calls](#MyVA411-calls) - section to be added
+   - [My VA411 calls](#MyVA411-calls)
    - [Comparisons](#comparisons) - section to be added
 - [Discussion](#discussion) - section to be added
 - [Recommendations](#recommendations)
@@ -65,6 +65,37 @@ We requested survey data for January thru March the Contact Center Team in April
 | Verify                 | 164   | 12.3%       |
 | CSP - ID.me            | 92    | 6.9%        |
 | CSP - Login.gov        | 54    | 4.1%        |
+
+
+### My VA411 calls
+There were 24,823 calls related to authentication from the call center. This includes 6 categories of cases.
+- Identity Verification Issues: 9,523 calls, with Login.gov being the most common issue (64.8% of these calls).
+- Navigation Issues: 5,922 calls, primarily related to Account Sign in (73.9%).
+- Inability to Sign In: 5,670 calls, with two-factor authentication being the main issue (72.2%).
+- Forgot Password: 2,179 calls, with roughly equal issues for ID.me (42.8%) and Login.gov (43.6%). DS Logon had 8.7% of the forgot password calls, while it only had about 5% of total authentications during this time. This likely indicates that more DS Logon users are experiencing issues with passwords.
+- Sign in and Technical Issues: 917 calls, mostly about signing into VA.gov and managing profiles (98.36%).
+- Security Total: 612 calls, primarily about Account Sign in (98.37%).
+
+|      Case Category               | # of Cases |                    Case Type                         | # of Types | % of Type to Category |
+| ------------------------------ | --------: | -------------------------------------------------- | --------: | --------: |
+|   Inability to Sign In           |   5,670    |   Two-factor authentication                          |   4,094    |   72.20%   |
+|                                  |            |   Confirmation email issue                           |   1,193    |   21.04%   |
+|                                  |            |   EVSS Errors                                        |   383      |   6.75%    |
+|   Navigation Issues              |   5,922    |   Account Sign in                                    |   4,375    |   73.88%   |
+|                                  |            |   Identity                                           |   53       |   0.89%    |
+|   Forgot Password                |   2,179    |   ID.me                                              |   932      |   42.77%   |
+|                                  |            |   Login.gov                                          |   951      |   43.64%   |
+|                                  |            |   DS Logon                                           |   189      |   8.7%     |
+|                                  |            |   My HealtheVet                                      |   107      |   4.91%    |
+|   Identity Verification Issues   |   9,523    |   ID.me                                              |   3,024    |   31.75%   |
+|                                  |            |   Login.gov                                          |   6,170    |   64.79%   |
+|                                  |            |   DS Logon                                           |   171      |   1.80%    |
+|                                  |            |   My HealtheVet                                      |   158      |   1.66%    |
+|   Sign in and Technical Issues   |   917      |   Signing in to VA.gov and managing VA.gov profile   |   902      |   98.36%   |
+|                                  |            |   Technical issues on VA.gov                         |   14       |   1.53%    |
+|                                  |            |   No Case Type Provided                              |   1        |   0.11%    |
+|   Security Total                 |   612      |   Account Sign in                                    |   602      |   98.37%   |
+|   **Total**                      | **24,823** |                                                      | **23,319** |            |
 
 ### Comparisons
 
