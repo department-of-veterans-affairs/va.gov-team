@@ -1,4 +1,4 @@
-
+F
 # USWDS AEDP Final Presentation Meeting
 
 ### Date: June 5, 2025
@@ -22,7 +22,7 @@
 
 _(Note from Fran: The notes below are not verbatim. They have been edited to improve readability, and ellipses added where it seems that text is missing.)_
 
-**Fran**: Opening statements… I've been privileged to come on at the end to work with them. And they're a great team, so I'm looking forward to them showing you what they've done here. And for the team here [Slide 3, Our Team], I want to point out honorable mentions at the bottom. Lynn, who was a rock star product manager on the team and then Adam Whitlock, same rock star lead engineer. We have Alex coming in, who is also excellent at what he does and the rest of the team who is still here, also excellent. And I'm pinch hitting and to get them to the end until the contract ends. And then I think that you folks have probably seen this before [Slide 4, Our Mission] The mission is creating 4 to 8 reusable patterns and components for personalized, authenticated experiences, making it as easy as possible to implement across products and teams and creating documentation for personalization patterns ready for integration into both the VA design system and the US web design system. I won’t go through the info right under this. Thank you, Christine.
+**Fran**: Opening statements… I've been privileged to come on at the end to work with them. And they're a great team, so I'm looking forward to them showing you what they've done here. And for the team here [Slide 3, Our Team], I want to point out honorable mentions at the bottom. Lynn, who was a rock star product manager on the team and then Adam Whitlock, same rock star lead engineer. We have Alex coming in, who is also excellent at what he does and the rest of the team who is still here, also excellent. And I'm pinch hitting and to get them to the end until the contract ends. And then I think that you folks have probably seen this before [ 4, Our Mission] The mission is creating 4 to 8 reusable patterns and components for personalized, authenticated experiences, making it as easy as possible to implement across products and teams and creating documentation for personalization patterns ready for integration into both the VA design system and the US web design system. I won’t go through the info right under this. Thank you, Christine.
 
 
 **Christine**: OK, great. So thank you so much for setting us up, Fran, so, for our last pattern for this contract, we took a look at the question of marital status and how the VA asks that question and sort of related questions that are dependent on the answer to that across different forms. We saw it used in a lot of different ways and we saw feedback that users are not always clear on why the VA needs this information.
