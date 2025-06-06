@@ -28,10 +28,10 @@
 - [Issue 110472](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110472)
 
 ### Regression Test Plan
-- 
+- https://dsvavsp.testrail.io/index.php?/plans/view/6832
   
 ### Test Plan
-- 
+- https://dsvavsp.testrail.io/index.php?/plans/view/6833
 
 ### Coverage for References
 - 
