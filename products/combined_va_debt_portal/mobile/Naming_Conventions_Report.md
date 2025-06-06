@@ -118,22 +118,25 @@ Credit Unions
 * University Credit Union
 
 Insurance
-* **Property & Casualty (Multi-line Insurers)**
+* Property & Casualty (Multi-line Insurers)
     * Allstate
     * Farmers Insurance
     * Falcon Insurance
     * Liberty Mutual
     * Nationwide Insurance
     * State Farm
-* **Life & Financial Services**
+* Life & Financial Services
     * MassMutual
     * New York Life Insurance
 
 Investment & Brokerage
 * Fidelity Investments
+* Charles Schwab
+* Vanguard
 
 Fintech & Payments
 * PayPal
+* Venmo
 
 Utilities / Energy
 * ComEd
@@ -143,6 +146,7 @@ Utilities / Energy
 
 Government
 * IRS (Internal Revenue Service)
+* Maryland Unemployment
 
 </details>
 
