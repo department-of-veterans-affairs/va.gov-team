@@ -8,6 +8,8 @@
 <details><summary>Archive | How to reproduce in staging</summary>
 
 - [See user list in the sensitive repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/notification_settings/default-send/qa-default-send.md)
+- [User has no contact info on file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/use-cases/user-missing-contact-info.md#how-to-reproduce)
+- 
 
 </details>
 
@@ -34,13 +36,30 @@
 - [User logs in with an LOA1 account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
 
 ### User logs in with LOA3 account
-#### User has contact info on file for existing notification channels
+
+<details><summary>User doesn't have email or mobile phone number on file</summary>
+
+- **Use case:** If a user does not have an email or a US based mobile phone number on file they see a warning alert prompting them to add contact information. [The link directs the user to the edit-as-a-subtask pattern.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/editing-as-a-subtask)
+- **Status code:** TBD
+- **Content:**
+
+Header: We don’t have your contact information
+To get started managing your notification settings, add an email address or phone number to your profile.
+Link: Add an email address to your profile ›
+Link: Add a mobile number to your profile ›
+
+- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
+- [Link to designs](https://www.figma.com/design/e6JEtrwZCInKk9SjZktx2T/Profile---Notification-Settings?m=auto&node-id=2553-20776&t=9qMroEtWj0VhgZue-1)
+- [Link to code]
+
+</details>
+
 - [User needs to update setting for one or more notifications](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/use-cases/update-settings.md)
 
-#### User has partial or missing contact information
 - [User has partial contact info (email OR phone number)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/use-cases/user-partial-contact-info.md)
 	- This is only valid once we have multiple notification channels (e.g. text and email)
-- [User doesn’t have contact info on file for any existing notification channels](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/use-cases/user-missing-contact-info.md)
+- ADD edit as a subtask flow to page
+- ADD international phone number on file to use cases
 
 ## Edge cases
 ### Flags 
