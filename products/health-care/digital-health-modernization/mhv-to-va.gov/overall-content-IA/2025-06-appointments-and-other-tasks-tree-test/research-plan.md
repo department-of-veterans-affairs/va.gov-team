@@ -4,7 +4,11 @@
 	
 `What problem is your product trying to solve?`
 
-Questions have arisen with regards to where to put appointment tasks that are not solely health appointments. There are ongoing questions about where to put other tasks in the sitewide IA. We grouped these questions together into one tree test so as to only recruit once for multiple questions. 
+Questions have arisen with regards to where to put information and tasks about non-health appointments on VA.gov. This study will specifically target transitioning service-members who are exiting or have recently exited the military and may start up with the VA through a program called "Solid Start." Through this program, transitioning service-members can schedule an apointment with a representative that connects them with services and gets them started with benefits. 
+
+We'd like to evaluate the best placement for information about this program and related appointment scheduling by running a tree-test with a statistically significant sample of the population this affects (estimated to be roughly 58,000 people based on activity in the service-member hub during May 2025). Caregivers and family members will be evaluated in a follow-on tree-test (traffic to that section of the site during May 2025 was 432k). Estimated number of Veterans who transition to civilian life each year is 200,000 ([source](https://discover.va.gov/transition-programs/transition-assistance-program/)). 
+
+We hope that information from this study can also inform broader questions around where to put non-health appointment information on VA.gov for disability compensation (C&P exams) and for caregivers and family members as well. 
   
 `Where is your product situated on VA.gov? (ex: auth vs. unauth)`
 
@@ -12,7 +16,7 @@ Auth.
   
 `What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?`
 
-Varies by product. 
+Varies by product. The Solid Start program was created in December 2019, but is not integrated into VA.gov at this time. We are evaluating where to put this information in hopes to add it soon.
 
 `Product Brief`
 
@@ -45,7 +49,7 @@ Are there moments that matter?
 
 `1.` **Where should non-health appointments live on VA.gov?**
 
-`2.` **Questions related to other tasks, once finalized.**
+`2.` **Where will transtioning service-members look for information about the Solid Start program on VA.gov?**
 
 `3.` **[Enter answer here]** 
   
@@ -54,13 +58,13 @@ Are there moments that matter?
 
 ---
 
-**Veterans will be able to more easily find specific resources, tools, or services on VA.gov** 
+**Transitioning service-members will be able to more easily find specific resources, tools, or services on VA.gov; and specifically information about the Solid Start program.** 
 
 ---
 
 ### Research questions
 
-**`1.`Where should VA.gov surface scheduliing for claims exams, as well as for viewing or managing said appointment?**
+**`1.`Where should VA.gov surface scheduling for claims exams, as well as for viewing or managing said appointment?**
 
 **`2.`Where should VA.gov surface appointments, including managing and viewing said appointments, for Veterans in their first year out of service scheduling with Solid Start?**
 
