@@ -4,12 +4,13 @@
 
 With the release of Simple, Mileage-only Claims, we have enabled travel reimbursement support for the most common claim type. However, BTSSS supports several additional, less common expense types that must also be accommodated by VA.gov. These expense types are:
 
-1. Lodging
-2. Flight
-3. Common Carrier
-4. Meal
-5. Toll
-6. Parking
+- Mileage
+- AirTravel
+- CommonCarrier
+- Lodging
+- Meal
+- Toll
+- Parking
 
 **Requirements**
 
@@ -23,15 +24,16 @@ With the release of Simple, Mileage-only Claims, we have enabled travel reimburs
 - Address lifecycle management for expenses, including validation, editing, and removal before claim submission.
 
 ### Intent
-_what is the purpose? why are they used? How do clerks use them? etc._
+
+The purpose of Travel Pay Expenses is to associate costs incurred by the Veteran doing VA-related activities with their reimbursement claim.
 
 ### Association
-_What other pieces of travel pay are linked to expenses? etc._
+
+For our purposes, the only noteworthy relationship of expenses are travel claims.
 
 ### Operation
-_How are they attached to a claim? What can go wrong? etc._
+
+Expenses are attached to claims using the `/api/v2/expenses/{type}` BTSSS endpoint, with the type mapping to those listed above. Per BTSSS API documentation, expenses can be added to claims that have not been submitted for processing, or are in an On Hold status.
 
 ## Links
-- links
-- go
-- here
+- [BTSSS API Expense endpoint Swagger documentation](https://github.com/department-of-veterans-affairs/btsss-beneficiary-travel-api/blob/master/lighthouse-docs/travel-pay-api-swagger-v2.yml#L1684)
