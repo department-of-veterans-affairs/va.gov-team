@@ -19,13 +19,10 @@
 
 </details>
 
+
 ## Current experience
 - For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the user will be directed to the Profile Account Security section. [See LOA1 account documentation.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
-- This page shows dyanmic Bank account information, which allows the user to update their direct deposit information.
-- All other information is read only, and includes:
-   - How to update your direct deposit information for Montgomery GI Bill
-   - What if I think I’ve been the victim of bank fraud?
-   - VA payment history
+- This page shows dyanmic Bank account information, which allows the user to update their direct deposit information. All other information this page is read only.
 
 
 ## Common use cases
