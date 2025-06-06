@@ -91,7 +91,7 @@ There are no flags with this feature.
 
 ### Errors
 
-<details><summary>System down</summary>
+<details><summary>Backend system down</summary>
 
 - **Use case:** Cannot connect to the back end.
 - **Status code:** TBD
