@@ -1,8 +1,8 @@
 # Profile use case documentation
 
-**Last updated: February 21, 2023**
+**Last updated: June 2025**
 
-There are seven products currently living in the profile. These links go to the most recent use case documentation for each product:
+These links go to the most recent use case documentation for each product in VA.gov Profile:
 
 - [Personal information use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/personal-information/use-cases#readme)
 - [Contact information use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information/use-cases#readme)
