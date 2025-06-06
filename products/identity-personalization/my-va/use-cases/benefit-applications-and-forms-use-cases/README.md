@@ -17,10 +17,11 @@
 
 ## Phase 1, 3.0 experience
 - LOA1 and LOA3 (identify verified) users can see all use cases.
-- This feature shows a card for any benefit applications or forms that a user has started or completed. TBD on how many are shown or how we break this up per other conversations.
-  - Conditions in [Platform documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-set-up-save-in-progress-si#VAFormsLibrary-HowtosetupSaveInProgress(SiP)-MyVAPage) for saving forms in progress and changes in User Profile code must be met in order for a form that is saved to show up in this section of My VA.
-  - Completed forms submitted through the Lighthouse Benefits Intake API will have a downloadable PDF on My VA, provided the PDF is available in S3. My VA does not generate PDFs, so if the file isn't stored in S3, it won't be shown.
-  - Completed forms and PDFs only show for 60 days, at which point they disappear from My VA.
+- This feature shows a card for any benefit applications or forms that a user has started or completed.
+   - Conditions in [Platform documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-set-up-save-in-progress-si#VAFormsLibrary-HowtosetupSaveInProgress(SiP)-MyVAPage) for saving forms in progress and changes in User Profile code must be met in order for a form that is saved to show up in this section of My VA.
+   - **Forms and applications submitted through the Lighthouse Benefits Intake API (LH BI API)** will have a downloadable PDF on My VA, provided the PDF is available in S3. My VA does not generate PDFs, so if the file isn't stored in S3, it won't be shown.
+      - Forms and applications **NOT** submitted through the LH BI API will not have a PDF shown.
+   - Completed forms and PDFs only show for 60 days, at which point they disappear from My VA.
 - An accordion component with information pertaining to tracking benefit applications and forms statuses is always visible at the bottom of this section unless an error is preventing the displaying of forms.
 
 
