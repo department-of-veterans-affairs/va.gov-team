@@ -33,7 +33,7 @@ For our purposes, the only noteworthy relationship of expenses are travel claims
 
 ### Operation
 
-Expenses are attached to claims using the `/api/v2/expenses/{type}` BTSSS endpoint, with the type mapping to those listed above. Per BTSSS API documentation, expenses can be added to claims that have not been submitted for processing, or are in an On Hold status.
+We expect that expenses will be attached to claims using the `POST /api/v2/expenses/{type}` BTSSS API endpoint, with the type mapping to those listed above. Per BTSSS API documentation, expenses can be added to claims that have not been submitted for processing, or are in an On Hold status. The endpoint is provided a `claimId` and any pertinent information required for the expense type.
 
 ## Links
 - [BTSSS API Expense endpoint Swagger documentation](https://github.com/department-of-veterans-affairs/btsss-beneficiary-travel-api/blob/master/lighthouse-docs/travel-pay-api-swagger-v2.yml#L1684)
