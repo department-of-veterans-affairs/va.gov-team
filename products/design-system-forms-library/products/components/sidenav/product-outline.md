@@ -83,11 +83,12 @@ A user navigating through their profile will experience a cleaner layout, with f
 	- Research / Discovery
 	- Design phase 1 
 - Sprint 5 (June 09 - 22) 
-	- Design phase 2  
+	- Design phase 1 continued  
 	- Web component development
 - Sprint 6 (June 23 - July 06)
 	- Accessibility review
-	- Documentation 
+	- Documentation
+        - Design phase 2
 - Sprint 7 (July 07 - 20) - if needed
         - Fix accessibility issues
 - Staging review scheduled 
