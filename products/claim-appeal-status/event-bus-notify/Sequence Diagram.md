@@ -1,4 +1,4 @@
-# Decision Letter Notifications Sequence Diagram
+# Decision Letter Email Notifications Sequence Diagram
 
 ```mermaid
 sequenceDiagram
