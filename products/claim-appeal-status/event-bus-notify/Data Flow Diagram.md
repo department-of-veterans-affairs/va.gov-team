@@ -19,6 +19,7 @@ flowchart TD
         G["BGS Service<br/>(Fetch Profile for Personalization)"]
         H["VaNotify::Service<br/>(Send Email)"]
     end
+    K(((User's Email)))
 
     %% Data flow lines
     A -- "#1. Kafka Event<br />Contains VeteranParticipantId,<br />ClaimTypeCode, etc." --> B
@@ -33,6 +34,7 @@ flowchart TD
     F -- "#10. Look up Profile<br />via BGS Service" --> G
     F -- "#11. Send Email via VaNotify" --> H
     G -- "Profile Information" --> F
+    H -- "#12. User email client receives email<br />(including first name,<br />link to claim letters download page)" --> K
 
     %% Styling
     classDef external color:#000,fill:#9cf,stroke:#333,stroke-width:2px
@@ -49,6 +51,7 @@ flowchart TD
 
 - **EventBus Gateway:**  
   - Securely subscribed to `decision_letter_availability` topic via cross-account IAM roles (LHDI/DSVA) configured to connect to one another.
+    Scope of access in Kafka is restricted to the relevant topic.
   - Consumes and parses Kafka events.
   - Extracts key data (`VeteranParticipantId`, `ClaimTypeCode`).
   - Requests an access token using the `VeteranParticipantId` from the Sign-In Service (`vets-api`).
@@ -58,9 +61,11 @@ flowchart TD
   - `/v0/event_bus_gateway/send_email` controller validates the access token.
   - If valid, enqueues a Sidekiq job (`LetterReadyEmailJob`).
   - The token is **not** stored anywhere for later use.
+  - If token validation fails, responds with 401 Unauthorized.
   - The job fetches additional info (first name) from BGS using `participant_id`.
   - Sends an email through VaNotify, using the resolved name and template provided by the gateway.
-  - If token validation fails, responds with 401 Unauthorized.
+  - The email contains a link to the Claim Letters Page, but no automatic login is included in the link
+    (the user must authenticate when they access the page, as normal).
 
 ---
 
