@@ -4,9 +4,12 @@
 	
 `What problem is your product trying to solve?`
 
-Questions have arisen around where to put information and tasks about non-health appointments on VA.gov. This study will specifically target transitioning service-members who are exiting or have recently exited the military and may start up with the VA through a program called "Solid Start." Through this program, transitioning service-members can schedule an apointment with a representative that connects them with services and gets them started with benefits. 
+Questions have arisen around where to put non-health information and tasks (including appointments) on VA.gov. This study will specifically target transitioning service-members who are exiting or have recently exited the military and may need to access several things that don't have obvious placement on VA.gov: 
+* Finding information about a program called "Solid Start" and scheduling appointments with representatives who can connect them wtih services and benefits.
+* Scheduling C&P exams for disability compensation & pension
+* Accessing denial letters if denied community care appointments 
 
-We'd like to evaluate the best placement for information about this program and related appointment scheduling by running a tree-test with a statistically significant sample of the population this affects (estimated to be roughly 58,000 people based on activity in the service-member hub during May 2025). Caregivers and family members will be evaluated in a follow-on tree-test (traffic to that section of the site during May 2025 was 432k). Estimated number of Veterans who transition to civilian life each year is 200,000 ([source](https://discover.va.gov/transition-programs/transition-assistance-program/)). 
+We'd like to evaluate the best placement for these tasks by running a tree-test with a statistically significant sample of the population this affects (estimated to be roughly 58,000 people based on activity in the service-member hub during May 2025). Estimated number of Veterans who transition to civilian life each year is 200,000 ([source](https://discover.va.gov/transition-programs/transition-assistance-program/)). 
 
 We hope that information from this study can also inform broader questions around where to put non-health appointment information on VA.gov for disability compensation (C&P exams) and for caregivers and family members as well. 
   
