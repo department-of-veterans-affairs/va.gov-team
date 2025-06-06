@@ -19,6 +19,8 @@ F
 - Clickable [Figma prototype](https://www.figma.com/proto/Ie3VE755qGlK7ONjKGQpNd/AE-Design-Patterns---Marital-Status?page-id=1%3A128&node-id=213-30444&p=f&viewport=67%2C1598%2C0.08&t=4BGyi4jwO9ERPEmP-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=213%3A30444)
 - Figma [design file](https://www.figma.com/design/Ie3VE755qGlK7ONjKGQpNd/AE-Design-Patterns---Marital-Status?node-id=1013-62957&t=4hhwEOCtjvrVRuqU-0)
 - [Proposal for “Ask users for…Marital status](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Patterns/marital-status/VADS%20documentation%20for%20marital%20status%20pattern.md)
+- [Meeting slides](https://dvagov.sharepoint.com/:p:/r/sites/TMFAuthenticatedExperienceDesignPatterns/Shared%20Documents/General/USWDS%20slides/AEDP%20USWDS%20Meeting%20-%20Marital%20Status.pptx?d=wda504c72170948faa98b0739b61679c0&csf=1&web=1&e=s9jZ8d)
+  _- Unfortunately, we're unable to share the link to the slides outside of the VA organization. I'm happy to email if anyone would like to see them._
 
 _(Note from Fran: The notes below are not verbatim. They have been edited to improve readability, and ellipses added where it seems that text is missing.)_
 
