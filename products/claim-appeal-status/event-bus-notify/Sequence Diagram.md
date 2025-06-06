@@ -1,3 +1,5 @@
+# Decision Letter Notifications Sequence Diagram
+
 ```mermaid
 sequenceDiagram
     participant Event Bus as Event Bus/<br /> Kafka
@@ -10,9 +12,11 @@ sequenceDiagram
     actor User's Email
 
     Event Bus ->> Eventbus Gateway: decision letter availability event
+    Note left of Eventbus Gateway: Authenticated via restricted<br />IAM roles (cross-account)
     activate Eventbus Gateway
     Eventbus Gateway ->> Eventbus Gateway: filters for disability claim letters
     Eventbus Gateway ->>+ Sign In Service: request /v0/sign_in/token<br />using PID
+    Note right of Eventbus Gateway: Secure communication established via TLS<br />certificates (provided by identity team)
     break when request parameters are invalid or malformed
         Sign In Service -->> Eventbus Gateway: returns 400
     end
@@ -44,3 +48,8 @@ sequenceDiagram
         deactivate Sidekiq
     end
 ```
+
+## Notes
+
+- All communication between the Eventbus Gateway and Kafka is secured through IAM roles connected across AWS accounts, since LHDI is hosted in a separate environment from vets-api and the Eventbus Gateway.
+- The `event_bus_gateway_controller` in `vets-api` inherits from `ServiceAccountApplicationController` and leverages that to check the validity of the token before any action is executed.
