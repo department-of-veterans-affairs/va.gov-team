@@ -58,7 +58,7 @@
 
 | Product KPI | Baseline | Target | Post-Launch 1 week |Post-Launch 1 month|
 |------------- |---------|-------|-------------- |------------- |
-|Print/save application button |NEW | 4k monthly (25% of avg submissions) |1,520 (27% of 5,644 submissions)|5,940 (27% of 21,810 submissions)|
+|Print/save application downloads |NEW | 4k monthly (25% of avg submissions) |1,520 (27% of 5,644 submissions)|5,940 (27% of 21,810 submissions)|
 |Errors when print/save|NEW | 0 errors |0 errors|0 errors|
 ---
 
@@ -107,7 +107,7 @@
      - Timeline for triage and solution implementation will be fast-tracked to complete within 1-3 days.
 - Main POCs:
      - Heather Justice (heather.justice@adhocteam.us) - Product Manager
-     - Brandon Cooper (brandon.cooper@adhocteam.us) - Engineering lead
+     - Brandon Cooper (brandon.cooper@adhocteam.us) - Engineering
      - Patrick Bateman (patrick.bateman@adhocteam.us) - Product Owner
 - 
 ### Timeline 
