@@ -20,7 +20,7 @@
 ## Current experience
 - For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the user will be directed to the Profile Account Security section. [See LOA1 account documentation.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
 - This page allows users to opt in and out of text and email notifications on the VA.gov Profile.
-   - The page is supported by VA Profile, VEText, and VA Notifiy. If you need to set up new integrations please speak to the respective teams. These use cases are ONLY for VA.gov Profile experience.
+   - The page is supported by VA Profile, VEText, and VA Notifiy. If you need to set up new integrations please speak to the respective teams. These use cases are ONLY for the VA.gov Profile experience.
 - Text notifications require a US based phone number to send.
 - [Link to current notification settings options.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences#currently-we-support-the-following-notifications)
  
@@ -32,11 +32,11 @@
 
 <details><summary>User doesn't have email or US based mobile phone number on file</summary>
 
-- **Use case:** If a user does not have an email or a US based mobile phone number on file they see a warning alert prompting them to add contact information. [The link directs the user to the edit-as-a-subtask pattern.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/editing-as-a-subtask)
+- **Use case:** If a user does not have an email or a US based mobile phone number on file they see a warning alert prompting them to add contact information. The link directs the user to the edit-as-a-subtask pattern.
 - **Status code:** TBD
 - **Content:**
 
-Current
+**Current**
 
 Header: We don’t have your contact information
 
@@ -48,7 +48,7 @@ Link: Add a mobile number to your profile ›
 
 
 
-International phone number
+**International phone number**
 
 Header: We don’t have your contact information
 
@@ -67,7 +67,7 @@ Link: Add a US based mobile number to your profile ›
 
 <details><summary>User has incomplete contact information on file</summary>
 
-- **Use case:** If a user has a missing email or phone number, we show:
+- **Use case:** If a user has a missing email or mobile phone number, we show:
    - The information on file with a link to edit, which prompts the edit-as-a-subtask flow.
    - A link prompting the user to add the missing information, which prompts the edit-as-a-subtask flow.
    - Notifications related to the missing information are hidden, and instead, the user sees an [expandable alert](https://design.va.gov/components/alert/alert-expandable/#default-informational) explaining which notifications are not visible.
@@ -102,7 +102,7 @@ Link: Add a US based mobile number to your profile ›
 - **Use case:** The form is an auto-save form, so it doesn’t have an update or cancel button. An alert appears under the section header in cases of success or errors, depending on the outcome of the data. A loading indicator displays while the setting is updated.
 - **Status code:** TBD
 - **Content:** See designs
-- **Format:** See designs
+- **Format:** [Slim alert component](https://design.va.gov/components/alert/#examples---slim-alert)
 - Links to designs
    - [Save success](https://www.figma.com/design/e6JEtrwZCInKk9SjZktx2T/Profile---Notification-Settings?m=auto&node-id=2526-20116&t=4wWGU4X6ceXpQzN5-1)
    - [Save error](https://www.figma.com/design/e6JEtrwZCInKk9SjZktx2T/Profile---Notification-Settings?m=auto&node-id=2526-21899&t=4wWGU4X6ceXpQzN5-1)
@@ -111,9 +111,9 @@ Link: Add a US based mobile number to your profile ›
 </details>
 
 
-<details><summary>User edits contact informatoin from Notification settings page</summary>
+<details><summary>Edit-as-a-subtask flow</summary>
 
-- **Use case:** If a user edits their email or mobile phone number from the Notification settings page, they will launch the edit-as-a-subtask flow. The flow is a single question flow that updates their contact information then directs the user back to the page.
+- **Use case:** If a user edits their email or mobile phone number from the Notification settings page, they will launch the edit-as-a-subtask flow. The flow is a single question flow that updates their contact information then directs the user back to the page. [Link to product documentation.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/editing-as-a-subtask)
 - **Status code:** TBD
 - **Content:** See designs
 - **Format:** See designs
