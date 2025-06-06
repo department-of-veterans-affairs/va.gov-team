@@ -11,6 +11,8 @@
 - [User has no contact info on file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/use-cases/user-missing-contact-info.md#how-to-reproduce)
 - [User has incomplete contact information on file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/use-cases/user-partial-contact-info.md#how-to-reproduce)
 - [User wants to update notification settings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/use-cases/update-settings.md#how-to-reproduce)
+- [Feature flags, documented in the FE documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/frontend/feature-flags.md)
+- [VA.gov can’t display any notification settings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/use-cases/system-cant-display-notification-settings.md#how-to-reproduce)
 
 </details>
 
@@ -122,20 +124,29 @@ Link: Add a US based mobile number to your profile ›
 
 
 ## Edge cases
-### Flags 
-There are no flags associated with this feature.
-
 ### Validation
 This feature has no validation use cases.
 
-### System
-- [Something has gone wrong and VA.gov can’t display any notification settings](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/use-cases/use-cases/system-cant-display-notification-settings.md)
+### Flags 
+There are no flags with this feature.
 
-## Flow diagrams
-- [High-level user flow](https://www.figma.com/file/e6JEtrwZCInKk9SjZktx2T/Profile---Notification-Settings?type=design&node-id=1%3A12888&mode=design&t=beICgF9Ke3eKxb6t-1)
+### Errors
 
-## Feature Flags 
-- [documented in the FE documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/frontend/feature-flags.md)
+<details><summary>Backend system down</summary>
+
+- **Use case:** Cannot connect to the back end.
+- **Status code:** TBD
+- **Content:**
+
+H2: This page isn't available right now
+
+We’re sorry. Something went wrong on our end. Refresh this page or try again later.	
+
+- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
+- [Link to designs](https://www.figma.com/design/e6JEtrwZCInKk9SjZktx2T/Profile---Notification-Settings?m=auto&node-id=2553-20750&t=4wWGU4X6ceXpQzN5-1)
+- [Link to code]
+
+</details>
 
 ---
 
