@@ -4,7 +4,7 @@
 	
 `What problem is your product trying to solve?`
 
-Questions have arisen around where to put non-health information and tasks (including appointments) on VA.gov. This study will specifically target transitioning service-members who are exiting or have recently exited the military and may need to access several things that don't have obvious placement on VA.gov: 
+Questions have arisen around where to put non-health information and tasks (including appointments, letters) on VA.gov. This study will specifically target transitioning service-members who are exiting or have recently exited the military and may need to access several things that don't have obvious placement on VA.gov: 
 * Finding information about a program called "Solid Start" and scheduling appointments with representatives who can connect them wtih services and benefits.
 * Scheduling C&P exams for disability compensation & pension
 * Accessing denial letters if denied community care appointments 
