@@ -1,5 +1,5 @@
 
-	# Research Plan for [Mobile Feature Support, Debt Portal Naming Comparative Analysis, May 2025]
+	# Research Plan and Findings for [Mobile Feature Support, Debt Portal Naming Comparative Analysis, May 2025]
 
 Emily DeWan, UX Researcher | Natasha Huckleberry, UX Designer
 
