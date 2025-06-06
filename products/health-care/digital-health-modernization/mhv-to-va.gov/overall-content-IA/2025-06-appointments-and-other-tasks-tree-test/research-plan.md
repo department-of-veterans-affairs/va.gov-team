@@ -113,11 +113,11 @@ Veterans or caregivers. Intentionally open so recruitment can go faster. Will go
 > Your total number should equal **1.5x** your ideal completed sessions number *(e.g. for 10 ideal completed sessions, request 15 total participants)*
 
 
-- `Veterans:` **[n]**
-- `Caregivers:` **[n]**
-- `Dependents:` **[n]**
-- `Total:` **[n]**
-- `Ideal completed sessions:` **[n]**
+- `Veterans:` **576**
+- `Caregivers:` **0**
+- `Dependents:` **0**
+- `Total:` **0**
+- `Ideal completed sessions:` **384**
 
 ### Primary criteria (must-haves)
 *What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
