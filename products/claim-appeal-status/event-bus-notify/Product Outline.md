@@ -114,8 +114,8 @@ Future iterations will expand the types of notifications (other claim events, ad
 ## Launch Dates
 
 - **Target Launch Date:** June 16, 2025  
-- **Actual Launch Date:** tbd  
-- **Impact Review / Evaluation Date:** tbd  
+- **Actual Launch Date:** tbd
+- **Impact Review / Evaluation Date:** tbd
 
 
 ## Solution Narrative
@@ -129,9 +129,10 @@ Event Bus decision_letter_availability topic is live, MVP development in final p
 - Rely on ClaimantParticipantId matching VeteranParticipantId to ensure Veteran-facing notifications only.
 
 **Screenshots:**  
-_(to be provided in final release plan; placeholders)_  
 - **Before:** No proactive notifications; Veterans wait for mail.  
 - **After:** Veterans receive proactive email updates when Decision Letter is available.
+  ![image](https://github.com/user-attachments/assets/b0a440c9-f704-4511-94f4-1b7480b0a588)
+
 
 **Communications:**  
 - Stakeholder demos planned.  
@@ -161,8 +162,9 @@ _(to be provided in final release plan; placeholders)_
 
 **Links to Dashboards:**  
 - [BMT Eventbus Gateway Monitoring Dashboard (DataDog)](https://vagov.ddog-gov.com/dashboard/diy-2n4-4my)
-- [Event Bus Monitoring Dashboard (Domo)](tbd)  
-- [VA Notify Delivery Dashboard](tbd)  
+- [Event Bus Monitoring Dashboard (DataDog)](https://lighthousedi.ddog-gov.com/dashboard/w2p-h33-46v/event-bus-dashboard)  
+  - Note: this uses a separate DataDog instance than va.gov/eventbus gateway
+- [VA Notify Delivery Dashboard](https://vagov.ddog-gov.com/dashboard/2wv-kht-d5v/va-notify-monitoring?fromUser=false&refresh_mode=sliding&from_ts=1749224712377&to_ts=1749228312377&live=true)  
 
 **Technical Diagrams:**  
 
@@ -171,13 +173,14 @@ _(to be provided in final release plan; placeholders)_
 
 **New Publicly-Exposed Endpoints:**  
 - `https://api.va.gov/v0/event_bus_gateway/send_email`
-    - Authenticated endpoint requiring a service account token.
-    - `eventbus-gateway` application retrieves the token from the Sign-In Service utilizing the received Participant ID as the Veteran identifier
-    - Called by `eventbus-gateway` application; initiates the email job within `vets-api`.
+  - Authenticated endpoint requiring a service account token.
+  - `eventbus-gateway` application retrieves the token from the Sign-In Service utilizing the received Participant ID as the Veteran identifier
+  - Called by `eventbus-gateway` application; initiates the email job within `vets-api`.
 - Uses existing VA Notify functionality for notification delivery.
 
 **New Interactions with Dependent VA Backends:**  
-- Consumes BIP ClaimLifecycleStatusUpdated events via Event Bus.
+- Consumes BIP ClaimLifecycleStatusUpdated events via Kafka
+  - Uses IAM roles within LHDI and DSVA to create secure connection between Kafka and Eventbus Gateway
 - Uses Sign-In Service to authenticate with a service access token
 - Leverages Event Bus and VA Notify infrastructure.  
 
