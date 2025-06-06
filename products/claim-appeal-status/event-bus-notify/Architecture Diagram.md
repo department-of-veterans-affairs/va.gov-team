@@ -16,7 +16,7 @@ flowchart TD
       F["VA Notify (Email Delivery)"]
     end
 
-    H(((User's Email)))
+    H(((User's Email))):::external
 
     %% Flow
     A -- Produces decision_letter_availability Event --> B
