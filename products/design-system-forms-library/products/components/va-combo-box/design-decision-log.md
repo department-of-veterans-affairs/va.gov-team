@@ -33,15 +33,15 @@ However, there are some notable differences between the desktop combo box and th
 
 We will be importing the combo box design **as-is**. The Mobile team’s version is already in production, and making design changes now could be disruptive. However, there are some refinements to consider in future iterations:
 
-1. **Select Component Design**  
-   The select components for desktop and mobile differ. Aligning them would help create a more consistent experience.
+1. **Select Combo Box Component Design**  
+   The select components for combo boxes for desktop and native mobile differ. Aligning them would help create a more consistent experience.
 
-2. **Modal Design**  
-   The mobile combo box uses a modal that looks different from both the web modal and the native mobile modal used elsewhere. Aligning modal styles would improve consistency.
+2. **Modal/Sheet Design for Native Mobile**  
+   The mobile combo box uses a sheet that looks different from both modals used elsewhere in the native app. Aligning these sheet styles would improve consistency.
 
 3. **Text Highlighting Behavior**  
    The combo box on desktop, native mobile, and search input with typeahead all handle text highlighting differently. These behaviors should be unified for a more predictable user experience.
 
 ## Consequences
 
-The VADS is in the early stages of aligning mobile components with the existing system. As we establish initial processes, it’s likely there will be learning curves and potential missteps. Since this combo box is one of the first components to be migrated, we can expect iterations and bugs that will need to be addressed as we refine our integration process.
+The VADS is in the early stages of aligning mobile components with the existing system. As we establish initial processes, it’s likely there will be learning curves and potential missteps moving the components to the VADS. Since this combo box is one of the first components to be migrated, we can expect iterations and bugs that will need to be addressed as we refine our integration process.
