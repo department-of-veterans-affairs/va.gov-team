@@ -1,6 +1,8 @@
 
 	# Research Plan for [Mobile Feature Support, Debt Portal Naming Comparative Analysis, May 2025]
 
+Emily DeWan, UX Researcher | Natasha Huckleberry, UX Designer
+
 ## Background 🏗️
 The current VA mobile app includes the section "Payments", which shows the money VA has paid to the Veteran for compensation and pension benefits. As we expand this section to include money that the Veteran owes to VA—such as overpayment debts and medical copays—we need to ensure that the section’s name accurately reflects this broader scope.
 
@@ -81,3 +83,68 @@ For each product, we will document:
 - Where and how those labels appear in the navigation
 - Scope of services under each label
 - Any explanatory text for each label
+
+
+## Findings 🔍
+
+Our research shows that apps we viewed rarely group incoming and outgoing funds together. Instead, the dominant pattern is to separate features into distinct, task-based sections, such as:
+- paying bills
+- making deposits
+- viewing accounts
+- claims
+
+A few apps group multiple activities, such as:
+- Transact (trade, transfer, deposit, pay bills, open account)
+	- Fidelity Investments
+- Transfer & Pay (transfers, payments & bills, deposits)
+	- US Bank, Truist
+
+
+<details><summary>Analyzed Companies by Industry</summary>
+
+
+Banking & Credit Card Companies
+* American Express
+* Capital One
+* Chase
+* Citi Bank
+* Discover
+* SoFi
+* Truist
+* US Bank
+
+Credit Unions
+* Campus USA Credit Union
+* University Credit Union
+
+Insurance
+* **Property & Casualty (Multi-line Insurers)**
+    * Allstate
+    * Farmers Insurance
+    * Falcon Insurance
+    * Liberty Mutual
+    * Nationwide Insurance
+    * State Farm
+* **Life & Financial Services**
+    * MassMutual
+    * New York Life Insurance
+
+Investment & Brokerage
+* Fidelity Investments
+
+Fintech & Payments
+* PayPal
+
+Utilities / Energy
+* ComEd
+* ConEdison
+* Entergy
+* Florida Power and Light
+
+Government
+* IRS (Internal Revenue Service)
+
+</details>
+
+
+[Mural board with screenshots](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1748546168968/1be02b79d12c83e35c4e7068afe9851d643bbc11?sender=u456b54784628aa29fbf80697)
