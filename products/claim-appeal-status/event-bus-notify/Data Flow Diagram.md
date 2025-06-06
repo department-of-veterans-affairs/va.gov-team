@@ -57,6 +57,7 @@ flowchart TD
   - Requests an access token using the `VeteranParticipantId` from the Sign-In Service (`vets-api`).
   - Calls the `/v0/event_bus_gateway/send_email` endpoint in `vets-api` with the access token (`participant_id` encrypted within the token),
     sending the `template_id` for use with this notification.
+  - All data being handled is read-only.
 
 - **vets-api:**
   - `/v0/event_bus_gateway/send_email` controller validates the access token.
@@ -67,6 +68,8 @@ flowchart TD
   - Sends an email through VaNotify, using the resolved name and template provided by the gateway.
   - The email contains a link to the Claim Letters Page, but no automatic login is included in the link
     (the user must authenticate when they access the page, as normal).
+  - Data being handled is read-only; Sidekiq writes some portion of it to the queue for use with VA Notify.  No Veteran information is updated
+    or changed as part of this process.
 
 ---
 
