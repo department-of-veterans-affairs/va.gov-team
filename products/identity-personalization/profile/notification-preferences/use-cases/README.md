@@ -74,9 +74,9 @@ Link: Add a US based mobile number to your profile ›
 
 <details><summary>User has incomplete contact information on file</summary>
 
-- **Use case:** If a user has missing email or phone number information, we show:
-   - The information on file with a link to edit. Which prompts the edit-as-a-subtask flow.
-   - A link prompting the user to add the missing information. Which prompts the edit-as-a-subtask flow.
+- **Use case:** If a user has a missing email or phone number, we show:
+   - The information on file with a link to edit, which prompts the edit-as-a-subtask flow.
+   - A link prompting the user to add the missing information, which prompts the edit-as-a-subtask flow.
    - Notifications related to the missing information are hidden, and instead, the user sees an [expandable alert](https://design.va.gov/components/alert/alert-expandable/#default-informational) explaining which notifications are not visible.
 - **Status code:** TBD
 - **Content:** See designs
