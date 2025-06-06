@@ -9,7 +9,7 @@
 - [Key Data](#key-data-points)
    - [Medallia feedback survey](#medallia-feedback-survey---quantitative)
    - [Medallia intercept survey](#medallia-intercept-survey---quantitative)
-   - [My VA411 call data](#MyVA-A411-call-data)
+   - [My VA411 call data](#MyVA411-call-data)
    - [Comparisons](#comparisons) - section to be added
 - [Discussion](#discussion) - section to be added
 - [Recommendations](#recommendations)
@@ -67,7 +67,7 @@ We requested survey data for January thru March the Contact Center Team in April
 | CSP - Login.gov        | 54    | 4.1%        |
 
 
-### My VA411 call data
+### MyVA411 call data
 There were 24,823 calls related to authentication from the call center. This includes 6 categories of cases.
 - Identity Verification Issues: 9,523 calls, with Login.gov being the most common issue (64.8% of these calls).
 - Navigation Issues: 5,922 calls, primarily related to Account Sign in (73.9%).
