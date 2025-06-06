@@ -160,7 +160,7 @@ _(to be provided in final release plan; placeholders)_
   - Cory Sohrakoff (Engineering)
 
 **Links to Dashboards:**  
-- [CST Monitoring Dashboard (Domo)](tbd)  
+- [BMT Eventbus Gateway Monitoring Dashboard (DataDog)](https://vagov.ddog-gov.com/dashboard/diy-2n4-4my)
 - [Event Bus Monitoring Dashboard (Domo)](tbd)  
 - [VA Notify Delivery Dashboard](tbd)  
 
