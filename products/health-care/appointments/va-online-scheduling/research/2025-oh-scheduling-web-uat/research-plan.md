@@ -1,32 +1,32 @@
-# Research Plan for General UAT, Appointments team, 01/2025 
+# Research Plan for Oracle Health Scheduling UAT and Interviews, Appointments team, 06/2025 
 
 
 Background
 ----------
 
-VA Online Scheduling allows Veterans who are logged into VA.gov to schedule and manage their appointments.
+The goal of the MHV appointments tool is to allow Veterans who are logged into VA.gov to schedule and manage their health care appointments, no matter which health care system they are in. The appointments teams are working to integrate health care appointment functionality from [facilities that use Oracle Health EHRM systems](https://digital.va.gov/ehr-modernization/ehr-deployment-schedule/).
 
-The appointments team has redesigned appointment details pages for all appointment types. This includes Upcoming, past, canceled and requests.  
+Currently the appointment tool can display these appointments. This effort will test functionality being built that will allow Veterans to schedule appointments into the Oracle Health EHRM.
 
-Also see [Product's initiative brief.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/appointment-details-redesign/appointment-details-redesign-initiative-brief.md)
+This functionality has been previously tested and run through the Collab Cycle. This will test the live functionality with actual user data.
+
+Also see [Product's initiative brief.]() [Link TBA]
 
 
 ### OCTO Objectives
 
 This research supports the following [OCTO objectives](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/strategy#readme):
 
-* Veterans and their families can find a single, authoritative source of information
+- Veterans and their families can find a single, authoritative source of information
+- Logged-in users have a personalized experience, with relevant and time-saving features
 
-* Logged-in users have a personalized experience, with relevant and time-saving features
+**Increase 📈**
 
-Increase 📈
+- Veteran satisfaction with VA.gov: by providing an appointments list that meets Veteran expectations and needs.
 
-* Veteran satisfaction with VA.gov: by providing an appointments list that meets Veteran expectations and needs.
+**Decrease 📉**
 
-Decrease 📉
-
-
-* Call center volume, wait time, and time to resolution: by providing the right information about appointments when Veterans need it
+- Call center volume, wait time, and time to resolution: by providing the right information about appointments when Veterans need it
 
 ### Veteran journey
 
@@ -48,47 +48,31 @@ Putting down roots
 
 Retiring
 
-
 * MTM: Taking care of my health
 * MTM: Managing my declining health
   
 ## Research Goals	
-1. Evaluate how effectively Veterans navigate the appointments tool.
-2. Validate the usability of actions and tasks in the appointments tool.
-3. Evaluate how Veterans understand the information provided to them.
+
+Goal 1: Ensure a Oracle Health scheduling meets user needs. 
+
+Goal 2: Validate Oracle Health scheduling functionality.
+
+Goal 3: Identify any issues with the feature before release.
+
+Goal 4: Understand Veterans' mental model and expectations related to scheduling an appointment with their health care providers.
 
 ### Outcome
-This research will provide insights into how effectively Veterans can navigate the appointments tool, complete key tasks, and understand the information presented to them. These findings will inform design refinements, ensuring the tool is accessible, intuitive, and meets user expectations. The learnings will be used to prioritize improvements, validate design decisions, and guide the development of a more user-centered, efficient, and inclusive experience for Veterans.
+
+The learnings from this study will be used to improve Oracle Health scheduling tools, and inform other research around how Veterans choose their providers when scheduling
 
 ### Research questions
 
-**Navigation - Evaluate how effectively Veterans navigate the appointments tool**
-1.  How effectively can users, including those with screen readers (or voice control?), navigate through the app to locate and review appointment lists?
-2. Can Veterans navigate to and from sections, such as the AVS or other tools using the secondary navigation or back links?
-3. Does the navigation experience meet their expectations?
 
-**Action/Task - Validate the usability of actions and tasks in the appointments tool**
-1. Are Veterans able to complete tasks, such as scheduling appointments and requests, reviewing appointment details, canceling appointments, joining video visits, and adding appointments to their calendar, without confusion or error?
-2. Do users experience any challenges when completing these tasks?
-
-**Comprehension - Evaluate how Veterans understand the information provided to them.**
-1. Do Veterans understand instructions for preparing for their visit?
-2. Do Veterans understand the meaning of "Recent Locations"?
-3. Is error messaging clear and helpful, enabling Veterans to recover from issues and proceed with their tasks? Confusing?
-
-
-### Hypothesis
-1. Hypothesis for navigation:
-Veterans, including those using assistive technologies, will be able to navigate the app to locate and review their appointment lists efficiently without encountering barriers or confusion. Veterans will find the secondary navigation or back links intuitive and will successfully use them to navigate between sections.
-2. Hypothesis for completing tasks:
-Veterans will be able to complete key tasks (e.g., scheduling, reviewing, canceling, joining video visits, and adding appointments to their calendar) with minimal confusion or errors.
-3. Hypothesis for comprehension:
-Veterans will understand instructions for preparing for their visits. Veterans will correctly interpret the meaning of "Recent Locations" as places they have visited or scheduled appointments at. 
-
+### Hypotheses
 
 
 ## Methodology	
-User acceptance testing (UAT) 
+User interviews and user acceptance testing (UAT)
 
 ### Location
 Remote, moderated, on Zoom. 
