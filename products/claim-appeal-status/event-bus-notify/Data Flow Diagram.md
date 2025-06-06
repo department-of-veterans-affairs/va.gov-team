@@ -55,7 +55,8 @@ flowchart TD
   - Consumes and parses Kafka events.
   - Extracts key data (`VeteranParticipantId`, `ClaimTypeCode`).
   - Requests an access token using the `VeteranParticipantId` from the Sign-In Service (`vets-api`).
-  - Calls the `/v0/event_bus_gateway/send_email` endpoint in `vets-api` with the access token, sending the `template_id` for use with this notification.
+  - Calls the `/v0/event_bus_gateway/send_email` endpoint in `vets-api` with the access token (`participant_id` encrypted within the token),
+    sending the `template_id` for use with this notification.
 
 - **vets-api:**
   - `/v0/event_bus_gateway/send_email` controller validates the access token.
