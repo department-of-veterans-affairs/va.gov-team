@@ -4,7 +4,7 @@
 	
 `What problem is your product trying to solve?`
 
-Questions have arisen with regards to where to put information and tasks about non-health appointments on VA.gov. This study will specifically target transitioning service-members who are exiting or have recently exited the military and may start up with the VA through a program called "Solid Start." Through this program, transitioning service-members can schedule an apointment with a representative that connects them with services and gets them started with benefits. 
+Questions have arisen around where to put information and tasks about non-health appointments on VA.gov. This study will specifically target transitioning service-members who are exiting or have recently exited the military and may start up with the VA through a program called "Solid Start." Through this program, transitioning service-members can schedule an apointment with a representative that connects them with services and gets them started with benefits. 
 
 We'd like to evaluate the best placement for information about this program and related appointment scheduling by running a tree-test with a statistically significant sample of the population this affects (estimated to be roughly 58,000 people based on activity in the service-member hub during May 2025). Caregivers and family members will be evaluated in a follow-on tree-test (traffic to that section of the site during May 2025 was 432k). Estimated number of Veterans who transition to civilian life each year is 200,000 ([source](https://discover.va.gov/transition-programs/transition-assistance-program/)). 
 
