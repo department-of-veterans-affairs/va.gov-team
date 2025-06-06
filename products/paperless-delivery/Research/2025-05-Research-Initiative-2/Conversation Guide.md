@@ -187,6 +187,8 @@ Hesitation to Digital Forms
 
 - How would you define what ‘paperless settings’ are? (expected response: they will not receive mail but instead will access documents on VA.gov)
 
+- How would you define what 'notification settings' are? How is that different than notification settings?
+
 - Can you think of any other names that would make more sense to you than ‘paperless settings’?
 
 - Now, imagine you would like to change your delivery preferences, talk me through how you would expect to do that.
