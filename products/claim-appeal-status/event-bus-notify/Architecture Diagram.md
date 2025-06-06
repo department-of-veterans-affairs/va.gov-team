@@ -16,6 +16,8 @@ flowchart TD
       F["VA Notify (Email Delivery)"]
     end
 
+    H(((User's Email)))
+
     %% Flow
     A -- Produces decision_letter_availability Event --> B
     B -- Uses participant ID to request token --> C
@@ -25,6 +27,7 @@ flowchart TD
     E -- Submits Email Data --> F
     B -- Logging --> G
     D -- Logging --> G
+    F -- Sends to User --> H
 
     classDef external color:#999,fill:#004,stroke:#008,font-style:italic;
     classDef note color:#000,fill:#ff88,stroke:#fff8,stroke-width:5px,font-size:0.9rem;
@@ -35,6 +38,8 @@ flowchart TD
 - Items in blue are external.
 
 ## Notes
+- Communication between the Kafka topic and the Eventbus Gateway is authenticated via restricted IAM roles between the LHDI AWS
+  account and the DSVA AWS account, ensuring that messages are encrypted and sent securely.
 - Alternate consideration was to have the Eventbus Gateway send an email directly to VA Notify, but due to the convenience of
   having all the necessary items to craft and send the email (profile connection for personalization) already functioning within
   vets-api, the decision was to use a service authorization approach instead.
