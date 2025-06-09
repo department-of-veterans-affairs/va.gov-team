@@ -146,7 +146,7 @@ We’re sorry. Something went wrong on our end. Refresh this page or try again l
 ### Mailing and Home address section
 #### Validation
 - DONE [Home address is updated but does not match Mailing address](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/address-update-home-mailing-mismatch.md) 
-- [Address validation scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/address-validation.md)
+- IN PROGRESS [Address validation scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/address-validation.md)
 
 
 #### Flags 
