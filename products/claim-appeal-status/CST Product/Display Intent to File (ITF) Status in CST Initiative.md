@@ -35,11 +35,26 @@ As a Veteran who may have already submitted an Intent to File (ITF),
 I want to check whether I have an active ITF and when it expires,
 So that I can confirm my past actions without searching through paperwork or contacting VA.
 
+##### Painpoint
+
+> Ever since the Claim Status Tool replaced the legacy eBenefits dashboard, Veterans report difficulty learning whether an ITF is on file and spend a lot of time searching VA.gov without finding their ITF information. Source: [Reddit](https://www.reddit.com/r/VeteransBenefits/comments/10h23zd/where_can_i_see_my_intent_to_file_date_claim_in/#:~:text=Reddit%20www,Downvote%20Reply)
+
+> The pension team recommended reinforcing understanding of ITF by making it accessible in other places, such as the confirmation page after submission, the Veteran's profile, or the Claim Status Tool.
+Source: [526ez Shadowing Veteran Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2023-11-Shadowing-Research/research-findings.md)
+
 #### Story 2: Know my deadline
 As a Veteran with an active ITF, I want to know the expiration date so I can submit my claim before the deadline and preserve my retroactive benefits.
 
+##### Painpoint
+
+> The Proactive Benefits team found many misunderstandings about the timeline of ITF. Many saw it as a one-year deadline to filing a claim; some participants took this to mean that they had to rush to file before their claim was seen as invalid, while others said they would wait to file an ITF until they knew what to expect or had all of their documents in order so as not to run out the one-year clock prematurely. There was also common confusion about how to know what date your ITF is associated with and how the VA would notify you of that information.  Source: [Research Findings for Proactive Benefits, November 2023](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/proactive-benefits/research/2023-11-Outreach%20Exploration/research-findings.md)
+
 #### Story 3: Understand next steps after expiration
 As a Veteran whose ITF has expired, I want to get clear information about my options, so I know how to move forward—even if I missed the deadline for backdated benefits.
+
+##### Painpoint
+
+> Veterans were concerned about completing their applications by the ITF expiration date. They expressed this with phrases such as, “My intent to file expires today,” “It has to be in by today,” and after expiration: “My application is now due next year.” These Veterans were primarily returning to an in-progress claim, and several mentioned that they were returning to finish uploading documentation or ancillary forms such as 21-0781a. Source: 526 Medallia Research
 
 #### Story 4: Track multiple ITFs
 As a Veteran with ITFs for different benefit types (like compensation and pension),
@@ -47,6 +62,9 @@ I want each ITF listed separately with its own expiration date, so I can manage 
 
 #### Story 5: Learn about ITF if I haven’t started (empty state)
 As a Veteran who hasn’t submitted a claim yet, I want to learn how ITF works when I check the Claims Status Tool, to understand how it can help me get the most from my benefits.
+
+##### Painpoint
+> Evidence suggests a potential information gap regarding the ITF process, where many Veterans are unaware of ITF benefits, possibly resulting in missed opportunities to maximize their benefits. Source: [Submit your intent to file ~Reddit](https://www.reddit.com/r/Veterans/comments/hsvm0i/submit_your_intent_to_file/)
 
 #### Story 6: Get info as a dependent
 As a dependent of a Veteran, I want to check if there’s an active ITF related to my potential benefits (like DIC or survivors' pension), to understand where things stand and what deadlines I need to know.
@@ -69,7 +87,9 @@ We started exploring the empty state and the single active ITF because we felt t
 
 ### Relevant background Information
 
-#### Functionality
+#### Printing out a confirmation
+Pain point: No visibility after submission. After successfully submitting the ITF online, you are taken to a confirmation screen where you can print a PDF. However, this opportunity is lost once you leave the page.
+![CleanShot 2025-06-08 at 23 27 36@2x](https://github.com/user-attachments/assets/8a076aee-9580-417b-8df4-6422a9d2ad1c)
 
 
 #### Types of ITFs
@@ -78,16 +98,16 @@ We started exploring the empty state and the single active ITF because we felt t
 * Veteran’s pension (527ez)
 * Dependency and Indemnity Compensation
 (DIC)
+* Supplemental (0995)
 
-#### Previous projects and research
+### Previous projects and research
+* [Midpoint Review - Design Feedback - Lifestage Pension and Burial, Intent to File V1 #107932](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107932)
+* [Review intent to file language and check for consistency across forms and pages #73412](https://github.com/department-of-veterans-affairs/va.gov-team/issues/73412)
 * [ITF Baseline Audit - Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pension/research/2024-05%20Intent%20to%20File%20Audit.md)
 * [Intent to File Research Summary](https://github.com/department-of-veterans-affairs/va.gov-team/blob/6ee00a8be01e7dfcc406238da57eb704ff1b6374/products/disability/526ez/research/2024-02-ITF-Research/ITF-Research-Summary.md)
+* [526ez Shadowing Veteran Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2023-11-Shadowing-Research/research-findings.md)
+* [Intent to File Comprehension: Research Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pension/research/2024-10%20Intent%20to%20File%20Comprehension/research-findings.md)
+* [User experience issue: Intent to File in CST #49151](https://github.com/department-of-veterans-affairs/va.gov-team/issues/49151)
 
-### Team roles
-* OCTO product owners: Amy Lai | amy.lai2@va.gov & Julie Strothman |  julie.strothman@va.gov
-* UX/UI design: Shawn Collins | shawn.collins@oddball.io
-* Content designer & UX writer: Rick Allen | rick.allen@coforma.io
-* Accessibility specialist: Trevor Pierce | trevor.pierce@oddball.io
-* Front-end engineer: Jane Cho | jane.cho@coforma.io
-* Product management: Saliha Ghaffar | saliha.ghaffar@coforma.io
+
 
