@@ -18,19 +18,18 @@ The [VA.gov](http://va.gov/) Identity team is responsible for many aspects of ho
 ## Tools we use:
 
 - Github - Source Code/Knowledge base
-- Zenhub - Ticket manager/Board
-- Lucid Chart - Architecture diagram development
+- Github Projects - Ticket manager/Board
 - Figma - prototyping UI
 - Sentry - Error tracking
 - Datadog - Performance monitoring, logging
+- Mural - free-form visual whiteboarding for collaboration and brainstorming
 
 ## Onboarding Items (All team members)
 
 ### Ensure you have access to:
 
 - [ ]  Identity Github (if you're reading this, you have access)
-- [ ]  Zenhub (Ticket Tracking system)
-- [ ]  Lucid Chart
+- [ ]  Github Projects (Ticket Tracking system)
 - [ ]  Datadog
 
 ### Make sure you have the following meetings on your calendar (Check with your Product Manager)
@@ -40,9 +39,9 @@ The [VA.gov](http://va.gov/) Identity team is responsible for many aspects of ho
 
 ### Set up individual 15 minute 1:1's with your teammates:
 
-- [ ]  Mike King, Jim Connelly (Product Managers)
+- [ ]  Joelle Wells (Product Managers)
+- [ ]  Lainey Trahan (Product Managers)
 - [ ]  Joe Niquette (Engineering Lead)
-- [ ]  Lisa Lindsey (Delivery Manager)
 - [ ]  Clayton Zook (Designer/Researcher Crew Lead)
 - [ ]  Alex Garcia (FE Engineer Crew Lead)
 - [ ]  Afia Caruso (FE Engineer)
@@ -50,8 +49,7 @@ The [VA.gov](http://va.gov/) Identity team is responsible for many aspects of ho
 - [ ]  Trevor Bosaw (BE Engineer Crew Lead)
 - [ ]  John Bramley (BE Engineer)
 - [ ]  Riley Anderson (BE Engineer)
-- [ ]  Antonnette Caldwell (FE Engineer)
-- [ ]  Vid Jovanovic (DevOps Engineer)
+- [ ]  Josh Houston (DevOps Engineer)
 - [ ]  Megan Driscoll (Content Designer)
 - [ ]  Charlye Tran (Designer/Researcher)
 
