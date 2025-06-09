@@ -1,4 +1,5 @@
 # Design Pitch: Display Intent to File (ITF) Status in CST
+(Updated: 6/9/25)
 
 ## Links
 * [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110236)
@@ -27,6 +28,8 @@ Display ITF status information directly within the Claims Status Tool (CST) for 
 * Increased visibility into ITF status, reducing confusion and reliance on manual or indirect methods
 * Fewer ITF-related support calls and inquiries
 * Higher rate of claims filed within the ITF window, preserving Veterans’ eligibility for backdated benefits
+
+```What are the success metrics to know if we succeed?```
 
 ## User stories
 
@@ -80,19 +83,34 @@ This user flow aims to illustrate the various ITF statuses, starting from the lo
 This is where we began. The claim card pattern is currently used in the Benefit Applications and Forms section at the bottom of MyVA to display incomplete ITFs. While there are a few elements that may need updating, it was encouraging to see that we already have a foundation to build upon. 
 ![CleanShot 2025-06-08 at 22 59 36@2x](https://github.com/user-attachments/assets/c649033e-97d2-4704-8a1e-ee5fdd01fca3)
 
-### ITF card layout and content
-We started exploring the empty state and the single active ITF because we felt that these represented the two most foundational experiences—the educational introduction for new users and the core functionality for Veterans with an existing ITF. These two scenarios likely cover most Veterans and do a great job establishing the fundamental design patterns and content framework we will extend to the other scenarios. [View in Figma](https://www.figma.com/design/EZ5o3pGj3hdXZCsjiKwZn5/Intent-to-File--in-CST-?node-id=97-1059&t=eqIhw8bstclAAPpO-1)
+### ITF card layout and content (Where we are now)
+We are currently exploring the empty state and the single active ITF because we felt that these represented the two most foundational experiences—the educational introduction for new users and the core functionality for Veterans with an existing ITF. These two scenarios likely cover most Veterans and do a great job establishing the fundamental design patterns and content framework we will extend to the other scenarios. [View in Figma](https://www.figma.com/design/EZ5o3pGj3hdXZCsjiKwZn5/Intent-to-File--in-CST-?node-id=97-1059&t=eqIhw8bstclAAPpO-1)
 <img width="1980" alt="ITF sketches V1" src="https://github.com/user-attachments/assets/d4748957-9331-42a6-b56b-654c17d55de1" />
 
+## Next steps
+Continue with card content and UI designs during Sprint 21 so we have covered the following scenarios:
 
-### Relevant background Information
+* Veteran with an active ITF
+* Veteran with multiple active ITFs
+* Dependent with active ITF
+* Expired ITF
+* No claims or active ITF
 
-#### Printing out a confirmation
+## Relevant background Information
+
+### ITF submission flow
+![ITF submission flow](https://github.com/user-attachments/assets/50804985-f8b7-49d0-abfc-750fc6d4ccb0)
+
+[ITF submission flow.pdf](https://github.com/user-attachments/files/20657590/ITF.submission.flow.pdf)
+
+
+
+### Printing out a confirmation
 Pain point: No visibility after submission. After successfully submitting the ITF online, you are taken to a confirmation screen where you can print a PDF. However, this opportunity is lost once you leave the page.
 ![CleanShot 2025-06-08 at 23 27 36@2x](https://github.com/user-attachments/assets/8a076aee-9580-417b-8df4-6422a9d2ad1c)
 
 
-#### Types of ITFs
+### Types of ITFs
 * Standalone Intent to file (0966)
 * Disability compensation (526ez)
 * Veteran’s pension (527ez)
