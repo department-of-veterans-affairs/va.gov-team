@@ -44,7 +44,7 @@ Previous research has validated the minimal header component, including its lack
 
 </details>
 
-The purpose of this research was to 
+The **goals of this research** were to 
 1. (primary) Learn about Veterans' expectations for saving information while filling out an online form before submitting it.
 1. (primary) Get user feedback on design revisions for "save in progress" and "finish this request later" that reduce redundant messaging around saving.
 1. (secondary) Get user feedback on error messages and the progress bar while filling out online forms.
@@ -53,36 +53,49 @@ Findings and recommendations from this research will **inform guidance and docum
 
 In addition, user feedback collected on "finish this request later", error messages, and the progress bar will be helpful for accessibility specialists advising VFS teams.
 
-**Guiding Questions:**  
-- What outcomes are we aiming to achieve for Veterans and stakeholders?  
-
-[Example Research Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-goals) 
-
 
 
 ## Research Questions
 
-*List the research questions that guided this study.*  
+**Research goal 1: Learn about Veterans' expectations for saving information while filling out an online form before submitting it.**
+1. What experiences have Veterans had around saving while filling out VA forms?
+1. What expectations do Veterans have about whether information will be saved while filling out an online form?
+     1. What do Veterans expect to happen to their form data if they stop in the middle of filling out a form?
+     1. What do Veterans expect to happen to their form data if they close the form page?
+     1. How do Veterans expect to resume working on a form that they previously started filling out?
 
-* Question 1
-* Question 2
-* Question 3
+**Research goal 2: Get user feedback on design revisions for "save in progress" and "finish this request later" that reduce redundant messaging around saving.**
 
-[Example Research Questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-questions)
+3. Do Veterans think that their form data is being saved? If so, how do they know?
+1. Are Veterans able to stop working on a form and return to it later? If so, how do they do it?
+1. Do Veterans notice the alert about saving on the form intro page?
+1. Do Veterans notice the text about saving on the first page of the form (below the progress stepper)?
+
+**Research goal 3: Get user feedback on error messages and the progress bar while filling out online forms.**
+
+7. What reactions do Veterans have to error messages? 
+     1. Do they know what the errors mean, and how to resolve them?
+     1. How do they want to find out about errors?
+1. What reactions do Veterans have to the progress bar? Do they notice it?
 
 ## Methodology 
 
-*Provide a brief description of the research methods used (e.g., usability testing, interviews).*  
+We conducted **remote moderated usability testing** to observe research participants filling out an online form. The participants were logged in so that the information they entered was automatically saved before the form was submitted. We used a GitHub Codespace that is accessible to screen readers and screen magnifiers, which some of our participants were using.
 
-- Method 1: Description  
-- Method 2: Description  
-
-[Example Methodology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#methodology)
-
+Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 minutes long for Veterans using assistive technology (i.e., screen readers or screen magnifiers), and 60 minutes for Veterans not using any assistive tech. 
 
 ## Hypotheses and Conclusions
 
-*List hypotheses explored in the research and the conclusions drawn. If applicable, list the success or task completion rate.*
+
+1. While filling out online forms, Veterans expect that their form data will be saved.
+
+1. With the new design, Veterans are confident that their form data will be saved.
+
+1. With the new design, Veterans will know how to resume filling out a form that they started previously.
+
+1. When Veterans encounter error messages while filling out online forms, they are able to resolve the errors.
+
+1. While filling out an online form, Veterans will notice the progress bar and find it useful.
 
 > [!TIP]
 > Place true or false statements in bold for easier scanability
@@ -135,7 +148,7 @@ Brief description
 
 ---
 
-## **Additional Insights**
+## Additional Insights
 *Include insights that do not represent patterns but are still valuable.*  
 > **TIP:** These could be powerful user comments or unexpected issues worth noting
 
@@ -185,13 +198,11 @@ Brief description
 
 
 ## Appendix
-[Product Outline](link here)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/research/2025-05-save-in-progress/research-plan.md)
 
-[Research plan](link here)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/research/2025-05-save-in-progress/conversation-guide.md)
 
-[Conversation guide](link here)
-
-[Interview transcripts](link here)
+[Interview notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/ADE/research/2025-05-save-in-progress/notes)
 
 
 ## Tools used for Synthesis
