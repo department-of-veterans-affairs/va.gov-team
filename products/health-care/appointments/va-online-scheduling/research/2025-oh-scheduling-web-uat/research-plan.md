@@ -1,5 +1,4 @@
-# Research Plan for Oracle Health Scheduling UAT and Interviews, Appointments team, 06/2025 
-
+# [WIP] Research Plan for Oracle Health Scheduling UAT and Interviews, Appointments team, 06/2025 
 
 Background
 ----------
@@ -67,12 +66,25 @@ The learnings from this study will be used to improve Oracle Health scheduling t
 
 ### Research questions
 
+**Mental model**
+
+- What information and considerations are important to participants when choosing a new provider?
+- What information and considerations are important to participants when scheduling with an existing provider?
+
+**UAT**
+
+- Are participants able to easily complete all of the scheduling scenarios?
+- Are any scenarios difficult to complete?
+- Are any features missing that are critical to scheduling an appointment?
+
 
 ### Hypotheses
 
 
 ## Methodology	
-User interviews and user acceptance testing (UAT)
+User interviews and user acceptance testing (UAT):
+- We will start with an an interview to understand participants' mental model around scheduling with a provider
+- Then we will ask them to test key scenarios. These are listed in the [test plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/2025-oracle-health-scheduling/test-plan.md#test-scenarios)
 
 ### Location
 Remote, moderated, on Zoom. 
@@ -156,12 +168,12 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 **Please list the names of people in each role.** In the Slack study channel, send an email and primary phone number for the moderator. Send emails only for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
 
-- Moderator: Melissa Lefevre
-- Research guide writing and task development (usually but not always same as moderator): Melissa Lefevre	
-- Participant recruiting & screening: Melissa Lefevre	
-- Project point of contact: Melissa Lefevre	
+- Moderator:
+- Research guide writing and task development (usually but not always same as moderator): 	
+- Participant recruiting & screening: 
+- Project point of contact: 
 - Participant(s) for pilot test:
 - Accessibility specialist (for sessions where support for assistive technology may be needed):	
-- Note-takers: Peter Russo, Ciera Maddox
+- Note-takers: 
 - Observers: 
 
