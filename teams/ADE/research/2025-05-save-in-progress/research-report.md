@@ -116,7 +116,7 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
 
 [Example Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)
 
-**1.** Finding one
+**1.** Most participants (9 of 11) **didn't know that their information was being saved automatically with every edit**.
 
 **2.** Finding two
 
@@ -135,8 +135,8 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
 
 *Provide detailed descriptions and supporting evidence for each key finding.*  
 
-**Finding 1:**  
-Brief description  
+**Finding 1:** Most participants (9 of 11) didn't know that their information was being saved automatically with every edit.
+Most participants didn't know that the information they entered on the form was being saved. Some participants expected a notification if saving was happening, as one participant said that a social security form did, and another participant said that Microsoft Word says "Saving". They assumed that saving would happen after they clicked the "Finish later" or "Continue" button.
 - _Supporting data: Quote [add context]_  
 - _Supporting data: ![text](link - add image to github folder and link here with .png)_  
 
