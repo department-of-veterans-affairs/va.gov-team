@@ -1,5 +1,86 @@
 # Running Design and Research Agenda
 
+## June 9 2025
+**Attendees:** Jamie Fiore, Renata Keck, Rachel Pope, Amanda Klausmeier, Andrea Merrill, Premal Shah, Marissa Merkt
+
+### Agenda
+* UX Roadmap
+* Resubmissions Service Blueprint
+* Claims resubmissions flow
+
+### Roadmap
+- Reviewed tickets currently in progress and upcoming for this sprint
+
+### Service Blueprint 
+- Amanda asks if we feel we have clarity between reopen and resubmission
+    - We have better clarity than before
+    - We have copies of both the EOB and the sendback letter to know the difference in what’s communicated
+- Users may not have clarity about what the difference is
+    - They generally call in to ask what to resubmit (EOB)
+    - We should be able to help them through this online instead of them feeling they have to call
+    - May need to do additional (future) research into claims status online
+    - We should show how confusing this is within the blueprint
+- Discussion about the opportunity to influence change in the business process right now
+    - Callouts in the blueprint for pain points for users
+    - Amanda would like to be able to bring to leadership meeting to show areas of concern/opportunities for improvement
+    - Jamie will work on this as part of the current blueprint ticket
+- Discussion about the differences in reopen and resubmission and when PDI, batch number, and claim control number are used
+    - Reopen - part of one claim is missing
+    - Resubmission - one claim from batch of claims could not be processed
+- Jamie walks through blueprint
+    - Re calling for information after receiving EOB, Premal mentions 1.5 hour wait time for calls
+    - Correspondence should include what they need to submit instead of users having to call
+    - Jamie will highlight delay on blueprint
+- Amanda mentions we need to look at what we potentially should be doing research on
+- Discussion on changes made to claims and if sendback rate has improved
+    - Content-only changes are live
+    - Content for example pages is almost done per Marissa
+    - Cannot easily check for improvement in sendback rate - manual count each time
+        - Andrea asks if we can query this ourselves
+            - Would require a code change - OIT
+            - Status in PEGA would be easier
+            - Can ask in claims team channel if that is being tracked anywhere
+- [In chat] Discussion about including instructions within the sendback letter for what to online
+    - Digitize letter and include links to where they need to go to resubmit
+
+### Resubmission flow
+- Jamie walks through the flow for resubmissions in Figma
+- We are using generic language for the number since the user can enter either PDI or claims control number
+    - Required for claims team to find the original submission
+    - Amanda suggests dropdown to choose type, then field to enter it
+        - User can select which it is in case it needs to map to something in the back end
+        - User should know which it is based on their letter
+    - Premal asks about showing examples of letters and where to look
+        - Future iteration similar to what we’re doing for Medicare cards
+        - PDI number is small and at the bottom of the letter - should be more prominent if it is being required
+        - We need to change the letter design
+            - Have done this before with PDFs and letters on other teams
+- With dropdown selector for type of number, we could potentially branch the form based on type so we’re asking only the necessary questions
+    - Renata brings up the potential for user error and the risk of having the resubmission rejected if we didn’t ask for the correct info
+    - We can iterate on this if/when the business improves the communication
+    - Andrea asks if this would be recorded in the metadata
+        - PEGA is escalating the flag and claim number for resubmission
+        - Would like to include on list of changes so they can start work
+- Amanda asks if we can prefill the information based on the number (API)
+    - Would need to investigate this
+- Premal asks about potential of having to ask for money back from the veteran
+    - Discussed at start of project
+    - Might need to be a consideration
+    - Not currently in flow
+- Asking for health insurance information
+    - If a mismatch between what’s entered and what’s in the system, they need this
+    - Same as original claim form
+    - If we don’t ask for this and this was the reason the claim was rejected in the first place, it will be rejected again
+    - We should find out if this is flagged somewhere and only ask if we need the information
+    - Amanda says it seems like we are digitizing the current stated and we need to figure out the future state, including backend processes
+    - Premal does not think insurance information should be in the MVP
+    - We should see if we can prefill the insurance information and only ask for additional info if it doesn’t match
+        - EZ team does this for EZR if it was entered for EZ
+        - Pulled from a field in VES
+        - We could use the same API
+- Note that we need to get this out there soon because resubmission rates are bad
+    - If we get fields to PEGA, they can work ahead of us
+
 ## 06/02/25 IVC Design Sync
 
 **Attendees:** Amanda, Andrea, Jamie, Renata, Rachel
