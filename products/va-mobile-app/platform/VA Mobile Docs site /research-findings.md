@@ -173,7 +173,7 @@ EXP Teams show an increase in use of Docs Site
 [Product outline](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/10828)
 
 [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/platform/VA%20Mobile%20Docs%20site%20/%20Research%20Plan%20Q2%202025.md)
-[Conversation guide](link here)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/platform/VA%20Mobile%20Docs%20site%20/conversationguide.md)
 [Interview transcripts](link here)
 
 ## Tools used for Synthesis
