@@ -200,9 +200,9 @@ Brief description
 ## Appendix
 [Research plan](./research-plan.md)
 
-[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/research/2025-05-save-in-progress/conversation-guide.md)
+[Conversation guide](./conversation-guide.md)
 
-[Interview notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/ADE/research/2025-05-save-in-progress/notes)
+[Interview notes](./notes)
 
 [Interview notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/ADE/research/2025-05-save-in-progress/notes)
 
