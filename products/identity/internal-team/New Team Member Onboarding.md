@@ -2,7 +2,7 @@
 
 # Welcome
 
-Welcome to the VSP Identity Team.  We're excited to have you here!  Please take the time to make a copy of this document so that you can use it for future reference, and in order to complete the checklists below.
+Welcome to the Oddcore Identity Team.  We're excited to have you here!  Please take the time to make a copy of this document so that you can use it for future reference, and in order to complete the checklists below.
 
 ## What is Identity?
 
@@ -18,8 +18,9 @@ The [VA.gov](http://va.gov/) Identity team is responsible for many aspects of ho
 ## Tools we use:
 
 - Github - Source Code/Knowledge base
-- Zenhub - Ticket manager/Board
+- Github Projects - Ticket manager/Board
 - Lucid Chart - Architecture diagram development
+- Mural -- Team collaboration
 - Figma - prototyping UI
 - Sentry - Error tracking
 - Datadog - Performance monitoring, logging
@@ -29,36 +30,49 @@ The [VA.gov](http://va.gov/) Identity team is responsible for many aspects of ho
 ### Ensure you have access to:
 
 - [ ]  Identity Github (if you're reading this, you have access)
-- [ ]  Zenhub (Ticket Tracking system)
+- [ ]  Github Projects VA Identity board
+- [ ]  Mural
 - [ ]  Lucid Chart
 - [ ]  Datadog
 
-### Make sure you have the following meetings on your calendar (Check with your Product Manager)
+### Make sure you have the following meetings on your calendar (Check with the Product Managers)
 
-- [ ]  Identity Standup
-- [ ]  Identity Retro/Grooming/Planning
+- [ ]  Relevant Standup
+  - [ ]  Identity BE standup
+  - [ ]  Identity FE standup
+  - [ ]  Identity UX standup
+- [ ]  Relevant Sprint Planning
+  - [ ]  Identity BE planning
+  - [ ]  Identity FE planning
+  - [ ]  Identity UX planning
 
-### Set up individual 15 minute 1:1's with your teammates:
+### Set up individual 15-20 minute 1:1's with your teammates:
 
-- [ ]  Mike King, Jim Connelly (Product Managers)
+- [ ]  Joelle Wells (Product Manager)
+- [ ]  Lainey Trahan (Product Manager)
+- [ ]  Jon Knotts (Project Manager)
+- [ ]  Mo Zahid (Project Manager)
 - [ ]  Joe Niquette (Engineering Lead)
-- [ ]  Lisa Lindsey (Delivery Manager)
 - [ ]  Clayton Zook (Designer/Researcher Crew Lead)
+- [ ]  Megan Driscoll (Content Designer)
+- [ ]  Charlye Tran (Designer/Researcher)
 - [ ]  Alex Garcia (FE Engineer Crew Lead)
 - [ ]  Afia Caruso (FE Engineer)
 - [ ]  Ian Magenta (FE Engineer)
+- [ ]  Caitlin Neathawk (FE Engineer)
 - [ ]  Trevor Bosaw (BE Engineer Crew Lead)
 - [ ]  John Bramley (BE Engineer)
 - [ ]  Riley Anderson (BE Engineer)
-- [ ]  Antonnette Caldwell (FE Engineer)
-- [ ]  Vid Jovanovic (DevOps Engineer)
-- [ ]  Megan Driscoll (Content Designer)
-- [ ]  Charlye Tran (Designer/Researcher)
+- [ ]  Alexander Jolovic (BE Engineer)
+- [ ]  Emily Nguyen (BE Engineer)
+- [ ]  Erik Perkins (AI/ML Engineer)
+
 
 ### Ensure you are added to the following Slack Channels
 
-- [ ]  vsp-identity (this is our public channel)
-- [ ]  identity-surge
+- [ ]  identity (this is our public channel)
+- [ ]  identity-support (public channel for support requests)
+- [ ]  identity-oddball-team 
 
 ## Onboarding Items (FE Engineer)
 
@@ -69,10 +83,14 @@ The [VA.gov](http://va.gov/) Identity team is responsible for many aspects of ho
 - [ ]  Review the Backend Identity Onboarding document [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/internal-team/be-identity-onboarding.md)
 
 ## Onboarding Items (Researcher/Designer)
+_TBD_
 
 ## Onboarding Items (Product)
+_TBD_
+
+## General Onboarding docs:
 
 - [ ]  [Read the Identity Overview](https://docs.google.com/document/d/10Vj2Kz3m5EwOMkmse4C3gvYjkJgXBh_wD1HlmKyuIuU/edit)
 - [ ]  [Read the Current and Future Initiatives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Current%20and%20Future%20Initiatives.md)
 - [ ]  [Read the Readme](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/README.md)
-- [ ]  [Bookmark the Zenhub board](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/board?repos=33202667,62409417,133843125,194202180,246683655,322684287,446961999)
+- [ ]  [Bookmark the Github Projects board](https://app.zenhub.com/workspaces/identity-5f5bab705a94c9001ba33734/board?repos=33202667,62409417,133843125,194202180,246683655,322684287,446961999](https://github.com/orgs/department-of-veterans-affairs/projects/1646/views/12)
