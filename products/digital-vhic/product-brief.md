@@ -69,9 +69,7 @@ _Include before/after screenshots, if applicable. Delete this section otherwise.
 ## Reference Material
 
 - [Digital VHIC GitHub Issue #1403](https://github.com/department-of-veterans-affairs/digital-experience-products/issues/1403)
-- VFS-facing Product README (in `/platform`)
-- Release Plan
-- Product health or success dashboards (TBD)
+
 
 ### Communications
 
