@@ -73,7 +73,9 @@ Known issue: [Unexpected No Rep state UI in Profile Production](https://github.c
 ## Post Launch Metrics
 
 ### 1-Week Results Post-Launch 
-Datadog Endpoint activity:
+1. 52.5k requests to Lighthouse for the representative status, with a 98.65% success rate. ([Rep Status dashboard](https://vagov.ddog-gov.com/dashboard/ttj-p2z-9gh/arm-representative-status?fromUser=true&refresh_mode=paused&from_ts=1747897200000&to_ts=1748027517007&live=false))
+   1. This is 2.7x more requests, compared to the 19.21k requests the week prior to staged rollout (May 14-21).
+2. 10.59k requests on the frontend, to our /profile/accredited-representative URL, with a 98.92% success rate. ([Profile dashboard](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/cvt-efh-hzf))
 
 ### 1-Month Results Post Launch
 
