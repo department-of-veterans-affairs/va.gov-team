@@ -1,7 +1,7 @@
 # Contact information: Home address is updated but does not match Mailing address
 **Last updated: June 2025**
 
-- [User flow: Old version for reference](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0%3A365&mode=design&t=rqPFqCwnOiocoCbM-1)(B-8)
+- [User flow: Old version for reference](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0%3A365&mode=design&t=rqPFqCwnOiocoCbM-1) (B-8)
 - [Figma files]
 - Test Rail QA
 - Product documentation
