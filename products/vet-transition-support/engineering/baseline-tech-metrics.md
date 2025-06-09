@@ -139,4 +139,4 @@ The purpose of this document is to determine how best to track the project’s [
 *   We will know the exact metrics to track and where once the investigation tasks are complete.
     
 
-Many teams could benefit from tracking [some of these metrics](https://docs.datadoghq.com/dora_metrics/). Collecting and displaying this information will never be easy, but having infrastructure in place to facilitate it will make a huge difference. I think it would be in the best interest of the VA to implement a DD GH integration. The analytics team is currently working on a GA DD integration.
+*    Many teams could benefit from tracking [some of these metrics](https://docs.datadoghq.com/dora_metrics/). Collecting and displaying this information will never be easy, but having infrastructure in place to facilitate it will make a huge difference. I think it would be in the best interest of the VA to implement a DD GH integration. The analytics team is currently working on a GA DD integration.
