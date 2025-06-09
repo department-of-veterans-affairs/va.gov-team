@@ -111,7 +111,89 @@ Now we're going to move to the financial portion of our discussion. I have no in
     * Consider both the copayment bills and the overpayment debts: in your mind, do these feel like different types of financial issues to you? Or do they belong in the same category?
 
 
-<!--
+## Prototype & Usability
+
+From home screen
+
+* Don’t yet click on anything: show me where to find what money you currently owe
+    * How clear was that to find?
+    * Tell me your thoughts on the title of that section.
+        * What would you expect to find there?
+        * Are there other names that would be a better description?
+* Now click into that tab
+    * What are your thoughts on the info presented here?
+
+Overpayment benefits debt _(Cohort 1 starts here, then continues to next section if relevant)_
+
+* What are your first impressions of what you’re seeing?
+* Find what you currently owe for overpayment debts
+    * How clear was that to find?
+    * What can you tell me about the other debts on this screen?
+* If a new debt arises, how would you expect to be notified?
+* What do you need to know for each debt?
+    * How easy/difficult is it to find relevant information?
+* [point to a specific debt] What can you tell me about your activity here?
+    * Is it clear when a payment is due?
+* If you pay off a debt, would you want to see it? 
+    * Here or anywhere else?
+* If you are ready to make a payment on this debt, walk me through how you would do that.
+    * Talk to me about that experience of starting to make the payment (opening .gov, new sign-in)
+    * After you’ve made a payment, what would you expect to see? When would you expect to see an update?
+* Let’s pretend you see an error – _[point to a specific copay]_ this debt is for something you don’t believe you actually owe. What would you do?
+    * What sort of info or guidance might you look for?
+* Now we’re going to pretend that you don’t believe you’re going to have the money to make a payment on the debt in the next few months. Walk me through what you would do in this situation.
+    * What sort of info or guidance might you look for?
+* If you knew you also have medical copayments, where would you go to find that?
+    * Had you noticed a reference to it on the copayments page?
+* Now that we’ve gone through this section, do you have any other thoughts about what is here and how the information is presented?
+* *(if relevant) *Can you tell me what you think of this experience vs what you have found on va.gov?
+* Now I’m going to have you click [location TBD] to view a different version.
+    * This is the home screen of the app. What are your initial thoughts?
+    * Regarding these debts + copays buttons – can you describe a situation where you might use them?
+    * Considering how you manage your finances, when would these shortcuts be most useful for you?
+    * What do you think about the information presented on the home screen? (e.g. amount, due date)?
+
+Copayments _(Cohort 2 starts here, then continues to Overpayment section if relevant)_
+
+* What are your first impressions of what you’re seeing?
+* Find what you currently owe for copayments
+    * How clear was that to find?
+    * What can you tell me about the other copayments on this screen?
+* After you have a medical appointment, when would you expect to see the copayment appear here?
+    * How would you expect to be notified?
+* What do you need to know for each copay due?
+    * How easy/difficult is it to find relevant information?
+* _[point to a specific copay]_ What can you tell me about your activity here?
+    * Is it clear when the payment is due?
+* If you pay off a copay, would you want to see it? 
+    * Here or anywhere else?
+* If you are ready to make a payment on this copay, walk me through how you would do that.
+    * Talk to me about that experience of starting to make the payment (opening .gov, new sign-in)
+    * After you’ve paid this bill, what would you expect to see? When would you expect to see an update?
+* Let’s pretend you see an error – _[point to a specific copay]_ one of the copays is for an appointment that you did not have. What would you do?
+    * What sort of info or guidance might you look for?
+* Now we’re going to pretend that you don’t believe you’re going to have the money to pay the most recent copay bills. Walk me through what you would do in this situation.
+    * What sort of info or guidance might you look for?
+* If you knew you also have benefit overpayment debt, where would you go to find that?
+    * Had you noticed a reference to it on the copayments page?
+* _(if user has not brought them up already)_ Talk to me about your monthly statements for copays
+    * Were you aware of them?
+    * Do you read them now? If so, what purpose do they serve? What are you doing with them?
+    * Walk me through exploring them in the prototype here.
+    * What are your thoughts on the PDFs here?
+* Now that we’ve gone through this section, any other thoughts you’d like to share on what is here and how the information is presented?
+* _(if relevant)_ Can you tell me what you think of this experience vs what you have found on va.gov?
+* Now I’m going to have you click [location TBD] to view a different version.
+    * This is the home screen of the app. What are your initial thoughts?
+    * Regarding these debts + copays buttons – can you describe a situation where you might use them?
+    * Considering how you manage your finances, when would these shortcuts be most useful for you?
+    * What do you think about the information presented on the home screen? (e.g. amount, due date)?
+
+Those are all my questions. I’m going to check in with my team to see if anyone has any questions. If anyone would like to ask anything, you can unmute yourself and ask now.
+
+Is there anything else you would like to share regarding managing finances that you haven’t yet shared?
+
+
 ## Consent to use video clips
 
 * I want to check once again that you are comfortable if we were to share a video clip of this session with our VA partners with your identifying information removed.
@@ -135,4 +217,3 @@ If needing to exit the session
 1. "If for any reason and at any time you want to stop the session, please let me know. You will not lose your stipend or be penalized in any way if we need to stop."
 2. “I’ve just learned that the prototype we were planning on using today is having some technical issues, so we will have to end this session early.”
 3. Thank them profusely for their feedback or for making the time to talk to you.
--->
