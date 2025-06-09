@@ -5,7 +5,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Accessibility Digital Experience (ADE)**
 
-**Date:** 06/09/2025
+**Date:** 06/13/2025
 
 **Contacts:** Cindy Merrill, Jeana Clark
 
@@ -16,8 +16,6 @@
 - [Hypotheses and conclusions](#hypotheses-and-conclusions)
 - [Key findings](#key-findings)
 - [Recommendations](#recommendations)
-- [Product User and Business Outcomes](#product-user-and-business-outcomes)
-- [Key Performance Indicators](#key-performance-indicators)
 - [Next Steps](#next-steps)
 - [Further research needed](#further-research-needed)
 - [Appendix (including screenshots of design prototype)](#appendix)
@@ -162,31 +160,6 @@ Brief description
 2. **Recommendation:** [Insert action]  
    - _Supporting evidence: [Insert data]_
 
-## Product User and Business Outcomes
-
-*Explain how findings and recommendations align with the product's goals.*
-
-> [!NOTE] 
-> Refer back to your Product Outline. 
-
-- **Desired User Outcome**
-  - This research supports our desired user outcome by....
- 
-- **Deisred Business Outcome**
-  - This research supports our desired business outcome by....
-
-
-## Key Performance Indicators
-
-*Explain how findings will support KPI measurement.*  
-
-> [!NOTE]
-> Refer back to your Product Outline. 
-
-- **KPI 1**
-  -  This research supports measurement of this KPI by....
-
-
 ## Next Steps
 
 *Outline immediate actions based on findings, including owners if applicable.*  
@@ -205,8 +178,6 @@ Brief description
 [Interview notes](./notes)
 
 [Interview notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/ADE/research/2025-05-save-in-progress/notes)
-
-
 
 
 ## Tools used for Synthesis
@@ -241,8 +212,6 @@ Brief description
   ![figma-mobile-search](./images/figma-mobile-search.png)
   
 </details>
-
-*Link to prototypes or pages tested during the study.*  
 
 
 ## Other supporting documents created
