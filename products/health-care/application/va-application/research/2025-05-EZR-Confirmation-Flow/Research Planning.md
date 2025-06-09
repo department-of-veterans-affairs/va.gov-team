@@ -212,18 +212,18 @@ For recruiting 2 users with cognitive disabilities:
 > [!NOTE]
 > **Send pilot participant email in study Slack channel**
 
-- `Pilot participant name:` **[Enter name]**
-- `Date and time of pilot session:` **[Enter time]** 
+- `Pilot participant name:` **Michael Skinner**
+- `Date and time of pilot session:` **06/11 Wednesday, 3:30 PM Eastern** 
 
 ### Research sessions
-- `Planned dates of research:` **[Enter dates MM/DD-MM/DD]**
+- `Planned dates of research:` **06/23 - 07/03**
 
 ### Length of sessions
-- `Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)` **[Enter time length]**
+- `Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)` **1 hour**
   
-- `Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time)` **[Enter buffer time]**
+- `Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time)` **1 hour**
   
-- `Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)` **[Enter NUM per day]**
+- `Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)` **3 sessions**
 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
@@ -236,12 +236,15 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 >
 > **Place time slots between `hash marks` when in edit mode.**
 
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `Add more slots as needed`
+- `[06/23, Monday, 10 AM-8 PM] EST`
+- `[06/24, Tuesday, 10 AM-8 PM] EST`
+- `[06/25, Wednesday, 10 AM-8 PM] EST`
+- `[06/26, Thursday, 10 AM-8 PM] EST`
+- `[06/27, Friday, 10 AM-8 PM] EST`
+- `[06/30, Monday, 10 AM-8 PM] EST`
+- `[07/01, Tuesday, 10 AM-8 PM] EST`
+- `[07/02, Wednesday, 10 AM-8 PM] EST`
+- `[07/03, Thursday, 10 AM-8 PM] EST`
   
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
