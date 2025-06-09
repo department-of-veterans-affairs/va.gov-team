@@ -35,8 +35,9 @@ The [VA.gov](http://va.gov/) Identity team is responsible for many aspects of ho
 - [ ]  Lucid Chart
 - [ ]  Datadog
 
-### Make sure you have the following meetings on your calendar (Check with the Product Managers)
+### Make sure you have the following meetings on your calendar (Check with the Product Managers as there are likely more!)
 
+Add the [Identity Sprint Calendar](https://calendar.google.com/calendar/u/0?cid=Y181YzM5YThiYmVjYTA1OTNiZjNjNzA3ZDZkODgyYmI3YzAyODBiYzhhMzZhYjhkYjllZTNhYjY4ZjU5OTRkOTkxQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20) and the [MFA PTO Calendar](https://calendar.google.com/calendar/u/0?cid=Y181YzM5YThiYmVjYTA1OTNiZjNjNzA3ZDZkODgyYmI3YzAyODBiYzhhMzZhYjhkYjllZTNhYjY4ZjU5OTRkOTkxQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
 - [ ]  Relevant Standup
   - [ ]  Identity BE standup
   - [ ]  Identity FE standup
@@ -45,6 +46,8 @@ The [VA.gov](http://va.gov/) Identity team is responsible for many aspects of ho
   - [ ]  Identity BE planning
   - [ ]  Identity FE planning
   - [ ]  Identity UX planning
+- [ ]  Sprint Review
+- [ ]  Monthly Team Structure Retro
 
 ### Set up individual 15-20 minute 1:1's with your teammates:
 
