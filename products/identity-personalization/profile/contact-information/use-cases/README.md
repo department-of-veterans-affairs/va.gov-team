@@ -81,30 +81,37 @@
    - [Address]
    - [Phone number]
    - [Email address]
+   - Note: Ashley - if these don't change we only need one file.
 
 </details>
 
 
+<details><summary>Canceling edit changes</summary>
 
-### Canceling changes
-* If a user has made changes to any form field, and hits cancel, they’ll first see the field validation message. This is a limitation of the form system.
-* If they hit cancel a second time, or hit cancel before editing any fields they’ll be presented with a modal asking them to confirm they want to leave edit mode.
-* Once they cancel, they’ll be returned to read mode.
-- [Desktop mock-up, cancel modal](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0-1046&mode=design&t=rqPFqCwnOiocoCbM-11)
-- [Mobile mock-up, cancel modal](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=64-7360&mode=design&t=rqPFqCwnOiocoCbM-11)
+- **Use case:** If a user has made changes to any form field, has not correctly or completely filled out the field, and hits cancel, they will trigger an inline error. If the field is correctly and completely filled out, or they hit cancel a second time, they'll see a modal warning message asking to confirm if they want to leave edit mode.
+- **Status code:** None
+- **Content:** See designs
+- **Format:** See designs
+- Links to designs
+   - [Address]
+   - [Phone number]
+   - [Email address]
+   - Note: Ashley - if these don't change we only need one file.
 
-
+</details>
 
 
 ## Edge cases
-### Flags 
-- [Address is marked as “bad” in VA Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/address-marked-as-bad.md)
-
 ### Validation
 - [Home address is updated but does not match Mailing address](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/address-update-home-mailing-mismatch.md) 
 - [Address isn’t recognized as entered](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/address-validation.md)
 
-### System
+
+### Flags 
+- [Address is marked as “bad” in VA Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/address-marked-as-bad.md)
+
+
+### Errors
 - [Something has gone wrong and VA.gov can’t display any contact information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/system-cant-display-contact-info.md)
 - [High incidences of address save failures](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Address%20Save%20Failure%20Codes.md)
 - ### Save error: information can’t be saved
