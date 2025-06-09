@@ -4,7 +4,7 @@ The Find a Representative/ Accredited Representative Management Team is in charg
 - Find a Representative [Staging URL](https://staging.va.gov/get-help-from-accredited-representative/find-rep/)
 - Appoint a Representative [Staging URL](https://staging.va.gov/get-help-from-accredited-representative/appoint-rep/introduction/)
 - Profile - Representative Status [Staging URL](https://staging.va.gov/profile/accredited-representative)
-- Accredited Representivie Portal / Form 21A [Staging URL for Accredited REpresentative Portal](https://staging.va.gov/representative/) [Staging URL for Form 21A](https://staging.va.gov/representative/accreditation/attorney-claims-agent-form-21a/introduction)
+- Accredited Representivie Portal / Form 21A [Staging URL for Accredited Representative Portal](https://staging.va.gov/representative/) [Staging URL for Form 21A](https://staging.va.gov/representative/accreditation/attorney-claims-agent-form-21a/introduction)
 
 The Find a Representative/ Accredited Representative Management Team also slightly owns these two services but any prs need to involve the Platform Team:
 - Get help from an Accredited Representative or VSO Landing Page [Staging URL](https://staging.va.gov/get-help-from-accredited-representative/)
