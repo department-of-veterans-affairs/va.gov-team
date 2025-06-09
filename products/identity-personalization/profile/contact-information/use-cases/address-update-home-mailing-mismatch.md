@@ -20,33 +20,59 @@
 
 
 ## Common use cases
-<details><summary>User has updated home address, and mailing address is empty</summary>
+<details><summary>User has updated Home address, and Mailing address is empty</summary>
 	
 - **Use case:** Modal appears telling user we don’t have a Mailing address on file, asking if a Mailing address should be added to match their Home address.
 - **Status code:** None
-- **Content:** See designs
+- **Content:** TBD
 - **Format:** [Modal component](https://design.va.gov/components/modal)
 - [Links to designs]
 
 </details>
- 
 
-### User has updated home address, and mailing address in profile doesn’t match
-- Modal appears showing user two different addresses, asking if mailing should be updated to match home
-- [Desktop mock-up](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0-1007&mode=design&t=rqPFqCwnOiocoCbM-11)
-- [Mobile mock-up](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0-605&mode=design&t=rqPFqCwnOiocoCbM-11)
 
-### Successful update
-- Once the user has made a selection in the modal, they’ll see a confirmation message with a close button.
-- After closing the modal, success alert will display in the relevant sections.
-- [Success modal](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0-1024&mode=design&t=fhDeYYDloWNkE2q5-11)
-- [Success alert examples](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/add-edit-delete-contact-info.md#saving-information) 
+<details><summary>User has updated Home address, and Mailing address doesn’t match</summary>
+	
+- **Use case:** Modal appears showing user two different addresses, asking if Mailing address should be updated to match Home address.
+- **Status code:** None
+- **Content:** TBD
+- **Format:** [Modal component](https://design.va.gov/components/modal)
+- [Links to designs](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0-605&mode=design&t=rqPFqCwnOiocoCbM-11)
 
-### Save error
-- If the mailing address update can’t be completed, , they’ll see an error message with a close button.
-- After closing the modal, error alert will display in the mailing address section.
-- [Error modal mock-up](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0-1014&mode=design&t=6iSkKX2l8PqjFaHd-11)
-- [Save error examples](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/add-edit-delete-contact-info.md#save-error-information-cant-be-saved)
+</details>
+
+
+<details><summary>Successful update modal</summary>
+	
+- **Use case:** Once the user has made a selection in the modal, they’ll see a confirmation message with a close button. After closing the modal, a success alert will display in the relevant sections.
+- **Status code:** None
+- **Content:** TBD
+- **Format:** [Modal component](https://design.va.gov/components/modal)
+- [Links to designs](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0-1024&mode=design&t=fhDeYYDloWNkE2q5-11)
+
+</details>
+
+
+<details><summary>Successful update modal</summary>
+	
+- **Use case:** Once the user has made a selection in the modal, they’ll see a confirmation message with a close button. After closing the modal, a success alert will display in the relevant sections.
+- **Status code:** None
+- **Content:** TBD
+- **Format:** [Modal component](https://design.va.gov/components/modal)
+- [Links to designs](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0-1024&mode=design&t=fhDeYYDloWNkE2q5-11)
+
+</details>
+
+
+<details><summary>Save error modal</summary>
+	
+- **Use case:** If the Mailing address update can’t be completed, the user will see an error modal with a close button. After closing the modal, an error alert will display in the Mailing address section.
+- **Status code:** None
+- **Content:** TBD
+- **Format:** [Modal component](https://design.va.gov/components/modal)
+- [Links to designs](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0-1014&mode=design&t=6iSkKX2l8PqjFaHd-11)
+
+</details>
 
 
 ## Codes
