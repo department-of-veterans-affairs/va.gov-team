@@ -99,7 +99,8 @@ Continue with card content and UI designs during Sprint 21 so we have covered th
 ## Relevant background Information
 
 ### ITF submission flow
-![ITF submission flow](https://github.com/user-attachments/assets/50804985-f8b7-49d0-abfc-750fc6d4ccb0)
+![ITF submission flow](https://github.com/user-attachments/assets/e7a7f4ba-6e4d-4cac-bc57-efbc5fb45ce0)
+
 
 [ITF submission flow.pdf](https://github.com/user-attachments/files/20657590/ITF.submission.flow.pdf)
 
