@@ -164,9 +164,9 @@ Our intended audience is Veterans and we will partner with Perigean for recruitm
 
 ### Optional Kick-off Call with Perigean
 
-- `Suggested dates and times:` **[Enter dates and times MM/DD HH:MM]**
+- `Suggested dates and times:` **[Wednesday 11th - Tuesday 17th; 12pm ET - 5pm ET]**
 - **Pilot Session** 
-- `Pilot participant name:` **[Enter name]**
+- `Pilot participant name:` **[Perigean to Recruit]**
 - `Date and time of pilot session:` **[Enter time]** 
 
 ### Research sessions (Tentative)
@@ -185,7 +185,7 @@ As these sessions are unmoderated, Veterans can complete them on their own time.
 - `Moderator:` **N/A - Unmoderated**	
 - `Research guide writing and task development (usually but not always same as moderator):` **Jessica Stump**
 - `Secondary researcher:` **Liza McRuer**
-- `Participant recruiting & screening:`	**[Enter full name]**	
+- `Participant recruiting & screening:`	**Perigean - POC**	
 - `Project point of contact:` **Jessica Stump**		
 - `Accessibility specialist (for sessions where support for assistive technology may be needed):` **N/A - Accessibility will be tested in a later study**	
 - `Note-takers:` **N/A - Unmoderated**	
@@ -193,7 +193,7 @@ As these sessions are unmoderated, Veterans can complete them on their own time.
 ---
 
 ## Approvals ✅
-- `Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]`
+- `Reviewed by [OCTO UX Team Lead, Amanda Klausmeier] via Slack on [06-09-25]`
 - `Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]`
 ---
 
