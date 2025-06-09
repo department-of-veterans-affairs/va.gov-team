@@ -1,7 +1,7 @@
 | Product | Initiative                                      | Status                                   |
 |---------|-------------------------------------------------|------------------------------------------|
-| CG      | [OAuth 2.0](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89108)                                       | Launched 4/2                             |
-| EZ      | [Print/Save completed PDF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60909)                        | Launched 5/5                             |
+| CG      | [OAuth 2.0](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89108)                                       | 🎉 Launched 4/2                             |
+| EZ      | [Print/Save completed PDF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60909)                        | 🎉 Launched 5/5                             |
 | CG      | [Signature page update](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102073)                           | Eng in progress                          |
 | EZ      | [Submission Traceability](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80978)                         | POC with ST team in progress             |
 | EZ      | [Form Statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95313)                                   | Discovery in progress (PM)               |
