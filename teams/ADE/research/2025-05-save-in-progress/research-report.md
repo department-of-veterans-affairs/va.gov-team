@@ -3,7 +3,7 @@
 
 # 2025-05 Save in Progress Usability Findings 
 
-**Office of the CTO - Digital Experience (OCTO-DE), Save in Progress in forms, ADE**
+**Office of the CTO - Digital Experience (OCTO-DE), Accessibility Digital Experience (ADE)**
 
 **Date:** 06/09/2025
 
@@ -20,15 +20,40 @@
 - [Key Performance Indicators](#key-performance-indicators)
 - [Next Steps](#next-steps)
 - [Further research needed](#further-research-needed)
+- [Appendix (including screenshots of design prototype)](#appendix)
 - [Who we talked to](#who-we-talked-to)
 
-
 ## Research Goals
-*Provide context for this research by explaining how it fits into the Veteran’s journey.*  
-[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)  
+Veterans may fill out web forms on VA.gov throughout their lives, including ALL stages of the Veteran Journey--Serving and separation, Living civilian life, and Retiring and aging.
+
+Saving in-progress work while filling out an online form is an interaction for which the current implementation on VA.gov has two known accessibility issues. This research is being planned to get user feedback on a revised design that may resolve both issues.
+
+<details><summary>Click to see details of the two accessibility issues.</summary>
+	
+1. While VA.gov users are signed in (authenticated) and filling out a form, the "save in progress" alert (see below) flashes on and then off with every field entry or edit. Because this alert displays *below* the Continue button, screen readers don't announce it, which is an accessibility issue. All users should have access to the same information about the user interface.
+
+2. There's a "Finish this request later" button that looks like a link (see below), which is another accessibility issue. Links that take you to another page should look like links, and buttons that do actions should look like buttons. 
+
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/research/2025-05-save-in-progress/images/2-a11y-issues.png" width="50%" height="50%">
+
+We are testing a modification of the VA Design System [Header - Minimal component](https://design.va.gov/components/header/header-minimal), which is recommended for the design of new web forms. To address the above accessibility issues, we have removed the "save in progress" alert, as well as changed the "Finish this request later" button that looks like a link into looking like a button (see below). We believe that removing the "save in progress" alert will be OK because there is already text about saving on the authenticated version of the form intro page and the first page of the form. One goal of this current research is to get user feedback on the revised design.
+
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/research/2025-05-save-in-progress/images/2-a11y-issues-fix.png" width="50%" height="50%">
+
+Previous research has validated the minimal header component, including its lack of "Back" button (research participants successfully used the "Back to previous page" breadcrumb link at the top of each page). Other research studies have tested various locations for the "Save in progress" alert, and subsequent research studies have documented usability and accessibility issues with those locations.
+
+</details>
+
+The purpose of this research was to 
+1. (primary) Learn about Veterans' expectations for saving information while filling out an online form before submitting it.
+1. (primary) Get user feedback on design revisions for "save in progress" and "finish this request later" that reduce redundant messaging around saving.
+1. (secondary) Get user feedback on error messages and the progress bar while filling out online forms.
+
+Findings and recommendations from this research will **inform guidance and documentation for the "save in progress" feature** for authenticated users filling out forms on VA.gov. Matt Dingee asked ADE to help with this because some VFS teams are innovating new designs, whereas "save in progress" should be a standard pattern used by all teams.
+
+In addition, user feedback collected on "finish this request later", error messages, and the progress bar will be helpful for accessibility specialists advising VFS teams.
 
 **Guiding Questions:**  
-- What are the key moments this tool supports in the Veteran’s journey?  
 - What outcomes are we aiming to achieve for Veterans and stakeholders?  
 
 [Example Research Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-goals) 
