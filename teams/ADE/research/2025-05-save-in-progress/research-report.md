@@ -177,8 +177,6 @@ Brief description
 
 [Interview notes](./notes)
 
-[Interview notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/ADE/research/2025-05-save-in-progress/notes)
-
 
 ## Tools used for Synthesis
 [Synthesis spreadsheet](TBD)
@@ -194,7 +192,6 @@ Brief description
   <summary>First screen (Click to show screenshot)</summary>
 
   ![figma-mobile-first-top](./images/figma-mobile-first-top.png)
-  ![figma-mobile-first-middle](./images/figma-mobile-first-middle.png)
   ![figma-mobile-first-bottom](./images/figma-mobile-first-bottom.png)
   
 </details>
