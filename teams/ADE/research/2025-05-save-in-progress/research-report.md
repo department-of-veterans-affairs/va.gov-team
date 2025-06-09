@@ -147,7 +147,11 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
 
 
 **Finding 2:**  
-Brief description  
+Brief description
+it's hard to get people to see anything besides the form fields when they're focused on opening the form (while on intro page) and filling it out (while in the form).
+
+- Issue with screen readers not reading the information alert on the first form page because it's above the H1
+- Issue with screen magnifer: P2 didn't notice alert at top of form b/c focused on fields to fill out and didn't see that part of the screen (b/c magnification)
 - _Supporting data: Quote [add context]_  
 - _Supporting data: ![text](link - add image to github folder and link here with .png)_  
 
