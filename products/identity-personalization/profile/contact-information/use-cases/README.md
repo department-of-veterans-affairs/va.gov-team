@@ -110,16 +110,43 @@ The overall feature has no validation use cases. Specific address validation bel
 There are no flags with the overall feature. Specific address flags below.
 
 ### Errors
-- [Something has gone wrong and VA.gov can’t display any contact information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/system-cant-display-contact-info.md)
-- ### Save error: information can’t be saved
-* If we can’t write to the backend for any reason, a generic error message is displayed above the update button. ([Mock-up](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/a/kavrLvD))
-* If the save continues to fail, the user is returned to read mode with an error displayed in the section they attempted to edit. ([Mock-up](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0-461&mode=design&t=rqPFqCwnOiocoCbM-11))
+
+<details><summary>Backend system down</summary>
+
+- **Use case:** Cannot connect to the back end.
+- **Status code:** TBD
+- **Content:**
+
+H2: This page isn't available right now
+
+We’re sorry. Something went wrong on our end. Refresh this page or try again later.	
+
+- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
+- [Link to designs](https://www.figma.com/design/zb5ecY9yMnupiLjaH9UmSc/Profile---Military-Information?node-id=619-3634&t=iU7vARDUjgIJkIfo-1)
+- [Link to code]
+
+</details>
+
+
+<details><summary>Save error: information can’t be saved</summary>
+
+- **Use case:** If we can’t write to the backend for any reason, a generic error message is displayed under the section header.
+   - If the save continues to fail, the user is returned to read mode with an error displayed in the section they attempted to edit.
+- **Status code:** TBD
+- **Content:** See designs
+- **Format:** [Error alert component](https://design.va.gov/components/alert/#error-alert)
+- Link to designs
+   - Generic error message
+   - [Continue to fail error message](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=0-461&t=Fbas9uepDAVImVy2-1)
+- [Link to code]
+
+</details>
 
 
 ### Mailing and Home address section
 #### Validation
 - DONE [Home address is updated but does not match Mailing address](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/address-update-home-mailing-mismatch.md) 
-- [Address isn’t recognized as entered](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/address-validation.md)
+- [Address validation scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/address-validation.md)
 
 
 #### Flags 
