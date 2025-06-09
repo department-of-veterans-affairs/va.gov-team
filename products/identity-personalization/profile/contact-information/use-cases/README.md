@@ -60,6 +60,20 @@
 <details><summary>Saving information</summary>
 
 - **Use case:** Changes are saved once the user presses the Save button. Once the form is successfully saved, the user is returned to Read mode and a slim success alert should display below the section header.
+- **Status code:** TBD
+- **Content:** See designs
+- **Format:** See designs
+- Links to designs
+   - [Address]
+   - [Phone number]
+   - [Email address]
+
+</details>
+
+
+<details><summary>Removing information</summary>
+
+- **Use case:** Clicking the remove button will trigger a modal prompting the user to confirm they want to remove their information. All entered information can be removed, **other than mailing address.**
 - **Status code:** None
 - **Content:** See designs
 - **Format:** See designs
@@ -71,10 +85,6 @@
 </details>
 
 
-### Removing information
-- Clicking the remove button will trigger a modal prompting the user to confirm they want to remove their information
-- [Desktop mock-up, remove modal](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0-790&mode=design&t=rqPFqCwnOiocoCbM-11)
-- [Mobile mock-up, remove modal](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0-2&mode=design&t=rqPFqCwnOiocoCbM-11)
 
 ### Canceling changes
 * If a user has made changes to any form field, and hits cancel, they’ll first see the field validation message. This is a limitation of the form system.
