@@ -1,4 +1,4 @@
-# Display Intent to File (ITF) Status in CST Initiative
+# Design Pitch: Display Intent to File (ITF) Status in CST
 
 ## Links
 * [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110236)
@@ -12,7 +12,7 @@ However, if no claim is submitted in time, the ITF expires, and the Veteran may 
 ## Problem statement
 On VA.gov, Veterans have no clear or consistent way to verify whether they have an active Intent to File (ITF) or when it expires. Existing methods—such as calling VA, checking ITF letters, or starting a 526/0995 form online—are inefficient and disjointed. This lack of transparency could lead to confusion, missed benefits due to expired ITFs, or duplicate ITF filings.
 
-## Why is this important
+## Why is this an important problem to solve
 
 ITF plays a critical role in preserving the effective date for benefit claims. When Veterans are unsure about their ITF status, they risk unnecessarily losing out on retroactive compensation or filing duplicate ITFs. Improving visibility into this information empowers Veterans to take timely action, reduces dependency on support channels, and builds greater trust in VA.gov systems.
 
@@ -29,8 +29,6 @@ Display ITF status information directly within the Claims Status Tool (CST) for 
 * Higher rate of claims filed within the ITF window, preserving Veterans’ eligibility for backdated benefits
 
 ## User stories
-
-### In scope
 
 #### Story 1: Check my ITF status
 As a Veteran who may have already submitted an Intent to File (ITF),
@@ -53,56 +51,27 @@ As a Veteran who hasn’t submitted a claim yet, I want to learn how ITF works w
 #### Story 6: Get info as a dependent
 As a dependent of a Veteran, I want to check if there’s an active ITF related to my potential benefits (like DIC or survivors' pension), to understand where things stand and what deadlines I need to know.
 
-### Out of scope (future opportunities)
+## High-level user flow
+This user flow aims to illustrate the various ITF statuses, starting from the login process to the status check. It also begins to outline the actions and information related to these statuses and how they connect with the user stories we want to prioritize.
 
-#### Story 7: See one accurate status
-As a Veteran who may have submitted ITFs through different methods (online, phone, or VSO),
-I want one accurate and up-to-date status in the Claims Status Tool,
-So that I don’t get confused or try to submit extra ITFs by mistake.
+![Intent to File - CST_2025-06-09_05-00-55](https://github.com/user-attachments/assets/e57c957c-f2c2-4177-8fe3-81bf751a4b20)
 
-#### Story 8: Understand if my claim is connected to an ITF
-As a Veteran with a claim in progress,
-I want to know if it’s linked to an ITF and which one,
-So that I understand how the start date for payments will be determined.
+## Initial sketches 
 
-#### Story 9: Know my ITF went through
-As a Veteran who just submitted an ITF,
-I want to get a confirmation when it’s been received,
-So that I know it was recorded and my effective date is protected.
+### ITF card on MyVA
+This is where we began. The claim card pattern is currently used in the Benefit Applications and Forms section at the bottom of MyVA to display incomplete ITFs. While there are a few elements that may need updating, it was encouraging to see that we already have a foundation to build upon. 
+![CleanShot 2025-06-08 at 22 59 36@2x](https://github.com/user-attachments/assets/c649033e-97d2-4704-8a1e-ee5fdd01fca3)
 
-#### Story 10: Get a reminder before ITF expires
-As a Veteran with an active ITF,
-I want a reminder before it expires,
-So that I can act in time and avoid losing retroactive benefits.
-
-#### Story 11: See submission history
-As a Veteran who’s filed ITFs in the past,
-I want to view a list of my past ITF submissions and claim activity,
-So that I can keep track of my benefits journey over time.
-
-#### Story 12: Get help understanding ITF
-As a Veteran unfamiliar with ITFs,
-I want short, clear explanations or examples in the Claims Status Tool,
-So that I understand what an ITF is and why it matters.
-
-#### Story 13: Know if VA auto-submitted an ITF
-As a Veteran with an active ITF,
-I want a reminder before it expires,
-So that I can act in time and avoid losing retroactive benefits.
-
-#### Story 14: Understand what happens after claim submission
-As a Veteran who submitted a claim after filing an ITF,
-I want to know what happens to my ITF once my claim is submitted,
-So that I understand the full process and what to expect next.
+### ITF card layout and content
+We started exploring the empty state and the single active ITF because we felt that these represented the two most foundational experiences—the educational introduction for new users and the core functionality for Veterans with an existing ITF. These two scenarios likely cover most Veterans and do a great job establishing the fundamental design patterns and content framework we will extend to the other scenarios. [View in Figma](https://www.figma.com/design/EZ5o3pGj3hdXZCsjiKwZn5/Intent-to-File--in-CST-?node-id=97-1059&t=eqIhw8bstclAAPpO-1)
+<img width="1980" alt="ITF sketches V1" src="https://github.com/user-attachments/assets/d4748957-9331-42a6-b56b-654c17d55de1" />
 
 
-
-
-
-
-### Metrics
-### Open Questions
 ### Relevant background Information
+
+#### Functionality
+
+
 #### Types of ITFs
 * Standalone Intent to file (0966)
 * Disability compensation (526ez)
