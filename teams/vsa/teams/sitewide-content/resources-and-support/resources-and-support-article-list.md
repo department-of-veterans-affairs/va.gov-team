@@ -154,3 +154,4 @@
 | 152 | [What benefits can I get if I have an other than honorable discharge?](https://www.va.gov/resources/what-benefits-can-i-get-if-i-have-an-other-than-honorable-discharge/) | Health care | 4/16/25 |
 | 153 | [Caregiver support teams](https://www.va.gov/resources/caregiver-support-teams/) | Family and caregiver benefits | 5/28/25 |
 | 154 | [The Program of General Caregiver Support Services](https://www.va.gov/resources/the-program-of-general-caregiver-support-services/) | Family and caregiver benefits | 5/28/25 |
+| 154 | [How should I prepare for a video health appointment?](https://www.va.gov/resources/how-should-i-prepare-for-a-video-health-appointment/) | Health care | 6/9/25 |
