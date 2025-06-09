@@ -18,7 +18,8 @@
 ## May relaunch
 |Stage|Throughput|Error Rate: Form Submissions (422, 5xx)|Error Rate: Dashboard replies<br>(422, 5xx)|Error Rate:<br>Authorization Related<br>(401)|Error Rate:<br>Other<br>(404)|Latency: CRM|
 |---|---|---|---|---|---|---|
-|📍June 4, 6:00 am - June 6, 6:01 am |3796|0.18% (7)|018% (7)|0.34%|0%|AVG 1.20s|
+|📍June 6, 6:01 am - June 9, 6:00 am |2593|0.35% (9)|0%|0.35%|0%|AVG 1.16s|
+|June 4, 6:01 am - June 6, 6:00 am |3796|0.18% (7)|018% (7)|0.34%|0%|AVG 1.20s|
 |June 2, 6:01 am - June 4, 6:00 am |4326|0.33% (14)|0.15% (1)|1.13%|0.1%|AVG 1.20s|
 |May 30, 6:01 am – Jun 2, 6:00 am|2780|0.3% (9)|0.3% (1)|1.2%|~0%|AVG 2.61s|
 |May 29, 9:01 am – May 30, 9:00 am|1981|0.6% (12)|0.3% (1)|1.1%|0.01%|AVG 2.19s|
