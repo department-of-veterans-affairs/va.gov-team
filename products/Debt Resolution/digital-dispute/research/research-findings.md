@@ -217,3 +217,37 @@ Place true or false statements in bold for easier scanability
 **Maybe true** 
 
  
+## Key Findings
+
+Summarize the 5–10 most impactful findings from your study.
+
+  
+[Example Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)
+
+  
+
+### 1. Usability of the Debt Portal as a connected experience:
+
+> #### Overall, navigation and findability in the debt portal were excellent, regardless of prior familiarity with the debt portal interface. Participants understood the design elements on each page, they navigated between pages easily, and they found information easily.
+
+### 2. Usability of the Resources & Support page: navigation and content architecture were intuitive
+
+  
+> #### Overall, participants found the Resources & Support page easy to navigate, and they liked that all of the information needed to seek resolution was on one page. The overall page hierarchy was intuitive to participants. All participants expanded the accordion with no issues, and a few stated that they liked the use of accordions on the page.
+
+### 3. Overall, the ‘Disability compensation, pension, and GI Bill benefits’ section received mixed feedback.
+
+
+>#### Some sections were described as clear and helpful, while others sections were described as too vague to be useful or actionable. Findability of the dispute form was tested in this study, and participants could find this section easily. However, this option did not always apply to their situation.
+
+  
+ 
+
+### 4. Helpfulness and actionability of '[Rogers STEM Scholarship,](https://zyc78g.csb.app/help-options#rogers-stem-scholarship) [VET TEC program](https://zyc78g.csb.app/help-options#vet-tec-program), [Separation pay,](https://zyc78g.csb.app/help-options#separation-pay) [Attorney fees](https://zyc78g.csb.app/help-options#attorney-fees)' section
+
+>#### These section titles and the information under these sections: [Rogers STEM Scholarship,](https://zyc78g.csb.app/help-options#rogers-stem-scholarship) [VET TEC program](https://zyc78g.csb.app/help-options#vet-tec-program), [Separation pay,](https://zyc78g.csb.app/help-options#separation-pay) [Attorney fees](https://zyc78g.csb.app/help-options#attorney-fees) were too vague for participants to understand. They did not always make the connection between the section titles and the purpose of the page (find other ways to request help with other debts). The information underneath them was also too vague.
+
+
+### 5. The Dispute Form was easy and straightforward and participants had suggestions of features or improvements that could be added.
+
+### 6. Service Design Findings (mental models and past experiences resolving VBA overpayment debts - baseline): most participants described long, frustrating, experiences in attempting to resolve overpayments.
