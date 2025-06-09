@@ -4,7 +4,7 @@
 ## Links
 * [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110236)
 * [Mural]
-* [Figma](https://www.figma.com/design/EZ5o3pGj3hdXZCsjiKwZn5/Intent-to-File--in-CST-?node-id=0-1&t=tpKoQ6D3W5lYQMpR-1)
+* [Figma](https://www.figma.com/design/ZLDFINlvw5skb6ckTT9skw/Intent-to-File-in-CST-%C2%B7-BMT?node-id=201-192&t=z4CI7BMkcO58QHPb-1)
 
 ## Background
 An Intent to File (ITF) is a notice to the VA that a Veteran plans to file a benefits claim. Submitting an ITF protects the claim’s effective date for up to one year, meaning if the formal claim is filed within that year, any benefits awarded can be backdated to the ITF date.
@@ -84,7 +84,7 @@ This is where we began. The claim card pattern is currently used in the Benefit 
 ![CleanShot 2025-06-08 at 22 59 36@2x](https://github.com/user-attachments/assets/c649033e-97d2-4704-8a1e-ee5fdd01fca3)
 
 ### ITF card layout and content (Where we are now)
-We are currently exploring the empty state and the single active ITF because we felt that these represented the two most foundational experiences—the educational introduction for new users and the core functionality for Veterans with an existing ITF. These two scenarios likely cover most Veterans and do a great job establishing the fundamental design patterns and content framework we will extend to the other scenarios. [View in Figma](https://www.figma.com/design/EZ5o3pGj3hdXZCsjiKwZn5/Intent-to-File--in-CST-?node-id=97-1059&t=eqIhw8bstclAAPpO-1)
+We are currently exploring the empty state and the single active ITF because we felt that these represented the two most foundational experiences—the educational introduction for new users and the core functionality for Veterans with an existing ITF. These two scenarios likely cover most Veterans and do a great job establishing the fundamental design patterns and content framework we will extend to the other scenarios. [View in Figma](https://www.figma.com/design/ZLDFINlvw5skb6ckTT9skw/Intent-to-File-in-CST-%C2%B7-BMT?node-id=201-192&t=z4CI7BMkcO58QHPb-1)
 <img width="1980" alt="ITF sketches V1" src="https://github.com/user-attachments/assets/d4748957-9331-42a6-b56b-654c17d55de1" />
 
 ## Next steps
