@@ -1,6 +1,6 @@
 # Initiative outline: Delegate access MVP
 
-**Last Updated: April 22, 2025 -- Added legal questions**
+**Last Updated: June 9, 2025 -- Updated Overview and a number of other sections**
      
 ## POCs
 **Slack channel**: [#identity](https://dsva.slack.com/channels/identity); [#sign-in-experience](https://dsva.slack.com/channels/sign-in-experience)
@@ -15,9 +15,11 @@
   
 ## Overview
 
-VA recently retired its use of the My HealtheVet user ID and password (March 2025), and plans to retire its use of DS Logon after 9/30/2025. As such, VA is requiring all people to create an ID.me or Login.gov account if they want to manage their VA health care and benefits online.
+Prior to the My HealtheVet user ID and password sign-in transition, many caregivers would use their Veterans' MHV user ID and password to sign in and manage their health care. However, now that the MHV user ID and password has gone away, people who care for incapacitated individuals have lost access, as ID.me and Login.gov require that a person verify as themselves, and verifying on behalf of someone else is not allowed. 
 
-Both ID.me and Login.gov require that a person verify as themselves, and verifying on behalf of someone else is not allowed. As such, ID.me and Login.gov will not allow delegates to verify a credential for another person (ie. the veteran whom they care for), which means that delegates can not transition to ID.me or Login.gov as we are asking other users to do.
+In April, the OCTO Login and Identity team did some user research on caregivers to make sure that they do indeed need and expect online delegate access. Many folks were able to verify a Login.gov or ID.me credential for their Veteran and use that even if they technically aren't supposed to, and those who were not able to verify a modern credential did indeed lose access. When we initially talked to privacy/policy folks about this, they made it seem virtually impossible to help the latter group, and it seemed like the only path forward was through explicit consent. However, recent conversations with privacy/policy have been more fruitful, and we are hopeful we may be able to draw from the "analog" processes for tracking court-appointed guardians/health care POAs for people who are incapacitated.
+
+Recently, the OCC team has pointed to the fact that MyChart and other digital tools support online delegate access. While this is true, it's becoming clear that the technology is only able to support this functionality if a given hospital system has infrastructure in place to support delegate access both for people who are capable of giving explicit consent and for people who are incapacitated and need a legal guardian or health care POA. Going forward, it seems that the first step of this work is to figure out how VHA can support the infrastructure needed to track who is someone's health care POA or guardian in a way that is consumable by technology to make online delegate access possible.
 
 ### My HealtheVet delegate solution
 
