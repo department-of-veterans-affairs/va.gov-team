@@ -116,33 +116,27 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
 
 [Example Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)
 
-**1.** Most participants (9 of 11) **didn't know that their information was being saved automatically with every edit**.
+1. Most participants (9 of 11) **didn't know that their information was being saved automatically with every edit**.
+1. Most participants (x of 11) **didn't read either of the information alerts about saving**.
+1. 
 
-**2.** Finding two
 
-**3.** Finding three
-
-**4.** Finding four
-
-**5.** Finding five
-
-**6.** Finding six
-
-**7.** Finding seven
 
 
 ## Details of Findings 
 
 *Provide detailed descriptions and supporting evidence for each key finding.*  
 
-**Finding 1:** Most participants (9 of 11) didn't know that their information was being saved automatically with every edit.
-Most participants didn't know that the information they entered on the form was being saved. Some participants expected a notification if saving was happening, as one participant said that a social security form did, and another participant said that Microsoft Word says "Saving". They assumed that saving would happen after they clicked the "Finish later" or "Continue" button.
-- _Supporting data: Quote [add context]_  
-- _Supporting data: ![text](link - add image to github folder and link here with .png)_  
+**Finding 1: Most participants (9 of 11) didn't know that their information was being saved automatically with every edit.**
+- Most participants didn't know that the information they entered on the form was being saved, and most assumed that saving would happen after they clicked the "Finish later" (9 participants) or "Continue" button. 
+- Two participants said they expected a notification if saving was happening automatically, as one said that a social security form did, and another said that Microsoft Word does. 
+- More than half of the participants (6 of 11) were worried about the session timing out and losing the information they entered. 3 of these participants had they hoped their work would be saved but didn't know whether that would happen.
+> *"'Finish later' is like a contract that says this stuff's gonna be here when I come back" (p1).*
 
 **Finding 2:**  
 Brief description  
 - _Supporting data: Quote [add context]_  
+- _Supporting data: ![text](link - add image to github folder and link here with .png)_  
 
 ---
 
