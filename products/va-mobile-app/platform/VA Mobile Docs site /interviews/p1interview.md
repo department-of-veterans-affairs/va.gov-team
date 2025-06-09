@@ -59,7 +59,8 @@ It depends on what specifically I’m looking for. When I onboarded I read every
 - Reference platform documentation for back end, all in the same monolith, mobile is it’s own little module inside of the VETS API
 - Mobile is different, no where else to reference
 
-8. Anything else to mention? No, having an audit done yearly to update information. That’s been really frustrating for me, it says use Java 15, but I am running 17 I am so confused why is this not working, I don’t know. I feel bad bugging somebody about it. Here’s the doc site, yeah but I dont’ understand how it works. I feel like I’m pulling somebody from their duties to update.
+8. Anything else to mention? No, having an audit done yearly to update information.
+-That’s been really frustrating for me, it says use Java 15, but I am running 17 I am so confused why is this not working, I don’t know. I feel bad bugging somebody about it. Here’s the doc site, yeah but I dont’ understand how it works. I feel like I’m pulling somebody from their duties to update.
 
 - Works on the Travel Pay team, has been working with mobile for awhile. Yes and no, on the team as the mobile engineer. Just doing mobile, transitioned back to web, Everyone puts mobile down for awhile and picked it back up.
 
