@@ -198,18 +198,49 @@ Brief description
 
 
 ## Appendix
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/research/2025-05-save-in-progress/research-plan.md)
+[Research plan](./research-plan.md)
 
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/research/2025-05-save-in-progress/conversation-guide.md)
 
 [Interview notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/ADE/research/2025-05-save-in-progress/notes)
 
+[Interview notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/ADE/research/2025-05-save-in-progress/notes)
+
+
+
 
 ## Tools used for Synthesis
+[Synthesis spreadsheet](TBD)
 
-*List tools or techniques used, e.g., Mural, affinity mapping.*  
+[Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1746465528913/8de22b81ea78a8e67d167bb339abd845a820a519)
   
 ## Pages and applications used
+
+[Prototype](https://musical-space-goggles-7wxj74rqgvpfv9v-3001.app.github.dev/records/request-personal-records-form-20-10206/introduction?loggedIn=false)
+
+#### Screenshots of the prototype in Codespaces
+<details>
+  <summary>First screen (Click to show screenshot)</summary>
+
+  ![figma-mobile-first-top](./images/figma-mobile-first-top.png)
+  ![figma-mobile-first-middle](./images/figma-mobile-first-middle.png)
+  ![figma-mobile-first-bottom](./images/figma-mobile-first-bottom.png)
+  
+</details>
+
+<details>
+  <summary>Menu open (Click to show screenshot)</summary>
+
+  ![figma-mobile-menu](./images/figma-mobile-menu.png)
+  
+</details>
+
+<details>
+  <summary>Search open (Click to show screenshot)</summary>
+
+  ![figma-mobile-search](./images/figma-mobile-search.png)
+  
+</details>
 
 *Link to prototypes or pages tested during the study.*  
 
