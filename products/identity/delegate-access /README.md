@@ -92,8 +92,9 @@ The hole that seems to be missing is what we anecdotally heard during the MHV us
 - August 2024: MHV coordinators have been raising this problem repeatedly, and it is clear that retiring the MHV credential without considering how to support POAs would cause this group to not be able to manage their veterans' benefits.
 - September and October 2024: Oddball team conducted discovery and connected the guardian use case to the production user test case; IAM demo'd the delegate tool they built to OCTO and MHV.
 - November 2024: OCC seems onboard with extending the MHV username and password for guardians, giving us a short-term path to support these users before we have proper delegate access.
-- March 2025: Discovery resumes; Activity log work
-- April 2025: Discover interviews with caregivers
+- March 2025: Discovery resumes; Activity log work.
+- April 2025: Discover interviews with caregivers.
+- June 2025: Regrouped for a second time with privacy/policy and made progress talking about the "analog" process for tracking active health care POAs and court-appointed guardians.
 
 ## Backend
 
