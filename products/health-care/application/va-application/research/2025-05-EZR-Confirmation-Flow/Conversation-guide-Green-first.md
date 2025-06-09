@@ -219,13 +219,31 @@ In this scenario, you realized that one of your expense is incorrect. You had a 
 
 **[Review]**
 
-# Post-Task Interview - 5 minutes
+# Post-Task Interview - 10 minutes
 
-Thank you so much for going through the form with me. I have a couple of last questions before we wrap up.
+ I have a couple of last questions before we wrap up.
 
-- What were your overall thoughts about the two prototype we went over? Did you have a preference for one versus the other?
+- What were your overall thoughts about the two prototypes we went over? Did you have a preference for one versus the other?
 - Is there anything you'd change about the whole form if you could?
-- Do you have any questions for me?
+
+- I will now share screens and ask you to talk through a few different options. Figma Link:https://www.figma.com/design/tggcJk382w9yQ0ElwKfh3N/10-10EZR?node-id=9213-207108&t=7lOnW8Z83kMxXTCM-1
+
+**[Personal Info]**
+- Let’s take a look at these three options, each showing your personal information a different way. 
+Can you talk through your thoughts here? 
+Do you have a preference for which one you like best? And why?
+
+**[Marital Status]**
+- Let’s take a look at these two options. Do you have a preference for which one you like better? And why?
+
+**[Marital Status - destructive message]**
+- When you select a different marital status from what you have before, like from “married” to “divorced”, you get this message. 
+Can you explain to me what this message means to you?
+
+**[Financial Info]**
+- [If time permits, asked them to compare the two financial options side-by-side]
+
+- Thank you so much for going through the form with me. Do you have any questions for me?
 
 ## Consent to use video clips
 
