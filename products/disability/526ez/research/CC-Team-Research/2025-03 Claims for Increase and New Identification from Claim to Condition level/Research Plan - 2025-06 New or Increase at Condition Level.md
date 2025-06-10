@@ -22,7 +22,7 @@ This research focuses on addressing the new vs. increase problem. It also will a
 
 ### New flow
 
-The testing prototype introduces a new flow with the following main steps:
+The [testing prototype](https://staging.va.gov/user-testing/conditions) introduces a new flow with the following main steps:
 
 1. Choose to add a new condition  
 2. Select from a list of your previously rated conditions or indicate it’s a new condition  
