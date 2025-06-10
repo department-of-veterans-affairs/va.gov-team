@@ -4,14 +4,14 @@
 	
 `What problem is your product trying to solve?`
 
-Questions have arisen around where to put non-health information and tasks (including appointments, letters) on VA.gov. This study will specifically target transitioning service-members who are exiting or have recently exited the military and may need to access several things that don't have obvious placement on VA.gov: 
+Questions have arisen around where to put several non-health information and tasks (including appointments, letters) on VA.gov for caregivers and transitioning service-members. This study will specifically target transitioning service-members who are exiting or have recently exited the military and may need to access several things that don't have obvious placement on VA.gov
+
+**Examples:**
 * Finding information about a program called "Solid Start" and scheduling appointments with representatives who can connect them wtih services and benefits.
 * Scheduling C&P exams for disability compensation & pension
 * Accessing denial letters if denied community care appointments 
 
 We'd like to evaluate the best placement for these tasks by running a tree-test with a statistically significant sample of the population this affects (estimated to be roughly 58,000 people based on activity in the service-member hub during May 2025). Estimated number of Veterans who transition to civilian life each year is 200,000 ([source](https://discover.va.gov/transition-programs/transition-assistance-program/)). 
-
-We hope that information from this study can also inform broader questions around where to put non-health appointment information on VA.gov for disability compensation (C&P exams) and for caregivers and family members as well. 
   
 `Where is your product situated on VA.gov? (ex: auth vs. unauth)`
 
@@ -19,7 +19,7 @@ Auth.
   
 `What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?`
 
-Varies by product. The Solid Start program was created in December 2019, but is not integrated into VA.gov at this time. We are evaluating where to put this information in hopes to add it soon.
+Varies by product. There are 7 tasks we hope to have participants complete in this study, and each have a different level of visibility / Veteran familiarity. 
 
 `Product Brief`
 
@@ -50,33 +50,26 @@ Are there moments that matter?
 
 ### Goals
 
-`1.` **Where should non-health appointments live on VA.gov?**
+`1.` Gain an understanding of where transitioning service-members expect to find tools, information, and resources related to onboarding with and managing VA benefits. 
 
-`2.` **Where will transtioning service-members look for information about the Solid Start program on VA.gov?**
-
-`3.` **[Enter answer here]** 
+`2.` Better understand where VA should place non-health related apppointments in the site architecture. 
   
 ### Outcome
 `How will this research advance your product to the next phase in the design process? What will you do with your learnings?`
 
 ---
 
-**Transitioning service-members will be able to more easily find specific resources, tools, or services on VA.gov; and specifically information about the Solid Start program.** 
+**Transitioning service-members will be able to more easily find specific resources, tools, or services on VA.gov; and specifically information that helps them onboard with and manage benefits with the VA.** 
 
 ---
 
 ### Research questions
-
-**`1.`Where should VA.gov surface scheduling for claims exams, as well as for viewing or managing said appointment?**
-
-**`2.`Where should VA.gov surface appointments, including managing and viewing said appointments, for Veterans in their first year out of service scheduling with Solid Start?**
-
-**`3.`Where should VA.gov surface denial letters to Veterans who were denied Community Care?**
-
-**`4.`Other Mikki tasks**
-
-**`5.`[Enter Q5]**
-
+**`1.`Where should VA.gov surface non-health appointments, including managing and viewing said appointments, for Veterans in their first year out of service?**
+**`2.`Where should VA.gov surface denial letters to Veterans who were denied Community Care?**
+**`3.`Where will transitioning service-members expect to find a copy of letters from their military service?`**
+**`4.`Where will transitioning service-members expect to go to release educational records from VA to the college they plan to attend using educational benefits?`**
+**`5.`Where will transitioning service-members expect to go update dependents related to their disability payments?`**
+**`6.`Where will transitioning service-members expect find status updates on VA home improvement grant applications?`**
   
 ## Methodology  🛠️
 ***Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design.*** 
@@ -95,15 +88,17 @@ Data collection will be remote and conducted using Optimal Workshop's Tree Test 
 
 **For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html)**
 - [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
+- [Link to prototype or OptimalSort session](url goes here)
 
 	
 ## Recruitment 🎯	
 *OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers.*
 
 ### Recruitment approach
-Veterans or caregivers. Intentionally open so recruitment can go faster. Will go through Perigean. 
+-Transitioning service-members; and 
+- Veterans who have separated within the last 4 years and also have no benefits.
+
+Intentionally open so recruitment can go faster. Will go through Perigean. 
 
 ### Recruitment criteria
 
@@ -111,16 +106,9 @@ Veterans or caregivers. Intentionally open so recruitment can go faster. Will go
 - Consider providing links to products and/or clear descriptions to ensure participants understand the question.
   Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
 
-- The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria.
-- Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria.
-- Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Review an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/pre-mhv-prototype/generative-research-study-1/2020-12.research-plan1.md)
-
 ### List the ideal completed sessions and total number and type (Veterans, caregivers, etc.) of participants for this study:
-> [!NOTE]
-> Your total number should equal **1.5x** your ideal completed sessions number *(e.g. for 10 ideal completed sessions, request 15 total participants)*
 
-
-- `Veterans:` **576**
+- `Veterans:` **384**
 - `Caregivers:` **0**
 - `Dependents:` **0**
 - `Total:` **0**
@@ -129,18 +117,13 @@ Veterans or caregivers. Intentionally open so recruitment can go faster. Will go
 ### Primary criteria (must-haves)
 *What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
 
-- `[Place primary criteria here between hash marks when in edit mode]`
-- `primary criteria`
-- `primary criteria`
-- **`Add more criteria as needed`**
+- `Transitioning service-members (any) who have not yet left the military` AND
+- `Veterans who don't currently receive any VA benefits`
 
 #### Secondary criteria (nice-to-haves)
 *What criteria would strengthen your results?* 
+- `Veterans who have separated within the last 4 years`
 
-- `[Place secondary criteria here between hash marks when in edit mode]`
-- `secondary criteria`
-- `secondary criteria`
-- **`Add more criteria as needed`**
 
 ## Timeline 🗓️
 > [!NOTE]
@@ -161,32 +144,19 @@ Veterans or caregivers. Intentionally open so recruitment can go faster. Will go
 - `Date and time of pilot session:` **[Enter time]** 
 
 ### Research sessions
-- `Planned dates of research:` **[Enter dates MM/DD-MM/DD]**
+- `Planned dates of research:` **06/13/2025 start date. Will run for 4+ weeks or until we reach the completed session target number of 384**
 
 ### Length of sessions
-- `Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)` **[Enter time length]**
+- `Session length:` **20 minutes**
   
-- `Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time)` **[Enter buffer time]**
+- `Buffer time between sessions:` **N/A**
   
-- `Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)` **[Enter NUM per day]**
+- `Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)` **No maximum - this session is unmoderated, N/A**
 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
 
-> [!NOTE]
-> We recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S. 
-
-> [!TIP]
-> Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. **(e.g. 3/17, Monday 9:00AM-1:00PM, 3:00PM-6:00PM EST; 3/18, Tuesday 9:00AM-6:00PM EST, etc.;** ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
->
-> **Place time slots between `hash marks` when in edit mode.**
-
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `Add more slots as needed`
+**N/A - test can be taken asyncronously and is unmoderated.** 
   
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
@@ -195,17 +165,13 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 >
 > **Please list the names of people in each role.** In the Slack study channel, send an email and primary phone number for the moderator. Also send emails for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
 
-- `Moderator:` **[Enter full name]**	
-- `Research guide writing and task development (usually but not always same as moderator):` **[Enter full name]**		
-- `Participant recruiting & screening:`	**[Enter full name]**	
-- `Project point of contact:` **[Enter full name]**		
-- `Accessibility specialist (for sessions where support for assistive technology may be needed):` **[Enter full name]**	
-- `Note-takers:` **[Enter full name]** ***or*** **[Designate Perigean]**	
-- `Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work. Spread observers across sessions. There should be no more than 5 to 6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side.`
-
-- **[Enter full name]**
-- **[Enter full name]**
-- **[Enter full name]**
+- `Moderator:` **Sara Sterkenburg**	
+- `Research guide writing and task development (usually but not always same as moderator):` **Sara Sterkenburg**		
+- `Participant recruiting & screening:`	**Athena Perez**	
+- `Project point of contact:` **Sara Sterkenburg, Robyn Singleton, Mikki Northuis**		
+- `Accessibility specialist (for sessions where support for assistive technology may be needed):` **N/A**	
+- `Note-takers:` **N/A**	
+- `Observers:` **N/A**
 
 ## Approvals ✅
 - `Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]`
