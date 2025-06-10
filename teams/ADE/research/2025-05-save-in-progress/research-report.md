@@ -128,19 +128,15 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
 *Provide detailed descriptions and supporting evidence for each key finding.*  
 
 **Finding 1: Most participants (9 of 11) didn't know that their information was being saved automatically with every edit.**
-- Most participants didn't know that the information they entered on the form was being saved and  assumed that saving would happen after they clicked the "Finish later" (9 participants) or "Continue" button (7 participants). 
-  > *"I don't think you know it's gonna...automatically save or not" (p4)*.
-  
+- Most participants hoped or assumed that saving would happen after they clicked the "Finish later" (9 participants) or "Continue" button (7 participants). 
   > *"I don't remember reading anything that said your information is saved as you go, but that's usually what 'Continue' does" (p1)*.
 
   > "*'Finish later' is like a contract that says this stuff's gonna be here when I come back" (p1).*
-
-
-
-
 - More than half of the participants (6 of 11) made assumptions about saving based on their previous experience with forms, not because of anything in the prototype.
+  > *"I don't think you know it's gonna...automatically save or not" (p4)*.
+
   > *"In my experience, because I didn't manually request it to save, it doesn't save anything" (p11)*. 
-- More than half of the participants (6 of 11) were worried about the session timing out and losing the information they entered. 3 of these participants hoped their work would be saved--one based on previous experience with VA forms--but didn't know whether that would happen.
+- More than half of the participants (6 of 11) were worried about their session timing out and losing the information they entered. 3 of these participants hoped their work would be saved--one based on previous experience with VA forms--but didn't know whether that would happen.
 - Some participants (4 of 11) wondered if their information would be saved if they logged out and then came back later. A couple participants tested this during their research session.
 - Two participants said they expected a notification if saving was happening automatically, as one said that a social security form did, and another said that Microsoft Word does. 
 
