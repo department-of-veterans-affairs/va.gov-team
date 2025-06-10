@@ -20,8 +20,7 @@ Notes:
   - Beneficiary claims processing is very difficult. Most of that has to do with the very  strict business requirements.  
   - 60/40 Provider/Beneficiary calls breakdown. 
    - For enrollments and applications, status is also an  important thing. The enrollment team has to check 5 different systems to complete their job. 
-   - Due to the manual process of sending letters, it causes the call center fill out OHI form on the phone and submitting to the the enrollment team. This also takes a lot of phone
-   time, causing others to wait longer. Is the Medicare card is really
-   required?
+   - Due to the manual process of sending letters, applicants will call to get claim status even though a request for OHI has alread been sent.   The call center will actually fill out OHI form on the phone and submit it to the enrollment team clogging up the phone lines. 
+  - Is the Medicare card is really required?
 
 <img width="216" alt="image" src="https://github.com/user-attachments/assets/5ed33886-926f-40a5-b0f9-48ec4bd785f7" />
