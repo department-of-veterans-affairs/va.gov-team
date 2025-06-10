@@ -86,6 +86,57 @@ We can’t confirm the address you entered with the U.S Postal Service. Confirm 
 
 </details>
 
+
+<details><summary>NO_SUGGESTIONS_NO_OVERRIDE | TBD</summary>
+
+- **Use case:** TBD
+- **Status code:** TBD
+- **Content:**
+
+Header: This address you entered is invalid
+
+We can’t confirm the address you entered with the U.S. Postal Service. You’ll need to go back to edit it.
+
+- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
+- [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=2708-19107&t=7PiDyTPNkTF1dSq9-1)
+- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/4b1cb7be2bc1df72d166a85aa88b683ef6b840c8/src/platform/user/profile/vap-svc/constants/addressValidationMessages.js#L60)
+
+</details>
+
+
+<details><summary>SHOW_SUGGESTIONS_NO_OVERRIDE | TBD</summary>
+
+- **Use case:** TBD
+- **Status code:** TBD
+- **Content:**
+
+Header: We can’t confirm the address you entered with the U.S. Postal Service
+
+We can use the suggested address we found. Or, you can go back to edit the address you entered.
+
+- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
+- [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=2708-19106&t=7PiDyTPNkTF1dSq9-1)
+- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/4b1cb7be2bc1df72d166a85aa88b683ef6b840c8/src/platform/user/profile/vap-svc/constants/addressValidationMessages.js#L69)
+
+</details>
+
+
+<details><summary>VALIDATION_ERROR | TBD</summary>
+
+- **Use case:** TBD
+- **Status code:** TBD
+- **Content:**
+
+Header: We couldn’t verify your address
+
+We can’t deliver your VA mail to this address because we can’t confirm it with the U.S. Postal Service. Try editing it.
+
+- **Format:** [Error alert component](https://design.va.gov/components/alert/#error-alert)
+- [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=2708-19108&t=7PiDyTPNkTF1dSq9-1)
+- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/4b1cb7be2bc1df72d166a85aa88b683ef6b840c8/src/platform/user/profile/vap-svc/constants/addressValidationMessages.js#L79)
+
+</details>
+
 ---
 
 <details><summary>Archive | Contact information: address not recognized as entered, February 2024</summary>
