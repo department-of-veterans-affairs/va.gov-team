@@ -15,7 +15,7 @@ If a Veteran’s dependent applying for Chapter 35 benefits cannot verify their 
 
 ## **Guidance for Affected Users**
 
-According to AskVA guidance, if the dependent of a veteran is unable to verify when applying for Chapter 35 benefits they can follow the following process:
+According to AskVA guidance, if the dependent of a Veteran is unable to verify when applying for Chapter 35 benefits they can follow the following process:
 
 1. Regarding applying for education, please visit: https://www.va.gov/education/how-to-apply/   
 2. Scroll down and select Apply for education benefits then answer the questions provided.  
