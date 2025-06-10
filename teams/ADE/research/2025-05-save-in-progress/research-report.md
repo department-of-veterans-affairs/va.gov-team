@@ -129,7 +129,7 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
 
 **Finding 1: Most participants (9 of 11) didn't know that their information was being saved automatically with every edit.**
 - 5 of 11 participants said that they wanted their information to be saved automatically with every edit.
-  > *"I'm hoping it's saving constantly like [Microsoft] Word does, every so many seconds" (p5)*.
+  > *"I'm hoping it's saving constantly like [Microsoft] Word does every so many seconds" (p5)*.
 - Most participants hoped or assumed that saving would happen after they clicked the "Finish later" (9 participants) or "Continue" button (7 participants). 
   > *"I don't remember reading anything that said your information is saved as you go, but that's usually what 'Continue' does" (p1)*.
 
@@ -171,7 +171,9 @@ it's hard to get people to see anything besides the form fields when they're foc
 
 
 ## Recommendations
-1. **We're saving automatically with every edit like people want, but we're not communicating this effectively**. We want users of our forms to be confident that their data is being saved as they enter it. Consider brainstorming ways to display periodic "saving" messages without being too intrusive for both sighted and AT users.
+1. Consider **brainstorming how to display better communicate that we're saving all information as it's being entered**. Such messages should be better integrated into the user's interactions with the form and be accessible to AT users.
+    - *Supporting evidence:* We're saving automatically with every edit, which participants asked for, but most didn't realize that was happening.
+
 
 *Summarize actionable recommendations based on findings.*  
 
