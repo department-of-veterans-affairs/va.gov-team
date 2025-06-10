@@ -106,8 +106,8 @@ Our findings will indicate if we need to refine the confirmation pattern and gra
   - Task 3: Edit an error in your spouse’s financial information
 
 Note that after the spouse section, users will fork for A/B testing of the proposed confirmation flow and MVP experience:
- - Cohort A will see Option A first, called Prototype COLOR [Existing version of the Financial Information, moderator provides last year’s financial information]
- - Cohort B will see Option B first, called Prototype COLOR [Confirmation Flow version with the gray box reference, moderator does not provide last year’s financial information]	
+ - Cohort A will see Option A first, called Prototype Green [Existing version of the Financial Information, moderator provides last year’s financial information]
+ - Cohort B will see Option B first, called Prototype Red [Confirmation Flow version with the gray box reference, moderator does not provide last year’s financial information]	
 
 ### Location
 
@@ -120,9 +120,8 @@ Note that after the spouse section, users will fork for A/B testing of the propo
 **For moderated usability tests:** 
 	
 - [Conversation guide - Green prototype first](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2025-05-EZR-Confirmation-Flow/Conversation-guide-Green-first.md)
-- [Green prototype (Figma)](LINK)
 - [Conversation guide - Red prototype first](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2025-05-EZR-Confirmation-Flow/Conversation-guide-Red-first.md)
-- [Red prototype (Figma)](LINK)
+- [Green/Red prototypes (Figma)](https://www.figma.com/design/tggcJk382w9yQ0ElwKfh3N/10-10EZR?node-id=8394-119188&t=ATgHJfUakpUORQbc-4)
 	
 ## Recruitment 🎯	
 
