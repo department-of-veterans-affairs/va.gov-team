@@ -10,15 +10,15 @@ Hieu Vo and Renata Keck
 ## Background 🏗️
 The Health Benefit Update Form (10- 10EZR) is an online version of the paper form, which is used to update personal, insurance, and financial information for Veterans currently enrolled in health care benefits. Most commonly, this includes annual updates, including dependent information or income information for those Veterans who are placed in a Priority Group that requires this.
 
-While [previous research and Veteran mental models](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/2023-06-Priority%20Group%20and%20Financial%20Disclosure) indicate a preference for single-task updates, such as only updating personal information or insurance information, processing the online form requires a level of paper parity. This balance between business needs and user wants has driven many of the iterations of the form to reduce the cognitive burdens by personalizing the user experience, pre-filling information, and refining content to set the Veteran’s expectation.	
+While [previous research and Veteran mental models](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/2023-06-Priority%20Group%20and%20Financial%20Disclosure) indicate a preference for single-task updates, such as only updating personal information or insurance information, processing the online form requires a level of paper parity. This balance between business needs and user wants has driven many of the iterations of the form to reduce the cognitive burdens by personalizing the user experience, pre-filling information, and refining content to set the Veteran’s expectations.	
 
 `What problem is your product trying to solve?`
 
-The primary use of the EZR is for Veterans to update their household financial information. In the latest iteration, we pushed for two major updates to reduce the time and cognitive burden spent by Veterans on the form. 
+The primary use of the 10-10EZR is for Veterans to update their household financial information. In the latest iteration, we pushed for two major updates to reduce the time and cognitive burden spent by Veterans on the form. 
 
-First, we’re placing all three sub-sections (Spouse Information, Dependent Information, and Financial Information) into List&Loop components (also known as multiple response components or array builder). In doing so, we believe Veterans will save time by only confirming their prefilled information before moving on to the next section.
+1. We’re placing all three sub-sections of the Household Information section (Spouse Information, Dependent Information, and Financial Information) into List&Loop components (also known as [multiple responses pattern, or array builder](https://design.va.gov/patterns/ask-users-for/multiple-responses)). In doing so, we believe Veterans will save time by only confirming their prefilled information before moving on to the next section.
 
-And secondly, we included a Gray Box component that referenced any prior financial information the Veteran may have provided. This will allow them to use the previous year as a reference without prefilling that financial number in the input field, increasing the chance of an error.
+2. On the Annual Income screen, we included a [gray card component](https://design.va.gov/components/card) to display any prior financial information the Veteran may have provided. This will allow them to reference the previous year as a reference without prefilling that income in the input field. We assume that the absence of prefill and a reference card on this page will decrease error and reduce time on page while Veterans search for their financial information. 
   
 `Where is your product situated on VA.gov? (ex: auth vs. unauth)`
 
@@ -78,16 +78,16 @@ This product fits into the [Veteran journey](https://github.com/department-of-ve
 `What are you trying to learn from this research?` 
 
 ### Goals
-**Goal 1: Spouse Information:** Test the usability of the spouse information section to see if the Veterans follow the conditional logic, what information can be updated, and whether the information presented is comprehensible.
+**Goal 1: Spouse Information:** Test the usability of the spouse information section to see if the Veterans follow the conditional logic, understand what information can be updated, and whether the information presented is comprehensible.
 
-**Goal 2: Confirmation Flow:** Validate that the confirmation flow (Option B), using the List&Loop component, is more efficient than the existing MVP approach (Option A).
+**Goal 2: Confirmation Flow:** Validate that Veterans prefer the confirmation flow (Option B), using the List&Loop component, because it is more efficient than the existing MVP approach (Option A).
 
-**Goal 3: Gray Box Reference:** Understand how the Veterans expect the previous year’s data to be prefilled, and do they understand the hierarchy of the information.
+**Goal 3: Gray Reference Card:** Understand how the Veterans expect the previous year’s financial data to be prefilled, and whether they understand the hierarchy of the information on financial reporting screens.
   
 ### Outcome
 `How will this research advance your product to the next phase in the design process? What will you do with your learnings?`
 
-Our findings will indicate if we need to refine the pattern and if we can move forward with updating the rest of the form using this pattern.
+Our findings will indicate if we need to refine the confirmation pattern and gray reference card component, and whether we can move forward with updating the rest of the form to match.
 
 ---
 
@@ -105,30 +105,29 @@ Our findings will indicate if we need to refine the pattern and if we can move f
 - Do users understand their income reporting requirements based on the content? 
 
 
-**Goal 3: Gray Box Reference:** Understand how the Veterans expect the previous year’s data to be prefilled, and do they understand the hierarchy of the information.
+**Goal 3: Gray Reference Card:** Understand how the Veterans expect the previous year’s data to be prefilled, and do they understand the hierarchy of the information.
 
-- Do users find referencing last year’s income helpful in completing their updates?
+- Do users find referencing last year’s income helpful in updating their financial information?
 - Does this feature reduce mental effort?
 - Do users trust the accuracy of the data?
 
 
-
-### Hypothesis
+### Hypotheses
 
 - The participant will understand the Spouse Information and Financial Information shown in the List&Loop’s review page.
-- The participant may require additional time to comprehend the gray-referenced box component.
-- The participant will prefer the Confirmation Flow (Option B) over the existing (Option A).
+- The participant will prefer the Confirmation Flow (Option B) over the existing MVP flow (Option A).
+- The participant may require additional time to comprehend the gray reference card component.
   
 ## Methodology  🛠️
 
 - Flows to be mocked up using Figma.
 - The participants will use the think-aloud format
-- It is a semi-structured interview where we will direct the participants to complete [3] tasks.
+- It is a semi-structured interview where we will direct the participants to complete [3] tasks:
   - Task 1: updating spouse's address.
   - Task 2: Fill out your previous year’s financial information.
   - Task 3: Edit an error in your spouse’s financial information.
 - The first section is a usability test of the Spouse Information.
-- The second section is a fork for A/B testing..
+- The second section is a fork for A/B testing:
  - Cohort A will see Option A first [Existing version of the Financial Information, moderator provides last year’s financial information]
  - Cohort B will see Option B first [Confirmation Flow version with the gray box reference, moderator does not provide last year’s financial information]	
 
@@ -139,12 +138,7 @@ Where will you be holding the research sessions? Be sure to include whether this
 - [ ] **In-person**
 
 
-## Research materials 📔
-
-> [!NOTE]
-> **Your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.**
-
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
+## Research materials 📔 
 
 **For moderated usability tests:** 
 	
@@ -159,16 +153,6 @@ Our intended audience for this research are Veterans and we will be using and le
 
 ### Recruitment criteria
 
-> [!NOTE]
-> - **Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants.**
-> - Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
-
-> [!TIP]
-> - The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria.
-> - Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria.
-> - Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Review an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/pre-mhv-prototype/generative-research-study-1/2020-12.research-plan1.md)
-
 **List the total number and type (Veterans, caregivers, etc.) of participants for this study:**
 
 - `Veterans:` **[10]**
@@ -177,7 +161,6 @@ Our intended audience for this research are Veterans and we will be using and le
 - `Total:` **[10]**
 
 ### Primary criteria (must-haves)
-*What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
 
 - All must be currently enrolled in VA health care benefits
 - Diverse mix of age ranges, no more than 2 per age group
