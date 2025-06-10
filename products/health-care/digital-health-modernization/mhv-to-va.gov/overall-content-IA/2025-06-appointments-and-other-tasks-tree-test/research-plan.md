@@ -132,17 +132,16 @@ Intentionally open so recruitment can go faster. Will go through Perigean.
 
 ### Optional Kick-off Call with Perigean
 
-- `Suggested dates and times:` **[Enter dates and times MM/DD HH:MM]**
+- `Suggested dates and times:` **N/A - do not need a kickoff call**
 
 ### Prepare
-*When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).*
 
 **A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.** 
 > [!NOTE]
 > **Send pilot participant email in study Slack channel**
 
-- `Pilot participant name:` **[Enter name]**
-- `Date and time of pilot session:` **[Enter time]** 
+- `Pilot participant name:` **We will pilot the study in preview mode with a few members of the Cartography team or broader My HealtheVet to check for comprehension and functionality prior to launch.**
+- `Date and time of pilot session:` **06/16/2025**
 
 ### Research sessions
 - `Planned dates of research:` **06/13/2025 start date. Will run for 4+ weeks or until we reach the completed session target number of 384**
