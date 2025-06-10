@@ -124,7 +124,7 @@ Before we look at the prototype, let’s start with a few warm-up questions.
 
 Information to be provided to participant, via chat: 
 
-> For this scenario, you and your spouse’s work and salary has not changed from 2023 to 2024.
+> For this scenario, you and your spouse’s work and salary have not changed from 2023 to 2024.
 >
 > 
 > Here is your financial information:
@@ -163,18 +163,22 @@ Information to be provided to participant, via chat:
 
 **[Deductible Expenses]**
 
-- [After they get to the bottom of the page] Okay lets pause here for a few questions:
+- [After they get to the bottom of the page] Okay, let's pause here for a few questions:
 
 - Was there any part that was confusing to you?
 - On a scale of 1-5 (1 being very easy and 5 being very hard) - how difficult would it be for you to complete this financial information if you were doing this with your real information?
 - Why did you give it that rating?
-- Do you have any suggestions or feedback for making the page and update process better?
+- Do you have any suggestions or feedback for making the page and the update process better?
 
 **[Review]**
 - [Did they catch the error?]
-In this scenario, you realized that one of your expense is incorrect. You had a big out-of-pocket dental operation last year of $3000. How would you fix that error?
+In this scenario, you realized that one of your expenses is incorrect. You had a big out-of-pocket dental operation last year of $3000. How would you fix that error?
 
-- [Instruct them to click ‘End Demo” button to back back to the Start Form screen]
+- On a difficulty scale of 1-5 (1 being very easy and 5 being very hard) - how would you rate the form you just went through? Why did you give it that rating? 
+
+- On an efficiency scale of 1-5 (1 being efficient and 5 being very inefficient) - How would you rate the form you just went through? Why did you give it that rating?
+
+- [Instruct them to click ‘End Demo” button to go back to the Start Form screen]
 
 ## RED SECOND - 7 minutes
 
@@ -214,10 +218,13 @@ In this scenario, you realized that one of your expense is incorrect. You had a 
 - On a scale of 1-5 (1 being very easy and 5 being very hard) - how hard would it be for you to complete this financial information if you were doing this with your real information?
 - Why did you give it that rating? 
 
-- Did you find the gray box referencing the previous financial informational helpful?
+- Did you find the gray box referencing the previous financial information helpful?
 - In this scenario, the expense is also incorrect. Would this screen make it easier to catch?
 
 **[Review]**
+
+- On a difficulty scale of 1-5 (1 being very easy and 5 being very hard) - how would you rate the form you just went through? Why did you give it that rating? 
+- On an efficiency scale of 1-5 (1 being very efficient and 5 being very inefficient) - How would you rate the form you just went through? Why did you give it that rating?
 
 # Post-Task Interview - 10 minutes
 
