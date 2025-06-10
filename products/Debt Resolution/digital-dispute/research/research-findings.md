@@ -634,4 +634,632 @@ Quotes:
   
 
 >”I would say again.like, maybe you know how like on the other page it said, ‘you have one one year to 30 days’, and the one year was highlighted or bold, and the 30 days was bold. I would say, ‘you'll need to continue making payments’ would be bold, and then ‘we'll mail you a letter’ would be bold.” -P17
+
+
+##   Accessibility Findings, N = 2
+
+
+P11 - 2 years experience with VoiceOver and mouse, MacBook, sighted
+
+P13 - An experienced VoiceOver (iOS) user who is totally blind on iPhone
+
+
+### Positive insights - what worked well for both AT participants: 
+
+#### Comprehension
+
+-   Both participants described the pages as self-explanatory and easy to understand.
+    
+-   Information such as how to dispute a debt, request help, or contact support was clear
+    
+-   Links were easy to identify and navigate using VoiceOver
+    
+-   Key elements like accordions and form fields worked and were announced correctly with VoiceOver.
+    
+-   Both participants had clear understanding that the “+, plus sign” expanded the accordion with related information.
+    
+
+  
+
+#### Usability
+
+-   Both participants found the Dispute Your Debt form easy to follow and complete.
+    
+-   Progress indicators like “Step 2 of 4” were helpful for orientation.
+    
+-   Fields had appropriate labels and logical flow.
+    
+
+  
+
+#### Consistency and Standards
+
+-   Participants noted that the layout was consistent with other VA.gov pages, making it familiar and predictable.
+    
+-   Content followed a logical progression, which made it easy to navigate
+    
+-   Users prefer long, scrollable pages over multiple clicks/hyperlinks, especially with screen reader interaction.
+    
+
+### Finding 1:  One beginner VO participant had a preference for fewer external windows
+
+  
+
+*Supporting data:*  
+    
+
+-   P11 expressed a general preference for fewer external windows when clicking on links, to avoid disconnected interactions:
+    
+
+  
+
+-   P11 did not directly call this out, but described the experience of trying to interact with various links as “choppy,” and expressed a general preference for fewer external windows when clicking on links, to avoid disconnected interactions
+    
+
+  
+
+### Finding 2:  One beginner VO participant had difficulty managing the verbosity of his screenreader when reviewing the prototype
+
+  
+
+P11 -
+
+*Supporting data*
+    
+
+-   “It would be nice to select what you want instead of it reading all of it. It seems to be reading more than typical.”
+    
+
+  
+
+*Supporting data*
+    
+
+-   VoiceOver may be reading entire sections or full paragraphs by default rather than just the item in focus.
+    
+-   The team’s accessibility expert identified the issue and helped the participant troubleshoot this issue during the session.
+    
+
+### Finding 3:  Disconnected or Redundant Information
+
+Too many steps/pages to get to the actual form; information is fragmented, which can be frustrating for assistive tech users.
+
+  
+
+-   Supporting data: “Why not have the form right here under the paragraph… The same type of information should be on the same page.” - P11
+    
+*Supporting data* 
+    
+
+-   Both participants encountered some issues where information felt repetitive, disconnected, or unnecessarily spread out, especially in the Dispute Your Debt form experience.
+    
+-   P11 noted redundancy when selecting a dispute reason and then being asked to type the same explanation again on the text field.
+    
+-   P11 suggested putting the dispute form directly under the explanation paragraph to avoid making users jump to a new section or page.
+    
+
+**Recommendation:**
+
+-   Minimize the number of navigation steps to reach actionable content.
+    
+-   Group related and connected information on one page where possible
+    
+
+## Recommendations
+
+Summarize actionable recommendations based on findings.
+
+  
+
+1.  Recommendation, R&S page:
+    
+
+- Adding more context under the section titles for clarity
+    
+-   Add the word "debt" next to appropriate section titles for additional clarity, ***example: Rogers STEM Scholarship Debt***
+    
+
+  
+
+2.  Recommendation, R&S page: 
+
+- Add additional context to more than 5 years ago/ less than 5 years ago sections
+    
+-   Supporting evidence: Finding 4
+    
+
+  
+
+3.  Recommendation: Dispute form 
+
+- “Tell us why you're disputing this debt” page should have additional context and examples to help Veterans understand what information should be shared.
+    
+
+  
+
+4.  Recommendation: Dispute form: 
+
+- Implement a way to upload documents
+    
+
+  
+
+5.  Recommendation: Dispute form
+
+- Add edit buttons that take users back into the form on the Review page.
+    
+-   Edit buttons were not available on the prototype but will be available on production when the dispute form launches.
+    
+
+  
+
+## Product User and Business Outcomes
+
+Explain how findings and recommendations align with the product's goals.
+
+Note
+
+Refer back to your Product Outline.
+
+  
+
+### [Digital Dispute](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/digital-dispute/product-outline.md)
+
+  
+
+**User Outcomes**
+
+  
+
+-   Ability to dispute either the existence or amount of a VA Debt
+    
+-   Easy access to user-friendly process with clear instructions and minimal and simple input required from user.
+    
+-   Clear understanding of timelines and next steps in the dispute process
+    
+-   Ability to submit a written statement to present their individual situation and reasoning for disputing the debt.
+    
+-   Receives an email confirmation of their debt dispute submission.
+    
+
+  
+
+	-   This research supports our desired user outcomes by confirming that the Digital Dispute form that we designed is user friendly, with clear instructions, and simple, based on participants interviewed in this study.
+    
+	-   The statement page was user friendly and only copy refinements are needed to help provide guidance on what kind of information Veterans should include.
+    
+	-   The timeline and next steps in the dispute process were clear to participants.
+    
+
+  
+
+**Business Outcomes**
+
+  
+
+-   Simplify and streamlined process for receiving debt disputes from Veterans.
+    
+-   Achieve faster resolution and reducing processing times
+    
+-   Decreased disputes being processed through debt management center and HRC.
+    
+-   Improved customer satisfaction and Veteran experience
+    
+-   Standardization of debt dispute process
+    
+
+  
+
+	-   This research supports our desired business outcomes by confirming the path created for a digital dispute process can help achieve faster resolution and reduced processing times for the user-facing portion of the process because our research found the process is simple and streamlined for Veterans.
+    
+
+  
+  
+
+### [Resources & Support (R&S) Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_fsr/wizard/Wizard%20sub-task%20pattern%20product%20outline.md)
+
+  
+
+**User Outcomes**
+
+  
+
+-   The "Wizard sub-task pattern" release is focused on The Wizard experience at the beginning of the FSR. This experience needs to be updated for a few reasons:
+    
+
+-   Better inclusion of copay paths.
+    
+-   Rework of overall design format/experience "one question per page"
+    
+-   Addition of a payment path
+    
+-   Connection with streamlined waiver
+    
+
+  
+  
+
+	-   This research supports our desired user outcome by confirming that the new Wizard design pattern, which after several iterations is now a single page Resources & Support (R&S) page, is user friendly.
+    
+	-   Copy improvements will have to be made with the Content Team to improve the information on the page so it is more clear in some sections outlined in the Findings of this report.
+    
+	-   This research tested VBA overpayment situations only and we recommend getting feedback from Veterans that have copays to assess whether the copay content is sufficient and clear.
+    
+
+## Key Performance Indicators
+
+Explain how findings will support KPI measurement.
+
+Note
+
+Refer back to your Product Outline.
+
+  
+
+Digital Dispute
+
+  
+
+-   KPI: Total number of digital debt disputes, Total number of submission confirmations sent
+    
+
+-   This research supports measurement of this KPI - we are setting up an analytics dashboard to measure this.
+    
+
+-   KPI: Error Rate: Total number of errors/failures
+    
+
+-   The BE team will track this.
+    
+
+-   KPI: Customer Satisfaction (CSAT)
+    
+
+-   We will look for Veteran feedback on this process in the monthly Medallia reports.
+    
+
+## Next Steps
+
+Outline immediate actions based on findings, including owners if applicable.
+
+-   The UX team will work with the Content Team and make recommendations to improve the copy on the R&S page based on the findings of this study.
+    
+
+
+
+## Further research needed
+
+Identify gaps in the current study and areas requiring additional investigation––such as demographics that were not included in this study.
+
+  
+
+-   Review of external pages
+    
+-   Veterans with copay debt
+    
+
+  
+  
+
+## Limitations
+
+  
+
+-   The prototype was highly responsive, but not personalized to the participants’ unique situations
+    
+-   One AT participant had unexpected interactions from the mouse that interfered with the user’s screen reader navigation. Scrolling appeared to cause unexpected jumps in focus or screen reader context which disrupted the mental map and caused loss of orientation on the page.
+    
+-   Veterans reviewed content and information mostly only on R&S page accordion without visiting external content pages that contained more detail.
+    
+-   Most participants had not disputed an overpayment before.
+    
+-   Participants who utilized screen readers had not had an overpayment before.
+    
+
+  
+  
+
+## Appendix
+
+  
+
+Digital Dispute Form Product Outline: [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/digital-dispute/product-outline.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/digital-dispute/product-outline.md)
+
+Wizard Readme: [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_fsr/wizard#readme](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_fsr/wizard#readme)
+
+  
+
+[Research plan]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/digital-dispute/research/digital-dispute-wizard-study.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/digital-dispute/research/digital-dispute-wizard-study.md))
+
+[Conversation guide]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/digital-dispute/research/digital-dispute-wizard-study-conversation-guide.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/digital-dispute/research/digital-dispute-wizard-study-conversation-guide.md))
+
+## Tools used for Synthesis
+
+  
+
+[Notetaking Spreadsheet](https://docs.google.com/spreadsheets/d/1SGK9QN_DRG5T5NIgMkGiP5ol5b6ARJYCrQQIJ0T84Uo/edit?usp=sharing)
+
+  
+
+[Debrief, synthesis, and analysis Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1747167767289/ebe989a2d6bf6f3bfa9bd6fbaef7deee03fab409?sender=ua78f969c4cddcbfe56b27885)
+
+  
+
+[Analysis of transcripts using Copilot AI](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/Debt%20Resolution/digital-dispute/research/transcripts)
+
+  
+  
+
+## Pages and applications used
+
+  
+
+CodeSandbox Prototype: [https://zyc78g.csb.app/manage-va-debt](https://zyc78g.csb.app/manage-va-debt)
+
+## Other supporting documents created
+
+Include links to additional materials, e.g., personas, user flows.
+
+## Secondary research
+
+Include any relevant secondary research, e.g., web analytics, SME interviews.
+
+## Who we talked to
+
+Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic.  [See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#who-we-talked-to)
+
+Recruitment criteria
+
+If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants.
+
+We talked to x participants.
+
+Audience segment:
+
+-   Veterans: 14
+    
+-   Caregivers: 0
+    
+-   Family members of a Veteran: 0
+    
+
+  
+
+Gender:
+
+
+-   Male: 5
+
+    
+-   Female: 8
+    
+
+  
+
+LGBTQ+:
+
+
+-   Transgender: 0
+
+    
+-   Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 0
+
+    
+-   Gay, lesbian, or bisexual: 3
+    
+
+  
+
+Devices used during study:
+
+
+-   Desktop: 7
+    
+-   Tablet: 1
+
+    
+-   Smart phone: 6
+    
+-   Assistive Technology: 3
+    
+
+  
+
+Age:
+
+
+-   25-34: 2
+    
+-   35-44: 3
+    
+-   45-54: 4
+    
+-   55-64: 3
+    
+-   65+: 1
+    
+-   Unknown: 1
+    
+
+  
+
+Education:
+
+-   High school degree or equivalent: 2
+    
+-   Some college (no degree): 3
+    
+-   Associate's degree, trade certificate or vocational training: 3
+    
+-   Bachelor's degree: 3
+    
+-   Master's degree: 3
+    
+-   Doctorate degree: 0
+    
+-   Unknown: 0
+    
+
+  
+
+Geographic location:
+
+
+-   Urban: 8
+    
+-   Rural: 5
+    
+-   Unknown: 1
+    
+
+  
+
+Race:
+
+
+-   White: 4
+    
+-   Black or African American: 7
+    
+-   Hispanic, Latino, or Spanish origin: 2
+    
+-   Biracial: 1
+    
+-   Asian: 1
+    
+-   Native Hawaiian or other Pacific Islander: 0
+    
+-   First Nations (Canada): 0
+    
+-   Native, American Indian or Alaska Native: 0
+    
+
+  
+  
+
+Disability and Assistive Technology (AT):
+
+
+-   Cognitive: 5
+
+    
+-   AT beginner: 2
+
+    
+-   AT advanced user: 1
+
+    
+-   Desktop screen reader: 1
+    
+-   Tablet screen reader: 1
+
+    
+-   Mobile screen reader: 1
+
+    
+-   Magnification/Zoom: 0
+
+    
+-   Speech Input Technology like Siri/Dragon Naturally Speaking: 0
+
+    
+-   Hearing aids: 0
+
+    
+-   Sighted keyboard: 0
+
+    
+-   Captions: 0
+    
+
+  
+
+Amount of VA overpayment debt
+
+
+-   The debt I had or currently have is in the range of $1 - $99: 1
+    
+-   The debt I had or currently have is in the range of $100 - $500: 3
+    
+-   The debt I had or currently have is in the range of $501 - $1,000: 5
+    
+-   The debt I had or currently have is over $1,000: 2
+    
+-   N/A: 3
+    
+
+  
+
+Perspective on this VA debt
+
+-   None of these apply to me: 3
+    
+-   I don’t think the amount is correct on this debt: 4
+    
+-   I don’t think I owe this debt to VA: 1
+    
+-   I can’t afford this debt: 3
+    
+-   N/A: 3
+    
+
+  
+  
+
+Experiences of financial hardship
+
+
+-   I am currently experiencing financial hardship AND I have experienced financial hardship in the past: 2
+    
+-   I have experienced financial hardship in the past: 6
+    
+-   I have never experienced financial hardship: 3
+    
+-   N/A: 3
+    
+
+  
+
+Annual household income level
+
+
+-   $0 - $25K: 1
+    
+-   $25K - 49.9K: 1
+    
+-   $50K - 74.9K: 2
+    
+-   $75K - 99.9K: 3
+    
+-   $100K - 149.9K: 3
+    
+-   $150K - $199.9K: 1
+    
+-   Over $200K: 0
+    
+-   Unknown: 3
+    
+
+## Underserved groups we haven’t talked to
+
+[VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?gid=1732359142#gid=1732359142)
+
+This research does not include the perspectives of the following marginalized Veteran groups: List all groups in red from the spreadsheet
+
+-   Native Hawaiian or other Pacific Islander
+    
+-   First Nations (Canada) Veterans
+    
+-   Native, American Indian or Alaska Native Veterans
+    
+-   Transgender Veterans
+    
+-   Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman Veterans
+    
+-   Group 3
+    
+
+  
+
+[insert screenshot of completed recruitment checker] ![VA-recruitment-checker](link - add image to github folder and link here with .png)
   
