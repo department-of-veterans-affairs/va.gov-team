@@ -151,7 +151,7 @@ Intentionally open so recruitment can go faster. Will go through Perigean.
   
 - `Buffer time between sessions:` **N/A**
   
-- `Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)` **No maximum - this session is unmoderated, N/A**
+- `Maximum Sessions per day:` **This study is unmoderated, N/A**
 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
