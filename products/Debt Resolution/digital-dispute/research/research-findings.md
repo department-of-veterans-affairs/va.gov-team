@@ -12,12 +12,6 @@ Contacts:
 Charlotte Cesana (Lead UX Researcher, Moderator), Megan Gayle (Lead UX Designer/Researcher), Marcela Rojas (Product Designer)
 
 
-[Link to Research Readout  ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/link-here)
-
-Add a link to your research readout deck, if available.
-
-  
-
 Jump to:
 
   
@@ -204,19 +198,18 @@ Scale:  "Maybe True", “Likely True”, “Definitely True”, “Likely False�
 **Maybe true** 
 
  
-## Key Findings
+## <a id="key-findings"></a>Key Findings
 
-
-### 1. Usability of the Debt Portal as a connected experience:
+**[1. Usability of the Debt Portal as a connected experience:](#finding-1)**
 
 > #### Overall, navigation and findability in the debt portal were excellent, regardless of prior familiarity with the debt portal interface. Participants understood the design elements on each page, they navigated between pages easily, and they found information easily.
 
-### 2. Usability of the Resources & Support page: navigation and content architecture were intuitive
+**[2. Usability of the Resources & Support page: navigation and content architecture were intuitive](#finding-2)**
 
   
 > #### Overall, participants found the Resources & Support page easy to navigate, and they liked that all of the information needed to seek resolution was on one page. The overall page hierarchy was intuitive to participants. All participants expanded the accordion with no issues, and a few stated that they liked the use of accordions on the page.
 
-### 3. Overall, the ‘Disability compensation, pension, and GI Bill benefits’ section received mixed feedback.
+**[3. Overall, the ‘Disability compensation, pension, and GI Bill benefits’ section received mixed feedback.](#finding-3)**
 
 
 >#### Some sections were described as clear and helpful, while others sections were described as too vague to be useful or actionable. Findability of the dispute form was tested in this study, and participants could find this section easily. However, this option did not always apply to their situation.
@@ -224,14 +217,14 @@ Scale:  "Maybe True", “Likely True”, “Definitely True”, “Likely False�
   
  
 
-### 4. Helpfulness and actionability of '[Rogers STEM Scholarship,](https://zyc78g.csb.app/help-options#rogers-stem-scholarship) [VET TEC program](https://zyc78g.csb.app/help-options#vet-tec-program), [Separation pay,](https://zyc78g.csb.app/help-options#separation-pay) [Attorney fees](https://zyc78g.csb.app/help-options#attorney-fees)' section
+**[4. Helpfulness and actionability of Rogers STEM Scholarship, VET TEC program, Separation pay, Attorney fees section](#finding-4)**
 
 >#### These section titles and the information under these sections: [Rogers STEM Scholarship,](https://zyc78g.csb.app/help-options#rogers-stem-scholarship) [VET TEC program](https://zyc78g.csb.app/help-options#vet-tec-program), [Separation pay,](https://zyc78g.csb.app/help-options#separation-pay) [Attorney fees](https://zyc78g.csb.app/help-options#attorney-fees) were too vague for participants to understand. They did not always make the connection between the section titles and the purpose of the page (find other ways to request help with other debts). The information underneath them was also too vague.
 
 
-### 5. The Dispute Form was easy and straightforward and participants had suggestions of features or improvements that could be added.
+**[5. The Dispute Form was easy and straightforward and participants had suggestions of features or improvements that could be added.](#finding-5)**
 
-### 6. Service Design Findings (mental models and past experiences resolving VBA overpayment debts - baseline): most participants described long, frustrating, experiences in attempting to resolve overpayments.
+**[6. Service Design Findings (mental models and past experiences resolving VBA overpayment debts - baseline): most participants described long, frustrating, experiences in attempting to resolve overpayments.](#finding-6)**
 
 
  ## Details of Findings
@@ -240,10 +233,10 @@ Provide detailed descriptions and supporting evidence for each key finding.
 
   
 
-1.  ### Usability of the Debt Portal as a connected experience
+### Usability of the Debt Portal as a connected experience
     
 
-### Key finding 1 (summary): Overall, navigation and findability of the debt portal were excellent, regardless of prior familiarity with the debt portal interface. Participants understood the design elements on each page, they navigated between pages easily, and they found information easily.
+### <a id="finding-1"></a> Key finding 1 (summary): Overall, navigation and findability of the debt portal were excellent, regardless of prior familiarity with the debt portal interface. Participants understood the design elements on each page, they navigated between pages easily, and they found information easily.
 
   
 
@@ -307,7 +300,7 @@ Participants were first given time to browse through the page and then asked fol
   
   
 
-2.  ### Finding #2: Usability of the Resources & Support page: navigation and content architecture were intuitive
+### <a id="finding-2"></a>Finding #2: Usability of the Resources & Support page: navigation and content architecture were intuitive
     
 
 #### Key finding (summary): Overall, participants found the Resources & Support page easy to navigate, and they liked that all of the information needed to seek resolution was on one page. The overall page hierarchy was intuitive to participants. All participants expanded the accordion with no issues, and a few stated that they liked the use of accordions on the page.
@@ -344,7 +337,7 @@ Two participants who utilized a screen reader (who interacted with the prototype
 
   
 
-3.  ### Finding # 3: Overall, the ‘Disability compensation, pension, and GI Bill benefits’ section received mixed feedback.
+### <a id="finding-3"></a> Finding #3: Overall, the ‘Disability compensation, pension, and GI Bill benefits’ section received mixed feedback.
     
 Some sections were described as clear and helpful, while others sections were described as too vague to be useful or actionable. Findability of the dispute form was tested in this study, and participants could find this section easily. However, this option did not always apply to their situation.
 
@@ -433,7 +426,7 @@ Most participants had a general understanding of ‘Appeal the VA decision that 
   
   
 
-### Finding # 4: Helpfulness and actionability of [Rogers STEM Scholarship,](https://zyc78g.csb.app/help-options#rogers-stem-scholarship) [VET TEC program](https://zyc78g.csb.app/help-options#vet-tec-program), [Separation pay,](https://zyc78g.csb.app/help-options#separation-pay) [Attorney fees](https://zyc78g.csb.app/help-options#attorney-fees)
+### <a id="finding-4"></a>Finding #4: Helpfulness and actionability of [Rogers STEM Scholarship,](https://zyc78g.csb.app/help-options#rogers-stem-scholarship) [VET TEC program](https://zyc78g.csb.app/help-options#vet-tec-program), [Separation pay,](https://zyc78g.csb.app/help-options#separation-pay) [Attorney fees](https://zyc78g.csb.app/help-options#attorney-fees)
 
   
 
@@ -459,7 +452,7 @@ Quotes:
 
 ## Dispute Form Findings
 
-### Finding #5: The Dispute Form was easy and straightforward
+### <a id="finding-5"></a> Finding #5: The Dispute Form was easy and straightforward
 
 ### Key finding (summary): Usability and comprehension were excellent, overall.
 
@@ -538,7 +531,7 @@ Quotes:
 
   
 
-### Finding #6:
+### <a id="finding-6"></a> Finding #6: (mental models and past experiences resolving VBA overpayment debts - baseline): most participants described long, frustrating, experiences in attempting to resolve overpayments.
 
 ### Key finding (summary):
 
