@@ -99,19 +99,17 @@ Our findings will indicate if we need to refine the confirmation pattern and gra
   
 ## Methodology  🛠️
 
-- Flows to be mocked up using Figma.
-- The participants will use the think-aloud format
-- It is a semi-structured interview where we will direct the participants to complete [3] tasks:
-  - Task 1: updating spouse's address.
-  - Task 2: Fill out your previous year’s financial information.
-  - Task 3: Edit an error in your spouse’s financial information.
-- The first section is a usability test of the Spouse Information.
-- The second section is a fork for A/B testing:
- - Cohort A will see Option A first [Existing version of the Financial Information, moderator provides last year’s financial information]
- - Cohort B will see Option B first [Confirmation Flow version with the gray box reference, moderator does not provide last year’s financial information]	
+- Semi-structured interviews
+- Moderated usability testing on [3] tasks, using the think-aloud protocol:
+  - Task 1: Updating spouse's address
+  - Task 2: Fill out your previous year’s financial information
+  - Task 3: Edit an error in your spouse’s financial information
+
+Note that after the spouse section, users will fork for A/B testing of the proposed confirmation flow and MVP experience:
+ - Cohort A will see Option A first, called Prototype COLOR [Existing version of the Financial Information, moderator provides last year’s financial information]
+ - Cohort B will see Option B first, called Prototype COLOR [Confirmation Flow version with the gray box reference, moderator does not provide last year’s financial information]	
 
 ### Location
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
 
 - [x] **Remote, moderated via Zoom**
 - [ ] **In-person**
@@ -121,7 +119,10 @@ Where will you be holding the research sessions? Be sure to include whether this
 
 **For moderated usability tests:** 
 	
-- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2025-05-EZR-Confirmation-Flow/Conversation-guide.md)
+- [Conversation guide - Green prototype first](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2025-05-EZR-Confirmation-Flow/Conversation-guide-Green-first.md)
+- [Green prototype (Figma)](LINK)
+- [Conversation guide - Red prototype first](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2025-05-EZR-Confirmation-Flow/Conversation-guide-Red-first.md)
+- [Red prototype (Figma)](LINK)
 	
 ## Recruitment 🎯	
 
