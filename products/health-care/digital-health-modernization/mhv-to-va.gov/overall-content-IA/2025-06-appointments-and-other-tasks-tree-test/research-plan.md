@@ -64,12 +64,12 @@ Are there moments that matter?
 ---
 
 ### Research questions
-**`1.`Where should VA.gov surface non-health appointments, including managing and viewing said appointments, for Veterans in their first year out of service?**
-**`2.`Where should VA.gov surface denial letters to Veterans who were denied Community Care?**
-**`3.`Where will transitioning service-members expect to find a copy of letters from their military service?`**
-**`4.`Where will transitioning service-members expect to go to release educational records from VA to the college they plan to attend using educational benefits?`**
-**`5.`Where will transitioning service-members expect to go update dependents related to their disability payments?`**
-**`6.`Where will transitioning service-members expect find status updates on VA home improvement grant applications?`**
+* **`1`** Where should VA.gov surface non-health appointments, including managing and viewing said appointments, for Veterans in their first year out of service?
+* **`2`** Where should VA.gov surface denial letters to Veterans who were denied Community Care?
+* **`3`** Where will transitioning service-members expect to find a copy of letters from their military service?
+* **`4`** Where will transitioning service-members expect to go to release educational records from VA to the college they plan to attend using educational benefits?
+* **`5`** Where will transitioning service-members expect to go update dependents related to their disability payments?
+* **`6`** Where will transitioning service-members expect find status updates on VA home improvement grant applications?
   
 ## Methodology  🛠️
 ***Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design.*** 
