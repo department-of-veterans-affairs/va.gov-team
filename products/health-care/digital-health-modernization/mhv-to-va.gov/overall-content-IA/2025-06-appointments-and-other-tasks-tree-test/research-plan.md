@@ -1,5 +1,5 @@
 # Research Plan for Transitioning service-member Tree-Test, June-July 2025
-Seeking statistically significant data from transitioning-service members about where they expect to find a variety non-health tools, information, and resources on VA.gov to inform where we should put those in the sitewide IA.
+Seeking data from transitioning-service members about where they expect to find a variety non-health tools, information, and resources on VA.gov to inform where we should put those in the sitewide IA.
 
 ## Background 🏗️
 	
