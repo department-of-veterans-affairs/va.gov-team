@@ -1,9 +1,10 @@
 ---
-name: Decision Reviews Bug Issue
-about: Bug issues for the Decision Reviews team
+name: Decision Reviews Bug Template
+about: Bug template for the Decision Reviews team
 title: ''
-labels: bug, Decision-Reviews-Team, needs-grooming, needs-refinement
+labels: bug, Decision-Reviews-Team, team-DRAGONS, needs-refinement
 assignees: ''
+projects: ["department-of-veterans-affairs/1434"]
 
 ---
 
@@ -20,7 +21,7 @@ assignees: ''
 
 ## How severe is the problem?
 
-- [ ] **Critical**: User is block or significantly hindered from submitting the form, data is lost, or claim and evidence test coverage is missing. Fix ASAP.
+- [ ] **Critical**: User is blocked or significantly hindered from submitting the form, data is lost, or claim and evidence test coverage is missing. Fix ASAP.
 - [ ] **Moderate**: User is not blocked, but the happy path is interrupted. Fix after critical bugs.
 - [ ] **Minor**: Cosmetic bugs and minor language inconsistencies. Defer to a later sprint.
 
