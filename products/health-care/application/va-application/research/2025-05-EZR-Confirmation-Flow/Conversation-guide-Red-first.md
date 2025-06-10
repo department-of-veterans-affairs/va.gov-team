@@ -92,27 +92,27 @@ Before we look at the prototype, let’s start with a few warm-up questions.
  
 ### Things to watch for:
 - Do participants express any confusion about the verbiage used on this page? Especially around “Review your information before you continue”.
-- Do express any confusion or frustration with the direction and continue around updating their personal information? 
+- Do they express any confusion or frustration with the direction and continue updating their personal information? 
 
 **[Contact Info]**
 
-- As I have mentioned before, in this scenario, this information came from previous information you’ve provide. For the research proposes, you would be going through this form to make sure the fill in are accurate and makes sense.
+- As I have mentioned before, in this scenario, this information came from previous information you’ve provided. For research purposes, you would be going through this form to make sure the fill-in in are accurate and makes sense.
 
 **[Marital Status]**
 
-- Okay, lets pause right here.  If you are no longer married, what do you expect to happen when you choose one of the other status?
+- Okay, let's pause right here.  If you are no longer married, what do you expect to happen when you choose one of the other statuses?
 
 **[Dependent Review]**
 
 **[Financial Intro]**
 
-- For this section, I will give you a the financial information that you’ll need.
+- For this section, I will give you the financial information that you’ll need.
 
-- For this scenario, you and your spouse’s work and salary has not changed from 2023 to 2024.
+- For this scenario, you and your spouse’s work and salary have not changed from 2023 to 2024.
 
-Information to be provided to participant, via chat: 
+Information to be provided to the participant, via chat: 
 
-> For this scenario, you and your spouse’s work and salary has not changed from 2023 to 2024.
+> For this scenario, you and your spouse’s work and salary have not changed from 2023 to 2024.
 >
 > 
 > Here is your financial information:
@@ -155,18 +155,21 @@ Information to be provided to participant, via chat:
 
 **[Deductible Expenses]**
 
-- [After they get to the bottom of the page] Okay lets pause here for a few questions:
+- [After they get to the bottom of the page] Okay, let's pause here for a few questions:
 
 - Was there any part that was confusing to you?
 - On a scale of 1-5 (1 being very easy and 5 being very hard) - how difficult would it be for you to complete this financial information if you were doing this with your real information?
 - Why did you give it that rating?
-- Do you have any suggestions or feedback for making the page and update process better?
+- Do you have any suggestions or feedback for making the page and the update process better?
 
 **[Review]**
 - [Did they catch the error?]
-In this scenario, you realized that one of your expense is incorrect. You had a big out-of-pocket dental operation last year of $3000. How would you fix that error?
+In this scenario, you realized that one of your expenses is incorrect. You had a big out-of-pocket dental operation last year of $3000. How would you fix that error?
 
-- [Instruct them to click ‘End Demo” button to back back to the Start Form screen]
+- On a difficulty scale of 1-5 (1 being very easy and 5 being very hard) - how would you rate the form you just went through? Why did you give it that rating? 
+- On an efficiency scale of 1-5 (1 being very efficient and 5 being very inefficient) - How would you rate the form you just went through? Why did you give it that rating?
+
+- [Instruct them to click ‘End Demo” button to go back to the Start Form screen]
 
 ## GREEN SECOND - 10 minutes
 
@@ -180,7 +183,7 @@ In this scenario, you realized that one of your expense is incorrect. You had a 
 **[Home Address]**
 
 **[Contact Info]**
-- Do you prefer reviewing your information page by page like this option, or through cards like the previous option?
+- Do you prefer reviewing your information page by page, like this option, or through cards like the previous option?
 - Do you have a preference?
 - Why do you think that?
 
@@ -204,13 +207,16 @@ In this scenario, you realized that one of your expense is incorrect. You had a 
 **[Spouse Income]**
 
 **[Deductible Expenses]**
-- And lets pause here for a discussion:  In this (green) prototype, there is no gray box referencing the previous financial information.
+- And let's pause here for a discussion:  In this (green) prototype, there is no gray box referencing the previous financial information.
 - Was there any part of this section that was confusing to you?
 - How was this financial section compared to the previous one?
 - On a scale of 1-5 (1 being very easy and 5 being very hard) - how hard would it be for you to complete this financial information if you were doing this with your real information?
 - Why did you give it that rating? 
 
 **[Review]**
+
+- On a difficulty scale of 1-5 (1 being very easy and 5 being very hard) - how would you rate the form you just went through? Why did you give it that rating? 
+- On an efficiency scale of 1-5 (1 being very efficient and 5 being very inefficient) - How would you rate the form you just went through? Why did you give it that rating? 
 
 # Post-Task Interview - 10 minutes
 
