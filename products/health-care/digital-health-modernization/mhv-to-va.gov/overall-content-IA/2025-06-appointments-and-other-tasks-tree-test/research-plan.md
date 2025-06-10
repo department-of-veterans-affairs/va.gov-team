@@ -167,7 +167,7 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 > **Please list the names of people in each role.** In the Slack study channel, send an email and primary phone number for the moderator. Also send emails for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
 
 - `Moderator:` **Sara Sterkenburg**	
-- `Research guide writing and task development (usually but not always same as moderator):` **Sara Sterkenburg**		
+- `Research guide writing and task development (usually but not always same as moderator):` **Robyn Singleton, Mikki Northuis**			
 - `Participant recruiting & screening:`	**Athena Perez**	
 - `Project point of contact:` **Sara Sterkenburg, Robyn Singleton, Mikki Northuis**		
 - `Accessibility specialist (for sessions where support for assistive technology may be needed):` **N/A**	
