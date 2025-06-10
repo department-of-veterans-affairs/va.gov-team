@@ -32,7 +32,7 @@ The testing prototype (see [Research Materials](#reseach-materials) below) intro
 6. Edit or delete the listed conditions, or add another one.
 
 *(Step 2\) The prototype allows user to select a new condition or one of their existing conditions.*  
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2025-03%20Claims%20for%20Increase%20and%20New%20Identification%20from%20Claim%20to%20Condition%20level/images/conditions-new-flow.png)
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2025-06%20New%20or%20Increase%20at%20Condition%20Level/images/conditions-new-flow.png)
 
 ### Other design updates
 
