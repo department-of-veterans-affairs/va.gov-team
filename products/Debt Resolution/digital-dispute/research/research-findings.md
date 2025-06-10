@@ -16,21 +16,21 @@ Jump to:
 
   
 
--   [Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#hypotheses-and-conclusions)
+-   [Hypotheses and conclusions](#hypotheses-and-conclusions)
     
--   [Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#key-findings)
+-   [Key findings](#key-findings)
     
--   [Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#recommendations)
+-   [Recommendations](#recommendations)
     
--   [Product User and Business Outcomes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#product-user-and-business-outcomes)
+-   [Product User and Business Outcomes](#product-user-and-business-outcomes)
     
--   [Key Performance Indicators](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#key-performance-indicators)
+-   [Key Performance Indicators](#key-performance-indicators)
     
--   [Next Steps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#next-steps)
+-   [Next Steps](#next-steps)
     
--   [Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#further-research-needed)
+-   [Further research needed](#further-research-needed)
     
--   [Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#who-we-talked-to)
+-   [Who we talked to](#who-we-talked-to)
     
 
 ## Research Goals
@@ -159,7 +159,7 @@ We conducted hour-long (75 minutes for participants who utilized screen readers)
 
 Participants interacted with a prototype built on CodeSandbox: [https://zyc78g.csb.app/manage-va-debt](https://zyc78g.csb.app/manage-va-debt)
 
-## Hypotheses and Conclusions
+## <a id="hypotheses-and-conclusions"></a>Hypotheses and Conclusions
 
 
 Scale:  "Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”
@@ -229,7 +229,6 @@ Scale:  "Maybe True", “Likely True”, “Definitely True”, “Likely False�
 
  ## Details of Findings
 
-Provide detailed descriptions and supporting evidence for each key finding.
 
   
 
@@ -499,7 +498,7 @@ Quotes:
 
   
 
--   A few participants expressed concerns and highlighted the importance of the statement on the Reason for you Dispute page.
+-   A few participants expressed concerns and highlighted the importance of the statement on the Reason for your Dispute page.
     
 
 >”It's easy, and the thing is, you know, you may not think a lot about it, but what you type there is incredibly important. And it's easy to just breeze through it and not really include all the details, and that could affect your claim. It's a bit too easy, I think, because, you know. once you press submit, that's it. You can't edit it.” -P15
@@ -715,61 +714,55 @@ Too many steps/pages to get to the actual form; information is fragmented, which
 -   Group related and connected information on one page where possible
     
 
-## Recommendations
+## <a id="recommendations"></a> Recommendations
 
 Summarize actionable recommendations based on findings.
 
   
 
-1.  Recommendation, R&S page:
+1.  Recommendation: **R&S page**
     
 
 - Adding more context under the section titles for clarity
     
 -   Add the word "debt" next to appropriate section titles for additional clarity, ***example: Rogers STEM Scholarship Debt***
     
-
+-   Supporting evidence: Finding 4
   
 
-2.  Recommendation, R&S page: 
+2.  Recommendation: **R&S page**
 
 - Add additional context to more than 5 years ago/ less than 5 years ago sections
     
 -   Supporting evidence: Finding 4
     
-
   
 
-3.  Recommendation: Dispute form 
+3.  Recommendation: **Dispute form**
 
 - “Tell us why you're disputing this debt” page should have additional context and examples to help Veterans understand what information should be shared.
     
-
+-   Supporting evidence: Finding 5
   
 
-4.  Recommendation: Dispute form: 
+4.  Recommendation: **Dispute form**
 
 - Implement a way to upload documents
     
-
+-   Supporting evidence: Finding 5
   
 
-5.  Recommendation: Dispute form
+5.  Recommendation: **Dispute form**
 
 - Add edit buttons that take users back into the form on the Review page.
     
 -   Edit buttons were not available on the prototype but will be available on production when the dispute form launches.
     
-
+-   Supporting evidence: Finding 5
   
 
-## Product User and Business Outcomes
+## <a id="product-user-and-business-outcomes"></a>Product User and Business Outcomes
 
-Explain how findings and recommendations align with the product's goals.
-
-Note
-
-Refer back to your Product Outline.
 
   
 
@@ -856,17 +849,11 @@ Refer back to your Product Outline.
 	-   This research tested VBA overpayment situations only and we recommend getting feedback from Veterans that have copays to assess whether the copay content is sufficient and clear.
     
 
-## Key Performance Indicators
+## <a id="key-performance-indicators"></a>Key Performance Indicators
 
-Explain how findings will support KPI measurement.
 
-Note
 
-Refer back to your Product Outline.
-
-  
-
-Digital Dispute
+**Digital Dispute**
 
   
 
@@ -888,7 +875,7 @@ Digital Dispute
 -   We will look for Veteran feedback on this process in the monthly Medallia reports.
     
 
-## Next Steps
+## <a id="next-steps"></a>Next Steps
 
 Outline immediate actions based on findings, including owners if applicable.
 
@@ -897,7 +884,7 @@ Outline immediate actions based on findings, including owners if applicable.
 
 
 
-## Further research needed
+## <a id="further-research-needed"></a> Further research needed
 
 Identify gaps in the current study and areas requiring additional investigation––such as demographics that were not included in this study.
 
@@ -938,7 +925,7 @@ Identify gaps in the current study and areas requiring additional investigation�
 [Wizard Readme](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_fsr/wizard#readme)
 
   
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/digital-dispute/research/digital-dispute-wizard-study.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/digital-dispute/research/digital-dispute-wizard-study.md)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/digital-dispute/research/digital-dispute-wizard-study.md)
 
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/digital-dispute/research/digital-dispute-wizard-study-conversation-guide.md)
 
@@ -973,7 +960,7 @@ Include links to additional materials, e.g., personas, user flows.
 
 Include any relevant secondary research, e.g., web analytics, SME interviews.
 
-## Who we talked to
+## <a id="who-we-talked-to"></a>Who we talked to
 
 
 Audience segment:
