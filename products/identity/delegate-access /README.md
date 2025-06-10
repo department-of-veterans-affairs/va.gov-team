@@ -44,6 +44,28 @@ June 2025: We've completed caregiver research and initial discussions with polic
 - Create a delegate infrastructure that is maintainable and scalable.
 - Avoid an overly complex matrix of permissions.
 
+## Current questions
+
+### Health care POA
+
+1. How does a Veteran designate a health care POA?
+2. Can someone have multiple health care POAs?
+3. How does someone prove to VA they are a health care POA?
+4. Who at VA validates that someone is a health care POA?
+5. Where in VA is health care POA tracked?
+6. Under what circumstances does a health care POA become responsible for acting on behalf of a Veteran? And when this occurs, how is this communicated to medical staff?
+7. Under what circumstances does someone acting as a health care POA no longer need to make medical decisions for a Veteran? And when this occurs, how is this communicated to medical staff?
+
+### Court-appointed guardian
+
+1. How does someone become a court-appointed guardian? Under what circumstances does this occur?
+2. Can someone have multiple court-appointed guardians?
+3. How does someone prove to VA they are a court-appointed guardian?
+4. Who at VA validates that someone is a court-appointed guardian?
+5. Where in VA is court-appointed guardian tracked?
+6. Under what circumstances does a court-appointed guardian become responsible for acting on behalf of a Veteran? And when this occurs, how is this communicated to medical staff?
+7. Are there any circumstances in which a court-appointed guardianship is revoked? If so, what are they, and how is this communicated to medical staff?
+
 ## Timeline
 
 - August 2024: MHV coordinators have been raising this problem repeatedly, and it is clear that retiring the MHV credential without considering how to support POAs would cause this group to not be able to manage their veterans' benefits.
