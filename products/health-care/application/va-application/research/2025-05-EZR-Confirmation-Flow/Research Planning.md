@@ -59,7 +59,7 @@ This product fits into the [Veteran journey](https://github.com/department-of-ve
 ### Goals
 **Goal 1: Spouse Information:** Test the usability of the spouse information section to see if the Veterans follow the conditional logic, understand what information can be updated, and whether the information presented is comprehensible.
 
-**Goal 2: Confirmation Flow:** Validate that Veterans prefer the confirmation flow (Option B), using the List&Loop component, because it is more efficient than the existing MVP approach (Option A).
+**Goal 2: Confirmation Flow:** Validate that Veterans prefer the confirmation flow (Option Red), using the List&Loop component, because it is more efficient than the existing MVP approach (Option Green).
 
 **Goal 3: Gray Reference Card:** Understand how the Veterans expect the previous year’s financial data to be prefilled, and whether they understand the hierarchy of the information on financial reporting screens.
   
@@ -77,9 +77,9 @@ Our findings will indicate if we need to refine the confirmation pattern and gra
 - Does the user understand that the number of questions changes based on the choice they selected for marital status?
 - Do users understand that they can edit/update the information that’s pre-filled?
 
-**Goal 2: Confirmation Flow:** Validate that the confirmation flow (Option B), using the List&Loop component, is more efficient than the existing MVP approach (Option A).
+**Goal 2: Confirmation Flow:** Validate that the confirmation flow (Option Red), using the List&Loop component, is more efficient than the existing MVP approach (Option Green).
 
-- Do users report a higher efficiency and ease of flow for the confirmation flow (Option B), or the existing MVP (Option A)?
+- Do users report a higher efficiency and ease of flow for the confirmation flow (Option Red), or the existing MVP (Option Green)?
 - Do users understand the instructions on how to update the pre-filled information when it is outdated?
 - Do users understand their income reporting requirements based on the content? 
 
@@ -94,7 +94,7 @@ Our findings will indicate if we need to refine the confirmation pattern and gra
 ### Hypotheses
 
 - The participant will understand the Spouse Information and Financial Information shown in the List&Loop’s review page.
-- The participant will prefer the Confirmation Flow (Option B) over the existing MVP flow (Option A).
+- The participant will prefer the Confirmation Flow (Option Red) over the existing MVP flow (Option Green).
 - The participant may require additional time to understand the content in gray reference card component.
   
 ## Methodology  🛠️
@@ -106,8 +106,8 @@ Our findings will indicate if we need to refine the confirmation pattern and gra
   - Task 3: Edit an error in your spouse’s financial information
 
 Note that after the spouse section, users will fork for A/B testing of the proposed confirmation flow and MVP experience:
- - Cohort A will see Option A first, called Prototype Green [Existing version of the Financial Information, moderator provides last year’s financial information]
- - Cohort B will see Option B first, called Prototype Red [Confirmation Flow version with the gray box reference, moderator does not provide last year’s financial information]	
+ - Cohort A will see Option Green first, called Prototype Green [Existing version of the Financial Information, moderator provides last year’s financial information]
+ - Cohort B will see Option Red first, called Prototype Red [Confirmation Flow version with the gray box reference, moderator does not provide last year’s financial information]	
 
 ### Location
 
@@ -166,7 +166,7 @@ For recruiting 2 users with cognitive disabilities:
 ## Timeline 🗓️
 
 ### Prepare
-The prototype for both Option A and Option B has been completed in Figma.
+The prototype for both Option Green and Option Red has been completed in Figma.
 
 **A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.** 
 > [!NOTE]
