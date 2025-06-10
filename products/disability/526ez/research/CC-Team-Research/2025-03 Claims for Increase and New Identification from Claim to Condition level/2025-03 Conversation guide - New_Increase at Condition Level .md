@@ -8,6 +8,8 @@
 
 **Status:** In progress
 
+[See Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2025-03%20Claims%20for%20Increase%20and%20New%20Identification%20from%20Claim%20to%20Condition%20level/Research%20Plan%20-%202025-03%20New%20or%20Increase%20at%20Condition%20Level.md)
+
 # Logistics & Prep
 
 ## Day of the session
@@ -143,7 +145,7 @@ Before you start using the prototype, I’ll set up the scenario.
   * Second statement: I am satisfied with the amount of time it took to complete the tasks in this scenario  
     *Prompt if needed: the scale is 1, strongly disagree, to 5, strongly agree.*
 
-Follow-up questions
+#### Follow-up questions
 
 Now I’ll ask some follow-up questions.
 
@@ -166,7 +168,7 @@ I’m going to ask you to pause for questions about each screen. If I ask “do 
 
 Go ahead and walk me through how you would add tendonitis in your shoulder.
 
-##### **Select new/increase screen**
+##### Select new/increase screen
 
 * What do you think about the options on this screen?  
 * Where do you think this list of options came from?  
@@ -174,16 +176,16 @@ Go ahead and walk me through how you would add tendonitis in your shoulder.
 * You may not have noticed, but there used to be 4 options on this screen, and now there are only 2\. Do you have any idea why that is?  
   * What do you think of that? Is that confusing at all?
 
-##### **Add new condition screen**
+##### Add new condition screen
 
 * Was there anything unclear or confusing on this screen?  
 * There are some instructions on this page. Were any of these useful when you first used this page?
 
-##### **Laterality  screen**
+##### Laterality  screen
 
 * Was there anything unclear or confusing on this screen?
 
-##### **Start date page**
+##### Start date page
 
 * What did you think of this screen?  
 * Do you know the specific start date for any of your conditions?  
@@ -198,23 +200,23 @@ Before you click continue, I have a couple of questions.
 * The next screen will ask about what caused your condition. Do you remember what any of the options were?  
 * Ok, go ahead click Continue.
 
-##### **Cause page**
+##### Cause page
 
 * What do you think the purpose of this page is?  
 * How difficult or easy was it to choose the right option?  
 * If a friend asked you to explain the different options, what would you say to them?
 
-##### **Cause details page (secondary condition)**
+##### Cause details page (secondary condition)
 
 * Any comments on this page?  
 * Is there anything unclear?
 
-##### **Review your conditions page** 
+##### Review your conditions page
 
 * What do you think this page is for?  
 * What do you think of how it’s organized?
 
-##### **Edit page**
+##### Edit page
 
 * Let’s say you realized you entered \[pick one of their new conditions\] incorrectly, and you want to change it. Show me how you’d do that.  
 * What if you realized you put the wrong start date on the condition. How would you change that?  
@@ -241,16 +243,3 @@ Well, we have covered all of the questions I had for you today. Thank you so muc
 *In case the session was activating for the Veteran and they need further immediate support afterwards, instruct them to **dial 988 and press 1***
 
 [*Link to exit strategies guidance*](https://depo-platform-documentation.scrollhelp.site/research-design/research-safety-and-emergency-exit-strategies#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies)
-
-# Feedback from Shannon
-
-Like [@Leah Bannon](https://dsva.slack.com/team/U9DV9D17H) I'm feeling uncomfortable with the recall aspect of going through task 1 without follow-ups and then circling back later with probes. I have a couple of suggestions that may not totally alleviate that concern, but would make it a little better to me, at least.
-
-* Go ahead and run through 3 adds without probing (although, I would say, if someone struggles we should talk about it at the time of struggle, and I still think you should feed them the scenario a bite at a time). I did say 3\! I'd like to see them add 1 new and 2 CFIs in that go around, and just see if they notice things disappearing off the first list of rated conditions.  
-* Possibly ask your first set of follow up questions there (overall, how was the experience etc).  
-* Task 2: Add another new condition. This could be something we give them for laterality if we haven't seen it or we could ask them to make something up. (Actually, instead of supplying them with a specific example in task 1, we could ask them to make something up based on something they have or know about). In this task, we're probing and asking questions now. The list will get very short when they go back and we can ask them about that, having seen their in-the-moment response before and now seeing it again. We can ask them specific things about dates and service connection. Etc.  
-* Task 3: Edit one of the new conditions \- let them go for it, probe only if they have difficulties  
-* Task 4: Delete one of the conditions (if time), also only probe if difficulty  
-* Task 5 \- ratings and reasons survey? Not sure how you'll ask about their answers (also I noticed that it captured my email and we don't want to do that for Veterans)  
-* Wrap up
-
