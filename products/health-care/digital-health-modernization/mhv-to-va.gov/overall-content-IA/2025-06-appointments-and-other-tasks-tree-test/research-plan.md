@@ -51,11 +51,11 @@ Are there moments that matter?
 ### Goals
 
 `1.` Gain an understanding of where transitioning service-members expect to find tools, information, and resources related to onboarding with and managing VA benefits. 
-
 `2.` Better understand where VA should place non-health related apppointments in the site architecture. 
   
 ### Outcome
 `How will this research advance your product to the next phase in the design process? What will you do with your learnings?`
+* We will use the information and signals from this tree-test to determine where to place information for the Solid Start program (for transitioning service-members) in the VA.gov sitewide IA. Related to this program, Veterans will need to be able to schedule a non-health appointment with a Solid Start representative. We'd like to generalize this study to also learn where this audience expects to find additional resources they're most likely to engage with in their first years as Veterans with the VA, including scheduling C&P exams, finding education letters related to their GI Bill benefits, and looking up the status of submitted applications. 
 
 ---
 
