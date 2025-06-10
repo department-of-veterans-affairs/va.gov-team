@@ -557,4 +557,81 @@ Quotes:
 -   Some participants mentioned they would like a way to upload important documents.
     
 
+### Service Design Findings (mental models and past experiences resolving VBA overpayment debts - baseline)
+
+  
+
+### Finding #6:
+
+### Key finding (summary):
+
+### The majority of participants (10 of 14 interviewed) described long, frustrating, experiences in attempting to resolve overpayments. Given their difficult experiences resolving overpayments, they were also keenly aware of the importance of essential information being clearly communicated and conveyed in the prototype.
+
+
+Detail:
+Veterans’ baseline experience with VA debt relief and disputes has often been negative, marked by confusion and a lack of clear channels. The introduction of digital pathways (the debt portal) represents a significant improvement, making the process clearer, more accessible, and less stressful. Veterans appreciate structured options, transparent next steps, and confirmation of actions—though some still need personal support for complex situations.
+
+
+Participants 1, 2, 3, 4, 8, 10, 15, 16, 17, and 18 (10 of 14) describe long, confusing, or frustrating processes—ranging from repeated phone calls, not knowing who to contact, waiting months, feeling ignored or “put in a bind,” to using words like “frustrating,” “harassment,” and “manipulation” to describe their experiences. 
+
+ 
+> “It was horrible because I was looking for it to pay bills and it put me in a bind. The second time was very easy.” P1
+
+  
+
+> “I just let it be because I didn’t think there was anything else I could do; they were taking it monthly and I thought that would still happen. It would’ve been nice to have that option.” P2
+
+  
+
+> “Frustrating, confusing, or not knowing what the best course of action is. They claim that they overpaid me for Veteran benefits. From that there was a miscalculation of what I could get sent. P3
+
+  
+
+> Moderator: In one to 3 words, if you were to summarize this whole experience recently and up until now, what words would you use to describe the process of understanding and resolving this debt in your experience, so far? Participant: “Harassment. Manipulation. And even discrimination, I was discriminated against because I'm a woman.” -P10
+
+  
+> “I think it's askva.gov and submitted a question, and they said it was accurate. And then within about a week the money got taken back out. So I said, Well, hmm, obviously it was not accurate, and askva.gov is not reliable, so I'm not going to go there… So I called and after waiting half a day on hold. I know they're busy, but shoot, that's just incredible. … Now, this is the 3rd exchange of money, and it should hit my bank, but I actually got the money deposited before I actually received the letter. And then when I got the letter, and it said, here's what we owe you. I thought, Okay, this is crazy. Something's wrong here. And I just that's where I am right now. I don't want to deal with it anymore. I have better things to do than to stress out over this…”  
+“I'm too old to deal with all this. And then this came out of the blue last year, and it started up again. And I went back into that mind space. And I said, okay, let me see if I can resolve it. And I could not, because of the 3 different answers.” -P18
+
+Moderator: “What would feel like a good closure for you at this point?”
+
+> **“Explaining to me about my overpayment. Number 2: Speak to me about my options. Number 3:Listen to me actively, and understand that there's no real overpayment debt.** This is something falsified under my name that I don't even have, and I don't even know how it even got you there. And then they come with another letter about some educational program that I was in, that I never was in, and a lot of other things that we're just adding to it. About housing which I never received, and a lot of lies. I was having to have documentation to prove all lies, and there's no facts here, and they're just trying to throw in something like you do with other folks to make a case, or a debt or etc.” -P10
+
+ 
+
+**Several participants noted that they had issues when calling VA.**
+
+ 
+> “There is a phone number, 800-827-1000,and it's the universal switchboard, if you call it, it knows which way to send you inside the VA…And now I want to go back to this number that ends in 2411 [and] 0648 I have called all those numbers many times and mostly they say, Yeah, we can see you're arguing about your account but there's nothing we can do about it. We're not the right department. And that's my biggest frustration. I don't know what the right department is, but it really bugs me that nobody will tell me what the right department is.” -P4
+
+> “They send a correspondence. They correspond pretty fast. Email or snail mail. It's just the phone system is terrible… We just need to scrap the whole customer service thing, because, like I said, you just get in the queue and you'll stay on there for 30, 40 min you'll wait your time, and then it hangs up on you. So yeah, it's frustrating.” -P16
+
+  
+
+## Additional Insights
+
+Include insights that do not represent patterns but are still valuable.
+
+TIP: These could be powerful user comments or unexpected issues worth noting
+
+  
+
+-   A few participants were experiencing stressful emotions (unrelated to the interview) after recently resolving or attempting to resolve their debts. This allowed for a more individualized approach to that Veteran during the interview in which the moderator leveraged trauma-informed skills (acknowledging the difficulty, checking in with the participant, gentle redirection to a less painful topic, and ending the interview on a positive note). ​
+  
+
+-   Several participants had comments about the perception and reality of time and deadlines, and how these don’t always line up with their everyday reality. Furthermore, they also highlighted the importance of emphasizing these important timelines and deadlines in the prototype.
+    
+
+  
+
+Quotes:
+
+  
+  
+
+> “The fact that you can only ask for help within 1 year, that I don’t think I like because peoples financial situations change. If they lose their job and then need help it isn’t an option for a waiver. A lot can change in a year.” P2
+
+  
+
+>”I would say again.like, maybe you know how like on the other page it said, ‘you have one one year to 30 days’, and the one year was highlighted or bold, and the 30 days was bold. I would say, ‘you'll need to continue making payments’ would be bold, and then ‘we'll mail you a letter’ would be bold.” -P17
   
