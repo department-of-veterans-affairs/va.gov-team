@@ -1,6 +1,6 @@
 # Initiative outline: Delegate access MVP
 
-**Last Updated: June 9, 2025 -- Updated Overview and a number of other sections**
+**Last Updated: June 10, 2025 -- Added questions for policy/privacy**
      
 ## POCs
 **Slack channel**: [#identity](https://dsva.slack.com/channels/identity); [#sign-in-experience](https://dsva.slack.com/channels/sign-in-experience)
@@ -38,7 +38,7 @@ June 2025: We've completed caregiver research and initial discussions with polic
 
 ## Business goals
 
-- Determine need for delegate access to VA.gov.
+- Validate need for delegate access to VA.gov.
 - Support delegates and caregivers in conducting business with VA on behalf of another person, whether they would like to conduct that business online, over the phone, or in person.
 - Abide by all privacy and security laws and protocols required to protect people's information.
 - Create a delegate infrastructure that is maintainable and scalable.
