@@ -69,11 +69,19 @@ VAOS requires that dates be displayed in the timezone of the facility when sched
 Since the Javascript Date object doesn't contain any timezone information (momentjs maintained timezone information), I think the various format functions from date-fns-tz should be used since it allows for timezone information to be specified when formatting dates. Ex.
 
 ```
-    formatInTimeZone(
-      zonedTimeToUtc(new Date(selectedDate), 'America/Denver'),
-      'America/Denver',
-      "yyyy-MM-dd'T'HH:mm:ssXXX",
-    ),
+// Date in UTC format
+formatInTimeZone(
+  new Date(selectedDate),
+  'America/Denver',
+  "yyyy-MM-dd'T'HH:mm:ssXXX",
+)
+
+// Date not in UTC format
+formatInTimeZone(
+   parseISO(selectedDate),
+  'America/Denver',
+  "yyyy-MM-dd'T'HH:mm:ssXXX",
+)
 ```
 
 **OR**
@@ -81,17 +89,59 @@ Since the Javascript Date object doesn't contain any timezone information (momen
 ```
 // Using 'format' function from date-fns-tz
 format(
-  zonedTimeToUtc(new Date(selectedDate), 'America/Denver'),
+  new Date(selectedDate),
   "yyyy-MM-dd'T'HH:mm:ssXXX",
   {
     timeZone: 'America/Denver'
   }
 )
+
+// Date not in UTC format
+format(
+   parseISO(selectedDate),
+  'America/Denver',
+  "yyyy-MM-dd'T'HH:mm:ssXXX",
+) 
 ```
 
 In this example, the user is scheduling an appointment at a facility in Denver. So a new Date object is constructed (date string is in UTC format) and converted to an UTC date in the given timezone. Then the date is formatted in the given timezone.
 
-NOTE: I am still in the process of verifying if this is the pattern going forward but it looks promising.
+## How should you format a UTC date?
+I am recommending this format, "yyyy-MM-dd'T'HH:mm:ssXXX". So if you need to create a formatted UTC date string:
+
+```
+format(new Date(), "yyyy-MM-dd'T'HH:mm:ssXXX", { timeZone: 'UTC' }),
+```
+
+### Why?
+We currently have the following format strings defined "./vaos/utils/constants.js":
+
+```
+export const DATE_FORMATS = {
+  // Friendly formats for displaying dates to users
+  // e.g. January 1, 2023
+  friendlyDate: 'MMMM d, yyyy',
+  // ISO 8601
+  // e.g. 2025-05-06T21:00:00
+  ISODateTime: "yyyy-MM-dd'T'HH:mm:ss",
+  // e.g. 2025-05-06T21:00:00Z
+  ISODateTimeUTC: "yyyy-MM-dd'T'HH:mm:ss'Z'",
+  // e.g. 2025-05-06T21:00:00-05:00"
+  ISODateTimeLocal: "yyyy-MM-dd'T'HH:mm:ssxxx",
+  // iCalendar RFC 5545
+  // e.g. 20250506T225403Z
+  iCalDateTimeUTC: "yyyyMMdd'T'HHmmss'Z'",
+  // Internal formats for use in source code
+  // e.g. 2025-05
+  yearMonth: 'yyyy-MM',
+  // e.g. 2025-05-21
+  yearMonthDay: 'yyyy-MM-dd',
+};
+```
+
+The DATE_FORMATS.ISODateTimeLocal format string ("yyyy-MM-dd'T'HH:mm:ssxxx") is using the lowercase 'x's which the date-fns documentation states, 'Timezone (ISO-8601 w/o Z)' vs. the uppercase 'X' having documenation stating, 'Timezone (ISO-8601 w/ Z)'. 
+
+**NOTE:** I am still in the process of verifying if this is the pattern going forward but it looks promising.
 
 ## Things to be Aware Of
 When viewing the date-fns and date-fns-tz documentation, change the version number to date-fns@2.24.0, data-fns-tz@2.0.0.
