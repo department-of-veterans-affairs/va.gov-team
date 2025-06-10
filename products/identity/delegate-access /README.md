@@ -55,6 +55,8 @@ June 2025: We've completed caregiver research and initial discussions with polic
 5. Where in VA is health care POA tracked?
 6. Under what circumstances does a health care POA become responsible for acting on behalf of a Veteran? And when this occurs, how is this communicated to medical staff?
 7. Under what circumstances does someone acting as a health care POA no longer need to make medical decisions for a Veteran? And when this occurs, how is this communicated to medical staff?
+8. To the best of your knowledge, are these processes relatively standard across facilities? Or is there little standardization?
+9. To the best of your knowledge, are there any notable variations by state with regards to the above questions?
 
 ### Court-appointed guardian
 
@@ -65,6 +67,8 @@ June 2025: We've completed caregiver research and initial discussions with polic
 5. Where in VA is court-appointed guardian tracked?
 6. Under what circumstances does a court-appointed guardian become responsible for acting on behalf of a Veteran? And when this occurs, how is this communicated to medical staff?
 7. Are there any circumstances in which a court-appointed guardianship is revoked? If so, what are they, and how is this communicated to medical staff?
+8. To the best of your knowledge, are these processes relatively standard across facilities? Or is there little standardization?
+9. To the best of your knowledge, are there any notable variations by state with regards to the above questions?
 
 ## Timeline
 
