@@ -274,8 +274,8 @@ Friday, 6/27
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 For moderated usability tests:
 
-* \[Link to conversation guide\](url goes here)  
-* \[Link to prototype\](https://staging.va.gov/user-testing/conditions)
+* [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2025-03%20Claims%20for%20Increase%20and%20New%20Identification%20from%20Claim%20to%20Condition%20level/2025-03%20Conversation%20guide%20-%20New_Increase%20at%20Condition%20Level%20.md) 
+* [Link to prototype](https://staging.va.gov/user-testing/conditions)
 
 ### Prepare
 
