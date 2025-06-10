@@ -5,10 +5,15 @@ Currently, we have two types of forms that are already able to show the Form Sta
 
 We can explore `vets-api` to see where these forms are added: `app/controllers/v0/my_va/submission_statuses_controller.rb`
 
+It's important to note that there is a feature toggle related to the expansion of forms: `my_va_display_all_lighthouse_benefits_intake_forms`
+
+This feature toggle, when enabled, will not use the restricted list of forms that was determined for the MVP of showing the form status on forms.
+Instead, the enabled feature toggle will retrive all of the user's submitted forms from Lighthouse Benefits Intake API with their respective status.
+
 We will briefly discuss adding forms that are from either of the categories above. And then dive more into adding a form that is not part of either of the categories above.
 
 ## Table of Contents
-- [Lighhouse Benefits Inatake API Forms](#lighhouse-benefits-inatake-api-forms)
+- [Lighthouse Benefits Inatake API Forms](#lighhouse-benefits-inatake-api-forms)
   - [List of Known Forms](#list-of-known-forms)
   - [Including Other Lighhouse Benefits Inatake API forms](#including-other-lighhouse-benefits-inatake-api-forms)
     - [Test Implementation for Lighhouse Benefits Inatake API](#test-implementation-for-lighhouse-benefits-inatake-api)
@@ -16,10 +21,10 @@ We will briefly discuss adding forms that are from either of the categories abov
 - [Other References](#other-references)
 
 ----------------------------------------
-### Lighhouse Benefits Inatake API Forms
+### Lighthouse Benefits Inatake API Forms
 #### List of Known Forms
 
-| Form Name                                        | Form ID            | Included as MVP| Included as Remaining Forms|
+| Form Name                                        | Form ID            | Included as MVP| Included with Feature Toggle |
 |:-------------------------------------------------|:-------------------|:---------------|:---------------------------|
 | Request personal records                         | 20-10206           |✅              |                            |
 | Priority Processing                              | 20-10207           |✅              |                            |
@@ -100,3 +105,4 @@ If your form is completely new:
 - [Form Submission Status: Backend Documentation](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/7693b23eafaabac7c52a288ce89ae04d45972170/products/identity-personalization/my-va/form-status/backend_documentation.md)
   - This document hold the final and current backend implementation of the Form Status
   - You can reference this document if you want more insight into how we work with the Lighthouse Benefits Intake API to retrieve the status of submitted forms
+- [VA Forms Library - How to set up Save In Progress (SiP)](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-set-up-save-in-progress-si#VAFormsLibrary-HowtosetupSaveInProgress(SiP)-MyVAPage) 
