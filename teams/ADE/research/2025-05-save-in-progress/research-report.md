@@ -161,6 +161,9 @@ it's hard to get people to see anything besides the form fields when they're foc
 - One participant clicked *Finish later* accidentally and thought he was going to lose information entered, but then noticed that the form saved his work. He then assumed that his information was  being constantly saved (not only when you click *Finish later*).
 - A different participant asked why *Finish later* is needed when we already said that it's saving everything. This was the only (CHECK THIS!) participant who learned from an information alert that we are saving all the time and remembered that later.
 
+**Finding X: All participants were able to resume their request after taking a short break and a long break**.
+- 
+
 
 
 ---
