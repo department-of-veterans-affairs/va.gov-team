@@ -96,7 +96,7 @@ Data collection will be remote and conducted using Optimal Workshop's Tree Test 
 *OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers.*
 
 ### Recruitment approach
--Transitioning service-members; and 
+- Transitioning service-members; and 
 - Veterans who have separated within the last 4 years and also have no benefits.
 
 Intentionally open so recruitment can go faster. Will go through Perigean. 
