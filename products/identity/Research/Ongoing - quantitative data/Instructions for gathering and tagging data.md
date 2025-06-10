@@ -15,38 +15,39 @@
   * Request both types of survey data and contact center data with same ticket template  
     * [https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jwoodman5%2C+ianMcCullough-ob\&labels=VSP-contact-center%2Ccc-data-request\&template=qualitative-data-request.yml\&title=Qualitative+Data+Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=jwoodman5%2C+ianMcCullough-ob&labels=VSP-contact-center%2Ccc-data-request&template=qualitative-data-request.yml&title=Qualitative+Data+Request)  
   * Template for Medallia A11 (what our team calls the opt-in survey) and Medallia VFS questionnaire (what we call the feedback button survey) \- these types are requested on the same ticket.  
-    * Example request ticket: [https://github.com/department-of-veterans-affairs/va.gov-team/issues/98616](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98616)  
+    * Example request ticket: [https://github.com/department-of-veterans-affairs/va.gov-team/issues/98616](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98616)]
     * Data Type Requested \- ```User Surveys```  
     * Data Source Type \- ```Medallia```  
     * Date Range Start \- ```Select range```  
     * Date Range End \- ```Select range``` 
     * Product Name(s) \- ```Identity, authentication, sign in, terms of use ```
     * Product Description  
-      * ```Identity products cover authentication. We connect sign in credentials (from ID.me, Login.gov, DSLogon, and formerly MHV) to both VA.gov and the VA mobile app. We own the universal sign in page and modal, Terms of Use page, and all sign in flows starting from any page on VA.gov, like sign in alert widgets```
+      * ```Identity team products cover authentication. We connect sign-in credentials (from ID.me, Login.gov, MHV, and DSLogon) to both VA.gov and the VA mobile app. We also own the universal sign-in page and modal, Terms of Use page, and all sign in flows from any page on VA.gov, like sign in widgets. Our major initiatives currently include deprecating MHV and DS Logon sign-in methods and working on a delegate access or caregiver access solution```
     * Survey URL(s), key term(s), case category or type  
-      * URLs - can really be anything across the site, since sign in is initiated from many different pages and the sign in modal appends to the end of most pages as  `/?next=loginModal`. We’d like to see feedback from all pages around the site where folks mention sign-in related products.
-      * That said, URLs of particular interest:
-         * https://www.va.gov/sign-in/
-            * some variations on that include:
-            * [https://www.va.gov/sign-in/?auth=logged\_out](https://www.va.gov/sign-in/?auth=logged%5C_out)
-            * [https://www.va.gov/sign-in/?application=\mhv](https://www.va.gov/sign-in/?application=%5C%5Bmhv)
-            * [https://www.va.gov/sign-in/?application=\myvahealth](https://www.va.gov/sign-in/?application=%5C%5Bmyvahaelth)
-            * [https://www.va.gov/sign-in/?code\_challenge\_method=S256\&code\_challenge=\[code\]\&application=vamobile](https://www.va.gov/sign-in/?code%5C_challenge%5C_method=S256%5C&code%5C_challenge=%5C%5Bcode%5C%5D%5C&application=vamobile)
-            * (https://www.va.gov/terms-of-use/)[https://www.va.gov/terms-of-use/]
-      * In addition, unauthenticated space help articles of particular interest:  
-        * https://www.va.gov/resources/signing-in-to-vagov/  
-        * https://www.va.gov/resources/should-i-create-a-logingov-or-idme-account-to-sign-in-to-vagov/  
-        * https://www.va.gov/resources/creating-an-account-for-vagov/  
-        * https://www.va.gov/resources/how-to-create-a-logingov-account-for-va/  
-        * https://www.va.gov/resources/how-to-create-an-idme-account-for-va/  
-        * https://www.va.gov/resources/what-to-bring-to-create-your-online-sign-in-account/  
-        * https://www.va.gov/resources/verifying-your-identity-on-vagov/  
-        * https://www.va.gov/resources/support-for-common-logingov-and-idme-issues/  
-        * https://www.va.gov/initiatives/prepare-for-vas-secure-sign-in-changes/  
-        * https://www.va.gov/resources/tag/sign-in/  
-        * https://www.va.gov/resources/should-i-create-a-logingov-or-idme-account-to-sign-in-to-vagov/  
-        * https://www.va.gov/resources/what-if-i-cant-sign-in-to-vagov-because-my-password-doesnt-work/
-    * key terms - sign in, sign on, signing in, signing on, log in, login, log on, logon, logging in, logging on, sign out, sign off, signing out, signing off, log out, log off, logging out, logging off, password, account, username, mfa, multifactor auth, 2 factor auth, two factor auth, two factor, authenticate, authentication, verify, verification, terms of use, terms of service, hacked, locked out, security  
+      * URLs - can really be anything across the site, since sign in is initiated from many different pages and the sign in modal appends to the end of most pages as  `/?next=loginModal`We’d like to see feedback from all pages around the site where folks mention sign-in related products. That said, URLs of particular interest:
+
+- Pages our team owns:
+   - https://www.va.gov/sign-in/ 
+      - please include all variations under this path
+   - https://www.va.gov/terms-of-use
+- We'd also like to see resources pages that relate to sign in and verify especially the following:
+   - https://www.va.gov/resources/creating-an-account-for-vagov/
+   - https://www.va.gov/resources/signing-in-to-vagov
+   - https://www.va.gov/resources/how-to-create-an-idme-account-for-va/
+   - https://www.va.gov/resources/how-to-create-a-logingov-account-for-va/
+   - https://www.va.gov/initiatives/prepare-for-vas-secure-sign-in-changes/
+   - https://www.va.gov/resources/should-i-create-a-logingov-or-idme-account-to-sign-in-to-vagov/
+   - https://www.va.gov/resources/support-for-common-logingov-and-idme-issues/
+   - https://www.va.gov/resources/tag/sign-in/  
+   - https://www.va.gov/resources/what-if-i-cant-sign-in-to-vagov-because-my-password-doesnt-work/
+   - https://www.va.gov/resources/what-to-bring-to-create-your-online-sign-in-account/
+   - https://www.va.gov/resources/what-to-do-if-you-havent-switched-to-logingov-or-idme-yet/
+   - https://www.va.gov/resources/verifying-your-identity-on-vagov/
+   - https://www.va.gov/resources/videos-for-how-to-set-up-your-online-va-sign-in-account/
+   - https://www.va.gov/resources/what-if-i-cant-sign-in-to-vagov-because-my-password-doesnt-work/
+
+**key terms** - sign in, signin, sign on, signon, signing in, signing on, log in, login, log on, logon, logging in, logging on, sign out, sign off, signing out, signing off, log out, log off, logging out, logging off, password, pass word, account, username, user name, mfa, multifactor auth, 2 factor auth, two factor auth, two factor, text code, authenticate, authentication, verify, verification, terms of use, terms of service, hacked, locked out, security, ID.me, IDme, ID me, Login.gov, Login gov
+ 
     * Sub URLs - ``Yes``
     * File Delivery Format - ``One file, different tab for each term/URL`` 
   * MyVA411 call center tickets   
