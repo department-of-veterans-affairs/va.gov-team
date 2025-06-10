@@ -89,7 +89,7 @@ Data collection will be remote and conducted using Optimal Workshop's Tree Test 
 
 **For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html)**
 - [Link to email with instructions](url goes here)
-- [Link to Treejack preview]([url goes here](https://dj540s05.optimalworkshop.com/treejack/hspeacns))
+- [Link to Treejack preview](https://dj540s05.optimalworkshop.com/treejack/hspeacns)
 
 	
 ## Recruitment 🎯	
