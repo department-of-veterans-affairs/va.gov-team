@@ -42,29 +42,8 @@ The 10-10EZR is used to update information after the 10-10EZ enrollment, so Vete
 > - **Key Result 2:** We have reduced the total time Veterans spend waiting for a response from our digital experiences by 50%, towards a goal of less than 4 seconds per transaction.
 > - **Key Result 3:** 100% of transactions received via our digital experiences are either processed correctly or we have notified the user of an error.
 
-`Objective 2: OCTO’s platforms are the fastest, most efficient, and most secure way to deliver products at VA.`
-
-> - **Key Result 1:** 100% of authentications to our systems and tools (both Veteran-facing and internal) occur using a secure credential.
-> - **Key Result 2:** We have reduced the total error rates in our platforms by 50% compared to Q4 2024, towards a goal less than 1% per endpoint.
-> - **Key Result 3:** 100% of VA employees have access to a valuable Generative AI tool to help with their work.
-> - **Key Result 4:** Each of our platforms* and tools increase the number of non-OCTO built capabilities or non-OCTO users by 50%. (*excluding mobile)
-
-`Objective 3: OCTO teammates are empowered with the knowledge and resources they need to make sustained impact.`
-
-> - **Key Result 1:** Team members reporting more than a reasonable amount of stress is 5 points lower for each quarter in 2025 than it was in the corresponding quarter in 2024.
-> - **Key Result 2:** Every OCTO Portfolio identifies 2 or more strategic decisions per quarter that would benefit the larger OCTO team, and documents them publicly in a shared location.
-> - **Key Result 3:** 75% or more team members are confident they have the knowledge needed to make effective decisions.
-
-`Objective 4: OCTO positively influences VA's ability to deliver software products and services faster, safer, and with higher quality.`
-
-> - **Key Result 1:** OCTO has delivered at least 10 impactful artifacts or learning activities (e.g., trainings, guides, COP meetings) focused on improving delivery practices that achieve an NPS score of 30 or higher from the target OIT delivery staff.
-> - **Key Result 2:** OCTO has helped resolve/support at least 10 significant engineering issues or products outside our portfolio.
-> - **Key Result 3:** Five or more non-OCTO teams have used SPRUCE to deliver high quality software.
-
 </details>
 
-> [!TIP]
-> Delete priorities not supported by this research.
 
 ### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
 
@@ -95,12 +74,12 @@ Our findings will indicate if we need to refine the confirmation pattern and gra
 
 **Goal 1: Spouse Information:** Test the usability of the spouse information section to see if the Veterans follow the conditional logic, what information can be updated, and whether the information presented is comprehensible.
 
-- Does the user understand that the flow changes based on the choice they put in the marital status?
-- Do participants understand that they can change the information that's pre-filled?
+- Does the user understand that the number of questions changes based on the choice they selected for marital status?
+- Do users understand that they can edit/update the information that’s pre-filled?
 
 **Goal 2: Confirmation Flow:** Validate that the confirmation flow (Option B), using the List&Loop component, is more efficient than the existing MVP approach (Option A).
 
-- How confident does the user feel after completing each flow?
+- Do users report a higher efficiency and ease of flow for the confirmation flow (Option B), or the existing MVP (Option A)?
 - Do users understand the instructions on how to update the pre-filled information when it is outdated?
 - Do users understand their income reporting requirements based on the content? 
 
@@ -108,15 +87,15 @@ Our findings will indicate if we need to refine the confirmation pattern and gra
 **Goal 3: Gray Reference Card:** Understand how the Veterans expect the previous year’s data to be prefilled, and do they understand the hierarchy of the information.
 
 - Do users find referencing last year’s income helpful in updating their financial information?
-- Does this feature reduce mental effort?
-- Do users trust the accuracy of the data?
+- Does the reference card reduce complexity and effort for users to update their income information?
+- Do users trust the accuracy of the data presented in the card?
 
 
 ### Hypotheses
 
 - The participant will understand the Spouse Information and Financial Information shown in the List&Loop’s review page.
 - The participant will prefer the Confirmation Flow (Option B) over the existing MVP flow (Option A).
-- The participant may require additional time to comprehend the gray reference card component.
+- The participant may require additional time to understand the content in gray reference card component.
   
 ## Methodology  🛠️
 
@@ -185,11 +164,9 @@ For recruiting 2 users with cognitive disabilities:
    	- No *(Disqualify)*
 
 ## Timeline 🗓️
-> [!NOTE]
-> **Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.** 
 
 ### Prepare
-*When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).*
+The prototype for both Option A and Option B has been completed in Figma.
 
 **A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.** 
 > [!NOTE]
@@ -202,22 +179,14 @@ For recruiting 2 users with cognitive disabilities:
 - `Planned dates of research:` **06/23 - 07/03**
 
 ### Length of sessions
-- `Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)` **1 hour**
+- `Session length:` **1 hour**
   
-- `Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time)` **1 hour**
+- `Buffer time between sessions:` **1 hour**
   
-- `Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)` **3 sessions**
+- `Maximum Sessions per day:` **3 sessions**
 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
-
-> [!NOTE]
-> We recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S. 
-
-> [!TIP]
-> Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. **(e.g. 3/17, Monday 9:00AM-1:00PM, 3:00PM-6:00PM EST; 3/18, Tuesday 9:00AM-6:00PM EST, etc.;** ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
->
-> **Place time slots between `hash marks` when in edit mode.**
 
 - `[06/23, Monday, 10 AM-8 PM] EST`
 - `[06/24, Tuesday, 10 AM-8 PM] EST`
@@ -231,18 +200,13 @@ When would you like sessions scheduled? Please list exact dates and times in **E
   
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
-> [!NOTE]
-> **Please do not include email addresses in this section.** We previously required email addresses. VA's GitHub policy ([see announcement](https://github.com/orgs/department-of-veterans-affairs/discussions/13)) has changed. VA.gov email addresses cannot be in public repositories.
->
-> **Please list the names of people in each role.** In the Slack study channel, send an email and primary phone number for the moderator. Also send emails for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
-
 - `Moderator:` **Hieu Vo, Renata Keck**	
 - `Research guide writing and task development (usually but not always same as moderator):` **Hieu Vo**		
 - `Participant recruiting & screening:`	**Perigean**	
 - `Project point of contact:` **Moderators**		
 - `Accessibility specialist (for sessions where support for assistive technology may be needed):` **N/A**	
 - `Note-takers:` **10-10 Team** ***or*** **Perigean**	
-- `Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work. Spread observers across sessions. There should be no more than 5 to 6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side.`
+- `Observers:` **10-10 Team**
 
 
 ## Approvals ✅
