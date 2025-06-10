@@ -32,7 +32,6 @@ The testing prototype introduces a new flow with the following main steps:
 6. Edit or delete the listed conditions, or add another one.
 
 *(Step 2\) The prototype allows user to select a new condition or one of their existing conditions.*  
-![conditions-new-flow](https://github.com/user-attachments/assets/0c5c1c26-0c1e-42e0-9854-f8028b1d39ad)
 
 
 ### Other design updates
