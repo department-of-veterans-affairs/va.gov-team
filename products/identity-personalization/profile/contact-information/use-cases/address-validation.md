@@ -30,8 +30,42 @@ Header: We can’t confirm the address you entered with the U.S. Postal Service
 Tell us which of these addresses you’d like us to use.
 
 - **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
-- [Link to designs](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0-848&mode=design&t=6iSkKX2l8PqjFaHd-11)
-- [Link to code]
+- [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=2708-19101&t=7PiDyTPNkTF1dSq9-1)
+- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/4b1cb7be2bc1df72d166a85aa88b683ef6b840c8/src/platform/user/profile/vap-svc/constants/addressValidationMessages.js#L43)
+
+</details>
+
+
+<details><summary>BAD_UNIT_OVERRIDE | Address can’t be confirmed with USPS, and a suggested address is found</summary>
+
+- **Use case:** User is presented with Address you entered and can confirm that the information is correct. Or, they can return to edit mode.
+- **Status code:** TBD
+- **Content:**
+
+Header: Confirm your address
+
+U.S. Postal Service records show that there may be a problem with the unit number for this address. Confirm that you want us to use this address as you entered it. Or, cancel to edit the address.
+
+- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
+- [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=2708-19104&t=7PiDyTPNkTF1dSq9-1)
+- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/4b1cb7be2bc1df72d166a85aa88b683ef6b840c8/src/platform/user/profile/vap-svc/constants/addressValidationMessages.js#L22)
+
+</details>
+
+
+<details><summary>MISSING_UNIT_OVERRIDE | Address is missing a unit number</summary>
+
+- **Use case:** User is presented with Address you entered and can confirm that the information is correct. Or, they can return to edit mode.
+- **Status code:** TBD
+- **Content:**
+
+Header: Confirm your address
+
+U.S. Postal Service records show this address may need a unit number. Confirm that you want us to use this address as you entered it. Or, go back to edit and add a unit number.
+
+- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
+- [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=2708-19103&t=7PiDyTPNkTF1dSq9-1)
+- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/4b1cb7be2bc1df72d166a85aa88b683ef6b840c8/src/platform/user/profile/vap-svc/constants/addressValidationMessages.js#L33)
 
 </details>
 
@@ -47,69 +81,10 @@ Header: Confirm your address
 We can’t confirm the address you entered with the U.S Postal Service. Confirm that you want to us to use this address as you entered it. Or, go back to edit it.
 
 - **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
-- [Link to designs](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0-900&mode=design&t=6iSkKX2l8PqjFaHd-11)
-- [Link to code]
+- [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=2708-19105&t=7PiDyTPNkTF1dSq9-1)
+- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/4b1cb7be2bc1df72d166a85aa88b683ef6b840c8/src/platform/user/profile/vap-svc/constants/addressValidationMessages.js#L50)
 
 </details>
-
-
-### Address is missing a unit number
-- User is presented with the address they entered
-- User can select the primary button to confirm what they entered is correct, or
-- they can select the secondary and return to edit mode
-- They can press cancel, and will be returned to read mode
-- [Desktop mock-up](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0-885&mode=design&t=6iSkKX2l8PqjFaHd-11)
-- [Mobile mock-up](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0-226&mode=design&t=6iSkKX2l8PqjFaHd-11)
-
-### Unit number can’t be confirmed with U.S. Postal Service (USPS), and a suggestion is not found.
-- User is presented with the address they entered
-- User can select the primary button to confirm what they entered is correct, or
-- they can select the secondary button and return to edit mode
-- They can press cancel, and will be returned to read mode
-- [Desktop mock-up](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0-870&mode=design&t=6iSkKX2l8PqjFaHd-11)
-- [Mobile mock-up](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0-178&mode=design&t=6iSkKX2l8PqjFaHd-11)
-  
-## Analytics
-Our [address validation dashboard](https://analytics.google.com/analytics/web/#/dashboard/pq_-PrkvQleUdCBbV7eq7Q/a50123418w177519031p176188361/) has metrics related to this use case.
-
-## Codes
-N/a
-
-## How to reproduce
-### Address can’t be confirmed with USPS, and a suggested address is found.
-1. Log into staging.va.gov with any LOA3 user except vets.gov.user+36 ([staging user list](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
-2. Navigate to the [contact information section](https://staging.va.gov/profile/contact-information), and 
-3. Click edit on either address section
-4. Use the following address: 
-811 Vermont Ave
-Washington, DC 20010
-5. Click update
-
-### Address can’t be confirmed with U.S. Postal Service (USPS), and a suggestion is not found.
-1. Log into staging.va.gov with vets.gov.user+41@gmail.com ([staging user list](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
-2. Navigate to the [contact information section](https://staging.va.gov/profile/contact-information), and 
-3. Click edit on either address section
-4. Update the street address to **600 S. Michigan Ave**
-5. Click update
-
-### Address is missing a unit number
-1. Log into staging.va.gov with vets.gov.user+41@gmail.com ([staging user list](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
-2. Navigate to the [contact information section](https://staging.va.gov/profile/contact-information), and 
-3. Click edit on either address section
-4. Use the following address: 
-600 S. Michigan Ave
-Chicago, IL 60610
-5. Click update
-
-### Unit number can’t be confirmed with U.S. Postal Service (USPS), and a suggestion is not found.
-1. Log into staging.va.gov with vets.gov.user+41@gmail.com ([staging user list](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
-2. Navigate to the [contact information section](https://staging.va.gov/profile/contact-information), and 
-3. Click edit on either address section
-4. Use the following address: 
-600 S. Michigan Ave
-B
-Chicago, IL 60610
-6. Click update
 
 ---
 
