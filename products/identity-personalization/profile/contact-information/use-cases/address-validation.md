@@ -53,15 +53,6 @@ We can’t confirm the address you entered with the U.S Postal Service. Confirm 
 </details>
 
 
-
-### Address can’t be confirmed with U.S. Postal Service (USPS), and a suggestion is not found.
-- User is presented with the address they entered
-- User can select the primary button to confirm what they entered is correct, or
-- they can select the secondary button and return to edit mode
-- They can press cancel, and will be returned to read mode
-- [Desktop mock-up](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0-900&mode=design&t=6iSkKX2l8PqjFaHd-11)
-- [Mobile mock-up](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0-268&mode=design&t=6iSkKX2l8PqjFaHd-11)
-
 ### Address is missing a unit number
 - User is presented with the address they entered
 - User can select the primary button to confirm what they entered is correct, or
