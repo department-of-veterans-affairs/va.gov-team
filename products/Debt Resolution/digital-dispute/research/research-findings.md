@@ -557,7 +557,7 @@ Quotes:
 -   Some participants mentioned they would like a way to upload important documents.
     
 
-### Service Design Findings (mental models and past experiences resolving VBA overpayment debts - baseline)
+## Service Design Findings (mental models and past experiences resolving VBA overpayment debts - baseline)
 
   
 
