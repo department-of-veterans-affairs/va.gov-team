@@ -24,3 +24,4 @@ Notes:
    time, causing others to wait longer. Is the Medicare card is really
    required?
 
+<img width="216" alt="image" src="https://github.com/user-attachments/assets/5ed33886-926f-40a5-b0f9-48ec4bd785f7" />
