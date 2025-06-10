@@ -118,8 +118,8 @@ Intentionally open so recruitment can go faster. Will go through Perigean.
 ### Primary criteria (must-haves)
 *What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
 
-- `Transitioning service-members (any) who have not yet left the military` AND
-- `Veterans who don't currently receive any VA benefits`
+- `Transitioning service-members (any) who have not yet left the military` OR
+- `Veterans with no benefits or service experience`
 
 #### Secondary criteria (nice-to-haves)
 *What criteria would strengthen your results?* 
