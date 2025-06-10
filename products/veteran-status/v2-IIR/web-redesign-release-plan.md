@@ -7,7 +7,7 @@ List the features toggles here.
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| ????/ | When enabled, the Veteran Status Card is removed from the /military-information page and a net new page is added to Profile. |
+| vet_status_stage_1 | When enabled, the Veteran Status Card is removed from the /military-information page and a net new page is added to Profile. |
 
 ## Step 2: Validation
 
