@@ -19,13 +19,40 @@
 
 ## Common use cases
 
+<details><summary>SHOW_SUGGESTIONS_OVERRIDE | Address can’t be confirmed with USPS, and a suggested address is found</summary>
 
-### Address can’t be confirmed with USPS, and a suggested address is found.
-- User is presented with suggested and entered address as radio button options
-- They can select one and choose the “Update” button to save their changes, or
-- They can press cancel, and will be returned to read mode
-- [Desktop mock-up](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0-848&mode=design&t=6iSkKX2l8PqjFaHd-11)
-- [Mobile mock-up](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0-176&mode=design&t=6iSkKX2l8PqjFaHd-11)
+- **Use case:** User is presented with Address you entered and Suggested address as radio button options to select to move forward with. Or can return to edit mode to edit the address.
+- **Status code:** TBD
+- **Content:**
+
+Header: We can’t confirm the address you entered with the U.S. Postal Service
+
+Tell us which of these addresses you’d like us to use.
+
+- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
+- [Link to designs](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0-848&mode=design&t=6iSkKX2l8PqjFaHd-11)
+- [Link to code]
+
+</details>
+
+
+<details><summary>SHOW_SUGGESTIONS_NO_CONFIRMED_OVERRIDE | Address can’t be confirmed with USPS, and a suggestion is not found</summary>
+
+- **Use case:** If the address can't be confirmed with USPS, and a suggestion is not found, the user is presented with the address they entered, and can confirm to move forward with the address as entered. Or go back to edit.
+- **Status code:** TBD
+- **Content:**
+
+Header: Confirm your address
+
+We can’t confirm the address you entered with the U.S Postal Service. Confirm that you want to us to use this address as you entered it. Or, go back to edit it.
+
+- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
+- [Link to designs](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0-900&mode=design&t=6iSkKX2l8PqjFaHd-11)
+- [Link to code]
+
+</details>
+
+
 
 ### Address can’t be confirmed with U.S. Postal Service (USPS), and a suggestion is not found.
 - User is presented with the address they entered
