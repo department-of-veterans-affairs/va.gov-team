@@ -167,7 +167,7 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 
 - `Moderator:` **Sara Sterkenburg**	
 - `Research guide writing and task development (usually but not always same as moderator):` **Robyn Singleton, Mikki Northuis**			
-- `Participant recruiting & screening:`	**Athena Perez**	
+- `Participant recruiting & screening:`	**Athena Bozak**	
 - `Project point of contact:` **Sara Sterkenburg, Robyn Singleton, Mikki Northuis**		
 - `Accessibility specialist (for sessions where support for assistive technology may be needed):` **N/A**	
 - `Note-takers:` **N/A**	
