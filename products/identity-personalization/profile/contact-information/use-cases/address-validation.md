@@ -36,7 +36,7 @@ Tell us which of these addresses you’d like us to use.
 </details>
 
 
-<details><summary>BAD_UNIT_OVERRIDE | Address can’t be confirmed with USPS, and a suggested address is found</summary>
+<details><summary>BAD_UNIT_OVERRIDE | Unit number can’t be confirmed with USPS, and a suggestion is not found</summary>
 
 - **Use case:** User is presented with Address you entered and can confirm that the information is correct. Or, they can return to edit mode.
 - **Status code:** TBD
