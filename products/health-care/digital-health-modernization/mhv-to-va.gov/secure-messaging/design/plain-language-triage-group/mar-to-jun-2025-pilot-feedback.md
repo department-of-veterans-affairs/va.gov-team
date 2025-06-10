@@ -39,9 +39,12 @@ SM admins have worked around this issue by adding more details to the free-text 
 Takeaway: SM admins don't always find a group or subgroup that fits. 
 
 Here are some examples: 
-- [Subgroup] Audiology and Speech Pathology: Audiology and speech are two different teams. Suggestion: split into two subgroups.
-- [Subgroup] MOVE! Weight Management Program for Veterans: This is a common program at multiple facilities. Suggestion: Add subgroup.
-- [Group or subgroup] Clinical resource hub (CRH): This exists at multiple facilities. SM admins are entering this inconsistently in the free-text team name right now. Suggestion: Add group or subgroup
+- [Subgroup] Audiology and Speech Pathology: Audiology and speech are two different teams.
+   - Suggestion: split into two subgroups.
+- [Subgroup] MOVE! Weight Management Program for Veterans: This is a common program at multiple facilities.
+   - Suggestion: Add subgroup.
+- [Group or subgroup] Clinical resource hub (CRH): This exists at multiple facilities. SM admins are entering this inconsistently in the free-text team name right now.
+   - Suggestion: Add group or subgroup
 
 ## Recommendations
 - **Staff process**: Make documentation for SM admins to reference when they're working with the triage group names. Develop business processes to support SM admins through onboarding or troubleshooting.
