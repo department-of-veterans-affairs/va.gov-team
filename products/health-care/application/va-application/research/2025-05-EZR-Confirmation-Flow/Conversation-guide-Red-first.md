@@ -205,7 +205,7 @@ In this scenario, you realized that one of your expense is incorrect. You had a 
 
 **[Deductible Expenses]**
 - And lets pause here for a discussion:  In this (green) prototype, there is no gray box referencing the previous financial information.
-- Was there any part that was confusing to you?
+- Was there any part of this section that was confusing to you?
 - How was this financial section compared to the previous one?
 - On a scale of 1-5 (1 being very easy and 5 being very hard) - how hard would it be for you to complete this financial information if you were doing this with your real information?
 - Why did you give it that rating? 
@@ -216,7 +216,8 @@ In this scenario, you realized that one of your expense is incorrect. You had a 
 
  I have a couple of last questions before we wrap up.
 
-- What were your overall thoughts about the two prototypes we went over? Did you have a preference for one versus the other?
+- What were your overall thoughts about the two prototypes we went over?
+- Which of the two prototypes would you prefer to see on VA.gov? Why [that prototype]?
 - Is there anything you'd change about the whole form if you could?
 
 - I will now share screens and ask you to talk through a few different options. Figma Link:https://www.figma.com/design/tggcJk382w9yQ0ElwKfh3N/10-10EZR?node-id=9213-207108&t=7lOnW8Z83kMxXTCM-1
