@@ -300,7 +300,7 @@ Thank you. We can stop here.
 
 \[RECENT RECIPIENTS\]
 
-- Click on “Select a different recipient” on the bottom
+- Click on “Select a different caare team” on the bottom
 
 \[SELECT A CARE TEAM\]
 
