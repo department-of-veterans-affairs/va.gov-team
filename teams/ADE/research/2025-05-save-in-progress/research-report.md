@@ -128,6 +128,8 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
 *Provide detailed descriptions and supporting evidence for each key finding.*  
 
 **Finding 1: Most participants (9 of 11) didn't know that their information was being saved automatically with every edit.**
+- 5 of 11 participants said that they wanted their information to be saved automatically with every edit.
+  > *"I'm hoping it's saving constantly like [Microsoft] Word does, every so many seconds" (p5)*.
 - Most participants hoped or assumed that saving would happen after they clicked the "Finish later" (9 participants) or "Continue" button (7 participants). 
   > *"I don't remember reading anything that said your information is saved as you go, but that's usually what 'Continue' does" (p1)*.
 
@@ -138,6 +140,7 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
   > *"In my experience, because I didn't manually request it to save, it doesn't save anything" (p11)*. 
 - More than half of the participants (6 of 11) were worried about their session timing out and losing the information they entered. 3 of these participants hoped their work would be saved--one based on previous experience with VA forms--but didn't know whether that would happen.
 - Some participants (4 of 11) wondered if their information would be saved if they logged out and then came back later. A couple participants tested this during their research session.
+
 - Two participants said they expected a notification if saving was happening automatically, as one said that a social security form did, and another said that Microsoft Word does. 
 
 
@@ -168,6 +171,7 @@ it's hard to get people to see anything besides the form fields when they're foc
 
 
 ## Recommendations
+1. **We're saving automatically with every edit like people want, but we're not communicating this effectively**. We want users of our forms to be confident that their data is being saved as they enter it. Consider brainstorming ways to display periodic "saving" messages without being too intrusive for both sighted and AT users.
 
 *Summarize actionable recommendations based on findings.*  
 
