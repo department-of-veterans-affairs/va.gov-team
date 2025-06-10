@@ -143,5 +143,14 @@ The DATE_FORMATS.ISODateTimeLocal format string ("yyyy-MM-dd'T'HH:mm:ssxxx") is 
 
 **NOTE:** I am still in the process of verifying if this is the pattern going forward but it looks promising.
 
+## Why not use Date.toISOString?
+It sounds intuitive and ISO date strings are what we want right? Well using to Date.toISOString outputs this:
+
+```
+new Date().toISOString() // Outputs: '2025-06-10T18:36:04.237Z'
+```
+
+Notice the '.237Z'. We get the milliseconds which we don't need.
+
 ## Things to be Aware Of
 When viewing the date-fns and date-fns-tz documentation, change the version number to date-fns@2.24.0, data-fns-tz@2.0.0.
