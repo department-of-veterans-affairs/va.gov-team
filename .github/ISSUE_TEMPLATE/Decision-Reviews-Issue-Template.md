@@ -2,8 +2,9 @@
 name: Decision Reviews Issue Template
 about: Issue template for the Decision Reviews team
 title: ''
-labels: Decision-Reviews-Team, needs-refinement
+labels: Decision-Reviews-Team, team-DRAGONS, needs-refinement
 assignees: ''
+projects: ["department-of-veterans-affairs/1434"]
 
 ---
 
