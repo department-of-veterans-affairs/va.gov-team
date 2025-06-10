@@ -3,7 +3,7 @@
 
 ### Research Findings
 
-Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name
+Office of the CTO - Digital Experience (OCTO-DE), Digital Dispute Form, Wizard, Financial Management
 
 Date: 06/2/2025
 
@@ -167,24 +167,9 @@ Participants interacted with a prototype built on CodeSandbox: [https://zyc78g.c
 
 ## Hypotheses and Conclusions
 
-List hypotheses explored in the research and the conclusions drawn. If applicable, list the success or task completion rate.
 
-Tip
-
-Place true or false statements in bold for easier scanability
-
--   Hypothesis Statement: [Insert statement]
+Scale:  "Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”
     
-
--   "Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”
-    
--   Supporting evidence
-    
-
-[Example Hypotheses and Conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)
-
-"Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”)
-
 1.  Veterans (users in this study) may struggle to find the new “Options to request help with VA debt” R&S page (“Wizard”) and may have difficulty noticing the difference between this new page and other help/intro pages such as: Manage VA Debt page and FSR intro page:
     
 
@@ -221,12 +206,6 @@ Place true or false statements in bold for easier scanability
  
 ## Key Findings
 
-Summarize the 5–10 most impactful findings from your study.
-
-  
-[Example Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)
-
-  
 
 ### 1. Usability of the Debt Portal as a connected experience:
 
@@ -369,7 +348,7 @@ Two participants who utilized a screen reader (who interacted with the prototype
     
 Some sections were described as clear and helpful, while others sections were described as too vague to be useful or actionable. Findability of the dispute form was tested in this study, and participants could find this section easily. However, this option did not always apply to their situation.
 
-Veterans often wanted clarification on when and why to dispute a debt versus when to request financial help or appeal. There was some confusion about the difference between waivers, appeals, and disputes, and a need for clearer guidance—especially for debts under vs. over 5 years (e.g., when VA Form 5655 is needed).*
+Veterans often wanted clarification on when and why to dispute a debt versus when to request financial help or appeal. There was some confusion about the difference between waivers, appeals, and disputes, and a need for clearer guidance—especially for debts under vs. over 5 years (e.g., when VA Form 5655 is needed).
 
 In terms of prior mental models, most participants had their debts resolved before the interview. Some did not know about all of the options available, and some said the options available didn’t fit their situation.
 
@@ -449,7 +428,7 @@ Participants correctly identified this section/process as what would enable them
 
   
 
-Most participants had a general understanding , ‘Appeal the VA decision that resulted in this overpayment’
+Most participants had a general understanding of ‘Appeal the VA decision that resulted in this overpayment’.
 
   
   
@@ -466,8 +445,6 @@ Several participants were confused by these sections. Not having experienced the
   
 
 Quotes:
-
-  
 
 >"Other options to request help page, thoughts on information: This is a lot. I am a bit overwhelmed already. Some of it doesn’t apply, I have no clue what Vet Tech is. Attorney fees make a phone call, could you tell me a bit more. "Is the title clear: It is clear but for attorney fees it says just make a phone call. Am I just supposed to know what Vet Tech is? STEM scholarship, I guess if you had one." - P15
 
@@ -519,7 +496,7 @@ Quotes:
 
   
 
--   Highlighting in bold information that is crucial to know: “You’ll need to continue making payments on your debt while we review your dispute”.
+-   Highlight information that is crucial to know in bold: “You’ll need to continue making payments on your debt while we review your dispute”.
     
 
  
@@ -529,7 +506,7 @@ Quotes:
 
   
 
--   A few participants expressed concerns and highlighted the importance of the statement.
+-   A few participants expressed concerns and highlighted the importance of the statement on the Reason for you Dispute page.
     
 
 >”It's easy, and the thing is, you know, you may not think a lot about it, but what you type there is incredibly important. And it's easy to just breeze through it and not really include all the details, and that could affect your claim. It's a bit too easy, I think, because, you know. once you press submit, that's it. You can't edit it.” -P15
@@ -963,15 +940,14 @@ Identify gaps in the current study and areas requiring additional investigation�
 
   
 
-Digital Dispute Form Product Outline: [https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/digital-dispute/product-outline.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/digital-dispute/product-outline.md)
+[Digital Dispute Form Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/digital-dispute/product-outline.md)
 
-Wizard Readme: [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_fsr/wizard#readme](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_fsr/wizard#readme)
+[Wizard Readme](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_fsr/wizard#readme)
 
   
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/digital-dispute/research/digital-dispute-wizard-study.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/digital-dispute/research/digital-dispute-wizard-study.md)
 
-[Research plan]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/digital-dispute/research/digital-dispute-wizard-study.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/digital-dispute/research/digital-dispute-wizard-study.md))
-
-[Conversation guide]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/digital-dispute/research/digital-dispute-wizard-study-conversation-guide.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/digital-dispute/research/digital-dispute-wizard-study-conversation-guide.md))
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/digital-dispute/research/digital-dispute-wizard-study-conversation-guide.md)
 
 ## Tools used for Synthesis
 
@@ -1006,13 +982,6 @@ Include any relevant secondary research, e.g., web analytics, SME interviews.
 
 ## Who we talked to
 
-Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic.  [See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#who-we-talked-to)
-
-Recruitment criteria
-
-If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants.
-
-We talked to x participants.
 
 Audience segment:
 
@@ -1256,10 +1225,3 @@ This research does not include the perspectives of the following marginalized Ve
     
 -   Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman Veterans
     
--   Group 3
-    
-
-  
-
-[insert screenshot of completed recruitment checker] ![VA-recruitment-checker](link - add image to github folder and link here with .png)
-  

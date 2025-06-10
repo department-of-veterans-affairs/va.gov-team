@@ -12,7 +12,7 @@ The current 526EZ form process requires Veterans to select whether they are appl
 In addition, Veterans often confuse when to file a claim for increase versus a supplemental claim, which is particularly problematic as Congress may pass legislation to allow supplemental claims to be filed through the 526EZ form. In response, the VBA is updating the paper form to associate a new or increase designation with specific conditions rather than handling them at the claim level, aiming for greater compliance and reduced confusion.
 
 *Current state: Veterans must indicate New, Increase, or both for the entire claim on the first screen in Step 2\.*  
-![][image1]
+![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2025-03%20Claims%20for%20Increase%20and%20New%20Identification%20from%20Claim%20to%20Condition%20level/images/conditions-current-flow.png)
 
 To address these challenges and prepare for policy changes, we are exploring a new design that allows Veterans to specify whether a condition is new or increase at the condition level. This approach aims to improve usability, align with ongoing VBA efforts to update the paper form, and ensure consistency across platforms. (Read more about the problem space in the [Design Brief](https://docs.google.com/document/d/1DA0W-eAm0eDUjJvInufeKaFuEOXy022KY9n_qEP0gdk/edit?tab=t.h9xc67rw3d9e))
 
@@ -32,7 +32,7 @@ The testing prototype introduces a new flow with the following main steps:
 6. Edit or delete the listed conditions, or add another one.
 
 *(Step 2\) The prototype allows user to select a new condition or one of their existing conditions.*  
-![][image2]
+
 
 ### Other design updates
 

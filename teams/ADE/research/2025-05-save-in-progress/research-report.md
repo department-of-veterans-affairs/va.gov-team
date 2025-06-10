@@ -118,7 +118,7 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
 
 1. Most participants (9 of 11) **didn't know that their information was being saved automatically with every edit**.
 1. Most participants (x of 11) **didn't read either of the informational alerts about saving**.
-1. ALL participants **used the *Finish later* button and then learned that their information was saved** by seeing the "Your records request has been saved" message and their information when they returned to the form.
+1. ALL participants **tried the *Finish later* button and from that learned that their information was saved**.
 
 
 
@@ -153,8 +153,10 @@ it's hard to get people to see anything besides the form fields when they're foc
 
 
 **Finding 3: ALL participants tried the *Finish later* button and from that learned that their information was saved**.
-- After the first time each participant clicked the *Finish later" button, they saw the "Your records request has been saved" message. Then when they returned to the form, they saw the information they had entered previously. This is how most participants learned that the *Finish later* button saved their information, and they assumed that you had to click this button in order to save. 
+- After the first time each participant clicked the *Finish later* button, they saw the "Your records request has been saved" message. Then when they returned to the form, they saw the information they had entered previously. This is how most participants learned that the *Finish later* button saved their information, and they assumed that you had to click this button in order to save. 
 - The "Your records request has been saved" message appears to be well positioned because ALL participants read it, unlike the two informational alerts. It appears at a time that users have intentionally stopped filling out the form and are wondering whether their work will be saved.
+- One participant clicked *Finish later* accidentally and thought he was going to lose information entered, but then noticed that the form saved his work. He then assumed that his information was  being constantly saved (not only when you click *Finish later*).
+- A different participant asked why *Finish later* is needed when we already said that it's saving everything. This was the only (CHECK THIS!) participant who learned from an information alert that we are saving all the time and remembered that later.
 
 
 
