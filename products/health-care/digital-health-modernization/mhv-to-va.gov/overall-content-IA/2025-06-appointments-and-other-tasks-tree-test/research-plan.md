@@ -122,23 +122,15 @@ Intentionally open so recruitment can go faster. Will go through Perigean.
 - `Veterans with no benefits or service experience`
 
 #### Secondary criteria (nice-to-haves)
-*What criteria would strengthen your results?* 
-- `Veterans who have separated within the last 4 years`
-
+- N/A
 
 ## Timeline 🗓️
-> [!NOTE]
-> **Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.** 
 
 ### Optional Kick-off Call with Perigean
 
-- `Suggested dates and times:` **N/A - do not need a kickoff call**
+- N/A - do not need a kickoff call
 
 ### Prepare
-
-**A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.** 
-> [!NOTE]
-> **Send pilot participant email in study Slack channel**
 
 - `Pilot participant name:` **We will pilot the study in preview mode with a few members of the Cartography team or broader My HealtheVet to check for comprehension and functionality prior to launch.**
 - `Date and time of pilot session:` **06/16/2025**
@@ -159,11 +151,6 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 **N/A - test can be taken asyncronously and is unmoderated.** 
   
 ## Team Roles  🕵️👩‍💻👩‍🔬
-
-> [!NOTE]
-> **Please do not include email addresses in this section.** We previously required email addresses. VA's GitHub policy ([see announcement](https://github.com/orgs/department-of-veterans-affairs/discussions/13)) has changed. VA.gov email addresses cannot be in public repositories.
->
-> **Please list the names of people in each role.** In the Slack study channel, send an email and primary phone number for the moderator. Also send emails for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
 
 - `Moderator:` **Sara Sterkenburg**	
 - `Research guide writing and task development (usually but not always same as moderator):` **Robyn Singleton, Mikki Northuis**			
