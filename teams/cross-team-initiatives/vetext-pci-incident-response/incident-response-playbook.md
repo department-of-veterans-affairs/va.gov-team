@@ -37,6 +37,8 @@
       - [VistA Inhibited Login Detection](#inhibited)
       - [Wildfly Initialization Error](#wf-pod-fail)
       - [Synthetic Private Locations `pl:<id>` Uses an Outdated Image Version](#pl)
+     
+23. [Silent failures with BTSSS submission job](#silent-failures-with-btsss-submission-job)
 
 ## PCI API Tier 3 Team Overview <a name="overview"></a>
 To ensure we are providing the best products to our clients, the PCI API Tier 3 team will provide continuous production support for the VNCE-owned PCI API services (CHIP, Clinician Workflow, LoROTA), as well as some of PCI’s upstream services, including VEText, AVS, and Vista-API.  To achieve this, the team will develop a rotational on-call schedule to respond quickly in the event of critical sitewide outages. Alerts will be sent to on-call developers via PagerDuty (through integration with the DataDog APM tool).  In addition to incident response to critical outages, the production support team will be responsible for proactive performance optimization and for addressing tier 3 issues reported from the field (e.g. bugs, latency spikes, etc). 
