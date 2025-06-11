@@ -1,21 +1,20 @@
  ```yaml
-  ---
+ ---
 product: virtual-agent
 type: research-findings
 date: 2022-07-12
-authors:
-  - Shane Strassberg
-  - Rachel M. Murray
-tags:
-  - inclusive design
-  - accessibility
-  - chatbot
-  - 508 compliance
-  - virtual agent
-  - VA.gov
-  - screen readers
-  - user research
-  - Veterans
+authors: ["Shane Strassberg", "Rachel M. Murray"]
+tags: [
+  "inclusive design",
+  "accessibility",
+  "chatbot",
+  "508 compliance",
+  "virtual agent",
+  "VA.gov",
+  "screen readers",
+  "user research",
+  "Veterans"
+]
 ---
   ```
 
