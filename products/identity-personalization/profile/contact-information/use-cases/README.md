@@ -100,7 +100,7 @@ Secondary button: No, cancel these changes
 	- If the field is correctly and completely filled out, or they hit cancel a second time, they'll see a modal warning message asking to confirm if they want to leave edit mode.
 - **Status code:** None
 - **Format:** [Warning modal](https://design.va.gov/components/modal/#warning)
-[- Links to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3143-17044&t=V3lMgUB50CWCTPrv-1)
+- [Links to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3143-17044&t=V3lMgUB50CWCTPrv-1)
 - **Content:**
 
 Header: Cancel changes?
