@@ -14,7 +14,7 @@ ADE support offerings are detailed in the [ADE Menu of Services](https://github.
 - We can review your static wireframes or interactive prototypes looking for potential accessibility issues.
 - We can also work with you and advise on how to annotate designs to ensure that they are easy to implement in an accessible way.
 
-### Figma Template
+### Templates
 - [Design Review: Google Doc template](https://docs.google.com/document/d/1oIMVsxYitmY-dyWu9zpek-MUnbY42PszkupNvgda1wI/edit?usp=drive_link) (permissions needed)
 - [Design Review: Markdown template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/templates/design-review-template.md)
 
@@ -24,7 +24,7 @@ ADE support offerings are detailed in the [ADE Menu of Services](https://github.
 - We can also help you prepare the [required accessibility testing artifact](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review#artifact) for the Collaboration Cycle.
 - We can audit products for accessibility issues on desktop and mobile devices (subject to device availability among CAIA specialists).
 
-### Coded Audit Templates
+### Templates
 - [Coded Product Accessibility Audit: **Desktop**](https://docs.google.com/document/d/1Lerxk2rZp9Eeyb1XUP_9YCsYtKUdSxMCrzDzYj726xs/edit?usp=drive_link)
 - [Coded Product Accessibility Audit: **Mobile**](https://docs.google.com/document/d/1M9Yc9WjvQDr98J5n-Ahfw1KWnBONiyGEMjogQmMEUGY/edit?usp=drive_link)
 
