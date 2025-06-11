@@ -750,18 +750,32 @@ To resolve:
     - `sudo docker run -d --restart=always --rm -v /home/vasvcvtavsupdate/worker-config-va-network-vetext.json:/etc/datadog/synthetics-check-runner.json gcr.io/datadoghq/synthetics-private-location-worker:latest`
    
 ## Silent failures with BTSSS submission job
+
+Silent failures can also occur any time there is an error submitting a claim and a notification does not get sent.
+
+Silent failures are logged any time the BTSSS submission job fails and the subsequent notification job exceeds it retries. There is a monitor that will alert watchtower and #check-in-experience-apm channel on slack as well as anyone on pagerduty rotation.
+
+If it is found that silent failures have occured VTP is to be notified through the proper channels.
+
 ### Proccess used to derive phone numbers from BTSSS error logs
-1. Export **error logs** durring the timeframe when silent failures could have occured 
+It is necessary to notify veterans who were impacted by the silent failures. To do that we can get phone numbers from the vetext logs by linking up certain fields from csv dumps from datadog.
+
+1. Export **error logs** during the timeframe when silent failures could have occured 
   - Query: `@named_tags.class:"CheckIn::TravelClaimSubmissionJob" status:error `
   - [Example](https://vagov.ddog-gov.com/logs?query=%40named_tags.class%3A%22CheckIn%3A%3ATravelClaimSubmissionJob%22%20status%3Aerror&agg_m=count&agg_m_source=base&agg_t=count&cols=host%2Cservice%2C%40message_content%2C%40named_tags.request_id&messageDisplay=inline&refresh_mode=paused&storage=hot&stream_sort=time%2Cdesc&viz=stream&from_ts=1747677600000&to_ts=1747854000000&live=false)
   - Export results as csv
 2. Export BTSSS submission logs during the same timeframe
   - Query: `@named_tags.class:"CheckIn::TravelClaimSubmissionJob" "Submitting travel claim for"`
   - [Example](https://vagov.ddog-gov.com/logs?query=%40named_tags.class%3A%22CheckIn%3A%3ATravelClaimSubmissionJob%22%20%22Submitting%20travel%20claim%20for%22&agg_m=count&agg_m_source=base&agg_t=count&cols=host%2Cservice%2C%40message_content%2C%40named_tags.request_id&fromUser=true&messageDisplay=inline&refresh_mode=paused&storage=hot&stream_sort=time%2Cdesc&viz=stream&from_ts=1747677600000&to_ts=1747854000000&live=false)
-3. Select UUIDs from logs from step 2 
-3. Use the list of UUIDs to get records from VeText logs from around the same timeframe as the error logs.
-  - [Example query](https://vetext.ddog-gov.com/logs?query=InitiateCheckinResponse%20service%3Aquartz%20%21%40content%3A%22errors%22&agg_m=count&agg_m_source=base&agg_t=count&cols=host%2Cservice&messageDisplay=inline&refresh_mode=sliding&storage=hot&stream_sort=desc&viz=stream&from_ts=1749552100607&to_ts=1749566500607&live=true)
-4. Use short urls from the records collected from step 3 to get records from the reminder logs. Allow for the fact that reminders go out 45 minutes before the appointment so make the query time frame start earlier.
-  - [Example query](https://vetext.ddog-gov.com/logs?query=%22PCI%20Check-In%20Reminder%22&agg_m=count&agg_m_source=base&agg_t=count&cols=host%2Cservice&messageDisplay=inline&refresh_mode=sliding&storage=hot&stream_sort=desc&viz=stream&from_ts=1749552100607&to_ts=1749566500607&live=true)
-5. From the filtered records from step 4 extract the encoded phone numbers
-6. From GFE on network run a script that loops through the encoded phone numbers and calls `https://vetext-data.r01.med.va.gov/api/phone` 
+3. Get UUIDs from BTSSS submission logs that have a request_id from the results from step 1
+4. Export Initiate Check In logs from vetext the same timeframe
+  - Query: `InitiateCheckinResponse service:quartz !@content:"errors"`
+  - [Example](https://vetext.ddog-gov.com/logs?query=InitiateCheckinResponse%20service%3Aquartz%20%21%40content%3A%22errors%22&agg_m=count&agg_m_source=base&agg_t=count&cols=host%2Cservice&messageDisplay=inline&refresh_mode=sliding&storage=hot&stream_sort=desc&viz=stream&from_ts=1749552100607&to_ts=1749566500607&live=true)
+5. Extract short urls from records where UUIDs match a UUID from step 3
+6. Export vetext Check-in reminder logs from around the same timeframe. Allow for the fact that reminders go out 45 minutes before the appointment so make the query time frame start earlier.
+  - Query: `"PCI Check-In Reminder"`
+  - [Example](https://vetext.ddog-gov.com/logs?query=%22PCI%20Check-In%20Reminder%22&agg_m=count&agg_m_source=base&agg_t=count&cols=host%2Cservice&messageDisplay=inline&refresh_mode=sliding&storage=hot&stream_sort=desc&viz=stream&from_ts=1749552100607&to_ts=1749566500607&live=true)
+7. Use short urls from step 5 to get records from the reminder logs and extract encoded phone numbers as well as the IEN.
+8. To decrypt the phone numbers run a script that loops through the encoded phone numbers and calls `https://vetext-data.r01.med.va.gov/api/phone?phone=5555555555`. Needs to be done from a GFE laptop on network. Phone numbers are PII and should only be worked with on GFE. Deliver to stakeholder via encrypted email.
+
+
