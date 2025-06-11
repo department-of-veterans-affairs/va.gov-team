@@ -140,10 +140,9 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
   > *"In my experience, because I didn't manually request it to save, it doesn't save anything" (p11)*. 
 - More than half of the participants (6 of 11) were worried about their session timing out and losing the information they entered. 3 of these participants hoped their work would be saved--one based on previous experience with VA forms--but didn't know whether that would happen.
 - Some participants (4 of 11) wondered if their information would be saved if they logged out and then came back later. A couple participants tested this during their research session.
-
 - Two participants said they expected a notification if saving was happening automatically, as one said that a social security form did, and another said that Microsoft Word does. 
-
-
+- Only one participant was confident that her information would be saved because of her experience filling out VA forms.
+  > *"When I fill out forms on va.gov...when you log back in or go back...it'll start you where you left off" (p4).*
 
 **Finding 2: Most participants (x of 11) didn't read either of the informational alerts about saving**.
 Brief description
@@ -162,7 +161,7 @@ it's hard to get people to see anything besides the form fields when they're foc
 - A different participant asked why *Finish later* is needed when we already said that it's saving everything. This was the only (CHECK THIS!) participant who learned from an information alert that we are saving all the time and remembered that later.
 
 **Finding X: All participants were able to resume their request after taking a short break and a long break**.
-- 
+- Most participants (8 of 11) clicked on the *Continue your request* button in the informational alert displayed after clicking *Finish later*.
 
 
 
