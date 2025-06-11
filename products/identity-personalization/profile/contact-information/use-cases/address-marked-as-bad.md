@@ -1,19 +1,32 @@
 # Contact information: Mailing address is flagged as “bad” in VA Profile
 **Last updated: June 2025**
 
-When mail is sent to a Veteran and then returned to the VA, the address is flagged as “bad” in VA Profile. When a user’s address has this flag, they will be prompted to review and update their mailing address on the personal information and contact information pages in profile. Mailing address must be kept updated as it may be where Veterans receive VA bills, notices, and prescriptions.  
+- [User flow]
+- [Figma files]
+- Test Rail QA
+- Product documentation
+	- [Initial brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/README.md)
+	- [Discovery documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/discovery/documentation.md) 
 
-- [Initial brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/README.md)
-- [Discovery documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/discovery/documentation.md) 
+## Current experience
+- When mail is sent to a Veteran and then returned to the VA, the address is flagged as “bad” in VA Profile. When a user’s address has this flag, they will be prompted to review and update their Mailing address on the Contact information page in VA.gov Profile.
+- Mailing address must be kept updated as it may be where Veterans receive VA bills, notices, and prescriptions.  
 
-## UX
-- Review behavior `B-1` in the [user flow](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0%3A608&mode=design&t=rqPFqCwnOiocoCbM-1)
+### Profile hub page
+- **Use case:** User is prompted to review their mailing address from the Profile hub.
+- **Status code:** TBD
+- **Content:**
 
-### Profil hub page
-- Displays an [alert](https://design.va.gov/components/alert#warning-alert)  (VA design system component) directing user to review their mailing address
-* Alert disappears once Mailing address is successfully updated and validated.
-* [Desktop mock-up](https://www.figma.com/file/21eaoKK107F3Nm1ofnMOO8/Profile---Hub-landing-page?type=design&node-id=0-185&mode=design&t=5hjp61jNtbzmIl2J-11) 
-* [Mobile mock-up](https://www.figma.com/file/21eaoKK107F3Nm1ofnMOO8/Profile---Hub-landing-page?type=design&node-id=0-15&mode=design&t=5hjp61jNtbzmIl2J-11)
+Header: Review your mailing address
+
+The mailing address we have on file for you may not be correct.
+
+Link: Review the mailing address in your profile
+
+- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
+- [Link to designs](https://www.figma.com/design/21eaoKK107F3Nm1ofnMOO8/Profile---Hub-landing-page?node-id=0-185&t=IBILVuyQmV5tw9mS-1)
+- [Link to code]
+
 	
 ### Contact information page
 * Displays a [background only alert with icon](https://design.va.gov/components/alert#background-color-only-alert-with-icon) in the mailing address section. 
