@@ -2,7 +2,7 @@
 **Last updated: June 2025**
 
 - [User flow: Old version for reference](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0%3A365&mode=design&t=rqPFqCwnOiocoCbM-1) (B-8)
-- [Figma files]
+- [Figma files](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3153-13793&t=YpC93tIWZqgNt0Zt-1)
 - Test Rail QA
 - Product documentation
    - [Initial brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-change-messaging/initiative-brief.md)
@@ -24,9 +24,25 @@
 	
 - **Use case:** Modal appears telling user we don’t have a Mailing address on file, asking if a Mailing address should be added to match their Home address.
 - **Status code:** None
-- **Content:** TBD
 - **Format:** [Modal component](https://design.va.gov/components/modal)
-- [Links to designs]
+- [Links to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3123-29802&t=YpC93tIWZqgNt0Zt-1)
+- **Content:**
+
+Header: We’ve updated your home address
+
+Your updated home address:
+
+**[User entered address]**
+
+We don’t have a mailing address on file for you.
+
+Do you want to update your mailing address to match this home address? 
+
+**[User entered address]**
+
+Primary button: Yes
+
+Secondary button: No
 
 </details>
 
@@ -35,9 +51,27 @@
 	
 - **Use case:** Modal appears showing user two different addresses, asking if Mailing address should be updated to match Home address.
 - **Status code:** None
-- **Content:** TBD
 - **Format:** [Modal component](https://design.va.gov/components/modal)
-- [Links to designs](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0-605&mode=design&t=rqPFqCwnOiocoCbM-11)
+- [Links to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3123-29808&t=YpC93tIWZqgNt0Zt-1)
+- **Content:**
+
+Header: We’ve updated your home address
+
+Your updated home address:
+
+**[User entered address]**
+
+We have this mailing address on file for you:
+
+**[User entered address]**
+
+Do you want to update your mailing address to match this home address? 
+
+**[User entered address]**
+
+Primary button: Yes
+
+Secondary button: No
 
 </details>
 
@@ -46,20 +80,17 @@
 	
 - **Use case:** Once the user has made a selection in the modal, they’ll see a confirmation message with a close button. After closing the modal, a success alert will display in the relevant sections.
 - **Status code:** None
-- **Content:** TBD
 - **Format:** [Modal component](https://design.va.gov/components/modal)
-- [Links to designs](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0-1024&mode=design&t=fhDeYYDloWNkE2q5-11)
+- [Links to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3123-29819&t=YpC93tIWZqgNt0Zt-1)
+- **Content:**
 
-</details>
+Header: We’ve updated your mailing address
 
+We’ve updated your mailing address to match your home address:
 
-<details><summary>Successful update modal</summary>
-	
-- **Use case:** Once the user has made a selection in the modal, they’ll see a confirmation message with a close button. After closing the modal, a success alert will display in the relevant sections.
-- **Status code:** None
-- **Content:** TBD
-- **Format:** [Modal component](https://design.va.gov/components/modal)
-- [Links to designs](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0-1024&mode=design&t=fhDeYYDloWNkE2q5-11)
+**[User entered address]**
+
+Primary button: Close
 
 </details>
 
@@ -68,9 +99,15 @@
 	
 - **Use case:** If the Mailing address update can’t be completed, the user will see an error modal with a close button. After closing the modal, an error alert will display in the Mailing address section.
 - **Status code:** None
-- **Content:** TBD
-- **Format:** [Modal component](https://design.va.gov/components/modal)
-- [Links to designs](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0-1014&mode=design&t=6iSkKX2l8PqjFaHd-11)
+- **Format:** [Error modal component](https://design.va.gov/components/modal/#error)
+- [Links to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3123-29823&t=YpC93tIWZqgNt0Zt-1)
+- **Content:**
+
+Header: We can’t update your mailing address
+
+We're sorry. We can't update your information right now. We're working to fix this problem. Please check back later.
+
+Primary button: Close
 
 </details>
 
