@@ -48,27 +48,29 @@ June 2025: We've completed caregiver research and initial discussions with polic
 
 ### Health care POA
 
-1. How does a Veteran designate a health care POA?
-2. Can someone have multiple health care POAs?
-3. How does someone prove to VA they are a health care POA?
-4. Who at VA validates that someone is a health care POA?
-5. Where in VA is health care POA tracked?
-6. Under what circumstances does a health care POA become responsible for acting on behalf of a Veteran? And when this occurs, how is this communicated to medical staff?
-7. Under what circumstances does someone acting as a health care POA no longer need to make medical decisions for a Veteran? And when this occurs, how is this communicated to medical staff?
-8. To the best of your knowledge, are these processes relatively standard across facilities? Or is there little standardization?
-9. To the best of your knowledge, are there any notable variations by state with regards to the above questions?
+1. What is a health care POA, and what is this person allowed to do?
+2. How does a Veteran designate a health care POA?
+3. Can someone have multiple health care POAs?
+4. How does someone prove to VA they are a health care POA?
+5. Who at VA validates that someone is a health care POA?
+6. Where in VA is the designation of health care POA tracked?
+7. Under what circumstances does a health care POA become responsible for acting on behalf of a Veteran? And when this occurs, how is this communicated to medical staff?
+8. Under what circumstances does someone acting as a health care POA no longer need to make medical decisions for a Veteran? And when this occurs, how is this communicated to medical staff?
+9. To the best of your knowledge, are these processes relatively standard across facilities? Or is there little standardization?
+10. To the best of your knowledge, are there any notable variations by state with regards to the above questions?
 
 ### Court-appointed guardian
 
-1. How does someone become a court-appointed guardian? Under what circumstances does this occur?
-2. Can someone have multiple court-appointed guardians?
-3. How does someone prove to VA they are a court-appointed guardian?
-4. Who at VA validates that someone is a court-appointed guardian?
-5. Where in VA is court-appointed guardian tracked?
-6. Under what circumstances does a court-appointed guardian become responsible for acting on behalf of a Veteran? And when this occurs, how is this communicated to medical staff?
-7. Are there any circumstances in which a court-appointed guardianship is revoked? If so, what are they, and how is this communicated to medical staff?
-8. To the best of your knowledge, are these processes relatively standard across facilities? Or is there little standardization?
-9. To the best of your knowledge, are there any notable variations by state with regards to the above questions?
+1. What is a court-appointed guardian, and what is this person allowed to do?
+2. How does someone become a court-appointed guardian? Under what circumstances does this occur?
+3. Can someone have multiple court-appointed guardians?
+4. How does someone prove to VA they are a court-appointed guardian?
+5. Who at VA validates that someone is a court-appointed guardian?
+6. Where in VA is the designation of court-appointed guardian tracked?
+7. Under what circumstances does a court-appointed guardian become responsible for acting on behalf of a Veteran? And when this occurs, how is this communicated to medical staff?
+8. Are there any circumstances in which a court-appointed guardianship is revoked? If so, what are they, and how is this communicated to medical staff?
+9. To the best of your knowledge, are these processes relatively standard across facilities? Or is there little standardization?
+10. To the best of your knowledge, are there any notable variations by state with regards to the above questions?
 
 ## Timeline
 
