@@ -26,7 +26,7 @@ Marital Information | [Epic](https://github.com/department-of-veterans-affairs/t
 - Mural boards: (see links in tables above)
 - Slack channel (Agile6): #proj-va-design-patterns
 - Slack channel (DSVA): [#tmf-auth-exp-design-patterns](https://dsva.slack.com/archives/C07909N7U8Z)
-- Backlog of patterns [considered](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1719240863056/54e2c8569725a72e996ae9b2a687867f572f4051) and [tickets](https://github.com/orgs/department-of-veterans-affairs/projects/1314/views/4?sliceBy%5Bvalue%5D=_noValue)
+- Backlog of patterns [considered](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1719240863056/54e2c8569725a72e996ae9b2a687867f572f4051) and [tickets](https://github.com/orgs/department-of-veterans-affairs/projects/1314/views/4?sliceBy%5Bvalue%5D=_noValue) to transition to the next team.
 
 ## Team Members
 - Fran Cross, Agile6, Product manager
