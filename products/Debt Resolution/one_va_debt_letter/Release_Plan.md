@@ -136,7 +136,7 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 
 ### 1-month results
 
-- Number of unique users: 
+- Number of unique users: 2,299
 - Post-launch KPI 1 actual: [FILL_IN]
 - Post-launch KPI 2 actual: [FILL_IN]
 - Post-launch KPI 3 actual: [FILL_IN]
