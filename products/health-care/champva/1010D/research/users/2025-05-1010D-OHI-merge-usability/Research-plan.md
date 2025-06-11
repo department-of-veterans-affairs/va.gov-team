@@ -188,14 +188,14 @@ _Response options: YES or NO_
 _Response options: Spouse of a Veteran, Dependent child of a Veteran (Answering either would qualify the participant)_
 
 2. Does the Veteran you are related to get a VA disability compensation for a service-connected disability rating of 100%?
-_Response options: yes or no (Answering YES would qualify the participant)_
+_Response options: YES, NO (Answering YES would qualify the participant)_
 
 3. Are you enrolled in the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA)?
-_Response options: YES or NO (Mark answer, either qualifies for study)_
+_Response options: YES, NO, UNSURE (Mark answer, any response qualifies for study)_
 
 ### List the ideal completed sessions and total number and type (Veterans, caregivers, etc.) of participants for this study:
 
-- `Veterans:` **10**
+- `Veterans:` **10-12**
 - `Spouses and dependent chilren:` **3-5**
 - `AT users (can be: Veterans and spouses/dependent chidlren:` **2-5**
 - `Total:` **15**
