@@ -98,7 +98,7 @@ We will be conducting moderated usability testing sessions in which we will ask 
       
 ## Research materials 📔
 
-- [Link to conversation guide](url goes here)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2025-06-curated-list-usability-testing/conversation-guide.md))
 - [Link to prototype](url goes here)
 
 ## Recruitment 🎯	
