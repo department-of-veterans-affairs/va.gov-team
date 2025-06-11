@@ -86,7 +86,7 @@ _\[If participants hesitate\]_
 
 Jamie wants to send a message to Dr. Owens.
 
-\[START A MESSAGE\]
+\[START MESSAGE\]
 
 1. Let’s pause here.
 
@@ -133,7 +133,7 @@ Jamie wants to ask Dr. Owens about a recent lab result. Can you walk me through 
 
 ## Second Task: EDIT RECIPIENT + COMBO BOX - X minutes
 
-\[START A MESSAGE\]
+\[START MESSAGE\]
 
 Let’s say Jamie remembers it wasn’t Dr. Owens who ordered the tests, it was their surgeon, Dr. Wallace in Ann Arbor.
 
@@ -162,7 +162,7 @@ Let’s say Jamie remembers it wasn’t Dr. Owens who ordered the tests, it was 
 - \[If the participant skips the health care system\] Can you tell me why you chose to go to that selection box, first?
 - What would you do next?
 
-\[START A MESSAGE\]
+\[START MESSAGE\]
 
 - Let’s pause here again.
 - How would you describe the experience of selecting Dr. Wallace?
