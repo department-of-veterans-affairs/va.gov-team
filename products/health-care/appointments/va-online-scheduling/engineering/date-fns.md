@@ -153,4 +153,5 @@ new Date().toISOString() // Outputs: '2025-06-10T18:36:04.237Z'
 Notice the '.237Z'. We get the milliseconds which we don't need.
 
 ## Things to be Aware Of
-When viewing the date-fns and date-fns-tz documentation, change the version number to date-fns@2.24.0, data-fns-tz@2.0.0.
+- When viewing the date-fns and date-fns-tz documentation, change the version number to date-fns@2.24.0, data-fns-tz@2.0.0. These are the versions of the libraries used in VAOS.
+- When viewing date strings such as '2025-06-10T18:36:04Z' and '2025-06-10T18:36:04-0500' they are not the same. The 1st is UTC and must be converted to local time by subtracting the UTC offset and the 2nd is local time. So in this example, The 1st date string would be 1:36pm CST local time (18 - 5 CST offset = 13 - 12 = 1) 
