@@ -229,19 +229,19 @@ We would like a kick-off call with Perigean to discuss recruitment criteria. Sug
 > [!NOTE]
 > **Send pilot participant email in study Slack channel**
 
-We would like to have an AT user pilot, and non-AT user pilot
+We would like to have an AT user pilot, and 2 non-AT user pilot (1 screen reader, 1 screen magnifier)
 
-**Non-AT user pilot**
+**Non-AT user pilot (1)**
 - `Pilot participant name:` Michael Skinner
 - `Date and time of pilot session:` 06/18, 1:00-2:00pm ET
 
-**AT user pilot**
+**AT user pilots (2)**
 - `Pilot participant name:` TBD (Opened [ADE Research ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110909) 05/30/25, for technical assistance with sessions and AT pilot)
-- `Date and time of pilot session:` TBD (6/23, 6/24 or 6/25 hopefully)
+- `Date and time of pilot session:` 6/23, 6/24 or 6/25 (ADE team to confirm times by 6/13). 
 
 ### Research sessions
 - `Planned dates of research:` **June 30-July 18**
-- **Note:** AT user sessions must be scheduled week of 7/14-7/18, no earlier
+- **Note:** AT user sessions must be scheduled week of 7/14-7/18, no earlier, to accommodate ADE team availability for technical support during sessions.
 
 ### Length of sessions
 - `Session length:` 60 minutes for non-AT users, 90 minutes for AT users
