@@ -222,7 +222,7 @@ We would like a kick-off call with Perigean to discuss recruitment criteria. Sug
 
 - `06/13, Friday, 2:00pm-6:00pm ET`
 - `06/16, Monday, 9:30am-11:00pm ET, 2:00pm-4:00pm ET`
-- `06/10, Tuesday, 9:30am-11:30am ET, 12:00pm-1:00pm ET, and 4:00pm-5:30pm ET`
+- `06/17, Tuesday, 9:30am-11:30am ET, 12:00pm-1:00pm ET, and 4:00pm-5:30pm ET`
 
 ### Prepare
 **A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.** 
