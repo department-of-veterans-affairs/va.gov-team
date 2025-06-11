@@ -11,7 +11,7 @@
 ## Current experience
 - When mail is sent to a Veteran and then returned to the VA, the address is flagged as “bad” in VA Profile. When a user’s address has this flag, they will be prompted to review and update their Mailing address on the Contact information page in VA.gov Profile.
 - Mailing address must be kept updated as it may be where Veterans receive VA bills, notices, and prescriptions.
-- Once complete the updates follow the validation and error rules as all other inputs on the page.
+- The Mailing address inputs follow the same rules as all others, including when saving, removing, and system and validation errors.
 
 ### Profile hub page
 - **Use case:** User is prompted to review their mailing address from the Profile hub. Alert disappears once the Mailing address is updated and validated.
