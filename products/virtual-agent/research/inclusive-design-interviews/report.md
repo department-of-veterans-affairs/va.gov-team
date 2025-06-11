@@ -1,3 +1,13 @@
+ ```yaml
+  ---
+  product: 
+  type: research-findings
+  date: 
+  authors: []
+  tags: []
+  ---
+  ```
+
 # Chatbot Inclusive Design Research Report   
 
 #### Shane Strassberg and Rachel M. Murray, [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/research/inclusive-design-interviews/research-plan.md)
