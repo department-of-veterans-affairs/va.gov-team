@@ -7,7 +7,7 @@ The following accessibility audit documentation has been created via Google Docs
 ADE support offerings are detailed in the [ADE Menu of Services](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/ADE#services-we-offer).
 
 > [!TIP]
-> - When reviewing the templates, each document will have a last updated date in the first-page header. If you make any updates to a template, please adjust the date accordingly.
+> - Each Google Document will have a last updated date in the first-page header. If you make any updates to a template, please adjust the date accordingly.
 
 ## Review Wireframes and Figma Prototypes
 
