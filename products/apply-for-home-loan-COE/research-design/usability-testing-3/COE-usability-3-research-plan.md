@@ -125,11 +125,11 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 ### Availability
 (All times listed are EST)
-6/30 10:00 - 7:00
-7/1  10:00 - 7:00
-7/2  10:00 - 7:00
-7/3  10:00 - 7:00
-7/4  10:00 - 7:00
+* 6/30 10:00 - 7:00
+* 7/1  10:00 - 7:00
+* 7/2  10:00 - 7:00
+* 7/3  10:00 - 7:00
+* 7/4  10:00 - 7:00
 	
 ## Team Roles	
 **Please do not include email addresses in this section.** We previously required email addresses. VA's GitHub policy ([see announcement](https://github.com/orgs/department-of-veterans-affairs/discussions/13)) has changed. VA.gov email addresses cannot be in public repositories.
