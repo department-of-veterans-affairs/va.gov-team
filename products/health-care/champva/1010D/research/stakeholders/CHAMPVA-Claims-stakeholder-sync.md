@@ -1,6 +1,58 @@
 ## CHAMPVA Claims biweekly stakeholder sync
 Every other Wednesday at 2:35pm ET
 
+### 06/11/25
+
+**Attendees:** Angela C., Angela P., Arleen, Joie, Nadia, Amanda, Premal, Andrea, Renata, Jamie, Rachel 
+
+**Agenda**
+
+* Service blueprint: resubmissions and re-opens [(Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1723309711950/72864bacb39ee1c8cd48f80735b6f6994a72b6ca)
+
+**Notes**
+
+* Jamie sets the expectations that we will be discussing a single form to a single date of service, rather than a shoebox or bulk claim submission
+   * Resubmission flow has 3 options:
+       * Duty to Assist (DTA marked off on sendback letter)
+       * If PDI# provided → Claim checked again 
+       * If PDI# not provided → sent to R&R
+   * If claim is processed:
+    * EOB and payment generated
+    * EOB and no payment generated
+
+**Questions from IVC team:**
+
+**Resubmissions**
+   * The send back letter from the claims unit will specifically identify what is missing to open and process the claim. If it's an EOB from the primary insurance provider, that's indicated as well. 
+
+**Re-opens**
+* When an EOB is sent out with missing items or a claim denial, what draws the line between a beneficiary reopen a claim, or needing to go to the appeals process
+    * For Re-opens (missing items): they can resubmit with just the missing items
+    * For an Appeal: needs to be denial for an appealable reason (timely filing, not a covered service or benefit). Just missing an item or document is not an appealable denial
+* Does the EOB denote something that can be re-opened or an appeal?
+    * It does not, it will just give a reasoning/remark code for what's missing. 
+    * Either way, the bene will need to call in to get more information about the EOB remarks codes 
+* When you send back an EOB, is there a letter sent with the EOB?
+    * There's a denial letter, but it's not for an upfront rejection of a claim like basic missing information. It's only for reasons that can be appealed (reasons for why the claim was denied and what to do next). A basic denial would just include the remarks codes on the EOB. 
+* For re-opens, are benes calling the call center to understand the reasons on the EOB for denial or missing information?
+    * They are calling the call center for clarification
+* What system are call center staff looking in for the EOB denial status?
+    * Newer claims: CXM
+        * These codes are much less detailed (ex. 16 = claim lacks information)
+    * Older claims: CP&E
+        * These codes are much more detailed (ex. 391 = missing diagnosis code)
+**OHI**
+* Health insurance: if someone previously without OHI (did not submit OHI at time of enrollment) and now have insurance at the time of filing a claim -- is there a point where you have to ask the beneficiary to reimburse CHAMPVA because something was paid out by their insurance provider?
+    * Sort of. A scenario: the bene didn't have OHI at time of enrollment. We process their claims, we pay as primary because the system denotes no insurance. They submit a second claim comes in with a primary OHI/EOB, CHAMPVA will flag the OHI in the system to "questionable" and they will receive an EOB with a remark code (22) saying there's a discrepancy, asking the bene to submit the OHI certificate. Once the OHI is processed, they will ask the bene's provider to pay back to recoup the costs (whomever CHAMPVA paid out to). 
+    * Joie will need to think about whether there are instances where the bene directly has to pay back CHAMPVA, rather than the provider/insurance company 
+* If someone sends in a paper form without insurance info (for a CHAMPVA claim). Does that result in a send back letter, or do you just send the OHI cert to them?
+    * We would process the claim and let the system to adjudicate 
+    * No send back letter. The EOB would indicate we're missing the coordination of benefits from the insurance provider. No payment is initiated since our record says they have a primary insurance.
+
+***Note about terminology***
+* "Partially processed" is when we receive multiple claims and multiple dates of services in a batch underneath the same claim form, and we only process part of the batch. 
+
+
 ### 05/28/25
 **Attendees:** Amanda, Angela P., Joie, Melissa J., Andrea, Jamie, Renata, Rachel P.
 
