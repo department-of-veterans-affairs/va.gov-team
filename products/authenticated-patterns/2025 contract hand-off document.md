@@ -18,7 +18,7 @@ Marital Information | [Epic](https://github.com/department-of-veterans-affairs/t
 
 
 ## AEDP Artifacts
-- [Sharepoint](https://dvagov.sharepoint.com/sites/TMFAuthenticatedExperienceDesignPatterns ) (must be on network)
+- [Sharepoint](https://dvagov.sharepoint.com/sites/TMFAuthenticatedExperienceDesignPatterns ) (must be on the VA network)
 - [GitHub repo](https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns)
 - [GitHub board](https://github.com/orgs/department-of-veterans-affairs/projects/1314/views/4?sliceBy%5Bvalue%5D=_noValue)
 - [Mock Form AE Design Patterns app directory in vets-website](https://github.com/department-of-veterans-affairs/vets-website/tree/46009a10a8538ec828aea7db213b4d693175be89/src/applications/_mock-form-ae-design-patterns) 
