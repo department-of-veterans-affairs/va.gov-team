@@ -1,7 +1,7 @@
 # Contact information use cases
 **Last updated: June 2025**
 
-- [User flow](https://www.figma.com/design/zb5ecY9yMnupiLjaH9UmSc/Profile---Military-Information?node-id=609-2756&t=fxhpoB08Vs0FbcNc-1)
+- [User flow](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3123-34667&t=HML77KqMVILaoozm-1)
 - [Figma files](https://www.figma.com/design/zb5ecY9yMnupiLjaH9UmSc/Profile---Military-Information?node-id=609-2756&t=iU7vARDUjgIJkIfo-1)
 - Test Rail QA
 
