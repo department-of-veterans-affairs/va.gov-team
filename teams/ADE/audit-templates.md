@@ -15,7 +15,7 @@ ADE support offerings are detailed in the [ADE Menu of Services](https://github.
 - We can also work with you and advise on how to annotate designs to ensure that they are easy to implement in an accessible way.
 
 ### Figma Template
-- [Design Review: Google Doc template](https://docs.google.com/document/d/1oIMVsxYitmY-dyWu9zpek-MUnbY42PszkupNvgda1wI/edit?usp=drive_link)
+- [Design Review: Google Doc template](https://docs.google.com/document/d/1oIMVsxYitmY-dyWu9zpek-MUnbY42PszkupNvgda1wI/edit?usp=drive_link) (permissions needed)
 - [Design Review: Markdown template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/templates/design-review-template.md)
 
 ## Staging / CodePen / Production Audit
