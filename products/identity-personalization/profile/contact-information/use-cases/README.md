@@ -147,8 +147,8 @@ We’re sorry. Something went wrong on our end. Refresh this page or try again l
 
 ### Mailing and Home address section
 #### Validation
-- DONE [Home address is updated but does not match Mailing address](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/address-update-home-mailing-mismatch.md) 
-- DONE [Address validation scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/address-validation.md)
+- [Home address is updated but does not match Mailing address](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/address-update-home-mailing-mismatch.md) 
+- [Address validation scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/address-validation.md)
 
 
 #### Flags 
@@ -156,7 +156,7 @@ We’re sorry. Something went wrong on our end. Refresh this page or try again l
 
 
 #### Errors
-- [High incidences of address save failures](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Address%20Save%20Failure%20Codes.md)
+No additional error states for addresses.
 
 ---
 
@@ -190,3 +190,11 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 - [Mobile page of Sketch file](https://www.sketch.com/s/59857eb5-d9f9-4145-99d3-d9a1de2d0655/p/32C331B8-812D-46FE-AF7D-DCA63C881713/canvas) contains user flow, states, and behaviors
 
 </details>
+
+
+<details><summary>Archive | High incidences of address save failures, July 2022</summary>
+
+- [High incidences of address save failures](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/Combine%20Profile%20and%20Account/Address%20Save%20Failure%20Codes.md)
+
+</details>
+
