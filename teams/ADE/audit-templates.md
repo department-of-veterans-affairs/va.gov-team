@@ -1,5 +1,5 @@
 > [!NOTE]
-> **Last Updated:** `4/23/2025`
+> **Last Updated:** `6/11/2025`
 
 # Templates for Accessibility Audits
 The following accessibility audit documentation has been created via Google Docs, in order to create the most accessible version of each document for our team. Rather than duplicate this content, we are linking to the shared Google files,below.
@@ -25,8 +25,9 @@ ADE support offerings are detailed in the [ADE Menu of Services](https://github.
 - We can audit products for accessibility issues on desktop and mobile devices (subject to device availability among CAIA specialists).
 
 ### Templates
-- [Coded Product Accessibility Audit: **Desktop**](https://docs.google.com/document/d/1Lerxk2rZp9Eeyb1XUP_9YCsYtKUdSxMCrzDzYj726xs/edit?usp=drive_link)
-- [Coded Product Accessibility Audit: **Mobile**](https://docs.google.com/document/d/1M9Yc9WjvQDr98J5n-Ahfw1KWnBONiyGEMjogQmMEUGY/edit?usp=drive_link)
+- [Desktop Audit: Google Doc](https://docs.google.com/document/d/1Lerxk2rZp9Eeyb1XUP_9YCsYtKUdSxMCrzDzYj726xs/edit?usp=drive_link) (permissions needed)
+- [Desktop Audit: Markdown](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/templates/desktop-audit-template.md)
+- [Mobile Audit: Google Doc](https://docs.google.com/document/d/1M9Yc9WjvQDr98J5n-Ahfw1KWnBONiyGEMjogQmMEUGY/edit?usp=drive_link) (permissions needed)
 
 <!-- ## Health Check Audit
 
