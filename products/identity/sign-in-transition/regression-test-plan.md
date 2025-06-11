@@ -24,11 +24,16 @@ Steps for `vets-website` that will disable a user from navigating to the Interst
 
 1. Navigate to [VA.gov Flipper Admin portal](https://api.va.gov/flipper) in production
 2. Click on the Sign in to GitHub button
-3. Navigate to the `mhv_interstitial_enabled` feature and click on the link
+3. Navigate to...
+   - **DS Logon** > the `dslogon_interstitial_redirect` feature and click on the link
+   - **MHV** _(no longer available)_ > the `mhv_interstitial_enabled` feature and click on the link
 4. Click the **Disable for everyone** button
 5. Navigate to [https://www.va.gov](https://www.va.gov) > Click **Sign in** to open the modal
-6. Click the **My HealtheVet** button to authenticate > Enter in user credentials for MHV > Enter in multifactor code if prompted
+6. Click the...
+   - **DS Logon** > **DS Logon** button to authenticate > Enter in user credentials for DS Logon > Enter in multifactor code if prompted
+   - **MHV** _(no longer available)_ > **My HealtheVet** button to authenticate > Enter in user credentials for MHV > Enter in multifactor code if prompted
 7. When returning to VA.gov confirm you are not redirected to `/sign-in-changes-reminder`
+
 
 ### Backend Regression
 
