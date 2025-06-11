@@ -98,6 +98,8 @@ In the bottom toolbar of the Zoom window, click the arrow next to **SHOW CAPTION
 
 Before we look at the website, let’s start with a few warm-up questions.
 
+### For all participants
+
 1. Have you ever applied for the CHAMPVA program? (A cost-sharing program for spouses and children of Veterans with disabilities who don’t qualify for Tricare)
   * *[IF YES:]*
     * Did anyone, such as a VSO or family member/friend, help you fill out the application?
@@ -127,7 +129,24 @@ Before we look at the website, let’s start with a few warm-up questions.
      * How often are you visiting VA.gov?
      * For what tasks?
 
-Thank you for sharing your experiences. 
+### For only assistive tech users
+
+4. What assistive technology are you using right now?
+  * (If Dolphin screen reader, won't be able to share screen on Zoom)
+  * (if no AT) Do you sometimes use assistive technology while using VA.gov or filling out a form online?
+   * If so, what do you use and when?
+    * Would you be willing to start using it now in this session?
+    *(if not, run session w/o AT, or stop and ask Perigean for a replacement participant)
+
+5. How would you rate your level of experience with using a screen [reader/magnifier] -- beginner, intermediate, advanced or expert?
+   
+6.  How long have you been using a screen [reader/magnifier]?
+  
+7.  Have you ever shared your screen in Zoom while using a screen [reader/magnifier] before?
+   
+8.  Is there anything else that we can do to support you during this session? (RECORD AND DO!)
+
+Thank you for sharing. 
 
 ## Task Zero: [Screen share] - 5 minutes
 
