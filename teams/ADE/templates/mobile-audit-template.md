@@ -159,7 +159,7 @@
   * Nothing is obscured, running off viewport edges, or unreachable. (Horizontal scrolling is permitted for content like images, maps, diagrams, presentations, and data tables.) ([see SC 1.4.10: Reflow](https://www.w3.org/WAI/WCAG21/Understanding/reflow.html))   
   * Touch targets are at least 44x44 dp (density-independent pixels). (see [SC 2.5.5](https://www.w3.org/WAI/WCAG21/Understanding/target-size.html))
 
-#### Using TalkBack {#using-talkback}
+#### Using TalkBack
 
 ***Instructions**: TalkBack can be tested in multiple browsers. Repeat these checklists for every browser you test with. ([Refer to list of browsers note](#note).)* 
 
