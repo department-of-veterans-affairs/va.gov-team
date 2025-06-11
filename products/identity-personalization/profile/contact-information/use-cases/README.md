@@ -96,15 +96,19 @@ Secondary button: No, cancel these changes
 
 <details><summary>Canceling edit changes</summary>
 
-- **Use case:** If a user has made changes to any form field, has not correctly or completely filled out the field, and hits cancel, they will trigger an inline error. If the field is correctly and completely filled out, or they hit cancel a second time, they'll see a modal warning message asking to confirm if they want to leave edit mode.
+- **Use case:** If a user has made changes to any form field, has not correctly or completely filled out the field, and hits cancel, they will trigger an inline error.
+	- If the field is correctly and completely filled out, or they hit cancel a second time, they'll see a modal warning message asking to confirm if they want to leave edit mode.
 - **Status code:** None
-- **Content:** See designs
-- **Format:** See designs
-- Links to designs
-   - [Address]
-   - [Phone number]
-   - [Email address]
-   - Note: Ashley - if these don't change we only need one file.
+- **Format:** [Warning modal](https://design.va.gov/components/modal/#warning)
+[- Links to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3143-17044&t=V3lMgUB50CWCTPrv-1)
+- **Content:**
+
+Header: Cancel changes?
+
+You haven’t finished editing and saving the changes to your [H3 section title]. If you cancel now, we won’t save your changes.
+
+Primary button: Yes, cancel my changes
+Secondary button: No, go back to editing
 
 </details>
 
@@ -129,23 +133,22 @@ H2: This page isn't available right now
 We’re sorry. Something went wrong on our end. Refresh this page or try again later.	
 
 - **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
-- [Link to designs](https://www.figma.com/design/zb5ecY9yMnupiLjaH9UmSc/Profile---Military-Information?node-id=619-3634&t=iU7vARDUjgIJkIfo-1)
+- [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3147-17046&t=V3lMgUB50CWCTPrv-1)
 - [Link to code]
 
 </details>
 
 
-<details><summary>Save error: information can’t be saved</summary>
+<details><summary>Save error: Information can’t be saved</summary>
 
 - **Use case:** If we can’t write to the backend for any reason, a generic error message is displayed under the section header.
    - If the save continues to fail, the user is returned to read mode with an error displayed in the section they attempted to edit.
 - **Status code:** TBD
-- **Content:** See designs
 - **Format:** [Error alert component](https://design.va.gov/components/alert/#error-alert)
-- Link to designs
-   - Generic error message
-   - [Continue to fail error message](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=0-461&t=Fbas9uepDAVImVy2-1)
-- [Link to code]
+- [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3143-14380&t=V3lMgUB50CWCTPrv-1)
+- **Content:**
+
+We’re sorry. We can’t update your information right now. We’re working to fix this problem. Try again later.
 
 </details>
 
