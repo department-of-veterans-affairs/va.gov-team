@@ -312,7 +312,7 @@ Thank you. We can stop here.
 
 \[RECENT RECIPIENTS\]
 
-- Click on “Select a different caare team” on the bottom
+- Click on “Select a different care team” on the bottom
 
 \[SELECT CARE TEAM\]
 
