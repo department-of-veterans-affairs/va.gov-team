@@ -38,10 +38,7 @@
 - **Status code:** None
 - **Content:** See designs
 - **Format:** See designs
-- Links to designs
-   - [Address]
-   - [Phone number]
-   - [Email address]
+- [Links to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3123-35605&t=HML77KqMVILaoozm-1)
 
 </details>
 
@@ -49,12 +46,13 @@
 <details><summary>Editing information</summary>
 
 - **Use case:** Clicking the Edit button will put the section into edit mode and reveal the editable fields inline. If there are input errors they show inline with the input field.
+	- If a use enters a Military address additional fields show in the address edit state.
 - **Status code:** None
 - **Content:** See designs
 - **Format:** See designs
 - Links to designs
-   - [Address]
-   - [Phone number]
+   - [Address](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3123-35977&t=HML77KqMVILaoozm-1)
+   - [Phone number](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3123-35978&t=HML77KqMVILaoozm-1)
    - [Email address]
 
 </details>
