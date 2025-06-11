@@ -17,9 +17,7 @@ The OCTO Identity team manages the authentication integration for VA.gov. We wor
 | [MHV & MVH move into VA.gov](https://github.com/department-of-veterans-affairs/identity-documentation/milestone/1) | As Time Allows | Streamlines access and experience for Veterans by integrating services into VA.gov |
 | [Oracle Health Provisioning Expansion](https://github.com/department-of-veterans-affairs/identity-documentation/milestone/1) | As Time Allows | Expands secure access to Oracle Health records and tools |
 | [Operational Readiness: Internal Processes](https://github.com/department-of-veterans-affairs/identity-documentation/milestone/10) | Ongoing | Improves team coordination, documentation, and support efficiency |
-| Error Reduction on VA.gov | Later | Reduces authentication and access errors, improving trust and reliability |
 | [Identity Dashboard: STS focus](https://github.com/orgs/department-of-veterans-affairs/projects/1646/views/10?pane=issue&itemId=111916085&issue=department-of-veterans-affairs%7Cidentity-documentation%7C323) | In Intake | Provides VA teams with self-service tools for managing STS integrations securely |
-| Sign-In Transition: DMDC Federation | On Hold | TBD |
 
 
 
