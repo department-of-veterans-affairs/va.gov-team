@@ -41,10 +41,6 @@ Are there moments that matter?
 	
 - `Starting Up`
 - `Taking Care of Myself`
-- `Reinventing Myself`
-- `Putting Down Roots`
-- `Retiring`
-- `Aging`
 
 ## Research Goals 🥅	
 `What are you trying to learn from this research?` 
