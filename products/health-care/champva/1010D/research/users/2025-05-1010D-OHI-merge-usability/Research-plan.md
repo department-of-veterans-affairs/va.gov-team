@@ -195,9 +195,9 @@ _Response options: YES, NO, UNSURE (Mark answer, any response qualifies for stud
 
 ### List the ideal completed sessions and total number and type (Veterans, caregivers, etc.) of participants for this study:
 
-- `Veterans:` **10-12**
+- `Veterans:` **10**
 - `Spouses and dependent chilren:` **3-5**
-- `AT users (can be: Veterans and spouses/dependent chidlren:` **2-5**
+- `AT users (can be: Veterans and spouses/dependent children:` **2-5**
 - `Total:` **15**
 - `Ideal completed sessions:` **20**
 
@@ -216,15 +216,13 @@ _Response options: YES, NO, UNSURE (Mark answer, any response qualifies for stud
 - `At least 3 people of color`
   
 ## Timeline 🗓️
-> [!NOTE]
-> **Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.** 
 
 ### Optional Kick-off Call with Perigean
 We would like a kick-off call with Perigean to discuss recruitment criteria. Suggested dates and times: 
 
-- `06/06, Friday, 3:00pm-6:00pm ET`
-- `06/09, Monday, 9:30am-11:00pm and 3:00pm-4:00pm ET`
-- `06/10, Tuesday, 9:30am-10:30am ET, 12:00pm-5:30pm ET`
+- `06/13, Friday, 2:00pm-6:00pm ET`
+- `06/16, Monday, 9:30am-11:00pm ET, 2:00pm-4:00pm ET`
+- `06/10, Tuesday, 9:30am-11:30am ET, 12:00pm-1:00pm ET, and 4:00pm-5:30pm ET`
 
 ### Prepare
 **A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.** 
@@ -235,14 +233,15 @@ We would like to have an AT user pilot, and non-AT user pilot
 
 **Non-AT user pilot**
 - `Pilot participant name:` Michael Skinner
-- `Date and time of pilot session:` 06/10 or 06/12
+- `Date and time of pilot session:` 06/18, 1:00-2:00pm ET
 
 **AT user pilot**
-- `Pilot participant name:` TBD (Opened [ADE Research ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110909) 05/30/35)
-- `Date and time of pilot session:` TBD (Week of 06/09, hopefully)
+- `Pilot participant name:` TBD (Opened [ADE Research ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110909) 05/30/25, for technical assistance with sessions and AT pilot)
+- `Date and time of pilot session:` TBD (6/23, 6/24 or 6/25 hopefully)
 
 ### Research sessions
-- `Planned dates of research:` **June 16-July 1**
+- `Planned dates of research:` **June 30-July 18**
+- **Note:** AT user sessions must be scheduled week of 7/14-7/18, no earlier
 
 ### Length of sessions
 - `Session length:` 60 minutes for non-AT users, 90 minutes for AT users
@@ -253,15 +252,15 @@ We would like to have an AT user pilot, and non-AT user pilot
 
 ### Availability
 > - `Monday - Friday 9:30am-12:00pm ET and 1:00pm-6:30pm ET`
-> - `EXCEPT Thursday, 06/19 and Friday, 6/20 (no sessions)`
+> - `EXCEPT for 7/4 (no sessions due to Federal holiday)`
 
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
 - `Moderator:` Renata Keck & Jamie Fiore
 - `Research guide writing and task development:` Renata Keck	
 - `Participant recruiting & screening:`	Perigean	
-- `Project point of contact:` Renata Keck & Jamie Fiore	
-- `Accessibility specialist (for sessions where support for assistive technology may be needed):` **TBD** - team has opened an ADE ticket for support [(#110909)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110909)	
+- `Project point of contact:` Renata Keck, Jamie Fiore, Rachel Pope
+- `Accessibility specialist (for sessions where support for assistive technology may be needed):` **Cindy Merrill** associated ADE ticket [(#110909)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110909)	
 - `Note-takers:` Renata Keck, Jamie Fiore, and Rachel Pope
 - `Observers:` Will need to sign up so we can limit the number per session. Renata will add them to the session invites received from Perigean.
 
