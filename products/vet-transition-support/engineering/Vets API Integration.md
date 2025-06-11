@@ -71,8 +71,30 @@ By integrating `vets-api` into the app, we gain more scalability, in the sense t
 
 But in the near future, we would still gain reducing the amount of questions we ask veterans on the form by having their information pre-populated, and being able to save their benefits for them to revisit on the site.
 
+## Workflow diagrams
+
+### Current workflow
+
+```mermaid
+flowchart TD
+    A[Veteran answers questions in the form] --> B[Veteran submits their answers]
+    B --> C[Frontend computes benefit eligibility]
+    C --> D[Show eligible benefits to the veteran]
+```
+
+### BDS integrated workflow
+
+```mermaid
+flowchart TD
+    A[Veteran answers questions in the form] --> B[Veteran submits their answers]
+    B --> C[An API request is made to send answers to Vets API]
+    C --> D[Vets API sends answers to BDS API, and BDS returns eligible benefits]
+    D --> E[Vets API request returns eligible benefits from BDS to frontend]
+    E --> F[Show eligible benefits to the veteran]
+```
+
 ## Next steps
 
-I think the main focus for the path forward should be in integrating with the BDS API first, so that we can get as much of the recommended benefits as possible from their API. This would mean holding off on authentication until the API integration is complete. The implementation of the API in the `vets-api` repo would require a backend engineer to compare the BDS API endpoints with the data the app receives from the form, and pave a path for connecting the two.
+I think the main focus for the path forward should be in integrating with the BDS API via Vets API first, so that we can get as much of the recommended benefits as possible from their API. This would mean holding off on authentication until the API integration is complete. The implementation of the API in the `vets-api` repo would require a backend engineer to compare the BDS API endpoints with the data the app receives from the form, and pave a path for connecting the two.
 
 Doing the work in this order would give us an even clearer vision of what we would need in our app's API to support a seamless, authenticated experience.
