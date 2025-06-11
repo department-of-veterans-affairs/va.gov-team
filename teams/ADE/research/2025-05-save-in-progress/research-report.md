@@ -162,7 +162,9 @@ it's hard to get people to see anything besides the form fields when they're foc
 
 **Finding X: All participants were able to resume their request after taking a short break and a long break**.
 - Most participants (8 of 11) clicked on the *Continue your request* button in the informational alert displayed after clicking *Finish later*.
-
+- The other 3 participants were able to continue by clicking on the *Continue your application* link on the "Application for personal records request" card at the bottom of the My VA page.
+  - One of these participants noticed that the "Continue your application 
+- 3 participants noticed that they were returned to the *page before* the one that they were on. This is because no information had been entered on the page they were on [a known issue], but they said that they would have preferred to come back to the actual (blank) page that they had been on.
 
 
 ---
@@ -173,16 +175,20 @@ it's hard to get people to see anything besides the form fields when they're foc
 
 
 ## Recommendations
+### Recommendations: Save in Progress
 1. Consider **brainstorming how to display better communicate that we're saving all information as it's being entered**. Such messages should be better integrated into the user's interactions with the form and be accessible to AT users.
     - *Supporting evidence:* We're saving automatically with every edit, which participants asked for, but most didn't realize that was happening.
 
-
+### Recommendations: Request personal records form
 *Summarize actionable recommendations based on findings.*  
 
 1. **Recommendation:** [Insert action]  
    - _Supporting evidence: [Insert data]_  
 2. **Recommendation:** [Insert action]  
    - _Supporting evidence: [Insert data]_
+
+
+### Recommendations: My VA
 
 ## Next Steps
 
