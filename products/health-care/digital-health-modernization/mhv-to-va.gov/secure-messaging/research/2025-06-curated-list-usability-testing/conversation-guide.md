@@ -64,7 +64,7 @@ Today we are trying to learn how a Veteran might use this product if they were o
 
 Part of understanding how well this product works is to know what you, the user, are thinking and feeling while you are using it. As much as possible today, we would like you to say aloud anything you are thinking or feeling no matter how significant or insignificant you may think it is. Imagine that you are doing the tasks today and I am on the phone with you and can’t see your screen. Does that make sense?
 
-## First Task: RECENT RECIPIENTS - X minutes
+## First Task: RECENT CARE TEAMS - X minutes
 
 \[INBOX\]
 
@@ -80,7 +80,7 @@ Part of understanding how well this product works is to know what you, the user,
 
 _\[Do not interrupt participant unless they get completely stuck\]_
 
-\[RECENT RECIPIENTS\]
+\[RECENT CARE TEAMS\]
 
 _\[If participants hesitate\]_
 
@@ -126,7 +126,7 @@ Jamie wants to ask Dr. Owens about a recent lab result. Can you walk me through 
 
 ### Things to watch for
 
-- Does the participant find the provider in the "Recent recipients"?
+- Does the participant find the provider in the "Recent care teams"?
 - Does the participant easily find the "Continue" button?
 - Does the participant notice "Other Recipients"?
 - Does the participant struggle to choose a category?
@@ -137,12 +137,12 @@ Jamie wants to ask Dr. Owens about a recent lab result. Can you walk me through 
 
 Let’s say Jamie remembers it wasn’t Dr. Owens who ordered the tests, it was their surgeon, Dr. Wallace in Ann Arbor.
 
-- If you were Jamie, what would you do next?
+- If you were Jamie, what would you do next? 
 - \[If Participant doesn’t notice “Select a different care team”\] Is there anything on this page that might help with that?
 
 \[If Participant uses “Back”\]
 
-\[RECENT RECIPIENTS\]
+\[RECENT CARE TEAMS\]
 
 - What made you choose to use back?
 - What would you do next?
@@ -153,6 +153,8 @@ Let’s say Jamie remembers it wasn’t Dr. Owens who ordered the tests, it was 
 \[SELECT CARE TEAM\]
 
 - \[If Participant hesitates\] Remember we want to send a message to Dr. Wallace in Ann Arbor.
+
+  \[To clear the combo box, the Participant needs to click in the text box\]
 
 \[Let the participant struggle a bit before interfering\]
 
@@ -196,7 +198,7 @@ Please select Messages at the top of the screen for me.
 
 - Now, Jamie wants to message Dr. McDaniels at the John Dingell facility. Can you walk me through that?
 
-\[RECENT RECIPIENTS\]
+\[RECENT CARE TEAMS\]
 
 - \[If the participant is hesitant\] Do you see Dr. McDaniels from the John Dingell facility?
 - What would you do next?
@@ -262,7 +264,7 @@ Please select Messages at the top of the screen for me.
 - Now Jamie wants to send a message to their podiatrist, Dr. Diamond from the Ann Arbor VA.
 - Can you walk me through how to do that?
 
-\[RECENT RECIPIENTS\]
+\[RECENT CARE TEAMS\]
 
 - \[If Participant is hesitant\] Do you see Dr. Diamond from the Ann Arbor VA?
 - What would you do next?
@@ -310,7 +312,7 @@ Thank you. We can stop here.
 
 - Go ahead and continue to start message
 
-\[RECENT RECIPIENTS\]
+\[RECENT CARE TEAMS\]
 
 - Click on “Select a different care team” on the bottom
 
