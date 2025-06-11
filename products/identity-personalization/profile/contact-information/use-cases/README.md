@@ -36,9 +36,9 @@
 
 - **Use case:** For each section without information on file, i.e. a `null` value, the user will see the name of the section and prompt that tells them they can edit their profile to add [section information]. Clicking the Edit button will put the section into an inline edit mode.
 - **Status code:** None
-- **Content:** See designs
 - **Format:** See designs
 - [Links to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3123-35605&t=HML77KqMVILaoozm-1)
+- **Content:** See designs
 
 </details>
 
@@ -46,28 +46,24 @@
 <details><summary>Editing information</summary>
 
 - **Use case:** Clicking the Edit button will put the section into edit mode and reveal the editable fields inline. If there are input errors they show inline with the input field.
-	- If a use enters a Military address additional fields show in the address edit state.
 - **Status code:** None
-- **Content:** See designs
 - **Format:** See designs
 - Links to designs
    - [Address](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3123-35977&t=HML77KqMVILaoozm-1)
    - [Phone number](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3130-24667&t=HML77KqMVILaoozm-1)
    - [Email address](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3132-24668&t=HML77KqMVILaoozm-1)
+- **Content:** See designs
 
 </details>
 
 
 <details><summary>Saving information</summary>
 
-- **Use case:** Changes are saved once the user presses the Save button. Once the form is successfully saved, the user is returned to Read mode and a slim success alert should display below the section header.
+- **Use case:** Changes are saved once the user presses the Save button. Once the form is successfully saved, the user is returned to read mode and a slim success alert should display below the section header.
 - **Status code:** TBD
-- **Content:** See designs
-- **Format:** See designs
-- Links to designs
-   - [Address]
-   - [Phone number]
-   - [Email address]
+- **Format:** [Slim success alert](https://design.va.gov/components/alert/#examples---slim-alert)
+- [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3143-14380&t=V3lMgUB50CWCTPrv-1)
+- **Content:** Update saved.
 
 </details>
 
@@ -76,13 +72,24 @@
 
 - **Use case:** Clicking the remove button will trigger a modal prompting the user to confirm they want to remove their information. All entered information can be removed, **other than mailing address.**
 - **Status code:** None
-- **Content:** See designs
-- **Format:** See designs
-- Links to designs
-   - [Address]
-   - [Phone number]
-   - [Email address]
-   - Note: Ashley - if these don't change we only need one file.
+- **Format:** [Warning modal](https://design.va.gov/components/modal/#warning)
+- [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3143-17044&t=V3lMgUB50CWCTPrv-1)
+- **Content:**
+
+Header: Are you sure?
+
+This will remove your [section header title] across these VA benefits and services:
+
+- VA health care (including prescriptions, appointment reminders, lab and test results, and communications from your VA medical center)
+- Disability compensation
+- Pension benefits
+- Claims and appeals
+- Veteran Readiness and Employment (VR&E)
+
+You can always come back to your profile later if you want to add this home phone number again.
+
+Primary button: Yes, remove my information
+Secondary button: No, cancel these changes
 
 </details>
 
