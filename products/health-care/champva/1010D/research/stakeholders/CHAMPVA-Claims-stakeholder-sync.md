@@ -41,6 +41,8 @@ Every other Wednesday at 2:35pm ET
         * These codes are much less detailed (ex. 16 = claim lacks information)
     * Older claims: CP&E
         * These codes are much more detailed (ex. 391 = missing diagnosis code)
+
+
 **OHI**
 * Health insurance: if someone previously without OHI (did not submit OHI at time of enrollment) and now have insurance at the time of filing a claim -- is there a point where you have to ask the beneficiary to reimburse CHAMPVA because something was paid out by their insurance provider?
     * Sort of. A scenario: the bene didn't have OHI at time of enrollment. We process their claims, we pay as primary because the system denotes no insurance. They submit a second claim comes in with a primary OHI/EOB, CHAMPVA will flag the OHI in the system to "questionable" and they will receive an EOB with a remark code (22) saying there's a discrepancy, asking the bene to submit the OHI certificate. Once the OHI is processed, they will ask the bene's provider to pay back to recoup the costs (whomever CHAMPVA paid out to). 
