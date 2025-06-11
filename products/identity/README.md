@@ -42,7 +42,6 @@ Users can sign in on VA.gov using one of our Credential Service Providers (CSPs)
 
 - Login.gov
 - ID.me
-- My HealtheVet
 - DS Logon
 
 Sign-in CTAs for all of our CSPs appear in the upper-right corner of the header for VA.gov pages and products that require a signed in experience. Refer to the [Unified Sign-in Page (USiP)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/login/unified-sign-in-pages) in our design documentation for implementation details. You can see an [example of one of our health tools here](https://staging.va.gov/health-care/refill-track-prescriptions/).
