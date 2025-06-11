@@ -152,6 +152,9 @@ We’re sorry. We can’t update your information right now. We’re working to 
 
 </details>
 
+### Blocked users 
+- [See documentation here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/blocked-account.md)
+
 
 ### Mailing and Home address section
 #### Validation
