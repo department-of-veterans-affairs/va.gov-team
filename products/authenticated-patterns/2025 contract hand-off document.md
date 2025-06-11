@@ -3,7 +3,7 @@
 
 The Authenticated Experience Design Patterns team develops and contributes design patterns to the [VA Design System](https://design.va.gov/) (VADS). Teams who develop products on VA.gov can use these patterns for their applications. Patterns are flexible for adoption. 
 
-This information helps future teams in onboarding to work on the on remaining authenticated experience design patterns work.
+This information helps future teams in onboarding to work on the remaining authenticated experience design patterns work.
 
 ## Design patterns
 
