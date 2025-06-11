@@ -66,17 +66,19 @@ Alt: A page for users to update their mailing address. Below the address fields 
 <img width="565" alt="Edit-choose-where-to-save" src="https://github.com/user-attachments/assets/47a3f173-4624-4dc3-819e-0ce0ba5065bd">
 
 #### Prefilled information that is missing and required
-There may be instances where some information that gets prefilled is missing from the database, but also required by the form itself. In those instances, users will be brought to a page with a card that utilizes a colored tag to indicate that the information is missing, along with the word '(*Required)' next to the field heading text to indicate the user needs to provide that information. 
+There may be instances where some information that would otherwise be prefilled is missing from the database, but also required by the form itself. In those instances, users will be brought to a page with a card that utilizes a colored tag to indicate that the information is missing, along with the word "(*Required)" next to the field heading text to indicate the user needs to provide that information. 
 
 Alt: A page showing users they have missing and required information they will need to add.
 
-[will add image here]
+<img width="364" alt="missing-required-prefilled-information" src="https://github.com/user-attachments/assets/b183d0fa-dfc8-4bd8-93fe-ec42404d74d4" />
 
-If the user does not provide the required missing information and hits the 'Continue' button to try and mvoe forward, they will see the same page with that card in an error state and some red error text telling them what information they need to provide. Once they click 'Add' and provide the information on an edit page, they will be redirected back to this screen and able to continue through the form.  
+
+If the user does not provide the required missing information and hits the "Continue" button to try and move forward, they will see the same page with that card in an error state and some red error text telling them what information they need to provide. Once they click "Add" and provide the information on an edit page, they will be redirected back to this screen and able to continue through the form.  
 
 Alt: A page showing users an error state of the card with missing and required information they need to add.
 
-[will add image here]
+<img width="323" alt="missing-required-prefilled-information-error-state" src="https://github.com/user-attachments/assets/5e15eb9c-ddce-45ac-aaa8-18cc02a5d363" />
+
 
 Please note that there is currently a [ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/4276) to update the card component to include this error state. It may not yet be available for use in the VADS Figma design files.
 
