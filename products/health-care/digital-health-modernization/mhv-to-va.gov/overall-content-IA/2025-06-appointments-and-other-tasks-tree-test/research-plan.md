@@ -51,8 +51,8 @@ Are there moments that matter?
 
 ### Goals
 
-`1.` Gain an understanding of where transitioning service-members expect to find tools, information, and resources related to onboarding with and managing VA benefits. 
-`2.` Better understand where VA should place non-health related apppointments in the site architecture. 
+* `1.` Gain an understanding of where transitioning service-members expect to find tools, information, and resources related to onboarding with and managing VA benefits. 
+* `2.` Better understand where VA should place non-health related apppointments in the site architecture. 
   
 ### Outcome
 `How will this research advance your product to the next phase in the design process? What will you do with your learnings?`
