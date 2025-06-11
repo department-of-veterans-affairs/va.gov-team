@@ -163,6 +163,8 @@ For recruiting 2 users with cognitive disabilities:
    	- Yes *(Qualify)*
    	- No *(Disqualify)*
 
+- [ ] **Perigean Kickoff call on Tuesday, 06/17/2025 at 2 PM EST**
+
 ## Timeline 🗓️
 
 ### Prepare
@@ -188,7 +190,7 @@ The prototype for both Option Green and Option Red has been completed in Figma.
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
 
-- `[06/23, Monday, 10 AM-8 PM] EST`
+
 - `[06/24, Tuesday, 10 AM-8 PM] EST`
 - `[06/25, Wednesday, 10 AM-8 PM] EST`
 - `[06/26, Thursday, 10 AM-8 PM] EST`
