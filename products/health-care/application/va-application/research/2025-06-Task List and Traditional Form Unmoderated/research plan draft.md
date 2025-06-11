@@ -166,11 +166,11 @@ Our intended audience is Veterans and we will partner with Perigean for recruitm
 
 - `Suggested dates and times:` **[Wednesday 11th - Tuesday 17th; 12pm ET - 5pm ET]**
 - **Pilot Session** 
-- `Pilot participant name:` **[Perigean to Recruit]**
-- `Date and time of pilot session:` **[Enter time]** 
+- `Pilot participant name:` **[Perigean to Recruit 1 participant per cohort]**
+- `Date and time of pilot session:` **[TBD - Leave 3 days between Pilots before sessions start]** 
 
 ### Research sessions (Tentative)
-- **Session will be open: 06/23-06/30**
+- **Session will be open: 06/23-07/03**
 
 ### Length of sessions
 - We estimate each participant will need 30-45 minutes to complete both of the flows.
