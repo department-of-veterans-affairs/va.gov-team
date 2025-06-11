@@ -64,8 +64,8 @@ Each `button` element is within the `LI` element
 
 ```
 <ul>
-	<li><button>Label</button></li>
-	<li><button>Label</button></li>
+    <li><button>Label</button></li>
+    <li><button>Label</button></li>
     <li><button>Label</button></li>
 </ul>
 ```
@@ -90,8 +90,8 @@ Each `button` will contain the `role="radio"` attribute
 
 ```
 <ul role="radiogroup" aria-label="View selection">
-	<li><button role="radio">Label</button></li>
-	<li><button role="radio">Label</button></li>
+    <li><button role="radio">Label</button></li>
+    <li><button role="radio">Label</button></li>
     <li><button role="radio">Label</button></li>
 </ul>
 ```
