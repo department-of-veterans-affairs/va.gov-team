@@ -107,7 +107,7 @@ Jamie wants to send a message to Dr. Owens.
 - What makes you say that?
 - What would you change about that?
 
-Jamie wants to ask Dr. Owens about a recent lab result. Can you walk me through selecting the category you would choose for this message?
+Jamie wants to ask Dr. Owens about a recent lab result. Can you walk me through selecting the category you would choose for this message? [Dropdown is static] Because this is a prototype, it's not clickable - so just tell me what you would do next.
 
 \[MHV- SM user\] How would you describe the experience of selecting the category for this message compared how you would select a category on your own account?
 
@@ -138,7 +138,7 @@ Jamie wants to ask Dr. Owens about a recent lab result. Can you walk me through 
 Let’s say Jamie remembers it wasn’t Dr. Owens who ordered the tests, it was their surgeon, Dr. Wallace in Ann Arbor.
 
 - If you were Jamie, what would you do next?
-- \[If Participant doesn’t notice “Edit recipient”\] Is there anything on this page that might help with that?
+- \[If Participant doesn’t notice “Select a different care team”\] Is there anything on this page that might help with that?
 
 \[If Participant uses “Back”\]
 
@@ -147,10 +147,10 @@ Let’s say Jamie remembers it wasn’t Dr. Owens who ordered the tests, it was 
 - What made you choose to use back?
 - What would you do next?
 - \[If they struggle\] Do you see Dr. Wallace in Ann Arbor here?
-  - \[If they don’t see “Select a different recipient”\] Is there anything on this page that might help?
-  - \[If they still don’t see it\] Let’s try that link on the bottom that says “Select a different recipient.”
+  - \[If they don’t see “A different care team”\] Is there anything on this page that might help?
+  - \[If they still don’t see it\] Let’s try that option on the bottom that says “A different care team.”
 
-\[SELECT A CARE TEAM\]
+\[SELECT CARE TEAM\]
 
 - \[If Participant hesitates\] Remember we want to send a message to Dr. Wallace in Ann Arbor.
 
@@ -171,7 +171,7 @@ Let’s say Jamie remembers it wasn’t Dr. Owens who ordered the tests, it was 
 
 Please select “Back” for me.
 
-\[SELECT A CARE TEAM\]
+\[SELECT CARE TEAM\]
 
 Let’s look at the “Select your care team box. I noticed you used \[the dropdown/typed xyz\]
 
@@ -188,27 +188,38 @@ Let’s look at the “Select your care team box. I noticed you used \[the dropd
 
 ## Third Task: CONTACT LIST - X minutes
 
-\[SELECT A CARE TEAM\]
+\[SELECT CARE TEAM\]
 
 Please select Messages at the top of the screen for me.
 
 \[MESSAGES: INBOX\]
 
 - Now, Jamie wants to message Dr. McDaniels at the John Dingell facility. Can you walk me through that?
+
+\[RECENT RECIPIENTS\]
+
 - \[If the participant is hesitant\] Do you see Dr. McDaniels from the John Dingell facility?
 - What would you do next?
-- \[If they don’t notice the “Other recipients” section\] Is there anything on this page that could help you?
 
-\[SELECT A CARE TEAM\]
+  - \[If they don’t notice "A different care team"\] Is there anything on this page that could help you?
 
-They will not find the care team here. Let them struggle a little bit.
+\[SELECT CARE TEAM\]
+
+\[They will not find the care team here. Let them struggle a little bit.\]
 
 - \[If they pause\] Tell me what you are thinking right now.
 - What would you do next?
 - \[If they are not seeing the “Update your contact list” link\] Is there anything on this page that would help you?
 - \[If they still don’t see it\] Let’s try that link on the bottom that says, “Update your contact list.”
 
-\[CONTACT LIST\]
+\[If they select "What to do if you can't find your care team"\]
+\[CAN'T FIND YOUR CARE TEAM\]
+
+- \[Give the Participant a minute to read the page\] What would you do next?
+- \[If they don't notice "Update your contact list"\] Is there anything on this page that could help you?
+- \[If they still don’t see it\] Let’s try that link on the bottom that says, “Update your contact list.”
+
+\[MESSAGES: CONTACT LIST\]
 
 \[Give the Participant time to read directions and figure it out\]
 
@@ -217,7 +228,7 @@ They will not find the care team here. Let them struggle a little bit.
 - \[After they save changes\] Was your contact list updated? How do you know?
 - \[If they don’t do it on their own\] Let’s return to the previous screen.
 
-\[SELECT A CARE TEAM\]
+\[SELECT CARE TEAM\]
 
 - \[If Participant is hesitant\] Remember, we’re looking for Dr. McDaniels from the John Dingell facility.
 - Before you select the care team – Last time you used \[scroll/type\]. This time, I would like you to use \[type/scroll\].
@@ -230,12 +241,13 @@ They will not find the care team here. Let them struggle a little bit.
 - \[If the participant skips the health care system\] Can you tell me why you chose to go to that selection box, first?
 - What would you do next?
 
-\[SELECT A CARE TEAM\]
+\[SELECT CARE TEAM\]
 
 - Let’s pause here again.
 - How would you describe the experience of finding and selecting Dr. McDaniels?
   - What confused you, if anything?
   - What did you find helpful, if anything?
+    
 - Please select Messages at the top of the screen for me.
 
 ### Things to watch for
@@ -254,17 +266,17 @@ They will not find the care team here. Let them struggle a little bit.
 
 - \[If Participant is hesitant\] Do you see Dr. Diamond from the Ann Arbor VA?
 - What would you do next?
-- \[If they don’t notice the “Other recipients” section\] Is there anything on this page that could help you?
-- \[If they still don’t see it\] Let’s try that link on the bottom that says, “Select a different recipient.”
+- \[If they don’t notice "A different care team"\] Is there anything on this page that could help you?
+- \[If they still don’t see it\] Let’s try that option on the bottom that says “A different care team.”
 
-\[SELECT A CARE TEAM\]
+\[SELECT CARE TEAM\]
 
 \[The Participant will not find Dr. Diamond here\]
 
 - \[If the Participant is hesitant\] Remember, we are looking for Dr. Diamond from the Ann Arbor VA.
 - \[When the care team isn’t found\] What would you do next?
-- \[If they don’t notice the “I can’t find” link\] Is there anything on this page that would help you?
-- \[If they still don’t see it\] Let’s try that link on the bottom that says, “I can’t find my care team.”
+- \[If they don’t notice the “What to do if you can't find your care team” link\] Is there anything on this page that would help you?
+- \[If they still don’t see it\] Let’s try that link on the bottom that says, “What to do if you can't find your care team.”
 
 \[CAN’T FIND YOUR CARE TEAM\]
 
@@ -292,21 +304,21 @@ Thank you. We can stop here.
 \[INBOX\]
 
 - I am going to walk you through this last task.
-- Let’s start a message.
+- Let’s start a new message.
 
 \[INTERSTITIAL\]
 
-- Go ahead and continue
+- Go ahead and continue to start message
 
 \[RECENT RECIPIENTS\]
 
 - Click on “Select a different caare team” on the bottom
 
-\[SELECT A CARE TEAM\]
+\[SELECT CARE TEAM\]
 
 - Select John D. Dingell VA Medical Center and then click “Continue.”
 
-\[SELECT A CARE TEAM - ERROR STATE\]
+\[SELECT CARE TEAM - ERROR STATE\]
 
 - \[If the Participant doesn’t mention it\] What do you think happened?
 - What would you do next?
