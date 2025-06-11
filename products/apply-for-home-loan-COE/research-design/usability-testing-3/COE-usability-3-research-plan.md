@@ -116,20 +116,20 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 ### Research sessions
 * Planned dates of research:
+6/30/25 - 7/4/25
 
 ### Length of sessions
 * Session length: 45 minutes
 * Buffer time between sessions: 30 minutes 
-* Maximum Sessions per day: 3
+* Maximum Sessions per day: 4
 
 ### Availability
-
-## T.B.D. after VSO research
-> When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. *Note: we recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S.* 
-> 
-> Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. (e.g. Monday 9-1, 3-6; Tuesday 9-6, etc.; ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
-
-
+(All times listed are EST)
+6/30 10:00 - 7:00
+7/1  10:00 - 7:00
+7/2  10:00 - 7:00
+7/3  10:00 - 7:00
+7/4  10:00 - 7:00
 	
 ## Team Roles	
 **Please do not include email addresses in this section.** We previously required email addresses. VA's GitHub policy ([see announcement](https://github.com/orgs/department-of-veterans-affairs/discussions/13)) has changed. VA.gov email addresses cannot be in public repositories.
