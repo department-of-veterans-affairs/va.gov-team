@@ -28,6 +28,8 @@ ADE support offerings are detailed in the [ADE Menu of Services](https://github.
 - [Desktop Audit: Google Doc](https://docs.google.com/document/d/1Lerxk2rZp9Eeyb1XUP_9YCsYtKUdSxMCrzDzYj726xs/edit?usp=drive_link) (permissions needed)
 - [Desktop Audit: Markdown](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/templates/desktop-audit-template.md)
 - [Mobile Audit: Google Doc](https://docs.google.com/document/d/1M9Yc9WjvQDr98J5n-Ahfw1KWnBONiyGEMjogQmMEUGY/edit?usp=drive_link) (permissions needed)
+- [Mobile Audit: Markdown](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/templates/mobile-audit-template.md)
+
 
 <!-- ## Health Check Audit
 
