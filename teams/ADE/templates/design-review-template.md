@@ -1,6 +1,5 @@
 > [!IMPORTANT]  
-> The ADE team created this template to conduct design reviews. Teams should feel free to copy this template and use it as needed for their own testing. <br><br>
-> **ADE uses a Google Docs version of the template.** Your team may want to turn this into a Google Doc or similar collaborative document tool for ease of working with others.
+> The ADE team created this template to conduct design reviews. Teams should feel free to copy this template and use it as needed for their own testing.
 
 # ADE Figma Prototype Accessibility Review - [Team]: [Product]
 
