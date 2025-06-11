@@ -748,3 +748,9 @@ To resolve:
   - Run the private location workers (one for the TEVI account and one for the VEText account) using the latest image
     - `sudo docker run -d --restart=always --rm -v /home/vasvcvtavsupdate/worker-config-va-network-tevi.json:/etc/datadog/synthetics-check-runner.json gcr.io/datadoghq/synthetics-private-location-worker:latest`
     - `sudo docker run -d --restart=always --rm -v /home/vasvcvtavsupdate/worker-config-va-network-vetext.json:/etc/datadog/synthetics-check-runner.json gcr.io/datadoghq/synthetics-private-location-worker:latest`
+   
+## Silent failures with BTSSS submission job
+### Proccess used to derive phone numbers from BTSSS error logs
+1. Get request_ids from error logs durring the timeframe when silent failures could have occured
+  - [Example query](https://vagov.ddog-gov.com/logs?query=%40named_tags.class%3A%22CheckIn%3A%3ATravelClaimSubmissionJob%22%20status%3Aerror&agg_m=count&agg_m_source=base&agg_t=count&cols=host%2Cservice%2C%40message_content%2C%40named_tags.request_id&messageDisplay=inline&refresh_mode=paused&storage=hot&stream_sort=time%2Cdesc&viz=stream&from_ts=1747677600000&to_ts=1747854000000&live=false) 
+2. 
