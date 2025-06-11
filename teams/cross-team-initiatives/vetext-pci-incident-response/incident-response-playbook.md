@@ -751,6 +751,13 @@ To resolve:
    
 ## Silent failures with BTSSS submission job
 ### Proccess used to derive phone numbers from BTSSS error logs
-1. Get request_ids from error logs durring the timeframe when silent failures could have occured
+1. Get request_ids from **error logs** durring the timeframe when silent failures could have occured
   - [Example query](https://vagov.ddog-gov.com/logs?query=%40named_tags.class%3A%22CheckIn%3A%3ATravelClaimSubmissionJob%22%20status%3Aerror&agg_m=count&agg_m_source=base&agg_t=count&cols=host%2Cservice%2C%40message_content%2C%40named_tags.request_id&messageDisplay=inline&refresh_mode=paused&storage=hot&stream_sort=time%2Cdesc&viz=stream&from_ts=1747677600000&to_ts=1747854000000&live=false) 
-2. 
+2. Use the request ids from step 1 to get a list of uuids from these logs 
+  - [Example query](https://vagov.ddog-gov.com/logs?query=%40named_tags.class%3A%22CheckIn%3A%3ATravelClaimSubmissionJob%22%20%22Submitting%20travel%20claim%20for%22&agg_m=count&agg_m_source=base&agg_t=count&cols=host%2Cservice%2C%40message_content%2C%40named_tags.request_id&fromUser=true&messageDisplay=inline&refresh_mode=paused&storage=hot&stream_sort=time%2Cdesc&viz=stream&from_ts=1747677600000&to_ts=1747854000000&live=false)
+3. Use the list of UUIDs to get records from VeText logs from around the same timeframe as the error logs.
+  - [Example query](https://vetext.ddog-gov.com/logs?query=InitiateCheckinResponse%20service%3Aquartz%20%21%40content%3A%22errors%22&agg_m=count&agg_m_source=base&agg_t=count&cols=host%2Cservice&messageDisplay=inline&refresh_mode=sliding&storage=hot&stream_sort=desc&viz=stream&from_ts=1749552100607&to_ts=1749566500607&live=true)
+4. Use short urls from the records collected from step 3 to get records from the reminder logs. Allow for the fact that reminders go out 45 minutes before the appointment so make the query time frame start earlier.
+  - [Example query](https://vetext.ddog-gov.com/logs?query=%22PCI%20Check-In%20Reminder%22&agg_m=count&agg_m_source=base&agg_t=count&cols=host%2Cservice&messageDisplay=inline&refresh_mode=sliding&storage=hot&stream_sort=desc&viz=stream&from_ts=1749552100607&to_ts=1749566500607&live=true)
+5. From the filtered records from step 4 extract the encoded phone numbers
+6. From GFE on network run a script that loops through the encoded phone numbers and calls `https://vetext-data.r01.med.va.gov/api/phone` 
