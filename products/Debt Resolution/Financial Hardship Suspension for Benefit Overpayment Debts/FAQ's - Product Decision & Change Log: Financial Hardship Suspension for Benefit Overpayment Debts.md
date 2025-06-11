@@ -126,3 +126,6 @@ Current # of accounts requesting relief ; as of June 1, 2025.
 
 **26. Does DMC or VA have any additional resources that they might send a Veteran who is experiencing financial hardship? i.e. Are there any financial counseling or educational materials available?**
 - Yes, there are resources across va.gov that might be a good idea to provide as reference for Veterans are using 
+
+**27. Why would a Veteran choose a suspension over a waiver?**
+- TBD 
