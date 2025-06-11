@@ -1,5 +1,5 @@
 # Design Pitch: Display Intent to File (ITF) Status in CST
-(Updated: 6/9/25)
+(Updated: 6/11/25)
 
 ## Links
 * [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110236)
@@ -110,14 +110,15 @@ Continue with card content and UI designs during Sprint 21 so we have covered th
 Pain point: No visibility after submission. After successfully submitting the ITF online, you are taken to a confirmation screen where you can print a PDF. However, this opportunity is lost once you leave the page.
 ![CleanShot 2025-06-08 at 23 27 36@2x](https://github.com/user-attachments/assets/8a076aee-9580-417b-8df4-6422a9d2ad1c)
 
+### Types of ITFs*
+* Pension benefits
+* Compensation benefits
+* *DIC (Maybe a third benefit that you can request an ITF for?)
 
-### Types of ITFs
-* Standalone Intent to file (0966)
-* Disability compensation (526ez)
-* Veteran’s pension (527ez)
-* Dependency and Indemnity Compensation
-(DIC)
-* Supplemental (0995)
+### Ways to request/create an ITF
+* Submit the standalone Intent to File form (0966) to request an ITF for Pension and/or Compensation benefits
+* Start a Disability claim (526ez) or Supplemental claim (0995) to create an ITF for Compensation benefits, if one is not already on file
+* Start a Veteran's Pension claim (527ez) to create an ITF for Pension benefits, if one is not already on file
 
 ### Previous projects and research
 * [Midpoint Review - Design Feedback - Lifestage Pension and Burial, Intent to File V1 #107932](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107932)
