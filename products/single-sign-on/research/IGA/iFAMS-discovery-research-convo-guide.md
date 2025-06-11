@@ -38,7 +38,7 @@
  
 ### Sort what's important
 - I am going to show you a working list of requirements. Can you help me sort these in priority order? It can be the order that best suits you as an individual, in other words, what would you do if the process were up to you.
-- Share screen; [Conduct sorting activity on VA Mural]
+- Share screen; [Conduct sorting activity on VA Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1747414536975/b58ebe24f96ad634b08b63259f51e5f65a9711a3?sender=ua0d825b32c8711c13b130611)
 - Example shot: ![p1-prioritization-exercise-example](https://github.com/user-attachments/assets/475024a2-dd10-459a-9def-c4c3ab2089ce)
 
 
