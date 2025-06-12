@@ -169,6 +169,35 @@ We’re sorry. We can’t update your information right now. We’re working to 
 #### Errors
 No additional error states for addresses.
 
+
+### Mobile phone section
+#### Validation
+
+<details><summary>User enters an international phone number</summary>
+
+- **Use case:** If a user enters an international phone number in the mobile phone section they will be informed via modal that they cannot receive text notifications with an international phone number. They are not stopped from completing this task.
+- **Status code:** TBD
+- **Format:** [Warning modal](https://design.va.gov/components/modal/#warning)
+- [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3184-28915&t=Lec9VMwUOLJiae7J-1)
+- [Link to code]
+- **Content:**
+
+Header: We can’t send text notifications to international phone numbers
+
+[user entered number] is an international phone number. If you save this number, you won’t receive text notifications.
+
+Primary button: Save the number you entered
+
+Secondary button: Edit the number you entered
+
+</details>
+
+#### Flags 
+No additional flags for mobile phone numbers.
+
+#### Errors
+No additional error states for mobile phone numbers.
+
 ---
 
 <details><summary>Archive | Contact Information Use Cases, September 2023</summary>
