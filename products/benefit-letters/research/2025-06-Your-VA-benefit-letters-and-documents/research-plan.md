@@ -2,7 +2,7 @@
 
 `What problem is your product trying to solve?`
 
-The "[Your VA letters and documents](https://staging.va.gov/records/download-va-letters/letters)" page lets Veterans access important letters needed to verify eligibility and status for benefits. However, the page prioritizes editing the Veteran’s mailing address, and Veterans cannot view, download, or print their letters until they click the "View Letters" button at the bottom. This extra step creates unnecessary friction, making it harder for Veterans to quickly and efficiently download their benefit-related letters.
+The "Your VA letters and documents" page lets Veterans access important letters needed to verify eligibility and status for benefits. However, the page prioritizes editing the Veteran’s mailing address, and Veterans cannot view, download, or print their letters until they click the "View Letters" button at the bottom. This extra step creates unnecessary friction, making it harder for Veterans to quickly and efficiently download their benefit-related letters.
 
 In addition, by making letter access dependent on a required mailing address, the current flow risks excluding Veterans who do not have a valid mailing address in their VA.gov profile.
   
