@@ -31,6 +31,7 @@ This inefficient pattern directly affects Veterans' experience:
 - Double lighthouse API call: `2985.46 milliseconds`
  
 The double call approach is taking about **4.3x longer** than the single call (2985ms vs 688ms)
+
 ---
 
 ## Implementation Options
