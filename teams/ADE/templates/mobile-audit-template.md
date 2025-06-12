@@ -205,9 +205,9 @@ Android devices, like more general purpose computers, support a wide plethora of
 
 Repeat these checklists for every browser you test with.
 
-## **Results and recommendations** {#results-and-recommendations}
+## **Results and recommendations**
 
-Title issues as succinctly, and as close to their checklist counterparts, as possible.**
+Title issues as succinctly, and as close to their checklist counterparts, as possible.
 
 Write up your findings by issue or by page, your choice. 
 
