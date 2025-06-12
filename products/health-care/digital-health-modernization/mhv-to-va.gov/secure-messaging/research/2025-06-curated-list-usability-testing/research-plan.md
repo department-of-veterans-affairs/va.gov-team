@@ -126,7 +126,7 @@ Please make sure that ALL participants are willing to complete the session on th
  - Only one participant per US State
 
 **Criteria for participants**
- - 6 participants must regularly use Secure Messages (see screener)
+ - All participants must regularly use Secure Messages (see screener)
  - At least 4 participants with cognitive disabilities – mild to severe (see screener)
  - Have not worked for the VA in the previous 5 years.
 
@@ -179,9 +179,9 @@ Please make sure that ALL participants are willing to complete the session on th
 
 1. Have you used Secure Messaging on VA.gov within the last 3 months?
    
-   a. _Yes (recruit 6)_
+   a. _Yes (recruit)_
    
-   b. _No_(recruit 6)
+   b. _No_(do not recruit)
 
 2. Have you been diagnosed with (formally or informally) a cognitive disability? This may include any intellectual disability, ADHD, Autism Spectrum Disorder, severe, persistent mental illness, brain injury, stroke, Alzheimer's disease and other dementias, or others not listed.
  
