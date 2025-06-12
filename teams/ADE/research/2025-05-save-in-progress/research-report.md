@@ -146,7 +146,7 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
 
 **Finding 2: Most participants didn't see the informational alerts about saving, and the few who did, didn't remember what they said**.
 
-- 7 of 11 participants didn't notice the information alert on the authenticated form intro page, and 7 of 11 participants (including 6 of the previous 7) didn't notice it at the top of the first page of the form.
+- 7 of 11 participants didn't notice the information alert on the authenticated form intro page, and 7 of 11 participants (including 6 of the previous 7) didn't notice it at the top of the first page of the form. When some of these participants were later shown the alert, they suggested making it easier to notice by making the text larger, red, or in a dialog box that you have to close.
 
 - When participants are opening the form from the intro page, and filling out the form, they seemed to focus on only the form itself. 
   > *"My brain kind of skipped over what I read and went to the more important stuff...I've filled out a decent amount of these [online forms], and...because I'm used to it, I just go straight to answering questions" (p11).*
@@ -188,9 +188,12 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
 
 ## Recommendations
 ### Recommendation: Revise Save in Progress design
-1. Consider **brainstorming how to display better communicate that we're saving all information as it's being entered**. Such messages should be better integrated into the user's interactions with the form and be accessible to AT users.
-    - *Supporting evidence:* We're saving automatically with every edit, which participants asked for, but most didn't realize that was happening.
-2. Check analytics for the current 
+1. Consider **brainstorming how to display better communicate that we're saving all information as it's being entered**. 
+   - *Supporting evidence:* We're saving automatically with every edit, which participants asked for, but most didn't realize that was happening because they didn't notice or didn't understand the informational alerts.   
+     1. Such messages should be better integrated into the user's interactions with the form. It's possible that no messaging will be effective before the user has started filling out information. Users may be more receptive to an alert that pops up later while they're editing or right after they click "Continue". 
+     1. The messages must be accessibile to AT users.
+     1. The message could be reworded could be have a stronger word at the beginning to attract attention and visibility to users of screen magnifiers. For example, "Your information will be saved..."
+   
 
 ### Recommendation: Fix accessibility issues with My VA
 #### My VA
