@@ -154,14 +154,15 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
 
 - 3 participants who read the alert didn't understand it as saving every edit automatically. They thought that it saved only when you clicked *Finish later* or *Continue*. 
   > *"So every time you put something in and you hit *Continue* or *Finish later*, it will save it for you, so you can pick up right where you left off instead" (p9).*
-- 1 participant thought he understood the informational alert but was confused by the *Finish later* button. He also said that the wording "We'll save your request on every change" is curious, and the *Finish later" button is confusing, too:
+- 1 participant thought he understood the informational alert but was thrown off by the *Finish later* button. He also said that the wording "We'll save your request on every change" is curious, and the *Finish later" button is confusing, too:
   > *"'On every change' sounds like...only every time I go back and make a change to what I've already input" (p12).*
+
    > *"Maybe...if the button doesn't say 'Finish later'...something like 'Save and close', because what it's doing is actually closing the form...because it's already being saved as you go along...There's the other threat...does that mean I'm just canceling this form? So having 'save', there is the reassurance that this is gonna save the last thing that I input. And then it's gonna close the form" (p12).*
 
 
-- Issue with screen readers not reading the information alert on the first form page because it's above the H1
-- Issue with screen magnifer: P2 didn't notice alert at top of form b/c focused on fields to fill out and didn't see that part of the screen (b/c magnification)
-- _Supporting data: Quote [add context]_  
+- WRITE THIS Issue with screen readers not reading the information alert on the first form page because it's above the H1
+- WRITE THIS Issue with screen magnifer: P2 didn't notice alert at top of form b/c focused on fields to fill out and didn't see that part of the screen (b/c magnification)
+
 - _Supporting data: ![text](link - add image to github folder and link here with .png)_  
 
 
@@ -196,11 +197,11 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
 
 ## Recommendations
 ### Recommendation: Revise the Save in Progress design
-1. **Brainstorm how to display better communicate that we're saving all information as it's being entered**. 
-   - *Supporting evidence:* We're saving automatically with every edit, which participants asked for, but most didn't realize that was happening because they didn't notice or didn't understand the informational alerts.   
+1. **Brainstorm how to display better communicate that we're saving all information as it's being entered or updated**. We need to revisit how we communicate what the form is doing so that we inform users without being annoying.
+   - *Supporting evidence:* We're saving automatically with every edit, which participants asked for, but most didn't realize that was happening because they didn't see or understand the informational alerts.   
    - Consider the suggestions below:
-      1. Messaging should be better integrated into the user's interaction with the form. It's possible that no messaging will be effective before the user has started filling out information, so we should find somewhere other than the intro page and the top of the first page of the form. Users may be more receptive to an alert that pops up later while they're editing or right after they click "Continue". 
-      1. Messaging must be accessible to AT users so that all screen reader users will hear it, even if they start navigating form pages with the H1. 
+      1. Messaging should be better integrated into the user's interaction flow with the form. It's possible that no messaging will be effective before the user has started filling out information, so we should find somewhere other than the intro page and the top of the first page of the form. Users may be more receptive to an alert that shows up later while they're editing or right after they click "Continue". 
+      1. Messaging must be accessible to AT users so that all screen reader users will hear it, even if they start navigating form pages down from the H1. 
       1. Messaging could be reworded to lead with what's most important at the beginning to attract attention and ensure visibility to users of screen magnifiers. For example, "Saving will happen automatically..." or "Your information will be saved..."
       1. Messaging could be reworded for clarity, especially "We'll save your request on every change".
       1. Consider relabeling the *Finish later* button to better align with the revised messaging.
