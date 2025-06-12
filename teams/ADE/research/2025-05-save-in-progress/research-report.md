@@ -151,6 +151,10 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
   > *"We're gonna save it every time. So that's good. I can stop and come back as long as I sign back in" (p8).*
 - 3 participants who read the alert didn't understand it as saving every edit automatically. They thought that it saved only when you clicked *Finish later* or *Continue*. 
   > *"So every time you put something in and you hit *Continue* or *Finish later*, it will save it for you, so you can pick up right where you left off instead" (p9).*
+- 1 participant thought he understood the informational alert but was confused by the *Finish later* button. He also said that the wording "We'll save your request on every change" is curious, and the *Finish later" button is confusing, too:
+  > *"'On every change' sounds like...only every time I go back and make a change to what I've already input" (p12).*
+   > *"Maybe...if the button doesn't say 'Finish later'...something like 'Save and close', because what it's doing is that it's actually closing the form...because it's already being saved as you go along" (p12).*
+
 - When participants are opening the form from the intro page, and filling out the form, they seemed to focus on only the form itself. 
   > *"My brain kind of skipped over what I read and went to the more important stuff...I've filled out a decent amount of these [online forms], and...because I'm used to it, I just go straight to answering questions" (p11).*
 
@@ -193,9 +197,10 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
 ### Recommendation: Revise Save in Progress design
 1. **Brainstorm how to display better communicate that we're saving all information as it's being entered**. 
    - *Supporting evidence:* We're saving automatically with every edit, which participants asked for, but most didn't realize that was happening because they didn't notice or didn't understand the informational alerts.   
-     1. Messaging should be better integrated into the user's interactions with the form. It's possible that no messaging will be effective before the user has started filling out information. Users may be more receptive to an alert that pops up later while they're editing or right after they click "Continue". 
-     1. Messaging must be accessibile to AT users.
-     1. Messaging could be reworded to lead with what's most important at the beginning to attract attention and ensure visibility to users of screen magnifiers. For example, "Saving will happen automatically..." or "Your information will be saved..."
+    1. Messaging should be better integrated into the user's interactions with the form. It's possible that no messaging will be effective before the user has started filling out information. Users may be more receptive to an alert that pops up later while they're editing or right after they click "Continue". 
+    1. Messaging must be accessible to AT users.
+    1. Messaging could be reworded to lead with what's most important at the beginning to attract attention and ensure visibility to users of screen magnifiers. For example, "Saving will happen automatically..." or "Your information will be saved..."
+    1. Consider rewording the *Finish later* button to better align with the messaging.
    
 
 ### Recommendation: Fix accessibility issues with My VA
