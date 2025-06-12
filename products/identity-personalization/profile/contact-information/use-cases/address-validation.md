@@ -2,7 +2,7 @@
 **Last updated: June 2025**
 
 - [User flow]
-- [Figma files]
+- [Figma files](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3168-11737&t=Lec9VMwUOLJiae7J-1)
 - Test Rail QA
 - [Product documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/address-validation/README.md)
 
@@ -30,7 +30,7 @@ Header: We can’t confirm the address you entered with the U.S. Postal Service
 Tell us which of these addresses you’d like us to use.
 
 - **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
-- [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=2708-19101&t=7PiDyTPNkTF1dSq9-1)
+- [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3123-29740&t=Lec9VMwUOLJiae7J-1)
 - [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/4b1cb7be2bc1df72d166a85aa88b683ef6b840c8/src/platform/user/profile/vap-svc/constants/addressValidationMessages.js#L43)
 
 </details>
@@ -47,7 +47,7 @@ Header: Confirm your address
 U.S. Postal Service records show that there may be a problem with the unit number for this address. Confirm that you want us to use this address as you entered it. Or, cancel to edit the address.
 
 - **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
-- [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=2708-19104&t=7PiDyTPNkTF1dSq9-1)
+- [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3123-29743&t=Lec9VMwUOLJiae7J-1)
 - [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/4b1cb7be2bc1df72d166a85aa88b683ef6b840c8/src/platform/user/profile/vap-svc/constants/addressValidationMessages.js#L22)
 
 </details>
@@ -64,7 +64,7 @@ Header: Confirm your address
 U.S. Postal Service records show this address may need a unit number. Confirm that you want us to use this address as you entered it. Or, go back to edit and add a unit number.
 
 - **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
-- [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=2708-19103&t=7PiDyTPNkTF1dSq9-1)
+- [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3123-29738&t=Lec9VMwUOLJiae7J-1)
 - [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/4b1cb7be2bc1df72d166a85aa88b683ef6b840c8/src/platform/user/profile/vap-svc/constants/addressValidationMessages.js#L33)
 
 </details>
@@ -81,7 +81,7 @@ Header: Confirm your address
 We can’t confirm the address you entered with the U.S Postal Service. Confirm that you want to us to use this address as you entered it. Or, go back to edit it.
 
 - **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
-- [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=2708-19105&t=7PiDyTPNkTF1dSq9-1)
+- [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3123-29742&t=Lec9VMwUOLJiae7J-1)
 - [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/4b1cb7be2bc1df72d166a85aa88b683ef6b840c8/src/platform/user/profile/vap-svc/constants/addressValidationMessages.js#L50)
 
 </details>
@@ -98,7 +98,7 @@ Header: This address you entered is invalid
 We can’t confirm the address you entered with the U.S. Postal Service. You’ll need to go back to edit it.
 
 - **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
-- [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=2708-19107&t=7PiDyTPNkTF1dSq9-1)
+- [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3123-29744&t=Lec9VMwUOLJiae7J-1)
 - [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/4b1cb7be2bc1df72d166a85aa88b683ef6b840c8/src/platform/user/profile/vap-svc/constants/addressValidationMessages.js#L60)
 
 </details>
@@ -115,7 +115,7 @@ Header: We can’t confirm the address you entered with the U.S. Postal Service
 We can use the suggested address we found. Or, you can go back to edit the address you entered.
 
 - **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
-- [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=2708-19106&t=7PiDyTPNkTF1dSq9-1)
+- [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3123-29741&t=Lec9VMwUOLJiae7J-1)
 - [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/4b1cb7be2bc1df72d166a85aa88b683ef6b840c8/src/platform/user/profile/vap-svc/constants/addressValidationMessages.js#L69)
 
 </details>
@@ -132,7 +132,7 @@ Header: We couldn’t verify your address
 We can’t deliver your VA mail to this address because we can’t confirm it with the U.S. Postal Service. Try editing it.
 
 - **Format:** [Error alert component](https://design.va.gov/components/alert/#error-alert)
-- [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=2708-19108&t=7PiDyTPNkTF1dSq9-1)
+- [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3123-29746&t=Lec9VMwUOLJiae7J-1)
 - [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/4b1cb7be2bc1df72d166a85aa88b683ef6b840c8/src/platform/user/profile/vap-svc/constants/addressValidationMessages.js#L79)
 
 </details>
