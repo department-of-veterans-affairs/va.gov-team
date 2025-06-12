@@ -97,13 +97,12 @@ Feedback from all sessions indicated that current date range options don’t acc
 
 When using the dropdown filter, 4 / 5 participants asked for additional options that consisted of a range (e.g. Born between XXXX -  XXXX).
 
+![before 2000](https://github.com/user-attachments/assets/f5eb8945-e206-45fa-b9fd-3e947a05c7c5)
 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image1.png "image_tooltip")
- 
+
 
 *Clinicians wanted broader options then the ones shown*
 
@@ -113,12 +112,10 @@ All participants expressed the need for some form of date range selection featur
 
 When navigating through the column menus, 3 /5 participants stated that oftentimes they do not know the exact date to search within a menu for a date column.
 
+![date of birth menu](https://github.com/user-attachments/assets/42949446-f866-4fc1-aca9-6cbd19359ad2)
 
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
-
-![alt_text](images/image2.png "image_tooltip")
 
 
 *Example of a search bar in a column menu for a ‘Date of Birth’ column*
@@ -129,15 +126,13 @@ When navigating through the column menus, 3 /5 participants stated that oftentim
 
 All participants initially felt uncertain about which column would occupy the farthest left position when using the pinning feature.
 
+![pinning](https://github.com/user-attachments/assets/e5e4196d-261b-4163-b929-6f4390b4c114)
 
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
 
-![alt_text](images/image3.png "image_tooltip")
 
-
-*Multiple columns that are “pinned left” *
+*Multiple columns that are “pinned left”*
 
 Only 1 participant was able to easily reorder the columns in a specific order using the pinning feature. **All participants tried to drag and drop the columns when asked to reorder them.**
 
