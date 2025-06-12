@@ -155,7 +155,7 @@ it's hard to get people to see anything besides the form fields when they're foc
 
 
 **Finding 3: ALL participants tried the *Finish later* button and from that learned that their information was saved**.
-- After the first time each participant clicked the *Finish later* button, they saw the "Your records request has been saved" message. Then when they returned to the form, they saw the information they had entered previously. This is how most participants learned that the *Finish later* button saved their information, and they assumed that you had to click this button in order to save. 
+- After the first time each participant clicked the *Finish later* button, they saw the "Your records request has been saved" message. Then when they returned to the form, they saw the information they had entered previously. This is how most participants learned that the *Finish later* button saved their information, and they (incorrectly) assumed that you had to click this button in order to save. 
 - The "Your records request has been saved" message appears to be well positioned because ALL participants read it, unlike the two informational alerts. It appears at a time that users have intentionally stopped filling out the form and are wondering whether their work will be saved.
 - One participant clicked *Finish later* accidentally and thought he was going to lose information entered, but then noticed that the form saved his work. He then assumed that his information was  being constantly saved (not only when you click *Finish later*).
 - A different participant asked why *Finish later* is needed when we already said that it's saving everything. This was the only (CHECK THIS!) participant who learned from an information alert that we are saving all the time and remembered that later.
@@ -166,6 +166,11 @@ it's hard to get people to see anything besides the form fields when they're foc
   - One of these participants noticed that the "Continue your application 
 - 3 participants noticed that they were returned to the *page before* the one that they were on. This is because no information had been entered on the page they were on [a known issue], but they said that they would have preferred to come back to the actual (blank) page that they had been on.
 
+**Finding X: Accessibility issues were discovered with My VA**
+- One participant using a screen magnifier (on a Windows computer using the Edge browser and Microsoft Zoom Magnification at least 300%) asked why the **"Continue your application" link in the form request card on My VA was so much smaller than everything else on the card**. The link text doesn't seem to have scaled up like the text above it (see [image below](URL for p13-MyVA-form-card-bottom)).
+
+**Finding X: Accessibility issues were discovered with the form**
+
 
 ---
 
@@ -175,11 +180,19 @@ it's hard to get people to see anything besides the form fields when they're foc
 
 
 ## Recommendations
-### Recommendations: Save in Progress
+### Recommendation: Revise Save in Progress design
 1. Consider **brainstorming how to display better communicate that we're saving all information as it's being entered**. Such messages should be better integrated into the user's interactions with the form and be accessible to AT users.
     - *Supporting evidence:* We're saving automatically with every edit, which participants asked for, but most didn't realize that was happening.
+2. Check analytics for the current 
 
-### Recommendations: Request personal records form
+### Recommendation: Fix accessibility issues with My VA
+#### My VA
+1. My VA--Make the "Continue your application" link in the form request card scale up with magnification like everything else on the card already does.
+    - *Supporting evidence:* One participant using a screen magnifier found it difficult to read this link because its font didn't magnify like all the other text on the draft form card.
+
+#### Recommendation: Fix accessibility issues with Request personal records form
+
+### Recommendation: Consider design revisions for Request personal records form
 *Summarize actionable recommendations based on findings.*  
 
 1. **Recommendation:** [Insert action]  
@@ -188,7 +201,7 @@ it's hard to get people to see anything besides the form fields when they're foc
    - _Supporting evidence: [Insert data]_
 
 
-### Recommendations: My VA
+### Recommendations: TBD
 
 ## Next Steps
 
@@ -199,6 +212,7 @@ it's hard to get people to see anything besides the form fields when they're foc
 
 *Identify gaps in the current study and areas requiring additional investigation––such as demographics that were not included in this study.* 
 
+1. Check analytics for the existing "Finish this request later" link on VA forms to see how much it's being used. It would be interesting to see if changing this link to a button (as tested in this study) would result in more clicks/engagement.
 
 ## Appendix
 [Research plan](./research-plan.md)
