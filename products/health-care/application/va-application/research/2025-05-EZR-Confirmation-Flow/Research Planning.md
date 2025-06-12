@@ -207,7 +207,7 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 - `Participant recruiting & screening:`	**Perigean**	
 - `Project point of contact:` **Moderators**		
 - `Accessibility specialist (for sessions where support for assistive technology may be needed):` **N/A**	
-- `Note-takers:` **10-10 Team** ***or*** **Perigean**	
+- `Note-takers:` **10-10 Team**
 - `Observers:` **10-10 Team**
 
 
