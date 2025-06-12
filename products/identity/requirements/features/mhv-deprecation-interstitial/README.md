@@ -9,7 +9,7 @@ Display an interstitial after login for MHV users encouraging transition to mode
 
 | ID      | Requirement                                          | Type                          | Status     |
 |:--------|:------------------------------------------------------|:------------------------------|:-----------|
-| [REQ-0001](./REQ-0001.md) | Show interstitial after login for MHV-only users       | Functional                    | Completed  |
+| [REQ-0001](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/requirements/features/mhv-deprecation-interstitial/REQ-0001) | Show interstitial after login for MHV-only users       | Functional                    | Completed  |
 | REQ-0002 | Show Login.gov interstitial for dual-credential users | Functional                    | Completed  |
 | REQ-0003 | Obfuscate user email addresses                        | Security/Privacy              | Completed  |
 | REQ-0004 | Screen reader compatibility for obfuscated email      | Non-Functional (Accessibility) | Completed  |
