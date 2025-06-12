@@ -227,11 +227,11 @@ Please make sure that ALL participants are willing to complete the session on th
 
 ### Availability
 
-- `[06/17, Tuesday, 08:30 AM - 07:00 PM] EST`
-- `[06/18, Wednesday, 08:30 AM - 07:00 PM] EST`
-- `[06/20, Friday, 08:30 AM - 04:00 PM] EST`
-- `[06/23, Monday, 08:30 AM - 07:00 PM] EST`
-- `[06/24, Tuesday, 08:30 AM - 07:00 PM] EST`
+- `06/23, Monday, 08:30 AM - 07:00 PM EST`
+- `06/24, Tuesday, 08:30 AM - 07:00 PM EST`
+- `06/25, Wednesday, 08:30 AM - 07:00 PM EST`
+- `06/26, Thursday, 08:30 AM - 07:00 PM EST`
+
   
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
