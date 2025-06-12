@@ -26,11 +26,10 @@ This inefficient pattern directly affects Veterans' experience:
 
 ---
 ### Performance Metrics 
-(with staging data, 16 letters)
-- Single lighthouse API call: `688.38 milliseconds`
-- Double lighthouse API call: `2985.46 milliseconds`
- 
-The double call approach is taking about **4.3x longer** than the single call (2985ms vs 688ms)
+> **[TODO: Aurora to fill in actual performance data]**
+> 
+> - Single lighthouse API call: `___ milliseconds`
+> - Double lighthouse API call: `___ milliseconds`
 
 ---
 
@@ -56,31 +55,11 @@ The double call approach is taking about **4.3x longer** than the single call (2
 
 ---
 
-### Option 2: Interim Optimization (Cache Metadata)
-
-**Approach**: Implement caching in `ClaimLetterDownloader` to avoid redundant metadata calls.
-
-👉 [See Option 2 Diagram](#option-2-diagram)
-
-**Pros:**
-- ✅ Reduces API calls for subsequent downloads
-- ✅ Performance improvement for Veterans
-- ✅ Works with current Lighthouse endpoints
-
-**Cons:**
-- ❌ High development effort (caching logic, invalidation, storage)
-- ❌ Added complexity and potential bugs
-- ❌ Still some downloads require 2 calls (cache misses)
-
-**LOE**: High
-
----
-
-### Option 3: Wait for Optimized Endpoint
+### Option 2: Wait for Optimized Endpoint
 
 **Approach**: Wait for Lighthouse team to bundle metadata with download endpoint (~2 sprints).
 
-👉 [See Option 3 Diagram](#option-3-diagram)
+👉 [See Option 2 Diagram](#option-2-diagram)
 
 **Pros:**
 - ✅ Optimal performance (1 API call per download)
@@ -98,13 +77,13 @@ The double call approach is taking about **4.3x longer** than the single call (2
 
 ## Recommendation Matrix
 
-| Factor | Option 1: Simple | Option 2: Cache | Option 3: Wait |
-|--------|------------------|-----------------|----------------|
-| **Performance** | Poor (2 calls) | Good (1-2 calls) | Excellent (1 call) |
-| **Development Effort** | Low | High | Low |
-| **Timeline** | 1-2 weeks | 3-4 weeks | 4-6 weeks |
-| **Technical Risk** | Low | Medium | Low |
-| **Long-term Value** | Low | Medium | High |
+| Factor | Option 1: Simple | Option 2: Wait |
+|--------|------------------|----------------|
+| **Performance** | Poor (2 calls) | Excellent (1 call) |
+| **Development Effort** | Low | Low |
+| **Timeline** | 1-2 weeks | 4-6 weeks |
+| **Technical Risk** | Low | Low |
+| **Long-term Value** | Low | High |
 
 ---
 
@@ -161,39 +140,6 @@ sequenceDiagram
 ```
 
 ### Option 2 Diagram
-
-```mermaid
-sequenceDiagram
-    participant Veteran
-    participant Frontend
-    participant VetsAPI
-    participant Cache
-    participant Lighthouse
-
-    Veteran->>Frontend: Clicks "Download letter"
-    Frontend->>VetsAPI: Download request
-    
-    VetsAPI->>Cache: Check for metadata
-    
-    alt Cache Hit
-        Cache-->>VetsAPI: Letter metadata
-        VetsAPI->>Lighthouse: /claim-letters/download
-        Lighthouse-->>VetsAPI: PDF content
-    else Cache Miss
-        VetsAPI->>Lighthouse: /claim-letters/search
-        Lighthouse-->>VetsAPI: All letter metadata
-        VetsAPI->>Cache: Store metadata
-        VetsAPI->>Lighthouse: /claim-letters/download
-        Lighthouse-->>VetsAPI: PDF content
-    end
-    
-    VetsAPI-->>Frontend: PDF with filename
-    Frontend-->>Veteran: File downloads
-    
-    Note over Veteran,Lighthouse: 1-2 calls depending on cache
-```
-
-### Option 3 Diagram
 
 ```mermaid
 sequenceDiagram
