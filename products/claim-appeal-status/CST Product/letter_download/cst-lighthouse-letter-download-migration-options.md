@@ -26,10 +26,8 @@ This inefficient pattern directly affects Veterans' experience:
 
 ---
 ### Performance Metrics 
-> **[TODO: Aurora to fill in actual performance data]**
-> 
-> - Single lighthouse API call: `___ milliseconds`
-> - Double lighthouse API call: `___ milliseconds`
+- Single lighthouse API call: `688.38 milliseconds`
+- Double lighthouse API call: `2985.46 milliseconds`
 
 ---
 
