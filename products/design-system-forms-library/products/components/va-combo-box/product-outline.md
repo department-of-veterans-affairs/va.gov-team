@@ -8,19 +8,27 @@
   
 ## Artifacts
 - [Design Decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/va-combo-box/product-outline.md#:~:text=design%2Ddecision-,%2D,-log.md) 
-- Link to discovery research ticket or findings
-- Native Mobile Design in Figma
-- Link to Experimental design request if applicable
 - [Properties / architecture document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/va-combo-box/properties-architecture.md)
 
 ## Summary
-A combo box helps users select an item from a large list of options.
+A combo box helps users select an item from a large list of options. This component is useful in mobile apps for scenarios where users need to choose a single option from a list. 
+
+
   
 ## Purpose & Context
-- What problem does this component solve?
-- Where and how will it be used in the product?
-- Is this a new component or an enhancement to an existing one?
-- Who are the primary users of this component?
+#### Space Efficiency
+Mobile screens have limited space. A combo box allows users to select from many options without displaying all of them at once, saving valuable screen real estate compared to radio buttons or long lists.
+
+#### Input Error Prevention
+By restricting users to a predefined set of options, combo boxes prevent invalid or unexpected input, reducing data entry errors and improving data consistency.
+
+#### Simplifying Complex Choices
+When there are many possible choices (e.g., selecting a country, state, or category), a combo box organizes these options in a way that’s easy to browse and select, rather than overwhelming the user.
+
+#### Workflow Streamlining
+In forms and workflows, combo boxes speed up data entry by allowing users to quickly pick options instead of typing them out.
+
+
 
 ## Tasks / Things to consider
 ### Research
