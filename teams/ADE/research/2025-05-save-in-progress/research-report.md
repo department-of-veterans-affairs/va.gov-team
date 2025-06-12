@@ -147,16 +147,17 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
 **Finding 2: Most participants didn't see the informational alerts about saving, and the few who did, didn't remember what they said**.
 
 - 7 of 11 participants didn't notice the informational alert on the authenticated form intro page, and 7 of 11 participants (including 6 of the previous 7) didn't notice it at the top of the first page of the form. When some of these participants were later shown the alert, they suggested making it easier to notice by making the text larger, red, or in a dialog box that you have to close.
-- 4 participants who read the informational alert on the intro page before starting the form didn't remember it by the end of the session when they were asked about saving. This could be a memory or cognitive load issue. One of the participants commented aloud after reading the alert:
+- 4 participants who read the informational alert on the intro page before starting the form didn't remember it by the end of the session when they were asked about saving. One of the participants commented aloud after reading the alert but didn't remember this later:
   > *"We're gonna save it every time. So that's good. I can stop and come back as long as I sign back in" (p8).*
+- When participants are opening the form from the intro page and filling out the form, they seemed to focus only on the form itself. 
+  > *"My brain kind of skipped over what I read and went to the more important stuff...I've filled out a decent amount of these [online forms], and...because I'm used to it, I just go straight to answering questions" (p11).*
+
 - 3 participants who read the alert didn't understand it as saving every edit automatically. They thought that it saved only when you clicked *Finish later* or *Continue*. 
   > *"So every time you put something in and you hit *Continue* or *Finish later*, it will save it for you, so you can pick up right where you left off instead" (p9).*
 - 1 participant thought he understood the informational alert but was confused by the *Finish later* button. He also said that the wording "We'll save your request on every change" is curious, and the *Finish later" button is confusing, too:
   > *"'On every change' sounds like...only every time I go back and make a change to what I've already input" (p12).*
-   > *"Maybe...if the button doesn't say 'Finish later'...something like 'Save and close', because what it's doing is that it's actually closing the form...because it's already being saved as you go along" (p12).*
+   > *"Maybe...if the button doesn't say 'Finish later'...something like 'Save and close', because what it's doing is actually closing the form...because it's already being saved as you go along...There's the other threat...does that mean I'm just canceling this form? So having 'save', there is the reassurance that this is gonna save the last thing that I input. And then it's gonna close the form" (p12).*
 
-- When participants are opening the form from the intro page, and filling out the form, they seemed to focus on only the form itself. 
-  > *"My brain kind of skipped over what I read and went to the more important stuff...I've filled out a decent amount of these [online forms], and...because I'm used to it, I just go straight to answering questions" (p11).*
 
 - Issue with screen readers not reading the information alert on the first form page because it's above the H1
 - Issue with screen magnifer: P2 didn't notice alert at top of form b/c focused on fields to fill out and didn't see that part of the screen (b/c magnification)
@@ -194,13 +195,15 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
 
 
 ## Recommendations
-### Recommendation: Revise Save in Progress design
+### Recommendation: Revise the Save in Progress design
 1. **Brainstorm how to display better communicate that we're saving all information as it's being entered**. 
    - *Supporting evidence:* We're saving automatically with every edit, which participants asked for, but most didn't realize that was happening because they didn't notice or didn't understand the informational alerts.   
-    1. Messaging should be better integrated into the user's interactions with the form. It's possible that no messaging will be effective before the user has started filling out information. Users may be more receptive to an alert that pops up later while they're editing or right after they click "Continue". 
-    1. Messaging must be accessible to AT users.
-    1. Messaging could be reworded to lead with what's most important at the beginning to attract attention and ensure visibility to users of screen magnifiers. For example, "Saving will happen automatically..." or "Your information will be saved..."
-    1. Consider rewording the *Finish later* button to better align with the messaging.
+   - Consider the suggestions below:
+      1. Messaging should be better integrated into the user's interaction with the form. It's possible that no messaging will be effective before the user has started filling out information, so we should find somewhere other than the intro page and the top of the first page of the form. Users may be more receptive to an alert that pops up later while they're editing or right after they click "Continue". 
+      1. Messaging must be accessible to AT users so that all screen reader users will hear it, even if they start navigating form pages with the H1. 
+      1. Messaging could be reworded to lead with what's most important at the beginning to attract attention and ensure visibility to users of screen magnifiers. For example, "Saving will happen automatically..." or "Your information will be saved..."
+      1. Messaging could be reworded for clarity, especially "We'll save your request on every change".
+      1. Consider relabeling the *Finish later* button to better align with the revised messaging.
    
 
 ### Recommendation: Fix accessibility issues with My VA
