@@ -33,9 +33,9 @@ First create a fake user class:
 
 ```ruby
 class FakeUser
-  attr_reader :email,:icn,:account_uuid
+  attr_reader :email,:icn,:user_account_uuid
 
-  def initialize(email, icn, account_uuid)
+  def initialize(email, icn, user_account_uuid)
     @email = email
     @icn = icn
     @user_account_uuid = user_account_uuid
@@ -96,9 +96,9 @@ First create a fake user class:
 
 ```ruby
 class FakeUser
-  attr_reader :email,:icn,:account_uuid
+  attr_reader :email,:icn,:user_account_uuid
 
-  def initialize(email, icn, account_uuid)
+  def initialize(email, icn, user_account_uuid)
     @email = email
     @icn = icn
     @user_account_uuid = user_account_uuid
