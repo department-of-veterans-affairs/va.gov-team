@@ -38,11 +38,11 @@ class FakeUser
   def initialize(email, icn, account_uuid)
     @email = email
     @icn = icn
-    @account_uuid = account_uuid
+    @user_account_uuid = user_account_uuid
   end
 
    def flipper_id
-     @account_uuid
+     @user_account_uuid
    end
 end
 ```
@@ -101,11 +101,11 @@ class FakeUser
   def initialize(email, icn, account_uuid)
     @email = email
     @icn = icn
-    @account_uuid = account_uuid
+    @user_account_uuid = user_account_uuid
   end
 
    def flipper_id
-     @account_uuid
+     @user_account_uuid
    end
 end
 ```
