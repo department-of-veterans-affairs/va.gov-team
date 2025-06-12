@@ -5,6 +5,8 @@
 - User flow
 - Figma files
 - Test Rail QA
+- Product documentation
+   - [How to add a form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/forms-status-on-My-VA/adding-a-form.md)
 
 <details><summary>Archive | How to reproduce in staging</summary>
 
