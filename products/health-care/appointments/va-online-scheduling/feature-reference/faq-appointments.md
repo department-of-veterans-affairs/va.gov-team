@@ -1,5 +1,8 @@
 # Frequently Asked Questions - Appointments FE
 
+## Why do the details page links to facilities on staging point to the wrong facility's public page?
+06/12 - We confirmed that this is only an issue on staging and the links point to the correct page on Production. 
+
 ## Why can Veterans only self-schedule into clinics that they've been seen at within the last 24 months?
 - Many facility + care type combinations have an overwhelming numbr of clinic options. Furthermore, many of these clinics are confusing to veterans, because they're not consistently named in a way that's useful to veterans or even written in plain english.
 - Certain clinics have specific uses that aren't obvious to veterans (for example, for new patients only), so opening up all available clinics for self-scheduling for everyone results in many cancelled or rescheduled appointments.
