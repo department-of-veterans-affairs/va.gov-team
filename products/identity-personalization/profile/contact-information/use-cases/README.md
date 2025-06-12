@@ -57,6 +57,17 @@
 </details>
 
 
+<details><summary>Save in progress alert</summary>
+
+- **Use case:** Shows while the users information is in the process of being saved. Field value and buttons are hidden since there is an action in progress, and we’re waiting for a response to display the correct field value.
+- **Status code:** TBD
+- **Format:** [Slim information alert](https://design.va.gov/components/alert/#examples---slim-alert)
+- [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3143-14380&t=MGmcos4rzcFh3Q1H-1)
+- **Content:** We’re saving your changes. Stay on this page.
+
+</details>
+
+
 <details><summary>Saving information</summary>
 
 - **Use case:** Changes are saved once the user presses the Save button. Once the form is successfully saved, the user is returned to read mode and a slim success alert should display below the section header.
