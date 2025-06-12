@@ -9,12 +9,12 @@ Display an interstitial after login for MHV users encouraging transition to mode
 
 | ID      | Requirement                                          | Type                          | Status     |
 |:--------|:------------------------------------------------------|:------------------------------|:-----------|
-| REQ-001 | Show interstitial after login for MHV-only users       | Functional                    | Completed  |
-| REQ-002 | Show Login.gov interstitial for dual-credential users | Functional                    | Completed  |
-| REQ-003 | Obfuscate user email addresses                        | Security/Privacy              | Completed  |
-| REQ-004 | Screen reader compatibility for obfuscated email      | Non-Functional (Accessibility) | Completed  |
-| REQ-005 | Feature flag to control interstitial rollout          | Technical/Operational         | Completed  |
-| REQ-006 | Track interstitial views and CTA clicks               | Monitoring/Data               | Completed  |
+| [REQ-0001](./REQ-0001.md) | Show interstitial after login for MHV-only users       | Functional                    | Completed  |
+| REQ-0002 | Show Login.gov interstitial for dual-credential users | Functional                    | Completed  |
+| REQ-0003 | Obfuscate user email addresses                        | Security/Privacy              | Completed  |
+| REQ-0004 | Screen reader compatibility for obfuscated email      | Non-Functional (Accessibility) | Completed  |
+| REQ-0005 | Feature flag to control interstitial rollout          | Technical/Operational         | Completed  |
+| REQ-0006 | Track interstitial views and CTA clicks               | Monitoring/Data               | Completed  |
 
 ---
 
