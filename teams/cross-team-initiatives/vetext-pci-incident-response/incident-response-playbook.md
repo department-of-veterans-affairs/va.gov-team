@@ -167,8 +167,8 @@ When the above responsibilities are met and development bandwidth is available, 
 |Vista-API|Andy McCarty, Shane Elliott|Yes|
 |VEText|Rob Durkin|Yes|
 |VSE-CS|Stephen Mammay|Yes|
-|PCI Front End|Lee Delarm, John Woolschlager|Yes|
-|PCI Vets-API|Guarav Gupta, Kanchana|Yes|
+|PCI Front-end | Daniel Gading, John Woolschlager |Yes|
+|PCI Vets-API | Lee Delarm, Carlos Felix, Philip DeFraties|Yes|
 |PCI DevOps|Nathan Douglas, Eric Oliver|Yes|
 |VA VHA IVC Trainer of VSE-CS <br /> (connects dev teams to clinical staff users)|Shawn Adams|Yes|
 |VSE-CS Tier 1 and 2|Jenna Smith, Sophia (Mandi) Woodroof|No - Use MS Teams|
