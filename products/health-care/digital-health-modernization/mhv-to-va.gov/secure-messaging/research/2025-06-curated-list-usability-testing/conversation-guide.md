@@ -160,6 +160,7 @@ Let’s say Jamie remembers it wasn’t Dr. Owens who ordered the tests, it was 
 
 - \[If they start typing in the combo box\] Let’s pause for a moment. Because this is a prototype, it may not work as expected. If this were a live site, what would you type?
 - Have you had experience with lookups like this before?
+- Click on Dr. Owens to clear out the box.
 - Go ahead and type w-a-l for me.
 - \[If the participant skips the health care system\] Can you tell me why you chose to go to that selection box, first?
 - What would you do next?
