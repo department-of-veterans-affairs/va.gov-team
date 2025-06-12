@@ -26,6 +26,7 @@ This inefficient pattern directly affects Veterans' experience:
 
 ---
 ### Performance Metrics 
+(with staging data, 16 letters)
 - Single lighthouse API call: `688.38 milliseconds`
 - Double lighthouse API call: `2985.46 milliseconds`
 
