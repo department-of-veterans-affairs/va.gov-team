@@ -144,9 +144,12 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
 - Only one participant was confident that her information would be saved because of her experience filling out VA forms.
   > *"When I fill out forms on va.gov...when you log back in or go back...it'll start you where you left off" (p4).*
 
-**Finding 2: Most participants (x of 11) didn't read either of the informational alerts about saving**.
+**Finding 2: Half of the participants (6 of 11) didn't see either of the informational alerts about saving**.
 Brief description
-it's hard to get people to see anything besides the form fields when they're focused on opening the form (while on intro page) and filling it out (while in the form).
+
+- 7 of 11 participants didn't notice the information alert on the authenticated form intro page, and 7 of 11 participants (including 6 of the previous 7) didn't notice it at the top of the first page of the form.
+- When participants are opening the form from the intro page, and filling out the form, they seemed to focus on only the form itself. 
+  > *"With my experience, I filled out a decent amount of these [online forms], and I think a lot of people just wants to get it over with...I feel like, because I'm used to it, I just go straight to answering questions" (p11).*
 
 - Issue with screen readers not reading the information alert on the first form page because it's above the H1
 - Issue with screen magnifer: P2 didn't notice alert at top of form b/c focused on fields to fill out and didn't see that part of the screen (b/c magnification)
