@@ -1,4 +1,4 @@
-# REQ-001: Show interstitial after login for MHV-only users
+# REQ-0001: Show interstitial after login for MHV-only users
 
 **Description**  
 Display an interstitial immediately after authentication for users who have **only** MHV credentials, guiding them to upgrade to a modern sign-in method.
