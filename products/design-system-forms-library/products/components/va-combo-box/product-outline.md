@@ -9,6 +9,8 @@
 ## Artifacts
 - [Design Decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/va-combo-box/product-outline.md#:~:text=design%2Ddecision-,%2D,-log.md) 
 - [Properties / architecture document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/va-combo-box/properties-architecture.md)
+- [Figma Designs](https://www.figma.com/design/Zzt8z60hCtdEzXx2GFWghH/branch/vzQ2rqkg0F5rHDxPmFLHFL/VA-Mobile---Component-Library?node-id=1414-454&p=f&t=D2Ya3DS9aVNc7UjP-0)
+- [Figma Comparison - mobile vs web](https://www.figma.com/design/Zzt8z60hCtdEzXx2GFWghH/branch/vzQ2rqkg0F5rHDxPmFLHFL/VA-Mobile---Component-Library?m=auto&node-id=8873-7889&t=D2Ya3DS9aVNc7UjP-1)
 
 ## Summary
 A combo box helps users select an item from a large list of options. This component is useful in mobile apps for scenarios where users need to choose a single option from a list. 
