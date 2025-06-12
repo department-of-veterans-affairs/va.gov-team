@@ -2,7 +2,7 @@
 **Last updated: June 2025**
 
 - [User flow]
-- [Figma files]
+- [Figma files](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3168-11876&t=Lec9VMwUOLJiae7J-1)
 - Test Rail QA
 - Product documentation
 	- [Initial brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/bad-address-indicator/README.md)
@@ -17,7 +17,7 @@
 - **Use case:** User is prompted to review their mailing address from the Profile hub. Alert disappears once the Mailing address is updated and validated.
 - **Status code:** TBD
 - **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
-- [Link to designs](https://www.figma.com/design/21eaoKK107F3Nm1ofnMOO8/Profile---Hub-landing-page?node-id=0-185&t=IBILVuyQmV5tw9mS-1)
+- [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3168-14824&t=Lec9VMwUOLJiae7J-1)
 - [Link to code]
 - **Content:**
 
@@ -32,7 +32,7 @@ Link: Review the mailing address in your profile
 - **Use case:** User is prompted to review their mailing address from the Contact information page. Alert persists in edit mode, unless an error or validation message occurs. Once the information is updated and validated the message disappears.
 - **Status code:** TBD
 - **Format:** [Warning slim alert component](https://design.va.gov/components/alert/#web-2)
-- [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=0-365&t=HML77KqMVILaoozm-1)
+- [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3168-12770&t=Lec9VMwUOLJiae7J-1)
 - [Link to code]
 - **Content:**
 
