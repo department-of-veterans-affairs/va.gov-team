@@ -11,7 +11,7 @@
 - [Web Designs](https://www.figma.com/design/SzBiTsdFPDXHyuSJLqo5nm/WIP---International-Phone-Exploration?node-id=0-1&p=f&t=BZALaWdTj5dzJUuC-0)
 - [Mobile Designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=2119-2783&t=litTRdAgMiaN29Tr-0)
 - [StoryBook](https://design.va.gov/storybook/?path=/story/components-va-input-telephone--docs)
-- 
+- [Mobile design for combo box](https://www.figma.com/design/Zzt8z60hCtdEzXx2GFWghH/branch/vzQ2rqkg0F5rHDxPmFLHFL/VA-Mobile---Component-Library?node-id=1414-454&p=f&t=tpXj2lI20Y8lEfMn-0) 
 ## Summary
 - The va-input-telephone component is being developed to enable support for international phone numbers across the VA.gov ecosystem.
 - This enhancement is critical to improving accessibility and usability for veterans and users residing outside the United States.
