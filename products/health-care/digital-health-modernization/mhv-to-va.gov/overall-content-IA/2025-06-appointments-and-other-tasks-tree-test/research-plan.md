@@ -128,11 +128,11 @@ Intentionally open so recruitment can go faster. Will go through Perigean.
 
 ### Prepare
 
-- `Pilot participant name:` **We will pilot the study in preview mode with a few members of the Cartography team or broader My HealtheVet to check for comprehension and functionality prior to launch.**
-- `Date and time of pilot session:` **06/16/2025**
+- `Pilot participant name:` **We have piloted the study in preview mode with a few members of the Cartography team or broader My HealtheVet OCTO stakeholders to check for comprehension and functionality prior to launch.**
+- `Date and time of pilot session:` **06/12/2025**
 
 ### Research sessions
-- `Planned dates of research:` **06/13/2025 start date. Will run for 4+ weeks or until we reach the completed session target number of 384**
+- `Planned dates of research:` **06/18/2025 start date. Will run for 4+ weeks or until we reach the completed session target number of 384**
 
 ### Length of sessions
 - `Session length:` **20 minutes**
