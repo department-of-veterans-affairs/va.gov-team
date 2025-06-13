@@ -186,6 +186,30 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
 - One participant using a screen magnifier (on a Windows computer using the Edge browser and Microsoft Zoom Magnification at least 300%) asked why the **"Continue your application" link in the form request card on My VA was so much smaller than everything else on the card**. The link text doesn't seem to have scaled up like the text above it (see [image below](URL for p13-MyVA-form-card-bottom)).
 
 **Finding X: Accessibility issues were discovered with the form**
+- One screen reader user user (VoiceOver on iOS) didn't didn't know that citizenship item was a radio button when they tapped on it, but they figured it out. 
+  > *"It doesn't let you know that there's a radio button before that, so it's sometimes confusing...
+CK QUOTE
+  In our world of using accessibility, we can only wish for so much, you know. So it works. To me, I look at things. It's workable.
+
+517
+01:01:25.013 --> 01:01:36.440
+Sherri Thompson: Would it be nice if it as soon as I clicked on that, and it said radio button and then swiped right, it would read what that was and then go down, and it would say radio button.
+
+It's doable, and
+
+519
+01:01:42.200 --> 01:01:48.149
+Sherri Thompson: we don't want to ask for I mean, I don't I?
+
+520
+01:01:48.350 --> 01:01:50.230
+Sherri Thompson: If I can use it.
+
+521
+01:01:50.380 --> 01:01:51.510
+Sherri Thompson: It's perfect.
+  
+  It would be nice if it said 'radio button' as soon as I click on it, then swipe right and it would read what it was and then go down" (p5).
 
 
 ---
