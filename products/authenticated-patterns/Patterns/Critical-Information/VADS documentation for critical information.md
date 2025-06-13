@@ -1,5 +1,5 @@
-**THIS PAGE IS OUTDATED. See the [Staging site
-](https://dev-design.va.gov/3973/components/critical-action) for the most updated content.**
+> [!WARNING]
+> Content from this page has been moved to the VA Design System [Critical Action](https://design.va.gov/components/critical-action) component. This page is no longer being updated.
 
 ------
 # Alert - Critical
