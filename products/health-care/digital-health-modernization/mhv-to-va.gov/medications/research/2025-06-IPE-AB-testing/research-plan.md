@@ -98,7 +98,12 @@ Remote testing via Optimal Workshop.
 
 ## Research Materials
 
+[Link to Optimal Workshop Option A](https://dj540s05.optimalworkshop.com/prototype/1c2662f5b8d1903d6f0d479a9d110452)
+
+[Link to Optimal Workshop Option B](https://dj540s05.optimalworkshop.com/prototype/5605flpf)
+
 [Link to Optimal Workshop Option C](https://dj540s05.optimalworkshop.com/prototype/030190e86820aaaf75e54ec85d94e043)
+
 
 [Link to task guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/2025-06-IPE-AB-testing/Conversation-guide.md)
 
@@ -136,8 +141,8 @@ Remote testing via Optimal Workshop.
 
 ## Timeline
 
-- **Data collection period:** TBD–TBD
-- **Target completion date:** August 9, 2024 (or sooner if sample is met)
+- **Data collection period:** Jun 23– Aug 9
+- **Target completion date:** August 9, 2025 (or sooner if sample is met)
 
 ### Kickoff with Perigean
 
