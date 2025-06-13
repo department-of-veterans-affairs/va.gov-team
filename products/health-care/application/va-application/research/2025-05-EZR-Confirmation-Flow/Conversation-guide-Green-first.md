@@ -215,6 +215,7 @@ In this scenario, you realized that one of your expenses is incorrect. You had a
 
 - Was there any part that was confusing to you?
 - How was this financial section compared to the previous one?
+- When you saw the 2023 financial numbers, did it help you decide what to do next or does it make you second-guess if it's current? 
 - On a scale of 1-5 (1 being very easy and 5 being very hard) - how hard would it be for you to complete this financial information if you were doing this with your real information?
 - Why did you give it that rating? 
 
