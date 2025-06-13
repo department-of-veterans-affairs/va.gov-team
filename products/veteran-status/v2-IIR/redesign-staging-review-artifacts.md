@@ -46,6 +46,11 @@
 - https://dsvavsp.testrail.io/index.php?/milestones/view/2367
   - Test cases: 32, Passed: 30 (94%), Failed: 2 (6%)
   - The two defects that were found are outstanding
+ 
+- Styling & Accessibility Defects discovered (these are not related to our test cases):
+  - Error message should be in the warning alert
+  - Alerts should be placed directly below the header, not the content.
+  - VoiceOver issue with the Veteran Status Card
 
 ### E2E Tests
 - Our end-to-end tests perform required accessibility checks here `src/applications/personalization/profile/tests/e2e/profile-a11y.cypress.spec.js` and `src/applications/personalization/profile/tests/e2e/veteran-status-card/veteran-status-card.cypress.spec.js`.
