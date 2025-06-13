@@ -148,9 +148,9 @@ Remote testing via Optimal Workshop.
 
 Available time slots:
 
-- TBD 1
-- TBD 2
-- TBD 3
+- Monday June 16th 10:30-11:00am eastern
+- Tuesday June 17th 1:00-1:30pm eastern
+- Tuesday June 17th 2:00-2:30pm eastern
 
 ---
 
