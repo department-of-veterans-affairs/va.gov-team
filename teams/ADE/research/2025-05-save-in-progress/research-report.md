@@ -186,10 +186,12 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
 **Finding X: Accessibility issues were discovered with the form**
 - One screen reader user user (VoiceOver on iOS) **didn't know that the citizenship question was a radio button** when they tapped on it, but they figured it out. Riley tested and found that it's announced as a checkbox (bug) and radio button on her iPhone, but announced as a radio button on desktop. After she updated her phone, it announced as only a radio button, so it was an iOS issue, not ours. 
   > *"It doesn't let you know that there's a radio button before that, so it's sometimes confusing...In our world of using accessibility, we can only wish for so much...So it works. Would be nice if as soon as I clicked on that, it said 'radio button' and then [when I] swiped right, it would read what that was and then go down" (p5).*
-- One screen reader user user (JAWS on desktop) said they heard the affirmation statements on the Review/Submit page about 4 times. He's referring to the 2 lines in the Statement of truth box, plus the error text for the name field, and the checkbox certify line. They start with "I confirm...", "I have read and accept...", "You must certify...", "I certify..." See [screenshot of the bottom of the Review/Submit page](URL).
-  > p3: so much duplication "causes me to rush through, but then I might skip too much" [GET QUOTE ~1:15:00). "This read about 4 times. If something is only presented once, I have a better chance of paying attention to it. May skip too much."  
+- One screen reader user user (JAWS on desktop) said they heard the affirmation statements on the Review/Submit page multiple times. He's referring to the two lines in the Statement of truth box, plus the error text for the name field, and the checkbox certify line. They start with "I confirm...", "I have read and accept...", "You must certify by checking the box", "I certify..." (see [screenshot of the bottom of the Review/Submit page with error showing](URL)).
+  > *"I heard it about 4 times there..."That's the kind of thing that causes me to rush through the repeats and maybe miss something. If something is only present once, then I have a much better chance of paying attention to it" (p3).*
 
-p3: "If things weren't duplicated, I might actually slow down and pay attention." 
+
+
+
 
 - _Supporting data: ![text](link - add image to github folder and link here with .png)_  
 
@@ -222,6 +224,7 @@ p3: "If things weren't duplicated, I might actually slow down and pay attention.
 
 ### Recommendation: Consider design revisions for Request personal records form
 *Summarize actionable recommendations based on findings.*  
+1. Consider making the affirmation statements at the end of the form more concise so there's less text that participants are likely to skip over. Rather than adding more information, we should consider removing some so that users might pay more attention to what's there.
 
 1. **Recommendation:** [Insert action]  
    - _Supporting evidence: [Insert data]_  
