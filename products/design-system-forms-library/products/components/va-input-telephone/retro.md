@@ -92,7 +92,6 @@
 ### **🎯 Improve Requirement Clarity**
 
 * 🔹 *During Sprint Zero*: Clearly define **validation states/behaviors \
-**
 * 🔹 *Sprint Zero*: Ask **“Is this a new forms pattern?”** → If yes, coordinate early with the forms team \
 
 * 🔹 *Sprint Zero*: Clarify **if a Native Mobile equivalent is needed** → Assign ownership for that work \
