@@ -158,6 +158,7 @@ Information to be provided to the participant, via chat:
 - [After they get to the bottom of the page] Okay, let's pause here for a few questions:
 
 - Was there any part that was confusing to you?
+- When you saw the 2023 financial numbers, did it help you decide what to do next or does it make you second-guess if it's current? 
 - On a scale of 1-5 (1 being very easy and 5 being very hard) - how difficult would it be for you to complete this financial information if you were doing this with your real information?
 - Why did you give it that rating?
 - Do you have any suggestions or feedback for making the page and the update process better?
