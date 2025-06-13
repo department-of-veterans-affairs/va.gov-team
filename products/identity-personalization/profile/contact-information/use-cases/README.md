@@ -63,7 +63,7 @@
 - **Status code:** TBD
 - **Format:** [Slim information alert](https://design.va.gov/components/alert/#examples---slim-alert)
 - [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3143-14380&t=MGmcos4rzcFh3Q1H-1)
-- **Content:** We’re saving your changes. Stay on this page.
+- **Content:** We’re working on saving your new [information type]. We’ll show it here once it’s saved.
 
 </details>
 
