@@ -74,42 +74,38 @@ Each `button` element is within the `LI` element
 
 ##### Roles and labels
 
-The `UL` element will contain the `role="radiogroup"` and `aria-label=" "` attributes
+The `UL` element will contain the `role="group"` and `aria-label=" "` attributes
 
-- The purpose of the `role="radiogroup"`
-- Segmented buttons behave like mutually exclusive choices—only one can be selected at a time (e.g., Upcoming, Past, All). This behavior is similar to radio buttons (using the `label` and `input` elements) within a form.
-- The `radiogroup` role acts like a fieldset holding radio buttons.
-- The `radiogroup` role tells assistive tech: “This is a group of related options.”
+- While `role="group"` reads like a "toggle button" segmented buttons behave like mutually exclusive choices—only one can be selected at a time (e.g., Upcoming, Past, All). This behavior is similar to radio buttons (using the `label` and `input` elements) within a form.
+- The `grup` role acts like a fieldset holding radio buttons.
+- The `group` role tells assistive tech: “This is a group of related options.”
 - Since there is no visible heading or label that explains what the group of buttons does, the `aria-label` provides meaningful context for the group as a whole.
 
-Each `button` will contain the `role="radio"` attribute
+The `button` will contain the `type="button"` attribute
 
-- The `radio` role is one of a group of checkable radio buttons, in a `radiogroup`, where no more than a single radio button can be checked at a time.
-- The `radio` role on each button tells screen readers: “This is a selectable option from a group.”
-  This creates a familiar and predictable experience for screen reader and keyboard users.
+- It does not require a `role` attribute No than one radio button can be checked at a time.
 
 ```
-<ul role="radiogroup" aria-label="View selection">
-    <li><button role="radio">Label</button></li>
-    <li><button role="radio">Label</button></li>
-    <li><button role="radio">Label</button></li>
+<ul role="group" aria-label="View selection">
+    <li><button type="button">Label</button></li>
+    <li><button type="button">Label</button></li>
+    <li><button type="button">Label</button></li>
 </ul>
 ```
 
 ##### Use of aria-checked
 
 
-The `aria-checked` attribute indicates the current "checked" state of checkboxes, radio buttons, and other widgets.
+The `aria-selected` attribute indicates the current "selected" state.
 
-- Used with roles of `radio`, `option`, or `checkbox`
-- When omitted, a button inside a form defaults to `type="submit"` — this can cause unexpected form submissions when the button is clicked.
+- Used with roles of `group`
 
 ### Keyboard interaction
 
-- Using arrow keys (`left`, `right`, `up`, `down`) for navigation
-- Using the `tab` key to exit
+- Using the Tab key for foward navigation
+  - Using the Tab+Shift to move backwards
 - Using the `return` and/or the `space` bar to make a selection.
 
 ### Consequences
 
-- The use of `role="radiogroup"` and `role="radio"` attributes may cause users to assume the segmented button selection (return and space keys) would behave similarly to radio button selection (arrow keys) on a form. 
+- The use of `role="group"` attribute may cause users to assume the segmented button selection (return and space keys) would behave similarly to toggle buttons (e.g., Play/Pause or Hide/Show)
