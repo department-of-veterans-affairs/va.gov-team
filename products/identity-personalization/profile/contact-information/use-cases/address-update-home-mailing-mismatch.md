@@ -1,7 +1,7 @@
 # Contact information: Home address is updated but does not match Mailing address
 **Last updated: June 2025**
 
-- [User flow: Old version for reference](https://www.figma.com/file/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?type=design&node-id=0%3A365&mode=design&t=rqPFqCwnOiocoCbM-1) (B-8)
+- [User flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1748544816643/8147634738618bff171962ce84b2f940c888fb03?wid=0-1749014970296&outline=open)
 - [Figma files](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3153-13793&t=YpC93tIWZqgNt0Zt-1)
 - Test Rail QA
 - Product documentation
