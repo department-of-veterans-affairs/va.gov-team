@@ -16,8 +16,13 @@
 - LOA3 user that receives the “You’re not eligible for a Veteran Status Card” error message \- vets.gov.user+32@gmail.com | 134SsNrLgPv5   
 - LOA3 user that receives the error message “There’s a problem with your discharge status records”. This is a test user that needs more research required. \-  [vets.gov.user+57@gmail.com](mailto:vets.gov.user+57@gmail.com) | 218SsNrLgPv5
 - LOA3 user that receives  the error message “There’s a problem with your discharge status records”. This test user use is confirmed with no service history.\- vets.gov.user+90@gmail.com | 492SsNrLgPv5  
-- LOA3 user that receives a system error or error message \- vets.gov.user+41@gmail.com | 109SsNrLgPv5    
+- LOA3 user that receives a system error or error message \- vets.gov.user+41@gmail.com | 109SsNrLgPv5
+- LOA3 user that has a Veteran Status Card, but has no disability rating information. When this user views their Veteran Status Card the disability rating will not be displayed.\- Judy.Morrison@id.me | Password1234! 
 - LOA1 user will receive a message to “Verify your identity” \- Signup and create an account in Staging via idme and it will be LOA1. For example, you could do vagovtest+myloa1@gmail.com (you would need to control vagovtest@gmail.com to retrieve MFA code), but in general it just needs an email so you can go through idme.
+- Test scenarios that were tested locally due to not having a test user or being able to force an error include:
+  - A test user with a Veteran Status Card and a 0% disability rating. The expected result is that users would see a 0% disability rating.
+  - A test user with a Veteran Status Card, but the PDF link isn't working. The expected result is that the user will see an error message "Something went wrong" in the How do I get my version of my Veteran Status Card" FAQ setion.
+  - When the Veteran Status Card page is down for maintenance. The expected result is an error message that states "This application is down for maintenance". 
 
 
 
