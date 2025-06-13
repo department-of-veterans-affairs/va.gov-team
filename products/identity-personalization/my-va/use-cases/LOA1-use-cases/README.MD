@@ -16,11 +16,11 @@
 - When a LOA1 user signs in from the homepage, they are automatically redirected to My VA. 
 - Until LOA1 users have verified their identity, they will see a prompt on My VA to verify their identity at the top of the page. 
 - They will also see the following sections:
-   - Track claims and appeals: Includes an introductory link
-   - Forms: Includes any in-progress forms, and an additional information dropdown
-   - Health: Includes an introductory link
-   - Popular tasks: Includes 5 links that are driven by top search terms from My VA
-   - Get help: Includes all ways to get help from VA
+   - Claims and appeals: Includes an introductory section and link.
+   - Forms and applications: Includes any in-progress forms, completed forms, and an additional information dropdown.
+   - Health care: Includes an introductory section and link.
+   - Common tasks: Includes 5 links that are driven by top search terms from My VA.
+   - Get help: Includes all ways to get help from VA.
 
 ---
 
