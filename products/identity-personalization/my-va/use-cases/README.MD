@@ -7,7 +7,7 @@ Updated to reflect My VA 3.0 Phase 1 use cases.
 
 ### User logs in with LOA1 account
 
-- [User logs in with LOA1 account](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/LOA1-use-cases)
+- DONE [User logs in with LOA1 account](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/LOA1-use-cases)
 
 ### User logs in with LOA3 account
 
