@@ -22,7 +22,12 @@
 - Test scenarios that were tested locally due to not having a test user or being able to force an error include:
   - A test user with a Veteran Status Card and a 0% disability rating. The expected result is that users would see a 0% disability rating.
   - A test user with a Veteran Status Card, but the PDF link isn't working. The expected result is that the user will see an error message "Something went wrong" in the How do I get my version of my Veteran Status Card" FAQ setion.
-  - When the Veteran Status Card page is down for maintenance. The expected result is an error message that states "This application is down for maintenance". 
+  - When the Veteran Status Card page is down for maintenance. The expected result is an error message that states "This application is down for maintenance".
+- Feature flag is enabled for Profile page a user will see 10 cards, and will be able to view the Veteran Status card and with the following link, "View your Veteran Status Card". This link will take a user to the Veteran Status Card page where they can find their Veteran Status Card or a respective error message telling them why they can't retrieve a Veteran Status Card. Test with any of the test users listed above. 
+- Feature flag is disabled for the Profile page, a user will only see 9 cards listed and will not be able to view the Veteran Status Card. Test with any of the test users listed above. 
+- Feature flag is enabled for the Military Information page, which will no longer display the Veteran Status Card or error messages, but will provide the following links for users: "Learn how to request your DD214 and other military records" and "Access your Veteran Status Card". The "Access your Veteran Status Card link" will take a user to the Veteran Status Card page. Test with any of the test users listed above. 
+- Feature flag is disabled for the Military Information page, which will display a user's Veteran Status Card or respective error message. Test with any of the test users listed above. 
+
 
 
 
