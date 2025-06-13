@@ -95,7 +95,7 @@ Our findings will indicate if we need to refine the confirmation pattern and gra
 
 - The participant will understand the Spouse Information and Financial Information shown in the List&Loop’s review page.
 - The participant will prefer the Confirmation Flow (Option Red) over the existing MVP flow (Option Green).
-- The participant may require additional time to understand the content in gray reference card component.
+- The participant will ask more questions, require more time to understand the content in the gray reference card component.
   
 ## Methodology  🛠️
 
