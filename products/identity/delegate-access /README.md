@@ -46,44 +46,7 @@ June 2025: We've completed caregiver research and initial discussions with polic
 
 ## Current questions
 
-### Health care POA
-
-1. What is a health care POA, and what is this person allowed to do?
-
-- The document is the DPOA; person is the health care agent. This person is allowed to make health care decision for the Veteran when they lose decision making capacity. Decision making capaccity is assesed on a decision-dependent.
-- Dr Erickson: In her state, DPOA can act on behalf of the Veteran all the time; regardless of decision making capacity.
-- VA advanced directive guides assessment of specific decisions; if there is a state-level advance directive that allows blanket decision making capacity, VA is still confirming with a Veteran what their preferences are with the level of decision making power for the Veteran. This preserves Veteran autonomy.
-- DPOA is for decision making care; this does not mean they have access to medical records. **The DPOA needs to state that they should have access to medical records**. We need to confirm whether the DPOA form for VA has access to medical records. **People do not get carte blanche access to anything**. Staff has to confirm exactly what privileges are granted to the DPOA based on the health agents' forms.
-- It is important to note that the medical record is protected in general, but there are certain medical conditions that are protected beyond general HIPAA guidelines.
-- There are additional statutes we need to follow in government that do not apply to the private sector.
-
-2. How does a Veteran designate a health care POA?
-
-
-
-5. Can someone have multiple health care POAs?
-6. How does someone prove to VA they are a health care POA?
-7. Who at VA validates that someone is a health care POA?
-8. Where in VA is the designation of health care POA tracked?
-9. Under what circumstances does a health care POA become responsible for acting on behalf of a Veteran? And when this occurs, how is this communicated to medical staff?
-10. Under what circumstances does someone acting as a health care POA no longer need to make medical decisions for a Veteran? And when this occurs, how is this communicated to medical staff?
-11. To the best of your knowledge, are these processes relatively standard across facilities? Or is there little standardization?
-12. To the best of your knowledge, are there any notable variations by state with regards to the above questions?
-
-- State forms and privileges for DPOAs can vary widely and do not necessarily grant access to medical records.
-
-### Court-appointed guardian
-
-1. What is a court-appointed guardian, and what is this person allowed to do?
-2. How does someone become a court-appointed guardian? Under what circumstances does this occur?
-3. Can someone have multiple court-appointed guardians?
-4. How does someone prove to VA they are a court-appointed guardian?
-5. Who at VA validates that someone is a court-appointed guardian?
-6. Where in VA is the designation of court-appointed guardian tracked?
-7. Under what circumstances does a court-appointed guardian become responsible for acting on behalf of a Veteran? And when this occurs, how is this communicated to medical staff?
-8. Are there any circumstances in which a court-appointed guardianship is revoked? If so, what are they, and how is this communicated to medical staff?
-9. To the best of your knowledge, are these processes relatively standard across facilities? Or is there little standardization?
-10. To the best of your knowledge, are there any notable variations by state with regards to the above questions?
+[Discovery doc: Healthcare POA and Court-appointed guardians_Current VA processes](https://dvagov.sharepoint.com/:w:/s/IdentityTeam/EdnNB2cRRblEqOEjZQHLLPQBasBqTRKuDwWAmlqblnX9Fw?e=do1zEY)
 
 ## Timeline
 
