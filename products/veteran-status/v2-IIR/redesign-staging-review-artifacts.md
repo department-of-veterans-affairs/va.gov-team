@@ -39,10 +39,13 @@
 - https://dsvavsp.testrail.io/index.php?/plans/view/6833
 
 ### Coverage for References
-- 
+- https://dsvavsp.testrail.io/index.php?/milestones/view/2367
+  - Functionality has been verified via test users for all user stories - 100%
 
 ### Summary (Defects) Reports
-- 
+- https://dsvavsp.testrail.io/index.php?/milestones/view/2367
+  - Test cases: 32, Passed: 30 (94%), Failed: 2 (6%)
+  - The two defects that were found are outstanding
 
 ### E2E Tests
 - Our end-to-end tests perform required accessibility checks here `src/applications/personalization/profile/tests/e2e/profile-a11y.cypress.spec.js` and `src/applications/personalization/profile/tests/e2e/veteran-status-card/veteran-status-card.cypress.spec.js`.
