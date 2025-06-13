@@ -3,7 +3,7 @@
 ## ✅ What Went Well 
 
 
-## 🧩 Design & Implementation**
+## 🧩 Design & Implementation
 
 * First component design work was well executed 
 
@@ -15,7 +15,7 @@
 
 
 
-### 🧪 Accessibility Practices**
+### 🧪 Accessibility Practices
 
 * A11y checklist surfaced issues ahead of staging review 
 
@@ -66,7 +66,7 @@
 
 
 
-### 🧪 Accessibility Timing**
+### 🧪 Accessibility Timing
 
 * A11y testing came too late, surfaced staging issues that could’ve been caught earlier 
 
@@ -86,7 +86,7 @@
 
 ## ✅ Action Items 
 
-### **🎯 Improve Requirement Clarity**
+### **🎯 Improve Requirement Clarity
 
 * 🔹 *During Sprint Zero*: Clearly define **validation states/behaviors 
 * 🔹 *Sprint Zero*: Ask **“Is this a new forms pattern?”** → If yes, coordinate early with the forms team 
@@ -94,7 +94,7 @@
 * 🔹 *Sprint Zero*: Clarify **if a Native Mobile equivalent is needed** → Assign ownership for that work 
 
 
-### 🧪 Accessibility Process Enhancements**
+### 🧪 Accessibility Process Enhancements
 
 * 🔹 *Sprint Zero*: Document **accessibility test expectations** and start test writing early 
 
@@ -102,7 +102,7 @@
 
 
 
-### 🤝 Cross-Team Coordination**
+### 🤝 Cross-Team Coordination
 
 * 🔹 Explore consolidating epics/outlines into a **centralized project view 
 
