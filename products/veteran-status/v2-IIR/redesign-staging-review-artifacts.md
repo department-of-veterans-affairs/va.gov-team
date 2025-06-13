@@ -48,9 +48,10 @@
   - The two defects that were found are outstanding
  
 - Styling & Accessibility Defects discovered (these are not related to our test cases):
-  - Error message should be in the warning alert
-  - Alerts should be placed directly below the header, not the content.
-  - VoiceOver issue with the Veteran Status Card
+  - Error message should be in the warning alert (Ticket [link](https://github.com/department-of-veterans-affairs/va-mobile-feature-support/issues/524))
+  - H1 styling in profile (Ticket [link](https://github.com/department-of-veterans-affairs/va-mobile-feature-support/issues/523))
+  - VoiceOver issue with the Veteran Status Card (Ticket [link](https://github.com/department-of-veterans-affairs/va-mobile-feature-support/issues/522))
+
 
 ### E2E Tests
 - Our end-to-end tests perform required accessibility checks here `src/applications/personalization/profile/tests/e2e/profile-a11y.cypress.spec.js` and `src/applications/personalization/profile/tests/e2e/veteran-status-card/veteran-status-card.cypress.spec.js`.
