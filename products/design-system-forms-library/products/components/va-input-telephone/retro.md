@@ -9,7 +9,7 @@
 
 * Ian’s validation behavior design was especially strong 
 
-* Product outline, decision log, and architecture docs were helpful for fast-moving, new teams 
+* Product outline, decision log, and architecture docs were helpful for this fast-moving, still-getting-organized new team.
 
 * Documenting and referencing design decisions proved valuable (e.g., helped another team understand “why X”) 
 
