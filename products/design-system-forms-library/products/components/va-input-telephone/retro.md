@@ -81,7 +81,6 @@
 * Time pressure made norming as a team more difficult 
 
 
-
 ---
 
 
@@ -95,7 +94,6 @@
 * 🔹 *Sprint Zero*: Clarify **if a Native Mobile equivalent is needed** → Assign ownership for that work 
 
 
-
 ### **🧪 Accessibility Process Enhancements**
 
 * 🔹 *Sprint Zero*: Document **accessibility test expectations** and start test writing early 
@@ -104,15 +102,8 @@
 
 
 
-### **📱 Mobile Coordination**
-
-* 🔹 Include **mobile integration planning** in early discovery or kickoff 
-
-* 🔹 Designate a liaison or point of contact with the Native Mobile team 
-
-
 ### **🤝 Cross-Team Coordination**
 
-* 🔹 Explore consolidating epics/outlines into a **centralized project view \
-**
-* 🔹Use **GitHub Discussions** for future collaborative work (esp. when multiple Slack channels emerge) \
+* 🔹 Explore consolidating epics/outlines into a **centralized project view 
+
+* 🔹Use **GitHub Discussions** for future collaborative work (esp. when multiple Slack channels emerge) 
