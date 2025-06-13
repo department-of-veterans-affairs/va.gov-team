@@ -105,7 +105,7 @@ Remote testing via Optimal Workshop.
 [Link to Optimal Workshop Option C](https://dj540s05.optimalworkshop.com/prototype/030190e86820aaaf75e54ec85d94e043)
 
 
-[Link to task guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/2025-06-IPE-AB-testing/Conversation-guide.md)
+[Link to task guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/2025-06-IPE-AB-testing/task-guide.md)
 
 ---
 
