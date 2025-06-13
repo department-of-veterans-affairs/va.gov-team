@@ -23,16 +23,16 @@ Marital Information | [Epic](https://github.com/department-of-veterans-affairs/t
 - [GitHub repo](https://github.com/department-of-veterans-affairs/tmf-auth-exp-design-patterns)
 - [GitHub board](https://github.com/orgs/department-of-veterans-affairs/projects/1314/views/4?sliceBy%5Bvalue%5D=_noValue)
 - [Mock Form AE Design Patterns app directory in vets-website](https://github.com/department-of-veterans-affairs/vets-website/tree/46009a10a8538ec828aea7db213b4d693175be89/src/applications/_mock-form-ae-design-patterns) 
-- Figma designs: (see links in tables above)
-- Mural boards: (see links in tables above)
+- [Figma projects/folder](https://www.figma.com/files/1499394822283304153/project/254290539/Authenticated-Experience-Design-Patterns?fuid=1142566432181786950) 
+- [Mural room](https://app.mural.co/t/departmentofveteransaffairs9999/r/1719240814910) 
 - Slack channel (Agile6): #proj-va-design-patterns
 - Slack channel (DSVA): [#tmf-auth-exp-design-patterns](https://dsva.slack.com/archives/C07909N7U8Z)
-- Backlog of patterns [considered](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1719240863056/54e2c8569725a72e996ae9b2a687867f572f4051) and [tickets](https://github.com/orgs/department-of-veterans-affairs/projects/1314/views/4?sliceBy%5Bvalue%5D=_noValue) to transition to the next team.
+- Backlog of patterns [considered](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1719240863056/54e2c8569725a72e996ae9b2a687867f572f4051) and [tickets](https://github.com/orgs/department-of-veterans-affairs/projects/1314/views/4?sliceBy%5Bvalue%5D=_noValue) to transition to the next team
 
 ## Team Members
 - Fran Cross, Agile6, Product manager
-- Lynn Stahl, Agile6, Product manager through April
-- Adam Whitlock, Ad Hoc, Lead software engineer through early May
+- Lynn Stahl, Agile6, Product manager through April 2025
+- Adam Whitlock, Ad Hoc, Lead software engineer through early May 2025
 - Belle Poopongpanit, Agile6, Software engineer
 - Alex Taker, Ad Hoc, Software engineer
 - Christine Rose Steiffer, Agile6, Design Lead
