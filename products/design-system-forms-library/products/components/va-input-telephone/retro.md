@@ -1,6 +1,6 @@
 # va-input-telephone Retro 6/13/2025
 
-## **✅ What Went Well – **
+## **✅ What Went Well 
 
 
 ## **🧩 Design & Implementation**
