@@ -17,7 +17,7 @@ The best starting place is the knowledge hub, that provides links to the content
 https://depo-platform-documentation.scrollhelp.site/
 
 ### [/platform](./platform)
-All resources, templates, guides, and processes that support development of VFSs on VA.gov.
+All resources, templates, guides, and processes that support development of VFSs on VA.guv
 
 ### [/products](./products)
 All VFSs (aka VA.gov features and products)
