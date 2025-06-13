@@ -27,7 +27,7 @@ Please click **(Start)** when you are ready.
 
 3. Have you used Medications on VA.gov within the past 12 months?  
    - Yes  
-   - No
+   - No _(exclude)_
 
 ---
 
