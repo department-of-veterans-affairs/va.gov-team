@@ -2,7 +2,7 @@
 **Last updated: May 2025**
 
 - User flow
-- Figma files
+- [Figma file](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5199-14723&t=CbdU74MhUGaXUCwt-1)
 - Test Rail QA
 
 <details><summary>Archive | How to reproduce in staging</summary>
