@@ -112,6 +112,8 @@ The 403 error sends the user to a new page; this error component will only be ex
 
 [Figma file](https://www.figma.com/design/m992k2m1DSl9MXV9hDytsQ/MHV-Account-Security-%26-Access-Standards?node-id=685-14636)
 
+Exception: In June 2025, the Medications team was given an exception and will implement the 404 design for both the intended Page not found scenario and for this 403 scenario. 
+
 <details><summary>403 error page for MHV users</summary>
 <img src="https://github.com/user-attachments/assets/6f779428-1b0b-4e9d-9a01-d62eed8a58a4" />
 </details>
