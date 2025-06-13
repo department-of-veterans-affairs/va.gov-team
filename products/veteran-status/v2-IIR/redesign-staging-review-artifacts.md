@@ -49,7 +49,7 @@
  
 - Styling & Accessibility Defects discovered (these are not related to our test cases):
   - Error message should be in the warning alert (Ticket [link](https://github.com/department-of-veterans-affairs/va-mobile-feature-support/issues/524))
-  - H1 styling in profile (Ticket [link](https://github.com/department-of-veterans-affairs/va-mobile-feature-support/issues/523))
+  - H1 styling for Veteran Status Card page and Military Information page (Ticket [link](https://github.com/department-of-veterans-affairs/va-mobile-feature-support/issues/523))
   - VoiceOver issue with the Veteran Status Card (Ticket [link](https://github.com/department-of-veterans-affairs/va-mobile-feature-support/issues/522))
 
 
