@@ -1,7 +1,7 @@
 # Contact information use cases
 **Last updated: June 2025**
 
-- [User flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1748544816643/8147634738618bff171962ce84b2f940c888fb03?sender=u36b374887f74c9a3de2d0750)
+- [User flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1748544816643/8147634738618bff171962ce84b2f940c888fb03?wid=0-1749014970296&outline=open)
 - [Figma files](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3123-34667&t=HML77KqMVILaoozm-1)
 - Test Rail QA
 
