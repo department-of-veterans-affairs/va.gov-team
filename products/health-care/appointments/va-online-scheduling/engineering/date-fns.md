@@ -20,8 +20,28 @@ Will result in "Sat May 31 2025 19:00:00 GMT-0500". The appointments list (group
 Quote from https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/Date:
 Given at least a year and month, this form of Date() returns a Date object whose component values (year, month, day, hour, minute, second, and millisecond) all come from the following parameters. Any missing fields are given the lowest possible value (1 for day and 0 for every other component). The parameter values are all evaluated against the local time zone, rather than UTC. Date.UTC() accepts similar parameters but interprets the components as UTC and returns a timestamp.
 
+## Comparing dates with isBefore and isAfter
+Use caution when comparing dates using isBefore and isAfter.
+
+### Why
+The dates must be in the same format to compare correctly. Ex.
+
+```
+mappedSlots = fetchedSlots.filter(slot => {
+          return isAfter(
+            startOfMinute(new Date(slot.start)),
+            startOfMinute(new Date(new Date().toISOString())),
+          );
+        });
+```
+
+In this example, we want to determine if the available slot date is after the current date. The slot start date is in UTC format. So, the current date must be converted to UTC.
+
+**NOTE:** The date-fns library's isAfter and isBefore function comparison is precise down to the millisecond. So, to control the granularity of the comparison, use functions like startOfYear, startOfMonth, startOfDay, etc., to truncate dates to the desired level before comparison.
+
+
 ## Use 'date-fns' parseISO function
-So, how should you construct a date object when the date string is not in UTC format? You could use the approach suggested above, Date.UTC or you could use the Date contructor that takes date tokens:
+How should you construct a date object when the date string is not in UTC format? You could use the approach suggested above, Date.UTC or you could use the Date contructor that takes date tokens:
 
 ```
 const tokens = '2025-06-01'.split('-')
