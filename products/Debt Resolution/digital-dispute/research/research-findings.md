@@ -718,24 +718,22 @@ Too many steps/pages to get to the actual form; information is fragmented, which
 
 Summarize actionable recommendations based on findings.
 
-  
 
 1.  Recommendation: **R&S page**
+
+- Add additional context to more than 5 years ago/ less than 5 years ago sections
+    
+-   Supporting evidence: [Finding 3](#finding-3)
+      
+
+2.  Recommendation: **R&S page**
     
 
 - Adding more context under the section titles for clarity
     
 -   Add the word "debt" next to appropriate section titles for additional clarity, ***example: Rogers STEM Scholarship Debt***
     
--   Supporting evidence: Finding 4
-  
-
-2.  Recommendation: **R&S page**
-
-- Add additional context to more than 5 years ago/ less than 5 years ago sections
-    
--   Supporting evidence: Finding 4
-    
+-   Supporting evidence: [Finding 4](#finding-4)
   
 
 3.  Recommendation: **Dispute form**
