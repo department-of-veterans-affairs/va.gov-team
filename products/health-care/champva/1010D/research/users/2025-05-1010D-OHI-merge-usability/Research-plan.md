@@ -198,8 +198,8 @@ _Response options: YES, NO, UNSURE (Mark answer, any response qualifies for stud
 - `Veterans:` **10**
 - `Spouses and dependent chilren:` **3-5**
 - `AT users (can be: Veterans and spouses/dependent children:` **2-5**
-- `Total:` **15**
-- `Ideal completed sessions:` **20**
+- `Total:` **20**
+- `Ideal completed sessions:` **15**
 
 ### Primary criteria (must-haves)
 - `1 must use a screen reader or screen magnifier every time they access the internet`
