@@ -1,9 +1,9 @@
 # va-input-telephone Retro 6/13/2025
 
-## **✅ What Went Well 
+## ✅ What Went Well 
 
 
-## **🧩 Design & Implementation**
+## 🧩 Design & Implementation**
 
 * First component design work was well executed 
 
@@ -15,7 +15,7 @@
 
 
 
-### **🧪 Accessibility Practices**
+### 🧪 Accessibility Practices**
 
 * A11y checklist surfaced issues ahead of staging review 
 
@@ -25,7 +25,7 @@
 
 
 
-### **💬 Team Collaboration & Communication**
+### 💬 Team Collaboration & Communication
 
 * Slack channel for international phone work enabled early planning and alignment 
 
@@ -35,7 +35,7 @@
 
 
 
-### **⚙️ Tools & Support**
+### ⚙️ Tools & Support
 
 * AI support with country sprite sheet and CSS was efficient 
 
@@ -46,9 +46,9 @@
 ---
 
 
-## **⚠️ Challenges
+## ⚠️ Challenges
 
-### **🎯 Requirements & Scope Clarity**
+### 🎯 Requirements & Scope Clarity
 
 * Initial scope misunderstood — started as a simple regex, evolved into a full component 
 
@@ -58,7 +58,7 @@
 
 
 
-### **📱 Mobile Integration**
+### 📱 Mobile Integration**
 
 * Unclear expectations around Native Mobile involvement 
 
@@ -66,13 +66,13 @@
 
 
 
-### **🧪 Accessibility Timing**
+### 🧪 Accessibility Timing**
 
 * A11y testing came too late, surfaced staging issues that could’ve been caught earlier 
 
 
 
-### **🧠 Team Process & Coordination**
+### 🧠 Team Process & Coordination**
 
 * Coordination complexity with multiple epics, outlines, teams 
 
@@ -84,7 +84,7 @@
 ---
 
 
-## **✅ Action Items 
+## ✅ Action Items 
 
 ### **🎯 Improve Requirement Clarity**
 
@@ -94,7 +94,7 @@
 * 🔹 *Sprint Zero*: Clarify **if a Native Mobile equivalent is needed** → Assign ownership for that work 
 
 
-### **🧪 Accessibility Process Enhancements**
+### 🧪 Accessibility Process Enhancements**
 
 * 🔹 *Sprint Zero*: Document **accessibility test expectations** and start test writing early 
 
@@ -102,7 +102,7 @@
 
 
 
-### **🤝 Cross-Team Coordination**
+### 🤝 Cross-Team Coordination**
 
 * 🔹 Explore consolidating epics/outlines into a **centralized project view 
 
