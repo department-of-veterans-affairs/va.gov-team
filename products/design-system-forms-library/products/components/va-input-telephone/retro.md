@@ -8,7 +8,7 @@
 * First component design work was well executed 
 
 * Ian’s validation behavior design was especially strong 
-
+* Adding pattern to forms libary
 * Product outline, decision log, and architecture docs were helpful for this fast-moving, still-getting-organized new team.
 
 * Documenting and referencing design decisions proved valuable (e.g., helped another team understand “why X”) 
