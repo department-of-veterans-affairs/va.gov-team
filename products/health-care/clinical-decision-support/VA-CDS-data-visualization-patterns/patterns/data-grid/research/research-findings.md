@@ -143,13 +143,7 @@ Only 1 participant was able to easily reorder the columns in a specific order us
 
 4 / 5 participants had trouble recognizing that there were more columns. Only 1 participant immediately explored further columns by scrolling horizontally.
 
-
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.png "image_tooltip")
-
+![right edge](https://github.com/user-attachments/assets/85d41acd-d6f4-4b4e-b0ce-7f7359c2a068)
 
 *Example of the right side edge of the Data Grid*
 
@@ -161,25 +155,14 @@ Only 1 participant was able to easily reorder the columns in a specific order us
 
 *“When there are only a few rows showing, these feel kind of hidden or hard to reach. It’s like it shrinks too much and makes using it frustrating.” - *P2
 
-
-
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image5.png "image_tooltip")
+![cut off menu](https://github.com/user-attachments/assets/ffd277ad-c002-4d72-9634-3b763f88bb17)
 
 
 *Data Grid when there is only 1 result. The menu for the ‘Date of Birth’ column is cut off.*
 
 Participants pointed out that this problem does not occur when there are ‘No Results Found’.
 
-
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image6.png "image_tooltip")
-
+<img width="1041" alt="no result" src="https://github.com/user-attachments/assets/8980d9ee-f6b5-4ac5-8a18-23d24a52ce37" />
 
 *Example of a menu when there are no results found*
 
@@ -193,13 +176,7 @@ Participants pointed out that this problem does not occur when there are ‘No R
 * 2 / 5 participants forgot that they had active filters in the toolbar.
     * Participants liked the existing visual indicator for a filters in column menus.
 
-
-
-<p id="gdcalert7" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image7.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert8">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image7.png "image_tooltip")
-
+![menu indicator](https://github.com/user-attachments/assets/8458b2e3-8512-4ab0-9704-f366cfc6ed5a)
 
 *The “Full Name” column menu icon with a visual indicator that a filter is active*
 
@@ -207,13 +184,7 @@ Participants pointed out that this problem does not occur when there are ‘No R
 
 * 1 participant pointed out that the current menu options such as a search bar do not work for all column types like checkbox columns.
 
-
-
-<p id="gdcalert8" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image8.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert9">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image8.png "image_tooltip")
-
+![checkbox](https://github.com/user-attachments/assets/91fbba91-acc5-4241-8819-62b95bc6840c)
 
 *Column menu for a checkbox focused column*
 
@@ -222,11 +193,11 @@ Participants pointed out that this problem does not occur when there are ‘No R
 
 
 
-1. **Provide more flexible date range filters that support approximate or open-ended dates. **All participants stated that they are used to using date range pickers in similar tools. This date range picker can live in the top toolbar of the Data Grid. Another option would be to add more open-ended date options in a dropdown filter.
-2. **Add drag-and-drop functionality so clinicians can easily reorder columns to fit their needs. **During testing, all participants tried to drag and drop the columns to reorder them. 
+1. **Provide more flexible date range filters that support approximate or open-ended dates.** All participants stated that they are used to using date range pickers in similar tools. This date range picker can live in the top toolbar of the Data Grid. Another option would be to add more open-ended date options in a dropdown filter.
+2. **Add drag-and-drop functionality so clinicians can easily reorder columns to fit their needs.** During testing, all participants tried to drag and drop the columns to reorder them. 
     1. Clinicians should also be allowed to save the order of the columns they prefer.
     2. Rather than using the concept of 'pinning,' allow users to reorder columns by assigning them a specific numerical position to eliminate confusion about column placement.
-3. **Add visual cues—such as shadows, gradients, or edge fades—to signal that additional columns are available by scrolling horizontally. **Currently, it is not obvious at a glance to users that there are more columns.
+3. **Add visual cues—such as shadows, gradients, or edge fades—to signal that additional columns are available by scrolling horizontally.** Currently, it is not obvious at a glance to users that there are more columns.
 4. **Ensure a consistent minimum table height to maintain visibility and accessibility of column menus, even when only a few rows are displayed.** All participants complained that they could not interact with column menus when there were only a few rows displayed. A standard minimum table height would solve this problem and make Data Grid more accessible at all sizes.
 
 
