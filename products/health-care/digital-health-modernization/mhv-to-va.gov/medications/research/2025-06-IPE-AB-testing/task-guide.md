@@ -4,14 +4,15 @@
 
 ## 📋 Intro
 
-### Participant Coaching
+### Welcome
 
-In this study you will be taking on the role of **Jamie**, a Veteran who needs to navigate their medications list to find prescriptions they are trying to refill.
+Welcome to this prototype testing study, and thank you for agreeing to participate! 
 
-You will be given a series of tasks. Please attempt each to the best of your ability. If you are stuck or unable to complete one, you may click the **(SKIP)** button to move on.
+We'll be showing you a prototype of our Medications experience on My HealtheVet. Please note that the prototype contains **fake data** and is not personalized to you. This means you will not be able to perform certain actions, such as refill a medication. The goal is to observe how you would navigate and complete the task using the prototype.
 
-Thank you for assisting us with this study.  
-Please click **(Start)** when you are ready.
+The activity shouldn't take longer than **10 to 15 minutes** to complete. 
+
+While your responses are anonymous, if you would like to receive an honoraria in the form of $10 to thank you for participating, please complete the full test and put in your Participant Code at the end of the test . This is the unique code that Perigean, the recruiters who contacted you, provided when asking you to participate in this test.
 
 ---
 
