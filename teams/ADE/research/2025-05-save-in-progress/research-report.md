@@ -186,7 +186,10 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
 **Finding X: Accessibility issues were discovered with the form**
 - One screen reader user user (VoiceOver on iOS) **didn't know that the citizenship question was a radio button** when they tapped on it, but they figured it out. Riley tested and found that it's announced as a checkbox (bug) and radio button on her iPhone, but announced as a radio button on desktop. After she updated her phone, it announced as only a radio button, so it was an iOS issue, not ours. 
   > *"It doesn't let you know that there's a radio button before that, so it's sometimes confusing...In our world of using accessibility, we can only wish for so much...So it works. Would be nice if as soon as I clicked on that, it said 'radio button' and then [when I] swiped right, it would read what that was and then go down" (p5).*
-- One screen reader user user (JAWS on desktop) said he heard the affirmation statements on the Review/Submit page read four times. Here's what he heard:
+- One screen reader user (JAWS on desktop) tried to type date of birth into the date of birth month field because he stopped the screen reader before it said the field was a popup.
+  > *"If I tab to someplace normally that wants my birth date, I just type in the whole thing. But here it wants to go month, and then...day, and then...year, which is 3 separate fields. I would have known that if I would have just listened I mean it did tell me one of the day, you know, or the month it didn't. It didn't tell me, put in the whole thing.
+
+- One screen reader user (JAWS on desktop) said he heard the affirmation statements on the Review/Submit page read four times. Here's what he heard:
      1. "Statement of truth. I confirm that the identifying information in this form is accurate and has been represented correctly."
      1. "I have read and accept the link privacy policy opens in a new tab"
      1. "Your full name star required" -- *While focus is on the field name*
