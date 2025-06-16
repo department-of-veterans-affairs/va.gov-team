@@ -43,7 +43,7 @@ The MHV to VA.gov initiative consists of several different products, each with i
 
 ## <a name="existingfeatures"></a>Where are we now? - Existing features<be>
 
-## Product Overview
+### Product Overview
 - [insert link]
 - [insert link]
 
@@ -61,7 +61,7 @@ On June 2024, the [Secondary Navigation](https://github.com/department-of-vetera
 
 **As of December 2024, all four of the essential health tools are now fully available on VA.gov.** 
 
-## <a name="2025goals"></a>Where are we going? - 2025 goals/key milestones<be>
+## <a name="2025goals"></a>Key Milestones<be>
 
 *Milestones are subject to change* 
 
@@ -77,7 +77,11 @@ experiences. Users who directly go to MHV Classic will continue to have the same
 directed to VA.gov for secure messaging, medications, and medical records.
 - MyVA Health users can still get to MyVA Health from both portals.
 
-For more information regarding **Milestone 2**, **the Oracle Health integration on VA.gov**, and **VAHB Health Features**, [please see review in Sharepoint](https://dvagov.sharepoint.com/:p:/r/sites/OCTO-Health/_layouts/15/Doc.aspx?sourcedoc=%7B06E09678-7D2D-4AEA-991D-BF33A960F896%7D&file=2.24725%20-%20MHV%20on%20VA.gov%20Transition%20Timeline%202025.pptx&action=edit&mobileredirect=true&DefaultItemOpen=1&ct=1741186637169&wdOrigin=OFFICECOM-WEB.START.EDGEWORTH&cid=7c137060-4176-4ad3-bae1-df9d57e6a12c&wdPreviousSessionSrc=HarmonyWeb&wdPreviousSession=dc48b4cc-a814-40f7-aa78-a1286844355b). 
+**Account Creation API Implementation (12/24)**
+- [Add details for Milestone 2] 
+
+**Milestone 1 (3/17/25)**
+- [Add details for Milestone 2] 
 
 ## <a name="metrics"></a>High-level performance and adoption metrics for the health portal<be>
 
