@@ -17,7 +17,7 @@ This document serves as a resource for future work, ensuring that our team and f
 * [Engineering resources](#engineering) 
 * [Quality Assurance](#qa)
 
-## <a name="background"></a>Background of the My HealtheVet transition<be>
+## <a name="background"></a>Background of the My HealtheVet Transition<be>
 
 **Overview**
 
@@ -31,7 +31,7 @@ While the team’s core responsibility focuses on the MHV landing page and Secon
 
 [See the full product brief here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/product-brief.md)
 
-## <a name="directoryofteams"></a>Directory of teams<be>
+## <a name="directoryofteams"></a>Directory of Teams<be>
 
 The MHV to VA.gov initiative consists of several different products, each with its discrete product outlines and teams:
 
@@ -41,7 +41,7 @@ The MHV to VA.gov initiative consists of several different products, each with i
   - [Medications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/README.md)
   - [Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling)
 
-## <a name="existingfeatures"></a>Where are we now? - Existing features<be>
+## <a name="existingfeatures"></a>Existing Features<be>
 
 ### Product Overview
 - [insert link]
@@ -63,7 +63,8 @@ On June 2024, the [Secondary Navigation](https://github.com/department-of-vetera
 
 ## <a name="2025goals"></a>Key Milestones<be>
 
-*Milestones are subject to change* 
+**Account Creation API Implementation (12/24)**
+- [Add details for Milestone 2]
 
 **Milestone 1 (3/17/25)**
 
@@ -77,10 +78,7 @@ experiences. Users who directly go to MHV Classic will continue to have the same
 directed to VA.gov for secure messaging, medications, and medical records.
 - MyVA Health users can still get to MyVA Health from both portals.
 
-**Account Creation API Implementation (12/24)**
-- [Add details for Milestone 2] 
-
-**Milestone 1 (3/17/25)**
+**Milestone 2 (6/25)**
 - [Add details for Milestone 2] 
 
 ## <a name="metrics"></a>High-level performance and adoption metrics for the health portal<be>
