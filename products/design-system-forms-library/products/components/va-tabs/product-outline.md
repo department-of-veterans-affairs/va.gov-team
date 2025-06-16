@@ -5,11 +5,11 @@
 ## Design System Team
 - Product Managers: Carol Wong, Tricia Baker
 - Designer: Barb Denney
-- Web Dev: ???
+- Web Dev: Kerry Powell, Ryan Munsch
 - Mobile Dev: Tim Roettger 
   
 ## Artifacts
-- [Figma](https://www.figma.com/design/afurtw4iqQe6y4gXfNfkkk/VADS-Component-Library?node-id=24991-2000&p=f)
+- [Figma](https://www.figma.com/design/afurtw4iqQe6y4gXfNfkkk/branch/MNfr6ScW4Sf66tN0iY20GN/VADS-Component-Library?node-id=24991-2000&p=f&t=KIyq2yzCk1rff33f-0)
 - [Experimental Design Request](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/2346)
 - [Dropdowns and expandable components audit in Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1745526301433/147ef4e2490afbb999981a3cd80452f3a4871e4f?sender=uc445c662daeb45814b8d8356)
 - [Tab prototypes in Codepen](https://codepen.io/collection/NKxJBM)
@@ -36,17 +36,18 @@ April
 May
 - Sprint 2 (April 28 to May 11)
 	- Design: update designs in Figma,  review with PO, designers and developers and finalized designs for web and mobile
-- Sprint 3 (May 12 to 25)
-	- Web component development 
-
+	
 June
-- Sprint 4 (May 26 to June 8)
-	- Accessibility review
-- Sprint 5 (June 9 to 22) (if needed)
-	- Accessibility issues addressed
-	- Component library, guidance and Figma are published. 
+- Sprint 6 (June 23 to July 4) 
+       - Web component development 	
+- Sprint 7 (July 7 to 18) 
+        - Accessibility Review
+        - Documentaiton
+- Sprint 8 (July 21 to Aug 1)
+        - Accessibility issues addressed
+August
 - Staging review scheduled 
-
+- Component library, guidance and Figma are published. 
 
 
 ## Success Criteria
