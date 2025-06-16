@@ -186,8 +186,15 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
 **Finding X: Accessibility issues were discovered with the form**
 - One screen reader user user (VoiceOver on iOS) **didn't know that the citizenship question was a radio button** when they tapped on it, but they figured it out. Riley tested and found that it's announced as a checkbox (bug) and radio button on her iPhone, but announced as a radio button on desktop. After she updated her phone, it announced as only a radio button, so it was an iOS issue, not ours. 
   > *"It doesn't let you know that there's a radio button before that, so it's sometimes confusing...In our world of using accessibility, we can only wish for so much...So it works. Would be nice if as soon as I clicked on that, it said 'radio button' and then [when I] swiped right, it would read what that was and then go down" (p5).*
-- One screen reader user (JAWS on desktop) tried to type date of birth into the date of birth month field because he stopped the screen reader before it said the field was a popup.
-  > *"If I tab to someplace normally that wants my birth date, I just type in the whole thing. But here it wants to go month, and then it wants to go to the day, and then it wants to go to the year, which is 3 separate fields. I would have known that if I would have just listened...It didn't tell me to put in the whole thing...I listen to this thing [screen reader] so much--I just tend not to listen any more than I have to" (p1).*
+- Two screen reader users (1 using JAWS and desktop, and 1 using VoiceOver on mobile) had difficulty entering their date of birth on the phone
+  - The desktop screen reader user tried to type date of birth into the date of birth month field because he stopped the screen reader before it announced that the field was a popup.
+    > *"If I tab to someplace normally that wants my birth date, I just type in the whole thing. But here it wants to go month, and then it wants to go to the day, and then it wants to go to the year, which is 3 separate fields. I would have known that if I would have just listened...It didn't tell me to put in the whole thing...I listen to this thing [screen reader] so much--I just tend not to listen any more than I have to" (p1).*
+  - The mobile screen reader user (using VoiceOver and Safari) had 3 different problems:
+
+    1. The participant thought she was thought she was on the DOB field, and the focus rectangle was there, but there was a blinking cursor in the previous field (last name). When she typed a number for the date of birth month, the number was entered into the last name field, which surprised her.
+       > *"I thought I was on the date of birth, and I was still on the last name. So I didn't hear where the insert was when it got down to date of birth...I didn't hear the text field in the date. It had the month, didn't say I was in the text field, then had to swipe, double tap on the month. Caught me off guard" (p4).*
+    2. When the participant finally heard the month field announced, she didn't understand when it said, "Double tap to activate the picker". Later she heard the same prompt for the Country and  State fields.  
+       > *"How would somebody know what a 'picker' is?" (p4).*
 
 - One screen reader user (JAWS on desktop) said he heard the affirmation statements on the Review/Submit page read four times. Here's what he heard:
      1. "Statement of truth. I confirm that the identifying information in this form is accurate and has been represented correctly."
@@ -234,6 +241,8 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
     - *Supporting evidence:* One participant using a screen magnifier found it difficult to read this link because its font didn't magnify like all the other text on the draft form card.
 
 #### Recommendation: Fix accessibility issues with Request personal records form
+1. Change the announcement for dropdown fields from "Double tap to activate the picker" to use plain language: "Double tap to select the month", "Double tap to select the country", and "Double tap to select the state".
+  - _Supporting evidence: p1 didn't know what a "picker" was and got confused.
 
 ### Recommendation: Consider design revisions for Request personal records form
 *Summarize actionable recommendations based on findings.*  
