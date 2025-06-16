@@ -141,8 +141,13 @@ This research will:
 
 ### Hypotheses
 
-We hypothesize that Veterans will be able to easily add several different conditions to their claim. 
-
+We hypothesize that:
+- Veterans will be able to easily add several different conditions to their claim 
+- Veterans will understand how to enter an approximate date on the date screens
+- The condition-specific flow combined with condition-specific page headings will help Veterans feel confident they're entering the right information
+- The label on the autocomplete menu, "Select or enter new condition," will encourage Veterans to use autosuggestions
+- Veterans will read all four cause options before making a selection
+  
 # Methodology
 
 ## Testing Structure
