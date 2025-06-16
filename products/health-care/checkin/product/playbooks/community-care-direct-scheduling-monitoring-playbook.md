@@ -10,9 +10,11 @@ and have the necessary information to address problems quickly.  To accomplish i
 
 ## Dashboards
 
+[Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/t4t-axu-zvb/vaos-appointments-metrics?fromUser=false&refresh_mode=sliding&from_ts=1750097905206&to_ts=1750101505206&live=true)
 
 ## Monitors
 
+TBD
 
 ## Process expectations
 
@@ -20,4 +22,4 @@ For issues and investigations follow the [Incident Response Playbook](https://gi
 
 ## Watch Officer (watchtower) Process
 
-
+TBD
