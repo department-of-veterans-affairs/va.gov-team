@@ -122,7 +122,7 @@ Before you start using the prototype, I’ll set up the scenario.
       You want to file a claim for \_\_\_\_\_\_\_\_\_\_\_\_\_.  
     * *\[If we can’t use their actual condition\]* You have recently started getting arthritis symptoms in your knee, which you think is from a knee injury you got while in service. You’d like to file a new claim for that.  
   * Because this is fake data, we’ve set it up so that you’ve already been rated and are getting compensation for some other conditions: Tinnitus, Sciatica, and Hypertension. 2 of these conditions have gotten worse, and you’d like to get more compensation for them.  
-  * So, you’ve come to this website to file a claim. You want to file for 3 conditions: *\[new condition\]* and two that you’re already rated for.  
+  * So, you’ve come to this website to file a claim. You want to file for 3 conditions: *\[new condition\]* and two that you’re already rated for.
 * OK, go ahead and start, and please remember to voice your thoughts out loud. 
 
 # Task 1 \- complete walkthrough (15 min)
@@ -150,12 +150,19 @@ Before you start using the prototype, I’ll set up the scenario.
 Now I’ll ask some follow-up questions.
 
 * Overall, how was that experience for you?  
-* How did it compare to what you expected? (or: Was there anything surprising or unexpected about using this prototype?)  
+* Did anything work differently from what you expected?
+  * Were there any times when it asked for information that you didn't expect to be asked about?
+  * Was there any information you wanted to add that there wasn't room for?  
+
 * What part of this process was most challenging, and why?  
-* What, if anything, felt unclear or confusing?  
+* What, if anything, felt unclear or confusing?
+* Did you ever feel lost or unsure what to do next?
+
 * What do you think about how long it took?  
 * What do you think about the number of questions?
 
+* _[optional depending on time]_ Let's say you were telling another Veteran about this process. How would you describe it to them?
+  
 # Task 2 \- Specific screen probes (15 min)
 
 *Ask questions as time allows. Skip any questions that have already been answered above.*
@@ -173,13 +180,17 @@ Go ahead and walk me through how you would add tendonitis in your shoulder.
 * What do you think about the options on this screen?  
 * Where do you think this list of options came from?  
 * When you first saw “A condition I haven’t claimed before”, what did you think that meant?  
-* You may not have noticed, but there used to be 4 options on this screen, and now there are only 2\. Do you have any idea why that is?  
+* Did you notice that the list of options got shorter? _[If not, mention that the number of options changed from 4 to 2]_
+  * Do you have any idea why that is?  
   * What do you think of that? Is that confusing at all?
 
 ##### Add new condition screen
 
 * Was there anything unclear or confusing on this screen?  
-* There are some instructions on this page. Were any of these useful when you first used this page?
+* There are some instructions on this page.
+  * Were any of these useful when you first used this page?
+  * Was there any text you skipped or didn’t read?
+  * Were any unclear or easy to miss?
 
 ##### Laterality  screen
 
@@ -218,8 +229,7 @@ Before you click continue, I have a couple of questions.
 
 ##### Edit page
 
-* Let’s say you realized you entered \[pick one of their new conditions\] incorrectly, and you want to change it. Show me how you’d do that.  
-* What if you realized you put the wrong start date on the condition. How would you change that?  
+* What if you realized you put the wrong start date on the condition. What would you do?  
 * What do you think of how this works?  
 * What if you decided you didn’t want to claim \_\_\_\_\_\_\_\_. What would you do?  
 * What do you think of how this works?
