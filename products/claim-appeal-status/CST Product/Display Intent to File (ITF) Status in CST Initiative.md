@@ -25,11 +25,14 @@ Display ITF status information directly within the Claims Status Tool (CST) for 
 * Display a helpful empty state if no ITF is on file
 
 ## Impact
-* Increased visibility into ITF status, reducing confusion and reliance on manual or indirect methods
-* Fewer ITF-related support calls and inquiries
-* Higher rate of claims filed within the ITF window, preserving Veterans’ eligibility for backdated benefits
+Increase the rate of claims filed within the ITF window to maintain Veterans’ eligibility for backdated benefits.
 
-```What are the success metrics to know if we succeed?```
+Driving questions for improving the rate of claims
+
+- How many ITFs currently expire without a claim submitted?
+- How many of those Veterans eventually submit a claim later?
+- How much money are Veterans missing out on?
+- What percentage of that amount can we help Veterans recover by providing more information about ITFs?
 
 ## User stories
 
