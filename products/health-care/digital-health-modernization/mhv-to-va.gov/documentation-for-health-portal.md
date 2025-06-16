@@ -6,8 +6,9 @@ Last Update: March 12, 2025
 
 This document serves as a resource for future work, ensuring that our team and future contract teams can easily access critical information. 
 
-## On this page
+## Table of Contents
 
+* Product Overview
 * [Background of the My HealtheVet transition](#background)
 * [Directory of teams](#directoryofteams)
 * [Where are we now? - Existing features](#existingfeatures)
@@ -16,6 +17,8 @@ This document serves as a resource for future work, ensuring that our team and f
 * [Design and research resources](#design)
 * [Engineering resources](#engineering) 
 * [Quality Assurance](#qa)
+
+## <a name="product-overview"></a>Product Overview<be>
 
 ## <a name="background"></a>Background of the My HealtheVet transition<be>
 
