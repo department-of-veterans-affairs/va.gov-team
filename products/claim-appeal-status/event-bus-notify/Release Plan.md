@@ -7,7 +7,7 @@ List the features toggles here.
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| event_bus_gateway_emails_enabled | When enabled, vets-api opens an endpoint to Event Bus Gateway for sending notification emails. |
+| [event_bus_gateway_emails_enabled](https://api.va.gov/flipper/features/event_bus_gateway_emails_enabled) | When enabled, vets-api opens an endpoint to Event Bus Gateway for sending notification emails. |
 
 ## Step 2: Validation
 
