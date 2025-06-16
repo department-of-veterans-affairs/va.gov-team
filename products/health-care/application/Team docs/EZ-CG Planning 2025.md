@@ -1,6 +1,41 @@
 # 2025 Sprint Planning for EZ-CG Team
 - Newest first
 
+## 📆 Sprint 23 (June 18 - July 1)
+
+### 10-10EZ
+
+#### Obj: EZ [Multi-form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103260)
+- [#111103](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111103) - [BE] Tech exploration of BDS API
+
+#### Obj: EZ [CYOA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103253)
+- 
+
+#### Obj: EZ [Improvements/BUGS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
+- [#111096](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111096) - [FE] Investigate Future Discharge Date event spike
+- [#103446](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103446) - [BE] In-progress Notification failures investigation
+
+#### Obj: EZ [Form Statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95313)
+- PM working on this - In progress 
+
+## 
+### 10-10CG
+
+#### Obj: CG [Improvements/BUGs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40165)
+- [#102073](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102073) - [FE] Update signature page
+- [#99053](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99053) - [FE] va-statement-of-truth web component
+- [#99952](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99952) - [Design] Update content on Caregivers' contact info pages
+
+##
+### Team PTO
+- Holiday: Juneteenth 6/19
+- Brandon: 6/20
+- Luis: 6/20
+- Renata: 6/20
+- Heather: 6/20-23
+- Jessica: 6/20-24
+---
+
 ## 📆 Sprint 22 (June 4 - June 17)
 
 ### 10-10EZ
