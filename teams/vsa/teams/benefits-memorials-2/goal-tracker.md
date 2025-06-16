@@ -176,6 +176,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 |ENG: Prepare the QA Artifacts for the Digital Debt Dispute staging review.| QP4 |--|--|--|
 |ENG: Finish creating and run the E2E tests for validating the Digital Debt Dispute prior to launch.| QP4 |--|--|--|
 |ENG: Implement any launch required updates based off of the UX research for Digital Debt Dispute. | QP4 |--|--|--|
+|ENG: Launch Digital Debt Dispute. | QP4 |--|--|--|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [ ] Ready to be sent for approvals (06/X/25)
