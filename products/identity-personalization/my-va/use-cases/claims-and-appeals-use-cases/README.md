@@ -3,7 +3,7 @@
 **Last updated: May 2025**
 
 - User flow
-- [Figma files](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5196-13785&t=Qplg9wUFJEDlP70M-1)
+- [Figma files](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5261-50980&t=Qplg9wUFJEDlP70M-1)
 - Test Rail QA
 
 <details><summary>Archive | How to reproduce in staging</summary>
@@ -119,7 +119,7 @@ We're sorry. Something went wrong on our end. If you have any claims and appeals
 - **Use case:** If an LOA3 user logs in and there is an error with the API that displays the disability rating, then we show an alert informing the user the information is currently unavailable.
 - **Status code:** TBD
 - **Format:** [Warning alert](https://design.va.gov/components/alert/#warning-alert), **no other content appears in the section when the alert is triggered.**
-- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5074-19242&t=Qplg9wUFJEDlP70M-1)
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5072-18605&t=Qplg9wUFJEDlP70M-1)
 - [Link to code]
 - **Content:**
 
