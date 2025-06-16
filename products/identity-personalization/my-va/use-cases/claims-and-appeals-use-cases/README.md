@@ -3,7 +3,7 @@
 **Last updated: May 2025**
 
 - User flow
-- Figma files
+- [Figma files](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5196-13785&t=Qplg9wUFJEDlP70M-1)
 - Test Rail QA
 
 <details><summary>Archive | How to reproduce in staging</summary>
@@ -59,7 +59,7 @@
 - **Status code:** TBD
 - **Content:** Varies on claim and appeal type. See code.
 - **Format:** [Card component](https://design.va.gov/components/card)
-- [Link to designs]
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5069-18446&t=Qplg9wUFJEDlP70M-1)
 - [Link to code]
 
 </details>
@@ -69,11 +69,11 @@
 
 <details><summary>User does not have a disability rating</summary>
 
-- **Use case:** If a logged in LOA3 user does not have a disability rating they see... TBD
+- **Use case:** If a logged in LOA3 user does not have a disability rating they see information informing them they do not have a disability rating, and a link to learn more.
 - **Status code:** TBD
 - **Content:** TBD
 - **Format:** TBD
-- [Link to designs]
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5000-17502&t=Qplg9wUFJEDlP70M-1)
 - [Link to code]
 
 </details>
@@ -82,10 +82,10 @@
 <details><summary>User has a disability rating</summary>
 
 - **Use case:** If a logged in LOA3 user has a disability rating they see a card with their combined disability rating, and a link to review the rating breakdown.
-- **Status code:** TBD
+- **Status code:** 200
 - **Content:** TBD
 - **Format:** [Card component](https://design.va.gov/components/card)
-- [Link to designs]
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5072-18503&t=Qplg9wUFJEDlP70M-1)
 - [Link to code]
 
 </details>
@@ -102,15 +102,28 @@ There are no flags associated with this feature.
   
 - **Use case:** If an LOA3 user logs in and there is an error with the claims API, then we will not be able to show a card for any recent claim or appeal updates.
 - **Status code:** TBD
+- **Format:** [Warning alert](https://design.va.gov/components/alert/#warning-alert), **no other content appears in the section when the alert is triggered.**
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5074-19242&t=Qplg9wUFJEDlP70M-1)
+- [Link to code]
 - **Content:**
 
-Header: We can't access your claims or appeals information.
+Header: We can't access your claims or appeals information
 
 We're sorry. Something went wrong on our end. If you have any claims and appeals, you won't be able to access your claims and appeals information right now. Please refresh or try again later.
 
-- **Format:** [Error alert](https://design.va.gov/components/alert/#error-alert), **no other content appears in the section when the alert is triggered.**
-- [Link to designs]
+</details>
+
+
+<details><summary>The API that shows the disability rating is down</summary>
+  
+- **Use case:** If an LOA3 user logs in and there is an error with the API that displays the disability rating, then we show an alert informing the user the information is currently unavailable.
+- **Status code:** TBD
+- **Format:** [Warning alert](https://design.va.gov/components/alert/#warning-alert), **no other content appears in the section when the alert is triggered.**
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5074-19242&t=Qplg9wUFJEDlP70M-1)
 - [Link to code]
+- **Content:**
+
+We can’t currently display your disability rating. Please refresh or try again later.
 
 </details>
 
