@@ -1,4 +1,4 @@
-# My HealtheVet on VA.gov transition documentation (MVP) 
+# My HealtheVet on VA.gov Transition Hub 
 
 Last Update: March 12, 2025
 
