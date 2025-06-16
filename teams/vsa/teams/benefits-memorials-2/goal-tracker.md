@@ -154,7 +154,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 |UX: Make updates to the designs based off the Midpoint review feedback for 1TPP (One Thing Per Page) | QP5 |--|--|--|
 |ENG: Complete the DD (Digital Dispute) PDF generation for submission functionality and review with UX to confirm design| QP4 |--|--|--|
 |ENG: Front End to complete the functionality of sending the Back End PDF’s for DD submissions| QP4- |--|--|--|
-|ENG: Back End to create an endpoint that can receive a PDF blob and other relevant data from the front end allowing the acceptance of the DD PDF submissions | QP4 |--|--|--|
+|ENG: Back End to create an endpoint that can receive a PDF blob and other relevant data from the front end allowing the acceptance of the DD PDF submissions | QP4 |--|6/12/25|Completed|
 |ENG: Complete PSIRR (Privacy, Security, Infrastructure Readiness Review) Collab Cycle stage for DD | QP4 |--|--|--|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
