@@ -118,8 +118,8 @@ This study will be remote and unmoderated, using Optimal Workshop.
 Please see below for links and details on research materials.  
 
 - [Link to email with instructions](url goes here) - TBD
-- [Link to prototype or OptimalSort session for Cohort 1](https://dj540s05.optimalworkshop.com/prototype/6mv0y39c)
-- [Link to prototype or OptimalSort session for Cohort 2](url goes here) - TBD (will duplicate 1 when it is finalized).
+- [Link to prototype or OptimalSort session for Cohort 1](https://dj540s05.optimalworkshop.com/prototype/6mv0y39c?recording=true)
+- [Link to prototype or OptimalSort session for Cohort 2](https://dj540s05.optimalworkshop.com/prototype/415757467673b8a6713131e06ae3817b?recording=true)
 - [Link to task questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2025-06-Task%20List%20and%20Traditional%20Form%20Unmoderated/tasks-instructions-post-questions.md)
 - [Link to Figma Prototypes](https://www.figma.com/design/0DGvBhCaSMf6WH1ofSw35y/10-10EZ---CYOA---Prototype---Study-1?node-id=3-28&t=hvLGbrvCE9CFdkPA-1)
 
@@ -164,7 +164,7 @@ Our intended audience is Veterans and we will partner with Perigean for recruitm
 
 ### Optional Kick-off Call with Perigean
 
-- `Suggested dates and times:` **[Tuesday 17th - Wedesday 18th; 12pm ET - 5pm ET, Wednesday 25th - Thursdday 26th 10am - 5pm ET]**
+- `Suggested dates and times:` **[Tuesday 17th - Wednesday 18th; 12pm ET - 5pm ET, Wednesday 25th - Thursday 26th; 10am - 5pm ET]**
 - **Pilot Session** 
 - `Pilot participant name:` **[Perigean to Recruit 1 participant per cohort]**
 - `Date and time of pilot session:` **[TBD - Leave 3 days between Pilots before sessions start; July 1-11, 2025]** 
