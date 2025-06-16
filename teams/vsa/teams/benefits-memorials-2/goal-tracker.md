@@ -173,8 +173,8 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 |UX: Draft the design Ideation for Hardship suspension based off the 6/17 kickoff meeting. | QP8 |--|--|--|
 |UX: Create initial mockups for the Pay.gov Authenticated Copay path. | QP6 |--|--|--|
 |UX: Review staging implementation of DD with ENG prior to launch. | QP4 |--|--|--|
-|ENG: Prepare the QA Artifacts for the Digital Debt Dispute staging review.| QP4- |--|--|--|
-|ENG: Finish creating and run the E2E tests for validating the Digital Debt Dispute prior to launch.| QP4- |--|--|--|
+|ENG: Prepare the QA Artifacts for the Digital Debt Dispute staging review.| QP4 |--|--|--|
+|ENG: Finish creating and run the E2E tests for validating the Digital Debt Dispute prior to launch.| QP4 |--|--|--|
 |ENG: Implement any launch required updates based off of the UX research for Digital Debt Dispute. | QP4 |--|--|--|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
