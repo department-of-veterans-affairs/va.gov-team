@@ -1,5 +1,58 @@
 # Running Design and Research Agenda
 
+## June 16 2025
+**Attendees:** Jamie Fiore, Renata Keck, Rachel Pope, Amanda Klausmeier, Premal Shah, Mike Mooney
+
+### Agenda
+* UX Roadmap
+* Research goals and recommendations for potential LLM research
+* 10-10D/OHI usability testing Updates
+* CHAMPVA Service Blueprint Updates
+
+### Notes
+* Roadmap:
+    * Duty to assist: Started mapping out a potential flow and have documented some questions to answer. 
+    * Claims Resubmissions:
+        * UX went over how we combined the initial user interviews vs usability testing for CHAMPVA claims in August 2024. 
+        * Amanda didn’t see any future Claims Research on the UX roadmap.. Are we planning on conducting research pre or post launch? UX agrees we should do another test.
+        * Should we conduct the usability test now and do the full study of OCR/ file uploads later? 
+        * Can we do usability testing before launch or after launch? TBD. It might be dependent on how fast engineering can build it and how fast Pega can do the feature flag
+        * Content/IA is currently reviewing the claims resubmissions and left comments. Jamie will look at them and answer any questions if needed.
+        * Engineering spike tickets will determine the labor of effort. Michael C already explained that switching around the order of the sections will prolong getting the resub flow in staging but UX may have a simpler solution. UX confirmed with our other frontend engineer that their solution is possible. We still want to confirm with Michael when he comes back from PTO though. Michael confirmed that he can get the resubs in the staging in 2 sprints.  
+        * Premal asked PEGA team if we can get the flag done quicker. Doesn’t want to delay the launch with testing if Pega is ready. 
+        * Usability before launch is always preferred. Would it have a higher impact if we release the MVP without testing to reduce feedback loops or release a near perfect launch?
+        * Renata will create tickets for usability testing in order to prep for testing if we plan to do it before launch. 
+* LLM: 
+    * Rachel created a list of recommendations for research.
+    * UX would like to research how users respond to an error message if we tell them we are scanning with AI. 
+    * AI may cause trust issues. We want to test users' consenting to using AI. 
+    * Premal goals are to display whatever makes sense to users and we persuade them to make the upload corrections if needed. 
+    * Would our users understand OCR vs LLM? Rachel explained that OCR doesn't generate any new content vs LLM generates new content. Users may be more comfortable and familiar with OCR. It's older technology. OCR might be lower risk
+    * Using and telling users that we are using VA’s own LLM might create more trust. Jamie talked through this with OCTO’s trauma-informed practice circle and they agree that the more we can disclose about the product we are using the better. There is a lot of distrust in AI so this will help if it is the better product.  
+    * Maybe we test the resub flow for usability and ask user some LLM questions in the same study. We can build out 2 task flows where we provide a vetted document to test both resub flow with LLM.
+    * Rachel referenced the Find a Form teams research on AI. Not sure if other teams are using it but once she has Co-pilot she can find more. 
+    * Amanda prefers the LLM would be looped into the claims resubs research. We think this is going to be more of a content solution. We need to make sure we are clear with users while not being overly complicated with the explanation. 
+
+* Usability testing
+    * Shane approved the study. 
+    * Kickoff call with Perigean is today
+    * Wednesday is the  Non-AT user pilot study
+    * 2 AT pilot studies on schedule for the following week
+    * ADE will support the AT user sessions
+    * Renata to send out sign up sheets join as observers and note-takers
+* CHAMPVA Service Blueprints
+    * Jamie and Renata walked through some changes on the blueprint: added additional info in a pop up box to define resubmissions reopens and appeals
+    * Added some more markers on the blueprint that help show the resubmissions vs reopens paths  more more easier
+    * Amanda doing some discovery on health enrollment status tools and how that would work. Amanda has a mural with some documentation. 
+    * Premal wants to keep the language on the resubmission more vague to not add more potential confusions on the terminology between a resubmit vs a reopen because CHAMVPA doesn’t define this clearly on their communications to the user. The UX team suggested a future iteration in which we figure out how to communicate the difference better so we can help users with reopens submit their missing paperwork quicker. Reopen would require sending only the missing info while sendbacks/resubmissions require sending everything back including the original docs. 
+    * Discussed future ideas:
+        * Allow digital sendback submissions for CHAMPA Enrollment
+        * Populate OHI the info on the card using OCR/LLM
+        * Create an NPI query to see if sponsor has dependents and populate it on form
+        * We can look into using some sort of eligibility tool that detects ineligible applicants and lets them know that they may not be eligible. We want to make sure users can still complete the form but warn them that they may not be eligible. We can try to  make the case to the business end to allow us to have some more control over this.  We can use their Tri-care eligibility to determine this.
+        * Implement the health status tool to view enrollment status
+
+
 ## June 9 2025
 **Attendees:** Jamie Fiore, Renata Keck, Rachel Pope, Amanda Klausmeier, Andrea Merrill, Premal Shah, Marissa Merkt
 
