@@ -8,7 +8,6 @@ This document serves as a resource for future work, ensuring that our team and f
 
 ## Table of Contents
 
-* Product Overview
 * [Background of the My HealtheVet transition](#background)
 * [Directory of teams](#directoryofteams)
 * [Where are we now? - Existing features](#existingfeatures)
@@ -17,8 +16,6 @@ This document serves as a resource for future work, ensuring that our team and f
 * [Design and research resources](#design)
 * [Engineering resources](#engineering) 
 * [Quality Assurance](#qa)
-
-## <a name="product-overview"></a>Product Overview<be>
 
 ## <a name="background"></a>Background of the My HealtheVet transition<be>
 
@@ -45,6 +42,10 @@ The MHV to VA.gov initiative consists of several different products, each with i
   - [Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling)
 
 ## <a name="existingfeatures"></a>Where are we now? - Existing features<be>
+
+## Product Overview
+- [insert link]
+- [insert link]
 
 ### My HealtheVet on VA.gov Landing page
 
