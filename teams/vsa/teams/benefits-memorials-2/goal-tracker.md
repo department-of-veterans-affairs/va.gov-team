@@ -148,10 +148,10 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 ## Sprint Goals - Sprint: 10 [6/4/25 - 6/17/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
-|UX: Complete the readout for R&S/Digital Dispute study | QP3 QP4 |--|--|--|
-|UX: Prepare the presention & present the R&S/Digital Dispute study readout | QP3 QP4 |--|--|--|
-|UX: Complete the Monthly May Medallia report | QPX |--|--|--|
-|UX: Make updates to the designs based off the Midpoint review feedback for 1TPP (One Thing Per Page) | QP5 |--|--|--|
+|UX: Complete the readout for R&S/Digital Dispute study | QP3 QP4 |6/12/25|Completed|
+|UX: Prepare the presention & present the R&S/Digital Dispute study readout | QP3 QP4 |6/12/25|Completed|
+|UX: Complete the Monthly May Medallia report | QPX |6/17/25|Completed|
+|UX: Make updates to the designs based off the Midpoint review feedback for 1TPP (One Thing Per Page) | QP5 |6/17/25|Completed|
 |ENG: Complete the DD (Digital Dispute) PDF generation for submission functionality and review with UX to confirm design| QP4 |--|--|--|
 |ENG: Front End to complete the functionality of sending the Back End PDF’s for DD submissions| QP4- |--|--|--|
 |ENG: Back End to create an endpoint that can receive a PDF blob and other relevant data from the front end allowing the acceptance of the DD PDF submissions | QP4 |--|6/12/25|Completed|
