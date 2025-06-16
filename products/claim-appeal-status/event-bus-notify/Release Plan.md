@@ -92,7 +92,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - How will you make the product available in production while limiting the number of users who can find/access it: Gateway will **not** be connected to the full production Kafka topic at this time, but rather a series of iteratively-larger subsets of messages.
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
   - DataDog error rate below 5%
-  - VA Notify error rate below 5%
+  - Click through rate above xx%
 - Links to the dashboard(s) showing "success criteria" metrics: [FILL_IN] with link to dashboards (example: Google Analytics dashboard)
 - Who is monitoring the dashboard(s)?: Ian Donovan
 
