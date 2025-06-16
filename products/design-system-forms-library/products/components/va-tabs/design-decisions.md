@@ -52,9 +52,9 @@ When the experimental design was originally presented, three options were propos
 Each approach had pros and cons, documented in the [original experimental design request](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/2346#issuecomment-2200772543).
 
 Prototypes were created for each approach:  
-- [Option 1: Stacked on mobile](https://codepen.io/babsdenney/pen/EaaYvQV)  
+- [Option 1: Stacked on mobile](https://codepen.io/babsdenney/pen/yyyBbYY)  
 - [Option 2: Horizontal scrolling](https://codepen.io/babsdenney/pen/yyyBbYY)  
-- [Option 3: Dropdown](https://codepen.io/babsdenney/pen/GgRVoZQ)  
+- [Option 3: Dropdown](https://codepen.io/babsdenney/pen/EaaYvQV)  
 
 ### Decision  
 
