@@ -32,14 +32,14 @@ Jump links
 
 ### About the pattern
 
-The VA regularly needs to assess the marital status of benefit applicants in different forms, and the way the information is collected across each form. A consistent pattern asking for this information will lower the cognitive load of users and help them better anticipate how information will be collected across different forms at the VA. 
+The VA regularly needs to assess the marital status of benefit applicants in different forms, and the way the information is collected across each form varies. A consistent pattern asking for this information will lower the cognitive load of users and help them better anticipate how information will be collected across different forms at the VA. 
 
-We kicked off our discovery work by creating a [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1742843561511/4f5e5e77a91df7e061628888f10dfb7b10309183) to help collect information about how the VA currently addresses this issue. This board was built off the work of the VA Facing Forms team (specifically Jeana Clark, Beth Pandone, and Jaci Wilkinson) and the initial audit they started. We have completed this research alongside our process of creating a pattern flexible enough to address most form needs while still providing a consistent experience for users across many forms.
+We first created a [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1742843561511/4f5e5e77a91df7e061628888f10dfb7b10309183) to understand how the VA currently collects marital status. We referenced previous work from the VA Facing Forms team (specifically Jeana Clark, Beth Pandone, and Jaci Wilkinson) and the initial audit. We have completed this research alongside our process of creating a pattern flexible enough to address most form needs while still providing a consistent experience for users across many forms.
 
 
 ### Overview of previous research
 
-The team reviewed the VA research repository in order to pull out any relevant insights from previous studies that looked at marital status. We conducted keyword searches including the following terms:
+The team reviewed the VA research repository to find any relevant insights from previous studies about marital status. We conducted keyword searches including the following terms:
 
 
 
@@ -50,13 +50,13 @@ The team reviewed the VA research repository in order to pull out any relevant i
 * Husband
 * Partner
 
-From these efforts, one study[^1] was located that had results specific to marital status. VA research teams studied form 21-686c which is the application to add or remove dependents from a Veteran’s benefits. Their related finding states that providing information about past marriages is painful for users. 75% of their respondents reported various levels of unease when asked for information about previous spouses and marriages, and they are unclear as to why the VA needs this information. 
+From these efforts, we found one study[^1] with results specific to marital status. VA research teams studied form 21-686c which is the application to add or remove dependents from a Veteran’s benefits. Teams found that providing information about past marriages is painful for users. 75% of their respondents reported various levels of unease when asked about previous spouses and marriages. They don't know why the VA needs this information. 
 
 
 ###### 
     “There are Veterans that would rather shoot their ex than mention their names because it has been a very bitter situation.” - Participant quote
 
-While this finding stood alone among past research, it gave our team important indications from the beginning that we would need to take a trauma-informed approach to creating this pattern and specifically the language we use around why we ask these questions. 
+While this finding stood alone among past research, it indicated that we would need to take a trauma-informed approach to creating this pattern and specifically the language we use around why we ask these questions. 
 
 Outside of our own usage, we also wanted to look at how other design systems handle this question. We looked at guidance from the US Census Bureau[^2] as well as Gov.UK[^3] to ensure that our pattern guidance wasn’t missing anything important that other agencies and governments had already addressed. Aside from some variations in the UK for the response options, our pattern guidance is in alignment with these alternative sources.  
 
@@ -99,17 +99,17 @@ A thorough review was completed across all forms (both digitized and undigitized
 * 5 forms: 
     * *Question:* Are you married?
     * *Response options:* Yes or No
-* Other forms have individually unique questions providing variation across the types of responses, including some that also ask about living arrangements.
+* Other forms have individual variations in the way they ask this question, including some that also ask about living arrangements.
 
 
 #### What are the different ways we ask how they got married? 
 
 
 
-* Form 527EZ 
+* Form 527EZ (Application for Veterans Pension)
     * *Question:* “How did you get married?”
     * *Response options: *In a civil or religious ceremony with an officiant who signed my marriage license, or Some other way (explain)
-* Form 21-686c 
+* Form 21-686c (Application Request to Add and/or Remove Dependents)
     * *Question:* “How did you get married?”
     * *Response options:* In a religious ceremony with a clergyperson who signed my marriage, In a civil ceremony with an officiant who signed my marriage license, By common law, By proxy, In a tribal ceremony, or Some other way (enter other type of marriage)
 
@@ -165,7 +165,7 @@ Forms[ 21-686c](https://www.va.gov/find-forms/about-form-21-686c/) and[ 21p-527E
     * All marital-related questions are in a single chapter called "Information needed to [remove a dependent who has died/add a spouse/etc]."
 * 527EZ 
     * All marital status questions are under a single chapter called "Household information".
-* 10-10EZ 
+* 10-10EZ (Enrollment Application for Health Benefits)
     * All marital status questions are in a single chapter called "Household financial information". 
 
 
@@ -178,28 +178,30 @@ Forms[ 21-686c](https://www.va.gov/find-forms/about-form-21-686c/) and[ 21p-527E
 
 ### Final pattern recommendations
 
-After reviewing the current forms asking for marital status as well as previous research on the topic, our team has come to design the pattern around the following principles:
+After reviewing the current forms asking for marital status and previous research on the topic, our team will develop the marital status pattern with the following principles:
 
 
+#### Principle 1: Don’t ask for more information than needed
+- The pattern requires asking the primary question:
+  - What is your current marital status?
+    - Married
+    - Separated
+    - Divorced or annulled
+    - Widowed
+    - Never married
+  - The page with this question will also include: 
+    - Hint text that helps define how to best answer this question.
+    - Trauma-informed additional info component that will let users know why we ask this information in the first place.
+- All other potential questions fall into a few possible categories listed below. Teams can use them as needed:
+  - (Former) spouse personal and contact information
+  - Living situation
+  - Marriage/Termination details
+  - Document upload
+  - (Former) spouse’s former marriage information
+- Teams should only include questions required by their form. This helps ensure that we reduce the trauma that can come with discussing past marriages and even deceased spouses. We’ll note this in our pattern documentation for teams. 
 
-* The pattern requires asking the primary question:
-    * What is your current marital status?
-        * Married
-        * Separated
-        * Divorced or annulled
-        * Widowed
-        * Never married
-    * The page with this question will also include: 
-        * Hint text that helps define how to best answer this question.
-        * Trauma-informed additional info component that will let users know why we ask this information in the first place.
-* All other potential questions fall into a few possible categories listed below and are optionally available for teams to pick and choose as they need them:
-    * (Former) spouse personal and contact information
-    * Living situation
-    * Marriage/Termination details
-    * Document upload
-    * (Former) spouse’s former marriage information 
-* Some of the above pages display differently depending on a user’s former answers. For example, if the user indicates that their former spouse is deceased, we will use past tense when discussing them on subsequent pages, as well as hide some of the questions such as requests for contact information. 
-* Although product teams can include many pages and fields from this pattern, they should *only* include the questions that are required by their form. This helps ensure that we reduce the trauma that can come with discussing past marriages and even deceased spouses. This fact will be emphasized in our pattern documentation. 
+#### Principle 2: Update content and questions according to the user’s specific situation
+- Some of the above pages display differently depending on a user’s former answers. For example, if the user indicates that their former spouse is deceased, we will use past tense when discussing them on subsequent pages.We will also hide some of the questions such as requests for contact information. 
 
 
 ### Research recommendations
@@ -207,15 +209,17 @@ After reviewing the current forms asking for marital status as well as previous 
 While our team is able to review previous research in order to best inform our patterns as we create them, we are not able to conduct user research sessions ourselves. The following research questions remain from our team that we recommend others ask users as they implement the pattern and test how user friendly it is. 
 
 
+- Do users understand  why VA asks for marital status information after reviewing the additional info component
+- Do users with less common or more complex marital status (e.g. domestic partnerships) understand how to answer the question?
+  - Do they open the Additional info component to find guidance?
+  - Do they understand the content on the page we link to in the guidance?
+- Do users who have experienced relationship trauma understand why we need to ask this question? 
+  - Do they read the text about why we need to ask this question?
+- When asking about a current spouse’s former marriages, is it clear who we are asking about? 
+  - What parts are clear? 
+  - What parts are harder to understand?
 
-* Does the additional info component provide useful information? Is this something users would read through? 
-* Do users with less common or more complex marital status (e.g. domestic partnerships) understand how to answer the question?
-    * Do they open the Additional info component to find guidance?
-    * How do they respond to the page we link to in the guidance?
-* Do users who have experienced relationship trauma understand why we need to ask this question? 
-    * Do they read the text about why we need to ask this question?
-* When asking about a current spouse’s former marriages, is it clear who we are asking about? 
-    * Do they have any feedback on how we phrase that relationship? 
+ 
 
 <!-- Footnotes themselves at the bottom. -->
 ## Notes
@@ -231,4 +235,4 @@ While our team is able to review previous research in order to best inform our p
 
 [^4]:
 
-     See the[ Overview of forms that include questions about marital status](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Engineering/%23333-Marital-status-code-references.md) for a more detailed breakdown from an engineering perspective of the digitized forms.
+     See the[Overview of forms that include questions about marital status](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/authenticated-patterns/Engineering/%23333-Marital-status-code-references.md) for a more detailed breakdown from an engineering perspective of the digitized forms.
