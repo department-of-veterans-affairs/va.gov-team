@@ -12,12 +12,13 @@
   - Includes a "Print your Veteran Status Card (PDF)" link within the third expandable FAQ
 
 ### Test Users & Scenarios
+[Login credentials for test users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
 - LOA3 user that is eligible for the Veteran Status Card \- vets.gov.user+127@gmail.com 
 - LOA3 user that is not eligible for the Veteran Status Card and receives the “You’re not eligible for a Veteran Status Card” error message \- vets.gov.user+32@gmail.com 
 - LOA3 user who we need more information from to see if they are eligible for the Veteran Status Card and receives the error message “There’s a problem with your discharge status records”. \- vets.gov.user+57@gmail.com
 - LOA3 user who is eligible for the Veteran Status Card but has no service history and receives the error message “There’s a problem with your discharge status records”. \- vets.gov.user+90@gmail.com 
 - LOA3 user that receives a system error or error message \- vets.gov.user+41@gmail.com 
-- LOA3 user that is eligible for the Veteran Status Card, but has no disability rating information. When this user views their Veteran Status Card the disability rating will not be displayed on the card. \- Judy.Morrison@id.me 
+- LOA3 user that is eligible for the Veteran Status Card, but has no disability rating information. When this user views their Veteran Status Card the disability rating will not be displayed on the card. \- Judy.Morrison@id.me - [link to login credentials](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/0a32dce79d24712c1da04920177f334712c01b33/Administrative/vagov-users/CommunityCareUSERInfo.MD#staging-user-9997)
 - LOA1 user will receive a message to “Verify your identity” \- Signup and create an account in Staging via idme and it will be LOA1. For example, you could do vagovtest+myloa1@gmail.com (you would need to control vagovtest@gmail.com to retrieve MFA code), but in general it just needs an email so you can go through idme.
 - Test scenarios that were tested locally due to not having a test user or being able to force an error include:
   - A test user who is eligible for the Veteran Status Card and a 0% disability rating. The expected result is that users see a 0% disability rating on their card.
