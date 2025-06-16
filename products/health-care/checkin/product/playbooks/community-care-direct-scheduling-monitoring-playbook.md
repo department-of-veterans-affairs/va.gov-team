@@ -2,7 +2,7 @@
 # Endpoint monitoring
 
 ## Scope 
-This applies to Community Care direct schudling flow within the appointments application, and focuses on the use of Datadog for observability.
+This applies to Community Care direct scheduling flow within the appointments application, and focuses on the use of Datadog for observability.
 
 ## Purpose
 It is critical that we are aware of the performance of va.gov systems, notified when system behavior is impacting veterans, 
