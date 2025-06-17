@@ -195,6 +195,13 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
        > *"I thought I was on the date of birth, and I was still on the last name. So I didn't hear where the insert was when it got down to date of birth...I didn't hear the text field in the date. It had the month, didn't say I was in the text field, then had to swipe, double tap on the month. Caught me off guard" (p4).*
     2. When the participant finally heard the month field announced, she didn't understand when it said, "Double tap to activate the picker". Later she heard the same prompt for the Country and  State fields.  
        > *"How would somebody know what a 'picker' is?" (p4).*
+    
+    3. After the participant selected the month and the "Done" button to close the picker, focus was moved to the top of the page. Is this a known focus issue with VoiceOver?
+       > *"It took me back up to the beginning of the page automatically when I hit Done...I had to swipe right to get down to where I was at" (p4).*
+
+- One screen reader user (JAWS on desktop) reported that the State/Province/Region and Postal code fields said "has pop up", even though they're both text fields. 
+  > *"It is saying 'pop up', which usually means it's gonna be a list. So the first thing I try to do is hit 'M' to get me down to to 'Missouri'. But it's not really a pop up because it actually wants me to type something in there...As soon as I hit the first letter, it typed it in instead of going to the M's." (p1).*
+
 
 - One screen reader user (JAWS on desktop) said he heard the affirmation statements on the Review/Submit page read four times. Here's what he heard:
      1. "Statement of truth. I confirm that the identifying information in this form is accurate and has been represented correctly."
@@ -242,7 +249,10 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
 
 #### Recommendation: Fix accessibility issues with Request personal records form
 1. Change the announcement for dropdown fields from "Double tap to activate the picker" to use plain language: "Double tap to select the month", "Double tap to select the country", and "Double tap to select the state".
-  - _Supporting evidence: p1 didn't know what a "picker" was and got confused.
+    - *Supporting evidence: p1 didn't know what a "picker" was and got confused.*
+2. Research focus issues with VoiceOver while getting into and out of the date of birth Month field. See if the issue can be fixed.
+    - *Supporting evidence: Focus was on the Month field, but what p4 typed ended up in the Last name field. And when p4 was done picking the Month, focus was moved to the very top of the page.*
+3. Research announcing issues with JAWS where it says "has popup" for the State/Province/Region and Postal code text fields. See if the issue can be fixed.
 
 ### Recommendation: Consider design revisions for Request personal records form
 *Summarize actionable recommendations based on findings.*  
