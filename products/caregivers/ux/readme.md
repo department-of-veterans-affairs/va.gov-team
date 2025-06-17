@@ -3,10 +3,12 @@ A background of resources and notes for design.
 
 -- 
 
-### Figma Links
+### Figma Links 
+**UPDATED JUNE 2025**
 
 - [Working Design File](https://www.figma.com/file/TxXD5bGUOhbHHWLb85GPjK/10-10CG?type=design&node-id=0-1&mode=design&t=lktLzYtgxdXayCsO-0)
-- [Production Source of Truth](https://www.figma.com/design/ZLGXh1HFssRudTJeX190Zg/10-10CG---Production-File?node-id=0-1&p=f&t=kYJ2PseRThApGtv3-0)
+- [Production Source of Truth Design File](https://www.figma.com/design/ZLGXh1HFssRudTJeX190Zg/10-10CG---Production-File?node-id=0-1&p=f&t=kYJ2PseRThApGtv3-0)
+- [Archive Design File](https://www.figma.com/design/z4ZzdVvDIEgZxc0D5BOSVs/10-10CG---Archive-File?node-id=0-1&p=f&t=LIV9VBekHBoXXDlu-0)
 
 
 ### How to work 
@@ -32,8 +34,8 @@ A background of resources and notes for design.
 #### Figma naming conventions
 
 **Pages for working on new initiates/ticket work**
-- Create new page and name [Common Name - Epic or Task #xxxxx]
-- Example: Facility selection - EPIC#19433
+- Create new page and name [Common Name - Task #xxxxx]
+- Example: Facility updates - #19433
 - If the design initiative is large enough, a EPIC initiative, create a new Figma file.
 
 
