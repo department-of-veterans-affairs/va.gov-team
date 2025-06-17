@@ -360,7 +360,7 @@ _\[if yes\]_
 - Would you mind sharing a little about how your cognitive disability affects your use of My HealtheVet or other websites?
 - Can you share an example of a time when you struggled with My HealtheVet because of your disability?
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - <1 minute
 
 We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
