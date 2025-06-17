@@ -194,6 +194,22 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
 - Two screen reader users (VoiceOver on iOS with Safari) had **difficulty navigating while using Safari because focus kept jumping** to the top of the page or to the Safari controls below the page. p5 was unable to navigate the form and so switched to Chrome, where navigation worked normally. p4 was able to navigate the form well enough in Safari to fill it out.
   > *"A lot of the government websites are not working that great with Safari anymore, and...you need to use Google Chrome" (p5).*
 
+- Two participants
+
+issue: SM can't see + on Review/Submit pg
+
+SR navigation:
+
+- navigate quickly so might miss "required" b/c stop SR before done
+
+- navigate new forms w/arrows, vs. forms mode
+
+- navigate by searching for name of button
+
+
+
+
+
 
 **Finding X: Accessibility issues were discovered with this form in particular**
 
