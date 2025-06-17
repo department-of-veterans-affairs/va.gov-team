@@ -64,7 +64,7 @@ Today we are trying to learn how a Veteran might use this product if they were o
 
 Part of understanding how well this product works is to know what you, the user, are thinking and feeling while you are using it. As much as possible today, we would like you to say aloud anything you are thinking or feeling no matter how significant or insignificant you may think it is. Imagine that you are doing the tasks today and I am on the phone with you and can’t see your screen. Does that make sense?
 
-## First Task: RECENT CARE TEAMS - X minutes
+## First Task: RECENT CARE TEAMS - 5 minutes
 
 \[INBOX\]
 
@@ -121,7 +121,7 @@ Jamie wants to ask Dr. Owens about a recent lab result. Can you walk me through 
 - Does the participant notice "Other Recipients"?
 - Does the participant struggle to choose a category?
 
-## Second Task: EDIT RECIPIENT + COMBO BOX - X minutes
+## Second Task: EDIT RECIPIENT + COMBO BOX - 5 minutes
 
 \[START MESSAGE\]
 
@@ -153,18 +153,12 @@ Let’s say Jamie remembers it wasn’t Dr. Owens who ordered the tests, it was 
 - Click on Dr. Owens to clear out the box.
 - Go ahead and type w-a-l for me.
 - \[If the participant skips the health care system\] Can you tell me why you chose to go to that selection box, first?
-- What would you do next?
 
-\[START MESSAGE\]
 
 - Let’s pause here again.
 - How would you describe the experience of selecting Dr. Wallace?
   - What confused you, if anything?
   - What did you find helpful, if anything?
-
-Please select “Back” for me.
-
-\[SELECT CARE TEAM\]
 
 Let’s look at the “Select your care team box. I noticed you used \[the dropdown/typed xyz\]
 
@@ -179,7 +173,7 @@ Let’s look at the “Select your care team box. I noticed you used \[the dropd
 - Does participant know to select a health care system first?
 - How does the participant use the combo box?
 
-## Third Task: CONTACT LIST - X minutes
+## Third Task: CONTACT LIST - 5 minutes
 
 \[SELECT CARE TEAM\]
 
@@ -248,7 +242,7 @@ Please select Messages at the top of the screen for me.
 - Does the participant use the “Update your contact list” link?
 - Does the participant understand how to use the Contact List?
 
-## Fourth Task: CAN’T FIND CARE TEAM - X minutes
+## Fourth Task: CAN’T FIND CARE TEAM - 5 minutes
 
 \[INBOX\]
 
@@ -288,7 +282,7 @@ Thank you. We can stop here.
 - Does the participant use the “I can’t find my care team” link?
 - Does the participant understand the content on Can’t find your care team?
   
-## **Fifth Task: ERROR - X minutes**
+## **Fifth Task: ERROR - 2 minutes**
 
 \[CAN’T FIND YOUR CARE TEAM\]
 
@@ -323,7 +317,7 @@ Thank you. We can stop here.
 - Does the participant understand what caused the error?
 - Does the participant understand how to correct the error?
 
-## Post-Task Interview - X minutes
+## Post-Task Interview - 3 minutes
 
 - Today we saw both care teams and care systems. Can you tell me what the difference is between the two?
   
