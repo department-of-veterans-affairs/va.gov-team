@@ -5,7 +5,7 @@ The Iterate, Innovate, and Run (IIR) team is leading an initiative to build out 
 
 ### **Problem Statement(s)**
 - Users aren't taught how to navigate the authenticated experience, they are expected to figure it out on their own.
-- Users don’t know what to do when they get to va.gov and they want to do something valuable.
+- Users don’t know what to do when they login to va.gov and they want to do something valuable.
 - Users may miss out on benefits simply because they don't know how find them.
 - The lack of an onboarding experience does not meet government goals of having digital experiences that are “consistent with [the public’s] favorite consumer websites and mobile apps.”
 
