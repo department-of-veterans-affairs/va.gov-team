@@ -118,7 +118,7 @@ Something went wrong on our end. If you get health care through VA, you can go t
 - **Use case:** If an LOA3 user logs in who has VA health care and there is an error with the appointments API, then we will be able to detect that they have VA health care but we will not be able to show any upcoming appointment information. If this error occurs, we display a warning alert in the Appointments section.
 - **Status code:** TBD
 - **Format:** [Slim warning alert component](https://design.va.gov/components/alert/#web-2)
-- [Link to designs]
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5362-14384&t=hwoiHCaMFjyRAOid-1)
 - [Link to code]
 - **Content:**
 
