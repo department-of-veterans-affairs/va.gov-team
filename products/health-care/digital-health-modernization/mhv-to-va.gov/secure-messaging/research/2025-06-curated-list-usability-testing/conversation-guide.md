@@ -68,7 +68,7 @@ Part of understanding how well this product works is to know what you, the user,
 
 \[INBOX\]
 
-1. Our test user Jamie wants to ask Dr. Owens a question about some recent lab results.
+ Our test user Jamie wants to ask Dr. Owens a question about some recent lab results.
 
 - I’m going to give you instructions for this task and then tell you when to start, okay?
 - I would like you to talk me through how they would do that with this prototype as if we were talking on the phone and I couldn’t see your screen.
@@ -88,14 +88,9 @@ Jamie wants to send a message to Dr. Owens.
 
 \[START MESSAGE\]
 
-1. Let’s pause here.
+Let’s pause here.
 
-\[MHV- SM user\] How would you describe the experience of selecting Dr. Owens for this message compared how you would select a provider on your own account?
-
-- What confused you, if anything?
-- What did you find helpful, if anything?
-
-\[Non-MHV-SM user\] How would you describe the experience of selecting Dr. Owens for this message?
+\How would you describe the experience of selecting Dr. Owens for this message compared how you would select a provider on your own account?
 
 - What confused you, if anything?
 - What did you find helpful, if anything?
@@ -109,12 +104,7 @@ Jamie wants to send a message to Dr. Owens.
 
 Jamie wants to ask Dr. Owens about a recent lab result. Can you walk me through selecting the category you would choose for this message? [Dropdown is static] Because this is a prototype, it's not clickable - so just tell me what you would do next.
 
-\[MHV- SM user\] How would you describe the experience of selecting the category for this message compared how you would select a category on your own account?
-
-- What confused you, if anything?
-- What did you find helpful, if anything?
-
-\[Non-MHV-SM user\] How would you describe the experience of selecting the category for this message?
+\How would you describe the experience of selecting the category for this message compared how you would select a category on your own account?
 
 - What confused you, if anything?
 - What did you find helpful, if anything?
