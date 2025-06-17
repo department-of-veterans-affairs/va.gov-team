@@ -159,8 +159,12 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
 
    > *"Maybe...if the button doesn't say 'Finish later'...something like 'Save and close', because what it's doing is actually closing the form...because it's already being saved as you go along...There's the other threat...does that mean I'm just canceling this form? So having 'save', there is the reassurance that this is gonna save the last thing that I input. And then it's gonna close the form" (p12).*
 
+- 2 screen reader users (1 on desktop, 1 on mobile) never heard the save alert on the first page of the form because it's above the H1, which is where their focus starts when the page is loaded. And participants were focused on completed the form, not on scrolling back up to explore.
 
-- WRITE THIS Issue with screen readers not reading the information alert on the first form page because it's above the H1
+  > *"It took me directly to the question, so I just answered the question" (p5).*  
+  > *[Everything in the header] "is garbage that will be on every page that I am not going to listen to. I will go to the top of the page and hit 'H'. If the page is laid out right, it will have an H1 and tell me where to start" (p1).*
+
+
 - WRITE THIS Issue with screen magnifer: P2 didn't notice alert at top of form b/c focused on fields to fill out and didn't see that part of the screen (b/c magnification)
 
 
@@ -184,18 +188,16 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
 
 **Finding X: Accessibility issues were discovered with My VA**
 - One participant using a screen magnifier (on a Windows computer using the Edge browser and Microsoft Zoom Magnification at least 300%) asked why the **"Continue your application" link in the form request card on My VA was so much smaller than everything else on the card**. The link text doesn't seem to have scaled up like the text above it (see [image below](URL for p13-MyVA-form-card-bottom)).
+- This same screen magnifier user missed that the header "Benefit applications and forms" was relevant because he only saw the words "Benefit applications"--not the word "forms" because it was to the right of the magnified portion of the page that he was looking at. See [image below](URL for p13-MyVA-Benefit-apps-no-forms).
 
 **Finding X: Accessibility issues were discovered with form interactions in general**
 - Two screen reader users (VoiceOver on iOS with Safari) had **difficulty navigating while using Safari because focus kept jumping** to the top of the page or to the Safari controls below the page. p5 was unable to navigate the form and so switched to Chrome, where navigation worked normally. p4 was able to navigate the form well enough in Safari to fill it out.
   > *"A lot of the government websites are not working that great with Safari anymore, and...you need to use Google Chrome" (p5).*
 
 
-
-
-
 **Finding X: Accessibility issues were discovered with this form in particular**
 
-- Two screen reader users (1 using JAWS and desktop, and 1 using VoiceOver on mobile) had difficulty entering their date of birth on the phone
+- Two screen reader users (1 using JAWS and desktop, and 1 using VoiceOver on mobile) had difficulty entering their date of birth on the phone.
   - The desktop screen reader user tried to type date of birth into the date of birth month field because he stopped the screen reader before it announced that the field was a popup.
     > *"If I tab to someplace normally that wants my birth date, I just type in the whole thing. But here it wants to go month, and then it wants to go to the day, and then it wants to go to the year, which is 3 separate fields. I would have known that if I would have just listened...It didn't tell me to put in the whole thing...I listen to this thing [screen reader] so much--I just tend not to listen any more than I have to" (p1).*
   - The mobile screen reader user (using VoiceOver and Safari) had 3 different problems:
@@ -216,6 +218,8 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
 
 - One screen reader user (VoiceOver on iOS) **didn't know that the citizenship question was a radio button** when they tapped on it, but they figured it out. Riley tested and found that it's announced as a checkbox (bug) and radio button on her iPhone, but announced as a radio button on desktop. After she updated her phone, it announced as only a radio button, so it was an iOS issue, not ours. 
   > *"It doesn't let you know that there's a radio button before that, so it's sometimes confusing...In our world of using accessibility, we can only wish for so much...So it works. Would be nice if as soon as I clicked on that, it said 'radio button' and then [when I] swiped right, it would read what that was and then go down" (p5).*
+
+- One participant using a screen magnifier (Microsoft Zoom Magnification at least 300% on a Windows computer with Edge browser) checked "I live on a United States military base outside of the U.S." and then didn't understand why he being asked for APO/FPO/DPO and got stuck. He had seen "I live on a United States" and thought that applied to him. He had no idea that the rest of the statement said "military base" because that was not in his view and he didn't scroll to the right. 
 
 - One screen reader user (JAWS on desktop) reported that the State/Province/Region and Postal code fields said "has pop up", even though they're both text fields. 
   > *"It is saying 'pop up', which usually means it's gonna be a list. So the first thing I try to do is hit 'M' to get me down to to 'Missouri'. But it's not really a pop up because it actually wants me to type something in there...As soon as I hit the first letter, it typed it in instead of going to the M's." (p1).*
@@ -243,9 +247,9 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
 *Include insights that do not represent patterns but are still valuable.*  
 > **TIP:** These could be powerful user comments or unexpected issues worth noting
 
-1. Two screen reader users (both VoiceOver on iOS) were frustrated at not being able to use dictation and had difficulty typing into the text fields. The dictation key on the phone keyboard was grayed out, presumably because Zoom disabled during the meeting. 
+1. Two screen reader users (both VoiceOver on iOS) were frustrated at not being able to use dictation and had difficulty typing into the text fields. The dictation key on the phone keyboard was grayed out, presumably because Zoom disabled it during the meeting. 
    > *"Wish I could talk it, but that's OK" (p4).*
-   
+
    > *"So a lot of times I just dictate everything in, and then I check it to make sure it's right. And if it's not, then I correct it" (p5).*
 
 
