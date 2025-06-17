@@ -120,7 +120,7 @@ There are no flags with this feature.
 - **Use case:** If an LOA3 user logs in and there is an error with the API that displays forms and applications, then we show an alert informing the user the information is currently unavailable. No other information shows in the section.
 - **Status code:** TBD
 - **Format:** [Warning slim alert](https://design.va.gov/components/alert/#warning-alert)
-- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5072-18605&t=Qplg9wUFJEDlP70M-1)
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5350-14507&t=vSC00tzVjcFZ2rHY-1)
 - [Link to code]
 - **Content:**
 
