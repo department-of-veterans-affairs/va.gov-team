@@ -3,7 +3,7 @@
 **Last updated: June 2025**
 
 - User flow
-- Figma files(https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5307-57763&t=KhCgIDPMpZ6FClDG-1)
+- [Figma files](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5307-57763&t=KhCgIDPMpZ6FClDG-1)
 - Test Rail QA
 - Product documentation
    - [How to add a form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/forms-status-on-My-VA/adding-a-form.md)
@@ -19,12 +19,12 @@
 
 ## Phase 1, 3.0 experience
 - LOA1 and LOA3 (identify verified) users can see all use cases.
-- This feature shows a card for any benefit applications or forms that a user has started or completed.
+- This feature shows a card for any applications or forms that a user has started or completed.
    - Conditions in [Platform documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-set-up-save-in-progress-si#VAFormsLibrary-HowtosetupSaveInProgress(SiP)-MyVAPage) for saving forms in progress and changes in User Profile code must be met in order for a form that is saved to show up in this section of My VA.
    - **Forms and applications submitted through the Lighthouse Benefits Intake API (LH BI API)** will have a downloadable PDF on My VA, provided the PDF is available in S3. My VA does not generate PDFs, so if the file isn't stored in S3, it won't be shown.
       - Forms and applications **NOT** submitted through the LH BI API will not have a PDF shown.
    - Completed forms and PDFs only show for 60 days, at which point they disappear from My VA.
-- An accordion component with information pertaining to tracking benefit applications and forms statuses is always visible at the bottom of this section unless an error is preventing the displaying of forms.
+- An additional information component with information pertaining to tracking benefit applications and forms statuses is always visible at the bottom of this section unless an error is preventing the displaying of forms.
 
 
 ## Common use cases
