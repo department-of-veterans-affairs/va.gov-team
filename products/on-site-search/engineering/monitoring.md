@@ -17,22 +17,11 @@ Per Search.gov we have 2 ways to check their status:
 
 ## DataDog Monitoring
 
-### Search.gov is Down
-#### Composite Error: Forward Proxy, vets-api '503', or Search.gov Healthcheck
-- [View Monitor](https://vagov.ddog-gov.com/monitors/214590)
-- Slack Channels: `#public-websites-dd-search`
-
 ##### [Synthetics] Search.gov - Healthcheck
 - Sends a ping to the Search.gov uptime endpoint every minute. A negative response indicates an outage, and a positive response indicates uptime. Latency up to 7 seconds observed but should not error the monitor.
 - [View Monitor](https://vagov.ddog-gov.com/monitors/217076?view=spans)
 - [View Synthetics Details](https://vagov.ddog-gov.com/synthetics/details/zs3-wcj-xqy?from_ts=1713444301151&to_ts=1713447901151&live=true)
 - Timeframe: 5 min
-
-##### Search.gov - VA Forward Proxy Health Check
-- Checks for errors when the VA forward proxy contacts Search.gov.
-- [View Monitor](https://vagov.ddog-gov.com/monitors/210512?view=spans)
-- Query: `sum(last_5m):sum:haproxy.server.check.failures.total{proxy:search-gov_back}.as_count() > 1`
-- Timeframe: 5 mins
 
 ##### Search.gov - vets-api Error due to 503 Code returned from search.gov
 - Monitors error rates for vets-api related to 503 errors from Search.gov.
@@ -60,9 +49,6 @@ curl -G "https://search.usa.gov/api/v2/search/i14y" \
     
 
 ### VA.gov Might Be Experiencing Abnormal Usage Patterns
-#### VA Search Usage - [composite] - Abnormally Low Usage of VA Search
-- [View Monitor](https://vagov.ddog-gov.com/monitors/217086?view=spans)
-- Slack Channels: `#public-websites-dd-search`
 
 ##### Search Rate Anomaly
 - Monitors anomalies in the average search rate success (200 responses) at the `v0/search` API endpoint.
@@ -77,10 +63,9 @@ curl -G "https://search.usa.gov/api/v2/search/i14y" \
 - Timeframe: 5 min
 
 #### Search.gov - vets-api error due to 429 code returned from search.gov (rate limiting)
-https://vagov.ddog-gov.com/monitors/287522
 
 What is:
-* Errors when we receive 1+ rate limit errors (429) from Search.gov
+* Errors when we receive 1+ rate limit errors (429) from Search.gov [View Monitor](https://vagov.ddog-gov.com/monitors/287522)
 
 Mitigation if warn/error: 
 * Enable the Search.gov maintenance Flipper, which will warn Veterans that search may fail: https://api.va.gov/flipper/features/search_gov_maintenance
