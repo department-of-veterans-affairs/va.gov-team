@@ -69,7 +69,6 @@ src/applications/static-pages/cta-widget
 
 `ctaWidgets.js`
 - This file contains various constants used by the `CallToActionWidget`. The data from this file is used to determine how the `CallToActionWidget` gets rendered.
-- 
 - The most notable constant is `ctaWidgetsLookup`, which contains important data about each CTA widget. Each entry corresponds to a `CTA_WIDGET_TYPES` (defined in the same file) and contains data in the following format:
 ```jsx
     {
