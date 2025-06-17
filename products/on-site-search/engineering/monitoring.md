@@ -1,14 +1,6 @@
 # VA.gov Site Search Monitoring
 
-## Table of Contents
-1. [Search.gov health](#searchgov-health)
-2. [DataDog Monitoring](#datadog-monitoring)
-   - [Search.gov is Down](#searchgov-is-down) - Monitors critical errors affecting Search.gov, including forward proxy failures and API issues.
-   - [VA.gov Might Be Experiencing Abnormal Usage Patterns](#vagov-might-be-experiencing-abnormal-usage-patterns) - Tracks unusually low usage patterns that may indicate underlying system problems.
-   - [VA.gov is Experiencing High Error Rates](#vagov-is-experiencing-high-error-rates) - Ensures the operational status of vets-api and the VA.gov user interface, monitoring for high error rates that might indicate outages.
-3. [Adrian's Triage Video](#adrians-triage-video) - Provides a video walkthrough for triage processes related to these monitors.
-
-## Search.gov health
+## How to check Search.gov health
 
 Per Search.gov we have 2 ways to check their status: 
 1. https://search.usa.gov/healthcheck - returns `OK` if the API is up
@@ -17,19 +9,16 @@ Per Search.gov we have 2 ways to check their status:
 
 ## DataDog Monitoring
 
-##### [Synthetics] Search.gov - Healthcheck
+#### [Synthetics] Search.gov - Healthcheck
 - Sends a ping to the Search.gov uptime endpoint every minute. A negative response indicates an outage, and a positive response indicates uptime. Latency up to 7 seconds observed but should not error the monitor.
 - [View Monitor](https://vagov.ddog-gov.com/monitors/217076?view=spans)
 - [View Synthetics Details](https://vagov.ddog-gov.com/synthetics/details/zs3-wcj-xqy?from_ts=1713444301151&to_ts=1713447901151&live=true)
-- Timeframe: 5 min
 
-##### Search.gov - vets-api Error due to 503 Code returned from search.gov
+#### Search.gov - vets-api Error due to 503 Code returned from search.gov
 - Monitors error rates for vets-api related to 503 errors from Search.gov.
 - [View Monitor](https://vagov.ddog-gov.com/monitors/210576?view=spans)
-- Query: ```logs("service:vets-api @message_content:\"BackendServiceException: {:source=>\"Search::Service\", :code=>\"SEARCH_503\"}"").index("*").rollup("count").last("5m") > 1```
-- Timeframe: 5 mins
 
-#### Triage
+##### Triage
 1. Check https://search.gov/status.html for any status updates. (They don't maintain it much, not fully accurate, but good to check just in case)
 2. Check if the Search.gov API endpoint is up / responsive by trying to `curl` the endpoint. Access key will be required to get a successful response, but even a validation error of `{"errors":["access_key is invalid"]}%` indicates the endpoint is alive:
    - Existing endpoint: https://search.usa.gov/api/v2/results/i14y
@@ -50,29 +39,24 @@ curl -G "https://search.usa.gov/api/v2/search/i14y" \
 
 ### VA.gov Might Be Experiencing Abnormal Usage Patterns
 
-##### Search Rate Anomaly
+#### Search Rate Anomaly
 - Monitors anomalies in the average search rate success (200 responses) at the `v0/search` API endpoint.
 - [View Monitor](https://vagov.ddog-gov.com/monitors/186811)
-- Query: ```avg(last_1d):anomalies(avg:vets_api.statsd.api_rack_request{env:eks-prod ,controller:v0/search ,status:200}.as_count().rollup(sum, 300), 'agile', 3, direction='below', interval=300, alert_window='last_1h', seasonality='weekly', timezone='utc', count_default_zero='true') >= 0.51```
-- Timeframe: 1 hour
 
-##### VA Search Usage - No Calls to v0/search vets-api
+#### VA Search Usage - No Calls to v0/search vets-api
 - Alerts if there are no calls to `v0/search` within the last 5 minutes, indicating possible complete downtime of the `vets-api`.
 - [View Monitor](https://vagov.ddog-gov.com/monitors/189936?view=spans)
-- Query: ```sum(last_5m):sum:vets_api.statsd.api_rack_request{env:eks-prod, controller:v0/search}.as_count() <= 0```
-- Timeframe: 5 min
+
 
 #### Search.gov - vets-api error due to 429 code returned from search.gov (rate limiting)
-
-What is:
-* Errors when we receive 1+ rate limit errors (429) from Search.gov [View Monitor](https://vagov.ddog-gov.com/monitors/287522)
+- Errors when we receive 1+ rate limit errors (429) from Search.gov [View Monitor](https://vagov.ddog-gov.com/monitors/287522)
 
 Mitigation if warn/error: 
 * Enable the Search.gov maintenance Flipper, which will warn Veterans that search may fail: https://api.va.gov/flipper/features/search_gov_maintenance
 * Post a note to the #public-websites-dd-search channel so others know you're taking follow up steps
 * Email search@gsa.gov immediately to request API rate limit increase, and cc PO / PM / DM
 
-**Triage:**
+##### Triage
 - Requires investigation.
 
 ### VA.gov is Experiencing High Error Rates
@@ -80,18 +64,12 @@ Mitigation if warn/error:
 - Simulates user interactions with the VA.gov search feature to check operational status.
 - [View Monitor](https://vagov.ddog-gov.com/monitors/88918)
 - [View Synthetics Test](https://vagov.ddog-gov.com/synthetics/details/nb3-hf7-68y?from_ts=1713443896069&to_ts=1713447496069&live=true)
-- Timeframe: 15 mins
-- Slack Channels: `#public-websites-dd-search`
 
 #### VA.gov search - vets-api success rate below threshold
 - Ensures the `v0/search` API endpoint returns success (200) responses at an expected rate of 97% or higher.
 - [View Monitor](https://vagov.ddog-gov.com/monitors/169139)
-- Query: `sum(last_1h):(sum:vets_api.statsd.api_rack_request{env:eks-prod, controller:v0/search, status:200}.as_count().rollup(sum, 3600) / (sum:vets_api.statsd.api_rack_request{env:eks-prod, controller:v0/search, status:200}.as_count().rollup(sum, 3600) + sum:vets_api.statsd.api_rack_request{env:eks-prod, controller:v0/search, !status:200}.as_count().rollup(sum, 3600))) * 100 < 97`
-- Alarms if success rates fall below 97%.
-- Timeframe: 1 hour
-- Slack Channels: `#public-websites-dd-search`
 
-**Triage:**
+#### Triage
 - Investigate by viewing the relevant timeframe and checking `vets-api` for errors or latency issues. Ensure no UI changes have affected components that impact searches.
 
 ## Adrian's Triage Video
