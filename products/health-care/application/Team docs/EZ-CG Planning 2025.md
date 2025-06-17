@@ -13,6 +13,9 @@
 
 #### Obj: EZ [Improvements/BUGS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
 - [#103446](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103446) - [BE] In-progress Notification failures investigation (CARRIED)
+- [#94276](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94276) - [BE] Ceanup of checkbox for minimum essential coverage on Facility screen
+- [#107933](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107933) - [Design] Create separate Figma file for prod screens
+- [#112308](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112308) - [FE] Allow PDF download after PDF download failure
 
 #### Obj: EZ [Form Statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95313)
 - PM working on this - In progress 
@@ -25,6 +28,8 @@
 - [#102073](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102073) - [FE] Update signature page
 - [#99952](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99952) - [Design] Update content on Caregivers' contact info pages
 - [#111870](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111870) - [FE] Update content on Caregivers' contact info pages
+- [#107943](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107943) - [Design] Cleanup Figma working file
+- [#94916](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94916) - [FE] Allow PDF download after PDF download failure
 
 ##
 ### Team PTO
