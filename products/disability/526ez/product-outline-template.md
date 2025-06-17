@@ -14,7 +14,7 @@ Add ML model to handle cases not explicitly handled in the CC Taxonomy data.
 
 *Follow your problem description up with a "How might we... _______" statement re-framing that challenge as an opportunity. Don't hint too much at what the solution might be, you should have enough of a focal point here to guide your ideas, but plenty of freedom to think laterally and innovatively as you experiment and prototype later.*
  
-We are helping veterans fill out their forms with ML modeling to find clinical name matches for their conditions. This will reduce the time and effort of staff and end users to redo forms and proceed to their next steps with 536EZ forms: disability eligibility forms. 
+We are helping veterans fill out their forms with ML modeling to find clinical classifications for their conditions. This will reduce the time and effort of staff and end users to redo forms and proceed to their next steps with 536EZ forms: disability eligibility forms. 
 
 ## Desired User Outcomes
 
