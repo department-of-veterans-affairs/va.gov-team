@@ -183,8 +183,16 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
 **Finding X: Accessibility issues were discovered with My VA**
 - One participant using a screen magnifier (on a Windows computer using the Edge browser and Microsoft Zoom Magnification at least 300%) asked why the **"Continue your application" link in the form request card on My VA was so much smaller than everything else on the card**. The link text doesn't seem to have scaled up like the text above it (see [image below](URL for p13-MyVA-form-card-bottom)).
 
-**Finding X: Accessibility issues were discovered with the form**
-- One screen reader user user (VoiceOver on iOS) **didn't know that the citizenship question was a radio button** when they tapped on it, but they figured it out. Riley tested and found that it's announced as a checkbox (bug) and radio button on her iPhone, but announced as a radio button on desktop. After she updated her phone, it announced as only a radio button, so it was an iOS issue, not ours. 
+**Finding X: Accessibility issues were discovered with form interactions in general**
+- Two screen reader users (VoiceOver on iOS with Safari) had **difficulty navigating while using Safari because focus kept jumping** to the top of the page or to the Safari controls below the page. p5 was unable to navigate the form and so switched to Chrome, where navigation worked normally. p4 was able to navigate the form well enough in Safari to fill it out.
+  > *"A lot of the government websites are not working that great with Safari anymore, and...you need to use Google Chrome" (p5).*
+
+
+
+
+
+**Finding X: Accessibility issues were discovered with this form in particular**
+- One screen reader user (VoiceOver on iOS) **didn't know that the citizenship question was a radio button** when they tapped on it, but they figured it out. Riley tested and found that it's announced as a checkbox (bug) and radio button on her iPhone, but announced as a radio button on desktop. After she updated her phone, it announced as only a radio button, so it was an iOS issue, not ours. 
   > *"It doesn't let you know that there's a radio button before that, so it's sometimes confusing...In our world of using accessibility, we can only wish for so much...So it works. Would be nice if as soon as I clicked on that, it said 'radio button' and then [when I] swiped right, it would read what that was and then go down" (p5).*
 - Two screen reader users (1 using JAWS and desktop, and 1 using VoiceOver on mobile) had difficulty entering their date of birth on the phone
   - The desktop screen reader user tried to type date of birth into the date of birth month field because he stopped the screen reader before it announced that the field was a popup.
@@ -202,7 +210,6 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
 - One screen reader user (JAWS on desktop) reported that the State/Province/Region and Postal code fields said "has pop up", even though they're both text fields. 
   > *"It is saying 'pop up', which usually means it's gonna be a list. So the first thing I try to do is hit 'M' to get me down to to 'Missouri'. But it's not really a pop up because it actually wants me to type something in there...As soon as I hit the first letter, it typed it in instead of going to the M's." (p1).*
 
-
 - One screen reader user (JAWS on desktop) said he heard the affirmation statements on the Review/Submit page read four times. Here's what he heard:
      1. "Statement of truth. I confirm that the identifying information in this form is accurate and has been represented correctly."
      1. "I have read and accept the link privacy policy opens in a new tab"
@@ -214,14 +221,11 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
      
      
      See [screenshot of the bottom of the Review/Submit page](URL).
-  > *"I heard it about 4 times there...I'm not sure why they put it both before and after my name...That's the kind of thing that causes me to rush through the repeats and maybe miss something. If something is only present once, then I have a much better chance of paying attention to it" (p3).*
-
-
+    > *"I heard it about 4 times there...I'm not sure why they put it both before and after my name...That's the kind of thing that causes me to rush through the repeats and maybe miss something. If something is only present once, then I have a much better chance of paying attention to it" (p3).*
 
 
 
 - _Supporting data: ![text](link - add image to github folder and link here with .png)_  
-
 
 ---
 
