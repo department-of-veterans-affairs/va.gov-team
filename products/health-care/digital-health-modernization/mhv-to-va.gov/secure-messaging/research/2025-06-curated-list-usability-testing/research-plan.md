@@ -217,7 +217,7 @@ Please make sure that ALL participants are willing to complete the session on th
 - `Date and time of pilot session:` **We will handle this internally** 
 
 ### Research sessions
-- `Planned dates of research:` **06/25-06/30**
+- `Planned dates of research:` **06/26-07/01**
 
 ### Length of sessions
 - `Session length:` **60 minutes**
@@ -228,14 +228,13 @@ Please make sure that ALL participants are willing to complete the session on th
 
 ### Availability
 
-
-- `06/25, Wednesday, 08:30 AM - 07:00 PM EST`
 - `06/26, Thursday, 08:30 AM - 07:00 PM EST`
 - `06/27, Friday, 08:30 AM - 04:00 PM EST`
 - `06/30, Monday, 08:30 AM - 07:00 PM EST`
+- `07/01, Tuesdaay, 8:30 AM - 07:00 PM EST`
 
 Additional day if needed
-- `07/01, Tuesday, 8:30 AM - 07:00 PM EST`
+- `07/02, Wednesday, 8:30 AM - 07:00 PM EST`
 
   
 ## Team Roles  🕵️👩‍💻👩‍🔬
