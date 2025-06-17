@@ -19,7 +19,7 @@ We are helping veterans fill out their forms with ML modeling to find clinical c
 ## Desired User Outcomes
 
 - *Why would a user want to use this?*
-  - So the user does not need to redo their form to sift through matching 
+  - So the VSR/RVSR processing the claim does not need to manually determine and assign classifications for each condition, and the risk for inaccurate classifications is decreased. These lead to reduced processing time.
 - *With this problem solved, what should users be able to do/achieve that they couldn't before?*
   - The users can more easily have their forms accepted and moved to the next steps of disability eligibility. 
 
