@@ -1,4 +1,4 @@
-# **VA.gov Onboarding MVP**
+# **VA.gov Onboarding Flow - MVP**
 
 ### **Overview** 
 The Iterate, Innovate, and Run (IIR) team is leading an initiative to build out a net new onboarding experience for va.gov users. The IIR teams plans to create a flow that is shown to LOA 3 users to help them more confidently navigate the authenticated experience so they can apply for manage the benefits they care about.
