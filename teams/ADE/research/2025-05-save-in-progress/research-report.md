@@ -212,6 +212,7 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
        > *"Now I know that those buttons are down there, it just got me there a lot faster" (p1).*
   
   - Screen magnifier users
+    - May see very little of the page at once
 
 **WRITE ABOUT:**
 
