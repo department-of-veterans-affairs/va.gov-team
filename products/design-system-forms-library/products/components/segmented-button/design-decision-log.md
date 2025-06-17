@@ -70,18 +70,15 @@ Each `button` element is within the `LI` element
 </ul>
 ```
 
-#### ARIA references
+#### UL grouping
 
-##### Roles and labels
+The `UL` element groups the buttons and acts similarly if the buttons were contained in a DIV that had the role="group" attribute.
 
-The `UL` element will contain the `role="group"` and `aria-label=" "` attributes.
+##### Semantic Purpose
 
-###### Semantic Purpose
-
-- While `role="group"` reads like a "toggle button" segmented buttons behave like mutually exclusive choices—only one can be selected at a time (e.g., Upcoming, Past, All). This behavior is similar to radio buttons (using the `label` and `input` elements) within a form.
-- The `group` role acts like a fieldset holding radio buttons.
-- The `group` role tells assistive tech: “This is a group of related options.”
-- Since there is no visible heading or label that explains what the group of buttons does, the `aria-label` provides meaningful context for the group as a whole.
+- The `UL` element acts like a fieldset holding radio buttons.
+- The `UL` element tells assistive tech: “This is a group of related options.”
+- Since there is no visible heading or label that explains what the group of buttons does, the `UL` element provides meaningful context for the group as a whole.
 
 
 The `button` will contain the `type="button"` attribute and serves several important purposes:
@@ -91,7 +88,7 @@ The `button` will contain the `type="button"` attribute and serves several impor
 - Accessibility compliance: Screen readers and assistive technologies rely on this to understand the element's purpose and behavior.
 
 ```
-<ul role="group" aria-label="View selection">
+<ul aria-label="View selection">
     <li><button type="button">Label</button></li>
     <li><button type="button">Label</button></li>
     <li><button type="button">Label</button></li>
