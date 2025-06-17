@@ -33,10 +33,10 @@
 
 - **Use case:** If a logged in LOA3 user does not have an open claim or appeal or one that has been closed in the last 60 days, they will see informational text and be provided a link to manage all claims and appeals.
 - **Status code:** TBD
-- **Content:** TBD
-- **Format:** [Card component](https://design.va.gov/components/card)
+- **Format:** Paragraph copy. See designs
 - [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5165-13907&t=Qplg9wUFJEDlP70M-1)
 - [Link to code]
+- **Content:** See designs
 
 </details>
 
