@@ -3,7 +3,7 @@
 **Last updated: May 2025**
 
 - User flow
-- [Figma files](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5261-50980&t=Qplg9wUFJEDlP70M-1)
+- [Figma files](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5294-36867&t=KhCgIDPMpZ6FClDG-1)
 - Test Rail QA
 
 <details><summary>Archive | How to reproduce in staging</summary>
