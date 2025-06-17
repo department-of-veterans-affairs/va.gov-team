@@ -12,8 +12,7 @@
 - 
 
 #### Obj: EZ [Improvements/BUGS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
-- [#111096](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111096) - [FE] Investigate Future Discharge Date event spike
-- [#103446](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103446) - [BE] In-progress Notification failures investigation
+- [#103446](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103446) - [BE] In-progress Notification failures investigation (CARRIED)
 
 #### Obj: EZ [Form Statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95313)
 - PM working on this - In progress 
@@ -28,12 +27,14 @@
 
 ##
 ### Team PTO
-- Holiday: Juneteenth 6/19
+- Holiday: Juneteenth, Thursday 6/19
 - Brandon: 6/20
+- Liza: 6/20
 - Luis: 6/20
 - Renata: 6/20
 - Heather: 6/20-23
 - Jessica: 6/20-24
+- Matt: 6/24-25
 ---
 
 ## 📆 Sprint 22 (June 4 - June 17)
