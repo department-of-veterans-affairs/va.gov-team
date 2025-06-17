@@ -180,6 +180,8 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
   - One of these participants noticed that the "Continue your application 
 - 3 participants noticed that they were returned to the *page before* the one that they were on. This is because no information had been entered on the page they were on [a known issue], but they said that they would have preferred to come back to the actual (blank) page that they had been on.
 
+***ORGANIZE BY GROUPING TOGETHER types of a11y issues: incorrect announcing, redundant announcing, misinterpretation, focus issues. Do this for findings and also for recommendations--fix these--incorrect announcing and focus issues are more important than redundant announcing***
+
 **Finding X: Accessibility issues were discovered with My VA**
 - One participant using a screen magnifier (on a Windows computer using the Edge browser and Microsoft Zoom Magnification at least 300%) asked why the **"Continue your application" link in the form request card on My VA was so much smaller than everything else on the card**. The link text doesn't seem to have scaled up like the text above it (see [image below](URL for p13-MyVA-form-card-bottom)).
 
@@ -192,8 +194,7 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
 
 
 **Finding X: Accessibility issues were discovered with this form in particular**
-- One screen reader user (VoiceOver on iOS) **didn't know that the citizenship question was a radio button** when they tapped on it, but they figured it out. Riley tested and found that it's announced as a checkbox (bug) and radio button on her iPhone, but announced as a radio button on desktop. After she updated her phone, it announced as only a radio button, so it was an iOS issue, not ours. 
-  > *"It doesn't let you know that there's a radio button before that, so it's sometimes confusing...In our world of using accessibility, we can only wish for so much...So it works. Would be nice if as soon as I clicked on that, it said 'radio button' and then [when I] swiped right, it would read what that was and then go down" (p5).*
+
 - Two screen reader users (1 using JAWS and desktop, and 1 using VoiceOver on mobile) had difficulty entering their date of birth on the phone
   - The desktop screen reader user tried to type date of birth into the date of birth month field because he stopped the screen reader before it announced that the field was a popup.
     > *"If I tab to someplace normally that wants my birth date, I just type in the whole thing. But here it wants to go month, and then it wants to go to the day, and then it wants to go to the year, which is 3 separate fields. I would have known that if I would have just listened...It didn't tell me to put in the whole thing...I listen to this thing [screen reader] so much--I just tend not to listen any more than I have to" (p1).*
@@ -206,6 +207,15 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
     
     3. After the participant selected the month and the "Done" button to close the picker, focus was moved to the top of the page. Is this a known focus issue with VoiceOver?
        > *"It took me back up to the beginning of the page automatically when I hit Done...I had to swipe right to get down to where I was at" (p4).*
+
+- Two screen reader users (both JAWS on desktop) said that they were **hearing every records checkbox option twice while using the arrow keys** to navigate. One of these users also said that the names of the mailing address fields were announced twice. It appears that the fields announce the label, and then the label and field are announced again with "edit". 
+  > *"It's reading everything twice...I just went to the radio button that little check box there. It tells me what it is, and then if I arrow down again, see it, then it tells us. Tt's almost like it's got 2 labels there (p1)".*
+
+  > *"There's a lot of information duplicated everywhere...Everywhere there's an entry, there's two. The commands are spoken twice. That's a programming bug...There's a lot of redundancy in the talking...I don't see this on all the VA websites" (p3).*
+
+
+- One screen reader user (VoiceOver on iOS) **didn't know that the citizenship question was a radio button** when they tapped on it, but they figured it out. Riley tested and found that it's announced as a checkbox (bug) and radio button on her iPhone, but announced as a radio button on desktop. After she updated her phone, it announced as only a radio button, so it was an iOS issue, not ours. 
+  > *"It doesn't let you know that there's a radio button before that, so it's sometimes confusing...In our world of using accessibility, we can only wish for so much...So it works. Would be nice if as soon as I clicked on that, it said 'radio button' and then [when I] swiped right, it would read what that was and then go down" (p5).*
 
 - One screen reader user (JAWS on desktop) reported that the State/Province/Region and Postal code fields said "has pop up", even though they're both text fields. 
   > *"It is saying 'pop up', which usually means it's gonna be a list. So the first thing I try to do is hit 'M' to get me down to to 'Missouri'. But it's not really a pop up because it actually wants me to type something in there...As soon as I hit the first letter, it typed it in instead of going to the M's." (p1).*
