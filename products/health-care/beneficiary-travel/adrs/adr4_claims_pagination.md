@@ -14,6 +14,7 @@ Therefore, the Travel Pay application needs to implement functionality to pagina
 
 ### Claim > Appt Association Service
 
+* More of an impact on Mobile since there's no other way to view past claims (aside from Past Appt Details)
 * BE only implementation
 * Pagination of both appts + claims leads to further complexity
 * Error handling
