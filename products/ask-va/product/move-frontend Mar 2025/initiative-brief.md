@@ -2,7 +2,8 @@
 This doc gives an overview of the **Move frontend to VA.gov (Phase 1)** Ask VA initiative. View Ask VA's product outline [in this GitHub doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/Product%20outline.md).
 
 - Start date: June 2023
-- Launch date: April 9, 2025
+- Launch date: ~~April 9, 2025~~ May 21, 2025
+   - **Note**: We initially launched on April 9, then we rolled back due to a security PII issue. [Read our postmortem here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Postmortems/2025/2025-04-11%20-%20AskVA%20OOB%20vulnerability%20patch.md). We relaunched fulled on May 21, 2025. 
 
 **Jump to:**
 - [Overview](#overview)
@@ -71,13 +72,11 @@ It also includes these OKRs:
    - Key result: Develop and deploy API endpoints to send and receive data from AVA Dynamics CRM
    - Key result: There are 0 fatal errors in sending or receiving data needed for VA agents to answer submitter questions
 	
-|Key result|Baseline (ask.va.gov)|Canary release (3/27/25 to 4/9/2025)|After X months (4/10/2025 to ...)|
+|Key result|Baseline (ask.va.gov)|Initial canary release (3/27/25 to 4/9/2025)|Second release (5/21/2025 to 6/17/2025)|
 |:---|:---|:---|:---|
-|Satisfaction|12/16/25 to 4/9/25: 23%, 3150 responses|3/27/25 to 4/9/25: 25%, 16 responses|x|
+|Satisfaction|12/16/25 to 4/9/25: 23%, 3150 responses|3/27/25 to 4/9/25: 25%, 16 responses|5/21/25 to 6/17/25: 11%, 201 responses|
 |Form completion rate|[May to October (6 months)](https://dvagov.sharepoint.com/:x:/s/AskVA/EZEzfaI8u3lJvPx3il1VOFIBEHvGZXQmDr7aZrCwQMeZyg?e=absywx): 35%|3/27/25 to 4/9/25: 25%|x|
 |Accurate routing|2024: 93%|x|x|
-
-
 
 ## Release plan
 Review our release plan [in this GitHub doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/engineering/release-plan.md).
