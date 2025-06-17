@@ -1,15 +1,14 @@
 # **VA.gov Onboarding Flow - MVP**
 
 ### **Overview** 
-The Iterate, Innovate, and Run (IIR) team is leading an initiative to build out a net new onboarding experience for va.gov users. The IIR teams plans to create a flow that is shown to LOA 3 users to help them more confidently navigate the authenticated experience so they can apply for manage the benefits they care about.
+The Iterate, Innovate, and Run (IIR) team is leading an initiative to build out a net new onboarding experience for va.gov users. The IIR teams plans to create a flow that is shown to LOA 3 users to help them more confidently navigate the authenticated experience so they can find, access, and manage the benefits they care about.
 
 ### **Problem Statement(s)**
+- When Veterans sign up for VA.gov, they aren't told what to do next making it complicated to access the benefits they earned.
 - Users aren't taught how to navigate the authenticated experience, they are expected to figure it out on their own.
-- Users don’t know what to do when they login to va.gov and they want to do something valuable.
-- Users may miss out on benefits simply because they don't know how find them.
 - The lack of an onboarding experience does not meet government goals of having digital experiences that are “consistent with [the public’s] favorite consumer websites and mobile apps.”
 
-How might we statement: How might we help va.gov users confidently navigate the authenticated experience so that they can apply for and manage the benefits they care about.
+How might we statement: How might we teach Veterans to use VA.gov to find, access, and manage the benefits they earned.
 
 ### **Desired User Outcomes**
 - Users are educated on where they can find and manage their benefits. 
@@ -17,7 +16,7 @@ How might we statement: How might we help va.gov users confidently navigate the 
 - Users are trying to see what beneifts they can get.
 
 ### **Undesired User Outcomes**
-- Users don't want to learn where they can find and manage their benefits.
+- Users get frustrated and don't finish the onboarding flow.
 - Users don't feel comfortable navigating to My VA, Profile hub, or My Healthevet.
 - Users are still unsure and confused on how to navigate the authenticated experience.
 
@@ -42,7 +41,7 @@ How might we statement: How might we help va.gov users confidently navigate the 
 
 ### **Launch Strategy**
 
-We plan for every user to see this flow - whether they are brand new to VA.gov or not. We will do a slow rollout behind a feature flag so we can closely monitor traffic, usage, and potential bugs. No notifications or comms are needed.
+We plan for every user to see this flow - whether they are brand new to VA.gov or not. We will do a slow rollout behind a feature flag so we can closely monitor traffic, usage, and potential bugs. No notifications or comms at this time.
 
 ### **Launch Dates**
 
