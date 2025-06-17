@@ -90,7 +90,7 @@ Jamie wants to send a message to Dr. Owens.
 
 Let’s pause here.
 
-\How would you describe the experience of selecting Dr. Owens for this message compared how you would select a provider on your own account?
+How would you describe the experience of selecting Dr. Owens for this message compared how you would select a provider on your own account?
 
 - What confused you, if anything?
 - What did you find helpful, if anything?
@@ -286,6 +286,10 @@ Thank you. We can stop here.
 
 \[CAN’T FIND YOUR CARE TEAM\]
 
+- Please select Back for me.
+
+\[SELECT YOUR CARE TEAM\]
+
 - Please select Messages at the top of the screen for me.
 
 \[INBOX\]
@@ -299,7 +303,7 @@ Thank you. We can stop here.
 
 \[RECENT CARE TEAMS\]
 
-- Click on “Select a different care team” on the bottom
+- Select A different care team on the bottom
 
 \[SELECT CARE TEAM\]
 
