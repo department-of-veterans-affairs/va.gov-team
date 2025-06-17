@@ -128,7 +128,7 @@ src/applications/static-pages/cta-widget
 - `SignIn.jsx`
   - Alert to show a user trying to sign in.
 - `SignInOtherAccount.jsx`
-  - Alert to show a user that has a MHV basic account and is not verified.
+  - Alert to show a user that has an MHV basic account and is not verified.
 - `UpgradeAccount.jsx`
   - Alert to show a user trying to upgrade their My HealtheVet account.
 - `UpgradeFailed.jsx`
