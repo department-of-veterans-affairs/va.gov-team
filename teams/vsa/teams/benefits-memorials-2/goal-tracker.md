@@ -10,10 +10,9 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 *Quarter Sprints include 12, 13, 14, 15, 16, 17, 18*
 <details>
     
-</br> **Primary Goals (May shift based on stretch goal dependencies)**
-    
+**Primary Goals (May shift based on stretch goal dependencies)**
 | Priority ID | Description | S.Epic | Relevant Dates |  Notes | Dependency |  End of Quarter Status |
-|-------------|---------------|-----------------|---------------|---------------|---------------|---------------|
+|---------------|---------------|---------------|---------------|---------------|---------------|---------------|
 | QP1 | **Digital Debt Dispute (VBA):** Launch in Production |[#82003](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82003)  | Launch in Production June/July | UX-BE | **DMC** | |
 | QP2 | **One Thing Per Page:** Launch in Production |[#106610](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106610)  |  | FE |  |  |
 | QP3 | **Payment History (VHA):** Progress development efforts and continue align with Lighthouse |  |  | FE-BE | **Lighthouse** |  |
@@ -22,6 +21,21 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 | QP6 | **Pay.gov Hosted Collection Page (HCP) for Overpayments:** Discovery & Design Prototyping |[#105733](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105733)  |  | FE | **Pay.gov + DMC for <Receivable ID>** |  |
 | QP7 | **Veteran Request for Hardship Suspension (VBA):** Discovery & Initiate Design Prototyping |[#106207](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106207)  |  | FE | **VBA** |  |
 | QP8 | **Indirect Initiative Priority Work:** Complete all work in the Epic |  |  | UX-FE-BE |  |  |
+
+**Priorities by Discipline (LOE)**
+| UX - Design Priorities | UX - Research Priorities | FE Priorities | BE Priorities |
+|---------------|---------------|---------------|---------------|
+|Zero silent failure launch alignment (Xsmall)|Digital dispute CANARY testing (small)|Digital dispute (small)|Digital dispute (small)|
+|1TTP launch alignment (Xsmall)|Payment History Research PRELAUNCH USABILITY  (medium)|1TTP (medium)|Zero Silent Failure (?)|
+|Payment history launch alignment/review implementation (Xsmall)|Pay.gov (small)|Payment History (Large)|Payment History (Large)|
+|Pay.gov COPAY - finalize designs , eng handover, launch alignment (medium+)|One VA debt letter research (small)|Pay.gov COPAY (medium)|Pay.gov COPAY (medium+)|
+|pay.govOVERPAYMENTS - finalize designs , eng handover, launch alignment (small+)| | |Reinstate emails (xsmall)|
+|Hardship Suspension (medium)| | | |
+|**UX - Design Dependencies**|**UX - Research Dependencies**|**FE Dependencies**|**BE Dependencies**|
+|:white_large_square: Lighthouse|:white_large_square: Lighthouse|&#x2611; Lighthouse|&#x2611; Lighthouse|
+|&#x2611; DMC/IDT|&#x2611; DMC/IDT|&#x2611; DMC/IDT|&#x2611; DMC/IDT|
+|:white_large_square: VBS/Huron|:white_large_square: VBS/Huron|:white_large_square: VBS/Huron|:white_large_square: VBS/Huron|
+|&#x2611; Pay.gov|&#x2611; Pay.gov|&#x2611; Pay.gov|&#x2611; Pay.gov|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [ ] VA PO approved end of quarter status of Quarterly Goals (0x/xx/25)
