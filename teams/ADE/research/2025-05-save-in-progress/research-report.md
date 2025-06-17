@@ -196,7 +196,10 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
 
 - Two participants
 
+**WRITE ABOUT:**
+
 issue: SM can't see + on Review/Submit pg
+issue: SR navigated by E for editable field, then missed dropdowns and checkboxes
 
 SR navigation:
 
@@ -205,8 +208,14 @@ SR navigation:
 - navigate new forms w/arrows, vs. forms mode
 
 - navigate by searching for name of button
+- navigate by swipes
+- navigate w/B for button
 
 
+SM navigation
+- sees very little of screen
+- 2 buttons stacked like on mobile even tho on desktop
+- navigate quickly w/o seeing whole line
 
 
 
