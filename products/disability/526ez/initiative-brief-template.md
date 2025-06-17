@@ -90,7 +90,7 @@
 ### What're you building
 > *What's in scope for you to build with this initiative? Describe key features/flows. 
 
-Contention Classification ML Model will be appended to the Expanded Contention Classification. The ML Model will run if the CC Taxonomy does not find a match. This will have a feature flipper following deployment process. 
+Contention Classification ML Model will supplement the current non-ML classification logic. The ML Model will run if the CC Taxonomy does not find a match. This will have a feature flipper following deployment process. 
 
 > *What have you explicitly decided to **not** include and why?*
 
