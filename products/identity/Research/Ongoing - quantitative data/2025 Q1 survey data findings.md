@@ -105,7 +105,7 @@ There were 24,823 calls related to authentication from the call center. This inc
 | Negative | 171 | 170 | 970 | 470.6% | 467.3% |
 | Neutral | 47 | 16 | 130 | 712.5% | 176.6% |
 | Positive | 231 | 6 | 228 | 3700.0% | \-1.3% |
-| Total | 449 | 192 | 1328 | 591.7% | 195.8% |
+| **Total** | **449** | **192** | **1328** | **591.7%** | **195.8%**|
 | % neg | 46.4% | 88.5% | 73.0% | \-15.5% | 26.6% |
 | % neu | 10.3% | 8.3% | 9.8% | 1.5% | \-0.5% |
 | % pos | 43.4% | 3.1% | 17.2% | 14.0% | \-26.2% |
@@ -123,7 +123,7 @@ VAgov's Medallia Intercept Data for February and March 2025 shows a significant 
 | No | 911 | 716 | 3517 | 391.2% | 286.1% |
 |  |  |  |  |  |  |
 | Yes | 157 | 73 | 416 | 469.9% | 165.0% |
-| Total | 1068 | 789 | 3933 | 398.5% | 268.3% |
+| **Total** | **1068** | **789** | **3933** | **398.5%** | **268.3%** |
 | % no | 85.3% | 90.7% | 89.4% | \-1.3% | 4.1% |
 | % yes | 14.7% | 9.3% | 10.6% | 1.3% | \-4.1% |
 
@@ -301,7 +301,6 @@ VAgov's Medallia Feedback Data for February and March 2025 shows a significant i
   * "I identified myself and was told it was done and then they asked me to do it again."  
   * " I have done the required steps, downloaded my drivers license, and then logged in to the medical.  But every time I log in again, I have to do the same thing.  I don't want to be making multiple id lists."  
 * At least one complaint of repeating verify process is “after having already done this for myhealthevet"  
-* 
 
 ### Digital access \+ a11y \+ caregiver
 
