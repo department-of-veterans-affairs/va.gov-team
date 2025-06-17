@@ -52,7 +52,7 @@ Goals:
 | Create centralized date utility (phase 2)                                                      |  [110062](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110062) |         3         |                            |                 |                          |
 | Fix circular dependencies                                                                      |  [110538](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110538) |                   |                            |                 |                          |
 | Develop alert display for empty contentions (STRETCH)                                          |  [112015](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112015) |                   |                            |                 |                          |
-
+|Discuss MVP limitations and experience gaps with Authenticated Experience team                                          |  [112238](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112238) |       2        |                            |                 |                          |
 
 ### Product Analytics Dashboards for 526
 
