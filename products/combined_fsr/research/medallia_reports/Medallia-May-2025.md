@@ -198,6 +198,7 @@ N = 1
 
 **94 responses**
 
+Mode: 5, Strongly Agree
 
 |Score|Response|# of Responses|
 |--|--|--|
@@ -208,3 +209,38 @@ N = 1
 | 5 | Strongly Agree | 57 |
 
 
+## Debt Portal Specific Feedback
+
+## VA.gov VFS Questionnaire
+
+## What task were you trying to do today?
+
+### Negative feedback about changes
+
+> Review past bills, duplicate the bill and make a payment and not have to fill out the entire form again including payment info that was previously stored. This new web site portal is terrible.
+
+> You're doing all this work and making all these supposed changes, however, all you have done is make things more difficult to get to where I want.  You haven't changed anything.  Everything that was accessible before is still accessible.  So what's the point?
+
+### Ideas for improvement
+
+#### Wantng to see all past debts
+
+> I would like to be able to see all past debts and payments I made. In 2025, it shouldn't take 4+ months to receive a printout of that. I should be able to log in and see it. It would most definitely reduce cost for the VA. Instead of paying people to send us the info, we could just log in and see our relevant account info. Why is that not an option? I feel like I'm back in the 1980s...
+
+> I WAS TRYING TO VIEW THE STATUS  OF MY OVERPAYMENT / REPAYMENT PROGRAM. I GUESS I WAS ABLE TO SEE THAT I AM FINISHED PAYING THIS HOWEVER, I WOULD LOVE TO BE ABLE TO SEE MY PAST PAYMENTS AND TOTAL AMOUNT. I WOULD ALSO LOVE TO SEE A CONFIRMATION THAT I FULLY PAID THIS AMOUNT. YOU ALL TOOK A PORTION OUT OF MY COMPENSATION IN ORDER TO PAY THIS AMOUNT BUT LIKE I SAID I CANT FIND HISTORY OF MY DEBT AT ALL. I LOVE ON THE MOBILE APP YOU ALL HID THE PERCENTAGE AND AMOUNT :)
+
+### Payment issues
+
+Double charged
+
+> Double charged $87 on my co-pay for prescriptions
+
+### Feedback specific to: <va.gov/manage-va-debt/summary/combined-statements>
+
+> Cannot see details or payment history of debt. Combined statement does not download either.
+
+> Where in the [expletive] is the list of ALL ACCOUNT STATEMENTS?
+
+> The online portal is not very simple to use or navigate. I was trying to find out if I had a copayment due, and I am still trying to figure it out. I have a Bachelor degree in computer science and a masterâ€™s of science but I feel real dumb when I cannot figure out something that is so simple
+
+> Pay co-pay balance Hasn't been updated
