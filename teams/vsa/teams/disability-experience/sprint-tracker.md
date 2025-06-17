@@ -50,11 +50,14 @@ Goals:
 - Continue driving date validation work into phase 2
 
 - Begin implementation of 4142 Update
+- Start to programatically close the gap that can cause 526 PDF to fail silently 
 
 |                                                                                                |                                                                                        |                   |                            |                 |                          |
 | ---------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------: | :---------------: | :------------------------: | :-------------: | :----------------------: |
 | **Sprint Tickets**                                                                             |                                **GitHub Ticket Number**                                | **Ticket Points** | **Reason if Not Complete** | **Update Date** | **End of Sprint Status** |
 | Timing out to lighthouse wrongfully causes non\_retryable\_error                               |  [109724](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109724) |         5         |                            |                 |                          |
+|Determine cause of Form526 PDF failure + recommend/ticket a solution                                |  [112417](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109724) |         TBD         |                            |                 |                          |
+| Claim investigation for attorney request                               |  [112416](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112416) |         TBD         |                            |                 |                          |
 | \[0781 Monitoring] Create Datadog widgets to monitor UX insights                               | [110773](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110773)  |         5         |                            |                 |                          |
 | 4142 MVP FE eng implementation                                                                 | [112266](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112266)  |         5         |                            |                 |                          |
 | \[Submission Status on MyVA] Technical Discovery for displaying ancillary form status on MyVA  | [111460](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111460)  |         5         |                            |                 |                          |
