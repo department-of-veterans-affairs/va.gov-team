@@ -194,26 +194,30 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
 - Two screen reader users (VoiceOver on iOS with Safari) had **difficulty navigating while using Safari because focus kept jumping** to the top of the page or to the Safari controls below the page. p5 was unable to navigate the form and so switched to Chrome, where navigation worked normally. p4 was able to navigate the form well enough in Safari to fill it out.
   > *"A lot of the government websites are not working that great with Safari anymore, and...you need to use Google Chrome" (p5).*
 
-- Two participants
+- On the Review/Submit page, a **screen magnifier user didn't see the "+"'s to expand the accordions because they're so far to the right**. He saw the names of the form sections, but there was no visual indication that there was anything more to scroll right to see. 
+
+- Many people navigate through forms quickly and miss things, regardless of whether they're using assistive tech. Below is a summary of assistive tech **navigation strategies that we observed in this study**, some of which were used to go through the new form slowly and carefully, while others were short-cuts that sometimes caused problems.
+  - *Screen reader users:* 
+    - (On a computer) Arrow through the pages from the very top (1 user) or from the H1 (1 user) instead of using Forms mode.
+       > *"If you just have forms mode on...you may not hear the instructions for what it wanted...for that field" (p1).*
+
+       > *"It's too easy to skip over important information...I go arrow line by line on new forms and new information" (p3).*
+    -  Often stopped the screen reader before it had finished reading the current line, and thus sometimes missed the word "Required" at the end (i.e., some participants didn't know that the VA file number field was optional). 
+       > *"If I could hear 2 words, I kind of know what it's going to tell me, and I go to the next thing...I don't listen anymore. It's just like everything's gonna be required...That VA file number...did not have an asterisk or tell me it was required. But honestly, I'd already tuned that out because I just assumed in my head that it was going to want that" (p1).*
+    - (On a phone) swipe to the right to move to the next item on the page, and swipe left to move to the previous item.
+    - Used "E" to navigate to the next editable field, but that jumps to the next text field--missing dropdowns and checkboxes. This led to one participant missing the military base checkbox and the Country field dropdown, which they discovered when an error message stopped them from going on. 
+       > *"Normally, I don't do...that the first time through. I'd be a little more careful" (p3).*
+    - Searched for the name of the button to jump to (e.g., "cont" for the Continue button).
+    - Used "B" for buttons to get to the *Finish later* button.
+       > *"Now I know that those buttons are down there, it just got me there a lot faster" (p1).*
+  
+  - Screen magnifier users
 
 **WRITE ABOUT:**
 
-issue: SM can't see + on Review/Submit pg
-issue: SR navigated by E for editable field, then missed dropdowns and checkboxes
-
-SR navigation:
-
-- navigate quickly so might miss "required" b/c stop SR before done
-
-- navigate new forms w/arrows, vs. forms mode
-
-- navigate by searching for name of button
-- navigate by swipes
-- navigate w/B for button
-
-
 SM navigation
 - sees very little of screen
+- down arrow and sideways
 - 2 buttons stacked like on mobile even tho on desktop
 - navigate quickly w/o seeing whole line
 
@@ -288,14 +292,17 @@ SM navigation
       1. Messaging could be reworded to lead with what's most important at the beginning to attract attention and ensure visibility to users of screen magnifiers. For example, "Saving will happen automatically..." or "Your information will be saved..."
       1. Messaging could be reworded for clarity, especially "We'll save your request on every change". One idea is "Your work is saved automatically". If we want a message that shows up with every save, it could be very short (e.g., "Saving..." or "Autosaved now"), and it needs to be positioned such that screen readers will announce it. 
       1. Consider relabeling the *Finish later* button to better align with the revised messaging.
-   
+
+### Recommendation: Fix accessibility issues with VA form design patterns
+1. On the Review/Submit page, consider moving the "+" from the right margin to the left margin.
+     - *Supporting evidence:* A screen magnifier user didn't see the "+"'s to expand the accordions because they're so far to the right and there was no visual indication that there was anything more to the right. 
 
 ### Recommendation: Fix accessibility issues with My VA
 #### My VA
 1. My VA--Make the "Continue your application" link in the form request card scale up with magnification like everything else on the card already does.
     - *Supporting evidence:* One participant using a screen magnifier found it difficult to read this link because its font didn't magnify like all the other text on the draft form card.
 
-#### Recommendation: Fix accessibility issues with Request personal records form
+### Recommendation: Fix accessibility issues with Request personal records form
 1. Change the announcement for dropdown fields from "Double tap to activate the picker" to use plain language: "Double tap to select the month", "Double tap to select the country", and "Double tap to select the state".
     - *Supporting evidence: p1 didn't know what a "picker" was and got confused.*
 2. Research focus issues with VoiceOver while getting into and out of the date of birth Month field. See if the issue can be fixed.
