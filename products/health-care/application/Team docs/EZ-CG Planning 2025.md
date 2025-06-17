@@ -1,15 +1,15 @@
 # 2025 Sprint Planning for EZ-CG Team
-- Newest first
+- Current Sprint first
 
 ## 📆 Sprint 23 (June 18 - July 1)
 
 ### 10-10EZ
 
-#### Obj: EZ [Multi-form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103260)
-- [#111103](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111103) - [BE] Tech exploration of BDS API
-
 #### Obj: EZ [CYOA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103253)
 - [#111601](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111601) - [Research] Task List A/B submit & study maintenance
+
+#### Obj: EZ [Multi-form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103260)
+- [#111103](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111103) - [BE] Tech exploration of BDS API
 
 #### Obj: EZ [Improvements/BUGS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
 - [#103446](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103446) - [BE] In-progress Notification failures investigation (CARRIED)
@@ -21,8 +21,8 @@
 ### 10-10CG
 
 #### Obj: CG [Improvements/BUGs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40165)
-- [#102073](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102073) - [FE] Update signature page
 - [#99053](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99053) - [FE] va-statement-of-truth web component
+- [#102073](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102073) - [FE] Update signature page
 - [#99952](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99952) - [Design] Update content on Caregivers' contact info pages
 - [#111870](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111870) - [FE] Update content on Caregivers' contact info pages
 
