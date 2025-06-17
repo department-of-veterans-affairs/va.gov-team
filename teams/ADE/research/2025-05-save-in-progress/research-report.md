@@ -243,6 +243,11 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
 *Include insights that do not represent patterns but are still valuable.*  
 > **TIP:** These could be powerful user comments or unexpected issues worth noting
 
+1. Two screen reader users (both VoiceOver on iOS) were frustrated at not being able to use dictation and had difficulty typing into the text fields. The dictation key on the phone keyboard was grayed out, presumably because Zoom disabled during the meeting. 
+   > *"Wish I could talk it, but that's OK" (p4).*
+   
+   > *"So a lot of times I just dictate everything in, and then I check it to make sure it's right. And if it's not, then I correct it" (p5).*
+
 
 ## Recommendations
 ### Recommendation: Revise the Save in Progress design
