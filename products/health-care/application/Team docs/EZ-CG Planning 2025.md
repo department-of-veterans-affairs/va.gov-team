@@ -16,6 +16,7 @@
 - [#94276](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94276) - [BE] Ceanup of checkbox for minimum essential coverage on Facility screen
 - [#107933](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107933) - [Design] Create separate Figma file for prod screens
 - [#112308](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112308) - [FE] Allow PDF download after PDF download failure
+- Logging improvements?
 
 #### Obj: EZ [Form Statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95313)
 - PM working on this - In progress 
