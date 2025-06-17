@@ -28,7 +28,7 @@ Please view the following PRs for reference:
 - [Error handling for saving to profile failure in editing contact info](https://github.com/department-of-veterans-affairs/vets-website/pull/35825) 
   
 **Key files**  
-1) [ProfileInformationEditViewFc.jsx](src/platform/user/profile/vap-svc/components/ProfileInformationEditViewFc.jsx)  
+1) [ProfileInformationEditViewFc.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/2d6222a1c5c3e781960ea5b045aca219e0088a7f/src/platform/user/profile/vap-svc/components/ProfileInformationEditViewFc.jsx)  
 - Functional component version of ProfileInformationEditView that handles logic for mailing address updates  
 - Contains the UI for the radio button question.  
 2) [ProfileInformationEditView.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/platform/user/profile/vap-svc/components/ProfileInformationEditView.jsx)  
