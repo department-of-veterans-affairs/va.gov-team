@@ -99,8 +99,8 @@ We will be conducting moderated usability testing sessions in which we will ask 
 ## Research materials 📔
 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/research/2025-06-curated-list-usability-testing/conversation-guide.md)
-- [Link to mobile prototype](https://www.figma.com/proto/3e5vi4vfQ2iZ54vNagAOdE/Stepped-flows-prototype?page-id=7012%3A21691&node-id=7426-74605&p=f&viewport=641%2C-307%2C0.04&t=4dJg49C88qnfSvHF-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=7426%3A74605&show-proto-sidebar=1&hotspot-hints=0)
-- [Link to desktop prototype](https://www.figma.com/proto/3e5vi4vfQ2iZ54vNagAOdE/Stepped-flows-prototype?page-id=7012%3A21691&node-id=7046-38121&p=f&viewport=641%2C-307%2C0.04&t=4dJg49C88qnfSvHF-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=7046%3A38121&show-proto-sidebar=1&hotspot-hints=0)
+- [Link to mobile prototype](https://www.figma.com/proto/3e5vi4vfQ2iZ54vNagAOdE/Stepped-flows-prototype?node-id=7631-33941&t=goHPONDQiqOwvikw-1&scaling=scale-down&content-scaling=fixed&page-id=7631%3A31511&starting-point-node-id=7631%3A31702&hotspot-hints=0)
+- [Link to desktop prototype](https://www.figma.com/proto/3e5vi4vfQ2iZ54vNagAOdE/Stepped-flows-prototype?node-id=7046-38121&p=f&t=OGDgWeLGIe9OmigW-1&scaling=scale-down&content-scaling=fixed&page-id=7012%3A21691&starting-point-node-id=7046%3A38121&hotspot-hints=0)
 
 ## Recruitment 🎯	
 
