@@ -172,6 +172,38 @@ new Date().toISOString() // Outputs: '2025-06-10T18:36:04.237Z'
 
 Notice the '.237Z'. We get the milliseconds which we don't need.
 
+## endOfMonth vs. lastDayOfMonth
+Use caution when using the endOfMonth function. It may not produce the results you are expecting. In this example from production code:
+
+```
+const prefDateObj = new Date(preferredDate); // ✅ 2025-10-17
+const startDateObj = startOfMonth(prefDateObj); // ✅ 2025-10-01T05:00:00.000Z local time
+const endDateObj = endOfMonth(addMonths(prefDateObj, 1)); // 💣 2025-12-01T05:59:59.999Z local time but not expecting '2025-12-01'
+```
+
+The expectation is '2025-11-30T05:59:59.999Z' (not sure about what the time portion should be). Using the 'lastDayOfMonth' produces the expected results.
+
+```
+lastDayOfMonth(addMonths(prefDateObj, 1)) // ✅ 2025-11-30T06:00:00.000Z
+```
+
+### Why
+In the date-fns library, the endOfMonth and lastDayOfMonth functions are very similar but have a key difference in their handling of the time component. The 'endOfMonth' function returns a new date that is the last millisecond of the month for the given date. For example,
+
+```
+endOfMonth(new Date(2014, 8, 2, 11, 55, 0)) (which represents September 2, 2014, at 11:55 AM) will return Tue Sep 30 2014 23:59:59.999.
+```
+
+The 'lastDayOfMonth' function returns a new date that is the last day of the month for the given date, but it preserves the time component of the original date. For example,
+
+```
+lastDayOfMonth(new Date(2023, 10, 15, 10, 30, 0)) (representing November 15, 2023, at 10:30 AM) would return a date object for November 30, 2023, at 10:30 AM.
+```
+
+In essence:
+- endOfMonth is useful when you need to calculate the absolute end of the month, including the latest possible time.
+- lastDayOfMonth is useful when you want to find the date of the last day of the month while keeping the original time of day. 
+
 ## Things to be Aware Of
 - When viewing the date-fns and date-fns-tz documentation, change the version number to date-fns@2.24.0, data-fns-tz@2.0.0. These are the versions of the libraries used in VAOS.
 - When viewing date strings such as '2025-06-10T18:36:04Z' and '2025-06-10T18:36:04-0500' they are not the same. The 1st is UTC and must be converted to local time by subtracting the UTC offset and the 2nd is local time. So in this example, The 1st date string would be 1:36pm CST local time (18 - 5 CST offset = 13 - 12 = 1) 
