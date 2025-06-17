@@ -78,7 +78,7 @@ Completed forms: You currently don’t have any completed forms or applications 
    - Current step in the submission process (Submission in progress, Received, or Action needed)
    - Submitted on date
    - Last updated date
-   - Next steps
+   - IF applicable: Next steps
    - IF action needed: an error alert
 
 </details>
@@ -88,19 +88,19 @@ Completed forms: You currently don’t have any completed forms or applications 
 
 - **Use case:** When a user has submitted a supported application or form on the Lighthouse Benefits Intake API, they will see a card that provides submission information, a downloadable PDF, and errors in cases of action is needed. Cards only stay for 60 days then are removed from My VA.
 - **Status code:** TBD
+- **Format:** [Card component](https://design.va.gov/components/card)
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5077-16327&t=vSC00tzVjcFZ2rHY-1)
+- [Link to code](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/engineering-docs/frontend/benefit-applications-and-forms.md)
 - **Content:**
 
-   - Current step in the submission process (Submission in progress, Received, or Action needed)
    - Form name
    - Form code
+   - Current step in the submission process (Submission in progress, Received, or Action needed)
+   - PDF download button
    - Submitted on date
    - Last updated date
-   - PDF download button
+   - IF applicable: Next steps information
    - IF action needed: an error alert
-
-- **Format:** [Card component](https://design.va.gov/components/card)
-- [Link to designs]
-- [Link to code](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/engineering-docs/frontend/benefit-applications-and-forms.md)
 
 </details>
 
@@ -108,7 +108,19 @@ Completed forms: You currently don’t have any completed forms or applications 
 ## Edge cases
 
 ### System
-The data for saved applications is gathered from the same API as the main user call. Therefore, there are no errors specific to just this section. If the main user call fails, the entire My VA page displays an error (MPI error).
+
+<details><summary>The API that shows forms is down</summary>
+  
+- **Use case:** If an LOA3 user logs in and there is an error with the API that displays forms and applications, then we show an alert informing the user the information is currently unavailable. No other information shows in the section.
+- **Status code:** TBD
+- **Format:** [Warning slim alert](https://design.va.gov/components/alert/#warning-alert)
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5072-18605&t=Qplg9wUFJEDlP70M-1)
+- [Link to code]
+- **Content:**
+
+We can’t currently display your forms and applications. Please refresh or try again later.
+
+</details>
 
 ---
 
