@@ -22,10 +22,10 @@ How might we statement: How might we help va.gov users confidently navigate the 
 - Users are still unsure and confused on how to navigate the authenticated experience.
 
 ### **Desired Business Outcomes**
-- 
+- TBD
 
 ### **Undesired Business Outcomes**
-- 
+- TBD
 
 ### **Measuring Success**
 
