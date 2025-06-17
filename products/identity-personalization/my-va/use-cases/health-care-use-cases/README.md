@@ -3,7 +3,7 @@
 **Last updated: May 2025**
 
 - User flow
-- Figma files
+- [Figma files](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5353-14055&t=hwoiHCaMFjyRAOid-1)
 - Test Rail QA
 
 <details><summary>Archive | How to reproduce in staging</summary>
@@ -26,25 +26,26 @@
 
 <details><summary>User does not have VA health care</summary>
 
-- **Use case:** When a LOA3 user does not have VA health care, they will see text in the section prompting them to apply for VA health care. No other secondary content shows in this use case.
+- **Use case:** When a LOA3 user does not have VA health care, they will see text in the section informing them they have no health care information at this time, and a link to My HealtheVet.
 - **Status code:** TBD
-- **Content:** TBD
-- **Format:** TBD
-- [Link to designs]
+- **Format:** Paragraph copy. See designs
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5069-18072&t=hwoiHCaMFjyRAOid-1)
 - [Link to code]
+- **Content:** See designs
 
 </details>
+
 
 ### Appointments
 
 <details><summary>User does not have any upcoming appointments</summary>
 
-- **Use case:** When a user does not have any upcoming appointments, they will see text in this section that states ... TBD
+- **Use case:** When a user does not have any upcoming appointments, they will see a card that informs them they have no appointments and a link to manage appointments.
 - **Status code:** TBD
-- **Content:** See designs
-- **Format:** TBD
-- [Link to designs]
+- **Format:** [Card component](https://design.va.gov/components/card)
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5008-17793&t=hwoiHCaMFjyRAOid-1)
 - [Link to code]
+- **Content:** See designs
 
 </details>
 
@@ -52,11 +53,11 @@
 <details><summary>User has upcoming appointments</summary>
 
 - **Use case:** If a user has a confirmed upcoming appointment, they will see **up to** two cards in this section that tells them the date, time, and location of the appointment, as well as a link to the online scheduling tool.
-- **Status code:** TBD
-- **Content:** See designs
+- **Status code:** 200
 - **Format:** [Card component](https://design.va.gov/components/card)
-- [Link to designs]
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5022-17383&t=hwoiHCaMFjyRAOid-1)
 - [Link to code]
+- **Content:** See designs
 
 </details>
 
@@ -65,32 +66,35 @@
 
 <details><summary>User does not have any unread messages</summary>
 
-- **Use case:** When a user does not have any unread messages, they will see ... TBD
+- **Use case:** When a user does not have any unread messages, they will see a card telling them and a link to their inbox.
 - **Status code:** TBD
-- **Content:** See designs
 - **Format:** [Card component](https://design.va.gov/components/card)
-- [Link to designs]
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5069-17866&t=hwoiHCaMFjyRAOid-1)
 - [Link to code]
+- **Content:** See designs
 
 </details>
 
 
 <details><summary>User has unread messages</summary>
 
-- **Use case:** When a user has unread messages, they will see a card informing them they have unread messages.
+- **Use case:** When a user has unread messages, they will see a card informing them they have unread messages, and a link to their inbox.
 - **Status code:** TBD
-- **Content:** See designs
 - **Format:** [Card component](https://design.va.gov/components/card)
-- [Link to designs]
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5069-17913&t=hwoiHCaMFjyRAOid-1)
 - [Link to code]
+- **Content:** See designs
 
 </details>
 
 
 ## Edge cases
 
+### Validation
+This feature has no validation use cases.
+
 ### Flags
-There are no flags associated with this feature.
+There are no flags with this feature.
 
 ### System errors
 
@@ -99,34 +103,26 @@ There are no flags associated with this feature.
 - **Use case:** If an LOA3 user logs in and the main user call fails, then we will not be able to detect if a user has VA health care or not. If this error occurs, in most cases the entire page will fail to load and the user will see a full page error.
    - In rare cases, this error could occur and the page may still load. If this occurs, we display an error in the health care section.
 - **Status code:** TBD
+- **Format:** [Slim warning alert component](https://design.va.gov/components/alert/#web-2)
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5333-17024&t=hwoiHCaMFjyRAOid-1)
+- [Link to code]
 - **Content:** 
 
-**Ashley - will need to revisit this copy with CAIA**
-
-Header: We can't access any health care information right now.
-
-We're sorry. Something went wrong on our end. If you get health care through VA, you can go to My HealtheVet to access your health care information. Visit My HealtheVet
-
-- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
-- [Link to designs]
-- [Link to code]
+Something went wrong on our end. If you get health care through VA, you can go to My HealtheVet to access your health care information.
 
 </details>
 
 
 <details><summary>The appointments API is down and the system can't tell if the user has appointments scheduled but can tell they have VA health care</summary>
 
-- **Use case:** If an LOA3 user logs in who has VA health care and there is an error with the appointments API, then we will be able to detect that they have VA health care but we will not be able to show any upcoming appointment information. If this error occurs, we display a warning alert in the Health care section.
+- **Use case:** If an LOA3 user logs in who has VA health care and there is an error with the appointments API, then we will be able to detect that they have VA health care but we will not be able to show any upcoming appointment information. If this error occurs, we display a warning alert in the Appointments section.
 - **Status code:** TBD
-- **Content:**
-
-Header: We can't access your appointment information.
-
-We're sorry. Something went wrong on our end and we can’t access your appointment information. Please try again later or go to the appointments tool: [Schedule and manage your appointments](https://va.gov/my-health/appointments)
-
-- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
+- **Format:** [Slim warning alert component](https://design.va.gov/components/alert/#web-2)
 - [Link to designs]
 - [Link to code]
+- **Content:**
+
+Something went wrong on our end and we can’t access your appointment information. Please refresh or try again later.
 
 </details>
 
