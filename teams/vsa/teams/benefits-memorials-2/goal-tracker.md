@@ -14,14 +14,14 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
     
 | Priority ID | Description | S.Epic | Relevant Dates |  Notes | Dependency |  End of Quarter Status |
 |-------------|---------------|-----------------|---------------|---------------|---------------|---------------|
-| QP1 | **Digital Debt Dispute (VBA):** Launch in Production |[#82003](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82003)  | Launch in Production June/July | UX + BE | **DMC** | |
+| QP1 | **Digital Debt Dispute (VBA):** Launch in Production |[#82003](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82003)  | Launch in Production June/July | UX-BE | **DMC** | |
 | QP2 | **One Thing Per Page:** Launch in Production |[#106610](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106610)  |  | FE |  |  |
-| QP3 | **Payment History (VHA):** Progress development efforts and continue align with Lighthouse |  |  | FE + BE | **Lighthouse** |  |
+| QP3 | **Payment History (VHA):** Progress development efforts and continue align with Lighthouse |  |  | FE-BE | **Lighthouse** |  |
 | QP4 | **Pay.gov Hosted Collection Page (HCP) for Copays:** Launch in Production |  |  | FE | **Pay.gov** |  |
-| QP5 | **Reinitiate new copay emails + preference status:** **A:** Update copy with stakeholder approval (With improved language about mobile app) **B:** Flip switch **C:** Align with profile team on preference setting|  |  | UX + FE | **Blocked by Payment History VHA** |  |
+| QP5 | **Reinitiate new copay emails + preference status:** **A:** Update copy with stakeholder approval (With improved language about mobile app) **B:** Flip switch **C:** Align with profile team on preference setting|  |  | UX-FE | **Blocked by Payment History VHA** |  |
 | QP6 | **Pay.gov Hosted Collection Page (HCP) for Overpayments:** Discovery & Design Prototyping |[#105733](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105733)  |  | FE | **Pay.gov + DMC for <Receivable ID>** |  |
 | QP7 | **Veteran Request for Hardship Suspension (VBA):** Discovery & Initiate Design Prototyping |[#106207](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106207)  |  | FE | **VBA** |  |
-| QP8 | **Indirect Initiative Priority Work:** Complete all work in the Epic |  |  | UX - FR - BE |  |  |
+| QP8 | **Indirect Initiative Priority Work:** Complete all work in the Epic |  |  | UX-FE-BE |  |  |
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [ ] VA PO approved end of quarter status of Quarterly Goals (0x/xx/25)
