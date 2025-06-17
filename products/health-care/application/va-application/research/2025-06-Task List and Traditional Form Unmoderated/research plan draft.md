@@ -135,7 +135,7 @@ Our intended audience is Veterans and we will partner with Perigean for recruitm
 - Total participants: 15 per cohort
 - All participants will be Veterans   
 
-**Recruitment Target:** 40 Veterans (goal is at least 15 complete sessions per cohort)  
+**Recruitment Target:** 50 Veterans (25 per cohort/complete 15 per cohort)  
 **Tool:** Perigean  
 **Device requirement:** Desktop/laptop only
 
@@ -164,13 +164,13 @@ Our intended audience is Veterans and we will partner with Perigean for recruitm
 
 ### Optional Kick-off Call with Perigean
 
-- `Suggested dates and times:` **[Tuesday 17th - Wednesday 18th; 12pm ET - 5pm ET, Wednesday 25th - Thursday 26th; 10am - 5pm ET]**
+- `Suggested dates and times:` **[Wednesday 25th - Friday 27th; 10am - 6pm ET]**
 - **Pilot Session** 
 - `Pilot participant name:` **[Perigean to Recruit 1 participant per cohort]**
-- `Date and time of pilot session:` **[TBD - Leave 3 days between Pilots before sessions start; July 1-11, 2025]** 
+- `Date and time of pilot session:` **[TBD - Leave 3 days between Pilots before rest of sessions start; July 1-15, 2025]** 
 
 ### Research sessions (Tentative)
-- **Session will be open: 07/01-07/11**
+- **Session will be open: 07/01-07/15**
 
 ### Length of sessions
 - We estimate each participant will need 30-45 minutes to complete both of the flows.
