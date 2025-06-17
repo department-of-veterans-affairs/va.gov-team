@@ -9,16 +9,16 @@ Per Search.gov we have 2 ways to check their status:
 
 ## DataDog Monitoring
 
-#### [Synthetics] Search.gov - Healthcheck
+### [Synthetics] Search.gov - Healthcheck
 - Sends a ping to the Search.gov uptime endpoint every minute. A negative response indicates an outage, and a positive response indicates uptime. Latency up to 7 seconds observed but should not error the monitor.
 - [View Monitor](https://vagov.ddog-gov.com/monitors/217076?view=spans)
 - [View Synthetics Details](https://vagov.ddog-gov.com/synthetics/details/zs3-wcj-xqy?from_ts=1713444301151&to_ts=1713447901151&live=true)
 
-#### Search.gov - vets-api Error due to 503 Code returned from search.gov
+### Search.gov - vets-api Error due to 503 Code returned from search.gov
 - Monitors error rates for vets-api related to 503 errors from Search.gov.
 - [View Monitor](https://vagov.ddog-gov.com/monitors/210576?view=spans)
 
-##### Triage
+#### Triage
 1. Check https://search.gov/status.html for any status updates. (They don't maintain it much, not fully accurate, but good to check just in case)
 2. Check if the Search.gov API endpoint is up / responsive by trying to `curl` the endpoint. Access key will be required to get a successful response, but even a validation error of `{"errors":["access_key is invalid"]}%` indicates the endpoint is alive:
    - Existing endpoint: https://search.usa.gov/api/v2/results/i14y
@@ -69,7 +69,7 @@ Mitigation if warn/error:
 - Ensures the `v0/search` API endpoint returns success (200) responses at an expected rate of 97% or higher.
 - [View Monitor](https://vagov.ddog-gov.com/monitors/169139)
 
-#### Triage
+##### Triage
 - Investigate by viewing the relevant timeframe and checking `vets-api` for errors or latency issues. Ensure no UI changes have affected components that impact searches.
 
 ## Adrian's Triage Video
