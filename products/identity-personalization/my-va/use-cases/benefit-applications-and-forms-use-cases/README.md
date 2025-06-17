@@ -107,7 +107,13 @@ Completed forms: You currently don’t have any completed forms or applications 
 
 ## Edge cases
 
-### System
+### Validation
+This feature has no validation use cases.
+
+### Flags
+There are no flags with this feature.
+
+### Errors
 
 <details><summary>The API that shows forms is down</summary>
   
