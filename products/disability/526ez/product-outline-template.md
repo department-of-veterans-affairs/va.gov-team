@@ -25,7 +25,7 @@ We are helping veterans fill out their forms with ML modeling to find clinical c
   - VSRs/RVSRs will have reduced instances of needing to determine and assign the classifications.
 
 ## Undesired User Outcomes
-
+  - Inaccurate classifications that VSRs/RVSRs have to manually correct.
 
 ## Desired Business Outcomes
 
