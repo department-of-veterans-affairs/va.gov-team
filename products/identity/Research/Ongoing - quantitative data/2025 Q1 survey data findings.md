@@ -13,6 +13,7 @@
    - [Comparisons](#comparisons) - section to be added
 - [Discussion](#discussion) - section to be added
 - [Recommendations](#recommendations)
+- [Survey quotes](#Survey-quotes)
 
 ## Background
 This research considered the Medallia intercept survey, Medallia feedback survey, and the MyVA411 Call Center data from October 1, 2024 to November 30, 2025. This is part of our team's regular checkin with quantitatitve data.
@@ -152,3 +153,5 @@ There were 24,823 calls related to authentication from the call center. This inc
 **Content and UI**
 - Share insights with platform content team
 - Improve wayfinding to sign-in related actions
+
+## Survey quotes
