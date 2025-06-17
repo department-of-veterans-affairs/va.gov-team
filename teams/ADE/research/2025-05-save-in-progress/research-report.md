@@ -197,7 +197,7 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
 - On the Review/Submit page, a **screen magnifier user didn't see the "+"'s to expand the accordions because they're so far to the right**. He saw the names of the form sections, but there was no visual indication that there was anything more to scroll right to see. 
 
 - Many people navigate through forms quickly and miss things, regardless of whether they're using assistive tech. Below is a summary of assistive tech **navigation strategies that we observed in this study**, some of which were used to go through the new form slowly and carefully, while others were short-cuts that sometimes caused problems.
-  - *Screen reader users:* 
+  - **Screen reader users (desktop and mobile):** 
     - (On a computer) Arrow through the pages from the very top (1 user) or from the H1 (1 user) instead of using Forms mode.
        > *"If you just have forms mode on...you may not hear the instructions for what it wanted...for that field" (p1).*
 
@@ -211,8 +211,11 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
     - Used "B" for buttons to get to the *Finish later* button.
        > *"Now I know that those buttons are down there, it just got me there a lot faster" (p1).*
   
-  - Screen magnifier users
-    - May see very little of the page at once
+  - **Screen magnifier users (desktop)**
+    - Saw very little of the page at once, not only vertically but also horizontally. The *Finish later* and *Continue* buttons were on separate lines with white space on the sides because zooming and magnifying resized the computer's viewport to mobile layout and made everything appear larger. See [screenshots](URLs TBD from p13 saved and feedback-backchannel). 
+    - Moved up and down with arrow keys on keyboard with his left hand. When he wanted to continue reading across the page, he moved the mouse sideways with his right hand, but *not* for every line. Skimmed down the page while not all the words across are in his view, and he assumed what it said--often accurately but sometimes not.
+
+
 
 **WRITE ABOUT:**
 
