@@ -3,7 +3,7 @@
 **Last updated: June 2025**
 
 - User flow
-- Figma files
+- Figma files(https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5307-57763&t=KhCgIDPMpZ6FClDG-1)
 - Test Rail QA
 - Product documentation
    - [How to add a form](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/forms-status-on-My-VA/adding-a-form.md)
@@ -31,47 +31,55 @@
 
 <details><summary>User does not have any drafts or completed forms</summary>
 
-- **Use case:** When a user does not have any saved benefit application drafts, they will see ... TBD.
+- **Use case:** When a user does not have any form or application drafts or completed forms they will see information informing them of such, and an additional information component on what to do if they think there are missing forms.
 - **Status code:** TBD
+- **Format:** See designs
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5077-16410&t=KhCgIDPMpZ6FClDG-1)
+- [Link to code]
 - **Content:**
 
-You have no benefit application drafts to show.
+In-progress forms: You currently don’t have any in-progress forms or applications to show.
 
-- **Format:** TBD
-- [Link to designs]
-- [Link to code]
+Completed forms: You currently don’t have any completed forms or applications to show. 
 
 </details>
 
 
 <details><summary>User has a benefit application or form draft saved but not yet submitted</summary>
 
-- **Use case:** When a user has a benefit application draft saved in progress, they will see a card in this section that tells them the form code, application type, an expiration date for the application, the date that they last saved it, and a link to continue the application.
+- **Use case:** When a user has a benefit application draft saved in progress, they will see a card in this section that tells them the form number, application type, an expiration date for the application, the date that they last saved it, and a link to continue the application.
 - **Status code:** TBD
-- **Content:** TBD
 - **Format:** [Card component](https://design.va.gov/components/card)
-- [Link to designs]
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5077-16011&t=KhCgIDPMpZ6FClDG-1)
 - [Link to code](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/engineering-docs/frontend/benefit-applications-and-forms.md)
+- **Content:**
+
+   - Application title
+   - Form number
+   - Status
+   - Application expiration date
+   - Last saved one date
+   - Link: Continue application
 
 </details>
 
 
 <details><summary>User has submitted a benefit application and/or form not on LH BI API</summary>
 
-- **Use case:** When a user has submitted a supported application or form not on Lighthouse Benefits Intake API, they will see a card that provides submission information and errors in cases of action is needed. Cards only stay for 60 days then are removed from My VA.
+- **Use case:** When a user has submitted a supported application or form **not** on Lighthouse Benefits Intake API, they will see a card that provides submission information and errors in cases of action is needed. Cards only stay for 60 days then are removed from My VA. PDFs do not show.
 - **Status code:** TBD
+- **Format:** [Card component](https://design.va.gov/components/card)
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5077-16246&t=KhCgIDPMpZ6FClDG-1)
+- [Link to code](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/engineering-docs/frontend/benefit-applications-and-forms.md)
 - **Content:**
 
-   - Current step in the submission process (Submission in progress, Received, or Action needed)
-   - Form name
+   - Application name
    - Form code
+   - Current step in the submission process (Submission in progress, Received, or Action needed)
    - Submitted on date
    - Last updated date
+   - Next steps
    - IF action needed: an error alert
-
-- **Format:** [Card component](https://design.va.gov/components/card)
-- [Link to designs]
-- [Link to code](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/engineering-docs/frontend/benefit-applications-and-forms.md)
 
 </details>
 
