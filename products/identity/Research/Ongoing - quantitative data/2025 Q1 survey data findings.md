@@ -10,7 +10,7 @@
    - [Medallia feedback survey](#medallia-feedback-survey---quantitative)
    - [Medallia intercept survey](#medallia-intercept-survey---quantitative)
    - [My VA411 call data](#MyVA411-call-data)
-   - [Comparisons](#comparisons) - section to be added
+   - [Comparisons](#comparisons)
 - [Discussion](#discussion) - section to be added
 - [Recommendations](#recommendations)
 - [Survey quotes](#Survey-quotes)
