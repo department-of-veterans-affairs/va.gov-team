@@ -33,3 +33,45 @@ This is a look back at all of the responses for the 6 questions on the  FSR cust
 
 
 ## 1. I was able to easily complete this form online.
+
+
+**52 Responses**
+
+**Mode: Strongly Agree (5)**
+
+|Score|Response|# of Responses|
+|--|--|--|
+| 1 | Strongly Disagree | 4 |
+| 2 | Disagree | 2 |
+| 3 | Neither Agree nor Disagree | 4 |
+| 4 | Agree | 19 |
+| 5 | Strongly Agree | 23 |
+
+
+ ## 2. Did you find any section of the form confusing or unclear? 
+ 
+Users are able to select all that apply.
+
+**38 responses**
+
+Listed from most responses to least: 
+|Category|# of Responses|
+|--|--|
+| None | 31 |
+| Expenses | 2 |
+| Income | 1 |
+| Relief options | 2 |
+| Assets | 3 |
+| Final Review | 0 |
+| Veteran information | 0 |
+| Bankruptcy history | 0 |
+
+
+## 3. What specific changes, if any, would you like to see in the form to make it more user-friendly and easier?
+
+Open text field provided.
+
+**57 Qualitative Responses total**
+
+### None, NA, N/A, no suggestions, positive feedback
+
