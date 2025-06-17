@@ -42,7 +42,7 @@ These failures directly impact what the client sees when POSTing to `/ivc_champv
 ## Pega Asynchronous Processing
 
 ### Normal Pega Flow
-1. Form submission creates `IvcChampvaForm` records with `pega_status: 'Submitted'`
+1. Form submission creates `IvcChampvaForm` records with `pega_status: nil`
 2. Metadata JSON uploaded to S3 bucket triggers Pega lambda
 3. Pega processes files and calls back via `/forms/status_updates` endpoint
 4. Status updated to 'Processed' or 'Not Processed'
