@@ -1,7 +1,7 @@
 # ADE Tickets and How To Use Them
 > [!CAUTION]
 > - This document is a **WIP**
-> - Last updated: May, 13 2025
+> - Last updated: June, 16 2025
 
 ## Overview
 
@@ -239,6 +239,7 @@ Sometimes refered to as tags. These allow for ADE to 'tag' which discipline need
             - **ADE 508 FLAG LOW** (A VA 508 Office Audit item, with a "Low" flag level, per the 508 Office.)
             - **ADE 508 RECHECK** (Flagging the need to revisit a VA 508 Office Audit for updates on the findings and fixes completed by the VFS Team post ADE guidance.)
     - **ADE 508 NAN** (assistance not needed with 508 audit work)
+    - **ADE 508 Objection** (indicates when ADE disagrees with and/or objects to a 508 audit finding)
 
  </details>
 
