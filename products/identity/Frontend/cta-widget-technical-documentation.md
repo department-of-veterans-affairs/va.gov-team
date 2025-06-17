@@ -15,7 +15,7 @@ Current State:
 Tech Debt:
 - The `CallToActionWidget`...
   - Is class-based instead of functional
-  - There's also a significant amount of conditional logic to determine which CTA to display. This can probably by reworked and could lead to performance improvements.
+  - There's also a significant amount of conditional logic to determine which CTA to display. This can probably be reworked and could lead to performance improvements.
 - Message components do not appear to be generalized and all use different content layouts. Also, some messages appear to be duplicates (see `Unauthed.jsx` and `DirectDeposit.jsx`).
 - Current code coverage is lacking (see image below).
 
@@ -70,7 +70,7 @@ src/applications/static-pages/cta-widget
 `ctaWidgets.js`
 - This file contains various constants used by the `CallToActionWidget`. The data from this file is used to determine how the `CallToActionWidget` gets rendered.
 - 
-- The most notable constant is `ctaWidgetsLookup`, which contains important data about each CTA widget. Each entry corrosponds to a `CTA_WIDGET_TYPES` (defined in the same file) and contains data in the following format:
+- The most notable constant is `ctaWidgetsLookup`, which contains important data about each CTA widget. Each entry corresponds to a `CTA_WIDGET_TYPES` (defined in the same file) and contains data in the following format:
 ```jsx
     {
         id: CTA_WIDGET_TYPES.WIDGET_TYPE, // CTA_WIDGET_TYPES
@@ -95,7 +95,7 @@ src/applications/static-pages/cta-widget
 
 `CallToActionAlert.jsx`
 - This file contains the `CallToActionAlert` component, which is the most generalized component that most `message` components take advantage of.
-- Messages can use this to display a basic call to action (a heading, text, and 2 buttons). Messages can pass through custom strings for all of these and even specific functionaily for the primary and secondary buttons.
+- Messages can use this to display a basic call to action (a heading, text, and 2 buttons). Messages can pass through custom strings for all of these and even specific functionality for the primary and secondary buttons.
 - It's important to note that NOT all messages utilize this component.
 
 `messages`
@@ -128,7 +128,7 @@ src/applications/static-pages/cta-widget
 - `SignIn.jsx`
   - Alert to show a user trying to sign in.
 - `SignInOtherAccount.jsx`
-  - Alert to show a user that has mhv basic account (is not verified).
+  - Alert to show a user that has a MHV basic account and is not verified.
 - `UpgradeAccount.jsx`
   - Alert to show a user trying to upgrade their My HealtheVet account.
 - `UpgradeFailed.jsx`
@@ -139,12 +139,12 @@ src/applications/static-pages/cta-widget
   - Alert to show a user that is not verified.
 
 ## Dependencies
-The CTA-Widget relies on a number of platform dependencies such as monitors, actions, selectors, feature-toggles, constants, utilities, etc. Each message component is independent of the others, and it appears that teams have added various dependies to each of them. These can range from things like VA design components to components located elsehwere on the site. Care should be taken when updating CTA files to ensure depencies are still valid. The CTA-Widget is highly coupled to other parts of the site and it may be worth combing through each file to see if the number of dependencies can be reduced.
+The CTA-Widget relies on a number of platform dependencies such as monitors, actions, selectors, feature-toggles, constants, utilities, etc. Each message component is independent of the others, and it appears that teams have added various dependencies to each of them. These can range from things like VA design components to components located elsewhere on the site. Care should be taken when updating CTA files to ensure dependencies are still valid. The CTA-Widget is highly coupled to other parts of the site and it may be worth combing through each file to see if the number of dependencies can be reduced.
 
 ## Instructions for Contributing to or Updating the Widget
 As code owners, Identity should be able to make updates/changes without issue unless...
 
-  1. Changes to are made to the component that impact its overall look or visibility.
+  1. Changes are made to the component that impact its overall look or visibility.
   2. Changes to a message belonging to another team are made.
 
-If either of the above sceneraios occur, the changes should be communicated to the affected teams and approved before being merged to main.
+If either of the above scenarios occur, the changes should be communicated to the affected teams and approved before being merged to main.
