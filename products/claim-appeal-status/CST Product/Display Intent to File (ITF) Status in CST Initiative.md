@@ -1,5 +1,5 @@
 # Design Pitch: Display Intent to File (ITF) Status in CST
-(Updated: 6/11/25)
+(Updated: 6/16/25)
 
 ## Links
 * [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110236)
