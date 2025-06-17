@@ -4,7 +4,7 @@
 
 | Toggle name | Description |
 | ----------- | ----------- |
-|  TBD | TBD |
+|  dispute_debt | Enables the Dispute Debt feature |
 
 
 ## Step 2: Validation
