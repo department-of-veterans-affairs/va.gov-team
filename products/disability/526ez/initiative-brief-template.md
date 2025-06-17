@@ -38,7 +38,7 @@
   * Evidence:         Not all contentions are classified by automation 
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
   * The problem is occurring because there's too many combinations for explicit case writing to catch. 
-  * Other reasons why this might be occurring, include: typos, invalid conditions, and not listed in CC list .
+  * Other reasons why this might be occurring, include: typos, invalid conditions, and conditions not covered by the current (non-ML) classifier
 * How does this initiative help further OCTO-DE's mission and goals?
   * This further covers contention classification for veterans to receive their compensation in a timely, easy, and consistent way. 
 
