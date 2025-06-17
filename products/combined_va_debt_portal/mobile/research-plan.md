@@ -317,11 +317,11 @@ Two cohorts: those who have experience with benefits overpayment debts, and thos
 - `Planned dates of research:` **[Enter dates MM/DD-MM/DD]**
 
 ### Length of sessions
-- `Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)` **[Enter time length]**
+- `Session length:` **1 hour**
   
-- `Buffer time between sessions: (30 minutes recommended to reset between sessions, debrief with team, if a participant arrives late, or a session goes slightly over time)` **[Enter buffer time]**
+- `Buffer time between sessions:` **30 minutes**
   
-- `Maximum Sessions per day: (We all have limits - how many sessions can you and your team conduct in one day considering the session length, the mental strain of conducting sessions, other work you still need to complete in a day, etc?)` **[Enter NUM per day]**
+- `Maximum Sessions per day:` **4**
 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
@@ -351,7 +351,7 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 > **Please list the names of people in each role.** In the Slack study channel, send an email and primary phone number for the moderator. Also send emails for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
 
 - `Moderator:` **Emily DeWan**	
-- `Research guide writing and task development (usually but not always same as moderator):` **Emily DeWan**		
+- `Research guide writing and task development:` **Emily DeWan**		
 - `Participant recruiting & screening:`	**Perigean**	
 - `Project point of contact:` **Natalie Davied Gibbons**		
 - `Accessibility specialist (for sessions where support for assistive technology may be needed):` **n/a**	
