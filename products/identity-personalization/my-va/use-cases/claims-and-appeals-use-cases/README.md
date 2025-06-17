@@ -93,10 +93,13 @@
 
 ## Edge cases
 
-### Flags
-There are no flags associated with this feature.
+### Validation
+This feature has no validation use cases.
 
-### System error
+### Flags
+There are no flags with this feature.
+
+### Errors
 
 <details><summary>The claims API is down and we can’t display any claims or appeals information</summary>
   
