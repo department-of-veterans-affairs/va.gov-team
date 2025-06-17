@@ -63,7 +63,6 @@
 * What resources do you recommend TAP participants use?  
 * What are you most concerned might slip through the cracks during transition?  
 * What keeps you up at night  
-* 
 
 ### Part 2: Boilerplate usability test of the live product
 
