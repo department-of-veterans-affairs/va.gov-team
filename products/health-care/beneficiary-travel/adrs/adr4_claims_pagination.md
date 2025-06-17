@@ -4,7 +4,11 @@ Status: Proposed
 
 ## Context
 
-The Travel Pay application needs to implement functionality to paginate claims in two places: in the claims status list page and within the claim > appt association service (BE-only).
+The Travel Pay API paginates claims responses for both the `/claims` (i.e. `get_all_claims`) and the `/claims/search-by-appointment_date` endpoints. The default items/page is 25, that's what we've been using so far. However we've noticed that once the claims count get high enough: 
+- In the claim > appt asosciation service not all claims are being appended to all appointments (even when they exist) causing users to believe they can file a claim for an appointment when a claim already exists (it just wasn't sent with the appointment data)
+- In the status list page only the first 25 claims are being returned so users have no way to know what's happened with older claims
+
+Therefore, the Travel Pay application needs to implement functionality to paginate claims in two places: in the claims status list page and within the claim > appt association service (BE-only).
 
 ## Decision Drivers
 
