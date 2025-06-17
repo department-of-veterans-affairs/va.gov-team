@@ -46,7 +46,7 @@ Do you use VA Healthcare?
    - \[If it’s not clear\] What city is that in?
 - If no, skip to screen sharing.
 
-**Screen share/Remote share - 5 minutes**
+# **Screen share/Remote share - 5 minutes**
 
 _\[If on Desktop/Laptop/Tablet:\]_ I am going to have you take over the mouse on my screen. As soon as I get set up, I will give you instructions on what to do.  _\[when ready\]_ I am going to hand over control in just a second. When I do, you will see a notification pop up on your screen and then you will be able to control my screen. Ready?
 
