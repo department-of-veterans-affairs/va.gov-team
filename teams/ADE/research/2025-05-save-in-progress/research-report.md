@@ -262,7 +262,17 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
 1. 9 of 11 participants encountered errors while they were filling out the form, and most of them understood what they meant and what they needed to do to fix them.
    > *"Tells me where I screwed up" (p13).*
    > *"That's awesome...I like that. It caught it" (p9).*
-1. 
+1. One screen reader user (JAWS on desktop) encountered 3 different errors that he didn't understand how to resolve:
+     1. He didn't understand the "Country is required" error msg because he never saw the field (due to skipping over it before by navigating with the command "e" (in JAWS) to the next editable field). **When he finally found the field, he didn't know it was a combo box because focus was on the field label that didn't announce the type of field. [JAMIE IS TESTING THIS]**
+        > *"I don't understand that. I didn't see any place to enter a country, and yet when I hit Continue...I don't remember seeing that [the Country] come up before I entered the address" (p3).*
+     1. He was confused by the Social Security Number (SSN) field error when he entered the 9 digits "123456789" after he was asked to enter fake data. This error also confused a non-AT user. Disallowing this input is undocumented but shouldn't be an issue with users entering their actual SSN.
+     1. After fixing the SSN error, he was hearing another error that he thought was still for SSN but was actually for the VA file number field. That field had an "e" in it from navigating to the next editable field, which must have gotten typed into the web page and which he didn't hear the screen reader announce. He thought he entered the SSN incorrectly again, which wasn't the problem. Only when the moderator said that there's something in the VA file number field did he notice the "e" and understand that it came from his JAWS command.
+       > *"I guess if they didn't like the social security number, it's asking for a file number. I'm not sure, because it says you only need one. It looks like it took the social security number. Didn't say it was bad. It did say error as I started typing...I'm not sure what it's upset about" (p3).*
+
+     
+
+
+
 
 - _Supporting data: ![text](link - add image to github folder and link here with .png)_  
 
