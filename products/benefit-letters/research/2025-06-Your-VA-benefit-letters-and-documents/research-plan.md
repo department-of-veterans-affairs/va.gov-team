@@ -178,20 +178,20 @@ Our intended audience are Veterans. We will partner with Perigean to recruit ass
 ### Length of sessions
 - `Session length:` 60 minutes for non-AT users / 90 minutes for AT users
   
-- `Buffer time between sessions:` 30 min
+- `Buffer time between sessions:` 45 min
   
 - `Maximum Sessions per day:` 3
 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
 
-- `07/29, 10:00AM-5:00PM EST`
-- `07/30, 10:00AM-5:00PM EST`
-- `07/31, 10:00AM-5:00PM EST`
-- `08/01, 10:00AM-5:00PM EST`
-- `08/04, 10:00AM-5:00PM EST`
-- `08/05, 10:00AM-5:00PM EST`
-- `08/06, 10:00AM-5:00PM EST`
+- `07/29, Tue, 10:00AM-7:00PM EST`
+- `07/30, Wed, 10:00AM-7:00PM EST`
+- `07/31, Thu, 10:00AM-7:00PM EST`
+- `08/01, Fri, 10:00AM-7:00PM EST`
+- `08/04, Mon, 10:00AM-7:00PM EST`
+- `08/05, Tue, 10:00AM-7:00PM EST`
+- `08/06, Wed, 10:00AM-7:00PM EST`
   
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
