@@ -41,8 +41,7 @@ Monitors for each product are described within product folders. e.g.
 | [FAQ Page](#faq-page) | [PACT Act Wizard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/pact-act-wizard) | [“How to apply” wizards](#how-to-apply--benefit-wizards)  |
 | [Find a form / VA Forms (+ Forms DB import)](#find-a-form--va-forms) | [On-site search (using search.gov)](#on-site-search-using-searchgov) | [React widgets use within CMS](#react-widgets-use-within-cms) |
 | [Full-width Alert](#full-width-alert) | [Translation React widgets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/README.md#translation-react-widgets)  | [BTSSS react widget](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/travel-reimbursement-btsss) |
-| [VA.gov Homepage](#vagov-homepage) | . | . |
-| [Promo Banner](#promo-banner) | . |  .  |
+| [VA.gov Homepage](#vagov-homepage) | . | [Promo Banner](#promo-banner) | 
 | [Outreach Materials Library (Publication listing & page)](#outreach-materials-library-publication-listing-page--publications) | . | . |
 | [Resources & Support](#resources-and-support) |  . | . |
 | [Reusable Q&A](#reusable-qa) | . | .  |
@@ -93,6 +92,7 @@ The Public Websites team also supports most of the portfolio of the previous Dec
 </details>
 
 ## Changelog
+* 5/15/2025: The Promo banner has been deprecated from the design system because of accessibility defects and low use: see [#4142](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/4142)
 * 1/14/2025: Identity team now owns the central vets-website cta-widget application. The MHV Cartography team may have a stake in the content / behavior of the  6 CTA widget invocations that are present on VAMC pages.
 * 09/23/2024: Design System Team now owns the global Header and footer markup: https://dsva.slack.com/archives/C52CL1PKQ/p1727120068414909
 * 07/2024: Design System team now owns the Veterans Crisis Line modal as a component: https://dsva.slack.com/archives/C06V7AAFVH7/p1721850350022329?thread_ts=1720203529.734199&cid=C06V7AAFVH7
