@@ -16,17 +16,14 @@ Last updated: 4/29/2025
 | -------- | ------- |
 | `vama_appt_cancel ` | User cancels appointment |
 | `vama_appt_view_details ` | User clicks through the appointment details |
-| `vama_appts_page_warning ` | [debugging event](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/2273) |
 | `vama_apt_add_cal ` | Add appointment to calendar |
 | `vama_apt_cancel_clicks ` | user cancels appointment |
-| `vama_ttv_appt_details ` | not used in the app, but present in the data (legacy event) |
 | `vama_appt_deep_link_fail` | triggers when a deep link from a push notification fails |
 
 ## Claims
 
 | Event Name | Purpose |
 | -------- | ------- |
-| `vama_claim_call ` | not used in the app, but present in the data (legacy event) |
 | `vama_claim_cancel_1 ` | callback event associated with vama_evidence_cancel_1 |
 | `vama_claim_cancel_2 ` | callback event associated with vama_evidence_cancel_2 |
 | `vama_claim_details_exp ` | user expands accordion during a claim phase change |
@@ -45,7 +42,6 @@ Last updated: 4/29/2025
 | `vama_claim_submit_ev ` | Logged when a user accesses a claim details page with the submit evidence button available. |
 | `vama_claim_submit_tap ` | Navigte to submit evidence subtask screen |
 | `vama_claim_upload_compl ` | API call to upload returns a success for the file uploaded. **Note**: While the user can select more than one photo to upload, they are compiled into a single pdf for upload. |
-| `vama_claim_upload_fail ` | API call to upload returns a fail |
 | `vama_claim_upload_start ` | API call to upload is sent |
 | `vama_claim_why_combine ` | User triggers the "Find out why we sometimes combine claims" sheet |
 | `vama_request_details ` | Viewing file details |
@@ -60,7 +56,6 @@ Last updated: 4/29/2025
 
 | Event Name | Purpose |
 | -------- | ------- |
-| `vama_ddl_button_shown ` | not used in the app, but present in the data (legacy event) |
 | `vama_ddl_landing_click ` | User selects "Claim Letters" from the Claims landing screen |
 | `vama_ddl_letter_view ` | User views a letter |
 | `vama_ddl_status_click ` | User selects "Get Claim Letters" from the claim details screen |
@@ -191,7 +186,6 @@ Last updated: 4/29/2025
 | `vama_rx_refill_success ` | User's refill request went through successfully |
 | `vama_rx_request_confirm ` | confirm refill request |
 | `vama_rx_request_start ` | User starts a refill request |
-| `vama_rx_sort` | User clicks to open up sort options |
 | `vama_rx_status` | view refill status |
 | `vama_rx_trackdet` | user taps "get presciption tracking" option |
 | `vama_rx_trackdet_close ` | user closes the presciption tracking dialog box |
