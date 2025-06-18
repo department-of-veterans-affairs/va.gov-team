@@ -753,11 +753,13 @@ To resolve:
    
 ## Silent failures with BTSSS submission job
 
-Silent failures can also occur any time there is an error submitting a claim and a notification does not get sent.
+Silent failures occur any time there is an error submitting a claim and a notification does not get sent to the veteran.
 
 Silent failures are logged any time the BTSSS submission job fails and the subsequent notification job exceeds it retries. There is a monitor that will alert watchtower and #check-in-experience-apm channel on slack as well as anyone on pagerduty rotation.
 
 If it is found that silent failures have occured VTP is to be notified through the proper channels.
+
+If silent failures occur it is required that we contact effected veterans. Phone numbers can currently be derived from vetext logs. Following the process below.
 
 ### Proccess used to derive phone numbers from BTSSS error logs
 It is necessary to notify veterans who were impacted by the silent failures. To do that we can get phone numbers from the vetext logs by linking up certain fields from csv dumps from datadog.
