@@ -34,3 +34,4 @@ Please copy this template into a new GitHub issue to request A11y support 😊
 - [ ]  Formatted the GitHub issue title to include: [A11y]: Product - Feature - Request
 - [ ]  Set my project under "Projects"
 - [ ]  Added the `accessibility` label under "Labels"
+- [ ]  Assigned @bacitracin to this ticket
