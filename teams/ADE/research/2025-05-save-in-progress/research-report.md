@@ -288,7 +288,7 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
         - The participant checked the box below to certify and thought that was all that he needed to do.
           > *"I've already read this. I don't need to read this again" (p3).*
 
-
+- Only one participant said that they would prefer to be informed about errors differently--right after they leave a field, as opposed to after they click "Continue", so they know right away where the problem is. They also said that it's not really an issue with this form because it's so short (and the individual pages are short).
 
 
   
