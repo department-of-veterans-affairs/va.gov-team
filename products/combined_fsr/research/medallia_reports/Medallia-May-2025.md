@@ -224,7 +224,7 @@ Mode: 5, Strongly Agree
 
 ## Debt Portal Specific Feedback
 
-## VA.gov VFS Questionnaire
+## VA.gov VFS Questionnaire and A11 Questionnaire
 
 ## What task were you trying to do today?
 
@@ -234,9 +234,32 @@ Mode: 5, Strongly Agree
 
 > You're doing all this work and making all these supposed changes, however, all you have done is make things more difficult to get to where I want.  You haven't changed anything.  Everything that was accessible before is still accessible.  So what's the point?
 
+> hate the changes you made
+
+### Findability issues
+
+> I was looking for my balance of what I owe the VA for my meds. I finally found the info but it sur was alot of trouble locating it.
+
+### Payments are not up to date
+
+> The information shown is not up to date.
+
+### Issue: 'no debt' on portal (recurring issue, both VBA debts and copayments)
+
+> I received a letter in the mail, telling me I need to repay $4000, I cant afford this and I am trying to submit form 5655 along with a letter on the website, people at the VA number I called for debt relief told me to go to this website to do this but its telling me I have no debt... yet, they told me I need to do this by friday or I will have consequences. I am unable to submit the waiver for this. Please help me submit this form. my email is
+
+> The information on the page is incorrect.  It shows that I have NO debt to pat, but when I call they tell me I still have an education debt.
+
+> COPAY bill was never current or updated. As a retired Veteran , I always had to drive to VA Hospital  to find out my current status of my doctor's bill whether it's due or past due. On va.gov website , my copay bill was never current and was never updated .
+
+### Login issues
+
+> trying to pay medical copay, alot of information was miss placed, tried to correct to no avail. last time i tried to log on it said i didn;t have an account'
+
+
 ### Ideas for improvement
 
-#### Wantng to see all past debts
+#### Wanting to see all past debts
 
 > I would like to be able to see all past debts and payments I made. In 2025, it shouldn't take 4+ months to receive a printout of that. I should be able to log in and see it. It would most definitely reduce cost for the VA. Instead of paying people to send us the info, we could just log in and see our relevant account info. Why is that not an option? I feel like I'm back in the 1980s...
 
@@ -248,6 +271,12 @@ Double charged
 
 > Double charged $87 on my co-pay for prescriptions
 
+Difficulty understanding the payment system
+
+> it took a couple of min. to figure it out but its now I know how to open the page so I can make payments on my co pay
+
+> Making a payment is awful.  I have to fill out 3 pages of info every time - a WHOLE lot of numbers.
+
 ### Feedback specific to: <va.gov/manage-va-debt/summary/combined-statements>
 
 > Cannot see details or payment history of debt. Combined statement does not download either.
@@ -257,3 +286,7 @@ Double charged
 > The online portal is not very simple to use or navigate. I was trying to find out if I had a copayment due, and I am still trying to figure it out. I have a Bachelor degree in computer science and a masterâ€™s of science but I feel real dumb when I cannot figure out something that is so simple
 
 > Pay co-pay balance Hasn't been updated
+
+### Service Design issues
+
+> Very difficult to get a human being to speak with you over the phone in 
