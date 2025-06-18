@@ -53,7 +53,7 @@
 - **Format:** [Card component](https://design.va.gov/components/card)
 - [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5414-19152&t=cZLTEcVoQuXx90AV-1)
 - [Link to code]
-- **Content:** TBD
+- **Content:** See designs
 
 </details>
 
