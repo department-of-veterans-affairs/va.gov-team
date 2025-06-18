@@ -190,10 +190,10 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 |UX: Prepare the presention & present the R&S/Digital Dispute study readout |QP3 QP4|--|6/12/25|Completed|
 |UX: Complete the Monthly May Medallia report | QPX |--|6/17/25|Completed|
 |UX: Make updates to the designs based off the Midpoint review feedback for 1TPP (One Thing Per Page) | QP5 |--|6/17/25|Completed|
-|ENG: Complete the DD (Digital Dispute) PDF generation for submission functionality and review with UX to confirm design| QP4 |We are dependent on the System Team to assist with validation on a pull request.|6/18/25|Incomplete|
-|ENG: Front End to complete the functionality of sending the Back End PDF’s for DD submissions| QP4- |The above ENG goal needs to be complete before this can take place.|6/18/25|Incomplete|
+|ENG: Complete the DD (Digital Dispute) PDF generation for submission functionality and review with UX to confirm design| QP4 |Test suite issues - see more information below.|6/18/25|Incomplete|
+|ENG: Front End to complete the functionality of sending the Back End PDF’s for DD submissions| QP4 |The above ENG goal needs to be complete before this can take place.|6/18/25|Incomplete|
 |ENG: Back End to create an endpoint that can receive a PDF blob and other relevant data from the front end allowing the acceptance of the DD PDF submissions | QP4 |--|6/12/25|Completed|
-|ENG: Complete PSIRR (Privacy, Security, Infrastructure Readiness Review) Collab Cycle stage for DD | QP4 |Development took a priority over completing this in the sprint, it will be completed before the collab deadline.|6/18/25|Incomplete|
+|ENG: Complete PSIRR (Privacy, Security, Infrastructure Readiness Review) Collab Cycle stage for DD | QP4 |--|6/17/25|Completed|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [X] Ready to be sent for approvals (06/3/25)
@@ -203,7 +203,8 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
  
 **_Delivery + Notes:_**
 - [X] All goals have been updated in the sprint chart
-- [ ] Any Additional details about goals **not** completed will be documented here
+- [X] Any Additional details about goals **not** completed will be documented here
+  - For goal: ENG Complete the DD (Digital Dispute) PDF generation. We are dependent on a test suite to finish validation on this goal. The Cypress test suite for vets-website crashes both locally and in CI whenever code tries to import.
 
 ## Sprint Goals - Sprint: 11 [6/18/25 - 7/1/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
