@@ -51,7 +51,7 @@
    - If a user received the payment via direct deposit, then the date text will read "Deposited on" whereas if they received it via mailed paper check, the date text will read "Checked mailed on".
 - **Status code:** TBD
 - **Format:** [Card component](https://design.va.gov/components/card)
-- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5414-19152&t=cZLTEcVoQuXx90AV-1)
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5414-19238&t=cZLTEcVoQuXx90AV-1)
 - [Link to code]
 - **Content:** See designs
 
