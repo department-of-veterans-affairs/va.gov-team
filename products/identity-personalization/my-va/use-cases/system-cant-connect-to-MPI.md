@@ -3,7 +3,7 @@
 **Last updated: May 2025**
 
 - User flow
-- Figma files
+- [Figma files](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5294-36868&t=cZLTEcVoQuXx90AV-1)
 - Test Rail QA
 
 <details><summary>Archive | How to reproduce in staging</summary>
@@ -13,17 +13,15 @@
 </details>
 
 ## Phase 1, 3.0 experience
-- **Use case:** If this error occurs, the entire page will fail to load and the user will see a full page error
+- **Use case:** If this error occurs, the entire page will fail to load and the user will see a full page error.
 - **Status code:** TBD
+- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
+- [Link to code]
 - **Content:**
 
 Header: This page isn't available right now
 
 We’re sorry. Something went wrong on our end. Refresh this page or try again later.	
-
-- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
-- [Link to designs]
-- [Link to code]
 
 ---
 
