@@ -100,13 +100,27 @@ There are no flags with this feature.
 
 ### Errors
 
+<details><summary>The Lighthouse API is down and we can't display any debts or bills</summary>
+
+- **Use case:** If an LOA3 user logs in and there is an error with the Lighthouse API showing debts and copays, show a warning alert to the user in the card with a link to the debts tool.
+- **Status code:** TBD
+- **Format:** [Warning slim alert](https://design.va.gov/components/alert/#web-2)
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5416-47879&t=cZLTEcVoQuXx90AV-1)
+- [Link to code]
+- **Content:**
+
+We can’t access your debts and bills right now. We’re working to fix this problem. Please check back later.
+
+</details>
+
+
 <details><summary>The debts API is down and we can't display any overpayment debt information</summary>
 
-- **Use case:** If an LOA3 user logs in and there is an error with the debt API, show a warning alert to the user in the card with a link to the debts tool.
+- **Use case:** If an LOA3 user logs in and there is an error with the debt API (DMC), show a warning alert to the user in the card with a link to the debts tool.
 - **Status code:** TBD
 - **Format:** [Warning slim alert](https://design.va.gov/components/alert/#web-2)
 - [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5125-15744&t=cZLTEcVoQuXx90AV-1)
-- [Link to code]
+- [Link to code](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/debts/getDebts)
 - **Content:**
 
 We can’t access your debt information right now. We’re working to fix this problem. Please check back later.
@@ -116,11 +130,11 @@ We can’t access your debt information right now. We’re working to fix this p
 
 <details><summary>The copays API is down and we can't display any copay information</summary>
 
-- **Use case:** If an LOA3 user logs in and there is an error with the copay API, show a warning alert to the user in the card with a link to the debts tool.
+- **Use case:** If an LOA3 user logs in and there is an error with the copay API (VBS), show a warning alert to the user in the card with a link to the debts tool.
 - **Status code:** TBD
 - **Format:** [Warning slim alert](https://design.va.gov/components/alert/#web-2)
 - [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5416-19340&t=cZLTEcVoQuXx90AV-1)
-- [Link to code]
+- [Link to code](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/medical_copays/getMedicalCopays)
 - **Content:**
 
 We can’t access your copay information right now. We’re working to fix this problem. Please check back later.
