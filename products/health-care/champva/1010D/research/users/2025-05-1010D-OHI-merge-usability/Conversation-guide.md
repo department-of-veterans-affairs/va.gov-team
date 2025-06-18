@@ -1,4 +1,4 @@
-# Conversation Guide for 10-10EZR Confirmation Flow
+# Conversation Guide for 10-10D/10-7959c Merge Usability Test
 
 # Moderator logistics 📋✅
 ### Before all sessions
