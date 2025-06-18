@@ -15,6 +15,8 @@ New digital form complies with VA's v3 component styling
 
 ## Step 1: Development
 
+![Screenshot 2025-06-18 at 10 06 20 AM](https://github.com/user-attachments/assets/cd6f303b-d10d-4804-8cc3-e277f13aa922)
+
 
 All new vets-website apps and form apps use a value in content-build called vagovprod that gets turned from false to true to display on va.gov.
 
