@@ -72,7 +72,7 @@ There are no flags with this feature.
 
 - **Use case:** If an LOA3 user logs in and there is an error with the payments API show a warning alert, and hide the payment card. TBD Do we show the link to payment tool or just leave it when this shows? The link could be in the alert.
 - **Status code:** TBD
-- **Format:** [Warning alert component](https://design.va.gov/components/alert/#web-2)
+- **Format:** [Warning slim alert](https://design.va.gov/components/alert/#web-2)
 - [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5125-15183&t=cZLTEcVoQuXx90AV-1)
 - [Link to code]
 - **Content:**
