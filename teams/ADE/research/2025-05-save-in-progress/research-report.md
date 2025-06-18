@@ -5,9 +5,9 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Accessibility Digital Experience (ADE)**
 
-**Date:** 06/13/2025
+**Date:** 06/20/2025
 
-**Contacts:** Cindy Merrill, Jeana Clark
+**Contacts:** Cindy Merrill
 
 **[Link to Research Readout](link-here)**  
 
@@ -171,10 +171,13 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
 **Finding 3: ALL participants tried the *Finish later* button and from that learned that their information was saved**.
 - After the first time each participant clicked the *Finish later* button, they saw the "Your records request has been saved" message. Then when they returned to the form, they saw the information they had entered previously. This is how most participants learned that the *Finish later* button saved their information, and they (incorrectly) assumed that you had to click this button in order to save. 
   > *"I assume when it says 'Finish later', it does save what I've done so far. But that's an assumption...Okay, cool. It says that my personal record request has been saved" (p11).*
+
+  > *"Exactly where I left off" (p9).*
 - The "Your records request has been saved" message appears to be well positioned because ALL participants read it, unlike the two informational alerts. It appears at a time that users have intentionally stopped filling out the form and are wondering whether their work will be saved.
 - For the long break in filling out the form during the research sessions, 9 of 10 participants used the *Finish later* button--at least some because they were worried that their session might timeout and they would have to start over. One participant just left their browser open, which would have timed out if 30 minutes had passed but we didn't stop for that long during the research sessions. For the short break, 4 of 11 participants used *Finish later*, and the other 7 just left the browser open.
   > *"So maybe I hit finish later, because I don't want to start all over again...I think it's gonna save it. And then whenever I log back in, it should take me to the same spot" (p8).*
-  
+- 4 of 11 participants were unsure about what the *Finish later* button would do. Does it mean that you will quit for a while? Or skip the current page and proceed to the next page? Or save my current place in the form and the information I entered? 
+   > *"Finish later...does that mean I can walk away from it? Usually it means I'm quitting for awhile, but I don't know if it's just letting me skip this page...Maybe 'Stop and return later'?" (p3).*
 - One participant clicked *Finish later* accidentally and thought he was going to lose information entered, but then noticed that the form saved his work. He then assumed that his information was being constantly saved (not only when you click *Finish later*).
 - A different participant asked why *Finish later* is needed when we already said that it's saving everything. This was the only (CHECK THIS!) participant who learned from an information alert that we are saving all the time and remembered that later.
 
