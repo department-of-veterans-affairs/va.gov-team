@@ -11,10 +11,12 @@ Veterans can select known dependents from a picklist when verifying or removing 
 - Veterans are required to manually type in the names of dependents to remove or verify, even though these individuals are already on record with VA.
 - Manual entry increases cognitive load for Veterans and opens the door to small but critical typos (e.g. “John A. Smith” vs “Jon Smith”), which can trigger downstream claim routing errors or prevent automation.
 - Both usability and back-end reliability are being compromised by redundant and error-prone data entry.
+- Veterans who need to reinstate an inactive dependent (for example, a spouse removed after divorce but now re-married to the Veteran, or a child who aged out at 18 and is being added back via Form 674 for school attendance) must currently re-enter all personal details from scratch; this adds friction and creates new opportunities for data mismatches.
 
 ## Desired User Outcomes
 - Veterans can easily select existing dependents from a picklist and proceed with confidence that the information matches VA records.
 - Veterans experience less frustration and avoid redundant data entry when removing or verifying dependents.
+- Veterans can reinstate a previously inactive dependent by selecting the person—clearly marked as “inactive” with last-removed date—from the same picklist, avoiding any manual re-entry.
 
 ## Undesired User Outcomes
 - Veterans make unintentional errors when typing names, leading to delays or incorrect processing.
