@@ -1,5 +1,5 @@
-# Pre-Decisional Draft
-This research plan describes the objectives, methodologies, and research questions for upcoming research conducted by the Veteran Transition Experience product team. 
+# Pre-Decisional Research Plan Draft
+This research plan draft describes the objectives, methodologies, and research questions for upcoming research conducted by the Veteran Transition Experience product team. 
 
 # Research objectives
 
