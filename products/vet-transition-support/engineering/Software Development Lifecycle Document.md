@@ -34,66 +34,87 @@ This will be a living document that we can add to and edit throughout the projec
 
 #### Deployment process
 
-Our app follows the deployment conventions of the `vets-website` repository, in that changes in the `main` branch are deployed to production daily at 1 PM ET. It's recommended that changes be merged into the `main` branch by approximately 12 PM ET for the daily production deployment.
+Our app follows the deployment conventions of the `vets-website` repository—changes into the `main` branch are deployed to production daily at 1 PM ET. It's recommended that changes are merged into the `main` branch by 12 PM ET to be included in the daily production deployment.
 
-More importantly, our app is enrolled in [Staged Continuous Deployments](https://depo-platform-documentation.scrollhelp.site/developer-docs/continuous-deployment), which means we have the ability to deploy changes to production outside the daily production deployment band. Changes merged to `main` will always be deployed to the [dev](https://dev.va.gov) and [staging](https://staging.va.gov) environments. Following those deployments, the pipeline will pause, awaiting [manual approval](https://depo-platform-documentation.scrollhelp.site/developer-docs/continuous-deployment#StagedContinuousDeployment-Approvingyourapplication%E2%80%99sdeployment) for the production deployment of the app. This gives us the flexibility to deploy changes to production outside the daily deployment, without needing to request an out-of-band deployment from the platform team, while still allowing us to control when changes are deployed to production, giving us ample time for testing in staging.
+More importantly, our app is enrolled in [Staged Continuous Deployments](https://depo-platform-documentation.scrollhelp.site/developer-docs/continuous-deployment), which allows us to deploy to production outside the daily deployment window. Changes merged to `main` are automatically deployed to the [dev](https://dev.va.gov) and [staging](https://staging.va.gov) environments. After these deployments, the pipeline pauses, awaiting [manual approval](https://depo-platform-documentation.scrollhelp.site/developer-docs/continuous-deployment#StagedContinuousDeployment-Approvingyourapplication%E2%80%99sdeployment) before proceeding to production. This gives us the flexibility to: 
 
-_Note_: With staged continuous deployments, changes merged to `main` that aren't manually approved for production deployment will still be deployed in the next daily production deployment, so it is important to perform testing in staging before the next daily deployment, or programmatically hide the feature in production with a conditional environment check.
+- Deploy outside the daily production window without needing to request an out-of-band deployment.
+- Control when changes go to production.
+- Allow sufficient time for testing in staging before release.
+
+_Note_: If a change is merged into main but not manually approved, it will still be included in the next daily production deployment. To prevent untested changes from reaching production, ensure all testing is completed beforehand—or hide the feature in production using a conditional environment check or feature toggle.
 
 #### QA process
 
-Before any functional or content changes are merged to the `main` branch, they must be validated by at least 1 other member on the team, outside of engineering, e.g. Product, Design, etc. The changes in a pull request can be reviewed in a number of ways, some more technically involved than others, so it's important to use the tool that best fits your comfort.
+Before any functional or content changes are merged into the `main` branch, they must be validated by at least one other team member **outside of engineering** - for example, someone from Product, Design, or Research. There are several ways to review changes in a pull request, ranging from technical to non-technical. Choose the approach that best matches your comfort level and setup.
 
 ##### Running the branch locally
 
-This is the most technical approach to testing changes in a PR, as it requires your computer to be configured to run `vets-website`. This approach is only recommended for engineers or people who don't mind configuring their computer for local development. Instructions on setting up your computer for local development can be found [here](https://depo-platform-documentation.scrollhelp.site/developer-docs/run-and-build-va-gov-locally).
+This is the most technical approach and requires your machine to be configured to run `vets-website`. It’s typically used by engineers or others comfortable with local development environments. To get started, follow the [local development instructions](https://depo-platform-documentation.scrollhelp.site/developer-docs/run-and-build-va-gov-locally).
 
 ##### Review instances
 
-Although still more of a technical approach, once configured, fairly easy to use. A [review instances](https://depo-platform-documentation.scrollhelp.site/developer-docs/review-instances) is created for every PR in `vets-website`, allowing people to quickly see changes in that pull request. This requires [SOCKS  proxy access](https://depo-platform-documentation.scrollhelp.site/getting-started/accessing-internal-tools-via-socks-proxy), so there is a small amount of work required to get access, but once SOCKS has been configured on your computer, [accessing the review instance](https://depo-platform-documentation.scrollhelp.site/developer-docs/using-review-instances-to-preview-changes#Usingreviewinstancestopreviewchanges-ReviewingvisualorcontentchangestoVA.gov) is effortless.
+A [review instances](https://depo-platform-documentation.scrollhelp.site/developer-docs/review-instances) is automatically created for every pull request in `vets-website`, allowing people to quickly see changes in that pull request. Once SOCKS proxy access is configured, review instances make it easy to preview and test changes—especially for visual or content updates. This is a semi-technical option that works well for many people.
+
+- [Get SOCKS proxy access](https://depo-platform-documentation.scrollhelp.site/getting-started/accessing-internal-tools-via-socks-proxy)
+- [Access a review instance](https://depo-platform-documentation.scrollhelp.site/developer-docs/using-review-instances-to-preview-changes#Usingreviewinstancestopreviewchanges-ReviewingvisualorcontentchangestoVA.gov)
 
 ##### Codespaces
 
-Codespaces is an integrated development environment that can be access online. This can be used to host changes in a PR, allowing others public access to the changes. This doesn't require access to the SOCKS proxy, so this is a good option for showing changes to people without SOCKS proxy access, before merging to staging. There are [steps](https://depo-platform-documentation.scrollhelp.site/developer-docs/set-up-codespaces-for-development) involved in getting a codespace up and running, so this will most likely be configured by an engineer. More general information on codespaces can be found [here](https://depo-platform-documentation.scrollhelp.site/developer-docs/using-github-codespaces).
+[GitHub Codespaces](https://depo-platform-documentation.scrollhelp.site/developer-docs/using-github-codespaces) is a browser-based development environment that can host changes in a pull request for others to review, even if they don’t have SOCKS proxy access. This makes it a good option for sharing work with stakeholders or people who don't have SOCKS proxy access.
+While setup requires some technical steps (typically done by an engineer), it offers a flexible, public-friendly way to preview changes. 
 
-#### Adding large features
+- [Set up Codespaces for development](https://depo-platform-documentation.scrollhelp.site/developer-docs/using-github-codespaces)
+
+#### Adding Large Features
 
 ##### Overview
-When adding large features to the app, specifically features that require extensive testing, they should be hidden behind either a production environment check, or a feature toggle to ensure they only run in staging. 
+When introducing large features, especially those requiring extensive testing, they should be hidden behind either a production environment check or a feature toggle to ensure they're only active in staging until fully validated. 
 
 ##### Conditional rendering based on environment check
 
-The [isProduction](https://github.com/department-of-veterans-affairs/vets-website/blob/ba4af448866f5f7113ff2a14878f8ae5d0639735/src/platform/utilities/environment/index.js#L69-L77) environment utility function can be used to conditionally render changes in only staging ([example](https://github.com/department-of-veterans-affairs/vets-website/blob/237a35bb97fdc4e9ab12247d8f7c94d4e17cc1d7/src/applications/discover-your-benefits/config/form.js#L105)). This allows as much time as needed to test the changes in staging, without needing to worry about them being deployed to production in the daily deployment.
+Use the [isProduction](https://github.com/department-of-veterans-affairs/vets-website/blob/ba4af448866f5f7113ff2a14878f8ae5d0639735/src/platform/utilities/environment/index.js#L69-L77) utility to conditionally render changes in staging only ([example usage](https://github.com/department-of-veterans-affairs/vets-website/blob/237a35bb97fdc4e9ab12247d8f7c94d4e17cc1d7/src/applications/discover-your-benefits/config/form.js#L105)). This gives you as much time as needed to test the feature without risking an unintended production release.
 
-Once the feature has been thoroughly tested by the appropriate people, a pull request can be opened to remove the environment check. At this point, further testing should be done, to ensure the feature is still working as intended on the PR's branch before merging.
+Once the feature has been thoroughly tested by the appropriate team members, you can open a pull request to **remove the environment check**. Be sure to perform final testing on the PR branch before merging.
 
-Ideally, the PR removing the environment should be merged into the `main` branch at a time that doesn't conflict with the [daily production deployment](https://depo-platform-documentation.scrollhelp.site/developer-docs/deployments#Deployments-Automateddeploymentschedule) of `vets-website`. The reason for this is to allow enough time to perform an additional quick test of the feature in staging before the next daily production deployment takes place. Once changes have been confirmed working in staging, the changes can be manually approved to be deployed to production by one of the engineers on the team.
+To avoid deployment conflicts, try to merge the PR outside of the [daily production deployment window](https://depo-platform-documentation.scrollhelp.site/developer-docs/deployments#Deployments-Automateddeploymentschedule) (1 PM ET). This allows time for a quick verification in staging before the next scheduled deployment. After confirming the changes in staging, an engineer can manually approve the production deployment.
 
-_Note_: Out of band deployments can be requested by other contributors to the `vets-website` repository, so it is not guaranteed that changes pushed to the `main` branch won't be deployed until we manually approve the production deployment or the next daily deployment.
+_Note_: Out of band deployments can be requested by other contributors, so it's not guaranteed that change will stay in staging just because it hasn't been manually approved.
 
 ##### Feature toggles
 
-Feature toggles are a more robust way of managing feature releases in `vets-website`. Some of the added benefits of feature toggles are listed [here](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles-guide), but most notably, they allow dynamic toggling for features that use it. This means a pull request doesn't have to be made to turn a feature on in the production environment. That can be done via the Vets-API Flipper endpoints for [staging](https://staging.api.va.gov/flipper/features) and [production](https://api.va.gov/flipper/features). They require configuration in the [vets-api](https://github.com/department-of-veterans-affairs/vets-api/blob/master/config/features.yml) repository. There are documented instructions on how to add feature toggles to the [backend](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles-guide#FeatureTogglesGuide-Addinganewfeaturetoggle(backend)) and [frontend](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles-guide#FeatureTogglesGuide-Addinganewfeaturetoggle(frontend)). Both must be configured in order to use feature toggles.
+[Feature toggles](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles-guide) offer a more flexible and robust approach to managing feature rollouts in `vets-website`. 
+
+Some key benefits: of feature toggles are:
+
+- Enable or disable features dynamically without code changes.
+
+- Control visibility separately in staging and production.
+
+- Facilitate gradual rollouts or rollback plans.
+
+Toggles must be configured in both:
+
+- [Frontend](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles-guide#FeatureTogglesGuide-Addinganewfeaturetoggle(frontend))
+- [Backend (vets-api)](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles-guide#FeatureTogglesGuide-Addinganewfeaturetoggle(backend))
+
+They can be toggled via Flipper:
+
+- [Staging Flipper](https://staging.api.va.gov/flipper/features)
+- [Production Flipper](https://api.va.gov/flipper/features)
 
 ###### Using feature toggles for a rollout
 
-Once the feature has been thoroughly tested in staging, coordination with the product manager must happen to determine when the feature will be enabled in production. After the feature has been enabled in production at the agreed upon time, the feature flag should remain in the app for enough time to validate the performance of the feature in production. The duration of how long the feature toggle should remain should also be coordinated with the product manager, but ideally should not be longer than 4 weeks.
+Once the feature has been tested in staging, coordinate with the product manager to determine when to enable it in production. After enabling, keep the toggle in place for at least a few weeks to monitor behavior in production. The recommended maximum duration is 4 weeks, unless otherwise agreed upon.
 
 ###### Cleaning up unused feature toggles
 
-After the feature has been validated as working correctly in production and the appropriate amount of time has passed, the feature toggle should be removed to prevent tech debt from accumulating.
+Once the feature is validated and considered stable, remove the toggle to reduce tech debt.
+See: [Toggle Cleanup Instructions](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles-guide#FeatureTogglesGuide-Removingold/unusedfeaturetoggles).
 
-For instructions on removing a feature toggle, read the platform documentation of [toggle cleanup](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles-guide#FeatureTogglesGuide-Removingold/unusedfeaturetoggles).
+##### Choosing Between Environment Check and Feature Toggle
 
-##### Deciding between environment check or feature toggle
-
-When deciding whether to use a feature toggle or conditionally render the feature based on an environment check, there are a few things to consider.
-
-- Do we anticipate needing to disable the feature in production if an issue arises?
-- Is this something that only needs to be on staging for a short time to allow more extensive testing?
-- Is the feature solely a proof of concept that won't be released to production in the near future?
-
-Here's a table listing different scenarios and the appropriate tool to use:
+When deciding whether to use an environment check or a feature toggle, consider the following:
 
 | Scenario                                                                 | Use Feature Toggle | Use Environment Check |
 |--------------------------------------------------------------------------|--------------------|------------------------|
@@ -112,14 +133,26 @@ Here's a table listing different scenarios and the appropriate tool to use:
 
 #### Adding minor changes
 
-Small changes such as content updates, minor bug fixes, etc. do not need to be hidden behind an environment check before being merged. They should be tested within the PR using one of the supported QA methods listed above. 
+Minor changes—such as content updates, small UI tweaks, and minor bug fixes—**do not need to be gated** behind an environment check or feature toggle.
 
-Once the changes have been validated in the PR, they can be merged into the `main` branch and verified on staging before approving the production deployment for the commit. It's not as critical to coordinate merging these type of changes around the daily deployment, since they would have already been validated in the PR. 
+These changes should be tested within the pull request using one of the supported [QA methods](#qa-process) listed above.
+
+Once validated, the PR can be merged into the `main` branch. After merging:
+
+- Confirm the changes in the **staging environment**.
+- Approve the production deployment when you're confident in the changes.
+
+Since these changes are low-risk and already reviewed, it's not critical to coordinate the merge around the daily production deployment window.
 
 #### Tracking changes in environments
 
-To keep track of what changes have been deployed to staging and production, you can use the [Frontend Support Dashboard](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/frontend-support-dashboard/). This dashboard gives an overview of the most recent 30 commits in the `vets-website` repository. The commits with the lightning bolts besides them signifies changes it was deployed via staged continuous deployment.
+To monitor what changes have been deployed to **staging** and **production**, use the [Frontend Support Dashboard](https://department-of-veterans-affairs.github.io/veteran-facing-services-tools/frontend-support-dashboard/). This dashboard shows the **30 most recent commits** to the `vets-website` repository.
 
+Look for:
+
+- ✅ Commits listed by SHA and description.
+
+- ⚡️ A lightning bolt icon, which indicates that the commit was deployed via Staged Continuous Deployment.
 
 ### Work Reprioritization
 - Things that change mid-sprint
