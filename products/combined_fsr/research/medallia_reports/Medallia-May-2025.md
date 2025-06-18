@@ -14,7 +14,19 @@
 |Users Trust in the VA's Commitment to Veterans  | **71.6%, N = 162**| **64.01%** | 57.76% |
 |Users Trust in the VA in General  | **50.3% N = 163** | **33.33%** | 34.18% |
 
-* Manually calculated with Excel spreadsheet for both debt portal and FSR pages
+*Table above manually calculated with Excel spreadsheet for both debt portal and FSR pages*
+
+## Monthly comparison of CSAT scores for May 2025 compared to April 2025
+
+| Survey Question | Financial Management Pages May 2025 CSAT Scores | Financial Management Pages April 2025 CSAT Scores  | 
+|--|--|--
+|VA.gov Experience Rating  |  **67.08%, N = 79** | **71.18%, N = 59** | 
+|Overall User Satisfaction With the Site  | **17.94%, N = 39** | **35%, N = 108** | 
+|Users Understanding of the VA.gov Website  | **69.01%, N = 71**| **75.47%, N = 53**|
+|Users Trust in the VA's Commitment to Veterans | **71.6%, N = 162** | **68%, N = 116**| 
+|Users Trust in the VA in General  | **50.3% N = 163** | **55.17% N = 116** | 
+
+*Table above showing CSAT scores for both debt portal and FSR pages*
 
 # FSR Custom Survey and VFS Survey (FSR feedback)
 
