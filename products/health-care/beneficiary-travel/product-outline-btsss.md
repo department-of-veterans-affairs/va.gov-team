@@ -86,6 +86,7 @@ Staff travel clerks often have to take manual steps to fix, validate, and proces
     - [Now Released](https://staging.va.gov/my-health/appointments/past  
 - Claim Details v2 (Appealing a denied claim) - [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/initiatives/claim_details_v2/claim_details_v2_initiative_brief.md)
 - Complex Claims - [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/initiatives/claim_details_v2/claim_details_v2_initiative_brief.md)
+- Claim Details Screen on VAHB - [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/initiatives/claim-details-mobile/claim-details-mobile-screen.md)
 
 --- 
 
@@ -108,6 +109,8 @@ Staff travel clerks often have to take manual steps to fix, validate, and proces
   - April 21, 2025
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
   - June 2025
+
+
 
 ---
 
