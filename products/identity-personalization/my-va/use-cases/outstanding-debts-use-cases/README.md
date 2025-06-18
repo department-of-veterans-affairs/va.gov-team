@@ -26,7 +26,21 @@
 
 ## Common use cases
 
-<details><summary>User does not have any outstanding VA debt</summary>
+<details><summary>User has never had any outstanding debts or copays</summary>
+
+- **Use case:** If a logged in LOA3 user has no history of outstanding debts or copays they receive a message informing them they don't have any and a link to the general debts and copays tool.
+- **Status code:** TBD
+- **Format:** [Card component](https://design.va.gov/components/card)
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5125-15049&t=cZLTEcVoQuXx90AV-1)
+- [Link to code]
+- **Content:** See designs
+
+</details>
+
+
+### Overpayment debts
+
+<details><summary>User does not have any outstanding VA debts</summary>
 
 - **Use case:** If a logged in LOA3 user does not have any debt in the combined debt portal or their total debt equals 0, they will see a card informing them that they have no outstanding debts.
 - **Status code:** TBD
@@ -42,13 +56,15 @@
 
 - **Use case:** If a logged in LOA3 user has any outstanding overpayment debts in the debt portal, they will see a card in this section that tells them how many overpayment debts they have, the date this information was last updated, and a link to the debts page of the combined debt portal.
 - **Status code:** TBD
-- **Content:** TBD
 - **Format:** [Card component](https://design.va.gov/components/card)
-- [Link to designs]
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5414-19238&t=cZLTEcVoQuXx90AV-1)
 - [Link to code]
+- **Content:** TBD
 
 </details>
 
+
+### Copays
 
 <details><summary>User does not have any outstanding copays</summary>
 
@@ -66,51 +82,48 @@
 
 - **Use case:** If a logged in LOA3 user has any outstanding copay debts in the debt portal, they will see a card in this section that tells them how many copay debts they have, the date this information was last updated, and a link to the copays page of the combined debt portal.
 - **Status code:** TBD
-- **Content:** TBD
 - **Format:** [Card component](https://design.va.gov/components/card)
-- [Link to designs]
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5414-19238&t=cZLTEcVoQuXx90AV-1)
 - [Link to code]
+- **Content:** TBD
 
 </details>
 
 
 ## Edge cases
 
-### Flags
-There are no flags associated with this feature.
+### Validation
+This feature has no validation use cases.
 
-### System
+### Flags
+There are no flags with this feature.
+
+### Errors
 
 <details><summary>The debts API is down and we can't display any overpayment debt information</summary>
 
-- **Use case:** If an LOA3 user logs in and there is an error with the debt API, show a warning alert to the user, do not show the overpayment debts card. The alert is placed where the copay debts card typically is. TBD
+- **Use case:** If an LOA3 user logs in and there is an error with the debt API, show a warning alert to the user in the card with a link to the debts tool.
 - **Status code:** TBD
+- **Format:** [Warning slim alert](https://design.va.gov/components/alert/#web-2)
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5125-15744&t=cZLTEcVoQuXx90AV-1)
+- [Link to code]
 - **Content:**
 
-Header: We can't access some of your financial information.
-
-We're sorry. We can't access some of your financial information right now. We're working to fix this problem. Please check back later.
-
-- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
-- [Link to designs]
-- [Link to code]
+We can’t access your debt information right now. We’re working to fix this problem. Please check back later.
 
 </details>
 
 
 <details><summary>The copays API is down and we can't display any copay information</summary>
 
-- **Use case:** If an LOA3 user logs in and there is an error with the copay API, show a warning alert to the user, do not show the copay debts card. The alert is placed where the copay debts card typically is. TBD
+- **Use case:** If an LOA3 user logs in and there is an error with the copay API, show a warning alert to the user in the card with a link to the debts tool.
 - **Status code:** TBD
+- **Format:** [Warning slim alert](https://design.va.gov/components/alert/#web-2)
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5416-19340&t=cZLTEcVoQuXx90AV-1)
+- [Link to code]
 - **Content:**
 
-Header: We can't access some of your financial information.
-
-We're sorry. We can't access some of your financial information right now. We're working to fix this problem. Please check back later.
-
-- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
-- [Link to designs]
-- [Link to code]
+We can’t access your copay information right now. We’re working to fix this problem. Please check back later.
 
 </details>
 
