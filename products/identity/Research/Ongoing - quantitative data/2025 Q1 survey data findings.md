@@ -226,7 +226,7 @@ VAgov's Medallia Feedback Data for February and March 2025 shows a significant i
 * Keep getting sent back to sign in page  
 * "i've been trying to sign into my VA portal and it just keeps going around and around"  
 * Rx page wont load  
-* \[possibly interstitial\] "I signed in through Login.gov. And I got in… but I am asked to sign in again or set up an account. Why do I need to sign in again?"  
+* "I signed in through Login.gov. And I got in… but I am asked to sign in again or set up an account. Why do I need to sign in again?"  
 * "I logged into MyHealthEvet... it required a 5 digit code... this was texed to me...I entered it: then it took me to a page to RE LOG IN" \[Survey taken on help article page about creating account, that is linked from the sign in page though we don't know if that was the path traveled in this case.\]  
 * "your sign in just goes round and round.login with password and it goes right back to sign in page." \[Survey taken on help article page about creating account, that is linked from the sign in page though we don't know if that was the path traveled in this case.\]  
 * verify loop? " login.gov keeps throwing you in a loop where you need to verify at the post office, on-line, etc."  
