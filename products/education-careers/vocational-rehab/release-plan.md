@@ -16,10 +16,7 @@ New digital form complies with VA's v3 component styling
 ## Step 1: Development
 
 
-| Toggle name | Description |
-| ----------- | ----------- |
-|  |  |
-|  |  |
+All new vets-website apps and form apps use a value in content-build called vagovprod that gets turned from false to true to display on va.gov.
 
 
 ## Production rollout
@@ -30,7 +27,6 @@ We will be performing a direct cutover with the new form while taking the place 
 
 > - Our PM will monitor analytics. If they see a spike in errors or unexpected behavior, they will contact the engineering team to get the FE engineer to disable the toggle.
 
-### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
 #### Planning
 
