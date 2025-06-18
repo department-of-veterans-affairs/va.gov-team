@@ -216,19 +216,7 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
     - Moved up and down with arrow keys on keyboard with his left hand. When he wanted to continue reading across the page, he moved the mouse sideways with his right hand, but *not* for every line. Skimmed down the page while not all the words across are in his view, and he assumed what it said--often accurately but sometimes not.
 
 
-
-**WRITE ABOUT:**
-
-SM navigation
-- sees very little of screen
-- down arrow and sideways
-- 2 buttons stacked like on mobile even tho on desktop
-- navigate quickly w/o seeing whole line
-
-
-
-
-**Finding X: Accessibility issues were discovered with this form in particular**
+**Finding X: Accessibility issues were discovered with this specific form**
 
 - Two screen reader users (1 using JAWS and desktop, and 1 using VoiceOver on mobile) had difficulty entering their date of birth on the phone.
   - The desktop screen reader user tried to type date of birth into the date of birth month field because he stopped the screen reader before it announced that the field was a popup.
@@ -270,7 +258,11 @@ SM navigation
      See [screenshot of the bottom of the Review/Submit page](URL).
     > *"I heard it about 4 times there...I'm not sure why they put it both before and after my name...That's the kind of thing that causes me to rush through the repeats and maybe miss something. If something is only present once, then I have a much better chance of paying attention to it" (p3).*
 
-
+**Finding X: Most participants who encountered errors understood how to resolve them, but there were some exceptions** 
+1. 9 of 11 participants encountered errors while they were filling out the form, and most of them understood what they meant and what they needed to do to fix them.
+   > *"Tells me where I screwed up" (p13).*
+   > *"That's awesome...I like that. It caught it" (p9).*
+1. 
 
 - _Supporting data: ![text](link - add image to github folder and link here with .png)_  
 
