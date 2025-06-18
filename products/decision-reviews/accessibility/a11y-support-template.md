@@ -16,8 +16,9 @@ Please copy this template into a new GitHub issue to request A11y support 😊
 
 - [ ]  A11y auditing & testing
 - [ ]  Collaboration Cycle accessibility testing artifact
-- [ ]  A11y training
 - [ ]  PR Review - *No need to fill this ticket out, just tag me as a reviewer*
+- [ ]  A11y training
+- [ ]  Office Hours / Deep Dive
 
 ## Background
 - **Team name:**
@@ -34,3 +35,4 @@ Please copy this template into a new GitHub issue to request A11y support 😊
 - [ ]  Formatted the GitHub issue title to include: [A11y]: Product - Feature - Request
 - [ ]  Set my project under "Projects"
 - [ ]  Added the `accessibility` label under "Labels"
+- [ ]  Assigned @bacitracin to this ticket
