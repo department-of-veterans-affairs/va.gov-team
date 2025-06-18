@@ -79,6 +79,7 @@ Fetch all claims page by page until the `totalRecordCount` == `claims.count` in 
 #### Pros
 - One API call, no FE changes needed
 - Processing all done in API
+- Sorted by default newest > oldest, so if user reverses the sort order all claims will be present and accounted for
 
 #### Cons
 - Potential for significant performance issues during multiple calls to the TP API claims endpoint
@@ -93,6 +94,7 @@ Fetch all claims in the date range set by the FE. If more claims than can be dis
 #### Cons
 - New endpoint needed in `vets-api` to retrieve claims by date range (rather than all claims)
 - Need to add pagination params to both BE (in the response) and in the FE API request.
+- If we only return x number of claims, newest > oldest, but the user reverses the sort on the FE, can add complexity to pagination
 
 
 ## Decision Outcome
