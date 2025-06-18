@@ -185,13 +185,13 @@ Our intended audience are Veterans. We will partner with Perigean to recruit ass
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
 
-- `07/29, Tue, 10:00AM-7:00PM EST`
-- `07/30, Wed, 10:00AM-7:00PM EST`
-- `07/31, Thu, 10:00AM-7:00PM EST`
-- `08/01, Fri, 10:00AM-7:00PM EST`
-- `08/04, Mon, 10:00AM-7:00PM EST`
-- `08/05, Tue, 10:00AM-7:00PM EST`
-- `08/06, Wed, 10:00AM-7:00PM EST`
+- `7/29, Tue, 10:00AM-7:00PM EST`
+- `7/30, Wed, 10:00AM-7:00PM EST`
+- `7/31, Thu, 10:00AM-7:00PM EST`
+- `8/01, Fri, 10:00AM-7:00PM EST`
+- `8/04, Mon, 10:00AM-7:00PM EST`
+- `8/05, Tue, 10:00AM-7:00PM EST`
+- `8/06, Wed, 10:00AM-7:00PM EST`
   
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
