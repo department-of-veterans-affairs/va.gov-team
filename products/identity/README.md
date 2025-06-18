@@ -8,7 +8,7 @@ The OCTO Identity team manages the authentication integration for VA.gov. We wor
 
 | Initiatives | Status | Benefit |
 |--------------|--------|---------|
-| [Sign-In Transition: DS Logon Deprecation](https://github.com/department-of-veterans-affairs/identity-documentation/issues/15) | Now | Improves Veteran sign-in experience and security by consolidating to modern credentials |
+| [Sign-In Transition: DS Logon Deprecation](https://github.com/department-of-veterans-affairs/identity-documentation/issues/15?issue=department-of-veterans-affairs%7Cidentity-documentation%7C94) | Now | Improves Veteran sign-in experience and security by consolidating to modern credentials |
 | [Post-MHV Deprecation Work](https://github.com/department-of-veterans-affairs/identity-documentation/milestone/4) | Now | Ensures continuity and secure access for Veterans post-MHV deprecation |
 | [Production Test Account Replacement Recommendations](https://github.com/department-of-veterans-affairs/identity-documentation/milestone/12) | Now | Provides secure testing and training options for internal VA teams and contractors after MHV sunset |
 | [Delegate Access on VA.gov](https://github.com/department-of-veterans-affairs/identity-documentation/milestone/3) | Now | _To be added_ |
