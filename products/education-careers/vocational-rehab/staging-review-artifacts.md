@@ -1,7 +1,7 @@
 # Chapter 31 Staging Review Artifacts  
 
 ### Staging URL
-(https://staging.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/start)
+([https://staging.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/start](https://staging.va.gov/temporary/apply-vre-form-28-1900/introduction ))
 ### Test Users & scenarioes
 -  LOA3 user who does not have a current Save In Progress VR&E application - vets.gov.user+54@gmail.com | 242SsNrLgPv5
 -  LOA3 user who does not have a current Save In Progress VR&E application - vets.gov.user+7@gmail.com | 177SsNrLgPv5
@@ -19,7 +19,7 @@
 - With this form update, we had to build a net new form.  Therefore, there were no changes made to the current form where we would need to regression test.  But, we have tested the new form build with the existing API endpoint and the new API endpoint with success.
 
 ### Test Plan
-- We will be enabling feature toggle `xxx` for 100% of users. At release we will manually verify and document all aspects of the product including the following test scenarios. All of these have been verified in Staging.
+- All new vets-website apps and form apps use a value in content-build called vagovprod that gets turned from false to true to display on va.gov. At release we will manually verify and document all aspects of the product including the following test scenarios. All of these have been verified in Staging.
    - As a Veteran, I want to hace a positive experience when completing the online form. - happy path, successful submission of application.
    - As a Veteran, I don't want to encounter a failed submission, but if that were to happen, I would want to be notified if an alternate submission was not successful.
    - As a Veteran, I would want the online form to be accessibility friendly.
@@ -31,14 +31,14 @@
 - N/A
 
 ### E2E Tests
-- Our end-to-end tests perform the required accessibility check and live here: `xxx`
+- Our end-to-end tests perform the required accessibility check and live here: `[Ch31 E2E Tests](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/new-28-1900/tests/e2e)`
 
 ### Unit Test Coverage
 - We have met the 80% minimum requirement. Here are the percentages:
-    - Lines = %
-    - Functions = %
-    - Statements = %
-    - Branches = %
+    - Lines = 95.55%
+    - Functions = 94.59%
+    - Statements = 95.74%
+    - Branches = 88.57%
  
 ### Endpoint Monitoring
 - Playbook is linked here: 
