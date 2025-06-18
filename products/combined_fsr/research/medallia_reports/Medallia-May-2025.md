@@ -156,7 +156,6 @@ Misc:
 
 > HOLD THE VA EMPLOYEES RESPONSIBLE FOR THEIR MISTAKES/INTENTIONAL ABUSES OF VETERANS, such as was done to me.
 
-N = 4
 
 ### Notable feedback about optimizing UX efficiency on form, navigation, and findability of the form
 
