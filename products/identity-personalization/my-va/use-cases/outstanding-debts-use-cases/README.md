@@ -3,7 +3,7 @@
 **Last updated: June 2025**
 
 - User flow
-- Figma files
+- [Figma files](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5393-14219&t=cZLTEcVoQuXx90AV-1)
 - Test Rail QA
 
 <details><summary>Archive | How to reproduce in staging</summary>
@@ -22,19 +22,18 @@
 - Outstanding debts encompasses overpayment debts and copay debts.
    - Overpayment debts occur when a user is overpaid for VA benefits. This can happen for a variety of reasons, but an example is when a Veteran doesn't update their dependency information and is paid more for their VA benefits than they are entitled to. The Veteran then owes this money back to VA as an overpayment debt.
    - A copay debt is an amount that a Veteran must pay for VA health care services, similar to how copays work with private health insurance. This amount varies depending on a Veteran's health care benefits through VA.
-- This feature on My VA gives the user an overview of their outstanding debts, if there are any to show, and links them to the combined debt portal.
 
 
 ## Common use cases
 
 <details><summary>User does not have any outstanding VA debt</summary>
 
-- **Use case:** If a logged in LOA3 user does not have any debt in the combined debt portal or their total debt equals 0, they will see ... TBD
+- **Use case:** If a logged in LOA3 user does not have any debt in the combined debt portal or their total debt equals 0, they will see a card informing them that they have no outstanding debts.
 - **Status code:** TBD
-- **Content:** TBD
 - **Format:** [Card component](https://design.va.gov/components/card)
-- [Link to designs]
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5125-15049&t=cZLTEcVoQuXx90AV-1)
 - [Link to code]
+- **Content:** See designs
 
 </details>
 
@@ -47,6 +46,18 @@
 - **Format:** [Card component](https://design.va.gov/components/card)
 - [Link to designs]
 - [Link to code]
+
+</details>
+
+
+<details><summary>User does not have any outstanding copays</summary>
+
+- **Use case:** If a logged in LOA3 user does not have any copays in the combined debt portal or their total copays equals 0, they will see a card informing them that they have no copays.
+- **Status code:** TBD
+- **Format:** [Card component](https://design.va.gov/components/card)
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5125-15049&t=cZLTEcVoQuXx90AV-1)
+- [Link to code]
+- **Content:** See designs
 
 </details>
 
