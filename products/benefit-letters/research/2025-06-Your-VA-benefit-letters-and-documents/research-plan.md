@@ -1,3 +1,5 @@
+# Research Plan for Your VA benefit letters and documents research study
+
 ## Background 🏗️
 
 `What problem is your product trying to solve?`
@@ -103,7 +105,7 @@ Where will you be holding the research sessions?
 
 ### Recruitment approach
 
-Our intended audience are Veterans. We will partner with Perigean to recruit Veterans. We request a 30-minute kickoff meeting with Perigean.
+Our intended audience are Veterans. We will partner with Perigean to recruit assistive tech (AT) Veterans and non-AT Veterans. We request a 30-minute kickoff meeting with Perigean.
 
 ### Recruitment criteria
 
@@ -119,23 +121,30 @@ Our intended audience are Veterans. We will partner with Perigean to recruit Vet
 > [!NOTE]
 > Your total number should equal **1.5x** your ideal completed sessions number *(e.g. for 10 ideal completed sessions, request 15 total participants)*
 
-- `Veterans:` **10**
+- `Veterans:` **12**
 - `Caregivers:` **0**
 - `Dependents:` **0**
-- `Total:` **15**
-- `Ideal completed sessions:` **10**
+- `Total:` **18**
+- `Ideal completed sessions:` **12**
 
 ### Primary criteria (must-haves)
 *What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
 
-- All participants must be Veterans
-- Veterans who have experience with VA.gov
-- Veterans who have at least received a Benefit Summary and Service Verification Letter
-- During the session, the participant will have a stable internet connection and be willing to share a web browser window on their device.
-- Have Zoom downloaded to their device before the session and know how to share their screen
-- 2 of 10 participants are AT users: All must be on a computer or iOS mobile device that already utilizes screen reader technology.
-  - Desktop AT user (Jaws or NVDA)  (1)
-  - Mobile AT user  (iOS voice over)  (1)
+- 6 are AT users
+  - 3 must use a screen reader every time they access the internet
+  - 2 or 1 uses a screen magnifier every time they access the internet
+  - 2 or 1 uses a voice command to access the internet
+- 6 are non-AT users
+  - At least 3 have a computer and are willing to use it for the session
+  - At least 3 have a smartphone and are willing to use it for the session
+- ALL
+  - Must be Veterans and have experience with VA.gov
+  - Have received a Benefit Summary and Service Verification Letter
+  - Have Zoom downloaded to their device prior to the session and know how to share their screen 
+  - Are willing to share over Zoom a web browser window 
+  - Have a working microphone on their device
+ 
+  
 
 #### Secondary criteria (nice-to-haves)
 *What criteria would strengthen your results?* 
@@ -166,14 +175,14 @@ Our intended audience are Veterans. We will partner with Perigean to recruit Vet
 - `Date and time of pilot session:` **[Enter time]** 
 
 ### Research sessions
-- `Planned dates of research:` **07/29-08/05**
+- `Planned dates of research:` **07/29-08/06**
 
 ### Length of sessions
-- `Session length:` 1 hour for non-AT users / 1.5 hours for AT users
+- `Session length:` 60 minutes for non-AT users / 90 minutes for AT users
   
-- `Buffer time between sessions:` 1 hour
+- `Buffer time between sessions:` 30 min
   
-- `Maximum Sessions per day:` 3 sessions per day
+- `Maximum Sessions per day:` 3
 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
@@ -184,22 +193,19 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 - `08/01, 10:00AM-5:00PM EST`
 - `08/04, 10:00AM-5:00PM EST`
 - `08/05, 10:00AM-5:00PM EST`
+- `08/06, 10:00AM-5:00PM EST`
   
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
 > **Please list the names of people in each role.** In the Slack study channel, send an email and primary phone number for the moderator. Also send emails for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
 
 - `Moderator:` **Shawn Collins**	
-- `Research guide writing and task development (usually but not always same as moderator):` **Shawn Collins**		
-- `Participant recruiting & screening:`	**Shawn Collins**	
+- `Research guide writing and task development (usually but not always same as moderator):` **Shawn Collins & Julie Strothman**		
+- `Participant recruiting & screening:`	**Perigean**	
 - `Project point of contact:` **Shawn Collins**		
-- `Accessibility specialist (for sessions where support for assistive technology may be needed):` **Trevor Pierce**	
-- `Note-takers:` **Rick Allen**	
-- `Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work. Spread observers across sessions. There should be no more than 5 to 6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side.`
-
-- **[Enter full name]**
-- **[Enter full name]**
-- **[Enter full name]**
+- `Accessibility specialist (for sessions where support for assistive technology may be needed):` **ADE Team**	
+- `Note-takers:` **Perigean**	
+- `Observers: We will have a sign-up so we can limit the number of observers per session, and Shawn will add them to the invites that he receives from Perigean.
 
 ## Approvals ✅
 - `Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]`
