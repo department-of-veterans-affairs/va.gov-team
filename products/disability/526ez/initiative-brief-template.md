@@ -94,7 +94,16 @@ Contention Classification ML Model will supplement the current non-ML classifica
 
 > *What have you explicitly decided to **not** include and why?*
 
-This is not including improved performance of contention classification. This is to prove that the expansion of adding on the ML Model does not adversely affect the Contention Classification API metrics. 
+This is not looking for performance improvement from the ML Model. This is to prove ML model addition does not adversely impact the contention classification. We are looking to maintain the Contention Classification Coverage.
+1. All Contentions
+ 1. % Classification Coverage (New and Increase)
+ 1. 73.4 %
+1. New Contentions
+ 1. % Classification Coverage for New Contentions
+ 1. 70.4 %
+1. Increase Contentions
+ 1. % Classification Coverage for Increase Contentions
+ 1. 87.9 %
 
 > *How does this solution address your Assumptions & Risks?
 
