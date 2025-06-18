@@ -35,6 +35,9 @@
 ## Roadmap
 ### Done (recently)
 - Completed [concept testing](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/dependents/research/2025-02-dependents-verification-mvp-research) for the [MVP prototype](https://www.figma.com/design/bvj72inycD0iZkuCbjYTWL/Dependent-Verification-MVP?node-id=59-960&t=yWIz3IUP2uFChYib-0) of dependent verification tool. Intent is to capture “no changes to dependents” through an online tool on VA.gov and submit a 21-0538 (dependent verification) form on the Veteran’s behalf.
+     - Understand the Veteran’s mental model of dependent verification on VA.gov and their expectations for finding tools and completing tasks around dependent management.
+     - Validate the usability of our 0538 email notification and va.gov designs to determine whether they provide a clear path for verifying and updating dependents, and identify any areas where they might impede the Veteran's ability to complete tasks.
+     - Understand how the flow, designs, and copy impact the Veteran’s understanding of the task.
 - [Met with CAIA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84170) in January 2025 to discuss [IA of dependent experience](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709582312238/ae3de21fd188beba8c28668ee37a31841c6203bf?wid=91-1737736233308) and [improvement opportunities](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709582312238/ae3de21fd188beba8c28668ee37a31841c6203bf?wid=522-1737736233308).
 
 ### Now
