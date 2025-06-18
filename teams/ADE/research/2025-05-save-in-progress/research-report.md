@@ -270,12 +270,28 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
         > *"I guess if they didn't like the social security number, it's asking for a file number. I'm not sure, because it says you only need one. It looks like it took the social security number. Didn't say it was bad. It did say error as I started typing...I'm not sure what it's upset about" (p3).*
 
         > *"I got a little frustrated...My fingers don't always work right, and I usually hear any mistakes I make...I didn't catch that until I slowed down and looked at what was actually there" (p3).*
-     1. On the Review/submit page, the participant didn't enter his name, and the error didn't make clear that the name it says is what you need to type. He assumed that it was already entered correctly, based on what the error said: "Your full name star required. Please enter your name as it appears on your application: Joe X. Smith." JAWS didn't announce the blank edit field for the Name with a label (but only a single beep?). Also, the error put focus up to the Note about federal law and criminal penalities, rather than on the name field itself. 
+     1. On the Review/submit page, the participant submitted the form without entering his full name, and he wasn't able to correct the error on his own because of several issues:
+        - The error brought focus to the beginning of the component instead of the *Your full name* field, which is required.
+        - A LOT of text was read aloud before finally getting to the error message at the end (this is a repeat of the verbose text that the participant heard before submitting the form):
+          > Note: According to federal law, there are criminal penalties, including a fine and/or imprisonment for up to 5 years, for withholding information or for providing incorrect information (Reference: 18 U.S.C. 1001).
+
+          > Statement of truth
+
+          > I confirm that the identifying information in this form is accurate and has been represented corretly.
+
+          > I have read and accept the privacy policy (opens in a new tab).
+
+          > Your full name star required
+
+          > Please enter your name exactly as it appears on your application: Joe X Smith
+        - The participant thought that his name was entered correctly because it was read aloud. He didn't realize that the error text was instructing him to type that name into a field.
+        - The participant checked the box below to certify and thought that was all that he needed to do.
+          > *"I've already read this. I don't need to read this again" (p3).*
 
 
-     
 
 
+  
 
 
 - _Supporting data: ![text](link - add image to github folder and link here with .png)_  
@@ -318,10 +334,13 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
 2. Research focus issues with VoiceOver while getting into and out of the date of birth Month field. See if the issue can be fixed.
     - *Supporting evidence: Focus was on the Month field, but what p4 typed ended up in the Last name field. And when p4 was done picking the Month, focus was moved to the very top of the page.*
 3. Research announcing issues with JAWS where it says "has popup" for the State/Province/Region and Postal code text fields. See if the issue can be fixed.
+4. On the Review/Submit page, the error handling for the *Your full name* field should be streamlined so that (1) focus goes to the name field (vs. the top of the component), and (2) the error message is announced immediately (vs. after two repetitions of most of the text in the component). 
+    - *Supporting evidence:* This is so verbose for screen reader users that they perceive it as multiple repetitions of the same information and so they don't listen carefully to the very end that describes how to fix the error.
+
 
 ### Recommendation: Consider design revisions for Request personal records form
 *Summarize actionable recommendations based on findings.*  
-1. Consider making the affirmation statements at the end of the form more concise so there's less text for participants to skip. Rather than adding more information, consider removing some so users might pay more attention to what's there. Also see why the previous and next lines of text are repeated while focus is in the name text field.
+1. Consider making the affirmation statements at the end of the form more concise so there's less text for participants to skip. Rather than adding more information, consider removing some so users might pay more attention to what's there. Also revisit why the previous and next lines of text are repeated while focus is in the name text field, which appears to be because it's specified in the code so that all users hear it, regardless of how they navigated to the field (by tabs or arrows).
 1. The error message for SSN validation could provide more information. Instead of just saying that it needs 9 digits, it could also say how many digits you entered: "You entered 8 digits for your social security number, but you need 9 digits."
 
 1. **Recommendation:** [Insert action]  
