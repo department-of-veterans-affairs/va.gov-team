@@ -1,6 +1,6 @@
 # Decision: Travel Claim Pagination Strategy
 
-Status: Proposed
+Status: Accepted
 
 ## Context
 
@@ -99,9 +99,12 @@ Fetch all claims in the date range set by the FE. If more claims than can be dis
 
 ## Decision Outcome
 
-[PENDING DECISION]
+[ACCEPTED]
 
-## Pros and Cons of the Options
+1. Claim Associate logic, only focus on 30 days for mobile, should be solved with up'ed number to 50 (low effort, will make production release)
+2. UI changes to mobile if its more than 30 days, add a SSOe link to web status page (low effort, should make production release)
+3. Web status page will require changes (med effort)
+   - Date range refinement, scope all calls to three months
 
 
 ## Implementation Notes
