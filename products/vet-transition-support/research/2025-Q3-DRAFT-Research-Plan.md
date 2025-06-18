@@ -1,5 +1,5 @@
-# Pre-Decisional Draft for review by OTED/MITRE
-This research plan describes the objectives, methodologies, and research questions for upcoming research conducted by the Veteran Transition Experience product team. The purpose of this draft is to solicit feedback from the OTED/MITRE team as part of the research planning process. 
+# Pre-Decisional Draft
+This research plan describes the objectives, methodologies, and research questions for upcoming research conducted by the Veteran Transition Experience product team. 
 
 # Research objectives
 
