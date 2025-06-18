@@ -12,6 +12,24 @@ Therefore, the Travel Pay application needs to implement functionality to pagina
 
 ## Decision Drivers
 
+In the response from the Travel Pay API, we get this object, so we have access to the page we requested, the page size, and the total number of claims available (either of all claims or for the date range requested, both `/claims` and `/claims/search-by-appointment-date` return this response):
+
+```
+{
+  'pageNumber' => 1,
+  'pageSize' => 25,
+  'totalRecordCount' => 83,
+  'correlationId' => UUID,
+  'timeStamp' => '2025-06-12T18:28:06.3602325Z',
+  'statusCode' => 200,
+  'message' => 'Data retrieved successfully.',
+  'success' => true,
+  'data' => [...claims]
+}
+```
+
+Currently, we are extracting the `data` and only returing the claims in the services, so however we proceed, we will need to adjust the responses from the service to include pagination params for each call.
+
 ### Claim > Appt Association Service
 
 * More of an impact on Mobile since there's no other way to view past claims (aside from Past Appt Details)
