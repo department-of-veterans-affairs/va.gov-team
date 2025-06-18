@@ -109,11 +109,13 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Results
 
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+- Number of unique users: 200
+- Metrics at this stage (per your "success criteria"):
+    - [x] DataDog errors < 5%
+    - [ ] No information yet on click through rate (DOMO may update weekly?)
+- Was any downstream service affected by the change?: no
+- Types of errors logged: Some VA Notify delivery errors that are out of scope for this work, but we are ensuring we maintain awareness of
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? No changes are absolutely required; we have some thoughts around additional logging we can add and potentially retrying some of the errors, but no blockers identified.
 
 ### Stage B: 25% of users
 
