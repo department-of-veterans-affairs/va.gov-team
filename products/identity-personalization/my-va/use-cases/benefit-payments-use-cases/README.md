@@ -21,6 +21,18 @@
 
 ## Common use cases
 
+<details><summary>User has never had any benefits payments</summary>
+
+- **Use case:** If a logged in LOA3 user has no history of payments they receive a message informing them they don't have any and a link to the general payment history tool.
+- **Status code:** TBD
+- **Format:** [Card component](https://design.va.gov/components/card)
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5125-15049&t=cZLTEcVoQuXx90AV-1)
+- [Link to code]
+- **Content:** See designs
+
+</details>
+
+
 <details><summary>User has not received any payments from VA in the last 60 days</summary>
 
 - **Use case:** If a LOA3 user signs in and has not received any payments from VA in the last 60 days, they will see a card in the Benefit payments section stating that they have no recent payments as well as a link to review their payment history.
@@ -38,34 +50,34 @@
 - **Use case:** If a LOA3 user has received a payment from VA in the last 60 days, they will see a card in the Benefits payments section that tells them the dollar amount of the payment, the type of benefit payment, the date it was deposited or mailed to them, and a link to the payment history tool. Only the most recent payment is shown.
    - If a user received the payment via direct deposit, then the date text will read "Deposited on" whereas if they received it via mailed paper check, the date text will read "Checked mailed on".
 - **Status code:** TBD
-- **Content:** TBD
 - **Format:** [Card component](https://design.va.gov/components/card)
-- [Link to designs]
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5414-19238&t=cZLTEcVoQuXx90AV-1)
 - [Link to code]
+- **Content:** TBD
 
 </details>
 
 
 ## Edge cases
 
-### Flags
-There are no flags associated with this feature.
+### Validation
+This feature has no validation use cases.
 
-### System
+### Flags
+There are no flags with this feature.
+
+### Errors
 
 <details><summary>The payments API is down and we can't display any payment information</summary>
 
 - **Use case:** If an LOA3 user logs in and there is an error with the payments API show a warning alert, and hide the payment card. TBD Do we show the link to payment tool or just leave it when this shows? The link could be in the alert.
 - **Status code:** TBD
+- **Format:** [Warning alert component](https://design.va.gov/components/alert/#web-2)
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5125-15183&t=cZLTEcVoQuXx90AV-1)
+- [Link to code]
 - **Content:**
 
-Header: We can't access your payment history.
-
-We're sorry. We can't access your payment history right now. We're working to fix this problem. Please check back later.
-
-- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
-- [Link to designs]
-- [Link to code]
+We can’t access your payment history right now. We’re working to fix this problem. Please check back later.
 
 </details>
 
