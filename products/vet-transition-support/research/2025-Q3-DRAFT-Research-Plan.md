@@ -1,11 +1,13 @@
+# Pre-Decisional Draft for review by OTED/MITRE
+This research plan describes the objectives, methodologies, and research questions for upcoming research conducted by the Veteran Transition Experience product team. The purpose of this draft is to solicit feedback from the OTED/MITRE team as part of the research planning process. 
+
 # Research objectives
 
-1. Understand how to support TSMs’ need to keep track of their transition progress/deadlines/tasks/to do list to reduce stress, minimize the possibility of missing deadlines, and improve transition outcomes.  
-   1. Including what they are currently doing  
-   2. The phrase "previous period of service" caused confusion, with "break in service" suggested as a more universally understood term. (include in a question)  
+1. Understand how to support TSMs’ need to keep track of their transition progress, deadlines, and tasks to reduce stress, minimize the possibility of missing deadlines, and improve transition outcomes.  
+   1. Including what they are currently doing
 2. Understand how to improve the tool to address TSMs’ unmet needs of support to take action and get help  
 3. Usability testing of the live product
-
+   
 # Methodologies
 
 ## This research \- Q3 usability study
@@ -13,10 +15,9 @@
 * Semi-structured interviews  
 * Test product in production
 
-## Next research \- Q4
+## Next research \- Q4 study
 
 * Fast follow-on research with prototypes to address findings from Q3 study  
-  * Building and releasing changes dependent on pilot
 
 # Research priorities: Addressing unmet user needs
 
@@ -42,7 +43,7 @@
 * What are you most concerned might slip through the cracks during your transition?  
 * What keeps you up at night
 
-### Part 2: Boilerplate usability test of the product 
+### Part 2: Usability test of the product
 
 ### Part 3: Follow up questions after testing the product
 
@@ -64,7 +65,7 @@
 * What are you most concerned might slip through the cracks during transition?  
 * What keeps you up at night  
 
-### Part 2: Boilerplate usability test of the live product
+### Part 2: Usability test of the live product
 
 ### Part 3: Follow up questions after testing the product
 
@@ -94,5 +95,5 @@ As we crafted this research plan we identified areas from unmet needs that were 
   * Length of service  
 * Demographic characteristics  
   * Gender  
-  * Age  
+  * Age - High priority recruitment criteria so we understand the needs of TSMs who separate at different life stages 
   * Race and ethnicity
