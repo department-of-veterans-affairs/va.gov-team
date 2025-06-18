@@ -187,7 +187,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
 |UX: Complete the readout for R&S/Digital Dispute study |QP3 QP4|--|6/12/25|Completed|
-|UX: Prepare the presention & present the R&S/Digital Dispute study readout |QP3 QP4|--|6/12/25|Completed|
+|UX: Prepare the presentation & present the R&S/Digital Dispute study readout |QP3 QP4|--|6/12/25|Completed|
 |UX: Complete the Monthly May Medallia report | QPX |--|6/17/25|Completed|
 |UX: Make updates to the designs based off the Midpoint review feedback for 1TPP (One Thing Per Page) | QP5 |--|6/17/25|Completed|
 |ENG: Complete the DD (Digital Dispute) PDF generation for submission functionality and review with UX to confirm design| QP4 |Test suite issues - see more information below.|6/18/25|Incomplete|
