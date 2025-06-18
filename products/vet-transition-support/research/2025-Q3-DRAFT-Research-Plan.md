@@ -3,8 +3,7 @@ This research plan describes the objectives, methodologies, and research questio
 
 # Research objectives
 
-1. Understand how to support TSMs’ need to keep track of their transition progress, deadlines, and tasks to reduce stress, minimize the possibility of missing deadlines, and improve transition outcomes.  
-   1. Including what they are currently doing
+1. Understand how to support TSMs’ need to keep track of their transition progress, deadlines, and tasks to reduce stress, minimize the possibility of missing deadlines, and improve transition outcomes. This objective includes learning what they are currently doing to manage this need. 
 2. Understand how to improve the tool to address TSMs’ unmet needs of support to take action and get help  
 3. Usability testing of the live product
    
