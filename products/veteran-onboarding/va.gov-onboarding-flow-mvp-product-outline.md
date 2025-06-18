@@ -1,7 +1,7 @@
 # **VA.gov Onboarding Flow - MVP**
 
 ### **Overview** 
-The Iterate, Innovate, and Run (IIR) team is leading an initiative to build out a net new onboarding experience for va.gov users. The IIR teams plans to create a flow that is shown to LOA 3 users to help them more confidently navigate the authenticated experience so they can find, access, and manage the benefits they care about.
+The Iterate, Innovate, and Run (IIR) team is leading an initiative to build out a net new onboarding experience for va.gov users. The IIR team plans to create a flow that is shown to LOA 3 users to help them more confidently navigate the authenticated experience so they can find, access, and manage the benefits they care about.
 
 ### **Problem Statement(s)**
 - When Veterans sign up for VA.gov, they aren't told what to do next making it complicated to access the benefits they earned.
@@ -21,10 +21,10 @@ How might we statement: How might we teach Veterans to use VA.gov to find, acces
 - Users are still unsure and confused on how to navigate the authenticated experience.
 
 ### **Desired Business Outcomes**
-- TBD
+-  This flow contributes to OCTO's Objective #1: VA's digital experiences are the easiest and most efficient way to access VA health care and benefits. This flow makes things easier and more efficient for users.
 
 ### **Undesired Business Outcomes**
-- TBD
+- Profile & AuthEx CSAT scores drop
 
 ### **Measuring Success**
 
@@ -45,7 +45,7 @@ We plan for every user to see this flow - whether they are brand new to VA.gov o
 
 ### **Launch Dates**
 
-1. TBD but estimating Fall - October/November
+1. TBD but estimating Fall - November
 
 ### **Screenshots**
 
@@ -55,7 +55,7 @@ N/A - does not exist
 
 After
 
-Not yet finalized but early [Figma prototype here]([https://www.figma.com/design/awqwt6nhCwGeVq5nWj7wFb/Task-List?node-id=267-12552\&p=f\&t=w3XN1MzAyzIx0Ugt-0](https://www.figma.com/proto/awqwt6nhCwGeVq5nWj7wFb/Task-List?node-id=966-8441&t=YcoqX0kk9Yr9qLQJ-0&scaling=scale-down&content-scaling=fixed&page-id=869%3A21592&starting-point-node-id=966%3A8441&show-proto-sidebar=1))
+Not yet finalized but early [Figma prototype here](https://www.figma.com/proto/awqwt6nhCwGeVq5nWj7wFb/Task-List?node-id=966-8441&t=YcoqX0kk9Yr9qLQJ-0&scaling=scale-down&content-scaling=fixed&page-id=869%3A21592&starting-point-node-id=966%3A8441&show-proto-sidebar=1)
 
 ### **Communications**
 
