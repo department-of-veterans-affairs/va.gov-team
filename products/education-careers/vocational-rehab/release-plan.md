@@ -29,7 +29,7 @@ We will be performing a direct cutover with the new form while taking the place 
 
 - If something goes wrong with the release that we've identified, our first step will be to assess the problem and determine its significance.
 - If it requires us to immediately address the issue and the scope seems maneageable, we will attempt a hot fix and potentially an OOB deployment.
-- If a hot fix isn't sufficient or reccommended, our rollback process is outlined in a (ticket)[https://github.com/orgs/department-of-veterans-affairs/projects/1360/views/24?filterQuery=-label%3Aepic+-status%3Adone+-sprint%3A%40previous+product%3A+chapter+31&pane=issue&itemId=108911576&issue=department-of-veterans-affairs%7Cva-iir%7C1681].
+- If a hot fix isn't sufficient or reccommended, our rollback process is outlined in a [ticket](https://github.com/orgs/department-of-veterans-affairs/projects/1360/views/24?filterQuery=-label%3Aepic+-status%3Adone+-sprint%3A%40previous+product%3A+chapter+31&pane=issue&itemId=108911576&issue=department-of-veterans-affairs%7Cva-iir%7C1681).
 
 
 #### Planning
