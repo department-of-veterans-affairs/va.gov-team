@@ -281,45 +281,7 @@ Thank you. We can stop here.
 
 - Does the participant use the “I can’t find my care team” link?
 - Does the participant understand the content on Can’t find your care team?
-  
-## **Fifth Task: ERROR - 2 minutes**
 
-\[CAN’T FIND YOUR CARE TEAM\]
-
-- Please select Back for me.
-
-\[SELECT YOUR CARE TEAM\]
-
-- Please select Messages at the top of the screen for me.
-
-\[INBOX\]
-
-- I am going to walk you through this last task.
-- Let’s start a new message.
-
-\[INTERSTITIAL\]
-
-- Go ahead and continue to start message
-
-\[RECENT CARE TEAMS\]
-
-- Select A different care team on the bottom
-
-\[SELECT CARE TEAM\]
-
-- Select John D. Dingell VA Medical Center and then click “Continue.”
-
-\[SELECT CARE TEAM - ERROR STATE\]
-
-- \[If the Participant doesn’t mention it\] What do you think happened?
-- What would you do next?
-
-Thank you. We can stop here.
-
-### Things to watch for
-
-- Does the participant understand what caused the error?
-- Does the participant understand how to correct the error?
 
 ## Post-Task Interview - 3 minutes
 
