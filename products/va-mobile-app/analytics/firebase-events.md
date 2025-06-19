@@ -76,7 +76,6 @@ Last updated: 4/29/2025
 | `vama_login_token_refresh ` | Debug error attempting to initialize authentication with a refresh token |
 | `vama_login_token_store ` | The success or failure of storing a refresh token |
 | `vama_sso_cookie_received ` | Successful fetching of SSO cookies |
-| `vama_auth_completed ` | User successfully signed into the app |
 
 ### Availability Framework
 
@@ -96,7 +95,6 @@ Last updated: 4/29/2025
 | `vama_link_click ` | A link in the app was clicked, reports URL data |
 | `vama_link_confirm ` | A link to leave the app was clicked (not a webview) |
 | `vama_find_location ` | The find a location link was clicked |
-| `vama_select_all ` | user chooses the select all option in a selection list |
 
 ### Encouraged Update
 
@@ -151,7 +149,6 @@ Last updated: 4/29/2025
 | `session_start`* | when a user engages the app or website |
 | `vama_error` | generic event for API errors |
 | `vama_error_json_resp ` | generic event for API errors with the response information |
-| `vama_react_query_retry ` | debugging event to see when react query executes a retrie |
 | `vama_fail ` | Call center component failure event |
 | `vama_fail_refresh ` | Call center component failure retry event |
 
