@@ -181,11 +181,13 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
 - One participant clicked *Finish later* accidentally and thought he was going to lose information entered, but then noticed that the form saved his work. He then assumed that his information was being constantly saved (not only when you click *Finish later*).
 - A different participant asked why *Finish later* is needed when we already said that it's saving everything. This was the only (CHECK THIS!) participant who learned from an information alert that we are saving all the time and remembered that later.
 
-**Finding X: All participants were able to resume their request after taking a short break and a long break**.
-- Most participants (8 of 11) clicked on the *Continue your request* button in the informational alert displayed after clicking *Finish later*.
-- The other 3 participants were able to continue by clicking on the *Continue your application* link on the "Application for personal records request" card at the bottom of the My VA page.
-  - One of these participants noticed that the "Continue your application 
+**Finding X: All participants were able to resume filling out the form after taking a short break and a long break**.
+- Participants got interrupted and resumed filling out the form twice during during the sessions.
+- Most participants (9 of 11) clicked on the *Continue your request* button in the informational alert displayed after clicking *Finish later*.
+- 3 participants (including 2 of the 9 above) clicked on the *Continue your application* link on the "Application for personal records request" card at the bottom of the My VA page. 
+- 1 participant didn't use either of the above methods and instead just went back to their open browser window, which hadn't timed out. 
 - 3 participants noticed that they were returned to the *page before* the one that they were on. This is because no information had been entered on the page they were on [a known issue], but they said that they would have preferred to come back to the actual (blank) page that they had been on.
+- 1 participant saw the in-progress ID number and 
 
 ***ORGANIZE BY GROUPING TOGETHER types of a11y issues: incorrect announcing, redundant announcing, misinterpretation, focus issues. Do this for findings and also for recommendations--fix these--incorrect announcing and focus issues are more important than redundant announcing***
 
