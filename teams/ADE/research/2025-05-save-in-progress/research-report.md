@@ -332,7 +332,7 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
      1. One participant accepted an autofill suggestion from their phone to fill in the postal code with a valid value, but it resulted in an error ("Enter a ZIP code"). This is a known issue with autofilling; there's a coding workaround in [this ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/2668).
      1. After the Veteran has logged in, one participant said that their name and address should be prefilled. Then they could correct it if needed.
         > *"I'm looking for the least amount of work I have to do every single time" (p10).*
-1. One participant who uses a screen reader on a phone said that they had a lot of difficulty signing in, making a strong password and remembering it, creating a passkey, setting up two-factor authentication, and getting logged out with timeout. 
+1. One participant who uses a screen reader on a phone said that they had a lot of difficulty signing in, making a strong password and remembering it, creating a passkey, setting up two-factor authentication, and getting logged out with timeout. A different participant wished that they could sign in with a fingerprint, didn't get logged out, or had a "remember this device" so you don't have to log in again
    > *"First I had to tangle up with login.gov because now they want you to. They want to do a video of your face and...that's very difficult for people that have limited vision or no vision...So by the time you get there you're pretty frustrated (p5).*
 
     
