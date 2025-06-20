@@ -18,8 +18,8 @@ Jump to:
 * [Executive Summary](#Executive-Summary)
 * [Participant Sample](#Participant-sample)
 * [Key Findings and Recommendations](#Key-Findings-and-Recommendations)
-  + [The ARP’s navigation is intuitive enough](#The_ARP’s_navigation)
-  + [Representatives expect an overview page/dashboard and search fields they can complete](#_Representatives_expect_an)
+  + [The ARP’s navigation is intuitive enough](##ARP-navigation-is-intuitive-enough)
+  + [Representatives expect an overview page/dashboard and search fields they can complete](##Representatives-expect-an-overview-page/dashboard-and-search-fields-they-can complete)
   + [Representatives appreciated the clear simple claimant page as is currently designed](#_Representatives_appreciated_the)
   + [Enable multiple options for submission (pdf upload and auto-establishment methods) when available](#_Enable_multiple_options)
   + [Representatives held a more positive perception of this submission solution than the prior design shown](#_After_reducing_number)
@@ -60,7 +60,7 @@ Our sample skewed toward more experienced representatives. All the representativ
 
 # Key Findings and Recommendations
 
-## The ARP’s navigation is intuitive enough.
+## ARP navigation is intuitive enough
 
 Each participant completed 3/4 or 4/4 navigation tasks successfully. Though this is small sample, representatives felt very confident in their ability to navigate this site (their confidence ratings were at 4s or 5s out of a 5 point scale). The site felt simple enough to easily learn and understand what was behind each section.
 
