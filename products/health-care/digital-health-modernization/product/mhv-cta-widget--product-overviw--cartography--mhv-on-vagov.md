@@ -10,9 +10,9 @@ The VA places "widgets" (React applications) on unauthenticated pages to tell us
 
 ## II.  Key Stakeholders & Roles
 
-**OCTO:** Unknown
-**@department-of-veterans-affairs/octo-identity :** CTA widget codewners, [OCTO Identity Team](https://github.com/orgs/department-of-veterans-affairs/teams/octo-identity), \[Email\]
-**MHV Cartographers:** Product team, TBD, \[Email\]
+- **OCTO:** Unknown
+- **@department-of-veterans-affairs/octo-identity :** CTA widget codewners, [OCTO Identity Team](https://github.com/orgs/department-of-veterans-affairs/teams/octo-identity), \[Email\]
+- **MHV Cartographers:** Product development, [Cartography team](https://github.com/orgs/department-of-veterans-affairs/teams/vfs-mhv-integration), \[Email\]
 
 ## III.  Product Summary
 
