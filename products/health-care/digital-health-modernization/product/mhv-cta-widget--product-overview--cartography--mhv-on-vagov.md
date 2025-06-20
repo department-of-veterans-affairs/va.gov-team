@@ -4,18 +4,18 @@
 
 ---
 
-## I.  Background & Context
+## I. Background & Context
 
 The VA places "widgets" (React applications) on unauthenticated pages to tell users to log in before they can see a link to applications that would require them to log in to use. The My HealtheVet (MHV) Call-to-action (CTA) serve this purpose for the MHV-on-VA.gov applications.
 
-## II.  Key Stakeholders & Roles
+## II. Key Stakeholders & Roles
 
 - **OCTO:** Unknown
 - **Identity team:** CTA widget codeowners, [OCTO Identity Team](https://github.com/orgs/department-of-veterans-affairs/teams/octo-identity), \[Email\]
 - **MHV Cartographers:** Product development, [Cartography team](https://github.com/orgs/department-of-veterans-affairs/teams/vfs-mhv-integration), \[Email\]
 - **CAIA / Drupal content:** Owns static content pages and integration with widgets with Drupal, ???, \[Email\]
 
-## III.  Product Summary
+## III. Product Summary
 
 ### Key Features:
 
@@ -33,7 +33,7 @@ Multiple small react applications that, use the `/v0/user` data to show an alert
 
 These applications rely on `vets-api`, which is not an upstream service.
 
-## IV.  Solution Artifacts**
+## IV. Solution Artifacts
 
 
 **Code Repo:** Within `vets-website`, [mhv-signin-cta](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/static-pages/mhv-signin-cta), [mhv-simple-signin-cta](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/static-pages/mhv-simple-signin-cta) [health-care-manage-benefits widgets](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/static-pages/health-care-manage-benefits)
@@ -44,6 +44,6 @@ These applications rely on `vets-api`, which is not an upstream service.
 **Test Users / Credentials:** Not applicable. Widgets are used on unauthenticated pages. Changing widgets or using new widgets requires coordination with Drupal content managers
 
 
-**V.  Future Recommendations**
+## V. Future Recommendations
 
 If the Drupal implementation were updated, the [reusable widget pattern](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/static-pages/mhv-signin-cta/README.md) would make it for content folks to make custom sign-in widgets, and would reduce the overall complexity of widgets. This would require buy-in from technical folks who manage the Drupal system.
