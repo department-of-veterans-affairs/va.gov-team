@@ -19,7 +19,7 @@ Jump to:
 * [Participant Sample](#Participant-sample)
 * [Key Findings and Recommendations](#Key-Findings-and-Recommendations)
   + [ARP navigation is intuitive enough](#ARP-navigation-is-intuitive-enough)
-  + [Representatives expect a dashboard and search fields they can complete](#Representatives-expect-an-overview-page/dashboard-and-search-fields-they-can complete)
+  + [Representatives expect a dashboard and search fields they can complete](#Representatives-expect-a-dashboard-and-search-fields-they-can-complete)
   + [Representatives appreciated the clear simple claimant page as is currently designed](#Representatives-appreciated-the-clear-simple-claimant-page-as-is-currently-designed)
   + [Enable multiple options for submission when available](#Enable-multiple-options-for-submission-when-available)
   + [Representatives held a more positive perception of this submission solution than the prior design shown](#Representatives-held-a-more-positive-perception-of-this-submission-solution-than-the-prior-design-shown)
@@ -73,7 +73,7 @@ Most participants also accurately described the difference between "Submission h
 
 Prior to first release: Add a note in Submission History to state that "We are working to add more submissions in this view. "
 
-## Representatives expect an overview page/dashboard and search fields they can complete
+## Representatives expect a dashboard and search fields they can complete
 
 ### Landing page after log-in: Find Claimant
 
