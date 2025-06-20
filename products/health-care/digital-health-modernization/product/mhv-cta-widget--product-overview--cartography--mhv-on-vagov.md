@@ -36,12 +36,12 @@ These applications rely on `vets-api`, which is not an upstream service.
 ## IV. Solution Artifacts
 
 
-**Code Repo:** Within `vets-website`, [mhv-signin-cta](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/static-pages/mhv-signin-cta), [mhv-simple-signin-cta](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/static-pages/mhv-simple-signin-cta) [health-care-manage-benefits widgets](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/static-pages/health-care-manage-benefits)
-**Design File:** \[linked\]
-**Research Folder:** \[linked\]
-**Dashboard(s)**: \[linked\]
-**Analytics Folder:** \[linked\]
-**Test Users / Credentials:** Not applicable. Widgets are used on unauthenticated pages. Changing widgets or using new widgets requires coordination with Drupal content managers
+- **Code Repo:** Within `vets-website`, [mhv-signin-cta](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/static-pages/mhv-signin-cta), [mhv-simple-signin-cta](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/static-pages/mhv-simple-signin-cta) [health-care-manage-benefits widgets](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/static-pages/health-care-manage-benefits)
+- **Design File:** [Figma - MHV MHV-Account-Security---Access-Standards](https://www.figma.com/design/m992k2m1DSl9MXV9hDytsQ/MHV-Account-Security---Access-Standards?node-id=58-3)
+- **Research Folder:** \[linked\]
+- **Dashboard(s)**: \[linked\]
+- **Analytics Folder:** \[linked\]
+- **Test Users / Credentials:** Not applicable. Widgets are used on unauthenticated pages. Changing widgets or using new widgets requires coordination with Drupal content managers
 
 
 ## V. Future Recommendations
