@@ -1,4 +1,4 @@
-    # Conversation Guide for 10-10EZR Confirmation Flow
+# Conversation Guide for Your VA benefit letters and documents research study
 
 # Moderator logistics 📋✅
 ### 2-3 days before the session
@@ -6,18 +6,19 @@
 > [!NOTE]
 > Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-checklist).
 
-`List and complete any project-specific setup tasks for this study below:`
-
-- [ ] Step 1
-- [ ] Step 2
-- [ ] Step 3
-
 ### Day of the session
 
-> [!TIP]
-> - Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.
-> - Mute your Slack notifications.
-> - Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
+**Before all sessions**:
+- Review participant list for participant name and screener question responses
+- Check Settings > In Meeting (Advanced) > Automated captions, Full transcript, Save captions are all ON
+- Check Settings > Meeting > In Meeting (Basic) > Sound notification when someone joins or leaves OFF
+  - In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
+- Check Settings > Meeting > In Meeting (Basic) > Screen sharing > Who can share > All Participants
+- Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting ON
+- Mute Slack and all other notifications
+- Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
+- Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.
+
 
 ### Starting the session
 
@@ -29,15 +30,14 @@
 
 # Intro - 5 minutes
 
-Thanks for joining us today! My name is **[NAME]** and **[NOTETAKER NAME]** is taking notes.
+Thanks for joining us today! My name is **Shawn** and **[NOTETAKER NAME]** is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
-Today we're going to talk about making updates to health care information.
-
+Today we're going to talk about Benefit Letters and Documents.
 
 Before we start, I have a few things that I want to go over with you:
 
-- **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session should take about 60 (or 90 for AT) minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
   
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
   
@@ -51,7 +51,7 @@ Before we start, I have a few things that I want to go over with you:
 > - Then, ask the notetaker and observers to **give a brief, camera-on introduction, like their first name and position with VA.gov.** (This is meant to humanize the interaction of observation for the participant.)
 > - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
      
-- *(If applicable)* **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. <mark>**Since it's a demo, none of your actions will affect your VA information or benefits.**</mark>
+- *(If applicable)* **You'll be interacting with our staging server today.** [Need explanation of what the staging server is.] <mark>**Since it's a demo, none of your actions will affect your VA information or benefits.**</mark>
   
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
    - **Knowing that, are you comfortable if I record my screen and audio as we talk today?**
@@ -78,14 +78,48 @@ Before we start, I have a few things that I want to go over with you:
 
  <mark>**[Record answer here]**</mark>
 
-# Warm-up Questions (Optional) - 5 minutes
+# Warm-up Questions - 5 minutes
 
-Before we look at the website, let’s start with a few warm-up questions.
+Let’s start with a few questions... 
 
-1. Do you have a service-connected disability at VA?
-- If yes: what is your disability rating?
-- If no, skip to question 2.
-2. 
+1. I understand you are a Veteran. Is that right? 
+    - Thanks for confirming that.
+
+1. What kind of device are you using today? *(Computer / Tablet / Smartphone)*
+    - *(If not the expected device, ask to rejoin that way)*
+    - What operating system? *(macOS / Windows / iOS / Android / _______)*
+
+1. What web browser do you use? *(Chrome / Firefox / Edge / Safari / _______)*
+
+1. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, put it in the Zoom chat, email it to you, or *(for smartphone only)* text it to you. *(RECORD)* 
+
+   - *(If text or email)* Could the notetaker please text/email the link now? (https://bit.ly/4lXVLTV)
+
+### For only assistive tech users
+
+5. What assistive technology are you using right now? *(screen reader / magnifier _______________________)*
+    - *(If **Dolphin** screen reader, won't be able to share screen on Zoom)*
+    - *(if no AT)* Do you sometimes use assistive technology while using VA.gov or filling out a form online? 
+      - If so, what do you use and when? 
+        - Would you be willing to start using it now in this session? 
+        - *(if not, run session w/o AT, or stop and ask Perigean for a replacement participant)*
+
+1. How would you rate your level of experience with using a screen *(reader / magnifier)*--beginner, intermediate, advanced, or expert?
+
+1. How long have you been using a screen *(reader / magnifier)*?
+
+1. Have you ever shared your screen in Zoom while using a screen *(reader / magnifier)*? *(Yes / No)*
+    - If not, we can help you do that.
+
+1. Is there anything else that we can do to support you during this session? *(RECORD AND DO!)*
+
+### For everyone
+
+10. What VA benefits, if any, do you have experience with? 
+    - *RECORD: health care / education / career services / disability / home loan / pension / life insurance / burial benefits / none / __________*
+
+1. Have you ever used your VA Benefit Summary Letter (sometimes called a VA award letter) to prove your status in order to receive other benefits? 
+   - If so, can you tell me about your most recent experience? How did it go?
 
 ## First Task: [TASK NAME] - X minutes
 
