@@ -1,6 +1,6 @@
 # MHV CTA Widgets
 
-*Product Overview / MHV on VA.gov**
+**Product Overview / MHV on VA.gov**
 
 ---
 
@@ -11,8 +11,9 @@ The VA places "widgets" (React applications) on unauthenticated pages to tell us
 ## II.  Key Stakeholders & Roles
 
 - **OCTO:** Unknown
-- **@department-of-veterans-affairs/octo-identity :** CTA widget codewners, [OCTO Identity Team](https://github.com/orgs/department-of-veterans-affairs/teams/octo-identity), \[Email\]
+- **Identity team:** CTA widget codeowners, [OCTO Identity Team](https://github.com/orgs/department-of-veterans-affairs/teams/octo-identity), \[Email\]
 - **MHV Cartographers:** Product development, [Cartography team](https://github.com/orgs/department-of-veterans-affairs/teams/vfs-mhv-integration), \[Email\]
+- **CAIA / Drupal content:** Owns static content pages and integration with widgets with Drupal, ???, \[Email\]
 
 ## III.  Product Summary
 
@@ -40,7 +41,7 @@ These applications rely on `vets-api`, which is not an upstream service.
 **Research Folder:** \[linked\]
 **Dashboard(s)**: \[linked\]
 **Analytics Folder:** \[linked\]
-**Test Users / Credentials:** \[linked\]
+**Test Users / Credentials:** Not applicable. Widgets are used on unauthenticated pages. Changing widgets or using new widgets requires coordination with Drupal content managers
 
 
 **V.  Future Recommendations**
