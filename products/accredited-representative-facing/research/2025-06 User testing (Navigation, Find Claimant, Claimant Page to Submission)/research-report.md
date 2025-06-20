@@ -14,10 +14,10 @@ Type of Research: User Interview and Usability test
 Jump to:
 
 * [Background](#Background)
-* [Research Goals](#Research_Goals)
-* [Executive Summary](#Executive_Summary)
-* [Participant Sample](#Participant_sample_1)
-* [Key Findings and Recommendations](#Key_Findings_and)
+* [Research Goals](#Research-Goals)
+* [Executive Summary](#Executive-Summary)
+* [Participant Sample](#Participant-sample)
+* [Key Findings and Recommendations](#Key-Findings-and-Recommendations)
   + [The ARP’s navigation is intuitive enough](#The_ARP’s_navigation)
   + [Representatives expect an overview page/dashboard and search fields they can complete](#_Representatives_expect_an)
   + [Representatives appreciated the clear simple claimant page as is currently designed](#_Representatives_appreciated_the)
