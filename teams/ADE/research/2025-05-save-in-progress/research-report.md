@@ -313,12 +313,16 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
    > *"So a lot of times I just dictate everything in, and then I check it to make sure it's right. And if it's not, then I correct it" (p5).*
 2. **Usability issues were discovered with the Request Personal Records form intro page**. Each issue below was encountered by one research participant, unless otherwise noted.
 
-     1. (3 participants, 2 using screen readers) The signed-in version of the form intro page looks the same as the non-signed in version, except at the very bottom, which is repetitive. The screen reader users had to listen to the entire intro page being read twice. One participant said that the "Sign in to start your request" link could instead bring you directly to the first question in the form (rather than to the authenticated version of the form intro page). 
-     1. Seeing "Freedom of Information Act (FOIA)" right underneath the name of the form on the intro page was confusing because it's unclear what the connection is. Expected to see something about the specific form, such as its name.
-     1. Expected to be able to click on one of the record types listed on the intro page, but they weren't clickable. 
+     1. (3 participants, 2 using screen readers) The signed-in version of the form intro page looks the same as the non-signed in version, except at the very bottom, which is disorienting and repetitive. The screen reader users had to listen to the entire intro page being read twice. One participant suggested that the "Sign in to start your request" link could bring you directly to the first question in the form (rather than to the authenticated version of the form intro page). 
+     1. Seeing "Freedom of Information Act (FOIA)" right underneath the name of the form on the intro page was confusing because it's unclear what the connection is. They expected to see something about the specific form, such as its name.
+     1. A screen reader user expected to be able to click on one of the record types listed on the intro page, but they weren't clickable. 
 
 1. **Usability issues were discovered with the Request Personal Records form**. Each issue below was encountered by one research participant, unless otherwise noted.
-
+     1. After the Veteran has logged in, their name and address should be prefilled. Then they could correct it if needed.
+        > *"I'm looking for the least amount of work I have to do every single time" (p10).*
+     1. Two participants were curious about the ability to request your military records (including DD214) through the VA. One of them had military records unable to be accessed thru VA, and had needed to provide a paper copy that helped him to transition out and apply for medical benefits with the VA. The other participant was very concerned about privacy because he thought that VA isn't supposed to know about some things from the military, and the military isn't supposed to know about some things from the VA. He told a story about wanting to keep his VA treatment for PTSD off his military records so it wouldn't change his assignments.
+         > *"If you get the proper treatment, people don’t need to be stigmatized...They [military] found out that I had PTSD...They blackballed me...They pulled me off the range...You don't want that past medical history to come and haunt you and actually ruin your career" (p13).*
+    1. 3 participants were confused by the "VA regional office" field so they skipped it. One didn't know whether to enter their regional office because they go to a clinic in a different region, and whether it should be a clinic or a hospital. 
 
 ## Recommendations
 ### Recommendation: Revise the Save in Progress design
