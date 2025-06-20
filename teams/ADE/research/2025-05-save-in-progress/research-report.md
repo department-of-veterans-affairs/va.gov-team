@@ -258,10 +258,11 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
      1. "Statement of truth. I confirm that the identifying information in this form is accurate and has been represented correctly." -- **Repeated again while focus is in the name field** 
      1. "I certify the information above is correct and true to the best of my knowledge and belief."  -- **Read while focus is in the name field** 
      1. "I certify the information above is correct and true to the best of my knowledge and belief." -- *Read again when focus is on this line*
-     
-     
-     See [screenshot of the bottom of the Review/Submit page](URL).
-    > *"I heard it about 4 times there...I'm not sure why they put it both before and after my name...That's the kind of thing that causes me to rush through the repeats and maybe miss something. If something is only present once, then I have a much better chance of paying attention to it" (p3).*
+        > *"I heard it about 4 times there...I'm not sure why they put it both before and after my name...That's the kind of thing that causes me to rush through the repeats and maybe miss something. If something is only present once, then I have a much better chance of paying attention to it" (p3).*
+        
+        See [screenshot of the bottom of the Review/Submit page](URL).
+- Another screen reader user (JAWS on desktop) didn't expect the checkbox to be announced _after_ the "I certify..." line instead of before it.
+    > *"It says, 'I certify'. Usually when something starts out with the words 'I certify', there's a checkbox there...You're telling me and then you're given my name, and then you put the actual box underneath of it, which is not typically what I'm used to...I had to listen to the whole thing to find out if that was a checkbox or not...cause it wouldn't have told me until the end" (p1).*
 
 **Finding X: Most participants who encountered errors understood how to resolve them, but there were some exceptions** 
 1. 9 of 11 participants encountered errors while they were filling out the form, and most of them understood what they meant and what they needed to do to fix them.
@@ -318,11 +319,15 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
      1. A screen reader user expected to be able to click on one of the record types listed on the intro page, but they weren't clickable. 
 
 1. **Usability issues were discovered with the Request Personal Records form**. Each issue below was encountered by one research participant, unless otherwise noted.
-     1. After the Veteran has logged in, their name and address should be prefilled. Then they could correct it if needed.
-        > *"I'm looking for the least amount of work I have to do every single time" (p10).*
-     1. Two participants were curious about the ability to request your military records (including DD214) through the VA. One of them had military records unable to be accessed thru VA, and had needed to provide a paper copy that helped him to transition out and apply for medical benefits with the VA. The other participant was very concerned about privacy because he thought that VA isn't supposed to know about some things from the military, and the military isn't supposed to know about some things from the VA. He told a story about wanting to keep his VA treatment for PTSD off his military records so it wouldn't change his assignments.
+     1. Four participants didn't know what a "VA file number" was and why you might need it. One of them mentioned that there's no helper text for it, and another one didn't notice at first that you could continue without entering it.
+     1. Three participants were confused by the "VA regional office" field so they skipped it. One didn't know whether to enter their regional office because they go to a clinic in a different region, and whether it should be a clinic or a hospital. 
+    1. Two participants were curious about the ability to request your military records (including DD214) through the VA. One of them had military records unable to be accessed thru VA, and had needed to provide a paper copy that helped him to transition out and apply for medical benefits with the VA. The other participant was very concerned about privacy because he thought that VA isn't supposed to know about some things from the military, and the military isn't supposed to know about some things from the VA. He told a story about wanting to keep his VA treatment for PTSD off his military records so it wouldn't change his assignments.
          > *"If you get the proper treatment, people don’t need to be stigmatized...They [military] found out that I had PTSD...They blackballed me...They pulled me off the range...You don't want that past medical history to come and haunt you and actually ruin your career" (p13).*
-    1. 3 participants were confused by the "VA regional office" field so they skipped it. One didn't know whether to enter their regional office because they go to a clinic in a different region, and whether it should be a clinic or a hospital. 
+     1. One participant accepted an autofill suggestion from their phone to fill in the postal code with a valid value, but it resulted in an error ("Enter a ZIP code"). This is a known issue with autofilling; there's a coding workaround in [this ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/2668).
+     1. After the Veteran has logged in, one participant said that their name and address should be prefilled. Then they could correct it if needed.
+        > *"I'm looking for the least amount of work I have to do every single time" (p10).*
+     
+    
 
 ## Recommendations
 ### Recommendation: Revise the Save in Progress design
@@ -335,9 +340,11 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
       1. Messaging could be reworded for clarity, especially "We'll save your request on every change". One idea is "Your work is saved automatically". If we want a message that shows up with every save, it could be very short (e.g., "Saving..." or "Autosaved now"), and it needs to be positioned such that screen readers will announce it. 
       1. Consider relabeling the *Finish later* button to better align with the revised messaging.
 
-### Recommendation: Fix accessibility issues with VA form design patterns
+### Recommendation: Fix issues with VA form design patterns
 1. On the Review/Submit page, consider moving the "+" from the right margin to the left margin.
      - *Supporting evidence:* A screen magnifier user didn't see the "+"'s to expand the accordions because they're so far to the right and there was no visual indication that there was anything more to the right. 
+1. After you click *Finish later*, you should be able to sign out. Need to revert to the full VA.gov header for the authenticated intro page in order to enable signout.
+     - *Supporting evidence:* There's currently no way to sign out after you click *Finish later* and land on the intro page because you're still seeing the minimal header.
 
 ### Recommendation: Fix accessibility issues with My VA
 #### My VA
@@ -347,12 +354,12 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
 ### Recommendation: Fix accessibility issues with Request personal records form
 1. Change the announcement for dropdown fields from "Double tap to activate the picker" to use plain language: "Double tap to select the month", "Double tap to select the country", and "Double tap to select the state".
     - *Supporting evidence: p1 didn't know what a "picker" was and got confused.*
-2. Research focus issues with VoiceOver while getting into and out of the date of birth Month field. See if the issue can be fixed.
+1. Research focus issues with VoiceOver while getting into and out of the date of birth Month field. See if the issue can be fixed.
     - *Supporting evidence: Focus was on the Month field, but what p4 typed ended up in the Last name field. And when p4 was done picking the Month, focus was moved to the very top of the page.*
-3. Research announcing issues with JAWS where it says "has popup" for the State/Province/Region and Postal code text fields. See if the issue can be fixed.
-4. On the Review/Submit page, the error handling for the *Your full name* field should be streamlined so that (1) focus goes to the name field (vs. the top of the component), and (2) the error message is announced immediately (vs. after two repetitions of most of the text in the component). 
+1. Research announcing issues with JAWS where it says "has popup" for the State/Province/Region and Postal code text fields. See if the issue can be fixed.
+1. On the Review/Submit page, the error handling for the *Your full name* field should be streamlined so that (1) focus goes to the name field (vs. the top of the component), and (2) the error message is announced immediately (vs. after two repetitions of most of the text in the component). 
     - *Supporting evidence:* This is so verbose for screen reader users that they perceive it as multiple repetitions of the same information and so they don't listen carefully to the very end that describes how to fix the error.
-
+1. The postal code field should be fixed so that it will accept a valid autofill suggestion without returning an error ("Enter a ZIP code"). This is a known issue with autofilling with a coding workaround in [this ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/2668).
 
 ### Recommendation: Consider design revisions for Request personal records form
 *Summarize actionable recommendations based on findings.*  
