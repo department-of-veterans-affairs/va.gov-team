@@ -99,7 +99,7 @@ Staff travel clerks often have to take manual steps to fix, validate, and proces
 - *Target Launch Date - Travel Pay Status Page*
   - May 2024
 - *Actual Launch Date* 
-  - January 2025
+  - January 23, 2025
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
   - March 20, 2025
  
