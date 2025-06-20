@@ -170,7 +170,8 @@ Please **talk aloud** about what you're thinking BEFORE clicking on anything. An
 > - [Does the participant notice xyz?]
 > - [Etc]
 
-# Post-Task Interview - X minutes
+# Post-Task Interview - 5 minutes
+[**Type into #feedback-backchannel**: "Any questions you want me to ask?"]
 
 - Question 1
 - Question 2
