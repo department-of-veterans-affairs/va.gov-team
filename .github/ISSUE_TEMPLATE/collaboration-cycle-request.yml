@@ -144,7 +144,9 @@ body:
   - type: input
     id: form
     attributes:
-      label: If your work involves a form, enter the VA form number:
+      label: If your work involves a form, enter the VA form number.
+      description: 
+      placeholder: 
   - type: dropdown
     id: analytics-domo
     attributes:
