@@ -16,7 +16,7 @@ token = {
   'exp' => current_time + 300,
   'scopes' => ['https://staging-api.va.gov/ivc_champva/v1/forms/status_updates'],
   # NOTE: ABC should be the service account ID for the Sign in Service Platform created for Pega to use
-  'service_account_id' => 'ABC',
+  'service_account_id' => 'ABC', # Platform should be able to provide the right value for this
   'jti' => jti
 }
 
@@ -37,7 +37,7 @@ token = {
   'exp' => never_expire_timestamp,
   'scopes' => ['http://localhost:3000/ivc_champva/v1/forms/status_updates'],
   # NOTE: ABC should be the service account ID for the Sign in Service Platform created for Pega to use
-  'service_account_id' => 'ABC',
+  'service_account_id' => 'ABC', # Platform should be able to provide the right value for this
   'jti' => '2ed8a21d207adf50eb935e32d25a41ff'
 }
 
