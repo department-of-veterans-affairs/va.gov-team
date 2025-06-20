@@ -221,7 +221,7 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
     - Moved up and down with arrow keys on keyboard with his left hand. When he wanted to continue reading across the page, he moved the mouse sideways with his right hand, but *not* for every line. Skimmed down the page while not all the words across are in his view, and he assumed what it said--often accurately but sometimes not.
 
 
-**Finding X: Accessibility issues were discovered with this specific form**
+**Finding X: Accessibility issues were discovered with the Request Personal Records form**
 
 - Two screen reader users (1 using JAWS and desktop, and 1 using VoiceOver on mobile) had difficulty entering their date of birth on the phone.
   - The desktop screen reader user tried to type date of birth into the date of birth month field because he stopped the screen reader before it announced that the field was a popup.
@@ -311,7 +311,10 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
    > *"Wish I could talk it, but that's OK" (p4).*
 
    > *"So a lot of times I just dictate everything in, and then I check it to make sure it's right. And if it's not, then I correct it" (p5).*
+2. **Usability issues were discovered with the Request Personal Records form**. Each issue below was encountered by one research participant, unless otherwise noted.
 
+     1. The signed-in version of the form intro page looks the same as the non-signed in version, except at the very bottom, which is repetitive (3 participants). One participant said that the "Sign in to start your request" link should bring you to the first question in the form (rather than to the authenticated version of the form intro page). 
+     1. Seeing "FreemdomFOIA
 
 ## Recommendations
 ### Recommendation: Revise the Save in Progress design
