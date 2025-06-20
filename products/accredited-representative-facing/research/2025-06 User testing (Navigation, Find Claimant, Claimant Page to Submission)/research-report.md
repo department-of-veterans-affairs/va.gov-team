@@ -97,6 +97,7 @@ While the three fields shown felt appropriate, representatives acknowledged that
 Any search whose fields request information that the representative does not immediately have will require more effort. The only information representatives readly have is the Veteran’s contact information; two representatives use claimant's phone number or last four digits of the phone number. These representatives also recognized however that this contact information may match what is in the VA system.
 
 **Recommendations**
+
 Prior to first release:
 
 1. Remove sentence "Results do not include limited POAs." Conduct some desk research on what we want reps to understand when it comes to the definition of limited POAs. Rephrase it in terms they will understand.
