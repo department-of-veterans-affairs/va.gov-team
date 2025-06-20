@@ -50,9 +50,8 @@ Participants found overall, that this design solution to submit forms felt simil
 
 Our sample skewed toward more experienced representatives. All the representatives used QuickSubmit and came from both state and national organizations. Representatives worked with a range of Veterans from rural or more urban areas. P4 also particularly worked with Veterans ages 70+, who did not utilize digital applications as much as other populations. The following chart highlights key characteristics of these participants.
 
-|  |  |  |  |
-| --- | --- | --- | --- |
 |  | VSO | Tools used | Cross/Single accreditation |
+| --- | --- | --- | --- |
 | P1 | DAV | QuickSubmit, SEP | Single |
 | P2 | VFW | SEP, QuickSubmit,  VetraSpec | Single |
 | P3 | Missouri Veterans Commission | QuickSubmit, state-based software eVetAssist | Single |
@@ -209,9 +208,8 @@ Overall finding: While we still fall short of other VetPro or VetraSpec, represe
 
 ### Previous study
 
-|  |  |  |
-| --- | --- | --- |
 |  | Now that you’ve walked through this, how would you compare this approach to the current way you are using to submit 686c. Is it better, worse, or the same? | Does this seem faster, slower, or about the same as your current approach to submitting the 686c? |
+| --- | --- | --- |
 | P1, QuickSubmit | Same | Same |
 | P2, VetPro | Worse | Slower |
 | P3, Proprietary and SEP | Same | Slower |
@@ -220,9 +218,8 @@ Overall finding: While we still fall short of other VetPro or VetraSpec, represe
 
 This study has more participants who felt this solution was about the same as their current one, and two participants who noted it was better in some ways.
 
-|  |  |  |
-| --- | --- | --- |
 |  | Now that you’ve walked through this, how would you compare this approach to the current way you are using to submit 686c. Is it better, worse, or the same? | Does this seem faster, slower, or about the same as your current approach to submitting the 686c? |
+| --- | --- | --- |
 | P1, SEP and QuickSubmit | Same | Faster than QuickSubmit |
 | P2, QuickSubmit, SEP, VetraSpec | Worse than SEP | Slower than SEP |
 | P3, QuickSubmit and eVetAssist | Better | Same |
@@ -305,9 +302,8 @@ From this short inquiry, we may not know all the ways that representatives appro
 
 ### Recommendations listed prior to first release
 
-|  |  |
-| --- | --- |
 | Page | Recommendation for prior to first release |
+| --- | --- |
 | Submission history (under Claimant page) | Add a note in Submission History to state that "We are working to add more submissions in this view. " |
 | Find claimant page | Remove sentence "Results do not include limited POAs." Conduct some desk research on what we want reps to understand when it comes to the definition of limited POAs. Rephrase it in terms they will understand. |
 | Claimant page | Content recommendations include:   * Change "General POA information" to "Current representation" and remove the note on general POA. Conduct some desk research on what we want reps to understand when it comes to the definition of limited POAs. Rephrase it in terms they will understand. * Change copy from "Recent representation requests" to "Your organizations' requests." Though we recommend this content change, we realize this change will likely not increase representatives’ understanding of what they are allowed to see. |
@@ -317,9 +313,8 @@ From this short inquiry, we may not know all the ways that representatives appro
 
 List of changes to make post first release
 
-|  |  |
-| --- | --- |
 | Page | Recommendation for post first release |
+| --- | --- |
 | Landing page after log in | Conduct design discovery on what a landing page might be. Several representatives noted the following could be useful pieces of information. |
 | Find claimant page | Follow up with this SSN ticket to understand possibilities around search and selecting a more optimal solution over the current one, based on representative preferences and how they search in other tools. Also, having more comprehensive sort and filter options in Representation requests would help to resolve this issue. |
 | Alerts | Consider a more holistic alert design for portal for the immediate scenarios   * Pending POA request * POA failed * Claims submission processing error |
@@ -330,6 +325,7 @@ List of changes to make post first release
 | Submission flow steps 1-2; review and submit | Discuss with engineering and other relevant parties on what preview capability is and should be possible given data privacy. |
 | Form signatures | Optimize the signature workflow so that it is both efficient and ensures that Veterans understand what is being signed, so that representatives adopt the solution. |
 | Adding one additional piece of evidence to a claim. | Conduct desk research to direct representatives to the best possible route for adding one more piece of evidence. |
+
 
 # Resources
 
