@@ -145,9 +145,6 @@ body:
     id: form
     attributes:
       label: If your work involves a form, enter the VA form number:
-      options:
-    validations:
-      required: false
   - type: dropdown
     id: analytics-domo
     attributes:
