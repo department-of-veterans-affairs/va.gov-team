@@ -76,10 +76,10 @@ Prior to first release: Add a note in Submission History to state that "We are w
 ## Representatives expect a dashboard and search fields they can complete
 
 ### Landing page after log-in: Find Claimant
-
 In our prior study, representatives raised some unexpected questions about this page. In this study, we examined this page in more depth.
 
-### ![](data:image/png;base64...)
+![image (11) Medium](https://github.com/user-attachments/assets/7927bf5e-a05b-49e9-8e00-5c50701c41e0)
+
 
 Similar to the last study, the majority of representatives (4/5) did not expect, but accepted landing on the find claimant page after log in.
 
@@ -112,7 +112,8 @@ Post first release:
 
 ## Representatives appreciated the clear simple claimant page as is currently designed.
 
-### ![](data:image/png;base64...)
+![image (12) Medium](https://github.com/user-attachments/assets/02964d14-bcfc-47ca-804e-afd43a87384e)
+
 
 ### Claimant page alerts
 
@@ -179,7 +180,8 @@ Post first release:
 
 ## Enable multiple options for submission when available
 
-### ![](data:image/png;base64...)
+![image (13) Medium](https://github.com/user-attachments/assets/decaa9dd-74d9-4388-be54-990695a37596)
+
 
 ### Submit Forms
 
@@ -203,7 +205,7 @@ Prior to first release:
 
 ## Representatives held a more positive perception of this submission solution than the prior design shown
 
-### Overall finding While we still fall short of other VetPro or VetraSpec, representatives perceived us as being about the same as QuickSubmit, and our long-term roadmap includes features that will get us even closer to parity with third-party tools (pre-filled pdf forms and utilizing RBPS API for 21-686c)
+Overall finding: While we still fall short of other VetPro or VetraSpec, representatives perceived us as being about the same as QuickSubmit, and our long-term roadmap includes features that will get us even closer to parity with third-party tools (pre-filled pdf forms and utilizing RBPS API for 21-686c)
 
 ### Previous study
 
