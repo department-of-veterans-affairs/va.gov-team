@@ -99,7 +99,7 @@ Let’s start with a few questions...
 
 5. What assistive technology are you using right now? *(screen reader / magnifier _______________________)*
     - *(If **Dolphin** screen reader, won't be able to share screen on Zoom)*
-    - *(if no AT)* Do you sometimes use assistive technology while using VA.gov or filling out a form online? 
+    - *(if no AT)* Do you sometimes use assistive technology while using VA.gov? 
       - If so, what do you use and when? 
         - Would you be willing to start using it now in this session? 
         - *(if not, run session w/o AT, or stop and ask Perigean for a replacement participant)*
@@ -121,7 +121,23 @@ Let’s start with a few questions...
 1. Have you ever used your VA Benefit Summary Letter (sometimes called a VA award letter) to prove your status in order to receive other benefits? 
    - If so, can you tell me about your most recent experience? How did it go?
 
-## First Task: [TASK NAME] - X minutes
+## Task 1: Undstanding the page and the different letters and documents - X minutes
+[start on unauthenticated Download VA benefit letters page](https://www.va.gov/records/download-va-letters/)
+
+I'd like you to take a look at this page, and then use it to get your Benefit Summary and Service Verification Letter.
+
+Please **talk aloud** about what you're thinking BEFORE clicking on anything. And please share any **thoughts, reactions, or questions** you have about the current web page.
+
+- [ ] Step 1: Sign in to view 'Your VA benefit letters and documents.' (what is the process for staging?)
+- [ ] Step 2: Explore the page and the different types of letters available and explain what you would use each one for.
+
+### Things to watch for:
+- Do they explore the accordion sections?
+- Do they understand the differences between letter types?
+- Can they articulate when they would use each letter?
+- What are their initial expectations about the page?
+
+## Task 2: Updating the mailing address - X minutes
 
 - [ ] Step 1
 - [ ] Step 2
@@ -130,10 +146,9 @@ Let’s start with a few questions...
 > ### Things to watch for:
 > - [Does the participant understand meaning of xyz?]
 > - [Does the participant notice xyz?]
-> - [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
 > - [Etc]
 
-## Second Task: [TASK NAME] - X minutes
+## Task 3: Creating a custom benefit letter - X minutes
 
 - [ ] Step 1
 - [ ] Step 2
@@ -144,7 +159,7 @@ Let’s start with a few questions...
 > - [Does the participant notice xyz?]
 > - [Etc]
 
-## Third Task: [TASK NAME] - X minutes
+## Task 4: Finding and Downloading a Proof of Service Card - X minutes
 
 - [ ] Step 1
 - [ ] Step 2
