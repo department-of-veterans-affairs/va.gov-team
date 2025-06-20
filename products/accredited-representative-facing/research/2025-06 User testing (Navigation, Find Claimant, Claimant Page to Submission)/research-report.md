@@ -18,15 +18,16 @@ Jump to:
 * [Executive Summary](#Executive-Summary)
 * [Participant Sample](#Participant-sample)
 * [Key Findings and Recommendations](#Key-Findings-and-Recommendations)
-  + [ARP navigation is intuitive enough](##ARP-navigation-is-intuitive-enough)
-  + [Representatives expect an overview page/dashboard and search fields they can complete](##Representatives-expect-an-overview-page/dashboard-and-search-fields-they-can complete)
-  + [Representatives appreciated the clear simple claimant page as is currently designed](#_Representatives_appreciated_the)
-  + [Enable multiple options for submission (pdf upload and auto-establishment methods) when available](#_Enable_multiple_options)
-  + [Representatives held a more positive perception of this submission solution than the prior design shown](#_After_reducing_number)
-* [Additional Insights](#_Additional_insights)
-  + [Signature workflow](#_Signature_workflow)
-  + [Uploading an additional piece of evidence for an existing claim](#_Toc201304019)
-* Appendix
+  + [ARP navigation is intuitive enough](#ARP-navigation-is-intuitive-enough)
+  + [Representatives expect a dashboard and search fields they can complete](#Representatives-expect-an-overview-page/dashboard-and-search-fields-they-can complete)
+  + [Representatives appreciated the clear simple claimant page as is currently designed](#Representatives-appreciated-the-clear-simple-claimant-page-as-is-currently-designed)
+  + [Enable multiple options for submission when available](#Enable-multiple-options-for-submission-when-available)
+  + [Representatives held a more positive perception of this submission solution than the prior design shown](#Representatives-held-a-more-positive-perception-of-this-submission-solution-than-the-prior-design-shown)
+* [Additional Insights](#Additional-insights)
+  + [Signature workflow](#Signature-workflow)
+  + [Uploading an additional piece of evidence for an existing claim](#Uploading-an-additional-piece-of-evidence-for-an-existing-claim)
+* [Appendix](#Appendix)
+* [Resources](#Resources)
 
 # Background
 
@@ -176,7 +177,7 @@ Post first release:
 
 * Identify if we could add other Veteran characteristics to the claimant page that representatives continuously refer to, such as the Veteran’s disability rating or flags for expedited handling.
 
-## Enable multiple options for submission (pdf upload and auto-establishment methods) when available
+## Enable multiple options for submission when available
 
 ### ![](data:image/png;base64...)
 
@@ -200,7 +201,7 @@ Prior to first release:
 * Change “Start submission through form upload tool” to "Upload completed form.”
 * While "Active within minutes" is appropriate for ITF, another phrase may be needed for other form types (e.g. "Faster processing to VBMS").
 
-## After reducing number of pages (from 5 to 3) and introducing claimant overview page, representatives held a more positive perception of this submission solution than the prior design shown.
+## Representatives held a more positive perception of this submission solution than the prior design shown
 
 ### Overall finding While we still fall short of other VetPro or VetraSpec, representatives perceived us as being about the same as QuickSubmit, and our long-term roadmap includes features that will get us even closer to parity with third-party tools (pre-filled pdf forms and utilizing RBPS API for 21-686c)
 
@@ -328,7 +329,7 @@ List of changes to make post first release
 | Form signatures | Optimize the signature workflow so that it is both efficient and ensures that Veterans understand what is being signed, so that representatives adopt the solution. |
 | Adding one additional piece of evidence to a claim. | Conduct desk research to direct representatives to the best possible route for adding one more piece of evidence. |
 
-**Resources**
+# Resources
 
 [**Figma prototype tested**](https://www.figma.com/proto/APOPs9bzbrIcbKXjV8Xnu8/ARF---Claimant-page---search?page-id=1435%3A269407&node-id=1466-107235&p=f&viewport=457%2C268%2C0.13&t=bplHxsbf9kAjzpaA-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1466%3A107235&show-proto-sidebar=1)
 
