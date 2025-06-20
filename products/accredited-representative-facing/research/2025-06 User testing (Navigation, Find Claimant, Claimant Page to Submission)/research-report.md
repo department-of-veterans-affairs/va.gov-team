@@ -18,7 +18,7 @@ Jump to:
 * [Executive Summary](#Executive-Summary)
 * [Participant Sample](#Participant-sample)
 * [Key Findings and Recommendations](#Key-Findings-and-Recommendations)
-  + [The ARP’s navigation is intuitive enough](##ARP-navigation-is-intuitive-enough)
+  + [ARP navigation is intuitive enough](##ARP-navigation-is-intuitive-enough)
   + [Representatives expect an overview page/dashboard and search fields they can complete](##Representatives-expect-an-overview-page/dashboard-and-search-fields-they-can complete)
   + [Representatives appreciated the clear simple claimant page as is currently designed](#_Representatives_appreciated_the)
   + [Enable multiple options for submission (pdf upload and auto-establishment methods) when available](#_Enable_multiple_options)
