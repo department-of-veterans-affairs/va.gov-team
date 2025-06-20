@@ -159,13 +159,10 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
 
    > *"Maybe...if the button doesn't say 'Finish later'...something like 'Save and close', because what it's doing is actually closing the form...because it's already being saved as you go along...There's the other threat...does that mean I'm just canceling this form? So having 'save', there is the reassurance that this is gonna save the last thing that I input. And then it's gonna close the form" (p12).*
 
-- 2 screen reader users (1 on desktop, 1 on mobile) never heard the save alert on the first page of the form because it's above the H1, which is where their focus starts when the page is loaded. And participants were focused on completed the form, not on scrolling back up to explore.
+- The alert on the first page of the form was not accessible to some screen reader and screen magnifier users. Two screen reader users (1 on desktop, 1 on mobile) never heard the save alert on the first page of the form because it's above the H1, which is where their focus starts when the page is loaded. And participants were focused on completing the form and usually didn't scroll up to explore. One screen magnifier user didn't notice the alert because their magnified area was focused on the fields to fill out and wasn't large enough to also see higher up on the screen.
 
   > *"It took me directly to the question, so I just answered the question" (p5).*  
   > *[Everything in the header] "is garbage that will be on every page that I am not going to listen to. I will go to the top of the page and hit 'H'. If the page is laid out right, it will have an H1 and tell me where to start" (p1).*
-
-
-- WRITE THIS Issue with screen magnifer: P2 didn't notice alert at top of form b/c focused on fields to fill out and didn't see that part of the screen (b/c magnification)
 
 
 **Finding 3: ALL participants tried the *Finish later* button and from that learned that their information was saved**.
@@ -189,7 +186,7 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
 - 3 participants noticed that they were returned to the *page before* the one that they were on. This is because no information had been entered on the page they were on [a known issue], but they said that they would have preferred to come back to the actual (blank) page that they had been on.
 - 1 participant saw the in-progress ID number and 
 
-***ORGANIZE BY GROUPING TOGETHER types of a11y issues: incorrect announcing, redundant announcing, misinterpretation, focus issues. Do this for findings and also for recommendations--fix these--incorrect announcing and focus issues are more important than redundant announcing***
+***MAYBE ORGANIZE BY GROUPING TOGETHER or LABELING types of a11y issues: incorrect announcing, redundant announcing, misinterpretation, focus issues? Do this for findings and also for recommendations b/c incorrect announcing and focus issues are more important than redundant announcing***
 
 **Finding X: Accessibility issues were discovered with My VA**
 - One participant using a screen magnifier (on a Windows computer using the Edge browser and Microsoft Zoom Magnification at least 300%) asked why the **"Continue your application" link in the form request card on My VA was so much smaller than everything else on the card**. The link text doesn't seem to have scaled up like the text above it (see [image below](URL for p13-MyVA-form-card-bottom)).
@@ -296,9 +293,18 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
 
 - Only one participant said that they would prefer to be informed about errors differently--right after they leave a field, as opposed to after they click "Continue", so they know right away where the problem is. They also said that it's not really an issue with this form because it's so short (and the individual pages are short).
 
+**Finding X: Only half of the participants (6 of 11) mentioned the progress bar.** 
+1. The screen reader users who navigated the form starting from the H1 on each page didn't know about the progress bar because they never heard it announced.
+1. Four participants said that the step numbers are helpful so they know how close they are to being done.
+   > *"Tells how far I'm in what I'm doing...and how much longer to fill out something" (p11).*
 
+   > *"I do like that. It has 1 of 6. That is nice because you never know how many pages this thing's gonna be" (p9).*
   
+1. Two other participants mentioned the step numbers. Only one participant mentioned the visual bars. 
+1. Three participants (1 using a screen reader on desktop, 1 using a screen magnifier on desktop, and using no assistive tech on a phone) said that the form had too many short pages and that they preferred fewer longer pages with related information on the same page, rather than across multiple pages (e.g., your name and social security number on different pages). 
+   > *"You can have one page that puts in your personal information and your demographics...And then the next page can be what I'm requesting...It could be cut down a lot, it didn't have to be 6 pages" (p2).*
 
+   > *"If you ask me for my street address, and then I have to hit continue to get to the next thing, that annoys me. So when I'm doing a form, I'd like as much information on that page to fill out all at one time as possible. I really don't like to have to go 'Continue' 'Continue' all the time because that's just another thing that I have to do and have to listen to" (p1--screen reader user).*
 
 - _Supporting data: ![text](link - add image to github folder and link here with .png)_  
 
