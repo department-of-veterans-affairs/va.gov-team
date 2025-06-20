@@ -311,10 +311,14 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
    > *"Wish I could talk it, but that's OK" (p4).*
 
    > *"So a lot of times I just dictate everything in, and then I check it to make sure it's right. And if it's not, then I correct it" (p5).*
-2. **Usability issues were discovered with the Request Personal Records form**. Each issue below was encountered by one research participant, unless otherwise noted.
+2. **Usability issues were discovered with the Request Personal Records form intro page**. Each issue below was encountered by one research participant, unless otherwise noted.
 
-     1. The signed-in version of the form intro page looks the same as the non-signed in version, except at the very bottom, which is repetitive (3 participants). One participant said that the "Sign in to start your request" link should bring you to the first question in the form (rather than to the authenticated version of the form intro page). 
-     1. Seeing "FreemdomFOIA
+     1. (3 participants, 2 using screen readers) The signed-in version of the form intro page looks the same as the non-signed in version, except at the very bottom, which is repetitive. The screen reader users had to listen to the entire intro page being read twice. One participant said that the "Sign in to start your request" link could instead bring you directly to the first question in the form (rather than to the authenticated version of the form intro page). 
+     1. Seeing "Freedom of Information Act (FOIA)" right underneath the name of the form on the intro page was confusing because it's unclear what the connection is. Expected to see something about the specific form, such as its name.
+     1. Expected to be able to click on one of the record types listed on the intro page, but they weren't clickable. 
+
+1. **Usability issues were discovered with the Request Personal Records form**. Each issue below was encountered by one research participant, unless otherwise noted.
+
 
 ## Recommendations
 ### Recommendation: Revise the Save in Progress design
