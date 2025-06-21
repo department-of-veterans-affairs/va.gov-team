@@ -5,7 +5,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Accessibility Digital Experience (ADE)**
 
-**Date:** 06/20/2025
+**Date:** 06/25/2025
 
 **Contacts:** Cindy Merrill
 
@@ -338,7 +338,7 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
     
 
 ## Recommendations
-### Recommendation: Revise the Save in Progress design
+### 1. Revise the Save in Progress design
 1. **Brainstorm how to display better communicate that we're saving all information as it's being entered or updated**. We need to revisit how we communicate what the form is doing so that we inform users without being annoying.
    - *Supporting evidence:* We're saving automatically with every edit, which participants asked for, but most didn't realize that was happening because they didn't see or understand the informational alerts.   
    - Consider the suggestions below:
@@ -348,7 +348,7 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
       1. Messaging could be reworded for clarity, especially "We'll save your request on every change". One idea is "Your work is saved automatically". If we want a message that shows up with every save, it could be very short (e.g., "Saving..." or "Autosaved now"), and it needs to be positioned such that screen readers will announce it. 
       1. Consider relabeling the *Finish later* button to better align with the revised messaging.
 
-### Recommendation: Fix issues with VA form design patterns
+### 1. Fix issues with VA form design patterns
 1. On the Review/Submit page, consider moving the "+" from the right margin to the left margin.
      - *Supporting evidence:* A screen magnifier user didn't see the "+"'s to expand the accordions because they're so far to the right and there was no visual indication that there was anything more to the right. 
 1. After you click *Finish later*, you should be able to sign out. Need to revert to the full VA.gov header for the authenticated intro page in order to enable signout.
