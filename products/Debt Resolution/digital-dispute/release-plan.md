@@ -143,9 +143,9 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 ### 1-week results
 
 - Number of unique users:
-- Post-launch KPI 1 actual: [FILL_IN]
-- Post-launch KPI 2 actual: [FILL_IN]
-- Post-launch KPI 3 actual: [FILL_IN]
+- Post-launch KPI 1 actual: Total number of digital debt disputes
+- Post-launch KPI 2 actual: Total number of submission confirmations sent
+- Post-launch KPI 3 actual: Error Rate: Total number of errors/failures
 - Any issues with VA handling/processing?:
 - Types of errors logged: 
 - Any changes necessary based on the logs, feedback on user challenges, or VA challenges?:
@@ -154,9 +154,9 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 ### 1-month results
 
 - Number of unique users: 
-- Post-launch KPI 1 actual: [FILL_IN]
-- Post-launch KPI 2 actual: [FILL_IN]
-- Post-launch KPI 3 actual: [FILL_IN]
+- Post-launch KPI 1 actual: Total number of digital debt disputes
+- Post-launch KPI 2 actual: Total number of submission confirmations sent
+- Post-launch KPI 3 actual: Error Rate: Total number of errors/failures
 - Any issues with VA handling/processing?: 
 - Types of errors logged: BackendServiceException: 
 - Any changes necessary based on the logs, feedback on user challenges, or VA challenges?  
