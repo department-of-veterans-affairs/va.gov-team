@@ -180,7 +180,7 @@ Research sessions were conducted over Zoom during May 12-21, 2025. Sessions were
 - 1 participant didn't use either of the above methods and instead just went back to their open browser window, which hadn't timed out. 
 - 3 participants noticed that they were returned to the *page before* the one that they had been on. This is because no information had been entered on the page they were on [a known issue], but they said that they would have preferred to come back to the actual (blank) page that they had been on last.
 
-**Finding 5: My VA had some accessibility issues**
+**Finding 5: My VA had some accessibility issues for screen magnifiers**
 - One participant using a screen magnifier (on a Windows computer using the Edge browser and Microsoft Zoom Magnification at least 300%) asked why the **"Continue your application" link in the form request card on My VA was so much smaller than everything else on the card**. The link text didn't scale up like the text above it.
 <details><summary>Click to see a screenshot of the issue.</summary>
 <img src="./images/p13-MyVA-form-card-bottom.png" width="50%" height="50%">
@@ -196,6 +196,9 @@ Research sessions were conducted over Zoom during May 12-21, 2025. Sessions were
   > *"A lot of the government websites are not working that great with Safari anymore, and...you need to use Google Chrome" (p5).*
 
 - On the Review/Submit page, a **screen magnifier user didn't see the "+"'s to expand the accordions because they're so far to the right**. He saw the names of the form sections, but there was no visual indication that there was anything more to scroll right to see. 
+<details><summary>Click to see a screenshot of the issue.</summary>
+<img src="./images/p13-review-accordions-wo-plus.png" width="50%" height="50%">
+</details>
 
 - Many people navigate through forms quickly and miss things, regardless of whether they're using assistive tech. Below is a summary of assistive tech **navigation strategies that we observed in this study**, some of which were used to go through the new form slowly and carefully, while others were short-cuts that sometimes caused problems.
   - **Screen reader users (desktop and mobile):** 
