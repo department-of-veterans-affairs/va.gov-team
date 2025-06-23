@@ -329,8 +329,7 @@ There are a number of findings that were outside the scope of the research goals
 <img src="./images/Intro-pg-unauth-top-h1.png" width="50%" height="50%">
 </details>
 
-  1. One participant said that after they sign in, their name and address should be prefilled in the form. Then they could correct it if needed.
-      > *"I'm looking for the least amount of work I have to do every single time" (p10).*
+
 1. One participant who uses a screen reader on a phone said that they had a lot of difficulty signing in, making a strong password and remembering it, creating a passkey, setting up two-factor authentication, and getting logged out with timeout. A different participant wished that they could sign in with a fingerprint, didn't get logged out, and had a "remember this device" option so you wouldn't have to log in again.
    > *"First I had to tangle up with login.gov because now they want you to. They want to do a video of your face and...that's very difficult for people that have limited vision or no vision...So by the time you get there, you're pretty frustrated (p5).*
 
