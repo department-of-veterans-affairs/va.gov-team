@@ -260,47 +260,37 @@ Research sessions were conducted over Zoom during May 12-21, 2025. Sessions were
      1. "I certify the information above is correct and true to the best of my knowledge and belief."  -- *Read while focus is in the name field*
      1. "I certify the information above is correct and true to the best of my knowledge and belief." -- ***Repeated again** when focus is on this line*
         > *"I heard it about 4 times there...I'm not sure why they put it both before and after my name...That's the kind of thing that causes me to rush through the repeats and maybe miss something. If something is only present once, then I have a much better chance of paying attention to it" (p3).*
-<details><summary>Click to see a screenshot of the issue.</summary>
+<details><summary>Click to see a screenshot of the bottom of the Review/Submit page.</summary>
 <img src="./images/form-pg9-statement-of-truth.png" width="50%" height="50%">
 </details>
-        See [screenshot of the bottom of the Review/Submit page](URL).
-
+        
 - Another screen reader user (JAWS on desktop) didn't expect the checkbox to be announced _after_ the "I certify..." line instead of before it.
     > *"It says, 'I certify'. Usually when something starts out with the words 'I certify', there's a checkbox there...You're telling me and then you're given my name, and then you put the actual box underneath of it, which is not typically what I'm used to...I had to listen to the whole thing to find out if that was a checkbox or not...cause it wouldn't have told me until the end" (p1).*
 
 **Finding 8: Most participants who encountered form errors understood how to resolve them, but there were some exceptions** 
-1. 9 of 11 participants encountered errors while they were filling out the form, and most of them understood what they meant and what they needed to do to fix them.
+1. 9 of 11 participants encountered errors while they were filling out the form, and most of them understood their meaning and what they needed to do to fix them.
    > *"Tells me where I screwed up" (p13).*
+
    > *"That's awesome...I like that. It caught it" (p9).*
 1. One screen reader user (JAWS on desktop) encountered 4 different errors that he didn't understand how to resolve:
-     1. He didn't understand the "Country is required" error msg because he never saw the field (due to skipping over it before by navigating with the command "e" (in JAWS) to the next editable field). 
-        > *"I don't understand that. I didn't see any place to enter a country, and yet when I hit Continue...I don't remember seeing that [the Country] come up before I entered the address" (p3).*
+     1. He didn't understand the "Country is required" error message because he never saw the field (due to skipping over it before by navigating with the command "e" in JAWS to the next editable field). 
+        > *"I don't understand that. I didn't see any place to enter a country, and yet when I hit 'Continue'...I don't remember seeing that [the Country] come up before I entered the address" (p3).*
      1. He was confused by the Social Security Number (SSN) field error when he entered the 9 digits "123456789" after he was asked to enter fake data. This error also confused a non-AT user. Disallowing this input is not clear to users but shouldn't be an issue when users enter their actual SSN.
-     1. After fixing the SSN error, he heard another error that he thought was still for SSN but was actually for the VA file number field. That field had an "e" in it from navigating to the next editable field, which must have gotten typed into the web page accidentally and which he didn't hear the screen reader announce. He thought he entered the SSN incorrectly again, which wasn't the problem. Only when the moderator said that there's something in the VA file number field did he notice the "e" and understand that it came from his JAWS command.
+     1. After fixing the SSN error, he heard another error that he thought was still for SSN but was actually for the VA file number field. That field had an "e" in it from navigating to the next editable field, which must have gotten accidentally typed into the web page but he didn't hear the screen reader announce it. He thought he entered the SSN incorrectly again, which wasn't the problem. Only when the moderator said that there's something in the VA file number field did he notice the "e" and understand that it came from his JAWS command.
         > *"I guess if they didn't like the social security number, it's asking for a file number. I'm not sure, because it says you only need one. It looks like it took the social security number. Didn't say it was bad. It did say error as I started typing...I'm not sure what it's upset about" (p3).*
 
         > *"I got a little frustrated...My fingers don't always work right, and I usually hear any mistakes I make...I didn't catch that until I slowed down and looked at what was actually there" (p3).*
      1. On the Review/submit page, the participant submitted the form without entering his full name, and he wasn't able to correct the error on his own because of several issues:
         - The error brought focus to the beginning of the component instead of the *Your full name* field, which is required.
-        - A LOT of text was read aloud before finally getting to the error message at the end (this is a repeat of the verbose text that the participant heard before submitting the form):
-          > Note: According to federal law, there are criminal penalties, including a fine and/or imprisonment for up to 5 years, for withholding information or for providing incorrect information (Reference: 18 U.S.C. 1001).
-
-          > Statement of truth
-
-          > I confirm that the identifying information in this form is accurate and has been represented corretly.
-
-          > I have read and accept the privacy policy (opens in a new tab).
-
-          > Your full name star required
-
-          > Please enter your name exactly as it appears on your application: Joe X Smith
+        - A LOT of text was read aloud (with redundant announcing, as documented above) before finally getting to the error message at the end:
+          - Please enter your name exactly as it appears on your application: Joe X Smith
         - The participant thought that his name was entered correctly because it was read aloud. He didn't realize that the error text was instructing him to type that name into a field.
-        - The participant checked the box below to certify and thought that was all that he needed to do.
+        - The participant checked the box to certify and thought that was all that he needed to do.
           > *"I've already read this. I don't need to read this again" (p3).*
 
-- Only one participant said that they would prefer to be informed about errors differently--right after they leave a field, as opposed to after they click "Continue", so they know right away where the problem is. They also said that it's not really an issue with this form because it's so short (and the individual pages are short).
+- Only one participant said that they would prefer to be informed about errors differently--right after they leave a field, as opposed to after they click *Continue*, so they know right away where the problem is. They also said that it's not really an issue with this form because it's so short (and the individual pages are short).
 
-**Finding X: Only half of the participants (6 of 11) mentioned the progress bar.** 
+**Finding 9: Only half of the participants (6 of 11) mentioned the progress bar.** 
 1. The screen reader users who navigated the form starting from the H1 on each page didn't know about the progress bar because they never heard it announced.
 1. Four participants said that the step numbers are helpful so they know how close they are to being done.
    > *"Tells how far I'm in what I'm doing...and how much longer to fill out something" (p11).*
