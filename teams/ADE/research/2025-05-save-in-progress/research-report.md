@@ -388,7 +388,7 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
 
 *Identify gaps in the current study and areas requiring additional investigation––such as demographics that were not included in this study.* 
 
-1. Check analytics for the existing "Finish this request later" link on VA forms to see how much it's being used. It would be interesting to see if changing this link to a button (as tested in this study) would result in more clicks/engagement.
+1. Check analytics for the existing "Finish this request later" link on VA forms to see how much it's being used, but unfortunately it's not currently being tracked (only autosaves are currently tracked). Request that the "Finish this request later" link be instrumented for analytics, and then see if changing this link to a button (as tested in this study) results in more clicks.
 1. If the Save in Progress messaging gets revised as a result of this research, another round of usability testing would be helpful to see if it works better than the version tested in this study. For a more realistic user experience, we could simulate the timeout experience that signs out the user. 
 
 ## Appendix
