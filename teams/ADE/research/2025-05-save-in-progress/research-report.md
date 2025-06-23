@@ -299,13 +299,10 @@ Research sessions were conducted over Zoom during May 12-21, 2025. Sessions were
   
 1. Two other participants mentioned the step numbers. Only one participant mentioned the visual bars. 
 1. Three participants (1 using a screen reader on desktop, 1 using a screen magnifier on desktop, and using no assistive tech on a phone) said that the form had too many short pages and that they preferred fewer longer pages with related information on the same page, rather than across multiple pages (e.g., your name and social security number on different pages). 
-   > *"You can have one page that puts in your personal information and your demographics...And then the next page can be what I'm requesting...It could be cut down a lot, it didn't have to be 6 pages" (p2).*
+   > *"You can have one page that puts in your personal information and your demographics...And then the next page can be what I'm requesting...It could be cut down a lot. It didn't have to be 6 pages" (p2).*
 
-   > *"If you ask me for my street address, and then I have to hit continue to get to the next thing, that annoys me. So when I'm doing a form, I'd like as much information on that page to fill out all at one time as possible. I really don't like to have to go 'Continue' 'Continue' all the time because that's just another thing that I have to do and have to listen to" (p1--screen reader user).*
+   > *"If you ask me for my street address, and then I have to hit 'Continue' to get to the next thing, that annoys me. So when I'm doing a form, I'd like as much information on that page to fill out all at one time as possible. I really don't like to have to go 'Continue' 'Continue' all the time because that's just another thing that I have to do and have to listen to" (p1--screen reader user).*
 
-- _Supporting data: ![text](link - add image to github folder and link here with .png)_  
-
----
 
 ## Additional Insights
 *Include insights that do not represent patterns but are still valuable.*  
