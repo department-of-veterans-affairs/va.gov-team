@@ -76,9 +76,9 @@ In addition, user feedback collected on "finish this request later", error messa
 
 ## Methodology 
 
-We conducted **remote moderated usability testing** to observe research participants filling out an online form. The participants were logged in so that the information they entered was automatically saved before the form was submitted. We used a GitHub Codespace that is accessible to screen readers and screen magnifiers, which some of our participants were using.
+We conducted **remote moderated usability testing** to observe research participants filling out an online form. The participants were logged in so that the information they entered was automatically saved before the form was submitted. We used a GitHub Codespace that was accessible to screen readers and screen magnifiers, which half of our participants were using.
 
-Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 minutes long for Veterans using assistive technology (i.e., screen readers or screen magnifiers), and 60 minutes for Veterans not using any assistive tech. 
+Research sessions were conducted over Zoom during May 12-21, 2025. Sessions were 90 minutes long for Veterans using assistive technology (i.e., screen readers or screen magnifiers), and 60 minutes for Veterans not using any assistive technology (AT). 
 
 ## Hypotheses and Conclusions
 
@@ -115,15 +115,13 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
 [Example Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)
 
 1. Most participants (9 of 11) **didn't know that their information was being saved automatically with every edit**.
-1. Most participants (x of 11) **didn't read either of the informational alerts about saving**.
+1. Most participants **didn't see the informational alerts about saving**, and the few who did, didn't remember what they said.
 1. ALL participants **tried the *Finish later* button and from that learned that their information was saved**.
 
 
 
 
 ## Details of Findings 
-
-*Provide detailed descriptions and supporting evidence for each key finding.*  
 
 **Finding 1: Most participants (9 of 11) didn't know that their information was being saved automatically with every edit.**
 - 5 of 11 participants said that they wanted their information to be saved automatically with every edit.
@@ -137,10 +135,10 @@ Research sessions were conducted over Zoom on May 12-21, 2025. Sessions were 90 
 
   > *"In my experience, because I didn't manually request it to save, it doesn't save anything" (p11)*. 
 - More than half of the participants (6 of 11) were worried about their session timing out and losing the information they entered. 3 of these participants hoped their work would be saved--one based on previous experience with VA forms--but didn't know whether that would happen.
-- Some participants (4 of 11) wondered if their information would be saved if they logged out and then came back later. A couple participants tested this during their research session.
+- Some participants (4 of 11) wondered if their information would be saved if they logged out and then came back later. A couple participants tested this during their research session and found that it was saved.
 - Two participants said they expected a notification if saving was happening automatically, as one said that a social security form did, and another said that Microsoft Word does. 
 - Only one participant was confident that her information would be saved because of her experience filling out VA forms.
-  > *"When I fill out forms on va.gov...when you log back in or go back...it'll start you where you left off" (p4).*
+  > *"When I fill out forms on VA.gov...when you log back in or go back...it'll start you where you left off" (p4).*
 
 **Finding 2: Most participants didn't see the informational alerts about saving, and the few who did, didn't remember what they said**.
 
