@@ -16,7 +16,7 @@ Ref:
 - [Bugs sheet]()
 
 ### Blocked 
-- [Create test scenarios ticket]()
+- [Create test scenarios ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=arf-qa-scenarios-issue.md)
 
 ### Acceptance Criteria/Conditions of Satisfaction
 <!-- Specify criteria for ticket completion -->
