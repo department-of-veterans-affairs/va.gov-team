@@ -20,4 +20,21 @@ Updated to reflect My VA 3.0 Phase 1 use cases.
 
 ## Edge Cases
 
+### Validation
+This feature has no page level validation use cases. Validations per section are under each section.
+
+### Flags
+
+<details><summary>User does not have completed contact information on file</summary>
+
+- **Use case:** If an LOA3 user logs in and is missing their phone number, email, or address they are prompted to add that information from My VA.
+- **Status code:** TBD
+- **Format:** [Informational alert](https://design.va.gov/components/alert/#informational-alert-aka-default)
+- [Link to designs]
+- [Link to product documentation]
+
+</details>
+
+
+### Errors
 - [System can't connect to MPI error](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/system-cant-connect-to-MPI.md)
