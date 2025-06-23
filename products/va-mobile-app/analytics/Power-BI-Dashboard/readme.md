@@ -36,4 +36,5 @@ The mobile team took a few days to get access lined up for CXI and to investigat
 - Bringing the rest of the [mobile monthly metrics](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app/analytics#monthly-mobile-metrics) into a dashboard.
 - Data migration from BigQuery into CXI for historical data and custom queries
 
-
+## New Report Guide
+- [Walkthrough for creating a new report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/analytics/New%20Report%20Template/Creating%20a%20New%20PowerBI%20Report.md) in PowerBI desktop for a specific Google Analytics event over time.
