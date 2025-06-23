@@ -2,8 +2,8 @@
 name: VAOS Bug Template
 about: For filing VAOS bugs found
 title: ''
-labels: bug, appointments
-assignees: JRRoof
+labels: appointments, bug
+assignees: ''
 
 ---
 

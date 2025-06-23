@@ -1,7 +1,7 @@
 ---
-name: 'Forms 3. Build front end'
+name: Forms 3. Build front end
 about: Describe this issue template's purpose here.
-title: '[form number] Build front end'
+title: "[form number] Build front end"
 labels: forms-audit-digitize
 assignees: ''
 

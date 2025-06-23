@@ -1,5 +1,5 @@
-# Contact information: User needs to add or update contact information
-**Last updated:** February 14, 2024
+# Contact information: User needs to add, edit, or remove contact information (addresses, phone numbers, or contact email)
+**Last updated: June 2025**
 
 - If a user doesn’t have contact information on file, they’ll see a prompt to add missing information within the relevant section.  
 - They can use the “Edit” button to add or update their contact information in edit mode. This applies to:
@@ -65,4 +65,3 @@ N/A
 2. Log in with vets.gov.user+82 or vets.gov.user+221 ([staging user info](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv))
 3. Click the edit button on *any section except mailing address* and add missing information, or edit existing information.
 4. Remove the information you added before logging out by clicking the remove button. You don’t need to remove information you edited if something was already there.
-

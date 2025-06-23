@@ -105,12 +105,12 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - Team Name: VA-IIR
 - GitHub Team Label: non-disability-benefits
 - GitHub Product Label: CH31, vr&e
-- Slack channel: benefits-non-disability
+- Slack channel: iir-product-teams-public
 - Product POCs: Peter Egan(product manager), Adam King (Tech Lead)
 
 #### Stakeholders
 - Office/Department:
-   - OCTO (Emily Theis, Julie Strotham, Steve Albers)
+   - OCTO (Dave Conlon)
    - VBA (Donna Robinson, Calvin Fisher, Sarah Debel). Policy & procedures (Pamela Salazar, Sharon Hirsch, Maria E. Sullivan)
 
 #### Team Members

@@ -1,7 +1,7 @@
 ---
 name: Forms 1. Create from directory and skeleton in front end repositories
 about: Describe this issue template's purpose here.
-title: '[form number] Create from directory and skeleton in front end repositories'
+title: "[form number] Create from directory and skeleton in front end repositories"
 labels: forms-audit-digitize
 assignees: ''
 

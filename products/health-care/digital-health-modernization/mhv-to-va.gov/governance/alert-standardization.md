@@ -12,7 +12,7 @@ To ensure a consistent Veteran experience and reduce cognitive load within the M
 * [500 internal service error alert](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/digital-health-modernization/mhv-to-va.gov/governance/alert-standardization.md#500-internal-service-error-component)
 
 ## High-level API access logic
-Applications should route-guard any users who do not meet two high-level gating requirements to the `/my-health` landing page to see the relevant alert in place there. The goal of this requirement is to have a single place to maintain and update alerts, and to prevent users without access to My HealtheVet from getting to deeper child pages within the experience. Instead, they will see certain alerts in place at the top of the portal, where we believe it is the best place to explain and contextualize why they do not have access, and steps they need to take in order to answer questions they may have about managing their healthcare on VA.gov. 
+Applications should route-guard any users who do not meet two high-level gating requirements to the `/my-health` landing page to see the relevant alert in place there. The goal of this requirement is to have a single place to maintain and update alerts, and to prevent users without access to My HealtheVet from getting to deeper child pages within the experience. Instead, they will be met with alerts or a distinct landing page at the "front door" to the portal, which we believe to be the best place to explain and contextualize why they do not have access, and steps they need to take in order to answer questions they may have about managing their healthcare on VA.gov. 
 
 ```mermaid
 flowchart TD
@@ -29,7 +29,7 @@ flowchart TD
 ### Checks for ALL applications in the My HealtheVet portal
 1. All `/my-health` application pages should look for an ID-verified credential (IAL2) as the first-order criteria before rendering a page for users. If an ID-verified credential (IAL2) is not detected, the application should **redirect the user to the MHV-on-VA.gov landing page**, where the page will render an ID-verification alert (all other page content, including access to the tools and the secondary nav bar will be suppressed).
 2. If an ID-verified credential (IAL2) is detected, then `/my-health` application pages should check for the presence of a facility in the user's profile.
-3. If there is no facility in the profile, the application should **redirect the user to the MHV-on-VA.gov landing page**, where the page will render a "No access to My HealtheVet" alert (all other page content, including access to all health tools tools and the secondary nav bar will be suppressed).
+3. If there is no facility in the profile, the application should **redirect the user to the MHV-on-VA.gov landing page**, ~~where the page will render a "No access to My HealtheVet" alert (all other page content, including access to all health tools tools and the secondary nav bar will be suppressed)~~ Edit made 4/23/25: For Milestone 2, the landing page will no longer render a "No access to My HealtheVet" alert, but will instead be a modified landing page for non-patient users, which will include links for these users to download their data.
 4. If a facility is in the user's profile, then any health portal applications that do not rely on the MHV-API backend should be rendered. 
 
 ### Checks only for applications that rely on the MHV-API backend
@@ -65,13 +65,14 @@ NOTE: Screenshots below are taken from this [Figma file](https://www.figma.com/d
 
 </details>
 
-### No access to My HealtheVet alert screenshot
+### No facility registration: Non-patient landing page (previously was MHV landing page: No access to MHV)
 
-<details><summary>MHV landing page: No access to MHV</summary>
-<img width="972" alt="Screenshot 2024-12-16 at 3 46 42 PM" src="https://github.com/user-attachments/assets/94231bd6-e773-45cb-bd71-5318642f80f3" />
-
+<details><summary>Non-patient landing page</summary>
+<img width="972" alt="Screenshot of non-patient landing page" src="https://github.com/user-attachments/assets/36207cc3-0a84-4f25-a29b-5e1de4bef561" />
 
 </details>
+
+
 
 
 ## Missing MHV-Identifier (Account Creation API)
@@ -107,37 +108,26 @@ Benefit hub pages corresponding with these tools currently have more complex ver
 The entire `/my-health` portal sits behind authentication and every application under this namespace must require authentication. Thus, any unauthenticated user who attempts to access a URL within any application in this space should trigger the sign-in modal. Until a user signs in, we cannot determine whether a user has authorization to access the page they are attempting to reach. 
 
 ## 403 Access denied component
-The 403 error sends the user to a new page; this error component will only be experienced by users with access to My HealtheVet who attempt to access a url within the /my-health name space that they don't have credentials for (i.e. a records url for a different user). As shown in the screenshot below, the 403 error includes guidance to call the My HealtheVet helpdesk, try other health-related resources, or navigate elsewhere within the portal using the MHV secondary nav.
+The 403 error sends the user to a new page; this error component will only be experienced by users with access to My HealtheVet who attempt to access a url within the /my-health name space that they don't have credentials for (i.e. a records url for a different user). As shown in the screenshot below, the 403 error includes guidance to call the My HealtheVet helpdesk or navigate elsewhere within the portal using the MHV secondary nav.
 
 [Figma file](https://www.figma.com/design/m992k2m1DSl9MXV9hDytsQ/MHV-Account-Security-%26-Access-Standards?node-id=685-14636)
 
+Exception: In June 2025, the Medications team was given an exception and will implement the 404 design for both the intended Page not found scenario and for this 403 scenario. 
+
 <details><summary>403 error page for MHV users</summary>
-<img src="https://github.com/user-attachments/assets/015ea1f8-4322-4141-888c-76c28433c475" />
-    
+<img src="https://github.com/user-attachments/assets/6f779428-1b0b-4e9d-9a01-d62eed8a58a4" />
 </details>
 
 ## 404 Page not found component
-The Cartography team took on designing and building a React 404 error based loosely on the Drupal version for VA.gov. We have not (yet) created a version specific to My HealtheVet, so all My HealtheVet users who change a link under the /my-health namespace to an incorrect / non-existant url will be sent to this same 404. At this point, the React version of the VA.gov 404 is still in experimental design and is therefore subject to changes. [Experimental design ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/2912)
+The 404 error sends users to a new page; this error component will only be experienced by users with access to My HealtheVet who change a link under the /my-health namespace to an incorrect / non-existant url will be sent to this same 404. As shown in the screenshot below, the 404 error includes guidance to go to the the My HealtheVet landing page, call the helpdesk, try other health-related resources, or navigate elsewhere within the portal using the MHV secondary nav.
 
-[Figma file](https://www.figma.com/design/m992k2m1DSl9MXV9hDytsQ/MHV-Account-Security-%26-Access-Standards?node-id=915-33082)
+[Figma file](https://www.figma.com/design/m992k2m1DSl9MXV9hDytsQ/MHV-Account-Security-%26-Access-Standards?node-id=1071-19363&t=rNA4JxDx5GaXwOk9-1)
 
 <details><summary>404 Page not found for VA.gov</summary>
-<img src="https://github.com/user-attachments/assets/f62d1256-f9c9-41ad-9af4-9b62e2baddf1" />
-
+<img width="928" alt="Screenshot 2025-04-02 at 3 37 17 PM" src="https://github.com/user-attachments/assets/7cdda17c-95d6-4beb-aedb-f5a49c1324c9" />
 </details>
 
-## 500 Internal service component
-There are two versions of the 500 component copy; one provides basic guidance to users to recover (refresh browser) and can be used in any scenario in which the basic guidance would be the same. The other version is only a template and teams that need to deviate from the basic guidance will need to write their own copy to help users recover from the error. The intention behind creating two versions is to explicitly sanction and encourage teams to write their own copy when specific instructions would be helpful to the user. 
+## 500 Internal service error component
+Edit made 5/30/25: Based on feedback from tool teams and content, we have decided to pause the requirement to standardize both 500 design versions until Cartography is able to work with the Content and IA team to get approval on a template.
 
-On the question of placement: This error component should appear after the page's H1 and lede text (if applicable) and before any other content on the page.
-
-[Figma file](https://www.figma.com/design/m992k2m1DSl9MXV9hDytsQ/MHV-Account-Security-%26-Access-Standards?node-id=753-3)
-
-<details><summary>Messages' Inbox page: 500 **with** guidance</summary>
-<img width="928" alt="image" src="https://github.com/user-attachments/assets/e2b47c05-510b-4ac8-9e04-1e0f3faf8c68" />
-</details>
-
-<details><summary>Messages' Inbox page: 500: **no** guidance</summary>
-<img width="930" alt="image" src="https://github.com/user-attachments/assets/754d38c3-6356-4d2d-8e04-3045f0547960" />
-</details>
-
+~~There are two versions of the 500 component copy; one provides basic guidance to users to recover (refresh browser) and can be used in any scenario in which the basic guidance would be the same. The other version is only a template and teams that need to deviate from the basic guidance will need to write their own copy to help users recover from the error. The intention behind creating two versions is to explicitly sanction and encourage teams to write their own copy when specific instructions would be helpful to the user.~~ 

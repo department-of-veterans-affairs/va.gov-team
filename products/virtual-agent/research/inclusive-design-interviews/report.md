@@ -1,3 +1,23 @@
+ ```yaml
+ ---
+product: virtual-agent
+type: research-findings
+date: 2022-07-12
+authors: ["Shane Strassberg", "Rachel M. Murray"]
+tags: [
+  "inclusive design",
+  "accessibility",
+  "chatbot",
+  "508 compliance",
+  "virtual agent",
+  "VA.gov",
+  "screen readers",
+  "user research",
+  "Veterans"
+]
+---
+  ```
+
 # Chatbot Inclusive Design Research Report   
 
 #### Shane Strassberg and Rachel M. Murray, [research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/research/inclusive-design-interviews/research-plan.md)

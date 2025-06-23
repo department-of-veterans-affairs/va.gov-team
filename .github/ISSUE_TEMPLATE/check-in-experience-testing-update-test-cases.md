@@ -12,4 +12,3 @@ assignees: ''
 
 ## Acceptance Criteria
 - [ ] Travel TestRail test cases are up-to-date with the feature
-

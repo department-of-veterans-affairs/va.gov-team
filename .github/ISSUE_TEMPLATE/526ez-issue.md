@@ -1,9 +1,11 @@
 ---
 name: 526EZ Issue Report
-about: For reporting issues with the 526EZ application (Application for Disability Compensation and Related Compensation Benefits)
-title: '<Simple Title/Description> - <optional case number>'
+about: For reporting issues with the 526EZ application (Application for Disability
+  Compensation and Related Compensation Benefits)
+title: "<Simple Title/Description> - <optional case number>"
 labels: 526ez-Defects
 assignees: ''
+
 ---
 
 # Instructions
@@ -55,5 +57,3 @@ Please fill out the form below, providing as much detail as possible.
       - Is the failure silent?
   - Is this caused by a downstream back-end exception?
 - [ ] Severity Assigned ( sev-critical / sev-major / sev-moderate / sev-minor ) [Link](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677075027359/3be1457e29c424eeada818562a30b363a778fff0?wid=0-1685044574087)
-
-

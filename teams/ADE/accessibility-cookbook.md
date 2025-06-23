@@ -96,12 +96,14 @@ Assistive technology users rely on proper semantics to access web content. They 
 	- Links to internal web pages
 	- Links to external websites (read the [Content style guide](https://design.va.gov/content-style-guide/links#linking-to-external-sites) for additional information)
     - Links to PDFs, whether static or generated on the fly
+        -  **Rationale:** The final product is a file, and the Veteran may not know that the PDF is generated on the fly.
+        -  **Exception:** If the trigger to generate the PDF is "Generate PDF," "Create PDF," or other phrases that explicitly call out the "action" nature of the generation, use a button.
   - Created using the [Link component](https://design.va.gov/components/link/), the [Action link component](https://design.va.gov/components/link/action) if you need extra visual emphasis, or with [standard semantic HTML link](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
   - Styled to look like links and shouldn’t include button signifiers, such as borders
 
 ### Implementation notes
 
-![Button or link flow chart](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/ADE/button-or-link.png)
+![Button or link flow chart](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/ADE/bin/button-or-link.png)
 
 #### Should this be a button or link?
 

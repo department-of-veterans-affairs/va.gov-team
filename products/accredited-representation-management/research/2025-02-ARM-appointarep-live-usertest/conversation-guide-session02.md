@@ -1,4 +1,4 @@
-# **Conversation Guide for ARM Team, Appoint a Representative - VA.gov User Test, 02/2025**
+# **Conversation Guide for ARM Team, Appoint a Representative Digital Submit - VA.gov User Test, 02/2025**
 
 ## **Moderator logistics**
 
@@ -24,9 +24,9 @@
 
 ## **Intro - 5 minutes**
 
-**Non-AT participants/** Thanks for joining us today! My name is \[NAME] and I’m a researcher working for VA.gov. \[NAME] will be joining us to take notes.
+**Non-AT participants/** Thanks for joining us today! My name is Marisa, and I’m a researcher working for VA.gov. \[NAME] will be joining us to take notes.
 
-**AT participants/** Thanks for joining us today! My name is \[NAME] and I’m a researcher working for VA.gov. \[NAME] will be joining us to assist with any technology needs today.
+**AT participants/** Thanks for joining us today! My name is Marisa, and I’m a researcher working for VA.gov. \[NAME] will be joining us to assist with any technology needs today.
 
 Before we get started a few things I want to go over:
 
@@ -35,9 +35,11 @@ Before we get started a few things I want to go over:
 - I want to confirm a few things from the notes I received prior to our session.
   - During the session we will be asking you to complete a form on VA.gov and provide feedback. While the form is real, you will not be asked to sign in if you do not want to, and completing the form will have no impact on your VA.gov account in any way. Are you comfortable with proceeding?
   - **All participants/** I understand that you are \[searching for/working with] a \[VSO/attorney/claims agent]? Is that correct?
-  - **AT participants/** Confirming you are on a \[device] and use \[AT software]? Are you able to use that software in our session today?
+  **AT participants/**
+  - What assistive technologies are you using in this session?
+  - Do you need a screen reader to access va.gov?
 - _If yes;_ Thank you so much for confirming.
-- _If no;_ Thank you for showing up today, but unfortunately we are looking for participants who [are comfortable providing feedback on VA.gov]/[are engaging with representatives]/[use assistive technology]. Perigean will reach out to you to follow-up, but otherwise I’m going to end our session today. Thank you so much for your time. Have a good day.
+- _If no;_ Thank you for showing up today, but unfortunately, we are looking for participants who [are comfortable providing feedback on VA.gov]/[are engaging with representatives]/[use assistive technology]. Perigean will reach out to you to follow-up, but otherwise I’m going to end our session today. Thank you so much for your time. Have a good day.
 
 **Legal**
 
@@ -65,11 +67,11 @@ Let’s start with a few warm-up questions.
 1. Why did you decide to get help from a representative?
    1. How are you currently searching for/how did you search for a representative?
       1. _If they did not consider VA.gov/_ Did you consider VA.gov as an option for finding a representative? Why or why not?
-   2. **AT participants/** Has your use of \[AT TECHNOLOGY] impacted your representative search in any way?
+   2. **AT participants/** Has utilizing a screen reader impacted your representative search? 
 2. I have written down that you use VA.gov \[FREQUENCY]. What do you use VA.gov for?
    1. **Non-AT participants/** Have you had any challenges using VA.gov?
       1. _If yes;_ what challenges have you experienced?
-   2. **AT participants/** Have you had any challenges using VA.gov with \[AT TECHNOLOGY]?
+   2. **AT participants/** Have you had any challenges using VA.gov with a screen reader?
       1. _If yes;_ what challenges have you experienced?
 
 
@@ -230,18 +232,15 @@ _Your next steps_
 - How likely would you use the tool we showed today? Why or why not?
 - Observers, do you have any additional questions?
 
-## Post-Task Interview – Non-AT Users Only  
+## Post-Task Interview - 5 mins  
 
-Prototype Share - 5 minutes
+- Overall, about everything we covered during today's session...
+-   What worked well for you?
+-   What was unclear or didn't work well for you
+-   What would you like to change or add?
 
-At this time, we would like to show you some work that is in development.
+- Observers, do you have any additional questions?
 
-Share the Figma link with prototype
-
-- This prototype represents the next step of the form process that is submitted from VA.GOV. Upon submitting this is the next set of screens.
-    1. Is there anything on this screen that stands out?
-    2. Is there any information missing?
-    3. What do you think the labels represent?
 
 ## Thank-You and Closing - 2 minutes
 

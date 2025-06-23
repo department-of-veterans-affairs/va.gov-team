@@ -1,8 +1,9 @@
 ---
 name: Platform Support Tier 1
 about: Base template for tier 1 platform support team
-labels: ["platform-tech-team-support", "Platform-Support-Sprint-Work"]
-assignees: 
+title: ''
+labels: Platform-Support-Sprint-Work, platform-tech-team-support
+assignees: ''
 
 ---
 
@@ -25,4 +26,4 @@ _Steps to reach definition of done._
 ## Resources & Additional Info 
 _Links, screenshots, etc. go here_ 
 
---- 
+---

@@ -14,8 +14,8 @@ Staff travel clerks often have to take manual steps to fix, validate, and proces
  
 ## Desired User Outcomes
 
-- Able to interact with travel reimbursement functionality directly on VA.gov and VA Flagship mobile app
-- Able to interact travel reimbursement functionality where it is needed by leveraging an API-first approach
+- Able to interact with travel reimbursement functionality directly on VA.gov and VAHB mobile app
+- Able to interact with travel reimbursement functionality where it is needed by leveraging an API-first approach
 - Enjoy a simple, intuitive experience that meets all VA.gov accessibility, design standards, and performance standards
 - Positive feedback through Medallia
  
@@ -39,11 +39,17 @@ Staff travel clerks often have to take manual steps to fix, validate, and proces
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-- Number of Call Center / Help Desk inquiries about beneficiary claim status
-- Traffic to legacy Travel Claims Portal
+| Product KPI                                                                      | Baseline | Target | Data Source |
+|----------------------------------------------------------------------------------|----------|--------|-------------|
+| % / # of claims submitted in VA.gov matching at least 'in process' status in BTSSS | --       | 100%   | PowerBI     |
+| Claims created by API = claims processed by BTSSS                                | --       | 100%   | Datadog     |
+| Qualitative feedback                                                              | --       | --     | Medallia    |
+| Travel Pay API errors                                                             | --       | 0%     | Datadog     |
+| Technical error rate in claim submission on VA.gov                               | 0        | 0      | Datadog     |
+| # / % Claims from VA.gov in auto-adjudication                                    | --       | 0%     | PowerBI     |
+| Claim volume increase from VA.gov                                                | --       | 30%    | PowerBI     |
+| vets API errors                                                                   | --       | 0      | Datadog     |
 
-#### Baseline KPI Values
-* _Baseline values for those most critical metrics. These may come from other systems other than VA.gov e.g. eBenefits._
 
 ### Objectives and Key results (OKRs)
 - Objective: Improve the usability of VA.gov for beneficiary travel claims
@@ -52,25 +58,15 @@ Staff travel clerks often have to take manual steps to fix, validate, and proces
 - Objective: Improve reporting of beneficiary travel claims digital tools usage
   - Key result: We are able to track migration progress from the legacy Travel Claims Portal to VA.gov
   - Key result: We are able to establish baseline metrics for the VA.gov experience
-
-
-<details>
-  <summary>Draft OKRs from OCTO</summary>
  
 - Objective: Increase the number of Veterans who are eligible to submit a claim.
   - Key result: Number of valid, payable claims submitted increases by X%
   - Key result: Number of eligible Veterans enrolled is increased by X%
 
 - Objective: Decrease time to payment.
-  - Key result: Claims are approved faster with less manual intervention by X%
-  - Key result: 
-
-- Objective: Simplify the complexity of submitting a claim.
-  - Key result: Claims are submitted during the check in process handling X claims
-  - Key result: Claim tools are integrated into va.gov for simple claims handling X claims
-
-</details>
-
+  - Key result: 90% of SMOCs are auto-adjudicated on VA.gov.
+  - Key result: 90% of claims are eligible for immediate approval and payment status
+   
 ---
 
 ## Assumptions
@@ -86,21 +82,35 @@ Staff travel clerks often have to take manual steps to fix, validate, and proces
 ### Initiatives
 
 - MVP - Status of a Claim: The Travel Pay Status Page, [now viewable](https://staging.va.gov/my-health/travel-pay/claims) to 100% of Veterans
-- Travel Pay Status Page: Simple, Mileage-Only Claims (SMOC)
+- Simple, Mileage-Only Claims (SMOC) on VA.gov - [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/initiatives/SMOC/smoc_initiative%20brief.md)
+    - [Now Released](https://staging.va.gov/my-health/appointments/past  
+- Claim Details v2 (Appealing a denied claim) - [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/initiatives/claim_details_v2/claim_details_v2_initiative_brief.md)
+- Complex Claims - [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/initiatives/claim_details_v2/claim_details_v2_initiative_brief.md)
+- Claim Details Screen on VAHB - [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/initiatives/claim-details-mobile/claim-details-mobile-screen.md)
 
 --- 
 
 ## Launch Strategy
--[Travel Pay Status Page Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
--[SMOC Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/SMOC%20Rollout%20Plan.md)
+- [Travel Pay Status Page Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+
+- [SMOC Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/product/SMOC%20Rollout%20Plan.md)
 
 ## Rollout Dates
 - *Target Launch Date - Travel Pay Status Page*
   - May 2024
 - *Actual Launch Date* 
-  - January 2025
+  - January 23, 2025
 - *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
   - March 20, 2025
+ 
+- *Target Launch Date - SMOC*
+  - March 2025
+- *Actual Launch Date* 
+  - April 21, 2025
+- *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
+  - June 2025
+
+
 
 ---
 
@@ -114,17 +124,38 @@ See [Decision Log](./decision-log.md)
 
 Travel Claims Portal - Dashboard
 
-![BTSSS-TCP-Dashboard](https://github.com/laurenernest/va.gov-team/assets/72046525/6d335e38-1139-4986-a754-5bf36e607ee8)
+![BTSSS-TCP-Dashboard](https://github.com/user-attachments/assets/89a4ff2e-5655-45a7-88b2-e00f3f5f2ffb) <br/><br/>
+
+<br>
 
 Travel Claims Portal - Appointments List
 
-![BTSSS-TCP-Appointments List](https://github.com/laurenernest/va.gov-team/assets/72046525/6b139471-c8de-4bce-992a-a91e1671cc9d)
+![BTSSS-TCP-Appointments List](https://github.com/user-attachments/assets/f5dd116a-996b-4a84-8fb6-f4846e120af8)
+
 
 
 ### After
 
+Travel Claims List
+ 
+<img src="https://github.com/user-attachments/assets/817a6f55-9889-4872-9e34-447c2c62bb98" width="546" height="768"><br/><br/>
+
+
+Entry from Past Appointment
+ 
+<img src="https://github.com/user-attachments/assets/251e2ea7-b022-4785-bb9b-e5a22b489b4a" width="546" height="517">
+
+
+---
+
+
+#### Stakeholders
+
 _What offices/departments are critical to make this initiative successful?_
- -VTP
- -VEO
- -OCTO
- -Call Center
+
+ - VTP
+ - VEO
+ - OCTO
+ - Call Center
+ 
+

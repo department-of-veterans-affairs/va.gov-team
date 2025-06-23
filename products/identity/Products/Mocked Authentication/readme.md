@@ -27,12 +27,12 @@ Mocked authentication was created to solve pain points Engineers, Designers, Pro
 
 ## How Mocked Authentication Works
 
-VA.gov mocked authentication interacts with the [Sign in Service](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Sign-In%20Service), playing the role of the CSP in between the `/authorize` & `/callback` calls. Local and development environments for VA.gov already leverage mocked MPI responses to populate user attributes. The mocked authentication flow uses .json files to provide the identifying attributes (first & last name, DOB, SSN, etc.) normally returned by the CSP as arguments. It then uses these mocked identifying attributes to structure a call to the SiS `/callback` route, prompting vets-api to look up the matching data from the mocked MPI response and log the user in.
+VA.gov mocked authentication interacts with the [Sign in Service](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service), playing the role of the CSP in between the `/authorize` & `/callback` calls. Local and development environments for VA.gov already leverage mocked MPI responses to populate user attributes. The mocked authentication flow uses .json files to provide the identifying attributes (first & last name, DOB, SSN, etc.) normally returned by the CSP as arguments. It then uses these mocked identifying attributes to structure a call to the SiS `/callback` route, prompting vets-api to look up the matching data from the mocked MPI response and log the user in.
 
 ## Client Guide
 
 ### Mocked Authentication with VA Identity Postman
-The VA Identity [Postman Collection](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs/postman.md#mocked-authentication) includes routes to interact with mocked authentication. These routes can be found under `Sign in Service >> Mock Auth`.
+The VA Identity [Postman Collection](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/identity_postman.md#mocked-authentication) includes routes to interact with mocked authentication. These routes can be found under `Sign in Service >> Mock Auth`.
 
 ### How to use Mocked Authentication
 To use mocked authentication you need to navigate to the mocked authentication route on vets-website located at
@@ -84,7 +84,7 @@ Follow these steps to generate `state` code and `acr`:
 
 2. Choose a [mocked user you wish to authenticate as](https://github.com/department-of-veterans-affairs/vets-api-mockdata/tree/master/credentials). Identify if they are an ID.me or Login.gov user.
 
-3. Execute a cURL request to [the SiS `/authorize`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Sign-In%20Service/endpoints/authorize.md) endpoint:
+3. Execute a cURL request to [the SiS `/authorize`](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs/Authentication%20Types/Client%20Auth%20(User)/endpoints/authorize.md) endpoint:
     ```bash
     curl 'localhost:3000/v0/sign_in/authorize?type=logingov&code_challenge_method=S256&acr=ial2&client_id=vamock&code_challenge=1BUpxy37SoIPmKw96wbd6MDcvayOYm3ptT-zbe6L_zM='
     ```

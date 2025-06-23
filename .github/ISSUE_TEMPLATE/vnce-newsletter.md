@@ -3,7 +3,7 @@ name: VNCE Newsletter
 about: Template for bi-weekly AVS/VEText Newsletter
 title: " [MM/DD/YY] AVS/VEText Newsletter"
 labels: Documentation vt, Product Support vt, VEText vt
-assignees: ahicksfearless
+assignees: ''
 
 ---
 

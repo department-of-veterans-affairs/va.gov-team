@@ -114,10 +114,4 @@ Targeting Launch March 18-25th
 * Who is monitoring the dashboard(s)?: 
 	- Ask VA development team
 
-| Stage              | Throughput | Error Rate: Form Submissions| Error Rate: Dashboard replies| Latency: vet-api| Latency: CRM |
-| ------------------ | ---------- | --------------------------- | ---------------------------- | --------------- | -------------|
-| Canary             |      33    |           0%                |             0%               |                 | AVG 2.8s
-| A: 25% of Traffic  |   338      |            4.1%                  |       0%                      |                 | AVG 3.7s
-| B: 50% of Traffic  |            |                   |                        |         |
-| C: 75% of Traffic  |            |                   |                        |         |
-| D: 100% of Traffic |            |                   |                        |         |
+5/29 update: BP moved launch metrics to the [Launch metrics GitHub doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/engineering/Launch-metrics.md) in ask-va/engineering

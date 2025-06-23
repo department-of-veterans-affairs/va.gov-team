@@ -1,23 +1,43 @@
 # Notice of Disagreement - Appeal to the Board
 
-## Communications
-- GitHub Label: [NOD](https://github.com/department-of-veterans-affairs/va.gov-team/labels/???)
-- Slack channel: [#benefits-team-1](https://dsva.slack.com/archives/C5AGLBNRK) formerly #vsa-claims-appeals
-- Product POCs: Matt Self and Veronica Henry
-- va.gov link: https://www.va.gov/decision-reviews/board-appeal/
-- Phyical form: https://www.va.gov/vaforms/va/pdf/VA10182.pdf
-- Stakeholders: The Board - will fill in from NOD info
+## Team Communications
+- **Product POCs**: Matt Self and Veronica Henry
+- **Physical form**: https://www.va.gov/vaforms/va/pdf/VA10182.pdf
+- **Stakeholders**: The Board - will fill in from NOD info
+- **Government lead**: Amy Lai
+- **Slack channel**: [#benefits-decision-reviews](https://dsva.slack.com/archives/C5AGLBNRK)
+- **Github labels**: team-DRAGONS, Decision-Reviews-Team
+
+### Core Team  
+  
+|Name|Role|Email|
+|----|----|-----|
+|Amy Lai|Product Owner, Gov't Lead| amy.lai2@va.gov |
+|Julie Strothman|Design Lead, VA| julie.strothman@va.gov|
+|Cory Sohrakoff|Engineering Lead, VA| Cory.T.Sohrakoff@omb.eop.gov|
+|Pam Macalintal|Delivery Manager|pam.macalintal@agile6.com|
+|Christian Crumlish|Product Manager| ccrumlish@kindsys.us|
+|Lauren Dawson| UX Researcher/Designer |lauren.dawson@agile6.com |
+|Kyra Berman-Gestring| UX Researcher/Designer |kyra.berman-gestring@agile6.com |
+|Tracy Tran| Accessibility Engineer | tracy.tran@agile6.com |
+|Cindy Lackey | Content Designer/Strategist | cindy.lackey@coa.solutions |
+|Grace Xu |Engineering Lead| gxu@kindsys.us|
+|Jerry Sea |Full Stack Engineer| jsea@kindsys.us |
+|Randi Mays | Full Stack Engineer | rmays@kindsys.us |
 
 ## The Problem
 Veterans are still using a paper form to submit disagreement claims appeals.  If the veteran disagrees with an initial claims decision, they have three appeals paths: supplemental claim, higher level review, and notice of disagreement. Currently VA.gov only supports Higher Level Review, which does not allow for submission of any new evidence. This functionality does not exist on eBenefits either, so digitization will allow veterans to file appeals using VA.gov.  Although Supplemental Claims is "next" in terms of typical route for a veteran, a business decision has been made to work with Lighthouse and OAR on NOD next.  
 
 We believe that bringing this to VA.gov will greatly reduce the time-to-a-decision for veterans.
 
-## Devlopment Plan
+## Development Plan
 Pulling in some details from Lighthouse.
+
 ![Lighthouse Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Notice-of-Disagreement/NOD_plan_Lighthouse_Dec1.png)
 
 ### VA.gov Implementation
+
+https://www.va.gov/decision-reviews/board-appeal/
 
 #### Phase 1 (True MVP) Implementation Elements (Q1)
 1. Research and Design

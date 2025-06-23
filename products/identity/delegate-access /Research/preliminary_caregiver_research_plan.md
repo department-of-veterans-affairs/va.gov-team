@@ -2,7 +2,7 @@
 
 ## **Background**
 
-Caregivers are given permission by Veterans to manage the care or personal affairs of Veterans.  In order to understand the digital needs, we are having preliminary conversations with caregivers who we have identified through our immediate team (since they are difficult to get ahold of).
+Caregivers are given permission by Veterans to manage the care or personal affairs of Veterans. We are having preliminary conversations with caregivers, in order to understand their digital needs and uncover any potential pain points as they navigate the VA.
 
 * [product info](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/delegate-access%20#initiative-outline-delegate-access-mvp)
 
@@ -26,42 +26,94 @@ Learn about the process of how caregivers are able to complete various tasks and
 
 ### **Research questions**
   
-- How do caregivers and Veterans learn about the forms and process required to get started?
-  - What in-person interactions were necessary to complete the process?
-- Do caregivers and Veterans know how to offboard or remove the caregiving relationship?
-- How is a delegate currently authorized and designated as a caregiver?  
-- How might a Veteran assign permissions for a caregiver? For what period of time is the designation active? 
-- Through what mechanisms does the caregiver undergo to complete actions on behalf of the Veteran?
+- Which methods does the caregiver utilize to complete actions on behalf of the Veteran?
   - Is the caregiver given digital access?
-- what actions do caregivers need the most when helping a Veteran?
+- What functions do caregivers do on behalf of the Veteran most frequently?
+- How is a delegate currently authorized and designated as a caregiver?  What actions must the Veteran take?
+- How might a Veteran assign permissions for a caregiver? For what period of time is the designation active?
 
 ### **Hypotheses**
 
-- H1: A Veteran must file form(s) with the VA in order to designate a caregive to act on their behalf.
-- H2: Veterans can designate specific permissions that caregivers may have.  
-- H3: There is a standardized practice at the VA for granting caregiver access at the VA.
-- H4: Caregivers do not currently have access to digitally complete actions on behalf of the Veteran they are caring for.
-- H5: Caregivers want access to a Veteran's online account
-- H6: Access to a Veteran's account would make caregiving easier
+- H1: Veterans can designate specific permissions that caregivers may have.
+- H2: Caregivers do not currently have access to digitally complete actions on behalf of the Veteran they are caring for.
+- H3: Caregivers have a desire to leverage digital tools to complete actions on behalf of Veterans.
+- H4: Non-digital mechanisms for accessing healthcare benefits are difficult to maneuver.
+- H5: With the deprecation of MHV, there has been a significant roadblock for representatives/caregivers to digitally monitor and complete actions for Veterans in their care.
   
 ## **Methodology**
 
 - Interview caregivers who have completed various actions on behalf of Veterans
-- Interview Veterans who currently or previously have had a caregiver
-- Interview VA personnel who help establish guardian access
+- Interview VA personnel who interact with Veteran healthcare benefits.
 
 ### **Research materials**
 
-- Conversation guide  
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/delegate-access%20/Research/caregiver_conversation_guide.md) 
 
-## **Recruitment**
-We will be speaking to known caregivers since they have been historically hard to get in touch with.
+## Recruitment	
 
+### Recruitment approach
+
+We will use Perigean to recruit Veteran representatives who are representatives for Veterans that require assistance with accessing their healthcare benefits  for this moderated study. 
+
+### Recruitment criteria
+
+12 for at least 8 completed sessions
+
+**Primary criteria (must-haves)**
+All participants:
+- Must have a computer or mobile phone and be willing to complete the interview remotely
+- Must have a working microphone
+- In addition our primary product criteria includes:
+   - Must be a representative for a Veteran for at least 3 months.
+   - Must have completed a healthcare action on behalf of a Veteran.
+- Use of Zoom or sharing of a screen is not necessary for this study.
+
+Our primary diversity and inclusion criteria:
+- 2 persons cognitive disabilities
+
+### Screener Questions
+
+- Are you currently a representative or delegate for a Veteran?  (Yes)
+- Do you have experience filing for healthcare benefits on behalf of a Veteran?
+- For how long have you been in this role?
+
+## Timeline
+
+### Prepare
+
+- Pilot participant email:
+- Date and time of pilot session:
+
+Screen reader practice session:
+- Accessibility specialist email:
+- Date and time of SR practice session: 
+
+### Length of sessions
+   - Session length: **45-minute** sessions 
+   - Session buffer: **30-minute breaks** in between
+   - Max sessions per day: 4
+  
+### Availability
+- **April 14 - 22**
+- Please hold April 21st/22nd in case of needed make ups sessions, to the extent possible.
+
+Team Availability | Time (EST)
+------------------|--------------
+Mon | 9am - Noon, 1 - 7 pm
+Tue | 9am - Noon, 1 - 7 pm
+Wed | 9am - Noon, 1 - 7 pm
+Thur| 9am - Noon, 1 - 7 pm
+Fri | 9am - Noon, 1 - 5 pm
+
+Pilot Session | Time (EST)
+--------------|----------
+ April 10 | 1:30pm
+ April 11 | 3pm
 
 ## **Team Roles**
 
-* Moderators: Charlye Tran 
-* Research guide writing and task development: Charlye Tran 
+* Moderators: Charlye Tran, Clayton Zook
+* Research guide writing and task development: Charlye Tran, Clayton Zook 
 * Project point of contact: Charlye Tran 
 * Note-takers: Clayton Zook, Joelle Wells, Megan Driscoll  
 * Observers: Samara Strauss, Tom Black, Joelle Wells, Lainey Trahan  
@@ -73,10 +125,10 @@ We will be speaking to known caregivers since they have been historically hard t
   * samara.strauss@  (full email not included here)
   * thomas.black2@   (full email not included here)
 
-    
 
 ## Reviewers
 
-This plan has been reviewed by: Joelle Wells, Clayton Zook
-
-* VA PO for Identity Experience team - Samara Strauss
+This plan has been reviewed by: 
+* Identity Experience team members: Joelle Wells, Clayton Zook
+* VA PO for Identity Experience team: Samara Strauss
+* Research review: Shane Strassberg

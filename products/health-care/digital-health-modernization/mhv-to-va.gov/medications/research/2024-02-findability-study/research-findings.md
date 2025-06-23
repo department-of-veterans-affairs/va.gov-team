@@ -64,7 +64,7 @@ Hypothesis 3: Most participants will state they would call their providers when 
 
 1. **Half the participants stated they are looking for their medication names when first logging into their medications platform.**
 
-    9 of 18 participants listed medication name first when asked what they look for first on their medications page.Of that nine, six included other descriptors of their medications after first mentioning medication name.
+    9 of 18 participants listed medication name first when asked what they look for first on their medications page. Of that nine, six included other descriptors of their medications after first mentioning medication name.
 
     _“I’m just looking for the name of the medication I need.” - Participant 4_
   

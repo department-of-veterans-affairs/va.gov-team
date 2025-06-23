@@ -27,7 +27,7 @@ Please note, this is for the calendar year 2024.
 | Q1      | Medium               | Medium                | High                | High                    |
 | Q2      | High                 | High                  | Elite               | Elite                   |
 | Q3      | Elite                | High                  | Elite               | Elite                   |
-| Q4      |                      |                       |                     |                         |
+| Q4      | Elite                | High                  | Elite               | High                    |
 
 
 **Strike**
@@ -36,9 +36,11 @@ Please note, this is for the calendar year 2024.
 | Q1      | High                 | High                  | Elite               | Elite                   |
 | Q2      | Elite                | High                  | Elite               | Elite                   |
 | Q3      | Elite                | High                  | Elite               | Elite                   |
-| Q4      |                      |                       |                     |                         |
+| Q4      | Elite                | High                  | Elite               | Elite                   |
 
 #### Platform Satisfaction
+**We paused on this method of measuring satisfaction due to low response rates**
+
 We send out a survey to our portal and API users quarterly to measure satisfaction: 
 
 Very Satisfied (5) Satisfied (4) Neutral (3) Unsatisfied (2) Very Unsatisfied (1)
@@ -47,8 +49,8 @@ Very Satisfied (5) Satisfied (4) Neutral (3) Unsatisfied (2) Very Unsatisfied (1
 |---------|---------------|
 | Q1      | 4.36          |
 | Q2      | 4.39          |
-| Q3      |               |
-| Q4      |               |
+| Q3      | --            |
+| Q4      | --            |
 
 #### Access reviews
 Under construction! 90 Day Self Service Portal Access reviews WIP.

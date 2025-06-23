@@ -55,28 +55,14 @@ Documentation about the CMS lives in various places
 
 ## How to Reach Us
 
-### CMS Team (through Dec 2024)
+### CMS Team 
 - Erika Washburn, VA Product Owner - Slack `@Erika Washburn`
-- Michelle Dooley, Program Manager - Slack `@Michelle Dooley`
 - Grace Kretschmer Tran, Senior Product Manager - Slack `@Grace Kretschmer`
-- - Tyler Bird, DevOps Engineer - Slack `@Tyler Bird`
-- Jake Bapple, Senrio Drupal Developer 
-- Amanda Nantasi-Austin, Drupal Developer - Slack `@Amanda Nantais-Austin`
-- Jon Keister, QA/Testing Engineer - Slack `@Jon Keister`
-- Marisa Dominguez, Product Designer - Slack `@Marisa Dominguez`
-- Steve Rancour, Accessibility Specialist - Slack `@Steve Rancour`
-- AJ Jones, Helpdesk Manager - Slack `@AJ Jones`
-- Ian Sears, Helpdesk and Training Manager - Slack `@Ian Sears`
-- Edmund Dunn, Senior Drupal Developer (AP) - Slack `@Edmund Dunn`
-- Therisa Tran, Frontend Engineer (AP) - Slack `@Therisa`
-- Nick Pappas, DevOps Engineer (AP) - Slack `@Nick Pappas`
-
-### Shared resource from Sitewide team:
-- Laura Flannery, Web Accessibility Lead - Slack `@Laura Flannery`
+- Laura Flannery, QA Engineer - Slack `@Laura Flannery`
 
 ### Slack channels:
 - [#cms-support](https://dsva.slack.com/channels/cms-support) 
-- [#sitewide-cms-platform](https://dsva.slack.com/channels/cms-team)
+- [#platform-cms-team](https://dsva.slack.com/channels/cms-team)
 
 ## Table of contents
 

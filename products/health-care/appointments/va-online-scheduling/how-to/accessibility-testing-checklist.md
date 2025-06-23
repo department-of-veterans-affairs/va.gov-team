@@ -71,3 +71,4 @@ Check feature is navigable using voice-assisted technology
 - [WAVE Evaluation Tool](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh?hl=en)
 - [HeadingsMap Extension](https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi)
 - [How to install Axe](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review#Prepareforanaccessibilitystagingreview-AutomatedtestingwithaxebyDequeaxe)
+- [Accessibility testing for design system components](https://design.va.gov/about/accessibility/accessibility-testing-for-design-system-components)

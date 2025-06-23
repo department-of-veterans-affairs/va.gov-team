@@ -1,0 +1,215 @@
+((1st Draft, Shared 06/12/2025, Feedback gathered, Revisions beginning, Meeting set for VA week of 23-27 do collaboration))
+
+Research Plan for BMT1, Claim Status Tool – Evidence Request Research
+
+Date: June 11th, 2025
+
+Product Area: Claim Status Tool, Evidence Request (authenticated)
+
+Background 🏗️
+Briefly describe the background of your product. What problem is your product trying to solve?
+
+
+We believe that participants in our sessions will have higher success in locating and understanding evidence requests with our new clarity, and greater trust provided by our revamped notifications within the CST upload flow. Veterans currently struggle to find the “Evidence Request” card, decipher legal‐tone deadlines, and feel confident their documents were securely received.
+Where is your product situated on VA.gov?
+ AUTH: Claim Status Tool
+What is Veterans’ familiarity with this tool?
+First‐time users: May have never uploaded evidence online, having mailed or delivered in person.
+
+
+Returning users: May have used the CST previously to submit claims or check status.
+
+
+
+Veteran Journey
+Where does your product fit into the Veteran journey?
+Taking Care of Myself: Veterans managing ongoing disability claims and evidence submission.
+
+
+
+Design / Product Brief
+https://github.com/orgs/department-of-veterans-affairs/projects/1549/views/3?pane=issue&itemId=111969324&issue=department-of-veterans-affairs%7Cva.gov-team%7C110442
+
+OCTO-DE Priorities
+This research supports:
+Objective 1: VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.
+
+
+Key Result 1: Improve satisfaction with our web and mobile products by 5 points.
+
+
+Key Result 3: 100% of transactions received via our digital experiences are either processed correctly or we have notified the user of an error.
+
+
+(Other OCTO-DE priorities are out of scope for this study.)
+
+Research Goals 🥅
+Perceived value of notifications
+
+
+Comprehension of upload options
+
+
+Observing upload behaviors and trust
+
+
+
+Outcome
+How will this research advance your product to the next phase in the design process? What will you do with your learnings?
+
+
+ a. Validated navigation & notification patterns — Confirm which flows and copy reliably surface evidence requests.
+ b. Optimized upload channel strategy — Prioritize UI changes across CST, QuickSubmit, and fallback forms.
+ c. Actionable copy & trust enhancements — Refine notification and in‐tool messaging to boost clarity, deadlines, and security cues.
+
+Research Questions
+What is the perceived value of push/SMS evidence‐request notifications vs. claim‐status updates?
+
+
+Can users locate and access the Claim Status Tool from login?
+
+
+Do users find and understand their current claim status within the Claim Status Tool card design?
+
+
+Are users clearly aware of and able to view the evidence request details?
+
+
+Is the VA voice and messaging clear about required offline actions?
+
+
+When encountering upload failures, do users retry online or switch to in-person methods, and why?
+
+
+
+Hypotheses, TBD
+We believe that because Veterans struggle with legal notification copy and multiple upload channels, participants in our sessions will have higher success, clarity, and trust when evidence-request notifications use plain language and exact deadlines, and the CST upload flow provides clear labels, recovery options, and explicit confirmation messaging for errors and successes.
+
+Methodology 🛠️
+Approach: Remote, moderated usability testing
+Why:
+
+
+Session structure: 
+
+Location
+Mode: Remote
+
+
+Point of contact: Dillon Hawes
+
+
+Equipment used: N/A (participants use their own devices)
+
+
+
+Research Materials 📔
+
+
+
+
+Recruitment 🎯
+Recruitment approach:
+
+
+
+Ideal sessions & counts:
+Veterans: 
+
+
+Total invites:
+
+
+Ideal completed sessions: 
+Primary criteria (must-haves):
+Veteran has submitted or received an evidence request for a disability claim in the past 6 months.
+
+
+Comfortable using a computer or mobile device to interact with web tools.
+
+
+Secondary criteria (nice-to-haves):
+Mixed experience: some have online presence and have not yet used CST upload tool
+A range of ages, service eras, and technical comfort levels.
+
+
+
+Timeline 🗓️
+Pilot session:
+
+
+Participant: [Enter pilot name]
+
+
+Date & time: [Enter date/time]
+
+
+Research sessions:
+
+
+Planned dates: [MM/DD–MM/DD]
+
+
+Session length: 60 minutes
+
+
+Buffer time between sessions: 30 minutes
+
+
+Maximum sessions per day: 4
+
+
+
+Availability
+Please provide slots in Eastern Time for scheduling (at least double the number of participants):
+[MM/DD, Day, 9:00 AM–12:00 PM] EST
+
+
+[MM/DD, Day, 1:00 PM–4:00 PM] EST
+
+
+[MM/DD, Day, 5:00 PM–8:00 PM] EST
+
+
+
+Team Roles 🕵️👩‍💻👩‍🔬
+Moderator: Dillon Hawes
+
+
+Research guide & task development: Dillon Hawes
+
+
+Participant recruiting & screening: Dillon Hawes, Michael Collier
+
+
+Project point of contact: Julie Strothman, Amy Lai
+
+
+Accessibility specialist: ADE Team, Tracy Tran
+
+
+Notetaker: TBD / Perigean
+
+
+Observers (max 5 per session):
+
+
+[Full name]
+
+
+[Full name]
+
+
+[Full name]
+
+
+
+Approvals ✅
+Reviewed by OCTO Product Owner on [MM-DD-YYYY]
+
+
+Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]
+
+
+
+Once finalized, paste this plan into Google Docs for your VA-lead review and Perigean recruitment request.

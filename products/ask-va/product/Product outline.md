@@ -1,11 +1,11 @@
 # Product outline for Ask VA
-Last updated by @beckyphung on March 17, 2025
+Last updated by @beckyphung on April 24, 2025
 This product outline gives an overview of the Ask VA product. Below are our current initiatives:
 
 |Initiatives|Status|Launch date|
 |:---|:---|:---|
-|[Prefill topic questions with NLP data model](link)|In-progress|June 30, 2025|
-|[Move frontend to VA.gov](link)|In-progress|March 24, 2025|
+|[Prefill topic questions with NLP data model](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/prefill-nlp%20June%202025/initiative-brief.md)|In-progress|June 30, 2025|
+|[Move frontend to VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/move-frontend%20Mar%202025/initiative-brief.md)|In-progress|March 24, 2025|
 
 **Jump to:**
 - [Overview](#overview)
@@ -17,7 +17,7 @@ This product outline gives an overview of the Ask VA product. Below are our curr
 ## Overview
 Ask VA (AVA) is a digital support channel for Veterans, family members and other submitters. You can use Ask VA to ask a question about education benefits, disability compensation, health care and many other topics. Ask VA should only be used for non-urgent needs.
 
-You can currently reach Ask VA at [ask.va.gov](https://ask.va.gov/). By end of March 2025, you'll be able to reach Ask VA on VA.gov at [va.gov/contact-us/ask-va](https://va.gov/contact-us/ask-va).
+You can currently reach Ask VA at [ask.va.gov](https://ask.va.gov/). By end of May 2025, you'll be able to reach Ask VA on VA.gov at [va.gov/contact-us/ask-va](https://va.gov/contact-us/ask-va).
 
 ## Problem statement
 **Background**: Veterans and family members can ask a variety of questions to VA because VA offers many different types of benefits. There are different VA staff teams, each specialized in answering specific types of questions. Reaching out to VA online can be more convenient and accessible than calling or visiting a VA facility in person.
@@ -86,6 +86,7 @@ The Ask VA CRM business team tracks business KPIs, which include metrics like: a
 |:---|:---|:---|
 |Product owner (OCTO), Designer|Becky Phung||
 |Product owner (VES)|Natalie Morales||
+|Product owner (VES)|Preetika Celmer||
 |Program manager|Megan Siddle|megan.siddle@oddball.io|
 |Product manager|Ariel Martinez|ariel.martinez@thoughtworks.com|
 |Lead engineer|Joseph Hall|joe.hall@thoughtworks.com|
@@ -98,4 +99,3 @@ The Ask VA CRM business team tracks business KPIs, which include metrics like: a
 
 ### VA partners
 We closely work with the Ask VA CRM development team. Learn more about our partnership [in this Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696976895933/4f5410b3e8770441f4101cbabd565aa0cd13dac7).
-![image](https://github.com/user-attachments/assets/0ce385c2-3f47-4ce9-b3c8-deb6e01bbca5)

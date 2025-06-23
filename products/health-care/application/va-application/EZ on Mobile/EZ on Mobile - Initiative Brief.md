@@ -1,4 +1,8 @@
 # EZ on Mobile - Initiative Brief
+### Note
+- The link to the 10-10EZ application is available on the VA mobile app, on the Health tab.  Since the EZ form is a one-time access form (no need to return to it once enrolled), does it make sense to integrate it into the mobile app? Is the link sufficient?
+- 
+
 - Epic - [#103255](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103255)
 - Design file - TBD
 

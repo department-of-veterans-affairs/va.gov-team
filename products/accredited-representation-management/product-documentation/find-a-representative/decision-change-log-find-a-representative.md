@@ -14,8 +14,8 @@ This document is actively maintained by Product Manager, Lindsay Li-Smith, and u
   _([release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/find-a-representative/release-plan-find-a-representative-2.0.md))._
 - **3/18/2024**: Lighthouse requests we move our code (endpoints, controllers, modules and Sideqik jobs) out of the `Veteran` module in `vets-api` to avoid any unexpected/unintended access, as the the `Veteran` module is publicly routable through the Lighthouse Gateway and this mixed module leads to unexpected code review requirements and untracked endpoints routable via the Lighthouse Gateway. \
   _Communicated by Technical Lead Holden Hinkle and context provided by Lighthouse team members ([Slack message](https://dsva.slack.com/archives/C013VCQKSE7/p1710784815479299))._
-- **6/7/2024**: Removed the “Other” text input in the Report Outdated Information modal, because users were entering PII. All PII data has been removed.\
-  _Initiated by Program Manager Parker Baranowski, managed by the ARM team, with VA Enablement staying informed ([post mortem - awaiting review](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/pull/1722#pullrequestreview-2130200755))._
+- ⚠️ **6/7/2024**: Removed the “Other” text input in the Report Outdated Information modal, because users were entering PII. All PII data has been removed.\
+  _Initiated by Program Manager Parker Baranowski, managed by the ARM team, with VA Enablement staying informed ([2024-06-06 - Find a Representative Report Incorrect Information PII Exposure](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Postmortems/2024/2024-06-06%20-%20FAR%20Report%20Incorrect%20Information%20PII%20Exposure.md))._
 - **7/18/2024**: Decided to remove the Report Outdated Information feature.\
   _Product Owner Jennifer Bertsch requested this be prioritized for the next sprint ([Slack conversation](https://dsva.slack.com/archives/C05L6HSJLHM/p1721334455491939))._
 - **7/25/2024**: The Report Outdated Information feature was removed from Production.\
@@ -28,3 +28,5 @@ This document is actively maintained by Product Manager, Lindsay Li-Smith, and u
   _Confirmed by Technical Lead Holden Hinkle ([Github ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93229))._
 - **10/29/2024**: Updated address validation logic to handle instances where a representative has a mix of both P.O. Box and street address. In these instances, we will only display one or the other (whichever returns a valid location) and as a result some addresses will only show the P.O. Box or the street address (not both). \
   _Communicated by Product Manager Lindsay Li-Smith ([Slack message](https://dsva.slack.com/archives/C05L6HSJLHM/p1730218859270719))._
+- **1/29/2025**: A link to Find a Representative was added to the VA.gov homepage.
+  _Communicated by OCTO IA Lead Mikki Northuis [Slack message](https://dsva.slack.com/archives/C01K37HRUAH/p1743693072475529?thread_ts=1743614815.495879&cid=C01K37HRUAH)._

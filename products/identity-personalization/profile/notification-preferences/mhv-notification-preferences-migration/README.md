@@ -1,12 +1,14 @@
 # Project outline: MyHealtheVet to VA.gov notification preference migration
 
-**Last updated: Aug 22, 2024**
+**Last updated: April 16, 2025**
+
+`LAUNCHED`
 
 ### Communications
 
 - **Github labels**: vsa-authenticated-exp
-- **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp)
-
+- **Slack channel**: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp); [#mhv-on-vagov-notifications-migration
+](https://dsva.slack.com/archives/C08J6RU9L14)
 ### Roles
 
 #### OCTO team
@@ -49,7 +51,7 @@ We know we need to migrate the existing MHV preferences, but MHV has also mentio
 
 - Health appointment reminders
 - Prescription shipping notifications
-- New secure message notifications
+- ~New secure message notifications~ [These will not be opt out per the decision made here](https://dsva.slack.com/archives/C08J6RU9L14/p1744737590326909)
 - Notifications when medical images you requested are available
 
 [See the relevant Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61102)
@@ -63,7 +65,7 @@ As mentioned above, there are a handful of existing and new notifications/prefer
 
 - profile_show_mhv_notification_settings_email_appointment_reminders
 - profile_show_mhv_notification_settings_email_rx_shippment
-- profile_show_mhv_notification_settings_new_secure_messaging
+- ~profile_show_mhv_notification_settings_new_secure_messaging~
 - profile_show_mhv_notification_settings_medical_images
 
 **Do we need to migrate existing notification preference data from MHV to VA Profile? If so, is this possible?**
@@ -158,6 +160,7 @@ OKRs and KPIs TBD.
 - June 2022: Share audit findings with MHV team
 - August 2022: Began MHV <> VA.gov biweekly meetings to scope out definition for notification preference migration in preparation for a VA Profile intake form
 - December 2022: MHV agrees to integrate their notification preferences with VA Profile; Initial notification preferences intake is submitted to VA Profile
+- April 2025: Launched Email Appointment Reminders, Email RX Shipment Notifications, Email Notifications When Medical Images Requested are Ready, Secure Message Notifications will NOT be opt out as they are transaction based and critical
 
 ## Important artifacts 
 - [MHV to VA.gov Notification Migration Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61102)

@@ -2,9 +2,9 @@
 name: ARF Engineering Discovery Issue
 about: Discovery issues for the ARF Engineering team
 title: ''
-labels: ['accredited-rep-facing', 'engineering']
+labels: accredited-rep-facing, engineering
 assignees: ''
-type: 'Task'
+type: Task
 
 ---
 
@@ -27,4 +27,4 @@ type: 'Task'
 
 ### Acceptance Criteria
 <!-- Define the expected outcome and the output to be created -->
-- [ ]  
+- [ ]

@@ -1,7 +1,8 @@
 ---
-name: Forms 6. (as necessary) Add additional file support to the form in the back end
+name: Forms 6. (as necessary) Add additional file support to the form in the back
+  end
 about: Describe this issue template's purpose here.
-title: '[form number] Add additional file support to the form in the back end'
+title: "[form number] Add additional file support to the form in the back end"
 labels: forms-audit-digitize
 assignees: ''
 

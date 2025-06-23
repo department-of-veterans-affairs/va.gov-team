@@ -10,7 +10,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        The [Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/) is where teams who are building products on VA.gov get feedback and guidance on their product/feature to ensure it meets VA.gov experience standards. Teams engage with the Collaboration Cycle throughout their product’s/feature's lifecycle.
+        The [Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/) is where teams who are building products on VA.gov and/or the VA Mobile App get feedback and guidance on their product/feature to ensure it meets VA.gov experience standards. Teams engage with the Collaboration Cycle throughout their product’s/feature's lifecycle.
   - type: markdown
     attributes:
       value: |
@@ -85,6 +85,13 @@ body:
       value: |
         Please refer to the guidance on the [Collaboration Cycle Kickoff](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/collaboration-cycle-kickoff) page on Platform Website for detailed information and examples regarding these questions (below).
   - type: dropdown
+    id: intended-audience
+    attributes:
+      label: Who is the primary audience for this product?
+      options:
+        - "Individuals (Veterans, their caregivers, families, survivors, or representatives directly supporting a Veteran)"
+        - "Organizations (e.g., VA employees, contractors, representatives working in an organizational capacity, etc.)"
+  - type: dropdown
     id: visible-changes
     attributes:
       label: Will your work result in visible changes to the user experience?
@@ -134,6 +141,12 @@ body:
         - "Unsure"
     validations:
       required: true
+  - type: input
+    id: form
+    attributes:
+      label: If your work involves a form, enter the VA form number.
+      description: Example 10-10EZ-S
+      placeholder: 
   - type: dropdown
     id: analytics-domo
     attributes:

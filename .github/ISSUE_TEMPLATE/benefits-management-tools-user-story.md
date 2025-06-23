@@ -1,9 +1,10 @@
 ---
 name: Benefits management tools user story
 about: Creating user stories for reporting Benefits management tools team
-title: '[Tool] description'
-labels: benefits-management-tools,bmt-team-1
+title: "[Tool] description"
+labels: benefits-management-tools, bmt-team-1
 assignees: ''
+
 ---
 
 ## Value Statement

@@ -1,4 +1,4 @@
-# Test Cases - Community Care Direct Scheduleing 
+# Test Cases - Community Care Direct Scheduling 
 
 ## [[Epic] Community Care Direct Scheduling](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62496) 
 Allows Veterans who have indicated their preference to directly schedule their community care appointments to schedule their appointment on VA.gov
@@ -50,7 +50,7 @@ Allows Veterans who have indicated their preference to directly schedule their c
  
  ## Error Cases
 
- ### [Error Case 1 - Already Scheduled Appointment for the Referral](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=5565-5969&t=zYW9p1FINcaVJRSF-4)
+ ### [Error Case 1 - Already scheduled the appointment in question](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=8800-17583&t=sQMaNfMSmDTNRp2w-4)
  
  ### [Error Case 2 - Already Have an Appointment at Selected Time](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=3713-15752&t=zYW9p1FINcaVJRSF-4)
  
@@ -60,5 +60,19 @@ Allows Veterans who have indicated their preference to directly schedule their c
  
  ### [Error Case 5 - Referral has Expired](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=3707-8119&t=zYW9p1FINcaVJRSF-4)
  
- ### [Error Case 6 - No Time Slots Available](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=5620-5841&t=zYW9p1FINcaVJRSF-4)
+ ### [Error Case 6 - No time slots available](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=5844-9400&t=sQMaNfMSmDTNRp2w-4)
+
+ ### [Error Case 7 - No online scheduling available](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=5610-51751&t=sQMaNfMSmDTNRp2w-4)
+
+ ### [Error Case 8 - EPS error when booking appointment](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=5616-5716&t=sQMaNfMSmDTNRp2w-4)
+
+ ### [Error Case 9 - Alert after 30 seconds of loading](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=6477-13801&t=sQMaNfMSmDTNRp2w-4)
+
+ ### [Error Case 10 - Alert if EPS returns an error while loading](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=6477-14056&t=sQMaNfMSmDTNRp2w-4)
+
+ ### [Error Case 11 - Referrals and requests, entire page error](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=6750-7680&t=sQMaNfMSmDTNRp2w-4)
+
+ ### [Error Case 12 - Referrals and requests, Referrals error](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=6750-7699&t=sQMaNfMSmDTNRp2w-4)
+
+ ### [Error Case 13 - Referrals and requests, Requests error](https://www.figma.com/design/DsRXEFiYLCFnY5nBkp9Dc4/CC-Referral-%7C-Appointments-FE?node-id=6750-7634&t=sQMaNfMSmDTNRp2w-4)
  

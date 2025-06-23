@@ -8,7 +8,7 @@
 - If a user has multiple notifications, they will see see a notification for each one under the "Notifications" header in reverse chronological order with the newest at the top.
 
 ## UX
-
+[User flow](https://www.figma.com/design/takD53OoltCjdlmGBwK3DH/Sketch-Archive---Authenticated-Experience?node-id=32-34663&t=FK2UvasV3BMOIzvl-4)
 ### User has a single notification
 
 - If a user has one notification and they log in with an LOA3 account, they will see the notification on My VA under the "Notifications" header.

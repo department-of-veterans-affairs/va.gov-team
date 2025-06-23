@@ -1,7 +1,5 @@
 # Moving to VA Profile
 
-Last updated by @beckyphung on December 14, 2023
-
 This document outlines how the move to VA Profile from Ask VA (AVA) Profile will impact submitters.
 
 ## What is VA Profile?
@@ -39,28 +37,20 @@ These examples demonstrate the similarity, from the submitter's perspective.
 8. Submitter sends inquiry.
 
 #### How their journey changes
+
 In Step 4, when we pull from VA Profile, there are certain fields that don't exist in VA Profile and do exist in AVA Profile. These fields will still be pre-filled from AVA Profile:
 
-- Suffix (can potentially come from VA Profile pending intake meeting with VA Profile team)
-- Pronouns (can potentially come from VA Profile pending intake meeting with VA Profile team)
+- ~Suffix~ Removed from Ask VA on VA.gov
+- ~Pronouns~ Removed from Ask VA on VA.gov
 - School State
 - School Facility
 - Service Number
-- Business phone
-  - There is only one phone field in the Ask VA flow.
-  - If the question is a business inquiry, then AVA Profile will pre-fill the front-end **Mobile phone number** field with the back-end Business phone field
-  - Else, VA Profile will pre-fill the Mobile phone number field
-- Business email
-  - There is only one email field in the Ask VA flow.
-  - If the question is a business inquiry, then AVA Profile will pre-fill the front-end **Email address** field with the back-end Business phone field
-  - Else, VA Profile will pre-fill the Email address field
-<br>
-  In the new Ask VA flow, this is how we will determine if a question is a business inquiry:
+- Business email: If the question is a business inquiry, then we will pre-fill the front-end from AVA Profile's Business phone field
+
+On VA.gov, this is how we will determine if a question is a business inquiry:
 
 - What's your question about == Someone else's VA benefits
 - What's your relationship to the Veteran? == I’m connected to the Veteran through my work (for example, as a School Certifying Official or fiduciary)
-
-
 
 ## Comparison of all fields in VA Profile and AVA Profile as-is
 

@@ -1,6 +1,6 @@
 # Initiative outline: Delegate access MVP
 
-**Last Updated: March 24, 2025 -- Updated risks**
+**Last Updated: June 10, 2025 -- Added questions for policy/privacy**
      
 ## POCs
 **Slack channel**: [#identity](https://dsva.slack.com/channels/identity); [#sign-in-experience](https://dsva.slack.com/channels/sign-in-experience)
@@ -15,9 +15,11 @@
   
 ## Overview
 
-VA recently retired its use of the My HealtheVet user ID and password (March 2025), and plans to retire its use of DS Logon after 9/30/2025. As such, VA is requiring all people to create an ID.me or Login.gov account if they want to manage their VA health care and benefits online.
+Prior to the My HealtheVet user ID and password sign-in transition, many caregivers would use their Veterans' MHV user ID and password to sign in and manage their health care. However, now that the MHV user ID and password has gone away, people who care for incapacitated individuals have lost access, as ID.me and Login.gov require that a person verify as themselves, and verifying on behalf of someone else is not allowed. 
 
-Both ID.me and Login.gov require that a person verify as themselves, and verifying on behalf of someone else is not allowed. As such, ID.me and Login.gov will not allow delegates to verify a credential for another person (ie. the veteran whom they care for), which means that delegates can not transition to ID.me or Login.gov as we are asking other users to do.
+In April, the OCTO Login and Identity team did some user research on caregivers to make sure that they do indeed need and expect online delegate access. Many folks were able to verify a Login.gov or ID.me credential for their Veteran and use that even if they technically aren't supposed to, and those who were not able to verify a modern credential did indeed lose access. When we initially talked to privacy/policy folks about this, they made it seem virtually impossible to help the latter group, and it seemed like the only path forward was through explicit consent. However, recent conversations with privacy/policy have been more fruitful, and we are hopeful we may be able to draw from the "analog" processes for tracking court-appointed guardians/health care POAs for people who are incapacitated.
+
+Recently, the OCC team has pointed to the fact that MyChart and other digital tools support online delegate access. While this is true, it's becoming clear that the technology is only able to support this functionality if a given hospital system has infrastructure in place to support delegate access both for people who are capable of giving explicit consent and for people who are incapacitated and need a legal guardian or health care POA. Going forward, it seems that the first step of this work is to figure out how VHA can support the infrastructure needed to track who is someone's health care POA or guardian in a way that is consumable by technology to make online delegate access possible.
 
 ### My HealtheVet delegate solution
 
@@ -25,9 +27,9 @@ In 2021, the My HealtheVet team worked with the IAM team to launch a delegate so
 
 Despite being fully built out, My HealtheVet never fully utilized delegate access outside of a small group of internal staff. This functionality was never launched to the broader Veteran/caregiver population.
 
-### Current need
+### Current status
 
-The OCTO Login & Identity team has been tasked with validating a user need around online delegate access. If that need is validated, our team needs to determine the MVP use case and user needs for delegate access, determine the unique security concerns and constraints for providing delegate access on VA.gov, and build the infrastructure and end-user experience that will support delegate access on VA.gov.
+June 2025: We've completed caregiver research and initial discussions with policy/privacy. In order for the VA.gov frontend to support online delegate access, we need VHA to have both a process and technology infrastructure that supports updated and consummable data on who has a valid health care POA or guardian and if these designations are ever revoked or deemed inactive (eg. a Veteran is temporarily incapactitated).
 
 ## User Problem Statement
 
@@ -36,43 +38,24 @@ The OCTO Login & Identity team has been tasked with validating a user need aroun
 
 ## Business goals
 
-- Determine need for delegate access to VA.gov.
+- Validate need for delegate access to VA.gov.
 - Support delegates and caregivers in conducting business with VA on behalf of another person, whether they would like to conduct that business online, over the phone, or in person.
 - Abide by all privacy and security laws and protocols required to protect people's information.
-- Create a delegate infrastructure that is maintainable and scalable. Avoid an overly complex matrix of permissions.
+- Create a delegate infrastructure that is maintainable and scalable.
+- Avoid an overly complex matrix of permissions.
 
-## Questions and Hypotheses
+## Current questions
 
-### What we already know
+[Discovery doc: Healthcare POA and Court-appointed guardians_Current VA processes](https://dvagov.sharepoint.com/:w:/s/IdentityTeam/EdnNB2cRRblEqOEjZQHLLPQBasBqTRKuDwWAmlqblnX9Fw?e=do1zEY)
 
-Based on the [current delegate landscape at VA (on Sharepoint)](https://dvagov.sharepoint.com/:b:/r/sites/IdentityTeam/Shared%20Documents/Delegate%20access/VA%20Delegate%20Access%20Current%20State%20v1.12%20-%2020230314%20(1).pdf?csf=1&web=1&e=FsdeSH) we know that there are multiple types of delegate roles at VA, many of which already have digital systems they can log into to complete a task on behalf of a Veteran. Examples include: QuickSubmit, which allows VSOs and other people/organizations to submit a disability claim on behalf of a Veteran; Fiduciary Accountings Submission Tool (FAST), which allows fiducaries to do business with VA on behalf of Veteran.
+## Timeline
 
-The hole that seems to be missing is what we anecdotally heard during the MHV user ID and password sign-in transition -- caregivers that help manage a Veteran's care have no way to do business online with VA since they can't sign up for ID.me or Login.gov and get access to their Veteran's information.
-
-### Questions
-
-- There are many kinds of delegates at VA. Where should we focus our MVP?
-- How do caregivers manage their Veterans' business at VA (Eg. online, over the phone, in-person, etc)? What do caregivers actually do on behalf of Veterans?
-- What consent forms are needed to designate someone online delegate access?
-- How can we revoke access?
-- Is there a legally above-board way to grant delegate access to court-appointed guardians since the Veteran can not provide explicit consent? Does this population need online access?
-- How do court-appointed guardians manage their Veterans' care now? What do they manage (eg. just health care; other benefits)?
-- What are the consequences if we do not build delegate access?
-- Can we leverage the existing IAM delegate tool? If not, what do we need to build?
-- Where should the delegate designation and delegate <> Veteran relationship be stored?
-- Where should delegate consent forms be stored?
-
-### Hypotheses
-
-- The primary delegate access use case will be for caregivers. This population only needs to manage health care-related tasks on behalf of the Veteran they care for.
-- Caregivers do not actually need to see a(nother) Veteran's entire VA.gov account.
-
-## Challenges and Risks
-
-- VA has a ton of delegate types. Needing to account for multiple delegate types or access nuances on VA.gov could quickly become complex and unwieldy.
-- VA.gov houses both health and benefit information. In order to give a person access to someone else's information, we need to make sure that proper consent is given and meets HIPAA and other privacy laws.
-- IAM has built a delegate tool, but IAM has a full roadmap and might not be able to develop and update that tool on the timeline we need them to.
-- It is unclear whether we can legally give a caregiver access to their Veteran's information if that Veteran isn't able to provide informed consent.
+- August 2024: MHV coordinators have been raising this problem repeatedly, and it is clear that retiring the MHV credential without considering how to support POAs would cause this group to not be able to manage their veterans' benefits.
+- September and October 2024: Oddball team conducted discovery and connected the guardian use case to the production user test case; IAM demo'd the delegate tool they built to OCTO and MHV.
+- November 2024: OCC seems onboard with extending the MHV username and password for guardians, giving us a short-term path to support these users before we have proper delegate access.
+- March 2025: Discovery resumes; Activity log work.
+- April 2025: Discovery interviews with caregivers.
+- June 2025: Regrouped for a second time with privacy/policy and made progress talking about the "analog" process for tracking active health care POAs and court-appointed guardians.
 
 ## Backend
 
@@ -84,4 +67,4 @@ The hole that seems to be missing is what we anecdotally heard during the MHV us
 
 ## Design and UX
 
-(Add background design documentation and links to other relevant documentation, like Figma files, UX research, etc)
+- [Delegate access research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/delegate-access%20/Research)

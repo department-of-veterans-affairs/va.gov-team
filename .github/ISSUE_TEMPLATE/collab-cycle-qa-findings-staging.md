@@ -3,7 +3,7 @@ name: QA Collab Cycle Findings for Staging
 about: Staging findings template for Collaboration Cycle reviewers to provide QA findings
   to VFS and VA Mobile teams
 title: QA Standards - VFS / VA Mobile Team - VFS / VA Mobile Product
-labels: collab-cycle-feedback, QA, Staging, qa-standards
+labels: collab-cycle-feedback, QA, qa-standards, Staging
 assignees: ''
 
 ---
@@ -21,7 +21,7 @@ assignees: ''
 
 ---
 ### [QA Standards](https://depo-platform-documentation.scrollhelp.site/developer-docs/quality-assurance-standards) 
-**Note**: all standards are launch-bocking.
+**Note**: all standards are launch-blocking.
 #### Regression Test Plan 
 - [ ] Standard has been met
 - [ ] Standard has not been met
@@ -39,13 +39,10 @@ assignees: ''
 - [ ] Standard has not been met
 ##### Explanation of failure to meet standard (if applicable): #####
 #### Unit Test Coverage
-- Lines %:
-
-- Functions %:
-
 - Statements %:
-
 - Branches %:
+- Functions %:
+- Lines %:
 
 - [ ] Standard has been met
 - [ ] Standard has not been met
@@ -79,5 +76,5 @@ assignees: ''
   - VFS / VA Mobile team label
   - VFS / VA Mobile product label
   - collaboration-cycle-mobile-app if the product is part of the VA Mobile app
-  - QA-standards label
   - launch-blocking label if the product has failed to meet a required QA Standard
+  - for every standard violated, add the corresponding label, e.g. `QA1` for a failing Regression Test Plan.

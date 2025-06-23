@@ -2,7 +2,7 @@
 name: Authenticated Experience Issue Template
 about: Basic template for creating Authenticated Experience team issues
 title: Practice Area | [Product] | [Project]| [Issue Name]
-labels: authenticated-experience, needs-refinement, profile, my-va-dashboard
+labels: authenticated-experience, my-va-dashboard, needs-refinement, profile
 assignees: ''
 
 ---
@@ -19,9 +19,10 @@ Describe the issue background and scope
 
 
 
-## Validation
-- Who can validate this ticket? (FE, BE, Design, PM)?
-- How can this work be validated?
+## QA 
+- Do we need a separate QA ticket? y / n
+- Who can validate this ticket? (FE, BE, Design, PM, QA, Another team)?
+- How can this work be validated? 
 - What updates need to be made (e.g. product outline, use cases, contact center guide)
 
 ## How to configure this issue

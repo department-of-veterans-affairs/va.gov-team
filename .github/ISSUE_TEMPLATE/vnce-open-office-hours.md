@@ -3,7 +3,7 @@ name: VNCE Open Office Hours
 about: 'A Ticket to track bi-weekly office hours '
 title: "[MM/DD/YY] [AVS or VEText] Open Office Hour "
 labels: Product Support vt, VEText vt
-assignees: ahicksfearless, chancetheoriginal, Cmjones233, djfredvs, jwowk, lindsay-insco
+assignees: chancetheoriginal, jwowk, lindsay-insco
 
 ---
 

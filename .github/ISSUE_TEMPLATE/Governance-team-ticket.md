@@ -19,9 +19,15 @@ _What details are necessary for understanding the specific work or request track
 ## Impacted Artifacts
 
 ### Live pages
+
+_Live guidance docs to be be edited for this ticket_
+
 - 
 
 ### Drafted pages
+
+_All draft documentation created for this ticket_
+
 - 
 
 ## Tasks
@@ -36,7 +42,7 @@ _To be completed by peer reviewer_
 
 ## Team Notification
 - [ ] Slack post on #platform-governance-team
-- [ ] Presentation at Weekly Initiative Meeting
+- [ ] Live presentation with team - coordinate scheduling with PM
 - [ ] No notification needed
 
 ## How to prepare this issue
@@ -51,3 +57,4 @@ _If this ticket is picked up from the Backlog mid-sprint, connect with Shira to 
 - [ ] Ticket has been assigned to a Sprint
 - [ ] Ticket has been moved to the Planned pipeline in the Governance team board
 - [ ] Ticket as an assignee and peer reviewer
+- [ ] If this ticket was picked up mid-sprint, add the `new-unplanned` label

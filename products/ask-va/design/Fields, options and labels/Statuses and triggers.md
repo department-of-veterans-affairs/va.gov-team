@@ -2,20 +2,20 @@
 
 _Ask VA VA.gov Team_
 
-Last updated by @tygindraux: February 18, 2025
+Last updated by @tygindraux: April 28, 2025
 
 This documents describes different Ask VA inquiry statuses and when they are assigned.
 
 **Jump to:**
-- [Statuses and when they are displayed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Statuses%20and%20triggers.md#statuses-and-when-they-are-displayed)
-- [Future work](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Statuses%20and%20triggers.md#future-work)
-- [Legacy statuses for reference](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Statuses%20and%20triggers.md#legacy-statuses-for-reference)
+- [Status labels on VA.gov](#status-labels-on-va.gov)
+- [Legacy labels for reference](#legacy-labels-for-reference)
+- [Future work](#future-work)
 
-## Statuses and when they are displayed
+## Status labels on VA.gov
 
-For Phase 1 on VA.gov, we'll display these statuses and descriptions. We revised the [legacy descriptions](#legacy-statuses-for-reference) using the [VA.gov content style guide](https://design.va.gov/content-style-guide/plain-language/use-active-voice). Due to the complexity of updating the status names without revisiting the trigger events, our VEO partners and our team agreed to keep the statuses as is in the CRM, but they are 'manipulated' on the submitter front-end.
+We currently display these statuses and descriptions on VA.gov. However, the CRM still displays [legacy labels](#legacy-labels-for-reference).
 
-|CRM status|VA.gov status|Descriptive text|Trigger event|
+|CRM status label|VA.gov status label|Descriptive text|Trigger event|
 |:--|:--|:--|:--|
 |`New`|`In progress`|We're reviewing your question.|The system automatically sets the status to `New` when a question is submitted. However, on the submitter front-end, this will display as `In progress`.|
 |`In progress`|`In progress`|We're reviewing your question.|The system automatically sets the status to `In progress` when an agent is assigned. Even if the inquiry is re-routed, it will stay `In progress` until it moves to `Replied`.|
@@ -24,11 +24,11 @@ For Phase 1 on VA.gov, we'll display these statuses and descriptions. We revised
 |`Closed`|`Closed`|We closed this question after 60 days without any updates.|This isn't shown in the dashbaord but it is shown if someone 'Check[s] the status of their question.' The system automatically updates the status of `Solved` business inquiries to `Closed` after 60 days of no activity. This only applies to business inquiries, and happens so they will be removed from their dashboard. Personal and unauthenticated inquiries are never set to `Closed`.|
 |Question not found|We didn't find any questions with reference number "A-20230710-306466." Check your reference number and try again.<br><br>If it still doesn't work, ask the same question again and include your original reference number.|A submitter searches for an reference number that is not found in the system.|
 
-## Legacy statuses for reference
+## Legacy labels for reference
 
-This is the text that is currently displayed on ask.va.gov. This descriptive text will be retired when we move to VA.gov, but the triggers and statuses will remain the same.
+These statuses and descriptions were displayed on ask.va.gov. The CRM still displays these status labels.
 
-|Status|Descriptive text|Trigger event|
+|Status label|Descriptive text|Trigger event|
 |:--|:--|:--|
 |`New`|Your inquiry is currently in queue to be reviewed.|The system automatically sets the status to `New` when a question is submitted.|
 |`In progress`|Your inquiry is currently being reviewed by an agent.|The system automatically sets the status to `In progress` when an agent is assigned. Even if the inquiry is re-routed, it will stay `In progress` until it moves to `Solved`.|
@@ -36,3 +36,10 @@ This is the text that is currently displayed on ask.va.gov. This descriptive tex
 |`Reopened`|Your reply to this inquiry has been received, and the inquiry is currently being reviewed by an agent.|The system automatically sets the status to `Reopened` when a submitter replies to a `Solved` inquiry.|
 |`Closed`|Closed|The system automatically updates the status of `Solved` inquiries to `Closed` after 60 days of no activity.|
 |Reference number not found|No Results found. We could not locate an inquiry that matches your ID.  Please check the number and re-enter.  If you receive this message again, you can submit a new inquiry with your original question.  Include your old inquiry number for reference and we'll work to get your question fully answered.|A submitter searches for an reference number that is not found in the system.|
+
+## Future work
+
+In the future, we'd like to:
+- **Revisit trigger events.** We think there's an opportunity to de-couple some events so that we can make statuses more descriptive.
+- **Achieve parity between VA.gov and CRM.** We think agents and submitter should reference the same the status labels. We need to update CRM statuses to achieve parity.
+- **Revisit 'Reopened' status name.** We have learned from research that this status label is not as clear as it should be.

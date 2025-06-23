@@ -9,6 +9,12 @@ For the MVP release it used a combination of new sub-urls and existing urls from
 - [Designs specs](https://www.figma.com/design/r3Aj9FtLFS989mlVeBsgJg/0781-Redesign?node-id=14625-58056)
 
 
+Primary entry point (the main way Veterans will access the tool through site navigation)
+1. https://www.va.gov/
+2. Authentication is required
+3. https://www.va.gov/disability/file-disability-claim-form-21-526ez/introduction
+
+
 | Design Spec# | Design spec section name                | Sub URL                                                                                                | Notes                                |
 | ------------ | --------------------------------------- | ------------------------------------------------------------------------------------------------------ | ------------------------------------ |
 | [3.2]        | 0781 choice page                        | va.gov/disability/file-disability-claim-form-21-526ez/mental-health-form-0781/workflow                       |                                      |

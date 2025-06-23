@@ -1,6 +1,6 @@
 # Project outline: Forms Status on My VA MVP
 
-**Last updated: October 29, 2024 - updated key dates, added screenshot**
+**Last updated: June 2, 2025 - updated links for figma, added launch date range for pdf support**
 
 This initative is a collabortion between the Authenticated Experience My VA team and the Veteran Facing Forms team.
 
@@ -9,6 +9,7 @@ This initative is a collabortion between the Authenticated Experience My VA team
 - **GitHub Label**: authenticated-exp; my-va-dashboard; forms-status
 - **Slack channel**: veteran-facing-forms or accountexp-authexp
 - **Development Epic**: [#81849](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81849)
+- **PDF Feature & All benefits intake api forms support Epic:**[#109605](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109605) - note, the original epic only offered support for some forms, this epic expands that capability to all forms that use the benefits intake API.
 - **Collab Cycle Epic**: [#80272](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80272)
 - **Veteran Facing Forms [outline](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Product/2024-05%20VFF%20and%20My%20VA%20Form%20Submission%20Research/Product%20Outline%20Confirmation.md)**
 
@@ -120,10 +121,9 @@ The primary goal of this MVP is to reduce silent submission failures in the form
 ## Key deliverables
 
 - [Technical discovery](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/forms-status-on-My-VA/technical-discovery.md)
-
-- Usability study artifacts and findings (TK)
-- Figma designs
-  
+- [Figma designs /](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2049-36392) [user flow](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=0-7641&p=f&t=o3kG1zB7BNF9SzFu-0)
+- [Original Epic](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/forms-status-on-My-VA#project-outline-forms-status-on-my-va-mvp)
+- [PDF Feature & All benefits intake api forms support Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109605) - note, the original epic only offered support for some forms, this epic expands that capability to all forms that use the benefits intake API.    
 
 ### Key Dates
 
@@ -137,6 +137,7 @@ The primary goal of this MVP is to reduce silent submission failures in the form
 - October 10, 2024: internal UAT
 - October 17, 2024: Begin phased launch (25%)
 - October 21, 2024: Launch to 100%
+- June 2025: Enhance with PDF download capability 
    
 ## Screenshots
 

@@ -10,7 +10,7 @@ Technically vets-api and Lighthouse run on the same server, but we treat each ot
 
 ### Sequence Diagram
 
-[Supplemental Claim sequence diagram](./SC_sequence-diagram.md)
+[Supplemental Claim sequence diagram](./SC_sequence_diagram.md)
 
 ### Data Flow Diagram
 

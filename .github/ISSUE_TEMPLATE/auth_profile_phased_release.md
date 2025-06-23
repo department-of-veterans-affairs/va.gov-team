@@ -3,8 +3,8 @@ name: Authenticated Experience Profile Phased Release Template
 about: Basic template for creating Authenticated Experience Profile team phased releases
   using a feature flag
 title: Practice Area | Profile | [Project] | Phased Release (**25%**,50%,75%,100%)
-labels: needs-refinement, profile, launch
-assignees: 'mtcA6'
+labels: launch, needs-refinement, profile
+assignees: mtcA6
 
 ---
 
@@ -60,4 +60,4 @@ Overview of the project and release
 </details>
 
 ## Acceptance Criteria
-- [ ] feature is fully deployed in production 
+- [ ] feature is fully deployed in production

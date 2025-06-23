@@ -1,8 +1,9 @@
 ---
 name: Search "Best bet" request
-about: Request to create or change a 'search recommendation' (aka Best Bets) shown as results in the VA.gov search system
+about: Request to create or change a 'search recommendation' (aka Best Bets) shown
+  as results in the VA.gov search system
 title: Search recommendation (aka Best Bet) request for <topic>
-labels: sitewide CAIA, IA-centralized-team
+labels: sitewide CAIA
 assignees: mnorthuis
 
 ---

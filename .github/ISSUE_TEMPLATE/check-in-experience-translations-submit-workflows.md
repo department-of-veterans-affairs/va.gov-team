@@ -1,7 +1,7 @@
 ---
 name: Check In Experience Send QA Screenshots to the State Department
 about: For Sending QA Screenshots to the State Department
-title: "Send QA Screenshots to the State Department"
+title: Send QA Screenshots to the State Department
 labels: product
 assignees: ''
 

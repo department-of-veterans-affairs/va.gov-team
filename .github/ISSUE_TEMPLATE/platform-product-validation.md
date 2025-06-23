@@ -2,7 +2,7 @@
 name: Platform Stability, Reliability, and Engineering (SRE) team issue template
 about: For filing standard issues. Includes validation section.
 title: ''
-labels: ['platform-sre-team', 'needs-refinement']
+labels: needs-refinement, platform-sre-team
 assignees: ''
 
 ---

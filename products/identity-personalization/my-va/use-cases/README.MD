@@ -1,5 +1,7 @@
 # My VA Use Cases
-**Last updated:** November 8, 2024
+**Last updated: June 2025**
+
+Updated to reflect My VA 3.0 Phase 1 use cases.
 
 ## Common Use Cases
 
@@ -10,14 +12,30 @@
 ### User logs in with LOA3 account
 
 - [Claims and appeals use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/claims-and-appeals-use-cases)
+- [Forms and applications use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/benefit-applications-and-forms-use-cases)
 - [Health care use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/health-care-use-cases)
-- [Outstanding debts use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/outstanding-debts-use-cases)
 - [Benefit payments use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/benefit-payments-use-cases)
-- [Education and training use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/education-and-training-use-cases)
-- [Benefit applications and forms use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/benefit-applications-and-forms-use-cases)(this includes drafts)
+- [Outstanding debts use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/outstanding-debts-use-cases)
+- Removed for My VA 3.0 Phase 1 | [Education and training use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/education-and-training-use-cases)
 
 ## Edge Cases
+Edge cases specific to each section are captured in their individual sections linked above.
 
-### System can't connect to MPI
+### Validation
+This feature has no page level validation use cases.
 
-- [There's an error because the system can't connect to MPI](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/system-cant-connect-to-MPI.md)
+### Flags
+
+<details><summary>User does not have completed contact information on file</summary>
+
+- **Use case:** If an LOA3 user logs in and is missing their phone number, email, or address they are prompted to add that information from My VA through an alert that appears at the top of My VA.
+- **Status code:** TBD
+- **Format:** [Informational alert](https://design.va.gov/components/alert/#informational-alert-aka-default)
+- [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5456-14077&t=P0cKxHnGArzgrnSK-1)
+- [Link to product documentation]
+
+</details>
+
+
+### Errors
+- [System can't connect to MPI error](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/system-cant-connect-to-MPI.md)

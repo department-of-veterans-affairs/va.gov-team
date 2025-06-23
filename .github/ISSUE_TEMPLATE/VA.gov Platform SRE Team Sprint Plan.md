@@ -1,9 +1,10 @@
 ---
 name: VA.gov Platform SRE Team Sprint Plan
 about: Use this template for creating sprint plans.
-title: "SRE Team Sprint [XX] Plan"
-labels: 
-assignees: AshleyGuerrant, kflow85, jwoodman5
+title: SRE Team Sprint [XX] Plan
+labels: ''
+assignees: AshleyGuerrant, jwoodman5
+
 ---
 
 ### SRE Team 2025 Vision Roadmap
@@ -26,7 +27,7 @@ Story points planned: [number of points]
 
 Story points completed: [number of points]
 
-###  Support Rotation or PTO
+####  Support Rotation or PTO
 *Note any team member on support or PTO this sprint and note which it is
 
 #### Epics & Issues</span>

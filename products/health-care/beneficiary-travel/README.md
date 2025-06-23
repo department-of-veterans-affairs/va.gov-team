@@ -18,8 +18,11 @@ Deliver a seamless and positive experience for any Veteran or Caregiver who want
 - Engineering: Mark Dewey
 - Design/Research: Kristen McConnell
 
-### Product Team
-- Ayush Chakravarty, Product Manager
+### VES / Business Stakeholders
+- Michelle Ortiz
+
+### Product Delivery Team
+- Lauren Ernest, interim Product Manager
 - Kevin Duensing, Engineering Lead
 - Liz Townsend, Engineering
 - Calvin Cieslak, Engineering
@@ -27,7 +30,7 @@ Deliver a seamless and positive experience for any Veteran or Caregiver who want
 - Cara Frissell, Research
 
 ### Project Management
-- Michelle Ortiz
+- Lance Cromwell
 - Lauren Ernest
 
 

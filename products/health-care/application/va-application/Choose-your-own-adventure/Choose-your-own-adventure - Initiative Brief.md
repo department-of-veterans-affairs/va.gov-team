@@ -1,6 +1,7 @@
 # Choose-your-own-adventure - Initiative Brief
 - Epic - [#103253](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103253)
-- Design file - TBD
+- Final Design file - TBD
+     - [Working Figma design file](https://www.figma.com/design/gQfpIymox9UgkBSwlZXUhy/10-10EZ---Working-File---EPIC-CYOA?node-id=0-1&p=f&t=E9PwRlHmBg087S7V-0)
 - Related work - [Short Form 1-click](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Short%20Form%20-%201-click/Short%20Form%201-click%20-%20Initiative%20Brief.md)
 
 ## Outcome Summary

@@ -1,9 +1,10 @@
 ---
 name: VA.gov Platform Platform Research Sprint Plan
 about: Use this template for creating sprint plans.
-title: "Platform Research Sprint [XX] Plan"
-labels: 
-assignees: tayism, naomimarcussen, jwoodman5
+title: Platform Research Sprint [XX] Plan
+labels: ''
+assignees: jwoodman5, naomimarcussen, tayism
+
 ---
 
 ### Platform Research 2025 Vision Roadmap
@@ -29,7 +30,7 @@ Story points injected: [number of points]
 
 Story points removed: [number of points]
 
-###  Support Rotation or PTO
+####  Support Rotation
 *Note any team member on support or PTO this sprint and note which it is*
 
 #### Epics & Issues</span>

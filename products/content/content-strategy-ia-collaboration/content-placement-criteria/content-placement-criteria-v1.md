@@ -61,7 +61,7 @@ Content should be evaluated at a granular level - in other words, content that h
   - The content's primary home should be in a VA.gov benefit hub. 
 
 
-## Criteria 3: Content must at least one of these requirements
+## Criteria 3: Content must meet at least one of these requirements
 
 - Provides supplemental eligibility, evidence information, or application instructions for a benefit, **OR**
 - Explains ways to use a VA benefit,**OR**

@@ -78,7 +78,7 @@ body:
           required: true
         - label: Are you a Veteran? Consider adding your name to the [Veterans willing to help VA teams with product testing](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/team-veterans.md) document
           required: true
-        - label: Complete educational tasks
+        - label: Complete [educational tasks](https://depo-platform-documentation.scrollhelp.site/getting-started/educational-tasks)
           required: true
   - type: checkboxes
     attributes:

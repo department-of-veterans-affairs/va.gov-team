@@ -1,8 +1,8 @@
 ---
 name: Travel Pay Frontend Feature
 about: For implementing Veteran-facing features
-title: 'Travel Pay Frontend Feature'
-labels: Travel Pay, TravelPayFrontend, Frontend
+title: Travel Pay Frontend Feature
+labels: Travel Pay, TravelPayFrontend
 assignees: ''
 
 ---
@@ -47,4 +47,3 @@ _va.gov URL here. Like: va.gov/my-health/travel_pay/status_
 ## Acceptance Criteria
 - [ ] Frontend tasks complete
 - [ ] I can navigate to the URL above and see the intended feature shown above
-

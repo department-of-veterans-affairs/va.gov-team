@@ -12,11 +12,15 @@ The problem is to add this option to the online EZ in a way that is not confusin
 - [MVP epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43221)
 
 
+
+**[EVERYTHING MOVED TO NEW FIGMA FILE HERE](https://www.figma.com/design/Xxb3pTTOmE6pU5S6bqNbxP/10-10EZ---EPIC---Registration?node-id=0-1&p=f&t=5i5jVLgMOUtT5MqQ-0) - JUNE 2025**
+
 ## Recent Work
 
 - [Mural board for reseach next steps](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1731600312853/b3f7b42171fc661e8c0fbb2eabb4329bd5c21e12)
 
-- [Figma MVP Designs](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=3025-106249&t=JJdIOxH6I9H8BRka-0)
+- [Figma MVP Designs](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=3025-106249&t=JJdIOxH6I9H8BRka-0)- [NEW file link](https://www.figma.com/design/Xxb3pTTOmE6pU5S6bqNbxP/10-10EZ---EPIC---Registration?node-id=9-53503&t=5i5jVLgMOUtT5MqQ-4)
+  
 
 
 

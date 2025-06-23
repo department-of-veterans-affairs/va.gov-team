@@ -1,7 +1,7 @@
 ---
 name: Forms 8. Design and UI/UX catch-all for the form in the front end
 about: Describe this issue template's purpose here.
-title: '[form number] Design UI/UX'
+title: "[form number] Design UI/UX"
 labels: forms-audit-digitize
 assignees: ''
 

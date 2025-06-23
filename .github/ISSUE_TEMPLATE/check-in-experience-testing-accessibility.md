@@ -2,11 +2,10 @@
 name: Check In Experience Accessibility Testing
 about: For Check In Experience Accessibility Testing
 title: "[FE] Perform Accessibility Testing & Create Artifact"
-labels: HCE-Checkin, frontend
+labels: frontend, HCE-Checkin
 assignees: ''
 
 ---
-
 
 ## Description
 As a team, we need to perform accessibility testing so that we can ensure our feature is ready for release. 
@@ -17,4 +16,3 @@ As a team, we need to perform accessibility testing so that we can ensure our fe
 - [ ] Associate the accessibility ticket with the appropriate feature Epic
 - [ ] Attach the accessibility ticket to the collab cycle ticket for the feature Epic
 - [ ] Complete & check-off each test in the ticket
-  

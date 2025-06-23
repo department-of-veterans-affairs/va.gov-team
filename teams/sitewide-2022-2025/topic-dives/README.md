@@ -19,8 +19,7 @@ Please add any potential future topics you would like covered below:
 
 ### 1/21/25 - Drupal client-side validation
 
-[Drupal client-side validation Recording](https://us06web.zoom.us/rec/share/kckLh9vQVe8mMJ7uGGAY-J6huXE_Ik0TkMOeITAI3ngAuwOJGc5yn8nHnt__Njzk.8BTOWXlwzp8idG08)
-Passcode: ?K0tRqbj
+[Drupal client-side validation Recording](https://dsva.slack.com/archives/C03LFSPGV16/p1743543719989679?thread_ts=1743543352.911129&cid=C03LFSPGV16) in DSVA Slack
 
 The client-side validation module in Drupal has some quirks. Sitewide implemented a new part of the module interface (submitted upstream to the module maintainer) to address an issue where a JQuery bug in the library used by the module causes client-side validation to stop working after it encounters validation errors on any date/time field. 
 
@@ -39,6 +38,8 @@ Covers:
 https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/sitewide-2022-2025/topic-dives/videos/events_topic_dive.m4a
 
 ### 1/16/25 - VAMC Topic dive
+VAMC topic dive recording: https://dsva.slack.com/archives/C03LFSPGV16/p1743543819263229?thread_ts=1743543352.911129&cid=C03LFSPGV16
+
 Covers: 
 * VA Services & how they tie to Systems & Facilities
 * VAMC Systems
@@ -49,17 +50,13 @@ Covers:
   * Lovell
   * VA Manila
  
-[VAMC topic dive recording](https://us06web.zoom.us/rec/share/K5O_oPXy1iD5L2Fy9FByf5ZsjdYqHO1YYB3jfirPR8koy6jLxfF9jMtpYy-gAIyu.4JiogAPNcSpjXSBR)
-Passcode: Qj$5sqPw
 
 ### 12/23/24 - Facility locator application
 [Sitewide Topic Dive - Facility Locator.pdf](https://github.com/user-attachments/files/18233560/sitewide-topic-dive--facility-locator.pdf)
-* Recording: https://us06web.zoom.us/rec/share/CUBz7RF7xENiiHo6Nt7y8dJx4bKVhwKis-hJyuEuoFmqZeb1ziySwWm6OUt96YYV.GLwE5MFcHwvAsdD-?startTime=1734986171000
-* Passcode: zv06Hm@B
+* Recording:https://dsva.slack.com/archives/C03LFSPGV16/p1743543489131379?thread_ts=1743543352.911129&cid=C03LFSPGV16
 
 ### 7/10/24 - Find a Form
-https://us06web.zoom.us/rec/share/nhSoIaTcjXapnmI6VbM0i7tSLUMJTPWD7WlN2r1hauB1U5k3_Fb1_CxW7swzg47N.-kGMFqgUx35QgVaj?startTime=1720642043000
-Passcode: uc63t+P8
+https://dsva.slack.com/archives/C03LFSPGV16/p1743543526066549?thread_ts=1743543352.911129&cid=C03LFSPGV16
 
 Soup to nuts, how Find a Form works, including: 
 * Nature of upstream data housed in Forms DB 
@@ -95,12 +92,12 @@ Soup to nuts, how Find a Form works, including:
 ### 3/5/24 - ECA module / use for Aging content notifications 
    - Daniel Sasser
    - Primarily Drupal: Use of ECA module, how we are configuring it on Public Websites for use to send aging content notifications for Full Width Banners. This was a team-internal primer / demo before the feature shipped. Future topic dive may go into greater detail.
-   - [Video](https://us06web.zoom.us/rec/share/QW-gQ30pdwsEUMU9z3I9p7LPvLKpHgFp_wcRy-6KibDoTmrx_8Zb8z1VtDu_7alA.YadrT7s73_Mylzc3?startTime=1709666432000)  Passcode: UB!4xG?5
+   - Video: https://dsva.slack.com/archives/C03LFSPGV16/p1743543469946949?thread_ts=1743543352.911129&cid=C03LFSPGV16
 
 ### 10/30/23 - How to make your Content Model Documentation ride with your code.
    - Steve Wirt
    - This is primarily for developers.  Prior to now, Content Model Documents had to be created on prod **AFTER** the code adding a new field/paragraph/content-type/taxon made it to prod.  This is to cover a new process to have it ride with the code.
-   - [Video](https://civicactions.zoom.us/rec/share/Bnw7JnpF-7NWJDXGo4K7KXeY01QStkVDn8f9sLWBm21i4BsNjBuWe5Tv6QRO3jhX.PHNKPgnTQuOjbovg?startTime=1698688832000)  passcode: JQh=8TSR
+   - Video: https://dsva.slack.com/archives/C03LFSPGV16/p1743543418453659?thread_ts=1743543352.911129&cid=C03LFSPGV16
    - [Documentation of process](https://prod.cms.va.gov/admin/structure/cm_document/process/127/importing-site-documentation)
 
 ### 10/23/23 - VA Service Taxonomy
@@ -108,17 +105,17 @@ Soup to nuts, how Find a Form works, including:
 - The [VA Service Taxonomy](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/facilities/va-service-taxonomy) is a confusing part of the Facilities product portfolio. It is simultaneuously the simplest of our products (very little dedicated code, mostly powered by out of the box Drupal functionality, content updates are infrequent, no dedicated front end to maintain, etc.) and the most complex (source of truth for fields on lots of other content types, governance spans all our stakeholders, small changes can have large downstream impacts, etc.). Tune in to learn about how the VA Service Taxonomy works and how it is key to the long-term vision of the Facilities team.
 - [Slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/va-service-taxonomy/VA-Service-Taxonomy-presentation.pdf)
 - [Short and sweet slides](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/va-service-taxonomy/VA-Service-Taxonomy-presentation-short.pdf)
-- [Video](https://civicactions.zoom.us/rec/share/-GLIWsuKf2InesjrbmkXDDVvLR0bUS8eFPlSZ8PQ0AFrafNOqTIhF1ke5sM75qce.Yt_ecWRSRFoDjuHb) Passcode: 3wb@c&dA
+- Video: https://dsva.slack.com/archives/C03LFSPGV16/p1743543951477729?thread_ts=1743543352.911129&cid=C03LFSPGV16
 
 ### 10/16/23 - Datadog!
 - Chris Kim & Eli Selkin
 - Datadog is a monitoring tool now available to VFS teams. Recently, Chris & Eli configured monitors and synthetic tests for Public Websites and Facilities use cases, and will share learnings.
-- [Zoom video](https://civicactions.zoom.us/rec/share/LBftc12KS6mU7Iz7I7moKOARVp7MmXjNNCOuA7ra7I41hHlmdVlRHftdEhYHQrwr.g2v3yWg4s9tej94a?startTime=1697479170000) Passcode: 0HK%Kc2K
+- Video: https://dsva.slack.com/archives/C03LFSPGV16/p1743543446528809?thread_ts=1743543352.911129&cid=C03LFSPGV16
 
 ### 6/12/23 - Cerner/KISS
 - Ryan Koch
 - Cerner: VA health systems are undergoing a years-long transition of their Electronic Health Records systems, moving away from VistA in favor of Cerner. The Public Websites team has been tasked with managing the piece of that puzzle that involves linking an authenticated veteran to the appropriate system based on whether that veteran's health care facility has transitioned or not. KISS (Keep It Simply Static): We have a system in place to generate arbitrary static data files from CMS data. The Cerner/EHR data points making their way from Drupal to the browser is one example of this system being used.
-- [Cerner/KISS Video](https://civicactions.zoom.us/rec/play/2dbE5lQOBI6ybzP-luKn6CmtfaiABvaDaoWoKZPKR9NNc3OgFVPuDp5tEESu0uyTGyVHT2OlDGpLIrCK.IEtyKw9WNtCnkLwi?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fcivicactions.zoom.us%2Frec%2Fshare%2FcB5GV0zlIKXU7xYy6s4J5D_Hv5U7N_ZH8Qt-eWVL5AZ8i_Uhp6aHM7mQ0FE4v1nE.YBYYXy7v71a6T0-o)  Passcode: $mP5%lj8
+- Cerner/KISS Video: https://dsva.slack.com/archives/C03LFSPGV16/p1743543406454599?thread_ts=1743543352.911129&cid=C03LFSPGV16
 - [Slides](https://docs.google.com/presentation/d/1ONE28eBTbIOyKfl1NvrmMji5r8CbrC9VJExhemO4fik)
 - [Historic coverage of solutions that KISS can improve](https://docs.google.com/presentation/d/1h5BKiVCvw_K6vWH8xn4crjHnLV7ax0L1bVLWI8EWTdg) (the time references are about a year out of date)
 
@@ -180,7 +177,7 @@ Soup to nuts, how Find a Form works, including:
 
 ### 6/13/2022 - Anatomy of a hook_update_n (deploying non-config changes programmatically)
 - Steve Wirt
-- [Anatomy of a hook_update_n video](https://civicactions.zoom.us/rec/component-page?action=viewdetailpage&sharelevel=meeting&useWhichPasswd=meeting&clusterId=aw1&componentName=need-password&meetingId=obwN-SIhCxUp92Q-scehC4nZcqhoV9yQM_XW-ZeqKlt2YNFZt0aTUEe5TCwj4_C-._Kj0gxOMV53_KAVF&originRequestUrl=https%3A%2F%2Fcivicactions.zoom.us%2Frec%2Fshare%2FepwSm0AWFw5zOwKctfIixJT4pXmc-fdIFQd5SczAuNgzV01ShR0gbDWQxPOG_Z0K.idZ5fcrFuNLYOZqZ) passcode %6RrB6uk
+- Anatomy of a hook_update_n video: https://dsva.slack.com/archives/C03LFSPGV16/p1743544086356029?thread_ts=1743543352.911129&cid=C03LFSPGV16
 - [Anatomy of a hook_update_n slides](https://docs.google.com/presentation/d/1TRRr5diCno_5HPZ6kBJvsKcg92orbS3jL3c-KOG4wws)
 
 ### 4/8/2022 - Spec Tool 1.0
@@ -197,7 +194,6 @@ Soup to nuts, how Find a Form works, including:
 
 ### 1/6/2022 - Preview button, content release and FE page links
 - Steve Wirt
-- [Preview button, content release and FE page links video](TBD)
 - [CMS Content Workflow Readme](https://github.com/department-of-veterans-affairs/va.gov-cms/blob/main/READMES/cms-content-workflow.md)
 
 ### 1/4/2022 - Sections taxonomy and governance

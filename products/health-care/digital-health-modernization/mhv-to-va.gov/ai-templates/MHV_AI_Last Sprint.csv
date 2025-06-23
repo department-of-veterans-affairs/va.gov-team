@@ -1,0 +1,145 @@
+Issue Type,Custom field (Epic Link),Issue key,Issue id,Summary,Status,Custom field (MHV Product Team),Custom field (Story Points),Assignee,Resolution,Sprint,Sprint,Sprint,Sprint,Sprint,Resolved
+Story,MHV-69163,MHV-70294,4415839,Backend work - fetch VA profile email address,Done,MHV Access,1.0,haritha.cheruvu@va.gov,Done,MHV Access Sprint 155,,,,,05/12/2025 02:57 PM
+Story,MHV-69603,MHV-70816,4423954,spike story to discover flattening process for ap-common-deps to remediate critical finding,Done,MHV Access,2.0,Lolita.Young@va.gov,Done,MHV Access Sprint 155,,,,,05/13/2025 08:36 AM
+Bug,MHV-69232,MHV-69537,4391128,Remove info statement,Done,MHV Access,1.0,kenneth.gary@va.gov,Done,MHV Access Sprint 155,,,,,05/06/2025 12:27 PM
+Story,MHV-69232,MHV-70577,4421657,Team / Test support - Sprint 155,Done,MHV Access,1.0,haritha.cheruvu@va.gov,Done,MHV Access Sprint 155,,,,,05/13/2025 09:43 AM
+Story,MHV-69163,MHV-69724,4399534,Addition of 'VA.gov Profile Email Address' on MHV Admin portal - Help Desk - View Details page.,Done,MHV Access,1.0,haritha.cheruvu@va.gov,Done,MHV Access Sprint 155,,,,,05/12/2025 01:24 PM
+Story,MHV-69163,MHV-69726,4399536,Addition of 'VA.gov Profile Email Address' on MHV Admin portal - IPA - Manage MHV Users (Accounts Matched to MPI) page,Done,MHV Access,1.0,haritha.cheruvu@va.gov,Done,MHV Access Sprint 155,,,,,05/12/2025 01:24 PM
+Story,MHV-69163,MHV-69727,4399538,Addition of 'VA.gov Profile Email Address' on MHV Admin portal - IPA - Manage MHV Users (All Accounts) page,Done,MHV Access,1.0,haritha.cheruvu@va.gov,Done,MHV Access Sprint 155,,,,,05/12/2025 01:25 PM
+Story,MHV-69232,MHV-70580,4421677,Team / Test support - Sprint 155,Done,MHV Access,1.0,swathi.alikatti@va.gov,Done,MHV Access Sprint 155,,,,,05/13/2025 03:27 PM
+Story,MHV-69547,MHV-70117,4412213,Technical Analysis - Retirement of Identity verification on MHV Admin portal - IPA page,Done,MHV Access,1.0,swathi.alikatti@va.gov,Done,MHV Access Sprint 155,,,,,05/13/2025 03:28 PM
+Bug,MHV-69232,MHV-71123,4451384,Defect: User API Cluster Aware Cache Configuration,Done,MHV Access,1.0,barry.egbert@va.gov,Done,MHV Access Sprint 155,,,,,05/07/2025 03:17 PM
+Story,MHV-71008,MHV-70581,4419961,API TEST AUTOMATION - REVIEW AND UPDATE ALL EXISTING API TEST CLIENTS FOR GATEWAY DOMAIN/AUTH,Done,MHV Access,6.0,george.goslin@va.gov,Done,MHV Access Sprint 155,,,,,05/13/2025 04:12 PM
+Story,MHV-69163,MHV-70233,4414800,Analysis support- Milestone -2,Done,MHV Access,0.5,naseera.ahamadi@va.gov,Done,MHV Access Sprint 155,,,,,05/13/2025 09:56 AM
+Story,MHV-69560,MHV-69563,4392241,Story: Update AAL Code to Capture Client ID,Done,MHV Access,3.0,haritha.cheruvu@va.gov,Done,MHV Access Sprint 155,,,,,05/13/2025 10:41 AM
+Story,MHV-69560,MHV-69561,4392239,Story: Assess Impact and Define Requirements for Adding the Client Column,Done,MHV Access,2.0,haritha.cheruvu@va.gov,Done,MHV Access Sprint 155,,,,,05/13/2025 10:48 AM
+Story,MHV-69759,MHV-71071,4441582,"Whenever HealthShare sends a A31 call and for the given ICN, if there is no MHV account then HealthShare is getting 401 error",Done,MHV Access,2.0,haritha.cheruvu@va.gov,Done,MHV Access Sprint 155,,,,,05/13/2025 10:46 AM
+Story,MHV-63138,MHV-63161,3874195,Story: MHV IRIS Production Monitoring,Done,MHV API Oversight,1.0,james.mcnamara@va.gov,Done,MHV Sprint 153 Medications,MHV Sprint 154 Medications,MHV Sprint 155 Medications,,,05/14/2025 01:00 PM
+Story,MHV-68892,MHV-69820,4402113,Implement: Update MHV Terms and Conditions v3.0,Done,MHV Portals,1.0,brittany.clausen@va.gov,Done,MHV Access Sprint 155,,,,,05/08/2025 09:26 AM
+Story,MHV-65773,MHV-69148,4358150,UCD - [Dan] IPE AT Usability - Reporting,Done,VA.gov-Medications,3.0,anne.costello@va.gov,Done,MHV Sprint 154 Medications,MHV Sprint 155 Medications,,,,05/05/2025 08:13 AM
+Story,MHV-65729,MHV-69210,4363279,Refill updates tracking alert content updates,Done,VA.gov-Medications,1.0,Vitalii.Menshutin@va.gov,Done,MHV Sprint 154 Medications,MHV Sprint 155 Medications,,,,05/01/2025 12:56 PM
+Story,MHV-65773,MHV-69848,4404726,UCD - Desk Research - Refill Meds Process,Done,VA.gov-Medications,1.0,anne.costello@va.gov,Done,MHV Sprint 154 Medications,MHV Sprint 155 Medications,,,,05/05/2025 08:14 AM
+Story,MHV-69731,MHV-70214,4414425,UCD - IPE AT Usability - Reporting,Done,VA.gov-Medications,1.0,Melissa.Stern@va.gov,Done,MHV Sprint 155 Medications,,,,,05/05/2025 08:29 AM
+Story,MHV-65773,MHV-69530,4390749,UCD - [Dan] Cancellation Flow Discovery Research,Done,VA.gov-Medications,1.0,anne.costello@va.gov,Done,MHV Sprint 154 Medications,MHV Sprint 155 Medications,,,,05/05/2025 08:12 AM
+Bug,MHV-65730,MHV-69821,4402090,Fix CORS error on hint dimiss action for IPE,Done,VA.gov-Medications,1.0,roberto.rodriguezrenteria@va.gov,Done,MHV Sprint 154 Medications,MHV Sprint 155 Medications,,,,05/05/2025 02:51 PM
+Story,MHV-68928,MHV-71012,4435424,Update Shared Vitals content for transition,Done,VA.gov-Medications,1.0,brittany.clausen@va.gov,Done,MHV Sprint 155 Medications,,,,,05/05/2025 12:35 PM
+Story,MHV-70107,MHV-62944,3866020,Establish Oracle refill flow in healthshare,Done,VA.gov-Medications,3.0,james.mcnamara@va.gov,Done,MHV Sprint 152 Medications,MHV Sprint 153 Medications,MHV Sprint 154 Medications,MHV Sprint 155 Medications,,05/08/2025 02:48 PM
+Story,MHV-69556,MHV-70380,4416499,Usability Testing (5/7),Done,VA.gov-Medications,1.0,bhavin.patel2@va.gov,Done,MHV Sprint 155 Medications,,,,,05/08/2025 02:58 PM
+Story,MHV-68475,MHV-68490,4300186,MHV 2505.1 (5/7) Pharmacy Automated Regression Testing,Done,VA.gov-Medications,1.0,rajasree.venkatesh@va.gov,Done,MHV Sprint 155 Medications,,,,,05/08/2025 10:07 AM
+Story,MHV-65982,MHV-71079,4442210, Add the download PDF/TXT success message to the med info page,Done,VA.gov-Medications,,anthony.gravell@va.gov,Done,MHV Sprint 155 Medications,,,,,05/08/2025 11:50 AM
+Story,MHV-69556,MHV-70906,4431516,Bi-Weekly Accessibility Manual Testing Sprint 155,Done,VA.gov-Medications,2.0,randy.larson@va.gov,Done,MHV Sprint 155 Medications,,,,,05/08/2025 12:44 PM
+Story,MHV-65730,MHV-68718,4316953,Updates on when to show IPE,Done,VA.gov-Medications,2.0,roberto.rodriguezrenteria@va.gov,Done,MHV Sprint 153 Medications,MHV Sprint 155 Medications,,,,05/07/2025 03:00 PM
+Story,MHV-65729,MHV-69341,4375629,Refill history and tracker are in the wrong order,Done,VA.gov-Medications,2.0,roberto.rodriguezrenteria@va.gov,Done,MHV Sprint 153 Medications,MHV Sprint 154 Medications,MHV Sprint 155 Medications,,,05/07/2025 02:51 PM
+Story,MHV-70124,MHV-68579,4307715,allergies API error alert not showing when user clicks print this page option,Done,VA.gov-Medications,2.0,Vitalii.Menshutin@va.gov,Done,MHV Sprint 154 Medications,MHV Sprint 155 Medications,,,,05/05/2025 02:30 PM
+Story,MHV-68474,MHV-62500,3844673,Cypress Testing: Increase Test Coverage,Done,VA.gov-Medications,1.0,rajasree.venkatesh@va.gov,Done,MHV Sprint 155 Medications,,,,,05/08/2025 02:55 PM
+Story,MHV-65982,MHV-68512,4300725,Compare Datadog metrics to AAL metrics ,Done,VA.gov-Medications,2.0,anthony.gravell@va.gov,Done,MHV Sprint 151 Medications,MHV Sprint 152 Medications,MHV Sprint 153 Medications,MHV Sprint 154 Medications,MHV Sprint 155 Medications,05/07/2025 04:25 PM
+Story,MHV-69556,MHV-70384,4412976,Test Data Support,Done,VA.gov-Medications,1.0,bhavin.patel2@va.gov,Done,MHV Sprint 155 Medications,,,,,05/12/2025 01:57 PM
+Story,MHV-69731,MHV-71105,4447431,UCD - Desk Research - Refill Meds Process,Done,VA.gov-Medications,1.0,daniel.vanvleck@va.gov,Done,MHV Sprint 155 Medications,,,,,05/13/2025 08:29 AM
+Story,MHV-69731,MHV-69970,4409810,UCD - Data Collection & Analytics - QUAL,Done,VA.gov-Medications,3.0,daniel.vanvleck@va.gov,Done,MHV Sprint 155 Medications,,,,,05/13/2025 08:28 AM
+Story,MHV-69731,MHV-69985,4410351,UCD - Data Collection Metrics Study,Done,VA.gov-Medications,3.0,daniel.vanvleck@va.gov,Done,MHV Sprint 155 Medications,,,,,05/13/2025 08:28 AM
+Story,MHV-68796,MHV-71095,4445060,Shipped on date is not getting displayed in refill history,Done,VA.gov-Medications,2.0,Vitalii.Menshutin@va.gov,Done,MHV Sprint 155 Medications,,,,,05/09/2025 12:33 PM
+Story,MHV-69730,MHV-70169,4413265,UCD - OH work,Done,VA.gov-Medications,3.0,justine.chou@va.gov,Done,MHV Sprint 155 Medications,,,,,05/13/2025 11:12 AM
+Story,MHV-69731,MHV-69984,4410322,UCD - Data Collection Metrics Study,Done,VA.gov-Medications,1.0,anne.costello@va.gov,Done,MHV Sprint 155 Medications,,,,,05/12/2025 11:42 AM
+Story,MHV-68432,MHV-68440,4299748,Medications Test Maintenance Sprint 155,Done,VA.gov-Medications,0.5,rajasree.venkatesh@va.gov,Done,MHV Sprint 155 Medications,,,,,05/14/2025 09:02 AM
+Story,MHV-69556,MHV-70381,4416600,Usability Testing (5/14),Done,VA.gov-Medications,1.0,bhavin.patel2@va.gov,Done,MHV Sprint 155 Medications,,,,,05/14/2025 10:00 AM
+Story,MHV-65982,MHV-70824,4425993,Fix Springboot issue,Done,VA.gov-Medications,4.0,bhavin.patel2@va.gov,Done,MHV Sprint 154 Medications,MHV Sprint 155 Medications,,,,05/09/2025 12:36 PM
+Story,MHV-61346,MHV-69339,4375616,Make the filter logic case insensitive to ensure it captures all meds,Ready for Validation,VA.gov-Medications,1.0,roberto.rodriguezrenteria@va.gov,,MHV Sprint 155 Medications,MHV Sprint 156 Medications,,,,
+Story,MHV-65319,MHV-68968,4342526,Change 3 session logic from IPE backend,Backlog,VA.gov-Medications,,roberto.rodriguezrenteria@va.gov,,MHV Sprint 153 Medications,MHV Sprint 154 Medications,MHV Sprint 155 Medications,MHV Sprint 156 Medications,,
+Story,MHV-70107,MHV-70261,4415158,Add refill request updates to API,In Progress,VA.gov-Medications,5.0,krishnarao.nandipati@va.gov,,MHV Sprint 155 Medications,MHV Sprint 156 Medications,,,,
+Story,MHV-70106,MHV-70249,4414997,Derive location/organization for medications list,In Progress,VA.gov-Medications,,james.mcnamara@va.gov,,MHV Sprint 155 Medications,MHV Sprint 156 Medications,,,,
+Story,MHV-63138,MHV-63160,3874194,Story: MHV IRIS Production Implementation,Done,VA.gov-Medications,1.0,james.mcnamara@va.gov,Done,MHV Sprint 152 Medications,MHV Sprint 153 Medications,MHV Sprint 154 Medications,MHV Sprint 155 Medications,,05/14/2025 12:59 PM
+Story,MHV-70107,MHV-53764,2863726,OHLocation/Station Number Integration,Analysis,VA.gov-Medications,5.0,james.mcnamara@va.gov,,MHV Sprint 155 Medications,MHV Sprint 156 Medications,,,,
+Story,MHV-69730,MHV-70171,4413268,UCD - Audit web UI,Done,VA.gov-Medications,2.0,justine.chou@va.gov,Done,MHV Sprint 155 Medications,,,,,05/14/2025 12:47 PM
+Story,MHV-69556,MHV-71281,4525572,Regression testing: RTK query and data loaders,In Progress,VA.gov-Medications,3.0,yulia.melnikova@va.gov,,MHV Sprint 155 Medications,MHV Sprint 156 Medications,,,,
+Story,MHV-68797,MHV-71311,4529320,Refill error alert shows partial error even when it shouldn't,Backlog,VA.gov-Medications,2.0,Vitalii.Menshutin@va.gov,,MHV Sprint 155 Medications,MHV Sprint 156 Medications,,,,
+Story,MHV-68795,MHV-65401,4052034,Change to last fill first sort option,In Progress,VA.gov-Medications,5.0,roberto.rodriguezrenteria@va.gov,,MHV Sprint 155 Medications,MHV Sprint 156 Medications,,,,
+Story,MHV-69158,MHV-70439,4416845,Feature flag for OH integration on VA.gov Adrian for more info,Backlog,VA.gov-Medications,3.0,roberto.rodriguezrenteria@va.gov,,MHV Sprint 155 Medications,MHV Sprint 156 Medications,,,,
+Story,MHV-69556,MHV-70358,4416468,Testing with OH refill flow,Backlog,VA.gov-Medications,3.0,bhavin.patel2@va.gov,,MHV Sprint 155 Medications,MHV Sprint 156 Medications,,,,
+Story,MHV-68475,MHV-68491,4300187,MHV 2505.2 (5/14) Pharmacy Automated Regression Testing,Done,VA.gov-Medications,1.0,rajasree.venkatesh@va.gov,Done,MHV Sprint 155 Medications,MHV Sprint 156 Medications,,,,05/14/2025 02:36 PM
+Story,MHV-70106,MHV-70349,4412972,Whitelist user validation in production BEWhitelist user validation in production API,Backlog,VA.gov-Medications,2.0,sirisha.yeruva@va.gov,,MHV Sprint 155 Medications,MHV Sprint 156 Medications,,,,
+Story,MHV-69158,MHV-70563,4419957,AAL VA.gov changes,In Progress,VA.gov-Medications,3.0,Vitalii.Menshutin@va.gov,,MHV Sprint 155 Medications,MHV Sprint 156 Medications,,,,
+Story,MHV-65729,MHV-69208,4363264,Download alert content change,Done,VA.gov-Medications,3.0,Vitalii.Menshutin@va.gov,Done,MHV Sprint 155 Medications,MHV Sprint 156 Medications,,,,05/14/2025 04:28 PM
+Bug,MHV-65725,MHV-71275,4524730,Drug name is showing incorrectly for VAHB edge case,Validation Complete,VA.gov-Medications,3.0,bhavin.patel2@va.gov,,MHV Sprint 155 Medications,MHV Sprint 156 Medications,,,,
+Story,MHV-68795,MHV-71245,4467552,Remove random 0 character under filter list,Ready for Validation,VA.gov-Medications,1.0,Vitalii.Menshutin@va.gov,,MHV Sprint 155 Medications,MHV Sprint 156 Medications,,,,
+Story,MHV-65729,MHV-71252,4475437,Fix Tracking Alert display logic,Ready for Validation,VA.gov-Medications,2.0,Vitalii.Menshutin@va.gov,,MHV Sprint 155 Medications,MHV Sprint 156 Medications,,,,
+Story,MHV-69556,MHV-71324,4530713,Research Spike: VA Notify onboarding and template creation,To Do,VA.gov-Medications,5.0,Lolita.Young@va.gov,,MHV Sprint 155 Medications,MHV Sprint 156 Medications,,,,
+Story,MHV-66562,MHV-69803,4401651,Prod Support S155 - Dan,Done,VA.gov-MR,2.0,dan.heverly@va.gov,Done,MHV Sprint 155 VA.gov MR,,,,,05/06/2025 12:59 PM
+Story,MHV-66562,MHV-69792,4401637,Prod Support S155 - Muazzam,Done,VA.gov-MR,2.0,muazzam.khan@va.gov,Done,MHV Sprint 155 VA.gov MR,,,,,05/06/2025 12:50 PM
+Story,,MHV-69128,4357073,Research: Identify issues with Pagination,Done,VA.gov-MR,1.0,kolby.balch@va.gov,Done,MHV Sprint 154 VA.gov MR,MHV Sprint 155 VA.gov MR,,,,05/02/2025 12:53 PM
+Story,MHV-69728,MHV-70152,4413173,UCD - Explore: Support users in navigating new MR product after Milestone 2,Done,VA.gov-MR,2.0,rianna.lloyd@va.gov,Done,MHV Sprint 155 VA.gov MR,,,,,04/29/2025 01:20 PM
+Story,MHV-47021,MHV-69863,4405145,Implement database scripts for Task tables for SCDF,Done,VA.gov-MR,1.0,dan.heverly@va.gov,Done,MHV Sprint 155 VA.gov MR,,,,,04/30/2025 11:20 AM
+Bug,,MHV-69535,4390976,Can't request images again if there was an error,Done,VA.gov-MR,2.0,matthew.wright8@va.gov,Done,MHV Sprint 154 VA.gov MR,MHV Sprint 155 VA.gov MR,,,,04/29/2025 06:07 PM
+Story,MHV-66562,MHV-66021,4091328,"Front end improvement for MHV-65636 (SP, CY, EM types)",Done,VA.gov-MR,2.0,Tywande.Barnes@va.gov,Done,MHV Sprint 154 VA.gov MR,MHV Sprint 155 VA.gov MR,,,,04/30/2025 12:57 PM
+Story,MHV-66562,MHV-69797,4401643,Prod Support S155 - Paikar,Done,VA.gov-MR,2.0,paikar.nasim@va.gov,Done,MHV Sprint 155 VA.gov MR,,,,,05/06/2025 12:51 PM
+Story,MHV-68161,MHV-69708,4396492,Add integration with MHV AAL endpoint,Done,VA.gov-MR,3.0,michael.moyer@va.gov,Done,MHV Sprint 155 VA.gov MR,,,,,05/02/2025 10:06 AM
+Story,MHV-69695,MHV-69701,4396386,Allow DoD history API calls with reduced privileges on the backend,Done,VA.gov-MR,2.0,michael.moyer@va.gov,Done,MHV Sprint 154 VA.gov MR,MHV Sprint 155 VA.gov MR,,,,05/02/2025 10:06 AM
+Story,MHV-47021,MHV-69862,4405143,Create database scripts for Task tables for SCDF,Done,VA.gov-MR,1.0,dan.heverly@va.gov,Done,MHV Sprint 155 VA.gov MR,,,,,04/30/2025 11:16 AM
+Story,MHV-69695,MHV-69698,4396360,Allow SEI API calls with reduced privileges on the backend,Done,VA.gov-MR,3.0,michael.moyer@va.gov,Done,MHV Sprint 154 VA.gov MR,MHV Sprint 155 VA.gov MR,,,,05/01/2025 12:18 PM
+Story,MHV-68671,MHV-68673,4314488,Create Feature Flag for Milestone 2 changes (June 4),Done,VA.gov-MR,1.0,kolby.balch@va.gov,Done,MHV Sprint 155 VA.gov MR,,,,,05/01/2025 12:48 PM
+Story,MHV-66562,MHV-70912,4431565,Bi-Weekly Accessibility Manual Testing Sprint 155,Done,VA.gov-MR,2.0,randy.larson@va.gov,Done,MHV Sprint 155 VA.gov MR,,,,,05/02/2025 12:58 PM
+Bug,,MHV-69454,4381864,"SQA: Allergy Details page: For Individual allergy details page:  In download pdf System Display ""object Object"" Instead of Signs and Symptoms value. ",Done,VA.gov-MR,,justin.lattimore@va.gov,Done,MHV Sprint 154 VA.gov MR,MHV Sprint 155 VA.gov MR,,,,04/29/2025 11:31 AM
+Story,,MHV-68406,4295345,Notifications with VA Profile testing and Release Support,Done,VA.gov-MR,2.0,paikar.nasim@va.gov,Done,MHV Sprint 154 VA.gov MR,MHV Sprint 155 VA.gov MR,,,,05/01/2025 12:47 PM
+Story,,MHV-63529,3891195,"VAP: SM Notifications: Dev, testing",Done,VA.gov-MR,4.0,paikar.nasim@va.gov,Done,MHV Sprint 154 VA.gov MR,MHV Sprint 155 VA.gov MR,,,,05/01/2025 12:47 PM
+Bug,,MHV-71122,4451383,Defect: PHR Cluster Aware Cache Configuration,Done,VA.gov-MR,1.0,barry.egbert@va.gov,Done,MHV Sprint 155 VA.gov MR,,,,,05/07/2025 09:49 AM
+Story,MHV-68671,MHV-69284,4370732,Remove all links to MHV Classic/cleanup feature flags,Done,VA.gov-MR,1.0,justin.lattimore@va.gov,Done,MHV Sprint 155 VA.gov MR,,,,,05/06/2025 12:52 PM
+Story,MHV-68161,MHV-71216,4459940,Add functionality to log AAL once per session,Done,VA.gov-MR,2.0,michael.moyer@va.gov,Done,MHV Sprint 155 VA.gov MR,,,,,05/08/2025 01:21 PM
+Story,MHV-68161,MHV-69452,4381565,Add Opt In/Out AAL entries for Sharing settings,Done,VA.gov-MR,2.0,michael.moyer@va.gov,Done,MHV Sprint 155 VA.gov MR,,,,,05/08/2025 01:22 PM
+Bug,,MHV-71158,4455367,BB report may be messing up search dates for appointments,Done,VA.gov-MR,1.0,michael.moyer@va.gov,Done,MHV Sprint 155 VA.gov MR,,,,,05/07/2025 08:00 PM
+Story,MHV-58922,MHV-67933,4223704,Review of VIA Radiology Report mapping,Done,VA.gov-MR,3.0,john.moehrke@va.gov,Done,MHV Sprint 155 VA.gov MR,,,,,05/07/2025 07:27 AM
+Story,MHV-58922,MHV-51562,2706675,VIA - Review result of implementation of Radiology Reports,Done,VA.gov-MR,3.0,john.moehrke@va.gov,Done,MHV Sprint 155 VA.gov MR,,,,,05/07/2025 07:27 AM
+Story,MHV-68161,MHV-68559,4304962,Update Allergies AAL entry,Done,VA.gov-MR,2.0,michael.moyer@va.gov,Done,MHV Sprint 155 VA.gov MR,,,,,05/09/2025 02:22 PM
+Story,MHV-68671,MHV-69432,4380206,Add a SMHD link from MR landing page,Done,VA.gov-MR,1.0,Tywande.Barnes@va.gov,Done,MHV Sprint 155 VA.gov MR,,,,,05/08/2025 12:51 PM
+Story,MHV-68161,MHV-71149,4454536,Update AAL View List Page (all domains) - placeholder tbd pending mtg,Done,VA.gov-MR,,michael.moyer@va.gov,Done,MHV Sprint 155 VA.gov MR,,,,,05/09/2025 02:19 PM
+Story,MHV-69729,MHV-70004,4410507,UCD - Data Collection Metrics Study,Done,VA.gov-MR,1.0,Melissa.Stern@va.gov,Done,MHV Sprint 155 VA.gov MR,,,,,05/13/2025 08:08 AM
+Story,MHV-69729,MHV-69959,4409791,UCD - Data Collection & Analytics - QUAL,Done,VA.gov-MR,1.0,Melissa.Stern@va.gov,Done,MHV Sprint 155 VA.gov MR,,,,,05/13/2025 08:08 AM
+Story,MHV-47029,MHV-47031,2439871,Convert mhv-np-user-batch to springboot,Done,VA.gov-MR,2.0,dan.heverly@va.gov,Done,MHV Sprint 155 VA.gov MR,,,,,05/13/2025 11:00 AM
+Story,MHV-47021,MHV-47023,2439863,Enable task processing for SCDF,Done,VA.gov-MR,2.0,dan.heverly@va.gov,Done,MHV Sprint 155 VA.gov MR,,,,,05/13/2025 11:01 AM
+Story,MHV-69728,MHV-70151,4413171,UCD - Pre Milestone 2 audit,Done,VA.gov-MR,1.0,rianna.lloyd@va.gov,Done,MHV Sprint 155 VA.gov MR,,,,,05/13/2025 02:48 PM
+Story,MHV-69728,MHV-69092,4353292,UCD - Create txt sample files in Figma,Done,VA.gov-MR,2.0,rianna.lloyd@va.gov,Done,MHV Sprint 155 VA.gov MR,,,,,05/13/2025 02:49 PM
+Story,MHV-69728,MHV-70154,4413177,UCD - Audit web UI,Done,VA.gov-MR,2.0,rianna.lloyd@va.gov,Done,MHV Sprint 155 VA.gov MR,,,,,05/13/2025 02:50 PM
+Story,MHV-70357,MHV-63135,3874221,Implement - New content on Appt Email Reminder preparing for upcoming transition,Done,VA.gov-MR,3.0,dan.heverly@va.gov,Done,MHV Sprint 155 VA.gov MR,,,,,05/13/2025 11:00 AM
+Story,MHV-47924,MHV-47842,2503134,Disable the MHV Appointment Notification batch job,Analysis,VA.gov-MR,0.5,dan.heverly@va.gov,,MHV Sprint 155 VA.gov MR,MHV Sprint 156 VA.gov MR,,,,
+Bug,MHV-66561,MHV-71074,4441795,"Flip the focus state management on errors. Instead of on a label, it should go to the first interactive element with the error in question.",Ready for Validation,VA.gov-MR,2.0,Tywande.Barnes@va.gov,,MHV Sprint 155 VA.gov MR,MHV Sprint 156 VA.gov MR,,,,
+Story,MHV-58922,MHV-51755,2715339,VIA - Don't recreate sessions on the PHR side - Radiology Reports,Ready for Validation,VA.gov-MR,2.0,muazzam.khan@va.gov,,MHV Sprint 155 VA.gov MR,MHV Sprint 156 VA.gov MR,,,,
+Story,MHV-58922,MHV-50766,2677523,VIA - Research/Solve Entered in Error flow for Radiology Reports,Ready for Validation,VA.gov-MR,3.0,muazzam.khan@va.gov,,MHV Sprint 155 VA.gov MR,MHV Sprint 156 VA.gov MR,,,,
+Story,MHV-68671,MHV-69435,4380288,Update new content on 403 error page for Milestone 2,In Progress,VA.gov-MR,3.0,justin.lattimore@va.gov,,MHV Sprint 155 VA.gov MR,MHV Sprint 156 VA.gov MR,,,,
+Story,MHV-68671,MHV-67113,4164666,Update content on DICOM ZIP file,Ready for Validation,VA.gov-MR,1.0,paikar.nasim@va.gov,,MHV Sprint 155 VA.gov MR,MHV Sprint 156 VA.gov MR,,,,
+Story,MHV-47924,MHV-69652,4394981,Placeholder for potential backend work to transition appointment email reminder to VA Notify,Analysis,VA.gov-MR,0.5,dan.heverly@va.gov,,MHV Sprint 155 VA.gov MR,MHV Sprint 156 VA.gov MR,,,,
+Story,MHV-70357,MHV-70123,4412311,Update current content prior to VA notify transition (BBMI - success),Ready for Validation,VA.gov-MR,1.0,paikar.nasim@va.gov,,MHV Sprint 155 VA.gov MR,MHV Sprint 156 VA.gov MR,,,,
+Story,MHV-70357,MHV-71016,4435621,Update link to MHV Classic with link to VA.gov for BBMI - success and failure email notifications,Ready for Validation,VA.gov-MR,1.0,paikar.nasim@va.gov,,MHV Sprint 155 VA.gov MR,MHV Sprint 156 VA.gov MR,,,,
+Story,MHV-68161,MHV-69301,4372186,Implement required AAL entry for CCD (VA Health Summary),Done,VA.gov-MR,2.0,michael.moyer@va.gov,Done,MHV Sprint 155 VA.gov MR,,,,,05/12/2025 04:19 PM
+Bug,,MHV-69918,4406893,VA.GOV MR- Lab and Test Results - Details page Navigation Issue,Ready for Validation,VA.gov-MR,3.0,kolby.balch@va.gov,,MHV Sprint 154 VA.gov MR,MHV Sprint 155 VA.gov MR,MHV Sprint 156 VA.gov MR,,,
+Bug,MHV-66561,MHV-67439,4186650,Pagination focus issue,In Progress,VA.gov-MR,2.0,justin.lattimore@va.gov,,MHV Sprint 155 VA.gov MR,MHV Sprint 156 VA.gov MR,,,,
+Story,MHV-69695,MHV-69699,4396378,Encapsulate DoD service functionality and move to platform code,Ready for Validation,VA.gov-MR,3.0,matthew.wright8@va.gov,,MHV Sprint 155 VA.gov MR,MHV Sprint 156 VA.gov MR,,,,
+Story,MHV-69695,MHV-69697,4396348,Encapsulate SEI functionality and move to platform code,Ready for Validation,VA.gov-MR,3.0,matthew.wright8@va.gov,,MHV Sprint 155 VA.gov MR,MHV Sprint 156 VA.gov MR,,,,
+Story,MHV-68384,MHV-69478,4384767,Staging Review:  Update test user information in Github for Read Receipts,Done,VA.gov-SM,0.5,Rakesh.Maurya@va.gov,Done,MHV Sprint 155 VA.gov SM,,,,,05/02/2025 02:16 PM
+Story,MHV-68384,MHV-69167,4358846,Read receipt backend work,Done,VA.gov-SM,0.5,alex.morgun@va.gov,Done,MHV Sprint 155 VA.gov SM,,,,,04/30/2025 12:33 PM
+Story,MHV-48140,MHV-66091,4095416,Clean up Feature flag for Signature Settings,Done,VA.gov-SM,1.0,kyle.cardwell@va.gov,Done,MHV Sprint 155 VA.gov SM,,,,,05/06/2025 02:38 PM
+Story,MHV-44521,MHV-71051,4436831,Fix 'dateFormat' custom command,Done,VA.gov-SM,1.0,fazil.mammadov@va.gov,Done,MHV Sprint 155 VA.gov SM,,,,,05/02/2025 12:36 PM
+Story,MHV-66343,MHV-69778,4401222,Dev: va-combo-box: Mock data for codespaces,Done,VA.gov-SM,1.0,alex.morgun@va.gov,Done,MHV Sprint 155 VA.gov SM,,,,,05/06/2025 02:37 PM
+Story,MHV-44521,MHV-69588,4392885,Add E2E for no matches filter results,Done,VA.gov-SM,2.0,fazil.mammadov@va.gov,Done,MHV Sprint 154 VA.gov SM,MHV Sprint 155 VA.gov SM,,,,04/30/2025 12:35 PM
+Story,MHV-68384,MHV-69479,4384768,Staging Review: Link to Sitewide CAIA intake ticket for Read Receipts,Done,VA.gov-SM,0.5,emily.taylor9@va.gov,Done,MHV Sprint 155 VA.gov SM,,,,,05/01/2025 04:38 PM
+Story,MHV-48140,MHV-59980,3540149,Cleanup the feature flag for Contact list functionality,Done,VA.gov-SM,1.0,kyle.cardwell@va.gov,Done,MHV Sprint 155 VA.gov SM,,,,,05/06/2025 02:37 PM
+Story,MHV-61662,MHV-61859,3798222,Implement/configure updated tokens in production (endpoint changes),Done,VA.gov-SM,3.0,alex.morgun@va.gov,Done,MHV Sprint 151 VA.gov SM,MHV Sprint 155 VA.gov SM,,,,05/07/2025 12:32 PM
+Story,MHV-66092,MHV-69953,4409760,UCD - Data Collection & Analytics - QUAL,Done,VA.gov-SM,1.0,anne.costello@va.gov,Done,MHV Sprint 155 VA.gov SM,,,,,05/07/2025 08:55 AM
+Story,MHV-48140,MHV-66020,4091326,Cleanup feature flag for removing the SM landing page,Done,VA.gov-SM,1.0,kyle.cardwell@va.gov,Done,MHV Sprint 155 VA.gov SM,,,,,05/07/2025 11:03 AM
+Story,MHV-68384,MHV-69480,4384770,Staging Review:  URL and URL flow artifacts for Read Receipts,Done,VA.gov-SM,1.0,lichelle.bain@va.gov,Done,MHV Sprint 155 VA.gov SM,,,,,05/08/2025 01:18 PM
+Story,MHV-68384,MHV-69481,4384771,Staging Review:  Update Product Guide for Read Receipts,Done,VA.gov-SM,1.0,lichelle.bain@va.gov,Done,MHV Sprint 155 VA.gov SM,,,,,05/08/2025 01:50 PM
+Story,MHV-61662,MHV-61858,3798221,Implement/configure updated tokens in lower environment (endpoint changes),Done,VA.gov-SM,3.0,victoria.saleem@va.gov,Done,MHV Sprint 146 VA.gov SM,MHV Sprint 148 VA.gov SM,MHV Sprint 151 VA.gov SM,MHV Sprint 155 VA.gov SM,,05/02/2025 12:33 PM
+Story,MHV-65863,MHV-69787,4401707,Curated List: vets-api updates to support OH recipients (placeholder),Done,VA.gov-SM,0.5,alex.morgun@va.gov,Done,MHV Sprint 155 VA.gov SM,,,,,05/09/2025 12:34 PM
+Story,MHV-69295,MHV-70394,4412991,AAL - add feature flag,Done,VA.gov-SM,0.5,alex.morgun@va.gov,Done,MHV Sprint 154 VA.gov SM,MHV Sprint 155 VA.gov SM,,,,04/29/2025 01:25 PM
+Story,MHV-68384,MHV-68666,4313777,Add read receipt for each message-Front end work,Done,VA.gov-SM,3.0,kyle.cardwell@va.gov,Done,MHV Sprint 155 VA.gov SM,,,,,05/12/2025 09:20 AM
+Story,,MHV-70918,4431591,Bi-Weekly Accessibility Manual Testing Sprint 155,Done,VA.gov-SM,2.0,randy.larson@va.gov,Done,MHV Sprint 155 VA.gov SM,,,,,05/12/2025 03:18 PM
+Story,MHV-69408,MHV-69713,4398829,UCD - Collab Cycle -Folder / List-view enhancements - Create Flows,Done,VA.gov-SM,1.0,emily.taylor9@va.gov,Done,MHV Sprint 155 VA.gov SM,,,,,05/12/2025 03:40 PM
+Story,MHV-69408,MHV-69714,4398843,UCD - Collab Cycle -Folder / List-view enhancements - Create Prototypes for midpoint,Done,VA.gov-SM,2.0,emily.taylor9@va.gov,Done,MHV Sprint 155 VA.gov SM,,,,,05/12/2025 03:40 PM
+Story,MHV-69408,MHV-70930,4432446,UCD: Support Across SM UCD Design PI19 Tickets,Done,VA.gov-SM,4.0,benjamin.caldwell1@va.gov,Done,MHV Sprint 155 VA.gov SM,,,,,05/12/2025 12:36 PM
+Story,MHV-68384,MHV-71073,4441705,Staging Review:  Create/link Accessibility artifacts for Read receipts,Done,VA.gov-SM,1.0,robert.bailey1@va.gov,Done,MHV Sprint 155 VA.gov SM,,,,,05/12/2025 04:59 PM
+Story,MHV-66092,MHV-69976,4410057,UCD - Data Collection Metrics Study,Done,VA.gov-SM,1.0,anne.costello@va.gov,Done,MHV Sprint 155 VA.gov SM,,,,,05/13/2025 08:27 AM
+Story,MHV-66565,MHV-71249,4468048,MyHealth apidocs: fix swagger documentation page on `vets-api`,Done,VA.gov-SM,1.0,alex.morgun@va.gov,Done,MHV Sprint 155 VA.gov SM,,,,,05/12/2025 12:32 PM
+Story,MHV-69408,MHV-69409,4378765,UCD - Redesigning the SM 500 page,Done,VA.gov-SM,3.0,benjamin.caldwell1@va.gov,Done,MHV Sprint 155 VA.gov SM,,,,,05/13/2025 09:14 AM
+Story,MHV-68384,MHV-69477,4384765,Staging Review: Create/link QA artifacts for Read Receipts,Done,VA.gov-SM,1.0,fazil.mammadov@va.gov,Done,MHV Sprint 155 VA.gov SM,,,,,05/13/2025 03:02 PM
+Story,MHV-69408,MHV-69715,4398848,UCD - wrapping up OH stepped flow for staging review,Done,VA.gov-SM,3.0,emily.taylor9@va.gov,Done,MHV Sprint 155 VA.gov SM,,,,,05/12/2025 03:44 PM
+Story,MHV-69408,MHV-71023,4436120,UCD - OH direct messaging design work,Done,VA.gov-SM,1.0,emily.taylor9@va.gov,Done,MHV Sprint 155 VA.gov SM,,,,,05/13/2025 02:00 PM
+Story,MHV-44521,MHV-71179,4457425,Refactor flaky test,Done,VA.gov-SM,1.0,fazil.mammadov@va.gov,Done,MHV Sprint 155 VA.gov SM,,,,,05/13/2025 11:22 AM
+Story,MHV-69408,MHV-71321,4530432,UCD - cont'd wrapping up OH stepped flow for staging review,In Progress,VA.gov-SM,1.0,emily.taylor9@va.gov,,MHV Sprint 155 VA.gov SM,MHV Sprint 156 VA.gov SM,,,,
+Story,MHV-69408,MHV-71322,4530436,UCD - cont'd OH direct messaging design work,In Progress,VA.gov-SM,1.0,emily.taylor9@va.gov,,MHV Sprint 155 VA.gov SM,MHV Sprint 156 VA.gov SM,,,,

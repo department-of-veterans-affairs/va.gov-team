@@ -1,9 +1,10 @@
 ---
-name: Content and IA Product Support Epic 
-about: For Content and IA centralized team internal use only.  
+name: Content and IA Product Support Epic
+about: For Content and IA centralized team internal use only.
 title: "[EPIC] Initiative Name"
 labels: content-ia-centralized-team
-assignees: bethpottsVADEPO,RLHecht,DanielleTheirryUSDSVA,mnorthuis
+assignees: ''
+
 ---
 
 > [!WARNING]
@@ -68,4 +69,4 @@ assignees: bethpottsVADEPO,RLHecht,DanielleTheirryUSDSVA,mnorthuis
 - [ ] All entry points are implemented
 - [ ] All crosslink/URL references are updated across the site
 - [ ] All associated tickets are closed
-- [ ] All documentation updates are made (i.e. artifacts are marked final, sitemaps are updated, etc. ( 
+- [ ] All documentation updates are made (i.e. artifacts are marked final, sitemaps are updated, etc.)

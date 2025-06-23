@@ -12,8 +12,8 @@ Currently, VA.gov is home to both **direct deposit for compensation & pension** 
 - As a Veteran, I want to securely change my direct deposit information if I switch banks or need to receive money in a different bank account.
 - As a Veteran who receives paper checks from the VA, I want to be able to switch to receive payments via direct deposit.
 
-### Which benefits are supported by the profile 
-- [see list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/what-dd-benefits-are-supported-in-profile.md)
+### Which benefits are supported by the direct deposit feature in the profile 
+- [See list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/what-dd-benefits-are-supported-in-profile.md)
 
 ## Projects
 

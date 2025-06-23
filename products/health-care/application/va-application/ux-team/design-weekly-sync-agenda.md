@@ -1,5 +1,31 @@
 # Design Weekly Sync Agenda
 
+
+## 2025-04-16
+
+Attendees: Hieu, Jessica, Liza, Renata, and Jina.
+
+
+- Jessica notes how our Figma files have gotten large and extensive. The team talked about the need for a separate Source-of-Truth Figma file vs working files vs archive. The team is unsure when UX should update the Figma Source-of-Truth (in site Staging vs Production). Jina will touch base with Amanda to get additional inputs.
+
+- Renata updates the work on Agentic AI, noting the big question that needs to be answered: can AI utilize our form? If not, what kind of work would be needed? Rentata mentioned the touch base with developers and a write-up for the potential next steps that will be given to Patrick.
+
+- Hieu shared the current EZR v2 Confirmation Flow research planning, with the study being a usability test that forks into A/B testing. Hieu wonders about pre-filled vs no prefill approach since the flow would show slightly different things. Jina leaned towards pre-filled since this study is testing the Confirmation Flow, and the other teams are testing the List&Loop. Renata suggested having the participant go throw an initial session before going through the prefill. Jina liked that the moderator would provide the participant with mock W-2 information.
+
+- Jessica notes that the Pending Status on EZ is for those who never filled out the financial information during the initial enrollment, but now have to. She noted the PMs are looking at ways to resolve this problem.
+
+- Jessica notes that the EZ is currently exploring a ‘choose your own adventure’ (please elaborate if you can I didn't quite follow everything)
+
+VES status
+The updates around Veterans in pendingMT does still have some tech discovery going on ... but it is seeming promising :yay: this will be a soon future flow that will involve both forms; the EZ and EZR, and VES status too maybe
+Timing could be on the heels of the EZR household research
+Should look into critical action component that was mentioned at Monday's design sync and test that as part of this flow when time...
+
+CYOA research
+[Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1743712327758/be0afc56e6c822bd09b10f3a15c9954fbf772ca0)
+Went over the pattern/competitive research done so far and the awesome :awesome: work already done by Liza in the past on the Task List pattern (going to look into that pattern/status some more)
+Mentioned need to keep in mind the "short form flow" for Veterans with a disability rating over 50% and how they don't have as many sections to complete, don't want to make the form longer for them
+
 ## 2025-03-19
 Attendees: Jessica S, Renata, Hieu, Jessica W, Heather, Luis, Jina, Amanda
 

@@ -2,8 +2,8 @@
 name: 1010EZR User Story Template
 about: For the 10-10 Health Enrollment team
 title: "[discipline] 10-10EZR: story title"
-labels: 1010-team; 1010-ezr
-assignees:
+labels: ''
+assignees: ''
 
 ---
 
@@ -23,4 +23,3 @@ As a Veteran, I want [ ], so that [ ].
 - Screenshots
 - Reference docs/tickets where we have this kind of work documented
 - Etc.
-

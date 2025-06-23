@@ -1,6 +1,5 @@
 # Product outline for Contact us page 
-Last updated by @beckyphung on December 10, 2024
-
+Last updated by @beckyphung on May 8, 2025
 **Jump to:**
 - [Overview](#overview)
 - [Problem statement](#problem-statement)
@@ -37,7 +36,8 @@ First, we’ll conduct [usability tests](https://github.com/department-of-vetera
 ## Initiatives
 ### "Contact us" page initial improvements (2024/2025)
 - **Description**: Update content based on: user research, a review of other support experiences on websites/mobile apps, and a review of current analytics and user feedback.
-- **Timing**: FY24 Q4 (Jul to Sep) to FY25 Q2 (Jan to Mar)
+- **Timing**: FY24 Q4 (Jul to Sep) to FY25 Q4 (Apr to May)
+   - We updated the Contact us page on 5/8/25. 
 - **Objective**: Increase customer satisfaction score to 25%.
 - **Key results**:
    - User insights based on Medallia survey responses

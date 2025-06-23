@@ -17,6 +17,8 @@ anchors:
   - anchor: Research findings
 ---
 
+> [!WARNING]
+> Content from this page has been moved to the VA Design System [Help users to… Know when their information is prefilled](https://design.va.gov/patterns/help-users-to/know-when-their-information-is-prefilled) pattern. This page is no longer being updated.
 
 ## Usage
 ### When to use this pattern

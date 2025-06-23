@@ -1,0 +1,44 @@
+@startuml
+allowmixing
+left to right direction
+
+actor User
+
+rectangle "vets-website\n(React Frontend)" as VetsWebsite
+rectangle "Authentication Service" as AuthService
+rectangle "vets-api\n(Ruby on Rails Backend)" as VetsApi
+rectangle "Sidekiq\n(Background Jobs)" as Sidekiq
+queue "Redis Cache\n(User Sessions & Attributes)" as RedisCache
+database "VA.gov DB\n(PostgreSQL)" as VAGovDB
+rectangle "VANotify\n(Notification Service)" as VANotify
+rectangle "Sentry\n(Error Tracking)" as Sentry
+rectangle "Datadog\n(Monitoring)" as Datadog
+cloud "Lighthouse API\n(Benefits Claims API)" as LighthouseAPIClaims
+cloud "Lighthouse API\n(Benefits Intake API)" as LighthouseAPIIntake
+
+' --- Basic Flows ---
+User --> VetsWebsite : Access va.gov/representative
+VetsWebsite --> AuthService : Initiates Authentication
+AuthService --> User : Login/Logout Flow
+VetsWebsite --> VetsApi : Consumes vets-api
+
+' --- Backend Interactions ---
+VetsApi --> RedisCache : Cache Sessions
+VetsApi --> VAGovDB : Write Claims Submissions
+VetsApi --> LighthouseAPIClaims : Validate POA
+VetsApi --> Sentry : Report Errors
+VetsApi --> Datadog : Metrics
+VetsApi --> LighthouseAPIIntake : Submit Claim
+Sidekiq --> RedisCache : Store/Retrieve Jobs
+
+' --- Sidekiq & VANotify ---
+VetsApi --> Sidekiq : Enqueue Claims Submission Email Job
+Sidekiq --> VANotify : Sends Notification Email
+
+' --- Form Start ---
+User --> VetsWebsite : Login to Manage Claim Submissions
+note right of VetsWebsite
+  /representative/representative-form-upload/form-number
+end note
+
+@enduml

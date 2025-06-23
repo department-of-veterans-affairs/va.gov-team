@@ -1,9 +1,11 @@
 ---
-name: "Internal ADE 508 Accessibility Audit Support Ticket"
-about: Template for ADE members to utilize, when needing to create a 508 Audit Support Ticket as either a primary parent intake ticket c/o email report received by Martha, or as a child ticket aka sub-issue. 
-title: 'Internal ADE 508 Accessibility Audit Support Ticket'
-labels: 'ADE 508 Audit, ADE, ADE 508 RECHECK'
-assignees: artsymartha68,sara-amanda,lakper
+name: Internal ADE 508 Accessibility Audit Support Ticket
+about: Template for ADE members to utilize, when needing to create a 508 Audit Support
+  Ticket as either a primary parent intake ticket c/o email report received by Martha,
+  or as a child ticket aka sub-issue.
+title: Internal ADE 508 Accessibility Audit Support Ticket
+labels: ADE, ADE 508 Audit, ADE 508 RECHECK
+assignees: artsymartha68, lakper, sara-amanda
 
 ---
 

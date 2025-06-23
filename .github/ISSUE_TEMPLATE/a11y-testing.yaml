@@ -41,7 +41,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Color must not be the only way information is communicated, and all elements must have sufficient contrast against the page background and neighboring elements. Multiple tools exist for testing use of color and color contrast, but we recommend checking color pairings with [WhoCanUse](https://www.whocanuse.com/) and reviewing your product with the [Colorblindly extension for Google Chrome](https://chrome.google.com/webstore/detail/colorblindly/floniaahmccleoclneebhhmnjgdfijgg). 
+        Color must not be the only way information is communicated, and all elements must have sufficient contrast against the page background and neighboring elements. Multiple tools exist for testing use of color and color contrast, but we recommend checking color pairings with [WhoCanUse](https://www.whocanuse.com/) and reviewing your product with the [Colorblindly extension for Google Chrome](https://chrome.google.com/webstore/detail/colorblindly/floniaahmccleoclneebhhmnjgdfijgg). For teams building on the VA mobile app, you must also ensure proper use of color for all supported dark, contrast, and inverted color modes.
         
         We recommend that designers make accessible color choices before any code is written, and then double-check colors prior to staging review.
 
@@ -62,6 +62,8 @@ body:
         - label: Color is not the only way to distinguish links from other text (eg. links are underlined)
         - label: Any charts, maps, infographics, and tables convey all information without only relying on color
         - label: Content does not refer to color, especially when providing user instructions (eg. "Click the blue button")
+        - label: (Mobile app only) Color contrast ratios are met for all supported dark, contrast, and inverted color modes
+        - label: (Mobile app only) All elements retain their meaning for all supported dark, contrast, and inverted color modes
   - type: textarea
     id: color-notes
     attributes:
@@ -74,13 +76,15 @@ body:
   - type: markdown
     attributes:
       value: |
-        [axe by Deque Systems](https://www.deque.com/axe/) is our required automated testing tool, and is available as a [free browser extension for Chrome, Firefox, and Edge](https://www.deque.com/axe/browser-extensions/). Although automated testing can't detect all accessibility issues, axe is very good at detecting certain common problems in your code.
+        [axe by Deque Systems](https://www.deque.com/axe/) is our required automated testing tool. When building for VA.gov, use [axe DevTools as a free browser extension for Chrome, Firefox, and Edge](https://www.deque.com/axe/browser-extensions/). When building for the VA mobile app, use [axe DevTools for Mobile](https://docs.deque.com/devtools-mobile/2024.9.18/en/intro). Although automated testing can't detect all accessibility issues, axe is very good at detecting certain common problems in your code.
         
-        With the axe DevTools browser extension installed:
+        When building for the web with the axe DevTools browser extension installed:
         1. Right click on the page you're testing.
         2. Select "Inspect" to open your browser's developer tools.
         3. Select the "axe DevTools" tab.
         4. Select "Scan all of my page" to run axe.
+
+        When building for the VA mobile app, [follow Deque's documentation to run a test](https://docs.deque.com/devtools-mobile/2024.9.18/en/ios-run-test).
         
         We recommend that front-end engineers test using axe as part of their daily development to catch and resolve issues while coding, and then complete a comprehensive page-by-page scan prior to staging review.
         
@@ -97,13 +101,13 @@ body:
     attributes:
       label: axe checks
       options:
-        - label: Each page has been scanned using axe (results shared below)
+        - label: Each page or screen has been scanned using axe (results shared below)
         - label: axe is integrated into your end-to-end testing
   - type: textarea
     id: axe-issues
     attributes:
       label: axe DevTools scan results
-      description: Share any unresolved issues detected by axe, organized by URL tested. You don't have to tell us about anything that's not part of your product.
+      description: Share any unresolved issues detected by axe, organized by URL or name of screen tested. You don't have to tell us about anything that's not part of your product.
   - type: textarea
     id: axe-notes
     attributes:
@@ -122,6 +126,8 @@ body:
         - No horizontal scrolling. (Exceptions: data tables, charts, and images.)
         
         To test content zoom and resizing, set your browser width to 1280 pixels and use `Ctrl +` or `Cmd +` to zoom in to 200%, 300%, and 400%.
+
+        When building for the VA mobile app, all text must remain legible when your device is set to scale text to the maximum possible size.
         
         We recommend that designers think about how content will resize and reflow in high-zoom situations prior to handing off to engineers. High-fidelity prototypes at high zoom aren't required, but designers may want to create low-fi wireframes for complex page layouts. Once coded, content zoom and reflow should be tested prior to staging review.
         
@@ -136,9 +142,10 @@ body:
     attributes:
       label: Content zoom and reflow checks
       options:
-        - label: All page elements are readable and usable at 200% zoom 
-        - label: All page elements are readable and usable at 300% zoom
-        - label: All page elements are readable and usable at 400% zoom
+        - label: (Web only) All page elements are readable and usable at 200% zoom 
+        - label: (Web only) All page elements are readable and usable at 300% zoom
+        - label: (Web only) All page elements are readable and usable at 400% zoom
+        - label: (Mobile app only) All page elements are readable and usable when device text is at the maximum possible size
   - type: textarea
     id: zoom-notes
     attributes:
@@ -152,6 +159,8 @@ body:
     attributes:
       value: |
         All pages and user flows must be navigable using a keyboard, including form controls and inputs, links, buttons, etc. To test keyboard navigation, press [Tab] to move focus to the next element that can receive keyboard focus and [Shift] + [Tab] to move focus to the previous element. Interactive elements should respond to [expected keys for that type of element](https://webaim.org/techniques/keyboard/#testing).
+
+        When building for the VA mobile app, testing for keyboard navigation is still required. Users may connect a Bluetooth or USB keyboard to their device, or they may use alternative input devices that map user actions to certain keystrokes.
         
         We recommend that designers think about [Tab] order while creating prototypes, and that they annotate their prototypes whenever [Tab] order isn't clear. As the product is coded, front-end engineers should do regular keyboard navigation spot checks and complete a comprehensive test prior to staging review.
         
@@ -184,3 +193,11 @@ body:
     attributes:
       label: Do you have any other results to share?
       description: If you've tested using screen readers, mobile devices, or any other tools, tell us about any issues that you've identified. See the information about [advanced accessibility testing](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review#Prepareforanaccessibilitystagingreview-Advancedaccessibilitytests(recommended)advanced-testing) on Platform website.
+  - type: markdown
+    attributes:
+      value: |
+        ## 8. Next steps
+  - type: markdown
+    attributes:
+      value: |
+        Add a link to your completed accessibility testing ticket to the staging review artifacts section of your Collaboration Cycle ticket. You can close this ticket after you complete your staging review.

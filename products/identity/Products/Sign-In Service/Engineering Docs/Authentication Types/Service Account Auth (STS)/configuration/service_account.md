@@ -25,7 +25,7 @@ When following this guide to create a `ServiceAccountConfig` it is recommended t
 | `access_token_audience` | string | URL of the requesting account | `http://localhost:4000` |
 | `access_token_duration` | DateTime | duration of access token; must be 5 minutes | `5.minutes` |
 | `certificates` | array | one or more public certs provided by the client | ["-----BEGIN CERTIFICATE-----\nMIIDAjCCAeoCC..."] |
-| `access_token_user_attributes` | array | optional user attributes, provided by the client, to be included in the generated token; allowed values: `icn`, `type`, `credential_id` | { 'type': 'logingov', 'credential_id': '169d813b-7bf4-4ab7-85b6-e97c7198be1e' } |
+| `access_token_user_attributes` | array | optional user attributes, provided by the client, to be included in the generated token; allowed values: `icn`, `type`, `credential_id` | ['icn'] |
 
 ## Creating a Service Account Config
 

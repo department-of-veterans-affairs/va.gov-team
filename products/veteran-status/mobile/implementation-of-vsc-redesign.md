@@ -17,7 +17,11 @@ Mobile app and Va.gov designs are not aligned for the Veteran Status Card. How m
 
 ### Key Performance Indicators (KPIs)
 
-* TBD
+|                                                                     |                         |            |                 |
+| ------------------------------------------------------------------- | ----------------------- | ---------- | --------------- |
+| **Description**                                                     | **Current**             | **Target** | **Post Launch** |
+| Increase the number of Veterans accessing their Veteran Status Card | Mobile App: TBD Web: TBD |            |                 |
+| Design & Feature Affinity between Web and Mobile App                | \~50%                   | 100%       |                 |
 
 ### Supporting OCTO OKRs:
 

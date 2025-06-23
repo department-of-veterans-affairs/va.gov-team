@@ -1,3 +1,5 @@
+# ❗ Feature on hold until Summer 2025 due to the VES team working on a new API that will incorporate the option to receive the data from VA.gov 10-10EZ form.
+
 # Homeless Veteran/No Address - Initiative Brief
 - Epic - [#103256](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103256)
 - Design file - TBD

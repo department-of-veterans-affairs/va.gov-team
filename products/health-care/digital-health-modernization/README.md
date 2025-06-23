@@ -2,20 +2,20 @@
 - This team created the "apartment" vision of My HealtheVet's website re-imagined as a section of VA.gov
 - This repository contains information about the team's history and current activity
 
-## Landing Page/Home Team
+## Landing Page/Home Team/MHV on VA.gov Cartography Team
 ### Current as of 01/24/2025
 - Lauren Alexanderson - Sponsor
 - Kaitlin Fink - Patient Portal Design Lead
 - Ryan Thurlwell - OCTO Design Lead
 - Marci McGuire - OCTO Product Lead
-- Robyn Singleton - OCTO Research Lead 
+- Robyn Singleton - OCTO Research Lead
 - Danielle Thierry - OCTO Content & Translation Lead
 - Mikki Northius - OCTO Lead Information Architect
 - Mark Dewey - OCTO Engineer
 - Stephen Barrs - OCTO Engineer
 - Sara Smith - 508 Accessibility Specialist [Oddball]
 - Mark Carter - Delivery Manager
-- Wesley Rowe - Product Manager
+- Michael Brodsky - Product Manager
 - Florence McCafferty - Design Lead
 - Jonathan Nelson - Designer
 - Athena Bozak - Researcher/Designer

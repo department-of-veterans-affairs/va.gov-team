@@ -1,7 +1,7 @@
 # Desk Research Report 
 
 
-## Component - Critical Information component
+## Component - Critical Action component
 
 
 ## Authenticated Experience Design Patterns Team - March, 2025

@@ -1,8 +1,8 @@
 ---
 name: Check In Experience Functional Testing
 about: For Check In Experience Functional Testing
-title: "Run Test Cases for Functional Testing"
-labels: HCE-Checkin, UX, product
+title: Run Test Cases for Functional Testing
+labels: HCE-Checkin, product
 assignees: ''
 
 ---
@@ -12,5 +12,3 @@ As a team, we need to perform functional testing so that we can ensure our featu
 
 ## Tasks
 - [ ] Run the following TestRail Test Case(s)
-
- 

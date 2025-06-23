@@ -15,5 +15,3 @@ _What details are necessary for understanding the specific work or request track
 
 ## Acceptance Criteria
 - [ ] _What will be created or happen as a result of this story?_
-
-

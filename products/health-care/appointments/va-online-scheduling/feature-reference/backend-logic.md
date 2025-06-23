@@ -77,14 +77,11 @@ Appointments that Veterans have requested but VA has not booked.
 
 ## Determining if a user is eligible to schedule or request into a clinic
 
-Except for Primary Care and COVID, all types of care have CCM Settings:  
-   1) Yes, Any 
-   2) Yes Seen within Last 12 months 
-   3) Yes within last 36 months 
-   4) No
-- Primary Care Direct has only two settings, Yes with PACT and No.
-- Unlike the other types of care which can have up to a limit of two requests at a time, Primary Care has a limit of one. 
-- COVID has Yes and No.  COVID is only for direct scheduling and unlike all the other types of care does NOT have a Request setting.
+### Primary Care
+
+Primary Care Direct has two settings in CCM:
+- Yes with PACT 
+- No
 
 **A Veteran's direct scheduling eligibility for PRIMARY CARE must be set to true if:**
 - CCM has type of care set to Yes 
@@ -94,11 +91,29 @@ Except for Primary Care and COVID, all types of care have CCM Settings:
 **A Veteran's request eligibility for PRIMARY CARE must be set to true if:**
 -  Veteran does not have a pending primary care request created within the last 120 days 
 - AND CCM has type of care set to Yes. 
-- Else set to false. 
+- Else set to false.
+
+The request limit for Primary Care is always set to "one".
+
+### COVID
+
+COVID-19 Direct Scheduling has two settings in CCM:
+- Yes
+- No
+
+COVID is only for direct scheduling and unlike all the other types of care does NOT have a Request setting.
+
+### Other types of care (Specialty Care)
+
+Except for Primary Care and COVID, all types of care have these CCM Settings:  
+   1) Yes, Any 
+   2) Yes, Seen within last 12 months 
+   3) Yes, Seen within last 36 months 
+   4) No
 
 **A Veteran’s direct schedule eligibility for SPECIALTY CARE must be set to true if:**
-- CCM has type of care set to Yes, Any 
-- OR CCM has a type of care set to Yes with Last Seen in 12 or 36 months 
+- CCM has type of care set to `Yes, Any` 
+- OR CCM has a type of care set to `Yes` with `Last Seen` in 12 or 36 months 
    - AND veteran has past appointment in that stop code with a VistA status of CHECKED IN or CHECKED OUT within the indicated CCM timeframe.
 - Else set to false. 
 
@@ -109,6 +124,8 @@ Except for Primary Care and COVID, all types of care have CCM Settings:
       - CCM has a type of care set to Yes with Last Seen in 12 or 36 months 
           - AND veteran has past appointment in that stop code with a VistA status of CHECKED IN or CHECKED OUT within the indicated CCM timeframe.
 - Else set to false.
+
+The request limit for specialty care can set to one or two as desired by the site.
 
 ### Exceptions
 
@@ -122,15 +139,15 @@ Except for Primary Care and COVID, all types of care have CCM Settings:
 
 [Stop codes for video telehealth](https://coderepo.mobilehealth.va.gov/projects/MACM/repos/vaec-map-consul-staging-tf-appconfigs/browse/vaos-service.tf?at=sqa#25)
 
+**VAOS does not require past history to schedule mental health appointments**
+   - On the front end, VAOS exempts mental health appointments (along with primary care) from the past appointment history checks [here](https://github.com/department-of-veterans-affairs/vets-website/blob/80bf5a603d7802dd3b9cf1a381dbd10fcf5047eb/src/applications/vaos/new-appointment/components/ClinicChoicePage/useClinicFormState.jsx#L62-L70) and [here](https://github.com/department-of-veterans-affairs/vets-website/blob/80bf5a603d7802dd3b9cf1a381dbd10fcf5047eb/src/applications/vaos/services/patient/index.js#L284-L289), [here](https://github.com/department-of-veterans-affairs/vets-website/blob/80bf5a603d7802dd3b9cf1a381dbd10fcf5047eb/src/applications/vaos/services/patient/index.js#L380-L393).
+
+### Other Notes
+
 - The direct scheduling eligibility call is done first followed by the request eligibility call. VAOS calls a CDW stored procedure that looks for an active PACT assignment, finds the default Provider for the PACT and checks for the clinics associated with that Provider. Clinics are returned to VAOS and will be display unless filtered according to the business rules stated above.
 - For eligibility checks the past appointment can be at any location at either Child or Parent for eligibility to be true. Parent inherits any Child appointment(s) for eligibility check AND Children inherit Parent’s appointment(s) for eligibility check. 
 - Appointment status is only relevant when CCM/VATS is set to Yes Last Seen within 12 or 36 months. In VistA SDAM roll and scroll interface the status shows as Encounter Status/Appointment Status:  Act Req/Checked In. VSE GUI only displays the Appointment status. The Encounter status is NOT displayed. 
 -  VAMC staff would/should never set a clinic with a secondary stop code of 450, Compensation and Pension, to Direct Schedule = YES. If this is happening this is bad practice by the site and VAOS would show as a normal clinic appointment.  
-- The request limit for Primary Care is one. Specialty care can set to one or two as desired by the site.
-
-**VAOS does not require past history to schedule mental health appointments**
-   - On the front end, VAOS exempts mental health appointments (along with primary care) from the past appointment history checks [here](https://github.com/department-of-veterans-affairs/vets-website/blob/80bf5a603d7802dd3b9cf1a381dbd10fcf5047eb/src/applications/vaos/new-appointment/components/ClinicChoicePage/useClinicFormState.jsx#L62-L70) and [here](https://github.com/department-of-veterans-affairs/vets-website/blob/80bf5a603d7802dd3b9cf1a381dbd10fcf5047eb/src/applications/vaos/services/patient/index.js#L284-L289), [here](https://github.com/department-of-veterans-affairs/vets-website/blob/80bf5a603d7802dd3b9cf1a381dbd10fcf5047eb/src/applications/vaos/services/patient/index.js#L380-L393).
-
 
 ### User flow for different eligibility scenarios
 

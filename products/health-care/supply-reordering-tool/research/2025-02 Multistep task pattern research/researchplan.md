@@ -36,7 +36,7 @@ This research will validate if a new pattern for routine tasks is a better proce
 4. Veterans expect to complete routine tasks quickly and in one session, rather than expecting to leave and come back to the task.  
 
 ## Methodology	
-Unmoderated A/B prototype testing using Optimal Workshop's prototype testing feature. We will publish 2 tests: one with version A (form pattern) and one with version B (multistep task pattern). Both tests will ask the same questions, but will have different prototypes. We will use SPSS or R studio for analysis. 
+Unmoderated A/B prototype testing using Optimal Workshop's prototype testing feature. We will publish 2 tests: one with version A (form pattern) and one with version B (multistep task pattern). Both tests will ask the same questions, but will have different prototypes. We will use SPSS for statistical analysis of the results. 
 
 ### Location
 Remote

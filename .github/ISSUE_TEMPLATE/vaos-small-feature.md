@@ -2,11 +2,10 @@
 name: VAOS Feature Template (small effort)
 about: For VAOS product feature (small effort)
 title: "[Feature]"
-labels: appointments, appointments-pm, appointments-feature
+labels: appointments, appointments-feature, appointments-pm
 assignees: ''
 
 ---
-
 
 ## Description
 _Provide the description of the feature_

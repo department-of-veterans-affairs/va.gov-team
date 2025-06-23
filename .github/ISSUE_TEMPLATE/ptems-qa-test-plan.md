@@ -5,7 +5,7 @@ about: For VA.gov Application Teams to request QA Test Plan to be developed duri
   expected Platform Staging Review.
 title: "[Product/Feature] Shared-Support-QA Test Plan"
 labels: QA, qa-test-plan, Shared Support Team
-assignees: eflaherty, tlei123
+assignees: tlei123
 
 ---
 

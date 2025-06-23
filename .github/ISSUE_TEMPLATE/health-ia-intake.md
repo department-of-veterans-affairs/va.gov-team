@@ -1,8 +1,8 @@
 ---
 name: Health IA Tracker
 about: For documenting IA work specifically in the authenticated Health space
-title: '[Health IA intake:] TASK OR FEATURE NAME'
-labels: sitewide CAIA, sitewide IA, my-health, Cartographers
+title: "[Health IA intake:] TASK OR FEATURE NAME"
+labels: Cartographers, my-health, sitewide CAIA
 assignees: sterkenburgsara
 
 ---
@@ -32,4 +32,4 @@ assignees: sterkenburgsara
 > When does IA review need to be completed by?
 
 ## Acceptance Criteria
-- [ ] 
+- [ ]

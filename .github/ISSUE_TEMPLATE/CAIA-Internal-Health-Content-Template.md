@@ -1,10 +1,10 @@
 ---
-name: "CAIA Internal Health Content Ticket"
+name: CAIA Internal Health Content Ticket
 about: Internal CAIA template for ad hoc requests for content work on health tools.
-title: 'Ongoing content support for health tools'
-labels: 'sitewide CAIA, sitewide content'
-project: 'Sitewide CAIA'
-assignees: DanielleTheirryUSDSVA
+title: Ongoing content support for health tools
+labels: sitewide CAIA
+assignees: ''
+
 ---
 
 > [!WARNING]

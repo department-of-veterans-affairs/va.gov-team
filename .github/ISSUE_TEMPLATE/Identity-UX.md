@@ -2,7 +2,7 @@
 name: Identity UX template
 about: For writing identity UX tickets
 title: ''
-labels: Identity,Identity-UX
+labels: Identity
 assignees: ''
 
 ---

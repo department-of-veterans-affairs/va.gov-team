@@ -2,8 +2,9 @@
 name: Platform Onboarding Checklist
 about: Onboarding checklist for members of the Platform team
 title: Onboarding checklist for <name>
-labels:
-assignees:
+labels: ''
+assignees: ''
+
 ---
 
 ## Overview

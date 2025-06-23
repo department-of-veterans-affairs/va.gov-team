@@ -33,13 +33,17 @@ First create a fake user class:
 
 ```ruby
 class FakeUser
-  attr_reader :email,:icn,:account_uuid
+  attr_reader :email,:icn,:user_account_uuid
 
-  def initialize(email, icn, account_uuid)
+  def initialize(email, icn, user_account_uuid)
     @email = email
     @icn = icn
-    @account_uuid = account_uuid
+    @user_account_uuid = user_account_uuid
   end
+
+   def flipper_id
+     @user_account_uuid
+   end
 end
 ```
 
@@ -58,7 +62,7 @@ auth_manager = TravelPay::AuthManager.new(Settings.travel_pay.client_number, tes
 Then instantiate the service you are wanting to interact with using the new auth_manager, e.g. the ClaimsService would be instantiated using:
 
 ```ruby
-claims_service = TravelPay::ClaimsService.new(auth_manager)
+claims_service = TravelPay::ClaimsService.new(auth_manager, test_user)
 ```
 Finally, test the service with:
 ```ruby
@@ -92,13 +96,17 @@ First create a fake user class:
 
 ```ruby
 class FakeUser
-  attr_reader :email,:icn,:account_uuid
+  attr_reader :email,:icn,:user_account_uuid
 
-  def initialize(email, icn, account_uuid)
+  def initialize(email, icn, user_account_uuid)
     @email = email
     @icn = icn
-    @account_uuid = account_uuid
+    @user_account_uuid = user_account_uuid
   end
+
+   def flipper_id
+     @user_account_uuid
+   end
 end
 ```
 

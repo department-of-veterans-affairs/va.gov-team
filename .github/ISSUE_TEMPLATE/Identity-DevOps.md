@@ -2,7 +2,7 @@
 name: Identity DevOps
 about: For writing DevOps tickets
 title: ''
-labels: Identity, Identity-DevOps
+labels: Identity
 assignees: ''
 
 ---

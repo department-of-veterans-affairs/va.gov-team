@@ -35,9 +35,9 @@ Health Products
 ### Team Members:
 - Heather Justice | heather.justice1@va.gov / heather.justice@adhocteam.us / GH "hdjustice" - Product manager
 - Alex Seelig | alexander.seelig@va.gov / alex.seelig@agile6.com / GH "alexseelig" - Product manager
-- Emily Brown | emily.brown8@va.gov / emily.brown@agile6.com / GH "emily-brown34" - Delivery Lead
+- Alexandria "Alex" Parker | alexandria.parker@va.gov / alexandria.parker@agile6.com / GH "ACParker89" - Delivery Lead
 - Jessica Stump | jessica.stump@va.gov / jessica.stump@adhocteam.us / "jessicastump" - Sr UX Design/Research
-- Angela Agosto | angela.agosto1@va.gov / angela.agosto@adhocteam.us / GH "aagosto90" - UX Design/Research
+- Liza McRuer | TBD / liza.mcruer@adhocteam.us / GH "emcruer" - UX Design
 - Renata Keck | renata.keck@va.gov / renata.keck@agile6.com / GH "renatakeck" - UX Design/Research
 - Hieu Vo | hieu.vo@va.gov / hieu.vo@agile6.com / GH "IMHieuVo" - UX Design/Research
 - Matt Long | matthew.long6@va.gov / matt.long@adhocteam.us / GH "longmd" - Sr Frontend Engineer

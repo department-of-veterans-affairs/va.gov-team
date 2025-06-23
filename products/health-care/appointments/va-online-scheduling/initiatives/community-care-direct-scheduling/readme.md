@@ -16,6 +16,7 @@
     - [Key Performance Indicators](#key-performance-indicators)
     - [Metrics to Capture](#metrics-to-capture)
     - [Metrics Dashboards](#metrics-dashboards)
+- [Decision-Log](#decision-log)
 
 ## Overview
 
@@ -125,19 +126,23 @@ This is TBD.
 #### Metrics to Capture
 
 **NOTE: there are 2 use cases, one where the Veteran clicks on the SMS/Email link and the other where they go directly to VA.gov and start from there**
-
+Current:
 | Use Case | Metric No. | Metric | Description | Capture Method | Responsible |
 |----- |----- | ------- | ------- | ----- | ----- | 
 | All | 1 | Customer/Veteran Experience | CSAT from Medallia survey on CC confirmation page and CC scheduling workflow pages | Medallia | UAE |
-| All | 2 | Number of approved CC referrals where Veteran has indicated a digital self-schedule preference | same | DataDog StatsD | UAE (we could do this if we are doing the other StatsD work) |
+| All | 2 | Number of approved CC referrals where Veteran has indicated a digital self-schedule preference | same | DataDog StatsD | UAE or VHA |
 | SMS | 3 | Number who started the process | User clicked the link sent them via SMS/email | DataDog StatsD | UAE |
-| SMS | 4 | Number who successfully scheduled an appointment | Successful calls to the CC scheduling API | DataDog StatsD | UAE |
-| SMS | 5 | Number who received an error while scheduling | Failed calls to the CC schedulihng API | DataDog StatsD | UAE |
-| SMS | 6 | Time to complete the process | Time between clicking the link and call to CC scheduling API  | DataDog StatsD | UAE |
 | VA.gov | 7 | Number who started the process | User clicked the "Schedule your appointment" link for a referral on the Referrals and Requests page | DataDog StatsD | UAE |
 | VA.gov | 8 | Number who successfully scheduled an appointment | Successful calls to the CC scheduling API | DataDog StatsD | UAE |
 | VA.gov | 9 | Number who received an error while scheduling | Failed calls to the CC schedulihng API | DataDog StatsD | UAE |
 | VA.gov | 10 | Time to complete the process | Time between clicking "Schedule your appointment" and call to CC sheduling API | DataDog StatsD | UAE |
+
+**Removed 4/7/25:** per decision noted [here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97072#issuecomment-2784643713).
+| Use Case | Metric No. | Metric | Description | Capture Method | Responsible |
+|----- |----- | ------- | ------- | ----- | ----- | 
+| SMS | 4 | Number who successfully scheduled an appointment | Successful calls to the CC scheduling API | DataDog StatsD | UAE |
+| SMS | 5 | Number who received an error while scheduling | Failed calls to the CC scheduling API | DataDog StatsD | UAE |
+| SMS | 6 | Time to complete the process | Time between clicking the link and call to CC scheduling API | DataDog StatsD | UAE |
 
 #### Metrics Dashboards
 - TBD
@@ -145,4 +150,9 @@ This is TBD.
 #### GitHub Project Filters
 [GitHubProjectFiltersforCC.txt](https://github.com/user-attachments/files/18084585/GitHubProjectFiltersforCC.txt)
 
+## Decision-Log
+| Date | Decision | Notes / Reference |
+|----- |----- | ------- |
+| 3/4/25 | Pilot specialty type of care updated to optometry. | [Slack thread.](https://dsva.slack.com/archives/C06RMRJCLHH/p1741104235840649) |
+| 4/7/25 | Metrics refined in the table above. | [GitHub ticket comment.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97072#issuecomment-2784643713) |
 

@@ -13,6 +13,8 @@
 |[VA.gov Profile product guide v8 SRT 02012024.docx](https://github.com/department-of-veterans-affairs/va.gov-team/files/14487188/VA.gov.Profile.product.guide.v8.SRT.02012024.docx)|version 8|Feb, 6 2024|[#75099](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75099)|Veteran Status Card Updates|
 |[VA.gov.Profile.product.guide.v9.03212024.docx](https://github.com/department-of-veterans-affairs/va.gov-team/files/14765451/VA.gov.Profile.product.guide.v9.03212024.docx)|version 9|March 26, 2024|[#78387](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78387)|Personal health care contacts|
 |[VA.gov.Profile.product.guide.v10.07032024.docx](https://github.com/user-attachments/files/16087028/VA.gov.Profile.product.guide.v10.07032024.docx) | Version 10 | 7/2024 | [#87602](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87602) | |
+| [VA.gov.Profile.product.guide.v11.SRT.04242025.docx](https://github.com/user-attachments/files/20122539/VA.gov.Profile.product.guide.v11.SRT.04242025.docx)   |Version 11|April 2025| [#108288](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108288) ||
+
 
 
 

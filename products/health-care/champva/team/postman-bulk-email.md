@@ -23,7 +23,7 @@ to multiple different email addresses via a single Postman batch run.
 3. Open Postman and import the files retrieved from the notifications API repo
 4. Set any necessary missing values in the staging-simplified environment. 
     - The IVC CHAMPVA VA Notify service API key is stored in an AWS param:
-      `/dsva-vagov/vets-api/staging/vanotify/services/ivc_champva/api_key`
+      `/dsva-vagov/vets-api/staging/env_vars/vanotify/services/ivc_champva/api_key`
     - The `template_id` environment variable should match the email you're trying to send. These IDs can be found in VA Notify or the IVC AWS param store.
     - Refer back to the notifications api [README](https://github.com/department-of-veterans-affairs/notification-api/tree/main/documents/postman) for other variables
 5. Update the `send email` request to include the proper variable names (these will correspond to the variables the given VA Notify template expects AND the CSV headers in the CSV referenced in the pre-requisites section). Below is an example of the request configured for a bulk FMP1 confirmation email job:
@@ -57,7 +57,7 @@ to multiple different email addresses via a single Postman batch run.
 
 11. Check your email to verify the notification came through as expected.
 
-These steps should be the same for the production environment. To use, select the production environment from the dropdown in the upper right corner.
+These steps should be the same for the production environment. To use, select the production environment from the dropdown in the upper right corner. You will also need to make sure any email template IDs are the production variants, as well as any AWS params (such as the api key)
 
 Troubleshooting
 - TODO

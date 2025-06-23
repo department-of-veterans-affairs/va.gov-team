@@ -2,7 +2,7 @@
 name: Check In Experience Design Implementation
 about: For Check In Experience to design the implementation
 title: "[FE] [BE] Design Feature Implementation and Create All Task Tickets"
-labels: HCE-Checkin, frontend, backend
+labels: backend, frontend, HCE-Checkin
 assignees: ''
 
 ---

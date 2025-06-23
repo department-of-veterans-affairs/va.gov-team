@@ -1,14 +1,42 @@
 # Ask VA KPIs
-Last updated by @beckyphung on January 16, 2025
+Last updated by @beckyphung on April 10, 2025
 
 🚧 10/24 Update: We don't have all targets currently. Also, we're currently working on updating the **Performance KPIs** section.
 
 These KPIs help us understand how Ask VA is meeting expected submitter outcomes and operational performance of our Ask VA application. We'll benchmark our KPIs against VA.gov metrics.
 
 **Jump to:**
+- [Monthly KPIs](#monthly-kpis)
 - [User experience KPIs](#user-experience-kpis)
 - [Calculating user experience KPIs](#user-experience-kpis)
 - [Performance KPIs](#performance-kpis)
+
+## Monthly KPIs
+<details open>
+<summary>April 2025</summary>   
+
+**Date:** April 10, 2025 to [end date]
+
+Last updated by @beckyphung on April 10, 2025
+
+**Performance**
+- Error rate:
+- Latency: 
+- Throughput:
+
+**Form**
+- Satisfaction (Feedback button): 
+- Experience (Intercept): 
+- Completion rate: 
+- Time to submit form: 
+
+**Inbox**
+- Satisfaction (Feedback button): 
+- Experience (Intercept): 
+- Reply rate: 
+- Time to reply: 
+
+</details>
 
 ## User experience KPIs
 User Experience KPIs measure how well Ask VA meets the needs and expectations of its users.

@@ -89,14 +89,14 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ## Team
 
 - Executive sponsor: Chris Johnston (christopher.johnston2@va.gov)
-- Product Owner: Emily Theis (emily.theis@va.gov)
+- Product Owner: Dave Conlon
 - VBA Stakeholders and SMEs: John Blankenship (Directof of LGY), R. Colin Deaso (Assist. Direcctor of LGY), Jennifer Spencer (Program Analyst)
   
  #### Non-Disability Experience Team
-- Product manager: Laura Steele
-- Design and Research: Julie Pedke and Fiorella Geedi
-- Engineering: Thomas Blackwell (lead), Dakota Larson, Sean Midgley, Micah Fraizer, Evan Smith, Tyler Fink
-- Delivery: Sarah Ortiz Shields
+- Product manager: Mike King
+- Design and Research: Ian Hilton
+- Engineering: John Rodriguez, Nick Sayre, Kyle Henson, Adam King
+- Delivery: Tabinda Syed
 
 
 #### Stakeholders

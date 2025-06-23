@@ -27,6 +27,3 @@ assignees: ''
 - [ ] Create tickets for any field that needs to be filled out
 - [ ] Work with other Platform teams to assign out those tickets
 - [ ] Update the POAM in eMass once fields are complete
-
-
-

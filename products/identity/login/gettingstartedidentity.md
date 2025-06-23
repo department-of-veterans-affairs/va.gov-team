@@ -6,10 +6,10 @@ Updated 6/15/22
 
 **Table of Contents**
 
-1. [Signing in](notion://www.notion.so/7964973d4088479f9446144b68bbd4aa#signing-in)
-2. [Connecting to MPI](notion://www.notion.so/7964973d4088479f9446144b68bbd4aa#connecting-to-MPI)
-3. [Understanding LOA](notion://www.notion.so/7964973d4088479f9446144b68bbd4aa#Understanding-LOA)
-4. [User paths based on Identity](notion://www.notion.so/7964973d4088479f9446144b68bbd4aa#User-paths-based-on-Identity)
+1. [Signing in](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/identity/login/gettingstartedidentity.md#signing-in)
+2. [Connecting to MPI](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/identity/login/gettingstartedidentity.md#connecting-to-mpi)
+3. [Understanding LOA](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/identity/login/gettingstartedidentity.md#understanding-loa)
+4. [User paths based on Identity](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/identity/login/gettingstartedidentity.md#user-paths-based-on-identity)
 
 ## Signing in
 
@@ -28,7 +28,7 @@ Sign-in CTAs are found in upper-right hand corner of the header of every [VA.gov
 
 ## Connecting to MPI
 
-Each identity provider on [VA.gov](http://va.gov/) gives specific and slightly different information that can be used to connect the user to their Veteran Record, which is stored in the Master Person Index (MPI). [The information we get from our identity providers and our connections to them is explained here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/login/ssoe/ssoe_saml_response_attributes.md). In order for us to attempt a connection to MPI, the user's account level must be LOA3 ([see more on LOA below](notion://www.notion.so/7964973d4088479f9446144b68bbd4aa#Understanding-LOA)).
+Each identity provider on [VA.gov](http://va.gov/) gives specific and slightly different information that can be used to connect the user to their Veteran Record, which is stored in the Master Person Index (MPI). [The information we get from our identity providers and our connections to them is explained here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/login/sso/ssoe_saml_response_attributes.md). In order for us to attempt a connection to MPI, the user's account level must be LOA3 ([see more on LOA below](notion://www.notion.so/7964973d4088479f9446144b68bbd4aa#Understanding-LOA)).
 
 If we are able to successfully connect a user to a record in MPI, we get back a [list of attributes](notion://www.notion.so/7964973d4088479f9446144b68bbd4aa) that can be leveraged throughout [VA.gov](http://va.gov/) to provide access to additional digital services. This allows the user to access products such as the profile and dashboard, which display personal information and actions in flight with the VA, as well as pre-fill information on an application directly from their Veteran Record in MPI.
 

@@ -1,6 +1,6 @@
 # Field rules
 
-Last updated by @tygindraux: March 25, 2025
+Last updated by @tygindraux: April 30, 2025
 
 This document is for our design team to communicate field rules. This list is alphabetical.
 
@@ -29,9 +29,11 @@ This document is for our design team to communicate field rules. This list is al
 
 ## Attachments
 
-In the form, this is pulled from the categories endpoint so it's regularly updating. AVA Admins have the ability to change these rules at any point, without being part of a release. Attachments are not allowed for unauthenticated submissions.
+Attachments are not allowed for unauthenticated submissions.
 
-In the dashboard, TBC.
+Depending on the routing queue associated with their question, authenticated users can add attachments. AVA Admins have the ability to change these rules at any point, without being part of a release.
+
+We pull these rules from the categories endpoint in the form. In the dashboard, these rules come from the inquiry details.
 
 ## Authentication required
 
@@ -100,9 +102,7 @@ Review [location of residence and postal code](https://github.com/department-of-
 
 ## Pronouns
 
-|If|Then|Unless|
-|:--|:--|:--|
-|All categories|Optional field for `Pronouns` of the submitter||
+This field has been removed from Ask VA. In February 2025, after an Executive Order.
 
 ## Reason you contacted us
 
@@ -137,9 +137,9 @@ If education question, the roles list changes to:
 |:--|:--|:--|
 |Category = `Education benefits and work study` and relationship to the Veteran = Personal (eg. GI Bill Beneficiary)|Require `State of school` or `State of residency`|Topic = `Veteran Readiness and Employment (Chapter 31)`|
 |Category = `Education benefits and work study` and relationship to the Veteran = Business|Require `School facility` or `State of facility` depending on role*|Topic = `Veteran Readiness and Employment (Chapter 31)`|
-|Category = `Debt` and topic = `Education benefit overpayments (for school officials)`|Require `School facility`||
-|Category = `Debt` and topic = `Education benefit overpayments (for students)`|Require `School state or residency state`||
-|Category = `Debt` and topic ≠ `Education benefit overpayments (for school officials)` or `Education benefit overpayments (for students)`|Don't include any school fields||
+|Category = `Debt` and topic = `Education benefit overpayments (for school officials)` <br><br> **Note**: This will change to a subtopic called, `I am a school official` under topic = `Education benefit overpayments` in the future.|Require `School facility`||
+|Category = `Debt` and topic = `Education benefit overpayments (for students)` <br><br> **Note**: This will change to a subtopic called, `I am a student or someone else` under topic = `Education benefit overpayments` in the future.|Require `School state or residency state`||
+|Category = `Debt` and topic ≠ `Education benefit overpayments (for school officials)` or `Education benefit overpayments (for students)` <br><br> **Note**: These topics will merge into topic = `Education benefit overpayments` in the future.|Don't include any school fields||
 |All other categories|Don't include any school fields||
 
 If Category =`Education benefits and work study` then we use the role to determine whether to require `School facility` or `State of facility`:

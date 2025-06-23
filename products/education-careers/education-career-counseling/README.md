@@ -88,22 +88,22 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 ---
 
 #### Communications
-- Team Name: Benefits Non-Disability Experience Team (Team Umbrella)
+- Team Name: IIR Team
 - GitHub Team Label: non-disability-benefits
 - GitHub Product Label: CH36
-- Slack channel: benefits-non-disability
-- Product POCs: Laura Steele (product manager), Emily Theis (OCTO Lead)
+- Slack channel: iir-product-teams-public
+- Product POCs: Mike King (product manager), Dave Conlon (OCTO Lead)
 
 #### Stakeholders
 - Office/Department:
-   - OCTO (Emily Theis, Julie Strotham, Steve Albers)
+   - OCTO (Dave Conlon)
    - VBA (Terry Brown, Paige Forte and Christina Velazquez). All work at Office of Outreach, Transition, and Economic Development (OTED)
 
 #### Team Members
- - DEPO Lead: Sarah Ortiz Shields
- - PM: Laura Steele
- - Engineering: Thomas Blackwell
- - Research/Design: Julie Pedtke, Fiorella Geedi
+ - DEPO Lead: Dave Conlon
+ - PM: Mike King
+ - Engineering: John Rodriguez, Nick Sayre, Kyle Henson, Adam King
+ - Research/Design: Ian Hilton
 
 #### Privacy officer
  - Renu Roy (renu.roy@va.gov) 

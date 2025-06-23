@@ -1,7 +1,7 @@
 # IA Design for CHAMPVA Claim Form 7959a
 **STATUS: Final**
 - 3/17/2025 - MN: Updates to structure of content, URLs, breadcrumbs end entry points
-
+- 6/2/2025 - JC: R&S page will no longer be updated with entry point to form. 
   
 **Team:** IVC Forms
 
@@ -70,16 +70,9 @@
 
 <img src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/122126772/dd64f177-31d5-4466-ad21-7b3bdc5e2021" width="500">
 
-
-3. **Add to 'Do I need to file a claim / how to file a claim' R+S page**
-  - Placement description: TBD by content
-  - Link label: [TBD based on H1]
-  - Link destination: va.gov/family-and-caregiver-benefits/health-and-disability/champva/file-claim-10-7959a/
-
-
 ## <a name="redirects"></a>Redirects <br>
 
-- None
+- [5/9 update] - the form is live in production but has the wrong URL. IVC forms team will submit a redirect request to change https://www.va.gov/family-and-caregiver-benefits/health-and-disability/file-champva-claim-10-7959a/ to va.gov/family-and-caregiver-benefits/health-and-disability/champva/file-champva-claim-10-7959a/
 
 
 ## <a name="bestbets"></a>Best Bets<br>

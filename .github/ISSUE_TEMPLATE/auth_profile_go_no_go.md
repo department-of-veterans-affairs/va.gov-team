@@ -1,11 +1,13 @@
 ---
 name: Authenticated Experience Profile Go/no-go convo template
-about: Template for Authenticated Experience Profile team go/no go conversations ( UAT and Prod )
+about: Template for Authenticated Experience Profile team go/no go conversations (
+  UAT and Prod )
 title: Practice Area | Profile | [Project] | UAT or Prod go/no-go convo
-labels: needs-refinement, profile, launch, authenticated-experience
-assignees: 'mtcA6'
+labels: authenticated-experience, launch, needs-refinement, profile
+assignees: mtcA6
 
 ---
+
 # UAT 
 
 ## UAT Go / No-Go | `[Date]` 
@@ -113,5 +115,4 @@ Is the release plan complete and ready to execute against?
 ### Everyone 
 Does anyone have any concerns or reasons we should postpone a launch?
 - [ ] Yes 
-- [ ] No 
-
+- [ ] No

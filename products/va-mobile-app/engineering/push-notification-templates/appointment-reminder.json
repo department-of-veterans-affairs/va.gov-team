@@ -1,0 +1,6 @@
+{
+  "default": "Appointment Reminder Default",
+  "APNS": "{\"aps\":{\"alert\": {\"title\":\"VA Appointment Reminder\",\"body\":\"You have an upcoming VA appointment.\"}},\"url\":\"vamobile://appointments/%APPOINTMENT%\"}",
+  "APNS_SANDBOX": "{\"aps\":{\"alert\": {\"title\":\"VA Appointment Reminder\",\"body\":\"You have an upcoming VA appointment.\"}},\"url\":\"vamobile://appointments/%APPOINTMENT%\"}",
+  "GCM": "{\"notification\": {\"title\": \"VA Appointment Reminder\",\"body\":\"You have an upcoming VA appointment.\"},\"data\": {\"url\":\"vamobile://appointments/%APPOINTMENT%\"}}"
+}

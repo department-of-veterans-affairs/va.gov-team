@@ -87,6 +87,12 @@ All e2e tests now test interactions of all potential flipper and on/off states.
 
 ## Unit Test coverage 
 
+Total unit test coverage after resolving some redux actions related testing issues
+
+<img width="867" alt="Screenshot 2025-04-01 at 3 12 14 PM" src="https://github.com/user-attachments/assets/934535b9-1e78-469d-8474-768bbe78f777" />
+
+
+
 **Segmented Button group/Control Component internal functioning is tested by DST as a DST component**
 
 **Segmented Button Group/Control Component actions are tested by E2E above**

@@ -1,7 +1,7 @@
 # Initiative Brief: 686c/674 Form Updates
 
 ## Outcome Summary
-Veterans submitting online 21-686c and 21-674 claims can trust that their submissions include all the required information to ensure efficient processing. Veterans experience a online form that is accessible and easy to use.
+Veterans submitting online 21-686c and 21-674 claims can trust that their submissions include all the required information to ensure efficient processing. Veterans experience a online form that is accessible and easy to use. [Project milestone](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1292).
 
 **Related/Associated product(s)**
 - [686/674 Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/21-686c-product-outline.md)
@@ -27,14 +27,25 @@ Veterans submitting online 21-686c and 21-674 claims can trust that their submis
 ## Undesired Business Outcomes
 - 686 and 674 online form submissions generate claim errors that prevent automated processing 
 
+## Core Bet
+
+By modernizing the 686c/674 online forms to match current business rules and streamline inputs we believe we will reduce downstream errors and manual interventions while improving Veteran trust in the digital experience.
+
 ---
 ## Measuring Success
 
-| KPI                       | Baseline Value | Target Value | Actual Value | Link to Data Source |
-|---------------------------|----------------|--------------|--------------|---------------------|
-| # of 686 claims offramped |                |              |              |                     |
-| # of claim errors         |                |              |              |                     |
-| # of accessibility errors |                |              |              |                     |
+| KPI                                                                                        | Why It Matters                                                         | Target                             | Indicator Type |
+| ------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------- | ---------------------------------- | -------------- |
+| Form start-to-submit rate                                                                  | Signals usability and reduction in drop-off due to improved form logic | ≥?%                               | Leading        |
+| Average time to complete form                                                              | Reflects reduced burden from deprecated fields and improved UI         | 10% decrease from baseline         | Leading        |
+| % of staging submissions that generate valid PDFs without errors                           | Ensures backend PDF system is working as expected pre-launch           | ≥95%                               | Leading        |
+| % of staging submissions that include all required RBPS fields                             | Checks if structured data is complete before production                | ≥90%                               | Leading        |
+| % of production submissions that autoestablish a claim in VBMS without manual intervention | Signals backend and payload integrity; reduces downstream work         | ≥?%                               | Leading        |
+| % of dependency claims requiring no development letters                                    | Validates completeness and clarity of front-end form design            | Increase over baseline (e.g. +15%) | Lagging        |
+| % of claims that are successfully processed without rerouting or fallback                  | Measures backend integrity and successful intake into VA systems       | ≥90%                               | Lagging        |
+| Mean time to resolution for claims processing issues post-launch                           | Measures downstream impact of form quality                             | Trend downward from baseline       | Lagging        |
+
+
 
 ---
 

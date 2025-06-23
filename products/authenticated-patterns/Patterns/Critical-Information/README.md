@@ -1,7 +1,7 @@
-# Product Outline - Critical Information Component
+# Product Outline - Critical Action Component
 
 ## Outcome Summary  
-The **Critical Information** component standardizes urgent, time-sensitive actions for Veterans. Designed for **high visibility and immediate action**, this component will help users quickly recognize and complete critical tasks related to their benefits and services on VA.gov. By implementing this reusable component, we aim to **reduce missed deadlines, improve task completion rates, and enhance the overall efficiency of authenticated experiences.**  
+The **Critical Action** component standardizes urgent, time-sensitive actions for Veterans. Designed for **high visibility and immediate action**, this component will help users quickly recognize and complete critical tasks related to their benefits and services on VA.gov. By implementing this reusable component, we aim to **reduce missed deadlines, improve task completion rates, and enhance the overall efficiency of authenticated experiences.**  
 
 ### Problem Statement  
 Veterans often miss **urgent actions** related to their benefits due to:  
@@ -51,7 +51,7 @@ We will validate assumptions and refine our approach through:
 
 ## What We're Building  
 ### **In-Scope**  
-#### **Critical Information Component**  
+#### **Critical Action Component**  
 - Develop a **UI component** for surfacing urgent actions.  
 - Ensure the component:  
   - Uses **a standardized design** that highlights urgency.  

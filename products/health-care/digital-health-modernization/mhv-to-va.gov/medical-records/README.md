@@ -1,6 +1,6 @@
 # MHV on VA.gov Medical Records Product Outline
 
-Last Updated: February 3. 2025
+Last Updated: May 6. 2025
 
 ### Communications
 
@@ -18,7 +18,6 @@ Last Updated: February 3. 2025
 |Bresha Lipscomb | VA Product Owner | bresha.lipscomb@va.gov |
 |Bryan Riley | ByLight Delivery Mgr | bryan.riley@va.gov |
 |Lichelle Bain | ByLight Product Manager | lichelle.bain@va.gov |
-|Jeanette Bruno | Director, Change Management, OCTO | jeannette.bruno@va.gov |
 |Danielle Thierry| Content and IA | danielle.thierry@va.gov |
 |Martha Wilkes |OCTO Accessibility Strategist | martha.wilkes@va.gov |
 |Alexia Wunder | By Light Design Lead | alexia.wunder@va.gov |

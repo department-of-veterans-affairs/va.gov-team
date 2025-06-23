@@ -23,6 +23,7 @@ This document will help you better understand the context of Ask VA data.
 ### VA chatbot data
 |Date|Number of messages sent to the VA chatbot|Source|
 |:---|:---|:---|
+|FY24 (10/1/23 to 9/30/24)|197,788|[VA Chatbot KPIs dashboard in Domo](https://va-gov.domo.com/page/939649897)
 |FY23 (10/1/22 to 9/30/23)|330,719|[VA Chatbot KPIs dashboard in Domo](https://va-gov.domo.com/page/939649897)
 
 ## Veteran data

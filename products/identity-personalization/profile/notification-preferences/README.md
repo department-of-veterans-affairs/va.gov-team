@@ -18,20 +18,14 @@
 
 ### POCs
 
-- Slack channel: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp) [#va-profile](https://dsva.slack.com/channels/va-profile)
+- Slack channel: [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp) [#va-profile](https://dsva.slack.com/channels/va-profile) [#va-notify-public](https://dsva.slack.com/archives/C010R6AUPHT)
+
  
  ### Roles
 
 [Please refer to the profile product outline for the current VA.gov profile team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/README.md#roles).
 
-Additionally, we work in partnership with VANotify and VA Profile on this work. Additional partners include:
-
-|Name|Role|Email|
-|----|----|-----|
-|| OCTO lead for VANotify|  |
-|Melanie Jones | VANotify PM | melanie.jones@oddball.io |
-|Mike Richard | VA Profile PM | Michael.Richard2@va.gov |
-
+We partner with [VANotify ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-notify)and VA Profile on this work. 
 
 ## Overview
 
@@ -45,12 +39,16 @@ This section of profile allows users to:
 
 - Manage text notification preferences.  
 - Add or update the mobile phone number where notifications will be sent.
+- Manage email notification preferences
+- Add or update Contact Email where notifications will be sent
 
 The following data will come through VA Profile's API
 
-- Notification types (appointment reminder, claim update, etc)
-- Channels (text/email), groups (e.g. health care)
-- User settings (null, true, false) will come through
+- Notification types or Groups (Healthcare, Board of Appeals, etc)  = Communication Group in VA Profile
+- Notification permissions (appointment reminder, claim update, etc) = Communication Item in VA Profile
+- Channels (text/email), groups (e.g. health care) = Channel in VA Profile
+- Default Send Value (T/F boolean if the Communication Item automatically sends without an initial Opt In by the User) 
+- User settings (null, true, false)  
 
 #### **Currently we support the following notifications:**
 
@@ -61,11 +59,10 @@ The following data will come through VA Profile's API
 Notification Group | Item | Description | Notes | Channel | In Production
 -- | -- | -- | -- | :-: | :-:
 Your health care | Appointment reminders |   |   | Text | Yes
-Your health care | Appointment reminders |   |   | Email | No
+Your health care | Appointment reminders |   |   | Email | Yes
 Your health care | Prescription shipment and tracking updates |   | This is available only with specific facilities | Text | Yes
-Your health care | Prescription shipment and tracking updates |   | This is available only with specific facilities | Email | No
-Your health care | Medical images and reports |   | MHV Migration Item | Email | No
-Your health care | My HealtheVet new secure message available |   | MHV Migration Item | Email | No
+Your health care | Prescription shipment and tracking updates |   | This is available only with specific facilities | Email | Yes
+Your health care | Medical images and reports |   | MHV Migration Item | Email | Yes
 Board of Veterans' Appeals | Appeals hearing reminder |   |   | Text | Yes
 Board of Veterans' Appeals | Appeals status updates |   |   | Text | Yes
 Payments | Disability and Pension Deposit Notification |   | Requires VA Notify Support prior to enablement | Text | Yes
@@ -98,7 +95,7 @@ QuickSubmit | QuickSubmit | A notification and preference around a platform call
 
 ## Measuring success
 
-We are not currently measuring any OKRs or KPIs for notification settings.
+We are not currently maintaining OKRs or KPIs for notification settings in this page. We maintain a sharepoint document w/our notification metrics. 
 
 For previous OKRs/KPIs:
 
@@ -122,14 +119,14 @@ For previous OKRs/KPIs:
 
 - Notification settings come from [VA Profile](https://depo-platform-documentation.scrollhelp.site/developer-docs/external-integrations).
 - This section is also managed in close partnership with [VANotify](https://depo-platform-documentation.scrollhelp.site/developer-docs/VANotify.1885634900.html), which manages all notifications.
-
-Additional details can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/notification_settings/backend_documentation.md)
+- [Backend Documentation](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/notification_settings/backend_documentation.md)
 
 ### Error Handling
 
 ## Frontend
 
 - [Frontend documentation on how the notification settings UI works](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/frontend/display-notes.md)
+- [Frontend Documentation](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/notification_settings/frontend_documentation.md)
 - [Feature flag documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/notification-preferences/frontend/feature-flags.md)
 
 ## Design and UX

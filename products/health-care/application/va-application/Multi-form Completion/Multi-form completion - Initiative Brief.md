@@ -1,21 +1,23 @@
 # Multi-form completion - Initiative Brief
 - Epic - [#103260](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103260)
 - Design file - TBD
+- [VA GPT guidance on creating a holistic experience](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Multi-form%20Completion/VA%20GPT%20guidance%20on%20holistic%20form%20completion%20experience.md)
 
 ## Outcome Summary
 - Enabling Veterans to complete multiple forms using the same data input.
 - This could be achieved through several iterations:
-     - MVP: Prompting for 10-10CG upon completion of 10-10EZ and receipt of "enrolled" determination for Veterans with 70% or higher disability rating and prefilling with previously entered data/MPI
+     - MVP: Prompting for 10-10CG and/or 10-10D upon completion of 10-10EZ and receipt of "enrolled" determination for Veterans with 70% or higher disability rating and prefilling with previously entered data/MPI
      - Prompting for additional forms that may be logical next steps for Veterans
      - Work with form owners to prefill with previously entered data/MPI
      - Working with form owners to create a selection list and simultaneous submission of multiple forms
 - This will streamline the application process, reduce redundancy, and enhance the overall Veteran experience.
 
-- **MVP Scope**: Prompting for 10-10CG upon completion of 10-10EZ and receipt of "enrolled" determination for Veterans with 70% or higher disability rating
+- **MVP Scope**: Prompting for 10-10CG and/or 10-10D upon completion of 10-10EZ and receipt of "enrolled" determination for Veterans with 70% or higher disability rating
 
 **Related/Associated product(s)**
 - Product | [10-10EZ product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20Product%20Outline.md)
-- Product | [10-1CG product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Caregiver%20application%20product-outline.md)
+- Product | [10-10CG product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Caregiver%20application%20product-outline.md)
+- Product | [10-10EZR product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZR%20Form/10-10EZR%20Product%20Brief%20(standalone%20form).md)
 
 ## Problem
 - Veterans often need to complete multiple forms when applying for various benefits and services.

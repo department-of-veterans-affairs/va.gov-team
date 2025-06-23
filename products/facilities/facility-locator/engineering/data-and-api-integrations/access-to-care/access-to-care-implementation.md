@@ -1,4 +1,8 @@
 # Access to Care implementation README
+
+**Note 4/1/25**
+Access to Care is not retrieved directly by any Sitewide product. We retrieve processed access to care data from Lighthouse which consolidates that information. Satisfaction scores and wait times are retrieved by VAMC facilities for services via 2 requests to Lighthouse (1 request to the post endpoint of facilities-api makes the 2 requests). The first is to the main LH Facilities API endpoint that gives satisfaction scores. We make a secondary request internally to Lighthouse's services endpoint for that facility to request the wait times for particular services. 
+
 Last updated: 2024-01-02
 
 Access to Care provides information about wait times and satisfaction scores for various services offered by VHA facilities. These scores are also used to understand which services VHA facilities provide. This source is not used to determine Dental services.

@@ -42,10 +42,10 @@ Cerner Request Process:
  - Column AS (Cerner DIRECT): NO 
  - Column AT (HIE Reporting):   NO 
  - Column AU (3M360): NO 
-3. Email completed form to donald.kowalewski@va.gov and cc OEHRMNationalURAC@va.gov 
- - Include brief justification 
- - Specify that Rick Ross (Rick.Ross@va.gov) is our team’s EHRM POC and cc him on the email as well  
-4. Wait to hear back 
+3. Email completed form to OEHRMNationalURAC@va.gov 
+ - Include brief justification
+4. Typically completion time is two weeks. Follow up with URAC for any status updates.
+   
 # Fundamental Documents and Links
 
 - [VA.gov Health Products: Cerner API Requirements](https://dvagov.sharepoint.com/:w:/r/sites/CDSProgramTeam/Shared%20Documents/General/Resources/Cerner%20Integration/2020-jan-cerner-api-documentation-revision.docx?d=w62faab7c4cf14024a89d651351d9ca09&csf=1&web=1&e=E93zGz)

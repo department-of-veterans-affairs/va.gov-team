@@ -1,8 +1,8 @@
 # 686c and 674 Off-Ramp Scenarios
 
-VA.gov sends certain 21-686c and 21-674 claims with a "claim type" of `MANUAL_VAGOV` with a note to BIS. BIS then off-ramps those claims to the Central Mail manual processing queue rather than sending them to RBPS for automated processing. [This is a dashboard](https://vagov.ddog-gov.com/logs?query=%40payload.txt%3AClaim%5C%20set%5C%20to%5C%20manual%5C%20by%2A&agg_m=count&agg_m_source=base&agg_q=%40payload.txt&agg_q_source=base&agg_t=count&cols=host%2Cservice%2C%40payload.txt&fromUser=true&messageDisplay=inline&refresh_mode=paused&storage=flex_tier&stream_sort=desc&top_n=10&top_o=top&viz=toplist&x_missing=true&from_ts=1735711200000&to_ts=1742831337044&live=false) that shows the volume of 686/674 claim types off-ramped by VA.gov.
+VA.gov sends certain 21-686c and 21-674 claims with a "claim type" of `MANUAL_VAGOV` with a note to BIS. BIS then off-ramps those claims to the Central Mail manual processing queue rather than sending them to RBPS for automated processing. [This is a dashboard](https://vagov.ddog-gov.com/dashboard/nyf-p7y-adm/bgs-686c-674-dashboard?fromUser=false&refresh_mode=sliding&from_ts=1746392698677&to_ts=1748984698677&live=true) that shows the volume of 686/674 claim types off-ramped by VA.gov.
 
-In March 2025, VA.gov removed the `MANUAL_VAGOV` "flag" from 674-only claims (see [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97875)), and started sending all 674-only claims to RBPS for automated processing. If the 674-only claim meets all the conditions within RBPS, it will be processed automatically. However, if the claim contains any of the following conditions, RBPS will off-ramp the claim for manual processing (as intended):
+In March 2025, VA.gov removed the `MANUAL_VAGOV` "flag" from 674-only claims (see [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97875)), and started sending all 674-only claims to RBPS for automated processing. This resulted in RBPS auto-processing 30% of 674-only claims. The remainder were off-ramped for manual processing by RBPS for expected reasons. If the 674-only claim meets all the conditions within RBPS, it will be processed automatically. However, if the claim contains any of the following conditions, RBPS will off-ramp the claim for manual processing (as intended):
    - School is listed as not accredited.
    - Continuous school term could not be determined as school start date is near 18th birthdate.
    - School term begin date is in future.
@@ -16,8 +16,9 @@ In March 2025, VA.gov removed the `MANUAL_VAGOV` "flag" from 674-only claims (se
    - Child's name, ssn, dob does not match corporate records. ([#61672](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61672) could mitigate this issue.)
    - Child does not exist on award. ([#61672](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61672) could mitigate this issue.)
 
-The following claim types still receive the `MANUAL_VAGOV` "flag" and are off-ramped by BIS before they reach RBPS. This logic should be [reviewed as some point with RBPS stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89907) to ensure RBPS has not added logic to process these claims automatically.
+The following claim types still receive the `MANUAL_VAGOV` "flag" and are off-ramped by BIS before they reach RBPS.
 - All 686c claims submitted with a 674
+   - These claim types are off-ramped bc VA.gov assigns a seperate procID to each claim type. [Work needs to be done](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25030) to merge both claims under the same procID. Once this is done, these claim types can go directly to RBPS and no longer need to be off-ramped by VA.gov
 - Adding a spouse due to a non-religious or non-civil marriage
 - Removing a child or parent due to death
 - Removing a school child over 18 who has stopped attending school

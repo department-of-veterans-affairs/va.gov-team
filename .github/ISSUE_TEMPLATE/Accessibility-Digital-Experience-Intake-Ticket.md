@@ -1,9 +1,10 @@
 ---
-name: "Accessibility Digital Experience (ADE) Intake Form"
-about: Use this ticket to request collaboration on a new initiative with the Accessibility Digital Experience (ADE) team (pronounced /ād/). 
-title: '[ADE Intake]:<Team Name><Product><Requesting>'
-labels: 'ADE, ADE Intake'
-assignees: artsymartha68,sara-amanda,lakper
+name: Accessibility Digital Experience (ADE) Intake Form
+about: Use this ticket to request collaboration on a new initiative with the Accessibility
+  Digital Experience (ADE) team (pronounced /ād/).
+title: "[ADE Intake]:<Team Name><Product><Requesting>"
+labels: ADE Intake, ADE
+assignees: artsymartha68, lakper, sara-amanda
 
 ---
 
@@ -72,7 +73,7 @@ Provide links to any supporting artifacts that can help us better understand you
 
 > [!IMPORTANT]
 > - We work with the majority product teams on VA.gov, so we will need to prioritize intake requests based on overall workload and VA and OCTO priorities.
-> - If you ever have any questions about the status of your ticket(s) please reach out to us in the [accessibility-help](https://dsva.slack.com/archives/C8E985R32) Slack channel by tagging Naomi Eke or Lakwi Perera.
+> - If you ever have any questions about the status of your ticket(s) please reach out to us in the [accessibility-help](https://dsva.slack.com/archives/C8E985R32) Slack channel by tagging Lakwi Perera.
 > - We will notify VFS Teams via the weekly Team of Teams slide, if our bandwidth is impacted by holidays, PTO, planned research, larger projects, etc.
 > - Additionally, feel free to access our [capacity calendar](https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=America%2FNew_York&mode=WEEK&src=Y19mOTgyMzUwZmM3M2E4MTYyYTEwODhhYjE0ZDAwZGQzNzMzNWIyYjU1OWE2MGQ2YjY3ZWI4MDIxNDE2ZjgxYzJhQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23616161).
 
@@ -114,7 +115,7 @@ _Select all that apply._
 - [ ] _Label with `Originator/Team` (product team or stakeholder requesting support)_
 - [ ] _Label date in the `Open Date` field_
 - [ ] _Label with `Estimate` (level of effort expected for this ticket)_
-- [ ] _Add `Assignee(s)` name(s) to ticket_ (include Naomi)
+- [ ] _Add `Assignee(s)` name(s) to ticket_ (include Lakwi)
 - [ ] _Add `Assignee(s) name(s) to each task` they will complete via handle tag (if known)_
 - [ ] _Select a `Priority Level`_
 - [ ] _Update date in `Last Checked` field_
@@ -128,5 +129,4 @@ _Select all that apply._
 > - Instead, related tickets will be connected to tickets via sub-issues.
 > ##### Connecting Tickets
 > - **To connect an existing ticket**, choose the drop-down from "create sub-issue" and select "add existing issue"
-> - **To connect a new issue,** choose the drop-down from "create sub-issue" and select "create sub-issue," and select the respective template. 
-
+> - **To connect a new issue,** choose the drop-down from "create sub-issue" and select "create sub-issue," and select the respective template.

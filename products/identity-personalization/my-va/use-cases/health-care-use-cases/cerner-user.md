@@ -1,3 +1,10 @@
+# Deprecated, MyVA no longer treats Cerner users differently, the health portal on VA.gov handles the redirect 4/22/2025
+
+
+---
+---
+---
+
 # My VA Health Care Use Case: User has VA health care and has received health care services at a Cerner facility
 
 **Last updated:** January 9, 2024 _(addition of language around Cerner alert, removal of reference to MyHealtheVet link on My VA, added Figma links)_

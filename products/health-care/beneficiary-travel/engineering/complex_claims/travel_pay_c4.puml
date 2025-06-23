@@ -94,13 +94,16 @@ System_Ext(tpapi, "Travel Pay API", "Creates claims and provides claim status le
 
 Container_Boundary(tp_be, "vets-api Travel Pay Module") {
   Component(tp_ctl, "Travel Pay Claims Controller", "Ruby/Rails", "The main request handler for VA.gov travel pay frontend requests. Validates requests and standardizes errors.")
+  Component(tp_doc_ctl, "Travel Pay Documents Controller", "Ruby/Rails", "The request handler for getting claim attachment summaries and binaries.")
   Component(tp_appts_svc, "Travel Pay Appts Service", "Ruby/Rails", "Makes external requests to the travel pay API appts resource endpoints, serializes data for consumption by frontend.")
-  Component(tp_claims_svc, "Travel Pay Claims Service", "Ruby/Rails", "Makes external requests to the travel pay API claims resource endpoints, serializes data for consumption by frontend.")
   Component(tp_exp_svc, "Travel Pay Expenses Service", "Ruby/Rails", "Makes external requests to the travel pay API expense resource endpoints, serializes data for consumption by frontend.")
+  Component(tp_claims_svc, "Travel Pay Claims Service", "Ruby/Rails", "Makes external requests to the travel pay API claims resource endpoints, serializes data for consumption by frontend.")
   Component(tp_auth_svc, "Travel Pay Auth Service", "Ruby/Rails", "Makes external requests to the travel pay API authN/authZ resource endpoints.")
+  Component(tp_doc_svc, "Travel Pay Documents Service", "Ruby/Rails", "Makes external requests to the travel pay API documents resource endpoints, serializes data for consumption by frontend.")
 }
 
 Rel(vagov_fe, tp_ctl, "Makes API requests to", "JSON/HTTPS")
+Rel(vagov_fe, tp_doc_ctl, "Makes API requests to", "JSON/HTTPS")
 Rel(tp_ctl, tp_appts_svc, "")
 Rel(tp_ctl, tp_claims_svc, "Processes requests with")
 Rel(tp_ctl, tp_exp_svc, "")
@@ -110,4 +113,6 @@ Rel(tp_claims_svc, tpapi,  "Makes API requests to", "JSON/HTTPS")
 Rel(tp_exp_svc, tpapi, "")
 Rel(tp_auth_svc, tpapi, "")
 Rel(appts_be, tp_claims_svc, "Merges claims with appointments")
+Rel(tp_ctl, tp_doc_svc, "Merges claims with document summaries")
+Rel(tp_doc_ctl, tp_doc_svc, "Requests document summaries and binaries with")
 @enduml

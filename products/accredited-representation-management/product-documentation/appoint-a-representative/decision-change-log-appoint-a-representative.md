@@ -67,10 +67,14 @@ _Originally proposed by Product Manager Lindsay Li-Smith ([Slack Message](https:
   _Decided in the Accredited Reps Crew Sync ([meeting notes](https://dsva.slack.com/docs/T03FECE8V/F06H1TS0GBZ?focus_section_id=temp:C:IdV200e5a0b60b74fb5bc5018e80))._
 - **1/16/2025**: Confirmed the representative phone number is not required for processing a 21-22a.\
   _Confirmed by stakeholder Jenny Rosenau (Compensation Services) in email "21-22/21-22a Required Fields?"._
+- 🎉 **1/23/2025**: Released 1.0 to 100% of users, “Best Bets” keywords were implemented to boost search-ability and entry points were established on our [landing page](https://www.va.gov/get-help-from-accredited-representative/) as well as the [VA Form 21-22](https://www.va.gov/find-forms/about-form-21-22/) and [VA Form 21-22a](https://www.va.gov/find-forms/about-form-21-22a/) pages
+([release plan](http://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/appoint-a-representative/release-plan-appoint-a-representative-1.0.md)).
 - **1/29/2025**: Decided to require the Veteran phone number for users on the digital submission pathway, to ensure they receive post-submission email notifications.\
   _Decided in the Accredited Reps Crew Sync ([meeting notes](https://dsva.slack.com/docs/T03FECE8V/F06H1TS0GBZ?focus_section_id=temp:C:IdV9887da248f544e67a28e669f3))._
 - **3/3/2025**: Decided an email notification is not required, when a POA request is cancelled due to the submission of a new POA request.\
   _Confirmed by Product Manager, Lindsay Li-Smith ([Slack message](https://dsva.slack.com/archives/C05L6HSJLHM/p1741039243600519))._
 - **3/11/2025**: Decided not to change our approach, despite the possible PII concern that first name and email address are being passed along. Instead, we'll wait for VA Notify to implement a new model/DB and will update our code to use that when it's ready.\
   _Decided in the ARM Leadership Sync ([Meeting notes](https://dsva.slack.com/docs/T03FECE8V/F05SKGFB50Q?focus_section_id=temp:C:VBD32b5d621ac8e4f4e97dcd3a7e))._
+- 🎉 **3/25/2025**: Released 2.0 to 100% of users
+([release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/appoint-a-representative/release-plan-appoint-a-representative-2.0.md)).
 

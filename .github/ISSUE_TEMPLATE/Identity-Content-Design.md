@@ -2,7 +2,7 @@
 name: Identity content design template
 about: For writing identity content design tickets
 title: ''
-labels: Identity,Identity-UX,content
+labels: content, Identity
 assignees: ''
 
 ---

@@ -1,7 +1,7 @@
 ---
 name: Check In Experience Task to Update Product Guides
 about: For Updating Check In Experience Product Guides
-title: "Update Product Guides for Release"
+title: Update Product Guides for Release
 labels: product
 assignees: ''
 

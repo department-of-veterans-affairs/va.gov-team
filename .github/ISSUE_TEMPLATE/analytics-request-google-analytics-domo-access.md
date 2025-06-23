@@ -2,8 +2,9 @@
 name: Analytics Access - Google Analytics/Domo - Request Template
 about: To request access to Google Analytics and/or Domo
 title: Request access to Google Analytics and/or Domo
-labels: access-request, analytics-insights, analytics-request
-assignees: johnny-jesensky-adhoc, Blivaditis
+labels: access-request, analytics-insights, analytics-request, new
+assignees: Blivaditis
+
 ---
 
 # Request Google Analytics and/or Domo access
@@ -17,11 +18,12 @@ Please check the analytics tool(s) you need access to:
 - [ ] Domo
 
 ## 2. User Email Address to Receive Access 
-**Due to privacy concerns, please do not put your email in this ticket.** Instead please use `/support` on the DSVA Slack channel [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support), select `Analytics` in the "I need help from" dropdown, and then add in the `Summary of request` section: 
+**Due to privacy concerns, please do not put your email in this ticket.** Instead please use `/support` on the DSVA Slack channel [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support), select `Google Analytics/Domo` in the `Request topic` dropdown menu and then add in the `Summary of request` section: 
  1. This issue's link 
  2. Emails that need access
 
 _Please note: For Google Analytics, if the user has a VA.gov email address or does not yet have a Google account, they will need to create one by visiting [this link](https://accounts.google.com/signup/v2/webcreateaccount?continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&gmb=exp&biz=false&flowName=GlifWebSignIn&flowEntry=SignUp). Once at that link, VA.gov users and external users with email accounts that are not Google based should select the option "Use my current email address instead"._
+- [ ]  email address has been connected to google 
 
 _Please list any additional requirements, if any (i.e. edit access). If you are requesting BigQuery access, please share if you will be hooking up an API._
 

@@ -34,7 +34,7 @@ Full [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-
 
 ### **Outcome**
 
-- User testing of Appoint a Representative with Digital Submit and the Representative Status Widget on VA.gov will help the team to identify and fix any outstanding user pain points and system bugs in the experience. We are interested in learning more about the AT users and how they experience the product. 
+- User testing of Appoint a Representative with Digital Submit and the Representative Status Widget on VA.gov will help the team to identify and fix any outstanding user pain points and system bugs in the experience. We are interested in learning more about the AT users and how they experience the product.
 
 
 ### **Research questions**
@@ -55,10 +55,10 @@ Full [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-
 
 ### **Hypothesis**
 
-1. Veterans will be able to successfully navigate Appoint a Representative through tested patterns and informative content.
-2. Veterans will clearly understand whether the process concludes with a PDF or digital submission, as well as the next steps to take upon completion.
+1. Veterans (who utilize screen readers) will be able to successfully navigate Appoint a Representative through tested patterns and informative content.
+2. Veterans (who utilize screen readers) will clearly understand whether the process concludes with a PDF or digital submission, as well as the next steps to take upon completion.
 3. Veterans will find value in signing in to see their current representative.
-4. When signed-in, Veterans will expect their information to be pre-filled in the form.
+4. When signed in, Veterans will expect their information to be pre-filled in the form.
 
 
 ## **Methodology**
@@ -81,35 +81,37 @@ Remote on Zoom
 
 ## **Group 2 recruitment approach**
 
-Our target audience is 4 Veterans (with expectations of speaking to) who are actively searching for or working with an attorney or claims agent.
+Our target audience is 6 Veterans (with expectations of speaking to 4) who are actively searching for or working with an attorney or claims agent.
 
 
 ### **Recruitment criteria**
 
 **Requesting a kick-off call**
 
-- Calendar Week of 03/31/2025 anytime 9 - 12 AM
+- Calendar Week of 04/21/2025 anytime 9 - 12 AM
+
+
 
 **Participant criteria**
 
 | # of participants | Criteria | Level |
 | --- | --- | --- |
-| VA.gov Use |
+| Primary |
 | All | Must have used, or are willing to use, VA.gov | Primary |
 | Representative Support |
 | All | Actively searching for a representative to support with a claim or benefit OR started receiving support in the last 6 months | Primary |
 | Representative Type |
 | All | Attorney or claims agent | Primary |
-| Demographics |
-| 2 or more | Age 55+ yo | Secondary |
-| 2 or more | With cognitive disability | Secondary |
-| 1 or more | People of color (black, Hispanic, asian, or Native American) | Secondary |
-| 1 or more | In rural location | Secondary |
-| 1 or more | With no degree | Secondary |
+| Secondary |
+| 3 or more | Age 55+ yo | Secondary |
+| 2 or more | People of color (black, Hispanic, asian, or Native American) | Secondary |
+| 2 or more | In rural location | Secondary |
+| 4 or more | With no degree | Secondary |
 | 1 or more | Women | Secondary |
 | 1 or more | LGBTQ+ | Secondary |
 
 Generated using VA [maximum variation sampling](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#Lean-MVS-Strategy) method.
+
 
 **Screener Questions: All Participants**
 
@@ -161,14 +163,48 @@ Generated using VA [maximum variation sampling](https://github.com/department-of
    - I prefer not to answer
 
 
+**Screener for AT users**
+
+Please make sure that ALL participants are willing to complete the session on the device they specified when recruited and:
+ - During the session, are willing to share their screen and audio
+ - Have a working microphone on their device
+ - Depend on screen reader to access ALL digital content
+ - Join the session with the device they specified on their screener
+
+ 1. Do you rely on screen readers to access ALL digital content?  
+   - Yes – I need a screen reader to access ALL digital content (recruit 3)
+   - Some – I need the help of screen readers to access SOME digital content (do not recruit)
+   - No – I do not need screen readers to access digital content. (do not recruit)
+
+2. Are you blind or severely visually impaired and rely on a screen reader (such as JAWS, VoiceOver, NVDA, or Talkback) to access ALL digital content? 
+   - Yes – I need a screen reader to access ALL digital content (recruit 3)
+   - Some – I need a screen reader to access SOME digital content, or I only use Screen reader optionally (do not recruit)
+   - No – I do not need a screen reader to access digital content. (do not recruit)
+
+3. Which screen reader will you be using for the session? 
+   - NVDA
+   - JAWS
+   - Voiceover
+   - Talkback
+   - Other – please specify
+
+ 4. What device will you use to join the session? 
+   - Desktop/Laptop - Windows (recruit 1-2)
+   - Desktop/Laptop - Mac (recruit 1-2)
+   - Tablet – Android 
+   - Tablet – iPad (recruit up to 1)
+   - Mobile phone – Android
+   - Mobile phone – iPhone (recruit 1-2)
+
+
 ### **Timeline**
 
-- [ ] 03/31 / Perigean kick-off call
-- [ ] 03/31 – 04/07 / Recruitment with Perigean, requires 1 week
+- [ ] 04/21 / Perigean kick-off call
+- [ ] 04/21 – 4/25 / Recruitment with Perigean, requires 1 week
 - [ ] TBD / Complete pilot session
-- [ ] 04/08 – 04/15 / Conduct interviews, requires 2x slots than required
+- [ ] TBD / Conduct interviews, requires 2x slots than required
 
-Please note: The Timeline is an estimation and will be updated as dependencies clear. Some dependencies that can impact this timeline include:
+Please note: The timeline is an estimation and will be updated as the dependencies are clear. Some dependencies that can impact this timeline include:
 - Review process both with direct team and collaboration cycle
 - Recruitment
 
@@ -184,12 +220,12 @@ A pilot session is required. Please indicate the date and name of a mock partici
 
 ### **Research sessions**
 
-- Planned dates of research: 04/08/2025 – 04/15/2025
+- Planned dates of research: 04/21/2025 – TBD
 
 
 ### **Length of sessions**
 
-- Session length: 60+ minutes
+- Session length: 90+ minutes
 - Buffer time between sessions: 1 hour
 - Maximum Sessions per day: 2 per day
 

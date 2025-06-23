@@ -1,12 +1,17 @@
-# Frontend Identity General
+# Identity Frontend
 
 ## Getting up and running
-### Setting up
-1. [`vets-website`](https://github.com/department-of-veterans-affairs/vets-website) up and running
-2. [`vets-api`](https://github.com/department-of-veterans-affairs/vets-api) up and running
-3. [`content-build`](https://github.com/department-of-veterans-affairs/content-build)* required for building local static pages, most Identity work can be completed without building this.
+Follow the VA Platform Developer Docs to get up and running. Do not skip steps as this may delay access.
 
-With both `vets-website` and `vets-api` running in parallel, localhost will be ready for most of your daily needs.
+1. [Frontend](https://depo-platform-documentation.scrollhelp.site/developer-docs/setting-up-your-local-frontend-environment) - `vets-website`
+    - Uses JavaScript, React, Redux, Sass, and VA Design System
+    - Until Node is upgraded use Node `14.16.x` using a Node version manager like `nvm`
+2. [Backend](https://depo-platform-documentation.scrollhelp.site/developer-docs/base-setup-vets-api) - `vets-api`
+    - Uses Ruby on Rails, Redix, and Postgres
+    - Use a Ruby version manager like `chruby` or `rvm`. (Do not use System Ruby if using a Mac)
+    - Prefer native-build over docker-build. Easier to troubleshoot and grab logs
+
+With both `vets-website` and `vets-api` running in parallel, localhost will be ready for most of your daily needs. Depending on context some additional needs
 
 ## General Information
 ### [Feature Flags](feature-flags.md)
@@ -18,7 +23,5 @@ With both `vets-website` and `vets-api` running in parallel, localhost will be r
 - [Google analytics](https://analytics.google.com/analytics/web/#/report-home/a50123418w177519031p176188361) ([Access Request](https://vfs.atlassian.net/wiki/spaces/VI/pages/1992556609/Frontend+Onboarding#Requesting-Access-to-Google-Analytics)) - Frontend Event Tracking
 - [Sentry](http://sentry.vfs.va.gov/organizations/vsp/issues/) **(Requires SOCKS)** - Frontend Error and Performance Monitoring
 - [Jenkins](http://jenkins.vfs.va.gov/) **(Requires SOCKS)** - Code Build/Deploy Monitoring and Logs
-> Mostly migrated away from Jenkins and using Github Actions instead
 - [Datadog](https://app.datadoghq.com/dashboard/lists) (See Info Panel Below) - Backend Monitoring and Performance
-- [Grafana](http://grafana.vfs.va.gov/?orgId=1) **(Requires SOCKS)** - Backend Monitoring and Logs
-> Eventually will migrate away from Grafana
+

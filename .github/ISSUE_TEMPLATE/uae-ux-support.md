@@ -1,10 +1,9 @@
 ---
 name: UAE UX Support Template
-about: UAE UX supporting UAE engineering scrum teams and other MHV/Appointment teams. 
+about: UAE UX supporting UAE engineering scrum teams and other MHV/Appointment teams.
 title: ''
-labels: 
+labels: ''
 assignees: ''
-projects: ["department-of-veterans-affairs/1214"]
 
 ---
 
@@ -30,5 +29,4 @@ projects: ["department-of-veterans-affairs/1214"]
 - [ ] Provided rationale to stakeholders, as needed, for why specific design decisions were made, e.g., pointing to research 
 - [ ] Presented research findings, insights, designs, recommendations to various stakeholders, including UAE, IVC, OCTO POs, IPTs, OIT, etc. 
 - [ ] Responded to and collaborate with cross-functional team needs, e.g., sync on UX between Appointments, VAHB, MHV on VA.gov, Check In, Accessibility and Content specialists, etc. 
-- [ ] Collaborated with SPL Team 
-
+- [ ] Collaborated with SPL Team

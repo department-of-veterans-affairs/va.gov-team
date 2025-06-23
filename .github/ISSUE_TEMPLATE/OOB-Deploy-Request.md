@@ -2,7 +2,7 @@
 name: OOB Deploy Request
 about: To request Out of band deployment
 title: OOB Deploy Request
-labels: frontend, operations, platform-tech-team-support
+labels: platform-tech-team-support
 assignees: ''
 
 ---
@@ -11,8 +11,8 @@ assignees: ''
 Please fill out the necessary details and list the PRs related to the OOB deployment in the sections below.
 
 ## PRs Related to OOB
-- Please provide the list of PRs related to the need for this OOB Deploy below:
-   > PR?????
+Please provide the list of PRs related to the need for this OOB Deploy below:
+- PR link
 
 ## Active Daily Users Impacted
 - How many active users are impacted at this time and day.
@@ -41,5 +41,3 @@ Please fill out the necessary details and list the PRs related to the OOB deploy
  - [ ] Notification is posted in the appropriate Slack support and team Channels
  - [ ] Infrastructure/Operations has acknowledge the Requests (This applies to revproxy and fwdproxy, but is not required for Frontend and Backend requests)
  - [ ] Security Team has Reviewed the requests (This is not necessary for requests that are not related to security)
-
- CC: @department-of-veterans-affairs/vsp-operations ,  @department-of-veterans-affairs/vsp-product-support

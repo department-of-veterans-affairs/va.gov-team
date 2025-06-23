@@ -232,51 +232,41 @@ Using a [Figma Prototype](https://www.figma.com/proto/cg8VNnxFOxw7lb10FVHpi5/Res
 
 ## Recommendations
 
-_Put together initial recommendations here based on your findings along with supporting evidence. Review with your team, then edit as needed._
+_Potential recommendations based on the research findings are listed below._
 
-* Recommendation 1
-    * _Supporting evidence_
-* Recommendation 2
-    * _Supporting evidence_
+* **Increase visibility of filters on the landing page** since only a few participants clicked on the filter button without being prompted to do so. While some may choose to browse via search over filters, this could increase engagement of filters and fundability of content.
+* **Consider changing the word “tag” to something more plain-language** like “Topic” since this is how it is described in the filter options. 
+* **Consider revising how tags are shown on mobile** to reduce amount of screen it takes up.
+* In a future state, consider an authenticated version that **surfaced content specific to the Veteran as most expected to see a personalized experience that only showed content that was relevant to them.** 
 
 
 ## Next Steps
 
-_Next steps here. Include owners if appropriate._
-
-
-## Further research needed
-
-_If there are demographics that were not included in this study or you discovered that more research should be done, make note of that here._
+After design revisions to address recommendations and launching to production, monitor Medallia for additional Veteran feedback on usability of tags. The Figma prototype used in this study was limiting in available filters and a significant number of Veteran feedback quotes above were caused by lack of complex logic only available in production. 
 
 
 ## Appendix
 
-[Research plan]  - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/research/2024-search-filters/research-plan.md
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/research/2024-search-filters/research-plan.md)
 
-[Conversation guide] - https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/research/2024-search-filters/conversation-guide.md
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/research/2024-search-filters/conversation-guide.md)
 
-[Interview transcripts] - https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/resources-and-support/research/2024-search-filters/transcripts
+[Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/resources-and-support/research/2024-search-filters/transcripts)
 
 ### Tools used for Synthesis
-Mural - https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1738793109607/9003012168cc00d3673c9babe90d7435ece613cf
-Excel - https://docs.google.com/spreadsheets/d/1iXNUGTdyNk4QBohCufDsXhxo_fgp5QXl/edit?usp=sharing&ouid=104284908232903288918&rtpof=true&sd=true  
+- [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1738793109607/9003012168cc00d3673c9babe90d7435ece613cf)
+- [Synthesis spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/resources-and-support/research/2024-search-filters/data_synthesis.xlsx)
 
 ### Pages and applications used
 
-Link to prototypes or pages that were tested
-- https://www.figma.com/proto/cg8VNnxFOxw7lb10FVHpi5/Resources-support?node-id=1014-7143&p=f&t=V4keptNOHm5ry13X-0&scaling=scale-down&content-scaling=fixed&page-id=504%3A6304&starting-point-node-id=1014%3A7143&hotspot-hints=0
+[Link to prototypes or pages that were tested](https://www.figma.com/proto/cg8VNnxFOxw7lb10FVHpi5/Resources-support?node-id=1014-7143&p=f&t=V4keptNOHm5ry13X-0&scaling=scale-down&content-scaling=fixed&page-id=504%3A6304&starting-point-node-id=1014%3A7143&hotspot-hints=0)
 
 
 
-### Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#who-we-talked-to)_
-- https://docs.google.com/spreadsheets/d/1cfZJ7xH-gFoLE2vbA8lZEU0yiiqRcyPX/edit?usp=sharing&ouid=104284908232903288918&rtpof=true&sd=true
+### Who we talked to  
+[Participant tracker](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?gid=1460867752#gid=1460867752)
 
 **Recruitment criteria**
-
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
 
 We talked to 12 participants.
 
@@ -285,24 +275,20 @@ Audience segment:
 * Caregivers: 3 
 * Family members of a Veteran: 5  
 
-
 Gender:
 * Male: 7 
 * Female: 12 
-
 
 LGBTQ+:
 * Transgender: x 
 * Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
 * Gay, lesbian, or bisexual: x
 
-
 Devices used during study: 
 * Desktop: 0 
 * Tablet: 2 
 * Smart phone: 10 
 * Assistive Technology: 0
-
 
 Age:
 * 25-34: 1
@@ -312,41 +298,30 @@ Age:
 * 65+: 2
 * Unknown: 0
 
-
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
-
+* High school degree or equivalent: 0
+* Some college (no degree): 1
+* Associate's degree, trade certificate or vocational training: 2
+* Bachelor's degree: 4
+* Master's degree: 5
+* Doctorate degree: 0
+* Unknown: 0
 
 Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
-
+* Urban: 8
+* Rural: 3
+* Unknown: 1
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
-
+* White: 8
+* Black: 2
+* Hispanic: 2
+* Biracial: 1
+* Asian: 0
+* Native: 0
 
 ### Underserved groups we haven’t talked to 
 
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
-
 This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
-
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+* Asian
+* Transgender

@@ -2,8 +2,8 @@
 name: Analytics Internal - New Dataset Request Template
 about: To request a new dataset be created in BigQuery and/or Domo
 title: Analytics Internal - New Dataset Request Template
-labels: analytics-insights
-assignees: johnny-jesensky-adhoc
+labels: analytics-insights, new
+assignees: 'AdamOye'
 
 ---
 

@@ -18,8 +18,7 @@ _How did this touchpoint go? [Give feedback on the Collaboration Cycle](https://
   - When **Must** feedback has been incorporated. As appropriate, link to any other GitHub issues or PRs related to this feedback.
   - When **Should/Consider** feedback has been incorporated, or if any feedback will not be addressed. As appropriate, link to any other GitHub issues or PRs related to this feedback.
 - [ ] **Questions?** For the most timely response, comment on Slack in your team channel tagging `@platform-governance-team-members`.
-- [ ] **Close the ticket** when all feedback has been addressed.
-
+- [ ] **Close the ticket any time** after you've finished reviewing it. You don't need to confirm with Governance before closing.
 
 ## Thoughts/questions
 

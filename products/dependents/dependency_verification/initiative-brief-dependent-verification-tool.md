@@ -74,7 +74,7 @@ Currently, the VA overpays $250 million in dependent benefits each year. If a Ve
 
 | KPI                                                        | Category           | Baseline | Goal   |
 |------------------------------------------------------------|--------------------|----------|--------|
-| Annual Overpayment Amount                                  | Service Completion | $250m    | -80%   |
+| Annual Overpayment Amount                                  | Service Completion | $250m    | -30%   |
 | Improved response rate to dependency verification requests | Ease of Use        |    0     |        |
 | # of VA.gov 21-0538 submissions                            | Ease of Use        |          |        |
 | % of submission failures                                   | Form Health        |    0     | <1%    |
@@ -112,8 +112,10 @@ MVP
    - If yes, they will be directed to fill out the add/remove dependents form on VA.gov (21-686c/674).
 
 Post-MVP
+- Integrate a dependent picklist to enable Veterans to remove depenents using the 0538 form flow.
 - Work with VBA to update existing paper verification letter to notify Veterans they can now verify on VA.gov. This letter is sent to Veterans every 8-years asking them to verify the dependents on their benefits. If Veterans fail to respond, their benefits will be revoked and they may have to pay the VA back.
-- Email that will be sent annually to Veterans with dependents on their benefits reminding them to verify their dependents on VA.gov. It still needs to be determind how this email will be sent given that VBMS does not have a notification management system and it's not typically in scope for VA.gov to send notification emails.
+- Work with VBA to identify other ways to communicate with Veterans about the need to verify. One possibility:
+   - Email that will be sent annually to Veterans with dependents on their benefits reminding them to verify their dependents on VA.gov.
 
 We are not:
   - Digitizing the 21-0538 form into a complete form flow
@@ -129,6 +131,7 @@ We are not:
 - [Collab Cycle Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/83353)
 - [CAIA Review Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84170)
 - [Epic - Dependency Verification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/62218)
+- [Project milestone](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1409)
 
 ### Timeline 
 - Design Intent: May 31, 2024

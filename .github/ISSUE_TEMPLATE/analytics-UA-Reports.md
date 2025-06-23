@@ -1,10 +1,12 @@
 ---
-name: "Analytics - VFS Report Inventory" 
-about: "To aid with the GA4 migration, we need to capture all reports using GA UA data" 
-title: "Reports Using GA UA Data: [Team Name]"
-labels: "analytics-insights, analytics-request, ga4-migration, analytics-insights-form"
-assignees: johnny-jesensky-adhoc
+name: Analytics - VFS Report Inventory
+about: To aid with the GA4 migration, we need to capture all reports using GA UA data
+title: 'Reports Using GA UA Data: [Team Name]'
+labels: analytics-insights, analytics-request
+assignees: ''
+
 ---
+
 # VFS Report Inventory for GA4 Migration
 
 ### What this form is for.
@@ -44,8 +46,3 @@ _Our team will follow up with you for any next steps._
 |`[Report 1 Name`] |`[URL Link]`| `[Reporting Platform]`| `[Description]`|
 |`[Report 2 Name`] |`[URL Link]`| `[Reporting Platform]`| `[Description]`|
 |`[Report 3 Name`] |`[URL Link]`| `[Reporting Platform]`| `[Description]`|
-
-
-
-
-

@@ -28,34 +28,33 @@ Testing will first be done when VA Staging is pointed to the CRM QA environment 
 
 ### Manual Test scripts 
  The following test scripts cover 50+ user scenarios that validate Ask VA's inputs, field and queue rules across Ask VA Form and Dashboard. 
-- [FORM - Manual testing scenarios/scripts](https://docs.google.com/spreadsheets/d/19lnGEeOXhsv6xX3PFaAhnaHxDdukNoJOVWBmYlhNQ4Q/edit?usp=sharing)
-- [DASHBOARD - Manual testing scenarios/scripts](https://docs.google.com/spreadsheets/d/1JojSCIbFBz1UCOnxNAfJ7ByL63JtwCPff4KsJMQFmeg/edit?usp=sharing)
+- [FORM - Manual testing scenarios/scripts](https://docs.google.com/spreadsheets/d/1u55VrMylaNxEtxDkeIGLZ00H6nQUOHWiNCnTw1zvtnY/edit?usp=sharing)
+- [DASHBOARD - Manual testing scenarios/scripts](https://docs.google.com/spreadsheets/d/1zaHVKCu9pOa0nXT8tvE4ZVO7Uzq-qaZ2h4KYtRwhfE4/edit?usp=sharing)
 
 The number and content of the scripts will be updated as Ask VA VA.gov evolves. Of these test scripts, a core set have been identified which serve as the basis of smoke and pipeline level tests:
 ##### Form - Confirming users can submit inquiries 
 
 - `2a` An Unauthenticated User, who is the Veteran, asking a question in the `Life insurance` category
 - `3a` An Authenticated User, who is the Veteran, asking a question in the `Health care` category
-- `4a` An Unauthenticated User, who is the veteran, asking a question in the `Health care` category
 - `5i` An Authenticated User, who is a business submitter, asking a question in the `Education benefits and work study` category
 
 ##### Dashboard - Validating that inquiries and responses are accessible
 Unauthenticated user
-- `1j` `2j` An Unauthenticated User, who is a submitter, checking status in the Check the status of your question question
+- `1j` An Unauthenticated User, who is a submitter, checking status in the Check the status of your question question
 Inbox page
 - `5k` An Authenticated User, who is a submitter and has no business questions, checking for responses on the inbox
 - `6k` `7k` An Authenticated User, who is a submitter and does have business questions, checking for responses on the inbox
 Question details
 - `10m` An Authenticated User, who is a submitter, checking response details
 - `11m` An Authenticated User, who is a submitter, replying to a question
-- `13m`An Unauthenticated user, replying to an inquiry response via email
+- `12n`An Unauthenticated user, replying to an inquiry response via email
 
 
 ### Integration and Automated Testing 
 
 ##### Cypress
 - [Cypress tests folder](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/ask-va/tests/e2e/fixtures/flows)
-- Cypress tests are based on the manual test scripts. The future goal is for all test scripts to be automated in Cypress and for manual testing to primarily be done for new features.
+- Cypress tests are based on the manual test scripts. 
 - Once a feature is tested, a new automated script will be written to account for new functionality.
 
 ##### Insomnia

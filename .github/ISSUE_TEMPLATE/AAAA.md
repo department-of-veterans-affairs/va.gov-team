@@ -1,8 +1,10 @@
 ---
 name: Blank Template
 about: Blank Template
-title: 
-labels: 
+title: ''
+labels: ''
 assignees: ''
 
 ---
+
+

@@ -25,7 +25,7 @@ Pages listed below
 
 [h2] Have you applied for VA health care before?
 
-[button primary] Sign in to check your application status 
+[button primary] Sign in now to save time and save your work in progress
 
 [END component blue background alert]
 
@@ -57,7 +57,7 @@ Pages listed below
 [end ul]
 
 [p] **Note:** Time spent on active-duty status for training purposes only doesn’t count toward the service requirements. 
-[Get instructions on how to apply for a discharge upgrade or correction](https://www.va.gov/discharge-upgrade-instructions/) 
+[a = https://va.gov/discharge-upgrade-instructions/introduction/ ] Get instructions on how to apply for a discharge upgrade or correction [/a].
 
 [END component additional info]
 
@@ -80,30 +80,6 @@ Pages listed below
 [end ul]
 
 
-[component additional info]
-[title] Why does the VA need this information? 
-
-[content] 
-[p] When you apply, we review this information:
-[ul]
-- Your service history
-- Your VA disability rating
-- Your income level (and the income level of your spouse or other qualified dependents)
-- Your eligibility for Medicaid, VA disability compensation, and VA pension benefits
-[end ul]
-
-
-[p] We use this information to help us decide these 3 things:
-[ul]
-- What types of VA health care benefits you're eligible for, **and**
-- How soon we enroll you in VA health care, **and**
-- How much (if anything) you’ll have to pay toward the cost of your care
-[end ul]
-
-
-[p] We give Veterans with service-connected disabilities the highest priority.
-[p] **Note:** We ask about other health insurance for billing only. Having other health insurance doesn’t affect your eligibility for VA health care.
-[END component additional info]
 
 
 [h3 class h4] 3. Start your application
@@ -158,10 +134,9 @@ Expiration date: 06/30/2024
 
 #### URL: /health-care/apply/application/id-form
 
-[h1] We need some information before you can start your application
+[h1] Before you start your application
+[p] We need some information before you can start your application. This will help us fit your application to your specific needs. Then you can fill out the VA health care application (10-10EZ).
 
-- [p] We need some information before you can start your application. This will help us fit your application to your specific needs.
-- [p] Then you can fill out the VA health care application (10-10EZ).
 
 - [p bold] Sign in and save time
 - [p] You can sign in and confirm that the information we have for you is up to date and then fill out the VA health care application. 
@@ -189,7 +164,6 @@ Expiration date: 06/30/2024
 ## Introduction Page Content Variations - ES Status
 ---
 
-[Need to update per 3/5/2024 changes]
 ### Status Codes to FAQ Blocks
 
 | Status                                                              | FAQ Block IDs                           |
@@ -248,16 +222,14 @@ Expiration date: 06/30/2024
 
 #### URL: /health-care/apply/application/veteran-information/profile-information
 
-[component progress bar]
-[h2] Step 1 of 6: Veteran Information
-[end progress bar]
+[h1] Check your personal information
 
 [p] Confirm your information before you continue.
 
-[read only block]
+[read only block - card component with gray background]
 - [p bold] Name
-- Social Security number: xxx-xx-{last 4 of SSN}
 - Date of Birth: Month day, year
+- Social Security number: xxx-xx-{last 4 of SSN}
 
 
 [button pair] [<< Back] [Continue >>]

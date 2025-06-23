@@ -1,9 +1,16 @@
 ﻿# example
-# pwsh C:\Users\vacodickss\ETL\scripts\datadog-client-v1.ps1 "C:\Users\vacodickss\ETL\1 extracted\VA.gov Data\Mobile Users" week 1
+# pwsh datadog-client-v1.ps1 "C:\Users\vacodickss\ETL\1 extracted\VA.gov Data\Mobile Users" week 1
+
+# 2/3/2025 Added support for new error type: "request_timeout(Request timeout)", "deadline_exceeded(The query timed out)"
 
 $outputPath = $args[0]
 $period = $args[1]
 $periodsBack = $args[2]
+
+
+$apiKey = "UPDATE"
+$applicationKey = "UPDATE"
+
 
 #SHORT CIRCUIT - for Domo Workbench to upload a manually updated latest file
 #Exit 0
@@ -33,7 +40,6 @@ if ($period -eq "week") {
 #$toDay = (get-date)
 
 $from = $fromDay.ToString("yyyy-MM-ddT00:00-00:00")
-$from = $fromDay.ToString("yyyy-MM-ddT00:00-00:00")
 $fromShort = $fromDay.ToString("yyyyMMdd")
 $fromSlashes = $fromDay.ToString("MM/dd/yyyy")
 $to = $toDay.ToString("yyyy-MM-ddT00:00-00:00")
@@ -56,10 +62,6 @@ $query = "service:vets-api AND @message_content:*SignInController*callback"
 
 #Write-Host $fileName
 
-
-
-$apiKey = "fixme"
-$applicationKey = "fixme"
 
 $limit = 1000
 
@@ -120,8 +122,6 @@ function Process-Response {
     }
 }
 
-
-#Read more: https://www.sharepointdiary.com/2021/02/powershell-function-parameters.html#ixzz8PdxpfzOx
 
 
 
@@ -248,7 +248,9 @@ while ($cursor) {
 
         if (($err -eq "Too many requests") -or 
             ($err -eq "resource_exhausted(RateLimited: Too many pending queries)") -or
-            ($err -eq "deadline_exceeded(Request timeout)")) {
+            ($err -eq "deadline_exceeded(Request timeout)") -or
+            ($err -eq "request_timeout(Request timeout)") -or
+            ($err -eq "deadline_exceeded(The query timed out)")) {
             Write-Host "Sleeping $rateLimitReset" -ForegroundColor DarkYellow
             $sleep = [double]"$($rateLimitReset).0"
             Start-Sleep -Seconds $sleep
@@ -316,19 +318,34 @@ Exit 0
   "email": "support@datadoghq.com"
 }
 
+{
+  "errors": [
+    "Too many requests"
+  ]
+}
 
-# sometimes concurrent with above error but also somewhat random - perhaps driven by other activity on server
 {
   "errors": [
     "resource_exhausted(RateLimited: Too many pending queries)"
   ]
 }
 
-
-# about 1.5 hours in
 {
   "errors": [
     "deadline_exceeded(Request timeout)"
   ]
 }
+
+{
+  "errors": [
+    "request_timeout(Request timeout)"
+  ]
+}
+
+{
+  "errors": [
+    "deadline_exceeded(The query timed out)"
+  ]
+}
+
 #>

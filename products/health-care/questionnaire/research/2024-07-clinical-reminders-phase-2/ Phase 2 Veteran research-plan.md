@@ -116,8 +116,8 @@ The purpose of this research is to gather feedback from Veterans on the revised 
   
 **Primary criteria**
 
-- Perigean will recruit 6 out of the 13 Veterans from Phase 1 of the Health Questionnaires, Clinical Reminders Pilot. 
-- Perigean will recruitthe remaining 6 Veterans. 
+- Perigean will recruit 6 out of the 13 Veterans that participated in the Phase 1 usability sessions of the Health Questionnaires, Clinical Reminders Pilot. 
+- Perigean will recruit 6 new Veterans for the remainder of participants. 
 - All efforts will be made to recruit a diverse sample, with participants from the following demographics: 
      - Education 
      - Geographical locations and areas 
