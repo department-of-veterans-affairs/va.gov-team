@@ -27,8 +27,8 @@ How might we statement: How might we teach Veterans to use VA.gov to find, acces
 - Profile & AuthEx CSAT scores drop
 
 ### **Measuring Success**
-
-#### **Diagnostic Metrics**
+#### 1. Increase in the amount of clicks on name drop down + associated pages. We are trying to teach users how to navigate the va.gov authenticated experience so if we see an increase in clicks, users are learning. 
+Note: Clicks on name are not currently being tracked but implementation is underway. Clicks on the associated pages started being tracked 5/30/2025 so we do not yet have a full month of data. Monthly numbers will be tracked.
 
 | Metric                                                        | Pre Launch | 30 Days Post Launch | 60 Days Post Launch | 90 Days Post Launch |
 | ------------------------------------------------------------- | ---------- | ------------------- | ------------------- | ------------------- |
@@ -36,8 +36,17 @@ How might we statement: How might we teach Veterans to use VA.gov to find, acces
 | Number of clicks on name drop down > My VA                    | TBD        |                     |                     |                     |
 | Number of clicks on name drop down > Profile                  | TBD        |                     |                     |                     |
 | Number of clicks on name drop down > My HealtheVet            | TBD        |                     |                     |                     |
-| Number of clicks on "See what benefits you can get"           | N/A        |                     |                     |                     |
-| Conversion rate on completing the Onboarding flow             | N/A        |                     |                     |                     |
+
+#### 2. Completion rate of the new onboarding flow. If users don't complete the flow they either don't find it valuable or think it burdensome in some way (interrupting them, telling them something they already know, etc.).
+| Metric                                                        | Pre Launch | 30 Days Post Launch | 60 Days Post Launch | 90 Days Post Launch |
+| ------------------------------------------------------------- | ---------- | ------------------- | ------------------- | ------------------- |
+| Completion rate on completing the Onboarding flow            | N/A        |                     |                     |                     |
+
+#### 3. No significant drop in My VA and Profile CSAT. We don't want our flow to be burdensome to users so we will be tracking CSAT closely. 
+| Metric                                                        | Pre Launch | 30 Days Post Launch | 60 Days Post Launch | 90 Days Post Launch |
+| ------------------------------------------------------------- | ---------- | ------------------- | ------------------- | ------------------- |
+| My VA CSAT                                                    | TBD        |                     |                     |                     |
+| Profile CSAT                                                  | TBD        |                     |                     |                     |
 
 ### **Launch Strategy**
 
