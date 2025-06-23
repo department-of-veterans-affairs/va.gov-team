@@ -191,7 +191,7 @@ Research sessions were conducted over Zoom during May 12-21, 2025. Sessions were
 <img src="./images/p13-MyVA-Benefit-apps-no-forms.png" width="50%" height="50%">
 </details>
 
-**Finding 6: VA forms in general had accessibility issue for screen readers and screen magnifierss**
+**Finding 6: VA forms in general had accessibility issues for screen readers and screen magnifierss**
 - Two screen reader users (VoiceOver on iOS with Safari) had **difficulty navigating while using Safari because focus kept jumping** to the top of the page or to the Safari controls below the page. p5 was unable to navigate the form and so switched to Chrome, where navigation worked normally. p4 was able to navigate the form well enough in Safari to fill it out.
   > *"A lot of the government websites are not working that great with Safari anymore, and...you need to use Google Chrome" (p5).*
 
@@ -201,7 +201,7 @@ Research sessions were conducted over Zoom during May 12-21, 2025. Sessions were
 </details>
 
 - Many people navigate through forms quickly and miss things, regardless of whether they're using assistive tech (AT). Below is a summary of AT **navigation strategies that we observed in this study**, some of which were used to go through the new form slowly and carefully, while others were short-cuts that sometimes caused problems.
-  - **Screen reader users (desktop and mobile):** 
+  - **Navigation strategies for screen reader users (desktop and mobile):** 
     - (On a computer) Arrow through the pages from the very top (1 user) or from the H1 (1 user) instead of using Forms mode.
        > *"If you just have forms mode on...you may not hear the instructions for what it wanted...for that field" (p1).*
 
@@ -215,15 +215,15 @@ Research sessions were conducted over Zoom during May 12-21, 2025. Sessions were
     - Typed "B" for buttons to get to the *Finish later* button.
        > *"Now I know that those buttons are down there, it just got me there a lot faster" (p1).*
   
-  - **Screen magnifier users (desktop)**
+  - **Navigation strategies for screen magnifier users (desktop):**
     - Saw very little of the page at once, not only vertically but also horizontally. The *Finish later* and *Continue* buttons were on separate lines with white space on the sides because zooming and magnifying resized the computer's viewport to mobile layout and made everything appear larger.  
     - Moved up and down with arrow keys on keyboard with his left hand. When he wanted to continue reading across the page, he moved the mouse sideways with his right hand, but *not* for every line. Skimmed down the page while not all the words across are in his view, and he assumed what it said--often accurately but sometimes not.
 
 
-**Finding 7: The Request Personal Records form has some accessibility issues**
+**Finding 7: The Request Personal Records form had many accessibility issues**
 
 - Two screen reader users (1 using JAWS and desktop, and 1 using VoiceOver on mobile) had difficulty entering their date of birth on the phone.
-  - The desktop screen reader user tried to type date of birth into the date of birth month field because he stopped the screen reader before it announced that the field was a popup.
+  - The desktop screen reader user tried to type a numeric date of birth into the dropdown birth month field because he stopped the screen reader before it announced that the field was a popup.
     > *"If I tab to someplace normally that wants my birth date, I just type in the whole thing. But here it wants to go month, and then it wants to go to the day, and then it wants to go to the year, which is 3 separate fields. I would have known that if I would have just listened...It didn't tell me to put in the whole thing...I listen to this thing [screen reader] so much--I just tend not to listen any more than I have to" (p1).*
   - The mobile screen reader user (using VoiceOver and Safari) had 3 different problems:
 
@@ -236,33 +236,39 @@ Research sessions were conducted over Zoom during May 12-21, 2025. Sessions were
        > *"It took me back up to the beginning of the page automatically when I hit Done...I had to swipe right to get down to where I was at" (p4).*
 
 - Two screen reader users (both JAWS on desktop) said that they were **hearing every records checkbox option twice while using the arrow keys** to navigate. One of these users also said that the names of the mailing address fields were announced twice. It appears that the fields announce the label, and then the label and field are announced again with "edit". 
-  > *"It's reading everything twice...I just went to the radio button that little check box there. It tells me what it is, and then if I arrow down again, see it, then it tells us. Tt's almost like it's got 2 labels there (p1)".*
+  > *"It's reading everything twice...I just went to the radio button that little check box there. It tells me what it is, and then if I arrow down again, see it, then it tells us. It's almost like it's got 2 labels there" (p1).*
 
   > *"There's a lot of information duplicated everywhere...Everywhere there's an entry, there's two. The commands are spoken twice. That's a programming bug...There's a lot of redundancy in the talking...I don't see this on all the VA websites" (p3).*
 
-- One screen reader user (VoiceOver on iOS) **didn't know that the citizenship question was a radio button** when they tapped on it, but they figured it out. Riley tested and found that it's announced as a checkbox (bug) and radio button on her iPhone, but announced as a radio button on desktop. After she updated her phone, it announced as only a radio button, so it was an iOS issue, not ours. 
-  > *"It doesn't let you know that there's a radio button before that, so it's sometimes confusing...In our world of using accessibility, we can only wish for so much...So it works. Would be nice if as soon as I clicked on that, it said 'radio button' and then [when I] swiped right, it would read what that was and then go down" (p5).*
+- One screen reader user (VoiceOver on iOS) **didn't know that the citizenship question was a radio button** when they tapped on it, but they figured it out. Riley Orr tested and found that it's announced as a checkbox (bug) and radio button on her iPhone, but announced as a radio button on desktop. After she updated her phone, it announced as only a radio button, so it maybe be an iOS issue, not ours. 
+  > *"It doesn't let you know that there's a radio button before that, so it's sometimes confusing...In our world of using accessibility, we can only wish for so much...it works. Would be nice if as soon as I clicked on that, it said 'radio button' and then [when I] swiped right, it would read what that was and then go down" (p5).*
 
 - One participant using a screen magnifier (Microsoft Zoom Magnification at least 300% on a Windows computer with Edge browser) checked "I live on a United States military base outside of the U.S." and then didn't understand why he being asked for APO/FPO/DPO and got stuck. He had seen "I live on a United States" and thought that applied to him. He had no idea that the rest of the statement said "military base" because that was not in his view and he didn't scroll to the right. 
+<details><summary>Click to see a screenshot of the issue.</summary>
+<img src="./images/p13-military-base-checkbox-checked.png" width="50%" height="50%">
+</details>
 
 - One screen reader user (JAWS on desktop) reported that the State/Province/Region and Postal code fields said "has pop up", even though they're both text fields. 
-  > *"It is saying 'pop up', which usually means it's gonna be a list. So the first thing I try to do is hit 'M' to get me down to to 'Missouri'. But it's not really a pop up because it actually wants me to type something in there...As soon as I hit the first letter, it typed it in instead of going to the M's." (p1).*
+  > *"It is saying 'pop up', which usually means it's gonna be a list. So the first thing I try to do is hit 'M' to get me down to 'Missouri'. But it's not really a pop up because it actually wants me to type something in there...As soon as I hit the first letter, it typed it in instead of going to the M's" (p1).*
 
 - One screen reader user (JAWS on desktop) said he heard the affirmation statements on the Review/Submit page read four times. Here's what he heard:
      1. "Statement of truth. I confirm that the identifying information in this form is accurate and has been represented correctly."
      1. "I have read and accept the link privacy policy opens in a new tab"
      1. "Your full name star required" -- *While focus is on the field name*
-     1. "Your full name star required. Statement of truth. I confirm that the identifying information in this form is accurate and has been represented correctly." -- **Repeated while focus is in the name field**
-     1. "Statement of truth. I confirm that the identifying information in this form is accurate and has been represented correctly." -- **Repeated again while focus is in the name field** 
-     1. "I certify the information above is correct and true to the best of my knowledge and belief."  -- **Read while focus is in the name field** 
-     1. "I certify the information above is correct and true to the best of my knowledge and belief." -- *Read again when focus is on this line*
+     1. "Your full name star required. Statement of truth. I confirm that the identifying information in this form is accurate and has been represented correctly." -- ***Repeated** while focus is in the name field*
+     1. "Statement of truth. I confirm that the identifying information in this form is accurate and has been represented correctly." -- ***Repeated again** while focus is in the name field* 
+     1. "I certify the information above is correct and true to the best of my knowledge and belief."  -- *Read while focus is in the name field*
+     1. "I certify the information above is correct and true to the best of my knowledge and belief." -- ***Repeated again** when focus is on this line*
         > *"I heard it about 4 times there...I'm not sure why they put it both before and after my name...That's the kind of thing that causes me to rush through the repeats and maybe miss something. If something is only present once, then I have a much better chance of paying attention to it" (p3).*
-        
+<details><summary>Click to see a screenshot of the issue.</summary>
+<img src="./images/form-pg9-statement-of-truth.png" width="50%" height="50%">
+</details>
         See [screenshot of the bottom of the Review/Submit page](URL).
+
 - Another screen reader user (JAWS on desktop) didn't expect the checkbox to be announced _after_ the "I certify..." line instead of before it.
     > *"It says, 'I certify'. Usually when something starts out with the words 'I certify', there's a checkbox there...You're telling me and then you're given my name, and then you put the actual box underneath of it, which is not typically what I'm used to...I had to listen to the whole thing to find out if that was a checkbox or not...cause it wouldn't have told me until the end" (p1).*
 
-**Finding X: Most participants who encountered errors understood how to resolve them, but there were some exceptions** 
+**Finding 8: Most participants who encountered form errors understood how to resolve them, but there were some exceptions** 
 1. 9 of 11 participants encountered errors while they were filling out the form, and most of them understood what they meant and what they needed to do to fix them.
    > *"Tells me where I screwed up" (p13).*
    > *"That's awesome...I like that. It caught it" (p9).*
