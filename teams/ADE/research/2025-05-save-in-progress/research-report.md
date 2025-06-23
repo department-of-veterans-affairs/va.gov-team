@@ -322,6 +322,7 @@ There are a number of findings that were outside the scope of the research goals
          > *"If you get the proper treatment, people don’t need to be stigmatized...They [military] found out that I had PTSD...They blackballed me...They pulled me off the range...You don't want that past medical history to come and haunt you and actually ruin your career" (p13).*
      1. One participant accepted an autofill suggestion from their phone to fill in the postal code with a valid value, but it resulted in an error ("Enter a ZIP code"). This is a known issue with autofilling; there's a coding workaround in [this ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/2668).
      1. On the intro page, seeing the "Freedom of Information Act (FOIA)" right underneath the name of the form on the intro page was confusing because it was unclear what the connection is. They expected to see something about the specific form, such as its name, which was at the end of that line. 
+     
 <details><summary>Click to see a screenshot of the top of the intro page.</summary>
 <img src="./images/intro-pg-unauth-top.png" width="50%" height="50%">
 </details>
