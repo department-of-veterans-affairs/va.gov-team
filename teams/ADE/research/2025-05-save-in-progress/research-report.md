@@ -126,7 +126,7 @@ Research sessions were conducted over Zoom during May 12-21, 2025. Sessions were
 **Finding 1: Most participants (9 of 11) didn't know that their information was being saved automatically with every edit.**
 - 5 of 11 participants said that they wanted their information to be saved automatically with every edit.
   > *"I'm hoping it's saving constantly like [Microsoft] Word does every so many seconds" (p5)*.
-- Most participants hoped or assumed that saving would happen after they clicked the "Finish later" (9 participants) or "Continue" button (7 participants). 
+- Most participants hoped or assumed that saving would happen after they clicked the *Finish later* (9 participants) or *Continue* button (7 participants). 
   > *"I don't remember reading anything that said your information is saved as you go, but that's usually what 'Continue' does" (p1)*.
 
   > "*'Finish later' is like a contract that says this stuff's gonna be here when I come back" (p1).*
@@ -149,13 +149,13 @@ Research sessions were conducted over Zoom during May 12-21, 2025. Sessions were
   > *"My brain kind of skipped over what I read and went to the more important stuff...I've filled out a decent amount of these [online forms], and...because I'm used to it, I just go straight to answering questions" (p11).*
 
 - 3 participants who read the alert didn't understand it as saving every edit automatically. They thought that it saved only when you clicked *Finish later* or *Continue*. 
-  > *"So every time you put something in and you hit *Continue* or *Finish later*, it will save it for you, so you can pick up right where you left off instead" (p9).*
-- 1 participant thought he understood the informational alert but was thrown off by the *Finish later* button. He also said that the wording "We'll save your request on every change" is curious, and the *Finish later" button is confusing, too:
+  > *"So every time you put something in and you hit 'Continue' or 'Finish later', it will save it for you, so you can pick up right where you left off instead" (p9).*
+- 1 participant thought he understood the informational alert but was thrown off by the *Finish later* button. He also said that the wording "We'll save your request on every change" is curious, and the *Finish later* button is confusing, too:
   > *"'On every change' sounds like...only every time I go back and make a change to what I've already input" (p12).*
 
    > *"Maybe...if the button doesn't say 'Finish later'...something like 'Save and close', because what it's doing is actually closing the form...because it's already being saved as you go along...There's the other threat...does that mean I'm just canceling this form? So having 'save', there is the reassurance that this is gonna save the last thing that I input. And then it's gonna close the form" (p12).*
 
-- The alert on the first page of the form was not accessible to some screen reader and screen magnifier users. Two screen reader users (1 on desktop, 1 on mobile) never heard the save alert on the first page of the form because it's above the H1, which is where their focus starts when the page is loaded. And participants were focused on completing the form and usually didn't scroll up to explore. One screen magnifier user didn't notice the alert because their magnified area was focused on the fields to fill out and wasn't large enough to also see higher up on the screen.
+- The alert on the first page of the form was not accessible to some screen reader and screen magnifier users. Two screen reader users (1 on desktop, 1 on mobile) never heard the save alert on the first page of the form because it's above the H1, which is where their focus starts when the page is loaded. Plus, participants were focused on completing the form and generally didn't scroll up to explore. One screen magnifier user didn't notice the alert because their magnified area was focused on the fields to fill out and wasn't large enough to also see higher up on the screen.
 
   > *"It took me directly to the question, so I just answered the question" (p5).*  
   > *[Everything in the header] "is garbage that will be on every page that I am not going to listen to. I will go to the top of the page and hit 'H'. If the page is laid out right, it will have an H1 and tell me where to start" (p1).*
@@ -167,12 +167,12 @@ Research sessions were conducted over Zoom during May 12-21, 2025. Sessions were
 
   > *"Exactly where I left off" (p9).*
 - The "Your records request has been saved" message appears to be well positioned because ALL participants read it, unlike the two informational alerts. It appears at a time that users have intentionally stopped filling out the form and are wondering whether their work will be saved.
-- For the long break in filling out the form during the research sessions, 9 of 10 participants used the *Finish later* button--at least some because they were worried that their session might timeout and they would have to start over. One participant just left their browser open, which would have timed out if 30 minutes had passed but we didn't stop for that long during the research sessions. For the short break, 4 of 11 participants used *Finish later*, and the other 7 just left the browser open.
-  > *"So maybe I hit finish later, because I don't want to start all over again...I think it's gonna save it. And then whenever I log back in, it should take me to the same spot" (p8).*
+- For the long break in filling out the form during the research sessions, 9 of 10 participants used the *Finish later* button--at least some because they were worried that their session might time out and they would have to start over. One participant just left their browser open, which would have timed out if 30 minutes had passed, but we didn't stop for that long during the research sessions. For the short break, 4 of 11 participants used *Finish later*, and the other 7 just left the browser open.
+  > *"So maybe I hit 'Finish later' because I don't want to start all over again...I think it's gonna save it. And then whenever I log back in, it should take me to the same spot" (p8).*
 - 4 of 11 participants were unsure about what the *Finish later* button would do. Does it mean that you will quit for a while? Or skip the current page and proceed to the next page? Or save my current place in the form and the information I entered? 
    > *"Finish later...does that mean I can walk away from it? Usually it means I'm quitting for awhile, but I don't know if it's just letting me skip this page...Maybe 'Stop and return later'?" (p3).*
 - One participant clicked *Finish later* accidentally and thought he was going to lose information entered, but then noticed that the form saved his work. He then assumed that his information was being constantly saved (not only when you click *Finish later*).
-- A different participant asked why *Finish later* is needed when we already said that it's saving everything. This was the only (CHECK THIS!) participant who learned from an information alert that we are saving all the time and remembered that later.
+- A different participant asked why *Finish later* is needed when we already said that it's saving everything. This was the only participant who learned from an information alert that we are saving all the time and remembered that later.
 
 **Finding X: All participants were able to resume filling out the form after taking a short break and a long break**.
 - Participants got interrupted and resumed filling out the form twice during during the sessions.
