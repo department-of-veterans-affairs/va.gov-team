@@ -1,7 +1,7 @@
 ---
 name: ARF QA Testing Issue
 about: Full QA Testing before a feature release
-title: '[ Feature ] - QA Testing'
+title: '[ Feature ] - Conduct full QA testing'
 labels: accredited-rep-facing, engineering, product
 assignees: ''
 type: Task
