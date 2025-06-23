@@ -1,4 +1,4 @@
-# Example of completed Engineering/Security checklist
+# Example of completed Engineering/Security checklist 
 
 ## Instructions
 
@@ -39,7 +39,7 @@ Some of the items below may not apply to your work--that's okay.  You may not be
 - Data storage
     + Describe new or modified databases, tables or columns
     + Describe indexes and constraints
-    + Identify PII and PHI and where and how it will be stored, processed, expired and deleted
+    + Identify PII and PHI and where and how it will be stored, processed, expired and deleted 
 - Libraries and dependencies
     + List new or updated dependencies
 - Metrics, logging, observability, alerting
@@ -72,4 +72,4 @@ Name the file in the following format:
 
 Team and application should match your Collab Cycle kick-off ticket (so we know who you are). Date should be supplied in the format MMDDYYYY.
 
-Once you've dropped this checklist into this folder, please update your Collab Cycle ticket with the location as well as a link to your user data flow document.
+Once you've dropped this checklist into this folder, please update your Collab Cycle ticket with the location as well as a link to your user data flow document. 
