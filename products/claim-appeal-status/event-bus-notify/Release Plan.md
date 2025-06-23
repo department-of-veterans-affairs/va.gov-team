@@ -128,7 +128,8 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Results
 
-- Number of unique users: 2105
+- Ran on 6/18 from 8am - 4pm ET and again from 6/20 @ 1:30pm ET through 6/22 8am ET
+- Number of unique users: 3702
 - Metrics at this stage (per your "success criteria"):
     - [x] DataDog errors < 5%
     - [ ] No information yet on click through rate
