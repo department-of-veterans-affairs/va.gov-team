@@ -326,7 +326,7 @@ There are a number of findings that were outside the scope of the research goals
      1. On the intro page, seeing the "Freedom of Information Act (FOIA)" right underneath the name of the form on the intro page was confusing because it was unclear what the connection is. They expected to see something about the specific form, such as its name, which was at the end of that line. 
      
 <details><summary>Click to see a screenshot of the top of the intro page.</summary>
-<img src="./images/Intro-pg-unauth-top.png" width="50%" height="50%">
+<img src="./images/Intro-pg-unauth-top-h1.png" width="50%" height="50%">
 </details>
 
      1. One participant said that after they sign in, their name and address should be prefilled in the form. Then they could correct it if needed.
