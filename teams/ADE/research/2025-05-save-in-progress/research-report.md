@@ -221,6 +221,9 @@ Research sessions were conducted over Zoom during May 12-21, 2025. Sessions were
 
 
 **Finding 7: The Request Personal Records form had many accessibility issues**
+- Three participants (2 of whom were using screen readers) said that the signed-in version of the form intro page looks the same as the non-signed in version, except at the very bottom, which is disorienting and repetitive. The screen reader users had to listen to the entire intro page being read twice--once before signing in, and then again after signing in. One participant suggested that the "Sign in to start your request" link could bring you directly to the first question in the form (rather than to the authenticated version of the form intro page). 
+
+- A screen reader user expected to be able to click on one of the record types listed on the intro page, but they weren't clickable. 
 
 - Two screen reader users (1 using JAWS and desktop, and 1 using VoiceOver on mobile) had difficulty entering their date of birth on the phone.
   - The desktop screen reader user tried to type a numeric date of birth into the dropdown birth month field because he stopped the screen reader before it announced that the field was a popup.
@@ -305,29 +308,28 @@ Research sessions were conducted over Zoom during May 12-21, 2025. Sessions were
 
 
 ## Additional Insights
-*Include insights that do not represent patterns but are still valuable.*  
-> **TIP:** These could be powerful user comments or unexpected issues worth noting
+There are a number of findings that were outside the scope of the research goals, and they are listed below. 
 
-1. Two screen reader users (both VoiceOver on iOS) were frustrated at not being able to use dictation and had difficulty typing into the text fields. The dictation key on the phone keyboard was grayed out, presumably because Zoom disabled it during the meeting. 
+1. Two screen reader users (both VoiceOver on iOS) were **frustrated at not being able to use dictation** and had difficulty typing into the text fields. The dictation key on the phone keyboard was grayed out, presumably because Zoom disabled it during the meeting. 
    > *"Wish I could talk it, but that's OK" (p4).*
 
-   > *"So a lot of times I just dictate everything in, and then I check it to make sure it's right. And if it's not, then I correct it" (p5).*
-2. **Usability issues were discovered with the Request Personal Records form intro page**. Each issue below was encountered by one research participant, unless otherwise noted.
-
-     1. (3 participants, 2 using screen readers) The signed-in version of the form intro page looks the same as the non-signed in version, except at the very bottom, which is disorienting and repetitive. The screen reader users had to listen to the entire intro page being read twice. One participant suggested that the "Sign in to start your request" link could bring you directly to the first question in the form (rather than to the authenticated version of the form intro page). 
-     1. Seeing "Freedom of Information Act (FOIA)" right underneath the name of the form on the intro page was confusing because it's unclear what the connection is. They expected to see something about the specific form, such as its name.
-     1. A screen reader user expected to be able to click on one of the record types listed on the intro page, but they weren't clickable. 
+   > *"A lot of times I just dictate everything in, and then I check it to make sure it's right. And if it's not, then I correct it" (p5).*
 
 1. **Usability issues were discovered with the Request Personal Records form**. Each issue below was encountered by one research participant, unless otherwise noted.
      1. Four participants didn't know what a "VA file number" was and why you might need it. One of them mentioned that there's no helper text for it, and another one didn't notice at first that you could continue without entering it.
      1. Three participants were confused by the "VA regional office" field so they skipped it. One didn't know whether to enter their regional office because they go to a clinic in a different region, and whether it should be a clinic or a hospital. 
-    1. Two participants were curious about the ability to request your military records (including DD214) through the VA. One of them had military records unable to be accessed thru VA, and had needed to provide a paper copy that helped him to transition out and apply for medical benefits with the VA. The other participant was very concerned about privacy because he thought that VA isn't supposed to know about some things from the military, and the military isn't supposed to know about some things from the VA. He told a story about wanting to keep his VA treatment for PTSD off his military records so it wouldn't change his assignments.
+    1. Two participants were curious about the ability to request your military records (including DD214) through the VA. One of them had military records unable to be accessed thru VA, and had needed to provide a paper copy that helped him to transition out and apply for medical benefits with the VA. The other participant was very concerned about privacy because he thought that VA wasn't supposed to know about some things from the military, and the military isn't supposed to know about some things from the VA. He told a story about wanting to keep his VA treatment for PTSD off his military records so it wouldn't change his assignments.
          > *"If you get the proper treatment, people don’t need to be stigmatized...They [military] found out that I had PTSD...They blackballed me...They pulled me off the range...You don't want that past medical history to come and haunt you and actually ruin your career" (p13).*
      1. One participant accepted an autofill suggestion from their phone to fill in the postal code with a valid value, but it resulted in an error ("Enter a ZIP code"). This is a known issue with autofilling; there's a coding workaround in [this ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/2668).
+     1. On the intro page, seeing the "Freedom of Information Act (FOIA)" right underneath the name of the form on the intro page was confusing because it was unclear what the connection is. They expected to see something about the specific form, such as its name, which was at the end of that line. 
+<details><summary>Click to see a screenshot of the top of the intro page.</summary>
+<img src="./images/intro-pg-auth-top.png" width="50%" height="50%">
+</details>
+
      1. After the Veteran has logged in, one participant said that their name and address should be prefilled. Then they could correct it if needed.
         > *"I'm looking for the least amount of work I have to do every single time" (p10).*
 1. One participant who uses a screen reader on a phone said that they had a lot of difficulty signing in, making a strong password and remembering it, creating a passkey, setting up two-factor authentication, and getting logged out with timeout. A different participant wished that they could sign in with a fingerprint, didn't get logged out, and had a "remember this device" option so you wouldn't have to log in again.
-   > *"First I had to tangle up with login.gov because now they want you to. They want to do a video of your face and...that's very difficult for people that have limited vision or no vision...So by the time you get there you're pretty frustrated (p5).*
+   > *"First I had to tangle up with login.gov because now they want you to. They want to do a video of your face and...that's very difficult for people that have limited vision or no vision...So by the time you get there, you're pretty frustrated (p5).*
 
     
 
