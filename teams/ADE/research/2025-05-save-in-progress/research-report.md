@@ -331,8 +331,6 @@ There are a number of findings that were outside the scope of the research goals
 1. One participant who uses a screen reader on a phone said that they had a lot of difficulty signing in, making a strong password and remembering it, creating a passkey, setting up two-factor authentication, and getting logged out with timeout. A different participant wished that they could sign in with a fingerprint, didn't get logged out, and had a "remember this device" option so you wouldn't have to log in again.
    > *"First I had to tangle up with login.gov because now they want you to. They want to do a video of your face and...that's very difficult for people that have limited vision or no vision...So by the time you get there, you're pretty frustrated (p5).*
 
-    
-
 ## Recommendations
 ***MAYBE ORGANIZE BY GROUPING TOGETHER or LABELING types of a11y issues: incorrect announcing, redundant announcing, misinterpretation, focus issues? Do this for findings and also for recommendations b/c incorrect announcing and focus issues are more important than redundant announcing***
 
