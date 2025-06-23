@@ -326,6 +326,12 @@ There are a number of findings that were outside the scope of the research goals
 <img src="./images/intro-pg-unauth-top.png" width="50%" height="50%">
 </details>
 
+<details><summary>Click to see a screenshot of the issue.</summary>
+<img src="./images/p13-MyVA-Benefit-apps-no-forms.png" width="50%" height="50%">
+</details>
+
+
+
      1. After the Veteran has logged in, one participant said that their name and address should be prefilled. Then they could correct it if needed.
         > *"I'm looking for the least amount of work I have to do every single time" (p10).*
 1. One participant who uses a screen reader on a phone said that they had a lot of difficulty signing in, making a strong password and remembering it, creating a passkey, setting up two-factor authentication, and getting logged out with timeout. A different participant wished that they could sign in with a fingerprint, didn't get logged out, and had a "remember this device" option so you wouldn't have to log in again.
