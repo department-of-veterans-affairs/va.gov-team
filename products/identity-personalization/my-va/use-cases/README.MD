@@ -19,9 +19,10 @@ Updated to reflect My VA 3.0 Phase 1 use cases.
 - Removed for My VA 3.0 Phase 1 | [Education and training use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/education-and-training-use-cases)
 
 ## Edge Cases
+Edge cases specific to each section are captured in their individual sections linked above.
 
 ### Validation
-This feature has no page level validation use cases. Validations per section are under each section.
+This feature has no page level validation use cases.
 
 ### Flags
 
