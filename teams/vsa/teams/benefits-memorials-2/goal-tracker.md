@@ -6,7 +6,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 
 ---
 
-##DRAFT Quarterly Priorities for FY25Q4 (July, August, September 2025)  
+## DRAFT Quarterly Priorities for FY25Q4 (July, August, September 2025)  
 *Quarter Sprints include 12, 13, 14, 15, 16, 17, 18*
 <details>
     
