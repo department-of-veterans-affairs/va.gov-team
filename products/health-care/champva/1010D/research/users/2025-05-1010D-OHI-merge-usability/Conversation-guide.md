@@ -38,7 +38,7 @@
 Thanks for joining us today! My name is **[NAME]** and **[NOTETAKER NAME]** is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
-Today we’re going to talk about VA Form 10-10d to apply for CHAMPVA benefits (the Civilian Health and Medical Program of the Department of Veterans Affairs). 
+Today we’re going to talk about VA Form 10-10D to apply for Civilian Health and Medical Program of the Department of Veterans Affairs benefits, otherwise known as CHAMPVA. CHAMPVA is a cost-sharing program for spouses and children of Veterans with disabilities who don’t qualify for Tricare.
 
 Before we start, I have a few things that I want to go over with you:
 
@@ -100,7 +100,7 @@ Before we look at the website, let’s start with a few warm-up questions.
 
 ### For all participants
 
-1. Have you ever applied for the CHAMPVA program? (A cost-sharing program for spouses and children of Veterans with disabilities who don’t qualify for Tricare)
+1. Have you ever applied for the CHAMPVA program? 
   * *[IF YES:]*
     * Did anyone, such as a VSO or family member/friend, help you fill out the application?
     * Are you or anyone else in your household currently enrolled in the CHAMPVA program?
@@ -171,7 +171,11 @@ Great! I'm pasting the link to the site in the chat. You can find that in the ro
 
 ## First Task: [Form Intro Page] - 5 minutes
 
-Before you start filling out the form, this is our testing site so you don't have to worry about the information that you enter going anywhere. Nothing you click on in this form will have any bearing on your benefits. As we go through the form today, feel free to use fake information for sensitive questions, such as Social Security Numbers, if you don't want to use your real information. You may be asked to upload some documents; those won't be submitted. I can provide a sample PDF for you to use, if you don't have any files you feel comfortable using. Do you have any questions?
+Before you start filling out the form, a few things to be aware of:
+- This is our testing site so you don't have to worry about the information that you enter going anywhere. Nothing you click on in this form will have any bearing on your benefits.
+- As we go through the form today, feel free to use fake information for sensitive questions, such as Social Security Numbers, if you don't want to use your real information.
+- You may be asked to upload some documents; as we're not submitting the form and this isn't attached to your benefits, nothing you upload there will be sent to the VA. When we get to the screens that ask for a file to upload, you can upload something random from your desktop, or I can provide a sample PDF for you to use. If you don't know yet, I'll ask you what you'd like to do when the time comes. 
+- Do you have any questions?
 
 <mark>Wait for participant answer.</mark>
 
@@ -180,10 +184,11 @@ Without clicking on anything. I’d like you to take a look at the information o
 - Do you know if you’re on the right page to apply for CHAMPVA benefits? How do you know?
 - What does "VA Form 10-10D EXTENDED" mean to you? How about "10-7959c"?
 - In your mind, why would the application for CHAMPVA form include Form 10-7959c?
+- - If you were on VA.gov filling out this form for yourself/your spouse/your dependents, what research would you do before applying and completing a form like this?
 - Do you know how to check your eligibility for CHAMPVA benefits for you/your spouse/your dependent children?
 - What information do you think you’d need to fill out this application for you/your spouse/your dependent children?
 - Do you have all that information on hand, or would you need to pause to find it if you were really applying for CHAMPVA benefits today?
-- Without clicking anything, do you know how to start this form? Can you show me?
+- Without clicking anything, do you know how to start this form without a VA.gov account? Can you show me?
 
 ### After completing the task: **Participant rating:** 
 
@@ -197,7 +202,9 @@ Without clicking on anything. I’d like you to take a look at the information o
 
 ## Second Task: [Sponsor and Applicant Loops] - 10 minutes
 
-- Now I'd like you to start the form as if you were applying for [yourself/your spouse] and one other family member. Some things to note:
+Now I'd like you to start the form as if you were applying for [yourself/your spouse] and one other family member [like a dependent child]. I'll let you know when to pause to ask some questions, but to help orient you, you're going to complete sections 1-3 of the form.
+
+- As a reminder:
  - This is our testing site so you don't have to worry about the information that you enter going anywhere. Feel free to use fake information for sensitive questions such as your social security number or birth date that you don't want to share.
  - As you go through the form, please remember to think out loud. We want to hear any reactions you have as you're experiencing them.
 
@@ -216,12 +223,12 @@ Without clicking on anything. I’d like you to take a look at the information o
 
 - Before starting this section, I'd like you to take a look at the page and let me know if anything stands out to you.
 - What is this section of the form asking for?
-- Recalling the information you saw on the first page, why is the form asking for this information?
+- Thinking back to the information you saw on the first page, why is the form asking for this information?
 - If you were filling out this application for CHAMPVA benefits on VA.gov today, would you need to stop and collect more documents?
 
 Thank you. 
 
-- For the purposes of today's study, I'd like you to imagine [you/your spouse] and family member both have Medicare and private health insurance. Go ahead and fill out Medicare and private health insurance information for [yourself/your spouse] and one other family member, and remember to think out loud as you go through the pages.
+For the purposes of today's study, I'd like you to imagine [you/your spouse] and family member both have Medicare and private health insurance. Go ahead and fill out Medicare and private health insurance information for both [yourself/your spouse] and one other family member [such as a dependent child]. When you have finished adding Medicare and health insurance plans for [yourself/your spouse] and another family member, we'll stop before finishing the form.
 
 ### After completing the task: **Questions and Participant rating:** 
 - On a scale of 1-5 (with 1 being very hard and 5 being very easy) - how difficult or easy was it to complete this section of the form? Why did you give it that rating?
