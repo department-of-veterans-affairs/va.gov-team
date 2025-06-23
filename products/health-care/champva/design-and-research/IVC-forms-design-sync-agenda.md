@@ -1,5 +1,51 @@
 # Running Design and Research Agenda
 
+## June 23 2025
+Attendees: Renata Keck, Rachel Pope, Amanda Klausmeier, Premal Shah, Mike Mooney
+
+### Agenda
+* UX Roadmap
+
+### Roadmap
+- Reviewed tickets currently in progress and upcoming for this sprint
+- **Usability testing**
+    - Pilot sessions ongoing with internal users
+        - Non-AT veteran user
+        - AT users are ADE team members
+    - Slack canvas created for observation signups
+        - No dates yet from Perigean
+- **Claims resubmission testing**
+    - Want to test both existing flow and resubmission flow, with file verification if possible
+        - Amanda has concerns about fitting it all into one session
+        - Rachel working on research plan; can review once done to see if it’s possible
+- **Desk research on claims correspondence**
+    - New ticket added
+    - Amanda has already started gathering info
+        - VHA doesn’t really handle claims, so no examples
+        - Travel pay/benefits may have some correspondence 
+        - Mostly focused on status tools (claims status and application status) to create tool for CHAMPVA
+        - Premal asks if we can add correspondence to the scope since the current correspondence is not ideal
+    - Amanda to prioritize in terms of work for the team
+    - Want to highlight areas of improvement needed
+    - Still doesn’t seem clear when resubmission vs. reopen
+        - Discretion of claims reviewer
+        - Complicated by bulk submissions by users
+    - We can ask questions to expose process issues during our stakeholder meetings, but not the right place to push back on theprocess
+        - Use info to summarize needed improvements
+        - Good time surface issues with upper management
+    - EOB lack of detail
+        - New system allows for less detail than the old system
+        - Technical limitations may be part of the problem
+- **Meetings this week**
+    - Nothing for CHAMPVA applications team
+    - Duty to assist for CHAMPVA Claims
+        - Seems like post-MVP work
+        - With digital flow, we can probably provide a phone number instead of flagging it in the system
+            - Find out if call center can route the call
+        - Premal doesn’t want to ask stakeholder about this now
+        - Can investigate phone number outside of call
+    - Both meetings will be canceled
+
 ## June 16 2025
 **Attendees:** Jamie Fiore, Renata Keck, Rachel Pope, Amanda Klausmeier, Premal Shah, Mike Mooney
 [Meeting recording](https://teams.microsoft.com/l/meetingrecap?driveId=b%218YiioFY8gEqk6i9mCfRUoeXkny303eBMgVXL-YDMyqGyiy8pYOHqR7Zt8HCfSggF&driveItemId=01ZEHPKQGAKUKRK7CASNEKGDKWU6KSX74A&sitePath=https%3A%2F%2Fdvagov-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fjamie_fiore_va_gov%2FEcBVFRV8QJNIow1Wp5Ur_4ABZQ5vtC6Jmn9FfvFnz6gQ8Q&fileUrl=https%3A%2F%2Fdvagov-my.sharepoint.com%2Fpersonal%2Fjamie_fiore_va_gov%2FDocuments%2FRecordings%2FIVC%2520Forms%2520Design%2520UX%2520Sync-20250616_120839-Meeting%2520Recording.mp4%3Fweb%3D1&iCalUid=040000008200E00074C5B7101A82E00807E90610103E99EBF068DB01000000000000000010000000E6207A803FE5074786ED1AF485FF8A23&masterICalUid=040000008200E00074C5B7101A82E00800000000103E99EBF068DB01000000000000000010000000E6207A803FE5074786ED1AF485FF8A23&threadId=19%3Ameeting_MTYzMGM3MDEtNGEwZi00OGNjLTk0YjItNGEwNDc2NWVlYmI2%40thread.v2&organizerId=f2e26ccf-af5a-40c4-aa60-c21565c97ce7&tenantId=e95f1b23-abaf-45ee-821d-b7ab251ab3bf&callId=096670ae-7353-4965-873d-c19faf202625&threadType=Meeting&meetingType=Recurring&subType=RecapSharingLink_RecapCore)
