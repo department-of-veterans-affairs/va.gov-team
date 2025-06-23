@@ -174,17 +174,15 @@ Research sessions were conducted over Zoom during May 12-21, 2025. Sessions were
 - One participant (screen magnifier on desktop) clicked *Finish later* accidentally and thought he was going to lose information entered, but then noticed that the form saved his work. He then assumed that his information was being constantly saved (not only when you click *Finish later*). This was the ONLY participant who thought correctly that we're saving form data *all the time*, and it wasn't from seeing either information alert.
 - At the end of the session when the moderator showed a different participant (screen magnifier on desktop) the informational alert at the top of the first page of the form, he asked why *Finish later* is needed when we already said that it's saving everything. 
 
-**Finding X: All participants were able to resume filling out the form after taking a short break and a long break**.
-- Participants got interrupted and resumed filling out the form twice during during the sessions.
+**Finding 4: All participants were able to resume filling out the form after taking a short break and a long break**.
+- Participants got interrupted twice by the moderator, and all were able to resume filling out the form during the sessions.
 - Most participants (9 of 11) clicked on the *Continue your request* button in the informational alert displayed after clicking *Finish later*.
 - 3 participants (including 2 of the 9 above) clicked on the *Continue your application* link on the "Application for personal records request" card at the bottom of the My VA page. 
 - 1 participant didn't use either of the above methods and instead just went back to their open browser window, which hadn't timed out. 
-- 3 participants noticed that they were returned to the *page before* the one that they were on. This is because no information had been entered on the page they were on [a known issue], but they said that they would have preferred to come back to the actual (blank) page that they had been on.
-- 1 participant saw the in-progress ID number and 
+- 3 participants noticed that they were returned to the *page before* the one that they had been on. This is because no information had been entered on the page they were on [a known issue], but they said that they would have preferred to come back to the actual (blank) page that they had been on last.
 
-***MAYBE ORGANIZE BY GROUPING TOGETHER or LABELING types of a11y issues: incorrect announcing, redundant announcing, misinterpretation, focus issues? Do this for findings and also for recommendations b/c incorrect announcing and focus issues are more important than redundant announcing***
 
-**Finding X: Accessibility issues were discovered with My VA**
+**Finding 5: Accessibility issues were discovered with My VA**
 - One participant using a screen magnifier (on a Windows computer using the Edge browser and Microsoft Zoom Magnification at least 300%) asked why the **"Continue your application" link in the form request card on My VA was so much smaller than everything else on the card**. The link text doesn't seem to have scaled up like the text above it (see [image below](URL for p13-MyVA-form-card-bottom)).
 - This same screen magnifier user missed that the header "Benefit applications and forms" was relevant because he only saw the words "Benefit applications"--not the word "forms" because it was to the right of the magnified portion of the page that he was looking at. See [image below](URL for p13-MyVA-Benefit-apps-no-forms).
 
@@ -334,6 +332,8 @@ Research sessions were conducted over Zoom during May 12-21, 2025. Sessions were
     
 
 ## Recommendations
+***MAYBE ORGANIZE BY GROUPING TOGETHER or LABELING types of a11y issues: incorrect announcing, redundant announcing, misinterpretation, focus issues? Do this for findings and also for recommendations b/c incorrect announcing and focus issues are more important than redundant announcing***
+
 ### 1. Revise the Save in Progress design
 1. **Brainstorm how to display better communicate that we're saving all information as it's being entered or updated**. We need to revisit how we communicate what the form is doing so that we inform users without being annoying.
    - *Supporting evidence:* We're saving automatically with every edit, which participants asked for, but most didn't realize that was happening because they didn't see or understand the informational alerts.   
