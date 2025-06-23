@@ -28,11 +28,12 @@ This feature has no page level validation use cases.
 
 <details><summary>User does not have completed contact information on file</summary>
 
-- **Use case:** If an LOA3 user logs in and is missing their phone number, email, or address they are prompted to add that information from My VA through an alert that appears at the top of My VA.
+- **Use case:** If an LOA3 user logs in and is missing their mobile phone number, contact email, or mailing address they are prompted to add that information from My VA through an alert that appears at the top.
 - **Status code:** TBD
 - **Format:** [Informational alert](https://design.va.gov/components/alert/#informational-alert-aka-default)
 - [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5456-14077&t=P0cKxHnGArzgrnSK-1)
-- [Link to product documentation]
+- [Link to product documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-onboarding/product-outline.md)
+- [Link to full user flows](https://www.figma.com/design/CertVj7cu66kFv9TnseR30/Welcome-to-My-VA?node-id=2091-58559&t=SZ6okAzhOr9D6BCB-1)
 
 </details>
 
