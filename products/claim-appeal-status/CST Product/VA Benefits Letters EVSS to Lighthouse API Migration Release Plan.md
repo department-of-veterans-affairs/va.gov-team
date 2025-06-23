@@ -69,3 +69,5 @@ What metrics-based criteria will you look at before advancing rollout to the nex
         - https://dsva.slack.com/archives/C02CQP3RFFX/p1747167993375199
 - **2025/06/12** - Lighthouse released a fix for the BSL; tested with an employee who is also a Veteran to verify the letter content was corrected ✅
 - **2025/06/13** - Rolled to 50% for the day; error rate hung right around 1.15% for most of the day, which sits above our 0.3% threshold.  Opted to return to 0% over the weekend.
+- **2025/06/18** - Lighthouse released a fix for the `422` errors in the late afternoon; opted to hold on rollout until Monday, 6/23, due to the holiday on 6/19 and the number of folks out of the office on 6/20
+- **2025/06/23** - Rolled to 50% for the day
