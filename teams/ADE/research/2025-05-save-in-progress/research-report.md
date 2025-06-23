@@ -324,14 +324,8 @@ There are a number of findings that were outside the scope of the research goals
      1. On the intro page, seeing the "Freedom of Information Act (FOIA)" right underneath the name of the form on the intro page was confusing because it was unclear what the connection is. They expected to see something about the specific form, such as its name, which was at the end of that line. 
      
 <details><summary>Click to see a screenshot of the top of the intro page.</summary>
-<img src="./images/intro-pg-unauth-top.png" width="50%" height="50%">
+<img src="./images/Intro-pg-unauth-top.png" width="50%" height="50%">
 </details>
-
-<details><summary>Click to see a screenshot of the issue.</summary>
-<img src="./images/p13-MyVA-Benefit-apps-no-forms.png" width="50%" height="50%">
-</details>
-
-
 
      1. After the Veteran has logged in, one participant said that their name and address should be prefilled. Then they could correct it if needed.
         > *"I'm looking for the least amount of work I have to do every single time" (p10).*
