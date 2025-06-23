@@ -30,11 +30,10 @@ Veterans may fill out web forms on VA.gov throughout their lives, including ALL 
 
 2. There's a "Finish this request later" button that looks like a link (see below), which is another accessibility issue. Links that take you to another page should look like links, and buttons that do actions should look like buttons. 
 <img src="./images/2-a11y-issues.png" width="50%" height="50%">
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/research/2025-05-save-in-progress/images/2-a11y-issues.png" width="50%" height="50%">
 
 We are testing a modification of the VA Design System [Header - Minimal component](https://design.va.gov/components/header/header-minimal), which is recommended for the design of new web forms. To address the above accessibility issues, we have removed the "save in progress" alert, as well as changed the "Finish this request later" button that looks like a link into looking like a button (see below). We believe that removing the "save in progress" alert will be OK because there is already text about saving on both the authenticated version of the form intro page and the first page of the form. One goal of this current research is to get user feedback on the revised design.
 
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/research/2025-05-save-in-progress/images/2-a11y-issues-fix.png" width="50%" height="50%">
+<img src="./images/2-a11y-issues-fix.png" width="50%" height="50%">
 
 Previous research has validated the minimal header component, including its lack of "Back" button (research participants successfully used the "Back to previous page" breadcrumb link at the top of each page). Other research studies have tested various locations for the "Save in progress" alert, and subsequent research studies have documented usability and accessibility issues with those locations.
 
@@ -184,12 +183,14 @@ Research sessions were conducted over Zoom during May 12-21, 2025. Sessions were
 **Finding 5: Accessibility issues were discovered with My VA**
 - One participant using a screen magnifier (on a Windows computer using the Edge browser and Microsoft Zoom Magnification at least 300%) asked why the **"Continue your application" link in the form request card on My VA was so much smaller than everything else on the card**. The link text didn't scale up like the text above it.
   - <details><summary>Click to see screenshot of the issue.</summary>
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/research/2025-05-save-in-progress/images/p13-MyVA-form-card-bottom.png" width="50%" height="50%">
-  - </details>
+<img src="./images/p13-MyVA-form-card-bottom.png" width="50%" height="50%">
+</details>
+
 - This same screen magnifier user missed that the header "Benefit applications and forms" was relevant because he only saw the words "Benefit applications". He didn't see the word "forms" because it was to the right of the magnified portion of the page that he was looking at. See [image below](URL for p13-MyVA-Benefit-apps-no-forms).
   - <details><summary>Click to see screenshot of the issue.</summary>
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/research/2025-05-save-in-progress/images/p13-MyVA-Benefit-apps-no-forms.png" width="50%" height="50%">
-  - </details>
+<img src="./images/p13-MyVA-Benefit-apps-no-forms.png" width="50%" height="50%">
+</details>
+
 **Finding X: Accessibility issues were discovered with form interactions in general**
 - Two screen reader users (VoiceOver on iOS with Safari) had **difficulty navigating while using Safari because focus kept jumping** to the top of the page or to the Safari controls below the page. p5 was unable to navigate the form and so switched to Chrome, where navigation worked normally. p4 was able to navigate the form well enough in Safari to fill it out.
   > *"A lot of the government websites are not working that great with Safari anymore, and...you need to use Google Chrome" (p5).*
