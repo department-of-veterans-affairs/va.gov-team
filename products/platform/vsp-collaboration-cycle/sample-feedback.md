@@ -1,6 +1,8 @@
-# Architecture Intent meeting template
+# Example of completed Engineering/Security checklist
 
 ## Instructions
+
+Please note that this page is not for an actual VFS product. This page was created to show the engineering and security folks how we might use pull requests to provide written feedback to VFS teams.
 
 Your document should be brief and high-level.  Please keep it to a single page.  Focus on the high level and link to supporting material where appropriate; this is _not_ a detailed engineering spec.
 
