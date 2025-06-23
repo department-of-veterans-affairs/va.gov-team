@@ -182,12 +182,12 @@ Research sessions were conducted over Zoom during May 12-21, 2025. Sessions were
 
 **Finding 5: Accessibility issues were discovered with My VA**
 - One participant using a screen magnifier (on a Windows computer using the Edge browser and Microsoft Zoom Magnification at least 300%) asked why the **"Continue your application" link in the form request card on My VA was so much smaller than everything else on the card**. The link text didn't scale up like the text above it.
-  - <details><summary>Click to see screenshot of the issue.</summary>
+<details><summary>Click to see screenshot of the issue.</summary>
 <img src="./images/p13-MyVA-form-card-bottom.png" width="50%" height="50%">
 </details>
 
 - This same screen magnifier user missed that the header "Benefit applications and forms" was relevant because he only saw the words "Benefit applications". He didn't see the word "forms" because it was to the right of the magnified portion of the page that he was looking at. See [image below](URL for p13-MyVA-Benefit-apps-no-forms).
-  - <details><summary>Click to see screenshot of the issue.</summary>
+<details><summary>Click to see screenshot of the issue.</summary>
 <img src="./images/p13-MyVA-Benefit-apps-no-forms.png" width="50%" height="50%">
 </details>
 
