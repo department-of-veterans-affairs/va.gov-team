@@ -180,7 +180,7 @@ Research sessions were conducted over Zoom during May 12-21, 2025. Sessions were
 - 1 participant didn't use either of the above methods and instead just went back to their open browser window, which hadn't timed out. 
 - 3 participants noticed that they were returned to the *page before* the one that they had been on. This is because no information had been entered on the page they were on [a known issue], but they said that they would have preferred to come back to the actual (blank) page that they had been on last.
 
-**Finding 5: My VA had some accessibility issues for screen magnifiers**
+**Finding 5: My VA had accessibility issues for screen magnifiers**
 - One participant using a screen magnifier (on a Windows computer using the Edge browser and Microsoft Zoom Magnification at least 300%) asked why the **"Continue your application" link in the form request card on My VA was so much smaller than everything else on the card**. The link text didn't scale up like the text above it.
 <details><summary>Click to see a screenshot of the issue.</summary>
 <img src="./images/p13-MyVA-form-card-bottom.png" width="50%" height="50%">
@@ -191,7 +191,7 @@ Research sessions were conducted over Zoom during May 12-21, 2025. Sessions were
 <img src="./images/p13-MyVA-Benefit-apps-no-forms.png" width="50%" height="50%">
 </details>
 
-**Finding X: VA forms in general had some accessibility issues**
+**Finding 6: VA forms in general had accessibility issue for screen readers and screen magnifierss**
 - Two screen reader users (VoiceOver on iOS with Safari) had **difficulty navigating while using Safari because focus kept jumping** to the top of the page or to the Safari controls below the page. p5 was unable to navigate the form and so switched to Chrome, where navigation worked normally. p4 was able to navigate the form well enough in Safari to fill it out.
   > *"A lot of the government websites are not working that great with Safari anymore, and...you need to use Google Chrome" (p5).*
 
@@ -200,7 +200,7 @@ Research sessions were conducted over Zoom during May 12-21, 2025. Sessions were
 <img src="./images/p13-review-accordions-wo-plus.png" width="50%" height="50%">
 </details>
 
-- Many people navigate through forms quickly and miss things, regardless of whether they're using assistive tech. Below is a summary of assistive tech **navigation strategies that we observed in this study**, some of which were used to go through the new form slowly and carefully, while others were short-cuts that sometimes caused problems.
+- Many people navigate through forms quickly and miss things, regardless of whether they're using assistive tech (AT). Below is a summary of AT **navigation strategies that we observed in this study**, some of which were used to go through the new form slowly and carefully, while others were short-cuts that sometimes caused problems.
   - **Screen reader users (desktop and mobile):** 
     - (On a computer) Arrow through the pages from the very top (1 user) or from the H1 (1 user) instead of using Forms mode.
        > *"If you just have forms mode on...you may not hear the instructions for what it wanted...for that field" (p1).*
@@ -209,18 +209,18 @@ Research sessions were conducted over Zoom during May 12-21, 2025. Sessions were
     -  Often stopped the screen reader before it had finished reading the current line, and thus sometimes missed the word "Required" at the end (i.e., some participants didn't know that the VA file number field was optional). 
        > *"If I could hear 2 words, I kind of know what it's going to tell me, and I go to the next thing...I don't listen anymore. It's just like everything's gonna be required...That VA file number...did not have an asterisk or tell me it was required. But honestly, I'd already tuned that out because I just assumed in my head that it was going to want that" (p1).*
     - (On a phone) swipe to the right to move to the next item on the page, and swipe left to move to the previous item.
-    - Used "E" to navigate to the next editable field, but that jumps to the next text field--missing dropdowns and checkboxes. This led to one participant missing the military base checkbox and the Country field dropdown, which they discovered when an error message stopped them from going on. 
+    - Typed "E" to navigate to the next editable field, but that jumps to the next text field--missing dropdowns and checkboxes. This led to one participant not seeing the military base checkbox and the Country field dropdown, which they discovered when an error message stopped them from going on. 
        > *"Normally, I don't do...that the first time through. I'd be a little more careful" (p3).*
     - Searched for the name of the button to jump to (e.g., "cont" for the Continue button).
-    - Used "B" for buttons to get to the *Finish later* button.
+    - Typed "B" for buttons to get to the *Finish later* button.
        > *"Now I know that those buttons are down there, it just got me there a lot faster" (p1).*
   
   - **Screen magnifier users (desktop)**
-    - Saw very little of the page at once, not only vertically but also horizontally. The *Finish later* and *Continue* buttons were on separate lines with white space on the sides because zooming and magnifying resized the computer's viewport to mobile layout and made everything appear larger. See [screenshots](URLs TBD from p13 saved and feedback-backchannel). 
+    - Saw very little of the page at once, not only vertically but also horizontally. The *Finish later* and *Continue* buttons were on separate lines with white space on the sides because zooming and magnifying resized the computer's viewport to mobile layout and made everything appear larger.  
     - Moved up and down with arrow keys on keyboard with his left hand. When he wanted to continue reading across the page, he moved the mouse sideways with his right hand, but *not* for every line. Skimmed down the page while not all the words across are in his view, and he assumed what it said--often accurately but sometimes not.
 
 
-**Finding X: The Request Personal Records form has some accessibility issues**
+**Finding 7: The Request Personal Records form has some accessibility issues**
 
 - Two screen reader users (1 using JAWS and desktop, and 1 using VoiceOver on mobile) had difficulty entering their date of birth on the phone.
   - The desktop screen reader user tried to type date of birth into the date of birth month field because he stopped the screen reader before it announced that the field was a popup.
