@@ -114,7 +114,7 @@ Research sessions were conducted over Zoom during May 12-21, 2025. Sessions were
 1. All participants were able to resume filling out the form after taking a short break and a long break.
 1. My VA had accessibility issues for screen magnifiers.
 1. VA forms in general had accessibility issues for screen readers and screen magnifiers.
-1. The Request Personal Records form had many accessibility issues.
+1. The Request Personal Records form had many accessibility issues for screen readers and screen magnifiers.
 1. Most participants who encountered form errors understood how to resolve them, but there were some exceptions.
 1. Only half of the participants mentioned the progress bar.
 
@@ -218,7 +218,7 @@ Research sessions were conducted over Zoom during May 12-21, 2025. Sessions were
     - Moved up and down with arrow keys on keyboard with his left hand. When he wanted to continue reading across the page, he moved the mouse sideways with his right hand, but *not* for every line. Skimmed down the page while not all the words across are in his view, and he assumed what it said--often accurately but sometimes not.
 
 
-**Finding 7: The Request Personal Records form had many accessibility issues.**
+**Finding 7: The Request Personal Records form had many accessibility issues for screen readers and screen magnifiers.**
 - Three participants (2 of whom were using screen readers) said that the signed-in version of the form intro page looks the same as the non-signed in version, except at the very bottom, which is disorienting and repetitive. The screen reader users had to listen to the entire intro page being read twice--once before signing in, and then again after signing in. One participant suggested that the "Sign in to start your request" link could bring you directly to the first question in the form (rather than to the authenticated version of the form intro page). 
 
 - A screen reader user expected to be able to click on one of the record types listed on the intro page, but they weren't clickable. 
