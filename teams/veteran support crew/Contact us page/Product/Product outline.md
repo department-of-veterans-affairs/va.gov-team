@@ -1,5 +1,6 @@
 # Product outline for Contact us page 
-Last updated by @beckyphung on May 8, 2025
+Last updated by @beckyphung on June 24, 2025
+
 **Jump to:**
 - [Overview](#overview)
 - [Problem statement](#problem-statement)
@@ -36,8 +37,7 @@ First, we’ll conduct [usability tests](https://github.com/department-of-vetera
 ## Initiatives
 ### "Contact us" page initial improvements (2024/2025)
 - **Description**: Update content based on: user research, a review of other support experiences on websites/mobile apps, and a review of current analytics and user feedback.
-- **Timing**: FY24 Q4 (Jul to Sep) to FY25 Q4 (Apr to May)
-   - We updated the Contact us page on 5/8/25. 
+- **Timing**: FY24 Q4 (Jul to Sep) to FY25 Q4 (Apr to May). We updated the Contact us page on 5/8/25. 
 - **Objective**: Increase customer satisfaction score to 25%.
 - **Key results**:
    - User insights based on Medallia survey responses
@@ -51,7 +51,6 @@ First, we’ll conduct [usability tests](https://github.com/department-of-vetera
  - **Ideas**: Test/implement simple Contact us design
 
 ## Measuring Success
-See more information in the [Contact us metrics Excel](https://dvagov.sharepoint.com/:x:/s/OCTODEVeteranSupportCrew/EUlSMhje2WJDk1YoQvdQh6gBQJ_Gd7ATZh6JuaWYWmVgHg?e=cFgjDM).
 
 ### Key Performance Indicators (KPIs)
 Key Performance Indicators (KPIs) help us understand how the Contact us page is meeting expected user outcomes. We primarily track the page's satisfaction rating right now. Below is our average satisfaction rating by year compared to VA.gov overall. 
@@ -59,10 +58,18 @@ Key Performance Indicators (KPIs) help us understand how the Contact us page is 
 "Satisfaction" scores are from the VFS survey (feedback button). "Experience" scores are from A11 survey (intercept).﻿
 
 ### Satisfaction rating by year
-|Page|2024 (Latest date: 12/8/24)|2023| 
+These are metrics from the feedback button survey.
+|Page|2025 (Last updated: 6/24/25)|2024| 
 |----------|-------------| -------------|
-|Contact us page|16% (1.1K responses)|12% (1.5K responses)|                     
-|All VA.gov pages|30% (103K responses)|22% (96K responses)|
+|Contact us page|13% (873)|16% (1.2K)|                     
+|All VA.gov pages|38% (106K)|30% (113K)|
+
+### Experience rating by year
+These are metrics from the intercept survey.
+|Page|2025 (Last updated: 6/24/25)|2024|  
+|----------|-------------| -------------|
+|Contact us page|17% (269)|24% (444)|                     
+|All VA.gov pages|60% (49K)|57% (73K)|
 
 ## Assumptions
 1.	People will prefer different contact channels in different contexts. For example, if people aren't confident they know which phone number to call, then people will prefer online tools for support. If people feel confident that a phone agent will be able to answer their question, then people will prefer phone calls for support. 
