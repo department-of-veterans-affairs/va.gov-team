@@ -351,18 +351,30 @@ Fix these accessibility issues:
 
 ### For the Request Personal Records form
 Fix these accessibility issues:
-1. See if **field type announcing by screen readers can happen sooner**.
-    - *Supporting evidence:* A desktop screen reader user didn't know that the birth month field was a popup because he stopped the screen reader before it was done announcing. A mobile VoiceOver user also didn't know that field was a popup and so tried to type a number into the field. 
-1. **Change the announcement for dropdown fields from "Double tap to activate the picker" to use plain language**. For example, "Double tap to select the month", "Double tap to select the country", and "Double tap to select the state".
+1. See if **field type announcing by screen readers can happen sooner**, perhaps *before* the field name, to set the user's expectations for  the type of interaction expected.
+    - *Supporting evidence:* A desktop screen reader user didn't know that the birth month field was a popup because he stopped the screen reader before it was done announcing. A mobile VoiceOver user also didn't know that field was a popup and so tried to type a number into the field. In addition, on the Review/Submit page, a JAWS screen reader user heard the checkbox announced *after* the entire "I certify the information above is correct and true to the best of my knowledge and belief" line. 
+
+1. **Change the announcement text for dropdown fields from "Double tap to activate the picker" to use plain language**. For example, "Double tap to select the month", "Double tap to select the country", and "Double tap to select the state".
     - *Supporting evidence:* p1 didn't know what a "picker" was and got confused.
+
 1. Try to **fix focus issues with VoiceOver while getting into and out of the date of birth Month field**.
     - *Supporting evidence:* Focus was on the Month field, but there was also a blinking cursor in the previous field (last name). When the participant typed a number for the date of birth month, the number was entered into the last name field. And when she was done picking the Month, focus was moved to the very top of the page. 
+
 1. Try to **fix announcing issues with JAWS where it says "has popup" for the State/Province/Region and Postal code text fields**. See if the issue can be fixed.
+    - *Supporting evidence:* One screen reader user (JAWS on desktop) reported that the State/Province/Region and Postal code fields said "has pop up", even though they're both text fields.
+
 1. See if the duplicate messaging from JAWS for the records checkboxes and mailing address fields can be removed.
     - *Supporting evidence:* Two screen reader users said that they were hearing every records checkbox option and mailing address fields twice while using the arrow keys to navigate through the form.
+
+1. Try to **fix announcing issues with VoiceOver for the citizenship question, which said it was a checkbox instead of a radio button**.
+    - *Supporting evidence:* One screen reader user (VoiceOver on iOS) didn't know that the citizenship question was a radio button when they tapped on it. Riley Orr tested and found that it's announced as a checkbox (bug) and radio button on her iPhone, but announced (correctly) as a radio button on desktop. After she updated her phone, it announced (correctly) as a radio button.
+
 1. On the Review/Submit page, the error handling for the ***Your full name* field should be streamlined so that (1) focus goes to the name field (vs. the top of the component), and (2) the error message is announced immediately** (vs. after two repetitions of most of the text in the component). 
     - *Supporting evidence:* This is so verbose for screen reader users that they perceive it as multiple repetitions of the same information and don't listen carefully to the very end that describes the error.
-    - Also consider making the affirmation statements at the end of the form more concise so there's less text for participants to skip and so they might pay more attention. Also revisit why the previous and next lines of text are repeated while focus is in the name text field, which appears to be because it's specified in the code so that all users hear it, regardless of how they navigated to the field (by tabs or arrows).
+
+1. **On the Review/Submit page, consider shortening the text to be less redundant and less repetitive for screen reader users.**
+    - *Supporting evidence:* The verbose text "Statement of truth. I confirm that the identifying information in this form is accurate and has been represented correctly." is read 3 times by JAWS, and the text "I certify the information above is correct and true to the best of my knowledge and belief." is read 2 times. This is while the screenreader user is going through the form the first time--not because of any errors generated--but is specified in the code so that all users hear it, regardless of how they navigated to the field (by tabs or arrows).
+
 1. **Consider differentiating the unauth and auth versions of the form intro page so that they don't look exactly the same** except for the very bottom.
     - *Supporting evidence:* Participants found this disorienting after they signed in but then seemed to still be on the same page. Screen reader users had to listen to the entire page being read out a second time, unlike sighted users who can visually scan to see that it's the same and not read every word.
 
@@ -373,11 +385,6 @@ Fix these usability issues:
 
 1. Consider the design suggestion: The **error message for SSN validation could provide more information**. Instead of saying that it needs 9 digits, it could also say how many digits you entered: "You entered 8 digits for your social security number, but you need 9 digits."
      - *Supporting evidence:* Participants were confused when they thought they entered 9 digits but actually hadn't. This issue may be less of an issue when users enter their actual SSN, rather than a fake one for the research session.
-
-1. **Recommendation:** [Insert action]  
-   - _Supporting evidence: [Insert data]_  
-2. **Recommendation:** [Insert action]  
-   - _Supporting evidence: [Insert data]_
 
 
 ## Next Steps
