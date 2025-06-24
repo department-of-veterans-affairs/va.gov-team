@@ -360,9 +360,6 @@ There are a number of findings that were outside the scope of the research goals
 1. **Change the announcement text for dropdown fields from "Double tap to activate the picker" to use plain language**. For example, "Double tap to select the month", "Double tap to select the country", and "Double tap to select the state".
     - *Supporting evidence:* p1 didn't know what a "picker" was and got confused.
 
-1. Try to **fix focus issues with VoiceOver while getting into and out of the date of birth Month field**.
-    - *Supporting evidence:* Focus was on the Month field, but there was also a blinking cursor in the previous field (last name). When the participant typed a number for the date of birth month, the number was entered into the last name field. And when she was done picking the Month, focus was moved to the very top of the page. 
-
 1. Try to **fix announcing issues with JAWS where it says "has popup" for the State/Province/Region and Postal code text fields**. See if the issue can be fixed.
     - *Supporting evidence:* One screen reader user (JAWS on desktop) reported that the State/Province/Region and Postal code fields said "has pop up", even though they're both text fields.
 
@@ -372,7 +369,10 @@ There are a number of findings that were outside the scope of the research goals
 1. Try to **fix announcing issues with VoiceOver for the citizenship question, which said it was a checkbox instead of a radio button**.
     - *Supporting evidence:* One screen reader user (VoiceOver on iOS) didn't know that the citizenship question was a radio button when they tapped on it. Riley Orr tested and found that it's announced as a checkbox (bug) and radio button on her iPhone, but announced (correctly) as a radio button on desktop. After she updated her phone, it announced (correctly) as a radio button.
 
-1. On the Review/Submit page, the error handling for the ***Your full name* field should be streamlined so that (1) focus goes to the name field (vs. the top of the component), and (2) the error message is announced immediately** (vs. after two repetitions of most of the text in the component). 
+1. Try to **fix focus issues with VoiceOver while getting in and out of the date of birth Month field**.
+    - *Supporting evidence:* Focus was on the Month field, but there was also a blinking cursor in the previous field (last name). When the participant typed a number for the date of birth month, the number was entered into the last name field. And when she was done picking the Month, focus was moved to the very top of the page. 
+
+1. **Streamline error handling** on the Review/Submit page for the ***Your full name* field so that (1) focus goes to the name field (vs. the top of the component), and (2) the error message is announced immediately** (vs. after two repetitions of most of the text in the component). 
     - *Supporting evidence:* This is so verbose for screen reader users that they perceive it as multiple repetitions of the same information and don't listen carefully to the very end that describes the error.
 
 1. **On the Review/Submit page, consider shortening the text to be less redundant and less repetitive for screen reader users.**
@@ -382,12 +382,15 @@ There are a number of findings that were outside the scope of the research goals
     - *Supporting evidence:* Participants found this disorienting after they signed in but then seemed to still be on the same page. Screen reader users had to listen to the entire page being read out a second time, unlike sighted users who can visually scan to see that it's the same and not read every word.
 
 #### Fix these usability issues:
+1. Explore **prefilling the Veteran's name and address**, which we know once they've signed in. 
+    - *Supporting evidence:* This suggestion came from a participant, who wanted to type less but was willing to make corrections if any information was wrong.
+
+1. At the **top of the form's intro page, consider simplifying the text directly under the H1**: 
+    > "Freedom of Information Act (FOIA) or Privacy Act (PA) Request (VA Form 20-10206)"
+    - *Supporting evidence:* One participant was confused by "Freedom of Information Act (FOIA)" right underneath the name of the form on the intro page they expected to see something about the Request personal records form.
 
 1. **Fix the postal code field so it will accept a valid autofill suggestion without returning an error** ("Enter a ZIP code"). This is a known issue with autofilling with a coding workaround in [this ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/2668).
     - *Supporting evidence:* One participant accepted the (correct) autofill suggestion for their zip code, and the form gave an error.
-
-1. Consider the design suggestion: The **error message for SSN validation could provide more information**. Instead of saying that it needs 9 digits, it could also say how many digits you entered: "You entered 8 digits for your social security number, but you need 9 digits."
-     - *Supporting evidence:* Participants were confused when they thought they entered 9 digits but actually hadn't. This issue may be less of an issue when users enter their actual SSN, rather than a fake one for the research session.
 
 1. Consider adding some **help text that says what the "VA file number" is**.
     - *Supporting evidence:* Four participants didn't know what a "VA file number" was and why you might want to use one.
@@ -398,17 +401,15 @@ There are a number of findings that were outside the scope of the research goals
 1. Consider adding an **explanation or disclaimer about how the VA can provide military records**. 
     - *Supporting evidence:* Two participants questioned the ability to request your military records through the VA. One of them had military records previously that the VA was unable to access. The other participant was concerned about privacy because he thought that VA wasn't supposed to know about some things from the military. 
 
-1. Explore **prefilling the Veteran's name and address**, which we know once they've signed in. 
-    - *Supporting evidence:* This suggestion came from a participant, who wanted to type less but was willing to make corrections if any information was wrong.
-
-1. At the **top of the form's intro page, consider simplifying the text directly under the H1**: 
-    > "Freedom of Information Act (FOIA) or Privacy Act (PA) Request (VA Form 20-10206)"
-    - *Supporting evidence:* One participant was confused by "Freedom of Information Act (FOIA)" right underneath the name of the form on the intro page they expected to see something about the Request personal records form.
+1. Consider the design suggestion: The **error message for SSN validation could provide more information**. Instead of saying that it needs 9 digits, it could also say how many digits you entered: "You entered 8 digits for your social security number, but you need 9 digits."
+     - *Supporting evidence:* Participants were confused when they thought they entered 9 digits but actually hadn't. This issue may be less of an issue when users enter their actual SSN, rather than a fake one for the research session.
 
 
 ## Next Steps
 
-*Outline immediate actions based on findings, including owners if applicable.*  
+1. Discuss findings and recommendations with Jeana Clark, the ADE team, and the accessibility specialists community of practice.
+1. Discuss findings and recommendations with Matt Dingee.
+1. Reach out to the My VA team to share relevant findings and recommendations.
 
 
 ## Further research needed
@@ -431,9 +432,9 @@ There are a number of findings that were outside the scope of the research goals
   
 ## Pages and applications used
 
-[Prototype](https://musical-space-goggles-7wxj74rqgvpfv9v-3001.app.github.dev/records/request-personal-records-form-20-10206/introduction?loggedIn=false)
+[Prototype in a GitHub Codespace that needs to be started manually](https://musical-space-goggles-7wxj74rqgvpfv9v-3001.app.github.dev/records/request-personal-records-form-20-10206/introduction?loggedIn=false)
 
-#### Screenshots of the prototype in Codespaces
+#### Screenshots of the prototype (Codespace)
 <details>
   <summary>First screen (Click to show screenshot)</summary>
 
