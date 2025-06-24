@@ -99,15 +99,6 @@ Research sessions were conducted over Zoom during May 12-21, 2025. Sessions were
 
 ## Key Findings
 
-*Summarize the 5–10 most impactful findings from your study.* 
-
-> [!TIP] 
-> Write findings as stand-alone insights that are easy to scan. For example:  
-> - "Most participants used the search field to locate forms, often searching for 'veteran health.'"  
-> - "Participants struggled with the secondary caregiver section on the form."  
-
-[Example Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)
-
 1. Most participants didn't know that their information was being saved automatically with every edit.
 1. Most participants didn't see the informational alerts about saving, and the few who did, didn't remember what they said.
 1. ALL participants tried the *Finish later* button and from that learned that their information was saved.
@@ -327,8 +318,7 @@ There are a number of findings that were outside the scope of the research goals
 <img src="./images/Intro-pg-unauth-top-h1.png" width="50%" height="50%">
 </details>
 
-
-3. One participant who uses a screen reader on a phone said that they had a lot of difficulty signing in, making a strong password and remembering it, creating a passkey, setting up two-factor authentication, and getting logged out with timeout. A different participant wished that they could sign in with a fingerprint, didn't get logged out, and had a "remember this device" option so you wouldn't have to log in again.
+3. One participant who uses a screen reader on a phone said that they had a lot of **difficulty signing in**, making a strong password and remembering it, creating a passkey, setting up two-factor authentication, and getting logged out with timeout. A different participant wished that they could sign in with a fingerprint, didn't get logged out, and had a "remember this device" option so you wouldn't have to log in again.
    > *"First I had to tangle up with login.gov because now they want you to. They want to do a video of your face and...that's very difficult for people that have limited vision or no vision...So by the time you get there, you're pretty frustrated (p5).*
 
 ## Recommendations
@@ -354,19 +344,20 @@ There are a number of findings that were outside the scope of the research goals
     - *Supporting evidence:* One participant using a screen magnifier found it difficult to read this link because its font didn't magnify like all the other text on the card and so it was small and hard to read.
 
 ### For the team responsible for the Request Personal Records form
-Fix accessibility and usability issues with the Request personal records form:
+Fix the accessibility and usability issues with the Request personal records form:
 1. **Change the announcement for dropdown fields from "Double tap to activate the picker" to use plain language**: "Double tap to select the month", "Double tap to select the country", and "Double tap to select the state".
-    - *Supporting evidence: p1 didn't know what a "picker" was and got confused.*
+    - *Supporting evidence:* p1 didn't know what a "picker" was and got confused.
 1. Try to **fix focus issues with VoiceOver while getting into and out of the date of birth Month field**.
     - *Supporting evidence:* Focus was on the Month field, but what p4 typed ended up in the Last name field. And when p4 was done picking the Month, focus was moved to the very top of the page.
-1. Research announcing issues with JAWS where it says "has popup" for the State/Province/Region and Postal code text fields. See if the issue can be fixed.
-1. On the Review/Submit page, the error handling for the *Your full name* field should be streamlined so that (1) focus goes to the name field (vs. the top of the component), and (2) the error message is announced immediately (vs. after two repetitions of most of the text in the component). 
-    - *Supporting evidence:* This is so verbose for screen reader users that they perceive it as multiple repetitions of the same information and so they don't listen carefully to the very end that describes how to fix the error.
-1. The postal code field should be fixed so that it will accept a valid autofill suggestion without returning an error ("Enter a ZIP code"). This is a known issue with autofilling with a coding workaround in [this ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/2668).
+1. Try to **fix announcing issues with JAWS where it says "has popup" for the State/Province/Region and Postal code text fields**. See if the issue can be fixed.
+1. On the Review/Submit page, the error handling for the ***Your full name* field should be streamlined so that (1) focus goes to the name field (vs. the top of the component), and (2) the error message is announced immediately** (vs. after two repetitions of most of the text in the component). 
+    - *Supporting evidence:* This is so verbose for screen reader users that they perceive it as multiple repetitions of the same information and don't listen carefully to the very end that describes the error.
+    - Also consider making the affirmation statements at the end of the form more concise so there's less text for participants to skip and so they might pay more attention. Also revisit why the previous and next lines of text are repeated while focus is in the name text field, which appears to be because it's specified in the code so that all users hear it, regardless of how they navigated to the field (by tabs or arrows).
+1. **Fix the postal code field so it will accept a valid autofill suggestion without returning an error** ("Enter a ZIP code"). This is a known issue with autofilling with a coding workaround in [this ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/2668).
+    - *Supporting evidence:* One participant accepted the (correct) autofill suggestion for their zip code, and the form gave an error.
 
-### Recommendation: Consider design revisions for Request personal records form
-1. Consider making the affirmation statements at the end of the form more concise so there's less text for participants to skip. Rather than adding more information, consider removing some so users might pay more attention to what's there. Also revisit why the previous and next lines of text are repeated while focus is in the name text field, which appears to be because it's specified in the code so that all users hear it, regardless of how they navigated to the field (by tabs or arrows).
-1. The error message for SSN validation could provide more information. Instead of just saying that it needs 9 digits, it could also say how many digits you entered: "You entered 8 digits for your social security number, but you need 9 digits."
+1. Consider the design suggestion: The **error message for SSN validation could provide more information**. Instead of saying that it needs 9 digits, it could also say how many digits you entered: "You entered 8 digits for your social security number, but you need 9 digits."
+     - *Supporting evidence:* Participants were confused when they thought they entered 9 digits but actually hadn't. This issue may be less of an issue when users enter their actual SSN, rather than a fake one for the research session.
 
 1. **Recommendation:** [Insert action]  
    - _Supporting evidence: [Insert data]_  
