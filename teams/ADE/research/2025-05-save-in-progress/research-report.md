@@ -271,11 +271,11 @@ Research sessions were conducted over Zoom during May 12-21, 2025. Sessions were
     > *"It says, 'I certify'. Usually when something starts out with the words 'I certify', there's a checkbox there...You're telling me and then you're given my name, and then you put the actual box underneath of it, which is not typically what I'm used to...I had to listen to the whole thing to find out if that was a checkbox or not...cause it wouldn't have told me until the end" (p1).*
 
 **Finding 8: Most participants who encountered form errors understood how to resolve them, but there were some exceptions** 
-1. 9 of 11 participants encountered errors while they were filling out the form, and most of them understood their meaning and what they needed to do to fix them.
+- 9 of 11 participants encountered errors while they were filling out the form, and most of them understood their meaning and what they needed to do to fix them.
    > *"Tells me where I screwed up" (p13).*
 
    > *"That's awesome...I like that. It caught it" (p9).*
-1. One screen reader user (JAWS on desktop) encountered 4 different errors that he didn't understand how to resolve:
+- One screen reader user (JAWS on desktop) encountered 4 different errors that he didn't understand how to resolve:
      1. He didn't understand the "Country is required" error message because he never saw the field (due to skipping over it before by navigating with the command "e" in JAWS to the next editable field). 
         > *"I don't understand that. I didn't see any place to enter a country, and yet when I hit 'Continue'...I don't remember seeing that [the Country] come up before I entered the address" (p3).*
      1. He was confused by the Social Security Number (SSN) field error when he entered the 9 digits "123456789" after he was asked to enter fake data. This error also confused a non-AT user. Disallowing this input is not clear to users but shouldn't be an issue when users enter their actual SSN.
@@ -294,14 +294,14 @@ Research sessions were conducted over Zoom during May 12-21, 2025. Sessions were
 - Only one participant said that they would prefer to be informed about errors differently--right after they leave a field, as opposed to after they click *Continue*, so they know right away where the problem is. They also said that it's not really an issue with this form because it's so short (and the individual pages are short).
 
 **Finding 9: Only half of the participants (6 of 11) mentioned the progress bar.** 
-1. The screen reader users who navigated the form starting from the H1 on each page didn't know about the progress bar because they never heard it announced.
-1. Four participants said that the step numbers are helpful so they know how close they are to being done.
+- The screen reader users who navigated the form starting from the H1 on each page didn't know about the progress bar because they never heard it announced.
+- Four participants said that the step numbers are helpful so they know how close they are to being done.
    > *"Tells how far I'm in what I'm doing...and how much longer to fill out something" (p11).*
 
    > *"I do like that. It has 1 of 6. That is nice because you never know how many pages this thing's gonna be" (p9).*
   
-1. Two other participants mentioned the step numbers. Only one participant mentioned the visual bars. 
-1. Three participants (1 using a screen reader on desktop, 1 using a screen magnifier on desktop, and using no assistive tech on a phone) said that the form had too many short pages and that they preferred fewer longer pages with related information on the same page, rather than across multiple pages (e.g., your name and social security number on different pages). 
+- Two other participants mentioned the step numbers. Only one participant mentioned the visual bars. 
+- Three participants (1 using a screen reader on desktop, 1 using a screen magnifier on desktop, and using no assistive tech on a phone) said that the form had too many short pages and that they preferred fewer longer pages with related information on the same page, rather than across multiple pages (e.g., your name and social security number on different pages). 
    > *"You can have one page that puts in your personal information and your demographics...And then the next page can be what I'm requesting...It could be cut down a lot. It didn't have to be 6 pages" (p2).*
 
    > *"If you ask me for my street address, and then I have to hit 'Continue' to get to the next thing, that annoys me. So when I'm doing a form, I'd like as much information on that page to fill out all at one time as possible. I really don't like to have to go 'Continue' 'Continue' all the time because that's just another thing that I have to do and have to listen to" (p1--screen reader user).*
@@ -330,7 +330,7 @@ There are a number of findings that were outside the scope of the research goals
 </details>
 
 
-1. One participant who uses a screen reader on a phone said that they had a lot of difficulty signing in, making a strong password and remembering it, creating a passkey, setting up two-factor authentication, and getting logged out with timeout. A different participant wished that they could sign in with a fingerprint, didn't get logged out, and had a "remember this device" option so you wouldn't have to log in again.
+3. One participant who uses a screen reader on a phone said that they had a lot of difficulty signing in, making a strong password and remembering it, creating a passkey, setting up two-factor authentication, and getting logged out with timeout. A different participant wished that they could sign in with a fingerprint, didn't get logged out, and had a "remember this device" option so you wouldn't have to log in again.
    > *"First I had to tangle up with login.gov because now they want you to. They want to do a video of your face and...that's very difficult for people that have limited vision or no vision...So by the time you get there, you're pretty frustrated (p5).*
 
 ## Recommendations
