@@ -71,11 +71,16 @@ The 10-10EZR form is designed to allow Veterans to easily update their VA health
 
 This roadmap reflects current priorities and efforts for the 10-10EZR application as of June 2025.
 
-**Now:** *
+**Now:** 
+* [Next of Kin/Emergency Contact](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75046)
+* [Print PDF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109746)
+* [V2 - Confirmation Flow: Household section](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98353)
 
-**Next:** *
+**Next:** 
+* [V2 - Confirmation Flow: Insurance section](https://github.com/department-of-veterans-affairs/va.gov-team/issues/104121)
 
-**Later:** *
+**Later:**
+* International Phone number
 
 **Descoped:** *
 
@@ -83,6 +88,16 @@ This roadmap reflects current priorities and efforts for the 10-10EZR applicatio
 ## **Features and initiatives we worked on**
 
 This table details recent and ongoing features and initiatives specifically for the 10-10EZR application, along with their current status.
+
+| Product | Initiative                                      | Status                                   |
+|---------|-------------------------------------------------|------------------------------------------|
+| EZR    | [Next of Kin/Emergency Contact](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75046)               | Dev/QA in progress         |
+| EZR    | [Print PDF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109746)                                  | Dev in progress            |
+| EZR    | [V2 - Confirmation Flow: Household section](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98353)   | Dev in progress            |
+| EZR    | [V2 - Confirmation Flow: Insurance section](https://github.com/department-of-veterans-affairs/va.gov-team/issues/104121)   | Dev in progress            |
+| EZR    | TBD  |TBD            |
+| EZR    | TBD  |TBD            |
+| EZR    | TBD  |TBD            |
 
 ## **Our team, VA relationships, and stakeholder meeting cadence**
 ### **Team Members:**
