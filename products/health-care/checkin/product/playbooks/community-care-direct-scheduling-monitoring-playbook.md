@@ -14,7 +14,8 @@ and have the necessary information to address problems quickly.  To accomplish i
 
 ## Monitors
 
-TBD
+- [VAOS Vets API Endpoint Error Rate - Community Care Appointment Create](https://vagov.ddog-gov.com/monitors/382190)
+- [VAOS Vets API Endpoint Error Rate - Community Care Draft Create](https://vagov.ddog-gov.com/monitors/382158)
 
 ## Process expectations
 
