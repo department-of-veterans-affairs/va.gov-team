@@ -339,23 +339,32 @@ There are a number of findings that were outside the scope of the research goals
 1. **After you click *Finish later*, you should be able to sign out** in the Minimal header format, which is currently not possible. We should revert to the full VA.gov header for the authenticated intro page in order to enable signout.
      - *Supporting evidence:* There's currently no way to sign out after you click *Finish later* and land on the intro page because you're still seeing the minimal header.
 
+1. Investigate the **form navigation issues that 2 screen reader users had while using VoiceOver on iPhones with the Safari** web browser in which focus kept jumping to the top of the page or to the Safari controls below the page after almost every field. 
+    - *Supporting evidence:* These focus issues made it very difficult for 2 mobile screen reader users to fill out the form. One of them stayed with Safari, and the other gave up and switched to using Chrome.  
+
 ### For the My VA team
 Fix these accessibility issues:
-1. Fix this accessibility issue with My VA: In the draft cards under "Benefit applications and forms", **make the "Continue your application" link scale up with magnification** like everything else on the card already does.
+1. In the draft cards under "Benefit applications and forms", **make the "Continue your application" link scale up with magnification** like everything else on the card already does.
     - *Supporting evidence:* One participant using a screen magnifier found it difficult to read this link because its font didn't magnify like all the other text on the card and so it was small and hard to read.
-1. Consider renaming the header "Benefit applications and forms" to "Applications and forms" so that it will be more accessible to screen magnifier users.
+1. **Consider renaming the header "Benefit applications and forms" to "Applications and forms"** or something else similarly short so that it will be more accessible to screen magnifier users.
    - *Supporting evidence:* One participant using a screen magnifier didn't recognize that his draft form was under "Benefit applications and forms" because all he saw was "Benefit applications".
 
 ### For the Request Personal Records form
 Fix these accessibility issues:
-1. **Change the announcement for dropdown fields from "Double tap to activate the picker" to use plain language**: "Double tap to select the month", "Double tap to select the country", and "Double tap to select the state".
+1. See if **field type announcing by screen readers can happen sooner**.
+    - *Supporting evidence:* A desktop screen reader user didn't know that the birth month field was a popup because he stopped the screen reader before it was done announcing. A mobile VoiceOver user also didn't know that field was a popup and so tried to type a number into the field. 
+1. **Change the announcement for dropdown fields from "Double tap to activate the picker" to use plain language**. For example, "Double tap to select the month", "Double tap to select the country", and "Double tap to select the state".
     - *Supporting evidence:* p1 didn't know what a "picker" was and got confused.
 1. Try to **fix focus issues with VoiceOver while getting into and out of the date of birth Month field**.
-    - *Supporting evidence:* Focus was on the Month field, but what p4 typed ended up in the Last name field. And when p4 was done picking the Month, focus was moved to the very top of the page.
+    - *Supporting evidence:* Focus was on the Month field, but there was also a blinking cursor in the previous field (last name). When the participant typed a number for the date of birth month, the number was entered into the last name field. And when she was done picking the Month, focus was moved to the very top of the page. 
 1. Try to **fix announcing issues with JAWS where it says "has popup" for the State/Province/Region and Postal code text fields**. See if the issue can be fixed.
+1. See if the duplicate messaging from JAWS for the records checkboxes and mailing address fields can be removed.
+    - *Supporting evidence:* Two screen reader users said that they were hearing every records checkbox option and mailing address fields twice while using the arrow keys to navigate through the form.
 1. On the Review/Submit page, the error handling for the ***Your full name* field should be streamlined so that (1) focus goes to the name field (vs. the top of the component), and (2) the error message is announced immediately** (vs. after two repetitions of most of the text in the component). 
     - *Supporting evidence:* This is so verbose for screen reader users that they perceive it as multiple repetitions of the same information and don't listen carefully to the very end that describes the error.
     - Also consider making the affirmation statements at the end of the form more concise so there's less text for participants to skip and so they might pay more attention. Also revisit why the previous and next lines of text are repeated while focus is in the name text field, which appears to be because it's specified in the code so that all users hear it, regardless of how they navigated to the field (by tabs or arrows).
+1. **Consider differentiating the unauth and auth versions of the form intro page so that they don't look exactly the same** except for the very bottom.
+    - *Supporting evidence:* Participants found this disorienting after they signed in but then seemed to still be on the same page. Screen reader users had to listen to the entire page being read out a second time, unlike sighted users who can visually scan to see that it's the same and not read every word.
 
 Fix these usability issues:
 
