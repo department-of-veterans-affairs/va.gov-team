@@ -334,28 +334,27 @@ There are a number of findings that were outside the scope of the research goals
 ## Recommendations
 ***MAYBE ORGANIZE BY GROUPING TOGETHER or LABELING types of a11y issues: incorrect announcing, redundant announcing, misinterpretation, focus issues? Do this for findings and also for recommendations b/c incorrect announcing and focus issues are more important than redundant announcing***
 
-### 1. Revise the Save in Progress design
-1. **Brainstorm how to display better communicate that we're saving all information as it's being entered or updated**. We need to revisit how we communicate what the form is doing so that we inform users without being annoying.
-   - *Supporting evidence:* We're saving automatically with every edit, which participants asked for, but most didn't realize that was happening because they didn't see or understand the informational alerts.   
+### Revise the Save in Progress messaging
+1. **Figure out how to communicate more effectively that we're saving the user's form information as it's  entered/updated**. We need to revisit how we communicate what the form is doing so that we inform every user without being annoying.
+   - *Supporting evidence:* We're saving automatically with every edit, which participants asked for, but most didn't realize that was actually happening because they didn't see or understand the informational alerts.   
    - Consider the suggestions below:
-      1. Messaging should be better integrated into the user's interaction flow with the form. It's possible that no messaging will be effective before the user has started filling out information, so we should find somewhere other than the intro page and the top of the first page of the form. Users may be more receptive to an alert that shows up later while they're editing or right after they click "Continue". 
-      1. Messaging must be accessible to AT users so that all screen reader users will hear it, even if they start navigating form pages down from the H1. 
-      1. Messaging could be reworded to lead with what's most important at the beginning to attract attention and ensure visibility to users of screen magnifiers. For example, "Saving will happen automatically..." or "Your information will be saved..."
-      1. Messaging could be reworded for clarity, especially "We'll save your request on every change". One idea is "Your work is saved automatically". If we want a message that shows up with every save, it could be very short (e.g., "Saving..." or "Autosaved now"), and it needs to be positioned such that screen readers will announce it. 
+      1. Messaging should be better integrated into the user's interaction flow with the form. It's possible that no messaging will be effective before the user has started filling out information, so we should find somewhere other than the intro page and the top of the first page of the form. Users may be more receptive to an alert that shows up later while they're editing and then pause, such as right after they click the *Continue* button. 
+      1. All messaging must be positioned so that it's accessible to AT users. All screen reader users should be able to hear the messaging, even if they start navigating pages from the H1. Messaging should also be aligned with the left margin so that it's most likely to be visible on magnified screens.
+      1. Messaging could be reworded for clarity and to lead with what's most important at the beginning to attract attention and ensure visibility to users of screen magnifiers and screen magnifiers. For example, we could change "We'll save your request on every change" to "Saving will happen automatically..." or "Your information will be saved..."
+           1. If we want a message that shows up with every save, it could be very short (e.g., "Saving..." or "Autosaved now"). 
       1. Consider relabeling the *Finish later* button to better align with the revised messaging.
 
-### 1. Fix issues with VA form design patterns
+### Fix issues with VA forms 
 1. On the Review/Submit page, consider moving the "+" from the right margin to the left margin.
      - *Supporting evidence:* A screen magnifier user didn't see the "+"'s to expand the accordions because they're so far to the right and there was no visual indication that there was anything more to the right. 
 1. After you click *Finish later*, you should be able to sign out. Need to revert to the full VA.gov header for the authenticated intro page in order to enable signout.
      - *Supporting evidence:* There's currently no way to sign out after you click *Finish later* and land on the intro page because you're still seeing the minimal header.
 
-### Recommendation: Fix accessibility issues with My VA
-#### My VA
+### Fix accessibility issues with My VA
 1. My VA--Make the "Continue your application" link in the form request card scale up with magnification like everything else on the card already does.
     - *Supporting evidence:* One participant using a screen magnifier found it difficult to read this link because its font didn't magnify like all the other text on the draft form card.
 
-### Recommendation: Fix accessibility issues with Request personal records form
+### Fix accessibility issues with Request personal records form
 1. Change the announcement for dropdown fields from "Double tap to activate the picker" to use plain language: "Double tap to select the month", "Double tap to select the country", and "Double tap to select the state".
     - *Supporting evidence: p1 didn't know what a "picker" was and got confused.*
 1. Research focus issues with VoiceOver while getting into and out of the date of birth Month field. See if the issue can be fixed.
@@ -382,10 +381,8 @@ There are a number of findings that were outside the scope of the research goals
 
 ## Further research needed
 
-*Identify gaps in the current study and areas requiring additional investigation––such as demographics that were not included in this study.* 
-
 1. Check analytics for the existing "Finish this request later" link on VA forms to see how much it's being used, but unfortunately it's not currently being tracked (only autosaves are currently tracked). Request that the "Finish this request later" link be instrumented for analytics, and then see if changing this link to a button (as tested in this study) results in more clicks.
-1. If the Save in Progress messaging gets revised as a result of this research, another round of usability testing would be helpful to see if it works better than the version tested in this study. For a more realistic user experience, we could simulate the timeout experience that signs out the user. 
+1. If the Save in Progress messaging gets revised as a result of this research, another round of usability testing would be helpful to see if it works better than the version tested in this study. For a more realistic user experience, we could simulate the timeout experience to sign out the user. 
 
 ## Appendix
 [Research plan](./research-plan.md)
@@ -427,15 +424,6 @@ There are a number of findings that were outside the scope of the research goals
   
 </details>
 
-
-## Other supporting documents created
-
-*Include links to additional materials, e.g., personas, user flows.*  
-
-
-## Secondary research
-
-*Include any relevant secondary research, e.g., web analytics, SME interviews.*  
 
 ## Who we talked to 
 _Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
