@@ -10,7 +10,7 @@
 
 **Jump to:**
 
-[Methodology](#bookmark=id.fu0zjfe9t3k2)
+[Methodology](#methodology)
 
 [Hypotheses and conclusions](#bookmark=id.oz1n0v98n823)
 
