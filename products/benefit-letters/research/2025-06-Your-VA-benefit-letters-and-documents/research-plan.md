@@ -82,7 +82,7 @@ Success will be measured through improved task completion rates, reduced time-on
   
 ## Methodology  🛠️
 
-We will conduct remote, moderated, one-hour, semi-structured interviews and usability testing with the “Your VA benefit letters and documents” screens on the fully functioning production version. The screens will be a new, fully functional version, including the letter downloads, edit mailing address, and verify mailing address screens.
+We will conduct remote, moderated, semi-structured interviews and usability testing with the “Your VA benefit letters and documents” screens on the fully functioning production version. These sessions should be 60 minutes for non-AT users and 90 minutes for AT users. The screens will be a new, fully functional version, including the letter downloads, edit mailing address, and verify mailing address screens.
 
 - Semi-structured interview about letter usage and experiences.
 - Usability testing: Task-based usability testing on desktop and mobile devices.
@@ -122,7 +122,7 @@ Our intended audience are Veterans. We will partner with Perigean to recruit ass
 - `Veterans:` **12**
 - `Caregivers:` **0**
 - `Dependents:` **0**
-- `Total:` **18**
+- `Total:` **12**
 - `Ideal completed sessions:` **12**
 
 ### Primary criteria (must-haves)
@@ -130,8 +130,16 @@ Our intended audience are Veterans. We will partner with Perigean to recruit ass
 
 - 6 are AT users
   - 3 must use a screen reader every time they access the internet
-  - 2 or 1 uses a screen magnifier every time they access the internet
-  - 2 or 1 uses a voice command to access the internet
+  - At least one uses a screen magnifier every time they access the internet
+  - At least one uses one of the following voice command/speech recognition apps every time they access the internet
+    - Dragon NaturallySpeaking
+    - Talon
+    - Voice Control
+    - Windows Speech Recognition
+    - Windows Voice Access
+    - Android Voice Access
+
+	
 - 6 are non-AT users
   - At least 3 have a computer and are willing to use it for the session
   - At least 3 have a smartphone and are willing to use it for the session
@@ -147,11 +155,11 @@ Our intended audience are Veterans. We will partner with Perigean to recruit ass
 #### Secondary criteria (nice-to-haves)
 *What criteria would strengthen your results?* 
 
-- 50% aged 55 years or older
-- 50% mobile web users
-- 30% Hispanic, Black, Biracial, Asian, or Native
-- 20% rural
-- 20% women
+- 6 aged 55 years or older
+- 6 mobile web users
+- 4 Hispanic, Black, Biracial, Asian, or Native
+- 3 rural
+- 3 women
 
 
 ## Timeline 🗓️
@@ -165,7 +173,8 @@ Our intended audience are Veterans. We will partner with Perigean to recruit ass
 ### Prepare
 *When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).*
 
-**A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.** 
+**3 pilot sessions are required to test with screen reader, screen magnifier, and voice command software.
+
 > [!NOTE]
 > **Send pilot participant email in study Slack channel**
 
