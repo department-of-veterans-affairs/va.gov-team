@@ -59,6 +59,12 @@
 - This includes tests for our new Veteran Status Card page and checks for initial loading of Veteran Status Card as well as vet verification alerts and system errors.
 
 ### Unit Test Coverage
+Here are the percentages as of June 23, 2025:
+- Lines = 100%
+- Functions = 100%
+- Statements = 100%
+- Branches = 81.15%
+  
 Here are the percentages as of May 27, 2025:
 - Lines = 99.01%
 - Functions = 100%

@@ -37,7 +37,7 @@ Attendees: Renata Keck, Rachel Pope, Amanda Klausmeier, Premal Shah, Mike Mooney
         - New system allows for less detail than the old system
         - Technical limitations may be part of the problem
 - **Meetings this week**
-    - Nothing for CHAMPVA applications team
+    - Nothing for CHAMPVA enrollment team
     - Duty to assist for CHAMPVA Claims
         - Seems like post-MVP work
         - With digital flow, we can probably provide a phone number instead of flagging it in the system
