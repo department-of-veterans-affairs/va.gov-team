@@ -2,7 +2,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Data Grid, Data Visualization**
 
-**Date: **06/11/2025
+**Date:** 06/11/2025
 
 **Contacts:** Ben Nguyen
 
