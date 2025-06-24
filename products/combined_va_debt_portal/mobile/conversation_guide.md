@@ -83,9 +83,9 @@ How have you been involved with the VA – both in the past and now?
 
 Now we're going to move to the financial portion of our discussion. I have no insight into your financial obligations with VA. For our conversation, we'll be more focused on your experience with the finances, so any specific amounts will not need to be shared.
 
-✂️ Split paths: Cohort 1 (overpayments) starts here ↔️ Cohort 2 (copays) starts here ✂️
+✂️ Split paths: [Cohort 1 (overpayments) starts here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/new-flow-splitting-cohorts/products/combined_va_debt_portal/mobile/conversation_guide.md#cohort-1---overpayments)  ↔️ [Cohort 2 (copays) starts here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/new-flow-splitting-cohorts/products/combined_va_debt_portal/mobile/conversation_guide.md#cohort-1---overpayments) ✂️
 
-### Cohort 1 - Overpayments
+### Cohort 1 - Overpayments ✂️ ✂️ ✂️ ✂️
 
 * _Overview of their financial obligations_
     * (VBA debts) Have you had any debts as a result of a benefit overpayment?
@@ -252,7 +252,7 @@ If needing to exit the session
 
 ✂️ ✂️ ✂️ ✂️ End of Cohort 1 (overpayments) ✂️ ✂️ ✂️ ✂️
 
-### Cohort 2 - Copays
+### Cohort 2 - Copays ✂️ ✂️ ✂️ ✂️
 
 * _Overview of their financial obligations_
     * (copays) What is your experience with medical copayments through the VA?
