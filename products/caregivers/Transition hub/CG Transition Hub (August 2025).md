@@ -81,9 +81,7 @@ This roadmap reflects current priorities and efforts for the 10-10CG application
 
 **Next (Planned / In Progress Discovery):**
 * **Caregiver Clarification:** Content refresh is in progress to improve clarity around caregiver roles and definitions. This likely aligns with previous "Primary/Secondary Caregiver selection" work.
-* **Integrate with Mobile app:** Ongoing exploration for possible integration with the VA mobile application.
-* **Form Language Translation:** Work with the Content team (Danielle Thierry) to translate the form into additional languages (e.g., Spanish, Tagalog).
-
+* **Integrate with Mobile app:** Ongoing exploration for possible integration with the VA mobile application, and whether this integration would be beneficial.
 
 ## **Features and initiatives we worked on**
 
