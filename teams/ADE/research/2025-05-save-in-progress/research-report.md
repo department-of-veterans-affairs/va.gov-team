@@ -290,7 +290,7 @@ Research sessions were conducted over Zoom during May 12-21, 2025. Sessions were
    > *"I do like that. It has 1 of 6. That is nice because you never know how many pages this thing's gonna be" (p9).*
   
 - Two other participants mentioned the step numbers. Only one participant mentioned the visual bars. 
-- Three participants (1 using a screen reader on desktop, 1 using a screen magnifier on desktop, and using no assistive tech on a phone) said that the form had too many short pages and that they preferred fewer longer pages with related information on the same page, rather than across multiple pages (e.g., your name and social security number on different pages). 
+- Three participants (1 using a screen reader on desktop, 1 using a screen magnifier on desktop, and 1 using no assistive tech on a phone) said that the form had too many short pages and that they preferred fewer longer pages with related information on the same page, rather than across multiple pages (e.g., your name and social security number on different pages). 
    > *"You can have one page that puts in your personal information and your demographics...And then the next page can be what I'm requesting...It could be cut down a lot. It didn't have to be 6 pages" (p2).*
 
    > *"If you ask me for my street address, and then I have to hit 'Continue' to get to the next thing, that annoys me. So when I'm doing a form, I'd like as much information on that page to fill out all at one time as possible. I really don't like to have to go 'Continue' 'Continue' all the time because that's just another thing that I have to do and have to listen to" (p1--screen reader user).*
@@ -342,15 +342,18 @@ There are a number of findings that were outside the scope of the research goals
 1. Investigate the **form navigation issues that 2 screen reader users had while using VoiceOver on iPhones with the Safari** web browser in which focus kept jumping to the top of the page or to the Safari controls below the page after almost every field. 
     - *Supporting evidence:* These focus issues made it very difficult for 2 mobile screen reader users to fill out the form. One of them stayed with Safari, and the other gave up and switched to using Chrome.  
 
+1. **Consider whether having many short pages in a form is preferable to a smaller number of longer pages**. Be aware of the feedback that some Veterans dislike VA forms having so many short pages. 
+    - *Supporting evidence:* 3 of 11 participants (1 using a screen reader on desktop, 1 using a screen magnifier on desktop, and 1 using no assistive tech on a phone) said that the form had too many short pages and that they preferred fewer longer pages with related information on the same page. The screen magnifier user said that having to repeatedly click _Continue_ to see the next question was annoying because it's more of his screen reader that he has to listen to.
+
 ### For the My VA team
-Fix these accessibility issues:
+#### Fix these accessibility issues:
 1. In the draft cards under "Benefit applications and forms", **make the "Continue your application" link scale up with magnification** like everything else on the card already does.
     - *Supporting evidence:* One participant using a screen magnifier found it difficult to read this link because its font didn't magnify like all the other text on the card and so it was small and hard to read.
 1. **Consider renaming the header "Benefit applications and forms" to "Applications and forms"** or something else similarly short so that it will be more accessible to screen magnifier users.
    - *Supporting evidence:* One participant using a screen magnifier didn't recognize that his draft form was under "Benefit applications and forms" because all he saw was "Benefit applications".
 
 ### For the Request Personal Records form
-Fix these accessibility issues:
+#### Fix these accessibility issues:
 1. See if **field type announcing by screen readers can happen sooner**, perhaps *before* the field name, to set the user's expectations for  the type of interaction expected.
     - *Supporting evidence:* A desktop screen reader user didn't know that the birth month field was a popup because he stopped the screen reader before it was done announcing. A mobile VoiceOver user also didn't know that field was a popup and so tried to type a number into the field. In addition, on the Review/Submit page, a JAWS screen reader user heard the checkbox announced *after* the entire "I certify the information above is correct and true to the best of my knowledge and belief" line. 
 
@@ -363,7 +366,7 @@ Fix these accessibility issues:
 1. Try to **fix announcing issues with JAWS where it says "has popup" for the State/Province/Region and Postal code text fields**. See if the issue can be fixed.
     - *Supporting evidence:* One screen reader user (JAWS on desktop) reported that the State/Province/Region and Postal code fields said "has pop up", even though they're both text fields.
 
-1. See if the duplicate messaging from JAWS for the records checkboxes and mailing address fields can be removed.
+1. **See if the duplicate messaging from JAWS for the records checkboxes and mailing address fields can be removed**.
     - *Supporting evidence:* Two screen reader users said that they were hearing every records checkbox option and mailing address fields twice while using the arrow keys to navigate through the form.
 
 1. Try to **fix announcing issues with VoiceOver for the citizenship question, which said it was a checkbox instead of a radio button**.
@@ -378,13 +381,29 @@ Fix these accessibility issues:
 1. **Consider differentiating the unauth and auth versions of the form intro page so that they don't look exactly the same** except for the very bottom.
     - *Supporting evidence:* Participants found this disorienting after they signed in but then seemed to still be on the same page. Screen reader users had to listen to the entire page being read out a second time, unlike sighted users who can visually scan to see that it's the same and not read every word.
 
-Fix these usability issues:
+#### Fix these usability issues:
 
 1. **Fix the postal code field so it will accept a valid autofill suggestion without returning an error** ("Enter a ZIP code"). This is a known issue with autofilling with a coding workaround in [this ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/2668).
     - *Supporting evidence:* One participant accepted the (correct) autofill suggestion for their zip code, and the form gave an error.
 
 1. Consider the design suggestion: The **error message for SSN validation could provide more information**. Instead of saying that it needs 9 digits, it could also say how many digits you entered: "You entered 8 digits for your social security number, but you need 9 digits."
      - *Supporting evidence:* Participants were confused when they thought they entered 9 digits but actually hadn't. This issue may be less of an issue when users enter their actual SSN, rather than a fake one for the research session.
+
+1. Consider adding some **help text that says what the "VA file number" is**.
+    - *Supporting evidence:* Four participants didn't know what a "VA file number" was and why you might want to use one.
+
+1. Consider adding a **description of what a "VA regional office" is**. 
+    - *Supporting evidence:* Three participants were confused by the field and skipped it. One didn't know whether to enter their regional office because they go to a clinic in a different region, and whether it should be a clinic or a hospital.
+
+1. Consider adding an **explanation or disclaimer about how the VA can provide military records**. 
+    - *Supporting evidence:* Two participants questioned the ability to request your military records through the VA. One of them had military records previously that the VA was unable to access. The other participant was concerned about privacy because he thought that VA wasn't supposed to know about some things from the military. 
+
+1. Explore **prefilling the Veteran's name and address**, which we know once they've signed in. 
+    - *Supporting evidence:* This suggestion came from a participant, who wanted to type less but was willing to make corrections if any information was wrong.
+
+1. At the **top of the form's intro page, consider simplifying the text directly under the H1**: 
+    > "Freedom of Information Act (FOIA) or Privacy Act (PA) Request (VA Form 20-10206)"
+    - *Supporting evidence:* One participant was confused by "Freedom of Information Act (FOIA)" right underneath the name of the form on the intro page they expected to see something about the Request personal records form.
 
 
 ## Next Steps
