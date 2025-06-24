@@ -324,7 +324,7 @@ There are a number of findings that were outside the scope of the research goals
 ## Recommendations
 ***MAYBE ORGANIZE BY GROUPING TOGETHER or LABELING types of a11y issues: incorrect announcing, redundant announcing, misinterpretation, focus issues? Do this for findings and also for recommendations b/c incorrect announcing and focus issues are more important than redundant announcing***
 
-### For the Design System + Forms team
+### For the Design System and Forms Library team
 1. **Revise the Save in Progress messaging to communicate more effectively that we're saving the user's form information as it's being entered/updated**. We need to revisit how we communicate what the form is doing so that we inform every user without being annoying.
    - *Supporting evidence:* We're saving automatically with every edit, which participants asked for, but most didn't realize that was actually happening because they didn't see or understand the informational alerts.   
    - Consider the suggestions below:
@@ -340,11 +340,14 @@ There are a number of findings that were outside the scope of the research goals
      - *Supporting evidence:* There's currently no way to sign out after you click *Finish later* and land on the intro page because you're still seeing the minimal header.
 
 ### For the My VA team
+Fix these accessibility issues:
 1. Fix this accessibility issue with My VA: In the draft cards under "Benefit applications and forms", **make the "Continue your application" link scale up with magnification** like everything else on the card already does.
     - *Supporting evidence:* One participant using a screen magnifier found it difficult to read this link because its font didn't magnify like all the other text on the card and so it was small and hard to read.
+1. Consider renaming the header "Benefit applications and forms" to "Applications and forms" so that it will be more accessible to screen magnifier users.
+   - *Supporting evidence:* One participant using a screen magnifier didn't recognize that his draft form was under "Benefit applications and forms" because all he saw was "Benefit applications".
 
-### For the team responsible for the Request Personal Records form
-Fix the accessibility and usability issues with the Request personal records form:
+### For the Request Personal Records form
+Fix these accessibility issues:
 1. **Change the announcement for dropdown fields from "Double tap to activate the picker" to use plain language**: "Double tap to select the month", "Double tap to select the country", and "Double tap to select the state".
     - *Supporting evidence:* p1 didn't know what a "picker" was and got confused.
 1. Try to **fix focus issues with VoiceOver while getting into and out of the date of birth Month field**.
@@ -353,6 +356,9 @@ Fix the accessibility and usability issues with the Request personal records for
 1. On the Review/Submit page, the error handling for the ***Your full name* field should be streamlined so that (1) focus goes to the name field (vs. the top of the component), and (2) the error message is announced immediately** (vs. after two repetitions of most of the text in the component). 
     - *Supporting evidence:* This is so verbose for screen reader users that they perceive it as multiple repetitions of the same information and don't listen carefully to the very end that describes the error.
     - Also consider making the affirmation statements at the end of the form more concise so there's less text for participants to skip and so they might pay more attention. Also revisit why the previous and next lines of text are repeated while focus is in the name text field, which appears to be because it's specified in the code so that all users hear it, regardless of how they navigated to the field (by tabs or arrows).
+
+Fix these usability issues:
+
 1. **Fix the postal code field so it will accept a valid autofill suggestion without returning an error** ("Enter a ZIP code"). This is a known issue with autofilling with a coding workaround in [this ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/2668).
     - *Supporting evidence:* One participant accepted the (correct) autofill suggestion for their zip code, and the form gave an error.
 
