@@ -111,6 +111,13 @@ Research sessions were conducted over Zoom during May 12-21, 2025. Sessions were
 1. Most participants (9 of 11) **didn't know that their information was being saved automatically with every edit**.
 1. Most participants **didn't see the informational alerts about saving**, and the few who did, didn't remember what they said.
 1. ALL participants **tried the *Finish later* button and from that learned that their information was saved**.
+1. All participants were able to resume filling out the form after taking a short break and a long break.
+1. My VA had accessibility issues for screen magnifiers.
+1. VA forms in general had accessibility issues for screen readers and screen magnifiers.
+1. The Request Personal Records form had many accessibility issues.
+1. Most participants who encountered form errors understood how to resolve them, but there were some exceptions.
+1. Only half of the participants (6 of 11) mentioned the progress bar.
+
 
 
 
@@ -175,7 +182,7 @@ Research sessions were conducted over Zoom during May 12-21, 2025. Sessions were
 - 1 participant didn't use either of the above methods and instead just went back to their open browser window, which hadn't timed out. 
 - 3 participants noticed that they were returned to the *page before* the one that they had been on. This is because no information had been entered on the page they were on [a known issue], but they said that they would have preferred to come back to the actual (blank) page that they had been on last.
 
-**Finding 5: My VA had accessibility issues for screen magnifiers**
+**Finding 5: My VA had accessibility issues for screen magnifiers.**
 - One participant using a screen magnifier (on a Windows computer using the Edge browser and Microsoft Zoom Magnification at least 300%) asked why the **"Continue your application" link in the form request card on My VA was so much smaller than everything else on the card**. The link text didn't scale up like the text above it.
 <details><summary>Click to see a screenshot of the issue.</summary>
 <img src="./images/p13-MyVA-form-card-bottom.png" width="50%" height="50%">
@@ -186,7 +193,7 @@ Research sessions were conducted over Zoom during May 12-21, 2025. Sessions were
 <img src="./images/p13-MyVA-Benefit-apps-no-forms.png" width="50%" height="50%">
 </details>
 
-**Finding 6: VA forms in general had accessibility issues for screen readers and screen magnifierss**
+**Finding 6: VA forms in general had accessibility issues for screen readers and screen magnifiers.**
 - Two screen reader users (VoiceOver on iOS with Safari) had **difficulty navigating while using Safari because focus kept jumping** to the top of the page or to the Safari controls below the page. p5 was unable to navigate the form and so switched to Chrome, where navigation worked normally. p4 was able to navigate the form well enough in Safari to fill it out.
   > *"A lot of the government websites are not working that great with Safari anymore, and...you need to use Google Chrome" (p5).*
 
@@ -215,7 +222,7 @@ Research sessions were conducted over Zoom during May 12-21, 2025. Sessions were
     - Moved up and down with arrow keys on keyboard with his left hand. When he wanted to continue reading across the page, he moved the mouse sideways with his right hand, but *not* for every line. Skimmed down the page while not all the words across are in his view, and he assumed what it said--often accurately but sometimes not.
 
 
-**Finding 7: The Request Personal Records form had many accessibility issues**
+**Finding 7: The Request Personal Records form had many accessibility issues.**
 - Three participants (2 of whom were using screen readers) said that the signed-in version of the form intro page looks the same as the non-signed in version, except at the very bottom, which is disorienting and repetitive. The screen reader users had to listen to the entire intro page being read twice--once before signing in, and then again after signing in. One participant suggested that the "Sign in to start your request" link could bring you directly to the first question in the form (rather than to the authenticated version of the form intro page). 
 
 - A screen reader user expected to be able to click on one of the record types listed on the intro page, but they weren't clickable. 
@@ -265,7 +272,7 @@ Research sessions were conducted over Zoom during May 12-21, 2025. Sessions were
 - Another screen reader user (JAWS on desktop) didn't expect the checkbox to be announced _after_ the "I certify..." line instead of before it.
     > *"It says, 'I certify'. Usually when something starts out with the words 'I certify', there's a checkbox there...You're telling me and then you're given my name, and then you put the actual box underneath of it, which is not typically what I'm used to...I had to listen to the whole thing to find out if that was a checkbox or not...cause it wouldn't have told me until the end" (p1).*
 
-**Finding 8: Most participants who encountered form errors understood how to resolve them, but there were some exceptions** 
+**Finding 8: Most participants who encountered form errors understood how to resolve them, but there were some exceptions.** 
 - 9 of 11 participants encountered errors while they were filling out the form, and most of them understood their meaning and what they needed to do to fix them.
    > *"Tells me where I screwed up" (p13).*
 
