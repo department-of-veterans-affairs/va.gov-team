@@ -24,7 +24,7 @@ The 10-10EZ: Application for VA health care was one of the first applications to
 
 * Used by Veterans to apply for health care.
 * Averaging 20,000 submissions per month.
-* Login is available, but not required.
+* Users can log into their VA.gov account (authenticate), but a VA.gov account is not required.
     * Some fields are prefilled for authenticated users.
     * Authenticated users can "save in progress" and return to complete their application.
 
