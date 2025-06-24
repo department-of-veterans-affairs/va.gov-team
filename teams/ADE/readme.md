@@ -49,11 +49,29 @@ There may also be opportunities to collaborate with an accessibility researcher 
 > [!CAUTION]
 > Note that we cannot provide extensive on call technical support during research sessions. If you are worried about technical issues, we recommend running a pilot session or two with ADE specialists so that we can discuss ways to best support your needs.
 
-### VA 508 office audit review
-> [!TIP]
-> This is a new service offered by the ADE team.
+### VA 508 office audits 
 
-We will review the results of your VA 508 office audit and:
+The VA 508 Office performs Sampling Audits, when they are requested by VFS teams. ADE can assist teams prior to the audit and after the audit.
+
+> [!TIP]
+> **About the VA 508 Office Sampling Audits:** Should your VFS team request an audit from the VA 508 office, your future 508 audit will only check a portion of your product. Since the 508 office does not test the entire product, some accessibility problems might be missed. Your VA project team is responsible for testing the entire product. The screens that will be selected and manually reviewed by the 508 office will be checked against WCAG 2.0 A and AA standards and Section 508 accessibility requirements.
+
+#### Prepping for a VA 508 audit
+Our team offers strategic, accessibility reviews prior to official 508 audits, to help your team prepare your product for a (hopefully) successful audit result.
+
+##### ADE's Comprehensive Approach
+To maximize your audit readiness, our team takes a holistic approach by:
+- Collaborating with your product team to understand core objectives and business goals
+- Testing critical user pathways and workflows, as relayed by your team
+- Applying 508 severity-level guidance to prioritize the most impactful accessibility improvements (i.e. critical items)
+- Culminating in product reviews to assist your team in identifying potential issues before they reach the official audit.
+
+##### ADE's Commitment
+While we cannot guarantee audit outcomes due to the variable nature of 508 process, we are committed to providing comprehensive, ongoing accessibility assessments that significantly improve your product's accessibility compliance posture, reducing the likelihood of significant findings during official 508 review.
+
+#### After your VA 508 office audit review
+
+After you receive your results of your VA 508 office audit, we can help you review the results and:
 - Determine what team owns each issue
 - Write up instructions for how to correct each issue
 - Provide those instructions to relevant teams
