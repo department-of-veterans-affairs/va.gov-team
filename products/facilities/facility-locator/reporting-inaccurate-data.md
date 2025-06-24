@@ -6,10 +6,10 @@ Jump to:
 
 * [&#8595; Facility source of truth](facility-source-of-truth)
 * [&#8595; VHA Medical Centers and Clinic data  ]([#vha-medical-centers-and-clinics)
-* [&#8595; Vet Centers, Vet Center Outstations, and Community Access Points 
-* [&#8595; VBA Regional Offices, Satellite Offices, VetSuccess on Campus, IDES sites, Veteran Readiness & Employment offices
-* [&#8595; NCA Cemeteries]
-* [&#8595; Community care providers and pharmacies]
+* [&#8595; Vet Centers, Vet Center Outstations, and Community Access Points](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/reporting-inaccurate-data.md#vet-centers-vet-center-outstations-and-community-access-points)
+* [&#8595; VBA Regional Offices, Satellite Offices, VetSuccess on Campus, IDES sites, Veteran Readiness & Employment offices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/reporting-inaccurate-data.md#vba-regional-offices-satellite-offices-vetsuccess-on-campus-ides-sites-veteran-readiness--employment-offices)
+* [&#8595; NCA Cemeteries](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/reporting-inaccurate-data.md#nca-cemeteries)
+* [&#8595; Community care providers and pharmacies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/reporting-inaccurate-data.md#community-care-providers-and-pharmacies)
 
 ## Facility souce of truth
 
