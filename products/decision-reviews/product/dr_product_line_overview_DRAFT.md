@@ -19,6 +19,21 @@ Click the link to navigate to a section.👇
 - [Status Codes and Error Messages](#status-codes-and-error-messages)
 - [Analysis Steps](#analysis-steps)
 
+# Current Priority: Onramp for DR Selection
+
+Priority for Decision Reviews (DR) in Q3-Q4 of 2025 has been to research, design, implement, and ship an "onramp" questionnaire to guide the Veteran or appellant's selection of the most appropriate DR option.
+
+*Primary Hypothesis:*
+The questionnaire will reduce decision confusion, leading to more appropriate pathway selection and fewer "pathway switching" behaviors.
+
+*Core Success Definition*
+Veterans select the most appropriate decision review option on their first attempt, reducing time-to-resolution and system inefficiency.
+
+*Tier 1 metrics*
+- Pathway Switching Rate (PSR)
+- Form Abandonment Rate (FAR)
+- First-Attempt Success Rate (FASR)
+
 # Executive Summary
 
 In 2023, VA.gov achieved the major milestone of releasing of all decision review forms on VA.gov, enabling Veterans to file for reviews and appeals to decisions about their claims via self-service. With the MVP product line now in place, the product strategy will prioritize stability, transaction growth, and a holistic, personalized experience. Decisions that inform roadmap priorities, experiment scope, and KPIs are made based on their potential to help Veterans accomplish their top Decision Review tasks, increase VA.gov transactions resulting in favorable outcomes, and improve transaction integrity. 
