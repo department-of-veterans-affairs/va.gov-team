@@ -108,19 +108,15 @@ Research sessions were conducted over Zoom during May 12-21, 2025. Sessions were
 
 [Example Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)
 
-1. Most participants (9 of 11) **didn't know that their information was being saved automatically with every edit**.
-1. Most participants **didn't see the informational alerts about saving**, and the few who did, didn't remember what they said.
-1. ALL participants **tried the *Finish later* button and from that learned that their information was saved**.
+1. Most participants didn't know that their information was being saved automatically with every edit.
+1. Most participants didn't see the informational alerts about saving, and the few who did, didn't remember what they said.
+1. ALL participants tried the *Finish later* button and from that learned that their information was saved.
 1. All participants were able to resume filling out the form after taking a short break and a long break.
 1. My VA had accessibility issues for screen magnifiers.
 1. VA forms in general had accessibility issues for screen readers and screen magnifiers.
 1. The Request Personal Records form had many accessibility issues.
 1. Most participants who encountered form errors understood how to resolve them, but there were some exceptions.
-1. Only half of the participants (6 of 11) mentioned the progress bar.
-
-
-
-
+1. Only half of the participants mentioned the progress bar.
 
 ## Details of Findings 
 
