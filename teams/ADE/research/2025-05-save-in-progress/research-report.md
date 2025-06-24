@@ -334,8 +334,8 @@ There are a number of findings that were outside the scope of the research goals
 ## Recommendations
 ***MAYBE ORGANIZE BY GROUPING TOGETHER or LABELING types of a11y issues: incorrect announcing, redundant announcing, misinterpretation, focus issues? Do this for findings and also for recommendations b/c incorrect announcing and focus issues are more important than redundant announcing***
 
-### Revise the Save in Progress messaging
-1. **Figure out how to communicate more effectively that we're saving the user's form information as it's  entered/updated**. We need to revisit how we communicate what the form is doing so that we inform every user without being annoying.
+### For the Design System + Forms team
+1. **Revise the Save in Progress messaging to communicate more effectively that we're saving the user's form information as it's being entered/updated**. We need to revisit how we communicate what the form is doing so that we inform every user without being annoying.
    - *Supporting evidence:* We're saving automatically with every edit, which participants asked for, but most didn't realize that was actually happening because they didn't see or understand the informational alerts.   
    - Consider the suggestions below:
       1. Messaging should be better integrated into the user's interaction flow with the form. It's possible that no messaging will be effective before the user has started filling out information, so we should find somewhere other than the intro page and the top of the first page of the form. Users may be more receptive to an alert that shows up later while they're editing and then pause, such as right after they click the *Continue* button. 
@@ -344,21 +344,21 @@ There are a number of findings that were outside the scope of the research goals
            1. If we want a message that shows up with every save, it could be very short (e.g., "Saving..." or "Autosaved now"). 
       1. Consider relabeling the *Finish later* button to better align with the revised messaging.
 
-### Fix issues with VA forms 
-1. On the Review/Submit page, consider moving the "+" from the right margin to the left margin.
-     - *Supporting evidence:* A screen magnifier user didn't see the "+"'s to expand the accordions because they're so far to the right and there was no visual indication that there was anything more to the right. 
-1. After you click *Finish later*, you should be able to sign out. Need to revert to the full VA.gov header for the authenticated intro page in order to enable signout.
+1. **On the forms Review/Submit page, consider moving the "+" from the right margin to the left margin**.
+     - *Supporting evidence:* A screen magnifier user didn't see the "+"'s to expand the accordions because they're so far to the right and there was no visual indication that there was anything that needed scrolling to the right. 
+1. **After you click *Finish later*, you should be able to sign out** in the Minimal header format, which is currently not possible. We should revert to the full VA.gov header for the authenticated intro page in order to enable signout.
      - *Supporting evidence:* There's currently no way to sign out after you click *Finish later* and land on the intro page because you're still seeing the minimal header.
 
-### Fix accessibility issues with My VA
-1. My VA--Make the "Continue your application" link in the form request card scale up with magnification like everything else on the card already does.
-    - *Supporting evidence:* One participant using a screen magnifier found it difficult to read this link because its font didn't magnify like all the other text on the draft form card.
+### For the My VA team
+1. Fix this accessibility issue with My VA: In the draft cards under "Benefit applications and forms", **make the "Continue your application" link scale up with magnification** like everything else on the card already does.
+    - *Supporting evidence:* One participant using a screen magnifier found it difficult to read this link because its font didn't magnify like all the other text on the card and so it was small and hard to read.
 
-### Fix accessibility issues with Request personal records form
-1. Change the announcement for dropdown fields from "Double tap to activate the picker" to use plain language: "Double tap to select the month", "Double tap to select the country", and "Double tap to select the state".
+### For the team responsible for the Request Personal Records form
+Fix accessibility and usability issues with the Request personal records form:
+1. **Change the announcement for dropdown fields from "Double tap to activate the picker" to use plain language**: "Double tap to select the month", "Double tap to select the country", and "Double tap to select the state".
     - *Supporting evidence: p1 didn't know what a "picker" was and got confused.*
-1. Research focus issues with VoiceOver while getting into and out of the date of birth Month field. See if the issue can be fixed.
-    - *Supporting evidence: Focus was on the Month field, but what p4 typed ended up in the Last name field. And when p4 was done picking the Month, focus was moved to the very top of the page.*
+1. Try to **fix focus issues with VoiceOver while getting into and out of the date of birth Month field**.
+    - *Supporting evidence:* Focus was on the Month field, but what p4 typed ended up in the Last name field. And when p4 was done picking the Month, focus was moved to the very top of the page.
 1. Research announcing issues with JAWS where it says "has popup" for the State/Province/Region and Postal code text fields. See if the issue can be fixed.
 1. On the Review/Submit page, the error handling for the *Your full name* field should be streamlined so that (1) focus goes to the name field (vs. the top of the component), and (2) the error message is announced immediately (vs. after two repetitions of most of the text in the component). 
     - *Supporting evidence:* This is so verbose for screen reader users that they perceive it as multiple repetitions of the same information and so they don't listen carefully to the very end that describes how to fix the error.
