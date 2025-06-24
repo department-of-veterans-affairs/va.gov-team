@@ -113,8 +113,13 @@ Now we're going to move to the financial portion of our discussion. I have no in
 
 ## Prototype & Usability
 
+I'm going to be showing you a prototype of the mobile app, with some new features that we're testing out before we consider building them.
+
+_(request they share screen, send them prototype link)_
+
 From home screen
 
+* You're on the home screen of our pretend mobile app.
 * Don’t yet click on anything: show me where to find what money you currently owe
     * How clear was that to find?
     * Tell me your thoughts on the title of that section.
@@ -122,6 +127,7 @@ From home screen
         * Are there other names that would be a better description?
 * Now click into that tab
     * What are your thoughts on the info presented here?
+    * What do you think about the information presented on this screen? (e.g. amount, due date)?
 
 Overpayment benefits debt _(Cohort 1 starts here, then continues to next section if relevant)_
 
@@ -149,6 +155,7 @@ Overpayment benefits debt _(Cohort 1 starts here, then continues to next section
     * Talk to me about that experience of starting to make the payment (e.g. opening .gov, new sign-in, copying payment + account info)
     * After you’ve made a payment, what would you expect to see? When would you expect to see an update?
     * If this were to be built in real life, how likely would you be to use it?
+    * How would the likelihood of you using this compare to the previous version where you were not able to make payments?
 * If you knew you also have medical copayments, where would you go to find that?
     * Had you noticed a reference to it on the overpayments debt page?
 * Now that we’ve gone through this section, do you have any other thoughts about what is here and how the information is presented?
@@ -184,10 +191,11 @@ Copayments _(Cohort 2 starts here, then continues to Overpayment section if rele
     * What are your thoughts on this new section not having a payment option?
     * If this were to be built in real life, how likely would you be to use it?
 * Now I'm going to have you click [location TBD] to view a different version. _(with payment option)_
-    * If you are ready to make a payment on this debt, walk me through how you would do that.
+    * If you are ready to make a payment on this bill, walk me through how you would do that.
     * Talk to me about that experience of starting to make the payment (e.g. opening .gov, new sign-in, copying payment + account info)
     * After you’ve paid this bill, what would you expect to see? When would you expect to see an update?
     * If this were to be built in real life, how likely would you be to use it?
+    * How would the likelihood of you using this compare to the previous version where you were not able to make payments?
 * If you knew you also have benefit overpayment debt, where would you go to find that?
     * Had you noticed a reference to it on the copayments page?
 * _(if user has not brought them up already)_ Talk to me about your monthly statements for copays
