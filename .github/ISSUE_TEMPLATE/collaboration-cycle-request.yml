@@ -150,8 +150,8 @@ body:
   - type: input
     id: form-link
     attributes:
-      label: If your work involves a form, enter the link to the PDF from [Find a Form on VA.gov](https://www.va.gov/find-forms/).
-      description: Example https://www.va.gov/vaforms/medical/pdf/VA%20Form%2010-10EZ.pdf
+      label: If your work involves a form, enter the link to the PDF from Find a Form on VA.gov.
+      description: Use [VA Find a Form](https://www.va.gov/find-forms/). Example https://www.va.gov/vaforms/medical/pdf/VA%20Form%2010-10EZ.pdf
       placeholder:
   - type: dropdown
     id: analytics-domo
