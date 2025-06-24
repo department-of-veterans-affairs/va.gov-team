@@ -7,6 +7,8 @@
 >The purpose of this transition document is to outline the current state of 10-10EZ product development. It serves as a "front door" to documentation and resources collected during the course of product design and development. Included are links to more specific transition hubs where you can find direct links to resources and references used during design and development.
 >
 >**Note:** The 10-10EZ management is under the purview of the 10-10 Health Apps team. If you're looking for information about the 10-10CG (Caregiver application) or the 10-10EZR Health update form, please refer to their dedicated transition documents.
+>- [10-10EZR Transition Hub document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/EZR%20Transition%20Hub%20(August%202025).md)
+>- [10-10CG Transition Hub document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Transition%20hub/CG%20Transition%20Hub%20(August%202025).md)
 
 
 ## **Table of Contents**
