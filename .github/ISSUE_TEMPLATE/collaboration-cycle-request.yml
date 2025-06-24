@@ -150,7 +150,7 @@ body:
   - type: input
     id: form-link
     attributes:
-      label: If your work involves a form, enter a link to the PDF on va.gov.
+      label: If your work involves a form, enter the link to the PDF on VA.gov.
       description: Example https://www.va.gov/vaforms/medical/pdf/VA%20Form%2010-10EZ.pdf
       placeholder:
   - type: dropdown
