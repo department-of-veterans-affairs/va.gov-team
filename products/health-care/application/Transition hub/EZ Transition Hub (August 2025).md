@@ -120,19 +120,13 @@ This table details recent and ongoing features and initiatives specifically for 
 The current 10-10 Health Apps team roster includes:
 * **Product Managers:**
     * Heather Justice | heather.justice1@va.gov / heather.justice@adhocteam.us / GH "hdjustice"
-    * Michael Skinner | michael.skinner1@va.gov / michael.skinner@agile6.com / GH "Agile6MSkinner"
 * **Delivery Lead:**
     * Alexandria "Alex" Parker | alexandria.parker@va.gov / alexandria.parker@agile6.com / GH "ACParker89"
 * **UX Design/Research:**
     * Jessica Stump | jessica.stump@va.gov / jessica.stump@adhocteam.us / "jessicastump" (Sr.)
     * Liza McRuer | elizabeth.mcruer@va.gov / liza.mcruer@adhocteam.us / GH "emcruer"
-    * Renata Keck | renata.keck@va.gov / renata.keck@agile6.com / GH "renatakeck"
-    * Hieu Vo | hieu.vo@va.gov / hieu.vo@agile6.com / GH "IMHieuVo"
 * **Engineers:**
     * Matt Long | matthew.long6@va.gov / matt.long@adhocteam.us / GH "longmd" (Sr. Frontend)
-    * Daniel Sasser | daniel.sasser@va.gov / daniel.sasser@agile6.com / GH "dsasser" (Frontend)
-    * Derrick Ellerbie | derrick.ellerbie@va.gov / derrick.ellerbie@Agile6.com / GH "dellerbie" (Full Stack)
-    * Joshua Drumm | joshua.drumm@va.gov / joshua.drumm@agile6.com / GH "JoshingYou1" (Full Stack/Backend focus)
     * Mitch Saltykov | dmitry.saltykov@va.gov / mitch.saltykovs@agile6.com / GH "mitch-a6" (Full Stack)
     * Brandon Cooper | brandon.cooper1@va.gov / brandon.cooper@adhocteam.us / GH "coope93" (Full Stack/Backend focus)
 * **Sr. Data Analyst:**
