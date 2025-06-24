@@ -12,15 +12,15 @@
 
 [Methodology](#methodology)
 
-[Hypotheses and conclusions](#bookmark=id.oz1n0v98n823)
+[Hypotheses and conclusions](#hypothesis-and-conclusions)
 
-[Key findings](#bookmark=id.7n66eeoub6f9)
+[Key findings](#key-findings)
 
-[Recommendations](#bookmark=id.408n0fk7eedn)
+[Recommendations](#recommendations)
 
-[Next Steps](#bookmark=id.8c63u9a67yep)
+[Next Steps](#next-steps)
 
-[Who we talked to](#bookmark=id.rhsc8hucbas0)
+[Who we talked to](#who-we-talked-to)
 
 
 # Research Goals
