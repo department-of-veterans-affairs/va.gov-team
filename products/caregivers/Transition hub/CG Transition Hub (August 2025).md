@@ -6,7 +6,9 @@
 >**Team transition document**
 >The purpose of this transition document is to outline the state of 10-10CG product development. It serves as a "front door" to documentation and resources collected during the course of product design and development. Included are links to more specific "feature transition hubs" where you can find direct links to resources and references used during design and development.
 >
->**Note:** The 10-10EZ health care application management was under the purview of the 10-10 Health Apps team. You may find some intermixed documentation; however, this hub focuses solely on the 10-10CG.
+>**Note:** The 10-10EZ health care application management was under the purview of the 10-10 Health Apps team. You may find some intermixed documentation; however, this hub focuses solely on the 10-10CG.  If you're looking for information about the 10-10CG (Caregiver application) or the 10-10EZ Veteran Health care application, please refer to their dedicated transition documents.
+>- [10-10EZ Transition Hub document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/EZ%20Transition%20Hub%20(August%202025).md)
+>- [10-10EZR Transition Hub document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/Transition%20hub/EZR%20Transition%20Hub%20(August%202025).md)
 
 ## **Table of Contents**
 - [Product context, portfolio, and artifacts](#product-context)
