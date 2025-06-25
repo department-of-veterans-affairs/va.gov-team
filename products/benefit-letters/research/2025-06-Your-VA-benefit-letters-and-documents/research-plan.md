@@ -4,9 +4,9 @@
 
 `What problem is your product trying to solve?`
 
-The "Your VA letters and documents" page lets Veterans access important letters needed to verify eligibility and status for benefits. However, the page prioritizes editing the Veteran’s mailing address, and Veterans cannot view, download, or print their letters until they click the "View Letters" button at the bottom. This extra step creates unnecessary friction, making it harder for Veterans to quickly and efficiently download their benefit-related letters.
+The "Your VA letters and documents" page enables Veteran access to letters needed to verify benefits eligibility and status. However, the page currently prioritizes editing the Veteran’s mailing address, and Veterans cannot view, download, or print their letters until they click the "View Letters" button at the bottom. This extra step creates unnecessary friction, making it harder for Veterans to quickly and efficiently download their benefit-related letters.
 
-In addition, by making letter access dependent on a required mailing address, the current flow risks excluding Veterans who do not have a valid mailing address in their VA.gov profile.
+In addition, by making letter access dependent on a required mailing address, the current flow risks excluding Veterans who don't have a valid mailing address in their VA.gov profile.
   
 `Where is your product situated on VA.gov? (ex: auth vs. unauth)`
 
@@ -39,53 +39,53 @@ This work improves access to the benefit letters and other necessary service doc
 
 ### Goals
 
-- **Goal 1:** Verify that the new design removes barriers for Veterans trying to find, understand, and use the benefit letters.  
-- **Goal 2:** Understand what motivates Veterans to get their benefit letters.  
-- **Goal 3:** Understand how the mailing address requirement affects different Veteran populations.
+- **Goal 1:** Verify that the new design removes barriers for Veterans trying to find, understand, and use the benefit letters 
+- **Goal 2:** Understand what motivates Veterans to get their benefit letters
+- **Goal 3:** Understand how the mailing address requirement affects different Veteran populations
   
 ### Outcome
 
 We'll use the findings from this research to improve Veterans' ability to access their benefit letters, with two main success criteria:
-1. Identify any possible mailing address barriers for Veterans.
-2. Enhance the customizable Benefit Summary and Service Verification Letter interface based on Veterans' real-world needs and preferences.
+1. Identify possible mailing address barriers for Veterans
+2. Enhance the customizable Benefit Summary and Service Verification Letter interface based on Veterans' real-world needs and preferences
 
 Success will be measured through improved task completion rates, reduced time-on-task, and qualitative feedback demonstrating that Veterans of varying technical abilities can efficiently locate, customize, and download their benefit letters without confusion.
 
 ### Research questions
 
-**Goal 1: Verify that the new design removes barriers for Veterans trying to find, understand, and use the benefit letters.**
+**Goal 1: Verify that the new design removes barriers for Veterans trying to find, understand, and use the benefit letters**
 
-- Will Veterans feel they need to edit their address before downloading a letter?
-- Do Veterans expand the accordions when looking for their letters?
-- What do veterans expect when they click on a link to a benefits letter?
-- What challenges do Veterans encounter when generating a customized Benefit Summary and Service Verification Letter?
+1. Will Veterans feel they need to edit their address before downloading a letter?
+2. Do Veterans expand the accordions when looking for their letters?
+3. What do Veterans expect when they click on a link to a benefits letter?
+4. What challenges do Veterans encounter when generating a customized Benefit Summary and Service Verification Letter?
 
-**Goal 2: Understand why Veterans want benefit letters.**
+**Goal 2: Understand why Veterans want benefit letters**
 
-- Which letters do Veterans find valuable?
-- Do Veterans understand the different types of letters and why they are needed before they come to the page?
-- Do Veterans understand why they need to include or exclude certain information from their Benefit Summary and Service Verification Letter?
-- What do Veterans do if they don't see the letter they're looking for?
+1. Which letters do Veterans find valuable?
+2. Do Veterans understand the different types of letters and why they are needed before they come to the page?
+3. Do Veterans understand why they need to include or exclude certain information from their Benefit Summary and Service Verification Letter?
+4. What do Veterans do if they don't see the letter they're looking for?
 
-**Goal 3: Understand the impact of the mailing address requirement in downloading and viewing benefit letters.**
+**Goal 3: Understand the impact of the mailing address requirement in downloading and viewing benefit letters**
 
-- What problems can result from making letter access dependent on a required mailing address?
-- What happens if a Veteran doesn’t currently have a mailing address?
-- Are we doing a good job communicating that this mailing address is the "latest and greatest" that appears on the Veteran's va.gov profile?
-- Do Veterans expect their customized Benefit Summary and Service Verification Letter to include their current mailing address, too?
+1. What problems can result from making letter access dependent on a required mailing address?
+2. What happens if a Veteran doesn’t currently have a mailing address?
+3. Are we doing a good job communicating that this mailing address is the "latest and greatest" that appears on the Veteran's VA.gov profile?
+4. Do Veterans expect their customized Benefit Summary and Service Verification Letter to include their current mailing address, too?
 
 ### Hypotheses
 
-- Veterans are more likely to find the letter type they need when presented with clear, concise categorization and descriptions up front rather than hidden on a secondary screen.
-- Veterans who encounter the redesigned single-step page will complete the View Letters step at a rate higher than the current design. (current: 60%)
-- Making the mailing address change to the VA.gov profile optional and the reasoning clear will increase download rates (current: 55%).
+1. Veterans are more likely to find the letter type they need when presented with clear, concise categorization and descriptions up front rather than hidden on a secondary screen.
+2. Veterans who encounter the redesigned single-step page will complete the View Letters step at a rate higher than the current design. (current: 60%)
+3. Making the mailing address change to the VA.gov profile optional and the reasoning clear will increase download rates (current: 55%).
   
 ## Methodology  🛠️
 
 We will conduct remote, moderated, semi-structured interviews and usability testing with the “Your VA benefit letters and documents” screens on the fully functioning production version. These sessions should be 60 minutes for non-AT users and 90 minutes for AT users. The screens will be a new, fully functional version, including the letter downloads, edit mailing address, and verify mailing address screens.
 
-- Semi-structured interview about letter usage and experiences.
-- Usability testing: Task-based usability testing on desktop and mobile devices.
+- Semi-structured interview about letter usage and experiences
+- Usability testing: Task-based usability testing on desktop and mobile devices
 
 ### Location
 Where will you be holding the research sessions?
@@ -103,7 +103,7 @@ Where will you be holding the research sessions?
 
 ### Recruitment approach
 
-Our intended audience are Veterans. We will partner with Perigean to recruit assistive tech (AT) Veterans and non-AT Veterans. We request a 30-minute kickoff meeting with Perigean.
+Our intended audience are Veterans. We will partner with Perigean to recruit Veterans who use assistive technology (AT) and Veterans who don't use AT. We request a 30-minute kickoff meeting with Perigean.
 
 ### Recruitment criteria
 
