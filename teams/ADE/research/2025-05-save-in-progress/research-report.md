@@ -451,7 +451,7 @@ There are a number of findings that were outside the scope of the research goals
 
 
 ## Tools used for Synthesis
-[Synthesis spreadsheet](TBD)
+[Synthesis spreadsheet](./analysis/SiP%20usab%20notes%20&%20data%20analysis--final.xlsx)
 
 [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1746465528913/8de22b81ea78a8e67d167bb339abd845a820a519)
   
