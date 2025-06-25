@@ -468,31 +468,31 @@ There are a number of findings that were outside the scope of the research goals
 
 <details>
   <summary>Intro page--not signed in (Click to show screenshots)</summary>
-  <img src="./images/Intro-pg-unauth-top.png" width="50%" height="50%">
-  <img src="./images/Intro-pg-unauth-bottom.png" width="50%" height="50%">
+  <img src="./images/Intro-pg-unauth-top.png"width="75%" height="75%">
+  <img src="./images/Intro-pg-unauth-bottom.png" width="75%" height="75%">
 
 </details>
 
 <details>
   <summary>Intro page--signed in (Click to show screenshots)</summary>
-   <img src="./images/Intro-pg-auth-top.png" width="50%" height="50%">
-   <img src="./images/Intro-pg-auth-bottom.png" width="50%" height="50%">
+   <img src="./images/Intro-pg-auth-top.png" width="75%" height="75%">
+   <img src="./images/Intro-pg-auth-bottom.png" width="75%" height="75%">
 
 </details>
 
 <details>
   <summary>Form pages (Click to show screenshots)</summary>
-   <img src="./images/form-pg1-alert&citizenship.png" width="50%" height="50%">
+   <img src="./images/form-pg1-alert&citizenship.png" width="75%" height="75%">
    <img src="./images/form-pg2-name&DOB.png" width="50%" height="50%">
-   <img src="./images/form-pg3-SSN&VAfile#.png" width="50%" height="50%">
-   <img src="./images/form-pg4-mailing-addr-top.png" width="50%" height="50%">
-   <img src="./images/form-pg4-mailing-addr-bottom.png" width="50%" height="50%">
-   <img src="./images/form-pg5-phone&email.png" width="50%" height="50%">
-   <img src="./images/form-pg6-records.png" width="50%" height="50%">
-   <img src="./images/form-pg7-additional-info.png" width="50%" height="50%">
-   <img src="./images/form-pg8-regional-office.png" width="50%" height="50%">
-   <img src="./images/form-pg9-review&submit.png" width="50%" height="50%">
-   <img src="./images/form-pg9-statement-of-truth.png" width="50%" height="50%">
+   <img src="./images/form-pg3-SSN&VAfile#.png" width="75%" height="75%">
+   <img src="./images/form-pg4-mailing-addr-top.png" width="75%" height="75%">
+   <img src="./images/form-pg4-mailing-addr-bottom.png" width="75%" height="75%">
+   <img src="./images/form-pg5-phone&email.png" width="75%" height="75%">
+   <img src="./images/form-pg6-records.png" width="75%" height="75%">
+   <img src="./images/form-pg7-additional-info.png" width="75%" height="75%">
+   <img src="./images/form-pg8-regional-office.png" width="75%" height="75%">
+   <img src="./images/form-pg9-review&submit.png" width="75%" height="75%">
+   <img src="./images/form-pg9-statement-of-truth.png" width="75%" height="75%">
 
 </details>
 
@@ -504,9 +504,9 @@ There are a number of findings that were outside the scope of the research goals
 
 <details>
   <summary>My VA (Click to show screenshots)</summary>
-   <img src="./images/MyVA-top.png" width="50%" height="50%">
-   <img src="./images/MyVA-middle.png" width="50%" height="50%">
-   <img src="./images/MyVA-bottom.png" width="50%" height="50%">
+   <img src="./images/MyVA-top.png" width="75%" height="75%">
+   <img src="./images/MyVA-middle.png" width="75%" height="75%">
+   <img src="./images/MyVA-bottom.png" width="75%" height="75%">
 
 </details>
 
