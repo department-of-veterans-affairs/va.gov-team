@@ -461,16 +461,15 @@ There are a number of findings that were outside the scope of the research goals
 
 #### Screenshots of the prototype (Codespace)
 <details>
-  <summary>Intro page--not signed in (Click to show screenshots)</summary>
-  <img src="./images/Intro-pg-unauth-top.png" width="50%" height="50%">
-  <img src="./images/Intro-pg-unauth-bottom.png" width="50%" height="50%">
+  <summary>Informational alert about saving on intro page (Click to show screenshots)</summary>
+   <img src="./images/intro-pg-alert.png" width="50%" height="50%">
 
 </details>
 
 <details>
-  <summary>Intro page--signed in (Click to show screenshots)</summary>
-   <img src="./images/Intro-pg-auth-top.png" width="50%" height="50%">
-   <img src="./images/Intro-pg-auth-bottom.png" width="50%" height="50%">
+  <summary>Intro page--not signed in (Click to show screenshots)</summary>
+  <img src="./images/Intro-pg-unauth-top.png" width="50%" height="50%">
+  <img src="./images/Intro-pg-unauth-bottom.png" width="50%" height="50%">
 
 </details>
 
@@ -498,11 +497,19 @@ There are a number of findings that were outside the scope of the research goals
 </details>
 
 <details>
-  <summary>Intro page--signed in (Click to show screenshots)</summary>
-   <img src="./images/Intro-pg-auth-top.png" width="50%" height="50%">
-   <img src="./images/Intro-pg-auth-bottom.png" width="50%" height="50%">
+  <summary>After clicking _Finish later_ (Click to show screenshots)</summary>
+   <img src="./images/after-click-finish-later.png" width="50%" height="50%">
 
 </details>
+
+<details>
+  <summary>My VA (Click to show screenshots)</summary>
+   <img src="./images/MyVA-top.png" width="50%" height="50%">
+   <img src="./images/MyVA-middle.png" width="50%" height="50%">
+   <img src="./images/MyVA-bottom.png" width="50%" height="50%">
+
+</details>
+
 
 
 ## Who we talked to 
