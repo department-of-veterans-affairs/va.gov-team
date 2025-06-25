@@ -14,13 +14,13 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 | Priority ID | Description | S.Epic | Relevant Dates |  Notes | Dependency |  End of Quarter Status |
 |---------------|---------------|---------------|---------------|---------------|---------------|---------------|
 | QP1 | **Digital Debt Dispute (VBA):** Launch in Production |[#82003](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82003)  | Launch in Production June/July | UX-BE | **DMC** | |
-| QP2 | **One Thing Per Page:** Launch in Production |[#106610](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106610)  |  | FE |  |  |
-| QP3 | **Payment History (VHA):** Progress development efforts and continue align with Lighthouse |  |  | FE-BE | **Lighthouse** |  |
-| QP4 | **Pay.gov Hosted Collection Page (HCP) for Copays:** Launch in Production |  |  | FE | **Pay.gov + HRC/VHA accounting** |  |
-| QP5 | **Reinitiate new copay emails + preference status:** **A:** Update copy with stakeholder approval (With improved language about mobile app) **B:** Flip switch **C:** Align with profile team on preference setting|  |  | UX-FE | **Blocked by Payment History VHA** |  |
+| QP2 | **One Thing Per Page:** Launch in Production |[#106610](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106610)  | launch in early July | FE |  |  |
+| QP3 | **Payment History (VHA):** Progress development efforts and continue align with Lighthouse |Launch in August/Early September  |  | FE-BE | **Lighthouse** |  |
+| QP4 | **Pay.gov Hosted Collection Page (HCP) for Copays:** Launch in Production |[ #110219](https://github.com/orgs/department-of-veterans-affairs/projects/1514/views/18?pane=issue&itemId=111610681&issue=department-of-veterans-affairs%7Cva.gov-team%7C110219)  |  | FE | **Pay.gov + HRC/VHA accounting** |  |
+| QP5 | **Medical Copay Notification + Preference** Reinitiate new copay emails + enable preference status **A:** Update copy with stakeholder approval (With improved language about mobile app) **B:** Flip switch **C:** Align with profile team on preference setting| [#77726](https://github.com/orgs/department-of-veterans-affairs/projects/1514/views/18?pane=issue&itemId=88349053&issue=department-of-veterans-affairs%7Cva.gov-team%7C77726) |Launch in late Aug/Early Sept  | UX-FE | **Blocked by Payment History VHA** |  |
 | QP6 | **Pay.gov Hosted Collection Page (HCP) for Overpayments:** Discovery & Design Prototyping |[#105733](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105733)  |  | FE | **Pay.gov + DMC for <Receivable ID> + accounting components** |  |
-| QP7 | **Veteran Request for Hardship Suspension (VBA):** Discovery & Initiate Design Prototyping |[#106207](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106207)  |  | FE | **DMC** |  |
-| QP8 | **Indirect Initiative Priority Work:** Complete all work in the Epic  1)Silent Failure Email Next Steps 2)Pagination for Statements 3) TBD|  |  | UX-FE-BE |  |  |
+| QP7 | **Veteran Request for Hardship Suspension (VBA):** Initiate Design Prototyping & Development handover |[#106207](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106207)  |Finalize engineering handover by end of Sept in preparation for development in October  | Design -FE | **DMC** |  |
+| QP8 | **Indirect Initiative Priority Work:** Complete all work listed in the Epic  | #TBD  |Wrap up and launch all efforts asap  | UX-FE-BE |  |  |
 
 **Priorities by Discipline (LOE)**
 | UX - Design Priorities | UX - Research Priorities | FE Priorities | BE Priorities |
