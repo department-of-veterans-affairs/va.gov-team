@@ -80,8 +80,8 @@ We conducted **remote moderated usability testing** to observe research particip
 Research sessions were conducted over Zoom during May 12-21, 2025. Sessions were 90 minutes long for Veterans using assistive technology (i.e., screen readers or screen magnifiers), and 60 minutes for Veterans not using any assistive technology (AT). 
 
 ## Participants
- Perigean recruited all 11 research participants. All were Veterans. 
- - 6 were full-time assistive technology users:
+ Perigean recruited all **11 research participants**. All were Veterans. 
+ - **6 were full-time assistive technology users**:
    - 4 used a screen reader
    - 2 used a screen magnifier
   - 5 were on a computer, 5 were on a smart phone, and 1 was on a tablet
@@ -96,6 +96,11 @@ P# | Screen Reader/Magnifier | Software | Device | O/S | Browser
 4 | Screen reader | VoiceOver | phone | iOS | Safari 
 5 | Screen reader | VoiceOver | phone | iOS | Safari then Chrome 
 13 | Screen magnifier | Microsoft Zoom Magnification ~300% | computer | Windows | Edge 
+8 | none | none | phone | Android | Chrome
+9 | none | none | tablet | iOS | Chrome
+10 | none | none | phone | iOS | Safari
+11 | none | none | computer | Windows | Firefox
+12 | none | none | phone | iOS | Safari
 
 For demographic details, see [Who we talked to](#who-we-talked-to).
 
