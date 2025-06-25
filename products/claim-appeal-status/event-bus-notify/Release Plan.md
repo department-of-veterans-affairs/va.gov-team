@@ -112,7 +112,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Number of unique users: 200
 - Metrics at this stage (per your "success criteria"):
     - [x] DataDog errors < 5%
-    - [ ] No information yet on click through rate (DOMO may update weekly?)
+    - [x] 31.4% click through rate
 - Was any downstream service affected by the change?: no
 - Types of errors logged: Some VA Notify delivery errors that are out of scope for this work, but we are ensuring we maintain awareness of
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? No changes are absolutely required; we have some thoughts around additional logging we can add and potentially retrying some of the errors, but no blockers identified.
@@ -132,8 +132,8 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Number of unique users: 3702
 - Metrics at this stage (per your "success criteria"):
     - [x] DataDog errors < 5%
-    - [ ] No information yet on click through rate
-- Was any downstream service affected by the change?: [PICK_ONE]: No
+    - [x] 52.0% click through rate overall
+- Was any downstream service affected by the change?: No
 - Types of errors logged: Some VA Notify delivery errors that are out of scope for this work, but we are ensuring we maintain awareness of
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? Nothing new
 
@@ -148,11 +148,13 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Results
 
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+- Number of unique users: 4994
+- Metrics at this stage (per your "success criteria"):
+    - [x] DataDog errors < 5%
+    - [x] 40.7% click through rate overall
+- Was any downstream service affected by the change?: no
+- Types of errors logged: 
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? n/a
 
 ### Stage D: 75% of users
 
@@ -165,26 +167,30 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Results
 
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+- Number of unique users: 8123
+- Metrics at this stage (per your "success criteria"):
+    - [x] DataDog errors < 5%
+    - [x] 38.2% click through rate overall
+- Was any downstream service affected by the change?: no
+- Types of errors logged: 
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? n/a
 
 ### Stage E: 100% of users
 
 #### Planning
 
-- Length of time: 8 hours (one day) (but this should be the end)
+- Length of time: 8 hours (one day)
 - Percentage of Users (and roughly how many users do you expect this to be): 100%
 
 #### Results
 
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+- Number of unique users: 
+- Metrics at this stage (per your "success criteria"):
+    - [ ] DataDog errors < 5%
+    - [ ] xx.x% click through rate overall
+- Was any downstream service affected by the change?: no
+- Types of errors logged: 
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? 
 
 ## Post Launch metrics
 
