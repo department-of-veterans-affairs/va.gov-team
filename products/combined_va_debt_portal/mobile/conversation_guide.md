@@ -323,6 +323,7 @@ Copayments
     * What sort of info or guidance might you look for?
 * Now we’re going to pretend that you don’t believe you’re going to have the money to pay the most recent copay bills. Walk me through what you would do in this situation.
     * What sort of info or guidance might you look for?
+    * What are your thoughts on opening new windows for the information?
 * What else would you want to do here with regards to your copays?
     * How would you expect to make payments?
     * What are your thoughts on this new section not having a payment option?
