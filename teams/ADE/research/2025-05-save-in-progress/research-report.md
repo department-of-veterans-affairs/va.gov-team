@@ -322,7 +322,6 @@ There are a number of findings that were outside the scope of the research goals
    > *"First I had to tangle up with login.gov because now they want you to. They want to do a video of your face and...that's very difficult for people that have limited vision or no vision...So by the time you get there, you're pretty frustrated (p5).*
 
 ## Recommendations
-***MAYBE ORGANIZE BY GROUPING TOGETHER or LABELING types of a11y issues: incorrect announcing, redundant announcing, misinterpretation, focus issues? Do this for findings and also for recommendations b/c incorrect announcing and focus issues are more important than redundant announcing***
 
 ### For the Design System and Forms Library team
 1. **Revise the Save in Progress messaging to communicate more effectively that we're saving the user's form information as it's being entered/updated**. We need to revisit how we communicate what the form is doing so that we inform every user without being annoying.
@@ -330,17 +329,17 @@ There are a number of findings that were outside the scope of the research goals
    - Consider the suggestions below:
       1. Messaging should be better integrated into the user's interaction flow with the form. It's possible that no messaging will be effective before the user has started filling out information, so we should find somewhere other than the intro page and the top of the first page of the form. Users may be more receptive to an alert that shows up later while they're editing and then pause, such as right after they click the *Continue* button. 
       1. All messaging must be positioned so that it's accessible to AT users. All screen reader users should be able to hear the messaging, even if they start navigating pages from the H1. Messaging should also be aligned with the left margin so that it's most likely to be visible on magnified screens.
-      1. Messaging could be reworded for clarity and to lead with what's most important at the beginning to attract attention and ensure visibility to users of screen magnifiers and screen magnifiers. For example, we could change "We'll save your request on every change" to "Saving will happen automatically..." or "Your information will be saved..."
-           1. If we want a message that shows up with every save, it could be very short (e.g., "Saving..." or "Autosaved now"). 
+      1. Messaging could be reworded for clarity and to lead with what's most important at the beginning to attract attention and ensure visibility to users of both screen readers and screen magnifiers. For example, we could change "We'll save your request on every change" to "Saving will happen automatically..." or "Your information will be saved..."
+           1. If we want a message that shows up with every automatic save, it could be very short (e.g., "Saving..." or "Autosaved now"). 
       1. Consider relabeling the *Finish later* button to better align with the revised messaging.
 
 1. **On the forms Review/Submit page, consider moving the "+" from the right margin to the left margin**.
-     - *Supporting evidence:* A screen magnifier user didn't see the "+"'s to expand the accordions because they're so far to the right and there was no visual indication that there was anything that needed scrolling to the right. 
+     - *Supporting evidence:* A screen magnifier user didn't see the "+"'s to expand the accordions because they're so far to the right and there was no visual indication that there was anything there that needed scrolling. 
 1. **After you click *Finish later*, you should be able to sign out** in the Minimal header format, which is currently not possible. We should revert to the full VA.gov header for the authenticated intro page in order to enable signout.
-     - *Supporting evidence:* There's currently no way to sign out after you click *Finish later* and land on the intro page because you're still seeing the minimal header.
+     - *Supporting evidence:* There's currently no way to sign out after you click *Finish later* and land on the intro page because you're still seeing only the Minimal header.
 
 1. Investigate the **form navigation issues that 2 screen reader users had while using VoiceOver on iPhones with the Safari** web browser in which focus kept jumping to the top of the page or to the Safari controls below the page after almost every field. 
-    - *Supporting evidence:* These focus issues made it very difficult for 2 mobile screen reader users to fill out the form. One of them stayed with Safari, and the other gave up and switched to using Chrome.  
+    - *Supporting evidence:* These focus issues made it very difficult for 2 mobile screen reader users to fill out the form. One of them stayed with Safari, and the other gave up and switched to Chrome.  
 
 1. **Consider whether having many short pages in a form is preferable to a smaller number of longer pages**. Be aware of the feedback that some Veterans dislike VA forms having so many short pages. 
     - *Supporting evidence:* 3 of 11 participants (1 using a screen reader on desktop, 1 using a screen magnifier on desktop, and 1 using no assistive tech on a phone) said that the form had too many short pages and that they preferred fewer longer pages with related information on the same page. The screen magnifier user said that having to repeatedly click _Continue_ to see the next question was annoying because it's more of his screen reader that he has to listen to.
