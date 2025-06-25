@@ -141,13 +141,14 @@ Body text for these alerts is intentionally flexible and does not have a standar
 
 **Note**: any body text modifications within 500 error alerts should be approved by the centralized Content and IA team before launching to production. Please file an [intake ticket here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=CAIA-intake-form.md) to work with a content specialist if you need help with this. 
 
-Examples of modified alert body text could include: 
+#### Examples of modified alert body text could include: 
 * If you need help now, call us at [phone number]. We’re here [days and times].   
 * If you need to schedule an appointment now, call your VA health facility.  
 [Find a VA health facility] 
  * If you need to request a refill now, call your VA pharmacy. You can find the pharmacy phone number on your prescription label or on your VA health facility’s webpage. 
-[Find your VA health facility] 
+[Find your VA health facility]
 
+### Design
 [Figma file](https://www.figma.com/design/m992k2m1DSl9MXV9hDytsQ/MHV-Account-Security---Access-Standards?node-id=753-3&p=f&t=QtC83OeCWnOxgLdx-0)
 
 <details><summary>500 error alert template for My HealtheVet</summary>
