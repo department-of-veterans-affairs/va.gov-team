@@ -84,6 +84,8 @@ Veterans currently manage their debt and copayments on VA.gov; this will be a ne
 
 `4.` **Evaluate the experience of completing actions outside the app.**
 
+`5.` **Prioritize features for the minimum viable product (MVP) that will handle overpayments and copayments in the app**
+
 ### Outcomes
 
 - Determine optimal methods and timing for notifications about new debts to guide future design decisions
@@ -104,25 +106,33 @@ Veterans currently manage their debt and copayments on VA.gov; this will be a ne
 `1.` What prompts users to check on or take action regarding money they owe to the VA?  
 `2.` How do users expect to be notified or informed about new debts (e.g., copays, overpayments)?  
 `3.` Can users successfully locate the section of the app with information about money owed?  
-`4.` What term most clearly identifies the section they would go to manage money owed?
 
 **Assess how well users understand and interpret their copay and overpayment information.**
 
-`5.` Is the overview of money owed (copays and overpayments) clear, complete, and useful?  
-`6.` Can users access and make sense of detailed information for each item?  
-`7.` Do users feel confident they understand what they owe and why?  
-`8.` Do users find access to downloadable PDF copay statements helpful, and would they use this feature?  
+`4.` Is the overview of money owed (copays and overpayments) clear, complete, and useful?  
+`5.` Can users access and make sense of detailed information for each item?  
+`6.` Do users feel confident they understand what they owe and why?  
+`7. ` Do users find access to downloadable PDF copay statements helpful, and would they use this feature?  
 
-**Identify what actions users want to take regarding money owed and evaluate how easily they can find guidance.** 
+**Identify what actions users want to take regarding money owed and evaluate how easily they can find guidance.**
 
-`9.` What types of actions (e.g., pay, request financial help, dispute a charge) do users expect to take in the app?  
-`10.` How do users expect to complete each of these actions?  
-`11.` Can users find clear, actionable guidance on how to proceed with each option?  
+`8.` What types of actions (e.g., pay, request financial help, dispute a charge) do users expect to take in the app?  
+`9.` How do users expect to complete each of these actions?  
+`10.` Can users find clear, actionable guidance on how to proceed with each option?  
 
 **Evaluate the experience of completing actions outside the app.**
 
-`12.` How do users feel about being redirected to VA.gov to complete actions like requesting help or disputing a debt?  
-`13.` Are users comfortable signing in to a new site and copying/pasting information from the app to complete a payment?  
+`11.` How do users feel about having no option to pay their debt or bills through the app?  
+`12.` How do users feel about leaving the app to pay their debt through pay.va.gov?  
+`13.` How do users feel about leaving the app to pay their bills through pay.gov?  
+`14.` Are users comfortable signing in to a new site and copying/pasting information from the app to complete a payment?  
+`15.` How do users feel about being redirected to VA.gov to complete actions like requesting help or disputing a debt?  
+
+**Prioritize features for the minimum viable product (MVP) that will handle overpayments and copayments in the app**
+
+`16.` Would users prefer the experiences of leaving the app to pay via pay.va.gov / pay.gov OR having no option to pay from the app at all?  
+`17.` Would users prefer the experience of leaving the app to read help documentation OR seeing help documentation directly in the app?  
+
 
 ### Hypotheses
 
