@@ -9,7 +9,7 @@
 
 **Contacts:** Cindy Merrill
 
-**[Link to Research Readout](link-here)**  
+**[Link to Research Readout](TBD)**  
 
 **Jump to:**
 
@@ -78,6 +78,26 @@ In addition, user feedback collected on "finish this request later", error messa
 We conducted **remote moderated usability testing** to observe research participants filling out an online form. The participants were logged in so that the information they entered was automatically saved before the form was submitted. We used a GitHub Codespace that was accessible to screen readers and screen magnifiers, which half of our participants were using.
 
 Research sessions were conducted over Zoom during May 12-21, 2025. Sessions were 90 minutes long for Veterans using assistive technology (i.e., screen readers or screen magnifiers), and 60 minutes for Veterans not using any assistive technology (AT). 
+
+## Participants
+ Perigean recruited all 11 research participants. All were Veterans. 
+ - 6 were full-time assistive technology users:
+   - 4 used a screen reader
+   - 2 used a screen magnifier
+  - 5 were on a computer, 5 were on a smart phone, and 1 was on a tablet
+
+The assistive technology used by the 6 participants is summarized in the table below. All had experience using their assistive tech for at least 2 years.
+
+P# | Screen Reader/Magnifier | Software | Device | O/S | Browser 
+-- | ----- |------|-------|--------|--------
+1 | Screen reader | JAWS | computer | Windows | Chrome 
+2 | Screen magnifier | Magnified in browser to 250% | computer | Windows | Edge 
+3 | Screen reader | JAWS | computer | Windows | Chrome
+4 | Screen reader | VoiceOver | phone | iOS | Safari 
+5 | Screen reader | VoiceOver | phone | iOS | Safari then Chrome 
+13 | Screen magnifier | Microsoft Zoom Magnification ~300% | computer | Windows | Edge 
+
+For demographic details, see [Who we talked to](#who-we-talked-to).
 
 ## Hypotheses and Conclusions
 
