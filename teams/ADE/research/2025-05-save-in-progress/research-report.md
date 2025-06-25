@@ -461,15 +461,14 @@ There are a number of findings that were outside the scope of the research goals
 
 #### Screenshots of the prototype (Codespace)
 <details>
-  <summary>First screen (Click to show screenshot)</summary>
+  <summary>Intro page--not signed in (Click to show screenshots)</summary>
+  <img src="./images/Intro-pg-unauth-top.png" width="50%" height="50%">
+  <img src="./images/Intro-pg-unauth-bottom.png" width="50%" height="50%">
 
-  ![figma-mobile-first-top](./images/figma-mobile-first-top.png)
-  ![figma-mobile-first-bottom](./images/figma-mobile-first-bottom.png)
-  
 </details>
 
 <details>
-  <summary>Menu open (Click to show screenshot)</summary>
+  <summary>Intro page--signed in (Click to show screenshots)</summary>
 
   ![figma-mobile-menu](./images/figma-mobile-menu.png)
   
