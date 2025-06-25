@@ -1,17 +1,36 @@
 # Confirmation Flow Research Summary
 
 ## P1
-- The participant found the VA.gov update flow very familiar and straightforward, noting that both the design (color, font) and process matched their past experiences with the site.
-- Pre-filled information made the process quick and effortless; the user emphasized that, as long as the information is correct, they could proceed rapidly through the steps.
-- Elements like the option to save progress were appreciated, especially in situations where the process might be interrupted.
-- The participant expected intuitive and standard options (e.g., “single,” “divorced”) when changing personal status information, and anticipated that changes would be saved automatically.
-- No sections were found confusing; the user rated the task as "very easy" (1 out of 5 on a difficulty scale).
-The participant mentioned that, while they personally found the flow easy, many other veterans struggle with the initial account creation rather than the actual update process.
-- For their own use case (no taxable income), the participant would expect to leave fields blank or enter zeros, and noted that the system should accept this.
-- The process was described as much easier and more convenient than older methods (e.g., calling or leaving voicemails).
-- The only suggestion or concern raised was about font size on mobile devices, where smaller text can be harder to read.
+**General Impressions**
+- The participant (P1) is a 100% permanently disabled veteran and experienced va.gov user.
+- They use va.gov regularly, mainly for messaging regarding appointments and follow-ups.
+- The participant was comfortable with the scenario, found the process familiar, and had positive prior experience with the VA’s online updates.
 
-Overall, the feedback is that the confirmation/update flow is clear, familiar, and easy to use, especially for returning users with pre-filled data. The main suggestion for improvement is to consider better font sizing for mobile users.
+**Feedback on Page Flow and Usability**
+- The interface was described as familiar, with colors and fonts matching previous VA experiences.
+- Navigation was quick and effortless due to pre-filled information and intuitive layout.
+- The participant appreciated features such as the “request saved” indicator, especially for longer or interrupted sessions.
+- Editing and confirming personal information (address, marital status, dependents) felt straightforward.
+- The participant expected clear options (e.g., single, divorced, never married) if changing marital status and assumed the system would save updates automatically.
+- For their own case, most information was unchanged, so the process was very fast.
+
+**Feedback on Financial and Deductible Information**
+- Entering financial data was not confusing; the participant would enter “0” for income in their real situation due to no taxable income.
+- The participant noted that if income or deductions were applicable, they would have the information ready to enter.
+- No difficulties or confusion were reported about what was being asked in the financial or deductible sections.
+
+**Suggestions and Additional Insights**
+- The process was rated “1” (very easy) for both difficulty and efficiency.
+- The participant mentioned that creating a VA.gov account is often the hardest part for other veterans, but once inside, the application/update process is “quite easy.”
+- The participant appreciated the evolution from phone-based or manual processes to much more efficient online forms.
+- On a mobile device, the participant found font size could be a concern and suggested attention to accessibility for users with different needs.
+
+**Key Takeaways**
+- Keep the interface familiar and pre-fill as much information as possible.
+- Maintain clear, simple steps—especially for users with unchanged or straightforward circumstances.
+- Accessibility (e.g., font size on mobile) should be considered for older adults or those with vision needs.
+- The online update process is a significant improvement over older, manual methods and is generally well-received by veterans who are able to access it.
+
 
 ## P2
 **General Flow and Familiarity**
