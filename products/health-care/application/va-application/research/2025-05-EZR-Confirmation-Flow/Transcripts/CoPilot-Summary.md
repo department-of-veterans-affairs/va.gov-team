@@ -130,3 +130,44 @@ Overall, the feedback is that the confirmation/update flow is clear, familiar, a
 - Clearly explain the purpose of collecting sensitive information.
 - Make the process as accessible and intuitive as possible for all age groups and tech abilities.
 
+
+## P5
+
+**General Impressions**
+- The participant (P5) found both prototype options (green and red) generally clear, easy to use, and efficient.
+- P5 had a 10% VA disability rating and used va.gov primarily for appointment checks.
+- The process of verifying information and progressing through the forms was straightforward for them.
+
+**Feedback on Option Green**
+- The participant appreciated the clarity and logic of the form, easily verifying personal and address information.
+- The "We've saved your request" message was mildly confusing, as it was unclear what "request" referred to in the prototype, but P5 thought it would make sense in a real scenario.
+- The distinction between home and mailing address was understood after a prompt, but initial instructions could clarify this scenario more directly.
+- All financial and deductible information was clear, and the participant had no confusion about the requirements.
+- P5 found it easy to gather required financial documents, but noted that others might find this more difficult and suggested a possible way to address when information isn't readily available.
+- The review page with expandable/collapsible sections met expectations for being able to check and edit details.
+- Overall, P5 rated the difficulty and efficiency of the green option as “1” (very easy/efficient).
+
+**Feedback on Option Red**
+- P5 liked the condensed, one-screen overview format, finding it simpler and preferable, especially for mobile use.
+- The ability to quickly verify and edit information in a single place was seen as more efficient than spread-out screens.
+- The “married” status shown next to the spouse’s name was viewed as redundant and potentially confusing—if it’s a spouse, the marital status is implied.
+- P5 questioned why dependent information wasn’t pre-filled like the spouse section, suggesting it would be more consistent and user-friendly if all pre-existing data was shown together.
+- The limit of “add up to 5 more dependents” was flagged as a potential issue for users with larger families—P5 wondered what would happen if someone had more than the allowed number.
+- The mention of a “full PDF form, title, VA form number” at the top was unclear; P5 questioned what this referenced.
+- P5 wanted more upfront explanation on screens asking about income and deductible expenses, suggesting a need for examples or clearer prompts to guide responses.
+
+**Additional Insights**
+- P5 preferred the condensed overview (red option) for its ease on mobile and desktop, but was comfortable with both flows.
+- Editable core info (like date of birth) would be preferable, rather than requiring a call or in-person visit for corrections.
+- The participant was highly self-sufficient with documentation but recognized that others may need more support or flexibility (such as bypass options or clear requirement messaging).
+- P5 valued clarity, consistency, and minimal redundancy throughout the process.
+
+**Key Suggestions**
+- Clarify the meaning of persistent messages (e.g., “request saved”) and scenario-based instructions.
+- Make all editable information (including date of birth) easy to update online.
+- Pre-fill dependent information when possible for consistency.
+- Remove redundant status indicators (e.g., “married” next to spouse).
+- Allow for more than 5 dependents if needed, or provide guidance for larger families.
+- Add examples or explanations when asking about financial/deductible inputs to aid understanding.
+- Maintain a condensed, single-screen overview for efficiency, especially on mobile devices.
+
