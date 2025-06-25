@@ -497,16 +497,16 @@ There are a number of findings that were outside the scope of the research goals
 </details>
 
 <details>
-  <summary>After clicking _Finish later_ (Click to show screenshot)</summary>
+  <summary>After clicking "Finish later" (Click to show screenshot)</summary>
    <img src="./images/after-click-finish-later.png" width="75%" height="75%">
 
 </details>
 
 <details>
   <summary>My VA (Click to show screenshots)</summary>
-   <img src="./images/MyVA-top.png" width="75%" height="75%">
-   <img src="./images/MyVA-middle.png" width="75%" height="75%">
-   <img src="./images/MyVA-bottom.png" width="75%" height="75%">
+   <img src="./images/MyVA-top.png" width="100%" height="100%">
+   <img src="./images/MyVA-middle.png" width="100%" height="100%">
+   <img src="./images/MyVA-bottom.png" width="100%" height="100%">
 
 </details>
 
