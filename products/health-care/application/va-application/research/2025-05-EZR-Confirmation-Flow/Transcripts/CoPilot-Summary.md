@@ -94,3 +94,39 @@ Overall, the feedback is that the confirmation/update flow is clear, familiar, a
 - Multiple-choice visual options are preferred for relationship status.
 
 
+## P4
+
+**Summary of User Feedback on EZR Confirmation Flow Prototype (P4)**
+
+**General Impressions**
+- The participant is a frequent user of va.gov and has an 80% service-connected disability rating. They use the portal for updates and maintaining their information.
+- The participant provided candid feedback on usability, page flow, and the type of information requested.
+
+**Feedback on Page Flow and Usability**
+- The participant found the process unnecessarily repetitive, with many screens asking for similar or redundant information (e.g., confirming contact info after just editing it, repeatedly stating “we saved your request”).
+- They suggested consolidating multiple steps into a single, longer page to streamline the experience and reduce frustration from repeated clicking and navigation.
+- The ability to edit information directly was appreciated, but the participant felt that some options (e.g., separate entries for home and mailing address) could be simplified with a checkbox indicating if both are the same.
+- The participant emphasized the need to keep the process straightforward and accessible, especially for older or less tech-savvy veterans.
+
+**Content and Relevance of Requested Information**
+- The participant expressed strong reluctance about providing household financial information, questioning its relevance to healthcare benefits, especially for those with high disability ratings.
+- They felt it was invasive and unnecessary for their situation, and noted that it was not explained why this information was being collected. This lack of context caused discomfort and a desire to stop the process and contact the VA directly.
+- The participant wanted clearer upfront explanations of why such personal details are needed, and for whom these questions are required (e.g., those with lower disability ratings or for copay determinations).
+- The process of gathering financial documents (e.g., W-2s, tax forms) felt burdensome and would likely cause them to abandon the application.
+
+**Specific UI/UX Suggestions**
+- Remove redundant questions and repeated statements.
+- Combine related pages and present all necessary information on a single page when possible.
+- Use clear, simple language and minimize the number of actions required to proceed.
+- Provide context for why sensitive information (like finances) is requested and for whom it is necessary.
+- The option to edit or delete dependents was found awkward; further clarity about why and when this is needed would be helpful.
+
+**Additional User Insights**
+- The participant stressed that the process should consider the varying digital literacy of veterans, advocating for simplicity.
+- Frustration increases with each repetitive or unexplained step, and this may lead users to drop out or seek help by calling the VA.
+
+**Key Suggestions**
+- Simplify navigation by reducing the number of pages and redundant elements.
+- Clearly explain the purpose of collecting sensitive information.
+- Make the process as accessible and intuitive as possible for all age groups and tech abilities.
+
