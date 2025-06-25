@@ -461,7 +461,7 @@ There are a number of findings that were outside the scope of the research goals
 
 #### Screenshots of the prototype (Codespace)
 <details>
-  <summary>Informational alert about saving on intro page (Click to show screenshots)</summary>
+  <summary>Informational alert about saving on intro page (Click to show screenshot)</summary>
    <img src="./images/intro-pg-alert.png" width="50%" height="50%">
 
 </details>
@@ -497,7 +497,7 @@ There are a number of findings that were outside the scope of the research goals
 </details>
 
 <details>
-  <summary>After clicking _Finish later_ (Click to show screenshots)</summary>
+  <summary>After clicking _Finish later_ (Click to show screenshot)</summary>
    <img src="./images/after-click-finish-later.png" width="50%" height="50%">
 
 </details>
