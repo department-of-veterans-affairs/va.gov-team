@@ -9,7 +9,7 @@
 
 **Contacts:** Cindy Merrill
 
-**[Link to Research Readout](TBD)**  
+**[Link to Research Readout--TBD](link)**  
 
 **Jump to:**
 
@@ -457,7 +457,7 @@ There are a number of findings that were outside the scope of the research goals
   
 ## Pages and applications used
 
-[Prototype in a GitHub Codespace that needs to be started manually](https://musical-space-goggles-7wxj74rqgvpfv9v-3001.app.github.dev/records/request-personal-records-form-20-10206/introduction?loggedIn=false)
+[Prototype in a GitHub Codespace that needs to be started manually--CONTACT CINDY](https://musical-space-goggles-7wxj74rqgvpfv9v-3001.app.github.dev/records/request-personal-records-form-20-10206/introduction?loggedIn=false)
 
 #### Screenshots of the prototype (Codespace)
 <details>
