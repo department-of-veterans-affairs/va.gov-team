@@ -469,16 +469,39 @@ There are a number of findings that were outside the scope of the research goals
 
 <details>
   <summary>Intro page--signed in (Click to show screenshots)</summary>
+   <img src="./images/Intro-pg-auth-top.png" width="50%" height="50%">
+   <img src="./images/Intro-pg-auth-bottom.png" width="50%" height="50%">
 
-  ![figma-mobile-menu](./images/figma-mobile-menu.png)
-  
 </details>
 
 <details>
-  <summary>Search open (Click to show screenshot)</summary>
+  <summary>Intro page--signed in (Click to show screenshots)</summary>
+   <img src="./images/Intro-pg-auth-top.png" width="50%" height="50%">
+   <img src="./images/Intro-pg-auth-bottom.png" width="50%" height="50%">
 
-  ![figma-mobile-search](./images/figma-mobile-search.png)
-  
+</details>
+
+<details>
+  <summary>Form pages (Click to show screenshots)</summary>
+   <img src="./images/form-pg1-alert&citizenship.png" width="50%" height="50%">
+   <img src="./images/form-pg2-name&DOB.png" width="50%" height="50%">
+   <img src="./images/form-pg3-SSN&VAfile#.png" width="50%" height="50%">
+   <img src="./images/form-pg4-mailing-addr-top.png" width="50%" height="50%">
+   <img src="./images/form-pg4-mailing-addr-bottom.png" width="50%" height="50%">
+   <img src="./images/form-pg5-phone&email.png" width="50%" height="50%">
+   <img src="./images/form-pg6-records.png" width="50%" height="50%">
+   <img src="./images/form-pg7-additional-info.png" width="50%" height="50%">
+   <img src="./images/form-pg8-regional-office.png" width="50%" height="50%">
+   <img src="./images/form-pg9-review&submit.png" width="50%" height="50%">
+   <img src="./images/form-pg9-statement-of-truth.png" width="50%" height="50%">
+
+</details>
+
+<details>
+  <summary>Intro page--signed in (Click to show screenshots)</summary>
+   <img src="./images/Intro-pg-auth-top.png" width="50%" height="50%">
+   <img src="./images/Intro-pg-auth-bottom.png" width="50%" height="50%">
+
 </details>
 
 
