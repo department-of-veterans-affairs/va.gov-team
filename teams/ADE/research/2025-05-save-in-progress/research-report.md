@@ -359,14 +359,14 @@ There are a number of findings that were outside the scope of the research goals
 1. **Change the announcement text for dropdown fields from "Double tap to activate the picker" to use plain language**. For example, "Double tap to select the month", "Double tap to select the country", and "Double tap to select the state".
     - *Supporting evidence:* One participant didn't know what a "picker" was and got confused.
 
-1. Try to **fix announcing issues with JAWS where it says "has popup" for the State/Province/Region and Postal code text fields**. See if the issue can be fixed.
+1. Try to **fix announcing issues with JAWS where it says "has popup" for the State/Province/Region and Postal code text fields**. 
     - *Supporting evidence:* One screen reader user (JAWS on desktop) reported that the State/Province/Region and Postal code fields said "has pop up", even though they're both text fields.
-
-1. See if the **duplicate messaging from JAWS for the records checkboxes and mailing address fields can be removed**.
-    - *Supporting evidence:* Two screen reader users said that they were hearing every records checkbox option and mailing address fields twice while using the arrow keys to navigate through the form.
 
 1. Try to **fix announcing issues with VoiceOver for the citizenship question, which said it was a checkbox instead of a radio button**.
     - *Supporting evidence:* One screen reader user (VoiceOver on iOS) didn't know that the citizenship question was a radio button when they tapped on it. Riley Orr tested and found that it's announced as a checkbox (bug) and radio button on her iPhone, but announced (correctly) as a radio button on desktop. After she updated her phone, it announced (correctly) as a radio button.
+
+1. See if the **duplicate messaging from JAWS for the records checkboxes and mailing address fields can be removed**.
+    - *Supporting evidence:* Two screen reader users said that they were hearing every records checkbox option and mailing address fields twice while using the arrow keys to navigate through the form.
 
 1. Try to **fix focus issues with VoiceOver while getting in and out of the date of birth Month field**.
     - *Supporting evidence:* Focus was on the Month field, but there was also a blinking cursor in the previous field (last name). When the participant typed a number for the date of birth month, the number was entered into the last name field. And when she was done picking the Month, focus was moved to the very top of the page. 
@@ -386,13 +386,13 @@ There are a number of findings that were outside the scope of the research goals
 
 1. At the **top of the form's intro page, consider simplifying the text directly under the H1**: 
     > "Freedom of Information Act (FOIA) or Privacy Act (PA) Request (VA Form 20-10206)"
-    - *Supporting evidence:* One participant was confused by "Freedom of Information Act (FOIA)" right underneath the name of the form on the intro page they expected to see something about the Request personal records form.
+    - *Supporting evidence:* One participant was confused by "Freedom of Information Act (FOIA)" right underneath the name of the form on the intro page where they expected to see something about the Request personal records form.
 
 1. **Fix the postal code field so it will accept a valid autofill suggestion without returning an error** ("Enter a ZIP code"). This is a known issue with autofilling with a coding workaround in [this ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/2668).
-    - *Supporting evidence:* One participant accepted the (correct) autofill suggestion for their zip code, and the form gave an error.
+    - *Supporting evidence:* One participant accepted the (correct) autofill suggestion from their phone for their zip code, and the form gave an error.
 
 1. Consider adding some **help text that says what the "VA file number" is**.
-    - *Supporting evidence:* Four participants didn't know what a "VA file number" was and why you might want to use one.
+    - *Supporting evidence:* Four participants didn't know what a "VA file number", why you might want to use one, and how you would find it.
 
 1. Consider adding a **description of what a "VA regional office" is**. 
     - *Supporting evidence:* Three participants were confused by the field and skipped it. One didn't know whether to enter their regional office because they go to a clinic in a different region, and whether it should be a clinic or a hospital.
@@ -409,12 +409,13 @@ There are a number of findings that were outside the scope of the research goals
 1. Discuss findings and recommendations with Jeana Clark, the ADE team, and the accessibility specialists community of practice.
 1. Discuss findings and recommendations with Matt Dingee.
 1. Reach out to the My VA team to share relevant findings and recommendations.
+1. Reach out to the analytics team about instrumenting the current "Finish this request later" link.
 
 
 ## Further research needed
 
 1. Check analytics for the existing "Finish this request later" link on VA forms to see how much it's being used, but unfortunately it's not currently being tracked (only autosaves are currently tracked). Request that the "Finish this request later" link be instrumented for analytics, and then see if changing this link to a button (as tested in this study) results in more clicks.
-1. If the Save in Progress messaging gets revised as a result of this research, another round of usability testing would be helpful to see if it works better than the version tested in this study. For a more realistic user experience, we could simulate the timeout experience to sign out the user. 
+1. If the Save in Progress messaging gets revised as a result of this research, another round of usability testing would be useful to see if it works better than the version tested in this study. For a more realistic user experience, we could simulate the timeout experience to sign out the user. 
 
 ## Appendix
 [Research plan](./research-plan.md)
