@@ -301,7 +301,7 @@ From home screen
     * What do you think about the information presented on this screen? (e.g. amount, due date)?
 
 
-Copayments _(Cohort 2 starts here, then continues to Overpayment section if relevant)_
+Copayments
 
 * What are your first impressions of what you’re seeing?
 * Find what you currently owe for copayments
