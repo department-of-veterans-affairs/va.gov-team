@@ -2,16 +2,16 @@
 To ensure a consistent Veteran experience and reduce cognitive load within the My HealtheVet-on-VA.gov portal, it is necessary to **standardize application behavior under access-limiting conditions**. This document seeks to explain the logic and standardized alert designs for each of these scenarios, so that all teams are aligned and deliver end-users a consistent user experience. 
 
 ## On this page: 
-* [High-level API access logic](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/governance/alert-standardization.md#high-level-api-access-logic)
-* [User routing under access-limiting conditions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/governance/alert-standardization.md#user-routing-under-access-limiting-conditions)
-* [Missing MHV Identifier (Account Creation API)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/governance/alert-standardization.md#account-creation-api-error-alerts-ie-missing-mhv-uuid)
-* [Oracle-Health Routing alerts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/governance/alert-standardization.md#oracle-health--cerner-routing-alerts)
-* [Unauthenticated users](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/digital-health-modernization/mhv-to-va.gov/governance/alert-standardization.md#unauthenticated-users)
-* [403 access denied component](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/digital-health-modernization/mhv-to-va.gov/governance/alert-standardization.md#403-access-denied-component)
-* [404 page not found component](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/digital-health-modernization/mhv-to-va.gov/governance/alert-standardization.md#404-page-not-found-component)
-* [500 internal service error alert](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/digital-health-modernization/mhv-to-va.gov/governance/alert-standardization.md#500-internal-service-error-component)
+* [High-level API access logic](#high-level)
+* [User routing under access-limiting conditions](access-limiting-conditions)
+* [Missing MHV Identifier (Account Creation API)](#ac-api)
+* [Oracle-Health Routing alerts](#oh-routing-alerts)
+* [Unauthenticated users](#unauth-users)
+* [403 access denied component](#403)
+* [404 page not found component](#404)
+* [500 internal service error alert](#500)
 
-## High-level API access logic
+## <a name="high-level"></a>High-level API access logic
 Applications should route-guard any users who do not meet two high-level gating requirements to the `/my-health` landing page to see the relevant alert in place there. The goal of this requirement is to have a single place to maintain and update alerts, and to prevent users without access to My HealtheVet from getting to deeper child pages within the experience. Instead, they will be met with alerts or a distinct landing page at the "front door" to the portal, which we believe to be the best place to explain and contextualize why they do not have access, and steps they need to take in order to answer questions they may have about managing their healthcare on VA.gov. 
 
 ```mermaid
@@ -38,7 +38,7 @@ Affected applications: medications, medical records, and secure messages
 5. If a facility is in the user's profile, but the application relies on the MHV-API back-end, check for the presence of an MHV-Identifier (MHV UUID). If there is no MHV-Identifier, see the [Account Creation API Overview document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/governance/mhv-account-creation-api.md) for more information about how to handle this. 
 6. If there is an MHV-Identifier present, render the application. 
    
-## User routing under access-limiting conditions
+## <a name="access-limiting-conditions"></a>User routing under access-limiting conditions
 
 Users who lack either of the first two conditions required to access all applications under `/my-health/` – verified identity and the presence of at least one facility in the profile - will be handled centrally on the MHV-on-VA.gov landing page. (See steps 1-3 in the chart above.) These users will experience a simplified version of the My HealtheVet landing page, which suppresses both the secondary nav and other `/my-health` tool links. We believe routing users in this way will help them avoid the frustrating experience of clicking into various health tools they are unable to use.
 
@@ -72,10 +72,7 @@ NOTE: Screenshots below are taken from this [Figma file](https://www.figma.com/d
 
 </details>
 
-
-
-
-## Missing MHV-Identifier (Account Creation API)
+## <a name="ac-api"></a>Missing MHV-Identifier (Account Creation API)
 
 Users who lack the third condition: presence of an MHV-Identifier, will be access-limited to _only some applications_ that rely on the MHV-API backend. These applications include: medications, medical records, and secure messages. Applications that do not rely on the MHV-API backend do not have this requirement.
 
@@ -83,7 +80,7 @@ Affected applications must run a check for the presence of an MHV-Identifier (UU
 
 The additional steps that must be taken by affected applications if the check for an MHV-Identifier comes back as "false" are [documented in greater detail as part of Account Creation API work here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/governance/mhv-account-creation-api.md)
 
-## Oracle Health / Cerner Routing alerts
+## <a name="oh-routing-alerts"></a>Oracle Health / Cerner Routing alerts
 The "big four" health tools must provide routing alerts for users with OH/Cerner facilities in their profile that sends them to the My VA Health portal to manage their care related to those facilities. Once the My VA Health portal is fully integrated and combined with My HealtheVet on VA.gov, these alerts can be removed. 
 
 ### Health tool pages:
@@ -104,10 +101,10 @@ The alerts should display beneath the page H1 and lede text (if applicable), and
 ### Benefit hub pages: 
 Benefit hub pages corresponding with these tools currently have more complex versions of these alerts in place. We do not plan to update those alerts, and instead will remove them from benefit hub pages when the unauth page URLs for each tool are updated to point to the new version of the tool on VA.gov, by Milestone 1 deadline at the latest (ETA March 2025). More information about this [transition plan is available here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/transition/benefit-hub-page-updates.md).
 
-## Unauthenticated users
+## <a name="unauth"></a>Unauthenticated users
 The entire `/my-health` portal sits behind authentication and every application under this namespace must require authentication. Thus, any unauthenticated user who attempts to access a URL within any application in this space should trigger the sign-in modal. Until a user signs in, we cannot determine whether a user has authorization to access the page they are attempting to reach. 
 
-## 403 Access denied component
+## <a name="403"></a>Access denied component
 The 403 error sends the user to a new page; this error component will only be experienced by users with access to My HealtheVet who attempt to access a url within the /my-health name space that they don't have credentials for (i.e. a records url for a different user). As shown in the screenshot below, the 403 error includes guidance to call the My HealtheVet helpdesk or navigate elsewhere within the portal using the MHV secondary nav.
 
 [Figma file](https://www.figma.com/design/m992k2m1DSl9MXV9hDytsQ/MHV-Account-Security-%26-Access-Standards?node-id=685-14636)
@@ -118,7 +115,7 @@ Exception: In June 2025, the Medications team was given an exception and will im
 <img src="https://github.com/user-attachments/assets/6f779428-1b0b-4e9d-9a01-d62eed8a58a4" />
 </details>
 
-## 404 Page not found component
+## <a name="404"></a>Page not found component
 The 404 error sends users to a new page; this error component will only be experienced by users with access to My HealtheVet who change a link under the /my-health namespace to an incorrect / non-existant url will be sent to this same 404. As shown in the screenshot below, the 404 error includes guidance to go to the the My HealtheVet landing page, call the helpdesk, try other health-related resources, or navigate elsewhere within the portal using the MHV secondary nav.
 
 [Figma file](https://www.figma.com/design/m992k2m1DSl9MXV9hDytsQ/MHV-Account-Security-%26-Access-Standards?node-id=1071-19363&t=rNA4JxDx5GaXwOk9-1)
@@ -127,7 +124,32 @@ The 404 error sends users to a new page; this error component will only be exper
 <img width="928" alt="Screenshot 2025-04-02 at 3 37 17 PM" src="https://github.com/user-attachments/assets/7cdda17c-95d6-4beb-aedb-f5a49c1324c9" />
 </details>
 
-## 500 Internal service error component
-Edit made 5/30/25: Based on feedback from tool teams and content, we have decided to pause the requirement to standardize both 500 design versions until Cartography is able to work with the Content and IA team to get approval on a template.
+## <a name="500"></a>Internal service error component
+HTTP 500 errors happen when applications try to make an API call to fetch downstream data, but that call fails and they are unable to retrieve data. This can happen to any application that relies on a downstream API, and communicating this error to users is important. 500 errors are common across My HealtheVet. 
 
-~~There are two versions of the 500 component copy; one provides basic guidance to users to recover (refresh browser) and can be used in any scenario in which the basic guidance would be the same. The other version is only a template and teams that need to deviate from the basic guidance will need to write their own copy to help users recover from the error. The intention behind creating two versions is to explicitly sanction and encourage teams to write their own copy when specific instructions would be helpful to the user.~~ 
+### Standardized portions of these errors include:
+* Heading text
+* Requirement to use the v3 error alert from VADS
+* Placement of this error beneath a rendered page H1 (page title), breadcrumbs, and My HealtheVet secondary navigation component
+
+**Why this matters**: standardizing heading text will allow us to pull analytics and metrics around the frequency of API failed calls (500 errors) across the portal from month to month, and maintain awareness of any overall spikes in API problems that may adversely impact My HealtheVet users in their digital healthcare management journey. Having consistent style, language, and placement in these errors will also help users understand what is happening, that it's a temporary problem, and will provide them with next steps to recover from the error. 
+
+### Non-standardized portions of these errors include:
+* Alert body text
+
+Body text for these alerts is intentionally flexible and does not have a standardization requirement. This is because APIs can each have different next steps and instructions to give their users based on the purpose of the tool by design. We have included placeholder text in square brackets that individual teams may modify as needed. 
+
+**Note**: any body text modifications within 500 error alerts should be approved by the centralized Content and IA team before launching to production. Please file an [intake ticket here](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=CAIA-intake-form.md) to work with a content specialist if you need help with this. 
+
+Examples of modified alert body text could include: 
+* If you need help now, call us at [phone number]. We’re here [days and times].   
+* If you need to schedule an appointment now, call your VA health facility.  
+[Find a VA health facility] 
+ * If you need to request a refill now, call your VA pharmacy. You can find the pharmacy phone number on your prescription label or on your VA health facility’s webpage. 
+[Find your VA health facility] 
+
+[Figma file](https://www.figma.com/design/m992k2m1DSl9MXV9hDytsQ/MHV-Account-Security---Access-Standards?node-id=753-3&p=f&t=QtC83OeCWnOxgLdx-0)
+
+<details><summary>500 error alert template for My HealtheVet</summary>
+<img width="717" alt="Screenshot 2025-06-25 at 2 02 10 PM" src="https://github.com/user-attachments/assets/fa018c0f-d102-427e-ab9c-b95cc5af90cc" />
+</details>
