@@ -17,7 +17,7 @@ View My Payments History: Last substantial audit took place in [October, 2022](h
 Veteran ID Card: No major accessibility audit.
 
 ## Accessibility Annotations
-- 6/2025 Claims Status Tool - [Smooth & Stable Loading Experience](https://www.figma.com/design/xEmJSYGyBFIQcmucFQ8I7C/Smooth--Stable-Loading?node-id=2409-16276&t=e8n6zU0OxyUfzPPN-0)
+- 6/2025 Claims Status Tool - [Smooth & Stable Loading Experience](https://www.figma.com/design/xEmJSYGyBFIQcmucFQ8I7C/Smooth--Stable-Loading?node-id=2429-12950&t=dspYV12xeYeHLHRt-0)
 
 ## Resources
 
