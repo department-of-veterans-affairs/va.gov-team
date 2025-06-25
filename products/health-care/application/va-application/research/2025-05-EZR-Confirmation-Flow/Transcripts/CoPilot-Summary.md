@@ -59,3 +59,38 @@ Overall, the feedback is that the confirmation/update flow is clear, familiar, a
 
 ## P3
 
+**General Impressions**
+- The participant found the EZR Confirmation Flow prototypes easy to use and highly efficient, consistently rating the process as “1” (very easy) on difficulty and efficiency scales.
+- Prefilled information and the ability to easily edit entries were highly appreciated.
+
+**Green Option Prototype**
+- Clear structure, similar to familiar tax forms, was noted.
+- Prefilled account information and privacy practices (e.g., masking SSN) were positively received.
+- The flow was logical, and distinctions between home and mailing addresses were clear.
+- User suggested clarifying sections where it was unclear whose income was being referenced.
+- “Gross vs. net” income distinction and clear instructions were praised.
+- No significant confusion; any difficulties would be due to users not having tax documents, which is their responsibility.
+
+**Red Option Prototype**
+- The red option was more concise, with information grouped in summary “boxes”—a preferred layout due to reduced scrolling and faster review.
+- Multiple-choice questions for marital status were favored over dropdowns.
+- Some summary boxes (e.g., spouse details) lacked detail; user suggested adding address, date of birth, and last four of SSN.
+- Recommendation to combine redundant pages, especially in the dependents section, to streamline the experience.
+- Guidance on dependents was helpful but could be expanded to cover scenarios like elderly parents.
+
+**Additional Insights**
+- The forms were easy and efficient to complete with good error correction mechanisms.
+- Information that jogs user memory (e.g., definitions of dependents) is valued.
+- Summary pages are preferred when they avoid excessive scrolling and include essential details.
+
+**Key Suggestions**
+- Clarify whose information is being input (self, spouse, or combined).
+- Add more detail to summary boxes, especially for spouse and dependents.
+- Combine redundant pages in the dependents section.
+- Expand guidance to cover less common dependent situations (e.g., elderly parents).
+
+**Positive Feedback**
+- Prefilled data, summary boxes, easy editability, and clear financial information distinctions were praised.
+- Multiple-choice visual options are preferred for relationship status.
+
+
