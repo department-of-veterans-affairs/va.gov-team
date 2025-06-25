@@ -101,10 +101,12 @@ Now we're going to move to the financial portion of our discussion. I have no in
 
 * _Notifications/awareness_
     * (VBA debts) Tell me how you know you need to make a payment.
+        * Tell me what prompts you to make a payment
         * What is your thought on the communication regarding what needs to be paid?
         * How are you paying the debts? (payment method, benefit reduction, how often, mobile/web)
         * Is there anything that could make things easier for you?
     * _(if relevant)_ (copays) Tell me how you learn that you have a bill.
+        * Tell me what prompts you to make a payment 
         * What is your thought on how the bills are presented to you?
         * How are you paying the bills? (mobile/web, how often, payment method)
         * Is there anything that could make things easier for you?
@@ -268,10 +270,12 @@ If needing to exit the session
 
 * _Notifications/awareness_
     * (copays) Tell me how you learn that you have a bill.
+        * Tell me what prompts you to make a payment
         * What is your thought on how the bills are presented to you?
         * How are you paying the bills? (mobile/web, how often, payment method)
         * Is there anything that could make things easier for you?
     * _(if relevant)_ (VBA debts) Tell me how you know you need to make a payment.
+        * Tell me what prompts you to make a payment
         * What is your thought on the communication regarding what needs to be paid?
         * How are you paying the debts? (payment method, benefit reduction, how often, mobile/web)
         * Is there anything that could make things easier for you?
