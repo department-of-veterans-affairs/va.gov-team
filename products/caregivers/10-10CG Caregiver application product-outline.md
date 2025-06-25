@@ -198,7 +198,7 @@ CARMA data is agile due to appeal outcomes, reinstatements, delayed data entry, 
 ## Resources and Documentation
 
 - Discovery and Research: https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers
-- [Sketch file](https://www.sketch.com/s/5a676881-7aa8-4054-9b6e-34d86ced43d8) with wireflows and page designs (including proposals and experiments)
+- [Figma file](https://www.figma.com/design/TxXD5bGUOhbHHWLb85GPjK/10-10CG?node-id=0-1&t=xgkK7brjz069I7kE-0) with wireflows and page designs (including proposals and experiments)
 
 ### Screenshots
 #### Before: 
