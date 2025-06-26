@@ -251,3 +251,7 @@ create_table :debt_payments do |t|
   t.datetime :submitted_at
   t.datetime :completed_at
 end
+
+
+Conclusion
+As of 06/26/2026 the plan is to implement option 2, seperate domain tables with a seperate debt transactions log
