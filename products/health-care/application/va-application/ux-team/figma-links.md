@@ -2,7 +2,22 @@
 
 Purpose: A place to put all links by product to design pages/files/prototypes by ticket - including items in Archive.
 
+
+## Source of truth
+
+  
+| Form  | Link  |
+|-----------------------------------------------------------|-----------------| 
+| 10-10EZ  | [Figma link](https://www.figma.com/design/W1cs6Gjx3MR5VU0EjurHLZ/10-10EZ-Production?node-id=0-1&p=f&t=LG0nqKuQuBtCvD2L-0) | 
+| 10-10EZR  | [Figma link](URL) | 
+| 10-10CG  | [Figma link](https://www.figma.com/design/ZLGXh1HFssRudTJeX190Zg/10-10CG---Production-File?node-id=0-1&p=f&t=kIGzGs4cX2BvA7Ki-0) | 
+
+
+## Working Files
+
+
 <details>
+
 
 <summary>10-10EZ Links</summary>
 
