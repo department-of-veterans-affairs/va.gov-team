@@ -5,9 +5,49 @@
 - Design file - TBD
 
 ## Outcome Summary
-- We want to add an option on the 10-10EZ Form for homeless Veterans to indicate they do not have a home or mailing address.
+- We want to add an option on the **online** 10-10EZ Form for homeless Veterans to indicate they do not have a home or mailing address.
      - Today, the staff member will enter the facility address in VES and there is some sort of bad address indicator
-- This will allow more Veterans, who do not have an address they want to input, to successfully submit the EZ Form online.
+- This will allow more Veterans, who do not have an address they want to input, to successfully submit the EZ Form **online**.
+
+<details>
+     <Summary>Email Q&A with Josh F on how VES works</Summary>
+
+Convo with Josh Faulkner :
+> 2. When we talked with Simone about how staff handles a Veteran who does not have a permanent address (unhoused, does not want to provide, etc), she mentioned that they would use the preferred facility address and somehow have a "bad address" flag on it
+> 
+> - I can't remember what the screen looks like, is there a checkbox or some way to indicate that the Veteran does not have a permanent address?
+>      - **[Josh F]** Not exactly, it’s a dropdown with a reason list, they will select the reason of Homeless in this use case where they use the facility address, other reason for bad address is Undeliverable.
+> - Do you know if there Is any special handling for these Veterans, other than using the facility address as their mailing address?
+>      - **[Josh F]** There is no special handling in terms of their eligibility or enrollment determinations. A residential address is required in order to do community care referrals though.
+> - Does this create a manual workflow/review process, even if the Veteran does not have any Toxic exposure or special eligibilities?
+>      - **[Josh F]** No, their mailing address is not relevant to their eligibility decision, but it is still important for them to receive their correspondence around those decisions.
+> - We are looking at ways we might be able to do this on VA.gov, allowing some sort of indicator that they don't have an address to provide.  Open to any thoughts you might have from your perspective
+>      - **[Josh F]** It can be as simple as providing a bad address reason/flag, which from self service should only be for reason of homeless, that I can think of. In that case we can auto set it to their preferred facility address and set the bad address reason.
+
+</details>
+
+<details>
+     <Summary>Slack Convo with Josh F - Volumes</Summary>
+     
+> **Heather Justice**
+>- is there any way to pull data on how many Veterans have that 'bad address' indicator (based on not providing a home or mailing address)?
+> 
+> **Joshua Faulkner**
+>- not the second part with it based on not being provided, it has to be provided unless they are homeless
+> 
+> **Heather Justice**
+>- Gotcha.  Would you be able to pull any volume on the "homeless" attribute?
+> 
+> **Joshua Faulkner**
+>- yes, homeless is one of the bad address reason. it is not an 'indicator' as commonly referenced, the field is bad address reason, not bad address indicator. Few mins.
+> 
+>      - OTHER - 5597
+>      - ADDRESS NOT FOUND - 747
+>      - HOMELESS - 2740
+> 
+>- that is among enrolled vets only
+
+</details>
 
 **Related/Associated product(s)**
 - Product | [10-10EZ product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20Product%20Outline.md)
