@@ -66,6 +66,14 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - *What have you explicitly decided to not include in this initial set of functionality, and why?*
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
 
+### Supporting research
+
+- *Is this work supported by user research?* 
+  - *If this work **is supported by user research**, please cite the user research by providing links to our [VA.gov research repo](https://github.com/department-of-veterans-affairs/va.gov-research-repository)*
+  - *If this work is **not supported by existing user research**, will this work include user research?*
+    - *If this work **will include user research**, please briefly state what you hope to learn from that research.*
+    - *If this work **does not cite nor include user research**, please state why and be prepared to defend your decision.*
+
 ### Initiatives
 *Include initiatives (iterations, new features, etc.) to improve this product. See the [Initiative Brief Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/product/initiative-brief-template.md)*
 
