@@ -46,6 +46,8 @@
     - Functions = 94.59%
     - Statements = 95.74%
     - Branches = 88.57%
+- <img alt="Unit test coverage" src="https://github.com/user-attachments/assets/fa839022-956d-4cb5-a5f9-8939aac071fb" />
+
  
 ### Endpoint Monitoring
 - Playbook is linked here: 
