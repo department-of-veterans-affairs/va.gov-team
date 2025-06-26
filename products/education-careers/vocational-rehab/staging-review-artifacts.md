@@ -42,11 +42,12 @@
 
 ### Unit Test Coverage
 - We have met the 80% minimum requirement. Here are the percentages:
-    - Lines = 95.55%
-    - Functions = 94.59%
-    - Statements = 95.74%
+    - Lines = 95.65%
+    - Functions = 95%
+    - Statements = 95.86%
     - Branches = 88.57%
-- <img alt="Unit test coverage" src="https://github.com/user-attachments/assets/fa839022-956d-4cb5-a5f9-8939aac071fb" />
+
+<img alt="Unit test coverage" src="https://github.com/user-attachments/assets/fa839022-956d-4cb5-a5f9-8939aac071fb" />
 
  
 ### Endpoint Monitoring
