@@ -61,6 +61,7 @@ _Notes:_
 - While sample sizes have gone up, they are still relatively low.
 - CSAT across individual pages in the new experience ranged from 54.1 (Survivors compensation) to 58.6 (main landing page)
 - Percent of respondants that indicated they were able to complete their task was very low across pages - 10-36%
+- Many comments about the ease of navigating and finding information.  Most negative comments are related to issues with completing forms. 
 
 **CSAT scores**
 
@@ -114,9 +115,6 @@ Other types of comments were related to:
   - Apply for Educational benefits for my child. The form asks for the applicants name and information. However, it defaults to the veteran's name and information and I cannot change it to reflect the applicant. I will have to print form and submit it manually.
   - application confusing for child education benefits.  do I put my information in the first box when it asks for the veteran's info?  then why is my information in the box where it asks for "your Info" and not my child's?  and that info isn't able to change in the application....
 - frustation on timing of the survey
-  - 
-
-
 
 
 ### Next pages
