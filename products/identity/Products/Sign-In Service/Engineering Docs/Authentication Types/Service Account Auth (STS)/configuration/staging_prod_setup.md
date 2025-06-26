@@ -48,13 +48,13 @@ You can use the same Rails console you used to create the configuration to creat
   private_key = OpenSSL::PKey::RSA.new(File.read('private_key.pem'))
   current_time = Time.now.to_i
   token = {
-    'iss' => 'STS Client',
+    'iss' => 'STS Client', # you can also pass in your service_account_id here
     'sub' => 'vets.gov.user+0@gmail.com',
     'aud' => 'https://api.va.gov/v0/sign_in/token',
     'iat' => current_time,
     'exp' => current_time + 300,
     'scopes' => ['https://client.gov/route2'],
-    'service_account_id' => '0123456789',
+    'service_account_id' => '0123456789', # optional if #iss is your service_account_id
     'jti' => '2ed8a21d207adf50eb935e32d25a41ff',
     'user_attributes' => { 'icn' => '0123456789' }
   }
