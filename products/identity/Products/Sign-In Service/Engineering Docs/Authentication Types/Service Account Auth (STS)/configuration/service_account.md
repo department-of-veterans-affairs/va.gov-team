@@ -22,7 +22,7 @@ When following this guide to create a `ServiceAccountConfig` it is recommended t
 | `service_account_id` | uuid | unique identifier for account connection | `9caf51576cd6fe65b662588584ed97b1` |
 | `description` | string | custom text description of account integration | `Some Sign in Service Client` |
 | `scopes` | array | one or more string URL permissions granted to the client | ['http://localhost:3000/sign_in/client_configs'] |
-| `access_token_audience` | string | URL of the requesting account | `http://localhost:4000` |
+| `access_token_audience` | string | URL of the party intended to consume the token (usually the client) | `http://localhost:4000` |
 | `access_token_duration` | DateTime | duration of access token; must be 5 minutes | `5.minutes` |
 | `certificates` | array | one or more public certs provided by the client | ["-----BEGIN CERTIFICATE-----\nMIIDAjCCAeoCC..."] |
 | `access_token_user_attributes` | array | optional user attributes, provided by the client, to be included in the generated token; allowed values: `icn`, `type`, `credential_id` | ['icn'] |
