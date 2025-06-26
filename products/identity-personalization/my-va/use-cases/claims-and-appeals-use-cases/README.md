@@ -110,7 +110,7 @@ There are no flags with this feature.
 - [Link to code]
 - **Content:**
 
-We can't access your claims or appeals information right now. Please refresh or try again later.
+We can't show your claims or appeals information right now. Refresh this page or try again later.
 
 </details>
 
@@ -124,7 +124,7 @@ We can't access your claims or appeals information right now. Please refresh or 
 - [Link to code]
 - **Content:**
 
-We can’t currently display your disability rating. Please refresh or try again later.
+We can't show your disability rating right now. Refresh this page or try again later.
 
 </details>
 
