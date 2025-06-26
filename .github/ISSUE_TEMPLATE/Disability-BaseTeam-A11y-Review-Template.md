@@ -3,7 +3,7 @@ name: Disability Benefits Team A11y Review Template
 about: A11y review template for Disability Benefits Team 
 title: ''
 labels: disability-experience, needs-a11y-refinement
-assignees: ''
+assignees: etanb
 ---
 
 ## Accessibility Testing Summary Checklist
