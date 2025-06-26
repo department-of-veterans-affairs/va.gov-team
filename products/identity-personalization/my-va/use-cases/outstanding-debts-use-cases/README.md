@@ -109,7 +109,7 @@ There are no flags with this feature.
 - [Link to code]
 - **Content:**
 
-We can’t access your debts and bills right now. We’re working to fix this problem. Please check back later.
+We can’t show your debt and copay information right now. Refresh this page or try again later.
 
 </details>
 
@@ -123,7 +123,7 @@ We can’t access your debts and bills right now. We’re working to fix this pr
 - [Link to code](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/debts/getDebts)
 - **Content:**
 
-We can’t access your debt information right now. We’re working to fix this problem. Please check back later.
+We can’t show your debt information right now. Refresh this page or try again later.
 
 </details>
 
@@ -137,7 +137,7 @@ We can’t access your debt information right now. We’re working to fix this p
 - [Link to code](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/medical_copays/getMedicalCopays)
 - **Content:**
 
-We can’t access your copay information right now. We’re working to fix this problem. Please check back later.
+We can’t show your copay information right now. Refresh this page or try again later.
 
 </details>
 
