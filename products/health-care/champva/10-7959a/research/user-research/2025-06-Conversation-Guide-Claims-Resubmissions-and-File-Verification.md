@@ -1,4 +1,4 @@
-# Conversation Guide for 10-10EZR Confirmation Flow
+# Conversation Guide for IVC team, CHAMPVA Claims (form 10-7959a), Resubmissions and File Verification 06/2025
 
 ## Moderator logistics 📋✅
 ### 2-3 days before the session
