@@ -39,30 +39,30 @@ The Sign in Service (SiS) offers a private key JWT flow to allow API authenticat
 
 | attribute | data type | description | sample value |
 | --- | --- | --- | --- |
-| `iss` | string | issuer of Service Account assertion, must matched the saved ServiceAccountConfig `access_token_audience` | http://localhost:40001 |
+| `iss` | string | issuer of Service Account assertion, must match the saved ServiceAccountConfig `access_token_audience` OR `service_account_id` | 'http://localhost:40001' OR '9caf51576cd6fe65b662588584ed97b1' |
 | `sub` | string | email of the user requesting the action | `vets.gov.user+0@gmail.com` |
-| `aud` | string | the SiS token route that is being requested | http://localhost:3000/v0/sign_in/token |
+| `aud` | string | the SiS token route that is being requested | 'http://localhost:3000/v0/sign_in/token' |
 | `iat` | integer | current time in Unix/Epoch (10 digit) format | 1691702191 |
 | `exp` | integer | assertion should have a 5 minute (300 second) duration | 1691702791 |
 | `scopes` | array | one or more requested scopes, validated against saved ServiceAccountConfig `scopes`| ['http://localhost:3000/sign_in/client_configs'] |
-| `service_account_id` | uuid | unique identifier for account connection | 9caf51576cd6fe65b662588584ed97b1 |
+| `service_account_id` | uuid | unique identifier for account connection, optional if `iss` contains `service_account_id` | '9caf51576cd6fe65b662588584ed97b1' |
 | `jti` | string | a random identifier that can be used by the client to log & audit their Service Account interactions | '2ed8a21d207adf50eb935e32d25a41ff' |
-| `user_attributes` | hash | a hash of user_attributes and their values to be included in the token, validated against saved ServiceAccountConfig `access_token_user_attributes`. | icn, type, credential_id |
+| `user_attributes` | hash | a hash of user_attributes and their values to be included in the token, validated against saved ServiceAccountConfig `access_token_user_attributes`. | { icn: 'some-icn', type: 'idme', credential_id: 'some-credential-id' } |
 
 - Create a Service Account assertion payload:
 
   ```ruby
   current_time = Time.now.to_i
   token = {
-    'iss' => 'http://localhost:4000',
-    'sub' => 'vets.gov.user+0@gmail.com',
-    'aud' => 'http://127.0.0.1:3000/v0/sign_in/token',
-    'iat' => current_time,
-    'exp' => current_time + 300,
-    'scopes' => ['http://localhost:3000/v0/account_controls/credential_index'],
-    'service_account_id' => '01b8ebaac5215f84640ade756b645f28',
-    'jti' => '2ed8a21d207adf50eb935e32d25a41ff',
-    'user_attributes' => { 'icn' => '1012667122V019349' }
+    iss: 'http://localhost:4000',
+    sub: 'vets.gov.user+0@gmail.com',
+    aud: 'http://127.0.0.1:3000/v0/sign_in/token',
+    iat: current_time,
+    exp: current_time + 300,
+    scopes: ['http://localhost:3000/v0/account_controls/credential_index'],
+    service_account_id: '01b8ebaac5215f84640ade756b645f28',
+    jti: '2ed8a21d207adf50eb935e32d25a41ff',
+    user_attributes: { icn: '1012667122V019349' }
   }
   ```
 
