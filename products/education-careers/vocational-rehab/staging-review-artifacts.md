@@ -20,7 +20,7 @@
   
 ### Accessibility Test Artifact
 
-- https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1684161597392/5c1f8869cf5d03b792c8b82cf19b39dc26c486c2
+- [Accessibility Test Artifact](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112905)
 
 ### Regression Test Plan
 - With this form update, we had to build a net new form.  Therefore, there were no changes made to the current form where we would need to regression test.  But, we have tested the new form build with the existing API endpoint and the new API endpoint with success.
