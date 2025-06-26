@@ -7,6 +7,10 @@
 -  LOA3 user who does not have a current Save In Progress VR&E application - vets.gov.user+7@gmail.com | 177SsNrLgPv5
 -  LOA3 user who does not have a current Save In Progress VR&E application - vets.gov.user+150@gmail.com | 284SsNrLgPv5
 
+### Known Issues
+- [VBMS Uploader is using wrong pdf form - BE](https://github.com/department-of-veterans-affairs/va-iir/issues/1803)
+     - [PR for this Bug](https://github.com/department-of-veterans-affairs/vets-api/pull/22881)
+
 
 ### CAIA intake ticket
 - https://github.com/department-of-veterans-affairs/va.gov-team/issues/75169
