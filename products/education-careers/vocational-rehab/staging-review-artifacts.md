@@ -13,7 +13,8 @@
 ### Known Issues
 - [VBMS Uploader is using wrong pdf form - BE](https://github.com/department-of-veterans-affairs/va-iir/issues/1803)
      - [PR for this Bug](https://github.com/department-of-veterans-affairs/vets-api/pull/22881)
-
+- [Additional Cypress Testing](https://github.com/department-of-veterans-affairs/va-iir/issues/1808)
+- [Update transformForSubmit function to modify all three telephone inputs to remove dashes](https://github.com/orgs/department-of-veterans-affairs/projects/1360/views/1?pane=issue&itemId=117281433&issue=department-of-veterans-affairs%7Cva-iir%7C1809)
 
 ### CAIA intake ticket
 - https://github.com/department-of-veterans-affairs/va.gov-team/issues/75169
