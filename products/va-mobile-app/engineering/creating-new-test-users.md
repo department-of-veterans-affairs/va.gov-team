@@ -6,7 +6,7 @@ Within the staging environment you should be able to go through all the prompts 
 I dont have any fake data for you but I recommend grabbing:
 - real addresses from random places.
 - Update a fake photo
-- A fake SSN needs to start with 666 or 900-999.
+- So after looking into this our team let me know we should avoid using 900 SSNs as those aren’t issued by SSA anymore, Random numbers are generally fine. As long as they’re avoiding 900's, 000 and 666 and avoiding zero groupings (i.e. 000-82-4957 or 826-00-4769) they should be okay
 
 Once you’ve made the account you may notice the name and such comes back as something you didnt enter, this is something that idme does on their own. 
 
