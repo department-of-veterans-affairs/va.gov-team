@@ -19,7 +19,7 @@ and have the necessary information to address problems quickly.  To accomplish i
 
 ## Process expectations
 
-For issues and investigations follow the [Incident Response Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/production-support.md)
+For issues and investigations follow the [Production Support Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/zero-failures/production-support-playbook.md)
 
 ## Watch Officer (watchtower) Process
 
