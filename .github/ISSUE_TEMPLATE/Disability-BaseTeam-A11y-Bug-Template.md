@@ -4,7 +4,6 @@ about: A11y specific bug issues for Disability Benefits Team
 title: ''
 labels: bug, disability-experience, needs-a11y-refinement
 assignees: ''
-
 ---
 
 ## What happened?
