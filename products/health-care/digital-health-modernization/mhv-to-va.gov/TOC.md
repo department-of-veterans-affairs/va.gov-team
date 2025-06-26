@@ -37,7 +37,8 @@
     * Collab Cycle Tickets
         * Open
           - [Filters](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95083)
-          - [Share My Health Data Integration](https://github.com/department-of-veterans-affairs/va.gov-team/issues/104373)  
+          - [Share My Health Data Integration](https://github.com/department-of-veterans-affairs/va.gov-team/issues/104373)
+          - [Data Visualizations](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112935)
         * Closed
           - [Medical Records Initial Launch](https://github.com/department-of-veterans-affairs/va.gov-team/issues/53454)
           - [Download Records](https://github.com/department-of-veterans-affairs/va.gov-team/issues/92340)
