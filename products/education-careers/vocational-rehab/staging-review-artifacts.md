@@ -38,7 +38,7 @@
 - N/A
 
 ### E2E Tests
-- Our end-to-end tests perform the required accessibility check and live here: `[Ch31 E2E Tests](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/new-28-1900/tests/e2e)`
+- Our end-to-end tests live here: [Ch31 E2E Tests](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/new-28-1900/tests/e2e). The axe checks are not yet implemented, and are covered in [this ticket](https://github.com/department-of-veterans-affairs/va-iir/issues/1808).
 
 ### Unit Test Coverage
 - We have met the 80% minimum requirement. Here are the percentages:
