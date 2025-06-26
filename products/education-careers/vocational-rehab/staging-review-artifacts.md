@@ -7,6 +7,8 @@
 -  LOA3 user who does not have a current Save In Progress VR&E application - vets.gov.user+7@gmail.com | 177SsNrLgPv5
 -  LOA3 user who does not have a current Save In Progress VR&E application - vets.gov.user+150@gmail.com | 284SsNrLgPv5
 
+-  All users should receive errors when trying to move to next page without required fields or if fields fail validation. Otherwise, users should see a success message after filling out all required fields and submitting the form.
+
 ### Known Issues
 - [VBMS Uploader is using wrong pdf form - BE](https://github.com/department-of-veterans-affairs/va-iir/issues/1803)
      - [PR for this Bug](https://github.com/department-of-veterans-affairs/vets-api/pull/22881)
