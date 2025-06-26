@@ -6,6 +6,7 @@
 -  LOA3 user who does not have a current Save In Progress VR&E application - vets.gov.user+54@gmail.com | 242SsNrLgPv5
 -  LOA3 user who does not have a current Save In Progress VR&E application - vets.gov.user+7@gmail.com | 177SsNrLgPv5
 -  LOA3 user who does not have a current Save In Progress VR&E application - vets.gov.user+150@gmail.com | 284SsNrLgPv5
+-  LOA3 user who does have a current Save In Progress VR&E application - vets.gov.user+0@gmail.com | 369SsNrLgPv5
 
 -  All users should receive errors when trying to move to next page without required fields or if fields fail validation. Otherwise, users should see a success message after filling out all required fields and submitting the form.
 
