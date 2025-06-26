@@ -13,7 +13,7 @@ The OCTO Identity team has refactored the `User` model's `uuid`  attribute & Red
 
 ## What does this change look like?
 
-Most of `vets-api` has been updated over the past several months to remove usages of the `Account` model & CSP uuids, as well as to update existing data records with `user_account_id`s for indexing.
+Most of `vets-api` has been updated in early 2025 to remove usages of the `Account` model & CSP uuids, as well as to update existing data records with `user_account_id`s for indexing.
 
 Usage of `vets-api` `User` models is unaffected - they can continue to be queried and referenced as normal by their `uuid`. 
 
