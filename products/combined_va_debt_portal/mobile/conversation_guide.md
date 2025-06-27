@@ -81,14 +81,14 @@ How have you been involved with the VA – both in the past and now?
 * Have you been in any of their facilities?
 * Have you used the website and/or app? For what purpose(s)?
 
-Now we're going to move to the financial portion of our discussion. I have no insight into your financial obligations with VA. For our conversation, we'll be more focused on your experience with the finances, so any specific amounts will not need to be shared.
+Now we're going to move to the financial portion of our discussion. I want to make sure that you’re only sharing what you’re willing – I have no additional information about you or your finances with the VA.
 
 ✂️ Split paths: [Cohort 1 (overpayments) starts here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/mobile/conversation_guide.md#cohort-1---overpayments-%EF%B8%8F-%EF%B8%8F-%EF%B8%8F-%EF%B8%8F)  ↔️ [Cohort 2 (copays) starts here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/mobile/conversation_guide.md#cohort-2---copays-%EF%B8%8F-%EF%B8%8F-%EF%B8%8F-%EF%B8%8F) ✂️
 
 ### Cohort 1 - Overpayments ✂️ ✂️ ✂️ ✂️
 
 * _Overview of their financial obligations_
-    * (VBA debts) Have you had any debts as a result of a benefit overpayment?
+    * (VBA debts) Have you had experience with owing the VA money? If you’re comfortable, could you tell me about that experience?
         * What was the situation?
         * When and how were you notified of the debt?
         * How long did it take you to pay it off? Or do you have a rough idea when you’ll pay it off?
