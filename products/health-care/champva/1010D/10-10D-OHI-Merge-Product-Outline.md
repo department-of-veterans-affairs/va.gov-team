@@ -85,7 +85,7 @@ Provide CHAMPVA Benefits Application and OHI submission as a merged form.
 ## Launch Strategy
 - *How are Veterans and others using this product going to know it exists?*
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
-- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+- [Link to Release Plan]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/10-10D%20Extended%20Release%20Plan))
 
 Incident Response info
 
