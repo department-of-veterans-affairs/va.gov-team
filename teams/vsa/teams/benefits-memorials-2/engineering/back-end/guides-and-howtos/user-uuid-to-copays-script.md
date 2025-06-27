@@ -5,10 +5,8 @@
 sub = DebtsApi::V0::Form5655Submission.find("93b85b1bbedf4868965163e5f0821d02")
 user_uuid = sub.user_uuid
 
-verification = UserVerification.find_by(idme_uuid: user_uuid) || 
-  UserVerification.find_by(logingov_uuid: user_uuid) || 
-  UserVerification.find_by(backing_idme_uuid: user_uuid)
-icn = verification.user_account.icn
+user_account = UserAccount.find(user_uuid)
+icn = user_account.icn
 mpi_profile = MPI::Service.new.find_profile_by_identifier(identifier_type: 'ICN', identifier: icn).profile
 mpi_profile.class.module_eval { attr_accessor :va_treatment_facility_ids}
 mpi_profile.class.module_eval { attr_accessor :uuid}

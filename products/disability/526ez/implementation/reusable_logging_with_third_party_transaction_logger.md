@@ -77,11 +77,11 @@ another example would be extracting a the uuid from a currently logged in user. 
 ```
   wrap_with_logging(:some_method,
     additional_instance_logs: {
-      user_uuid: [:current_user, :account_uuid]
+      user_uuid: [:current_user, :user_account_uuid]
     }
   )
 ```
-will call `current_user.account_uuid` from within the controller context!  This is a valuable tool for linking logs to persisted data.
+will call `current_user.user_account_uuid` from within the controller context!  This is a valuable tool for linking logs to persisted data.
 
 NOTE: if you want to return the value of an instance variable, you should make it a readable attribute on your calling class.  E.G.
 ```
