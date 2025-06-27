@@ -44,7 +44,7 @@ body:
       label: Please confirm if you are on Atlas, Platform Team Roster or are a Federal User
       description: If you are on neither, please refer to the **Prerequisites** section at the top, and close this request until complete
       options:
-        - label: "[Atlas](https://dev.va.gov/atlas)"
+        - label: "[Atlas](https://www.va.gov/atlas)"
         - label: "[Platform Team Roster](https://vfs.atlassian.net/wiki/spaces/AP/pages/1908834623/Platform+Roster)"
         - label: "Federal User (Bill Chapman will need to confirm)"
   - type: checkboxes
