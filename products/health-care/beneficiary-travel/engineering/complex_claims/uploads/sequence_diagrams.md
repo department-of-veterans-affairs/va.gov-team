@@ -1,4 +1,7 @@
 # Uploads Sequence Diagrams
+
+These are highly dependend on designs, and even after designs are finalized, may change to incorporate async use of s3.
+
 ```mermaid
 sequenceDiagram
     actor user as User
