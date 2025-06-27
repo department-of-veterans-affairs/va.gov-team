@@ -15,8 +15,9 @@ IIR has tickets in our backlog to do this work but it's just a matter of priorit
 
 Rather than relying on just the [Veteran Service History & Eligibility API](https://developer.va.gov/explore/api/veteran-service-history-and-eligibility/docs?version=current) to determine who gets the Veteran Status Card, we want to do a combination of the Lighthouse API data and the VA Profile API data that was used prior to 2025. 
 
-First, look at the Veteran Service History & Eligitbility API > /status endpoint. If a user comes back as "Confirmed", give them access to the Veteran Status Card
-Second, if a user comes back as "Not Confirmed" check their discharge statuses via VA Profile API and if they have at least one discharge status that isn't unknown or isn't dishonorable, give them access to the Veteran Status Card.
+- First, look at the Veteran Service History & Eligitbility API > /status endpoint. If a user comes back as "Confirmed", give them access to the Veteran Status Card.
+
+- Second, if a user comes back as "Not Confirmed" check their discharge statuses via VA Profile API and if they have at least one discharge status that isn't unknown or isn't dishonorable, give them access to the Veteran Status Card.
 
 </details>
 
