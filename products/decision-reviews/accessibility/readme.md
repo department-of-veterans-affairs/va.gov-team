@@ -28,8 +28,11 @@ The [Benefits Management Tools and Decision Reviews Accessibility Work project b
 - Before that, the last substantial audit took place in [May, 2024](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82890) and [December, 2021](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34244). 
 
 ## Accessibility Annotations
-- 5/2025 Supplemental Claims - [4142 Updated Legalese inside of accordions open on page load](https://www.figma.com/design/2LGebZcUuu5Iqh4QLPII6A/Supplemental-Claims--VA-0995-?node-id=5090-17576&t=SIUE1pTEZTp7ekrZ-0)
+- 5/2025 Supplemental Claims - [4142 Updated Legalese inside of accordions open on page load](https://www.figma.com/design/2LGebZcUuu5Iqh4QLPII6A/Supplemental-Claims--VA-0995-?node-id=4891-10005&t=a8rkT4S78uwU5QDd-0)
 
+## Accessibility 101 Trainings
+- 6/26/2025 A11y 101: Screenreaders part 1 video & slides
+  - 40 minute session on screenreader basics. Led by @bacitracin
 
 ## Resources
 
