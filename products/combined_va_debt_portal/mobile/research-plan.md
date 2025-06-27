@@ -178,7 +178,8 @@ Two cohorts: those who have experience with benefits overpayment debts, and thos
 	- `Cohort 2: 8 received a VA copayment bill in the last year`
 - `Range of debt amount (for Cohort 1)`
 - `Complete session on their smartphone via the Zoom app`
-- `No assistive technology users or accessibility features turned on` (this is due to prototype limitations; we will be testing with assistive technology at a later date)
+- `No assistive technology users or accessibility features turned on`
+    * (this is due to prototype limitations; we will be testing with assistive technology at a later date)
 
 ### Secondary criteria (nice-to-haves)
 
