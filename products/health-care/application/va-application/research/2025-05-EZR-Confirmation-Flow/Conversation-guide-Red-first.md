@@ -100,7 +100,7 @@ Before we look at the prototype, let’s start with a few warm-up questions.
 
 **[Marital Status]**
 
-- Okay, let's pause right here.  If you are no longer married, what do you expect to happen when you choose one of the other statuses?
+- (Optional Question) Okay, let's pause right here.  If you are no longer married, what do you expect to happen when you choose one of the other statuses?
 
 **[Dependent Review]**
 
@@ -153,7 +153,7 @@ Information to be provided to the participant, via chat:
 
 **[Deductible Expenses]**
 
-**[Deductible Expenses]**
+**[Income and Deductible Review]**
 
 - [After they get to the bottom of the page] Okay, let's pause here for a few questions:
 
