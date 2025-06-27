@@ -28,7 +28,7 @@
 
 ### Test Plan
 - All new vets-website apps and form apps use a value in content-build called vagovprod that gets turned from false to true to display on va.gov. At release we will manually verify and document all aspects of the product including the following test scenarios. All of these have been verified in Staging.
-   - As a Veteran, I want to hace a positive experience when completing the online form. - happy path, successful submission of application.
+   - As a Veteran, I want to have a positive experience when completing the online form. - happy path, successful submission of application.
    - As a Veteran, I don't want to encounter a failed submission, but if that were to happen, I would want to be notified if an alternate submission was not successful.
    - As a Veteran, I would want the online form to be accessibility friendly.
 
