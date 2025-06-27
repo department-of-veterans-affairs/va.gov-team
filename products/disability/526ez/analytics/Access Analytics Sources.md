@@ -214,3 +214,91 @@ An example of MyVA411 returned data, scrubbed of PII 
 ## Receiving the data
 
 The data will be sent to you via the email you included in the Github ticket (VA email). It will be a link to a spreadsheet in the VA’s Sharepoint space. Make sure to delete any PII before moving the data to a secure location outside the VA network. 
+
+# Medallia
+_Slack channel:_ [_#vsp-contact-center-support_](https://dsva.slack.com/archives/CNCEXNXK4)
+
+## What is Medallia data?
+
+Medallia is experience management software that the VA uses to get feedback on their digital products. This feedback is captured in two ways: Feedback Surveys (users have the option on every page to actively provide feedback) and Intercept Surveys (users are randomly prompted to fill out a survey). The questions aim to track user sentiment and satisfaction as a Customer Satisfaction Score (CSAT). 
+
+![](INSERT IMAGE)
+
+_Feedback Surveys are accessed via a “Feedback” button at the bottom of every page_
+
+## Prerequisites to accessing Medallia data
+
+### To access Feedback/Intercept survey data:
+
+* Access to VA email, as you will need it to setup a Github account and to receive the data in an email
+
+* Access to the VA Github, as you will be requesting data through that platform
+
+* Access to VA Sharepoint, as you will receive data via a Sharepoint link To access CSAT score data:* Access to the VA Github, as you will be requesting access to Domo to view the data
+
+## Preparing to request data
+
+Preparing to access Feedback/Intercept survey data:
+
+* First, look at the [Medallia User Surveys Overview](https://github.com/department-of-veterans-affairs/va.gov-team/tree/df0864a1636955f6746b70ea98fc93b85ae50e7a/teams/vsp/teams/contact-center/medallia) will help you understand the questions that the surveys present and what type of data they gather. 
+
+* When you request Medallia data, you will need to fill out a [Quantitative Data Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=ianMcCullough-ob%2C+ATMiddleton\&labels=VSP-contact-center%2Ccc-data-request\&projects=\&template=qualitative-data-request.yml\&title=Qualitative+Data+Request.) form in Github. Look at the data input fields to understand how you should format your request.
+  
+Preparing to access CSAT score data:
+
+* Submit a __[Domo Access Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban\&labels=analytics-insights%2C+analytics-request%2C+access-request\&template=analytics-request-google-analytics-domo-access.md\&title=Request+access+to+Google+Analytics+and%2For+Domo) ticket to see default dashboards already created.
+
+## Requesting the data
+
+For Feedback/Intercept survey data, fill out the [Quantitative Data Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=ianMcCullough-ob%2C+ATMiddleton\&labels=VSP-contact-center%2Ccc-data-request\&projects=\&template=qualitative-data-request.yml\&title=Qualitative+Data+Request.) form. 
+
+* Data Type Requested: “User Surveys”
+
+* Data Source Type: “Medallia”
+
+* _Some tips_* Even if you want feedback left about specific pages of the form, it may be beneficial to request access to data left on many other pages of the form. People may not leave feedback about a page, on that page. 
+
+## Receiving the data
+
+### To access Medallia Source Data within Domo
+
+* [Domo Medallia Data Dashboard](https://va-gov.domo.com/page/825663825)
+
+  - Includes data from both Intercept and Feedback surveys
+
+  - “file-disability-claim-form-21-526EZ” filter can be applied. 
+
+* [Domo CSAT Score Dashboard](https://va-gov.domo.com/page/1545882322)
+
+  - CSAT from both Medallia Intercept and Feedback surveys[Instructions to see CSAT scores](https://drive.google.com/file/d/13CoM_q6ONls6Qe0cakQI4cRE8MPX01x_/view?usp=drive_link) and manipulate dashboard
+
+# Datadog
+_Slack channel for general access:_ [_#vfs-platform-support_](https://dsva.slack.com/archives/CBU0KDSB1)
+
+## What is Datadog?
+
+Datadog monitors the technical performance and reliability of systems, as well as some key performance indicators for user behaviors. It detects errors, slow load times, service disruptions, and tracks certain classifications of user choices.
+
+## Requesting Access to Datadog
+
+**_Prerequisites to accessing Datadog include a PIV card and OKTA access._**
+
+* Create an OKTA account by connecting to the VA network via your PIV card and card reader to your contractor laptop.
+
+* We have found that this does not work on Chrome unless you use an incognito window, or use Firefox, or use your GFE.
+
+* Fill this out: “[OKTA Account Creation Request](https://auth.devops.va.gov/app/veteransaffairs-devops_vajira_1/exkc2jpqy8u1hxdty4h7/sso/saml?SAMLRequest=jZJRb5swFIXf9yuQ38HgUcisQJU1qhapW1GT7mEvkTGXxB3Y1New5N%2BPkEXKJrXa6%2FU937k6x%2FPbQ9t4A1hURmckCkLigZamUnqXkefNvT8jt%2FmHOYq26fiid3v9BK89oPMWiGDdKLszGvsW7BrsoCQ8Pz1kZO9ch5zSF2VFUMFgOgwGEezMQLum3ymNdFQPDTh6QlMxkom3HLlKCzfdckGcnv5BiK6jAziwQqOoa6Es%2BueN7SBOltuIwuGnZC%2Fd63HWR%2FtD5Y7xPqWIZvIj3mqZke3sU5SUTDJgcRKnJSs%2FpsCgrKVMUyHDZFzDQiCqATJSiwbhNMEeVhqd0C4jLGQ3fpj4UbKJEn4T8ygOWBr%2BIF5hjTPSNJ%2BVPofZW82NQIVcixaQO8nXi68PnAUhL89LyL9sNoVfPK43xPt%2BKYWdShlr0sinGt5HdX98ST6Vxqd77ZX%2Bfbm4tErytzuc0yv02Yd1%2FNsIWy0L0yh59BZNY37dWRBujM7Zfkzu3thWuLftoyCaJqry62mV9xo7kKpWUF0nwP43ApqfL%2F375%2Ba%2FAQ%3D%3D\&RelayState=%252Fservicedesk%252Fcustomer%252Fportal%252F89\&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256\&Signature=Y8U9IKO%2B5zyWSwYGCYhDzT%2FU2ZUVjDq85eCGJDTeJNMpo2QFM34NI4Zy%2F5m3neb2NMwz3PjqgDZV%0Ad%2BBxK6kJ34SFQxWBrvfbJSoX1ARdjTLKipJrZ3BdEdZJhfznXVgTFuYQ4LD4adyNiofGikF5doiU%0AQey0qx77B7R0yabo1poYL9I8O2CbVJSUi8bTXd4AgzpNmOcYWil1EgFdvGxZymYfChfe3tqw3ZlQ%0A5R1QlSzrJ7CWXn8N2dRc864YfeZvDXE6ptekNq9DAolkE1E7jWyNxwJzzPfWRDBkFHFqWeg4COPH%0A94dlUPbtlNC%2F0AM5vhmnF%2BL%2Bo%2Ba67KkZNeuzBA%3D%3D)” 
+
+* Choose your VA email address as your username
+
+* Choose your program manager for your VA Manager
+
+* You may get into a loop where you cannot access the ticket template linked above to create an OKTA Account because you do not have an OKTA account. If that is the case, you can request that someone else with access fill out the ticket for you.
+
+**_Once you have a PIV card and OKTA access:_*** Follow these **__**[Instructions for accessing Datadog](https://depo-platform-documentation.scrollhelp.site/developer-docs/get-access-to-datadog#GetAccesstoDatadog-Step2:GainAccesstoDatadog)
+
+## Default Dashboards Provided in Datadog
+
+![](INSERT IMAGE)
+
+_This is a screenshot of the default dashboard in Datadog provided for the Disability Benefits application as of 6/16/2025.___
