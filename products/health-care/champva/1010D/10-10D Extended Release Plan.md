@@ -65,7 +65,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
   - Upload error rate < 5%
   - Zero silent failures
   - Callback error rate < 1%
-- Links to the dashboard(s) showing "success criteria" metrics: [ivc-champva-forms](https://vagov.ddog-gov.com/dashboard/zsa-453-at7/ivc-champva-forms?fromUser=false&refresh_mode=weekly&from_ts=1734391252265&to_ts=1734709253529&live=true) with link to dashboards (example: Google Analytics dashboard)
+- Links to the dashboard(s) showing "success criteria" metrics: [ivc-champva-forms](https://vagov.ddog-gov.com/dashboard/zsa-453-at7/ivc-champva-forms?fromUser=false&refresh_mode=weekly&from_ts=1734391252265&to_ts=1734709253529&live=true) will be monitored by the team **(TO BE UPDATED WHEN 10-10D EXTENDED DASBHOARD IS LIVE)** with link to dashboards (example: Google Analytics dashboard)
 - Who is monitoring the dashboard(s)?: IVC Forms Team
 
 *The KPIs and numbers are example values recommended by VSP but can be customized to your team's needs.*
