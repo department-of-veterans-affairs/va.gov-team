@@ -37,7 +37,7 @@
 - **Use case:** For each section without information on file, i.e. a `null` value, the user will see the name of the section and prompt to edit their profile to add [section information]. Clicking the Edit button will put the section into an inline edit mode.
 - **Status code:** None
 - **Format:** See designs
-- REFERENCE [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=890-6189&t=5dhgHTuWdYUMln4l-1)
+- REFERENCE [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=890-6189&t=G3wWRZVoO8OcGFyt-1)
 - **Content:** See designs
 
 </details>
