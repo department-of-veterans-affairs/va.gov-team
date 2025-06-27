@@ -48,7 +48,9 @@
     - Branches = 88.57%
  
 ### Endpoint Monitoring
-- Playbook is linked here: 
+- Playbook is linked here: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/b95f85ecde584a9fcaecb2e0c2d1b560f8651c2a/teams/benefits/playbooks/vre-form-28-1900.md
 
 ### Logging Silent Failures
-- 
+- [Silent Failure Logging Potential](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/sidekiq/vre/submit1900_job.rb#L18): Statsd metrics can be found on the app [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/94e-cku-2aq). This includes the "Sidekiq job (Submit1900Job) queues, dequeues, and errors)", "Errors by status", and the multiple alert widgets there.
+  - This Job kicks off a Monitor that inhereits from ZeroSilentFailures::Monitor and implements the [logging of silent failures](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/vre/monitor.rb#L20).
+- This product makes use of VA Notify to send action needed emails [here](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/models/saved_claim/veteran_readiness_employment_claim.rb#L299), [here](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/models/saved_claim/veteran_readiness_employment_claim.rb#L317), and [here](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/models/saved_claim/veteran_readiness_employment_claim.rb#L347). All of these VA Notify implementations have logic in place to make sure the email sends properly and if it does not, it logs an error. We have a widget on the Dashboard that tracks these logs.
