@@ -362,5 +362,5 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 	- **Janelle Finnerty**
 
 ## Approvals ✅
-- `Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]`
+- `Reviewed by [Michelle Middaugh, OCTO Product Owner] on [06-27-2025]`
 - `Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]`
