@@ -104,6 +104,7 @@ Header: Cancel changes?
 You haven’t finished editing and saving the changes to your [H3 section title]. If you cancel now, we won’t save your changes.
 
 Primary button: Yes, cancel my changes
+
 Secondary button: No, go back to editing
 
 </details>
