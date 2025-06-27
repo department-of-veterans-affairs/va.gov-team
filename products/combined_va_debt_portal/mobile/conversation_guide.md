@@ -177,50 +177,7 @@ Overpayment benefits debt
 
 <details><summary>Copayments: time-dependent and if relevant</summary>
 
- Copayments
-
-* What are your first impressions of what you’re seeing?
-* Find what you currently owe for copayments
-    * How clear was that to find?
-    * What can you tell me about the other copayments on this screen?
-* After you have a medical appointment, when would you expect to see the copayment appear here?
-    * How would you expect to be notified?
-* What do you need to know for each copay due?
-    * How easy/difficult is it to find relevant information?
-* _[point to a specific copay]_ What can you tell me about your activity here?
-    * Is it clear when the payment is due?
-* If you pay off a copay, would you want to see it? 
-    * Here or anywhere else?
-* Let’s pretend you see an error – _[point to a specific copay]_ one of the copays is for an appointment that you did not have. What would you do?
-    * What sort of info or guidance might you look for?
-* Now we’re going to pretend that you don’t believe you’re going to have the money to pay the most recent copay bills. Walk me through what you would do in this situation.
-    * What sort of info or guidance might you look for?
-* What else would you want to do here with regards to your copays?
-    * How would you expect to make payments?
-    * What are your thoughts on this new section not having a payment option?
-    * If this were to be built in real life, how likely would you be to use it?
-* Now I'm going to have you click [location TBD] to view a different version. _(with payment option)_
-    * If you are ready to make a payment on this bill, walk me through how you would do that.
-    * Talk to me about that experience of starting to make the payment (e.g. opening .gov, new sign-in, copying payment + account info)
-    * After you’ve paid this bill, what would you expect to see? When would you expect to see an update?
-    * If this were to be built in real life, how likely would you be to use it?
-    * How would the likelihood of you using this compare to the previous version where you were not able to make payments?
-* If you knew you also have benefit overpayment debt, where would you go to find that?
-    * Had you noticed a reference to it on the copayments page?
-* _(if user has not brought them up already)_ Talk to me about your monthly statements for copays
-    * Were you aware of them?
-    * Do you read them now? If so, what purpose do they serve? What are you doing with them?
-    * Walk me through exploring them in the prototype here.
-    * What are your thoughts on the PDFs here?
-* Now that we’ve gone through this section, any other thoughts you’d like to share on what is here and how the information is presented?
-* What are your thoughts on how the sections and pages are labeled?
-    * Are there other titles that would make more sense to you?
-* _(if relevant)_ Can you tell me what you think of this experience vs what you have found on va.gov?
-* Now I’m going to have you click [location TBD] to view a different version. _(home screen with debt/bill shortcuts)_
-    * This is the home screen of the app. What are your initial thoughts?
-    * Regarding these debts + copays buttons – can you describe a situation where you might use them?
-    * Considering how you manage your finances, when would these shortcuts be most useful for you?
-    * What do you think about the information presented on the home screen? (e.g. amount, due date)?
+ _Specific questions to be deteremined_
 
 </details>
 
@@ -358,44 +315,7 @@ Copayments
 
 <details><summary>Overpayments: time-dependent and if relevant</summary>
 
-Overpayment benefits debt
-
-* What are your first impressions of what you’re seeing?
-* Find what you currently owe for overpayment debts
-    * How clear was that to find?
-    * What can you tell me about the other debts on this screen?
-* If a new debt arises, how would you expect to be notified?
-* What do you need to know for each debt?
-    * How easy/difficult is it to find relevant information?
-* [point to a specific debt] What can you tell me about your activity here?
-    * Is it clear when a payment is due?
-* If you pay off a debt, would you want to see it? 
-    * Here or anywhere else?
-* Let’s pretend you see an error – _[point to a specific copay]_ this debt is for something you don’t believe you actually owe. What would you do?
-    * What sort of info or guidance might you look for?
-* Now we’re going to pretend that you don’t believe you’re going to have the money to make a payment on the debt in the next few months. Walk me through what you would do in this situation.
-    * What sort of info or guidance might you look for?
-* What else would you want to do here with regards to your debt?
-    * How would you expect to make payments?
-    * What are your thoughts on this new section not having a payment option?
-    * If this were to be built in real life, how likely would you be to use it?
-* How I'm going to have you click [location TBD] to view a different version.
-    * If you are ready to make a payment on this debt, walk me through how you would do that.
-    * Talk to me about that experience of starting to make the payment (e.g. opening .gov, new sign-in, copying payment + account info)
-    * After you’ve made a payment, what would you expect to see? When would you expect to see an update?
-    * If this were to be built in real life, how likely would you be to use it?
-    * How would the likelihood of you using this compare to the previous version where you were not able to make payments?
-* If you knew you also have medical copayments, where would you go to find that?
-    * Had you noticed a reference to it on the overpayments debt page?
-* Now that we’ve gone through this section, do you have any other thoughts about what is here and how the information is presented?
-* What are your thoughts on how the sections and pages are labeled?
-    * Are there other titles that would make more sense to you?
-* _(if relevant)_ Can you tell me what you think of this experience vs what you have found on va.gov?
-* Now I’m going to have you click [location TBD] to view a different version. _(home screen with debt/bill shortcuts)_
-    * This is the home screen of the app. What are your initial thoughts?
-    * Regarding these debts + copays buttons – can you describe a situation where you might use them?
-    * Considering how you manage your finances, when would these shortcuts be most useful for you?
-    * What do you think about the information presented on the home screen? (e.g. amount, due date)?
+_Specific questions to be deteremined_
 
 </details>
 
