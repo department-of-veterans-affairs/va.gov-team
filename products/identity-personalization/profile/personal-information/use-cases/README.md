@@ -15,7 +15,7 @@
 ## Current experience
 - For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the user will be directed to the Profile Account Security section. [See LOA1 account documentation.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
 - The following user information is on the page:
-	- Read only information
+   - Read only information
      - Legal name
      - Date of birth
      - Disability rating
