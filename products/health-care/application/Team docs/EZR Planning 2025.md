@@ -1,6 +1,23 @@
 # 2025 Sprint Planning for EZR Team
 - Current Sprint first
 
+## 📆 Sprint 24 (July 2- July 15)
+
+### 10-10EZR
+
+#### Obj: 
+
+#### Obj: 
+
+#### Obj: 
+
+##
+### Team PTO
+- Holiday: 6/4 Fourth of July Holiday
+- Alex: 6/2-3
+- Luis: 6/3
+- Josh: 6/8-15
+  
 ## 📆 Sprint 23 (June 18 - July 1)
 
 ### 10-10EZR
