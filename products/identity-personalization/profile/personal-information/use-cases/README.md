@@ -8,7 +8,7 @@
 
 <details><summary>Archive | How to reproduce in staging</summary>
 
-- 
+- [User needs to add or update personal information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/use-cases/add-edit-personal-info.md#add-or-edit-personal-info)
 
 </details>
 
@@ -30,13 +30,14 @@
 - [User logs in with an LOA1 account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
 
 ### User logs in with LOA3 account
+#### Preferred name and Messages signature
 
 <details><summary>Adding information</summary>
 
-- **Use case:** For each section without information on file, i.e. a `null` value, the user will see the name of the section and prompt that tells them they can edit their profile to add [section information]. Clicking the Edit button will put the section into an inline edit mode.
+- **Use case:** For each section without information on file, i.e. a `null` value, the user will see the name of the section and prompt to edit their profile to add [section information]. Clicking the Edit button will put the section into an inline edit mode.
 - **Status code:** None
 - **Format:** See designs
-- [Links to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3123-35605&t=HML77KqMVILaoozm-1)
+- REFERENCE [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=890-6189&t=5dhgHTuWdYUMln4l-1)
 - **Content:** See designs
 
 </details>
@@ -47,10 +48,9 @@
 - **Use case:** Clicking the Edit button will put the section into edit mode and reveal the editable fields inline. If there are input errors they show inline with the input field.
 - **Status code:** None
 - **Format:** See designs
-- Links to designs
-   - [Address](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3123-35977&t=HML77KqMVILaoozm-1)
-   - [Phone number](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3130-24667&t=HML77KqMVILaoozm-1)
-   - [Email address](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3132-24668&t=HML77KqMVILaoozm-1)
+- REFERENCE Links to designs
+   - [Preferred name](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=890-6189&t=5dhgHTuWdYUMln4l-1)
+   - [Messages signature](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=890-6189&t=5dhgHTuWdYUMln4l-1)
 - **Content:** See designs
 
 </details>
@@ -59,10 +59,10 @@
 <details><summary>Save in progress alert</summary>
 
 - **Use case:** Shows while the users information is in the process of being saved. Field value and buttons are hidden since there is an action in progress, and we’re waiting for a response to display the correct field value.
-- **Status code:** TBD
-- **Format:** [Slim information alert](https://design.va.gov/components/alert/#examples---slim-alert)
-- [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3143-14380&t=MGmcos4rzcFh3Q1H-1)
-- **Content:** We’re working on saving your new [information type]. We’ll show it here once it’s saved.
+- **Status code:** None
+- **Format:** [Loading indicator in button](https://design.va.gov/components/loading-indicator)
+- REFERENCE [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=890-6189&t=5dhgHTuWdYUMln4l-1)
+- **Content:** See designs
 
 </details>
 
@@ -70,9 +70,9 @@
 <details><summary>Saving information</summary>
 
 - **Use case:** Changes are saved once the user presses the Save button. Once the form is successfully saved, the user is returned to read mode and a slim success alert should display below the section header.
-- **Status code:** TBD
+- **Status code:** 200
 - **Format:** [Slim success alert](https://design.va.gov/components/alert/#examples---slim-alert)
-- [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3143-14380&t=V3lMgUB50CWCTPrv-1)
+- REFERENCE [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=890-6189&t=5dhgHTuWdYUMln4l-1)
 - **Content:** Update saved.
 
 </details>
@@ -80,26 +80,12 @@
 
 <details><summary>Removing information</summary>
 
-- **Use case:** Clicking the remove button will trigger a modal prompting the user to confirm they want to remove their information. All entered information can be removed, **other than mailing address.**
+- **Use case:** Preferred name cannot be removed once added.
+   - Messages signature can be removed by clicking the remove button, which will trigger a modal prompting the user to confirm they want to remove their information.
 - **Status code:** None
 - **Format:** [Warning modal](https://design.va.gov/components/modal/#warning)
-- [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3143-17044&t=V3lMgUB50CWCTPrv-1)
-- **Content:**
-
-Header: Are you sure?
-
-This will remove your [section header title] across these VA benefits and services:
-
-- VA health care (including prescriptions, appointment reminders, lab and test results, and communications from your VA medical center)
-- Disability compensation
-- Pension benefits
-- Claims and appeals
-- Veteran Readiness and Employment (VR&E)
-
-You can always come back to your profile later if you want to add this home phone number again.
-
-Primary button: Yes, remove my information
-Secondary button: No, cancel these changes
+- UNABLE TO TRIGGER [Link to designs]
+- **Content:** TBD
 
 </details>
 
@@ -110,7 +96,7 @@ Secondary button: No, cancel these changes
 	- If the field is correctly and completely filled out, or they hit cancel a second time, they'll see a modal warning message asking to confirm if they want to leave edit mode.
 - **Status code:** None
 - **Format:** [Warning modal](https://design.va.gov/components/modal/#warning)
-- [Links to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3143-17044&t=V3lMgUB50CWCTPrv-1)
+- REFERENCE [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=890-6189&t=5dhgHTuWdYUMln4l-1)
 - **Content:**
 
 Header: Cancel changes?
@@ -122,7 +108,24 @@ Secondary button: No, go back to editing
 
 </details>
 
-- [User needs to add or edit personal information (Preferred name or Gender identity)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/use-cases/add-edit-personal-info.md)
+
+<details><summary>Edit new information while editing</summary>
+
+- **Use case:** If a user attempts to edit a different data point on the page, a modal will trigger informing them they have to complete their action first before starting a new one.
+- **Status code:** None
+- **Format:** [Warning modal](https://design.va.gov/components/modal/#warning)
+- REFERENCE [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=890-6189&t=5dhgHTuWdYUMln4l-1)
+- **Content:**
+
+Header: Save or cancel your edits to your messages signature
+
+Before you can edit a new section of your profile, you need to save or cancel your edits to your [H3 section header]. If you cancel, we won't save your in-progress edits.
+
+Primary button: OK
+
+</details>
+
+
 
 ## Edge cases
 
