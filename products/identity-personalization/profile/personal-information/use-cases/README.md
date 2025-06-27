@@ -135,13 +135,40 @@ There are no flags for this feature.
 
 ### Errors
 
+<details><summary>System down: Cannot display personal information</summary>
+
+- **Use case:** Backend system that controls the personal information page is down.
+- **Status code:** None
+- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
+- REFERENCE [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3147-17046&t=GHty9iyEI8JuwTB9-1)
+- **Content:**
+
+H2: This page isn't available right now
+
+We’re sorry. Something went wrong on our end. Refresh this page or try again later.
+
+</details>
+
+
+<details><summary>System down: Cannot display legal name and/or disability rating</summary>
+
+- **Use case:** Backend system that controls the legal name and disability rating are down. A slim warning message appears inline under the section header. It is possible for both of these errors to appear at the same time.
+- **Status code:** None
+- **Format:** [Warning slim alert component](https://design.va.gov/components/alert/#web-2)
+- REFERENCE Links to designs
+   - [Legal name](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=0-66&t=5dhgHTuWdYUMln4l-1)
+   - [Disability rating](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=0-55&t=G3wWRZVoO8OcGFyt-1)
+- **Content:**
+
+Legal name: We're sorry. Something went wrong on our end and we can't load your legal name. Try again later.
+
+Disability rating: We're sorry. Something went wrong on our end and we can't load your disability rating information. Try again later.
+
+</details>
+
+
 ### Blocked users 
 - [See documentation here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/blocked-account.md)
-
-
-### System
-- [Something has gone wrong and VA.gov can’t display any personal information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/use-cases/system-cant-display-personal-info.md)
-- [Something has gone wrong and VA.gov can't display legal name and/or disability rating](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/personal-information/use-cases/system-cant-display-disability-rating-or-legal-name.md)
 
 ---
 
