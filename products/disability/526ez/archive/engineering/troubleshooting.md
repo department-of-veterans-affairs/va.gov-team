@@ -49,8 +49,9 @@ ipf = InProgressForm.find(id)
 starting with EDIPI
 ````ruby
 edipi= 123456
-acct = Account.where(edipi: edipi).first
-ipf = InProgressForm.where(user_uuid: acct.idme_uuid)
+dslogon_verification = UserVerification.find_by(dslogon_uuid: edipi)
+user_account = dslogon_verification.user_account
+ipf = InProgressForm.where(user_uuid: user_account.id)
 ````
 
 next steps:
@@ -63,9 +64,8 @@ fss.last.form526_job_statuses.last.error_message
 
 if we see an identiy related error like `Error calling external service to establish the claim during Submit` (useful, huh?) we can check the identity info (check for multiple birls id's)
 ````ruby
-acct = Account.where(idme_uuid: ipf.user_uuid).first
-# OR acct = Account.find_by("idme_uuid = ? OR sec_id = ? OR logingov_uuid = ?", uuid, uuid, uuid)
-response = MPI::Service.new.find_profile_by_edipi(edipi: acct.edipi).profile
+user_account = UserAccount.find(ipf.user_uuid)
+response = MPI::Service.new.find_profile_by_identifier(identifier: user_account.icn, identifier_type: 'ICN').profile
 ````
 
 More details about form526_job_statuses error messages in  [the 526: Reduce form526 Submission Errors, Technical Debt, and Improvements epic ](https://github.com/department-of-veterans-affairs/va.gov-team/issues/9903)

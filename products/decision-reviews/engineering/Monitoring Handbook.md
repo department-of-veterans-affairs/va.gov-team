@@ -135,7 +135,8 @@ When investigating a traffic anomaly, you should consider the following factors:
     ![Screenshot 2025-05-15 at 5 22 37 PM](https://github.com/user-attachments/assets/2b7ae53a-5222-4a8f-8c5c-f4961dc41b2b)
 
 4. **User-Specific Errors**
-   - Many logs contain a `user_uuid` for tracking related errors. Note that due to a broader VA.gov [refactoring effort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/user_uuid%20Refactor/user_uuid_refactor_faq.md) to move away from using `user_uuid`, you may need to look for and start logging `user_account_id` instead. 
+   - Many logs contain a `user_uuid` for tracking related errors. Note that due to a broader VA.gov [refactoring effort](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/user_uuid%20Refactor/user_uuid_refactor_faq.md) to move away from using `user_uuid`, you may need to look for and start logging `user_account_id` instead.
+     - As of 06/27/2025 [the VA.gov `user_uuid` credential refactor](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/user_uuid%20Refactor/user_uuid_refactor_announcement.md) has been implemented; `user_uuid` & `user_account_id` are now identical values.
    - Previously, Sentry could be searched for the `user.id` parameter when DataDog has insufficient details. However, Sentry has since been sunset and tickets like [this one](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90265) were created for fleshing out missing DataDog logging.
 
 5. **Job-Related Errors**

@@ -5,9 +5,8 @@
 ```rb
 def get_mpi_profile_with_user_uuid(user_uuid)
   mpi_service = MPI::Service.new
-  idme_profile = mpi_service.find_profile_by_identifier(identifier: user_uuid, identifier_type: 'idme')&.profile
-  logingov_profile = mpi_service.find_profile_by_identifier(identifier: user_uuid, identifier_type: 'logingov')&.profile
-  idme_profile || logingov_profile
+  icn = UserAccount.find(user_uuid)&.icn
+  mpi_service.find_profile_by_identifier(identifier: icn, identifier_type: 'ICN')&.profile
 end
 
 def get_mpi_profile_with_icn(icn)

@@ -2,14 +2,11 @@
 Want to run queries on staging/prod? See our [Argo documentation](../argo.md).
 
 ## Get copays for a given User UUID
-```
+```ruby
 def uuid_to_mpi(user_uuid)
-	verification = UserVerification.find_by(idme_uuid: user_uuid) ||
-	UserVerification.find_by(logingov_uuid: user_uuid) ||
-	UserVerification.find_by(backing_idme_uuid: user_uuid)
-	
-	icn = verification.user_account.icn
-	
+    user_account = UserAccount.find(user_uuid)
+	icn = user_account.icn
+
 	mpi_profile = MPI::Service.new
 	.find_profile_by_identifier(identifier_type: 'ICN', identifier: icn)
 	.profile
@@ -44,11 +41,8 @@ end
 ## Get Debts for a given User UUID
 ```
 def uuid_to_mpi(user_uuid)
-	verification = UserVerification.find_by(idme_uuid: user_uuid) ||
-	UserVerification.find_by(logingov_uuid: user_uuid) ||
-	UserVerification.find_by(backing_idme_uuid: user_uuid)
-	
-	icn = verification.user_account.icn
+    user_account = UserAccount.find(user_uuid)
+	icn = user_account.icn
 	
 	mpi_profile = MPI::Service.new
 	.find_profile_by_identifier(identifier_type: 'ICN', identifier: icn)

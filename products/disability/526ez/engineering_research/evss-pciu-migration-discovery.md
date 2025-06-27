@@ -72,14 +72,14 @@ service.get_address
 
 ### calling VA Profile
 
-1. Use the user_uuid to grab the ICN from the Account record
+1. Use the user_uuid to grab the ICN from the UserAccount record
 2. Use the ICN to query VA Profile's Person service for the vet360_id
 3. Use the vet360_id to initialize the VA Profile ContactInformation service
 4. Call get_person on the service
 
 ```ruby
-account = Account.find_by(idme_uuid: uuid) # if no account is found, try logingov_uuid as the parameter
-icn = account.icn
+user_account = UserAccount.find(uuid)
+icn = user_account.icn
 aaid = CGI.escape("#{icn}#{Identity::Parsers::GCIdsConstants::ICN_ASSIGNING_AUTHORITY_ID}")
 encoded_icn = "#{Identity::Parsers::GCIdsConstants::VA_ROOT_OID}/#{aaid}"
 service = VAProfile::Person::Service.new({})

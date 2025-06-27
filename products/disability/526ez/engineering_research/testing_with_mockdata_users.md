@@ -84,10 +84,9 @@ Now open a redis command line by running `redis-cli`.  In the Redis command line
 
 There are a few steps to doing this.
 - Find the `accountUuid` from the browser
-- Find the Account associated with this value in the rails console
-- Find the User associated with this account.
+- Find the User associated with this account id.
 
-#### Find the accountUuid from the browser
+#### Find the userAccount.id from the browser
 1. Login as your user
 2.  Navigate to a page that will load your user data, such as [the 526 form](http://localhost:3001/disability/file-disability-claim-form-21-526ez/start)
 3. Open your developer tools (inspect page source or CMD+Shift+C). Open the Redux tab
@@ -96,15 +95,11 @@ There are a few steps to doing this.
 4. select the 'STATE' tab on the right pannel and an event on the left pannel
 <img width="305" alt="Screenshot 2023-08-25 at 1 41 59 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/64c76172-119b-4f97-82ca-83cb64a3fc1b">
 
-5. dropdown the user -> profile carrots in the STATE object and get the value for accountUuid:
+5. dropdown the user -> profile carrots in the STATE object and get the value for userAccount.id:
 <img width="574" alt="Screenshot 2023-08-25 at 1 43 01 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/ab6bf382-0159-44a3-aadd-22d398f70a69">
 
 #### Load the account in a rails console
 1. start a rails console in your application directory
-2. run the following `acc = Account.find_by(uuid: <accountUuid from last step>)`
-<img width="1512" alt="Screenshot 2023-08-25 at 1 44 20 PM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/15328092/446a783b-d86b-499b-bf92-b3b89ca65e19">
-
-#### Load the user from the Account object
-run `user = User.find(acc.idme_uuid)`.  The resulting object is your user!
+2. run the following un `user = User.find(userAccount.id)`.  The resulting object is your user!
 
 Here you should be able to call methods on your user or view values that reflect your previous changes.
