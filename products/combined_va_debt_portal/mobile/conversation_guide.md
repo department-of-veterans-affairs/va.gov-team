@@ -93,7 +93,7 @@ Now we're going to move to the financial portion of our discussion. I have no in
         * When and how were you notified of the debt?
         * How long did it take you to pay it off? Or do you have a rough idea when you’ll pay it off?
     * (copays) Do you have any experience with medical copayments through the VA?
-        * Do you receive any of these bills?
+        * Do you receive any of these bills? If so, how?
         * How long have you been receiving them?
         * How often do you receive them?
 
@@ -130,17 +130,17 @@ From home screen
     * How clear was that to find?
     * Tell me your thoughts on the title of that section.
         * What would you expect to find there?
-        * Are there other names that would be a better description?
+        * Are there other names that would be a better description or make things easier to find?
 * Now click into that tab
     * What are your thoughts on the info presented here?
-    * What do you think about the information presented on this screen? (e.g. amount, due date)?
+    * Regarding the info below the word "overpayments" – what would be the most helpful to see there?
 
 Overpayment benefits debt 
 
-* What are your first impressions of what you’re seeing?
 * Find what you currently owe for overpayment debts
     * How clear was that to find?
     * What can you tell me about the other debts on this screen?
+* Tell me about the Debt Letter section – what do you assume this is and how useful is it?
 * If a new debt arises, how would you expect to be notified?
 * What do you need to know for each debt?
     * How easy/difficult is it to find relevant information?
@@ -148,15 +148,16 @@ Overpayment benefits debt
     * Is it clear when a payment is due?
 * If you pay off a debt, would you want to see it? 
     * Here or anywhere else?
-* Let’s pretend you see an error – _[point to a specific copay]_ this debt is for something you don’t believe you actually owe. What would you do?
-    * What sort of info or guidance might you look for?
 * Now we’re going to pretend that you don’t believe you’re going to have the money to make a payment on the debt in the next few months. Walk me through what you would do in this situation.
     * What sort of info or guidance might you look for?
+    * Is it clear when you would need to start anything?
+    * What are your thoughts on opening new windows for the information?
+* Were you aware of these options for financial help? If so, how did you learn?
 * What else would you want to do here with regards to your debt?
     * How would you expect to make payments?
     * What are your thoughts on this new section not having a payment option?
     * If this were to be built in real life, how likely would you be to use it?
-* How I'm going to have you click [location TBD] to view a different version.
+* Now I'm going to have you click [location TBD] to view a different version.
     * If you are ready to make a payment on this debt, walk me through how you would do that.
     * Talk to me about that experience of starting to make the payment (e.g. opening .gov, new sign-in, copying payment + account info)
     * After you’ve made a payment, what would you expect to see? When would you expect to see an update?
@@ -258,7 +259,7 @@ If needing to exit the session
 
 * _Overview of their financial obligations_
     * (copays) What is your experience with medical copayments through the VA?
-        * Do you receive any of these bills?
+        * Do you receive any of these bills? If so, how?
         * How long have you been receiving them?
         * How often do you receive them?
     * (VBA debts) Have you had any debts as a result of a benefit overpayment?
@@ -299,15 +300,14 @@ From home screen
     * How clear was that to find?
     * Tell me your thoughts on the title of that section.
         * What would you expect to find there?
-        * Are there other names that would be a better description?
+        * Are there other names that would be a better description or make things easier to find?
 * Now click into that tab
     * What are your thoughts on the info presented here?
-    * What do you think about the information presented on this screen? (e.g. amount, due date)?
+    * Regarding the info below the word "copay" – what would be the most helpful to see there?
 
 
 Copayments
 
-* What are your first impressions of what you’re seeing?
 * Find what you currently owe for copayments
     * How clear was that to find?
     * What can you tell me about the other copayments on this screen?
@@ -315,15 +315,20 @@ Copayments
     * How would you expect to be notified?
 * What do you need to know for each copay due?
     * How easy/difficult is it to find relevant information?
+* Are you usually visiting different VA locations for your healthcare?
+    * How clearly is everything presented here? (do they know the copays from locations are grouped?)
 * _[point to a specific copay]_ What can you tell me about your activity here?
     * Is it clear when the payment is due?
 * If you pay off a copay, would you want to see it? 
     * Here or anywhere else?
+    * Are there any here that you believe are paid off? How clear is it?
 * Let’s pretend you see an error – _[point to a specific copay]_ one of the copays is for an appointment that you did not have. What would you do?
     * What sort of info or guidance might you look for?
 * Now we’re going to pretend that you don’t believe you’re going to have the money to pay the most recent copay bills. Walk me through what you would do in this situation.
     * What sort of info or guidance might you look for?
+    * Is it clear when you would have to start something?
     * What are your thoughts on opening new windows for the information?
+* Were you aware of these options for financial help? If so, how did you learn?
 * What else would you want to do here with regards to your copays?
     * How would you expect to make payments?
     * What are your thoughts on this new section not having a payment option?
