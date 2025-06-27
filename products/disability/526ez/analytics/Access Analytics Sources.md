@@ -82,3 +82,6 @@ _Note: Further instructions on how to use KPI Dashboards is provided in_ [_VA Pl
 To get this view:
 
 - Select “VA.gov Forms KPIs” in the left navigation.
+
+![Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/analytics/platform_images/Domo%201.png?raw=true)
+
