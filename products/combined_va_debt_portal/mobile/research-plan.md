@@ -353,11 +353,13 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 	- **Jason DeHaan**
 	- **Parker Baranowski**
 	- **Michelle Middaugh**
+	- **Denise Coveyduc** 
 	- **Charlotte Cesana**
 	- **Megan Gayle**
 	- **Marcela Rojas**
 	- **Rory Cooper**
 	- **Joni Chan**
+	- **Janelle Finnerty**
 
 ## Approvals ✅
 - `Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]`
