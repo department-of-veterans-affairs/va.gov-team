@@ -173,7 +173,7 @@ Two cohorts: those who have experience with benefits overpayment debts, and thos
 
 ### Primary criteria (must-haves)
 
-- `All participants must meet at least one of the following primary criteria:`
+- `All participants must meet at least one of the following primary criteria, and ideally some will meet both:`
 	- `Cohort 1: 8 had a debt balance from overpayment debt in last three years`
 	- `Cohort 2: 8 received a VA copayment bill in the last year`
 - `Range of debt amount (for Cohort 1)`
