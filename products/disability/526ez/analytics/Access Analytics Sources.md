@@ -8,19 +8,19 @@ Date: June 27, 2025
 Irene Vailikit (irene.vailikit@aquia.io), Momo Miyazaki (momo@verdance.co)
 
 ## Jump to
-* [Context](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/disability/526ez/analytics/Access%20Analytics%20Sources.md#context)
+* [Context](#Context)
 
-* [Platforms and Data Descriptions](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/disability/526ez/analytics/Access%20Analytics%20Sources.md#platforms-and-data-descriptions)
+* [Platforms and Data Descriptions](#Platforms-and-Data-Descriptions)
+  
+* [Domo](#Domo)
 
-* [Domo](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/disability/526ez/analytics/Access%20Analytics%20Sources.md#domo)
+* [Google Analytics (GA4)](#Google-Analytics)
 
-* [Google Analytics (GA4)](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/disability/526ez/analytics/Access%20Analytics%20Sources.md#google-analytics) 
+* [MyVA411](#MyVA411)
 
-* [MyVA411](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/disability/526ez/analytics/Access%20Analytics%20Sources.md#myva411)
+* [Medallia](#Medallia)
 
-* [Medallia](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/disability/526ez/analytics/Access%20Analytics%20Sources.md#medallia)
-
-* [Datadog](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/disability/526ez/analytics/Access%20Analytics%20Sources.md#datadog)
+* [Datadog](#Datadog)
 
 
 ## Context
