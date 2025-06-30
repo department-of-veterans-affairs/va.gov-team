@@ -83,7 +83,7 @@ To get this view:
 
 - Select “VA.gov Forms KPIs” in the left navigation.
 
-![Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/analytics/platform_images/Domo%201.png?raw=true)
+![Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/analytics/platform_images/Domo%201.png)
 
 ### MyVA411 Contact Center Data 
 
@@ -97,7 +97,7 @@ To get this view:
 
 - Select “Contact Center” in the left navigation > “Salesforce Issues MVP”
 
-![Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/analytics/platform_images/Domo%202.png)
+![Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/analytics/platform_images/Domo%202%20Contact%20Center.png)
 
 
 ### Medallia Intercept Survey and Feedback Survey Data 
@@ -112,7 +112,7 @@ To get this view:
 
 - Select “Contact Center” in the left navigation > “Medallia Report”
 
-![Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/analytics/platform_images/Domo%203.png)
+![Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/analytics/platform_images/Domo%203%20Medallia.png)
 
 
 ## CSAT (Customer Satisfaction) Score Dashboard
@@ -127,7 +127,7 @@ To get this view:
 
 - Select “CSAT Score Dashboard” in the left navigation.
 
-![Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/analytics/platform_images/Domo%204.png)
+![Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/analytics/platform_images/Domo%204%20CSAT.png)
 
 # Google Analytics
 _Slack channel:_ [_#vfs-analytics_](https://dsva.slack.com/archives/C1Q4294JJ)
@@ -136,7 +136,7 @@ _Slack channel:_ [_#vfs-analytics_](https://dsva.slack.com/archives/C1Q4294JJ)
 
 Google Analytics is used to track user behavior on websites. It provides the data that feeds into Domo’s KPI dashboards. While Google Analytics also provides dashboards where you can visualize what is happening with your product, the Platform Analytics team prefers to feed Google Analytics data into Domo for viewing.
 
-![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/analytics/platform_images/GA%201.png)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/analytics/platform_images/Google%20Analytics%20Full.png)
 
 Screenshot of default Google Analytics Dashboard once access to the platform is granted. This provides an overview of all_ [_VA.gov_](http://va.gov) _usage._
 
