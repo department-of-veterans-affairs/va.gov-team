@@ -1,6 +1,6 @@
 # Initiative outline: Retire use of the DS Logon credential at VA
 
-**Last Updated: June 26, 2025 -- Update baseline metrics**
+**Last Updated: June 30, 2025 -- Updated timeline**
      
 ## Table of Contents
 
@@ -49,6 +49,9 @@ VA is now focusing on its effort to deprecate the DS Logon credential at VA afte
 - August 2024: MHV retirement work is moving along, which will likely effect DSL metrics. However, we are not otherwise focusing on DSL retirement beyond monthly meetings at this point.
 - September 2024 - January 2025: MHV transition in full swing; we saw a decrease in DS Logon usage and people who have DS Logon but don't have ID.me or Login.gov because of the MHV user ID and password portion of the sign-in transition. Technical converstions around interoperability have progressed.
 - March 2025: MHV user ID and password sign-in transition concludes; Focus changes to DS Logon at VA retirement and delegate access.
+- April 2025: Continuing conversations around how to maintain a shared credential with DoD; Comms planning.
+- May 2025: Initial comms blast went out; exploration of cost differential for federated option.
+- June 2025: Philippines webinar to help users sign up for ID.me; Charles confirmed we should pursue federated option for DoD.
 
 ## Analytics
 
