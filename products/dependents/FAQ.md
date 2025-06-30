@@ -28,9 +28,17 @@
 <details>
 <summary>Why are there questions about pension income in the VA.gov 686c form that are not on the pdf?</summary>
 
-  - The pension line of business requested that VA.gov add two pension-related income questions to the online form flow, so that RBPS can auto-process some 686c claims that impact pension. A complete outline of the questions and functionality can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/pension_income_questions.md).
+  - The pension line of business requested that VA.gov add two pension-related income questions to the online form flow, so that RBPS can auto-process some 686c claims that impact pension. A complete outline of the questions and functionality can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/pension_income_questions.md). Note that the net income limit changes every year and is typically finalized in October and needs to be updated on VA.gov by the end of November each year.
 
   Source: Jennifer Feuer
+</details>
+
+<details>
+<summary>What is the EP code for dependency claims?</summary>
+
+  - All dependency claims that come into the VBA are assigned an [end product](https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000036570/Appendix-C-Index-of-Claim-Labels) (EP) of 130 (EP130).
+
+  Source: Brandi Traylor (email) 8/11/23
 </details>
 
 
@@ -160,4 +168,17 @@
   - The VA requires Veterans to officially verify all the dependents on their benefits every 8 years, however, the VA would prefer that Veterans review their dependents at least once a year to ensure the dependents listed on their benefits are still accurate. The VA currently mails out [a letter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/dependency_verification/Batch%20Dependency%20Verification%20Letter_Redacted.pdf) to Veterans every 8 years that lists all the dependents currently on their disability benefits. The letter asks the Veteran to confirm the dependents listed are correct and a copy of the 21-0538 form is included with the letter.
 
   Source: Kevin Schneider 2024
+</details>
+
+<details>
+<summary>What dependency changes most often lead to overpayments?</summary>
+  
+  - Divorce/death of spouse and removal of step children. Essentially any change to dependent status. More complicated cases involve other claim adjustments during the time period: retired pay, drill pay, increase or reduction in rate, multiple school children (adds multiple adjustments), pension adjustment related to income, removal of child receiving Dependents Education Assistance (DEA).
+  - According to OIT’s Benefits Integration Services (BIS) Team, who run the Rules-Based Processing System (RBPS), the three most common dependency changes leading to overpayments are:
+     - Veteran not removing spouse after divorce/death. This happens a lot, when they come in to add the new spouse, they realize they never removed old spouse
+     - Removal of child or child stopped attending school
+     - Veteran not removing spouse after divorce/death. This happens a lot, when they come in to add the new spouse, they realize they never removed old spouse
+     - Also for removal of child or child stopped attending school. (VA.gov currently sets to manual because awaiting VA.gov changes for form changes that RBPS is ready for)
+
+  Source: Brandi Traylor (email) 10/10/23
 </details>
