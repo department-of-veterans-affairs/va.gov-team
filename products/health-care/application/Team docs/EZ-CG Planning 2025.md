@@ -1,6 +1,42 @@
 # 2025 Sprint Planning for EZ-CG Team
 - Current Sprint first
 
+## 📆 Sprint 24 (July 2 - July 15)
+
+### 10-10EZ
+
+#### Obj: EZ [CYOA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103253)
+- [#111601](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111601) - [Research] Task List A/B submit & study maintenance
+
+#### Obj: EZ [Multi-form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103260)
+- [#111103](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111103) - [BE] Tech exploration of BDS API
+
+#### Obj: EZ [Improvements/BUGS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
+- [#103446](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103446) - [BE] In-progress Notification failures investigation (CARRIED)
+- [#94276](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94276) - [BE] Ceanup of checkbox for minimum essential coverage on Facility screen
+
+#### Obj: EZ [Form Statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95313)
+- PM working on this - In progress 
+
+## 
+### 10-10CG
+
+#### Obj: CG [Improvements/BUGs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40165)
+- [#99053](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99053) - [FE] va-statement-of-truth web component
+- [#102073](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102073) - [FE] Update signature page
+- [#111870](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111870) - [FE] Update content on Caregivers' contact info pages
+
+##
+### Team PTO
+- **Holiday**: Independence Day, July 4th
+- Liza: 6/30-7/3
+- Alex: 7/2-3
+- Luis: 7/3
+- Jessica: 7/3-7
+- Mitch: 7/8-10
+- Josh: 7/8-15
+
+----
 ## 📆 Sprint 23 (June 18 - July 1)
 
 ### 10-10EZ
