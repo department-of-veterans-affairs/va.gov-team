@@ -79,6 +79,16 @@
   Source: Linda Ciston, 2024
 </details>
 
+<details>
+<summary>Should ssn and file numbers be the same?</summary>
+
+  - In most cases, they will match, however, there are a few exceptions:
+     - There are four or five variations of what a file number might be, and only one variation would match SSN. Depends on the age of the Veteran and when they served. This is less and less relevant, it was mostly before the Vietnam era that the numbers deviated.
+     - MPI includes file number, SSN, EDIPI, PID...tries to associate all of these to the Veteran. For older Veterans, the numbers may be different. There’s an effort to clean up the MPI, millions of records aren’t associated with the correct file number or SSN and it's common to run into problems with mismatches.
+
+  Source: [Discussion with SMEs and Julie Strothman on 9/5/23](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64138#issuecomment-1707241515)
+</details>
+
 ## APIs
 <details>
 <summary>What is the API that pulls in list of active and inactive dependents on the "View My Dependents" Page</summary>
