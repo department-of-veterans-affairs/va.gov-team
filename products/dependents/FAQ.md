@@ -4,9 +4,9 @@
 <details>
 <summary>What benefits do the 21-686c, 21-674, and 0538 impact?</summary>
 
-- 21-686c: Disability, pension, or DIC benefits
-- 21-674: Disability, pension, or DIC benefits
-- 21-0538: Disability only (David Reis on 6/23/25)
+- 21-686c: Disability, pension, and DIC benefits
+- 21-674: Disability, pension, and DIC benefits
+- 21-0538: Disability benefits only (David Reis on 6/23/25)
 </details>
 
 <details>
