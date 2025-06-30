@@ -1,4 +1,4 @@
-# How-To: Access Analytics Sources 
+ƒ# How-To: Access Analytics Sources 
 
 **Office of the CTO - Digital Experience, 526EZ, Disability Benefits Experience HCD**
 
@@ -221,7 +221,11 @@ When you request MyVA411 data, you will need to fill out a [Quantitative Data Re
 
 * In the “Survey URL(s), key term(s), case category or type” section use the [Case Categorization chart](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsp/teams/contact-center/va411-categorizarion.md) (Github) to describe what  _Past data request examples:_* User Experience of the Toxic Exposure section ([#93379](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93379))
 
-* User Experience of the 0781 Form ([#111243](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111243))_Some tips:_* There is no way to request data specifically about the paper vs. digital form. You can sometimes infer this information from the case notes.
+* User Experience of the 0781 Form ([#111243](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111243))
+
+_Some tips:_
+
+* There is no way to request data specifically about the paper vs. digital form. You can sometimes infer this information from the case notes.
 
 ## Requesting the data
 
