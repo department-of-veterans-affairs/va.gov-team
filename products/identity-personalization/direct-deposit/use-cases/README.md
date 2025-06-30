@@ -199,6 +199,9 @@ Or you can contact a regional office near you to come in for help in person. [
 
 - **Use case:** User edits their Bank account information, a call is made to check for routing number fraud, and returns the alert. Alert appears above input fields in Bank account information edit use case.
 - **Status code:** TBD
+- **Format:** [Error alert component](https://design.va.gov/components/alert/#error-alert)
+- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2424-3919&t=eM3nXOqLcnsRrXAu-1)
+- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blame/8bb9e606cbe6ac0d17598e748a550218b5bf3f2f/src/applications/personalization/profile/components/direct-deposit/alerts/UpdateErrorAlert.jsx#L37)
 - **Content:**
 
 H2: We couldn't update your direct deposit information
@@ -208,10 +211,6 @@ We’re sorry. The bank routing number you entered requires additional verificat
 You can also update this information by mail or in person at a VA regional office.
 
 [Learn how to update your direct deposit bank information.](https://www.va.gov/change-direct-deposit/)
-
-- **Format:** [Error alert component](https://design.va.gov/components/alert/#error-alert)
-- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2384-7878&t=BL6lzEhD4KknMHDG-1)
-- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blame/8bb9e606cbe6ac0d17598e748a550218b5bf3f2f/src/applications/personalization/profile/components/direct-deposit/alerts/UpdateErrorAlert.jsx#L37)
 
 </details>
 
@@ -226,15 +225,14 @@ You can also update this information by mail or in person at a VA regional offic
    - PUT **401** Unauthenticated user
    - PUT **403** Forbidden user
    - PUT **502** Bad gateway, API not receiving answer from back end server
+- **Format:** [Error alert component](https://design.va.gov/components/alert/#error-alert)
+- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2424-3905&t=eM3nXOqLcnsRrXAu-1)
+- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blame/8bb9e606cbe6ac0d17598e748a550218b5bf3f2f/src/applications/personalization/profile/components/direct-deposit/alerts/UpdateErrorAlert.jsx#L81)
 - **Content:**
 
 H2: We couldn't update your direct deposit information
 
 We’re sorry. We couldn’t update your payment information. Please try again later.
-
-- **Format:** [Error alert component](https://design.va.gov/components/alert/#error-alert)
-- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2324-22985&t=LjjeJObYt6wPn3uz-1)
-- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blame/8bb9e606cbe6ac0d17598e748a550218b5bf3f2f/src/applications/personalization/profile/components/direct-deposit/alerts/UpdateErrorAlert.jsx#L81)
 
 </details>
 
@@ -247,15 +245,14 @@ We’re sorry. We couldn’t update your payment information. Please try again l
    - GET **403** Forbidden user
    - GET **502** Bad gateway, API not receiving answer from back end server
    - GET **503** Service unavailable
+- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert) replaced Bank information widget. Widget does not show.
+- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2424-3902&t=eM3nXOqLcnsRrXAu-1)
+- [Link to code]
 - **Content:**
 
 H2: This page isn't available right now.
 
 We're sorry. Something went wrong on our end. Refresh this page or try again later.
-
-- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert) replaced Bank information widget. Widget does not show.
-- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2324-23090&t=LjjeJObYt6wPn3uz-1)
-- [Link to code]
 
 </details>
  
