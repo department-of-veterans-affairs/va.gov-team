@@ -75,4 +75,5 @@ This initiative is structured under the **Identity Fraud Discovery & Strategy Ba
 - `Risk Appetite & Usability Tradeoffs`
 
 **Track work in GitHub**: _[link]_ _to be added_ 
+
 **Point of contact**: Joelle Wells or Joe Niquette
