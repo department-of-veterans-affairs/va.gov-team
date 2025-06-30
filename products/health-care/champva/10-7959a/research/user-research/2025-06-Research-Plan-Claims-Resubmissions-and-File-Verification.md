@@ -140,7 +140,7 @@ Our intended audience for this study is Veterans with high disability ratings an
   
 * **Cohort 2 (n = 8 minimum):** Spouses and dependent children of Veterans with a 100% service connected disability rating, who are currently enrolled in CHAMPVA benefits
 
-* **Cohort 3 (n = 3 minimum):** Veterans with a service connected disability rating with a spouse and/or dependent children who are 
+* **Cohort 3 (n = 2 minimum):** Veterans with a service connected disability rating with a spouse and/or dependent children who may or may not be enrolled in CHAMPVA benefits
 
 ### Recruitment criteria
 **All participants must:**
@@ -152,10 +152,9 @@ Our intended audience for this study is Veterans with high disability ratings an
 **Cohort 1 must:**
 - Be a Veteran with a service-connected disability rating of 100%
 - Have a spouse and/or dependent children
-- Spouse/children do 
-- Recruit 4 assistive tech users - **at least 2 AT user sessions** are needed for this study to be complete
+- Spouse/children are _currently_ enrolled in CHAMPVA benefits
 
-**Screener Cohort 1 (Veterans with 100% service connected disability whose spouse/dependents may or may not be enrolled in CHAMPVA benefits):**
+**Screener Cohort 1 (Veterans with 100% service connected disability whose spouse/dependents are enrolled in CHAMPVA benefits):**
 1. Do you get a VA disability compensation for a service-connected disability rating of 100%?
 _Response otions: YES or NO_
 * Yes [jump to next question]
@@ -172,18 +171,6 @@ _Response options: YES, NO, UNSURE_
 * No (disqualify)
 * Unsure (Qualifies for study, RECORD as unsure if enrolled in CHAMPVA)
 
-4. Do you need a screen reader or screen magnifier **every time** you use the Internet? We ask this question because we want to make sure that our website works for people who rely on these types of technologies
-_Response options: YES or NO_
-* Yes [Recruit **at least 2**, proceed to next question]
-* No [Recruit **at least 10**, end of screener questions]
-
-5. [If yes to Q4] Please list the name of the screen reader or screen magnifier technology you will use during the session
-_Response: free text field_ (If user mentions a browser extension such as Real Aloud, this disqualifies them from being recruited as a screen reader user. 
-
-6. Are you willing to join the zoom session using this assistive technology?
-_Response options: YES or NO_
-* Yes [Recruit **at least 2**, proceed to next question]
-* No [Disqualified]
   
 **Cohort 2 must:**
 - Identify as a spouse or dependent child of a Veteran with a service-connected disability rating of 100%
@@ -202,19 +189,55 @@ _Response options: YES, NO, UNSURE_
 * No (disqualify)
 * Unsure (Qualifies for study, RECORD as unsure if enrolled in CHAMPVA)
 
+**Cohort 3 must:**
+- Be a Veteran with a service-connected disability 
+- Have a spouse and/or dependent children
+- Spouse/children _do not_ need to be enrolled in CHAMPVA benefits, but preferred
+- Recruit 4 assistive tech users - **at least 2 AT user sessions** are needed for this study to be complete
+
+**Screener Cohort 1 (Veterans with 100% service connected disability whose spouse/dependents may or may not be enrolled in CHAMPVA benefits):**
+1. Do you get a VA disability compensation for a service-connected disability rating of 100%?
+_Response otions: YES or NO_
+* Yes [jump to next question]
+* No [disqualify]
+
+2. Do you have a spouse or dependent children?
+_Response options: YES or NO_
+* Yes [jump to next question]
+* No [disqualify]
+
+3. Is your spouse and/or dependents enrolled in the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA)?
+_Response options: YES, NO, UNSURE_
+* Yes (Qualifies for study, RECORD as enrolled in CHAMPVA)
+* No (Qualifies for study, RECORD as not enrolled in CHAMPVA)
+* Unsure (Qualifies for study, RECORD as unsure if enrolled in CHAMPVA)
+
+4. Do you need a screen reader or screen magnifier **every time** you use the Internet? We ask this question because we want to make sure that our website works for people who rely on these types of technologies
+_Response options: YES or NO_
+* Yes [Recruit **at least 2**, proceed to next question]
+* No [Disqualified]
+
+5. [If yes to Q4] Please list the name of the screen reader or screen magnifier technology you will use during the session
+_Response: free text field_ (If user mentions a browser extension such as Real Aloud, this disqualifies them from being recruited as a screen reader user. 
+
+6. Are you willing to join the zoom session using this assistive technology?
+_Response options: YES or NO_
+* Yes [Recruit **at least 2**, proceed to next question]
+* No [Disqualified]
+
 ### List the ideal completed sessions and total number and type (Veterans, caregivers, etc.) of participants for this study:
 
-- `Veterans:` **10**
-- `Spouses and dependent chilren:` **3-5**
-- `AT users (can be: Veterans and spouses/dependent children:` **2-5**
+- `Veterans:` **6-8**
+- `Spouses and dependent chilren:` **6-8**
+- `AT users (can be: Veterans and spouses/dependent children:` **2-4**
 - `Total:` **20**
-- `Ideal completed sessions:` **15**
+- `Ideal completed sessions:` **14**
 
 ### Primary criteria (must-haves)
-- `1 must use a screen reader or screen magnifier every time they access the internet`
+- `2 must use a screen reader or screen magnifier every time they access the internet`
 - `At least 4 must be primarily mobile users and willing to use it for the session`
-- `At least 4 must be users on desktop/laptop devices and willing to use it for the session`
-- `8 must NOT use assistive technology`
+- `At least 2 must be users on desktop/laptop devices and willing to use it for the session`
+- `At least 8 must NOT use assistive technology`
 
 #### Secondary criteria (nice-to-haves)
 - `7 must be aged 55-64+`
@@ -228,6 +251,7 @@ _Response options: YES, NO, UNSURE_
 
 ### Optional Kick-off Call with Perigean
 We would like a kick-off call with Perigean to discuss recruitment criteria. Suggested dates and times: 
+- `Monday - Friday 9:30am-12:00pm ET and 1:00pm-4:30pm ET`
 
 - 
 
@@ -261,11 +285,11 @@ We would like to have an AT user pilot, and 2 non-AT user pilot (1 screen reader
 
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
-- `Moderator:` 
+- `Moderator:` Renata Keck and Rachel Pope
 - `Research guide writing and task development:` Rachel Pope	
 - `Participant recruiting & screening:`	Perigean	
 - `Project point of contact:` Renata Keck, Jamie Fiore, Rachel Pope
-- `Accessibility specialist (for sessions where support for assistive technology may be needed):` **Cindy Merrill** associated ADE ticket [(#110909)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110909)	
+- `Accessibility specialist (for sessions where support for assistive technology may be needed):` TBD (will link to ADE intake ticket when opened)
 - `Note-takers:` Renata Keck, Jamie Fiore, and Rachel Pope
 - `Observers:` Will need to sign up so we can limit the number per session. Renata will add them to the session invites received from Perigean.
 
