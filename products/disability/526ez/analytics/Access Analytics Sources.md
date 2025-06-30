@@ -7,6 +7,22 @@ Date: June 27, 2025
 
 Irene Vailikit (irene.vailikit@aquia.io), Momo Miyazaki (momo@verdance.co)
 
+## Jump to
+* [Context](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/disability/526ez/analytics/Access%20Analytics%20Sources.md#context)
+
+* [Platforms and Data Descriptions](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/disability/526ez/analytics/Access%20Analytics%20Sources.md#platforms-and-data-descriptions)
+
+* [Domo](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/disability/526ez/analytics/Access%20Analytics%20Sources.md#domo)
+
+* [Google Analytics (GA4)](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/disability/526ez/analytics/Access%20Analytics%20Sources.md#google-analytics) 
+
+* [MyVA411](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/disability/526ez/analytics/Access%20Analytics%20Sources.md#myva411)
+
+* [Medallia](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/disability/526ez/analytics/Access%20Analytics%20Sources.md#medallia)
+
+* [Datadog](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/disability/526ez/analytics/Access%20Analytics%20Sources.md#datadog)
+
+
 ## Context
 
 The following document details how to access analytics platforms and data sources used by VA benefits portfolio to monitor products.This document was compiled by UX researchers on the Disability Benefits Crew in June 2025 to support the [UX monitoring of the 0781 Mental Health Form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110224) within the 21-526EZ product.
