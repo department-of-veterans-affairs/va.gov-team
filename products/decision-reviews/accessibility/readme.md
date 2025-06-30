@@ -4,6 +4,10 @@ This documentation covers accessibility-related efforts for Decision Reviews.
 
 The [Benefits Management Tools and Decision Reviews Accessibility Work project board](https://github.com/orgs/department-of-veterans-affairs/projects/1255/views/1) contains tickets from team backlogs and the active accessibility work by the embedded accessibility specialist.
 
+## Requesting Accessibility Support
+
+If you are a team member looking for accessibility support, please submit a ticket using the [A11y Support Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/accessibility/a11y-support-template.md)
+
 ## Open A11y Issues Quick Links
 - [Notice of Disagreement](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue%20is%3Aopen%20label%3Aaccessibility%20label%3ANOD)
 - [Supplemental Claims](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue%20is%3Aopen%20label%3Aaccessibility%20label%3ASC)
