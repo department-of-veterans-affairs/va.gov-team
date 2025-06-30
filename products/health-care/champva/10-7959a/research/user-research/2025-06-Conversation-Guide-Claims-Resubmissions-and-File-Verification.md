@@ -271,6 +271,10 @@ For this task, I’m going to ask you to stop screen sharing for a moment. I wil
  - Why do you think you’re being sent this letter?
  - What would you need to do to resolve it?
 
+#### Participant rating
+ - On a scale of 1-5 (with 1 being poorly and 5 being very well) - how well does this letter **explain** what you need to do in order to resolve the problem with your CHAMPVA claim?
+ -  - On a scale of 1-5 (with 1 being poorly and 5 being very well) - how **prepared** do you feel to a claim based on this page's content? Why did you give it that rating?
+
 > Things to watch for:
 >  - [Does the participant think they need to call CHAMPVA for more information?]
 >  - [What steps does the participant think they need to take with doctor's office/their insurance provider to resolve the issues in the send back letter?]
