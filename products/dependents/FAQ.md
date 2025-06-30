@@ -30,6 +30,12 @@
   Source: Jennifer Feuer
 </details>
 
+<details>
+<summary>Can a Veteran receive DIC and pension or disability at the same time?</summary>
+Yes, a Veteran can receive both DIC and pension or disability (but not both pension and disability).
+
+  Source: David Reis (SME call) 6/30/25
+</details>
 
 ## Claim Processing
 <details>
