@@ -5,11 +5,21 @@
 
 ### 10-10EZR
 
-#### Obj: 
+#### Obj: PDF Download 
+- [BE] 10-10EZR - Print/save PDF: Map remaining fields and generate PDF	https://github.com/department-of-veterans-affairs/va.gov-team/issues/109897
+- [BE] 10-10EZR - Print/save PDF: Map additional Dependents fields on overflow page	https://github.com/department-of-veterans-affairs/va.gov-team/issues/109899
+- [BE] 10-10EZR - Print/save PDF: Map additional Dependents Income fields on overflow page	https://github.com/department-of-veterans-affairs/va.gov-team/issues/109900
+- [BE] 10-10EZR - Print/save PDF: Map additional Insurance fields on overflow page	https://github.com/department-of-veterans-affairs/va.gov-team/issues/109901
+- [FE] 10-10EZR - Print/save PDF: Update UI to include link/button to print/save the filled form	https://github.com/department-of-veterans-affairs/va.gov-team/issues/109904
+- [QA] 10-10EZR - Print/save PDF: Complete testing to validate proper PDF generation	https://github.com/department-of-veterans-affairs/va.gov-team/issues/109905
+#### Obj: V2 Household Section
+- [QA] 10-10EZR:  V2 Confirmation Flow: House Section: Dependent	https://github.com/department-of-veterans-affairs/va.gov-team/issues/111143
+- [Research] 10-10EZR : V2 Confirmation Flow - Data Synthesis	https://github.com/department-of-veterans-affairs/va.gov-team/issues/112223
+- [Research] 10-10EZR : V2 Confirmation Flow - Draft Summary of Findings	https://github.com/department-of-veterans-affairs/va.gov-team/issues/112224
+- [FE] 10-10EZR: Prefill Spouse Information V2	https://github.com/department-of-veterans-affairs/va.gov-team/issues/112998
 
-#### Obj: 
-
-#### Obj: 
+#### Stretch: 
+- 
 
 ##
 ### Team PTO
