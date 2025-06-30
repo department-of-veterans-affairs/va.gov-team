@@ -152,7 +152,8 @@ Our intended audience for this study is Veterans with high disability ratings an
 **Cohort 1 must:**
 - Be a Veteran with a service-connected disability rating of 100%
 - Have a spouse and/or dependent children
-- Spouse/children are _currently_ enrolled in CHAMPVA benefits
+- **At least 4** spouse/children are _currently_ enrolled in CHAMPVA benefits (remainder can be unsure or not currently enrolled)
+- **At least 1** identifies as having a cognitive disability
 
 **Screener Cohort 1 (Veterans with 100% service connected disability whose spouse/dependents are enrolled in CHAMPVA benefits):**
 1. Do you get a VA disability compensation for a service-connected disability rating of 100%?
@@ -167,14 +168,18 @@ _Response options: YES or NO_
 
 3. Is your spouse and/or dependents enrolled in the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA)?
 _Response options: YES, NO, UNSURE_
-* Yes (Qualifies for study, RECORD as enrolled in CHAMPVA)
-* No (disqualify)
+* Yes (Qualifies for study, recruit **at least 4**, RECORD as enrolled in CHAMPVA)
+* No (Qualifies for study, RECORD as not enrolled in CHAMPVA)
 * Unsure (Qualifies for study, RECORD as unsure if enrolled in CHAMPVA)
 
+4. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.
+_Response options: YES, NO_
+* Yes (Qualifies for study, recruit **at least 1**, RECORD response)
+* No (Qualifies for study, RECORD response)
   
 **Cohort 2 must:**
 - Identify as a spouse or dependent child of a Veteran with a service-connected disability rating of 100%
-- We'd like to hear from both spouses/children who are currently enrolled in Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA) as well as those who are **not** currently enrolled
+- We'd like to hear from **at least 4** spouses/children who are currently enrolled in Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA), the remainder can be not currently enrolled
 
 **Screener Cohort 2 (Spouses and dependent children of Veterans with a 100% service connected disability):**
 1. Please select the answer that best fits you:
@@ -185,8 +190,8 @@ _Response options: YES, NO (Answering YES would qualify the participant)_
 
 3. Are you enrolled in the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA)?
 _Response options: YES, NO, UNSURE_
-* Yes (Qualifies for study, RECORD as enrolled in CHAMPVA)
-* No (disqualify)
+* Yes (Qualifies for study, recruit **at least 4**, RECORD as enrolled in CHAMPVA)
+* No (Qualifies, RECORD as not enrolled in CHAMPVA)
 * Unsure (Qualifies for study, RECORD as unsure if enrolled in CHAMPVA)
 
 **Cohort 3 must:**
@@ -195,8 +200,8 @@ _Response options: YES, NO, UNSURE_
 - Spouse/children _do not_ need to be enrolled in CHAMPVA benefits, but preferred
 - Recruit 4 assistive tech users - **at least 2 AT user sessions** are needed for this study to be complete
 
-**Screener Cohort 1 (Veterans with 100% service connected disability whose spouse/dependents may or may not be enrolled in CHAMPVA benefits):**
-1. Do you get a VA disability compensation for a service-connected disability rating of 100%?
+**Screener Cohort 3 (Veterans with a service connected disability whose spouse/dependents may or may not be enrolled in CHAMPVA benefits):**
+1. Do you get a VA disability compensation for a service-connected disability rating of 50% or higher?
 _Response otions: YES or NO_
 * Yes [jump to next question]
 * No [disqualify]
@@ -234,7 +239,8 @@ _Response options: YES or NO_
 - `Ideal completed sessions:` **14**
 
 ### Primary criteria (must-haves)
-- `2 must use a screen reader or screen magnifier every time they access the internet`
+- `At least 2 must use a screen reader or screen magnifier every time they access the internet`
+- `1 must have a cognitive disability`
 - `At least 4 must be primarily mobile users and willing to use it for the session`
 - `At least 2 must be users on desktop/laptop devices and willing to use it for the session`
 - `At least 8 must NOT use assistive technology`
@@ -253,8 +259,6 @@ _Response options: YES or NO_
 We would like a kick-off call with Perigean to discuss recruitment criteria. Suggested dates and times: 
 - `Monday - Friday 9:30am-12:00pm ET and 1:00pm-4:30pm ET`
 
-- 
-
 ### Prepare
 **A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.** 
 > [!NOTE]
@@ -263,15 +267,15 @@ We would like a kick-off call with Perigean to discuss recruitment criteria. Sug
 We would like to have an AT user pilot, and 2 non-AT user pilot (1 screen reader, 1 screen magnifier)
 
 **Non-AT user pilot (1)**
-- `Pilot participant name:` 
-- `Date and time of pilot session:` 
+- `Pilot participant name:` TBD
+- `Date and time of pilot session:` TBD
 
 **AT user pilots (2)**
 - `Pilot participant name:` TBD
 - `Date and time of pilot session:` 
 
 ### Research sessions
-- `Planned dates of research:` **TBD**
+- `Planned dates of research:` **Monday, July 28 - Tuesday, August 12**
 
 ### Length of sessions
 - `Session length:` 60 minutes for non-AT users, 90 minutes for AT users
@@ -281,7 +285,7 @@ We would like to have an AT user pilot, and 2 non-AT user pilot (1 screen reader
 - `Maximum Sessions per day:` 4 per day
 
 ### Availability
-> - `Monday - Friday 9:30am-12:00pm ET and 1:00pm-4:30pm ET`
+> - `Monday - Friday 9:00am-5:00pm ET`
 
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
