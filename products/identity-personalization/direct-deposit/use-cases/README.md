@@ -1,4 +1,4 @@
-# Direct Deposit Use Cases
+# Direct deposit use cases
 
 **Last updated: June 2025**
 
