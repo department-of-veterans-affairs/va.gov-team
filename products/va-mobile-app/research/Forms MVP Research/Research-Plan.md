@@ -34,7 +34,7 @@ Additionally, the research aims to uncover the following:
 1. Understand if Veterans can find and interact with forms from the app.
 2. Identify if Veterans can fill out a form from the app on their own.
 3. Identify any usability issues Veterans may experience when interacting with forms on the mobile app.
-4. Identify if Veterans can complete a form that has already been started from within the mobile app.
+4. Identify if Veterans can start a form and come back to it at a later time to complete.
 
   
 ### Outcome
@@ -43,41 +43,54 @@ The results of the study will help us determine if Veterans are able to fill out
 
 ### Research questions
 **Research goal #1: Understand if Veterans can find and interact with forms from the app.**
+
 1. How easily can Veterans locate the forms section within the mobile app?
 2. What steps do Veterans take to start a new form from within the app?
 3. Are there any points of confusion or difficulty when Veterans attempt to find forms?
 
 **Research goal #2: Identify if Veterans can fill out a form from the app on their own.**
+
 4. Can Veterans independently complete all required fields in a form using the mobile app?
 5. Do Veterans understand the instructions and language used in the forms?
 6. How do Veterans interpret the status of the form once the form is submitted?
 
 **Research goal #3: Identify any usability issues Veterans may experience when interacting with forms on the mobile app.**
+
 7. What challenges, if any, do Veterans encounter while entering information into the forms?
 8. What, if any, technical or design barriers prevent Veterans from successfully interacting with forms?
 9. How do Veterans feel about the overall experience of using forms in the mobile app?
 
 **Research goal #4: Identify if Veterans can start a form and come back to it at a later time to complete.**
+
 10. Can Veterans locate and resume a form they previously started in the mobile app?
 11. Do Veterans encounter any challenges or confusion when attempting to access and complete a saved or in-progress form?
 12. What steps do Veterans take to find and finish a form they started earlier?
 13. Are there any barriers that prevent Veterans from successfully submitting a previously started form through the app?
 
 ### Hypotheses
+
 **Research goal #1: Understand if Veterans can find and interact with forms from the app.**
+
 1. Veterans will be able to easily locate the forms section within the mobile app without extensive guidance.
 2. Veterans will be able to follow the intended navigation steps to start a new form from within the app.
 3. Some Veterans may experience confusion or difficulty due to unclear labeling or navigation options related to forms.
 
 **Research goal #2: Identify if Veterans can fill out a form from the app on their own.**
+
 4. Most Veterans will be able to independently complete all required fields in a form using the mobile app.
 5. The instructions and language used in the forms will be clear and understandable to Veterans.
 6. Some Veterans may experience confusion interpretting the status of the form after submission.
 
 **Research goal #3: Identify any usability issues Veterans may experience when interacting with forms on the mobile app.**
+
 7. Veterans may encounter difficulty entering information into forms from their mobile device.
 8. Technical or design barriers, such as small touch targets or required page scrolling, may add additional frustration for Veterans when completing forms from a mobile device.
 9. Veterans will have mixed feelings about the overall experience, with some expressing frustration regarding usability issues and others finding the process straightforward.
+
+**Research goal #4: Identify if Veterans can start a form and come back to it at a later time to complete.**
+
+10. Veterans will be able to locate and resume a form they previously started within the mobile app.
+11. Barriers such as difficulty finding saved forms or unclear resumption instructions will prevent some Veterans from successfully submitting a previously started form.
   
 ## Methodology  🛠️
 
