@@ -25,8 +25,12 @@ Veteran ID Card: No major accessibility audit.
 - 6/2025 Claims Status Tool - [Document Status](https://www.figma.com/design/m1Xt8XjVDjZIbliCYcCKpE/Document-status?node-id=6662-41987&t=OlBlRnkodlQnDvGZ-0)
 
 ## Accessibility 101 Trainings
+Previous:
 - 6/26/2025 A11y 101: Screenreaders part 1 video & slides
   - 40 minute session on screenreader basics. Led by @bacitracin
+ 
+Upcoming:
+- 7/16/2025 A11y 101: Keyboard Navigation
 
 ## Resources
 
