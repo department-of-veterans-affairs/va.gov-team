@@ -1,12 +1,12 @@
 # Core Framing & Strategy
 
-Identity-related fraud appears to be falling through the cracks between CSP-level authentication and verification, benefit-level financial fraud (BDPR), and possibly health privacy-related misuse. **Authentication is often the gateway for broader fraud**, which puts our team in a position to detect and surface risks earlier.
+Digital access fraud ( where someone gains unauthorized entry into a system)  appears to be falling through the cracks between CSP-level authentication and verification, benefit-level financial fraud (BDPR), and potential health privacy misuse. **Authentication is often the gateway for broader fraud**, which puts our team in a position to detect and surface risks earlier.
 
-Recent findings (link to the doc from Login.gov) from BDPR suggest coordinated fraud using CSPs (especially Login.gov), leading to suspicious account creation patterns. BDPR has limited visibility into what happens before accounts hit the benefit space, and we may be positioned to help fill that gap. As the identity broker for [VA.gov](http://VA.gov), we’re in a unique position to spot early patterns, help define detection & response strategies, and prevent escalation without creating new barriers for legitimate users.
+Recent findings (add link) from BDPR suggest coordinated fraud using CSPs, leading to suspicious patterns. BDPR has limited visibility into what happens before accounts hit the benefit space and we may be positioned to help fill that gap. As the identity broker for [VA.gov](http://VA.gov), we’re in a position to spot early patterns, help define detection & response strategies, and prevent escalation without creating new barriers for legitimate users. We believe our team's unique value may lie in early detection of digital access fraud, which helps prevent escalation into financial or privacy-related harm.
 
 ### About this strategy
 
-This initiative focuses on improving protections against identity-related fraud across 3 core pillars:
+This initiative focuses on improving protections against digital access fraud across 3 core pillars:
 
 1. **Prevention** – How do we stop fraud before it starts?  
 2. **Detection** – How do we spot identity misuse or suspicious activity in time?  
@@ -24,17 +24,16 @@ Our initial focus is on detection, but discovery efforts across ***all three are
 
 To focus our work, we’ve outlined four discovery buckets:
 
-* *Landscape & metrics* – What is the identity fraud picture across VA systems today?  
+* *Landscape & metrics* – What is the fraud picture across VA systems today, when it comes to identity?  
 * *Stakeholder roles & ownership* – Who detects fraud? Who responds to it? What workflows already exist?  
 * *Signals & data review* – What system behaviors, identity flows, or … might indicate fraud, misuse, or user confusion?  
 * *Risk tolerance and user impact* – Are protections blocking real users? Where is friction happening? What level of risk is acceptable? Do teams agree on what’s “enough” protection and what counts as overkill? How do we balance access with security?  
 
 ## Core Discovery Questions:
 
-1. What types of identity-related fraud are most prevalent?  
-2. What kinds of fraud are specific to Veterans or VA systems?  
-3. How is identity fraud detected today? Who responds? How?  
-   1. And how does it exist at the cross-agency level?  
+1. Where in the identity flow does digital access fraud most often occur and what does it typically lead to?
+2. Who detects or responds to digital access fraud, how does that work, and where are the gaps? 
+3. What kinds of fraud are specific to Veterans or VA systems?   
 4. How do we protect legit users from being blocked?  
 5. How much fraud is acceptable? And do all stakeholders agree on the risk tradeoffs?  
 6. Do users feel protected? Do they trust our systems?  
@@ -53,7 +52,7 @@ To focus our work, we’ve outlined four discovery buckets:
 
 We’ll know discovery is successful if we:
 
-* Determine whether identity-related fraud exists at meaningful scale and if it’s falling through the cracks  
+* Determine whether digital access fraud exists at meaningful scale and if it’s falling through the cracks  
 * Identify at least one high-risk flow and associated detection or response gap (or confirm coverage\!)  
 * Surface what signals we log today and what’s still missing  
 * Align with our internal and external partners on roles, response thresholds, & ownership boundaries  
@@ -84,12 +83,4 @@ We’ll approach fraud detection work in iterative phases to support learning an
 * If we use BDPR-flagged accounts to train a model we’ll find repeatable signal patterns we could scale.  
 * If we surface anomalies, we’ll find both fraud indicators *and* user friction.  
 * If we document “false fraud” cases and similar, we can avoid over-mitigation.
-
-## Next steps:
-
-1. Use discovery buckets to guide research, partner alignment, and work across the team.  
-2. Collaborate with BDPR (AND other relevant fraud stakeholders, when time comes)  
-3. Proposal for some exploration through starter moves:  
-   1. Could we look at ONE high-risk identity flow and see what signals are logged today that might help us detect fraud?  
-   2. Are there any detection gaps that are exposed with CSP flows?  
-   3. A workshop… We should be asking ourselves and VA: What’s worse…letting a fraudster in or blocking a legit user? And how do we balance it?
+* If we explore fraud controls, we may find that some protections are creating execessive friction or blocking legitimate users, especially in cases like caregives or less tech-savvy Veterans.
