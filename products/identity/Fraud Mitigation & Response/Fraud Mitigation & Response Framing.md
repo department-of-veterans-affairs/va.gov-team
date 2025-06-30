@@ -1,6 +1,6 @@
 # Core Framing & Strategy
 
-Digital access fraud ( where someone gains unauthorized entry into a system)  appears to be falling through the cracks between CSP-level authentication and verification, benefit-level financial fraud (BDPR), and potential health privacy misuse. **Authentication is often the gateway for broader fraud**, which puts our team in a position to detect and surface risks earlier.
+Digital access fraud (where someone gains unauthorized entry into a system)  appears to be falling through the cracks between CSP-level authentication and verification, benefit-level financial fraud (BDPR), and potential health privacy misuse. **Authentication is often the gateway for broader fraud**, which puts our team in a position to detect and surface risks earlier.
 
 Recent findings (add link) from BDPR suggest coordinated fraud using CSPs, leading to suspicious patterns. BDPR has limited visibility into what happens before accounts hit the benefit space and we may be positioned to help fill that gap. As the identity broker for [VA.gov](http://VA.gov), we’re in a position to spot early patterns, help define detection & response strategies, and prevent escalation without creating new barriers for legitimate users. We believe our team's unique value may lie in early detection of digital access fraud, which helps prevent escalation into financial or privacy-related harm.
 
