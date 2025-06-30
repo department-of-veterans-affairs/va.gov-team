@@ -92,7 +92,7 @@
 </details>
 
 <details>
-  <summary>Why is does the 686c ask for the Veteran's and current spouse's previous marriage info?</summary>
+  <summary>Why does the 686c ask for the Veteran's and current spouse's previous marriage history?</summary>
 
   - VETERAN/CLAIMANT'S PREVIOUS MARITAL INFORMATION – All previous marriage information is required by regulation ([38 CFR 3.205](https://www.ecfr.gov/current/title-38/chapter-I/part-3/subpart-A/subject-group-ECFRdc46cfd3b31f77a/section-3.205))
   - CURRENT SPOUSE'S PREVIOUS MARITAL INFORMATION - All previous marriage information is required by regulation ([38 CFR 3.205](https://www.ecfr.gov/current/title-38/chapter-I/part-3/subpart-A/subject-group-ECFRdc46cfd3b31f77a/section-3.205))
