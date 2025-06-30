@@ -58,7 +58,7 @@ Are there moments that matter?</summary>
 
 ### Goals
 
-1. Gauge the usability of the updated initial submission and resubmission flows, as measured by observed task success and self-reported usability measures.
+1. Gauge the usability of the updated initial claim submission and resubmission flows, as measured by observed task success and self-reported usability measures.
 
 2. Confirm users' understanding of the resubmission process as presented in the content of the 10-7959a, their expectations for what will be required and their responsibilities for providing accurate supporting documentation.
 
@@ -72,7 +72,7 @@ We will synthesize the data from this study and create a summary report of our l
 
 ### Research questions
 
-**Goal 1: Gauge the usability of the updated initial submission and resubmission flows, as measured by observed task success and self-reported usability measures.**
+**Goal 1: Gauge the usability of the updated initial claim submission and resubmission flows, as measured by observed task success and self-reported usability measures.**
 1. Are users able to successfully submit an initial claim and resubmit a claim that requires additional documentation?
 2. Do users know where to file a claim resubmission within the digital form?
 3. Do users understand what to do when presented with a claims sendback letter or EOB indicated the claim was denied?
@@ -93,7 +93,7 @@ We will synthesize the data from this study and create a summary report of our l
 
 ---
 
-**Goal 1: Gauge the usability of the updated initial submission and resubmission flows, as measured by observed task success and self-reported usability measures.**
+**Goal 1: Gauge the usability of the updated initial claim submission and resubmission flows, as measured by observed task success and self-reported usability measures.**
  - Users will understand they need to return to the digital form to resubmit a claim.
  - Users will understand that the information required to resubmit the claim can be found in the claim letter.
 
