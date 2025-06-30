@@ -115,7 +115,7 @@ During the usability testing following flows will be observed:
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
 **For moderated usability tests:** 
-- [Link to conversation guide](url goes here)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/Forms%20MVP%20Research/Conversation-guide.md)
 - [Link to prototype](url goes here)
 	
 ## Recruitment 🎯	
