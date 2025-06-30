@@ -3,11 +3,11 @@
 ##### Want more info? Talk to my source, Trevor Bosaw.
 
 ## Overview
-Lets say a user logs in with credential_a (let’s just say idme). We store their `idme_uuid` in a database record called a `UserVerification` *(a user will have one `UserVerification` for every credential)*. If they have both an id.me and a login.gov login, they will have two `UserVerification` records)
+Lets say a user logs in with credential_a (let’s just say idme). We store their `idme_uuid` in a database record called a `UserVerification` *(a user will have one `UserVerification` for every credential)*. If they have both an id.me and a login.gov login, they will have two `UserVerification` records.
 Each `UserVerification` is associated with a `UserCredentialEmail`, representing the email associated with the credential that logged in *(this would be the email they used to sign into id.me if they logged in with id.me)*. Each `UserVerification` is associated with a `UserAccount`
 If the user is verified, the UserAccount will store the user’s ICN.  Multiple `UserVerification` may be associated with the same `UserAccount`, if the user’s ICN is the same.
 
-When a user authenticates, we set `user_uuid = idme_uuid`, if `idme_uuid` doesn't exist *(this will only happen for login.gov accounts, dslogon and mhv accounts still have an underlying `idme_uuid`)*, then `user_uuid = logingov_uuid`. The `User` redis model will expire either 24 hours after it was created, or when the session ends, but `user_uuid` is persistent between sessions.
+When a user authenticates, we set `user_uuid = UserAccount.id`. The `User` redis model will expire either 24 hours after it was created, or when the session ends, but `user_uuid` is persistent between sessions via the `UserAccount` table.
 
 
 ## Relevant Models
@@ -20,8 +20,6 @@ The model teams like ours touch 90% of the time. Shortlived Redis store meant to
   - uuid (persistent. Used by us to relate InProgressForms to Form5655Submissions)
   - last_signed_in
   - mhv_last_signed_in
-  - account_uuid
-  - account_id
   - user_account_uuid
   - user_verification_id
   - fingerprint

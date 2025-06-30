@@ -5,11 +5,10 @@ This document outlines some standard ways in which you can track a user’s jour
 ### User Identifiers
 
 When a user first logs into the application, a veritable swarm of identifiers associated to user are available to the application. There are IDs associated to the provider they use (i.e. ID.me, DSLogin). There is the ICN (Integration Control Number), which is a relatively new identifier in the VA space that is meant to globally identify a user within the VA system. All this information is populated in a handful of tables within the vets-api database: 
-- `Account` (which they're trying to deprecate),
 - `UserAccount` (which stores the user's ICN) and
 - `UserVerification` (which associates a user to a UserAccount via a number of possible provider ids, i.e. idme_uuid and dslogin_id)
 
-Any number of these IDs (especially ICN, for some reason) have come under scrutiny for tracking purposes at various times, for fear of exposing PII or secrets about a particular user to the public or other external systems (such as DataDog). What has "risen to the surface" as the "safest" to use is called the `user_uuid`. The **user_uuid** is essentially the id of a user's provider id- the provider with which they logged in. For example if they logged in with the ID.me service, the `user_uuid` value is that of their `idme_uuid`. 
+Any number of these IDs (especially ICN, for some reason) have come under scrutiny for tracking purposes at various times, for fear of exposing PII or secrets about a particular user to the public or other external systems (such as DataDog). What has "risen to the surface" as the "safest" to use is called the `user_uuid`. The **user_uuid** was the id of a user's provider id- the provider with which they logged in. For example if they logged in with the ID.me service, the `user_uuid` value is that of their `idme_uuid`. On 6/27/2025 [the `user_uuid` sourcing was refactored](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/user_uuid%20Refactor/user_uuid_refactor_announcement.md) to be the `UserAccount.id`.
 
 This user_uuid is effectively a "universal id" within the vets-api and vets-website world, as it is:
 - logged with every login request made to the website
