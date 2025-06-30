@@ -1,7 +1,7 @@
 # Military information Use Cases
 **Last updated: June 2025**
 
-- [User flow](https://www.figma.com/design/zb5ecY9yMnupiLjaH9UmSc/Profile---Military-Information?node-id=609-2756&t=fxhpoB08Vs0FbcNc-1)
+- [User flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1743514356361/b9db0c1c545d370a87fa396c6489e10b8cc9c862?sender=u36b374887f74c9a3de2d0750)
 - [Figma files](https://www.figma.com/design/zb5ecY9yMnupiLjaH9UmSc/Profile---Military-Information?node-id=1354-2142&t=kszpOjTMFVk1ha3H-1)
 - Test Rail QA
 
