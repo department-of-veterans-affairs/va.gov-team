@@ -38,6 +38,28 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [ ] VA PO approved end of quarter status of Quarterly Goals (0x/xx/25)
 
+## Sprint Goals - Sprint: 12 [7/1/25 - 7/15/25]  
+| Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
+|--|--|--|--|--|
+|UX: | QPX |--|--|--|
+|UX: | QPX |--|--|--|
+|UX: | QPX |--|--|--|
+|UX: | QPX |--|--|--|
+|ENG: | QPX |--|--|--|
+|ENG: | QPX |--|--|--|
+|ENG: | QPX |--|--|--|
+
+**_Approvals:_** _(sent via email but approvals tracked here)_
+ - [ ] Ready to be sent for approvals (06/30/25)
+ - [ ] VA PO & COR sent the Sprint Goals (07/XX/25)
+ - [ ] VA PO approved the Sprint Goals (07/XX/25)
+ - [ ] VA COR approved the Sprint Goals (07/XX/25)
+ 
+**_Delivery + Notes:_**
+- [ ] All goals have been updated in the sprint chart
+- [ ] Any Additional details about goals **not** completed will be documented here
+
+
 </details>
 
 ---
