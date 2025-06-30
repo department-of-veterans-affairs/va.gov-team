@@ -2,22 +2,20 @@
 
 _**Overview:** This tracker is designed to track sprint goals with completed work, providing a comprehensive view of goals achieved._
 
-
+# Sprint 8 Goals & Tickets \[07/02/25 - 07/15/25]
 ## Disability Benefits 1
-|                                        SPRINT TICKETS                                        |                                     TICKET NUMBER                                     | ESTIMATE | REASON IF NOT COMPLETE | UPDATE DATE |       STATUS        |
-|----------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|----------|------------------------|-------------|---------------------|
-| [Submission Status on MyVA] Technical Discovery for displaying ancillary form status on MyVA | [111460](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111460) | 5        |                        |             | In Progress         |
-| Detect and alert if LH PDF failed to upload                                                  | [112682](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112682) | 5        |                        |             | Current Sprint      |
-| Spike - incomplete 526 reminder functionality                                                | [112641](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112641) | 2        |                        |             | Prioritized Backlog |
-| Check for duplicate uploads historical data.                                                 | [112928](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112928) | 3        |                        |             | Prioritized Backlog |
-| Confirmation page review submited information                                                | [112927](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112927) | 5        |                        |             | Prioritized Backlog |
-| 4142 MVP FE development -  authorization page development                                    | [112922](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112922) | 5        |                        |             | Prioritized Backlog |
-| discovery to do full accounting of errors causing 526 to go backup path                      | [112648](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112648) | 5        |                        |             | Prioritized Backlog |
-| Manual process/sop for resolving if LH PDF failed to upload                                  | [112867](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112867) | 3        |                        |             | Prioritized Backlog |
-| Fix user ability to upload locked files - discovery                                          | [112670](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112670) | 5        |                        |             | Prioritized Backlog |
-| Explore Alternative Designs for Copy of Submission                                           | [112951](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112951) | 3        |                        |             | New Issues          |
-| 0781 Supporting Documents: Share Findings                                                    | [113124](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113124) | 3        |                        |             | New Issues          |
-| 4142 MVP IPF Handling Approach                                                               | [113171](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113171) | 5        |                        |             | New Issues          |
+|                             SPRINT TICKETS                              |                                     TICKET NUMBER                                     | ESTIMATE | REASON IF NOT COMPLETE | UPDATE DATE |       STATUS        |
+|-------------------------------------------------------------------------|---------------------------------------------------------------------------------------|----------|------------------------|-------------|---------------------|
+| Detect and alert if LH PDF failed to upload                             | [112682](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112682) | 5        |                        |             | Current Sprint      |
+| Check for duplicate uploads historical data.                            | [112928](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112928) | 3        |                        |             | Prioritized Backlog |
+| Confirmation page review submited information                           | [112927](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112927) | 5        |                        |             | Prioritized Backlog |
+| 4142 MVP FE development -  authorization page development               | [112922](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112922) | 5        |                        |             | Prioritized Backlog |
+| discovery to do full accounting of errors causing 526 to go backup path | [112648](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112648) | 5        |                        |             | Prioritized Backlog |
+| Manual process/sop for resolving if LH PDF failed to upload             | [112867](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112867) | 3        |                        |             | Prioritized Backlog |
+| Fix user ability to upload locked files - discovery                     | [112670](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112670) | 5        |                        |             | Prioritized Backlog |
+| Explore Alternative Designs for Copy of Submission                      | [112951](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112951) | 3        |                        |             | New Issues          |
+| 0781 Supporting Documents: Share Findings                               | [113124](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113124) | 3        |                        |             | New Issues          |
+| 4142 MVP IPF Handling Approach                                          | [113171](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113171) | 5        |                        |             | New Issues          |
 
 ## Disability Benefits 2
 |                             SPRINT TICKETS                             |                                     TICKET NUMBER                                     | ESTIMATE | REASON IF NOT COMPLETE | UPDATE DATE |       STATUS        |
@@ -55,6 +53,7 @@ _**Overview:** This tracker is designed to track sprint goals with completed wor
 |                                  SPRINT TICKETS                                   |                                     TICKET NUMBER                                     | ESTIMATE | REASON IF NOT COMPLETE | UPDATE DATE |       STATUS        |
 |-----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|----------|------------------------|-------------|---------------------|
 | Identify key indicators to display in main 526 disability Datadog dashboard       | [113168](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113168) | 5        |                        |             | Prioritized Backlog |
+| Review/Create/Fix alerts to monitor "submit all claims" anomalies                 | [113226](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113226) | 5        |                        |             | Prioritized Backlog |
 | Automate an exportable version of the Sprint Plan and Sprint Review markdown file | [113163](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113163) | 3        |                        |             | New Issues          |
 
 
