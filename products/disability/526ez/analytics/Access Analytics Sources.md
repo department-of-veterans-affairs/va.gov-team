@@ -296,7 +296,8 @@ For Feedback/Intercept survey data, fill out the [Quantitative Data Request](htt
 
 * [Domo CSAT Score Dashboard](https://va-gov.domo.com/page/1545882322)
 
-  - CSAT from both Medallia Intercept and Feedback surveys [Instructions to see CSAT scores](https://drive.google.com/file/d/13CoM_q6ONls6Qe0cakQI4cRE8MPX01x_/view?usp=drive_link) and manipulate dashboard
+  - CSAT from both Medallia Intercept and Feedback surveys
+  - [Instructions to see CSAT scores](https://drive.google.com/file/d/13CoM_q6ONls6Qe0cakQI4cRE8MPX01x_/view?usp=drive_link) and manipulate dashboard
 
 # Datadog
 _Slack channel for general access:_ [_#vfs-platform-support_](https://dsva.slack.com/archives/CBU0KDSB1)
