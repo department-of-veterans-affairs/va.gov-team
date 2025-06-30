@@ -97,7 +97,7 @@ To get this view:
 
 - Select “Contact Center” in the left navigation > “Salesforce Issues MVP”
 
-![](INSERT IMAGE)
+![Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/analytics/platform_images/Domo%202.png)
 
 
 ### Medallia Intercept Survey and Feedback Survey Data 
@@ -112,7 +112,7 @@ To get this view:
 
 - Select “Contact Center” in the left navigation > “Medallia Report”
 
-![](INSERT IMAGE)
+![Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/analytics/platform_images/Domo%203.png)
 
 
 ## CSAT (Customer Satisfaction) Score Dashboard
@@ -127,7 +127,7 @@ To get this view:
 
 - Select “CSAT Score Dashboard” in the left navigation.
 
-![](INSERT IMAGE)
+![Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/analytics/platform_images/Domo%204.png)
 
 # Google Analytics
 _Slack channel:_ [_#vfs-analytics_](https://dsva.slack.com/archives/C1Q4294JJ)
@@ -136,13 +136,13 @@ _Slack channel:_ [_#vfs-analytics_](https://dsva.slack.com/archives/C1Q4294JJ)
 
 Google Analytics is used to track user behavior on websites. It provides the data that feeds into Domo’s KPI dashboards. While Google Analytics also provides dashboards where you can visualize what is happening with your product, the Platform Analytics team prefers to feed Google Analytics data into Domo for viewing.
 
-![](INSERT IMAGE)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/analytics/platform_images/GA%201.png)
 
 Screenshot of default Google Analytics Dashboard once access to the platform is granted. This provides an overview of all_ [_VA.gov_](http://va.gov) _usage._
 
 ## Requesting Access to GA4
 
-- Submit __[Google Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban\&labels=analytics-insights%2C+analytics-request%2C+access-request\&template=analytics-request-google-analytics-domo-access.md\&title=Request+access+to+Google+Analytics+and%2For+Domo) access request
+- Submit [Google Analytics](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban\&labels=analytics-insights%2C+analytics-request%2C+access-request\&template=analytics-request-google-analytics-domo-access.md\&title=Request+access+to+Google+Analytics+and%2For+Domo) access request
 
 - Submitting this ticket will just allow you to see the default dashboards already available in Google Analytics. This is not a request to create a specific dashboard for your team. That will be covered in the next section. 
 
@@ -207,7 +207,7 @@ When you request MyVA411 data, you will need to fill out a [Quantitative Data Re
 
 Fill out a [Quantitative Data Request (Github](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=ianMcCullough-ob%2C+ATMiddleton\&labels=VSP-contact-center%2Ccc-data-request\&projects=\&template=qualitative-data-request.yml\&title=Qualitative+Data+Request.)). Follow the instructions in the form to request the data that you need. It takes about a week for someone to fulfill the request.
 
-![](INSERT IMAGE)
+![][(INSERT IMAGE)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/analytics/platform_images/MyVA411%201.png)
 
 An example of MyVA411 returned data, scrubbed of PII 
 
