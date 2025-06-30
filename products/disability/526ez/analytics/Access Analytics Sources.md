@@ -207,7 +207,7 @@ When you request MyVA411 data, you will need to fill out a [Quantitative Data Re
 
 Fill out a [Quantitative Data Request (Github](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=ianMcCullough-ob%2C+ATMiddleton\&labels=VSP-contact-center%2Ccc-data-request\&projects=\&template=qualitative-data-request.yml\&title=Qualitative+Data+Request.)). Follow the instructions in the form to request the data that you need. It takes about a week for someone to fulfill the request.
 
-![][(INSERT IMAGE)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/analytics/platform_images/MyVA411%201.png)
+![][(INSERT IMAGE)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/analytics/platform_images/MyVA411%20Examples.png)
 
 An example of MyVA411 returned data, scrubbed of PII 
 
@@ -222,7 +222,7 @@ _Slack channel:_ [_#vsp-contact-center-support_](https://dsva.slack.com/archives
 
 Medallia is experience management software that the VA uses to get feedback on their digital products. This feedback is captured in two ways: Feedback Surveys (users have the option on every page to actively provide feedback) and Intercept Surveys (users are randomly prompted to fill out a survey). The questions aim to track user sentiment and satisfaction as a Customer Satisfaction Score (CSAT). 
 
-![](INSERT IMAGE)
+![Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/analytics/platform_images/Medallia%20Survey%20Example.png)
 
 _Feedback Surveys are accessed via a “Feedback” button at the bottom of every page_
 
