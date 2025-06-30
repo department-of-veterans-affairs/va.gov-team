@@ -8,7 +8,7 @@ Under the IDEA Act, all user facing forms need to be digitized. Form 10-7959a is
 
 Currently, Veterans and family members of Veterans can either fill out and complete form 10-7959a on VA.gov, or they can download and fill out the PDF and then mail it in for processing. If the information they submit to support their claim is not sufficient, they will either receive a notification that they need to resubmit the claim to include the necessary information, or they will receive an Explanation of Benefits (EOB) that denies the claim. In either case, the form must be resubmitted. 
 
-Currently, the digital flow processes a resubmission as a new claim, which can cause delays for the beneficiaries and contributes additional work  to the CHAMPVA backlog. This study will support improving the existing 10-7959a digital flow so that users can mark a claim as a resubmission. It will also investigate whether using [OCR/LLM] file verification for claims documentation reduces errors, resulting in the need for fewer resubmissions overall.
+Currently, the digital flow processes a resubmission as a new claim, which can cause delays for the beneficiaries and contributes additional work  to the CHAMPVA backlog. This study will support improving the existing 10-7959a digital flow so that users can mark a claim as a resubmission. It will also investigate whether using Optical Character Recognition or a Large Language Model [OCR/LLM] file verification for claims documentation reduces errors, resulting in the need for fewer resubmissions overall.
 
 This initiative is trying to solve the following high-level questions:
  - How might we make it easier for family members and beneficiaries to submit claims online with the correct information?
@@ -20,7 +20,7 @@ The CHAMPVA Claims form is available as both authenticated and unauthenticated f
   
 `What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?`
 
-We have already successfully launched CHAMPVA Claims form. In an attempt to reduce backlog and send-backs of claims, we are adding a resubmission flow and file verification to the existing form.
+We have already successfully launched CHAMPVA Claims form. In an attempt to reduce the claims processing backlog and send-backs of claims missing necessary information, we are adding a resubmission flow and file verification to the existing form.
 
 `Product Brief`
 
@@ -58,28 +58,30 @@ Are there moments that matter?</summary>
 
 ### Goals
 
-1. Gauge users’ understanding of the resubmission process and their expectations for what will be required
+1. Gauge the usability of the updated initial submission and resubmission flows, as measured by observed task success and self-reported usability measures.
 
-2. Understand users’ expectations for uploading documents in support of a CHAMPVA claim, and their responsibilities to provide accurate supporting information. 
+2. Confirm users' understanding of the resubmission process as presented in the content of the 10-7959a, their expectations for what will be required and their responsibilities for providing accurate supporting documentation.
 
-3. Understand users’ expectations for file verification when submitting documentation for a CHAMPVA claim
+3. Understand users’ expectations for file verification when submitting documentation for a CHAMPVA claim.
 
   
 ### Outcome
-We will synthesize the data from this study and create a summary report of our learnings. This research will inform decisions around how resubmissions are handled within the CHAMPVA Claims form. It will also provide insight into how users respond to feedback they receive when uploading supporting documentation for a claim via form 10-7959a.  
+We will synthesize the data from this study and create a summary report of our learnings. This research will inform decisions around how initial claims and resubmissions are handled within the CHAMPVA Claims form. It will also provide insight into how users respond to feedback they receive in the form when uploading supporting documentation for a claim via form 10-7959a.  
 
 ---
 
 ### Research questions
 
-**Goal 1: Gauge users’ understanding of the resubmission process and their expectations for what will be required. **
-1. Do users understand what to do when presented with a claims sendback letter or EOB indicated the claim was denied?
-2. Do users understand how to file a claim resubmission within the digital form?
-3. Do users understand the information required for a claims resubmission and know where to find it?
+**Goal 1: Gauge the usability of the updated initial submission and resubmission flows, as measured by observed task success and self-reported usability measures.**
+1. Are users able to successfully submit an initial claim and resubmit a claim that requires additional documentation?
+2. Do users know where to file a claim resubmission within the digital form?
+3. Do users understand what to do when presented with a claims sendback letter or EOB indicated the claim was denied?
+4. What points of confusion, if any, do users have with the claims submission and resubmission process?
 
-**Goal 2: Understand users’ expectations for uploading documents in support of a CHAMPVA claim, and their responsibilities to provide accurate supporting information.**
-1. Do users understand what supporting documentation they’ll need to upload for their based on the information provided before they start the application?
-2. Do users understand the specific requirements for each type of document they need to submit when on the upload page?
+**Goal 2: Confirm users' understanding of the resubmission process as presented in the content of the 10-7959a, their expectations for what will be required and their responsibilities for providing accurate supporting documentation.**
+1. Do users understand the information required for an initial claim or resubmission and know where to find it?
+2. Do users understand what supporting documentation they’ll need to upload for their based on the information provided before they start the application?
+3. Do users understand the specific requirements for each type of document they need to submit when on the upload page?
 
 **Goal 3: Understand users’ expectations for file verification when submitting documentation for a CHAMPVA claim.**
 1. Do users expect any form of digital verification to happen when they upload a document?
@@ -91,27 +93,27 @@ We will synthesize the data from this study and create a summary report of our l
 
 ---
 
-**Goal 1: Gauge users’ understanding of the resubmission process and their expectations for what will be required. **
+**Goal 1: Gauge the usability of the updated initial submission and resubmission flows, as measured by observed task success and self-reported usability measures.**
  - Users will understand they need to return to the digital form to resubmit a claim.
  - Users will understand that the information required to resubmit the claim can be found in the claim letter.
- - Users will question the need to re-enter beneficiary and/or sponsor information when resubmitting the claim.
 
-**Goal 2: Understand users’ expectations for uploading documents in support of a CHAMPVA claim, and their responsibilities to provide accurate supporting information.**
+**Goal 2: Confirm users' understanding of the resubmission process as presented in the content of the 10-7959a, their expectations for what will be required and their responsibilities for providing accurate supporting documentation.**
+
+ - Users will question the need to re-enter beneficiary and/or sponsor information when resubmitting the claim.
  - Users understand the types of documents needed.
  - Users will not understand the specific information needed on each document without prompting.
 
 **Goal 3: Understand users’ expectations for file verification when submitting documentation for a CHAMPVA claim.**
- - Users will appreciate that the document is scanned for verification.
+ - Users will prefer the document verification compared to a non-OCR file upload.
  - Users will not question how we're verifying the information (what we're using to scan).
  - Users may be confused about how to resolve the error messages they see or how to bypass an error.
-
 
 ---
   
 ## Methodology  🛠️
-We will conduct remote moderated usability testing to observe research participants filling out a new claim and responding to a send-back notification to resubmit a claim. We will be testing in the Staging environment.
+We will conduct remote moderated usability testing to observe research participants filling out a new claim and responding to a send-back notification to resubmit a claim. We will be testing in the Staging environment using the unauthenticated version of the form.
 
-Think-aloud protocol will be used for each task and concept test, to understand how the user understands and is responding to the flow of the claims form as they perform the tasks given to them. 
+Think-aloud protocol will be used for each task, to understand how the user understands and is responding to the flow of the claims form as they perform the tasks given to them. 
 
 Sessions will be conducted over Zoom with transcripts.
 
@@ -132,11 +134,13 @@ Remote research, over Zoom.
 ### Recruitment approach
 We would like Perigean to recruit assistive technology (AT) and non-AT users.
 
-Our intended audience for this study is Veterans with high disability ratings and their dependent spouses and children, who are currently enrolled in the CHAMPVA program. We will split this study into two cohorts:
+Our intended audience for this study is Veterans with high disability ratings and their dependent spouses and children, who are currently enrolled in the CHAMPVA program. We will split this study into three cohorts:
 
-* **Cohort 1 (n = 12 minimum):** Veterans with a 100% service connected disability rating with spouse and/or dependent children who are enrolled in CHAMPVA benefits
+* **Cohort 1 (n = 6 minimum):** Veterans with a 100% service connected disability rating with spouse and/or dependent children who are currently enrolled in CHAMPVA benefits
   
-* **Cohort 2 (n = 3 minimum):** Spouses and dependent children of Veterans with a 100% service connected disability rating, who are enrolled in CHAMPVA benefits
+* **Cohort 2 (n = 8 minimum):** Spouses and dependent children of Veterans with a 100% service connected disability rating, who are currently enrolled in CHAMPVA benefits
+
+* **Cohort 3 (n = 3 minimum):** Veterans with a service connected disability rating with a spouse and/or dependent children who are 
 
 ### Recruitment criteria
 **All participants must:**
