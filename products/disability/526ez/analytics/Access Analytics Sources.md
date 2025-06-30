@@ -272,7 +272,7 @@ Preparing to access Feedback/Intercept survey data:
   
 Preparing to access CSAT score data:
 
-* Submit a __[Domo Access Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban\&labels=analytics-insights%2C+analytics-request%2C+access-request\&template=analytics-request-google-analytics-domo-access.md\&title=Request+access+to+Google+Analytics+and%2For+Domo) ticket to see default dashboards already created.
+* Submit a [Domo Access Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban\&labels=analytics-insights%2C+analytics-request%2C+access-request\&template=analytics-request-google-analytics-domo-access.md\&title=Request+access+to+Google+Analytics+and%2For+Domo) ticket to see default dashboards already created.
 
 ## Requesting the data
 
