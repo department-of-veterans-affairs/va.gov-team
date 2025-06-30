@@ -91,7 +91,18 @@ There are no flags with this feature.
 <details><summary>Backend system down</summary>
 
 - **Use case:** Cannot connect to the back end.
-- **Status code:** TBD
+- **Status code:**
+   - GET 400: Bad request;
+      - BackendServiceException: {:source=>"VAProfile::MilitaryPersonnel::Service", :code=>"VET360_CORE100"}
+      - Unexpected Error: There was an error encountered processing the request
+   - GET 401: Unauthorized
+   - GET 404: Not found; If a user is not found in VAProfile, an empty ServiceHistoryResponse with a 404 status will be returned
+   - GET 500: Internal server error
+   - GET 502: Bad gateway
+      -  BackendServiceException: {:source=>"VAProfile::MilitaryPersonnel::Service", :code=>"VET360_502"}
+      -  Received an an invalid response from the upstream server
+   - GET 503: Service unavailable
+   - GET 504: Gateway timeout; Upstream server took too long to respond
 - **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
 - [Link to designs](https://www.figma.com/design/zb5ecY9yMnupiLjaH9UmSc/Profile---Military-Information?node-id=619-3634&t=iU7vARDUjgIJkIfo-1)
 - [Link to code]
