@@ -138,7 +138,7 @@ Google Analytics is used to track user behavior on websites. It provides the dat
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/analytics/platform_images/Google%20Analytics%20Full.png)
 
-Screenshot of default Google Analytics Dashboard once access to the platform is granted. This provides an overview of all_ [_VA.gov_](http://va.gov) _usage._
+Screenshot of default Google Analytics Dashboard once access to the platform is granted. This provides an overview of all [_VA.gov_](http://va.gov) usage.
 
 ## Requesting Access to GA4
 
@@ -164,7 +164,11 @@ It is beneficial to have a list of questions you imagine you’ll be able to ans
 
 ### Second, attend Platform Analytics Office Hours.
 
-[**Platform Analytics Office Hours**](https://oddball-io.zoom.us/j/86920766098) is hosted every Tuesday and Thursday from _3:30pm - 4:00pm ET._ The team, led by Jamie Stutt will be able to deep dive with you and help you determine if you will be able to answer your questions with GA4 data. **Other helpful information:*** Join the [platform-analytics channel](https://dsva.slack.com/archives/CKCRMLGAC).
+[**Platform Analytics Office Hours**](https://oddball-io.zoom.us/j/86920766098) is hosted every Tuesday and Thursday from _3:30pm - 4:00pm ET._ The team, led by Jamie Stutt will be able to deep dive with you and help you determine if you will be able to answer your questions with GA4 data. 
+
+**Other helpful information:**
+
+* Join the [platform-analytics channel](https://dsva.slack.com/archives/CKCRMLGAC).
 
 * Read [Platform Analytics documentation](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/getting-started-with-platform-analytics-insights). 
 
@@ -207,7 +211,7 @@ When you request MyVA411 data, you will need to fill out a [Quantitative Data Re
 
 Fill out a [Quantitative Data Request (Github](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=ianMcCullough-ob%2C+ATMiddleton\&labels=VSP-contact-center%2Ccc-data-request\&projects=\&template=qualitative-data-request.yml\&title=Qualitative+Data+Request.)). Follow the instructions in the form to request the data that you need. It takes about a week for someone to fulfill the request.
 
-![][(INSERT IMAGE)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/analytics/platform_images/MyVA411%20Examples.png)
+![Screenshot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/analytics/platform_images/MyVA411%20Examples.png)
 
 An example of MyVA411 returned data, scrubbed of PII 
 
@@ -234,7 +238,9 @@ _Feedback Surveys are accessed via a “Feedback” button at the bottom of ever
 
 * Access to the VA Github, as you will be requesting data through that platform
 
-* Access to VA Sharepoint, as you will receive data via a Sharepoint link To access CSAT score data:* Access to the VA Github, as you will be requesting access to Domo to view the data
+* Access to VA Sharepoint, as you will receive data via a Sharepoint link To access CSAT score data
+  
+* Access to the VA Github, as you will be requesting access to Domo to view the data
 
 ## Preparing to request data
 
@@ -256,7 +262,7 @@ For Feedback/Intercept survey data, fill out the [Quantitative Data Request](htt
 
 * Data Source Type: “Medallia”
 
-* _Some tips_* Even if you want feedback left about specific pages of the form, it may be beneficial to request access to data left on many other pages of the form. People may not leave feedback about a page, on that page. 
+* *_Some tips_* Even if you want feedback left about specific pages of the form, it may be beneficial to request access to data left on many other pages of the form. People may not leave feedback about a page, on that page. 
 
 ## Receiving the data
 
@@ -295,10 +301,10 @@ Datadog monitors the technical performance and reliability of systems, as well a
 
 * You may get into a loop where you cannot access the ticket template linked above to create an OKTA Account because you do not have an OKTA account. If that is the case, you can request that someone else with access fill out the ticket for you.
 
-**_Once you have a PIV card and OKTA access:_*** Follow these **__**[Instructions for accessing Datadog](https://depo-platform-documentation.scrollhelp.site/developer-docs/get-access-to-datadog#GetAccesstoDatadog-Step2:GainAccesstoDatadog)
+**_Once you have a PIV card and OKTA access:_** Follow these [Instructions for accessing Datadog](https://depo-platform-documentation.scrollhelp.site/developer-docs/get-access-to-datadog#GetAccesstoDatadog-Step2:GainAccesstoDatadog)
 
 ## Default Dashboards Provided in Datadog
 
-![](INSERT IMAGE)
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/analytics/platform_images/Datadog%20Screen.png)
 
-_This is a screenshot of the default dashboard in Datadog provided for the Disability Benefits application as of 6/16/2025.___
+_This is a screenshot of the default dashboard in Datadog provided for the Disability Benefits application as of 6/16/2025._
