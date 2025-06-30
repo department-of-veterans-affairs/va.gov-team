@@ -2,14 +2,14 @@
 	# Research Plan for [VA Flagship Mobile Team, VAHB Mobile App, June, 2025]
 
 ## Background 🏗️
-<details><summary>Briefly describe the background of your product.</summary>
+Briefly describe the background of your product.
 	
 The VA Mobile App team recently resolved SSO issues that had previously prevented Veterans from accessing VA.gov within a web view while maintaining their authenticated state. 
 
 This technical improvement creates a new opportunity to integrate the Forms feature into the mobile app, functionality that is not currently available in the mobile experience. 
 
 As part of the MVP, the app introduces the form 4138, a widely used form, in the mobile app so Veterans can: 
-1. Complete VA forms in a secure web view; and
+1. Complete VA forms in a secure web view from a mobile device; and
 2. Check status of these forms in the mobile app
 
 
@@ -17,50 +17,53 @@ As part of the MVP, the app introduces the form 4138, a widely used form, in the
 
 This research supports the following OCTO priorities: 
 
-`Objective 1:  VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.`  
+- VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.
 
-> - **Key Result 1:** Improve satisfaction with our web and mobile products by 5 points.
+- OCTO positively influences VA's ability to deliver software products and services faster, safer, and with higher quality.
+
+> **Key Result 1:** Improve satisfaction with our web and mobile products by 5 points.
 
 
 ### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
 
-The research covers braod spectrum of VA services, and applies at any stage from Starting Up through Aging. 
+The research covers broad spectrum of VA services, and applies at the following stages.
+- Starting Up
+- Taking Care of Myself
+- Reinventing Myself
+- Putting Down Roots
+- Retiring
+- Aging
+
 
 ## Research Goals 🥅	
 The key objective of this study is to evaluate the usability of completing a VA form in a webview from the VA Health and Benefits app. 
 Additionally, the research aims to uncover the following:
-1. Observe Veterans interaction of accessing and submitting the Form 4138 from the mobile app
-2. Identify friction points and areas of opportunities 
-3. Uncover future opportunities to enhance the forms experience as the team explores to include additional form types
+1. Understand if Veterans can find and interact with forms from the app.
+2. Identify if Veterans can fill out a form from the app on their own.
+3. Identify any usability issues Veterans may experience when interacting with forms on the mobile app.
+
   
 ### Outcome
-The learnings from this study will help the VA Mobile App team in making informed decisions about how to improve and expand the integration of Forms within the app. Additionally, the insights will help us understand: 
-1. Understand how Veterans perceive and experience accessing VA forms within the app, as part of the mobile experience. 
-2. Any friction points and Veteran requirements will be prioritized and roadmapped for future iterations
+The results of the study will help us determine if Veterans are able to interact with forms from the mobile app and to identify any pain points. This will inform future form development on the app.
 
 
 ### Research questions
 
-**`1.`How do Veterans perceive the ability to submit a VA form via the mobile app?**
-- How does this experience compare to other methods of submission?
+1. Are Veterans able to locate forms within the VA app?
 
-**`2.`What do Veterans notice or think is happening when the form opens in a webview via the mobile app?**
-- How does this transition affect tthe Veterans trust and security of the app, if at all?
+2. Are Veterans able to fill out a form from the app on their own?
 
-**`3.`How do Veterans go about accessing and submitting the form?**
-- What challenges or pain points emerge?
+3. Are Veterans able to continue started forms from within the app?
 
-**`4.`What do Veterans expect once the form is submitted?**
-- Do the Veterans feel confidence that the documents were submitted properly?
-- What expectations do they have after a form was submitted? 
+4. How do Veterans expect once the form is submitted?
 
 
 ### Hypotheses
 
-1. Veterans will view the ability to access and submit VA forms in the mobile app as a valuable improvement to their overall mobile experience
-2. Some Veterans may express security concerns about completing VA forms in a webview, because it feels separate from the mobile app experience
-3. Most Veterans will be able to access and submit VA forms in a webview through the mobile app without major usability issues
-4. Veterans will expect to see immediate confirmation upon a form submission
+1. Most Veterans will be able to find forms from within the app easily.
+2. Most Veterans will be able to complete a form on the app through a web-view without major usability issues.
+3. Most Veterans will be able to access and continue a started form through the mobile app.
+4. Veterans will expect to see immediate confirmation upon a form submission.
 
 ---
   
