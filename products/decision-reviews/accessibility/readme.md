@@ -35,8 +35,12 @@ If you are a team member looking for accessibility support, please submit a tick
 - 5/2025 Supplemental Claims - [4142 Updated Legalese inside of accordions open on page load](https://www.figma.com/design/2LGebZcUuu5Iqh4QLPII6A/Supplemental-Claims--VA-0995-?node-id=4891-10005&t=a8rkT4S78uwU5QDd-0)
 
 ## Accessibility 101 Trainings
+Previous:
 - 6/26/2025 A11y 101: Screenreaders part 1 video & slides
   - 40 minute session on screenreader basics. Led by @bacitracin
+ 
+Upcoming:
+- 7/16/2025 A11y 101: Keyboard Navigation
 
 ## Resources
 
