@@ -67,7 +67,7 @@ To guide this work, we’re focusing on three key questions:
 
 ## Discovery in Progress
 
-This initiative is structured under the **Identity Fraud Discovery & Strategy Baseline** milestone. Discovery spans several thematic workstreams:
+This initiative is structured under the **Identity Fraud Discovery & Strategy Baseline** super epic. Discovery spans several thematic workstreams:
 
 - `Landscape & Metrics`
 - `Stakeholder Roles & Process Mapping`
