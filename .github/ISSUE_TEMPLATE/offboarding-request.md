@@ -2,7 +2,7 @@
 name: Offboarding request
 about: To inform the Platform team when a VA.gov Platform or VFS team member has left
   and needs offboarding.
-title: Offboarding of [individual]
+title: Individual Offboarding of [individual]
 labels: analytics-insights, Offboarding, operations
 assignees: ''
 
