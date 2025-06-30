@@ -17,22 +17,15 @@ As part of the MVP, the app introduces the form 4138, a widely used form, in the
 
 This research supports the following OCTO priorities: 
 
-- VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.
+Objective 1: VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.
+  
+- Key Result 1: Improve satisfaction with our web and mobile products by 5 points.
 
-- OCTO positively influences VA's ability to deliver software products and services faster, safer, and with higher quality.
-
-> **Key Result 1:** Improve satisfaction with our web and mobile products by 5 points.
 
 
 ### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
 
-The research covers broad spectrum of VA services, and applies at the following stages.
-- Starting Up
-- Taking Care of Myself
-- Reinventing Myself
-- Putting Down Roots
-- Retiring
-- Aging
+The research covers broad spectrum of VA services, and applies at ALL stages of the Veteran journey. From serving through death.
 
 
 ## Research Goals 🥅	
@@ -41,47 +34,65 @@ Additionally, the research aims to uncover the following:
 1. Understand if Veterans can find and interact with forms from the app.
 2. Identify if Veterans can fill out a form from the app on their own.
 3. Identify any usability issues Veterans may experience when interacting with forms on the mobile app.
+4. Identify if Veterans can complete a form that has already been started from within the mobile app.
 
   
 ### Outcome
-The results of the study will help us determine if Veterans are able to interact with forms from the mobile app and to identify any pain points. This will inform future form development on the app.
+The results of the study will help us determine if Veterans are able to fill out and complete forms from the mobile app and to identify any pain points. This will inform future form development on the app.
 
 
 ### Research questions
+**Research goal #1: Understand if Veterans can find and interact with forms from the app.**
+1. How easily can Veterans locate the forms section within the mobile app?
+2. What steps do Veterans take to start a new form from within the app?
+3. Are there any points of confusion or difficulty when Veterans attempt to find forms?
 
-1. Are Veterans able to locate forms within the VA app?
+**Research goal #2: Identify if Veterans can fill out a form from the app on their own.**
+4. Can Veterans independently complete all required fields in a form using the mobile app?
+5. Do Veterans understand the instructions and language used in the forms?
+6. How do Veterans interpret the status of the form once the form is submitted?
 
-2. Are Veterans able to fill out a form from the app on their own?
+**Research goal #3: Identify any usability issues Veterans may experience when interacting with forms on the mobile app.**
+7. What challenges, if any, do Veterans encounter while entering information into the forms?
+8. What, if any, technical or design barriers prevent Veterans from successfully interacting with forms?
+9. How do Veterans feel about the overall experience of using forms in the mobile app?
 
-3. Are Veterans able to continue started forms from within the app?
-
-4. How do Veterans expect once the form is submitted?
-
+**Research goal #4: Identify if Veterans can start a form and come back to it at a later time to complete.**
+10. Can Veterans locate and resume a form they previously started in the mobile app?
+11. Do Veterans encounter any challenges or confusion when attempting to access and complete a saved or in-progress form?
+12. What steps do Veterans take to find and finish a form they started earlier?
+13. Are there any barriers that prevent Veterans from successfully submitting a previously started form through the app?
 
 ### Hypotheses
+**Research goal #1: Understand if Veterans can find and interact with forms from the app.**
+1. Veterans will be able to easily locate the forms section within the mobile app without extensive guidance.
+2. Veterans will be able to follow the intended navigation steps to start a new form from within the app.
+3. Some Veterans may experience confusion or difficulty due to unclear labeling or navigation options related to forms.
 
-1. Most Veterans will be able to find forms from within the app easily.
-2. Most Veterans will be able to complete a form on the app through a web-view without major usability issues.
-3. Most Veterans will be able to access and continue a started form through the mobile app.
-4. Veterans will expect to see immediate confirmation upon a form submission.
+**Research goal #2: Identify if Veterans can fill out a form from the app on their own.**
+4. Most Veterans will be able to independently complete all required fields in a form using the mobile app.
+5. The instructions and language used in the forms will be clear and understandable to Veterans.
+6. Some Veterans may experience confusion interpretting the status of the form after submission.
 
----
+**Research goal #3: Identify any usability issues Veterans may experience when interacting with forms on the mobile app.**
+7. Veterans may encounter difficulty entering information into forms from their mobile device.
+8. Technical or design barriers, such as small touch targets or required page scrolling, may add additional frustration for Veterans when completing forms from a mobile device.
+9. Veterans will have mixed feelings about the overall experience, with some expressing frustration regarding usability issues and others finding the process straightforward.
   
 ## Methodology  🛠️
 
-This study will use remote moderated usability testing to evaluate different form-related flows. Participants will complete tasks while sharing their screen via Zoom on their mobile device.
+This study will use **remote moderated usability testing** to observe Veterans completing two form flows from within the mobile app. Participants will complete tasks while sharing their screen via Zoom on their mobile device. We will be using a **GitHub Codespace** to simulate the environment and enable accessibility features for participants who may be using screen readers or screen magnifiers.
+
 During the usability testing following flows will be observed:
-- Submitting a new Form 4138 through the in-app webview
+- Completing a new Form 4138 through the in-app webview
 - Continuing an in-progress form from the mobile app
-
-Task success will be measured using the Single Ease Question (SEQ), a task-level metric that captures how easy or difficult participants perceived each task to be. 
-This allows the researcher to explore additional feedback during the testing session. 
-
+  
 
 ### Location
 
 - [X] **Remote**
 - [ ] **In-person**
+
 
 ## Research materials 📔
 
@@ -100,10 +111,15 @@ Provide a link to any materials you need to run your study, including any materi
 We would like Pergean's support in recruiting eligibile participants for the study. 
 
 ### Recruitment criteria
-- Must have interacted with the mobile app at lease once
-- Must be non-AT participants
+- Must have interacted with the mobile app at least once
 - 3 to 4 Veterans from rural areas
 - 3 to 4 Veterans over the age of 55
+
+Please make sure that ALL participants are willing to complete the session on the device they specify during the screener questions and:
+During the session:
+- Are willing to share their screen.
+- Have a working microphone on their device.
+
 
 ### List the ideal completed sessions and total number and type (Veterans, caregivers, etc.) of participants for this study:
 
@@ -113,18 +129,24 @@ We would like Pergean's support in recruiting eligibile participants for the stu
 - `Total:` **[8]**
 
 ### Screening Question
-We are interested in talking to Veterans that use the app in various frequencies.
+1. Are you able to join the session from a smartphone or tablet?
+   
+- Yes would qualify them for the study
+- No would disqualify them
 
-1. How often do you use the VA Health and Benefits app?
-- Daily
-- A few times a week
-- A few times a month
-- Less than once a month
-- I'm not sure
-- I don't use the app
 
-If option 'f' was selected, the following optional question should be included: 
-"Thanks for letting us know. Can you share bit about why you don't use the VA Health and Benefits app?"
+2. What device will you use to join the session?
+   
+- Mobile phone – Android
+- Mobile phone – iPhone
+- Tablet – Android
+- Tablet – iPad
+
+4. Are you willing to download both the va mobile app and zoom mobile app to complete the session?
+   
+- Yes would qualify them for the study
+- No would disqualify them
+
 
 ## Timeline 🗓️
 > [!NOTE]
@@ -176,11 +198,11 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 >
 > **Please list the names of people in each role.** In the Slack study channel, send an email and primary phone number for the moderator. Also send emails for the notetaker, accessibility specialist, and observers. If you need Perigean to take notes for you, indicate that next to Notetaker.
 
-- `Moderator:` **[Enter full name]**	
-- `Research guide writing and task development (usually but not always same as moderator):` **[Enter full name]**		
-- `Participant recruiting & screening:`	**[Enter full name]**	
-- `Project point of contact:` **[Enter full name]**		
-- `Accessibility specialist (for sessions where support for assistive technology may be needed):` **[Enter full name]**	
+- `Moderator:` **[Christine Julian]**	
+- `Research guide writing and task development (usually but not always same as moderator):` **[Christine Julian and Kira Evsanaa]**		
+- `Participant recruiting & screening:`	**[Perigean]**	
+- `Project point of contact:` **[Christine Julian]**		
+- `Accessibility specialist (for sessions where support for assistive technology may be needed):` **[ADE Team]**	
 - `Note-takers:` **[Enter full name]** ***or*** **[Designate Perigean]**	
 - `Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work. Spread observers across sessions. There should be no more than 5 to 6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side.`
 
