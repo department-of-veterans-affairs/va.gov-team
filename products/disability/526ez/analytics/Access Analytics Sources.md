@@ -58,7 +58,7 @@ Domo is a business intelligence platform that allows VA product teams to visuali
 
 ## Requesting Access to Domo
 
-- You can submit a __[Domo Access Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban\&labels=analytics-insights%2C+analytics-request%2C+access-request\&template=analytics-request-google-analytics-domo-access.md\&title=Request+access+to+Google+Analytics+and%2For+Domo) ticket to see default dashboards already created.
+- You can submit a [Domo Access Request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=joanneesteban\&labels=analytics-insights%2C+analytics-request%2C+access-request\&template=analytics-request-google-analytics-domo-access.md\&title=Request+access+to+Google+Analytics+and%2For+Domo) ticket to see default dashboards already created.
 
 - Note: This is **not** a request to create a specific dashboard for your team. Depending on the kind of data you want to access, you will have to put in a separate request to the team that owns that data. How to do this is detailed in the document tabs: [Google Analytics](https://docs.google.com/document/d/16jSN9JqAFDby8H4Ahd1s-F9hJu0xLNfu7LDU3cWxxn8/edit?tab=t.d9ks0x6zmiws), [MyVA411](https://docs.google.com/document/d/16jSN9JqAFDby8H4Ahd1s-F9hJu0xLNfu7LDU3cWxxn8/edit?tab=t.gmlrh1e6oeg9), [Medallia](https://docs.google.com/document/d/16jSN9JqAFDby8H4Ahd1s-F9hJu0xLNfu7LDU3cWxxn8/edit?tab=t.ipdxaqv1lege).
 
