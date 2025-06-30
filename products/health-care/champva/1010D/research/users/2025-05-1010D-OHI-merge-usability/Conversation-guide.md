@@ -65,11 +65,6 @@ Before we start, I have a few things that I want to go over with you:
 
 *(If participant asks you to NOT record)* Are you comfortable if I save the transcript of the session? *(If not, take good notes!)*
 
-- I have started recording. I'd like to confirm: 
-  - **Are you comfortable if I record my screen and the audio as we talk today?** Yes / No
- 
-  - **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners as long as we remove any information that can be used to identify you?** Yes / No
-
 In the bottom toolbar of the Zoom window, click the arrow next to **SHOW CAPTIONS** > **View Full Transcript** > Save (NEED TO DO THIS TO GET TRANSCRIPT)
 
 *After checking that transcription is working, close the Transcript panel by clicking **Close Full Transcript** in the Show Captions menu.*
@@ -86,13 +81,10 @@ In the bottom toolbar of the Zoom window, click the arrow next to **SHOW CAPTION
 > [!TIP]
 > After you start the recording, click the Show captions (CC) button to enable transcription for the recording.
 
-- **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
-
- <mark>**[Record answer here]**</mark>
+- I have started recording. I'd like to confirm: 
+  - **Are you comfortable if I record my screen and the audio as we talk today?** Yes / No
  
-- **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?**
-
- <mark>**[Record answer here]**</mark>
+  - **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners as long as we remove any information that can be used to identify you?** Yes / No
 
 # Warm-up Questions (Optional) - 5 minutes
 
