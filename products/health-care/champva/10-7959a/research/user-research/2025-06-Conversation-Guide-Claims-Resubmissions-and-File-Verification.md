@@ -95,19 +95,26 @@ Before we start, I have a few things that I want to go over with you:
 Before we look at the website, let’s start with a few warm-up questions.
 
  - Are you or anyone else in your household currently enrolled in the CHAMPVA program?
+   - IF ENROLLED: How recently did you apply for/enroll in the CHAMPVA program?
+   - What was your application experience like, if you can recall?
+ 
    - Have you submitted any medical claims to the CHAMPVA program?
-     - IF YES: What was your experience like?
- - Optional, omit for time) Do you have a VA.gov account?
+     - IF YES:
+       - What was your experience like?
+       - Did you submit your medical claims using a paper/PDF form, or online?
+       - Do you recall if you received any mail from the CHAMPVA program about your claim before it was processed?
+       
+ - (Optional, omit for time) Do you have a VA.gov account?
    - IF YES: What has been your experience with logging into the site?
-  - How often/for what tasks are you logging into VA.gov?
-    - IF NO: 
+     
+  - How often/for what tasks are you logging into VA.gov? 
       - How often are you visiting VA.gov? 
       - For what tasks?
 
 ### For only assistive tech users
  - What assistive technology are you using right now?
    - (If Dolphin screen reader, won't be able to share screen on Zoom)
- - (if no AT) Do you sometimes use assistive technology while using VA.gov or filling out a form online?
+ - (If no AT) Do you sometimes use assistive technology while using VA.gov or filling out a form online?
    - If so, what do you use and when? 
    - *Would you be willing to start using it now in this session?* (if not, run session w/o AT, or stop and ask Perigean for a replacement participant)
  - How would you rate your level of experience with using a screen [reader/magnifier] -- beginner, intermediate, advanced or expert?
@@ -134,35 +141,42 @@ Do you know how to share your screen on Zoom?
  - IF NO: I’ll walk you through how to do that…
 
 ### Screen sharing instructions (if needed)
- - In the Zoom application on your computer, there's a row of buttons at the bottom. In the center is a button that says Share (on phone, may need to scroll sideways or click More...)
+<details> - In the Zoom application on your computer, there's a row of buttons at the bottom. In the center is a button that says Share (on phone, may need to scroll sideways or click More...)
+  
   - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
+    
   - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
+
  - Now I'd like you to share your screen with me. Tap on the button that says Share. Then there will be options for what to share. Please choose "Screen" (phone) or your web browser.
+
  - Great, now I can see your screen! Thank you for your patience in figuring this out.
+
  - iPad: Broadcast screen
+
  - [Avoid AI Companion, which is a new option next to “Share” in the Zoom buttons]
+
  - If having difficulty moving windows around or opening the prototype, you could request control of the participant’s screen and mouse in Zoom: <Name>’s screen tab > Request remote control. Then you can move/resize browser (but not zoom windows/buttons) and type into browser bar. The participant may need to minimize the zoom video view, and drag the zoom buttons to the bottom of the screen so out of the way.
 
-Thanks! Now I’m able to see your screen too.
+Thanks! Now I’m able to see your screen too.</details>
 
 ## First Task: New Claim - 15-20 minutes
 
 Before you start filling out the form, a few things to be aware of:
  - This is our testing site so you don't have to worry about the information that you enter going anywhere. Nothing you click on in this form will have any bearing on your benefits.
  - As we go through the form today, feel free to use fake information for sensitive questions, such as Social Security Numbers, if you don't want to use your real information.
- - You may be asked to upload some documents; as we're not submitting the form and this isn't attached to your benefits, nothing you upload there will be sent to the VA. When we get to the screens that ask for a file to upload, you can upload something random from your desktop, or I can provide a sample PDF for you to use. If you don't know yet, I'll ask you what you'd like to do when the time comes.
+ - You may be asked to upload some documents; as we're not submitting the form and this isn't attached to VA systems, nothing you upload there will be sent to the VA. When we get to the screens that ask for a file to upload, you can upload something random from your desktop, or I can provide a sample PDF for you to use. I'll ask you what you'd like to do when the time comes.
  - Do you have any questions? [Wait for participant answer.]
 
 
 ### Intro page
 Without clicking on anything. I’d like you to take a look at the information on this page. Tell us your initial thoughts.
 
- - Do you know if you’re on the right page to file a CHAMPVA claim? How do you know?
- - Do you know what types of claims you can file?
+ - In your own words, what type of form is this page describing?
+   - Do you know what types of claims you can file?
  - What information do you think you’d need in order to fill out this form?
  - Do you have all that information on hand, or would you need to pause to find it if you were really submitting a claim today?
  - Without clicking anything, do you know how to start this form without a VA.gov account? Can you show me?
- - On a scale of 1-5 (with 1 being poorly and 5 being very well) - how prepared do you feel about submitting a claim based on this page's content? Why did you give it that rating?
+ - On a scale of 1-5 (with 1 being poorly and 5 being very well) - how prepared do you feel to a claim based on this page's content? Why did you give it that rating?
 
 > Things to watch for:
 >  - [Does the participant read through the documentation required to submit a claim?]
@@ -218,6 +232,11 @@ You can continue entering information until you reach section 4. I’ll let you 
  - [error message] 
    - What do you think this error means?
    - What would you need to do to resolve it?
+
+**Participant rating** (Before repeating the loop or moving to the next task)
+- Based on your experience uploading supporting files for your claim today, do you prefer the file verification or would you prefer no file verification? Why/why not?
+- On a scale of 1 to 5, with 1 being very hard and 5 being very easy, how difficult or easy was it to upload files to support your CHAMPVA claim?
+
  - Let’s move on to the next page (loop through questions again if another upload)
 
 > Things to watch for:
@@ -237,24 +256,31 @@ You can continue entering information until you reach section 4. I’ll let you 
 
 ### After completing the task: 
 #### Participant rating:
-On a scale of 1-5 (with 1 being very hard and 5 being very easy) - how difficult or easy was it to complete this form? Why did you give it that rating?
+On a scale of 1-5 (with 1 being very hard and 5 being very easy) - how difficult or easy was it to complete the CHAMPVA claim form? Why did you give it that rating?
 
 
-## Second Task: Resubmission - 15 minutes
+## Second Task: Sendback Letter - 5-10 minutes
 
-For this task, I’m going to first provide you with a letter I’d like you to read. I’m dropping that in the chat now.
+For this task, I’m going to ask you to stop screen sharing for a moment. I will share my screen and show you a letter that you received from CHAMPVA regarding a claim you filed. 
 
-*[provide participant with sample sendback letter]*
+*[share screen and show participant the sample sendback letter]*
 
 ### Letter
- - Please read through this letter carefully and pretend it’s about a claim [you/your spouse] submitted. Let me know when you’re done reading.
+ - Please read through this letter carefully and pretend it’s about a claim [you/your spouse] previously submitted. Let me know when you’re done reading.
  - Do you understand the purpose of this letter?
  - Why do you think you’re being sent this letter?
  - What would you need to do to resolve it?
 
 > Things to watch for:
 >  - [Does the participant think they need to call CHAMPVA for more information?]
+>  - [What steps does the participant think they need to take with doctor's office/their insurance provider to resolve the issues in the send back letter?]
 >  - [Does the participant understand that they can resubmit the claim online?]
+
+## Third Task: Resubmission - 15 minutes
+
+For this task, I’m going to ask you to share you screen again. I will drop a link in the chat to open in your browser. 
+
+[Share link to form]
 
 ### Claims form
  - We’re going to go back to the Claims form, but we won’t use the form you already started.
@@ -313,6 +339,11 @@ Now I'd like you to go through this form as if you are resubmitting the claim [y
    - How important is it to you that the file is scanned for verification?
    - Do you think you would need to upload anything else? 
  - How would you upload another file?
+
+**Participant rating** (Before repeating the loop or moving to the next task)
+- Based on your experience uploading supporting files for your claim today, do you prefer the file verification or would you prefer no file verification? Why/why not?
+- On a scale of 1 to 5, with 1 being very hard and 5 being very easy, how difficult or easy was it to upload files to support your CHAMPVA claim?
+
  - We can continue without the other uploads for this test.
 
 > Things to watch for:
