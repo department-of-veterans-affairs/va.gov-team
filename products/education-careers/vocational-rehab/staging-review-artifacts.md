@@ -1,7 +1,8 @@
 # Chapter 31 Staging Review Artifacts  
 
 ### Staging URL
-([https://staging.va.gov/careers-employment/vocational-rehabilitation/apply-vre-form-28-1900/start](https://staging.va.gov/temporary/apply-vre-form-28-1900/introduction ))
+You can find our form on staging at https://staging.va.gov/temporary/apply-vre-form-28-1900. Please note, this is only a temporary URL for staging. We'll be using the same URL as the current form on production when we release this new form app (i.e., https://www.va.gov/careers-employment/vocational-rehabilitation/).  Cutting over from the current form to the new form is part of our deployment process. We added an alert to the current form, which has been live on production for about 30 days and will remain in place for at least 60 days before we release our new form, letting veterans know about the cutover so they have time to complete their save-in-progress work.
+
 ### Test Users & scenarioes
 -  LOA3 user who does not have a current Save In Progress VR&E application - vets.gov.user+54@gmail.com | 242SsNrLgPv5
 -  LOA3 user who does not have a current Save In Progress VR&E application - vets.gov.user+7@gmail.com | 177SsNrLgPv5
