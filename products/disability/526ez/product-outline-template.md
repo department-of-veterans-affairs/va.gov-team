@@ -35,8 +35,11 @@ We are helping veterans fill out their forms with ML modeling to find clinical c
 
 ## Undesired Business Outcomes
 
+- Exposure of PII through model artifacts
+  - if not properly scrubbed or secured 
 
 ---
+
 ## Measuring Success
 
 
