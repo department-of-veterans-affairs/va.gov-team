@@ -41,7 +41,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 ## Sprint Goals - Sprint: 12 [7/1/25 - 7/15/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
-|UX: Support Engineering team in addressing Staging Review feedback to ensure Digital Dispute is release-ready.| QP1 |--|--|--|
+|UX: Support Engineering team in addressing Staging Review feedback to ensure Digital Dispute is release-ready (Including canary testing).| QP1 |--|--|--|
 |UX: Complete Figma user flows for Hardship Suspension.| QP5 |--|--|--|
 |UX: Refine and document the UX research process for studies to include use of AI Copilot tool.| QPX |--|--|--|
 |ENG: Complete existing front end Digital Dispute launch blocking tickets from the Staging Review (10 pts).| QP1 |--|--|--|
