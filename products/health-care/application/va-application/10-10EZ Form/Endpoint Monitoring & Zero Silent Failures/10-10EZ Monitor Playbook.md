@@ -86,7 +86,7 @@ _last updated: 03-17-2025_
 - Obtain Veteran contact information (Name, Phone number, Email address)
 - Send the Veteran contact information via secure, encrypted email (from va.gov email address) to VHAHECEEDAdministrators@va.gov
   - Explain what has happened (submission failure) and provide the Veteran contact info.
-  - Copy PO (Patrick Bateman) and PMs (Alex Seelig and Heather Justice - VA emails only)
+  - Copy PO and PMs (VA emails only)
 - Create & assign a ticket, outlining the issue and steps to continue triage and/or implement a fix
 - Continue communications on triage progress, fix implementation timelines, and any other pertinent details
 
@@ -163,4 +163,4 @@ _last updated: 03-17-2025_
   - Obtain Veteran contact information (Name, Phone number)
   - Send the Veteran contact information via secure, encrypted email (from va.gov email address) to VHAHECEEDAdministrators@va.gov
   - Explain what has happened (submission failure) and provide the Veteran contact info.
-  - Copy PO (Patrick Bateman) and PMs (Alex Seelig and Heather Justice - VA emails only)
+  - Copy PO and PMs (VA emails only)
