@@ -18,7 +18,7 @@ Iteration of the current 'Your VA benefit letters and documents' page
 
 `Product Brief`
 
-**[Link to product brief](url goes here).**
+[Link to product brief](products/benefit-letters/2025-06-design-intent.md)
 
 </details>
 
