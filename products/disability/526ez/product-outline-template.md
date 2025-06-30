@@ -1,4 +1,3 @@
-
 # Product Outline Template
 *Iterating on a product? Have a new feature? Check out the [Initiative Brief Template.](https://bit.ly/initiative-brief-template)*
 
@@ -79,7 +78,9 @@ _What are the measurable targets you're aiming for that delivers value for Veter
   - integration for ML model of contention classification into expanded contention classification api
   - This is the existing API endpoint that vets-api uses to match contention classification 
 - *Why this solution / approach over other solutions / approaches?*
-  - Existing API and ML Model from AI team 
+  - This does not change the existing API and its handling of processing
+  - From AI team, the AI model ONNX file contains potential PII and PHI in a S3 bucket that is only accessible for this process
+    - This reduces the risk of PII/PHI from being accessible if any data is available from reverse engineering 
 - *What have you explicitly decided to not include in this initial set of functionality, and why?*
   - AWS RDS or Aurora because of issues converting ONNX file into (No)SQL data 
 - *How will the solution / approach evolve after this initial build (knowing that this will likely change as you learn from users along the way)?*
