@@ -139,8 +139,8 @@ Where will you be holding the research sessions? Be sure to include whether this
 ## Research materials 📔
 
 **For moderated usability tests:** 
-- [Link to conversation guide]([url goes here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md))
-- [Link to prototype]([url goes here](https://www.figma.com/proto/tJhSwyQorlgdVPC2UKx1fQ/WIP---21P-0969-Pension-or-DIC-Income-and-asset-statement?page-id=2683%3A84049&node-id=2725-98727&p=f&viewport=340%2C264%2C0.02&t=71qwjH9eCo2HlUI0-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2725%3A98727&show-proto-sidebar=1))
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)
+- [Link to prototype](https://www.figma.com/proto/tJhSwyQorlgdVPC2UKx1fQ/WIP---21P-0969-Pension-or-DIC-Income-and-asset-statement?page-id=2683%3A84049&node-id=2725-98727&p=f&viewport=340%2C264%2C0.02&t=71qwjH9eCo2HlUI0-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=2725%3A98727&show-proto-sidebar=1)
 	
 ## Recruitment 🎯	
 *OCTO works with Perigean, a small business, to handle the [recruitment](https://veteranusability.us/), scheduling, and compensation of Veterans and caregivers.*
