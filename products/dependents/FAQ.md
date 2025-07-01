@@ -140,7 +140,7 @@
 <details>
 <summary>Does a dependent parent need to live with the Veteran to be eligible to claim as a dependent?</summary>
  
-  - The relationship to the Veteran and financial need are the only consideraions.
+  - No --> The relationship to the Veteran and financial need are the only consideraions.
  
   [Source: Kevin Schneider 5/25/25](https://dsva.slack.com/archives/C0547Q0K0LF/p1748010216569389?thread_ts=1747326863.342889&cid=C0547Q0K0LF)
 </details>
@@ -148,7 +148,7 @@
 <details>
 <summary>Can more than one child claim a parent on their disability or pension benefits??</summary>
  
-  - The relationship to the Veteran and financial need are the only consideraions.
+  - Yes --> The relationship to the Veteran and financial need are the only consideraions.
  
   [Source: Kevin Schneider 5/25/25](https://dsva.slack.com/docs/T03FECE8V/F08UBCMQ5GQ?focus_section_id=temp:C:FNHe5c254e9532c42d1a52cdf84d)
 </details>
