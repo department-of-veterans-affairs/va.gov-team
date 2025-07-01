@@ -176,7 +176,7 @@ Without clicking on anything. I’d like you to take a look at the information o
  - What information do you think you’d need in order to fill out this form?
  - Do you have all that information on hand, or would you need to pause to find it if you were really submitting a claim today?
  - Without clicking anything, do you know how to start this form without a VA.gov account? Can you show me?
- - On a scale of 1-5 (with 1 being poorly and 5 being very well) - how prepared do you feel to a claim based on this page's content? Why did you give it that rating?
+ - On a scale of 1-5 (with 1 being poorly and 5 being very well) - how prepared do you feel to file a claim based on this page's content? Why did you give it that rating?
 
 > Things to watch for:
 >  - [Does the participant read through the documentation required to submit a claim?]
@@ -225,8 +225,10 @@ You can continue entering information until you reach section 4. I’ll let you 
 
  - Before you upload anything, what documentation are you being asked for here?
  - Do you understand what needs to be included on the document?
- - I can provide a document for you to upload, or you can choose a random document from your desktop.
-   - If providing document, use [sample-billing-statement] or [sample-EOB] depending on the page
+ - I'll provide a document for you to upload here. I'm dropping it in the chat now.
+   - *Use [sample-billing-statement] or [sample-EOB] depending on the page*
+   - If you hover over the file, you should see three dots you can click on and choose download.
+   - When you're ready, please upload that file in the form.
  - [while waiting for scan to complete] 
    - Do you understand why the upload might be taking a little longer?
  - [error message] 
@@ -249,7 +251,7 @@ You can continue entering information until you reach section 4. I’ll let you 
 ### Review & Submit
  - Without clicking submit, review your CHAMPVA claim.
  - If you accidentally input some information wrong, say your family member's name, how would you fix that?
- - Without clicking anything, if you submitted the form, what do you expect to happen next?
+ - Without clicking anything, if you submitted the form, what would you expect to happen next?
  - How soon do you expect to be notified about your claim?
  - You won't be able to submit the application in this test form, so you can stop here, and we just have a few more questions for this task.
 
@@ -261,9 +263,9 @@ On a scale of 1-5 (with 1 being very hard and 5 being very easy) - how difficult
 
 ## Second Task: Sendback Letter - 5-10 minutes
 
-For this task, I’m going to ask you to stop screen sharing for a moment. I will share my screen and show you a letter that you received from CHAMPVA regarding a claim you filed. 
+For this task, I’m going to provide you with another link that I'd like you to open in a new tab on the same browser. This will be a letter that you received from CHAMPVA regarding a claim you filed. 
 
-*[share screen and show participant the sample sendback letter]*
+*[provide Figma link to sample sendback letter]*
 
 ### Letter
  - Please read through this letter carefully and pretend it’s about a claim [you/your spouse] previously submitted. Let me know when you’re done reading.
@@ -273,7 +275,7 @@ For this task, I’m going to ask you to stop screen sharing for a moment. I wil
 
 #### Participant rating
  - On a scale of 1-5 (with 1 being poorly and 5 being very well) - how well does this letter **explain** what you need to do in order to resolve the problem with your CHAMPVA claim?
- -  - On a scale of 1-5 (with 1 being poorly and 5 being very well) - how **prepared** do you feel to a claim based on this page's content? Why did you give it that rating?
+ - On a scale of 1-5 (with 1 being poorly and 5 being very well) - how **prepared** do you feel to resolve this claim based on this letter's content? Why did you give it that rating?
 
 > Things to watch for:
 >  - [Does the participant think they need to call CHAMPVA for more information?]
@@ -282,15 +284,11 @@ For this task, I’m going to ask you to stop screen sharing for a moment. I wil
 
 ## Third Task: Resubmission - 15 minutes
 
-For this task, I’m going to ask you to share you screen again. I will drop a link in the chat to open in your browser. 
-
-[Share link to form]
-
 ### Claims form
- - We’re going to go back to the Claims form, but we won’t use the form you already started.
+ - We’re going to go back to the Claims form, but we aren't going to use the form you already started.
  - Please click the link I sent you at the beginning of this call to open a new window. 
    - I can drop the link in the chat again if you need it.
-   - If you need to stop sharing for a moment, that’s fine. Please share your screen again when you’re ready.
+   - *[provide link to form]*
 
 ### Intro page
  - This is the form we used before.
@@ -361,7 +359,7 @@ Now I'd like you to go through this form as if you are resubmitting the claim [y
  - Without clicking anything, if you submitted the form, what do you expect to happen next?
  - Would you expect any difference in processing or response time with a resubmission?
 
-You won't be able to submit the application in this test form, so you can stop screen sharing now. We have just a few more questions for you before we end the call.
+You won't be able to submit the claim in this test form, so you can stop screen sharing now. We have just a few more questions for you before we end the call.
 
 ### After completing the task: 
 #### Participant rating:
