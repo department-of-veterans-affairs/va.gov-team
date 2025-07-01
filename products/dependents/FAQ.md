@@ -150,9 +150,26 @@
 <details>
 <summary>Does the Veteran have to wait until their child is 18 to submit a 674?</summary>
   
-  - No. The VA's practice is to accept school aged child 90 days prior to 18th birthday
+  - No. The VA's practice is to accept school aged child 90 days prior to 18th birthday.
 
   [Source: Kevin Schneider 5/15/25](https://dsva.slack.com/docs/T03FECE8V/F08UBCMQ5GQ?focus_section_id=temp:C:FNHd9f38027b424457b993e86682)
+</details>
+
+<details>
+<summary>Does a student need to be in school full time to qualify as a dependent?</summary>
+  
+  - No. There is no longer a time requirement to qualify as a school child. Any schooling hours qualify.
+
+  Source: David Reis (Teams message) 6/30/25
+</details>
+
+<details>
+<summary>Is attending an accredited school required to receive 674-related benefits?</summary>
+  
+  - Non-accredited schools (e.g., home schooling) are allowed up to 12th grade but not allowed past the 12th grade.
+  - The name of the school is no longer required on the 674 pdf (as of the Oct 2021 pdf).
+
+  Source: David Reis (Teams message) 6/30/25
 </details>
 
 ## Verification
