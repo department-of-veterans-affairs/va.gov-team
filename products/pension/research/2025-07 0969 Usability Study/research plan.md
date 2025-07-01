@@ -85,6 +85,7 @@ Are there moments that matter?</summary>
 **`3.`Do they understand what the form will ask of them before proceeding?**
 
 
+
 *Evaluate Interaction with the “List and Loop” Model for Income and Assets*
 
 **`4.`Do users understand they are entering individual items into a repeatable list structure?**
@@ -94,6 +95,7 @@ Are there moments that matter?</summary>
 **`6.`Do users clearly understand how to add income for multiple recipients and why certain inputs (like "Spouse name") reappear?**
 
 **`7.`Are any expected income types hard to categorize or missing altogether?**
+
 
 
 *Test Clarity of Labels, Categorization, and Task Completion Across Steps*
