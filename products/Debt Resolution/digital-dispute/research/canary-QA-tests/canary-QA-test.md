@@ -3,7 +3,7 @@
 
 **Objective**
 
-The team is hosting canary/QA tests with Veterans who have active VBA overpayment debts. 
+The team is hosting canary/QA tests of the Digital Dispute Form with Veterans who have active VBA overpayment debts. 
 
 These tests will allow our researchers, designers, and engineers to preview the environment before it goes live. 
 
