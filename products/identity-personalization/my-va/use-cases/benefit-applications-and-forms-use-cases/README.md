@@ -48,14 +48,7 @@
 - **Format:** [Card component](https://design.va.gov/components/card)
 - [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5077-16011&t=KhCgIDPMpZ6FClDG-1)
 - [Link to code](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/engineering-docs/frontend/benefit-applications-and-forms.md)
-- **Content:**
-
-   - Status
-   - Application title
-   - Form number
-   - Application expiration date
-   - Last saved one date
-   - Link: Continue application
+- **Content:** See designs
 
 </details>
 
@@ -69,16 +62,7 @@
 - **Format:** [Card component](https://design.va.gov/components/card)
 - [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5077-16246&t=KhCgIDPMpZ6FClDG-1)
 - [Link to code](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/engineering-docs/frontend/benefit-applications-and-forms.md)
-- **Content:**
-
-   - Current step in the submission process (Submission in progress, Received, or Action needed)
-   - Application name
-   - Form code
-   - Submitted on date
-   - Received on date
-   - IF applicable: Next steps
-   - VA contact information
-   - IF action needed: An error alert
+- **Content:** See designs
 
 </details>
 
@@ -92,18 +76,7 @@
 - **Format:** [Card component](https://design.va.gov/components/card)
 - [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5077-16327&t=vSC00tzVjcFZ2rHY-1)
 - [Link to code](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/engineering-docs/frontend/benefit-applications-and-forms.md)
-- **Content:**
-
-   - Current step in the submission process (Submission in progress, Received, or Action needed)
-   - Application name
-   - Form code
-   - PDF download button
-   - Submitted on date
-   - Received on date
-   - Download available until date
-   - IF applicable: Next steps
-   - VA contact information
-   - IF action needed: An error alert
+- **Content:** See designs
 
 </details>
 
