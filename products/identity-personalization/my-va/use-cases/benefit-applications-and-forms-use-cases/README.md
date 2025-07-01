@@ -43,7 +43,7 @@
 
 <details><summary>User has a benefit application or form draft saved but not yet submitted</summary>
 
-- **Use case:** When a user has a benefit application draft saved in progress, they will see a card in this section that tells them the form number, application type, an expiration date for the application, the date that they last saved it, and a link to continue the application.
+- **Use case:** When a user has a benefit application draft saved in progress, the card appears in the in-progress section.
 - **Status code:** TBD
 - **Format:** [Card component](https://design.va.gov/components/card)
 - [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5077-16011&t=KhCgIDPMpZ6FClDG-1)
@@ -62,7 +62,9 @@
 
 <details><summary>User has submitted a benefit application and/or form not on LH BI API</summary>
 
-- **Use case:** When a user has submitted a supported application or form **not** on Lighthouse Benefits Intake API, they will see a card that provides submission information and errors in cases of action is needed. Cards only stay for 60 days then are removed from My VA. PDFs do not show.
+- **Use case:** When a user has submitted a supported application or form **not** on Lighthouse Benefits Intake API they will see a card.
+   - Submission in progress and Received statuses appear in the Completed forms section.
+   - Action needed statuses appear in the In-progress section.
 - **Status code:** TBD
 - **Format:** [Card component](https://design.va.gov/components/card)
 - [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5077-16246&t=KhCgIDPMpZ6FClDG-1)
@@ -83,7 +85,9 @@
 
 <details><summary>User has submitted a benefit application and/or form on LH BI API</summary>
 
-- **Use case:** When a user has submitted a supported application or form on the Lighthouse Benefits Intake API, they will see a card that provides submission information, a downloadable PDF, and errors in cases of action is needed. Cards only stay for 60 days then are removed from My VA.
+- **Use case:** When a user has submitted a supported application or form on the Lighthouse Benefits Intake API, they will see a card.
+   - Submission in progress and Received statuses appear in the Completed forms section.
+   - Action needed statuses appear in the In-progress section.
 - **Status code:** TBD
 - **Format:** [Card component](https://design.va.gov/components/card)
 - [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5077-16327&t=vSC00tzVjcFZ2rHY-1)
