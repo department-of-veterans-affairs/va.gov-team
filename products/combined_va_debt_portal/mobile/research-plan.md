@@ -109,7 +109,7 @@ Veterans currently manage their debt and copayments on VA.gov; this will be a ne
 `11.` How do users feel about having no option to pay their debt or bills through the app?  
 `12.` How do users feel about leaving the app to pay their debt through pay.va.gov?  
 `13.` How do users feel about leaving the app to pay their bills through pay.gov?  
-`14.` Are users comfortable signing in to a new site and copying/pasting information from the app to complete a payment?  
+`14.` Are users comfortable navigating to a new site and copying/pasting information from the app to complete a payment?  
 `15.` How do users feel about being redirected to VA.gov to complete actions like requesting help or disputing a debt?  
 
 **Prioritize features for the minimum viable product (MVP) that will handle overpayments and copayments in the app.**
@@ -124,7 +124,7 @@ Veterans currently manage their debt and copayments on VA.gov; this will be a ne
 - Veterans will appreciate the overview of money owed from overpayment debts and copays.
 - Veterans will find the details of each payment owed clear.
 - Veterans will find navigation confusing when redirected out of the app to complete tasks.
-- Veterans will be frustrated by having to log in to another site to make payments.
+- Veterans will be frustrated by having to copy and paste information in another site to make payments.
 - PDF copay statements will not be useful.
 - Veterans will find the help pages overwhelming with too much information.
 
