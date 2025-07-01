@@ -76,7 +76,7 @@ Are there moments that matter?</summary>
 
 ### Research questions
 
-Assess Initial Comprehension and Mental Load
+*Assess Initial Comprehension and Mental Load*
 
 **`1.`Do users feel overwhelmed by the introduction page content?**
 
@@ -84,7 +84,8 @@ Assess Initial Comprehension and Mental Load
 
 **`3.`Do they understand what the form will ask of them before proceeding?**
 
-Evaluate Interaction with the “List and Loop” Model for Income and Assets
+
+*Evaluate Interaction with the “List and Loop” Model for Income and Assets*
 
 **`4.`Do users understand they are entering individual items into a repeatable list structure?**
 
@@ -94,7 +95,8 @@ Evaluate Interaction with the “List and Loop” Model for Income and Assets
 
 **`7.`Are any expected income types hard to categorize or missing altogether?**
 
-Test Clarity of Labels, Categorization, and Task Completion Across Steps
+
+*Test Clarity of Labels, Categorization, and Task Completion Across Steps*
 
 **`8.`Are income and asset categories labeled clearly and understood correctly?**
 
