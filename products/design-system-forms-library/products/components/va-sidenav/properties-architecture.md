@@ -138,8 +138,6 @@ Example of composability:
 
 The markup that composes the sidebar should try to follow a `nav > ul > li` structure but if there are limitations with web component composability (ie. not possible to have direct `ul > li` descendants), we may need to use a `nav > a` structure instead. See: [MDN nav element examples](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav#examples)
 
-This markup is also using aria-labelledby for labeling the nav region as demonstrated in this [W3C Page Structure Tutorial](https://www.w3.org/WAI/tutorials/page-structure/).
-
 **va-sidenav**
 
 ```jsx
