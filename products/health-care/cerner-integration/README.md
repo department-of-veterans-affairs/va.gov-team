@@ -20,6 +20,7 @@ This is a folder for the Cerner integration work.
 - [App set up Instructions](https://engineering.cerner.com/smart-on-fhir-tutorial/)
 - [Oracle Health Code Console ](https://code-console.cerner.com/)
 - [Developer Resources](https://www.oracle.com/health/developer/program/#tools)
+- [Developer Forum](https://forums.oracle.com/ords/apexds/domain/open-developer-experience)
 - Front end (needs Oracle Health consultant to grant access): C1941 https://cernabcn.cernerworks.com/Citrix/ProdWeb/
 
 # Cerner Environments
