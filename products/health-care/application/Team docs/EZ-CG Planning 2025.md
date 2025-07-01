@@ -12,12 +12,11 @@
 - [#111103](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111103) - [BE] Tech exploration of BDS API
 
 #### Obj: EZ [Improvements/BUGS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
-- [#103446](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103446) - [BE] In-progress Notification failures investigation (CARRIED)
 - [#94276](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94276) - [BE] Ceanup of checkbox for minimum essential coverage on Facility screen
 - [#111096](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111096) - [FE] Future Discharge Date GA4 event fix
 
 #### Obj: EZ [Form Statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95313)
-- PM working on this - In progress 
+- [#105833](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105833) - [Eng] Discovery on how we can confidently refer "pending" Veterans to EZR
 
 ## 
 ### 10-10CG
