@@ -209,7 +209,6 @@ Have you ever applied for or received a Veterans Pension benefit? (This is diffe
 - `Suggested dates and times:` **Anytime on 07/09 between 02:00 and 04:00 pm Eastern**
 
 ### Prepare
-*When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).*
 
 **A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.** 
 
