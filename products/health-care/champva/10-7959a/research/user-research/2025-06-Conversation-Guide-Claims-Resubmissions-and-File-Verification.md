@@ -341,12 +341,10 @@ Now I'd like you to go through this form as if you are resubmitting the claim [y
    - How important is it to you that the file is scanned for verification?
    - Do you think you would need to upload anything else? 
  - How would you upload another file?
-
-**Participant rating** (Before repeating the loop or moving to the next task)
-- Based on your experience uploading supporting files for your claim today, do you prefer the file verification or would you prefer no file verification? Why/why not?
-- On a scale of 1 to 5, with 1 being very hard and 5 being very easy, how difficult or easy was it to upload files to support your CHAMPVA claim?
-
  - We can continue without the other uploads for this test.
+
+**Participant rating** 
+- On a scale of 1 to 5, with 1 being very hard and 5 being very easy, how difficult or easy was it to find and provide information related to your previous CHAMPVA claim?
 
 > Things to watch for:
 >  - [Does the participant realize they would need to upload both a new document and the original documents?]
