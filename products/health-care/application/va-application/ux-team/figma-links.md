@@ -2,7 +2,22 @@
 
 Purpose: A place to put all links by product to design pages/files/prototypes by ticket - including items in Archive.
 
+
+## Source of truth
+
+  
+| Form  | Link  |
+|-----------------------------------------------------------|-----------------| 
+| 10-10EZ  | [Figma link](https://www.figma.com/design/W1cs6Gjx3MR5VU0EjurHLZ/10-10EZ-Production?node-id=0-1&t=cknMS2j1DvuifgUw-1) |
+| 10-10EZR  | [Figma link](URL) | 
+| 10-10CG  | [Figma link](https://www.figma.com/design/ZLGXh1HFssRudTJeX190Zg/10-10CG---Production-File?node-id=0-1&p=f&t=kIGzGs4cX2BvA7Ki-0) | 
+
+
+## Working Files
+
+
 <details>
+
 
 <summary>10-10EZ Links</summary>
 
@@ -98,5 +113,13 @@ Purpose: A place to put all links by product to design pages/files/prototypes by
 | Link description | Form | Ticket number | Figma Link |
 |-----------------------------------------------------------|-----------------|-----------------|-----------------| 
 | 1010EZR Archive | 10-10EZR | None | [Figma designs](https://www.figma.com/design/qDznQyhF41iq4vcWlsdufd/10-10EZR-%5BARCHIVE%5D?node-id=0-1&t=TC9Lv8q2PUg6ZCvo-1) |
+
+</details>
+
+<summary>10-10ECG Link</summary>
+
+| Link description | Form | Ticket number | Figma Link |
+|-----------------------------------------------------------|-----------------|-----------------|-----------------| 
+| 1010CG Archive | 10-10CG | None | [Figma file](https://www.figma.com/design/z4ZzdVvDIEgZxc0D5BOSVs/10-10CG---Archive-File?node-id=0-1&p=f&t=QCoWeW5rfbeFypuN-0) |
 
 </details>

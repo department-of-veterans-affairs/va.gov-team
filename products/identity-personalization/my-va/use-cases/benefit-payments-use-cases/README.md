@@ -77,7 +77,7 @@ There are no flags with this feature.
 - [Link to code]
 - **Content:**
 
-We can’t access your payment history right now. We’re working to fix this problem. Please check back later.
+We can’t show your payment history right now. Refresh this page or try again later.
 
 </details>
 

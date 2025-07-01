@@ -4,10 +4,12 @@ The process for reporting inaccurate location information depends on the type of
 
 Jump to:
 
-* [Addresses, phone numbers, hours, map thumbnails &#8595; ]([#addresses-phone-numbers-hours-map-thumbnails)
-* [Services &#8595; ](#services)
-* [Facility status &#8595; ](#facility-status)
-* [Facility & CMS Team workflows](#facilities--cms-team-workflows)
+* [&#8595; Facility source of truth](facility-source-of-truth)
+* [&#8595; VHA Medical Centers and Clinic data  ]([#vha-medical-centers-and-clinics)
+* [&#8595; Vet Centers, Vet Center Outstations, and Community Access Points](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/reporting-inaccurate-data.md#vet-centers-vet-center-outstations-and-community-access-points)
+* [&#8595; VBA Regional Offices, Satellite Offices, VetSuccess on Campus, IDES sites, Veteran Readiness & Employment offices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/reporting-inaccurate-data.md#vba-regional-offices-satellite-offices-vetsuccess-on-campus-ides-sites-veteran-readiness--employment-offices)
+* [&#8595; NCA Cemeteries](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/reporting-inaccurate-data.md#nca-cemeteries)
+* [&#8595; Community care providers and pharmacies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/facilities/facility-locator/reporting-inaccurate-data.md#community-care-providers-and-pharmacies)
 
 ## Facility souce of truth
 
@@ -21,74 +23,40 @@ Jump to:
 | NCA - state cemeteries | NCA XML file |
 | Community care providers and pharmacies (usually non-VA facilities)	| PPMS 
 
-## Addresses, phone numbers, hours, map thumbnails
+## VHA Medical Centers and Clinics
+|	Change needed | Process
+| ---	|	--- | 
+| New or closing facility |  Editor needs to contact VAST coordinator and request change to information in VAST | 
+| Facility name, address, main phone number, or hours |  Editor needs to contact VAST coordinator and request change to information in VAST | 
+| Mental health phone number | Contact the CMS help desk (support@va-gov.atlassian.net) who can assist in routing this to VHA Digital Media and the proper web editor who can make this update in Drupal: [How to add or edit a VAMC facility mental health phone number](https://prod.cms.va.gov/help/vamc/how-to-add-or-edit-a-vamc-facility-mental-health-phone-number) | 
+| Map thumbnail | Email the name of the facility and scenario to Lighthouse at api@va.gov. | 
+| Patient Satisfaction and Wait Time Data	| Contact Lighthouse team
+| System or facility service 	| Contact the CMS help desk (support@va-gov.atlassian.net) who can assist in routing this to VHA Digital Media and the proper web editor who can make this update in Drupal: [How to add, edit, or remove a VAMC facility health service](https://prod.cms.va.gov/help/vamc/how-to-add-edit-or-remove-a-vamc-facility-health-service)
+ | Caregiver Services | Association with this service in the Facility Locator relies on the Caregiver Records Management Application (CARMA) as the source of truth. Contact LH to resolve discrepancies outside of Drupal </li></ul> 
+| Operating status | Contact the CMS help desk (support@va-gov.atlassian.net) who can assist in routing this to VHA Digital Media and the proper web editor
 
-Facility type	|	Process
----	|	---
-VHA Medical Centers | Email the name of the facility and the missing or inaccurate detail to Lighthouse at api@va.gov.
-VHA Clinics | Email the name of the facility and the missing or inaccurate detail to Lighthouse at api@va.gov.
-Vet Centers | Email the name of the facility and the missing or inaccurate detail to Lighthouse at api@va.gov.
-Vet Center Outstations | Email the name of the facility and the missing or inaccurate detail to Lighthouse at api@va.gov.
-Vet Centers Community Access Point  | Contact the CMS help desk (support@va-gov.atlassian.net) 
-NCA Cemeteries | Email the name of the facility and the missing or inaccurate detail to NCA through the task tracker at OEMI Digital Services Task Tracker. Email ncawebservices@va.gov for their awareness, and please copy Michelle Middaugh, VA Product Owner at suzanne.middaugh@va.gov
-VBA Regional Offices, Satellite Offices, VetSuccess on Campus, IDES sites, Veteran Readiness & Employment offices  | 	Contact Michelle Middaugh (email: suzanne.middaugh@va.gov) on the DSVA #facilities-support channel  and send her the link to the ticket |
-Community care providers and pharmacies (usually non-VA facilities)	| PPMS - Email the name of the facility and the missing or inaccurate detail to VHAOCCPPMSPROJBUSPOCS@VA.GOV. Please copy Michelle Middaugh, VA Product Owner at suzanne.middaugh@va.gov
+## Vet Centers, Vet Center Outstations, and Community Access Points
+|	Facility type | Change needed | Process
+| ---	|	--- | --- | 
+Vet Center or Vet Center Outstation | New or closing location | Editor needs to initiate a Request to Change Vet Center Information form, linked from the [VAST Updates – Readjustment Counseling Service (RCS) page](https://vaww.vetcenter.va.gov/vast-updates/) (requires network connection)
+Vet Center or Vet Center Outstation | Facility name, address, main phone number, or hours | Editor needs to initiate a Request to Change Vet Center Information form, linked from the [VAST Updates – Readjustment Counseling Service (RCS) page](https://vaww.vetcenter.va.gov/vast-updates/) (requires network connection)
+Vet Center or Vet Center Outstation  | Map thumbnail | Email the name of the facility and scenario to Lighthouse at api@va.gov. | 
+Vet Center | Services 	| Editors can add and archive these in Drupal: [How to add or edit a Vet Center service](https://prod.cms.va.gov/help/vet-centers/how-to-edit-a-vet-center-service)
+Vet Centers Community Access Point  | Adding new, editing location details, or archiving | Editors can edit these in Drupal: [How to add, change, remove, or restore a community access point](https://prod.cms.va.gov/help/vet-centers/how-to-add-change-remove-or-restore-a-community-access-point)
+Vet Centers, Vet Center Outstations, and Community Access Points | operating status | Contact the CMS help desk (support@va-gov.atlassian.net) who can assist in routing this to RCS Central Office
 
- ## Services
- 
- Facility type	|	Process
----	|	---
-VHA Medical Centers | Contact the CMS help desk (support@va-gov.atlassian.net) and the sitewide-facilities team. They can assist in triaging this request. This may be a result of innacurate data in Lighthouse **or** inaccurate data provided by VAMC editors in the VAMC product
-VHA Clinics | Contact the CMS help desk (support@va-gov.atlassian.net) and the sitewide-facilities team. They can assist in triaging this request. This may be a result of inacurate data in Lighthouse **or** inaccurate data provided by VAMC editors in the VAMC product
-Vet Centers | Contact the CMS help desk (support@va-gov.atlassian.net) who can assist in routing this to RCS Central Office or the relevant editor
-Vet Center Outstations | N/A - Services are associated with the main Vet Center, not with the Outstation
-Vet Centers Community Access Point  | N/A - Services are associated with the main Vet Center, not with the Outstation
-NCA Cemeteries | N/A - No services are associated
-VBA Regional Offices, Satellite Offices, VetSuccess on Campus, IDES sites, Veteran Readiness & Employment offices  | 	Contact the VBA Web Team (WEBADMIN.VBACO@va.gov). Please copy Michelle Middaugh, VA Product Owner at suzanne.middaugh@va.gov
-Community care providers and pharmacies (usually non-VA facilities)	| Email the name of the facility and the missing or inaccurate detail to VHAOCCPPMSPROJBUSPOCS@VA.GOV. Please copy Michelle Middaugh, VA Product Owner at suzanne.middaugh@va.gov
- 
- ## Facility Status
- 
-  Facility type	|	Process
----	|	---
-VHA Medical Centers | Contact the CMS help desk (support@va-gov.atlassian.net) who can assist in routing this to VHA Digital Media and the proper web editor
-VHA Clinics | Contact the CMS help desk (support@va-gov.atlassian.net) who can assist in routing this to VHA Digital Media and the proper web editor
-Vet Centers | Contact the CMS help desk (support@va-gov.atlassian.net) who can assist in routing this to RCS Central Office
-Vet Center Outstations | Contact the CMS help desk (support@va-gov.atlassian.net) who can assist in routing this to RCS Central Office
-Vet Centers Community Access Point  | Contact the CMS help desk (support@va-gov.atlassian.net) who can assist in routing this to RCS Central Office
-NCA Cemeteries | Contact Lisa Hollenbeck (Lisa.Hollenbeck2@va.gov) in NCA 
-VBA Regional Offices, Satellite Offices, VetSuccess on Campus, IDES sites, Veteran Readiness & Employment offices  | 	Contact the VBA Web Team (WEBADMIN.VBACO@va.gov)
-Community care providers and pharmacies (usually non-VA facilities)	| N/A
-Vet Centers Community Access Point  | N/A
+## VBA Regional Offices, Satellite Offices, VetSuccess on Campus, IDES sites, Veteran Readiness & Employment offices 
 
+| Change needed | Process
+| ---	|	--- |
+| Location name, address, phone, or hours | Contact Michelle Middaugh (email: suzanne.middaugh@va.gov) or #facilities-support channel |
+| Location services  | Contact Michelle Middaugh (email: suzanne.middaugh@va.gov) or #facilities-support channel |
+| Operating status | Contact the VBA Web Team (WEBADMIN.VBACO@va.gov) |
 
-## Facilities & CMS Team workflows
+## NCA Cemeteries  
 
-### Facilities team
-If a discrepancy about a facility or service is reported, confirm whether the location is a VA health facility or community provider. 
-- If it is related to a VA health facility, report to VHA DM. 
-- If it is a community provider, follow the steps specified in 
+Email the name of the facility and the missing or inaccurate detail to NCA through the task tracker at OEMI Digital Services Task Tracker. Email ncawebservices@va.gov for their awareness, copy Michelle Middaugh, VA Product Owner at suzanne.middaugh@va.gov
 
-Facility type	| Service |	Notes & Process
----	|	--- | ---
-VHA Medical Centers | <ul><li> Audiology </li><li> Cardiology </li><li> Dermatology </li><li> Gastroenterology </li><li> Gynecology </li><li> Mental Health Care </li><li> Ophthalmology </li><li> Optometry </li><li> Orthopedics </li><li> Primary Care </li><li> Urology </li><li> Womens Health </li></ul> | <ul><li> A facility can indicate the availability of any of these services by adding or removing the service from the facility in Drupal. </li><li> If the service is not associated with the facility in Drupal, then the association exists with Access to Care (ATC)<sup>[1]</sup>. The ATC association between a service and facility will automatically dissolve if the billing code has not been used in the last 30 days. </li></ul>
-VHA Medical Centers| <ul><li> Urgent care (UC) </li><li> Emergency care (ED)  </li></ul> | <ul><li>  A facility can indicate the availability of either service by adding or removing the service from the facility in Drupal.  </li><li> If the service is not associated with the facility in Drupal, then the association exists with ATC and LH must reach out to ATC to request a manual change to remove the service from the facility if the relationship is not valid. Unlike the above services, they are **not** auto-removed. <sup>[2]</sup> </li></ul>
-VHA Medical Centers| <ul><li> Dental Services </li><li> Nutrition </li><li> Podiatry </li></ul> | T<ul><li>  A facility can indicate the availability of any of these services by adding or removing the service from the facility in Drupal.  </li><li> If the service is not associated with the facility in Drupal, then the association exists the DST table in CDW. </li><li> These should be auto-updating but discrepancies in these services  should be reported to LH. [TBD]. 
-VHA Medical Centers| Caregiver Services | <ul><li> A facility can indicate the availability of caregiver servicces by adding or removing the service from the facility in Drupal. </li><li> The LH API source of truth for Caregiver services is an internal service and ultimately Caregiver Records Management Application (CARMA)<sup>[3]</sup>.Contact LH to resolve discrepancies outside of Drupal </li></ul> 
+## Community care providers and pharmacies 
 
-<sup>[1]</sup> Access to Care associates facilities with services through billing codes. 
-
-<sup>[2]</sup> [LH Slack explainer thread](https://dsva.slack.com/archives/C02BTJTDFTN/p1718720223648529).
-
-<sup>[3]</sup> Because of downstream dependencies, Drupal cannot be the source of truth for Caregiver services. Changing the process could result in depays in processing for caregiver program applications. 
-
-
-### Helpdesk (CMS Team)
-If a discrepancy about a facility or service is reported, confirm whether the location is a VA health facility or community provider. 
-- If it is a community provider, see the Services process for [Community care providers and pharmacies](#services) 
-- If Helpdesk (CMS team) learns about any incorrect Facility data in context of Editor contact, follow the steps as above.
-
-If Editors haven’t taken action after CMS Team suggests next steps, CMS team should contact Facilities team to escalate to VHA DM team. Create a post in DSVA Slack, #facilities-support, and include the following:
- * Identify which facility needs Editor action (provide a link)
- * Ask for escalation to VHA DM
- * Tag Facilities DM & PM, and cc: CMS Team DM & PM
+Email the name of the facility and the missing or inaccurate detail to VHAOCCPPMSPROJBUSPOCS@VA.GOV. Please copy Michelle Middaugh, VA Product Owner at suzanne.middaugh@va.gov

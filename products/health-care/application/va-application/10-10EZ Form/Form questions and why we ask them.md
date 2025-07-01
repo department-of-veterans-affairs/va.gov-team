@@ -136,6 +136,7 @@ Below is a chart of all the 10-10EZ form questions, why we ask them and a resour
 |Household-Spouse| Middle name|N| N |**TBD** | **TBD**|
 |Household-Spouse| Last name|Y| N |**TBD** | **TBD**|
 |Household-Spouse| suffix|N| N |**TBD** | **TBD**|
+|Household-Spouse| SSN|Y| N |**TBD** | **TBD**|
 |Household-Spouse| Date of birth|Y| N | **TBD** | **TBD**|
 |Household-Spouse| Date of marriage|Y| N | **TBD** | **TBD**|
 |Household-Spouse|Did you live with your spouse for all or part of 2023?|Y| N | Determine whether the Spouse is a dependent in the previous year, which can have an impact on income thresholds and copays | **TBD**|

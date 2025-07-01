@@ -104,7 +104,7 @@ Before we look at the prototype, let’s start with a few warm-up questions.
 
 **[Marital Status]**
 
-- Okay, lets pause right here.  If you are no longer married, what do you expect to happen when you choose one of the other status?
+- (Optional Question) Okay, lets pause right here.  If you are no longer married, what do you expect to happen when you choose one of the other status?
 
 **[Spouse Information]**
 
@@ -118,7 +118,7 @@ Before we look at the prototype, let’s start with a few warm-up questions.
 
 **[Veteran Income]**
 
-- For this section, I will give you a the financial information that you’ll need.
+- For this section, I will give you the financial information that you’ll need.
 
 - For this scenario, you and your spouse’s work and salary has not changed from 2023 to 2024.
 

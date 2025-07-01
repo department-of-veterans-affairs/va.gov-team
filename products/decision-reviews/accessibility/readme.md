@@ -4,6 +4,10 @@ This documentation covers accessibility-related efforts for Decision Reviews.
 
 The [Benefits Management Tools and Decision Reviews Accessibility Work project board](https://github.com/orgs/department-of-veterans-affairs/projects/1255/views/1) contains tickets from team backlogs and the active accessibility work by the embedded accessibility specialist.
 
+## Requesting Accessibility Support
+
+If you are a team member looking for accessibility support, please submit a ticket using the [A11y Support Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/accessibility/a11y-support-template.md)
+
 ## Open A11y Issues Quick Links
 - [Notice of Disagreement](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue%20is%3Aopen%20label%3Aaccessibility%20label%3ANOD)
 - [Supplemental Claims](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue%20is%3Aopen%20label%3Aaccessibility%20label%3ASC)
@@ -28,8 +32,15 @@ The [Benefits Management Tools and Decision Reviews Accessibility Work project b
 - Before that, the last substantial audit took place in [May, 2024](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82890) and [December, 2021](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34244). 
 
 ## Accessibility Annotations
-- 5/2025 Supplemental Claims - [4142 Updated Legalese inside of accordions open on page load](https://www.figma.com/design/2LGebZcUuu5Iqh4QLPII6A/Supplemental-Claims--VA-0995-?node-id=5090-17576&t=SIUE1pTEZTp7ekrZ-0)
+- 5/2025 Supplemental Claims - [4142 Updated Legalese inside of accordions open on page load](https://www.figma.com/design/2LGebZcUuu5Iqh4QLPII6A/Supplemental-Claims--VA-0995-?node-id=4891-10005&t=a8rkT4S78uwU5QDd-0)
 
+## Accessibility 101 Trainings
+Previous:
+- 6/26/2025 A11y 101: Screenreaders part 1 video & slides
+  - 40 minute session on screenreader basics. Led by @bacitracin
+ 
+Upcoming:
+- 7/16/2025 A11y 101: Keyboard Navigation
 
 ## Resources
 

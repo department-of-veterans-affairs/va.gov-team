@@ -14,13 +14,18 @@ and have the necessary information to address problems quickly.  To accomplish i
 
 ## Monitors
 
-- [VAOS Vets API Endpoint Error Rate - Community Care Appointment Create](https://vagov.ddog-gov.com/monitors/382190)
+- [VAOS Vets API Endpoint Error Rate - Community Care Referrals Fetch](https://vagov.ddog-gov.com/monitors/384297)
+- [VAOS Vets API Endpoint Error Rate - Community Care Referral Fetch](https://vagov.ddog-gov.com/monitors/384298)
 - [VAOS Vets API Endpoint Error Rate - Community Care Draft Create](https://vagov.ddog-gov.com/monitors/382158)
+- [VAOS Vets API Endpoint Error Rate - Community Care Appointment Create](https://vagov.ddog-gov.com/monitors/382190)
+- [VAOS Vets API Endpoint Error Rate - Community Care Appointment Status Check](https://vagov.ddog-gov.com/monitors/384196)
+- [VAOS Vets API Endpoint Error Rate - Community Care Appointments Fetch](https://vagov.ddog-gov.com/monitors/384560)
 
 ## Process expectations
 
-For issues and investigations follow the [Incident Response Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/engineering/production-support.md)
+For issues and investigations follow the [Production Support Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/zero-failures/production-support-playbook.md)
 
 ## Watch Officer (watchtower) Process
 
-TBD
+- [ ] Determine which monitors whatchtower should be notified on
+- [x] Using the silent failure metric in the notificaiton job for failed scheduled appointments in the event of a timeout.

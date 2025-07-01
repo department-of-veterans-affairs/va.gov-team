@@ -1,8 +1,8 @@
-# Military Information Use Cases
+# Military information Use Cases
 **Last updated: June 2025**
 
-- [User flow](https://www.figma.com/design/zb5ecY9yMnupiLjaH9UmSc/Profile---Military-Information?node-id=609-2756&t=fxhpoB08Vs0FbcNc-1)
-- [Figma files](https://www.figma.com/design/zb5ecY9yMnupiLjaH9UmSc/Profile---Military-Information?node-id=609-2756&t=iU7vARDUjgIJkIfo-1)
+- [User flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1743514356361/b9db0c1c545d370a87fa396c6489e10b8cc9c862?sender=u36b374887f74c9a3de2d0750)
+- [Figma files](https://www.figma.com/design/zb5ecY9yMnupiLjaH9UmSc/Profile---Military-Information?node-id=1354-2142&t=kszpOjTMFVk1ha3H-1)
 - Test Rail QA
 
 <details><summary>Archive | How to reproduce in staging</summary>
@@ -27,6 +27,8 @@
 
 - **Use case:** User can see data points for all periods of service the VA can gather from their military records.
 - **Status code:** 200
+- **Format:** See designs
+- [Link to designs](https://www.figma.com/design/zb5ecY9yMnupiLjaH9UmSc/Profile---Military-Information?node-id=619-3324&t=iU7vARDUjgIJkIfo-1)
 - **Content:** The page includes the following information:
   - Period of service
     - Branch of service
@@ -34,10 +36,7 @@
     - Start and end dates
     - Additional info component: What if I don't think my military service information is correct?
   - Link component: Learn how to request your military service records
-  - Proof of Veteran status card: [product documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/veteran-status)
-- **Format:** See designs
-- [Link to designs](https://www.figma.com/design/zb5ecY9yMnupiLjaH9UmSc/Profile---Military-Information?node-id=619-3324&t=iU7vARDUjgIJkIfo-1)
-
+ 
 </details>
 
 
@@ -45,6 +44,9 @@
 
 - **Use case:** DEERS does not return a DoD ID or service history.
 - **Status code:** GET/SHOW 403
+- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
+- [Link to designs](https://www.figma.com/design/zb5ecY9yMnupiLjaH9UmSc/Profile---Military-Information?node-id=619-10743&t=iU7vARDUjgIJkIfo-1)
+- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/29f17e7e54f4b13149934df66d49cc886dedf1fb/src/applications/personalization/profile/components/military-information/MilitaryInformation.jsx#L45)
 - **Content:**
 
 H2: We can’t match your information to any military service records
@@ -57,10 +59,6 @@ If you think there might be a problem with your military service records, you ca
 
 [Learn how to correct your military service records on the National Archives website](https://www.archives.gov/veterans/military-service-records/correct-service-records.html)
 
-- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
-- [Link to designs](https://www.figma.com/design/zb5ecY9yMnupiLjaH9UmSc/Profile---Military-Information?node-id=619-10743&t=iU7vARDUjgIJkIfo-1)
-- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/29f17e7e54f4b13149934df66d49cc886dedf1fb/src/applications/personalization/profile/components/military-information/MilitaryInformation.jsx#L45)
-
 </details>
 
 
@@ -68,15 +66,14 @@ If you think there might be a problem with your military service records, you ca
 
 - **Use case:** User is confirmed as a non-Veteran.
 - **Status code:** TBD
+- **Format:** [Info alert component](https://design.va.gov/components/alert/#informational-alert-aka-default)
+- [Link to designs](https://www.figma.com/design/zb5ecY9yMnupiLjaH9UmSc/Profile---Military-Information?node-id=619-10743&t=48R0Oy0eosW8QzYj-1)
+- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/8bb9e606cbe6ac0d17598e748a550218b5bf3f2f/src/applications/personalization/profile/components/military-information/MilitaryInformation.jsx#L22)
 - **Content:**
 
 H2: We don’t have military service records for you
 
 If you think this is an error,  call us at 800-698-2411 (TTY: 711). We’re here Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
-
-- **Format:** [Info alert component](https://design.va.gov/components/alert/#informational-alert-aka-default)
-- [Link to designs](https://www.figma.com/design/zb5ecY9yMnupiLjaH9UmSc/Profile---Military-Information?node-id=619-10743&t=48R0Oy0eosW8QzYj-1)
-- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/8bb9e606cbe6ac0d17598e748a550218b5bf3f2f/src/applications/personalization/profile/components/military-information/MilitaryInformation.jsx#L22)
 
 </details>
 
@@ -94,16 +91,26 @@ There are no flags with this feature.
 <details><summary>Backend system down</summary>
 
 - **Use case:** Cannot connect to the back end.
-- **Status code:** TBD
+- **Status code:**
+   - GET 400: Bad request;
+      - BackendServiceException: {:source=>"VAProfile::MilitaryPersonnel::Service", :code=>"VET360_CORE100"}
+      - Unexpected Error: There was an error encountered processing the request
+   - GET 401: Unauthorized
+   - GET 404: Not found; If a user is not found in VAProfile, an empty ServiceHistoryResponse with a 404 status will be returned
+   - GET 500: Internal server error
+   - GET 502: Bad gateway
+      -  BackendServiceException: {:source=>"VAProfile::MilitaryPersonnel::Service", :code=>"VET360_502"}
+      -  Received an an invalid response from the upstream server
+   - GET 503: Service unavailable
+   - GET 504: Gateway timeout; Upstream server took too long to respond
+- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
+- [Link to designs](https://www.figma.com/design/zb5ecY9yMnupiLjaH9UmSc/Profile---Military-Information?node-id=619-3634&t=iU7vARDUjgIJkIfo-1)
+- [Link to code]
 - **Content:**
 
 H2: This page isn't available right now
 
 We’re sorry. Something went wrong on our end. Refresh this page or try again later.	
-
-- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
-- [Link to designs](https://www.figma.com/design/zb5ecY9yMnupiLjaH9UmSc/Profile---Military-Information?node-id=619-3634&t=iU7vARDUjgIJkIfo-1)
-- [Link to code]
 
 </details>
 

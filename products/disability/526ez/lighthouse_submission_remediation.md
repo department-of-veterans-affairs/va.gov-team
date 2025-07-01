@@ -34,8 +34,7 @@ A stretch goal in creating this remediation plan was to create an additional scr
 4. Run the script below to generate the PDF
    ```
    submission = Form526Submission.find([SUBMISSION ID from #1])
-   user_account = UserAccount.find_by(id: submission.user_account_id) ||
-                         Account.lookup_by_user_uuid(submission.user_uuid)
+   user_account = UserAccount.find_by(id: submission.user_account_id)
    icn = user_account.icn
    transform_service = EVSS::DisabilityCompensationForm::Form526ToLighthouseTransform.new
    body = transform_service.transform(submission.form['form526'])

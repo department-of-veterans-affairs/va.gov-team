@@ -9,7 +9,7 @@
 
 **Contacts:** Cindy Merrill
 
-**[Link to Research Readout](link-here)**  
+**[Link to Research Readout--TBD](link)**  
 
 **Jump to:**
 
@@ -79,46 +79,60 @@ We conducted **remote moderated usability testing** to observe research particip
 
 Research sessions were conducted over Zoom during May 12-21, 2025. Sessions were 90 minutes long for Veterans using assistive technology (i.e., screen readers or screen magnifiers), and 60 minutes for Veterans not using any assistive technology (AT). 
 
+## Participants
+ Perigean recruited all **11 research participants**. All were Veterans. 
+ - **6 were full-time assistive technology users**:
+   - 4 used a screen reader
+   - 2 used a screen magnifier
+  - 5 were on a computer, 5 were on a smart phone, and 1 was on a tablet
+
+The assistive technology used by the 6 participants is summarized in the table below. All had experience using their assistive tech for at least 2 years.
+
+P# | Screen Reader/Magnifier | Software | Device | O/S | Browser 
+-- | ----- |------|-------|--------|--------
+1 | Screen reader | JAWS | computer | Windows | Chrome 
+2 | Screen magnifier | Magnified in browser to 250% | computer | Windows | Edge 
+3 | Screen reader | JAWS | computer | Windows | Chrome
+4 | Screen reader | VoiceOver | phone | iOS | Safari 
+5 | Screen reader | VoiceOver | phone | iOS | Safari then Chrome 
+13 | Screen magnifier | Microsoft Zoom Magnification ~300% | computer | Windows | Edge 
+8 | none | none | phone | Android | Chrome
+9 | none | none | tablet | iOS | Chrome
+10 | none | none | phone | iOS | Safari
+11 | none | none | computer | Windows | Firefox
+12 | none | none | phone | iOS | Safari
+
+For demographic details, see [Who we talked to](#who-we-talked-to).
+
 ## Hypotheses and Conclusions
 
-
 1. While filling out online forms, Veterans expect that their form data will be saved.
+    - **Likely False** because many participants shared about losing their work while filling out forms that time out or get rejected, and then they have to start all over again. 
 
 1. With the new design, Veterans are confident that their form data will be saved.
+    - **Likely False** because participants didn't assume this would happen, and most didn't read and remember the information alerts that said it would. All saw their data saved after clicking *Finish later* and most concluded that saving happened only if they clicked *Finish later* or *Continue*. They said that they *hoped* their work would be saved but were *not confident* that it would be. 
 
 1. With the new design, Veterans will know how to resume filling out a form that they started previously.
+    - **Likely True** because the *Continue your request* button was readily found and used by most participants (although the user wasn't signed out), and those who were brought to the My VA page found the *Continue your application* link there. This could be tested again in a different study with a prototype that signed out the user during a break in filling out the form.
 
 1. When Veterans encounter error messages while filling out online forms, they are able to resolve the errors.
+    - **Likely False** because one participant using a screen reader had 4 different errors that he was unable to resolve on his own. All 8 other participants who encountered errors were able to resolve the errors by themselves, including 2 other participants using screen readers.
 
 1. While filling out an online form, Veterans will notice the progress bar and find it useful.
-
-> [!TIP]
-> Place true or false statements in bold for easier scanability
-
-- **Hypothesis Statement:** [Insert statement]  
-  - **"Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”**  
-  - Supporting evidence  
-
-[Example Hypotheses and Conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)
+    - **Definitely False** because half of the participants didn't mention it, including several screen reader users who never heard it announced because it's above the H1 on form pages.
 
 
 ## Key Findings
 
-*Summarize the 5–10 most impactful findings from your study.* 
-
-> [!TIP] 
-> Write findings as stand-alone insights that are easy to scan. For example:  
-> - "Most participants used the search field to locate forms, often searching for 'veteran health.'"  
-> - "Participants struggled with the secondary caregiver section on the form."  
-
-[Example Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)
-
-1. Most participants (9 of 11) **didn't know that their information was being saved automatically with every edit**.
-1. Most participants **didn't see the informational alerts about saving**, and the few who did, didn't remember what they said.
-1. ALL participants **tried the *Finish later* button and from that learned that their information was saved**.
-
-
-
+1. Most participants didn't know that their information was being saved automatically with every edit.
+1. Most participants didn't see the informational alerts about saving, and the few who did, didn't remember what they said.
+1. ALL participants tried the *Finish later* button and from that learned that their information was saved.
+1. All participants were able to resume filling out the form after taking a short break and a long break.
+1. My VA had accessibility issues for screen magnifiers.
+1. VA forms in general had accessibility issues for screen readers and screen magnifiers.
+1. The Request Personal Records form had many accessibility issues for screen readers and screen magnifiers.
+1. Most participants who encountered form errors understood how to resolve them, but there were some exceptions.
+1. Only half of the participants mentioned the progress bar.
 
 ## Details of Findings 
 
@@ -180,7 +194,7 @@ Research sessions were conducted over Zoom during May 12-21, 2025. Sessions were
 - 1 participant didn't use either of the above methods and instead just went back to their open browser window, which hadn't timed out. 
 - 3 participants noticed that they were returned to the *page before* the one that they had been on. This is because no information had been entered on the page they were on [a known issue], but they said that they would have preferred to come back to the actual (blank) page that they had been on last.
 
-**Finding 5: My VA had accessibility issues for screen magnifiers**
+**Finding 5: My VA had accessibility issues for screen magnifiers.**
 - One participant using a screen magnifier (on a Windows computer using the Edge browser and Microsoft Zoom Magnification at least 300%) asked why the **"Continue your application" link in the form request card on My VA was so much smaller than everything else on the card**. The link text didn't scale up like the text above it.
 <details><summary>Click to see a screenshot of the issue.</summary>
 <img src="./images/p13-MyVA-form-card-bottom.png" width="50%" height="50%">
@@ -191,7 +205,7 @@ Research sessions were conducted over Zoom during May 12-21, 2025. Sessions were
 <img src="./images/p13-MyVA-Benefit-apps-no-forms.png" width="50%" height="50%">
 </details>
 
-**Finding 6: VA forms in general had accessibility issues for screen readers and screen magnifierss**
+**Finding 6: VA forms in general had accessibility issues for screen readers and screen magnifiers.**
 - Two screen reader users (VoiceOver on iOS with Safari) had **difficulty navigating while using Safari because focus kept jumping** to the top of the page or to the Safari controls below the page. p5 was unable to navigate the form and so switched to Chrome, where navigation worked normally. p4 was able to navigate the form well enough in Safari to fill it out.
   > *"A lot of the government websites are not working that great with Safari anymore, and...you need to use Google Chrome" (p5).*
 
@@ -220,7 +234,7 @@ Research sessions were conducted over Zoom during May 12-21, 2025. Sessions were
     - Moved up and down with arrow keys on keyboard with his left hand. When he wanted to continue reading across the page, he moved the mouse sideways with his right hand, but *not* for every line. Skimmed down the page while not all the words across are in his view, and he assumed what it said--often accurately but sometimes not.
 
 
-**Finding 7: The Request Personal Records form had many accessibility issues**
+**Finding 7: The Request Personal Records form had many accessibility issues for screen readers and screen magnifiers.**
 - Three participants (2 of whom were using screen readers) said that the signed-in version of the form intro page looks the same as the non-signed in version, except at the very bottom, which is disorienting and repetitive. The screen reader users had to listen to the entire intro page being read twice--once before signing in, and then again after signing in. One participant suggested that the "Sign in to start your request" link could bring you directly to the first question in the form (rather than to the authenticated version of the form intro page). 
 
 - A screen reader user expected to be able to click on one of the record types listed on the intro page, but they weren't clickable. 
@@ -270,7 +284,7 @@ Research sessions were conducted over Zoom during May 12-21, 2025. Sessions were
 - Another screen reader user (JAWS on desktop) didn't expect the checkbox to be announced _after_ the "I certify..." line instead of before it.
     > *"It says, 'I certify'. Usually when something starts out with the words 'I certify', there's a checkbox there...You're telling me and then you're given my name, and then you put the actual box underneath of it, which is not typically what I'm used to...I had to listen to the whole thing to find out if that was a checkbox or not...cause it wouldn't have told me until the end" (p1).*
 
-**Finding 8: Most participants who encountered form errors understood how to resolve them, but there were some exceptions** 
+**Finding 8: Most participants who encountered form errors understood how to resolve them, but there were some exceptions.** 
 - 9 of 11 participants encountered errors while they were filling out the form, and most of them understood their meaning and what they needed to do to fix them.
    > *"Tells me where I screwed up" (p13).*
 
@@ -301,7 +315,7 @@ Research sessions were conducted over Zoom during May 12-21, 2025. Sessions were
    > *"I do like that. It has 1 of 6. That is nice because you never know how many pages this thing's gonna be" (p9).*
   
 - Two other participants mentioned the step numbers. Only one participant mentioned the visual bars. 
-- Three participants (1 using a screen reader on desktop, 1 using a screen magnifier on desktop, and using no assistive tech on a phone) said that the form had too many short pages and that they preferred fewer longer pages with related information on the same page, rather than across multiple pages (e.g., your name and social security number on different pages). 
+- Three participants (1 using a screen reader on desktop, 1 using a screen magnifier on desktop, and 1 using no assistive tech on a phone) said that the form had too many short pages and that they preferred fewer longer pages with related information on the same page, rather than across multiple pages (e.g., your name and social security number on different pages). 
    > *"You can have one page that puts in your personal information and your demographics...And then the next page can be what I'm requesting...It could be cut down a lot. It didn't have to be 6 pages" (p2).*
 
    > *"If you ask me for my street address, and then I have to hit 'Continue' to get to the next thing, that annoys me. So when I'm doing a form, I'd like as much information on that page to fill out all at one time as possible. I really don't like to have to go 'Continue' 'Continue' all the time because that's just another thing that I have to do and have to listen to" (p1--screen reader user).*
@@ -329,65 +343,104 @@ There are a number of findings that were outside the scope of the research goals
 <img src="./images/Intro-pg-unauth-top-h1.png" width="50%" height="50%">
 </details>
 
-
-3. One participant who uses a screen reader on a phone said that they had a lot of difficulty signing in, making a strong password and remembering it, creating a passkey, setting up two-factor authentication, and getting logged out with timeout. A different participant wished that they could sign in with a fingerprint, didn't get logged out, and had a "remember this device" option so you wouldn't have to log in again.
+3. One participant who uses a screen reader on a phone said that they had a lot of **difficulty signing in**, making a strong password and remembering it, creating a passkey, setting up two-factor authentication, and getting logged out with timeout. A different participant wished that they could sign in with a fingerprint, didn't get logged out, and had a "remember this device" option so you wouldn't have to log in again.
    > *"First I had to tangle up with login.gov because now they want you to. They want to do a video of your face and...that's very difficult for people that have limited vision or no vision...So by the time you get there, you're pretty frustrated (p5).*
 
 ## Recommendations
-***MAYBE ORGANIZE BY GROUPING TOGETHER or LABELING types of a11y issues: incorrect announcing, redundant announcing, misinterpretation, focus issues? Do this for findings and also for recommendations b/c incorrect announcing and focus issues are more important than redundant announcing***
 
-### 1. Revise the Save in Progress design
-1. **Brainstorm how to display better communicate that we're saving all information as it's being entered or updated**. We need to revisit how we communicate what the form is doing so that we inform users without being annoying.
-   - *Supporting evidence:* We're saving automatically with every edit, which participants asked for, but most didn't realize that was happening because they didn't see or understand the informational alerts.   
+### For the Design System and Forms Library team
+1. **Revise the Save in Progress messaging to communicate more effectively that we're saving the user's form information as it's being entered/updated**. We need to revisit how we communicate what the form is doing so that we inform every user without being annoying.
+   - *Supporting evidence:* We're saving automatically with every edit, which participants asked for, but most didn't realize that was actually happening because they didn't see or understand the informational alerts.   
    - Consider the suggestions below:
-      1. Messaging should be better integrated into the user's interaction flow with the form. It's possible that no messaging will be effective before the user has started filling out information, so we should find somewhere other than the intro page and the top of the first page of the form. Users may be more receptive to an alert that shows up later while they're editing or right after they click "Continue". 
-      1. Messaging must be accessible to AT users so that all screen reader users will hear it, even if they start navigating form pages down from the H1. 
-      1. Messaging could be reworded to lead with what's most important at the beginning to attract attention and ensure visibility to users of screen magnifiers. For example, "Saving will happen automatically..." or "Your information will be saved..."
-      1. Messaging could be reworded for clarity, especially "We'll save your request on every change". One idea is "Your work is saved automatically". If we want a message that shows up with every save, it could be very short (e.g., "Saving..." or "Autosaved now"), and it needs to be positioned such that screen readers will announce it. 
+      1. Messaging should be better integrated into the user's interaction flow with the form. It's possible that no messaging will be effective before the user has started filling out information, so we should find somewhere other than the intro page and the top of the first page of the form. Users may be more receptive to an alert that shows up later while they're editing and then pause, such as right after they click the *Continue* button. 
+      1. All messaging must be positioned so that it's accessible to AT users. All screen reader users should be able to hear the messaging, even if they start navigating pages from the H1. Messaging should also be aligned with the left margin so that it's most likely to be visible on magnified screens.
+      1. Messaging could be reworded for clarity and to lead with what's most important at the beginning to attract attention and ensure visibility to users of both screen readers and screen magnifiers. For example, we could change "We'll save your request on every change" to "Saving will happen automatically..." or "Your information will be saved..."
+           1. If we want a message that shows up with every automatic save, it could be very short (e.g., "Saving..." or "Autosaved now"). 
       1. Consider relabeling the *Finish later* button to better align with the revised messaging.
 
-### 1. Fix issues with VA form design patterns
-1. On the Review/Submit page, consider moving the "+" from the right margin to the left margin.
-     - *Supporting evidence:* A screen magnifier user didn't see the "+"'s to expand the accordions because they're so far to the right and there was no visual indication that there was anything more to the right. 
-1. After you click *Finish later*, you should be able to sign out. Need to revert to the full VA.gov header for the authenticated intro page in order to enable signout.
-     - *Supporting evidence:* There's currently no way to sign out after you click *Finish later* and land on the intro page because you're still seeing the minimal header.
+1. **On the forms Review/Submit page, consider moving the "+" from the right margin to the left margin**.
+     - *Supporting evidence:* A screen magnifier user didn't see the "+"'s to expand the accordions because they're so far to the right and there was no visual indication that there was anything there that needed scrolling. 
+1. **After you click *Finish later*, you should be able to sign out** in the Minimal header format, which is currently not possible. We should revert to the full VA.gov header for the authenticated intro page in order to enable signout.
+     - *Supporting evidence:* There's currently no way to sign out after you click *Finish later* and land on the intro page because you're still seeing only the Minimal header.
 
-### Recommendation: Fix accessibility issues with My VA
-#### My VA
-1. My VA--Make the "Continue your application" link in the form request card scale up with magnification like everything else on the card already does.
-    - *Supporting evidence:* One participant using a screen magnifier found it difficult to read this link because its font didn't magnify like all the other text on the draft form card.
+1. Investigate the **form navigation issues that 2 screen reader users had while using VoiceOver on iPhones with the Safari** web browser in which focus kept jumping to the top of the page or to the Safari controls below the page after almost every field. 
+    - *Supporting evidence:* These focus issues made it very difficult for 2 mobile screen reader users to fill out the form. One of them stayed with Safari, and the other gave up and switched to Chrome.  
 
-### Recommendation: Fix accessibility issues with Request personal records form
-1. Change the announcement for dropdown fields from "Double tap to activate the picker" to use plain language: "Double tap to select the month", "Double tap to select the country", and "Double tap to select the state".
-    - *Supporting evidence: p1 didn't know what a "picker" was and got confused.*
-1. Research focus issues with VoiceOver while getting into and out of the date of birth Month field. See if the issue can be fixed.
-    - *Supporting evidence: Focus was on the Month field, but what p4 typed ended up in the Last name field. And when p4 was done picking the Month, focus was moved to the very top of the page.*
-1. Research announcing issues with JAWS where it says "has popup" for the State/Province/Region and Postal code text fields. See if the issue can be fixed.
-1. On the Review/Submit page, the error handling for the *Your full name* field should be streamlined so that (1) focus goes to the name field (vs. the top of the component), and (2) the error message is announced immediately (vs. after two repetitions of most of the text in the component). 
-    - *Supporting evidence:* This is so verbose for screen reader users that they perceive it as multiple repetitions of the same information and so they don't listen carefully to the very end that describes how to fix the error.
-1. The postal code field should be fixed so that it will accept a valid autofill suggestion without returning an error ("Enter a ZIP code"). This is a known issue with autofilling with a coding workaround in [this ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/2668).
+1. **Consider whether having many short pages in a form is preferable to a smaller number of longer pages**. Be aware of the feedback that some Veterans dislike VA forms having so many short pages. 
+    - *Supporting evidence:* 3 of 11 participants (1 using a screen reader on desktop, 1 using a screen magnifier on desktop, and 1 using no assistive tech on a phone) said that the form had too many short pages and that they preferred fewer longer pages with related information on the same page. The screen magnifier user said that having to repeatedly click _Continue_ to see the next question was annoying because it's more of his screen reader that he has to listen to.
 
-### Recommendation: Consider design revisions for Request personal records form
-1. Consider making the affirmation statements at the end of the form more concise so there's less text for participants to skip. Rather than adding more information, consider removing some so users might pay more attention to what's there. Also revisit why the previous and next lines of text are repeated while focus is in the name text field, which appears to be because it's specified in the code so that all users hear it, regardless of how they navigated to the field (by tabs or arrows).
-1. The error message for SSN validation could provide more information. Instead of just saying that it needs 9 digits, it could also say how many digits you entered: "You entered 8 digits for your social security number, but you need 9 digits."
+### For the My VA team
+#### Fix these accessibility issues:
+6. In the draft cards under "Benefit applications and forms", **make the "Continue your application" link scale up with magnification** like everything else on the card already does.
+    - *Supporting evidence:* One participant using a screen magnifier found it difficult to read this link because its font didn't magnify like all the other text on the card and so it was small and hard to read.
+1. **Consider renaming the header "Benefit applications and forms" to "Applications and forms"** or something else similarly short so that it will be more accessible to screen magnifier users.
+   - *Supporting evidence:* One participant using a screen magnifier didn't recognize that his draft form was under "Benefit applications and forms" because all he saw was "Benefit applications".
 
-1. **Recommendation:** [Insert action]  
-   - _Supporting evidence: [Insert data]_  
-2. **Recommendation:** [Insert action]  
-   - _Supporting evidence: [Insert data]_
+### For the Request Personal Records form
+#### Fix these accessibility issues:
+8. See if **field type announcing by screen readers can happen sooner**, perhaps *before* the field name, to set the user's expectations for  the type of interaction expected.
+    - *Supporting evidence:* A desktop screen reader user didn't know that the birth month field was a popup because he stopped the screen reader before it was done announcing. A mobile VoiceOver user also didn't know that field was a popup and so tried to type a number into the field. In addition, on the Review/Submit page, a JAWS screen reader user heard the checkbox announced *after* the entire "I certify the information above is correct and true to the best of my knowledge and belief" line, which was unexpected. 
+
+1. **Change the announcement text for dropdown fields from "Double tap to activate the picker" to use plain language**. For example, "Double tap to select the month", "Double tap to select the country", and "Double tap to select the state".
+    - *Supporting evidence:* One participant didn't know what a "picker" was and got confused.
+
+1. Try to **fix announcing issues with JAWS where it says "has popup" for the State/Province/Region and Postal code text fields**. 
+    - *Supporting evidence:* One screen reader user (JAWS on desktop) reported that the State/Province/Region and Postal code fields said "has pop up", even though they're both text fields.
+
+1. Try to **fix announcing issues with VoiceOver for the citizenship question, which said it was a checkbox instead of a radio button**.
+    - *Supporting evidence:* One screen reader user (VoiceOver on iOS) didn't know that the citizenship question was a radio button when they tapped on it. Riley Orr tested and found that it's announced as a checkbox (bug) and radio button on her iPhone, but announced (correctly) as a radio button on desktop. After she updated her phone, it announced (correctly) as a radio button.
+
+1. See if the **duplicate messaging from JAWS for the records checkboxes and mailing address fields can be removed**.
+    - *Supporting evidence:* Two screen reader users said that they were hearing every records checkbox option and mailing address fields twice while using the arrow keys to navigate through the form.
+
+1. Try to **fix focus issues with VoiceOver while getting in and out of the date of birth Month field**.
+    - *Supporting evidence:* Focus was on the Month field, but there was also a blinking cursor in the previous field (last name). When the participant typed a number for the date of birth month, the number was entered into the last name field. And when she was done picking the Month, focus was moved to the very top of the page. 
+
+1. Streamline error handling on the Review/Submit page for the ***Your full name* field so that (1) focus goes to the name field (*vs*. the top of the component), and (2) the error message is announced immediately** (*vs*. after two repetitions of most of the text in the component). 
+    - *Supporting evidence:* This is so verbose for screen reader users that they perceive it as multiple repetitions of the same information and don't listen all the way to the end when the error is finally mentioned.
+
+1. **On the Review/Submit page, consider shortening the text to be less redundant and less repetitive for screen reader users.**
+    - *Supporting evidence:* The verbose text "Statement of truth. I confirm that the identifying information in this form is accurate and has been represented correctly." is read 3 times by JAWS, and the text "I certify the information above is correct and true to the best of my knowledge and belief." is read 2 times. This is while the screenreader user is going through the form the first time--not because of any errors generated--and is specified in the code so that all users hear it, regardless of how they navigated to the field (by tabs or arrows).
+
+1. Consider **differentiating the unauth and auth versions of the form intro page so they don't look exactly the same** except for the very bottom.
+    - *Supporting evidence:* Participants found this disorienting after they signed in but then seemed to still be on the same page. Screen reader users had to listen to the entire page being read out a second time, unlike sighted users who can visually scan to see that most of it's the same and not read every word.
+
+#### Fix these usability issues:
+17. Explore **prefilling the Veteran's name and address**, which we know once they've signed in. 
+    - *Supporting evidence:* This suggestion came from a participant, who wanted to type less but was willing to make corrections if any information was wrong.
+
+1. At the **top of the form's intro page, consider simplifying the text directly under the H1**: 
+    > "Freedom of Information Act (FOIA) or Privacy Act (PA) Request (VA Form 20-10206)"
+    - *Supporting evidence:* One participant was confused by "Freedom of Information Act (FOIA)" right underneath the name of the form on the intro page where they expected to see something about the Request personal records form.
+
+1. **Fix the postal code field so it will accept a valid autofill suggestion without returning an error** ("Enter a ZIP code"). This is a known issue with autofilling with a coding workaround in [this ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/2668).
+    - *Supporting evidence:* One participant accepted the (correct) autofill suggestion from their phone for their zip code, and the form gave an error.
+
+1. Consider adding some **help text that says what the "VA file number" is**.
+    - *Supporting evidence:* Four participants didn't know what a "VA file number", why you might want to use one, and how you would find it.
+
+1. Consider adding a **description of what a "VA regional office" is**. 
+    - *Supporting evidence:* Three participants were confused by the field and skipped it. One didn't know whether to enter their regional office because they go to a clinic in a different region, and whether it should be a clinic or a hospital.
+
+1. Consider adding an **explanation or disclaimer about how the VA can provide military records**. 
+    - *Supporting evidence:* Two participants questioned the ability to request your military records through the VA. One of them had military records previously that the VA was unable to access. The other participant was concerned about privacy because he thought that VA wasn't supposed to know about some things from the military. 
+
+1. Consider the design suggestion: The **error message for SSN validation could provide more information**. Instead of saying that it needs 9 digits, it could also say how many digits you entered: "You entered 8 digits for your social security number, but you need 9 digits."
+     - *Supporting evidence:* Participants were confused when they thought they entered 9 digits but actually hadn't. This issue may be less of an issue when users enter their actual SSN, rather than a fake one for the research session.
 
 
 ## Next Steps
 
-*Outline immediate actions based on findings, including owners if applicable.*  
+1. Discuss findings and recommendations with Jeana Clark, the ADE team, and the accessibility specialists community of practice.
+1. Discuss findings and recommendations with Matt Dingee.
+1. Reach out to the My VA team to share relevant findings and recommendations.
+1. Reach out to the analytics team about instrumenting the current "Finish this request later" link.
 
 
 ## Further research needed
 
-*Identify gaps in the current study and areas requiring additional investigation––such as demographics that were not included in this study.* 
-
 1. Check analytics for the existing "Finish this request later" link on VA forms to see how much it's being used, but unfortunately it's not currently being tracked (only autosaves are currently tracked). Request that the "Finish this request later" link be instrumented for analytics, and then see if changing this link to a button (as tested in this study) results in more clicks.
-1. If the Save in Progress messaging gets revised as a result of this research, another round of usability testing would be helpful to see if it works better than the version tested in this study. For a more realistic user experience, we could simulate the timeout experience that signs out the user. 
+1. If the Save in Progress messaging gets revised as a result of this research, another round of usability testing would be useful to see if it works better than the version tested in this study. For a more realistic user experience, we could simulate the timeout experience to sign out the user. 
 
 ## Appendix
 [Research plan](./research-plan.md)
@@ -398,137 +451,149 @@ There are a number of findings that were outside the scope of the research goals
 
 
 ## Tools used for Synthesis
-[Synthesis spreadsheet](TBD)
+[Synthesis spreadsheet](./analysis/SiP%20usab%20notes%20&%20data%20analysis--final.xlsx)
 
 [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1746465528913/8de22b81ea78a8e67d167bb339abd845a820a519)
   
 ## Pages and applications used
 
-[Prototype](https://musical-space-goggles-7wxj74rqgvpfv9v-3001.app.github.dev/records/request-personal-records-form-20-10206/introduction?loggedIn=false)
+[Prototype in a GitHub Codespace that needs to be started manually--CONTACT CINDY](https://musical-space-goggles-7wxj74rqgvpfv9v-3001.app.github.dev/records/request-personal-records-form-20-10206/introduction?loggedIn=false)
 
-#### Screenshots of the prototype in Codespaces
+#### Screenshots of the prototype (Codespace)
 <details>
-  <summary>First screen (Click to show screenshot)</summary>
+  <summary>Informational alert about saving on intro page (Click to show screenshot)</summary>
+   <img src="./images/intro-pg-alert.png" width="75%" height="75%">
 
-  ![figma-mobile-first-top](./images/figma-mobile-first-top.png)
-  ![figma-mobile-first-bottom](./images/figma-mobile-first-bottom.png)
-  
 </details>
 
 <details>
-  <summary>Menu open (Click to show screenshot)</summary>
+  <summary>Intro page--not signed in (Click to show screenshots)</summary>
+  <img src="./images/Intro-pg-unauth-top.png"width="75%" height="75%">
+  <img src="./images/Intro-pg-unauth-bottom.png" width="75%" height="75%">
 
-  ![figma-mobile-menu](./images/figma-mobile-menu.png)
-  
 </details>
 
 <details>
-  <summary>Search open (Click to show screenshot)</summary>
+  <summary>Intro page--signed in (Click to show screenshots)</summary>
+   <img src="./images/Intro-pg-auth-top.png" width="75%" height="75%">
+   <img src="./images/Intro-pg-auth-bottom.png" width="75%" height="75%">
 
-  ![figma-mobile-search](./images/figma-mobile-search.png)
-  
+</details>
+
+<details>
+  <summary>Form pages (Click to show screenshots)</summary>
+   <img src="./images/form-pg1-alert&citizenship.png" width="75%" height="75%">
+   <img src="./images/form-pg2-name&DOB.png" width="50%" height="50%">
+   <img src="./images/form-pg3-SSN&VAfile#.png" width="75%" height="75%">
+   <img src="./images/form-pg4-mailing-addr-top.png" width="75%" height="75%">
+   <img src="./images/form-pg4-mailing-addr-bottom.png" width="75%" height="75%">
+   <img src="./images/form-pg5-phone&email.png" width="75%" height="75%">
+   <img src="./images/form-pg6-records.png" width="75%" height="75%">
+   <img src="./images/form-pg7-additional-info.png" width="75%" height="75%">
+   <img src="./images/form-pg8-regional-office.png" width="75%" height="75%">
+   <img src="./images/form-pg9-review&submit.png" width="75%" height="75%">
+   <img src="./images/form-pg9-statement-of-truth.png" width="75%" height="75%">
+
+</details>
+
+<details>
+  <summary>After clicking "Finish later" (Click to show screenshot)</summary>
+   <img src="./images/after-click-finish-later.png" width="75%" height="75%">
+
+</details>
+
+<details>
+  <summary>My VA (Click to show screenshots)</summary>
+   <img src="./images/MyVA-top.png" width="100%" height="100%">
+   <img src="./images/MyVA-middle.png" width="100%" height="100%">
+   <img src="./images/MyVA-bottom.png" width="100%" height="100%">
+
 </details>
 
 
-## Other supporting documents created
-
-*Include links to additional materials, e.g., personas, user flows.*  
-
-
-## Secondary research
-
-*Include any relevant secondary research, e.g., web analytics, SME interviews.*  
 
 ## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
 **Recruitment criteria**
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
-
-We talked to **x participants.**
+We talked to **11 participants.**
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
+* Veterans: 11 
+* Caregivers: 0 
+* Family members of a Veteran: 0  
 
 
 Gender:
-* Male: x 
-* Female: x 
+* Male: 9 
+* Female: 2 
 
 
 LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
+* Transgender: unknown 
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: unknown
+* Gay, lesbian, or bisexual: unknown
 
 
 Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
+* Desktop: 5 
+* Tablet: 1 
+* Smart phone: 5 
+* Assistive Technology: 6
 
 
 Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
+* 25-34: 1
+* 35-44: 2
+* 45-54: 3
+* 55-64: 2
+* 65+: 3
 
 
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
+* High school degree or equivalent: 0
+* Some college (no degree): 1
+* Associate's degree, trade certificate or vocational training: 2
+* Bachelor's degree: 2
+* Master's degree: 4
+* Doctorate degree: 2
 
 
 Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
+* Urban: 8
+* Rural: 3
 
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
+* White: 6
+* Black: 3
+* Hispanic: 0
+* Biracial: 0
+* Asian: 2
+* Native: 0
 
 
 Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
+* Cognitive: 6
+* AT beginner: 0
+* AT advanced user: 6
+* Desktop screen reader: 2
+* Mobile screen reader: 2
+* Magnification/Zoom: 2
+* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 0
+* Hearing aids: unknown
+* Sighted keyboard: unknown
+* Captions: unknown
 
 
 ## Underserved groups we haven’t talked to 
 
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
-
 This research does not include the perspectives of the following marginalized Veteran groups:
 _List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
+* Identify as Hispanic, Biracial, or Native
+* Other than honorable discharge
+* Immigrant origin
+* Expat (living abroad)
+* Beginner AT user
 
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+![VA-recruitment-checker](./images/VA-recruitment-checker.png)

@@ -108,7 +108,7 @@ There are no flags with this feature.
 - [Link to code]
 - **Content:** 
 
-Something went wrong on our end. If you get health care through VA, you can go to My HealtheVet to access your health care information.
+We can’t show your health care information right now. Refresh this page or try again later.
 
 </details>
 
@@ -122,7 +122,7 @@ Something went wrong on our end. If you get health care through VA, you can go t
 - [Link to code]
 - **Content:**
 
-Something went wrong on our end and we can’t access your appointment information. Please refresh or try again later.
+We can’t show your appointments right now. Refresh this page or try again later.
 
 </details>
 
@@ -136,7 +136,7 @@ Something went wrong on our end and we can’t access your appointment informati
 - [Link to code]
 - **Content:**
 
-We can’t access your health care message now. We’re working to fix this problem. Please check back later.
+We can't show your messages right now. Refresh this page or try again later.
 
 </details>
 

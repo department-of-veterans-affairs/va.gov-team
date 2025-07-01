@@ -61,6 +61,7 @@ _Notes:_
 - While sample sizes have gone up, they are still relatively low.
 - CSAT across individual pages in the new experience ranged from 54.1 (Survivors compensation) to 58.6 (main landing page)
 - Percent of respondants that indicated they were able to complete their task was very low across pages - 10-36%
+- Many comments about the ease of navigating and finding information.  Most negative comments are related to issues with completing forms. 
 
 **CSAT scores**
 
@@ -69,6 +70,51 @@ Hub | CSAT <br>score	| CSAT <br>responses	| VA trust <br>score | VA trust <br>re
 New hub overall (equivalent pages)|	56.30%	|81|	57.94%|	64	|27.50%|	154
 Original hub overall | 	55.53%|	50	|57.25%|	39|	25.33%	|98
   
+**Summary of responses**
+
+Positive comments:
+- findability of information
+  - Pretty easy to navagate
+  - Easy to navigate
+  - I found the information very easily that I needed on the website
+  - so far finding what i need has been pretty easy
+  - It is nice to see almost all of my information in one spot
+  - I was looking for ways to start my spouses educational benefits and I think I found all the information needed.
+  - i have learned a lot about what the va offers that i was unaware of.
+- quality and clarity of information
+  - Clear and necessary information
+  - Just very comprehensive
+- general positive feedback 
+  - Based on my past experiences with the website, today has been outstanding. The website seems to move faster, the information has been updated, and I have more confidence in utilizing the site.
+  - the application process was smooth and self explanatory
+  - it provided me with the information that I nwanted
+  - very good compared to years ago. things has gotten better for veterans around me.
+
+
+Negative comments:
+- unable to find what they are looking for
+  - cant find the right page for ch 35 benefit help
+  - I'm a widow and I just want to download a copy  of my survivor's current compensation letter.  Why is it so hard to find it and print it for my records??
+  - Can;t find champva form to fill out
+  - All this links do is direct me to other pages with information that then directs me to another page and so on. Provide links to the actual resources please.
+- general feedback about the information provided
+  - Found useful information but a bit scattered
+  - Was expecting more information.
+  - The info here is VERY confusing!
+- unable to find the status of things
+  - Website not showing submitted
+
+Other types of comments were related to:
+- login issues
+  - This process is very confusing overall! Itâ€™s very hard to create a VA website login.
+- general and technical challenges with forms
+  - The basic site is ok, but completing forms that are required is somewhat a challenge.  In some places, the instructions are not very clear.
+- applying for benefits on behalf of another person (i.e. the Veteran applying for their family or a family member applying for a minor child)
+  - It is increadibly tough to try and figure out how to help my dependents file a Chapter 35 claim online
+  - Most of these questions were about me. I am trying to get conformation of benefits for my daughter that will be graduating in May of 2025.
+  - Apply for Educational benefits for my child. The form asks for the applicants name and information. However, it defaults to the veteran's name and information and I cannot change it to reflect the applicant. I will have to print form and submit it manually.
+  - application confusing for child education benefits.  do I put my information in the first box when it asks for the veteran's info?  then why is my information in the box where it asks for "your Info" and not my child's?  and that info isn't able to change in the application....
+- frustation on timing of the survey
 
 
 ### Next pages

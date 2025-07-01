@@ -1,11 +1,41 @@
 # Ineligibility Error Messaging Logic 
 
-Current Behavior for Web Experience as of 8/28/2024
+## Overview & Context
+Prior to 2025, the Veteran Status Card relied on VA Profile API data plus some custom logic to determine who is eligible for the card or not. That logic can be found in the "Ineligibility Logic - Prior to 2025" section. The mobile app team (and IIR) found that access rates using that logic were at 70% which we considered low.
 
-[SPIKE] Document Error/Ineligibility Messaging Logic: [973](https://app.zenhub.com/workspaces/va-iir-6508c0bd79e64e0fb5855caf/issues/gh/department-of-veterans-affairs/va-iir/973)
+IIR changed the logic in January 2025 to look at the Veteran Service History & Eligibility API which looks at Title 38 eligibility to determine a Veteran's status. More info on that logic can be found in the "Ineligibility Logic - 2025" section. While that logic is technical stricter than only looking at discharge statuses through VA Profile API data, we saw access rates increase to around 80% on web and 96% on mobile.
 
-Goal: As an engineer, I want to know when certain error messages should appear for users accessing their Vet Status Card online, so that I can implement that same logic for the mobile app.
+In April 2025, IIR met with Chris Johnston & Melissa Rebstock and shared that much of the other 20% who can't access the card on web come back as "More Research Required". That can mean a lot of different things but we believe that the majority of those are because of unknown discharge statuses in the database. There are also a very small subset of users who were able to access the card before we changed the logic but can't anymore under Title 38 logic. Two things that came out of this meeting: 1) a decision was made that we should eventually look at both APIs to determine who gets the Veteran Status Card - look at the Lighthouse API first and if it comes back as "not confirmed", look at VA Profile + custom logic that we had before 2) However, we should change the VA Profile + custom logic so only folks with "Dishonorable" discharge statuses aren't able to access the card because before it also excluded "Bad Conduct" and "Under other than honorable conditions" from getting the card.
 
+IIR has tickets in our backlog to do this work but it's just a matter of prioritization now. We don't expect access rates to JUMP up if we look at both APIs, but they would go up a little. There's no way to tell how much before doing it.
+
+<details><summary>Future Ineligibility Logic - TBD</summary>
+
+### Summary 
+
+Rather than relying on just the [Veteran Service History & Eligibility API](https://developer.va.gov/explore/api/veteran-service-history-and-eligibility/docs?version=current) to determine who gets the Veteran Status Card, we want to do a combination of the Lighthouse API data and the VA Profile API data that was used prior to 2025. 
+
+- First, look at the Veteran Service History & Eligitbility API > /status endpoint. If a user comes back as "Confirmed", give them access to the Veteran Status Card.
+
+- Second, if a user comes back as "Not Confirmed" check their discharge statuses via VA Profile API and if they have at least one discharge status that isn't unknown or isn't dishonorable, give them access to the Veteran Status Card.
+
+</details>
+
+<details><summary>Current Ineligibility Logic - 2025</summary>
+
+### Summary
+   
+The Veteran Status Card is shown to users who come back as "Confirmed" in the [Veteran Service History & Eligibility API](https://developer.va.gov/explore/api/veteran-service-history-and-eligibility/docs?version=current) > /status endpoint. The API follows the Title 38 definition of Veteran. If we receive a "Not Confirmed" response from the endpoint, there are four reasons as to why the users isn't confirmed: ERROR, MORE_RESEARCH_REQUIRED, NOT_TITLE_38, and PERSON_NOT_FOUND. If a user comes back with any of these reasons, we surface various error messages to them.
+
+When we reached out to Lighthouse to ask more questions about how those status and reasons are designated, we were given the SSC table below. Green: users who come back as "Confirmed" Orange: users who come back as MORE_RESEARCH_REQUIRED Red: users who come back as NOT_TITLE_38
+
+### Service Summary Codes (SSC)
+![Screenshot 2025-06-27 at 1 34 26 PM](https://github.com/user-attachments/assets/da908eb7-970f-4a52-9437-0cfed30b8d95)
+
+
+</details>
+
+<details><summary>Previous Ineligibility Logic - Prior to 2025</summary>
 
 ### Parent Component
 
@@ -99,8 +129,6 @@ indicator: 'Z',
 },
 }
 ```
-
-
 
 
 ### How the unit tests document it

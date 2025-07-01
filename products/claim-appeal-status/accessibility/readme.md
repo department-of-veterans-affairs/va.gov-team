@@ -4,17 +4,39 @@ This documentation covers accessibility-related efforts for Benefits Management 
 
 The [Benefits Management Tools and Decision Reviews Accessibility Work project board](https://github.com/orgs/department-of-veterans-affairs/projects/1255/views/1) contains tickets from team backlogs and the active accessibility work by the embedded accessibility specialist.
 
+## Requesting Accessibility Support
+
+If you are a team member looking for accessibility support, please submit a ticket using the [A11y Support Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/accessibility/a11y-support-template.md).
+
+## Open A11y Issues Quick Links
+- [Claims Status Tool](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=label%3A%22Claim+Status+Tool%22+label%3Aaccessibility++is%3Aopen+)
+- [Letters](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aopen+is%3Aissue+label%3Aletters+label%3Aaccessibility+)
+- [Rated Disabilities](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+is%3Aopen+label%3A%22rated+disabilities%22+label%3Aaccessibility+)
+- [View My Payments History](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+is%3Aopen+label%3Aaccessibility+label%3Aview-payments+)
+
 ## Audits
 
-Claim Status Tool: Last substantial audit took place in [May, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41447). A partial audit took place in [August, 2024](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90566) as part of the 5103 Experience work and [March, 2024](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78461) as part of the Claims Details V2 work. The 508 Office conducted an audit in February, 2025 to cover the work done in 2024. No issues were found. That report is located in the team's accessibility folder on Sharepoint. [Open accessibility issues for Claims Status Tool](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=label%3A%22Claim+Status+Tool%22+label%3Aaccessibility++is%3Aopen+).
+Claim Status Tool: Last substantial audit took place in [May, 2023](https://github.com/department-of-veterans-affairs/va.gov-team/issues/41447). A partial audit took place in [August, 2024](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90566) as part of the 5103 Experience work and [March, 2024](https://github.com/department-of-veterans-affairs/va.gov-team/issues/78461) as part of the Claims Details V2 work. The 508 Office conducted an audit in February, 2025 to cover the work done in 2024. No issues were found. That report is located in the team's accessibility folder on Sharepoint.
 
-Letters: Last substantial audit took place in [August, 2022](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45635). [Open accessibility issues for Letters](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aopen+is%3Aissue+label%3Aletters+label%3Aaccessibility+).
+Letters: Last substantial audit took place in [August, 2022](https://github.com/department-of-veterans-affairs/va.gov-team/issues/45635).
 
-Rated Disabilities: Last substantial audit took place in [July, 2022](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43707). [Open accessibility issues for Rated Disabilities](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+is%3Aopen+label%3A%22rated+disabilities%22+label%3Aaccessibility+).
+Rated Disabilities: Last substantial audit took place in [July, 2022](https://github.com/department-of-veterans-affairs/va.gov-team/issues/43707).
 
-View My Payments History: Last substantial audit took place in [October, 2022](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48987). [Open accessibility issues for View My Payments History](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+is%3Aopen+label%3Aaccessibility+label%3Aview-payments+).
+View My Payments History: Last substantial audit took place in [October, 2022](https://github.com/department-of-veterans-affairs/va.gov-team/issues/48987).
 
 Veteran ID Card: No major accessibility audit.
+
+## Accessibility Annotations
+- 6/2025 Claims Status Tool - [Smooth & Stable Loading Experience](https://www.figma.com/design/xEmJSYGyBFIQcmucFQ8I7C/Smooth--Stable-Loading?node-id=2429-12950&t=dspYV12xeYeHLHRt-0)
+- 6/2025 Claims Status Tool - [Document Status](https://www.figma.com/design/m1Xt8XjVDjZIbliCYcCKpE/Document-status?node-id=6662-41987&t=OlBlRnkodlQnDvGZ-0)
+
+## Accessibility 101 Trainings
+Previous:
+- 6/26/2025 A11y 101: Screenreaders part 1 video & slides
+  - 40 minute session on screenreader basics. Led by @bacitracin
+ 
+Upcoming:
+- 7/16/2025 A11y 101: Keyboard Navigation
 
 ## Resources
 

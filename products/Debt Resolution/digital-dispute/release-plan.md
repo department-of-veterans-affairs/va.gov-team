@@ -65,19 +65,19 @@ DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 
 #### Rollout Planning
 
-- Desired date range:  6/30/25 - 7/14/25
+- Desired date range:  6/30/25 - 7/16/25
 - How will you make the product available in production while limiting the number of users who can find/access it: Use of Feature toggles.
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: Request clicks*
 - Link to the dashboard(s) showing "success criteria" metrics:
 - https://analytics.google.com/analytics/web/#/report/content-event-events/a50123418w177519031p184624291/_u.date00=20221201&amp;_u.date01=20230221&amp;explorer-segmentExplorer.segmentId=analytics.eventLabel&amp;explorer-table.plotKeys=%5B%5D&amp;explorer-table.filter=fsr-5655&amp;explorer-table.secSegmentId=analytics.eventAction&amp;explorer-table.advFilter=%5B%5B0,%22analytics.eventLabel%22,%22RE%22,%22fsr-5655%22,0%5D%5D&amp;_r.drilldown=analytics.eventCategory:Transactions
 - Who is monitoring the dashboard(s)?: FE Developer (Andrew Rodiek) BE Developer (Derek Dyer) and PM (Tom Davis), DM (Heather Rienks)
 
-### Stage A: 10%
+### Stage A: 1%
 
 #### Planning
 
 - Length of time: Seven Days 6/30/25 - 7/7/25
-- Percentage of Users (and roughly how many users do you expect this to be): 10% 
+- Percentage of Users (and roughly how many users do you expect this to be): 1% 
 
 #### Results
 
@@ -88,12 +88,12 @@ DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?:
   - TBD
 
-### Stage B: 25% of users
+### Stage B: 5% of users
 
 #### Planning
 
 - Length of time: Two Days 7/7/25 - 7/9/25
-- Percentage of Users (and roughly how many users do you expect this to be): 25%
+- Percentage of Users (and roughly how many users do you expect this to be): 5%
 
 #### Results
 
@@ -104,12 +104,12 @@ DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?:
   - TBD
 
-### Stage C: 75% of users
+### Stage C: 20% of users
 
 #### Planning
 
-- Length of time: 5 Days 7/9/25 - 7/14/25
-- Percentage of Users (and roughly how many users do you expect this to be): 75%
+- Length of time: Five Days 7/9/25 - 7/14/25
+- Percentage of Users (and roughly how many users do you expect this to be): 20%
 
 #### Results
 
@@ -120,7 +120,23 @@ DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?:
   - TBD
 
-### Stage D: 100% of users
+### Stage D: 50% of users
+
+#### Planning
+
+- Length of time: Two Days 7/14/25 - 7/16/25
+- Percentage of Users (and roughly how many users do you expect this to be): 50%
+
+#### Results
+
+- Number of unique users:
+- Metrics at this stage (per your "success criteria"):
+- Was any downstream service affected by the change?:
+- Types of errors logged:
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?:
+  - TBD
+ 
+### Stage E: 100% of users
 
 #### Planning
 

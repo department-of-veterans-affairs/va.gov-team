@@ -6,8 +6,6 @@
 
 
  ## Background 🏗️
-<details>
-<br>
 	
 `Summary of study`
 <br>
@@ -45,84 +43,80 @@ Veterans currently manage their debt and copayments on VA.gov; this will be a ne
 `Product Brief`
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/mobile/Overpayment%20and%20Copayment%20Debts%20Product%20Brief.md)
 
-</details>
 
 
 ### [OCTO-DE Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md)
 
-<details>
-<br>
-	
 `Objective 1:  VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.`  
 
 > - **Key Result 1:** Improve satisfaction with our web and mobile products by 5 points.
 > - **Key Result 3:** 100% of transactions received via our digital experiences are either processed correctly or we have notified the user of an error.
-</details>
 
 
 ### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
 
-<details>
-<br>
-	
 - `Starting Up (Moment: Balancing Finances)`
 - `Taking Care of Myself (Moment: Maintaining my health)`
 - `Putting Down Roots (Moment: Maintaining my financial, social, and emotional health)`
 - `Retiring (Moment: Taking care of my health)`
 - `Aging (Moment that Matters: Managing my declining health)`
-</details>
 
 ## Research Goals 🥅	
 
 ### Goals
 
-`1.` **Understand how users become aware of and locate information about money they owe.**
+`1.` **Understand how users become aware of and locate information about money they owe in the app.**
 
-`2.` **Assess how well users understand and interpret their copay and overpayment information.**
+`2.` **Assess how well users understand and interpret their copay and overpayment information in the app.**
 
-`3.` **Identify what actions users want to take regarding money owed and evaluate how easily they can find guidance.** 
+`3.` **Identify what actions users want to take regarding money owed and evaluate how easily they can find guidance in the app.** 
 
 `4.` **Evaluate the experience of completing actions outside the app.**
 
+`5.` **Prioritize features for the minimum viable product (MVP) that will handle overpayments and copayments in the app.**
+
 ### Outcomes
 
-- Determine optimal methods and timing for notifications about new debts to guide future design decisions
-- Determine if native app products should be built (or path to external sites will remain) for:
-  - paying copays + overpayment debts
-  - requesting financial help
-  - disputing debts
-- Address and identify accessibility gaps (note: Due to prototype limitations, we likely will not identify all accessibility issues)
 - Validate designs for viewing copays + overpayment debts
-
+- Determine when and how to add  functionality that enables Veterans to take action on copays and overpayment and be notified about new debts. 
+- Address and identify accessibility gaps (note: Due to prototype limitations, we likely will not identify all accessibility issues)
 
 
 ### Research questions
 
 
-**Understand how users become aware of and locate information about money they owe.**
+**Understand how users become aware of and locate information about money they owe in the app.**
 
-`1.` What prompts users to check on or take action regarding money they owe to the VA?  
-`2.` How do users expect to be notified or informed about new debts (e.g., copays, overpayments)?  
+`1.` What prompts users to check on or take action regarding money they owe to the VA (in general, not specific to mobile)?  
+`2.` How do users expect to be notified or informed about new bills or debts (in general, not specific to mobile)?  
 `3.` Can users successfully locate the section of the app with information about money owed?  
-`4.` What term most clearly identifies the section they would go to manage money owed?
 
-**Assess how well users understand and interpret their copay and overpayment information.**
+**Assess how well users understand and interpret their copay and overpayment information in the app.**
 
-`5.` Is the overview of money owed (copays and overpayments) clear, complete, and useful?  
-`6.` Can users access and make sense of detailed information for each item?  
-`7.` Do users feel confident they understand what they owe and why?  
-`8.` Do users find access to downloadable PDF copay statements helpful, and would they use this feature?  
+`4.` Is the overview of money owed (copays and overpayments) clear, complete, and useful?  
+`5.` Can users access and make sense of detailed information for each item?  
+`6.` Do users feel confident they understand what they owe and why?  
+`7. ` Do users find access to downloadable PDF copay statements helpful, and would they use this feature?  
 
-**Identify what actions users want to take regarding money owed and evaluate how easily they can find guidance.** 
+**Identify what actions users want to take regarding money owed and evaluate how easily they can find guidance in the app.**
 
-`9.` What types of actions (e.g., pay, request financial help, dispute a charge) do users expect to take in the app?  
-`10.` How do users expect to complete each of these actions?  
-`11.` Can users find clear, actionable guidance on how to proceed with each option?  
+`8.` What types of actions (e.g., pay, request financial help, dispute a charge) do users expect to take in the app?  
+`9.` How do users expect to complete each of these actions?  
+`10.` Can users find clear, actionable guidance on how to proceed with each option?  
 
 **Evaluate the experience of completing actions outside the app.**
 
-`12.` How do users feel about being redirected to VA.gov to complete actions like requesting help or disputing a debt?  
-`13.` Are users comfortable signing in to a new site and copying/pasting information from the app to complete a payment?  
+`11.` How do users feel about having no option to pay their debt or bills through the app?  
+`12.` How do users feel about leaving the app to pay their debt through pay.va.gov?  
+`13.` How do users feel about leaving the app to pay their bills through pay.gov?  
+`14.` Are users comfortable signing in to a new site and copying/pasting information from the app to complete a payment?  
+`15.` How do users feel about being redirected to VA.gov to complete actions like requesting help or disputing a debt?  
+
+**Prioritize features for the minimum viable product (MVP) that will handle overpayments and copayments in the app.**
+
+`16.` Would users prefer the experiences of leaving the app to pay via pay.va.gov / pay.gov OR having no option to pay from the app at all?  
+`17.` Would users prefer the experience of leaving the app to read help documentation OR seeing help documentation directly in the app?  
+
 
 ### Hypotheses
 
@@ -151,17 +145,12 @@ Note on Accessibility: Due to prototype limitations, this study will not include
 - [ ] **In-person**
 
 
-<!--
 ## Research materials 📔
-
-> [!NOTE]
-> **Your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.**
 
 
 **For moderated usability tests:** 
-- [Link to conversation guide](url goes here)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/mobile/conversation_guide.md)
 - [Link to prototype](url goes here)
--->
 
 
 
@@ -172,7 +161,7 @@ Note on Accessibility: Due to prototype limitations, this study will not include
 ### Recruitment approach
 
 We would like Perigean to recruit Veterans, non-AT users, for Zoom sessions on smartphones.
-Two cohorts: those who have experience with benefits overpayment debts, and those who have experience with VA healthcare copayments.
+Two cohorts: those who have experience with benefits overpayment debts, and those who have experience with VA healthcare copayments. Ideally, some participants will have experience with both.
 
 ### Recruitment criteria
 
@@ -184,12 +173,13 @@ Two cohorts: those who have experience with benefits overpayment debts, and thos
 
 ### Primary criteria (must-haves)
 
-- `All participants must meet at least one of the following primary criteria:`
+- `All participants must meet at least one of the following primary criteria, and ideally some will meet both:`
 	- `Cohort 1: 8 had a debt balance from overpayment debt in last three years`
 	- `Cohort 2: 8 received a VA copayment bill in the last year`
 - `Range of debt amount (for Cohort 1)`
 - `Complete session on their smartphone via the Zoom app`
-- `No assistive technology users or accessibility features turned on` (this is due to prototype limitations; we will be testing with assistive technology at a later date)
+- `No assistive technology users or accessibility features turned on`
+    * (this is due to prototype limitations; we will be testing with assistive technology at a later date)
 
 ### Secondary criteria (nice-to-haves)
 
@@ -363,16 +353,14 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 	- **Jason DeHaan**
 	- **Parker Baranowski**
 	- **Michelle Middaugh**
+	- **Denise Coveyduc** 
 	- **Charlotte Cesana**
 	- **Megan Gayle**
 	- **Marcela Rojas**
 	- **Rory Cooper**
 	- **Joni Chan**
-
-<!--
+	- **Janelle Finnerty**
 
 ## Approvals ✅
-- `Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]`
+- `Reviewed by Michelle Middaugh, OCTO Product Owner on 06-27-2025`
 - `Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]`
-
--->

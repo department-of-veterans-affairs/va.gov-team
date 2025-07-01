@@ -1,8 +1,3 @@
-Here’s the scrubbed‑for‑accuracy version of your markdown.
-**All file paths, flag names, and status values now match the current CST code base.**
-
----
-
 # How the **Improved Evidence Request** text is applied in the Claims Status Tool (CST)
 
 > **Who is this for?**

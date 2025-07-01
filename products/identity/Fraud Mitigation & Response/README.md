@@ -1,81 +1,79 @@
 # Fraud Mitigation & Response – Product Brief
 
-### **What’s the problem?**
+## What’s the problem?
 
-We currently lack visibility into how much fraud is occurring within our identity ecosystem. We don’t track digital identity-related fraud consistently and we don’t have defined processes to detect, mitigate, or respond to account takeovers or unauthorized access (BDPR\*\*).
+We currently lack visibility into how much digital access fraud is occurring within our identity ecosystem. There are no consistent mechanisms to track identity-related fraud or defined processes to detect, mitigate, or respond to account takeovers and unauthorized access.
 
-Our identity verification system was built to reduce fraud risk, but we’ve focused more on getting users in than safeguarding accounts post-verification. Veterans are disproportionately targeted for phishing, scams, and fraud and we are not fully equipped to monitor or respond.
+Our identity verification system was built to reduce fraud risk, but we’ve historically prioritized access and onboarding over ongoing account protection. Veterans are disproportionately targeted for phishing, scams, and identity fraud, yet we are not fully equipped to monitor or respond when these threats succeed.
 
-### **Why now / how does it align?**
+## Why now / how does it align?
 
-Fraud prevention is a key reason VA implemented identity verification in the first place. Now that we’ve made progress on sign-in and credential modernization, it’s time to shift focus back to protecting verified accounts.
+Fraud prevention was a driving force behind VA’s identity verification efforts. Now that we’ve modernized our sign-in experience and credential ecosystem, it’s time to shift focus toward protecting verified accounts.
 
-This work is also scoped in our contract and aligns with OCTO’s mandate to safeguard Veteran data and digital access.
+This work is also scoped in our current contract and aligns with OCTO’s mandate to safeguard Veteran data and access. Addressing this now helps ensure that modernization efforts don’t inadvertently open new vulnerabilities.
 
-### **What happens if we solve it? What if we don’t?**
+## What happens if we solve it? What if we don’t?
 
-**If we solve it:**  
-We build a clear understanding of fraud patterns, establish appropriate levels of protection, and develop a human-centered detection and response strategy.
+**If we solve it:**
+- We build a clearer understanding of fraud patterns and vulnerabilities.
+- We define protections that detect and mitigate risk without creating undue friction.
+- We improve Veteran trust in digital access and service integrity.
 
-**If we don’t:**  
-We risk exposing Veterans to account misuse, benefit manipulation (especially via direct deposit changes), and credential-based fraud – with no real way to detect or act quickly. It also undermines trust in digital VA services.
+**If we don’t:**
+- Veterans may remain exposed to account misuse, direct deposit fraud, and unauthorized access with no consistent means of detection or response.
+- Trust in VA’s digital systems could erode, especially among already vulnerable users.
 
-### **How will we know it worked?**
+## How will we know it worked?
 
-**Short-term (Discovery-Phase) Signals:**
+### Short-term (Discovery Phase) Success Signals:
+- A shared understanding of identity-related fraud risk is established.
+- Key fraud categories and vulnerable flows are identified.
+- Detection signals and instrumentation gaps are surfaced.
+- Stakeholders are aligned on ownership, responsibilities, and response approaches.
+- Small bets are scoped or validated for next-phase work.
 
-* We’ve established a baseline understanding of identity-related fraud  
-* We’ve defined key fraud categories and surfaced vulnerable flows  
-* We’ve identified useful signals and instrumentation gaps  
-* We’ve aligned stakeholders on ownership, response, and legal responsibilities  
-* Small bets are scoped or validated for further work
+### Long-term (Implementation Phase) Success Signals:
+- Baseline metrics are established for confirmed or suspected fraud.
+- A shared framework exists for Prevention, Detection, Response, and Operational coordination.
+- High-impact fraud vectors are monitored or mitigated.
+- False positives are reduced while meaningful patterns surface.
+- BDPR and related teams adopt or coordinate around a unified fraud response model.
 
-**Long-term (Implementation-Phase) Signals:**
+## What’s the minimum needed? What’s out of scope?
 
-* Baseline metrics are tracked for confirmed and suspected fraud incidents  
-* A tiered framework is adopted: Prevention, Detection, Response, and Ops playbook  
-* High-impact fraud vectors are reduced or monitored  
-* False positives decrease while meaningful patterns surface  
-* BDPR and related teams use a shared fraud response model\*\*  
-  * We at least need to have shared understanding here
+### Minimum (Post-Discovery Priorities):
+- Define key fraud types and detection signals within the identity layer.
+- Identify and instrument high-risk flows.
+- Draft a cross-team fraud response playbook.
+- Establish baseline metrics and partner-aligned thresholds.
 
-### **What’s the minimum needed? What’s out of scope?**
+> _Note: Small bets may emerge during discovery that offer low-lift opportunities to explore value or unlock future capabilities._
 
-**Minimum (post-discovery priorities):**
+### Out of Scope (for now):
+- Full cross-agency fraud-sharing pipelines
+- Real-time behavioral biometrics or advanced ML systems
+- Investigations beyond digital identity-related fraud
 
-* Define fraud types and detection signals in our system  
-* Identify and instrument fraud-prone flows  
-* Draft a fraud response playbook aligned with BDPR and IAM (and any other relevant groups)  
-* Set and track baseline metrics
+## What are we trying to understand?
 
-*Note:* Some small bets may emerge during discovery that help us assess user value or unlock larger capabilities without committing to full builds.
+To guide this work, we’re focusing on three key questions:
 
-**Out of Scope (for now):**
+- **What is the fraud landscape at VA today, and where does our team fit into it?**  
+  _We may be the connective tissue between upstream verification and downstream benefit fraud._
 
-* Full cross-agency fraud sharing (unless…?)  
-* Real-time behavioral biometrics or advanced ML detection  
-* Investigations outside the digital identity domain
+- **How can we block fraud while protecting legitimate users from unnecessary friction?**
 
-### **What we’re exploring now (Discovery Questions)**
+- **What is our organizational appetite for fraud risk, and do stakeholders agree on what’s “enough” protection?**
 
-* What types of fraud are happening today and where?  
-* How is fraud currently detected, escalated, and resolved?  
-* What are our legal responsibilities when fraud occurs?  
-* What patterns are emerging?  
-* What’s our organizational appetite for fraud and false positives?  
-* What fraud response roles or gaps exist between IAM, BDPR, and other teams?
+## Discovery in Progress
 
-### **Discovery in Progress**
+This initiative is structured under the **Identity Fraud Discovery & Strategy Baseline** super epic. Discovery spans several thematic workstreams:
 
-This work is being structured under the [**Identity** **Fraud Discovery & Strategy Baseline**](https://github.com/department-of-veterans-affairs/identity-documentation/issues/204) milestone / super epic.  
-It includes the following thematic epics:
+- `Landscape & Metrics`
+- `Stakeholder Roles & Process Mapping`
+- `Signals & Data Review`
+- `Risk Appetite & Usability Tradeoffs`
 
-* **Landscape & Metrics**  
-* **Process Mapping & Stakeholder Roles**  
-* **Signals & Data Review**  
-* **Usability & Risk Tradeoffs**  
-* **Risk Appetite Framing**
+**Track work in GitHub**: _[link]_ _to be added_ 
 
-**Track in GitHub:** Under the **6 Q2 2025 Fraud Mitigation and Response**  
-**Point of contact:** Joelle Wells or Joe Niquette
-
+**Point of contact**: Joelle Wells or Joe Niquette

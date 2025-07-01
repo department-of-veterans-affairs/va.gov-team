@@ -85,11 +85,11 @@ Provide CHAMPVA Benefits Application and OHI submission as a merged form.
 ## Launch Strategy
 - *How are Veterans and others using this product going to know it exists?*
 - *What marketing, outreach, or communications are necessary for this product to be successful?*
-- [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+- [Link to Release Plan]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/10-10D%20Extended%20Release%20Plan))
 
 Incident Response info
 
-[Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/zsa-453-at7/ivc-champva-forms?fromUser=false&refresh_mode=sliding&from_ts=1739300121041&to_ts=1741892121041&live=true) [Monitoring Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/team/ivc-forms-monitoring-playbook.md)
+[ivc-champva-forms](https://vagov.ddog-gov.com/dashboard/zsa-453-at7/ivc-champva-forms?fromUser=false&refresh_mode=weekly&from_ts=1734391252265&to_ts=1734709253529&live=true) will be monitored by the team **(TO BE UPDATED WHEN 10-10D EXTENDED DASBHOARD IS LIVE)** [Monitoring Playbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/team/ivc-forms-monitoring-playbook.md)
 
 Rollback & Fix plan (1-3 days to triage and implement fix)
 

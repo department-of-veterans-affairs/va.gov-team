@@ -1,4 +1,4 @@
-# Direct Deposit Use Cases
+# Direct deposit use cases
 
 **Last updated: June 2025**
 
@@ -38,15 +38,14 @@
 
 - **Use case:** Detected that the user is not receiving any payments.
 - **Status code:** TBD
+- **Format:** Body copy
+- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2424-4009&t=eM3nXOqLcnsRrXAu-1)
+- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/cc4af4e2e0fed33ea05835acd63566fd02970abd/src/applications/personalization/profile/components/direct-deposit/alerts/Ineligible.jsx)
 - **Content:**
 
 Our records show that you don’t receive benefit payments from VA.
 
 If you think this is an error, or think you have been a victim of bank fraud call us at 800-827-1000 (TTY: 711). We’re here Monday through Friday, 8:00 a.m. to 9:00 p.m. ET.
-
-- **Format:** Body copy
-- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2302-7003&t=2E35Z57ibI3XozvU-1)
-- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/cc4af4e2e0fed33ea05835acd63566fd02970abd/src/applications/personalization/profile/components/direct-deposit/alerts/Ineligible.jsx)
 
 </details>
 
@@ -55,10 +54,10 @@ If you think this is an error, or think you have been a victim of bank fraud cal
 
 - **Use case:** Detected the user is receiving payments, but does not have direct deposit set up.
 - **Status code:** TBD
-- **Content:** Content prompts user to add bank account information by clicking the 'Edit' button.
 - **Format:** See designs
-- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2308-6926&t=2E35Z57ibI3XozvU-1)
+- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2424-4015&t=eM3nXOqLcnsRrXAu-1)
 - [Link to code]
+- **Content:** Content prompts user to add bank account information by clicking the 'Edit' button.
 
 </details>
 
@@ -67,10 +66,10 @@ If you think this is an error, or think you have been a victim of bank fraud cal
 
 - **Use case:** Detected the user is receiving payments, and has direct deposit set up.
 - **Status code:** 200
-- **Content:** Bank account information shows as read only, with an option to click an 'Edit' button to change information.
 - **Format:** See designs
-- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2300-6759&t=2E35Z57ibI3XozvU-1)
+- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2424-6798&t=eM3nXOqLcnsRrXAu-1)
 - [Link to code]
+- **Content:** Bank account information shows as read only, with an option to click an 'Edit' button to change information.
 
 </details>
 
@@ -84,16 +83,16 @@ If you think this is an error, or think you have been a victim of bank fraud cal
 **Editing**
 - All fields appear inline in the Bank account information section. For security purposes, all fields are blank when edit mode is entered.
 - Errors appear inline with inputs per VADS component standards.
-- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2278-6852&t=2E35Z57ibI3XozvU-1)
+- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2424-3990&t=eM3nXOqLcnsRrXAu-1)
 
 **Saving changes**
 - Once the form is successfully saved, the user is returned to "read" mode and a success alert displays above the edit button.
 - When Bank account information is changed, a confirmation email is sent to the user in case they did not make these updates. We send these emails to both the contact email address in the profile **and** the sign in email address in case of fraud. These confirmation emails have information on how to report fraud.
-- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2308-7149&t=2E35Z57ibI3XozvU-1)
+- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2424-3987&t=eM3nXOqLcnsRrXAu-1)
 
 **Canceling changes**
 - If a user has made changes to any form field, and hits cancel, they'll be presented with a modal asking them to confirm they want to leave edit mode.
-- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2308-7194&t=2E35Z57ibI3XozvU-1)
+- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2424-3984&t=eM3nXOqLcnsRrXAu-1)
 
 </details>
 
@@ -110,6 +109,9 @@ If you think this is an error, or think you have been a victim of bank fraud cal
 
 - **Use case:** Error will appear when we are having issues connecting to the back end, and can't determine if they have direct deposit information to show. There is no action the user can take to correct this.
 - **Status code:** TBD
+- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
+- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2424-3899&t=eM3nXOqLcnsRrXAu-1)
+- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/cc4af4e2e0fed33ea05835acd63566fd02970abd/src/applications/personalization/profile/components/direct-deposit/alerts/TemporaryOutage.jsx#L32)
 - **Content:**
 
 H2: Direct deposit information isn’t available right now
@@ -117,10 +119,6 @@ H2: Direct deposit information isn’t available right now
 We’re sorry. Direct deposit information isn’t available right now. We’re doing some maintenance work on this system.
 
 Refresh this page or try again later.
-
-- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
-- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2327-23209&t=LjjeJObYt6wPn3uz-1)
-- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/cc4af4e2e0fed33ea05835acd63566fd02970abd/src/applications/personalization/profile/components/direct-deposit/alerts/TemporaryOutage.jsx#L32)
 
 </details>
 
@@ -133,15 +131,14 @@ Refresh this page or try again later.
 
 - **Use case:** User edits their Bank account information, a call is made to match the routing number, and the routing number is incorrect. Alert appears above input fields in Bank account information edit use case.
 - **Status code:** TBD
+- **Format:** [Error alert component](https://design.va.gov/components/alert/#error-alert)
+- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2424-3972&t=eM3nXOqLcnsRrXAu-1)
+- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blame/8bb9e606cbe6ac0d17598e748a550218b5bf3f2f/src/applications/personalization/profile/components/direct-deposit/alerts/UpdateErrorAlert.jsx#L65)
 - **Content:**
 
-We can’t find a bank linked to the routing number you entered.
+H2: We can’t find a bank linked to the routing number you entered.
 
 Review your routing number and make sure it’s correct.
-
-- **Format:** [Error alert component](https://design.va.gov/components/alert/#error-alert)
-- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2313-7102&t=LjjeJObYt6wPn3uz-1)
-- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blame/8bb9e606cbe6ac0d17598e748a550218b5bf3f2f/src/applications/personalization/profile/components/direct-deposit/alerts/UpdateErrorAlert.jsx#L65)
 
 </details>
 
@@ -150,13 +147,12 @@ Review your routing number and make sure it’s correct.
 
 - **Use case:** User edits their Bank account information, a call is made to match the home and work phone, and the information is incorrect. There is no requirement to have valid phone numbers on file, and this is a legacy event from eBenefits. [More context linked here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/validation-address-phone.md). Alert appears above input fields in Bank account information edit use case.
 - **Status code:** TBD
+- **Format:** [Slim error alert component](https://design.va.gov/components/alert/#error-alert)
+- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2424-3960&t=eM3nXOqLcnsRrXAu-1)
+- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blame/8bb9e606cbe6ac0d17598e748a550218b5bf3f2f/src/applications/personalization/profile/components/direct-deposit/alerts/UpdateErrorAlert.jsx#L106)
 - **Content:**
 
 We’re sorry. We couldn’t update your direct deposit bank information because your ${phoneNumberType} phone number is missing or invalid. Please go back to your profile and fill in this required information.
-
-- **Format:** [Error alert component](https://design.va.gov/components/alert/#error-alert)
-- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2313-7301&t=LjjeJObYt6wPn3uz-1)
-- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blame/8bb9e606cbe6ac0d17598e748a550218b5bf3f2f/src/applications/personalization/profile/components/direct-deposit/alerts/UpdateErrorAlert.jsx#L106)
 
 </details>
 
@@ -165,13 +161,12 @@ We’re sorry. We couldn’t update your direct deposit bank information because
 
 - **Use case:** User edits their Bank account information, a call is made to match the address, and the information is incorrect. There is no requirement to have valid addresses on file, and this is a legacy event from eBenefits. [More context linked here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/validation-address-phone.md). Alert appears above input fields in Bank account information edit use case.
 - **Status code:** TBD
+- **Format:** [Slim error alert component](https://design.va.gov/components/alert/#error-alert)
+- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2424-3948&t=eM3nXOqLcnsRrXAu-1)
+- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blame/8bb9e606cbe6ac0d17598e748a550218b5bf3f2f/src/applications/personalization/profile/components/direct-deposit/alerts/UpdateErrorAlert.jsx#L93)
 - **Content:**
 
 We’re sorry. We couldn’t update your direct deposit bank information because your mailing address is missing or invalid. Please go back to your profile and fill in this required information.
-
-- **Format:** [Error alert component](https://design.va.gov/components/alert/#error-alert)
-- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2313-7405&t=LjjeJObYt6wPn3uz-1)
-- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blame/8bb9e606cbe6ac0d17598e748a550218b5bf3f2f/src/applications/personalization/profile/components/direct-deposit/alerts/UpdateErrorAlert.jsx#L93)
 
 </details>
 
@@ -182,6 +177,9 @@ We’re sorry. We couldn’t update your direct deposit bank information because
 
 - **Use case:** User edits their Bank account information, a call is made to check for fraud, and returns the alert. Alert appears above input fields in Bank account information edit use case.
 - **Status code:** PUT/UPDATE 422
+- **Format:** [Error alert component](https://design.va.gov/components/alert/#error-alert)
+- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2424-3935&t=eM3nXOqLcnsRrXAu-1)
+- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blame/8bb9e606cbe6ac0d17598e748a550218b5bf3f2f/src/applications/personalization/profile/components/direct-deposit/alerts/UpdateErrorAlert.jsx#L123C10-L123C33)
 - **Content:**
 
 H2: We couldn't update your direct deposit information
@@ -194,10 +192,6 @@ Call us at 800-827-1000 (TTY: 711). Tell the representative you received this me
 
 Or you can contact a regional office near you to come in for help in person. [Find a VA regional office near you (opens in a new tab)](https://www.va.gov/find-locations)
 
-- **Format:** [Error alert component](https://design.va.gov/components/alert/#error-alert)
-- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2324-22645&t=LjjeJObYt6wPn3uz-1)
-- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blame/8bb9e606cbe6ac0d17598e748a550218b5bf3f2f/src/applications/personalization/profile/components/direct-deposit/alerts/UpdateErrorAlert.jsx#L123C10-L123C33)
-
 </details>
 
 
@@ -205,6 +199,9 @@ Or you can contact a regional office near you to come in for help in person. [
 
 - **Use case:** User edits their Bank account information, a call is made to check for routing number fraud, and returns the alert. Alert appears above input fields in Bank account information edit use case.
 - **Status code:** TBD
+- **Format:** [Error alert component](https://design.va.gov/components/alert/#error-alert)
+- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2424-3919&t=eM3nXOqLcnsRrXAu-1)
+- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blame/8bb9e606cbe6ac0d17598e748a550218b5bf3f2f/src/applications/personalization/profile/components/direct-deposit/alerts/UpdateErrorAlert.jsx#L37)
 - **Content:**
 
 H2: We couldn't update your direct deposit information
@@ -214,10 +211,6 @@ We’re sorry. The bank routing number you entered requires additional verificat
 You can also update this information by mail or in person at a VA regional office.
 
 [Learn how to update your direct deposit bank information.](https://www.va.gov/change-direct-deposit/)
-
-- **Format:** [Error alert component](https://design.va.gov/components/alert/#error-alert)
-- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2384-7878&t=BL6lzEhD4KknMHDG-1)
-- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blame/8bb9e606cbe6ac0d17598e748a550218b5bf3f2f/src/applications/personalization/profile/components/direct-deposit/alerts/UpdateErrorAlert.jsx#L37)
 
 </details>
 
@@ -232,15 +225,14 @@ You can also update this information by mail or in person at a VA regional offic
    - PUT **401** Unauthenticated user
    - PUT **403** Forbidden user
    - PUT **502** Bad gateway, API not receiving answer from back end server
+- **Format:** [Error alert component](https://design.va.gov/components/alert/#error-alert)
+- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2424-3905&t=eM3nXOqLcnsRrXAu-1)
+- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blame/8bb9e606cbe6ac0d17598e748a550218b5bf3f2f/src/applications/personalization/profile/components/direct-deposit/alerts/UpdateErrorAlert.jsx#L81)
 - **Content:**
 
 H2: We couldn't update your direct deposit information
 
 We’re sorry. We couldn’t update your payment information. Please try again later.
-
-- **Format:** [Error alert component](https://design.va.gov/components/alert/#error-alert)
-- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2324-22985&t=LjjeJObYt6wPn3uz-1)
-- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blame/8bb9e606cbe6ac0d17598e748a550218b5bf3f2f/src/applications/personalization/profile/components/direct-deposit/alerts/UpdateErrorAlert.jsx#L81)
 
 </details>
 
@@ -253,15 +245,14 @@ We’re sorry. We couldn’t update your payment information. Please try again l
    - GET **403** Forbidden user
    - GET **502** Bad gateway, API not receiving answer from back end server
    - GET **503** Service unavailable
+- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert) replaced Bank information widget. Widget does not show.
+- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2424-3902&t=eM3nXOqLcnsRrXAu-1)
+- [Link to code]
 - **Content:**
 
 H2: This page isn't available right now.
 
 We're sorry. Something went wrong on our end. Refresh this page or try again later.
-
-- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert) replaced Bank information widget. Widget does not show.
-- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2324-23090&t=LjjeJObYt6wPn3uz-1)
-- [Link to code]
 
 </details>
  

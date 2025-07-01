@@ -6,7 +6,9 @@
 
 **Contacts:** Ben Nguyen
 
-[Link to Research Readout](https://dvagov-my.sharepoint.com/:p:/r/personal/hoan_nguyen1_va_gov/Documents/dg%20usability.pptx?d=w2dbf7f6e26284d269ac9ec14aedc1f81&csf=1&web=1&e=ofBSqh)
+[Link to Research Readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/clinical-decision-support/VA-CDS-data-visualization-patterns/patterns/data-grid/research/images/dg%20usability.pdf)
+
+
 
 **Jump to:**
 

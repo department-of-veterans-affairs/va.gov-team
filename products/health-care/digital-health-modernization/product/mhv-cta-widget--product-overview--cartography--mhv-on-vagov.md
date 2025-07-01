@@ -8,9 +8,11 @@
 
 The VA places "widgets" (React applications) on unauthenticated pages to tell users to log in before they can see a link to applications that would require them to log in to use. The My HealtheVet (MHV) Call-to-action (CTA) serve this purpose for the MHV-on-VA.gov applications.
 
+OCTO stakeholders asked us to implement changes to widgets that appear on unauthenticated health-care pages on VA.gov in early 2024. The deprecation of an "MHV login" and other changes related to the migration of MHV tools to VA.gov resulted in needed changes to the widgets, and at the time, ownership of the larger widget codebase was in limbo. Since Cartographers were close to the MHV migration, we were asked to make the changes in lieu of a code owner.
+
 ## II. Key Stakeholders & Roles
 
-- **OCTO:** Unknown
+- **OCTO:** N/A
 - **Identity team:** CTA widget codeowners, [OCTO Identity Team](https://github.com/orgs/department-of-veterans-affairs/teams/octo-identity), \[Email\]
 - **MHV Cartographers:** Product development, [Cartography team](https://github.com/orgs/department-of-veterans-affairs/teams/vfs-mhv-integration), \[Email\]
 - **CAIA / Drupal content:** Owns static content pages and integration with widgets with Drupal, ???, \[Email\]

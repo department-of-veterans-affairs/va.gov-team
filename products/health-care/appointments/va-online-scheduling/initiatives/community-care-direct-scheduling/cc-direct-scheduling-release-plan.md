@@ -1,9 +1,9 @@
 # Release Plan - Community Care Direct Scheduling
 
 **Important Dates:**
- - [ ] Staging Review -  05/09/2025
+ - [ ] Staging Review -  06/06/2025
  - [ ] Go/no go Meeting - TBD
- - [ ] Prod Release Pilot (Phase 1) - TBD
+ - [ ] Prod Release Pilot (Phase 1) - 07/01/2025
  - [ ] Prod Release Remaining Specialties (Phase 2) - TBD
 
 **Important Links:**
@@ -16,7 +16,7 @@
 
 ### Functionality Delivered
 A Veteran is able to directly schedule their comunity care appointments for **optometry** by:
-- Receiving a push notification text message directing them to schedule an appointment; 
+- Receiving a text message directing them to schedule an appointment; 
 - Log in to va.gov and access requests and referrals.
 
 ### Rollout Strategy

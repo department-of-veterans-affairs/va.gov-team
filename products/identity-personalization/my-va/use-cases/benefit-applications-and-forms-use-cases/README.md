@@ -36,11 +36,7 @@
 - **Format:** See designs
 - [Link to designs](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=5077-16410&t=KhCgIDPMpZ6FClDG-1)
 - [Link to code]
-- **Content:**
-
-In-progress forms: You currently don’t have any in-progress forms or applications to show.
-
-Completed forms: You currently don’t have any completed forms or applications to show. 
+- **Content:** See designs.
 
 </details>
 
@@ -54,9 +50,9 @@ Completed forms: You currently don’t have any completed forms or applications 
 - [Link to code](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/engineering-docs/frontend/benefit-applications-and-forms.md)
 - **Content:**
 
+   - Status
    - Application title
    - Form number
-   - Status
    - Application expiration date
    - Last saved one date
    - Link: Continue application
@@ -73,13 +69,14 @@ Completed forms: You currently don’t have any completed forms or applications 
 - [Link to code](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/engineering-docs/frontend/benefit-applications-and-forms.md)
 - **Content:**
 
+   - Current step in the submission process (Submission in progress, Received, or Action needed)
    - Application name
    - Form code
-   - Current step in the submission process (Submission in progress, Received, or Action needed)
    - Submitted on date
-   - Last updated date
+   - Received on date
    - IF applicable: Next steps
-   - IF action needed: an error alert
+   - VA contact information
+   - IF action needed: An error alert
 
 </details>
 
@@ -93,14 +90,16 @@ Completed forms: You currently don’t have any completed forms or applications 
 - [Link to code](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/engineering-docs/frontend/benefit-applications-and-forms.md)
 - **Content:**
 
-   - Form name
-   - Form code
    - Current step in the submission process (Submission in progress, Received, or Action needed)
+   - Application name
+   - Form code
    - PDF download button
    - Submitted on date
-   - Last updated date
-   - IF applicable: Next steps information
-   - IF action needed: an error alert
+   - Received on date
+   - Download available until date
+   - IF applicable: Next steps
+   - VA contact information
+   - IF action needed: An error alert
 
 </details>
 
@@ -124,7 +123,7 @@ There are no flags with this feature.
 - [Link to code]
 - **Content:**
 
-We can’t currently display your forms and applications. Please refresh or try again later.
+We can’t show your forms and applications right now. Refresh this page or try again later.
 
 </details>
 

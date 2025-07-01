@@ -2,6 +2,60 @@
 
 _**Overview:** This tracker is designed to track sprint goals with completed work, providing a comprehensive view of goals achieved._
 
+# Sprint 8 Goals & Tickets \[07/02/25 - 07/15/25]
+## Disability Benefits 1
+|                             SPRINT TICKETS                              |                                     TICKET NUMBER                                     | ESTIMATE | REASON IF NOT COMPLETE | UPDATE DATE |       STATUS        |
+|-------------------------------------------------------------------------|---------------------------------------------------------------------------------------|----------|------------------------|-------------|---------------------|
+| Detect and alert if LH PDF failed to upload                             | [112682](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112682) | 5        |                        |             | Current Sprint      |
+| Check for duplicate uploads historical data.                            | [112928](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112928) | 3        |                        |             | Prioritized Backlog |
+| Confirmation page review submited information                           | [112927](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112927) | 5        |                        |             | Prioritized Backlog |
+| 4142 MVP FE development -  authorization page development               | [112922](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112922) | 5        |                        |             | Prioritized Backlog |
+| discovery to do full accounting of errors causing 526 to go backup path | [112648](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112648) | 5        |                        |             | Prioritized Backlog |
+| Manual process/sop for resolving if LH PDF failed to upload             | [112867](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112867) | 3        |                        |             | Prioritized Backlog |
+| Fix user ability to upload locked files - discovery                     | [112670](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112670) | 5        |                        |             | Prioritized Backlog |
+| Explore Alternative Designs for Copy of Submission                      | [112951](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112951) | 3        |                        |             | New Issues          |
+| 0781 Supporting Documents: Share Findings                               | [113124](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113124) | 3        |                        |             | New Issues          |
+| 4142 MVP IPF Handling Approach                                          | [113171](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113171) | 5        |                        |             | New Issues          |
+
+## Disability Benefits 2
+|                             SPRINT TICKETS                             |                                     TICKET NUMBER                                     | ESTIMATE | REASON IF NOT COMPLETE | UPDATE DATE |       STATUS        |
+|------------------------------------------------------------------------|---------------------------------------------------------------------------------------|----------|------------------------|-------------|---------------------|
+| Identify the list of Veterans currently affected by empty disabilities | [112767](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112767) | 5        |                        |             | Prioritized Backlog |
+| Patch Validation Gaps in V3 Form Components for Date Fields - Phase 2  | [110064](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110064) | 5        |                        |             | Prioritized Backlog |
+| Refactor Existing Date Handling to Use Centralized Utility - Phase 2   | [110063](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110063) | 5        |                        |             | Prioritized Backlog |
+| Reach out to Contact Center to inform blocked Veterans                 | [112766](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112766) | 2        |                        |             | Prioritized Backlog |
+| Fix react/prop-types warnings across all-claims                        | [112771](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112771) | 3        |                        |             | Prioritized Backlog |
+| Update copy of date validation error messages (within TE flow)         | [112782](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112782) | 2        |                        |             | Prioritized Backlog |
+| Follow up - 2 code scanning errors for 21-526EZ                        | [112938](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112938) | 3        |                        |             | Prioritized Backlog |
+| 0781 Supporting Documents: Design review, crit, documentation          | [113046](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113046) | 5        |                        |             | New Issues          |
+| 0781 Bug Discovery Shareout                                            | [113123](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113123) | 3        |                        |             | New Issues          |
+
+## Conditions
+|                             SPRINT TICKETS                             |                                         TICKET NUMBER                                          | ESTIMATE | REASON IF NOT COMPLETE | UPDATE DATE |       STATUS        |
+|------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|----------|------------------------|-------------|---------------------|
+| Verify the API returns only active classification codes                | [809](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/809) | 3        |                        |             | Prioritized Backlog |
+| Synthesize usability testing results                                   | [802](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/802) | 3        |                        |             | Prioritized Backlog |
+| Audit Current Disability Benefits Workflow                             | [814](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/814) | 3        |                        |             | Prioritized Backlog |
+| Write usability testing report for New/Increase at the Condition Level | [813](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/813) | 3        |                        |             | Prioritized Backlog |
+| Deploy ML classifier to staging environment                            | [816](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/816) | 3        |                        |             | Prioritized Backlog |
+| "Anxiety" typo                                                         | [573](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/573) | 2        |                        |             | New Issues          |
+| Compare Prototype vs. Current Flow                                     | [815](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/815) | 3        |                        |             | New Issues          |
+
+## Employee experience
+|                       SPRINT TICKETS                       |                                     TICKET NUMBER                                     | ESTIMATE | REASON IF NOT COMPLETE | UPDATE DATE |       STATUS        |
+|------------------------------------------------------------|---------------------------------------------------------------------------------------|----------|------------------------|-------------|---------------------|
+| Build prototypes to usability test for document submission | [4292](https://github.com/department-of-veterans-affairs/abd-vro/issues/4292)         | 8        |                        |             | Prioritized Backlog |
+| Build jumplinks [overflow -> form]                         | [112997](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112997) | 5        |                        |             | Prioritized Backlog |
+| EE team norming session                                    | [113002](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113002) | 3        |                        |             | Prioritized Backlog |
+| Long-term F/SI architecture discussion                     | [113006](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113006) | 3        |                        |             | Prioritized Backlog |
+
+## Cross team
+|                                  SPRINT TICKETS                                   |                                     TICKET NUMBER                                     | ESTIMATE | REASON IF NOT COMPLETE | UPDATE DATE |       STATUS        |
+|-----------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|----------|------------------------|-------------|---------------------|
+| Identify key indicators to display in main 526 disability Datadog dashboard       | [113168](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113168) | 5        |                        |             | Prioritized Backlog |
+| Review/Create/Fix alerts to monitor "submit all claims" anomalies                 | [113226](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113226) | 5        |                        |             | Prioritized Backlog |
+| Automate an exportable version of the Sprint Plan and Sprint Review markdown file | [113163](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113163) | 3        |                        |             | New Issues          |
+
 
 # Sprint 7 Goals & Tickets \[06/18/25 - 07/01/25] - Cross-team initiatives
 
