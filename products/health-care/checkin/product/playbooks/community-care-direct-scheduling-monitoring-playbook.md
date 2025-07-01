@@ -18,7 +18,8 @@ and have the necessary information to address problems quickly.  To accomplish i
 - [VAOS Vets API Endpoint Error Rate - Community Care Referral Fetch](https://vagov.ddog-gov.com/monitors/384298)
 - [VAOS Vets API Endpoint Error Rate - Community Care Draft Create](https://vagov.ddog-gov.com/monitors/382158)
 - [VAOS Vets API Endpoint Error Rate - Community Care Appointment Create](https://vagov.ddog-gov.com/monitors/382190)
-- [VAOS Vets API Endpoint Error Rate - Community Care Appointment Status Check](https://vagov.ddog-gov.com/monitors/384196) 
+- [VAOS Vets API Endpoint Error Rate - Community Care Appointment Status Check](https://vagov.ddog-gov.com/monitors/384196)
+- [VAOS Vets API Endpoint Error Rate - Community Care Appointments Fetch](https://vagov.ddog-gov.com/monitors/384560)
 
 ## Process expectations
 
