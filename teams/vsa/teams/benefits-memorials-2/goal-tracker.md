@@ -228,13 +228,13 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 ## Sprint Goals - Sprint: 11 [6/18/25 - 7/1/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
-|UX: Draft the design Ideation for Hardship suspension based off the 6/17 kickoff meeting. | QP8 |--|--|--|
-|UX: Create initial mockups for the Pay.gov Authenticated Copay path. | QP6 |--|--|--|
-|UX: Review staging implementation of DD with ENG prior to launch. | QP4 |--|--|--|
-|ENG: Prepare the QA Artifacts for the Digital Debt Dispute staging review.| QP4 |--|--|--|
-|ENG: Finish creating and run the E2E tests for validating the Digital Debt Dispute prior to launch.| QP4 |--|--|--|
-|ENG: Implement any launch required updates based off of the UX research for Digital Debt Dispute. | QP4 |--|--|--|
-|ENG: Launch Digital Debt Dispute. | QP4 |--|--|--|
+|UX: Draft the design Ideation for Hardship suspension based off the 6/17 kickoff meeting. | QP8 |--|07/01/25|Completed|
+|UX: Create initial mockups for the Pay.gov Authenticated Copay path. | QP6 |--|06/30/25|Completed|
+|UX: Review staging implementation of DD with ENG prior to launch. | QP4 |--|06/25/25|Completed|
+|ENG: Prepare the QA Artifacts for the Digital Debt Dispute staging review.| QP4 |--|06/23/25|Completed|
+|ENG: Finish creating and run the E2E tests for validating the Digital Debt Dispute prior to launch.| QP4 |--|06/26/25|Completed|
+|ENG: Implement any launch required updates based off of the UX research for Digital Debt Dispute. | QP4 |--|--|Incomplete|
+|ENG: Launch Digital Debt Dispute. | QP4 |--|--|Incomplete|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [X] Ready to be sent for approvals (06/16/25)
@@ -243,8 +243,10 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
  - [X] VA COR approved the Sprint Goals (06/17/25)
  
 **_Delivery + Notes:_**
-- [ ] All goals have been updated in the sprint chart
-- [ ] Any Additional details about goals **not** completed will be documented here
+- [X] All goals have been updated in the sprint chart
+- [X] Any Additional details about goals **not** completed will be documented here
+- For this goal: "Implement any launch required updates based off of the UX research for Digital Debt Dispute," we did not complete all updates.
+- For this goal:"ENG: Launch Digital Debt Dispute,"  the launch was delayed due to launch-blocking Staging Review feedback.
 ---
 
 ## Quarterly Priorities for FY25Q2 (Jan, Feb, Mar 2025)  
