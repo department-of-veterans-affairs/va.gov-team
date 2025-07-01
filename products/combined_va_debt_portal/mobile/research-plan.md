@@ -349,6 +349,7 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 - `Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work. Spread observers across sessions. There should be no more than 5 to 6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side.`
 
 	- **Natasha Huckleberry**
+        - **Thomas Michaud**
 	- **Natalie Davied Gibbons**
 	- **Jason DeHaan**
 	- **Parker Baranowski**
