@@ -165,6 +165,16 @@
   Source: David Reis (Teams message) 6/30/25
 </details>
 
+<details>
+<summary>What children can be added via a 686c to a Veteran's pension or disability benenfits?</summary>
+  
+  - Bilogical children, step-children, and adopted children
+     - The step-child's relationship to the Veteran is tied to the current spouse. If there is no current spouse then there is no step-child relationship that exists any longer. 
+  - Foster children cannot be added (not recognized under [38 CFR 3.57](https://www.ecfr.gov/current/title-38/chapter-I/part-3/subpart-A/subject-group-ECFR2f2f66751230c72/section-3.57))
+
+  [Source: Kevin Schneider (Slack message) 4/28/25](https://dsva.slack.com/archives/C0547Q0K0LF/p1745847761380209)
+</details>
+
 ## Verification
 <details>
 <summary>Why is the verification of parents not included in the 21-0538 form?</summary>
