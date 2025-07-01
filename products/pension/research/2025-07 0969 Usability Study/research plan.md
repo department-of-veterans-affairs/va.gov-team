@@ -228,8 +228,6 @@ Have you ever applied for or received a Veterans Pension benefit? (This is diffe
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
 
-> **Place time slots between `hash marks` when in edit mode.**
-
 - `07/16, Wednesday, 12:00 PM-05:00 PM EST`
 - `07/17, Thursday, 10:00 AM-03:00 PM EST`
 - `07/18, Friday, 10:00 AM-05:00 PM EST`
