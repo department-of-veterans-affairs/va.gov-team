@@ -89,13 +89,6 @@
   Source: [Discussion with SMEs and Julie Strothman on 9/5/23](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64138#issuecomment-1707241515)
 </details>
 
-## APIs
-<details>
-<summary>What is the API that pulls in list of active and inactive dependents on the "View My Dependents" Page</summary>
-
-  - [API Documentation](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/dependents/dependents-verification/tests/e2e/fixtures/mocks/mock-dependents.jsonc)
-</details>
-
 
 ## Marriages
 <details>
@@ -208,4 +201,11 @@
      - Also for removal of child or child stopped attending school. (VA.gov currently sets to manual because awaiting VA.gov changes for form changes that RBPS is ready for)
 
   Source: Brandi Traylor (email) 10/10/23
+</details>
+
+## APIs
+<details>
+<summary>What is the API that pulls in list of active and inactive dependents on the "View My Dependents" Page</summary>
+
+  - [API Documentation](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/dependents/dependents-verification/tests/e2e/fixtures/mocks/mock-dependents.jsonc)
 </details>
