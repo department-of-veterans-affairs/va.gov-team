@@ -7,10 +7,15 @@ The team is hosting canary/QA tests with Veterans who have active VBA overpaymen
 
 These tests will allow our researchers, designers, and engineers to preview the environment before it goes live. 
 
-Sessions:
-
+**Sessions:**
  - [ ] 7/1/2025 - 8am PT/11am ET - 
- Veteran previewed environment, form not submitted
+
+**Notes:**
+
+Veteran previewed environment, I asked participant to not submit the form since BE still in development
+
+Form looks as expected, error messages work, review page can be edited (loops back and requires Veterans to fill out the form again from the question they are editing onwards - known platform limitation) 
+ 
  - [ ] Session 2
  - [ ] Session 3
 
