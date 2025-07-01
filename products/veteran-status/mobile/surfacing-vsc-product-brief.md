@@ -38,10 +38,10 @@ Adoption is our key performance indicator. We’ll track Veteran engagement and 
 |FE Metrics  | 03/2025 | 04/2025 | 05/2025 | 06/2025 | 07/2025 | 08/2025 | 09/2025 |
 | ----- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **Total number of views** | 479k | 557k | 874k  | 852,531|  |  |  |
-|Event Count **NOT\_TITLE\_38** (error message) | No Data | No Data | No Data |4.4k |  |  |  |
-|Total Users **NOT\_TITLE\_38** (error message) | No Data | No Data | No Data |1.9k |  |  |  |
-|Event Count **Not NOT\_TITLE\_38** (error message: More research required) | No Data | No Data | No Data | 41k |  |  |  |
-|Total Users **Not NOT\_TITLE\_38** (error message: More research required) | No Data | No Data | No Data | 16k |  |  |  |
+|Event Count **NOT\_TITLE\_38** (error message) | No Data | No Data | No Data |7.7k |  |  |  |
+|Total Users **NOT\_TITLE\_38** (error message) | No Data | No Data | No Data |2.7k |  |  |  |
+|Event Count **Not NOT\_TITLE\_38** (error message: More research required) | No Data | No Data | No Data | 69k |  |  |  |
+|Total Users **Not NOT\_TITLE\_38** (error message: More research required) | No Data | No Data | No Data | 23k |  |  |  |
 |Event Count **Not NOT\_TITLE\_38** (error message: Missing service history) | No Data | No Data | No Data | 38k |  |  |  |
 |Total Users **Not NOT\_TITLE\_38** (error message: Missing service history) | No Data | No Data | No Data | 25k |  |  |  |
 
