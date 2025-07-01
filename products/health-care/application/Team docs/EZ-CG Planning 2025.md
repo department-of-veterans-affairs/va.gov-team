@@ -7,6 +7,7 @@
 
 #### Obj: EZ [CYOA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103253)
 - [#111601](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111601) - [Research] Task List A/B submit & study maintenance
+- [#111601](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111601) - [Research] Synthesis
 
 #### Obj: EZ [Multi-form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103260)
 - [#111103](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111103) - [BE] Tech exploration of BDS API
