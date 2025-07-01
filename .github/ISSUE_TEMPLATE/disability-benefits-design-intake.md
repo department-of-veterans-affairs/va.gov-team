@@ -51,4 +51,4 @@ labels: ["caia-intake"]
 | ---- | ------ |
 | **Estimated launch** | <!-- YYYY-MM-DD --> |
 | **Current phase** | <!-- wireframes / in dev / UAT --> |
-| **Staged launch?** | <!-- Yes/No. If yes, outline phases --> |
+| **Staged launch?** | <!-- Yes/No. If yes, outline phases --> | 
