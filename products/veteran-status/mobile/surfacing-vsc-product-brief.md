@@ -44,6 +44,8 @@ Adoption is our key performance indicator. We’ll track Veteran engagement and 
 |Total Users **Not NOT\_TITLE\_38** (error message: More research required) | No Data | No Data | No Data | 23k |  |  |  |
 |Event Count **Not NOT\_TITLE\_38** (error message: Missing service history) | No Data | No Data | No Data | 38k |  |  |  |
 |Total Users **Not NOT\_TITLE\_38** (error message: Missing service history) | No Data | No Data | No Data | 25k |  |  |  |
+|Event Count **ERROR Not Confirmed** (error message) | No Data | No Data | No Data | 0 |  |  |  |
+|Total Users **ERROR Not Confirmed** (error message) | No Data | No Data |No Data | 0 |  |  |  |
 
 * Total number of views: This details the number of Veterans who can view their Proof of Veteran Status Card.
 * NOT\_TITLE\_38 error message: This message on the FE states **You're not eligible for a Veteran Status Card**.
