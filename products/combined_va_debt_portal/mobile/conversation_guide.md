@@ -137,6 +137,8 @@ From home screen
 
 Overpayment benefits debt 
 
+_(no payment option)_ ❌ 💵 ❌
+
 * Find what you currently owe for overpayment debts
     * How clear was that to find?
     * What can you tell me about the other debts on this screen?
@@ -157,6 +159,9 @@ Overpayment benefits debt
     * How would you expect to make payments?
     * What are your thoughts on this new section not having a payment option?
     * If this were to be built in real life, how likely would you be to use it?
+
+_(with payment option)_ ✅ 💵 ✅
+
 * Now I'm going to have you click [location TBD] to view a different version.
     * If you are ready to make a payment on this debt, walk me through how you would do that.
     * Talk to me about that experience of starting to make the payment (e.g. opening .gov, new sign-in, copying payment + account info)
@@ -265,6 +270,8 @@ From home screen
 
 Copayments
 
+_(no payment option)_ ❌ 💵 ❌
+
 * Find what you currently owe for copayments
     * How clear was that to find?
     * What can you tell me about the other copayments on this screen?
@@ -290,6 +297,9 @@ Copayments
     * How would you expect to make payments?
     * What are your thoughts on this new section not having a payment option?
     * If this were to be built in real life, how likely would you be to use it?
+
+_(with payment option)_ ✅ 💵 ✅
+
 * Now I'm going to have you click [location TBD] to view a different version. _(with payment option)_
     * If you are ready to make a payment on this bill, walk me through how you would do that.
     * Talk to me about that experience of starting to make the payment (e.g. opening .gov, new sign-in, copying payment + account info)
