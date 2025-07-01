@@ -278,5 +278,5 @@
 <details>
 <summary>What is the API that pulls in list of active and inactive dependents on the "View My Dependents" Page?</summary>
 
-  - [API Documentation](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/dependents/dependents-verification/tests/e2e/fixtures/mocks/mock-dependents.jsonc)
+  - [API Documentation](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/dependents_applications/getDependents)
 </details>
