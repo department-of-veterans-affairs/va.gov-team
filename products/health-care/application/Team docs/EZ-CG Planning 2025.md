@@ -23,7 +23,6 @@
 ### 10-10CG
 
 #### Obj: CG [Improvements/BUGs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40165)
-- [#99053](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99053) - [FE] va-statement-of-truth web component [CARRIED - PR]
 - [#102073](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102073) - [FE] Update signature page
 
 ##
