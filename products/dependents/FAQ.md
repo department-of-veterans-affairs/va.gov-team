@@ -89,6 +89,23 @@
   Source: [Discussion with SMEs and Julie Strothman on 9/5/23](https://github.com/department-of-veterans-affairs/va.gov-team/issues/64138#issuecomment-1707241515)
 </details>
 
+<details>
+<summary>What happens if a dependent claim is submitted with missing evidence?</summary>
+
+  - The claim would be established and go through manual processing.
+
+  Source: [Kevin Schneider 5/15/25](https://dsva.slack.com/docs/T03FECE8V/F08UBCMQ5GQ?focus_section_id=temp:C:FNH79a07999e16d498498308b685)
+</details>
+
+<details>
+<summary>Is the Veteran notified once their 686/674 or 0538 claim is processed?</summary>
+
+  - The Veteran receives a letter when their 686/674 claim has been decided.
+  - The Veteran does not receive any notification once their 0538 has been processed.
+
+[Source: Kevin Schneider 5/15/25](https://dsva.slack.com/docs/T03FECE8V/F08UBCMQ5GQ?focus_section_id=temp:C:FNHc8a55731c6534fa78706b8024)
+</details>
+
 
 ## Marriages
 <details>
@@ -111,6 +128,14 @@
  Source: David Reis (email) 8/20/24
 </details>
 
+<details>
+  <summary>Is a marriage license or a church record of marriage required for a ceremonial or civil marriage if the Veteran indicates they live on a U.S. military base?</summary>
+
+  - No. The marriage would be considered as happening within U.S. jurisdiction. It should not be required, but it could be helpful to submit, so it should be optional.
+
+ [Source: Kevin Schneider 5/15/25](https://dsva.slack.com/docs/T03FECE8V/F08UBCMQ5GQ?focus_section_id=temp:C:FNHde8d68f8e4f3443e8c57feb56)
+</details>
+
 ## Parents
 <details>
 <summary>Does a dependent parent need to live with the Veteran to be eligible to claim as a dependent?</summary>
@@ -118,6 +143,22 @@
   - The relationship to the Veteran and financial need are the only consideraions.
  
   [Source: Kevin Schneider 5/25/25](https://dsva.slack.com/archives/C0547Q0K0LF/p1748010216569389?thread_ts=1747326863.342889&cid=C0547Q0K0LF)
+</details>
+
+<details>
+<summary>Can more than one child claim a parent on their disability or pension benefits??</summary>
+ 
+  - The relationship to the Veteran and financial need are the only consideraions.
+ 
+  [Source: Kevin Schneider 5/25/25](https://dsva.slack.com/docs/T03FECE8V/F08UBCMQ5GQ?focus_section_id=temp:C:FNHe5c254e9532c42d1a52cdf84d)
+</details>
+
+<details>
+<summary>How are dependent parents verified?</summary>
+ 
+  - Removal is usually due to death. The probability of another type of removal was so low, it was not included in the 21-0538.
+ 
+  [Source: Kevin Schneider 5/25/25](https://dsva.slack.com/docs/T03FECE8V/F08UBCMQ5GQ?focus_section_id=temp:C:FNHc46b51e2bca243209f09b5fc8)
 </details>
 
 ## Children
@@ -129,6 +170,16 @@
   - A child is removed from the Veteran's benefits the day the child turns 18 or 23
  
   [Source: Kevin Schneider 5/15/25](https://dsva.slack.com/docs/T03FECE8V/F08UBCMQ5GQ?focus_section_id=temp:C:FNHd9f38027b424457b993e86682)
+</details>
+
+<details>
+<summary>What children can be added via a 686c to a Veteran's pension or disability benenfits?</summary>
+  
+  - Bilogical children, step-children, and adopted children
+     - The step-child's relationship to the Veteran is tied to the current spouse. If there is no current spouse then there is no step-child relationship that exists any longer. 
+  - Foster children cannot be added (not recognized under [38 CFR 3.57](https://www.ecfr.gov/current/title-38/chapter-I/part-3/subpart-A/subject-group-ECFR2f2f66751230c72/section-3.57))
+
+  [Source: Kevin Schneider (Slack message) 4/28/25](https://dsva.slack.com/archives/C0547Q0K0LF/p1745847761380209)
 </details>
 
 ## Students
@@ -159,21 +210,23 @@
 <details>
 <summary>Is attending an accredited school required to receive 674-related benefits?</summary>
   
-  - Non-accredited schools (e.g., home schooling) are allowed up to 12th grade but not allowed past the 12th grade.
-  - The name of the school is no longer required on the 674 pdf (as of the Oct 2021 pdf).
+  - The student needs to be in an accredited school, but the name of the school is no longer required on the 674 pdf (as of the Oct 2021 pdf). The VA takes the Veteran's word that the school is accredited.
+  - Home schooling is allowed up to 12th grade but not allowed past the 12th grade.
 
   Source: David Reis (Teams message) 6/30/25
 </details>
 
 <details>
-<summary>What children can be added via a 686c to a Veteran's pension or disability benenfits?</summary>
-  
-  - Bilogical children, step-children, and adopted children
-     - The step-child's relationship to the Veteran is tied to the current spouse. If there is no current spouse then there is no step-child relationship that exists any longer. 
-  - Foster children cannot be added (not recognized under [38 CFR 3.57](https://www.ecfr.gov/current/title-38/chapter-I/part-3/subpart-A/subject-group-ECFR2f2f66751230c72/section-3.57))
+<summary>When should we warn Veterans that their soon-to-be 18 year old or 23 year old will be removed from their disability/pension benefits (if they're not attending school or permanently disabled)?</summary>
+ 
+ - The VBA accepts school aged child 90 days prior to 18th birthday.
+ - The VBA currently mails letters 60 days prior the child’s 18th birthday.
+ - Is a child removed the day they turn 18 or 23?
+    - Yes, the child’s date of birth
 
-  [Source: Kevin Schneider (Slack message) 4/28/25](https://dsva.slack.com/archives/C0547Q0K0LF/p1745847761380209)
+  [Source: Kevin Schneider 5/15/25](https://dsva.slack.com/docs/T03FECE8V/F08UBCMQ5GQ?focus_section_id=temp:C:FNHd9f38027b424457b993e86682)
 </details>
+
 
 ## Verification
 <details>
@@ -198,6 +251,14 @@
   - The VA requires Veterans to officially verify all the dependents on their benefits every 8 years, however, the VA would prefer that Veterans review their dependents at least once a year to ensure the dependents listed on their benefits are still accurate. The VA currently mails out [a letter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/dependency_verification/Batch%20Dependency%20Verification%20Letter_Redacted.pdf) to Veterans every 8 years that lists all the dependents currently on their disability benefits. The letter asks the Veteran to confirm the dependents listed are correct and a copy of the 21-0538 form is included with the letter.
 
   Source: Kevin Schneider 2024
+</details>
+
+<details>
+<summary>Is DIC covered under the 21-0538?</summary>
+  
+  - No. It's covered under 21p-0537.
+
+  [Source: Kevin Schneider 5/15/25](https://dsva.slack.com/docs/T03FECE8V/F08UBCMQ5GQ?focus_section_id=temp:C:FNHe0c03e899c7241669051be289)
 </details>
 
 <details>
