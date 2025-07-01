@@ -26,4 +26,5 @@ For issues and investigations follow the [Production Support Playbook](https://g
 
 ## Watch Officer (watchtower) Process
 
-TBD
+- [ ] Determine which monitors whatchtower should be notified on
+- [x] Using the silent failure metric in the notificaiton job for failed scheduled appointments in the event of a timeout.
