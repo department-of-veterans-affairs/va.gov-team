@@ -6,14 +6,14 @@
 ### 10-10EZ
 
 #### Obj: EZ [CYOA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103253)
-- [#111601](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111601) - [Research] Task List A/B submit & study maintenance
+- [#111601](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111601) - [Research] Task List A/B submit & study maintenance [CARRIED - STUDY CONTINUES]
 - [#111601](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111601) - [Research] Synthesis
 
 #### Obj: EZ [Multi-form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103260)
 - [#111103](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111103) - [BE] Tech exploration of BDS API
 
 #### Obj: EZ [Improvements/BUGS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
-- [#94276](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94276) - [BE] Cleanup of checkbox for minimum essential coverage on Facility screen
+- [#94276](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94276) - [BE] Cleanup of checkbox for minimum essential coverage on Facility screen [CARRIED - PR]
 - [#111096](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111096) - [FE] Future Discharge Date GA4 event fix
 
 #### Obj: EZ [Form Statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95313)
@@ -23,9 +23,8 @@
 ### 10-10CG
 
 #### Obj: CG [Improvements/BUGs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40165)
-- [#99053](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99053) - [FE] va-statement-of-truth web component
+- [#99053](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99053) - [FE] va-statement-of-truth web component [CARRIED - PR]
 - [#102073](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102073) - [FE] Update signature page
-- [#111870](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111870) - [FE] Update content on Caregivers' contact info pages
 
 ##
 ### Team PTO
