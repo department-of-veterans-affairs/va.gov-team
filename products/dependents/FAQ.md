@@ -246,17 +246,17 @@
 </details>
 
 <details>
-<summary>How often do Veterans have to verify the dependents on their benefits?</summary>
+<summary>How often do Veterans have to verify the dependents on their disability benefits?</summary>
   
-  - The VA requires Veterans to officially verify all the dependents on their benefits every 8 years, however, the VA would prefer that Veterans review their dependents at least once a year to ensure the dependents listed on their benefits are still accurate. The VA currently mails out [a letter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/dependency_verification/Batch%20Dependency%20Verification%20Letter_Redacted.pdf) to Veterans every 8 years that lists all the dependents currently on their disability benefits. The letter asks the Veteran to confirm the dependents listed are correct and a copy of the 21-0538 form is included with the letter.
+  - The VA requires Veterans to officially verify all the dependents on their disabilty benefits every 8 years, however, the VA would prefer that Veterans review their dependents at least once a year to ensure the dependents listed on their benefits are still accurate. The VA currently mails out [a letter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/dependency_verification/Batch%20Dependency%20Verification%20Letter_Redacted.pdf) to Veterans every 8 years that lists all the dependents currently on their disability benefits. The letter asks the Veteran to confirm the dependents listed are correct and a copy of the 21-0538 form is included with the letter.
 
   Source: Kevin Schneider 2024
 </details>
 
 <details>
-<summary>Is DIC covered under the 21-0538?</summary>
+<summary>How are dependents on DIC verified?</summary>
   
-  - No. It's covered under 21p-0537.
+  - Surviving spouses verify their marriage status through the 21p-0537 form.
 
   [Source: Kevin Schneider 5/15/25](https://dsva.slack.com/docs/T03FECE8V/F08UBCMQ5GQ?focus_section_id=temp:C:FNHe0c03e899c7241669051be289)
 </details>
