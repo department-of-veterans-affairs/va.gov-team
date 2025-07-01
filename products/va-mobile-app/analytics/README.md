@@ -29,7 +29,7 @@
 **Date range for metrics**: June 1, 2025 - June 30, 2025
 
 - **Total downloads since launch**: ~1.32M (A) + ~2.26M (iOS) = ~3.58M 
-- **New monthly downloads**: 37.5k (A) + 49.4K (iOS) = k
+- **New monthly downloads**: 37.5k (A) + 49.4K (iOS) = 86.9k
 - **Monthly active users**: 1.5M
 - **Monthly new users**: 180k
 - **Monthly appointment detail views**: 1,929,309
