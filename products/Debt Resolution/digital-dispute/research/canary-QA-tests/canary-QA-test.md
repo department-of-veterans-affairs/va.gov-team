@@ -18,7 +18,20 @@ Form looks as expected, error messages work, review page can be edited (loops ba
 
 Session hosted by: Charlotte
  
- - [ ] Session 2
+ - [x] 7/1/2025 - 9:30am PT/12:30pm ET
+
+**Notes**       
+Veteran did not have active overpayment debt as indicated on screening. 
+He was able to view:
+- Debt Portal summary page
+- Dispute form intro page
+- Dispute form personal info page
+- Dispute form contact page and edit section
+- Dispute form select a debt page
+
+Pages on production matched staging. Some improvements have not been launched to staging/production yet. 
+
+The dispute form- select a debt page page did not have the updated plain text zero debt message. This update had not been launched by the time the Veteran saw the page. 
 
 Session hosted by: Megan
 
