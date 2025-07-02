@@ -9,12 +9,7 @@ body:
   attributes:
     label: What happened? 
     description: Describe what went wrong
-    placeholder: 
-    - Insert bug details here
-    - Add the steps to reproduce the bug
-    - 1. Add here
-    - 2. Add here
-    - Add a screen recording or photo 
+    placeholder: Insert bug details here including how to reproduce
 - type: checkboxes
   attributes:
     label: How severe is the problem? 
@@ -27,10 +22,7 @@ body:
   attributes: 
   label: What is the desired behavior? 
   description: Describe here
-  placeholder: 
-  - 1. When a user does X, the **visual** result is y.
-  - 2. When a user does X, the **backend** result is y.
-  - 3. When a user does X, the **event logging** result is y.
+  placeholder: When a user does X, the **visual** result is y. When a user does X, the **backend** result is y. When a user does X, the **event logging** result is y.
 - type: checkboxes
   attributes: 
   label: Definition of Done
