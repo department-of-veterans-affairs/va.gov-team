@@ -1,4 +1,4 @@
-# [DRAFT] Conversation Guide for Your VA benefit letters and documents research study
+# [DRAFT] Conversation Guide for Your VA benefit letters and documents research study, July 2025
 
 # Moderator logistics 📋✅
 ### 2-3 days before the session
@@ -9,7 +9,7 @@
 ### Day of the session
 
 **Before all sessions**:
-- Review participant list for participant name and screener question responses
+- Review the participant list for participant name and screener question responses
 - Check Settings > In Meeting (Advanced) > Automated captions, Full transcript, Save captions are all ON
 - Check Settings > Meeting > In Meeting (Basic) > Sound notification when someone joins or leaves OFF
   - In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
@@ -22,184 +22,201 @@
 
 ### Starting the session
 
-> [!TIP]
-> - In the Attendees section, make sure everyone except the participant is on mute.
-> - In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
-> - Check your [screensharing setup] and share permissions for participants.
-> - When the participant is ready, begin the session with the following intro*
+- In the Attendees section, ensure everyone except the participant is on mute.
+- In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked.
+- Check your [screensharing setup] and share permissions for participants.
+- When the participant is ready, begin the session with the following intro.
+- If the participant is using a screen reader, wear headphones to prevent the user's screen reader from echoing back to them *(recommendation from Cindy).*
+- When users share their screen, the “Share sound” box must be checked if we want the recording to pick up screen reader announcements. This box is on the right pane when the screen share is started. [Need to confirm if the moderator can check this box for their participants or if the participant has to do it themselves.]
+
 
 # Intro - 5 minutes
 
-Thanks for joining us today! My name is **Shawn** and **[NOTETAKER NAME]** is taking notes.
-I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
+Thanks for joining us today\! My name is Shawn, and <mark>[NOTETAKER NAME\]</mark> is taking notes. I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them...
 
-Today we're going to talk about Benefit Letters and Documents.
+Today, we're going to talk about Benefit Letters and Documents.
 
 Before we start, I have a few things that I want to go over with you:
 
-- **This entire session should take about 60 (or 90 for AT) minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-  
-- **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
-  
-- **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
-  
-- I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
-   - <mark>**If no:** Use Slack to kindly ask the observers to leave the Zoom.</mark>
-   - **If yes:** Admit observers.
-     
-> [!TIP]
-> - Then, ask the notetaker and observers to **give a brief, camera-on introduction, like their first name and position with VA.gov.** (This is meant to humanize the interaction of observation for the participant.)
-> - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
-     
-- *(If applicable)* **You'll be interacting with our staging server today.** [Need explanation of what the staging server is.] <mark>**Since it's a demo, none of your actions will affect your VA information or benefits.**</mark>
-  
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
-   - **Knowing that, are you comfortable if I record my screen and audio as we talk today?**
-
-   <mark>**[Record answer here]**</mark>
-     
-- **Would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veterans’ experiences?** One of the ways that we share findings with our partners across the VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image. Sharing these video clips can be a compelling way for our partners to better understand what Veterans go through when using VA.gov and our digital products. These clips will not be shared outside of the VA. We don't know at this point if we will or not, but we like to ask ahead of time. At the end of the interview, I'll also confirm that this is okay with you, so you will get a chance to veto this once you know what we've discussed.
-   - **Knowing this, would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veteran's experiences?**
- 
-   <mark>**[Record answer here]**</mark>
-
-   - If yes: **Once I start recording, I am going to confirm that you are okay with me recording this session once more.**
-
-➡️ **Start recording.**
-
-> [!TIP]
-> After you start the recording, click the Show captions (CC) button to enable transcription for the recording.
-
-- **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
+* **This session should take about 60 (or 90 for AT) minutes.** I want to be sure to end on time, so I may occasionally prompt you with the following question or topic.  
+* **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we’re not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't take anything personally\!  
+* **Your participation in this interview is completely voluntary.** You don’t have to participate if you don't want to, and your choice to participate will not affect your benefits in any way. If you decide you need to stop at any time, you’ll still be compensated for your time.  
+* I want you to know that although I work on the VA.gov website, I have no access to your records or benefits, nor do I have the ability to change your claims or benefits in any way. I am not a specialist in benefits. My primary focus is to understand your experience with the website  
+* The people from Perigean who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. Is it okay with you to have \[specific number\] people join us to observe this session?   
+  * **If not,** use Slack to ask the observers to leave the Zoom.  
+  * **If yes,** admit observers.  
+    * Then, ask the notetaker and observers to give a brief, camera-on introduction, such as their first name and position with VA.gov. (This is meant to humanize the observation interaction for the participant.)  
+    * Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth  
+* **Today, you'll interact with a live demo.** Since it's a demo, none of your actions will affect your VA information or benefits.  
+* **I’d like to ask your permission to record my screen and audio as we talk today.** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are deleted, and none of your comments will be attributed to you directly. We either report findings in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.  
+  * Knowing this, is it okay with you if I record my screen and audio as we talk today?  
+* If yes, **once I start recording, I will confirm that you are okay with me recording this session once more.**
+`➡️ Start recording.`
+* **I have started recording.** I'd like to confirm: Are you okay with me recording my screen and the audio as we talk today?  
 
  <mark>**[Record answer here]**</mark>
  
-- **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?**
+- Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?
 
  <mark>**[Record answer here]**</mark>
 
 # Warm-up Questions - 5 minutes
 
-Let’s start with a few questions... 
+### Let’s start with a few questions...
 
-1. I understand you are a Veteran. Is that right? 
-    - Thanks for confirming that.
-
-1. What kind of device are you using today? *(Computer / Tablet / Smartphone)*
-    - *(If not the expected device, ask to rejoin that way)*
-    - What operating system? *(macOS / Windows / iOS / Android / _______)*
-
-1. What web browser do you use? *(Chrome / Firefox / Edge / Safari / _______)*
-
-1. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, put it in the Zoom chat, email it to you, or *(for smartphone only)* text it to you. *(RECORD)* 
-
-   - *(If text or email)* Could the notetaker please text/email the link now? (https://bit.ly/4lXVLTV)
+1. I understand you are a Veteran. Is that right?  
+   * Thanks for confirming that.  
+2. What kind of device are you using today? *(Computer / Smartphone)*  
+   * *(If not the expected device, ask to rejoin that way)*  
+3. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, put it in the Zoom chat, email it to you, or *(for smartphone users)* text it to you?  
+   * *(If text or email)* Could the notetaker please text/email the link now? ([https://bit.ly/4lXVLTV](https://bit.ly/4lXVLTV))
 
 ### For only assistive tech users
 
-5. What assistive technology are you using right now? *(screen reader / magnifier _______________________)*
-    - *(If **Dolphin** screen reader, won't be able to share screen on Zoom)*
-    - *(if no AT)* Do you sometimes use assistive technology while using VA.gov? 
-      - If so, what do you use and when? 
-        - Would you be willing to start using it now in this session? 
-        - *(if not, run session w/o AT, or stop and ask Perigean for a replacement participant)*
-
-1. How would you rate your level of experience with using a screen *(reader / magnifier)*--beginner, intermediate, advanced, or expert?
-
-1. How long have you been using a screen *(reader / magnifier)*?
-
-1. Have you ever shared your screen in Zoom while using a screen *(reader / magnifier)*? *(Yes / No)*
-    - If not, we can help you do that.
-
-1. Is there anything else that we can do to support you during this session? *(RECORD AND DO!)*
+4. What assistive technology are you using right now? *(screen reader, screen magnifier, or voice command software)*  
+   * *(If using Dolphin screen reader, you won't be able to share screen on Zoom)*  
+   * *(if no AT)* Do you sometimes use assistive technology while using VA.gov?  
+     1. If so, what do you use and when?  
+        1. Would you be willing to start using it now in this session?  
+        2. *(If not, run session w/o AT, or stop and ask Perigean for a replacement participant)*  
+5. How would you rate your level of experience with using a screen reader, screen magnifier, or voice command software--beginner, intermediate, advanced, or expert?  
+6. How long have you used a screen reader, screen magnifier, or voice command software?  
+7. Have you ever shared your screen in Zoom while using a screen reader or magnifier? *(Yes / No)*  
+   * If not, we can help you do that.
 
 ### For everyone
 
-10. What VA benefits, if any, do you have experience with? 
-    - *RECORD: health care / education / career services / disability / home loan / pension / life insurance / burial benefits / none / __________*
+8. Have you ever used VA.gov to get copies of VA benefits letters or documents? If not, are you aware you could do that on the website?  
+9. What things have you used or might you use proof of VA benefits for?
 
-1. Have you ever used your VA Benefit Summary Letter (sometimes called a VA award letter) to prove your status in order to receive other benefits? 
-   - If so, can you tell me about your most recent experience? How did it go?
+## Task 1: Navigating to the benefit letters page (new)**
 
-## Task 1: Undstanding the page and the different letters and documents - X minutes
-[start on unauthenticated Download VA benefit letters page](https://www.va.gov/records/download-va-letters/)
+### Scenario
 
-I'd like you to take a look at this page, and then use it to get your Benefit Summary and Service Verification Letter.
+You are on the homepage ([staging.VA.gov](http://staging.VA.gov)) and want to view and download your VA benefit letters.
 
-Please **talk aloud** about what you're thinking BEFORE clicking on anything. And please share any **thoughts, reactions, or questions** you have about the current web page.
+### Steps
 
-- [ ] Step 1: Sign in to view 'Your VA benefit letters and documents.' (what is the process for staging?)
-- [ ] Step 2: Explore the page and the different types of letters available and explain what you would use each one for.
+1. Take a look at this homepage first. Where do you think your benefit letters are located?  
+2. Now, go ahead and navigate to where you think they are.
 
-### Things to watch for:
-- Do they explore the accordion sections?
-- Do they understand the differences between letter types?
-- Can they articulate when they would use each letter?
-- What are their initial expectations about the page?
+### Things to watch out for
 
-## Task 2: Updating the mailing address - X minutes
+* Do they expect benefit letters to be under profile, MyVA, or benefits sections?  
+* Do they use the main navigation menu or search?  
+* Which top-level categories do they explore first?
 
-- [ ] Step 1
-- [ ] Step 2
+## Task 2: Undstanding the page and the different letters and documents - X minutes
 
-> [!NOTE]
-> ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
-> - [Etc]
+### Scenario
 
-## Task 3: Creating a custom benefit letter - X minutes
+You’re on the public-facing ‘Download VA benefit letters’ page, and you need to sign in with a verified account to access your VA benefit letters and documents. 
 
-- [ ] Step 1
-- [ ] Step 2
+### Steps
 
-> [!NOTE]
-> ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
-> - [Etc]
+1. Please sign in. <mark>[With staging user 54]</mark>
+2. <mark>[Arrives on authenticated page]</mark> Before clicking on anything, take a minute to explore the entire page and tell me what you see. What do you think this page is for, and what do you think you can do here?
 
-## Task 4: Finding and Downloading a Proof of Service Card - X minutes
+### Things to watch out for
 
-- [ ] Step 1
-- [ ] Step 2
+* Do they notice the mailing address card?  
+* Will Veterans feel they need to edit their address before downloading a letter?  
+* Do they understand the different types of letters?  
+* What are their initial expectations about the page?  
+* What do they do if they don’t find a letter that they were expecting to be on this page?
 
-> [!NOTE]
-> ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
-> - [Etc]
+## Task 3: Updating the mailing address - X minutes
+
+### Scenario
+
+Imagine that your community's zip code boundary recently changed, and you want to update your mailing address with the new zip code before downloading any benefit letters. Go ahead and update the zip code to 20811\.
+
+### Steps
+
+1. Update the zip code to 20811  
+2. Save the new address
+
+### Things to watch out for
+
+* Do they understand the information about how changing the address affects their VA.gov profile?  
+* Do they successfully save the new address?  
+* Are we communicating well that this mailing address is the "latest and greatest" that appears on the Veteran's va.gov profile?  
+* Any confusion about the military base address option?  
+* How do they react to the "If you don't have an address" section?
+
+
+## Task 4: Creating a custom Benefit Summary and Service Verification Letter
+
+### Scenario
+
+You're applying to reduce your property taxes, and your County Assessor's Office has asked you to provide documentation that shows:
+
+* Your military service history  
+* Combined disability rating  
+* Monthly benefit amount  
+
+### Steps  
+
+1. Create and download this letter with only the information that was requested.  
+   **Things to watch out for**  
+* Do they locate the Benefit Summary and Service Verification Letter?  
+* Do they understand they can customize what's included?  
+* Can they complete the customization process (selecting the 3 specific items)?  
+* Do they understand what happens when they click "Download Benefit Summary and Service Verification Letter (PDF)"?
+
+## Task 5: Finding and Downloading a Proof of Service Card
+
+### Scenario
+
+You're planning to go out of town this weekend and want to use your Proof of Service Card at businesses that offer military discounts.
+
+### Steps
+
+1. Locate and download the Proof of Service Card.
+
+### Things to watch out for
+
+* Do they understand what the Proof of Service Card is for?  
+* Do they successfully locate and download the PDF?  
+  * Note the default ‘download’ behavior for different browsers
 
 # Post-Task Interview - 5 minutes
 [**Type into #feedback-backchannel**: "Any questions you want me to ask?"]
 
-- Question 1
-- Question 2
-- Any questions for me? 
+* Overall, about everything on the website in this session...What worked \*well\* for you?  
+* What was \*unclear or didn't work well\* for you?  
+  * \[If they say nothing, could ask:\] What, if anything, did you find annoying?  
+* What would you like to \*change or add\*?  
+* Is there anything we haven't discussed that I should know?
 
 ## Consent to use video clips
 
-- I want to circle back and re-confirm that **you are comfortable if we were to share a video clip of this session with our VA partners?** Just to remind you, we will remove all information that could be used to identify you before sharing and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences.
-   - **If yes:** Is there any part of our discussion you would NOT want shared in a video clip?
- 
-   <mark>**[Record answer here]**</mark>
+I want to circle back and ask one more question about the video recording. \*\*Is it okay with you if we share a video clip of part of this session with our VA partners?\*\* We’d want to do this if we find a clip that demonstrates the need for an improvement or other helpful example of Veteran needs. We remove all information that could be used to identify you before sharing and would only share the video clips with VA partners with the purpose of improving [VA.gov](http://VA.gov) and other digital experiences.   
+  * If yes: Is there any part of our discussion you would NOT want shared in a video clip?  
+* \<mark\>\[Record answer here\]\</mark\>
 
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - 3 minutes
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+Well, we appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
-Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
+Thanks\! Lastly, Perigean will send you a thank-you note with a little blurb that you can pass along to other Veterans you may know to give them the chance to participate in future research.
 
-Thank you so much again, and enjoy the rest of your day!
+Thank you so much again, and enjoy the rest of your day\!
+
+\*Open the Transcript panel, click \*\*Save Transcript\*\*\*
+
+\*End meeting for all\*
+
 
 
 # Emergency Exit 🚨
 
-In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). <mark>**Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.**</mark>
+In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/research-safety-and-emergency-exit-strategies).
 
----
+“We have covered all the questions I have for you today. Thank you so much for your time and feedback\!”
 
-### Sample Conversation Guide _(note: this link points to resources in the va.gov-team GitHub repo)_
+### **Sample Conversation Guide *(note: this link points to resources in the va.gov-team GitHub repo)***
 
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
+* [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)  
+
