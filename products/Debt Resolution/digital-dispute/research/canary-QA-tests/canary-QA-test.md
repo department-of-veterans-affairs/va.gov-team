@@ -31,7 +31,10 @@ He was able to view:
 
 Pages on production matched staging. Some improvements have not been launched to staging/production yet. 
 
-The dispute form- select a debt page page did not have the updated plain text zero debt message. This update had not been launched by the time the Veteran saw the page. 
+The dispute form- select a debt page did not have the updated plain text zero debt message. This update had not been launched by the time the Veteran saw the page. The message shown did not communicate that the Veteran had zero debts, instead it had an error message that stated "We can't access your debt records right now."
+
+<img width="488" alt="Screenshot 2025-07-02 at 12 53 26 PM" src="https://github.com/user-attachments/assets/fdb66feb-8038-4955-b3b5-3fb8e4945b1b" />
+
 
 Session hosted by: Megan
 
