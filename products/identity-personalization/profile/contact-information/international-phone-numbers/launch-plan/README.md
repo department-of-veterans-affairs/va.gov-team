@@ -4,7 +4,13 @@
 
 
 ## Table of Contents
-
+- Communication
+- Important Artifacts
+- Phase I - UAT
+- Staged Release
+- Go Live
+- Post Launch Questions
+  
 
 ## Communication
 - **Slack channel:** [#interational-phone-numbers](https://dsva.slack.com/archives/C08P5UMPBKN)
