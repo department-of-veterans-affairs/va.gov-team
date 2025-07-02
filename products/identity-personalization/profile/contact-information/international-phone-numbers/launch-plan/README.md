@@ -6,13 +6,20 @@
 ## Table of Contents
 
 
+## Communication
+- **Slack channel:** [#interational-phone-numbers](https://dsva.slack.com/archives/C08P5UMPBKN)
+
 ## Important Artifacts 
-- Epic
-- Data Dog Dashboard
-- QA Testing
+- [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74562)
+- [Data Dog Dashboard](https://vagov.ddog-gov.com/dashboard/86m-u8e-z5x/authenticated-experience-profile?fromUser=false&refresh_mode=sliding&from_ts=1749043498607&to_ts=1749044398607&live=true)
+- [QA Testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/international-phone-numbers/QA/README.md)
 - Figma Designs
+  - [Contact Info Page](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=1386-2292&p=f&t=FMeUN2DeDp4EPo4i-0)
+  - [Notification Settings Page](https://www.figma.com/design/e6JEtrwZCInKk9SjZktx2T/Profile---Notification-Settings?node-id=1936-16244&t=EHUdmR3x993nv22U-0)
+  - Welcome Mat
 - [Launch Go/No-go conversation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113482)
 - [Launch Tracking Ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113480)
+
 
 
 ## Phase I - UAT
@@ -33,7 +40,7 @@ We should QA and UAT no later than 8/4-8/8/2025
 
 #### What metrics-based criteria will you look at before advancing rollout to the next stage?:
 
-We'll monitor using our [DataDog dashboard](https://vagov.ddog-gov.com/dashboard/86m-u8e-z5x/authenticated-experience-profile?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1713204398696&to_ts=1713290798696&live=true)
+We'll monitor using our [DataDog dashboard](https://vagov.ddog-gov.com/dashboard/86m-u8e-z5x/authenticated-experience-profile?fromUser=false&refresh_mode=sliding&from_ts=1749043498607&to_ts=1749044398607&live=true)
 
 ## Go Live 
 
