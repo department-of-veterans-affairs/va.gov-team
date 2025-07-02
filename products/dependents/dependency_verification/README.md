@@ -91,16 +91,17 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 - Team Name: Benefits Dependents Experience
 - GitHub Label: #dependents-benefits
 - Slack channel: #benefits-dependents-management
-- Product POCs: Sanja Bajovic (OCTO), Laura Steele (VFS Team)
-- Stakeholders: Kevin Schneider (OBA), David Reis (OBA), Kayce White (Comp Service)
+- Product POCs: Sanja Bajovic (OCTO), Jacob Worrell (VFS Team)
+- Stakeholders: David Reis (OBA), Kevin Schneider (OBA), Kayce White (Comp Service)
 
 
 #### Team Members
  - OCTO Product Owner: Sanja Bajovic
  - OCTO Technical Lead: Sanja Bajovic
- - OCTO Design Lead: Dene Gabaldon
- - Delivery Lead: Amy Plange
- - Product Manager: Laura Steele
- - Backend Engineering: Matthew Knight (lead), Micah Frazier, Evan Smith
+ - OCTO Design Lead: Ben Guhin Delphine
+ - Delivery Lead: Anh Platt
+ - Product Manager: Jacob Worrell
+ - Backend Engineering: Matthew Knight (lead), Evan Smith, Tai Corraggio, David Becker
  - Frontend Engineering: Sean Midgley, Dakota Larson
- - Research/Design: Ajia Wallace, Ruben Sun, Fiorella Geedi
+ - QA Test Automation Engineering: Huy Nguyen
+ - Research/Design: Fiorella Geedi, Megan Graham
