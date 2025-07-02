@@ -2,7 +2,7 @@
 name: Disability Benefits Team Spike Template
 about: Spike template for Disability Benefits Team 
 title: ''
-labels: disability-experience, needs-refinement
+labels: disability, disability-benefits, needs-refinement
 assignees: ''
 
 ---
