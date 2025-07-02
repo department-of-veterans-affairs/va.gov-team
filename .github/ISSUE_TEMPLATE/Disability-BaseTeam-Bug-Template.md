@@ -4,6 +4,7 @@ about: Bug issues for Disability Benefits Team
 title: ''
 labels: bug, disability, disability-benefits, needs-refinement
 assignees: ''
+projects: Disability Benefits Project
 
 ---
 
