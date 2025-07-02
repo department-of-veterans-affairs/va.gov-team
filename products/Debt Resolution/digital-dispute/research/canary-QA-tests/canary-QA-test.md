@@ -15,8 +15,14 @@ These tests will allow our researchers, designers, and engineers to preview the 
 Veteran previewed environment, I asked participant to not submit the form since BE still in development
 
 Form looks as expected, error messages work, review page can be edited (loops back and requires Veterans to fill out the form again from the question they are editing onwards - known platform limitation) 
+
+Session hosted by: Charlotte
  
  - [ ] Session 2
+
+Session hosted by: Megan
+
+     
  - [ ] Session 3
 
 ## *Recruitment Request*
