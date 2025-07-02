@@ -49,7 +49,7 @@ See test scenarios in the attached spreadsheet:
 
 ### Feature Flippers 
 Ensure the correct feature flipper(s) are enabled.
-- Name of feature flipper TBD
+- `profile_international_phone_numbers`
 
 
 
