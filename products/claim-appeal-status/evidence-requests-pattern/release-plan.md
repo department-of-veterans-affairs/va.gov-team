@@ -11,7 +11,7 @@
   - We will leverage the existing feature flipper to control the percentage of users who should be able to access.
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
   - DataDog error rate for evidence uploads below 5%
-- Links to the dashboard(s) showing "success criteria" metrics: https://vagov.ddog-gov.com/dashboard/p2a-9ii-9hz
+- Links to the dashboard(s) showing "success criteria" metrics: https://vagov.ddog-gov.com/dashboard/pgu-2vh-4as
 - Who is monitoring the dashboard(s)?: BMT2 Team
 
 *The KPIs and numbers are example values recommended by VSP but can be customized to your team's needs.*
