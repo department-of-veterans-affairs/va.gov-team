@@ -2,7 +2,7 @@
 name: Disability Benefits Team Issue Template
 about: Issues for Disability Benefits Team 
 title: ''
-labels: disability-experience, needs-refinement
+labels: disability, disability-benefits, needs-refinement
 assignees: ''
 
 ---
@@ -30,13 +30,7 @@ assignees: ''
 ## Dependencies 
 
 - Add here
-
-## Acceptance Criteria
-
-- [ ] _AC_
-- [ ] _AC_
-- [ ] _AC_
-
+  
 ## Out of scope
 
 - Add here
@@ -47,7 +41,14 @@ assignees: ''
 
 ## Designs and Build Notes
 
-- Add here
+- Add here  
+
+## Acceptance Criteria
+
+- [ ] _AC_
+- [ ] _AC_
+- [ ] _AC_
+
 
 ## Outcome, Success Measure, KPI(S), and Tracking Link
 
@@ -57,15 +58,6 @@ assignees: ''
 @ member of team
 
 
-## Definition of Ready
-
-- [ ] Clear value description
-- [ ] Testable acceptance criteria
-- [ ] Accessibility added to acceptance criteria
-- [ ] Approved designs attached
-- [ ] Sample data provided where appropriate
-- [ ] Estimated to fit within the sprint
-- [ ] Dependencies and blockers linked
 
 ## Definition of Done
 
