@@ -9,8 +9,9 @@
 
 
 ## QA Plan 
-See test scenarios in the attached spreadsheet 
+See test scenarios in the attached spreadsheet:
 
+### Spreadsheet
 [QA Testing - International Phone Numbers.xlsx](https://github.com/user-attachments/files/21025666/QA.Testing.-.International.Phone.Numbers.xlsx)
 
 
