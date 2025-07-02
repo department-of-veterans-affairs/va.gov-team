@@ -29,12 +29,12 @@ See test scenarios in the attached spreadsheet
 |---|--------------------|--------------------|----------|
 |1. |      Macbook       |  Ventura (latest)  | Chrome   |
 |2. |      Macbook       |  Ventura (latest)  | Safari   |
-|3. |     iphone 13      |    iOS (latest)    | Chrome   |
-|4. |     iphone 13      |    iOS (latest)    | Safari   |
+|3. |     iphone 15      |    iOS (latest)    | Chrome   |
+|4. |     iphone 15      |    iOS (latest)    | Safari   |
 |5. |         PC         |     Windows 10     | Chrome   |
 |6. |         PC         |     Windows 10     | Edge     |
 |7. |         PC         |     Windows 10     | Firefox  |
-|8. | Samsung Galaxy S21 |      Android       | Chrome   |
+|8. | Samsung Galaxy     |      Android       | Chrome   |
 
 
 
