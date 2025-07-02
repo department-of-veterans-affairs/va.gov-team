@@ -56,4 +56,4 @@ Ensure the correct feature flipper(s) are enabled.
 
 | Test case No. |    Finding       | Device  | Operating System | Browser | Reporter | Resolution Ticket(s)| Status |
 |---------------|------------------|---------|-----------------|---------|---------|---------------------|--------|
-|  |  |  |  |  |  |  |  |
+|               |                  |         |                 |         |         |                     |        |
