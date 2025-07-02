@@ -122,7 +122,8 @@ You’re on the public-facing ‘Download VA benefit letters’ page, and you ne
 * Do they notice the mailing address card?  
 * Will Veterans feel they need to edit their address before downloading a letter?  
 * Do they understand the different types of letters?  
-* What are their initial expectations about the page?  
+* What are their initial expectations about the page?
+* Do they expand the accordions? 
 * What do they do if they don’t find a letter that they were expecting to be on this page?
 
 ## Task 3: Updating the mailing address - X minutes
