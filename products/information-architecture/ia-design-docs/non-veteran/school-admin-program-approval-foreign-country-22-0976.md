@@ -9,9 +9,8 @@
 - Content and IA tickets:
   - Form 22-0976 - https://github.com/department-of-veterans-affairs/va.gov-team/issues/111585
 - Design files:
-  - [IA Mural]()
-  - [VEBT Figma file for 22-0976]()
-  - [VEBT team's user flow]()
+  - [IA Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1728420465790/8c90120e504744ecb3db02068818df573ddab93b?wid=21-1751393464277)
+  - [VEBT Figma file and user flow for 22-0976](https://www.figma.com/design/2L0vCxmiTxz5r6i0QAhErY/VEBT-Form-22-0976--Approval-of-a-Program-in-a-Foreign-Country?node-id=0-1&t=35zazDUQvycMXU9V-1)
 
 **On this page:**
 - [User/page flows](#user-page-flows)
@@ -49,28 +48,17 @@ Follow the [VA Design System](https://design.va.gov/) for URL, breadcrumb, and p
 - [Title tags](https://design.va.gov/content-style-guide/title-tags)*
 
 
-**1) Designate school certifying officials 22-8794 form**
-  - URL:  www.va.gov/school-administrators/update-certifying-officials/
+**Approval of Program in a Foreign Country VA Form 22-0976**
+  - URL:  va.gov/school-administrators/apply-for-approval-of-program-in-foreign-country-form-22-0976/
     - This is the canonical URL for the form and what will appear in search results.
     - All referring links should have this URL as the destination.
     - Once this URL renders, form logic should redirect the visitor to the first page within the form flow - per standards this is generally /introduction
   - Breadcrumb:  VA.gov home > Resources for schools > [H1 of form introduction page] 
     - Per the standard breadcrumb component, the last segment of the breadcrumb must match the H1 of the page exactly
-    - Example based on H1 in Figma: VA.gov home > Resources for schools > Update your institution's list of certifying officials
+    - Example based on H1 in Figma: VA.gov home > Resources for schools > Apply for approval of a program in a foreign country
   - Browser title: [H1 of introduction page in title case] | Veterans Affairs
     - Example basedon H1 in Figma: Update Your Institution's List Of Certifying Officials | Veterans Affairs
 
-**2) Conflicting interests certification 22-1919 form**
-  - URL: www.va.gov/school-administrators/report-conflicting-interests/
-    - This is the canonical URL for the form and what will appear in search results.
-    - All referring links should have this URL as the destination.
-    - Once this URL renders, form logic should redirect the visitor to the first page within the form flow - per standards this is generally /introduction
-  - Breadcrumb: VA.gov home > Resources for schools > [H1 of form introduction page] 
-    - Per the standard breadcrumb component, the last segment of the breadcrumb must match the H1 of the page exactly
-    - Example: VA.gov home > Resources for schools > Report conflicting interests for proprietary schools
-    - _Please note: We utilize action words within our form titles to emphasize the nature of the task.  We recommend adding the word "Report" - or something similar - to what your current Figma files represents as the H1._ 
-  - Browser title: [H1 of introduction page in title case] | Veterans Affairs
-    - Example based on recommended H1: Report Conflicting Interests For Proprietary Schools | Veterans Affairs
 
 **Structuring URLs for individual pages within the form flows**
 - All pages within form flows will exist as child pages of the core/canonical URL.
