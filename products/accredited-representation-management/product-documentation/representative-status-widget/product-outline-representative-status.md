@@ -74,9 +74,9 @@ Included widget states:
 - Authenticated, represented by individual (200)
 - Error (401, 404, 500, 502, 503, 504)
 
-### Version 2.0 (in Profile/MyVA) (Demo TBD)
+### Version 2.0 (in Profile/MyVA) ([Demo](https://dsva.slack.com/archives/C05L6HSJLHM/p1748016396220129))
 
-Representative Status 2.0 introduces the same states as the widget (version 1.0), but on a dedicated Profile subpage. **This release is scheduled to begin in May 2025.**
+Representative Status 2.0 introduces the same states as the widget (version 1.0), but on a dedicated Profile subpage.
 
 The URL for this Profile subpage is https://va.gov/profile/accredited-representative. There is also a link to this Profile subpage on MyVA, in the Claims and Appeals section titled “Get help from your accredited representative or VSO”. The URL for MyVA is https://va.gov/my-va.
 
