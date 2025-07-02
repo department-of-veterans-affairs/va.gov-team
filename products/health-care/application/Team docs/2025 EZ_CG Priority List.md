@@ -7,7 +7,7 @@
 | CG      | [Signature page update](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102073)                           | Eng in progress                         |
 | EZ      | [Submission Traceability](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80978)                          | POC with ST team in progress            |
 | EZ      | [Form Statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95313)                                    | Discovery in progress (PM)              |
-| EZ      | [Choose your own adventure](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103253) (step toward 1-click) | Research planning in progress           |
+| EZ      | [Choose your own adventure](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103253) (step toward 1-click) | Research study in progress           |
 | EZ      | [Multi-form Completion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103260)                           | Exploration with BDS team               |
 | CG      | [Caregiver clarification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37541)                          | Content refresh                         |
 | EZ      | [Integrate with Mobile app](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103255)                       | Link already on app, what else?         |
