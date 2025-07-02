@@ -4,12 +4,12 @@
 
 
 ## Table of Contents
-- Communication
-- Important Artifacts
-- Phase I - UAT
-- Staged Release
-- Go Live
-- Post Launch Questions
+- [Communication](#communication)
+- [Important Artifacts](#important-artifacts)
+- [Phase I - UAT](#phase-i---uat)
+- [Staged Release](#staged-release)
+- [Go Live](#go-live)
+- [Post Launch Questions](#post-launch-questions)
   
 
 ## Communication
