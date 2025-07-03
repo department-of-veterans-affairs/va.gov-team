@@ -84,6 +84,7 @@ Known issue: [Unexpected No Rep state UI in Profile Production](https://github.c
 2. On June 16, the root cause was determined -- the "end date" was not being factored into the Lighthouse Benefits Claims API service, for retrieving representative status.
 3. On June 23, the issue was resolved -- the "end date" is now factored in to ensure only acitve representation is being reported to users.
 
+**Datadog and Contact Center results:**
 1. 287.92k requests to Lighthouse for the representative status, with a 97.16% success rate. ([Rep Status dashboard](https://vagov.ddog-gov.com/dashboard/ttj-p2z-9gh/arm-representative-status?fromUser=false&refresh_mode=paused&from_ts=1748847600000&to_ts=1751525999999&live=false))
    1. This is 3.3x more requests, compared to the 86.23k requests the month prior to staged rollout (May 2025).
 2. 10.59k requests on the frontend, to our /profile/accredited-representative URL, with a 98.92% success rate. ([Profile dashboard](https://vagov.ddog-gov.com/dashboard/86m-u8e-z5x/authenticated-experience-profile?fromUser=false&refresh_mode=paused&from_ts=1748847600000&to_ts=1751525999999&live=false))
