@@ -11,10 +11,10 @@ type: "Epic"
 # Epic title
 
 ### Problem Statement
-* 
+* What are we trying to solve?
 #### Why is this important?
 * 
-#### Link to Github documentation 
+#### Links to Github and other documentation 
 *
 ## Current Status
 
