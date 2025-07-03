@@ -39,8 +39,8 @@ Today, we're going to talk about VA Benefit Letters and Documents. These types o
 Before we start, I have a few logistics to cover:
 
 * I have [number] colleagues who are interested in observing this session to better understand the Veteran experience. Would you be okay with them observing?
-    * If no: Use Slack to kindly ask the observers to leave the Zoom.
-    * If yes: Admit observers.
+    * <mark>[If no,]</mark> Use Slack to kindly ask the observers to leave the Zoom.
+    * <mark>[If yes,]</mark> Admit observers.
     * Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. 
     * Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
 
