@@ -72,29 +72,23 @@ Known issue: [Unexpected No Rep state UI in Profile Production](https://github.c
 
 ## Post Launch Metrics
 
-### 1-Week Results Post-Launch 
+### 1-Week Results Post-Launch (June 2-9, 2025)
 1. 52.5k requests to Lighthouse for the representative status, with a 98.65% success rate. ([Rep Status dashboard](https://vagov.ddog-gov.com/dashboard/ttj-p2z-9gh/arm-representative-status?fromUser=true&refresh_mode=paused&from_ts=1747897200000&to_ts=1748027517007&live=false))
    1. This is 2.7x more requests, compared to the 19.21k requests the week prior to staged rollout (May 14-21).
 2. 10.59k requests on the frontend, to our /profile/accredited-representative URL, with a 98.92% success rate. ([Profile dashboard](https://vagov.ddog-gov.com/s/f327ad72-c02a-11ec-a50a-da7ad0900007/cvt-efh-hzf))
 
-### 1-Month Results Post Launch
+### 1-Month Results Post Launch (June 2 - July 2, 2025)
 
-1. Datadog Endpoint activity:
-2. Contact Center calls (MyVA411): 
-3. Feedback survey submmissions (Medallia): 
+**1 Issue Uncovered + Resolved**: 
+1. On June 12, an issue was raised that users were seeing an old/expired representative as still being appointed.
+2. On June 16, the root cause was determined -- the "end date" was not being factored into the Lighthouse Benefits Claims API service, for retrieving representative status.
+3. On June 23, the issue was resolved -- the "end date" is now factored in to ensure only acitve representation is being reported to users.
 
-**What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?**  
+1. 287.92k requests to Lighthouse for the representative status, with a 97.16% success rate. ([Rep Status dashboard](https://vagov.ddog-gov.com/dashboard/ttj-p2z-9gh/arm-representative-status?fromUser=false&refresh_mode=paused&from_ts=1748847600000&to_ts=1751525999999&live=false))
+   1. This is 3.3x more requests, compared to the 86.23k requests the month prior to staged rollout (May 2025).
+2. 10.59k requests on the frontend, to our /profile/accredited-representative URL, with a 98.92% success rate. ([Profile dashboard](https://vagov.ddog-gov.com/dashboard/86m-u8e-z5x/authenticated-experience-profile?fromUser=false&refresh_mode=paused&from_ts=1748847600000&to_ts=1751525999999&live=false))
+3. Contact Center calls (MyVA411): N/A
+4. Feedback survey submmissions (Medallia):
+   1. 14 submissions on this URL, 7 of which included feedback. Only 2 submissions included relevant feedback and they speak to the issue detailed above.
 
-**OKRs:**
 
-
-## Post-Launch Questions
-
-_To be completed once you have gathered your initial set of data, as outlined above._
-
-1. **How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?**
-2. **What qualitative feedback have you gathered from users or other stakeholders?** 
-3. **Which assumptions you listed in your product outline were/were not validated?**
-4. **How might your product evolve now or in the future based on these results?** 
-5. **What technical tasks are needed to clean up (i.e., removal of feature toggles)?**
-   1. [Remove unnecessary Appoint MVP feature flags](https://github.com/department-of-veterans-affairs/va.gov-team/issues/99680)
