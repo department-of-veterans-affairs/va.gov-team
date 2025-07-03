@@ -133,6 +133,7 @@ From home screen
         * Are there other names that would be a better description or make things easier to find?
 * Now click into that tab
     * What are your thoughts on the info presented here?
+    * Now that you see what’s in this section: any further thoughts on the name “payments”?
     * Regarding the info below the word "overpayments" – what would be the most helpful to see there?
 
 Overpayment benefits debt 
@@ -293,6 +294,7 @@ From home screen
         * Are there other names that would be a better description or make things easier to find?
 * Now click into that tab
     * What are your thoughts on the info presented here?
+    * Now that you see what’s in this section: any further thoughts on the name “payments”?
     * Regarding the info below the word "copay" – what would be the most helpful to see there?
 
 
