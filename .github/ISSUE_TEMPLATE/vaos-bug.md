@@ -2,7 +2,7 @@
 name: VAOS Bug Template
 about: For filing VAOS bugs found
 title: ''
-labels: appointments, bug
+labels: appointments, bug, needs-grooming
 assignees: ''
 
 ---
@@ -11,14 +11,14 @@ assignees: ''
 _Describe what went wrong_
 
 ## Specs
-- Device: 
-- Browser: 
+- Device:
+- Browser:
 
 ## Steps to Reproduce
-**Test User:** 
+**Test User:**
 
 1. Go to: _URL_
-2. 
+2.
 
 ### Actual Result
 _Describe what happened that was unexpected or undesired; including screenshots is encouraged_
@@ -32,7 +32,5 @@ _Describe what was supposed to happen; reference existing Github issue that cont
 
 ---
 ## How to configure this issue
-- [ ] **Labeled with Team** (`appointments`)
-- [ ] **Labeled with Practice Area** (`backend`, `frontend`, `design`, `product`)
-- [ ] **Labeled with** `bug`
+- [ ] **Labeled with Practice Area** (`vets-website`, `vets-api`, `backend`, `design`, `product`)
 - [ ] **Assigned to** Product for prioritization
