@@ -86,11 +86,12 @@ Before we start, I have a few things that I want to go over with you:
 
 ### For everyone
 
-8. Have you ever used VA.gov to get copies of VA benefits letters or documents? If not, are you aware you could do that on the website?  
-9. What things have you used or might you use proof of VA benefits for?
+8. Have you ever used VA.gov to get copies of VA benefits letters or documents?
+  * <mark>[If no]</mark> "Are you aware you could do that on the website?"
+  * <mark>[If yes]</mark> "Which letters have been the most valuable to you? Did you know the purpose of the letter before coming here to download or learn about it on VA.gov?"
 
 ## Task 1: Navigating to the benefit letters page - X minutes
-**Goal:**  Observe how Veterans expect to find benefit letters from the homepage.
+**Goal:**  Observe where and how Veterans expect to find benefit letters from the homepage.
 
 ### Scenario
 
@@ -121,8 +122,8 @@ You’re on the public-facing ‘Download VA benefit letters’ page, and you ne
 
 ### Steps
 
-1. Please sign in. <mark>[With staging user 54]</mark>
-2. <mark>[Arrives on authenticated page]</mark> Before clicking on anything, take a minute to explore the entire page and tell me what you see. What do you think this page is for, and what do you think you can do here? <mark>[Allow ~2-3 minutes for exploration]</mark>
+1. "Please sign in." <mark>[With staging user 54]</mark>
+2. <mark>[Arrives on authenticated page]</mark> "Before clicking on anything, take a minute to explore the entire page and tell me what you see. What do you think this page is for, and what do you think you can do here?" <mark>[Allow ~2-3 minutes for exploration]</mark>
 
 ### Things to watch out for
 
@@ -138,6 +139,7 @@ You’re on the public-facing ‘Download VA benefit letters’ page, and you ne
 * "What would you do next?"
 * "Tell me more about [specific behavior you observed]"
 * "What would you expect to find in [specific section]?"
+* "Are all the letters you’d expect to see here? If not, what would you do?"
 
 ## Task 3: Updating the mailing address - X minutes
 **Goal:** Test the address update flow and messaging comprehension.
@@ -148,7 +150,7 @@ Imagine that your community's zip code boundary recently changed, and you want t
 
 ### Steps
 
-1. Update the zip code to 20811  
+1. "Please update the zip code to 20811."  
 2. Save the new address <mark>[Let them work through the process naturally]</mark>
 
 ### Things to watch out for
@@ -161,7 +163,8 @@ Imagine that your community's zip code boundary recently changed, and you want t
 
 ### Follow-up questions (If needed)
 * "What did you think about that process?"
-* "Was anything unclear about how this affects your profile?"
+* "Was anything unclear about how this affects your VA.gov profile?"
+* "Imagine you didn’t have a mailing address—what would you expect to happen? What would you do?"
 
 ## Task 4: Creating a custom Benefit Summary and Service Verification Letter
 **Goal:** Test the customization flow and task completion
@@ -194,7 +197,7 @@ You're applying to reduce your property taxes, and your County Assessor's Office
 * "Was it clear what information would be included?"
 
 ## Task 5: Finding and Downloading a Proof of Service Card
-**Goal:** Test ability to locate and download a specific document type
+**Goal:** Test the ability to locate and download a specific document type
 
 ### Scenario
 
