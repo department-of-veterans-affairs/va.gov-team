@@ -8,7 +8,6 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 
 ## DRAFT Quarterly Priorities for FY25Q4 (July, August, September 2025)  
 *Quarter Sprints include 12, 13, 14, 15, 16, 17, 18*
-<details>
     
 **Primary Goals (May shift based on stretch goal dependencies)**
 | Priority ID | Description | S.Epic | Relevant Dates |  Notes | Dependency |  End of Quarter Status |
@@ -58,25 +57,25 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 - [ ] All goals have been updated in the sprint chart
 - [ ] Any Additional details about goals **not** completed will be documented here
 
-
-</details>
-
 ---
 
 ## Quarterly Priorities for FY25Q3 (Apr, May, Jun 2025)  
 *Quarter Sprints include 5, 6, 7, 8, 9, & 10*
+
+<details>
+    
 </br> **Primary Goals (May shift based on stretch goal dependencies)**
     
 | Priority ID | Description | S.Epic | Relevant Dates |  Notes |  End of Quarter Status |
 |-------------|---------------|-----------------|---------------|  ---------------|   ---------------| 
-| QP1 | **Zero Silent Failure Alignment:** Implement call back functionality and 3 email templates for asynchronous submission pattern|[#106206](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106206)  | Implement ASAP- before April 22, 2025 | **[UX+BE]** Tied to OCTO Silent Failure Initiative  | |
+| QP1 | **Zero Silent Failure Alignment:** Implement call back functionality and 3 email templates for asynchronous submission pattern|[#106206](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106206)  | Implement ASAP- before April 22, 2025 | **[UX+BE]** Tied to OCTO Silent Failure Initiative  | Work on this was paused for Digital Dispute and remainign items will be addressed in the Indirect Initiative Priority Work epic #112855 next quarter. |
 | QP2 |  **One VA Debt Letter:** Launch in production *| [#84175](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84175) | Launch in Prodution Goal: ~~March~~ Early April 2025 | **[UX+FE+BE]** Legislative Requirement: Veterans Benefit Transition​ Act of 2018 ( year 7) |Launched on April 30, 2025  |
 | QP3 |  **Update 5655 Wizard to new task flow:** Launch updates in production *| [#48133](https://github.com/orgs/department-of-veterans-affairs/projects/1514/views/6?pane=issue&itemId=88349041&issue=department-of-veterans-affairs%7Cva.gov-team%7C48133)|  | **[UX+FE]**  Dependent on CAIA team collaboration | Launched in production May 6, 2025    ||
-| QP4  | **Digital Debt Dispute (VBA):** Target Launch in production *| [#82003](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82003) | Target Launch in Production ~~May 28, 25~~ - updated to end of June due to DMC bandwidth constraints |**[UX+FE+BE]**   | |
-| QP5 | **One Thing Per Page** | [#106610](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106610)|Target launch end of quarter | **[UX+FE]** Plan to extract 1TTP from VHA Payment History work to expedite implementation |  |
-| QP6 | **Pay.gov Hosted Collection Page (HCP) for Overpayments:** Discovery & Design Prototyping *| [#105733](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105733)  |  |**[UX]**  | |
-| QP7 | **Mobile App:** Collaborate with MFS (Mobile Feature Support) team to add overpayment debt information into mobile app experience |  [#106209](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106209) | complete initial discovery by end of quarter |**[UX]** MFS team responsible for implementation - FM team with expertise in finance space to collaborate closely with MFS |   |
-| QP8 | **Veteran Request for Hardship Suspension (VBA):** Discovery & Design Prototyping * | [#106207](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106207) |  | **[UX]** | |
+| QP4  | **Digital Debt Dispute (VBA):** Target Launch in production *| [#82003](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82003) | Target Launch in Production ~~May 28, 25~~ - updated to end of June due to DMC bandwidth constraints |**[UX+FE+BE]**   | Due to launch blocking items the launch was delayed into the next sprint, but will launch in the first sprit of the next quarter. |
+| QP5 | **One Thing Per Page** | [#106610](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106610)|Target launch end of quarter | **[UX+FE]** Plan to extract 1TTP from VHA Payment History work to expedite implementation | Partially Complete, UX has completed their portion and FE had to shift to Digital Dispute. This will finish development and release early next quarter. |
+| QP6 | **Pay.gov Hosted Collection Page (HCP) for Overpayments:** Discovery & Design Prototyping *| [#105733](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105733)  |  |**[UX]**  | Complete for phase 1 - UX needs to review with ENG on the implimnetation verification. |
+| QP7 | **Mobile App:** Collaborate with MFS (Mobile Feature Support) team to add overpayment debt information into mobile app experience |  [#106209](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106209) | complete initial discovery by end of quarter |**[UX]** MFS team responsible for implementation - FM team with expertise in finance space to collaborate closely with MFS | Complete, any additional support will be captured in the Indirect Initiative Priority Work epic #112855 next quarter.  |
+| QP8 | **Veteran Request for Hardship Suspension (VBA):** Discovery & Design Prototyping * | [#106207](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106207) |  | **[UX]** | Incomplete - UX is finishing the last 2 tickets for design and user flow. |
 
 
 
@@ -249,8 +248,12 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 - For this goal:"ENG: Launch Digital Debt Dispute,"  the launch was delayed due to launch-blocking Staging Review feedback.
 ---
 
+</details>
+
 ## Quarterly Priorities for FY25Q2 (Jan, Feb, Mar 2025)  
 *Quarter Sprints include 1, 2, 3, & 4*
+
+<details>
   
 | Priority ID | Description | S.Epic |Status | Notes | Launch in Production Goal |   End of Quarter Status |
 |-------------|---------------|-----------------|---------------|  ---------------|  ---------------|    ---------------| 
@@ -355,3 +358,5 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 **_Delivery + Notes:_**
 - [X] All goals have been updated in the sprint chart
 - [X] Any Additional details about goals **not** completed will be documented here
+
+</details>
