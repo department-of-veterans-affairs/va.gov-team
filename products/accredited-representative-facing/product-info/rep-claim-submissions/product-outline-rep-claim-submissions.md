@@ -1,6 +1,5 @@
 
-# Product Outline - Accredited Representative Portal - Claim Submission and Self-Service Auth
-
+# Product Outline - Accredited Representative Portal - Claim Submission
 ---
 
 ## Overview
