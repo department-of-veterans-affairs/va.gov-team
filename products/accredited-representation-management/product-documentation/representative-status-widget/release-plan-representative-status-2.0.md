@@ -88,7 +88,7 @@ Known issue: [Unexpected No Rep state UI in Profile Production](https://github.c
 1. 287.92k requests to Lighthouse for the representative status, with a 97.16% success rate. ([Rep Status dashboard](https://vagov.ddog-gov.com/dashboard/ttj-p2z-9gh/arm-representative-status?fromUser=false&refresh_mode=paused&from_ts=1748847600000&to_ts=1751525999999&live=false))
    1. This is 3.3x more requests, compared to the 86.23k requests the month prior to staged rollout (May 2025).
    2. Note: June is likely experiencing higher traffic than usual, due to a MyHealtheVet campaign that was delivered to 6 million Veterans and pointed them to Profile (specifically Contact Information, with a call to action to update their email on file).
-2. 10.59k requests on the frontend, to our /profile/accredited-representative URL, with a 98.92% success rate. ([Profile dashboard](https://vagov.ddog-gov.com/dashboard/86m-u8e-z5x/authenticated-experience-profile?fromUser=false&refresh_mode=paused&from_ts=1748847600000&to_ts=1751525999999&live=false))
+2. 45.24k requests on the frontend, to our /profile/accredited-representative URL, with a 98.70% success rate. ([Profile dashboard](https://vagov.ddog-gov.com/dashboard/86m-u8e-z5x/authenticated-experience-profile?fromUser=false&refresh_mode=paused&from_ts=1748847600000&to_ts=1751525999999&live=false))
 3. Contact Center calls (MyVA411): N/A
 4. Feedback survey submmissions (Medallia):
    1. 14 submissions on this URL, 7 of which included feedback. Only 2 submissions included relevant feedback and they speak to the issue detailed above.
