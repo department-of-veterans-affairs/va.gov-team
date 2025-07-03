@@ -89,7 +89,8 @@ Before we start, I have a few things that I want to go over with you:
 8. Have you ever used VA.gov to get copies of VA benefits letters or documents? If not, are you aware you could do that on the website?  
 9. What things have you used or might you use proof of VA benefits for?
 
-## Task 1: Navigating to the benefit letters page (new)**
+## Task 1: Navigating to the benefit letters page - X minutes
+**Goal:**  Observe how Veterans expect to find benefit letters from the homepage.
 
 ### Scenario
 
@@ -98,7 +99,7 @@ You are on the homepage ([staging.VA.gov](http://staging.VA.gov)) and want to vi
 ### Steps
 
 1. Take a look at this homepage first. Where do you think your benefit letters are located?  
-2. Now, go ahead and navigate to where you think they are.
+2. Now, go ahead and navigate to where you think they are. <mark>[Let them explore naturally without guidance]</mark>
 
 ### Things to watch out for
 
@@ -106,7 +107,13 @@ You are on the homepage ([staging.VA.gov](http://staging.VA.gov)) and want to vi
 * Do they use the main navigation menu or search?  
 * Which top-level categories do they explore first?
 
-## Task 2: Undstanding the page and the different letters and documents - X minutes
+### Follow-up questions (If needed)
+* "Tell me about your thought process there."
+* "What made you think of going there?"
+* "Where else might you go if that didn't work?"
+
+## Task 2: Understanding the page and the different letters and documents - X minutes
+**Goal:** Observe how Veterans orient themselves to the page and understand available options.
 
 ### Scenario
 
@@ -115,7 +122,7 @@ You’re on the public-facing ‘Download VA benefit letters’ page, and you ne
 ### Steps
 
 1. Please sign in. <mark>[With staging user 54]</mark>
-2. <mark>[Arrives on authenticated page]</mark> Before clicking on anything, take a minute to explore the entire page and tell me what you see. What do you think this page is for, and what do you think you can do here?
+2. <mark>[Arrives on authenticated page]</mark> Before clicking on anything, take a minute to explore the entire page and tell me what you see. What do you think this page is for, and what do you think you can do here? <mark>[Allow ~2-3 minutes for exploration]</mark>
 
 ### Things to watch out for
 
@@ -126,16 +133,23 @@ You’re on the public-facing ‘Download VA benefit letters’ page, and you ne
 * Do they expand the accordions? 
 * What do they do if they don’t find a letter that they were expecting to be on this page?
 
+### Follow-up questions (If needed)
+
+* "What would you do next?"
+* "Tell me more about [specific behavior you observed]"
+* "What would you expect to find in [specific section]?"
+
 ## Task 3: Updating the mailing address - X minutes
+**Goal:** Test the address update flow and messaging comprehension.
 
 ### Scenario
 
-Imagine that your community's zip code boundary recently changed, and you want to update your mailing address with the new zip code before downloading any benefit letters. Go ahead and update the zip code to 20811\.
+Imagine that your community's zip code boundary recently changed, and you want to update your mailing address with the new zip code before downloading any benefit letters. Please update the zip code to 20811.
 
 ### Steps
 
 1. Update the zip code to 20811  
-2. Save the new address
+2. Save the new address <mark>[Let them work through the process naturally]</mark>
 
 ### Things to watch out for
 
@@ -145,8 +159,12 @@ Imagine that your community's zip code boundary recently changed, and you want t
 * Any confusion about the military base address option?  
 * How do they react to the "If you don't have an address" section?
 
+### Follow-up questions (If needed)
+* "What did you think about that process?"
+* "Was anything unclear about how this affects your profile?"
 
 ## Task 4: Creating a custom Benefit Summary and Service Verification Letter
+**Goal:** Test the customization flow and task completion
 
 ### Scenario
 
@@ -158,14 +176,25 @@ You're applying to reduce your property taxes, and your County Assessor's Office
 
 ### Steps  
 
-1. Create and download this letter with only the information that was requested.  
-   **Things to watch out for**  
+1. Create and download this letter with: <mark>[Let them navigate and complete the task independently]</mark>
+* Your military service history  
+* Combined disability rating  
+* Monthly benefit amount    
+
+### Things to watch out for
+
 * Do they locate the Benefit Summary and Service Verification Letter?  
 * Do they understand they can customize what's included?  
 * Can they complete the customization process (selecting the 3 specific items)?  
 * Do they understand what happens when they click "Download Benefit Summary and Service Verification Letter (PDF)"?
 
+### Follow-up questions (If needed)
+
+* "How did that feel?"
+* "Was it clear what information would be included?"
+
 ## Task 5: Finding and Downloading a Proof of Service Card
+**Goal:** Test ability to locate and download a specific document type
 
 ### Scenario
 
@@ -173,13 +202,17 @@ You're planning to go out of town this weekend and want to use your Proof of Ser
 
 ### Steps
 
-1. Locate and download the Proof of Service Card.
+1. Locate and download the Proof of Service Card.<mark>[Let them work independently]</mark>
 
 ### Things to watch out for
 
 * Do they understand what the Proof of Service Card is for?  
 * Do they successfully locate and download the PDF?  
-  * Note the default ‘download’ behavior for different browsers
+* Note the default ‘download’ behavior for different browsers
+
+### Follow-up questions (If needed)
+* "Was it easy to find what you were looking for?"
+* "How would you use this card?"
 
 # Post-Task Interview - 5 minutes
 [**Type into #feedback-backchannel**: "Any questions you want me to ask?"]
