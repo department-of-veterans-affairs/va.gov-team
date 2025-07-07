@@ -133,14 +133,10 @@ We can help guide you through this if you need help. Please say what you're doin
 
 "Now I'd like you to open a website that I'm going to share with you."
 
-"I will *[email/text/dictate/put into the Zoom chat]* the URL: **https://staging.va.gov/** and a username and password."
+"I will *[email/text/dictate/put into the Zoom chat]* the URL: **https://staging.va.gov/**"
 - *(If asked, reassure that this is a legitimate link to what I want you to test)*
 
-"Did you get the link?"
-
-<mark>[Need instructions for staging].</mark>
-
-**You'll be interacting with our staging site today.** Since it's a prototype, note that none of your actions will affect your own VA information or benefits.
+**"This is a test version of VA.gov. **It is similar to the real website, but with some special features enabled for our session. ** It's all test data, so nothing we do here will impact your own VA information or benefits."
 
 
 ## Task 1: Navigating to the benefit letters page - X minutes
@@ -154,6 +150,8 @@ We can help guide you through this if you need help. Please say what you're doin
 
 1. "Take a look at this homepage first, before you interact with it. Where do you think your benefit letters are located?"  
 2. "Now, go ahead and navigate to where you think they are." <mark>[Let them explore naturally without guidance]</mark>
+
+<mark>If the participant attempts to sign in, then we need to send them the credentials</mark>
 
 ### Things to watch out for
 
@@ -175,7 +173,7 @@ We can help guide you through this if you need help. Please say what you're doin
 
 ### Steps
 
-1. "Please sign in." <mark>[With staging user 54]</mark>
+1. "Now, please sign in, and I'll put the credentials you should use to sign in in the chat (or say them verbally)." <mark>[With staging user 54]</mark>
 2. <mark>[Arrives on authenticated page]</mark> "Before clicking on anything, take a minute to explore the entire page and tell me what you see. What do you think this page is for, and what do you think you can do here?" <mark>[Allow ~2-3 minutes for exploration]</mark>
 
 ### Things to watch out for
