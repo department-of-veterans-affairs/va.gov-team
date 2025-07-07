@@ -8,7 +8,7 @@
 
 `List and complete any project-specific setup tasks for this study below:`
 
-- [ ] Final check of staging with Jessica Woodin
+- [ ] Final check of staging environment with Jessica Woodin
 
 ### Day of the session
 
@@ -75,51 +75,46 @@ Before we start, I have a few things that I want to go over with you:
 
  <mark>**[Record answer here]**</mark>
 
-# Semi-structured interview questions - 20 minutes
+# Semi-structured interview questions - 25 minutes
 
-Let's start with some questions about your experiences separating from the military. 
+## Warm up question
+1. Have you used VA.gov before? (If yes: how? If yes: Do you have a login?)
 
+## Main questions
 
+1. For TSMs: Where are you currently in the process of separating from the military?
+   For Veterans: When did you separate from the military?
+2. For TSMs: How is the process going for you?
+   For RSVs: How did the process go for you? 
+3. Key question
+    Part a. For TSMs: What are you doing right now to keep track of your progress, tasks, and deadlines for separation? (Ask           follow up questions about tools, actions and people involved in these processes, who recommended them and how they found them.)
+    For RSVs: How did you keep track of your progress, tasks, and deadlines for separation? (Ask follow up questions about tools,      actions and people involved in these processes, who recommended them and how they found them.)
+    For TSMs who are TAP participants: Is anyone outside of TAP helping you keep track of what you need to do for your                 transition?
+   Part b. For TSMs who are non-TAP participants: Is anyone helping you keep track of what you need to do for your transition? 
+   For RSVs: When you were in the process of separating, did anyone help you keep track of what you needed to do?
+   (Follow up questions about who, and how they are helping; for RSVs, what could have made the process go better)
+5. For TSMs: What are you most concerned might slip through the cracks during your transition? What keeps you up at night?
+   For RSVs: What were you most concerned might slip through the cracks during your transition? What kept you up at night? AND         What do you wish you had known during the process?
+6. What do you most want VA to understand about your experience?
 
-## First Task: [TASK NAME] - X minutes
+## First Task: [Use Discover Your Benefits Tool - self led] - 15 minutes
 
-- [ ] Step 1
-- [ ] Step 2
-
-> [!NOTE]
-> ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
-> - [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-> - [Etc]
-
-## Second Task: [TASK NAME] - X minutes
-
-- [ ] Step 1
-- [ ] Step 2
-
-> [!NOTE]
-> ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
-> - [Etc]
-
-## Third Task: [TASK NAME] - X minutes
-
-- [ ] Step 1
-- [ ] Step 2
+- [ ] Complete questionnaire
+- [ ] Interact with results (includes reading results page, filtering results page, printing or screenshotting, redoing questionnaire to understand results, changing answers)
 
 > [!NOTE]
 > ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
-> - [Etc]
+> - Does the participant understand "previous period of service" language?
+> - How does the participant interact with the results page?
+> - Does the participant notice the time sensitive benefits?
+> - Do they use filters, the back button, or other methods for understanding and navigating results?
 
 # Post-Task Interview - X minutes
 
-- Question 1
-- Question 2
-- Any questions for me? 
+- What support would you like to receive that isn’t included in this tool?
+- After using this tool, what would you do next?
+- What would help you take action using the information in this tool?
+- Is there anything else you think we should know?
 
 ## Consent to use video clips
 
