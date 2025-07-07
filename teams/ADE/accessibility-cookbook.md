@@ -37,79 +37,11 @@ Written by: @davidakennedy
 
 ## Choose the right element: Buttons vs. links
 
-Many people struggle to select the right element when choosing between a button or link. Making the right choice can help make an interface easier to use, especially for people who use assistive technology. Buttons and links are the primary ways users interact with information on a web page. Links are for navigation; buttons are for action.
-
-### Accessibility problem being solved
-
-In general, make links look like links and buttons look like buttons. Designing buttons as buttons and links as links improves usability and accessibility by:
-- setting honest expectations of interaction behavior
-- providing clear signifiers of affordances
-- creating experiences that are consistent with web standards
-
-Assistive technology users rely on proper semantics to access web content. They may choose to navigate by button, or link, depending on what they’re looking for. It’s vital that our content meets users’ expectations - link items, coded as buttons, could make those links hard to find, for example.
-
-### Ideal state
-
-- Buttons are:
-  - Used for actions, including:
-    - Submitting a form
-    - Opening a modal
-    - Changing the state of something (such as “Back / Continue” buttons on a form)
-    - Expanding something (like an accordion)
-  - Created using the [Button component](https://design.va.gov/components/button/) or [Button group component](https://design.va.gov/components/button/button-group), or with [standard semantic HTML button](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button)
-  - Styled to look like buttons and shouldn’t include link signifiers, such as underlines
-- Links are:
-  - Used for navigation:
-    - Navigation bars
-	- Skip links / jump links (such as the On this page component)
-	- Links to internal web pages
-	- Links to external websites (read the [Content style guide](https://design.va.gov/content-style-guide/links#linking-to-external-sites) for additional information)
-    - Links to PDFs, whether static or generated on the fly
-        -  **Rationale:** The final product is a file, and the Veteran may not know that the PDF is generated on the fly.
-        -  **Exception:** If the trigger to generate the PDF is "Generate PDF," "Create PDF," or other phrases that explicitly call out the "action" nature of the generation, use a button.
-  - Created using the [Link component](https://design.va.gov/components/link/), the [Action link component](https://design.va.gov/components/link/action) if you need extra visual emphasis, or with [standard semantic HTML link](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
-  - Styled to look like links and shouldn’t include button signifiers, such as borders
-
-### Implementation notes
-
-![Button or link flow chart](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/master/teams/ADE/bin/button-or-link.png)
-
-#### Should this be a button or link?
-
-  - **Is the purpose of the control to navigate elsewhere?**
-    - Yes
-      - Examples: Going to a page; Going to a static file, like a PDF
-      - **Is data submitted before navigation?**
-        - Yes
-          - Examples: Sending data to a server or saving client side before moving to a new page, like a form
-          - _Make it a Button_
-        - No
-          - **Does it need to stand out from surrounding design elements?**
-            - No
-              - Examples: Link in body text; Link in the footer of a form; Links in a menu
-              - _Make it a Link_
-            - Yes
-              - Examples: A link to a page which will begin a new form; A link on a page with an existing button as the primary action that’s needs more visual weight than other links
-                - **Is this on web or mobile?**
-                  - Mobile
-                    - _Ask your friendly neighborhood accessibility expert_
-                  - Web
-                    - _Make it an Action Link_
-    - No
-      - **Is the purpose of this control to generate data for a file?**
-        - Examples: Creating a PDF from a web page; Creating a PDF from data on the server
-        - Yes
-          - _Make it a Link_
-        - No
-          - _Make it a Button_
-
-### Further reading
-- [Links (pptx)](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/teams/ADE/presentations/Links.pptx)
-- [Buttons and links and action links (pptx)](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/teams/ADE/presentations/Buttons%20and%20Links%20and%20Action%20Links.pptx)
+Published to the VA Design System - [Link - Action](https://design.va.gov/components/link/action#choose-the-right-element-buttons-vs-links) page
 
 ### Last updated
 
-5/14/24
+7/7/25
 
 Written by: @davidakennedy
 Buttons vs. links flow chart by @jrfbz and @davidakennedy
