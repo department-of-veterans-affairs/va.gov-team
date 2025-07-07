@@ -7,7 +7,6 @@
 | ------ | ----------- | ------------- | ------------ | ---------------- | -------- |
 | va_online_scheduling | Allows veterans to view their VA and Community Care appointments |  |  |  | Toggle that manages the whole application. This toggle should not be removed and should remain "enabled for everyone" at all times. |
 | va_online_scheduling_cancel | Allows veterans to cancel VA appointments |  |  |  | Toggle that manages the whole application. This toggle should not be removed and should remain "enabled for everyone" at all times. |
-| va_online_scheduling_convert_slots_to_utc | Allows conversion of start & end times in slots fetch to UTC |  |  |  | Toggle for for converting the start & end times in slots fetch to UTC. |
 | va_online_scheduling_community_care | Allows veterans to submit requests for Community Care appointments |  |  |  | Toggle that manages the whole application. This toggle should not be removed and should remain "enabled for everyone" at all times. |
 | va_online_scheduling_direct | Allows veterans to directly schedule VA appointments |  |  |  | Toggle that manages the whole application. This toggle should not be removed and should remain "enabled for everyone" at all times. |
 | va_online_scheduling_requests | Allows veterans to submit requests for VA appointments |  |  |  | Toggle that manages the whole application. This toggle should not be removed and should remain "enabled for everyone" at all times. |
