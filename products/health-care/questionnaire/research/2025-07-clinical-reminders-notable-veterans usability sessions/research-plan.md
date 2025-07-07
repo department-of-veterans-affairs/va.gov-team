@@ -1,4 +1,4 @@
-# Research Plan for Clinical Reminder pilot: Notable Prototype Usability Sessions with Veterans, July 2025  
+# Research Plan for Clinical Reminder Pilot: Notable Prototype Usability Sessions with Veterans, July 2025  
 
 ## Background
 The Clinical Reminder system helps caregivers deliver higher quality care to patients for both preventive health care and management of chronic conditions and helps ensure that timely clinical interventions are initiated. Reminders assist clinical decision-making and also improve documentation and follow-up, by allowing providers to easily view dates when certain tests or evaluations were performed and to track and document when care has been delivered.   
@@ -58,13 +58,13 @@ Moderated, semi-structured usability sessions with Veterans.
 • Equipment: Veterans may choose to use native assistive devices during sessions; subject to participant recruitment.  
 
 ## Research materials
-- [Link to conversation guide](url goes here)  
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2025-07-clinical-reminders-notable-veterans%20usability%20sessions/conversation-guide.md)  
 - [Link 1 to Notable prototype](https://app.notablehealth.com/previsit/app/#/login/XV5W0OACRV4F)  
   - DOB:03/09/1945
   - Last name:TWENTYSIX
 -  [Link 2 to Notable prototype](https://app.notablehealth.com/previsit/app/#/login/AX4GEANUFZQS)
-  - DOB:03/09/1945
-  - Last name:FIVE
+    - DOB:03/09/1945
+    - Last name:FIVE
 
 **Note**: Links expire July 10th at 8:00 am ET; please contact nina.anusavice@va.gov to request additional links or to refresh expired links.
 
