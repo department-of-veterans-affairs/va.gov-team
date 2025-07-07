@@ -86,16 +86,12 @@ Before we start, I have a few things that I want to go over with you:
    For Veterans: When did you separate from the military?
 2. For TSMs: How is the process going for you?
    For RSVs: How did the process go for you? 
-3. Key question
-    Part a. For TSMs: What are you doing right now to keep track of your progress, tasks, and deadlines for separation? (Ask           follow up questions about tools, actions and people involved in these processes, who recommended them and how they found them.)
-    For RSVs: How did you keep track of your progress, tasks, and deadlines for separation? (Ask follow up questions about tools,      actions and people involved in these processes, who recommended them and how they found them.)
-    For TSMs who are TAP participants: Is anyone outside of TAP helping you keep track of what you need to do for your                 transition?
-   Part b. For TSMs who are non-TAP participants: Is anyone helping you keep track of what you need to do for your transition? 
-   For RSVs: When you were in the process of separating, did anyone help you keep track of what you needed to do?
-   (Follow up questions about who, and how they are helping; for RSVs, what could have made the process go better)
+3. Key question: What are you doing right now/what did you do to keep track of your progress, tasks, and deadlines for separation? (Ask follow up questions about tools, actions and people involved in these processes, who recommended them and how they found them.)
+4. Key question: Is anyone/did anyone outside of TAP helping you keep track of what you need to do for your transition? (Follow up questions about who, and how they are helping; for RSVs, what could have made the process go better)
 5. For TSMs: What are you most concerned might slip through the cracks during your transition? What keeps you up at night?
-   For RSVs: What were you most concerned might slip through the cracks during your transition? What kept you up at night? AND         What do you wish you had known during the process?
-6. What do you most want VA to understand about your experience?
+   For RSVs: What were you most concerned might slip through the cracks during your transition? What kept you up at night?
+6. What do you wish you had known during the process? (follow up if they don't mention benefits: What do you wish you had known about VA benefits?)
+7. What do you most want VA to understand about your experience?
 
 ## First Task: [Use Discover Your Benefits Tool - self led] - 15 minutes
 
