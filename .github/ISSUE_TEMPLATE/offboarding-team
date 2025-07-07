@@ -16,4 +16,18 @@ body:
     attributes:
       value: |
         Product managers should complete this ticket when a VFS or platform team is offboarding and handing off ownership of its products. 
+  - type: markdown
+    attributes:
+      value: "### Before you begin"
+  - type: markdown
+    attributes:
+      value: |
+        Complete these steps before you complete this ticket.
+  - type: checkboxes
+    id: artifact-links-checkbox
+    attributes:
+      label: Verify all relevant materials provided to Governance Team
+      options:
+        - label: I have provided all relevant and up-to-date links, screenshots, images, designs, etc. of the as-is version of the product
+          required: true
  
