@@ -1,164 +1,146 @@
-# DR Enhanced Onramp Initiative Brief
+# 'Onramp to DR Selection' Initiative Brief
 
 ---
 
 ## Outcome Summary
-> *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
 
-Veterans can confidently identify the decision review pathway or next step for their situation. There is a reduction in the number of decision review requests in incorrect pathways and reduction in duplicate requests. 
-
-**Related/Associated product(s)**
-- Decision Review forms | [Product(s) outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/decision-reviews) 
-- Decision Review forms | [Landing page](https://www.va.gov/decision-reviews/) 
+Veterans can independently and confidently identify the most appropriate decision review pathway or next step for their claim when they disagree with VA’s decision. The initiative aims to reduce burdens on Veterans and their representatives, as well as on call centers: reduced confusion-driven pathway switching, reduced form abandonment, and improved first-attempt success rates.
 
 ## Problem
-> *Describe the challenge / pain point you seek to address.:* 
 
-Today, Veterans and other claimants and appellants sometimes struggle to choose the right decision review option for their unique needs for a myriad of reasons that can result in delays and unfavorable decisions. Veterans aren't consistently able to identify the differences between options, their eligibility, and if it will give them the chance at a best outcome.
+Today, Veterans (as well as other claimants and appellants) sometimes struggle to choose the right decision review option for their unique needs, which can result in delays and unfavorable decisions. Veterans aren't consistently able to identify the differences between options, their eligibility, and if it will give them the chance at a favorable outcome.
+
+### Initial data gathering shows:
+
+* Veterans are starting multiple types of decision reviews within short time windows
+* Form abandonment occurs at key decision-making points
+* Qualitative feedback indicates Veterans are confused about where to explain their case (e.g., leaving claim narratives in CSAT surveys)
+* Veterans report difficulty understanding the differences between Supplemental Claims, Higher-Level Reviews, and Board Appeals
 
 ## Target Audience
-The enhanced decision review onramp initiative will focus on Veterans (or their accredited representatives) that seek to file a decision review option for disability compensation on VA.gov. Additionally, the enhanced onramp will key in on users that have first navigated to these pages: "VA decision reviews and appeals", "Choosing a decision review option", or “Find a Form” on VA.gov or have used decision review-related search terms.
 
+The onramp initiative will focus on Veterans (or their accredited representatives) who seek to file a decision review option for disability compensation on VA.gov.
 Why?
-- Limiting scope to appeals for disability compensation claims because it is what the team currently has the most subject matter expertise.
-- These VA.gov static gateway pages enable users to navigate to the decision review options and submit an online Supplemental Claim (SC), Higher Level Review (HLR), or Notice of Disagreement (NOD).
 
-
-## Audience
-All Veterans and other claimants/appellants who navigate to the gateway pages, namely those who seek information regarding their decision review options with the VA or seek to submit an online claim.
-- Including, but not limited to, Veterans who just want to know of the options for future reference, Veterans who want to understand the options available prior to choosing one, and Veterans who are simply passing through to a specific decision review page.
-
-### Third-party Decision Review sources
-
-Where Veterans are finding information regarding clarification of decision review options:
-- Paid Veteran assistance programs
-- https://veteranai.co/
-- Online search articles (Example )
-- Social platforms (Reddit, Facebook)
-
-Considerations:
--Do accredited reps have access to downstream VA systems to show Veterans?
+* Limiting scope to appeals for disability compensation because it is what the team currently has the most subject matter expertise
+* These VA.gov static gateway pages enable users to navigate to the decision review options and submit an online Supplemental Claim (SC), Higher Level Review (HLR), or Notice of Disagreement (NOD)
 
 ## Desired User Outcomes
-- As a Veteran, I will know the exact purpose of each decision review option.
-- As a Veteran, I feel VA has supplied enough engaging and understandable content to self-educate about the decision review options.
-- As a Veteran, I have confidence in my eligibility for the decision review I choose.
-- As a Veteran, I will have an idea of how long each decision review option takes
 
+* As a Veteran, I will understand the precise purpose of each decision review option
+* As a Veteran, I feel VA has supplied enough engaging and understandable content to self-educate about the decision review options
+* As a Veteran, I have confidence in my eligibility for the decision review I choose
+* As a Veteran, I will have an idea of roughly how long each decision review option takes
+* A a Veteran, I will have a clear understanding of the immediate next steps I need to take.
 
 ## Undesired User Outcomes
-- As a Veteran, I do not want the decision review options to be harder to choose between
-- As a Veteran, I do not want to feel overwhelmed making me not want to proceed with any decision review option
-  
+
+* As a Veteran, I do not want to waste time trying to figure out how to select a decision review option
+* As a Veteran, I do not want to choose an option that is wrong for me or more likely to lead to an adverse ruling
+* As a Veteran, I do not want to feel overwhelmed by the complexity of selecting a decision review option
+
 ## Desired Business Outcomes
-- Reduction in Veterans that submit claims and appeals for which they do not qualify for
-- Reduction in the number of disability claims that are submitted when a supplemental claim would have been more appropriate
-- Reduction in duplicate submissions
-- Increase of Veterans that state they're satisfied with their online decision review experience
+
+* Reduction in Veterans that submit claims and appeals for which they do not qualify
+* Reduction in the number of disability claims that are submitted when a supplemental claim would have been more appropriate
+* Reduction in duplicate submissions
+* Increase of Veterans that state they're satisfied with their online decision review experience
+* Reduction in support to call centers
 
 ## Undesired Business Outcomes
-- Increase of incorrect and duplicate claims
-- Negative impact to CSAT
 
-## Risks
-- Frustration from users who are seeking to file decision review for claims other than disability compensation (i.e., users who are not in our target audience) 
-- Users gain false confidence in their decision review options that result in unfavorable outcomes
+* Increase of incorrect and duplicate claims
+* Negative impact to CSAT
+* Increased burden on call centers
 
----
-## Measuring Success
+# Measuring Success
 
-### Key Performance Indicators (KPIs)
-> 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
-> 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
+The team has established 90-day benchmark metrics:
 
-- % reduction in form abandonment | DOMO and GA
-- % reduction in number of pathways started | form in progress count
-- % reduction in incorrect claims submitted | how is incorrect determined?
-- % reduction in duplicate claims submitted | 
-- Increased redirects to form introductions from targeted gateway pages Gateway page views
-- CSAT | how to measure (periodic page surveys? Does this already exist?)
+|Metric|Definition|Measurement|Notes|
+|_|_|_|_|
+|Pathway Switching Rate (PSR)|Percentage of users who initiate multiple decision review types within defined time windows|GA4 segments tracking users with multiple pathway combinations|Time windows: 7-day, 30-day, 90-day, 180-day analysis. Core metric is 90-day.|
+|Form Abandonment Rate by Pathway (FAR)|Percentage of users who start but don't complete pathway-specific forms|GA4 segment analysis, funnels (pathways) for diagnostics if issues arise.|
+|First-Attempt Success Rate (FASR)|Percentage of users who complete their chosen pathway without switching|End-to-end journey tracking from selection to submission|Key indicator of decision confidence|
 
----
+## Benchmarks
 
-## Discovery
-### Assumptions/Risks
-> *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
-> Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
+### PSR (Pathway Switching Rate)
+7.7% (started more than type of DR)
+4.8% (submitted more than one type of DR)
 
-- **Value Risks** (will people use it): 
-  - 
-- **Usability Risks** (can people figure out how to use it):
-  - 
-- **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - Examples:
-    - Upstream/Downstream API/Data availability and reliability
-    - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
-  
-- **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - Examples: 
-    - VA stakeholder testing, marketing, compliance requirements 
+### FAR (Form Abandonment Rate)
+Individual Pathway FAR:
 
-### What're you building
-> *What's in scope for you to build with this initiative? Describe key features/flows. 
-> *What have you explicitly decided to **not** include and why?*
-> *How does this solution address your Assumptions & Risks?
+* 0995 (Supplemental Claim): 54.3% abandonment (27,348 starts → 12,491 completions)
+* 0996 (Higher-Level Review): 37.1% abandonment (36,918 starts → 23,231 completions)
+* 10182 (Board Appeal): 40.9% abandonment (11,060 starts → 6,540 completions)
+
+Aggregate FAR:
+
+* Overall: 43.9% abandonment (75,326 starts → 42,262 completions)
+
+### FASR (First-Attempt Success Rate)
+Individual Pathway FASR:
+
+* 0995 (Supplemental Claim): 89% first-attempt success rate (31k submission → 27.5k without switching)
+* 0996 (Higher-Level Review): 82% first-attempt success rate (21k submission → 17.3k without switching)
+* 10182 (Board Appeal): 98% first-attempt success rate (56k submission → 55k without switching)
+
+Aggregate FASR:
+
+* Overall: 92% first-attempt success rate (108k submission → 99.8k without switching)
 
 
-#### Go-to-market 
-> *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
+### Indicative Success Ranges
 
---- 
+Note: These ranges represent nothing more definitive than potential meaningful improvements based on initial analysis. Actual targets will be set after baseline establishment and stakeholder alignment.
+Near-term indicators of success might include:
 
-## Launch Planning
-### Collaboration Cycle
-> 💡 *Use for any Collab Cycle tracking, questions.*
+* Reductions of 10-20% in confusion-driven pathway switching
+* Improvements of 15-25% in form completion at decision points
+* Decreases of 20-35% in same-day duplicate submissions
 
-- Kickoff ticket
+## What We're Building
 
-### Timeline 
-> *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
+A centralized tool to support the selection of an appropriate Decision Reviews pathway on VA.gov, featuring:
 
-* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+* Interactive questionnaire using plain language to guide appellants through decision points, available to unauthenticated users and terminating in personalized pathway recommendations based on information the appellant inputs about their specific situation and goals
+* Clear visual comparisons of the three options showing: 
+    * Evidence requirements
+    * Average processing times
+    * What happens after each decision
+    * Who reviews the claim
+* Contextual help and explanations for complex terms and requirements as well as the legislation that inform the pathways.
+* Progress indicators showing where Veterans are in the decision process
+* Direct link to the appropriate online form once a pathway is selected
 
-#### Initiative Launch Dates
-- *Target Launch Date*
-  - tbd
-- *Actual Launch Date* 
-  - tbd
+### Key Design Principles
 
----
-   
-## Screenshots
+* Mobile-first, accessible design
+* Plain language throughout
+* Visual aids to reduce cognitive load
+* Clear exit points to human assistance (accredited representstive, contact center)
 
-### Before
+## Risks & Mitigation Strategies
 
-### After
+### Technical Risks - premature before design
 
----
+* Integration dependencies: Close coordination with Sitewide team, given the unauthenticated experience
 
-#### Communications
-*Where will you discuss this initiative?*
+### User Experience Risks
 
-<details>
+* Added complexity: Usability testing to ensure tool simplifies rather than complicates
+* Over-confidence in recommendations: Clear messaging about seeking assistance when needed
+* Accessibility barriers: Early and continuous accessibility testing
 
-- Team Name: Benefits Decision Review
-- GitHub Label(s): Decision-Reviews-Team
-- Slack channel: [benefits-decision-review](https://dsva.slack.com/archives/C5AGLBNRK)
-- Product POCs: Amy Lai, Maurice DeBeary
+### Dependencies
 
-</details>
+* Coordination with CAIA team for content updates
+* Stakeholder alignment on success metrics
 
+# Next Steps
 
-#### Stakeholders
-*What offices/departments are critical to make this initiative successful?*
-
-<details>
-  
-- Office/Department: OCTO Cross Benefits Crew
-- Contact(s): Zach Goldfine
- 
-</details>
-
----
-<sup>1</sup> [VA.gov Analytics - KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf)\
-<sup>2</sup> [SVPG: The Four Big Risks](https://svpg.com/four-big-risks/)
+1. Begin design discovery with Veterans who have recently navigated decision reviews
+2.  Develop initial prototypes for usability testing
+3.   ending initial designs, an engineering spike to begin mapping out implementation work and identify any technical constraints early
