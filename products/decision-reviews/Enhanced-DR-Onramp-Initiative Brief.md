@@ -58,7 +58,7 @@ Why?
 The team has established 90-day benchmark metrics:
 
 | Metric | Definition | Measurement | Notes |
-| _ | _ | _ | _ |
+| ---| --- | --- | --- |
 | Pathway Switching Rate (PSR) | Percentage of users who initiate multiple decision review types within defined time windows | GA4 segments tracking users with multiple pathway combinations | Time windows: 7-day, 30-day, 90-day, 180-day analysis. Core metric is 90-day. |
 | Form Abandonment Rate by Pathway (FAR) |Percentage of users who start but don't complete pathway-specific forms | GA4 segment analysis, funnels (pathways) for diagnostics if issues arise. |
 | First-Attempt Success Rate (FASR) | Percentage of users who complete their chosen pathway without switching | End-to-end journey tracking from selection to submission | Key indicator of decision confidence |
