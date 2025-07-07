@@ -707,7 +707,7 @@ Based on the results of the paperless delivery research conducted with Veterans 
 
 - Link to transcripts
 
-- Link to decision log
+- [Link to decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/paperless-delivery/Research/2025-05-Research-Initiative-2/Decision%20Log.md)
 
 
 #### **Tools used for Synthesis**
