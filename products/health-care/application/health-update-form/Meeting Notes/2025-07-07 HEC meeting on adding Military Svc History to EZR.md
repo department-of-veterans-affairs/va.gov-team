@@ -24,3 +24,4 @@
 - **Alex** will meet with the team to map out this work and get situated
      - Initial design: Prefill latest military service, plus TERA yes/no (if feasible). Present a question asking if they have any new military service to add (yes/no). Make sure that prefill is not editable, but provide the HEC number if the Veteran notices anything wrong.
 - **Provide** Angela a document where in one column everything that's prefilled for 1010EZ, and another column everything prefilled for 1010EZR (explain what's prefilled if authenticated vs. not)
+     - Started a worksheet with columns. Will add copy here and send in email with these notes for Angela
