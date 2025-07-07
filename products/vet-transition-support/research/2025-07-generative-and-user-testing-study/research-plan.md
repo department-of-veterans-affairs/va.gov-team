@@ -41,8 +41,8 @@ Existing
 
 ### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
 
-<details><summary>Where does your product fit into the Veteran journey?
-Are there moments that matter?</summary>
+Where does your product fit into the Veteran journey?
+Are there moments that matter?
 	
 - `Getting Out`
 - `Starting Up`
@@ -50,8 +50,6 @@ Are there moments that matter?</summary>
 - `Reinventing Myself`
 - `Putting Down Roots`
 - `Retiring`
-
-</details>
 
 ## Research Goals 🥅	
 
@@ -132,7 +130,7 @@ Perigean will recruit and schedule 12 qualified participants for each group outl
 
 3. Transitioning service members and Recently Separated Veterans (within the last year) who have a disability (self-identified, no VA disability rating necessary)
 * At least 9 with TBI, PTSD, Migraine, Major Depressive Disorder, or other conditions that affect mood and cognition
-* At least 3 assistive technology users
+* At least 3 assistive technology users, preferably new assistive technology users
 
 **Secondary criteria**
 
@@ -165,7 +163,7 @@ Age:
 - MSV to ensure inclusion
   
 #### Secondary criteria (nice-to-haves)
-All the criteria listed above are required
+- Participants who have retired after 20 years of service
 
 ## Timeline 🗓️
 
