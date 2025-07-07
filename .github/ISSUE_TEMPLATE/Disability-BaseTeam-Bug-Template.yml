@@ -19,7 +19,7 @@ body:
       - label: Moderate - User is not blocked, but the happy path is interrupted. Fix after critical bugs.
       - label: Minor - Cosmetic bugs and minor language inconsistencies. Defer to a later sprint.
 - type: textarea
-    attributes: 
+  attributes: 
     label: What is the desired behavior? 
     description: Describe here
     placeholder: When a user does X, the **visual** result is y. When a user does X, the **backend** result is y. When a user does X, the **event logging** result is y.
