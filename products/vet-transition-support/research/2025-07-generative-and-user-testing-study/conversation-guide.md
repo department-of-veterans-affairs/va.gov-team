@@ -31,7 +31,7 @@
 Thanks for joining us today! My name is **Anna Higgins** and **[NOTETAKER NAME]** is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
-Today we're going to talk about your experiences transitioning from active service.
+Today we're going to talk about your experiences transitioning from active service and understanding VA benefits.
 
 Before we start, I have a few things that I want to go over with you:
 
