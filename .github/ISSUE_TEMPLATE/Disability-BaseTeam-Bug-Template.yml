@@ -15,20 +15,20 @@ body:
     label: How severe is the problem? 
     description: Describe the severity
     options:
-    - label: Critical - User is block or significantly hindered from submitting the form, data is lost, or claim and evidence test coverage is missing. Fix ASAP.
-    - label: Moderate - User is not blocked, but the happy path is interrupted. Fix after critical bugs.
-    - label: Minor - Cosmetic bugs and minor language inconsistencies. Defer to a later sprint.
+      - label: Critical - User is block or significantly hindered from submitting the form, data is lost, or claim and evidence test coverage is missing. Fix ASAP.
+      - label: Moderate - User is not blocked, but the happy path is interrupted. Fix after critical bugs.
+      - label: Minor - Cosmetic bugs and minor language inconsistencies. Defer to a later sprint.
 - type: textarea
-  attributes: 
-  label: What is the desired behavior? 
-  description: Describe here
-  placeholder: When a user does X, the **visual** result is y. When a user does X, the **backend** result is y. When a user does X, the **event logging** result is y.
+    attributes: 
+    label: What is the desired behavior? 
+    description: Describe here
+    placeholder: When a user does X, the **visual** result is y. When a user does X, the **backend** result is y. When a user does X, the **event logging** result is y.
 - type: checkboxes
   attributes: 
-  label: Definition of Done
-  description: Describe here
-  options:
-  - label: Acceptance criteria reviewed and approved by product or design
-  - label: Unit test (or other test coverage) added if possible
-  - label: Logging and monitoring in place
+    label: Definition of Done
+    description: Describe here
+    options:
+      - label: Acceptance criteria reviewed and approved by product or design
+      - label: Unit test (or other test coverage) added if possible
+      - label: Logging and monitoring in place
 
