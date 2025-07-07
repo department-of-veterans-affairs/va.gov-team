@@ -701,11 +701,7 @@ Based on the results of the paperless delivery research conducted with Veterans 
 
 #### **Resources**
 
-- Link to conversation guide
-
-- Link to mobile prototype
-
-- Link to desktop prototype
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/paperless-delivery/Research/2025-05-Research-Initiative-2/Conversation%20Guide.md)
 
 - Link to notes
 
@@ -723,9 +719,9 @@ Based on the results of the paperless delivery research conducted with Veterans 
 
 #### **Pages and applications used**
 
-- [Mobile Prototypes](https://www.figma.com/design/DWOjExui9JzyzwhMBWOFkw/Paperless-delivery-opt-in?node-id=639-217763\&t=8ySsMO0E9qvAhZF0-1)
+- [Link to Mobile Prototypes](https://www.figma.com/design/DWOjExui9JzyzwhMBWOFkw/Paperless-delivery-opt-in?node-id=639-217763\&t=8ySsMO0E9qvAhZF0-1)
 
-- [Desktop Prototypes](https://www.figma.com/design/DWOjExui9JzyzwhMBWOFkw/Paperless-delivery-opt-in?node-id=639-269369\&t=t0RormS5C2YrZstJ-1)
+- [Link to Desktop Prototypes](https://www.figma.com/design/DWOjExui9JzyzwhMBWOFkw/Paperless-delivery-opt-in?node-id=639-269369\&t=t0RormS5C2YrZstJ-1)
 
 - Live VA.gov as of June 2025
 
