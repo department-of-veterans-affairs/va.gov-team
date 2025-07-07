@@ -1,5 +1,48 @@
 # Running Design and Research Agenda
 
+## July 7 2025
+Attendees: Renata Keck, Rachel Pope, Amanda Klausmeier, Premal Shah, Mike Mooney, Jamie Fiore 
+
+### Agenda
+- UX Design Roadmap
+- Reviewing the [desk research](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1751370196043/e92b98a93fe58ee6be6bbef08c40586591ce53aa) on to reduce duplicate submissions on 1010d
+- Discuss updates and current state of CHAMPVA claims work
+
+### Notes
+- UX Design Roadmap
+  - Claims Resubmission: Content updates from C/IA are done, duty to assist is removed from the roadmap for now and research plan and convo guide are in process
+  - On going research with 1010D merge
+  - Health Status tool: Amanda is working on that. She put it on the roadmap for transparency. Amanda may need help from the UX designer depending on their capacity
+  - Working on Q2 Medallia Report
+  - Working UX documentation
+
+- Reviewing the [desk research](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1751370196043/e92b98a93fe58ee6be6bbef08c40586591ce53aa) on to reduce duplicate submissions on 1010d
+  - Review the 1010EZ patterns for informing applicants of their form status as a possible solution.
+  - We don’t have a method to get the statuses from IVC yet which would be the better UX option.
+  - The project is aimed at coming up with solutions, not analyzing how big the issue is; Angela Pinion provided us that info already (over 70% duplicates in April/May coming from the VA.gov and 80% of duplicates are coming from VA.gov in June
+  - Angela (from the OCTO Innovation team) is working on a solution to decrease the backlog with automations and AI. This ties in to this work. Another solution is the health status tool.
+  - Amanda: While the innovation team is trying to reduce the backlog we can do a small low effort content update to reduce the claims. The backlog should reduce naturally after that.
+  - Brian Gunther informed us that #1 reason for calls are status updates because applicant are not hearing about statuses quick enough
+
+- *Action Items:*
+  - Work on a low-effort solution for reducing duplicate submissions similar to how this was handled with screener questions the claims forms
+  - Medallia report notes that users are confused about the CHAMPVA enrollment screener question when they receive an email about completing your application. We may want to look further into that data
+  - Would like to consider a solution for uploading missing documents for enrollment as well
+  - Premal and Amanda can get updated Backlog numbers for 1010D and claims
+  - Amanda and Jamie to sync up on health status work that may overlap
+  - Review Research Report from form statuses form 1010EZ: Link to their research folder
+  - Renata to send the Mural for the 1010EZ form statuses
+
+- Discuss updates and current state of CHAMPVA claims work
+  - Research plan and convo guide will be sent over via slack. This encompasses work LLM as well as resubmissions.Feedback for this will be managed async with the product and UX team
+  - Getting access to AMS Test Track (OCR) is moving forward
+  - We are testing with LLM but we can adjust to OCR for production if Test Track is the better option
+  - UX is going to test messaging about AI tools. The research plan will look into discovering if there are trust issues with AI tools.
+- *Action Items:*
+  - Rachel to ssend the Research plan and convo guide to the group on Slack
+  - Amanda to provide feedback on the research plan and convo guide
+
+
 ## June 23 2025
 Attendees: Renata Keck, Rachel Pope, Amanda Klausmeier, Premal Shah, Mike Mooney
 
