@@ -13,7 +13,7 @@ Veterans currently rely on a physical VHIC card for various services and benefit
 - As a VA staff member assisting with health care check-ins or transportation, I need an easy way to verify Veteran eligibility so that the check-in process is efficient.  
 
 ## Background
-- Vwterns Health Identification Cards are available to Veterans enrolled in VA health care. Veterans can apply for a VHIC in person at a VA medical center or online at AccessVA.
+- Veterans Health Identification Cards are available to Veterans enrolled in VA health care. Veterans can apply for a VHIC in person at a VA medical center or online at AccessVA.
 - Regardless of renewal method, cards are printed and mailed from a central off-site location regardless of renewal method.Veterans can expect to receive their card in the mail witin 7-14 days (~30 business days for Veterans living outside the US)
 - The VHIC also displays the latest branch of service emblem and any special awards received.
 
