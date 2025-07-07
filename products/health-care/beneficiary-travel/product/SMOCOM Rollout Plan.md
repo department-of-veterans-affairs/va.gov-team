@@ -93,6 +93,8 @@ We recommend that the rollout plan has five stages, each increasing the number o
 | Error Count | Key error types, percentages, and associated error messages |
 | Claims appearing for Stations | Claims submitted on VA.gov = Claims processed by TCP |
 | Claims in manual review | % and # of claims in manual review |
+
+[SMOC on Mobile metrics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/Omnichannel%20Collaboration/VAHB/analytics/mileage-only-claims-quantitative.md)
    
 
 #### Results
@@ -129,6 +131,8 @@ We recommend that the rollout plan has five stages, each increasing the number o
 | All bugs are ticketed and given a severity rating | Total # of bugs by severity |
 | Critical bugs are all addressed | % of critical bugs addressed |
 
+[SMOC on Mobile metrics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/Omnichannel%20Collaboration/VAHB/analytics/mileage-only-claims-quantitative.md)
+
 #### Results
 
 - Number of unique users: [FILL_IN]
@@ -148,6 +152,8 @@ We recommend that the rollout plan has five stages, each increasing the number o
 | Time to adjust manual claims |  |
 | All bugs are ticketed and given a severity rating |  |
 | Critical bugs are all addressed |  |
+
+[SMOC on Mobile metrics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/Omnichannel%20Collaboration/VAHB/analytics/mileage-only-claims-quantitative.md)
 
 ### Stage C: 50% of users
 
@@ -169,6 +175,8 @@ We recommend that the rollout plan has five stages, each increasing the number o
 | Time to adjust manual claims | Change in time required to adjust manual claims |
 | All bugs are ticketed and given a severity rating | Total # of bugs by severity |
 | Critical bugs are all addressed | % of critical bugs addressed |
+
+[SMOC on Mobile metrics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/Omnichannel%20Collaboration/VAHB/analytics/mileage-only-claims-quantitative.md)
 
 #### Results
 
@@ -208,6 +216,8 @@ We recommend that the rollout plan has five stages, each increasing the number o
 | Time to adjust manual claims | Change in time required to adjust manual claims |
 | All bugs are ticketed and given a severity rating | Total # of bugs by severity |
 | Critical bugs are all addressed | % of critical bugs addressed |
+
+[SMOC on Mobile metrics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/Omnichannel%20Collaboration/VAHB/analytics/mileage-only-claims-quantitative.md)
 
 #### Results
 
