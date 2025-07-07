@@ -42,7 +42,7 @@ I have a colleague with us in this session who will be taking notes.
 
 *(if applicable)* [accessibility specialist] is also in this meeting to help with any technical issues that may arise with your use of assistive technology during this session. 
 
-I also have [number] teammates who would like to observe this session. Would it be OK with you if I invited them to join us?
+I also have [specific number] teammates who would like to observe this session. Is it okay with you to have them join us to observe this session?
 * <mark>[If no,]</mark> Use Slack to kindly ask the observers to leave the Zoom.
 * <mark>[If yes,]</mark> Admit observers.
     * Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. 
@@ -52,23 +52,22 @@ Today, we're going to talk about VA Benefit Letters and Documents. These types o
 
 Before we start, I want to go over a few things:
 
-- **This entire session may take 60 (or 90) minutes.** I want to be sure not to keep you longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session may take 60 (or 90) minutes.** I want to be sure to end on time, so I may occasionally prompt you with the next question or topic.
   
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. We're testing a website to learn how we can make it easier to use. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
-- **Your participation in this interview is completely voluntary.** Whether or not you choose to participate will not affect your benefits with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Just let me know.
+- **Your participation in this interview is completely voluntary.** You don't have to participate if you don't want to, and your choice to participate will not affect your benefits in any way. If you decide you need to stop at any time, you’ll still be compensated for your time.
+- **I want you to know that although I work on the VA.gov website, I have no access to your records or benefits, nor do I have the ability to change your claims or benefits in any way. I am not a specialist in benefits.** My primary focus is to understand your experience with the website.
 
-- Finally, I would like to record my screen and audio to confirm that I’ve captured your opinions accurately and sometimes share video clips with our colleagues at the VA to show user feedback. If we do this, we don’t link anything you choose to share in the session to any information that identifies you, and we remove your face and name from any videos that we share.
-**Knowing this, are you comfortable if I record my screen and audio as we talk today?**
-  - *(If yes:)* Once I start recording, I am going to confirm once more that you are ok with me recording this session.
+
+- Finally, I’d like to ask your permission to record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are deleted, and none of your comments will be attributed to you directly. We either report findings in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7. Knowing this, is it okay with you if I record my screen and audio as we talk today?
+
+- If yes, once I start recording, I will confirm that you are okay with me recording this session once more.
 
 ➡️ Select **Record**, then **Record to the cloud**.
 
-*(If participant asks you to NOT record)* Are you comfortable if I save the transcript of the session? *(If not, take good notes!)*
+*(If participant asks you to NOT record)* Are you ok if I save the transcript of the session? *(If not, take good notes!)*
 
-- I have started recording. I'd like to confirm: 
-  - **Are you comfortable if I record my screen and the audio as we talk today?** Yes / No
- 
-  - **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners as long as we remove any information that can be used to identify you?** Yes / No
+- I have started recording. I'd like to confirm: Are you okay with me recording my screen and the audio as we talk today?
 
 In the bottom toolbar of the Zoom window, click the arrow next to **SHOW CAPTIONS** > **View Full Transcript** > Save (NEED TO DO THIS TO GET TRANSCRIPT)
 
