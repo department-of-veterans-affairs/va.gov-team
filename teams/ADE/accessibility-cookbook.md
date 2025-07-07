@@ -201,7 +201,7 @@ Written by @coforma-jamie
 Published to the VA Design System - [Form - Overview](https://design.va.gov/components/form/#fieldsets-legends-and-labels) page
 
 ### Last updated
-07/07/25
+7/7/25
 
 Written by: @Jeana-adhoc 
 
@@ -213,6 +213,6 @@ With thanks to: @davidakennedy, @briandeconinck, @coforma-jamie
 
 Published to the VA Design System - [When a screen reader needs to announce content](https://design.va.gov/about/accessibility/when-a-screen-reader-needs-to-announce-content)
 
-## Last updated
+### Last updated
 
-07/07/25
+7/7/25
