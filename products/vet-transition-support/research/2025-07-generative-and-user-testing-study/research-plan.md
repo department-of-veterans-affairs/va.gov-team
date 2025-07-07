@@ -107,9 +107,7 @@ Our hypothesis is that many TSMs have effective existing networks of support and
 
 ### Recruitment approach
 
-We are focused on TSMs and recently separated Veterans. We will use lean maximum variation strategy with the exception of age; the overwhelming majority of TSMs are under the age of 46. 
-
-We are recruiting Transitioning Service Members (TSMs) and Recently Separated Veterans (RSV) with different lengths of service, branches served, and discharge characters.
+We are focused on TSMs and recently separated Veterans. We will use lean maximum variation strategy with the exception of age; the overwhelming majority of TSMs and RSVs are under the age of 46. We need to include different characteristics of discharge, disability status (self-identified, not VA rating) branch of service, participation in TAP, and service in Guard or Reserve.
 
 ### Recruitment criteria
 
@@ -121,15 +119,24 @@ Perigean will recruit and schedule 12 qualified participants for each group outl
 
 *Please consider each of the following three groups as a separate recruitment effort*
 
-1. Transitioning service members and Recently Separated Veterans (within the last year) who are or did participate in TAP
-* At least 6 participants who anticipate receiving an honorable discharge
-* At least 6 participants who are not receiving an honorable discharge
-* At least 3 people who are retiring
-  
-2. Transitioning service members and Recently Separated Veterans (within the last year) who are not or did not participate in TAP
-* At least 6 participants who anticipate receiving an honorable discharge
-* At least 6 participants who are not receiving an honorable discharge
-* At least 3 people who are retiring
+1. Transitioning service members and Recently Separated Veterans (within the last year) who were not in the National Guard or Reserve
+* At least 9 participants who anticipate receiving an honorable discharge
+* At least 2 participants who are not receiving an honorable discharge (general, other than honorable, dishonorable, etc are all included)
+* At least 1 person who is retiring after 20 years of service
+* At least 4 people who served more than 4 years
+* At least 3 people who did not participate in TAP
+* At least 1 person from each branch: Army, Navy, Marines, Air Force, Coast Guard. Space Force is optional but nice to have.
+
+2. Transitioning service members who were in the National Guard or Reserve
+* At least 9 participants who anticipate receiving an honorable discharge
+* At least 2 participants who are not receiving an honorable discharge (general, other than honorable, dishonorable, etc are all included)
+* At least 1 person who is retiring after 20 years of service
+* At least 4 people who served more than 4 years
+* At least 1 person from each branch: Army, Navy, Marines, Air Force, Coast Guard. Space Force is optional but nice to have.
+
+3. Transitioning service members and Recently Separated Veterans (within the last year) who have a disability (self-identified, no VA disability rating necessary)
+* At least 9 with TBI, PTSD, Migraine, Major Depressive Disorder, or other conditions that affect mood and cognition
+* At least 3 assistive technology users
 
 **Secondary criteria**
 
@@ -152,11 +159,8 @@ Age:
 > Your total number should equal **1.5x** your ideal completed sessions number *(e.g. for 10 ideal completed sessions, request 15 total participants)*
 
 
-- `Veterans:` **[n]**
-- `Caregivers:` **[n]**
-- `Dependents:` **[n]**
-- `Total:` **[n]**
-- `Ideal completed sessions:` **[n]**
+- `Veterans:` **[36]**
+- `Ideal completed sessions:` **[36]**
 
 ### Primary criteria (must-haves)
 *What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
