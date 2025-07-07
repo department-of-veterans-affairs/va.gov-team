@@ -103,7 +103,7 @@ Our hypothesis is that many TSMs have effective existing networks of support and
 
 ### Recruitment approach
 
-We are focused on TSMs and recently separated Veterans. We will use lean maximum variation strategy to ensure participants are representative of Veteran demographics, with the exception of age; the overwhelming majority of TSMs and RSVs are under the age of 46. We need to include different characteristics of discharge, disability status (self-identified, not VA rating) branch of service, participation in TAP, and service in Guard or Reserve.
+We are focused on TSMs and recently separated Veterans, especially those who are not currently interacting with VA. We will use lean maximum variation strategy to ensure participants are representative of Veteran demographics, with the exception of age; the overwhelming majority of TSMs and RSVs are under the age of 46. We need to include different characteristics of discharge, disability status (self-identified, not VA rating) branch of service, participation in TAP, and service in Guard or Reserve.
 
 ### Recruitment criteria
 
