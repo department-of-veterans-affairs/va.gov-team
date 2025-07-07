@@ -137,10 +137,10 @@ You’re on the public-facing ‘Download VA benefit letters’ page, and you ne
 
 ### Follow-up questions (If needed)
 
-* "What would you do next?"
-* "Tell me more about [specific behavior you observed]"
+* “Is this where you expected to find your benefit letters? If not, where would you expect them to be?”
+* "Are all the letters you’d expect to see here? If you didn’t find the letter you needed, what would you do next?"
+  "Tell me more about [specific behavior you observed]"
 * "What would you expect to find in [specific section]?"
-* "Are all the letters you’d expect to see here? If not, what would you do?"
 
 ## Task 3: Updating the mailing address - X minutes
 **Goal:** Test the address update flow and messaging comprehension.
@@ -165,7 +165,10 @@ Imagine that your community's zip code boundary recently changed, and you want t
 ### Follow-up questions (If needed)
 * "What did you think about that process?"
 * "Was anything unclear about how this affects your VA.gov profile?"
-* "Imagine you didn’t have a mailing address—what would you expect to happen? What would you do?"
+* "Imagine you didn’t have a mailing address."
+  * "What would you expect to happen?"
+  * "What would you do?"
+  * "How do you think that would impact your ability to get your letters?"
 
 ## Task 4: Creating a custom Benefit Summary and Service Verification Letter
 **Goal:** Test the customization flow and task completion
