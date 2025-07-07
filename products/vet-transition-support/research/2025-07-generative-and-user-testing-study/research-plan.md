@@ -186,20 +186,12 @@ It is currently ready
 ### Length of sessions
 - `Session length: 1 hour`
   
-- `Buffer time between sessions: 30 minutes
+- `Buffer time between sessions: 30 minutes`
   
-- `Maximum Sessions per day: 4
-- 
+- `Maximum Sessions per day: 4`
+ 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
-
-> [!NOTE]
-> We recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S. 
-
-> [!TIP]
-> Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. **(e.g. 3/17, Monday 9:00AM-1:00PM, 3:00PM-6:00PM EST; 3/18, Tuesday 9:00AM-6:00PM EST, etc.;** ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
->
-> **Place time slots between `hash marks` when in edit mode.**
 
 - `[07/19, Friday, 12:00 PM-7:00 PM] EST`
 - `[07/21, Monday, 12:00 PM-5:00 PM] EST`
