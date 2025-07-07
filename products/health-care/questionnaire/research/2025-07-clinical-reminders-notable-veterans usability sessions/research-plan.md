@@ -90,17 +90,14 @@ Perigean will recruit all participants.
 - Ideal completed sessions: 9  
 
 ### Primary criteria (must-haves)
-- Cohort 1:  
-  - 5-7 Veterans who are enrolled in VA healthcare  
-- Cohort 2:  
-  - 4-5 Veterans who are not enrolled in VA healthcare  
-- All cohorts will have any combination of the following:  
+- Must be enrolled in VA healthcare  
+- Must have either a desktop/laptop, mobile device, or a tablet and must be willing to share their screen while they use the prototype.  
+- And any combination of the following:  
   - At least 1 Veteran with cognitive disabilities
   - At least 2 Veterans with mobile phones
   - At least 2 Veterans with a tablet
   - At least 2 Veterans with desktop/laptop
-  - All Veterans must have either a desktop/laptop, mobile device, or a tablet and must be willing to share their screen while they use the prototype.  
-
+  
 ## Timeline
 The prototype link is ready on July 7, 2025 for research review.  
 
