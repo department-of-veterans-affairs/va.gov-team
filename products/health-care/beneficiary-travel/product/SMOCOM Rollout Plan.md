@@ -95,6 +95,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 | Claims in manual review | % and # of claims in manual review |
 
 [SMOC on Mobile metrics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/Omnichannel%20Collaboration/VAHB/analytics/mileage-only-claims-quantitative.md)
+[SMOC on Mobile conversion funnel](https://analytics.google.com/analytics/web/#/analysis/p265787033/edit/v65E2cAbSj2zCIMBQby8JQ)
    
 
 #### Results
@@ -132,6 +133,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 | Critical bugs are all addressed | % of critical bugs addressed |
 
 [SMOC on Mobile metrics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/Omnichannel%20Collaboration/VAHB/analytics/mileage-only-claims-quantitative.md)
+[SMOC on Mobile conversion funnel](https://analytics.google.com/analytics/web/#/analysis/p265787033/edit/v65E2cAbSj2zCIMBQby8JQ)
 
 #### Results
 
@@ -154,6 +156,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 | Critical bugs are all addressed |  |
 
 [SMOC on Mobile metrics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/Omnichannel%20Collaboration/VAHB/analytics/mileage-only-claims-quantitative.md)
+[SMOC on Mobile conversion funnel](https://analytics.google.com/analytics/web/#/analysis/p265787033/edit/v65E2cAbSj2zCIMBQby8JQ)
 
 ### Stage C: 50% of users
 
@@ -177,6 +180,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 | Critical bugs are all addressed | % of critical bugs addressed |
 
 [SMOC on Mobile metrics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/Omnichannel%20Collaboration/VAHB/analytics/mileage-only-claims-quantitative.md)
+[SMOC on Mobile conversion funnel](https://analytics.google.com/analytics/web/#/analysis/p265787033/edit/v65E2cAbSj2zCIMBQby8JQ)
 
 #### Results
 
@@ -218,6 +222,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 | Critical bugs are all addressed | % of critical bugs addressed |
 
 [SMOC on Mobile metrics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/Omnichannel%20Collaboration/VAHB/analytics/mileage-only-claims-quantitative.md)
+[SMOC on Mobile conversion funnel](https://analytics.google.com/analytics/web/#/analysis/p265787033/edit/v65E2cAbSj2zCIMBQby8JQ)
 
 #### Results
 
