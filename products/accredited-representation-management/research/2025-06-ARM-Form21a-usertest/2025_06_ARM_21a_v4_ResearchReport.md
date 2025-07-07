@@ -14,20 +14,6 @@
 
 -              **Allison Nuttall, Program Manager**
 
-[**Link to Research Readout**](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/research/2025-06-Email%20Survey-Cross-Accredited-Reps)****
-
-**Jump to:**
-
-- [Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#hypotheses-and-conclusions)
-- [Key findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#key-findings)
-- [Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#recommendations)
-- [Product User and Business Outcomes](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#product-user-and-business-outcomes)
-- [Key Performance Indicators](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#key-performance-indicators)
-- [Next Steps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#next-steps)
-- [Further research needed](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#further-research-needed)
-- [Who we talked to](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/sharing-research/research-findings-template.md#who-we-talked-to)
-
-** **
 
 **Research Goals**
 
