@@ -8,9 +8,7 @@
 
 `List and complete any project-specific setup tasks for this study below:`
 
-- [ ] Step 1
-- [ ] Step 2
-- [ ] Step 3
+- [ ] Final check of staging with Jessica Woodin
 
 ### Day of the session
 
@@ -29,11 +27,10 @@
 
 # Intro - 5 minutes
 
-Thanks for joining us today! My name is **[NAME]** and **[NOTETAKER NAME]** is taking notes.
+Thanks for joining us today! My name is **Anna Higgins** and **[NOTETAKER NAME]** is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
-Today we're going to talk about making updates to health care information.
-
+Today we're going to talk about your experiences transitioning from active service.
 
 Before we start, I have a few things that I want to go over with you:
 
@@ -78,14 +75,11 @@ Before we start, I have a few things that I want to go over with you:
 
  <mark>**[Record answer here]**</mark>
 
-# Warm-up Questions (Optional) - 5 minutes
+# Semi-structured interview questions - 20 minutes
 
-Before we look at the website, let’s start with a few warm-up questions.
+Let's start with some questions about your experiences separating from the military. 
 
-1. Do you have a service-connected disability at VA?
-- If yes: what is your disability rating?
-- If no, skip to question 2.
-2. 
+
 
 ## First Task: [TASK NAME] - X minutes
 
