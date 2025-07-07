@@ -129,6 +129,19 @@ We can help guide you through this if you need help. Please say what you're doin
 
 **(If video window is covering up phone screen)** "It looks like my zoom video is covering up a lot of your screen. Could you please swipe it off?" (Screen reader: swipe right until the video window has focus, and then double tap when you hear "Stash preview".)
 
+## Task 00: Open prototype
+
+"Now I'd like you to open a website that I'm going to share with you."
+
+"I will *[email/text/dictate/put into the Zoom chat]* the URL: **https://staging.va.gov/** and a username and password."
+- *(If asked, reassure that this is a legitimate link to what I want you to test)*
+
+"Did you get the link?"
+
+<mark>[Need instructions for staging].</mark>
+
+**You'll be interacting with our staging site today.** Since it's a prototype, note that none of your actions will affect your own VA information or benefits.
+
 
 ## Task 1: Navigating to the benefit letters page - X minutes
 **Goal:**  Observe where and how Veterans expect to find benefit letters from the homepage.
