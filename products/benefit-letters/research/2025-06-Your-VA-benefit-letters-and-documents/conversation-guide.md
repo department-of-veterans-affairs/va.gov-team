@@ -16,37 +16,45 @@
 - Check Settings > Meeting > In Meeting (Basic) > Screen sharing > Who can share > All Participants
 - Check Settings > Meeting > In Meeting (Basic) > Hide participant profile pictures in a meeting ON
 - Mute Slack and all other notifications
-- Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
-- Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.
 
-
-### Starting the session
-
-- In the Attendees section, ensure everyone except the participant is on mute.
-- In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked.
-- Check your [screensharing setup] and share permissions for participants.
-- When the participant is ready, begin the session with the following intro.
-- If the participant is using a screen reader, wear headphones to prevent the user's screen reader from echoing back to them *(recommendation from Cindy).*
+**10-15 min before each session**:
+- Sign onto Zoom website as Perigean and start Zoom meeting
+- Slack Perigean notetaker a link to the notes doc in GitHub
+- Post p# and "[observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html)" in [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)
+  - @mention observers
+  - Share brief summary of participant demographic info
+  - Mural link for notetaking
+- Wear HEADPHONES to prevent the user's screen reader from echoing back to them (recommendation from Cindy)
+- Paste the staging link into Zoom chat
+- Do Not Disturb ON, so no notifications
+- Make sure everyone is muted except me and the participant
 - When users share their screen, the “Share sound” box must be checked if we want the recording to pick up screen reader announcements. This box is on the right pane when the screen share is started. [Need to confirm if the moderator can check this box for their participants or if the participant has to do it themselves.]
 
+When the participant is ready, turn on your camera and begin session with the intro
+
+CHECK SLACK for real-time feedback or questions from observers
 
 # Intro - 5 minutes
 
-Thanks for joining us today! My name is Shawn, and <mark>[NAME]</mark> will be taking notes. I also have a couple of other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them...
+Thanks for joining us today! My name is **Shawn**. How are you doing today?
 
-Today, we're going to talk about VA Benefit Letters and Documents. These types of letters include the Benefit Summary and Service Verification Letter, Proof of Service Card, Commissary Letter, and others.
+I have a colleague with us in this session who will be taking notes.
 
-Before we start, I have a few logistics to cover:
+*(if applicable)* [accessibility specialist] is also in this meeting to help with any technical issues that may arise with your use of assistive technology during this session. 
 
-* I have [number] colleagues who are interested in observing this session to better understand the Veteran experience. Would you be okay with them observing?
+I also have [number] teammates who would like to observe this session. Would it be OK with you if I invited them to join us?
     * <mark>[If no,]</mark> Use Slack to kindly ask the observers to leave the Zoom.
     * <mark>[If yes,]</mark> Admit observers.
     * Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. 
     * Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
 
-* This will take around 60 minutes (or 90 minutes for AT). I want to keep us on time, so I may occasionally prompt you to move on to the next topic.  
-* We want to hear your honest opinions. There are no right or wrong answers; we’re not testing your knowledge or abilities. I welcome all your feedback, and I won't take anything personally.
-* Your participation in this interview is completely voluntary. You don’t have to participate if you don't want to, and your choice to participate will not affect your benefits in any way. If you decide you need to stop at any time, you’ll still be compensated for your time.  
+Today, we're going to talk about VA Benefit Letters and Documents. These types of letters include the Benefit Summary and Service Verification Letter, Proof of Service Card, Commissary Letter, and others.
+
+Before we start, I have a few logistics to cover:
+
+* **This entire session may take 60 minutes (or 90 minutes for AT).** I want to keep us on time, so I may occasionally prompt you to move on to the next topic.  
+* **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we’re not testing your knowledge or abilities. I welcome all your feedback, and I won't take anything personally.
+* **Your participation in this interview is completely voluntary.** You don’t have to participate if you don't want to, and your choice to participate will not affect your benefits in any way. If you decide you need to stop at any time, you’ll still be compensated for your time.  
 * I want to assure you that, although I work on the VA.gov website, I do not have access to your records or benefits, nor do I have the authority to change your claims or benefits in any way. I am not a specialist in benefits. My primary focus is to understand your experience with the website  
   
 * Today, you'll interact with a live demo on our staging server. Since it's a demo, none of your actions will affect your VA information or benefits.  
