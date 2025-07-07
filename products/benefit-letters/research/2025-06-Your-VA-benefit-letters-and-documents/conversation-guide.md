@@ -136,7 +136,7 @@ We can help guide you through this if you need help. Please say what you're doin
 "I will *[email/text/dictate/put into the Zoom chat]* the URL: **https://staging.va.gov/**"
 - *(If asked, reassure that this is a legitimate link to what I want you to test)*
 
-**"This is a test version of VA.gov. **It is similar to the real website, but with some special features enabled for our session. ** It's all test data, so nothing we do here will impact your own VA information or benefits."
+**"This is a test version of VA.gov.** It is similar to the real website, but with some special features enabled for our session. ** It's all test data, so nothing we do here will impact your own VA information or benefits."
 
 
 ## Task 1: Navigating to the benefit letters page - X minutes
