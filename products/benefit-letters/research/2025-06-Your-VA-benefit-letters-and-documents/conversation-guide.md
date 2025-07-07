@@ -139,7 +139,7 @@ We can help guide you through this if you need help. Please say what you're doin
 
 ### Steps
 
-1. "Take a look at this homepage first. Where do you think your benefit letters are located?"  
+1. "Take a look at this homepage first, before you interact with it. Where do you think your benefit letters are located?"  
 2. "Now, go ahead and navigate to where you think they are." <mark>[Let them explore naturally without guidance]</mark>
 
 ### Things to watch out for
