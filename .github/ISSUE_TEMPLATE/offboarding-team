@@ -1,0 +1,19 @@
+name: "Team offboarding"
+description: "This ticket is for team offboarding. Use the individual offboarding ticket to offboard specific team members."
+title: "Team offboarding for [Team]"
+labels:
+  - "offboarding"
+  - "team-offboarding"
+assignees: 
+body:
+  - type: markdown
+    attributes:
+      value: "# Team offboarding" 
+  - type: markdown
+    attributes:
+      value: "## Instructions"
+  - type: markdown
+    attributes:
+      value: |
+        Product managers should complete this ticket when a VFS or platform team is offboarding and handing off ownership of its products. 
+ 
