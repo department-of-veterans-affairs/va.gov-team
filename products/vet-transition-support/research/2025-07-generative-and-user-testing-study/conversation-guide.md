@@ -9,6 +9,7 @@
 `List and complete any project-specific setup tasks for this study below:`
 
 - [ ] Final check of staging environment with Jessica Woodin
+- [ ] Consult with accessibility specialist
 
 ### Day of the session
 
@@ -86,12 +87,13 @@ Before we start, I have a few things that I want to go over with you:
    For Veterans: When did you separate from the military?
 2. For TSMs: How is the process going for you?
    For RSVs: How did the process go for you? 
-3. Key question: What are you doing right now/what did you do to keep track of your progress, tasks, and deadlines for separation? (Ask follow up questions about tools, actions and people involved in these processes, who recommended them and how they found them.)
-4. Key question: Is anyone/did anyone outside of TAP helping you keep track of what you need to do for your transition? (Follow up questions about who, and how they are helping; for RSVs, what could have made the process go better)
-5. For TSMs: What are you most concerned might slip through the cracks during your transition? What keeps you up at night?
+3. What are you doing right now/what did you do to keep track of your progress, tasks, and deadlines for separation? (Ask follow up questions about tools, actions and people involved in these processes, who recommended them and how they found them.)
+4. Is anyone/did anyone outside of TAP helping you keep track of what you need to do for your transition? (Follow up questions about who, and how they are helping; for RSVs, what could have made the process go better)
+5. Is there any support you currently need and aren't getting with the transition process? 
+7. For TSMs: What are you most concerned might slip through the cracks during your transition? What keeps you up at night?
    For RSVs: What were you most concerned might slip through the cracks during your transition? What kept you up at night?
-6. What do you wish you had known during the process? (follow up if they don't mention benefits: What do you wish you had known about VA benefits?)
-7. What do you most want VA to understand about your experience?
+8. What do you wish you had known during the process? (follow up if they don't mention benefits: What do you wish you had known about VA benefits?)
+9. What do you most want VA to understand about your experience?
 
 ## First Task: [Use Discover Your Benefits Tool - self led] - 15 minutes
 
