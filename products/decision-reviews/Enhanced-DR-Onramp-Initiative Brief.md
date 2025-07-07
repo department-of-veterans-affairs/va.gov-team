@@ -4,7 +4,7 @@
 
 ## Outcome Summary
 
-Veterans can independently and confidently identify the most appropriate decision review pathway or next step for their claim when they disagree with VA’s decision. The initiative aims to reduce burdens on Veterans and their representatives, as well as on call centers: reduced confusion-driven pathway switching, reduced form abandonment, and improved first-attempt success rates.
+Veterans can independently and confidently identify the most appropriate decision review pathway or next step for their claim when they disagree with VA’s decision.** The initiative aims to reduce burdens on Veterans and their representatives, as well as on call centers**: reduced confusion-driven pathway switching, reduced form abandonment, and improved first-attempt success rates.
 
 ## Problem
 
@@ -20,10 +20,6 @@ Today, Veterans (as well as other claimants and appellants) sometimes struggle t
 ## Target Audience
 
 The onramp initiative will focus on Veterans (or their accredited representatives) who seek to file a decision review option for disability compensation on VA.gov.
-Why?
-
-* Limiting scope to appeals for disability compensation because it is what the team currently has the most subject matter expertise
-* These VA.gov static gateway pages enable users to navigate to the decision review options and submit an online Supplemental Claim (SC), Higher Level Review (HLR), or Notice of Disagreement (NOD)
 
 ## Desired User Outcomes
 
@@ -103,44 +99,40 @@ Near-term indicators of success might include:
 
 ## What We're Building
 
-A centralized tool to support the selection of an appropriate Decision Reviews pathway on VA.gov, featuring:
+**A centralized tool to support the selection of an appropriate Decision Reviews pathway on VA.gov**, featuring:
 
-* Interactive questionnaire using plain language to guide appellants through decision points, available to unauthenticated users and terminating in personalized pathway recommendations based on information the appellant inputs about their specific situation and goals
-* Clear visual comparisons of the three options showing: 
+* **Interactive questionnaire** using plain language to guide appellants through decision points, available to unauthenticated users and terminating in personalized pathway recommendations based on information the appellant inputs about their specific situation and goals
+* **Contextual help** and explanations for complex terms and requirements as well as the legislation that inform the pathways.
+* **Direct link** to the appropriate online form once a pathway is selected
+
+_**Open questions:**_
+Should the user experience incorporate either of the following visual/affordance aids to reduce cognitive load?
+* **Progress indicators** showing where Veterans are in the decision process
+* **Clear visual comparisons** of the three options showing: 
     * Evidence requirements
     * Average processing times
     * What happens after each decision
     * Who reviews the claim
-* Contextual help and explanations for complex terms and requirements as well as the legislation that inform the pathways.
-* Progress indicators showing where Veterans are in the decision process
-* Direct link to the appropriate online form once a pathway is selected
 
 ### Key Design Principles
 
 * Mobile-first, accessible design
 * Plain language throughout
-* Visual aids to reduce cognitive load
-* Clear exit points to human assistance (accredited representstive, contact center)
+* Clear exit points to human assistance (accredited representative, contact center)
 
 ## Risks & Mitigation Strategies
 
-### Technical Risks - premature before design
+### Technical Risks (premature before design)
 
-* Integration dependencies: Close coordination with Sitewide team, given the unauthenticated experience
+* **Integration dependencies:** Close coordination with Sitewide team, given the unauthenticated experience
 
 ### User Experience Risks
 
-* Added complexity: Usability testing to ensure tool simplifies rather than complicates
-* Over-confidence in recommendations: Clear messaging about seeking assistance when needed
-* Accessibility barriers: Early and continuous accessibility testing
+* **Added complexity:** Usability testing to ensure tool simplifies rather than complicates
+* **Over-confidence in recommendations:** Clear messaging about seeking assistance when needed
+* **Accessibility barriers:** Early and continuous accessibility testing
 
 ### Dependencies
 
 * Coordination with CAIA team for content updates
 * Stakeholder alignment on success metrics
-
-# Next Steps
-
-1. Begin design discovery with Veterans who have recently navigated decision reviews
-2.  Develop initial prototypes for usability testing
-3.   ending initial designs, an engineering spike to begin mapping out implementation work and identify any technical constraints early
