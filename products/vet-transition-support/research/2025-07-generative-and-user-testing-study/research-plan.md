@@ -71,14 +71,15 @@ We will use the usability testing portion of the study to improve experience of 
 > [!NOTE]
 > Do not write out all questions you plan to ask participants -- that should go in the` [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)
 
-1. * What are TSMs currently doing to track progress, tasks, and deadlines for separation?  
+1. What are TSMs currently doing to track progress, tasks, and deadlines for separation?  
   * Tools  
   * Actions  
 2. What current sources of support are TSMs using?
   * People
   * Organizations
   * Other forms of support that we have not anticipated
-3. * Building on existing research about experiences in the 'getting out' part of the Veteran journey, what pain points are TSMs experiencing? 
+3. Building on existing research about experiences in the 'getting out' part of the Veteran journey, what pain points are TSMs experiencing?
+4. How are discharge character, length of service, military branch, and disability impacting this process?
 
 ### Hypotheses
 
