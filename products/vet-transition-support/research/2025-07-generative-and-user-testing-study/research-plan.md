@@ -68,8 +68,6 @@ We will use the usability testing portion of the study to improve experience of 
 ---
 
 ### Research questions
-> [!NOTE]
-> Do not write out all questions you plan to ask participants -- that should go in the` [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)
 
 1. What are TSMs currently doing to track progress, tasks, and deadlines for separation?  
   * Tools  
@@ -88,7 +86,6 @@ Our hypothesis is that many TSMs have effective existing networks of support and
 ---
   
 ## Methodology  🛠️
-***Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design.*** 
 
 - `Semi-structured interviews to address the goals of the generative portion of this study`
 - `Usability testing to address the goals of the evaluative portion of this study`
@@ -108,11 +105,9 @@ Our hypothesis is that many TSMs have effective existing networks of support and
 
 ### Recruitment approach
 
-We are focused on TSMs and recently separated Veterans. We will use lean maximum variation strategy with the exception of age; the overwhelming majority of TSMs and RSVs are under the age of 46. We need to include different characteristics of discharge, disability status (self-identified, not VA rating) branch of service, participation in TAP, and service in Guard or Reserve.
+We are focused on TSMs and recently separated Veterans. We will use lean maximum variation strategy to ensure participants are representative of Veteran demographics, with the exception of age; the overwhelming majority of TSMs and RSVs are under the age of 46. We need to include different characteristics of discharge, disability status (self-identified, not VA rating) branch of service, participation in TAP, and service in Guard or Reserve.
 
 ### Recruitment criteria
-
-- **Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants.**
 
 Perigean will recruit and schedule 12 qualified participants for each group outlined below.
 
@@ -155,11 +150,6 @@ Geographic distribution:
 Age:
 - At least 4 people under the age of 30
 
-### List the ideal completed sessions and total number and type (Veterans, caregivers, etc.) of participants for this study:
-> [!NOTE]
-> Your total number should equal **1.5x** your ideal completed sessions number *(e.g. for 10 ideal completed sessions, request 15 total participants)*
-
-
 - `Veterans:` **[36]**
 - `Ideal completed sessions:` **[36]**
 
@@ -177,31 +167,24 @@ Age:
 #### Secondary criteria (nice-to-haves)
 All the criteria listed above are required
 
-- **`Add more criteria as needed`**
-
 ## Timeline 🗓️
-> [!NOTE]
-> **Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.** 
 
 ### Optional Kick-off Call with Perigean
 
-- `Suggested dates and times:` **[Enter dates and times MM/DD HH:MM]**
+- `Suggested dates and times:` **July 10, 12:00-5:00, July 11, 9:00-11:00**
 
 ### Prepare
 It is currently ready
 
 **A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.** 
-> [!NOTE]
-> **Send pilot participant email in study Slack channel**
-
-- `Pilot participant name:` **[Dan Miller]**
-- `Date and time of pilot session:` **[Wednesday July 9, 4:00 EST]** 
+- `Pilot participant name:` **Dan Miller**
+- `Date and time of pilot session:` **Wednesday July 9, 4:00 EST** 
 
 ### Research sessions
 - `Planned dates of research:` **07/18-8/1]**
 
 ### Length of sessions
-- `Session length: 1 hour
+- `Session length: 1 hour`
   
 - `Buffer time between sessions: 30 minutes
   
