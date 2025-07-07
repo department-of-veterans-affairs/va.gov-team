@@ -165,17 +165,17 @@ Age:
 ### Primary criteria (must-haves)
 *What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
 
-- `[Place primary criteria here between hash marks when in edit mode]`
-- `primary criteria`
-- `primary criteria`
-- **`Add more criteria as needed`**
-
+- Participants who are currently transitioning from active service
+- Different branches of the military
+- Different lengths of service
+- Different discharge characters
+- Some Guard and Reserve members
+- Some participants with disabilities
+- MSV to ensure inclusion
+  
 #### Secondary criteria (nice-to-haves)
-*What criteria would strengthen your results?* 
+All the criteria listed above are required
 
-- `[Place secondary criteria here between hash marks when in edit mode]`
-- `secondary criteria`
-- `secondary criteria`
 - **`Add more criteria as needed`**
 
 ## Timeline 🗓️
@@ -193,18 +193,18 @@ It is currently ready
 > [!NOTE]
 > **Send pilot participant email in study Slack channel**
 
-- `Pilot participant name:` **[Enter name]**
-- `Date and time of pilot session:` **[Enter time]** 
+- `Pilot participant name:` **[Dan Miller]**
+- `Date and time of pilot session:` **[Wednesday July 9, 4:00 EST]** 
 
 ### Research sessions
-- `Planned dates of research:` **[Enter dates MM/DD-MM/DD]**
+- `Planned dates of research:` **07/18-8/1]**
 
 ### Length of sessions
 - `Session length: 1 hour
   
 - `Buffer time between sessions: 30 minutes
   
-- `Maximum Sessions per day: 3
+- `Maximum Sessions per day: 4
 - 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
@@ -217,12 +217,19 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 >
 > **Place time slots between `hash marks` when in edit mode.**
 
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `Add more slots as needed`
+- `[07/19, Friday, 12:00 PM-7:00 PM] EST`
+- `[07/21, Monday, 12:00 PM-5:00 PM] EST`
+- `[07/22, Tuesday, 12:00 PM-7:00 PM] EST`
+- `[07/23, Wednesday, 12:00 PM-7:00 PM] EST`
+- `[07/24, Thursday, 12:00 PM-5:00 PM] EST`
+- `[07/25, Friday, 12:00 PM-7:00 PM] EST`
+- `[07/28, Monday, 12:00 PM-7:00 PM] EST`
+- `[07/29, Tuesday, 12:00 PM-7:00 PM] EST`
+- `[07/30, Wednesday, 12:00 PM-7:00 PM] EST`
+- `[07/31, Thursday, 12:00 PM-5:00 PM] EST`
+- `[08/1, Friday, 12:00 PM-7:00 PM] EST`
+
+
   
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
