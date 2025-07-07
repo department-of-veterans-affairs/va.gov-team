@@ -107,7 +107,7 @@ Before we start, I have a few things that I want to go over with you:
 > - Does the participant notice the time sensitive benefits?
 > - Do they use filters, the back button, or other methods for understanding and navigating results?
 
-# Post-Task Interview - X minutes
+# Post-Task Interview - 10 minutes
 
 - What support would you like to receive that isn’t included in this tool?
 - After using this tool, what would you do next?
@@ -122,7 +122,7 @@ Before we start, I have a few things that I want to go over with you:
    <mark>**[Record answer here]**</mark>
 
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - 5 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
