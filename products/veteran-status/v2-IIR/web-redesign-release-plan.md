@@ -16,9 +16,9 @@ Before enabling your feature toggle in production, you'll need to:
 - [x] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
 - [x] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
 - [x] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
-- [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
-  - [ ] review the plan with your DEPO/OCTO representative.
-  - [ ] review the release plan with your team.
+- [x] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
+  - [x] review the plan with your DEPO/OCTO representative.
+  - [x] review the release plan with your team.
 
 ## Step 3: Production rollout
 
@@ -40,12 +40,9 @@ Developer and Product Manager will monitor analytics and logging at each rollout
 #### Results
 
 - Number of users: 5
-- Number of bugs identified / fixed: 
-  - [BUG] 
-  - [BUG] 
-  - [BUG] 
-- Was any downstream service affected by the change?: 
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? 
+- Number of bugs identified / fixed: None
+- Was any downstream service affected by the change?: No
+- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? No
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
 
@@ -56,11 +53,11 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Desired date range: July 7 - 11
 - How will you make the product available in production while limiting the number of users who can find/access it: we will be turning on the feature flag for a small percentage of users and increasing every few days.
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
-  - Percentage of CONFIRMED users : 
-  - Percentage of NOT CONFIRMED, not eligible users : 
-  - Percentage of NOT CONFIRMED, other reasons : 
-  - Percentage of non 200 responses  : 
-- Who is monitoring the dashboard(s)?: Megan Commons & MFS?
+  - Percentage of CONFIRMED users : >75%
+  - Percentage of NOT CONFIRMED, not eligible users : <2.5%
+  - Percentage of NOT CONFIRMED, other reasons : <22%
+  - Percentage of API errors: <1%
+- Who is monitoring the dashboard(s)?: Megan Commons, Natalie Gibbons, Dave Formanek
 
 ### Stage A: Canary
 
@@ -73,13 +70,13 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 - Number of unique users: [FILL_IN]
 - Metrics at this stage (per your "success criteria"):
-  - Percentage of CONFIRMED users :
-  - Percentage of NOT CONFIRMED, not eligible users : 
-  - Percentage of NOT CONFIRMED, other reasons : 
-  - Percentage of non 200 responses  : 
-- Was any downstream service affected by the change?: 
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+  - Percentage of CONFIRMED users : 75.8%
+  - Percentage of NOT CONFIRMED, not eligible users : 2.3%
+  - Percentage of NOT CONFIRMED, other reasons : 21.9%
+  - Percentage of API errors: .05%
+- Was any downstream service affected by the change?: No
+- Types of errors logged: N/A
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? None
 
 ### Stage B: 10% of users
 
@@ -95,7 +92,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
   - Percentage of CONFIRMED users : 
   - Percentage of NOT CONFIRMED, not eligible users : 
   - Percentage of NOT CONFIRMED, other reasons : 
-  - Percentage of non 200 responses  : 
+  - Percentage of API errors:
 - Was any downstream service affected by the change?: 
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
@@ -114,7 +111,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
   - Percentage of CONFIRMED users : 
   - Percentage of NOT CONFIRMED, not eligible users : 
   - Percentage of NOT CONFIRMED, other reasons : 
-  - Percentage of non 200 responses  : 
+  - Percentage of API errors:
 - Was any downstream service affected by the change?: 
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
@@ -133,7 +130,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
   - Percentage of CONFIRMED users : 
   - Percentage of NOT CONFIRMED, not eligible users : 
   - Percentage of NOT CONFIRMED, other reasons : 
-  - Percentage of non 200 responses  : 
+  - Percentage of API errors:
 - Was any downstream service affected by the change?: [PICK_ONE]: 
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
