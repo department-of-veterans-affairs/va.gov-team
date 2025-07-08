@@ -105,14 +105,6 @@ Near-term indicators of success might include:
 * **Contextual help** and explanations for complex terms and requirements as well as the legislation that inform the pathways.
 * **Direct link** to the appropriate online form once a pathway is selected
 
-_**Open questions:**_
-Should the user experience incorporate either of the following visual/affordance aids to reduce cognitive load?
-* **Progress indicators** showing where Veterans are in the decision process
-* **Clear visual comparisons** of the three options showing: 
-    * Evidence requirements
-    * Average processing times
-    * What happens after each decision
-    * Who reviews the claim
 
 ### Key Design Principles
 
@@ -136,3 +128,13 @@ Should the user experience incorporate either of the following visual/affordance
 
 * Coordination with CAIA team for content updates
 * Stakeholder alignment on success metrics
+
+### Other Ideas We're Exploring
+
+Should the user experience incorporate either of the following visual/affordance aids to reduce cognitive load?
+* **Progress indicators** showing where Veterans are in the decision process
+* **Clear visual comparisons** of the three options showing: 
+    * Evidence requirements
+    * Average processing times
+    * What happens after each decision
+    * Who reviews the claim
