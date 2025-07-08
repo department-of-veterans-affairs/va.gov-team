@@ -1,5 +1,5 @@
 ## ✏️ Content Support Request
-_Copy this template into a new issue_
+_Copy this template into [a new issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=AAAA.md)_
 
 ---
 
