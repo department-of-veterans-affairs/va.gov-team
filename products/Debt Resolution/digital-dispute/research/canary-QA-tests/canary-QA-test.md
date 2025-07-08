@@ -7,8 +7,9 @@ The team is hosting canary/QA tests of the Digital Dispute Form with Veterans wh
 
 These tests will allow our researchers, designers, and engineers to preview the environment before it goes live. 
 
-**Sessions:**
- - [ ] 7/1/2025 - 8am PT/11am ET - 
+**Sessions 1 of 3:**
+
+ - [x] Session 1: 7/1/2025 - 8am PT/11am ET 
 
 **Notes:**
 
@@ -18,7 +19,7 @@ Form looks as expected, error messages work, review page can be edited (loops ba
 
 Session hosted by: Charlotte
  
- - [x] 7/2/2025 - 9:30am PT/12:30pm ET
+ - [x] Session 2: 7/2/2025 - 9:30am PT/12:30pm ET
 
 **Notes**       
 Veteran did not have active overpayment debt as indicated on screening. 
@@ -39,7 +40,27 @@ The dispute form- select a debt page did not have the updated plain text zero de
 Session hosted by: Megan
 
      
- - [ ] Session 3
+ - [x] Session 3: 7/8/2025 - 8am PT/11am ET
+
+**Notes**       
+Veteran had a VBA active overpayment debt as indicated on screening. Informed Veteran that the form being submitted would be deleted the same day of the session. Form submission has been deleted by DMC as of 4:30pm ET on 8/8 and Perigean is following up with confirmation email to Veteran. 
+
+She viewed: 
+
+- Dispute form intro page
+- Dispute form personal info page
+- Dispute form contact page and edit section
+- Dispute form select a debt page
+- Dispute form options 1 and 2
+- Dispute form reason for dispute page (text input)
+- Dispute form review page & submit button
+- Dispute form confirmation page
+
+Form looked as expected, error messages work, review page can be edited, form submission was successful, and confirmation message looked as expected. 
+
+Debt selection page had a date in the past (April 2025) for when to resolve debt by. This date might make sense given the Veteran has pursued another resolution option (Digital Dispute Form appears to be still be viewable despite pursuing other resolution avenues). This use case is relevant for future design/development refinements. 
+
+Session hosted by: Charlotte
 
 ## *Recruitment Request*
 
@@ -57,13 +78,13 @@ An active debt will look like this on their account (taken from mock data):
 
 **After session email:**
 
-Dear [name]
+Dear [name],
+We want to confirm that your submission of the Digital Dispute Form has been deleted in our system.
+Should you wish to submit the Digital Dispute Form in the future, it will be available on VA.gov in the next several weeks.
+We greatly appreciate your help.
+Best regards,
 
-We want to confirm that your submission of the digital dispute form has been deleted in our system.
-
-We greatly appreciate your help!
-
-Best regards
+VA.gov Consulting Team
 
 **Timeline**
 
