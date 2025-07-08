@@ -2,22 +2,21 @@
 
 ## Step 1: Development
 
-You'll need to create a feature toggle (or two) for any moderately or significantly changing feature. Follow the [best practices for creating feature toggles](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles).
+You'll need to create a feature toggle (or two) for any moderately or significantly changing feature. Follow the [best practices for creating feature toggles (used only for `vets-api` BE)](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles) and [remote config feature toggle (VAHB FE only - does not affect BE)](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Engineering/FrontEnd/RemoteConfig/).
 
 List the features toggles here.
 
-| Toggle name | Description |
-| ----------- | ----------- |
-| ? | _change if needed_ Main switch for the Travel Pay feature on VA.gov using the new BTSSS (travel pay) API. Enabled - Requests are handled as normal. Disabled - Requests are not handled. Server returns a 503 (Service Unavailable) until re-enabled. |
+| Toggle name | Toggle type | Description |
+| --- | --- | --- |
+| travelPaySMOC | Firebase Remote Config | Main switch for the Travel Pay SMOC in the VAHB Mobile app. Enabled - FE features are available and functional and a flag is sent to the API to trigger travel pay access (i.e. to append claims to the appointments list). Disabled - FE features are not visible to users and the flag is not sent to `vets-api`, meaning no associated BE functionality is triggered. |
 
 ## Step 2: Validation
-_change if different on mobile_
 
-Since we use a [continuous delivery](https://depo-platform-documentation.scrollhelp.site/developer-docs/deployment-process) model, once code is in the `main` branch, it will be deployed that day. 
+The VAHB Mobile app is released on a two-week cycle ([Release Cycle dates available here](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Operations/Releases/)). The release candidate branch is cut from the develop branch 2 weeks before the release date to allow for internal QA and app store review before being added to the app stores.
 
 Before enabling your feature toggle in production, you'll need to:
 
-- [ ] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
+- [ ] Follow [Mobile best practices for QA](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/QA/QualityAssuranceProcess/).
 - [ ] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
 - [ ] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
 - [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
@@ -46,14 +45,20 @@ Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics
 3. The fix will be tested and deployed through normal CI/CD practices, with no interruption to feature uptime.
 
 ### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
-_not sure if this is relevant for mobile_
+
+This can be performed by running an on demand production build on a branch that has had any remote config feature flags removed. Users will be added to that specific build in either AppTester (Android) or TestFlight (iOS) for testing.
 
 #### Planning
-- Desired date range or test duration: ?
-- Desired number of users: ?
-- How you'll recruit the right production test users: ?
-- How you'll conduct the testing: ?
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: ?
+- Desired date range or test duration:
+  - 7/1 (after the release branch has been cut) - 7/14
+- Desired number of users: 2-4
+- How you'll recruit the right production test users: Friends & Family only
+- How you'll conduct the testing:
+  - Some moderated in person testing
+  - Some unmoderated testing with follow up interviews
+- How you'll give the test users access to the product in production w/o making it live in the app:
+  - Test build installed on test phones and provided for in person moderated testing
+  - Users added to AppTester and TestFlight via email for that specific build
 
 #### Results
 
