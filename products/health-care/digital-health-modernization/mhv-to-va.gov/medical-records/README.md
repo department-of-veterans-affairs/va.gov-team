@@ -13,8 +13,9 @@ Last Updated: May 6. 2025
 |----|----|-----|
 |Lauren Alexanderson |OCTO Portfolio Director|lauren.alexanderson@va.gov|
 |Marci McGuire |OCTO Product Lead| marci.mcguire@va.gov |
-|Kaitlin Fink |OCTO Design Lead| kaitlin.fink@va.gov |
-|Stephen Barrs | OCTO Engineering Lead | stephen.barrs@va.gov |
+|Robyn Singleton | OCTO Health Measurement and Data Design Lead | robyn.singleton@va.gov |
+|Mark Dewey | OCTO Engineering Lead | mark.dewey@va.gov |
+|Adrian Rollet | OCTO Engineering Lead | adrian.rollet@va.gov |
 |Bresha Lipscomb | VA Product Owner | bresha.lipscomb@va.gov |
 |Bryan Riley | ByLight Delivery Mgr | bryan.riley@va.gov |
 |Lichelle Bain | ByLight Product Manager | lichelle.bain@va.gov |
