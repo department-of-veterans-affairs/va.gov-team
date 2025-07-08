@@ -4,7 +4,6 @@ title: "Team offboarding for [Team]"
 labels:
   - "offboarding"
   - "team-offboarding"
-assignees: 
 body:
   - type: markdown
     attributes:
