@@ -128,7 +128,7 @@ Perigean will recruit and schedule 12 qualified participants for each group outl
 * At least 1 person who is retiring after 20 years of service
 * At least 4 people who served more than 4 years
 * At least 1 person from each branch: Army, Navy, Marines, Air Force, Coast Guard. Space Force is optional but nice to have.
-* At least 6 people without VA.gov accounts*
+* At least 6 people without VA.gov accounts
 
 3. Transitioning service members and Recently Separated Veterans (within the last year) who have a disability (self-identified, no VA disability rating necessary)
 * At least 9 with TBI, PTSD, Migraine, Major Depressive Disorder, or other conditions that affect mood and cognition
@@ -175,7 +175,7 @@ Age:
 - `Suggested dates and times:` **July 10, 12:00-5:00, July 11, 9:00-11:00**
 
 ### Prepare
-It is currently ready
+The product in staging and conversation guide are currently ready
 
 **A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.** 
 - `Pilot participant name:` **Dan Miller**
