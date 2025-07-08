@@ -151,8 +151,8 @@ Geographic distribution:
 Age:
 - At least 4 people under the age of 30
 
-- `Veterans:` **[36]**
-- `Ideal completed sessions:` **[54]**
+- `Veterans:` **[54]**
+- `Ideal completed sessions:` **[36]**
 
 ### Primary criteria (must-haves)
 *What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
