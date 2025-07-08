@@ -62,8 +62,8 @@ The team has established 90-day benchmark metrics:
 ## Benchmarks
 
 ### PSR (Pathway Switching Rate)
-7.7% (started more than type of DR)
-4.8% (submitted more than one type of DR)
+* 7.7% (started more than type of DR)
+* 4.8% (submitted more than one type of DR)
 
 ### FAR (Form Abandonment Rate)
 Individual Pathway FAR:
