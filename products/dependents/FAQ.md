@@ -29,7 +29,7 @@
 <summary>Why are there questions about pension income in the VA.gov 686c form that are not on the pdf?</summary>
 
   - The pension line of business requested that VA.gov add two pension-related income questions to the online form flow, so that RBPS can auto-process some 686c claims that impact pension. A complete outline of the questions and functionality can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/pension_income_questions.md). Note that the net income limit changes every year and is typically finalized in October and needs to be updated on VA.gov by the end of November each year. Source: Jennifer Feuer
-  - In cases where RBPS requires info not currently on the form, VA.gov should put the data in the JSON for RBPS and leave the data off the pdf bc not all forms have a remarks section we can use for this type of info. (edited) Source: David Reis (July 2025)
+  - In cases where RBPS requires info not currently on the form, VA.gov should put the data in the JSON for RBPS and leave the data off the pdf bc not all forms have a remarks section we can use for this type of info. Source: David Reis (July 2025)
 </details>
 
 <details>
