@@ -132,7 +132,7 @@ Veterans currently manage their debt and copayments on VA.gov; this will be a ne
 
 ## Methodology  🛠️
 
-Moderated usability testing using high-fidelity Figma prototypes over Zoom. Participants will view and interact with the prototype via the Figma mobile app. 
+Moderated usability testing using high-fidelity Figma prototypes over Zoom. Participants will view and interact with the prototype via the Figma mobile app, using account credentials that we supply during the sessions. 
 
 The prototype will simulate the mobile app's MVP debt portal where users can view details on their copays and overpayment debts, and also simulate the journey of leaving the mobile app to access information via a web browser.
 
