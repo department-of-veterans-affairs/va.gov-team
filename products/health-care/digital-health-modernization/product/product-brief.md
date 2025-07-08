@@ -48,15 +48,13 @@ We aim to reduce the number of websites, products, and interfaces Veterans must 
 
 **Federal employees** 
 - Portfolio: Lauren Alexanderson
-- Product - Cartography Team: Robyn Singleton
+- Product - Cartography Team: Marci McGuire
 - Product - Secure Messaging: Patrick Bateman
-- Product - Medical Records, Cerner Integration: Marci McGuire
+- Product - Medical Records: Marci McGuire
 - Product - Medications: Kay Lawyer
-- Design: Kaitlin Fink
 - Design: Kristen McConnell
 - Research: Robyn Singleton
-- Design: Jenny Wang, Digital Corps Fellow
-- Product: Jasmine Yohannan, Digital Corps Fellow 
+- Engineering: Mark Dewey, Adrian Rollett, Steve Mason
 
 **Contractors (Agile Six)**
 - Delivery Manager: Mark Carter
@@ -90,8 +88,8 @@ Related: Office of Connected Care (OCC) has a portfolio of ~70 mobile apps (1/2 
 
 ### Health
 -	VAOS (Kay Lawyer, OCTO)
--	Unified appointment experience (Stephen Barrs, Mark Dewey, Patrick Bateman, Kay Lawyer) 
--	Check In, including pre-check-in (Stephen Barrs, Patrick Bateman)
+-	Unified appointment experience (Mark Dewey, Patrick Bateman, Kay Lawyer) 
+-	Check In, including pre-check-in (Patrick Bateman)
 -	Beneficiary Travel (Mark Dewey)
 -	1010 CG application for caregiver health (Patrick Bateman)
 -	10-10EZ application for health care (Patrick Bateman)
@@ -114,11 +112,11 @@ Crew chief: Dave Conlon
 ### OCC 
 **Federal employees**
 -	Head of OCC and Acting Dept. of Veterans Affairs CIO: Dr. Neil Evans
--	Executive Director of Connected Care: Dr. Meredith Josephs
+-	Executive Director of Connected Care: 
 -	Director of Veteran and Consumer Informatics Office: Theresa Hancock (Director of My HealtheVet)
 -	Director of CC who oversees MHV and mobile.va.gov: Nancy Wilck
 -	Management analyst/engineering oracle: Carnetta Scruggs
--	Secure messaging product owner: Patty Henry
+-	Secure messaging product owner: Carnetta Scruggs
 -	Medical records product owner: Bresha Lipscomb
 
 **Bylight contract team**
