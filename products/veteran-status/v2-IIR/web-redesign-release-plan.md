@@ -64,7 +64,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Planning
 
 - Length of time: July 7 
-- Percentage of Users: 1% of users
+- Percentage of Users: 10% of users
 
 #### Results
 
@@ -78,7 +78,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Types of errors logged: N/A
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? None
 
-### Stage B: 10% of users
+### Stage B: 25% of users
 
 #### Planning
 
@@ -89,13 +89,13 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 - Number of unique users: [FILL_IN]
 - Metrics at this stage (per your "success criteria"):
-  - Percentage of CONFIRMED users : 
-  - Percentage of NOT CONFIRMED, not eligible users : 
-  - Percentage of NOT CONFIRMED, other reasons : 
-  - Percentage of API errors:
-- Was any downstream service affected by the change?: 
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+  - Percentage of CONFIRMED users : 80.2%
+  - Percentage of NOT CONFIRMED, not eligible users : 1.5%
+  - Percentage of NOT CONFIRMED, other reasons : 18.3%
+  - Percentage of API errors: .4%
+- Was any downstream service affected by the change?: No
+- Types of errors logged: N/A
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? None
 
 ### Stage C: 50% of users
 
