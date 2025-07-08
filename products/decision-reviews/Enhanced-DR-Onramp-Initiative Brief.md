@@ -4,7 +4,7 @@
 
 ## Outcome Summary
 
-Veterans can independently and confidently identify the most appropriate decision review pathway or next step for their claim when they disagree with VA’s decision.** The initiative aims to reduce burdens on Veterans and their representatives, as well as on call centers**: reduced confusion-driven pathway switching, reduced form abandonment, and improved first-attempt success rates.
+Veterans can independently and confidently identify the most appropriate decision review pathway or next step for their claim when they disagree with VA’s decision. **The initiative aims to reduce burdens on Veterans and their representatives, as well as on call centers**: reduced confusion-driven pathway switching, reduced form abandonment, and improved first-attempt success rates.
 
 ## Problem
 
