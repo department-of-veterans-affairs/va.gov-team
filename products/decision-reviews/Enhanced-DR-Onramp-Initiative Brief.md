@@ -63,7 +63,7 @@ The team has established 90-day benchmark metrics:
 
 ### PSR (Pathway Switching Rate)
 * 7.7% (started more than type of DR)
-* 4.8% (submitted more than one type of DR)
+* **4.8%** (submitted more than one type of DR)
 
 ### FAR (Form Abandonment Rate)
 Individual Pathway FAR:
@@ -74,7 +74,7 @@ Individual Pathway FAR:
 
 Aggregate FAR:
 
-* Overall: 43.9% abandonment (75,326 starts → 42,262 completions)
+* Overall: **43.9%** abandonment (75,326 starts → 42,262 completions)
 
 ### FASR (First-Attempt Success Rate)
 Individual Pathway FASR:
@@ -85,7 +85,7 @@ Individual Pathway FASR:
 
 Aggregate FASR:
 
-* Overall: 92% first-attempt success rate (108k submission → 99.8k without switching)
+* Overall: **92%** first-attempt success rate (108k submission → 99.8k without switching)
 
 
 ### Indicative Success Ranges
