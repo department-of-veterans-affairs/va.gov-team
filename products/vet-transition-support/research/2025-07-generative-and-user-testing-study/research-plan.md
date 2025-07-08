@@ -182,7 +182,7 @@ It is currently ready
 - `Date and time of pilot session:` **Wednesday July 9, 4:00 EST** 
 
 ### Research sessions
-- `Planned dates of research:` **07/18-8/1]**
+- `Planned dates of research:` **07/19-8/1]**
 
 ### Length of sessions
 - `Session length: 1 hour`
