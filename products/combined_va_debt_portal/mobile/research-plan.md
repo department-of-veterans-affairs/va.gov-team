@@ -136,6 +136,8 @@ Moderated usability testing using high-fidelity Figma prototypes over Zoom. Part
 
 The prototype will simulate the mobile app's MVP debt portal where users can view details on their copays and overpayment debts, and also simulate the journey of leaving the mobile app to access information via a web browser.
 
+Backup plan: in case of any participants having difficulties opening the prototype in the Figma app, we will have them open the prototype in a web browser on their phone.
+
 Sessions will also include semi-structured interview questions. These questions will explore:
 
 - Experiences and awareness of debt before accessing the app
