@@ -60,6 +60,13 @@ Form looked as expected, error messages work, review page can be edited, form su
 
 Debt selection page had a date in the past (April 2025) for when to resolve debt by. This date might make sense given the Veteran has pursued another resolution option (Digital Dispute Form appears to be still be viewable despite pursuing other resolution avenues). This use case is relevant for future design/development refinements. 
 
+<img width="488" alt="Screenshot 2025-07-08 at 11 14 58 AM" src ="https://github.com/user-attachments/assets/b3d195ec-9619-4403-b796-24943d7b671f" />
+
+
+
+
+
+
 Session hosted by: Charlotte
 
 ## *Recruitment Request*
