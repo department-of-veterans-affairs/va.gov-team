@@ -58,6 +58,11 @@ Before we start, I have a few logistics to cover:
 * We want your honest opinions. There are no right or wrong answers, and we’re not testing anything of you. I will not be offended by any opinions you share.
 * Your participation in this interview is completely voluntary. You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
 * I’ll be having you work with a prototype for part of today. It may look and act like the real app, but it’s only a demo tool and therefore lots of elements will not be working. You will not be logged into your account, so nothing you do will affect your benefits or anything else in your account.
+* Were you able to download the mobile app Figma?
+    * _(if Yes)_: Great, thank you. I’ll be walking you through signing in with a test account later, and this is how you’ll view the prototype.
+    * _(if No)_ : no problem. Do you recall specific issues you were having? _(don’t spend too much time troubleshooting)_
+    * _(if they don’t have Figma - note that they’ll be viewing the responsive prototype)_
+
 * If you would be okay with it, we would like to record this session today, but let me explain things first before you consent. 
     * The purpose is to assure that we capture your opinions accurately. Your name and other identifying information will never be used when reporting on this project – for example we assign you a participant ID (such as P7) if quoting you. And after we complete the analysis, the recordings are destroyed.
     * Knowing this, are you comfortable with me recording the session?
@@ -121,7 +126,12 @@ Now we're going to move to the financial portion of our discussion. I want to ma
 
 I'm going to be showing you a prototype of the mobile app, with some new features that we're testing out before we consider building them.
 
-_(request they share screen, send them prototype link)_
+_(request they share screen)_
+
+Please open up the Figma app, and I’ll be walking you through how to sign in. 
+* _(share test credentials with them)_
+* _(after logging in, send them prototype link over Zoom chat)_
+
 
 From home screen
 
@@ -282,7 +292,11 @@ If needing to exit the session
 
 I'm going to be showing you a prototype of the mobile app, with some new features that we're testing out before we consider building them.
 
-_(request they share screen, send them prototype link)_
+_(request they share screen)_
+
+Please open up the Figma app, and I’ll be walking you through how to sign in. 
+* _(share test credentials with them)_
+* _(after logging in, send them prototype link over Zoom chat)_
 
 From home screen
 
