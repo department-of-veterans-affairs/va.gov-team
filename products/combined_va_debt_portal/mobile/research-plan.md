@@ -294,27 +294,22 @@ Two cohorts: those who have experience with benefits overpayment debts, and thos
 <br>
 
 
-<!--
 ## Timeline 🗓️
-> [!NOTE]
-> **Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.** 
 
 ### Optional Kick-off Call with Perigean
 
-- `Suggested dates and times:` **[Enter dates and times MM/DD HH:MM]**
+- `Suggested dates and times:` **July 16 9:00 AM - 11:30 AM / 2:30 PM - 3:30 PM EDT**
 
 ### Prepare
-*When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).*
 
-**A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.** 
 > [!NOTE]
 > **Send pilot participant email in study Slack channel**
 
-- `Pilot participant name:` **[Enter name]**
+- `Pilot participant name:` **Matt Guest**
 - `Date and time of pilot session:` **[Enter time]** 
 
 ### Research sessions
-- `Planned dates of research:` **[Enter dates MM/DD-MM/DD]**
+- `Planned dates of research:` **07/24-08/01**
 
 ### Length of sessions
 - `Session length:` **1 hour**
@@ -324,24 +319,15 @@ Two cohorts: those who have experience with benefits overpayment debts, and thos
 - `Maximum Sessions per day:` **4**
 
 ### Availability
-When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
 
-> [!NOTE]
-> We recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S. 
+- `[07/24, Thursday, 10:30 AM - 4:00 PM] EDT`
+- `[07/25, Friday, 10:30 AM - 1:00 PM] EDT`
+- `[07/28, Monday, 9:00 AM - 4:00 PM / 8:00 PM - 10:30 PM] EDT`
+- `[07/29, Tuesday, 9:00 AM - 4:00 PM / 8:00 PM - 10:30 PM] EDT`
+- `[07/30, Wednesday, 9:00 AM - 1:00 PM] EDT`
+- `[07/31, Thursday, 9:00 AM - 4:00 PM] EDT`
+- `[08/01, Friday, 9:00 AM - 4:00 PM] EDT`
 
-> [!TIP]
-> Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. **(e.g. 3/17, Monday 9:00AM-1:00PM, 3:00PM-6:00PM EST; 3/18, Tuesday 9:00AM-6:00PM EST, etc.;** ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
->
-> **Place time slots between `hash marks` when in edit mode.**
-
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `Add more slots as needed`
-  
--->
 
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
