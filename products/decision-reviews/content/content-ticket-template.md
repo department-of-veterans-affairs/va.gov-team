@@ -69,9 +69,9 @@ Add the appropriate labels and assignment.
 
 Who picks this work up next?
 - [ ] Implementation team
-  - [ ] Amy, PM
-  - [ ] Julie, Design
-  - [ ] other
+  - [ ] Product (Amy)
+  - [ ] Design (Julie)
+  - [ ] Other (describe)
 - [ ] Design
 - [ ] Engineering
 - [ ] Accessibility
