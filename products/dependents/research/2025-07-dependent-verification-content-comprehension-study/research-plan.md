@@ -2,37 +2,37 @@
 	# Research Plan for [Dependent Management Team, Dependent Verification update, July 2025]
 
 ## Background 🏗️
-<details><summary>Briefly describe the background of your product.</summary>
+<summary>Briefly describe the background of your product.</summary>
 	
 `What problem is your product trying to solve?`
 
-**[Enter answer here]**
+**Currently, the VA overpays $250 million in dependent benefits each year. If a Veteran is overpaid a benefit, they are required to re-pay the overpayment back to the VA. Updating dependency information outside the 8-year requirement is voluntary, and the burden of remembering to make dependency updates falls on the Veteran. Verifying dependents through a paper form is also burdensome for many Veterans. These problems result in a very low-quality feedback loop for maintaining an accurate list of what dependents are intended to be on the award. Our goal is to decrease the over- and under-payment amount for dependent-related benefits by allowing Veterans to quickly and easily verify their dependents on VA.gov.**
   
 `Where is your product situated on VA.gov? (ex: auth vs. unauth)`
-The Dependent Verification flow that we are testing begins on the "Your VA dependents" page. There are authenticated and unauthenticated versions of the page but the Veteran must be authenticated to begin the flow.
 
-**[Enter answer here]**
+**The Dependent Verification flow that we are testing begins on the "Your VA dependents" page; this page can only be accessed when the Veteran has signed into VA.gov.**
   
 `What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?`
 
-**[Enter answer here]**
+**This flow is an update to existing functionality. Updates include:**
+- **Enhancements to the view dependents page that will allow Veterans to see additional info for each dependent**
+- **Adding a question to the view dependents page that asks Veterans if their dependent information has changed. VA.gov will automatically generate a 21-0538 form, ask the Veteran to review the info, sign a statement of truth, and then submit the 21-0538 form. If necessary, they will also be directed to fill out the add/remove dependents form on VA.gov (21-686c/674)**
 
 `Product Brief`
 
-**[Link to product brief](url goes here).**
+**[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/dependency_verification/initiative-brief-dependent-verification-tool.md).**
 
 </details>
 
 ### [OCTO-DE Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md) 
 
-<details><summary>Which OCTO priorities does this research support? Work with your VA lead and product manager as needed. </summary>
+<summary>Which OCTO priorities does this research support? Work with your VA lead and product manager as needed. </summary>
 
 
 `Objective 1:  VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.`  
 
 > - **Key Result 1:** Improve satisfaction with our web and mobile products by 5 points.
 
-</details>
 
 ### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
 
