@@ -78,12 +78,13 @@ We aim to reduce the number of websites, products, and interfaces Veterans must 
 Crew chief: Chante Lantos-Swett
 -	My VA (Chante Llantos Sweet)
 -	Profile (Chante Llantos Sweet)
--	VA Notify (Shane Elliott, Beverly Nelson)
+-	VA Notify (Dave Conlon)
 -	VEText (Shane Elliott, Beverly Nelson)
--	VSP Identity (John Rahaghi)
+-	VSP Identity (Samara Strauss)
 
 ### Mobile Experience
-Product: Rachel Han & Chris Johnston
+Product: Ryan Thurwell
+Mobile Platform: 
 Related: Office of Connected Care (OCC) has a portfolio of ~70 mobile apps (1/2 of these are for Veterans). 
 
 ### Health
@@ -97,7 +98,6 @@ Related: Office of Connected Care (OCC) has a portfolio of ~70 mobile apps (1/2 
 -	After-visit and pre-visit summary (Shane Elliott & Rob Durkin)
 -	Patient-Generated Health Data (PGHD) (Stefany Holguin)
 
-
 ### Benefits
 - Debt Resolution (Denise Coveyduc)
 - PACT Act (Zach Goldfine, Danielle Thierry)
@@ -109,34 +109,21 @@ Crew chief: Dave Conlon
 -	Facilities (Dave Conlon, Michelle Middaugh)
 -	Laura Willwerth (content)
 
-### OCC 
+### OCC Stakeholders
 **Federal employees**
 -	Head of OCC and Acting Dept. of Veterans Affairs CIO: Dr. Neil Evans
 -	Executive Director of Connected Care: 
--	Director of Veteran and Consumer Informatics Office: Theresa Hancock (Director of My HealtheVet)
+-	Director of Veteran and Consumer Informatics Office (VCHIO): Theresa Hancock (Director of My HealtheVet)
 -	Director of CC who oversees MHV and mobile.va.gov: Nancy Wilck
 -	Management analyst/engineering oracle: Carnetta Scruggs
 -	Secure messaging product owner: Carnetta Scruggs
 -	Medical records product owner: Bresha Lipscomb
 
-**Bylight contract team**
--	Barry Egbert (engineer)
--	Bryan Riley (product)
--	Lichelle Bain (product)
--	Mike Moyer (engineer)
--	Oleksii Morgun (QA)
--	Arienne Walters (design)
--	Anne Costello (design)
--	Bobby Bailey (design)
--	Lexi Wunder (design) 
--	Jessica Robertson (design)
--	Anne Costello (research)
-
 ## Measuring success 
 
 -	The proportion of Veterans using VA.gov OR MHV monthly does not decrease.
 -	The proportion of Veterans using VA.gov AND MHV monthly decreases.
--	Within 6 months of moving into My HealtheVet, each product that moved: 
+-	Within 6 months of moving into My HealtheVet, each product that moved:
 	- Scores higher on [accessibility index]
 	- Has the same or more monthly active users
 	- Causes the same or less contact center support volume per user
