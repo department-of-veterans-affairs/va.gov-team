@@ -81,7 +81,7 @@
 |Engineering, Dev Ops, AutomationCodeDocs, Signing Keys, Apple Signing Keys|Development guide, Dev ops, Automation code docs, Signing keys, Apple signing keys|
 |Engineering, Dev Ops, AutomationCodeDocs, Signing Keys, Firebase Signing Keys|Development guide, Dev Ops, Automation code docs, Signing keys, Firebase signing keys|
 |Engineering, Dev Ops, AutomationCodeDocs, Signing Keys, Google Signing Keys|Development guide, Dev Ops, Automation code docs, Signing keys, Google signing keys|
-|Engineering, Dev Ops, Making Pull Requests|Development guide, Dev ops, Pull requests|
+|Engineering, Dev Ops, Making Pull Requests|Getting started, Set up, Pull requests|
 |Engineering, Dev Ops, Build Automation Overview, Releases|Getting started, Releases, Automation|
 |Engineering, Dev Ops, Build Automation Overview, QA Builds|Development guide, Quality assurance, QA builds|
 |UX|Development guide, Design|
