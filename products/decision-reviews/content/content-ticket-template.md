@@ -55,12 +55,6 @@ Add the appropriate labels and assignment.
 
 ---
 
-## 🔍 What problem are we solving?
-
-Describe the user pain point or opportunity that this content work addresses.
-
----
-
 ## 📅 Important Dates and Meetings
 
 - Timeline expectations or deadlines (e.g., for staging or validation):  
@@ -108,7 +102,7 @@ Any other cross-functional partners involved?
 ---
 
 ## 📋 Tasks  
-_It’s okay to leave this minimal or blank—content will update as needed_
+_It’s okay to leave this minimal or blank. Content designer will update as needed_
 
 - [ ]  
 - [ ]  
