@@ -98,6 +98,13 @@ During the transition period, the delivery team will work across all patient por
 </details>
 <br>
 
+### Future State Team Chart
+Below is a visualization of the future state of delivery team support with five product teams (landing page/portal-wide features, medical records, secure messaging, medications, medical supplies), a shared support team working across all product teams, and a triage team supporting all portal products. The Cartography team serves a dual-purpose as the landing page/portal-wide features product team and support across all portal products and teams.
+
+![My HealtheVet Web and Mobile Team Chart](https://github.com/user-attachments/assets/821be666-e7fc-4174-a3a9-ec4035912916)
+
+
+
 ## Projects
 - [MyHealtheVet to VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/)
 
