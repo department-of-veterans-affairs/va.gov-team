@@ -132,7 +132,11 @@ Veterans currently manage their debt and copayments on VA.gov; this will be a ne
 
 ## Methodology  🛠️
 
-Moderated usability testing using high-fidelity Figma prototypes over Zoom. The prototypes will simulate the mobile app's MVP debt portal where users can view details on their copays and overpayment debts.
+Moderated usability testing using high-fidelity Figma prototypes over Zoom. Participants will view and interact with the prototype via the Figma mobile app, using account credentials that we supply during the sessions. 
+
+The prototype will simulate the mobile app's MVP debt portal where users can view details on their copays and overpayment debts, and also simulate the journey of leaving the mobile app to access information via a web browser.
+
+Backup plan: in case of any participants having difficulties opening the prototype in the Figma app, we will have them open the prototype in a web browser on their phone.
 
 Sessions will also include semi-structured interview questions. These questions will explore:
 
@@ -160,7 +164,10 @@ Note on Accessibility: Due to prototype limitations, this study will not include
 
 ### Recruitment approach
 
-We would like Perigean to recruit Veterans, non-AT users, for Zoom sessions on smartphones.
+We would like Perigean to recruit Veterans, non-AT (assistive technology) users, for Zoom sessions on smartphones.
+
+We would like our participants to download the Figma app prior to the sessions. They should not create an account within the app, only have it downloaded. It is available at the [Google Play Store](https://play.google.com/store/apps/details?id=com.figma.mirror&hl=en_US) and the [Apple App Store](https://apps.apple.com/us/app/figma/id1152747299).
+
 Two cohorts: those who have experience with benefits overpayment debts, and those who have experience with VA healthcare copayments. Ideally, some participants will have experience with both.
 
 ### Recruitment criteria
@@ -178,6 +185,9 @@ Two cohorts: those who have experience with benefits overpayment debts, and thos
 	- `Cohort 2: 8 received a VA copayment bill in the last year`
 - `Range of debt amount (for Cohort 1)`
 - `Complete session on their smartphone via the Zoom app`
+- `Download the Figma app ahead of time, though not creating an account`
+	- [Figma on Google Play Store](https://play.google.com/store/apps/details?id=com.figma.mirror&hl=en_US)
+	- [Figma on Apple App Store](https://apps.apple.com/us/app/figma/id1152747299)
 - `No assistive technology users or accessibility features turned on`
     * (this is due to prototype limitations; we will be testing with assistive technology at a later date)
 
