@@ -33,7 +33,7 @@ Add the appropriate labels and assignment.
 - [ ] Decision Reviews: `team-DRAGONS` 
 - [ ] BMT 1: `bmt-team-1`
 - [ ] BMT 2: (tbd)
-- [ ] `content`
+- [X] `content`
 - [ ] Assignees: `@cinlackey`
 
 ---
