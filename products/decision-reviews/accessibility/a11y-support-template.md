@@ -1,4 +1,4 @@
-# 🔧 Accessibilityy Support Request
+# 🔧 Accessibility Support Request
 
 Please copy this template into the issue to request Accessibility support 😊
 
