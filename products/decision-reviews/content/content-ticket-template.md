@@ -48,10 +48,10 @@ Add the appropriate labels and assignment.
 
 ## 🔗 Links
 
-- Link to Figma file: [Paste here]  
-- Related GitHub issues: [Paste links here]  
-- Collaboration Cycle ticket (if applicable): [Paste link or number]  
-- Any additional references or docs: [Paste here]
+- [ ] Link to Figma file: [Paste here]  
+- [ ] Related GitHub issues: [Paste links here]  
+- [ ] Collaboration Cycle ticket (if applicable): [Paste link or number]  
+- [ ] Any additional references like mural boards: [Paste here]
 
 ---
 
@@ -59,9 +59,11 @@ Add the appropriate labels and assignment.
 
 - Timeline expectations or deadlines (e.g., for staging or validation):  
 - Upcoming collaboration cycle stage (if any):  
-- Standing meetings you’d like the content designer to attend:  
+- Standing meetings you’d like the content designer to attend:
+  - [ ] Team stand-up [add date(s)]
+  - [ ] Other [which? add dates]
 - Will you bring this to content office hours?  
-  - If yes, please [add it to this Slack canvas]([https://app.slack.com](https://dsva.slack.com/docs/T03FECE8V/F093XR59XRD))
+  - [ ] If yes, please [add it to this Slack canvas](https://dsva.slack.com/docs/T03FECE8V/F093XR59XRD)
 
 ---
 
@@ -71,15 +73,15 @@ Who picks this work up next?
 - [ ] Implementation team
   - [ ] Product (Amy)
   - [ ] Design (Julie)
-  - [ ] Other (describe)
+  - [ ] Other [describe]
 - [ ] Design
 - [ ] Engineering
 - [ ] Accessibility
-- [ ] Other (describe)
+- [ ] Other [describe]
       
 Any other cross-functional partners involved?
 - [ ] OBA
-- [ ] Other (describe)
+- [ ] Other [describe]
 
 ---
 
