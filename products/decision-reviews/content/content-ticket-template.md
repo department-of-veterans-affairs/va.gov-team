@@ -23,7 +23,7 @@ Please fill out the sections below to help us understand your request, prioritiz
 - What kind of content support is needed? Review [the content design menu](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1746655929211/80067a3f9875681b70f4a854ce74388504c5c1de)
   - [ ] Workshop facilitation
     - [ ] [Lean Canvas](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1751495409632/694c26c67107494620afeec155c71a1ef944e46e?sender=uf5838c6c24bc1098b12b5304)
-    - [ ] Scoping (Effort/Impact scoping, Goal setting)
+    - [ ] Scoping (Effort/Impact scoping, Goal setting, other? please discribe)
     - [ ] [User Story Map](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1751495409632/694c26c67107494620afeec155c71a1ef944e46e?sender=uf5838c6c24bc1098b12b5304)
     - [ ] Other [describe]
   - [ ] Define
