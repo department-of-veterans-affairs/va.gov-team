@@ -51,7 +51,7 @@ During the transition period, the delivery team will work across all patient por
 | Mark Carter | Business Analyst | mark.carter@agile6.com | mark.carter4@va.gov |  |  |
 | Amy Cashbaugh | Frontend Engineer | acashbaugh@ironarchtech.com | amy.cashbaugh@va.gov |  |  |
 | Ni Chia |  Fullstack Engineer | ni.chia@adhocteam.us | tchut.chia@va.gov |  |  |
-| Jason Congliari | Fullstack Engineer | jConigliari@ironarchtech.com | TBD |  |  |
+| Jason Congliari | Fullstack Engineer | jConigliari@ironarchtech.com | TBD | TBD | TBD |
 | Richard Davis | Frontend Engineer | richard.davis@agile6.com | richard.davis437@va.gov |  |  |
 | Carlos Felix | Technical Architect | carlos.felix@agile6.com | carlos.felixacevedo@va.gov |  |  |
 | Steven Gallagher | Frontend Engineer | sgallagher@ironarchtech.com | TBD | TBD | TBD |
