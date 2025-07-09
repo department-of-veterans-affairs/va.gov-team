@@ -1,5 +1,5 @@
 ---
-name: Offboarding request
+name: Offboarding request (individual)
 about: To inform the Platform team when a VA.gov Platform or VFS team member has left
   and needs offboarding.
 title: Individual Offboarding of [individual]
