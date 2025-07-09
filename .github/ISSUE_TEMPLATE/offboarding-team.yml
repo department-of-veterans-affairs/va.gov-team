@@ -27,6 +27,6 @@ body:
     attributes:
       label: Verify all relevant materials provided to Governance Team
       options:
-        - label: [Follow team offboarding guidance](link to platform website page] for updating documentation about your team and your products.
+        - label: Follow team offboarding guidancelink to platform website page for updating documentation about your team and your products.
           required: true
  
