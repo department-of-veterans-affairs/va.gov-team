@@ -23,10 +23,10 @@ body:
       value: |
         Complete these steps before you complete this ticket.
   - type: checkboxes
-    id: artifact-links-checkbox
+    id: follow-team-offboarding
     attributes:
       label: Verify all relevant materials provided to Governance Team
       options:
-        - label: I have provided all relevant and up-to-date links, screenshots, images, designs, etc. of the as-is version of the product
+        - label: [Follow team offboarding guidance](link to platform website page] for updating documentation about your team and your products.
           required: true
  
