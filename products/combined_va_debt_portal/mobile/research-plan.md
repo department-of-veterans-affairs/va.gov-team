@@ -1,7 +1,3 @@
- # 🚧 🚧 🚧 Work in Progress 🚧 🚧 🚧 #
- <br>
- <br>
- 
  	# Research Plan for Mobile Feature Support, Debt Portal: Overpayments and Copayments, May 2025
 
 
@@ -301,9 +297,6 @@ Two cohorts: those who have experience with benefits overpayment debts, and thos
 - `Suggested dates and times:` **July 16 9:00 AM - 11:30 AM / 2:30 PM - 3:30 PM EDT**
 
 ### Prepare
-
-> [!NOTE]
-> **Send pilot participant email in study Slack channel**
 
 - `Pilot participant name:` **Matt Guest**
 - `Date and time of pilot session:` **July 16 2:30 PM EDT** 
