@@ -45,9 +45,10 @@ Provide a short summary of the request. Include context like:
 
 ---
 
-## 🏷️ Lables + Assignees
+## 🏷️ Titles + Lables + Assignees
 
-Add the appropriate labels and assignment.
+Add the appropriate elements to your ticket:
+- [ ] Formatted the GitHub issue title: [Content] Product: Feature - Request
 - [ ] Decision Reviews: `team-DRAGONS` 
 - [ ] BMT 1: `bmt-team-1`
 - [ ] BMT 2: (tbd)
