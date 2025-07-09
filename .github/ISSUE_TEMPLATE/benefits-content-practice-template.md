@@ -9,7 +9,7 @@ assignees: cinlackey
 ## ✏️ Content Support Request
 This is the issue template for requesting content design support for work related to Decision Reviews (DR) and Benefits Management Tools Teams 1 & 2 (BMT 1 & BMT 2).
 
-Please fill out the sections below to help us understand your request, prioritize it effectively, and coordinate with the right stakeholders. [This board](https://github.com/orgs/department-of-veterans-affairs/projects/100/views/1) may be helpful.
+Please fill out the sections below to help us understand your request, prioritize it effectively, and coordinate with the right stakeholders.
 
 ---
 
