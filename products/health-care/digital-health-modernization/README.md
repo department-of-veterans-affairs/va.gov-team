@@ -1,9 +1,9 @@
 # My HealtheVet Web and Mobile Products
-*Current as of July 8, 2025*
+*Current as of July 9, 2025*
 
 ## VA
 **Program Leads and Points of Contact**
-- Lauren Alexanderson - Product Owner
+- Lauren Alexanderson - OCTO Health Portfolio Lead
 - Patrick Bateman - Technical Lead
 - Robyn Singleton - Design/Research Lead
 - Danielle Thierry - Content & Translation Lead
@@ -14,20 +14,23 @@
 
 **Medical Records Points of Contact**
 - Marci McGuire - OCTO Product Lead
+- Robyn Singleton - OCTO Research and Data Design Lead
 
 **Secure Messaging Points of Contact**
 - Patrick Bateman - OCTO Product Lead
+- Robyn Singleton - OCTO Research and Data Design Lead
 
 **Medications Points of Contact**
 - Kay Lawyer - OCTO Product Lead
+- Robyn Singleton - OCTO Research and Data Design Lead
 
 **Medical Devices and Supplies Points of Contact**
-- Patrick Bateman - OCTO Product Lead
-- Kay Lawyer - OCTO Product Lead
+- Marci McGuire - OCTO Product Lead
+- Robyn Singleton - OCTO Research and Data Design Lead
 
 **Portal Landing Page Points of Contact**
 - Marci McGuire - OCTO Product Lead
-
+- Robyn Singleton - OCTO Research and Data Design Lead
 
 
 ## Delivery Team
@@ -106,7 +109,7 @@ Below is a visualization of the future state of delivery team support with five 
 
 
 ## Projects
-- [MyHealtheVet to VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/)
+- [MyHealtheVet on VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/)
 
 
 ## History
