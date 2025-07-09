@@ -49,7 +49,33 @@ body:
     id: last-day
     attributes:
       label: Last day of contract
-      placeholder: (MM/DD/YYYY)
+      description: (MM/DD/YYYY)
     validations:
       required: true
+  - type: input
+    id: pm-gh
+    attributes:
+      label: Team Product Manager GitHub handle
+    validations:
+      required: true
+  - type: input
+    id: va-po-gh
+    attributes:
+      label: VA Product Owner GitHub handle
+    validations:
+      required: true
+  - type: input
+    id: team-readme-link
+    attributes:
+      label: Link to your team’s readme or similar document
+      description: Link to [team readme](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/README.md)
+    validations:
+      required: true
+  - type: checkboxes
+    id: team-info-up-to-date
+    attributes:
+      label: Team information must be up top date.
+      options:
+        - label: My team information document is up to date
+          required: true
  
