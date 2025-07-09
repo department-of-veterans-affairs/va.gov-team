@@ -1,4 +1,4 @@
-# Impact Map
+# Draft Impact Map with Examples
 
 This map describes how upstream systems/processes impact downstream systems/processes.
 
