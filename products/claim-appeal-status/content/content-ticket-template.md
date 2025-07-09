@@ -1,5 +1,7 @@
 ## ✏️ Content Support Request
-_Copy this template into [a new issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=AAAA.md)_
+This is the issue template for requesting content design support for work related to Decision Reviews (DR) and Benefits Management Tools Teams 1 & 2 (BMT 1 & BMT 2).
+
+Please fill out the sections below to help us understand your request, prioritize it effectively, and coordinate with the right stakeholders. [This board](https://github.com/orgs/department-of-veterans-affairs/projects/1720/views/1?visibleFields=%5B%22Title%22%2C%22Assignees%22%2C%22Status%22%2C%22Labels%22%5D) is where we manage and track content-related work across teams. Reach out in Slack to Cindy Lackey if you have questions or need help filling anything out.
 
 ---
 
@@ -18,20 +20,40 @@ _Copy this template into [a new issue](https://github.com/department-of-veterans
 
 ## 📝 Background Context
 
+- What kind of content support is needed? Review [the content design menu](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1746655929211/80067a3f9875681b70f4a854ce74388504c5c1de)
+  - [ ] Workshop facilitation
+    - [ ] [Lean Canvas](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1751495409632/694c26c67107494620afeec155c71a1ef944e46e?sender=uf5838c6c24bc1098b12b5304)
+    - [ ] Scoping (Effort/Impact scoping, Goal setting, other? please discribe)
+    - [ ] [User Story Map](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1751495409632/694c26c67107494620afeec155c71a1ef944e46e?sender=uf5838c6c24bc1098b12b5304)
+    - [ ] Other [describe]
+  - [ ] Define
+    - [ ] Identify content needs
+    - [ ] Analyze existing content (in production)
+  - [ ] Create
+    - [ ] Create new content
+  - [ ] Ideate
+    - [ ] Review content already created by the design team (not yet in production)
+  - [ ] User testing
+    - [ ] Content on prototypes for testing
+    - [ ] Content validation during testing
+    - [ ] Refine content based on testing
+
+
 Provide a short summary of the request. Include context like:  
 - What you’re building  
 - Why the work matters  
-- Where content support is needed
 
 ---
 
-## 📌 Teams
+## 🏷️ Titles + Lables + Assignees
 
-- [ ] Decision Reviews  
-- [ ] BMT 1  
-- [ ] BMT 2  
-
-👉 _Please apply the appropriate team label(s) to this issue._
+Add the appropriate elements to your ticket:
+- [ ] Formatted the GitHub issue title: [Content] Product: Feature - Request
+- [ ] Decision Reviews: `team-DRAGONS` 
+- [ ] BMT 1: `bmt-team-1`
+- [ ] BMT 2: (tbd)
+- [X] `content`
+- [ ] Assignees: `@cinlackey`
 
 ---
 
@@ -45,22 +67,10 @@ Provide a short summary of the request. Include context like:
 
 ## 🔗 Links
 
-- Link to Figma file: [Paste here]  
-- Related GitHub issues: [Paste links here]  
-- Collaboration Cycle ticket (if applicable): [Paste link or number]  
-- Any additional references or docs: [Paste here]
-
----
-
-## 🔍 What problem are we solving?
-
-Describe the user pain point or opportunity this content work addresses.
-
-Also include a **value statement** if not above:
-
-**_As a_**  
-**_I want to_**  
-**_So that_**
+- [ ] Link to Figma file: [Paste here]  
+- [ ] Related GitHub issues: [Paste links here]  
+- [ ] Collaboration Cycle ticket (if applicable): [Paste link or number]  
+- [ ] Any additional references like mural boards: [Paste here]
 
 ---
 
@@ -68,17 +78,29 @@ Also include a **value statement** if not above:
 
 - Timeline expectations or deadlines (e.g., for staging or validation):  
 - Upcoming collaboration cycle stage (if any):  
-- Standing meetings you’d like the content designer to attend:  
+- Standing meetings you’d like the content designer to attend:
+  - [ ] Team stand-up [add date(s)]
+  - [ ] Other [which? add dates]
 - Will you bring this to content office hours?  
-  - If yes, please [add it to this Slack canvas](https://app.slack.com) with your preferred time
+  - [ ] If yes, please [add it to this Slack canvas](https://dsva.slack.com/docs/T03FECE8V/F093XR59XRD)
 
 ---
 
 ## ✅ Stakeholders
 
-- Who needs to review this content before it's final?  
-- Who picks it up next? (e.g., A11y, Design, Eng)  
-- Any other cross-functional partners involved?
+Who picks this work up next?
+- [ ] Implementation team
+  - [ ] Product (Amy)
+  - [ ] Design (Julie)
+  - [ ] Other [describe]
+- [ ] Design
+- [ ] Engineering
+- [ ] Accessibility
+- [ ] Other [describe]
+      
+Any other cross-functional partners involved?
+- [ ] OBA
+- [ ] Other [describe]
 
 ---
 
@@ -101,7 +123,7 @@ Also include a **value statement** if not above:
 ---
 
 ## 📋 Tasks  
-_It’s okay to leave this minimal or blank—content will update as needed_
+_It’s okay to leave this minimal or blank. Content designer will update as needed_
 
 - [ ]  
 - [ ]  
@@ -126,4 +148,5 @@ _(To be completed by the content designer)_
 - [ ] Ready for handoff  
 - [ ] Guidance is clear and accessible  
 - [ ] No outstanding questions or blockers
+
 
