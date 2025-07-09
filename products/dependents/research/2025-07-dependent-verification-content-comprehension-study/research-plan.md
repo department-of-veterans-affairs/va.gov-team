@@ -1,5 +1,5 @@
 
-	# Research Plan for [Dependent Management Team, Dependent Verification update, July 2025]
+	# Research Plan for Dependent Management Team, Dependent Verification update, July 2025
 
 ## Background 🏗️
 <summary>Briefly describe the background of your product.</summary>
@@ -26,61 +26,49 @@
 
 ### [OCTO-DE Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md) 
 
-<summary>Which OCTO priorities does this research support? Work with your VA lead and product manager as needed. </summary>
+<summary>Which OCTO priorities does this research support?</summary>
 
+**This update will include improvements to the UI and backend functionality.**
 
 `Objective 1:  VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.`  
 
 > - **Key Result 1:** Improve satisfaction with our web and mobile products by 5 points.
+> - **Key Result 3:** 100% of transactions received via our digital experiences are either processed correctly or we have notified the user of an error.
 
+`Objective 2: OCTO’s platforms are the fastest, most efficient, and most secure way to deliver products at VA.`
+
+> - **Key Result 2:** We have reduced the total error rates in our platforms by 50% compared to Q4 2024, towards a goal less than 1% per endpoint.
 
 ### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
 
-<details><summary>Where does your product fit into the Veteran journey?
-Are there moments that matter?</summary>
+<summary>Where does your product fit into the Veteran journey? Are there moments that matter?</summary>
 	
-- `Joining`
-- `Serving`
-- `Getting Out`
-- `Starting Up`
-- `Taking Care of Myself`
-- `Reinventing Myself`
-- `Putting Down Roots`
-- `Retiring`
-- `Aging`
-- `Dying`
+**Veterans could verify their dependents at many points in their journey but it is especially relevant to the `Putting Down Roots`stage. Dependents Verification involves the intersection of a Veteran's family and their VA benefits and this stage contains the "Starting, growing, or maintaining my family" and the "Engaging VA to access benefits and services" moments that matter.**
 
-</details>
-
-> [!TIP]
-> Delete journeys not supported by this research.
 
 ## Research Goals 🥅	
 `What are you trying to learn from this research?` 
 
-> [!NOTE]
-> Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.
-
 ### Goals
 
-`1.` **[Enter answer here]**
+`1.` **What type of content on the "Your VA dependents" page, especially in the alert box, is most effective in helping Veterans understand and complete the dependents verification process?**
 
-`2.` **[Enter answer here]**
+`2.` **How is it most natural for Veterans to respond after reviewing the current state of the dependents on their benefits?**
+- **By indicating Yes they need to make changes or No they do not need to make changes**
+- **OR by indicating Yes the current information is correct or No the current information is not correct**
 
-`3.` **[Enter answer here]** 
+`3.` **Do Veterans understand that if they need to make changes to the dependents on their VA benefits they will need to fill out an additional form after completing this flow?** 
   
 ### Outcome
 `How will this research advance your product to the next phase in the design process? What will you do with your learnings?`
 
 ---
 
-**[Enter outcome here]** 
+**The findings will be used to update the content in the dependents verification flow to help Veterans understand and complete the process. Verifying dependents decreases the amount of over- and under-payments for dependent-related benefits** 
 
 ---
 
 ### Research questions
-> [!NOTE]
-> Do not write out all questions you plan to ask participants -- that should go in the` [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)
 
 ***Consider bucketing research questions under research goals and think about:***
 	
