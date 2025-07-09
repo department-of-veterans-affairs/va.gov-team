@@ -15,9 +15,10 @@
 
 `List and complete any project-specific setup tasks for this study below:`
 
-- [ ] Step 1
-- [ ] Step 2
-- [ ] Step 3
+- [ ] Set up sign-up sheet for observers
+- [ ] Highlight highest priority questions
+- [ ] Set up Mural board for observers to add notes
+- [ ] Write custom template note for observers
 
 ### Day of the session
 
