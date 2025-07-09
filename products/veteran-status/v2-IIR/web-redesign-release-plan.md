@@ -111,7 +111,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
   - Percentage of CONFIRMED users : 79.5%
   - Percentage of NOT CONFIRMED, not eligible users : 1.9%
   - Percentage of NOT CONFIRMED, other reasons : 18.6%
-  - Percentage of API errors: 0.7%
+  - Percentage of API errors: .7%
 - Was any downstream service affected by the change?: No
 - Types of errors logged: N/A
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? None
