@@ -20,10 +20,28 @@ Please fill out the sections below to help us understand your request, prioritiz
 
 ## 📝 Background Context
 
+- What kind of content support is needed? Review [the content design menu](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1746655929211/80067a3f9875681b70f4a854ce74388504c5c1de)
+  - [ ] Workshop facilitation
+    - [ ] [Lean Canvas](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1751495409632/694c26c67107494620afeec155c71a1ef944e46e?sender=uf5838c6c24bc1098b12b5304)
+    - [ ] Scoping (Effort/Impact scoping, Goal setting)
+    - [ ] [User Story Map](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1751495409632/694c26c67107494620afeec155c71a1ef944e46e?sender=uf5838c6c24bc1098b12b5304)
+    - [ ] Other [describe]
+  - [ ] Define
+    - [ ] Identify content needs
+    - [ ] Analyze existing content (in production)
+  - [ ] Create
+    - [ ] Create new content
+  - [ ] Ideate
+    - [ ] Review content already created by the design team (not yet in production)
+  - [ ] User testing
+    - [ ] Content on prototypes for testing
+    - [ ] Content validation during testing
+    - [ ] Refine content based on testing
+
+
 Provide a short summary of the request. Include context like:  
 - What you’re building  
 - Why the work matters  
-- Where content support is needed
 
 ---
 
