@@ -27,13 +27,14 @@ Provide a short summary of the request. Include context like:
 
 ---
 
-## 📌 Teams
+## 🏷️ Lables + Assignees
 
-- [ ] Decision Reviews  
-- [ ] BMT 1  
-- [ ] BMT 2  
-
-👉 _Please apply the appropriate team label(s) to this issue._
+Add the appropriate labels and assignment.
+- [ ] Decision Reviews: `team-DRAGONS` 
+- [ ] BMT 1: `bmt-team-1`
+- [ ] BMT 2: (tbd)
+- [ ] `content`
+- [ ] Assignees: `@cinlackey`
 
 ---
 
@@ -56,13 +57,7 @@ Provide a short summary of the request. Include context like:
 
 ## 🔍 What problem are we solving?
 
-Describe the user pain point or opportunity this content work addresses.
-
-Also include a **value statement** if not above:
-
-**_As a_**  
-**_I want to_**  
-**_So that_**
+Describe the user pain point or opportunity that this content work addresses.
 
 ---
 
@@ -72,15 +67,25 @@ Also include a **value statement** if not above:
 - Upcoming collaboration cycle stage (if any):  
 - Standing meetings you’d like the content designer to attend:  
 - Will you bring this to content office hours?  
-  - If yes, please [add it to this Slack canvas](https://app.slack.com) with your preferred time
+  - If yes, please [add it to this Slack canvas]([https://app.slack.com](https://dsva.slack.com/docs/T03FECE8V/F093XR59XRD))
 
 ---
 
 ## ✅ Stakeholders
 
-- Who needs to review this content before it's final?  
-- Who picks it up next? (e.g., A11y, Design, Eng)  
-- Any other cross-functional partners involved?
+Who picks this work up next?
+- [ ] Implementation team
+  - [ ] Amy, PM
+  - [ ] Julie, Design
+  - [ ] other
+- [ ] Design
+- [ ] Engineering
+- [ ] Accessibility
+- [ ] Other (describe)
+      
+Any other cross-functional partners involved?
+- [ ] OBA
+- [ ] Other (describe)
 
 ---
 
