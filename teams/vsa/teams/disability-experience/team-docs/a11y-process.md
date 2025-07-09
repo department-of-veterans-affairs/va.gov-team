@@ -1,6 +1,6 @@
 # How to Utilize A11y Resources on Disability Benefits
 
-**This flow diagram applies to the Disability Benefits 1, Disability Benefits 2, Disability Conditions, and Employee Experience teams only.**
+**This flow diagram only applies to teams in the Disability Benefits Crew.**
 
 ---
 
