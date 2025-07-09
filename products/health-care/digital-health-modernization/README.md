@@ -78,24 +78,24 @@ During the transition period, the delivery team will work across all patient por
 |Name|Role|Primary Email|VA Email|DSVA Slack|GitHub|
 |----|----|-----|-----|-----|-----|
 | TBD | Data Specialist | TBD | TBD | TBD | TBD |
-| TBD | Product Manager | TBD | TBD | TBD | TBD |
-| TBD | Product Manager | TBD | TBD | TBD | TBD |
+| starting 7/21 | Product Manager | TBD | TBD | TBD | TBD |
+| starting 7/21 | Product Manager | TBD | TBD | TBD | TBD |
 | TBD | Mobile Engineer | TBD | TBD | TBD | TBD |
+| starting 7/14 | Backend Engineer | TBD | TBD | TBD | TBD |
 | TBD | Backend Engineer | TBD | TBD | TBD | TBD |
-| TBD | Backend Engineer | TBD | TBD | TBD | TBD |
+| starting 7/28 | Frontend Engineer | TBD | TBD | TBD | TBD |
 | TBD | Frontend Engineer | TBD | TBD | TBD | TBD |
 | TBD | Frontend Engineer | TBD | TBD | TBD | TBD |
 | TBD | Frontend Engineer | TBD | TBD | TBD | TBD |
 | TBD | Frontend Engineer | TBD | TBD | TBD | TBD |
-| TBD | Frontend Engineer | TBD | TBD | TBD | TBD |
-| TBD | Fullstack Engineer | TBD | TBD | TBD | TBD |
+| starting 7/14 | Fullstack Engineer | TBD | TBD | TBD | TBD |
 | TBD | Fullstack Engineer | TBD | TBD | TBD | TBD |
 | TBD | Fullstack Engineer | TBD | TBD | TBD | TBD |
 | TBD | QA Engineer | TBD | TBD | TBD | TBD |
 | TBD | QA Engineer | TBD | TBD | TBD | TBD |
+| starting 7/28 | Designer | TBD | TBD | TBD | TBD |
 | TBD | Designer | TBD | TBD | TBD | TBD |
-| TBD | Designer | TBD | TBD | TBD | TBD |
-| TBD | Accessibility Specialist | TBD | TBD | TBD | TBD |
+| starting 7/21 | Accessibility Specialist | TBD | TBD | TBD | TBD |
 | TBD | Researcher/Information Architect | TBD | TBD | TBD | TBD |
 
 </details>
