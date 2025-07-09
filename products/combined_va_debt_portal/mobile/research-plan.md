@@ -306,7 +306,7 @@ Two cohorts: those who have experience with benefits overpayment debts, and thos
 > **Send pilot participant email in study Slack channel**
 
 - `Pilot participant name:` **Matt Guest**
-- `Date and time of pilot session:` **[Enter time]** 
+- `Date and time of pilot session:` **July 16 2:30 PM EDT** 
 
 ### Research sessions
 - `Planned dates of research:` **07/24-08/01**
