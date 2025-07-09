@@ -59,22 +59,6 @@ Becky: Yeah. I'm curious, do you usually contact the VA or do you usually try to
 
 > P10: So I went to va.gov to and they give you like a, a toll free number and their toll free number was not good either. So I said, what am I gonna do now?
 
-> P10:
-
-> P10:
-
-> P10:
-
-> P10:
-
-> P10:
-
-> P10:
-
-> P10:
-
-> P10:
-
 # Participant 10 transcript
 - Date: 9/16/2024
 - Time: 2:30-3:30pm
