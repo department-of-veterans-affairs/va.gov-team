@@ -1,11 +1,13 @@
 # Research Report: Tab Usage Across VA Digital Products
 **Date:** July 2025
+
 **Context:** This report summarizes input from various teams in response to a [GitHub discussion](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/discussions/4443) on best practices and current implementations of tab patterns within VA digital products. The goal is to better understand where and how tabs are being used, limitations of the current approaches, and considerations for improving design consistency.
+
 **Mockups:** [Figma file with shared designs](https://www.figma.com/design/QTlVlmSfEkJC7nSWOExESk/Tabs-audit?node-id=0-1&p=f&t=mwuIlMRLrmfINHsX-0)
 
 ---
 
-## 🔍 Key Questions Asked
+## 🔍 Questions Asked
 
 1. **How many tabs do you typically use before the UX breaks down?**  
 2. **What are your most common use cases for tabs?**  
@@ -43,7 +45,7 @@
 
 ## ✅ Observations
 
-- All use cases showed three or less tabs. 
-- Tabs can create complexity when you have many navigational elements on the page like tertiary buttons or side navigation. 
-- All use cases use a stacked tab layout when tabs overflowed on the screen. 
-- URL based navigation vs. in-page updates is a hurdle teams are having to navigate when considering what navigational element to use. 
+- All reported use cases included three or fewer tabs.
+- Tabs can introduce complexity when combined with other navigation elements like tertiary buttons or side navigation, making layout and hierarchy harder to manage.
+- In all examples, teams used a stacked tab layout when tabs overflowed, especially on smaller screens.
+- Teams are grappling with the choice between URL-based navigation and in-page tab updates, which adds complexity to deciding the most appropriate navigation pattern. 
