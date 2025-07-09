@@ -64,9 +64,16 @@ Add the appropriate elements to your ticket:
 
 ## 🚦 Priority Level
 
-- [ ] High (must complete before next sprint ends)
-- [ ] Medium (important, but not urgent)
-- [ ] Low (nice to have, not time-sensitive)
+- [ ] **High**: Must complete before the next sprint ends (e.g., blocks other work, part of the Collaboration Cycle, or has an external deadline)
+- [ ] **Medium**: Important but not urgent (e.g., unblocks near-future work or is needed for an upcoming milestone)
+- [ ] **Low**: Nice to have (e.g., not time-sensitive, no major dependencies, won’t block others if delayed)
+
+---
+
+## 🛠️ Effort Level  
+- [ ] **Small**: Simple revision (e.g., editing a sentence or two)  
+- [ ] **Medium**: Moderate update (e.g., editing a couple of sections or revising a page)  
+- [ ] **Large**: Full review and rework (e.g., multiple screens, new content, or net-new flow)  
 
 ---
 
