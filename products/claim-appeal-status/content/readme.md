@@ -1,6 +1,6 @@
 # 📝 Content Request Ticket Template
 
-This repository holds the [**Content Request Ticket Template**](products/claim-appeal-status/content/content-ticket-template.md) for use across the Cross Benefits Decision Reviews (DR) and Benefits Management Tools teams 1 & 2 (BMT 1 & BMT 2). The template is designed to standardize intake, ensure the content designer has what they need to begin work and support clear prioritization in the shared [Content board](https://github.com/orgs/department-of-veterans-affairs/projects/1720/views/1).
+This repository holds the [**Content Request Ticket Template**]([products/claim-appeal-status/content/content-ticket-template.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/content/content-ticket-template.md)) for use across the Cross Benefits Decision Reviews (DR) and Benefits Management Tools teams 1 & 2 (BMT 1 & BMT 2). The template is designed to standardize intake, ensure the content designer has what they need to begin work and support clear prioritization in the shared [Content board](https://github.com/orgs/department-of-veterans-affairs/projects/1720/views/1).
 
 ---
 
