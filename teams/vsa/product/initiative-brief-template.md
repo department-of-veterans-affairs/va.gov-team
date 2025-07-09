@@ -79,6 +79,14 @@
   - Examples: 
     - VA stakeholder testing, marketing, compliance requirements 
 
+### Supporting research
+
+- *Is this work supported by user research?* 
+  - *If this work **is supported by user research**, please cite the user research by providing links to our [VA.gov research repo](https://github.com/department-of-veterans-affairs/va.gov-research-repository)*
+  - *If this work is **not supported by existing user research**, will this work include user research?*
+    - *If this work **will include user research**, please briefly state what you hope to learn from that research.*
+    - *If this work **does not cite nor include user research**, please state why and be prepared to defend your decision.*
+
 ### What're you building
 > *What's in scope for you to build with this initiative? Describe key features/flows. 
 > *What have you explicitly decided to **not** include and why?*
