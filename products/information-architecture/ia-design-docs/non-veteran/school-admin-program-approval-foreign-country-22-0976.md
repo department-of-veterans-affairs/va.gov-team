@@ -1,5 +1,5 @@
 # IA Design for School Official: Foreign country program approval - Form 22-0976
-**STATUS: DRAFT**
+**STATUS: Ready for OCTO review**
 
 **Team:** VEBT team
 - Team name: govcio-vebt
@@ -18,7 +18,6 @@
 - [URL, H1, title tag and breadcrumb guidance](#urls)
 - [Entry points](#nav)
 - [Redirects](#redirects)
-- [Supporting information](#supportinginfo)
 
 
 ## <a name="flows"></a>User/page flows
@@ -36,7 +35,8 @@ _Illustration of of page flow._
 
 - These online form flows will live under the www.va.gov/school-administrators/ sub-directory
 
-<img width="493" alt="image" src="https://github.com/user-attachments/assets/1b423a48-4ec0-4966-a453-682e4549cc39" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/26e1b9e2-4045-4148-8292-b268d6b08202" />
+
 
 
 ## <a name="urls"></a>URL, breadcrumb, and title guidance
@@ -45,8 +45,9 @@ Follow the [VA Design System](https://design.va.gov/) for URL, breadcrumb, and p
 - [URLs](https://design.va.gov/components/url-standards/)
 - [H1s (Page titles and section titles)](https://design.va.gov/content-style-guide/page-titles-and-section-titles)
 - [Breadcrumbs](https://design.va.gov/components/breadcrumbs)
-- [Title tags](https://design.va.gov/content-style-guide/title-tags)*
+- [Title tags](https://design.va.gov/content-style-guide/title-tags)
 
+Also review [Capitalization](https://design.va.gov/content-style-guide/capitalization) for standards for headings vs.title tags
 
 **Approval of Program in a Foreign Country VA Form 22-0976**
   - URL:  va.gov/school-administrators/apply-for-approval-of-program-in-foreign-country-form-22-0976/
@@ -55,17 +56,17 @@ Follow the [VA Design System](https://design.va.gov/) for URL, breadcrumb, and p
     - Once this URL renders, form logic should redirect the visitor to the first page within the form flow - per standards this is generally /introduction
   - Breadcrumb:  VA.gov home > Resources for schools > [H1 of form introduction page] 
     - Per the standard breadcrumb component, the last segment of the breadcrumb must match the H1 of the page exactly
-    - Example based on H1 in Figma: VA.gov home > Resources for schools > Apply for approval of a program in a foreign country
+    - Example based on H1 in Figma: VA.gov home > Resources for schools > Apply for the approval of a program in a foreign country
   - Browser title: [H1 of introduction page in title case] | Veterans Affairs
-    - Example basedon H1 in Figma: Update Your Institution's List Of Certifying Officials | Veterans Affairs
+    - Example based on H1 in Figma: Apply for the Approval of a Program in a Foreign Country | Veterans Affairs
 
 
 **Structuring URLs for individual pages within the form flows**
 - All pages within form flows will exist as child pages of the core/canonical URL.
   - Examples:
-      - ww.va.gov/school-administrators/update-certifying-officials/introduction/
-      - ww.va.gov/school-administrators/update-certifying-officials/review-and-submit/
-      - ww.va.gov/school-administrators/update-certifying-officials/confirmation/
+      - ww.va.gov/school-administrators/apply-for-approval-of-program-in-foreign-country-form-22-0976/introduction/
+      - ww.va.gov/school-administrators/apply-for-approval-of-program-in-foreign-country-form-22-0976/review-and-submit/
+      - ww.va.gov/school-administrators/apply-for-approval-of-program-in-foreign-country-form-22-0976/confirmation/
   - Please refer to [URL standards for form flows](https://design.va.gov/components/url-standards/#guidelines-for-urls-in-form-flows) when defining the URLs for these pages.  Reach out to #content-ia-centralized-team with any questions.
 
 
@@ -77,16 +78,10 @@ Follow the [VA Design System](https://design.va.gov/) for URL, breadcrumb, and p
   - This page is the parent of both the online forms  and must include a link within the content of the page.
   - The VEBT will be responsible for identifying where on the page these links should be placed and implementing them.
 
-**2) About VA Form 22-1919**
+**2) About VA Form 22-0976**
 - This is a standard page that is part of the "Find VA forms" experience.  It has a standard approach to page content and links.
-- The OCTO Content and IA team will create and publish this page at https://www.va.gov/find-forms/about-form-22-1919/.  This may be done prior to the launch of the online form.
+- The OCTO Content and IA team will update this page at https://www.va.gov/find-forms/about-form-22-0976/.  
 - Once the online form is launched, the OCTO Content and IA team will ensure a CTA is added to the page to allow visitors to link to the online version of the form.  
-
-**2) About VA Form 22-8794**
-- This is a standard page that is part of the "Find VA forms" experience.  It has a standard approach to page content and links.
-- The OCTO Content and IA team will create and publish this page at https://www.va.gov/find-forms/about-form-22-8794/.  This may be done prior to the launch of the online form.
-- Once the online form is launched, the OCTO Content and IA team will ensure a CTA is added to the page to allow visitors to link to the online version of the form.
-
 
 ## <a name="redirects"></a>Redirects
 *Redirects should be implemented when a page is moved or archived to ensure visitors do not receive a "404 - Page not found" error.*
@@ -96,35 +91,3 @@ The product team is responsible for identifying, requesting, and implementing an
 **Please note that ALL redirects require you to submit a [Redirect Request Issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=redirect-request.md) to be reviewed and approved before implementing.** Please submit at least 2 weeks in advance.*  
 
 
- 
-
-<hr>
-<hr>
-
-  ## <a name="supportinginfo"></a>Supporting information
-
-**Search data for: www.va.gov/school-administrators/**
-
-Summary: These forms are not currently available in a digital format or through search, so data is for related search terms resulting in traffic/clicks to the /school administrators page. 
-- 12 month period
-- On-site search clicks: 3,341
-  - Queries and resulting clicks
-    - official - ~105
-    - sco - ~850
-    - certify - ~120
-    - 1919 - 0
-    - 8794 - 0
-    - conflict - 0
-    - designate - 2
-    - interest - 0
-- Google clicks: 7,953
-  - Queries and resulting clicks (all queries including the term)
-    - official - 172 clicks, 33.9% CTR
-    - sco - 1k, 12.7% CTR
-    - certify - 172, 33.9% CTR
-    - 1919 - 1
-    - 8794 - 0
-    - conflict - 0
-    - proprietary - 0
-    - designate - 0
-    - interest - 0
