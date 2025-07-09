@@ -66,7 +66,8 @@ This summary demonstrates the need to design for flexible workflows, organizatio
 
 Based on November 2024 data from OGC, there are about 80 VSOs with accredited representatives. The following chart shows a breakdown of VSO types according to National VSOs and State/Territory/Tribe VSOs and one Local VSO. More detailed descriptions of these types are below.
 
-![](data:image/png;base64...)
+![Screenshot 2025-07-09 at 8 19 59 AM](https://github.com/user-attachments/assets/60de9c31-56ee-467e-a89c-57d5b7ab07e6)
+
 
 * National VSOs are organizations that serve Veterans nationwide. Many of these are member-based organizations like The American Legion (AL) or Disabled American Veterans (DAV). Some are non member-based organizations like the Dale K. Graham Veterans Foundation. The most influential national VSOs are referred to as “The Big 6,” and these include the following:
   + Disabled American Veterans
@@ -119,7 +120,7 @@ The following diagram represents a centralized model like the Veterans of Foreig
 
 Note: This diagram is based on the VFW National Veterans Service Policy and Procedure document.
 
-![](data:image/png;base64...)
+![Screenshot 2025-07-09 at 8 20 56 AM](https://github.com/user-attachments/assets/4cab593f-ab00-452e-a90b-724a0f266050)
 
 The Wounded Warrior Project, a national VSO, also has local Post Service Officers who are volunteers, and they help Veterans and other claimants complete forms, while other Veterans Service Officers who are accredited formally sign-off on legal documents, e.g. Form 21-22. People who are responsible for activities related to legal representation may or may not be the same as those who support Veteran access to other local or community resources.
 
@@ -151,11 +152,13 @@ VSO representatives, claims agents and attorneys are the three types of accredit
 
 Overall, there are about 7992 VSO representatives listed from the November 2024 download of OGC data, and 8050 when counting attorneys and legal assistants from NVLS.[[3]](#footnote-2) About 53% of VSO representatives have single-accreditation, about 47% are cross-accredited with 2 to 8 VSOs.
 
-![](data:image/png;base64...)
+![Screenshot 2025-07-09 at 8 21 58 AM](https://github.com/user-attachments/assets/6f71199a-d279-4fe4-9e63-e52128b8b4e4)
+
 
 Both National and State/County VSOs have single-accredited representatives. Single-accredited representatives are only legally able to represent claimants who file POAs with their organization; cross-accredited representatives can potentially accept POA requests across different organizations. VSO representatives, in general, state there are no differences in how they provide services based on single or multiple-accreditations.
 
-![](data:image/png;base64...)
+![Screenshot 2025-07-09 at 8 22 37 AM](https://github.com/user-attachments/assets/83fc7e87-0f2c-4544-a65a-33e9e54b6d92)
+
 
 Representatives seek cross-accreditation to more quickly access Veterans files in VBMS; the more accreditations they have the more likely the Veteran will have POA with one of their organizations. Some State VSOs encourage their representatives to be cross-accredited for this reason ([See ARM cross accredited rep research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/2024-08-ARM-appointarep-crossaccreditedVSOR-usertest/research-findings.md#vsor-cross-accreditation)).
 
@@ -163,13 +166,15 @@ VSO representatives can hold positions across different types of organizations. 
 
 Also, to reference VFW’s organizational structure, accredited representatives do not need to be Veterans Service Officers. Someone who is an accredited representative may play a central staff administrative role, who accepts POA requests to start the workflow for other Veterans Service Officers to represent claimants further.
 
-![](data:image/png;base64...)
+![Screenshot 2025-07-09 at 8 23 15 AM](https://github.com/user-attachments/assets/17d3cd08-e6b1-49b6-a2f9-30fbfc67441e)
+
 
 For example, Douglas is a state accredited representative who has a cross-accreditation with VFW. He can accept a POA for this Veteran for his state of Illinois, but may not be able to accept a POA request for VFW though he can view it. In this case, Douglas would name the Illinois Department of Veterans Affairs his primary VSO. Some VSO representatives, however, do not know their primary VSO, nor do they know why they would need to identify one as the primary. ([See ARM cross accredited rep research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/2024-08-ARM-appointarep-crossaccreditedVSOR-usertest/research-findings.md#vsor-cross-accreditation)).
 
 The following chart shows the distribution of accredited representatives at organizations with the most accredited representatives. Many of these representatives could be double, triple, or even quadruple counted. Though American Legion’s count of representatives is the highest, this number could also be an anomaly.
 
-![](data:image/png;base64...)
+![Screenshot 2025-07-09 at 8 23 43 AM](https://github.com/user-attachments/assets/1d178b7a-b92a-404a-94de-a52738ce2952)
+
 
 When it comes to workloads, State/County VSOs appear to have the highest; one State/County VSO representative can have 5,000 - 10,000 claimants. While this observation is based on small sample sizes, it is one that persists across various studies. The backlog is long, and the need for efficiency is very high. For national VSOs, the workload per organization’s representative likely varies, with “the Big Six” handling the most volume of claimants.
 
