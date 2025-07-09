@@ -1,7 +1,5 @@
 # 🔧 Accessibility Support Request
 
-Please copy this template into the issue to request Accessibility support 😊
-
 ## I am requesting...
 
 **Design / Research**
