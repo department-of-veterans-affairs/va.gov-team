@@ -1,4 +1,4 @@
-# Draft of COE Research Plan
+# COE Research Plan
 
 
 	# Research Plan for [IIR, Request for Certificate of Eligibility (COE), 3/24/25]
