@@ -18,13 +18,13 @@ We will accomplish this by:
 
 ## Benefits of well-designed IA
 
-Good IA can help improve a visitor's experience by
-- **Organizing and grouping information** in ways that meet the mental model and various needs of our visitors – i.e. by benefit, by audience, or by their journey
-- **Prioritizing information** to help visitors quickly understand what’s available and avoid overloading them with too much information 
-- **Labeling features in a relevant, concise, and consistent way** so visitors understand what something is and can recognize and find it across channels
-- **Surfacing information multiple ways** to help with findability and discoverability
-- **Ensuring consistent and accurate navigation** elements to help with wayfinding and forward progression
-- **Creating efficient and logical pathways** to and through information – accounting for the various ways a visitor can enter and exit your content and feature
+A well-designed and maintained IA improves a visitor's experience in these ways:  
+- Organizes and groups information to meet the mental model and various needs of our visitors – such as by benefit, by audience, or by where they are in their journey 
+- Prioritizes information to help visitors quickly understand what they most need to know without overloading them with too much detail unless or until they need it 
+- Labels features (such as sections of content or digital tools) in a relevant and consistent way so visitors understand what each feature is and can recognize and find it across experiences 
+- Surfaces information in multiple ways to help visitors find what they need and discover what they might not know they have access to no matter how they enter or navigate our digital experiences 
+- Ensures consistent and accurate navigation elements to help visitors can easily find their way through experiences and move toward their next action 
+- Creates efficient and logical pathways through information to allow visitors to successfully complete tasks 
 
 In addition, well-organized content that utilizes clear and relevant labeling also helps
 - Improve SEO 
@@ -35,7 +35,7 @@ In addition, well-organized content that utilizes clear and relevant labeling al
 
 ## Key Principles in Information Architecture
 
-1. Objects - Create a flexible and adaptable IA to accomodate content and information that evolves over time. 
+1. Objects - Create a flexible and adaptable IA to accomodate content and information that evolves over time.
 2. Choices - Limit options and choices to reduce cognitive load and help visitors make easy and informed decisions by keeping options focused and relevant. 
 3. Disclosure - Gradually reveal information and allow visitors to explore more detailed information at their own pace to create a more engaging and understandable experience.
 4. Exemplars - Provide context and information to help visitors understand the contents within a category or section and help them to better navigate and discover relevant information.
@@ -46,12 +46,22 @@ In addition, well-organized content that utilizes clear and relevant labeling al
 
 ## IA Principles at VA (DRAFT)
 
-1. Always provide a sense of place. Utilize design components and content to ensure visitors know where they are within the experience and where they can go next.
-2. Provide a consistent omnichannel experience.  Organizational structure and labeling should be as consistent as possible between different touchpoints - digital and physical.  
-3. Provide time-sensitive and urgent information at the right time and place without creating urgency.  Prioritize information to ensure information is easy to find at time of need and information critical to the safety and well-being of visitors is quickly accessible.
-4. Present information in the right place and in the right way to meet the needs of visitors in the context in which they need it.  Visitors arrive at a VA digital experience with a range of situations and needs that impact how they look for and understand the information. 
-5. Provide simple and focused pathways to and through information to reduce cogntive load, friction, and burden.  Learning about, applying for, and managing benefits often involves time-consuming and complex information and task flows.  
-6. Ensure every page and feature provides value and a call to action. 
+1. USER-CENTERED DESIGN
+    - Conduct user research to understand how people categorize and search for information 
+2. SENSE OF PLACE
+    - Always provide a sense of place by utilizing design components and content to ensure visitors know where they are within the experience and where they can go next.
+3. CONSISTENCY
+    - Use a consistent organizational structure and labels across different touchpoints - digital and physical.
+4. PRIORIZATION
+    - Limit and prioritize information to ensure its easy to find at time of need, reduce cognitive load, and allow visitors to explore more detailed information at their own pace.
+5. FINDABILITY
+    - Present information in the right place and in the right way to meet the mental models and needs of visitors.
+    - Offer multiple ways for visitors to find and access information in order to meet various mental models and help them easily find the information they need.
+6. FOCUSED NAVIGATION
+    - Use clear navigation menus and labeling to ensure visitors understand the types of information it leads to.
+    - Provide clear CTAs and focused pathways to and through information to reduce cogntive load, friction, and burden.
+7. SCALABILITY
+    - Design a flexible IA and organizational system that allows content and information to grow and evolve over time
 
 
 ## Key information
