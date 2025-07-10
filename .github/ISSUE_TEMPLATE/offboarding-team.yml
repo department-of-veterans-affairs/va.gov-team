@@ -231,3 +231,9 @@ body:
         - "Unsure"
     validations:
       required: false
+  - type: markdown
+    attributes:
+      value: |
+        If you have more products to add, submit this ticket then copy/paste the product section.
+
+        All done, you can submit. Don't fill out or modify anything below here.
