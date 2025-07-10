@@ -10,7 +10,7 @@
 - Research: Robyn Singleton
 - Engineering: Mark Dewey, Adrian Rollett, Steve Mason
 
-## Product Teams
+## Product Team Members
 
 ### Landing Page/Portal Experience
 - Slack channel: [#mhv-on-vagov-cartography-team](https://dsva.slack.com/archives/C0581MN69TJ)
@@ -41,8 +41,7 @@ OCTO falls under the VA's Office of Information and Technology (OIT).  Its missi
 
 <img width="1316" height="668" alt="image" src="https://github.com/user-attachments/assets/146c6ee2-bcc9-43fa-b8dd-a8449cc911d2" />
 
-### OCTO History
-### OCTO structure
+### OCTO Structure
 OCTO is made up of six portfolios: 
 #### Digital Experience
 Mission: Continuously deliver high-quality digital experiences for the benefit of all Veterans and their families.
