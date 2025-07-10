@@ -17,7 +17,7 @@ body:
         Product managers should complete this ticket when a VFS team is offboarding, after all team and product information has been updated per the [team offboarding guidance](https://www.google.com/maps) and [individual offboarding tickets](https://www.google.com/maps) have been created. 
   - type: markdown
     attributes:
-      value: "## Step 1: before you submit this ticket"
+      value: "### Step 1: before you submit this ticket"
   - type: checkboxes
     id: follow-team-offboarding
     attributes:
@@ -30,7 +30,7 @@ body:
           required: true
   - type: markdown
     attributes:
-      value: "## Team information"
+      value: "### Step 2: Team information"
   - type: markdown
     attributes:
       value: |
@@ -74,4 +74,19 @@ body:
       options:
         - label: My team information document is up to date
           required: true
- 
+  - type: markdown
+    attributes:
+      value: "### Step 3: Product information"
+  - type: markdown
+    attributes:
+      value: |
+        Complete the product information section for each of your team’s products. If you have more products to add, copy/paste to add more sections.
+  - type: markdown
+    attributes:
+      value: "#### Product 1"
+  - type: input
+    id: product-name-1
+    attributes:
+      label: Product name
+    validations:
+      required: true
