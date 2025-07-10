@@ -31,7 +31,7 @@ A list of organizations and representatives were downloaded from the Office of G
 
 [VSO Rep orgsexcellist NO NVLS](https://docs.google.com/spreadsheets/d/1CVDbFJkxRII6JPXDbSZQoiFlBvb03sX9Kslvaq69U58/edit?usp=sharing)
 
-[Single accredited reps](https://docs.google.com/spreadsheets/d/1PbSJblSeh3XDuTb8o9IYf2g2uZbtMmmxfFNOpGctCnw/edit?usp=sharing)
+[Single accredited reps](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Background%20Research/VSO%20Landscape%20Summary/Single%20accredited%20reps.xlsx?d=wdef5ca41a6414fc5a3c66832bff0aef6&csf=1&web=1&e=MCHonS)
 
 Notes on organizational data in spreadsheets:
 
