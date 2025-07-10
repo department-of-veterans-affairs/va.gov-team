@@ -12,9 +12,7 @@ Jump to:
 
 - [Hypotheses and conclusions](#hypotheses-and-conclusions)
 - [Key findings](#key-findings)
-- [Recommendations](#recommendations)
 - [Who we talked to](#who-we-talked-to)
-- [Further research needed](#further-research-needed)
 
 ## Research Goals
 
@@ -100,12 +98,19 @@ Audience segment:
 \* Family members of a Veteran: 0
 
 Gender:  
-\* Male: 9  
-\* Female: 0
+\* Male: 158
+
+\* Female: 54
+
+\* No Answer: 4
+
+\* Non-Binary: 7
+
+\* Transgender: 4
 
 LGBTQ+:  
-\* Transgender: 0  
-\* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x  
+\* Transgender: 4  
+\* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 7 
 \* Gay, lesbian, or bisexual: 0
 
 Devices used during study:  
@@ -115,21 +120,23 @@ Devices used during study:
 \* Assistive Technology: 0
 
 Age:  
-\* 25-34: 0  
-\* 35-44: 3  
-\* 45-54: 0  
-\* 55-64: 1  
-\* 65+: 5  
-\* Unknown: 0
+\* 18-34: 12
+
+\* 35-54: 76 
+
+\* 55-64: 53  
+
+\* 65+: 80  
+
+\* Unknown: 6
 
 Education:  
-\* High school degree or equivalent: 3  
-\* Some college (no degree): 3  
-\* Associate's degree, trade certificate or vocational training: 2  
-\* Bachelor's degree: 1  
-\* Master's degree: 0  
-\* Doctorate degree: 0  
-\* Unknown: 0
+\* High school degree or equivalent: 30  
+\* Some college (no degree): 38  
+\* Associate's degree, trade certificate or vocational training: 39  
+\* Bachelor's degree: 60  
+\* Master's/Doctoral degree: 57
+\* Unknown: 3
 
 Geographic location:  
 \* Urban: N/A  
@@ -137,12 +144,13 @@ Geographic location:
 \* Unknown: 0
 
 Race:  
-\* White: 4  
-\* Black: 2  
-\* Hispanic: 2  
+\* White: 146 
+\* Black: 36
+\* Hispanic: 7  
 \* Biracial: 0  
-\* Asian: 0  
-\* Native: 1
+\* Asian: 11
+\* Native: 15
+\* No answer: 12
 
 Disability and Assistive Technology (AT):  
 \* Cognitive: 0  
