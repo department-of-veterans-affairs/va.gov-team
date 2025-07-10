@@ -14,20 +14,19 @@ body:
   - type: markdown
     attributes:
       value: |
-        Product managers should complete this ticket when a VFS or platform team is offboarding and handing off ownership of its products. 
+        Product managers should complete this ticket when a VFS team is offboarding, after all team and product information has been updated per the [team offboarding guidance](https://www.google.com/maps) and [individual offboarding tickets](https://www.google.com/maps) have been created. 
   - type: markdown
     attributes:
-      value: "### Step 1: before you submit this ticket"
+      value: "## Step 1: before you submit this ticket"
   - type: checkboxes
     id: follow-team-offboarding
     attributes:
       label: Complete these steps before you complete this ticket.
       description: Review [team offboarding guidance](https://www.google.com/maps) and [individual offboarding ticket](https://www.google.com/maps)
       options:
-        - label: I have followed the Follow team offboarding guidancelink to platform website page for updating documentation about your team and your products.
-          description: Review [team offboarding guidance](https://www.google.com/maps) and [individual offboarding ticket](https://www.google.com/map
+        - label: I have updated all my team and product information and provided access per the team offboarding guidance.
           required: true
-        - label: Submit an individual offboarding ticket for each team member
+        - label: I have submitted individual offboarding tickets for each team member.
           required: true
   - type: markdown
     attributes:
