@@ -110,7 +110,7 @@
 |Applications | Monthly Average Baseline (Jan 2022-Jan 2023)| Target | 1 Month after launch (2/14-3/14)|5 months aver launch (2/14-6/14)|
 |--------|-----------------------|----------|--------------------|--------------------|
 |Total Apps Rerouted | 423 | TBD | TBD |
-|Total Apps Submitted | 5,923 | No Change | TBD |
+|Total Apps Submitted | 5,923 | No decrease | TBD |
 
 
 #### Key result: Maintain or reduce the amount of time a user selects a facility
