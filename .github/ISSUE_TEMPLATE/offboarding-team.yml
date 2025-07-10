@@ -139,38 +139,38 @@ body:
     attributes:
       label: Product name
     validations:
-      required: true
+      required: false
   - type: input
     id: product-2-status
     attributes:
       label: Current status of product
     validations:
-      required: true
+      required: false
   - type: input
     id: product-2-outline
     attributes:
       label: Link to product outline
     validations:
-      required: true
+      required: false
   - type: checkboxes
     id: product-2-outline-date
     attributes:
       label: Product information must be up top date and accessible.
       options:
         - label: My product information, including the product outline is up to date.
-          required: true
+          required: false
   - type: input
     id: product-2-atlas
     attributes:
       label: Link to product in ATLAS
     validations:
-      required: true
+      required: false
   - type: input
     id: product-2-POC
     attributes:
       label: Who should be listed as the primary point of contact for this product moving forward?
     validations:
-      required: true
+      required: false
   - type: dropdown
     id: product-2-handoff
     attributes:
@@ -180,4 +180,54 @@ body:
         - "This product will be orphaned"
         - "Unsure"
     validations:
-      required: true
+      required: false
+        - type: markdown
+    attributes:
+      value: "#### Product 3"
+  - type: input
+    id: product-3-name
+    attributes:
+      label: Product name
+    validations:
+      required: false
+  - type: input
+    id: product-3-status
+    attributes:
+      label: Current status of product
+    validations:
+      required: false
+  - type: input
+    id: product-3-outline
+    attributes:
+      label: Link to product outline
+    validations:
+      required: false
+  - type: checkboxes
+    id: product-3-outline-date
+    attributes:
+      label: Product information must be up top date and accessible.
+      options:
+        - label: My product information, including the product outline is up to date.
+          required: false
+  - type: input
+    id: product-3-atlas
+    attributes:
+      label: Link to product in ATLAS
+    validations:
+      required: false
+  - type: input
+    id: product-3-POC
+    attributes:
+      label: Who should be listed as the primary point of contact for this product moving forward?
+    validations:
+      required: false
+  - type: dropdown
+    id: product-3-handoff
+    attributes:
+      label: Are you handing off to a new team, or will this product be orphaned?
+      options:
+        - "Handing off to a new team"
+        - "This product will be orphaned"
+        - "Unsure"
+    validations:
+      required: false
