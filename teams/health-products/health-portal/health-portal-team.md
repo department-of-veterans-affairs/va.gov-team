@@ -13,25 +13,35 @@
 ## Product Teams
 
 ### Landing Page/Portal Experience
-OCTO Product Lead: Marci McGuire
-OCTO Research and Data Design Lead: 
+- Slack channel: [#mhv-on-vagov-cartography-team](https://dsva.slack.com/archives/C0581MN69TJ)
+- TBD
 
 ### Medications
-
+- Slack channel: [#mhv-medications-rx](https://dsva.slack.com/archives/C04PRFEJQTY)
+- TBD
+  
 ### Medical Records
+- Slack channel: [#mhv-medical-records](https://dsva.slack.com/archives/C03Q2UQL1AS)
+- TBD
 
 ### Messaging
+- Slack channel: [https://dsva.slack.com/archives/C03ECSBGSKX](#mhv-secure-messaging)
+- TBD
 
-### Supplies and Devices
+### Medical Devices and Supplies
+- Slack channel: [#vagov-supply-reordering](https://dsva.slack.com/archives/C05DFSM57FW)
+- TBD
 
-## Platform Teams
+## Platform Team
+- TBD
 
 ## About OCTO
 ### OCTO within the VA organization
-OCTO falls under the VA's Office of Information and Technology (OIT)
+OCTO falls under the VA's Office of Information and Technology (OIT).  Its mission is to collaborate with our business partners to create the best experience for all Veterans.
 
 <img width="1316" height="668" alt="image" src="https://github.com/user-attachments/assets/146c6ee2-bcc9-43fa-b8dd-a8449cc911d2" />
 
+### OCTO History
 ### OCTO structure
 OCTO is made up of six portfolios: 
 #### Digital Experience
