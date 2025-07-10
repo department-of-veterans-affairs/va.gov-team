@@ -72,7 +72,7 @@ body:
     attributes:
       label: Team information must be up top date.
       options:
-        - label: My team information document is up to date
+        - label: My team information, inlcuding teamme.md is up to date
           required: true
   - type: markdown
     attributes:
@@ -85,8 +85,20 @@ body:
     attributes:
       value: "#### Product 1"
   - type: input
-    id: product-name-1
+    id: product-1-name
     attributes:
       label: Product name
+    validations:
+      required: true
+  - type: input
+    id: product-1-status
+    attributes:
+      label: Current status of product
+    validations:
+      required: true
+  - type: input
+    id: product-1-outline
+    attributes:
+      label: Link to product outline
     validations:
       required: true
