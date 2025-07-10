@@ -4,6 +4,17 @@ Updated 7/10/2025
 ## Assume positive intent
 
 ## Team communications
+
+   - Communication
+        - Within OCTO/VA.gov
+        - With Stakeholders
+    - Meetings
+    - Agile Scrum
+    - Ceremonies
+    - Standing meetings
+    - Storing documents
+    - Celebrating successes
+    - 
 - Slack for communication with OCTO, VFS teams
     * Use VA Teams to participate in communication with some VHA stakeholders and store files to share with our business partners 
     * Use VA.gov email
