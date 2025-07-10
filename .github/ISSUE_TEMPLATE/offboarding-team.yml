@@ -24,7 +24,7 @@ body:
       label: Complete these steps before you complete this ticket.
       description: Review [team offboarding guidance](https://www.google.com/maps) and [individual offboarding ticket](https://www.google.com/maps)
       options:
-        - label: I have updated all my team and product information and provided access per the team offboarding guidance.
+        - label: I have updated all my team (including team's readme) and product (including product outline) information and provided access per the team offboarding guidance.
           required: true
         - label: I have submitted individual offboarding tickets for each team member.
           required: true
@@ -63,8 +63,8 @@ body:
   - type: input
     id: team-readme-link
     attributes:
-      label: Link to your team’s readme or similar document
-      description: Link to [team readme](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/README.md)
+      label: Link to your team's readme or similar document
+      description: Review [team readme template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/README.md)
     validations:
       required: true
   - type: checkboxes
@@ -72,7 +72,7 @@ body:
     attributes:
       label: Team information must be up top date.
       options:
-        - label: My team information, inlcuding teamme.md is up to date
+        - label: My team information, including team's readme is up to date
           required: true
   - type: markdown
     attributes:
@@ -100,5 +100,34 @@ body:
     id: product-1-outline
     attributes:
       label: Link to product outline
+    validations:
+      required: true
+ - type: checkboxes
+    id: product-1-outline-date
+    attributes:
+      label: Product information must be up top date and accessible.
+      options:
+        - label: My product information, including the product outline is up to date.
+          required: true
+ - type: input
+    id: product-1-atlas
+    attributes:
+      label: Link to product in ATLAS
+    validations:
+      required: true
+ - type: dropdown
+    id: product-1-handoff
+    attributes:
+      label: Are you handing off to a new team, or will this product be orphaned?
+      options:
+        - "Handing off to a new team"
+        - "This product will be orphaned"
+        - "Unsure"
+    validations:
+      required: true
+ - type: input
+    id: product-1-POC
+    attributes:
+      label: Who should be listed as the primary point of contact for this product moving forward?
     validations:
       required: true
