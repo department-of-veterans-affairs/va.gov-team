@@ -40,8 +40,6 @@ This research supports Veterans in the "Getting Out," "Starting Up" (Attending t
 
 
 ## Research Questions
-
-Research Questions
 - What are Veterans' initial impressions of the Orange vs. Green form navigation?
 - How do they attempt to navigate and locate information in each pattern?
 - Which pattern feels easier or more intuitive—and why?
