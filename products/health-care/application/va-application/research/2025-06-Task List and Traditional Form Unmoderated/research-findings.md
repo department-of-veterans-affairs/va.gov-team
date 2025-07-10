@@ -170,25 +170,28 @@ Brief description
 
 *Identify gaps in the current study and areas requiring additional investigation––such as demographics that were not included in this study.* 
 
+ - A Figma prototype was used which created restictions on being able to conduct sessions with an accessibiity focus. Will conduct testing with participants in this group in future studies where a coded prototype or staging environment can be leveraged.
+
+
+
 
 ## Appendix
-[Product Outline](link here)
+[Initiative Brief - Choose Your Own Adventure](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/Choose-your-own-adventure/Choose-your-own-adventure%20-%20Initiative%20Brief.md)
 
-[Research plan](link here)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2025-06-Task%20List%20and%20Traditional%20Form%20Unmoderated/research%20plan%20draft.md)
 
-[Conversation guide](link here)
 
-[Interview transcripts](link here)
 
 
 ## Tools used for Synthesis
 
-*List tools or techniques used, e.g., Mural, affinity mapping.*  
+- [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1748362493966/b55922eb99ecd3a9f48307050731e1fc7cdf5397)
+- Optimal Workshop 
   
 ## Pages and applications used
 
-*Link to prototypes or pages tested during the study.*  
-
+- [Cohort 2 Figma Prototype](https://www.figma.com/proto/0DGvBhCaSMf6WH1ofSw35y/10-10EZ---CYOA-Task-List---Prototypes---Study--?node-id=452-12&p=f&t=CXWGz7X5WOoZCWAQ-0&scaling=min-zoom&content-scaling=fixed&page-id=3%3A28&starting-point-node-id=452%3A12&show-proto-sidebar=1)
+- [Cohort 2 Figma Prototype](https://www.figma.com/proto/0DGvBhCaSMf6WH1ofSw35y/10-10EZ-CYOA-Task-List-Prototypes-Study?node-id=2096-32616&p=f&t=CXWGz7X5WOoZCWAQ-0&scaling=min-zoom&content-scaling=fixed&page-id=2096%3A32616&starting-point-node-id=2096%3A34326&show-proto-sidebar=1)
 
 ## Other supporting documents created
 
@@ -197,7 +200,12 @@ Brief description
 
 ## Secondary research
 
-*Include any relevant secondary research, e.g., web analytics, SME interviews.*  
+[Figma - Epic Working File](https://www.figma.com/design/gQfpIymox9UgkBSwlZXUhy/10-10EZ---Working-File---EPIC-CYOA?node-id=0-1&p=f&t=IsDVjMmMszmmkjWM-0)
+[Prior Competitive Pattern Research](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1743712327758/be0afc56e6c822bd09b10f3a15c9954fbf772ca0)
+
+
+
+
 
 ## Who we talked to 
 _Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
@@ -267,7 +275,7 @@ Race:
 * Native: x
 
 
-Disability and Assistive Technology (AT):
+Disability and Assistive Technology (AT): None for this study; Figma prototype and Optimal Workshop used.
 * Cognitive: x
 * AT beginner: x
 * AT advanced user: x
