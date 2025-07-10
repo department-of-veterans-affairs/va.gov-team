@@ -47,5 +47,6 @@
 
 - All reported use cases included three or fewer tabs.
 - Tabs can introduce complexity when combined with other navigation elements like tertiary buttons or side navigation, making layout and hierarchy harder to manage.
-- In all examples, teams used a stacked tab layout when tabs overflowed, especially on smaller screens.
-- Teams are grappling with the choice between URL-based navigation and in-page tab updates, which adds complexity to deciding the most appropriate navigation pattern. 
+- In all examples, teams used a stacked tab layout when tabs overflowed.
+- Teams are grappling with the choice between URL-based navigation and in-page tab updates, which adds complexity to deciding the most appropriate navigation pattern.
+- In the use cases shared in the discussion, both of the implementations of tabs would work better as segmented buttons.
