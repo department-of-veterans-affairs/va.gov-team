@@ -29,8 +29,7 @@ This orientation checklist will help you learn about our team, what we do, and h
 - [ ] [Learn about the VA Design System]
 - [ ] [Check out some helpful GitHub info](https://docs.github.com/en)
 
-Week Two 🐣
-- Get access
+## Week Two 🐣
 - Get your tools
 - Get plugged in
     - Check out our onboarding Slack channel
