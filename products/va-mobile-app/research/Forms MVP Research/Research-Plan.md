@@ -8,7 +8,7 @@ The VA Mobile App team recently resolved SSO issues that had previously prevente
 
 This technical improvement creates a new opportunity to integrate the Forms feature into the mobile app, functionality that is not currently available in the mobile experience. 
 
-As part of the MVP, the app introduces the form 4138, a widely used form, in the mobile app so Veterans can: 
+As part of the MVP, the app introduces the form 21-4138, a widely used form, in the mobile app so Veterans can: 
 1. Complete VA forms in a secure web view from a mobile device; and
 2. Check status of these forms in the mobile app
 
@@ -155,7 +155,7 @@ During the session:
 - Tablet – Android
 - Tablet – iPad
 
-4. Are you willing to download both the va mobile app and zoom mobile app to complete the session?
+3. Are you willing to download the test flight app, the va mobile app, and zoom mobile app to complete the session?
    
 - Yes would qualify them for the study
 - No would disqualify them
