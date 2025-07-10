@@ -84,10 +84,6 @@ The delta between the Likert responses of the IPE above filter cohort and the ot
 
 ## [Task guide]( <https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/2025-06-IPE-AB-testing/task-guide.md>)
 
-## Tools used for Synthesis
-
-[Excel](<https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/research/2025-06-IPE-ABC-testing/IPE_Study_Data.xlsx>)
-
 ## Who we talked to
 
 We talked to **227 participants.**
