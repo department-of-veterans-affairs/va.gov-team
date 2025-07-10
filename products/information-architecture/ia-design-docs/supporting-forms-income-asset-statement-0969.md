@@ -7,6 +7,10 @@
 
 **IA Tracker:** (https://github.com/department-of-veterans-affairs/va.gov-team/issues/108450)
 
+**Files:**
+- [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1747684336881/b79f40b63d8c05159c1996af78da1f9cfda895b1)
+- [Figma](https://www.figma.com/design/tJhSwyQorlgdVPC2UKx1fQ/WIP---21P-0969-Pension-or-DIC-Income-and-asset-statement?node-id=0-1&t=sI70WLKFxOzmQNvi-1)
+
 **On this page:**
 - [Navigation/page flows](#flows)
 - [Page structure](#map)
