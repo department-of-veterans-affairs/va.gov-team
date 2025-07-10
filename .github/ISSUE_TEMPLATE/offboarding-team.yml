@@ -102,5 +102,17 @@ body:
       label: Link to product outline
     validations:
       required: true
-
+  - type: checkboxes
+    id: product-1-outline-date
+    attributes:
+      label: Product information must be up top date and accessible.
+      options:
+        - label: My product information, including the product outline is up to date.
+          required: true
+  - type: input
+    id: product-1-atlas
+    attributes:
+      label: Link to product in ATLAS
+    validations:
+      required: true
 
