@@ -115,4 +115,20 @@ body:
       label: Link to product in ATLAS
     validations:
       required: true
+  - type: input
+    id: product-1-POC
+    attributes:
+      label: Who should be listed as the primary point of contact for this product moving forward?
+    validations:
+      required: true
+  - type: dropdown
+    id: product-1-handoff
+    attributes:
+      label: Are you handing off to a new team, or will this product be orphaned?
+      options:
+        - "Handing off to a new team"
+        - "This product will be orphaned"
+        - "Unsure"
+    validations:
+      required: true
 
