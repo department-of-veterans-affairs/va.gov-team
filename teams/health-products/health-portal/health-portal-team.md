@@ -1,5 +1,5 @@
 # My HealtheVet Health Portal
-# Updated 7/10/2025
+Updated 7/10/2025
 
 ## Table of Contents
 
