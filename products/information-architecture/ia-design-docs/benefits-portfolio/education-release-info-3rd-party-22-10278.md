@@ -7,6 +7,10 @@
 
 **IA Tracker:** https://github.com/department-of-veterans-affairs/va.gov-team/issues/113243
 
+**Files:**
+- [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1751340327667/d8e53a2537a63233f0d4171396e0e1c7a1d22a75)
+- [Figma](https://www.figma.com/design/3ObJO374tuiWJk4BVlBmxu/VEBT-Form-22-10278--Authorization-to-Disclose-Personal-Info.-to-a-Third-Party---EDU-Benefits)
+
 **On this page:**
 - [Navigation/page flows](#flows)
 - [Page structure](#map)
