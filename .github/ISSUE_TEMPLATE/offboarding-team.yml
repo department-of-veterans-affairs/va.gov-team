@@ -1,6 +1,6 @@
 name: "Team offboarding"
 description: "This ticket is for team offboarding. Use the individual offboarding ticket to offboard specific team members."
-title: "Team offboarding for [Team]"
+title: "Offboarding request (team)"
 labels:
   - "offboarding"
   - "team-offboarding"
