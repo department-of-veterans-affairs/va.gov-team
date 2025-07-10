@@ -181,7 +181,7 @@ body:
         - "Unsure"
     validations:
       required: false
-        - type: markdown
+  - type: markdown
     attributes:
       value: "#### Product 3"
   - type: input
