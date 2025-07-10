@@ -22,9 +22,10 @@ body:
     id: follow-team-offboarding
     attributes:
       label: Complete these steps before you complete this ticket.
-      description: Review [Team offboarding guidance](https://www.google.com/maps) and [individual offboarding ticket](https://www.google.com/maps)
+      description: Review [team offboarding guidance](https://www.google.com/maps) and [individual offboarding ticket](https://www.google.com/maps)
       options:
-        - label: Follow team offboarding guidancelink to platform website page for updating documentation about your team and your products.
+        - label: I have followed the Follow team offboarding guidancelink to platform website page for updating documentation about your team and your products.
+          description: Review [team offboarding guidance](https://www.google.com/maps) and [individual offboarding ticket](https://www.google.com/map
           required: true
         - label: Submit an individual offboarding ticket for each team member
           required: true
