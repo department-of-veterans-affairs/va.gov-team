@@ -1,13 +1,14 @@
 # How We Work
 Updated 7/10/2025
 
-Assume positive intent
+## Assume positive intent
 
-Team communications
-- Slack for communication with 
+## Team communications
+- Slack for communication with OCTO, VFS teams
     * Use VA Teams to participate in communication with some VHA stakeholders and store files to share with our business partners 
     * Use VA.gov email
         * Encrypt anythingthat includes PII or PHI
+        * Schedule meetings in Teams
     * We use Slack as primary form of communication
         * No PII or PHI
         * Transparency is key -- use public channels as much as possible
@@ -24,7 +25,10 @@ Team communications
             * Creating team reminders
             * Saving posts for later
             * using Reactions to provide more engagement
-Meetings
+
+## Agile Scrum
+
+## Meetings
         * Host meetings on Teams (Zoom is no longer supported by VA and many VA staff can't access it)
         * Log in from VA.gov network so everyone has access to recordings and transcripts
         * Host should send invite from VA.gov calendar
@@ -43,5 +47,6 @@ Meetings
         * Send out notes, action items, documents after
         * Meeting are considerate for time zone
 
-Documentation
-
+## Documentation
+- Store documents in GitHub, SharePoint, but not on Google Drive, DropBox, etc.
+- Anything containing credentials should be stored in the GitHub sensitive repo
