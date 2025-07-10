@@ -2,6 +2,7 @@
 Updated 7/10/2025
 
 ## Table of Contents
+[Office of the CTO (OCTO) Team Members](## Office of the CTO (OCTO) Team Members)
 
 ## Office of the CTO (OCTO) Team Members
 - Portfolio: Lauren Alexanderson
