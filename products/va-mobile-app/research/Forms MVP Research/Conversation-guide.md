@@ -101,40 +101,20 @@ Let’s start with a few questions...
 1. I understand you are a Veteran. Is that right? 
     - Thanks for confirming that.
 
-1. What kind of device are you using today? *(Tablet / Smartphone)*
+2. What kind of device are you using today? *(Tablet / Smartphone)*
     - *(If not the expected device, ask to rejoin that way)*
     - What operating system? *(iOS / Android / _______)*
 
-1. What web browser do you use? *(Chrome / Firefox / Edge / Safari / _______)*
+3. What web browser do you use? *(Chrome / Firefox / Edge / Safari / _______)*
 
-1. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, put it in the Zoom chat, email it to you, or *(for smartphone only)* text it to you. *(RECORD)* 
+4. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, put it in the Zoom chat, email it to you, or *(for smartphone only)* text it to you. *(RECORD)* 
 
    - *(If text or email)* Could the notetaker please text/email the link now? (include link here)
 
-### For only assistive tech users
-
-5. What assistive technology are you using right now? *(screen reader / magnifier _______________________)*
-    - *(If **Dolphin** screen reader, won't be able to share screen on Zoom)*
-    - *(if no AT)* Do you sometimes use assistive technology while using VA.gov or filling out a form online? 
-      - If so, what do you use and when? 
-        - Would you be willing to start using it now in this session? 
-        - *(if not, run session w/o AT, or stop and ask Perigean for a replacement participant)*
-
-1. How would you rate your level of experience with using a screen *(reader / magnifier)*--beginner, intermediate, advanced, or expert?
-
-1. How long have you been using a screen *(reader / magnifier)*?
-
-1. Have you ever shared your screen in Zoom while using a screen *(reader / magnifier)*? *(Yes / No)*
-    - If not, we can help you do that.
-
-1. Is there anything else that we can do to support you during this session? *(RECORD AND DO!)*
-
-### For everyone
-
-1. Have you ever filled out a VA form online before? 
+5. Have you ever filled out a VA form online before? 
    - If so, can you tell me about your most recent experience? How did it go?
   
-2. Do you have the VA Health and Benefits mobile app downloaded on your device?
+6. Do you have the VA Health and Benefits mobile app downloaded on your device?
    - If so, can you tell me what you use the mobile app primarily for? How has your experience been so far?
 
 
@@ -152,12 +132,10 @@ We can help guide you through this if you need help. Please say what you're doin
 1. Check the "share sound" checkbox (so we can hear their screen reader speaking)--may have to tab a LOT to get to this in the right pane
 1. Activate the screen share
 
-**(If we can't hear the screen reader)** Since I can't hear your screen reader and don't want to interrupt it, after I ask you to do something, I'll try to not say anything until you say that you're done or need help, OK?
-
 **(If video window is covering up phone screen)** It looks like my zoom video is covering up a lot of your screen. Could you please swipe it off? (Screen reader: swipe right until the video window has focus, and then double tap when you hear "Stash preview".)
 
 ## Task 00: Open prototype
-Now I'd like you to open a website that I'm going to share with you. 
+Now I'd like you to download the [app] on your phone. 
 
 I will *[email/text/dictate/put into the Zoom chat]* the URL: **place url here** --
 - *(If asked, reassure that this is a legitimate link to what I want you to test)*
@@ -172,10 +150,70 @@ Please click the (green) "Continue" button.
 **You'll be interacting with a demo prototype today.** Since it's a demo, note that none of your actions will affect your own VA information or benefits.
 
 
-## Task 1: Form intro page
-[start on the VA Health and Benefits mobile app  ]
+## Task 1: Login to the VA Health and Benefits mobile app
+[start on the VA Health and Benefits mobile app version: 2.54.1.QA (2810)]
 
-**PENDING COMPLETION...**
+I'd like you to take a look at this screen, and then go through the login flow. The system will automatically generate a test user login and will enter the multi-factor authentication code for you. 
+
+As we go through the steps in this study, please talk aloud about what you're thinking BEFORE clicking on anything. And please share any thoughts, reactions, or questions you have about the current screen.
+
+[Sign in using the 'Sign in' button on your screen > Select the 'ID.me' > The system will automatically generate a login email and password, Select the 'Continue' button > The system will automatically enter a 6-digit code, Select the 'Continue' button]
+
+[When they get to the homepage:] Please stop here so I can give you the next instruction.
+
+
+## Task 2: Start a statement
+Pretend that you need to start a new statement with the VA. Where would you go in the mobile app to start a new statement?
+
+[Select 'Go to forms', Select 'Start a new statement, Select 'Start a new statement', Read through the screen 'What would you like to do?' > Select 'What I want to do isn't listed here' > Click 'Continue'. 
+
+Reminder to speak aloud any thoughts, reactions, or questions you have during this process.
+
+### Watch for:
+- How the user gets to forms. Do they click anything other than "Go to Forms"? Y/N
+    - If Y, where do they go instead?
+- Does the user mentions any confusion on where to go to start a new statement. Y/N
+    - If Y, what do they find confusing?
+
+
+## Task 3: Fill out form [never back out or reload the page]
+Please fill out this form to submit your statement, but I want you to use fake details so you don't share your personal information with me.
+
+- Supply form entry data for participant to enter as they go through the form.
+
+### Watch for:
+- Does the user encounter any errors when entering the data into the form fields? Y/N
+    - If Y, what field do they encounter errors on?
+      - What triggered the error specifically?
+      - Does the user understand how to correct the error? 
+- Does the user experience any difficulty completing the fields from their mobile device Y/N
+    - If Y, what specific challenges did they experience?
+        - How did the user troubleshoot these challenges?
+- Does the user express thoughts of frustration while completing the form? Y/N
+    - If Y, what did they experience when expressing the frustration?
+
+
+## Task 4: (After SSN before 'Continue') take a break in filling out the form
+Pretend you need to step away from the form for an extended period of time, what do you do with the form at this point?
+
+[Click 'Done' to exit the form]
+
+### Watch for:
+- Does the user select anything other than Done to leave the form? Y/N
+    - If yes, what does the user do?
+- Does the user feel express doubt that their work will be saved? Y/N
+
+## Task 5: Continue completing the started form and submit
+Pretend you are ready to come back to your previous form to complete it.
+
+[From forms, under 'Statement in Support of a Claim' click 'Continue form']
+
+### Watch for:
+- Does the user understand that they are continuing with the same form they started at the beginning of the session? Y/N
+    - If no, what do they mention that is confusing?
+- Is the user able to complete the started form? Y/N
+    - If no, what prohibited them from submitting the initial form?
+
 
 ## Thank You and Closing - 3 minutes
 
