@@ -27,7 +27,7 @@ _Presentations occur at 1:05pm ET_
 |Facilities|Michelle Middaugh|Mobile map functionality|March 2025|May 22, 2025|
 |Employee Experience Team|Mack Howell|Improve the VA.gov document submission screen for Private Medical Records|May 2025|June 12, 2025|
 |Accredited Representation Management|Lindsay Li-Smith|Appoint a Representative 2.0 and Accredited Representative Portal (ARP) MVP|March 2025|July 17, 2025|
-|TBD|TBD|TBD|TBD|August 14, 2025|
+|TBD|TBD|TBD|TBD|August 7, 2025|
 |TBD|TBD|TBD|TBD|September 2025|
 |TBD|TBD|TBD|TBD|October 2025|
 |BTSSS|TBD|Simple, Mileage-Only Travel Claims on VA.gov|April 2025|November 2025|
