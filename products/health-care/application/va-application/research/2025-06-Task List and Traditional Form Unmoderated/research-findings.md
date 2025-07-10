@@ -5,7 +5,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), 10-10EZ Form Health Care Application, Health Enrollment Team**
 
-**Date:** MM/DD/YYYY
+**Date:** 07/2025
 
 **Contacts:** [Jessica Stump, Designer/Researcher], [Liza McRuer, Designer/Researcher]
 
@@ -25,8 +25,11 @@
 
 
 ## Research Goals
-*Provide context for this research by explaining how it fits into the Veteran’s journey.*  
-[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)  
+This study aimed to evaluate two potential form patterns — a task list pattern, the "Orange" prototype,  and a traditional flow, the "Green" prototype. These were tested on the 10-10EZ health care application to determine if there is potential to improve the form flow with a non-linear navigation. This research will help us determine if there is an opportunity to further investigate and  work on the task list experimental pattern.
+
+This research supports Veterans in the "Getting Out," "Starting Up" (Attending to health needs - Moment that Matters), and "Taking Care of Myself" stages of their journey.
+
+
 
 **Guiding Questions:**  
 - What are the key moments this tool supports in the Veteran’s journey?  
@@ -38,34 +41,44 @@
 
 ## Research Questions
 
-*List the research questions that guided this study.*  
+Research Questions
+- What are Veterans' initial impressions of the Orange vs. Green form navigation?
+- How do they attempt to navigate and locate information in each pattern?
+- Which pattern feels easier or more intuitive—and why?
+- What high-level points of confusion, if any, arise during interaction with the Orange and Green flows?
+- After experiencing both flows, which pattern do Veterans prefer for navigating a healthcare application and what are the reasons?
+- What are their overall impressions and satisfaction levels with both designs?
 
-* Question 1
-* Question 2
-* Question 3
-
+  
 [Example Research Questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-questions)
 
 ## Methodology 
 
-*Provide a brief description of the research methods used (e.g., usability testing, interviews).*  
+Type: Unmoderated within-subjects study
+Platform: Optimal Workshop
+Design: Counterbalanced (each participant sees both prototypes, setup as 2 studies in Optimal Workshop switching the first placement order)
 
-- Method 1: Description  
-- Method 2: Description  
+**Cohort Assignment:**
+- Cohort 1: Orange (Task List) first, then Green (Traditional Flow)
+- Cohort 2: Green first, then Orange
+
+Participants were shown limited-functionality Figma prototypes and asked to perform exploratory navigation tasks, not full data entry. Quantitative and qualitative data were collected by both open-ended and closed-ended ranking questions. 
 
 [Example Methodology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#methodology)
 
 
 ## Hypotheses and Conclusions
 
-*List hypotheses explored in the research and the conclusions drawn. If applicable, list the success or task completion rate.*
+**Hypothesis Statement:** The non-linear task flow assists Veterans in completing the 10-10EZ.
 
-> [!TIP]
-> Place true or false statements in bold for easier scanability
+- **"Maybe True"**:
+- While the traditional flow was preferred by some participants, the task list showed promise for flexible navigation, especially for longer forms.
+- Supporting evidence: Some participants appreciated the ability to skip around in the Orange prototype. Users may prefer to complete easier sections first and return to more complex ones later if additional information is needed.
+  - 19 out of 43 participants reported the task-list prototype as their preference. (44.1%)
+  - 17 out of 43 participants reported the traditional prototype as their preference. (39.5%)
+  - 7 out of 43 had no preference (16.3%)
 
-- **Hypothesis Statement:** [Insert statement]  
-  - **"Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”**  
-  - Supporting evidence  
+
 
 [Example Hypotheses and Conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)
 
