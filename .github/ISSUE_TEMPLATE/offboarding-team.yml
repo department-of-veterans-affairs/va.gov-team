@@ -1,5 +1,5 @@
 name: "Team offboarding"
-description: "This ticket is for team offboarding. Use the individual offboarding ticket to offboard specific team members."
+description: "This ticket is for team offboarding. Use the [individual offboarding ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=offboarding-request.md) to offboard specific team members."
 title: "Team offboarding for [Team]"
 labels:
   - "offboarding"
@@ -17,15 +17,11 @@ body:
         Product managers should complete this ticket when a VFS or platform team is offboarding and handing off ownership of its products. 
   - type: markdown
     attributes:
-      value: "### Before you begin"
-  - type: markdown
-    attributes:
-      value: |
-        Complete these steps before you complete this ticket.
+      value: "### Step 1: before you submit this ticket"
   - type: checkboxes
     id: follow-team-offboarding
     attributes:
-      label: Complete these steps before you complete this ticket.
+      label: Complete these steps **before** you complete this ticket.
       description: Review [Team offboarding guidance](https://www.google.com/maps) and [individual offboarding ticket](https://www.google.com/maps)
       options:
         - label: Follow team offboarding guidancelink to platform website page for updating documentation about your team and your products.
