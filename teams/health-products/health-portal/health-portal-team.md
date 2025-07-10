@@ -1,4 +1,4 @@
-# Health Portal Team
+# My HealtheVet Health Portal
 
 ## Office of the CTO (OCTO) Team Members
 - Portfolio: Lauren Alexanderson
