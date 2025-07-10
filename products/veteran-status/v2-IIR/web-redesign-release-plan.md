@@ -127,13 +127,13 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 - Number of unique users: [FILL_IN]
 - Metrics at this stage (per your "success criteria"):
-  - Percentage of CONFIRMED users : 
-  - Percentage of NOT CONFIRMED, not eligible users : 
-  - Percentage of NOT CONFIRMED, other reasons : 
-  - Percentage of API errors:
-- Was any downstream service affected by the change?: [PICK_ONE]: 
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+  - Percentage of CONFIRMED users : 79.3%
+  - Percentage of NOT CONFIRMED, not eligible users : 2.2%
+  - Percentage of NOT CONFIRMED, other reasons : 18.6%
+  - Percentage of API errors: .7%
+- Was any downstream service affected by the change?: No 
+- Types of errors logged: N/A
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? None
 
 ## Post Launch metrics
 
