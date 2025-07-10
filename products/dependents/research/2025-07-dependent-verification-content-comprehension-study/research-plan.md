@@ -1,5 +1,5 @@
 
-	# Research Plan for Dependent Management Team, Dependent Verification update, July 2025 (Design A)
+	# Research Plan for Dependent Management Team, Dependent Verification update, July 2025
 
 ## Background 🏗️
 <summary>Briefly describe the background of your product.</summary>
@@ -20,7 +20,7 @@
 
 `Product Brief`
 
-**[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/dependency_verification/initiative-brief-dependent-verification-tool.md).**
+**[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/dependency_verification/initiative-brief-dependent-verification-tool.md)**
 
 </details>
 
@@ -110,25 +110,16 @@
 
 ---
 
-**[Enter hypotheses here]** 
+**Content that emphasizes the risk of debt will make Veteran participants more likely to complete the process.**
+
+**Veterans are most likely to abandon the task in the transition between the dependent verification flow and the additional forms.** 
 
 ---
   
 ## Methodology  🛠️
 ***Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design.*** 
 
-<details><summary>Examples of common research methods include</summary> 
-	
-- `Semi-structured interviews - appropriate for generative research`
-- `Contextual inquiry - appropriate for generative research`
-- `Card sorts - appropriate for generative and evaluative research; depending on the study design` 
-- `Tree tests - appropriate for evaluative research`
-- `Usability testing - appropriate for evaluative research`
-- `User acceptance testing (UAT) - required before product release`
-
-</details>
-
-**[Enter methodology here]**
+**Unmoderated usability testing with additional survey questions**
 
 <details><summary>Additional resources</summary> 
 	
