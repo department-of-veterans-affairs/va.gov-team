@@ -6,7 +6,7 @@
 	
 `What problem is your product trying to solve?`
 
-**Currently, the VA overpays $250 million in dependent benefits each year. If a Veteran is overpaid a benefit, they are required to re-pay the overpayment back to the VA. Updating dependency information outside the 8-year requirement is voluntary, and the burden of remembering to make dependency updates falls on the Veteran. Verifying dependents through a paper form is also burdensome for many Veterans. These problems result in a very low-quality feedback loop for maintaining an accurate list of what dependents are intended to be on the award. Our goal is to decrease the over- and under-payment amount for dependent-related benefits by allowing Veterans to quickly and easily verify their dependents on VA.gov.**
+**Currently, the VA overpays $250 million in dependent benefits each year. If a Veteran is overpaid a benefit, they are required to re-pay the overpayment back to the VA. One of the most common causes of overpayment is out-of-date dependents information. Updating dependency information outside the 8-year requirement is voluntary, and the burden of remembering to make dependency updates falls on the Veteran. Verifying dependents through a paper form is also burdensome for many Veterans. These problems result in a very low-quality feedback loop for maintaining an accurate list of what dependents are intended to be on the award. Our goal is to decrease the over- and under-payment amount for dependent-related benefits by allowing Veterans to quickly and easily verify their dependents on VA.gov.**
   
 `Where is your product situated on VA.gov? (ex: auth vs. unauth)`
 
@@ -43,7 +43,7 @@
 
 <summary>Where does your product fit into the Veteran journey? Are there moments that matter?</summary>
 	
-**Veterans could verify their dependents at many points in their journey but it is especially relevant to the `Putting Down Roots`stage. Dependents Verification involves the intersection of a Veteran's family and their VA benefits and this stage contains the "Starting, growing, or maintaining my family" and the "Engaging VA to access benefits and services" moments that matter.**
+**Veterans could verify their dependents at many points in their journey but it is especially relevant to the `Putting Down Roots`stage. Dependents Verification involves a Veteran's family and their VA benefits and this stage contains the "Starting, growing, or maintaining my family" and the "Engaging VA to access benefits and services" moments that matter.**
 
 
 ## Research Goals 🥅	
