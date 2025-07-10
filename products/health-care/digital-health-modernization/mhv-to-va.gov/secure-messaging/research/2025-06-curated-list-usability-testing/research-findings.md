@@ -10,14 +10,15 @@ Contacts: Anne Costello Kennedy
 
 Jump to:
 
-- Hypotheses and conclusions
-- Key findings
-- Recommendations
-- Product User and Business Outcomes
-- Key Performance Indicators
-- Next Steps
-- Further research needed
-- Who we talked to
+[Hypotheses and conclusions](#hypotheses-and-conclusions)
+
+[Key findings](#key-findings)
+
+[Recommendations](#recommendations)
+
+[Who we talked to](#who-we-talked-to)
+
+[Further research needed](#further-research-needed)
 
 ## Research Goals
 
