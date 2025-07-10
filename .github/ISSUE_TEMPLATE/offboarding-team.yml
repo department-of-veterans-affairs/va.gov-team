@@ -237,3 +237,15 @@ body:
         If you have more products to add, submit this ticket then copy/paste the product section.
 
         All done, you can submit. Don't fill out or modify anything below here.
+- type: markdown
+    attributes:
+      value: "## Platform Support tasks"
+- type: checkboxes
+    id: platform-support-tasks
+    attributes:
+      label: For Platform Support to complete after submitted.
+      options:
+        - label: Update team information in Atlas
+          required: false
+        - label: Update product information in Atlas
+          required: true
