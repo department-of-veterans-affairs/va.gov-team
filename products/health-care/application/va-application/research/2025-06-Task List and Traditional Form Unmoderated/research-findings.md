@@ -170,7 +170,14 @@ Brief description
 
 *Identify gaps in the current study and areas requiring additional investigation––such as demographics that were not included in this study.* 
 
+**Accessibility testing with assistive technology users**
  - A Figma prototype was used which created restictions on being able to conduct sessions with an accessibiity focus. Will conduct testing with participants in this group in future studies where a coded prototype or staging environment can be leveraged.
+
+**Interactivity of task list experience**
+- The clickmaps showed that participants frequently clicked on the status label to try and navigate and the task list quick link in the blue navigation bar was also frequently used.
+
+**Veteran groups and disability rating impact**
+- This test did not account for the Veteran segments that would result in a participant completing the entire form (including household financial information section) or the short form (disability rating over 50%).
 
 
 
