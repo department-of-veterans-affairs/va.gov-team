@@ -1,4 +1,4 @@
-# OCTO Health My HealtheVet Portal Team - helpful terminology
+# Helpful terminology
 - _508 compliance_ - Refers to compliance with Section 508 of the Rehabilitation Act of 1973, which requires federal goverment websites to be safe and accessible for people with disabilities.
 - _a11y_ - an abbreviation for accessibility coined by the a11y project.  The 11 in the middle represents eleven letters in the middle of the word accessibility.
 - _AT_ - Assistive technology.  Technology that helps low-vision or blind users access and use web sites and native applications.  They may include screen readers and magnification tools such as JAWS, TalkBack, VoiceOver, Microsoft Narrator, and ZoomText.
