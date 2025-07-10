@@ -248,4 +248,4 @@ body:
         - label: Update team information in Atlas
           required: false
         - label: Update product information in Atlas
-          required: true
+          required: false
