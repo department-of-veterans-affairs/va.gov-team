@@ -1,18 +1,18 @@
 # IA Design for Pension or DIC Income and Asset Statement supporting form 21p-0969
-**STATUS: In progress**
+**STATUS: In review**
 
 **Team:** Benefits: Pension/Burial Design -- Gretchen Maciolek, Melissa Lefevre, Eileen Chi, Elisabeth Chin, Skyler Schain
 
 **CAIA Intake ticket:** (https://github.com/department-of-veterans-affairs/va.gov-team/issues/107204)
 
-**IA Tracker:** 
+**IA Tracker:** (https://github.com/department-of-veterans-affairs/va.gov-team/issues/108450)
 
 **On this page:**
 - [Navigation/page flows](#flows)
 - [Page structure](#map)
 - [URLs and breadcrumbs](#url)
 - [Entry points](#nav)
-- [Redirets](#redirects)
+- [Redirects](#redirects)
 - [Search best bets](#bestbets)
 - [Launch coordination activities](#launch)
 
@@ -20,9 +20,7 @@
 ## <a name="flows"></a>Navigation/page flows <br>
 As a supporting form for claims, many users receive follow ups via email or other correspondence that requests they complete this form and a direct link to this form. Other key navigational paths to this form are via crosslinks on related form About pages or within the flow for the 53 and 527. 
 
-![Screenshot of the navigational paths to the 0969 form](https://github.com/user-attachments/assets/09e18d6f-6482-445d-8a4a-130bb3b4aed1)
-
-
+<img width="1454" height="618" alt="Screenshot 2025-07-10 125716" src="https://github.com/user-attachments/assets/2199b321-2d3f-4c30-9712-a4fb3f145e76" />
 
 
 ## <a name="map"></a>Page structure<br>
@@ -33,7 +31,7 @@ As a supporting form for claims, many users receive follow ups via email or othe
 *URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site. This section will also document form or tool flow URLs, titled sub-URLs.*
 
 
-**1) Submit a pension or DIC income and asset statement (VA Form 21P-0969) - New**
+**1) Submit a pension or DIC income and asset statement - New**
 - URL: https://www.va.gov/supporting-forms-for-claims/submit-income-and-asset-statment-form-21p-0969/
 - Breadcrumb: VA.gov home > Supporting forms for VA claims > Submit a pension or DIC income and asset statement
 - Notes: 
@@ -53,51 +51,36 @@ Teams must launch with at least one entry point that allows site visitors to nav
     - Link label: Supporting content and link label to be determined by Centralized content 
     - Link destination: /supporting-forms-for-claims/submit-income-and-asset-statment-form-21p-0969/
   - Notes:
-    - Who will update (IA, content, product team): Content team representative, currently Juliana Jara is working directy with this team
-    - When will this entry point go live (at launch? After staged rollout? after some designated time?): TBD
+    - Who will update: Content team representative, currently Juliana Jara is working directy with this team
+    - When will this entry point go live: A section will be added prior to launch with a link to download the form. A link to the live online form will be added in coordination with the launch.
 
 ### Additional key entry points -- in progress
 _Any additional key locations that the page should be navigable from. Although these are not required for launch, they are critical to the findability of your content/feature.  Examples of key entry points include "About a form" pages, additional navigation component (top, left) placements, additional static pages where its prominently linked from, etc._
 
-1. **[Page/placement name]**
-  - Placement description: 
-  - Link details
-    - Link label: 
-    - Link destination: 
-  - Notes:
-    - Who will update (IA, content, product team):
-    - When will this entry point go live (at launch? After staged rollout? after some designated time?):
+1. **[About VA Form 21p-0969](va.gov/find-forms/about-form-21p-0969/)**
+  - Placement description: Content and IA will add a link will be added to the online form post-launch
+2. **Key Crosslinks**
+- Links to the 0969 should be updated on the following pages post-launch
+  - [534](https://www.va.gov/find-forms/about-form-21p-534ez/)
+  - [527](https://www.va.gov/find-forms/about-form-21p-527ez/)
 
 ##  <a name="redirects"></a>Redirects <br>
 No redirects are needed as this is a new form.
 
 ## <a name="bestbets"></a>Search best bets
-*Search “best bets” are suggested pages that appear in the “Our top recommendations for you” section when you perform a search on VA.gov. Best bets are not implemented for every page, and not intended to be permanent.  They can aid in helping visitors find key content and features that are not ranking search well or competing with similar pages in search results. Existing best bets must be removed or updated when links/URLs change.*
 
-**1. Best bet for [page name]** - 
-- Destination page:
-- Additional keywords:
+**1. Update existing Best Bet** - 
+<img width="619" height="266" alt="Screenshot 2025-07-10 125619" src="https://github.com/user-attachments/assets/1f59c4e6-7f0e-4223-9ddb-be4c40747b1d" />
+
 
 ## <a name="launch"></a>Launch coordination <br>
 *Communication when preparing for launch is critical to ensuring all supporting content, links, and messaging are implemented in a timely manner to ensure a good experience. Missing any of these steps can result in findability challenges, incorrect or misleading information, duplicate content, etc. *
 
-Key task | Responsibility | When to complete | Additional info
---- | --- | --- | ---
-Communicate date of staging review | | Once scheduled |
-Submit redirect request | | at least 2 weeks prior to implementation | 
-Communicate launch date | | |
-
-
-
-
-### Staged rollout
-*Is the team planning a staged rollout? Roll-outs hidden behind a flipper flag need a static page to place a sign in widget or CTA on. Pages/sections where a sign in widget can't be implemented - find a form pages, within accordions, hub pages*
-
-1. What is the team's staged rollout plan?
-2. Which page will have the widget that controls views?
-3. Does the team need to manage search-engine results during rollout?
-
-
+| Key task | Responsibility | When to complete | Additional info |
+| --- | --- | --- | --- |
+| Communicate date of staging review | Product team | Once scheduled | Scheduled July 15
+| Communicate launch date | Product team | Once finalized | Helps content and IA plan for updates |
+| Updates in Drupal | OCTO content and IA | post-launch | |
 
 
 <hr>
