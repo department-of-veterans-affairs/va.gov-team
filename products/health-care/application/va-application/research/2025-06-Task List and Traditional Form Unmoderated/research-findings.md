@@ -32,11 +32,16 @@ This research supports Veterans in the "Getting Out," "Starting Up" (Attending t
 
 
 **Guiding Questions:**  
-- What are the key moments this tool supports in the Veteran’s journey?  
-- What outcomes are we aiming to achieve for Veterans and stakeholders?  
 
-[Example Research Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-goals) 
+This study aims to evaluate two potential form patterns—"Orange" task list and "Green" traditional flow—for the 10-10EZ health care application to determine if there is potential to improve the form flow with a non-linear navigation.
 
+**Specific Goals:**
+- Gauge Veteran Interest: Understand Veterans' initial reactions to in both patterns, in a counter-balanced study, where each cohort will interact with both prototypes.
+- Evaluate Navigation & Perceived Intuitiveness: Determine how Veterans perceive ease of locating and initiating form sections in both prototypes.
+- Identify High-Level Points of Confusion: Spot any early usability issues in the task list structure and navigation.
+- Assess Initial Preference: Identify which pattern Veterans prefer and why.
+- Gather Initial Qualitative Feedback: Collect qualitative insights on both patterns' structure and clarity, with the focus on the non-linear pattern compared to the existing form.
+ 
 
 
 ## Research Questions
@@ -48,13 +53,12 @@ This research supports Veterans in the "Getting Out," "Starting Up" (Attending t
 - What are their overall impressions and satisfaction levels with both designs?
 
   
-[Example Research Questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-questions)
 
 ## Methodology 
 
-Type: Unmoderated within-subjects study
-Platform: Optimal Workshop
-Design: Counterbalanced (each participant sees both prototypes, setup as 2 studies in Optimal Workshop switching the first placement order)
+**Type:** Unmoderated within-subjects study
+**Platform:** Optimal Workshop using Figma prototypes
+**Design:** Counterbalanced (each participant sees both prototypes, setup as 2 studies in Optimal Workshop switching the first placement order)
 
 **Cohort Assignment:**
 - Cohort 1: Orange (Task List) first, then Green (Traditional Flow)
@@ -62,7 +66,6 @@ Design: Counterbalanced (each participant sees both prototypes, setup as 2 studi
 
 Participants were shown limited-functionality Figma prototypes and asked to perform exploratory navigation tasks, not full data entry. Quantitative and qualitative data were collected by both open-ended and closed-ended ranking questions. 
 
-[Example Methodology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#methodology)
 
 
 ## Hypotheses and Conclusions
@@ -78,7 +81,6 @@ Participants were shown limited-functionality Figma prototypes and asked to perf
 
 
 
-[Example Hypotheses and Conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)
 
 
 ## Key Findings
@@ -168,15 +170,13 @@ Brief description
 
 ## Further research needed
 
-*Identify gaps in the current study and areas requiring additional investigation––such as demographics that were not included in this study.* 
-
 **Accessibility testing with assistive technology users**
  - A Figma prototype was used which created restictions on being able to conduct sessions with an accessibiity focus. Will conduct testing with participants in this group in future studies where a coded prototype or staging environment can be leveraged.
 
 **Interactivity of task list experience**
 - The clickmaps showed that participants frequently clicked on the status label to try and navigate and the task list quick link in the blue navigation bar was also frequently used.
 
-**Veteran groups and disability rating impact**
+**Form user flows and disability rating impact**
 - This test did not account for the Veteran segments that would result in a participant completing the entire form (including household financial information section) or the short form (disability rating over 50%).
 
 
