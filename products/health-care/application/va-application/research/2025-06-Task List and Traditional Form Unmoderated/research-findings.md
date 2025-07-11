@@ -103,19 +103,48 @@ Participants were shown limited-functionality Figma prototypes and asked to perf
 *Provide detailed descriptions and supporting evidence for each key finding.*  
 
 **Finding 1: The task list pattern was slightly more preferred over the traditional form flow, scored well on the ease-of-use question and participants liked the sections, information and status labels.**  
-Brief description  
-- _Supporting data: Quote [add context]_  
-- _Supporting data: ![text](link - add image to github folder and link here with .png)_  
 
-**Finding 2:**  
-Brief description  
-- _Supporting data: Quote [add context]_  
+Brief description
+
+- Supporting data in Post-Study Questions: Overall, 44.1% (19 participants) stated they preferred the task list (orange) protoytpe, compared to only 39.5% (17) preferring the traditional form flow. 16.3% (7) participants had no prefernce between the two. 
+- Supporting data in Post-Task Questions: In cohort 1, 71.4% rated the task list prototype as Very Easy and in cohort 2, 63.6% rated as Very Easy. This is compared to the ratings for the green prototype of cohort 1, 52.4% and cohort 2, 77.3%.  
+
+**Quotes:**
+- _I liked that the categories were broken down into the 6 sections. It made it easier to know if you successfully completed the individual sections._
+
+
+**Finding 2: Personal preference - to navigate linear or more freely by section.**  
+There was a mix of reasons why provided in the post-task comments around why participants preferred one version over the other. These reasons ranged from being too overwhelmed and needing focus to liking the overview and manuverablity. 
+
+**Quotes:**
+- _I liked it, but it did seem more complex that the Green. Both were clear to me and easy. But I think the Orange may be more difficult for some. Both were good._  
+
+
+
+**Finding 3: The task list pattern tested showed participants had some confusion around the clickable elements - they equally wanted click on the text name or the status tag to navigate.**  
+Brief description:
+
+Clickmap images:
+
+
+**Quotes:**
+
+
+**Finding 4: Participants stated there was a lot of information to provide and gathering documents beforehand would be important.**  
+Brief description:
+**Quotes:**
+
+
+**Finding 4: Participants had comments that providing household financials was a lot to do, very intrusive.**  
+Brief description:
+**Quotes:**
+
 
 ---
 
 ## **Additional Insights**
-*Include insights that do not represent patterns but are still valuable.*  
-> **TIP:** These could be powerful user comments or unexpected issues worth noting
+- Participants mentioned saving and returing to the form later and calling out the application save and ID details in the lower green alert.
+- A small theme on cohort 1 only that contradicted normal sentiment heard in studies - this group had positive things to say about the steps in the form progress bar stepper. 
 
 
 ## Recommendations
