@@ -20,7 +20,6 @@ This page contains quantitative data intended to measure whether SMOC was succes
 | -------- | -------- | ---------- | -----------------| -----------------| 
 |Total submissions | 91,887 (va.gov June 10 - July 10) | |||
 |Claims view rate|||||
-
 |PastAppointmentDetails screen views| 86,240 (June 10 - July 9) ||||
 |Total abandoment rate| 53.2% (va.gov - prior week) ||||
 |Abandoned: Intro | 52.4% (va.gov - prior week)| ||  |
