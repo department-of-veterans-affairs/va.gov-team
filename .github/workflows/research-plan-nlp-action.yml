@@ -1,21 +1,14 @@
 name: Research Plan Frontmatter NLP
+
+on:
+  workflow_dispatch:
+
 permissions:
   contents: write
   pull-requests: write
-on:
-  workflow_dispatch:
-    inputs:
-      file_paths:
-        description: 'Comma-separated list of research plan file paths to process'
-        required: true
-        default: 'path/to/research-plan1.md,path/to/research-plan2.md,path/to/research-plan3.md,path/to/research-plan4.md,path/to/research-plan5.md'
-      base_branch:
-        description: 'Base branch for PR (must NOT be master)'
-        required: true
-        default: 'research-plan-frontmatter-action-test'
 
 jobs:
-  update_research_plans:
+  update_research_plan:
     runs-on: ubuntu-latest
 
     if: github.ref != 'refs/heads/master'
@@ -40,36 +33,39 @@ jobs:
           curl -o labels.yml https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-research-repository/master/.github/labels.yml
 
       - name: Run NLP Frontmatter Script
-        id: nlp_script
         env:
-          FILE_PATHS: ${{ github.event.inputs.file_paths }}
+          PLAN_PATH: "products/va-mobile-app/research/Forms MVP Research/Research-Plan.md"
           LABELS_FILE: labels.yml
+          TEMPLATE_PATH: .github/research-templates/research-plan-template.md
+          REPORT_PATH: frontmatter_report.md
         run: |
           python .github/scripts/update_research_plan_frontmatter.py \
-            --file-paths "$FILE_PATHS" \
+            --file-path "$PLAN_PATH" \
             --labels-file "$LABELS_FILE" \
-            --template-path ".github/research-templates/research-plan-template.md" \
-            --report-path "frontmatter_report.md"
+            --template-path "$TEMPLATE_PATH" \
+            --report-path "$REPORT_PATH"
 
       - name: Commit changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git checkout -b research-plan-frontmatter-update-${{ github.run_id }}
-          git add ${{ github.event.inputs.file_paths }}
-          git commit -m "Add and auto-populate frontmatter to research plans"
+          git add "products/va-mobile-app/research/Forms MVP Research/Research-Plan.md"
+          git commit -m "Add and auto-populate frontmatter to research plan"
           git push origin research-plan-frontmatter-update-${{ github.run_id }}
 
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v5
         with:
           branch: research-plan-frontmatter-update-${{ github.run_id }}
-          base: ${{ github.event.inputs.base_branch }}
-          title: "Add frontmatter to research plans using NLP"
+          base: ${{ github.ref_name }}
+          title: "Add frontmatter to research plan using NLP"
           body: |
-            This PR was created automatically to add and populate YAML frontmatter in research plans using NLP.
+            This PR was created automatically to add and populate the YAML frontmatter in the research plan using NLP.
             Please see the confidence report below for fields and tags requiring review.
 
             ---
+            ````
             $(cat frontmatter_report.md)
+            ````
           reviewers: sstrassberg
