@@ -4,19 +4,36 @@ Updated 7/10/2025
 ## Assume positive intent
 We are all here because we want to improve the lives of Veterans.  To that end, our default assumption is that everyone involved with this work has done their best to build a positive experience with what was available to them at the time.  The decisions that got us here were made by smart and capable people, and were likely influenced by forces beyond their control like policy, legal, patient safety, technical, budgetary, or other constraints.
 
-## Communications expectations
-These expectations will help you determine the best way to contact various team members and stakeholders and save you from waste time attempting to reach people via channels they may not frequent.
+## Communications
 ### Slack
 - Slack is the default communication channel for My HealtheVet teams and most teams creating applications on VA.gov and VA Health and Benefits mobile apps.
 - Information on getting access to Slack is included later in our orientation checklist.
 - Use public channels by default.
-- Before posting in a channel you're new to, view the channel  topic and description.  Some channels ask that threads be started with a command to initiate a workflow.
+- Before posting in a channel you're new to, read the channel topic and description.  Some teams ask that threads be started with a command to initiate a workflow.
 - Thread conversations to reduce noise in channels 🧵
 - Start new threads with a short intro, then reply to it to add additional details and collaborate.
 - If an ongoing thread needs to be moved to a different channel, include a link back to the original conversation, and add a link from the original to the new, noting that the conversation has been moved.
-   - Communication expectations
-        - Within OCTO/VA.gov
-        - With Stakeholders
+- If you're going to be out of office, update your status with the ❌ icon, along with an OOO note and the relevant dates.
+
+### Email
+- Conduct all VA business via your VA.gov email address.
+- Everyone working on VA.gov is expected to check their VA email regularly.  Our stakeholders generally communicate with us via email, and VA policy dictates that employees are not to discuss VA business with anyone using a non-VA email address.
+- Email is good for quick communications with VHA stakeholders, particularly if their response needs to be shared with the team, used as reference, or stored with project documents.  If there are a large number of questions to be answered, or discussion is required, emails often will not yield a good result.
+- Know when it's time to move the conversation to a meeting. If an email thread goes beyond ~5 replies, considering scheduling a meeting and following it up with an email confirming any decisions made.
+
+### Meetings
+- Check your invitees' calendars before scheduling to ensure they don't have a conflict. If you can't find a time that works for everyone, ask before booking over an existing meeting.
+- When scheduling recurring meetings, check your attendees's calendars for the whole month to avoid conflicts with meetings that only occur once or twice per month.
+- If you have a large number of attendees, send out some possible dates/times and ask people when they are available.  For senior leaders, work with their executive assistant.
+- Be aware of your attendees' time zones and avoid scheduling meetings before 11 AM or after 5 PM ET.
+- Avoid scheduling meetings on Fridays.  Many VA employees have a compressed work schedule and are off every other Friday.
+- Schedule meetings in Microsoft Teams from your VA.gov email address.
+- Schedule meetings to start at 5 minutes after the hour or half hour.
+- Include an agenda, purpose, and expected outcomes in your meeting invite.
+- Default meetings to 30 minutes unless there is a great deal of material to cover.
+- If attendees are expected to give opinions or discuss content or other written materials, provide it as a pre-read least 24 hours before the meeting to give attendees time to look it over. 
+- If someone essential to your meeting objective -- key team member, subject matter expert, or decision-maker -- declines, reschedule.
+
     - Meetings
     - Agile Scrum
     - Ceremonies
