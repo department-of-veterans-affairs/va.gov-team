@@ -16,7 +16,7 @@ Welcome to the My HealtheVet Health Portal team.  We're glad you're here!  This 
 The My HealtheVet on VA.gov team’s mission is to simplify Veterans’ health experience on the web by consolidating all health things into a single health “home” on VA.gov. As we consolidate the health experience, we will work closely with the "classic" My HealtheVet / Office of Connected Care (OCC) and with teams throughout OCTO.
 
 ## Office of the CTO (OCTO) Team Members
-- Portfolio: Lauren Alexanderson
+- Health Portfolio: Lauren Alexanderson
 - Product - Landing Page/Portal Experience: Marci McGuire
 - Product - Secure Messaging: Patrick Bateman
 - Product - Medical Records: Marci McGuire
