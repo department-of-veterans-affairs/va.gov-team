@@ -4,6 +4,10 @@ Updated 7/11/2025
 ## Table of Contents
 - [We assume positive intent](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/how-we-work.md#we-assume-positive-intent)
 - [Communications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/how-we-work.md#communications)
+    - [Slack](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/how-we-work.md#slack)
+    - [Email](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/how-we-work.md#email)
+    - [Microsoft Teams](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/how-we-work.md#microsoft-teams)
+    - [Scheduling Meetings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/how-we-work.md#scheduling-meetings)
 - [Project Methodology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/how-we-work.md#project-methodology)
 - [Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/how-we-work.md#documentation)
   
