@@ -87,13 +87,13 @@ Participants were shown limited-functionality Figma prototypes and asked to perf
 
 ## Key Findings
 
-**1.** The task list pattern was slightly more preferred over the traditional form flow, scored well on the ease-of-use question and participants liked the sections, information and status labels.
+**1. The task list pattern was slightly more preferred over the traditional form flow, scored well on the ease-of-use question and participants liked the sections, information and status labels.**
 
-**2.** Personal preference - to navigate linear or more freely by section.
+**2.Personal preference - to navigate linear or more freely by section.** 
 
-**3.** The task list pattern tested showed participants had some confusion around the clickable elements - they equally wanted click on the text name or the status tag to navigate.
+**3. The task list pattern tested showed participants had some confusion around the clickable elements - they equally wanted click on the text name or the status tag to navigate.**
 
-**4.** Participants stated there was a lot of information to provide and gathering documents beforehand would be important.
+**4. Participants stated there was a lot of information to provide and gathering documents beforehand would be important.**
 
 
 
@@ -117,10 +117,17 @@ Those who preferred the task list option over the traditional flow, often stated
 There was a mix of reasons why provided in the post-task comments around why participants preferred one version over the other. These reasons ranged from being too overwhelmed and needing focus to liking the overview and manuverablity. 
 
 **Quotes:**
-- _I liked it, but it did seem more complex that the Green. Both were clear to me and easy. But I think the Orange may be more difficult for some. Both were good._  
-- _The separate sections that haven’t been completed give me anxiety. It’s probably my OcD and seeing the incomplete_
+
+Prefer Task List Flow (Orange Prototype)
 - _The task list, 100%_
+- _I prefer the Orange option because it showed me what I had completed and what was upcoming. However, the Green option had a cleaner look and feel to me._
+- _I liked it, but it did seem more complex that the Green. Both were clear to me and easy. But I think the Orange may be more difficult for some. Both were good._  
+
+  
+Prefer Traditional Flow (Green Prototype)
+- _While I can't quantify it, it just felt less intimidating. It was very straightforward and easy to follow. I would not have any hesitations about completing the process and I think the dropout rate would be low._
 - _I like the one click navigation, it doesn't leave a lot of room for error once you get the section you need, just keep clicking._
+- _The separate sections that haven’t been completed give me anxiety. It’s probably my OcD and seeing the incomplete_
 
 
 
