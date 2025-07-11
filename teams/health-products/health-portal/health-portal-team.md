@@ -67,19 +67,15 @@ OCTO falls under the VA's Office of Information and Technology (OIT).  Its missi
 
 ### OCTO Structure
 OCTO is made up of six portfolios: 
-#### Digital Experience
+-  Digital Experience <br>
 Mission: Continuously deliver high-quality digital experiences for the benefit of all Veterans and their families.
-
-#### Technology Innovations
-Mission: Accelerate innovation across VA to more quickly access innovative health care and benefits solutions to save Veterans and VA time and money. ​
-
-#### Benefits Delivery
+- Technology Innovations<br>
+ Mission: Accelerate innovation across VA to more quickly access innovative health care and benefits solutions to save Veterans and VA time and money. ​
+- Benefits Delivery <br>
 Mission: Get Veterans benefits in minutes, not months.
-
-#### Health Care Delivery
+- Health Care Delivery<br>
 Mission: Enable Veterans & their care teams to spend more time focusing on their health goals and less time navigating the technology that supports those goals.  The 
-
-#### Artificial Intelligence
+- Artificial Intelligence<br>
 Mission: Establish VA’s agency-wide roadmap for trustworthy, responsible, and effective AI execution.
 
 ### OCTO Communities of Practice
