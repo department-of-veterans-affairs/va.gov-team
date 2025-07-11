@@ -48,39 +48,30 @@ O1: VA’s digital experiences are the easiest and most efficient way to access 
 
 ## Reference Materials
 
-\#\#\#\# Communications
+## Communications
 
-\<details\>
+<details>
 
-\- Team Name: Mobile Feature Support  
-\- GitHub Label: N/A (need to remove)  
-\- Slack channel: \#mobile-feature-support-public   
-\- Product POCs:  
-  \- Michelle Middaugh, VA Product Owner, Mobile Feature Support  
-  \- Ryan Thurlwell, VA Lead, VA Mobile App
+- Team Name: Mobile Feature Support   
+- Slack channel: \#mobile-feature-support-public   
+- Product POCs:  
+  - Michelle Middaugh, VA Product Owner, Mobile Feature Support  
+  - Ryan Thurlwell, VA Lead, VA Mobile App
+ 
 
-\- Stakeholders: 
+</details>
 
-\</details\>
+## Stakeholders 
 
-\#\#\#\# Team Members
+#### Team Members
 
-\<details\>  
+<details>
    
- \- DEPO Lead: ??  
- \- PM: Natalie Gibbons  
- \- Engineering: Alex Teal  
- \- Research/Design: ??  
+ - PM: Natalie Gibbons  
+ - Engineering: Alex Teal  
+ - Design: Natasha Huckleberry 
    
-\</details\>
 
-\#\#\#\# Stakeholders \- Natalie doesn’t think we need to put anything here.
-
-\<details\>  
-   
-\_What offices/departments are critical to make this initiative successful?\_  
-   
-\</details\>
 
  
 
