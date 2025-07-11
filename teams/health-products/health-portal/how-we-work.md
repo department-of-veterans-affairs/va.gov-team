@@ -1,7 +1,13 @@
 # How We Work
 Updated 7/10/2025
 
-## Assume positive intent
+Table of Contents
+- [We assume positive intent](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/how-we-work.md#we-assume-positive-intent)
+- [Communications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/how-we-work.md#communications)
+- [Project Methodology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/how-we-work.md#project-methodology)
+- [Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/how-we-work.md#documentation)
+  
+## We assume positive intent
 We are all here because we want to improve the lives of Veterans.  To that end, our default assumption is that everyone involved with this work has done their best to build a positive experience with what was available to them at the time.  The decisions that got us here were made by smart and capable people, and were likely influenced by forces beyond their control like legislation, policy, privacy, security, patient safety, technology, budget, or other constraints.
 
 ## Communications
