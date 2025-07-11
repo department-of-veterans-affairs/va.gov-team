@@ -34,6 +34,7 @@ We are all here because we want to improve the lives of Veterans.  To that end, 
 
 ### Microsoft Teams
 - Some OCC stakeholders prefer to communicate via chat in Microsoft Teams.  This is a good option for getting quick answers once you've gotten acquainted with them and have a feel for their communication preferences.
+- Teams is also the platform we use for virtual meetings.  More details are provided in [_Scheduling Meetings_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/how-we-work.md#scheduling-meetings) below.
 
 ### Scheduling Meetings
 - Schedule meetings in Microsoft Teams from your VA.gov calendar.  Zoom is no longer supported by VA and many VA staff can't access it.
