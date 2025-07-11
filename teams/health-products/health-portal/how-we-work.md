@@ -62,6 +62,7 @@ We are all here because we want to improve the lives of Veterans.  To that end, 
 
 ## Project Methodology
 - We follow Agile Scrum methodology and hold the standard scrum ceremonies (sprint planning, daily standup, backlog refinement, sprint demo and retrospective).
+- Schedule TBD
 
 ## Documentation
 - Document storage specifics for your area of practice will be discussed later in our orientation materials.  As a general rule, we store project documents in GitHub and SharePoint.   Documentation should never be stored in Google Drive, DropBox, or other systems not approved or accessible by VA.
