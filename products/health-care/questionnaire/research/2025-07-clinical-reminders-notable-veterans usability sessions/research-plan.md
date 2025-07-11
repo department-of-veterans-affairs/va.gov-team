@@ -52,8 +52,8 @@ Moderated, semi-structured usability sessions with Veterans.
 ## Location
 - Location: Sessions will take place remotely via the Zoom meeting platform.  
 - Point of Contact: Slack feedback channel and MS Teams chat  
-  - Nina Anusavice (nina.anusavice@va.gov)  
-  - Alyssa Li ((Alyssa.Li@va.gov)
+  - Nina Anusavice 
+  - Alyssa Li 
     
 • Equipment: Veterans may choose to use native assistive devices during sessions; subject to participant recruitment.  
 
@@ -66,7 +66,7 @@ Moderated, semi-structured usability sessions with Veterans.
     - DOB:03/09/1945
     - Last name:FIVE
 
-**Note**: Links expire July 10th at 8:00 am ET; please contact nina.anusavice@va.gov to request additional links or to refresh expired links.
+**Note**: Links expire July 10th at 8:00 am ET; please contact Nina Anusavice to request additional links or to refresh expired links.
 
 ## Recruitment
 - We are using a lean maximum variation sampling approach.  
@@ -156,21 +156,22 @@ Planned dates of research are July 21, 2025 –July 25, 2025
 
 ## Team Roles
 - Moderator:  
-  - Nina Anusavice (Nina.Anusavice@va.gov)  
-  - Alyssa Li (Alyssa.Li@va.gov)  
+  - Nina Anusavice 
+  - Alyssa Li 
 - Research guide writing and task development:  
-- Nina Anusavice (Nina.Anusavice@va.gov)  
+- Nina Anusavice 
 - Participant recruiting & screening:  
   - Perigean
 - Project point of contact:  
-  - Nina Anusavice (Nina.Anusavice@va.gov)  
+  - Nina Anusavice 
 - Participant(s) for pilot test: N/A  
 - Note-takers:  
-  - Nina Anusavice (Nina.Anusavice@va.gov)
-  - Alyssa Li (Alyssa.Li@va.gov)  
+  - Nina Anusavice 
+  - Alyssa Li 
 - Observers:  
-  - Kristen McConnell (Kristen.Mcconnell@va.gov)
-  - Alyssa Li (Alyssa.Li@va.gov)
-  - Shawn Adams (Shawn.Adams@va.gov)
-  - Nilesh Shah (Nilesh.Shah@va.gov)
-  - Richard Garrison (Richard.Garrison2@va.gov)
+  - Kristen McConnell 
+  - Alyssa Li 
+  - Shawn Adams 
+  - Nilesh Shah 
+  - Richard Garrison
+  - Tim Licitra
