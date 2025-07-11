@@ -2,10 +2,19 @@
 Updated 7/10/2025
 
 ## Assume positive intent
+We are all here because we want to improve the lives of Veterans.  To that end, our default assumption is that everyone involved with this work has done their best to build a positive experience with what was available to them at the time.  The decisions that got us here were made by smart and capable people, and were likely influenced by forces beyond their control like policy, legal, patient safety, technical, budgetary, or other constraints.
 
-## Team communications
-
-   - Communication
+## Communications expectations
+These expectations will help you determine the best way to contact various team members and stakeholders and save you from waste time attempting to reach people via channels they may not frequent.
+### Slack
+- Slack is the default communication channel for My HealtheVet teams and most teams creating applications on VA.gov and VA Health and Benefits mobile apps.
+- Information on getting access to Slack is included later in our orientation checklist.
+- Use public channels by default.
+- Before posting in a channel you're new to, view the channel  topic and description.  Some channels ask that threads be started with a command to initiate a workflow.
+- Thread conversations to reduce noise in channels 🧵
+- Start new threads with a short intro, then reply to it to add additional details and collaborate.
+- If an ongoing thread needs to be moved to a different channel, include a link back to the original conversation, and add a link from the original to the new, noting that the conversation has been moved.
+   - Communication expectations
         - Within OCTO/VA.gov
         - With Stakeholders
     - Meetings
