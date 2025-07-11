@@ -6,19 +6,21 @@ We are all here because we want to improve the lives of Veterans.  To that end, 
 
 ## Communications
 ### Slack
-- Slack is the default communication channel for My HealtheVet teams and most teams creating applications on VA.gov and VA Health and Benefits mobile apps.
-- Information on getting access to Slack is included later in our orientation checklist.
-- Use public channels by default.
+- Information on getting access to Slack and helpful features is will be discussed later in our orientation material.
+- Slack is the preferred communication channel for My HealtheVet teams and most teams creating applications on VA.gov and VA Health and Benefits mobile apps.
+- Anything written in Slack is subject to the Freedom of Information Act (FOIA).
+- We encourage transparency and conversing in public channels by default.
+- Personal Health Information (PHI), Personally Identifiable Information (PHI), and credentials should never be shared in Slack, including private channels.  Use encrypted email or provide a link to the appropriate test user list in the GitHub sensitive repository.  If you're not sure if something qualifies as PHI or PII, ask your OCTO product or engineering lead.
 - Before posting in a channel you're new to, read the channel topic and description.  Some teams ask that threads be started with a command to initiate a workflow.
 - Thread conversations to reduce noise in channels 🧵
-- Start new threads with a short intro, then reply to it to add additional details and collaborate.
+- A helpful practice for keeping channels uncluttered is to begin new threads with a short intro, then reply to your own thread to add details and collaborate.
+- When making a correction, it's common practice to strike through the original information and add the new information after the stricken text.
 - If an ongoing thread needs to be moved to a different channel, include a link back to the original conversation, and add a link from the original to the new, noting that the conversation has been moved.
 - If you're going to be out of office, update your status with the ❌ icon, along with an OOO note and the relevant dates.
-- Personal Health Information (PHI), Personally Identifiable Information (PHI), and credentials should never be shared in Slack, including private channels.  Use encrypted email or provide a link to the appropriate test user list in the GitHub sensitive repository.
 
 ### Email
-- Email is the best way to make initial contact with OCC stakeholders. 
-- Conduct all VA business via your VA.gov email address.
+- Conduct all VA business from your VA.gov email address.
+- Email is the recommended option for initiating contact with OCC stakeholders and other VA business partners.
 - Everyone working on VA.gov is expected to check their VA email regularly.  Our OCC stakeholders generally communicate with us via email, and VA policy dictates that employees are not to discuss VA business with anyone using a non-VA email address.
 - Never share Personal Health Information (PHI), Personally Identifiable Information (PHI), or log in credentials in unencrypted email.  This includes screen shots in which that type of information is visible.
 - Email is good for quick communications with VHA stakeholders, particularly if their response needs to be shared with the team, used as reference, or stored with project documents.  If there are a large number of questions to be answered, or discussion is required, emails often will not yield a good result.
@@ -55,22 +57,7 @@ We are all here because we want to improve the lives of Veterans.  To that end, 
     * Use VA.gov email
         * Encrypt anythingthat includes PII or PHI
         * Schedule meetings in Teams
-    * We use Slack as primary form of communication
-        * No PII or PHI
-        * Transparency is key -- use public channels as much as possible
-        * Links to our team/pod channels
-        * Links to platform and support channels 
-        * Links to other important channels 
-        * Features
-            * Canvases
-            * Lists
-        * Threading conversations 
-        * Tips
-            * Pinning canvases, lists, docs
-            * Creating self reminders
-            * Creating team reminders
-            * Saving posts for later
-            * using Reactions to provide more engagement
+    
 
 ## Agile Scrum
 
