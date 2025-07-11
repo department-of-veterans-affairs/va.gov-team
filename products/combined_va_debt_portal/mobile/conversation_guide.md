@@ -131,7 +131,7 @@ _(request they share screen)_
 
 Please open up the Figma app, and I’ll be walking you through how to sign in. 
 * _(share test credentials with them)_
-* _(after logging in, send them prototype link over Zoom chat)_
+* _(after logging in, send them [prototype link](https://www.figma.com/proto/kRA7JHbthNrSLxTQHrzH8T/MFS---Overpayments---Copays-%7C-VA-Mobile?page-id=2001%3A429&node-id=7274-61308&p=f&viewport=24600%2C-1348%2C0.59&t=RzEWQo0ZfxtjJRxF-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=7274%3A61308&show-proto-sidebar=1) over Zoom chat)_
 
 
 From home screen
@@ -174,7 +174,7 @@ _(no payment option)_ ❌ 💵 ❌
 
 _(with payment option)_ ✅ 💵 ✅
 
-* Now I'm going to have you click [location TBD] to view a different version.
+* Now I'm going to have you [open another prototype](https://www.figma.com/proto/kRA7JHbthNrSLxTQHrzH8T/MFS---Overpayments---Copays-%7C-VA-Mobile?page-id=2001%3A429&node-id=7372-28070&p=f&viewport=24600%2C-1348%2C0.59&t=RzEWQo0ZfxtjJRxF-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=7372%3A28070&show-proto-sidebar=1) to view a different version.
     * If you are ready to make a payment on this debt, walk me through how you would do that.
     * Talk to me about that experience of starting to make the payment (e.g. opening .gov, new sign-in, copying payment + account info)
     * After you’ve made a payment, what would you expect to see? When would you expect to see an update?
@@ -304,7 +304,7 @@ _(request they share screen)_
 
 Please open up the Figma app, and I’ll be walking you through how to sign in. 
 * _(share test credentials with them)_
-* _(after logging in, send them prototype link over Zoom chat)_
+* _(after logging in, send them [prototype link](https://www.figma.com/proto/kRA7JHbthNrSLxTQHrzH8T/MFS---Overpayments---Copays-%7C-VA-Mobile?page-id=2001%3A429&node-id=7274-61308&p=f&viewport=24600%2C-1348%2C0.59&t=RzEWQo0ZfxtjJRxF-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=7274%3A61308&show-proto-sidebar=1) over Zoom chat)_
 
 From home screen
 
@@ -352,7 +352,7 @@ _(no payment option)_ ❌ 💵 ❌
 
 _(with payment option)_ ✅ 💵 ✅
 
-* Now I'm going to have you click [location TBD] to view a different version. _(with payment option)_
+* Now I'm going to have you [open another prototype](https://www.figma.com/proto/kRA7JHbthNrSLxTQHrzH8T/MFS---Overpayments---Copays-%7C-VA-Mobile?page-id=2001%3A429&node-id=7372-28070&p=f&viewport=24600%2C-1348%2C0.59&t=RzEWQo0ZfxtjJRxF-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=7372%3A28070&show-proto-sidebar=1) to view a different version. _(with payment option)_
     * If you are ready to make a payment on this bill, walk me through how you would do that.
     * Talk to me about that experience of starting to make the payment (e.g. opening .gov, new sign-in, copying payment + account info)
     * After you’ve paid this bill, what would you expect to see? When would you expect to see an update?
