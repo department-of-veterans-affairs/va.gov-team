@@ -66,7 +66,7 @@ During the transition period, the delivery team will work across all patient por
 | Kevin Suarez | Backend Engineer | kevin.suarez@agile6.com | kevin.suarez1@va.gov | [@Kevin Suarez](https://dsva.slack.com/team/U081A32NU4X) | [kjsuarez](https://github.com/kjsuarez) |
 | Liz Townsend | Mobile Engineer | liz.townsend@adhocteam.us | elizabeth.townsend4@va.gov | [@Liz Townsend](https://dsva.slack.com/team/U06059URY69) | [liztownd](https://github.com/liztownd) |
 | Mario Williams | Frontend Engineer | mwilliams@ironarchtech.com | TBD | TBD | TBD |
-| Geoff Winner | Mobile Engineer | geoff.winner@agile6.com | TBD | TBD | TBD |
+| Geoff Winner | Mobile Engineer | geoff.winner@agile6.com | TBD | TBD | [geoff-winner](https://github.com/geoff-winner) |
 | Athena Bozak | Researcher/Designer | athena.bozak@agile6.com | Athena.Bozak@va.gov | [@Athena Bozak](https://dsva.slack.com/team/U07VBDM5M6J) | [athenabozak](https://github.com/athenabozak) |
 | Jonathan Nelson | Designer | jonathan.nelson@adhocteam.us | jonathan.nelson@va.gov | [@Jonathan Nelson](https://dsva.slack.com/team/URMHM214N) | [jonathanjnelson](https://github.com/jonathanjnelson) |
 
