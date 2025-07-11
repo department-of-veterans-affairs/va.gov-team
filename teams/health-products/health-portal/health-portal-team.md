@@ -2,17 +2,17 @@
 Updated 7/10/2025
 
 ## Table of Contents
-- [Welcome](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams#welcome)
-- [Team Mission](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams#team-mission)
-- [Office of the CTO (OCTO) Team Members](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/health-products/health-portal/health-portal-team.md#office-of-the-cto-octo-team-members)
-- [Product team members](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams#product-team-members)
-- [What we're working on](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams#what-were-working-on)
-- [About OCTO](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams#about-octo)
+- [Welcome](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/health-portal-team.md#welcome)
+- [Team Mission](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/health-portal-team.md#our-mission)
+- [Office of the CTO (OCTO) Team Members](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/health-portal-team.md#office-of-the-cto-octo-team-members)
+- [Product team members](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/health-portal-team.md#product-team-members)
+- [What we're working on](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/health-portal-team.md#what-were-working-on)
+- [About OCTO](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/health-portal-team.md#about-octo)
 
 ## Welcome
 Welcome to the My HealtheVet Health Portal team.  We're glad you're here!  This document gives an overview of the team, our mission, structure, and what we're working on. 
 
-## Our Mission
+## Team Mission
 The My HealtheVet on VA.gov team’s mission is to simplify Veterans’ health experience on the web by consolidating all health things into a single health “home” on VA.gov. As we consolidate the health experience, we will work closely with the "classic" My HealtheVet / Office of Connected Care (OCC) and with teams throughout OCTO.
 
 ## Office of the CTO (OCTO) Team Members
