@@ -14,35 +14,44 @@ We are all here because we want to improve the lives of Veterans.  To that end, 
 - Start new threads with a short intro, then reply to it to add additional details and collaborate.
 - If an ongoing thread needs to be moved to a different channel, include a link back to the original conversation, and add a link from the original to the new, noting that the conversation has been moved.
 - If you're going to be out of office, update your status with the ❌ icon, along with an OOO note and the relevant dates.
+- Personal Health Information (PHI), Personally Identifiable Information (PHI), and credentials should never be shared in Slack, including private channels.  Use encrypted email or provide a link to the appropriate test user list in the GitHub sensitive repository.
 
 ### Email
+- Email is the best way to make initial contact with OCC stakeholders. 
 - Conduct all VA business via your VA.gov email address.
-- Everyone working on VA.gov is expected to check their VA email regularly.  Our stakeholders generally communicate with us via email, and VA policy dictates that employees are not to discuss VA business with anyone using a non-VA email address.
+- Everyone working on VA.gov is expected to check their VA email regularly.  Our OCC stakeholders generally communicate with us via email, and VA policy dictates that employees are not to discuss VA business with anyone using a non-VA email address.
+- Never share Personal Health Information (PHI), Personally Identifiable Information (PHI), or log in credentials in unencrypted email.  This includes screen shots in which that type of information is visible.
 - Email is good for quick communications with VHA stakeholders, particularly if their response needs to be shared with the team, used as reference, or stored with project documents.  If there are a large number of questions to be answered, or discussion is required, emails often will not yield a good result.
 - Know when it's time to move the conversation to a meeting. If an email thread goes beyond ~5 replies, considering scheduling a meeting and following it up with an email confirming any decisions made.
 
 ### Meetings
-- Check your invitees' calendars before scheduling to ensure they don't have a conflict. If you can't find a time that works for everyone, ask before booking over an existing meeting.
+- Schedule meetings in Microsoft Teams from your VA.gov email address.  Zoom is no longer supported by VA and many VA staff can't access it.
+- Schedule meetings to start at 5 minutes past the hour or half hour.
+- Default meetings to 30 minutes unless there is a great deal of material to cover.
+- Include an agenda, purpose, and expected outcomes in the meeting invite.
+- If attendees are expected to give opinions or discuss content or other written materials, send it as a pre-read at least 24 hours before the meeting to give attendees time to look it over. 
+- If someone essential to achieving your meeting objective declines, such as a key team member, subject matter expert, or decision-maker, reschedule.
+- Host meetings on Teams (Zoom is no longer supported by VA and many VA staff can't access it)
+- Check invitees' calendars before scheduling to ensure they they are available. If you can't find a time that works for everyone, ask before booking over an existing meeting.
 - When scheduling recurring meetings, check your attendees's calendars for the whole month to avoid conflicts with meetings that only occur once or twice per month.
 - If you have a large number of attendees, send out some possible dates/times and ask people when they are available.  For senior leaders, work with their executive assistant.
-- Be aware of your attendees' time zones and avoid scheduling meetings before 11 AM or after 5 PM ET.
-- Avoid scheduling meetings on Fridays.  Many VA employees have a compressed work schedule and are off every other Friday.
-- Schedule meetings in Microsoft Teams from your VA.gov email address.
-- Schedule meetings to start at 5 minutes after the hour or half hour.
-- Include an agenda, purpose, and expected outcomes in your meeting invite.
-- Default meetings to 30 minutes unless there is a great deal of material to cover.
-- If attendees are expected to give opinions or discuss content or other written materials, provide it as a pre-read least 24 hours before the meeting to give attendees time to look it over. 
-- If someone essential to your meeting objective -- key team member, subject matter expert, or decision-maker -- declines, reschedule.
+- We have team members in all US time zones, so avoid scheduling meetings before 11 AM or after 5 PM ET.
+- Avoid scheduling meetings on Fridays as many VA employees work compressed schedules and are off every other Friday.
+- Standing meeting times to avoid:
+    - VFS All Teams - Tuesdays 12-1 PM ET
+    - MHV Weekly Standup - Wednesdays 11:30 - noon ET
+    - OCTO All Hands - Thursdays 12-1 PM ET
+    - OCTO Health Portfolio All Hands - Tuesdays
+    - 
 
-    - Meetings
-    - Agile Scrum
+
+     - Agile Scrum
     - Ceremonies
     - Standing meetings
     - Storing documents
     - Celebrating successes
     - 
-- Slack for communication with OCTO, VFS teams
-    * Use VA Teams to participate in communication with some VHA stakeholders and store files to share with our business partners 
+
     * Use VA.gov email
         * Encrypt anythingthat includes PII or PHI
         * Schedule meetings in Teams
@@ -66,24 +75,8 @@ We are all here because we want to improve the lives of Veterans.  To that end, 
 ## Agile Scrum
 
 ## Meetings
-        * Host meetings on Teams (Zoom is no longer supported by VA and many VA staff can't access it)
-        * Log in from VA.gov network so everyone has access to recordings and transcripts
-        * Host should send invite from VA.gov calendar
-            * Include purpose, agenda, goal
-            * Send pertinent documents out ahead of time 
-        * List of our standing meetings (times to avoid)
-            * Health Portfolio
-            * OCTO All-Hands
-            * Thought: Maybe we should try to coordinate our calendars before onboarding new teams so team meetings are roughly the same day/time and have more availability for unplanned meetings?
-        * Check key attendees' calendars for availability (using VA.gov calendar will simplify)
-            * Ask before scheduling over blocked or tentative times 
-            * If a key attendee can’t attend, reschedule 
-            * Suggestions for hard to schedule time sensitive meetings (Outlook tool, When2Meet)
-        * Start 5 minutes after the hour
-        * Save meeting notes (where?)
-        * Send out notes, action items, documents after
-        * Meeting are considerate for time zone
-
+--TBD-- Still being finalized
+       
 ## Documentation
 - Store documents in GitHub, SharePoint, but not on Google Drive, DropBox, etc.
 - Anything containing credentials should be stored in the GitHub sensitive repo
