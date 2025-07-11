@@ -1,5 +1,4 @@
-## How to discharge or remove a representative
-
+# How to discharge or remove a representative
 > The following information is from a google search on 7/11/2025. This is the same level of information the user received when their search starts online. 
 
 To remove a Veterans Service Officer (VSO) representative, a veteran can either appoint a new representative or submit a statement to the VA indicating they no longer wish to be represented by the current VSO. Appointing a new representative automatically revokes the previous one. 
@@ -22,10 +21,24 @@ Here's a more detailed breakdown:
 *   Some VSOs may not take representation for claims at the Board of Veterans Appeals, so it's important to find a representative who can assist with the specific stage of the claim.
 
 ***
+### FAQ Content around Question
+> The information below is from Platform Content during the FAQ content development for the Appoiont a Representative tool
 
+You can discharge your accredited representative at any time and for any reason. Or, you can appoint a new accredited representative to replace your current one. If you do, you should tell your former accredited representative of your decision right away.
+
+[Find and appoint an accredited representative](https://www.va.gov/get-help-from-accredited-representative "Get help from a VA accredited representative or VSO")
+
+Choose 1 of these 3 ways to cancel your representation:
+
+*   Call us at [800-827-1000](tel:+18008271000) ([TTY: 711](tel:711)).
+*   Mail a letter to this address:  
+    Claims Intake Center  
+    PO BOX 4444  
+    Janesville, WI 53547
+*   Fax a letter to [844-531-7818](tel:+18445317818) if you live in the U.S. (Or, if you live outside the U.S., fax a letter to [248-524-4260](tel:+12485244260).)
 
 ### (062025)Revocation: does a Veteran/claimant need to include any specific keywords when requesting a representative’s authorization be revoked?  And how do they contact the VA for this?
-> The information below is from Platform Content during the FAQ content development for the Appoiont a Representative tool
+> The information below is from the slack canvas titled ARM Investigation
 
 1.  There are no specific keyword requirements nor mandated form of communication (written or verbal) for a represented individual to expressly revoke an appointed representative in 38 C.F.R. § 14.631 or M21-1 I.i.2.A.6.. A completed VAF 21-22 or VAF 21-22a may be used to implicitly revoke an appointed representative.
 2.  If someone wants to expressly revoke their representative, they can submit any type of correspondence stating they no longer want their representative to assist them. It doesn’t need to have any specific language, but we do need to be able to construe that the claimant no longer wants someone as their representative. Representation can implicitly be terminated by death of the represented individual, completion of a limited representation, or by appointing a new representative.
