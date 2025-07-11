@@ -9,8 +9,7 @@ This page contains quantitative data intended to measure whether SMOC was succes
 |Engagement|Claims view rate|Measures the rate at which Veterans view their claim details|Veterans will want more information about their claim than provided|# of SSO link clicks to the claim details page on VA.gov||
 |Engagement|PastAppointmentDetails screen views|Measures how often Veterans view the PastAppointmentDetails screen|Veterans will view the past appointment details screen at a higher rate because Veterans want to file for travel reimbursement|# of PastAppointmentDetails screen views|Baseline metric|
 |Engagement|Total abandoment rate|Veterans that start filing a travel claim and drop out of the flow for whatever reason|Most users will abandon on the intro screen |# of submissions (from DataDog) |# of InterstitialScreen views|
-
-|Engagement|Anbandoment rates/screen (to calculate for the intro screen: if 10 people viewed the intro screen, and only 4 viewed the mileage screen, that is (10-4)/10 or a 60% abandonment rate on the intro screen) |If abandoned during the flow, what screen they abandoned | Most will abandon on the intro screen | current screen views - following screen views | current screen views  |
+|Engagement | Abandoment rates/screen (e.g.: to calculate for the intro screen: if 10 intro screen views, and 4 mileage screen views, that is (10-4)/10 or a 60% abandonment rate on the intro screen) |If abandoned during the flow, what screen they abandoned | Most will abandon on the intro screen | current screen views - following screen views | current screen views |
 | Performance | Average latency |  | |  |  |
 | Retention | Total submissions | How many claims are submitted | As more users learn of the availability of SMOC on Mobile submissions will rise | # of submissions (from DataDog)  |  |
 
