@@ -95,7 +95,6 @@ Participants were shown limited-functionality Figma prototypes and asked to perf
 
 **4.** Participants stated there was a lot of information to provide and gathering documents beforehand would be important.
 
-**5.** Participants had comments that providing household financials was a lot to do, very intrusive.
 
 
 ## Details of Findings 
@@ -103,8 +102,7 @@ Participants were shown limited-functionality Figma prototypes and asked to perf
 *Provide detailed descriptions and supporting evidence for each key finding.*  
 
 **Finding 1: The task list pattern was slightly more preferred over the traditional form flow, scored well on the ease-of-use question and participants liked the sections, information and status labels.**  
-
-Brief description
+Those who preferred the task list option over the traditional flow, often stated they liked the categories, steps and statuses that were clearly labeled. 
 
 - Supporting data in Post-Study Questions: Overall, 44.1% (19 participants) stated they preferred the task list (orange) protoytpe, compared to only 39.5% (17) preferring the traditional form flow. 16.3% (7) participants had no prefernce between the two. 
 - Supporting data in Post-Task Questions: In cohort 1, 71.4% rated the task list prototype as Very Easy and in cohort 2, 63.6% rated as Very Easy. This is compared to the ratings for the green prototype of cohort 1, 52.4% and cohort 2, 77.3%.  
@@ -112,6 +110,7 @@ Brief description
 **Quotes:**
 - _I liked that the categories were broken down into the 6 sections. It made it easier to know if you successfully completed the individual sections._
 - _Large, easy to see categories with nested subs and automatic transition to the next page after section completion. The groupings also made sense so an applicant can have all their information ready to submit._
+- _Navigation was fairly easy and clearly labeled._
 
 
 **Finding 2: Personal preference - to navigate linear or more freely by section.**  
@@ -126,7 +125,7 @@ There was a mix of reasons why provided in the post-task comments around why par
 
 
 **Finding 3: The task list pattern tested showed participants had some confusion around the clickable elements - they equally wanted click on the text name or the status tag to navigate.**  
-Brief description: The clickmaps showed that participants clicked on the name and tag equally and also utilized the task list blue navigation bar to navigate around and back to the list.
+The clickmaps showed that participants clicked on the name and tag equally and also utilized the task list blue navigation bar to navigate around and back to the list.
 
 
 **Clickmap images:**
@@ -146,10 +145,12 @@ Green:
 
 
 **Finding 4: Participants stated there was a lot of information to provide and gathering documents beforehand would be important.**  
-Brief description:
+Brief description: On the question around how they would describe this to a friend, the topic of gathering your informaiton, documents and having it all ready beforehand would be important factor on the ease-of-use of completing the form.
+
 **Quotes:**
 - _Again, a tedious job that just has to be endured._
 - _It is easy to utilize. Just ensure you have all the required documentation and you should be able to get through it fairly quickly._
+- _If veterans are going to be required to submit that much paperwork for health care many may not even bother to use either one.For me they are relatively easy to use,but I can see that it be difficult for others_
 
 
 
@@ -159,7 +160,7 @@ Brief description:
 - Participants mentioned saving and returing to the form later and calling out the application save and ID details in the lower green alert.
 - A small theme on cohort 1 only that contradicted normal sentiment heard in studies - this group had positive things to say about the steps in the form progress bar stepper. 
 - Participants did state the instructions were often clear and understandable
-- _One of the easiest to understand that VA has had me fillout_
+ _One of the easiest to understand that VA has had me fillout_
 
   
 
