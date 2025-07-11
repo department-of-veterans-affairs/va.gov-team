@@ -26,7 +26,7 @@ We are all here because we want to improve the lives of Veterans.  To that end, 
 
 ### Meetings
 - Schedule meetings in Microsoft Teams from your VA.gov email address.  Zoom is no longer supported by VA and many VA staff can't access it.
-- Schedule meetings to start at 5 minutes past the hour or half hour.
+- We schedule meetings to start at 5 minutes past the hour or half hour to give folks a break between back-to-back meetings.
 - Default meetings to 30 minutes unless there is a great deal of material to cover.
 - Include an agenda, purpose, and expected outcomes in the meeting invite.
 - If attendees are expected to give opinions or discuss content or other written materials, send it as a pre-read at least 24 hours before the meeting to give attendees time to look it over. 
