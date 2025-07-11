@@ -26,7 +26,7 @@ We are all here because we want to improve the lives of Veterans.  To that end, 
 - Email is good for quick communications with VHA stakeholders, particularly if their response needs to be shared with the team, used as reference, or stored with project documents.  If there are a large number of questions to be answered, or discussion is required, emails often will not yield a good result.
 - Know when it's time to move the conversation to a meeting. If an email thread goes beyond ~5 replies, considering scheduling a meeting and following it up with an email confirming any decisions made.
 
-### Meetings
+### Scheduling Meetings
 - Schedule meetings in Microsoft Teams from your VA.gov email address.  Zoom is no longer supported by VA and many VA staff can't access it.
 - We schedule meetings to start at 5 minutes past the hour or half hour to give folks a break between back-to-back meetings.
 - Default meetings to 30 minutes unless there is a great deal of material to cover.
@@ -41,29 +41,15 @@ We are all here because we want to improve the lives of Veterans.  To that end, 
 - Avoid scheduling meetings on Fridays as many VA employees work compressed schedules and are off every other Friday.
 - Standing meeting times to avoid:
     - VFS All Teams - Tuesdays 12-1 PM ET
+    - Tech Tuesday/MHV Patient Health Record Policy Group meetings: Tuesdays at 2 PM ET
     - MHV Weekly Standup - Wednesdays 11:30 - noon ET
     - OCTO All Hands - Thursdays 12-1 PM ET
     - OCTO Health Portfolio All Hands - Tuesdays
-    - 
 
+## Project Methodology
+- We follow Agile Scrum methodology and hold the standard scrum ceremonies (sprint planning, daily standup, backlog refinement, sprint demo and retrospective).
+- We also conduct quarterly planning and have 
 
-     - Agile Scrum
-    - Ceremonies
-    - Standing meetings
-    - Storing documents
-    - Celebrating successes
-    - 
-
-    * Use VA.gov email
-        * Encrypt anythingthat includes PII or PHI
-        * Schedule meetings in Teams
-    
-
-## Agile Scrum
-
-## Meetings
---TBD-- Still being finalized
-       
 ## Documentation
-- Store documents in GitHub, SharePoint, but not on Google Drive, DropBox, etc.
-- Anything containing credentials should be stored in the GitHub sensitive repo
+- Document storage specifics for your area of practice will be discussed later in our orientation materials.  As a general rule, we store project documents in GitHub and SharePoint.   Documentation should never be stored in Google Drive, DropBox, or other systems not approved or accessible by VA.
+- Never store PHI, PII, or credentails in public repositories.
