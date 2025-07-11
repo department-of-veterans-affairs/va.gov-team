@@ -7,10 +7,8 @@ We've created this orientation checklist to help you learn about our team, what 
 If you have questions, don't hesitate to reach out to your OCTO practice lead, [NAME] or your OCTO product lead [NAME].
 
 ## Week One 🥚
-- [ ] [The team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/health-portal-team.md)
-- [ ] [Mission and work]()
-- [ ] [How we work](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/how-we-work.md)
- 
+- [ ] [Get to know the team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/health-portal-team.md)
+- [ ] [Learn about how we work](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/how-we-work.md)
 - [ ] Schedule 15 min to meet with your new team mates
     - [ ] OCTO Product Lead [NAME]
     - [ ] Research/Design Lead [NAME]
