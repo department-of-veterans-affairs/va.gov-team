@@ -1,0 +1,87 @@
+# Performance Dashboard Architecture Intent
+
+- Product description
+  - Brief overview of motivation for the change from an engineering & security point of view
+    - We want to create and expose the ability for users to opt in to receive their forms online instead of receiving them in the mail. We want to update the user interface and deploy it to users
+  - Link to Collaboration Cycle Request issue
+    - ????
+- UX design description
+  - For user-facing changes, link to UX prototype or wireframes if available
+    - https://www.figma.com/design/DWOjExui9JzyzwhMBWOFkw/Paperless-delivery-opt-in?node-id=89-24566&p=f&t=cUuSruVY89EsRdxa-0
+  - Call out any engineering challenges; UX is reviewed in the Design Intent meeting
+    - ????
+- Frontend changes
+  - Identify any significant code changes
+    - We will expose the paperless delivery feature in the va.gov interface
+  - Identify any new design system components needed or changes to current components
+    - N/A
+  - Describe any product analytics being gathered
+    - ????
+- Backend changes
+  - Does the project introduce any new or unusual infrastructure dependencies?
+    - N/A
+  - Do you need to poll any APIs for status?
+    - When a user navigates to the paperless download page, the front end will need to ping the endpoint ???? to determine which forms are available
+  - Are you handling all failure and error cases while in custody of your users's data?
+    - Yes
+- Internal API changes
+  - List new or modified APIs in vets-api
+    - ????
+  - Are you deprecating or removing any APIs?
+    - N/A
+  - Do you have API documentation?
+    - ????
+  - Describe expected call patterns
+    - ????
+- External API changes
+  - List new or modified APIs for upstream or external systems
+    - N/A
+  - Describe expected call patterns
+    - N/A
+  - What PII or PHI will be transmitted to/from the external systems?
+    - N/A
+- Background jobs
+  - List any required background processing
+    - ????
+  - Describe error and dead letter handling
+    - N/A
+- Data storage
+  - Describe new or modified databases, tables or columns
+    - N/A
+  - Describe indexes and constraints
+    - ????
+  - Identify PII and PHI and where and how it will be stored, processed, expired and deleted
+    - No new PII/PHI
+- Libraries and dependencies
+  - List new or updated dependences
+    - N/A
+- Metrics, logging, observability, alerting
+  - Identify key areas to monitor
+    - ????
+- Infrastructure and network changes
+  - List any changes or additions
+    - N/A
+- Test strategy
+  - Describe automated, manual and user acceptance test strategy
+    - No automated testing is planned. Once the paperless delivery section is added to the vets-website interface in the communications settings page in profile, manual testing can be done by logging in as a test user who has forms in the vets-api database and downloading the forms.
+  - Describe required test data and test user accounts
+    - ????
+- Rollout plan
+  - List scope of any feature flags
+    - A feature flag will need to be added on vets-website to expose the option for users to download their forms
+  - Identify other teams to coordinate with
+    - ?????
+  - Describe rollback plan
+    - Turn off feature flag for users.
+- Internal administration tasks
+  - What maintenance or administration tasks do you anticipate will need to be performed periodically?
+    - ????
+  - Describe how you intend for these tasks to be performed (e.g., through an internal web page, through terminal access, etc.).
+    - N/A
+  - What questions do you have regarding items on the security checklist?
+    - None. We will not be introducing any security concerns.
+  - Are there any other security concerns about your project that you want to discuss?
+    - No
+  - What threat modeling have you done, and how did the results influence your planned architecture?
+    - This project doesn't introduce any new threats. It will be protected by
+      the standard vets-website authentication process and no PII will be at risk
