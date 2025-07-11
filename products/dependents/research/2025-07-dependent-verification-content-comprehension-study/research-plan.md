@@ -156,7 +156,6 @@ Where will you be holding the research sessions? Be sure to include whether this
 - `23 Veterans who are mobile users`
 - `12 Veterans who live in rural areas`
 - `12 Veterans who have no degree`
-- `10 Veterans with "Other than honorable" discharge`
 - `8 Veterans of immigrant origin`
 - `8 Veterans who are women`
 - `1 Veteran who is an expat (living abroad)`
