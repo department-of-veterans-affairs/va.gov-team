@@ -1,5 +1,7 @@
 name: Research Plan Frontmatter NLP
-
+permissions:
+  contents: write
+  pull-requests: write
 on:
   workflow_dispatch:
     inputs:
