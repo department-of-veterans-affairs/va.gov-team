@@ -111,6 +111,7 @@ Brief description
 
 **Quotes:**
 - _I liked that the categories were broken down into the 6 sections. It made it easier to know if you successfully completed the individual sections._
+- _Large, easy to see categories with nested subs and automatic transition to the next page after section completion. The groupings also made sense so an applicant can have all their information ready to submit._
 
 
 **Finding 2: Personal preference - to navigate linear or more freely by section.**  
@@ -125,7 +126,8 @@ There was a mix of reasons why provided in the post-task comments around why par
 
 
 **Finding 3: The task list pattern tested showed participants had some confusion around the clickable elements - they equally wanted click on the text name or the status tag to navigate.**  
-Brief description:
+Brief description: The clickmaps showed that participants clicked on the name and tag equally and also utilized the task list blue navigation bar to navigate around and back to the list.
+
 
 **Clickmap images:**
 
@@ -142,14 +144,13 @@ Green:
 
 
 
+
 **Finding 4: Participants stated there was a lot of information to provide and gathering documents beforehand would be important.**  
 Brief description:
 **Quotes:**
+- _Again, a tedious job that just has to be endured._
+- _It is easy to utilize. Just ensure you have all the required documentation and you should be able to get through it fairly quickly._
 
-
-**Finding 4: Participants had comments that providing household financials was a lot to do, very intrusive.**  
-Brief description:
-**Quotes:**
 
 
 ---
@@ -157,7 +158,10 @@ Brief description:
 ## **Additional Insights**
 - Participants mentioned saving and returing to the form later and calling out the application save and ID details in the lower green alert.
 - A small theme on cohort 1 only that contradicted normal sentiment heard in studies - this group had positive things to say about the steps in the form progress bar stepper. 
+- Participants did state the instructions were often clear and understandable
+- _One of the easiest to understand that VA has had me fillout_
 
+  
 
 ## Recommendations
 
