@@ -1,12 +1,10 @@
 # Clinical Design System - KPI success metrics
 
-### FY25
-
+## FY25
 
 #### Adoption rates
 |	Group	|	FY25 Q1 |	FY25 Q2 |	FY25 Q3 |	FY25 Q4 |
 |	----	|	----	|	----	|	----	|	----	|	
-|	CDSC Overall	|	-	|	79	|	-	|	-	|		
 |	Platform console	|	-	|	8	|	-	|	-	|
 |	Task manager	|	-	|	24	|	-	|	-	|
 |	My WorkWeek	|	-	|	20	|	-	|	-	|
@@ -31,8 +29,9 @@
 |	Contributions to USWDS design system	|	-	|	-	|	-	|	-	|
 
 ---
-
-June 4, 2025
+## Synthesis
+### FY25 Q2 Summary
+(added June 4, 2025 )
 
 **Usage of Clinical Design System**
 At the end of March 2025, we surveyed teams on their usage of the Clinical Design System. The metrics indicate that each team is making an effort to use the Clinical Design System. The Clinical Decision Support Collaborative has five product teams. The commonly used are the accordion, alert, button, icon, link, modal, tooltip, and select components. Commonly used is defined as implemented by 4 - 5 teams.
@@ -45,3 +44,8 @@ Other building blocks in progress include the drawer, line graph, header, typogr
 
 **Shift Left on Accessibility**
 The biggest win has been the "shift left on accessibility" initiative. Every token, component, pattern, and guidance that we have worked on prioritizes accessibility. Accessibility enters the discussion during research and discovery, i.e., at the beginning of the product life cycle. As a result, ideas and questions brought to the Office Hour are also asked if they have had accessibility review.
+
+#### Reference
+- [FY25 Q2 Survey](https://dvagov.sharepoint.com/:x:/r/sites/CDSProgramTeam/_layouts/15/Doc.aspx?sourcedoc=%7BED172760-F16E-48B5-B685-83DF27BB415D%7D&file=VA%20CDS%20Design%20System%20Usage%20Metrics.xlsx&action=default&mobileredirect=true)
+- [FY25 Q2 Synthesis](https://dvagov.sharepoint.com/:x:/r/sites/CDSProgramTeam/Shared%20Documents/General/Clinical%20Design%20System/Clinical%20DS%20Metrics/Synthesis%20of%20VA%20CDS%20Design%20System%20Usage%20Metrics%2020250326.xlsx?d=wdd1730255fc248109c768ff8f2ead703&csf=1&web=1&e=QYYpDJ)
+
