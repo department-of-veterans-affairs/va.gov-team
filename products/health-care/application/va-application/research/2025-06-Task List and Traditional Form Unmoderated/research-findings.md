@@ -1,7 +1,7 @@
 
 ---
 
-# [2025-07 - CYOA Task List Early Exploration - Unmoderated Prototype A/B Study - #906] Research Findings 
+# DRAFT [2025-07 - CYOA Task List Early Exploration - Unmoderated Prototype A/B Study - #906] Research Findings 
 
 **Office of the CTO - Digital Experience (OCTO-DE), 10-10EZ Form Health Care Application, Health Enrollment Team**
 
@@ -87,35 +87,22 @@ Participants were shown limited-functionality Figma prototypes and asked to perf
 
 ## Key Findings
 
-*Summarize the 5–10 most impactful findings from your study.* 
+**1.** The task list pattern was slightly more preferred over the traditional form flow, scored well on the ease-of-use question and participants liked the sections, information and status labels.
 
-> [!TIP] 
-> Write findings as stand-alone insights that are easy to scan. For example:  
-> - "Most participants used the search field to locate forms, often searching for 'veteran health.'"  
-> - "Participants struggled with the secondary caregiver section on the form."  
+**2.** Personal preference - to navigate linear or more freely by section.
 
-[Example Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)
+**3.** The task list pattern tested showed participants had some confusion around the clickable elements - they equally wanted click on the text name or the status tag to navigate.
 
-**1.** The task list (orange) prototype was slighlty more preferred by participants in the post-task question and ease-of-use rating
+**4.** Participants stated there was a lot of information to provide and gathering documents beforehand would be important.
 
-**2.** The traditional flow (green) prototype was preferred for its linear flow and easy of use.
-
-**3.** 
-
-**4.** Finding four
-
-**5.** Finding five
-
-**6.** Finding six
-
-**7.** Finding seven
+**5.** Participants had comments that providing household financials was a lot to do, very intrusive.
 
 
 ## Details of Findings 
 
 *Provide detailed descriptions and supporting evidence for each key finding.*  
 
-**Finding 1:**  
+**Finding 1: The task list pattern was slightly more preferred over the traditional form flow, scored well on the ease-of-use question and participants liked the sections, information and status labels.**  
 Brief description  
 - _Supporting data: Quote [add context]_  
 - _Supporting data: ![text](link - add image to github folder and link here with .png)_  
