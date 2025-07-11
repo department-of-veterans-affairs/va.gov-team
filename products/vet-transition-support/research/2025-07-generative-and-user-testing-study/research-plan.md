@@ -202,9 +202,14 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 - `[07/25, Friday, 12:00 PM-7:00 PM] EST`
 - `[07/28, Monday, 12:00 PM-7:00 PM] EST`
 - `[07/29, Tuesday, 12:00 PM-7:00 PM] EST`
-- `[07/30, Wednesday, 12:00 PM-7:00 PM] EST`
 - `[07/31, Thursday, 12:00 PM-5:00 PM] EST`
 - `[08/1, Friday, 12:00 PM-7:00 PM] EST`
+- `[08/4, Monday, 12:00 PM-7:00 PM] EST`
+- `[008/5, Tuesday, 12:00 PM-7:00 PM] EST`
+- `[08/6, Wednesday, 12:00 PM-7:00 PM] EST`
+- `[08/7, Thursday, 12:00 PM-5:00 PM] EST`
+- `[08/8, Friday, 12:00 PM-7:00 PM] EST`
+
 
 
   
