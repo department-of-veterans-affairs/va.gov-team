@@ -57,7 +57,9 @@ This study aims to evaluate two potential form patterns—"Orange" task list and
 ## Methodology 
 
 **Type:** Unmoderated within-subjects study
+
 **Platform:** Optimal Workshop using Figma prototypes
+
 **Design:** Counterbalanced (each participant sees both prototypes, setup as 2 studies in Optimal Workshop switching the first placement order)
 
 **Cohort Assignment:**
@@ -94,11 +96,11 @@ Participants were shown limited-functionality Figma prototypes and asked to perf
 
 [Example Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)
 
-**1.** Finding one
+**1.** The task list (orange) prototype was slighlty more preferred by participants in the post-task question and ease-of-use rating
 
-**2.** Finding two
+**2.** The traditional flow (green) prototype was preferred for its linear flow and easy of use.
 
-**3.** Finding three
+**3.** 
 
 **4.** Finding four
 
@@ -138,6 +140,7 @@ Brief description
 2. **Recommendation:** [Insert action]  
    - _Supporting evidence: [Insert data]_
 
+
 ## Product User and Business Outcomes
 
 *Explain how findings and recommendations align with the product's goals.*
@@ -150,6 +153,7 @@ Brief description
  
 - **Deisred Business Outcome**
   - This research supports our desired business outcome by....
+
 
 
 ## Key Performance Indicators
@@ -166,6 +170,7 @@ Brief description
 ## Next Steps
 
 *Outline immediate actions based on findings, including owners if applicable.*  
+
 
 
 ## Further research needed
