@@ -87,11 +87,11 @@ Participants were shown limited-functionality Figma prototypes and asked to perf
 
 ## Key Findings
 
-**1. The task list pattern was slightly more preferred over the traditional form flow and rated high for ease of use.**
+**1. Slight preference for the Task List pattern over the traditional form flow.**
 
-**2.Form navigation preference varied by individual preference - to navigate linear or more freely by section.** 
+**2.Navigation preferences were mixed between the Task List and traditional form flow patterns.** 
 
-**3. Some habits observed around the clickable elements in the task list pattern - they equally wanted click on the text name or the status tag to navigate.**
+**3. Clickable elements in task list were utilized but may have caused some confusion**
 
 **4. Participants stated there was a lot of information to provide and gathering documents beforehand would be important.**
 
@@ -99,14 +99,12 @@ Participants were shown limited-functionality Figma prototypes and asked to perf
 
 ## Details of Findings 
 
-**Finding 1: The task list pattern was slightly more preferred over the traditional form flow, scored well on the ease-of-use question and participants liked the sections, information and status labels.**  
-Overall, 44.1% (19 participants) stated they preferred the task list (Orange) prototype, compared to only 39.5% (17) preferring the traditional form flow. 16.3% (7) participants had no preference between the two. In Cohort 1, 71.4% rated the task list prototype as Very Easy, and in Cohort 2, 63.6% rated it as Very Easy. This compares to the ratings for the Green prototype, which received 52.4% "Very Easy" ratings in Cohort 1 and 77.3% in Cohort 2. Those who preferred the task list often stated they liked the clear categories, steps, and statuses.
+**Finding 1: Slight preference for the Task List pattern over the traditional form flow.**  
 
-
-**Quotes:**
-- _I liked that the categories were broken down into the 6 sections. It made it easier to know if you successfully completed the individual sections._
-- _Large, easy to see categories with nested subs and automatic transition to the next page after section completion. The groupings also made sense so an applicant can have all their information ready to submit._
-- _Navigation was fairly easy and clearly labeled._
+- 9 out of 43 participants (44.1%) preferred the task list (Orange) prototype, while 17 (39.5%) preferred the traditional (Green) flow; 7 (16.3%) had no preference.
+- Participants liked the clear sections, information, and status labels in the task list.
+	_“I liked that the categories were broken down into the 6 sections. It made it easier to know if you successfully completed the individual sections.”_
+_“Navigation was fairly easy and clearly labeled.”_
 
 
 **Finding 2: Personal preference - to navigate linear or more freely by section.**  
@@ -128,8 +126,8 @@ Prefer Traditional Flow (Green Prototype)
 
 
 **Finding 3: The task list pattern tested showed participants had some confusion around the clickable elements - they equally wanted click on the text name or the status tag to navigate.**  
-The clickmaps showed that participants clicked on the name and tag equally and also utilized the task list blue navigation bar to navigate around and back to the list.
-
+- Participants were unsure whether to click the section name or the status tag in the task list.
+- Clickmaps showed equal use of both, as well as the navigation bar.
 
 **Clickmap images:**
 
@@ -142,13 +140,10 @@ Green:
 <img width="6284" height="3387" alt="2025-06-Health Enrollment CYOA PLANNING_2025-07-11_18-09-16" src="https://github.com/user-attachments/assets/cf30c378-2d22-478d-a0d3-92326684bb0c" />
 
 
-**Quotes:**
-
-
 
 
 **Finding 4: Participants stated there was a lot of information to provide and gathering documents beforehand would be important.**  
-Brief description: On the question around how they would describe this to a friend, the topic of gathering your informaiton, documents and having it all ready beforehand would be important factor on the ease-of-use of completing the form.
+- 	Participants noted the process required a lot of information and recommended gathering documents before starting.
 
 **Quotes:**
 - _Again, a tedious job that just has to be endured._
