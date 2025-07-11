@@ -32,11 +32,15 @@ jobs:
         run: |
           curl -o labels.yml https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-research-repository/master/.github/labels.yml
 
+      - name: Download research plan template
+        run: |
+          curl -L -o research-plan-template.md https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-research-repository/master/research-templates/research-plan-template.md    
+
       - name: Run NLP Frontmatter Script
         env:
           PLAN_PATH: "products/va-mobile-app/research/Forms MVP Research/Research-Plan.md"
           LABELS_FILE: labels.yml
-          TEMPLATE_PATH: https://github.com/department-of-veterans-affairs/va.gov-research-repository/blob/master/research-templates/research-plan-template.md
+          TEMPLATE_PATH: research-plan-template.md
           REPORT_PATH: frontmatter_report.md
         run: |
           python .github/scripts/update_research_plan_frontmatter.py \
