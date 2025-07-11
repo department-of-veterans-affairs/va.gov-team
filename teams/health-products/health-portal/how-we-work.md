@@ -26,6 +26,9 @@ We are all here because we want to improve the lives of Veterans.  To that end, 
 - Email is good for quick communications with VHA stakeholders, particularly if their response needs to be shared with the team, used as reference, or stored with project documents.  If there are a large number of questions to be answered, or discussion is required, emails often will not yield a good result.
 - Know when it's time to move the conversation to a meeting. If an email thread goes beyond ~5 replies, considering scheduling a meeting and following it up with an email confirming any decisions made.
 
+### Microsoft Teams
+- Some OCC stakeholders prefer to communicate via chat in Microsoft Teams.  This is a good option for getting quick answers once you've gotten to know our stakeholders.
+
 ### Scheduling Meetings
 - Schedule meetings in Microsoft Teams from your VA.gov email address.  Zoom is no longer supported by VA and many VA staff can't access it.
 - We schedule meetings to start at 5 minutes past the hour or half hour to give folks a break between back-to-back meetings.
