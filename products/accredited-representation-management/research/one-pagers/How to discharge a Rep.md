@@ -21,6 +21,9 @@ Here's a more detailed breakdown:
 *   It's recommended to seek guidance from another VSO or an attorney when removing or changing representatives, especially if there are active appeals.
 *   Some VSOs may not take representation for claims at the Board of Veterans Appeals, so it's important to find a representative who can assist with the specific stage of the claim.
 
+***
+
+
 ### (062025)Revocation: does a Veteran/claimant need to include any specific keywords when requesting a representative’s authorization be revoked?  And how do they contact the VA for this?
 > The information below is from Platform Content during the FAQ content development for the Appoiont a Representative tool
 
