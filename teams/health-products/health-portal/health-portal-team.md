@@ -51,9 +51,8 @@ The My HealtheVet on VA.gov team’s mission is to simplify Veterans’ health e
 - TBD
 
 ## What We're Working On
-The My HealtheVet portal team's main focus for the past several years has been rebuilding the standalone My HealtheVet patient health portal (currently referred to as My HealtheVet Classic) and integrating it into VA.gov.   
-
-The My HealtheVet portal team’s mission is to simplify Veterans’ health experience on the web by consolidating all health things into a single health “home” on VA.gov. As we consolidate the health experience, we will work closely with the "classic" My HealtheVet / Office of Connected Care (OCC) and with teams throughout OCTO.
+The My HealtheVet portal team's main focus for the past several years has been rebuilding the standalone My HealtheVet patient health portal (currently referred to as My HealtheVet Classic) and integrating it into VA.gov. 
+[Product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/product-brief.md).
 
 ## About OCTO
 ### OCTO within the VA organization
