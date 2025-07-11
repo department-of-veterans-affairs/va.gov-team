@@ -1,6 +1,6 @@
 name: "Team offboarding"
 description: "This ticket is for team offboarding. Use the individual offboarding ticket to offboard specific team members."
-title: "Team offboarding for [Team]"
+title: "Offboarding request (team)"
 labels:
   - "offboarding"
   - "team-offboarding"
@@ -14,19 +14,238 @@ body:
   - type: markdown
     attributes:
       value: |
-        Product managers should complete this ticket when a VFS or platform team is offboarding and handing off ownership of its products. 
+        Product managers should complete this ticket when a VFS team is offboarding, after all team and product information has been updated per the [team offboarding guidance](https://www.google.com/maps) and [individual offboarding tickets](https://www.google.com/maps) have been created. 
   - type: markdown
     attributes:
-      value: "### Before you begin"
+      value: "### Step 1: :warning: before you submit this ticket"
+  - type: checkboxes
+    id: follow-team-offboarding
+    attributes:
+      label: Complete these steps before you complete this ticket.
+      description: Review [team offboarding guidance](https://www.google.com/maps) and [individual offboarding ticket](https://www.google.com/maps)
+      options:
+        - label: I have updated all my team (including team's readme) and product (including product outline) information and provided access per the team offboarding guidance.
+          required: true
+        - label: I have submitted individual offboarding tickets for each team member.
+          required: true
+  - type: markdown
+    attributes:
+      value: "### Step 2: Team information"
   - type: markdown
     attributes:
       value: |
-        Complete these steps before you complete this ticket.
-  - type: checkboxes
-    id: artifact-links-checkbox
+        Provide the following information about the team being offboarded: 
+  - type: input
+    id: team-name
     attributes:
-      label: Verify all relevant materials provided to Governance Team
+      label: Team name
+    validations:
+      required: true
+  - type: input
+    id: last-day
+    attributes:
+      label: Last day of contract
+      description: (MM/DD/YYYY)
+    validations:
+      required: true
+  - type: input
+    id: pm-gh
+    attributes:
+      label: Team Product Manager GitHub handle
+    validations:
+      required: true
+  - type: input
+    id: va-po-gh
+    attributes:
+      label: VA Product Owner GitHub handle
+    validations:
+      required: true
+  - type: input
+    id: team-readme-link
+    attributes:
+      label: Link to your team's readme or similar document
+      description: Review [team readme template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/README.md)
+    validations:
+      required: true
+  - type: checkboxes
+    id: team-info-up-to-date
+    attributes:
+      label: Team information must be up top date.
       options:
-        - label: I have provided all relevant and up-to-date links, screenshots, images, designs, etc. of the as-is version of the product
+        - label: My team information, including team's readme is up to date
           required: true
- 
+  - type: markdown
+    attributes:
+      value: "### Step 3: Product information"
+  - type: markdown
+    attributes:
+      value: |
+        Complete the product information section for each of your team’s products. If you have more products to add, copy/paste to add more sections.
+  - type: markdown
+    attributes:
+      value: "#### Product 1"
+  - type: input
+    id: product-1-name
+    attributes:
+      label: Product name
+    validations:
+      required: true
+  - type: input
+    id: product-1-status
+    attributes:
+      label: Current status of product
+    validations:
+      required: true
+  - type: input
+    id: product-1-outline
+    attributes:
+      label: Link to product outline
+    validations:
+      required: true
+  - type: checkboxes
+    id: product-1-outline-date
+    attributes:
+      label: Product information must be up top date and accessible.
+      options:
+        - label: My product information, including the product outline is up to date.
+          required: true
+  - type: input
+    id: product-1-atlas
+    attributes:
+      label: Link to product in ATLAS
+    validations:
+      required: true
+  - type: input
+    id: product-1-POC
+    attributes:
+      label: Who should be listed as the primary point of contact for this product moving forward?
+    validations:
+      required: true
+  - type: dropdown
+    id: product-1-handoff
+    attributes:
+      label: Are you handing off to a new team, or will this product be orphaned?
+      options:
+        - "Handing off to a new team"
+        - "This product will be orphaned"
+        - "Unsure"
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: "#### Product 2"
+  - type: input
+    id: product-2-name
+    attributes:
+      label: Product name
+    validations:
+      required: false
+  - type: input
+    id: product-2-status
+    attributes:
+      label: Current status of product
+    validations:
+      required: false
+  - type: input
+    id: product-2-outline
+    attributes:
+      label: Link to product outline
+    validations:
+      required: false
+  - type: checkboxes
+    id: product-2-outline-date
+    attributes:
+      label: Product information must be up top date and accessible.
+      options:
+        - label: My product information, including the product outline is up to date.
+          required: false
+  - type: input
+    id: product-2-atlas
+    attributes:
+      label: Link to product in ATLAS
+    validations:
+      required: false
+  - type: input
+    id: product-2-POC
+    attributes:
+      label: Who should be listed as the primary point of contact for this product moving forward?
+    validations:
+      required: false
+  - type: dropdown
+    id: product-2-handoff
+    attributes:
+      label: Are you handing off to a new team, or will this product be orphaned?
+      options:
+        - "Handing off to a new team"
+        - "This product will be orphaned"
+        - "Unsure"
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: "#### Product 3"
+  - type: input
+    id: product-3-name
+    attributes:
+      label: Product name
+    validations:
+      required: false
+  - type: input
+    id: product-3-status
+    attributes:
+      label: Current status of product
+    validations:
+      required: false
+  - type: input
+    id: product-3-outline
+    attributes:
+      label: Link to product outline
+    validations:
+      required: false
+  - type: checkboxes
+    id: product-3-outline-date
+    attributes:
+      label: Product information must be up top date and accessible.
+      options:
+        - label: My product information, including the product outline is up to date.
+          required: false
+  - type: input
+    id: product-3-atlas
+    attributes:
+      label: Link to product in ATLAS
+    validations:
+      required: false
+  - type: input
+    id: product-3-POC
+    attributes:
+      label: Who should be listed as the primary point of contact for this product moving forward?
+    validations:
+      required: false
+  - type: dropdown
+    id: product-3-handoff
+    attributes:
+      label: Are you handing off to a new team, or will this product be orphaned?
+      options:
+        - "Handing off to a new team"
+        - "This product will be orphaned"
+        - "Unsure"
+    validations:
+      required: false
+  - type: markdown
+    attributes:
+      value: |
+        If you have more products to add, submit this ticket then copy/paste the product section.
+
+        All done, you can submit. Don't fill out or modify anything below here.
+  - type: markdown
+    attributes:
+      value: "## Platform Support tasks"
+  - type: checkboxes
+    id: platform-support-tasks
+    attributes:
+      label: For Platform Support to complete after submitted.
+      options:
+        - label: Update team information in Atlas
+          required: false
+        - label: Update product information in Atlas
+          required: false
