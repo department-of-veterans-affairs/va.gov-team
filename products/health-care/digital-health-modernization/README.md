@@ -57,7 +57,7 @@ During the transition period, the delivery team will work across all patient por
 | Jason Congliari | Fullstack Engineer | jConigliari@ironarchtech.com | TBD | TBD | [Tonksthebear](https://github.com/Tonksthebear) |
 | Richard Davis | Frontend Engineer | richard.davis@agile6.com | richard.davis437@va.gov | [@Richard Davis](https://dsva.slack.com/team/U05BCJSDCDA) | [radavis](https://github.com/radavis) |
 | Carlos Felix | Technical Architect | carlos.felix@agile6.com | carlos.felixacevedo@va.gov | [@Carlos Felix](https://dsva.slack.com/team/U050V56JD2R) | [carlosfelix2](https://github.com/carlosfelix2) |
-| Steven Gallagher | Frontend Engineer | sgallagher@ironarchtech.com | TBD | TBD | TBD |
+| Steven Gallagher | Frontend Engineer | sgallagher@ironarchtech.com | TBD | TBD | [steveg-IAT](https://github.com/steveg-IAT) |
 | Napoleon Kernessant | Frontend Engineer | napoleon.Kernessant@docme360.com | Napoleon.kernessant@va.gov | [@Napoleon Kernessant](https://dsva.slack.com/team/U03US4Z036J) | TBD |
 | Aswin Malla | Fullstack Engineer | aswin.malla@agile6.com | TBD | TBD | [AMT98](https://github.com/AMT98) |
 | Jayson Perkins | Mobile Engineer | jayson.perkins@adhocteam.us | jayson.perkins@va.gov | [@Jayson Perkins](https://dsva.slack.com/team/U01A8SZCMHA) | [jperk51](https://github.com/jperk51) |
