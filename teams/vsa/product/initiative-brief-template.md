@@ -93,7 +93,7 @@
  
 > *What have you explicitly decided to **not** include and why?*
 
-> *Are you building for the VA Health and Benefits mobile application?*
+> *Are you building for the VA Health and Benefits mobile application? Explain why or why not.*
 
 > *How does this solution address your Assumptions & Risks?*
 
