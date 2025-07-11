@@ -2,7 +2,7 @@
 Updated 7/10/2025
 
 ## Assume positive intent
-We are all here because we want to improve the lives of Veterans.  To that end, our default assumption is that everyone involved with this work has done their best to build a positive experience with what was available to them at the time.  The decisions that got us here were made by smart and capable people, and were likely influenced by forces beyond their control like policy, legal, patient safety, technical, budgetary, or other constraints.
+We are all here because we want to improve the lives of Veterans.  To that end, our default assumption is that everyone involved with this work has done their best to build a positive experience with what was available to them at the time.  The decisions that got us here were made by smart and capable people, and were likely influenced by forces beyond their control like legislation, policy, privacy, security, patient safety, technology, budget, or other constraints.
 
 ## Communications
 ### Slack
