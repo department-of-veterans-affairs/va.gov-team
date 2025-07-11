@@ -2,16 +2,16 @@
 - _508 compliance_ - Refers to compliance with Section 508 of the Rehabilitation Act of 1973, which requires federal goverment websites to be safe and accessible for people with disabilities.
 - _a11y_ - an abbreviation for accessibility coined by the a11y project.  The 11 in the middle represents eleven letters in the middle of the word accessibility.
 - _AT_ - Assistive technology.  Technology that helps low-vision or blind users access and use web sites and native applications.  They may include screen readers and magnification tools such as JAWS, TalkBack, VoiceOver, Microsoft Narrator, and ZoomText.
-- _CAG_ - Citrix Access Gateway - Provides access to VA virtual desktop and requires a PIV card or PIV exception to authenticate.
+- _CAG_ - Citrix Access Gateway - Application used to access to the VA virtual desktop using your PIV card (or PIV exception before your card has been issued).
 - _CPRS_ - Computerized Patient Record System - clinician-facing view of VistA
-- _Cerner_ - generally used to refer to Oracle Cerner's electronic health care product (EHR) that runs on their Millennium platform.
+- _Cerner_ - Often used to refer to Oracle Cerner's electronic health care product (EHR) that runs on their Millennium platform.  This system started being rolled out to VA healthcare facilities in 2018, was temporarily halted after five facilities due to issues with the software.  The rollout is anticipated to resume in early 2026.
 - _Collab Cycle/Collaborationn Cycle_ - 
 - EHRM/EHRM-IO (sometimes pronounced _erm-ee-oh_- Electronics Health Record Modernization / Electronic Health Record Modernization Information Office
 - _HDR_ - Health Data Repository - one of many sources for obtaining VA electronic health data.  We are in the process of using it to replace VIA (described below) as a source for some of the health data used on My HealtheVet.
-- _FHIR_ (pronounced "fire") - Fast Healthcare Interoperability Resources is a standard for health care data exchange, published by HL7 (Health Level Seven International).  It defines how healthcare information can be exchanged between different computer systems regardless of how it is stored in those systems.
+- _FHIR_ (pronounced "fire") - Fast Healthcare Interoperability Resources is a standard for health care data exchange, published by HL7 (Health Level Seven International).  It defines how healthcare information can be exchanged between different computer systems regardless of how it is stored in those systems.  We use this standard in the APIs that transmit data from Oracle Health to the My HealtheVet user interfaces on web and mobile.
 - _Lighthouse_ - One of many sources for VA patient health data.  We are in the process of using it in place of VIA (desribed below) to retrieve some electronic health data.
 - _Memo_ - in the context of My HealtheVet on VA.gov, "the memo" refers to [the memorandum](https://dsva.slack.com/files/U772MC9BQ/F049D5Q3WG2/depsec_signed_views___8149650.pdf) signed by Donald Remy, Deputy Secretary of the VA on 11/2/2022, officially marking the start of the two years to complete My HealtheVet on VA.gov integration work.
-- _MHVC_ - My HealtheVet Coordinator
+- _MHVC_ - My HealtheVet Coordinator - VA employees who assist Veterans at local facilities within their assigned VISN (VA Integrated Services Network) with enrolling and using My HealtheVet.
 - _My HealtheVet_ (pronounced _my-health-ee-vet_) - Note that there is always a space after "My", and is often abbreviated MHV.  Originally referred to the "classic" My HealtheVet portal, launched in 2003.  The patient health record tools from MHV were migrated to VA.gov in June 2025, and now referred to the new My HealtheVet experience.  
 - _My HealtheVet on VA.gov_ - the new MHV experience on VA.gov.  This initiative has had a few working names that you may run across in older documentation, including Digital Health Modernization, Health Modernization Initiative, Health Home, Health Apartment, My Health.
 - _Oracle Health_ - Formerly known as Cerner, and Oracle Cerner (and still referred to as such by many across VA).  Oracle Health is the vendor for new EHR products being rolled out across VA, including:
@@ -19,10 +19,11 @@
    -  Millennium platform and database
    -  Clinician portal
 - _OCTO_ - Office of the Chief Technology Officer, part of the VA's Office of Information and Technology.
-- _OCC_ - Office of Connected Care - brings VA digital technology to Veterans and health care professionals, extending access to care beyond the traditional office visit. Through virtual technology, VA is able to deliver care to patients where and when they need it.
+- _OCC_ - VHA's Office of Connected Care, which is focused on designing and delivering digital systems that seamlessly connect Veterans to their health care teams and their health information.
 - _PAMPI_ - Problems, Allergies, Medications, Procedures and Immunizations
 - _PGHD_ - Patient-Generated Health Data - Health data generated/entered by the patient, such as blood pressure, blood sugar, and data generated by personal health applications such as Apple Health.  This data is now managed by Share My Health Data.
 - _PHR_ - Patient Health Record - often used to refer to an API used to retrieve data stored in VisTA.
+- _SCDF_ Spring Cloud Data Flow  - the new architecture being implmented on My HealtheVet on VA.gov and medical information in the VA Health and Benefits mobile app, also referred to as VAHB.
 - _SEI_ - Self-entered infomation - Health information that patients were able to enter on My HealtheVet Classic prior to June 2025.   This data can be downloaded from the Medical Records section of My HealtheVet on VA.gov, but the ability to add or edit this data has been deprecated.
 - _VADS_ - VA Design System - content style guide, components, and patterns include guidance, standards, and tools to help teams build a consistent, intuitive, and Veteran-centered experience across VA.gov.
 - _VCHIO_ - (pronounced _vee-chee-oh_) - Veterans and Consumers Health Informatics Office.
