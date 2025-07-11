@@ -36,7 +36,7 @@ jobs:
         env:
           PLAN_PATH: "products/va-mobile-app/research/Forms MVP Research/Research-Plan.md"
           LABELS_FILE: labels.yml
-          TEMPLATE_PATH: .github/research-templates/research-plan-template.md
+          TEMPLATE_PATH: https://github.com/department-of-veterans-affairs/va.gov-research-repository/blob/master/research-templates/research-plan-template.md
           REPORT_PATH: frontmatter_report.md
         run: |
           python .github/scripts/update_research_plan_frontmatter.py \
