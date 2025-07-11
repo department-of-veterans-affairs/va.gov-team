@@ -27,9 +27,9 @@ Requesting a COE is available to Veterans throughout their journey (including wh
 
 **The purpose of this research was to:**
  
-1. Learn if the new additional questions that have been added to the form make sense to the Veteran. 
-2. Can we make the form as short as possible using conditional logic to only show Veterans the screens and content that they need to see
-3. Can we only show Veterans the additional contextual information when they want or need to see it.
+1. Learn if the new additional questions about name change, disability, home damage, etc. make sense to Veterans.
+2. Validate that making the form as short as possible using conditional logic to expose only the screens and content the Veteran needs to see lowers cognitive load for Veterans.
+3. Understand if offering additional context after the question is posed rather than before will increase usability by decreasing cognitive load. (Tucking additional contextual information into accordions instead of making them to read it all before posing the question.)
 
 [Example Research Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-goals) 
 
