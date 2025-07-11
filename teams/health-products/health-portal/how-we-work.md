@@ -41,8 +41,7 @@ We are all here because we want to improve the lives of Veterans.  To that end, 
 - Default meetings to 30 minutes unless there is a great deal of material to cover.
 - Include an agenda, purpose, and expected outcomes in the meeting invite.
 - If attendees are expected to give opinions or discuss content or other written materials, send it as a pre-read at least 24 hours before the meeting to give attendees time to look it over. 
-- If someone essential to achieving your meeting objective declines, such as a key team member, subject matter expert, or decision-maker, reschedule.
-- Host meetings on Teams (Zoom is no longer supported by VA and many VA staff can't access it)
+- If someone essential to achieving your meeting objective declines, such as a key team member, subject matter expert, or decision-maker, reschedule your meeting.
 - Check invitees' calendars before scheduling to ensure they they are available. If you can't find a time that works for everyone, ask before booking over an existing meeting.
 - When scheduling recurring meetings, check your attendees's calendars for the whole month to avoid conflicts with meetings that only occur once or twice per month.
 - If you have a large number of attendees, send out some possible dates/times and ask people when they are available.  For senior leaders, work with their executive assistant.
