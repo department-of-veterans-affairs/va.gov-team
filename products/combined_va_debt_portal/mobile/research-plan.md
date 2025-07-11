@@ -150,7 +150,7 @@ Note on Accessibility: Due to prototype limitations, this study will not include
 
 **For moderated usability tests:** 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/mobile/conversation_guide.md)
-- [Link to prototype](url goes here)
+- Prototype: [Version with no payment](https://www.figma.com/proto/kRA7JHbthNrSLxTQHrzH8T/MFS---Overpayments---Copays-%7C-VA-Mobile?page-id=2001%3A429&node-id=7274-61308&p=f&viewport=24600%2C-1348%2C0.59&t=RzEWQo0ZfxtjJRxF-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=7274%3A61308&show-proto-sidebar=1) / [Version with payment](https://www.figma.com/proto/kRA7JHbthNrSLxTQHrzH8T/MFS---Overpayments---Copays-%7C-VA-Mobile?page-id=2001%3A429&node-id=7372-28070&p=f&viewport=24600%2C-1348%2C0.59&t=RzEWQo0ZfxtjJRxF-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=7372%3A28070&show-proto-sidebar=1)
 
 
 
