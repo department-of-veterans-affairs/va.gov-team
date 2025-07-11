@@ -52,7 +52,7 @@ During the transition period, the delivery team will work across all patient por
 |------|----|-----|-----|--------|------|
 | Michael Brodsky | Product Manager | michael.brodsky@agile6.com | michael.brodsky@va.gov | [@Michael Brodsky](https://dsva.slack.com/team/U08HKSYE285) | [michaelbrodsky-a6](https://github.com/michaelbrodsky-a6) |
 | Mark Carter | Business Analyst | mark.carter@agile6.com | mark.carter4@va.gov | [@Mark Carter](https://dsva.slack.com/team/U081CKD47FZ) | [mcarterA6](https://github.com/mcarterA6) |
-| Amy Cashbaugh | Frontend Engineer | acashbaugh@ironarchtech.com | amy.cashbaugh@va.gov | TBD | TBD |
+| Amy Cashbaugh | Frontend Engineer | acashbaugh@ironarchtech.com | amy.cashbaugh@va.gov | TBD | [amycashbaugh](https://github.com/amycashbaugh) |
 | Ni Chia |  Fullstack Engineer | ni.chia@adhocteam.us | tchut.chia@va.gov | [@Ni Chia](https://dsva.slack.com/team/U07NQDN4WJG) | [nichia](https://github.com/nichia) |
 | Jason Congliari | Fullstack Engineer | jConigliari@ironarchtech.com | TBD | TBD | [Tonksthebear](https://github.com/Tonksthebear) |
 | Richard Davis | Frontend Engineer | richard.davis@agile6.com | richard.davis437@va.gov | [@Richard Davis](https://dsva.slack.com/team/U05BCJSDCDA) | [radavis](https://github.com/radavis) |
