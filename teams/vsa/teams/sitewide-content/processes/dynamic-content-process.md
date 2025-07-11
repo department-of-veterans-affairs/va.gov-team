@@ -80,10 +80,10 @@ Follow the [platform developer docs](https://depo-platform-documentation.scrollh
 
 ## Notes for testing react widgets
 * For general testing, ensure the widget code has been deployed to production before testing with Sitewide CAIA.
-* If your widget is controlled by a feature toggle, when Sitewide CAIA is ready for testing, you will need to fully enable the feature toggle for all users in order to test the enabled rendering. Testing will not work with the toggle in a conditional state. You may reset the toggle to whatever condition is required after testing is completed.
+* If your widget is controlled by a feature toggle, when Content and IA is ready for testing, you will need to fully enable the feature toggle for all users in order to test the enabled rendering. Testing will not work with the toggle in a conditional state. You may reset the toggle to whatever condition is required after testing is completed.
 
 ## Search engine options for staged rollouts
-1. Determine whether there is a risk of harm if users find your product via search engine (like google), but can't access it.
+1. Determine whether there is a risk of harm if users find your product via search engine (like Google), but can't access it.
 2. Take appropriate actions depending on that risk:
 - Low risk scenario: You may determine that the risk is low, in which case it might be fine for the product to show up in search engines but not be accessible to all users for awhile. 
 - Medium-High risk scenario:
