@@ -1,7 +1,7 @@
 ---
 name: PBP Design Ticket
 about: Template to Update PBP Design Ticket
-title: PBP Design Ticket
+title: [PBP Design Ticket]
 labels: 'design,needs-refinement'
 assignees: ''
 ---
