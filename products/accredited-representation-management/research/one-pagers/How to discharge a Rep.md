@@ -22,6 +22,7 @@ Here's a more detailed breakdown:
 *   Some VSOs may not take representation for claims at the Board of Veterans Appeals, so it's important to find a representative who can assist with the specific stage of the claim.
 
 ### (062025)Revocation: does a Veteran/claimant need to include any specific keywords when requesting a representative’s authorization be revoked?  And how do they contact the VA for this?
+> The information below is from Platform Content during the FAQ content development for the Appoiont a Representative tool
 
 1.  There are no specific keyword requirements nor mandated form of communication (written or verbal) for a represented individual to expressly revoke an appointed representative in 38 C.F.R. § 14.631 or M21-1 I.i.2.A.6.. A completed VAF 21-22 or VAF 21-22a may be used to implicitly revoke an appointed representative.
 2.  If someone wants to expressly revoke their representative, they can submit any type of correspondence stating they no longer want their representative to assist them. It doesn’t need to have any specific language, but we do need to be able to construe that the claimant no longer wants someone as their representative. Representation can implicitly be terminated by death of the represented individual, completion of a limited representation, or by appointing a new representative.
