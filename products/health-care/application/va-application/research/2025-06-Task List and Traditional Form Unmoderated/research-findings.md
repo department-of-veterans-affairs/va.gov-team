@@ -118,16 +118,28 @@ There was a mix of reasons why provided in the post-task comments around why par
 
 **Quotes:**
 - _I liked it, but it did seem more complex that the Green. Both were clear to me and easy. But I think the Orange may be more difficult for some. Both were good._  
+- _The separate sections that haven’t been completed give me anxiety. It’s probably my OcD and seeing the incomplete_
+- _The task list, 100%_
+- _I like the one click navigation, it doesn't leave a lot of room for error once you get the section you need, just keep clicking._
 
 
 
 **Finding 3: The task list pattern tested showed participants had some confusion around the clickable elements - they equally wanted click on the text name or the status tag to navigate.**  
 Brief description:
 
-Clickmap images:
+**Clickmap images:**
+
+Orange:
+<img width="4228" height="1928" alt="2025-06-Health Enrollment CYOA PLANNING_2025-07-11_18-06-31" src="https://github.com/user-attachments/assets/7687a7a2-8a74-4ddb-8a19-86d9a31c702d" />
+
+<img width="2092" height="2405" alt="2025-06-Health Enrollment CYOA PLANNING_2025-07-11_18-06-57" src="https://github.com/user-attachments/assets/8cf6c4d9-c7e4-45eb-9235-a21272dc3395" />
+
+Green:
+<img width="6284" height="3387" alt="2025-06-Health Enrollment CYOA PLANNING_2025-07-11_18-09-16" src="https://github.com/user-attachments/assets/cf30c378-2d22-478d-a0d3-92326684bb0c" />
 
 
 **Quotes:**
+
 
 
 **Finding 4: Participants stated there was a lot of information to provide and gathering documents beforehand would be important.**  
