@@ -36,7 +36,7 @@ We are all here because we want to improve the lives of Veterans.  To that end, 
 - Some OCC stakeholders prefer to communicate via chat in Microsoft Teams.  This is a good option for getting quick answers once you've gotten acquainted with them and have a feel for their communication preferences.
 
 ### Scheduling Meetings
-- Schedule meetings in Microsoft Teams from your VA.gov email address.  Zoom is no longer supported by VA and many VA staff can't access it.
+- Schedule meetings in Microsoft Teams from your VA.gov calendar.  Zoom is no longer supported by VA and many VA staff can't access it.
 - We schedule meetings to start at 5 minutes past the hour or half hour to give folks a break between back-to-back meetings.
 - Default meetings to 30 minutes unless there is a great deal of material to cover.
 - Include an agenda, purpose, and expected outcomes in the meeting invite.
@@ -54,6 +54,7 @@ We are all here because we want to improve the lives of Veterans.  To that end, 
     - MHV Weekly Standup: Wednesdays 11:30 - noon ET
     - OCTO All Hands: Thursdays 12-1 PM ET
     - OCTO Health Portfolio All Hands: Tuesdays 1:30 PM
+  - A list of meetings you should attend will be provided later in our orientation documents.
 
 ## Project Methodology
 - We follow Agile Scrum methodology and hold the standard scrum ceremonies (sprint planning, daily standup, backlog refinement, sprint demo and retrospective).
