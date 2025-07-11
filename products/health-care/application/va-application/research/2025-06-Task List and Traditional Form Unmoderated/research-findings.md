@@ -87,11 +87,11 @@ Participants were shown limited-functionality Figma prototypes and asked to perf
 
 ## Key Findings
 
-**1. The task list pattern was slightly more preferred over the traditional form flow, scored well on the ease-of-use question and participants liked the sections, information and status labels.**
+**1. The task list pattern was slightly more preferred over the traditional form flow and rated high for ease of use.**
 
-**2.Personal preference - to navigate linear or more freely by section.** 
+**2.Form navigation preference varied by individual preference - to navigate linear or more freely by section.** 
 
-**3. The task list pattern tested showed participants had some confusion around the clickable elements - they equally wanted click on the text name or the status tag to navigate.**
+**3. Some habits observed around the clickable elements in the task list pattern - they equally wanted click on the text name or the status tag to navigate.**
 
 **4. Participants stated there was a lot of information to provide and gathering documents beforehand would be important.**
 
@@ -99,13 +99,9 @@ Participants were shown limited-functionality Figma prototypes and asked to perf
 
 ## Details of Findings 
 
-*Provide detailed descriptions and supporting evidence for each key finding.*  
-
 **Finding 1: The task list pattern was slightly more preferred over the traditional form flow, scored well on the ease-of-use question and participants liked the sections, information and status labels.**  
-Those who preferred the task list option over the traditional flow, often stated they liked the categories, steps and statuses that were clearly labeled. 
+Overall, 44.1% (19 participants) stated they preferred the task list (Orange) prototype, compared to only 39.5% (17) preferring the traditional form flow. 16.3% (7) participants had no preference between the two. In Cohort 1, 71.4% rated the task list prototype as Very Easy, and in Cohort 2, 63.6% rated it as Very Easy. This compares to the ratings for the Green prototype, which received 52.4% "Very Easy" ratings in Cohort 1 and 77.3% in Cohort 2. Those who preferred the task list often stated they liked the clear categories, steps, and statuses.
 
-- Supporting data in Post-Study Questions: Overall, 44.1% (19 participants) stated they preferred the task list (orange) protoytpe, compared to only 39.5% (17) preferring the traditional form flow. 16.3% (7) participants had no prefernce between the two. 
-- Supporting data in Post-Task Questions: In cohort 1, 71.4% rated the task list prototype as Very Easy and in cohort 2, 63.6% rated as Very Easy. This is compared to the ratings for the green prototype of cohort 1, 52.4% and cohort 2, 77.3%.  
 
 **Quotes:**
 - _I liked that the categories were broken down into the 6 sections. It made it easier to know if you successfully completed the individual sections._
@@ -114,7 +110,7 @@ Those who preferred the task list option over the traditional flow, often stated
 
 
 **Finding 2: Personal preference - to navigate linear or more freely by section.**  
-There was a mix of reasons why provided in the post-task comments around why participants preferred one version over the other. These reasons ranged from being too overwhelmed and needing focus to liking the overview and manuverablity. 
+Participants exhibited a personal preference for either linear progression or more flexible navigation by section. This variation was evident in post-task comments, with some users favoring a focused, step-by-step approach and others valuing an overview and the ability to maneuver freely through the application.
 
 **Quotes:**
 
