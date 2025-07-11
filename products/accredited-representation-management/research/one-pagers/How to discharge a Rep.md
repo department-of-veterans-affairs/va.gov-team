@@ -1,5 +1,7 @@
 ## How to discharge or remove a representative
 
+> The following information is from a google search on 7/11/2025. This is the same level of information the user received when their search starts online. 
+
 To remove a Veterans Service Officer (VSO) representative, a veteran can either appoint a new representative or submit a statement to the VA indicating they no longer wish to be represented by the current VSO. Appointing a new representative automatically revokes the previous one. 
 
 Here's a more detailed breakdown:
