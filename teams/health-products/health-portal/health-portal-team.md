@@ -52,7 +52,12 @@ The My HealtheVet on VA.gov team’s mission is to simplify Veterans’ health e
 
 ## What We're Working On
 The My HealtheVet portal team's main focus for the past several years has been rebuilding the standalone My HealtheVet patient health portal (currently referred to as My HealtheVet Classic) and integrating it into VA.gov. 
-[Product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/product-brief.md).
+[Product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/product-brief.md).  My HealtheVet on VA.gov is comprised of several distinct products:
+- Landing page/portal experience
+- Medical records
+- Medical devices and supplies
+- Medications
+- Messaging
 
 ## About OCTO
 ### OCTO within the VA organization
