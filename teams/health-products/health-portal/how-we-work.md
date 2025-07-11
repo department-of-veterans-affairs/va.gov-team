@@ -1,7 +1,7 @@
 # How We Work
-Updated 7/10/2025
+Updated 7/11/2025
 
-Table of Contents
+## Table of Contents
 - [We assume positive intent](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/how-we-work.md#we-assume-positive-intent)
 - [Communications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/how-we-work.md#communications)
 - [Project Methodology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/how-we-work.md#project-methodology)
