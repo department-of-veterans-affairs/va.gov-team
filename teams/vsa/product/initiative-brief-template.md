@@ -87,13 +87,21 @@
     - *If this work **will include user research**, please briefly state what you hope to learn from that research.*
     - *If this work **does not cite nor include user research**, please state why and be prepared to defend your decision.*
 
-### What're you building
-> *What's in scope for you to build with this initiative? Describe key features/flows. 
+### What're you building?
+
+> *What's in scope for you to build with this initiative? Describe key features/flows.*
+ 
 > *What have you explicitly decided to **not** include and why?*
-> *How does this solution address your Assumptions & Risks?
+
+> *Are you building for the VA Health and Benefits mobile application? Explain why or why not.*
+
+> *How does this solution address your Assumptions & Risks?*
 
 #### Go-to-market 
-> *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
+
+> *What marketing, outreach, or communications are necessary for this product to be successful?*
+
+> *Which groups/orgs are necessary to make this happen?*
 
 --- 
 
