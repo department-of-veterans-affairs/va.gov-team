@@ -20,7 +20,7 @@ Feature toggle
 Before enabling your feature toggle in production, you'll need to:
 
 - [x] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
-  - [x] [Link to Test cases/Test Rail]
+  - [x] [ec-nok-v1-v2-test-results.pdf](https://github.com/user-attachments/files/21188726/ec-nok-v1-v2-test-results.pdf)
 - [] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
 - [] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
    - [] Confirm with Joshua Faulkner and team on End to End testing
@@ -35,8 +35,7 @@ Before enabling your feature toggle in production, you'll need to:
 
 - PM and Data Analyst will monitor analytics. If they see a spike in errors or unexpected behavior, they will contact the engineering team to disable the toggle and begin triage.
 
-### Phase I: moderated production testing (also known as [ec-nok-v1-v2-test-results.pdf](https://github.com/user-attachments/files/21188726/ec-nok-v1-v2-test-results.pdf)
-User Acceptance Testing, or UAT)
+### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
 #### Planning
 
