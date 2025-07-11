@@ -6,7 +6,7 @@ We are all here because we want to improve the lives of Veterans.  To that end, 
 
 ## Communications
 ### Slack
-- Information on getting access to Slack and helpful features is will be discussed later in our orientation material.
+- Information on getting access to Slack and taking advantage of its features will be discussed later in our orientation material.
 - Slack is the preferred communication channel for My HealtheVet teams and most teams creating applications on VA.gov and VA Health and Benefits mobile apps.
 - Anything written in Slack is subject to the Freedom of Information Act (FOIA).
 - We encourage transparency and conversing in public channels by default.
