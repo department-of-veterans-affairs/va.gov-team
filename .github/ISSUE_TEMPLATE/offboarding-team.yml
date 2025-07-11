@@ -17,7 +17,7 @@ body:
         Product managers should complete this ticket when a VFS team is offboarding, after all team and product information has been updated per the [team offboarding guidance](https://www.google.com/maps) and [individual offboarding tickets](https://www.google.com/maps) have been created. 
   - type: markdown
     attributes:
-      value: "### Step 1: before you submit this ticket"
+      value: "### Step 1: :warning: before you submit this ticket"
   - type: checkboxes
     id: follow-team-offboarding
     attributes:
