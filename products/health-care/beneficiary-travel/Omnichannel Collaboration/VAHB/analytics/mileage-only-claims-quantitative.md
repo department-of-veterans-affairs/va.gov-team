@@ -1,5 +1,16 @@
 ## Travel Pay SMOC (Simple Mileage Only Claims) Quantitative Measures of Success
-This page contains quantitative data intended to measure whether SMOC was successful. Each metric is defined by a type:
+This page contains quantitative data intended to measure whether SMOC was successful. 
+
+Helpful links to calculate metrics:
+
+- [Google Analytics PastAppointmentScreen views](https://analytics.google.com/analytics/web/#/p265787033/reports/explorer?params=_u..nav%3Dmaui%26_r.explorerCard..filterTerm%3DPastAppointmentDetails%26_r.explorerCard..startRow%3D0&ruid=ced1337d-3a70-4a17-9676-779d83dc8e76&collectionId=11110714483&r=all-pages-and-screens)
+- [Mobile app SMOC funnel](https://analytics.google.com/analytics/web/#/analysis/p265787033/edit/v65E2cAbSj2zCIMBQby8JQ)
+- [Datadog Mobile SMOC Performance Dashboard](https://vagov.ddog-gov.com/dashboard/rhb-i5t-2sv/travel-pay-mobile-smoc-performance-dashboard?fromUser=false&refresh_mode=sliding&from_ts=1751661535740&to_ts=1752266335740&live=true)
+
+For comparison:
+- [Google Analytics VA.gov custom SMOC metrics exploration](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/oRSEarxUSKih9wvx1DGnFg)
+- [Datadog VA.gov SMOC Performance Dashboard](https://vagov.ddog-gov.com/dashboard/27b-m6k-7an/travel-pay-smoc-performance-dashboard?fromUser=false&refresh_mode=paused&from_ts=1749554640000&to_ts=1752207840000&live=false)
+
 
 ### Metric Description
 
