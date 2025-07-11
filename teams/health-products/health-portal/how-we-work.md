@@ -40,15 +40,14 @@ We are all here because we want to improve the lives of Veterans.  To that end, 
 - We have team members in all US time zones, so avoid scheduling meetings before 11 AM or after 5 PM ET.
 - Avoid scheduling meetings on Fridays as many VA employees work compressed schedules and are off every other Friday.
 - Standing meeting times to avoid:
-    - VFS All Teams - Tuesdays 12-1 PM ET
+    - VFS All Teams / OCTO Health Monthly Portfolio Review: Tuesdays 12-1 PM ET
     - Tech Tuesday/MHV Patient Health Record Policy Group meetings: Tuesdays at 2 PM ET
-    - MHV Weekly Standup - Wednesdays 11:30 - noon ET
-    - OCTO All Hands - Thursdays 12-1 PM ET
-    - OCTO Health Portfolio All Hands - Tuesdays
+    - MHV Weekly Standup: Wednesdays 11:30 - noon ET
+    - OCTO All Hands: Thursdays 12-1 PM ET
+    - OCTO Health Portfolio All Hands: Tuesdays 1:30 PM
 
 ## Project Methodology
 - We follow Agile Scrum methodology and hold the standard scrum ceremonies (sprint planning, daily standup, backlog refinement, sprint demo and retrospective).
-- We also conduct quarterly planning and have 
 
 ## Documentation
 - Document storage specifics for your area of practice will be discussed later in our orientation materials.  As a general rule, we store project documents in GitHub and SharePoint.   Documentation should never be stored in Google Drive, DropBox, or other systems not approved or accessible by VA.
