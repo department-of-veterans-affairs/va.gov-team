@@ -26,15 +26,15 @@ Sign in Service provides four distinct methods of authorization, with options fo
 
 The standard SiS authorization flow for end users makes use of the PKCE, or `Proof Key for Code Exchange` OAuth 2.0 standard. PCKE makes use of a dynamically generated client secret to bridge the potential security gap between user authorization and the client's request for an access token; more detail about how the flow works [can be found in this tutorial](https://dropbox.tech/developers/pkce--what-and-why-). This PKCE flow functions with browser-managed cookies to enable web auth, and API request headers for mobile and API auth.
 
-* [Website / Cookie Authorization Guide](auth_flows/cookie_oauth.md)
+* [Website / Cookie Authorization Guide](Authentication%20Types/Client%20Auth%20(User)/auth_flows/cookie_oauth.md)
 
-* [Mobile / API Authorization Guide](auth_flows/api_oauth.md)
+* [Mobile / API Authorization Guide](Authentication%20Types/Client%20Auth%20(User)/auth_flows/api_oauth.md)
 
 ### JWT Auth & Service Account Auth
 
 Sign in Service is also configured to handle two types of backend authorization:
 
-* [Private Key JWT](auth_flows/private_key_jwt.md): This flow allows a backend API unconnected to the original `/authorize` request to complete auth and obtain tokens by passing a JWT signed by their pre-registered private key, essentially allowing a different client to complete the user's auth from the one that initiated it.
+* [Private Key JWT](Authentication%20Types/Client%20Auth%20(User)/auth_flows/private_key_jwt.md): This flow allows a backend API unconnected to the original `/authorize` request to complete auth and obtain tokens by passing a JWT signed by their pre-registered private key, essentially allowing a different client to complete the user's auth from the one that initiated it.
 
 * [Service Account Auth](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs/Authentication%20Types/Service%20Account%20Auth%20(STS)/README.md): This flow allows APIs to register a `Service Account` with which to request a special backend-authentication access_token; this flow is not a replacement for the regular end-user PKCE flow.
 
