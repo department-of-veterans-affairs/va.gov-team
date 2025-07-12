@@ -88,19 +88,19 @@ In the bottom toolbar of the Zoom window, click the arrow next to **SHOW CAPTION
 
 1. "I understand you are a Veteran. Is that right?"  
    * Thanks for confirming that.  
-2. "What kind of device are you using today? *(Computer / Smartphone)*"
+2. "What kind of device are you using today? *(Computer / Smartphone / tablet)*"
    * *(If not the expected device, ask to rejoin that way)*  
 
 ### For only assistive tech users
 
-3. "What assistive technology are you using right now?" *(screen reader, screen magnifier, or voice command/speech recognition/speech to text software)*  
+3. "What assistive technology are you using right now?" *(screen reader, screen magnifier, or voice command / speech recognition / speech to text software)*  
    * *(If using Dolphin screen reader, you won't be able to share screen on Zoom)*  
    * *(if no AT)* "Do you sometimes use assistive technology while using VA.gov?"
      1. If so, "what do you use and when?"  
         1. "Would you be willing to start using it now in this session?" 
         2. *(If not, run session w/o AT, or stop and ask Perigean for a replacement participant)*  
 4. "How would you rate your level of experience with using a screen reader, screen magnifier, or voice command software--beginner, intermediate, advanced, or expert?" 
-5. "How long have you used a screen reader, screen magnifier, or voice command/speech recognition/speech to text software?"
+5. "How long have you used a screen reader, screen magnifier, or voice command / speech recognition / speech to text software?"
 6. "Have you ever shared your screen in Zoom while using a screen reader or magnifier?" *(Yes / No)*
    * If not, "we can help you do that."
 
