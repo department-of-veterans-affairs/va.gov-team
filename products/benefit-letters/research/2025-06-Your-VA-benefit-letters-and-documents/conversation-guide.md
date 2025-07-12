@@ -28,7 +28,8 @@
 - Paste the staging link into Zoom chat
 - Do Not Disturb ON, so no notifications
 - Make sure everyone is muted except me and the participant
-- When users share their screen, the “Share sound” box must be checked if we want the recording to pick up screen reader announcements. This box is on the right pane when the screen share is started. [Need to confirm if the moderator can check this box for their participants or if the participant has to do it themselves.]
+- When users share their screen, the “Share sound” box must be checked for everyone to hear the screen reader and for the recording to pick up screen reader announcements. This box is on the right pane when the screen share is started.
+  - If they're on mobile, you will not be able to hear the screen reader, so the above doesn't apply.
 
 When the participant is ready, turn on your camera and begin session with the intro
 
@@ -89,24 +90,24 @@ In the bottom toolbar of the Zoom window, click the arrow next to **SHOW CAPTION
    * Thanks for confirming that.  
 2. "What kind of device are you using today? *(Computer / Smartphone)*"
    * *(If not the expected device, ask to rejoin that way)*  
-3. "I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, put it in the Zoom chat, email it to you, or *(for smartphone users)* text it to you?" 
-   * *(If text or email)* "Could the notetaker please text/email the link now? ([https://bit.ly/4lXVLTV](https://bit.ly/4lXVLTV))"
 
 ### For only assistive tech users
 
-4. "What assistive technology are you using right now?" *(screen reader, screen magnifier, or voice command software)*  
+3. "What assistive technology are you using right now?" *(screen reader, screen magnifier, or voice command/speech recognition/speech to text software)*  
    * *(If using Dolphin screen reader, you won't be able to share screen on Zoom)*  
    * *(if no AT)* "Do you sometimes use assistive technology while using VA.gov?"
      1. If so, "what do you use and when?"  
         1. "Would you be willing to start using it now in this session?" 
         2. *(If not, run session w/o AT, or stop and ask Perigean for a replacement participant)*  
-5. "How would you rate your level of experience with using a screen reader, screen magnifier, or voice command software--beginner, intermediate, advanced, or expert?" 
-6. "How long have you used a screen reader, screen magnifier, or voice command software?"
-7. "Have you ever shared your screen in Zoom while using a screen reader or magnifier?" *(Yes / No)*
+4. "How would you rate your level of experience with using a screen reader, screen magnifier, or voice command software--beginner, intermediate, advanced, or expert?" 
+5. "How long have you used a screen reader, screen magnifier, or voice command/speech recognition/speech to text software?"
+6. "Have you ever shared your screen in Zoom while using a screen reader or magnifier?" *(Yes / No)*
    * If not, "we can help you do that."
 
 ### For everyone
 
+7. "I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, put it in the Zoom chat, email it to you, or *(for smartphone users)* text it to you?" 
+   * *(If text or email)* "Could the notetaker please text/email the link now? ([https://bit.ly/4lXVLTV](https://bit.ly/4lXVLTV))"
 8. "Have you ever used VA.gov to get copies of VA benefits letters or documents?"
   * <mark>[If no]</mark> "Are you aware you could do that on the website?"
   * <mark>[If yes]</mark> "Which letters have been the most valuable to you? Did you know the purpose of the letter before coming here to download or learn about it on VA.gov?"
@@ -151,7 +152,7 @@ We can help guide you through this if you need help. Please say what you're doin
 1. "Take a look at this homepage first, before you interact with it. Where do you think your benefit letters are located?"  
 2. "Now, go ahead and navigate to where you think they are." <mark>[Let them explore naturally without guidance]</mark>
 
-<mark>If the participant attempts to sign in, then we need to send them the credentials</mark>
+<mark>If the participant attempts to sign in, then we need to send them the credentials (email/text/dictate/Zoom chat)</mark>
 
 ### Things to watch out for
 
@@ -173,7 +174,7 @@ We can help guide you through this if you need help. Please say what you're doin
 
 ### Steps
 
-1. "Now, please sign in, and I'll put the credentials you should use to sign in in the chat (or say them verbally)." <mark>[With staging user 54]</mark>
+1. "Now, please sign in, I’ll send you the test credentials you should use to sign in (email/text/dictate/Zoom chat)” <mark>[With staging user 54]</mark>
 2. <mark>[Arrives on authenticated page]</mark> "Before clicking on anything, take a minute to explore the entire page and tell me what you see. What do you think this page is for, and what do you think you can do here?" <mark>[Allow ~2-3 minutes for exploration]</mark>
 
 ### Things to watch out for
