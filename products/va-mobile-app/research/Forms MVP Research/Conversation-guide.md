@@ -11,7 +11,7 @@
 
 **10-15 min before each session**: 
 - **START the Codespace**:
-
+Developer to run codespace.
   1. Open the stop/start URL in github
   1. Click on green "<> Code" button
   1. In the Codespaces tab, click on the ellipsis (...) next to your Codespace (va-public-musical space goggles)
@@ -157,7 +157,7 @@ I'd like you to take a look at this screen, and login. The system will automatic
 
 As we go through the steps in this study, please talk aloud about what you're thinking BEFORE clicking on anything. And please share any thoughts, reactions, or questions you have about the current screen.
 
-[Sign in using the 'Sign in' button on your screen]
+[Sign in using the 'Sign in' button on your screen, Once logged in select "Skip" bottom-right, For the notification screen select "Not now".]
 
 [When they get to the homepage:] Please stop here so I can give you the next instruction.
 
