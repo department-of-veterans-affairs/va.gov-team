@@ -5,8 +5,8 @@ Attendees: Renata Keck, Rachel Pope, Amanda Klausmeier, Premal Shah, Mike Mooney
 
 ### Agenda
 - UX Design Roadmap
-- Review low lift updates to [reduce 1010d duplicates](https://www.figma.com/design/UmAtr3ULQEInMXfNFwP0g0/Application-for-CHAMPVA?node-id=7758-98392&p=f&t=JE45XOYt1NyhECh8-0)
 - Share Updates to the [Claims LLM UX](https://www.figma.com/design/Tfhq5h2LwXEeEEtFBAAFOv/CHAMPVA-Claims--10-7959a-?node-id=5412-7489&t=F3mY3HsaiohAoK0R-4)
+- Review low lift updates to [reduce 1010d duplicates](https://www.figma.com/design/UmAtr3ULQEInMXfNFwP0g0/Application-for-CHAMPVA?node-id=7758-98392&p=f&t=JE45XOYt1NyhECh8-0)
 - Review Claims Correspondence Desk Research [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1751577567257/99e597037c5d3823e3f39913ca6b6cf4927b4f99)
 
 
