@@ -89,7 +89,7 @@ Participants were shown limited-functionality Figma prototypes and asked to perf
 
 **1. Slight preference for the task list pattern over the traditional form flow was reported by participants.**
 
-**2.Navigation preferences were mixed between the Task List and traditional form flow patterns.** 
+**2. Navigation preferences were mixed between the Task List and traditional form flow patterns.** 
 
 **3. Clickable elements in task list were utilized but may have caused some confusion.**
 
