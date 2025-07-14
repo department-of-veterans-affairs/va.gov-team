@@ -105,6 +105,7 @@ Participants were shown limited-functionality Figma prototypes and asked to perf
 - Participants liked the clear sections, information, and status labels in the task list.
 	-_“I liked that the categories were broken down into the 6 sections. It made it easier to know if you successfully completed the individual sections.”_
 	- _“Navigation was fairly easy and clearly labeled.”_
+ 	- _"Overall, very good. (Orange prototype) The categories were displayed in large font and then sub-categories were nested underneath. It's also a good feature to have the form move to the next page after a section is complete. I usually notice that in tax software, so that is a bonus."_ 
 
 
 **Finding 2: Personal preference - to navigate linear or more freely by section.**  
@@ -112,13 +113,13 @@ Participants exhibited a personal preference for either linear progression or mo
 
 **Quotes:**
 
-Prefer Task List Flow (Orange Prototype)
+_Prefer Task List Flow (Orange Prototype)_
 - _The task list, 100%_
 - _I prefer the Orange option because it showed me what I had completed and what was upcoming. However, the Green option had a cleaner look and feel to me._
 - _I liked it, but it did seem more complex that the Green. Both were clear to me and easy. But I think the Orange may be more difficult for some. Both were good._  
 
   
-Prefer Traditional Flow (Green Prototype)
+_Prefer Traditional Flow (Green Prototype)_
 - _While I can't quantify it, it just felt less intimidating. It was very straightforward and easy to follow. I would not have any hesitations about completing the process and I think the dropout rate would be low._
 - _I like the one click navigation, it doesn't leave a lot of room for error once you get the section you need, just keep clicking._
 - _The separate sections that haven’t been completed give me anxiety. It’s probably my OcD and seeing the incomplete_
@@ -157,7 +158,9 @@ Green:
 - Participants mentioned saving and returning to the form later and calling out the application save and ID details in the lower green alert.
 - A small theme on cohort 1 only that contradicted normal sentiment heard in studies - this group had positive things to say about the steps in the form progress bar stepper. 
 - Participants did state the instructions were often clear and understandable
- _One of the easiest to understand that VA has had me fillout_
+ 	- _One of the easiest to understand that VA has had me fillout_
+  	- _Instructions are precise. Would be rather easy to follow, especially being a recent Discharged Veteran and used to filling out instructions and government paperwork/_
+  	- _The instructions were clear as to what would be needed to complete the form._ 	
 
   
 
@@ -166,7 +169,8 @@ Green:
 *Summarize actionable recommendations based on findings.*  
 
 1. **Recommendation:** [Refine Prototype and Moderated Study with Task List]  
-   - _Supporting evidence: [Insert data]_  
+   - Post-study survey results and questions around task list functionality: [Insert data]
+
 2. **Recommendation:** [Insert action]  
    - _Supporting evidence: [Insert data]_
 
@@ -176,7 +180,8 @@ Green:
 **Desired User Outcome**
   - Improved Application Completion Rate: Users are able to complete the health care application process with fewer errors and less confusion.
   - Increased User Satisfaction: Users report higher satisfaction with the process, citing clarity and ease of use.
-  - Reduced Abandonment: Fewer users drop out before completing the application due to improved guidance and task clarity. 
+  - Reduced Abandonment: Fewer users drop out before completing the application due to improved guidance and task clarity.
+
 **Deisred Business Outcome**
   - Higher Application Volume: More veterans successfully submit applications due to streamlined processes.
   - Faster Processing Times: Applications are submitted with fewer errors, requiring less manual review and correction.
@@ -184,7 +189,6 @@ Green:
 
 
 ## Key Performance Indicators
-
 - Application Completion Rate (percentage of users who start and successfully submit the application)
 - Time to Complete Application (average duration from start to submission)
 - Drop-off Rate (percentage of users who start but do not finish the application)
