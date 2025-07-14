@@ -249,3 +249,8 @@ body:
           required: false
         - label: Update product information in Atlas
           required: false
+  - type: markdown
+    attributes:
+      value: @department-of-veterans-affairs/vsp-operations
+
+      
