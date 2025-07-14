@@ -49,12 +49,21 @@ The My HealtheVet on VA.gov team’s mission is to simplify Veterans’ health e
 - Slack channel: [#vagov-supply-reordering](https://dsva.slack.com/archives/C05DFSM57FW)
 - TBD
 
+### Mobile Feature Support
+- Slack channel: [#mobile-feature-support-public](https://dsva.slack.com/archives/C07SD9P7XB9)
+
+### Mobile app
+- Slack channel: [#va-mobile-app]([url](https://dsva.slack.com/archives/C018V2JCWRJ))
+
 ## Platform Team
 - TBD
 
+
+
+
 ## What We're Working On
 The My HealtheVet portal team's main focus for the past several years has been rebuilding the standalone My HealtheVet patient health portal (currently referred to as My HealtheVet Classic) and integrating it into VA.gov. 
-[Product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/product-brief.md).  My HealtheVet on VA.gov is comprised of several distinct products:
+[Product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/product-brief.md).  My HealtheVet on VA.gov is comprised of several distinct products, which includes specific subsets of features that lend themselves to the the mobile app:
 - Landing page/portal experience
 - Medical records
 - Medical devices and supplies
