@@ -24,6 +24,8 @@ The My HealtheVet on VA.gov team’s mission is to simplify Veterans’ health e
 - Design: Kristen McConnell
 - Research: Robyn Singleton
 - Engineering: Mark Dewey, Adrian Rollett, Steve Mason
+- Mobile Feature Support: Michelle Middaugh
+- Mobile App: Ryan Thurlwell
 
 ## Product Team Members
 
