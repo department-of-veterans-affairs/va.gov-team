@@ -64,3 +64,4 @@
 ## 📍 Next Steps
 - Proceed with a v1 of tabs that limits tabs to 3 or less.
 - Solve for a11y issue of fitting 3 tabs fit in all screen sizes and 400% zoom.
+- Add guidance in documentation on placement and use of other navigational components like teritary buttons and side navigation. 
