@@ -15,9 +15,8 @@ Lauren Dawson, [lauren.dawson@agile6.com](mailto:lauren.dawson@agile6.com), [lau
 ## **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXffaIgVWrI8Q6TmB0SX4KGvOx1mD2_q3Mx2HtAaF9_gHZoYhyDSy8vnMhije7MBx74sLWSXNKBc4tTbwhM6_S4KicUCd5hyspfMhqNB1nHm4tcfQjqh89EYXU2JOawBpSIX9knflw?key=Y4brp4DIxUDtCWSQ4qT7Us0H)**
 
 **Slide deck**  
-([https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?FolderCTID=0x01200073ECFC0A16DB51439C06C6FDC0E92947\&id=%2Fsites%2Fvaabdvro%2FShared%20Documents%2F0%20%2D%20Benefits%20Portfolio%20%2D%20General%2FResearch%20Recordings%20%2D%20Veteran%2DStaff%2DVSO%2F2024%2D11%20526%20Toxic%20Exposure%20Research%20Study\&viewid=3fa7a9bb%2D3d4e%2D44c2%2Db93f%2D629268a08e72](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?FolderCTID=0x01200073ECFC0A16DB51439C06C6FDC0E92947&id=%2Fsites%2Fvaabdvro%2FShared%20Documents%2F0%20%2D%20Benefits%20Portfolio%20%2D%20General%2FResearch%20Recordings%20%2D%20Veteran%2DStaff%2DVSO%2F2024%2D11%20526%20Toxic%20Exposure%20Research%20Study&viewid=3fa7a9bb%2D3d4e%2D44c2%2Db93f%2D629268a08e72))
-
-**![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdk5wB-M9REI3OY-n6raKYNnRlA8EJOmMlavAAB2Iu-fWyuHYBh167bOfBbdyLDG1mDFsBQ7Fqqih4HyureXOSDmAis6zRTQxM0J9F3qe4PfHwHYserUV_q5C9WxSXyycon6koI?key=Y4brp4DIxUDtCWSQ4qT7Us0H)**
+[Toxic Exposure Evaluative Research Share-Out.pptx](https://github.com/user-attachments/files/21223117/Toxic.Exposure.Evaluative.Research.Share-Out.pptx)
+[Toxic Exposure Evaluative Research Share-Out.pdf](https://github.com/user-attachments/files/21223116/Toxic.Exposure.Evaluative.Research.Share-Out.pdf)
 
 **Presentation recording**  
 Recording, presented and recorded on 12/20/2024  
