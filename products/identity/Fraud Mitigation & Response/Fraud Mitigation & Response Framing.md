@@ -62,7 +62,7 @@ These tracks will run in parallel to ensure we’re not waiting for a perfect la
 To understand the broader fraud ecosystem and clarify our team’s role, we’ll approach landscape mapping in iterative phases:  
 
 **Phase 1: Ecosystem Mapping**  
-Conduct interviews and workshops with internal stakeholders (BDPR, CSPs, security, identity teams) to map roles, responsibilities, and data flows.  
+Conduct interviews and workshops with stakeholders (BDPR, CSPs, security, identity team) to map roles, responsibilities, and data flows.  
 **Phase 2: Gaps & Opportunities Identification**  
 Analyze the landscape map to surface gaps, overlaps, and potential partnership opportunities. Begin drafting a shared fraud playbook outline for VA’s identity ecosystem.  
 **Phase 3: Validation & Partnership**  
