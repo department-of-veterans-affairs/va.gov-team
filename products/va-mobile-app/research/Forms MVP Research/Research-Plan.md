@@ -177,7 +177,7 @@ During the session:
 > **Send pilot participant email in study Slack channel**
 
 - `Pilot participant name:` **[Brenda Rocha Barraza]**
-- `Date and time of pilot session:` **[07/23]** 
+- `Date and time of pilot session:` **[07/23, 3:00pm-7:00pm]** 
 
 ### Research sessions
 - `Planned dates of research:` **[07/28-07/31]**
