@@ -167,7 +167,7 @@ During the session:
 
 ### Optional Kick-off Call with Perigean
 
-- `Suggested dates and times:` **[Enter dates and times MM/DD HH:MM]**
+- `Suggested dates and times:` **[07/21-07/23 09-11:30am EST]**
 
 ### Prepare
 *When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).*
@@ -176,11 +176,11 @@ During the session:
 > [!NOTE]
 > **Send pilot participant email in study Slack channel**
 
-- `Pilot participant name:` **[Enter name]**
-- `Date and time of pilot session:` **[Enter time]** 
+- `Pilot participant name:` **[Brenda Rocha Barraza]**
+- `Date and time of pilot session:` **[07/23]** 
 
 ### Research sessions
-- `Planned dates of research:` **[Enter dates MM/DD-MM/DD]**
+- `Planned dates of research:` **[07/28-07/31]**
 
 ### Length of sessions
 - `Session length: **60 minutes**
@@ -197,11 +197,11 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 >
 > **Place time slots between `hash marks` when in edit mode.**
 
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
+- `[07/28, Monday, TT:TT AM/PM-TT:TT AM/PM] EST`
+- `[07/29, Tuesday, TT:TT AM/PM-TT:TT AM/PM] EST`
+- `[07/30, Wednesday, TT:TT AM/PM-TT:TT AM/PM] EST`
+- `[07/31, Thursday, TT:TT AM/PM-TT:TT AM/PM] EST`
+- `[08/01, Friday, TT:TT AM/PM-TT:TT AM/PM] EST`
 - `Add more slots as needed`
   
 ## Team Roles  🕵️👩‍💻👩‍🔬
