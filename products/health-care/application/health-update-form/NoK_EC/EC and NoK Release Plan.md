@@ -83,7 +83,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 |NOK edit/view existing|500 | TBD |TBD |
 |EC add (Yes) |500 | TBD |TBD |
 |EC edit/view existing|500 | TBD |TBD |
-Errors | N/A| 0 errors| TBD| TBD|
+Errors | 0 errors| TBD| TBD|
 
 - Links to the dashboard(s) showing "success criteria" metrics:
      - [Datadog dashboard](https://vagov.ddog-gov.com/dashboard/kjp-9wp-u47/10-10ezr?historicalData=true&index=&refresh_mode=sliding&view=spans&from_ts=1703092684168&to_ts=1703179084168&live=true)
