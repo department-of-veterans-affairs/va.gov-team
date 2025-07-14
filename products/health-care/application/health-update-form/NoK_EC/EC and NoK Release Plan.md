@@ -79,12 +79,10 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 
 **Note** Paper submissions are based on the average provided by HEC for volumes that are received by the HEC centralized processing center.  This does not include individual facilities, as there are no mechanisms in place to track them.
-| Product KPI | Historical | Target | Post-Launch 1 week |Post-Launch 1 month|
-|------------- |---------|-------------- |-------------- |-------------- |
-|NOK page views |TBD |TBD | TBD |TBD |
-|NOK add (Yes)|TBD |TBD | TBD |TBD |
-|EC page views |TBD |TBD | TBD |TBD |
-|EC add (Yes) |TBD |TBD | TBD |TBD |
+| Product KPI |  Target | Post-Launch 1 week |Post-Launch 1 month|
+|-------------|-------------- |-------------- |-------------- |
+|NOK add (Yes)|500 | TBD |TBD |
+|EC add (Yes) |500 | TBD |TBD |
 
 
 - Links to the dashboard(s) showing "success criteria" metrics:
