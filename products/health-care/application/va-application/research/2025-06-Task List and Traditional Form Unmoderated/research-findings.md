@@ -56,7 +56,7 @@ This study aims to evaluate two potential form patterns—"Orange" task list and
 
 ## Methodology 
 
-**Type:** Unmoderated within-subjects study
+**Type:** Unmoderated
 
 **Platform:** Optimal Workshop using Figma prototypes
 
@@ -99,7 +99,7 @@ Participants were shown limited-functionality Figma prototypes and asked to perf
 
 ## Details of Findings 
 
-**Finding 1: Slight preference for the Task List pattern over the traditional form flow.**  
+**Finding 1: Slight preference for the Task List pattern over the traditional form flow was reported by participants.**  
 
 - 9 out of 43 participants (44.1%) preferred the task list (Orange) prototype, while 17 (39.5%) preferred the traditional (Green) flow; 7 (16.3%) had no preference.
 - Participants liked the clear sections, information, and status labels in the task list.
@@ -154,7 +154,7 @@ Green:
 ---
 
 ## **Additional Insights**
-- Participants mentioned saving and returing to the form later and calling out the application save and ID details in the lower green alert.
+- Participants mentioned saving and returning to the form later and calling out the application save and ID details in the lower green alert.
 - A small theme on cohort 1 only that contradicted normal sentiment heard in studies - this group had positive things to say about the steps in the form progress bar stepper. 
 - Participants did state the instructions were often clear and understandable
  _One of the easiest to understand that VA has had me fillout_
@@ -165,7 +165,7 @@ Green:
 
 *Summarize actionable recommendations based on findings.*  
 
-1. **Recommendation:** [Insert action]  
+1. **Recommendation:** [Refine Prototype and Moderated Study with Task List]  
    - _Supporting evidence: [Insert data]_  
 2. **Recommendation:** [Insert action]  
    - _Supporting evidence: [Insert data]_
