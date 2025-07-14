@@ -37,7 +37,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [ ] VA PO approved end of quarter status of Quarterly Goals (0x/xx/25)
 
-## Sprint Goals - Sprint: 12 [7/1/25 - 7/15/25]  
+## Sprint Goals - Sprint: 12 [7/2/25 - 7/15/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
 |UX: Support Engineering team in addressing Staging Review feedback to ensure Digital Dispute is release-ready (Including canary testing with Veterans).| QP1 |--|--|--|
