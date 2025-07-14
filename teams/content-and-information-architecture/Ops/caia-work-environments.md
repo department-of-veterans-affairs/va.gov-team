@@ -7,7 +7,6 @@ The Content and IA team uses government-furnished equipment (GFE).
 
 ## Communications
 - Slack
-- Slack Canvas
 - Email
 - Teams
 
