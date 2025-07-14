@@ -54,7 +54,7 @@ The MHV to VA.gov initiative consists of several different products, each with i
 
 In September 2023, the My HealtheVet on VA.gov landing page was launched ([see more about the landing page here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page)). 
 
-### Four main health tools 
+### Four Main Health Tools 
 
 Using a phased approach, teams have systematically integrated the four major health tools — [Appointments](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/appointments/va-online-scheduling),  [Medications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/README.md), [Secure Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/product), and [Medical Records](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/README.md) — into My HealtheVet on VA.gov. An "opt-in" experience in production allowed Veterans to access these tools on VA.gov while enabling VA teams to monitor usage, validate performance, and refine the experience. 
 
@@ -84,7 +84,7 @@ directed to VA.gov for secure messaging, medications, and medical records.
 **Milestone 2 (6/25)**
 - [Add details for Milestone 2] 
 
-## <a name="metrics"></a>High-level performance and adoption metrics for the health portal<be>
+## <a name="metrics"></a>High-Level Performance and Adoption Metrics for the Health Portal<be>
 
 Folder containing metrics for the health portal can be seen in Sharepoint: [Monitoring, Reporting, and Feedback](https://dvagov.sharepoint.com/sites/HealthApartment/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=QGJNSi&CID=5667b80d%2D4ee2%2D46b6%2Da293%2Df55fbab8b5e1&FolderCTID=0x012000E6CB91B251F8F14F832E520FAF90885D&id=%2Fsites%2FHealthApartment%2FShared%20Documents%2FGeneral%2FMonitoring%2C%20Reporting%2C%20and%20Feedback&viewid=9384f3a8%2De3e8%2D4abb%2Db2ab%2D24cf305ccdac) (Sharepoint)
 
@@ -94,9 +94,9 @@ This folder contains metrics on the following:
  - [Product metrics and feedback reports](https://dvagov.sharepoint.com/:f:/r/sites/HealthApartment/Shared%20Documents/General/Monitoring,%20Reporting,%20and%20Feedback/Monthly%20Product%20Metrics%20%26%20Feedback%20Reports?csf=1&web=1&e=qmWxPb) (Sharepoint)
  - [Monthly transition evaluation reports](https://dvagov.sharepoint.com/:f:/r/sites/HealthApartment/Shared%20Documents/General/Monitoring,%20Reporting,%20and%20Feedback/Monthly%20Transition%20Evaluation%20reports?csf=1&web=1&e=1Ekyyg) (Sharepoint)
 
-## <a name="design"></a>Design and research resources<be>
+## <a name="design"></a>Design and Research Resources<be>
 
-### Design system 
+### Design System 
 
 The VA.gov Design System is the front-end framework for VA.gov. Utilizing it in the design process will help create consistent experiences on VA.gov. 
 
@@ -108,16 +108,16 @@ VA design teams use Figma to view, share, and collaborate on our work. Here are 
 
 Here's the Figma link for the [My HealtheVet - Portal](https://www.figma.com/files/team/1278375444205744118/project/176500480/MHV---Portal?fuid=1094287939207433857) room. This space contains the design files for the team's responsibilities, including My HealtheVet landing page and Secondary navigation. 
 
-### Additional health specific Figma files 
+### Additional Health-Specific Figma Files 
 
 - [My HealtheVet - Unified Appointments](https://www.figma.com/files/team/1278375444205744118/project/175332858/MHV---Unified-Appointments?fuid=1094287939207433857) 
 - [My HealtheVet - Medical Records](https://www.figma.com/files/team/1278375444205744118/project/176500754/MHV---Medical-Records?fuid=1094287939207433857)
 - [My HealtheVet - Meds & Devices](https://www.figma.com/files/team/1278375444205744118/project/176500922/MHV---Meds-%26-Devices?fuid=1094287939207433857)
 - [My HealtheVet - Messages](https://www.figma.com/files/team/1278375444205744118/project/198497820/MHV---Messages?fuid=1094287939207433857)'
 
-### Landing page products' helpful links
+### Landing Page Products' Helpful Links
 
-#### My HealtheVet landing page specific helpful links 
+#### My HealtheVet Landing Page Specific Helpful Links 
 
 - [Landing page design decision tracker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page/design/decisions-tracker.md) 
 - [Landing page Figma file](https://www.figma.com/design/CAChU51fWYMZsgDR5RXeSc/MHV-Landing-Page?node-id=11-1274&t=0dq4hNUoyUU06DuN-1) 
@@ -126,7 +126,7 @@ Here's the Figma link for the [My HealtheVet - Portal](https://www.figma.com/fil
     - [Research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page/research/2023-03-Landing-Page-User-Research/2023-04-landing-page-readout.md)
 - Relevant Murals: [Landing page iterations](https://app.mural.co/invitation/room/1698186759596?code=02f984b27ce94456b25ea2a67987e582&sender=u24af215c7d9bf806b8545488) 
 
-#### Secondary navigation helpful links
+#### Secondary Navigation Helpful Links
 
 - [Secondary navigation Figma file](https://www.figma.com/design/6nWnlJUjSK91V9hjc3p0LN/MHV-Secondary-Nav?node-id=0-1&t=azNbSaD6b43w3149-1)
 - Secondary nav comparison study: [See the plan here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secondary-nav/2nd-comparison-study/research-plan.md)
@@ -135,12 +135,12 @@ Here's the Figma link for the [My HealtheVet - Portal](https://www.figma.com/fil
 - Relevant Murals: [Comparative analysis](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1694530015144/bb1ff2600f6e417f2c58abe793f158119aaac44a?sender=uebde62ceb342c6477fb09406)
 
 
-### Additional relevant Mural rooms 
+### Additional Relevant Mural Rooms 
 
 - [Cartographers - MHV on VA.gov portal](https://app.mural.co/invitation/room/1698186759596?code=02f984b27ce94456b25ea2a67987e582&sender=u24af215c7d9bf806b8545488)
 - [MHV on VA.gov](https://app.mural.co/t/departmentofveteransaffairs9999/r/1646265288521) 
 
-### Portal related research links
+### Portal Related Research Links
 
 _The following are some helpful health portal related research links._
 
@@ -158,7 +158,7 @@ _Tool specific research_
 You can learn more about getting started with research at VA here: [Research at VA](https://depo-platform-documentation.scrollhelp.site/research-design/research-at-va).
 
 
-## <a name="engineering"></a>Engineering resources<be>
+## <a name="engineering"></a>Engineering Resources<be>
 
 This section provides key resources and documentation for engineers working on the My HealtheVet (MHV) to VA.gov transition. It includes links to developer documents, repositories, onboarding, and other documentation for the applications and shared functions our team is responsible for.
 
@@ -263,7 +263,7 @@ You will want to verify and validate your product in one of the standard Platfor
 
 Please see [developer docs](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing) to learn more about quality assurance. 
 
-The staging environment (https://staging.va.gov/) is an essential tool to review work by teams. You can see a [list of staging credentials in the sensitive repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/15c8f93da2a19bbe38705cfbde1179a6c36e25a8/Administrative/vagov-users/mvi-staging-users.csv#L18) that allows you to sign in to https://staging.va.gov to review work. 
+The staging environment (https://staging.va.gov/) is an essential tool to review work by teams. You can see a [list of staging credentials in the sensitive repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/15c8f93da2a19bbe38705cfbde1179a6c36e25a8/Administrative/vagov-users/mvi-staging-users.csv#L18) that allows you to sign in to https://staging.va.gov to review work. Though here's a link to even more updated [test / staging user documentation]([url](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-mhv-cartographers.md)) for the health portal.
 
 ### Health related staging users
 
