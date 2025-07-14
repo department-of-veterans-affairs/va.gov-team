@@ -263,7 +263,7 @@ You will want to verify and validate your product in one of the standard Platfor
 
 Please see [developer docs](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing) to learn more about quality assurance. 
 
-The staging environment (https://staging.va.gov/) is an essential tool to review work by teams. You can see a [list of staging credentials in the sensitive repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/15c8f93da2a19bbe38705cfbde1179a6c36e25a8/Administrative/vagov-users/mvi-staging-users.csv#L18) that allows you to sign in to https://staging.va.gov to review work. Though here's a link to even more updated [test / staging user documentation]([https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-mhv-cartographers.md]) for the health portal.
+The staging environment (https://staging.va.gov/) is an essential tool to review work by teams. You can see a [list of staging credentials in the sensitive repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/15c8f93da2a19bbe38705cfbde1179a6c36e25a8/Administrative/vagov-users/mvi-staging-users.csv#L18) that allows you to sign in to https://staging.va.gov to review work. Though here's a link to even more updated [test / staging user documentation](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-mhv-cartographers.md) for the health portal.
 
 ### Health related staging users
 
