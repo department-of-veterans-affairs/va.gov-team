@@ -255,6 +255,6 @@ body:
           required: false
   - type: markdown
     attributes:
-      value: Tagging @department-of-veterans-affairs/platform-design
+      value: Tagging @department-of-veterans-affairs/platform-design @department-of-veterans-affairs/vsp-operations @department-of-veterans-affairs/platform-analytics-insights-team @department-of-veterans-affairs/confluence-admins
 
       
