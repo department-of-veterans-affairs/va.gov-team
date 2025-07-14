@@ -1,4 +1,4 @@
-# IA Design for High Technology Program -- VA form 22-10297 (Vet Tec 2.0)
+# IA Design for High Technology Program -- VA form 22-10297 
 **STATUS: In progress**
 
 **Team:** VEBT
