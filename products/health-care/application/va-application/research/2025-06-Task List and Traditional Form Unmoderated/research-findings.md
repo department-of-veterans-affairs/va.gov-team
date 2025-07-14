@@ -91,7 +91,7 @@ Participants were shown limited-functionality Figma prototypes and asked to perf
 
 **2.Navigation preferences were mixed between the Task List and traditional form flow patterns.** 
 
-**3. Clickable elements in task list were utilized but may have caused some confusion**
+**3. Clickable elements in task list were utilized but may have caused some confusion.**
 
 **4. Participants stated there was a lot of information to provide and gathering documents beforehand would be important.**
 
@@ -103,8 +103,8 @@ Participants were shown limited-functionality Figma prototypes and asked to perf
 
 - 9 out of 43 participants (44.1%) preferred the task list (Orange) prototype, while 17 (39.5%) preferred the traditional (Green) flow; 7 (16.3%) had no preference.
 - Participants liked the clear sections, information, and status labels in the task list.
-	_“I liked that the categories were broken down into the 6 sections. It made it easier to know if you successfully completed the individual sections.”_
-_“Navigation was fairly easy and clearly labeled.”_
+	-_“I liked that the categories were broken down into the 6 sections. It made it easier to know if you successfully completed the individual sections.”_
+	- _“Navigation was fairly easy and clearly labeled.”_
 
 
 **Finding 2: Personal preference - to navigate linear or more freely by section.**  
@@ -124,7 +124,6 @@ Prefer Traditional Flow (Green Prototype)
 - _The separate sections that haven’t been completed give me anxiety. It’s probably my OcD and seeing the incomplete_
 
 
-
 **Finding 3: The task list pattern tested showed participants had some confusion around the clickable elements - they equally wanted click on the text name or the status tag to navigate.**  
 - Participants were unsure whether to click the section name or the status tag in the task list.
 - Clickmaps showed equal use of both, as well as the navigation bar.
@@ -142,7 +141,7 @@ Green:
 
 
 
-**Finding 4: Participants stated there was a lot of information to provide and gathering documents beforehand would be important.**  
+**Finding 4: Participants stated there was a lot of information to provide and gathering documents beforehand would be important before completing the health care application.**  
 - 	Participants noted the process required a lot of information and recommended gathering documents before starting.
 
 **Quotes:**
