@@ -153,11 +153,11 @@ Please click the (green) "Continue" button.
 ## Task 1: Login to the VA Health and Benefits mobile app
 [start on the VA Health and Benefits mobile app version: 2.54.1.QA (2810)]
 
-I'd like you to take a look at this screen, and then go through the login flow. The system will automatically generate a test user login and will enter the multi-factor authentication code for you. 
+I'd like you to take a look at this screen, and login. The system will automatically generate a test user login for you and assume credentials. 
 
 As we go through the steps in this study, please talk aloud about what you're thinking BEFORE clicking on anything. And please share any thoughts, reactions, or questions you have about the current screen.
 
-[Sign in using the 'Sign in' button on your screen > Select the 'ID.me' > The system will automatically generate a login email and password, Select the 'Continue' button > The system will automatically enter a 6-digit code, Select the 'Continue' button]
+[Sign in using the 'Sign in' button on your screen]
 
 [When they get to the homepage:] Please stop here so I can give you the next instruction.
 
@@ -165,7 +165,7 @@ As we go through the steps in this study, please talk aloud about what you're th
 ## Task 2: Start a statement
 Pretend that you need to start a new statement with the VA. Where would you go in the mobile app to start a new statement?
 
-[Select 'Go to forms', Select 'Start a new statement, Select 'Start a new statement', Read through the screen 'What would you like to do?' > Select 'What I want to do isn't listed here' > Click 'Continue'. 
+[Select 'Go to forms' > Click the button 'Start a new statement' > Read the text on this page and continue on by clicking on the button 'Start a new statement', Read through the screen 'What would you like to do?' > Select 'What I want to do isn't listed here' > Click 'Continue'.]
 
 Reminder to speak aloud any thoughts, reactions, or questions you have during this process.
 
