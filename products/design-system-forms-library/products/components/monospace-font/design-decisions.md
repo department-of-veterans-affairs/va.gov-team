@@ -22,7 +22,7 @@ There are many options for monospace fonts. We reviewed different monospace font
 Ticket - Add monospace font to Figma and Table component [#2847](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/2847)
 
 ### Decision
-After reviewing pros and cons of all font options, we decided to move forward with the same monospace font option that the USWDS has which is `**Roboto Mono**`. The primary decision to use Roboto Mono is to keep the VADS aligned with the USWDS and ease of implementation would have the less friction. Font normalization has already been [applied to the Roboto Mono font](https://designsystem.digital.gov/design-tokens/typesetting/overview/#fonts-with-normalization-applied-2), so very little development effort would be required.
+After reviewing pros and cons of all font options, we decided to move forward with the same monospace font option that the USWDS has which is **`Roboto Mono`**. The primary decision to use Roboto Mono is to keep the VADS aligned with the USWDS and ease of implementation would have the less friction. Font normalization has already been [applied to the Roboto Mono font](https://designsystem.digital.gov/design-tokens/typesetting/overview/#fonts-with-normalization-applied-2), so very little development effort would be required.
 
 You can see the [Slack thread](https://dsva.slack.com/archives/G01BJ3ESXL4/p1721846113763379?thread_ts=1721767299.262339&cid=G01BJ3ESXL4) where options are discussed. 
 
