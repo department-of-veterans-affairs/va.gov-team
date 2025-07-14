@@ -1,6 +1,44 @@
 # 2025 Sprint Planning for EZ-CG Team
 - Current Sprint first
 
+## 📆 Sprint 25 (July 16 - July 29)
+
+### 10-10EZ
+
+#### Obj: EZ [CYOA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103253)
+- [#113041](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113041) - [Research] Synthesis
+
+#### Obj: EZ [Save in-progress for List & Loop](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94818)
+- [#95284](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95284) - [FE] Update Dependent section
+
+#### Obj: Insurance page updates
+- [#94500](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94500) - [QA] Follow-up to complete testing on L&L pattern
+- 
+
+#### Obj: EZ [Multi-form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103260)
+- [#111103](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111103) - [BE] Tech exploration of BDS API
+
+#### Obj: EZ [Improvements/BUGS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
+- [#114233](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114233) - [BE] Update engineering documentation to reflect BEP in place of BGS
+
+#### Obj: EZ [Form Statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95313)
+- [#105833](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105833) - [Eng] Discovery on how we can confidently refer "pending" Veterans to EZR
+
+## 
+### 10-10CG
+
+#### Obj: CG [Improvements/BUGs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40165)
+- [#102073](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102073) - [FE] Update signature page
+- [#113008](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113008) - [FE] Minor content updates on Review page
+
+##
+### Team PTO
+- Luis: 7/21-22
+- Brandon: 7/24-28
+- Mitch: 7/24-25
+
+----
+
 ## 📆 Sprint 24 (July 2 - July 15)
 
 ### 10-10EZ
