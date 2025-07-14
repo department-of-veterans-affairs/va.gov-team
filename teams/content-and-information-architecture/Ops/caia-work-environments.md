@@ -1,4 +1,4 @@
-# Team tool and work environments
+# Work tools
 Our team uses government-furnished equipment (GFE).
 
 ## Documentation and tickets
