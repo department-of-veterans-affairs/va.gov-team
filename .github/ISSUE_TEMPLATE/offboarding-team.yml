@@ -60,6 +60,8 @@ body:
     id: va-po-gh
     attributes:
       label: VA Product Owner GitHub handle
+      description: inlcude the "@" symbol 
+      placeholder: eg. @rsmith
     validations:
       required: true
   - type: input
