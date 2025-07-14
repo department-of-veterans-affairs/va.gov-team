@@ -73,21 +73,20 @@ We recommend that the rollout plan has five stages, each increasing the number o
 ### Objective: Provide an effortless online experience for Veterans to update their information for health care benefits
 #### **Key Result #1:** Increase % of Veterans who successfully add their NOK and/or EC information online
 
-- Data source
-     - [Datadog dashboard](https://vagov.ddog-gov.com/dashboard/kjp-9wp-u47/10-10ezr?historicalData=true&index=&refresh_mode=sliding&view=spans&from_ts=1703092684168&to_ts=1703179084168&live=true)
-     - [Google Analytics - EZR Events](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/B1BuF9JgTgCgLV3cx4EB4Q)
+
 
 
 **Note** Paper submissions are based on the average provided by HEC for volumes that are received by the HEC centralized processing center.  This does not include individual facilities, as there are no mechanisms in place to track them.
-| Product KPI |  Target | Post-Launch 1 week |Post-Launch 1 month|
+| Product KPI |  Monthly Target | Post-Launch 1 week |Post-Launch 1 month|
 |-------------|-------------- |-------------- |-------------- |
 |NOK add (Yes)|500 | TBD |TBD |
+|NOK edit/view existing|500 | TBD |TBD |
 |EC add (Yes) |500 | TBD |TBD |
-
+|EC edit/view existing|500 | TBD |TBD |
 
 - Links to the dashboard(s) showing "success criteria" metrics:
-     - Data source - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
-     - Data source - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/kjp-9wp-u47/10-10ezr?historicalData=true&index=&refresh_mode=sliding&view=spans&from_ts=1703092684168&to_ts=1703179084168&live=true)
+     - [Datadog dashboard](https://vagov.ddog-gov.com/dashboard/kjp-9wp-u47/10-10ezr?historicalData=true&index=&refresh_mode=sliding&view=spans&from_ts=1703092684168&to_ts=1703179084168&live=true)
+     - [Google Analytics - EZR Events](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/B1BuF9JgTgCgLV3cx4EB4Q)
 - Who is monitoring the dashboard(s)?:
      - Product Manager - Alexandria Parker, Heather Justice
      - Data Analyst - Luis Simauchi
