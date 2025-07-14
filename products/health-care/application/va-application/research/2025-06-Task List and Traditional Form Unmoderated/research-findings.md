@@ -162,7 +162,7 @@ Green:
  	- _One of the easiest to understand that VA has had me fillout_
   	- _Instructions are precise. Would be rather easy to follow, especially being a recent Discharged Veteran and used to filling out instructions and government paperwork/_
   	- _The instructions were clear as to what would be needed to complete the form._ 	
-
+- Cohort 2 had a theme of positive reactions towards the form progress bar.
   
 
 ## Recommendations
@@ -172,8 +172,8 @@ Green:
 1. **Recommendation:** [Refine Prototype and Moderated Study with Task List]  
    - Post-study survey results and questions around task list functionality: [Insert data]
 
-2. **Recommendation:** [Insert action]  
-   - _Supporting evidence: [Insert data]_
+2. **Recommendation:** [Test More Use Cases]  
+   - A future study that further evaluates how the task list pattern works for specific use cases (like short form flow for Veterans with a disability rating over 50%) or conditional logic type of questions.
 
 
 ## Product User and Business Outcomes
@@ -198,8 +198,8 @@ Green:
 
 ## Next Steps
 
-*Outline immediate actions based on findings, including owners if applicable.*  
-
+- Refine prototype based on technical limitations if this would be implemented
+- Create specific use cases that would result in different parts of the task list would need to be completed
 
 
 
