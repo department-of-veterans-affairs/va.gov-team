@@ -161,6 +161,5 @@ Track 2: A clear determination on detection feasibility (and tradeoffs for false
 * False Negative: A fraudulent user is mistakenly allowed through because the system fails to flag them. Opposite of a false positive.
 * Friction: Additional steps or barriers in the login or verification process, sometimes necessary for security but potentially harmful to usability.
 * Small Bet: A low-risk, exploratory experiment used to validate assumptions or uncover insights without committing to a full solution.
-* Fraud signal: data point or behaviour in the system that may indicate suspicious activity
-* 
+* Fraud signal: data point or behaviour in the system that may indicate suspicious activity.
 
