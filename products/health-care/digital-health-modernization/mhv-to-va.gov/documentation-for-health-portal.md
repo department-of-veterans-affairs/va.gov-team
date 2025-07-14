@@ -8,12 +8,12 @@ This document serves as a resource for future work, ensuring that our team and f
 
 ## Table of Contents
 
-* [Background of the My HealtheVet transition](#background)
-* [Directory of teams](#directoryofteams)
-* [Where are we now? - Existing features](#existingfeatures)
-* [Where are we going? - 2025 goals/key milestones](#2025goals)
-* [High-level performance and adoption metrics for the health portal](#metrics)
-* [Design and research resources](#design)
+* [Background of the My HealtheVet Transition](#background)
+* [Directory of Teams](#directoryofteams)
+* [Existing Features / Where are we now?](#existingfeatures)
+* [2025 Goals & Key Milestones / Where are we going?](#2025goals)
+* [High-level Performance & Adoption Metrics for the Health Portal](#metrics)
+* [Design & Research Resources](#design)
 * [Engineering resources](#engineering) 
 * [Quality Assurance](#qa)
 
@@ -50,7 +50,7 @@ The MHV to VA.gov initiative consists of several different products, each with i
 - [MHV CTA Widget](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/mhv-cta-widget--product-overview--cartography--mhv-on-vagov.md)
 - [Personal Healthcare Contacts](https://dvagov.sharepoint.com/:f:/r/sites/HealthApartment/Shared%20Documents/General/Cartography?csf=1&web=1&e=OarBM3)
 
-### My HealtheVet on VA.gov Landing page
+### My HealtheVet on VA.gov Landing Page
 
 In September 2023, the My HealtheVet on VA.gov landing page was launched ([see more about the landing page here](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page)). 
 
