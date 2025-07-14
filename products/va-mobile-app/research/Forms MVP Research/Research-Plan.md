@@ -155,6 +155,8 @@ During the session:
 - Tablet – Android
 - Tablet – iPad
 
+If Android, pleae request their email where an invitation to the testing link will be sent. 
+
 3. Are you willing to download the va mobile app, and zoom mobile app to complete the session?
    
 - Yes would qualify them for the study
