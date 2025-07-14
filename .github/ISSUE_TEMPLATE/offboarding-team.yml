@@ -52,6 +52,8 @@ body:
     id: pm-gh
     attributes:
       label: Team Product Manager GitHub handle
+      description: inlcude the "@" symbol 
+      placeholder: @rsmith
     validations:
       required: true
   - type: input
