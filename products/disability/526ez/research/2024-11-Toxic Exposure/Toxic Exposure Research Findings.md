@@ -12,11 +12,9 @@ Lauren Dawson, [lauren.dawson@agile6.com](mailto:lauren.dawson@agile6.com), [lau
 
 **Final share-out presentation and recording**
 
-## **![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXffaIgVWrI8Q6TmB0SX4KGvOx1mD2_q3Mx2HtAaF9_gHZoYhyDSy8vnMhije7MBx74sLWSXNKBc4tTbwhM6_S4KicUCd5hyspfMhqNB1nHm4tcfQjqh89EYXU2JOawBpSIX9knflw?key=Y4brp4DIxUDtCWSQ4qT7Us0H)**
-
 **Slide deck**  
-[Toxic Exposure Evaluative Research Share-Out.pptx](https://github.com/user-attachments/files/21223117/Toxic.Exposure.Evaluative.Research.Share-Out.pptx)
-[Toxic Exposure Evaluative Research Share-Out.pdf](https://github.com/user-attachments/files/21223116/Toxic.Exposure.Evaluative.Research.Share-Out.pdf)
+- [Toxic Exposure Evaluative Research Share-Out.pptx](https://github.com/user-attachments/files/21223117/Toxic.Exposure.Evaluative.Research.Share-Out.pptx)
+- [Toxic Exposure Evaluative Research Share-Out.pdf](https://github.com/user-attachments/files/21223116/Toxic.Exposure.Evaluative.Research.Share-Out.pdf)
 
 **Presentation recording**  
 Recording, presented and recorded on 12/20/2024  
