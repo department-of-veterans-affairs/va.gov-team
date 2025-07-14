@@ -44,8 +44,8 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 |UX: Complete Figma user flows for Hardship Suspension.| QP5 |--|--|--|
 |UX: Refine and document the UX research process for studies to include use of Copilot (AI tool).| QPX |--|--|--|
 |ENG: Complete existing front end Digital Dispute launch-blocking tickets from the Staging Review (10 pts).| QP1 |--|--|--|
-|ENG: Create Digital Dispute multiple submission database schemas. | QP1 |--|--|--|
-|ENG: Address upstream server VBA job submission errors.| QPX |--|--|--|
+|ENG: Create Digital Dispute multiple submission database schemas. | QP1 |--|7/10/25|Complete|
+|ENG: Address upstream server VBA job submission errors.| QPX |--|7/10/25|Complete|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [X] Ready to be sent for approvals (06/30/25)
@@ -56,6 +56,9 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 **_Delivery + Notes:_**
 - [ ] All goals have been updated in the sprint chart
 - [ ] Any Additional details about goals **not** completed will be documented here
+  - For goal - ENG: Address upstream server VBA job submission errors. This was completed on the 10th, but in addition to the goal's scope the BE ENG team created an additional task to enhance the submission error issues ensuring a higher quality of the original solution than originally required. This can be seen in ticket: Implement 5655 Submission Job Spike Solution
+#113523
+
 
 ---
 
