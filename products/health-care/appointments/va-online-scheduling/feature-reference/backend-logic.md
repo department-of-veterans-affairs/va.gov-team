@@ -12,25 +12,25 @@ The `kind` attribute is used to determine how each type should be displayed, alo
 ### Appointment types
 Booked appointments through VA or CC facilities.
 
-| Type |  Display attributes|
-|---|---|
-| [VA In-person](./appointment-types/va-in-person.md)  | `appointment.kind` = `clinic` |
-| [VA In-person Vaccine](./appointment-types/va-in-person-vaccine.md) | `appointment.serviceType` = `covid` |
-| [VA Video Care at Home](./appointment-types/va-video-care-at-home.md) |  `appointment.kind` = `telehealth`, and `telehealth` field should have `vvsKind` field equal to `MOBILE_ANY`, `MOBILE_ANY_GROUP`, `ADHOC` or is absent  (i.e. `telehealth: {vvsKind: 'MOBILE_ANY', 'MOBILE_ANY_GROUP' or 'ADHOC' or absent}`) and `Appointment.extension.patientHasMobileGfe === false` |
-| [VA Video Care on GFE](./appointment-types/va-video-care-on-gfe.md) | `appointment.kind` = `telehealth`, and `telehealth` field should have `vvsKind` field equal to `MOBILE_ANY`, `MOBILE_ANY_GROUP`, `ADHOC` or is absent  (i.e. `telehealth: {vvsKind: 'MOBILE_ANY', 'MOBILE_ANY_GROUP' or 'ADHOC' or absent}`) and `Appointment.extension.patientHasMobileGfe === true` |
-| [VA Video Care at a VA location](./appointment-types/va-video-care-at-a-va-location.md) | `appointment.kind` = `telehealth`, and telehealth field should have `vvsKind` field equal to `CLINIC_BASED` or `STORE_FORWARD`  (i.e. `telehealth: {vvsKind: 'CLINIC_BASED'}`)  |
-| [VA Video Care at an ATLAS location](./appointment-types/va-video-care-at-atlas-location.md) | `appointment.kind` = `telehealth` and  telehealth field should have an atlas field (i.e. `telehealth: {atlas: ...}`) |
-| [VA Phone](./appointment-types/va-phone.md) | `appointment.kind` = `phone` |
-| [Community care](./appointment-types/community-care.md) | `appointment.kind` = `cc` AND there is data in the `appointment.start` attribute |
-| [Claim exam appointment](./appointment-types/claim-exam.md) | `appointment.serviceCategory[0].text` = `COMPENSATION & PENSION` |
+| Type |  Display attributes| Display to users as |
+|---|---|--|
+| [VA In-person](./appointment-types/va-in-person.md)  | `appointment.kind` = `clinic` | VA in-person: [Figma](https://www.figma.com/design/eonNJsp57eqfPqx7ydsJY9/Feature-Reference-%7C-Appointments-FE?node-id=1152-82609&t=3IfXbW1xEdyhKr9L-4) |
+| [VA In-person Vaccine](./appointment-types/va-in-person-vaccine.md) | `appointment.serviceType` = `covid` | VA in-person: [Figma](https://www.figma.com/design/eonNJsp57eqfPqx7ydsJY9/Feature-Reference-%7C-Appointments-FE?node-id=1152-82609&t=3IfXbW1xEdyhKr9L-4) |
+| [VA Video Care at Home](./appointment-types/va-video-care-at-home.md) |  `appointment.kind` = `telehealth`, and `telehealth` field should have `vvsKind` field equal to `MOBILE_ANY`, `MOBILE_ANY_GROUP`, `ADHOC` or is absent  (i.e. `telehealth: {vvsKind: 'MOBILE_ANY', 'MOBILE_ANY_GROUP' or 'ADHOC' or absent}`) and `Appointment.extension.patientHasMobileGfe === false` | VA Video at home: [Figma](https://www.figma.com/design/eonNJsp57eqfPqx7ydsJY9/Feature-Reference-%7C-Appointments-FE?node-id=1152-86021&t=3IfXbW1xEdyhKr9L-4) |
+| [VA Video Care on GFE](./appointment-types/va-video-care-on-gfe.md) | `appointment.kind` = `telehealth`, and `telehealth` field should have `vvsKind` field equal to `MOBILE_ANY`, `MOBILE_ANY_GROUP`, `ADHOC` or is absent  (i.e. `telehealth: {vvsKind: 'MOBILE_ANY', 'MOBILE_ANY_GROUP' or 'ADHOC' or absent}`) and `Appointment.extension.patientHasMobileGfe === true` | VA Video at home: [Figma](https://www.figma.com/design/eonNJsp57eqfPqx7ydsJY9/Feature-Reference-%7C-Appointments-FE?node-id=1152-86021&t=3IfXbW1xEdyhKr9L-4) |
+| [VA Video Care at a VA location](./appointment-types/va-video-care-at-a-va-location.md) | `appointment.kind` = `telehealth`, and telehealth field should have `vvsKind` field equal to `CLINIC_BASED` or `STORE_FORWARD`  (i.e. `telehealth: {vvsKind: 'CLINIC_BASED'}`)  | Video at VA: [Figma](https://www.figma.com/design/eonNJsp57eqfPqx7ydsJY9/Feature-Reference-%7C-Appointments-FE?node-id=1152-91577&t=sRE5vQ4o5AMyZdTv-4) |
+| [VA Video Care at an ATLAS location](./appointment-types/va-video-care-at-atlas-location.md) | `appointment.kind` = `telehealth` and  telehealth field should have an atlas field (i.e. `telehealth: {atlas: ...}`) | ATLAS: [Figma](https://www.figma.com/design/eonNJsp57eqfPqx7ydsJY9/Feature-Reference-%7C-Appointments-FE?node-id=1152-97230&t=sRE5vQ4o5AMyZdTv-4) |
+| [VA Phone](./appointment-types/va-phone.md) | `appointment.kind` = `phone` | Phone: [Figma](https://www.figma.com/design/eonNJsp57eqfPqx7ydsJY9/Feature-Reference-%7C-Appointments-FE?node-id=1152-101002&t=sRE5vQ4o5AMyZdTv-4) |
+| [Community care](./appointment-types/community-care.md) | `appointment.kind` = `cc` AND there is data in the `appointment.start` attribute | Community Care: [Figma](https://www.figma.com/design/eonNJsp57eqfPqx7ydsJY9/Feature-Reference-%7C-Appointments-FE?node-id=1152-104339&t=sRE5vQ4o5AMyZdTv-4) |
+| [Claim exam appointment](./appointment-types/claim-exam.md) | `appointment.serviceCategory[0].text` = `COMPENSATION & PENSION` | Claim exam: [Figma](https://www.figma.com/design/eonNJsp57eqfPqx7ydsJY9/Feature-Reference-%7C-Appointments-FE?node-id=1152-107343&t=sRE5vQ4o5AMyZdTv-4) |
 
 ### Request types
 Appointments that Veterans have requested but VA has not booked.
 
-| Feature | Description |
-|---|---|
-| [VA appointment request](./appointment-types/va-request.md)  | `appointment.kind` is not `cc` and it has data in the `appointment.requestedPeriods` |
-| [Community care appointment request](./appointment-types/community-care-request.md) | `appointment.kind` = `cc` AND there is data in the `appointment.requestedPeriods`|
+| Feature | Description | Display to users as |
+|---|---|---|
+| [VA appointment request](./appointment-types/va-request.md)  | `appointment.kind` is not `cc` and it has data in the `appointment.requestedPeriods` | VA Request: [Figma](https://www.figma.com/design/eonNJsp57eqfPqx7ydsJY9/Feature-Reference-%7C-Appointments-FE?node-id=1152-110497&t=sRE5vQ4o5AMyZdTv-4) |
+| [Community care appointment request](./appointment-types/community-care-request.md) | `appointment.kind` = `cc` AND there is data in the `appointment.requestedPeriods`| CC Request: [Figma](https://www.figma.com/design/eonNJsp57eqfPqx7ydsJY9/Feature-Reference-%7C-Appointments-FE?node-id=1152-114180&t=sRE5vQ4o5AMyZdTv-4) |
 
 ## Determining available types of care for scheduling
 
