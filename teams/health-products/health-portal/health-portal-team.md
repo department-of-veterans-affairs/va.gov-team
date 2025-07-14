@@ -55,11 +55,14 @@ The My HealtheVet on VA.gov team’s mission is to simplify Veterans’ health e
 ### Mobile app
 - Slack channel: [#va-mobile-app](https://dsva.slack.com/archives/C018V2JCWRJ)
 
-## Platform Team
+### Platform Team
 - TBD
 
+### Support Team
 
+## Stakeholders
 
+## Partner Teams
 
 ## What We're Working On
 The My HealtheVet portal team's main focus for the past several years has been rebuilding the standalone My HealtheVet patient health portal (currently referred to as My HealtheVet Classic) and integrating it into VA.gov. 
