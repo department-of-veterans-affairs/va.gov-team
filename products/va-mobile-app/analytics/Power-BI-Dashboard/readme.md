@@ -1,5 +1,18 @@
 # Dashboards
 
+## Links
+[VAHB Mobile App Dashbard](https://app.powerbigov.us/groups/702cbc91-0b62-458c-b807-0e41743ecd89/dashboards/9c861a5f-4f7f-45f5-bd1b-85a6e6f07305)
+
+### Reports
+- [Active and New Users](https://app.powerbigov.us/groups/702cbc91-0b62-458c-b807-0e41743ecd89/reports/16071763-661e-4b1c-a679-1bfa2bd33b23/93f7b619053f829cb030)
+- [Homescreen Scroll Depth](https://app.powerbigov.us/groups/702cbc91-0b62-458c-b807-0e41743ecd89/reports/16071763-661e-4b1c-a679-1bfa2bd33b23/9ae011eca1e412feb8d7)
+- [Views by Screen](https://app.powerbigov.us/groups/702cbc91-0b62-458c-b807-0e41743ecd89/reports/16071763-661e-4b1c-a679-1bfa2bd33b23/ba942e069de3a5abf523)
+- [Veteran Crisis Line Engagement](https://app.powerbigov.us/groups/702cbc91-0b62-458c-b807-0e41743ecd89/reports/16071763-661e-4b1c-a679-1bfa2bd33b23/b17118119a34f847128a)
+- [Appointment Details Views](https://app.powerbigov.us/groups/702cbc91-0b62-458c-b807-0e41743ecd89/reports/9caf3100-a048-4e0c-a900-5312564e4d44/a236ad74ec4972057dd0)
+- [Rx Refills](https://app.powerbigov.us/groups/702cbc91-0b62-458c-b807-0e41743ecd89/reports/9caf3100-a048-4e0c-a900-5312564e4d44/897730900d81d67e8513)
+- [Letter Downloads](https://app.powerbigov.us/groups/702cbc91-0b62-458c-b807-0e41743ecd89/reports/9caf3100-a048-4e0c-a900-5312564e4d44/afc6d1b5043f5abd9c3a)
+- [Secure Messages Sent](https://app.powerbigov.us/groups/702cbc91-0b62-458c-b807-0e41743ecd89/reports/9caf3100-a048-4e0c-a900-5312564e4d44/6235785bf117d25899b7)
+
 ## The problem
 
 The VA: Health and Benefits mobile app's analytics dashboard has been non-functional since the new contract started (2025). Mobile platform users frequently utilize the dashboard for metrics gathering and reporting and have since not been able to gather those metrics or have had a much more difficult time doing so. Compounding the issue is the fact that the previous dashboard was contractor-own and is now unable to be fixed. 
