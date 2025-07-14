@@ -19,7 +19,7 @@ There are many options for monospace fonts. We reviewed different monospace font
 - Some things considered was native fonts vs. web fonts and the pros and cons of using each option.
 - When making this decision we were also very involved in [font normalization](https://designsystem.digital.gov/design-tokens/typesetting/overview/#fonts-with-normalization-applied-2) of other fonts being used in the Design System which contributed to the final decision.
 
-Design: Add monospace font to Figma and Table component [#2847](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/2847)
+Ticket - Add monospace font to Figma and Table component [#2847](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/2847)
 
 ### Decision
 After reviewing pros and cons of all font options, we decided to move forward with the same monospace font option that the USWDS has which is `**Roboto Mono**`. The primary decision to use Roboto Mono is to keep the VADS aligned with the USWDS and ease of implementation would have the less friction. Font normalization has already been [applied to the Roboto Mono font](https://designsystem.digital.gov/design-tokens/typesetting/overview/#fonts-with-normalization-applied-2), so very little development effort would be required.
