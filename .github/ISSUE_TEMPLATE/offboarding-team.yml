@@ -53,7 +53,7 @@ body:
     attributes:
       label: Team Product Manager GitHub handle
       description: inlcude the "@" symbol 
-      placeholder: @rsmith
+      placeholder: eg. @rsmith
     validations:
       required: true
   - type: input
