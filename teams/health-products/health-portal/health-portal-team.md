@@ -53,7 +53,7 @@ The My HealtheVet on VA.gov team’s mission is to simplify Veterans’ health e
 - Slack channel: [#mobile-feature-support-public](https://dsva.slack.com/archives/C07SD9P7XB9)
 
 ### Mobile app
-- Slack channel: [#va-mobile-app]([url](https://dsva.slack.com/archives/C018V2JCWRJ))
+- Slack channel: [#va-mobile-app](https://dsva.slack.com/archives/C018V2JCWRJ)
 
 ## Platform Team
 - TBD
