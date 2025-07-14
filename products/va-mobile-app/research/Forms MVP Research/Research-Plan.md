@@ -6,7 +6,7 @@ Briefly describe the background of your product.
 	
 The VA Mobile App team recently resolved SSO issues that had previously prevented Veterans from accessing VA.gov within a web view while maintaining their authenticated state. 
 
-This technical improvement creates a new opportunity to integrate the Forms feature into the mobile app, functionality that is not currently available in the mobile experience. 
+This technical improvement creates a new opportunity to integrate the Forms feature into the mobile app, functionality that is not currently available. 
 
 As part of the MVP, the app introduces the form 21-4138, a widely used form, in the mobile app so Veterans can: 
 1. Complete VA forms in a secure web view from a mobile device; and
@@ -46,7 +46,7 @@ The results of the study will help us determine if Veterans are able to fill out
 
 1. How easily can Veterans locate the forms section within the mobile app?
 2. What steps do Veterans take to start a new form from within the app?
-3. Are there any points of confusion or difficulty when Veterans attempt to find forms?
+3. Are there any points of confusion or difficulty when Veterans attempt to start a new form?
 
 **Research goal #2: Identify if Veterans can fill out a form from the app on their own.**
 
@@ -94,11 +94,11 @@ The results of the study will help us determine if Veterans are able to fill out
   
 ## Methodology  🛠️
 
-This study will use **remote moderated usability testing** to observe Veterans completing two form flows from within the mobile app. Participants will complete tasks while sharing their screen via Zoom on their mobile device. We will be using a **GitHub Codespace** to simulate the environment and enable accessibility features for participants who may be using screen readers or screen magnifiers.
+This study will use **remote moderated usability testing** to observe Veterans completing a form flow from within the mobile app. Participants will complete tasks while sharing their screen via Zoom on their mobile device. We will be using a **GitHub Codespace** to simulate the environment.
 
-During the usability testing following flows will be observed:
-- Completing a new Form 4138 through the in-app webview
-- Continuing an in-progress form from the mobile app
+During the usability testing the following flow will test both:
+- Filling out a new Form 21-4138 through the in-app webview.
+- Continuing an in-progress form from the mobile app through to submission.
   
 
 ### Location
@@ -155,7 +155,7 @@ During the session:
 - Tablet – Android
 - Tablet – iPad
 
-3. Are you willing to download the test flight app, the va mobile app, and zoom mobile app to complete the session?
+3. Are you willing to download the va mobile app, and zoom mobile app to complete the session?
    
 - Yes would qualify them for the study
 - No would disqualify them
@@ -197,12 +197,12 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 >
 > **Place time slots between `hash marks` when in edit mode.**
 
-- `[07/28, Monday, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[07/29, Tuesday, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[07/30, Wednesday, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[07/31, Thursday, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[08/01, Friday, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `Add more slots as needed`
+- `[07/28, Monday, 10:00 AM-7:00 PM] EST`
+- `[07/29, Tuesday, 10:00 AM-7:00 PM] EST`
+- `[07/30, Wednesday, 10:00 AM-7:00 PM] EST`
+- `[07/31, Thursday, 10:00 AM-7:00 PM] EST`
+- `[08/01, Friday, 10:00 AM-7:00 PM] EST`
+
   
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
@@ -216,12 +216,12 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 - `Participant recruiting & screening:`	**[Perigean]**	
 - `Project point of contact:` **[Christine Julian]**		
 - `Accessibility specialist (for sessions where support for assistive technology may be needed):` **[ADE Team]**	
-- `Note-takers:` **[Enter full name]** ***or*** **[Designate Perigean]**	
+- `Note-takers:` **[Jonathan Post]** ***or*** **[Maria Kravets]**	
 - `Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work. Spread observers across sessions. There should be no more than 5 to 6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side.`
 
-- **[Enter full name]**
-- **[Enter full name]**
-- **[Enter full name]**
+- **[Ken Li]**
+- **[Brenda Barraza]**
+- **[Becca Tupaj]**
 
 ## Approvals ✅
 - `Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]`
