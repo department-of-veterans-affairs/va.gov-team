@@ -1,4 +1,4 @@
-****21a Convo Guide – 1. OGC Interview (Exploratory with Benefits Law Group Attorneys)**** \
+# 21a Convo Guide – 1. OGC Interview (Exploratory with Benefits Law Group Attorneys)
 &#x20;
 
 - [Research Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1747745421512/ac1f8973c22f3741f694c3ad5f7df38343e82a2b?sender=u4c8b6076357da42993941037)&#x20;
