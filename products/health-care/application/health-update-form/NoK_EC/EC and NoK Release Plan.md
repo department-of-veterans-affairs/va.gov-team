@@ -83,6 +83,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 |NOK edit/view existing|500 | TBD |TBD |
 |EC add (Yes) |500 | TBD |TBD |
 |EC edit/view existing|500 | TBD |TBD |
+Errors | N/A| 0 errors| TBD| TBD|
 
 - Links to the dashboard(s) showing "success criteria" metrics:
      - [Datadog dashboard](https://vagov.ddog-gov.com/dashboard/kjp-9wp-u47/10-10ezr?historicalData=true&index=&refresh_mode=sliding&view=spans&from_ts=1703092684168&to_ts=1703179084168&live=true)
@@ -100,7 +101,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Planning
 
 - Length of time:
-     -  2 days - 7/21-22/2025
+     - **2 days - 7/21-22/2025**
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 10% of authenticated Veterans
      - About 16 submissions per day
@@ -120,7 +121,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Planning
 
 - Length of time:
-     - 7/23-27/2025
+     - **5 days - 7/23-27/2025**
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 25% of authenticated Veterans
      - about 41 submissions per day
@@ -141,7 +142,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Planning
 
 - Length of time:
-     - 7/28-29/2025
+     - **2 days - 7/28-29/2025**
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 75% of authenticated Veterans
      - about 124 submissions per day
@@ -159,7 +160,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Planning
 
 - Length of time:
-     - 7/30/2025
+     - **7/30/2025**
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 100% of authenticated Veterans
      - about 1,000 per week
