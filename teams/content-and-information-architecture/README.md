@@ -1,3 +1,2 @@
-# Content, Accessibility, and Information Architecture
+# Content and information architecture
 
-Content, Accessibility, and Information Architecture, or CAIA. [WIP]
