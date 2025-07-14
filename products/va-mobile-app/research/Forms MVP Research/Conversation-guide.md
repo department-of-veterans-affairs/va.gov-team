@@ -151,19 +151,19 @@ You will receive an email invite to the email you supplied us to download the te
 
 
 ## Task 1: Login to the VA Health and Benefits mobile app
-[start on the VA Health and Benefits mobile app version: 2.54.1.QA (2810)]
+[start on the VA Health and Benefits mobile app version: 2.54.1.QA (2825)]
 
 I'd like you to take a look at this screen, and login. The system will automatically generate a test user login for you and assume credentials. 
 
 As we go through the steps in this study, please talk aloud about what you're thinking BEFORE clicking on anything. And please share any thoughts, reactions, or questions you have about the current screen.
 
-[Sign in using the 'Sign in' button on your screen, Once logged in select "Skip" bottom-right, For the notification screen select "Not now".]
+[Sign in using the 'Sign in' button on your screen > Once logged in you will see some initial app instructions, select "Skip" at the bottom-right of your screen > For the notification screen select "Not now".]
 
 [When they get to the homepage:] Please stop here so I can give you the next instruction.
 
 
 ## Task 2: Start a statement
-Pretend that you need to start a new statement with the VA. Where would you go in the mobile app to start a new statement?
+Pretend that you need to start a new statement with the VA by completing a form. Where would you go in the mobile app to start a new statement?
 
 [Select 'Go to forms' > Click the button 'Start a new statement' > Read the text on this page and continue on by clicking on the button 'Start a new statement', Read through the screen 'What would you like to do?' > Select 'What I want to do isn't listed here' > Click 'Continue'.]
 
@@ -176,7 +176,7 @@ Reminder to speak aloud any thoughts, reactions, or questions you have during th
     - If Y, what do they find confusing?
 
 
-## Task 3: Fill out form [never back out or reload the page]
+## Task 3: Fill out the form [never back out or reload the page]
 Please fill out this form to submit your statement, but I want you to use fake details so you don't share your personal information with me.
 
 - Supply form entry data for participant to enter as they go through the form.
@@ -194,25 +194,38 @@ Please fill out this form to submit your statement, but I want you to use fake d
 
 
 ## Task 4: (After SSN before 'Continue') take a break in filling out the form
-Pretend you need to step away from the form for an extended period of time, what do you do with the form at this point?
+Pretend you need to step away from the form for an extended period of time, you can leave the form now.
 
 [Click 'Done' to exit the form]
 
 ### Watch for:
 - Does the user select anything other than Done to leave the form? Y/N
     - If yes, what does the user do?
-- Does the user feel express doubt that their work will be saved? Y/N
+- Does the user express doubt that their work will be saved? Y/N
 
 ## Task 5: Continue completing the started form and submit
 Pretend you are ready to come back to your previous form to complete it.
 
-[From forms, under 'Statement in Support of a Claim' click 'Continue form']
+[From forms, under 'Statement in Support of a Claim' see 'In Progress' form previously started, click 'Continue form']
 
 ### Watch for:
 - Does the user understand that they are continuing with the same form they started at the beginning of the session? Y/N
     - If no, what do they mention that is confusing?
 - Is the user able to complete the started form? Y/N
     - If no, what prohibited them from submitting the initial form?
+ 
+### Task 6: View submitted form
+Now that you have completed the form, navigate back to the general forms location in the app.
+
+[Select 'Done' to exit the confirmation page, Go to 'Forms']
+
+Based on this screen, can you confirm that you have submitted your form?
+
+### Watch for:
+- Does the user express confidence that they have completed and submitted their form?
+    - If no, what is confusing to them and why?
+- DOes the user understand the status of the form?
+    - If not, what do confusion do they express when interpretting the form status?
 
 
 ## Thank You and Closing - 3 minutes
@@ -238,7 +251,7 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 - Rename and save transcript file from Finder
 - Download notes
 - Debrief to my spreadsheet
-- **STOP the Codespace**:
+- Ask developer to **STOP the Codespace**:
   1. Open the stop/start URL in github
   1. Click on green "<> Code" button
   1. In the Codespaces tab, see green dot and "active" next to the name of your codespace (va-public-musical space goggles)
