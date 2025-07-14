@@ -3,6 +3,7 @@
 ### Specific questions from Business Logic document review
 1. Collect public facing information preferences. (Aligns with what desires we've seen in user interviews.)
     1. "Long term we want to have accredited individuals select what address to post publicly on VA’s website and what address VA should use for correspondence. We are unsure if we should do that here, later, or both and appreciate any guidance"
+    2. What do we want the applicant to do if they don’t want their information public or have additional questions about their information being public? Would it make sense to advise applicants who have questions to the ogcaccreditationmailbox@va.gov? These scenarios seem likely if we have applicants learning that some of their information will be public while they are filling out the application.
 2. Ask about the need for day in Employment, Education, and Military sections. This will determine exact date implementation.
 3. Could the professional affiliations section omit list loop [questions related to practicing law](https://www.figma.com/design/2afIGOMII0uRI5ck1dWo1w/ARF---Form-21a---Apply-for-Accreditation--CA---Attorneys-?node-id=1509-182146&t=c9eEe0Bjg405G3Fb-11) if the applicant is applying as a claims agent?
 4. Questions that may not be relevant for claims agents that could be omitted if the applicant specifies they are applying as a claims agent:
