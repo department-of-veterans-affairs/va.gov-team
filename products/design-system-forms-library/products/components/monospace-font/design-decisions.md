@@ -31,4 +31,4 @@ You can see the [Slack thread](https://dsva.slack.com/archives/G01BJ3ESXL4/p1721
 - [Typography page in Figma](https://www.figma.com/design/afurtw4iqQe6y4gXfNfkkk/VADS-Component-Library?node-id=199-1182)
 
 ### Consequences
-Clear and consistent naming reduces future design debt. Establishing terminology early helps streamline communication and decision-making across design and development teams.
+Adding a new font to the Design System adds more size to the package and contributes to slower download sizes. We should consider a desktop font in the future if we want to focus on reducing the size of the design system.
