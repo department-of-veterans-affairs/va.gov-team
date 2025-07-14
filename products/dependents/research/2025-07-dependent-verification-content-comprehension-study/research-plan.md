@@ -57,7 +57,7 @@
 - **By indicating Yes they need to make changes or No they do not need to make changes**
 - **OR by indicating Yes the current information is correct or No the current information is not correct**
 
-`3.` **Do Veterans understand that if they need to make changes to the dependents on their VA benefits they will need to fill out an additional form after completing this flow?** 
+`3.` **Do Veterans understand that if they need to make changes to the dependents on their VA benefits they will need to fill out an additional form or forms?** 
   
 ### Outcome
 `How will this research advance your product to the next phase in the design process? What will you do with your learnings?`
@@ -79,19 +79,22 @@
 
 **`1.`After looking at this page what would you do next, if anything?**
 
-**`2.`Is there any additional information you would like to see about your dependents to help you take the next step? If so, what?**
+**`2.`What is your response to seeing the alert at the top of the page?**
 
-**Goal 2: What type of content on the "Your VA dependents" page, especially in the alert box, is most effective in helping Veterans understand and complete the dependents verification process?**
+**`3.`When or how often would you expect to see the alert at the top of the page?**
+
+**Goal 2: How is it most natural for Veterans to respond after reviewing the current state of the dependents on their benefits?**
 **(Some participants will be shown Design A and other participants will be shown Design B and their responses will be compared)**  
 
 **`1.`If you see that a change needs to be made when reviewing your dependents, what would you do?**  
 
-**Goal 3: Do Veterans understand that if they need to make changes to the dependents on their VA benefits they will need to fill out an additional form after completing this flow?** 
+**Goal 3: Do Veterans understand that if they need to make changes to the dependents on their VA benefits they will need to fill out an additional form or forms?** 
 **(Some participants will be shown Design A and other participants will be shown Design B and their responses will be compared)**  
 
-**`4.`[Enter Q4]**
+**`1.`After looking at this page what would you do next, if anything?**
 
-**`5.`[Enter Q5]**
+**`2.`If you left and came back to VA.gov, where would you expect to find information about about the additional forms to complete to finish updating your dependents?**
+
 
 
 ### Hypotheses
@@ -205,7 +208,7 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 - `Project point of contact:` **Megan Graham**		
 - `Accessibility specialist (for sessions where support for assistive technology may be needed):` **N/A**	
 - `Note-takers:` **N/A**	
-- `Observers: **N/A**
+- `Observers:` **N/A**
 
 
 ## Approvals ✅
