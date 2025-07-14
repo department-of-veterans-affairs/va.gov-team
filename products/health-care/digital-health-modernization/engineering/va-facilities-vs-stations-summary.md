@@ -69,6 +69,40 @@ or STA3N, and the full code the “Station 5A/6A.” They also use terms like �
 VAMC (medical center with inpatient care), CBOC (community clinic), HCC (health care center), CLC (community living center 
 nursing home), DOM or PRRTP (domiciliary/residential rehab), etc.
 
+## Veteran's Facilities
+### vets-website
+The front-end receives the facilities a veteran is associated with from the `/v0/user` vets-api endpoint. Note that this data
+only includes the 3-digit parent facility ID.
+```JSON
+{
+    "data": {
+        "id": "",
+        "type": "user",
+        "attributes": {
+            "vaProfile": {
+                "cernerFacilityIds": [
+                    "463",
+                    "668",
+                    "692",
+                    "663",
+                    "653"
+                ],
+                "facilities": [
+                    {
+                        "facilityId": "983",
+                        "isCerner": false
+                    },
+                    {
+                        "facilityId": "463",
+                        "isCerner": true
+                    },
+                ],
+```
+
+### vets-api
+A back-end endpoint that has a `current_user` will have access to the `cerner_facility_ids` and `vha_facility_ids` properties. Note that this data
+only includes the 3-digit parent facility ID.
+
 ## Useful links
 - [VA Facilities API / Facility Locator](https://api.va.gov/internal/docs/facilities/v1/openapi.json): Developer docs: https://developer.va.gov/explore/api/va-facilities/docs?version=current
 - [Nov 2024 Facility List](https://www.va.gov/COMMUNITYCARE/docs/RO/Facility-List-v5-25.pdf) that includes stations
