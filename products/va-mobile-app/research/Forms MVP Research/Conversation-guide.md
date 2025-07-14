@@ -13,13 +13,13 @@
 - **START the Codespace**:
 Developer to run codespace.
   1. Open the stop/start URL in github
-  1. Click on green "<> Code" button
-  1. In the Codespaces tab, click on the ellipsis (...) next to your Codespace (va-public-musical space goggles)
-  1. Select "Open in browser".
-  1. See "Setting up your codespace", and a browser tab w/command window
-  1. Ctrl-Shift-P > view > View Creation Log > see in terminal window at bottom
-  1. Check for all green text, and "Setup complete" (if anything red, slack Alex Taker)
-  1. Open standalone browser window with prototype: **insert link** (link) and test it
+  2. Click on green "<> Code" button
+  3. In the Codespaces tab, click on the ellipsis (...) next to your Codespace (va-public-didactic-cod)
+  4. Select "Open in browser".
+See "Setting up your codespace", and a browser tab w/command window
+Ctrl-Shift-P > view > View Creation Log > see in terminal window at bottom
+Check for all green text, and "Setup complete" (if anything red, slack Ken Li)
+Open standalone browser window with prototype: insert link (https://didactic-cod-xx56j6p5vg3v45v-3001.app.github.dev/supporting-forms-for-claims/submit-statement-form-21-4138/introduction) and test it
 - Sign onto Zoom website as Perigean and start Zoom meeting
 - Slack Perigean notetaker a link to the notes doc in GitHub
 - Post p# and "observer instructions" in #feedback-backchannel
@@ -42,8 +42,6 @@ Thanks for joining us today! My name is **Christine**. How are you doing today?
 
 I have a colleague with us in this session who will be taking notes. 
 
-*(if applicable)* [accessibility specialist] is also in this meeting to help with any technical issues that may arise with your use of assistive technology during this session. 
-
 There are a few of my teammates who would like to observe this session as well. **Would it be OK with you if I invited them to join us?**
 - *(If participant seems hesitant or unsure or uncomfortable)* Just so you know, my teammates will be muted and off camera and you won't have to interact with them. You also have the option to keep the session just the two of us plus the notetaker (and the technical support person).
 - *(If yes, let them in--3-4 MAX. If no, post to #feedback-backchannel "Sorry, the participant doesn't want any observers in this session.")*
@@ -56,7 +54,7 @@ Today we're going to talk about filling out forms from the VA mobile app. I'm go
 
 Before we start, I want to go over a few things:
 
-- **This entire session may take 60 (or 90) minutes.** I want to be sure not to keep you longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session may take 60 minutes.** I want to be sure not to keep you longer, so I may occasionally prompt you with the next question or topic.
   
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. We're testing a website to learn how we can make it easier to use. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
 - **Your participation in this interview is completely voluntary.** Whether or not you choose to participate will not affect your benefits with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Just let me know.
@@ -103,9 +101,10 @@ Let’s start with a few questions...
 
 2. What kind of device are you using today? *(Tablet / Smartphone)*
     - *(If not the expected device, ask to rejoin that way)*
-    - What operating system? *(iOS / Android / _______)*
 
-3. What web browser do you use? *(Chrome / Firefox / Edge / Safari / _______)*
+3. What operating system if on your device? *(iOS / Android / _______)*
+
+4. What is the default web browser set up on your device? *(Chrome / Firefox / Edge / Safari / _______)*
 
 4. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, put it in the Zoom chat, email it to you, or *(for smartphone only)* text it to you. *(RECORD)* 
 
@@ -135,9 +134,8 @@ We can help guide you through this if you need help. Please say what you're doin
 **(If video window is covering up phone screen)** It looks like my zoom video is covering up a lot of your screen. Could you please swipe it off? (Screen reader: swipe right until the video window has focus, and then double tap when you hear "Stash preview".)
 
 ## Task 00: Open prototype
-Now I'd like you to download the [app] on your phone. 
-
-I will *[email/text/dictate/put into the Zoom chat]* the URL: **place url here** --
+**for iOS users:** 
+I will *[email/text/dictate/put into the Zoom chat]* the URL: that takes you to download the testing app **place url here** --
 - *(If asked, reassure that this is a legitimate link to what I want you to test)*
 
 Did you get the link? 
@@ -146,6 +144,8 @@ Did you get the link?
 - *If prototype doesn't open, copy the URL and open in a new incognito window (Chrome), private window (Firefox, Safari) or InPrivate (Edge)*
 
 Please click the (green) "Continue" button.
+**for Android users:** 
+You will receive an email invite to the email you supplied us to download the testing app. Please navigate to your email and select that link now.
 
 **You'll be interacting with a demo prototype today.** Since it's a demo, note that none of your actions will affect your own VA information or benefits.
 
