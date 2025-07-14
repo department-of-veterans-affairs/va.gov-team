@@ -1,6 +1,6 @@
 # My HealtheVet on VA.gov Transition Hub 
 
-Last Update: March 12, 2025
+Last Update: July 14, 2025
 
 ## Summary
 
@@ -14,7 +14,7 @@ This document serves as a resource for future work, ensuring that our team and f
 * [2025 Goals & Key Milestones / Where are we going?](#2025goals)
 * [High-level Performance & Adoption Metrics for the Health Portal](#metrics)
 * [Design & Research Resources](#design)
-* [Engineering resources](#engineering) 
+* [Engineering Resources](#engineering) 
 * [Quality Assurance](#qa)
 
 ## <a name="background"></a>Background of the My HealtheVet Transition<be>
