@@ -44,12 +44,11 @@ The MHV to VA.gov initiative consists of several different products, each with i
 ## <a name="existingfeatures"></a>Existing Features<be>
 
 ### Product Overview
-- [MHV Landing Page] (https://dvagov.sharepoint.com/:f:/r/sites/HealthApartment/Shared%20Documents/General/Cartography?csf=1&web=1&e=OarBM3)
-- [Supply Reorder Applications] (https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/product-guides/Supply%20Reorder_Classic%20tool%20maintenance%20and%20new%20app%20development_062025.mdz)
-- [Error Message standardization / AC API] (https://dvagov.sharepoint.com/:f:/r/sites/HealthApartment/Shared%20Documents/General/Cartography?csf=1&web=1&e=OarBM3)
+- [MHV Landing Page](https://dvagov.sharepoint.com/:f:/r/sites/HealthApartment/Shared%20Documents/General/Cartography?csf=1&web=1&e=OarBM3)
+- [Supply Reorder Applications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/product-guides/Supply%20Reorder_Classic%20tool%20maintenance%20and%20new%20app%20development_062025.mdz)
+- [Error Message standardization / AC API](https://dvagov.sharepoint.com/:f:/r/sites/HealthApartment/Shared%20Documents/General/Cartography?csf=1&web=1&e=OarBM3)
 - [MHV CTA Widget](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/mhv-cta-widget--product-overview--cartography--mhv-on-vagov.md)
-- [Personal Healthcare Contacts] (https://dvagov.sharepoint.com/:f:/r/sites/HealthApartment/Shared%20Documents/General/Cartography?csf=1&web=1&e=OarBM3)
-- [insert link]
+- [Personal Healthcare Contacts](https://dvagov.sharepoint.com/:f:/r/sites/HealthApartment/Shared%20Documents/General/Cartography?csf=1&web=1&e=OarBM3)
 
 ### My HealtheVet on VA.gov Landing page
 
