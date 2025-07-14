@@ -102,8 +102,9 @@ Participants were shown limited-functionality Figma prototypes and asked to perf
 **Finding 1: Slight preference for the task list pattern over the traditional form flow was reported by participants.**  
 
 - 19 out of 43 participants (44.1%) preferred the task list (Orange) prototype, while 17 out of 43 (39.5%) preferred the traditional (Green) flow; 7 (16.3%) had no preference.
+- Participants rated the Orange task list prototype as "Very Easy" in the post-task question. 71.4% in cohort 1 and 63.6% in cohort 2.
 - Participants liked the clear sections, information, and status labels in the task list.
-	-_“I liked that the categories were broken down into the 6 sections. It made it easier to know if you successfully completed the individual sections.”_
+  	- _“I liked that the categories were broken down into the 6 sections. It made it easier to know if you successfully completed the individual sections.”_
 	- _“Navigation was fairly easy and clearly labeled.”_
  	- _"Overall, very good. (Orange prototype) The categories were displayed in large font and then sub-categories were nested underneath. It's also a good feature to have the form move to the next page after a section is complete. I usually notice that in tax software, so that is a bonus."_ 
 
