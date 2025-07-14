@@ -50,15 +50,17 @@
    - Each "tab" leads to a new page.
    - Tabs stack on mobile when there are too many.
 
-- **Reflection:** I need to reach out to the team but it looks like their tabs use case might work better as segmented buttons as well. Appointments also mentioned wanted to maintain consistency with Messaging. So both team might want to switch to the segmented button. 
-
 ## ✅ Observations
 
 - All reported use cases included three or fewer tabs.
 - Tabs can introduce complexity when combined with other navigation elements like tertiary buttons or side navigation, making layout and hierarchy harder to manage.
 - In all examples, teams used a stacked tab layout when tabs overflowed.
 - Teams are grappling with the choice between URL-based navigation and in-page tab updates, which adds complexity to deciding the most appropriate navigation pattern.
-- In the use cases shared in the discussion, both of the implementations of tabs would work better as segmented buttons.
+- In the use cases shared in the discussion, both of the implementations of tabs might have a use case for segmented buttons.
   - [Appointments](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/discussions/4443#discussioncomment-13655539)
   - [Claims status](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/discussions/4443#discussioncomment-13700641)
-  - Secure Messaging might also be a use case for moving to segmented button but need to reach out to the team to get their feedback.  
+  - Secure Messaging might also be a use case for moving to segmented button but need to reach out to the team to get their feedback.
+ 
+## 📍 Next Steps
+- Proceed with a v1 of tabs that limits tabs to 3 or less.
+- Solve for a11y issue of fitting 3 tabs fit in all screen sizes and 400% zoom.
