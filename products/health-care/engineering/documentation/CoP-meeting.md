@@ -23,6 +23,7 @@
 
 ## What
 
+- Keep teams aligned and share OCTO culture with the group
 - A bottom up lead meeting, not an OCTO engineering puff meeting
 - a place to ask question and share information
 - Encourage cross team and contract collaboration
