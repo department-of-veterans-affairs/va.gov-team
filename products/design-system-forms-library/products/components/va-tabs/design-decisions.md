@@ -1,5 +1,5 @@
 # `va-tabs` Design Decisions  
-_Last updated: 2025-05-13_
+_Last updated: 2025-07-14_
 
 ## Index
 - [ADR 001: Tab definitions](#adr-001-tab-definitions)
@@ -7,6 +7,7 @@ _Last updated: 2025-05-13_
 - [ADR 003: Tab Style Choices](#adr-003-tab-style-choices)
 - [ADR 004: Consistent popover styles](#adr-004-consistent-popover-styles)
 - [ADR 005: Focus styles](#adr-005-focus-styles)
+- [ADR 006: Limiting tabs to 3 or less](#adr-006-limiting-tabs-to-3-or-less)
 
 ---
 
@@ -216,3 +217,27 @@ We chose **Option 2**: adding a 2px dark border around focused tabs. This provid
 ### Consequences
 
 This change introduces a new focus style for tabs, diverging from other components, which do not currently use an outer border for focus. 
+
+---
+
+## ADR 006: Limiting tabs to 3 or less 
+
+### Status: Accepted  
+- **Date Raised:** 2025-07-02  
+- **Decision Date:** 2025-07-14  
+
+### Context
+
+After tabs went through an accessibility review, concerns were raised about the overflow behavior of the tabs where a `more` button would be used. It was decided that we needed to do some research into the current use cases of tabs. We created a [Tabs discussion thread](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/discussions/4443) and teams shared how they are using tabs. 
+
+You can read more about the findings in this [Tabs audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/va-tabs/tabs-audit.md)
+
+### Decision
+
+After seeing that there are no use cases having three or more tabs, we have decided to limit the scope of tabs and not implement a tabs design that uses the `more` button. The v1 of tabs will limit the tabs to 3 or less tabs to prevent excessive tab overflowing designs. 
+
+We still need to implement a solution of overflowing tabs for accessiblity and 400% zoom levels even when tabs are limited to 3 or less. 
+
+### Consequences
+
+There will most likely be a need to solve for more than 3 tabs in future. This could cause more time to develop and implement this interaction in the future. 
