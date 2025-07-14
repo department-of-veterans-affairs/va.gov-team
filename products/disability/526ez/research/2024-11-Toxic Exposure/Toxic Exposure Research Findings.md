@@ -17,8 +17,7 @@ Lauren Dawson, [lauren.dawson@agile6.com](mailto:lauren.dawson@agile6.com), [lau
 - [Toxic Exposure Evaluative Research Share-Out.pdf](https://github.com/user-attachments/files/21223116/Toxic.Exposure.Evaluative.Research.Share-Out.pdf)
 
 **Presentation recording**  
-Recording, presented and recorded on 12/20/2024  
-([https://dvagov-my.sharepoint.com/:v:/r/personal/maya\_carroll\_va\_gov1/Documents/Recordings/Toxic%20Exposure%20Evaluative%20Research%20Share%20Out%201-20241220\_174857-Meeting%20Recording.mp4?csf=1\&web=1\&e=RjnwJi\&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://dvagov-my.sharepoint.com/:v:/r/personal/maya_carroll_va_gov1/Documents/Recordings/Toxic%20Exposure%20Evaluative%20Research%20Share%20Out%201-20241220_174857-Meeting%20Recording.mp4?csf=1&web=1&e=RjnwJi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D))
+[Recording, presented and recorded on 12/20/2024](https://dvagov-my.sharepoint.com/:v:/r/personal/maya\_carroll\_va\_gov1/Documents/Recordings/Toxic%20Exposure%20Evaluative%20Research%20Share%20Out%201-20241220\_174857-Meeting%20Recording.mp4)  
 
 *********
 
