@@ -33,6 +33,7 @@ If you have questions, don't hesitate to reach out to your OCTO practice lead, [
     - [ ] [Collaboration cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/)
     - [ ] [Support](https://depo-platform-documentation.scrollhelp.site/support/)
 - [ ] [Familiarize yourself with the VA Design System](https://design.va.gov/)
+- [ ] [Take a look at the VA GitHub Handbook](https://department-of-veterans-affairs.github.io/github-handbook/)  ‼️Note that as of July 2025, [VA has begun the process of migrating VA GitHub resorces to GitHub Enterprise Cloud](https://department-of-veterans-affairs.github.io/github-handbook/migrations)
 - [ ] [Check out some helpful info about creating documents in GitHub](https://docs.github.com/en)
 
 ## Part 2: After you have access to VA network and have VA email address: 🐣
