@@ -1,5 +1,5 @@
 # Work tools
-Our team uses government-furnished equipment (GFE).
+The Content and IA team uses government-furnished equipment (GFE).
 
 ## Documentation and tickets
 - **GitHub:** Project board, finalized or operational documentation
