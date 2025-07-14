@@ -56,7 +56,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 **_Delivery + Notes:_**
 - [ ] All goals have been updated in the sprint chart
 - [ ] Any Additional details about goals **not** completed will be documented here
-  - For goal - ENG: Address upstream server VBA job submission errors. This was completed on the 10th, but in addition to the goal's scope the BE ENG team created an additional task to enhance the submission error issues ensuring a higher quality of the original solution than originally required. This can be seen in ticket: Implement 5655 Submission Job Spike Solution
+  - For goal - ENG: Address upstream server VBA job submission errors. This was completed on the 10th, but in addition to the goal's scope the BE ENG team created an additional task to enhance the submission error correction ensuring a higher quality of the initial solution. This can be seen in ticket: Implement 5655 Submission Job Spike Solution
 #113523
 
 
