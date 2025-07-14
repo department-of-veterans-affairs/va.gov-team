@@ -52,7 +52,7 @@ body:
     id: pm-gh
     attributes:
       label: Team Product Manager GitHub handle
-      description: inlcude the "@" symbol 
+      description: include the "@" symbol 
       placeholder: eg. @rsmith
     validations:
       required: true
@@ -60,7 +60,7 @@ body:
     id: va-po-gh
     attributes:
       label: VA Product Owner GitHub handle
-      description: inlcude the "@" symbol 
+      description: include the "@" symbol 
       placeholder: eg. @rsmith
     validations:
       required: true
