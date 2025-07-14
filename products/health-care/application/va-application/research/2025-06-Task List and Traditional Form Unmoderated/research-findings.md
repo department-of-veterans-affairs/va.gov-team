@@ -87,7 +87,7 @@ Participants were shown limited-functionality Figma prototypes and asked to perf
 
 ## Key Findings
 
-**1. Slight preference for the Task List pattern over the traditional form flow.**
+**1. Slight preference for the task list pattern over the traditional form flow was reported by participants.**
 
 **2.Navigation preferences were mixed between the Task List and traditional form flow patterns.** 
 
@@ -99,9 +99,9 @@ Participants were shown limited-functionality Figma prototypes and asked to perf
 
 ## Details of Findings 
 
-**Finding 1: Slight preference for the Task List pattern over the traditional form flow was reported by participants.**  
+**Finding 1: Slight preference for the task list pattern over the traditional form flow was reported by participants.**  
 
-- 19 out of 43 participants (44.1%) preferred the task list (Orange) prototype, while 17 (39.5%) preferred the traditional (Green) flow; 7 (16.3%) had no preference.
+- 19 out of 43 participants (44.1%) preferred the task list (Orange) prototype, while 17 out of 43 (39.5%) preferred the traditional (Green) flow; 7 (16.3%) had no preference.
 - Participants liked the clear sections, information, and status labels in the task list.
 	-_“I liked that the categories were broken down into the 6 sections. It made it easier to know if you successfully completed the individual sections.”_
 	- _“Navigation was fairly easy and clearly labeled.”_
