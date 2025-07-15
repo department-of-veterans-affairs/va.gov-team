@@ -43,6 +43,9 @@
 - Gather Questions: Each team is asked these question and answers one, gathered on a list:
   - Whats the current problem you are working on
   - Whats a recent success?
+  - Pull Request Review of something interesting
 - Pick as many problem/success and talk through it, in order
   - Polling?  
   - Ranked choice?
+    
+
