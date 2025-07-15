@@ -17,6 +17,13 @@ We have focused on 3 main features or work streams within ARP:
 
 Because there were many external dependencies that influenced which feature(s) might be released first, we designed each of these features separately, knowing that eventually they would live together within ARP, along with other features like claims management. 
 
+## Background information
+- October 2024 Product Brief
+- SEP Migration Epic from VBA/BIOS
+- draft Accredited Representative Portal product explainer video
+- Accredited Representative Portal:  Pilot Instructions
+- Accredited Representative Portal:  Setting up your account for the pilot
+
 ## Where to find our work
 
 - [#benefits-representative-facing](https://dsva.slack.com/archives/C05SUUM4GAW) OCTO Slack channel
