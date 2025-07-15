@@ -43,23 +43,17 @@ Finding #3: Multiple teams expressed interest in an alternate VA-supported solut
 
 ### Recommendations for Expansion 
 
-1.  Develop a Separate Design System for Non-Veteran-Facing Users 
-Establish a Dedicated Framework: Create a design system tailored specifically for non-veteran-facing applications like the Accredited Representative Portal. This system should focus on business-oriented goals, accommodating the unique needs of VSO power users. 
+1.  Develop a Separate Design System for Non-Veteran-Facing Users: Create a design system tailored specifically for non-veteran-facing applications like the Accredited Representative Portal. This system should focus on business-oriented goals, accommodating the unique needs of VSO power users. 
 
-2.  Prioritize User-Centric Design 
-Focus on Usability and Workflow: Engage VSO power users in the design process to identify key usability challenges. Incorporate their feedback to create interfaces that facilitate efficient handling of dense data related to veteran claims. 
+2.  Prioritize User-Centric Design: Engage VSO power users in the design process to identify key usability challenges. Incorporate their feedback to create interfaces that facilitate efficient handling of dense data related to veteran claims. 
 
-3.  Strengthen Stakeholder Engagement 
-Foster Collaboration Across Teams: Involve all relevant stakeholders—including management, design, development, and VSO representatives—in the design and implementation process to ensure buy-in and support for the new system. 
+3.  Strengthen Stakeholder Engagement: Involve all relevant stakeholders—including management, design, development, and VSO representatives—in the design and implementation process to ensure buy-in and support for the new system. 
 
-4.  Address Resource Constraints 
-Assess Resource Allocation: Conduct a thorough assessment of current resources and identify gaps in personnel or budget that may hinder the development of the new design system. Advocate for additional funding and personnel as needed. 
+4.  Address Resource Constraints: Conduct a thorough assessment of current resources and identify gaps in personnel or budget that may hinder the development of the new design system. Advocate for additional funding and personnel as needed. 
 
-5.  Create a Feedback Loop for Continuous Improvement
-Implement Iterative Testing: Establish mechanisms for ongoing user feedback and testing throughout the development process. This will allow for continuous refinement of the design system based on real user experiences. 
+5.  Create a Feedback Loop for Continuous Improvement: Establish mechanisms for ongoing user feedback and testing throughout the development process. This will allow for continuous refinement of the design system based on real user experiences. 
 
-6.  Advocate for a Branch of the VA Design System 
-Develop a New Branch for Non-Veteran-Facing Solutions: As the VA expands its digital capabilities, advocate for a formal branch within the VA Design System dedicated to supporting non-veteran-facing users, ensuring that their specific needs are met effectively. 
+6.  Advocate for a Branch of the VA Design System: As the VA expands its digital capabilities, advocate for a formal branch within the VA Design System dedicated to supporting non-veteran-facing users, ensuring that their specific needs are met effectively. 
 
 ### Conclusion 
 
