@@ -226,17 +226,17 @@ This change introduces a new focus style for tabs, diverging from other componen
 - **Date Raised:** 2025-07-02  
 - **Decision Date:** 2025-07-14  
 
-### Context
+## Context
 
-After tabs went through an accessibility review, concerns were raised about the overflow behavior of the tabs where a `more` button would be used. It was decided that we needed to do some research into the current use cases of tabs. We created a [Tabs discussion thread](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/discussions/4443) and teams shared how they are using tabs. 
+Following an accessibility review of the tabs component, concerns were raised about the overflow behavior—specifically the use of a `more` button to handle excess tabs. You can read more in the [accessibility review](https://vfs.atlassian.net/wiki/spaces/DST/pages/4194730001/Accessibility+Review+-+New+Tabs+Design).  
 
-You can read more about the findings in this [Tabs audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/va-tabs/tabs-audit.md)
+In response, we initiated a [tabs discussion thread](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/discussions/4443), where teams shared their current use cases. Findings from this effort are documented in the [tabs audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/va-tabs/tabs-audit.md).
 
-### Decision
+## Decision
 
-After seeing that there are no use cases having three or more tabs, we have decided to limit the scope of tabs and not implement a tabs design that uses the `more` button. The v1 of tabs will limit the tabs to 3 or less tabs to prevent excessive tab overflowing designs. 
+Based on the audit, there are currently no strong use cases requiring more than three tabs. Therefore, we will limit the initial implementation of the `va-tabs` component to **three or fewer tabs**. We will **not implement** a tab overflow solution (e.g., a `more` dropdown) in version 1.
 
-We still need to implement a solution of overflowing tabs for accessiblity and 400% zoom levels even when tabs are limited to 3 or less. 
+However, we will still address accessibility and usability concerns for limited tabs at 400% zoom or in constrained viewports.
 
 ### Consequences
 
