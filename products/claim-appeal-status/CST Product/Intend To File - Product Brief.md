@@ -98,6 +98,8 @@ This solution directly addresses value and usability risks by making ITF status 
 ## Techinal information
 
 - [ITF API documentation](https://developer.va.gov/explore/api/benefits-claims/docs?version=current)
+- The ITF endpoint is a lighthouse endpoint reading information from VBMS
+- Currently there isn't a readily available endpoint to call to establish an ITF with a claim. In the ITF endpoint you can only get information about the ITF but does not have a field to associate it to a claim once a claim is established
 
 ## Go-to-Market
 
