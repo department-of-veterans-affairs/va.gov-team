@@ -21,7 +21,7 @@ Because there were many external dependencies that influenced which feature(s) m
 -  October 2024 Product Brief
 - SEP Migration Epic from VBA/BIOS
 -  [draft Accredited Representative Portal product explainer video](https://github.com/department-of-veterans-affairs/va.gov-team/raw/refs/heads/master/products/accredited-representative-facing/product-info/NACVSO%20Product%20research%20Video%20-%20Predecisional.mp4)
-- Accredited Representative Portal:  Pilot Instructions
+- [Accredited Representative Portal:  Pilot Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/ARP%20Pilot%20Instructions%20-%2006-2025.pdf)
 - Accredited Representative Portal:  Setting up your account for the pilot
 
 ## Where to find our work
