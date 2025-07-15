@@ -78,9 +78,8 @@ This report summarizes input from various teams in response to a [GitHub discuss
 - Tab overflows are generally handled with **stacked layouts** on smaller screens.
 - Mixing tabs with other navigation elements (e.g., tertiary buttons, side navigation) introduces complexity in layout and user experience.
 - Teams are weighing the pros and cons of **URL-based navigation** versus **in-page tab updates**.
-- There may be opportunities to **replace tabs with segmented buttons**, especially in the following tools:
+- There may be opportunities to **replace tabs with segmented buttons**, in the following tools:
   - [Appointments](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/discussions/4443#discussioncomment-13655539)
-  - [Claim Status](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/discussions/4443#discussioncomment-13700641)
   - **Secure Messaging** might also benefit, but follow-up is needed with that team for feedback.
 
 ---
