@@ -84,7 +84,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Complete the product information section for each of your team’s products. If you have more products to add, copy/paste to add more sections.
+        Complete the product information section for each of your team’s products. If you have more products to add, you will need to submit this ticket and then edit to copy/paste the product section.
   - type: markdown
     attributes:
       value: "### Product 1"
