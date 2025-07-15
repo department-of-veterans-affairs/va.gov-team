@@ -16,12 +16,14 @@
 - [#94500](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94500) - [QA] Follow-up to complete testing on L&L pattern
 
 #### Obj: EZ [Improvements/BUGS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
+- [#113620](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113620) - [BE] Ignore params passed in GET request (CARRIED)
 - [#114233](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114233) - [BE] Update engineering documentation to reflect BEP in place of BGS
 - [#114303](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114303) - [Eng] Engineering documentation updates
 - [#114313](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114313) - [UX] Design/Research documentation updates
+- 
 
 #### Obj: EZ [Form Statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95313)
-- [#105833](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105833) - [Eng] Discovery on how we can confidently refer "pending" Veterans to EZR  (CARRIED)
+- [#105833](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105833) - [Eng] Discovery on how we can confidently refer "pending" Veterans to EZR (CARRIED)
 
 ## 
 ### 10-10CG
