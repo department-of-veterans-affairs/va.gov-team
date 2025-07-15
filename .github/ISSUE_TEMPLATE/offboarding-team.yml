@@ -68,7 +68,7 @@ body:
     id: team-readme-link
     attributes:
       label: Link to your team's readme or similar document
-      description: Review [team readme template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/README.md)
+      description: Review [team readme template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/team-readme-template.md)
     validations:
       required: true
   - type: checkboxes
