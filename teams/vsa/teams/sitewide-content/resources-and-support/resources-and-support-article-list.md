@@ -160,3 +160,8 @@
 | 158 | [The Program of General Caregiver Support Services](https://www.va.gov/resources/the-program-of-general-caregiver-support-services/) | Family and caregiver benefits | 5/28/25 |
 | 159 | [How should I prepare for a video health appointment?](https://www.va.gov/resources/how-should-i-prepare-for-a-video-health-appointment/) | Health care | 6/9/25 |
 | 160 | [How to report a complaint or concern about a community provider](https://www.va.gov/resources/how-to-report-a-complaint-or-concern-about-a-community-provider/) | Health care | 6/24/25 |
+| 161 | [Your VA primary care provider and PACT team](https://www.va.gov/resources/your-va-primary-care-provider-and-PACT-team/) | Health care | 7/14/25 |
+| 162 | [Where you’ll go for care](https://www.va.gov/resources/where-youll-go-for-care/) | Health care | 7/14/25 |
+| 163 | [Your health care costs](https://www.va.gov/resources/your-health-care-costs/) | Health care | 7/14/25 |
+| 164 | [VA health care and other insurance](https://www.va.gov/resources/va-health-care-and-other-insurance/) | Health care | 7/14/25 |
+| 165 | [The Affordable Care Act (ACA) and your VA health care coverage](https://www.va.gov/resources/the-affordable-care-act-aca-and-your-va-health-care-coverage/) | Health care | 7/14/25 |
