@@ -41,12 +41,13 @@ Monitors for each product are described within product folders. e.g.
 | [FAQ Page](#faq-page) | [PACT Act Wizard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/pact-act-wizard) | [“How to apply” wizards](#how-to-apply--benefit-wizards)  |
 | [Find a form / VA Forms (+ Forms DB import)](#find-a-form--va-forms) | [On-site search (using search.gov)](#on-site-search-using-searchgov) | [React widgets use within CMS](#react-widgets-use-within-cms) |
 | [Full-width Alert](#full-width-alert) | [Translation React widgets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/README.md#translation-react-widgets)  | [BTSSS react widget](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/travel-reimbursement-btsss) |
-| [VA.gov Homepage](#vagov-homepage) | . | [Promo Banner](#promo-banner) | 
+| [VA.gov Homepage](#vagov-homepage) | [Sitewide Widgets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/sitewide-widgets.md) | [Promo Banner](#promo-banner) | 
 | [Outreach Materials Library (Publication listing & page)](#outreach-materials-library-publication-listing-page--publications) | . | . |
 | [Resources & Support](#resources-and-support) |  . | . |
 | [Reusable Q&A](#reusable-qa) | . | .  |
 | [Support Services](#resources-and-support) | . | .  |
 | [VA Benefits taxonomy](#va-benefits-taxonomy) | | 
+
 
 The Public Websites team also supports most of the portfolio of the previous Decision Tools and Search & Discovery Team products, which may include products not listed here that we are not yet aware of. 
 
