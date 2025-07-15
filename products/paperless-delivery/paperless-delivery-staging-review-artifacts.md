@@ -4,11 +4,13 @@
 - TBD
 
 ### Test Users & scenarioes
--  LOA3 user who has a 1095-B form - vets.gov.user+54@gmail.com | 242SsNrLgPv5
--  LOA3 user who does not have a 1095-B form - vets.gov.user+7@gmail.com | 177SsNrLgPv5
--  LOA3 user who has a corrected 1095-B form - vets.gov.user+67@gmail.com | 339SsNrLgPv5
--  LOA1 user who should be prompted to verify their account - Signup and create an account in Staging via id.me and it will be LOA1. For example you could do vagovtest+myloa1@gmail.com (you would need to control vagovtest@gmail.com to retrieve MFA code) but in general it just needs an email so you can go through idme.
--  Not signed in user who should be prompted to sign in with their verified account - no test user needed
+- LOA1 user who should be prompted to verify their account - Signup and create an account in Staging via id.me and it will be LOA1. For example you could do vagovtest+myloa1@gmail.com (you would need to control vagovtest@gmail.com to retrieve MFA code) but in general it just needs an email so you can go through idme.
+- Not signed in user who should be prompted to sign in with their verified account - no test user needed
+- LOA3 user who is enrolled in healthcare 
+- LOA3 user who is not enrolled in healthcare
+- LOA3 user who doesn’t have a contact email on file
+- LOA3 user who has opted-in to paperless delivery
+- LOA3 user who has not opted-in to paperless delivery
 
 ### CAIA intake ticket
 - TBD
