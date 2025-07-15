@@ -169,8 +169,9 @@ Green:
 
 *Summarize actionable recommendations based on findings.*  
 
-1. **Recommendation:** [Refine Prototype and Moderated Study with Task List]  
-   - Post-study survey results and questions around task list functionality: [Insert data]
+1. **Recommendation:** [Refine the task list prototype and conduct a moderated research study]  
+   - Post-study survey results and questions around task list functionality: The quantitative scale ratings were very close (19 vs 17 preferring the task list). Qualitative feedback was also mixed and some notes of personal preference. 
+   - Figma prototype limitations: The prototype used was designed to use for testing navigation and movement around the form. Refining the funcitionality of the task list component and statuses while running a moderated study would allow for further inquiry and questioning around the Veterans' mental model of the task list.
 
 2. **Recommendation:** [Test More Use Cases]  
    - A future study that further evaluates how the task list pattern works for specific use cases (like short form flow for Veterans with a disability rating over 50%) or conditional logic type of questions.
