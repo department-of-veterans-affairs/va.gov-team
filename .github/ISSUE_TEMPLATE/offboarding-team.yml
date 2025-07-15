@@ -14,7 +14,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Product managers should complete this ticket when a VFS team is offboarding, after all team and product information has been updated per the team offboarding guidance and [individual offboarding tickets](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=offboarding-request.md) have been created. 
+        Ensure you’ve created [individual offboarding tickets](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=offboarding-request.md) for each exiting team member and all team and product information has been updated per the team offboarding guidance; once both are complete, submit this team offboarding ticket.
   - type: markdown
     attributes:
       value: "## Step 1: Before you submit this ticket"
@@ -24,7 +24,7 @@ body:
       label: Complete these steps before you complete this ticket.
       description: Review team offboarding guidance and [individual offboarding ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=offboarding-request.md)
       options:
-        - label: I have updated all my team (including team's readme) and product (including product outline) information and provided access per the team offboarding guidance.
+        - label: I have updated all team-related documentation, including the team's README, and product materials, such as the product outline. Access has been granted in accordance with the team's offboarding guidelines.
           required: true
         - label: I have submitted individual offboarding tickets for each team member.
           required: true
