@@ -18,11 +18,11 @@ We have focused on 3 main features or work streams within ARP:
 Because there were many external dependencies that influenced which feature(s) might be released first, we designed each of these features separately, knowing that eventually they would live together within ARP, along with other features like claims management. 
 
 ## Background information
--  October 2024 Product Brief
-- SEP Migration Epic from VBA/BIOS
+-  [October 2024 Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/Brief%20-%20Accredited%20Representative%20Product%20Opportunity%20Space%20August%202024%20(1).pdf)
+- [SEP Migration Epic from VBA/BIOS](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/OBA-BS_FY25_Stakeholder%20Enterprise%20Platform%20(SEP)%20Functionality%20Migration_FINAL_07262024.pdf)
 -  [draft Accredited Representative Portal product explainer video](https://github.com/department-of-veterans-affairs/va.gov-team/raw/refs/heads/master/products/accredited-representative-facing/product-info/NACVSO%20Product%20research%20Video%20-%20Predecisional.mp4)
 - [Accredited Representative Portal:  Pilot Instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/ARP%20Pilot%20Instructions%20-%2006-2025.pdf)
-- Accredited Representative Portal:  Setting up your account for the pilot
+- [Accredited Representative Portal:  Setting up your account for the pilot](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/ARP%20Pilot%20Instructions%20-%20Setting%20up%20your%20account%20-%2006-2025.pdf)
 
 ## Where to find our work
 
