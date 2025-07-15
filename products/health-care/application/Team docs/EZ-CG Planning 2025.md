@@ -15,9 +15,6 @@
 - [#94500](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94500) - [QA] Follow-up to complete testing on L&L pattern
 - 
 
-#### Obj: EZ [Multi-form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103260)
-- [#111103](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111103) - [BE] Tech exploration of BDS API
-
 #### Obj: EZ [Improvements/BUGS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
 - [#114233](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114233) - [BE] Update engineering documentation to reflect BEP in place of BGS
 
