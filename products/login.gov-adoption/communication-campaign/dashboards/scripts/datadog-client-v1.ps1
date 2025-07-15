@@ -7,16 +7,27 @@ $outputPath = $args[0]
 $period = $args[1]
 $periodsBack = $args[2]
 
+$baseFolder = $env:DOMO_WB_BASEPATH
+"base: $baseFolder"
 
-$apiKey = "UPDATE"
-$applicationKey = "UPDATE"
+# get information for log file name
+$datetime   = Get-Date -F 'yyyyMMddHHmmss'
 
+# expecting current process will always be pwsh.exe
+$currentProcessId = $PID
+$currentProcess = Get-WmiObject Win32_Process -Filter "ProcessId = $currentProcessId"
 
-#SHORT CIRCUIT - for Domo Workbench to upload a manually updated latest file
-#Exit 0
+# expecting parent process to be domo when running job
+$parentProcess = Get-WmiObject Win32_Process -Filter "ProcessId = $($currentProcess.ParentProcessId)"
+$parentProcess =  $parentProcess.Name.Substring(0, $parentProcess.Name.IndexOf('.'))
+if ($parentProcess -eq "WindowsTerminal") {
+    $parentProcess = "shell"
+}
+"Parent Process: $($parentProcess)"
 
-#TEST
-#$outputPath = "C:\Users\vacodickss\ETL\1 extracted\VA.gov Data\Mobile Users" 
+$scriptName = $MyInvocation.MyCommand.Name.Replace(".ps1", "")
+
+Start-Transcript -Path "$baseFolder\logs\$scriptName-$parentProcess-$datetime.log" -UseMinimalHeader
 
 
 Write-Host "$period $periodsBack"
@@ -31,6 +42,7 @@ if ($period -eq "week") {
     $toDay = $toMonth.AddDays(0 - $toMonth.Day + 1)
 } else {
     Write-Host "time period not supported " $period
+    Stop-Transcript 
     Exit 1
 }
 
@@ -39,6 +51,7 @@ if ($period -eq "week") {
 #$fromDay = (get-date)
 #$toDay = (get-date)
 
+$from = $fromDay.ToString("yyyy-MM-ddT00:00-00:00")
 $from = $fromDay.ToString("yyyy-MM-ddT00:00-00:00")
 $fromShort = $fromDay.ToString("yyyyMMdd")
 $fromSlashes = $fromDay.ToString("MM/dd/yyyy")
@@ -52,15 +65,63 @@ $toSlashes = $toDay.ToString("MM/dd/yyyy")
 
 Write-Host "$from $to"
 
-
-
 $fileName = "mobileUsers-$($period)-$($fromShort)-$($toShort)"
 $fileNameLatest = "mobileUsers-$($period)"
+$outfile = "$($outputPath)\$($fileName).csv"
+$outfileLatest = "$($outputPath)\$($fileNameLatest)-latest.csv"
+$logFile = "$($outputPath)\$($fileNameLatest)-log.txt"
+
+
+# Important failsafe for running job from Workbench, if files already exist, exit zero, 
+# otherwise let user know to run from command line first
+# check that files exist and are of same size (non zero)
+if ((Test-Path $outfile) -and (Test-Path $outfileLatest)) {
+  $file1 = Get-Item $outfile
+  $file1Size = $file1.Length
+  $file2 = Get-Item $outfileLatest
+  $file2Size = $file2.Length
+  "file $fileName is $file1Size, file $($fileNameLatest)-latest is $file2Size"
+  if ($file1Size -gt 0 -and $file2Size -gt 0 -and $file1Size -eq $file2Size) {
+    if ($parentProcess -eq "Workbench") {
+      # SHORT CIRCUIT - for Domo Workbench to upload a manually updated latest file
+      Write-Host "Run from Workbench detected, files already exist and non zero sizes match, exiting to allow job to continue" -ForegroundColor Green
+      Stop-Transcript 
+      Exit 0
+    }
+    else {
+      Write-Host "Files ($fileName, $fileNameLatest) already exist, did you mean to re-run this script?" -ForegroundColor Red
+      Stop-Transcript 
+      Exit 1
+    }
+  }
+  else {
+    if ($parentProcess -eq "Workbench") {
+      # SHORT CIRCUIT - for Domo Workbench to upload a manually updated latest file
+      Write-Host "Files exist but are not same size, it takes too long to run this script as a job, please run it via command line first" -ForegroundColor Red
+      Stop-Transcript 
+      Exit 1
+    }
+    else {
+      Write-Host "File sizes dont match, ok running script via command line" -ForegroundColor Green
+    }
+  }
+}
+if ($parentProcess -eq "Workbench") {
+       Write-Host "One or both files dont yet exist, it takes too long to run this script as a job, please run it via command line first" -ForegroundColor Red
+      Stop-Transcript 
+      Exit 1
+}
+
+"Shell executing to fetch from datadog"
+"API key is $env:DATADOG_API_KEY"
+
+#"short curcuit"
+#Stop-Transcript 
+#exit 1
+
 $query = "service:vets-api AND @message_content:*SignInController*callback" 
 #$from = "2024-12-16T00:00:00-00:00"
 #$to =   "2024-12-18T00:00:00-00:00"
-
-#Write-Host $fileName
 
 
 $limit = 1000
@@ -77,9 +138,6 @@ $globals = @{
 #$now = Get-Date
 #$todayDashes = (Get-Date).ToString("MM-dd-yyyy")
 
-$outfile = "$($outputPath)\$($fileName).csv"
-$outfileLatest = "$($outputPath)\$($fileNameLatest)-latest.csv"
-$logFile = "$($outputPath)\$($fileNameLatest)-log.txt"
 
 
 function Process-Response {
@@ -123,6 +181,8 @@ function Process-Response {
 }
 
 
+#Read more: https://www.sharepointdiary.com/2021/02/powershell-function-parameters.html#ixzz8PdxpfzOx
+
 
 
 
@@ -144,8 +204,8 @@ Write-Host "Output Target: $($outfile)"
 
 $uri = "https://api.ddog-gov.com/api/v2/logs/events/search"
 $headers = @{
-    "DD-API-KEY" = $apiKey
-    "DD-APPLICATION-KEY" = $applicationKey
+    "DD-API-KEY" = $env:DATADOG_API_KEY
+    "DD-APPLICATION-KEY" = $env:DATADOG_APP_KEY
 }
 
 #&cols=%40icn%2C%40payload.typestorage="flex_tier
@@ -190,6 +250,7 @@ try {
 catch {
     Write-Warning $Error[0]
     $Error[0] >> $logFile
+    Stop-Transcript 
     Exit 1
 }
 
@@ -230,6 +291,8 @@ while ($cursor) {
     catch {
         Write-Host "DataDog did not return resultset..." -ForegroundColor DarkYellow
         Write-Warning $Error[0]
+        # assume the exception have more detail than $Error[0]
+        "caught error $($_.Exception.Message) $($_.Exception.Response.StatusCode) $($_.Exception)"
         $Error[0] >> $logFile
 
         # Note the $response object doesn't get updated apparently due to the error, so can't count on this, but we can use the last value of reset
@@ -256,7 +319,8 @@ while ($cursor) {
             Start-Sleep -Seconds $sleep
             Continue
         } else {
-            Write-Host "Unknown error. Exiting"
+            Write-Host "Unknown error. Exiting. Message: $err"
+            Stop-Transcript 
             Exit 1
         }
     }
@@ -300,6 +364,7 @@ $icns.Values | Select-Object @{Name='fromDate';Expression={$fromSlashes}},@{Name
 #$icns.Values | Export-Csv -Path $outfile
 Copy-Item $outfile -Destination $outfileLatest
 
+Stop-Transcript 
 Exit 0
 
 

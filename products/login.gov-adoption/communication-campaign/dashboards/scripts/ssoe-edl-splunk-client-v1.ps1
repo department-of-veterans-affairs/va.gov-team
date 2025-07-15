@@ -1,11 +1,32 @@
 ﻿# pwsh C:\Users\vacodickss\ETL\scripts\ssoe-edl-splunk-client-v1.ps1 "C:\Users\vacodickss\ETL\1 extracted\IAM SSOe Data\TEST" List_of_Distinct_Users_by_CSP_Monthly_secid pwd
 
+$baseFolder = $env:DOMO_WB_BASEPATH
+
+# get information for log file name
+$datetime   = Get-Date -F 'yyyyMMdd-HH-mm-ss'
+
+# expexcting current process will always be pwsh.exe
+$currentProcessId = $PID
+$currentProcess = Get-WmiObject Win32_Process -Filter "ProcessId = $currentProcessId"
+
+# expecting parent process to be domo when running job
+$parentProcess = Get-WmiObject Win32_Process -Filter "ProcessId = $($currentProcess.ParentProcessId)"
+$parentProcessName =  $parentProcess.Name.Substring(0, $parentProcess.Name.IndexOf('.'))
+if ($parentProcessName -eq "WindowsTerminal") {
+    $parentProcessName = "shell"
+}
+"Parent Process: $($parentProcessName)"
+
+$scriptName = $MyInvocation.MyCommand.Name.Replace(".ps1", "")
+
+$transLogFile = "$baseFolder\logs\$scriptName-$parentProcessName-$datetime.log"
+"tail this log using:  Get-Content -Path $transLogFile -Wait -Tail 10"
+Start-Transcript -Path "$transLogFile"
 
 $outputPath = $args[0]
 $queryName = $args[1]
-$passwordPlainText = $args[2]
+# no longer using password argument, see README.md for configuring profile environment variables
 
-$username = "iam-api-3"
 
 #SHORT CIRCUIT - for Domo Workbench to upload a manually updated latest file
 #Exit 0
@@ -21,12 +42,17 @@ $logFile = "$($outputPath)\$($queryName)-log.txt"
 
 
 if (Test-Path $outfileLatest) {
+  "removing latest file"
   Remove-Item $outfileLatest
 }
 
 Write-Host "Calling SSOe query: $queryName.  Up til now: $now Today: $todaySlashes"  -ForegroundColor Green
 Write-Host "Output Target: $($outfileLatest)"
 
+if (!(Test-Path $outputPath)) {
+  "output directory does not exist"
+#   New-Item -Path $logFile -ItemType File
+}
 "Output Target: $($outfileLatest)" >> $logFile
 
 $uriHistory = "https://project-splunk-1-west-shc-nlb-2a90998e3472318c.elb.us-gov-west-1.amazonaws.com:8089/servicesNS/iam-api-3/iam_car/saved/searches/$($queryName)/history"
@@ -39,22 +65,26 @@ $uriHistory = "https://project-splunk-1-west-shc-nlb-2a90998e3472318c.elb.us-gov
  
 
 
-
-$pwdSecureString = ConvertTo-SecureString $passwordPlainText -AsPlainText -Force
+"using splunk key $env:SPLUNK_USERNAME"
+$pwdSecureString = ConvertTo-SecureString $env:SPLUNK_PW -AsPlainText -Force
 
 
 if (! $pwdSecureString) {
     "ERROR: ConvertTo-SecureString call failed" >> $logFile
+    "error occurred"
+    Stop-Transcript
     Exit 1
 }
 
 
 try {
-    $credential = New-Object System.Management.Automation.PSCredential($username, $pwdSecureString)
+    $credential = New-Object System.Management.Automation.PSCredential($env:SPLUNK_USERNAME, $pwdSecureString)
 }
 catch {
     Write-Warning $Error[0]
     $Error[0] >> $logFile
+    "error occurred"
+    Stop-Transcript
     Exit 1
 }
 
@@ -66,6 +96,8 @@ try {
 catch {
     Write-Warning $Error[0]
     $Error[0] >> $logFile
+    "error occurred"
+    Stop-Transcript
     Exit 1
 }
 
@@ -87,6 +119,8 @@ $responseXML.feed.entry | ? { [datetime]::parseexact($_.published.split("T")[0],
 if (! $uriResultsBase) {
     Write-Output $response.Content
     Write-Output "Results of Search Job with today's date not found."
+    "error occurred"
+    Stop-Transcript
     Exit 1
 }
 
@@ -128,6 +162,8 @@ while ($response.Content) {
     catch {
         Write-Warning $Error[0]
         $Error[0] >> $logFile
+        "error occurred"
+        Stop-Transcript
         Exit 1
     }
 
@@ -164,4 +200,6 @@ while ($response.Content) {
 
 Copy-Item $outfile -Destination $outfileLatest
 
+"success"
+Stop-Transcript
 Exit 0

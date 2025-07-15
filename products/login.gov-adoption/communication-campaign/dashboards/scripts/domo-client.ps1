@@ -1,8 +1,4 @@
-﻿# Args are hard-coded until they don't need to be
-# pwsh domo-client.ps1
-
-
-# example
+﻿# example
 # pwsh domo-client.ps1 "..\1 extracted\Domo Data\MHV Users with Modern Creds" "mhv-01272025" "68c58f8f-dc38-4634-a3de-41b70991821c"
 
 
@@ -10,24 +6,39 @@ $outputPath = $args[0]
 $fileName = $args[1]
 $datasetId = $args[2]
 
-$clientID = "UPDATE"
-$clientSecret = "UPDATE"
-
-
 $today = (Get-Date).ToString("MMddyyyy")
 
-#$fileName = "mhvdata-$($today)"
-#$outputPath = "..\1 extracted\Domo Data\MHV Users with Modern Creds" 
-#$datasetId = "28736674-a1e7-401d-b26b-ac1fd8e69056"  # test small dataset
-#$datasetId = "0bf90b88-93c7-4b9f-a64f-9324de4561df"
+if (-not $outputPath -or $outputPath -eq "") {
+    "no outputPath parmeter specified, using default"
+    $outputPath = "..\1 extracted\Domo Data\MHV Users with Modern Creds" 
+}
+"Output Path: $outputPath"
+if ($outputPath.StartsWith(".")) {
+    $outputPath = Resolve-Path "$(Get-Location)\$outputPath"
+    "fixed up relative outputPath is $outputPath"
+}
 
+if (-not $fileName -or $fileName -eq "") {
+    "no fileName parmeter specified, using default"
+    $fileName = "mhvdata-$($today)"
+}
+"FileName: $fileName"
+
+if (-not $datasetId -or $datasetId -eq "") {
+    "no datasetId parmeter specified, using default"
+    # The following guid represents dataset named "Users and Modern Creds (for export to CDW for MHV) v5"
+    $datasetId = "216d211d-d5b3-439a-8d25-b4ddad182b7e"
+}
+"Dataset Id: $datasetId"
 
 
 $outfile = "$($outputPath)\$($fileName).csv"
 $logFile = "$($outputPath)\$($fileName)-log.txt"
 
 
-$strToEncode = $clientID + ":" + $clientSecret
+"using DOMO Client ID: $($env:DOMO_CLIENT_ID)"
+
+$strToEncode = $env:DOMO_CLIENT_ID + ":" + $env:DOMO_CLIENT_SECRET
 $bytes = [System.Text.Encoding]::UTF8.GetBytes($strToEncode)
 $base64authz = [Convert]::ToBase64String($bytes)
 
