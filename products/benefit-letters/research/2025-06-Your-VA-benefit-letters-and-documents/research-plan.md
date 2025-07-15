@@ -119,7 +119,7 @@ Our intended audience are Veterans. We will partner with Perigean to recruit Vet
 > [!NOTE]
 > Your total number should equal **1.5x** your ideal completed sessions number *(e.g. for 10 ideal completed sessions, request 15 total participants)*
 
-- `Veterans:` **12**
+- `Veterans:` **18**
 - `Caregivers:` **0**
 - `Dependents:` **0**
 - `Total:` **18**
@@ -129,9 +129,9 @@ Our intended audience are Veterans. We will partner with Perigean to recruit Vet
 *What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
 
 - 10 are AT users
-  - 3 must use a screen reader every time they access the internet
-  - At least one uses a screen magnifier every time they access the internet
-  - At least one uses one of the following voice command/speech recognition apps every time they access the internet
+  - 5 must use a screen reader every time they access the internet
+  - At least 3 use a screen magnifier every time they access the internet
+  - At least 2 use one of the following voice command/speech recognition apps every time they access the internet
     - Dragon NaturallySpeaking
     - Talon
     - Voice Control
@@ -142,8 +142,8 @@ Our intended audience are Veterans. We will partner with Perigean to recruit Vet
 	
 - 8 are non-AT users
   - At least 3 have a computer and are willing to use it for the session
-  - At least 2 have a smartphone and are willing to use it for the session
-  - At least 1 has a tablet and are willing to use it for the session
+  - At least 3 have a smartphone and are willing to use it for the session
+  - At least 2 have a tablet and are willing to use it for the session
 - ALL
   - Must be Veterans and have experience with VA.gov
   - Have received a Benefit Summary and Service Verification Letter
