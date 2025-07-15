@@ -47,3 +47,7 @@ This tool allows an attorney or claims agent to start the application process to
 ### How to Run Locally
 
 [Go here for information on running locally](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/accreditation/21a/README.md)
+
+## Claims agents, attorneys, representatives, and Veteran Service Organizations intake
+
+We will soon be transitioning to our new Accreditation API based intake for all of these records.  You can find the details for how that works [here](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/representation_management/app/sidekiq/representation_management/README.md).
