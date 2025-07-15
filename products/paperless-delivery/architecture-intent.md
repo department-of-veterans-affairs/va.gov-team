@@ -39,7 +39,7 @@
     - Pattern: View Paperless Delivery settings
       - GET request is made to `/v0/profile/communication_preferences` to retrieve paperless delivery settings
     - Pattern: Modify Paperless Delivery settings
-      - PUT request is made to `/v0/profile/communication_preferences` when user selects or deselects the paperless delivery checkbox
+      - PATCH request is made to `/v0/profile/communication_preferences/{communication_permission_id}` when user selects or deselects the paperless delivery checkbox
 - External API changes
   - List new or modified APIs for upstream or external systems
     - None
