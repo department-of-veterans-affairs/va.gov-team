@@ -16,6 +16,9 @@ The chatbot is currently designed for unauthenticated users and is available on 
 **Veteran Familiarity & Adoption Challenges:**
 This is an iteration on the existing Ask VA/VA Chatbot. While familiarity may exist for some users, the shift to a more advanced, AI-driven experience could pose challenges—especially for less tech-savvy Veterans or those with accessibility needs. The research should investigate barriers related to trust, discoverability, and ease of use.
 
+**Proof of Concept Initial Phase:**
+This round of testing is very early in the process for the new VA Chatbot product. As such, there are limited ares of focus that the team has built the data around.  The use case the team was given is login / sign on so the usability testing will ask questions specifically around that topic.  In addition, due to limited time and resources, accomodations for accessibility usage is not up to the standards of the VA for these proof of concept models.  For the full, deployed version all of these accessibility considerations will be taken into account.
+
 `Product Brief`
 
 [Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/product/Chatbot%20PoC%20Initiative.md)
@@ -114,12 +117,18 @@ The goals are clear, actionable, and generally measurable (accuracy, readability
 
 **`7.`Are interactions quick and get the user to their intended destination in a timely manner?**
 
+**`8.`How does the chatbot impact Veterans’ perceptions of VA digital services?**
+
+**`9.`What prevents users from trying or returning to the chatbot?**
+
+**`10.`Are there differences in experience based on device type or internet access?**
+
 
 ### Hypotheses
 
 ---
 
-**By utilizing LLM and/or AI in the 3 proof of concept designs, we will be able to more accurately answer Veterans' questions and help them complete tasks on VA.gov by interacting with users and responding to feedback** 
+**By utilizing LLM and/or AI in the 3 proof of concept designs, we will be able to more accurately answer Veterans' questions and help them complete tasks on VA.gov by interacting with users and responding to feedback. Also, the answers will be clear, trustworty and channel agnostic.** 
 
 
   
@@ -141,13 +150,16 @@ The goals are clear, actionable, and generally measurable (accuracy, readability
 ## Research materials 📔
 
 **For moderated usability tests:** 
-- [Conversation Guide](https://github.com/department-of-veterans-affairs/va-virtual-agent/blob/master/research/ConversationGuide.md)
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/research/2025-07-Chatbot%20User%20Testing/ConversationGuide.md)
 - [POC 1](https://dev.va.gov/contact-us/virtual-agent/)
 - [POC 2](https://chatbot-test-1-fe.whitlock.app/component-2)*
 - [POC 3](https://chatbot-test-1-fe.whitlock.app/component-3)*
 
 *test user email must be added to a white list by team
 
+**Past User Research Data:**
+
+It is worth noting that there was a [ample research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research) for the virtual-agent product and the team includes developers from this product team. All of this user research and feedback has been applied to POC 1 in this testing.  POC 2 & POC 3, however, are using different backend data but using much similar user interface, thus reflecting that prior user feedback as well.
 
 	
 ## Recruitment 🎯	
