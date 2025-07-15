@@ -10,7 +10,7 @@ To understand the usability and accessibility needs of VSO power users interacti
 
 ### Objectives 
 
-*   Identify usability challenges faced by VSO power users in the current interfaces. 
+*   Identify accessibility standards for veteran-facing vs non-veteran-facing. 
 
 *   Gather feedback from VFS teams exploring non-veteran-facing solutions. 
 
