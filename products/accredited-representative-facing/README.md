@@ -18,9 +18,9 @@ We have focused on 3 main features or work streams within ARP:
 Because there were many external dependencies that influenced which feature(s) might be released first, we designed each of these features separately, knowing that eventually they would live together within ARP, along with other features like claims management. 
 
 ## Background information
-- October 2024 Product Brief
+-  October 2024 Product Brief
 - SEP Migration Epic from VBA/BIOS
-- draft Accredited Representative Portal product explainer video
+-  [draft Accredited Representative Portal product explainer video (https://github.com/department-of-veterans-affairs/va.gov-team/raw/refs/heads/master/products/accredited-representative-facing/product-info/NACVSO%20Product%20research%20Video%20-%20Predecisional.mp4)
 - Accredited Representative Portal:  Pilot Instructions
 - Accredited Representative Portal:  Setting up your account for the pilot
 
