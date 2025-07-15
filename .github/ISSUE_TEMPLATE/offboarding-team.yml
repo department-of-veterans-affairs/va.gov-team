@@ -117,7 +117,7 @@ body:
     id: product-1-atlas
     attributes:
       label: Link to product in ATLAS
-      description: [ATLAS link](https://www.va.gov/atlas/)
+      description: Go to [ATLAS](https://www.va.gov/atlas/)
     validations:
       required: true
   - type: input
@@ -168,7 +168,7 @@ body:
     id: product-2-atlas
     attributes:
       label: Link to product in ATLAS
-      description: [ATLAS link](https://www.va.gov/atlas/)
+      description: Go to [ATLAS](https://www.va.gov/atlas/)
     validations:
       required: false
   - type: input
@@ -219,7 +219,7 @@ body:
     id: product-3-atlas
     attributes:
       label: Link to product in ATLAS
-      description: [ATLAS link](https://www.va.gov/atlas/)
+      description: Go to [ATLAS](https://www.va.gov/atlas/)
     validations:
       required: false
   - type: input
