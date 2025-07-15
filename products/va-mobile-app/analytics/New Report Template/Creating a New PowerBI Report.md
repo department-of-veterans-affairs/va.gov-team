@@ -12,7 +12,7 @@ To start, you will need access to the following tools/services:
 2. Power BI Service (https://app.PowerBIgov.us/home)
 3. Google Analytics
 
-We will walk through several steps to create the report
+We will walk through several steps to create the report:
 1. Verifying the event displays and fires as you expect in GA
 2. Create a report within Power BI Desktop and set up the GA Connector
 3. Create a query using the GA Connector for the needed measures and dimensions
