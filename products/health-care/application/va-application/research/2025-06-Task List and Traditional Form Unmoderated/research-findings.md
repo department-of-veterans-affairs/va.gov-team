@@ -117,7 +117,8 @@ Participants exhibited a personal preference for either linear progression or mo
 _Prefer Task List Flow (Orange Prototype)_
 - _The task list, 100%_
 - _I prefer the Orange option because it showed me what I had completed and what was upcoming. However, the Green option had a cleaner look and feel to me._
-- _I liked it, but it did seem more complex that the Green. Both were clear to me and easy. But I think the Orange may be more difficult for some. Both were good._  
+- _I liked it, but it did seem more complex that the Green. Both were clear to me and easy. But I think the Orange may be more difficult for some. Both were good._
+- _I could not tell what was behind me or what was coming up next without hitting the back button (Green/traditional flow found confusing question)_
 
   
 _Prefer Traditional Flow (Green Prototype)_
@@ -157,12 +158,13 @@ Green:
 
 ## **Additional Insights**
 - Participants mentioned saving and returning to the form later and calling out the application save and ID details in the lower green alert.
+- Most participants seemed to prefer the second prototype they were shown and in both prototypes a couple participants contradicted themselves in the comments vs their response to the close-ended preference question. 
 - A small theme on cohort 1 only that contradicted normal sentiment heard in studies - this group had positive things to say about the steps in the form progress bar stepper. 
 - Participants did state the instructions were often clear and understandable
  	- _One of the easiest to understand that VA has had me fillout_
   	- _Instructions are precise. Would be rather easy to follow, especially being a recent Discharged Veteran and used to filling out instructions and government paperwork/_
   	- _The instructions were clear as to what would be needed to complete the form._ 	
-- Cohort 2 had a theme of positive reactions towards the form progress bar.
+- Participants often stated the instructions were often clear.
   
 
 ## Recommendations
@@ -173,8 +175,17 @@ Green:
    - Post-study survey results and questions around task list functionality: The quantitative scale ratings were very close (19 vs 17 preferring the task list). Qualitative feedback was also mixed and some notes of personal preference. 
    - Figma prototype limitations: The prototype used was designed to use for testing navigation and movement around the form. Refining the funcitionality of the task list component and statuses while running a moderated study would allow for further inquiry and questioning around the Veterans' mental model of the task list.
 
-2. **Recommendation:** [Test More Use Cases]  
-   - A future study that further evaluates how the task list pattern works for specific use cases (like short form flow for Veterans with a disability rating over 50%) or conditional logic type of questions.
+2. **Recommendation:** [Test for a mix of use cases and Veterans with different disability ratings and eligibility criteria]  
+   - A future study that further evaluates how the task list pattern works for specific use cases (like short form flow for Veterans with a disability rating over 50%) or conditional logic questions.
+   - Include different Veteran segments who need to answer either the household financial information section or toxic exposure questions for eligibility.
+
+3. **Recommendation:** [Refine task list functionality]   
+   - To determine if there is a valid user experience benefit to the task list pattern, need to evaluate the functionality of the statuses in an environment live will replicate technical feasibility around status, alerts and prefilling of information. 
+
+4. **Recommendation:** [Future studies with AT users]   
+   - Test the usability of the pattern in a coded prototype or staging site so that we can include pariticpants who use screen readers or magnification to learn about their experience with the experimental pattern.
+
+
 
 
 ## Product User and Business Outcomes
