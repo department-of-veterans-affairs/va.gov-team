@@ -76,7 +76,7 @@ DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 
 #### Planning
 
-- Length of time: Seven Days 6/30/25 - 7/7/25
+- Length of time: Six Days 7/16/25 - 7/21/25
 - Percentage of Users (and roughly how many users do you expect this to be): 1% 
 
 #### Results
@@ -92,7 +92,7 @@ DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 
 #### Planning
 
-- Length of time: Two Days 7/7/25 - 7/9/25
+- Length of time: Three Days 7/21/25 - 7/23/25
 - Percentage of Users (and roughly how many users do you expect this to be): 5%
 
 #### Results
@@ -108,7 +108,7 @@ DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 
 #### Planning
 
-- Length of time: Five Days 7/9/25 - 7/14/25
+- Length of time: Six Days 7/23/25 - 7/28/25
 - Percentage of Users (and roughly how many users do you expect this to be): 20%
 
 #### Results
@@ -124,7 +124,7 @@ DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 
 #### Planning
 
-- Length of time: Two Days 7/14/25 - 7/16/25
+- Length of time: Three Days 7/28/25 - 7/30/25
 - Percentage of Users (and roughly how many users do you expect this to be): 50%
 
 #### Results
@@ -140,7 +140,7 @@ DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 
 #### Planning
 
-- Length of time: Final
+- Length of time: Final 7/30/25
 - Percentage of Users (and roughly how many users do you expect this to be): 100%
 
 #### Results
