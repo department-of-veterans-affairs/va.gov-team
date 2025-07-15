@@ -63,11 +63,11 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
 |UX: Share the Digital Dispute designs with the DMC for them to review and understand what Veterans will be seeing on the Debt Portal to facilitate seamless follow up with them during call support.| QP1 |--|--|--|
-|UX: Review designs for pay.gov with ENG and determine implementiability.| QP3 |--|--|--|
+|UX: Review designs for pay.gov with ENG and determine implementability.| QP3 |--|--|--|
 |UX: Refine content for Hardship Suspension with the Content Team.| QP5 |--|--|--|
 |ENG: Launch Digital Dispute.| QP1 |--|--|--|
 |ENG: Observe Digital Dispute submissions. Create report of request/response times and determine if we need to move request to DMC to a Sidekiq job. | QP1 |--|--|--|
-|ENG: Develop a plan if it is Digital Disputes need to move to a DMC to a Sidekiq job.| QP1 |--|--|--|
+|ENG: Develop a plan if Digital Dispute needs to move to a DMC Sidekiq job.| QP1 |--|--|--|
 |ENG: Pay.gov MOU filled out and some next steps determined.| QP3 |--|--|--|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
