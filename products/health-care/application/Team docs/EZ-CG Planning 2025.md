@@ -6,7 +6,7 @@
 ### 10-10EZ
 
 #### Obj: EZ [CYOA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103253)
-- [#113041](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113041) - [Research] Synthesis
+- [#113041](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113041) - [Research] Synthesis (CARRIED)
 
 #### Obj: EZ [Save in-progress for List & Loop](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94818)
 - [#95284](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95284) - [FE] Update Dependent section
@@ -22,14 +22,13 @@
 - [#114233](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114233) - [BE] Update engineering documentation to reflect BEP in place of BGS
 
 #### Obj: EZ [Form Statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95313)
-- [#105833](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105833) - [Eng] Discovery on how we can confidently refer "pending" Veterans to EZR
+- [#105833](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105833) - [Eng] Discovery on how we can confidently refer "pending" Veterans to EZR  (CARRIED)
 
 ## 
 ### 10-10CG
 
 #### Obj: CG [Improvements/BUGs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40165)
-- [#102073](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102073) - [FE] Update signature page
-- [#113008](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113008) - [FE] Minor content updates on Review page
+
 
 ##
 ### Team PTO
