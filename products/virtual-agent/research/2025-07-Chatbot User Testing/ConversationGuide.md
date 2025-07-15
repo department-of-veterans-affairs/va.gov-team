@@ -72,7 +72,7 @@ Before we start, I have a few things that I want to go over with you:
 
 - [ ] Are you using any assistive technology (like a screen reader) during this task?
 - [ ] What device, operating system and browser are you using today?
-- [ ] How familiar are you with chatbots? Have you used them in the past? If so, how many times in the last month, 6 months, year?
+- [ ] How familiar are you with chatbots? Have you used them in the past? Which ones? If so, how many times in the last month, 6 months, year? 
 
 
 ## First Task:  Proof of concept 1 - 10 minutes max
