@@ -73,6 +73,8 @@ Follow the [VA Design System](https://design.va.gov/) for URL, breadcrumb, and p
 
 Teams must launch with at least one entry point that allows site visitors to navigate to the new content or feature. 
 
+**Please note:** The Governance Team requires preview links of updated entry points as a part of staging review in the Collaboration Cycle. It may be a launch-blocking issue. Updates that will be done by the Content and IA team, as noted below, should be requested a minimum of one week before the staging review cutoff (four days prior to scheduled review). Two weeks of advanced knowledge is preferred when possible. Please communicate the staging review date as soon as it is scheduled to your main Content and IA contact. 
+
 ### Required entry point(s)
 
 **High Technology Program URL: va.gov/education/other-va-education-benefits/high-technology-program/**
@@ -112,7 +114,7 @@ The standard process for redirects can be found on the Platform website.
 | --- | --- | --- | --- |
 | Communicate finalization of paper form | VEBT | Once final | Allows OCTO to create About and static pages |
 | Communicate date of staging review | VEBT | Once scheduled |
-| Submit redirect request | VEBT | at least 2 weeks prior to implementation | 
+| Submit redirect request | VEBT | at least 2 weeks prior to implementation | |
 | Communicate launch date | VEBT | | Allows OCTO to plan for updates to About and static pages |
 
 
