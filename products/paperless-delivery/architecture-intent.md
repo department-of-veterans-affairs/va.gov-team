@@ -1,87 +1,95 @@
-# Performance Dashboard Architecture Intent
+# Paperless Delivery Architecture Intent
 
 - Product description
   - Brief overview of motivation for the change from an engineering & security point of view
-    - We want to create and expose the ability for users to opt in to receive their forms online instead of receiving them in the mail. We want to update the user interface and deploy it to users
+    - We want to expose the ability for Veterans to receive their forms electronically rather than by postal mail
+    - This product will live in the communication settings section of the VA.gov interface
   - Link to Collaboration Cycle Request issue
-    - ????
+    - https://github.com/department-of-veterans-affairs/va.gov-team/issues/106128
 - UX design description
   - For user-facing changes, link to UX prototype or wireframes if available
     - https://www.figma.com/design/DWOjExui9JzyzwhMBWOFkw/Paperless-delivery-opt-in?node-id=89-24566&p=f&t=cUuSruVY89EsRdxa-0
   - Call out any engineering challenges; UX is reviewed in the Design Intent meeting
-    - ????
+    - N/A
 - Frontend changes
   - Identify any significant code changes
-    - We will expose the paperless delivery feature in the va.gov interface
+    - We will create a dedicated page where Veterans can view and update their paperless delivery settings
+    - We will display a link to manage paperless delivery settings in the Communication settings card on the VA.gov Profile page
+    - We will display a nested link under Communication settings in the side navigation on the VA.gov profile page
+    - We will exclude Paperless Delivery from displaying in the Communication settings page
   - Identify any new design system components needed or changes to current components
-    - N/A
+    - The Design System team will create a component to support a hierarchical, nested link for side navigation
   - Describe any product analytics being gathered
-    - ????
+    - We want to gather number of visits to the paperless delivery page, number of paperless delivery opt-ins and changes to these settings
 - Backend changes
   - Does the project introduce any new or unusual infrastructure dependencies?
-    - N/A
+    - No
   - Do you need to poll any APIs for status?
-    - When a user navigates to the paperless download page, the front end will need to ping the endpoint ???? to determine which forms are available
+    - We will poll `/v0/profile/communication_preferences` endpoint to retrieve and update paperless delivery settings values
   - Are you handling all failure and error cases while in custody of your users's data?
     - Yes
 - Internal API changes
   - List new or modified APIs in vets-api
-    - ????
+    - N/A, we will use existing endpoints
   - Are you deprecating or removing any APIs?
-    - N/A
+    - No
   - Do you have API documentation?
-    - ????
+    - No
   - Describe expected call patterns
-    - ????
+    - Pattern: View Paperless Delivery settings
+      - GET request is made to `/v0/profile/communication_preferences` to retrieve paperless delivery settings
+    - Pattern: Modify Paperless Delivery settings
+      - PUT request is made to `/v0/profile/communication_preferences` when user selects or deselects the paperless delivery checkbox
 - External API changes
   - List new or modified APIs for upstream or external systems
-    - N/A
+    - None
   - Describe expected call patterns
     - N/A
   - What PII or PHI will be transmitted to/from the external systems?
-    - N/A
+    - None
 - Background jobs
   - List any required background processing
-    - ????
+    - None
   - Describe error and dead letter handling
     - N/A
 - Data storage
   - Describe new or modified databases, tables or columns
-    - N/A
+    - None
   - Describe indexes and constraints
-    - ????
+    - N/A
   - Identify PII and PHI and where and how it will be stored, processed, expired and deleted
-    - No new PII/PHI
+    - N/A
 - Libraries and dependencies
   - List new or updated dependences
-    - N/A
+    - The side navigation link is dependent on the creation of a new component that supports nested side navigation links
 - Metrics, logging, observability, alerting
   - Identify key areas to monitor
-    - ????
+    - We will add a new DataDog dashboard and monitor
 - Infrastructure and network changes
   - List any changes or additions
-    - N/A
+    - None
 - Test strategy
   - Describe automated, manual and user acceptance test strategy
-    - No automated testing is planned. Once the paperless delivery section is added to the vets-website interface in the communications settings page in profile, manual testing can be done by logging in as a test user who has forms in the vets-api database and downloading the forms.
+    - No automated testing is planned
+    - Manual testing can be done by logging in as a test user, navigating to the Paperless Delivery page and verifying paperless delivery settings are persistent through sessions
   - Describe required test data and test user accounts
-    - ????
+    - Any VA.gov test user will satisfy our needs
 - Rollout plan
   - List scope of any feature flags
-    - A feature flag will need to be added on vets-website to expose the option for users to download their forms
+    - A feature flag will be added on vets-website to expose the paperless delivery option
   - Identify other teams to coordinate with
-    - ?????
+    - VA Profile and VHA Enrollment system
   - Describe rollback plan
-    - Turn off feature flag for users.
+    - Turn off feature flag for users
 - Internal administration tasks
   - What maintenance or administration tasks do you anticipate will need to be performed periodically?
-    - ????
+    - None
   - Describe how you intend for these tasks to be performed (e.g., through an internal web page, through terminal access, etc.).
     - N/A
   - What questions do you have regarding items on the security checklist?
-    - None. We will not be introducing any security concerns.
+    - None, we will not be introducing any security concerns
   - Are there any other security concerns about your project that you want to discuss?
     - No
   - What threat modeling have you done, and how did the results influence your planned architecture?
     - This project doesn't introduce any new threats. It will be protected by
-      the standard vets-website authentication process and no PII will be at risk
+      the standard vets-website authentication process and no PII will be at risk.
