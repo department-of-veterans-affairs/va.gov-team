@@ -109,7 +109,7 @@ body:
   - type: checkboxes
     id: product-1-outline-date
     attributes:
-      label: Product information must be up top date and accessible.
+      label: Product information must be up to date and accessible.
       options:
         - label: My product information, including the product outline is up to date.
           required: true
@@ -160,7 +160,7 @@ body:
   - type: checkboxes
     id: product-2-outline-date
     attributes:
-      label: Product information must be up top date and accessible.
+      label: Product information must be up to date and accessible.
       options:
         - label: My product information, including the product outline is up to date.
           required: false
@@ -211,7 +211,7 @@ body:
   - type: checkboxes
     id: product-3-outline-date
     attributes:
-      label: Product information must be up top date and accessible.
+      label: Product information must be up to date and accessible.
       options:
         - label: My product information, including the product outline is up to date.
           required: false
