@@ -2,7 +2,7 @@
 **Last updated: July 2025**
 
 - User flow
-- Figma files
+- [Figma files](https://www.figma.com/design/21eaoKK107F3Nm1ofnMOO8/Profile---Hub-landing-page?node-id=0-1&t=GcIOhIFbozc6mNrA-1)
 - Test Rail QA
 
 
