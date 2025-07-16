@@ -35,7 +35,7 @@ _Illustration of of page flow._
 
 - These online form flows will live under the www.va.gov/school-administrators/ sub-directory
 
-<img width="600" alt="image" src="https://github.com/user-attachments/assets/26e1b9e2-4045-4148-8292-b268d6b08202" />
+<img width="1264" height="667" alt="Screenshot 2025-07-16 151003" src="https://github.com/user-attachments/assets/3ff31dfe-9ae6-4ec5-9e57-235bb32c7140" />
 
 
 
