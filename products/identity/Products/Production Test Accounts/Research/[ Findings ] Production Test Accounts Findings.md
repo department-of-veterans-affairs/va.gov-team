@@ -16,23 +16,14 @@
 ### Production Test Account Usage
 
 #### Current Practices
-- *[How teams currently use production test accounts]*
-- *[Frequency and context of usage]*
-- *[Types of testing conducted in production]*
-
-#### Pain Points
-- *[Challenges with production test accounts]*
-- *[Limitations or constraints]*
-- *[Risk factors identified]*
-
-#### Quote Highlights
-> *[Representative quotes from participants]*
+- The product teams we spoke to leverage production test accounts to validate features in a production environment after releases.  Most teams state that they use lower environments to perform preliminary tests but since these environments are not connected to all services throughout the VA ecosystem (and Oracle), it is challenging to simulate real-world interactions like secure messaging and pharmacy functionality.
+- *[Types of testing conducted in production]* smoke testing, regression testing, usability testing, data validations, load testing
 
 ### Testing Across Environments
 
 #### Staging Environment Usage
-- *[What testing happens in staging]*
-- *[Staging environment capabilities and limitations]*
+- *[What testing happens in staging]* Teams follow a standard practice of developing on their local machines, leveraging dev and staging environments to preliminarily test features prior to releasing.
+- However, these teams report that staging differs markedly 
 - *[Team preferences and workflows]*
 
 #### Lower Environment Practices
