@@ -280,7 +280,12 @@ Include AT users as part of a future moderated study with a coded prototype or s
 
 ## Other supporting documents created
 
-*Include links to additional materials, e.g., personas, user flows.*  
+- [Github folder with clickmaps from OW](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/2025-06-Task%20List%20and%20Traditional%20Form%20Unmoderated)
+
+<img width="800" height="440" alt="MacBook Pro-1" src="https://github.com/user-attachments/assets/6b782979-13cf-403e-822a-9bc1a48489da" />
+
+<img width="800" height="440" alt="MacBook Pro" src="https://github.com/user-attachments/assets/8f27d9e0-3684-412e-9ff8-acbcd54db825" />
+
 
 
 ## Secondary research
