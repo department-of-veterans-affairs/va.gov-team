@@ -1,6 +1,6 @@
 # Production Test Accounts Product Team Usage Patterns Research Findings
 
-## Executive Summary
+## Summary
 Based on the a few conversations with product teams across the VA, product teams heavily rely on production test accounts because staging environments lack critical integrations with VA ecosystem services like secure messaging and pharmacy functionality, making it impossible to properly test real-world workflows before production releases. Teams use these production test accounts for smoke testing, regression testing, usability validation, and load testing since lower environments don't accurately simulate production conditions or usage patterns. The reliance on production testing has become particularly acute with Oracle Health rollouts and the MHV to VA.gov transition, where testing integrations and user flows is nearly impossible outside of the production environment.
 
 ## Research Overview
