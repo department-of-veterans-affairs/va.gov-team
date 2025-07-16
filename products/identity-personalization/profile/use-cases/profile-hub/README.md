@@ -1,16 +1,13 @@
 # Profile hub use cases
 **Last updated: July 2025**
 
-- [User flow]
-- [Figma files]
+- User flow
+- Figma files
 - Test Rail QA
 
 ## Current experience
 - For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the user will be directed to the Profile Account Security section. [See LOA1 account documentation.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
-- This page allows users to opt in and out of text and email notifications on the VA.gov Profile.
-   - The page is supported by VA Profile, VEText, and VA Notifiy. If you need to set up new integrations please speak to the respective teams. These use cases are ONLY for the VA.gov Profile experience.
-- Text notifications require a US based phone number to send.
-- [Link to current notification settings options.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences#currently-we-support-the-following-notifications)
+- The profile hub is the landing page for profile and shows cards for every section of the profile.
  
 ## Common use cases
 ### User logs in with LOA1 account
