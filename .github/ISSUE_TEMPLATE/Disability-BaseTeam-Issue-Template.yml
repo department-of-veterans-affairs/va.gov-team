@@ -10,8 +10,9 @@ body:
   attributes:
     label: Value Statement 
     description: Describe the story
-    placeholder: (As a) user type |
-      (I want to) job to be done |
+    placeholder: |
+      (As a) user type 
+      (I want to) job to be done 
       (So that) desired outcome(s) 
 - type: textarea
   attributes:
