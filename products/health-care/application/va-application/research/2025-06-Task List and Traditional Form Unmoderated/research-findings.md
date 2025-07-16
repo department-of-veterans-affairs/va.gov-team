@@ -35,8 +35,12 @@ This research supports Veterans in the "Getting Out," "Starting Up" (Attending t
 
 This study aims to evaluate two potential form patterns—"Orange" task list and "Green" traditional flow—for the 10-10EZ health care application to determine if there is potential to improve the form flow with a non-linear navigation.
 
+**Executive Summary:**
+This unmoderated A/B comparitive study did provide insight into the potential user experience improvement with the form task list (orange prototype) despite the quantitative questions and ratings being a marginal preference (44% vs 39%). The open ended questions in the post-task and post-study steps revealed themes that do suggest further exploration is needed on this pattern.
+
+
 **Specific Goals:**
-- Gauge Veteran Interest: Understand Veterans' initial reactions to in both patterns, in a counter-balanced study, where each cohort will interact with both prototypes.
+- Gauge Veteran Interest: Understand Veterans' initial reactions to in both patterns, we showed both designs to all participants, in different orders.
 - Evaluate Navigation & Perceived Intuitiveness: Determine how Veterans perceive ease of locating and initiating form sections in both prototypes.
 - Identify High-Level Points of Confusion: Spot any early usability issues in the task list structure and navigation.
 - Assess Initial Preference: Identify which pattern Veterans prefer and why.
@@ -146,7 +150,7 @@ Green:
 
 
 **Finding 4: The organization and status of the groups of information was appreciated among participants**
-
+Grouping sections and showing progress helps users feel less overwhelmed as did letting users skip around can improve satisfaction for complex forms.
 
 - Cohort 1 AI summary that 14% commented on the intuitive section grouping of the Orange prototoype task. Verified during synthesis affinity mapping there was a them around the grouping and sections as a positive element of the task list prototype.
 
