@@ -1,4 +1,4 @@
-name: "Disability Benefits Team Issue Template"
+name: Disability Benefits Team Issue Template
 description: Issues for Disability Benefits Team 
 labels: ["disability", "disability-benefits", "needs-refinement"]
 projects: 
@@ -19,8 +19,7 @@ body:
     placeholder: Add here
 
 
-Background Context: -Add Here
-
+Background Context: 
 - Add here
 
 Tasks:
