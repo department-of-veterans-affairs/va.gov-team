@@ -211,7 +211,10 @@ For demographic details, see [Who we talked to](#who-we-talked-to).
 
 ### Finding 5: My VA had accessibility issues for screen magnifiers.
 - One participant using a screen magnifier (on a Windows computer using the Edge browser and Microsoft Zoom Magnification at least 300%) asked why the **"Continue your application" link in the form request card on My VA was so much smaller than everything else on the card**. The link text didn't scale up like the text above it.
-<details><summary>Click to see a screenshot of the issue.</summary>
+
+<details><summary>Expand for a screenshot of the issue in Figure 3.</summary>
+Figure 3 shows the form card on My VA with large text that says 'Application expires on: July 14, 2025' and 'Last saved on: May 15, 2025', but very small text that says 'Continue your application'.
+
 <img src="./images/p13-MyVA-form-card-bottom.png" width="50%" height="50%">
 </details>
 
