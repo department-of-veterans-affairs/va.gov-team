@@ -240,6 +240,7 @@ Include AT users as part of a future moderated study with a coded prototype or s
 
 - Refine prototype based on technical limitations if this would be implemented
 - Create specific use cases that would result in different parts of the task list would need to be completed
+- Test a coded or well-refined prototype 
 
 
 
