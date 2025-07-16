@@ -22,7 +22,10 @@ body:
   attributes: 
     label: What is the desired behavior? 
     description: Describe here
-    placeholder: When a user does X, the **visual** result is y. When a user does X, the **backend** result is y. When a user does X, the **event logging** result is y.
+    placeholder: |
+      When a user does X, the **visual** result is y. 
+      When a user does X, the **backend** result is y. 
+      When a user does X, the **event logging** result is y.
 - type: checkboxes
   attributes: 
     label: Definition of Done
