@@ -5,7 +5,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Accessibility Digital Experience (ADE)**
 
-**Date:** 07/15/2025
+**Date:** 07/16/2025
 
 **Contacts:** Cindy Merrill
 
@@ -389,7 +389,7 @@ There are a number of findings that were outside the scope of the research goals
     - *Supporting evidence:* One participant didn't know what a "picker" was and got confused.
 
 1. Try to **fix announcing issues with JAWS where it says "has popup" for the State/Province/Region and Postal code text fields**. 
-    - *Supporting evidence:* One screen reader user (JAWS on desktop) reported that the State/Province/Region and Postal code fields said "has pop up", even though they're both text fields.
+    - *Supporting evidence:* One screen reader user (JAWS on desktop) reported that the State/Province/Region (as long as "United States" isn't selected in the Country field) and Postal code fields said "has pop up", even though they're both text fields.
 
 1. Try to **fix announcing issues with VoiceOver for the citizenship question, which said it was a checkbox instead of a radio button**.
     - *Supporting evidence:* One screen reader user (VoiceOver on iOS) didn't know that the citizenship question was a radio button when they tapped on it. Riley Orr tested and found that it's announced as a checkbox (bug) and radio button on her iPhone, but announced (correctly) as a radio button on desktop. After she updated her phone, it announced (correctly) as a radio button.
