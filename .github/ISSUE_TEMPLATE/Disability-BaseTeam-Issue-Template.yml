@@ -1,3 +1,4 @@
+
 name: Disability Benefits Team Issue Template
 description: Issues for Disability Benefits Team 
 labels: ["disability", "disability-benefits", "needs-refinement"]
@@ -17,7 +18,10 @@ body:
     label: Background Context
     description: What's the context?
     placeholder: Add here
-- Background Context: 
+
+
+Background Context: -Add Here
+
 - Add here
 
 Tasks:
