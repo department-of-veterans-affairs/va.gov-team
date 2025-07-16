@@ -1,0 +1,41 @@
+
+name: Disability Benefits Team Spike Template
+description: Issues for Disability Benefits Team 
+labels: ["disability", "disability-benefits", "needs-refinement"]
+projects: 
+- department-of-veterans-affairs/1660
+
+body:
+- type: textarea
+  attributes:
+    label: Background 
+    placeholder: Provide context into why this spike was created
+
+- type: textarea
+  attributes:
+    label: Goal 
+    placeholder: Describe what question(s) this spike intends to answer
+
+- type: textarea
+  attributes:
+    label: Tasks
+    description: What are the tasks for this work?
+    placeholder: |
+      - Task
+      - Task
+      - Task
+
+- type: markdown
+  attributes:
+    value: |
+    ## Evidence
+    Ensure to document the evidence collected that informs the conclusions below
+
+    ## Conclusions
+    Capture what was learned that will inform future work
+
+    ## Next Steps
+    What work is expected as an outcome of the learning within this spike
+
+
+    
