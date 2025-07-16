@@ -68,18 +68,20 @@ Opportunities for Improvement
 | Feedback | Action | 
 | --- | --- | 
 | Several respondents reported the Facility Locator was down or not working. The descriptions are similar to a situations observed when the Ad Blocker is used in Chrome | This issue is already ticketed and awaiting contract approval/award : [[DEFECT] Facility Locator errs with Ad Blocker #21584](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/21584)
-| Response from VA provider and frequently user suggested services and care level vary across Emergency departments and it would help to add granularity to help identify the best location to refer Veterans for their needs | The data is not available to support this functionality | 
+| Response from VA provider and frequently user suggested services and care level vary across Emergency departments and it would help to add granularity to help identify the best location to refer Veterans for their needs | Data to support this functionality is not available | 
 | Respondents want to search for specific types of VA health care, such as palliative care and inpatient mental health facility locations | VA health service searches will be expanding, pending contract approval and award 
 | A dozen or more responses were related to difficulty making or changing appointments | The Facility Locator does not have a connection to the online scheduling service. Has been in backlog but not yet prioritized: [[CONSIDER] Link to VR&E scheduling tool #17119](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/17119) | 
-| Several responses indicate a desire to download/print a list of wallet card containing the search results. Some of these are VA employees who are referring Veterans and families | Will add to backlog |
+| Several responses indicate a desire to download/print a list of wallet card containing the search results. Some of these are VA employees who are referring Veterans and families | Added to backlog: [[CONSIDER] Downloadable search result list
+#21740](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/21740) |
 | 41 individual errors reported with community care locations, mostly urgent care | Sent to PPMS team for inviestigation and resolution |
 | User looking for closest Regional office expected to select Regional office as a Facility type | Corresponding facility type is VA benefit office in existing experience. Will continue to monitor for other confusion |
 | User reported a need to sort list of search results and lack of understanding of logical order for the providers that appear in the network | Will monitor for other similar reports | 
 | Multiple users express confusion/frustration with duplicate listings for community care providers | This is a function of the community care database as both TPAs can report the provider as in network. Practice and providers appear as individual search results |
-| Several users report the number of search results displayed (i.e., Showing 1 - 15 of 15 results for "Community providers (in VA's network)", "Dentist") does not match the number of actual results | Will add to backlog |
+| Several users report the number of search results displayed (i.e., Showing 1 - 15 of 15 results for "Community providers (in VA's network)", "Dentist") does not match the number of actual results | Added to backlog: [[DEFECT] Number of results in header does not match the actual number of results #21741](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/21741) |
 | Users report difficulty finding Vet Centers in their area | likely a function of geographic location, default radius, and/or zoom level 
 | Users have trouble finding matching community care service type (i.e. "ENT", "acupuncture", "primary care") | This is a function of the backend system for community care data |
 | Several users expressed a desire to search for VSO using Facility Locator | We are beginning to map this service to regional benefit offices but Lighthouse currently does not support individual service locations |
-| User expressed a desire to search by provider name | Will add to backlog |
+| User expressed a desire to search by provider name | WAdded to backlog: [[CONSIDER] Allow Provider search by name
+#21742](https://github.com/department-of-veterans-affairs/va.gov-cms/issues/21742) |
 | Two users reported "community care link is broken" | Unable to reproduce this scenario |
 | 6 users reported errors in VA benefit office information (i.e., phone numbers and map) | Reporting to VBA Office of Communication for investigation and correction |
