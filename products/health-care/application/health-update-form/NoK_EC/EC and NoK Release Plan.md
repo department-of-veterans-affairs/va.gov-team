@@ -73,7 +73,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: 
 
 ### Objective: Provide an effortless online experience for Veterans to update their information for health care benefits
-#### **Key Result #1:** Increase % of Veterans who successfully add their NOK and/or EC information online
+#### **Key Result #1:** Increase 10% of Veterans who successfully add their NOK and/or EC information online
 
 
 
