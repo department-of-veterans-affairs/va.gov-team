@@ -9,10 +9,11 @@ Feature toggle
 
 | Toggle name | Description |
 | ----------- | ----------- |
+|ezr_prefill_contacts | Adds Veteran contacts to ezr prefill data |
 |ezr_associations_api_enabled | Enables VES's Associations REST API |
 |ezr_emergency_contacts_enabled| Enables emergency contact experience for 10-10EZR applicants|
 |ezr_next_of_kin_enabled|Enables next of kin experience for 10-10EZR applicants|
-| (NOT SURE ABOUT THIS ONE) ezr_prefill_contacts | Adds Veteran contacts to ezr prefill data |
+
 
 
 ## Step 2: Validation
@@ -40,13 +41,14 @@ Before enabling your feature toggle in production, you'll need to:
 #### Planning
 
 - Desired date range or test duration:
-     - 3 days - 5/X/25-5/X/25
+     - 3 days - 7/16/25-7/18/25
 - Desired number of users:
-     - 1-2 participants
+     - 1-3 participants
 - How you'll recruit the right production test users:
-     - OCTO members who are Veterans
+     - OCTO members who are Veterans with VA Health Care
+     - Personal contacts who are Veterans with VA Health Care
 - How you'll conduct the testing:
-     - Guided
+     - self-testing
 - How you'll give the test participants access to the product in production w/o making it live on VA.gov:
      - Feature Toggle for specific users 
 
