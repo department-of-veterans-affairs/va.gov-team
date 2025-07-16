@@ -10,13 +10,13 @@
 
 #### Obj: EZ [Save in-progress for List & Loop](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94818)
 - [#95284](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95284) - [FE] Update Dependent section
-- [#113841](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113841) - [BE] CSRF at Platform level
 
 #### Obj: Insurance page updates
 - [#94500](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94500) - [QA] Follow-up to complete testing on L&L pattern
 
 #### Obj: EZ [Improvements/BUGS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
 - [#113620](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113620) - [BE] Ignore params passed in GET request (CARRIED)
+- [#113841](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113841) - [BE] CSRF at Platform level
 - [#114233](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114233) - [BE] Update engineering documentation to reflect BEP in place of BGS
 - [#114303](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114303) - [Eng] Engineering documentation updates
 - [#114313](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114313) - [UX] Design/Research documentation updates
