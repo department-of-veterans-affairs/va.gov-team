@@ -1,5 +1,6 @@
 # Monthly Medallia Report: June 2025
 
+<img width="1211" height="356" alt="Screenshot 2025-07-15 at 4 25 43 PM" src="https://github.com/user-attachments/assets/8806ea56-e6ee-45ff-9d92-e5d42a8e3816" />
 
 
 ## Monthly CSAT Score for Debt Portal (FSR & Debt Portal Pages combined)
