@@ -40,10 +40,10 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 ## Sprint Goals - Sprint: 12 [7/2/25 - 7/15/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
-|UX: Support Engineering team in addressing Staging Review feedback to ensure Digital Dispute is release-ready (Including canary testing with Veterans).| QP1 |--|--|--|
+|UX: Support Engineering team in addressing Staging Review feedback to ensure Digital Dispute is release-ready (Including canary testing with Veterans).| QP1 |--|7/15/25|Complete|
 |UX: Complete Figma user flows for Hardship Suspension.| QP5 |--|7/14/25|Complete|
 |UX: Refine and document the UX research process for studies to include use of Copilot (AI tool).| QPX |--|7/15/25|Complete|
-|ENG: Complete existing front end Digital Dispute launch-blocking tickets from the Staging Review (10 pts).| QP1 |--|--|--|
+|ENG: Complete existing front end Digital Dispute launch-blocking tickets from the Staging Review (10 pts).| QP1 |--|7/15/25|Complete|
 |ENG: Create Digital Dispute multiple submission database schemas. | QP1 |--|7/10/25|Complete|
 |ENG: Address upstream server VBA job submission errors.| QPX |--|7/10/25|Complete|
 
@@ -54,8 +54,8 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
  - [X] VA COR approved the Sprint Goals (07/02/25)
  
 **_Delivery + Notes:_**
-- [ ] All goals have been updated in the sprint chart
-- [ ] Any Additional details about goals **not** completed will be documented here
+- [X] All goals have been updated in the sprint chart
+- [X] Any Additional details about goals **not** completed will be documented here
   - For goal - ENG: Address upstream server VBA job submission errors. This was completed on the 10th, but in addition to the goal's scope the BE ENG team created an additional task to enhance the submission error correction ensuring a higher quality of the initial solution. This can be seen in ticket: Implement 5655 Submission Job Spike Solution
 #113523
 
