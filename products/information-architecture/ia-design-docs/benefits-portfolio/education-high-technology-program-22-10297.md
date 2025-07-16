@@ -41,20 +41,23 @@ Follow the [VA Design System](https://design.va.gov/) for URL, breadcrumb, and p
 - [Breadcrumbs](https://design.va.gov/components/breadcrumbs)
 - [Title tags](https://design.va.gov/content-style-guide/title-tags)
 
-**1) High Technology Program - New**
+**1) High Technology Program - New - Created by OCTO**
 - URL: va.gov/education/other-va-education-benefits/high-technology-program/
 - Breadcrumb: VA.gov home > Education and training > Other VA education benefits > High Technology Program 
 - Browser title: [H1 of introduction page in title case] | Veterans Affairs
     - Example based on H1 in Figma: High Technology Program | Veterans Affairs
--Notes: OCTO will create and publish this page as it lives in Drupal.
+    -Notes: OCTO will create and publish this page as it lives in Drupal.
 
-**2) Apply for the High Technology Program - New**
+**2) Apply for the High Technology Program - New - Canonical URL for form**
 - URL: va.gov/education/other-va-education-benefits/high-technology-program/apply-for-high-technology-program-form-22-10297/
+  - This is the canonical URL for the form and what will appear in search results.
+  - All referring links should have this URL as the destination.
+  - Once this URL renders, form logic should redirect the visitor to the first page within the form flow - per standards this is generally /introduction  
 - Breadcrumb: VA.gov home > Education and training > Other VA education benefits > High Technology Program > Apply for the High Technology Program
 - Browser title: [H1 of introduction page in title case] | Veterans Affairs
     - Example based on H1 in Figma: Apply for the High Technology Program | Veterans Affairs
 
-**3) About VA form 22-10297 - New**
+**3) About VA form 22-10297 - New - Created by OCTO**
 - URL: va.gov/find-forms/about-form-22-10297/
 - Breadcrumb: VA.gov home > Find a VA Form > About VA Form 22-10297
 - Notes: OCTO will create and publish this page as it lives in Drupal.
