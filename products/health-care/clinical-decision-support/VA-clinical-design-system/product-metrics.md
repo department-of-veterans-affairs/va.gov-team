@@ -2,7 +2,7 @@
 
 ## FY25
 
-#### Adoption rates
+#### Adoption, total # of components
 |	Group	|	FY25 Q1 |	FY25 Q2 |	FY25 Q3 |	FY25 Q4 |
 |	----	|	----	|	----	|	----	|	----	|	
 |	Platform console	|	-	|	8	|	-	|	-	|
