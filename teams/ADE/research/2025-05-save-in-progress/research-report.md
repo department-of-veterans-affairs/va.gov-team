@@ -391,7 +391,7 @@ There are a number of findings that were outside the scope of the research goals
 8. See if **field type announcing by screen readers can happen sooner**, perhaps *before* the field name, to set the user's expectations for  the type of interaction expected.
     - *Supporting evidence:* A desktop screen reader user didn't know that the birth month field was a popup because he stopped the screen reader before it was done announcing. A mobile VoiceOver user also didn't know that field was a popup and so tried to type a number into the field. In addition, on the Review/Submit page, a JAWS screen reader user heard the checkbox announced *after* the entire "I certify the information above is correct and true to the best of my knowledge and belief" line, which was unexpected. 
 
-1. **Change the announcement text for dropdown fields from "Double tap to activate the picker" to use plain language**. For example, "Double tap to select the month", "Double tap to select the country", and "Double tap to select the state".
+1. **Change the VoiceOver announcement text for dropdown fields from "Double tap to activate the picker" to use plain language**. For example, "Double tap to select the month", "Double tap to select the country", and "Double tap to select the state". --> *NOT POSSIBLE TO FIX because this wording is part of VoiceOver*
     - *Supporting evidence:* One participant didn't know what a "picker" was and got confused.
 
 1. Try to **fix announcing issues with JAWS where it says "has popup" for the State/Province/Region and Postal code text fields**. 
@@ -403,7 +403,7 @@ There are a number of findings that were outside the scope of the research goals
 1. See if the **duplicate messaging from JAWS for the records checkboxes and mailing address fields can be removed**.
     - *Supporting evidence:* Two screen reader users said that they were hearing every records checkbox option and mailing address fields twice while using the arrow keys to navigate through the form.
 
-1. Try to **fix focus issues with VoiceOver while getting in and out of the date of birth Month field**.
+1. Try to **fix focus issues with VoiceOver while getting in and out of the date of birth Month field** and potentially other dropdown fields. --> *NOT POSSIBLE TO FIX because of a [known bug with VoiceOver](https://webaim.org/discussion/mail_thread?thread=7141)*
     - *Supporting evidence:* Focus was on the Month field, but there was also a blinking cursor in the previous field (last name). When the participant typed a number for the date of birth month, the number was entered into the last name field. And when she was done picking the Month, focus was moved to the very top of the page. 
 
 1. Streamline error handling on the Review/Submit page for the ***Your full name* field so that (1) focus goes to the name field (*vs*. the top of the component), and (2) the error message is announced immediately** (*vs*. after two repetitions of most of the text in the component). 
