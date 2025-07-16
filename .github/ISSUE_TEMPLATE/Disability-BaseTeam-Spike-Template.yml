@@ -28,14 +28,14 @@ body:
 - type: markdown
   attributes:
     value: |
-    ## Evidence
-    Ensure to document the evidence collected that informs the conclusions below
-
-    ## Conclusions
-    Capture what was learned that will inform future work
-
-    ## Next Steps
-    What work is expected as an outcome of the learning within this spike
+      ## Evidence
+      Ensure to document the evidence collected that informs the conclusions below
+  
+      ## Conclusions
+      Capture what was learned that will inform future work
+  
+      ## Next Steps
+      What work is expected as an outcome of the learning within this spike
 
 
     
