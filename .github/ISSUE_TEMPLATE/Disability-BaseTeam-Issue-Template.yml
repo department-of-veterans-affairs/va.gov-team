@@ -19,49 +19,52 @@ body:
     label: Background Context
     description: What's the context?
     placeholder: Add here
-
-- type: markdown
+- type: textarea
   attributes:
-    value: |
-      ## Background Context: -Add Here
-
-      - Add here
-
-      ## Tasks:
+    label: Tasks
+    description: What are the tasks for this work?
+    placeholder: |
       - Task
       - Task
       - Task
+- type: textarea
+  attributes:
+    label: Dependencies
+    description: What's things is this work dependent on?
+    placeholder: Add here
+- type: textarea
+  attributes:
+    label: Out of scope
+    description: What's things are NOT in scope for this work?
+    placeholder: Add here
 
-      ## Dependencies: 
-      - Add here
+- type: textarea
+  attributes:
+    label: Open questions
+    description: Are there any open questions?
+    placeholder: Add here
 
-      ## Out of scope:
-      - Add here
-
-      ## Open questions:
-      - Add here
-
-      ## Designs and Build Notes:
-      - Add here  
-
-      ## Acceptance Criteria:
+- type: textarea
+  attributes:
+    label: Acceptance Criteria
+    description: What is the acceptable conditions to consider this work complete?
+    placeholder: |
       - AC
       - AC
       - AC
+- type: textarea
+  attributes:
+    label: Outcome, Success Measure, KPI(S), and Tracking Link:
+    description: Measuring success of this work
+    placeholder: Add here
 
-      ## Outcome, Success Measure, KPI(S), and Tracking Link:
-      - Add here
-
-      ## Enablement team (if needed):
-      - member of team
-
-      ## Definition of Done:
-
-      - Meets acceptance criteria
-      - Passed E2E testing (90% coverage)
-      - Passed unit testing (90% coverage)
-      - Passed integration testing (if applicable)
-      - Code reviewed (internal)
-      - Submitted to staging
-      - Team approved production verification process
-      - Reviewed and approved by product and/or design
+- type: checkboxes
+  attributes: 
+    label: Definition of Done
+    description: Describe here
+    options:
+      - label: Meets acceptance criteria
+      - label: Passed all testing coverage
+      - label: Code or content reviewed (Internal)
+      - label: Reviewed and approved by product and/or design
+    
