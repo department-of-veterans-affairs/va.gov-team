@@ -3,8 +3,9 @@
 
 ## Design System Team
 - Product Managers: Carol Wong
-- Designer: Barb Denney, 
-- Web Dev: ???
+- Designer: Barb Denney
+- Web Developer: Kerry Powell or Ryan Munsch
+- Accessibility Specialist: Amy Leadem and Jeana Clark
 
   
 ## Artifacts
@@ -15,13 +16,16 @@
 - Link to properties / architecture document
 
 ## Summary
-- Description of component 
+A monospace font is a scalable, accessible font that applies a monospace typeface to designated text elements. It can be configured for font size, weight, and fallback options. It ensures that all characters occupy equal horizontal space, improving legibility for code and structured data.
   
 ## Purpose & Context
-- What problem does this component solve?
-- Where and how will it be used in the product?
-- Is this a new component or an enhancement to an existing one?
-- Who are the primary users of this component?
+A monospace font ensures consistent character spacing, making it ideal for displaying code, technical data, and tabular information. It provides clarity and alignment in interfaces where precision and readability are critical.
+
+### What Problem Does the Monospace Font Solve?
+It solves problems with inconsistent alignment and readability when presenting text on a page. Non-monospaced fonts can cause character misalignment, making content harder to read and understand.
+
+### Who are the primary users of this component?
+VFS teams building applications and content for Veteran facing products
 
 ## Tasks / Things to consider
 ### Research
