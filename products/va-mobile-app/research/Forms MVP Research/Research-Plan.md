@@ -116,7 +116,7 @@ Provide a link to any materials you need to run your study, including any materi
 
 **For moderated usability tests:** 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/Forms%20MVP%20Research/Conversation-guide.md)
-- [Link to prototype](url goes here)
+- [Link to prototype](https://testflight.apple.com/join/RrO0Cw2q)
 	
 ## Recruitment 🎯	
 
@@ -201,7 +201,6 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 
 - `[07/28, Monday, 10:00 AM-7:00 PM] EST`
 - `[07/29, Tuesday, 10:00 AM-7:00 PM] EST`
-- `[07/30, Wednesday, 10:00 AM-7:00 PM] EST`
 - `[07/31, Thursday, 10:00 AM-7:00 PM] EST`
 - `[08/01, Friday, 10:00 AM-7:00 PM] EST`
 
@@ -226,5 +225,5 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 - **[Becca Tupaj]**
 
 ## Approvals ✅
-- `Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]`
+- `Reviewed by [Ryan Thurlwell, Team Lead] on [07/16/2025]`
 - `Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]`
