@@ -1,7 +1,7 @@
 
 ---
 
-# DRAFT [2025-07 - CYOA Task List Early Exploration - Unmoderated Prototype A/B Study - #906] Research Findings 
+# [2025-07 - CYOA Task List Early Exploration - Unmoderated Prototype A/B Study - #906] Research Findings 
 
 **Office of the CTO - Digital Experience (OCTO-DE), 10-10EZ Form Health Care Application, Health Enrollment Team**
 
@@ -24,6 +24,12 @@
 - [Who we talked to](#who-we-talked-to)
 
 
+
+**Executive Summary:**
+This unmoderated A/B comparitive study did provide insight into the potential user experience improvement with the form task list (orange prototype) despite the quantitative questions and ratings being a marginal preference (44% vs 39%). The open ended questions in the post-task and post-study steps revealed themes that do suggest further exploration is needed on this pattern. This is especially true with representation of key use cases that result in conditional logic, a coded prototype to test with AT and mobile users and testing prefill and status tag functionality.
+
+
+
 ## Research Goals
 This study aimed to evaluate two potential form patterns — a task list pattern, the "Orange" prototype,  and a traditional flow, the "Green" prototype. These were tested on the 10-10EZ health care application to determine if there is potential to improve the form flow with a non-linear navigation. This research will help us determine if there is an opportunity to further investigate and  work on the task list experimental pattern.
 
@@ -35,8 +41,6 @@ This research supports Veterans in the "Getting Out," "Starting Up" (Attending t
 
 This study aims to evaluate two potential form patterns—"Orange" task list and "Green" traditional flow—for the 10-10EZ health care application to determine if there is potential to improve the form flow with a non-linear navigation.
 
-**Executive Summary:**
-This unmoderated A/B comparitive study did provide insight into the potential user experience improvement with the form task list (orange prototype) despite the quantitative questions and ratings being a marginal preference (44% vs 39%). The open ended questions in the post-task and post-study steps revealed themes that do suggest further exploration is needed on this pattern.
 
 
 **Specific Goals:**
