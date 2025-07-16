@@ -22,22 +22,28 @@
 - [Who we talked to](#who-we-talked-to)
 
 ## Research Goals
-Veterans may fill out web forms on VA.gov throughout their lives, including ALL stages of the Veteran Journey--Serving and separation, Living civilian life, and Retiring and aging. Saving in-progress work while filling out an online form is an interaction for which the current implementation on VA.gov has two known accessibility issues. This research was designed to get user feedback on a revised design that may resolve both issues.
+Veterans may fill out web forms on VA.gov throughout their lives, including ALL stages of the Veteran Journey--Serving and separation, Living civilian life, and Retiring and aging. Saving in-progress work while filling out an online form is an interaction for which the current implementation on VA.gov has two known accessibility issues. This research was designed to collect user feedback on a revised design that has the potential to resolve both issues.
 
-<details><summary>Click to see details of the two accessibility issues and the revised design that we tested.</summary>
+<details><summary>Expand for a description of the two accessibility issues and the revised design that we tested.</summary>
+
+### Two accessibility issues
 	
-1. While VA.gov users are signed in (authenticated) and filling out a form, the "save in progress" alert (see below with light green background) flashes on and then off with every field entry or edit. Because this alert displays *below* the Continue button, screen readers don't announce it, which is an accessibility issue. All users should have access to the same information about the user interface. ([Figure 1](#figure-1))
+1. While VA.gov users are signed in (authenticated) and filling out a form, the "save in progress" alert (see below with light green background) flashes on and then off with every field entry or edit ([Figure 1 shows the alert with a light green background](#figure-1)). Because this alert displays *below* the Continue button, screen readers don't announce it, which is an accessibility issue. All users should have access to the same information about the user interface (per [WCAG 1.3.1](https://www.w3.org/WAI/WCAG21/Understanding/info-and-relationships.html)). 
 
-2. There's a "Finish this request later" button that looks like a link ([Figure 2](#figure-2)), which is another accessibility issue. Links that take you to another page should look like links, and buttons that do actions should look like buttons. 
+2. There's a "Finish this request later" button that looks like a link ([Figure 2](#figure-2)), which is another accessibility issue. Links that take you to another page should look like links, and buttons that do actions should look like buttons (per [VA Design System guidance](https://design.va.gov/components/link/#choose-the-right-element-buttons-vs-links)). 
 
-### Figure 1
+#### Figure 1
 
 <img src="./images/2-a11y-issues.png" width="50%" height="50%">
 
+### Revised design
+
 We are testing a modification of the VA Design System [Header - Minimal component](https://design.va.gov/components/header/header-minimal), which is recommended for the design of new web forms. To address the above accessibility issues, we have removed the "save in progress" alert, as well as changed the "Finish this request later" button that looks like a link into looking like a button (see below). We believe that removing the "save in progress" alert will be OK because there is already text about saving on both the authenticated version of the form intro page and the first page of the form. One goal of this current research is to get user feedback on the revised design.
 
-### Figure 2
+#### Figure 2
 <img src="./images/2-a11y-issues-fix.png" width="50%" height="50%">
+
+### Past research 
 
 Previous research has validated the minimal header component, including its lack of "Back" button (research participants successfully used the "Back to previous page" breadcrumb link at the top of each page). Other research studies have tested various locations for the "Save in progress" alert, and subsequent research studies have documented usability and accessibility issues with those locations.
 
