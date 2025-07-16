@@ -54,7 +54,7 @@ body:
       - AC
 - type: textarea
   attributes:
-    label: Outcome, Success Measure, KPI(S), and Tracking Link:
+    label: Outcome, Success Measure, KPI(S), and Tracking Link
     description: Measuring success of this work
     placeholder: Add here
 
