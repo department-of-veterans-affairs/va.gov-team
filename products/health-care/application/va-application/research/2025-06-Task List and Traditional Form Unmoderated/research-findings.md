@@ -184,19 +184,27 @@ Green:
 *Summarize actionable recommendations based on findings.*  
 
 1. **Recommendation:** [Refine the task list prototype and conduct a moderated research study]  
+Refine the task list coded prototype and conduct a moderated study that includes additional interview questions so we can conduct a more well-rounded study including mobile devices. 
+
    - Post-study survey results and questions around task list functionality: The quantitative scale ratings were very close (19 vs 17 preferring the task list). Qualitative feedback was also mixed and some notes of personal preference. 
    - Figma prototype limitations: The prototype used was designed to use for testing navigation and movement around the form. Refining the funcitionality of the task list component and statuses while running a moderated study would allow for further inquiry and questioning around the Veterans' mental model of the task list.
 
-2. **Recommendation:** [Test for a mix of use cases and Veterans with different disability ratings and eligibility criteria]  
-   - A future study that further evaluates how the task list pattern works for specific use cases (like short form flow for Veterans with a disability rating over 50%) or conditional logic questions.
-   - Include different Veteran segments who need to answer either the household financial information section or toxic exposure questions for eligibility.
+2. **Recommendation:** [Test for a mix of use cases and Veterans with different disability ratings and eligibility criteria]
+Include various use cases and conditional logic - Veterans with a disability rating over 50% and a mix of those who answer the household financial questions or the toxic exposure questions. 
+    - A future study that further evaluates how the task list pattern works for specific use cases (like short form flow for Veterans with a disability rating over 50%) or conditional logic questions.
+    - 
 
-3. **Recommendation:** [Refine task list functionality]   
+
+3. **Recommendation:** [Refine task list functionality]
+Refine the usability of the task list pattern and secondary navigation within technical limitations including the status component.
+ 
    - To determine if there is a valid user experience benefit to the task list pattern, need to evaluate the functionality of the statuses in an environment live will replicate technical feasibility around status, alerts and prefilling of information. 
 
-4. **Recommendation:** [Future studies with AT users]   
-   - Test the usability of the pattern in a coded prototype or staging site so that we can include pariticpants who use screen readers or magnification to learn about their experience with the experimental pattern.
 
+4. **Recommendation:** [Future studies with AT users]
+Include AT users as part of a future moderated study with a coded prototype or staging site to ensure the task list pattern  is easy to use and accessible.
+
+   - Test the usability of the pattern in a coded prototype or staging site so that we can include pariticpants who use screen readers or magnification to learn about their experience with the experimental pattern.
 
 
 
