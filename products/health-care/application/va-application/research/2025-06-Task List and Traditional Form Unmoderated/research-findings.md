@@ -384,7 +384,6 @@ This research does not include the perspectives of the following marginalized Ve
 _List all groups in red from the spreadsheet_
 * Disability and Assistive Technology (AT)
 * Mobile
-* Group 3
+* LGBTQ+
+<img width="580" height="390" alt="VA-recruitment-checker Screenshot 2025-07-16 at 10 35 53 AM" src="https://github.com/user-attachments/assets/dcb21357-f81d-4f2e-8268-46cac7b9717d" />
 
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
