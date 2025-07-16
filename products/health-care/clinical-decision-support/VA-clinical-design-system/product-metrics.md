@@ -26,7 +26,7 @@
 |	Metric	|	FY25 Q1 |	FY25 Q2 |	FY25 Q3 |	FY25 Q4 |
 |	----	|	----	|	----	|	----	|	----	|	
 |	Contributions to VA design system	|	-	|	-	|	-	|	-	|
-|	Contributions to USWDS design system	|	-	|	-	|	-	|	-	|
+|	Contributions to USWDS design system	|	-	|	1	|	1	|	-	|
 
 ---
 ## Synthesis
