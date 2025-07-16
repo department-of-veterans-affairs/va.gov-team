@@ -73,12 +73,13 @@ Also review [Capitalization](https://design.va.gov/content-style-guide/capitaliz
 ## <a name="nav"></a>Entry points
 *Entry points are where the primary call-to-action is provided allowing a site visitor to navigate to the page/feature.*
 
+**Please note:** The Governance Team requires preview links of updated entry points as a part of staging review in the Collaboration Cycle. It may be a launch-blocking issue.
 
-**1) Resources for schools landing page - https://www.va.gov/school-administrators/**
+**1) Resources for schools landing page - https://www.va.gov/school-administrators/ -- Required for launch**
   - This page is the parent of both the online forms  and must include a link within the content of the page.
   - The VEBT will be responsible for identifying where on the page these links should be placed and implementing them.
 
-**2) About VA Form 22-0976**
+**2) About VA Form 22-0976 -- Post launch**
 - This is a standard page that is part of the "Find VA forms" experience.  It has a standard approach to page content and links.
 - The OCTO Content and IA team will update this page at https://www.va.gov/find-forms/about-form-22-0976/.  
 - Once the online form is launched, the OCTO Content and IA team will ensure a CTA is added to the page to allow visitors to link to the online version of the form.  
