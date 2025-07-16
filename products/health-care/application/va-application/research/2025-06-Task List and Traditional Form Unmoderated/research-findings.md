@@ -93,7 +93,9 @@ Participants were shown limited-functionality Figma prototypes and asked to perf
 
 **3. Clickable elements in task list were utilized but may have caused some confusion.**
 
-**4. Participants stated there was a lot of information to provide and gathering documents beforehand would be important.**
+**4. The organization and status of the groups of information was appreciated among participants**
+
+**5. Participants stated there was a lot of information to provide and gathering documents beforehand would be important.**
 
 
 
@@ -143,8 +145,18 @@ Green:
 
 
 
+**Finding 4: The organization and status of the groups of information was appreciated among participants**
 
-**Finding 4: Participants stated there was a lot of information to provide and gathering documents beforehand would be important before completing the health care application.**  
+
+- Cohort 1 AI summary that 14% commented on the intuitive section grouping of the Orange prototoype task. Verified during synthesis affinity mapping there was a them around the grouping and sections as a positive element of the task list prototype.
+
+**Quotes**
+- _I thought Orange was really good. Breaking each area down by sections, allowing you to go at your own pace, but also seeing which areas are done and which you have left is definitely the preferred route._
+- _The way the information required is places in "buckets" that can be completed in order, or in an order that easier based on the information available. And then to know when it is complete._
+
+
+
+**Finding 5: Participants stated there was a lot of information to provide and gathering documents beforehand would be important before completing the health care application.**  
 - 	Participants noted the process required a lot of information and recommended gathering documents before starting.
 
 **Quotes:**
