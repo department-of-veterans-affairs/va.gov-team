@@ -22,39 +22,39 @@ body:
 - type: markdown
   attributes:
     value: |
-      Background Context: -Add Here
+      ## Background Context: -Add Here
 
       - Add here
 
-      Tasks:
+      ## Tasks:
       - Task
       - Task
       - Task
 
-      Dependencies: 
+      ## Dependencies: 
       - Add here
 
-      Out of scope:
+      ## Out of scope:
       - Add here
 
-      Open questions:
+      ## Open questions:
       - Add here
 
-      Designs and Build Notes:
+      ## Designs and Build Notes:
       - Add here  
 
-      Acceptance Criteria:
+      ## Acceptance Criteria:
       - AC
       - AC
       - AC
 
-      Outcome, Success Measure, KPI(S), and Tracking Link:
+      ## Outcome, Success Measure, KPI(S), and Tracking Link:
       - Add here
 
-      Enablement team (if needed):
+      ## Enablement team (if needed):
       - member of team
 
-      Definition of Done:
+      ## Definition of Done:
 
       - Meets acceptance criteria
       - Passed E2E testing (90% coverage)
