@@ -17,9 +17,7 @@ body:
     label: Background Context
     description: What's the context?
     placeholder: Add here
-
-
-Background Context: 
+- Background Context: 
 - Add here
 
 Tasks:
