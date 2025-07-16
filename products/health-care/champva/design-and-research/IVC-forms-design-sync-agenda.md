@@ -9,8 +9,44 @@ Attendees: Renata Keck, Rachel Pope, Amanda Klausmeier, Premal Shah, Mike Mooney
 - Review low lift updates to [reduce 1010d duplicates](https://www.figma.com/design/UmAtr3ULQEInMXfNFwP0g0/Application-for-CHAMPVA?node-id=7758-98392&p=f&t=JE45XOYt1NyhECh8-0)
 - Review Claims Correspondence Desk Research [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1751577567257/99e597037c5d3823e3f39913ca6b6cf4927b4f99)
 
-
 ### Notes
+
+**UX Roadmap:** Reminder to ping Amanda in the ticket for the claims research plan
+
+**Share updates to the claims LLM mocks**
+  * Rachel left in a message about uploads taking a moment
+  * Reviewed alerts on resubmission flow specifically identifying the document type and warning users to upload other supporting docs if needed
+  * Amanda says it looks fine to go to testing, will iterate after we get user feedback
+
+**Review low lift updates to reduce 1010D duplicates**
+* **Goal:** to alleviate some of the duplicates coming through for the 1010d
+   * **Option 1:** Add a screener question on CHAMPVA application forms status, and if they've already applied, do not let users continue advancing through the form
+        * Premal asks about when you have updates to an existing application (like adding a new dependent). Which form do you submit?
+        * Jamie seems to recall that users have to fill out the 1010D again in those instances. 
+        * Premal asks us to consider that update use case in the screener question
+        	* Important to provide info so users don't have to call
+        * Amanda says maybe we need this question to be broader and just "have you applied to CHAMPVA before?"
+    * **Option 2:** Info alert on intro page
+        * This would take you to a new informational page with "Your CHAMPVA form status"
+         * Where would the gray box with the number of days in the backlog sit?
+         	* Somewhere on the "how to apply for CHAMPVA benefits" page.
+        * Amanda prefers this option, Premal says will defer to UX preference
+        	* Everyone will see the alert info - on a page everyone will have to go through
+       		* Notes that CHAMPVA does not have the support on the backend for something like the 10-10EZR for minor updates
+        	* This is a lower lift for engineering vs. Option 1 (Screener) and a better level of friction. Screener options might confuse people
+         * **AI:** IVS UX team to take to content team to refine the content. C/IA should prioritize. 
+       
+
+**Review Claims Correspondence Desk Research Mural**
+ * Jamie's walk through of the Mural:
+ 	* Most claims info is online - difficult to find a letter for comparison
+  	* Mentions that a claims tracker tool (Chrome browser extension), created by a Veteran, is a tool that a lot of Veterans use 
+  	* These claims letters come through the (lighthouse?) API.
+  * Amanda can provide a sample of a decision letter (not a send back)
+  * Jamie's curious about denial letters and how that's communicated
+  * Premal wanted this, specifically the claims letters and EOBs to compare against what CHAMPVA letters currently provide, that way we can build the business case to show what's needed/missing. We're also considering how to make this actionable in a status tracker/claims tool
+   	* Does not need to be presented to stakeholders at this point
+  * **AI:** pull user feedback from 1010D/OHI usability study (not urgent, can pull that by end of the week/next week) related to claims statuses and tracking, share with Amanda/Premal as part of larger efforts
 
 ## July 7 2025
 Attendees: Renata Keck, Rachel Pope, Amanda Klausmeier, Premal Shah, Mike Mooney, Jamie Fiore, Alyssa Li 
