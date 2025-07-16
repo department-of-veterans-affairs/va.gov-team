@@ -100,3 +100,33 @@ dashboard". Select a dashboard and the visual will be added. Within the dashboar
 like and format it to fit the dashboard. 
 
 ![Pin to dashboard UI](https://github.com/department-of-veterans-affairs/va.gov-team/blob/1ebf69d6b5d30afd592718bc377e9788dcbb5c48/products/va-mobile-app/analytics/New%20Report%20Template/pintodashboard.png)
+
+## Creating a Screen View Report
+
+Here we will walk through creating a semantic model and visualization fora common use case of the number of times a screen is viewed over time.
+
+### Creating the Query
+
+1. Use the Get Data menu to begin a new GA query and navigate to va-mobile
+2. Select date and unifiedScreenName dimensions and the screenPageViews measure
+3. Select Transform Data to bring up the query editor
+4. Filter unifiedScreenName by the name of the screen you wish to track
+
+![Query screen name filter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/5cdbe686e768f5a96dae800f9f03127b0be06380/products/va-mobile-app/analytics/New%20Report%20Template/5_1query.png)
+
+5. You should now see a model representing a page view count for each date for the filtered screen. Enter an appropriate name in the query settings panel and save
+   
+![Table showing results of screen name query](https://github.com/department-of-veterans-affairs/va.gov-team/blob/5cdbe686e768f5a96dae800f9f03127b0be06380/products/va-mobile-app/analytics/New%20Report%20Template/5_2model.png)
+
+* Note - When creating multiple reports, you may be able to expand the filter to an existing query to include the desired screen rather than creating a new query for every screen reported
+
+### Create the Visualization
+
+1. On a blank page in the report, select Line Chart from the visualizations panel
+2. Drag date from the data panel to the X-axis section in visualizations and select date from the right click menu instead of Date Heirarchy
+3. Drag screenPageViews to the Y-axis
+4. If using a shared model, add a filter to the page to isolate the unifiedScreenName being reported on
+5. Add any other filters to date to isolate the desired time frame
+
+![Visualized Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/5cdbe686e768f5a96dae800f9f03127b0be06380/products/va-mobile-app/analytics/New%20Report%20Template/5_3viewsovertime.png)
+
