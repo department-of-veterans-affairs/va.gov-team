@@ -8,13 +8,13 @@ The Sign in Service was created to solve the shortcomings identified with the cu
 
 #### Postman Collection
 
-The VA.gov Identity team maintains a [Postman collection](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Product%20Documentation/va_identity_postman.json) to enable developers to more easily test against SiS routes. Documentation on how to use the SiS Postman collection can be found [here](postman.md).
+The VA.gov Identity team maintains a [Postman collection](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Documentation/Development/postman/collections/main/va.gov_identity.postman_collection.json) to enable developers to more easily test against SiS routes. Documentation on how to use the SiS Postman collection can be found [here](/products/identity/Products/identity_postman.md).
 
 #### SiS Quickstart
 
 * Make sure your local installation of [vets-api](https://github.com/department-of-veterans-affairs/vets-api) and [vets-api-mockdata](https://github.com/department-of-veterans-affairs/vets-api-mockdata) repository are up to date.
 * Decide which of the [four authorization flows supported by SiS](#authorization-flows) your client will implement.
-* Register a [Client Config](configuration/client_config.md) with `vets-api` to manage your client's specific configuration. If you are implementing the [Service Account](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs/Authentication%20Types/Service%20Account%20Auth%20(STS)) auth flow you will need to create a [Service Account configuration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs/Authentication%20Types/Service%20Account%20Auth%20(STS)/configuration/service_account.md) instead.
+* Register a [Client Config](Authentication%20Types/Client%20Auth%20(User)/configuration/client_config.md) with `vets-api` to manage your client's specific configuration. If you are implementing the [Service Account](Authentication%20Types/Service%20Account%20Auth%20(STS)) auth flow you will need to create a [Service Account configuration](Authentication%20Types/Service%20Account%20Auth%20(STS)/configuration/service_account.md) instead.
 * Build your client's integration with SiS according to the specifications of the auth flow you have chosen.
 * Once you have your SiS integration working locally, or if you are encountering issues, you can contact the Identity team on the [`#vsp-identity`](https://dsva.slack.com/archives/CSFV4QTKN) Slack channel.
 
@@ -36,13 +36,13 @@ Sign in Service is also configured to handle two types of backend authorization:
 
 * [Private Key JWT](Authentication%20Types/Client%20Auth%20(User)/auth_flows/private_key_jwt.md): This flow allows a backend API unconnected to the original `/authorize` request to complete auth and obtain tokens by passing a JWT signed by their pre-registered private key, essentially allowing a different client to complete the user's auth from the one that initiated it.
 
-* [Service Account Auth](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs/Authentication%20Types/Service%20Account%20Auth%20(STS)/README.md): This flow allows APIs to register a `Service Account` with which to request a special backend-authentication access_token; this flow is not a replacement for the regular end-user PKCE flow.
+* [Service Account Auth](Authentication%20Types/Service%20Account%20Auth%20(STS)/README.md): This flow allows APIs to register a `Service Account` with which to request a special backend-authentication access_token; this flow is not a replacement for the regular end-user PKCE flow.
 
 ## Client Configuration & Service Account
 
-In order to make use of the PKCE and JWT auth flows clients must register a `Client Configuration`. This database object is used by SiS to manage the client's authentication type, URI redirects, token durations, and other configurable options. More information on how to create and configure your application's Client Configuration [can be found here](configuration/client_config.md).
+In order to make use of the PKCE and JWT auth flows clients must register a `Client Configuration`. This database object is used by SiS to manage the client's authentication type, URI redirects, token durations, and other configurable options. More information on how to create and configure your application's Client Configuration [can be found here](Authentication%20Types/Client%20Auth%20(User)/rconfiguration/client_config.md).
 
-Service Account auth, being API-to-API instead of an end user authentication flow, uses `Service Account` objects to achieve similar configuration options. Information on creating a Service Account configuration [can be found here](configuration/service_account.md).
+Service Account auth, being API-to-API instead of an end user authentication flow, uses `Service Account` objects to achieve similar configuration options. Information on creating a Service Account configuration [can be found here](Authentication%20Types/Service%20Account%20Auth%20(STS)/configuration/service_account.md).
 
 ## Example PKCE Workflow
 
@@ -95,10 +95,9 @@ Most clients will find either the cookie or API PKCE flows to be appropriate to 
 
 ## Endpoints
 
-* [`/authorize` - Authorize](endpoints/authorize.md)
-* [`/token` - Token](endpoints/token.md)
-* [`/refresh` - Refresh](endpoints/refresh.md)
-* [`/introspect` - Introspect](endpoints/introspect.md)
-* [`/logout` - Logout](endpoints/logout.md)
-* [`/revoke` - Revoke (current session)](endpoints/revoke.md)
-* [`/revoke_all` - Revoke all sessions](endpoints/revoke_all.md)
+* [`/authorize` - Authorize](Authentication%20Types/Client%20Auth%20(User)/endpoints/authorize.md)
+* [`/token` - Token](Authentication%20Types/Client%20Auth%20(User)/endpoints/token.md)
+* [`/refresh` - Refresh](Authentication%20Types/Client%20Auth%20(User)/endpoints/refresh.md)
+* [`/logout` - Logout](Authentication%20Types/Client%20Auth%20(User)/endpoints/logout.md)
+* [`/revoke` - Revoke (current session)](Authentication%20Types/Client%20Auth%20(User)/endpoints/revoke.md)
+* [`/revoke_all` - Revoke all sessions](Authentication%20Types/Client%20Auth%20(User)/endpoints/revoke_all_sessions.md)
