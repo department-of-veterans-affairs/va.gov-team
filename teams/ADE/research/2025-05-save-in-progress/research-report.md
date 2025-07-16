@@ -34,7 +34,7 @@ Veterans may fill out web forms on VA.gov throughout their lives, including ALL 
 
 #### Figure 1
 
-<img src="./images/2-a11y-issues.png" width="50%" height="50%">
+<img src="./images/2-a11y-issues.png" width="50%" height="50%" alt="This is an example of a form question with a Continue button below it. Below the button is a green informational box that says 'Your request has been saved. We saved it on April 30, 2025, at 5:15 p.m. PDT. Your request ID number is 44849.'">
 
 ### Revised design
 
@@ -62,21 +62,21 @@ In addition, user feedback collected on "finish this request later", error messa
 
 ## Research Questions
 
-**Research goal 1: Learn about Veterans' expectations for saving information while filling out an online form before submitting it.**
+### Research goal 1: Learn about Veterans' expectations for saving information while filling out an online form before submitting it.
 1. What experiences have Veterans had around saving while filling out VA forms?
 1. What expectations do Veterans have about whether information will be saved while filling out an online form?
      1. What do Veterans expect to happen to their form data if they stop in the middle of filling out a form?
      1. What do Veterans expect to happen to their form data if they close the form page?
      1. How do Veterans expect to resume working on a form that they previously started filling out?
 
-**Research goal 2: Get user feedback on design revisions for "save in progress" and "finish this request later" that reduce redundant messaging around saving.**
+### Research goal 2: Get user feedback on design revisions for "save in progress" and "finish this request later" that reduce redundant messaging around saving.
 
 3. Do Veterans think that their form data is being saved? If so, how do they know?
 1. Are Veterans able to stop working on a form and return to it later? If so, how do they do it?
 1. Do Veterans notice the alert about saving on the form intro page?
 1. Do Veterans notice the text about saving on the first page of the form (below the progress stepper)?
 
-**Research goal 3: Get user feedback on error messages and the progress bar while filling out online forms.**
+### Research goal 3: Get user feedback on error messages and the progress bar while filling out online forms.
 
 7. What reactions do Veterans have to error messages? 
      1. Do they know what the errors mean, and how to resolve them?
@@ -146,7 +146,7 @@ For demographic details, see [Who we talked to](#who-we-talked-to).
 
 ## Details of Findings 
 
-**Finding 1: Most participants (9 of 11) didn't know that their information was being saved automatically with every edit.**
+### Finding 1: Most participants (9 of 11) didn't know that their information was being saved automatically with every edit.
 - 5 of 11 participants said that they wanted their information to be saved automatically with every edit.
   > *"I'm hoping it's saving constantly like [Microsoft] Word does every so many seconds" (p5)*.
 - Most participants hoped or assumed that saving would happen after they clicked the *Finish later* (9 participants) or *Continue* button (7 participants). 
@@ -163,7 +163,7 @@ For demographic details, see [Who we talked to](#who-we-talked-to).
 - Only one participant was confident that her information would be saved because of her experience filling out VA forms.
   > *"When I fill out forms on VA.gov...when you log back in or go back...it'll start you where you left off" (p4).*
 
-**Finding 2: Most participants didn't see the informational alerts about saving, and the few who did, didn't remember what they said**.
+### Finding 2: Most participants didn't see the informational alerts about saving, and the few who did, didn't remember what they said.
 
 - 7 of 11 participants didn't notice the informational alert on the authenticated form intro page, and 7 of 11 participants (including 6 of the previous 7) didn't notice it at the top of the first page of the form. When some of these participants were later shown the alert, they suggested making it easier to notice by making the text larger, red, or in a dialog box that you have to close.
 - 4 participants who read the informational alert on the intro page before starting the form didn't remember it by the end of the session when they were asked about saving. One of the participants commented aloud after reading the alert but didn't remember this later:
@@ -184,7 +184,7 @@ For demographic details, see [Who we talked to](#who-we-talked-to).
   > *[Everything in the header] "is garbage that will be on every page that I am not going to listen to. I will go to the top of the page and hit 'H'. If the page is laid out right, it will have an H1 and tell me where to start" (p1).*
 
 
-**Finding 3: ALL participants tried the *Finish later* button and from that learned that their information was saved**.
+### Finding 3: ALL participants tried the *Finish later* button and from that learned that their information was saved.
 - After the first time each participant clicked the *Finish later* button, they saw the "Your records request has been saved" message. Then when they returned to the form, they saw the information they had entered previously. This is how most participants learned that the *Finish later* button saved their information, and they (incorrectly) assumed that you had to click this button in order to save. 
   > *"I assume when it says 'Finish later', it does save what I've done so far. But that's an assumption...Okay, cool. It says that my personal record request has been saved" (p11).*
 
@@ -197,14 +197,14 @@ For demographic details, see [Who we talked to](#who-we-talked-to).
 - One participant (screen magnifier on desktop) clicked *Finish later* accidentally and thought he was going to lose information entered, but then noticed that the form saved his work. He then assumed that his information was being constantly saved (not only when you click *Finish later*). This was the ONLY participant who thought correctly that we're saving form data *all the time*, and it wasn't from seeing either information alert.
 - At the end of the session when the moderator showed a different participant (screen magnifier on desktop) the informational alert at the top of the first page of the form, he asked why *Finish later* is needed when we already said that it's saving everything. 
 
-**Finding 4: All participants were able to resume filling out the form after taking a short break and a long break**.
+### Finding 4: All participants were able to resume filling out the form after taking a short break and a long break.
 - Participants got interrupted twice by the moderator, and all were able to resume filling out the form during the sessions.
 - Most participants (9 of 11) clicked on the *Continue your request* button in the informational alert displayed after clicking *Finish later*.
 - 3 participants (including 2 of the 9 above) clicked on the *Continue your application* link on the "Application for personal records request" card at the bottom of the My VA page. 
 - 1 participant didn't use either of the above methods and instead just went back to their open browser window, which hadn't timed out. 
 - 3 participants noticed that they were returned to the *page before* the one that they had been on. This is because no information had been entered on the page they were on [a known issue], but they said that they would have preferred to come back to the actual (blank) page that they had been on last.
 
-**Finding 5: My VA had accessibility issues for screen magnifiers.**
+### Finding 5: My VA had accessibility issues for screen magnifiers.
 - One participant using a screen magnifier (on a Windows computer using the Edge browser and Microsoft Zoom Magnification at least 300%) asked why the **"Continue your application" link in the form request card on My VA was so much smaller than everything else on the card**. The link text didn't scale up like the text above it.
 <details><summary>Click to see a screenshot of the issue.</summary>
 <img src="./images/p13-MyVA-form-card-bottom.png" width="50%" height="50%">
@@ -215,7 +215,7 @@ For demographic details, see [Who we talked to](#who-we-talked-to).
 <img src="./images/p13-MyVA-Benefit-apps-no-forms.png" width="50%" height="50%">
 </details>
 
-**Finding 6: VA forms in general had accessibility issues for screen readers and screen magnifiers.**
+### Finding 6: VA forms in general had accessibility issues for screen readers and screen magnifiers.
 - Two screen reader users (VoiceOver on iOS with Safari) had **difficulty navigating while using Safari because focus kept jumping** to the top of the page or to the Safari controls below the page. p5 was unable to navigate the form and so switched to Chrome, where navigation worked normally. p4 was able to navigate the form well enough in Safari to fill it out.
   > *"A lot of the government websites are not working that great with Safari anymore, and...you need to use Google Chrome" (p5).*
 
@@ -244,7 +244,7 @@ For demographic details, see [Who we talked to](#who-we-talked-to).
     - Moved up and down with arrow keys on keyboard with his left hand. When he wanted to continue reading across the page, he moved the mouse sideways with his right hand, but *not* for every line. Skimmed down the page while not all the words across are in his view, and he assumed what it said--often accurately but sometimes not.
 
 
-**Finding 7: The Request Personal Records form had many accessibility issues for screen readers and screen magnifiers.**
+### Finding 7: The Request Personal Records form had many accessibility issues for screen readers and screen magnifiers.
 - Three participants (2 of whom were using screen readers) said that the signed-in version of the form intro page looks the same as the non-signed in version, except at the very bottom, which is disorienting and repetitive. The screen reader users had to listen to the entire intro page being read twice--once before signing in, and then again after signing in. One participant suggested that the "Sign in to start your request" link could bring you directly to the first question in the form (rather than to the authenticated version of the form intro page). 
 
 - A screen reader user expected to be able to click on one of the record types listed on the intro page, but they weren't clickable. 
@@ -294,7 +294,7 @@ For demographic details, see [Who we talked to](#who-we-talked-to).
 - Another screen reader user (JAWS on desktop) didn't expect the checkbox to be announced _after_ the "I certify..." line instead of before it.
     > *"It says, 'I certify'. Usually when something starts out with the words 'I certify', there's a checkbox there...You're telling me and then you're given my name, and then you put the actual box underneath of it, which is not typically what I'm used to...I had to listen to the whole thing to find out if that was a checkbox or not...cause it wouldn't have told me until the end" (p1).*
 
-**Finding 8: Most participants who encountered form errors understood how to resolve them, but there were some exceptions.** 
+### Finding 8: Most participants who encountered form errors understood how to resolve them, but there were some exceptions. 
 - 9 of 11 participants encountered errors while they were filling out the form, and most of them understood their meaning and what they needed to do to fix them.
    > *"Tells me where I screwed up" (p13).*
 
@@ -317,7 +317,7 @@ For demographic details, see [Who we talked to](#who-we-talked-to).
 
 - Only one participant said that they would prefer to be informed about errors differently--right after they leave a field, as opposed to after they click *Continue*, so they know right away where the problem is. They also said that it's not really an issue with this form because it's so short (and the individual pages are short).
 
-**Finding 9: Only half of the participants (6 of 11) mentioned the progress bar.** 
+### Finding 9: Only half of the participants (6 of 11) mentioned the progress bar. 
 - The screen reader users who navigated the form starting from the H1 on each page didn't know about the progress bar because they never heard it announced.
 - Four participants said that the step numbers are helpful so they know how close they are to being done.
    > *"Tells how far I'm in what I'm doing...and how much longer to fill out something" (p11).*
@@ -469,7 +469,7 @@ There are a number of findings that were outside the scope of the research goals
 
 [Prototype in a GitHub Codespace that needs to be started manually--CONTACT CINDY](https://musical-space-goggles-7wxj74rqgvpfv9v-3001.app.github.dev/records/request-personal-records-form-20-10206/introduction?loggedIn=false)
 
-#### Screenshots of the prototype (Codespace)
+### Screenshots of the prototype (Codespace)
 <details>
   <summary>Informational alert about saving on intro page (Click to show screenshot)</summary>
    <img src="./images/intro-pg-alert.png" width="75%" height="75%">
