@@ -1,0 +1,64 @@
+
+name: Disability Benefits Team Issue Template
+description: Issues for Disability Benefits Team 
+labels: ["disability", "disability-benefits", "needs-refinement"]
+projects: 
+- department-of-veterans-affairs/1660
+
+body:
+- type: textarea
+  attributes:
+    label: Value Statement 
+    description: Describe the story
+    placeholder: (As a) user type |
+      (I want to) job to be done |
+      (So that) desired outcome(s) 
+- type: markdown
+  attributes:
+    label: Background Context
+    description: What's the context?
+    placeholder: Add here
+
+
+Background Context: -Add Here
+
+- Add here
+
+Tasks:
+- Task
+- Task
+- Task
+
+Dependencies: 
+- Add here
+  
+Out of scope:
+- Add here
+
+Open questions:
+- Add here
+
+Designs and Build Notes:
+- Add here  
+
+Acceptance Criteria:
+- AC
+- AC
+- AC
+
+Outcome, Success Measure, KPI(S), and Tracking Link:
+- Add here
+
+Enablement team (if needed):
+- member of team
+
+Definition of Done:
+
+- Meets acceptance criteria
+- Passed E2E testing (90% coverage)
+- Passed unit testing (90% coverage)
+- Passed integration testing (if applicable)
+- Code reviewed (internal)
+- Submitted to staging
+- Team approved production verification process
+- Reviewed and approved by product and/or design
