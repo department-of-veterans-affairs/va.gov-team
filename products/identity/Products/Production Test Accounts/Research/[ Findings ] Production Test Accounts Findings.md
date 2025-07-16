@@ -1,7 +1,7 @@
 # Production Test Accounts Product Team Usage Patterns Research Findings
 
 ## Executive Summary
-*[Brief overview of key findings and recommendations - 2-3 paragraphs]*
+Based on the a few conversations with product teams across the VA, product teams heavily rely on production test accounts because staging environments lack critical integrations with VA ecosystem services like secure messaging and pharmacy functionality, making it impossible to properly test real-world workflows before production releases. Teams use these production test accounts for smoke testing, regression testing, usability validation, and load testing since lower environments don't accurately simulate production conditions or usage patterns. The reliance on production testing has become particularly acute with Oracle Health rollouts and the MHV to VA.gov transition, where testing integrations and user flows is nearly impossible outside of the production environment.
 
 ## Research Overview
 **Study Period:** July 2025 
@@ -41,98 +41,39 @@
 ## Validation of Hypotheses
 
 ### Hypothesis 1: Production test accounts are heavily relied upon
-**Status:** Confirmed
+**Status:** Confirmed  
 **Evidence:** As evidenced above, teams are limited in their ability to consistently test certain features in lower environments and leverage production test accounts for usability testing, load testing, feature validation and etc.
 
 ### Hypothesis 2: Environment inconsistencies create workflow friction
-**Status:** Confirmed
+**Status:** Confirmed  
 **Evidence:** Differences between staging and production make it extremely difficult for teams to validate how their features will perform prior to releasing to production.
 
 ### Hypothesis 3: Testing workflows vary significantly across teams
-**Status:** Partially Confirmed 
+**Status:** Partially Confirmed  
 **Evidence:** There are industry standard practices that teams leverage but once teams release to production, their testing workflows differ depending upon their resources, relationships and protocols.
 
 ### Hypothesis 4: Current processes create confidence gaps
-**Status:** Partially confirmed  
+**Status:** Partially confirmed     
 **Evidence:** Testing in staging means that teams are not confident in how their features are performing.  However, access to PTAs has allowed teams to smoke test features and work with SMEs, field testers, Veterans to ensure their features are functioning as intended.
-
----
-
-## Detailed Findings by Research Question
-
-### Primary Questions
-
-#### How do developers and product managers currently use production test accounts?
-*[Detailed findings with specific examples and quotes]*
-
-#### What testing activities happen in staging vs. production?
-*[Breakdown of testing activities by environment]*
-
-#### What does the typical workflow look like?
-*[Detailed workflow mapping with variations]*
-
-### Secondary Questions
-
-#### What challenges exist in current testing workflows?
-*[Categorized list of pain points with severity/frequency]*
-
-#### How do teams coordinate testing activities?
-*[Coordination patterns and communication methods]*
-
-#### What features/scenarios are most difficult to test?
-*[Specific challenging scenarios with examples]*
-
-#### How confident do teams feel about feature quality?
-*[Confidence levels and factors affecting confidence]*
-
-#### What workarounds have teams developed?
-*[Unofficial processes and creative solutions]*
 
 ---
 
 ## Pain Points and Opportunities
 
 ### Critical Pain Points
-1. **[Pain Point 1]**
-   - Impact: *[Description of impact]*
-   - Affected Teams: *[Which teams experience this]*
-   - Frequency: *[How often this occurs]*
+1. **Inconsistencies in which services exist in which environments leads to a staging/pre-prod environment that isn't reflective of a production environment.**
 
-2. **[Pain Point 2]**
-   - Impact: *[Description of impact]*
-   - Affected Teams: *[Which teams experience this]*
-   - Frequency: *[How often this occurs]*
-
-### Improvement Opportunities
-1. **[Opportunity 1]**
-   - Potential Impact: *[Expected benefits]*
-   - Implementation Complexity: *[Low/Medium/High]*
-   - Teams Interested: *[Which teams would benefit]*
-
-2. **[Opportunity 2]**
-   - Potential Impact: *[Expected benefits]*
-   - Implementation Complexity: *[Low/Medium/High]*
-   - Teams Interested: *[Which teams would benefit]*
+2. **Testing the transition to Oracle Health is difficult outside of production.**
+   
+3. **Testing the transition from MHV to VA.gov is also difficult to simulate outside of a production environment.**
+   
 
 ---
 
 ## Recommendations
-1. *[Specific actionable recommendation]*
-2. *[Specific actionable recommendation]*
-
----
-
-## Supporting Data
-
-### Participant Breakdown
-| Role | Team | Experience Level | Key Insights |
-|------|------|------------------|--------------|
-| *[Role]* | *[Team]* | *[Years]* | *[Brief insight]* |
-
-### Common Themes
-- **Theme 1:** *[Description and frequency]*
-- **Theme 2:** *[Description and frequency]*
-- **Theme 3:** *[Description and frequency]*
+1. Further conversations to understand Oracle Health requirements.
+2. Determine the pain points/needs for testing as applications are migrated over to VA.gov from MHV.
+3. Explore how we might enable more teams to complete usability testing through a process similar to OCTO's process.
 
 ---
 
