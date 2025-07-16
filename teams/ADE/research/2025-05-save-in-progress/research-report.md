@@ -28,7 +28,7 @@ Veterans may fill out web forms on VA.gov throughout their lives, including ALL 
 	
 1. While VA.gov users are signed in (authenticated) and filling out a form, the "save in progress" alert (see below with light green background) flashes on and then off with every field entry or edit. Because this alert displays *below* the Continue button, screen readers don't announce it, which is an accessibility issue. All users should have access to the same information about the user interface. ([Figure 1](#figure-1))
 
-2. There's a "Finish this request later" button that looks like a link ([Figure 2](#figure-2), which is another accessibility issue. Links that take you to another page should look like links, and buttons that do actions should look like buttons. 
+2. There's a "Finish this request later" button that looks like a link ([Figure 2](#figure-2)), which is another accessibility issue. Links that take you to another page should look like links, and buttons that do actions should look like buttons. 
 
 ### Figure 1
 
