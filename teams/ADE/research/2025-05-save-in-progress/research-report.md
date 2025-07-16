@@ -28,20 +28,25 @@ Veterans may fill out web forms on VA.gov throughout their lives, including ALL 
 
 ### Two accessibility issues
 	
-1. While VA.gov users are signed in (authenticated) and filling out a form, the "save in progress" alert (see below with light green background) flashes on and then off with every field entry or edit ([Figure 1 shows the alert with a light green background](#figure-1)). Because this alert displays *below* the Continue button, screen readers don't announce it, which is an accessibility issue. All users should have access to the same information about the user interface (per [WCAG 1.3.1](https://www.w3.org/WAI/WCAG21/Understanding/info-and-relationships.html)). 
+1. While VA.gov users are signed in (authenticated) and filling out a form, the "save in progress" alert flashes on and then off with every field entry or edit ([Figure 1 shows the alert with a light green background](#figure-1)). Because this alert displays *below* the Continue button, screen readers don't announce it, which is an accessibility issue. All users should have access to the same information about the user interface (per [WCAG 1.3.1](https://www.w3.org/WAI/WCAG21/Understanding/info-and-relationships.html)). 
 
 2. There's a "Finish this request later" button that looks like a link ([Figure 2](#figure-2)), which is another accessibility issue. Links that take you to another page should look like links, and buttons that do actions should look like buttons (per [VA Design System guidance](https://design.va.gov/components/link/#choose-the-right-element-buttons-vs-links)). 
 
 #### Figure 1
 
-<img src="./images/2-a11y-issues.png" width="50%" height="50%" alt="This is an example of a form question with a Continue button below it. Below the button is a green informational box that says 'Your request has been saved. We saved it on April 30, 2025, at 5:15 p.m. PDT. Your request ID number is 44849.'">
+<img src="./images/2-a11y-issues.png" width="50%" height="50%" alt="This is a sample form question followed by an underlined link that says 'Finish this request later' and then a Continue button. Below the Continue button is a green informational box that says 'Your request has been saved. We saved it on April 30, 2025, at 5:15 p.m. PDT. Your request ID number is 44849.'">
+
 
 ### Revised design
 
-We are testing a modification of the VA Design System [Header - Minimal component](https://design.va.gov/components/header/header-minimal), which is recommended for the design of new web forms. To address the above accessibility issues, we have removed the "save in progress" alert, as well as changed the "Finish this request later" button that looks like a link into looking like a button (see below). We believe that removing the "save in progress" alert will be OK because there is already text about saving on both the authenticated version of the form intro page and the first page of the form. One goal of this current research is to get user feedback on the revised design.
+We are testing a modification of the VA Design System [Header - Minimal component](https://design.va.gov/components/header/header-minimal), which is recommended for the design of new web forms. To address the above accessibility issues, we have made 2 changes:
+1. Removed the "save in progress" alert
+1. Changed the "Finish this request later" button that looks like a link into looking like a button ([Figure 2](#figure-2)). 
+
+We believe that removing the "save in progress" alert will be OK because there is already text about saving on both the authenticated version of the form intro page and the first page of the form. One goal of this current research is to obtain user feedback on the revised design.
 
 #### Figure 2
-<img src="./images/2-a11y-issues-fix.png" width="50%" height="50%">
+<img src="./images/2-a11y-issues-fix.png" width="50%" height="50%" alt="This shows the sample form question with 2 buttons below: white 'Finish later' button on the left, and blue 'Continue' button on the right. There is no green informational box.">
 
 ### Past research 
 
@@ -54,9 +59,9 @@ The **goals of this research** were to
 1. (primary) Get user feedback on design revisions for "save in progress" and "finish this request later" that reduce redundant messaging around saving.
 1. (secondary) Get user feedback on error messages and the progress bar while filling out online forms.
 
-Findings and recommendations from this research will **inform guidance and documentation for the "save in progress" feature** for authenticated users filling out forms on VA.gov. Matt Dingee asked ADE to help with this because some VFS teams are innovating new designs, whereas "save in progress" should be a standard pattern used by all teams for consistency across VA.gov.
+Findings and recommendations from this research will **inform guidance and documentation for the "save in progress" feature** for authenticated users filling out forms on VA.gov. Matt Dingee asked ADE to assist with this because some VFS teams are innovating new designs, whereas "save in progress" should be a standard pattern used by all teams for consistency across VA.gov.
 
-In addition, user feedback collected on "finish this request later", error messages, and the progress bar will be helpful to accessibility specialists advising VFS teams.
+In addition, user feedback collected about "finish this request later", error messages, and the progress bar will be helpful to accessibility specialists advising VFS teams.
 
 
 
