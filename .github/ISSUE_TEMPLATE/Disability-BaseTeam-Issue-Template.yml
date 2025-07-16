@@ -13,7 +13,7 @@ body:
     placeholder: (As a) user type |
       (I want to) job to be done |
       (So that) desired outcome(s) 
-- type: markdown
+- type: textarea
   attributes:
     label: Background Context
     description: What's the context?
