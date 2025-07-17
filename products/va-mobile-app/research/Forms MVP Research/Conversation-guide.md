@@ -135,7 +135,7 @@ We can help guide you through this if you need help. Please say what you're doin
 
 ## Task 00: Open prototype
 **for iOS users:** 
-I will *[email/text/dictate/put into the Zoom chat]* the URL: that takes you to download the testing app **place url here** --
+I will *[email/text/dictate/put into the Zoom chat]* the URL: that takes you to download the testing app **[place url here](https://testflight.apple.com/join/RrO0Cw2q)** --
 - *(If asked, reassure that this is a legitimate link to what I want you to test)*
 
 Did you get the link? 
@@ -144,6 +144,8 @@ Did you get the link?
 - *If prototype doesn't open, copy the URL and open in a new incognito window (Chrome), private window (Firefox, Safari) or InPrivate (Edge)*
 
 Please click the (green) "Continue" button.
+
+
 **for Android users:** 
 You will receive an email invite to the email you supplied us to download the testing app. Please navigate to your email and select that link now.
 
@@ -155,7 +157,7 @@ You will receive an email invite to the email you supplied us to download the te
 
 I'd like you to take a look at this screen, and login. The system will automatically generate a test user login for you and assume credentials. 
 
-As we go through the steps in this study, please talk aloud about what you're thinking BEFORE clicking on anything. And please share any thoughts, reactions, or questions you have about the current screen.
+As we go through the steps in this study, please talk aloud about what you're thinking BEFORE clicking on anything. And please share any thoughts, reactions, or questions you have about the current screen. 
 
 [Sign in using the 'Sign in' button on your screen > Once logged in you will see some initial app instructions, select "Skip" at the bottom-right of your screen > For the notification screen select "Not now".]
 
