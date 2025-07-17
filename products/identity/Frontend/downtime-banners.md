@@ -10,7 +10,6 @@
         - [ID.me](#idme)
         - [Login.gov](#logingov)
         - [DS Logon](#dslogon)
-        - [My HealtheVet](#mhv)
         - [SSOe](#ssoe)
         - [MPI/MVI](#mpi)
         - [Multiple services](#multiple-services)
@@ -84,14 +83,6 @@ Thresholds are determined in Datadog and are connected to PagerDuty.
 | You may have trouble siging in with DS Logon | Warning | You may have trouble siging in with Login.gov | Warning | We’re sorry. We’re working to fix some problems with our DS Logon sign in process. If you’d like to sign in to VA.gov with your DS Logon account, please check back later. |
 
 ![dslogon](https://github.com/department-of-veterans-affairs/va.gov-team/assets/67602137/c475c3a6-3b18-44f0-a4be-16b4fa54f07f)
-
-<a id="mhv"></a>
-### My HealheVet (MHV)
-| Title | Alert type | Content |
-| --- | --- | --- |
-| You may have trouble siging in with My HealtheVet | Warning |You may have trouble siging in with Login.gov | Warning | We’re sorry. We’re working to fix some problems with our My HealtheVet sign in process. If you’d like to sign in to VA.gov with your My HealtheVet account, please check back later. |
-
-![mhv](https://github.com/department-of-veterans-affairs/va.gov-team/assets/67602137/8cf1f881-518e-4cfe-88d3-ca521d57b3de)
 
 ### SSOe
 | Title | Alert type | Content |
