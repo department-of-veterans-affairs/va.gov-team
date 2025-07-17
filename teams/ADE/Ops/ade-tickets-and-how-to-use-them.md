@@ -213,33 +213,78 @@ Sometimes refered to as tags. These allow for ADE to 'tag' which discipline need
 
 <details><summary>Expand to view ADE labels.</summary>
 
-- **ADE** (**required** for all ADE tickets)
-- **ADE Labels: General**
-    - **ADE Intake** (present on all intake tickets)
-    - **ADE Office Hours** (to track office hours requests)
-    - **ADE MHV** (any ADE support provided to MHV work)
-    - **ADE Research** (required for all ADE research tickets)
-        - **ADE Research Feedback** (for tracking feedback/findings provided to VFS teams)
-        - **ADE Internal Research** (research conducted by ADE initiated by OCTO and/or ADE)
-    - **ADE Transition** (internal label for transition from CAIA)
-- **Collaboration Cycle ADE Labels**
-    - **ADE CC AN** (assistance needed for collab cycle work)
-        - **The stage ADE began work with the VFS team going through the collaboration cycle:**
-            - **ADE CC - PO Sync** (kickoff/po sync)
-            - **ADE CC - DI** (design intent)
-            - **ADE CC - MP** (midpoint)
-            - **ADE CC - STG** (staging)
-    - **ADE CC NAN** (no assistance needed with the collab cycle)
-- **508 Audit ADE Labels**
-    - **ADE 508 AUDIT** (present on any 508-related tickets)
-        - **ADE 508 AN** (assistance needed for 508 audit work)
-            - **ADE 508 FLAG CRITICAL** (A VA 508 Office Audit item, with a "Critical" flag level, per the 508 Office.)
-            - **ADE 508 FLAG HIGH** (A VA 508 Office Audit item, with a "High" flag level, per the 508 Office.)
-            - **ADE 508 FLAG MEDIUM** (A VA 508 Office Audit item, with a "Medium" flag level, per the 508 Office.)
-            - **ADE 508 FLAG LOW** (A VA 508 Office Audit item, with a "Low" flag level, per the 508 Office.)
-            - **ADE 508 RECHECK** (Flagging the need to revisit a VA 508 Office Audit for updates on the findings and fixes completed by the VFS Team post ADE guidance.)
-    - **ADE 508 NAN** (assistance not needed with 508 audit work)
-    - **ADE 508 Objection** (indicates when ADE disagrees with and/or objects to a 508 audit finding)
+## ADE Team Labels - Categorized
+
+### General & Support Labels
+
+| Label Name | Description |
+|------------|-------------|
+| **ADE** | Accessibility Digital Experience Team (required for all ADE tickets)|
+| **ADE Intake** | Accessibility Digital Experience Intake Ticket (present on all intake tickets) |
+| **ADE MHV** | Accessibility Digital Experience Team MHV Support |
+| **ADE Mobile App Support** | Mobile App Support provided by the ADE team. |
+| **ADE Non-VFS** | Support provided by ADE to non VFS Teams |
+| **ADE Office Hours** | To be used when team participates in office hours. |
+| **ADE Training and Education** | ADE can provide training and resources on accessibility best practices and methodologies. |
+| **ADE Transition** | CAIA to ADE Transition Work |
+
+### Research Labels
+
+| Label Name | Description |
+|------------|-------------|
+| **ADE Internal Research** | Internal research initiatives created and moderated by ADE. |
+| **ADE Research** | Accessibility Digital Experience Team Assistive Technology Research Support |
+| **ADE Research AT Recruitment** | ADE assisting in defining recruitment criteria, along with screening questions. |
+| **ADE Research Convo Guide** | ADE assistance writing conversation guides. |
+| **ADE Research Feedback** | ADE documenting accessibility-related issues encountered. |
+| **ADE Research Pilot** | ADE simulating a participant using AT during a pilot session. |
+| **ADE Research Plan** | ADE assistance writing research plans. |
+| **ADE Research Prototypes** | ADE assistance building accessible prototypes. |
+| **ADE Research Tech Support** | ADE providing live, technical support during AT research sessions. |
+
+### 508 Labels
+
+| Label Name | Description |
+|------------|-------------|
+| **ADE 508 AN** | ADE 508 Assistance Needed |
+| **ADE 508 Audit** | Accessibility Digital Experience Team Reviewing a VA 508 Office Audit. |
+| **ADE 508 FLAG CRITICAL** | Accessibility Digital Experience Team Reviewing a VA 508 Office Audit. Flag level is per 508 Office. |
+| **ADE 508 FLAG HIGH** | Accessibility Digital Experience Team Reviewing a VA 508 Office Audit. Flag level is per 508 Office. |
+| **ADE 508 FLAG LOW** | Accessibility Digital Experience Team Reviewing a VA 508 Office Audit. Flag level is per 508 Office. |
+| **ADE 508 FLAG MEDIUM** | Accessibility Digital Experience Team Reviewing a VA 508 Office Audit. Flag level is per 508 Office. |
+| **ADE 508 NAN** | ADE 508 No Assistance Needed |
+| **ADE 508 Objection** | ADE flag for objecting views in regard to 508 audit findings. |
+| **ADE 508 PREP** | A review performed by ADE prior to a 508 audit. |
+| **ADE 508 RECHECK** | Accessibility Digital Experience Team Revisiting a VA 508 Office Audit for Updates on Findings. |
+
+### Audit & Assessment Labels
+
+| Label Name | Description |
+|------------|-------------|
+| **ADE Audit - Health Check** | Useful for older products implemented and released before certain standards were put into place. |
+| **ADE Audit (CodePen)** | Test with AT, review for accessibility best practices, and ensure experience standards are met. |
+| **ADE Audit (Codespaces)** | Test with AT, review for accessibility best practices, and ensure experience standards are met. |
+| **ADE Audit (Production)** | Test with AT, review for accessibility best practices, and ensure experience standards are met. |
+| **ADE Audit (Staging)** | Test with AT, review for accessibility best practices, and ensure experience standards are met. |
+| **ADE COTS Eval** | - |
+| **ADE Design Discovery** | Design discovery to ensure that accessibility considerations are being taken into account. |
+| **ADE PDF Audit** | Review PDF documents for accessibility, and advise on how to remediate any issues found. |
+| **ADE Spot Checks (General Guidance)** | Category for general, off-the-cuff questions, addressed by ADE. We welcome ALL questions! |
+| **ADE Test Planning** | Develop a testing plan for design and development to continually ensure a product is accessible. |
+| **ADE Wireframe/Mockup Review** | Review static wireframes or interactive prototypes and advise on accessibility annotations. |
+
+### Collaboration Cycle Labels
+
+| Label Name | Description |
+|------------|-------------|
+| **ADE CC - DI** | ADE Collab Cycle Assistance - Design Intent Stage |
+| **ADE CC - MP** | ADE Collab Cycle Assistance - Midpoint Review Stage |
+| **ADE CC - PO Sync** | ADE Collab Cycle Assistance - PO Sync Stage |
+| **ADE CC - STG** | ADE Collab Cycle Assistance - Staging Review Stage |
+| **ADE CC AN** | ADE Collab Cycle Assistance Needed |
+| **ADE CC NAN** | ADE Collab Cycle No Assistance Needed |
+
+
 
  </details>
 
