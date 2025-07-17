@@ -5,7 +5,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Accessibility Digital Experience (ADE)**
 
-**Date:** 07/16/2025
+**Date:** 07/17/2025
 
 **Contacts:** Cindy Merrill
 
@@ -288,6 +288,9 @@ Figure 5 shows 3 horizontal gray bars labeled 'Your contact information', 'Recor
 
 - One participant using a screen magnifier (Microsoft Zoom Magnification at least 300% on a Windows computer with Edge browser) checked "I live on a United States military base outside of the U.S." and then didn't understand why he being asked for APO/FPO/DPO and got stuck. He had seen "I live on a United States" and thought that applied to him. He had no idea that the rest of the statement said "military base" because that was not in his view and he didn't scroll to the right. 
 <details><summary>Expand for a screenshot of the issue in Figure 6.</summary>
+
+Figure 6 shows a selected checkbox that says 'I live on a United States mil' on the first line and 'base outside of the U.S.' on the second line.
+
 <img src="./images/p13-military-base-checkbox-checked.png" width="50%" height="50%">
 </details>
 
@@ -303,8 +306,11 @@ Figure 5 shows 3 horizontal gray bars labeled 'Your contact information', 'Recor
      1. "I certify the information above is correct and true to the best of my knowledge and belief."  -- *Read while focus is in the name field*
      1. "I certify the information above is correct and true to the best of my knowledge and belief." -- ***Repeated again** when focus is on this line*
         > *"I heard it about 4 times there...I'm not sure why they put it both before and after my name...That's the kind of thing that causes me to rush through the repeats and maybe miss something. If something is only present once, then I have a much better chance of paying attention to it" (p3).*
-<details><summary>Expand for a screenshot of the issue in Figure 7.</summary>
-<img src="./images/form-pg9-statement-of-truth.png" width="50%" height="50%">
+<details><summary>Expand for a screenshot of the issue in [Figure 7](#figure-7).</summary>
+
+#### Figure 7
+
+<img src="./images/form-pg9-statement-of-truth.png" width="50%" height="50%" alt=Screen begins with a note about criminal penalties for withholding information or providing incorrect information. Just below that says 'Statement of truth' in large bold letters. Below that is 'I confirm that the identifying information in this form is accurate and has been represented correctly' and then 'I have read and accept the privacy policy'. Below that is a required field titled 'Your full name', followed by an unselected required checkbox that says 'I certify the information above is correct and true to the best of my knowledge and belief.'">
 </details>
         
 - Another screen reader user (JAWS on desktop) didn't expect the checkbox to be announced _after_ the "I certify..." line instead of before it.
@@ -365,7 +371,10 @@ There are a number of findings that were outside the scope of the research goals
       > *"I'm looking for the least amount of work I have to do every single time" (p10).*
       1. On the intro page, seeing the "Freedom of Information Act (FOIA)" right underneath the name of the form on the intro page was confusing because it was unclear what the connection is. They expected to see something about the specific form, such as its name, which was at the end of that line. 
      
-<details><summary>Expand for a screenshot of the issue in Figure 9.</summary>
+<details><summary>Expand for a screenshot of the issue in Figure 8.</summary>
+
+Figure 8 shows 
+
 <img src="./images/Intro-pg-unauth-top-h1.png" width="50%" height="50%">
 </details>
 
