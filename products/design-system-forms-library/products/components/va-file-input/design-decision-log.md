@@ -1,33 +1,29 @@
 # va-file-input Design Decisions
-Last updated: [DATE]
+Last updated: 07/17/2025
 
-- [ADR: XXX - DECISION LABEL](#ADR-XXX---Decision-Label)
-- [ADR: XXX - DECISION LABEL](#ADR-XXX---Decision-Label)
-- [ADR: XXX - DECISION LABEL](#ADR-XXX---Decision-Label)
+- [ADR 001 - Limiting the built-in functionality for encrypted and password-protected files](#ADR-001---Limiting-the-built-in-functionality-for-encrypted-and-password-protected-files)
 
 
-## ADR XXX - Decision Label
-_Copy an ADR section for each decision made_
+## ADR 001 - Limiting the built-in functionality for encrypted and password protected files
 
-### Status: [STATUS]
-_Describe the status of the decision. Options are "proposed", "accepted", "rejected", "deprecated", "superseded"._
+### Status: Proposed
 
-- Date issue raised: [DATE]
-- Decision date: [DATE]
+- Date issue raised: 07/17/2025
+- Decision date: 07/17/2025
 
 ### Context
-_Describe the context and problem statement, including any forces influencing the decision._
-
+Teams wanting to implement the `va-file-input` web component often need support for encrypted and password protected files. However, the current implementation of `va-file-input` does not determine if a file is encrypted nor does it decrypt the file. This has been a surprise for some teams who expected an all-in-one solution.
 
 ### Decision
-_Describe the change we are proposing/doing._
+The `va-file-input` web component will support setting the `encypted` parameter to `true` when the user needs to supply a password. This will display a password field. This password can be retrieved through the `vaPasswordChange` event. All additional functionality related to decrypting the file or using the provided password will need to be handled by the individual team.
 
+This decision has been made because of a philisophical approach to building web components that strives to keep the web component as "dry" as possible and to decouple business requirements from the standardized UI. Each team will have a different approach and use case for how they need to handle encrypted and password protected files and the web component should not try to create a single solution for all of those situations. Our team has performed research that revealed there are many unique ways to handle encryption, which reinforces the previous notion. Additionally, the majority of the file related logic should live server side, which is where the file will likely be stored and processed.
+
+We will provide some standardized functions that live in `vets-website`, primarily for usage in forms, that give a basic implementation of how to handle encryption and password protected files.
 
 
 ### Consequences
-_Describe the consequences of the decision. This could include positive and negative impacts, as well as any risks and how they will be mitigated._
-
+Teams will most likely need to create their own solutions for handling encrypted and password protected files beyond the UI. However, as previously mentioned, we will provide some functionality in `vets-website`.
 
 
 ### Open Questions
-_Include any open questions that may still be lingering_
