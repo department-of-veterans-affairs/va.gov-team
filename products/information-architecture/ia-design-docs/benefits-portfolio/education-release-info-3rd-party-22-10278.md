@@ -16,7 +16,7 @@
 - [Page structure](#map)
 - [URLs and breadcrumbs](#url)
 - [Entry points](#nav)
-- [Redirets](#redirects)
+- [Redirects](#redirects)
 - [Search best bets](#bestbets)
 - [Launch coordination activities](#launch)
 
