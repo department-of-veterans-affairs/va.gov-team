@@ -236,6 +236,7 @@ Figure 4 shows a large heading that says 'Benefit applications' and nothing abou
 <details><summary>Expand for a screenshot of the issue in Figure 5.</summary>
 
 Figure 5 shows 3 horizontal gray bars labeled 'Your contact information', 'Records requested', and 'Additional information' with no indication of how to interact with them.
+
 <img src="./images/p13-review-accordions-wo-plus.png" width="50%" height="50%">
 </details>
 
