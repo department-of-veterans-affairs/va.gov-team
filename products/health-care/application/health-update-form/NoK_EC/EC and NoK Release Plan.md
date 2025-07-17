@@ -61,9 +61,8 @@ Before enabling your feature toggle in production, you'll need to:
 
 - Number of users:  4 Participants
 - Number of bugs identified / fixed: 
-  - [[FE] 10-10EZR - EC/NOK: Update feature toggle name to consolidate Frontend code] (https://github.com/orgs/department-of-veterans-affairs/projects/1433/views/37?pane=issue&itemId=120403639&issue=department-of-veterans-affairs%7Cva.gov-team%7C114695)
-  - [[BE] 10-10EZR - EC/NOK: Update feature toggle name to consolidate backend code] (https://github.com/orgs/department-of-veterans-affairs/projects/1433/views/37?pane=issue&itemId=120403491&issue=department-of-veterans-affairs%7Cva.gov-team%7C114693)
-
+   [FE] (https://github.com/department-of-veterans-affairs/va.gov-team/issues/114693)
+  [BE] (https://github.com/department-of-veterans-affairs/va.gov-team/issues/114693)
 - Was any downstream service affected by the change?: 
 - Any changes necessary based on the logs, feedback on user challenges, or VA challenges?
   - Initial tests resulted in no changes on VES as per UAT team
