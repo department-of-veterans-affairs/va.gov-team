@@ -497,13 +497,13 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
 
 ### Screenshots of the prototype (Codespace)
 <details>
-  <summary>Figure 9: Informational alert on the intro page about saving (Expand to show screenshot)</summary>
+  <summary>Figure 9: Informational alert about saving (Expand to show screenshot)</summary>
    <img src="./images/intro-pg-alert.png" width="75%" height="75%" alt="We'll save your request on every change. You can stop anytime, and come back later to finish.">
 
 </details>
 
 <details>
-  <summary>Figure 10: Intro page--not signed in (Expand to show screenshots)</summary>
+  <summary>Figure 10: Intro page--not signed in (Expand to show screenshot)</summary>
 
   Figure 10 explains what you need to know about the form, and prompts the user to sign in to start filling it out.
 
@@ -513,14 +513,40 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
 </details>
 
 <details>
-  <summary>Intro page--signed in (Expand to show screenshots)</summary>
+  <summary>Figure 11: Intro page--signed in (Expand to show screenshot)</summary>
+
+  Figure 11 resembles the not-signed-in intro page, except that the prompt to sign in has been replaced by an informational alert about saving and a "Start your request" link.
+  
    <img src="./images/Intro-pg-auth-top.png" width="75%" height="75%">
    <img src="./images/Intro-pg-auth-bottom.png" width="75%" height="75%">
 
 </details>
 
+The form we tested has 9 pages of questions, and each page has at the bottom a *Finish later* button on the left side and a *Continue* button on the right side.
+
 <details>
-  <summary>Form pages (Expand to show screenshots)</summary>
+  <summary>Figure 12: Form page 1 asks whether you are a U.S. citizen (Expand to show screenshot)</summary>
+   <img src="./images/form-pg1-alert&citizenship.png" width="75%" height="75%">
+</details>
+
+<details>
+  <summary>Figure 13: Form page 2 asks for your first name, middle initial, last name, date of birth (month, day, year), and place of birth (Expand to show screenshot)</summary>
+   <img src="./images/form-pg1-alert&citizenship.png" width="75%" height="75%">
+   <img src="./images/form-pg2-name&DOB.png" width="50%" height="50%">
+   <img src="./images/form-pg3-SSN&VAfile#.png" width="75%" height="75%">
+   <img src="./images/form-pg4-mailing-addr-top.png" width="75%" height="75%">
+   <img src="./images/form-pg4-mailing-addr-bottom.png" width="75%" height="75%">
+   <img src="./images/form-pg5-phone&email.png" width="75%" height="75%">
+   <img src="./images/form-pg6-records.png" width="75%" height="75%">
+   <img src="./images/form-pg7-additional-info.png" width="75%" height="75%">
+   <img src="./images/form-pg8-regional-office.png" width="75%" height="75%">
+   <img src="./images/form-pg9-review&submit.png" width="75%" height="75%">
+   <img src="./images/form-pg9-statement-of-truth.png" width="75%" height="75%">
+
+</details>
+
+<details>
+  <summary>Figure 12: Form pages (Expand to show screenshot)</summary>
    <img src="./images/form-pg1-alert&citizenship.png" width="75%" height="75%">
    <img src="./images/form-pg2-name&DOB.png" width="50%" height="50%">
    <img src="./images/form-pg3-SSN&VAfile#.png" width="75%" height="75%">
@@ -542,7 +568,7 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
 </details>
 
 <details>
-  <summary>My VA (Expand to show screenshots)</summary>
+  <summary>My VA (Expand to show screenshot)</summary>
    <img src="./images/MyVA-top.png" width="100%" height="100%">
    <img src="./images/MyVA-middle.png" width="100%" height="100%">
    <img src="./images/MyVA-bottom.png" width="100%" height="100%">
