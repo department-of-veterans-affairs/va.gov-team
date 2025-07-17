@@ -88,7 +88,7 @@ Analytics.
 
 Your report is now published to Power BI! There are now a few things you may want to do with your report:
 
-## Setup Refresh
+## Set Up Refresh
 By default, your report will look as you created it with the data in your model at the time of publish. To set up a 
 refresh and run this query from the service automatically, go to the "Data hub" tab, find your semantic model and 
 use the "Schedule Refresh" workflow to schedule a daily or weekly time to run the query.
