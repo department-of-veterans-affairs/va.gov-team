@@ -26,4 +26,4 @@
 
 ---
 
-<img width="500" alt="Screenshot 2025-07-17 at 2 13 43 PM" src="https://github.com/user-attachments/assets/6ee3eb56-9ffc-428d-938c-af00da048d0f" />
+<img width="1000" alt="Screenshot 2025-07-17 at 2 13 43 PM" src="https://github.com/user-attachments/assets/6ee3eb56-9ffc-428d-938c-af00da048d0f" />
