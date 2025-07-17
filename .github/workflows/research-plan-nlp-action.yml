@@ -6,7 +6,8 @@ on:
 permissions:
   contents: write
   pull-requests: write
-
+  actions: write 
+  
 jobs:
   update_research_plan:
     runs-on: ubuntu-latest
@@ -73,3 +74,4 @@ jobs:
             $(cat frontmatter_report.md)
             ````
           reviewers: sstrassberg
+          token: ${{ secrets.WORKFLOWS_PERMISSIONS }}
