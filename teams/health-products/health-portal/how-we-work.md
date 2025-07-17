@@ -25,7 +25,7 @@ We are all here because we want to improve the lives of Veterans.  To that end, 
 - Thread conversations to reduce noise in channels 🧵
 - A helpful practice for keeping channels uncluttered is to begin new threads with a short intro, then reply to your own thread to add details and collaborate.
 - When making a correction, it's common practice to strike through the original information and add the new information after the stricken text.
-- If an ongoing thread needs to be moved to a different channel, include a link back to the original conversation, and add a link from the original to the new, noting that the conversation has been moved.
+- If an ongoing thread needs to be moved to a different channel, cross-link the two threads.
 - If you're going to be out of office, update your status with the ❌ icon, along with an OOO note and the relevant dates.
 
 ### Email
