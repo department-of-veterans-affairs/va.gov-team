@@ -13,13 +13,13 @@
 
 **Jump to:**
 
-- [Hypotheses and conclusions](#hypotheses-and-conclusions)
-- [Key findings](#key-findings)
-- [Recommendations](#recommendations)
-- [Next Steps](#next-steps)
-- [Further research needed](#further-research-needed)
-- [Appendix (including screenshots of design prototype)](#appendix)
-- [Who we talked to](#who-we-talked-to)
+- [Hypotheses and conclusions](#user-content-hypotheses-and-conclusions)
+- [Key findings](#user-content-key-findings)
+- [Recommendations](#user-content-recommendations)
+- [Next Steps](#user-content-next-steps)
+- [Further research needed](#user-content-further-research-needed)
+- [Appendix (including screenshots of design prototype)](#user-content-appendix)
+- [Who we talked to](#user-content-who-we-talked-to)
 
 ## Research Goals
 Veterans may fill out web forms on VA.gov throughout their lives, including ALL stages of the Veteran Journey--Serving and separation, Living civilian life, and Retiring and aging. Saving in-progress work while filling out an online form is an interaction for which the current implementation on VA.gov has two known accessibility issues. This research was designed to collect user feedback on a revised design that has the potential to resolve both issues.
