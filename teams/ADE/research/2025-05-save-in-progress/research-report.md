@@ -535,6 +535,59 @@ The form we tested has 9 pages of questions, and each page has at the bottom a *
 </details>
 
 <details>
+  <summary>Figure 14: Form page 3 asks for your Social Security number and VA file number (Expand to show screenshot)</summary>
+   <img src="./images/form-pg3-SSN&VAfile#.png" width="75%" height="75%">
+ 
+</details>
+
+<details>
+  <summary>Figure 15: Form page 4 asks whether you live on a U.S. military base, and then for your Country, Street address, Apartment or unit number, City, State/Province/Region, and Postal code (Expand to show screenshot)</summary>
+   <img src="./images/form-pg4-mailing-addr-top.png" width="75%" height="75%">
+   <img src="./images/form-pg4-mailing-addr-bottom.png" width="75%" height="75%">
+</details>
+
+<details>
+  <summary>Figure 16: Form page 5 asks for your phone number and email (Expand to show screenshot)</summary>
+   <img src="./images/form-pg5-phone&email.png" width="75%" height="75%">
+ </details>
+
+<details>
+  <summary>Figure 17: Form page 6 is a list of checkboxes, one for each record that can be requested (Expand to show screenshot)</summary>
+   <img src="./images/form-pg6-records.png" width="75%" height="75%">
+</details>
+
+<details>
+  <summary>Figure 18: Form page 7 is an optional Additional records information field (Expand to show screenshot)</summary>
+   <img src="./images/form-pg7-additional-info.png" width="75%" height="75%">
+</details>
+
+<details>
+  <summary>Figure 19: Form page 8 asks if there is a VA regional office that you're associated with (Expand to show screenshot)</summary>
+   <img src="./images/form-pg8-regional-office.png" width="75%" height="75%">
+</details>
+
+<details>
+  <summary>Figure 20: Form page 9, which is the last page in the form, has expandable sections of form information at the top, and the bottom is a note about criminal penalties for withholding information, as well as a statement of truth that involves typing your full name and checking a box that you certify the information (Expand to show screenshot)</summary>
+   <img src="./images/form-pg9-review&submit.png" width="75%" height="75%">
+   <img src="./images/form-pg9-statement-of-truth.png" width="75%" height="75%">
+</details>
+
+<details>
+  <summary>Figure 12: Form pages (Expand to show screenshot)</summary>
+   <img src="./images/form-pg1-alert&citizenship.png" width="75%" height="75%">
+   <img src="./images/form-pg2-name&DOB.png" width="50%" height="50%">
+   <img src="./images/form-pg3-SSN&VAfile#.png" width="75%" height="75%">
+   <img src="./images/form-pg4-mailing-addr-top.png" width="75%" height="75%">
+   <img src="./images/form-pg4-mailing-addr-bottom.png" width="75%" height="75%">
+   <img src="./images/form-pg5-phone&email.png" width="75%" height="75%">
+   <img src="./images/form-pg6-records.png" width="75%" height="75%">
+   <img src="./images/form-pg7-additional-info.png" width="75%" height="75%">
+   <img src="./images/form-pg8-regional-office.png" width="75%" height="75%">
+   <img src="./images/form-pg9-review&submit.png" width="75%" height="75%">
+   <img src="./images/form-pg9-statement-of-truth.png" width="75%" height="75%">
+
+</details>
+<details>
   <summary>Figure 12: Form pages (Expand to show screenshot)</summary>
    <img src="./images/form-pg1-alert&citizenship.png" width="75%" height="75%">
    <img src="./images/form-pg2-name&DOB.png" width="50%" height="50%">
