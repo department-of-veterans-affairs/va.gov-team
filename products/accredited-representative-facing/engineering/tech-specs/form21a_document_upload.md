@@ -19,15 +19,15 @@ Form 21a is currently being developed from [this](https://www.va.gov/vaforms/va/
 2. Whats in scope?
     - Documents on the Form 21a are saved within vets-api.
     - Documents on the Form 21a are uploaded to the GCLAWS Documents API
-    - There are no silent failures.
-      - If a document upload fails we keep track of it and will retry it 2x.
-      - After failing 3x we will send an email to a user.
-      - We remove these attempted uploads from our system after a certain number of days.
     - Once a document on the Form 21a has been successfully uploaded to GCLAWS we remove the upload from the vets-api system.
 
 4. Areas that are out of scope:
    - We will not be showing that an upload failed on the Form 21a application.
    - We will not be showing that an upload failed on the Form 21a main page.
+   - There are no silent failures - will address in v5
+      - If a document upload fails we keep track of it and will retry it 2x.
+      - After failing 3x we will send an email to a user.
+      - We remove these attempted uploads from our system after a certain number of days.
 
 
 ## B. Solutions
@@ -61,12 +61,13 @@ Form 21a is currently being developed from [this](https://www.va.gov/vaforms/va/
     3. Pros:
     4. Cons:
     5. Questions:
-         1. How will we distinguish between the files
+         1. How will we distinguish between the files - We will need to take the file type from GCLAWS and pass it in from the frontend to the backend and have the backend store that 
          2. What will the frontend use to be able to call the backend to get the file id
     6. Tickets:
        *** NOTE: We will need to implement the below for each document upload within the form.
         1. Set up the document upload component using `fileInputUI` and `fileInputSchema` from `platform/forms-system`. Configure the upload field in `/src/applications/accreditation/21a/pages/helpers/backgroundInformationDetailsPageSchema.js`.
-        2. Connect vets-website to vets-api and make sure vets-website receives a document id 
+        2. Connect vets-website to vets-api, make sure it can send the doc type and make sure vets-website receives a confirmation code
+        3. We will need to update the schema file with 
 2. Proposed solution (vets-api):
     1. Summary:
        - Uploaded files are handled via the `FormAttachment` model.
@@ -96,7 +97,9 @@ Form 21a is currently being developed from [this](https://www.va.gov/vaforms/va/
     4. Cons:
     5. Tickets:
         1. Create a New Uploader: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/engineering/investigations/21a.md#1-create-a-new-uploader
-        2. 
+        2. Make sure GCLAWs returns an application id when we send the form 21a
+        3. Create a document uploads table
+        4. 
 3. Proposed solution (vets-api to GCLAWS):
     1. Summary:
     2. Investigation : [Link to Investigration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/engineering/investigations/21a.md)
