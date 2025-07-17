@@ -35,14 +35,14 @@ We will briefly discuss adding forms that are from either of the categories abov
 | Request to be a substitute claimant              | 21P-0847           |✅              |                            | ✅ |
 | Intent to File                                   | 21-0966            |❌              |❌                          | ✅ |
 | Statement in Support of Claimed Mental Health Disorder(s) Due to an In-Service Traumatic Event(s) | 21-0781 | ❌ |  | ❌ |
-| Application for Veterans Pension                 | 21P-527EZ          |❌              |                            | ✅ |
+| Application for Veterans Pension                 | 21P-527EZ          |❌              | ✅                         | ✅ |
 | Application for Burial Benefits                  | 21P-530EZ          |❌              |                            | ✅ |
 | Personalized Career Planning and Guidance/Chapter 36 | 27-8832        |❌              |                            | ❌ (typo? 28-8832) |
-| Application for Pre-Need Determination of Eligibility for Burial in a VA National Cemetery | VA40-10007 |❌ |       | ✅ |
-| Presidential Memorial Certificate Request Form   | 40-0247            |❌              |                            | ✅ |
-| Report of Income from Property or Business       | 21P-4185-UPLOAD    |❌              |                            | ✅ |
-| Election of Compensation in Lieu of Retired Pay<br/> or Waiver of Retired Pay to Secure Compensation<br/> from Department of Veterans Affairs (38 U.S.C. 5304(a)-5305)  | 21-651-UPLOAD |❌| | ✅ |
-| Application for Benefits for a Qualifying Veteran's Child Born with Disabilities | 21-0304-UPLOAD | ❌      |       | ✅ |
+| Application for Pre-Need Determination of Eligibility for Burial in a VA National Cemetery | VA40-10007 |❌ | ✅    | ✅ |
+| Presidential Memorial Certificate Request Form   | 40-0247            |❌              | ✅                         | ✅ |
+| Report of Income from Property or Business       | 21P-4185-UPLOAD    |❌              | ✅                         | ✅ |
+| Election of Compensation in Lieu of Retired Pay<br/> or Waiver of Retired Pay to Secure Compensation<br/>from Department of Veterans Affairs (38 U.S.C. 5304(a)-5305) | 21-651-UPLOAD |❌| ✅ | ✅ |
+| Application for Benefits for a Qualifying Veteran's Child Born with Disabilities | 21-0304-UPLOAD | ❌      | ✅    | ✅ |
 | Certification of School Attendance or Termination| 21-8960-UPLOAD     |❌              |                            | ✅ |
 | Court Appointed Fiduciary's Account              | 21P-4706c-UPLOAD   |❌              |                            | ✅ |
 | Employment Questionnaire                         | 21-4140-UPLOAD     |❌              |                            | ✅ |
@@ -52,7 +52,7 @@ We will briefly discuss adding forms that are from either of the categories abov
 | Notice of Waiver of VA Compensation or Pension to Receive Military Pay and Allowances | 21-8951-2-UPLOAD |❌      | | ✅ |
 | School Attendance Report                         | 21-674b-UPLOAD     |❌              |                            | ✅ |
 | Examination for Housebound Status or Permanent Need for Regular Aid and Attendance | 21-2680-UPLOAD |❌      |      | ✅ |
-| Request for Nursing Home Information in Connection with Claim for Aid and Attendance | 21-0779-UPLOAD | ❌   |      | ✅ |
+| Request for Nursing Home Information in Connection with Claim for Aid and Attendance | 21-0779-UPLOAD | ❌   | ✅   | ✅ |
 | Request for Employment Information in Connection with Claim for Disability Benefits | 21-4192-UPLOAD | ❌    |      | ✅ |
 | Statement of Dependency of Parent(s)             | 21-509-UPLOAD      |❌              |                            | ✅ |
 | Veteran's Application for Increased Compensation Based on Unemployability | 21-8940-UPLOAD | ❌              |      | ✅ |
