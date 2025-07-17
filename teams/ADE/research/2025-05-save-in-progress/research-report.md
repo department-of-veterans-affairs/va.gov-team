@@ -374,7 +374,7 @@ There are a number of findings that were outside the scope of the research goals
      
 <details><summary>Expand for a screenshot of the issue in Figure 8.</summary>
 
-Figure 8 shows 
+Figure 8 shows the top of the intro page with the heading "Request personal records". Immediately below that is text that says "Freedom of Information Act (FOIA) or Privacy Act (PA) Request (VA Form 20-10206)".
 
 <img src="./images/Intro-pg-unauth-top-h1.png" width="50%" height="50%">
 </details>
