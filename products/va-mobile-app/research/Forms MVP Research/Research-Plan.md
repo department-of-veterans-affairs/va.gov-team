@@ -182,7 +182,7 @@ If Android, pleae request their email where an invitation to the testing link wi
 - `Date and time of pilot session:` **[07/23, 3:00pm-7:00pm]** 
 
 ### Research sessions
-- `Planned dates of research:` **[07/28-07/31]**
+- `Planned dates of research:` **[07/28-08/1]**
 
 ### Length of sessions
 - `Session length: **60 minutes**
