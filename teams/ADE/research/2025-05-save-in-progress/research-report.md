@@ -221,7 +221,10 @@ Figure 3 shows the form card on My VA with large text that says 'Application exp
 </details>
 
 - This same screen magnifier user missed that the header "Benefit applications and forms" was relevant because he only saw the words "Benefit applications". He didn't see the word "forms" because it was to the right of the magnified portion of the page that he was looking at. 
-<details><summary>Click to see a screenshot of the issue.</summary>
+<details><summary>Expand for a screenshot of the issue in Figure 4.</summary>
+
+Figure 4 shows a large heading that says 'Benefit applications' and nothing about forms.
+
 <img src="./images/p13-MyVA-Benefit-apps-no-forms.png" width="50%" height="50%">
 </details>
 
