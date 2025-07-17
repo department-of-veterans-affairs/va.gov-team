@@ -2,8 +2,8 @@
 
 **Last updated: June 2025**
 
-- [User flow]
-- [Figma files](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=0-1&t=5dhgHTuWdYUMln4l-1)
+- [User flow](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=931-9736&t=XpeLUcvcZmicphy6-1)
+- [Figma files](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=918-3504&t=XpeLUcvcZmicphy6-1)
 - Test Rail QA
 
 <details><summary>Archive | How to reproduce in staging</summary>
@@ -37,7 +37,7 @@
 - **Use case:** For each section without information on file, i.e. a `null` value, the user will see the name of the section and prompt to edit their profile to add [section information]. Clicking the Edit button will put the section into an inline edit mode.
 - **Status code:** None
 - **Format:** See designs
-- REFERENCE [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=890-6189&t=G3wWRZVoO8OcGFyt-1)
+- REFERENCE [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=926-11992&t=XpeLUcvcZmicphy6-1)
 - **Content:** See designs
 
 </details>
@@ -49,8 +49,8 @@
 - **Status code:** None
 - **Format:** See designs
 - REFERENCE Links to designs
-   - [Preferred name](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=890-6189&t=5dhgHTuWdYUMln4l-1)
-   - [Messages signature](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=890-6189&t=5dhgHTuWdYUMln4l-1)
+   - [Preferred name](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=927-7211&t=XpeLUcvcZmicphy6-1)
+   - [Messages signature](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=930-4389&t=XpeLUcvcZmicphy6-1)
 - **Content:** See designs
 
 </details>
@@ -72,7 +72,7 @@
 - **Use case:** Changes are saved once the user presses the Save button. Once the form is successfully saved, the user is returned to read mode and a slim success alert should display below the section header.
 - **Status code:** 200
 - **Format:** [Slim success alert](https://design.va.gov/components/alert/#examples---slim-alert)
-- REFERENCE [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=890-6189&t=5dhgHTuWdYUMln4l-1)
+- REFERENCE [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=927-9728&t=XpeLUcvcZmicphy6-1)
 - **Content:** Update saved.
 
 </details>
@@ -84,7 +84,7 @@
    - Messages signature can be removed by clicking the remove button, which will trigger a modal prompting the user to confirm they want to remove their information.
 - **Status code:** None
 - **Format:** [Warning modal](https://design.va.gov/components/modal/#warning)
-- UNABLE TO TRIGGER [Link to designs]
+- UNABLE TO TRIGGER [N/A]
 - **Content:** TBD
 
 </details>
@@ -96,7 +96,7 @@
 	- If the field is correctly and completely filled out, or they hit cancel a second time, they'll see a modal warning message asking to confirm if they want to leave edit mode.
 - **Status code:** None
 - **Format:** [Warning modal](https://design.va.gov/components/modal/#warning)
-- REFERENCE [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=890-6189&t=5dhgHTuWdYUMln4l-1)
+- REFERENCE [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=931-9209&t=XpeLUcvcZmicphy6-1)
 - **Content:**
 
 Header: Cancel changes?
@@ -115,7 +115,7 @@ Secondary button: No, go back to editing
 - **Use case:** If a user attempts to edit a different data point on the page, a modal will trigger informing them they have to complete their action first before starting a new one.
 - **Status code:** None
 - **Format:** [Warning modal](https://design.va.gov/components/modal/#warning)
-- REFERENCE [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=890-6189&t=5dhgHTuWdYUMln4l-1)
+- REFERENCE [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=931-9449&t=XpeLUcvcZmicphy6-1)
 - **Content:**
 
 Header: Save or cancel your edits to your messages signature
