@@ -497,27 +497,30 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
 
 ### Screenshots of the prototype (Codespace)
 <details>
-  <summary>Informational alert about saving on intro page (Click to show screenshot)</summary>
-   <img src="./images/intro-pg-alert.png" width="75%" height="75%">
+  <summary>Figure 9: Informational alert about saving on intro page (Expand to show screenshot)</summary>
+   <img src="./images/intro-pg-alert.png" width="75%" height="75%" alt="We'll save your request on every change. You can stop anytime, and come back later to finish.">
 
 </details>
 
 <details>
-  <summary>Intro page--not signed in (Click to show screenshots)</summary>
+  <summary>Figure 10: Intro page--not signed in (Expand to show screenshots)</summary>
+
+  Figure 10 explains what you need to know about the form, and prompts the user to sign in to start filling it out.
+
   <img src="./images/Intro-pg-unauth-top.png"width="75%" height="75%">
   <img src="./images/Intro-pg-unauth-bottom.png" width="75%" height="75%">
 
 </details>
 
 <details>
-  <summary>Intro page--signed in (Click to show screenshots)</summary>
+  <summary>Intro page--signed in (Expand to show screenshots)</summary>
    <img src="./images/Intro-pg-auth-top.png" width="75%" height="75%">
    <img src="./images/Intro-pg-auth-bottom.png" width="75%" height="75%">
 
 </details>
 
 <details>
-  <summary>Form pages (Click to show screenshots)</summary>
+  <summary>Form pages (Expand to show screenshots)</summary>
    <img src="./images/form-pg1-alert&citizenship.png" width="75%" height="75%">
    <img src="./images/form-pg2-name&DOB.png" width="50%" height="50%">
    <img src="./images/form-pg3-SSN&VAfile#.png" width="75%" height="75%">
@@ -533,13 +536,13 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
 </details>
 
 <details>
-  <summary>After clicking "Finish later" (Click to show screenshot)</summary>
+  <summary>After clicking "Finish later" (Expand to show screenshot)</summary>
    <img src="./images/after-click-finish-later.png" width="75%" height="75%">
 
 </details>
 
 <details>
-  <summary>My VA (Click to show screenshots)</summary>
+  <summary>My VA (Expand to show screenshots)</summary>
    <img src="./images/MyVA-top.png" width="100%" height="100%">
    <img src="./images/MyVA-middle.png" width="100%" height="100%">
    <img src="./images/MyVA-bottom.png" width="100%" height="100%">
