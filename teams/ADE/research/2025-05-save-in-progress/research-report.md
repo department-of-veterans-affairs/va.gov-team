@@ -306,11 +306,12 @@ Figure 6 shows a selected checkbox that says 'I live on a United States mil' on 
      1. "I certify the information above is correct and true to the best of my knowledge and belief."  -- *Read while focus is in the name field*
      1. "I certify the information above is correct and true to the best of my knowledge and belief." -- ***Repeated again** when focus is on this line*
         > *"I heard it about 4 times there...I'm not sure why they put it both before and after my name...That's the kind of thing that causes me to rush through the repeats and maybe miss something. If something is only present once, then I have a much better chance of paying attention to it" (p3).*
-<details><summary>Expand for a screenshot of the issue in [Figure 7](#figure-7).</summary>
+
+<details><summary>Expand for a screenshot of the issue in Figure 7(#figure-7).</summary>
 
 #### Figure 7
 
-<img src="./images/form-pg9-statement-of-truth.png" width="50%" height="50%" alt=Screen begins with a note about criminal penalties for withholding information or providing incorrect information. Just below that says 'Statement of truth' in large bold letters. Below that is 'I confirm that the identifying information in this form is accurate and has been represented correctly' and then 'I have read and accept the privacy policy'. Below that is a required field titled 'Your full name', followed by an unselected required checkbox that says 'I certify the information above is correct and true to the best of my knowledge and belief.'">
+<img src="./images/form-pg9-statement-of-truth.png" width="50%" height="50%" alt="Screen begins with a note about criminal penalties for withholding information or providing incorrect information. Just below that says 'Statement of truth' in large bold letters. Below that is 'I confirm that the identifying information in this form is accurate and has been represented correctly' and then 'I have read and accept the privacy policy'. Below that is a required field titled 'Your full name', followed by an unselected required checkbox that says 'I certify the information above is correct and true to the best of my knowledge and belief.'">
 </details>
         
 - Another screen reader user (JAWS on desktop) didn't expect the checkbox to be announced _after_ the "I certify..." line instead of before it.
