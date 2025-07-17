@@ -1,5 +1,5 @@
 # My HealtheVet Web and Mobile Products
-*Current as of July 14, 2025*
+*Current as of July 17, 2025*
 
 ## VA
 **Program Leads and Points of Contact**
@@ -42,6 +42,7 @@ This cross-functional group serves as the primary points of contact for the deli
 | Florence McCafferty | Design Lead | florence.mccafferty@agile6.com | Kathryn.McCafferty@va.gov | [@Florence McCafferty](https://dsva.slack.com/team/U03HQRVPZD1) | [fmccaf1](https://github.com/fmccaf1) |
 | Cara Frissell | Research Lead | cara.frissell@adhocteam.us | cara.frissell@va.gov | [@Cara Frissell](https://dsva.slack.com/team/U05123T8FT7) | [carafrissell1](https://github.com/carafrissell1) |
 | Sara Sterkenburg | Information Architect | sara.sterkenburg@adhocteam.us | sara.sterkenburg@va.gov | [@Sara Sterkenburg](https://dsva.slack.com/team/U045GGS6V25) | [sterkenburgsara](https://github.com/sterkenburgsara) |
+| Marcello Antosh | Data Specialist | marcello.antosh@inroadsadvisory.com | TBD | TBD | [marcello-inroads](https://github.com/marcello-inroads) |
 | Lauren Ernest | Program Manager | lauren.ernest@adhocteam.us | lauren.ernest@va.gov | [@Lauren Ernest](https://dsva.slack.com/team/U01DKQVCEGY) | [laurenernest](https://github.com/laurenernest) |
 
 <br>
@@ -59,10 +60,10 @@ During the transition period, the delivery team will work across all patient por
 | Chris Donelson | Fullstack Engineer | CDonelson@ironarchtech.com | TBD | TBD | TBD |
 | Carlos Felix | Technical Architect | carlos.felix@agile6.com | carlos.felixacevedo@va.gov | [@Carlos Felix](https://dsva.slack.com/team/U050V56JD2R) | [carlosfelix2](https://github.com/carlosfelix2) |
 | Steven Gallagher | Frontend Engineer | sgallagher@ironarchtech.com | TBD | TBD | [steveg-IAT](https://github.com/steveg-IAT) |
-| Napoleon Kernessant | Frontend Engineer | napoleon.Kernessant@docme360.com | Napoleon.kernessant@va.gov | [@Napoleon Kernessant](https://dsva.slack.com/team/U03US4Z036J) | TBD |
+| Napoleon Kernessant | Frontend Engineer | napoleon.Kernessant@docme360.com | Napoleon.kernessant@va.gov | [@Napoleon Kernessant](https://dsva.slack.com/team/U03US4Z036J) | [GovNapoleon](https://github.com/GovNapoleon) |
 | Aswin Malla | Fullstack Engineer | aswin.malla@agile6.com | TBD | TBD | [AMT98](https://github.com/AMT98) |
 | Jayson Perkins | Mobile Engineer | jayson.perkins@adhocteam.us | jayson.perkins@va.gov | [@Jayson Perkins](https://dsva.slack.com/team/U01A8SZCMHA) | [jperk51](https://github.com/jperk51) |
-| Ian Seabock | Frontend Engineer | iseabock@ironarchtech.com | TBD | TBD | TBD |
+| Ian Seabock | Frontend Engineer | iseabock@ironarchtech.com | TBD | TBD | [iseabock](https://github.com/iseabock) |
 | Adam Stoler | Fullstack Engineer | adam.stoler@agile6.com | TBD | TBD | TBD |
 | Kevin Suarez | Backend Engineer | kevin.suarez@agile6.com | kevin.suarez1@va.gov | [@Kevin Suarez](https://dsva.slack.com/team/U081A32NU4X) | [kjsuarez](https://github.com/kjsuarez) |
 | Liz Townsend | Mobile Engineer | liz.townsend@adhocteam.us | elizabeth.townsend4@va.gov | [@Liz Townsend](https://dsva.slack.com/team/U06059URY69) | [liztownd](https://github.com/liztownd) |
@@ -80,23 +81,22 @@ During the transition period, the delivery team will work across all patient por
 
 |Name|Role|Primary Email|VA Email|DSVA Slack|GitHub|
 |------|----|-----|-----|--------|------|
-| starting 7/15 | Data Specialist | TBD | TBD | TBD | TBD |
 | starting 7/21 | Product Manager | TBD | TBD | TBD | TBD |
 | starting 7/21 | Product Manager | TBD | TBD | TBD | TBD |
-| TBD | Mobile Engineer | TBD | TBD | TBD | TBD |
-| TBD | Backend Engineer | TBD | TBD | TBD | TBD |
-| starting 7/28 | Frontend Engineer | TBD | TBD | TBD | TBD |
-| starting 7/21 | Frontend Engineer | TBD | TBD | TBD | TBD |
-| TBD | Frontend Engineer | TBD | TBD | TBD | TBD |
-| TBD | Frontend Engineer | TBD | TBD | TBD | TBD |
-| TBD | Frontend Engineer | TBD | TBD | TBD | TBD |
-| TBD | Fullstack Engineer | TBD | TBD | TBD | TBD |
-| TBD | Fullstack Engineer | TBD | TBD | TBD | TBD |
-| TBD | QA Engineer | TBD | TBD | TBD | TBD |
-| TBD | QA Engineer | TBD | TBD | TBD | TBD |
-| starting 7/28 | Designer | TBD | TBD | TBD | TBD |
-| TBD | Designer | TBD | TBD | TBD | TBD |
 | starting 7/21 | Accessibility Specialist | TBD | TBD | TBD | TBD |
+| starting 7/21 | Frontend Engineer | TBD | TBD | TBD | TBD |
+| starting 7/21 | Frontend Engineer | TBD | TBD | TBD | TBD |
+| starting 7/28 | Frontend Engineer | TBD | TBD | TBD | TBD |
+| starting 7/28 | Fullstack Engineer | TBD | TBD | TBD | TBD |
+| starting 7/28 | QA Engineer/Customer Support | TBD | TBD | TBD | TBD |
+| starting 7/28 | Designer | TBD | TBD | TBD | TBD |
+| starting 8/4 | Fullstack Engineer | TBD | TBD | TBD | TBD |
+| starting 8/4 | Fullstack Engineer | TBD | TBD | TBD | TBD |
+| TBD | Frontend Engineer | TBD | TBD | TBD | TBD |
+| TBD | Frontend Engineer | TBD | TBD | TBD | TBD |
+| TBD | QA Engineer | TBD | TBD | TBD | TBD |
+| TBD | Mobile Engineer | TBD | TBD | TBD | TBD |
+| TBD | Designer | TBD | TBD | TBD | TBD |
 | TBD | Researcher/Information Architect | TBD | TBD | TBD | TBD |
 
 </details>
