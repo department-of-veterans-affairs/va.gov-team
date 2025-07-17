@@ -497,7 +497,7 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
 
 ### Screenshots of the prototype (Codespace)
 <details>
-  <summary>Figure 9: Informational alert about saving on intro page (Expand to show screenshot)</summary>
+  <summary>Figure 9: Informational alert on the intro page about saving (Expand to show screenshot)</summary>
    <img src="./images/intro-pg-alert.png" width="75%" height="75%" alt="We'll save your request on every change. You can stop anytime, and come back later to finish.">
 
 </details>
@@ -507,7 +507,7 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
 
   Figure 10 explains what you need to know about the form, and prompts the user to sign in to start filling it out.
 
-  <img src="./images/Intro-pg-unauth-top.png"width="75%" height="75%">
+  <img src="./images/Intro-pg-unauth-top.png" width="75%" height="75%">
   <img src="./images/Intro-pg-unauth-bottom.png" width="75%" height="75%">
 
 </details>
