@@ -233,7 +233,9 @@ Figure 4 shows a large heading that says 'Benefit applications' and nothing abou
   > *"A lot of the government websites are not working that great with Safari anymore, and...you need to use Google Chrome" (p5).*
 
 - On the Review/Submit page, a **screen magnifier user didn't see the "+"'s to expand the accordions because they're so far to the right**. He saw the names of the form sections, but there was no visual indication that there was anything more to scroll right to see. 
-<details><summary>Click to see a screenshot of the issue.</summary>
+<details><summary>Expand for a screenshot of the issue in Figure 5.</summary>
+
+Figure 5 shows 3 horizontal gray bars labeled 'Your contact information', 'Records requested', and 'Additional information' with no indication of how to interact with them.
 <img src="./images/p13-review-accordions-wo-plus.png" width="50%" height="50%">
 </details>
 
@@ -284,7 +286,7 @@ Figure 4 shows a large heading that says 'Benefit applications' and nothing abou
   > *"It doesn't let you know that there's a radio button before that, so it's sometimes confusing...In our world of using accessibility, we can only wish for so much...it works. Would be nice if as soon as I clicked on that, it said 'radio button' and then [when I] swiped right, it would read what that was and then go down" (p5).*
 
 - One participant using a screen magnifier (Microsoft Zoom Magnification at least 300% on a Windows computer with Edge browser) checked "I live on a United States military base outside of the U.S." and then didn't understand why he being asked for APO/FPO/DPO and got stuck. He had seen "I live on a United States" and thought that applied to him. He had no idea that the rest of the statement said "military base" because that was not in his view and he didn't scroll to the right. 
-<details><summary>Click to see a screenshot of the issue.</summary>
+<details><summary>Expand for a screenshot of the issue in Figure 6.</summary>
 <img src="./images/p13-military-base-checkbox-checked.png" width="50%" height="50%">
 </details>
 
@@ -300,7 +302,7 @@ Figure 4 shows a large heading that says 'Benefit applications' and nothing abou
      1. "I certify the information above is correct and true to the best of my knowledge and belief."  -- *Read while focus is in the name field*
      1. "I certify the information above is correct and true to the best of my knowledge and belief." -- ***Repeated again** when focus is on this line*
         > *"I heard it about 4 times there...I'm not sure why they put it both before and after my name...That's the kind of thing that causes me to rush through the repeats and maybe miss something. If something is only present once, then I have a much better chance of paying attention to it" (p3).*
-<details><summary>Click to see a screenshot of the bottom of the Review/Submit page.</summary>
+<details><summary>Expand for a screenshot of the issue in Figure 7.</summary>
 <img src="./images/form-pg9-statement-of-truth.png" width="50%" height="50%">
 </details>
         
@@ -362,7 +364,7 @@ There are a number of findings that were outside the scope of the research goals
       > *"I'm looking for the least amount of work I have to do every single time" (p10).*
       1. On the intro page, seeing the "Freedom of Information Act (FOIA)" right underneath the name of the form on the intro page was confusing because it was unclear what the connection is. They expected to see something about the specific form, such as its name, which was at the end of that line. 
      
-<details><summary>Click to see a screenshot of the top of the intro page.</summary>
+<details><summary>Expand for a screenshot of the issue in Figure 9.</summary>
 <img src="./images/Intro-pg-unauth-top-h1.png" width="50%" height="50%">
 </details>
 
