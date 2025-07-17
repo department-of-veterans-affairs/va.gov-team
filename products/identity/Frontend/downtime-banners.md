@@ -47,13 +47,15 @@ We determine downtime statuses by making an API request to `/v0/backend_statuses
 
 Thresholds are determined in Datadog and are connected to PagerDuty.
 
-| Authentication dependency | Threshold |
-| --- | --- |
-| Master Person Index (MPI) | MPI PSIM latency is above 5 seconds for 15 minutes |
-| SSOe (IAM) | No data received from outbound SSOe for 30 minutes |
-| ID.me | Authentication success rate is <45% in the past 30 minutes |
-| Login.gov | Authentication success rate is <45% in the past 30 minutes |
-| DS Logon | Authentication success rate is <20% in the past 15 minutes |
+| Authentication dependency | Threshold | DataDog monitor | 
+| --- | --- | --- |
+| Master Person Index (MPI) | MPI error (MPI record not found) is about 15 delta for 15 minutes | [URL](https://vagov.ddog-gov.com/monitors/200810) | 
+| Master Person Index (MPI) | MPI latency is above 5 seconds for 15 minutes | [URL](https://vagov.ddog-gov.com/monitors/238295) | 
+| SSOe (IAM) | SSOe StatsD logs (success, failure, attempts) are below 30 logs for the past 30 minutes | [URL](https://vagov.ddog-gov.com/monitors/89113) | 
+| SSOe (IAM) | SSOe latency (p95) is above 5 seconds for the past 5 minutes | [URL](https://vagov.ddog-gov.com/monitors/200801) | 
+| ID.me | Authentication success rate is <45% in the past 30 minutes | [URL](https://vagov.ddog-gov.com/monitors/119914) | 
+| Login.gov | Authentication success rate is <45% in the past 30 minutes | [URL](https://vagov.ddog-gov.com/monitors/120105) | 
+| DS Logon | Authentication success rate is <20% in the past 15 minutes | [URL](https://vagov.ddog-gov.com/monitors/119917) | 
 
 
 ## Content
