@@ -17,7 +17,6 @@
 - [URLs and breadcrumbs](#url)
 - [Entry points](#nav)
 - [Redirects](#redirects)
-- [Search best bets](#bestbets)
 - [Launch coordination activities](#launch)
 
 
