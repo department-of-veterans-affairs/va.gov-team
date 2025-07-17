@@ -24,54 +24,68 @@
 ## <a name="flows"></a>Navigation/page flows <br>
 *Illustration and/or description of how users will navigate to and flow through the experience for all impacted visitors typies. This helps identify key entry points and findability requirements, user flow scenarios, and content/messaging needs across various scenarios.*
 
+<img width="1673" height="437" alt="Screenshot 2025-07-17 113921" src="https://github.com/user-attachments/assets/bbf8f03c-06e8-44db-bc11-5c7378affb6e" />
+
 
 ## <a name="map"></a>Page structure<br>
 
-<img width="199" height="631" alt="Screenshot 2025-07-10 144538" src="https://github.com/user-attachments/assets/1a603b16-f239-42a2-8e4c-e008440a82ad" />
+<img width="202" height="727" alt="Screenshot 2025-07-17 114842" src="https://github.com/user-attachments/assets/0bf87e3d-0661-4caa-a69b-e03b44d1f93a" />
+
 
 
 ## <a name="url"></a>Page URLs and breadcrumbs
-*URL and breadcrumb requirements for each modified or new page within the experience. URLs and breadcrumbs must follow established patterns and standards of the existing site. This section will also document form or tool flow URLs, titled sub-URLs.*
+Follow the [VA Design System](https://design.va.gov/) for URL, breadcrumb, and page title guidance.  
+- [URLs](https://design.va.gov/components/url-standards/)
+- [H1s (Page titles and section titles)](https://design.va.gov/content-style-guide/page-titles-and-section-titles)
+- [Breadcrumbs](https://design.va.gov/components/breadcrumbs)
+- [Title tags](https://design.va.gov/content-style-guide/title-tags)
 
 
-**1) Authorize the disclosure of personal information to a third party for your education benefits - New**
+**1) Authorize the disclosure of personal information to a third party for education benefits - New**
 - URL: va.gov/education/authorize-disclosure-of-information-to-third-party-form-22-10278/
-- Breadcrumb: VA.gov home > Education and training > Authorize the disclosure of personal information to a third party for your education benefits
-- Notes: 
+- Breadcrumb: VA.gov home > Education and training > Authorize the disclosure of personal information to a third party for education benefits
+- Browser title: [H1 of introduction page in title case] | Veterans Affairs
+    - Example based on H1 in Figma: Authorize the Disclosure of Personal Information to a Third Party for Education Benefits | Veterans Affairs
+- **Notes: We recommend adding "for education benefits" to the H1 as there are several similar authorization forms for other benefits.**
 
 **2) About VA Form 22-10278 - New**
 - URL: va.gov/find-forms/about-form-22-10278
 - Breadcrumb: VA.gov home > Find a VA Form > About VA Form 22-10278
-- Notes: 
+- Notes: OCTO Content and IA will create and publish this page post launch
 
+**Structuring URLs for individual pages within the form flows**
+- All pages within form flows will exist as child pages of the core/canonical URL.
+  - Examples:
+      - va.gov/education/authorize-disclosure-of-information-to-third-party-form-22-10278/introduction/
+      - va.gov/education/authorize-disclosure-of-information-to-third-party-form-22-10278/review-and-submit/
+      - va.gov/education/authorize-disclosure-of-information-to-third-party-form-22-10278/confirmation/
+  - Please refer to [URL standards for form flows](https://design.va.gov/components/url-standards/#guidelines-for-urls-in-form-flows) when defining the URLs for these pages.  Reach out to #content-ia-centralized-team with any questions.
 
 
 ## <a name="nav"></a>Entry points <br>
 
 Teams must launch with at least one entry point that allows site visitors to navigate to the new content or feature. 
 
+**Please note:** The Governance Team requires preview links of updated entry points as a part of staging review in the Collaboration Cycle. It may be a launch-blocking issue. Updates that will be done by the Content and IA team, as noted below, should be requested a minimum of one week before the staging review cutoff (four days prior to scheduled review). Two weeks of advanced knowledge is preferred when possible. Please communicate the staging review date as soon as it is scheduled to your main Content and IA contact. 
+
 ### Required entry point(s)
 
-1. **[Page/placement name]**
-  - Placement description: 
+1. **VA education and training benefits**
+  - Placement description: Add a link to the form under the "Manage your Veterans education benefits" and add to section side navigation
   - Link details
-    - Link label: 
-    - Link destination: 
+    - Link label: Authorize the disclosure of personal information to a third party for education benefits
+    - Link destination: va.gov/education/authorize-disclosure-of-information-to-third-party-form-22-10278/
   - Notes:
-    - Who will update (IA, content, product team):
-    - When will this entry point go live (at launch? After staged rollout? after some designated time?):
+    - Who will update: Content will update VA education and training benefits page and IA will add link to side navigation
+    - When will this entry point go live: at launch
 
 ### Additional key entry points
 _Any additional key locations that the page should be navigable from. Although these are not required for launch, they are critical to the findability of your content/feature.  Examples of key entry points include "About a form" pages, additional navigation component (top, left) placements, additional static pages where its prominently linked from, etc._
 
-1. **[Page/placement name]**
-  - Placement description: 
-  - Link details
-    - Link label: 
-    - Link destination: 
-  - Notes:
-    - Who will update (IA, content, product team):
-    - When will this entry point go live (at launch? After staged rollout? after some designated time?):
+1. **About VA Form 22-10297**
+- This is a standard page that is part of the "Find VA forms" experience. It has a standard approach to page content and links.
+- The OCTO Content and IA team will create and update this page at https://www.va.gov/find-forms/about-form-22-10297/.
+- The page may be published in advance of launch and updated with the online form link post-launch.
 
 ##  <a name="redirects"></a>Redirects <br>
 No redirects are needed. 
@@ -82,10 +96,8 @@ No redirects are needed.
 
 | Key task | Responsibility | When to complete | Additional info |
 | --- | --- | --- | --- |
-| Communicate date of staging review | | Once scheduled | |
-| Submit redirect request | | at least 2 weeks prior to implementation |  |
-| Communicate launch date | | | |
-
+| Communicate date of staging review | VEBT | Once scheduled | Allows OCTO to prepare entry point preview links |
+| Communicate launch date | VEBT | Once scheduled | Allows OCTO to plan for updates to About and static pages |
 
 
 <hr>
