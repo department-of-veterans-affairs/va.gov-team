@@ -1,5 +1,5 @@
 # 10-10EZR Emeregency Contact (EC) and Next of Kin (NoK) - Release Plan (WIP)
-- Last updated: 05/09/2025
+- Last updated: 7/17/2025
 
 
 ## Step 1: Development
@@ -9,10 +9,10 @@ Feature toggle
 
 | Toggle name | Description |
 | ----------- | ----------- |
-|ezr_prefill_contacts | Adds Veteran contacts to ezr prefill data |
-|ezr_associations_api_enabled | Enables VES's Associations REST API |
-|ezr_emergency_contacts_enabled| Enables emergency contact experience for 10-10EZR applicants|
-|ezr_next_of_kin_enabled|Enables next of kin experience for 10-10EZR applicants|
+|ezr_associations_api_enabled | Enables EC and NOK forms, EC and NOK prefill, and Associations API in VES |
+
+
+Updated 7/17 in response to UAT results- all code will now point to one toggle in order to align the back end and front end alignment within the Associates API 
 
 
 
@@ -21,14 +21,19 @@ Feature toggle
 Before enabling your feature toggle in production, you'll need to:
 
 - [x] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
-  - [x] [ec-nok-v1-v2-test-results.pdf](https://github.com/user-attachments/files/21188726/ec-nok-v1-v2-test-results.pdf)
+  - [x] [ec-nok-v1-v2-test-results.pdf](https://github.com/user-attachments/files/21188726/ec-nok-v1-v2-test-results.pdf) - initial testing 
+  - [ ] **Link retest **
 - [x] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
-- [x] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
+- [x] Work any downstream or dependent systems proactively to ensure that the feature is ready for use once it hits production.
    - [x] Confirm with Joshua Faulkner and team on End to End testing
    - [ ] Link to confirmation of successful transmission/processing
 - [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
-  - [ ] review the plan with your DEPO/OCTO representative.
-  - [ ] review the release plan with your team.
+  - [x] review the plan with your DEPO/OCTO representative.
+     - [ ] First meeting 7/16 received approval
+     - [ ] Second approval **DATE**
+  - [x] review the release plan with your team.
+    - [ ] initial review 7/16
+    - [ ] second review **Date**
 
 ## Step 3: Production rollout
 
@@ -54,11 +59,19 @@ Before enabling your feature toggle in production, you'll need to:
 
 #### Results
 
-- Number of users:  Participants
+- Number of users:  4 Participants
 - Number of bugs identified / fixed: 
-  - Link to any bugs identified 
+  - [[FE] 10-10EZR - EC/NOK: Update feature toggle name to consolidate Frontend code] (https://github.com/orgs/department-of-veterans-affairs/projects/1433/views/37?pane=issue&itemId=120403639&issue=department-of-veterans-affairs%7Cva.gov-team%7C114695)
+  - [[BE] 10-10EZR - EC/NOK: Update feature toggle name to consolidate backend code] (https://github.com/orgs/department-of-veterans-affairs/projects/1433/views/37?pane=issue&itemId=120403491&issue=department-of-veterans-affairs%7Cva.gov-team%7C114693)
+
 - Was any downstream service affected by the change?: 
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? 
+- Any changes necessary based on the logs, feedback on user challenges, or VA challenges?
+  - Initial tests resulted in no changes on VES as per UAT team
+  - Fourth test didn't allow user to submit form
+  - Team reconvened and determined that the toggles needed to be reconfigured in order to allow users to add and delete contacts without continually calling the Associates API and deleting EC/NoK in VES
+  - Reconfiguration and retesting will take place
+  - Retesting in staging
+  - UAT testing will take place when work is ready
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
 
@@ -67,7 +80,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Rollout Planning
 
 - Desired date range:
-     - 7/21/25-7/22/2025
+     - ~~7/21/25-7/22/2025~~
 - How will you make the product available in production while limiting the number of users who can find/access it:
      - Feature Toggle limiting 10% of traffic to the application
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: 
@@ -103,7 +116,7 @@ Errors | 0 errors| TBD| TBD|
 #### Planning
 
 - Length of time:
-     - **2 days - 7/21-22/2025**
+     - ~~2 days - 7/21-22/2025~~
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 10% of authenticated Veterans
      - About 16 submissions per day
@@ -123,7 +136,7 @@ Errors | 0 errors| TBD| TBD|
 #### Planning
 
 - Length of time:
-     - **5 days - 7/23-27/2025**
+     - ~~**5 days - 7/23-27/2025**~~
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 25% of authenticated Veterans
      - about 41 submissions per day
@@ -144,7 +157,7 @@ Errors | 0 errors| TBD| TBD|
 #### Planning
 
 - Length of time:
-     - **2 days - 7/28-29/2025**
+     - ~~**2 days - 7/28-29/2025**~~
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 75% of authenticated Veterans
      - about 124 submissions per day
@@ -162,7 +175,7 @@ Errors | 0 errors| TBD| TBD|
 #### Planning
 
 - Length of time:
-     - **7/30/2025**
+     - ~~**7/30/2025**~~
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 100% of authenticated Veterans
      - about 1,000 per week
