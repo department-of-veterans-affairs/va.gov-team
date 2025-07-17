@@ -15,14 +15,14 @@
 
 **Jump to:**
 
-- [Hypotheses and conclusions](#hypotheses-and-conclusions)
-- [Key findings](#key-findings)
-- [Recommendations](#recommendations)
-- [Product User and Business Outcomes](#product-user-and-business-outcomes)
-- [Key Performance Indicators](#key-performance-indicators)
-- [Next Steps](#next-steps)
+- [Hypotheses and conclusions](#user-content-hypotheses-and-conclusions)
+- [Key findings](#user-content-key-findings)
+- [Recommendations](#user-content-recommendations)
+- [Product User and Business Outcomes](#user-content-product-user-and-business-outcomes)
+- [Key Performance Indicators](#user-content-key-performance-indicators)
+- [Next Steps](#user-content-next-steps)
 - [Further research needed](#user-content-further-research-needed)
-- [Who we talked to](#who-we-talked-to)
+- [Who we talked to](#user-content-who-we-talked-to)
 
 
 ## Research Goals
