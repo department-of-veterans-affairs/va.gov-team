@@ -15,7 +15,7 @@
 
 **Jump to:**
 
-- [Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/teams/ADE/research/jamies-test-research-template.md#hypotheses-and-conclusions)
+- [Hypotheses and conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/research/jamies-test-research-template.md#hypotheses-and-conclusions)
 - [Key findings](#key-findings)
 - [Recommendations](#recommendations)
 - [Product User and Business Outcomes](#product-user-and-business-outcomes)
