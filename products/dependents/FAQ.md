@@ -7,6 +7,21 @@
 - 21-686c: Disability, pension, and DIC benefits
 - 21-674: Disability, pension, and DIC benefits
 - 21-0538: Disability benefits only (David Reis on 6/23/25)
+
+What is the difference between DIC and Survivor's pension:
+- DIC can be thought of as closely aligning with disability.
+   - The veteran must have died while on active-duty or from a service-related issue.
+   - It is tax free the same way as disability
+   - Benefits received does not appear to be based on income/need
+   - Remarried spouses may still receive DIC
+- Survivor's pension aligns more with veteran's pension
+   - It is an need-based program based on income/assets for unremarried spouses or unmarried children
+   - The veteran does not have to have died of a service-related injury but they must have served during specified war times
+   - Benefits may or may not be taxed based on recipients income
+   - So they are separate and active programs. Still not clear why they share the same application form but the survivor's pension may require additional forms
+   - Dependents affect the rates for both
+
+Source: [Amy Grace Wells, July 2025](https://dsva.slack.com/archives/C07RB9N9M6J/p1752781387946729)
 </details>
 
 <details>
