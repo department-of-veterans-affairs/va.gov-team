@@ -162,6 +162,9 @@ If Android, pleae request their email where an invitation to the testing link wi
 - Yes would qualify them for the study
 - No would disqualify them
 
+4. Have you ever used the VHB app before?
+- Yes would qualify them for the study
+- No would disqualify them
 
 ## Timeline 🗓️
 > [!NOTE]
