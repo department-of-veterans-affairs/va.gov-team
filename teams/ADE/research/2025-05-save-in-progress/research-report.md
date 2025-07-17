@@ -39,7 +39,7 @@ Veterans may fill out web forms on VA.gov throughout their lives, including ALL 
 
 ### Revised design
 
-We are testing a modification of the VA Design System [Header - Minimal component](https://design.va.gov/components/header/header-minimal), which is recommended for the design of new web forms. To address the above accessibility issues, we have made 2 changes:
+We are testing a modification of the VA Design System [Header - Minimal component](https://design.va.gov/components/header/header-minimal), which is recommended for the design of new web forms. To address the above accessibility issues, we made 2 changes:
 1. Removed the "save in progress" alert
 1. Changed the "Finish this request later" button that looks like a link into looking like a button ([Figure 2](#figure-2)). 
 
@@ -213,9 +213,11 @@ For demographic details, see [Who we talked to](#who-we-talked-to).
 - One participant using a screen magnifier (on a Windows computer using the Edge browser and Microsoft Zoom Magnification at least 300%) asked why the **"Continue your application" link in the form request card on My VA was so much smaller than everything else on the card**. The link text didn't scale up like the text above it.
 
 <details><summary>Expand for a screenshot of the issue in Figure 3.</summary>
+
 Figure 3 shows the form card on My VA with large text that says 'Application expires on: July 14, 2025' and 'Last saved on: May 15, 2025', but very small text that says 'Continue your application'.
 
 <img src="./images/p13-MyVA-form-card-bottom.png" width="50%" height="50%">
+
 </details>
 
 - This same screen magnifier user missed that the header "Benefit applications and forms" was relevant because he only saw the words "Benefit applications". He didn't see the word "forms" because it was to the right of the magnified portion of the page that he was looking at. 
