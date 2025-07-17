@@ -45,7 +45,7 @@ We determine downtime statuses by making an API request to `/v0/backend_statuses
 ## Thresholds
 > Note: StatsD (vets-api) => DataDog => PagerDuty => `GET /v0/backend_statuses` API route => VA.gov (sign-in modal)
 
-Thresholds are determined in Datadog and are connected to PagerDuty.
+Thresholds are determined in [Datadog](https://vagov.ddog-gov.com/notebook/17903/downtime-banner?view=view-mode) and are connected to PagerDuty.
 
 | Authentication dependency | Threshold | DataDog monitor | 
 | --- | --- | --- |
