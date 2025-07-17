@@ -32,6 +32,7 @@ The following fields are things that we could send to GCLAWS (their 21a API has 
 **Chapter 4 (Education History)**
 
 1. Education addresses — currently we only allow room for 2 address lines (excluding city/state/zip code). Is there value in capturing 3 address lines?
+2. Education majors - it make sense to require this for all education types (GED, High School diploma, Associate degree, Bachelor's degree, Master's degree, Doctoral degree)? 
 
 **Chapter 5 (Professional Affiliations)**
 
