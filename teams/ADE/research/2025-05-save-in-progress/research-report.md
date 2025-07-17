@@ -531,18 +531,7 @@ The form we tested has 9 pages of questions, and each page has at the bottom a *
 
 <details>
   <summary>Figure 13: Form page 2 asks for your first name, middle initial, last name, date of birth (month, day, year), and place of birth (Expand to show screenshot)</summary>
-   <img src="./images/form-pg1-alert&citizenship.png" width="75%" height="75%">
    <img src="./images/form-pg2-name&DOB.png" width="50%" height="50%">
-   <img src="./images/form-pg3-SSN&VAfile#.png" width="75%" height="75%">
-   <img src="./images/form-pg4-mailing-addr-top.png" width="75%" height="75%">
-   <img src="./images/form-pg4-mailing-addr-bottom.png" width="75%" height="75%">
-   <img src="./images/form-pg5-phone&email.png" width="75%" height="75%">
-   <img src="./images/form-pg6-records.png" width="75%" height="75%">
-   <img src="./images/form-pg7-additional-info.png" width="75%" height="75%">
-   <img src="./images/form-pg8-regional-office.png" width="75%" height="75%">
-   <img src="./images/form-pg9-review&submit.png" width="75%" height="75%">
-   <img src="./images/form-pg9-statement-of-truth.png" width="75%" height="75%">
-
 </details>
 
 <details>
