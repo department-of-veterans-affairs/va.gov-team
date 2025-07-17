@@ -66,7 +66,7 @@ Form 21a is currently being developed from [this](https://www.va.gov/vaforms/va/
     6. Tickets:
        *** NOTE: We will need to implement the below for each document upload within the form.
         1. Set up the document upload component using `fileInputUI` and `fileInputSchema` from `platform/forms-system`. Configure the upload field in `/src/applications/accreditation/21a/pages/helpers/backgroundInformationDetailsPageSchema.js`.
-        2. Connect vets-website to vets-api, make sure it can send the doc type and make sure vets-website receives a confirmation code
+        2. Connect vets-website to vets-api, make sure it can send the doc type and make sure vets-website receives a confirmation code. call the new controller. app/controllers/form21a_controller.rb 
         3. We will need to update the schema file with 
 2. Proposed solution (vets-api):
     1. Summary:
@@ -96,10 +96,13 @@ Form 21a is currently being developed from [this](https://www.va.gov/vaforms/va/
     3. Pros:
     4. Cons:
     5. Tickets:
-        1. Create a New Uploader: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/engineering/investigations/21a.md#1-create-a-new-uploader
-        2. Make sure GCLAWs returns an application id when we send the form 21a
-        3. Create a document uploads table
-        4. 
+        1. Create a form21a_document_uploads table (gclaws_document_type, form_attachment_id, save_in_progress_id)
+        2. s3 bucket configuration
+        3. Create a new endpoint to handle form uploads for 21a. Will include creating a new route a and a new controller app/controllers/form21a_controller.rb . It will take the document, add a record in form_attachments, add a record in form21a_document_uploads, store it in an s3 bucket, update in_progress_forms record form_data to have the form21a_document_uploads_id and store the application and return a form21a_document_uploads_id to the frontend.
+        4. Create a New Uploader: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/engineering/investigations/21a.md#1-create-a-new-uploader
+        5. Make sure GCLAWs returns an application id when we send the form 21a
+        6. 
+        7. 
 3. Proposed solution (vets-api to GCLAWS):
     1. Summary:
     2. Investigation : [Link to Investigration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/engineering/investigations/21a.md)
