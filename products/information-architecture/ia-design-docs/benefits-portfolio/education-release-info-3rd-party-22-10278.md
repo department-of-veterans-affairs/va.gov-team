@@ -1,5 +1,5 @@
 # IA Design for Authorization To Disclose Personal Information To a Third Party - Education Benefits (VA Form 22-10278)
-**STATUS: [In progress]**
+**STATUS: [In review]**
 
 **Team:** VEBT
 
@@ -80,7 +80,6 @@ Teams must launch with at least one entry point that allows site visitors to nav
     - When will this entry point go live: at launch
 
 ### Additional key entry points
-_Any additional key locations that the page should be navigable from. Although these are not required for launch, they are critical to the findability of your content/feature.  Examples of key entry points include "About a form" pages, additional navigation component (top, left) placements, additional static pages where its prominently linked from, etc._
 
 1. **About VA Form 22-10278**
 - This is a standard page that is part of the "Find VA forms" experience. It has a standard approach to page content and links.
