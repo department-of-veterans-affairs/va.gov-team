@@ -2,15 +2,18 @@
 
 ## Table of Contents
 - [Background](#background)
-- [Unexpected downtime](#unexpected-downtime)
-    - [ID.me](#idme)
-    - [Login.gov](#logingov)
-    - [DS Logon](#dslogon)
-    - [My HealtheVet](#mhv)
-    - [SSOe](#ssoe)
-    - [MPI/MVI](#mpi)
-    - [Multiple services](#multiple-services)
-- [Maintenance windows](#maintenance-windows) 
+    - [Authentication dependencies](#authentication-dependencies) 
+- [Technical user flow](#technical-user-flow)
+- [Thresholds](#thresholds)
+- [Content](#content)
+    - [Unexpected downtime](#unexpected-downtime)
+        - [ID.me](#idme)
+        - [Login.gov](#logingov)
+        - [DS Logon](#dslogon)
+        - [SSOe](#ssoe)
+        - [MPI/MVI](#mpi)
+        - [Multiple services](#multiple-services)
+    - [Maintenance windows](#maintenance-windows) 
 
 ## Background
 The purpose of this document is to document what the banner looks like during authentication-related unexpected downtime events and/or maintenance windows. These downtime banners will display in the Sign-in Modal and Unified Sign-in Page.
@@ -19,7 +22,45 @@ We determine downtime statuses by making an API request to `/v0/backend_statuses
 - Unexpected downtime `statuses` array
 - Maintenance banners `maintenance_windows` array
 
-## Unexpected Downtime
+### Authentication dependencies
+- Master Person Index (MPI)
+- SSOe (IAM)
+- CSPs
+    - ID.me
+    - Login.gov
+    - DS Logon (deprecated after Oct 1 2025)
+
+## Technical user flow
+1. User navigates to VA.gov > Clicks "Sign in" to open the sign-in modal
+2. A request is made to the `GET /v0/backend_statuses` (fed from PagerDuty and upcoming maintenance windows)
+3. The response from `GET /v0/backend_statuses` is parsed and read
+    1. The `statuses` array is checked to see if any of the authentication dependencies have a status other than `active`
+        1. If dependency status is `active` - do nothing
+        2. If dependency status is something other than `active` - lookup which dependency and display content associated with that dependency
+        3. If multiple dependencies are something other than `active` - display the multiple services down content
+    2. The `maintenance_windows` array is checked to see if any of the authentication dependencies have a maintenance window 1 hour prior
+        1. If maintenance window does not exist - do nothing
+        2. If maintenance window does exist and is within 1 hour prior to starting window, display the maintenance banner
+  
+## Thresholds
+> Note: StatsD (vets-api) => DataDog => PagerDuty => `GET /v0/backend_statuses` API route => VA.gov (sign-in modal)
+
+Thresholds are determined in Datadog and are connected to PagerDuty.
+
+| Authentication dependency | Threshold | DataDog monitor | 
+| --- | --- | --- |
+| Master Person Index (MPI) | MPI error (MPI record not found) is about 15 delta for 15 minutes | [URL](https://vagov.ddog-gov.com/monitors/200810) | 
+| Master Person Index (MPI) | MPI latency is above 5 seconds for 15 minutes | [URL](https://vagov.ddog-gov.com/monitors/238295) | 
+| SSOe (IAM) | SSOe StatsD logs (success, failure, attempts) are below 30 logs for the past 30 minutes | [URL](https://vagov.ddog-gov.com/monitors/89113) | 
+| SSOe (IAM) | SSOe latency (p95) is above 5 seconds for the past 5 minutes | [URL](https://vagov.ddog-gov.com/monitors/200801) | 
+| ID.me | Authentication success rate is <45% in the past 30 minutes | [URL](https://vagov.ddog-gov.com/monitors/119914) | 
+| Login.gov | Authentication success rate is <45% in the past 30 minutes | [URL](https://vagov.ddog-gov.com/monitors/120105) | 
+| DS Logon | Authentication success rate is <20% in the past 15 minutes | [URL](https://vagov.ddog-gov.com/monitors/119917) | 
+
+
+## Content
+
+### Unexpected Downtime
 
 <a id="idme"></a>
 ### ID.me
@@ -44,14 +85,6 @@ We determine downtime statuses by making an API request to `/v0/backend_statuses
 | You may have trouble siging in with DS Logon | Warning | You may have trouble siging in with Login.gov | Warning | We’re sorry. We’re working to fix some problems with our DS Logon sign in process. If you’d like to sign in to VA.gov with your DS Logon account, please check back later. |
 
 ![dslogon](https://github.com/department-of-veterans-affairs/va.gov-team/assets/67602137/c475c3a6-3b18-44f0-a4be-16b4fa54f07f)
-
-<a id="mhv"></a>
-### My HealheVet (MHV)
-| Title | Alert type | Content |
-| --- | --- | --- |
-| You may have trouble siging in with My HealtheVet | Warning |You may have trouble siging in with Login.gov | Warning | We’re sorry. We’re working to fix some problems with our My HealtheVet sign in process. If you’d like to sign in to VA.gov with your My HealtheVet account, please check back later. |
-
-![mhv](https://github.com/department-of-veterans-affairs/va.gov-team/assets/67602137/8cf1f881-518e-4cfe-88d3-ca521d57b3de)
 
 ### SSOe
 | Title | Alert type | Content |
