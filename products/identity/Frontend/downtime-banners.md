@@ -2,15 +2,19 @@
 
 ## Table of Contents
 - [Background](#background)
-- [Unexpected downtime](#unexpected-downtime)
-    - [ID.me](#idme)
-    - [Login.gov](#logingov)
-    - [DS Logon](#dslogon)
-    - [My HealtheVet](#mhv)
-    - [SSOe](#ssoe)
-    - [MPI/MVI](#mpi)
-    - [Multiple services](#multiple-services)
-- [Maintenance windows](#maintenance-windows) 
+    - [Authentication dependencies](#authentication-dependencies) 
+- [Technical user flow](#technical-user-flow)
+- [Thresholds](#thresholds)
+- [Content](#content)
+    - [Unexpected downtime](#unexpected-downtime)
+        - [ID.me](#idme)
+        - [Login.gov](#logingov)
+        - [DS Logon](#dslogon)
+        - [My HealtheVet](#mhv)
+        - [SSOe](#ssoe)
+        - [MPI/MVI](#mpi)
+        - [Multiple services](#multiple-services)
+    - [Maintenance windows](#maintenance-windows) 
 
 ## Background
 The purpose of this document is to document what the banner looks like during authentication-related unexpected downtime events and/or maintenance windows. These downtime banners will display in the Sign-in Modal and Unified Sign-in Page.
@@ -19,7 +23,43 @@ We determine downtime statuses by making an API request to `/v0/backend_statuses
 - Unexpected downtime `statuses` array
 - Maintenance banners `maintenance_windows` array
 
-## Unexpected Downtime
+### Authentication dependencies
+- Master Person Index (MPI)
+- SSOe (IAM)
+- CSPs
+    - ID.me
+    - Login.gov
+    - DS Logon (deprecated after Oct 1 2025)
+
+## Technical user flow
+1. User navigates to VA.gov > Clicks "Sign in" to open the sign-in modal
+2. A request is made to the `GET /v0/backend_statuses` (fed from PagerDuty and upcoming maintenance windows)
+3. The response from `GET /v0/backend_statuses` is parsed and read
+    1. The `statuses` array is checked to see if any of the authentication dependencies have a status other than `active`
+        1. If dependency status is `active` - do nothing
+        2. If dependency status is something other than `active` - lookup which dependency and display content associated with that dependency
+        3. If multiple dependencies are something other than `active` - display the multiple services down content
+    2. The `maintenance_windows` array is checked to see if any of the authentication dependencies have a maintenance window 1 hour prior
+        1. If maintenance window does not exist - do nothing
+        2. If maintenance window does exist and is within 1 hour prior to starting window, display the maintenance banner
+  
+## Thresholds
+> Note: StatsD (vets-api) => DataDog => PagerDuty => `GET /v0/backend_statuses` API route => VA.gov (sign-in modal)
+
+Thresholds are determined in Datadog and are connected to PagerDuty.
+
+| Authentication dependency | Threshold |
+| --- | --- |
+| Master Person Index (MPI) | MPI PSIM latency is above 5 seconds for 15 minutes |
+| SSOe (IAM) | No data received from outbound SSOe for 30 minutes |
+| ID.me | Authentication success rate is <45% in the past 30 minutes |
+| Login.gov | Authentication success rate is <45% in the past 30 minutes |
+| DS Logon | Authentication success rate is <20% in the past 15 minutes |
+
+
+## Content
+
+### Unexpected Downtime
 
 <a id="idme"></a>
 ### ID.me
