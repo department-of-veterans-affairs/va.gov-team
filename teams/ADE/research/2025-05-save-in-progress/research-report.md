@@ -537,8 +537,7 @@ The form we tested has 9 pages of questions, and each page has at the bottom a *
 <details>
   <summary>Figure 14: Form page 3 asks for your Social Security number and VA file number (Expand to show screenshot)</summary>
    <img src="./images/form-pg3-SSN&VAfile#.png" width="75%" height="75%">
- 
-</details>
+ </details>
 
 <details>
   <summary>Figure 15: Form page 4 asks whether you live on a U.S. military base, and then for your Country, Street address, Apartment or unit number, City, State/Province/Region, and Postal code (Expand to show screenshot)</summary>
