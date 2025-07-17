@@ -15,7 +15,7 @@
 
 **Jump to:**
 
-- [Hypotheses and conclusions](#user-content-hypotheses-and-conclusions)
+- [Hypotheses and conclusions](#hypotheses-and-conclusions)
 - [Key findings](#user-content-key-findings)
 - [Recommendations](#user-content-recommendations)
 - [Product User and Business Outcomes](#user-content-product-user-and-business-outcomes)
