@@ -1,7 +1,7 @@
 # ADE Tickets and How To Use Them
 > [!CAUTION]
 > - This document is a **WIP**
-> - Last updated: June, 16 2025
+> - Last updated: July, 16 2025
 
 ## Overview
 
