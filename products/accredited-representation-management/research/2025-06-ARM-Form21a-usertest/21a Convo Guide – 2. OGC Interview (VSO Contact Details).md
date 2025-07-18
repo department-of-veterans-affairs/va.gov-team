@@ -57,8 +57,10 @@ _Start recording._&#x20;
 ## **w Questions – 30 mins**&#x20;
 
 
-###Intro
-We are working with OGC to find ways to improve efficiencies for updating information in their database of representatives. This information is what Veterans see when they search for VSOs on the website, let me show you what this looks like for context. Screenshare OGC database and FAR.
+### Intro
+We are working with OGC to find ways to improve efficiencies for updating information in their database of representatives. 
+
+This information is what Veterans see when they search for VSOs on the website, let me show you what this looks like for context. Screenshare OGC database and FAR.
 
 1. Are you familiar with either of these search tools? If so, what do you use them for?
 
@@ -84,7 +86,7 @@ If so, can you share the link? (Maybe screenshare)
 
 12. How do you keep that content up-to-date?
 
-*Let’s talk about emails.*
+**Let’s talk about emails.**
 1. Do your VSO representatives have multiple professional email addresses? 
 - If so, which one do they tend to use to communicate with their Veteran clients? 
 
@@ -96,7 +98,7 @@ If so, can you share the link? (Maybe screenshare)
 
 5. Anything else we should know about email addresses?
 
-*Let’s talk about addresses*
+**Let’s talk about addresses**
 1. Does your organization support Veterans in person, remotely, or hybrid?
 
 2. Do any of your representatives work fully remotely? If so, would you want this indicated in the public-facing directory?
