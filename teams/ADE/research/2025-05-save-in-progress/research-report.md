@@ -676,7 +676,7 @@ _List all groups in red from the spreadsheet_
 ![To see an accessible version of this table, expand the next line](./images/VA-recruitment-checker.png)
 
 <details>
-  <summary>To see a more accessible version of the above image, expand to show a different table)</summary>
+  <summary>To see a more accessible version of the above image, expand to show a different table</summary>
    
 # ADE Save in Progress usability testing
 
