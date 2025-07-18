@@ -24,6 +24,6 @@ Additionally, the majority of file related logic should live server side, which 
 We will provide some standardized utility functions that live in `vets-website`, primarily for usage in forms, that give a basic implementation of how to handle encryption and password protected files.
 
 ### Consequences
-Teams will need to leverage centralized platform utilities for handling encrypted and password protected files. If they require further cusomtization, they will need to implement their own solution and ideally offer that solution back to the platform for future use.
+Teams will need to leverage centralized platform utilities for handling encrypted and password protected files. If they require further cusomtization, they will need to implement their own solution and potentially offer that solution back to the platform or forms library for other VFS teams to use.
 
 ### Open Questions
