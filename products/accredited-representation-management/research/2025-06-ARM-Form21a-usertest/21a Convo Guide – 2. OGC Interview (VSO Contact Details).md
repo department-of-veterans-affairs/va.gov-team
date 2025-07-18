@@ -57,59 +57,56 @@ _Start recording._&#x20;
 ## **w Questions – 30 mins**&#x20;
 
 
-Intro.
+###Intro
 We are working with OGC to find ways to improve efficiencies for updating information in their database of representatives. This information is what Veterans see when they search for VSOs on the website, let me show you what this looks like for context. Screenshare OGC database and FAR.
 
-Are you familiar with either of these search tools? If so, what do you use them for?
+1. Are you familiar with either of these search tools? If so, what do you use them for?
 
-How many certifying officials do you have at your organization?
+2. How many certifying officials do you have at your organization?
 
-Is “certifying official” the way you describe yourselves? Is this a job title or just what you use when you’re communicating with OGC?
-How many VSO representatives do you [each] support? 
+3. Is “certifying official” the way you describe yourselves? Is this a job title or just what you use when you’re communicating with OGC?
+4. How many VSO representatives do you [each] support? 
 
-Do you support singly accredited or cross-accredited VSO representatives, or both?
+5. Do you support singly accredited or cross-accredited VSO representatives, or both?
 
-Can you talk us through your current process for updating contact information for the representatives you support?
+6. Can you talk us through your current process for updating contact information for the representatives you support?
 
-Do other certifying officials at your organization also request updates to contact information? Does anyone else? 
+7. Do other certifying officials at your organization also request updates to contact information? Does anyone else? 
 
-How often do you need to update your representatives’ contact information?
+8. How often do you need to update your representatives’ contact information?
 
-What type of information tends to need updating most often?
+9. What type of information tends to need updating most often?
 
-What challenges do you have with keeping contact information up to date?
+10. What challenges do you have with keeping contact information up to date?
 
-Does your organization have a directory of your service officers and their contact information?
-
+11. Does your organization have a directory of your service officers and their contact information?
 If so, can you share the link? (Maybe screenshare)
 
-How do you keep that content up-to-date?
+12. How do you keep that content up-to-date?
 
-Let’s talk about emails.
-Do your VSO representatives have multiple professional email addresses? 
+*Let’s talk about emails.*
+1. Do your VSO representatives have multiple professional email addresses? 
+- If so, which one do they tend to use to communicate with their Veteran clients? 
 
-If so, which one do they tend to use to communicate with their Veteran clients? 
+2. Which one would you want displayed to Veterans for them to contact the representative, and is this different from what they’d want VA to use to contact them?
 
-Which one would you want displayed to Veterans for them to contact the representative, and is this different from what they’d want VA to use to contact them?
+3. If the VSO representatives you support have a VA.gov email account, do they use it to communicate with Veterans at all? If so, have you noticed confusion as far as them thinking you work for VA? 
 
-If the VSO representatives you support have a VA.gov email account, do they use it to communicate with Veterans at all? If so, have you noticed confusion as far as them thinking you work for VA? 
+4. If cross-accredited, do you know if your representatives have emails associated with each of the organizations? Do you know if they use those emails?
 
-If cross-accredited, do you know if your representatives have emails associated with each of the organizations? Do you know if they use those emails?
+5. Anything else we should know about email addresses?
 
-Anything else we should know about email addresses?
+*Let’s talk about addresses*
+1. Does your organization support Veterans in person, remotely, or hybrid?
 
-Let’s talk about addresses.
-Does your organization support Veterans in person, remotely, or hybrid?
+2. Do any of your representatives work fully remotely? If so, would you want this indicated in the public-facing directory?
 
-Do any of your representatives work fully remotely? If so, would you want this indicated in the public-facing directory?
+3. Would you ever want the address set to private (not displayed publicly)?
 
-Would you ever want the address set to private (not displayed publicly)?
-
-Do your representatives have multiple possible addresses? 
-
+4. Do your representatives have multiple possible addresses? 
 If so, what address would you want a Veteran to see/use, if any?
 
-Is it the same or a different address from what you’d want the VA and OGC to use to communicate with you?
+5. Is it the same or a different address from what you’d want the VA and OGC to use to communicate with you?
 
-Anything else we should know about locations and addresses?
+6. Anything else we should know about locations and addresses?
 
