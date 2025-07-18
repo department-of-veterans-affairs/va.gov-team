@@ -374,9 +374,9 @@ There are a number of findings that were outside the scope of the research goals
      
 <details><summary>Expand for a screenshot of the issue in Figure 8.</summary>
 
-Figure 8 shows the top of the intro page with the heading "Request personal records". Immediately below that is text that says "Freedom of Information Act (FOIA) or Privacy Act (PA) Request (VA Form 20-10206)".
+Figure 8 shows the top of the intro page with the heading "Request personal records", and immediately below that is text about the Freedom of Information Act (FOIA).
 
-<img src="./images/Intro-pg-unauth-top-h1.png" width="50%" height="50%">
+<img src="./images/Intro-pg-unauth-top-h1.png" width="50%" height="50%" alt="The top of the intro page has the heading 'Request personal records'. Immediately below that is text that says 'Freedom of Information Act (FOIA) or Privacy Act (PA) Request (VA Form 20-10206)'">
 </details>
 
 3. One participant who uses a screen reader on a phone said that they had a lot of **difficulty signing in**, making a strong password and remembering it, creating a passkey, setting up two-factor authentication, and getting logged out with timeout. A different participant wished that they could sign in with a fingerprint, didn't get logged out, and had a "remember this device" option so you wouldn't have to log in again.
@@ -505,10 +505,10 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
 <details>
   <summary>Figure 10: Intro page--not signed in (Expand to show screenshot)</summary>
 
-  Figure 10 explains what you need to know about the form, and prompts the user to sign in to start filling it out.
+  Figure 10 explains about about the form, and prompts the user to sign in to start filling it out.
 
   <img src="./images/Intro-pg-unauth-top.png" width="75%" height="75%">
-  <img src="./images/Intro-pg-unauth-bottom.png" width="75%" height="75%">
+  <img src="./images/Intro-pg-unauth-bottom.png" width="75%" height="75%" alt="The intro page explains what to know before you fill out the form and the types of information you can request. At the bottom of the page is a prompt to sign in to start filling out the form">
 
 </details>
 
@@ -518,7 +518,7 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
   Figure 11 resembles the not-signed-in intro page, except that the prompt to sign in has been replaced by an informational alert about saving and a "Start your request" link.
   
    <img src="./images/Intro-pg-auth-top.png" width="75%" height="75%">
-   <img src="./images/Intro-pg-auth-bottom.png" width="75%" height="75%">
+   <img src="./images/Intro-pg-auth-bottom.png" width="75%" height="75%" alt="The signed-in version of the intro page is the same as the not-signed-in intro page, except that the prompt to sign in has been replaced by an informational alert about saving and a 'Start your request' link">
 
 </details>
 
@@ -526,28 +526,28 @@ The form we tested has 9 pages of questions, and each page has at the bottom a *
 
 <details>
   <summary>Figure 12: Form page 1 asks whether you are a U.S. citizen (Expand to show screenshot)</summary>
-   <img src="./images/form-pg1-alert&citizenship.png" width="75%" height="75%">
+   <img src="./images/form-pg1-alert&citizenship.png" width="75%" height="75%" alt="Radio button question with options to indicate whether you're a U.S. citizen">
 </details>
 
 <details>
-  <summary>Figure 13: Form page 2 asks for your first name, middle initial, last name, date of birth (month, day, year), and place of birth (Expand to show screenshot)</summary>
-   <img src="./images/form-pg2-name&DOB.png" width="50%" height="50%">
+  <summary>Figure 13: Form page 2 asks for your first name, middle initial, last name, birthdate, and place of birth (Expand to show screenshot)</summary>
+   <img src="./images/form-pg2-name&DOB.png" width="50%" height="50%" alt="first name, middle initial, last name, birth month dropdown, birth day, birth year, and place of birth">
 </details>
 
 <details>
   <summary>Figure 14: Form page 3 asks for your social security number and VA file number (Expand to show screenshot)</summary>
-   <img src="./images/form-pg3-SSN&VAfile.png" width="75%" height="75%">
+   <img src="./images/form-pg3-SSN&VAfile.png" width="75%" height="75%" alt="social security number and VA file number--one of which must be entered">
  </details>
 
 <details>
   <summary>Figure 15: Form page 4 asks whether you live on a U.S. military base, and then for your country, street address, apartment or unit number, city, state/province/region, and postal code (Expand to show screenshot)</summary>
-   <img src="./images/form-pg4-mailing-addr-top.png" width="75%" height="75%">
-   <img src="./images/form-pg4-mailing-addr-bottom.png" width="75%" height="75%">
+   <img src="./images/form-pg4-mailing-addr-top.png" width="75%" height="75%" alt="top of the page with a checkbox for whether you live on a U.S. military base, followed by a dropdown field for your country. Below that are fields for street address, apartment or unit number, and city">
+   <img src="./images/form-pg4-mailing-addr-bottom.png" width="75%" height="75%" alt="fields for state/province/region and postal code">
 </details>
 
 <details>
   <summary>Figure 16: Form page 5 asks for your phone number and email (Expand to show screenshot)</summary>
-   <img src="./images/form-pg5-phone&email.png" width="75%" height="75%">
+   <img src="./images/form-pg5-phone&email.png" width="75%" height="75%" alt="fields to enter phone number and email, both of which are required">
  </details>
 
 <details>
