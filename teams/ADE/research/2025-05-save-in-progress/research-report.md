@@ -235,7 +235,7 @@ Figure 4 shows a large magnified heading that says 'Benefit applications' and no
 - On the Review/Submit page, a **screen magnifier user didn't see the "+"'s to expand the accordions because they're so far to the right**. He saw the names of the form sections, but there was no visual indication that there was anything more to scroll right to see. 
 <details><summary>Expand for a screenshot of the issue in Figure 5.</summary>
 
-Figure 5 shows 3 horizontal gray bars labeled 'Your contact information', 'Records requested', and 'Additional information' with no indication of how to interact with them.
+Figure 5 shows 3 horizontal gray bars labeled with sections of the form but with no indication of how to interact with them.
 
 <img src="./images/p13-review-accordions-wo-plus.png" width="50%" height="50%" alt="3 horizontal gray bars labeled 'Your contact information', 'Records requested', and 'Additional information' with no indication of how to interact with them">
 </details>
@@ -291,7 +291,7 @@ Figure 5 shows 3 horizontal gray bars labeled 'Your contact information', 'Recor
 
 Figure 6 shows a selected checkbox that says 'I live on a United States mil' on the first line and 'base outside of the U.S.' on the second line.
 
-<img src="./images/p13-military-base-checkbox-checked.png" width="50%" height="50%" alt="A selected checkbox that says 'I live on a United States mil' on the first line and 'base outside of the U.S.' on the second line">
+<img src="./images/p13-military-base-checkbox-checked.png" width="50%" height="50%" alt="A selected checkbox that says 'I live on a United States mil' (truncated word) on the first line and 'base outside of the U.S.' on the second line">
 </details>
 
 - One screen reader user (JAWS on desktop) reported that the State/Province/Region and Postal code fields said "has pop up", even though they're both text fields. This participant selected "United States" from the Country dropdown, and then changed it to "Austria". Without "United States" selected, the State/Province/Region field becomes a text box, not a dropdown. However, JAWS announced "has popup", which is incorrect. JAWS also said "has popup" for the Postal code field, which is also incorrect.
@@ -515,10 +515,10 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
 <details>
   <summary>Figure 11: Intro page--signed in (Expand to show screenshot)</summary>
 
-  Figure 11 resembles the not-signed-in intro page, except that the prompt to sign in has been replaced by an informational alert about saving and a "Start your request" link.
+  Figure 11 The signed-in version of the intro page has an informational alert about saving and a "Start your request" link.
   
    <img src="./images/Intro-pg-auth-top.png" width="75%" height="75%">
-   <img src="./images/Intro-pg-auth-bottom.png" width="75%" height="75%" alt="The signed-in version of the intro page is the same as the not-signed-in intro page, except that the prompt to sign in has been replaced by an informational alert about saving and a 'Start your request' link">
+   <img src="./images/Intro-pg-auth-bottom.png" width="75%" height="75%" alt="The signed-in version of the intro page is the same as the not-signed-in version, except that the prompt to sign in has been replaced by an informational alert about saving and a 'Start your request' link">
 
 </details>
 
@@ -551,12 +551,12 @@ The form we tested has 9 pages of questions, and each page has at the bottom a *
  </details>
 
 <details>
-  <summary>Figure 17: Form page 6 is a list of checkboxes, one for each record that can be requested (Expand to show screenshot)</summary>
+  <summary>Figure 17: Form page 6 is a list of checkboxes for which  record(s) to request (Expand to show screenshot)</summary>
    <img src="./images/form-pg6-records.png" width="75%" height="75%" alt="a list of checkboxes, one for each type of record that can be requested">
 </details>
 
 <details>
-  <summary>Figure 18: Form page 7 is an optional Additional records information field (Expand to show screenshot)</summary>
+  <summary>Figure 18: Form page 7 is an Additional records information field (Expand to show screenshot)</summary>
    <img src="./images/form-pg7-additional-info.png" width="75%" height="75%" alt="optional Additional records information field">
 </details>
 
@@ -566,9 +566,9 @@ The form we tested has 9 pages of questions, and each page has at the bottom a *
 </details>
 
 <details>
-  <summary>Figure 20: Form page 9, which is the last page in the form, has expandable sections of form information at the top. Below that is a note about criminal penalties for withholding information, and a statement of truth that involves typing your full name as well as checking a box that you certify the information (Expand to show screenshot)</summary>
+  <summary>Figure 20: Form page 9, which is the last page in the form, has expandable sections of form information at the top. Below is a notice about criminal penalties for withholding information, and a statement of truth that requires typing your full name and checking a box to certify the information (Expand to show screenshot)</summary>
    <img src="./images/form-pg9-review&submit.png" width="75%" height="75%" alt="the last page in the form, which has expandable sections of form information at the top">
-   <img src="./images/form-pg9-statement-of-truth.png" width="75%" height="75%" alt="Below the expandable sections is a note about criminal penalties for withholding information, and a statement of truth that involves typing your full name as well as checking a box that you certify the information">
+   <img src="./images/form-pg9-statement-of-truth.png" width="75%" height="75%" alt="Below the expandable sections is a note about criminal penalties for withholding information, and a statement of truth that requires typing your full name and checking a box that you certify the information">
 </details>
 
 </details>
