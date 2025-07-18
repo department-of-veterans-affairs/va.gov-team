@@ -9,7 +9,7 @@ Feature toggle
 
 | Toggle name | Description |
 | ----------- | ----------- |
-|ezr_associations_api_enabled | Enables EC and NOK forms, EC and NOK prefill, and Associations API in VES |
+|ezr_emergency_contacts_enabled | Enables EC and NOK forms, EC and NOK prefill, and Associations API in VES |
 
 
 Updated 7/17 in response to UAT results- all code will now point to one toggle in order to align the back end and front end alignment within the Associates API 
