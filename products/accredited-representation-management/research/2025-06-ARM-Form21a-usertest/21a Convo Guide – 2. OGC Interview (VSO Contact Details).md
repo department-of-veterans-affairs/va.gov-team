@@ -60,6 +60,9 @@ _Start recording._&#x20;
 ### Intro
 We are working to find ways to improve efficiencies for updating information in OGC database of representatives. 
 
+Briefly explain your role and responsibilies along with number of years you've been in the position. 
+
+Thank you. 
 
 1. Can you talk us through the current process for a representative seeking to update their contact information?
 
@@ -72,6 +75,8 @@ We are working to find ways to improve efficiencies for updating information in 
 5. What challenges do you have with keeping contact information up to date?
 
 6. What system or software does OGC utilize to keep representative contact records? (Is it GCLAWS?)
+
+7. Is there a way for OGC to store two addresses for the representative? Personal (home) and Business (org) 
 
 
 **Let’s talk about emails.**
