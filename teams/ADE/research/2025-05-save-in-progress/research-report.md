@@ -535,8 +535,8 @@ The form we tested has 9 pages of questions, and each page has at the bottom a *
 </details>
 
 <details>
-  <summary>Figure 14: Form page 3 asks for your Social Security number and VA file number (Expand to show screenshot)</summary>
-   <img src="./images/form-pg3-SSN&VAfile#.png" width="75%" height="75%">
+  <summary>Figure 14: Form page 3 asks for your social security number and VA file number (Expand to show screenshot)</summary>
+   <img src="./images/form-pg3-SSN&VAfile.png" width="75%" height="75%">
  </details>
 
 <details>
@@ -570,11 +570,6 @@ The form we tested has 9 pages of questions, and each page has at the bottom a *
    <img src="./images/form-pg9-review&submit.png" width="75%" height="75%">
    <img src="./images/form-pg9-statement-of-truth.png" width="75%" height="75%">
 </details>
-
-</details>
-<details>
-  <summary>TEST to see if can show SSN page (Expand to show screenshot)</summary>
-  <img src="./images/form-pg3-SSN&VAfile#.png" width="75%" height="75%">
 
 </details>
 
