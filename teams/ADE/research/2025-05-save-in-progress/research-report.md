@@ -674,3 +674,41 @@ _List all groups in red from the spreadsheet_
 * Beginner AT user
 
 ![VA-recruitment-checker](./images/VA-recruitment-checker.png)
+
+![To see an accessible version of this table, expand the next line](./images/VA-recruitment-checker.png)
+
+<details>
+  <summary>To see a more accessible version of the above image, expand to show a different table)</summary>
+   
+# ADE Save in Progress usability testing
+
+**Final # of participants:** 11  
+**# of AT users:** 6  
+**# of no shows:** 1
+
+## Race
+
+| Category | % | Target | Study | 1 | 2 | 3 | 4 | 5 | 7 | 8 | 9 | 10 | 11 | 12 | 13 |
+|----------|---|---------|-------|---|---|---|---|---|---|---|---|----|----|----|----|
+| Black or African American | 15.00% | 2 | 3 | 0 | 0 | 0 | 1 | 0 | 0 | N | 1 | 0 | 1 | 0 | 0 |
+| Hispanic, Latino, or Spanish origin | 12.00% | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Biracial | 3.90% | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Asian | 3.00% | 1 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 |
+| Native Hawaiian or other Pacific Islander | - | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| First Nations (Canada) | - | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Native, American Indian or Alaska Native | 0.30% | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+
+## Assistive Tech (AT)
+*Ask an AT specialist to help you complete this. Targets are for a general population*
+
+| Category | % | Target | Study | 1 | 2 | 3 | 4 | 5 | 7 | 8 | 9 | 10 | 11 | 12 | 13 |
+|----------|---|---------|-------|---|---|---|---|---|---|---|---|----|----|----|----|
+| Beginner AT User | 50.00% | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Experienced AT User | 50.00% | 3 | 6 | 1 | 1 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| Desktop Screen Reader (SR) | 20.00% | 2 | 2 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Mobile Screen Reader (SR) | 20.00% | 2 | 2 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Magnification/Zoom | 20.00% | 2 | 2 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
+| Speech Input Tech (Siri, Dragon) | 20.00% | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
+ </details>
