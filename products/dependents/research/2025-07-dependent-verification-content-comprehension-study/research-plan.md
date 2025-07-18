@@ -121,9 +121,9 @@ Where will you be holding the research sessions? Be sure to include whether this
 ## Research materials 📔
 
 **For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html)**
-- [Link to email with instructions](url goes here)
+- Link to email with instructions: Please use standard Perigean language
 - [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
+- [Link to prototype or OptimalSort session for group B](url goes here): In progress
 
 	
 ## Recruitment 🎯	
@@ -179,21 +179,21 @@ Where will you be holding the research sessions? Be sure to include whether this
 
 ### Optional Kick-off Call with Perigean
 
-- `Suggested dates and times:` **[Enter dates and times MM/DD HH:MM]**
+- `Suggested dates and times:` **07/22 10:30- 01:00, 07/23 09:00- 01:00**
 
 ### Prepare
 
 **A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.** 
 
-- `Pilot participant name:` **[Enter name]**
-- `Date and time of pilot session:` **[Enter time]** 
+- `Pilot participant name:` **Robin Garrison**
+- `Date and time of pilot session:` **07/22, participant will complete survey at their convenience** 
 
 ### Research sessions
-- `Planned dates of research:` **[Enter dates MM/DD-MM/DD]**
+- `Planned dates of research:` **07/28-08/01**
 
 ### Length of sessions
 
-**We estimate that the survey will take xx minutes to complete.**
+**We estimate that the survey will take 20 minutes to complete.**
 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
@@ -212,6 +212,6 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 
 
 ## Approvals ✅
-- `Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]`
+- `Reviewed by Ben Delphine on 07-10-2025`
 - `Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]`
 
