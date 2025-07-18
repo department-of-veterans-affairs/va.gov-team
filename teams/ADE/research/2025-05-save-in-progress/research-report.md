@@ -122,25 +122,15 @@ For demographic details, see [Who we talked to](#who-we-talked-to).
 ## Hypotheses and Conclusions
 
 1. While filling out online forms, Veterans expect that their form data will be saved.
-
     - **Likely False** because many participants shared about losing their work while filling out forms that time out or get rejected, and then they have to start all over again. 
-
 1. With the new design, Veterans are confident that their form data will be saved. 
-
     - **Likely False** because participants didn't assume this would happen, and most didn't read and remember the information alerts that said it would. All saw their data saved after clicking *Finish later* and most concluded that saving happened only if they clicked *Finish later* or *Continue*. They said that they *hoped* their work would be saved but were *not confident* that it would be.  
-
 1. Veterans will know how to resume filling out a form that they started previously. 
-
     - **Likely True** because the *Continue your request* button was readily found and used by most participants (although the user wasn't signed out), and those who were brought to the My VA page found the *Continue your application* link there. This could be tested again in a different study with a prototype that signed out the user during a break in filling out the form. 
-
 1. When Veterans encounter error messages while filling out online forms, they are able to resolve the errors. 
-
     - **Likely False** because one participant using a screen reader had 4 different errors that he was unable to resolve on his own. All 8 other participants who encountered errors were able to resolve the errors by themselves, including 2 other participants using screen readers. 
-
 1. While filling out an online form, Veterans will notice the progress bar and find it useful. 
-
     - **Definitely False** because half of the participants didn't mention it, including several screen reader users who never heard it announced because it's above the H1 on form pages.
-
 
 ## Key Findings
 
