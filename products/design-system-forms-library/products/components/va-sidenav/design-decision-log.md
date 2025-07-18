@@ -71,10 +71,10 @@
 * This text is applied as both visible and invisible text, helping all users identify the navigation’s purpose no matter where they encounter it on the website.
 
 
-## **005 Two levels deep **
+## **005 Two levels deep**
 
 
-* Status: Proposed
+* Status: Accepted
 * Decision date:  6/23/2025
 
 **Context**
@@ -150,7 +150,7 @@ We will **not implement accordion-style expand/collapse behavior** in the side n
 * Future enhancements can revisit accordion behavior if a strong use case arises
 
 
-## **09 Composability implementation API 
+## **09 Composability implementation API**
 
 Context -[ SEE ARCHITECTURE DOCUMENT](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/va-sidenav/properties-architecture.md)
 
