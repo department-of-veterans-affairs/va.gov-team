@@ -20,7 +20,7 @@ The CHAMPVA Claims form is available as both authenticated and unauthenticated f
   
 `What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?`
 
-We have already successfully launched CHAMPVA Claims form. In an attempt to reduce the claims processing backlog and send-backs of claims missing necessary information, we are adding a resubmission flow and file verification to the existing form.
+We have already successfully launched CHAMPVA Claims form. In an attempt to reduce the claims processing backlog and send-backs of claims missing necessary information, we are adding a resubmission flow and a file verification method to ensure that the correct information (such as diagnosis code) is present in uploaded documentation.
 
 `Product Brief`
 
@@ -127,7 +127,7 @@ Remote research, over Zoom.
 
 **For moderated usability tests:** 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/10-7959a/research/user-research/2025-06-Conversation-Guide-Claims-Resubmissions-and-File-Verification.md)
-- [Link to prototype](/) *need link*
+- [Link to prototype](https://staging.va.gov/family-and-caregiver-benefits/health-and-disability/file-champva-claim-10-7959a/introduction)
 	
 ## Recruitment 🎯	
 
@@ -140,7 +140,7 @@ Our intended audience for this study is Veterans with high disability ratings an
   
 * **Cohort 2 (n = 8 minimum):** Spouses and dependent children of Veterans with a 100% service connected disability rating, who are currently enrolled in CHAMPVA benefits
 
-* **Cohort 3 (n = 2 minimum):** Veterans with a service connected disability rating with a spouse and/or dependent children who may or may not be enrolled in CHAMPVA benefits
+* **Cohort 3 (n = 2 minimum):** Assistive Technology (AT) users who are Veterans with a service connected disability rating with a spouse and/or dependent children who may or may not be enrolled in CHAMPVA benefits
 
 ### Recruitment criteria
 **All participants must:**
@@ -183,7 +183,7 @@ _Response options: YES, NO_
 
 **Screener Cohort 2 (Spouses and dependent children of Veterans with a 100% service connected disability):**
 1. Please select the answer that best fits you:
-_Response options: Spouse of a Veteran, Dependent child of a Veteran (Answering either would qualify the participant)_
+_Response options: Spouse of a Veteran, Dependent child of a Veteran, Neither (Answering neither would disqualify the participant)_
 
 2. Does the Veteran you are related to get a VA disability compensation for a service-connected disability rating of 100%?
 _Response options: YES, NO (Answering YES would qualify the participant)_
@@ -201,7 +201,7 @@ _Response options: YES, NO, UNSURE_
 - Recruit 4 assistive tech users - **at least 2 AT user sessions** are needed for this study to be complete
 
 **Screener Cohort 3 (Veterans with a service connected disability whose spouse/dependents may or may not be enrolled in CHAMPVA benefits):**
-1. Do you get a VA disability compensation for a service-connected disability rating of 50% or higher?
+1. Do you currently receive VA disability compensation for a service-connected disability rating of 50% or higher?
 _Response otions: YES or NO_
 * Yes [jump to next question]
 * No [disqualify]
