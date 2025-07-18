@@ -396,6 +396,7 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
 
 1. Investigate the **form navigation issues that 2 screen reader users had while using VoiceOver on iPhones with the Safari** web browser in which focus kept jumping to the top of the page or to the Safari controls below the page after almost every field. 
     - *Supporting evidence:* These focus issues made it very difficult for 2 mobile screen reader users to fill out the form. One of them stayed with Safari, and the other gave up and switched to Chrome.  
+    --> *NOT POSSIBLE TO FIX? because of a known bug with VoiceOver and Safari (need confirmation)*
 
 1. **Consider whether having many short pages in a form is preferable to a smaller number of longer pages**. Be aware of the feedback that some Veterans dislike VA forms having so many short pages. 
     - *Supporting evidence:* 3 of 11 participants (1 using a screen reader on desktop, 1 using a screen magnifier on desktop, and 1 using no assistive tech on a phone) said that the form had too many short pages and that they preferred fewer longer pages with related information on the same page. The screen magnifier user said that having to repeatedly click _Continue_ to see the next question was annoying because it's more of his screen reader that he has to listen to.
@@ -409,7 +410,7 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
 
 ### For the Request Personal Records form
 #### Fix these accessibility issues:
-8. See if **field type announcing by screen readers can happen sooner**, perhaps *before* the field name, to set the user's expectations for  the type of interaction expected.
+8. See if **field type announcing by screen readers can happen sooner**, perhaps *before* the field name, to set the user's expectations for  the type of interaction expected. --> *NOT POSSIBLE TO FIX because we can't change the order in which a screen reader announces things*
     - *Supporting evidence:* A desktop screen reader user didn't know that the birth month field was a popup because he stopped the screen reader before it was done announcing. A mobile VoiceOver user also didn't know that field was a popup and so tried to type a number into the field. In addition, on the Review/Submit page, a JAWS screen reader user heard the checkbox announced *after* the entire "I certify the information above is correct and true to the best of my knowledge and belief" line, which was unexpected. 
 
 1. **Change the VoiceOver announcement text for dropdown fields from "Double tap to activate the picker" to use plain language**. For example, "Double tap to select the month", "Double tap to select the country", and "Double tap to select the state". --> *NOT POSSIBLE TO FIX because this wording is part of VoiceOver*
@@ -418,10 +419,10 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
 1. Try to **fix announcing issues with JAWS where it says "has popup" for the State/Province/Region and Postal code text fields**. 
     - *Supporting evidence:* One screen reader user (JAWS on desktop) reported that the State/Province/Region (as long as "United States" isn't selected in the Country field) and Postal code fields said "has pop up", even though they're both text fields.
 
-1. Try to **fix announcing issues with VoiceOver for the citizenship question, which said it was a checkbox instead of a radio button**.
+1. Try to **fix announcing issues with VoiceOver for the citizenship question, which said it was a checkbox instead of a radio button**. --> *NOT POSSIBLE TO FIX because it's an iOS bug that was fixed for Riley when she updated*
     - *Supporting evidence:* One screen reader user (VoiceOver on iOS) didn't know that the citizenship question was a radio button when they tapped on it. Riley Orr tested and found that it's announced as a checkbox (bug) and radio button on her iPhone, but announced (correctly) as a radio button on desktop. After she updated her phone, it announced (correctly) as a radio button.
 
-1. See if the **duplicate messaging from JAWS for the records checkboxes and mailing address fields can be removed**.
+1. See if the **duplicate messaging from JAWS for the records checkboxes and mailing address fields can be removed**. --> *NOT POSSIBLE TO FIX because it's a known JAWS bug*
     - *Supporting evidence:* Two screen reader users said that they were hearing every records checkbox option and mailing address fields twice while using the arrow keys to navigate through the form.
 
 1. Try to **fix focus issues with VoiceOver while getting in and out of the date of birth Month field** and potentially other dropdown fields. --> *NOT POSSIBLE TO FIX because of a [known bug with VoiceOver](https://webaim.org/discussion/mail_thread?thread=7141)*
@@ -442,6 +443,7 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
 
 1. At the **top of the form's intro page, consider simplifying the text directly under the H1**: 
     > "Freedom of Information Act (FOIA) or Privacy Act (PA) Request (VA Form 20-10206)"
+    - --> *NOT POSSIBLE TO FIX because this is the legal name of the form, which we are required to place underneath the plain language name of the form*
     - *Supporting evidence:* One participant was confused by "Freedom of Information Act (FOIA)" right underneath the name of the form on the intro page where they expected to see something about the Request personal records form.
 
 1. **Fix the postal code field so it will accept a valid autofill suggestion without returning an error** ("Enter a ZIP code"). This is a known issue with autofilling with a coding workaround in [this ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/2668).
