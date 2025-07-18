@@ -1,5 +1,5 @@
 # 10-10EZR Emeregency Contact (EC) and Next of Kin (NoK) - Release Plan (WIP)
-- Last updated: 7/17/2025
+- Last updated: 7/18/2025
 
 
 ## Step 1: Development
