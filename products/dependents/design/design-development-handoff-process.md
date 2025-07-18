@@ -5,7 +5,7 @@ The design to developer handoff should follow this general process for most work
 <img width="3040" height="1207" alt="" src="https://github.com/user-attachments/assets/e650dd51-02dc-4282-aba9-970a8cae8a5a" />
 
 
-The process is outlined in the above image. The steps include:
+The process is outlined in the above image. [It's also captured in Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1752613833881/24d89e466bea023ac46f010fddda2c8f204a93f4?wid=0-1752689649927). The steps include:
 
 1. Design ticket created
 2. Design work happens (Some ad hoc meetings may occur with developers about design work)
