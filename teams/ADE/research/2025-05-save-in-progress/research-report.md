@@ -5,7 +5,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Accessibility Digital Experience (ADE)**
 
-**Date:** 07/17/2025
+**Date:** 07/18/2025
 
 **Contacts:** Cindy Merrill
 
@@ -28,9 +28,9 @@ Veterans may fill out web forms on VA.gov throughout their lives, including ALL 
 
 ### Two accessibility issues
 	
-1. While VA.gov users are signed in (authenticated) and filling out a form, the "save in progress" alert flashes on and then off with every field entry or edit ([Figure 1 shows the alert with a light green background](#figure-1)). Because this alert displays *below* the Continue button, screen readers don't announce it, which is an accessibility issue. All users should have access to the same information about the user interface (per [WCAG 1.3.1](https://www.w3.org/WAI/WCAG21/Understanding/info-and-relationships.html)). 
+1. While VA.gov users are signed in (authenticated) and filling out a form, the "save in progress" alert flashes on and then off with every field entry or edit ([Figure 1 shows the alert with a light green background](#user-content-figure-1)). Because this alert displays *below* the Continue button, screen readers don't announce it, which is an accessibility issue. All users should have access to the same information about the user interface (per [WCAG 1.3.1](https://www.w3.org/WAI/WCAG21/Understanding/info-and-relationships.html)). 
 
-2. There's a "Finish this request later" button that looks like a link ([Figure 2](#figure-2)), which is another accessibility issue. Links that take you to another page should look like links, and buttons that do actions should look like buttons (per [VA Design System guidance](https://design.va.gov/components/link/#choose-the-right-element-buttons-vs-links)). 
+2. There's a "Finish this request later" button that looks like a link ([Figure 2](#user-content-figure-2)), which is another accessibility issue. Links that take you to another page should look like links, and buttons that do actions should look like buttons (per [VA Design System guidance](https://design.va.gov/components/link/#choose-the-right-element-buttons-vs-links)). 
 
 #### Figure 1
 
@@ -214,9 +214,9 @@ For demographic details, see [Who we talked to](#who-we-talked-to).
 
 <details><summary>Expand for a screenshot of the issue in Figure 3.</summary>
 
-Figure 3 shows the form card on My VA with large text that says 'Application expires on: July 14, 2025' and 'Last saved on: May 15, 2025', but very small text that says 'Continue your application'.
+Figure 3 shows the form card on My VA magnified with all large-sized text except for very small text that says 'Continue your application'.
 
-<img src="./images/p13-MyVA-form-card-bottom.png" width="50%" height="50%">
+<img src="./images/p13-MyVA-form-card-bottom.png" width="50%" height="50%" alt="form card on My VA with large text that says 'Application expires on: July 14, 2025' and 'Last saved on: May 15, 2025', but very small text that says 'Continue your application'">
 
 </details>
 
