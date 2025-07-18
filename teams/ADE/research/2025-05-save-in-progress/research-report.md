@@ -698,7 +698,7 @@ This research does not include the perspectives of the following marginalized Ve
 
 ## Assistive Tech (AT)
 
-| Category | % | Target | Study | 1 | 2 | 3 | 4 | 5 | 7 | 8 | 9 | 10 | 11 | 12 | 13 |
+| Category | % | Target | Study | p1 | p2 | p3 | p4 | p5 | p7 | p8 | p9 | p10 | p11 | p12 | p13 |
 |----------|---|---------|-------|---|---|---|---|---|---|---|---|----|----|----|----|
 | Beginner AT User | 50.00% | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | Experienced AT User | 50.00% | 3 | 6 | 1 | 1 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
