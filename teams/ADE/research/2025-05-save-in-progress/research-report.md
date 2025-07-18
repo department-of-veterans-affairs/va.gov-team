@@ -214,7 +214,7 @@ For demographic details, see [Who we talked to](#who-we-talked-to).
 
 <details><summary>Expand for a screenshot of the issue in Figure 3.</summary>
 
-Figure 3 shows the form card on My VA magnified with all large-sized text except for very small text that says 'Continue your application'.
+Figure 3 shows the form card on My VA magnified with all large-sized text except for much smaller text that says 'Continue your application'.
 
 <img src="./images/p13-MyVA-form-card-bottom.png" width="50%" height="50%" alt="form card on My VA with large text that says 'Application expires on: July 14, 2025' and 'Last saved on: May 15, 2025', but very small text that says 'Continue your application'">
 
@@ -223,9 +223,9 @@ Figure 3 shows the form card on My VA magnified with all large-sized text except
 - This same screen magnifier user missed that the header "Benefit applications and forms" was relevant because he only saw the words "Benefit applications". He didn't see the word "forms" because it was to the right of the magnified portion of the page that he was looking at. 
 <details><summary>Expand for a screenshot of the issue in Figure 4.</summary>
 
-Figure 4 shows a large heading that says 'Benefit applications' and nothing about forms.
+Figure 4 shows a large magnified heading that says 'Benefit applications' and nothing about forms.
 
-<img src="./images/p13-MyVA-Benefit-apps-no-forms.png" width="50%" height="50%">
+<img src="./images/p13-MyVA-Benefit-apps-no-forms.png" width="50%" height="50%" alt="The large magnified heading says 'Benefit applications', but not the word 'forms'">
 </details>
 
 ### Finding 6: VA forms in general had accessibility issues for screen readers and screen magnifiers.
@@ -237,7 +237,7 @@ Figure 4 shows a large heading that says 'Benefit applications' and nothing abou
 
 Figure 5 shows 3 horizontal gray bars labeled 'Your contact information', 'Records requested', and 'Additional information' with no indication of how to interact with them.
 
-<img src="./images/p13-review-accordions-wo-plus.png" width="50%" height="50%">
+<img src="./images/p13-review-accordions-wo-plus.png" width="50%" height="50%" alt="3 horizontal gray bars labeled 'Your contact information', 'Records requested', and 'Additional information' with no indication of how to interact with them">
 </details>
 
 - Many people navigate through forms quickly and miss things, regardless of whether they're using assistive tech (AT). Below is a summary of AT **navigation strategies that we observed in this study**, some of which were used to go through the new form slowly and carefully, while others were short-cuts that sometimes caused problems.
@@ -291,7 +291,7 @@ Figure 5 shows 3 horizontal gray bars labeled 'Your contact information', 'Recor
 
 Figure 6 shows a selected checkbox that says 'I live on a United States mil' on the first line and 'base outside of the U.S.' on the second line.
 
-<img src="./images/p13-military-base-checkbox-checked.png" width="50%" height="50%">
+<img src="./images/p13-military-base-checkbox-checked.png" width="50%" height="50%" alt="A selected checkbox that says 'I live on a United States mil' on the first line and 'base outside of the U.S.' on the second line">
 </details>
 
 - One screen reader user (JAWS on desktop) reported that the State/Province/Region and Postal code fields said "has pop up", even though they're both text fields. This participant selected "United States" from the Country dropdown, and then changed it to "Austria". Without "United States" selected, the State/Province/Region field becomes a text box, not a dropdown. However, JAWS announced "has popup", which is incorrect. JAWS also said "has popup" for the Postal code field, which is also incorrect.
@@ -309,9 +309,9 @@ Figure 6 shows a selected checkbox that says 'I live on a United States mil' on 
 
 <details><summary>Expand for a screenshot of the issue in Figure 7.</summary>
 
-Figure 7 begins with a note about criminal penalties for withholding information or providing incorrect information. Just below that says 'Statement of truth' in large bold letters. Below that is 'I confirm that the identifying information in this form is accurate and has been represented correctly' and then 'I have read and accept the privacy policy'. Below that is a required field titled 'Your full name', followed by an unselected required checkbox that says 'I certify the information above is correct and true to the best of my knowledge and belief.'
+Figure 7 starts with a note about criminal penalties for withholding information or providing incorrect information. Just below that says 'Statement of truth' with a confirmation statement. Below that is a required field for your name, followed by an unselected required checkbox to certify the correctness of the information entered above.
 
-<img src="./images/form-pg9-statement-of-truth.png" width="50%" height="50%">
+<img src="./images/form-pg9-statement-of-truth.png" width="50%" height="50%" alt="A screen with a note about criminal penalties for withholding information or providing incorrect information. Just below that says 'Statement of truth' in large bold letters. Below that is 'I confirm that the identifying information in this form is accurate and has been represented correctly' and then 'I have read and accept the privacy policy' with a link to the policy. Below that is a required field titled 'Your full name', followed by an unselected required checkbox that says 'I certify the information above is correct and true to the best of my knowledge and belief.'">
 </details>
         
 - Another screen reader user (JAWS on desktop) didn't expect the checkbox to be announced _after_ the "I certify..." line instead of before it.
