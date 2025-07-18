@@ -2,7 +2,7 @@
 name: Benefits Content Practice Template
 about: Issue template for Content work for Decision Reviews/BMT 1/BMT 2
 title: '[Content] Product: Feature - Request'
-labels: content
+labels: content,hcd
 assignees: cinlackey
 ---
 
@@ -28,73 +28,83 @@ Please fill out the sections below to help us understand your request, prioritiz
 
 ## 📝 Background Context
 
-- What kind of content support is needed? Review [the content design menu](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1746655929211/80067a3f9875681b70f4a8b6f3c0bafdfe44d909?sender=uf5838c6c24bc1098b12b5304):
-  - [ ] Workshop facilitation
-    - [ ] Lean Canvas
-    - [ ] Scoping (Effort/Impact scoping, Goal setting, other? please describe)
-    - [ ] User Story Map
-    - [ ] Other [describe]
-  - [ ] Define
-    - [ ] Identify content needs
-    - [ ] Analyze existing content (in production)
-  - [ ] Create
-    - [ ] Create new content
-  - [ ] Ideate
-    - [ ] Review content already created by the design team (not yet in production)
-  - [ ] User testing
-    - [ ] Content on prototypes for testing
-    - [ ] Content validation during testing
-    - [ ] Refine content based on testing
+**What kind of content support is needed?** Review [the content design menu](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1746655929211/80067a3f9875681b70f4a8b6f3c0bafdfe44d909?sender=uf5838c6c24bc1098b12b5304)
 
-Provide a short summary of the request. Include context like:  
-- What you’re building  
-- Why the work matters  
+_Delete all except the one that applies to your request_
+
+**Workshop facilitation:**
+- Lean Canvas
+- Scoping (Effort/Impact scoping, Goal setting, other? please describe)
+- User Story Map
+- Other [describe]
+
+**Define:**
+- Identify content needs
+- Analyze existing content (in production)
+
+**Create:**
+- Create new content
+
+**Ideate:**
+- Review content already created by the design team (not yet in production)
+
+**User testing:**
+- Content on prototypes for testing
+- Content validation during testing
+- Refine content based on testing
 
 ---
 
-## 🏷️ Titles + Labels + Assignees
+## ✨ Summary of request
 
-Add the appropriate elements to your ticket:
-- [ ] Complete the issue title: [Content] Product: Feature - Request
-- [ ] Added the appropriate team/project label under "Labels" (e.g., Decision Reviews, BMT1, or BMT2)
-- [x] content
-- [x] Assignee: @cinlackey
+- What you're building
+- Why the work matters 
 
 ---
 
 ## 🚦 Priority Level
+_Delete all except the one that applies to your request_
 
-- [ ] **High**: Must complete before the next sprint ends (e.g., blocks other work, part of the Collaboration Cycle, or has an external deadline)
-- [ ] **Medium**: Important but not urgent (e.g., unblocks near-future work or is needed for an upcoming milestone)
-- [ ] **Low**: Nice to have (e.g., not time-sensitive, no major dependencies, won’t block others if delayed)
+**High:** Must complete before the next sprint ends (e.g., blocks other work, part of the Collaboration Cycle, or has an external deadline)
+
+**Medium:** Important but not urgent (e.g., unblocks near-future work or is needed for an upcoming milestone)
+
+**Low:** Nice to have (e.g., not time-sensitive, no major dependencies, won't block others if delayed)
+
 
 ---
 
 ## 🛠️ Effort Level  
-- [ ] **Small**: Simple revision (e.g., editing a sentence or two)  
-- [ ] **Medium**: Moderate update (e.g., editing a couple of sections or revising a page)  
-- [ ] **Large**: Full review and rework (e.g., multiple screens, new content, or net-new flow)  
+_Delete all except the one that applies to your request_
+
+**Small:** Simple revision (e.g., editing a sentence or two)
+
+**Medium:** Moderate update (e.g., editing a couple of sections or revising a page)
+
+**Large:** Full review and rework (e.g., multiple screens, new content, or net-new flow)
 
 ---
 
 ## 🔗 Links
+_Mark 'none' if none apply_
 
-- [ ] Link to Figma file: [Paste here]
-- [ ] Related GitHub issues: [Paste links here]
-- [ ] Collaboration Cycle ticket (if applicable): [Paste link or number]
-- [ ] Any additional references like mural boards: [Paste here]
+- Link to Figma file:
+- Related GitHub issues:
+- Collaboration Cycle ticket (if applicable):
+- Any additional references like mural boards:
 
 ---
 
 ## 📅 Important Dates and Meetings
+_Mark 'none' if none apply_
 
 - Timeline expectations or deadlines (e.g., for staging or validation):
 - Upcoming collaboration cycle stage (if any):
-- Standing meetings you’d like the content designer to attend:
-  - [ ] Team stand-up [add date(s)]
-  - [ ] Other [which? add dates]
-- Will you bring this to content office hours?
-  - [ ] If yes, please [add it to this Slack canvas](https://dsva.slack.com/docs/T03FECE8V/F093XR59XRD)
+- Standing meetings you'd like the content designer to attend:
+  - Team stand-up [add date(s)]
+  - Other [which? add dates]
+- Will you bring this to content office hours? If yes, please [add it to this Slack canvas](https://dsva.slack.com/docs/T03FECE8V/F093XR59XRD)
+
 
 ---
 
@@ -144,7 +154,7 @@ _It’s okay to leave this minimal or blank. Content designer will update as nee
 ---
 
 ## 📐 Definition of Ready  
-_(To be completed by the content designer)_
+_To be completed by the content designer_
 
 - [ ] Clear value statement  
 - [ ] Figma or reference materials available  
@@ -154,7 +164,7 @@ _(To be completed by the content designer)_
 ---
 
 ## ✅ Definition of Done  
-_(To be completed by the content designer)_
+_To be completed by the content designer_
 
 - [ ] Final content reviewed by stakeholder(s)  
 - [ ] Ready for handoff  
