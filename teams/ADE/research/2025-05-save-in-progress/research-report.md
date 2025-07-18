@@ -540,7 +540,7 @@ The form we tested has 9 pages of questions, and each page has at the bottom a *
  </details>
 
 <details>
-  <summary>Figure 15: Form page 4 asks whether you live on a U.S. military base, and then for your Country, Street address, Apartment or unit number, City, State/Province/Region, and Postal code (Expand to show screenshot)</summary>
+  <summary>Figure 15: Form page 4 asks whether you live on a U.S. military base, and then for your country, street address, apartment or unit number, city, state/province/region, and postal code (Expand to show screenshot)</summary>
    <img src="./images/form-pg4-mailing-addr-top.png" width="75%" height="75%">
    <img src="./images/form-pg4-mailing-addr-bottom.png" width="75%" height="75%">
 </details>
@@ -566,50 +566,26 @@ The form we tested has 9 pages of questions, and each page has at the bottom a *
 </details>
 
 <details>
-  <summary>Figure 20: Form page 9, which is the last page in the form, has expandable sections of form information at the top, and the bottom is a note about criminal penalties for withholding information, as well as a statement of truth that involves typing your full name and checking a box that you certify the information (Expand to show screenshot)</summary>
+  <summary>Figure 20: Form page 9, which is the last page in the form, has expandable sections of form information at the top, and the bottom is a note about criminal penalties for withholding information, plus a statement of truth that involves typing your full name and checking a box that you certify the information (Expand to show screenshot)</summary>
    <img src="./images/form-pg9-review&submit.png" width="75%" height="75%">
    <img src="./images/form-pg9-statement-of-truth.png" width="75%" height="75%">
 </details>
 
-<details>
-  <summary>Figure 12: Form pages (Expand to show screenshot)</summary>
-   <img src="./images/form-pg1-alert&citizenship.png" width="75%" height="75%">
-   <img src="./images/form-pg2-name&DOB.png" width="50%" height="50%">
-   <img src="./images/form-pg3-SSN&VAfile#.png" width="75%" height="75%">
-   <img src="./images/form-pg4-mailing-addr-top.png" width="75%" height="75%">
-   <img src="./images/form-pg4-mailing-addr-bottom.png" width="75%" height="75%">
-   <img src="./images/form-pg5-phone&email.png" width="75%" height="75%">
-   <img src="./images/form-pg6-records.png" width="75%" height="75%">
-   <img src="./images/form-pg7-additional-info.png" width="75%" height="75%">
-   <img src="./images/form-pg8-regional-office.png" width="75%" height="75%">
-   <img src="./images/form-pg9-review&submit.png" width="75%" height="75%">
-   <img src="./images/form-pg9-statement-of-truth.png" width="75%" height="75%">
-
 </details>
 <details>
-  <summary>Figure 12: Form pages (Expand to show screenshot)</summary>
-   <img src="./images/form-pg1-alert&citizenship.png" width="75%" height="75%">
-   <img src="./images/form-pg2-name&DOB.png" width="50%" height="50%">
-   <img src="./images/form-pg3-SSN&VAfile#.png" width="75%" height="75%">
-   <img src="./images/form-pg4-mailing-addr-top.png" width="75%" height="75%">
-   <img src="./images/form-pg4-mailing-addr-bottom.png" width="75%" height="75%">
-   <img src="./images/form-pg5-phone&email.png" width="75%" height="75%">
-   <img src="./images/form-pg6-records.png" width="75%" height="75%">
-   <img src="./images/form-pg7-additional-info.png" width="75%" height="75%">
-   <img src="./images/form-pg8-regional-office.png" width="75%" height="75%">
-   <img src="./images/form-pg9-review&submit.png" width="75%" height="75%">
-   <img src="./images/form-pg9-statement-of-truth.png" width="75%" height="75%">
+  <summary>TEST to see if can show SSN page (Expand to show screenshot)</summary>
+  <img src="./images/form-pg3-SSN&VAfile#.png" width="75%" height="75%">
 
 </details>
 
 <details>
-  <summary>After clicking "Finish later" (Expand to show screenshot)</summary>
+  <summary>Figure 21: After clicking the *Finish later* button, the user sees a blue informational alert that says "Your Personal records request has been saved". The alert contains the date and time of the last save, and the date two months later that the incomplete request will expire (Expand to show screenshot)</summary>
    <img src="./images/after-click-finish-later.png" width="75%" height="75%">
 
 </details>
 
 <details>
-  <summary>My VA (Expand to show screenshot)</summary>
+  <summary>Figure 22: My VA with Claims and appeals, Health care, Outstanding debts, Benefit payments, Education and training, and Benefit applications and forms (Expand to show screenshot)</summary>
    <img src="./images/MyVA-top.png" width="100%" height="100%">
    <img src="./images/MyVA-middle.png" width="100%" height="100%">
    <img src="./images/MyVA-bottom.png" width="100%" height="100%">
