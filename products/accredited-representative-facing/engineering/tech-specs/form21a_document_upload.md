@@ -96,7 +96,7 @@ Form 21a is currently being developed from [this](https://www.va.gov/vaforms/va/
     3. Pros:
     4. Cons:
     5. Tickets:
-        1. Create a form21a_document_uploads table (gclaws_document_type, form_attachment_id, save_in_progress_id)
+        1. Create a form21a_document_uploads table (gclaws_document_type, form_attachment_id, save_in_progress_id, user_account_id, gclaws_upload_status)
         2. s3 bucket configuration
         3. Create a new endpoint to handle form uploads for 21a. Will include creating a new route a and a new controller app/controllers/form21a_controller.rb . It will take the document, add a record in form_attachments, add a record in form21a_document_uploads, store it in an s3 bucket, update in_progress_forms record form_data to have the form21a_document_uploads_id and store the application and return a form21a_document_uploads_id to the frontend.
         4. Create a New Uploader: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/engineering/investigations/21a.md#1-create-a-new-uploader
@@ -108,11 +108,17 @@ Form 21a is currently being developed from [this](https://www.va.gov/vaforms/va/
     2. Investigation : [Link to Investigration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/engineering/investigations/21a.md)
     3. Pros:
     4. Cons:
-    5. Tickets: 
-4. Alternative solution(s):
-    1. Summary:
-    2. Pros:
-    3. Cons:
+    5. Tickets:
+        1. Create a method that runs after the form has been posted to GCLAWS and posts the documents
+               - On submit we will post the FORM 21a to GCLAWs, then we will take the id from the post response call and update the         form21a_document_uploads table to have an application id.
+               - Use the form21a_document_uploads_ids to get the files from the s3 bucket - create an array of the files
+               - Create a sidekiq job that will go through each doc and post it to GCLAWS Document API. (job should run 3x (2 retries)
+        2. Create a sidekiq job that will go through each doc and post it to GCLAWS Document API. (job should run 3x (2 retries)
+               - params : form21a_document_uploads_id, application_id
+               - write a query that gets the necessary info for submitting to GCLAWS (uses form21a_document_uploads, form attachments)
+               - will pass the following to GCLAWS Document API - FileDetails (file contents s3 bucke), FileType (1: PDF, 2: DOCX), ApplicationId (id that we get from GCLAWS Form 21a Post call), DocumentType (comes from form21a_document_uploads.gclaws_document_type), OriginalFileName (comes from form_attachments.file_data)
+               - if successful we delete the record from form21a_document_uploads
+               - if not successful after 3 attempts, we add a log message, delete the record from form21a_document_uploads and add a todo message saying to add work to handle silent failures
 
 ## C. Design and Architecture Once Solution is Selected
 
