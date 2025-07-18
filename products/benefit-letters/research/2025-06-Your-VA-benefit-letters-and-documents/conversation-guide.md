@@ -1,4 +1,4 @@
-# [DRAFT] Conversation Guide for Your VA benefit letters and documents research study, July 2025
+# Conversation Guide for Your VA benefit letters and documents research study, July 2025
 
 # Moderator logistics 📋✅
 ### 2-3 days before the session
