@@ -27,6 +27,8 @@ Before enabling your feature toggle in production, you'll need to:
 - [x] Work any downstream or dependent systems proactively to ensure that the feature is ready for use once it hits production.
    - [x] Confirm with Joshua Faulkner and team on End to End testing
    - [ ] Link to confirmation of successful transmission/processing
+- [x] Ensure product guide has been updated and sent for review (approval prior to launch is ideal)
+   - [Ticket #114731](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114731)
 - [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
   - [x] review the plan with your DEPO/OCTO representative.
      - [ ] First meeting 7/16 received approval
