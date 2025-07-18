@@ -53,6 +53,7 @@ Today we’re going to talk about VA Form 10-7959a to submit a claim for the Civ
 Before we start, I have a few things that I want to go over with you:
 
 - **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+> - [For AT users] **This entire session should take about 90 minutes.**
   
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
   
@@ -98,10 +99,10 @@ Before we look at the website, let’s start with a few warm-up questions.
    - IF ENROLLED: How recently did you apply for/enroll in the CHAMPVA program?
    - What was your application experience like, if you can recall?
  
-   - Have you submitted any medical claims to the CHAMPVA program?
+   - Have you submitted any medical or pharmacy claims to the CHAMPVA program?
      - IF YES:
        - What was your experience like?
-       - Did you submit your medical claims using a paper/PDF form, or online?
+       - Did you submit your claims using a paper/PDF form, or online?
        - Do you recall if you received any mail from the CHAMPVA program about your claim before it was processed?
        
  - (Optional, omit for time) Do you have a VA.gov account?
@@ -164,7 +165,9 @@ Thanks! Now I’m able to see your screen too.</details>
 Before you start filling out the form, a few things to be aware of:
  - This is our testing site so you don't have to worry about the information that you enter going anywhere. Nothing you click on in this form will have any bearing on your benefits.
  - As we go through the form today, feel free to use fake information for sensitive questions, such as Social Security Numbers, if you don't want to use your real information.
- - You may be asked to upload some documents; as we're not submitting the form and this isn't attached to VA systems, nothing you upload there will be sent to the VA. When we get to the screens that ask for a file to upload, you can upload something random from your desktop, or I can provide a sample PDF for you to use. I'll ask you what you'd like to do when the time comes.
+ - You may be asked to upload some documents; as we're not submitting the form and this isn't attached to VA systems, nothing you upload there will be sent to the VA. Perigean should have provided you with some documents to have prepared. Did you receive those documents?
+   - [if yes] Great - I'll remind you to use those when we get to a screen that asks for a file upload.
+   - [if no] When we get to the screens that ask for a file to upload, I'll provide a sample PDF for you to use.
  - Do you have any questions? [Wait for participant answer.]
 
 
@@ -225,7 +228,8 @@ You can continue entering information until you reach section 4. I’ll let you 
 
  - Before you upload anything, what documentation are you being asked for here?
  - Do you understand what needs to be included on the document?
- - I'll provide a document for you to upload here. I'm dropping it in the chat now.
+ - If you have access to the documents Perigean provided, I'd like you to upload *[sample-billing-statement] or [sample-EOB]* here
+ - [if they don't have the documents] I'll provide a document for you to upload here. I'm dropping it in the chat now.
    - *Use [sample-billing-statement] or [sample-EOB] depending on the page*
    - If you hover over the file, you should see three dots you can click on and choose download.
    - When you're ready, please upload that file in the form.
