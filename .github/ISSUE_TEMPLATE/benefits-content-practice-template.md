@@ -57,8 +57,7 @@ _Delete all except the one that applies to your request_
 
 ## ✨ Summary of request
 
-- What you're building
-- Why the work matters 
+[Write out what you're building and why the work matters]
 
 ---
 
@@ -91,7 +90,10 @@ _Mark 'none' if none apply_
 - Link to Figma file:
 - Related GitHub issues:
 - Collaboration Cycle ticket (if applicable):
-- Any additional references like mural boards:
+- Mural board:
+- Other helpful links:
+
+- _Be sure to link this ticket to the parent ticket or the ticket you are working on that this work falls under_
 
 ---
 
