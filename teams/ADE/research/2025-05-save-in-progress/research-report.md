@@ -394,9 +394,9 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
 1. **After you click *Finish later*, you should be able to sign out** in the Minimal header format, which is currently not possible. We should revert to the full VA.gov header for the authenticated intro page in order to enable signout.
      - *Supporting evidence:* There's currently no way to sign out after you click *Finish later* and land on the intro page because you're still seeing only the Minimal header.
 
-1. Investigate the **form navigation issues that 2 screen reader users had while using VoiceOver on iPhones with the Safari** web browser in which focus kept jumping to the top of the page or to the Safari controls below the page after almost every field. 
+1. Investigate the **form navigation issues that 2 screen reader users had while using VoiceOver on iPhones with the Safari** web browser in which focus kept jumping to the top of the page or to the Safari controls below the page after almost every field. --> *NOT POSSIBLE TO FIX? because of a known bug with VoiceOver and Safari (need confirmation)*
     - *Supporting evidence:* These focus issues made it very difficult for 2 mobile screen reader users to fill out the form. One of them stayed with Safari, and the other gave up and switched to Chrome.  
-    --> *NOT POSSIBLE TO FIX? because of a known bug with VoiceOver and Safari (need confirmation)*
+
 
 1. **Consider whether having many short pages in a form is preferable to a smaller number of longer pages**. Be aware of the feedback that some Veterans dislike VA forms having so many short pages. 
     - *Supporting evidence:* 3 of 11 participants (1 using a screen reader on desktop, 1 using a screen magnifier on desktop, and 1 using no assistive tech on a phone) said that the form had too many short pages and that they preferred fewer longer pages with related information on the same page. The screen magnifier user said that having to repeatedly click _Continue_ to see the next question was annoying because it's more of his screen reader that he has to listen to.
