@@ -552,42 +552,42 @@ The form we tested has 9 pages of questions, and each page has at the bottom a *
 
 <details>
   <summary>Figure 17: Form page 6 is a list of checkboxes, one for each record that can be requested (Expand to show screenshot)</summary>
-   <img src="./images/form-pg6-records.png" width="75%" height="75%">
+   <img src="./images/form-pg6-records.png" width="75%" height="75%" alt="a list of checkboxes, one for each type of record that can be requested">
 </details>
 
 <details>
   <summary>Figure 18: Form page 7 is an optional Additional records information field (Expand to show screenshot)</summary>
-   <img src="./images/form-pg7-additional-info.png" width="75%" height="75%">
+   <img src="./images/form-pg7-additional-info.png" width="75%" height="75%" alt="optional Additional records information field">
 </details>
 
 <details>
   <summary>Figure 19: Form page 8 asks if there is a VA regional office that you're associated with (Expand to show screenshot)</summary>
-   <img src="./images/form-pg8-regional-office.png" width="75%" height="75%">
+   <img src="./images/form-pg8-regional-office.png" width="75%" height="75%" alt="optional VA regional office name field">
 </details>
 
 <details>
-  <summary>Figure 20: Form page 9, which is the last page in the form, has expandable sections of form information at the top, and the bottom is a note about criminal penalties for withholding information, plus a statement of truth that involves typing your full name and checking a box that you certify the information (Expand to show screenshot)</summary>
-   <img src="./images/form-pg9-review&submit.png" width="75%" height="75%">
-   <img src="./images/form-pg9-statement-of-truth.png" width="75%" height="75%">
+  <summary>Figure 20: Form page 9, which is the last page in the form, has expandable sections of form information at the top. Below that is a note about criminal penalties for withholding information, and a statement of truth that involves typing your full name as well as checking a box that you certify the information (Expand to show screenshot)</summary>
+   <img src="./images/form-pg9-review&submit.png" width="75%" height="75%" alt="the last page in the form, which has expandable sections of form information at the top">
+   <img src="./images/form-pg9-statement-of-truth.png" width="75%" height="75%" alt="Below the expandable sections is a note about criminal penalties for withholding information, and a statement of truth that involves typing your full name as well as checking a box that you certify the information">
 </details>
-
-</details>
-
-<details>
-  <summary>Figure 21: After clicking the "Finish later" button, the user sees a blue informational alert that says "Your Personal records request has been saved". The alert contains the date and time of the last save, and the date two months later that the incomplete request will expire (Expand to show screenshot)</summary>
-   <img src="./images/after-click-finish-later.png" width="75%" height="75%">
 
 </details>
 
 <details>
-  <summary>Figure 22: My VA with Claims and appeals, Health care, Outstanding debts, Benefit payments, Education and training, and Benefit applications and forms (Expand to show screenshot)</summary>
-   <img src="./images/MyVA-top.png" width="100%" height="100%">
-   <img src="./images/MyVA-middle.png" width="100%" height="100%">
-   <img src="./images/MyVA-bottom.png" width="100%" height="100%">
+  <summary>Figure 21: After clicking the "Finish later" button, the user sees a blue informational alert that says your information has been saved".</summary>
+   <img src="./images/after-click-finish-later.png" width="75%" height="75%" alt="blue informational alert that says 'Your Personal records request has been saved' and contains the date and time of the last save, and the date two months later that the incomplete request will expire">
 
 </details>
 
+<details>
+  <summary>Figure 22: My VA page with various sections including Benefit applications and forms at the bottom (Expand to show screenshot)</summary>
+   <img src="./images/MyVA-top.png" width="100%" height="100%" alt="top of the My VA page with a heading for Claims and appeals">
+   <img src="./images/MyVA-middle.png" width="100%" height="100%" alt="headings for Health care, Outstanding debts, and Benefit payments">
+   <img src="./images/MyVA-bottom.png" width="100%" height="100%" alt="headings for Education and training, and Benefit applications and forms">
 
+</details>
+
+Education and training, and Benefit applications and forms 
 
 ## Who we talked to 
 
