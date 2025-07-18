@@ -71,7 +71,7 @@
 * This text is applied as both visible and invisible text, helping all users identify the navigation’s purpose no matter where they encounter it on the website.
 
 
-## **005 Two levels deep**
+## **005 - Two levels deep**
 
 
 * Status: Accepted
@@ -89,10 +89,10 @@
 * We may expand support for deeper nesting in a future iteration based on broader requirements. If future enhancements change the design or structure of the component, the Profile team will be responsible for adopting those updates as needed.
 
 
-## **006 Focus style**
+## **006 - Focus style**
 
 
-## **007 Categories / Spokes**
+## **007 - Categories / Spokes**
 
 - Status:Accepted 
 - Date:6/14/2025
@@ -150,7 +150,7 @@ We will **not implement accordion-style expand/collapse behavior** in the side n
 * Future enhancements can revisit accordion behavior if a strong use case arises
 
 
-## **09 Composability implementation API**
+## **09 - Composability implementation API**
 
 Context -[ SEE ARCHITECTURE DOCUMENT](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/va-sidenav/properties-architecture.md)
 
