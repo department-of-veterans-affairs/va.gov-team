@@ -1,4 +1,4 @@
-# [DRAFT] Research Plan for Your VA benefit letters and documents research study
+# Research Plan for Your VA benefit letters and documents research study
 
 ## Background 🏗️
 
