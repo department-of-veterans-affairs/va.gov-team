@@ -20,6 +20,7 @@ and have the necessary information to address problems quickly.  To accomplish i
 - [VAOS Vets API Endpoint Error Rate - Community Care Appointment Create](https://vagov.ddog-gov.com/monitors/382190)
 - [VAOS Vets API Endpoint Error Rate - Community Care Appointment Status Check](https://vagov.ddog-gov.com/monitors/384196)
 - [VAOS Vets API Endpoint Error Rate - Community Care Appointments Fetch](https://vagov.ddog-gov.com/monitors/384560)
+- [Community Care appointment status notification silent failure](https://vagov.ddog-gov.com/monitors/391172)
 
 ## Process expectations
 
