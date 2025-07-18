@@ -42,7 +42,7 @@
 * This means the typical semantic relationship between list items and their parent list cannot be established, so we applied appropriate ARIA roles to ‎`&lt;div>` elements to maintain accessibility.
 
 
-## **003 **Side Nav linking to an anchor on the same page
+## **003 Side Nav linking to an anchor on the same page**
 
 - Status: Accepted
 * Date issue raised: 6/11/2025
@@ -64,7 +64,7 @@
 * Keeps the component focused on page-to-page navigation for now, with the option to revisit this feature in future iterations if a n**eed arises.**
 
 
-## **004 - **The Nav region needs an accessible name
+## **004 - The Nav region needs an accessible name**
 
 * The side navigation needs an accessible name to help users who rely on screen readers or other assistive technologies understand what the navigation is for. 
 * To ensure a consistent and recognizable experience for all users, we decided to use the name “Related pages menu" across all implementations of the side navigation.
