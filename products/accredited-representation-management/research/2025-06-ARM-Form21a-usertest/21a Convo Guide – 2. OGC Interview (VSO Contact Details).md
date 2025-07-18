@@ -58,57 +58,38 @@ _Start recording._&#x20;
 
 
 ### Intro
-We are working with OGC to find ways to improve efficiencies for updating information in their database of representatives. 
+We are working to find ways to improve efficiencies for updating information in OGC database of representatives. 
 
-This information is what Veterans see when they search for VSOs on the website, let me show you what this looks like for context. Screenshare OGC database and FAR.
 
-1. Are you familiar with either of these search tools? If so, what do you use them for?
+1. Can you talk us through the current process for a representative seeking to update their contact information?
 
-2. How many certifying officials do you have at your organization?
+2. How many staff manage representatives contact information?
 
-3. Is “certifying official” the way you describe yourselves? Is this a job title or just what you use when you’re communicating with OGC?
-4. How many VSO representatives do you [each] support? 
+3. Is there an outreach program to remind representatives about keeping their contact info up to date?
 
-5. Do you support singly accredited or cross-accredited VSO representatives, or both?
+4. What type of information tends to need updating most often?
 
-6. Can you talk us through your current process for updating contact information for the representatives you support?
+5. What challenges do you have with keeping contact information up to date?
 
-7. Do other certifying officials at your organization also request updates to contact information? Does anyone else? 
+6. What system or software does OGC utilize to keep representative contact records? (Is it GCLAWS?)
 
-8. How often do you need to update your representatives’ contact information?
-
-9. What type of information tends to need updating most often?
-
-10. What challenges do you have with keeping contact information up to date?
-
-11. Does your organization have a directory of your service officers and their contact information?
-If so, can you share the link? (Maybe screenshare)
-
-12. How do you keep that content up-to-date?
 
 **Let’s talk about emails.**
-1. Do your VSO representatives have multiple professional email addresses? 
-- If so, which one do they tend to use to communicate with their Veteran clients? 
+1. Are cross-accredited VSO representatives able to save multiple professional email addresses to their OGC profile?
 
-2. Which one would you want displayed to Veterans for them to contact the representative, and is this different from what they’d want VA to use to contact them?
+2. Has there been any feedback received centered around email preferences? If so, what have you heard?
 
-3. If the VSO representatives you support have a VA.gov email account, do they use it to communicate with Veterans at all? If so, have you noticed confusion as far as them thinking you work for VA? 
-
-4. If cross-accredited, do you know if your representatives have emails associated with each of the organizations? Do you know if they use those emails?
+3. How is it communicated to representatives the preference to not use their va.gov email address for veteran work?
 
 5. Anything else we should know about email addresses?
 
 **Let’s talk about addresses**
-1. Does your organization support Veterans in person, remotely, or hybrid?
 
-2. Do any of your representatives work fully remotely? If so, would you want this indicated in the public-facing directory?
+1. Does OGC track multiple addresses for cross-accredited representatives?
 
-3. Would you ever want the address set to private (not displayed publicly)?
+2. Are representatives able to indicate their address be set to private (not displayed publicly)?
 
-4. Do your representatives have multiple possible addresses? 
-If so, what address would you want a Veteran to see/use, if any?
+3. Is it the same or a different address from what you’d want the VA and OGC to use to communicate with you?
 
-5. Is it the same or a different address from what you’d want the VA and OGC to use to communicate with you?
-
-6. Anything else we should know about locations and addresses?
+4. Anything else we should know about locations and addresses?
 
