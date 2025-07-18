@@ -666,7 +666,6 @@ Disability and Assistive Technology (AT):
 ## Underserved groups we haven’t talked to 
 
 This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
 * Identify as Hispanic, Biracial, or Native
 * Other than honorable discharge
 * Immigrant origin
@@ -686,7 +685,7 @@ _List all groups in red from the spreadsheet_
 
 ## Race
 
-| Category | % | Target | Study | 1 | 2 | 3 | 4 | 5 | 7 | 8 | 9 | 10 | 11 | 12 | 13 |
+| Category | % | Target | Study | p1 | p2 | p3 | p4 | p5 | p7 | p8 | p9 | p10 | p11 | p12 | p13 |
 |----------|---|---------|-------|---|---|---|---|---|---|---|---|----|----|----|----|
 | Black or African American | 15.00% | 2 | 3 | 0 | 0 | 0 | 1 | 0 | 0 | N | 1 | 0 | 1 | 0 | 0 |
 | Hispanic, Latino, or Spanish origin | 12.00% | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -698,7 +697,6 @@ _List all groups in red from the spreadsheet_
 
 
 ## Assistive Tech (AT)
-*Ask an AT specialist to help you complete this. Targets are for a general population*
 
 | Category | % | Target | Study | 1 | 2 | 3 | 4 | 5 | 7 | 8 | 9 | 10 | 11 | 12 | 13 |
 |----------|---|---------|-------|---|---|---|---|---|---|---|---|----|----|----|----|
