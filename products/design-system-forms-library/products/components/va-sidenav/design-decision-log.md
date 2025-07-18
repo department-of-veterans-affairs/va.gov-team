@@ -150,7 +150,7 @@ We will **not implement accordion-style expand/collapse behavior** in the side n
 * Future enhancements can revisit accordion behavior if a strong use case arises
 
 
-## **09 Composability implementation API - Jamie to fill in. **
+## **09 Composability implementation API 
 
 Context -[ SEE ARCHITECTURE DOCUMENT](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/va-sidenav/properties-architecture.md)
 
