@@ -94,8 +94,8 @@
 
 ## **007 Categories / Spokes**
 
-**Status:** Accepted 
-**Date:** 6/14/2025
+- Status:Accepted 
+- Date:6/14/2025
 
 **Context**
 
