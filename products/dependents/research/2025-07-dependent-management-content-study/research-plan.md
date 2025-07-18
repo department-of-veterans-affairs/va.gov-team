@@ -122,7 +122,7 @@ Where will you be holding the research sessions? Be sure to include whether this
 
 **For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html)**
 - Link to email with instructions: Please use standard Perigean language
-- [Link to prototype or OptimalSort session for group A](url goes here)
+- [Link to prototype or OptimalSort session for group A](https://dj540s05.optimalworkshop.com/prototype/f303e7d45a1590d922abc7d52b295e63)
 - [Link to prototype or OptimalSort session for group B](url goes here): In progress
 
 	
