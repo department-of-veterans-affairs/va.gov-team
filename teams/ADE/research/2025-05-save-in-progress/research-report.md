@@ -673,8 +673,6 @@ _List all groups in red from the spreadsheet_
 * Expat (living abroad)
 * Beginner AT user
 
-![VA-recruitment-checker](./images/VA-recruitment-checker.png)
-
 ![To see an accessible version of this table, expand the next line](./images/VA-recruitment-checker.png)
 
 <details>
