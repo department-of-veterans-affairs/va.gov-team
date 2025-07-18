@@ -28,4 +28,6 @@ For this reason, VA.gov Platform will provide standardized and centralized utili
 ### Consequences
 Teams will need to leverage centralized platform utilities for handling the detection and submissions of encrypted and password protected files. If they require further customization, they will need to implement their own solution and potentially offer that solution back to the platform or forms library for other VFS teams to use.
 
+A step-by-step guide for checking encryption on vets-website is available here: https://depo-platform-documentation.scrollhelp.site/developer-docs/checking-if-an-uploaded-pdf-is-encrypted
+
 ### Open Questions
