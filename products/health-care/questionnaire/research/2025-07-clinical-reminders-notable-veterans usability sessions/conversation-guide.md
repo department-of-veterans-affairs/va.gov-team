@@ -83,18 +83,18 @@ I have started recording. I'd like to confirm: Are you comfortable if I record m
    
 **Moderator:** At the end of each questionnaire, ask the following:
 
-4. On a scale from 1 to 5 (with 1 being very easy and 5 being very difficult), how easy or difficult was it to answer these questions about Homelessness/Food insecurity?
+4. On a scale from 1 to 5 (with 1 being very easy and 5 being very difficult), how easy or difficult was it to answer these questions about Sexual Orientation?
 5. Were there any terms that seem unfamiliar or confusing to you?
 
 
-## Fifth Task: Tobacco Pack Year History– 10 minutes 
+## Fifth Task: Tobacco Pack Year History – 10 minutes 
 1. Please read this screen out loud and tell me what you think of it before you answer.
 2. Is anything unclear or unexpected?
 3. Okay, please move on.
    
 **Moderator:** At the end of each questionnaire, ask the following:
 
-4. On a scale from 1 to 5 (with 1 being very easy and 5 being very difficult), how easy or difficult was it to answer these questions about Homelessness/Food insecurity?
+4. On a scale from 1 to 5 (with 1 being very easy and 5 being very difficult), how easy or difficult was it to answer these questions about Tobacco Pack Year History?
 5. Were there any terms that seem unfamiliar or confusing to you?
 
 ## Sixth Task: Toxic Exposure – 10 minutes
@@ -105,7 +105,7 @@ I have started recording. I'd like to confirm: Are you comfortable if I record m
    
 **Moderator:** At the end of each questionnaire, ask the following:
 
-5. On a scale from 1 to 5 (with 1 being very easy and 5 being very difficult), how easy or difficult was it to answer these questions about Homelessness/Food insecurity?
+5. On a scale from 1 to 5 (with 1 being very easy and 5 being very difficult), how easy or difficult was it to answer these questions about Toxic Exposure?
 6. Were there any terms that seem unfamiliar or confusing to you?
 
 ## Seventh Task: End of the Questionnaire Experience – 3 minutes
