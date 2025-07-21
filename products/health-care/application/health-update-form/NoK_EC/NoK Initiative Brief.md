@@ -26,7 +26,7 @@ Alex Seelig, 3/26/2025
 
 ## Outcome Summary
 > *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-* .Add one Next of Kin field to the 10-10EZR, including Name, Address, Relationship, Phone.
+* Add two Next of Kin contacts to the 10-10EZR, including Name, Address, Relationship, Phone.
 
 **Related/Associated product(s)**
 - Product | Link to product outline 
@@ -58,10 +58,20 @@ Alex Seelig, 3/26/2025
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-> 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
-> 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
+#### Objective: Provide an effortless online experience for Veterans to update their information for health care benefits
+#### **Key Result #1:** Increase 10% of Veterans who successfully add their NOK and/or EC information online
+**Note** Paper submissions are based on the average provided by HEC for volumes that are received by the HEC centralized processing center.  This does not include individual facilities, as there are no mechanisms in place to track them.
+| Product KPI |  Monthly Target | Post-Launch 1 week |Post-Launch 1 month|
+|-------------|-------------- |-------------- |-------------- |
+|NOK add (Yes)|500 | TBD |TBD |
+|NOK edit/view existing|500 | TBD |TBD |
+|EC add (Yes) |500 | TBD |TBD |
+|EC edit/view existing|500 | TBD |TBD |
+|Errors | 0 errors| TBD| TBD|
 
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo) ALEX FILL THIS OUT!!!!!!!
+- Links to the dashboard(s) showing "success criteria" metrics:
+     - [Datadog dashboard](https://vagov.ddog-gov.com/dashboard/kjp-9wp-u47/10-10ezr?historicalData=true&index=&refresh_mode=sliding&view=spans&from_ts=1703092684168&to_ts=1703179084168&live=true)
+     - [Google Analytics - EZR Events](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/B1BuF9JgTgCgLV3cx4EB4Q)
 
 ---
 
