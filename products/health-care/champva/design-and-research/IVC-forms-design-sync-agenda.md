@@ -1,5 +1,72 @@
 # Running Design and Research Agenda
 
+## July 21 2025
+Attendees: Renata Keck, Rachel Pope, Jamie Fiore, Amanda Klausmeier, Premal Shah, Mike Mooney
+
+### Agenda
+* UX Roadmap
+* 1010D and OHI Merged Form research
+* Claims research
+
+Amanda asks about DOB bug ticket and whether the date or marriage before DOB issue is a part of the same ticket
+* Mike will verify whether or not the date of marriage was worked on within this ticket
+    * If not, will create new ticket
+* Important because innovation team is trying to push through fixes for any issues that require human intervention in order to resolve, and this is one of them
+* Mike will make sure date bugs are prioritized
+
+### Roadmap
+* Renata reviews current UX roadmap
+* Premal asks about breadcrumbs thread in Slack - wouldn’t it be the same breadcrumbs as 1010d has now?
+    * The merged form is a separate form and the assumption was that both would be live at the same time for a short period of time 
+    * It’s possible to replace the standalone with this form instead
+        * User won’t know the difference if presented with both
+        * High volume form - make sure it’s solid before replacing it
+
+### Merged Form Research
+* Renata reviews research Mural
+    * May be some fast follows that can be worked on
+    * Nothing prioritized yet
+* Mostly positive feedback on overall usability and the amount of information in the form
+* Found some form-specific bugs and others that are platform-related
+    * Apple HEIC file type not supported
+    * On Safari, autofill doesn’t work - appears to fill info, but errors out as if blank
+        * Issue on both mobile devices and pc
+* Issues with signer/sponsor/applicant terms
+    * C/IA edits may be a partial fix
+    * May also need to adjust flow to move signer to end of form
+    * “Applicant” term is an issue with a lot of folks - maybe changing that would help
+    * Amanda mentions 193 applications (out of 8000) had the veteran listed as an applicant
+        * This may be a larger issue than the date of marriage one
+        * Content fix first, then follow with flow changes if needed
+* Very few folks recognized that it was form within a form
+    * Most understood, or thought they understood, why health insurance info was being requested
+    * Most didn’t mention health insurance info as something they would expect to be asked for when starting the form
+* Users had different expectations about response time
+    * Most users mentioned VA might take time to process
+    * Would use a tracker over a phone call to check status
+        * Flag this information for Amanda to use as evidence for creating a tracker
+
+### Resubmissions Research
+* Research would likely have to begin the week of August 11 to allow time for Shane to review and Perigean to recruit
+    * Premal asks if this will slow down releasing the resubmissions
+        * Try to push date up a little bit if possible
+    * Can go live with resubmissions prior to research and iterate based on research
+
+### Other topics
+* Amanda links to slack thread on HEIC images
+    * Mike already created a ticket for the gem to convert HEIC images (per Adrian’s suggestions)
+    * Adrian added AC to that ticket that say it should be usable by any team - Mike needs to check how that impacts level of effort
+        * Shouldn’t be an issue to fix for this team first, then make it accessible to other teams
+        * Engineers can create design system ticket after they have a fix
+    * Issue is not unique to VA
+    * Premal asks why we have to convert instead of just accepting HEIC format
+        * Fairly common file type now
+        * If we ask users to take a photo of their card and then don’t accept it, usability issue
+        * Mike will ask Michael if he know why we can’t accept HEIC images
+* Amanda and Premal are meeting with the Benefits Status team to discuss their tracker
+    * Probably won’t affect work that’s already been done towards our tracker tool
+    * Can inform future work
+
 ## July 14 2025
 Attendees: Renata Keck, Rachel Pope, Amanda Klausmeier, Premal Shah, Mike Mooney, Jamie Fiore, Alyssa Li
 
