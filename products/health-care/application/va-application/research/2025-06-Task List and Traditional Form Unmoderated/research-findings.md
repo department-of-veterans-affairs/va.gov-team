@@ -101,7 +101,7 @@ Participants were shown limited-functionality Figma prototypes and asked to perf
 
 **3. Clickable elements in task list were utilized but may have caused some confusion.**
 
-**4. The organization and status of the groups of information was appreciated among participants**
+**4. The organization and status of the groups of information was appreciated among participants.**
 
 **5. Participants stated there was a lot of information to provide and gathering documents beforehand would be important.**
 
@@ -154,8 +154,8 @@ Green:
 
 
 **Finding 4: The organization and status of the groups of information was appreciated among participants**
-Grouping sections and showing progress helps users feel less overwhelmed as did letting users skip around can improve satisfaction for complex forms.
 
+- Grouping sections and showing progress helps users feel less overwhelmed as did letting users skip around can improve satisfaction for complex forms.
 - Cohort 1 AI summary that 14% commented on the intuitive section grouping of the Orange prototoype task. Verified during synthesis affinity mapping there was a them around the grouping and sections as a positive element of the task list prototype.
 
 **Quotes**
@@ -165,7 +165,8 @@ Grouping sections and showing progress helps users feel less overwhelmed as did 
 
 
 **Finding 5: Participants stated there was a lot of information to provide and gathering documents beforehand would be important before completing the health care application.**  
-- 	Participants noted the process required a lot of information and recommended gathering documents before starting.
+
+- Participants noted the process required a lot of information and recommended gathering documents before starting.
 
 **Quotes:**
 - _Again, a tedious job that just has to be endured._
