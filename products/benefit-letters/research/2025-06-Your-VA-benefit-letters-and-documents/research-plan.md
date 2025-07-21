@@ -97,7 +97,7 @@ Where will you be holding the research sessions?
 
 **For moderated usability tests:** 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/benefit-letters/research/2025-06-Your-VA-benefit-letters-and-documents/conversation-guide.md)
-- [Link to “Your VA benefit letters and documents” page on production](https://www.va.gov/records/download-va-letters/)
+- [Link to “Your VA benefit letters and documents” page on staging](https://staging.va.gov/records/download-va-letters/)
 	
 ## Recruitment 🎯	
 
