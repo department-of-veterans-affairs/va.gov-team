@@ -1,5 +1,7 @@
-Reference [Check-in team's JSON file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/translations/spanish-round-3/spanish-round-3.json) as an example
+### Resources
+- Reference [Check-in team's JSON file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/checkin/translations/spanish-round-3/spanish-round-3.json) as an example
 
+### UPDATE 7/2023
 - [Notes from 7/28/2023 meeting with CG Stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/Meeting%20Notes/2023-07-28%20CG%20Stakeholder%20Touchbase.md)
      - CG Spanish language translation
           - How does CARMA database handle characters with accents, and other characters that take up more than one byte?
