@@ -10,6 +10,7 @@
 | May 2025 | quantitative data review | regular check in of survey data covering Jan, Feb, Mar 2025 | [findings report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/Ongoing%20-%20quantitative%20data/2025%20Q1%20survey%20data%20findings.md) |
 | June 2025 | production test account needs for developers | builds on prior research Nov 2024 - production test accounts | [folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Production%20Test%20Accounts/Research) |
 | proposed | Digital access fraud research strategy | research strategy to develop a comprehensive understanding of digital access fraud within the VA ecosystem | [see sensitive repo](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/products/Digital%20Access%20Fraud/research_strategy.md) |
+| Jul 2025 | quantitative data review | special request to see if a special email send was noticed in the numbers | [data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Research/Ongoing%20-%20quantitative%20data/data%20requests/DSL%20account%20update%20email%20tracking.md) |
 
 ## CY 2024
 
