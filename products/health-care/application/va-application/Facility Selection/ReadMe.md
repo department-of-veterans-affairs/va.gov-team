@@ -1,5 +1,8 @@
 # Initiative Brief - Improve Facility Selection on the 10-10EZ
 
+## Update - Descoped Spring 2025
+- Team made decision to descope this feature.  After updating the facility dropdown list to use the Facilities API, there seemed to be less appetite to complicate the flow by adding a search function.  The search function was added to the 10-10CG form, and it became clear that the complexity is not necessary on the 10-10EZ.
+
 ## Outcome Summary
 * We want to simplify the process for a Veteran to select their VA facility when applying for health care by ensuring that they can select the correct one in relation to the City, State or Zip Code they enter.
 
