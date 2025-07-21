@@ -8,9 +8,9 @@ Start with the [User Stories and Requirements doc](https://dvagov.sharepoint.com
 | 6/30 Kickoff - Clinics will be available to new patients - is this true only for this type of care? See new mental health filtering rules in [111672](https://github.com/department-of-veterans-affairs/va.gov-team/issues/111672) that require user have previous visit. | 6/30 Russo - We've discussed before that after 36 months a patient has to re-establish care at a facility, so it might still apply | | |
 | 6/30 Kickoff - Will this ToC be available for VA requests? | 7/21 - (Kristen) We aren't changing any rules related to requests with this effort. We are only impacting direct scheduling.| |
 | 6/30 Kickoff - Will this ToC be available for community care requests? | 7/21 - (Kristen) We aren't changing any rules related to requests with this effort. We are only impacting direct scheduling. | |
-| 6/30 Kickoff - are any of the business rules for this ToC configurable per facility? | | |
+| 6/30 Kickoff - are any of the business rules for this ToC configurable per facility? | 7/21 - (Kristen) The bottom of the user stories and requirements doc has information on how configurations will change. | |
 | 6/30 Kickoff - Will Oracle Health scheduling support this type of care? | | |
 | 6/30 Kickoff - Consider using the [existing sub-types of care pattern](https://www.figma.com/slides/vcbgZmKq7stonTLrN3eYgl/Kickoff--Adding-new-types-of-care?node-id=3-23&t=copcLN3sqtLrnxuD-4) | 6/30 Kickoff - We'll need to decide if we expect this to be discoverable under mental health, or would be more easily discovered in the main list of ToC | |
-| 6/30 Kickoff - Do we currently display substance abuse disorder appointments? If so, can we get one created in staging so we can see how they display? | | | 
+| 6/30 Kickoff - Do we currently display substance abuse disorder appointments? If so, can we get one created in staging so we can see how they display? | 7/21 - (Kristen) Current understanding is that we aren't getting these appointment types at this time. | | 
 | 6/30 Kickoff - Will these appointments be cancelable? (Are they currently cancelable?) | | |
 | 6/30 Kickoff - What's the release plan? | | |
