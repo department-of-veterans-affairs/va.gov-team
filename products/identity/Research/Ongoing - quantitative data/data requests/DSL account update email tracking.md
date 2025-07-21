@@ -1,6 +1,8 @@
 
 ## DSL account update - email tracking
 
+BLUF - although there was some fluctuation and a slight increase in some numbers, we didn't see a major anomaly after the email send
+
 | **Week** | May weekly ave | ending June 22 | ending June 29 | ending July 6 | ending July 13 | ending July 20 |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 | [**Total authentications**](https://vagov.ddog-gov.com/dashboard/e3q-6kp-9r4/vagov-identity-stats-public?fromUser=false&refresh_mode=paused&view=spans&from_ts=1751256000000&to_ts=1751860799999&live=false&tile_focus=7610752030488616) **(VA.gov \+ app)** | 2,460,800 | 2,656,100 | 2,884,000 | 2,439,900 | 2,897,800 | 2,911,400 |
