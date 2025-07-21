@@ -1,6 +1,6 @@
-# OCTO Health Portal Team - Orientation Checklist for [NAME]
+# My HealtheVet - Orientation Checklist for [NAME]
 
-Hi, and welcome to the OCTO Health portal team.  We're glad you're here!
+Hi, and welcome to the My HealtheVet portal team.  We're glad you're here!
 
 We've created this orientation checklist to help you learn about our team, what we do, and how we work.  If you are new to this program, we recognize that you won't be able to access some systems and documents right away, so we've organized our orientation to focus on publicly-available information first.  Once you've got your VA email and access to the VA network, you'll be ready to really dig in.
 
