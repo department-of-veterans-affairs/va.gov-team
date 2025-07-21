@@ -4,8 +4,16 @@
 - [CSAT scores](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/analytics/analytics-find-a-form.md#csat-scores)
 - [Summary data](#summary-data)
 - [Search page interactions](#search-page-interactions)
+  - [Frequently used forms (blue boxes)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/analytics/2025-find-a-form.md#frequently-used-forms-blue-boxes)
+  - [Manage your VA benefits and other information online list](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/analytics/2025-find-a-form.md#manage-your-va-benefits-and-other-information-online-list)
+  - [More information box](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/analytics/2025-find-a-form.md#more-information-box)
 - [Search metrics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/analytics/analytics-find-a-form.md#search-metrics)
+  - [Most frequent numeric ID queries](#most-frequent-numeric-id-queries)
+  - [Most frequent plain text queries](#most-frequent-plain-text-queries)
 - [Search result metrics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/analytics/analytics-find-a-form.md#search-result-metrics)
+  - [Most frequently viewed results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/analytics/2025-find-a-form.md#most-frequently-viewed-results)
+  - [Most frequently clicked results](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/analytics/2025-find-a-form.md#most-frequently-clicked-results)
+  - [Most frequently downloaded forms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/analytics/2025-find-a-form.md#most-frequently-downloaded-forms)
   
 ## CSAT Average user combined experience
 - CSAT dashboard in DOMO, CSAT captured by filtering this dashboard by month and facility locator url.
@@ -76,8 +84,10 @@
 | searched by numeric ID |	 122,132 	|	 79,800 	|	 39,748 	|	 39,140 	|	 35,454 	|	 36,366 	|
 | searched with plain text |  64,828 	|	 74,214 	|	 108,490 	|	 106,210 	|	 97,698 	|	 98,306 	|
 
+### Most frequent numeric ID queries
+
 <details>
-	<summary> Most frequent numeric ID queries </summary>
+	<summary> January - June 2025 top forms  </summary> 
 
 | Numeric ID |Jan 2025  | Feb 2025  | March 2025  | April 2025 | May 2025 | June 2025
 | --- | :---:|:---:|:---:|:---:|:---:|:---:|
@@ -105,10 +115,10 @@
 
 </details> 
 
-
+### Most frequent plain text queries
 
 <details>
-	<summary> Most frequent plain text queries  </summary>
+	<summary> January - June 2025 top forms </summary>
 
 |Plain text |Jan 2025  | Feb 2025  | March 2025  | April 2025 | May 2025 | June 2025
 | --- | :---:|:---:|:---:|:---:|:---:|:---:|
