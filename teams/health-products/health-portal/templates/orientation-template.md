@@ -36,6 +36,6 @@ If you have questions, don't hesitate to reach out to your OCTO practice lead, [
 - [ ] [Take a look at the VA GitHub Handbook](https://department-of-veterans-affairs.github.io/github-handbook/)  ‼️Note that as of July 2025, [VA has begun the process of migrating VA GitHub resources to GitHub Enterprise Cloud](https://department-of-veterans-affairs.github.io/github-handbook/migrations)
 - [ ] [Check out some helpful info about creating documents in GitHub](https://docs.github.com/en)
 
-## Part 2: After you have access to VA network and have VA email address: 🐣
+## Part 2: Once you have a VA email address and can access the VA Network: 🐣
  - Check out our [#health-portal-onboarding](https://dsva.slack.com/archives/C093QBTQ56W) Slack channel to continue onboarding
   
