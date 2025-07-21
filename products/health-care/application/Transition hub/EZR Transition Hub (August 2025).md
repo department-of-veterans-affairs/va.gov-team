@@ -104,8 +104,6 @@ This table details recent and ongoing features and initiatives specifically for 
 
 The current 10-10 Health Apps team roster includes:
 * **Product Managers:**
-    * Michael Skinner | michael.skinner1@va.gov / michael.skinner@agile6.com / GH "Agile6MSkinner"
-* **Delivery Lead:**
     * Alexandria "Alex" Parker | alexandria.parker@va.gov / alexandria.parker@agile6.com / GH "ACParker89"
 * **UX Design/Research:**
     * Renata Keck | renata.keck@va.gov / renata.keck@agile6.com / GH "renatakeck"
