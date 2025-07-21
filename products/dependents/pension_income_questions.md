@@ -40,6 +40,11 @@ From our Pension and Fiduciary Service SME, Jennifer Feuer, about the original i
 
 -----
 
+### Automate Annual Net Worth Limit
+The (same?) API can be leveraged to pull in the annual net worth limit and [auto-populate the value](https://github.com/department-of-veterans-affairs/va.gov-team/issues/96876) within the text of the net worth question, so VA.gov does not need to update the value each year (in October).
+
+-----
+
 ### Questions
 1. Should VA.gov preemptively off-ramp pension-related claims that cannot be processed by RBPS? Or, is RBPS responsible for off-ramping them?
   - VA.gov should preemtively off-ramp pension-related claims that cannot be processed by RBPS. This involves claims where the answers to the income questions are anything other than "no income in the last 365 days" and "no, my income is not over the annual limit".
