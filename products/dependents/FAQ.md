@@ -294,7 +294,7 @@ Source: [Amy Grace Wells, July 2025](https://dsva.slack.com/archives/C07RB9N9M6J
   
   - Mail Automation will open the 21-0538, “Status of Dependents Questionnaire” and confirm completeness of the form by verifying that the Veteran’s name, social security number, and file number are present. If any of those fields are missing, the form is considered incomplete, and an Incomplete Letter will be generated. If the Veteran’s signature is missing, the form will continue processing.If the Veteran indicates a change in the status of their dependents, Automation will check for a pending EP 330. If an EP 330 exists, Automation will cancel it (PCAN). Automation will proceed to check for a pending EP 130. If an EP 130 does not exist, Automation would establish the EP 130.If the Veteran indicates no change in the status of their dependents, Automation will check for a pending EP 330. If an EP 330 exists, Automation will clear it (PCLR). If an EP 330 does not exist, Automation will establish and clear it.If the Veteran listed any dependents on the form, Automation will search the Veteran’s VBMS profile to confirm that the dependents on the award matches the dependents listed on the form. If the dependents match, Automation will add and then clear an EP 692.If the dependents on the form do not match, then Automation will add the appropriate contentions, establish the appropriate EPs, and add any special issues required.
 
-  Source: Kevin Schneider 2024
+  Source: Kevin Schneider 2025 and again by David Reis in July 21, 2025
 </details>
 
 ## APIs
