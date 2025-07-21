@@ -15,7 +15,9 @@ The `va.gov/profile/accredited-representative` Profile subpage reflects a user's
 5. No representation
 
 **Status Codes: 404, 403, 401, 504, 500**
-1. General error state
+1. Error state
+<img width="383" height="114" alt="image" src="https://github.com/user-attachments/assets/d8847fc4-2438-4b38-be0f-d7ca50f21ff1" />
+
 
 ### User logs in with LOA1 account
 
