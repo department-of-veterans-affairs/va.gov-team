@@ -53,3 +53,4 @@ Timeline:
    - Team awaiting Content guidance from CAIA
 - **04/11/2025**- New R&S page launches
    - https://www.va.gov/resources/options-to-request-help-with-va-debt/
+- **06/2025** - [Research Findings for R&S page and Dispute page posted](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/digital-dispute/research/research-findings.md)
