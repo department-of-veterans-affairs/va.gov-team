@@ -22,7 +22,15 @@ The following were considered but rejected.
 
 ### FAQ's
 
-- **Question**
+## Pay.gov
+- **Are we still going with a September 30th launch date?**
   - Answer
+  - **I'm concerned about testing with Pay.gov. Do we know what that involves? Do we need to get on their calendar? Do we need to test with them at all? How long will this take?**
+    - Answer
+  - **Do we have general insight into personnel resources we will need from Pay.gov and if we need to book those ahead of time?**
+    - Answer
+  - **Devops systems need to be in place before we get outbound calls to pay.gov running. Are we worried about a devops SLA holding us up?**
+    - Answer
+  - **
 - **Question**
   - Answer
