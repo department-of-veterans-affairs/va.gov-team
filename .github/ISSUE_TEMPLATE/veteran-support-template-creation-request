@@ -1,7 +1,7 @@
 ---
-name: VSP Template Creation Request
+name: Veteran Support Template Creation Request
 about: For requesting a veteran-facing template
-title: ''
+title: 'Create Template'
 labels: 'vsp-contact-center'
 assignees: 'starow00'
 
@@ -56,6 +56,11 @@ _Link to sample language, previous email versions, or related guidance documents
 
 ---
 
+## Acceptance Criteria
+- [ ] _What will be created or happen as a result of this story?_
+
+---
+
 ## 🧭 How to Configure This Issue
 - [ ] **Attached to a Milestone** (e.g., “Template Sprint Q3”)
 - [ ] **Attached to an Epic** (e.g., “Veteran Communications Library”)
@@ -63,6 +68,4 @@ _Link to sample language, previous email versions, or related guidance documents
 - [ ] **Labeled with Type** (`email-template`, `documentation`, `content-request`)
 - [ ] **Labeled with Priority** (`P1`, `P2`, etc.)
 
-## Acceptance Criteria
-- [ ] _What will be created or happen as a result of this story?_
----
+
