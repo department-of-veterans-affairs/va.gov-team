@@ -16,7 +16,7 @@ Work done in [#76465](https://github.com/department-of-veterans-affairs/va.gov-t
 ### Sample questions:
 
 ![image](https://github.com/user-attachments/assets/735d560d-1623-4045-a9c7-d1ed674bc112)
-- Veterans will be asked this question only if the benefits API fails to connect or if the API cannot determine if the Veteran receives pension benefits. If the Veteran answers "yes", the follow two questions will be conditionally revealed later in the form flow. If the API is working and can locate the Veteran, this question will not appear.
+- Veterans will be asked this question only if the benefits API fails to connect or if the API cannot determine if the Veteran receives pension benefits. If the Veteran answers "yes", the following two questions will be conditionally revealed later in the form flow. If the API is working and can locate the Veteran, this question will not appear.
 
 -----
 
