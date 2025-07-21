@@ -1,8 +1,8 @@
 # Profile hub use cases
 **Last updated: July 2025**
 
-- User flow
-- [Figma files](https://www.figma.com/design/21eaoKK107F3Nm1ofnMOO8/Profile---Hub-landing-page?node-id=0-1&t=GcIOhIFbozc6mNrA-1)
+- [User flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1753115099089/92e988a77435d7b4d90635dd97ed8ec54af5ee14?wid=50-1753115114097&outline=open)
+- [Figma files](https://www.figma.com/design/21eaoKK107F3Nm1ofnMOO8/Profile---Hub-landing-page?node-id=0-1&t=7P9TvpnyVJLOryDX-1)
 - Test Rail QA
 
 
@@ -21,7 +21,7 @@
 - **Use case:** If a LOA3 user navigates to profile they see a landing page with cards directing them to sections of the profile.
 - **Status code:** 200
 - **Format:** [Card component](https://design.va.gov/components/card)
-- [Link to designs]
+- [Link to designs](https://www.figma.com/design/21eaoKK107F3Nm1ofnMOO8/Profile---Hub-landing-page?node-id=445-18429&t=7P9TvpnyVJLOryDX-1)
 - [Link to code]
 - **Content:** See designs
 
@@ -40,7 +40,7 @@ This feature has no validation use cases.
 - **Use case:** Cannot connect to the back end.
 - **Status code:** TBD
 - **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
-- [Link to designs]
+- [Link to designs](https://www.figma.com/design/21eaoKK107F3Nm1ofnMOO8/Profile---Hub-landing-page?node-id=445-19583&t=7P9TvpnyVJLOryDX-1)
 - [Link to code]
 - **Content:**
 
