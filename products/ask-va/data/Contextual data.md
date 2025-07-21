@@ -44,8 +44,17 @@ Other live agent support
 |FY24 (10/1/23 to 9/30/24)|197,788|[VA Chatbot KPIs dashboard in Domo](https://va-gov.domo.com/page/939649897)
 |FY23 (10/1/22 to 9/30/23)|330,719|[VA Chatbot KPIs dashboard in Domo](https://va-gov.domo.com/page/939649897)
 
-Other self-service
-- VA.gov pages (help articles)
+### VA.gov data
+|Date|Number of page views|Source|
+|:---|:---|:---|
+|FY24 (10/1/23 to 9/30/24)|913M|[VA.gov report in GA4](https://analytics.google.com/analytics/web/#/p419143770/reports/reportinghub?params=_u..nav%3Dmaui%26_u.comparisonOption%3Ddisabled%26_u.date00%3D20231001%26_u.date01%3D20240930)
+
+|Date|Number of form submissions|Source|
+|:---|:---|:---|
+|FY24 (10/1/23 to 9/30/24)|2.2M|[All VA.gov Dashboard in Domo](https://va-gov.domo.com/page/939649897)
+
+Other self-service support
+- VA subdomain pages
 
 ## Veteran data
 |Date|Number of military Veterans in the US|Source|
