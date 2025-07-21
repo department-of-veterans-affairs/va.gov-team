@@ -60,41 +60,26 @@ _Start recording._&#x20;
 ### Intro
 We are working to find ways to improve efficiencies for updating information in OGC database of representatives. 
 
-Briefly explain your role and responsibilies along with number of years you've been in the position. 
-
-Thank you. 
-
-1. Can you talk us through the current process for a representative seeking to update their contact information?
-
-2. How many staff manage representatives contact information?
-
-3. Is there an outreach program to remind representatives about keeping their contact info up to date?
-
-4. What type of information tends to need updating most often?
-
-5. What challenges do you have with keeping contact information up to date?
-
-6. What system or software does OGC utilize to keep representative contact records? (Is it GCLAWS?)
-
-7. Is there a way for OGC to store two addresses for the representative? Personal (home) and Business (org) 
+1. Can you briefly tell us about your role and responsibilities.  
+2. Please talk us through the current process for a representative seeking to update their contact information?
+3. Is the process different for claims agents and attorneys? In what ways?
+4. How many OGC staff manage representatives contact information?
+5. Are there any outreach programs available to remind representatives to keep their contact info up to date?
+6. What type of information tends to need updating most often?
+7. What are the biggest challenges your team faces today with keeping information up to date?
+8. What system or software does OGC utilize to keep representative contact records? (Is it GCLAWS?)
+9. How does OGC ensure that representatives are aware of their contact preference settings, and can they update these preferences easily? 
 
 
 **Let’s talk about emails.**
 1. Are cross-accredited VSO representatives able to save multiple professional email addresses to their OGC profile?
-
-2. Has there been any feedback received centered around email preferences? If so, what have you heard?
-
-3. How is it communicated to representatives the preference to not use their va.gov email address for veteran work?
-
-5. Anything else we should know about email addresses?
+2. What type of feedback has OGC received about contract preferences?
+3. Are representatives encouraged to use or not to use their va.gov email? Explain
 
 **Let’s talk about addresses**
-
 1. Does OGC track multiple addresses for cross-accredited representatives?
-
-2. Are representatives able to indicate their address be set to private (not displayed publicly)?
-
-3. Is it the same or a different address from what you’d want the VA and OGC to use to communicate with you?
-
-4. Anything else we should know about locations and addresses?
+2. Is there a way for OGC to store two addresses for the representative? Personal (home) and Business (org)
+3. Are representatives able to indicate if they prefer their address not displayed publicly?
+4. How does OGC handle updates to mailing addresses for representatives who operate in multiple states?
+5. Are there any specific guidelines or requirements for representatives to follow when submitting a change of address?
 
