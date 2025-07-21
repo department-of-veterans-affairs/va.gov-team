@@ -22,14 +22,14 @@ Work done in [#76465](https://github.com/department-of-veterans-affairs/va.gov-t
 
 ![image](https://github.com/user-attachments/assets/ba77b819-232d-4af7-aea1-22ed571a5170)
 - This question is asked for every dependent branch in the form
-- If yes, then the claim will off-ramp for manual review where the VBA will usually ask the Veteran a complete income/asset picture via a 21P-0969 or 21P-8416
+- If yes, VA.gov will off-ramp the claim for manual review where the VBA will usually ask the Veteran a complete income/asset picture via a 21P-0969 or 21P-8416
 - If no, the claim will continue through to RBPS
 
 -----
 
 ![image](https://github.com/user-attachments/assets/11696ae6-df7c-43f1-9fe0-326148864f4b)
 - This question is asked at the end of every form branch
-- If yes, the claim will off-ramp for manual review review where the VBA will usually ask the Veteran a complete income/asset picture via a 21P-0969 or 21P-8416
+- If yes, VA.gov will off-ramp the claim for manual review review where the VBA will usually ask the Veteran a complete income/asset picture via a 21P-0969 or 21P-8416
 - If no, the claim will continue through to RBPS
 -----
 
