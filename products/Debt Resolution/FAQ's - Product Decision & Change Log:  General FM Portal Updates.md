@@ -29,8 +29,8 @@ The following were considered but rejected.
     - Answer
   - **Do we have general insight into personnel resources we will need from Pay.gov and if we need to book those ahead of time?**
     - Answer
-  - **Devops systems need to be in place before we get outbound calls to pay.gov running. Are we worried about a devops SLA holding us up?**
+  - **Devops systems need to be in place before we get outbound calls to pay.gov running. Do we know what things need to be in place? Are we worried about a devops SLA holding us up?**
     - Answer
-  - **
+  - **MOU review time. I have a ticket this sprint for filling out the MOU, we do not know how long this will take to be reviewed or what tasks could come out of this. Current belief is MOU will get us closer to getting IP addresses to provide to Pay.gov**
 - **Question**
   - Answer
