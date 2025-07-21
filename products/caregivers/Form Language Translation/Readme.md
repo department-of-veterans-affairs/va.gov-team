@@ -19,6 +19,6 @@
           - API is currently in testing and should be available soon
           - Once dev is done, we want to have a demo prior to usability testing with Veterans & Caregivers
      - Question on How often are Caregivers changed/replaced?
-          **- Matt - Work is happening in the background regarding regulation and possible changes to the program.
-               - Would rather hold off on any changes to the form providing guidance or clarity on the roles or how to complete it
-               - Will come back to the team when we are ready to discuss any regulatory changes and what might be done to improve the process**
+          - Matt - Work is happening in the background regarding regulation and possible changes to the program.
+               - **Would rather hold off on any changes to the form providing guidance or clarity on the roles or how to complete it**
+               - **Will come back to the team when we are ready to discuss any regulatory changes and what might be done to improve the process**
