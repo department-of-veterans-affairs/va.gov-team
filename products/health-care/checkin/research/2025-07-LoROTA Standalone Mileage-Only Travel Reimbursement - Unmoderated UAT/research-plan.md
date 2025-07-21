@@ -32,9 +32,6 @@
 
 </details>
 
-> [!TIP]
-> Delete priorities not supported by this research.
-
 ### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
 
 <details><summary>Where does your product fit into the Veteran journey?
@@ -46,9 +43,6 @@ Are there moments that matter?</summary>
 
 ## Research Goals 🥅	
 `What are you trying to learn from this research?` 
-
-> [!NOTE]
-> Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.
 
 ### Goals
 
@@ -70,14 +64,6 @@ Are there moments that matter?</summary>
 ---
 
 ### Research questions
-> [!NOTE]
-> Do not write out all questions you plan to ask participants -- that should go in the` [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)
-
-***Consider bucketing research questions under research goals and think about:***
-	
-`What will I do with what I learn from this question?`
-  
-`Does this question serve the goals of my study?`
 
 **`1.`[How do Veterans find out about filing a travel reimbursement claim by texting travel to 54804?]**
 
@@ -94,9 +80,6 @@ Are there moments that matter?</summary>
 **`7.`[Do Veterans have any open ended feedback related to signing in and/or filing a claim? ]**
 
 ### Hypotheses
-> [!NOTE]
-> Remember to constrain the hypotheses to the goals of your study!
-
 ---
 
 **[We believe that Veterans will have learned about this updated method for filing a travel reimbursement claim through posters at the clinic. We anticipate that Veterans will be satisfied with this updated method for filing a claim and While initial adoption may provide a challenge, once Veterans use this application they will be very likely to use this tool in the future.]** 
@@ -119,9 +102,6 @@ After Veterans enter into the Perigean database, they will be routed to the surv
 
 ### Location
 Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
-
-> [!TIP]
-> Place [X] between brackets in edit mode to leave a checkmark in the correct box.
 
 - [X] **Remote**
 - [ ] **In-person**
