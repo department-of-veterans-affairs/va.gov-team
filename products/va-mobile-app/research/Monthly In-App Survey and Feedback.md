@@ -18,6 +18,7 @@ Very dissatisfied|2.10%|2.24%|2.87%
 
 ### Very dissatisfied
 Total comments: 27
+
 Exerts from feedback in this category:
 
 >*"App is too difficult to navigate, the previous VA refills app that was shutdown was MUCH easier to navigate."*
@@ -40,6 +41,7 @@ This ap should be more like My Chart. That is a good ap.">*
 
 ### Dissatisfied
 Total comments: 52
+
 Exerts from feedback in this category:
 
 >*"My Rx Was not on the list."*
@@ -59,6 +61,7 @@ Exerts from feedback in this category:
 
 ### Neither satisfied or dissatisfied
 Total comments:63
+
 Exerts from feedback in this category:
 
 >*"Refill requests can sometimes take over three weeks! This isn’t great for anyone awaiting medication. I’m on anxiety meds, and the uncertainty doesn’t help my condition."*
@@ -79,6 +82,7 @@ You ask overall satisfaction , reality is that the app could have lots of potent
 
 ### Satisfied
 Total comments: 334
+
 Exerts from feedback in this category:
 
 >*"Appointments need to indicate what department the appointment is with."*
@@ -99,6 +103,7 @@ Exerts from feedback in this category:
 
 ### Very satisfied
 Total comments: 889
+
 Exerts from feedback in this category:
 
 >*"Well designed app and makes it almost fun to use.*
