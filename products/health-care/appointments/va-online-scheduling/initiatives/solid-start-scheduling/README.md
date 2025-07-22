@@ -32,8 +32,8 @@ To reduce the number of call that VASS agent make and increase Veteran self appo
 > 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
 > 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
-- Reduce call center volume of Rx related issues | Baseline | Target | Link to data source (e.g. GA, Domo)-  TBD: verifying we have access to this information
-- Reduce Health Chat volume of Rx related issues | Baseline | Target | Link to data source (e.g. GA, Domo)-  TBD: verifying we have access to this information
+- Reduce time agents spend calling to schedule appointments | Baseline | Target | Link to data source (e.g. GA, Domo)
+(Need to review with business stakeholders)
 ---
 
 ## Discovery
