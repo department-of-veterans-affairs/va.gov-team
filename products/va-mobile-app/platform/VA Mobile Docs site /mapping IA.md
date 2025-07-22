@@ -52,7 +52,7 @@
 |Engineering, Front End, Demo Mode|Getting started, Set up, Demo mode|
 |Engineering, Front End, Development Setup Process|Getting started, Set up, Development setup process|
 |Engineering, Front End, Development Best Practices|Getting started, Set up, Development setup process|
-|Engineering, Front End, Downtime Messages|Development guide, Front end, Downtime messages|
+|Engineering, Front End, Downtime Messages|Development guide, Front end, Maintenance windows|
 |Engineering, Front End, Internationalization|X Remove|
 |Engineering, Front End, Internationalization, Translations|Development guide, Front end, Translations|
 |Engineering, Front End, Push Notifications|X Remove|
