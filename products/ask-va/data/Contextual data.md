@@ -55,7 +55,7 @@ Other live agent support
 |FY24 (10/1/23 to 9/30/24)|2.2M|[All VA.gov Dashboard in Domo](https://va-gov.domo.com/page/939649897)
 
 Other self-service support
-- VA subdomain pages
+- VA subdomain website (ex: http://benefits.va.gov/)
 
 ## Veteran data
 |Date|Number of military Veterans in the US|Source|
