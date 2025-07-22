@@ -1,5 +1,6 @@
 # Product outline for Ask VA
-Last updated by @beckyphung on April 24, 2025
+Last updated by @beckyphung on July 22, 2025
+
 This product outline gives an overview of the Ask VA product. Below are our current initiatives:
 
 |Initiatives|Status|Launch date|
