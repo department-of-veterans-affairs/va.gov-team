@@ -16,11 +16,11 @@ You can reach Ask VA at [va.gov/contact-us/ask-va](https://va.gov/contact-us/ask
 - Mural: [Ask VA room](https://app.mural.co/t/departmentofveteransaffairs9999/r/1686859097688)
 
 ## Our team
-|Role|Assigned|Contact|
+|Role|Assigned|
 |:---|:---|:---|
-|Product owner (OCTO), Designer|Becky Phung||
-|Product owner (VES)|Natalie Morales||
-|Product owner (VEO)|Jaime Rocha and Kathleen Reavy||
+|Product owner (OCTO), Designer|Becky Phung|
+|Product owner (VES)|Natalie Morales|
+|Product owner (VEO)|Jaime Rocha and Kathleen Reavy|
 
 ### Previous teammates
 |Role|Assigned|Contact|
