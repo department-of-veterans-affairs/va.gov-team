@@ -15,6 +15,8 @@ Veterans use this list to get a quick understanding of their upcoming appointmen
 
 - User can review a summary of their upcoming appointments.
 - Upcoming appointments are sorted starting from most recent to furthest in the future.
+   - This is calculated based on the UTC time for the appointment.
+   - The appointment is still displayed in the time zone where it's scheduled.      
 - User can navigate to the details for all appointments in the summary list.
 - User can print the summary list.
 - When the user has no upcoming appointments, a message must display to the user informing them of this.  
