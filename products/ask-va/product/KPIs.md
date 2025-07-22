@@ -1,4 +1,4 @@
-# Ask VA KPIs
+<img width="895" height="511" alt="image" src="https://github.com/user-attachments/assets/0a5de22b-1151-44b9-943d-33fe127be039" /># Ask VA KPIs
 Last updated by @beckyphung on April 10, 2025
 
 These KPIs help us understand how Ask VA is meeting expected submitter outcomes and operational performance of our Ask VA application. We'll benchmark our KPIs against VA.gov metrics.
@@ -8,12 +8,14 @@ These KPIs help us understand how Ask VA is meeting expected submitter outcomes 
 - [User experience KPIs](#user-experience-kpis)
 - [Calculating user experience KPIs](#user-experience-kpis)
 - [Performance KPIs](#performance-kpis)
+- [Business lines](#business-lines)
+- [Calculating KPIs](#calculating-kpis)
 
 ## Monthly metrics
 **Notes**
 - We launched Ask VA on VA.gov on 5/21/25. 
 - Learn more about our CRM endpoints for the Performance KPIs [in this doc](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/integration/crm_api#ask-va-crm-api-endpoints).
-- This doesn't represent error rates for other endpoints
+- This only includes a few primary CRM endpoints
 - Number in parenthesis represent the total (AKA the denominator for a percentage)
 
 |KPI|May|Jun|Jul (Up to 7/22)|
@@ -36,7 +38,7 @@ These KPIs help us understand how Ask VA is meeting expected submitter outcomes 
 User Experience KPIs measure how well Ask VA meets the needs and expectations of its users.
 
 ### Form KPIs
-Our targets are to meet at least the VA.gov average.
+Targets: At least the VA.gov average for each KPI
 
 - **Satisfaction (intercept)** - Increase customer satisfaction score (CSAT) 
 - **Satisfaction (feedback button)** - Increase customer satisfaction score (CSAT) 
@@ -80,3 +82,16 @@ These are secondary metrics we can track
 The Ask VA CRM team tracks business line KPIs in [the AVA Power BI report](https://app.powerbigov.us/groups/me/reports/e895dbed-17f3-45d1-8219-2b3fe27b8b7e?ctid=e95f1b23-abaf-45ee-821d-b7ab251ab3bf&pbi_source=linkShare&bookmarkGuid=72bfed1d-0745-4452-a5e8-6a36551cb166). 
 
 This includes metrics like: average resolution time (days to solve), number of authenticated submitters, submissions by category, and more.
+
+## Calculating KPIs
+This section explains how we calculate each KPI. 
+
+### User experience KPIs
+
+**How to calculate**
+- **Form completion rate**: Count of successful Submit inquiry (auth + unauth) calls `divided by` Count of total users who visited /contact-us/ask-va/introduction & /contact-us/ask-va/ `multiplied by` 100
+- **Dashboard completion rate**: Count of successful Reply calls `divided by` Count of total users who visited /contact-us/ask-va/user/dashboard/[inquiry number] `multiplied by` 100
+
+**Data sources**
+- [GA4 exploration](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/hQrn2ZlVRFGs0p-tT9Mgwg)
+- [Datadog dashboard](https://vagov.ddog-gov.com/dashboard/ye3-k3q-unc/ask-va-dashboard?fromUser=true&graphType=flamegraph&refresh_mode=paused&sort=time&from_ts=1751353200000&to_ts=1753209203948&live=false)
