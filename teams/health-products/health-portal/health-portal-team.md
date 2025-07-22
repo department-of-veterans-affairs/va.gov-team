@@ -17,8 +17,8 @@ The My HealtheVet on VA.gov team’s mission is to simplify Veterans’ health e
 
 ## Office of the CTO (OCTO) Team Members
 - Health Portfolio: Lauren Alexanderson
-- Product - Landing Page/Portal Experience: Marci McGuire
-- Product - Secure Messaging: Patrick Bateman
+- Product - Horizon: Marci McGuire
+- Product - Messaging: Patrick Bateman
 - Product - Medical Records: Marci McGuire
 - Product - Medications: Kay Lawyer
 - Design: Kristen McConnell
@@ -51,7 +51,8 @@ The My HealtheVet on VA.gov team’s mission is to simplify Veterans’ health e
 </details>
 
 
-### Portal-wide Experience
+### Horizon
+This cross-functional group serves as the primary points of contact for the delivery team and manages work that impacts the whole portal. During the transition period, Lauren, Bryan, and Daniel will also manage the customer support process.
 - Slack channel: [#mhv-on-vagov-cartography-team](https://dsva.slack.com/archives/C0581MN69TJ)
 
 |Name|Role|Primary Email|VA Email|DSVA Slack|GitHub|
@@ -64,20 +65,8 @@ The My HealtheVet on VA.gov team’s mission is to simplify Veterans’ health e
 | Marcello Antosh | Data Specialist | marcello.antosh@inroadsadvisory.com | TBD | TBD | [marcello-inroads](https://github.com/marcello-inroads) |
 | Lauren Ernest | Program Manager | lauren.ernest@adhocteam.us | lauren.ernest@va.gov | [@Lauren Ernest](https://dsva.slack.com/team/U01DKQVCEGY) | [laurenernest](https://github.com/laurenernest) |
 
-This cross-functional group serves as the primary points of contact for the delivery team and manages work that impacts the whole portal. During the transition period, Lauren, Bryan, and Daniel will also manage the customer support process.
 
-### Medications
-- Slack channel: [#mhv-medications-rx](https://dsva.slack.com/archives/C04PRFEJQTY)
 
-|Name|Role|Primary Email|VA Email|DSVA Slack|GitHub|
-|------|----|-----|-----|--------|------|
-| Michael Brodsky | Product Manager | michael.brodsky@agile6.com | michael.brodsky@va.gov | [@Michael Brodsky](https://dsva.slack.com/team/U08HKSYE285) | [michaelbrodsky-a6](https://github.com/michaelbrodsky-a6) |
-| Richard Davis | Frontend Engineer | richard.davis@agile6.com | richard.davis437@va.gov | [@Richard Davis](https://dsva.slack.com/team/U05BCJSDCDA) | [radavis](https://github.com/radavis) |
-| Chris Donelson | Fullstack Engineer | CDonelson@ironarchtech.com | TBD | TBD | TBD |
-| Ian Seabock | Frontend Engineer | iseabock@ironarchtech.com | TBD | TBD | [iseabock](https://github.com/iseabock) |
-
-During the transition period, the Medications team and Medical Devices team will work closely together to ensure coverage.
-  
 ### Medical Records
 - Slack channel: [#mhv-medical-records](https://dsva.slack.com/archives/C03Q2UQL1AS)
 
@@ -89,6 +78,16 @@ During the transition period, the Medications team and Medical Devices team will
 | Aswin Malla | Fullstack Engineer | aswin.malla@agile6.com | TBD | TBD | [AMT98](https://github.com/AMT98) |
 | Elwood Gary | Frontend Engineer (Liferay) | elwood.gary@agile6.com | Kenneth.Gary@va.gov | [@Elwood Gary](https://dsva.slack.com/archives/D096LSQBSDN) | [elwoodva](https://github.com/elwoodva) |
 
+### Medications
+During the transition period, the Medications team and Medical Devices team will work closely together to ensure coverage.
+- Slack channel: [#mhv-medications-rx](https://dsva.slack.com/archives/C04PRFEJQTY)
+
+|Name|Role|Primary Email|VA Email|DSVA Slack|GitHub|
+|------|----|-----|-----|--------|------|
+| Michael Brodsky | Product Manager | michael.brodsky@agile6.com | michael.brodsky@va.gov | [@Michael Brodsky](https://dsva.slack.com/team/U08HKSYE285) | [michaelbrodsky-a6](https://github.com/michaelbrodsky-a6) |
+| Richard Davis | Frontend Engineer | richard.davis@agile6.com | richard.davis437@va.gov | [@Richard Davis](https://dsva.slack.com/team/U05BCJSDCDA) | [radavis](https://github.com/radavis) |
+| Chris Donelson | Fullstack Engineer | CDonelson@ironarchtech.com | TBD | TBD | TBD |
+| Ian Seabock | Frontend Engineer | iseabock@ironarchtech.com | TBD | TBD | [iseabock](https://github.com/iseabock) |
 
 ### Messaging
 - Slack channel: [#mhv-secure-messaging](https://dsva.slack.com/archives/C03ECSBGSKX)
@@ -132,14 +131,56 @@ During the transition period, the Medications team and Medical Devices team will
 ### Mobile app
 - Slack channel: [#va-mobile-app](https://dsva.slack.com/archives/C018V2JCWRJ)
 
-### Platform Team
+### MHV Platform Team
 - TBD
 
 
 ## Stakeholders
-- 
+### Account Experience Crew (authenticated experience)
+Crew chief: Chante Lantos-Swett
+-	My VA (Chante Llantos Sweet)
+-	Profile (Chante Llantos Sweet)
+-	VA Notify (Dave Conlon)
+-	VEText (Shane Elliott, Beverly Nelson)
+-	VSP Identity (Samara Strauss)
 
-## Partner Teams
+### Mobile Experience
+Product: Ryan Thurwell
+Mobile Platform: 
+Related: Office of Connected Care (OCC) has a portfolio of ~70 mobile apps (1/2 of these are for Veterans). 
+
+### Health
+-	VAOS (Kay Lawyer, OCTO)
+-	Unified appointment experience (Mark Dewey, Patrick Bateman, Kay Lawyer) 
+-	Check In, including pre-check-in (Patrick Bateman)
+-	Beneficiary Travel (Mark Dewey)
+-	1010 CG application for caregiver health (Patrick Bateman)
+-	10-10EZ application for health care (Patrick Bateman)
+-	COVID (Lauren Alexanderson, Danielle Thierry - content strategist and plain language writer)
+-	After-visit and pre-visit summary (Shane Elliott & Rob Durkin)
+-	Patient-Generated Health Data (PGHD) (Stefany Holguin)
+
+### Benefits
+- Debt Resolution (Denise Coveyduc)
+- PACT Act (Zach Goldfine, Danielle Thierry)
+
+### Sitewide Crew
+Crew chief: Dave Conlon
+-	Health Care benefit hub (Danielle Thierry - content strategist and plain language writer who manages all health care content)
+-	Sitewide navigation and IA (Mikki Northuis, information architect)
+-	Facilities (Dave Conlon, Michelle Middaugh)
+-	Laura Willwerth (content)
+
+### OCC Stakeholders
+**Federal employees**
+-	Head of OCC and Acting Dept. of Veterans Affairs CIO: Dr. Neil Evans
+-	Executive Director of Connected Care: 
+-	Director of Veteran and Consumer Informatics Office (VCHIO): Theresa Hancock (Director of My HealtheVet)
+-	Director of CC who oversees MHV and mobile.va.gov: Nancy Wilck
+-	Management analyst/engineering oracle: Carnetta Scruggs
+-	Secure messaging product owner: Carnetta Scruggs
+-	Medical records product owner: Bresha Lipscomb
+
 
 ## What We're Working On
 The My HealtheVet portal team's main focus for the past several years has been rebuilding the standalone My HealtheVet patient health portal (currently referred to as My HealtheVet Classic) and integrating it into VA.gov. 
