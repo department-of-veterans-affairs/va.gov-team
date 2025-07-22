@@ -1,0 +1,53 @@
+# Research Plan
+
+## Research Goals
+- Evaluate the usability of the new self-service API key management flow.
+- Identify any points of confusion or friction in the three-step key generation process.
+- Validate whether the "one thing per page" pattern supports clear decision-making.
+- Understand users’ mental models around key naming, environment selection, and revocation.
+
+## Research Questions
+- Do users understand the purpose of API keys and the implications of managing them?
+- Can users confidently complete the steps to generate a key?
+- Does the environment suffix behavior in the key naming step make sense to users?
+- Do users understand that they will only see the full API key once, and that it won’t be accessible again after they leave the page?
+- Do users understand what happens after a key is generated, and how to manage inactive keys?
+- Is the interface accessible and aligned with user expectations for security-sensitive workflows?
+
+## Participants
+3 - 5 service team members who currently use or are responsible for API integrations (mix of technical and non-technical roles)
+
+### Ideally include:
+
+- One technical contact (or engineer)
+- One business contact
+- One user who rotates API keys infrequently
+
+## Methodology
+
+- Remote moderated usability testing
+- 30-minute sessions via Zoom
+- Participants will interact with a clickable Figma prototype
+- Researcher will ask open-ended questions and prompt task completion
+- Sessions will be recorded (with consent) for analysis
+
+
+## Prototype Tasks
+
+### Generate an API Key
+
+- Step 1: Select an environment
+- Step 2: Name the key (suffix behavior will be observed)
+- Step 3: Review choices and confirm generation
+
+### Interpret inactive key display
+- Observe if users understand why only one inactive key per environment is shown
+
+### Revoke an active key
+- Identify if the user feels confident revoking a key and understands what happens after
+
+## Success Indicators
+- Users complete the flow without backtracking or asking for clarification
+- Users describe the suffix naming behavior as helpful or intuitive
+- Participants correctly explain the system’s behavior regarding inactive keys
+- No major accessibility or comprehension issues are observed
