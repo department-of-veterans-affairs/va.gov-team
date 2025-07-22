@@ -1,6 +1,6 @@
 ---
 name: Disability Benefits Epic Template
-about: For disability crew
+about: For disability crew epics
 title: ''
 labels: disability
 assignees: ''
