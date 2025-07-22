@@ -73,7 +73,7 @@
 - **Use case:** Changes are saved once the user presses the Save button. Once the form is successfully saved, the user is returned to read mode and a slim success alert should display below the section header.
 - **Status code:** 200
 - **Format:** [Slim success alert](https://design.va.gov/components/alert/#examples---slim-alert)
-- REFERENCE [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=927-9728&t=XpeLUcvcZmicphy6-1)
+- [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=927-9728&t=IxDeELaasWg4dcVS-1)
 - **Content:** Update saved.
 
 </details>
