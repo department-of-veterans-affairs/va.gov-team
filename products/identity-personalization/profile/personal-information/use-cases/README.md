@@ -23,6 +23,7 @@
      - Preferred name
         - Note: Once added there is no way to delete a preferred name. This is a future feature VA Profile is working on.
      - Messages signature (MHV)
+        - Note: Only shows for those with health care.
 
 
 ## Common use cases
