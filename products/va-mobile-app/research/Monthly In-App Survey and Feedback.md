@@ -16,6 +16,57 @@ Very dissatisfied|2.10%|2.24%|2.87%
 
 ## Veteran Qualitative Feedback
 
+### Summary
+While many Veterans appreciated the convenience and functionality the app provides, the common pain points noted below reflect challenges such as prescription refill issues, inadequate appointment details, login/authenticaiton problems, and technical glitches influencing satisfaction ratings. Improvements in these areas, along with better integration of health records, would likely enhance the user experience.
+
+### Common Themes
+
+**1. Ease of Prescription Refills**
+- Many veterans appreciate the app’s ability to make prescription refills easy and convenient.
+- Positive feedback often mentions the smooth process of refilling prescriptions and the user-friendly interface.
+  
+**2. Appointment Management**
+- There is frequent mention of checking and managing appointments.
+- Veterans find it useful to view their upcoming appointments, but lack some important details to better understand or manage their appointments.
+  
+**3. Secure Messaging**
+- Veterans value the ability to send and receive secure messages to/from their healthcare providers.
+  
+**4. App Usability and Navigation**
+- Many veterans find the app easy to navigate and appreciate its simplicity and efficiency.
+- Users are commenting on the functionality and their satisfaction with the application itself.
+
+### Pain Points
+
+**1. Prescription Management Issues**
+- *Difficulty w/ the refill process:* Veterans expressed difficulty managing their prescriptions including issues with needing to communicate with their medical team about refills, wanting to easily reorder multiple refills with a desire to set up automatic refills, and not finding all of their refills on the list.
+- *Delays in refills:* There was a frequent mention of the long time it takes to receive refills and mentions of refills not being fulfilled or seeming to stick in the system. Some Veterans thoughts they had requested refills only to resubmit those refill requests later after not finding those refill requests reflected later in the app.
+- *Inability to order specific medications:* Some users mentioned not being able to reorder the medication they were looking for, and the prescription refill section not being directly connected with secure messaging to communicate about the medication with their doctor. Expired prescriptions were frequently mentioned as a pain point needing to further communicate with their medical team in order to have the ability to reorder their prescription.
+- *Inconsistent information:* There are reports of discrepancies between the amount of medicine prescribed by the doctor and the amout the pharmacy filled or direction from the pharmacy instructions which caused confusion for Veterans on prescription details. Veterans expressed a need to communicate further about some specific medication refills either with their doctor or the pharmacy.
+-  *Outdated prescription information:* Veterans were frustrated by discontinued prescriptions still appearing in their active medication lists.
+-  *Organization of prescriptions:* Mentions of hiding old, out-dated prescriptions were mentioned, as well as wanting to have a single list vs. multiple to see all prescriptions past and present.
+
+**2. App Usability and Navigation**
+- *Difficulties with navigation:* There are mentions of the app being 'confusing', 'difficult', or 'doesn't work as expected'. There is mention of bugs that prevent refill requests from going through. Some find the navigation cumbersome, especially when it involves multiple steps to perform a single task. There is confusion with the different sections of the app, specifically mentioned were prescription refill and appointment management sections.
+
+**3. Appointment Details**
+- *Lack of details:* Veterans are looking for more information related to their appointments to be able to attend in the right location and understand what the appointment is for. They desire details such as specific departments, room numbers, and provider name. Others mention wanting to see in the appointments detail a summary of their visit afterwards.
+
+**4. Login/Authentication Problems:**
+- *Biometric authentication*: Veterans report having difficulty with the biometric authentication working in the app as expected. Others mention having to switch between authentication methods. One Veteran felt that switching to a web view during the authentication process resulted in security issues and lack of trust with the process.
+- *Timing out or multiple login attempts:* Veterans report having difficulties with the login process timing out on them, or having to try multiple times to login before being successful.
+
+**5. Lack of integration with other VA systems/tools:**
+- *Test/lab results:* Veterans often mentioned a desire to see further test and lab results, or additional details about their health records. Some Veterans mentioned a desire for a more comprehensive health tracking system like other healthcare apps, specifically mentioned was "One Chart".
+
+**6. Communication issues:**
+- *Delayed responses:* Veterans wanted quicker communication back from their doctor. Some wanted to be able to communicate about a prescription specifically from the prescription refill area vs. navigating separately to Secure Messages.
+- *Inability to remove old messages:* Veterans desire a way to personally manage and organize their messages. Removing excess, or dated communication.
+
+**7. Technical Glitches:**
+- *App crashes/Lagging:* Several Veterans mentioned issues with the app freezing, crashing, or having a significant lag for them.
+- *Prescriptions missing or not going through:* Was an issue many Veterans viewed as a technical glitch in the system.
+
 ### Very dissatisfied
 Total comments: 27
 
