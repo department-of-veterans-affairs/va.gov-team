@@ -3,7 +3,8 @@ Borrowed, with some edits, from the MHV on VA.gov team ([view the original doc h
 
 Jump to: 
 - [We assume positive intent](#we-assume-positive-intent)
-- [Communications]
+- [Communications](#communications)
+- [Documentation](#documentation)
 
 ## We assume positive intent
 **We're here because we want to improve the lives of Veterans.** Our default assumption is that everyone involved with this work has done their best to build a positive experience with what was available to them at the time. 
