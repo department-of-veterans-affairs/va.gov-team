@@ -3,6 +3,8 @@ import os
 import re
 import yaml
 import spacy
+import sys
+import traceback
 from collections import defaultdict
 
 def has_frontmatter(text):
@@ -68,9 +70,18 @@ def nlp_tagging(doc, label_dict, nlp):
                 tag_scores[label] += 1
             else:
                 # Use spaCy similarity if available
-                for sent in nlp(doc).sents:
-                    if nlp(kw)[0].similarity(nlp(sent.text)[0]) > 0.75:
-                        tag_scores[label] += 0.5
+                try:
+                    doc_nlp = nlp(doc[:1000000])  # Limit doc size for NLP processing
+                    kw_nlp = nlp(kw)
+                    if len(kw_nlp) > 0 and len(doc_nlp) > 0:
+                        for sent in doc_nlp.sents:
+                            if len(sent.text.strip()) > 0:
+                                sent_nlp = nlp(sent.text)
+                                if len(sent_nlp) > 0 and len(kw_nlp) > 0:
+                                    if kw_nlp[0].similarity(sent_nlp[0]) > 0.75:
+                                        tag_scores[label] += 0.5
+                except Exception as e:
+                    print(f"Warning: NLP similarity check failed: {e}", file=sys.stderr)
     tags = [tag for tag, score in tag_scores.items() if score > 0]
     tag_confidence = {tag: min(1.0, tag_scores[tag]/2) for tag in tags}
     return tags, tag_confidence
@@ -79,85 +90,157 @@ def insert_frontmatter(text, frontmatter):
     return f"---\n{yaml.dump(frontmatter, sort_keys=False)}---\n{text}"
 
 def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument('--file-path', required=True)
-    parser.add_argument('--labels-file', required=True)
-    parser.add_argument('--template-path', required=True)
-    parser.add_argument('--report-path', required=True)
-    args = parser.parse_args()
+    try:
+        parser = argparse.ArgumentParser()
+        parser.add_argument('--file-path', required=True)
+        parser.add_argument('--labels-file', required=True)
+        parser.add_argument('--template-path', required=True)
+        parser.add_argument('--report-path', required=True)
+        args = parser.parse_args()
 
-    # Load spaCy
-    nlp = spacy.load("en_core_web_sm")
+        print(f"Processing file: {args.file_path}")
+        print(f"Labels file: {args.labels_file}")
+        print(f"Template file: {args.template_path}")
+        print(f"Report file: {args.report_path}")
 
-    # Load file
-    with open(args.file_path, "r", encoding="utf-8") as f:
-        doc = f.read()
+        # Check if files exist
+        if not os.path.exists(args.file_path):
+            print(f"Error: Research plan file not found: {args.file_path}", file=sys.stderr)
+            sys.exit(1)
+        
+        if not os.path.exists(args.labels_file):
+            print(f"Error: Labels file not found: {args.labels_file}", file=sys.stderr)
+            sys.exit(1)
+            
+        if not os.path.exists(args.template_path):
+            print(f"Error: Template file not found: {args.template_path}", file=sys.stderr)
+            sys.exit(1)
 
-    if has_frontmatter(doc):
-        print("Frontmatter already exists. Skipping update.")
-        with open(args.report_path, "w") as report:
-            report.write("Frontmatter already exists in this research plan. No changes made.\n")
-        return
+        # Load spaCy
+        print("Loading spaCy model...")
+        try:
+            nlp = spacy.load("en_core_web_sm")
+        except Exception as e:
+            print(f"Error loading spaCy model: {e}", file=sys.stderr)
+            print("Trying to download the model...", file=sys.stderr)
+            os.system("python -m spacy download en_core_web_sm")
+            nlp = spacy.load("en_core_web_sm")
 
-    # Load template frontmatter (YAML block at start)
-    with open(args.template_path, "r", encoding="utf-8") as f:
-        template = f.read()
-    template_match = re.search(r"^---\s*\n(.*?)^---\s*\n", template, re.DOTALL | re.MULTILINE)
-    template_yaml = template_match.group(1) if template_match else ""
-    template_dict = yaml.safe_load(template_yaml) if template_yaml else {}
+        # Load file
+        print(f"Loading research plan from: {args.file_path}")
+        with open(args.file_path, "r", encoding="utf-8") as f:
+            doc = f.read()
+        
+        print(f"Document length: {len(doc)} characters")
 
-    # Extract fields from doc
-    title, title_conf = extract_title(doc)
-    product, product_conf = extract_product(doc)
-    methodology, meth_conf = extract_methodology(doc)
-    author, author_conf = extract_author()
-    date_created, date_conf = extract_date()
+        if has_frontmatter(doc):
+            print("Frontmatter already exists. Skipping update.")
+            with open(args.report_path, "w") as report:
+                report.write("Frontmatter already exists in this research plan. No changes made.\n")
+            return
 
-    # Tagging
-    label_dict = load_labels(args.labels_file)
-    tags, tag_confidence = nlp_tagging(doc, label_dict, nlp)
+        # Load template frontmatter (YAML block at start)
+        print("Loading template...")
+        with open(args.template_path, "r", encoding="utf-8") as f:
+            template = f.read()
+        
+        template_match = re.search(r"^---\s*\n(.*?)^---\s*\n", template, re.DOTALL | re.MULTILINE)
+        template_yaml = template_match.group(1) if template_match else ""
+        
+        if not template_yaml:
+            print("Warning: No frontmatter found in template file", file=sys.stderr)
+            template_dict = {}
+        else:
+            try:
+                template_dict = yaml.safe_load(template_yaml)
+                if not isinstance(template_dict, dict):
+                    template_dict = {}
+            except Exception as e:
+                print(f"Error parsing template YAML: {e}", file=sys.stderr)
+                template_dict = {}
 
-    # Build frontmatter
-    frontmatter = template_dict.copy()
-    report_lines = []
+        # Extract fields from doc
+        print("Extracting metadata from document...")
+        title, title_conf = extract_title(doc)
+        product, product_conf = extract_product(doc)
+        methodology, meth_conf = extract_methodology(doc)
+        author, author_conf = extract_author()
+        date_created, date_conf = extract_date()
 
-    # Fill fields, add confidence report
-    frontmatter['title'] = title
-    report_lines.append(f"**title**: `{title}` (confidence: {title_conf:.2f})" + (" – review needed" if title_conf < 0.8 else ""))
+        # Tagging
+        print("Loading labels and performing NLP tagging...")
+        try:
+            label_dict = load_labels(args.labels_file)
+            print(f"Loaded {len(label_dict)} labels")
+        except Exception as e:
+            print(f"Error loading labels: {e}", file=sys.stderr)
+            label_dict = {}
+            
+        tags, tag_confidence = nlp_tagging(doc, label_dict, nlp)
 
-    frontmatter['date_created'] = date_created
-    report_lines.append(f"**date_created**: `{date_created}` (auto-filled)")
+        # Build frontmatter
+        frontmatter = template_dict.copy()
+        report_lines = []
 
-    frontmatter['author'] = author
-    report_lines.append(f"**author**: `{author}` (confidence: {author_conf:.2f}) – review needed")
+        # Fill fields, add confidence report
+        frontmatter['title'] = title
+        report_lines.append(f"**title**: `{title}` (confidence: {title_conf:.2f})" + (" – review needed" if title_conf < 0.8 else ""))
 
-    frontmatter['product'] = product
-    report_lines.append(f"**product**: `{product}` (confidence: {product_conf:.2f})" + (" – review needed" if product_conf < 0.8 else ""))
+        frontmatter['date_created'] = date_created
+        report_lines.append(f"**date_created**: `{date_created}` (auto-filled)")
 
-    frontmatter['methodology'] = methodology if methodology else ["[TODO: Add methodology]"]
-    report_lines.append(f"**methodology**: `{methodology if methodology else '[TODO: Add methodology]'}` (confidence: {meth_conf:.2f})" + (" – review needed" if meth_conf < 0.8 else ""))
+        frontmatter['author'] = author
+        report_lines.append(f"**author**: `{author}` (confidence: {author_conf:.2f}) – review needed")
 
-    frontmatter['tags'] = tags if tags else ["[TODO: Add tags]"]
-    tag_report = []
-    for tag in tags:
-        tag_report.append(f"  - `{tag}` (confidence: {tag_confidence.get(tag, 0):.2f}" + (" – review needed" if tag_confidence.get(tag, 0) < 0.8 else "") + ")")
-    if not tags:
-        tag_report.append("  - [TODO: Add tags] – review needed")
-    report_lines.append("**tags**:\n" + "\n".join(tag_report))
+        frontmatter['product'] = product
+        report_lines.append(f"**product**: `{product}` (confidence: {product_conf:.2f})" + (" – review needed" if product_conf < 0.8 else ""))
 
-    # Copy through other template fields if present
-    for key in template_dict:
-        if key not in frontmatter:
-            frontmatter[key] = template_dict[key]
+        frontmatter['methodology'] = methodology if methodology else ["[TODO: Add methodology]"]
+        report_lines.append(f"**methodology**: `{methodology if methodology else '[TODO: Add methodology]'}` (confidence: {meth_conf:.2f})" + (" – review needed" if meth_conf < 0.8 else ""))
 
-    # Insert frontmatter
-    new_doc = insert_frontmatter(doc, frontmatter)
-    with open(args.file_path, "w", encoding="utf-8") as f:
-        f.write(new_doc)
+        frontmatter['tags'] = tags if tags else ["[TODO: Add tags]"]
+        tag_report = []
+        for tag in tags:
+            tag_report.append(f"  - `{tag}` (confidence: {tag_confidence.get(tag, 0):.2f}" + (" – review needed" if tag_confidence.get(tag, 0) < 0.8 else "") + ")")
+        if not tags:
+            tag_report.append("  - [TODO: Add tags] – review needed")
+        report_lines.append("**tags**:\n" + "\n".join(tag_report))
 
-    # Write report
-    with open(args.report_path, "w", encoding="utf-8") as report:
-        report.write("\n".join(report_lines) + "\n")
+        # Copy through other template fields if present
+        for key in template_dict:
+            if key not in frontmatter:
+                frontmatter[key] = template_dict[key]
+
+        # Insert frontmatter
+        print("Inserting frontmatter into document...")
+        new_doc = insert_frontmatter(doc, frontmatter)
+        
+        # Write the updated document
+        print(f"Writing updated document to: {args.file_path}")
+        try:
+            with open(args.file_path, "w", encoding="utf-8") as f:
+                f.write(new_doc)
+            print("Successfully wrote updated document")
+        except Exception as e:
+            print(f"Error writing updated document: {e}", file=sys.stderr)
+            raise
+
+        # Write report
+        print(f"Writing report to: {args.report_path}")
+        try:
+            with open(args.report_path, "w", encoding="utf-8") as report:
+                report.write("\n".join(report_lines) + "\n")
+            print("Successfully wrote report")
+        except Exception as e:
+            print(f"Error writing report: {e}", file=sys.stderr)
+            raise
+
+        print("Script completed successfully")
+
+    except Exception as e:
+        print(f"Fatal error: {e}", file=sys.stderr)
+        traceback.print_exc()
+        sys.exit(1)
 
 if __name__ == "__main__":
     main()
