@@ -107,7 +107,7 @@ Content Sync with CAIA
 
 #### EZ/CG Group:
 - Jessica Stump | GH "jessicastump" - UX Design/Research
-- Liza McRuer | GH "#" - UX Design/Research
+- Liza McRuer | GH "emcruer" - UX Design/Research
 
 
 
