@@ -155,5 +155,7 @@ Look for:
 - ⚡️ A lightning bolt icon, which indicates that the commit was deployed via Staged Continuous Deployment.
 
 ### Work Reprioritization
-- Things that change mid-sprint
-- How to determine the urgency of reprioritized work
+Should unplanned work come up mid-sprint, please follow the steps below: 
+- Create a ticket, even if it's a small piece of work it's important for us to track unplanned work that pops up
+- Surface it in Slack tagging the Product Manager and Scrum Master and call it out for a parking lot item if we have daily scrum that day
+- The ticket will be triaged accordingly, if something gets added to the sprint then in most cases something else must come out of the sprint
