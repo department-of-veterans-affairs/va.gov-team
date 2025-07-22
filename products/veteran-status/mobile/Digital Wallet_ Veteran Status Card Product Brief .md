@@ -52,8 +52,9 @@ O1: VA’s digital experiences are the easiest and most efficient way to access 
 | --- | --- | --- | 
 |7/22/2025| Generic pass will be displayed for Apple and Google Wallet. |This was a recommendation provided by engineering and UX. After looking at some different options, the generic pass aligns with the type of content that we are displaying on the Veteran Status Card and was approved by our VA Stakeholder.|
 |7/22/2025| Include the branding on the Google Wallet. |After being presented with different styling options from UX Product and VA Stakeholder, it was agreed that for the Google Wallet to include the branding at the bottom of the card.|  
-|7/22/2025| The digital wallet must contain: Name, Disclaimer of Benefits, Identification Number, and Proof of Service. |This is required by law and the IIR team shared their findings with MFS.| 
-
+|7/22/2025| The digital wallet for the Veteran Status Card must contain: Name, Disclaimer of Benefits, Identification Number, and Proof of Service. |This is required by law and the IIR team shared their findings with MFS.| 
+|7/22/2025| **Currently working on a final decision** | We are unsure of where the disability rating will be displayed on the card or within the pass detials.|
+|7/22/2025| **Currently working on a final decision** | We are unsure of where the disclaimer of beneifts will be displayed on the card or within the pass detials.|
 
 ## Reference Materials
 
