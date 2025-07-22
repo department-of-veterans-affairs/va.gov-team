@@ -1,5 +1,3 @@
 ## Enrollment statuses from Enrollment System
--  As of 08/10/2023
 
-![image](https://github.com/department-of-veterans-affairs/va.gov-team/assets/92328831/31de2598-ad6e-42f8-9e03-e880aa037ca7)
-
+Enrollment statuses are defined in [vets-website here](https://github.com/department-of-veterans-affairs/vets-website/blob/a6e34921241403021f8522e2c29678550432681e/src/platform/user/profile/constants/hca.js#L53)
