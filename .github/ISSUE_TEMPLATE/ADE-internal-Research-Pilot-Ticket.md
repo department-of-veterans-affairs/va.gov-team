@@ -4,7 +4,7 @@ about: Template for pilots conducted prior to research, created based on request
   made to ADE.
 title: Internal Pilot Research Ticket
 labels: ADE, ADE Research
-assignees: artsymartha68, cindymerrill, lakper, sara-amanda
+assignees: artsymartha68, lakper, sara-amanda
 
 ---
 
