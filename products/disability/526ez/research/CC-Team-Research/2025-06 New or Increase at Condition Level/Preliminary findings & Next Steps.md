@@ -1,6 +1,4 @@
-# 2025-06 New/Increase at Condition Level
-
-# Topline Research Findings and Next Steps
+# 2025-06 New/Increase at Condition Level: Topline Research Findings and Next Steps
 
 **Date:** 07/22/2025
 
