@@ -22,7 +22,7 @@ These KPIs help us understand how Ask VA is meeting expected submitter outcomes 
 |:--|:--|:--|:--|
 |[Performance] Error rate, Submit inquiry (auth)|0.4% (16850)|0.3% (43517)|0.7% (31950)|
 |[Performance] Error rate, Submit inquiry (unauth)|0.9% (248)|5.1% (574)|13.54% (363)|
-|[Performance] Error rate, Reply|0.2% (2462)|0.1% (6827)|0.3% (4460)|
+|[Performance] Error rate, Submit reply|0.2% (2462)|0.1% (6827)|0.3% (4460)|
 |[Performance] AVG p95 Latency, Submit inquiry (auth)|6.1s|5.8s|7.5s|
 |[Performance] AVG p95 Latency, Submit inquiry (unauth)|2.0s|1.7s|1.6s|
 |[Performance] AVG p95 Latency, Submit reply|3.1s|3.6s|3.4s|
@@ -69,10 +69,13 @@ Performance KPIs measure the technical aspects of Ask VA, such as speed, reliabi
 The OCTO error rate target is less than 1% and for latency is less than 4s.
 
 - **Zero silent failures** - At any point in time, there are zero silent failures in sending or receiving data needed for VA agents to answer submitter questions
-- **Error rate (Form submissions to CRM, Submit Inquiry)** - The number of non 2xx codes vs 2xx (successful) codes over a unit of time (e.g. per day)
-- **Error rate (Dashboard replies to CRM, Submit Reply)** - The number of non 2xx codes vs 2xx (successful) codes over a unit of time (e.g. per day)
-- **Latency** - Average time to receive a successful response (2xx) from CRM over a unit of time. Will be tracked for Form submissions and Dashboard replies
-- **Throughput** - Number of Transactions per unit of time (e.g. per day). Can be split by: 1)Successes and Failures and 2) Form submissions and Dashboard replies 
+- **Error rate, Submit inquiry (auth)** - Decrease error rate
+- **Error rate, Submit inquiry (unauth)** - Decrease error rate
+- **Error rate, Submit reply** - Decrease error rate
+- **AVG p95 Latency, Submit inquiry (auth)** - Decrease latency
+- **AVG p95 Latency, Submit inquiry (unauth)** - Decrease latency
+- **AVG p95 Latency, Submit reply** - Decrease latency
+- **Throughput, Successful Submit inquiry (auth + unauth) calls** - Increase throughput
 
 ### Other performance metrics
 These are secondary metrics we can track
