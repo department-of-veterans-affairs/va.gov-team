@@ -1,12 +1,7 @@
 # Product outline for Ask VA
 Last updated by @beckyphung on July 22, 2025
 
-This product outline gives an overview of the Ask VA product. Below are our current initiatives:
-
-|Initiatives|Status|Launch date|
-|:---|:---|:---|
-|[Prefill topic questions with NLP data model](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/prefill-nlp%20June%202025/initiative-brief.md)|In-progress|June 30, 2025|
-|[Move frontend to VA.gov](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/move-frontend%20Mar%202025/initiative-brief.md)|In-progress|March 24, 2025|
+This product outline gives an overview of the Ask VA product. 
 
 **Jump to:**
 - [Overview](#overview)
