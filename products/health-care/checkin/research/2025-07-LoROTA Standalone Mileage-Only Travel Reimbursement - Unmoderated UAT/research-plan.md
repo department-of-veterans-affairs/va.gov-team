@@ -81,21 +81,33 @@ Are there moments that matter?</summary>
 ### Hypotheses
 ---
 
-**[
-- How do Veterans find out about filing a travel reimbursement claim by texting travel to 54804?
-	- Most Veterans will find out through a poster at the clinic or through an online resource.
-- How confident do Veterans feel that their travel reimbursement claim was filed?
-	 - Veterans will feel confident that their travel reimbursement claim was filed.
-- How easy or difficult is it for Veterans to file a travel reimbursement claim?
-	 - Veterans will find it extremely easy to file a claim from their smartphones.
-- Do Veterans understand what happens next in the reimbursement process? 
-	 - Veterans will understand what comes next in the travel reimbursement process; their claim will be processed/reviewed and they'll be alerted to their claim's status via other tools. 
-- How satisfied are Veterans with the experience of initiating and filing a claim?
-	 - Veterans will be satisfied with the experience of using the LoROTA standalone mileage-only travel reimbursement application.
-- How likely are Veterans to use this tool to file for travel reimbursement in the future?
-	- While initial adoption may provide a challenge, once Veterans use this application they will be very likely to use this tool in the future.
-- Do Veterans have any open ended feedback related to signing in and/or filing a claim? 
-	- Veterans will occasionally provide open ended feedback related to signing in and/or filing a claim.]** 
+**`1.`[How do Veterans find out about filing a travel reimbursement claim by texting travel to 54804?]**
+
+- Most Veterans will find out through a poster at the clinic or through an online resource.
+
+**`2.`[How confident do Veterans feel that their travel reimbursement claim was filed?]**
+
+- Veterans will feel confident that their travel reimbursement claim was filed.
+
+**`3.`[How easy or difficult is it for Veterans to file a travel reimbursement claim?]**
+
+ - Veterans will find it extremely easy to file a claim from their smartphones.
+
+**`4.`[Do Veterans understand what happens next in the reimbursement process?]**
+
+- Veterans will understand what comes next in the travel reimbursement process; their claim will be processed/reviewed and they'll be alerted to their claim's status via other tools. 
+
+**`5.`[How satisfied were Veterans with the experience of initiating and filing a claim?]**
+
+- Veterans will be satisfied with the experience of using the LoROTA standalone mileage-only travel reimbursement application.
+
+**`6.`[How likely are Veterans to use this tool to file for travel reimbursement in the future?]**
+
+- While initial adoption may provide a challenge, once Veterans use this application they will be very likely to use this tool in the future.
+
+**`7.`[Do Veterans have any open ended feedback related to signing in and/or filing a claim? ]**
+
+- Veterans will occasionally provide open ended feedback related to signing in and/or filing a claim
 
 ---
 
