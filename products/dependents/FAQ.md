@@ -124,8 +124,9 @@ Source: [Amy Grace Wells, July 2025](https://dsva.slack.com/archives/C07RB9N9M6J
 <details>
 <summary>Are there scenarios where a dependent removal would be denied?</summary>
 
-- If the Veteran tries to remove a dependent for a non-legal reason (e.g., not divorce, leaving the household, marriage, etc.), the removal will almost always be denied.
-- Some Veterans try to remove a spouse before the divorce is finalized. Some just don't want to take money from the government. Some don't want a service-connected benefit bc they are looking for a certain type of employment.
+- If the Veteran tries to remove a dependent for a non-legal reason, the removal will almost always be denied.
+   - Some Veterans try to remove a spouse before the divorce is finalized. Some just don't want to take money from the government. Some don't want a service-connected benefit bc they are looking for a certain type of employment.
+   - Legal reasons include divorce, when a child leaves the household, when a child gets married, when a dependent dies, etc.
 - By regulation, the Veteran cannot renounce part of their benefit -- they must receive the full benefit they are entitled too
 
 [Source: David Reis 7/21/25](https://dsva.slack.com/docs/T03FECE8V/F08UBCMQ5GQ?focus_section_id=temp:C:FNHed35c71c3a524d11b3bdf3548)
