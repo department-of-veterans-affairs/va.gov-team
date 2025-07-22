@@ -13,7 +13,7 @@
 
 `What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?`
 
-**[The feature we are testing is a a new iteration of the travel pay flow that will be the travel pay feature at OH faciltiies. Veterans who have sued check-in, pre-check-in, or travel pay prior should have a general level of familarity with this application and user flow.]**
+**[The feature we are testing is a new iteration of the travel pay flow that will be the travel pay feature at OH facilities. Veterans who have used check-in, pre-check-in, or travel pay prior should have a general level of familiarity with this application and user flow.]**
 
 `Product Brief`
 
