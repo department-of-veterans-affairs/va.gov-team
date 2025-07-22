@@ -17,7 +17,7 @@ You can reach Ask VA at [va.gov/contact-us/ask-va](https://va.gov/contact-us/ask
 
 ## Our team
 |Role|Assigned|
-|:---|:---|:---|
+|:---|:---|
 |Product owner (OCTO), Designer|Becky Phung|
 |Product owner (VES)|Natalie Morales|
 |Product owner (VEO)|Jaime Rocha and Kathleen Reavy|
