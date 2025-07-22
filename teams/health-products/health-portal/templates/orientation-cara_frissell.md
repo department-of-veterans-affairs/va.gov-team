@@ -11,9 +11,6 @@ If you have questions, don't hesitate to reach out to your OCTO practice lead, [
 - [ ] [Learn about how we work](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/how-we-work.md)
 - [ ] Schedule 15 min to meet with your new team mates
 
-### Customer Support and Triage
-- TBD
-
 ### Horizon
 - [ ]  OCTO Product Owner: Marci McGuire
 - [ ]  Product Lead: Bryan Ivie
@@ -22,43 +19,6 @@ If you have questions, don't hesitate to reach out to your OCTO practice lead, [
 - [ ]  Research Lead: Cara Frissell
 - [ ]  IA Lead: Sara Sterkenburg
 - [ ]  Data Lead: Marcello Antosh
-
-### Medical Devices and Supplies
-- [ ]  OCTO Product Owner: Marci McGuire
-- [ ]  Business Analyst: Mark Carter
-- [ ]  FE Engineer: Amy Cashbaugh
-- [ ]  Mobile FE Engineer: Geoff Winner
-
-### Medical Records
-- [ ]  OCTO Product Owner: Marci McGuire
-- [ ]  Product Manager: David Koger
-- [ ]  FE Engineer: Napoleon Kernessant
-- [ ]  FS/BE Engineer: Aswin Malla
-- [ ]  FS/FE Engineer: Ni Chia
-- [ ]  FE Engineer, Liferay: Elwood Gary
-
-### Medications
-- [ ]   OCTO Product Owner: Kay Lawyer
-- [ ]   Product Manager: Michael Brodsky
-- [ ]   FE Engineer: Richard Davis
-- [ ]   FS/BE Engineer: Chris Donelson
-- [ ]   FE Engineer: Ian Seabock
-
-### Messages
-- [ ]   Slack: #tbd
-- [ ]   OCTO Product Owner: Patrick Bateman
-- [ ]   Product Manager: Stacy Blackwood
-- [ ]   BE Engineer, Liferay: Clint Wilde
-- [ ]   FE Engineer, Liferay: Mario Williams
-- [ ]   FE Engineer: Alex Morgun
-- [ ]   FS/FE Engineer: Adam Stoler
-- [ ]   FS/FE Engineer: Adam StolerFS/BE Engineer: Jason Congliari
-- [ ]   FS/FE Engineer: Adam StolerMobile FS Engineer: Jayson Perkins
-
-### Unified Appointment Experience
-- [ ]   FS/FE Engineer: Adam StolerSlack: #tbd
-- [ ]   FS/FE Engineer: Adam StolerOCTO Product Owner: Kay Lawyer
-- [ ]   FS/FE Engineer: Adam StolerOCTO Design/Research Lead: Kristen McConnell
 
 
 - [ ] [Get familiar with some of our terminology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/terminology.md)
