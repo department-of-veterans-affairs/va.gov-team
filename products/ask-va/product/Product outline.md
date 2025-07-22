@@ -57,13 +57,15 @@ Key Performance Indicators (KPIs) help us understand how Ask VA is meeting expec
 
 ### User experience KPIs
 - **Satisfaction**: Increase customer satisfaction score (CSAT) for form and dashboard
-- **Experience**: Increase experience rating for form and dashboard
+   - This KPI comes from the [Medallia intercept survey](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/accessing-and-utilizing-contact-center-data#AccessingandUtilizingVeteranSupportData-MedalliaInterceptSurveyQuestions).
+   - This is our primary satisfaction rating because this survey displays randomly to users. Feedback is less biased because users don't intentionally submit feedback.
+- **Feedback button satisfaction**: Increase feedback button satisfaction rating for form and dashboard
+   - This KPI comes from the [Medallia feedback button survey](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/accessing-and-utilizing-contact-center-data#AccessingandUtilizingVeteranSupportData-FeedbackSurveyQuestions).
+   - This is our secondary satisfaction rating because users must select the feedback button on purpose to provide feedback. Feedback is skewed towards lower ratings because of this.
 - **Form completion rate**: Increase the percentage of questions successfully sent by submitters for form
 - **Time to submit form**: Decrease the average time it takes submitters to send a question for form
 - **Reply rate**: Increase the number of replies to questions for dashboard
 - **Time to reply**: Decrease the average time it takes submitters to reply to a question for dashboard
-
-Note: The satisfaction and experience metrics are different. The satisfaction rating comes from the [Medallia feedback button survey](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/accessing-and-utilizing-contact-center-data#AccessingandUtilizingVeteranSupportData-FeedbackSurveyQuestions). The experience rating comes from the [Medallia intercept survey](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/accessing-and-utilizing-contact-center-data#AccessingandUtilizingVeteranSupportData-MedalliaInterceptSurveyQuestions).
 
 ### Performance KPIs
 - **Zero silent failures**: At any point in time, there are zero silent failures in sending or receiving data needed for VA agents to answer submitter questions for form and dashboard
@@ -74,7 +76,7 @@ Note: The satisfaction and experience metrics are different. The satisfaction ra
 View more details in the [Ask VA KPIs doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/KPIs.md)
 
 ### Business KPIs
-The Ask VA CRM business team tracks business KPIs, which include metrics like: average resolution time (days to solve), number of authenticated submitters, submissions by category, and more. Learn more in [the AVA Power BI report](https://app.powerbigov.us/groups/me/reports/e895dbed-17f3-45d1-8219-2b3fe27b8b7e?ctid=e95f1b23-abaf-45ee-821d-b7ab251ab3bf&pbi_source=linkShare&bookmarkGuid=72bfed1d-0745-4452-a5e8-6a36551cb166). You'll have to request permission to view the report.
+The Ask VA CRM business team tracks business KPIs, which include metrics like: average resolution time (days to solve), number of authenticated submitters, submissions by category, and more. Learn more in [the AVA Power BI report](https://app.powerbigov.us/groups/me/reports/e895dbed-17f3-45d1-8219-2b3fe27b8b7e?ctid=e95f1b23-abaf-45ee-821d-b7ab251ab3bf&pbi_source=linkShare&bookmarkGuid=72bfed1d-0745-4452-a5e8-6a36551cb166). Request accesss to view the report.
 
 ## Team and VA partners
 ### Team
