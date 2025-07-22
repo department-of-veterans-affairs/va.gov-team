@@ -14,7 +14,7 @@ These KPIs help us understand how Ask VA is meeting expected submitter outcomes 
 ## Monthly metrics
 **Notes**
 - We launched Ask VA on VA.gov on 5/21/25. 
-- Learn more about our CRM endpoints for the Performance KPIs [in this doc](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/integration/crm_api#ask-va-crm-api-endpoints).
+- Learn more about our CRM endpoints [in this doc](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/integration/crm_api#ask-va-crm-api-endpoints).
 - This only includes a few primary CRM endpoints
 - Number in parenthesis represent the total (AKA the denominator for a percentage)
 
@@ -25,8 +25,8 @@ These KPIs help us understand how Ask VA is meeting expected submitter outcomes 
 |[Performance] Error rate, Reply|0.2% (2462)|0.1% (6827)|0.3% (4460)|
 |[Performance] AVG p95 Latency, Submit inquiry (auth)|6.1s|5.8s|7.5s|
 |[Performance] AVG p95 Latency, Submit inquiry (unauth)|2.0s|1.7s|1.6s|
-|[Performance] AVG p95 Latency, Reply|3.1s|3.6s|3.4s|
-|[Performance] Throughput, Submit inquiry (auth + unauth)|17098|44091|32313|
+|[Performance] AVG p95 Latency, Submit Reply|3.1s|3.6s|3.4s|
+|[Performance] Throughput, Successful Submit inquiry (auth + unauth) calls|14744|43887|32298|
 |[Form/Dashboard] Satisfaction (Intercept)|13% (24)|31% (62)|39% (28)|
 |[Form/Dashboard] Satisfaction (Feedback button)|10% (80)|11% (200)|13% (105)|
 |[Form] Completion rate|x|x|x|
