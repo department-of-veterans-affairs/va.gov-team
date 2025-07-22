@@ -168,6 +168,8 @@ _(no payment option)_ ❌ 💵 ❌
     * What sort of info or guidance might you look for?
     * Is it clear when you would need to start anything?
     * What are your thoughts on opening new windows for the information?
+* Let’s pretend you see an error – [point to a specific overpayment] one of the debts you believe is wrong - you should not owe that. What would you do?
+    * What sort of info or guidance might you look for?
 * Were you aware of these options for financial help? If so, how did you learn?
 * What else would you want to do here with regards to your debt?
     * How would you expect to make payments?
