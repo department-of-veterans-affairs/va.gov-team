@@ -34,7 +34,7 @@ Other asynchronous agent support
 Other live agent support
 - [Veterans Crisis Line](https://www.veteranscrisisline.net/get-help-now/chat/) (live agent chat)
 - [Women Veterans Call Center](https://www.womenshealth.va.gov/wvcc.asp) (live agent chat)
-- [VA Health Chat](https://mobile.va.gov/app/va-health-chat)
+- [VA Health Chat](https://mobile.va.gov/app/va-health-chat) (live agent chat)
 
 ## VA self-service
 **Self-service**: I can find solutions independently through resources provided by VA.
