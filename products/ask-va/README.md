@@ -22,7 +22,7 @@ You can reach Ask VA at [va.gov/contact-us/ask-va](https://va.gov/contact-us/ask
 |Product owner (VES)|Natalie Morales|
 |Product owner (VEO)|Jaime Rocha and Kathleen Reavy|
 
-### Previous teammates
+### Former teammates
 |Role|Assigned|Contact|
 |:---|:---|:---|
 |Data engineer|Jacob Cheriathundam|jacob@docme360.com|
