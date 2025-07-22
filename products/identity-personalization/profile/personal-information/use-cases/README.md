@@ -62,7 +62,7 @@
 - **Use case:** Shows while the users information is in the process of being saved. Field value and buttons are hidden since there is an action in progress, and we’re waiting for a response to display the correct field value.
 - **Status code:** None
 - **Format:** [Loading indicator in button](https://design.va.gov/components/loading-indicator)
-- REFERENCE [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=890-6189&t=5dhgHTuWdYUMln4l-1)
+- [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=950-7612&t=IxDeELaasWg4dcVS-1)
 - **Content:** See designs
 
 </details>
