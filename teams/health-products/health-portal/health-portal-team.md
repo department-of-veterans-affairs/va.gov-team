@@ -1,5 +1,5 @@
 # OCTO Health Portal Team
-Updated 7/10/2025
+Updated 7/22/2025
 
 ## Table of Contents
 - [Welcome](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/health-portal-team.md#welcome)
