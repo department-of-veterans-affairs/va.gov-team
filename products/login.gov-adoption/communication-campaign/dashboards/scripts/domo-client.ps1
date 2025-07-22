@@ -1,5 +1,5 @@
 ﻿# example
-# pwsh domo-client.ps1 "..\1 extracted\Domo Data\MHV Users with Modern Creds" "mhv-01272025" "68c58f8f-dc38-4634-a3de-41b70991821c"
+# pwsh domo-client.ps1 "..\1 extracted\Domo Data\MHV Users with Modern Creds" "mhv-01272025" "216d211d-d5b3-439a-8d25-b4ddad182b7e"
 
 
 $outputPath = $args[0]
