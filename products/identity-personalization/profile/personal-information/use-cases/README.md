@@ -85,8 +85,18 @@
    - Messages signature can be removed by clicking the remove button, which will trigger a modal prompting the user to confirm they want to remove their information.
 - **Status code:** None
 - **Format:** [Warning modal](https://design.va.gov/components/modal/#warning)
-- UNABLE TO TRIGGER [N/A]
-- **Content:** TBD
+- [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=960-8794&t=IxDeELaasWg4dcVS-1)
+- **Content:**
+
+Header: Remove signature?
+
+Your signature will no longer appear on outgoing secure messages.
+
+You can always come back to your profile later if you want to add this signature again.
+
+Primary button: Yes, remove my signature
+
+Secondary button: No, cancel this change
 
 </details>
 
@@ -133,7 +143,18 @@ Primary button: OK
 There are no validation use cases for this feature.
 
 ### Flags
-There are no flags for this feature.
+
+<details><summary>User has no VA health care</summary>
+
+- **Use case:** When a user does not have VA health care the messages signature section does not show.
+- **Status code:** None
+- **Format:** See designs
+- [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=926-11992&t=IxDeELaasWg4dcVS-1)
+- **Content:** See designs
+
+</details>
+
+
 
 ### Errors
 
@@ -142,7 +163,7 @@ There are no flags for this feature.
 - **Use case:** Backend system that controls the personal information page is down.
 - **Status code:** None
 - **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
-- REFERENCE [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3147-17046&t=GHty9iyEI8JuwTB9-1)
+- [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=961-10018&t=IxDeELaasWg4dcVS-1)
 - **Content:**
 
 H2: This page isn't available right now
