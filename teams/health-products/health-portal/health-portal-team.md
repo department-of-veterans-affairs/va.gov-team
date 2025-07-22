@@ -145,12 +145,12 @@ Crew chief: Chante Lantos-Swett
 -	VSP Identity (Samara Strauss)
 
 ### Mobile Experience
-Product: Ryan Thurwell
-Mobile Platform: 
-Related: Office of Connected Care (OCC) has a portfolio of ~70 mobile apps (1/2 of these are for Veterans). 
+- Product: Ryan Thurwell
+- Mobile Platform: 
+- Related: Office of Connected Care (OCC) has a portfolio of ~70 mobile apps (1/2 of these are for Veterans). 
 
-### Health
--	VAOS (Kay Lawyer, OCTO)
+### Health Portfolio **WIP - BEING UPDATED**
+-	VA.gov appointments (Kay Lawyer, OCTO)
 -	Unified appointment experience (Mark Dewey, Patrick Bateman, Kay Lawyer) 
 -	Check In, including pre-check-in (Patrick Bateman)
 -	Beneficiary Travel (Mark Dewey)
@@ -164,14 +164,14 @@ Related: Office of Connected Care (OCC) has a portfolio of ~70 mobile apps (1/2 
 - Debt Resolution (Denise Coveyduc)
 - PACT Act (Zach Goldfine, Danielle Thierry)
 
-### Sitewide Crew
+### Sitewide Crew **WIP - BEING UPDATED**
 Crew chief: Dave Conlon
 -	Health Care benefit hub (Danielle Thierry - content strategist and plain language writer who manages all health care content)
 -	Sitewide navigation and IA (Mikki Northuis, information architect)
 -	Facilities (Dave Conlon, Michelle Middaugh)
 -	Laura Willwerth (content)
 
-### OCC Stakeholders
+### OCC Stakeholders **WIP - BEING UPDATED**
 **Federal employees**
 -	Head of OCC and Acting Dept. of Veterans Affairs CIO: Dr. Neil Evans
 -	Executive Director of Connected Care: 
