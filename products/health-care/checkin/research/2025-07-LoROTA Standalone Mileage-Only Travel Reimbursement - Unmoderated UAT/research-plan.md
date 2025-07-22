@@ -13,7 +13,7 @@
 
 `What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?`
 
-**[Need to add here]**
+**[The feature we are testing is a a new iteration of the travel pay flow that will be the travel pay feature at OH faciltiies. Veterans who have sued check-in, pre-check-in, or travel pay prior should have a general level of familarity with this application and user flow.]**
 
 `Product Brief`
 
@@ -81,7 +81,21 @@ Are there moments that matter?</summary>
 ### Hypotheses
 ---
 
-**[We believe that Veterans will have learned about this updated method for filing a travel reimbursement claim through posters at the clinic. We anticipate that Veterans will be satisfied with this updated method for filing a claim and While initial adoption may provide a challenge, once Veterans use this application they will be very likely to use this tool in the future.]** 
+**[
+- How do Veterans find out about filing a travel reimbursement claim by texting travel to 54804?
+	- Most Veterans will find out through a poster at the clinic or through an online resource.
+- How confident do Veterans feel that their travel reimbursement claim was filed?
+	 - Veterans will feel confident that their travel reimbursement claim was filed.
+- How easy or difficult is it for Veterans to file a travel reimbursement claim?
+	 - Veterans will find it extremely easy to file a claim from their smartphones.
+- Do Veterans understand what happens next in the reimbursement process? 
+	 - Veterans will understand what comes next in the travel reimbursement process; their claim will be processed/reviewed and they'll be alerted to their claim's status via other tools. 
+- How satisfied are Veterans with the experience of initiating and filing a claim?
+	 - Veterans will be satisfied with the experience of using the LoROTA standalone mileage-only travel reimbursement application.
+- How likely are Veterans to use this tool to file for travel reimbursement in the future?
+	- While initial adoption may provide a challenge, once Veterans use this application they will be very likely to use this tool in the future.
+- Do Veterans have any open ended feedback related to signing in and/or filing a claim? 
+	- Veterans will occasionally provide open ended feedback related to signing in and/or filing a claim.]** 
 
 ---
 
