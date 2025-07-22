@@ -1,4 +1,4 @@
-# My HealtheVet - Orientation Checklist for [NAME]
+# My HealtheVet - Orientation Checklist for Sara Sterkenburg
 
 Hi, and welcome to the My HealtheVet portal team.  We're glad you're here!
 
@@ -62,7 +62,7 @@ If you have questions, don't hesitate to reach out to your OCTO practice lead, [
 
 
 - [ ] [Get familiar with some of our terminology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/terminology.md)
-- [ ] Get to know [YOUR PRODUCT]
+- [ ] Learn about our products
    - [ ] [Landing page](products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page) / portal experience
    - [ ] [Medical devices and supplies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-devices-and-supplies/product_brief.md)
    - [ ] [Medical Records](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/README.md)
@@ -79,6 +79,3 @@ If you have questions, don't hesitate to reach out to your OCTO practice lead, [
 - [ ] [Take a look at the VA GitHub Handbook](https://department-of-veterans-affairs.github.io/github-handbook/)  ‼️Note that as of July 2025, [VA has begun the process of migrating VA GitHub resources to GitHub Enterprise Cloud](https://department-of-veterans-affairs.github.io/github-handbook/migrations)
 - [ ] [Check out some helpful info about creating documents in GitHub](https://docs.github.com/en)
 
-## Part 2: Once you have a VA email address and can access the VA Network: 🐣
- - Check out our [#health-portal-onboarding](https://dsva.slack.com/archives/C093QBTQ56W) Slack channel to continue onboarding
-  
