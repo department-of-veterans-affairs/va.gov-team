@@ -1,7 +1,7 @@
 
 ## DSL account update - email tracking
 
-BLUF - although there was some fluctuation and a slight increase in some numbers, we didn't see a major anomaly after the email send
+BLUF - although there was some fluctuation and a slight increase in some numbers, we didn't see a major anomaly after the email send on July 7, 2025
 
 | **Week** | May weekly ave | ending June 22 | ending June 29 | ending July 6 | ending July 13 | ending July 20 |
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
