@@ -25,13 +25,13 @@ These KPIs help us understand how Ask VA is meeting expected submitter outcomes 
 |[Performance] Error rate, Reply|0.2% (2462)|0.1% (6827)|0.3% (4460)|
 |[Performance] AVG p95 Latency, Submit inquiry (auth)|6.1s|5.8s|7.5s|
 |[Performance] AVG p95 Latency, Submit inquiry (unauth)|2.0s|1.7s|1.6s|
-|[Performance] AVG p95 Latency, Submit Reply|3.1s|3.6s|3.4s|
+|[Performance] AVG p95 Latency, Submit reply|3.1s|3.6s|3.4s|
 |[Performance] Throughput, Successful Submit inquiry (auth + unauth) calls|14744|43887|32298|
 |[Form/Dashboard] Satisfaction (Intercept)|13% (24)|31% (62)|39% (28)|
 |[Form/Dashboard] Satisfaction (Feedback button)|10% (80)|11% (200)|13% (105)|
-|[Form] Completion rate|x|x|x|
+|[Form] Completion rate|36%|39%|35%|
 |[Form] Time to submit form|x|x|x|
-|[Dashboard] Reply rate|x|x|x|
+|[Dashboard] Reply rate|21%|23%|19%|
 |[Dashboard] Time to reply|x|x|x|
 
 ## User experience KPIs
@@ -87,11 +87,25 @@ This includes metrics like: average resolution time (days to solve), number of a
 This section explains how we calculate each KPI. 
 
 ### User experience KPIs
+- **Satisfaction (intercept and feedback button)**:((Count of "Satisfied" responses `plus` Count of "Very satisfied" responses) `divided by` Count of total responses) `multiplied by` 100
+- **[Form] Completion rate**: Count of successful Submit inquiry (auth + unauth) calls `divided by` Count of total users who visited /contact-us/ask-va/introduction & /contact-us/ask-va/ `multiplied by` 100
+- **[Dashboard] Reply rate**: Count of successful Reply calls `divided by` Count of total users who visited /contact-us/ask-va/user/dashboard/[inquiry number] `multiplied by` 100
 
+### Performance KPIs
 **How to calculate**
-- **Form completion rate**: Count of successful Submit inquiry (auth + unauth) calls `divided by` Count of total users who visited /contact-us/ask-va/introduction & /contact-us/ask-va/ `multiplied by` 100
-- **Dashboard completion rate**: Count of successful Reply calls `divided by` Count of total users who visited /contact-us/ask-va/user/dashboard/[inquiry number] `multiplied by` 100
+- **Error rate, Submit inquiry (auth)**: Count of 4xx and 5xx errors DIVIDED BY total number of requests
+   - Filter: `payload.action` is create
+- **Error rate, Submit inquiry (unauth)**: Count of 4xx and 5xx errors DIVIDED BY total number of requests
+   - Filter: `payload.action` unauth_create
+ - **Error Rate: Error rate, Reply**: Count of 4xx and 5xx errors DIVIDED BY total number of requests
+   - Filter: `payload.action` is create_reply
+- **AVG p95 Latency, Submit inquiry (auth)**: View Latency visual [in our Datadog dashboard](https://vagov.ddog-gov.com/dashboard/ye3-k3q-unc/ask-va-dashboard?fromUser=true&graphType=flamegraph&refresh_mode=paused&sort=time&from_ts=1751353200000&to_ts=1753216133319&live=false)
+- **AVG p95 Latency, Submit inquiry (unauth)**: View Latency visual [in our Datadog dashboard](https://vagov.ddog-gov.com/dashboard/ye3-k3q-unc/ask-va-dashboard?fromUser=true&graphType=flamegraph&refresh_mode=paused&sort=time&from_ts=1751353200000&to_ts=1753216133319&live=false)
+- **AVG p95 Latency, Submit reply**: View Latency visual [in our Datadog dashboard](https://vagov.ddog-gov.com/dashboard/ye3-k3q-unc/ask-va-dashboard?fromUser=true&graphType=flamegraph&refresh_mode=paused&sort=time&from_ts=1751353200000&to_ts=1753216133319&live=false)
+- **Throughput, Successful Submit inquiry (auth + unauth) calls**: Count of 2xx requests
+   - Filter: `payload.action` is unauth_create OR create
 
 **Data sources**
 - [GA4 exploration](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/hQrn2ZlVRFGs0p-tT9Mgwg)
 - [Datadog dashboard](https://vagov.ddog-gov.com/dashboard/ye3-k3q-unc/ask-va-dashboard?fromUser=true&graphType=flamegraph&refresh_mode=paused&sort=time&from_ts=1751353200000&to_ts=1753209203948&live=false)
+- Medallia/VSignals feedback (DM Becky for access)
