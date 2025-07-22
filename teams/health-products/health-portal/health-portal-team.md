@@ -29,6 +29,28 @@ The My HealtheVet on VA.gov team’s mission is to simplify Veterans’ health e
 
 ## Product Team Members
 
+<details>
+<summary>Forthcoming roles joining the team</summary>
+
+|Name|Role|Primary Email|VA Email|DSVA Slack|GitHub|
+|------|----|-----|-----|--------|------|
+| Liz Townsend | Mobile Engineer | liz.townsend@adhocteam.us | elizabeth.townsend4@va.gov | [@Liz Townsend](https://dsva.slack.com/team/U06059URY69) | [liztownd](https://github.com/liztownd) |
+| starting 7/28 | Frontend Engineer | TBD | TBD | TBD | TBD |
+| starting 7/28 | Fullstack Engineer | TBD | TBD | TBD | TBD |
+| starting 7/28 | QA Engineer/Customer Support | TBD | TBD | TBD | TBD |
+| starting 7/28 | Designer | TBD | TBD | TBD | TBD |
+| starting 8/4 | Fullstack Engineer | TBD | TBD | TBD | TBD |
+| starting 8/4 | Fullstack Engineer | TBD | TBD | TBD | TBD |
+| TBD | Frontend Engineer | TBD | TBD | TBD | TBD |
+| TBD | Frontend Engineer | TBD | TBD | TBD | TBD |
+| TBD | QA Engineer | TBD | TBD | TBD | TBD |
+| TBD | Mobile Engineer | TBD | TBD | TBD | TBD |
+| TBD | Designer | TBD | TBD | TBD | TBD |
+| TBD | Researcher/Information Architect | TBD | TBD | TBD | TBD |
+
+</details>
+
+
 ### Portal-wide Experience
 - Slack channel: [#mhv-on-vagov-cartography-team](https://dsva.slack.com/archives/C0581MN69TJ)
 
