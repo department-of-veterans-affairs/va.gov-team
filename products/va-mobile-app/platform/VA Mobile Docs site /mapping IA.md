@@ -8,7 +8,7 @@
 |Contributing | Getting started, Contributing |
 |Product|X Remove|
 |Engineering|Development guide|
-|Engineering, How we work|Development Guide, Dev Ops, How we work|
+|Engineering, How we work|Getting started, Contributing, Best practices, Engineers|
 |Engineering, Back end|Development guide, Back end|
 |Engineering, Back end, API|Development guide, Back end API|
 |Engineering, Back end, Architecture|Development guide, Back end, Architecture|
@@ -89,16 +89,16 @@
 |UX, Foundations, Information Architecture|Development guide, Design, Information architecture|
 |UX, Foundations, Research|Development guide, Design, Research|
 |UX, Foundations, Research, App Store Reviews|Getting started, Metrics, Monthly app store reviews|
-|UX, How we work|Development guide, Design, How we work|
-|UX, How we work, Where we work|Development guide, Design, How we work, Tools|
-|UX, How we work, Working with others|Development guide, Design, How we work, Collaboration|
-|UX, How we work, Designing the UI|Development guide, Design, How we work, Best practices|
-|UX, How we work, Design librarian|Development guide, Design, How we work, governance|
-|UX, How we work, Branching in Figma|Development guide, Design, How we work, Figma, Branching|
-|UX, How we work, Building screens in Figma|Development guide, Design, How we work, Figma, Building screens|
-|UX, How we work, Creating components in Figma|Development guide, Design, How we work, Figma, Components|
-|UX, How we work, Permissions and sharing in Figma|Development guide, Design, How we work, Figma, Permissions and sharing|
-|UX, How we work, UX Resources|Development guide, Design, How we work, Figma|
+|UX, How we work|Getting started, Contributing, Best practices, Designers|
+|UX, How we work, Where we work|Getting started, Contributing, Best practices, Designers, Tools|
+|UX, How we work, Working with others|Getting started, Contributing, Best practices, Designers, Collaboration|
+|UX, How we work, Designing the UI|Getting started, Contributing, Best practices, Designers, General|
+|UX, How we work, Design librarian|Getting started, Contributing, Best practices, Designers, governance|
+|UX, How we work, Branching in Figma|Getting started, Contributing, Best practices, Designers, Figma, Branching|
+|UX, How we work, Building screens in Figma|Getting started, Contributing, Best practices, Designers, Figma, Building screens|
+|UX, How we work, Creating components in Figma|Getting started, Contributing, Best practices, Designers, Figma, Components|
+|UX, How we work, Permissions and sharing in Figma|Getting started, Contributing, Best practices, Designers, Figma, Permissions and sharing|
+|UX, How we work, UX Resources|Getting started, Contributing, Best practices, Designers, Figma|
 |UX, Resources|Development guide, Design, Resources|
 |QA|X Remove|
 |QA, How we work|Development guide, Quality assurance|
