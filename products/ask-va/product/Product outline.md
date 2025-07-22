@@ -81,21 +81,8 @@ View more details in the [Ask VA KPIs doc](https://github.com/department-of-vete
 The Ask VA CRM business team tracks business KPIs, which include metrics like: average resolution time (days to solve), number of authenticated submitters, submissions by category, and more. Learn more in [the AVA Power BI report](https://app.powerbigov.us/groups/me/reports/e895dbed-17f3-45d1-8219-2b3fe27b8b7e?ctid=e95f1b23-abaf-45ee-821d-b7ab251ab3bf&pbi_source=linkShare&bookmarkGuid=72bfed1d-0745-4452-a5e8-6a36551cb166). You'll have to request permission to view the report.
 
 ## Team and VA partners
-### Our team
-|Role|Assigned|Contact|
-|:---|:---|:---|
-|Product owner (OCTO), Designer|Becky Phung||
-|Product owner (VES)|Natalie Morales||
-|Product owner (VES)|Preetika Celmer||
-|Program manager|Megan Siddle|megan.siddle@oddball.io|
-|Product manager|Ariel Martinez|ariel.martinez@thoughtworks.com|
-|Lead engineer|Joseph Hall|joe.hall@thoughtworks.com|
-|Frontend engineer|Eddie Otero|eddie.otero@oddball.io|
-|Frontend engineer|Hemesh Patel|hemesh.patel@docme360.com|
-|Backend engineer|Khoa Nguyen|khoa.nguyen@oddball.io|
-|Data engineer (part-time)|Jacob Cheriathundam|jacob@docme360.com|
-|UX designer|Thomas Michaud|thomas.michaud@oddball.io|
-|UX researcher & designer|Tyler Gindraux|tyler@bluetiger.digital|
+### Team
+View our team [in this doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/README.md#our-team).
 
 ### VA partners
 We closely work with the Ask VA CRM development team. Learn more about our partnership [in this Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696976895933/4f5410b3e8770441f4101cbabd565aa0cd13dac7).
