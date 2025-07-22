@@ -97,7 +97,7 @@
 	- If the field is correctly and completely filled out, or they hit cancel a second time, they'll see a modal warning message asking to confirm if they want to leave edit mode.
 - **Status code:** None
 - **Format:** [Warning modal](https://design.va.gov/components/modal/#warning)
-- REFERENCE [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=931-9209&t=XpeLUcvcZmicphy6-1)
+- [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=931-9209&t=IxDeELaasWg4dcVS-1)
 - **Content:**
 
 Header: Cancel changes?
@@ -116,10 +116,10 @@ Secondary button: No, go back to editing
 - **Use case:** If a user attempts to edit a different data point on the page, a modal will trigger informing them they have to complete their action first before starting a new one.
 - **Status code:** None
 - **Format:** [Warning modal](https://design.va.gov/components/modal/#warning)
-- REFERENCE [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=931-9449&t=XpeLUcvcZmicphy6-1)
+- [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=931-9449&t=IxDeELaasWg4dcVS-1)
 - **Content:**
 
-Header: Save or cancel your edits to your messages signature
+Header: Save or cancel your edits to [H3 section header]
 
 Before you can edit a new section of your profile, you need to save or cancel your edits to your [H3 section header]. If you cancel, we won't save your in-progress edits.
 
