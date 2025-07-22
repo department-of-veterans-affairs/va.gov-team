@@ -95,7 +95,6 @@ This section explains how we calculate each KPI.
 - **[Dashboard] Reply rate**: Count of successful Reply calls `divided by` Count of total users who visited /contact-us/ask-va/user/dashboard/[inquiry number] `multiplied by` 100
 
 ### Performance KPIs
-**How to calculate**
 - **Error rate, Submit inquiry (auth)**: Count of 4xx and 5xx errors DIVIDED BY total number of requests
    - Filter: `payload.action` is create
 - **Error rate, Submit inquiry (unauth)**: Count of 4xx and 5xx errors DIVIDED BY total number of requests
