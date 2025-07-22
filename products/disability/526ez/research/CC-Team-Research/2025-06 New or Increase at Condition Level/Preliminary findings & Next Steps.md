@@ -158,3 +158,7 @@ While most participants were able to make a selection, several had to think abou
 * For now, we’ll stay with the question because it’s consistent with design guidelines.  
 * Will look into this  with larger Disabilities design team in the future
 
+## Related links
+- [Synthesis Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1750211051134/251eaeb0b85999baff87a32f57458bb38ef12a08?sender=u4d4e38d44ebf2ff814f27828)
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2025-06%20New%20or%20Increase%20at%20Condition%20Level/Research%20Plan%20-%202025-06%20New%20or%20Increase%20at%20Condition%20Level.md)
+- [Research notes & recordings](https://dvagov.sharepoint.com/:f:/s/vaabdvro/EjQYUkn11tpImChEXdN4ZucBrfefe_mu1h78BRkZXJGx2Q?e=HgX2SU)
