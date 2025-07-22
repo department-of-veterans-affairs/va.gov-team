@@ -58,7 +58,7 @@ Are there moments that matter?</summary>
 
 ### Goals
 
-1. Gauge the usability of the updated initial claim submission and resubmission flows, as measured by observed task success and self-reported usability measures.
+1. Gauge the usability of the updated initial claim submission and resubmission flows, as measured by observed task success and self-reported ease-of-use prompts.
 
 2. Confirm users' understanding of the resubmission process as presented in the content of the 10-7959a, their expectations for what will be required and their responsibilities for providing accurate supporting documentation.
 
@@ -72,7 +72,7 @@ We will synthesize the data from this study and create a summary report of our l
 
 ### Research questions
 
-**Goal 1: Gauge the usability of the updated initial claim submission and resubmission flows, as measured by observed task success and self-reported usability measures.**
+**Goal 1: Gauge the usability of the updated initial claim submission and resubmission flows, as measured by observed task success and self-reported ease-of-use prompts.**
 1. Are users able to successfully submit an initial claim and resubmit a claim that requires additional documentation?
 2. Do users know where to file a claim resubmission within the digital form?
 3. Do users understand what to do when presented with a claims sendback letter or EOB indicated the claim was denied?
@@ -87,26 +87,28 @@ We will synthesize the data from this study and create a summary report of our l
 1. Do users expect any form of digital verification to happen when they upload a document?
 2. Do users expect to be told if uploaded documents are incorrect or do they expect to wait until their claim is reviewed to receive feedback?
 3. How do users respond to an error indicating information is missing from a document they uploaded?
+4. Are users comfortable with the amount of time file verification takes?
 
 
 ### Hypotheses
 
 ---
 
-**Goal 1: Gauge the usability of the updated initial claim submission and resubmission flows, as measured by observed task success and self-reported usability measures.**
+**Goal 1: Gauge the usability of the updated initial claim submission and resubmission flows, as measured by observed task success and self-reported usability prompts.**
  - Users will understand they need to return to the digital form to resubmit a claim.
  - Users will understand that the information required to resubmit the claim can be found in the claim letter.
 
 **Goal 2: Confirm users' understanding of the resubmission process as presented in the content of the 10-7959a, their expectations for what will be required and their responsibilities for providing accurate supporting documentation.**
 
  - Users will question the need to re-enter beneficiary and/or sponsor information when resubmitting the claim.
- - Users understand the types of documents needed.
+ - Users understand the types of documents needed for resubmission.
  - Users will not understand the specific information needed on each document without prompting.
 
 **Goal 3: Understand users’ expectations for file verification when submitting documentation for a CHAMPVA claim.**
  - Users will prefer the document verification compared to a non-OCR file upload.
  - Users will not question how we're verifying the information (what we're using to scan).
  - Users may be confused about how to resolve the error messages they see or how to bypass an error.
+ - Users will understand that file verification takes time and will be willing to wait until verification is completed.
 
 ---
   
