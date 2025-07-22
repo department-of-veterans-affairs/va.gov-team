@@ -277,7 +277,7 @@ We would like to have an AT user pilot, and 2 non-AT user pilot (1 screen reader
 - `Date and time of pilot session:` 
 
 ### Research sessions
-- `Planned dates of research:` **Monday, July 28 - Tuesday, August 12**
+- `Planned dates of research:` **Wednesday, Aug 6 - Tuesday, August 26**
 
 ### Length of sessions
 - `Session length:` 60 minutes for non-AT users, 90 minutes for AT users
