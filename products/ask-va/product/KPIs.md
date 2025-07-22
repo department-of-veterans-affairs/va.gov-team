@@ -1,5 +1,5 @@
-<img width="895" height="511" alt="image" src="https://github.com/user-attachments/assets/0a5de22b-1151-44b9-943d-33fe127be039" /># Ask VA KPIs
-Last updated by @beckyphung on April 10, 2025
+# Ask VA KPIs
+Last updated by @beckyphung on July 22, 2025
 
 These KPIs help us understand how Ask VA is meeting expected submitter outcomes and operational performance of our Ask VA application. We'll benchmark our KPIs against VA.gov metrics.
 
