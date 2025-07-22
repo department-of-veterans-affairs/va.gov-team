@@ -38,7 +38,7 @@
 - **Use case:** For each section without information on file, i.e. a `null` value, the user will see the name of the section and prompt to edit their profile to add [section information]. Clicking the Edit button will put the section into an inline edit mode.
 - **Status code:** None
 - **Format:** See designs
-- REFERENCE [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=926-11992&t=XpeLUcvcZmicphy6-1)
+- [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=929-10407&t=IxDeELaasWg4dcVS-1)
 - **Content:** See designs
 
 </details>
@@ -49,9 +49,9 @@
 - **Use case:** Clicking the Edit button will put the section into edit mode and reveal the editable fields inline. If there are input errors they show inline with the input field.
 - **Status code:** None
 - **Format:** See designs
-- REFERENCE Links to designs
-   - [Preferred name](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=927-7211&t=XpeLUcvcZmicphy6-1)
-   - [Messages signature](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=930-4389&t=XpeLUcvcZmicphy6-1)
+- Links to designs
+   - [Preferred name](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=927-7211&t=IxDeELaasWg4dcVS-1)
+   - [Messages signature](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=930-4389&t=IxDeELaasWg4dcVS-1)
 - **Content:** See designs
 
 </details>
