@@ -1,10 +1,10 @@
-# [Study] Research Findings 
+# 10-10D/10-7959c Merge Usability Research Findings 
 
 **Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
 
 **Date:** MM/DD/YYYY
 
-**Contacts:** [Researcher/Designer 1], [Researcher/Designer 2]
+**Contacts:** Renata Keck, [Researcher/Designer 2]
 
 **[Link to Research Readout](link-here)**  
 *Add a link to your research readout deck, if available.*
@@ -22,35 +22,42 @@
 
 
 ## Research Goals
-*Provide context for this research by explaining how it fits into the Veteran’s journey.*  
-[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)  
+Applicants seeking CHAMPVA benefits must complete and submit VA Form 10-10d for benefits enrollment and VA Form 10-7959c for Other Health Insurance (OHI) certification separately. To enhance user experience and streamline operations, we propose merging these two forms into a single, cohesive digital application process.​
+
+Applicants are required to submit VA Form 10-10d and VA Form 10-7959c separately, leading to potential redundancy and increased processing times. This dual-submission process can be burdensome for users and may delay the overall application process. Our goal is to merge the submission processes to reduce the load on both the time it takes a veteran to submit, and the time it takes the approval team to process and approve applications.
+
+1. Understand whether the placement of the 10-7959c within the 10-10D application for CHAMPVA benefits works better than the standalone forms, as it relates to form submission and time on task.
+
+2. Understand if the placement of the 10-7959c within the 10-10D form works better for users, specifically as it relates to providing all necessary and required supporting evidence.
+
+3. Get user feedback on the [V3 file upload component](https://design.va.gov/storybook/?path=/docs/uswds-va-file-input--docs#upload-status).
 
 **Guiding Questions:**  
-- What are the key moments this tool supports in the Veteran’s journey?  
-- What outcomes are we aiming to achieve for Veterans and stakeholders?  
-
-[Example Research Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-goals) 
-
+- How might we simplify the CHAMPVA application and OHI supporting docs process to allow applicants to submit both benefits enrollment and OHI certification seamlessly in a single digital experience?
+- How can we reduce processing times by merging the CHAMPVA and OHI forms?
 
 
 ## Research Questions
 
-*List the research questions that guided this study.*  
+**Goal 1: Understand whether the placement of the 10-7959c within the 10-10D application for CHAMPVA benefits works better than the standalone forms, as it relates to form submission and time on task.**
+1. How well are users able to orient into and out of the ancillary 10-7959c within the 10-10D?
+2. Does content on transitional pages between the 10-10D and 10-7959c provide sufficient context about the purpose of the 10-7959c?
+3. Is the slim header/footer sufficient context for users knowing where they are within the 10-10D or 10-7959c?
 
-* Question 1
-* Question 2
-* Question 3
+**Goal 2: Understand if the placement of the 10-7959c within the 10-10D form works better for users, specifically as it relates to providing all necessary and required supporting evidence.**
+1. Will users be confused by what supporting evidence is required for the 10-10D and 10-7959c?
+2. Will users prefer to upload documents mid-flow?
+3. Are the examples and content around what evidence to prepare and provide on the forms clear?
 
-[Example Research Questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-questions)
+**Goal 3: Get user feedback on the [V3 file upload component](https://design.va.gov/storybook/?path=/docs/uswds-va-file-input--docs#upload-status).**
+1. Does the v3 file upload component help users to successfully upload front/back views of their Medicare and Private Health Insurance cards?
+2. Do users want any additional confirmation around uploading files?
 
 ## Methodology 
 
-*Provide a brief description of the research methods used (e.g., usability testing, interviews).*  
+We conducted 1-hour remote moderated research sessions from **June 30, 2025-July 18, 2025.** These sessions included a semi-structured interview as well as a combined usability/content comprehension test protocol to gauge users' understanding of the CHAMPVA application process, the supporting documentation required to complete the application, and whether the merged 10-10D/10-7959c forms worked well for users over the alternative of submitting the forms separately. 
 
-- Method 1: Description  
-- Method 2: Description  
-
-[Example Methodology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#methodology)
+Each participant saw the introduction page to the 10-10D/10-7959c forms, completed all 10-10D and 10-7959c questions, and uploaded any documentation required through branching logic associated with their responses. All participants also saw the review page, and discussed their expectations around the submission and application decision process. 
 
 
 ## Hypotheses and Conclusions
@@ -65,6 +72,23 @@
   - Supporting evidence  
 
 [Example Hypotheses and Conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)
+
+1. When filling out the merged 10-10D/10-7959c, users will have faster completion times when compared to cumulative completion times from the standalone 10-10D and 10-7959c.
+
+2. Users will be able to easily orient themselves around the transition between the 10-10D and 10-7959c.
+
+3. Users will prefer to complete the 10-7959c as part of their CHAMPVA application, as opposed to a separate, standalone form.
+
+4. New instructions, examples, and directions for uploading necessary and required supporting evidence will provide relevant assistance as the user navigates the forms.
+
+5. Veterans will understand that there is separate upload sections for applicant information and OHI, and avoid duplicate uploads/entries.
+
+6. The v3 file upload component will provide visual validation of complex file uploads, like front/back of Medicare and Private Health Insurance cards
+  i. NOT ENOUGH INFORMATION: We were unable to implement the v3 upload component in time for testing   
+
+7. The v3 component will help users identify if they have provided all necessary evidence before submitting.
+  i. NOT ENOUGH INFORMATION: See above.
+
 
 
 ## Key Findings
@@ -158,22 +182,24 @@ Brief description
 
 
 ## Appendix
-[Product Outline](link here)
+[Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/10-10D-OHI-Merge-Product-Outline.md)
 
-[Research plan](link here)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/research/users/2025-05-1010D-OHI-merge-usability/Research-plan.md)
 
-[Conversation guide](link here)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/research/users/2025-05-1010D-OHI-merge-usability/Conversation-guide.md)
 
-[Interview transcripts](link here)
+[Transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/champva/1010D/research/users/2025-05-1010D-OHI-merge-usability/transcripts)
 
 
 ## Tools used for Synthesis
 
 *List tools or techniques used, e.g., Mural, affinity mapping.*  
+- [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1750264395515/2f3e86214b70c294fb7e4c8abec93c83f80f3de5) 
   
 ## Pages and applications used
 
-*Link to prototypes or pages tested during the study.*  
+- [Staging environment](https://staging.va.gov/ivc-champva/10-10d-extended/)
+- [Figma mocks]
 
 
 ## Other supporting documents created
@@ -193,55 +219,42 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 _If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
 
-We talked to **x participants.**
+We talked to **18 participants.**
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
+* Veterans:  14
+* Family members of a Veteran: 4  
 
 
 Gender:
-* Male: x 
-* Female: x 
-
-
-LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
+* Male: 12 
+* Female: 6 
 
 
 Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
+* Desktop: 12 
+* Tablet: 1 
+* Smart phone: 5 
+* Assistive Technology: 5
 
 
 Age:
 * 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
+* 35-44: 1
+* 45-54: 4
+* 55-64: 5 
+* 65+: 8
 * Unknown: x
 
 
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
+* High school degree or equivalent: 3
+* Some college (no degree): 4
+* Associate's degree, trade certificate or vocational training: 3
+* Bachelor's degree: 4
+* Master's degree: 3
 * Doctorate degree: x
-* Unknown: x
-
-
-Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
+* Unknown: 3
 
 
 Race:
