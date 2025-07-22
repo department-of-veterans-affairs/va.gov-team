@@ -24,7 +24,7 @@ If you have questions, don't hesitate to reach out to your OCTO practice lead, [
    - [ ] [Medical devices and supplies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-devices-and-supplies/product_brief.md)
    - [ ] [Medical Records](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/README.md)
    - [ ] [Medications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/README.md)
-   - [ ] [Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging)
+   - [ ] [Messages](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging)
 - [ ] [Peruse the VA Platform Website](https://depo-platform-documentation.scrollhelp.site/)
     - [ ] [Getting Started](https://depo-platform-documentation.scrollhelp.site/getting-started/)
     - [ ] [Developer docs](https://depo-platform-documentation.scrollhelp.site/developer-docs/)
