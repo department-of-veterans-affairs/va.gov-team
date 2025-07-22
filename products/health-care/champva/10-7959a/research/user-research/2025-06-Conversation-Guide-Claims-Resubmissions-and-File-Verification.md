@@ -163,9 +163,9 @@ Thanks! Now I’m able to see your screen too.</details>
 ## First Task: New Claim - 15-20 minutes
 
 Before you start filling out the form, a few things to be aware of:
- - This is our testing site so you don't have to worry about the information that you enter going anywhere. Nothing you click on in this form will have any bearing on your benefits.
+ - This is our testing site and we won't actually be submitting this form. Nothing you click on in this form will have any bearing on your benefits.
  - As we go through the form today, feel free to use fake information for sensitive questions, such as Social Security Numbers, if you don't want to use your real information.
- - You may be asked to upload some documents; as we're not submitting the form and this isn't attached to VA systems, nothing you upload there will be sent to the VA. Perigean should have provided you with some documents to have prepared. Did you receive those documents?
+ - You may be asked to upload some documents; as we're not submitting the form today, nothing you upload there will be sent to the VA. Perigean should have provided you with some documents to have prepared. Did you receive those documents?
    - [if yes] Great - I'll remind you to use those when we get to a screen that asks for a file upload.
    - [if no] When we get to the screens that ask for a file to upload, I'll provide a sample PDF for you to use.
  - Do you have any questions? [Wait for participant answer.]
@@ -178,8 +178,10 @@ Without clicking on anything. I’d like you to take a look at the information o
    - Do you know what types of claims you can file?
  - What information do you think you’d need in order to fill out this form?
  - Do you have all that information on hand, or would you need to pause to find it if you were really submitting a claim today?
- - Without clicking anything, do you know how to start this form without a VA.gov account? Can you show me?
  - On a scale of 1-5 (with 1 being poorly and 5 being very well) - how prepared do you feel to file a claim based on this page's content? Why did you give it that rating?
+   - [If less than a 5] What would take your rating from [number] to that 5, or very well prepared?
+  
+At this point I am going to have you scroll down the page to the big blue box and click the link that says "start your form without signing in."
 
 > Things to watch for:
 >  - [Does the participant read through the documentation required to submit a claim?]
@@ -197,7 +199,7 @@ Now I'd like you to start the form as if you are submitting a new claim for [you
 
 ### CHAMPVA benefit status [pause the participant]
  - What do you think would happen if you selected “no” on this page?
- - For the purposes of this test, please select yes and continue.
+ - For the purposes of this test, please select "yes" and continue.
 
 You can continue entering information until you reach section 4. I’ll let you know when to pause so I can ask some questions.
 
@@ -228,7 +230,7 @@ You can continue entering information until you reach section 4. I’ll let you 
 
  - Before you upload anything, what documentation are you being asked for here?
  - Do you understand what needs to be included on the document?
- - If you have access to the documents Perigean provided, I'd like you to upload *[sample-billing-statement] or [sample-EOB]* here
+ - If you have access to the documents Perigean provided, I'd like you to upload *[sample-billing-statement] OR [sample-EOB]* here.
  - [if they don't have the documents] I'll provide a document for you to upload here. I'm dropping it in the chat now.
    - *Use [sample-billing-statement] or [sample-EOB] depending on the page*
    - If you hover over the file, you should see three dots you can click on and choose download.
@@ -256,7 +258,9 @@ You can continue entering information until you reach section 4. I’ll let you 
  - Without clicking submit, review your CHAMPVA claim.
  - If you accidentally input some information wrong, say your family member's name, how would you fix that?
  - Without clicking anything, if you submitted the form, what would you expect to happen next?
- - How soon do you expect to be notified about your claim?
+ - How soon do you expect to be notified about a decision being made on your claim?
+   - How do you expect to be notified? By mail, email, text?
+   - If you could check the status of a claim BEFORE a decision was made, where would you expect to find that claim status?
  - You won't be able to submit the application in this test form, so you can stop here, and we just have a few more questions for this task.
 
 
@@ -279,7 +283,10 @@ For this task, I’m going to provide you with another link that I'd like you to
 
 #### Participant rating
  - On a scale of 1-5 (with 1 being poorly and 5 being very well) - how well does this letter **explain** what you need to do in order to resolve the problem with your CHAMPVA claim?
+   - [If less than 5] If you could redesign this letter, how would you explain the steps to resolve the problem with your CHAMPVA claim?
+     
  - On a scale of 1-5 (with 1 being poorly and 5 being very well) - how **prepared** do you feel to resolve this claim based on this letter's content? Why did you give it that rating?
+   - [If less than 5] What do you need to see in this letter to bring your rating from a [number] to a 5, meaning very well prepared? 
 
 > Things to watch for:
 >  - [Does the participant think they need to call CHAMPVA for more information?]
@@ -303,8 +310,8 @@ For this task, I’m going to provide you with another link that I'd like you to
 > Things to watch for:
 >  - [Does the participant seem confident they can use this form to resubmit a claim?]
 
-### Begin Claim
-Now I'd like you to go through this form as if you are resubmitting the claim [you/your spouse] received a letter about. I'll let you know when to pause so I can ask some questions.
+### Begin Claim Resubmission
+Now I'd like you to go through this form as if you are resubmitting the claim [you/your spouse] received a letter about from CHAMPVA. I'll let you know when to pause so I can ask some questions.
 
  - As a reminder:
    - This is our testing site so you don't have to worry about the information that you enter going anywhere. Feel free to use fake information for sensitive questions such as your social security number or birth date that you don't want to share.
@@ -312,7 +319,7 @@ Now I'd like you to go through this form as if you are resubmitting the claim [y
 
 ### Claim status [pause the participant]
  - What option do you think you need to select here?
- - What do you expect to see next if you select resubmission?
+ - What do you expect to see next if you select "resubmission"?
  - *Continue*
 
 ### Claim identifier [pause the participant]
@@ -359,7 +366,7 @@ Now I'd like you to go through this form as if you are resubmitting the claim [y
 ### Review & Submit
  - Would you do anything differently on this page knowing that this is a resubmission?
  - Without clicking anything, if you submitted the form, what do you expect to happen next?
- - Would you expect any difference in processing or response time with a resubmission?
+ - Would you expect any difference in processing or response time with a resubmission? 
 
 You won't be able to submit the claim in this test form, so you can stop screen sharing now. We have just a few more questions for you before we end the call.
 
