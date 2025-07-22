@@ -1,37 +1,12 @@
 # My HealtheVet Web and Mobile Products
 *Current as of July 21, 2025*
 
-## VA
-**Program Leads and Points of Contact**
-- Lauren Alexanderson - OCTO Health Portfolio Lead
-- Patrick Bateman - Technical Lead
-- Robyn Singleton - Design/Research Lead
-- Danielle Thierry - Content & Translation Lead
-- Mikki Northius - Information Architect Lead
-- Ryan Thurlwell - VA: Health and Benefits App Product Owner
-- Greg Kirk - MHV Frontend Program Manager
-- Sean Good - MHV Backend Program Manager
+<br>
 
-**Medical Records Points of Contact**
-- Marci McGuire - OCTO Product Lead
-- Robyn Singleton - OCTO Research and Data Design Lead
-
-**Secure Messaging Points of Contact**
-- Patrick Bateman - OCTO Product Lead
-- Robyn Singleton - OCTO Research and Data Design Lead
-
-**Medications Points of Contact**
-- Kay Lawyer - OCTO Product Lead
-- Robyn Singleton - OCTO Research and Data Design Lead
-
-**Medical Devices and Supplies Points of Contact**
-- Marci McGuire - OCTO Product Lead
-- Robyn Singleton - OCTO Research and Data Design Lead
-
-**Portal Landing Page Points of Contact**
-- Marci McGuire - OCTO Product Lead
-- Robyn Singleton - OCTO Research and Data Design Lead
-
+> 
+> This content will be moving to the [Health Portal Team page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/health-portal-team.md) soon for a full list of all partners involved in the program
+> 
+<br>
 
 ## Delivery Team
 This cross-functional group serves as the primary points of contact for the delivery team and manages work that impacts the whole portal. During the transition period, Lauren, Bryan, and Daniel will also manage the customer support process.
@@ -47,7 +22,6 @@ This cross-functional group serves as the primary points of contact for the deli
 | Lauren Ernest | Program Manager | lauren.ernest@adhocteam.us | lauren.ernest@va.gov | [@Lauren Ernest](https://dsva.slack.com/team/U01DKQVCEGY) | [laurenernest](https://github.com/laurenernest) |
 
 <br>
-
 
 ### Medical Records
 |Name|Role|Primary Email|VA Email|DSVA Slack|GitHub|
