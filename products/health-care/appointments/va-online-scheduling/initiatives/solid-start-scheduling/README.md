@@ -85,7 +85,7 @@ To reduce the number of call that VASS agent make and increase Veteran self appo
 
 ### Additional resources 
 - Pending Epic 
-- [Figma](https://www.figma.com/design/Z96Oy8JRzQNXQueV0LcNBR/Solid-Start-Scheduling--VASS--%7C-Appointments?node-id=2145-37798&t=WCpE4TOQki5XLo2A-1))
+- [Figma](https://www.figma.com/design/Z96Oy8JRzQNXQueV0LcNBR/Solid-Start-Scheduling--VASS--%7C-Appointments?node-id=2145-37798&t=WCpE4TOQki5XLo2A-1)
 ---
 
 #### Communications
