@@ -399,7 +399,7 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
 1. **After you click *Finish later*, you should be able to sign out** in the Minimal header format, which is currently not possible. We should revert to the full VA.gov header for the authenticated intro page in order to enable signout. --> *This is a BUG that needs to be fixed*
      - *Supporting evidence:* There's currently no way to sign out after you click *Finish later* and land on the intro page because you're still seeing only the Minimal header.
 
-1. Try to **fix announcing issues with JAWS where it says "has popup" for the State/Province/Region and Postal code text fields**. 
+1. Try to **fix announcing issues with JAWS where it says "has popup" for the State/Province/Region and Postal code text fields**. --> *Try to FIX this*
     - *Supporting evidence:* One screen reader user (JAWS on desktop) reported that the State/Province/Region (as long as "United States" isn't selected in the Country field) and Postal code fields said "has pop up", even though they're both text fields.
 
 1. Streamline error handling on the Review/Submit page for the ***Your full name* field so that (1) focus goes to the name field (*vs*. the top of the component), and (2) the error message is announced immediately** (*vs*. after two repetitions of most of the text in the component).  --> *Try to FIX this*
