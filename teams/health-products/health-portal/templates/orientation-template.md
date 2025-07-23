@@ -62,29 +62,37 @@ If you have questions, don't hesitate to reach out to your OCTO practice lead, [
 
 
 - [ ] [Get familiar with some of our terminology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/terminology.md)
+- [ ] Watch an overview of My HealtheVet on VA.gov created for Veterans
+   
 - [ ] Get to know [YOUR PRODUCT]
    - [ ] [Landing page](products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page) / portal experience
    - [ ] [Medical devices and supplies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-devices-and-supplies/product_brief.md)
    - [ ] [Medical Records](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/README.md)
    - [ ] [Medications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/README.md)
-   - [ ] [Messages](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging)
-- [ ] [Peruse the VA Platform Website](https://depo-platform-documentation.scrollhelp.site/)
-    - [ ] [Getting Started](https://depo-platform-documentation.scrollhelp.site/getting-started/)
-    - [ ] [Developer docs](https://depo-platform-documentation.scrollhelp.site/developer-docs/)
-    - [ ] [Research and design](https://depo-platform-documentation.scrollhelp.site/research-design/)
-    - [ ] [Analytics and insights](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/)
-    - [ ] [Collaboration cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/)
-    - [ ] [Support](https://depo-platform-documentation.scrollhelp.site/support/)
-- [ ] [Familiarize yourself with the VA Design System](https://design.va.gov/)
+   - [ ] [Messages](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging
+   - [ ] [See what's new on My HealtheVet](https://www.va.gov/resources/my-healthevet-on-vagov-what-to-know/)
+
+## GitHub Info
 - [ ] [Take a look at the VA GitHub Handbook](https://department-of-veterans-affairs.github.io/github-handbook/)  ‼️Note that as of July 2025, [VA has begun the process of migrating VA GitHub resources to GitHub Enterprise Cloud](https://department-of-veterans-affairs.github.io/github-handbook/migrations)
 - [ ] [Check out some helpful info about creating documents in GitHub](https://docs.github.com/en)
 
-VA Platform General Orientation
+<!-- ALL TEAM MEMBERS -->
+## VA Platform general orientation
+- [VA Platform Crew YouTube channel](https://www.youtube.com/@platformcrew4065)
+- [Platform website orientation](https://www.youtube.com/watch?v=I3RFCuTEfBI) - 1 min YouTube video
+- [Getting started](https://depo-platform-documentation.scrollhelp.site/getting-started/)
+- [General Orientation - VA.gov Platform](https://www.youtube.com/watch?v=PNuy0YmrXlI)- 60 min YouTube video
 
-VA Platform practice-specific orientation
-- Accessibility
-- Engineering
-- Product
-- UX
-- 
-  
+## VA Platform practice-specific orientation
+
+
+### Product
+ - [ ] [Getting Started](https://depo-platform-documentation.scrollhelp.site/getting-started/)
+ - [ ] [Developer docs](https://depo-platform-documentation.scrollhelp.site/developer-docs/)
+ - [ ] [Research and design](https://depo-platform-documentation.scrollhelp.site/research-design/)
+ - [ ] [Analytics and insights](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/)
+ 
+
+
+## Orientation Part 2
+- [ ] Once you've completed the Part 1 checklist and have access to the VA network and Slack, let your marci.mcguire@va.gov know so you can get info for Part 2!
