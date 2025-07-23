@@ -60,7 +60,7 @@ If you have questions, don't hesitate to reach out to your OCTO practice lead, [
 - [ ]   FS/FE Engineer: Adam StolerOCTO Product Owner: Kay Lawyer
 - [ ]   FS/FE Engineer: Adam StolerOCTO Design/Research Lead: Kristen McConnell
 
-
+## General MHV Info
 - [ ] [Get familiar with some of our terminology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/terminology.md)
 - [ ] Watch an overview of My HealtheVet on VA.gov created for Veterans
    
@@ -69,7 +69,7 @@ If you have questions, don't hesitate to reach out to your OCTO practice lead, [
    - [ ] [Medical devices and supplies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-devices-and-supplies/product_brief.md)
    - [ ] [Medical Records](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/README.md)
    - [ ] [Medications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/README.md)
-   - [ ] [Messages](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging
+   - [ ] [Messages](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging)
    - [ ] [See what's new on My HealtheVet](https://www.va.gov/resources/my-healthevet-on-vagov-what-to-know/)
 
 ## GitHub Info
