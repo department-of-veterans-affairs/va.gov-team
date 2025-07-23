@@ -9,12 +9,14 @@ If you have questions, don't hesitate to reach out to your OCTO practice lead, [
 ## Part 1: Publicly accessible info
 - [ ] [Get to know the team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/health-portal-team.md)
 - [ ] [Learn about how we work](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/how-we-work.md)
-- [ ] Schedule 15 min to meet with your new team mates
+- [ ] Schedule 15 min to meet with your new team mates:
 
-### Customer Support and Triage
+<!--Cust Support and Triage-->
+### Customer Support and Triage Team
 - TBD
 
-### Horizon
+<!--Horizon-->
+### Horizon Team
 - [ ]  OCTO Product Owner: Marci McGuire
 - [ ]  Product Lead: Bryan Ivie
 - [ ]  Engineering Lead: Daniel Cloud
@@ -23,13 +25,15 @@ If you have questions, don't hesitate to reach out to your OCTO practice lead, [
 - [ ]  IA Lead: Sara Sterkenburg
 - [ ]  Data Lead: Marcello Antosh
 
-### Medical Devices and Supplies
+<!--Medical Devices and Supplies-->
+### Medical Devices and Supplies Team
 - [ ]  OCTO Product Owner: Marci McGuire
 - [ ]  Business Analyst: Mark Carter
 - [ ]  FE Engineer: Amy Cashbaugh
 - [ ]  Mobile FE Engineer: Geoff Winner
 
-### Medical Records
+<!--Medical Records-->
+### Medical Records Team
 - [ ]  OCTO Product Owner: Marci McGuire
 - [ ]  Product Manager: David Koger
 - [ ]  FE Engineer: Napoleon Kernessant
@@ -37,14 +41,16 @@ If you have questions, don't hesitate to reach out to your OCTO practice lead, [
 - [ ]  FS/FE Engineer: Ni Chia
 - [ ]  FE Engineer, Liferay: Elwood Gary
 
-### Medications
+<!--Medications-->
+### Medications Team
 - [ ]   OCTO Product Owner: Kay Lawyer
 - [ ]   Product Manager: Michael Brodsky
 - [ ]   FE Engineer: Richard Davis
 - [ ]   FS/BE Engineer: Chris Donelson
 - [ ]   FE Engineer: Ian Seabock
 
-### Messages
+<!--Messages-->
+### Messages Team
 - [ ]   Slack: #tbd
 - [ ]   OCTO Product Owner: Patrick Bateman
 - [ ]   Product Manager: Stacy Blackwood
@@ -55,12 +61,13 @@ If you have questions, don't hesitate to reach out to your OCTO practice lead, [
 - [ ]   FS/FE Engineer: Adam StolerFS/BE Engineer: Jason Congliari
 - [ ]   FS/FE Engineer: Adam StolerMobile FS Engineer: Jayson Perkins
 
-### Unified Appointment Experience
+<!--Cust Support and Triage-->
+### Unified Appointment Experience Team
 - [ ]   FS/FE Engineer: Adam StolerSlack: #tbd
 - [ ]   FS/FE Engineer: Adam StolerOCTO Product Owner: Kay Lawyer
 - [ ]   FS/FE Engineer: Adam StolerOCTO Design/Research Lead: Kristen McConnell
 
-## General MHV Info
+## General MHV Info 
 - [ ] [Get familiar with some of our terminology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/terminology.md)
 - [ ] Watch an overview of My HealtheVet on VA.gov created for Veterans
    
@@ -77,32 +84,17 @@ If you have questions, don't hesitate to reach out to your OCTO practice lead, [
 - [ ] [Check out some helpful info about creating documents in GitHub](https://docs.github.com/en)
 
 <!-- ALL TEAM MEMBERS -->
-## VA Platform general orientation
-- [VA Platform Crew YouTube channel](https://www.youtube.com/@platformcrew4065)
-- [Platform website orientation](https://www.youtube.com/watch?v=I3RFCuTEfBI) - 1 min YouTube video
-- [Getting started](https://depo-platform-documentation.scrollhelp.site/getting-started/)
-- [General Orientation - VA.gov Platform](https://www.youtube.com/watch?v=PNuy0YmrXlI)- 60 min YouTube video
-- Platform support overview 
+## VA Platform orientation for all team members
+The VA Platform is the quintessential document resource for teams that build products on VA.gov.  Even if you've reviewed this information before, changes can and do happen regularly, so it's highly recommended that you visit these overview pages to be aware of recent updates.  Changes are also announced on the [#mhv-change-announcements](https://dsva.slack.com/archives/C03R5SBELQM) Slack channel.
+- [ ] [General orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/orientation-sessions#Orientationsessions-GeneralOrientation)
+- [ ] [Platform website orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/orientation-sessions#Orientationsessions-PlatformWebsiteOrientation)
+- [ ] [Platform support overview](https://depo-platform-documentation.scrollhelp.site/getting-started/orientation-sessions#Orientationsessions-PlatformSupportOverview)
 
-## VA Platform practice-centered orientation
-### Product
-
-### Engineers
-  - [ ] [Developer docs](https://depo-platform-documentation.scrollhelp.site/developer-docs/)
-  - [ ] Front-end orientation
-  - [ ] Back-end orientation
-  - [ ] QA orientation
-  - [ ] Accessibility orientation
-  - [ ] ATO (Authority to Operate) orientation
-  - [ ] Design system/forms library orientation
-
-### Design and Research
-
-
- - [ ] [Research and design](https://depo-platform-documentation.scrollhelp.site/research-design/)
- - [ ] [Analytics and insights](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/)
- 
-
+## VA Platform practice-centered orientation and educational tasks
+- [ ] [Design & Researchers](https://depo-platform-documentation.scrollhelp.site/getting-started/educational-tasks#Educationaltasks-Designers&Researchers)
+- [ ] [Front-end engineers](https://depo-platform-documentation.scrollhelp.site/getting-started/educational-tasks#Educationaltasks-Front-endEngineers)
+- [ ] [Back-end engineers](https://depo-platform-documentation.scrollhelp.site/getting-started/educational-tasks#Educationaltasks-Back-endEngineers)
+- [ ] [Product managers & delivery managers](https://depo-platform-documentation.scrollhelp.site/getting-started/educational-tasks#Educationaltasks-ProductManagers&DeliveryManagers)
 
 ## Orientation Part 2
 - [ ] Once you've completed the Part 1 checklist and have access to the VA network and Slack, let your marci.mcguire@va.gov know so you can get info for Part 2!
