@@ -163,7 +163,7 @@ We can help guide you through this if you need help. Please say what you're doin
 ### Follow-up questions (If needed)
 * "Tell me about your thought process there."
 * "What made you think of going there?"
-* "Where else might you go if that didn't work?"
+* "If you couldn't find what you needed, where else would you look?"
 
 ## Task 2: Understanding the page and the different letters and documents - X minutes
 **Goal:** Observe how Veterans orient themselves to the page and understand available options.
