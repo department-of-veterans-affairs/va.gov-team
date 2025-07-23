@@ -1,5 +1,6 @@
 # Monthly Medallia Report: June 2025
 
+*Analysis completed by hand with Excel Spreadsheets, Domo Dashboard, and VA Copilot AI*
 
 ## Monthly CSAT Score for Debt Portal (FSR & Debt Portal Pages combined)
 
@@ -207,6 +208,7 @@ Mode: 5, Strongly Agree
 
 ## VA.gov VFS Questionnaire and A11 Questionnaire
 
+
 ## What task were you trying to do today?
 
 > Mileage reimbursement.
@@ -228,6 +230,112 @@ Mode: 5, Strongly Agree
 > TRYING TO FIGURE OUT HOW MUCH WILL BE TAKEN TO PAY BACK THE VA
 
 > Can't pay copay unless you send me a bill
+
+# Major Themes in Veteran Debt Portal Feedback (June 2025)
+
+## Positive Feedback 
+
+Number of Positive Comments: 10
+
+Theme: Ease of Use and System Efficiency
+
+Veterans appreciated when the debt portal provided a straightforward, efficient experience that allowed them to complete tasks quickly.
+
+Supporting quotes:
+
+"Easy to do."
+
+"I got the help I needed."
+
+"Just doing some review of my account. Everything looks great"
+
+"Ease of use and speed"
+
+"Computer background and appreciate well designed site."
+
+"requested information was supplied quickly and clearly."
+
+"I had to check my medications, and I had no trouble finding what I was looking for."
+
+"Accessed information quickly"
+
+"Kinda easy"
+
+## 1. Payment Status & Update Delays
+
+* Veterans report significant delays in payment status updates
+* Payments made are often still showing as unpaid after weeks or months
+* Discrepancies between actual payment status and what appears in the system
+
+> **Example quotes:**
+> * "I paid my bill and it still shows as unpaid"
+> * "I found that I actually indeed did pay my co-pay, but why does it take so long for the website to be updated Really wow man"
+> * "This debt was paid earlier this year and then all of a sudden I get this notification that I still owe money."
+
+## 2. System Navigation & Usability Challenges
+
+* Complex navigation requiring multiple steps to complete simple tasks
+* Lack of intuitive design features (like auto-fill for repeat users)
+* Need for improved organization of information
+
+> **Example quotes:**
+> * "It is just OK. I pay here regularly, yet it doesn't auto fill, which would be helpful. And there is no tab at the top to direct me to the need, I must scroll down."
+> * "Pay a VA co-pay. Why do I have to go to a separate site, login, manually enter my account number, manually enter my address and phone number, manually enter the amount of the bill, and manually enter my payment info."
+> * "The information I really need takes a long time to sort through things I don't need, just to locate a clinic phone number, to cancel an appointment."
+
+## 3. Lack of Debt Information Transparency
+
+* Difficulty accessing detailed information about why debts were incurred
+* Inability to view debt letters or history of payments
+* Limited explanation of charges and services
+
+> **Example quotes:**
+> * "Was trying to find out specific details about a comp and pen debt... Would like to know what exactly the debt if for, when it started and how much is being taken out each month."
+> * "unable to get information about debt. Website does not explain why I have incurred a debt."
+> * "What the hell does re-establish mean and why is it on my bill?"
+
+## 4. Feature Requests & System Integration
+
+* Requests for better integration with other VA systems
+* Desire for automated payment options
+* Need for electronic statements and saved payment methods
+
+> **Example quotes:**
+> * "Would like an automated way to pay for prescriptions."
+> * "How do we sign up for electronic statements instead of by mail. I already pay online and sign up to get things online every chance I get."
+> * "Needs to be added to the VA app"
+
+## 5. Communication & Customer Service Issues
+
+* Problems with contact information (incorrect phone numbers)
+* Challenges resolving discrepancies without calling
+* Difficulty getting timely assistance for payment issues
+
+> **Example quotes:**
+> * "Talk to someone about the debt. the number on the website is not working and sends me to a recorded message about receiving a free device."
+> * "I do not have time in the day to call some number just to do something as menial as ask someone something that can easily be displayed on this section of the website."
+* "I originally called on March 28 to stop my benefits as I was starting active duty on April 1... Now I'm receiving letter demanding to be paid back!"
+
+## CSAT Data Analysis
+
+The June 2025 CSAT scores show notable improvement over the baseline weighted averages across all metrics:
+
+* **VA.gov Experience Rating**: 73.15% (compared to 49.01% baseline) - significantly higher than overall VA.gov average (54.94%)
+* **Overall User Satisfaction**: 25% (compared to 13.61% baseline) - slightly below VA.gov average (26.71%)
+* **Users Understanding**: 75.79% (compared to 49.64% baseline) - well above VA.gov average (58.89%)
+* **Trust in VA's Commitment to Veterans**: 71.69% (compared to 64.01% baseline) - above VA.gov average (57.76%)
+* **Trust in VA Generally**: 44.58% (compared to 33.33% baseline) - above VA.gov average (34.18%)
+
+Month-over-month comparison shows improvements in most areas:
+* Experience rating increased from 67.08% to 73.15%
+* Overall satisfaction dramatically improved from 17.94% to 75.79%
+* Understanding increased from 69.01% to 75.79%
+* Trust in VA's commitment remained stable (71.6% to 71.69%)
+* General trust in VA declined slightly (50.3% to 44.58%)
+
+These scores, gathered across pages with substantial traffic (565,129 total page views in June 2025 for manage-va-debt,	summary	debt-balances,	copay-balances, 49,400 clicks for pay.va.gov and pag.vo)
+), suggest that despite the specific issues identified in the feedback, Veterans' overall perception of the debt portal has improved significantly compared to baseline measures. However, the verbatim feedback highlights critical areas where users continue to experience frustration, particularly with payment processing and information transparency.
+
 
 <img width="412" height="333" alt="Screenshot 2025-07-15 at 5 04 19 PM" src="https://github.com/user-attachments/assets/4dc988d4-1564-4ccc-bbdd-cf7a007e5388" />
 
