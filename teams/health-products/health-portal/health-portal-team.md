@@ -136,10 +136,6 @@ During the transition period, the Medications team and Medical Devices team will
 - Mobile Platform: 
 - Related: Office of Connected Care (OCC) has a portfolio of ~70 mobile apps (1/2 of these are for Veterans). 
 
-### MHV Platform Team
-- TBD
-
-## Stakeholders
 ### Account Experience Crew (authenticated experience)
 Crew chief: Chante Lantos-Swett
 -	My VA (Chante Llantos Sweet)
@@ -148,7 +144,10 @@ Crew chief: Chante Lantos-Swett
 -	VEText (Shane Elliott, Beverly Nelson)
 -	VSP Identity (Samara Strauss)
 
+### MHV Platform Team
+- TBD
 
+## Stakeholders
 
 ### OCC Stakeholders **WIP - BEING UPDATED**
 **Federal employees**
