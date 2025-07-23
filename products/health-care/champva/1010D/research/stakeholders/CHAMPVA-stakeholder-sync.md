@@ -1,6 +1,70 @@
 ## CHAMPVA biweekly stakeholder sync
 Every other Tuesday at 10:35am ET
 
+## **07/22/25**
+
+**Attendees:** Anne R., Cindy Carr, Eileen Cook, Mike M., Rachel P., Renata, Jamie, Andrea, Ballard M., Premal, Amanda, Angela P., Angela C.
+
+**Agenda**
+
+* Discuss the request to discourage users from submitting duplicate applications
+  
+* Discuss allowing users to submit updated information for their application, such as adding dependents or correcting existing information
+
+
+**Discouraging duplicate submissions**
+
+* Jamie notes that we're aware of multiple reasons for duplicate submissions (thinking it's quicker, etc.)
+* Simple solution: content update to tell people to wait in a blue alert box ("Have you applied for CHAMPVA before?") would lead to "Your CHAMPVA form status" (new page)
+  * Includes accordions for the most common resubmission issues and what users should do
+
+
+**Submitting updated information for their application, such as adding dependents or correcting existing information**
+
+* What do you encourage users to do if their application for CHAMPVA benefits is still pending?
+    * Angie: ideally we'd like users to retract their application and submit a new one
+    * Current state: If the user calls up CHAMPVA, we tell them to submit a new application and it goes back in the queue (at the bottom of the list)
+        * If we get a second application after the initial one, we'll pull up both applications and reconcile them (we search for SSN later)
+        * If there's a newborn, with the online form you could conceivably just add the baby to the 10-10D insteading of adding all previous beneficiaries
+
+* To recap our understanding: generally speaking, the new 10-10D submission goes to the bottom of the pile 
+    * For a new beneficiary, you need a whole new application adding that newborn, and it goes to the bottom of the queue.
+    * If we're missing just a school cert or medicare card, that's a different scenario than adding a new beneficiary. 
+       * If you have a new school cert, that'll also go to the bottom of the queue
+       * For a school cert digital form submission, a lot of it depends on how soon we work that initial application. When we work an application we go in an search for any associated documents. We'll pull any docs, even if they're submitted at a later date. If the application is worked already, then the school cert will be sitting and waiting for a while. If they're truly missing a doc, we'll send a CCL letter.
+          * CCL: CHAMPVA center letter - there's 36/7 different versions of them. They go out automatically from CP&E (eventually VES). These aren't templates that we write at our desks. They generate when an event is triggered. 
+          * Angela P. will ask if we can share copies but it'll take some time
+          * CCL includes denial letters, requests additional information on an application, etc. There's specific policy listed in them, and they're very applicant-dependent. 
+
+* What if someone needs to update something, like a name change, from a prior application that's still pending?
+    * We won't know if there's a name change unless someone notifies us.
+       * They'll have to send in those support docs (for the name change). If they submit a new 10-10D it'll go to the bottom of the queue.
+       * If it's just a marriage cert or something, we want to discourage users from submitting a whole new application. Have them mail/fax it in, so we don't add to the backlog of apps
+    * **Current state** of sending in updated docs for a pending application:
+       * They can mail in docs to the PO box, or call the call center (CHAMPVA stakeholders unsure on the Call Center's process) and have them upload the doc to PEGA, and it'll be first-in, first-out. 
+       * For urgent issues, they can call the call center
+    * In the future, it would be nice to have a separate form or space online to upload supporting docs attached to an application or claim. That's not what would be helpful in current state. 
+       * OHI standalone: continue to let users know that's for existing beneficiaries, and if a pending bene has a health insurance change, they should mail/fax/call in. 
+
+* Do we know how many applications come in that are for adding a new beneficiary vs. a pure duplicate app?
+    * Cindy: no, what we pull looks for the sponsor and the bene and look for identical matches (more than 2 forms with different batch numbers)
+    * We don't blindly match duplicates to make sure there aren't new beneficiaries being added (in addition to ones previously listed)
+    * Cindy pulls that report every 2-4 weeks ("open applications that have not been processed yet") but we don't track all the daily/weekly/monthly duplicates that are closed out
+   * we've seen people who were eligible for CHAMPVA with one Veteran sponsor, get divorced, get married to another eligible Veteran sponsor, and send a new application. Those are not processed as duplicates
+
+* What about deletions? Do you ever have to deal with petitions to remove themselves from CHAMPVA?
+    * Yes, we get disenrollment letters. They can be hand written, but they need a wet signature on them (reasons: ACA eligible, want health insurance from somewhere else)
+    * We get a handful every week 
+
+* Cindy shows us a sponsor who sent in 9 applications via fax in 4 days (6 in one day!)
+    * Premal wants to return an API that says "you've already submitted an application for your beneficiaries" on the intro page -- possibly a good idea once we've also implemented a separate solution for adding new docs?
+    * Angela P. at face value this sounds really awesome, but we'd have to have a deeper discussion with Katrina involved (PEGA) to make sure this will work. 
+    * Premal: could we verify against CP&E?
+    * Angela C. sure, but we often have duplicates happening earlier on due to impatience
+    * Right now, PEGA doesn't store beneficiaries
+    * Angela will make sure Katrina looks into this when she gets back from PTO
+      
+
 ## **04/29/25s**
 
 **Attendees:** Angela C., Angela P., Arleen, Ballard, Joie, Premal, Misty, Amanda, Jamie, Rachel P., Andrea, Renata
