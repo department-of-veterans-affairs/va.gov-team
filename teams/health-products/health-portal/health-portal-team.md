@@ -7,6 +7,8 @@ Updated 7/22/2025
 - [Office of the CTO (OCTO) Team Members](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/health-portal-team.md#office-of-the-cto-octo-team-members)
 - [Product team members](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/health-portal-team.md#product-team-members)
 - [What we're working on](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/health-portal-team.md#what-were-working-on)
+- [Our stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/health-products/health-portal/health-portal-team.md#stakeholders)
+- [Partner teams](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/health-products/health-portal/health-portal-team.md#partner-teams)
 - [About OCTO](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/health-portal-team.md#about-octo)
 
 ## Welcome
@@ -65,8 +67,6 @@ This cross-functional group serves as the primary points of contact for the deli
 | Marcello Antosh | Data Specialist | marcello.antosh@inroadsadvisory.com | TBD | TBD | [marcello-inroads](https://github.com/marcello-inroads) |
 | Lauren Ernest | Program Manager | lauren.ernest@adhocteam.us | lauren.ernest@va.gov | [@Lauren Ernest](https://dsva.slack.com/team/U01DKQVCEGY) | [laurenernest](https://github.com/laurenernest) |
 
-
-
 ### Medical Records
 - Slack channel: [#mhv-medical-records](https://dsva.slack.com/archives/C03Q2UQL1AS)
 
@@ -103,7 +103,6 @@ During the transition period, the Medications team and Medical Devices team will
 | Mario Williams | Frontend Engineer (Liferay) | mwilliams@ironarchtech.com | TBD | TBD | TBD |
 | Jayson Perkins | Mobile Engineer | jayson.perkins@adhocteam.us | jayson.perkins@va.gov | [@Jayson Perkins](https://dsva.slack.com/team/U01A8SZCMHA) | [jperk51](https://github.com/jperk51) |
 
-
 ### Medical Devices and Supplies
 - Slack channel: [#vagov-supply-reordering](https://dsva.slack.com/archives/C05DFSM57FW)
 
@@ -124,6 +123,7 @@ During the transition period, the Medications team and Medical Devices team will
 | Athena Bozak | Researcher/Designer | athena.bozak@agile6.com | Athena.Bozak@va.gov | [@Athena Bozak](https://dsva.slack.com/team/U07VBDM5M6J) | [athenabozak](https://github.com/athenabozak) |
 | Jonathan Nelson | Designer | jonathan.nelson@adhocteam.us | jonathan.nelson@va.gov | [@Jonathan Nelson](https://dsva.slack.com/team/URMHM214N) | [jonathanjnelson](https://github.com/jonathanjnelson) |
 
+## Partner Teams
 
 ### Mobile Feature Support
 - Slack channel: [#mobile-feature-support-public](https://dsva.slack.com/archives/C07SD9P7XB9)
@@ -131,9 +131,13 @@ During the transition period, the Medications team and Medical Devices team will
 ### Mobile app
 - Slack channel: [#va-mobile-app](https://dsva.slack.com/archives/C018V2JCWRJ)
 
+### Mobile Experience
+- Product: Ryan Thurwell
+- Mobile Platform: 
+- Related: Office of Connected Care (OCC) has a portfolio of ~70 mobile apps (1/2 of these are for Veterans). 
+
 ### MHV Platform Team
 - TBD
-
 
 ## Stakeholders
 ### Account Experience Crew (authenticated experience)
@@ -144,32 +148,7 @@ Crew chief: Chante Lantos-Swett
 -	VEText (Shane Elliott, Beverly Nelson)
 -	VSP Identity (Samara Strauss)
 
-### Mobile Experience
-- Product: Ryan Thurwell
-- Mobile Platform: 
-- Related: Office of Connected Care (OCC) has a portfolio of ~70 mobile apps (1/2 of these are for Veterans). 
 
-### Health Portfolio **WIP - BEING UPDATED**
--	VA.gov appointments (Kay Lawyer, OCTO)
--	Unified appointment experience (Mark Dewey, Patrick Bateman, Kay Lawyer) 
--	Check In, including pre-check-in (Patrick Bateman)
--	Beneficiary Travel (Mark Dewey)
--	1010 CG application for caregiver health (Patrick Bateman)
--	10-10EZ application for health care (Patrick Bateman)
--	COVID (Lauren Alexanderson, Danielle Thierry - content strategist and plain language writer)
--	After-visit and pre-visit summary (Shane Elliott & Rob Durkin)
--	Patient-Generated Health Data (PGHD) (Stefany Holguin)
-
-### Benefits
-- Debt Resolution (Denise Coveyduc)
-- PACT Act (Zach Goldfine, Danielle Thierry)
-
-### Sitewide Crew **WIP - BEING UPDATED**
-Crew chief: Dave Conlon
--	Health Care benefit hub (Danielle Thierry - content strategist and plain language writer who manages all health care content)
--	Sitewide navigation and IA (Mikki Northuis, information architect)
--	Facilities (Dave Conlon, Michelle Middaugh)
--	Laura Willwerth (content)
 
 ### OCC Stakeholders **WIP - BEING UPDATED**
 **Federal employees**
@@ -209,6 +188,30 @@ Mission: Get Veterans benefits in minutes, not months.
 Mission: Enable Veterans & their care teams to spend more time focusing on their health goals and less time navigating the technology that supports those goals.  The 
 - Artificial Intelligence<br>
 Mission: Establish VA’s agency-wide roadmap for trustworthy, responsible, and effective AI execution.
+
+## OCTO Portfolios and Teams
+### Health Portfolio **WIP - BEING UPDATED**
+-	VA.gov appointments (Kay Lawyer, OCTO)
+-	Unified appointment experience (Mark Dewey, Patrick Bateman, Kay Lawyer) 
+-	Check In, including pre-check-in (Patrick Bateman)
+-	Beneficiary Travel (Mark Dewey)
+-	1010 CG application for caregiver health (Patrick Bateman)
+-	10-10EZ application for health care (Patrick Bateman)
+-	COVID (Lauren Alexanderson, Danielle Thierry - content strategist and plain language writer)
+-	After-visit and pre-visit summary (Shane Elliott & Rob Durkin)
+-	Patient-Generated Health Data (PGHD) (Stefany Holguin)
+
+### Benefits
+- Debt Resolution (Denise Coveyduc)
+- PACT Act (Zach Goldfine, Danielle Thierry)
+
+### Sitewide Crew **WIP - BEING UPDATED**
+Crew chief: Dave Conlon
+-	Health Care benefit hub (Danielle Thierry - content strategist and plain language writer who manages all health care content)
+-	Sitewide navigation and IA (Mikki Northuis, information architect)
+-	Facilities (Dave Conlon, Michelle Middaugh)
+-	Laura Willwerth (content)
+
 
 ### OCTO Communities of Practice
 OCTO communities of practice provide guidance and support for practitioners across various projects.
