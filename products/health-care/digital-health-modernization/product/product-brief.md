@@ -53,6 +53,7 @@ We aim to reduce the number of websites, products, and interfaces Veterans must 
 - Product - Medical Records: Marci McGuire
 - Product - Medications: Kay Lawyer
 - Design: Kristen McConnell
+- Design: Becky Phung
 - Research: Robyn Singleton
 - Engineering: Mark Dewey, Adrian Rollett, Steve Mason
 
