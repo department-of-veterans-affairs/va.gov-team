@@ -1,5 +1,5 @@
 # IA Design for School Official: Principles of Excellence for educational institutions - Form 22-10275
-**STATUS: In progress**
+**STATUS: Complete**
 
 **Team:** VEBT team
 - Team name: govcio-vebt
