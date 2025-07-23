@@ -163,11 +163,13 @@ Crew chief: Chante Lantos-Swett
 ## What We're Working On
 The My HealtheVet portal team's main focus for the past several years has been rebuilding the standalone My HealtheVet patient health portal (currently referred to as My HealtheVet Classic) and integrating it into VA.gov. 
 [Product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/product-brief.md).  My HealtheVet on VA.gov is comprised of several distinct products, which includes specific subsets of features that lend themselves to the the mobile app:
-- Landing page/portal experience
-- Medical records
-- Medical devices and supplies
-- Medications
-- Messaging
+- [Horizon (MHV portal experience)]
+   - [Landing page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page)
+- [Medical records](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records)
+- [Medical devices and supplies](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-devices-and-supplies)
+- [Medications](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications)
+- [Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging) (formerly referred to as Secure Messaging)
+- Shared Portal Support
 
 ## About OCTO
 ### OCTO within the VA organization
