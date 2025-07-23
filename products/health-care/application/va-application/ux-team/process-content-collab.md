@@ -14,20 +14,19 @@ This page has helpful info on what tickets to open in github, how to setup the F
 ## Tickets  
 
 **CAIA side to initiate work**
-- Open a content ticket if this is part of the Collab Cycle or not:
-- [Sitewide Content, Accessibility, and IA Intake Form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=strelichl%2Ccoforma-terry&labels=sitewide+CAIA%2C+sitewide+content-product+support&projects=&template=sitewide-CAIA-intake-form.md&title=%5BCAIA+Intake%5D+%3CTeam+Name%3E%3A+%3CInitiative+Name%3E)
-- NEW - Created end of April, Content (confirm this process - have not heard of use/updates)
+- New team and see Slack channel #content-ia-centralized-team for the latest guidance on submitting tickets via part of the Collaboration Cycle or not
+- 
 
 **1010 Health Enrollment team board**
-- Open a ticket on the 1010 project team board with the appropriate labels to account for the UX content work collab effort.
+- Open a ticket on the 1010 project team board with the appropriate labels to account for the UX content work collab effort. Add any additional notes, context and links that could be helpful for content review directly into the Figma file. 
 
 
 
-## [WIP] Process + Timeline 
+## Process + Timeline 
 
 - Open tickets - CAIA ticket and 1010 ticket
-- Review at weekly 1010 Team + Content Sync on Fridays for a "kick-off" or if needed due to scheduling, setup a separate meeting to go over the request
-- Set dates for the content phases
+- Review at weekly 1010 Team + Content Sync on Wednesdays for a "kick-off" or book C/IA office hours via their Slack channel
+- Set dates for the content phases if needed:
   1. initial content review + SME questions,
   2. SME answers + content impact,
   3. SME accuracy check,
@@ -38,8 +37,8 @@ This page has helpful info on what tickets to open in github, how to setup the F
 ### WIP Process: 
 
 1. Designer setup Figma page with all components and notes to start content collab 
-2. Designer/PM open CAIA ticket and ticket for 1010 team board
-3. Designer walk through the request and the screens in Figma at a weekly Friday content sync meeting (or separate meeting if needed)
+2. Designer/PM open Collab Cycle or C/IA ticket _**and**_ ticket for 1010 team board
+3. Designer walk through the request and the screens in Figma at office hours or weekly design/content sync meetings
 4. Content can adjust in content source of truth section Figma screens directly or post temporary questions in Figma comments
 5. Capture any future state comments or content in the content status component note variant
 6. Can change color of note or content components to call out SME questions and answers (chat as team on future direction)
@@ -76,7 +75,7 @@ When an initiative needs to go through content collaboration process, the design
 ### Designer content collab
 1. During the content review, the designer will pull out notes comments that need to be kept for design decisions and document that per the team standards and keep up on that documentation
 
-### CAIA content colab
+### C/IA content colab
 
 1. Where there are "red - ready to review" status components, on the section labeled Content Source of Truth.
 2. Make edits directly in the main components
