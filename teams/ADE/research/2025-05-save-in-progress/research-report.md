@@ -422,10 +422,10 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
 
 #### For the My VA team
 11. In the draft cards under "Benefit applications and forms", **make the "Continue your application" link scale up with magnification** like everything else on the card already does. --> *NEEDS MORE INVESTIGATION TO REPRODUCE and find the cause of the issue* 
-- *Supporting evidence*: One participant using a screen magnifier found it difficult to read this link because its font didn't magnify like all the other text on the card and so it was small and hard to read. p13 was on a Windows computer using the Edge browser and Microsoft Zoom Magnification at least 300%.
+    - *Supporting evidence*: One participant using a screen magnifier found it difficult to read this link because its font didn't magnify like all the other text on the card and so it was small and hard to read. p13 was on a Windows computer using the Edge browser and Microsoft Zoom Magnification at least 300%.
 
-12. Consider **renaming the header "Benefit applications and forms" to** "Applications and forms" or **something else similarly short** so that it will be more accessible to screen magnifier users. --> *In a [Collab Cycle ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109779), the phrase "Active forms" was one content suggestion*
-- *Supporting evidence*: One participant using a screen magnifier didn't recognize that his draft form was under "Benefit applications and forms" because all he saw was "Benefit applications".
+1. Consider **renaming the header "Benefit applications and forms" to** "Applications and forms" or **something else similarly short** so that it will be more accessible to screen magnifier users. --> *In a [Collab Cycle ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109779), the phrase "Active forms" was one content suggestion*
+    - *Supporting evidence*: One participant using a screen magnifier didn't recognize that his draft form was under "Benefit applications and forms" because all he saw was "Benefit applications".
 
 #### For the Request Personal Records form
 13. Explore **prefilling the Veteran's name and address**, which we know once they've signed in. --> *Jeana is working on this*
