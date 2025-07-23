@@ -408,6 +408,7 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
 1. Streamline error handling on the Review/Submit page for the ***Your full name* field so that (1) focus goes to the name field (*vs*. the top of the component), and (2) the error message is announced immediately** (*vs*. after two repetitions of most of the text in the component).  --> *NEEDS MORE INVESTIGATION TO REPRODUCE and find the cause of the issue*
     - *Supporting evidence:* This is so verbose for screen reader users that they perceive it as multiple repetitions of the same information and don't listen all the way to the end when the error is finally mentioned. p3 was using JAWS on Windows with the Chrome browser.
 
+
 1. Try to **fix announcing issues with JAWS where it says "has popup" for the State/Province/Region and Postal code text fields**. --> *Try to FIX this*
     - *Supporting evidence:* One screen reader user (JAWS on desktop) reported that the State/Province/Region (as long as "United States" isn't selected in the Country field) and Postal code fields said "has pop up", even though they're both text fields.
 
@@ -423,7 +424,7 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
 
 
 #### For the Request Personal Records form
-11. Explore **prefilling the Veteran's name and address**, which we know once they've signed in. --> *Jeana is working on this*
+13. Explore **prefilling the Veteran's name and address**, which we know once they've signed in. --> *Jeana is working on this*
     - *Supporting evidence:* This suggestion came from a participant, who wanted to type less but was willing to make corrections if any information was wrong.
 
 1. Consider adding a **description of what a "VA regional office" is**. --> *CONSIDER doing*
