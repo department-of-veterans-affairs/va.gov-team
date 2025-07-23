@@ -408,7 +408,7 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
 6. In the draft cards under "Benefit applications and forms", **make the "Continue your application" link scale up with magnification** like everything else on the card already does. --> *NEEDS MORE INVESTIGATION TO REPRODUCE the issue and determine the cause*
     - *Supporting evidence:* One participant using a screen magnifier found it difficult to read this link because its font didn't magnify like all the other text on the card and so it was small and hard to read. p13 was on a Windows computer using the Edge browser and Microsoft Zoom Magnification at least 300%.
 
-1. **Consider renaming the heading "Benefit applications and forms" to "Applications and forms"** or something else similarly short so that it will be more accessible to screen magnifier users. --> *Try to FIX; was requested in a ticket (find it and check status)*  
+1. **Consider renaming the heading "Benefit applications and forms" to "Applications and forms"** or something else similarly short so that it will be more accessible to screen magnifier users. --> *Try to FIX; the wording "Active forms" was suggested in a [Collab Cycle ticket for My VA](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109779)*
    - *Supporting evidence:* One participant using a screen magnifier didn't recognize that his draft form was under "Benefit applications and forms" because all he saw was "Benefit applications".
 
 ### For the Request Personal Records form
@@ -432,36 +432,36 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
     - *Supporting evidence:* Focus was on the Month field, but there was also a blinking cursor in the previous field (last name). When the participant typed a number for the date of birth month, the number was entered into the last name field. And when she was done picking the Month, focus was moved to the very top of the page. 
 
 1. Streamline error handling on the Review/Submit page for the ***Your full name* field so that (1) focus goes to the name field (*vs*. the top of the component), and (2) the error message is announced immediately** (*vs*. after two repetitions of most of the text in the component). 
-    - *Supporting evidence:* This is so verbose for screen reader users that they perceive it as multiple repetitions of the same information and don't listen all the way to the end when the error is finally mentioned.
+    - *Supporting evidence:* This is so verbose for screen reader users that they perceive it as multiple repetitions of the same information and don't listen all the way to the end when the error is finally mentioned. p3 was using JAWS on Windows with the Chrome browser.
 
 1. **On the Review/Submit page, consider shortening the text to be less redundant and less repetitive for screen reader users.**
-    - *Supporting evidence:* The verbose text "Statement of truth. I confirm that the identifying information in this form is accurate and has been represented correctly." is read 3 times by JAWS, and the text "I certify the information above is correct and true to the best of my knowledge and belief." is read 2 times. This is while the screenreader user is going through the form the first time--not because of any errors generated--and is specified in the code so that all users hear it, regardless of how they navigated to the field (by tabs or arrows).
+    - *Supporting evidence:* The verbose text "Statement of truth. I confirm that the identifying information in this form is accurate and has been represented correctly." is read 3 times by JAWS, and the text "I certify the information above is correct and true to the best of my knowledge and belief." is read 2 times. This is while the screenreader user is going through the form the first time--not because of any errors generated--and is specified in the code so that all users hear it, regardless of how they navigated to the field (by tabs or arrows). p3 was using JAWS on Windows with the Chrome browser.
 
 1. Consider **differentiating the unauth and auth versions of the form intro page so they don't look exactly the same** except for the very bottom. --> *Consider skipping the auth version of the form intro page if the user signs in from the unauth version of the form intro page*
     - *Supporting evidence:* Participants found this disorienting after they signed in but then seemed to still be on the same page. Screen reader users had to listen to the entire page being read out a second time, unlike sighted users who can visually scan to see that most of it's the same and not read every word.
 
 #### Fix these usability issues:
-17. Explore **prefilling the Veteran's name and address**, which we know once they've signed in. 
+17. Explore **prefilling the Veteran's name and address**, which we know once they've signed in. --> *Jeana is working on this*
     - *Supporting evidence:* This suggestion came from a participant, who wanted to type less but was willing to make corrections if any information was wrong.
 
 1. At the **top of the form's intro page, consider simplifying the text directly under the H1**: 
     > "Freedom of Information Act (FOIA) or Privacy Act (PA) Request (VA Form 20-10206)"
     - --> *NOT POSSIBLE TO FIX because this is the legal name of the form, which we are required to place underneath the plain language name of the form*
-    - *Supporting evidence:* One participant was confused by "Freedom of Information Act (FOIA)" right underneath the name of the form on the intro page where they expected to see something about the Request personal records form.
+    - *Supporting evidence:* One participant was confused by "Freedom of Information Act (FOIA)" right underneath the name of the form on the intro page where they expected to see something about the Request personal records form. This is a disconnect between the plain language title of the form in the heading and the full title of the form in the subtitle.
 
-1. **Fix the postal code field so it will accept a valid autofill suggestion without returning an error** ("Enter a ZIP code"). This is a known issue with autofilling with a coding workaround in [this ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/2668).
+1. **Fix the postal code field so it will accept a valid autofill suggestion without returning an error** ("Enter a ZIP code"). This is a known issue with autofilling with a coding workaround in [this ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/2668).  --> *BUG to fix*
     - *Supporting evidence:* One participant accepted the (correct) autofill suggestion from their phone for their zip code, and the form gave an error.
 
-1. Consider adding some **help text that says what the "VA file number" is**.
+1. Consider adding some **help text that says what the "VA file number" is**. --> *CONSIDER doing*
     - *Supporting evidence:* Four participants didn't know what a "VA file number", why you might want to use one, and how you would find it.
 
-1. Consider adding a **description of what a "VA regional office" is**. 
+1. Consider adding a **description of what a "VA regional office" is**. --> *CONSIDER doing*
     - *Supporting evidence:* Three participants were confused by the field and skipped it. One didn't know whether to enter their regional office because they go to a clinic in a different region, and whether it should be a clinic or a hospital.
 
-1. Consider adding an **explanation or disclaimer about how the VA can provide military records**. 
+1. Consider adding an **explanation or disclaimer about how the VA can provide military records**. --> *CONSIDER and work with Content team*
     - *Supporting evidence:* Two participants questioned the ability to request your military records through the VA. One of them had military records previously that the VA was unable to access. The other participant was concerned about privacy because he thought that VA wasn't supposed to know about some things from the military. 
 
-1. Consider the design suggestion: The **error message for SSN validation could provide more information**. Instead of saying that it needs 9 digits, it could also say how many digits you entered: "You entered 8 digits for your social security number, but you need 9 digits."
+1. Consider the design suggestion: The **error message for SSN validation could provide more information**. Instead of saying that it needs 9 digits, it could also say how many digits you entered: "You entered 8 digits for your social security number, but you need 9 digits." --> *CONSIDER doing*
      - *Supporting evidence:* Participants were confused when they thought they entered 9 digits but actually hadn't. This issue may be less of an issue when users enter their actual SSN, rather than a fake one for the research session.
 
 
