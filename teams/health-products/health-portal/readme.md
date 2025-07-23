@@ -9,4 +9,5 @@ If you have questions, don't hesitate to reach out to one of the team members on
 
 - [Get to know the team, what we do, about our products, and about our stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/health-portal-team.md)
 - [Learn about how we work](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/how-we-work.md)
+- [Roles and Responsibilities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/roles-responsibilities.md)
 - [Terminology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/terminology.md)
