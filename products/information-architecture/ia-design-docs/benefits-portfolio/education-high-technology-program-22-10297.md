@@ -1,5 +1,5 @@
 # IA Design for High Technology Program -- VA form 22-10297 
-**STATUS: In progress**
+**STATUS: Complete**
 
 **Team:** VEBT
 
