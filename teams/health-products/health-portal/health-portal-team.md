@@ -24,6 +24,7 @@ The My HealtheVet on VA.gov team’s mission is to simplify Veterans’ health e
 - Product - Medical Records: Marci McGuire
 - Product - Medications: Kay Lawyer
 - Design: Kristen McConnell
+- Design - Messaging: Becky Phung
 - Research: Robyn Singleton
 - Engineering: Mark Dewey, Adrian Rollett, Steve Mason
 - Mobile Feature Support: Michelle Middaugh
