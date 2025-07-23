@@ -154,7 +154,15 @@ There are no validation use cases for this feature.
 
 </details>
 
+<details><summary>User has no disability rating</summary>
 
+- **Use case:** When a user does not have a disability rating, the text in the section changes..
+- **Status code:** None
+- **Format:** See designs
+- [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=926-11992&t=IxDeELaasWg4dcVS-1)
+- **Content:** See designs
+
+</details>
 
 ### Errors
 
