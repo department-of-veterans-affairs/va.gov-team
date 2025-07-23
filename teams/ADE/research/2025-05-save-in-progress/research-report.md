@@ -420,8 +420,15 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
 1. Consider the design suggestion: The **error message for SSN validation could provide more information**. Instead of saying that it needs 9 digits, it could also say how many digits you entered: "You entered 8 digits for your social security number, but you need 9 digits." --> *CONSIDER doing*
      - *Supporting evidence:* Participants were confused when they thought they entered 9 digits but actually hadn't. This issue may be less of an issue when users enter their actual SSN, rather than a fake one for the research session.
 
+#### For the My VA team
+11. In the draft cards under "Benefit applications and forms", **make the "Continue your application" link scale up with magnification** like everything else on the card already does. --> *NEEDS MORE INVESTIGATION TO REPRODUCE and find the cause of the issue* 
+- *Supporting evidence*: One participant using a screen magnifier found it difficult to read this link because its font didn't magnify like all the other text on the card and so it was small and hard to read. p13 was on a Windows computer using the Edge browser and Microsoft Zoom Magnification at least 300%.
+
+12. Consider **renaming the header "Benefit applications and forms" to** "Applications and forms" or **something else similarly short** so that it will be more accessible to screen magnifier users. --> *In a [Collab Cycle ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109779), the phrase "Active forms" was one content suggestion*
+- *Supporting evidence*: One participant using a screen magnifier didn't recognize that his draft form was under "Benefit applications and forms" because all he saw was "Benefit applications".
+
 #### For the Request Personal Records form
-11. Explore **prefilling the Veteran's name and address**, which we know once they've signed in. --> *Jeana is working on this*
+13. Explore **prefilling the Veteran's name and address**, which we know once they've signed in. --> *Jeana is working on this*
     - *Supporting evidence:* This suggestion came from a participant, who wanted to type less but was willing to make corrections if any information was wrong.
 
 1. Consider adding a **description of what a "VA regional office" is**. --> *CONSIDER doing*
@@ -433,7 +440,7 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
 
 ### Not possible to fix
 
-14. Investigate the **form navigation/focus issues that 2 screen reader users had while using VoiceOver on iPhones with the Safari** web browser in which focus kept jumping to the top of the page or to the Safari controls below the page after almost every field. --> *NOT POSSIBLE TO FIX because of a [known bug with VoiceOver and Safari](https://webaim.org/discussion/mail_thread?thread=7141)*
+16. Investigate the **form navigation/focus issues that 2 screen reader users had while using VoiceOver on iPhones with the Safari** web browser in which focus kept jumping to the top of the page or to the Safari controls below the page after almost every field. --> *NOT POSSIBLE TO FIX because of a [known bug with VoiceOver and Safari](https://webaim.org/discussion/mail_thread?thread=7141)*
 
     - *Supporting evidence:* These focus issues made it very difficult for 2 mobile screen reader users to fill out the form. One of them continued using Safari, and the other gave up and switched to Chrome. For example, focus was on the Month field, but there was also a blinking cursor in the previous field (last name). When the participant typed a number for the date of birth month, the number was entered into the last name field. And when she was done picking the Month, focus was moved to the very top of the page. 
 
@@ -456,7 +463,7 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
 
 
 ### No action for now but FYI
-20. **Consider whether having many short pages in a form is preferable to a smaller number of longer pages**. Be aware of the feedback that some Veterans dislike VA forms having so many short pages. 
+22. **Consider whether having many short pages in a form is preferable to a smaller number of longer pages**. Be aware of the feedback that some Veterans dislike VA forms having so many short pages. 
     - *Supporting evidence:* 3 of 11 participants (1 using a screen reader on desktop, 1 using a screen magnifier on desktop, and 1 using no assistive tech on a phone) said that the form had too many short pages and that they preferred fewer longer pages with related information on the same page. The screen magnifier user said that having to repeatedly click _Continue_ to see the next question was annoying because it's more of his screen reader that he has to listen to.
 
 
