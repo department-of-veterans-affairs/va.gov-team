@@ -225,8 +225,10 @@ PDF Statements
 * Talk to me about your monthly statements for copays
     * Were you aware of them?
     * Do you read them now? If so, what purpose do they serve? What are you doing with them?
+    * Are you accessing earlier statements?
     * Walk me through exploring them in the prototype here.
     * What are your thoughts on the PDFs here?
+    * If you wanted to find earlier statements, how would you do that?
 
 Help with bills
 * We'll pretend that this bill _(point to specific bill)_ is wrong – you never attended that appointment. What would you do?
@@ -378,8 +380,10 @@ _(with payment option)_ ✅ 💵 ✅
 * _(if user has not brought them up already)_ Talk to me about your monthly statements for copays
     * Were you aware of them?
     * Do you read them now? If so, what purpose do they serve? What are you doing with them?
+    * Are you looking at earlier statements?
     * Walk me through exploring them in the prototype here.
     * What are your thoughts on the PDFs here?
+    * If you wanted to locate earlier statements, how would you do that?
 * Now that we’ve gone through this section, any other thoughts you’d like to share on what is here and how the information is presented?
 * What are your thoughts on how the sections and pages are labeled?
     * Are there other titles that would make more sense to you?
