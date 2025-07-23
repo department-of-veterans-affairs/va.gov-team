@@ -6,7 +6,7 @@ We've created this orientation checklist to help you learn about our team, what 
 
 If you have questions, don't hesitate to reach out to your OCTO practice lead, [NAME] or your OCTO product lead [NAME].
 
-## Part 1: Before you have VA email and network access: 🥚
+## Part 1: Publicly accessible info
 - [ ] [Get to know the team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/health-portal-team.md)
 - [ ] [Learn about how we work](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/how-we-work.md)
 - [ ] Schedule 15 min to meet with your new team mates
@@ -79,6 +79,12 @@ If you have questions, don't hesitate to reach out to your OCTO practice lead, [
 - [ ] [Take a look at the VA GitHub Handbook](https://department-of-veterans-affairs.github.io/github-handbook/)  ‼️Note that as of July 2025, [VA has begun the process of migrating VA GitHub resources to GitHub Enterprise Cloud](https://department-of-veterans-affairs.github.io/github-handbook/migrations)
 - [ ] [Check out some helpful info about creating documents in GitHub](https://docs.github.com/en)
 
-## Part 2: Once you have a VA email address and can access the VA Network: 🐣
- - Check out our [#health-portal-onboarding](https://dsva.slack.com/archives/C093QBTQ56W) Slack channel to continue onboarding
+VA Platform General Orientation
+
+VA Platform practice-specific orientation
+- Accessibility
+- Engineering
+- Product
+- UX
+- 
   
