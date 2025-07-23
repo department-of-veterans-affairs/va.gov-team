@@ -43,26 +43,26 @@ We will briefly discuss adding forms that are from either of the categories abov
 | Report of Income from Property or Business       | 21P-4185-UPLOAD    |❌              | ✅                         | ✅ |
 | Election of Compensation in Lieu of Retired Pay<br/> or Waiver of Retired Pay to Secure Compensation<br/>from Department of Veterans Affairs (38 U.S.C. 5304(a)-5305) | 21-651-UPLOAD |❌| ✅ | ✅ |
 | Application for Benefits for a Qualifying Veteran's Child Born with Disabilities | 21-0304-UPLOAD | ❌      | ✅    | ✅ |
-| Certification of School Attendance or Termination| 21-8960-UPLOAD     |❌              |                            | ✅ |
+| Certification of School Attendance or Termination| 21-8960-UPLOAD     |❌              |    ✅                      | ✅ |
 | Court Appointed Fiduciary's Account              | 21P-4706c-UPLOAD   |❌              |                            | ✅ |
-| Employment Questionnaire                         | 21-4140-UPLOAD     |❌              |                            | ✅ |
-| Certificate of Balance on Deposit and Authorization to Disclose Financial Records | 21P-4718a  |❌              |   | ✅ |
-| Notice to Department of Veterans Affairs of Veteran or Beneficiary Incarcerated in Penal Institution | 21-4193-UPLOAD |❌ |   | ✅ |
-| Information Regarding Apportionment of Beneficiary's Award | 21-0788-UPLOAD |❌        |                            | ✅ |
-| Notice of Waiver of VA Compensation or Pension to Receive Military Pay and Allowances | 21-8951-2-UPLOAD |❌      | | ✅ |
-| School Attendance Report                         | 21-674b-UPLOAD     |❌              |                            | ✅ |
-| Examination for Housebound Status or Permanent Need for Regular Aid and Attendance | 21-2680-UPLOAD |❌      |      | ✅ |
+| Employment Questionnaire                         | 21-4140-UPLOAD     |❌              |    ✅                      | ✅ |
+| Certificate of Balance on Deposit and Authorization to Disclose Financial Records | 21P-4718a  |❌            |  ✅ | ✅ |
+| Notice to Department of Veterans Affairs of Veteran or Beneficiary Incarcerated in Penal Institution | 21-4193-UPLOAD |❌ | ✅ | ✅ |
+| Information Regarding Apportionment of Beneficiary's Award | 21-0788-UPLOAD |❌        |    ✅                      | ✅ |
+| Notice of Waiver of VA Compensation or Pension to Receive Military Pay and Allowances | 21-8951-2-UPLOAD |❌   | ✅ | ✅ |
+| School Attendance Report                         | 21-674b-UPLOAD     |❌              |      ✅                    | ✅ |
+| Examination for Housebound Status or Permanent Need for Regular Aid and Attendance | 21-2680-UPLOAD |❌      |  ✅  | ✅ |
 | Request for Nursing Home Information in Connection with Claim for Aid and Attendance | 21-0779-UPLOAD | ❌   | ✅   | ✅ |
-| Request for Employment Information in Connection with Claim for Disability Benefits | 21-4192-UPLOAD | ❌    |      | ✅ |
-| Statement of Dependency of Parent(s)             | 21-509-UPLOAD      |❌              |                            | ✅ |
-| Veteran's Application for Increased Compensation Based on Unemployability | 21-8940-UPLOAD | ❌              |      | ✅ |
-| Improved Pension Eligibility Verification Report (Veteran with No Children) | 21P-0516-1-UPLOAD | ❌            |   | ✅ |
-| Improved Pension Eligibility Verification Report (Veteran with Children) | 21P-0517-1-UPLOAD | ❌    |              | ✅ |
-| Improved Pension Eligibility Verification Report (Surviving Spouse with No Children) |  21P-0518-1-UPLOAD | ❌    | | ✅ |
-| Improved Pension Eligibility Verification Report (Child or Children) | 21P-0519C-1-UPLOAD | ❌ |                    | ✅ |
-| Improved Pension Eligibility Verification Report (Surviving Spouse with Children) | 21P-0519S-1-UPLOAD | ❌    |    | ✅ |
-| State Application for Interment Allowance (Under 38 U.S.C. Chapter 23) | 21P-530a-UPLOAD  | ❌ |                    | ✅ |
-| Request for Details of Expenses                  | 21P-8049-UPLOAD    |❌              |                            | ✅ |
+| Request for Employment Information in Connection with Claim for Disability Benefits | 21-4192-UPLOAD | ❌    |  ✅  | ✅ |
+| Statement of Dependency of Parent(s)             | 21-509-UPLOAD      |❌              |   ✅                       | ✅ |
+| Veteran's Application for Increased Compensation Based on Unemployability | 21-8940-UPLOAD | ❌         |  ✅       | ✅ |
+| Improved Pension Eligibility Verification Report (Veteran with No Children) | 21P-0516-1-UPLOAD | ❌         |  ✅  | ✅ |
+| Improved Pension Eligibility Verification Report (Veteran with Children) | 21P-0517-1-UPLOAD | ❌    | ✅           | ✅ |
+| Improved Pension Eligibility Verification Report (Surviving Spouse with No Children) |  21P-0518-1-UPLOAD | ❌ | ✅ | ✅ |
+| Improved Pension Eligibility Verification Report (Child or Children) | 21P-0519C-1-UPLOAD | ❌ | ✅                 | ✅ |
+| Improved Pension Eligibility Verification Report (Surviving Spouse with Children) | 21P-0519S-1-UPLOAD | ❌    |✅  | ✅ |
+| State Application for Interment Allowance (Under 38 U.S.C. Chapter 23) | 21P-530a-UPLOAD  | ❌ |  ✅                | ✅ |
+| Request for Details of Expenses                  | 21P-8049-UPLOAD    |❌              |  ✅                        | ✅ |
 
 
 #### Including Other Lighhouse Benefits Inatake API forms:
