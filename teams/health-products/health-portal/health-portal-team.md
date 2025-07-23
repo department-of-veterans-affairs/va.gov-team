@@ -137,13 +137,21 @@ During the transition period, the Medications team and Medical Devices team will
 - Mobile Platform: 
 - Related: Office of Connected Care (OCC) has a portfolio of ~70 mobile apps (1/2 of these are for Veterans). 
 
-### Account Experience Crew (authenticated experience)
-Crew chief: Chante Lantos-Swett
--	My VA (Chante Llantos Sweet)
--	Profile (Chante Llantos Sweet)
--	VA Notify (Dave Conlon)
--	VEText (Shane Elliott, Beverly Nelson)
--	VSP Identity (Samara Strauss)
+### Identity Crew
+- Product: Samara Strauss
+- Product: Tom Black
+- Content: Danielle Thierry
+
+### Core Veteran Experience Crew
+Crew lead: Dave Conlon
+-	VA Notify + Iterate, Innovate, & Run (IIR): Dave Conlon
+-	My VA and VA.gov profile: Chante Lantos-Swett
+-	VA.gov technical support team: Chante Lantos-Swett
+-	Medallia feedback surveys: Chante Lantos-Swett and Ryan Powers
+- VA Health and Benefits App: Ryan Thurlwell
+-	Debt products: Denise Coveyduc​
+-	Ask VA: Becky Phung
+-	Mobile feature support (MFS): Michelle Middaugh
 
 ### MHV Platform Team
 - TBD
@@ -214,7 +222,6 @@ Crew chief: Dave Conlon
 -	Sitewide navigation and IA (Mikki Northuis, information architect)
 -	Facilities (Dave Conlon, Michelle Middaugh)
 -	Laura Willwerth (content)
-
 
 ### OCTO Communities of Practice
 OCTO communities of practice provide guidance and support for practitioners across various projects.
