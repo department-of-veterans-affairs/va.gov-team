@@ -1,6 +1,61 @@
 ## CHAMPVA Claims biweekly stakeholder sync
 Every other Wednesday at 2:35pm ET
 
+### 06/25/25
+
+**Attendees:** Angela P., Arleen, Joie, Cindy, Melissa Premal, Andrea, Renata, Jamie, Rachel 
+
+**Agenda**
+- Confirm pdi and claim control number format
+- Confirm the screener question page and the claim identifying page content
+- Check in on volume: tripled in June compared to May
+
+**Notes**
+#### PDI’s and Claims Control number
+
+- The claim control is always 12 digits unless it is manually processed by a claims examiner then it will have a “M” followed by 11 digits
+
+- PDI number: Consists of the date,  2 letters, the and the rest of the number are listed on the PDI
+For example: 02/26/2025-CM0010031-019-001
+
+- The fax number is the largest. Melissa gave examples of different PDI numbers already:
+  - CM = Mail 02/26/2025-CM0010031-019-00
+  - VA= [VA.gov](VA.gov) ex: 02/26/2025-VA1753294097390-001
+  - PG = email/PEGA Digital Upload : ex of PG 01/16/2025-PG127559-001
+  - FX = Fax: 02/26/2025-FX1753274595643601199-001
+
+- Can we shorten these numbers any for an easier UX? CHAMPVA Just needs the 2 letters, the middle number, and the numbers after the dash: Users do not need to include the date in the PDI number
+
+
+- Is there a consistent amount of digits after the 2 letters? No, it can vary. Each set of letters has a certain amount of digits. Fax and VA won’t change the amount of digits
+PG and CM will eventually have more digits as the process more forms
+
+- Premal: Needing users to find and enter the number is very MVP and not the best UX
+
+- PEGA to provide error log so we can detect user data entry problems
+
+
+#### Confirm the screener question page and the claim identifying page content
+
+- From Engineering: controlling the amount of numbers required via a dropdown selection is difficult
+
+- What if they have a medical and pharmacy? They would go back through the claim resubmission form again for MVP. This is in parity with the original claim submission.
+
+- CHAMPVA thinks the proposed workflow should work well for single claims
+
+
+- Keep it CVA reopen (bene response) as is. Attachments should be Med Docs
+
+- Cindy changed the way Pega reads, they are just reading the JSON file now
+- CHAMVPA wants the same doctype merged (on one line) even its for different claims as long as it’s for the same bene
+
+
+#### Check in on volume: tripled in June compared to May
+
+- CHAMVPA CLAIMS submissions tripled in June compared to May. Cindy hasn’t reported any issue. Melissa reported an issue that a Claims Examiner has to open each line one by one. They would rather have all of the same doctypes per bene as one document. Michael prefers to have PEGA merge the doctypes
+
+- Premal wants to lock down an MVP. We can make it perfect later. Merging the doc types would be a iteration post MVP and  we would like to have this done for all forms
+
 ### 06/11/25
 
 **Attendees:** Angela C., Angela P., Arleen, Joie, Nadia, Amanda, Premal, Andrea, Renata, Jamie, Rachel 
