@@ -40,16 +40,14 @@ To provide an easy and conventient path for Caregivers and for Veterans/Represet
 Where screen designs and prototypes can be created.   
 - [Link to Health Enorllment Project Room](https://www.figma.com/files/team/1278375444205744118/project/175597680/Healthcare-Benefits-Applications?fuid=1070808939264105970)
 
-- Files separated by Product, Shared Content and Archive
+- Files separated first by Product and then by Production (Source of Truth), Working File, Epic Files and an Archive.
 
-File Organization + Naming
-- The pages listed at the top under the _Source of Truth_ section header should always match what is in production
+**File organization and naming for pages**
 - Under the _Work + Tickets_ header, include a short name and the ticket number when naming the page.
 - There are additional naming conventions noted in the [Figma file notes page](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=3347-33475&t=gfTdB6dw3usNzHme-0)
 
 #### Mural 
 Used for research synthesis, user flows and other collaboration or presentation needs. 
-
 - [1010 Room](https://app.mural.co/invitation/room/1670613238628?code=a67c337f0cd645d18b1b99d77f3743e1&sender=uadf1ed7fe7c76f0914967329)
 - In the 1010 Health Enrollment Mural Room, there are folders organized by product and one for team use.
 
@@ -76,18 +74,15 @@ Tickets
 
 ### Meeting Cadence
 
-Weekly Design Sync
-
-- Mondays at 2:30pm ET / 11:30am PT
+Weekly Design Sync (Mondays)
 - [Meeting agenda docs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/ux-team/design-weekly-sync-agenda.md)
 
 
-Designer Pomodoro Sessions (Mondays and Wednesdays)
+Designer Pomodoro Session (Thursdays)
 
   
 
-Content Sync with CAIA
-- Weekly on Fridays at 2pm ET / 11am PT
+Content Sync with C/IA (Wednesdays)
 
 
 
@@ -115,8 +110,8 @@ Content Sync with CAIA
 - Renata Keck |  GH "RenataKeck" - UX Design/Research
 - Hieu Vo | GH "IMHieuVo" - UX Design/Research
 
-#### OCTO Design Lead:
-
+#### VA OCTO Design Lead:
+- Amanda Klausmeier | 
 
 ---
 
