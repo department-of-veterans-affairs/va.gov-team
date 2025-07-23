@@ -19,29 +19,29 @@ If you represent multiple products, please describe the relationship between the
 What is the expected duration of your project? This information helps us understand how our processes need to adapt
 
 ## AWS Resources
-List AWS services used
-Describe named instances of each service used
-Which of your resources handle PII? List the types of PII
-Do you utilize any other cloud resources beyond VA.gov?
+- List AWS services used
+- Describe named instances of each service used
+- Which of your resources handle PII? List the types of PII
+- Do you utilize any other cloud resources beyond VA.gov?
 
 ## Repos
-List repos maintained by your team, provide links
-List repos used by your team, provide links
-Do you have a POC for each repo? Please list – Individuals are preferred, but groups are acceptable
-List other groups you know use your repos
+- List repos maintained by your team, provide links
+- List repos used by your team, provide links
+- Do you have a POC for each repo? Please list – Individuals are preferred, but groups are acceptable
+- List other groups you know use your repos
  
 ## Tools
-List CI/CD or Infrastructure as Code tools
-Describe where each tool is hosted and if they handle PII
-List software included in deployment or generate SBOM
-List all packages/plugins/modules/gems/etc. Include version numbers
+- List CI/CD or Infrastructure as Code tools
+- Describe where each tool is hosted and if they handle PII
+- List software included in deployment or generate SBOM
+- List all packages/plugins/modules/gems/etc. Include version numbers
  
 ## Connections
-List the connections your team makes/maintains with systems outside the Platform AWS Environment
-Are these connections Internal or External to the VA?
-Do you have a POC? Please list
-Describe the encryption used for the connection in transit (e.g., Not Encrypted, TLS 1.2, TLS 1.3, mTLS). Specify the certificate source if applicable (e.g., AWS ACM, Let's Encrypt, self-signed)
-List the types of PII shared (in each direction) with this connection
+- List the connections your team makes/maintains with systems outside the Platform AWS Environment
+- Are these connections Internal or External to the VA?
+- Do you have a POC? Please list
+- Describe the encryption used for the connection in transit (e.g., Not Encrypted, TLS 1.2, TLS 1.3, mTLS). Specify the certificate source if applicable (e.g., AWS ACM, Let's Encrypt, self-signed)
+- List the types of PII shared (in each direction) with this connection
 Do you have an MOU, ISA, IAA, or other formal agreement that documents this connection? If so, please provide it
 
 ## Data flow diagram
