@@ -383,7 +383,7 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
 1. **Revise the Save in Progress messaging to communicate more effectively that we're saving the user's form information as it's being entered/updated**. We need to revisit how we communicate what the form is doing so that we inform every user without being annoying.
    - *Supporting evidence:* We're saving automatically with every edit, which participants asked for, but most didn't realize that was actually happening because they didn't see or understand the informational alerts.   
    - Consider the suggestions below:
-      1. Messaging should be better integrated into the user's interaction flow with the form. It's possible that no messaging will be effective before the user has started filling out information, so we should find somewhere other than the intro page and the top of the first page of the form. Users may be more receptive to an alert that shows up later while they're editing and then pause, such as right after they click the *Continue* button. 
+      1. Messaging should be better integrated into the user's interaction flow with the form. It's possible that no messaging will be effective before the user has started filling out information, so we should find somewhere other than the intro page and the top of the first page of the form. Users may be more receptive to an alert that shows up later while they're editing and then pause, such as right after they click the *Continue* button. --> *Consider adding a short interstitial page that explains save in progress between the intro page and the first page of the form*
       1. All messaging must be positioned so that it's accessible to AT users. All screen reader users should be able to hear the messaging, even if they start navigating pages from the H1. Messaging should also be aligned with the left margin so that it's most likely to be visible on magnified screens.
       1. Messaging could be reworded for clarity and to lead with what's most important at the beginning to attract attention and ensure visibility to users of both screen readers and screen magnifiers. For example, we could change "We'll save your request on every change" to "Saving will happen automatically..." or "Your information will be saved..."
            1. If we want a message that shows up with every automatic save, it could be very short (e.g., "Saving..." or "Autosaved now"). 
@@ -434,7 +434,7 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
 1. **On the Review/Submit page, consider shortening the text to be less redundant and less repetitive for screen reader users.**
     - *Supporting evidence:* The verbose text "Statement of truth. I confirm that the identifying information in this form is accurate and has been represented correctly." is read 3 times by JAWS, and the text "I certify the information above is correct and true to the best of my knowledge and belief." is read 2 times. This is while the screenreader user is going through the form the first time--not because of any errors generated--and is specified in the code so that all users hear it, regardless of how they navigated to the field (by tabs or arrows).
 
-1. Consider **differentiating the unauth and auth versions of the form intro page so they don't look exactly the same** except for the very bottom.
+1. Consider **differentiating the unauth and auth versions of the form intro page so they don't look exactly the same** except for the very bottom. --> *Consider skipping the auth version of the form intro page if the user signs in from the unauth version of the form intro page*
     - *Supporting evidence:* Participants found this disorienting after they signed in but then seemed to still be on the same page. Screen reader users had to listen to the entire page being read out a second time, unlike sighted users who can visually scan to see that most of it's the same and not read every word.
 
 #### Fix these usability issues:
@@ -472,8 +472,9 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
 
 ## Further research needed
 
-1. Check analytics for the existing "Finish this request later" link on VA forms to see how much it's being used, but unfortunately it's not currently being tracked (only autosaves are currently tracked). Request that the "Finish this request later" link be instrumented for analytics, and then see if changing this link to a button (as tested in this study) results in more clicks.
-1. If the Save in Progress messaging gets revised as a result of this research, another round of usability testing would be useful to see if it works better than the version tested in this study. For a more realistic user experience, we could simulate the timeout experience to sign out the user. 
+1. After the Save in Progress messaging gets revised as a result of this research, conduct another round of usability testing to see if it works better than the version tested in this study. For a more realistic user experience, we could simulate the timeout experience by signing out the user. 
+1. Check the newly added analytics for the existing "Finish this request later" link on VA forms to see how much it's being used. Then see if changing this link to a button (as tested in this study) results in more clicks.
+
 
 ## Appendix
 [Research plan](./research-plan.md)
