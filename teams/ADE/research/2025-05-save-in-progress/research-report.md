@@ -468,10 +468,8 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
 
 ## Next Steps
 
-1. Discuss findings and recommendations with Jeana Clark, the ADE team, and the accessibility specialists community of practice.
-1. Discuss findings and recommendations with Matt Dingee.
+1. Discuss findings and recommendations with Matt Dingee and the Design System and Forms Library team.
 1. Reach out to the My VA team to share relevant findings and recommendations.
-1. Reach out to the analytics team about instrumenting the current "Finish this request later" link.
 
 
 ## Further research needed
