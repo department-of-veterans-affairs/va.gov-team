@@ -391,25 +391,26 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
            1. If we want a message that shows up with every automatic save, it could be very short (e.g., "Saving..." or "Autosaved now"). 
       1. Consider relabeling the *Finish later* button to better align with the revised messaging.
 
+1. Consider **differentiating the unauth and auth versions of the form intro page so they don't look exactly the same** except for the very bottom. --> *Consider skipping the auth version of the form intro page if the user signs in from the unauth version of the form intro page*
+    - *Supporting evidence:* Participants found this disorienting after they signed in but then seemed to still be on the same page. Screen reader users had to listen to the entire page being read out a second time, unlike sighted users who can visually scan to see that most of it's the same and not read every word.
+
+1. **After you click *Finish later*, you should be able to sign out** in the Minimal header format, which is currently not possible. We should revert to the full VA.gov header for the authenticated intro page in order to enable signout. --> *This is a BUG that needs to be fixed*
+     - *Supporting evidence:* There's currently no way to sign out after you click *Finish later* and land on the intro page because you're still seeing only the Minimal header.
+
 1. **On the forms Review/Submit page, consider moving the "+" from the right margin to the left margin**. --> *Try to FIX this* 
      - *Supporting evidence:* A screen magnifier user didn't see the "+"'s to expand the accordions because they're so far to the right and there was no visual indication that there was anything there that needed scrolling. 
      - There is a [current proposal in the USWDS](https://github.com/uswds/uswds/discussions/6483) to move the open/close icon to the left. 
      - Other research studies with Veterans have reported issues with screen magnifier users being unable to see interactive elements that aren't on the left side of the screen (for example, see [this research finding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/home-page/research/2022-09-redesign-usability-round2/research-findings.md#5-there-may-be-an-accessibility-issue-for-screen-magnifier-users-with-buttons-on-the-far-right-side-of-web-pages)).
 
-1. **After you click *Finish later*, you should be able to sign out** in the Minimal header format, which is currently not possible. We should revert to the full VA.gov header for the authenticated intro page in order to enable signout. --> *This is a BUG that needs to be fixed*
-     - *Supporting evidence:* There's currently no way to sign out after you click *Finish later* and land on the intro page because you're still seeing only the Minimal header.
+1. **On the Review/Submit page, consider shortening the text to be less redundant and less repetitive for screen reader users.**  --> *NEEDS MORE INVESTIGATION TO REPRODUCE and find the cause of the issue* 
+    - *Supporting evidence:* The verbose text "Statement of truth. I confirm that the identifying information in this form is accurate and has been represented correctly." is read 3 times by JAWS, and the text "I certify the information above is correct and true to the best of my knowledge and belief." is read 2 times. This is while the screenreader user is going through the form the first time--not because of any errors generated--and is specified in the code so that all users hear it, regardless of how they navigated to the field (by tabs or arrows). p3 was using JAWS on Windows with the Chrome browser.
+
+1. Streamline error handling on the Review/Submit page for the ***Your full name* field so that (1) focus goes to the name field (*vs*. the top of the component), and (2) the error message is announced immediately** (*vs*. after two repetitions of most of the text in the component).  --> *NEEDS MORE INVESTIGATION TO REPRODUCE and find the cause of the issue*
+    - *Supporting evidence:* This is so verbose for screen reader users that they perceive it as multiple repetitions of the same information and don't listen all the way to the end when the error is finally mentioned. p3 was using JAWS on Windows with the Chrome browser.
 
 1. Try to **fix announcing issues with JAWS where it says "has popup" for the State/Province/Region and Postal code text fields**. --> *Try to FIX this*
     - *Supporting evidence:* One screen reader user (JAWS on desktop) reported that the State/Province/Region (as long as "United States" isn't selected in the Country field) and Postal code fields said "has pop up", even though they're both text fields.
 
-1. Streamline error handling on the Review/Submit page for the ***Your full name* field so that (1) focus goes to the name field (*vs*. the top of the component), and (2) the error message is announced immediately** (*vs*. after two repetitions of most of the text in the component).  --> *Try to FIX this*
-    - *Supporting evidence:* This is so verbose for screen reader users that they perceive it as multiple repetitions of the same information and don't listen all the way to the end when the error is finally mentioned. p3 was using JAWS on Windows with the Chrome browser.
-
-1. **On the Review/Submit page, consider shortening the text to be less redundant and less repetitive for screen reader users.**  --> *Try to FIX this*
-    - *Supporting evidence:* The verbose text "Statement of truth. I confirm that the identifying information in this form is accurate and has been represented correctly." is read 3 times by JAWS, and the text "I certify the information above is correct and true to the best of my knowledge and belief." is read 2 times. This is while the screenreader user is going through the form the first time--not because of any errors generated--and is specified in the code so that all users hear it, regardless of how they navigated to the field (by tabs or arrows). p3 was using JAWS on Windows with the Chrome browser.
-
-1. Consider **differentiating the unauth and auth versions of the form intro page so they don't look exactly the same** except for the very bottom. --> *Consider skipping the auth version of the form intro page if the user signs in from the unauth version of the form intro page*
-    - *Supporting evidence:* Participants found this disorienting after they signed in but then seemed to still be on the same page. Screen reader users had to listen to the entire page being read out a second time, unlike sighted users who can visually scan to see that most of it's the same and not read every word.
 
 1. **Fix the postal code field so it will accept a valid autofill suggestion without returning an error** ("Enter a ZIP code"). This is a known issue with autofilling with a coding workaround in [this ticket](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/2668).  --> *BUG to fix*
     - *Supporting evidence:* One participant accepted the (correct) autofill suggestion from their phone for their zip code, and the form gave an error.
@@ -420,15 +421,9 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
 1. Consider the design suggestion: The **error message for SSN validation could provide more information**. Instead of saying that it needs 9 digits, it could also say how many digits you entered: "You entered 8 digits for your social security number, but you need 9 digits." --> *CONSIDER doing*
      - *Supporting evidence:* Participants were confused when they thought they entered 9 digits but actually hadn't. This issue may be less of an issue when users enter their actual SSN, rather than a fake one for the research session.
 
-#### For the My VA team
-11. In the draft cards under "Benefit applications and forms", **make the "Continue your application" link scale up with magnification** like everything else on the card already does. --> *NEEDS MORE INVESTIGATION TO REPRODUCE and find the cause of the issue* 
-    - *Supporting evidence*: One participant using a screen magnifier found it difficult to read this link because its font didn't magnify like all the other text on the card and so it was small and hard to read. p13 was on a Windows computer using the Edge browser and Microsoft Zoom Magnification at least 300%.
-
-1. Consider **renaming the header "Benefit applications and forms" to** "Applications and forms" or **something else similarly short** so that it will be more accessible to screen magnifier users. --> *In a [Collab Cycle ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109779), the phrase "Active forms" was one content suggestion*
-    - *Supporting evidence*: One participant using a screen magnifier didn't recognize that his draft form was under "Benefit applications and forms" because all he saw was "Benefit applications".
 
 #### For the Request Personal Records form
-13. Explore **prefilling the Veteran's name and address**, which we know once they've signed in. --> *Jeana is working on this*
+11. Explore **prefilling the Veteran's name and address**, which we know once they've signed in. --> *Jeana is working on this*
     - *Supporting evidence:* This suggestion came from a participant, who wanted to type less but was willing to make corrections if any information was wrong.
 
 1. Consider adding a **description of what a "VA regional office" is**. --> *CONSIDER doing*
@@ -437,6 +432,12 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
 1. Consider adding an **explanation or disclaimer about how the VA can provide military records**. --> *CONSIDER and work with Content team*
     - *Supporting evidence:* Two participants questioned the ability to request your military records through the VA. One of them had military records previously that the VA was unable to access. The other participant was concerned about privacy because he thought that VA wasn't supposed to know about some things from the military. 
 
+#### For the My VA team
+14. In the draft cards under "Benefit applications and forms", **make the "Continue your application" link scale up with magnification** like everything else on the card already does. --> *NEEDS MORE INVESTIGATION TO REPRODUCE and find the cause of the issue* 
+    - *Supporting evidence*: One participant using a screen magnifier found it difficult to read this link because its font didn't magnify like all the other text on the card and so it was small and hard to read. p13 was on a Windows computer using the Edge browser and Microsoft Zoom Magnification at least 300%.
+
+1. Consider **renaming the header "Benefit applications and forms" to** "Applications and forms" or **something else similarly short** so that it will be more accessible to screen magnifier users. --> *In a [Collab Cycle ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109779), the phrase "Active forms" was one content suggestion*
+    - *Supporting evidence*: One participant using a screen magnifier didn't recognize that his draft form was under "Benefit applications and forms" because all he saw was "Benefit applications".
 
 ### Not possible to fix
 
