@@ -1,4 +1,4 @@
-# 2025 Q4 survey data findings
+# 2025 Q1 survey data findings
 
 **Office of the CTO - Digital Experience (OCTO-DE), Sign-in Transition, Identity Experience Team**
 
@@ -16,7 +16,7 @@
 - [Survey quotes](#Survey-quotes)
 
 ## Background
-This research considered the Medallia intercept survey, Medallia feedback survey, and the MyVA411 Call Center data from October 1, 2024 to November 30, 2025. This is part of our team's regular checkin with quantitatitve data.
+This research considered the Medallia intercept survey, Medallia feedback survey, and the MyVA411 Call Center data from January 1, 2025 to March 30, 2025. This is part of our team's regular checkin with quantitatitve data.
 
 
 ## Methodology 
