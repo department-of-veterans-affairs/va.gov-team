@@ -342,13 +342,6 @@ _(no payment option)_ ❌ 💵 ❌
 * If you pay off a copay, would you want to see it? 
     * Here or anywhere else?
     * Are there any here that you believe are paid off? How clear is it?
-* Let’s pretend you see an error – _[point to a specific copay]_ one of the copays is for an appointment that you did not have. What would you do?
-    * What sort of info or guidance might you look for?
-* Now we’re going to pretend that you don’t believe you’re going to have the money to pay the most recent copay bills. Walk me through what you would do in this situation.
-    * What sort of info or guidance might you look for?
-    * Is it clear when you would have to start something?
-    * What are your thoughts on opening new windows for the information?
-* Were you aware of these options for financial help? If so, how did you learn?
 * What else would you want to do here with regards to your copays?
     * How would you expect to make payments?
     * What are your thoughts on this new section not having a payment option?
@@ -367,6 +360,14 @@ _(with payment option)_ ✅ 💵 ✅
 * If you knew you also have benefit overpayment debt, where would you go to find that?
     * Had you noticed a reference to it on the copayments page?
 -->
+* Let’s pretend you see an error – _[point to a specific copay]_ one of the copays is for an appointment that you did not have. What would you do?
+    * What sort of info or guidance might you look for?
+* Now we’re going to pretend that you don’t believe you’re going to have the money to pay the most recent copay bills. Walk me through what you would do in this situation.
+    * What sort of info or guidance might you look for?
+    * Is it clear when you would have to start something?
+    * What are your thoughts on opening new windows for the information?
+* Were you aware of these options for financial help? If so, how did you learn?
+
 
 * _(if user has not brought them up already)_ Talk to me about your monthly statements for copays
     * Were you aware of them?
