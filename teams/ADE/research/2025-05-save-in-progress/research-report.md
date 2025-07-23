@@ -402,10 +402,10 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
 1. Try to **fix announcing issues with JAWS where it says "has popup" for the State/Province/Region and Postal code text fields**. 
     - *Supporting evidence:* One screen reader user (JAWS on desktop) reported that the State/Province/Region (as long as "United States" isn't selected in the Country field) and Postal code fields said "has pop up", even though they're both text fields.
 
-1. Streamline error handling on the Review/Submit page for the ***Your full name* field so that (1) focus goes to the name field (*vs*. the top of the component), and (2) the error message is announced immediately** (*vs*. after two repetitions of most of the text in the component). 
+1. Streamline error handling on the Review/Submit page for the ***Your full name* field so that (1) focus goes to the name field (*vs*. the top of the component), and (2) the error message is announced immediately** (*vs*. after two repetitions of most of the text in the component).  --> *Try to FIX this*
     - *Supporting evidence:* This is so verbose for screen reader users that they perceive it as multiple repetitions of the same information and don't listen all the way to the end when the error is finally mentioned. p3 was using JAWS on Windows with the Chrome browser.
 
-1. **On the Review/Submit page, consider shortening the text to be less redundant and less repetitive for screen reader users.**
+1. **On the Review/Submit page, consider shortening the text to be less redundant and less repetitive for screen reader users.**  --> *Try to FIX this*
     - *Supporting evidence:* The verbose text "Statement of truth. I confirm that the identifying information in this form is accurate and has been represented correctly." is read 3 times by JAWS, and the text "I certify the information above is correct and true to the best of my knowledge and belief." is read 2 times. This is while the screenreader user is going through the form the first time--not because of any errors generated--and is specified in the code so that all users hear it, regardless of how they navigated to the field (by tabs or arrows). p3 was using JAWS on Windows with the Chrome browser.
 
 1. Consider **differentiating the unauth and auth versions of the form intro page so they don't look exactly the same** except for the very bottom. --> *Consider skipping the auth version of the form intro page if the user signs in from the unauth version of the form intro page*
@@ -465,7 +465,6 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
 ### No action for now but FYI
 22. **Consider whether having many short pages in a form is preferable to a smaller number of longer pages**. Be aware of the feedback that some Veterans dislike VA forms having so many short pages. 
     - *Supporting evidence:* 3 of 11 participants (1 using a screen reader on desktop, 1 using a screen magnifier on desktop, and 1 using no assistive tech on a phone) said that the form had too many short pages and that they preferred fewer longer pages with related information on the same page. The screen magnifier user said that having to repeatedly click _Continue_ to see the next question was annoying because it's more of his screen reader that he has to listen to.
-
 
 ## Next Steps
 
