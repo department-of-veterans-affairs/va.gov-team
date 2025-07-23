@@ -23,9 +23,9 @@ We have defined four work streams, or tracks, that will afford ample opportuniti
 - In October 2022, we made the decision to not use the authenticate-in-place strategy on VA.gov, and focus on developing an authenticated experience for My HealtheVet on VA.gov. We also made the decision to leave the health hub as it is for now, with the understanding that it will need to change to accommodate the My HealtheVet as it takes shape. 
 
 **Track 3** will integrate Cerner (and potentially Community Care) data into VA.gov alongside VistA and DoD data.  This "mashup" of data from various sources is, in fact, one of the main purposes for this initiative. -- it provides Veterans a consistent and comprehensive VA health experience regardless of whether their VA health facility uses VistA or has already been migrated to Cerner.  This consistent experience will be especially valuable to veterans who visit more than one facility that are on different systems.
-	- We are modeling this experience off of Intermountain Health's success. They currently have an untethered patient portal with a Cerner backend. 
-	- Cerner, VistA, and community care appointment data is expected to come through the Enterprise Appointment Service. 
-	- Medical records data is expected to be obtained through a Patient Health Record API that is in the process of being written in a FHIR format  compatible with Cerner. 
+- We are modeling this experience off of Intermountain Health's success. They currently have an untethered patient portal with a Cerner backend. 
+- Cerner, VistA, and community care appointment data is expected to come through the Enterprise Appointment Service. 
+- Medical records data is expected to be obtained through a Patient Health Record API that is in the process of being written in a FHIR format  compatible with Cerner. 
 
 **Track 4** will support identity changes intented to eliminate the need for veterans to create and manage multiple sets of credentials in order to apply for health benefits, access their health inforation and communicate with their providers.
 
