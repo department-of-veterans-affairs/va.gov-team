@@ -389,8 +389,10 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
            1. If we want a message that shows up with every automatic save, it could be very short (e.g., "Saving..." or "Autosaved now"). 
       1. Consider relabeling the *Finish later* button to better align with the revised messaging.
 
-1. **On the forms Review/Submit page, consider moving the "+" from the right margin to the left margin**.
+1. **On the forms Review/Submit page, consider moving the "+" from the right margin to the left margin**. --> *Try to do this.* 
      - *Supporting evidence:* A screen magnifier user didn't see the "+"'s to expand the accordions because they're so far to the right and there was no visual indication that there was anything there that needed scrolling. 
+     - There is a [current proposal in the USWDS](https://github.com/uswds/uswds/discussions/6483) to move the open/close icon to the left. 
+     - Other research studies with Veterans have reported issues with screen magnifier users being unable to see interactive elements that aren't on the left side of the screen (for example, see [this finding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/home-page/research/2022-09-redesign-usability-round2/research-findings.md#5-there-may-be-an-accessibility-issue-for-screen-magnifier-users-with-buttons-on-the-far-right-side-of-web-pages)).
 1. **After you click *Finish later*, you should be able to sign out** in the Minimal header format, which is currently not possible. We should revert to the full VA.gov header for the authenticated intro page in order to enable signout.
      - *Supporting evidence:* There's currently no way to sign out after you click *Finish later* and land on the intro page because you're still seeing only the Minimal header.
 
