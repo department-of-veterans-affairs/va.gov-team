@@ -82,13 +82,23 @@ If you have questions, don't hesitate to reach out to your OCTO practice lead, [
 - [Platform website orientation](https://www.youtube.com/watch?v=I3RFCuTEfBI) - 1 min YouTube video
 - [Getting started](https://depo-platform-documentation.scrollhelp.site/getting-started/)
 - [General Orientation - VA.gov Platform](https://www.youtube.com/watch?v=PNuy0YmrXlI)- 60 min YouTube video
+- Platform support overview 
 
-## VA Platform practice-specific orientation
-
-
+## VA Platform practice-centered orientation
 ### Product
- - [ ] [Getting Started](https://depo-platform-documentation.scrollhelp.site/getting-started/)
- - [ ] [Developer docs](https://depo-platform-documentation.scrollhelp.site/developer-docs/)
+
+### Engineers
+  - [ ] [Developer docs](https://depo-platform-documentation.scrollhelp.site/developer-docs/)
+  - [ ] Front-end orientation
+  - [ ] Back-end orientation
+  - [ ] QA orientation
+  - [ ] Accessibility orientation
+  - [ ] ATO (Authority to Operate) orientation
+  - [ ] Design system/forms library orientation
+
+### Design and Research
+
+
  - [ ] [Research and design](https://depo-platform-documentation.scrollhelp.site/research-design/)
  - [ ] [Analytics and insights](https://depo-platform-documentation.scrollhelp.site/analytics-monitoring/)
  
