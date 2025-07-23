@@ -16,7 +16,6 @@ Last Updated: July 23, 2025
 |Becky Phung|OCTO Design Lead||
 |Robyn Singleton| OCTO  Research Lead||
 |Mark Dewey | OCTO Engineering Lead ||
-|Cle' Diggins | OCTO Engineering Lead ||
 |----|----|-----|
 |Matthew Bain| MHV Program Manager ||
 |Bryan Riley| MHV Team Delivery Manager/Product Manager| bryan.riley@vbylight.com |
