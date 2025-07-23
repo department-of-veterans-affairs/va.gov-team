@@ -100,7 +100,7 @@ During the transition period, the Medications team and Medical Devices team will
 | Kevin Suarez | Backend Engineer | kevin.suarez@agile6.com | kevin.suarez1@va.gov | [@Kevin Suarez](https://dsva.slack.com/team/U081A32NU4X) | [kjsuarez](https://github.com/kjsuarez) |
 | Adam Stoler | Fullstack Engineer | adam.stoler@agile6.com | TBD | TBD | TBD |
 | Jason Congliari | Fullstack Engineer | jConigliari@ironarchtech.com | TBD | TBD | [Tonksthebear](https://github.com/Tonksthebear) |
-| Cint Wilde | Backend Engineer (Liferay) | clint.wilde@docme360.com | Clint.wilde@va.gov | TBD | [clintwildeva](https://github.com/clintwildeva) |
+| Clint Wilde | Backend Engineer (Liferay) | clint.wilde@docme360.com | Clint.wilde@va.gov | TBD | [clintwildeva](https://github.com/clintwildeva) |
 | Mario Williams | Frontend Engineer (Liferay) | mwilliams@ironarchtech.com | TBD | TBD | TBD |
 | Jayson Perkins | Mobile Engineer | jayson.perkins@adhocteam.us | jayson.perkins@va.gov | [@Jayson Perkins](https://dsva.slack.com/team/U01A8SZCMHA) | [jperk51](https://github.com/jperk51) |
 
@@ -133,7 +133,7 @@ During the transition period, the Medications team and Medical Devices team will
 - Slack channel: [#va-mobile-app](https://dsva.slack.com/archives/C018V2JCWRJ)
 
 ### Mobile Experience
-- Product: Ryan Thurwell
+- Product: Ryan Thurlwell
 - Mobile Platform: 
 - Related: Office of Connected Care (OCC) has a portfolio of ~70 mobile apps (1/2 of these are for Veterans). 
 
