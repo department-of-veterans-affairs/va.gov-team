@@ -1,7 +1,7 @@
 ## CHAMPVA Claims biweekly stakeholder sync
 Every other Wednesday at 2:35pm ET
 
-### 06/25/25
+### 06/23/25
 
 **Attendees:** Angela P., Arleen, Joie, Cindy, Melissa Premal, Andrea, Renata, Jamie, Rachel 
 
