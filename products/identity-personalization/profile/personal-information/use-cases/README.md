@@ -1,6 +1,6 @@
 # Personal Information Use Cases
 
-**Last updated: June 2025**
+**Last updated: July 2025**
 
 - [User flow](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=931-9736&t=XpeLUcvcZmicphy6-1)
 - [Figma files](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=918-3504&t=XpeLUcvcZmicphy6-1)
