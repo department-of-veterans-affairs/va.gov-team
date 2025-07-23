@@ -421,7 +421,7 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
      - *Supporting evidence:* Participants were confused when they thought they entered 9 digits but actually hadn't. This issue may be less of an issue when users enter their actual SSN, rather than a fake one for the research session.
 
 #### For the Request Personal Records form
-1. Explore **prefilling the Veteran's name and address**, which we know once they've signed in. --> *Jeana is working on this*
+11. Explore **prefilling the Veteran's name and address**, which we know once they've signed in. --> *Jeana is working on this*
     - *Supporting evidence:* This suggestion came from a participant, who wanted to type less but was willing to make corrections if any information was wrong.
 
 1. Consider adding a **description of what a "VA regional office" is**. --> *CONSIDER doing*
@@ -433,7 +433,7 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
 
 ### Not possible to fix
 
-1. Investigate the **form navigation/focus issues that 2 screen reader users had while using VoiceOver on iPhones with the Safari** web browser in which focus kept jumping to the top of the page or to the Safari controls below the page after almost every field. --> *NOT POSSIBLE TO FIX because of a [known bug with VoiceOver and Safari](https://webaim.org/discussion/mail_thread?thread=7141)*
+14. Investigate the **form navigation/focus issues that 2 screen reader users had while using VoiceOver on iPhones with the Safari** web browser in which focus kept jumping to the top of the page or to the Safari controls below the page after almost every field. --> *NOT POSSIBLE TO FIX because of a [known bug with VoiceOver and Safari](https://webaim.org/discussion/mail_thread?thread=7141)*
 
     - *Supporting evidence:* These focus issues made it very difficult for 2 mobile screen reader users to fill out the form. One of them continued using Safari, and the other gave up and switched to Chrome. For example, focus was on the Month field, but there was also a blinking cursor in the previous field (last name). When the participant typed a number for the date of birth month, the number was entered into the last name field. And when she was done picking the Month, focus was moved to the very top of the page. 
 
@@ -456,7 +456,7 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
 
 
 ### No action for now but FYI
-1. **Consider whether having many short pages in a form is preferable to a smaller number of longer pages**. Be aware of the feedback that some Veterans dislike VA forms having so many short pages. 
+20. **Consider whether having many short pages in a form is preferable to a smaller number of longer pages**. Be aware of the feedback that some Veterans dislike VA forms having so many short pages. 
     - *Supporting evidence:* 3 of 11 participants (1 using a screen reader on desktop, 1 using a screen magnifier on desktop, and 1 using no assistive tech on a phone) said that the form had too many short pages and that they preferred fewer longer pages with related information on the same page. The screen magnifier user said that having to repeatedly click _Continue_ to see the next question was annoying because it's more of his screen reader that he has to listen to.
 
 
