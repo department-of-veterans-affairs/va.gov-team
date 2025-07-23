@@ -13,19 +13,6 @@ Please fill out the sections below to help us understand your request, prioritiz
 
 ---
 
-## 🧠 Value Statement
-
-**_As a_**  
-[Insert user role]
-
-**_I want to_**  
-[Insert what the user needs to do]
-
-**_So that_**  
-[Insert desired outcome or benefit]
-
----
-
 ## 📝 Background Context
 
 **What kind of content support is needed?** Review [the content design menu](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1746655929211/80067a3f9875681b70f4a8b6f3c0bafdfe44d909?sender=uf5838c6c24bc1098b12b5304)
@@ -53,59 +40,80 @@ _Delete all except the one that applies to your request_
 - Content validation during testing
 - Refine content based on testing
 
----
+##
 
-## ✨ Summary of request
+**Value Statement**
+
+**_As a_**  
+[Insert user role]
+
+**_I want to_**  
+[Insert what the user needs to do]
+
+**_So that_**  
+[Insert desired outcome or benefit]
+
+##
+
+**Summary of request**
 
 [Write out what you're building and why the work matters]
 
 ---
 
-## 🚦 Priority Level
+## 🚦 Levels
 _Delete all except the one that applies to your request_
 
-**High:** Must complete before the next sprint ends (e.g., blocks other work, part of the Collaboration Cycle, or has an external deadline)
+**Priority**
 
-**Medium:** Important but not urgent (e.g., unblocks near-future work or is needed for an upcoming milestone)
+🏃‍♂️ **High:** Must complete before the next sprint ends (e.g., blocks other work, part of the Collaboration Cycle, or has an external deadline)
 
-**Low:** Nice to have (e.g., not time-sensitive, no major dependencies, won't block others if delayed)
+🌼 **Medium:** Important but not urgent (e.g., unblocks near-future work or is needed for an upcoming milestone)
+
+🐢 **Low:** Nice to have (e.g., not time-sensitive, no major dependencies, won't block others if delayed)
 
 
----
+##
 
-## 🛠️ Effort Level  
-_Delete all except the one that applies to your request_
+**Effort**
 
-**Small:** Simple revision (e.g., editing a sentence or two)
+🐜 **Small:** Simple revision (e.g., editing a sentence or two)
 
-**Medium:** Moderate update (e.g., editing a couple of sections or revising a page)
+🐈 **Medium:** Moderate update (e.g., editing a couple of sections or revising a page)
 
-**Large:** Full review and rework (e.g., multiple screens, new content, or net-new flow)
+🐘 **Large:** Full review and rework (e.g., multiple screens, new content, or net-new flow)
 
 ---
 
 ## 🔗 Links
-_Mark 'none' if none apply_
+_Delete all except the one that applies to your request_
 
-- Link to Figma file:
-- Related GitHub issues:
-- Collaboration Cycle ticket (if applicable):
-- Mural board:
-- Other helpful links:
+Figma
 
-- _Be sure to link this ticket to the parent ticket or the ticket you are working on that this work falls under_
+GitHub ticket(s)
+
+Collaboration Cycle ticket
+
+Mural board
+
+[Other helpful links]
+
+_Be sure to link this ticket to the parent ticket or the ticket you are working on that this work falls under_
 
 ---
 
 ## 📅 Important Dates and Meetings
-_Mark 'none' if none apply_
+_Delete all except the one that applies to your request_
 
-- Timeline expectations or deadlines (e.g., for staging or validation):
-- Upcoming collaboration cycle stage (if any):
-- Standing meetings you'd like the content designer to attend:
+Timeline expectations or deadlines (e.g., for staging or validation)
+
+Upcoming collaboration cycle stage (if any)
+
+Standing meetings you'd like the content designer to attend
   - Team stand-up [add date(s)]
   - Other [which? add dates]
-- Will you bring this to content office hours? If yes, please [add it to this Slack canvas](https://dsva.slack.com/docs/T03FECE8V/F093XR59XRD)
+
+Content office hours? [add it to this Slack canvas](https://dsva.slack.com/docs/T03FECE8V/F093XR59XRD)
 
 
 ---
