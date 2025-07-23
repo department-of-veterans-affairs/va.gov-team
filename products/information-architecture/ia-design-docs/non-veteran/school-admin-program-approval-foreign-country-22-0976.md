@@ -1,5 +1,5 @@
 # IA Design for School Official: Foreign country program approval - Form 22-0976
-**STATUS: Ready for OCTO review**
+**STATUS: Complete**
 
 **Team:** VEBT team
 - Team name: govcio-vebt
@@ -50,7 +50,7 @@ Follow the [VA Design System](https://design.va.gov/) for URL, breadcrumb, and p
 Also review [Capitalization](https://design.va.gov/content-style-guide/capitalization) for standards for headings vs.title tags
 
 **Approval of Program in a Foreign Country VA Form 22-0976**
-  - URL:  va.gov/school-administrators/apply-for-approval-of-program-in-foreign-country-form-22-0976/
+  - URL:  va.gov/school-administrators/apply-for-approval-program-in-foreign-country-form-22-0976/
     - This is the canonical URL for the form and what will appear in search results.
     - All referring links should have this URL as the destination.
     - Once this URL renders, form logic should redirect the visitor to the first page within the form flow - per standards this is generally /introduction
@@ -64,9 +64,9 @@ Also review [Capitalization](https://design.va.gov/content-style-guide/capitaliz
 **Structuring URLs for individual pages within the form flows**
 - All pages within form flows will exist as child pages of the core/canonical URL.
   - Examples:
-      - ww.va.gov/school-administrators/apply-for-approval-of-program-in-foreign-country-form-22-0976/introduction/
-      - ww.va.gov/school-administrators/apply-for-approval-of-program-in-foreign-country-form-22-0976/review-and-submit/
-      - ww.va.gov/school-administrators/apply-for-approval-of-program-in-foreign-country-form-22-0976/confirmation/
+      - ww.va.gov/school-administrators/apply-for-approval-program-in-foreign-country-form-22-0976/introduction/
+      - ww.va.gov/school-administrators/apply-for-approval-program-in-foreign-country-form-22-0976/review-and-submit/
+      - ww.va.gov/school-administrators/apply-for-approval-program-in-foreign-country-form-22-0976/confirmation/
   - Please refer to [URL standards for form flows](https://design.va.gov/components/url-standards/#guidelines-for-urls-in-form-flows) when defining the URLs for these pages.  Reach out to #content-ia-centralized-team with any questions.
 
 
