@@ -156,11 +156,12 @@ There are no validation use cases for this feature.
 
 <details><summary>User has no disability rating</summary>
 
-- **Use case:** When a user does not have a disability rating, the text in the section changes..
+- **Use case:** When a user does not have a disability rating.
 - **Status code:** None
 - **Format:** See designs
-- [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=926-11992&t=IxDeELaasWg4dcVS-1)
-- **Content:** See designs
+- [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=974-7077&t=swZ9qiHZq4IykcZK-1)
+- **Content:**
+Our records show that you don’t have a disability rating.
 
 </details>
 
@@ -187,8 +188,8 @@ We’re sorry. Something went wrong on our end. Refresh this page or try again l
 - **Status code:** None
 - **Format:** [Warning slim alert component](https://design.va.gov/components/alert/#web-2)
 - REFERENCE Links to designs
-   - [Legal name](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=0-66&t=5dhgHTuWdYUMln4l-1)
-   - [Disability rating](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=0-55&t=G3wWRZVoO8OcGFyt-1)
+   - [Legal name](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=974-9490&t=swZ9qiHZq4IykcZK-1)
+   - [Disability rating](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=974-9204&t=swZ9qiHZq4IykcZK-1)
 - **Content:**
 
 Legal name: We're sorry. Something went wrong on our end and we can't load your legal name. Try again later.
