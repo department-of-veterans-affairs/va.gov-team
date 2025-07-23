@@ -424,7 +424,7 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
 
 
 #### For the Request Personal Records form
-13. Explore **prefilling the Veteran's name and address**, which we know once they've signed in. --> *Jeana is working on this*
+11. Explore **prefilling the Veteran's name and address**, which we know once they've signed in. --> *Jeana is working on this*
     - *Supporting evidence:* This suggestion came from a participant, who wanted to type less but was willing to make corrections if any information was wrong.
 
 1. Consider adding a **description of what a "VA regional office" is**. --> *CONSIDER doing*
