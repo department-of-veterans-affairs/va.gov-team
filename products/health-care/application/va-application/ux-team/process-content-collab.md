@@ -6,14 +6,14 @@ Last updated July 23, 2025
 ----
 
 
-This page has helpful info on what tickets to open in github, how to setup the Figma design files, notes and status Figma components used as well as CAIA collab process and tasks. 
+This page has helpful info on what tickets to open in github, options for how to setup the Figma design files, notes and status Figma components used as well as C/IA collab process and tasks. 
 
 ---- 
 
 
 ## Tickets  
 
-**CAIA side to initiate work**
+**C/IA side to initiate work**
 - New team and see Slack channel #content-ia-centralized-team for the latest guidance on submitting tickets via part of the Collaboration Cycle or not
 - 
 
