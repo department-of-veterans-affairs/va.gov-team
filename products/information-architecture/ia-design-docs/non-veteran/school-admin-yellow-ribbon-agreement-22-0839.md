@@ -1,5 +1,5 @@
 # IA Design for School Official: Yellow Ribbon program agreement - Form 22-0839
-**STATUS: Ready for OCTO review**
+**STATUS: Complete**
 
 **Team:** VEBT team
 - Team name: govcio-vebt
