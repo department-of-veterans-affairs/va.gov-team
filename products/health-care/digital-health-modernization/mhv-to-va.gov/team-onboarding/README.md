@@ -1,0 +1,1 @@
+Team onboarding information has been moved to [https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/health-products/health-portal](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/health-products/health-portal)
