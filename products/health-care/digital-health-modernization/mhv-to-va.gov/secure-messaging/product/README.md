@@ -1,24 +1,24 @@
 # My Health Secure Messaging Product Outline
 
-Last Updated: August 2024
+Last Updated: July 23, 2025
 
 
 ### Communications
-
 - **Github labels**: my-health; mhv-to-va.gov-SM
 - **Slack channel**: [#mhv-secure-messaging](https://dsva.slack.com/channels/mhv-secure-messaging)
 
 ### Roles  
-  
+7/23: We'll update these roles as we onboard a new team onto this product.
+
 |Name|Role|Email|
 |----|----|-----|
-|Janie Tankard-Carnock |OCTO Product Lead | jane.carnock@va.gov |
-|Kaitlin Fink |OCTO Design Lead| kaitlin.fink@va.gov |
-|Robyn Singleton| OCTO  Research Lead| robyn.singleton@va.gov |
-|Mark Dewey | OCTO Engineering Lead | mark.dewey@va.gov |
-|Cle' Diggins | OCTO Engineering Lead |cle.diggins@va.gov |
+|Patrick Bateman|OCTO Product Lead||
+|Becky Phung|OCTO Design Lead||
+|Robyn Singleton| OCTO  Research Lead||
+|Mark Dewey | OCTO Engineering Lead ||
+|Cle' Diggins | OCTO Engineering Lead ||
 |----|----|-----|
-|Matthew Bain| MHV Program Manager | matthew.bain@va.gov |
+|Matthew Bain| MHV Program Manager ||
 |Bryan Riley| MHV Team Delivery Manager/Product Manager| bryan.riley@vbylight.com |
 |Lichelle Bain| MHV Team Product Manager| lichelle.nichols@bylight.com |
 |Arienne Walters | MHV User Experience Lead | arienne.walters@bylight.com |
@@ -26,25 +26,25 @@ Last Updated: August 2024
 | Anne Costello Kenndedy | MHV Team Research Lead | anne.costello@bylight.com
 | Bobby Bailey | MHV Team Accessibility | robert.m.bailey@bylight.com
 |Emily Taylor | MHV Team Designer | emily.taylor@bylight.com |
-|Oleksii Morgun| MHV Team FE Lead Engineer | oleksii.morgun@va.gov |
-|Kolby Balch| MHV Team Engineer | kolby.balch@va.gov |
-|Victoria Saleem| MHV Team FE Engineer | victoria.saleem@va.gov |
+|Oleksii Morgun| MHV Team FE Lead Engineer ||
+|Kolby Balch| MHV Team Engineer ||
+|Victoria Saleem| MHV Team FE Engineer ||
 |Kyle Cardwell| MHV Team Engineer | kyle.cardwell@acommsolutions.com |
-|Rakesh Maurya | MHV Team QA | rakesh.maurya@va.gov |
+|Rakesh Maurya | MHV Team QA ||
 |Fazil Mammadov | MHV Team QA  | fazil.mammadov@bylight.com |
 
-## Stakeholders
+## VA partners
 
 |Name|Role|Email|
 |----|----|-----|
-|Patty Henry|VA Product Owner|Patricia.Henry@va.gov|
-|Carnetta Scruggs|TBD|Carnetta.Scruggs@va.gov|
-|Theresa Hancock|Diretor, VCHIO|Theresa.Hancock@va.gov|
+|Carnetta Scruggs|TBD||
+|Theresa Hancock|Diretor, VCHIO||
+|Sylvia Palmer|Product owner, VHA Digital Health Office||
 
 ## Subject Matter Experts
 |Name|Role|Email|
 |----|----|-----|
-|Tracey Martin| VISN 1 MHV Coordinator Lead |TBD| 
+|Tracey Martin| VISN 1 MHV Coordinator Lead || 
 
 ## Overview
 Secure Messaging on VA.gov will provide Veterans with the same ability to securely contact their VA health care providers as on MyHealtheVet (MHV) today The new application will employ modern technology and user-centered design to ensure that the tool is accessible, straightforward, and simple to use.  Moving this product out of MyHealtheVet and into the VA.gov landscape will also provide a more seamless and consistent experience than was possible on two distinct web sites.
