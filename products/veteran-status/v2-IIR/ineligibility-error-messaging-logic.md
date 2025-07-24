@@ -27,7 +27,7 @@ Rather than relying on just the [Veteran Service History & Eligibility API](http
    
 The Veteran Status Card is shown to users who come back as "Confirmed" in the [Veteran Service History & Eligibility API](https://developer.va.gov/explore/api/veteran-service-history-and-eligibility/docs?version=current) > /status endpoint. The API follows the Title 38 definition of Veteran. If we receive a "Not Confirmed" response from the endpoint, there are four reasons as to why the users isn't confirmed: ERROR, MORE_RESEARCH_REQUIRED, NOT_TITLE_38, and PERSON_NOT_FOUND. If a user comes back with any of these reasons, we surface various error messages to them.
 
-When we reached out to Lighthouse to ask more questions about how those status and reasons are designated, we were given the SSC table below. Green: users who come back as "Confirmed" Orange: users who come back as MORE_RESEARCH_REQUIRED Red: users who come back as NOT_TITLE_38
+When we reached out to Lighthouse to ask more questions about how those status and reasons are designated, we were given the SSC table below. Green: users who come back as "Confirmed" Yellow: users who come back as MORE_RESEARCH_REQUIRED Orange: users who come back as NOT_TITLE_38
 
 ### Service Summary Codes (SSC)
 ![Screenshot 2025-06-27 at 1 34 26 PM](https://github.com/user-attachments/assets/da908eb7-970f-4a52-9437-0cfed30b8d95)
