@@ -5,6 +5,8 @@ Purpose: A place to put all links by product to design pages/files/prototypes by
 
 ## Source of truth
 
+These Figma files are to mirror what is in production/live only.
+
   
 | Form  | Link  |
 |-----------------------------------------------------------|-----------------| 
@@ -15,6 +17,7 @@ Purpose: A place to put all links by product to design pages/files/prototypes by
 
 ## Working Files
 
+These Figma files are for work that is in-flight or archived.
 
 <details>
 
