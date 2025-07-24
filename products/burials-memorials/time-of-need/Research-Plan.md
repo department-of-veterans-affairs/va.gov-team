@@ -122,9 +122,11 @@ Where will you be holding the research sessions?
 
 ### Recruitment criteria
 
-- Have you scheduled a burial for a Veteran, spouse, or adult-dependent child in the past 2 years? [yes/no]
+- Have you scheduled a burial for a Veteran, spouse, or adult-dependent child in the past? [yes/no]
 - Are you a family member, representative, or funeral home staff involved in burial planning for a Veteran, spouse, or adult-dependent child? [yes/no]
 - Do you use a computer or mobile device to access VA.gov? [yes/no]
+- Do you have reliable internet access? [yes/no]
+- Are you interested in learning about how to schedule a burial with VA.gov? [yes/no]
 
 ### List the ideal completed sessions and total number and type (Veterans, caregivers, etc.) of participants for this study:
 
