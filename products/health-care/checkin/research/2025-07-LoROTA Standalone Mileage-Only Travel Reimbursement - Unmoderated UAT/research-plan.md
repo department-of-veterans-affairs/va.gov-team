@@ -1,4 +1,4 @@
-    # Research Plan for [Check-in Experience Team, LoROTA Standalone Milege-Only Travel Reimbursement Application, July, 2025]
+# Research Plan for [Check-in Experience Team, LoROTA Standalone Milege-Only Travel Reimbursement Application, July, 2025]
 
 ## Background 🏗️
 <details><summary>Briefly describe the background of your product.</summary>
