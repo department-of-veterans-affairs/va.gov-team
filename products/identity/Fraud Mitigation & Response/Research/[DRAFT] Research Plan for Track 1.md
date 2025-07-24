@@ -63,7 +63,7 @@
 - Current pain points and challenges
 - Success stories and effective practices
 
-**2. Workflow Mapping Workshops **
+**2. Workflow Mapping Workshops**
 - **Format:** 2-3 cross-functional workshops with 4-6 participants
 - **Activities:** 
   - Journey mapping of fraud cases from detection to resolution
