@@ -39,3 +39,6 @@ In a team meeting 7-21-25 it was determined that the only available screen the m
 
 ### Mobile sign in screen reference
 <img width="1170" height="2532" alt="mobile sign in page" src="https://github.com/user-attachments/assets/94fdd8d0-8b6c-4dd0-8e3b-ec21bb7da570" />
+
+### Survey questions
+<img width="1354" height="398" alt="login survey questions" src="https://github.com/user-attachments/assets/08cc3c15-80a7-431f-aff5-b914b01482c5" />
