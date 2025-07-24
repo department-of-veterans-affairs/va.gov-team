@@ -98,6 +98,3 @@ Deliver a production-ready mechanism for secure PTA access using **Login.gov or 
 - Their access can be manually revoked in real-time  
 - MVP is ready before MHV credential sunset in October 2025
 ```
-
-Let me know if you want a version of this turned into a downloadable `.md` file or posted in a specific VA documentation format.
-
