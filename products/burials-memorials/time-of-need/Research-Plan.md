@@ -38,8 +38,7 @@
 - **Average submission time:** _Target: <15 minutes_>   - _Testing will evaluate if users can successfully complete the form and receive clear feedback on submission outcomes or errors._
 
 </details>
-### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
-
+[Veteran Journey] (http://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
 <details><summary>Where does your product fit into the Veteran journey?
 Are there moments that matter?</summary>
 	
