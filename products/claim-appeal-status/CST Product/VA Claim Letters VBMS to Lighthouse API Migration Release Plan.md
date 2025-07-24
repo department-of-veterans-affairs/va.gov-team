@@ -4,7 +4,7 @@
 ## Helpful Links
 
 - Feature flipper: [`cst_claim_letters_use_lighthouse_api_provider`](https://staging-api.va.gov/flipper/features/cst_claim_letters_use_lighthouse_api_provider)
-- DataDog Dashboard: TBD
+- DataDog Dashboard: [Benefits - Management Tools -  Claim Letters List and Download](https://vagov.ddog-gov.com/dashboard/zs5-erv-7fb?fromUser=false&refresh_mode=sliding&from_ts=1753386276650&to_ts=1753389876650&live=true)
 
 ## Phase I: Canary (1%)
 ### Planning: 
