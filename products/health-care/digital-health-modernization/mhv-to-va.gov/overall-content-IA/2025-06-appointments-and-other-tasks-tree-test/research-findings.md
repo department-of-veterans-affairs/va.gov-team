@@ -5,7 +5,8 @@
 
 ### Resources
 [Research Plan for Transitioning service-member Tree-Test, June–July 2025](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2025-06-appointments-and-other-tasks-tree-test/research-plan.md)  
-*Mural: Tree-Test Analysis and Findings* (Need to pull from VA network)
+
+[Mural: Tree-Test Analysis and Findings](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1752864259684/c7f5029792d34bba9aa421bd45272723e7d5c6e2)
 
 ## Research goals
 
