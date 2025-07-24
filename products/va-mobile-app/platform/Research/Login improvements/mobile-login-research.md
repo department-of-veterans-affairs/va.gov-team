@@ -8,7 +8,7 @@ The VA Health & Benefits app team is researching login issues to better understa
 2. Identify root cause of why some Veterans experience app preformance issues.
 3. Evalute priority and feasibility of Veteran login needs/requests.
 
-## Reported Veteran Issues
+### Reported Veteran Issues
 As specifically mentioned during mobile Q2 in-app reviews analysis.
 1. Many password requirements.
 2. Passcodes do not come in time.
@@ -16,7 +16,7 @@ As specifically mentioned during mobile Q2 in-app reviews analysis.
 4. Unable to get authenticated.
 5. Challenges with accessing the app from a remote area due to weak signal.
 
-## Veteran requests
+### Veteran requests
 As specifically mentioned during mobile Q2 in-app reviews analysis.
 1. Single access point or passcode.
 2. Remain logged in, unless I log out.
@@ -27,10 +27,10 @@ As specifically mentioned during mobile Q2 in-app reviews analysis.
 ## Methodology
 In-app reporting (report an issue link for feedback from Veterans).
 
-## Intent
+### Intent
 The intent of this feature is to collect Veteran feedback related to login issues specifically and capture what available data can be automatically (and legally) captured about the device to help the mobile app team better identify potential root causes that could result in these login errors being triggered. No tickets will be created or responses sent back to the Veterans, rather this will act as a channel for Veterans to communicate about their experience allowing for the Veterans voice to be heard.
 
-## Timing
+### Timing
 Target state date: TBD based on feasibility
 Target end date: For the purposes of this login study we will review responses over a 2 week period of time from launch date.
 
