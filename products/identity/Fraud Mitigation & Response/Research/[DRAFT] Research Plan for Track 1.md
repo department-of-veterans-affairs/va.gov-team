@@ -6,6 +6,7 @@
 
 **Secondary Objectives:**
 - Identify gaps and overlaps in current fraud prevention/response efforts
+- Define the stakeholders and processes between VBA and VHA
 - Define ownership boundaries and "rules of engagement"
 - Create foundation for a shared fraud playbook
 - Establish stakeholder alignment on fraud landscape understanding
