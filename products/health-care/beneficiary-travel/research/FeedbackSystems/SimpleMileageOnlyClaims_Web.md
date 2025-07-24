@@ -68,8 +68,6 @@ Qualitative feedback:
 
 “File travel claim. However, it would appear that i CANNOT select the direct I took because of traffic through RI which you have TAKEN  AWAY. I can I can only assume you will give me the lower rate for travel. How slick. Another item to bring up with my congressman.”
 
-“Why did the site get changed? This is very confusing, & I can't use the route I travel like before. This change is totally unnecessary & stupid. Whoever the idiot is that did this needs to be fired!!”
-
 “THE ONE THING I DO LIKE IS THAT YOU HAVE HOW MANY DAYS ARE LEFT TO FILE’”
 
 “Filing my travel claim after my scheduled appointment. The last time I submitted a travel claim was 3 months ago. I find it so much easier and quicker filing my claim. I didn't have to much. All I had to do is answer a few questions to validate my information. Once I completed the questionnaire, my claim was submitted. I am so satisfied with the new and improved Filing.”
