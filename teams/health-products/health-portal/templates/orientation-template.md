@@ -9,67 +9,13 @@ If you have questions, don't hesitate to reach out to your OCTO practice lead, [
 ## Part 1: Publicly accessible info
 - [ ] [Get to know the team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/health-portal-team.md)
 - [ ] [Learn about how we work](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/how-we-work.md)
-- [ ] Schedule 15 min to meet with your new team mates:
+- [ ] Schedule 15 min to meet with each of [your new team mates](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/health-portal-team.md#product-team-members)
 
-<!--Cust Support and Triage-->
-### Customer Support and Triage Team
-- TBD
 
-<!--Horizon-->
-### Horizon Team
-- [ ]  OCTO Product Owner: Marci McGuire
-- [ ]  Product Lead: Bryan Ivie
-- [ ]  Engineering Lead: Daniel Cloud
-- [ ]  Design Lead: Florence McCafferty
-- [ ]  Research Lead: Cara Frissell
-- [ ]  IA Lead: Sara Sterkenburg
-- [ ]  Data Lead: Marcello Antosh
-
-<!--Medical Devices and Supplies-->
-### Medical Devices and Supplies Team
-- [ ]  OCTO Product Owner: Marci McGuire
-- [ ]  Business Analyst: Mark Carter
-- [ ]  FE Engineer: Amy Cashbaugh
-- [ ]  Mobile FE Engineer: Geoff Winner
-
-<!--Medical Records-->
-### Medical Records Team
-- [ ]  OCTO Product Owner: Marci McGuire
-- [ ]  Product Manager: David Koger
-- [ ]  FE Engineer: Napoleon Kernessant
-- [ ]  FS/BE Engineer: Aswin Malla
-- [ ]  FS/FE Engineer: Ni Chia
-- [ ]  FE Engineer, Liferay: Elwood Gary
-
-<!--Medications-->
-### Medications Team
-- [ ]   OCTO Product Owner: Kay Lawyer
-- [ ]   Product Manager: Michael Brodsky
-- [ ]   FE Engineer: Richard Davis
-- [ ]   FS/BE Engineer: Chris Donelson
-- [ ]   FE Engineer: Ian Seabock
-
-<!--Messages-->
-### Messages Team
-- [ ]   Slack: #tbd
-- [ ]   OCTO Product Owner: Patrick Bateman
-- [ ]   Product Manager: Stacy Blackwood
-- [ ]   BE Engineer, Liferay: Clint Wilde
-- [ ]   FE Engineer, Liferay: Mario Williams
-- [ ]   FE Engineer: Alex Morgun
-- [ ]   FS/FE Engineer: Adam Stoler
-- [ ]   FS/FE Engineer: Adam StolerFS/BE Engineer: Jason Congliari
-- [ ]   FS/FE Engineer: Adam StolerMobile FS Engineer: Jayson Perkins
-
-<!--Cust Support and Triage-->
-### Unified Appointment Experience Team
-- [ ]   FS/FE Engineer: Adam StolerSlack: #tbd
-- [ ]   FS/FE Engineer: Adam StolerOCTO Product Owner: Kay Lawyer
-- [ ]   FS/FE Engineer: Adam StolerOCTO Design/Research Lead: Kristen McConnell
 
 ## General MHV Info 
 - [ ] [Get familiar with some of our terminology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/terminology.md)
-- [ ] Watch an overview of My HealtheVet on VA.gov created for Veterans
+- [ ] [Watch an overview of My HealtheVet on VA.gov created for Veterans](https://youtu.be/sTQ0dtUDGx0)
    
 - [ ] Get to know [YOUR PRODUCT]
    - [ ] [Landing page](products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page) / portal experience
