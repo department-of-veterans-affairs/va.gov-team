@@ -17,7 +17,8 @@ These Figma files are to mirror what is in production/live only.
 
 ## Working Files
 
-These Figma files are for work that is in-flight or archived.
+These Figma files are for work that is in-flight or paused including explorations. 
+Note: for some larger epics (CYOA and Registration) there are separete Figma files.
 
 <details>
 
