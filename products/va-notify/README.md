@@ -24,7 +24,7 @@ Email us at **VA Notify** (oitoctovanotify@va.gov)
 
 
 **Engineering**
-- Kyle Macmillan, Tech Lead - Notify Platform Team
+- Evan Parish, Tech Lead - Notify Platform Team
 - Nathan Wright, Tech Lead - Notify Experience Team
 
 # Playbook
