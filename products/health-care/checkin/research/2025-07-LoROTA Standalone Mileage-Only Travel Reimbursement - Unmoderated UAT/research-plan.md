@@ -45,67 +45,65 @@ Are there moments that matter?</summary>
 
 ### Goals
 
-`1.` **[Gather feedback from Veterans on the LoROTA standalone mileage-only travel reimbursement application’s ease of use]**
+`1.` **Gather feedback from Veterans on the LoROTA standalone mileage-only travel reimbursement application’s ease of use**
 
-`2.` **[Collect open-ended feedback from Veterans about the updated experience of signing in and filing a travel reimbursement claim through the LoROTA standalone mileage-only travel reimbursement application
-]**
+`2.` **Collect open-ended feedback from Veterans about the updated experience of signing in and filing a travel reimbursement claim through the LoROTA standalone mileage-only travel reimbursement application**
 
-`3.` **[Identify any challenges Veterans experience when filing a claim via the the LoROTA standalone mileage-only travel reimbursement application]** 
+`3.` **Identify any challenges Veterans experience when filing a claim via the the LoROTA standalone mileage-only travel reimbursement application** 
 
 ### Outcome
 `How will this research advance your product to the next phase in the design process? What will you do with your learnings?`
 
 ---
 
-**[The learnings from this study will help us understand Veterans’ experience with the LoROTA standalone mileage-only travel reimbursement application, identify opportunities for improvement, and make any necessary changes to the content, UI, or user flow. 
-]** 
+**The learnings from this study will help us understand Veterans’ experience with the LoROTA standalone mileage-only travel reimbursement application, identify opportunities for improvement, and make any necessary changes to the content, UI, or user flow.** 
 
 ---
 
 ### Research questions
 
-**`1.`[How do Veterans find out about filing a travel reimbursement claim by texting travel to 54804?]**
+**`1.`How do Veterans find out about filing a travel reimbursement claim by texting travel to 54804?**
 
-**`2.`[How confident do Veterans feel that their travel reimbursement claim was filed?]**
+**`2.`How confident do Veterans feel that their travel reimbursement claim was filed?**
 
-**`3.`[How easy or difficult is it for Veterans to file a travel reimbursement claim?]**
+**`3.`How easy or difficult is it for Veterans to file a travel reimbursement claim?**
 
-**`4.`[Do Veterans understand what happens next in the reimbursement process?]**
+**`4.`Do Veterans understand what happens next in the reimbursement process?**
 
-**`5.`[How satisfied were Veterans with the experience of initiating and filing a claim?]**
+**`5.`How satisfied were Veterans with the experience of initiating and filing a claim?**
 
-**`6.`[How likely are Veterans to use this tool to file for travel reimbursement in the future?]**
+**`6.`How likely are Veterans to use this tool to file for travel reimbursement in the future?**
 
-**`7.`[Do Veterans have any open ended feedback related to signing in and/or filing a claim? ]**
+**`7.`Do Veterans have any open ended feedback related to signing in and/or filing a claim?**
 
 ### Hypotheses
 ---
 
-**`1.`[How do Veterans find out about filing a travel reimbursement claim by texting travel to 54804?]**
+**`1.`How do Veterans find out about filing a travel reimbursement claim by texting travel to 54804?**
 
 - Most Veterans will find out through a poster at the clinic or through an online resource.
 
-**`2.`[How confident do Veterans feel that their travel reimbursement claim was filed?]**
+**`2.`How confident do Veterans feel that their travel reimbursement claim was filed?**
 
 - Veterans will feel confident that their travel reimbursement claim was filed.
 
-**`3.`[How easy or difficult is it for Veterans to file a travel reimbursement claim?]**
+**`3.`How easy or difficult is it for Veterans to file a travel reimbursement claim?**
 
  - Veterans will find it extremely easy to file a claim from their smartphones.
 
-**`4.`[Do Veterans understand what happens next in the reimbursement process?]**
+**`4.`Do Veterans understand what happens next in the reimbursement process?**
 
 - Veterans will understand what comes next in the travel reimbursement process; their claim will be processed/reviewed and they'll be alerted to their claim's status via other tools. 
 
-**`5.`[How satisfied were Veterans with the experience of initiating and filing a claim?]**
+**`5.`How satisfied were Veterans with the experience of initiating and filing a claim?**
 
 - Veterans will be satisfied with the experience of using the LoROTA standalone mileage-only travel reimbursement application.
 
-**`6.`[How likely are Veterans to use this tool to file for travel reimbursement in the future?]**
+**`6.`How likely are Veterans to use this tool to file for travel reimbursement in the future?**
 
 - While initial adoption may provide a challenge, once Veterans use this application they will be very likely to use this tool in the future.
 
-**`7.`[Do Veterans have any open ended feedback related to signing in and/or filing a claim? ]**
+**`7.`Do Veterans have any open ended feedback related to signing in and/or filing a claim?**
 
 - Veterans will occasionally provide open ended feedback related to signing in and/or filing a claim
 
@@ -118,10 +116,9 @@ Are there moments that matter?</summary>
 
 </details>
 
-**[Veterans who complete the ‘happy path’ (e.g., successfully file a claim through the LoROTA standalone mileage-only travel reimbursement application) will see a screen asking them to complete a survey about their experience. 
+**Veterans who complete the ‘happy path’ (e.g., successfully file a claim through the LoROTA standalone mileage-only travel reimbursement application) will see a screen asking them to complete a survey about their experience. 
 On the backend, this will be a Google Form set up by Perigean, to create the segmented capture of participants based on the criteria outlined below. 
-After Veterans enter into the Perigean database, they will be routed to the survey in Optimal Workshop.
-]**
+After Veterans enter into the Perigean database, they will be routed to the survey in Optimal Workshop.**
 
 </details>
 
