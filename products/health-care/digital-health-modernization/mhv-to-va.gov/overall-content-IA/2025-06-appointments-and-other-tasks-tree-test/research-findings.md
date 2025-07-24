@@ -3,26 +3,28 @@
 **Date:** 7/23/2025  
 **Researcher:** Athena Bozak (athena.bozak@va.gov)
 
----
+### Resources
+[Research Plan for Transitioning service-member Tree-Test, June–July 2025](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2025-06-appointments-and-other-tasks-tree-test/research-plan.md)  
+*Mural: Tree-Test Analysis and Findings* (Need to pull from VA network)
 
 ## Research goals
 
-Questions have arisen around where to place several non-health-related tasks and pieces of information on VA.gov for caregivers and transitioning service members. This study specifically targets transitioning service members who are exiting or have recently exited the military and may need to access resources that don’t have an obvious location within the current VA.gov site architecture.
+As the VA.gov ecosystem continues to grow, questions have come up about where to place certain tools and tasks that do not always have a clear home in the current site structure. This study focused on transitioning service members and explored how they navigate to find key information and tools across VA.gov during their first year after leaving the military. While many of the tasks were benefits related, some touched on health care as well. The goal was to better understand how Veterans approach both health and non-health topics and how they interpret the site’s information architecture when trying to get things done.
 
-**Examples of tasks and information under consideration include:**
-- Finding and scheduling appointments with a Solid Start representative, a program that connects transitioning service members with VA benefits and services
-- Scheduling Compensation & Pension (C&P) exams for disability compensation and pension purposes
-- Accessing denial letters, such as those related to denied community care appointments
-- Locating education-related documents such as GI Bill benefit letters or checking the status of submitted applications
+Veterans were asked to complete tasks based on common situations like:
+- Connecting with a VA Solid Start representative  
+- Scheduling a claim exam for disability compensation  
+- Checking the status of a care request from a non-VA provider  
+- Giving a school permission to access VA education benefits  
+- Checking the status of a VA housing grant  
+- Adding a child to VA benefits to increase compensation  
+- Downloading military exposure records   
 
-**Through this study, we aim to:**
-- Understand where users expect to find important VA tools and information when completing tasks related to their benefits and service history
-- Explore how users navigate scenarios such as scheduling a claim exam, managing dependents, checking a housing grant status, or downloading military exposure records
-- Learn where transitioning service members look for support when first engaging with VA services, including tools like VA Solid Start and other non-medical resources
-- Include participants who reflect the broader population of transitioning service members, with an estimated 58,000 potential users based on activity in the service-member hub (May 2025) and approximately 200,000 Veterans transitioning each year
-- Use findings to improve how information is organized across VA.gov so these tools and resources are easier to find and use during a Veteran’s first year and beyond
-
----
+Through this research we aimed to:
+- Learn where Veterans expect to find VA tools and information related to their benefits, health care, and service history.  
+- Observe how Veterans approached common but sometimes ambiguous scenarios like managing dependents or tracking external care requests.  
+- Identify moments of hesitation, missteps, or confidence in navigating VA.gov's current menu structure.  
+- Use these insights to improve the way information is grouped and labeled on VA.gov so new Veterans can find what they need more easily.  
 
 ## Research questions
 
@@ -38,23 +40,22 @@ Questions have arisen around where to place several non-health-related tasks and
 
 ## Methodology
 
-- We conducted two identical unmoderated tree tests using Optimal Workshop’s Treejack tool. The second test was launched separately after removing screener questions to improve participation following low response rates in the first round.
-- Participants were asked to complete 7 tasks by navigating a menu structure and indicating where they would be able to find the answer.
-- Tasks were randomized to avoid bias from learning the tree as the test progressed.
+- We ran two identical unmoderated tree tests using Optimal Workshop’s Treejack tool. After low participation in the first round, we relaunched the second without screener questions to encourage more completions.
+- Participants were asked to complete seven tasks by navigating a menu structure and selecting where they believed they would find the correct information.
+- Tasks were randomized to avoid bias from learning the tree as the study progressed.
 - Participants were not allowed to skip tasks.
 
 ---
 
 ## Key findings
 
-1. Most Veterans were unable to locate where to schedule a call with a VA Solid Start representative. Many navigated to action-oriented sections such as Appointments, Find a Location, or Benefit Applications, suggesting they thought of the task as transactional rather than informational or program based.
-2. Many Veterans did not interpret scheduling a claim exam as a standalone task. They looked in areas like Claims and Appeals, File a Claim, or Check Claim Status, indicating they saw it as a passive step within the broader claims process rather than something they needed to actively schedule.
-3. Veterans often looked for the status of their community care request in familiar task-based tools like Secure Messages, Appointments, or their My VA and MHV portals rather than in the Community Care section, suggesting the task was likely to be a part of routine care management.
-4. When asked to give a college permission to access their VA benefits, Veterans looked for ways to retrieve documentation rather than complete an authorization step. Many went to Education and Training, Benefit Letters, or Verify School Enrollment, suggesting they understood the task as finding proof of benefits and not giving formal consent or authorization.
-5. When asked to check the status of a submitted housing grant application, more Veterans completed this task successfully than any other in the study, with many navigating to Claims and appeals, Benefit applications and forms, Housing assistance, or Disability → Manage benefits. However, some still went to areas like Benefit payments or My HealtheVet, suggesting lingering uncertainty about whether grant tracking is tied to health tools, financial info, or general benefits.
-6. When asked how to add a child to their VA benefits, Veterans had difficulty identifying the correct path. While some succeeded by selecting Benefit payments or navigating through Disability to manage dependents, many chose paths like Benefit applications and forms, CHAMPVA, Caregiver support, or Pension, suggesting confusion around whether the action was related to family health coverage, new applications, or financial benefits.
-7. When asked to download a toxic exposure record (ILER), several participants looked for it under Medical records, Claims and appeals, or Benefit applications and forms, suggesting confusion about whether ILER falls under health history, claims documentation, or application paperwork.
-
+1. Most Veterans didn’t immediately recognize where to go to schedule a call with a Solid Start representative. Many navigated to more action-oriented areas like *Appointments*, *Find a Location*, or *Benefit Applications*, which suggests they thought of the task as something to book or apply for, rather than a program to learn about.
+2. When asked to schedule a claim exam, many Veterans treated it as part of the broader claims process. They often explored sections like *Claims and Appeals*, *File a Claim*, or *Check Claim Status*, which shows they saw the exam as something that happens automatically and not something they would need to actively schedule themselves.
+3. Veterans looking for the status of a community care request often turned to familiar tools like *Secure Messages*, *Appointments*, or their *My VA* or *MHV* portals. Some went to the *Community Care* section suggesting it's not clear where these kinds of external care actions live.
+4. When asked to give a college permission to access their VA benefits, many participants went to *Education and Training*, *Benefit Letters*, or *Verify School Enrollment*. This shows they were thinking about finding documentation, not completing a formal authorization step.
+5. Veterans checking the status of a housing grant had the highest success rate in the study. Most found their way to sections like *Claims and Appeals*, *Benefit Applications and Forms*, *Housing Assistance*, or *Disability → Manage Benefits*. A few looked in places like *Benefit Payments* or *My HealtheVet*, showing some lingering uncertainty about whether housing benefits are tied to financial tools or health care.
+6. When trying to add a child to their VA benefits, many Veterans connected the task to compensation and explored areas like *Benefit Payments* or *Disability → Manage Dependents*. But a few also went to *Benefit Applications and Forms*, *CHAMPVA*, *Caregiver Support*, or *Pension* which suggests some confusion about whether the task is health related, financial, or part of a new application.
+7. Veterans trying to download their toxic exposure record (ILER) usually looked in *Medical Records*, *Claims and Appeals*, or *Benefit Applications and Forms*. This shows they expected it to be tied to health history or claims, not stored under general records.
 ---
 
 ## Details of findings
@@ -78,36 +79,56 @@ When asked where they would go to check the status of a care request from a prov
 <img width="2075" height="345" alt="image" src="https://github.com/user-attachments/assets/1fb51787-f1a4-4a8f-bc1f-6323a1847fc2" />
 <img width="921" height="412" alt="image" src="https://github.com/user-attachments/assets/c23b355d-249e-4e41-b775-899aad82b7bc" />
 
----
+### Finding 4: Veterans looked for proof of benefits rather than a way to authorize information sharing
+When asked how they would give VA permission to release their benefits information to a college, most participants looked in education-related sections like benefit letters or school enrollment. This suggests they saw the task as retrieving documentation rather than completing an action to authorize sharing. While they were in the right general area, many missed the specific step needed to finish the task. Only 20.8% of participants completed the task successfully.
 
-## Additional insights
+<img width="2127" height="511" alt="image" src="https://github.com/user-attachments/assets/e0c129c7-1a41-4df5-adab-961750bf78d4" />
+<img width="1029" height="560" alt="image" src="https://github.com/user-attachments/assets/08f49878-c104-45eb-9536-43be368c7e68" />
 
-_Include any notes, themes, or patterns observed across tasks._
+### Finding 5: Veterans generally knew where to go to check the status of a housing grant  
+When asked where they would go to check the status of a VA housing grant application, most participants navigated to claims, benefit applications, or housing assistance sections. This shows the task generally aligned well with how users think about tracking applications. With a 77.1% success rate, this was the most successfully completed task in the study. A few participants did look in unrelated areas like medical records or secure messaging, suggesting there may still be some lingering uncertainty about where housing-related benefits live on the site.
+
+<img width="2464" height="380" alt="image" src="https://github.com/user-attachments/assets/ed53afb7-43b4-49a6-898c-f24641d61596" />
+<img width="886" height="564" alt="image" src="https://github.com/user-attachments/assets/56d21617-1503-4142-843a-167c9701344a" />
+
+### Finding 6: Veterans understood the task was compensation-related but were unsure how to manage dependents  
+When asked how to add a child to their VA benefits to increase their monthly compensation, most participants correctly associated the task with compensation and explored sections like disability and benefit payments. However, many also looked in less related areas such as caregiver support or survivor benefits, suggesting it wasn’t immediately clear how to manage dependents. Just 33.3% of participants were able to complete the task successfully.
+
+<img width="2523" height="406" alt="image" src="https://github.com/user-attachments/assets/8ee63ff3-97a7-43ed-b9a8-07ca3c70851a" />
+<img width="994" height="514" alt="image" src="https://github.com/user-attachments/assets/41eb7c51-68d6-4fea-a601-a935df884fbc" />
+
+### Finding 7: Veterans expected toxic exposure records to live under health or claims, not general records  
+When asked where to download their toxic exposure record (ILER) to support a VA benefit claim, most participants looked in medical records or claims-related sections. This suggests they viewed ILER as part of their health history or claim documentation rather than a general records tool. This task had one of the lowest success rates in the study with just 20.8% of participants finding the correct path.
+
+<img width="2061" height="428" alt="image" src="https://github.com/user-attachments/assets/65b518e4-4d57-4768-868d-429599d12388" />
+<img width="1034" height="399" alt="image" src="https://github.com/user-attachments/assets/305a5140-c571-4bf6-a87e-1c194ef2daae" />
 
 ---
 
 ## Recommendations
-
-_Outline improvements to navigation or labeling based on participant behaviors._
+Even with a small sample, a few consistent patterns came through in how Veterans navigated and interpreted the site. Based on those behaviors, there are some initial areas to explore further:
+- Clarify labels and pathways for tasks like adding dependents, checking non-VA care requests, and giving permission to share education benefits.  
+- Reevaluate where tools like ILER or claim exam scheduling live especially if users expect them to be tied to health or claims.  
+- Look at areas where users expected to find proof of something (like letters or records) but actually needed to take an action. This gap came up in more than one task.  
+- Continue leaning into task based entry points especially for high-impact actions tied to compensation, housing, or post-military service support.  
 
 ---
 
 ## Next steps
 
-_Include next steps or action items. Add owner names if known._
+N/A
 
 ---
 
 ## Further research needed
-
-_If you identified gaps or missing demographics, note them here._
+This study offered meaningful insight into how transitioning Veterans move through VA.gov and MHV to approach common tasks. While the patterns we saw were useful, the sample size of just 48 participants wasn’t large enough to draw statistically confident conclusions. These findings should be seen as early signals and not final answers. A second round of research with a larger and more diverse group would help confirm what we saw and uncover anything we might have missed. As part of this effort, it may be helpful to work with the recruitment team at Perigean to strategize ways to reach more transitioning service members and Veterans who are not yet enrolled in VA health care or using VA.gov. Expanding Perigean’s recruitment database to include more of these individuals could also strengthen future research efforts across VA.gov and MHV.
 
 ---
 
 ## Appendix
 
 ### Research plan  
-_Link or summarize as needed_
+[Research Plan for Transitioning service-member Tree-Test, June–July 2025](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2025-06-appointments-and-other-tasks-tree-test/research-plan.md)
 
 ### Tools used for synthesis  
 - Optimal Workshop  
@@ -117,4 +138,4 @@ _Link or summarize as needed_
 N/A
 
 ### Who we talked to  
-
+A total of 48 Veterans completed the study. All participants were either transitioning out of the military or had recently separated and were asked to complete a series of tasks based on common post-service needs. This group represents a small portion of the broader transitioning Veteran population. For context, an estimated 58,000 users engaged with the VA service-member hub in May 2025, and approximately 200,000 individuals transition out of military service each year.
