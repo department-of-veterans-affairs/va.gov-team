@@ -1,10 +1,10 @@
-# My HealtheVet - Orientation Checklist for [NAME]
+# My HealtheVet - Orientation Checklist for [FIRST] [LAST], [ROLE] for the [TEAM] team
 
-Hi, and welcome to the My HealtheVet portal team.  We're glad you're here!
+Hi [FIRST], and welcome to the My HealtheVet portal team.  We're glad you're here!
 
 We've created this orientation checklist to help you learn about our team, what we do, and how we work.  If you are new to this program, we recognize that you won't be able to access some systems and documents right away, so we've organized our orientation to focus on publicly-available information first.  Once you've got your VA email and access to the VA network, you'll be ready to really dig in. 
 
-If you have questions, don't hesitate to reach out to your OCTO practice lead, [NAME] or your OCTO product lead [NAME].
+If you have questions, don't hesitate to reach out to your OCTO practice lead, [PRACTICE-LEAD] or your OCTO product lead [PRODUCT-LEAD].
 
 ## Part 1: Publicly accessible info
 - [ ] [Get to know the team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/health-portal-team.md)
@@ -14,10 +14,11 @@ If you have questions, don't hesitate to reach out to your OCTO practice lead, [
 
 
 ## General MHV Info 
+- [ ] [Read an overview of My HealtheVet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/product-brief.md)
 - [ ] [Get familiar with some of our terminology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/terminology.md)
 - [ ] [Watch an overview of My HealtheVet on VA.gov created for Veterans](https://youtu.be/sTQ0dtUDGx0)
    
-- [ ] Get to know [YOUR PRODUCT]
+- [ ] Get to know [TEAM] and the other MHV products
    - [ ] [Landing page](products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page) / portal experience
    - [ ] [Medical devices and supplies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-devices-and-supplies/product_brief.md)
    - [ ] [Medical Records](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/README.md)
