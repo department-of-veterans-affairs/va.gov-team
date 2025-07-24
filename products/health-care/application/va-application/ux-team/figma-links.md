@@ -126,6 +126,7 @@ These Figma files are for work that is in-flight or archived.
 
 </details>
 
+<details>
 <summary>10-10ECG Link</summary>
 
 | Link description | Form | Ticket number | Figma Link |
