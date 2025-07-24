@@ -1,11 +1,11 @@
 
 ---
 
-# 2025-05 Save in Progress Usability Findings -- WORK IN PROGRESS SO NOT FINAL
+# 2025-05 Save in Progress Usability Findings
 
 **Office of the CTO - Digital Experience (OCTO-DE), Accessibility Digital Experience (ADE)**
 
-**Date:** 07/23/2025
+**Date:** 07/24/2025
 
 **Contacts:** Cindy Merrill
 
@@ -385,7 +385,7 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
 1. **Revise the Save in Progress messaging to communicate more effectively that we're saving the user's form information as it's being entered/updated**. We need to revisit how we communicate what the form is doing so that we inform every user without being annoying.
    - *Supporting evidence:* We're saving automatically with every edit, which participants asked for, but most didn't realize that was actually happening because they didn't see or understand the informational alerts.   
    - Consider the suggestions below:
-      1. Messaging should be better integrated into the user's interaction flow with the form. It's possible that no messaging will be effective before the user has started filling out information, so we should find somewhere other than the intro page and the top of the first page of the form. Users may be more receptive to an alert that shows up later while they're editing and then pause, such as right after they click the *Continue* button. --> *Consider ADDING A SHORT INTERSTITIAL PAGE that explains save in progress between the intro page and the first page of the form*
+      1. Messaging should be better integrated into the user's interaction flow with the form. It's possible that no messaging will be effective before the user has started filling out information, so we should find somewhere other than the intro page and the top of the first page of the form. Users may be more receptive to an alert that shows up later while they're editing and then pause, such as right after they click the *Continue* button. --> *Consider ADDING A SHORT INTERSTITIAL PAGE about automatic saving after the user clicks the Continue button at the bottom of the first form page*
       1. All messaging must be positioned so that it's accessible to AT users. All screen reader users should be able to hear the messaging, even if they start navigating pages from the H1. Messaging should also be aligned with the left margin so that it's most likely to be visible on magnified screens.
       1. Messaging could be reworded for clarity and to lead with what's most important at the beginning to attract attention and ensure visibility to users of both screen readers and screen magnifiers. For example, we could change "We'll save your request on every change" to "Saving will happen automatically..." or "Your information will be saved..."
            1. If we want a message that shows up with every automatic save, it could be very short (e.g., "Saving..." or "Autosaved now"). 
@@ -394,10 +394,10 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
 1. Consider **differentiating the unauth and auth versions of the form intro page so they don't look exactly the same** except for the very bottom. --> *Consider skipping the auth version of the form intro page if the user signs in from the unauth version of the form intro page*
     - *Supporting evidence:* Participants found this disorienting after they signed in but then seemed to still be on the same page. Screen reader users had to listen to the entire page being read out a second time, unlike sighted users who can visually scan to see that most of it's the same and not read every word.
 
-1. **After you click *Finish later*, you should be able to sign out** in the Minimal header format, which is currently not possible. We should revert to the full VA.gov header for the authenticated intro page in order to enable signout. --> *This is a BUG that needs to be fixed*
+1. **After you click *Finish later*, you should be able to sign out** in the Minimal header format, which is currently not possible. We should revert to the full VA.gov header for the authenticated intro page in order to enable signout. --> *Rethink the action buttons on the "Finish later" page and potentially change one of them into a Sign Out button*
      - *Supporting evidence:* There's currently no way to sign out after you click *Finish later* and land on the intro page because you're still seeing only the Minimal header.
 
-1. **On the forms Review/Submit page, consider moving the "+" from the right margin to the left margin**. --> *Try to FIX this* 
+1. **On the forms Review/Submit page, consider moving the "+" from the right margin to the left margin**. --> *Test this in the next round of usability testing, and work with USWDS on a potential change to the accordion component* 
      - *Supporting evidence:* A screen magnifier user didn't see the "+"'s to expand the accordions because they're so far to the right and there was no visual indication that there was anything there that needed scrolling. 
      - There is a [current proposal in the USWDS](https://github.com/uswds/uswds/discussions/6483) to move the open/close icon to the left. 
      - Other research studies with Veterans have reported issues with screen magnifier users being unable to see interactive elements that aren't on the left side of the screen (for example, see [this research finding](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/home-page/research/2022-09-redesign-usability-round2/research-findings.md#5-there-may-be-an-accessibility-issue-for-screen-magnifier-users-with-buttons-on-the-far-right-side-of-web-pages)).
@@ -470,7 +470,7 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
 
 ## Next Steps
 
-1. Discuss findings and recommendations with Matt Dingee and the Design System and Forms Library team.
+1. Revise the design and plan a second round of usability testing.
 1. Reach out to the My VA team to share relevant findings and recommendations.
 
 
