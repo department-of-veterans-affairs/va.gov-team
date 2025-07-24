@@ -3,6 +3,7 @@ This document contains tidbits, odds & ends, and information about the 10-10EZ f
 
 ### Abbreviations
 - ES = Enrollment System/Service
+- VES = Veteran Enrollment System
 - EE/E&E = Eligibility and Enrollment
 - HEC = Heathcare Enrollment Services
 - HCA - Health Care Application (AKA 10-10EZ)
