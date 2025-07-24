@@ -102,7 +102,7 @@ While most participants were able to make a selection, several had to think abou
 
 ### Move forward with current design
 
-* Investigate whether implementing the new design will cause any issues for in-progress forms (Yurena to create ticket for this investigation)  
+* Investigate whether implementing the new design will cause any issues for in-progress forms  
 * If no issues found, finalize design (see Before Launch items below) and move toward implementation
 
 ## Before launch
@@ -126,6 +126,7 @@ While most participants were able to make a selection, several had to think abou
 
 * Since our solution is different from what the Accessibility team recommended, go back to the original thread and let them know what we found  
 * To head off any potential concerns, include research results in Midpoint review package
+* Investigate whether there are any problems with very long condition names in the title.
 
 ## After launch
 
