@@ -56,7 +56,7 @@ The My HealtheVet on VA.gov team’s mission is to simplify Veterans’ health e
 
 ### Horizon
 This cross-functional group serves as the primary points of contact for the delivery team and manages work that impacts the whole portal. During the transition period, Lauren, Bryan, and Daniel will also manage the customer support process.
-- Slack channel: [#mhv-on-vagov-cartography-team](https://dsva.slack.com/archives/C0581MN69TJ)
+- Slack channel: [#mhv-horizon](https://dsva.slack.com/archives/C05DFSM57FW)
 
 |Name|Role|Primary Email|VA Email|DSVA Slack|GitHub|
 |------|----|-----|-----|--------|------|
@@ -116,6 +116,7 @@ During the transition period, the Medications team and Medical Devices team will
 During the transition period, the Medications team and Medical Devices team will work closely together to ensure coverage.
 
 ### Shared Portal Support
+- Slack channel: [#mhv-shared-portal-support](https://dsva.slack.com/archives/C096KNK21SB)
 |Name|Role|Primary Email|VA Email|DSVA Slack|GitHub|
 |------|----|-----|-----|--------|------|
 | Carlos Felix | Technical Architect | carlos.felix@agile6.com | carlos.felixacevedo@va.gov | [@Carlos Felix](https://dsva.slack.com/team/U050V56JD2R) | [carlosfelix2](https://github.com/carlosfelix2) |
@@ -124,7 +125,7 @@ During the transition period, the Medications team and Medical Devices team will
 | Athena Bozak | Researcher/Designer | athena.bozak@agile6.com | Athena.Bozak@va.gov | [@Athena Bozak](https://dsva.slack.com/team/U07VBDM5M6J) | [athenabozak](https://github.com/athenabozak) |
 | Jonathan Nelson | Designer | jonathan.nelson@adhocteam.us | jonathan.nelson@va.gov | [@Jonathan Nelson](https://dsva.slack.com/team/URMHM214N) | [jonathanjnelson](https://github.com/jonathanjnelson) |
 
-## Partner Teams
+## Partner Teams  [WIP - BEING UPDATED]
 
 ### Mobile Feature Support
 - Slack channel: [#mobile-feature-support-public](https://dsva.slack.com/archives/C07SD9P7XB9)
