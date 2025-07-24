@@ -37,7 +37,7 @@ We will briefly discuss adding forms that are from either of the categories abov
 | Statement in Support of Claimed Mental Health Disorder(s) Due to an In-Service Traumatic Event(s) | 21-0781 | ❌ |    | ❌ |
 | Application for Veterans Pension                 | 21P-527EZ          |❌              | ✅                           | ✅ |
 | Application for Burial Benefits                  | 21P-530EZ          |❌              |                              | ✅ |
-| Personalized Career Planning and Guidance/Chapter 36 | 27-8832        |❌              |                              | ❌ (typo? 28-8832) |
+| Personalized Career Planning and Guidance/Chapter 36 | 27-8832        |❌              |                              | ✅ |
 | Application for Pre-Need Determination of Eligibility for Burial in a VA National Cemetery | VA40-10007 |❌ | ✅      | ✅ |
 | Presidential Memorial Certificate Request Form   | 40-0247            |❌              | ✅                           | ✅ |
 | Report of Income from Property or Business       | 21P-4185-UPLOAD    |❌              | ✅                           | ✅ |
