@@ -1,14 +1,12 @@
-<br>**This is a template, PLEASE MAKE A COPY**
 
----
 
-# [Study] Research Findings 
+# EZR Confirmation Flow Research Findings 
 
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
+**Office of the CTO - Digital Experience, Health Enrollment Team, 10-10EZR**
 
-**Date:** MM/DD/YYYY
+**07/24/2025**
 
-**Contacts:** [Researcher/Designer 1], [Researcher/Designer 2]
+**Hieu Vo and Renata Keck**
 
 **[Link to Research Readout](link-here)**  
 *Add a link to your research readout deck, if available.*
@@ -49,10 +47,16 @@
 
 ## Methodology 
 
-*Provide a brief description of the research methods used (e.g., usability testing, interviews).*  
+- Semi-structured interviews
+- Moderated usability testing on [3] tasks, using the think-aloud protocol:
+  - Task 1: Updating spouse's address
+  - Task 2: Fill out your previous year’s financial information
+  - Task 3: Edit an error in your spouse’s financial information
 
-- Method 1: Description  
-- Method 2: Description  
+Note that after the spouse section, users will fork for A/B testing of the proposed confirmation flow and MVP experience:
+
+- Cohort A will see Option Green first, called Prototype Green [Existing version of the Financial Information, moderator provides last year’s financial information]
+- Cohort B will see Option Red first, called Prototype Red [Confirmation Flow version with the gray box reference, moderator does not provide last year’s financial information]
 
 [Example Methodology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#methodology)
 
@@ -64,9 +68,18 @@
 > [!TIP]
 > Place true or false statements in bold for easier scanability
 
+- **Hypothesis Statement: The participant will understand the Spouse Information and Financial Information shown in List&Looop's review page** [Insert statement]  
+  - **Likely True**  
+  - 8/10 participants expressed a clear understanding of spouse and financial information List & Loop component.  
+
+- **Hypothesis Statement: The participant will prefer the Confirmation Flow (Option Red) over the existing MVP flow (Option Green)** [Insert statement]  
+  - **Maybe True**  
+  - 6/10 participants prefer Option Red while 4/10 participants prefer Option Green.
+
 - **Hypothesis Statement:** [Insert statement]  
   - **"Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”**  
   - Supporting evidence  
+
 
 [Example Hypotheses and Conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)
 
