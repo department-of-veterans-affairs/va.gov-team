@@ -138,7 +138,7 @@ We would like Perigean to recruit assistive technology (AT) and non-AT users.
 
 Our intended audience for this study is Veterans with high disability ratings and their dependent spouses and children, who are currently enrolled in the CHAMPVA program. We will split this study into three cohorts:
 
-* **Cohort 1 (n = 6 minimum):** Veterans with a 100% service connected disability rating with spouse and/or dependent children who are currently enrolled in CHAMPVA benefits
+* **Cohort 1 (n = 2 minimum):** Veterans with a 100% service connected disability rating with spouse and/or dependent children who are currently enrolled in CHAMPVA benefits
   
 * **Cohort 2 (n = 8 minimum):** Spouses and dependent children of Veterans with a 100% service connected disability rating, who are currently enrolled in CHAMPVA benefits
 
@@ -154,7 +154,7 @@ Our intended audience for this study is Veterans with high disability ratings an
 **Cohort 1 must:**
 - Be a Veteran with a service-connected disability rating of 100%
 - Have a spouse and/or dependent children
-- **At least 4** spouse/children are _currently_ enrolled in CHAMPVA benefits (remainder can be unsure or not currently enrolled)
+- **At least 1** spouse/children are _currently_ enrolled in CHAMPVA benefits (remainder can be unsure or not currently enrolled)
 - **At least 1** identifies as having a cognitive disability
 
 **Screener Cohort 1 (Veterans with 100% service connected disability whose spouse/dependents are enrolled in CHAMPVA benefits):**
@@ -170,8 +170,8 @@ _Response options: YES or NO_
 
 3. Is your spouse and/or dependents enrolled in the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA)?
 _Response options: YES, NO, UNSURE_
-* Yes (Qualifies for study, recruit **at least 4**, RECORD as enrolled in CHAMPVA)
-* No (Qualifies for study, RECORD as not enrolled in CHAMPVA)
+* Yes (Qualifies for study, recruit **at least 1**, RECORD as enrolled in CHAMPVA)
+* No (Disqualify)
 * Unsure (Qualifies for study, RECORD as unsure if enrolled in CHAMPVA)
 
 4. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.
@@ -181,7 +181,7 @@ _Response options: YES, NO_
   
 **Cohort 2 must:**
 - Identify as a spouse or dependent child of a Veteran with a service-connected disability rating of 100%
-- We'd like to hear from **at least 4** spouses/children who are currently enrolled in Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA), the remainder can be not currently enrolled
+- We'd like to hear from **at least 6** spouses/children who are currently enrolled in Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA), the remainder can be not currently enrolled
 
 **Screener Cohort 2 (Spouses and dependent children of Veterans with a 100% service connected disability):**
 1. Please select the answer that best fits you:
@@ -192,7 +192,7 @@ _Response options: YES, NO (Answering YES would qualify the participant)_
 
 3. Are you enrolled in the Civilian Health and Medical Program of the Department of Veterans Affairs (CHAMPVA)?
 _Response options: YES, NO, UNSURE_
-* Yes (Qualifies for study, recruit **at least 4**, RECORD as enrolled in CHAMPVA)
+* Yes (Qualifies for study, recruit **at least 6**, RECORD as enrolled in CHAMPVA)
 * No (Qualifies, RECORD as not enrolled in CHAMPVA)
 * Unsure (Qualifies for study, RECORD as unsure if enrolled in CHAMPVA)
 
@@ -204,7 +204,7 @@ _Response options: YES, NO, UNSURE_
 
 **Screener Cohort 3 (Veterans with a service connected disability whose spouse/dependents may or may not be enrolled in CHAMPVA benefits):**
 1. Do you currently receive VA disability compensation for a service-connected disability rating of 50% or higher?
-_Response otions: YES or NO_
+_Response options: YES or NO_
 * Yes [jump to next question]
 * No [disqualify]
 
@@ -234,26 +234,25 @@ _Response options: YES or NO_
 
 ### List the ideal completed sessions and total number and type (Veterans, caregivers, etc.) of participants for this study:
 
-- `Veterans:` **6-8**
-- `Spouses and dependent chilren:` **6-8**
+- `Veterans:` **2-4**
+- `Spouses and dependent chilren:` **8-10**
 - `AT users (can be: Veterans and spouses/dependent children:` **2-4**
-- `Total:` **20**
-- `Ideal completed sessions:` **14**
+- `Total:` **18**
+- `Ideal completed sessions:` **12**
 
 ### Primary criteria (must-haves)
 - `At least 2 must use a screen reader or screen magnifier every time they access the internet`
 - `1 must have a cognitive disability`
-- `At least 4 must be primarily mobile users and willing to use it for the session`
+- `At least 6 must be primarily mobile users and willing to use it for the session`
 - `At least 2 must be users on desktop/laptop devices and willing to use it for the session`
-- `At least 8 must NOT use assistive technology`
+- `At least 3 don't have any degree or vocational training after high school`
+- `At least 2 live in a rural or remote area`
 
 #### Secondary criteria (nice-to-haves)
-- `7 must be aged 55-64+`
+- `6 must be aged 55-64+`
+- `At least 4 people of color`
 - `At least 2 women`
-- `At least 2 don't have any degree or vocational training after high school`
 - `At least 2 are 35 or under`
-- `At least 2 live in a rural or remote area`
-- `At least 3 people of color`
   
 ## Timeline 🗓️
 
@@ -284,10 +283,10 @@ We would like to have an AT user pilot, and 2 non-AT user pilot (1 screen reader
   
 - `Buffer time between sessions:` 30 minutes
   
-- `Maximum Sessions per day:` 4 per day
+- `Maximum Sessions per day:` 5 per day
 
 ### Availability
-> - `Monday - Friday 9:00am-5:00pm ET`
+> - `Monday - Friday 8:00am-5:00pm ET`
 
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
