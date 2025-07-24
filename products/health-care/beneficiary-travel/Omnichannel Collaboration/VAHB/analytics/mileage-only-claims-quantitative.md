@@ -8,7 +8,7 @@ Helpful links to calculate metrics:
 - [Datadog Mobile SMOC Performance Dashboard](https://vagov.ddog-gov.com/dashboard/rhb-i5t-2sv/travel-pay-mobile-smoc-performance-dashboard?fromUser=false&refresh_mode=sliding&from_ts=1751661535740&to_ts=1752266335740&live=true)
 
 For comparison:
-- [Google Analytics VA.gov custom SMOC metrics exploration](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/oRSEarxUSKih9wvx1DGnFg)
+- [Google Analytics VA.gov custom SMOC metrics exploration](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/WB_yEBm2TTaTDrby_zQDxg)
 - [Datadog VA.gov SMOC Performance Dashboard](https://vagov.ddog-gov.com/dashboard/27b-m6k-7an/travel-pay-smoc-performance-dashboard?fromUser=false&refresh_mode=paused&from_ts=1749554640000&to_ts=1752207840000&live=false)
 
 
