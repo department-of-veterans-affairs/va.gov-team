@@ -133,7 +133,8 @@ This study offered meaningful insight into how transitioning Veterans move throu
 
 ### Tools used for synthesis  
 - Optimal Workshop  
-- Excel  
+- Excel
+- VA Mural
 
 ### Pages and applications used  
 N/A
