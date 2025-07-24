@@ -116,32 +116,5 @@ _Link or summarize as needed_
 ### Pages and applications used  
 N/A
 
-### Other supporting documents created  
-- H2 tree structure  
-- Task list  
-
-### Secondary research  
-N/A
-
 ### Who we talked to  
-- Veterans: 48 completions across 6 cohorts  
-  - 3 cohorts enrolled in VA health care (26)  
-  - 3 cohorts not enrolled in VA health care (22)  
-  - 86 attempted, 33 abandoned, 5 removed  
-- Family/caregivers: 37 completions across 6 cohorts  
-  - 3 cohorts have used MHV in past 12 months  
-  - 3 cohorts have not used MHV in past 12 months  
-  - 52 attempted, 12 abandoned, 3 removed
 
-### Recruitment criteria  
-_Include any specific screening requirements used._
-
-### Underserved groups we haven’t talked to  
-Complete the VA recruitment checker for marginalized Veteran groups.
-
-This research does not include the perspectives of the following marginalized Veteran groups:  
-- Group 1  
-- Group 2  
-- Group 3  
-
-![VA Recruitment Checker](images/va-recruitment-checker.png)
