@@ -25,7 +25,7 @@ These Figma files are for work that is in-flight or archived.
 <summary>10-10EZ Links</summary>
 
 | Link description  | Ticket number | Figma Link |
-|-----------------------------------------------------------|-----------------|-----------------|-----------------| 
+|-----------------------------------------------------------|-----------------|-----------------| 
 | CYOA Task List Prototypes (used for testing)  | [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/2025-06-Task%20List%20and%20Traditional%20Form%20Unmoderated) | [Figma separate file](https://www.figma.com/design/0DGvBhCaSMf6WH1ofSw35y/10-10EZ---CYOA-Task-List---Prototypes---Study--?node-id=1-111&t=Maa2LwG2WyLwzvFw-0) |
 | CYOA Task List Exploration  | [Ticket](url) | [Figma separate file](https://www.figma.com/design/gQfpIymox9UgkBSwlZXUhy/10-10EZ---Working-File---EPIC-CYOA?node-id=0-1&p=f&t=Maa2LwG2WyLwzvFw-0) |
 | Print PDF - Confirmation page and Reivew Alert | [104471](url) and [108132](url) | [Figma designs](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ-Working-File?node-id=8542-43880) and [nested error alert](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ-Working-File?node-id=9109-13829) |
