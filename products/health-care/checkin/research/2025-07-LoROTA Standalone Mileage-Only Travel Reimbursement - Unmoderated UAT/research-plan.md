@@ -5,15 +5,15 @@
 
 `What problem is your product trying to solve?`
 
-**[Veterans who have medical appointments at VA health facilities that use Oracle Health EHR software (formerly CERNER) have a need to be able to file a mileage-only travel reimbursement claim on the day of their appointment. The greatest value right now for this consortium of Veterans and patient tracking at clinics is to offer Veterans the ability to file a mileage-only travel reimbursement claim using VA's Low Risk One Time Authentication (LoROTA) to streamline the "sign in" process for Veterans.]**
+**Veterans who have medical appointments at VA health facilities that use Oracle Health EHR software (formerly CERNER) have a need to be able to file a mileage-only travel reimbursement claim on the day of their appointment. The greatest value right now for this consortium of Veterans and patient tracking at clinics is to offer Veterans the ability to file a mileage-only travel reimbursement claim using VA's Low Risk One Time Authentication (LoROTA) to streamline the "sign in" process for Veterans.**
 
 `Where is your product situated on VA.gov? (ex: auth vs. unauth)`
 
-**[The online travel reimbursement feature for smartphones will be piloted at a VA health facility where Oracle Health use is mature, e.g., Portland or Columbus. Since in-person research is not feasible at this time, we plan to conduct a survey after participants have filed a claim through the LoROTA standalone mileage-only travel reimbursement application to gather insights and feedback about the experience. ]**
+**The online travel reimbursement feature for smartphones will be piloted at a VA health facility where Oracle Health use is mature, e.g., Portland or Columbus. Since in-person research is not feasible at this time, we plan to conduct a survey after participants have filed a claim through the LoROTA standalone mileage-only travel reimbursement application to gather insights and feedback about the experience.**
 
 `What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?`
 
-**[The feature we are testing is a new iteration of the travel pay flow that will be the travel pay feature at OH facilities. Veterans who have used check-in, pre-check-in, or travel pay prior should have a general level of familiarity with this application and user flow.]**
+**The feature we are testing is a new iteration of the travel pay flow that will be the travel pay feature at OH facilities. Veterans who have used check-in, pre-check-in, or travel pay prior should have a general level of familiarity with this application and user flow.**
 
 `Product Brief`
 
