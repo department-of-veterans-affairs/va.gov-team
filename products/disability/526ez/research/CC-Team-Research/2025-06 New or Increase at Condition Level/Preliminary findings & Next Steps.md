@@ -6,7 +6,7 @@
 
 # Study description
 
-One-hour remote usability study with 7 Veterans, testing a high-fidelity, functional prototype in Staging. Tasks (all in the same claim) included:
+One-hour remote usability study with 7 Veterans, testing a high-fidelity, [functional prototype](https://staging.va.gov/user-testing/conditions) in Staging. Tasks (all in the same claim) included:
 
 1. Add a new condition  
 2. Request an increase for rated condition  
