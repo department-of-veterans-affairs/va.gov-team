@@ -66,23 +66,9 @@ There are no validation use cases for this feature.
 
 ### Errors
 
-<details><summary>System down: Cannot display legal name and/or disability rating</summary>
+[System error: Backend system down](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/profile-shared-use-cases.md#system-errors)
 
-- **Use case:** Backend system that controls the legal name and disability rating are down. A slim warning message appears inline under the section header. It is possible for both of these errors to appear at the same time.
-- **Status code:** TBD
-- **Format:** [Warning slim alert component](https://design.va.gov/components/alert/#web-2)
-- Links to designs
-   - [Legal name](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=974-9490&t=swZ9qiHZq4IykcZK-1)
-   - [Disability rating](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=974-9204&t=swZ9qiHZq4IykcZK-1)
-- **Content:**
-
-Legal name: We're sorry. Something went wrong on our end and we can't load your legal name. Try again later.
-
-Disability rating: We're sorry. Something went wrong on our end and we can't load your disability rating information. Try again later.
-
-</details>
-
-[Backend system down](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/profile-shared-use-cases.md#system-errors)
+[System error: Cannot display section information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/profile-shared-use-cases.md#system-errors)
 
 ---
 
