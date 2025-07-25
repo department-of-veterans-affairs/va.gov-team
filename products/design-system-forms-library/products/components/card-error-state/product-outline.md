@@ -18,14 +18,12 @@
 The error state indicates that something is wrong with the information in card that the user needs to fix before proceeding. In this particular use case, there are required fields displayed within a card that the user needs to enter information for. The error state on a card indicates that the information displayed within the card is invalid or missing.
   
 ## Purpose & Context
-**What problem does this component solve?**
-The error state indicates that the all of the data within the card is invalid or missing. The user needs to update the data before proceeding. 
-
-**Where and how will it be used in the product?**
-The primary use case for the card in error state is when the user is viewing prefilled information (which is displayed in cards, per the "[Help Users to... Know When Their Information is Prefilled](https://design.va.gov/patterns/help-users-to/know-when-their-information-is-prefilled)" pattern) and some of their prefilled information is missing and required for the form.
-
-**Is this a new component or an enhancement to an existing one?**
-It will be a variant of the [Card component](https://design.va.gov/components/card)
+1. What problem does this component solve?
+   1. The error state indicates that the all of the data within the card is invalid or missing. The user needs to update the data before proceeding. 
+1. Where and how will it be used in the product?
+   1. The primary use case for the card in error state is when the user is viewing prefilled information (which is displayed in cards, per the "[Help Users to... Know When Their Information is Prefilled](https://design.va.gov/patterns/help-users-to/know-when-their-information-is-prefilled)" pattern) and some of their prefilled information is missing and required for the form.
+1. Is this a new component or an enhancement to an existing one?
+   1. It will be a variant of the [Card component](https://design.va.gov/components/card)
 
 **Who are the primary users of this component?**
 Teams that build forms
