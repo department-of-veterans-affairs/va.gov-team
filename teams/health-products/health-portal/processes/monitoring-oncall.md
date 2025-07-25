@@ -8,7 +8,7 @@ The Health Portal on VA.gov relies on multiple systems to enable the health expe
 
 ## How we work
 
-This process will evolve as VA tools and capabilities allow us to mature our capabilities.[^1] For the immediate future, we'll need to actively monitor Slack channels for errors from our [MHV Datadog monitors](https://vagov.ddog-gov.com/monitors/manage?q=team%3Amhv).[^2] In the near future, we should be able to have PagerDuty alert engineers when something goes wrong,
+This process will evolve as VA tools and capabilities allow us to mature our capabilities.[^1] For the immediate future, we'll need to actively monitor Slack channels for errors from our [MHV Datadog monitors](https://vagov.ddog-gov.com/monitors/manage?q=team%3Amhv).[^2] In the near future, we should be able to have PagerDuty alert engineers when something goes wrong.
 
 ### Late 2025 process
 
@@ -25,7 +25,7 @@ When PagerDuty is migrated and configured to alert engineers when something goes
 When we see an alert triggered by Datadog, we need to try to understand the severity, systems involved, and possible path to recovery. We should ask ourselves:
 
 - Is the issue with a single endpoint or tool? Or does it affect multiple tools, or all of VA.gov?
-- Is the tool/service appear to be completely down, or experiencing degraded performance?
+- Does the tool/service appear to be completely down, or experiencing degraded performance?
 - Does the issue appear to be a result of a problem with an upstream system, like MHV API? MHV API might retransmit errors from the systems _it_ relies on, such as VistA or Oracle Health.
 - Does the issue appear to be getting worse, or recovering? This may be an indicator of a system operating at or near capacity.
 
