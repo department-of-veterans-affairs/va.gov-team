@@ -15,28 +15,37 @@
 - [Properties / architecture document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/card-error-state/properties-architecture.md)
 
 ## Summary
-- Description of component 
+The error state indicates that something is wrong with the information in card that the user needs to fix before proceeding. In this particular use case, there are required fields displayed within a card that the user needs to enter information for. The error state on a card indicates that the information displayed within the card is invalid or missing.
   
 ## Purpose & Context
-- What problem does this component solve?
-- Where and how will it be used in the product?
-- Is this a new component or an enhancement to an existing one?
-- Who are the primary users of this component?
+**What problem does this component solve?**
+The error state indicates that the all of the data within the card is invalid or missing. The user needs to update the data before proceeding. 
+
+**Where and how will it be used in the product?**
+The primary use case for the card in error state is when the user is viewing prefilled information (which is displayed in cards, per the "[Help Users to... Know When Their Information is Prefilled](https://design.va.gov/patterns/help-users-to/know-when-their-information-is-prefilled)" pattern) and some of their prefilled information is missing and required for the form.
+
+**Is this a new component or an enhancement to an existing one?**
+It will be a variant of the [Card component](https://design.va.gov/components/card)
+
+**Who are the primary users of this component?**
+Teams that build forms
+
 
 ## Tasks / Things to consider
-### Research
-- Audit existing patterns
-- Talk to teams/ stakeholders requesting it
 
 ### Design & UX
-- What are the different states (default, hover, active, disabled, loading)?
-- Are there existing design patterns this should follow or extend?
-- Does it need to support themes (e.g., light/dark mode)?
-- How should it behave responsively (mobile, tablet, desktop)?
+1. What are the different states (default, hover, active, disabled, loading)?
+   1. We are only building the error state on a card. The other states do not need to be considered
+1. Are there existing design patterns this should follow or extend?
+   1. Leverage the existing card design and error state design
+1. Does it need to support themes (e.g., light/dark mode)?
+   1. We currently don't support light/dark mode
+1. How should it behave responsively (mobile, tablet, desktop)?
+   1. The error card will behave similarly to existing card design. When the error state is triggered, the card will not shift to the right or grow wider. It will be narrower to make space for the padding on the left.
 
 ### Content Considerations
-- Is there new content that needs to be run by CIA?
-- Error states, hint text?
+1. Is there new content that needs to be run by CIA?
+   1. We need to work with the content team to determine if these error messages are enough `Select “Add” to enter your [missing information].`
 
 ### Structure & Content
 - What are the required and optional props/inputs?
@@ -68,7 +77,7 @@
 
 ## Timeline 
 
-- Sprint XX
+- Sprint 8
 	- Research / Discovery
 	- Design: 
 - Sprint XX
