@@ -4,10 +4,22 @@ This guide is for taking a confirmation number that a user will see have seen on
 ### Getting the `benefits_intake_uuid` via DataDog
 1. Navigate to [this](https://vagov.ddog-gov.com/dashboard/s5j-ddd-kb8/benefits---income-and-assets---0969---benefits-intake?tile_focus=3106620964428565) DataDog dashboard widget:  
 **NOTE:** Make sure the `env` for the dashboard and the time frame are set correctly (staging -> `eks-staging`, production -> `eks-prod`)
-<img width="750" alt="Screenshot 2025-07-25 at 11 07 14 AM" src="https://github.com/user-attachments/assets/6ef35019-6932-4eba-84de-5085121abb3b" />
+<kbd>
+  <img width="750" alt="Screenshot 2025-07-25 at 11 07 14 AM" src="https://github.com/user-attachments/assets/6ef35019-6932-4eba-84de-5085121abb3b" />
+</kbd>
+&nbsp;
+<kbd>
+  <img width="400" alt="Environment selection dropdown" style="box-shadow: 10px 10px 5px lightblue;" src="https://github.com/user-attachments/assets/d1dcec17-dc1d-4dfc-b45f-045618e50869" />
+</kbd>
+&nbsp;
+<kbd>
+<img width="440" alt="Time range selection dropdown" src="https://github.com/user-attachments/assets/8bec3ce1-b19e-4637-ae87-259d3593e902" />
+</kbd>
 
 3. You should see a list of logs similar to the image above. The second column (outlined in **RED**) should contain a UUID that matches the confirmation number that the user would have seen on the confirmation page on VA.gov. We are interested in the `benefits_intake_uuid` (outlined in **BLUE**) as that will allow us to retrieve the form submission PDF / status from Lighthouse
-<img width="750" alt="Screenshot 2025-07-25 at 10 58 03 AM" src="https://github.com/user-attachments/assets/651852d0-3c04-40f1-8cfc-ec26a8046659" />
+<kbd>
+  <img width="750" alt="Screenshot 2025-07-25 at 10 58 03 AM" src="https://github.com/user-attachments/assets/651852d0-3c04-40f1-8cfc-ec26a8046659" />
+</kbd>
 
 ### Retrieving submission information from Lighthouse Benefits Intake
 **NOTE:** You will need an API key for the Lighthouse Benefits Intake API. If you don't have one already, you can get a new one [here](https://developer.va.gov/explore/api/benefits-intake/sandbox-access)
