@@ -21,8 +21,8 @@ What metrics-based criteria will you look at before advancing rollout to the nex
 
 > See "Helpful Links" section above for the dashboard!
      
-- Index error rate: < 2.5%
-- Download error rate: < 0.3%
+- Index error rate: < 1%
+- Download error rate: < 8.0%
 - Call center complaints: 0
 
 ### Results:  
@@ -41,8 +41,8 @@ What metrics-based criteria will you look at before advancing rollout to the nex
 
 > See "Helpful Links" section above for the dashboard!
 
-- Index error rate: < 2.5%
-- Download error rate: < 0.3%
+- Index error rate: < 1%
+- Download error rate: < 8.0%
 
 ### Anticipated timeline
 
