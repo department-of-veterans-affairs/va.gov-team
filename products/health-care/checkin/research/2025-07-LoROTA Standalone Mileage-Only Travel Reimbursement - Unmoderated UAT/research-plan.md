@@ -147,13 +147,13 @@ We would like 7 cohorts, 9 participants each, total 63 responses. Minimum thresh
 ### Primary criteria (must-haves)
 *What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
 
-- `Cohort A: 9 Veterans age 18-24`(URL here when ready)
-- `Cohort B: 9 Veterans age 18-24`(URL here when ready)
-- `Cohort C: 9 Veterans age 18-24`(URL here when ready)
-- `Cohort D: 9 Veterans age 18-24`(URL here when ready)
-- `Cohort E: 9 Veterans age 18-24`(URL here when ready)
-- `Cohort F: 9 Veterans age 18-24`(URL here when ready)
-- `Cohort G: 9 Veterans age 18-24`(URL here when ready)
+- `Cohort A: 9 Veterans age 18-24`
+- `Cohort B: 9 Veterans age 18-24`
+- `Cohort C: 9 Veterans age 18-24`
+- `Cohort D: 9 Veterans age 18-24`
+- `Cohort E: 9 Veterans age 18-24`
+- `Cohort F: 9 Veterans age 18-24`
+- `Cohort G: 9 Veterans age 18-24`
 
 #### Secondary criteria (nice-to-haves)
 *What criteria would strengthen your results?* 
@@ -168,7 +168,11 @@ We would like 7 cohorts, 9 participants each, total 63 responses. Minimum thresh
 
 ### Optional Kick-off Call with Perigean
 
-- `Will Slack Perigean and set up time:` **[Enter dates and times MM/DD HH:MM]**
+- `Will Slack Perigean and set up time:`
+	- **07/29 2:00-3:00pm PDT**
+	- **07/31 11:00am-12:30pm PDT**
+ 	- **07/31 1:30-3pm PDT**
+	- **08/01 8am-4pm PDT**
 
 ### Length of sessions
 -  `Session length: (e.g. 30 minutes, < 1 hour, up to 2 hours, up to 4 hours)` **[the survey should take participants 15-20 minutes]**
