@@ -28,8 +28,7 @@
 
 
 ## Common use cases
-### User logs in with LOA3 account
-#### Editing Preferred name and Messages signature sections
+### Editing Preferred name and Messages signature sections
 - [Profile shared editing use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/profile-shared-use-cases.md#editing-information)
 
 
