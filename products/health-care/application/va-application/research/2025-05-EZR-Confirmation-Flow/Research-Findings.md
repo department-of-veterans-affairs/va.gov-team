@@ -63,11 +63,6 @@ Note that after the spouse section, users will fork for A/B testing of the propo
 
 ## Hypotheses and Conclusions
 
-*List hypotheses explored in the research and the conclusions drawn. If applicable, list the success or task completion rate.*
-
-> [!TIP]
-> Place true or false statements in bold for easier scanability
-
 - **Hypothesis Statement: The participant will understand the Spouse Information and Financial Information shown in List&Looop's review page** [Insert statement]  
   - **Likely True**  
   - 8/10 participants expressed a clear understanding of spouse and financial information List & Loop component.  
@@ -79,9 +74,6 @@ Note that after the spouse section, users will fork for A/B testing of the propo
 - **Hypothesis Statement:** [Insert statement]  
   - **"Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”**  
   - Supporting evidence  
-
-
-[Example Hypotheses and Conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)
 
 
 ## Key Findings
@@ -210,17 +202,18 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 _If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
 
-We talked to **x participants.**
+We talked to **10 participants.**
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
+* Veterans: 10 
+* Caregivers: 0 
+* Family members of a Veteran: 0  
 
 
 Gender:
-* Male: x 
-* Female: x 
+* Male: 6 
+* Female: 3 
+* Did not answer: 1 
 
 
 LGBTQ+:
@@ -230,48 +223,49 @@ LGBTQ+:
 
 
 Devices used during study: 
-* Desktop: x 
+* Desktop: 8 
 * Tablet: x 
-* Smart phone: x 
+* Smart phone: 2 
 * Assistive Technology: x
 
 
 Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
+* 25-34: 2
+* 35-44: 2
+* 45-54: 1
+* 55-64: 2
+* 65+: 3
 * Unknown: x
 
 
 Education:
 * High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
+* Some college (no degree): 2
+* Associate's degree, trade certificate or vocational training: 2
+* Bachelor's degree: 2
+* Master's degree: 3
 * Doctorate degree: x
-* Unknown: x
+* Unknown: 1
 
 
 Geographic location:
-* Urban: x
-* Rural: x
+* Urban: 9
+* Rural: 1
 * Unknown: x
 
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
+* White: 6
+* Black: 1
+* Hispanic: 1
+* Biracial: 1
 * Asian: x
 * Native: x
+* No answer: 1
 
 
 Disability and Assistive Technology (AT):
-* Cognitive: x
+* Cognitive: 2
 * AT beginner: x
 * AT advanced user: x
 * Desktop screen reader: x
@@ -285,13 +279,16 @@ Disability and Assistive Technology (AT):
 
 ## Underserved groups we haven’t talked to 
 
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
-
 This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
 
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+* Veterans with other than honorable discharge
+* Veterans with immigrant origin
+* Expat (living abroad) veteran
+* Asian Veterans
+* Native American Veterans
+* Gay, lesbian, or bisexual Veterans
+* Transgender Veterans
+* Veterans that use assistive tech 
+
+
+<img width="583" height="483" alt="Screenshot 2025-07-24 at 5 54 09 PM" src="https://github.com/user-attachments/assets/c18a07fe-75a4-4d21-b8c0-b6cf74b8de60" />
