@@ -125,3 +125,15 @@ H2: This page isn't available right now
 We’re sorry. Something went wrong on our end. Refresh this page or try again later.	
 
 </details>
+
+
+<details><summary>Cannot display section information</summary>
+
+- **Use case:** Backend systems that control the individual sections on the pages is down. A slim warning message appears inline under the section header. It is possible for multiple errors to appear at the same time.
+- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
+- [Link to designs](https://www.figma.com/design/Byfu9NRKXCtXN3DuMYguKI/Authenticated-Experience-Team-Symbols?node-id=1042-894&t=2aUKNsBhABYqSK6e-1)
+- **Content:**
+
+We're sorry. Something went wrong on our end and we can't load your [h3 section header]. Try again later.
+
+</details>
