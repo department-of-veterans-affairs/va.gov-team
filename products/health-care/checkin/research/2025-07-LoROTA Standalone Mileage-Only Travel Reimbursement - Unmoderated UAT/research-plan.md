@@ -147,13 +147,13 @@ We would like 7 cohorts, 9 participants each, total 63 responses. Minimum thresh
 ### Primary criteria (must-haves)
 *What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
 
-- `Cohort A: 9 Veterans age 18-24`
-- `Cohort B: 9 Veterans age 25-34`
-- `Cohort C: 9 Veterans age 35-44`
-- `Cohort D: 9 Veterans age 45-54`
-- `Cohort E: 9 Veterans age 55-64`
-- `Cohort F: 9 Veterans age 65-74`
-- `Cohort G: 9 Veterans age 75+`
+- `Cohort A: 9 Veterans age 18-24`[Cohort A link](https://dj540s05.optimalworkshop.com/questions/nwznz4xl?tag=a)
+- `Cohort B: 9 Veterans age 25-34`Cohort B link](https://dj540s05.optimalworkshop.com/questions/nwznz4xl?tag=b)
+- `Cohort C: 9 Veterans age 35-44`Cohort C link](https://dj540s05.optimalworkshop.com/questions/nwznz4xl?tag=c)
+- `Cohort D: 9 Veterans age 45-54`Cohort D link](https://dj540s05.optimalworkshop.com/questions/nwznz4xl?tag=d)
+- `Cohort E: 9 Veterans age 55-64`Cohort E link](https://dj540s05.optimalworkshop.com/questions/nwznz4xl?tag=e)
+- `Cohort F: 9 Veterans age 65-74`Cohort F link](https://dj540s05.optimalworkshop.com/questions/nwznz4xl?tag=f)
+- `Cohort G: 9 Veterans age 75+`Cohort G link](https://dj540s05.optimalworkshop.com/questions/nwznz4xl?tag=g)
 
 #### Secondary criteria (nice-to-haves)
 *What criteria would strengthen your results?* 
