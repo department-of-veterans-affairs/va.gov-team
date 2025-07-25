@@ -20,7 +20,7 @@ We are all here because we want to improve the lives of Veterans.  To that end, 
 - Slack is the preferred communication channel for My HealtheVet teams and most teams creating applications on VA.gov and VA Health and Benefits mobile apps.
 - Anything written in Slack is subject to the Freedom of Information Act (FOIA).
 - We encourage transparency and conversing in public channels by default.
-- Personal Health Information (PHI), Personally Identifiable Information (PHI), and credentials should never be shared in Slack, including private channels.  Use encrypted email or provide a link to the appropriate test user list in the GitHub sensitive repository.  If you're not sure if something qualifies as PHI or PII, ask your OCTO product or engineering lead.
+- Personal Health Information (PHI), Personally Identifiable Information (PII), and credentials should never be shared in Slack, including private channels.  Use encrypted email or provide a link to the appropriate test user list in the GitHub sensitive repository.  If you're not sure if something qualifies as PHI or PII, ask your OCTO product or engineering lead.
 - Before posting in a channel you're new to, read the channel topic and description.  Some teams ask that threads be started with a command to initiate a workflow.
 - Thread conversations to reduce noise in channels 🧵
 - A helpful practice for keeping channels uncluttered is to begin new threads with a short intro, then reply to your own thread to add details and collaborate.
