@@ -148,12 +148,12 @@ We would like 7 cohorts, 9 participants each, total 63 responses. Minimum thresh
 *What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
 
 - `Cohort A: 9 Veterans age 18-24`
-- `Cohort B: 9 Veterans age 18-24`
-- `Cohort C: 9 Veterans age 18-24`
-- `Cohort D: 9 Veterans age 18-24`
-- `Cohort E: 9 Veterans age 18-24`
-- `Cohort F: 9 Veterans age 18-24`
-- `Cohort G: 9 Veterans age 18-24`
+- `Cohort B: 9 Veterans age 25-34`
+- `Cohort C: 9 Veterans age 35-44`
+- `Cohort D: 9 Veterans age 45-54`
+- `Cohort E: 9 Veterans age 55-64`
+- `Cohort F: 9 Veterans age 65-74`
+- `Cohort G: 9 Veterans age 75+`
 
 #### Secondary criteria (nice-to-haves)
 *What criteria would strengthen your results?* 
