@@ -35,7 +35,7 @@ Included in this document are links to all shared VA.gov profile use cases. Thes
 </details>
 
 
-<details><summary>Saving information</summary>
+<details><summary>Saving information: Success</summary>
 
 - **Use case:** When the user selects the Save button, and the form successfully saves, the user is returned to read mode and a slim success alert displays below the section header.
 - **Format:** [Slim success alert](https://design.va.gov/components/alert/#examples---slim-alert)
