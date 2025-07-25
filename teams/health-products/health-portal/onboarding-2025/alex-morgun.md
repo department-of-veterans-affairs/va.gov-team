@@ -33,14 +33,15 @@ If you have questions, don't hesitate to reach out to your OCTO practice lead, m
 <!-- ALL TEAM MEMBERS -->
 ## VA Platform orientation for all team members
 The VA Platform is the quintessential document resource for teams that build products on VA.gov.  Even if you've reviewed this information before, changes can and do happen regularly, so it's highly recommended that you visit these overview pages to be aware of recent updates.  Changes are also announced on the [#mhv-change-announcements](https://dsva.slack.com/archives/C03R5SBELQM) Slack channel.
-- [ ] [General orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/orientation-sessions#Orientationsessions-GeneralOrientation)
-- [ ] [Platform website orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/orientation-sessions#Orientationsessions-PlatformWebsiteOrientation)
-- [ ] [Platform support overview](https://depo-platform-documentation.scrollhelp.site/getting-started/orientation-sessions#Orientationsessions-PlatformSupportOverview)
+- [x] [General orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/orientation-sessions#Orientationsessions-GeneralOrientation) (this was completed during the initial onboarding in June 2022)
+- [x] [Platform website orientation](https://depo-platform-documentation.scrollhelp.site/getting-started/orientation-sessions#Orientationsessions-PlatformWebsiteOrientation)
+- [x] [Platform support overview](https://depo-platform-documentation.scrollhelp.site/getting-started/orientation-sessions#Orientationsessions-PlatformSupportOverview)
 
 ## VA Platform practice-centered orientation and educational tasks
 - [ ] [Design & Researchers](https://depo-platform-documentation.scrollhelp.site/getting-started/educational-tasks#Educationaltasks-Designers&Researchers)
-- [ ] [Front-end engineers](https://depo-platform-documentation.scrollhelp.site/getting-started/educational-tasks#Educationaltasks-Front-endEngineers)
-- [ ] [Back-end engineers](https://depo-platform-documentation.scrollhelp.site/getting-started/educational-tasks#Educationaltasks-Back-endEngineers)
+- [x] [Front-end engineers](https://depo-platform-documentation.scrollhelp.site/getting-started/educational-tasks#Educationaltasks-Front-endEngineers)
+- [x] [Back-end engineers](https://depo-platform-documentation.scrollhelp.site/getting-started/educational-tasks#Educationaltasks-Back-endEngineers)
+- [x] [Collaboration Cycle](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/)
 - [ ] [Product managers & delivery managers](https://depo-platform-documentation.scrollhelp.site/getting-started/educational-tasks#Educationaltasks-ProductManagers&DeliveryManagers)
 
 ## Orientation Part 2
