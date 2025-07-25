@@ -8,7 +8,7 @@
 - Accessibility Specialist: Jeana Clark, Amy Leadem
   
 ## Artifacts
-- [Design Decision log]([url](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/card-error-state/design-decision-log.md)) 
+- [Design Decision log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/card-error-state/design-decision-log.md)
 - [Discovery research ticket or findings](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/4516)
 - Link to Figma flle
 - [Experimental design request](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/4276)
