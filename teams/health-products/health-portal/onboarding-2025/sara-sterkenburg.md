@@ -1,4 +1,4 @@
-# My HealtheVet - Orientation Checklist for Sara Sterkenburg, Information Architect for the Shared Portal Support team
+# My HealtheVet - Orientation Checklist for Sara Sterkenburg, Information Architect for the Horizon team
 
 Hi Sara, and welcome to the My HealtheVet portal team.  We're glad you're here!
 
@@ -18,7 +18,7 @@ If you have questions, don't hesitate to reach out to your OCTO practice lead, r
 - [x] [Get familiar with some of our terminology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/terminology.md)
 - [x] [Watch an overview of My HealtheVet on VA.gov created for Veterans](https://youtu.be/sTQ0dtUDGx0)
    
-- [x] Get to know Shared Portal Support and the other MHV products
+- [x] Get to know Horizon and the other MHV products
    - [x] [Landing page](products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page) / portal experience
    - [x] [Medical devices and supplies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-devices-and-supplies/product_brief.md)
    - [x] [Medical Records](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/README.md)
