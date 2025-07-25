@@ -39,8 +39,8 @@ When an alert is triggered, follow these steps:
    - Note time, affected services, and initial observations
 
 4. **Resolve or escalate**:
-  - Does the issue appear to be getting worse, or recovering? This may be an indicator of a system operating at or near capacity, and _may_ be temporary.
-  - Who can help resolve the issue? Is there a team or individual who can assist with troubleshooting or resolving the issue?
+   - Does the issue appear to be getting worse, or recovering? This may be an indicator of a system operating at or near capacity, and _may_ be temporary.
+   - Who can help resolve the issue? Is there a team or individual who can assist with troubleshooting or resolving the issue?
 
 VA.gov and the MHV Frontend (`vets-website` and `vets-api`) depend on many other systems for data and functionality, and we should be prepared to inform and engage with those system owners to resolve issues
 
