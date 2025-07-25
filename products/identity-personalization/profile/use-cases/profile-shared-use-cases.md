@@ -43,23 +43,32 @@ Included in this document are links to all shared VA.gov profile use cases. Thes
 
 </details>
 
-LEFT OFF HERE
+
+<details><summary>Saving information: Error</summary>
+
+- **Use case:** When the user selects the Save button, and the form does not save, the user is returned to edit mode and a slim error alert displays below the section header.
+- **Format:** [Slim error alert](https://design.va.gov/components/alert/#examples---slim-alert)
+- [Link to designs](https://www.figma.com/design/Byfu9NRKXCtXN3DuMYguKI/Authenticated-Experience-Team-Symbols?node-id=1034-634&t=lV1Oua0bfedXY6kj-1)
+
+</details>
+
+
 <details><summary>Removing information</summary>
 
 - **Use case:** All information in the profile that is added, other than below mentioned, can be removed. Upon removal the user is shown a prompt to confirm that they wish to remove the information. Content varies based on page.
    - Preferred name and Mailing address cannot be removed from profile once they are added.
 - **Format:** [Warning modal](https://design.va.gov/components/modal/#warning)
 - Links to designs
-   - [Personal information: Messages signature](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=960-8794&t=IxDeELaasWg4dcVS-1)
+   - [Personal information: Messages signature](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=960-8794&t=9hBujFpHXKuiKNte-1)
 
 </details>
 
 
 <details><summary>Canceling edit changes</summary>
 
-- **Use case:** If a user has made changes to any form field and the field is correctly and completely filled out they'll see a modal warning message asking to confirm if they want to leave edit mode.
+- **Use case:** If a user has made changes to any form field, and the field is correctly and completely filled out, they'll see a modal warning message asking to confirm if they want to cancel their changes.
 - **Format:** [Warning modal](https://design.va.gov/components/modal/#warning)
-- [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=931-9209&t=IxDeELaasWg4dcVS-1)
+- [Link to designs](https://www.figma.com/design/Byfu9NRKXCtXN3DuMYguKI/Authenticated-Experience-Team-Symbols?node-id=1034-3377&t=lV1Oua0bfedXY6kj-1)
 - **Content:**
 
 Header: Cancel changes?
@@ -77,7 +86,7 @@ Secondary button: No, go back to editing
 
 - **Use case:** If a user attempts to edit a different data point on the page, a modal will trigger informing them they have to complete their action first before starting a new one.
 - **Format:** [Warning modal](https://design.va.gov/components/modal/#warning)
-- [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=931-9449&t=IxDeELaasWg4dcVS-1)
+- [Link to designs](https://www.figma.com/design/Byfu9NRKXCtXN3DuMYguKI/Authenticated-Experience-Team-Symbols?node-id=1034-4134&t=lV1Oua0bfedXY6kj-1)
 - **Content:**
 
 Header: Save or cancel your edits to [H3 section header]
@@ -87,7 +96,6 @@ Before you can edit a new section of your profile, you need to save or cancel yo
 Primary button: OK
 
 </details>
-
 
 
 ## Edge cases
