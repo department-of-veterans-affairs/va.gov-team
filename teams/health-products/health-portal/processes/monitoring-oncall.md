@@ -22,19 +22,31 @@ When PagerDuty is migrated and configured to alert engineers when something goes
 
 ## How to triage
 
-When we see an alert triggered by Datadog, we need to try to understand the severity, systems involved, and possible path to recovery. We should ask ourselves:
+When an alert is triggered, follow these steps:
 
-- Is the issue with a single endpoint or tool? Or does it affect multiple tools, or all of VA.gov?
-- Does the tool/service appear to be completely down, or experiencing degraded performance?
-- Does the issue appear to be a result of a problem with an upstream system, like MHV API? MHV API might retransmit errors from the systems _it_ relies on, such as VistA or Oracle Health.
-- Does the issue appear to be getting worse, or recovering? This may be an indicator of a system operating at or near capacity.
+1. **Assess the scope**:
+   - Is it affecting a single endpoint/tool or multiple services?
+   - Is the service completely down or degraded?
+   - Are users reporting issues? Our Tier 3 Support team may have insights.
+
+2. **Check related systems**:
+   - Check [MHV on VA.gov Portal Overview dashboard](https://vagov.ddog-gov.com/dashboard/r9k-hs7-rpm/mhv-on-vagov-health-portal-overview?fromUser=false&refresh_mode=sliding&from_ts=1753469533766&to_ts=1753473133766&live=true)
+   - Verify if upstream systems (MHV API, VistA, Oracle Health) are operational.[^3]
+   - Does the issue appear to be a result of a problem with an upstream system, like MHV API? MHV API might retransmit errors from the systems _it_ relies on, such as VistA or Oracle Health.
+
+3. **Document the incident**:
+   - Start a thread in the alert channel
+   - Note time, affected services, and initial observations
+
+4. **Resolve or escalate**:
+  - Does the issue appear to be getting worse, or recovering? This may be an indicator of a system operating at or near capacity, and _may_ be temporary.
+  - Who can help resolve the issue? Is there a team or individual who can assist with troubleshooting or resolving the issue?
 
 VA.gov and the MHV Frontend (`vets-website` and `vets-api`) depend on many other systems for data and functionality, and we should be prepared to inform and engage with those system owners to resolve issues
 
 ### Caveats
 
 The alerts that come from Datadog can tell you when something is happening, but won't provide clear information about what is going wrong. The VA's monitors often use a measurement tool called [`statsd`](https://github.com/statsd/statsd) to monitor for statistical anomalies, but at the cost of links to logs that can provide more detail.
-
 
 ## Relevant Links
 
@@ -58,3 +70,5 @@ The alerts that come from Datadog can tell you when something is happening, but 
 [^1]: As of July 2025, PagerDuty has not been configured for notifications, escalation or on-call rotation scheduling. Current use is for controlling maintenance windows. Full use of PagerDuty functionality is pending a migration to a new PagerDuty instance.
 
 [^2]: There is ongoing work to improve the Datadog monitors to improve signal-to-noise and trigger "error" states when something is truly wrong. As of July 2025, monitors need work to provide high signal and low noise.
+
+[^3]: TODO: Identify points of contact
