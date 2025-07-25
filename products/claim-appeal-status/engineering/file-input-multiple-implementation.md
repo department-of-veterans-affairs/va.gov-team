@@ -2,8 +2,8 @@
 
 ## Links
 1. [Storybook](https://design.va.gov/storybook/?path=/docs/uswds-va-file-input-multiple--docs)
-2. [File Input Multiple Web component Implementation](https://github.com/department-of-veterans-affairs/component-library/blob/e276b24d9292c2a5f8b2cde3cc2073c9b92a8404/packages/web-components/src/components/va-file-input-multiple/va-file-input-multiple.tsx)
-3. [File Input Single Web component Implementation](https://github.com/department-of-veterans-affairs/component-library/blob/e276b24d9292c2a5f8b2cde3cc2073c9b92a8404/packages/web-components/src/components/va-file-input/va-file-input.tsx)
+2. [File Input Multiple Web component Implementation](https://github.com/department-of-veterans-affairs/component-library/blob/main/packages/web-components/src/components/va-file-input-multiple/va-file-input-multiple.tsx)
+3. [File Input Single Web component Implementation](https://github.com/department-of-veterans-affairs/component-library/blob/main/packages/web-components/src/components/va-file-input/va-file-input.tsx)
 
 ## User Stories
 See screenshots at the end of this file.
