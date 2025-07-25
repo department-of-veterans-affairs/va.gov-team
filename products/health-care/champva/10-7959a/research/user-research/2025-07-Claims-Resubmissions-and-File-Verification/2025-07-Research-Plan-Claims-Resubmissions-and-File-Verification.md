@@ -200,7 +200,7 @@ _Response options: YES, NO, UNSURE_
 - Be a Veteran with a service-connected disability 
 - Have a spouse and/or dependent children
 - Spouse/children _do not_ need to be enrolled in CHAMPVA benefits, but preferred
-- Recruit 4 assistive tech users - **at least 2 AT user sessions** are needed for this study to be complete
+- Recruit 4 assistive tech users - **at least 2 AT user sessions** are needed for this study to be complete. We would prefer **screen reader users** over magnification.
 
 **Screener Cohort 3 (Veterans with a service connected disability whose spouse/dependents may or may not be enrolled in CHAMPVA benefits):**
 1. Do you currently receive VA disability compensation for a service-connected disability rating of 50% or higher?
@@ -224,10 +224,14 @@ _Response options: YES or NO_
 * Yes [Recruit **at least 2**, proceed to next question]
 * No [Disqualified]
 
-5. [If yes to Q4] Please list the name of the screen reader or screen magnifier technology you will use during the session
+5. How long have you been using this screen reader or screen magnifier?
+* Less than 1 year (DISQUALIFY)
+* At least 1 year (ask next question)
+
+6. [If yes to Q5] Please list the name of the screen reader or screen magnifier technology you will use during the session
 _Response: free text field_ (If user mentions a browser extension such as Real Aloud, this disqualifies them from being recruited as a screen reader user. 
 
-6. Are you willing to join the zoom session using this assistive technology?
+7. Are you willing to join the zoom session using this assistive technology?
 _Response options: YES or NO_
 * Yes [Recruit **at least 2**, proceed to next question]
 * No [Disqualified]
@@ -265,7 +269,7 @@ We would like a kick-off call with Perigean to discuss recruitment criteria. Sug
 > [!NOTE]
 > **Send pilot participant email in study Slack channel**
 
-We would like to have an AT user pilot, and 2 non-AT user pilot (1 screen reader, 1 screen magnifier)
+We would like to have a non-AT user pilot, and 2 AT user pilot (1 screen reader, 1 screen magnifier)
 
 **Non-AT user pilot (1)**
 - `Pilot participant name:` TBD
