@@ -11,7 +11,7 @@ This guide is for taking a confirmation number that a user will see have seen on
 &nbsp;
 
 <kbd>
-  <img width="440" alt="Environment selection dropdown" style="box-shadow: 10px 10px 5px lightblue;" src="https://github.com/user-attachments/assets/d1dcec17-dc1d-4dfc-b45f-045618e50869" />
+  <img width="440" alt="Environment selection dropdown" src="https://github.com/user-attachments/assets/d1dcec17-dc1d-4dfc-b45f-045618e50869" />
 </kbd>
 
 &nbsp;
