@@ -1,5 +1,5 @@
 # OCTO Health Portal Team
-Updated 7/23/2025
+Updated 7/25/2025
 
 ## Table of Contents
 - [Welcome](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/health-portal-team.md#welcome)
@@ -117,6 +117,7 @@ During the transition period, the Medications team and Medical Devices team will
 
 ### Shared Portal Support
 - Slack channel: [#mhv-shared-portal-support](https://dsva.slack.com/archives/C096KNK21SB)
+  
 |Name|Role|Primary Email|VA Email|DSVA Slack|GitHub|
 |------|----|-----|-----|--------|------|
 | Carlos Felix | Technical Architect | carlos.felix@agile6.com | carlos.felixacevedo@va.gov | [@Carlos Felix](https://dsva.slack.com/team/U050V56JD2R) | [carlosfelix2](https://github.com/carlosfelix2) |
