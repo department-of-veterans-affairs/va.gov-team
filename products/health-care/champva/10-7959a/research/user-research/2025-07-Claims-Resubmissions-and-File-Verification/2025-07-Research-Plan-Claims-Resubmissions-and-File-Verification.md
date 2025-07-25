@@ -303,5 +303,5 @@ We would like to have a non-AT user pilot, and 2 AT user pilot (1 screen reader,
 - `Observers:` Will need to sign up so we can limit the number per session. Renata will add them to the session invites received from Perigean.
 
 ## Approvals ✅
-- `Reviewed by Amanda Klausmeier, OCTO Design Lead on [ ]`
+- `Reviewed by Amanda Klausmeier, OCTO Design Lead on [07/25/2025]`
 - `Reviewed by OCTO Research-Ops Lead on [ ]`
