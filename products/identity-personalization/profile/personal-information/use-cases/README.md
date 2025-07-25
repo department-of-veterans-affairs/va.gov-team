@@ -29,7 +29,7 @@
 
 ## Common use cases
 ### Editing Preferred name and Messages signature sections
-- [Profile shared editing use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/profile-shared-use-cases.md#editing-information)
+- [Profile shared editing information use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/profile-shared-use-cases.md#editing-information)
 
 
 
@@ -44,42 +44,29 @@ There are no validation use cases for this feature.
 - **Use case:** When a user does not have VA health care the messages signature section does not show.
 - **Status code:** None
 - **Format:** See designs
-- [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=926-11992&t=IxDeELaasWg4dcVS-1)
+- [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=926-11992&t=9hBujFpHXKuiKNte-1)
 - **Content:** See designs
 
 </details>
 
 <details><summary>User has no disability rating</summary>
 
-- **Use case:** When a user does not have a disability rating.
+- **Use case:** When a user does not have a disability rating, the text in the section changes.
 - **Status code:** None
 - **Format:** See designs
-- [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=974-7077&t=swZ9qiHZq4IykcZK-1)
-- **Content:**
-Our records show that you don’t have a disability rating.
+- [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=974-7077&t=9hBujFpHXKuiKNte-1)
+- **Content:** See designs
 
 </details>
 
-- [Blocked users documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/blocked-account.md)
-- [User logs in with an LOA1 account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
+[Blocked users documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/blocked-account.md)
+
+[User logs in with an LOA1 account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
+
 
 ### Errors
 
-<details><summary>System down: Cannot display personal information</summary>
-
-- **Use case:** Backend system that controls the personal information page is down.
-- **Status code:** None
-- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
-- [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=961-10018&t=IxDeELaasWg4dcVS-1)
-- **Content:**
-
-H2: This page isn't available right now
-
-We’re sorry. Something went wrong on our end. Refresh this page or try again later.
-
-</details>
-
-
+LEFT OFF HERE
 <details><summary>System down: Cannot display legal name and/or disability rating</summary>
 
 - **Use case:** Backend system that controls the legal name and disability rating are down. A slim warning message appears inline under the section header. It is possible for both of these errors to appear at the same time.
@@ -96,9 +83,7 @@ Disability rating: We're sorry. Something went wrong on our end and we can't loa
 
 </details>
 
-
-### Blocked users 
-- [See documentation here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/blocked-account.md)
+[Backend system down](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/profile-shared-use-cases.md#system-errors)
 
 ---
 
