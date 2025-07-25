@@ -1,6 +1,6 @@
 # 2025-06 New/Increase at Condition Level: Topline Research Findings and Next Steps
 
-**Date:** 07/22/2025
+**Date:** 07/25/2025
 
 **Contacts:** [Kim Ladin](mailto:kimladin@navapbc.com), [brian.pianalto@aquia.io](mailto:brian.pianalto@aquia.io)
 
@@ -139,7 +139,7 @@ While most participants were able to make a selection, several had to think abou
 
 3. ### Investigate problem with phone keyboard obscuring autosuggestion dropdown
 
-* Leah spoke with Shannon about this and she said the data indicates the problem isn't as severe as we encountered. Follow up on this.  
+* Investigate how common this problem is.  
 * Create some backlog issues to continue working on improving this after we ship.  
   * One idea Leah had would be to build functionality similar to the way sites frequently offer to correct your mailing address (but as another step, not a pop up).
 
@@ -148,7 +148,7 @@ While most participants were able to make a selection, several had to think abou
 5. ### Improve date screens
 
 * Try again for approval to remove Day field  
-  * Open an issue and check in with Shannon's efforts to resolve this with VBA in a couple months.  
+  * Open an issue and check in on efforts to resolve this with VBA in a couple months.  
 * Consider if helper text could be added or improved  
   * Add information about how the date will be used?  
   * Comment from Leah: I also was wondering if it would help them if we clarified how the date is used by VSRs. I actually think Shannon might be the best resource to answer this question. I'm imagining some helper language that helps them understand how it will be used, that conveys reviewers cast a very wide net (Shannon said they usually just request the whole file regardless of the date), but that the date can help them figure out where to start looking. But maybe that's revealing too much sausage-making?
