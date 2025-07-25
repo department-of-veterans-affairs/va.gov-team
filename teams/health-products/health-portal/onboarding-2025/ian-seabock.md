@@ -4,7 +4,8 @@ Hi Ian, and welcome to the My HealtheVet portal team.  We're glad you're here!
 
 We've created this orientation checklist to help you learn about our team, what we do, and how we work.  If you are new to this program, we recognize that you won't be able to access some systems and documents right away, so we've organized our orientation to focus on publicly-available information first.  Once you've got your VA email and access to the VA network, you'll be ready to really dig in. 
 
-If you have questions, don't hesitate to reach out to your OCTO practice lead, mark.dewey@va.gov or adrian.rollett@va.gov or your OCTO product lead marci.mcguire@va.gov.
+If you have questions, don't hesitate to reach out to your OCTO practice lead, mark.dewey@va.gov or
+  adrian.rollett@va.gov or your OCTO product lead marci.mcguire@va.gov.
 
 ## Part 1: Publicly accessible info
 - [ ] [Get to know the team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/health-portal-team.md)
