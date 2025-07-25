@@ -66,13 +66,12 @@ There are no validation use cases for this feature.
 
 ### Errors
 
-LEFT OFF HERE
 <details><summary>System down: Cannot display legal name and/or disability rating</summary>
 
 - **Use case:** Backend system that controls the legal name and disability rating are down. A slim warning message appears inline under the section header. It is possible for both of these errors to appear at the same time.
-- **Status code:** None
+- **Status code:** TBD
 - **Format:** [Warning slim alert component](https://design.va.gov/components/alert/#web-2)
-- REFERENCE Links to designs
+- Links to designs
    - [Legal name](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=974-9490&t=swZ9qiHZq4IykcZK-1)
    - [Disability rating](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=974-9204&t=swZ9qiHZq4IykcZK-1)
 - **Content:**
