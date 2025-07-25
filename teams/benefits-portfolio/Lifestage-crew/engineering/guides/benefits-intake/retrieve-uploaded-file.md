@@ -19,7 +19,10 @@ This guide is for taking a confirmation number that a user will see have seen on
 # apikey: Your API key for use with the Lighthouse Benefits Intake API
 # filename: This is the name that the ZIP will assume when it's saved to your computer
 # Note: Make sure that the host (eg. sandbox-api.va.gov) is correct and maps to the one for the environment in VA.gov you are interested in
-curl -X GET 'https://sandbox-api.va.gov/services/vba_documents/v1/uploads/{benefits_intake_uuid}/download' --header 'apikey: {apikey}' --header 'accept: application/zip' > {filename}.zip
+curl -X GET 'https://sandbox-api.va.gov/services/vba_documents/v1/uploads/{benefits_intake_uuid}/download' \
+  --header 'apikey: {apikey}' \
+  --header 'accept: application/zip' \
+  > {filename}.zip
 ```
 
 #### Retrieving the current status of the submission
@@ -29,6 +32,8 @@ curl -X GET 'https://sandbox-api.va.gov/services/vba_documents/v1/uploads/{benef
 # benefits_intake_uuid: The UUID we got from DataDog column 3 (outlined in BLUE in the screenshot above)
 # apikey: Your API key for use with the Lighthouse Benefits Intake API
 # Note: Make sure that the host (eg. sandbox-api.va.gov) is correct and maps to the one for the environment in VA.gov you are interested in
-curl -X GET 'https://sandbox-api.va.gov/services/vba_documents/v1/uploads/{benefits_intake_uuid}' --header 'apikey: {apikey}' --header 'accept: application/json'
+curl -X GET 'https://sandbox-api.va.gov/services/vba_documents/v1/uploads/{benefits_intake_uuid}' \
+  --header 'apikey: {apikey}' \
+  --header 'accept: application/json'
 ```
 
