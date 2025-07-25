@@ -125,7 +125,7 @@ During the transition period, the Medications team and Medical Devices team will
 |Name|Role|Primary Email|VA Email|DSVA Slack|GitHub|
 |------|----|-----|-----|--------|------|
 | Carlos Felix | Technical Architect | carlos.felix@agile6.com | carlos.felixacevedo@va.gov | [@Carlos Felix](https://dsva.slack.com/team/U050V56JD2R) | [carlosfelix2](https://github.com/carlosfelix2) |
-| Sarah Horton | Accessibility Specialist | sarah.horton@adhocteam.us | TBD | TBD | TBD |
+| Sarah Horton | Accessibility Specialist | sarah.horton@adhocteam.us | TBD | TBD | [sarahhorton-ah](https://github.com/sarahhorton-ah) |
 | Steven Gallagher | Frontend Engineer | sgallagher@ironarchtech.com | TBD | TBD | [steveg-IAT](https://github.com/steveg-IAT) |
 | Athena Bozak | Researcher/Designer | athena.bozak@agile6.com | Athena.Bozak@va.gov | [@Athena Bozak](https://dsva.slack.com/team/U07VBDM5M6J) | [athenabozak](https://github.com/athenabozak) |
 | Jonathan Nelson | Designer | jonathan.nelson@adhocteam.us | jonathan.nelson@va.gov | [@Jonathan Nelson](https://dsva.slack.com/team/URMHM214N) | [jonathanjnelson](https://github.com/jonathanjnelson) |
