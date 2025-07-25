@@ -7,11 +7,15 @@ This guide is for taking a confirmation number that a user will see have seen on
 <kbd>
   <img width="750" alt="Screenshot 2025-07-25 at 11 07 14 AM" src="https://github.com/user-attachments/assets/6ef35019-6932-4eba-84de-5085121abb3b" />
 </kbd>
+
 &nbsp;
+
 <kbd>
   <img width="400" alt="Environment selection dropdown" style="box-shadow: 10px 10px 5px lightblue;" src="https://github.com/user-attachments/assets/d1dcec17-dc1d-4dfc-b45f-045618e50869" />
 </kbd>
+
 &nbsp;
+
 <kbd>
 <img width="440" alt="Time range selection dropdown" src="https://github.com/user-attachments/assets/8bec3ce1-b19e-4637-ae87-259d3593e902" />
 </kbd>
