@@ -1,8 +1,7 @@
 # Personal Information Use Cases
-
 **Last updated: July 2025**
 
-- [User flow](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=931-9736&t=XpeLUcvcZmicphy6-1)
+- [User flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1753459771642/6c6889e40ac249724ef1b9968f6b0ba7c57a05ad?wid=149-1753459813526&outline=open)
 - [Figma files](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=918-3504&t=XpeLUcvcZmicphy6-1)
 - Test Rail QA
 
@@ -12,8 +11,8 @@
 
 </details>
 
+
 ## Current experience
-- For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the user will be directed to the Profile Account Security section. [See LOA1 account documentation.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
 - The following user information is on the page:
    - Read only information
      - Legal name
@@ -23,119 +22,16 @@
      - Preferred name
         - Note: Once added there is no way to delete a preferred name. This is a future feature VA Profile is working on.
      - Messages signature (MHV)
-        - Note: Only shows for those with health care.
+        - Note: Only shows for those with VA health care.
+- For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the user will be directed to the Profile Account Security section.
+
 
 
 ## Common use cases
-### User logs in with LOA1 account
-- [User logs in with an LOA1 account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
-
 ### User logs in with LOA3 account
-#### Preferred name and Messages signature
+#### Editing Preferred name and Messages signature sections
+- [Profile shared editing use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/profile-shared-use-cases.md#editing-information)
 
-<details><summary>Adding information</summary>
-
-- **Use case:** For each section without information on file, i.e. a `null` value, the user will see the name of the section and prompt to edit their profile to add [section information]. Clicking the Edit button will put the section into an inline edit mode.
-- **Status code:** None
-- **Format:** See designs
-- [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=929-10407&t=IxDeELaasWg4dcVS-1)
-- **Content:** See designs
-
-</details>
-
-
-<details><summary>Editing information</summary>
-
-- **Use case:** Clicking the Edit button will put the section into edit mode and reveal the editable fields inline. If there are input errors they show inline with the input field.
-- **Status code:** None
-- **Format:** See designs
-- Links to designs
-   - [Preferred name](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=927-7211&t=IxDeELaasWg4dcVS-1)
-   - [Messages signature](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=930-4389&t=IxDeELaasWg4dcVS-1)
-- **Content:** See designs
-
-</details>
-
-
-<details><summary>Save in progress alert</summary>
-
-- **Use case:** Shows while the users information is in the process of being saved. Field value and buttons are hidden since there is an action in progress, and we’re waiting for a response to display the correct field value.
-- **Status code:** None
-- **Format:** [Loading indicator in button](https://design.va.gov/components/loading-indicator)
-- [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=950-7612&t=IxDeELaasWg4dcVS-1)
-- **Content:** See designs
-
-</details>
-
-
-<details><summary>Saving information</summary>
-
-- **Use case:** Changes are saved once the user presses the Save button. Once the form is successfully saved, the user is returned to read mode and a slim success alert should display below the section header.
-- **Status code:** 200
-- **Format:** [Slim success alert](https://design.va.gov/components/alert/#examples---slim-alert)
-- [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=927-9728&t=IxDeELaasWg4dcVS-1)
-- **Content:** Update saved.
-
-</details>
-
-
-<details><summary>Removing information</summary>
-
-- **Use case:** Preferred name cannot be removed once added.
-   - Messages signature can be removed by clicking the remove button, which will trigger a modal prompting the user to confirm they want to remove their information.
-- **Status code:** None
-- **Format:** [Warning modal](https://design.va.gov/components/modal/#warning)
-- [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=960-8794&t=IxDeELaasWg4dcVS-1)
-- **Content:**
-
-Header: Remove signature?
-
-Your signature will no longer appear on outgoing secure messages.
-
-You can always come back to your profile later if you want to add this signature again.
-
-Primary button: Yes, remove my signature
-
-Secondary button: No, cancel this change
-
-</details>
-
-
-<details><summary>Canceling edit changes</summary>
-
-- **Use case:** If a user has made changes to any form field, has not correctly or completely filled out the field, and hits cancel, they will trigger an inline error.
-	- If the field is correctly and completely filled out, or they hit cancel a second time, they'll see a modal warning message asking to confirm if they want to leave edit mode.
-- **Status code:** None
-- **Format:** [Warning modal](https://design.va.gov/components/modal/#warning)
-- [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=931-9209&t=IxDeELaasWg4dcVS-1)
-- **Content:**
-
-Header: Cancel changes?
-
-You haven’t finished editing and saving the changes to your [H3 section title]. If you cancel now, we won’t save your changes.
-
-Primary button: Yes, cancel my changes
-
-Secondary button: No, go back to editing
-
-</details>
-
-
-<details><summary>Edit new information while editing</summary>
-
-- **Use case:** If a user attempts to edit a different data point on the page, a modal will trigger informing them they have to complete their action first before starting a new one.
-- **Status code:** None
-- **Format:** [Warning modal](https://design.va.gov/components/modal/#warning)
-- [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=931-9449&t=IxDeELaasWg4dcVS-1)
-- **Content:**
-
-Header: Save or cancel your edits to [H3 section header]
-
-Before you can edit a new section of your profile, you need to save or cancel your edits to your [H3 section header]. If you cancel, we won't save your in-progress edits.
-
-Primary button: OK
-
-</details>
 
 
 ## Edge cases
@@ -164,6 +60,9 @@ There are no validation use cases for this feature.
 Our records show that you don’t have a disability rating.
 
 </details>
+
+- [Blocked users documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/blocked-account.md)
+- [User logs in with an LOA1 account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
 
 ### Errors
 
