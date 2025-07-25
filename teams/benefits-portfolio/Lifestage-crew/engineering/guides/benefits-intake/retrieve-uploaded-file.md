@@ -11,7 +11,7 @@ This guide is for taking a confirmation number that a user will see have seen on
 ### Retrieving submission information from Lighthouse Benefits Intake
 **NOTE:** You will need an API key for the Lighthouse Benefits Intake API. If you don't have one already, you can get a new one [here](https://developer.va.gov/explore/api/benefits-intake/sandbox-access)
 
-Current host mapping (as of 07/25/2025)
+#### Current host mapping (as of 07/25/2025)  
 **NOTE:** This may be out of date, so if you get a corrupted ZIP back, it's possible the host needs to be updated
 - VA.gov Staging: `sandbox-api.va.gov`
 - VA.gov Production: `api.va.gov`
