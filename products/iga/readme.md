@@ -8,21 +8,44 @@
 *After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
 
 ## Problem Statement
+VA is working to implement a new enterprise-wide Identity Governance and Administration (IGA) tool - Saviynt Enterprise Identity Cloud - for its workforce of employees and contractors. While the tool is FedRAMP-authorized, it must still obtain VA Authority to Operate (ATO) before it can be used in production. Currently, the VA lacks a standardized, enterprise-level IGA system, relying instead on fragmented and often manual legacy processes that are inefficient, error-prone, and difficult to scale. The challenge spans across the VA’s complex IT environment, where legacy and modern systems coexist and will need to be integrated and eventually replaced.
 
+How might we enable a smooth, secure, and scalable transition to a centralized identity governance system that supports timely access, accountability, and modernization across a vast and complex VA ecosystem?
  
 ## Desired User Outcomes
 
-- 
+- As an Admin, I want to quickly and easily grant a user access based on their roles so that they are not blocked from doing the work they need to do and cause unnecessary delays for finance or acquisition-related tasks.
+- As an Admin, I want to quickly and easily modify a user’s account access so that the user can support a second organization they have been assigned to.
+- As an Admin, I want to be able to quickly and easily provision users so that their time to onboard and spent waiting decreases.
+- As an Admin, I want to be able to quickly and easily deprovision users so that VA assets and systems remain secure, even after an employee moves roles or leaves.
+- As a user, I can easily request access modifications, and low-risk modifications can be automatically approved.
 
 ## Undesired User Outcomes
 
 
 ## Desired Business Outcomes
 
-- 
+- Obtain and maintain the ATO for the IGA-tool to ensure that it remains compliant with VA security requirements and best practices.
+- Delivery and maintenance of the product strategy and roadmap for IGA modernization.
+- Delivery of the transition roadmap from legacy IGA services and integrations to the modern solution.
+- Implement the enterprise IGA solution and integrate it with other VA systems to improve productivity, efficiency, and security.
+- Launch the IGA tool into production in a phased rollout to enable successful adoption of users that improves their user experience.
+- Enable automation and automated workflows wherever possible to improve the user experience.
+- Provide cost savings to the VA through reduction in the maintenance required for legacy systems that can be replaced by IGA functionality.
+- Establish an enterprise-wide, cloud-based IGA platform that enables identity lifecycle management as well as other critical features for VA modernization.
+- Through research, ensure all IGA solution experiences are consistent with the broader experience goals and strategy across ICAM
 
 ## Undesired Business Outcomes
-- 
+- Over scoping initial deployment
+- Failing to identify all authoritative sources and perform data analyses on them
+- Incomplete identity data mapping for each use case
+- Skipping environmental cleanup efforts
+- Rushing a rollout at the cost of poor data quality, data loss, and/or integration
+- Poor communication between our partner teams, stakeholders, and vendors
+- Focusing on large, single milestones instead of incremental progress
+- Failing to plan and execute the transition of legacy systems replaced by IGA
+- Security breaches
+- Significant UX pain points inconsistent with broader ICAM Experience goals
 
 ---
 ## Measuring Success
