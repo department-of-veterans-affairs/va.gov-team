@@ -28,22 +28,22 @@ Included in this document are links to all shared VA.gov profile use cases. Thes
 
 <details><summary>Save in progress alert</summary>
 
-- **Use case:** Loading button shows while the users information is in the process of being saved. Field value and buttons are hidden since there is an action in progress, and we’re waiting for a response to display the correct field value.
+- **Use case:** Loading button shows while the users information is in the process of being saved. Field value and buttons are hidden since there is an action in progress.
 - **Format:** [Loading indicator in button](https://design.va.gov/components/loading-indicator)
-- [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=950-7612&t=IxDeELaasWg4dcVS-1)
+- [Link to designs](https://www.figma.com/design/Byfu9NRKXCtXN3DuMYguKI/Authenticated-Experience-Team-Symbols?node-id=1027-1606&t=lV1Oua0bfedXY6kj-1)
 
 </details>
 
 
 <details><summary>Saving information</summary>
 
-- **Use case:** Changes are saved once the user presses the Save button. Once the form is successfully saved, the user is returned to read mode and a slim success alert should display below the section header.
+- **Use case:** When the user selects the Save button, and the form successfully saves, the user is returned to read mode and a slim success alert displays below the section header.
 - **Format:** [Slim success alert](https://design.va.gov/components/alert/#examples---slim-alert)
-- [Link to designs](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=927-9728&t=IxDeELaasWg4dcVS-1)
+- [Link to designs](https://www.figma.com/design/Byfu9NRKXCtXN3DuMYguKI/Authenticated-Experience-Team-Symbols?node-id=1027-2055&t=lV1Oua0bfedXY6kj-1)
 
 </details>
 
-
+LEFT OFF HERE
 <details><summary>Removing information</summary>
 
 - **Use case:** All information in the profile that is added, other than below mentioned, can be removed. Upon removal the user is shown a prompt to confirm that they wish to remove the information. Content varies based on page.
