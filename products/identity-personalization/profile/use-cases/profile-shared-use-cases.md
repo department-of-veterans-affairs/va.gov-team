@@ -6,11 +6,7 @@ Included in this document are links to all shared VA.gov profile use cases. Thes
 
 
 ## Common use cases
-### User logs in with LOA1 account
-- [User logs in with an LOA1 account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
-
-### User logs in with LOA3 account
-#### Editing information
+### Editing information
 TBD
 
 
@@ -18,8 +14,14 @@ TBD
 ### Validation
 There are no shared validations.
 
+
 ### Flags
-There are no shared flags.
+#### User logs in with LOA1 account
+- [User logs in with an LOA1 account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
+
+#### Blocked users
+- [Blocked users documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/blocked-account.md)
+
 
 ### Errors
 #### System errors
@@ -35,6 +37,3 @@ H2: This page isn't available right now
 We’re sorry. Something went wrong on our end. Refresh this page or try again later.	
 
 </details>
-
-### Blocked users 
-- [See documentation here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/blocked-account.md)
