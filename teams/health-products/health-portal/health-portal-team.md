@@ -103,7 +103,7 @@ During the transition period, the Medications team and Medical Devices team will
 | Alex Morgun | Frontend Engineer | amorgun@ironarchtech.com | alex.morgun@va.gov | [@Alex Morgun](https://dsva.slack.com/archives/D094PG1DUCB) | [alex-morgun-1](https://github.com/alex-morgun-1) |
 | Kevin Suarez | Backend Engineer | kevin.suarez@agile6.com | kevin.suarez1@va.gov | [@Kevin Suarez](https://dsva.slack.com/team/U081A32NU4X) | [kjsuarez](https://github.com/kjsuarez) |
 | Adam Stoler | Fullstack Engineer | adam.stoler@agile6.com | TBD | TBD | TBD |
-| Jason Congliari | Fullstack Engineer | jConigliari@ironarchtech.com | TBD | TBD | [Tonksthebear](https://github.com/Tonksthebear) |
+| Jason Congliari | Fullstack Engineer | jConigliari@ironarchtech.com | jason.conigliari@va.gov | TBD | [Tonksthebear](https://github.com/Tonksthebear) |
 | Clint Wilde | Backend Engineer (Liferay) | clint.wilde@docme360.com | Clint.wilde@va.gov | TBD | [clintwildeva](https://github.com/clintwildeva) |
 | Mario Williams | Frontend Engineer (Liferay) | mwilliams@ironarchtech.com | TBD | TBD | TBD |
 | Jayson Perkins | Mobile Engineer | jayson.perkins@adhocteam.us | jayson.perkins@va.gov | [@Jayson Perkins](https://dsva.slack.com/team/U01A8SZCMHA) | [jperk51](https://github.com/jperk51) |
