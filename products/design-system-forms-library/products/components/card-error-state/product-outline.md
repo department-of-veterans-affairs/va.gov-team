@@ -3,16 +3,16 @@
 
 ## Design System Team
 - Product Managers: Carol Wong, Tricia Baker
-- Designer: Dan Brady
+- Designer: Jeana Clark
 - Web Dev: Jami Gibbs, Eddie Otero
 - Accessibility Specialist: Jeana Clark, Amy Leadem
   
 ## Artifacts
-- link to Design Decision log 
-- Link to discovery research ticket or findings
+- [Design Decision log]([url](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/card-error-state/design-decision-log.md)) 
+- [Discovery research ticket or findings](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/4516)
 - Link to Figma flle
-- Link to Experimental design request if applicable
-- Link to properties / architecture document
+- [Experimental design request](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/4276)
+- [Properties / architecture document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/card-error-state/properties-architecture.md)
 
 ## Summary
 - Description of component 
