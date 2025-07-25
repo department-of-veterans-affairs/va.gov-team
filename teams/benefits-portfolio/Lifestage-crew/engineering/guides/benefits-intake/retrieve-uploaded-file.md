@@ -2,7 +2,7 @@
 This guide is for taking a confirmation number that a user will see have seen on VA.gov and retrieving the form submission PDF / status from the Lighthouse Benefits Intake API
 
 ### Getting the `benefits_intake_uuid` via DataDog
-1. Navigate to [this](https://vagov.ddog-gov.com/dashboard/s5j-ddd-kb8/benefits---income-and-assets---0969---benefits-intake?tile_focus=3106620964428565) DataDog dashboard widget:
+1. Navigate to [this](https://vagov.ddog-gov.com/dashboard/s5j-ddd-kb8/benefits---income-and-assets---0969---benefits-intake?tile_focus=3106620964428565) DataDog dashboard widget:  
 **NOTE:** Make sure the `env` for the dashboard and the time frame are set correctly (staging -> `eks-staging`, production -> `eks-prod`)
 <img width="750" alt="Screenshot 2025-07-25 at 11 07 14 AM" src="https://github.com/user-attachments/assets/6ef35019-6932-4eba-84de-5085121abb3b" />
 
