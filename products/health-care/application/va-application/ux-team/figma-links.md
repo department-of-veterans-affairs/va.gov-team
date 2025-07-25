@@ -25,12 +25,12 @@ Note: for some larger epics (CYOA and Registration) there are separete Figma fil
 
 <summary>10-10EZ Links</summary>
 
-| Link description  | Ticket number | Figma Link |
+| Description  | Tickets/resources | Figma Link |
 |-----------------------------------------------------------|-----------------|-----------------| 
 | Header updates | [#55518](url) | [Figma designs](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ-Working-File?node-id=9838-14439) |
 | Insurance List and Loop | [#88804](url) - unblocked by forms library | [Figma designs](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ-Working-File?node-id=5139-31117) |
 | CYOA Task List Prototypes (used for research study)  | [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/2025-06-Task%20List%20and%20Traditional%20Form%20Unmoderated) | [Figma separate file](https://www.figma.com/design/0DGvBhCaSMf6WH1ofSw35y/10-10EZ---CYOA-Task-List---Prototypes---Study--?node-id=1-111&t=Maa2LwG2WyLwzvFw-0) |
-| CYOA Task List Exploration  | [Ticket](url) | [Figma separate file](https://www.figma.com/design/gQfpIymox9UgkBSwlZXUhy/10-10EZ---Working-File---EPIC-CYOA?node-id=0-1&p=f&t=Maa2LwG2WyLwzvFw-0) |
+| CYOA Task List Exploration  | [Github folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/Choose-your-own-adventure) | [Figma separate file](https://www.figma.com/design/gQfpIymox9UgkBSwlZXUhy/10-10EZ---Working-File---EPIC-CYOA?node-id=0-1&p=f&t=Maa2LwG2WyLwzvFw-0) |
 | Print PDF - Confirmation page and Reivew Alert | [#104471](url) and [#108132](url) | [Figma designs](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ-Working-File?node-id=8542-43880) and [nested error alert](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ-Working-File?node-id=9109-13829) |
 | Toxic Exposure brancing logic | [89059](url) | [Figma designs](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ-Working-File?node-id=5148-33527) |
 | Toxic Exposure content updates  | [81910](https://app.zenhub.com/workspaces/10-10-health-apps-5fff0cfd1462b6000e320fc7/issues/gh/department-of-veterans-affairs/va.gov-team/81910) | [Figma designs](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=0-7191) |
