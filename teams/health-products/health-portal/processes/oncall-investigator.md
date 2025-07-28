@@ -1,7 +1,9 @@
-# Engineering Investigator On-Call
+# Investigator On-Call
+
+Created: 2025-07-28
 
 ## Overview
-The Engineering Investigator On-Call role is designed to provide dedicated support for non-urgent technical investigations and requests. This document outlines the responsibilities, processes, and expectations for engineers serving in this capacity.
+The Investigator On-Call role is designed to provide dedicated support for non-urgent technical investigations and requests. This document outlines the responsibilities, processes, and expectations for engineers serving in this capacity.
 
 ## Role Description
 The on-call investigator serves as the primary point of contact for addressing technical questions, technical research,and resolving non-urgent issues that require engineering expertise. This role helps maintain team productivity by allowing other engineers to focus on planned work while ensuring technical inquiries receive proper attention.
@@ -41,3 +43,4 @@ The on-call investigator serves as the primary point of contact for addressing t
 - Documentation and knowledge bases
 - Previous investigation reports
 - Team Slack channel for collaboration
+- [Monitoring oncall](./oncall-monitoring.md)
