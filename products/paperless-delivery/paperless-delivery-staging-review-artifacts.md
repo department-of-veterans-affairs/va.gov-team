@@ -13,8 +13,8 @@ All users should see the new Communication Settings box in the Profile Hub and a
 - LOA3 user who has opted-in to paperless delivery | TBD but let's use vets.gov.user+1@gmail.com if we  can
 - LOA3 user who has not opted-in to paperless delivery | TBD but let's use vets.gov.user+66@gmail.com	if we can because this users is also enrolled in healthcare
 
-### CAIA intake ticket
-- TBD
+### Content & IA ticket
+- https://github.com/department-of-veterans-affairs/va.gov-team/issues/106648
   
 ### Accessibility Test Artifcat
 - TBD
