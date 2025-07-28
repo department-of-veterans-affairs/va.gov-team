@@ -121,7 +121,7 @@ Content office hours? [add it to this Slack canvas](https://dsva.slack.com/docs/
 ## ✅ Stakeholders
 
 Who picks this work up next?
-- [ ] Implementation team
+- [ ] Enablement team
   - [ ] Product (Amy)
   - [ ] Design (Julie)
   - [ ] Other [describe]
