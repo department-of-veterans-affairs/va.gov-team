@@ -57,7 +57,7 @@ VA.gov product teams building forms that include prefilled data.
 1. **What are the required and optional props/inputs?**
 1. **Are there any interactive states?**
 1. **What variations or configurations are needed (e.g., size, layout, icon options)?**
-  - This variant is error-only.
+   - This variant is error-only.
 
 ### Edge cases to consider:  
 1. Multiple cards in error state.
@@ -68,15 +68,15 @@ VA.gov product teams building forms that include prefilled data.
 
 ### Accessibility
 1. **What are the ARIA roles, properties, or patterns needed?**
-  - Uses `aria-labelledby` to associate card heading  
-  - Uses `aria-describedby` to associate error message with the card  
-  - Error message uses `role="alert"`   
-  - Focus and scroll behavior ensure error is announced and visible  
+   - Uses `aria-labelledby` to associate card heading  
+   - Uses `aria-describedby` to associate error message with the card  
+   - Error message uses `role="alert"`   
+   - Focus and scroll behavior ensure error is announced and visible  
 1. **How will it be usable with keyboard navigation and screen readers?**
-  - Error card is made keyboard-focusable only during error state via `tabindex="0"` 
+   - Error card is made keyboard-focusable only during error state via `tabindex="0"` 
 1. **Are there any color contrast or focus management considerations?**
-  - Yellow focus indicator (`outline: 2px solid #ffbe2e`) improves keyboard visibility  
-  - Contrast and spacing follow existing DS standards  
+   - Yellow focus indicator (`outline: 2px solid #ffbe2e`) improves keyboard visibility  
+   - Contrast and spacing follow existing DS standards  
 
 
 ## Technical Requirements
