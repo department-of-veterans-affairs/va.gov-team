@@ -1,5 +1,5 @@
 # Contact information use cases
-**Last updated: June 2025**
+**Last updated: July 2025** Added in shared profile use cases.
 
 - [User flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1748544816643/8147634738618bff171962ce84b2f940c888fb03?wid=0-1749014970296&outline=open)
 - [Figma files](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3123-34667&t=HML77KqMVILaoozm-1)
@@ -16,20 +16,103 @@
 
 
 ## Current experience
-- For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the user will be directed to the Profile Account Security section. [See LOA1 account documentation.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
-- All information on the page, other than login email, is editable, including:
+- All information on the page, other than sign-in email, is editable, including:
 	- Mailing address
 	- Home address
 	- Home phone
 	- Work phone
 	- Mobile phone
-	- Contact email address
-- Once they’ve added information, they can use the “Remove” button to delete the information on **any section *except* mailing address**.
+	- Contact email
+- Once they’ve added information, users can use the “Remove” button to delete the information on **any section *except* Mailing address**.
+- For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the user will be directed to the profile Account Security section.
 
 
 ## Common use cases
-### User logs in with LOA1 account
+### Editing contact information
+- [Profile shared editing information use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/profile-shared-use-cases.md#editing-information)
+
+
+## Edge cases
+### Validation
+#### Mailing and Home address validations
+- [Home address is updated but does not match Mailing address](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/address-update-home-mailing-mismatch.md) 
+
+- [Address validation scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/address-validation.md)
+
+#### Mobile phone validations
+
+<details><summary>User enters an international phone number</summary>
+
+- **Use case:** If a user enters an international phone number in the mobile phone section they will be informed via modal that they cannot receive text notifications with an international phone number. They are not stopped from completing this task.
+- **Status code:** TBD
+- **Format:** [Warning modal](https://design.va.gov/components/modal/#warning)
+- [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3184-28915&t=Lec9VMwUOLJiae7J-1)
+- [Link to code]
+- **Content:**
+
+Header: We can’t send text notifications to international phone numbers
+
+[user entered number] is an international phone number. If you save this number, you won’t receive text notifications.
+
+Primary button: Save the number you entered
+
+Secondary button: Edit the number you entered
+
+</details>
+
+
+### Flags
+- [Blocked users documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/blocked-account.md)
+
 - [User logs in with an LOA1 account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
+
+#### Mailing and home address flags
+- [Address is marked as “bad” in VA Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/address-marked-as-bad.md)
+
+
+### Errors
+
+- [System error: Backend system down](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/profile-shared-use-cases.md#system-errors)
+   - Status code 296: Success with some external service errors. External services could be: vet360_contact_information (Vet360), va_profile (MVI), veteran_status (EMIS). [Link to pull request.](https://github.com/department-of-veterans-affairs/vets-api/pull/2738)
+
+- [System error: Cannot display section information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/profile-shared-use-cases.md#system-errors)
+
+---
+
+<details><summary>Archive | Contact information use cases, June 2025</summary>
+
+# Contact information use cases
+**Last updated: July 2025** Added in shared profile use cases.
+
+- [User flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1748544816643/8147634738618bff171962ce84b2f940c888fb03?wid=0-1749014970296&outline=open)
+- [Figma files](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3123-34667&t=HML77KqMVILaoozm-1)
+- Test Rail QA
+
+<details><summary>Archive | How to reproduce in staging</summary>
+
+- [User needs to add, edit, or remove contact information (addresses, phone numbers, or contact email)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/add-edit-delete-contact-info.md#how-to-reproduce)
+- [Home address is updated but does not match Mailing address](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/address-update-home-mailing-mismatch.md#staging-users)
+- [Address validation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/address-validation.md#how-to-reproduce)
+- [Mailing address is flagged as “bad” in VA Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/use-cases/address-marked-as-bad.md#how-to-reproduce)
+
+</details>
+
+
+## Current experience
+- All information on the page, other than sign-in email, is editable, including:
+	- Mailing address
+	- Home address
+	- Home phone
+	- Work phone
+	- Mobile phone
+	- Contact email
+- Once they’ve added information, users can use the “Remove” button to delete the information on **any section *except* Mailing address**.
+- For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the user will be directed to the profile Account Security section.
+
+
+## Common use cases
+### Editing contact information
+- [Profile shared editing information use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/profile-shared-use-cases.md#editing-information)
 
 ### User logs in with LOA3 account
 <details><summary>Adding information</summary>
@@ -129,7 +212,9 @@ Secondary button: No, go back to editing
 The overall feature has no validation use cases. Specific address validation below.
 
 ### Flags
-There are no flags with the overall feature. Specific address flags below.
+[Blocked users documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/blocked-account.md)
+
+[User logs in with an LOA1 account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
 
 ### Errors
 
@@ -162,9 +247,6 @@ We’re sorry. Something went wrong on our end. Refresh this page or try again l
 We’re sorry. We can’t update your information right now. We’re working to fix this problem. Try again later.
 
 </details>
-
-### Blocked users 
-- [See documentation here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/blocked-account.md)
 
 
 ### Mailing and Home address section
@@ -209,7 +291,8 @@ No additional flags for mobile phone numbers.
 #### Errors
 No additional error states for mobile phone numbers.
 
----
+</details>
+
 
 <details><summary>Archive | Contact Information Use Cases, September 2023</summary>
   
