@@ -91,16 +91,15 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 |ENG: Investigate next steps for submissions via Sharepoint and determine how to proceed..| QP7 |--|--|--|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
- - [X] Ready to be sent for approvals (07/14/25)
- - [X] VA PO & COR sent the Sprint Goals (07/14/25)
- - [X] VA PO approved the Sprint Goals (07/16/25)
- - [x] VA COR approved the Sprint Goals (07/17/25)
+ - [X] Ready to be sent for approvals (07/28/25)
+ - [X] VA PO & COR sent the Sprint Goals (07/28/25)
+ - [ ] VA PO approved the Sprint Goals (07/XX/25)
+ - [ ] VA COR approved the Sprint Goals (07/XX/25)
  
 **_Delivery + Notes:_**
 - [ ] All goals have been updated in the sprint chart
 - [ ] Any Additional details about goals **not** completed will be documented here
 
-- [ ] 
 ---
 
 ## Quarterly Priorities for FY25Q3 (Apr, May, Jun 2025)  
