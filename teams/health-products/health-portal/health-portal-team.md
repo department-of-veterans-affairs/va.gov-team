@@ -30,8 +30,16 @@ The My HealtheVet on VA.gov team’s mission is to simplify Veterans’ health e
 - Mobile Feature Support: Michelle Middaugh
 - Mobile App: Ryan Thurlwell
 
-## Program Leads
-Peregrine (MHV Front-End): Lauren Ernest
+## Program/Contract Info
+- COR (Contracting Officer's Representative)
+  - Eunice Garcia
+- MHV Web and Mobile
+   - Greg Kirk, OIT Program Manager
+   - Lauren Ernest, Peregrine Program Manager
+- MHV Platform and API
+  - Sean Good, OIT Program Manager
+  - Matt Bain, Oddcore Program Manager
+  - 
 
 
 ## Product Team Members
