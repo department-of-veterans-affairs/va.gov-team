@@ -26,7 +26,7 @@ In the primary use case, the card displays prefilled information (per the [“Kn
 1. **Where and how will it be used in the product?**
    - Primarily in forms where prefilled data is displayed in cards. If required data is missing or incomplete, the error state is triggered to prompt user action.
 1. **Is this a new component or an enhancement to an existing one?**
-   - This is a **variant** of the existing [Card component](https://design.va.gov/components/card), not a new component.)
+   - This is a **variant** of the existing [Card component](https://design.va.gov/components/card), not a new component.
 
 **Who are the primary users of this component?**
 VA.gov product teams building forms that include prefilled data.
