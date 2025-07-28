@@ -41,6 +41,8 @@ While each on-call role has distinct responsibilities, complex issues may requir
 - **Tier 3** → **Monitoring**: When user issues reveal potential system problems
 - **Investigator** → **Tier 3**: When technical research reveals user impact
 
+Teams will have a Slack group that we'll assign one or more engineers to when they are on-call. This will provide a way to coordinate and communicate effectively during on-call shifts.
+
 ## Getting Started
 
 If you're new to on-call duties:
