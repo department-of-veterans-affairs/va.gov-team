@@ -16,14 +16,16 @@ An engineer from each tool team will be on-call for a 7 day period, with a new r
 
 The OCTO Watch Officer on-call may reach out when a Priority 1 and 2 (P1 and P2) monitor reaches or maintains an "error" state. The on-call engineer will take responsibility to respond to the Watch Officer and provide updates and resolution when needed.
 
+We will also utilize Slack groups that allow us to manage who is on-call and provide an easier way for folks to get in touch with the right person. Slack groups will be named according to team, with `-oncall` at the end, e.g. `@mhv-medical-records-oncall`.
+
 ### Future process
 
 When PagerDuty is migrated and configured to alert engineers when something goes wrong, periodic checking of Slack will be less important. Instead, engineers will acknowledge notifications from PagerDuty and begin the triage process in response.
 
 
-### Relatioin to Investigator Oncall
+### Relation to Investigator Oncall
 
-In addition to oncall responsibilities for monitoring, teams also have responsibilities for handling technical questions and research that arise during sprints. The
+In addition to oncall responsibilities for monitoring, teams also have responsibilities for handling technical questions and research that arise during sprints. See [Investigator OnCall](./investigator-oncall.md) for details.
 
 ## How to triage
 
