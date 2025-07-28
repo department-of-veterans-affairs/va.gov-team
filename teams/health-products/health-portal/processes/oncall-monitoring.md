@@ -1,5 +1,7 @@
 # Monitoring On-Call
 
+**Purpose**: Respond to system alerts and maintain service reliability
+
 Created: 2025-07-25
 
 ## Overview
@@ -23,9 +25,9 @@ We will also utilize Slack groups that allow us to manage who is on-call and pro
 When PagerDuty is migrated and configured to alert engineers when something goes wrong, periodic checking of Slack will be less important. Instead, engineers will acknowledge notifications from PagerDuty and begin the triage process in response.
 
 
-### Relation to Investigator Oncall
+### Relation to Investigator On-call
 
-In addition to oncall responsibilities for monitoring, teams also have responsibilities for handling technical questions and research that arise during sprints. See [Investigator OnCall](./investigator-oncall.md) for details.
+In addition to on-call responsibilities for monitoring, teams also have responsibilities for handling technical questions and research that arise during sprints. See [Investigator On-Call](./investigator-oncall.md) for details.
 
 ## How to triage
 

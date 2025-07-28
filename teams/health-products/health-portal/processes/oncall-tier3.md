@@ -1,5 +1,7 @@
 # Tier 3 Support On-Call
 
+**Purpose**: Provide escalated user support and technical assistance
+
 Created: 2025-01-28
 
 Note:

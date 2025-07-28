@@ -1,5 +1,7 @@
 # Investigator On-Call
 
+**Purpose**: Handle non-urgent technical investigations and research
+
 Created: 2025-07-28
 
 ## Overview
@@ -11,7 +13,7 @@ The on-call investigator serves as the primary point of contact for addressing t
 ## Responsibilities
 - Respond to non-urgent technical requests, identifying people or resources to assist with more complex issues
 - Investigate and troubleshoot issues reported by internal teams
-- Assist the monitoring oncall engineer with issues triggered by alerts or notifications
+- Assist the monitoring on-call engineer with issues triggered by alerts or notifications
 - Document findings and solutions in appropriate knowledge bases
 - Recommend process improvements or technical fixes to prevent similar issues
 - Escalate urgent matters to the appropriate engineers or teams
@@ -34,7 +36,7 @@ The on-call investigator serves as the primary point of contact for addressing t
 
 ## Rotation Schedule
 - Each engineer serves a one-week rotation
-- Handoff occurs on Thursdays, to coincide with the monitoring oncall handoff
+- Handoff occurs on Thursdays, to coincide with the monitoring on-call handoff
 - Coverage hours are 9:00 AM to 5:00 PM local time
 - Off-hours requests will be addressed the next business day
 
@@ -43,4 +45,4 @@ The on-call investigator serves as the primary point of contact for addressing t
 - Documentation and knowledge bases
 - Previous investigation reports
 - Team Slack channel for collaboration
-- [Monitoring oncall](./oncall-monitoring.md)
+- [Monitoring on-call](./oncall-monitoring.md)
