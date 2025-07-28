@@ -2,11 +2,47 @@
 
 Created: 2025-01-28
 
-Note: Needs review by Customer Support and Triage team
+Note:
+- Needs review by Customer Support and Triage team
+- Assumes there is a Tier 2 Support in the Help Desk hierachy, which is not yet confirmed
 
 ## Overview
 
-The Tier 3 Support On-Call role provides technical support for complex user issues that cannot be resolved by the MHV/VA Help Desk. This role requires deep technical knowledge of the Health Portal systems and the ability to investigate and resolve user-specific problems that may require code-level analysis.
+The Tier 3 Support On-Call role provides the highest level of technical support for complex user issues that cannot be resolved by lower support tiers. This role requires deep technical knowledge of the Health Portal systems and the ability to investigate and resolve user-specific problems that may require code-level analysis.
+
+## Support Tier Structure
+
+Understanding the three-tier support model helps clarify when and how issues escalate to engineering:
+
+### Tier 1 Support (First Line)
+- **Who**: Customer service representatives, help desk staff
+- **Scope**: Basic user assistance and common issues
+- **Capabilities**:
+  - Password resets and account access help
+  - General navigation and feature guidance
+  - Known issue workarounds from knowledge base
+  - Basic troubleshooting using standard procedures
+- **Escalation**: Issues requiring technical investigation or system-specific knowledge
+
+### Tier 2 Support (Technical Support)
+- **Who**: Technical support specialists with deeper product knowledge
+- **Scope**: More complex technical issues and system-specific problems
+- **Capabilities**:
+  - Advanced troubleshooting using logs and diagnostic tools
+  - Configuration issues and integration problems
+  - Data validation and basic system analysis
+  - Coordination with multiple support channels
+- **Escalation**: Issues requiring code-level investigation or engineering expertise
+
+### Tier 3 Support (Engineering)
+- **Who**: Software engineers with deep system knowledge (this role)
+- **Scope**: Complex technical investigations requiring engineering expertise
+- **Capabilities**:
+  - Code-level debugging and system analysis
+  - Database queries and data integrity investigations
+  - Integration troubleshooting with upstream systems
+  - Root cause analysis and system behavior investigation
+- **Escalation**: System-wide issues requiring immediate fixes or architectural changes
 
 ## Role Description
 
