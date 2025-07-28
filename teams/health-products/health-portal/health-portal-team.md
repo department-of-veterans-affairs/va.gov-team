@@ -96,7 +96,7 @@ During the transition period, the Medications team and Medical Devices team will
 
 |Name|Role|Company Email|VA Email|DSVA Slack|GitHub|
 |------|----|-----|-----|--------|------|
-| Marci McGuire | OCTO Product Lead | marci.mcguire@va.gov | marci.mcguire@va.gov | [@Marci McGuire](https://dsva.slack.com/team/U04K6QYPP6V) | [MarciMcGuire](https://github.com/MarciMcGuire) |
+| Kay Lawyer | OCTO Product Lead | katherine.lawyer@va.gov | katherine.lawyer@va.gov | [@Kay](https://dsva.slack.com/team/U04K6QYPP6V) | [Klawyer](https://github.com/Klawyer) |
 | Michael Brodsky | Product Manager | michael.brodsky@agile6.com | michael.brodsky@va.gov | [@Michael Brodsky](https://dsva.slack.com/team/U08HKSYE285) | [michaelbrodsky-a6](https://github.com/michaelbrodsky-a6) |
 | Richard Davis | Frontend Engineer | richard.davis@agile6.com | richard.davis437@va.gov | [@Richard Davis](https://dsva.slack.com/team/U05BCJSDCDA) | [radavis](https://github.com/radavis) |
 | Chris Donelson | Fullstack Engineer | CDonelson@ironarchtech.com | TBD | TBD | TBD |
