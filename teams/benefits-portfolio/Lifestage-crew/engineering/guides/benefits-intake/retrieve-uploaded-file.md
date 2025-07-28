@@ -85,3 +85,4 @@ curl -X GET 'https://sandbox-api.va.gov/services/vba_documents/v1/uploads/{benef
 |<img width="800" alt="terminal output" src="https://github.com/user-attachments/assets/9e9bf30f-be3b-4c5e-a51b-e6d7c98f3ce8" />
 |-
 
+8. If you want to clean up the formatting, copy the output from the rails console and open a console in your browser. You can then type `JSON.parse()` and insert the JSON output you copied earlier in between the opening and closing parenthesis. This should return the JSON in a more recognizable format that you can then copy
