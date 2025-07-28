@@ -5,6 +5,49 @@ Attendees: Renata Keck, Rachel Pope, Jamie Fiore, Amanda Klausmeier, Premal Shah
 
 ### Agenda
 * UX Roadmap
+* Health Status Tool Updates
+* CHAMVPA Claims PDI/Control number UX updates
+* CHAMPA Claims Resubmissions/LLM usability study updates
+
+### Notes
+* UX Roadmap
+    * CHAMPVA claims resubmissions study is with Shane
+    * Renata is working on the 1010D/OHI merge usability study analysis
+    * Health status tool- will talk about in agenda
+    * Working on UX organizational tasks and file management
+    * A few claims research items in the next column followed by 1010d/OHI merge content updates and content review for the CHAMVPA claim resubmissions and LLM flow
+
+* Health Status Tool
+    * Where is it going to live? The consensus is leaning towards having it available in existing claims status tool We are waiting on thumbs up from Danielle and Mikki
+    * We need to redesign the [figma](https://www.figma.com/design/OpAuMgHwnh6BNkKpW3FyqF/CHAMPVA-in-Status-Tool?node-id=15-1207&p=f&t=NPcRFOVig8MSD59H-0) to show how it will look up in MyVA
+    * We may internally rebrand the current claims status tool to “Claims and Application Status Tool”
+    * Form submissions would live on myVA and eligibility and statuses would live in the claims status tool
+    * We plan to handoff to Alyssa because of the UX team’s capacity in the weeks they are doing the usability testing for the CHAMVPA resubmissions
+    * From an engineering aspect the claims status tool is technically difficult but OCTO the  Engineering Leads will help coordinate with us
+    * This is a high level initiative in VA so Premal is pretty sure everyone will be on board with making sure that this works well and has a great UX. We are not just trying to solve for something to work with the current systems and processes. Adding CHAMPVA is the Priority for this tool.
+    * Keep biased towards action so we can push this continually forward. Don’t focus on  how if we can do something. Instead focus on how we can do something.
+    * IVC’s delivery on the forms is what gave us the trust from OCTO to give this tool priority.
+
+* CHAMPVA claims PDI/control number flow. 
+    * The PDI number can be so variable so the designers attempted to break down the info in smaller chunks for the user
+    * We don’t/can’t validate the code from the backend because the numbers are so variable.
+    * Amanda: We are making a lot of assumptions without giving the user the benefit of the doubt that they can figure it out which is which with just the content. Leaning more towards the content only solution for testing. Afraid the content is still confusing so would want another content review
+    * Premal/Mike: Want to deliver it rather than keep iterating
+    * We decided to get user feedback on the low- effort content with the new additional components content and the 2 paragraphs above that 
+    * **Action Item: **We would like to get C/IA people to come to user testing to observe. 
+    * **Action Item: **We need to remove the word “claim” from “ claim control number” and then send to the engineers
+
+* Claims resubmission/LLM research
+    * No concerns to move forward. The kickoff meeting is tomorrow
+    * **Action Item:** Add Amanda to the Perigean channel for awareness.
+
+
+
+## July 21 2025
+Attendees: Renata Keck, Rachel Pope, Jamie Fiore, Amanda Klausmeier, Premal Shah, Mike Mooney
+
+### Agenda
+* UX Roadmap
 * 1010D and OHI Merged Form research
 * Claims research
 
