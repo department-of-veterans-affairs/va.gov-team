@@ -40,12 +40,12 @@ The My HealtheVet on VA.gov team’s mission is to simplify Veterans’ health e
   - Sean Good, OIT Program Manager
   - Matt Bain, Oddcore Program Manager
 
-## Product Team Members
+## Web and Mobile Team Members
 
 <details>
 <summary>Forthcoming roles joining the team</summary>
 
-|Name|Role|Primary Email|VA Email|DSVA Slack|GitHub|
+|Name|Role|Company Email|VA Email|DSVA Slack|GitHub|
 |------|----|-----|-----|--------|------|
 | Liz Townsend | Mobile Engineer | liz.townsend@adhocteam.us | elizabeth.townsend4@va.gov | [@Liz Townsend](https://dsva.slack.com/team/U06059URY69) | [liztownd](https://github.com/liztownd) |
 | starting 7/28 | Frontend Engineer | TBD | TBD | TBD | TBD |
@@ -64,10 +64,10 @@ The My HealtheVet on VA.gov team’s mission is to simplify Veterans’ health e
 </details>
 
 ### Horizon
-This cross-functional group serves as the primary points of contact for the delivery team and manages work that impacts the whole portal. During the transition period, Lauren, Bryan, and Daniel will also manage the customer support process.
+This cross-functional group serves as the Company points of contact for the delivery team and manages work that impacts the whole portal. During the transition period, Lauren, Bryan, and Daniel will also manage the customer support process.
 - Slack channel: [#mhv-horizon](https://dsva.slack.com/archives/C05DFSM57FW)
 
-|Name|Role|Primary Email|VA Email|DSVA Slack|GitHub|
+|Name|Role|Company Email|VA Email|DSVA Slack|GitHub|
 |------|----|-----|-----|--------|------|
 | Marci McGuire | OCTO Product Lead | marci.mcguire@va.gov | marci.mcguire@va.gov | [@Marci McGuire](https://dsva.slack.com/team/U04K6QYPP6V) | [MarciMcGuire](https://github.com/MarciMcGuire) |
 | Bryan Ivie | Product Lead | bryan.ivie@adhocteam.us | bryan.ivie@va.gov | [@Bryan Ivie](https://dsva.slack.com/team/U02EA0XLRD1) | [steel36](https://github.com/steel36) |
@@ -81,7 +81,7 @@ This cross-functional group serves as the primary points of contact for the deli
 ### Medical Records
 - Slack channel: [#mhv-medical-records](https://dsva.slack.com/archives/C03Q2UQL1AS)
 
-|Name|Role|Primary Email|VA Email|DSVA Slack|GitHub|
+|Name|Role|Company Email|VA Email|DSVA Slack|GitHub|
 |------|----|-----|-----|--------|------|
 | Marci McGuire | OCTO Product Lead | marci.mcguire@va.gov | marci.mcguire@va.gov | [@Marci McGuire](https://dsva.slack.com/team/U04K6QYPP6V) | [MarciMcGuire](https://github.com/MarciMcGuire) |
 | David Koger | Product Manager | dkoger@ironarchtech.com | TBD | TBD | TBD |
@@ -94,7 +94,7 @@ This cross-functional group serves as the primary points of contact for the deli
 During the transition period, the Medications team and Medical Devices team will work closely together to ensure coverage.
 - Slack channel: [#mhv-medications-rx](https://dsva.slack.com/archives/C04PRFEJQTY)
 
-|Name|Role|Primary Email|VA Email|DSVA Slack|GitHub|
+|Name|Role|Company Email|VA Email|DSVA Slack|GitHub|
 |------|----|-----|-----|--------|------|
 | Marci McGuire | OCTO Product Lead | marci.mcguire@va.gov | marci.mcguire@va.gov | [@Marci McGuire](https://dsva.slack.com/team/U04K6QYPP6V) | [MarciMcGuire](https://github.com/MarciMcGuire) |
 | Michael Brodsky | Product Manager | michael.brodsky@agile6.com | michael.brodsky@va.gov | [@Michael Brodsky](https://dsva.slack.com/team/U08HKSYE285) | [michaelbrodsky-a6](https://github.com/michaelbrodsky-a6) |
@@ -105,7 +105,7 @@ During the transition period, the Medications team and Medical Devices team will
 ### Messaging
 - Slack channel: [#mhv-secure-messaging](https://dsva.slack.com/archives/C03ECSBGSKX)
 
-|Name|Role|Primary Email|VA Email|DSVA Slack|GitHub|
+|Name|Role|Company Email|VA Email|DSVA Slack|GitHub|
 |------|----|-----|-----|--------|------|
 | Patrick Bateman | OCTO Product Lead | patrick.bateman@va.gov | patrick.bateman@va.gov | [@Patrick](https://dsva.slack.com/team/U04K6QYPP6V) | [MarciMcGuire](https://github.com/MarciMcGuire) |
 | Stacy Blackwood | Product Manager | stacy.blackwood@adhocteam.us | TBD | TBD | [StacyB2023](https://github.com/StacyB2023) |
@@ -120,7 +120,7 @@ During the transition period, the Medications team and Medical Devices team will
 ### Medical Devices and Supplies
 - Slack channel: [#vagov-supply-reordering](https://dsva.slack.com/archives/C05DFSM57FW)
 
-|Name|Role|Primary Email|VA Email|DSVA Slack|GitHub|
+|Name|Role|Company Email|VA Email|DSVA Slack|GitHub|
 |------|----|-----|-----|--------|------|
 | Mark Carter | Business Analyst | mark.carter@agile6.com | mark.carter4@va.gov | [@Mark Carter](https://dsva.slack.com/team/U081CKD47FZ) | [mcarterA6](https://github.com/mcarterA6) |
 | Amy Cashbaugh | Frontend Engineer | acashbaugh@ironarchtech.com | amy.cashbaugh@va.gov | TBD | [amycashbaugh](https://github.com/amycashbaugh) |
@@ -131,13 +131,82 @@ During the transition period, the Medications team and Medical Devices team will
 ### Shared Portal Support
 - Slack channel: [#mhv-shared-portal-support](https://dsva.slack.com/archives/C096KNK21SB)
   
-|Name|Role|Primary Email|VA Email|DSVA Slack|GitHub|
+|Name|Role|Company Email|VA Email|DSVA Slack|GitHub|
 |------|----|-----|-----|--------|------|
 | Carlos Felix | Technical Architect | carlos.felix@agile6.com | carlos.felixacevedo@va.gov | [@Carlos Felix](https://dsva.slack.com/team/U050V56JD2R) | [carlosfelix2](https://github.com/carlosfelix2) |
 | Sarah Horton | Accessibility Specialist | sarah.horton@adhocteam.us | TBD | TBD | TBD |
 | Steven Gallagher | Frontend Engineer | sgallagher@ironarchtech.com | TBD | TBD | [steveg-IAT](https://github.com/steveg-IAT) |
 | Athena Bozak | Researcher/Designer | athena.bozak@agile6.com | Athena.Bozak@va.gov | [@Athena Bozak](https://dsva.slack.com/team/U07VBDM5M6J) | [athenabozak](https://github.com/athenabozak) |
 | Jonathan Nelson | Designer | jonathan.nelson@adhocteam.us | jonathan.nelson@va.gov | [@Jonathan Nelson](https://dsva.slack.com/team/URMHM214N) | [jonathanjnelson](https://github.com/jonathanjnelson) |
+
+## Platform and API Team Members
+
+### Access Delivery
+
+| Name                    | Role                         | Company Email                   | VA Email                      | DSVA SLACK | GitHub       |
+|-------------------------|------------------------------|---------------------------------|-------------------------------|------------|--------------|
+| Alex Person             | DevOps Engineer              | alex.person@thoughtworks.com    | alexander.person@va.gov       |            |              |
+| Haritha Cheruvu         | Software Engineer            | haritha.cheruvu@wilcore.io      | haritha.cheruvu@va.gov        |            |              |
+| Khoa Nguyen             | Software Engineer            | khoa.nguyen@oddball.io          | khoa.nguyen26@va.gov          |            |              |
+
+### Governance/Security
+
+| Name                    | Role                         | Company Email                   | VA Email                      | DSVA SLACK | GitHub       |
+|-------------------------|------------------------------|---------------------------------|-------------------------------|------------|--------------|
+| Cody Porter             | DevSecOps Engineer           |                                 |                               |            |              |
+| Janiece Wade            | Senior Security Specialist   | janiece.wade@oddball.io         | janiece.wade@va.gov           |            |              |
+| Kenneth Neff            | ATO Specialist               | ken.neff@oddball.io             | ken.neff@va.gov               |            |              |
+
+### Infrastructure
+
+| Name                    | Role                         | Company Email                   | VA Email                      | DSVA SLACK | GitHub       |
+|-------------------------|------------------------------|---------------------------------|-------------------------------|------------|--------------|
+| Jonathan Whetsell       | DevOps Engineer, Lead        | jonathan.whetsell@wilcore.io    | jonathan.whetsell@va.gov      |            |              |
+
+### Medications, Medical Records, Medical Devices and Supplies
+
+| Name                    | Role                         | Company Email                   | VA Email                      | DSVA SLACK | GitHub       |
+|-------------------------|------------------------------|---------------------------------|-------------------------------|------------|--------------|
+| Aaron Read              | Test Engineer                | aarons.read@blueguardianit.com  | aaron.read@va.gov             |            |              |
+| Gregory Broz            | Product Manager              | greg.broz@oddball.io            | gregory.broz@va.gov           |            |              |
+| Michael Wellman         | Software Engineer, Senior    | michael.wellman@docme360.com    | michael.wellman@va.gov        |            |              |
+| Muazzam Khan            | Full Stack Developer, Senior |                                 |                               |            |              |
+
+### Messaging
+
+| Anthony Gravell         | Lead Backend Engineer        | tony.gravell@wilcore.io         | anthony.gravell@va.gov        |            |              |
+| Ashish Manandhar        | Software Engineer            | ashish.manandhar@docme360.com   | ashish.manandhar@va.gov       |            |              |
+| Lauren Cutrell          | Product Manager              | lauren.cutrell@wilcore.io       |                               |            |              |
+| Matthew Wright          | Test Engineer                | matt.wright@blueguardianit.com  | matthew.wright8@va.gov        |            |              |
+
+### Platform
+
+| Name                    | Role                         | Company Email                   | VA Email                      | DSVA SLACK | GitHub       |
+|-------------------------|------------------------------|---------------------------------|-------------------------------|------------|--------------|
+| Craig Ledbetter         | Site Reliability Engineer    | craig.ledbetter@oddball.io      | craig.ledbetter@va.gov        |            |              |
+| James Whetsell          | DevOps Engineer, Senior      | jamie.whetsell@oddball.io       | james.whetsell@va.gov         |            |              |
+| Jeremy Farmer           | DevOps Engineer              | jeremy.farmer@oddball.io        | jeremy.farmer@va.gov          |            |              |
+| Jessica Cotrina Revilla | Configuration Manager        | jessica.c@thoughtworks.com      | jessica.cotrinarevilla@va.gov |            |              |
+| Logan Fricke            | DevOps Engineer              | logan.fricke@oddball.io         | logan.fricke@va.gov           |            |              |
+| Maurice Okumu           | DevOps Engineer              | maurice.okumu@thoughtworks.com  | maurice.okumu@va.gov          |            |              |
+| Tiffany Gray            | DevOps Engineer              | tiffany.gray@docme360.com       | tiffany.gray1@va.gov          |            |              |
+
+### Program
+
+| Name                    | Role                         | Company Email                   | VA Email                      | DSVA SLACK | GitHub       |
+|-------------------------|------------------------------|---------------------------------|-------------------------------|------------|--------------|
+| Barry Egbert            | Chief Architect              | barry.egbert@blueguardianit.com | barry.egbert@va.gov           |            |              |
+| Kyle MacMillan          | Program Tech Lead            | kyle.macmillan@oddball.io       | kyle.macmillan@va.gov         |            |              |
+| Matt Bain               | Program Manager              | Matt.Bain@wilcore.io            | matthew.bain@va.gov           | @matt bain | MatthewCBain |
+
+### Shared Services
+
+| Name                    | Role                         | Company Email                   | VA Email                      | DSVA SLACK | GitHub       |
+|-------------------------|------------------------------|---------------------------------|-------------------------------|------------|--------------|
+| Rajasree Venkatesh      | Test Engineer, Senior        | raji.venkatesh@wilcore.io       | rajasree.venkatesh@va.gov     |            |              |
+| Stephen Orleski         | Oracle Health SME            | stephen.orleski@docme360.com    | stephen.orlenski@va.gov       |            |              |
+| Thomas Michaud          | UX Researcher                | thomas.michaud@oddball.io       | thomas.michaud@va.gov         |            |              |
+  
 
 ## Partner Teams  [WIP - BEING UPDATED]
 
