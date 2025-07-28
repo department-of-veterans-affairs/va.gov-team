@@ -45,7 +45,6 @@ What metrics-based criteria will you look at before advancing rollout to the nex
 
 ### Anticipated timeline
 
-- [ ] **2025/08/04** - Lighthouse team plans to deploy required change to production
 - [ ] **2025/08/07** - BMT1 to increase to 25%; monitor DataDog as described above
 - [ ] **2025/08/08** - BMT1 to increase to 50%; continue to monitor DataDog
 - [ ] **2025/08/09** - BMT1 to increase to 75%; continue to monitor DataDog
