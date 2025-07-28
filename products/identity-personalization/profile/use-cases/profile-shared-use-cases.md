@@ -12,6 +12,7 @@ Included in this document are links to all shared VA.gov profile use cases. Thes
 - **Use case:** For each section without information on file, i.e. a `null` value, the user will see the name of the section and prompt to edit their information to add [section information]. Clicking the Edit button will put the section into an inline edit mode.
 - Links to designs
    - [Personal information](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=929-10407&t=IxDeELaasWg4dcVS-1)
+   - [Contact information](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3123-35605&t=F4OLpadUve3wNj4c-1)
 
 </details>
 
@@ -22,6 +23,9 @@ Included in this document are links to all shared VA.gov profile use cases. Thes
 - Links to designs
    - [Personal information: Preferred name](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=927-7211&t=IxDeELaasWg4dcVS-1)
    - [Personal information: Messages signature](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=930-4389&t=IxDeELaasWg4dcVS-1)
+   - [Contact information: Address](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3123-35977&t=HML77KqMVILaoozm-1)
+   - [Contact information: Phone number](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3130-24667&t=HML77KqMVILaoozm-1)
+   - [Contact information: Email address](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3132-24668&t=HML77KqMVILaoozm-1)
 
 </details>
 
@@ -60,6 +64,7 @@ Included in this document are links to all shared VA.gov profile use cases. Thes
 - **Format:** [Warning modal](https://design.va.gov/components/modal/#warning)
 - Links to designs
    - [Personal information: Messages signature](https://www.figma.com/design/qfyUmEOVawplgrEKYKFp0f/Profile---Personal-information?node-id=960-8794&t=9hBujFpHXKuiKNte-1)
+   - [Contact information: All sections](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3143-17044&t=F4OLpadUve3wNj4c-1)
 
 </details>
 
