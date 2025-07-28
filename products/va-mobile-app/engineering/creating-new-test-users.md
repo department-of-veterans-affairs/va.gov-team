@@ -14,3 +14,5 @@ Any data attributes you need updated you would need to work with those systems t
 [login here with the user as well](https://sqa.eauth.va.gov/accessva/?cspSelectFor=vhic-ss)
 
 [Update users list](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/mobile-app/test-users.md)
+
+[Getting into Vista](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/engineering/test.data.md#create-an-appointment)
