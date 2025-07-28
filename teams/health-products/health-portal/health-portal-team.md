@@ -39,8 +39,6 @@ The My HealtheVet on VA.gov team’s mission is to simplify Veterans’ health e
 - MHV Platform and API
   - Sean Good, OIT Program Manager
   - Matt Bain, Oddcore Program Manager
-  - 
-
 
 ## Product Team Members
 
@@ -65,13 +63,13 @@ The My HealtheVet on VA.gov team’s mission is to simplify Veterans’ health e
 
 </details>
 
-
 ### Horizon
 This cross-functional group serves as the primary points of contact for the delivery team and manages work that impacts the whole portal. During the transition period, Lauren, Bryan, and Daniel will also manage the customer support process.
 - Slack channel: [#mhv-horizon](https://dsva.slack.com/archives/C05DFSM57FW)
 
 |Name|Role|Primary Email|VA Email|DSVA Slack|GitHub|
 |------|----|-----|-----|--------|------|
+| Marci McGuire | OCTO Product Lead | marci.mcguire@va.gov | marci.mcguire@va.gov | [@Marci McGuire](https://dsva.slack.com/team/U04K6QYPP6V) |------|
 | Bryan Ivie | Product Lead | bryan.ivie@adhocteam.us | bryan.ivie@va.gov | [@Bryan Ivie](https://dsva.slack.com/team/U02EA0XLRD1) | [steel36](https://github.com/steel36) |
 | Daniel Cloud | Engineering Lead | daniel.cloud@adhocteam.us | daniel.cloud@va.gov | [@Daniel Cloud](https://dsva.slack.com/team/U03CLNHG23S) | [dcloud](https://github.com/dcloud) |
 | Florence McCafferty | Design Lead | florence.mccafferty@agile6.com | Kathryn.McCafferty@va.gov | [@Florence McCafferty](https://dsva.slack.com/team/U03HQRVPZD1) | [fmccaf1](https://github.com/fmccaf1) |
