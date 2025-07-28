@@ -47,11 +47,6 @@ The My HealtheVet on VA.gov team’s mission is to simplify Veterans’ health e
 
 |Name|Role|Company Email|VA Email|DSVA Slack|GitHub|
 |------|----|-----|-----|--------|------|
-| Liz Townsend | Mobile Engineer | liz.townsend@adhocteam.us | elizabeth.townsend4@va.gov | [@Liz Townsend](https://dsva.slack.com/team/U06059URY69) | [liztownd](https://github.com/liztownd) |
-| starting 7/28 | Frontend Engineer | TBD | TBD | TBD | TBD |
-| starting 7/28 | Fullstack Engineer | TBD | TBD | TBD | TBD |
-| starting 7/28 | QA Engineer/Customer Support | TBD | TBD | TBD | TBD |
-| starting 7/28 | Designer | TBD | TBD | TBD | TBD |
 | starting 8/4 | Fullstack Engineer | TBD | TBD | TBD | TBD |
 | starting 8/4 | Fullstack Engineer | TBD | TBD | TBD | TBD |
 | TBD | Frontend Engineer | TBD | TBD | TBD | TBD |
@@ -64,7 +59,7 @@ The My HealtheVet on VA.gov team’s mission is to simplify Veterans’ health e
 </details>
 
 ### Horizon
-This cross-functional group serves as the Company points of contact for the delivery team and manages work that impacts the whole portal. During the transition period, Lauren, Bryan, and Daniel will also manage the customer support process.
+This cross-functional group serves as the Company points of contact for the delivery team and manages work that impacts the whole portal. 
 - Slack channel: [#mhv-horizon](https://dsva.slack.com/archives/C05DFSM57FW)
 
 |Name|Role|Company Email|VA Email|DSVA Slack|GitHub|
@@ -85,10 +80,12 @@ This cross-functional group serves as the Company points of contact for the deli
 |------|----|-----|-----|--------|------|
 | Marci McGuire | OCTO Product Lead | marci.mcguire@va.gov | marci.mcguire@va.gov | [@Marci McGuire](https://dsva.slack.com/team/U04K6QYPP6V) | [MarciMcGuire](https://github.com/MarciMcGuire) |
 | David Koger | Product Manager | dkoger@ironarchtech.com | TBD | TBD | TBD |
+| Mike Moyer | Fullstack Engineer | mmoyer@ironarchtech.com | michael.moyer@va.gov | [@Mike Moyer](https://dsva.slack.com/team/U03G1ECH00K) | [mmoyer-va](https://github.com/mmoyer-va) |
 | Ni Chia |  Fullstack Engineer | ni.chia@adhocteam.us | tchut.chia@va.gov | [@Ni Chia](https://dsva.slack.com/team/U07NQDN4WJG) | [nichia](https://github.com/nichia) |
 | Napoleon Kernessant | Frontend Engineer | napoleon.Kernessant@docme360.com | Napoleon.kernessant@va.gov | [@Napoleon Kernessant](https://dsva.slack.com/team/U03US4Z036J) | [GovNapoleon](https://github.com/GovNapoleon) |
 | Aswin Malla | Fullstack Engineer | aswin.malla@agile6.com | TBD | TBD | [AMT98](https://github.com/AMT98) |
 | Elwood Gary | Frontend Engineer (Liferay) | elwood.gary@agile6.com | Kenneth.Gary@va.gov | [@Elwood Gary](https://dsva.slack.com/archives/D096LSQBSDN) | [elwoodva](https://github.com/elwoodva) |
+| Liz Townsend | Mobile Engineer | liz.townsend@adhocteam.us | elizabeth.townsend4@va.gov | [@Liz Townsend](https://dsva.slack.com/team/U06059URY69) | [liztownd](https://github.com/liztownd) |
 
 ### Medications
 During the transition period, the Medications team and Medical Devices team will work closely together to ensure coverage.
@@ -100,6 +97,7 @@ During the transition period, the Medications team and Medical Devices team will
 | Michael Brodsky | Product Manager | michael.brodsky@agile6.com | michael.brodsky@va.gov | [@Michael Brodsky](https://dsva.slack.com/team/U08HKSYE285) | [michaelbrodsky-a6](https://github.com/michaelbrodsky-a6) |
 | Richard Davis | Frontend Engineer | richard.davis@agile6.com | richard.davis437@va.gov | [@Richard Davis](https://dsva.slack.com/team/U05BCJSDCDA) | [radavis](https://github.com/radavis) |
 | Chris Donelson | Fullstack Engineer | CDonelson@ironarchtech.com | TBD | TBD | TBD |
+| Cam Keif | Frontend Engineer | ckeif@ironarchtech.com | TBD | TBD | TBD |
 | Ian Seabock | Frontend Engineer | iseabock@ironarchtech.com | TBD | TBD | [iseabock](https://github.com/iseabock) |
 
 ### Messaging
@@ -138,6 +136,14 @@ During the transition period, the Medications team and Medical Devices team will
 | Steven Gallagher | Frontend Engineer | sgallagher@ironarchtech.com | TBD | TBD | [steveg-IAT](https://github.com/steveg-IAT) |
 | Athena Bozak | Researcher/Designer | athena.bozak@agile6.com | Athena.Bozak@va.gov | [@Athena Bozak](https://dsva.slack.com/team/U07VBDM5M6J) | [athenabozak](https://github.com/athenabozak) |
 | Jonathan Nelson | Designer | jonathan.nelson@adhocteam.us | jonathan.nelson@va.gov | [@Jonathan Nelson](https://dsva.slack.com/team/URMHM214N) | [jonathanjnelson](https://github.com/jonathanjnelson) |
+| Anneka Van Garza | Designer | avangarza@ironarchtech.com | TBD | TBD | TBD |
+
+### Customer Support and Triage
+- Slack channel: 
+  
+|Name|Role|Company Email|VA Email|DSVA Slack|GitHub|
+|------|----|-----|-----|--------|------|
+| Tom Gammons | QA Engineer/Customer Support | thomas.gammons@adhocteam.us | TBD | TBD | TBD |
 
 ## Platform and API Team Members
 
