@@ -125,10 +125,14 @@ The planned dates for the research are August 4–8, 2025; however, these dates 
 
 ## Research session dates:
 1. **Moderator 1: Nina Anusavice**
-   - August 4: 12:00 pm to 6:00 pm ET
-   - August 6: 12:30 pm to 6:00 pm ET
-   - August 7: 1:00 pm to 6:00 pm ET
-   - August 8: 12:00 pm to 5:00 pm ET
+   - August 4: 
+      - 12:00 pm to 6:00 pm ET
+   - August 6:
+      - 12:30 pm to 6:00 pm ET
+   - August 7:
+      - 1:00 pm to 6:00 pm ET
+   - August 8:
+      -  12:00 pm to 5:00 pm ET
 
 2. **Moderator 2: Alyssa Li**
    - August 4:
