@@ -41,12 +41,16 @@ Through this research we aimed to:
 
 ## Methodology
 
-- We ran two identical unmoderated tree tests using Optimal Workshop’s Treejack tool. After low participation in the first round, we relaunched the second without screener questions to encourage more completions.
+- We ran two identical unmoderated tree tests using Optimal Workshop’s Treejack tool.
+- After low participation in the first round, we relaunched the second without screener questions to encourage more completions.
 - Participants were asked to complete seven tasks by navigating a menu structure and selecting where they believed they would find the correct information.
 - Tasks were randomized to avoid bias from learning the tree as the study progressed.
 - Participants were not allowed to skip tasks.
 
 ---
+
+## Limitations
+This study included feedback from 48 participants, enough to spot patterns, but not enough to make strong statistical claims. Some tasks showed clear trends while others had more mixed results. Because this was an unmoderated tree test, we are only able to observe where participants clicked and not why they made those choices. Any takeaways should be considered directional and used to guide future testing or improvements rather than as definitive conclusions.
 
 ## Key findings
 
@@ -61,45 +65,44 @@ Through this research we aimed to:
 
 ## Details of findings
 
-### Finding 1: Veterans looked for broad benefit information instead of going directly to Solid Start
-Participants looking for information about Solid Start gravitated toward broad benefit related sections, especially those focused on education, claims, applications, and payments. This suggests they were seeking general entry points related to post-service support, even if not directly connected to the Solid Start program. Only 35.4% of participants completed the task successfully.
+### Veterans explored broad benefit sections when trying to connect with a Solid Start representative
+Participants clicked into areas like Education, Claims, Applications, and Payments when asked where to go to schedule time with a Solid Start representative. These paths reflect an effort to locate post-military support, but not necessarily a direct connection to the Solid Start program itself. Only 35.4% completed the task successfully.
 
 <img width="2747" height="433" alt="image" src="https://github.com/user-attachments/assets/68315795-89fc-49e8-b127-21b5483fe6e1" />
 <img width="858" height="332" alt="image" src="https://github.com/user-attachments/assets/26449887-0400-4abd-b7da-f0647e9657c1" />
 
-
-### Finding 2: Veterans associated the exam with the claims process rather than a specific scheduling action
+### Finding 2: Participants primarily selected Claims and Appeals when trying to schedule a claim exam
 When asked where they would go to schedule a claim exam after receiving a letter from VA, many Veterans navigated to the “claims and appeals” section, suggesting they associated the exam with the broader claims process. Others explored areas related to health care, disability benefits, or medical records, indicating some uncertainty about where to complete the specific action. Just 37.5% of participants were able to get to the right place to complete the task.  
 
 <img width="2464" height="450" alt="image" src="https://github.com/user-attachments/assets/5ef8c128-f71d-49f2-85ad-fb3ab603f89e" />
 <img width="869" height="453" alt="image" src="https://github.com/user-attachments/assets/3945a833-91ad-480f-bdf3-02ead9d8928b" />
 
-### Finding 3: Veterans were unsure where to track requests for non-VA care
-When asked where they would go to check the status of a care request from a provider outside of VA, participants often looked in secure messaging, general health care, or community care sections. This suggests uncertainty around where non-VA care requests are tracked. While some successfully navigated to appointments or care management, others relied on more familiar tools used for VA care communication or claims. In total, 37.5% of participants completed the task successfully.  
+### Finding 3:  Participants selected a wide range of paths when trying to check the status of a community care request
+When asked where they would go to check the status of a care request from a provider outside of VA, participants selected a wide range of paths including Health Care, Secure Messages, Community Care, and Claims and Appeals. The variety of selections suggests it’s not clear where non-VA care activity is tracked in the current structure. While some successfully navigated to Appointments or care management-related areas, others relied on familiar tools typically used for managing benefits. Only 37.5% of participants completed the task successfully.
 
 <img width="2075" height="345" alt="image" src="https://github.com/user-attachments/assets/1fb51787-f1a4-4a8f-bc1f-6323a1847fc2" />
 <img width="921" height="412" alt="image" src="https://github.com/user-attachments/assets/c23b355d-249e-4e41-b775-899aad82b7bc" />
 
-### Finding 4: Veterans looked for proof of benefits rather than a way to authorize information sharing
-When asked how they would give VA permission to release their benefits information to a college, most participants looked in education-related sections like benefit letters or school enrollment. This suggests they saw the task as retrieving documentation rather than completing an action to authorize sharing. While they were in the right general area, many missed the specific step needed to finish the task. Only 20.8% of participants completed the task successfully.
+### Finding 4: Participants looked in Education and Training, but missed the correct path to authorize college access
+When asked how they would give VA permission to release their benefits information to a college, many participants selected paths under Education and Training, including Verify Your School Enrollment, About GI Bill Benefits, Eligibility, and After You Apply. Some also selected Download Records, which is not part of the Education and Training section and did not lead to the correct location. While several participants landed in broadly relevant areas, most missed the specific path needed to complete the task. Only 20.8% of participants completed it successfully.
 
 <img width="2127" height="511" alt="image" src="https://github.com/user-attachments/assets/e0c129c7-1a41-4df5-adab-961750bf78d4" />
 <img width="1029" height="560" alt="image" src="https://github.com/user-attachments/assets/08f49878-c104-45eb-9536-43be368c7e68" />
 
-### Finding 5: Veterans generally knew where to go to check the status of a housing grant  
-When asked where they would go to check the status of a VA housing grant application, most participants navigated to claims, benefit applications, or housing assistance sections. This shows the task generally aligned well with how users think about tracking applications. With a 77.1% success rate, this was the most successfully completed task in the study. A few participants did look in unrelated areas like medical records or secure messaging, suggesting there may still be some lingering uncertainty about where housing-related benefits live on the site.
+### Finding 5: Most Veterans successfully found where to check the status of a housing grant
+When asked where they would go to check the status of a VA housing grant application, most participants navigated to paths that ended in pages like Claims and Appeals, Benefit Applications and Forms, or Check claim, decision review, or appeal status. These selections aligned with the intended destination and contributed to a 77.1% success rate. Few participants selected other unrelated areas, including Benefit Payments, Secure Messaging, Veterans Benefit Administration (VBA), and Medical Records.
 
 <img width="2464" height="380" alt="image" src="https://github.com/user-attachments/assets/ed53afb7-43b4-49a6-898c-f24641d61596" />
 <img width="886" height="564" alt="image" src="https://github.com/user-attachments/assets/56d21617-1503-4142-843a-167c9701344a" />
 
-### Finding 6: Veterans understood the task was compensation-related but were unsure how to manage dependents  
-When asked how to add a child to their VA benefits to increase their monthly compensation, most participants correctly associated the task with compensation and explored sections like disability and benefit payments. However, many also looked in less related areas such as caregiver support or survivor benefits, suggesting it wasn’t immediately clear how to manage dependents. Just 33.3% of participants were able to complete the task successfully.
+### Finding 6: Veterans often looked in Benefit Applications and Family Support areas when trying to add a child for compensation
+When asked how to add a child to their VA benefits to increase monthly compensation, many participants selected paths like Benefit Applications and Forms or sections under Family and Caregiver Benefits, including areas related to CHAMPVA and Survivor Benefits. These paths did not lead to the correct location. A smaller number of participants successfully navigated to Manage the dependents on your compensation under Disability or Benefit Payments under My VA. Only 33.3% of participants navigated to the correct destination.
 
 <img width="2523" height="406" alt="image" src="https://github.com/user-attachments/assets/8ee63ff3-97a7-43ed-b9a8-07ca3c70851a" />
 <img width="994" height="514" alt="image" src="https://github.com/user-attachments/assets/41eb7c51-68d6-4fea-a601-a935df884fbc" />
 
-### Finding 7: Veterans expected toxic exposure records to live under health or claims, not general records  
-When asked where to download their toxic exposure record (ILER) to support a VA benefit claim, most participants looked in medical records or claims-related sections. This suggests they viewed ILER as part of their health history or claim documentation rather than a general records tool. This task had one of the lowest success rates in the study with just 20.8% of participants finding the correct path.
+### Finding 7: Veterans looked in Health and Claims paths when trying to download their Individual Longitudinal Exposure Record (ILER)
+When asked where to download their Individual Longitudinal Exposure Record (ILER) to support a VA benefit claim, most participants selected paths under Health, Claims and Appeals, Benefit Applications and Forms, or other Disability-related sections. These choices might suggest participants associated the ILER with medical or claims information. Only 20.8 percent navigated to the correct path, Records under VA Benefits and Health Care.
 
 <img width="2061" height="428" alt="image" src="https://github.com/user-attachments/assets/65b518e4-4d57-4768-868d-429599d12388" />
 <img width="1034" height="399" alt="image" src="https://github.com/user-attachments/assets/305a5140-c571-4bf6-a87e-1c194ef2daae" />
