@@ -1,3 +1,15 @@
+```yaml
+---
+title: "Conversation Guide for [Team, Product, Date]"
+author: "[AUTHOR NAME]"
+date_created: "[YYYY-MM-DD]"
+last_modified: "[YYYY-MM-DD]"
+tags:
+  - "[Tag1]"
+  - "[Tag2]"
+description: "A template for moderating research sessions including logistics, intro script, task outlines, and consent steps."
+---
+```    
     # Conversation Guide for 10-10EZR Confirmation Flow
 
 # Moderator logistics 📋✅
