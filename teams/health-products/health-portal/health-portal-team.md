@@ -109,7 +109,7 @@ During the transition period, the Medications team and Medical Devices team will
 |------|----|-----|-----|--------|------|
 | Patrick Bateman | OCTO Product Lead | patrick.bateman@va.gov | patrick.bateman@va.gov | [@Patrick](https://dsva.slack.com/team/U04K6QYPP6V) | [MarciMcGuire](https://github.com/MarciMcGuire) |
 | Stacy Blackwood | Product Manager | stacy.blackwood@adhocteam.us | TBD | TBD | [StacyB2023](https://github.com/StacyB2023) |
-| Alex Morgun | Frontend Engineer | amorgun@ironarchtech.com | alex.morgun@va.gov | [@Alex Morgun](https://dsva.slack.com/archives/D094PG1DUCB) | [alex-morgun-1](https://github.com/alex-morgun-1) |
+| Alex Morgun | Frontend Engineer | amorgun@ironarchtech.com | alex.morgun@va.gov | [@Alex Morgun](https://dsva.slack.com/team/U03FYHMUG9K) | [alex-morgun-1](https://github.com/alex-morgun-1) |
 | Kevin Suarez | Backend Engineer | kevin.suarez@agile6.com | kevin.suarez1@va.gov | [@Kevin Suarez](https://dsva.slack.com/team/U081A32NU4X) | [kjsuarez](https://github.com/kjsuarez) |
 | Adam Stoler | Fullstack Engineer | adam.stoler@agile6.com | TBD | TBD | TBD |
 | Jason Congliari | Fullstack Engineer | jConigliari@ironarchtech.com | jason.conigliari@va.gov | TBD | [Tonksthebear](https://github.com/Tonksthebear) |
