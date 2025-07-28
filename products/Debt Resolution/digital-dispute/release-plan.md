@@ -113,12 +113,12 @@ DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 
 #### Results
 
-- Number of unique users:
-- Metrics at this stage (per your "success criteria"):
+- Number of unique users: 71
+- Metrics at this stage (per your "success criteria"): 3 errors, under 1 second latency
 - Was any downstream service affected by the change?:
-- Types of errors logged:
+- Types of errors logged: 3.  Timeouts from downstream service
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?:
-  - TBD
+  - We are continuing to monitor downstream errors and latency. As of now they are both within acceptable ranges for us
 
 ### Stage D: 50% of users
 
