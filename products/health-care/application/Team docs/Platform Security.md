@@ -1,7 +1,11 @@
-POC
+POC: 
+
 What is the name of your product(s)/system(s)?
+
 Describe its purpose in a few sentences.
+
 If you represent multiple products, please describe the relationship between them, if there is any.
+
 What is the expected duration of your project? This information helps us understand how our processes need to adapt
 
 AWS Resources
