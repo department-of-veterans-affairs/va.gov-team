@@ -174,6 +174,8 @@ During the transition period, the Medications team and Medical Devices team will
 
 ### Messaging
 
+| Name                    | Role                         | Company Email                   | VA Email                      | DSVA SLACK | GitHub       |
+|-------------------------|------------------------------|---------------------------------|-------------------------------|------------|--------------|
 | Anthony Gravell         | Lead Backend Engineer        | tony.gravell@wilcore.io         | anthony.gravell@va.gov        |            |              |
 | Ashish Manandhar        | Software Engineer            | ashish.manandhar@docme360.com   | ashish.manandhar@va.gov       |            |              |
 | Lauren Cutrell          | Product Manager              | lauren.cutrell@wilcore.io       |                               |            |              |
