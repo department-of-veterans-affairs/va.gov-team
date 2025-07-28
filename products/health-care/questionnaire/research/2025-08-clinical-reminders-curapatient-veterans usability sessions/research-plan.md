@@ -57,9 +57,9 @@ Moderated, semi-structured usability sessions with Veterans.
 - Equipment: Veterans may choose to use native assistive devices during sessions; subject to participant recruitment.
 
 ### Research materials
-- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2025-08-clinical-reminders-curapatient-veterans%20usability%20sessions/conversation-guide.md)
-- CuraPatient prototype
-     - Log-in credentials: N/A
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2025-08-clinical-reminders-curapatient-veterans%20usability%20sessions/conversation-guide.md)
+- [CuraPatient prototype link](https://dev-va.fed.curapatient.com/login#token=ujeqQNNzHPIuvydpeuuaJOEwx_W9ywAy8NL9X-KbKUA)
+
 
 ## Recruitment
 We are using a lean maximum variation sampling approach:
