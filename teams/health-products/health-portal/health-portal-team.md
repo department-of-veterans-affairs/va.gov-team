@@ -5,7 +5,7 @@ Updated 7/25/2025
 - [Welcome](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/health-portal-team.md#welcome)
 - [Team Mission](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/health-portal-team.md#our-mission)
 - [Office of the CTO (OCTO) Team Members](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/health-portal-team.md#office-of-the-cto-octo-team-members)
-- [Product team members](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/health-portal-team.md#product-team-members)
+- [Product team members](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/health-portal-team.md#web-and-mobile-product-team-members)
 - [What we're working on](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/health-portal-team.md#what-were-working-on)
 - [Our stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/health-products/health-portal/health-portal-team.md#stakeholders)
 - [Partner teams](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/health-products/health-portal/health-portal-team.md#partner-teams)
@@ -40,7 +40,7 @@ The My HealtheVet on VA.gov team’s mission is to simplify Veterans’ health e
   - Sean Good, OIT Program Manager
   - Matt Bain, Oddcore Program Manager
 
-## Web and Mobile Team Members
+## Web and Mobile Delivery Product Team Members
 
 <details>
 <summary>Forthcoming roles joining the team</summary>
