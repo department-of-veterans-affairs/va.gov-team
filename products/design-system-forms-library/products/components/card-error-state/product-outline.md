@@ -15,7 +15,7 @@
 - [Properties / architecture document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/card-error-state/properties-architecture.md)
 
 ## Summary
-The error state indicates that something is wrong with the information in card that the user needs to fix before proceeding. In this particular use case, there are required fields displayed within a card that the user needs to enter information for. The error state on a card indicates that the information displayed within the card is invalid or missing.
+The error state indicates that something is wrong with the information in card that the user needs to fix before proceeding. In this particular use case, there are required fields displayed within a card that the user needs to enter information for. The error state on a card indicates that all of the information displayed within the card is invalid or missing.
   
 ## Purpose & Context
 1. What problem does this component solve?
