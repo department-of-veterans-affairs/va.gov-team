@@ -15,46 +15,71 @@
 - [Properties / architecture document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/card-error-state/properties-architecture.md)
 
 ## Summary
-The error state indicates that something is wrong with the information in card that the user needs to fix before proceeding. In this particular use case, there are required fields displayed within a card that the user needs to enter information for. The error state on a card indicates that all of the information displayed within the card is invalid or missing.
+The card error state variant communicates that the information displayed inside a card is missing or invalid and must be corrected before the user can proceed. This variant builds on the standard card component and error pattern used in the VA Design System.
+
+In the primary use case, the card displays prefilled information (per the [“Know When Their Information is Prefilled” pattern](https://design.va.gov/patterns/help-users-to/know-when-their-information-is-prefilled)). When required prefilled data is missing, this error variant prompts users to supply the missing information.
+
   
 ## Purpose & Context
 1. What problem does this component solve?
-   1. The error state indicates that the all of the data within the card is invalid or missing. The user needs to update the data before proceeding. 
+   1.   Provides a consistent, accessible visual and programmatic way to alert users when information in a card is missing or invalid.
 1. Where and how will it be used in the product?
-   1. The primary use case for the card in error state is when the user is viewing prefilled information (which is displayed in cards, per the "[Help Users to... Know When Their Information is Prefilled](https://design.va.gov/patterns/help-users-to/know-when-their-information-is-prefilled)" pattern) and some of their prefilled information is missing and required for the form.
+   1. Primarily in forms where prefilled data is displayed in cards. If required data is missing or incomplete, the error state is triggered to prompt user action.
 1. Is this a new component or an enhancement to an existing one?
-   1. It will be a variant of the [Card component](https://design.va.gov/components/card)
+   1. This is a **variant** of the existing [Card component](https://design.va.gov/components/card), not a new component.)
 
 **Who are the primary users of this component?**
-Teams that build forms
+VA.gov product teams building forms that include prefilled data.
 
 
 ## Tasks / Things to consider
 
 ### Design & UX
 1. What are the different states (default, hover, active, disabled, loading)?
-   1. We are only building the error state on a card. The other states do not need to be considered
+   1. Only the error state. (Warning, info and success are not in scope for this variant.)
 1. Are there existing design patterns this should follow or extend?
-   1. Leverage the existing card design and error state design
+   1. Card component
+   1. Alert/Error styling patterns (e.g., red border, left red bar)
+
 1. Does it need to support themes (e.g., light/dark mode)?
-   1. We currently don't support light/dark mode
+   1. Not currently supported.
 1. How should it behave responsively (mobile, tablet, desktop)?
-   1. The error card will behave similarly to existing card design. When the error state is triggered, the card will not shift to the right or grow wider. It will be narrower to make space for the padding on the left.
+   1. Card layout and spacing should follow standard responsive card behavior  
+   1. Card width should not grow to accommodate error state. Instead, space for the left red border is carved from within the card width.
 
 ### Content Considerations
-1. Is there new content that needs to be run by CIA?
-   1. We need to work with the content team to determine if these error messages are enough `Select “Add” to enter your [missing information].`
+1. New content required? 
+   1. Yes. Error message content must be clear and actionable.  Example: _“Home phone number is required. Select ‘Add’ to enter it.”_
+1. Does content need to go through Content and IA (CIA)? 
+   1. Yes, coordinate with content team to review error message patterns.
+
 
 ### Structure & Content
 - What are the required and optional props/inputs?
 - Are there any interactive states?
 - What variations or configurations are needed (e.g., size, layout, icon options)?
-- Are there edge cases to consider?
+  - This variant is error-only.  
+
+- Edge cases to consider:  
+  - Multiple cards in error state  
+  - Cards with no interactive element inside  
+  - Error text for long labels
 
 ### Accessibility
 - What are the ARIA roles, properties, or patterns needed?
+  - Uses `aria-labelledby` to associate card heading  
+  - Uses `aria-describedby` to associate error message with the card  
+  - Error message uses `role="alert"`   
+  - Focus and scroll behavior ensure error is announced and visible  
+
 - How will it be usable with keyboard navigation and screen readers?
+  - Error card is made keyboard-focusable only during error state via `tabindex="0"` 
+
 - Are there any color contrast or focus management considerations?
+  - Yellow focus indicator (`outline: 2px solid #ffbe2e`) improves keyboard visibility  
+  - Contrast and spacing follow existing DS standards  
+
+
 
 ## Technical Requirements
 ### Testing & Documentation
@@ -68,8 +93,10 @@ Teams that build forms
 - How will backward compatibility be handled?
 
 ## Key Features of the Component:
-- description 
-- description
+- Clearly communicates when all content within a card is invalid or missing  
+- Built as an accessible Web Component  
+- Can be used with one or many cards  
+- Error message is keyboard- and screen-reader accessible  
 - Accessibility: Ensures compliance with WCAG standards and maintains ease of use for all users.
 
 
@@ -90,9 +117,16 @@ Teams that build forms
 
 
 ## Success Criteria
-- Adoption, Usability?
-- Positive feedback from users and stakeholders regarding usability and accessibility.
+- Component is used in at least 1 pilot form  
+- Screen reader and keyboard usability confirmed  
+- Stakeholder feedback is positive  
+- Teams report reduced confusion on missing data
 
 ## Risks and Mitigations
+| Risk                                               | Mitigation                                             |
+|----------------------------------------------------|--------------------------------------------------------|
+| Teams may misuse the card error pattern            | Provide clear Storybook guidance and example usage     |
+| Overuse of focus management could confuse users    | Limit focus only to first error; review UX in context  |
+| Screen reader variation in announcing error group  | Use standard ARIA patterns + test with JAWS, NVDA, VO  |
 
 
