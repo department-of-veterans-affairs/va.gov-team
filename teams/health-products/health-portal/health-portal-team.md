@@ -69,7 +69,7 @@ This cross-functional group serves as the primary points of contact for the deli
 
 |Name|Role|Primary Email|VA Email|DSVA Slack|GitHub|
 |------|----|-----|-----|--------|------|
-| Marci McGuire | OCTO Product Lead | marci.mcguire@va.gov | marci.mcguire@va.gov | [@Marci McGuire](https://dsva.slack.com/team/U04K6QYPP6V) |------|
+| Marci McGuire | OCTO Product Lead | marci.mcguire@va.gov | marci.mcguire@va.gov | [@Marci McGuire](https://dsva.slack.com/team/U04K6QYPP6V) | [MarciMcGuire](https://github.com/MarciMcGuire) |
 | Bryan Ivie | Product Lead | bryan.ivie@adhocteam.us | bryan.ivie@va.gov | [@Bryan Ivie](https://dsva.slack.com/team/U02EA0XLRD1) | [steel36](https://github.com/steel36) |
 | Daniel Cloud | Engineering Lead | daniel.cloud@adhocteam.us | daniel.cloud@va.gov | [@Daniel Cloud](https://dsva.slack.com/team/U03CLNHG23S) | [dcloud](https://github.com/dcloud) |
 | Florence McCafferty | Design Lead | florence.mccafferty@agile6.com | Kathryn.McCafferty@va.gov | [@Florence McCafferty](https://dsva.slack.com/team/U03HQRVPZD1) | [fmccaf1](https://github.com/fmccaf1) |
@@ -83,6 +83,7 @@ This cross-functional group serves as the primary points of contact for the deli
 
 |Name|Role|Primary Email|VA Email|DSVA Slack|GitHub|
 |------|----|-----|-----|--------|------|
+| Marci McGuire | OCTO Product Lead | marci.mcguire@va.gov | marci.mcguire@va.gov | [@Marci McGuire](https://dsva.slack.com/team/U04K6QYPP6V) | [MarciMcGuire](https://github.com/MarciMcGuire) |
 | David Koger | Product Manager | dkoger@ironarchtech.com | TBD | TBD | TBD |
 | Ni Chia |  Fullstack Engineer | ni.chia@adhocteam.us | tchut.chia@va.gov | [@Ni Chia](https://dsva.slack.com/team/U07NQDN4WJG) | [nichia](https://github.com/nichia) |
 | Napoleon Kernessant | Frontend Engineer | napoleon.Kernessant@docme360.com | Napoleon.kernessant@va.gov | [@Napoleon Kernessant](https://dsva.slack.com/team/U03US4Z036J) | [GovNapoleon](https://github.com/GovNapoleon) |
@@ -95,6 +96,7 @@ During the transition period, the Medications team and Medical Devices team will
 
 |Name|Role|Primary Email|VA Email|DSVA Slack|GitHub|
 |------|----|-----|-----|--------|------|
+| Marci McGuire | OCTO Product Lead | marci.mcguire@va.gov | marci.mcguire@va.gov | [@Marci McGuire](https://dsva.slack.com/team/U04K6QYPP6V) | [MarciMcGuire](https://github.com/MarciMcGuire) |
 | Michael Brodsky | Product Manager | michael.brodsky@agile6.com | michael.brodsky@va.gov | [@Michael Brodsky](https://dsva.slack.com/team/U08HKSYE285) | [michaelbrodsky-a6](https://github.com/michaelbrodsky-a6) |
 | Richard Davis | Frontend Engineer | richard.davis@agile6.com | richard.davis437@va.gov | [@Richard Davis](https://dsva.slack.com/team/U05BCJSDCDA) | [radavis](https://github.com/radavis) |
 | Chris Donelson | Fullstack Engineer | CDonelson@ironarchtech.com | TBD | TBD | TBD |
@@ -105,6 +107,7 @@ During the transition period, the Medications team and Medical Devices team will
 
 |Name|Role|Primary Email|VA Email|DSVA Slack|GitHub|
 |------|----|-----|-----|--------|------|
+| Patrick Bateman | OCTO Product Lead | patrick.bateman@va.gov | patrick.bateman@va.gov | [@Patrick](https://dsva.slack.com/team/U04K6QYPP6V) | [MarciMcGuire](https://github.com/MarciMcGuire) |
 | Stacy Blackwood | Product Manager | stacy.blackwood@adhocteam.us | TBD | TBD | [StacyB2023](https://github.com/StacyB2023) |
 | Alex Morgun | Frontend Engineer | amorgun@ironarchtech.com | alex.morgun@va.gov | [@Alex Morgun](https://dsva.slack.com/archives/D094PG1DUCB) | [alex-morgun-1](https://github.com/alex-morgun-1) |
 | Kevin Suarez | Backend Engineer | kevin.suarez@agile6.com | kevin.suarez1@va.gov | [@Kevin Suarez](https://dsva.slack.com/team/U081A32NU4X) | [kjsuarez](https://github.com/kjsuarez) |
