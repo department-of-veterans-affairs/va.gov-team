@@ -107,7 +107,7 @@ During the transition period, the Medications team and Medical Devices team will
 
 |Name|Role|Company Email|VA Email|DSVA Slack|GitHub|
 |------|----|-----|-----|--------|------|
-| Patrick Bateman | OCTO Product Lead | patrick.bateman@va.gov | patrick.bateman@va.gov | [@Patrick](https://dsva.slack.com/team/U04K6QYPP6V) | [MarciMcGuire](https://github.com/MarciMcGuire) |
+| Patrick Bateman | OCTO Product Lead | patrick.bateman@va.gov | patrick.bateman@va.gov | [@Patrick](https://dsva.slack.com/team/U04K6QYPP6V) | [batemapf](https://github.com/batemapf) |
 | Stacy Blackwood | Product Manager | stacy.blackwood@adhocteam.us | TBD | TBD | [StacyB2023](https://github.com/StacyB2023) |
 | Alex Morgun | Frontend Engineer | amorgun@ironarchtech.com | alex.morgun@va.gov | [@Alex Morgun](https://dsva.slack.com/team/U03FYHMUG9K) | [alex-morgun-1](https://github.com/alex-morgun-1) |
 | Kevin Suarez | Backend Engineer | kevin.suarez@agile6.com | kevin.suarez1@va.gov | [@Kevin Suarez](https://dsva.slack.com/team/U081A32NU4X) | [kjsuarez](https://github.com/kjsuarez) |
