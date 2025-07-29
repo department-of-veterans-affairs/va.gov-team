@@ -16,7 +16,7 @@
 - [#94500](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94500) - [QA] Follow-up to complete testing on L&L pattern (CARRIED)
 
 #### Obj: EZ [Improvements/BUGS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
-- [#113841](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113841) - [BE] CSRF at Platform level (CARRIED)
+- [#113841](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113841) - [BE, FE] CSRF at Platform level (CARRIED)
 - [#114233](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114233) - [BE] Update engineering documentation to reflect BEP in place of BGS (CARRIED)
 - [#114303](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114303) - [Eng] Engineering documentation updates (CARRIED)
 - [#114338](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114338) - [BE] Investigate in-progress emails being sent when application has been submitted
