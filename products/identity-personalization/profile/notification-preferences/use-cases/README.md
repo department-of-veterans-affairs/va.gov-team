@@ -1,5 +1,5 @@
 # Notification settings use cases
-**Last updated: June 2025**
+**Last updated: July 2025** Added shared profile use cases.
 
 - [User flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1747940089539/8f90eabb12750f7e358696b92a906f38ae130113?wid=0-1743526306164&outline=open)
 - [Figma files](https://www.figma.com/design/e6JEtrwZCInKk9SjZktx2T/Profile---Notification-Settings?m=auto&node-id=251-8520&t=FblEkQJLTxHQCY0H-1)
@@ -18,22 +18,23 @@
 
 
 ## Current experience
-- For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the user will be directed to the Profile Account Security section. [See LOA1 account documentation.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
 - This page allows users to opt in and out of text and email notifications on the VA.gov Profile.
    - The page is supported by VA Profile, VEText, and VA Notifiy. If you need to set up new integrations please speak to the respective teams. These use cases are ONLY for the VA.gov Profile experience.
 - Text notifications require a US based phone number to send.
 - [Link to current notification settings options.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences#currently-we-support-the-following-notifications)
+- For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the user will be directed to the Profile Account Security section.
+
  
 ## Common use cases
-### User logs in with LOA1 account
-- [User logs in with an LOA1 account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
-
 ### User logs in with LOA3 account
 
 <details><summary>User doesn't have email or US based mobile phone number on file</summary>
 
 - **Use case:** If a user does not have an email or a US based mobile phone number on file they see a warning alert prompting them to add contact information. The link directs the user to the edit-as-a-subtask pattern.
 - **Status code:** TBD
+- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
+- [Link to designs](https://www.figma.com/design/e6JEtrwZCInKk9SjZktx2T/Profile---Notification-Settings?m=auto&node-id=2553-20776&t=9qMroEtWj0VhgZue-1)
+- [Link to code]
 - **Content:**
 
 Header: We don’t have your contact information
@@ -43,10 +44,6 @@ To get started managing your notification settings, add an email address or US b
 Link: Add an email address to your profile ›
 
 Link: Add a US based mobile number to your profile ›
-
-- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
-- [Link to designs](https://www.figma.com/design/e6JEtrwZCInKk9SjZktx2T/Profile---Notification-Settings?m=auto&node-id=2553-20776&t=9qMroEtWj0VhgZue-1)
-- [Link to code]
 
 </details>
 
@@ -113,8 +110,12 @@ Link: Add a US based mobile number to your profile ›
 ### Validation
 This feature has no validation use cases.
 
+
 ### Flags 
-There are no flags with this feature.
+[Blocked users documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/blocked-account.md)
+
+[User logs in with an LOA1 account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
+
 
 ### Errors
 
