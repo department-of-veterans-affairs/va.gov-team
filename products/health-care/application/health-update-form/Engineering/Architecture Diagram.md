@@ -1,3 +1,39 @@
-<img width="1302" alt="image" src="https://github.com/user-attachments/assets/82cc7473-a0c4-4d98-8263-f5f219dcc789" />
+## Filling Out Form 10-10EZR
+```mermaid
+sequenceDiagram
+    participant Veteran
+    participant Frontend as vets-website
+    participant Backend as vets-api
+    participant VES as Veteran Enrollment System
 
-<img width="1488" alt="image" src="https://github.com/user-attachments/assets/18dccabc-b0b4-41d0-a450-0d0a880a2919" />
+    Veteran->>Frontend: Start 10-10 EZR Form
+
+    Frontend->>Backend: Fetch vet data and WIP forms
+    Frontend->>Backend: Get enrollment status
+    Frontend->>Backend: Get 10-10 EZR prefill data
+
+    Backend->>VES: Get enrollment status
+    VES-->>Backend: Return enrollment status
+
+    Backend-->>Frontend: Return vet data
+    Backend-->>Frontend: Return enrollment status
+    Backend-->>Frontend: Return prefill data
+```
+## Submitting Form 10-10EZR
+```mermaid
+sequenceDiagram
+    participant Veteran
+    participant Frontend as vets-website
+    participant Backend as vets-api
+    participant Job as Submission Job
+    participant VES as Veteran Enrollment System
+
+    Veteran->>Frontend: Submit 10-10 EZR Form
+    Frontend->>Backend: Post form data
+    Backend->>Job: Validate & Enqueue Submission Job
+    Job-->>Backend: Return immediately
+    Backend-->>Frontend: Return success or error
+
+    Job->>VES: Submit form to VES
+    VES-->>Job: Job retries on failure.<br/>If retries exhausted,<br/>send failure email via VANotify
+```
