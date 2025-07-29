@@ -49,8 +49,17 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.WORKFLOWS_PERMISSIONS }}
-          fetch-depth: 0  # Get full history to track file age
+          fetch-depth: 0
           ref: ${{ github.event.inputs.target_branch || github.ref }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install openai requests
 
       - name: Find eligible research files
         id: find-files
@@ -120,135 +129,143 @@ jobs:
             fi
           fi
 
-      - name: Process each eligible file
+      - name: Process and generate short stories
+        if: steps.find-files.outputs.skip != 'true'
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          cat << 'PYTHON_SCRIPT' > generate_stories.py
+          import os
+          import sys
+          import json
+          import openai
+          from pathlib import Path
+          from datetime import datetime, timedelta
+          import subprocess
+
+          # Get eligible files from environment
+          eligible_files = os.environ.get('ELIGIBLE_FILES', '').strip().split()
+
+          for research_file in eligible_files:
+              if not research_file:
+                  continue
+                  
+              print(f"Processing: {research_file}")
+              
+              # Get authors from last 3 days
+              three_days_ago = (datetime.now() - timedelta(days=3)).strftime('%Y-%m-%d')
+              cmd = f"git log --since='{three_days_ago}' --format='%an|%ae' '{research_file}' | sort -u"
+              result = subprocess.run(cmd, shell=True, capture_output=True, text=True)
+              
+              reviewers = []
+              for line in result.stdout.strip().split('\n'):
+                  if '|' in line:
+                      author, email = line.split('|')
+                      username = author.lower().replace(' ', '-')
+                      reviewers.append(username)
+              
+              reviewer_list = ','.join(reviewers) if reviewers else 'sstrassberg'
+              
+              # Read research content
+              with open(research_file, 'r', encoding='utf-8') as f:
+                  research_content = f.read()
+              
+              # Read prompt instructions
+              prompt_file = 'products/copilot-research-prompts/research-short-story-prompt.md'
+              if os.path.exists(prompt_file):
+                  with open(prompt_file, 'r', encoding='utf-8') as f:
+                      prompt_content = f.read()
+                  
+                  # Extract prompt instructions
+                  start_marker = '```plaintext'
+                  end_marker = '```'
+                  start_idx = prompt_content.find(start_marker) + len(start_marker)
+                  end_idx = prompt_content.find(end_marker, start_idx)
+                  prompt_instructions = prompt_content[start_idx:end_idx].strip()
+              else:
+                  print(f"Prompt file not found: {prompt_file}")
+                  continue
+              
+              # Generate short story using OpenAI
+              client = openai.OpenAI(api_key=os.environ['OPENAI_API_KEY'])
+              
+              try:
+                  response = client.chat.completions.create(
+                      model="gpt-4o-mini",
+                      messages=[
+                          {"role": "system", "content": prompt_instructions},
+                          {"role": "user", "content": f"Please summarize this research report:\n\n{research_content}"}
+                      ],
+                      temperature=0.7,
+                      max_tokens=1500
+                  )
+                  
+                  short_story = response.choices[0].message.content
+                  
+                  # Save metadata for the workflow
+                  metadata = {
+                      'research_file': research_file,
+                      'dir_path': os.path.dirname(research_file),
+                      'reviewers': reviewer_list,
+                      'short_story': short_story
+                  }
+                  
+                  with open(f'metadata_{eligible_files.index(research_file)}.json', 'w') as f:
+                      json.dump(metadata, f)
+                      
+                  print(f"Successfully generated short story for {research_file}")
+                  
+              except Exception as e:
+                  print(f"Error generating short story for {research_file}: {e}")
+          PYTHON_SCRIPT
+          
+          ELIGIBLE_FILES="${{ steps.find-files.outputs.eligible_files }}" python generate_stories.py
+
+      - name: Create PRs for each story
         if: steps.find-files.outputs.skip != 'true'
         run: |
-          IFS=' ' read -ra FILES <<< "${{ steps.find-files.outputs.eligible_files }}"
-          
-          for RESEARCH_FILE in "${FILES[@]}"; do
-            if [ -n "$RESEARCH_FILE" ]; then
-              echo "Processing: $RESEARCH_FILE"
+          for metadata_file in metadata_*.json; do
+            if [ -f "$metadata_file" ]; then
+              # Extract metadata
+              RESEARCH_FILE=$(jq -r '.research_file' "$metadata_file")
+              DIR_PATH=$(jq -r '.dir_path' "$metadata_file")
+              REVIEWERS=$(jq -r '.reviewers' "$metadata_file")
+              SHORT_STORY=$(jq -r '.short_story' "$metadata_file")
               
-              # Get all unique authors for this file in the last 3 days
-              THREE_DAYS_AGO=$(date -d '3 days ago' '+%Y-%m-%d')
-              AUTHORS=$(git log --since="$THREE_DAYS_AGO" --format='%an|%ae' "$RESEARCH_FILE" | sort -u)
+              # Save environment variables for the next steps
+              echo "RESEARCH_FILE=$RESEARCH_FILE" >> $GITHUB_ENV
+              echo "DIR_PATH=$DIR_PATH" >> $GITHUB_ENV
+              echo "REVIEWERS=$REVIEWERS" >> $GITHUB_ENV
+              echo "SHORT_STORY_CONTENT<<EOF" >> $GITHUB_ENV
+              echo "$SHORT_STORY" >> $GITHUB_ENV
+              echo "EOF" >> $GITHUB_ENV
               
-              # Create a comma-separated list of author usernames
-              REVIEWER_LIST=""
-              while IFS='|' read -r author email; do
-                USERNAME=$(echo "$author" | tr '[:upper:]' '[:lower:]' | tr ' ' '-')
-                if [ -n "$REVIEWER_LIST" ]; then
-                  REVIEWER_LIST="$REVIEWER_LIST,$USERNAME"
-                else
-                  REVIEWER_LIST="$USERNAME"
-                fi
-              done <<< "$AUTHORS"
+              # Create the short story file
+              mkdir -p "$DIR_PATH"
+              echo "$SHORT_STORY" > "$DIR_PATH/short-story.md"
               
-              # Save metadata for later steps
-              echo "CURRENT_FILE=$RESEARCH_FILE" >> process_metadata.txt
-              echo "REVIEWERS=$REVIEWER_LIST" >> process_metadata.txt
-              echo "DIR_PATH=$(dirname "$RESEARCH_FILE")" >> process_metadata.txt
+              # Continue with PR creation in next step
+              break
             fi
           done
 
-      - name: Generate short stories
-        if: steps.find-files.outputs.skip != 'true'
-        run: |
-          # Process each file's metadata
-          while IFS= read -r line; do
-            if [[ $line == CURRENT_FILE=* ]]; then
-              RESEARCH_FILE="${line#CURRENT_FILE=}"
-              read -r REVIEWERS_LINE
-              REVIEWERS="${REVIEWERS_LINE#REVIEWERS=}"
-              read -r DIR_LINE
-              DIR_PATH="${DIR_LINE#DIR_PATH=}"
-              
-              # Read research content
-              RESEARCH_CONTENT=$(cat "$RESEARCH_FILE")
-              
-              # Read prompt instructions
-              PROMPT_FILE="products/copilot-research-prompts/research-short-story-prompt.md"
-              if [ -f "$PROMPT_FILE" ]; then
-                PROMPT_INSTRUCTIONS=$(awk '/^```plaintext/,/^```/ {if (!/^```(plaintext)?$/) print}' "$PROMPT_FILE")
-                
-                # Create action metadata file for GitHub Copilot
-                echo "RESEARCH_FILE=$RESEARCH_FILE" >> $GITHUB_ENV
-                echo "REVIEWERS=$REVIEWERS" >> $GITHUB_ENV
-                echo "DIR_PATH=$DIR_PATH" >> $GITHUB_ENV
-                echo "PROMPT_INSTRUCTIONS<<EOF" >> $GITHUB_ENV
-                echo "$PROMPT_INSTRUCTIONS" >> $GITHUB_ENV
-                echo "EOF" >> $GITHUB_ENV
-                echo "RESEARCH_CONTENT<<EOF" >> $GITHUB_ENV
-                echo "$RESEARCH_CONTENT" >> $GITHUB_ENV
-                echo "EOF" >> $GITHUB_ENV
-              fi
-            fi
-          done < process_metadata.txt
-
-      - name: Generate short story with GitHub Copilot
-        if: steps.find-files.outputs.skip != 'true'
-        id: generate-short-story
-        uses: github/copilot-cli-action@v1
-        with:
-          prompt: |
-            ${{ env.PROMPT_INSTRUCTIONS }}
-            
-            Please summarize this research report:
-            
-            ${{ env.RESEARCH_CONTENT }}
-          temperature: 0.7
-          top_p: 1
-          max_tokens: 1500
-
-      - name: Save short story and create PR
-        if: steps.find-files.outputs.skip != 'true'
-        run: |
-          # Save the generated short story
-          mkdir -p "${{ env.DIR_PATH }}"
-          echo "${{ steps.generate-short-story.outputs.response }}" > "${{ env.DIR_PATH }}/short-story.md"
-          
-          # Save the short story content for Slack
-          echo "SHORT_STORY_CONTENT<<EOF" >> $GITHUB_ENV
-          echo "${{ steps.generate-short-story.outputs.response }}" >> $GITHUB_ENV
-          echo "EOF" >> $GITHUB_ENV
-          
-          # Determine if this is an update or new story
-          if git ls-files --error-unmatch "${{ env.DIR_PATH }}/short-story.md" 2>/dev/null; then
-            PR_TITLE="Update Research Short Story: ${{ env.DIR_PATH }}"
-            COMMIT_MSG="Update research short story for ${{ env.RESEARCH_FILE }}"
-            PR_TYPE="updated"
-          else
-            PR_TITLE="Research Short Story: ${{ env.DIR_PATH }}"
-            COMMIT_MSG="Generate research short story for ${{ env.RESEARCH_FILE }}"
-            PR_TYPE="new"
-          fi
-          
-          # Add test indicator if manual run
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
-            PR_TITLE="[TEST] $PR_TITLE"
-          fi
-          
-          echo "PR_TITLE=$PR_TITLE" >> $GITHUB_ENV
-          echo "COMMIT_MSG=$COMMIT_MSG" >> $GITHUB_ENV
-          echo "PR_TYPE=$PR_TYPE" >> $GITHUB_ENV
-
       - name: Create Pull Request
-        if: steps.find-files.outputs.skip != 'true'
+        if: steps.find-files.outputs.skip != 'true' && env.RESEARCH_FILE
         id: create-pull-request
         uses: peter-evans/create-pull-request@v5
         with:
           token: ${{ secrets.WORKFLOWS_PERMISSIONS }}
-          commit-message: "${{ env.COMMIT_MSG }}"
-          title: "${{ env.PR_TITLE }}"
+          commit-message: "Generate research short story for ${{ env.RESEARCH_FILE }}"
+          title: "${{ github.event_name == 'workflow_dispatch' && '[TEST] ' || '' }}Research Short Story: ${{ env.DIR_PATH }}"
           body: |
-            ## 📚 Research Short Story ${{ env.PR_TYPE == 'updated' && 'Updated' || 'Generated' }}
+            ## 📚 Research Short Story Generated
             
             ${{ github.event_name == 'workflow_dispatch' && '> ⚠️ **This is a TEST run** triggered manually via workflow_dispatch' || '' }}
             
-            This pull request ${{ env.PR_TYPE == 'updated' && 'updates' || 'adds' }} a research short story based on the findings in `${{ env.RESEARCH_FILE }}`.
+            This pull request adds a research short story based on the findings in `${{ env.RESEARCH_FILE }}`.
             
             ### 📝 Changes
-            - ${{ env.PR_TYPE == 'updated' && 'Updated' || 'Added' }} `short-story.md` in `${{ env.DIR_PATH }}/`
+            - Added `short-story.md` to `${{ env.DIR_PATH }}/`
             
             ### 👀 Review Instructions
             Please review the generated short story for:
@@ -259,10 +276,6 @@ jobs:
             
             ### 👥 Reviewers
             All authors who contributed to the research findings in the past 3 days have been added as reviewers. Only one approval is needed to merge.
-            
-            ${{ env.PR_TYPE == 'updated' && '### 🔄 Why was this updated?\nThe research findings were modified after the initial short story was created, so this PR updates the short story to reflect the latest insights.' || '' }}
-            
-            ${{ github.event_name == 'workflow_dispatch' && '### 🧪 Test Run Details\n- Research file: `' || '' }}${{ github.event_name == 'workflow_dispatch' && env.RESEARCH_FILE || '' }}${{ github.event_name == 'workflow_dispatch' && '`\n- Time delay ignored: ' || '' }}${{ github.event_name == 'workflow_dispatch' && github.event.inputs.ignore_time_delay || '' }}${{ github.event_name == 'workflow_dispatch' && '\n- Target branch: ' || '' }}${{ github.event_name == 'workflow_dispatch' && github.event.inputs.target_branch || github.ref || '' }}
           branch: auto/research-short-story-${{ github.run_number }}
           delete-branch: true
           reviewers: ${{ env.REVIEWERS }}
@@ -270,39 +283,6 @@ jobs:
             research
             documentation
             automated
-            ${{ env.PR_TYPE == 'updated' && 'update' || 'new' }}
-            ${{ github.event_name == 'workflow_dispatch' && 'test' || '' }}
-
-      - name: Add comment to PR
-        if: steps.find-files.outputs.skip != 'true' && steps.create-pull-request.outputs.pull-request-number
-        uses: actions/github-script@v7
-        with:
-          github-token: ${{ secrets.WORKFLOWS_PERMISSIONS }}
-          script: |
-            const prNumber = ${{ steps.create-pull-request.outputs.pull-request-number }};
-            const reviewers = '${{ env.REVIEWERS }}'.split(',');
-            const prType = '${{ env.PR_TYPE }}';
-            const isTest = '${{ github.event_name }}' === 'workflow_dispatch';
-            
-            if (prNumber) {
-              const mentions = reviewers.map(r => `@${r}`).join(', ');
-              let message = '';
-              
-              if (isTest) {
-                message = `🧪 **TEST RUN** - ${mentions} - This is a test generation of the research short story. Please review to ensure the automation is working correctly before deploying to production.`;
-              } else if (prType === 'updated') {
-                message = `👋 ${mentions} - The research short story has been updated to reflect recent changes to your findings! Please review the updates and make any necessary edits before merging.`;
-              } else {
-                message = `👋 ${mentions} - A research short story has been generated based on your research findings! After the 3-day synthesis period, we've created this summary. Please review and make any necessary edits before merging.\n\n**Note:** Only one reviewer needs to approve and merge this PR.`;
-              }
-              
-              github.rest.issues.createComment({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
-                issue_number: prNumber,
-                body: message
-              });
-            }
 
       - name: Send Slack notification
         if: steps.find-files.outputs.skip != 'true' && steps.create-pull-request.outputs.pull-request-number
@@ -317,19 +297,8 @@ jobs:
                   "type": "header",
                   "text": {
                     "type": "plain_text",
-                    "text": "📚 New Research Short Story Generated",
-                    "emoji": true
+                    "text": "📚 New Research Short Story Generated"
                   }
-                },
-                {
-                  "type": "section",
-                  "text": {
-                    "type": "mrkdwn",
-                    "text": "_A research short story has been automatically generated from recent findings._"
-                  }
-                },
-                {
-                  "type": "divider"
                 },
                 {
                   "type": "section",
@@ -339,42 +308,15 @@ jobs:
                   }
                 },
                 {
-                  "type": "divider"
-                },
-                {
-                  "type": "context",
-                  "elements": [
-                    {
-                      "type": "mrkdwn",
-                      "text": "📁 *Research File:* `${{ env.RESEARCH_FILE }}`"
-                    },
-                    {
-                      "type": "mrkdwn",
-                      "text": "👥 *Reviewers:* ${{ env.REVIEWERS }}"
-                    }
-                  ]
-                },
-                {
                   "type": "actions",
                   "elements": [
                     {
                       "type": "button",
                       "text": {
                         "type": "plain_text",
-                        "text": "Review PR on GitHub",
-                        "emoji": true
+                        "text": "Review PR on GitHub"
                       },
-                      "url": "https://github.com/${{ github.repository }}/pull/${{ steps.create-pull-request.outputs.pull-request-number }}",
-                      "style": "primary"
-                    },
-                    {
-                      "type": "button",
-                      "text": {
-                        "type": "plain_text",
-                        "text": "View Full Report",
-                        "emoji": true
-                      },
-                      "url": "https://github.com/${{ github.repository }}/blob/${{ github.ref }}/${{ env.RESEARCH_FILE }}"
+                      "url": "https://github.com/${{ github.repository }}/pull/${{ steps.create-pull-request.outputs.pull-request-number }}"
                     }
                   ]
                 }
