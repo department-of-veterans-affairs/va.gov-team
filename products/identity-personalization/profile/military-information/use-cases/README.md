@@ -89,7 +89,7 @@ This feature has no validation use cases.
 
 <details><summary>System error: Backend system down</summary>
 
-- [System error: Backend system down](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/profile-shared-use-cases.md#system-errors)
+[Profile shared use cases: Errors: System errors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/profile-shared-use-cases.md#system-errors)
 
 **Status codes**
     
