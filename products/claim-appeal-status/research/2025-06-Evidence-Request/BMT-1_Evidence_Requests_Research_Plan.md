@@ -1,4 +1,5 @@
-# Research Plan for BMT-1 | Evidence Requests | 7/17/2025
+# Research Plan for BMT-1
+##Evidence Requests | 7/17/2025
 
 ## Background
 Previous research shows that Veterans currently struggle with understanding evidence requests related to their claims in the Claim Status Tool. Delays in responding to evidence requests result in delays to decisions on claims. The Benefits Management Tools team recently implemented a new design pattern and plain language overrides to some default content obtained from the Benefits Claims API.
