@@ -109,7 +109,7 @@ Adding a child to VA benefits for increased monthly compensation prompted many V
 <img width="994" height="514" alt="image" src="https://github.com/user-attachments/assets/41eb7c51-68d6-4fea-a601-a935df884fbc" />
 
 ### Finding 7: Veterans looked in health and claims paths when trying to download their Individual Longitudinal Exposure Record (ILER)
-To download their Individual Longitudinal Exposure Record (ILER) in support of a benefit claim, many Veterans selected paths under Health, Claims and Appeals, Benefit Applications and Forms, or other Disability-related areas. Only 20.8 percent navigated to the correct path, Records under VA Benefits and Health Care.
+To download their Individual Longitudinal Exposure Record (ILER) in support of a benefit claim, many Veterans selected paths under Health, Claims and Appeals, Benefit Applications and Forms, or other Disability-related areas. Only 20.8 percent navigated to the correct path, Records under VA Benefits and Health Care. There may be an opportunity here to add a cross-link to the ILER from within the My VA page or My HealtheVet portal and see if it drives traffic to that page. 
 
 <img width="2061" height="428" alt="image" src="https://github.com/user-attachments/assets/65b518e4-4d57-4768-868d-429599d12388" />
 <img width="1034" height="399" alt="image" src="https://github.com/user-attachments/assets/305a5140-c571-4bf6-a87e-1c194ef2daae" />
