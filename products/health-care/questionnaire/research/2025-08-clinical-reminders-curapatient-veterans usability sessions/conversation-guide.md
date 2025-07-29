@@ -27,47 +27,28 @@ I have started recording. I'd like to confirm: Are you comfortable if I record m
 ## First Task: Warm-up questions – 3 minutes
 
 1. Have you ever filled health questionnaires that you received from the VA provider either at your appointment or through email or text?
-
-2. If so, can you tell me about your experience?
-
-3. If you received health questionnaires via email or text, what devices have you used to respond to the questionnaires?
-
-4. Did you use any accessibility features that are native to the device such as the Voiceover or Zoom?
-
-5. What was your experience using that device to respond to the questionnaire?
-
-6. Did you experience difficulties with completing the questionnaire?
+    - If so, can you tell me about your experience?
+    - If you received health questionnaires via email or text, what devices have you used to respond to the questionnaires?
+        - Did you use any accessibility features that are native to the device such as the Voiceover or Zoom?
+        - What was your experience using that device to respond to the questionnaire?
+        - Did you experience difficulties with completing the questionnaire?
 
 ## Second Task: Log-in screen - 10 minutes
-
-1. Notetaker: There are 4 questionnaires; note which questionnaire branching logic they follow, if the questions and subsequent screens make sense, inconsistencies or awkward content, and any comments a participant shares without prompting from the moderator.
-
-2. Now, we are going to pretend that you have a doctor’s appointment in 2 days and your doctor emailed you some health questionnaires for you to complete before your upcoming appointment.
-
-3. The questionnaires may, or may not be related to your upcoming appointment.
-
-4. Some of the questions will be familiar to you as you answered them before while others may not.
-
-5. As you read each screen, please think aloud.
-
-6. And I’ll ask you a few questions on each screen before you move on through the prototype.
-
-7. Just a reminder-this just a prototype and your answer to questions will not affect you or your benefits in any way.
-
-8. What device are you using today?
-
-9. In the Zoom chat, located at the X part of your screen, I’m going to send you a link to a questionnaire tool along with a fictitious date of birth and a last name that you will use to log into the experience; please do not enter your own birthdate or last name, since this is a fictitious simulation.
-
-10. But first, I’ll ask you to share your screen, but don’t click on that link just yet.
-
-11. Can you please share your screen located at the bottom of your screen in the tool bar; you want to look for a green square with an arrow icon that says “Share”.
-
-12. I’m sending the links and credentials in your Zoom chat now. Do you see them? Great.
+**Notetaker:** Please note what browser is being used. There are 4 questionnaires; note which questionnaire branching logic they follow, if the questions and subsequent screens make sense, inconsistencies or awkward content, and any comments a participant shares without prompting from the moderator.
+1. Now, we are going to pretend that your doctor emailed you some health questionnaires for you to complete before your upcoming appointment.
+2. Some of the questions will be familiar to you as you answered them before while others may not.
+3. As you read each screen, please think aloud.
+4. And I’ll ask you a few questions on each screen before you move on through the prototype.
+5. Just a reminder-this just a prototype and your answer to questions will not affect you or your benefits in any way.
+6. What device are you using today?
+7. In the Zoom chat, located at the X part of your screen, I’m going to send you a link to a questionnaire tool along with a fictitious date of birth and a last name, then I’ll ask to share screen, but don’t click on that link just yet.
+8. Can you share your screen located at X. 
+9. I’m sending the links and credentials in your Zoom chat now. Do you see them? Great.
 
     - CuraPatient link: 
     - Log-in credentials: 
 
-13. Now, I’ll ask you to click on the link.
+10. Now, I’ll ask you to click on the link.
 
 
 **User sees a Login Screen**     
@@ -155,11 +136,8 @@ Moderator: At the end of the entire questionnaire experience, ask the following:
 ## Thank-You and Closing - 3 minutes
 
 1. Well, we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on these experiences and make sure it really works for Veterans.
-
 2. Before you go, I wanted to iterate that everything we did today wasn’t real. The questions that you answered were not submitted to your provider or anywhere.
-
 3. Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
-
 4. Thank you so much again and enjoy the rest of your day!
 
 ## Emergency Exit
