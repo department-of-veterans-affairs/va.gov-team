@@ -83,8 +83,10 @@ In the bottom toolbar of the Zoom window, click the arrow next to **SHOW CAPTION
 
 - Now I'd like you to share your screen with me. Tap on the button that says **Share**. Then there will be options for what to share. Please choose **"Screen"** (phone) or your web browser.
 - Great, now I can see your screen! Thank you for your patience in figuring this out.
+- Is anything in these instructions unclear or confusing to you? Is there any language you’d change?”
 
 - iPad: **Broadcast screen**
+- 
 ## Troubleshooting
 - [Avoid **AI Companion**, which is a new option next to “Share” in the Zoom buttons]
 
@@ -163,15 +165,23 @@ As we go through the steps in this study, please talk aloud about what you're th
 
 [When they get to the homepage:] Please stop here so I can give you the next instruction.
 
+### Questions for testing participant: 
+
+Did you encounter any issues using your [screen reader/assistive tech/device]? 
+
+Was any part hard to navigate or understand?
+
 
 ## Task 2: Start a statement
-Pretend that you need to start a new statement with the VA by completing a form. Where would you go in the mobile app to start a new statement?
+Pretend that you need to start a new statement with the VA by completing a form. Where would you expect to find forms like these in the VA mobile app? What would you expect this section to be called?
 
 [Select 'Go to forms' > Click the button 'Start a new statement' > Read the text on this page and continue on by clicking on the button 'Start a new statement', Read through the screen 'What would you like to do?' > Select 'What I want to do isn't listed here' > Click 'Continue'.]
 
 Reminder to speak aloud any thoughts, reactions, or questions you have during this process.
 
 ### Watch for:
+- In this step, what did the participant expect to happen?
+    - Did they mention any previous experience or confusion?
 - How the user gets to forms. Do they click anything other than "Go to Forms"? Y/N
     - If Y, where do they go instead?
 - Does the user mentions any confusion on where to go to start a new statement. Y/N
@@ -182,8 +192,11 @@ Reminder to speak aloud any thoughts, reactions, or questions you have during th
 Please fill out this form to submit your statement, but I want you to use fake details so you don't share your personal information with me.
 
 - Supply form entry data for participant to enter as they go through the form.
+- Note: An invalid social security number is provided to intentionally throw an error. Observe the user's reaction to this error and attempt to troubleshoot.
 
 ### Watch for:
+- In this step, what did the participant expect to happen?
+    - Did they mention any previous experience or confusion?
 - Does the user encounter any errors when entering the data into the form fields? Y/N
     - If Y, what field do they encounter errors on?
       - What triggered the error specifically?
@@ -194,6 +207,12 @@ Please fill out this form to submit your statement, but I want you to use fake d
 - Does the user express thoughts of frustration while completing the form? Y/N
     - If Y, what did they experience when expressing the frustration?
 
+### Questions for testing participant: 
+
+Did you encounter any issues using your [screen reader/assistive tech/device]? 
+
+Was any part hard to navigate or understand?
+
 
 ## Task 4: (After SSN before 'Continue') take a break in filling out the form
 Pretend you need to step away from the form for an extended period of time, you can leave the form now.
@@ -201,36 +220,79 @@ Pretend you need to step away from the form for an extended period of time, you 
 [Click 'Done' to exit the form]
 
 ### Watch for:
+- In this step, what did the participant expect to happen?
+    - Did they mention any previous experience or confusion?
 - Does the user select anything other than Done to leave the form? Y/N
     - If yes, what does the user do?
 - Does the user express doubt that their work will be saved? Y/N
 
+### Questions for testing participant: 
+
+Did you encounter any issues using your [screen reader/assistive tech/device]? 
+
+Was any part hard to navigate or understand?
+
+
 ## Task 5: Continue completing the started form and submit
-Pretend you are ready to come back to your previous form to complete it.
+Pretend you are ready to come back to your previous form to complete it. Please locate the form and bring it up to complete. I have some updated information to supply you here to allow you to complete this form.
+
+- Supply acceptable social security number to correct error and allow the user to advance in the form fields.
 
 [From forms, under 'Statement in Support of a Claim' see 'In Progress' form previously started, click 'Continue form']
 
 ### Watch for:
+- In this step, what did the participant expect to happen?
+    - Did they mention any previous experience or confusion?
 - Does the user understand that they are continuing with the same form they started at the beginning of the session? Y/N
     - If no, what do they mention that is confusing?
 - Is the user able to complete the started form? Y/N
     - If no, what prohibited them from submitting the initial form?
+
+### Questions for testing participant: 
+
+Did you encounter any issues using your [screen reader/assistive tech/device]? 
+
+Was any part hard to navigate or understand?
+
+Did you find navigation particularly challenging in any way?
+
+If Y, why?
+
+Did you find any labels particularly confusing on the form?
+
+If Y, what labels specifically and how might they be improved for clarity?
  
 ### Task 6: View submitted form
 Now that you have completed the form, navigate back to the general forms location in the app.
 
 [Select 'Done' to exit the confirmation page, Go to 'Forms']
 
-Based on this screen, can you confirm that you have submitted your form?
+### Questions for testing participant: 
+- Based on what you see now, how do you know the form was submitted? 
+
+- What does this status mean to you? 
+
+- What would you expect to see if you needed to check on your submission later?
 
 ### Watch for:
+- In this step, what did the participant expect to happen?
+    - Did they mention any previous experience or confusion?
 - Does the user express confidence that they have completed and submitted their form?
     - If no, what is confusing to them and why?
 - DOes the user understand the status of the form?
     - If not, what do confusion do they express when interpretting the form status?
+    - 
+### Questions for testing participant:
 
+Did you encounter any issues using your [screen reader/assistive tech/device]? 
+
+Was any part hard to navigate or understand?
 
 ## Thank You and Closing - 3 minutes
+
+**How easy or difficult did you find this process overall?**
+
+**Was there any part that felt especially frustrating or mentally tiring?**
 
 **Are you still okay if we use any video or audio clips from this session?** 
 - *(yes / no)*
