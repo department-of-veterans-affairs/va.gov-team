@@ -3,6 +3,10 @@
 
 ## 📆 Sprint 26 (July 30 - Aug 13)
 
+### Team Initiative
+#### Obj: Platform requests - Security documentation
+- [#115392](https://github.com/department-of-veterans-affairs/va.gov-team/issues/115392) - [Eng, PM] Platform security documentation request
+
 ### 10-10EZ
 
 #### Obj: EZ [Save in-progress for List & Loop](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94818)
