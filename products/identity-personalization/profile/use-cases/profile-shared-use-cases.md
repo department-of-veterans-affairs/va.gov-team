@@ -45,7 +45,9 @@ Included in this document are links to all shared VA.gov profile use cases. Thes
 
 - **Use case:** When the user selects the Save button, and the form successfully saves, the user is returned to read mode and a slim success alert displays below the section header.
 - **Format:** [Slim success alert](https://design.va.gov/components/alert/#examples---slim-alert)
-- [Link to designs](https://www.figma.com/design/Byfu9NRKXCtXN3DuMYguKI/Authenticated-Experience-Team-Symbols?node-id=1027-2055&t=lV1Oua0bfedXY6kj-1)
+- Links to designs
+   - [Input success message](https://www.figma.com/design/Byfu9NRKXCtXN3DuMYguKI/Authenticated-Experience-Team-Symbols?node-id=1027-2055&t=lV1Oua0bfedXY6kj-1)
+   - [Checkbox success message](https://www.figma.com/design/Byfu9NRKXCtXN3DuMYguKI/Authenticated-Experience-Team-Symbols?node-id=1065-1047&t=lqkwKLq2YPQjoDrR-1)
 
 </details>
 
@@ -54,7 +56,9 @@ Included in this document are links to all shared VA.gov profile use cases. Thes
 
 - **Use case:** When the user selects the Save button, and the form does not save, the user is returned to edit mode and a slim error alert displays below the section header.
 - **Format:** [Slim error alert](https://design.va.gov/components/alert/#examples---slim-alert)
-- [Link to designs](https://www.figma.com/design/Byfu9NRKXCtXN3DuMYguKI/Authenticated-Experience-Team-Symbols?node-id=1034-634&t=lV1Oua0bfedXY6kj-1)
+- Links to designs
+   - [Input error message](https://www.figma.com/design/Byfu9NRKXCtXN3DuMYguKI/Authenticated-Experience-Team-Symbols?node-id=1034-634&t=lV1Oua0bfedXY6kj-1)
+   - [Checkbox error message](https://www.figma.com/design/Byfu9NRKXCtXN3DuMYguKI/Authenticated-Experience-Team-Symbols?node-id=1065-1043&t=lqkwKLq2YPQjoDrR-1)
 
 </details>
 
