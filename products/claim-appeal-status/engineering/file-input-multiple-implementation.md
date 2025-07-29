@@ -63,6 +63,10 @@ As a user,
 1. If I successfully submit files a success va-alert will be shown
     - Heading: "We received your file upload on June 27, 2025"
     - Text: "If your uploaded file doesn’t appear in the Documents Filed section on this page, please try refreshing the page."
+1. If I submit a file that has already been successfully submitted, I get an error saying that it has been submitted already
+
+## User Stories that are not yet covered
+1. If I submit two files with one that has already been successfully submitted, I get an error message and a success message (currently it just displays the error alert and though it appears to successfully upload the other file it does not show its success message)
 
 ## User Stories Handled by VaFileInputMultiple component
 - I see a label with a hint with the allowed file types and size  
