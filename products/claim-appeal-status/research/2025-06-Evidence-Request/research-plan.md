@@ -8,7 +8,7 @@
 	
 `What problem is your product trying to solve?`
 
-**[Enter answer here]**
+**This research will give us a better understanding of claimants experience of the VA.gov Claim Status Tool’s evidence requests usability, language clarity, and navigability. These insights will help us ensure claimants can respond quickly to requests, reducing the time it takes to get a decision on their claims.**
   
 `Where is your product situated on VA.gov? (ex: auth vs. unauth)`
 
