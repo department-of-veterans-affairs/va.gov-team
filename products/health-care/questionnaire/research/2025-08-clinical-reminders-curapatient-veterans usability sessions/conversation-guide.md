@@ -125,11 +125,11 @@ Moderator: At the end of the entire questionnaire experience, ask the following:
 - What do you think about the length of time to complete the experience? Was it reasonable or unreasonable?  - How does this prototype compare to other questionnaire platforms you have used in the past to fill out digital health questionnaires?
 - If you could change one thing about the entire questionnaire experience what would that be?
 - And finally, if you had to interact with this prototype to answer questions about your healthcare on a particular cadence and consistent basis, how satisfied or dissatisfied would you be?  
-        - Very dissatisfied  
-        - Dissatisfied  
-        - Neither dissatisfied, nor satisfied  
-        - Satisfied  
-        - Very satisfied  
+    - Very dissatisfied
+    - Dissatisfied
+    - Neither dissatisfied, nor satisfied
+    - Satisfied
+    - Very satisfied  
 - Before we close, do you have any questions for me?
 - For those of you who are observing, do you have any questions to ask?
 
