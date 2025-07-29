@@ -3,42 +3,26 @@
 ## Intro - 5 minutes
 
 1. Thanks for joining us today! My name is [moderator] and we have our notetaker on for taking notes.
-
 2. I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them...
-
 3. Today we're going to talk about answering health questionnaires that your VA physician may have sent you to prepare for your medical appointment.
-
 4. Before we start, a few things I want to mention:
-   
 5. **This entire session should take about [an hour]**. I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-
 6. In this session, we want to hear your honest opinions. We are not testing your ability. We just want to improve these tools to better meet Veterans' needs. I will not be offended by any opinions you express, and I welcome your feedback.
-
 7. You'll be interacting with a demo tool. This is a demo tool that may look and function like the live site but since it's a demo, none of your actions will affect your actual VA healthcare.
-
 8. If for any reason and at any time you want to stop the session, please let me know.
-
 9. Perigean did ask for your consent to allow observers, but I want to be sure before we get going. Are you okay with a couple of additional observers during this session?
-
     - If no: Use Slack to kindly ask the observers to leave the Zoom.
-    
     - If yes: Admit observers.
-
 10. Then, ask the notetaker and observers to give a brief, camera-on, introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant)
-
 11. Once complete, ask notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth.
-
 12. Are you comfortable if I record my screen and audio as we talk today?
-    
     - We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete the analysis, and none of your comments will be attributed to you directly.
-
     - We either report findings out in groups (i.e., 5 out of 10 participants said this) or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7. Knowing that, are you comfortable if I record my screen and audio as we talk today?
-    
     - If yes: Once I start recording, I am going to confirm that you are okay with me recording this session once more.
 
-13. Start recording.
+**Start recording**
 
-14. I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
+I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
 ## First Task: Warm-up questions – 3 minutes
 
@@ -85,121 +69,88 @@
 
 13. Now, I’ll ask you to click on the link.
 
-14. (User sees a Login Screen)
 
-15. What are your first impressions after opening the link?
+**User sees a Login Screen**     
 
-16. Was anything unexpected?
+11. What are your first impressions after opening the link?  
+12. Please answer the questions and move on.
 
-17. Please read this screen out loud and tell me what you think before you answer any of the prompts.
 
-18. Are there any terms that seem unfamiliar or confusing to you?
+**User sees a Questionnaire Option List**   
 
-19. Please answer the questions and move on.
+13. For each screen from now on, please think out loud and tell me what you think of the page before you click anything. We’re most interested in what you think of the questionnaire platform’s formatting and how the questions are laid out, and we are less focused on the questions themselves and their wording.  
+14. Is anything unclear or unexpected? 
+15. Okay, please move on.
+    
+**Moderator:** Participant may choose to select the questionnaires out of order listed.
 
-20. (User sees a Questionnaire Option List)
-
-21. Again, please read this screen out loud and tell me what you think of it before you answer.
-
-22. Are there any terms that seem unfamiliar or confusing to you?
-
-23. Okay, please move on.
-
-24. Moderator: Participant may choose to select the questionnaires out of order listed.
-
-## Third Task: Toxic Exposure– 10 minutes
-
-1. Please read this screen out loud and tell me what you think of it before you answer or click on anything.
-
-2. Are there any terms that seem unfamiliar or confusing to you?
-
-3. Is anything unclear or unexpected?
-
-4. Okay, please move on.
-
-5. Moderator: At the end of each questionnaire, ask the following:
-
-    - Do you have any comments you'd like to share so far?
-
-## Fourth Task: Homelessness/Food insecurity – 10 minutes
-
-1. Moderator: On each subsequent screen, ask the following:
-
-    - Please read this screen out loud and tell me what you think of it before you answer.
-
-    - Are there any terms that seem unfamiliar or confusing to you?
-
-    - Is anything unclear or unexpected?
-
-    - Okay, please move on.
-
-2. Moderator: At the end of each questionnaire, ask the following:
-
-    - Any comments with this one?
-
-## Fifth Task: Tobacco Pack Year History– 10 minutes
-
+## Third Task: Toxic Exposure – 10 minutes
 1. Please read this screen out loud and tell me what you think of it before you answer.
-
-2. Are there any terms that seem unfamiliar or confusing to you?
-
-3. Is anything unclear or unexpected?
-
+2. Is anything unclear or unexpected?
+3. If you did not want to complete this set of questions, what would you do next?
 4. Okay, please move on.
+   
+**Moderator:** At the end of each questionnaire, ask the following:
 
-5. Moderator: At the end of each questionnaire, ask the following:
+5. Based on the layout and formatting of the questions, on a scale from 1 to 5 (with 1 being very easy and 5 being very difficult), how easy or difficult was it to answer these questions about Toxic Exposure?
+6. Were there any terms that seem unfamiliar or confusing to you?
 
-    - On a scale from 1 to 5 (with 1 being very easy and 5 being very difficult), how easy or difficult was it to answer these questions about tobacco history?
-
-## Sixth Task: Sexual Orientation– 5 minutes
-
+   
+## Fourth Task: Homelessness/Food insecurity – 10 minutes 
+**Moderator:** On each subsequent screen, ask the following:
 1. Please read this screen out loud and tell me what you think of it before you answer.
+2. Is anything unclear or unexpected?
+3. Okay, please move on.
+   
+**Moderator:** At the end of each questionnaire, ask the following:
 
-2. Are there any terms that seem unfamiliar or confusing to you?
+4. Based on the layout and formatting of the questions, on a scale from 1 to 5 (with 1 being very easy and 5 being very difficult), how easy or difficult was it to answer these questions about Homelessness/Food insecurity?
+5. Were there any terms that seem unfamiliar or confusing to you?
 
-3. Is anything unclear or unexpected?
 
-4. Okay, please move on.
+## Fifth Task: Tobacco Pack Year History – 10 minutes 
+1. Please read this screen out loud and tell me what you think of it before you answer.
+2. Is anything unclear or unexpected?
+3. Okay, please move on.
+   
+**Moderator:** At the end of each questionnaire, ask the following:
 
-5. Moderator: At the end of each questionnaire, ask the following:
+4. Based on the layout and formatting of the questions, on a scale from 1 to 5 (with 1 being very easy and 5 being very difficult), how easy or difficult was it to answer these questions about Tobacco Pack Year History?
+5. Were there any terms that seem unfamiliar or confusing to you?
 
-    - On a scale from 1 to 5 (with 1 being very easy and 5 being very difficult), how easy or difficult was it to answer these 4 questions?
+
+## Sixth Task: Sexual Orientation – 5 minutes 
+1. Please read this screen out loud and tell me what you think of it before you answer.
+2. Is anything unclear or unexpected?
+3. Okay, please move on.
+   
+**Moderator:** At the end of each questionnaire, ask the following:
+
+4. Based on the layout and formatting of the questions, on a scale from 1 to 5 (with 1 being very easy and 5 being very difficult), how easy or difficult was it to answer these questions about Sexual Orientation?
+5. Were there any terms that seem unfamiliar or confusing to you?
+
+
 
 ## Seventh Task: End of the Questionnaire Experience– 3 minutes
 
-1. Moderator: At the end of the entire questionnaire experience, ask the following:
-
-    - Can you tell me about your overall impression of this prototype?
-
-    - What did you notice about the process of submitting the questionnaire?
-
-    - What parts of the experience worked as you expected?
-
-    - Were there any parts that didn't match what you thought would happen?
-
-    - Was there anything that stood out or that you weren't sure about?
-
-    - If you had to step away and return later, what would you expect to happen?
-
-    - How do you feel about using this type of tool for questions about personal health information; did you feel safe/secure?
-
-    - What do you think about the length of time to complete the experience? Was it reasonable or unreasonable?
-
-    - How does this prototype compare to other questionnaire platforms you have used in the past to fill out digital health questionnaires?
-
-    - If you could change one thing about the entire questionnaire experience what would that be?
-
-    - And finally, if you had to interact with this prototype to answer questions about your healthcare on a particular cadence and consistent basis, how satisfied or dissatisfied would you be?
-
-        - Very dissatisfied
-        - Dissatisfied
-        - Neither dissatisfied, nor satisfied
-        - Satisfied
-        - Very satisfied
-
-2. Before we close, do you have any questions for me?
-
-3. For those of you who are observing, do you have any questions to ask?
+Moderator: At the end of the entire questionnaire experience, ask the following:
+- Can you tell me about your overall impression of this prototype?
+- What did you notice about the process of submitting the questionnaire?
+- What parts of the experience worked as you expected?
+- Were there any parts that didn't match what you thought would happen?
+- Was there anything that stood out or that you weren't sure about?
+- If you had to step away and return later, what would you expect to happen?
+- How do you feel about using this type of tool for questions about personal health information; did you feel safe/secure?
+- What do you think about the length of time to complete the experience? Was it reasonable or unreasonable?  - How does this prototype compare to other questionnaire platforms you have used in the past to fill out digital health questionnaires?
+- If you could change one thing about the entire questionnaire experience what would that be?
+- And finally, if you had to interact with this prototype to answer questions about your healthcare on a particular cadence and consistent basis, how satisfied or dissatisfied would you be?  
+        - Very dissatisfied  
+        - Dissatisfied  
+        - Neither dissatisfied, nor satisfied  
+        - Satisfied  
+        - Very satisfied  
+- Before we close, do you have any questions for me?
+- For those of you who are observing, do you have any questions to ask?
 
 ## Thank-You and Closing - 3 minutes
 
