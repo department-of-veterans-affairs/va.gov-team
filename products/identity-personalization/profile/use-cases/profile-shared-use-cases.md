@@ -6,7 +6,8 @@ Included in this document are links to all shared VA.gov profile use cases. Thes
 
 
 ## Common use cases
-### Editing information
+### User logs in with LOA3 account
+#### Editing information
 <details><summary>Adding information</summary>
 
 - **Use case:** For each section without information on file, i.e. a `null` value, the user will see the name of the section and prompt to edit their information to add [section information]. Clicking the Edit button will put the section into an inline edit mode.
