@@ -19,10 +19,10 @@
 - [#113841](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113841) - [BE, FE] CSRF at Platform level (CARRIED)
 - [#114233](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114233) - [BE] Update engineering documentation to reflect BEP in place of BGS (CARRIED)
 - [#114303](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114303) - [Eng] Engineering documentation updates (CARRIED)
-- [#114338](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114338) - [BE] Investigate in-progress emails being sent when application has been submitted
-- [#114391](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114391) - [BE] Update DOB validation
-- [#114375](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114375) - [QA] Validate header & accordion updates
-- [#113894](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113894) - [BE] Update phone number prefill to strip international numbers
+- **Stretch** [#114338](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114338) - [BE] Investigate in-progress emails being sent when application has been submitted
+- **Stretch** [#114391](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114391) - [BE] Update DOB validation
+- **Stretch** [#114375](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114375) - [QA] Validate header & accordion updates
+- **Stretch** [#113894](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113894) - [BE] Update phone number prefill to strip international numbers
 
 #### Obj: EZ [Form Statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95313)
 - [#105833](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105833) - [Eng] Discovery on how we can confidently refer "pending" Veterans to EZR (CARRIED)
