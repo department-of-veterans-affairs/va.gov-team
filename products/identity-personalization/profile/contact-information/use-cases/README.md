@@ -28,7 +28,8 @@
 
 
 ## Common use cases
-### Editing contact information
+### User logs in with LOA3 account
+#### Editing contact information
 - [Profile shared editing information use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/profile-shared-use-cases.md#editing-information)
 
 
