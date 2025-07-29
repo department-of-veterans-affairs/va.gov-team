@@ -1,0 +1,261 @@
+name: Share Research Findings to Slack
+
+on:
+  push:
+    paths:
+      - 'products/**/[Ff]indings.md'
+      - 'products/**/[Rr]eport.md'
+      - 'products/**/[Ii]nsights.md'
+      - 'products/**/[Rr]esearch-[Ff]indings.md'
+      - 'products/**/[Rr]esearch-[Rr]eport.md'
+      - 'products/**/[Rr]esearch-[Ii]nsights.md'
+      - 'products/**/[Uu]ser-[Rr]esearch-[Ff]indings.md'
+      - 'products/**/[Uu]ser-[Rr]esearch-[Rr]eport.md'
+      - 'products/**/[Ss]tudy-[Ff]indings.md'
+      - 'products/**/[Ss]tudy-[Rr]eport.md'
+    branches:
+      - master
+      - main
+  schedule:
+    # Run daily to check for reports that are ready to share
+    - cron: '0 14 * * *'  # 2 PM UTC = 10 AM ET / 7 AM PT
+  workflow_dispatch:
+    inputs:
+      research_file_path:
+        description: 'Path to specific research file (optional - leave blank to process all eligible files)'
+        required: false
+        type: string
+      ignore_time_delay:
+        description: 'Ignore 3-day waiting period (for testing)'
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+  actions: write
+
+jobs:
+  share-research-findings:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Get full history to track file age
+
+      - name: Find eligible research files
+        id: find-files
+        run: |
+          # Track which files have already been shared
+          SHARED_FILES_LOG=".github/workflows/shared-research-files.log"
+          touch "$SHARED_FILES_LOG"
+          
+          # Check if manual run with specific file
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ -n "${{ github.event.inputs.research_file_path }}" ]; then
+            RESEARCH_FILE="${{ github.event.inputs.research_file_path }}"
+            if [ -f "$RESEARCH_FILE" ]; then
+              echo "Manual run for specific file: $RESEARCH_FILE"
+              echo "eligible_files=$RESEARCH_FILE" >> $GITHUB_OUTPUT
+              echo "skip=false" >> $GITHUB_OUTPUT
+            else
+              echo "Error: Specified file not found: $RESEARCH_FILE"
+              echo "skip=true" >> $GITHUB_OUTPUT
+              exit 1
+            fi
+          else
+            # Current time in seconds
+            CURRENT_TIME=$(date +%s)
+            THREE_DAYS_AGO=$((CURRENT_TIME - 259200))  # 3 days = 259200 seconds
+            
+            # For manual testing, optionally ignore time delay
+            if [ "${{ github.event.inputs.ignore_time_delay }}" = "true" ]; then
+              echo "Ignoring 3-day time delay for testing"
+              THREE_DAYS_AGO=$CURRENT_TIME
+            fi
+            
+            # Find research files that are at least 3 days old and haven't been shared
+            ELIGIBLE_FILES=""
+            
+            # Find all research files
+            RESEARCH_FILES=$(find products -type f -name "*.md" | grep -E '([Ff]indings|[Rr]eport|[Ii]nsights|[Rr]esearch-[Ff]indings|[Rr]esearch-[Rr]eport|[Rr]esearch-[Ii]nsights|[Uu]ser-[Rr]esearch-[Ff]indings|[Uu]ser-[Rr]esearch-[Rr]eport|[Ss]tudy-[Ff]indings|[Ss]tudy-[Rr]eport)\.md$' || true)
+            
+            for FILE in $RESEARCH_FILES; do
+              # Get the file's first commit time
+              FIRST_COMMIT_TIME=$(git log --follow --format=%at --reverse "$FILE" | head -1)
+              
+              if [ -n "$FIRST_COMMIT_TIME" ]; then
+                # Check if file is at least 3 days old
+                if [ "$FIRST_COMMIT_TIME" -le "$THREE_DAYS_AGO" ]; then
+                  # Check if already shared
+                  if ! grep -q "^$FILE$" "$SHARED_FILES_LOG" 2>/dev/null; then
+                    ELIGIBLE_FILES="$ELIGIBLE_FILES$FILE "
+                  fi
+                fi
+              fi
+            done
+            
+            if [ -z "$ELIGIBLE_FILES" ]; then
+              echo "No eligible research files found"
+              echo "skip=true" >> $GITHUB_OUTPUT
+            else
+              echo "eligible_files=$ELIGIBLE_FILES" >> $GITHUB_OUTPUT
+              echo "skip=false" >> $GITHUB_OUTPUT
+              echo "Found eligible files: $ELIGIBLE_FILES"
+            fi
+          fi
+
+      - name: Process and share research findings
+        if: steps.find-files.outputs.skip != 'true'
+        run: |
+          IFS=' ' read -ra FILES <<< "${{ steps.find-files.outputs.eligible_files }}"
+          
+          for RESEARCH_FILE in "${FILES[@]}"; do
+            if [ -n "$RESEARCH_FILE" ]; then
+              echo "Processing: $RESEARCH_FILE"
+              
+              # Extract key information from the research file
+              TITLE=$(grep -m 1 "^# " "$RESEARCH_FILE" | sed 's/^# //' || echo "Research Findings")
+              
+              # Get key findings section (looking for common patterns)
+              KEY_FINDINGS=""
+              if grep -q "## Key findings" "$RESEARCH_FILE"; then
+                KEY_FINDINGS=$(awk '/## Key findings/,/^## / {if (!/^## Key findings/ && !/^## /) print}' "$RESEARCH_FILE" | head -20)
+              elif grep -q "## Summary" "$RESEARCH_FILE"; then
+                KEY_FINDINGS=$(awk '/## Summary/,/^## / {if (!/^## Summary/ && !/^## /) print}' "$RESEARCH_FILE" | head -20)
+              elif grep -q "## Findings" "$RESEARCH_FILE"; then
+                KEY_FINDINGS=$(awk '/## Findings/,/^## / {if (!/^## Findings/ && !/^## /) print}' "$RESEARCH_FILE" | head -20)
+              fi
+              
+              # Truncate if too long for Slack
+              if [ ${#KEY_FINDINGS} -gt 2000 ]; then
+                KEY_FINDINGS="${KEY_FINDINGS:0:1997}..."
+              fi
+              
+              # Get authors from last 3 days
+              THREE_DAYS_AGO=$(date -d '3 days ago' '+%Y-%m-%d')
+              AUTHORS=$(git log --since="$THREE_DAYS_AGO" --format='%an' "$RESEARCH_FILE" | sort -u | tr '\n' ', ' | sed 's/, $//')
+              
+              # Get the study date from git history
+              STUDY_DATE=$(git log -1 --format='%ai' "$RESEARCH_FILE" | cut -d' ' -f1)
+              
+              # Extract product/team from path
+              PRODUCT_PATH=$(echo "$RESEARCH_FILE" | cut -d'/' -f2-3)
+              
+              # Save for Slack notification
+              echo "RESEARCH_FILE=$RESEARCH_FILE" >> $GITHUB_ENV
+              echo "RESEARCH_TITLE=$TITLE" >> $GITHUB_ENV
+              echo "KEY_FINDINGS<<EOF" >> $GITHUB_ENV
+              echo "$KEY_FINDINGS" >> $GITHUB_ENV
+              echo "EOF" >> $GITHUB_ENV
+              echo "AUTHORS=$AUTHORS" >> $GITHUB_ENV
+              echo "STUDY_DATE=$STUDY_DATE" >> $GITHUB_ENV
+              echo "PRODUCT_PATH=$PRODUCT_PATH" >> $GITHUB_ENV
+              
+              # Mark as shared (only in non-test runs)
+              if [ "${{ github.event_name }}" != "workflow_dispatch" ]; then
+                echo "$RESEARCH_FILE" >> ".github/workflows/shared-research-files.log"
+              fi
+              
+              # Process one file at a time
+              break
+            fi
+          done
+
+      - name: Send Slack notification
+        if: steps.find-files.outputs.skip != 'true' && env.RESEARCH_FILE
+        uses: slackapi/slack-github-action@v1.26.0
+        with:
+          channel-id: 'research-ops'
+          payload: |
+            {
+              "text": "📊 New Research Findings Available: ${{ env.RESEARCH_TITLE }}",
+              "blocks": [
+                {
+                  "type": "header",
+                  "text": {
+                    "type": "plain_text",
+                    "text": "📊 New Research Findings Available",
+                    "emoji": true
+                  }
+                },
+                {
+                  "type": "section",
+                  "fields": [
+                    {
+                      "type": "mrkdwn",
+                      "text": "*Study:*\n${{ env.RESEARCH_TITLE }}"
+                    },
+                    {
+                      "type": "mrkdwn",
+                      "text": "*Product Area:*\n${{ env.PRODUCT_PATH }}"
+                    },
+                    {
+                      "type": "mrkdwn",
+                      "text": "*Date:*\n${{ env.STUDY_DATE }}"
+                    },
+                    {
+                      "type": "mrkdwn",
+                      "text": "*Authors:*\n${{ env.AUTHORS }}"
+                    }
+                  ]
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "section",
+                  "text": {
+                    "type": "mrkdwn",
+                    "text": "*Key Findings Preview:*\n${{ env.KEY_FINDINGS }}"
+                  }
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "actions",
+                  "elements": [
+                    {
+                      "type": "button",
+                      "text": {
+                        "type": "plain_text",
+                        "text": "📖 Read Full Report",
+                        "emoji": true
+                      },
+                      "url": "https://github.com/${{ github.repository }}/blob/master/${{ env.RESEARCH_FILE }}",
+                      "style": "primary"
+                    },
+                    {
+                      "type": "button",
+                      "text": {
+                        "type": "plain_text",
+                        "text": "💬 Discuss",
+                        "emoji": true
+                      },
+                      "url": "https://github.com/${{ github.repository }}/discussions"
+                    }
+                  ]
+                },
+                {
+                  "type": "context",
+                  "elements": [
+                    {
+                      "type": "mrkdwn",
+                      "text": "${{ github.event_name == 'workflow_dispatch' && '🧪 _This is a test notification_' || '✨ _Shared automatically after 3-day revision period_' }}"
+                    }
+                  ]
+                }
+              ]
+            }
+        env:
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_USER_OAUTH_ACCESS_TOKEN }}
+
+      - name: Commit tracking file
+        if: steps.find-files.outputs.skip != 'true' && github.event_name != 'workflow_dispatch'
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Track shared research file: ${{ env.RESEARCH_FILE }}"
+          file_pattern: .github/workflows/shared-research-files-to-slack.log
+          commit_user_name: github-actions[bot]
+          commit_user_email: github-actions[bot]@users.noreply.github.com
