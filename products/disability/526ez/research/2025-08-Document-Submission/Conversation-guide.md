@@ -55,7 +55,7 @@ Please speak your thoughts aloud as you go through this form. And I will occasio
 
 <mark>Prototype note</mark> *Use manual doctype selection.*
 
-* [See Manual Doctype Selection Section below](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/disability/526ez/research/2025-08-Document-Submission/Conversation-guide#manual-doctype-selection)
+* See Manual Doctype Selection Section below
 
 <mark>Task</mark> User click the expand button to find a different doc type (they don’t need to select it, just to locate it.)
 
@@ -74,7 +74,7 @@ Please speak your thoughts aloud as you go through this form. And I will occasio
 
 * [Observe] Understanding of a personal/ buddy statement   
 * Would you be likely to upload a personal/ buddy statement? For what reasons?  
-* [See Manual Doctype Selection Section below](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/disability/526ez/research/2025-08-Document-Submission/Conversation-guide#manual-doctype-selection)
+* See Manual Doctype Selection Section below
 
 ## Military Service Evidence (5)
 
@@ -85,7 +85,7 @@ Please speak your thoughts aloud as you go through this form. And I will occasio
 * After reading this, would you personally provide military evidence? Why?  
   * Gauge understanding/ reaction to “skip” text  
 * [Observe] Do they know that all these sections are optional? How do they skip through them?  
-* [See Manual Doctype Selection Section below](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/disability/526ez/research/2025-08-Document-Submission/Conversation-guide#manual-doctype-selection)
+* See Manual Doctype Selection Section below
 
 ## Other Evidence (2)
 
