@@ -147,6 +147,15 @@ Did you get the link?
 
 Please click the (green) "Continue" button.
 
+Instructions to access prototype (must access from your mobile device):
+1. Use the link provided to install test flight on your mobile device.
+2. Once you've installed it (or if you already have it installed), select step 2 "view in test flight" from your mobile device.
+3. Under App Informaton at the bottom of the screen, select "Previous builds"
+4. Select the VA Health and Benefits mobile app version: 2.55.1
+5. Select 'Install' button next to correct build number 2871 (may have to select Load more builds to find version).
+6. It can take a few minutes to download.
+7. Once downloaded select "next".
+8. Select "start testing" from the Share feedback screen.
 
 **for Android users:** 
 You will receive an email invite to the email you supplied us to download the testing app. Please navigate to your email and select that link now.
