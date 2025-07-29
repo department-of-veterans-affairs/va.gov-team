@@ -11,20 +11,17 @@ tags:
 ```    
     # Conversation Guide for BMT-1 Evidence Requests
 
-## This conversation guide is a WIP currently in Google Docs.
+##   NOTE: This conversation guide is a WIP currently in Google Docs.
 
 
-# Moderator logistics 📋✅
+# Moderator logistics
 ### 2-3 days before the session
 
 > [!NOTE]
 > Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-checklist).
 
-`List and complete any project-specific setup tasks for this study below:`
-
-- [ ] Step 1
-- [ ] Step 2
-- [ ] Step 3
+- [ ] Set up staging user test accounts with appropriate permissions
+- [ ] Make sure Teams meeting is recording-ready
 
 ### Day of the session
 
@@ -101,45 +98,36 @@ Before we look at the website, let’s start with a few warm-up questions.
 - If no, skip to question 2.
 2. 
 
-## First Task: [TASK NAME] - X minutes
+# Getting signed in & navigating to Claim Status Tool
+
+## First Task: [Review Evidence Request: Medical Authorization Release] - 10 minutes
 
 - [ ] Step 1
 - [ ] Step 2
 
-> [!NOTE]
-> ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
-> - [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-> - [Etc]
-
-## Second Task: [TASK NAME] - X minutes
+## Second Task: [Review Evidence Request: EFT, Direct Deposit] - 10 minutes
 
 - [ ] Step 1
 - [ ] Step 2
 
-> [!NOTE]
-> ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
-> - [Etc]
-
-## Third Task: [TASK NAME] - X minutes
+## Third Task: [Review Evidence Request: SSA for MED EVID] - 10 minutes
 
 - [ ] Step 1
 - [ ] Step 2
 
-> [!NOTE]
-> ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
-> - [Etc]
+## Fourth Task: [Locate Claim Letter and Action: Net Worth Form] - 10 minutes
 
-# Post-Task Interview - X minutes
+- [ ] Step 1
+- [ ] Step 2
 
-- Question 1
-- Question 2
-- Any questions for me? 
+# Post-Task Interview - 5 minutes
+
+1. Overall, how clear were the Evidence Requests?
+2. Which request felt the easiest or hardest to act on?
+3. Did anything feel confusing or frustrating?
+4. How do you feel about the language used throughout the requests?
+5. Do you feel like the VA provided enough context to understand what you need to do?
+6. Do you have any suggestions to make this better?
 
 ## Consent to use video clips
 
@@ -149,7 +137,7 @@ Before we look at the website, let’s start with a few warm-up questions.
    <mark>**[Record answer here]**</mark>
 
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - 5 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
