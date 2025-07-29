@@ -117,7 +117,7 @@ To download their Individual Longitudinal Exposure Record (ILER) in support of a
 ## Recommendations
 Even with a small sample, a few consistent patterns came through in how Veterans navigated and interpreted the site. Based on those behaviors, there are some initial areas to explore further:
 - Clarify labels and pathways for tasks like adding dependents, checking non-VA care requests, and giving permission to share education benefits.  
-- Reevaluate where tools like ILER or claim exam scheduling live especially if users expect them to be tied to health or claims.  
+- Reevaluate where tools like ILER or claim exam scheduling live, and/or when there is split or low signal for those "correct" destinations, consider additional cross-links to those resources. 
 - Look at areas where users expected to find proof of something (like letters or records) but actually needed to take an action. This gap came up in more than one task.  
 - Continue leaning into task based entry points especially for high-impact actions tied to compensation, housing, or post-military service support.
   
