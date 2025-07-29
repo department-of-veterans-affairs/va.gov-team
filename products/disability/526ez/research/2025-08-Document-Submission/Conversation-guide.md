@@ -8,7 +8,7 @@
 
 # Walkthrough of overall flow (25 min)
 
-Prototype note *All doctype selection pages in this flow will utilize the manual UI with radio buttons (except for the personal/ buddy statements).*
+<mark>Prototype note</mark> *All doctype selection pages in this flow will utilize the manual UI with radio buttons (except for the personal/ buddy statements).*
 
 ## Section goals
 
@@ -18,7 +18,7 @@ Prototype note *All doctype selection pages in this flow will utilize the manual
 
 ## Intro (5)
 
-Script You are submitting form 526 online to claim a new disability associated with a new condition – having already submitted claims for other conditions in the past.
+<mark>Script</mark> You are submitting form 526 online to claim a new disability associated with a new condition – having already submitted claims for other conditions in the past.
 
 Imagine that you already gone through prior sections in the form where you’ve submitted:
 
@@ -33,33 +33,33 @@ Please speak your thoughts aloud as you go through this form. And I will occasio
 
 ## Medical Evidence (10)
 
-Task Select “yes” to provide medical evidence.
+<mark>Task</mark> Select “yes” to provide medical evidence.
 
-Prototype note *Intro to medical evidence section asks yes/no questions to optionally provide medical evidence.*
+<mark>Prototype note</mark> *Intro to medical evidence section asks yes/no questions to optionally provide medical evidence.*
 
-Task Select “VAMC” for facility location.
+<mark>Task</mark> Select “VAMC” for facility location.
 
 * Are you familiar with all the facility type options listed here?
 
-Task Click the text field to populate the facility name. Have the user read through the screen for comprehension, but **not testing usability** of this page.
+<mark>Task</mark> Click the text field to populate the facility name. Have the user read through the screen for comprehension, but **not testing usability** of this page.
 
-Task Select all conditions.
+<mark>Task</mark> Select all conditions.
 
 * Why do you think this asks you to select your conditions?
 
-Task Select “yes” to upload medical evidence.
+<mark>Task</mark> Select “yes” to upload medical evidence.
 
-Prototype note *Intro to medical evidence upload section asks yes/no questions to optionally provide medical evidence. Include facility name and fake visit date in filename. Display a sample of an STR (as a popup) document to mimic the upload. Allow them to briefly look through the document.*
+<mark>Prototype note</mark> *Intro to medical evidence upload section asks yes/no questions to optionally provide medical evidence. Include facility name and fake visit date in filename. Display a sample of an STR (as a popup) document to mimic the upload. Allow them to briefly look through the document.*
 
-Task Manually select “Medical service treatment record (STR)” as the doctype option.
+<mark>Task</mark> Manually select “Medical service treatment record (STR)” as the doctype option.
 
-Prototype note *Use manual doctype selection.*
+<mark>Prototype note</mark> *Use manual doctype selection.*
 
-* [Manual doctype selection](#manual-doctype-selection)
+* [See Manual Doctype Selection Section below](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/disability/526ez/research/2025-08-Document-Submission/Conversation-guide#manual-doctype-selection)
 
-Task User click the expand button to find a different doc type (they don’t need to select it, just to locate it.)
+<mark>Task</mark> User click the expand button to find a different doc type (they don’t need to select it, just to locate it.)
 
-Task Select “no” to not upload another medical record. Click through summary and read details. Then select “continue” to proceed to next section.
+<mark>Task</mark> Select “no” to not upload another medical record. Click through summary and read details. Then select “continue” to proceed to next section.
 
 * Test to see if breaking down the flow by **where** the Vet got treated will provide greater likelihood of providing sufficient medical evidence.  
 * What’s their thought process when they think about procuring their medical records?   
@@ -68,37 +68,37 @@ Task Select “no” to not upload another medical record. Click through summary
 
 ## Personal/ Buddy Statements (5)
 
-Task Click through the buddy statement upload process and summary page. Have the user read through the screens for comprehension, but **not testing usability** of repeat pages.
+<mark>Task</mark> Click through the buddy statement upload process and summary page. Have the user read through the screens for comprehension, but **not testing usability** of repeat pages.
 
-Prototype note *Intro to personal/ buddy statement section does NOT ask a yes/no question to optionally provide this type of evidence. User will be forced through the upload screens to proceed. Provide an example of a buddy statement document for visual context. Because the only doctype possible is a personal/ buddy statement, the doctype should already be assigned.*
+<mark>Prototype note</mark> *Intro to personal/ buddy statement section does NOT ask a yes/no question to optionally provide this type of evidence. User will be forced through the upload screens to proceed. Provide an example of a buddy statement document for visual context. Because the only doctype possible is a personal/ buddy statement, the doctype should already be assigned.*
 
-* Observe Understanding of a personal/ buddy statement   
+* [Observe] Understanding of a personal/ buddy statement   
 * Would you be likely to upload a personal/ buddy statement? For what reasons?  
-* [Manual doctype selection](#manual-doctype-selection)
+* [See Manual Doctype Selection Section below](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/disability/526ez/research/2025-08-Document-Submission/Conversation-guide#manual-doctype-selection)
 
 ## Military Service Evidence (5)
 
-Task Click through the military service upload process. Have the user read through the screens for comprehension, but **not testing usability** of repeat pages.
+<mark>Task</mark> Click through the military service upload process. Have the user read through the screens for comprehension, but **not testing usability** of repeat pages.
 
-Prototype note *Intro to military service evidence section asks yes/no question to optionally provide this type of evidence. User is tasked to select “yes”, but is asked what they would personally choose. Use DD214 example.*
+<mark>Prototype note</mark> *Intro to military service evidence section asks yes/no question to optionally provide this type of evidence. User is tasked to select “yes”, but is asked what they would personally choose. Use DD214 example.*
 
 * After reading this, would you personally provide military evidence? Why?  
   * Gauge understanding/ reaction to “skip” text  
-* Observe Do they know that all these sections are optional? How do they skip through them?  
-* [Upload experience](#heading=h.sd9jb3f8apkm)
+* [Observe] Do they know that all these sections are optional? How do they skip through them?  
+* [See Manual Doctype Selection Section below](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/disability/526ez/research/2025-08-Document-Submission/Conversation-guide#manual-doctype-selection)
 
 ## Other Evidence (2)
 
-Task Click through the other evidence upload process. Have the user read through the screens for comprehension but **not upload anything** – ultimately getting them to pass through the screens to continue to the next section.
+<mark>Task</mark> Click through the other evidence upload process. Have the user read through the screens for comprehension but **not upload anything** – ultimately getting them to pass through the screens to continue to the next section.
 
-Prototype note *Intro to the other evidence section does NOT ask yes/no question to optionally provide this type of evidence.*
+<mark>Prototype note</mark> *Intro to the other evidence section does NOT ask yes/no question to optionally provide this type of evidence.*
 
 * What else would you upload that you wouldn’t have already?  
 * Let’s say you don’t have anything else to upload, how would you proceed?
 
 ## Overall Flow Review (Overview Summary page) (5)
 
-Script So this is the end of section 4 of 6 of form 526\. We’ll pause here for some more detailed questions regarding the pages you just went through. If you recall, section 4 was about providing evidence for your disability claim…
+<mark>Script</mark> So this is the end of section 4 of 6 of form 526\. We’ll pause here for some more detailed questions regarding the pages you just went through. If you recall, section 4 was about providing evidence for your disability claim…
 
 * Do they feel like they should provide more evidence? Gauge how much (and if it’s too much or redundant to documents already on file).  
 * Do they prefer the document upload per evidence type or just a blanket upload screen with all the doctypes (not categorized)? Probe on burden, doctype comprehension.  
@@ -120,26 +120,26 @@ Script So this is the end of section 4 of 6 of form 526\. We’ll pause here for
 
 ## Upload Experience (5 min)
 
-Task Upload 2 files at the same time and click through the classification of their doctypes. **No need to test their ability to actually identify them**. Just have them click through both classification screens.
+<mark>Task</mark> Upload 2 files at the same time and click through the classification of their doctypes. **No need to test their ability to actually identify them**. Just have them click through both classification screens.
 
-Prototype note *File 1 and 2 names should contain the doctype names*. No need to have visual examples of the files. Both files should be doctypes that are listed in medical evidence shortlist (not a less popular option that is listed in the expanded list).
+<mark>Prototype note</mark> *File 1 and 2 names should contain the doctype names*. No need to have visual examples of the files. Both files should be doctypes that are listed in medical evidence shortlist (not a less popular option that is listed in the expanded list).
 
 * Is there anything different about this upload process compared to the walkthrough section earlier?  
-  * Observe Recognition of filename in title and “Doc \[\#\] of 2” subtitle  
+  * [Observe] Recognition of filename in title and “Doc \[\#\] of 2” subtitle  
 * Would you prefer uploading multiple files at the same time and then selecting their doctypes at the same time? Or would you prefer the process of uploading a document and classifying it one at a time?
 
-Prototype note *Have a shortcut to an example of uploading one file at a time for easier comparison.*
+<mark>Prototype note</mark> *Have a shortcut to an example of uploading one file at a time for easier comparison.*
 
-## Manual Doctype Selection {#manual-doctype-selection}
+## Manual Doctype Selection
 
 *The following task and probes should be completed throughout the walkthrough section.*
 
-Task Look at the provided file and try to identify the doctype (first blind to options, then with options provided)
+<mark>Task</mark> Look at the provided file and try to identify the doctype (first blind to options, then with options provided)
 
 * Understanding of the doctypes and their classification  
 * Gauge findability and ease of selection using radio buttons (vs dropdown)
 
-Task If not done so already, prompt them to expand to see all doctype options
+<mark>Task</mark> If not done so already, prompt them to expand to see all doctype options
 
 * Expand button experience and understanding of options above and below fold
 
@@ -149,11 +149,11 @@ Task If not done so already, prompt them to expand to see all doctype options
 
 **AI Assist is correct**
 
-Task Present an example of “VA Form 21-0781 \- Statement in Support of Claimed Mental Health Disorders Due to an In-Service Traumatic Events” and have the user click through the **upload, processing, and doctype verification process**.
+<mark>Task</mark> Present an example of “VA Form 21-0781 \- Statement in Support of Claimed Mental Health Disorders Due to an In-Service Traumatic Events” and have the user click through the **upload, processing, and doctype verification process**.
 
-Prototype note *The AI Assist should correctly suggest* “VA Form 21-0781 \- Statement in Support of Claimed Mental Health Disorders Due to an In-Service Traumatic Events”.
+<mark>Prototype note</mark> *The AI Assist should correctly suggest* “VA Form 21-0781 \- Statement in Support of Claimed Mental Health Disorders Due to an In-Service Traumatic Events”.
 
-Script Let’s do some more document upload tasks. Click \[xxx shortcut\]. In this example, let’s imagine that you are uploading *Form 21-0781, which is a Statement in Support of Claimed Mental Health Disorders Due to an In-Service Traumatic Events*. Feel free to click to briefly see what the form looks like. Now let’s go ahead and imagine you dragged or selected that file into the box, now let’s click the “Continue \>\>” button.
+==<mark>Script</mark>== Let’s do some more document upload tasks. Click \[xxx shortcut\]. In this example, let’s imagine that you are uploading *Form 21-0781, which is a Statement in Support of Claimed Mental Health Disorders Due to an In-Service Traumatic Events*. Feel free to click to briefly see what the form looks like. Now let’s go ahead and imagine you dragged or selected that file into the box, now let’s click the “Continue \>\>” button.
 
 * What do you think happens when it says “Processing your file”?  
   * *Continuously ask this question as we progressively reveal that it’s using AI to process.*  
@@ -165,17 +165,17 @@ Script Let’s do some more document upload tasks. Click \[xxx shortcut\]. In th
 
 **AI Assist is incorrect**
 
-Task Present an example of “VA Form 21-0781 \- Statement in Support of Claimed Mental Health Disorders Due to an In-Service Traumatic Events” and have the user click through the **same** **upload, same processing, and different doctype verification process**. The user will need to select “no” and then manually select the appropriate doctype.
+<mark>Task</mark> Present an example of “VA Form 21-0781 \- Statement in Support of Claimed Mental Health Disorders Due to an In-Service Traumatic Events” and have the user click through the **same** **upload, same processing, and different doctype verification process**. The user will need to select “no” and then manually select the appropriate doctype.
 
-*Prototype note: The AI Assist should **incorrectly** suggest “Field of vision chart (also called Goldman Perimetry Chart)”*.
+*<mark>Prototype note</mark>: The AI Assist should **incorrectly** suggest “Field of vision chart (also called Goldman Perimetry Chart)”*.
 
-Script Let’s try this once again. Click \[xxx shortcut\]. In this example, let’s imagine that you are uploading the same *Form 21-0781, which is a Statement in Support of Claimed Mental Health Disorders Due to an In-Service Traumatic Events*. Let’s proceed with the same steps as earlier. \[Proceed through upload and processing pages\] In this scenario, you’re now asked if the uploaded file is a *“Field of vision chart (also called Goldman Perimetry Chart)”.*
+<mark>Script</mark> Let’s try this once again. Click \[xxx shortcut\]. In this example, let’s imagine that you are uploading the same *Form 21-0781, which is a Statement in Support of Claimed Mental Health Disorders Due to an In-Service Traumatic Events*. Let’s proceed with the same steps as earlier. \[Proceed through upload and processing pages\] In this scenario, you’re now asked if the uploaded file is a *“Field of vision chart (also called Goldman Perimetry Chart)”.*
 
 * How do you know to select “yes” or “no”?  
   * Gauge users’ trust in the system to classify  
   * Gauge their likelihood to accept vs correct the AI Assist categorization
 
-Script In this example, when you upload a document, the program uses an Artificial Intelligence (AI) model to process your document so that it can suggest the document type. This technology is hosted by the VA, and any personal identifying information will remain solely within VA and other authorized networks.
+<mark>Script</mark> In this example, when you upload a document, the program uses an Artificial Intelligence (AI) model to process your document so that it can suggest the document type. This technology is hosted by the VA, and any personal identifying information will remain solely within VA and other authorized networks.
 
 * Gauge sentiment, concerns, and preference for manual vs AI.  
   * What are their perceived pros vs. cons?
