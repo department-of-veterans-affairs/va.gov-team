@@ -10,7 +10,7 @@
 ### 10-10EZ
 
 #### Obj: EZ [Save in-progress for List & Loop](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94818)
-- [#95284](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95284) - [FE] Update Dependent section (CARRIED)
+- [#95284](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95284) - [FE] Update Dependent section (CARRIED - pending PRs)
 
 #### Obj: [Insurance page updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90159)
 - [#94500](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94500) - [QA] Follow-up to complete testing on L&L pattern (CARRIED)
@@ -38,8 +38,9 @@
 ### Team PTO
 - Luis: 7/31 - 8/1
 - Alex: 8/1
-- Mitch: 7/1 - 8/8
+- Mitch: 8/1 - 8/8
 - Liza: 8/5
+- Matt: 8/7 - 8/8
 
 ----
 ## 📆 Sprint 25 (July 16 - July 29)
