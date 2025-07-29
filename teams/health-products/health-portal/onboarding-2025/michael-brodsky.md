@@ -27,8 +27,8 @@ If you have questions, don't hesitate to reach out to your OCTO practice lead, p
    - [ ] [See what's new on My HealtheVet](https://www.va.gov/resources/my-healthevet-on-vagov-what-to-know/)
 
 ## GitHub Info
-- [ ] [Take a look at the VA GitHub Handbook](https://department-of-veterans-affairs.github.io/github-handbook/)  ‼️Note that as of July 2025, [VA has begun the process of migrating VA GitHub resources to GitHub Enterprise Cloud](https://department-of-veterans-affairs.github.io/github-handbook/migrations)
-- [ ] [Check out some helpful info about creating documents in GitHub](https://docs.github.com/en)
+- [x] [Take a look at the VA GitHub Handbook](https://department-of-veterans-affairs.github.io/github-handbook/)  ‼️Note that as of July 2025, [VA has begun the process of migrating VA GitHub resources to GitHub Enterprise Cloud](https://department-of-veterans-affairs.github.io/github-handbook/migrations)
+- [x] [Check out some helpful info about creating documents in GitHub](https://docs.github.com/en)
 
 <!-- ALL TEAM MEMBERS -->
 ## VA Platform orientation for all team members
