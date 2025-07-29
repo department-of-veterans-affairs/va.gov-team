@@ -20,6 +20,7 @@ _**Overview:** This tracker is designed to track sprint goals with completed wor
 | 4142 MVP alert message content update                                                             | [115295](https://github.com/department-of-veterans-affairs/va.gov-team/issues/115295) | 3        |                        | Prioritized Backlog |
 | 4142 MVP release - develop 526 downtime strategy and test (override flipper or pagerduty windows) | [115385](https://github.com/department-of-veterans-affairs/va.gov-team/issues/115385) | 3        |                        | Prioritized Backlog |
 | 4142 MVP collaboration cycle staging review request [placeholder]                                 | [115394](https://github.com/department-of-veterans-affairs/va.gov-team/issues/115394) | 3        |                        | Prioritized Backlog |
+| Sprint 10 - watchdog duties                                                                       | [115489](https://github.com/department-of-veterans-affairs/va.gov-team/issues/115489) | 0        |                        | Prioritized Backlog |
 
 ## Pathway Forms Team
 |                          SPRINT TICKET                           |                                     TICKET NUMBER                                     | ESTIMATE | REASON IF NOT COMPLETE |       STATUS        |
@@ -79,11 +80,6 @@ _**Overview:** This tracker is designed to track sprint goals with completed wor
 | Replace incorrect information and flows from 526 Active Flow Mural Board                | [115248](https://github.com/department-of-veterans-affairs/va.gov-team/issues/115248) | 1        |                                                                                | Prioritized Backlog |
 | Review Latency indicators for existing disability benefits key transactions             | [115388](https://github.com/department-of-veterans-affairs/va.gov-team/issues/115388) | 1        |                                                                                | Prioritized Backlog |
 | Review Monitor widgets for existing disability benefits key transactions                | [115460](https://github.com/department-of-veterans-affairs/va.gov-team/issues/115460) | 1        |                                                                                | Prioritized Backlog |
-
-## _noValue
-|        SPRINT TICKET        |                                     TICKET NUMBER                                     | ESTIMATE | REASON IF NOT COMPLETE |       STATUS        |
-|-----------------------------|---------------------------------------------------------------------------------------|----------|------------------------|---------------------|
-| Sprint 10 - watchdog duties | [115489](https://github.com/department-of-veterans-affairs/va.gov-team/issues/115489) | 0        |                        | Prioritized Backlog |
 
 
 
