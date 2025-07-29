@@ -80,20 +80,6 @@ Link: Add a US based mobile number to your profile ›
 </details>
 
 
-<details><summary>User edits a notification setting</summary>
-
-- **Use case:** The form is an auto-save form, so it doesn’t have an update or cancel button. An alert appears under the section header in cases of success or errors, depending on the outcome of the data. A loading indicator displays while the setting is updated.
-- **Status code:** TBD
-- **Format:** [Slim alert component](https://design.va.gov/components/alert/#examples---slim-alert)
-- Links to designs
-   - [Save success](https://www.figma.com/design/e6JEtrwZCInKk9SjZktx2T/Profile---Notification-Settings?m=auto&node-id=2526-20116&t=4wWGU4X6ceXpQzN5-1)
-   - [Save error](https://www.figma.com/design/e6JEtrwZCInKk9SjZktx2T/Profile---Notification-Settings?m=auto&node-id=2526-21899&t=4wWGU4X6ceXpQzN5-1)
-- [Link to code]
-- **Content:** See designs
-
-</details>
-
-
 <details><summary>Edit-as-a-subtask flow</summary>
 
 - **Use case:** If a user edits their email or mobile phone number from the Notification settings page, they will launch the edit-as-a-subtask flow. The flow is a single question flow that updates their contact information then directs the user back to the page. [Link to product documentation.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/editing-as-a-subtask)
@@ -104,6 +90,8 @@ Link: Add a US based mobile number to your profile ›
 - **Content:** See designs
 
 </details>
+
+[Profile shared editing information use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/profile-shared-use-cases.md#editing-information)
 
 
 ## Edge cases
@@ -119,20 +107,7 @@ This feature has no validation use cases.
 
 ### Errors
 
-<details><summary>Backend system down</summary>
-
-- **Use case:** Cannot connect to the back end.
-- **Status code:** TBD
-- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
-- [Link to designs](https://www.figma.com/design/e6JEtrwZCInKk9SjZktx2T/Profile---Notification-Settings?m=auto&node-id=2553-20750&t=4wWGU4X6ceXpQzN5-1)
-- [Link to code]
-- **Content:**
-
-H2: This page isn't available right now
-
-We’re sorry. Something went wrong on our end. Refresh this page or try again later.	
-
-</details>
+[System error: Backend system down](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/profile-shared-use-cases.md#system-errors)
 
 ---
 
