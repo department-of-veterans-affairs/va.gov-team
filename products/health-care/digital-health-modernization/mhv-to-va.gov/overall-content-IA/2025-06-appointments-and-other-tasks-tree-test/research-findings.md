@@ -49,13 +49,26 @@ Through this research we aimed to:
 This study included feedback from 48 participants, enough to spot patterns, but not enough to make strong statistical claims. Some tasks showed clear trends while others had more mixed results. Because this was an unmoderated tree test, we are only able to observe where participants clicked and not why they made those choices. Any takeaways should be considered directional and used to guide future testing or improvements rather than as definitive conclusions.
 
 ## Key findings
-1. Many Veterans explored broad benefit sections like Education, Claims, Applications, and Payments when trying to schedule time with a Solid Start representative, possibly seeing the task as part of applying for or managing benefits rather than connecting with a specific program.
-2. To schedule a claim exam, Veterans often went to Claims and Appeals or other claims-related sections. Some also selected Health Care, Disability Benefits, or Medical Records, though these paths did not lead to the correct location. This may reflect that Veterans associated the exam with the overall claims process, rather than as a separate task to schedule.
-3. When trying to check the status of a care request from a provider outside VA, Veterans selected a wide range of paths such as Health Care, Secure Messages, Community Care, and Claims and Appeals. This suggests it is unclear where non VA care activity is tracked in the current IA.
-4. To give a college access to their VA benefits information, many Veterans looked in Education and Training paths like Verify Your School Enrollment, About GI Bill Benefits, and Eligibility suggesting they may have been searching for documentation rather than a way to authorize information sharing.
-5. Most Veterans checked the status of a VA housing grant by navigating to sections like Claims and Appeals or Benefit Applications and Forms, which may reflect an association between housing benefits and the broader claims process.
-6. While trying to add a child to their VA benefits for increased compensation, many Veterans searched in Benefit Applications and Family and Caregiver Benefits, including CHAMPVA and Survivor Benefits. Fewer navigated to the correct location under Disability or Benefit Payments in My VA, suggesting it may not be immediately clear that dependent management is part of ongoing compensation rather than a new application or family support service.
-7. Many Veterans searched in Health, Claims and Appeals, or Disability-related sections when trying to download their Individual Longitudinal Exposure Record (ILER) to support a benefit claim. Few navigated to the correct location under Records in VA Benefits and Health Care, suggesting ILER may be seen more as medical or claims documentation than a general records file.
+**1. Veterans explored broad benefit sections when trying to connect with a Solid Start representative**
+  * Many Veterans explored broad benefit sections like Education, Claims, Applications, and Payments when trying to schedule time with a Solid Start representative, possibly seeing the task as part of applying for or managing benefits rather than connecting with a specific program.
+
+**2. To schedule a claim exam, Veterans often chose Claims and Appeals**  
+  * To schedule a claim exam, Veterans often went to Claims and Appeals or other claims-related sections. Some also selected Health Care, Disability Benefits, or Medical Records, though these paths did not lead to the correct location. This may reflect that Veterans associated the exam with the overall claims process, rather than as a separate task to schedule.
+
+**3. Veterans selected a wide range of paths when trying to check the status of a community care request**
+  * When trying to check the status of a care request from a provider outside VA, Veterans selected a wide range of paths such as Health Care, Secure Messages, Community Care, and Claims and Appeals. This suggests it is unclear where non VA care activity is tracked in the current IA.
+
+**4. Veterans looked in Education and Training, but missed the correct path to authorize college access**
+  * To give a college access to their VA benefits information, many Veterans looked in Education and Training paths like Verify Your School Enrollment, About GI Bill Benefits, and Eligibility suggesting they may have been searching for documentation rather than a way to authorize information sharing.
+
+**5. Most Veterans successfully found where to check the status of a housing grant**
+  * Most Veterans checked the status of a VA housing grant by navigating to sections like Claims and Appeals or Benefit Applications and Forms, which may reflect an association between housing benefits and the broader claims process.
+
+**6. Veterans often looked in benefit applications and family support sections when trying to add a child for compensation**
+  * While trying to add a child to their VA benefits for increased compensation, many Veterans searched in Benefit Applications and Family and Caregiver Benefits, including CHAMPVA and Survivor Benefits. Fewer navigated to the correct location under Disability or Benefit Payments in My VA, suggesting it may not be immediately clear that dependent management is part of ongoing compensation rather than a new application or family support service.
+
+**7. Veterans looked in health and claims paths when trying to download their Individual Longitudinal Exposure Record (ILER)**
+  * Many Veterans searched in Health, Claims and Appeals, or Disability-related sections when trying to download their Individual Longitudinal Exposure Record (ILER) to support a benefit claim. Few navigated to the correct location under Records in VA Benefits and Health Care, suggesting ILER may be seen more as medical or claims documentation than a general records file.
 
 ## Details of findings
 
