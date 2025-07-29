@@ -22,4 +22,9 @@ The following were considered but rejected.
 
 ### FAQ's
 
-**1. 
+
+**1. Is it possible to add a field for custom payment amount (less than the total copay amount)?** 
+
+**2.Is it possible to add custom payment amounts and bulk payments?**
+
+**3. If not, is it feasible to add a selection screen for Veterans, asking if they want to pay a custom amount on one copay, or pay bulk copays in one transaction?** 
