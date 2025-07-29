@@ -172,7 +172,7 @@ If Android, pleae request their email where an invitation to the testing link wi
 
 ### Optional Kick-off Call with Perigean
 
-- `Suggested dates and times:` **[07/21-07/23 09-11:30am EST]**
+- `Suggested dates and times:` **[07/31-08/01 09-4pm EST, or after 08/11 10am EST-1pm]**
 
 ### Prepare
 *When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).*
@@ -182,10 +182,10 @@ If Android, pleae request their email where an invitation to the testing link wi
 > **Send pilot participant email in study Slack channel**
 
 - `Pilot participant name:` **[Brenda Rocha Barraza]**
-- `Date and time of pilot session:` **[07/23, 3:00pm-7:00pm]** 
+- `Date and time of pilot session:` **[08/11, 1:00pm-3:00pm]** 
 
 ### Research sessions
-- `Planned dates of research:` **[07/28-08/1]**
+- `Planned dates of research:` **[08/11-08/15]**
 
 ### Length of sessions
 - `Session length: **60 minutes**
@@ -202,10 +202,11 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 >
 > **Place time slots between `hash marks` when in edit mode.**
 
-- `[07/28, Monday, 10:00 AM-7:00 PM] EST`
-- `[07/29, Tuesday, 10:00 AM-7:00 PM] EST`
-- `[07/31, Thursday, 10:00 AM-7:00 PM] EST`
-- `[08/01, Friday, 10:00 AM-7:00 PM] EST`
+- `[08/11, Monday, 3:00 PM-7:00 PM] EST`
+- `[08/12, Tuesday, 10:00 AM-7:00 PM] EST`
+- `[08/13, Wednesday, 10:00 AM-7:00 PM] EST'
+- '[08/14. Thursday, 10:00 AM-7:00 PM] EST`
+- `[08/15, Friday, 10:00 AM-4:00 PM] EST`
 
   
 ## Team Roles  🕵️👩‍💻👩‍🔬
