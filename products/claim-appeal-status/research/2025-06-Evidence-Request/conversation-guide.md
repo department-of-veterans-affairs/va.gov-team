@@ -93,8 +93,8 @@ Before we start, I have a few things that I want to go over with you:
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-1. Do you have a service-connected disability at VA?
-- If yes: what is your disability rating?
+1. 
+- 
 - If no, skip to question 2.
 2. 
 
