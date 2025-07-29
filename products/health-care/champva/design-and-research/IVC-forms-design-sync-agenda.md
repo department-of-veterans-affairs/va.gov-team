@@ -1,6 +1,6 @@
 # Running Design and Research Agenda
 
-## July 21 2025
+## July 28 2025
 Attendees: Renata Keck, Rachel Pope, Jamie Fiore, Amanda Klausmeier, Premal Shah, Mike Mooney
 
 ### Agenda
