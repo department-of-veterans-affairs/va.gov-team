@@ -36,7 +36,7 @@ If the VSO representative does not know who their certifying official is, we can
 3. In the "VSOs" tab, locate the organization and you will be able to see the Certifying Official's name along with any contact information.
 4. For good measure, search for the Certifying Official in Find a Representative to see if any additional contact information is available.
 
-If the certifying official does not know how to contact OGC, we can recommend the email address `accreditationmailbox@va.gov`.
+If the certifying official does not know how to contact OGC, we can recommend the email address `ogcaccreditationmailbox@va.gov`.
 
 ---
 ## Occurrences
