@@ -114,30 +114,62 @@ jobs:
             if [ -n "$RESEARCH_FILE" ]; then
               echo "Processing: $RESEARCH_FILE"
               
-              # Extract key information from the research file
-              TITLE=$(grep -m 1 "^# " "$RESEARCH_FILE" | sed 's/^# //' || echo "Research Findings")
+              # Debug: Check if file exists and show its content
+              if [ ! -f "$RESEARCH_FILE" ]; then
+                echo "ERROR: File not found: $RESEARCH_FILE"
+                continue
+              fi
+              
+              echo "File exists, extracting information..."
+              
+              # Extract key information from the research file with better error handling
+              TITLE=$(grep -m 1 "^# " "$RESEARCH_FILE" 2>/dev/null | sed 's/^# //' || echo "Research Findings")
+              
+              # If no title found, try other patterns
+              if [ "$TITLE" = "Research Findings" ]; then
+                TITLE=$(grep -m 1 "^## " "$RESEARCH_FILE" 2>/dev/null | sed 's/^## //' || echo "Research Findings")
+              fi
+              
+              echo "Title found: $TITLE"
               
               # Get key findings section (looking for common patterns)
               KEY_FINDINGS=""
-              if grep -q "## Key findings" "$RESEARCH_FILE"; then
-                KEY_FINDINGS=$(awk '/## Key findings/,/^## / {if (!/^## Key findings/ && !/^## /) print}' "$RESEARCH_FILE" | head -20)
-              elif grep -q "## Summary" "$RESEARCH_FILE"; then
-                KEY_FINDINGS=$(awk '/## Summary/,/^## / {if (!/^## Summary/ && !/^## /) print}' "$RESEARCH_FILE" | head -20)
-              elif grep -q "## Findings" "$RESEARCH_FILE"; then
-                KEY_FINDINGS=$(awk '/## Findings/,/^## / {if (!/^## Findings/ && !/^## /) print}' "$RESEARCH_FILE" | head -20)
+              if grep -qi "## Key findings" "$RESEARCH_FILE" 2>/dev/null; then
+                KEY_FINDINGS=$(awk '/## [Kk]ey [Ff]indings/,/^## / {if (!/^## / || NR==1) print}' "$RESEARCH_FILE" | tail -n +2 | head -20)
+              elif grep -qi "## Summary" "$RESEARCH_FILE" 2>/dev/null; then
+                KEY_FINDINGS=$(awk '/## [Ss]ummary/,/^## / {if (!/^## / || NR==1) print}' "$RESEARCH_FILE" | tail -n +2 | head -20)
+              elif grep -qi "## Findings" "$RESEARCH_FILE" 2>/dev/null; then
+                KEY_FINDINGS=$(awk '/## [Ff]indings/,/^## / {if (!/^## / || NR==1) print}' "$RESEARCH_FILE" | tail -n +2 | head -20)
+              else
+                # If no sections found, get first few lines after title
+                KEY_FINDINGS=$(tail -n +3 "$RESEARCH_FILE" | head -20)
               fi
+              
+              # Clean up the findings
+              KEY_FINDINGS=$(echo "$KEY_FINDINGS" | sed '/^$/d' | head -10)
+              
+              echo "Key findings extracted: ${#KEY_FINDINGS} characters"
               
               # Truncate if too long for Slack
               if [ ${#KEY_FINDINGS} -gt 2000 ]; then
                 KEY_FINDINGS="${KEY_FINDINGS:0:1997}..."
               fi
               
-              # Get authors from last 3 days
-              THREE_DAYS_AGO=$(date -d '3 days ago' '+%Y-%m-%d')
-              AUTHORS=$(git log --since="$THREE_DAYS_AGO" --format='%an' "$RESEARCH_FILE" | sort -u | tr '\n' ', ' | sed 's/, $//')
+              # Get authors from git history
+              AUTHORS=$(git log --format='%an' "$RESEARCH_FILE" 2>/dev/null | sort -u | head -5 | tr '\n' ', ' | sed 's/, $//')
+              if [ -z "$AUTHORS" ]; then
+                AUTHORS="Unknown"
+              fi
+              
+              echo "Authors: $AUTHORS"
               
               # Get the study date from git history
-              STUDY_DATE=$(git log -1 --format='%ai' "$RESEARCH_FILE" | cut -d' ' -f1)
+              STUDY_DATE=$(git log -1 --format='%ai' "$RESEARCH_FILE" 2>/dev/null | cut -d' ' -f1)
+              if [ -z "$STUDY_DATE" ]; then
+                STUDY_DATE=$(date '+%Y-%m-%d')
+              fi
+              
+              echo "Study date: $STUDY_DATE"
               
               # Extract product/team from path
               PRODUCT_PATH=$(echo "$RESEARCH_FILE" | cut -d'/' -f2-3)
@@ -162,13 +194,23 @@ jobs:
             fi
           done
 
+      - name: Debug environment variables
+        if: steps.find-files.outputs.skip != 'true'
+        run: |
+          echo "RESEARCH_FILE: ${{ env.RESEARCH_FILE }}"
+          echo "RESEARCH_TITLE: ${{ env.RESEARCH_TITLE }}"
+          echo "AUTHORS: ${{ env.AUTHORS }}"
+          echo "STUDY_DATE: ${{ env.STUDY_DATE }}"
+          echo "KEY_FINDINGS length: ${#KEY_FINDINGS}"
+
       - name: Send Slack notification
         if: steps.find-files.outputs.skip != 'true' && env.RESEARCH_FILE
         uses: slackapi/slack-github-action@v1.26.0
         with:
-          channel-id: 'research-ops'
+          # Try without channel-id first, let the webhook determine the channel
           payload: |
             {
+              "channel": "research-ops",
               "text": "📊 New Research Findings Available: ${{ env.RESEARCH_TITLE }}",
               "blocks": [
                 {
@@ -184,7 +226,7 @@ jobs:
                   "fields": [
                     {
                       "type": "mrkdwn",
-                      "text": "*Study:*\n${{ env.RESEARCH_TITLE }}"
+                      "text": "*Study:*\n${{ env.RESEARCH_TITLE || 'Research Findings' }}"
                     },
                     {
                       "type": "mrkdwn",
@@ -192,11 +234,11 @@ jobs:
                     },
                     {
                       "type": "mrkdwn",
-                      "text": "*Date:*\n${{ env.STUDY_DATE }}"
+                      "text": "*Date:*\n${{ env.STUDY_DATE || 'Unknown' }}"
                     },
                     {
                       "type": "mrkdwn",
-                      "text": "*Authors:*\n${{ env.AUTHORS }}"
+                      "text": "*Authors:*\n${{ env.AUTHORS || 'Unknown' }}"
                     }
                   ]
                 },
@@ -207,7 +249,7 @@ jobs:
                   "type": "section",
                   "text": {
                     "type": "mrkdwn",
-                    "text": "*Key Findings Preview:*\n${{ env.KEY_FINDINGS }}"
+                    "text": "*Key Findings Preview:*\n${{ env.KEY_FINDINGS || 'See full report for details' }}"
                   }
                 },
                 {
@@ -256,6 +298,6 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Track shared research file: ${{ env.RESEARCH_FILE }}"
-          file_pattern: .github/workflows/shared-research-files-to-slack.log
+          file_pattern: .github/workflows/shared-research-files.log
           commit_user_name: github-actions[bot]
           commit_user_email: github-actions[bot]@users.noreply.github.com
