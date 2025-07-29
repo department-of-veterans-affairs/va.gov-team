@@ -1,5 +1,5 @@
 # Ask VA KPIs
-Last updated by @beckyphung on July 22, 2025
+Last updated by @beckyphung on July 29, 2025
 
 These KPIs help us understand how Ask VA is meeting expected submitter outcomes and operational performance of our Ask VA application. We'll benchmark our KPIs against VA.gov metrics.
 
@@ -21,9 +21,9 @@ These KPIs help us understand how Ask VA is meeting expected submitter outcomes 
 |KPI|May|Jun|Jul (Up to 7/22)|
 |:--|:--|:--|:--|
 |[Performance] Error rate, Submit inquiry (auth)|0.4% (16850)|0.3% (43517)|0.7% (31950)|
-|[Performance] Error rate, Submit inquiry (unauth)|0.9% (248)|5.1% (574)|13.54% (363)|
+|[Performance] Error rate, Submit inquiry (unauth)|0.9% (248)|⚠️5.1% (574)|⚠️13.54% (363)|
 |[Performance] Error rate, Submit reply|0.2% (2462)|0.1% (6827)|0.3% (4460)|
-|[Performance] AVG p95 Latency, Submit inquiry (auth)|6.1s|5.8s|7.5s|
+|[Performance] AVG p95 Latency, Submit inquiry (auth)|⚠️6.1s|⚠️5.8s|⚠️7.5s|
 |[Performance] AVG p95 Latency, Submit inquiry (unauth)|2.0s|1.7s|1.6s|
 |[Performance] AVG p95 Latency, Submit reply|3.1s|3.6s|3.4s|
 |[Performance] Throughput, Successful Submit inquiry (auth + unauth) calls|14744|43887|32298|
