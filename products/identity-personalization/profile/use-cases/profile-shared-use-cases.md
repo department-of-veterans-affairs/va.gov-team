@@ -109,6 +109,18 @@ Primary button: OK
 </details>
 
 
+<details><summary>Edit-as-a-subtask flow</summary>
+
+- **Use case:** If a user edits their contact information (email, address, phone) not on the Contact information page, they will launch the edit-as-a-subtask flow. The flow is a single question flow that updates their contact information then directs the user back to the page. [Link to product documentation.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/editing-as-a-subtask)
+- **Status code:** TBD
+- **Format:** See designs
+- [Links to designs](https://www.figma.com/design/Byfu9NRKXCtXN3DuMYguKI/Authenticated-Experience-Team-Symbols?node-id=1068-1140&t=lqkwKLq2YPQjoDrR-1)
+- [Link to code]
+- **Content:** See designs
+
+</details>
+
+
 ## Edge cases
 ### Validation
 There are no shared validations.
