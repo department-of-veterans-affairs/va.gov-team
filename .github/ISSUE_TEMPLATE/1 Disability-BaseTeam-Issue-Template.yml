@@ -48,7 +48,7 @@ body:
       - label: Code or content reviewed (Internal)
       - label: Reviewed and approved by product and/or design
 
-- type: checkbox
+- type: checkboxes
   attributes:
     label: Refinement Checklist! 
     description: Make this ticket ready to work
