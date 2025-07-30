@@ -1,5 +1,5 @@
 # OCTO Health Portal Team
-Updated 7/25/2025
+Updated 7/29/2025
 
 ## Table of Contents
 - [Welcome](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/health-portal-team.md#welcome)
@@ -47,14 +47,14 @@ The My HealtheVet on VA.gov team’s mission is to simplify Veterans’ health e
 
 |Name|Role|Company Email|VA Email|DSVA Slack|GitHub|
 |------|----|-----|-----|--------|------|
-| starting 8/4 | Fullstack Engineer | TBD | TBD | TBD | TBD |
-| starting 8/4 | Fullstack Engineer | TBD | TBD | TBD | TBD |
-| TBD | Frontend Engineer | TBD | TBD | TBD | TBD |
-| TBD | Frontend Engineer | TBD | TBD | TBD | TBD |
-| TBD | QA Engineer | TBD | TBD | TBD | TBD |
-| TBD | Mobile Engineer | TBD | TBD | TBD | TBD |
-| TBD | Designer | TBD | TBD | TBD | TBD |
-| TBD | Researcher/Information Architect | TBD | TBD | TBD | TBD |
+| starting 8/4 | Mobile Engineer | TBD | TBD | TBD | TBD |
+| starting 8/4 | Full Stack Engineer | TBD | TBD | TBD | TBD |
+| starting 8/4 | Full Stack Engineer | TBD | TBD | TBD | TBD |
+| starting 8/4 | Full Stack Engineer | TBD | TBD | TBD | TBD |
+| starting 8/11 | QA Engineer | TBD | TBD | TBD | TBD |
+| starting 8/11 | Frontend Engineer | TBD | TBD | TBD | TBD |
+| starting 8/11 | Designer | TBD | TBD | TBD | TBD |
+| starting 8/11 | Researcher/Information Architect | TBD | TBD | TBD | TBD |
 
 </details>
 
@@ -62,16 +62,16 @@ The My HealtheVet on VA.gov team’s mission is to simplify Veterans’ health e
 This cross-functional group serves as the Company points of contact for the delivery team and manages work that impacts the whole portal. 
 - Slack channel: [#mhv-horizon](https://dsva.slack.com/archives/C05DFSM57FW)
 
-|Name|Role|Company Email|VA Email|DSVA Slack|GitHub|
-|------|----|-----|-----|--------|------|
-| Marci McGuire | OCTO Product Lead | marci.mcguire@va.gov | marci.mcguire@va.gov | [@Marci McGuire](https://dsva.slack.com/team/U04K6QYPP6V) | [MarciMcGuire](https://github.com/MarciMcGuire) |
-| Bryan Ivie | Product Lead | bryan.ivie@adhocteam.us | bryan.ivie@va.gov | [@Bryan Ivie](https://dsva.slack.com/team/U02EA0XLRD1) | [steel36](https://github.com/steel36) |
-| Daniel Cloud | Engineering Lead | daniel.cloud@adhocteam.us | daniel.cloud@va.gov | [@Daniel Cloud](https://dsva.slack.com/team/U03CLNHG23S) | [dcloud](https://github.com/dcloud) |
-| Florence McCafferty | Design Lead | florence.mccafferty@agile6.com | Kathryn.McCafferty@va.gov | [@Florence McCafferty](https://dsva.slack.com/team/U03HQRVPZD1) | [fmccaf1](https://github.com/fmccaf1) |
-| Cara Frissell | Research Lead | cara.frissell@adhocteam.us | cara.frissell@va.gov | [@Cara Frissell](https://dsva.slack.com/team/U05123T8FT7) | [carafrissell1](https://github.com/carafrissell1) |
-| Sara Sterkenburg | Information Architect | sara.sterkenburg@adhocteam.us | sara.sterkenburg@va.gov | [@Sara Sterkenburg](https://dsva.slack.com/team/U045GGS6V25) | [sterkenburgsara](https://github.com/sterkenburgsara) |
-| Marcello Antosh | Data Specialist | marcello.antosh@inroadsadvisory.com | TBD | TBD | [marcello-inroads](https://github.com/marcello-inroads) |
-| Lauren Ernest | Program Manager | lauren.ernest@adhocteam.us | lauren.ernest@va.gov | [@Lauren Ernest](https://dsva.slack.com/team/U01DKQVCEGY) | [laurenernest](https://github.com/laurenernest) |
+|Name                  |Role                   |Company Email|VA Email|DSVA Slack|GitHub|
+|----------------------|-----------------------|-------------|--------|----------|------|
+| Marci McGuire        | OCTO Product Lead     | marci.mcguire@va.gov | marci.mcguire@va.gov | [@Marci McGuire](https://dsva.slack.com/team/U04K6QYPP6V) | [MarciMcGuire](https://github.com/MarciMcGuire) |
+| Bryan Ivie           | Product Lead          | bryan.ivie@adhocteam.us | bryan.ivie@va.gov | [@Bryan Ivie](https://dsva.slack.com/team/U02EA0XLRD1) | [steel36](https://github.com/steel36) |
+| Daniel Cloud         | Engineering Lead      | daniel.cloud@adhocteam.us | daniel.cloud@va.gov | [@Daniel Cloud](https://dsva.slack.com/team/U03CLNHG23S) | [dcloud](https://github.com/dcloud) |
+| Florence McCafferty  | Design Lead           | florence.mccafferty@agile6.com | Kathryn.McCafferty@va.gov | [@Florence McCafferty](https://dsva.slack.com/team/U03HQRVPZD1) | [fmccaf1](https://github.com/fmccaf1) |
+| Cara Frissell        | Research Lead         | cara.frissell@adhocteam.us | cara.frissell@va.gov | [@Cara Frissell](https://dsva.slack.com/team/U05123T8FT7) | [carafrissell1](https://github.com/carafrissell1) |
+| Sara Sterkenburg     | Information Architect | sara.sterkenburg@adhocteam.us | sara.sterkenburg@va.gov | [@Sara Sterkenburg](https://dsva.slack.com/team/U045GGS6V25) | [sterkenburgsara](https://github.com/sterkenburgsara) |
+| Marcello Antosh      | Data Specialist       | marcello.antosh@inroadsadvisory.com | TBD | TBD | [marcello-inroads](https://github.com/marcello-inroads) |
+| Lauren Ernest        | Program Manager       | lauren.ernest@adhocteam.us | lauren.ernest@va.gov | [@Lauren Ernest](https://dsva.slack.com/team/U01DKQVCEGY) | [laurenernest](https://github.com/laurenernest) |
 
 ### Medical Records
 - Slack channel: [#mhv-medical-records](https://dsva.slack.com/archives/C03Q2UQL1AS)
@@ -80,10 +80,10 @@ This cross-functional group serves as the Company points of contact for the deli
 |------|----|-----|-----|--------|------|
 | Marci McGuire | OCTO Product Lead | marci.mcguire@va.gov | marci.mcguire@va.gov | [@Marci McGuire](https://dsva.slack.com/team/U04K6QYPP6V) | [MarciMcGuire](https://github.com/MarciMcGuire) |
 | David Koger | Product Manager | dkoger@ironarchtech.com | TBD | TBD | TBD |
-| Mike Moyer | Fullstack Engineer | mmoyer@ironarchtech.com | michael.moyer@va.gov | [@Mike Moyer](https://dsva.slack.com/team/U03G1ECH00K) | [mmoyer-va](https://github.com/mmoyer-va) |
-| Ni Chia |  Fullstack Engineer | ni.chia@adhocteam.us | tchut.chia@va.gov | [@Ni Chia](https://dsva.slack.com/team/U07NQDN4WJG) | [nichia](https://github.com/nichia) |
+| Mike Moyer | Full Stack Engineer | mmoyer@ironarchtech.com | michael.moyer@va.gov | [@Mike Moyer](https://dsva.slack.com/team/U03G1ECH00K) | [mmoyer-va](https://github.com/mmoyer-va) |
+| Ni Chia |  Full Stack Engineer | ni.chia@adhocteam.us | tchut.chia@va.gov | [@Ni Chia](https://dsva.slack.com/team/U07NQDN4WJG) | [nichia](https://github.com/nichia) |
 | Napoleon Kernessant | Frontend Engineer | napoleon.Kernessant@docme360.com | Napoleon.kernessant@va.gov | [@Napoleon Kernessant](https://dsva.slack.com/team/U03US4Z036J) | [GovNapoleon](https://github.com/GovNapoleon) |
-| Aswin Malla | Fullstack Engineer | aswin.malla@agile6.com | TBD | TBD | [AMT98](https://github.com/AMT98) |
+| Aswin Malla | Full Stack Engineer | aswin.malla@agile6.com | TBD | TBD | [AMT98](https://github.com/AMT98) |
 | Elwood Gary | Frontend Engineer (Liferay) | elwood.gary@agile6.com | Kenneth.Gary@va.gov | [@Elwood Gary](https://dsva.slack.com/archives/D096LSQBSDN) | [elwoodva](https://github.com/elwoodva) |
 | Liz Townsend | Mobile Engineer | liz.townsend@adhocteam.us | elizabeth.townsend4@va.gov | [@Liz Townsend](https://dsva.slack.com/team/U06059URY69) | [liztownd](https://github.com/liztownd) |
 
@@ -96,7 +96,7 @@ During the transition period, the Medications team and Medical Devices team will
 | Kay Lawyer | OCTO Product Lead | katherine.lawyer@va.gov | katherine.lawyer@va.gov | [@Kay](https://dsva.slack.com/team/U04K6QYPP6V) | [Klawyer](https://github.com/Klawyer) |
 | Michael Brodsky | Product Manager | michael.brodsky@agile6.com | michael.brodsky@va.gov | [@Michael Brodsky](https://dsva.slack.com/team/U08HKSYE285) | [michaelbrodsky-a6](https://github.com/michaelbrodsky-a6) |
 | Richard Davis | Frontend Engineer | richard.davis@agile6.com | richard.davis437@va.gov | [@Richard Davis](https://dsva.slack.com/team/U05BCJSDCDA) | [radavis](https://github.com/radavis) |
-| Chris Donelson | Fullstack Engineer | CDonelson@ironarchtech.com | TBD | TBD | TBD |
+| Chris Donelson | Full Stack Engineer | CDonelson@ironarchtech.com | TBD | TBD | TBD |
 | Cam Keif | Frontend Engineer | ckeif@ironarchtech.com | TBD | TBD | TBD |
 | Ian Seabock | Frontend Engineer | iseabock@ironarchtech.com | TBD | TBD | [iseabock](https://github.com/iseabock) |
 
@@ -109,8 +109,8 @@ During the transition period, the Medications team and Medical Devices team will
 | Stacy Blackwood | Product Manager | stacy.blackwood@adhocteam.us | TBD | TBD | [StacyB2023](https://github.com/StacyB2023) |
 | Alex Morgun | Frontend Engineer | amorgun@ironarchtech.com | alex.morgun@va.gov | [@Alex Morgun](https://dsva.slack.com/team/U03FYHMUG9K) | [alex-morgun-1](https://github.com/alex-morgun-1) |
 | Kevin Suarez | Backend Engineer | kevin.suarez@agile6.com | kevin.suarez1@va.gov | [@Kevin Suarez](https://dsva.slack.com/team/U081A32NU4X) | [kjsuarez](https://github.com/kjsuarez) |
-| Adam Stoler | Fullstack Engineer | adam.stoler@agile6.com | TBD | TBD | TBD |
-| Jason Congliari | Fullstack Engineer | jConigliari@ironarchtech.com | jason.conigliari@va.gov | TBD | [Tonksthebear](https://github.com/Tonksthebear) |
+| Adam Stoler | Full Stack Engineer | adam.stoler@agile6.com | TBD | TBD | TBD |
+| Jason Congliari | Full Stack Engineer | jConigliari@ironarchtech.com | jason.conigliari@va.gov | TBD | [Tonksthebear](https://github.com/Tonksthebear) |
 | Clint Wilde | Backend Engineer (Liferay) | clint.wilde@docme360.com | Clint.wilde@va.gov | TBD | [clintwildeva](https://github.com/clintwildeva) |
 | Mario Williams | Frontend Engineer (Liferay) | mwilliams@ironarchtech.com | TBD | TBD | TBD |
 | Jayson Perkins | Mobile Engineer | jayson.perkins@adhocteam.us | jayson.perkins@va.gov | [@Jayson Perkins](https://dsva.slack.com/team/U01A8SZCMHA) | [jperk51](https://github.com/jperk51) |
