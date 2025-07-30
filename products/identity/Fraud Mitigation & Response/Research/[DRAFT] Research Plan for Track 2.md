@@ -52,10 +52,10 @@ Validate hypothesis that fraud is detectable through `vets-api` system of record
   - Filtering infrastructure is under active construction
  
 * Condense relevant data
- - **Hypothesis**: Aggregates of raw `vets-api` events are useful for identifying patterns of normal and fraudulent activity (e.g. total sessions, pages visited per session, etc.)
- - Even after basic filtering, raw event data is still huge
- - Infrastructure for filtering big data can also aggregate it
- - Aggregation infrastructure is under active construction
+  - **Hypothesis**: Aggregates of raw `vets-api` events are useful for identifying patterns of normal and fraudulent activity (e.g. total sessions, pages visited per session, etc.)
+  - Even after basic filtering, raw event data is still huge
+  - Infrastructure for filtering big data can also aggregate it
+  - Aggregation infrastructure is under active construction
 
 * Transform relevant data
   - **Hypothesis**: Transformations of raw and aggregated `vets-api` events are useful for identifying patterns (e.g. time since first login, pages visited prior to direct deposit page, etc.)
@@ -86,12 +86,12 @@ Validate hypothesis that fraud is detectable through `vets-api` system of record
 
 * Measure how model generalizes to unseen data
   - Statistical models can simply memorize data used to fit their parameters
-  - Perfect match on training data can lead to awful performance on held-out test data
+  - Perfect match on training data can coincide with awful performance on held-out test data
 
 * Understand *why* model gives particular outputs
   - Use explainability methods (regression coefficients, Shapley values) to understand how inputs (i.e. filtered-aggregated-transformed events) contribute to output score
   - Check that these explanations make intuitive sense
-  - Statistical modeling can often be misleaing and respond to spurious structure in data
+  - Statistical modeling can often be misleading and respond to spurious structure in data
   - This is a debugging / QA procedure
 
 * Adjust modeling approach and loop to Phase 3
