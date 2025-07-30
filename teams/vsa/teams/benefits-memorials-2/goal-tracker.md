@@ -84,7 +84,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 ## Sprint Goals - Sprint: 14 [7/30/25 - 8/12/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
-|UX: Confirm fields and format with Lighthouse for VHA payment history based on Fall 2024 study recommendations.| QP3 |--|--|--|
+|UX/ENG: Confirm the fields, data point mapping and format of the Lighthouse API for VHA payment history based on Fall 2024 study recommendations aka "paper testing".| QP3 |--|--|--|
 |UX: Refine the Pay.gov mockups based on the feedback from our discussion with the FE team.| QP4 |--|--|--|
 |UX: Create user flows & mockups for Hardship Suspension that are user-friendly and meet DMC's requirements.| QP6 |--|--|--|
 |ENG: Complete 8 points of remaining Digital Dispute work addressing the 4 remaining staging review feedback tickets.| QP1 |--|--|--|
