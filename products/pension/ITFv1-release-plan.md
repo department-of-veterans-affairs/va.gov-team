@@ -17,7 +17,7 @@ Considerations
 ## Overview
 As outlined in the [intiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/burial-allowance/530-initiative-brief-2024-updates.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pension/ITF-product-brief.md)), VA has the concept of an Intent to File (ITF), which enables Veterans to establish a potential start date for benefit payments up to a year before they submit their claim. It is especially helpful for Veterans who expect to take some time to gather evidence to complete and submit a benefit claim, and want to maximize their opportunity for back pay. By providing an intuitive experience that enables Veterans to undertand the purpose and benefits of intent to file, and next steps if the system fails to generate ITF, the Veteran will benefit from claity that enhances their trust in VA systems.
 
-[Release plan user flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1707410059042/66a7863edcd579a5bc8b4bd720f685a5d0724a49?wid=0-1707412077064)
+[Release plan user flow]
 
 ### The release plan will need to consider the following use cases:
 1. Applications In-Progress
