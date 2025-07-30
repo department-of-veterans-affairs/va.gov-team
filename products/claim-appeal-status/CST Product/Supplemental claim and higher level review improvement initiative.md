@@ -29,7 +29,7 @@ We are pursuing both approach at the moment because there are a lot of prerquisi
 
 ## Current progress
 
-As of 4/23/2025:
+As of 7/28/2025:
 
-1. Started the conversation with BEP team to ask for the datebase change, currently working with OBA to confirm the list of EP030 and EP040 claim labels that should be visible to a user in CST.
+1. Started the conversation with BEP team to ask for the datebase change, we have [a list of 030 040 EP code](https://developer.va.gov/explore/api/benefits-claims/docs?version=current)
 2. Submitted a request ticket for Caseflow endpoint changes
