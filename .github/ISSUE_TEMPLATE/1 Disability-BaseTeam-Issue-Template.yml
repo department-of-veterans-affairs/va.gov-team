@@ -16,9 +16,11 @@ body:
       So that... 
 - type: textarea
   attributes:
-    label: Background Context
-    description: What's the context?
-    placeholder: Add here
+    label: Description
+    description: What's the context? 
+    placeholder: | 
+      Describe the scope of the ticket and include any context and details of the work that will be done 
+      Add dependencies, open questions, and other relevant details as needed
 - type: textarea
   attributes:
     label: Tasks
@@ -27,37 +29,14 @@ body:
       - Task
       - Task
       - Task
-- type: textarea
+- type: checkboxes
   attributes:
-    label: Dependencies
-    description: What's things is this work dependent on?
-    placeholder: Add here
-- type: textarea
-  attributes:
-    label: Out of scope
-    description: What's things are NOT in scope for this work?
-    placeholder: Add here
-
-- type: textarea
-  attributes:
-    label: Open questions
-    description: Are there any open questions?
-    placeholder: Add here
-
-- type: textarea
-  attributes:
-    label: Acceptance Criteria
-    description: What is the acceptable conditions to consider this work complete?
+    label: Acceptance Criteria 
+    description: What are the acceptable 
     placeholder: |
-      - AC
-      - AC
-      - AC
-- type: textarea
-  attributes:
-    label: Outcome, Success Measure, KPI(S), and Tracking Link
-    description: Measuring success of this work
-    placeholder: Add here
-
+      - label: AC
+      - label: AC
+      - label: AC
 - type: checkboxes
   attributes: 
     label: Definition of Done
