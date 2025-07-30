@@ -1,7 +1,7 @@
 ## 10-10EZR URLs
 - As of 7/30/25
 
-### Here is the list of URLs for the 10-10EZR MVP online, with conditional pages explained:
+### Here is the current list of URLs for the 10-10EZR with conditional pages explained:
   - va.gov/my-health/update-benefits-information-form-10-10ezr/introduction
   - va.gov/my-health/update-benefits-information-form-10-10ezr/veteran-information/personal-information
   - va.gov/my-health/update-benefits-information-form-10-10ezr/veteran-information/mailing-address
