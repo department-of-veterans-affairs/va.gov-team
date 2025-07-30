@@ -38,10 +38,10 @@ The VA Platform is the quintessential document resource for teams that build pro
 - [X] [Platform support overview](https://depo-platform-documentation.scrollhelp.site/getting-started/orientation-sessions#Orientationsessions-PlatformSupportOverview)
 
 ## VA Platform practice-centered orientation and educational tasks
-- [ ] [Design & Researchers](https://depo-platform-documentation.scrollhelp.site/getting-started/educational-tasks#Educationaltasks-Designers&Researchers)
-- [ ] [Front-end engineers](https://depo-platform-documentation.scrollhelp.site/getting-started/educational-tasks#Educationaltasks-Front-endEngineers)
-- [ ] [Back-end engineers](https://depo-platform-documentation.scrollhelp.site/getting-started/educational-tasks#Educationaltasks-Back-endEngineers)
-- [ ] [Product managers & delivery managers](https://depo-platform-documentation.scrollhelp.site/getting-started/educational-tasks#Educationaltasks-ProductManagers&DeliveryManagers)
+- [X] [Design & Researchers](https://depo-platform-documentation.scrollhelp.site/getting-started/educational-tasks#Educationaltasks-Designers&Researchers)
+- [X] [Front-end engineers](https://depo-platform-documentation.scrollhelp.site/getting-started/educational-tasks#Educationaltasks-Front-endEngineers)
+- [X] [Back-end engineers](https://depo-platform-documentation.scrollhelp.site/getting-started/educational-tasks#Educationaltasks-Back-endEngineers)
+- [X] [Product managers & delivery managers](https://depo-platform-documentation.scrollhelp.site/getting-started/educational-tasks#Educationaltasks-ProductManagers&DeliveryManagers)
 
 ## Orientation Part 2
 - [ ] Once you've completed the Part 1 checklist and have access to the VA network and Slack, let your marci.mcguire@va.gov know so you can get info for Part 2!
