@@ -11,7 +11,7 @@
 
 ## Methodology 
 
-We requested survey data for May and June from the Contact Center Team. Since there were no surveys taken from the /verify page, we recieved surveys from pages about verify, mostly from resource pages like [https://www.va.gov/resources/verifying-your-identity-on-vagov/](https://www.va.gov/resources/verifying-your-identity-on-vagov/)
+We requested survey data for May and June from the Contact Center Team. Since there were no surveys taken from the /verify page, we received surveys from pages about verify, mostly from resource pages like [https://www.va.gov/resources/verifying-your-identity-on-vagov/](https://www.va.gov/resources/verifying-your-identity-on-vagov/)
 
 * Medallia feedback survey - folks get to this by pressing the "feedback" button at the bottom of a page on VA.gov
 * Medallia intercept survey - folks get to this by seeing a pop-up on screen
