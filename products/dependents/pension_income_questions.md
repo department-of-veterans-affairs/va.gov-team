@@ -23,14 +23,14 @@ Work done in [#76465](https://github.com/department-of-veterans-affairs/va.gov-t
 
 ![image](https://github.com/user-attachments/assets/ba77b819-232d-4af7-aea1-22ed571a5170)
 - This question is asked for every dependent branch in the form
-- If yes, VA.gov will off-ramp the claim for manual review where the VBA will usually ask the Veteran a complete income/asset picture via a 21P-0969 or 21P-8416
+- If yes, VA.gov will off-ramp the claim for manual review where the VBA will usually ask the Veteran a complete income/asset picture via a 21P-0969 or 21P-8416. Baha Khaled confirmed on 6/17/25 in an email to Sanja Bajovic that VA.gov should preemptively off-ramp these claims for manual processing rather than send them to RBPS.
 - If no, the claim will continue through to RBPS
 
 -----
 
 ![image](https://github.com/user-attachments/assets/11696ae6-df7c-43f1-9fe0-326148864f4b)
 - This question is asked at the end of every form branch
-- If yes, VA.gov will off-ramp the claim for manual review review where the VBA will usually ask the Veteran a complete income/asset picture via a 21P-0969 or 21P-8416
+- If yes, VA.gov will off-ramp the claim for manual review review where the VBA will usually ask the Veteran a complete income/asset picture via a 21P-0969 or 21P-8416. Baha Khaled confirmed on 6/17/25 in an email to Sanja Bajovic that VA.gov should preemptively off-ramp these claims for manual processing rather than send them to RBPS.
 - If no, the claim will continue through to RBPS
 -----
 
@@ -54,7 +54,7 @@ The (same?) API can be leveraged to pull in the annual net worth limit and [auto
 
 ### Questions
 1. Should VA.gov preemptively off-ramp pension-related claims that cannot be processed by RBPS? Or, is RBPS responsible for off-ramping them?
-  - VA.gov should preemtively off-ramp pension-related claims that cannot be processed by RBPS. This involves claims where the answers to the income questions are anything other than "no income in the last 365 days" and "no, my income is not over the annual limit".
+  - VA.gov should preemtively off-ramp pension-related claims that cannot be processed by RBPS. This involves claims where the answers to the income questions are anything other than "no income in the last 365 days" and "no, my income is not over the annual limit". Baha Khaled confirmed on 6/17/25 in an email to Sanja Bajovic that VA.gov should preemptively off-ramp these claims for manual processing rather than send them to RBPS.
 2. 
 
 ### Content Recommendations
