@@ -35,19 +35,17 @@ As outlined in the [intiative brief](https://github.com/department-of-veterans-a
       - Unauthenticated Users: Users will complete v2.
       - Authenticated Users: Users will complete v2.
 
-| User Type | Flipper Status | Form in Progress | Visible Form | V2 Info Content Displayed | Data Migrated |
+| User Type | Flipper Status | Form in Progress | ITF Version| V1 Info Content Displayed 
 |---|---|---|---|---|---|
-| Authenticated Users | Disabled | No | v1 Form | No | No |
-| Authenticated Users | Disabled | Yes, v1 | v1 Form | No | No |
-| Authenticated Users | Disabled | Yes, v2 | v2 Form | Yes | No |
-| Authenticated Users | Enabled | No | v2 Form | No | Yes |
-| Authenticated Users | Enabled | Yes, v1 | v2 Form | Yes | Yes |
-| Authenticated Users | Enabled | Yes, v2 | v2 Form | Yes | No |
-| No-Auth Users (Pre-100% Release) | N/A | No | v1 Form | No | No |
-| No-Auth Users (Post-100% Release)| N/A | No | v2 Form | Yes | No |
+| Authenticated Users | Disabled | No | v0 Form | No | No |
+| Authenticated Users | Disabled | Yes, v0 | v0 Form | No | No |
+| Authenticated Users | Disabled | Yes, v1 | v1 Form | Yes | No |
+| Authenticated Users | Enabled | No | v1 Form | No | Yes |
+| Authenticated Users | Enabled | Yes, v0 | v1 Form | Yes | Yes |
+| No-Auth Users (Pre-100% Release) | N/A | No | v0 Form | No | No |
+| No-Auth Users (Post-100% Release)| N/A | No | v1 Form | Yes | No |
 
 ### This release will include the following components:
-1. Form field updates on some pages (add new fields, remove old fields)
 2. Form component updates on the pages already receiving form field updates
 3. Accessibility updates on the pages already receiving form field updates
 4. Info alert on the form information page letting new users or in-progress users who were migrated to v2 know that the form has been updated.
@@ -63,9 +61,10 @@ List the features toggles here.
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| burial_form_enabled | Enable the burial form |
-| burial_form_v2 | vets-website v2 toggle |
-| va_burial_v2 | vets-api v2 toggle |
+| pension_itf_show_alert | Enable ITF V1 alerts|
+| intent_to_file_synchronous_enabled | Enable ITF V1 alerts|
+
+
 
 ## Step 2: Validation
 
@@ -121,8 +120,8 @@ DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 Our PM and PO will monitor analytics. If something goes wrong, the engineering team will be on standby to disable the flippers and fall back to v1 of the form.
 
 Rollback plan:
-1. PM and PO monitor analytics for issues (failed submissions, traffic irregularies, unexpected errors).
-2. Engineering disables flipper which hides v2 of the form.
+1. PM and Engineer monitor analytics for issues (failed submissions, traffic irregularies, unexpected errors).
+2. Engineering disables flipper which hides v0 of the form.
    - Users with in-progress v2 sessions will finish out their v2 session. If they start a new session, they will be redirected to v1.
    - New users will be directed to v1 of the form.
 
@@ -155,6 +154,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Desired date range: April 15 - May 10, 2024
 - How will you make the product available in production while limiting the number of users who can find/access it: Flipper
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
+   - Network traffic to back end server 
   - Abandonment rate:
   - Submission volume:
     - Canary: 10 submissions
