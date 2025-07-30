@@ -1,4 +1,4 @@
-# DRAFT Research Plan: Fraud Landscape Mapping Discovery
+# DRAFT Research Plan Track 2: Fraud Landscape Mapping Discovery
 People are smart, creative, and intuitive. Machines are dumb, repetitive, and fast. We hope that by combining their strengths, the task of mitigating fraud in VA systems can be much improved. This hope is not in vain - across all disciplines, the application of automated statistical learning has yielded substantial improvements to an astonishing variety of processes.
 
 In the following we describe our objectives, methods, and hypotheses. There is a large number of implicit hypotheses which are built in to using machine learning; we indicate these hypotheses below. The process of building a machine learning system is the process of validating (or rejecting) these tacit ideas.
