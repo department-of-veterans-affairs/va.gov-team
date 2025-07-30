@@ -3,7 +3,7 @@
 
 ### Here is the current list of URLs for the 10-10EZR with conditional pages explained:
 
-| URL                                                                                                                       | Description                                                                  
+| URL                                                                                                                       | Conditional Description                                                               
 |:---|:---
 | [va.gov/my-health/update-benefits-information-form-10-10ezr/introduction](https://va.gov/my-health/update-benefits-information-form-10-10ezr/introduction) | |
 | [va.gov/my-health/update-benefits-information-form-10-10ezr/veteran-information/personal-information](https://va.gov/my-health/update-benefits-information-form-10-10ezr/veteran-information/personal-information) | |
