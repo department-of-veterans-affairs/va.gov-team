@@ -50,7 +50,7 @@ There are a few of my teammates who would like to observe this session as well. 
 
 Could the observers please turn their cameras off now to save bandwidth? 
 
-Today we're going to talk about filling out forms from the VA mobile app. I'm going to ask you a few questions, and then I'll have you do some specific tasks using a website that I will share with you.
+Today we're going to talk about filling out forms from the VA mobile app. I'm going to ask you a few questions, and then I'll have you do some specific tasks using a website that I will share with you. As you go through these steps please speak aloud your thoughts and actions to help us understand more about your experience.
 
 Before we start, I want to go over a few things:
 
