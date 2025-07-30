@@ -4,9 +4,14 @@
 **Researcher:** Athena Bozak (athena.bozak@va.gov)
 
 ### Resources
-[Research Plan for Transitioning service-member Tree-Test, June–July 2025](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2025-06-appointments-and-other-tasks-tree-test/research-plan.md)  
+- [Research Plan for Transitioning Service-Member Tree-Test, June–July 2025](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/overall-content-IA/2025-06-appointments-and-other-tasks-tree-test/research-plan.md)
+- [Mural: Tree-Test Analysis and Findings](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1752864259684/c7f5029792d34bba9aa421bd45272723e7d5c6e2)
 
-[Mural: Tree-Test Analysis and Findings](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1752864259684/c7f5029792d34bba9aa421bd45272723e7d5c6e2)
+**Optimal Workshop Studies:**
+- [Transitioning Service-Member Unmoderated Tree-Test](https://app.optimalworkshop.com/a/dj540s05/treejack/results/72ea125c-1aaa-4c62-875e-9f5099efb768?from=dashboard#/t/results/overview/studyOverview)
+- [Transitioning Service Members and New to VA Benefits: Tree Test for Services](https://app.optimalworkshop.com/a/dj540s05/treejack/results/f0136f26-3d9d-4567-a576-4f8326c02af4?from=dashboard)
+
+
 
 ## Research goals
 
@@ -29,13 +34,12 @@ Through this research we aimed to:
 
 ## Research questions
 
-1. You recently separated from the military. You were told to schedule a time to connect with a VA Solid Start program representative who can help you get started with the benefits and services VA offers. Where in the list would you go to accomplish this task?
-2. You received a letter from VA asking you to schedule a claim exam to evaluate the service-connected condition you reported as part of a claim. Where in the list would you go to accomplish this task?
-3. You recently submitted a request for care from a provider outside of VA and want to check the status of that request. Where in the list would you go to accomplish this task?
-4. You're applying for college, and the college needs your VA benefits information. You need to give VA permission to release your information to the college. Where in the list would you go to accomplish this task?
-5. You recently applied for a VA grant to make improvements to your home to better accommodate your needs related to a service-connected condition. You want to check the status of that application. Where in the list would you go to accomplish this task?
-6. You currently receive compensation for an injury you got during your military service. You want to add your child to your benefits to increase your payments. Where in the list would you go to accomplish this task?
-7. You need to download a copy of the record of toxic exposures you had during military service (called the individual longitudinal exposure record, or ILER) to support a VA benefit claim. Where in the list would you go to accomplish this task?
+1. Where should VA.gov surface non-health appointments, including managing and viewing said appointments, for Veterans in their first year out of service?  
+2. Where should VA.gov surface denial letters to Veterans who were denied Community Care?  
+3. Where will transitioning service-members expect to find a copy of letters from their military service?  
+4. Where will transitioning service-members expect to go to release educational records from VA to the college they plan to attend using educational benefits?  
+5. Where will transitioning service-members expect to go update dependents related to their disability payments?  
+6. Where will transitioning service-members expect find status updates on VA home improvement grant applications?
 
 ## Methodology
 
