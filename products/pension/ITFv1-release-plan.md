@@ -36,7 +36,7 @@ As outlined in the [intiative brief](https://github.com/department-of-veterans-a
       - Authenticated Users: Users will complete v2.
 
 | User Type | Flipper Status | Form in Progress | ITF Version| V1 Info Content Displayed 
-|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 | Authenticated Users | Disabled | No | v0 Form | No | No |
 | Authenticated Users | Disabled | Yes, v0 | v0 Form | No | No |
 | Authenticated Users | Disabled | Yes, v1 | v1 Form | Yes | No |
@@ -46,11 +46,11 @@ As outlined in the [intiative brief](https://github.com/department-of-veterans-a
 | No-Auth Users (Post-100% Release)| N/A | No | v1 Form | Yes | No |
 
 ### This release will include the following components:
-2. Form component updates on the pages already receiving form field updates
-3. Accessibility updates on the pages already receiving form field updates
-4. Info alert on the form information page letting new users or in-progress users who were migrated to v2 know that the form has been updated.
-5. Toggle for inforamtion page to show old vs new form instructions.
-6. New confirmation email sent to users confirming their claim submission through VA.gov
+1. Form component updates on the pages already receiving form field updates
+2. Accessibility updates on the pages already receiving form field updates
+3. Info alert on the form information page letting new users or in-progress users who were migrated to v2 know that the form has been updated.
+4. Toggle for inforamtion page to show old vs new form instructions.
+5. New confirmation email sent to users confirming their claim submission through VA.gov
 ---
 
 ## Step 1: Development
@@ -117,16 +117,16 @@ DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 
 ### Define the Rollback process
 
-Our PM and PO will monitor analytics. If something goes wrong, the engineering team will be on standby to disable the flippers and fall back to v1 of the form.
+Our PM and Engineer will monitor analytics. If something goes wrong, the engineering team will be on standby to disable the flippers and fall back to v1 of the form.
 
 Rollback plan:
 1. PM and Engineer monitor analytics for issues (failed submissions, traffic irregularies, unexpected errors).
 2. Engineering disables flipper which hides v0 of the form.
-   - Users with in-progress v2 sessions will finish out their v2 session. If they start a new session, they will be redirected to v1.
+   - Users with in-progress v1 sessions will finish out their v1 session. If they start a new session, they will be redirected to v0.
    - New users will be directed to v1 of the form.
 
 ### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
-Our VFS team was advised against testing in production due to the downstream actions that submitting an application for burial benefits triggers. To migtigate the risk this poses, we will be doing extensive E2E testing in a staging environment.
+Our VFS team was advised against testing in production due to the downstream actions that submitting an application for burial benefits triggers. To migtigate the risk this poses, we will be doing extensive testing in a staging environment.
 
 #### Planning
 
