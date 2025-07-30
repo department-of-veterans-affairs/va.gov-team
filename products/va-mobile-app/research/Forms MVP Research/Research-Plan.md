@@ -2,9 +2,9 @@
 	# Research Plan for [VA Flagship Mobile Team, VAHB Mobile App, June, 2025]
 
 ## Background 🏗️
-Briefly describe the background of your product.
+Briefly describe the background of your product. 
 	
-The VA Mobile App team recently resolved SSO issues that had previously prevented Veterans from accessing VA.gov within a web view while maintaining their authenticated state. 
+The [VA Mobile App](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/archive/2021/Product-Outline.md) team recently resolved SSO issues that had previously prevented Veterans from accessing VA.gov within a web view while maintaining their authenticated state. 
 
 This technical improvement creates a new opportunity to integrate the Forms feature into the mobile app, functionality that is not currently available. 
 
