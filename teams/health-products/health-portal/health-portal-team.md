@@ -18,7 +18,7 @@ Welcome to the My HealtheVet Health Portal team.  We're glad you're here!  This 
 The My HealtheVet on VA.gov team’s mission is to simplify Veterans’ health experience on the web by consolidating all health things into a single health “home” on VA.gov. As we consolidate the health experience, we will work closely with the "classic" My HealtheVet / Office of Connected Care (OCC) and with teams throughout OCTO.
 
 ## Office of the CTO (OCTO) Team Members
-- Health Portfolio: Lauren Alexanderson
+- Deputy CTO – Health Delivery: Lauren Alexanderson
 - Product - Horizon: Marci McGuire
 - Product - Messaging: Patrick Bateman
 - Product - Medical Records: Marci McGuire
@@ -120,6 +120,7 @@ During the transition period, the Medications team and Medical Devices team will
 
 |Name|Role|Company Email|VA Email|DSVA Slack|GitHub|
 |------|----|-----|-----|--------|------|
+| Marci McGuire | OCTO Product Lead | marci.mcguire@va.gov | marci.mcguire@va.gov | [@Marci McGuire](https://dsva.slack.com/team/U04K6QYPP6V) | [MarciMcGuire](https://github.com/MarciMcGuire) |
 | Mark Carter | Business Analyst | mark.carter@agile6.com | mark.carter4@va.gov | [@Mark Carter](https://dsva.slack.com/team/U081CKD47FZ) | [mcarterA6](https://github.com/mcarterA6) |
 | Amy Cashbaugh | Frontend Engineer | acashbaugh@ironarchtech.com | amy.cashbaugh@va.gov | TBD | [amycashbaugh](https://github.com/amycashbaugh) |
 | Geoff Winner | Mobile Engineer | geoff.winner@agile6.com | TBD | TBD | [geoff-winner](https://github.com/geoff-winner) |
