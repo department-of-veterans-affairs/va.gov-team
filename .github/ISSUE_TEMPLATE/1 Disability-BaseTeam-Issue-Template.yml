@@ -19,8 +19,8 @@ body:
     label: Description
     description: What's the context? 
     placeholder: | 
-      Describe the scope of the ticket and include any context and details of the work that will be done 
-      Add dependencies, open questions, and other relevant details as needed
+      - Describe the scope of the ticket and include any context and details of the work that will be done 
+      - Add dependencies, open questions, and other relevant details as needed
 - type: textarea
   attributes:
     label: Tasks
@@ -34,9 +34,9 @@ body:
     label: Acceptance Criteria 
     description: What are the acceptable conditions to consider this work complete? 
     placeholder: |
-      - AC
-      - AC
-      - AC
+      - [ ] AC
+      - [ ] AC
+      - [ ] AC
 - type: checkboxes
   attributes: 
     label: Definition of Done
