@@ -29,7 +29,21 @@ In the primary use case, the card displays prefilled information (per the [“Kn
    - This is a **variant** of the existing [Card component](https://design.va.gov/components/card), not a new component.
 
 **Who are the primary users of this component?**
-VA.gov product teams building forms that include prefilled data.
+VA.gov product teams building forms that include prefilled data
+- Examples:
+- 	First & Last Name
+- 	SSN #
+- 	Mailing Address
+- 	Email
+- 	Phone Number
+- 	Service History Information
+
+## Is this a variation of existing component or new compontent?
+- Existing component of Card
+- Name: va-card-error-state
+- Story Book Name: Card error state
+- Figma Name:
+- Design System Name: 
 
 ## Requirements
 - Must be able to be used by any team that needs to display an error on a card
