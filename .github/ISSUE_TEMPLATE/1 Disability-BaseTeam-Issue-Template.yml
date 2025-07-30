@@ -26,9 +26,9 @@ body:
     label: Tasks
     description: What are the tasks for this work?
     placeholder: |
-      - Task
-      - Task
-      - Task
+      - [ ] Task
+      - [ ] Task
+      - [ ] Task
 - type: textarea
   attributes:
     label: Acceptance Criteria 
