@@ -266,7 +266,7 @@ The My HealtheVet portal team's main focus for the past several years has been r
 - [Horizon (MHV portal experience)]
    - [Landing page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page)
 - [Medical records](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records)
-- [Medical devices and supplies](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-devices-and-supplies)
+- [Medical devices and supplies](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-devices-and-supplies/README.md)
 - [Medications](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications)
 - [Messaging](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging) (formerly referred to as Secure Messaging)
 - Shared Portal Support
