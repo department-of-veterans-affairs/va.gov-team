@@ -29,14 +29,14 @@ body:
       - Task
       - Task
       - Task
-- type: checkboxes
+- type: textarea
   attributes:
     label: Acceptance Criteria 
-    description: What are the acceptable 
+    description: What are the acceptable conditions to consider this work complete? 
     placeholder: |
-      - label: AC
-      - label: AC
-      - label: AC
+      - AC
+      - AC
+      - AC
 - type: checkboxes
   attributes: 
     label: Definition of Done
