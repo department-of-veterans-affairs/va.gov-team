@@ -20,6 +20,7 @@ body:
     description: What's the context? 
     placeholder: | 
       - Describe the scope of the ticket and include any context and details of the work that will be done 
+      
       - Add dependencies, open questions, and other relevant details as needed
 - type: textarea
   attributes:
