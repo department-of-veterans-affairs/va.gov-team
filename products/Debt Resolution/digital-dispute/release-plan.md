@@ -129,12 +129,12 @@ DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 
 #### Results
 
-- Number of unique users:
-- Metrics at this stage (per your "success criteria"):
-- Was any downstream service affected by the change?:
-- Types of errors logged:
+- Number of unique users: 134
+- Metrics at this stage (per your "success criteria"):  117 successful submissions, 15 errors.
+- Was any downstream service affected by the change?: No
+- Types of errors logged: Failures tied to latency. In addition to the errors, there are other spikes of latency that still succeed but are outside the bounds of what we would consider acceptable
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?:
-  - TBD
+  - We should be seriously considering the move to making this async to a sidekiq, based on this weeks data.  
  
 ### Stage E: 100% of users
 
