@@ -31,6 +31,20 @@ In the primary use case, the card displays prefilled information (per the [“Kn
 **Who are the primary users of this component?**
 VA.gov product teams building forms that include prefilled data.
 
+## Requirements
+- Must be able to be used by any team that needs to display an error on a card
+- Must be able to accept unique error text
+- Must be able to maintain a unique card-id and error-id where appropriate
+- Must be able to have an active link in the card that maintains a unique accessible name
+- Must be able to disable error state
+- Must be able to display a colored tag to represent error state
+- Will not support card with icon variant
+- Will not support other states such as warning, info, or success
+
+## Storybook User stories
+- View error on card
+- Add custom error text
+- 
 
 ## Tasks / Things to consider
 
@@ -117,16 +131,7 @@ VA.gov product teams building forms that include prefilled data.
 - Staging review scheduled 
 
 
-## Requirements
-- Must be able to be used by any team that needs to display an error on a card
-- Must be able to accept unique error text
-- Must be able to maintain a unique card-id and error-id where appropriate
-- Must be able to have an active link in the card that maintains a unique accessible name
-- Must be able to disable error state
-- Must be able to display a colored tag to represent error state
-- Will not support card with icon variant
-- Will not support other states such as warning, info, or success
- 
+
 
 ## Risks and Mitigations
 | Risk                                               | Mitigation                                             |
