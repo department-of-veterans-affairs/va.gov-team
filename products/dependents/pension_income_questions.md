@@ -2,6 +2,7 @@
 
 - [Milestone](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1524) for this project.
 - [Design files](https://www.figma.com/design/7W55oNwdVXvXOTI9SaFzQ7/686c-Add-or-Remove-Dependents?node-id=5390-102987&t=YbZTPEYFhEHZIpFt-1) for this project.
+- [Question logic](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1690311086208/96d5f59b299912bc8c69542e6943d5b2213b9c72?wid=3-1750949761424)
 
 The pension line of business requested that VA.gov add two income-related questions to the 686/674 interview-style form flow on VA.gov, so dependent changes impacting pension benefits could be more efficiently processed. The y/n answers from those questions were to be sent by VA.gov to RBPS. RBPS would then determine if the claim could be auto-processed or if it needed to be off-ramped for manual review.
 
