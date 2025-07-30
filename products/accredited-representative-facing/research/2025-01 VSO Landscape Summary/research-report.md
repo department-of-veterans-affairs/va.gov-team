@@ -78,7 +78,7 @@ Based on November 2024 data from OGC, there are about 80 VSOs with accredited re
   + Vietnam Veterans of America
   + Wounded Warrior Project
 
-Disabled American Veterans, The American Legion and Veterans of Foreign Wars are the top three VSOs in terms of claims filed in 2023, and The American Legion has the most accredited representatives of any VSO ([See ARM analytics research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/2023-12-ARM-analytics/research-findings.md)). These three VSOs are in general very active relative to other VSOs.
+Disabled American Veterans, The American Legion and Veterans of Foreign Wars are the top three VSOs in terms of submissions made through QuickSubmit in 2023, and The American Legion has the most accredited representatives of any VSO ([See ARM analytics research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/2023-12-ARM-analytics/research-findings.md)). These three VSOs are in general very active relative to other VSOs.
 
 All “The Big 6” VSOs have branch offices across the United States; many — but not all other national VSOs (e.g., Fleet Reserve Association) have branch offices as well.
 
