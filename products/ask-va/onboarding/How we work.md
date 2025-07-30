@@ -32,9 +32,9 @@ Smart and capable people made decisions likely influenced by forces beyond their
 - Use Teams chat when you need a quick response from our VA partners.
 
 ### Scheduling meetings
-- Schedule meetings in Microsoft Teams from your VA.gov calendar. VA doesn't support. Many VA staff can't access it.
+- Schedule meetings in Microsoft Teams from your VA.gov calendar. VA doesn't support Zoom. Many VA staff can't access it.
 - Schedule team meetings or meetings with OCTO teams 5 minutes past the hour or half hour to give folks a break between back-to-back meetings. For meetings with VA partners, scheduling meetings exactly on the hour or half hour.
-- Default meetings to 30 minutes, unless there's a lot to cover. Then, schedule for an hour
+- Default meetings to 30 minutes, unless there's a lot to cover. Then, schedule for an hour.
 - Include a quick agenda and expected outcomes in the meeting invite.
 - Send pre-reads at least 24 hours before the meeting to give attendees time to reivew.
 - Reschedule your meeting if an essential attendee declines the invite, such as a key team member, subject matter expert, or decision-maker.
@@ -45,9 +45,10 @@ Smart and capable people made decisions likely influenced by forces beyond their
 - Avoid scheduling meetings on Fridays. Many VA employees work compressed schedules and are off every other Friday.
 
 ### Communicating with our partners
-- Talk to our sister Ask VA CRM team in either the #ask-va-integration Slack channel or our Teams General channel. Again, limit DMs. Work in the open as much as possible.
-- Use email when you need to talk to other VA partners, such as business lines.
+- Talk to the Ask VA CRM team in either the #ask-va-integration Slack channel or our Teams General channel. Again, limit DMs. Work in the open as much as possible.
+- Use email when you need to talk to other VA partners, such as business lines who are responsible for answering submitter questions.
 - Also use email if you need to request anything from the Ask VA CRM team, such as requesting work to be completed or access to tools.
+- When in doubt, ask your OCTO PO how best to communicate with our partners.
 
 ## Documentation
 - Use GitHub and SharePoint for documentation. Do not use Google Drive, DropBox, or other systems not approved or accessible by VA.
