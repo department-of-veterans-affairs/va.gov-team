@@ -1,6 +1,6 @@
 ```mermaid
 graph TD
-    subgraph External Systems
+    subgraph E[External Systems]
         S1(VA Profile)
         S2(BEP Service - Formerly BGS)
         S3(Veteran Enrollment System)
@@ -9,6 +9,7 @@ graph TD
         S6(MuleSoft)
         S7(Okta)
         S8(MPI - Formerly Master Veteran Index)
+        S9(AWS)
     end
 
     A[Health Enrollment Applications: 10-10EZ,10-10EZR,10-10CG]
@@ -21,4 +22,16 @@ graph TD
     A -- Submit Caregiver Application --> S6
     A -- Generate OAuth tokens for MuleSoft authentication --> S7
     A -- Validate Veteran Status --> S8
+    A -- File uploads, secrets management, etc  --> S9
+
+    style A fill:#005EA2
+    style S1 fill:#005EA2
+    style S2 fill:#005EA2
+    style S3 fill:#005EA2
+    style S4 fill:#005EA2
+    style S5 fill:#005EA2
+    style S6 fill:#005EA2
+    style S7 fill:#005EA2
+    style S8 fill:#005EA2
+    style S9 fill:#005EA2
 ```
