@@ -2,7 +2,7 @@
 
 ## Helpful Links
 
-- Feature flipper: [`cst_claim_letters_use_lighthouse_api_provider`](https://staging-api.va.gov/flipper/features/cst_claim_letters_use_lighthouse_api_provider)
+- Feature flipper: [`cst_claim_letters_use_lighthouse_api_provider`](https://api.va.gov/flipper/features/cst_claim_letters_use_lighthouse_api_provider)
 - DataDog Dashboard: [Benefits - Management Tools -  Claim Letters List and Download](https://vagov.ddog-gov.com/dashboard/zs5-erv-7fb?fromUser=false&refresh_mode=sliding&from_ts=1753386276650&to_ts=1753389876650&live=true)
 
 ## Phase I: Canary (1%)
@@ -45,7 +45,6 @@ What metrics-based criteria will you look at before advancing rollout to the nex
 
 ### Anticipated timeline
 
-- [ ] **2025/08/04** - Lighthouse team plans to deploy required change to production
 - [ ] **2025/08/07** - BMT1 to increase to 25%; monitor DataDog as described above
 - [ ] **2025/08/08** - BMT1 to increase to 50%; continue to monitor DataDog
 - [ ] **2025/08/09** - BMT1 to increase to 75%; continue to monitor DataDog

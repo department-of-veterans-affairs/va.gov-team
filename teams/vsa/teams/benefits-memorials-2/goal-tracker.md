@@ -63,13 +63,13 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 ## Sprint Goals - Sprint: 13 [7/16/25 - 7/29/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
-|UX: Share the Digital Dispute designs with the DMC for them to review and understand what Veterans will be seeing on the Debt Portal to facilitate seamless follow up with them during call support.| QP1 |--|--|--|
-|UX: Review designs for pay.gov with ENG and determine implementability.| QP3 |--|--|--|
-|UX: Refine content for Hardship Suspension with the Content Team.| QP5 |--|--|--|
-|ENG: Launch Digital Dispute.| QP1 |--|--|--|
-|ENG: Observe Digital Dispute submissions. Create report of request/response times and determine if we need to move request to DMC to a Sidekiq job. | QP1 |--|--|--|
-|ENG: Develop a plan if Digital Dispute needs to move to a DMC Sidekiq job.| QP1 |--|--|--|
-|ENG: Pay.gov MOU filled out and some next steps determined.| QP3 |--|--|--|
+|UX: Share the Digital Dispute designs with the DMC for them to review and understand what Veterans will be seeing on the Debt Portal to facilitate seamless follow up with them during call support.| QP1 |--|--|Completed|
+|UX: Review designs for pay.gov with ENG and determine implementability.| QP3 |--|--|Completed|
+|UX: Refine content for Hardship Suspension with the Content Team.| QP5 |--|--|Completed|
+|ENG: Launch Digital Dispute.| QP1 |--|--|Completed|
+|ENG: Observe Digital Dispute submissions. Create report of request/response times and determine if we need to move request to DMC to a Sidekiq job. | QP1 |--|--|Completed|
+|ENG: Develop a plan if Digital Dispute needs to move to a DMC Sidekiq job.| QP1 |--|--|Completed|
+|ENG: Pay.gov MOU filled out and some next steps determined.| QP3 |--|--|Completed|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [X] Ready to be sent for approvals (07/14/25)
@@ -81,6 +81,24 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 - [ ] All goals have been updated in the sprint chart
 - [ ] Any Additional details about goals **not** completed will be documented here
 
+## Sprint Goals - Sprint: 14 [7/30/25 - 8/12/25]  
+| Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
+|--|--|--|--|--|
+|UX: Confirm fields and format with Lighthouse for VHA payment history based on Fall 2024 study recommendations.| QP3 |--|--|--|
+|UX: Refine the Pay.gov mockups based on the feedback from our discussion with the FE team.| QP4 |--|--|--|
+|UX: Create user flows & mockups for Hardship Suspension that are user-friendly and meet DMC's requirements.| QP6 |--|--|--|
+|ENG: Complete 8 points of remaining Digital Dispute work addressing the 4 remaining staging review feedback tickets.| QP1 |--|--|--|
+|ENG: Investigate next steps for submissions via Sharepoint and determine how to proceed..| QP7 |--|--|--|
+
+**_Approvals:_** _(sent via email but approvals tracked here)_
+ - [X] Ready to be sent for approvals (07/28/25)
+ - [X] VA PO & COR sent the Sprint Goals (07/28/25)
+ - [ ] VA PO approved the Sprint Goals (07/XX/25)
+ - [ ] VA COR approved the Sprint Goals (07/XX/25)
+ 
+**_Delivery + Notes:_**
+- [ ] All goals have been updated in the sprint chart
+- [ ] Any Additional details about goals **not** completed will be documented here
 
 ---
 

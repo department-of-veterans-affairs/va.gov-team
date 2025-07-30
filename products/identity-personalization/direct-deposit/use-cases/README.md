@@ -1,6 +1,6 @@
 # Direct deposit use cases
 
-**Last updated: June 2025**
+**Last updated: July 2025** Added shared profile use cases.
 
 - [User flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1746465334851/afdc4978dfd4cd9880a90f4066e236095170365b?wid=0-1743526306164&outline=open)
 - [Figma files](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=0-1&t=YyRIssxrSn59rYTM-1)
@@ -21,17 +21,12 @@
 
 
 ## Current experience
-- For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the user will be directed to the Profile Account Security section. [See LOA1 account documentation.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
 - This page shows dyanmic Bank account information, which allows the user to update their direct deposit information. All other information this page is read only.
+- For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the user will be directed to the Profile Account Security section.
 
 
 ## Common use cases
-### User logs in with LOA1 account
-- [User logs in with an LOA1 account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
-
-
 ### User logs in with LOA3 account
-
 #### Bank account information section
 
 <details><summary>Ineligible: No payments detected</summary>
@@ -73,59 +68,12 @@ If you think this is an error, or think you have been a victim of bank fraud cal
 
 </details>
 
-
-<details><summary>Payments detected: Edit Bank account information</summary>
-
-- **Use case:** Triggered when a user clicks the Edit button.
-- **Status code:** None
-- **Content:**
-
-**Editing**
-- All fields appear inline in the Bank account information section. For security purposes, all fields are blank when edit mode is entered.
-- Errors appear inline with inputs per VADS component standards.
-- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2424-3990&t=eM3nXOqLcnsRrXAu-1)
-
-**Saving changes**
-- Once the form is successfully saved, the user is returned to "read" mode and a success alert displays above the edit button.
-- When Bank account information is changed, a confirmation email is sent to the user in case they did not make these updates. We send these emails to both the contact email address in the profile **and** the sign in email address in case of fraud. These confirmation emails have information on how to report fraud.
-- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2424-3987&t=eM3nXOqLcnsRrXAu-1)
-
-**Canceling changes**
-- If a user has made changes to any form field, and hits cancel, they'll be presented with a modal asking them to confirm they want to leave edit mode.
-- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2424-3984&t=eM3nXOqLcnsRrXAu-1)
-
-</details>
+[Payments detected: Edit bank account information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/profile-shared-use-cases.md#editing-information)
 
 
 ## Edge cases
-
-### Blocked users 
-- [See documentation here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/blocked-account.md)
-
-
-### Errors
-
-<details><summary>TemporaryOutage: Used for back end system outages</summary>
-
-- **Use case:** Error will appear when we are having issues connecting to the back end, and can't determine if they have direct deposit information to show. There is no action the user can take to correct this.
-- **Status code:** TBD
-- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
-- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2424-3899&t=eM3nXOqLcnsRrXAu-1)
-- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/cc4af4e2e0fed33ea05835acd63566fd02970abd/src/applications/personalization/profile/components/direct-deposit/alerts/TemporaryOutage.jsx#L32)
-- **Content:**
-
-H2: Direct deposit information isn’t available right now
-
-We’re sorry. Direct deposit information isn’t available right now. We’re doing some maintenance work on this system.
-
-Refresh this page or try again later.
-
-</details>
-
-
-### Bank account information section
-
-#### Validation
+### Validation
+#### Bank account information section
 
 <details><summary>InvalidRoutingNumber: Invalid routing number entered</summary>
 
@@ -170,8 +118,13 @@ We’re sorry. We couldn’t update your direct deposit bank information because
 
 </details>
 
- 
-#### Flags 
+
+### Flags
+[Blocked users documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/blocked-account.md)
+
+[User logs in with an LOA1 account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
+
+#### Bank account information section 
 
 <details><summary>PaymentRestrictionError: Account flagged for fraud</summary>
 
@@ -215,44 +168,48 @@ You can also update this information by mail or in person at a VA regional offic
 </details>
 
 
-#### Errors 
+### Errors
 
-<details><summary>GenericError: Used for all other errors</summary>
+<details><summary>TemporaryOutage: Used for back end system outages</summary>
 
-- **Use case:** Used as generic Bank account information PUT/UPDATE error.
-- **Status codes:**
-   - PUT **400** Bad request to BGS
-   - PUT **401** Unauthenticated user
-   - PUT **403** Forbidden user
-   - PUT **502** Bad gateway, API not receiving answer from back end server
-- **Format:** [Error alert component](https://design.va.gov/components/alert/#error-alert)
-- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2424-3905&t=eM3nXOqLcnsRrXAu-1)
-- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blame/8bb9e606cbe6ac0d17598e748a550218b5bf3f2f/src/applications/personalization/profile/components/direct-deposit/alerts/UpdateErrorAlert.jsx#L81)
+- **Use case:** Error will appear when we are having issues connecting to the back end, and can't determine if they have direct deposit information to show. There is no action the user can take to correct this.
+- **Status code:** TBD
+- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
+- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2424-3899&t=eM3nXOqLcnsRrXAu-1)
+- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/cc4af4e2e0fed33ea05835acd63566fd02970abd/src/applications/personalization/profile/components/direct-deposit/alerts/TemporaryOutage.jsx#L32)
 - **Content:**
 
-H2: We couldn't update your direct deposit information
+H2: Direct deposit information isn’t available right now
 
-We’re sorry. We couldn’t update your payment information. Please try again later.
+We’re sorry. Direct deposit information isn’t available right now. We’re doing some maintenance work on this system.
+
+Refresh this page or try again later.
 
 </details>
 
 
-<details><summary>This page is not available right now</summary>
+<details><summary>System error: Backend system down</summary>
 
-- **Use case:** Used as generic Bank account information GET/SHOW error.
+- **Use case:** Used as generic Bank account information GET/SHOW error. [Link to documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/profile-shared-use-cases.md#system-errors)
 - **Status codes:**
    - GET **401** Unauthenticated user
    - GET **403** Forbidden user
    - GET **502** Bad gateway, API not receiving answer from back end server
    - GET **503** Service unavailable
-- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert) replaced Bank information widget. Widget does not show.
-- [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2424-3902&t=eM3nXOqLcnsRrXAu-1)
-- [Link to code]
-- **Content:**
 
-H2: This page isn't available right now.
+</details>
 
-We're sorry. Something went wrong on our end. Refresh this page or try again later.
+
+#### Bank account information section 
+
+<details><summary>GenericError: Saving information: Error</summary>
+
+- **Use case:** Used as generic Bank account information PUT/UPDATE error. [Link to documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/profile-shared-use-cases.md#editing-information)
+- **Status codes:**
+   - PUT **400** Bad request to BGS
+   - PUT **401** Unauthenticated user
+   - PUT **403** Forbidden user
+   - PUT **502** Bad gateway, API not receiving answer from back end server
 
 </details>
  

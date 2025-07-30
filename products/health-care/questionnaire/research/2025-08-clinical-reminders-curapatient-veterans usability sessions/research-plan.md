@@ -57,9 +57,9 @@ Moderated, semi-structured usability sessions with Veterans.
 - Equipment: Veterans may choose to use native assistive devices during sessions; subject to participant recruitment.
 
 ### Research materials
-- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2025-08-clinical-reminders-curapatient-veterans%20usability%20sessions/conversation-guide.md)
-- CuraPatient prototype
-     - Log-in credentials: N/A
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/questionnaire/research/2025-08-clinical-reminders-curapatient-veterans%20usability%20sessions/conversation-guide.md)
+- [CuraPatient prototype link](https://dev-va.fed.curapatient.com/login#token=ujeqQNNzHPIuvydpeuuaJOEwx_W9ywAy8NL9X-KbKUA)
+
 
 ## Recruitment
 We are using a lean maximum variation sampling approach:
@@ -97,11 +97,26 @@ The prototype link is ready on July 28, 2025, for research review.
 ## Kick-off Call with Perigean
 Attention Chantel Salmon: A kick-off meeting is not required since it is the same recruitment criteria as 2025-07 Notable Questionnaire Platform, Healthcare Questionnaires Clinical Reminder Pilot: Usability Sessions with Veterans.
 
+## Perigean notetaker  
+A notetaker from Perigean is requested for sessions scheduled between the following times:  
+- August 4:
+   - 6:00 to 8:00  pm ET
+- August 5:
+   - 2:00 pm to 7:00 pm ET
+- August 6: 
+   - 2:30-5:00 pm ET
+   - 6:00-8:00 pm ET
+- August 7:
+   - 6:00-8:00 pm ET
+- August 8:
+   - 5:00- 6:00 pm ET
+
 ## Pilot test
 Pilot participant name: N/A
 
 ## Research sessions
 The planned dates for the research are August 4–8, 2025; however, these dates are tentative since they depend on Perigean's capacity for recruiting.
+**Note**: Each moderator can serve as a notetaker when the other moderator is conducting a session except for where noted. 
 
 ### Length of sessions
 1. Session length: 60 minutes
@@ -110,17 +125,28 @@ The planned dates for the research are August 4–8, 2025; however, these dates 
 
 ## Research session dates:
 1. **Moderator 1: Nina Anusavice**
-   - August 4: 12:00 pm to 6:00 pm ET
-   - August 6: 12:00 pm to 6:00 pm ET
-   - August 7: 12:00 pm to 6:00 pm ET
-   - August 8: 12:00 pm to 6:00 pm ET
+   - August 4: 
+      - 12:00 pm to 6:00 pm ET
+   - August 6:
+      - 12:30 pm to 6:00 pm ET
+   - August 7:
+      - 1:00 pm to 6:00 pm ET
+   - August 8:
+      -  12:00 pm to 5:00 pm ET
 
 2. **Moderator 2: Alyssa Li**
-   - August 4: 12:00 pm to 6:00 pm ET
-   - August 5: 12:00 pm to 6:00 pm ET
-   - August 6: 12:00 pm to 6:00 pm ET
-   - August 7: 12:00 pm to 6:00 pm ET
-   - August 8: 12:00 pm to 6:00 pm ET
+   - August 4:
+      -  12:00 pm to 8:00 pm ET
+   - August 5:
+      - 2:00 pm to 7:00 pm ET
+   - August 6: 
+      - 12:30 pm to 2:30 pm ET
+      - 5:00 pm to 8:00 pm ET
+   - August 7:
+      - 1:00 pm to 8:00 pm ET
+   - August 8:
+      - 12:00 pm to 6:00 pm ET
+
 
 ## Team Roles
 1. Moderator: 

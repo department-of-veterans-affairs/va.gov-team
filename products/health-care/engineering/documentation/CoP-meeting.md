@@ -44,8 +44,7 @@
   - Whats the current problem you are working on
   - Whats a recent success?
   - Pull Request Review of something interesting
+  - Show me the red
 - Pick as many problem/success and talk through it, in order
   - Polling?  
   - Ranked choice?
-    
-

@@ -1,10 +1,12 @@
-# Monitoring and On-Call Rotation
+# Monitoring On-Call
+
+**Purpose**: Respond to system alerts and maintain service reliability
 
 Created: 2025-07-25
 
 ## Overview
 
-The Health Portal on VA.gov relies on multiple systems to enable the health experience. When something goes wrong with VA.gov or any of the systems we rely on, we should know what to do or who to reach out to. The on-call rotation places responsibility on a few team members at any time for responding to those situations.
+The Health Portal on VA.gov relies on multiple systems to enable the health experience. When something goes wrong with VA.gov or any of the systems we rely on, we should know what to do or who to reach out to. The on-call rotation places responsibility on an on-call engineer for responding to those situations.
 
 ## How we work
 
@@ -16,9 +18,16 @@ An engineer from each tool team will be on-call for a 7 day period, with a new r
 
 The OCTO Watch Officer on-call may reach out when a Priority 1 and 2 (P1 and P2) monitor reaches or maintains an "error" state. The on-call engineer will take responsibility to respond to the Watch Officer and provide updates and resolution when needed.
 
+We will also utilize Slack groups that allow us to manage who is on-call and provide an easier way for folks to get in touch with the right person. Slack groups will be named according to team, with `-oncall` at the end, e.g. `@mhv-medical-records-oncall`.
+
 ### Future process
 
 When PagerDuty is migrated and configured to alert engineers when something goes wrong, periodic checking of Slack will be less important. Instead, engineers will acknowledge notifications from PagerDuty and begin the triage process in response.
+
+
+### Relation to Investigator On-call
+
+In addition to on-call responsibilities for monitoring, teams also have responsibilities for handling technical questions and research that arise during sprints. See [Investigator On-Call](./investigator-oncall.md) for details.
 
 ## How to triage
 
@@ -48,7 +57,7 @@ VA.gov and the MHV Frontend (`vets-website` and `vets-api`) depend on many other
 
 The alerts that come from Datadog can tell you when something is happening, but won't provide clear information about what is going wrong. The VA's monitors often use a measurement tool called [`statsd`](https://github.com/statsd/statsd) to monitor for statistical anomalies, but at the cost of links to logs that can provide more detail.
 
-## Relevant Links
+## Tools and Resources
 
 - [Platform OnCall docs](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/OnCall)
 - [Datadog](https://vagov.ddog-gov.com/): the tool that provides monitoring and logging capabilities
@@ -60,7 +69,7 @@ The alerts that come from Datadog can tell you when something is happening, but 
   - mhv-secure-messaging-alerts
   - va-cto-supply-reordering-alerts
   - mhv-platform-alerts
-
+- [Investigator OnCall](./investigator-oncall.md)
 
 
 

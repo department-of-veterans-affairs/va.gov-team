@@ -7,28 +7,28 @@ We've created this orientation checklist to help you learn about our team, what 
 If you have questions, don't hesitate to reach out to your OCTO practice lead, patrick.bateman@va.gov or your OCTO product lead katherine.lawyer@va.gov.
 
 ## Part 1: Publicly accessible info
-- [ ] [Get to know the team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/health-portal-team.md)
-- [ ] [Learn about how we work](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/how-we-work.md)
-- [ ] Schedule 15 min to meet with each of [your new team mates](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/health-portal-team.md#product-team-members)
+- [x] [Get to know the team](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/health-portal-team.md)
+- [x] [Learn about how we work](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/how-we-work.md)
+- [x] Schedule 15 min to meet with each of [your new team mates](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/health-portal-team.md#product-team-members)
 
 
 
 ## General MHV Info 
-- [ ] [Read an overview of My HealtheVet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/product-brief.md)
-- [ ] [Get familiar with some of our terminology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/terminology.md)
-- [ ] [Watch an overview of My HealtheVet on VA.gov created for Veterans](https://youtu.be/sTQ0dtUDGx0)
+- [x] [Read an overview of My HealtheVet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/product-brief.md)
+- [x] [Get familiar with some of our terminology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/terminology.md)
+- [x] [Watch an overview of My HealtheVet on VA.gov created for Veterans](https://youtu.be/sTQ0dtUDGx0)
    
-- [ ] Get to know Medications and the other MHV products
-   - [ ] [Landing page](products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page) / portal experience
-   - [ ] [Medical devices and supplies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-devices-and-supplies/product_brief.md)
-   - [ ] [Medical Records](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/README.md)
-   - [ ] [Medications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/README.md)
-   - [ ] [Messages](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging)
-   - [ ] [See what's new on My HealtheVet](https://www.va.gov/resources/my-healthevet-on-vagov-what-to-know/)
+- [x] Get to know Medications and the other MHV products
+   - [x] [Landing page](products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page) / portal experience
+   - [x] [Medical devices and supplies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-devices-and-supplies/product_brief.md)
+   - [x] [Medical Records](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/README.md)
+   - [x] [Medications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/README.md)
+   - [x] [Messages](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging)
+   - [x] [See what's new on My HealtheVet](https://www.va.gov/resources/my-healthevet-on-vagov-what-to-know/)
 
 ## GitHub Info
-- [ ] [Take a look at the VA GitHub Handbook](https://department-of-veterans-affairs.github.io/github-handbook/)  ‼️Note that as of July 2025, [VA has begun the process of migrating VA GitHub resources to GitHub Enterprise Cloud](https://department-of-veterans-affairs.github.io/github-handbook/migrations)
-- [ ] [Check out some helpful info about creating documents in GitHub](https://docs.github.com/en)
+- [x] [Take a look at the VA GitHub Handbook](https://department-of-veterans-affairs.github.io/github-handbook/)  ‼️Note that as of July 2025, [VA has begun the process of migrating VA GitHub resources to GitHub Enterprise Cloud](https://department-of-veterans-affairs.github.io/github-handbook/migrations)
+- [x] [Check out some helpful info about creating documents in GitHub](https://docs.github.com/en)
 
 <!-- ALL TEAM MEMBERS -->
 ## VA Platform orientation for all team members

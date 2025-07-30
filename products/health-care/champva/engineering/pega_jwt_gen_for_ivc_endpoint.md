@@ -1,11 +1,13 @@
 # JSON Web Token (JWT) for Pega Status Update Endpoint
 
-Run this in rails console to get the JWT then put that into Postman with the POST calls.
+This document illustrates the process for authenticating to the IVC CHAMPVA endpoint that Pega uses to perform status updates on submissions stored in our database.
 
-[Potentially useful thread on testing non-idempotent endpoints (POST, PATCH) in hosted vets-api, where you'd usually be stymied by the invalid authenticity token CSRF protection error](https://adhoc.slack.com/archives/C5SR3DCDR/p1737136253709329?thread_ts=1736786231.310409&cid=C5SR3DCDR)
+Run this in rails console to get the JWT then put that into Postman with the POST calls.
 
 **For staging:**
 ```ruby
+# From the root of vets-api repository, start a rails console
+
 current_time = Time.now.to_i
 jti = SecureRandom.hex
 token = {
@@ -27,6 +29,8 @@ jwt = JWT.encode(token, private_key, 'RS256')
 **For localhost:**
 
 ```ruby
+# From the root of vets-api repository, start a rails console
+
 current_time = Time.now.to_i
 never_expire_timestamp = current_time + (100 * 365 * 24 * 60 * 60)
 token = {
@@ -53,3 +57,15 @@ jwt = JWT.encode(token, private_key, 'RS256')
 
 ![image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/images/jwt_generation_3.png)
 
+## Appendix
+
+[Potentially useful thread on testing non-idempotent endpoints (POST, PATCH) in hosted vets-api, where you'd usually be stymied by the invalid authenticity token CSRF protection error](https://adhoc.slack.com/archives/C5SR3DCDR/p1737136253709329?thread_ts=1736786231.310409&cid=C5SR3DCDR)
+
+From the above link:
+
+> ... you can test your non-idempotent endpoints (POST, PATCH) in hosted vets-api, where you'd usually be stymied by the invalid authenticity token CSRF protection error:
+> 1. Follow the steps to authenticate above
+> 2. Make a request to https://staging-api.va.gov/v0/user?user=<some-user-uuid>
+> 3. From the response headers, copy the value of the X-Csrf-Token
+> 4. Add a header to your request called X-Csrf-Token with the value set to the value you copied earlier
+> 5. Make the request

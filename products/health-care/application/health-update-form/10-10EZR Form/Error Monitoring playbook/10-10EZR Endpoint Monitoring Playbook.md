@@ -91,6 +91,35 @@ _last updated: 5/16/2025_
 
 ---
 
+# Monitor: 1010EZR submission job has failed and did not retry
+
+## Slack & Email Alert: "Triggered: 1010EZR submission job has failed and Did Not Retry"
+
+- Form submission job has failed due to a parsing error within the the body of the request and did not retry.
+
+### Required access
+
+- [OCTO Datadog instance](https://vagov.ddog-gov.com/), read-only access
+- [DSVA Slack](dsva.slack.com)
+  - #1010-health-apps channel
+  - #health-tools-1010-apm channel
+  - #vfs-platform-support channel
+- SOCKS access to review [Sentry logs](http://sentry.vfs.va.gov/organizations/vsp/issues/)
+
+### Steps
+
+- Alerts must be addressed timely. During working hours, the alerts must be addressed as priority over other work.
+- First team member (Engineer, Data Analyst, PM) to respond to the alert within the #health-tools-1010-apm Slack Channel will add an emoji or comment on the alert thread that they are reviewing the issue
+- Investigate the failure to determine root cause, engaging Enrollment System/Joshua Faulkner if needed
+  - This includes reviewing Datadog, Sentry logs, Platform Support slack channel for other reports, etc.
+- If the failures are found to originate outside the form or the root cause is not readily apparent, the team will open a Platform Support ticket for assistance
+- Obtain Veteran contact information (Name, Phone number, Email address)
+- Send the Veteran contact information via **secure, encrypted email** (from va.gov email address) to VHAHECEEDAdministrators@va.gov
+  - Explain what has happened (submission failure) and provide the Veteran contact info.
+  - Copy PO (Patrick Bateman) and team PMs (VA emails only)
+
+---
+
 # Monitor: 1010EZR controller error rate is above 5%
 
 ## Slack & Email Alert: "Triggered: 1010EZR controller error rate is above 5%"

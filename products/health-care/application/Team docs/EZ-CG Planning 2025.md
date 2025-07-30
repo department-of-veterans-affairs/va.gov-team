@@ -1,6 +1,48 @@
 # 2025 Sprint Planning for EZ-CG Team
 - Current Sprint first
 
+## 📆 Sprint 26 (July 30 - Aug 13)
+
+### Team Initiative
+#### Obj: Platform requests - Security documentation
+- [#115392](https://github.com/department-of-veterans-affairs/va.gov-team/issues/115392) - [Eng, PM] Platform security documentation request
+
+### 10-10EZ
+
+#### Obj: EZ [Save in-progress for List & Loop](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94818)
+- [#95284](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95284) - [FE] Update Dependent section (CARRIED - pending PRs)
+
+#### Obj: [Insurance page updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90159)
+- [#94500](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94500) - [QA] Follow-up to complete testing on L&L pattern (CARRIED)
+
+#### Obj: EZ [Improvements/BUGS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
+- [#113841](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113841) - [BE, FE] CSRF at Platform level (CARRIED)
+- [#114233](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114233) - [BE] Update engineering documentation to reflect BEP in place of BGS (CARRIED)
+- [#114303](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114303) - [Eng] Engineering documentation updates (CARRIED)
+- **Stretch** [#114338](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114338) - [BE] Investigate in-progress emails being sent when application has been submitted
+- **Stretch** [#114391](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114391) - [BE] Update DOB validation
+- **Stretch** [#114375](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114375) - [QA] Validate header & accordion updates
+- **Stretch** [#113894](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113894) - [BE] Update phone number prefill to strip international numbers
+
+#### Obj: EZ [Form Statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95313)
+- [#105833](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105833) - [Eng] Discovery on how we can confidently refer "pending" Veterans to EZR (CARRIED)
+
+## 
+### 10-10CG
+
+#### Obj: CG [Improvements/BUGs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40165)
+- [#114309](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114309) - [Eng] Engineering documentation updates (CARRIED)
+- [#114311](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114311) - [UX] Design/Research documentation updates (CARRIED)
+
+##
+### Team PTO
+- Luis: 7/31 - 8/1
+- Alex: 8/1
+- Mitch: 8/1 - 8/8
+- Liza: 8/5
+- Matt: 8/7 - 8/8
+
+----
 ## 📆 Sprint 25 (July 16 - July 29)
 
 ### 10-10EZ

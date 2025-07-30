@@ -11,53 +11,33 @@ body:
     label: Value Statement 
     description: Describe the story
     placeholder: |
-      As a... 
-      I want to... 
-      So that... 
+      As a **user**
+      I want to **do something** 
+      So that **something happens**
 - type: textarea
   attributes:
-    label: Background Context
-    description: What's the context?
-    placeholder: Add here
+    label: Description
+    description: What's the context? 
+    placeholder: | 
+      - Describe the scope of the ticket and include any context and details of the work that will be done 
+      
+      - Add dependencies, open questions, and other relevant details as needed
 - type: textarea
   attributes:
     label: Tasks
     description: What are the tasks for this work?
     placeholder: |
-      - Task
-      - Task
-      - Task
+      - [ ] Task
+      - [ ] Task
+      - [ ] Task
 - type: textarea
   attributes:
-    label: Dependencies
-    description: What's things is this work dependent on?
-    placeholder: Add here
-- type: textarea
-  attributes:
-    label: Out of scope
-    description: What's things are NOT in scope for this work?
-    placeholder: Add here
-
-- type: textarea
-  attributes:
-    label: Open questions
-    description: Are there any open questions?
-    placeholder: Add here
-
-- type: textarea
-  attributes:
-    label: Acceptance Criteria
-    description: What is the acceptable conditions to consider this work complete?
+    label: Acceptance Criteria 
+    description: What are the acceptable conditions to consider this work complete? 
     placeholder: |
-      - AC
-      - AC
-      - AC
-- type: textarea
-  attributes:
-    label: Outcome, Success Measure, KPI(S), and Tracking Link
-    description: Measuring success of this work
-    placeholder: Add here
-
+      - [ ] AC
+      - [ ] AC
+      - [ ] AC
 - type: checkboxes
   attributes: 
     label: Definition of Done
@@ -67,4 +47,14 @@ body:
       - label: Passed all testing coverage
       - label: Code or content reviewed (Internal)
       - label: Reviewed and approved by product and/or design
+
+- type: checkboxes
+  attributes:
+    label: Refinement Checklist! 
+    description: Make this ticket ready to work
+    options: 
+      - label: Add description, tasks and AC
+      - label: Add estimation
+      - label: Add the proper labels, team and priority
+      - label: Add a parent 
     

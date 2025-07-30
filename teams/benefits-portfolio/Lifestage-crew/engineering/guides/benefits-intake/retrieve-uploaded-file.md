@@ -55,3 +55,34 @@ curl -X GET 'https://sandbox-api.va.gov/services/vba_documents/v1/uploads/{benef
   --header 'accept: application/json'
 ```
 
+#### Retrieving the form submission JSON payload
+1. In a browser, navigate to:
+   - Staging: https://argocd.vfs.va.gov/applications/vets-api-staging
+   - Production: https://argocd.vfs.va.gov/applications/vets-api-prod
+
+|<img width="540" alt="ArgoCD Pod view" src="https://github.com/user-attachments/assets/c06191cc-7603-43cd-b021-6ed562b67add" />
+|-
+
+2. Mouse over one of the green boxes with a white checkmark and you should see a popup:
+
+|<img width="350" alt="ArgoCD Pod info" src="https://github.com/user-attachments/assets/a7ec6eb8-d8c8-411f-9a5f-695c42aa3eca" />
+|-
+
+3. Each green box represents a node that is running for the vets-api application. You will want to find a node that starts with either `vets-api-web` or `vets-api-sidekiq` as those node types will give you access to a rails console
+
+4. Once you find a node running the correct process, click the green box and then click `Exec` from the popup menu
+
+|<img width="160" alt="ArgoCD Pod options" src="https://github.com/user-attachments/assets/bcc4c4b0-4b44-4f90-b69d-ac8b009094e7" />
+|-
+
+|<img width="540" alt="vets-api process terminal" src="https://github.com/user-attachments/assets/95d97f1b-3b8d-4605-9312-d3efa1b196ab" />
+|-
+
+5. In the command line on the terminal, enter the following: `bundle exec rails console --sandbox`
+6. Once the rails console loads, type the following command: `IncomeAndAssets::SavedClaim.find_by(guid: {confirmation_number}).form` (make sure to replace `{confirmation_number}` with the actual confirmation number
+7. This should give you the form submission JSON
+
+|<img width="800" alt="terminal output" src="https://github.com/user-attachments/assets/9e9bf30f-be3b-4c5e-a51b-e6d7c98f3ce8" />
+|-
+
+8. If you want to clean up the formatting, copy the output from the rails console and open a console in your browser. You can then type `JSON.parse()` and insert the JSON output you copied earlier in between the opening and closing parenthesis. This should return the JSON in a more recognizable format that you can then copy

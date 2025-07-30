@@ -14,6 +14,8 @@ This folder contains our design and research documentation.
 
 ## How to reach us
 
-You can join [#ask-va-design](https://dsva.slack.com/archives/C06QUGXJD8R) or reach out:
+Join [#ask-va-design](https://dsva.slack.com/archives/C06QUGXJD8R) or reach out to @beckyphung.
+
+Our former designers
 - Tyler Gindraux: tyler@bluetiger.digital
 - Thomas Michaud: thomas.michaud@oddball.io

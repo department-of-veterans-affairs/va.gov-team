@@ -50,13 +50,13 @@ There are a few of my teammates who would like to observe this session as well. 
 
 Could the observers please turn their cameras off now to save bandwidth? 
 
-Today we're going to talk about filling out forms from the VA mobile app. I'm going to ask you a few questions, and then I'll have you do some specific tasks using a website that I will share with you.
+Today we're going to talk about filling out forms from the VA mobile app. I'm going to ask you a few questions, and then I'll have you do some specific tasks using the VA Health & Benefits App that I will share with you via a link here in a bit. As you go through these steps please speak aloud your thoughts and actions to help us understand more about your experience.
 
 Before we start, I want to go over a few things:
 
 - **This entire session may take 60 minutes.** I want to be sure not to keep you longer, so I may occasionally prompt you with the next question or topic.
   
-- **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. We're testing a website to learn how we can make it easier to use. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
+- **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. We're testing an app to learn how we can make it easier to use. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
 - **Your participation in this interview is completely voluntary.** Whether or not you choose to participate will not affect your benefits with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Just let me know.
 
 - Finally, I would like to record my screen and audio to confirm that I’ve captured your opinions accurately and sometimes share video clips with our colleagues at the VA to show user feedback. If we do this, we don’t link anything you choose to share in the session to any information that identifies you, and we remove your face and name from any videos that we share.
@@ -77,14 +77,16 @@ In the bottom toolbar of the Zoom window, click the arrow next to **SHOW CAPTION
 *After checking that transcription is working, close the Transcript panel by clicking **Close Full Transcript** in the Show Captions menu.*
 
 ## Screen sharing instructions (if needed)
-- In the Zoom application on your mobile device, there's a row of buttons at the bottom. In the center is a button that says **Share** *(on your phone, you may need to scroll sideways or click **More...**)*
+- In the Zoom application on your mobile device, click the **More...** button and then click **Share** *(on your phone, you may need to scroll sideways)
   - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
   - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
 
 - Now I'd like you to share your screen with me. Tap on the button that says **Share**. Then there will be options for what to share. Please choose **"Screen"** (phone) or your web browser.
 - Great, now I can see your screen! Thank you for your patience in figuring this out.
+- Is anything in these instructions unclear or confusing to you? Is there any language you’d change?”
 
 - iPad: **Broadcast screen**
+- 
 ## Troubleshooting
 - [Avoid **AI Companion**, which is a new option next to “Share” in the Zoom buttons]
 
@@ -102,11 +104,11 @@ Let’s start with a few questions...
 2. What kind of device are you using today? *(Tablet / Smartphone)*
     - *(If not the expected device, ask to rejoin that way)*
 
-3. What operating system if on your device? *(iOS / Android / _______)*
+3. What operating system is on your device? *(iOS / Android / _______)*
 
 4. What is the default web browser set up on your device? *(Chrome / Firefox / Edge / Safari / _______)*
 
-4. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, put it in the Zoom chat, email it to you, or *(for smartphone only)* text it to you. *(RECORD)* 
+4. I will be sharing a link with you during the session that will take you to the testing app. How would you prefer to receive the URL? I could dictate it to you, put it in the Zoom chat, or email it to you. 
 
    - *(If text or email)* Could the notetaker please text/email the link now? (include link here)
 
@@ -145,6 +147,15 @@ Did you get the link?
 
 Please click the (green) "Continue" button.
 
+Instructions to access prototype (must access from your mobile device):
+1. Use the link provided to install test flight on your mobile device.
+2. Once you've installed it (or if you already have it installed), select step 2 "view in test flight" from your mobile device.
+3. Under App Informaton at the bottom of the screen, select "Previous builds"
+4. Select the VA Health and Benefits mobile app version: 2.55.1
+5. Select 'Install' button next to correct build number 2871 (may have to select Load more builds to find version).
+6. It can take a few minutes to download.
+7. Once downloaded select "next".
+8. Select "start testing" from the Share feedback screen.
 
 **for Android users:** 
 You will receive an email invite to the email you supplied us to download the testing app. Please navigate to your email and select that link now.
@@ -163,15 +174,23 @@ As we go through the steps in this study, please talk aloud about what you're th
 
 [When they get to the homepage:] Please stop here so I can give you the next instruction.
 
+### Questions for testing participant: 
+
+Did you encounter any issues using your [screen reader/assistive tech/device]? 
+
+Was any part hard to navigate or understand?
+
 
 ## Task 2: Start a statement
-Pretend that you need to start a new statement with the VA by completing a form. Where would you go in the mobile app to start a new statement?
+Pretend that you need to start a new statement with the VA by completing a form. Where would you expect to find forms like these in the VA mobile app? What would you expect this section to be called?
 
 [Select 'Go to forms' > Click the button 'Start a new statement' > Read the text on this page and continue on by clicking on the button 'Start a new statement', Read through the screen 'What would you like to do?' > Select 'What I want to do isn't listed here' > Click 'Continue'.]
 
 Reminder to speak aloud any thoughts, reactions, or questions you have during this process.
 
 ### Watch for:
+- In this step, what did the participant expect to happen?
+    - Did they mention any previous experience or confusion?
 - How the user gets to forms. Do they click anything other than "Go to Forms"? Y/N
     - If Y, where do they go instead?
 - Does the user mentions any confusion on where to go to start a new statement. Y/N
@@ -182,8 +201,11 @@ Reminder to speak aloud any thoughts, reactions, or questions you have during th
 Please fill out this form to submit your statement, but I want you to use fake details so you don't share your personal information with me.
 
 - Supply form entry data for participant to enter as they go through the form.
+- Note: An invalid social security number is provided to intentionally throw an error. Observe the user's reaction to this error and document any attempt to troubleshoot.
 
 ### Watch for:
+- In this step, what did the participant expect to happen?
+    - Did they mention any previous experience or confusion?
 - Does the user encounter any errors when entering the data into the form fields? Y/N
     - If Y, what field do they encounter errors on?
       - What triggered the error specifically?
@@ -194,6 +216,12 @@ Please fill out this form to submit your statement, but I want you to use fake d
 - Does the user express thoughts of frustration while completing the form? Y/N
     - If Y, what did they experience when expressing the frustration?
 
+### Questions for testing participant: 
+
+Did you encounter any issues using your [screen reader/assistive tech/device]? 
+
+Was any part hard to navigate or understand?
+
 
 ## Task 4: (After SSN before 'Continue') take a break in filling out the form
 Pretend you need to step away from the form for an extended period of time, you can leave the form now.
@@ -201,36 +229,79 @@ Pretend you need to step away from the form for an extended period of time, you 
 [Click 'Done' to exit the form]
 
 ### Watch for:
+- In this step, what did the participant expect to happen?
+    - Did they mention any previous experience or confusion?
 - Does the user select anything other than Done to leave the form? Y/N
     - If yes, what does the user do?
 - Does the user express doubt that their work will be saved? Y/N
 
+### Questions for testing participant: 
+
+Did you encounter any issues using your [screen reader/assistive tech/device]? 
+
+Was any part hard to navigate or understand?
+
+
 ## Task 5: Continue completing the started form and submit
-Pretend you are ready to come back to your previous form to complete it.
+Pretend you are ready to come back to your previous form to complete it. Please locate the form and bring it up to complete. I have some updated information to supply you here to allow you to complete this form.
+
+- Supply acceptable social security number to correct error and allow the user to advance in the form fields.
 
 [From forms, under 'Statement in Support of a Claim' see 'In Progress' form previously started, click 'Continue form']
 
 ### Watch for:
+- In this step, what did the participant expect to happen?
+    - Did they mention any previous experience or confusion?
 - Does the user understand that they are continuing with the same form they started at the beginning of the session? Y/N
     - If no, what do they mention that is confusing?
 - Is the user able to complete the started form? Y/N
     - If no, what prohibited them from submitting the initial form?
+
+### Questions for testing participant: 
+
+Did you encounter any issues using your [screen reader/assistive tech/device]? 
+
+Was any part hard to navigate or understand?
+
+Did you find navigation particularly challenging in any way?
+
+If Y, why?
+
+Did you find any labels particularly confusing on the form?
+
+If Y, what labels specifically and how might they be improved for clarity?
  
 ### Task 6: View submitted form
 Now that you have completed the form, navigate back to the general forms location in the app.
 
 [Select 'Done' to exit the confirmation page, Go to 'Forms']
 
-Based on this screen, can you confirm that you have submitted your form?
+### Questions for testing participant: 
+- Based on what you see now, how do you know the form was submitted? 
+
+- What does this status mean to you? 
+
+- What would you expect to see if you needed to check on your submission later?
 
 ### Watch for:
+- In this step, what did the participant expect to happen?
+    - Did they mention any previous experience or confusion?
 - Does the user express confidence that they have completed and submitted their form?
     - If no, what is confusing to them and why?
 - DOes the user understand the status of the form?
     - If not, what do confusion do they express when interpretting the form status?
+    - 
+### Questions for testing participant:
 
+Did you encounter any issues using your [screen reader/assistive tech/device]? 
+
+Was any part hard to navigate or understand?
 
 ## Thank You and Closing - 3 minutes
+
+**How easy or difficult did you find this process overall?**
+
+**Was there any part that felt especially frustrating or mentally tiring?**
 
 **Are you still okay if we use any video or audio clips from this session?** 
 - *(yes / no)*

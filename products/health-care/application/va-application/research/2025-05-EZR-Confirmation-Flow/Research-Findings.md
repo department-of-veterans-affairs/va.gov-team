@@ -37,13 +37,11 @@
 
 ## Research Questions
 
-*List the research questions that guided this study.*  
+**Spouse Information:** Test the usability of the spouse information section to see if the Veterans follow the conditional logic, what information can be updated, and whether the information presented is comprehensible.
 
-* Question 1
-* Question 2
-* Question 3
+**Confirmation Flow:** Validate that the confirmation flow (Option Red), using the List&Loop component, is more efficient than the existing MVP approach (Option Green).
 
-[Example Research Questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-questions)
+**Gray Reference Card:** Understand how the Veterans expect the previous year’s data to be prefilled, and do they understand the hierarchy of the information.
 
 ## Methodology 
 
@@ -87,19 +85,11 @@ Note that after the spouse section, users will fork for A/B testing of the propo
 
 [Example Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)
 
-**1.** Finding one
+**1.** Participants expressed a clear understanding of the spouse and financial information List&Loop component.
 
-**2.** Finding two
+**2.** There is a slightly higher preference for Optional Red (Confirmation Flow) over Option Green (existing MVP flow). 
 
-**3.** Finding three
-
-**4.** Finding four
-
-**5.** Finding five
-
-**6.** Finding six
-
-**7.** Finding seven
+**3.** Many participants expected VA.gov to operate in ways consistent with their mental models.
 
 
 ## Details of Findings 
@@ -118,6 +108,15 @@ Brief description
 ---
 
 ## **Additional Insights**
+
+**1.** Participants generally found the flow easy to use, which aligns with findings from perious studies.
+
+**2.** Shortcomming of Figma prototype
+
+**3.** Prefers the online experience over phone
+
+**Additional Insight 1:** 
+
 *Include insights that do not represent patterns but are still valuable.*  
 > **TIP:** These could be powerful user comments or unexpected issues worth noting
 

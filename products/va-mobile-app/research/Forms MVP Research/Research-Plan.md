@@ -2,9 +2,9 @@
 	# Research Plan for [VA Flagship Mobile Team, VAHB Mobile App, June, 2025]
 
 ## Background 🏗️
-Briefly describe the background of your product.
+Briefly describe the background of your product. 
 	
-The VA Mobile App team recently resolved SSO issues that had previously prevented Veterans from accessing VA.gov within a web view while maintaining their authenticated state. 
+The [VA Mobile App](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/archive/2021/Product-Outline.md) team recently resolved SSO issues that had previously prevented Veterans from accessing VA.gov within a web view while maintaining their authenticated state. 
 
 This technical improvement creates a new opportunity to integrate the Forms feature into the mobile app, functionality that is not currently available. 
 
@@ -117,11 +117,21 @@ Provide a link to any materials you need to run your study, including any materi
 **For moderated usability tests:** 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/Forms%20MVP%20Research/Conversation-guide.md)
 - [Link to prototype](https://testflight.apple.com/join/RrO0Cw2q)
+- *Instructions to access prototype (must access from your mobile device):
+  1. Use the link provided to install test flight on your mobile device.
+  2. Once you've installed it (or if you already have it installed), select step 2 "view in test flight" from your mobile device.
+  3. Under App Informaton at the bottom of the screen, select "Previous builds"
+  4. Select the VA Health and Benefits mobile app version: 2.55.1
+  5. Select 'Install' button next to correct build number 2871 (may have to select Load more builds to find version).
+  6. It can take a few minutes to download.
+  7. Once downloaded select "next".
+  8. Select "start testing from the Share feedback screen.
+  9. In order to test the prototype our developer needs to launch codespace during your session. Please ping researcher developer Ken Li to run codespace during your prototype (slack K_li). 
 	
 ## Recruitment 🎯	
 
 ### Recruitment approach
-We would like Pergean's support in recruiting eligibile participants for the study. 
+We would like Pergean's support in recruiting eligibile participants for the study. Targeting 11 participants for recruiting, aiming for 8 completed sessions minimum.
 
 ### Recruitment criteria
 - Must have interacted with the mobile app at least once
@@ -157,12 +167,12 @@ During the session:
 
 If Android, pleae request their email where an invitation to the testing link will be sent. 
 
-3. Are you willing to download the va mobile app, and zoom mobile app to complete the session?
+3. Are you willing to download the test flight app, the va mobile app, and the zoom mobile app to complete the session?
    
 - Yes would qualify them for the study
 - No would disqualify them
 
-4. Have you ever used the VHB app before?
+4. Have you ever used the VHB app before? If so, describe how often you use the app and what you primarily use the app for.
 - Yes would qualify them for the study
 - No would disqualify them
 
@@ -172,7 +182,7 @@ If Android, pleae request their email where an invitation to the testing link wi
 
 ### Optional Kick-off Call with Perigean
 
-- `Suggested dates and times:` **[07/21-07/23 09-11:30am EST]**
+- `Suggested dates and times:` **[07/31-08/01 09-4pm EST, or after 08/11 11am-4pm EST]**
 
 ### Prepare
 *When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).*
@@ -182,10 +192,10 @@ If Android, pleae request their email where an invitation to the testing link wi
 > **Send pilot participant email in study Slack channel**
 
 - `Pilot participant name:` **[Brenda Rocha Barraza]**
-- `Date and time of pilot session:` **[07/23, 3:00pm-7:00pm]** 
+- `Date and time of pilot session:` **[08/11, 1:00pm-3:00pm]** 
 
 ### Research sessions
-- `Planned dates of research:` **[07/28-08/1]**
+- `Planned dates of research:` **[08/12-08/15]**
 
 ### Length of sessions
 - `Session length: **60 minutes**
@@ -202,10 +212,10 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 >
 > **Place time slots between `hash marks` when in edit mode.**
 
-- `[07/28, Monday, 10:00 AM-7:00 PM] EST`
-- `[07/29, Tuesday, 10:00 AM-7:00 PM] EST`
-- `[07/31, Thursday, 10:00 AM-7:00 PM] EST`
-- `[08/01, Friday, 10:00 AM-7:00 PM] EST`
+- `[08/12, Tuesday, 10:00 AM-7:00 PM] EST`
+- `[08/13, Wednesday, 10:00 AM-7:00 PM] EST'
+- '[08/14. Thursday, 10:00 AM-7:00 PM] EST`
+- '[08/15, Friday, 10:00 AM-4:00 PM] EST`
 
   
 ## Team Roles  🕵️👩‍💻👩‍🔬

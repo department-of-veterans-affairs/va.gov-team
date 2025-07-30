@@ -1,6 +1,30 @@
 # 2025 Sprint Planning for EZR Team
 - Current Sprint first
 
+## 📆 Sprint 26 (July 30-August 13) Last sprint in POP
+
+### 10-10EZR 
+
+#### Obj: EC/NoK
+[Team/FE] 10-10EZR: EC/NoK Phased Release	https://github.com/department-of-veterans-affairs/va.gov-team/issues/108518
+
+#### Obj: V2 Household
+[QA] 10-10EZR: Household section V2: Test Dependent Section	https://github.com/department-of-veterans-affairs/va.gov-team/issues/105896
+[FE] 10-10EZR: Prefill Spouse Information V2	https://github.com/department-of-veterans-affairs/va.gov-team/issues/112998
+[FE] 10-10EZR V2 Confirmation Flow: "Spouse" section	https://github.com/department-of-veterans-affairs/va.gov-team/issues/98827
+[QA] 10-10EZR: Household Section V2: Financial Section QA	https://github.com/department-of-veterans-affairs/va.gov-team/issues/105904
+[Research] 10-10EZR : V2 Confirmation Flow - Draft Summary of Findings	https://github.com/department-of-veterans-affairs/va.gov-team/issues/112224
+[FE/UX] 10-10EZR: Household financial section - Validation error message is not clear when a letter is inputted into the box	https://github.com/department-of-veterans-affairs/va.gov-team/issues/93836
+
+#### Obj: Documentation 
+[UX] 10-10EZR: Design Documentation Updates	https://github.com/department-of-veterans-affairs/va.gov-team/issues/115038
+[FE/BE] 10-10EZR: Developer Documentation Updates	https://github.com/department-of-veterans-affairs/va.gov-team/issues/115039
+[FE/BE] 10-10ALL - Platform Security Documentation Request https://github.com/department-of-veterans-affairs/va.gov-team/issues/115392
+
+### Team PTO 
+Luis 7/31-8/1
+Alex 8/1
+
 ## 📆 Sprint 25 (July 16-July 29)
 
 ### 10-10EZR

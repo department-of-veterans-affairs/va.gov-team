@@ -1,5 +1,5 @@
 > [!NOTE]
-> **Last Updated:** `6/11/2025`
+> **Last Updated:** `7/28/2025`
 
 # Templates for Accessibility Audits
 The following accessibility audit documentation has been created via Google Docs, in order to create the most accessible version of each document for our team. Rather than duplicate this content, we are linking to the shared Google files,below.
@@ -22,7 +22,7 @@ ADE support offerings are detailed in the [ADE Menu of Services](https://github.
 
 - We can review coded products, either on staging or CodePen. We test with assistive technology, review for accessibility best practices, and ensure that the product meets OCTO-DE accessibility experience standards.
 - We can also help you prepare the [required accessibility testing artifact](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review#artifact) for the Collaboration Cycle.
-- We can audit products for accessibility issues on desktop and mobile devices (subject to device availability among CAIA specialists).
+- We can audit products for accessibility issues on desktop and mobile devices (subject to device availability among ADE specialists).
 
 ### Templates
 - [Desktop Audit: Google Doc](https://docs.google.com/document/d/1Lerxk2rZp9Eeyb1XUP_9YCsYtKUdSxMCrzDzYj726xs/edit?usp=drive_link) (permissions needed)
