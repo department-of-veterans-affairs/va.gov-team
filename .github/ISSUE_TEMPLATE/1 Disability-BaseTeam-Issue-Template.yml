@@ -34,9 +34,9 @@ body:
     label: Acceptance Criteria 
     description: What are the acceptable conditions to consider this work complete? 
     placeholder: |
-    - AC
-    - AC
-    - AC
+      - AC
+      - AC
+      - AC
 - type: checkboxes
   attributes: 
     label: Definition of Done
