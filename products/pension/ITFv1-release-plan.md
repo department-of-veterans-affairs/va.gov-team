@@ -23,13 +23,13 @@ As outlined in the [intiative brief](https://github.com/department-of-veterans-a
 1. Applications In-Progress
    - Before full release:
       - Unauthenticated Users: Intent to File functionality is not available to unauthenticated users.
-      - Authenticated Users: If the user maintains a single active session, they will complete the legacy, back-end only version of the Intent to File. If they leave a session and start a new one, they may be directed to the updated version (v1) of the form with clarifing language prsented about ITF depending on the level of incremental traffic set for the legacy form (50%/100%).
+      - Authenticated Users: If the user maintains a single active session, they will complete the legacy, back-end only version of the Intent to File experience. If they leave a session and start a new one, they may be directed to the updated version (v1) of the form with clarifying language presented about ITF, depending on the level of incremental traffic set for the legacy form (50%/100%).
    - After 100% release:
       - Unauthenticated Users:  Intent to File functionality is not available to unauthenticated users.
-     - Authenticated Users: If users are in an active session, they will complete the legacy, back-end only version of the Intent to File. If they leave the active session, and log back in after full release, they will be taken back to the intro page of the form and see an info alert stating the form has been updated and they may need to fill out additional info in the v2 form. Their v1 data will appear in the v2 form.
+     - Authenticated Users: If the user maintains a single active session, they will complete the legacy, back-end only version of the Intent to File experience.        If they leave a session and start a new one, they may be directed to the updated version (v1) of the form with clarifying language presented about ITF. 
 2. Applications Not Started
    - Before full release:
-      - Unauthenticated Users: Users will complete the old version (v1) of the form.
+      - Unauthenticated Users: Intent to File functionality is not available to unauthenticated users.
       - Authenticated Users: Users may be directed to fill out the updated version (v2) of the form depending on the level of incremental traffic set for the v2 form (25%/50%/75%100%)
    - After 100% release
       - Unauthenticated Users: Users will complete v2.
