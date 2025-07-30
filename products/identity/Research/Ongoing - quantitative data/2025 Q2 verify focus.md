@@ -16,7 +16,7 @@ We requested survey data for May and June from the Contact Center Team. Since th
 * Medallia feedback survey - folks get to this by pressing the "feedback" button at the bottom of a page on VA.gov
 * Medallia intercept survey - folks get to this by seeing a pop-up on screen
 * We asked for surveys that were started from va.gov/verify and pages related to verify content
-  * No results retuend from /verify, so this analysis relies only on resource pages about verify
+  * No results returend from /verify, so this analysis relies only on resource pages about verify
 
  
 ## Key data points
