@@ -117,11 +117,16 @@ VA.gov product teams building forms that include prefilled data.
 - Staging review scheduled 
 
 
-## Success Criteria
-- Component is used in at least 1 pilot form  
-- Screen reader and keyboard usability confirmed  
-- Stakeholder feedback is positive  
-- Teams report reduced confusion on missing data
+## Requirements
+- Must be able to be used by any team that needs to display an error on a card
+- Must be able to accept unique error text
+- Must be able to maintain a unique card-id and error-id where appropriate
+- Must be able to have an active link in the card that maintains a unique accessible name
+- Must be able to disable error state
+- Must be able to display a colored tag to represent error state
+- Will not support card with icon variant
+- Will not support other states such as warning, info, or success
+ 
 
 ## Risks and Mitigations
 | Risk                                               | Mitigation                                             |
