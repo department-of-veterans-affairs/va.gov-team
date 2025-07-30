@@ -2,72 +2,47 @@
 - As of 7/30/25
 
 ### Here is the current list of URLs for the 10-10EZR with conditional pages explained:
-  - va.gov/my-health/update-benefits-information-form-10-10ezr/introduction
-  - va.gov/my-health/update-benefits-information-form-10-10ezr/veteran-information/personal-information
-  - va.gov/my-health/update-benefits-information-form-10-10ezr/veteran-information/mailing-address
-  - va.gov/my-health/update-benefits-information-form-10-10ezr/veteran-information/home-address
-       - Home Address is conditional based on when the Veteran indicates their address is NOT the same as mailing on the Mailing address page
-  - va.gov/my-health/update-benefits-information-form-10-10ezr/veteran-information/contact-information
-  - va.gov/my-health/update-benefits-information-form-10-10ezr/veteran-information/emergency-contacts-summary
-  - va.gov/my-health/update-benefits-information-form-10-10ezr/veteran-information/emergency-contacts/{index}/contact
-         - Emergency contact info is conditional based on whether or not the Veteran chose to add an emergency contact.
-  - va.gov/my-health/update-benefits-information-form-10-10ezr/veteran-information/emergency-contacts/{index}/contact-address
-         - Emergency contact address info is conditional based on whether or not the Veteran chose to add an emergency contact.
-  - va.gov/my-health/update-benefits-information-form-10-10ezr/veteran-information/next-of-kin-summary
-  - va.gov/my-health/update-benefits-information-form-10-10ezr/veteran-information/next-of-kin/{index}/contact
-         - Next of kin info is conditional based on whether or not the Veteran chose to add a next of kin.
-  - va.gov/my-health/update-benefits-information-form-10-10ezr/veteran-information/next-of-kin/{index}/contact-address
-         - Next of kin address info is conditional based on whether or not the Veteran chose to add a next of kin.
-  - va.gov/my-health/update-benefits-information-form-10-10ezr/military-service/toxic-exposure
-  - va.gov/my-health/update-benefits-information-form-10-10ezr/military-service/radiation-cleanup-efforts
-         - Radiation cleanup efforts page is conditional based on whether or not the Veteran chose to answer TERA questions and their DOB is before 1/1/1966.
-  - va.gov/my-health/update-benefits-information-form-10-10ezr/military-service/gulf-war-service
-         - Gulf War service page is conditional based on whether or not the Veteran chose to answer TERA questions and their DOB is before 1/1/1976.
-  - va.gov/my-health/update-benefits-information-form-10-10ezr/military-service/gulf-war-service-dates
-         - Gulf War service dates page is conditional based on whether or not the Veteran chose to answer TERA questions, their DOB is before 1/1/1976, and they served in the 1990 Gulf War.
-  - va.gov/my-health/update-benefits-information-form-10-10ezr/military-service/post-sept-11-service
-         - Post-9/11 service page is conditional based on whether or not the Veteran chose to answer TERA questions and their DOB is between 1/1/1976 and the current date minus 15 years.
-  - va.gov/my-health/update-benefits-information-form-10-10ezr/military-service/post-sept-11-service-dates
-         - Post-9/11 service dates page is conditional based on whether or not the Veteran chose to answer TERA questions, their DOB is between 1/1/1976 and the current date minus 15 years, and they served post-9/11.
-  - va.gov/my-health/update-benefits-information-form-10-10ezr/military-service/operation-support
-         - Combat operations page is conditional based on whether or not the Veteran chose to answer TERA questions and their DOB is before current date minus 15 years.
-  - va.gov/my-health/update-benefits-information-form-10-10ezr/military-service/agent-orange-exposure
-         - Agent Orange exposure page is conditional based on whether or not the Veteran chose to answer TERA questions and their DOB is before 1/1/1966.
-  - va.gov/my-health/update-benefits-information-form-10-10ezr/military-service/agent-orange-exposure-dates
-         - Agent Orange exposure dates page is conditional based on whether or not the Veteran chose to answer TERA questions, their DOB is before 1/1/1966, and they served in an Agent Orange location.
-  - va.gov/my-health/update-benefits-information-form-10-10ezr/military-service/other-toxic-exposure
-         - Other toxic exposure page is conditional based on whether or not the Veteran chose to answer TERA questions.
-  - va.gov/my-health/update-benefits-information-form-10-10ezr/military-service/other-toxins-or-hazards
-         - Other toxins or hazards page is conditional based on whether or not the Veteran chose to answer TERA questions and they selected the "Other" option on the Other toxic exposure page.
-  - va.gov/my-health/update-benefits-information-form-10-10ezr/military-service/other-toxic-exposure-dates
-         - Other toxic exposure dates page is conditional based on whether or not the Veteran chose to answer TERA questions and they selected any of the other toxins or hazards.
-  - va.gov/my-health/update-benefits-information-form-10-10ezr/military-service/upload-supporting-documents
-         - Supporting documents page is conditional based on whether or not the Veteran chose to answer TERA questions.
-  - va.gov/my-health/update-benefits-information-form-10-10ezr/household-information/marital-status
-  - va.gov/my-health/update-benefits-information-form-10-10ezr/household-information/spouse-personal-information
-         - Spouse info is conditional based on when the Veteran indicates Married or Separated on the Marital Status page.
-  - va.gov/my-health/update-benefits-information-form-10-10ezr/household-information/spouse-additional-information
-       - Spouse additional info is conditional based on when the Veteran indicates Married or Separated on the Marital Status page.
-  - va.gov/my-health/update-benefits-information-form-10-10ezr/household-information/spouse-financial-support
-       - Spouse financial support is conditional based on when the Veteran indicates Married or Separated on the Marital Status page, and when the Veteran indicates the spouse does NOT live with them.
-  - va.gov/my-health/update-benefits-information-form-10-10ezr/household-information/spouse-contact-information
-       - Spouse contact info is conditional based on when the Veteran indicates Married or Separated on the Marital Status page.
-       - Spouse Address is considitional based on whether the spouse lives with the Veteran
-  - va.gov/my-health/update-benefits-information-form-10-10ezr/household-information/dependents
-  - va.gov/my-health/update-benefits-information-form-10-10ezr/household-information/dependent-information
-       - Dependent info is conditional based on when the Veteran indicates they have a dependent on the Dependents page.
-       - Dependent address is considitional based on whether the dependent lives with the Veteran.
-       - Dependent educational expenses are conditional based on whether the dependent earned income during the previous year.
-  - va.gov/my-health/update-benefits-information-form-10-10ezr/household-information/veteran-annual-income
-  - va.gov/my-health/update-benefits-information-form-10-10ezr/household-information/spouse-annual-income
-       - Spouse income is conditional based on when the Veteran indicates Married or Separated on the Marital Status page.
-  - va.gov/my-health/update-benefits-information-form-10-10ezr/household-information/deductible-expenses
-  - va.gov/my-health/update-benefits-information-form-10-10ezr/insurance-information/medicaid-eligibility
-  - va.gov/my-health/update-benefits-information-form-10-10ezr/insurance-information/medicare-part-a-enrollment
-  - va.gov/my-health/update-benefits-information-form-10-10ezr/insurance-information/medicare-part-a-effective-date
-       - Medicare Part A Effective Date is conditional based on when the Veteran indicates they have Medicare on the Medicare Part A Enrollment page.
-  - va.gov/my-health/update-benefits-information-form-10-10ezr/insurance-information/policies
-  - va.gov/my-health/update-benefits-information-form-10-10ezr/insurance-information/policy-information?index={index}
-       - Insurance policy information page is conditional based on whether or not the Veteran chose to add an insurance policy.
-  - va.gov/my-health/update-benefits-information-form-10-10ezr/review-and-submit
-  - va.gov/my-health/update-benefits-information-form-10-10ezr/confirmation
+
+| URL                                                                                                                       | Description                                                                  
+|:---|:---
+| [va.gov/my-health/update-benefits-information-form-10-10ezr/introduction](https://va.gov/my-health/update-benefits-information-form-10-10ezr/introduction) | |
+| [va.gov/my-health/update-benefits-information-form-10-10ezr/veteran-information/personal-information](https://va.gov/my-health/update-benefits-information-form-10-10ezr/veteran-information/personal-information) | |
+| [va.gov/my-health/update-benefits-information-form-10-10ezr/veteran-information/mailing-address](https://va.gov/my-health/update-benefits-information-form-10-10ezr/veteran-information/mailing-address) | |
+| [va.gov/my-health/update-benefits-information-form-10-10ezr/veteran-information/home-address](https://va.gov/my-health/update-benefits-information-form-10-10ezr/veteran-information/home-address) | Home Address is conditional based on when the Veteran indicates their address is NOT the same as mailing on the Mailing address page |
+| [va.gov/my-health/update-benefits-information-form-10-10ezr/veteran-information/contact-information](https://va.gov/my-health/update-benefits-information-form-10-10ezr/veteran-information/contact-information) | |
+| [va.gov/my-health/update-benefits-information-form-10-10ezr/veteran-information/emergency-contacts-summary](https://va.gov/my-health/update-benefits-information-form-10-10ezr/veteran-information/emergency-contacts-summary) | |
+| [va.gov/my-health/update-benefits-information-form-10-10ezr/veteran-information/emergency-contacts/{index}/contact](https://va.gov/my-health/update-benefits-information-form-10-10ezr/veteran-information/emergency-contacts/{index}/contact) | Emergency contact info is conditional based on whether or not the Veteran chose to add an emergency contact. |
+| [va.gov/my-health/update-benefits-information-form-10-10ezr/veteran-information/emergency-contacts/{index}/contact-address](https://va.gov/my-health/update-benefits-information-form-10-10ezr/veteran-information/emergency-contacts/{index}/contact-address) | Emergency contact address info is conditional based on whether or not the Veteran chose to add an emergency contact. |
+| [va.gov/my-health/update-benefits-information-form-10-10ezr/veteran-information/next-of-kin-summary](https://va.gov/my-health/update-benefits-information-form-10-10ezr/veteran-information/next-of-kin-summary) | |
+| [va.gov/my-health/update-benefits-information-form-10-10ezr/veteran-information/next-of-kin/{index}/contact](https://va.gov/my-health/update-benefits-information-form-10-10ezr/veteran-information/next-of-kin/{index}/contact) | Next of kin info is conditional based on whether or not the Veteran chose to add a next of kin. |
+| [va.gov/my-health/update-benefits-information-form-10-10ezr/veteran-information/next-of-kin/{index}/contact-address](https://va.gov/my-health/update-benefits-information-form-10-10ezr/veteran-information/next-of-kin/{index}/contact-address) | Next of kin address info is conditional based on whether or not the Veteran chose to add a next of kin. |
+| [va.gov/my-health/update-benefits-information-form-10-10ezr/military-service/toxic-exposure](https://va.gov/my-health/update-benefits-information-form-10-10ezr/military-service/toxic-exposure) | |
+| [va.gov/my-health/update-benefits-information-form-10-10ezr/military-service/radiation-cleanup-efforts](https://va.gov/my-health/update-benefits-information-form-10-10ezr/military-service/radiation-cleanup-efforts) | Radiation cleanup efforts page is conditional based on whether or not the Veteran chose to answer TERA questions and their DOB is before 1/1/1966. |
+| [va.gov/my-health/update-benefits-information-form-10-10ezr/military-service/gulf-war-service](https://va.gov/my-health/update-benefits-information-form-10-10ezr/military-service/gulf-war-service) | Gulf War service page is conditional based on whether or not the Veteran chose to answer TERA questions and their DOB is before 1/1/1976. |
+| [va.gov/my-health/update-benefits-information-form-10-10ezr/military-service/gulf-war-service-dates](https://va.gov/my-health/update-benefits-information-form-10-10ezr/military-service/gulf-war-service-dates) | Gulf War service dates page is conditional based on whether or not the Veteran chose to answer TERA questions, their DOB is before 1/1/1976, and they served in the 1990 Gulf War. |
+| [va.gov/my-health/update-benefits-information-form-10-10ezr/military-service/post-sept-11-service](https://va.gov/my-health/update-benefits-information-form-10-10ezr/military-service/post-sept-11-service) | Post-9/11 service page is conditional based on whether or not the Veteran chose to answer TERA questions and their DOB is between 1/1/1976 and the current date minus 15 years. |
+| [va.gov/my-health/update-benefits-information-form-10-10ezr/military-service/post-sept-11-service-dates](https://va.gov/my-health/update-benefits-information-form-10-10ezr/military-service/post-sept-11-service-dates) | Post-9/11 service dates page is conditional based on whether or not the Veteran chose to answer TERA questions, their DOB is between 1/1/1976 and the current date minus 15 years, and they served post-9/11. |
+| [va.gov/my-health/update-benefits-information-form-10-10ezr/military-service/operation-support](https://va.gov/my-health/update-benefits-information-form-10-10ezr/military-service/operation-support) | Combat operations page is conditional based on whether or not the Veteran chose to answer TERA questions and their DOB is before current date minus 15 years. |
+| [va.gov/my-health/update-benefits-information-form-10-10ezr/military-service/agent-orange-exposure](https://va.gov/my-health/update-benefits-information-form-10-10ezr/military-service/agent-orange-exposure) | Agent Orange exposure page is conditional based on whether or not the Veteran chose to answer TERA questions and their DOB is before 1/1/1966. |
+| [va.gov/my-health/update-benefits-information-form-10-10ezr/military-service/agent-orange-exposure-dates](https://va.gov/my-health/update-benefits-information-form-10-10ezr/military-service/agent-orange-exposure-dates) | Agent Orange exposure dates page is conditional based on whether or not the Veteran chose to answer TERA questions, their DOB is before 1/1/1966, and they served in an Agent Orange location. |
+| [va.gov/my-health/update-benefits-information-form-10-10ezr/military-service/other-toxic-exposure](https://va.gov/my-health/update-benefits-information-form-10-10ezr/military-service/other-toxic-exposure) | Other toxic exposure page is conditional based on whether or not the Veteran chose to answer TERA questions. |
+| [va.gov/my-health/update-benefits-information-form-10-10ezr/military-service/other-toxins-or-hazards](https://va.gov/my-health/update-benefits-information-form-10-10ezr/military-service/other-toxins-or-hazards) | Other toxins or hazards page is conditional based on whether or not the Veteran chose to answer TERA questions and they selected the "Other" option on the Other toxic exposure page. |
+| [va.gov/my-health/update-benefits-information-form-10-10ezr/military-service/other-toxic-exposure-dates](https://va.gov/my-health/update-benefits-information-form-10-10ezr/military-service/other-toxic-exposure-dates) | Other toxic exposure dates page is conditional based on whether or not the Veteran chose to answer TERA questions and they selected any of the other toxins or hazards. |
+| [va.gov/my-health/update-benefits-information-form-10-10ezr/military-service/upload-supporting-documents](https://va.gov/my-health/update-benefits-information-form-10-10ezr/military-service/upload-supporting-documents) | Supporting documents page is conditional based on whether or not the Veteran chose to answer TERA questions. |
+| [va.gov/my-health/update-benefits-information-form-10-10ezr/household-information/marital-status](https://va.gov/my-health/update-benefits-information-form-10-10ezr/household-information/marital-status) | |
+| [va.gov/my-health/update-benefits-information-form-10-10ezr/household-information/spouse-personal-information](https://va.gov/my-health/update-benefits-information-form-10-10ezr/household-information/spouse-personal-information) | Spouse info is conditional based on when the Veteran indicates Married or Separated on the Marital Status page. |
+| [va.gov/my-health/update-benefits-information-form-10-10ezr/household-information/spouse-additional-information](https://va.gov/my-health/update-benefits-information-form-10-10ezr/household-information/spouse-additional-information) | Spouse additional info is conditional based on when the Veteran indicates Married or Separated on the Marital Status page. |
+| [va.gov/my-health/update-benefits-information-form-10-10ezr/household-information/spouse-financial-support](https://va.gov/my-health/update-benefits-information-form-10-10ezr/household-information/spouse-financial-support) | Spouse financial support is conditional based on when the Veteran indicates Married or Separated on the Marital Status page, and when the Veteran indicates the spouse does NOT live with them. |
+| [va.gov/my-health/update-benefits-information-form-10-10ezr/household-information/spouse-contact-information](https://va.gov/my-health/update-benefits-information-form-10-10ezr/household-information/spouse-contact-information) | Spouse contact info is conditional based on when the Veteran indicates Married or Separated on the Marital Status page. Spouse Address is conditional based on whether the spouse lives with the Veteran |
+| [va.gov/my-health/update-benefits-information-form-10-10ezr/household-information/dependents](https://va.gov/my-health/update-benefits-information-form-10-10ezr/household-information/dependents) | |
+| [va.gov/my-health/update-benefits-information-form-10-10ezr/household-information/dependent-information](https://va.gov/my-health/update-benefits-information-form-10-10ezr/household-information/dependent-information) | Dependent info is conditional based on when the Veteran indicates they have a dependent on the Dependents page. Dependent address is conditional based on whether the dependent lives with the Veteran. Dependent educational expenses are conditional based on whether the dependent earned income during the previous year. |
+| [va.gov/my-health/update-benefits-information-form-10-10ezr/household-information/veteran-annual-income](https://va.gov/my-health/update-benefits-information-form-10-10ezr/household-information/veteran-annual-income) | |
+| [va.gov/my-health/update-benefits-information-form-10-10ezr/household-information/spouse-annual-income](https://va.gov/my-health/update-benefits-information-form-10-10ezr/household-information/spouse-annual-income) | Spouse income is conditional based on when the Veteran indicates Married or Separated on the Marital Status page. |
+| [va.gov/my-health/update-benefits-information-form-10-10ezr/household-information/deductible-expenses](https://va.gov/my-health/update-benefits-information-form-10-10ezr/household-information/deductible-expenses) | |
+| [va.gov/my-health/update-benefits-information-form-10-10ezr/insurance-information/medicaid-eligibility](https://va.gov/my-health/update-benefits-information-form-10-10ezr/insurance-information/medicaid-eligibility) | |
+| [va.gov/my-health/update-benefits-information-form-10-10ezr/insurance-information/medicare-part-a-enrollment](https://va.gov/my-health/update-benefits-information-form-10-10ezr/insurance-information/medicare-part-a-enrollment) | |
+| [va.gov/my-health/update-benefits-information-form-10-10ezr/insurance-information/medicare-part-a-effective-date](https://va.gov/my-health/update-benefits-information-form-10-10ezr/insurance-information/medicare-part-a-effective-date) | Medicare Part A Effective Date is conditional based on when the Veteran indicates they have Medicare on the Medicare Part A Enrollment page. |
+| [va.gov/my-health/update-benefits-information-form-10-10ezr/insurance-information/policies](https://va.gov/my-health/update-benefits-information-form-10-10ezr/insurance-information/policies) | |
+| [va.gov/my-health/update-benefits-information-form-10-10ezr/insurance-information/policy-information?index={index}](https://va.gov/my-health/update-benefits-information-form-10-10ezr/insurance-information/policy-information?index={index}) | Insurance policy information page is conditional based on whether or not the Veteran chose to add an insurance policy. |
+| [va.gov/my-health/update-benefits-information-form-10-10ezr/review-and-submit](https://va.gov/my-health/update-benefits-information-form-10-10ezr/review-and-submit) | |
+| [va.gov/my-health/update-benefits-information-form-10-10ezr/confirmation](https://va.gov/my-health/update-benefits-information-form-10-10ezr/confirmation) | |
