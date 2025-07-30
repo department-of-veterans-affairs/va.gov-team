@@ -50,13 +50,13 @@ There are a few of my teammates who would like to observe this session as well. 
 
 Could the observers please turn their cameras off now to save bandwidth? 
 
-Today we're going to talk about filling out forms from the VA mobile app. I'm going to ask you a few questions, and then I'll have you do some specific tasks using a website that I will share with you. As you go through these steps please speak aloud your thoughts and actions to help us understand more about your experience.
+Today we're going to talk about filling out forms from the VA mobile app. I'm going to ask you a few questions, and then I'll have you do some specific tasks using the VA Health & Benefits App that I will share with you via a link here in a bit. As you go through these steps please speak aloud your thoughts and actions to help us understand more about your experience.
 
 Before we start, I want to go over a few things:
 
 - **This entire session may take 60 minutes.** I want to be sure not to keep you longer, so I may occasionally prompt you with the next question or topic.
   
-- **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. We're testing a website to learn how we can make it easier to use. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
+- **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. We're testing an app to learn how we can make it easier to use. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
 - **Your participation in this interview is completely voluntary.** Whether or not you choose to participate will not affect your benefits with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Just let me know.
 
 - Finally, I would like to record my screen and audio to confirm that I’ve captured your opinions accurately and sometimes share video clips with our colleagues at the VA to show user feedback. If we do this, we don’t link anything you choose to share in the session to any information that identifies you, and we remove your face and name from any videos that we share.
@@ -77,7 +77,7 @@ In the bottom toolbar of the Zoom window, click the arrow next to **SHOW CAPTION
 *After checking that transcription is working, close the Transcript panel by clicking **Close Full Transcript** in the Show Captions menu.*
 
 ## Screen sharing instructions (if needed)
-- In the Zoom application on your mobile device, there's a row of buttons at the bottom. In the center is a button that says **Share** *(on your phone, you may need to scroll sideways or click **More...**)*
+- In the Zoom application on your mobile device, click the **More...** button and then click **Share** *(on your phone, you may need to scroll sideways)
   - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
   - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
 
@@ -104,11 +104,11 @@ Let’s start with a few questions...
 2. What kind of device are you using today? *(Tablet / Smartphone)*
     - *(If not the expected device, ask to rejoin that way)*
 
-3. What operating system if on your device? *(iOS / Android / _______)*
+3. What operating system is on your device? *(iOS / Android / _______)*
 
 4. What is the default web browser set up on your device? *(Chrome / Firefox / Edge / Safari / _______)*
 
-4. I will be sharing a web page link with you during the session. How would you prefer to receive the URL? I could dictate it to you, put it in the Zoom chat, email it to you, or *(for smartphone only)* text it to you. *(RECORD)* 
+4. I will be sharing a link with you during the session that will take you to the testing app. How would you prefer to receive the URL? I could dictate it to you, put it in the Zoom chat, or email it to you. 
 
    - *(If text or email)* Could the notetaker please text/email the link now? (include link here)
 
@@ -201,7 +201,7 @@ Reminder to speak aloud any thoughts, reactions, or questions you have during th
 Please fill out this form to submit your statement, but I want you to use fake details so you don't share your personal information with me.
 
 - Supply form entry data for participant to enter as they go through the form.
-- Note: An invalid social security number is provided to intentionally throw an error. Observe the user's reaction to this error and attempt to troubleshoot.
+- Note: An invalid social security number is provided to intentionally throw an error. Observe the user's reaction to this error and document any attempt to troubleshoot.
 
 ### Watch for:
 - In this step, what did the participant expect to happen?
