@@ -1,4 +1,4 @@
-# 2025 Q2 verfiy focused survey data findings
+# 2025 Q2 verify focused survey data findings
 
 **Office of the CTO - Digital Experience (OCTO-DE), Identity Experience Team**
 
