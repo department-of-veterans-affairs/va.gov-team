@@ -195,14 +195,52 @@ synthesis_tools_used:
 
 *Provide detailed descriptions and supporting evidence for each key finding.*  
 
+> [!NOTE]
+> After each finding, copy the “Metadata” block below and fill in the most appropriate labels from the [metadata labels file](https://github.com/department-of-veterans-affairs/va.gov-research-repository/blob/master/research-findings-metadata-labels.md). This supports synthesis and automation.
+
+
 **Finding 1:**  
 Brief description  
 - _Supporting data: Quote [add context]_  
 - _Supporting data: ![text](link - add image to github folder and link here with .png)_  
 
+**Metadata:**
+```yaml
+Finding 1: copy/paste finding
+user_groups:
+  - add labels
+  - label
+research_themes:
+  - label
+product_areas:
+  - label
+finding_types:
+  - label
+severity_levels:
+  - label
+research_methods:
+  - label
+device_platforms:
+  - label
+user_characteristics:
+  - label
+journey_stages:
+  - label
+emotional_states:
+  - label
+life_events:
+  - label
+trust_factors:
+  - label
+channel_switching:
+  - label
+temporal_patterns:
+  - label
+```
+
 **Finding 2:**  
 Brief description  
-- _Supporting data: Quote [add context]_  
+- _Supporting data: Quote [add context]_
 
 ---
 
