@@ -1,12 +1,12 @@
 # Veteran Status Card Use Cases
 
-Last updated: July 2025
+Last updated: July 31, 2025
 
 For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the user will be directed to the Profile Account Security section.
 
 ## User flow
 
-- [Figma files](https://www.figma.com/design/dm2KXJmeJEgCNKrDgIq8ko/Profile---Vet-Status-Card?node-id=3019-459250&t=4qBrNlwhsoeAPg30-1)
+- [Figma files](https://www.figma.com/design/dm2KXJmeJEgCNKrDgIq8ko/Profile---Vet-Status-Card?node-id=3019-327397&t=L0Y6FLu3mEhMKaEu-1)
 - [Test Rail QA](https://dsvavsp.testrail.io/index.php?/suites/view/3627&group_by=cases:section_id&group_order=asc&display_deleted_cases=0)
 - See individual use cases below for staging user accounts.
 
@@ -30,7 +30,7 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
   - DoD ID number (if available, removed if not present)
   - Disability rating (shown if >= to 0%; removed if no rating)
 - **Format:** Veteran Status Card
-- **Link to designs:** [Success](https://www.figma.com/design/dm2KXJmeJEgCNKrDgIq8ko/Profile---Vet-Status-Card?node-id=3003-269050&t=QUfLyAtnaA9x2xSC-1)
+- **Link to designs:** [Success](https://www.figma.com/design/dm2KXJmeJEgCNKrDgIq8ko/Profile---Vet-Status-Card?node-id=3019-327419&t=L0Y6FLu3mEhMKaEu-1)
 - **Link to code:** [Display Veteran Status Card](https://github.com/department-of-veterans-affairs/vets-website/blob/ecee7bb9aa8e40034119700e0b523f0ade08aa0e/src/applications/personalization/profile/components/veteran-status-card/VeteranStatus.jsx#L239)
 - **Additional components:**
   - "Frequently asked questions" section (displayed)
@@ -48,7 +48,7 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
   - You're not eligible for a Veteran Status Card
     To get a Veteran Status Card, you must have received an honorable discharge for at least one period of service. If you think your discharge status is incorrect, call the Defense Manpower Data Center at 800-538-9552 (TTY: 711). They're open Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
 - **Format:** [Warning Alert Component](https://design.va.gov/storybook/?path=/story/uswds-va-alert--warning)
-- **Link to designs:** [Ineligible Case](https://www.figma.com/design/dm2KXJmeJEgCNKrDgIq8ko/Profile---Vet-Status-Card?node-id=3003-269210&t=bAwE33Q03KVyBNxu-0)
+- **Link to designs:** [Ineligible Case](https://www.figma.com/design/dm2KXJmeJEgCNKrDgIq8ko/Profile---Vet-Status-Card?node-id=3019-327532&t=L0Y6FLu3mEhMKaEu-1)
 - **Link to code:** [Display Not Eligible Alert](https://github.com/department-of-veterans-affairs/vets-website/blob/ecee7bb9aa8e40034119700e0b523f0ade08aa0e/src/applications/personalization/profile/components/veteran-status-card/VeteranStatus.jsx#L188)
 - **Additional components:**
   - "Frequently asked questions" section (displayed)
@@ -66,7 +66,7 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
   - There's a problem with your discharge status records
     We're sorry. To fix the problem with your records, call the Defense Manpower Data Center at 800-538-9552 (TTY: 711). They're open Monday through Friday, 8:00 a.m. to 8:00 p.m. ET.
 - **Format:** [Warning Alert Component](https://design.va.gov/storybook/?path=/story/uswds-va-alert--warning)
-- **Link to designs:** [Problem with Discharge Records Case](https://www.figma.com/design/dm2KXJmeJEgCNKrDgIq8ko/Profile---Vet-Status-Card?node-id=3003-269252&t=3rV2fyuBDw1TxSBd-0)
+- **Link to designs:** [Problem with Discharge Records Case](https://www.figma.com/design/dm2KXJmeJEgCNKrDgIq8ko/Profile---Vet-Status-Card?node-id=3110-5055&t=L0Y6FLu3mEhMKaEu-1)
 - **Link to code:** [Display Discharge Alert](https://github.com/department-of-veterans-affairs/vets-website/blob/ecee7bb9aa8e40034119700e0b523f0ade08aa0e/src/applications/personalization/profile/components/veteran-status-card/VeteranStatus.jsx#L203)
 - **Additional components:**
   - "Frequently asked questions" section (displayed)
@@ -85,7 +85,7 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
   - This page isn't available right now.
   We’re sorry. Something went wrong on our end. Refresh this page or try again later.
 - **Format:** [Warning Alert Component](https://design.va.gov/storybook/?path=/story/uswds-va-alert--warning)
-- **Link to designs:** [Page Unavailable Alert](https://www.figma.com/design/dm2KXJmeJEgCNKrDgIq8ko/Profile---Vet-Status-Card?node-id=3003-269294&t=Ixpyor4jBZD5K9Wr-0)
+- **Link to designs:** [Page Unavailable Alert](https://www.figma.com/design/dm2KXJmeJEgCNKrDgIq8ko/Profile---Vet-Status-Card?node-id=3110-5775&t=L0Y6FLu3mEhMKaEu-1)
 - **Link to code:** [Display Page Unavailable Alert](https://github.com/department-of-veterans-affairs/vets-website/blob/ecee7bb9aa8e40034119700e0b523f0ade08aa0e/src/applications/personalization/profile/components/veteran-status-card/VeteranStatus.jsx#L228)
 - **Additional components:**
   - Intro paragraph (not displayed)
@@ -104,7 +104,7 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
   If you think there might be a problem with your military service records, you can apply for a correction.
   Learn how to correct your military service records on the National Archives website
 - **Format:** [Warning Alert Component](https://design.va.gov/storybook/?path=/story/uswds-va-alert--warning)
-- **Link to designs:** [Mismatch Service History](https://www.figma.com/design/dm2KXJmeJEgCNKrDgIq8ko/Profile---Vet-Status-Card?node-id=3003-269336&t=Ixpyor4jBZD5K9Wr-0)
+- **Link to designs:** [Mismatch Service History](https://www.figma.com/design/dm2KXJmeJEgCNKrDgIq8ko/Profile---Vet-Status-Card?node-id=3110-5775&t=L0Y6FLu3mEhMKaEu-1)
 - **Link to code:** [Display Mismatch Service History Alert](https://github.com/department-of-veterans-affairs/vets-website/blob/ecee7bb9aa8e40034119700e0b523f0ade08aa0e/src/applications/personalization/profile/components/veteran-status-card/VeteranStatus.jsx#L211)
 - **Additional components:**
   - "Frequently asked questions" section (displayed)
@@ -121,7 +121,7 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
   - Something went wrong
   We’re sorry. Try to view your Veteran Status Card later.
 - **Format:** [Warning Alert Component](https://design.va.gov/storybook/?path=/story/uswds-va-alert--warning)
-- **Link to designs:** [Something Wrong Alert](https://www.figma.com/design/dm2KXJmeJEgCNKrDgIq8ko/Profile---Vet-Status-Card?node-id=3003-269378&t=Ixpyor4jBZD5K9Wr-0)
+- **Link to designs:** [Something Wrong Alert](https://www.figma.com/design/dm2KXJmeJEgCNKrDgIq8ko/Profile---Vet-Status-Card?node-id=3110-5295&t=L0Y6FLu3mEhMKaEu-1)
 - **Link to code:** [Display Something Wrong Alert](https://github.com/department-of-veterans-affairs/vets-website/blob/ecee7bb9aa8e40034119700e0b523f0ade08aa0e/src/applications/personalization/profile/components/veteran-status-card/VeteranStatus.jsx#L214)
 - **Additional components:**
   - "Frequently asked questions" section (displayed)
@@ -139,7 +139,7 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
   - Something went wrong
   We're sorry. Try to print your Veteran Status Card later.
 - **Format:** [Error Alert Component](https://design.va.gov/storybook/?path=/story/uswds-va-alert--error)
-- **Link to designs:** [PDF Error Alert](https://www.figma.com/design/dm2KXJmeJEgCNKrDgIq8ko/Profile---Vet-Status-Card?node-id=3003-269121&t=Ixpyor4jBZD5K9Wr-0)
+- **Link to designs:** [PDF Error Alert](https://www.figma.com/design/dm2KXJmeJEgCNKrDgIq8ko/Profile---Vet-Status-Card?node-id=3019-327467&t=L0Y6FLu3mEhMKaEu-1)
 - **Link to code:** [Display PDF Error Alert](https://github.com/department-of-veterans-affairs/vets-website/blob/2efc99e6c2c3049197d083cb9b9216b55af264f3/src/applications/personalization/profile/components/veteran-status-card/FrequentlyAskedQuestions.jsx#L44)
 - **Additional components:**
   - "Frequently asked questions" section (displayed)
