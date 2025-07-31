@@ -76,7 +76,7 @@ The URL for this Profile subpage is https://va.gov/profile/accredited-representa
 
 ## **Recommended Next Steps**
 
-#### Next Version Priorities
+#### Next Version Priorities - Representative Status 2.1
 
 A future version of Representative Status should strive to bring the error rate (for calling the [Lighthouse Benefits Claims API](https://developer.va.gov/explore/api/benefits-claims/docs?version=current)) below 1%. Currently, the biggest impacts to error rate are when the API undergoes scheduled maintenance or has an unplanned incident/outage.
 1. How might we update our Representative Status product, to hold off on API calls during periods of downtime (due to maintenance or incidents/outages) when we know that the API will return an error?
