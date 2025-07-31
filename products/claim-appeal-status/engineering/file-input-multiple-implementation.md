@@ -68,7 +68,16 @@ As a user,
 1. If I submit a file that has already been successfully submitted, I get an error saying that it has been submitted already
 
 ## User Stories that are not yet covered (Add Github issue)
-1. If I submit two files with one that has already been successfully submitted, I get an error message and a success message (currently it just displays the error alert and though it appears to successfully upload the other file it does not show its success alert)
+1. If I submit the same file 2 times in the same Multiple File Input, I get an error message before being able to submit
+    - Currently the duplicate backend check only checks the currently submitting file against previous documents files
+    - Background: was not part of duplicate work and not discussed previously with BMT2
+1. If I submit files A and B and A has already been successfully submitted previously, I get an error message for A saying that it has already been successfully submitted and I get a success message for B. Both are removed from the files listed in the mutliple file input (But is there a way they could turn a unprocessable entity into prcoessable and therefore we shouldn't remove it). Documents with wrong PDF passwords should remain. 
+    - Currently it just displays the duplicate error alert and though it successfully uploades the other file it does not show its success alert
+    - Currently it also keeps the duplicate file in the files listed in the mutliple file input
+    - In addition, the duplicate error message is displayed at the top of the page and not scrolled to
+    - What about other status codes? It would be better if 500s stayed in the files listed in the mutliple file input and included a message why they couldnt be uploaded (the 500 error / come back at another time)
+    - This change would drastically reduce 422s
+   
 
 ## User Stories Handled by VaFileInputMultiple component
 - I see a label with a hint with the allowed file types and size  
