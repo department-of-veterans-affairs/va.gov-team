@@ -46,6 +46,11 @@ If impact is anticipated from a planned MHV User-facing team activity:
      - OCTO forwards to respective OCC partners as necessary
 - Engineer - Set up a PagerDuty maintenance window
 
+Many MHV user-facing products are part of the VA.gov/VAHB Platform ecosystem and may be tangentially impacted by broader planned Platform downtimes.
+- The respective user-facing team product manager or engineering manager will evaluate potential MHV impact
+- If a MHV-specific impact is determined, team will work with OCTO POs on path forward for communication based on the use case
+
+Note-Contact Center/Veteran Support does not need to be notified for planned downtimes.
 
 ^: the Communication Owner will be a product manager or engineering manager for the respective user-facing application
 
@@ -119,5 +124,13 @@ If incident is rated P3 or P4:
 
 Send updates to notification audience:
 - When the issue is resolved
+
+
+#### Incidents Beyond MHV Scope
+Many MHV user-facing products are part of the VA.gov/VAHB Platform ecosystem and may be tangentially impacted by incidents on the Platform (the platform itself or another team on the platform).
+- The team will evaluate if the broader incident results in MHV user-facing impact
+- If a MHV-specific impact is determined, team will work with OCTO POs on path forward for communication based on the use case
+
+
 
 
