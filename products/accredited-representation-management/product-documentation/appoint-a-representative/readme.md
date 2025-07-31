@@ -1,6 +1,7 @@
 # Appoint a Representative - Read Me
 
-Product Outline for Appoint a Representative: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/appoint-a-representative/product-outline-appoint-a-representative.md
+[Product Outline for Appoint a Representative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/appoint-a-representative/product-outline-appoint-a-representative.md
+) 
 
 ## **Recommended Next Steps**
 
