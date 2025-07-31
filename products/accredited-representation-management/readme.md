@@ -1,4 +1,4 @@
-# Accredited Representation Management (ARM)
+# Accredited Representation Management (ARM) - Read Me
 
 _Formerlly known as Find a Representative (FAR)_
 
@@ -23,12 +23,6 @@ The Accredited Representation Management (ARM) team is part of the Accredited Re
 3. [Appoint a Representative - Online Submission Demo](https://dvagov.sharepoint.com/:v:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representation%20Management/Product%20Information/Product%20Demo%20Recordings/Appoint%20a%20Representative%20-%20Online%20Submission%20Demo.mp4?csf=1&web=1&e=6fZuue)
 4. [Representative Status Widget Demo](https://dvagov.sharepoint.com/:v:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representation%20Management/Product%20Information/Product%20Demo%20Recordings/Representative%20Status%20Widget%20Demo.mp4?csf=1&web=1&e=nMo14H)
 5. [Representative Status in Profile/MyVA Demo](https://dvagov.sharepoint.com/:v:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representation%20Management/Product%20Information/Product%20Demo%20Recordings/Representative%20Status%20in%20Profile_MyVA%20Demo.mp4?csf=1&web=1&e=KrCRpw)
-
-
-#### Product Documentation
-1. [Find a Representative](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/product-documentation/find-a-representative)
-2. [Representative Status Widget](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/product-documentation/representative-status-widget)
-3. [Appoint a Representative](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/product-documentation/appoint-a-representative)
 
 ### Metrics
 **Datadog Dashboards**
