@@ -20,7 +20,7 @@
 
 `Product Outline`
 
-**[Link to product outline](products/burials-memorials/time-of-need/Product-Outline.md).**
+**[Link to product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/time-of-need/Product-Outline.md).**
 
 </details>
 
