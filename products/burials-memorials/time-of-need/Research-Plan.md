@@ -190,6 +190,7 @@ Where will you be holding the research sessions?
 - `Observers:` 
 - **Kenneth Santiago**
 - **Cat Hughes**
+- **Kyle Wren**
 
 ## Approvals ✅
 - `Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]`
