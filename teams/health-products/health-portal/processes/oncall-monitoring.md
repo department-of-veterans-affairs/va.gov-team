@@ -29,27 +29,20 @@ When PagerDuty is migrated and configured to alert engineers when something goes
 
 In addition to on-call responsibilities for monitoring, teams also have responsibilities for handling technical questions and research that arise during sprints. See [Investigator On-Call](./investigator-oncall.md) for details.
 
-## How to triage
+## How to respond to an alert or incident
 
-When an alert is triggered, follow these steps:
+Please be familiar with the [VA Platform Incident Response for application teams](https://depo-platform-documentation.scrollhelp.site/developer-docs/incident-response-documentation-for-application-te). The process outlines 4 steps for determining severity and validity of the alert, communications, working the problem, and wrapping things up. Some additional context for MHV Frontent:
 
-1. **Assess the scope**:
-   - Is it affecting a single endpoint/tool or multiple services?
-   - Is the service completely down or degraded?
-   - Are users reporting issues? Our Tier 3 Support team may have insights.
-
-2. **Check related systems**:
-   - Check [MHV on VA.gov Portal Overview dashboard](https://vagov.ddog-gov.com/dashboard/r9k-hs7-rpm/mhv-on-vagov-health-portal-overview?fromUser=false&refresh_mode=sliding&from_ts=1753469533766&to_ts=1753473133766&live=true)
-   - Verify if upstream systems (MHV API, VistA, Oracle Health) are operational.[^3]
-   - Does the issue appear to be a result of a problem with an upstream system, like MHV API? MHV API might retransmit errors from the systems _it_ relies on, such as VistA or Oracle Health.
-
-3. **Document the incident**:
-   - Start a thread in the alert channel
-   - Note time, affected services, and initial observations
-
-4. **Resolve or escalate**:
-   - Does the issue appear to be getting worse, or recovering? This may be an indicator of a system operating at or near capacity, and _may_ be temporary.
-   - Who can help resolve the issue? Is there a team or individual who can assist with troubleshooting or resolving the issue?
+1. Determine the incident priority
+  - Our monitors often trigger alerts due to upstream systems issues. If we see this, we should ensure the upstream team is aware of the issue and working to resolve it.
+2. Communicate
+  - We have a communication plan for making sure teammates, stakeholders, and partners are informed of the issue. [LINK NEEDED].
+3. Work the problem
+  > Don’t be afraid to enlist help from Platform support and/or OCTO engineering points of contact.
+  - The oncall engineer and an incident commander should enlist help immediately in a Priority 1 (P1) incident.
+  - Notes are important to help us understand the issue and track progress.
+4. Wrap things up
+  - Follow the post-mortem process, and plan to share lessons learned with the teams and stakeholders.
 
 VA.gov and the MHV Frontend (`vets-website` and `vets-api`) depend on many other systems for data and functionality, and we should be prepared to inform and engage with those system owners to resolve issues
 
