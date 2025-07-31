@@ -79,7 +79,7 @@ This cross-functional group serves as the Company points of contact for the deli
 |Name|Role|Company Email|VA Email|DSVA Slack|GitHub|
 |------|----|-----|-----|--------|------|
 | Marci McGuire | OCTO Product Lead | marci.mcguire@va.gov | marci.mcguire@va.gov | [@Marci McGuire](https://dsva.slack.com/team/U04K6QYPP6V) | [MarciMcGuire](https://github.com/MarciMcGuire) |
-| David Koger | Product Manager | dkoger@ironarchtech.com | TBD | TBD | TBD |
+| David Koger | Product Manager | dkoger@ironarchtech.com | david.koger@va.gov | TBD | TBD |
 | Mike Moyer | Full Stack Engineer | mmoyer@ironarchtech.com | michael.moyer@va.gov | [@Mike Moyer](https://dsva.slack.com/team/U03G1ECH00K) | [mmoyer-va](https://github.com/mmoyer-va) |
 | Ni Chia |  Full Stack Engineer | ni.chia@adhocteam.us | tchut.chia@va.gov | [@Ni Chia](https://dsva.slack.com/team/U07NQDN4WJG) | [nichia](https://github.com/nichia) |
 | Napoleon Kernessant | Frontend Engineer | napoleon.Kernessant@docme360.com | Napoleon.kernessant@va.gov | [@Napoleon Kernessant](https://dsva.slack.com/team/U03US4Z036J) | [GovNapoleon](https://github.com/GovNapoleon) |
