@@ -69,6 +69,39 @@ API response standardization:
 4. Dive into `api-authenicate.md` for auth implementation details
 5. Use `standard-api-response.md` for API design patterns
 
+## Outstanding Questions
+
+The following questions need to be addressed during implementation:
+
+## Dev access
+
+- Can we get access to a lower environment (sandbox) to play with
+
+### Infrastructure & Operations ([recommendations.md](./recommendations.md))
+
+- How are we monitoring?
+- How are we deploying?
+- Should we be versioning the endpoints?
+- Where is the source code located? Github?
+
+### API Design - GetAppointments ([recommendations.md](./recommendations.md))
+
+- What is the upperbound of number of appointments a Veteran could have?
+
+### API Design - AppointmentAvailability ([recommendations.md](./recommendations.md))
+
+- Should the get appointment slots support pagination?
+- When does the time slot get locked?
+- How are skills related to appointments?
+
+### API Design - SaveAppointment ([recommendations.md](./recommendations.md))
+
+- This is a UPSERT, that's fine, but what all fields get updated?
+
+### API Design - CancelAppointment ([recommendations.md](./recommendations.md))
+
+- What is the response? A HTTP 204?
+
 ## Related Resources
 
 - [VA API Standards](https://code.va.gov/docs/default/component/va-api-standards/)

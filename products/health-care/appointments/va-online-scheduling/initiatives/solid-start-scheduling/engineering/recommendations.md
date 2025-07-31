@@ -48,11 +48,15 @@
 - Should be a GET
 - Rename to something along the lines of GET /veteran/status
   - The reason is that endpoint does more than just return appointments, this is also how we are getting the veteran information
+- Do we need to support pagination for appointments?
+  - QUESTION: What is the upperbound of number of appointments a Veteran could have?
 
 ### POST AppointmentAvailability
 
 - Should be a GET
-- This should support a date range filter of some description
+- This should support
+  - Date filter
+  - QUESTION: Should the get appointment slots support Pagination?
 - what va.gov uses for appointment slot API data contract:
   - <https://code.va.gov/catalog/vagov-platform/api/vaos-api/api-spec#/appointments/getFacilityAppointmentSlots>
 - Consider adding a Slot Id to help track the time slots
