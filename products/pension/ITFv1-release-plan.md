@@ -156,6 +156,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
    - Network traffic to back end server 
   - Error rate: <1%
   - Pageviews
+  - Abandonment rate
 - Links to the dashboard(s) showing "success criteria" metrics:
   - [[DataDog v2 submission dashboard](https://vagov.ddog-gov.com/logs?query=%40message_content%3A%22Lighthouse%3A%3ASubmitBenefitsIntakeClaim%20job%20starting%22%20%40named_tags.source%3Aburials-v2%20&agg_m=count&agg_m_source=base&agg_t=count&cols=host%2Cservice%2C%40payload.benefits_intake_uuid%2C%40payload.claim_id%2C%40named_tags.request_id&fromUser=true&messageDisplay=inline&refresh_mode=paused&storage=hot&stream_sort=time%2Casc&viz=stream&from_ts=1713934800000&to_ts=1714747320000&live=false)](https://vagov.ddog-gov.com/dashboard/r39-ere-8pf/benefits-pension-527-itf?fromUser=fal[…]sliding&from_ts=1753963604159&to_ts=1753967204159&live=true)
 - Who is monitoring the dashboard(s)?: Product Manager (Matt Reilly) and Lead Engineer (Matt knight)
@@ -168,85 +169,37 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Planning
 
 - Length of time: 1 week
-- Percentage of Users (and roughly how many users do you expect this to be): 100% of daily submission, approximately 90 users
+- Percentage of Users (and roughly how many users do you expect this to be): 50% of daily submissions, approximately 90 users
 
 #### Results
 
-- Number of unique users: 10
+- Number of unique users: 
 - Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
 - Was any downstream service affected by the change?: No
 - Types of errors logged:
   -  Selected Tribal Land Does not populate the pdf #81372
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? None
 
-### Stage B: 25% of users
+### Stage B: 50% of users
 
 *Test a larger user population to ensure larger usage patterns expose no issues.*
 
 #### Planning
 
-- Length of time: 2 days (actual: 7)
-- Percentage of Users (and roughly how many users do you expect this to be): 25%
+- Length of time: 7 days (actual: 7)
+- Percentage of Users (and roughly how many users do you expect this to be): 100%
 
 #### Results
 
-- Number of unique users: 40
+- Number of unique users: 
 - Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
 - Was any downstream service affected by the change?: [PICK_ONE]: No
 - Types of errors logged:
    - Facility name not appearing in overflow #81791 
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? none
 
-### Stage C: 50% of users
+rily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-*Test a larger user population to ensure larger usage patterns expose no issues.*
-
-#### Planning
-
-- Length of time: 2 days (actual: 7 days)
-- Percentage of Users (and roughly how many users do you expect this to be): 50%
-
-#### Results
-
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: No
-- Types of errors logged:
-   - Date stamp format did not include time zone (UTC) and date stamp should stamp date the claim was submitted rather than the date the pdf was generated #82382
-   - Broken link for form pdf within the react widget on the form intro page #82383
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? none
-
-### Stage D: 75% of users
-
-*Test a larger user population to ensure larger usage patterns expose no issues.*
-
-#### Planning
-
-- Length of time: 2 days
-- Percentage of Users (and roughly how many users do you expect this to be): 75%
-
-#### Results
-
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
-
-### Stage E: 100% of users
-
-#### Planning
-
-- Length of time: 2 days
-- Percentage of Users (and roughly how many users do you expect this to be): 100%
-
-#### Results
-
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
 ## Post Launch metrics
 
@@ -255,10 +208,10 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 ### 1-week results
 
 - Number of unique users:
-- Error rate:
-- Abandonment rate:
-- Time to complete:
-- Sessions to complete
+- Network traffic to back end server 
+  - Error rate: <1%
+  - Pageviews
+  - Abandonment rate
 - Any issues with VA handling/processing?:  [PICK_ONE]: yes | no |  N/A
 - Types of errors logged: [FILL_IN]
 - Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes | no |  N/A
