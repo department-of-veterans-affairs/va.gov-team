@@ -180,8 +180,6 @@ We will partner with Perigean to recruit Veterans. All efforts will be made to r
   
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
-> **Please list the names of people in each role.** 
-
 - `Moderator:` **Jenny Wang, Lena Cardoso**	
 - `Research guide writing and task development (usually but not always same as moderator):` **Jenny Wang, Lena Cardoso, Kristen Faiferlick**		
 - `Participant recruiting & screening:`	**Perigean**	
