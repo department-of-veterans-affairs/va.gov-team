@@ -45,8 +45,8 @@ As outlined in the [intiative brief](https://github.com/department-of-veterans-a
 
 ### This release will include the following components:
 1. Form component updates 
-3. Info alerts on the form information page letting new users know the purpose and benefit of ITF and next steps when there is a system issue.
-4. Toggle for inforamtion page to show old vs new form instructions.
+2. Info alerts on the form information page letting new users know the purpose and benefit of ITF and next steps when there is a system issue.
+3. Toggle for inforamtion page to show old vs new form instructions.
 ---
 
 ## Step 1: Development
@@ -144,46 +144,21 @@ Downstream validation examples of ITFs confirmed in downstream system VBMS:
 
 
 
-
-#### Pl
-anning
-
-- Desired date range or test duration: April 3-12, 2024
-- Desired number of users: 6 full submissions of the min, max, and overflow scenarios outlined in [this sheet](https://docs.google.com/spreadsheets/d/1qFzoRny9uDHegSh1CemWP_FhL606ki54Z-Go-04jOUA/edit?usp=sharing) (scenarios tab)
-- How you'll recruit the right production test users: VFS team members, OCTO stakeholders, and VBA stakeholders will test
-- How you'll conduct the testing: using test users and validating the staging form payload submissions with downstream stakeholders
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: N/A
-
-#### Results
-
-- Number of users: 6
-- Number of bugs identified / fixed: See [this sheet](https://docs.google.com/spreadsheets/d/1pKE5rvUgoJe0vkh06W4EVCKL5ygXxgajCRa3nVTLARQ/edit?usp=sharing). Several issues were identified as Platform-level issues that are outside the scope of our team to fix. We will work with the Platform Team to fix.
-- Was any downstream service affected by the change?: Yes, as part of this form update, we also migrated the form payload from the depreciated Central Mail API to the Benefits Intake API.
-- Types of errors logged: [FILL_IN]
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes/no
-- If yes, what: [FILL_IN] with ticket numbers
-
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
 
 We recommend that the rollout plan has five stages, each increasing the number of Veterans. This plan is a strongly recommended guideline but should only be deviated for precise reasons.
 
 #### Rollout Planning
 
-- Desired date range: April 15 - May 10, 2024
+- Desired date range: August 7-13, 2025
 - How will you make the product available in production while limiting the number of users who can find/access it: Flipper
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
    - Network traffic to back end server 
-  - Abandonment rate:
-  - Submission volume:
-    - Canary: 10 submissions
-    - 25%/50%/75%: >10 submissions
   - Error rate: <1%
   - Pageviews
 - Links to the dashboard(s) showing "success criteria" metrics:
-  - Domo Dashboard request submitted
-  - [DataDog v2 submission dashboard](https://vagov.ddog-gov.com/logs?query=%40message_content%3A%22Lighthouse%3A%3ASubmitBenefitsIntakeClaim%20job%20starting%22%20%40named_tags.source%3Aburials-v2%20&agg_m=count&agg_m_source=base&agg_t=count&cols=host%2Cservice%2C%40payload.benefits_intake_uuid%2C%40payload.claim_id%2C%40named_tags.request_id&fromUser=true&messageDisplay=inline&refresh_mode=paused&storage=hot&stream_sort=time%2Casc&viz=stream&from_ts=1713934800000&to_ts=1714747320000&live=false)
-  - [Pageviews](https://analytics.google.com/analytics/web/?utm_source=marketingplatform.google.com&utm_medium=et&utm_campaign=marketingplatform.google.com%2Fabout%2Fanalytics%2F#/report/content-pages/a50123418w177519031p176188361/_u.date00=20240418&_u.date01=20240507&explorer-table.filter=~2Fburials-and-memorials-v2~2Fapplication~2F530~2Fintroduction&explorer-table.plotKeys=%5B%5D/)
-- Who is monitoring the dashboard(s)?: Product Manager (Laura Steele) and OCTO PO (Emily Theis)
+  - [[DataDog v2 submission dashboard](https://vagov.ddog-gov.com/logs?query=%40message_content%3A%22Lighthouse%3A%3ASubmitBenefitsIntakeClaim%20job%20starting%22%20%40named_tags.source%3Aburials-v2%20&agg_m=count&agg_m_source=base&agg_t=count&cols=host%2Cservice%2C%40payload.benefits_intake_uuid%2C%40payload.claim_id%2C%40named_tags.request_id&fromUser=true&messageDisplay=inline&refresh_mode=paused&storage=hot&stream_sort=time%2Casc&viz=stream&from_ts=1713934800000&to_ts=1714747320000&live=false)](https://vagov.ddog-gov.com/dashboard/r39-ere-8pf/benefits-pension-527-itf?fromUser=fal[…]sliding&from_ts=1753963604159&to_ts=1753967204159&live=true)
+- Who is monitoring the dashboard(s)?: Product Manager (Matt Reilly) and Lead Engineer (Matt knight)
 
 
 ### Stage A: Canary
