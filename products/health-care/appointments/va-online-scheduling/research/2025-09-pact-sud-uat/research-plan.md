@@ -72,7 +72,6 @@ As part of expanding online self-scheduling, we’re adding two new features to 
 
 **The interviews will combine tasks and direct questions, focusing on users’ ability to navigate the initial screens of the scheduling flow, their reactions to and understanding of these screens, and their preferences and expectations around clinic selection, PACT, and how they view SUD in relation to mental health.**
 
-
 ### Location
 
 - [X] **Remote**
@@ -92,18 +91,7 @@ We will partner with Perigean to recruit Veterans. All efforts will be made to r
 
 ### Recruitment criteria
 
-- **Write any recruitment criteria for experience or scenarios as screener questions with qualifying responses. Perigean will use these verbatim to recruit participants.**
-- Consider providing links to products and/or clear descriptions to ensure participants understand the question.
-  Example: Have you been to a VA urgent care facility in the last 6 months? [answer should be yes to qualify.]
-
-- The more recruitment criteria you have, the less likely that a small sample of participants will be able to meet all criteria.
-- Consider how you could leverage the [lean maximum variation sampling (MVS) approach](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/research/recruitment.md#lean-mvs-strategy) by breaking up criteria for your study into multiple cohorts that each isolate one primary criteria.
-- Perigean will consider each cohort as a separate recruitment effort, increasing the chances of meeting all criteria for your study. [Review an example of the multiple cohort approach.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/pre-mhv-prototype/generative-research-study-1/2020-12.research-plan1.md)
-
 ### List the ideal completed sessions and total number and type (Veterans, caregivers, etc.) of participants for this study:
-> [!NOTE]
-> Your total number should equal **1.5x** your ideal completed sessions number *(e.g. for 10 ideal completed sessions, request 15 total participants)*
-
 
 - `Veterans:` **[15]**
 - `Caregivers:` **[0]**
@@ -120,7 +108,6 @@ We will partner with Perigean to recruit Veterans. All efforts will be made to r
 - `Must identify as a gender other than male (recruit no less than 6)`
 - `Must be over the age of 55 (recruit no less than 6, and at least 3 over the age of 70)`
 - `Must have substance use disorder (recruit no less than 7)`
-
 
 #### Secondary criteria (nice-to-haves)
 
