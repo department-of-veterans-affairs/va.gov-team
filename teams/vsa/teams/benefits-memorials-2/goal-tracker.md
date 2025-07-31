@@ -78,7 +78,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
  - [x] VA COR approved the Sprint Goals (07/17/25)
  
 **_Delivery + Notes:_**
-- [ ] All goals have been updated in the sprint chart
+- [X] All goals have been updated in the sprint chart
 - [ ] Any Additional details about goals **not** completed will be documented here
 
 ## Sprint Goals - Sprint: 14 [7/30/25 - 8/12/25]  
