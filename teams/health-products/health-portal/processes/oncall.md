@@ -16,7 +16,7 @@ The Customer Support & Triage team will have a dedicated QA/Support engineer who
 
 ## On-Call Types
 
-### 1. Monitoring On-Call
+### 1. Monitoring On-Call (Incident Response)
 **Purpose**: Respond to system alerts and maintain service reliability
 
 The monitoring on-call engineer is responsible for responding to automated alerts from our monitoring systems (Datadog), triaging incidents, and coordinating with relevant teams to resolve system issues. This role focuses on maintaining uptime and performance of our services.
