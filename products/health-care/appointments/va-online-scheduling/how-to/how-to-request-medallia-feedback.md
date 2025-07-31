@@ -25,7 +25,7 @@ We also update data in two sources used for other reporting:
 - [Monthly MHV on VA.gov health apps spreadsheet](#monthly-mhv-on-vagov-feedback-spreadsheets) 
 - [UX Metrics spreadsheet](#ux-metrics-spreadsheet)
 
-## How to Request Medallia Feedback
+## 💬 Request Medallia Feedback
 
 1. Using the template below, submit a ticket in GitHub to Contact Center to collect the Medallia feedback. 
 2. If you want feedback delivered on a regular basis (daily/weekly/monthly note that in a comment in the generated ticket).
@@ -88,7 +88,7 @@ None
 
 Note: Contact Center will email you the feedback to the VA email address you provide. The feedback should be emailed to a VA.gov email address since it may contain PHI/PII information. 
 
-## How to Process Feedback
+## 🧹 Before Anaylzing the Feedback
 
 1. Download the spreadsheet sent by Contact Center to your machine/locally on the VA network. 
 
@@ -116,34 +116,51 @@ But make sure to review the entire sheet every time, as new data columns can be 
 
 8. Delete the original file from your computer.
 
-## How to Analyze Feedback
+## 🧐 How to Code Feedback
 
-Analyzing the feedback involves adding codes for themes, feature requests, and sentiment. We also call out when other tools are mentioned.
+Analyzing feedback involves applying codes for themes, feature requests, and sentiment. We also highlight when a user mentions other health tools.
 
 ### Coding themes and feature requests
 
-- Each line of feedback may be coded with multiple themes or feature requests
-   - Separate each code with a comma, i.e., `appt-data-issue, fr-data-providername, fr-data-typeofcare, quote` 
-- Definitions for codes are in the [user feedback spreadsheet](https://dvagov.sharepoint.com/:x:/r/sites/HealthApartment/Shared%20Documents/Appointments/User%20Feedback/2025%20Analysis.xlsx?d=wdaa5b5f611b649a28c4fcbc0bc8ef07a&csf=1&web=1&e=ZOW5q7) (2025). 
-   - Themes - trends we've seen through analysis
-   - Feature requests - user notes functionality that doesn't currently exist
+Each line of feedback may include multiple codes for themes or feature requests.  
+Separate each code with a comma.  
+**Example:**  
+`appt-data-issue, fr-data-providername, fr-data-typeofcare, quote`
 
-**Coding tips**
+- **Themes**: Trends or recurring patterns found in the data
+- **Feature requests**: User-identified needs for functionality that does not currently exist
 
-- The URL field can be helpful in determinining the nature of the feedback. If the comment is unclear, check which page
+Refer to the **[user feedback spreadsheet](https://dvagov.sharepoint.com/:x:/r/sites/HealthApartment/Shared%20Documents/Appointments/User%20Feedback/2025%20Analysis.xlsx?d=wdaa5b5f611b649a28c4fcbc0bc8ef07a&csf=1&web=1&e=ZOW5q7)(2025)** for definitions of each code.
 
- **Adding and removing codes**
 
-- Only add new codes when reviewing data for at least a month, preferably more, for new trends
-- Don't delete codes. At the end of the year, when spinning up a new tracker, we'll determine as a team which codes to drop from analysis.
+> [!TIP]
+> Use the **URL field** to determine what part of the site the user was interacting with.
+> If a comment is unclear, check which page the feedback came from to provide context.
+  
+### Adding and removing codes
+
+- Only introduce new codes after reviewing at least **one month** of data and observing consistent trends.
+- **Do not delete** any codes. At year-end, the team will evaluate which codes to retire when launching a new tracker.
+
  
-**Administrative codes**
+### Administrative codes
 
-- Add the `quote` code to any piece of feedback that you want to share with the team. Once coding is done, you can filter down to rows that contain the "quote" value and copy those into the report doc.
-  - The best quotes are actionable and specific, or get a the reason behind the comment.
-  - Also include quotes that show emotion. These can be helpful, when paired with the specific issue, to get across the need.
-- Use `other-health-tool` to help the MHV Health Teams identify comments for their tools.
-   - When you use this code, always include a code for the Other Product Tool column (see below)
+#### `quote`
+Use the `quote` code for feedback worth sharing with the team. These quotes are pulled into the team report.
+
+Include comments that are:
+- Specific and actionable
+- Reveal the reason behind the feedback
+- Show emotion that highlights the urgency or need
+
+#### `other-health-tool`
+Use this code when feedback refers to tools outside of the main application.  
+Always include a value in the **Other Product/Tool** column.
+
+Examples:
+- Secure Messaging  
+- Medical Records  
+- Medications
  
  
 ### Examples
@@ -154,28 +171,26 @@ Analyzing the feedback involves adding codes for themes, feature requests, and s
 | my medications were stopped without warning, i still had refills.....            |  No                    |  unrelated, other-health-tool            | Negative  | Medications       |  This is unrelated to the tools because it's a staff process issue. However, because it mentioned medications, we note it for the Medications team so they can review. Along with the comment being about a generally bad situation, all the likert values were low, so the sentiment is negative         |
 
 
-### **Add codes for Sentiment**
+### Sentiment Codes
 
-- Each line of feedback may be coded with a single sentiment code. Codes for sentiment are:
-    - Positive
-    - Negative
-    - Mixed
-    - Neutral
-- If the sentiment is unclear by the comment alone, use the following fields to help determine sentiment:
-    - `Were you able to do your task today?` - if the comment just includes a task, like "cancel an appointment" and they answer "No" to this question, then it's more likely a negative comment
-    - `What is your overall satisfaction with this site`
-    - `VA.gov experience`
-    - `VA.gov understanding`
-    - `Please rate your experience with this site`
-- Leave sentiment blank if there is no comment or likert rating
+Each feedback item should be coded with **only one** sentiment value:
 
-### **Add codes for other products/tools**
+- **Positive**: The tool/feature meets the user’s needs
+- **Negative**: The tool/feature does *not* meet the user’s needs
+- **Mixed**: Comment contains both positive and negative aspects
+- **Neutral**: No indication whether needs were met
 
-- If the comment includes a mention of a tool other than appointments, use the follow codes (separate multiple with commas):
-    - Secure Messaging
-    - Medical Records
-    - Medications
-- These are copied over to the monthly MHV on VA.gov feedback spreadsheets to help other teams identify relevant feedback
+#### When Sentiment is Unclear
+Use these fields for guidance:
+
+- **“Were you able to do your task today?”**  
+  - A “No” response with a simple task description (e.g., “cancel an appointment”) likely indicates **Negative** sentiment.
+- **“What is your overall satisfaction with this site?”**  
+  - A Neutral or Negative comment with a **Likert rating of 3 or lower** should be marked **Negative**.
+- **“Please rate your experience with this site today”** (MHV surveys only)
+
+If sentiment is still unclear and no helpful ratings are available, leave the field **blank**.
+
 
 ## How to report/share out feedback
 
