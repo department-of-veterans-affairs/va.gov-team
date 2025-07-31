@@ -126,8 +126,10 @@ Our VFS team was advised against testing in production due to the downstream act
 
 Completed staging test plan   
 [ITFV1 Test Plan.xlsx](https://github.com/user-attachments/files/21530941/ITFV1.Test.Plan.xlsx)
+
 [ITFV1 Regression Test Plan (1).xlsx](https://github.com/user-attachments/files/21530943/ITFV1.Regression.Test.Plan.1.xlsx)
-Downstream validation of ITFs confirmed in downstream system VBMS:
+
+Downstream validation examples of ITFs confirmed in downstream system VBMS:
 
 
 
