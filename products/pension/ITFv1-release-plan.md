@@ -7,8 +7,8 @@
 | Phase | Duration | Users | Dates |
 |---|---|---|---|
 |Phase 1: Staging testing |5 days|TBD| July 1-10, 2025 and July 22-24, 2025 |
-|Phase 2: 50% of users |7 days|50% of users (auth users only)|Aug 7, 2025|
-|Phase 2B: 100% of users| indefinite | 100% users (auth users only) |)|Aug 14, 2025|
+|Phase 2: 50% of users |7 days|50% of users (auth users only)|  Aug 7, 2025|
+|Phase 2B: 100% of users| indefinite | 100% users (auth users only) | Aug 14, 2025|
 |Phase 3: Retire V0| permanent | 100% users (auth users only) | TBD | 
 
 Considerations
