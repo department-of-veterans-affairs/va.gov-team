@@ -150,7 +150,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Rollout Planning
 
-- Desired date range: August 7-13, 2025
+- Desired date range: August 7-20, 2025
 - How will you make the product available in production while limiting the number of users who can find/access it: Flipper
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
    - Network traffic to back end server 
@@ -161,14 +161,14 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Who is monitoring the dashboard(s)?: Product Manager (Matt Reilly) and Lead Engineer (Matt knight)
 
 
-### Stage A: Canary
+### Stage A: 50% of Users
 
 *Test a small Veteran population to ensure any obvious bugs/edge cases are found.*
 
 #### Planning
 
-- Length of time: 10 submissions (estimated 4 hours)
-- Percentage of Users (and roughly how many users do you expect this to be): 20% of daily submission, 10-15 users
+- Length of time: 1 week
+- Percentage of Users (and roughly how many users do you expect this to be): 100% of daily submission, approximately 90 users
 
 #### Results
 
