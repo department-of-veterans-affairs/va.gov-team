@@ -1,5 +1,7 @@
 ## Endpoints consumed
 
+[Swagger Docs](https://department-of-veterans-affairs.github.io/va-digital-services-platform-docs/api-reference/#/benefits_forms/post_v0_caregivers_assistance_claims)
+
 See also [VA.gov Product Directory](https://depo-platform-documentation.scrollhelp.site/getting-started/vfs-product-directory)
 
 | Endpoint                                      | Team Ownership |
