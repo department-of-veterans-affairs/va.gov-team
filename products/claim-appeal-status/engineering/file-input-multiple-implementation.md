@@ -74,6 +74,7 @@ As a user,
 1. If I submit files A and B and A has already been successfully submitted previously, I get an error message for A saying that it has already been successfully submitted and I get a success message for B. Both are removed from the files listed in the mutliple file input (But is there a way they could turn a unprocessable entity into prcoessable and therefore we shouldn't remove it). Documents with wrong PDF passwords should remain. 
     - Currently it just displays the duplicate error alert and though it successfully uploades the other file it does not show its success alert
     - Currently it also keeps the duplicate file in the files listed in the mutliple file input
+    - Currently if there are multiple duplicate file errors it only shows the first one
     - In addition, the duplicate error message is displayed at the top of the page and not scrolled to
     - What about other status codes? It would be better if 500s stayed in the files listed in the mutliple file input and included a message why they couldnt be uploaded (the 500 error / come back at another time)
     - This change would drastically reduce 422s
