@@ -41,7 +41,8 @@ The Accredited Representation Management (ARM) team is part of the Accredited Re
 1. [ARM Github Project](https://github.com/orgs/department-of-veterans-affairs/projects/1180/views/10)
 2. [ARM Figma Designs](https://www.figma.com/file/bzbwObT9hiItve0q3cQX9c/Find-and-Appoint-a-Representative?type=design&mode=design&t=qs3g0N5S6p6hSnJo-0)
 3. [ARM Murals](https://app.mural.co/t/departmentofveteransaffairs9999/r/1613770853903?folderUuid=6f5bc102-a270-4486-8f72-551eb1f9a8b5) - IA and user flows, QA exercises
-   1. [ARM Stakeholders and Advisors](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1699986925507/b10367544c62e9b5e91ce0402cfb40d15b33804f)
+   1. [ARM Roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1733520738354/f3dce99e16382f161269a73a2339de61aea289c6)
+   2. [ARM Stakeholders and Advisors](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1699986925507/b10367544c62e9b5e91ce0402cfb40d15b33804f)
 5. [IA redirect plan - Sharepoint](https://dvagov.sharepoint.com/:w:/r/sites/SitewideCAIA/_layouts/15/Doc.aspx?sourcedoc=%7B203EE57C-1260-4A20-9981-40A7396FB36A%7D&file=0.0%20Redirect%20plan.docx&action=default&mobileredirect=true)
 6. [ARM Investigation](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representation%20Management/Research/ARM%20General%20Investigation.docx?d=wc58670f9e35140debe149ac21f20b65a&csf=1&web=1&e=lYiU0d)
 7. [ARM Future Ideas](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representation%20Management/ARM%20Future%20Ideas.docx?d=wfe95a788166e4670bfda5a59798550d7&csf=1&web=1&e=7iFIw0)
