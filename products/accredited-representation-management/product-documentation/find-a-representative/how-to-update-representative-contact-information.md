@@ -1,5 +1,4 @@
-# What to do if someone reaches out about updating representative contact info.
-
+# How to Update Representative Contact Information
 Note: The below content is only to be used on an individual basis to those who reach out to the team or adjacent teams directly. OGC is working on a larger task of creating a fact sheet for VSOs which we could then send to larger teams such as the contact center.
 
 1. Inform the Accredited Representation Management team
