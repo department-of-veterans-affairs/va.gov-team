@@ -3,7 +3,7 @@
 **Last Updated: July 2025**
 
 1. [User Flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1753141051322/aa958c4edc0a9c402e4c6a53709dfff823ce96e3)
-2. [Figma designs for Representative Status - In Profile](https://www.figma.com/design/bzbwObT9hiItve0q3cQX9c/Find-and-Appoint-a-Representative?node-id=2462-162679)
+2. [Figma designs for Representative Status - In Profile](https://www.figma.com/design/ZlPKxzaw44ge0s21Xoo4jS/Profile---Accredited-Representative-Status?node-id=2-10263&t=F6Ckb8hm3Ls7o0np-1)
 3. TestRail artifacts from Staging Review
     1. [Test Plan](https://dsvavsp.testrail.io/index.php?/plans/view/6712)
     2. [Coverage for References](https://dsvavsp.testrail.io/index.php?/reports/view/1309)
