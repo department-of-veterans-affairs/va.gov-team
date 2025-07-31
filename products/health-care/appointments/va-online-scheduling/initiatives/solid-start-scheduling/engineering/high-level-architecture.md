@@ -2,6 +2,8 @@
 config:
       theme: redux
 ---
+
+```mermaid
 architecture-beta 
     group vagov(cloud)[va gov]
 
@@ -18,3 +20,4 @@ architecture-beta
 
 
     vetsapi:R -- L:vassapi
+```
