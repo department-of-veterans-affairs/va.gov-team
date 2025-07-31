@@ -6,7 +6,7 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 
 ## User flow
 
-- [Figma files](https://www.figma.com/design/dm2KXJmeJEgCNKrDgIq8ko/Profile---Vet-Status-Card?node-id=3019-327397&t=L0Y6FLu3mEhMKaEu-1)
+- [Figma files](https://www.figma.com/design/dm2KXJmeJEgCNKrDgIq8ko/Profile---Vet-Status-Card?node-id=3111-6818&t=Au0c1HX1wFTygbGN-1)
 - [Test Rail QA](https://dsvavsp.testrail.io/index.php?/suites/view/3627&group_by=cases:section_id&group_order=asc&display_deleted_cases=0)
 - See individual use cases below for staging user accounts.
 
