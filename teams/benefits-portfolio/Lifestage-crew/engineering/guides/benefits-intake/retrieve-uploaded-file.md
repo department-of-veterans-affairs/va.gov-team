@@ -79,7 +79,12 @@ curl -X GET 'https://sandbox-api.va.gov/services/vba_documents/v1/uploads/{benef
 |-
 
 5. In the command line on the terminal, enter the following: `bundle exec rails console --sandbox`
-6. Once the rails console loads, type the following command: `IncomeAndAssets::SavedClaim.find_by(guid: {confirmation_number}).form` (make sure to replace `{confirmation_number}` with the actual confirmation number
+6. Once the rails console loads, type the following command:
+```sh
+# (make sure to replace `{confirmation_number}` with the actual confirmation number
+IncomeAndAssets::SavedClaim.find_by(guid: {confirmation_number}).form`
+```
+
 7. This should give you the form submission JSON
 
 |<img width="800" alt="terminal output" src="https://github.com/user-attachments/assets/9e9bf30f-be3b-4c5e-a51b-e6d7c98f3ce8" />
