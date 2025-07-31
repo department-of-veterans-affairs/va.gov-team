@@ -9,7 +9,7 @@
 |Phase 1: Staging testing |5 days|TBD| July 1-7, 2025  |
 |Phase 2: 50% of users |7 days|50% of users (auth users only)|Aug 7, 2025|
 |Phase 2B: 100% of users| indefinite | 100% users (auth and non-auth) |)|Aug 7, 2025|
-|Phase 3: Retire V0| permanent | 100% users (auth and non-auth) | TBD |
+|Phase 3: Retire V0| permanent | 100% users (auth and non-auth) | TBD | 
 
 Considerations
 - Pension form volume is typically ~200 per week, with ~180 authenticated submissions and ~20 unauthenticated submissions 
@@ -35,8 +35,8 @@ As outlined in the [intiative brief](https://github.com/department-of-veterans-a
       - Unauthenticated Users: Users will complete v2.
       - Authenticated Users: Users will complete v2.
 
-| User Type | Flipper Status | Form in Progress | ITF Version| V1 Info Content Displayed 
-|---|---|---|---|---|---|---|
+| User Type | Flipper Status | Form in Progress | ITF Version| V1 Info Content Displayed|
+|---|---|---|---|---|
 | Authenticated Users | Disabled | No | v0 Form | No | No |
 | Authenticated Users | Disabled | Yes, v0 | v0 Form | No | No |
 | Authenticated Users | Disabled | Yes, v1 | v1 Form | Yes | No |
