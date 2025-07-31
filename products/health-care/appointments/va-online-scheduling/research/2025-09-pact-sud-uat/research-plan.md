@@ -115,6 +115,24 @@ We will partner with Perigean to recruit Veterans. All efforts will be made to r
 - `At least 7 participants who join the session on their mobile phone`
 - `At least 3 participants who have a cognitive disability`
 
+### Screener questions
+
+1. Do you have an email and password for either Login.gov or ID.me that you use to sign into VA.gov?
+	- Yes (Go onto Screener question 2)
+	- No (Disqualify)
+2. Do you have a My HealtheVet (MHV) account?
+	- Yes (go on to Screener question 3)
+	- No (Disqualify)
+3. Have you signed into the My HealtheVet website at least once (this could be at home, at a VA clinic, hospital, or VA community care provider) in the last 12 months?
+	- Yes (go on to Screener question 4)
+	- No (disqualify)
+4. Have you scheduled or attempted to schedule a medical appointment in the last 12 months?
+	- Yes (go on to Screener question 5)
+	- No (Disqualify)
+5. Have you been talked to someone on your health team or screened for unhealthy use of drugs and alcohol? 
+	- Yes (recruit 7)
+	- No (recruit 8)
+
 
 ## Timeline 🗓️
 > [!NOTE]
