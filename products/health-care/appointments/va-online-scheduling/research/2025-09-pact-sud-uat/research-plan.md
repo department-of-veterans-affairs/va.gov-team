@@ -138,12 +138,13 @@ We will partner with Perigean to recruit Veterans. All efforts will be made to r
 > [!NOTE]
 > **Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.** 
 
+
 ### Optional Kick-off Call with Perigean
 
-- `Suggested dates and times:` **[Enter dates and times MM/DD HH:MM]**
+- `Suggested dates and times:` **09/DD HH:MM]**
+
 
 ### Prepare
-*When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).*
 
 **A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.** 
 > [!NOTE]
@@ -152,44 +153,42 @@ We will partner with Perigean to recruit Veterans. All efforts will be made to r
 - `Pilot participant name:` **[Enter name]**
 - `Date and time of pilot session:` **[Enter time]** 
 
+
 ### Research sessions
-- `Planned dates of research:` **[Enter dates MM/DD-MM/DD]**
+- `Planned dates of research:` **09/DD-09/DD**
+
 
 ### Length of sessions
+
 - `Session length:` **1 hour**
   
 - `Buffer time between sessions:` **30 minutes**
   
-- `Maximum Sessions per day:` **[3 per day]**
+- `Maximum Sessions per day:` **3 per day**
+
 
 ### Availability
-When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
-
-> [!NOTE]
-> We recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S. 
-
 > [!TIP]
 > Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. **(e.g. 3/17, Monday 9:00AM-1:00PM, 3:00PM-6:00PM EST; 3/18, Tuesday 9:00AM-6:00PM EST, etc.;** ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
->
-> **Place time slots between `hash marks` when in edit mode.**
 
 - `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
 - `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
 - `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
 - `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
 - `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `Add more slots as needed`
+
   
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
 > **Please list the names of people in each role.** 
 
-- `Moderator:` **[Jenny Wang, Lena Cardoso]**	
-- `Research guide writing and task development (usually but not always same as moderator):` **[Jenny Wang, Lena Cardoso, Kristen Faiferlick]**		
-- `Participant recruiting & screening:`	**[Perigean]**	
-- `Project point of contact:` **[Jenny Wang, Lena Cardoso]**		
-- `Note-takers:` **[Enter full name]** ***or*** **[Designate Perigean]**	
+- `Moderator:` **Jenny Wang, Lena Cardoso**	
+- `Research guide writing and task development (usually but not always same as moderator):` **Jenny Wang, Lena Cardoso, Kristen Faiferlick**		
+- `Participant recruiting & screening:`	**Perigean**	
+- `Project point of contact:` **Jenny Wang, Lena Cardoso**		
+- `Note-takers:` **Enter full name** ***or*** **[Designate Perigean**	
 - `Observers:` [Link to sign-up sheet](insert URL here)
+
 
 ## Approvals ✅
 - `Reviewed by [OCTO Product Owner, Kristen McConnell] on [MM-DD-YYYY]`
