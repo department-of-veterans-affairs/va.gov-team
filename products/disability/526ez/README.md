@@ -42,34 +42,7 @@
 
 
 ## Team 👥
-**Government Stakeholders:**
-- Executive sponsor: Chris Johnston (christopher.johnston2@va.gov)
-- Comp Services policy and process partners: Paul Schute (paul.shute@va.gov)
-- Product Owner: Emily Theis (emily.theis@va.gov)
-- Design and Research Lead: Shannon Ford (Shannon.Ford1@va.gov)
-- Engineering Lead: Sam Wiley (samuel.wiley@va.gov)
-- Contact center partner: Chante Lantos-Swett, Kimberly Monroe-Daniels
-- Web comms partner: n/a
-- ITSC (IT Strategic Comms) liaison: n/a
-- VBA contact: David Reis, Alejandro Mendiolaflores
-  
-**Cross team coordination and support:**
-- Program Lead: Jane Kim
-- Product Lead: Yurena Garcia-Hevia
-- Engineer Lead: Richard Jones
-- Accessibility Lead: Etan Berkowitz
-
-**Disability Benefits Team**
- 
-- Github Project: [Disability Benefits Crew](https://github.com/orgs/department-of-veterans-affairs/projects/1660/views/1)
-- GitHub team label: #disability-experience
-- Product manager: Andrew Belov
-- Design and Research: Momo Miyazaki, Irene Vailikit
-- Engineering: Kyle Soskin, Tommasina Miller, Alison Jones, JR Reed, Malesa Williams
- 
-- Product manager: Maurice DeBeary
-- Design and Research: Ruben Sun, Qian Chen
-- Engineering: Mark Chae, Justin Linn, Nathan Burgess, Scott Regenthal, Alex Tran
+Refer to #benefits-disability for most up to date team
 
 **Conditions and Evidence Team**
  
