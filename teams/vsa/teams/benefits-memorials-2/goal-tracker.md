@@ -88,7 +88,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 |UX: Refine the Pay.gov mockups based on the feedback from our discussion with the FE team.| QP4 |--|--|--|
 |UX: Create user flows & mockups for Hardship Suspension that are user-friendly and meet DMC's requirements.| QP6 |--|--|--|
 |ENG: Complete 8 points of remaining Digital Dispute work addressing the 4 remaining staging review feedback tickets.| QP1 |--|--|--|
-|ENG: Investigate next steps for submissions via Sharepoint and determine how to proceed..| QP7 |--|--|--|
+|ENG: Investigate next steps for submissions via Sharepoint and determine how to proceed..| QP7 |--|7/31/25|Complete|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [X] Ready to be sent for approvals (07/28/25)
