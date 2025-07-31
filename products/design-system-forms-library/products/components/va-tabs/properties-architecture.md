@@ -1,17 +1,36 @@
 # `va-tabs` Properties / Architecture
-_Last updated: 2025-05-16_
+_Last updated: 2025-07-31_
 
 See [ADR 003](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/va-tabs/design-decisions.md#adr-003-tab-style-choices) for a list of design systems that have tab component with a similar tab overflow behavior.
 
 ## Properties
 
-|             |          |              |          |                   |              |                                                        |
-| ----------- | -------- | ------------ | -------- | ----------------- | ------------ | ---------------------------------------------------------------- |
-| **Release** | **Name** | **Required** | **Type** | **Default Value** | **Platform** | **Description**                                                  |
-| v1          | aria-label      | true        | `string` | -                 | web/mobile   | A unique name for the rendered nav landmark. |
-| v1          | aria-current    | true        | ` 'page'  'step' 'location'  'date'  'time' 'true' 'false'` |  `'page'` |   web/mobile   |  Set aria-current to "page" to indicate that the item represents the current page. Set aria-current to "location" to indicate that the item represents the current location on a page. For more information about aria-current, see [MDN](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Reference/Attributes/aria-current). |
-| v1          | href      | true         |  `string` |    -             |    web/mobile               |   The unique url used for each tab        |   
-| v2         |  overflowBehavior  | true        |  `'stacked'` `'full-width'` `'menu'` |  `'menu'`        |  web/mobile | Choose between the overflow behavior for the tabs. The `'stacked'` option will show all tabs in a single vertical column. The `'full-width'` option would show expand the tabs to the full-width of the container with each tab spanning a equal widths of space. The `'menu'` option will bundle all the extra tabs into a dropdown. |
+### `va-tabs`
+
+Parent component
+
+| Release | Name             | Required | Type                                            | Default Value | Platform | Description                                                                                                                                                                                                                                                                                                                                |
+|---------|------------------|----------|-------------------------------------------------|---------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| v1      | `label`            | true     | `string`                                        | -             | web      | A unique name for the rendered div serving as `role="tablist"`. To be set as value for wrapper's `aria-label` attribute.                                                                                                                                                                                                                   |
+| v1      | `initally-selected` | false    | `number`                                        | `0`           | web      | The index of the initially selected tab. Defaults to `0` (the first tab).                                                                                                                                                                                                                                                                  |
+| v1      | `disable-analytics` | false    | `boolean`                                       | `false`       | web      | If `true`, the component-library-analytics event is disabled.                                                                                                                                                                                                                                                                              |
+| v2      | `overflow-behavior` | false    | `string`  `'stacked' \| 'full-width' \| 'menu'` | `'menu'`      | web      | Choose between the overflow behavior for the tabs. The  `'stacked'`  option will show all tabs in a single vertical column. The  `'full-width'`  option would show expand the tabs to the full-width of the container with each tab spanning a equal widths of space. The  `'menu'` option will bundle all the extra tabs into a dropdown. | container with each tab spanning a equal widths of space. The `'menu'` option will bundle all the extra tabs into a dropdown. |
+
+### `va-tab-item`
+Internal child component
+| Release | Name            | Required | Type      | Default Value | Platform | Description                                                                                                                                                                                                   |
+|---------|-----------------|----------|-----------|---------------|----------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| v1      | `button-text`    | true     | `string`  | -             | web      | The text content of the button element.                                                                                                                                                                       |
+| v1      | `target-id`      | true     | `string`  | -             | web      | The `id` of the target panel that this tab item controls.                                                                                                                                                     |
+| v1      | `selected` | false    | `boolean` | `false`       | web      | Denotes whether this tab item is currently selected in parent `va-tabs`. Note that this value does not need to be passed for component initialization, it will be set via business logic in parent `va-tabs`. |
+
+### va-tab-panel
+Internal child component
+| Release | Name       | Required | Type      | Default Value | Platform | Description                                                                                                                                                                                                                      |
+|---------|------------|----------|-----------|---------------|----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| v1      | `panel-id`  | true     | `string`  | -             | web      | he unique identifier for the tab panel. This should match the `id` referenced by the corresponding `va-tab-item`.                                                                                                                |
+| v1      | `selected` | false    | `boolean` | `false`       | web      | Indicates whether the tab panel is currently selected/visible in parent `va-tabs`. Note that this value does not need to be passed for component initialization, it will be set via logic in parent `va-tabs` on initial render. |
+
 
 ## Architecture Overview
 
