@@ -1,6 +1,7 @@
 # Find a Representative - Read Me
 
-Product Outline for Find a Representative: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/find-a-representative/product-outline-find-a-representative.md
+[Product Outline for Find a Representative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/find-a-representative/product-outline-find-a-representative.md
+)
 
 ## **Recommended Next Steps**
 
