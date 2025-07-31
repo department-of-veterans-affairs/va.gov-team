@@ -40,7 +40,7 @@ VA.gov product teams building forms that include prefilled data
 
 ## Is this a variation of existing component or new compontent?
 - Existing component of Card
-- Name: va-card-error-state
+- Name: va-card--error
 - Story Book Name: Card error state
 - Figma Name:
 - Design System Name: 
