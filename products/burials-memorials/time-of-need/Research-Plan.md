@@ -18,9 +18,9 @@
 
 **This is a new product; there is currently no digital self-service option for initiating burial requests through VA.gov. Veterans and their families have previously interacted only by phone, so this tool is new to them.**
 
-`Product Brief`
+`Product Outline`
 
-**[Link to product brief](products/burials-memorials/time-of-need/Product-Outline.md).**
+**[Link to product outline](products/burials-memorials/time-of-need/Product-Outline.md).**
 
 </details>
 
