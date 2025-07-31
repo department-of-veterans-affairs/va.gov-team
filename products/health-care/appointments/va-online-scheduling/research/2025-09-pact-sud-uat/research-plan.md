@@ -80,7 +80,7 @@ As part of expanding online self-scheduling, we’re adding two new features to 
 
 ## Research materials 📔
 	
-- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2025-09-pact-sud-uat/conversation-guide.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/research/2025-09-pact-sud-uat/conversation-guide.md)
 
 	
 ## Recruitment 🎯	
