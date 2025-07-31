@@ -38,9 +38,10 @@ The Accredited Representation Management (ARM) team is part of the Accredited Re
 3. ~[User Reports of Outdated Information](https://va-gov.domo.com/page/1509130506) (Find a Representative)~ - no longer being maintained
 
 ## Resources
-1. [ARM Github Project](https://github.com/orgs/department-of-veterans-affairs/projects/1180/views/10)
-2. [ARM Figma Designs](https://www.figma.com/file/bzbwObT9hiItve0q3cQX9c/Find-and-Appoint-a-Representative?type=design&mode=design&t=qs3g0N5S6p6hSnJo-0)
-3. [ARM Murals](https://app.mural.co/t/departmentofveteransaffairs9999/r/1613770853903?folderUuid=6f5bc102-a270-4486-8f72-551eb1f9a8b5) - IA and user flows, QA exercises
+1. [ARM Sharepoint](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FAccredited%20Representation%20Management&viewid=3fa7a9bb-3d4e-44c2-b93f-629268a08e72)
+2. [ARM Github Project](https://github.com/orgs/department-of-veterans-affairs/projects/1180/views/10)
+3. [ARM Figma Designs](https://www.figma.com/file/bzbwObT9hiItve0q3cQX9c/Find-and-Appoint-a-Representative?type=design&mode=design&t=qs3g0N5S6p6hSnJo-0)
+4. [ARM Murals](https://app.mural.co/t/departmentofveteransaffairs9999/r/1613770853903?folderUuid=6f5bc102-a270-4486-8f72-551eb1f9a8b5) - IA and user flows, QA exercises
    1. [ARM Roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1733520738354/f3dce99e16382f161269a73a2339de61aea289c6)
    2. [ARM Stakeholders and Advisors](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1699986925507/b10367544c62e9b5e91ce0402cfb40d15b33804f)
 5. [IA redirect plan - Sharepoint](https://dvagov.sharepoint.com/:w:/r/sites/SitewideCAIA/_layouts/15/Doc.aspx?sourcedoc=%7B203EE57C-1260-4A20-9981-40A7396FB36A%7D&file=0.0%20Redirect%20plan.docx&action=default&mobileredirect=true)
