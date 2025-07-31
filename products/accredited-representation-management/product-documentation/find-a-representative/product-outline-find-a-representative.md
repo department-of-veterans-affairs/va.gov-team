@@ -136,7 +136,7 @@ Released to 100% of users on March 13, 2024. A landing page "Get help from a VA 
 --- 
 ## **Recommended Next Steps**
 
-#### Next Version - Find a Representative 3.0
+#### Next Version Priorities - Find a Representative 3.0
 A future version of Find a Representative should strive for:
 1. Advanced filters, for users to refine their search results based on the associated VSO, a representative's name, and their method of contact.
 2. A detail page for search results, to reduce the initial search result cognitive load and allow for scalability of representative inforamtion on VA.gov.
