@@ -79,7 +79,7 @@ This cross-functional group serves as the Company points of contact for the deli
 |Name|Role|Company Email|VA Email|DSVA Slack|GitHub|
 |------|----|-----|-----|--------|------|
 | Marci McGuire | OCTO Product Lead | marci.mcguire@va.gov | marci.mcguire@va.gov | [@Marci McGuire](https://dsva.slack.com/team/U04K6QYPP6V) | [MarciMcGuire](https://github.com/MarciMcGuire) |
-| David Koger | Product Manager | dkoger@ironarchtech.com | david.koger@va.gov | TBD | TBD |
+| David Koger | Product Manager | dkoger@ironarchtech.com | david.koger@va.gov | TBD | [davidkoger](https://github.com/davidkoger) |
 | Mike Moyer | Full Stack Engineer | mmoyer@ironarchtech.com | michael.moyer@va.gov | [@Mike Moyer](https://dsva.slack.com/team/U03G1ECH00K) | [mmoyer-va](https://github.com/mmoyer-va) |
 | Ni Chia |  Full Stack Engineer | ni.chia@adhocteam.us | tchut.chia@va.gov | [@Ni Chia](https://dsva.slack.com/team/U07NQDN4WJG) | [nichia](https://github.com/nichia) |
 | Napoleon Kernessant | Frontend Engineer | napoleon.Kernessant@docme360.com | Napoleon.kernessant@va.gov | [@Napoleon Kernessant](https://dsva.slack.com/team/U03US4Z036J) | [GovNapoleon](https://github.com/GovNapoleon) |
@@ -98,7 +98,7 @@ During the transition period, the Medications team and Medical Devices team will
 | Richard Davis | Frontend Engineer | richard.davis@agile6.com | richard.davis437@va.gov | [@Richard Davis](https://dsva.slack.com/team/U05BCJSDCDA) | [radavis](https://github.com/radavis) |
 | Chris Donelson | Full Stack Engineer | CDonelson@ironarchtech.com | TBD | TBD | TBD |
 | Cam Keif | Frontend Engineer | ckeif@ironarchtech.com | TBD | TBD | TBD |
-| Ian Seabock | Frontend Engineer | iseabock@ironarchtech.com | ian.seabock@va.gov | TBD | [iseabock](https://github.com/iseabock) |
+| Ian Seabock | Frontend Engineer | iseabock@ironarchtech.com | ian.seabock@va.gov | [@Ian Seabock](https://dsva.slack.com/team/U06K0HKLX25) | [iseabock](https://github.com/iseabock) |
 
 ### Messaging
 - Slack channel: [#mhv-secure-messaging](https://dsva.slack.com/archives/C03ECSBGSKX)
@@ -109,9 +109,9 @@ During the transition period, the Medications team and Medical Devices team will
 | Stacy Blackwood | Product Manager | stacy.blackwood@adhocteam.us | stacy-ann.blackwood@va.gov | TBD | [StacyB2023](https://github.com/StacyB2023) |
 | Alex Morgun | Frontend Engineer | amorgun@ironarchtech.com | alex.morgun@va.gov | [@Alex Morgun](https://dsva.slack.com/team/U03FYHMUG9K) | [alex-morgun-1](https://github.com/alex-morgun-1) |
 | Kevin Suarez | Backend Engineer | kevin.suarez@agile6.com | kevin.suarez1@va.gov | [@Kevin Suarez](https://dsva.slack.com/team/U081A32NU4X) | [kjsuarez](https://github.com/kjsuarez) |
-| Adam Stoler | Full Stack Engineer | adam.stoler@agile6.com | adam.stoler@va.gov | TBD | TBD |
+| Adam Stoler | Full Stack Engineer | adam.stoler@agile6.com | adam.stoler@va.gov | TBD | [6StringCode](https://github.com/6StringCode) |
 | Jason Congliari | Full Stack Engineer | jConigliari@ironarchtech.com | jason.conigliari@va.gov | TBD | [Tonksthebear](https://github.com/Tonksthebear) |
-| Clint Wilde | Backend Engineer (Liferay) | clint.wilde@docme360.com | Clint.wilde@va.gov | TBD | [clintwildeva](https://github.com/clintwildeva) |
+| Clint Wilde | Backend Engineer (Liferay) | clint.wilde@docme360.com | Clint.wilde@va.gov | [@Clint Wilde](https://dsva.slack.com/team/U04JMFT4NUE) | [clintwildeva](https://github.com/clintwildeva) |
 | Mario Williams | Frontend Engineer (Liferay) | mwilliams@ironarchtech.com | TBD | TBD | TBD |
 | Jayson Perkins | Mobile Engineer | jayson.perkins@adhocteam.us | jayson.perkins@va.gov | [@Jayson Perkins](https://dsva.slack.com/team/U01A8SZCMHA) | [jperk51](https://github.com/jperk51) |
 
@@ -122,7 +122,7 @@ During the transition period, the Medications team and Medical Devices team will
 |------|----|-----|-----|--------|------|
 | Marci McGuire | OCTO Product Lead | marci.mcguire@va.gov | marci.mcguire@va.gov | [@Marci McGuire](https://dsva.slack.com/team/U04K6QYPP6V) | [MarciMcGuire](https://github.com/MarciMcGuire) |
 | Mark Carter | Business Analyst | mark.carter@agile6.com | mark.carter4@va.gov | [@Mark Carter](https://dsva.slack.com/team/U081CKD47FZ) | [mcarterA6](https://github.com/mcarterA6) |
-| Amy Cashbaugh | Frontend Engineer | acashbaugh@ironarchtech.com | amy.cashbaugh@va.gov | TBD | [amycashbaugh](https://github.com/amycashbaugh) |
+| Amy Cashbaugh | Frontend Engineer | acashbaugh@ironarchtech.com | amy.cashbaugh@va.gov | [@Amy Cashbaugh](https://dsva.slack.com/team/U095KDN5UR1) | [amycashbaugh](https://github.com/amycashbaugh) |
 | Geoff Winner | Mobile Engineer | geoff.winner@agile6.com | goeffrey.winner@va.gov | TBD | [geoff-winner](https://github.com/geoff-winner) |
 
 During the transition period, the Medications team and Medical Devices team will work closely together to ensure coverage.
