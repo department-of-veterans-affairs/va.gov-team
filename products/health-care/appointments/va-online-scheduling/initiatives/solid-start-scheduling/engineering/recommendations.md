@@ -34,12 +34,12 @@
   - the `x-` denotes a custom header
   - correlation is a more descriptive word
 
-## Cart before the horse questions
+## House keeping questions
 
-- How are we monitoring?
-- How are we deploying?
-- We should be versioning the endpoints
-- Where is the source code located? Github?
+- QUESTION: How are we monitoring?
+- QUESTION: How are we deploying?
+- QUESTION: We should be versioning the endpoints
+- QUESTION: Where is the source code located? Github?
 
 ## Specific endpoint feedback
 
@@ -62,8 +62,8 @@
 
 ### POST SaveAppointment
 
-- This is a UPSERT, that fine, what all fields get updated?
+- QUESTION: This is a UPSERT, that fine, what all fields get updated?
 
 ### POST CancelAppointment
 
-- What is the response? A HTTP 204?
+- QUESTION: What is the response? A HTTP 204?
