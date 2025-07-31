@@ -125,9 +125,24 @@ Rollback plan:
 Our VFS team was advised against testing in production due to the downstream actions that submitting an application for burial benefits triggers. To migtigate the risk this poses, we will performed extensive testing in a staging environment.
 
 Completed staging test plan   
+[ITFV1 Test Plan.xlsx](https://github.com/user-attachments/files/21530941/ITFV1.Test.Plan.xlsx)
+[ITFV1 Regression Test Plan (1).xlsx](https://github.com/user-attachments/files/21530943/ITFV1.Regression.Test.Plan.1.xlsx)
+Downstream validation of ITFs confirmed in downstream system VBMS:
 
 
-#### Planning
+
+
+
+
+
+
+
+
+
+
+
+#### Pl
+anning
 
 - Desired date range or test duration: April 3-12, 2024
 - Desired number of users: 6 full submissions of the min, max, and overflow scenarios outlined in [this sheet](https://docs.google.com/spreadsheets/d/1qFzoRny9uDHegSh1CemWP_FhL606ki54Z-Go-04jOUA/edit?usp=sharing) (scenarios tab)
