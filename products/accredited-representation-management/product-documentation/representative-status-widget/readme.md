@@ -1,6 +1,7 @@
 # Representative Status - Read Me
 
-Product Outline for Representative Status: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/representative-status-widget/product-outline-representative-status.md
+[Product Outline for Representative Status](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/representative-status-widget/product-outline-representative-status.md
+)
 
 ## **Recommended Next Steps**
 
