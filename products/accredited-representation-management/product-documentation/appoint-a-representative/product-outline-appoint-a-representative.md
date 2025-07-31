@@ -59,7 +59,14 @@ Released to 100% of users on March 25, 2025. Appoint a Representative 2.0 enable
 
 See the for additional context including: user flows, page names, sub-URLs, and specifics for each version.
 
-## **Risk: Form Versioning Discrepancy**
+## Current Risks
+
+#### Appoint a Representative is capturing a Veteran email address that is not aligned with Profile.
+Veterans may update the email address they’d like to use for receiving email notifications but because this update isn’t syncing to Profile, Lighthouse will continue to use the Profile email address for the ”Accept” email notification (and the Veteran may miss this email update).
+
+Integrating the "prefill pattern" into Appoint a Representative, where updates in the form flow are reflected in Profile, would resolve this risk.
+
+#### Form Versioning Discrepancy Between VA.gov and Lighthouse
 
 At the end of the online submission experience, users are provided with a copy of their completed VA Form 21-22. This download is the most up-to-date version of the form, but upon acceptance by the representative, Lighthouse will uploade an older version of VA Form 21-22 (pre-Oct 2023 updates) to the eFolder in VBMS when establishing the POA relationship. 
 
@@ -93,6 +100,8 @@ But there is an OCTO goal of keeping VA Forms up to date and this scenario puts 
 When we are out of the digital submission pilot phase, we will work with stakeholders to redirect related pages within [eBenefits](https://www.docstomarkdown.pro/convert-markdown-to-google-docs-online/%5Bhttps://www.ebenefits.va.gov/ebenefits/vso-search) to point to [Appoint a Representative](https://www.va.gov/get-help-from-accredited-representative/appoint-rep/introduction) on VA.gov.
 
 Longer term ideas for Appoint a Representative are stored in our[ ARM Future Ideas](https://dsva.slack.com/docs/T03FECE8V/F06JUJ4CR19) Slack canvas.
+
+---
 
 ## **Communications**
 
