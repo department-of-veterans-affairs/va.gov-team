@@ -80,8 +80,6 @@ As part of expanding online self-scheduling, we’re adding two new features to 
 
 
 ## Research materials 📔
-
-**For moderated interviews:** 
 	
 - [Link to conversation guide](url goes here)
 
@@ -107,27 +105,29 @@ We will partner with Perigean to recruit Veterans. All efforts will be made to r
 > Your total number should equal **1.5x** your ideal completed sessions number *(e.g. for 10 ideal completed sessions, request 15 total participants)*
 
 
-- `Veterans:` **[n]**
-- `Caregivers:` **[n]**
-- `Dependents:` **[n]**
-- `Total:` **[n]**
-- `Ideal completed sessions:` **[n]**
+- `Veterans:` **[15]**
+- `Caregivers:` **[0]**
+- `Dependents:` **[0]**
+- `Total:` **[15]**
+- `Ideal completed sessions:` **[10]**
 
 ### Primary criteria (must-haves)
-*What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
 
-- `[Place primary criteria here between hash marks when in edit mode]`
-- `primary criteria`
-- `primary criteria`
-- **`Add more criteria as needed`**
+- `All participants must be enrolled in VA healthcare.`
+- `All participants must have received care at a VA facility in the past year.`
+- `All participants should have scheduled or attempted to schedule appointments using MHV on VA.gov within the last 12 months.`
+- `All participants must have a MHV premium account, OR an authenticated / identity-proofed ID.me account. In the email sent by Perigean, they should be informed that you will need to log in to their accounts either before or during the interview session so they should have their account details handy for the session, as they will be required to sign in.`
+- `Must identify as a gender other than male (recruit no less than 6)`
+- `Must be over the age of 55 (recruit no less than 6, and at least 3 over the age of 70)`
+- `Must have substance use disorder (recruit no less than 7)`
+
 
 #### Secondary criteria (nice-to-haves)
-*What criteria would strengthen your results?* 
 
-- `[Place secondary criteria here between hash marks when in edit mode]`
-- `secondary criteria`
-- `secondary criteria`
-- **`Add more criteria as needed`**
+- `At least 7 participants who identify as other than Caucasian`
+- `At least 7 participants who join the session on their mobile phone`
+- `At least 3 participants who have a cognitive disability`
+
 
 ## Timeline 🗓️
 > [!NOTE]
@@ -184,7 +184,7 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 - `Participant recruiting & screening:`	**[Perigean]**	
 - `Project point of contact:` **[Jenny Wang, Lena Cardoso]**		
 - `Note-takers:` **[Enter full name]** ***or*** **[Designate Perigean]**	
-- `Observers: [Link to sign-up sheet](insert URL here)
+- `Observers:` [Link to sign-up sheet](insert URL here)
 
 ## Approvals ✅
 - `Reviewed by [OCTO Product Owner, Kristen McConnell] on [MM-DD-YYYY]`
