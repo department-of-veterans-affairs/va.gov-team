@@ -55,7 +55,9 @@
 
 `What are you trying to learn from this research?`
 
-### Goals
+### Goals for Cohort 1
+
+_This study will have multiple cohorts since it's continuous research. Each cohort might map to different goals._
 
 `1.` **How do Veterans understand what adding and removing dependents does to their benefits?**
 
@@ -71,7 +73,9 @@
 
 ---
 
-### Research questions
+### Research questions for Cohort 1
+
+_This study will have multiple cohorts since it's continuous research. Each cohort may have different research questions._
 
 **_Consider bucketing research questions under research goals and think about:_**
 `What will I do with what I learn from this question? Does this question serve the goals of my study?`
@@ -91,7 +95,9 @@ Some key questions:
 - What does dependent verification mean?
 - What do you think dependent verification does?
 
-### Hypotheses
+### Hypotheses for Cohort 1
+
+_This study will have multiple cohorts since it's continuous research. Each cohort might have different hypotheses._
 
 ---
 
@@ -155,27 +161,8 @@ _What demographics, experience, and scenarios do you need participants to meet t
 
 _What criteria would strengthen your results?_
 
-TBD.
-
-- `23 Veterans between the ages of 55-64+`
-- `23 Veterans with a cognitive disability`
-- `23 Veterans who are mobile users`
-- `12 Veterans who live in rural areas`
-- `12 Veterans who have no degree`
-- `8 Veterans of immigrant origin`
-- `8 Veterans who are women`
-- `1 Veteran who is an expat (living abroad)`
-
-- `7 Veterans who are Black or African American`
-- `6 Veterans who are Hispanic, Latino, or Spanish origin`
-- `2 Veterans who are Biracial`
-- `2 Veterans who are Asian`
-- `1 Veteran who is Native, American Indian or Alaska Native`
-- `1 Veteran who is gay, lesbian, or bisexual`
-- `1 Veteran who is transgender`
-- `1 Veteran who is nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman`
-
-- `Unfortunately our prototype does is not accessible so we cannot include assistive tech users in this study`
+- `Because this is a continuous research, we encourage Perigean to recruit a representative sample of Veterans. The team will work with Perigean to adjust recruitment criteria in future cohorts if needed.`
+- `Since we're not using a prototype, we can talk to Veterans who use assistive technology.`
 
 ## Timeline 🗓️
 
@@ -192,27 +179,25 @@ TBD.
 
 ### Research sessions
 
-- `Planned dates of research:` **07/28-08/01**
+- `Planned dates of research:` **08-10/18-18/25**
 
 ### Length of sessions
 
-**We estimate that the survey will take 20 minutes to complete.**
+**Each session would last no more than an hour.**
 
 ### Availability
 
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**.
 
-**This section is not applicable because the research is unmoderated.**
-
 ## Team Roles 🕵️👩‍💻👩‍🔬
 
-- `Moderator:` **N/A**
-- `Research guide writing and task development (usually but not always same as moderator):` **Megan Graham**
-- `Participant recruiting & screening:` **Megan Graham**
-- `Project point of contact:` **Megan Graham**
+- `Moderator:` **Megan Graham, David Kennedy, Kristin Ouellette Muskat, Gretchen Maciolek, Fiorella Geedi**
+- `Research guide writing and task development (usually but not always same as moderator):` **Megan Graham, David Kennedy**
+- `Participant recruiting & screening:` **Megan Graham, David Kennedy**
+- `Project point of contact:` **Megan Graham, David Kennedy**
 - `Accessibility specialist (for sessions where support for assistive technology may be needed):` **N/A**
 - `Note-takers:` **N/A**
-- `Observers:` **N/A**
+- `Observers:` **Megan Graham, David Kennedy, Kristin Ouellette Muskat, Gretchen Maciolek, Fiorella Geedi**
 
 ## Approvals ✅
 
