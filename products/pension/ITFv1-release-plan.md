@@ -6,10 +6,10 @@
 
 | Phase | Duration | Users | Dates |
 |---|---|---|---|
-|Phase 1: Staging testing |5 days|TBD| July 1-7, 2025  |
+|Phase 1: Staging testing |5 days|TBD| July 1-10, 2025 and July 22-24, 2025 |
 |Phase 2: 50% of users |7 days|50% of users (auth users only)|Aug 7, 2025|
-|Phase 2B: 100% of users| indefinite | 100% users (auth and non-auth) |)|Aug 7, 2025|
-|Phase 3: Retire V0| permanent | 100% users (auth and non-auth) | TBD | 
+|Phase 2B: 100% of users| indefinite | 100% users (auth users only) |)|Aug 14, 2025|
+|Phase 3: Retire V0| permanent | 100% users (auth users only) | TBD | 
 
 Considerations
 - Pension form volume is typically ~200 per week, with ~180 authenticated submissions and ~20 unauthenticated submissions 
@@ -17,7 +17,6 @@ Considerations
 ## Overview
 As outlined in the [intiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/burial-allowance/530-initiative-brief-2024-updates.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pension/ITF-product-brief.md)), VA has the concept of an Intent to File (ITF), which enables Veterans to establish a potential start date for benefit payments up to a year before they submit their claim. It is especially helpful for Veterans who expect to take some time to gather evidence to complete and submit a benefit claim, and want to maximize their opportunity for back pay. By providing an intuitive experience that enables Veterans to undertand the purpose and benefits of intent to file, and next steps if the system fails to generate ITF, the Veteran will benefit from claity that enhances their trust in VA systems.
 
-[Release plan user flow]
 
 ### The release plan will need to consider the following use cases:
 1. Applications In-Progress
@@ -30,10 +29,9 @@ As outlined in the [intiative brief](https://github.com/department-of-veterans-a
 2. Applications Not Started
    - Before full release:
       - Unauthenticated Users: Intent to File functionality is not available to unauthenticated users.
-      - Authenticated Users: Users may be directed to fill out the updated version (v2) of the form depending on the level of incremental traffic set for the v2 form (25%/50%/75%100%)
+      - Authenticated Users: Users may be directed to fill out the updated version (v1) of the form depending on the level of incremental traffic set for the v2 form (50%/100%)
    - After 100% release
-      - Unauthenticated Users: Users will complete v2.
-      - Authenticated Users: Users will complete v2.
+      - Authenticated Users: Users will complete v1.
 
 | User Type | Flipper Status | Form in Progress | ITF Version| V1 Info Content Displayed|
 |---|---|---|---|---|
@@ -46,11 +44,9 @@ As outlined in the [intiative brief](https://github.com/department-of-veterans-a
 | No-Auth Users (Post-100% Release)| N/A | No | v1 Form | Yes | No |
 
 ### This release will include the following components:
-1. Form component updates on the pages already receiving form field updates
-2. Accessibility updates on the pages already receiving form field updates
-3. Info alert on the form information page letting new users or in-progress users who were migrated to v2 know that the form has been updated.
+1. Form component updates 
+3. Info alerts on the form information page letting new users know the purpose and benefit of ITF and next steps when there is a system issue.
 4. Toggle for inforamtion page to show old vs new form instructions.
-5. New confirmation email sent to users confirming their claim submission through VA.gov
 ---
 
 ## Step 1: Development
@@ -62,7 +58,7 @@ List the features toggles here.
 | Toggle name | Description |
 | ----------- | ----------- |
 | pension_itf_show_alert | Enable ITF V1 alerts|
-| intent_to_file_synchronous_enabled | Enable ITF V1 alerts|
+| intent_to_file_synchronous_enabled |Toggle Synchrounous ITF V1 |
 
 
 
@@ -126,7 +122,10 @@ Rollback plan:
    - New users will be directed to v1 of the form.
 
 ### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
-Our VFS team was advised against testing in production due to the downstream actions that submitting an application for burial benefits triggers. To migtigate the risk this poses, we will be doing extensive testing in a staging environment.
+Our VFS team was advised against testing in production due to the downstream actions that submitting an application for burial benefits triggers. To migtigate the risk this poses, we will performed extensive testing in a staging environment.
+
+Completed staging test plan   
+
 
 #### Planning
 
