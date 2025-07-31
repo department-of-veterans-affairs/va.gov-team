@@ -84,14 +84,16 @@ While there are many instances of the buttons rendered above, only a few key fil
 - If the base instances of the Verify Buttons need to be changed:
     - `src/platform/user/authentication/components/VerifyButton.jsx`
 - Any of the following files to update the actual Verify Buttons themselves:
-    - `src/applications/sign-in-changes/components/AccountSwitch.jsx`
-    - `src/applications/sign-in-changes/components/CreateAccount.jsx`
-    - `src/applications/static-pages/cta-widget/components/messages/SignInOtherAccount.jsx`
-    - `src/applications/static-pages/cta-widget/components/messages/Verify.jsx`
-    - `src/applications/static-pages/mhv-signin-cta/components/messages/UnverifiedAlert.jsx`
-    - `src/applications/travel-pay/components/alerts/VerifyIdentityAlert.jsx`
-    - `src/applications/ask-va/containers/IntroductionPage.jsx`
-    - `src/applications/ask-va/containers/SignInInterruptPage.jsx`
-    - `src/applications/static-pages/download-1095b/components/App/index.js`
-    - `src/applications/verify/components/UnifiedVerify.jsx`
-    - `src/platform/user/authorization/components/VerifyAlert.jsx`
+    - Identity Related
+        - `src/applications/sign-in-changes/components/AccountSwitch.jsx`
+        - `src/applications/sign-in-changes/components/CreateAccount.jsx`
+        - `src/applications/static-pages/cta-widget/components/messages/SignInOtherAccount.jsx`
+        - `src/applications/static-pages/cta-widget/components/messages/Verify.jsx`
+        - `src/applications/verify/components/UnifiedVerify.jsx`
+        - `src/platform/user/authorization/components/VerifyAlert.jsx`
+    - Related to Other Teams
+        - `src/applications/static-pages/mhv-signin-cta/components/messages/UnverifiedAlert.jsx`
+        - `src/applications/travel-pay/components/alerts/VerifyIdentityAlert.jsx`
+        - `src/applications/ask-va/containers/IntroductionPage.jsx`
+        - `src/applications/ask-va/containers/SignInInterruptPage.jsx`
+        - `src/applications/static-pages/download-1095b/components/App/index.js`
