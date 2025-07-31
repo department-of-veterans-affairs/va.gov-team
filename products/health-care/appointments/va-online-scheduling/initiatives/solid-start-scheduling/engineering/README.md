@@ -53,6 +53,14 @@ API response standardization:
 - Error handling and success patterns
 - Before/after examples for endpoint improvements
 
+### [🔗 LoROTA/](./LoROTA/)
+
+Low Risk One Time Authentication diagrams and implementation ideas:
+
+- Sequence diagrams for LoROTA integration
+- Short-lived URL approach for veteran authentication
+- GUID-based tracking system
+
 ## Key Architectural Decisions
 
 1. **Frontend/Backend Split**: Veterans use va.gov interface, staff use Dynamics interface
@@ -108,3 +116,5 @@ The following questions need to be addressed during implementation:
 - [JSON API Standards](https://jsonapi.org/)
 - [OpenAPI Specification](https://swagger.io/specification/)
 - [VA Notify Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-notify/README.md)
+- [LoROTA (Low Risk One Time Authentication)](https://github.com/department-of-veterans-affairs/lorota)
+- [LoROTA Implementation Example (Check-in)](../../../../../../health-care/checkin/engineering/lorota/)
