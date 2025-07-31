@@ -39,6 +39,7 @@
 - How are we monitoring?
 - How are we deploying?
 - We should be versioning the endpoints
+- Where is the source code located? Github?
 
 ## Specific endpoint feedback
 
