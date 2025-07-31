@@ -85,6 +85,8 @@ If team is notified of or identifies an issue:
 - Recover from outage/restore service per MHV Contingency Plan (to be updated).
 
 ### MHV User-facing Team or VA.gov/VAHB Platform
+On-call details are outlined in the [On-Call Overview](oncall.md)
+
 If team is notified of or identifies an issue:
 - Follow [incident response procedures](https://depo-platform-documentation.scrollhelp.site/developer-docs/incident-response-documentation-for-application-te)
    - While in STEP ONE, On-call Engineer sends Slack message in #mhv-health-portal-coordination and tags MHV API/Platform (contacts TBD) with awareness of new incident
