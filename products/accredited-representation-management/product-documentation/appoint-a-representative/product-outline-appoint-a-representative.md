@@ -90,16 +90,32 @@ But there is an OCTO goal of keeping VA Forms up to date and this scenario puts 
 2. [Required Form Fields](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/appoint-a-representative/required-form-fields.md)
 3. [Decision and Change Log: Appoint a Representative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/appoint-a-representative/decision-change-log-appoint-a-representative.md)
 4. [Appoint a Representative Playbook/Incident Response Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/appoint-a-representative/launch-materials/product-playbook-incident-response-plan.md)
-5. [Contact Center Guide](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/product-documentation/appoint-a-representative/contact-center)
+5. [Contact Center Guide](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/product-documentation/appoint-a-representative/contact-center) (with screenshots)
 6. [Appoint a Rep Planning Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1714785369605/65b1ce20d08478615fe2ef8c347cf19305cbffab) (with user flow and IA notes)
 
 ---
 
 ## **Recommended Next Steps**
 
-When we are out of the digital submission pilot phase, we will work with stakeholders to redirect related pages within [eBenefits](https://www.docstomarkdown.pro/convert-markdown-to-google-docs-online/%5Bhttps://www.ebenefits.va.gov/ebenefits/vso-search) to point to [Appoint a Representative](https://www.va.gov/get-help-from-accredited-representative/appoint-rep/introduction) on VA.gov.
+#### Next Version Priorities - Appoint a Representative 2.1
+A future version of Appoint a Representative should strive for:
+1. Updating the contact information entry pages, to use the prefill pattern and ensure any updates are also updated in the user's Profile.
+   1. Current implementation leans on text-input components that are pre-populated with Profile information, but any edits do not get routed back to Profile.
+2. Features that did not make the version 2.0 release date - UX and accessibility improvements, code cleanup.
 
-Longer term ideas for Appoint a Representative are stored in our[ ARM Future Ideas](https://dsva.slack.com/docs/T03FECE8V/F06JUJ4CR19) Slack canvas.
+Related epic with refined tickets: [Appoint a Representative 2.1](https://github.com/orgs/department-of-veterans-affairs/projects/1180/views/34)
+
+#### Redirect Goals
+
+When [Appoint a Representative](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/product-documentation/appoint-a-representative) is out of pilot for the online submission of VA Form 21-22 (i.e. most, or all VSOs can accept online submissions), we will work with stakeholders to redirect related pages within eBenefits:
+1. https://www.ebenefits.va.gov/ebenfits/vso-search - redirect to Find a Representative
+2. https://www.ebenefits.va.gov/ebenfits/about/feature?feature=request-vso-representative - redirect to Appoint a Representative
+3. https://www.ebenefits.va.gov/ebenfits/manage/representative - redirect to landing page
+
+Reference: [IA redirect plan - Sharepoint](https://dvagov.sharepoint.com/:w:/r/sites/SitewideCAIA/_layouts/15/Doc.aspx?sourcedoc=%7B203EE57C-1260-4A20-9981-40A7396FB36A%7D&file=0.0%20Redirect%20plan.docx&action=default&mobileredirect=true)
+
+#### Future Ideas
+Longer term ideas are stored in our[ARM Future Ideas](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representation%20Management/ARM%20Future%20Ideas.docx?d=wfe95a788166e4670bfda5a59798550d7&csf=1&web=1&e=7iFIw0) document.
 
 ---
 
