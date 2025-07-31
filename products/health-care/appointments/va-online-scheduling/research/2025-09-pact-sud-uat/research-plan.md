@@ -57,13 +57,13 @@ As part of expanding online self-scheduling, we’re adding two new features to 
 
 ---
 
-**- Veterans may be confused and unsure about which clinic to select due to a significantly longer list of options and clinic names that are unclear or difficult to interpret.**
-**- Veterans prioritize scheduling appointments based on type of care, location, provider, and availability, while selecting a specific clinic is generally less important in their decision-making process.** 
-**- Most Veterans likely do not know what a PACT is, who their assigned PACT is, or whether they have ever seen a provider from that team.** 
-**- Veterans who know what the assigned PACT is and have seen providers on their assigned PACT may expect to schedule directly with them instead of choosing a clinic.**  
-**- Most Veterans may not recognize the connection between type of care, clinic selection, and their assigned providers, even if they know what a PACT is.**  
-**- Veterans may recognize some clinics from previous experiences, but more clinics may not improve their online scheduling experience.** 
-**- Most Veterans who have not talked about SUD with someone on their care team or been not screened for SUD will not view SUD as part of mental health. However, those who have talked about SUD with someone on their care team or been screened for SUD will likely categorize this disorder under mental health.** 
+- **Veterans may be confused and unsure about which clinic to select due to a significantly longer list of options and clinic names that are unclear or difficult to interpret.**
+- **Veterans prioritize scheduling appointments based on type of care, location, provider, and availability, while selecting a specific clinic is generally less important in their decision-making process.**
+- **Most Veterans likely do not know what a PACT is, who their assigned PACT is, or whether they have ever seen a provider from that team.**
+- **Veterans who know what the assigned PACT is and have seen providers on their assigned PACT may expect to schedule directly with them instead of choosing a clinic.**
+- **Most Veterans may not recognize the connection between type of care, clinic selection, and their assigned providers, even if they know what a PACT is.**
+- **Veterans may recognize some clinics from previous experiences, but more clinics may not improve their online scheduling experience.**
+- **Most Veterans who have not talked about SUD with someone on their care team or been not screened for SUD will not view SUD as part of mental health. However, those who have talked about SUD with someone on their care team or been screened for SUD will likely categorize this disorder under mental health.** 
 
 ---
 
