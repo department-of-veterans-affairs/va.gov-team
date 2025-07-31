@@ -141,7 +141,7 @@ We will partner with Perigean to recruit Veterans. All efforts will be made to r
 
 ### Optional Kick-off Call with Perigean
 
-- `Suggested dates and times:` **09/DD HH:MM]**
+- `Suggested dates and times:` **09/DD HH:MM**
 
 
 ### Prepare
