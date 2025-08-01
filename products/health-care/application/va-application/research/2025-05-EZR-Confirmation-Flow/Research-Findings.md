@@ -138,11 +138,10 @@ Participants expected VA.gov to align with their mental models around progress t
 ## **Additional Insights**
 
 **Additional Insights 1.** 
-Participants generally found the flow easy to use, which aligns with findings from previous studies.
-
-- All participants have recently used VA.gov.
+Participants found the flow easy to use, reinforcing patterns from previous studies around clarity and supportive UI elements.
+- All participants had recently used VA.gov.
 - Every section of the form has several participants, indicating the form is clear and straightforward.
-- Like previous studies, many participants responded positively to the save-in-progess messages, hint text, pre-fill, and additional information component.
+- Like past studies, many participants responded positively to the save-in-progess messages, hint text, pre-fill, and additional information component.
   - 7 participants expanded the additional information component to read the description, with 5 expilicity indicating it is helpful.
   - 6 participants mentioned that the save-in-progess alert is good.
  
@@ -150,8 +149,8 @@ Participants generally found the flow easy to use, which aligns with findings fr
 *P9: "These dropdown boxes are awesome". (re: additional information component*
 
 **Additional Insight 2:** 
-Participants prefer the online experience over the phone.
-- 3 participants noted that they would prefer to make edits online themselves instead of calling the 800 number since it is often a long wait time.
+Participants prefer the online experience over the phone for making updates.
+- 3 participants expressed a clear preference for self-service editing over calling, citing long wait times and complicated menus.
 *P5: "I hate having to call 800 number to do things, especially if it's the VA general number trying to work through a menu to get the right person. It's never fun."
 
 **Additional Insight 3:** 
