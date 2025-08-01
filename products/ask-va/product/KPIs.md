@@ -25,7 +25,7 @@ These KPIs help us understand how Ask VA is meeting expected submitter outcomes 
 |[Performance] Error rate, Submit reply|0.2% (2462)|0.1% (6827)|0.5% (6870))||
 |[Performance] AVG p95 Latency, Submit inquiry (auth)|⚠️6.1s|⚠️5.8s|⚠️8.0s|X|
 |[Performance] AVG p95 Latency, Submit inquiry (unauth)|2.0s|1.7s|1.7s|X|
-|[Performance] AVG p95 Latency, Submit reply|3.1s|3.6s|4.3s|X|
+|[Performance] AVG p95 Latency, Submit reply|3.1s|3.6s|⚠️4.3s|X|
 |[Performance] Throughput, Successful Submit inquiry (auth + unauth) calls|14744|43887|49219||
 |[Performance] Throughput, Successful Submit reply calls|2341|6819|4836|x|
 |[Form/Dashboard] Satisfaction (Intercept)|13% (24)|31% (62)|39% (112)|X|
