@@ -59,7 +59,6 @@ List the features toggles here.
 | ----------- | ----------- |
 | pension_itf_show_alert | Enable ITF V1 alerts|
 | pension_itf_enable| Enable ITF V1 requests|
-| intent_to_file_synchronous_enabled |Toggle Synchrounous ITF V0 - remove at 100% |
 
 
 
