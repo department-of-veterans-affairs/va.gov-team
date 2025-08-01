@@ -1,27 +1,32 @@
 ---
-name: "(Cartographers) User story template"
-about: Use this template for user stories for the Cartographers team (MHV-on-VAgov).
+name: "Horizon - new ticket template"
+about: Use this template for new tickets for the Horizon team (MHV-on-VAgov).
 title: ''
-labels: Cartographers, needs-refinement
+labels: Horizon, needs-refinement
 assignees: ''
 
 ---
 
 ## Description
+-
 
-### User story
+## User story
 
-As a Horizon team member, I want
-As a Veteran, I want
+-As a Horizon team member, I want... so that...
 
-### Notes
+-As a user, I want... so that...
+
+## Job story
+
+-When...   I want to... so that...
+
+## Notes
 - 
 
-Possible tasks:
+## Possible tasks:
 - 
 
 ## Acceptance criteria
-
-- 
-- QA review
-- A11y review
+- [ ] blank
+- [ ] QA review
+- [ ] A11y review
