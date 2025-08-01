@@ -113,7 +113,7 @@ _This study will have multiple cohorts since it's continuous research. Each coho
 
 **_Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design._**
 
-**The research method we will be using is recorded, moderated usability testing.**
+**The research method we will be using is recorded, moderated user interviews.**
 
 ### Location
 
@@ -180,7 +180,6 @@ _What criteria would strengthen your results?_
 ### Research sessions
 
 - `Planned dates of research:` **08-10/18-18/25**
-- Suggested times: 08/19/25: 12 - 3 ET; 08/20/25: 10 - 2 ET; 08/21/25: 10 - 1 ET.
 
 ### Length of sessions
 
@@ -189,6 +188,7 @@ _What criteria would strengthen your results?_
 ### Availability
 
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**.
+- Suggested times: 08/19/25: 12 - 3 ET; 08/20/25: 10 - 2 ET; 08/21/25: 10 - 1 ET.
 
 ## Team Roles 🕵️👩‍💻👩‍🔬
 
