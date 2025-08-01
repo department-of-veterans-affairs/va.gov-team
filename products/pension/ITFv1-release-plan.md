@@ -37,8 +37,8 @@ As outlined in the [intiative brief](https://github.com/department-of-veterans-a
 | User Type | Flipper Status | Form in Progress | ITF Version| V1 Info Content Displayed|
 |---|---|---|---|---|
 | Authenticated Users | Disabled | No | v0 | No | No |
-| Authenticated Users | Disabled | Yes, v0 | v0 Form | No | No |
-| Authenticated Users | Disabled | Yes, v1 | v1 Form | Yes | No |
+| Authenticated Users | Disabled | Yes, v0 | v0 | No | No |
+| Authenticated Users | Disabled | Yes, v1 | v1 | Yes | No |
 | Authenticated Users | Enabled | No | v1  | No | Yes |
 | Authenticated Users | Enabled | Yes, v0 | v1 | Yes | Yes |
 | No-Auth Users (Pre-100% Release) | N/A | No | v0 | No | No |
