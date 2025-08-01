@@ -115,17 +115,17 @@ Similar to previous studies, we want Veteran users who have VA health care, trav
 
 ### Recruitment approach with Perigean
 
-Planning \+ Prep: 
+Planning \+ Prep: Monday 8/18/2025
 
-Approval/recruit kickoff: 
+Approval/recruit kickoff: Wednesday 8/20/2025
 
-Data collection (interviews): 
+Data collection (interviews): Monday, 8/25/25 \- Monday, 9/8/25
 
 We will partner with Perigean to recruit Veterans. We request a 30 minute kickoff meeting with Perigean to align on what is needed and desired from the sample. Availability for potential kickoff meeting times with Perigean, depending on their availability is below.  More time can be made available based on Perigean’s needs.
 
-* x  
-* x  
-* x
+* Wednesday 8/20/2025 12:30 pm \- 5pm ET  
+* Thursday 8/20/2025 10:30am ET  
+* Thursday 8/20/2025 1pm ET
 
 ### Prepare
 
@@ -146,16 +146,72 @@ Planned dates of research: M \- M
 
 *All times are in EST* 
 
-**Day**  
-**Day**  
-**Day**
+**Monday, 8/25/25**
+
+10:30am est \- 11:30am est
+
+1pm est \- 2pm est
+
+2:30pm est \- 3:30pm est
+
+4pm est \- 5pm est
+
+**Tuesday, 8/26/25**
+
+10:30am est \- 11:30am est
+
+1pm est \- 2pm est
+
+2:30pm est \- 3:30pm est
+
+4pm est \- 5pm est
+
+**Wednesday, 8/27/25**
+
+10:30am est \- 11:30am est
+
+1pm est \- 2pm est
+
+2:30pm est \- 3:30pm est
+
+4pm est \- 5pm est
+
+**Thursday, 5/28/25**
+
+10:30am est \- 11:30am est
+
+1pm est \- 2pm est
+
+2:30pm est \- 3:30pm est
+
+4pm est \- 5pm est
+
+**Friday, 5/29/25**
+
+10:30am est \- 11:30am est
+
+12pm est \- 1pm est
+
+1:30pm est \- 2:30pm est
+
+3pm est \- 4pm est
+
+**Tuesday, 9/2/25**
+
+10:30am est \- 11:30am est
+
+12pm est \- 1pm est
+
+1:30pm est \- 2:30pm est
+
+3pm est \- 4pm est
 
 ## **Team Roles**
 
 Please list the people who will be serving in each role. Include the primary phone number for moderator and the emails for moderator, notetaker, accessibility specialist, and observers.
 
 * Moderator: Micah Taylor  
-* Research guide writing and task development (usually but not always same as moderator): Cara Frissell, Micah Taylor  
+* Research guide writing and task development (usually but not always same as moderator): Micah Taylor, Liza McRuer  
 * Participant recruiting & screening: Perigean  
 * Project point of contact: Micah Taylor, Kristen McConnell  
 * Participant(s) for pilot test: n/a
