@@ -97,7 +97,7 @@ Veterans submitting online form 28-1900 have a positive experience and can trust
 - Team Name: Benefits Non-Disability Experience Team (Team Umbrella)
 - GitHub Label(s): Umbrella, Ch31
 - Slack channel: benefits-non-disability
-- Product POCs: Laura Steele (product manager), Emily Theis (OCTO Lead)
+- Product POCs: Mike King (product manager), Dave Conlon (OCTO Lead)
 
 #### Stakeholders
 - Office/Department:
