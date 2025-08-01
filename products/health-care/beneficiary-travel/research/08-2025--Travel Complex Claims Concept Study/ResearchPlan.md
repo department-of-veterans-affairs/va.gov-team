@@ -1,3 +1,56 @@
+---
+title: "Research Plan for Beneficiary Travel Pay Team, Complex Claims Concept Study, 2025-08-01"
+date_created: "2025-08-01"
+author: "micahtaylor"
+product: "Beneficiary Travel Pay (Complex Claims)"
+background: "Veterans face challenges submitting travel reimbursement claims for VA medical appointments, particularly for complex claim scenarios involving multiple expenses beyond standard mileage."
+outcome: "This research identifies pain points and comprehension gaps in the claim submission process, guiding design improvements and prioritizing features to make the digital experience more intuitive and accessible for a diverse Veteran population."
+methodology:
+  - "Remote video interviews (Zoom)"
+  - "Concept/prototype usability testing"
+tags:
+  - "AUD: Veterans"
+  - "BNFT: Healthcare"
+  - "BNFT: Finances"
+  - "HDW: Smartphone"
+  - "HDW: Tablet"
+  - "HDW: Desktop"
+  - "Accessibility"
+  - "DSP: Notifications"
+  - "DSP: Help users to recover from errors"
+  - "DSP: Form Feedback"
+  - "DSP: Help users to check eligibility"
+  - "DSP: Help users to manage benefits and tools"
+  - "DSP: Help users to check personal information"
+veteran journey_stage: "Taking care of myself | Retiring"
+octo_priority: "Objective 1: Our digital experiences are the best way to access VA health care and benefits."
+research_goals:
+  - "Assess Veterans’ understanding of the claim submission process and eligibility"
+  - "Identify whether users focus on trip details or reimbursement items first"
+  - "Evaluate usability of proposed concepts for submitting complex claims"
+  - "Understand post-submission expectations and concerns"
+participant_criteria:
+  total: "15 (with goal of 10 completed sessions)"
+  veterans: "15"
+  servicemembers: "0"
+  caregivers: "0"
+  dependents: "0"
+  rural_participants: "≥3"
+  urban_participants: "Not specified"
+  participants_over_55: "≥5"
+  device_requirements: "smartphone or tablet (≥5 mobile users)"
+session_details:
+  duration_minutes: "60"
+  max_sessions_per_day: "3"
+forms_tested:
+  - "Claim submission concepts (prototype, not numbered forms)"
+key_features_tested:
+  - "Intro/eligibility page comprehension"
+  - "Complex claim reimbursement flow"
+moderator: "Micah Taylor"
+---
+
+
 # Research Plan: Complex Claims Concept Study
 
 ## Background
