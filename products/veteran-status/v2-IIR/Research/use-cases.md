@@ -2,20 +2,14 @@
 
 Last updated: July 31, 2025
 
+- [User flow](https://www.figma.com/design/dm2KXJmeJEgCNKrDgIq8ko/Profile---Vet-Status-Card?node-id=3111-6818&t=J5aMFPlJyzhhZKP0-1)
+- [Figma files](https://www.figma.com/design/dm2KXJmeJEgCNKrDgIq8ko/Profile---Vet-Status-Card?node-id=3019-327398&t=J5aMFPlJyzhhZKP0-1)
+- [Test Rail QA](https://dsvavsp.testrail.io/index.php?/suites/view/3627&group_by=cases:section_id&group_order=asc&display_deleted_cases=0)
+   - See individual use cases below for staging user accounts.
+
 For all of these use cases, the user must be LOA3 (identity verified). If the user is not LOA3, the user will be directed to the Profile Account Security section.
 
-## User flow
-
-- [Figma files](https://www.figma.com/design/dm2KXJmeJEgCNKrDgIq8ko/Profile---Vet-Status-Card?node-id=3111-6818&t=Au0c1HX1wFTygbGN-1)
-- [Test Rail QA](https://dsvavsp.testrail.io/index.php?/suites/view/3627&group_by=cases:section_id&group_order=asc&display_deleted_cases=0)
-- See individual use cases below for staging user accounts.
-
 ## Common use cases
-
-### User logs in with LOA1 account
-
-- [User logs in with an LOA1 account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
-
 ### User logs in with LOA3 account
 
 <details><summary>User can successfully view their Veteran Status Card</summary>
@@ -75,6 +69,10 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 </details>
 
 ## Edge cases
+### Validation
+There are no validation use cases for this page.
+
+### Flags
 
 <details><summary>Vet status confirmed with non-403 response for service history</summary>
   
@@ -99,18 +97,28 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 - **Staging user:** `vets.gov.user+90@gmail.com`
 - **Status codes:** Service history: 200 (with no service history) or 403 error, Vet verification status: 200  
 - **Content:**
-  -We can't match your information to any military service records
+
+  Header: We can't match your information to any military service records
+
   We're sorry for this issue. If you want to learn what military service records may be on file for you, call the Defense Manpower Data Center (DMDC) at 800-538-9552 (TTY: 711). The DMDC office is open Monday through Friday (except federal holidays), 8:00 a.m. to 8:00 p.m. ET.
   If you think there might be a problem with your military service records, you can apply for a correction.
+
   Learn how to correct your military service records on the National Archives website
+
 - **Format:** [Warning Alert Component](https://design.va.gov/storybook/?path=/story/uswds-va-alert--warning)
-- **Link to designs:** [Mismatch Service History](https://www.figma.com/design/dm2KXJmeJEgCNKrDgIq8ko/Profile---Vet-Status-Card?node-id=3110-5775&t=L0Y6FLu3mEhMKaEu-1)
+- **Link to designs:** [Mismatch Service History](https://www.figma.com/design/dm2KXJmeJEgCNKrDgIq8ko/Profile---Vet-Status-Card?node-id=3110-5535&t=J5aMFPlJyzhhZKP0-1)
 - **Link to code:** [Display Mismatch Service History Alert](https://github.com/department-of-veterans-affairs/vets-website/blob/ecee7bb9aa8e40034119700e0b523f0ade08aa0e/src/applications/personalization/profile/components/veteran-status-card/VeteranStatus.jsx#L211)
 - **Additional components:**
   - "Frequently asked questions" section (displayed)
   - "How do I get a physical version of my Veteran status card?" (FAQ not displayed)
 
 </details>
+
+[Blocked users documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/blocked-account.md)
+
+[User logs in with an LOA1 account](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
+
+### Errors
 
 <details><summary>Vet verification status responds with an error</summary>
   
@@ -129,7 +137,6 @@ For all of these use cases, the user must be LOA3 (identity verified). If the us
 
 </details>
 
-## Errors
 
 <details><summary>Error downloading PDF</summary>
   
