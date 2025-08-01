@@ -61,17 +61,17 @@ Note that after the spouse section, users will fork for A/B testing of the propo
 
 ## Hypotheses and Conclusions
 
-- **Hypothesis Statement: The participant will understand the Spouse Information and Financial Information shown in List&Looop's review page** [Insert statement]  
+- **Hypothesis Statement: The participant will understand the Spouse Information and Financial Information shown in List&Looop's review page** 
   - **Likely True**  
   - 8/10 participants expressed a clear understanding of spouse and financial information List & Loop component.  
 
-- **Hypothesis Statement: The participant will prefer the Confirmation Flow (Option Red) over the existing MVP flow (Option Green)** [Insert statement]  
+- **Hypothesis Statement: The participant will prefer the Confirmation Flow (Option Red) over the existing MVP flow (Option Green)**   
   - **Maybe True**  
   - 6/10 participants prefer Option Red while 4/10 participants prefer Option Green.
 
-- **Hypothesis Statement:** [Insert statement]  
-  - **"Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”**  
-  - Supporting evidence  
+- **Hypothesis Statement: The participant will ask more questions, require more time to understand the content in the gray reference card component**  
+  - **"Maybe True"
+  - Several participants showed hesitation and/or confusion at the initial with the Gray Box reference but 6/10 participants indicated that the entire section was not confusing and straightforward to go through.
 
 
 ## Key Findings
@@ -90,14 +90,31 @@ Note that after the spouse section, users will fork for A/B testing of the propo
 *Provide detailed descriptions and supporting evidence for each key finding.*  
 
 **Finding 1:**  
-Brief description  
-- _Supporting data: Quote [add context]_  
-- _Supporting data: ![text](link - add image to github folder and link here with .png)_  
+Participants generally understood the List&Loop component for the spouse and financial information, but want more contextual guidance and content consolidation around the List & Loop's intro and review pages. 
+- 7 out of 10 participants found that the financial section was easy to understand in both prototypes.
+- Participants expressed a need for the List & Loop to have clear guidance or to consolidate its content.
+    - 3 participants felt that the Dependent List&Loop Intro should be merged with the next page.
+    - 5 participants wanted more dynamic content or upfront information on gathering the required financial information.
+- 4 participants suggested adding details like Date of Marriage to the Spouse Review page to reduce the need for checking or backtracking.
+
+*- P3: "Why don't you combine the 2 (financial intro and income pages) again? It's just this question, right? It's just this question. And then whne you click next, it all expands out to include what I'm trying to put in".*
+
+*-P8: "A little synopsis of just like these questions in the [review accordion]. So that when they come back...they can verify it without having to click the edit button" (re: spouse review page).*
 
 **Finding 2:**  
-Brief description  
+Participants showed a slight preference for Option Red (Confirmation Flow) over Option Green (existing MVP flow) due to the perceived speed and helpful reference information. 
+
+- 6 out of 10 participants preferred Option Red, citing efficiency and helpful reference cues. The remaining 4 preferred Option Green. (MVP flow)
+- 5 out of 10 participants noted that both flows felt similar and 2 of those did not express a strong preference for either.
+- 6 out of 10 participants found that the gray box referencing previously filled information to be helpful for context, even if the information wasn't directly relevant to them.
+
+
+ 
 - _Supporting data: Quote [add context]_  
 
+**Finding 3:**  
+Brief description  
+- _Supporting data: Quote [add context]_  
 ---
 
 ## **Additional Insights**
