@@ -1,8 +1,6 @@
 # Ask VA Onboarding checklist
 This is an onboarding checklist for new team members. Modeled after the MHV on VA.gov checklst ([GitHub here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/templates/orientation-template.md)).
 
-Still work in progress (as of 8/1/25). 
-
 ## VA Platform docs
 ### If you're new to VA
 - [ ] Read Platform Orientation pages and complete tasks on the page
