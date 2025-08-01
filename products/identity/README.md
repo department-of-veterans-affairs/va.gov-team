@@ -12,8 +12,8 @@ The OCTO Identity team manages the authentication integration for VA.gov. We wor
 | [DS Logon Deprecation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/DSLogon%20Deprecation) | Now | Improves Veteran sign-in experience and security by consolidating to modern credentials |
 | [Post-MHV Deprecation Work](https://github.com/department-of-veterans-affairs/identity-documentation/milestone/4) | Now | Ensures continuity and secure access for Veterans post-MHV deprecation |
 | [Production Test Account Replacement Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Production%20Test%20Accounts)] | Now | Provides secure testing and training options for internal VA teams and contractors after MHV sunset |
-| [Delegate Access on VA.gov](https://github.com/department-of-veterans-affairs/identity-documentation/milestone/3) | Now | Supports caregivers and family members with secure delegated access to Veteran services |
 | **Other Strategic Initiatives** |  |  |
+| [Delegate Access on VA.gov](https://github.com/department-of-veterans-affairs/identity-documentation/milestone/3) | Now | Supports caregivers and family members with secure delegated access to Veteran services |
 | [Identity Fraud Mitigation & Response](https://github.com/department-of-veterans-affairs/identity-documentation/milestone/8) | Next | Enhances protection against identity fraud through proactive monitoring and response strategies |
 | [Improving Identity Metrics](https://github.com/department-of-veterans-affairs/identity-documentation/milestone/5) | Next | Strengthens insight into user identity journeys through improved measurement and reporting |
 | [MHV & MVH Move into VA.gov](https://github.com/department-of-veterans-affairs/identity-documentation/milestone/1) | As Time Allows | Streamlines access and experience for Veterans by integrating services into VA.gov |
