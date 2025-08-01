@@ -6,7 +6,7 @@
 
 | Phase | Duration | Users | Dates |
 |---|---|---|---|
-|Phase 1: Staging testing |5 days|TBD| July 1-10, 2025 and July 22-24, 2025 |
+|Phase 1: Staging testing |14 days|7| July 1-10, 2025 and July 22-24, 2025 |
 |Phase 2: 50% of users |7 days|50% of users (auth users only)|  Aug 7, 2025|
 |Phase 2B: 100% of users| indefinite | 100% users (auth users only) | Aug 14, 2025|
 |Phase 3: Retire V0| permanent | 100% users (auth users only) | TBD | 
@@ -15,33 +15,33 @@ Considerations
 - Pension form volume is typically ~200 per week, with ~180 authenticated submissions and ~20 unauthenticated submissions 
 
 ## Overview
-As outlined in the [intiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/burial-allowance/530-initiative-brief-2024-updates.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pension/ITF-product-brief.md)), VA has the concept of an Intent to File (ITF), which enables Veterans to establish a potential start date for benefit payments up to a year before they submit their claim. It is especially helpful for Veterans who expect to take some time to gather evidence to complete and submit a benefit claim, and want to maximize their opportunity for back pay. By providing an intuitive experience that enables Veterans to undertand the purpose and benefits of intent to file, and next steps if the system fails to generate ITF, the Veteran will benefit from claity that enhances their trust in VA systems.
+As outlined in the [intiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/burial-allowance/530-initiative-brief-2024-updates.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pension/ITF-product-brief.md)), VA has the concept of an Intent to File (ITF), which enables Veterans to establish a potential start date for benefit payments up to a year before they submit their claim. It is especially helpful for Veterans who expect to take some time to gather evidence to complete and submit a benefit claim, and want to maximize their opportunity for back pay. By providing an intuitive experience that provides a series of alerts that enable Veterans to undertand the purpose and benefits of intent to file, and next steps if the system fails to generate ITF, the Veteran will benefit from claity that enhances their trust in VA systems.
 
 
 ### The release plan will need to consider the following use cases:
 1. Applications In-Progress
    - Before full release:
-      - Unauthenticated Users: Intent to File functionality is not available to unauthenticated users.
-      - Authenticated Users: If the user maintains a single active session, they will complete the legacy, back-end only version of the Intent to File experience. If they leave a session and start a new one, they may be directed to the updated version (v1) of the form with clarifying language presented about ITF, depending on the level of incremental traffic set for the legacy form (50%/100%).
+      - Unauthenticated Users: Intent to File alert functionality is not available to unauthenticated users.
+      - Authenticated Users: If the user maintains a single active session, they will complete the legacy, back-end only version of the Intent to File experience. If they leave a session and start a new one, they may be directed to the updated version (v1) with alerts presented about ITF, depending on the level of incremental traffic set for the legacy form (50%/100%).
    - After 100% release:
       - Unauthenticated Users:  Intent to File functionality is not available to unauthenticated users.
-     - Authenticated Users: If the user maintains a single active session, they will complete the legacy, back-end only version of the Intent to File experience.        If they leave a session and start a new one, they may be directed to the updated version (v1) of the form with clarifying language presented about ITF. 
+     - Authenticated Users: If the user maintains a single active session, they will complete the legacy, back-end only version of the Intent to File experience.        If they leave a session and start a new one, they may be directed to the updated version (v1) with alerts presented about ITF. 
 2. Applications Not Started
    - Before full release:
       - Unauthenticated Users: Intent to File functionality is not available to unauthenticated users.
-      - Authenticated Users: Users may be directed to fill out the updated version (v1) of the form depending on the level of incremental traffic set for the v2 form (50%/100%)
+      - Authenticated Users: Users may be directed to fill out the updated version (v1) with alerts presented depending on the level of incremental traffic set for the updated version (v1) (50%/100%)
    - After 100% release
-      - Authenticated Users: Users will complete v1.
+      - Authenticated Users: Users will complete the v1 experience.
 
 | User Type | Flipper Status | Form in Progress | ITF Version| V1 Info Content Displayed|
 |---|---|---|---|---|
-| Authenticated Users | Disabled | No | v0 Form | No | No |
+| Authenticated Users | Disabled | No | v0 | No | No |
 | Authenticated Users | Disabled | Yes, v0 | v0 Form | No | No |
 | Authenticated Users | Disabled | Yes, v1 | v1 Form | Yes | No |
-| Authenticated Users | Enabled | No | v1 Form | No | Yes |
-| Authenticated Users | Enabled | Yes, v0 | v1 Form | Yes | Yes |
-| No-Auth Users (Pre-100% Release) | N/A | No | v0 Form | No | No |
-| No-Auth Users (Post-100% Release)| N/A | No | v1 Form | Yes | No |
+| Authenticated Users | Enabled | No | v1  | No | Yes |
+| Authenticated Users | Enabled | Yes, v0 | v1 | Yes | Yes |
+| No-Auth Users (Pre-100% Release) | N/A | No | v0 | No | No |
+| No-Auth Users (Post-100% Release)| N/A | No | v1 | Yes | No |
 
 ### This release will include the following components:
 1. Form component updates 
