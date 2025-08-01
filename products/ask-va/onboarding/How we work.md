@@ -21,6 +21,11 @@ Smart and capable people made decisions likely influenced by forces beyond their
 - Never share Personal Health Information (PHI), Personally Identifiable Information (PHI), and credentials in Slack, including private channels. Use encrypted email, send a link to the GitHub va.gov-team-sensitive repo, or to the test user dashboard. When in doubt... ask your OCTO lead.
 - Thread convos by replying to messages.
 - If you're going to be out of office, update your status with an OOO note and the relevant dates.
+- There are our current Slack channels and what they're for. Consider consolidating/updating them in the future?
+   - #ask-va-public: Use for questions/messages that need all team awareness. Use this channel as a default if you're not sure which one to use.
+   - #ask-va-integration: Use for communicating with the Ask VA CRM team.
+   - #ask-va-tech: Use for engineering convos
+   - #ask-va-design: Use for design and research convos
 
 ### Email
 - Send emails with your VA.gov email address.
