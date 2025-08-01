@@ -115,17 +115,19 @@ The 21a v4 experience serves as the MVP for VA.gov, since this will be the first
 
 Remaining development work to bring version 4.0 to a "release-ready" stage includes:
 1. Chapter 6: Complete document handling implementation in vets-website and vets-api, to ensure documents are successfully transferred to GCLAWS upon submission.
-3. End to End tests.
-4. Only allow LOA3 users on the backend, so it can't be accessed directly via API.
-5. Updating the experience for post-submission:
+2. Technical wrap up
+   1. End to End tests.
+   2. Only allow LOA3 users on the backend, so it can't be accessed directly via API.
+3. Updating the experience for post-submission:
    1. Remove the application from Save In Progress tables.
    2. Improve the confirmation page.
    3. Confirm submission on the Introduction page.
-6. Entry points to the 21a experience, on the ARP homepage.
-7. Formal QA, to uncover and address any critical bugs.
-8. Privacy Review.
-9. Staging Review.
-10. Implement Datadog monitoring.
+4. Entry points to the 21a experience, on the ARP homepage.
+5. Formal QA, to uncover and address any critical bugs.
+6. Privacy Review.
+7. Staging Review.
+8. **Release!**
+9. Implement Datadog monitoring in Production.
 
 This remaining work is ready for development, and outlined in the tickets, within this epic: ARM Development 21a v4.0
 
