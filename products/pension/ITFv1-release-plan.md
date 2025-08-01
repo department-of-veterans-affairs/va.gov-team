@@ -168,7 +168,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Planning
 
 - Length of time: 1 week
-- Percentage of Users (and roughly how many users do you expect this to be): 50% of daily submissions, approximately 90 users
+- Percentage of Users (and roughly how many users you expect this to be): 50% of daily submissions, approximately 90 users
 
 #### Results
 
