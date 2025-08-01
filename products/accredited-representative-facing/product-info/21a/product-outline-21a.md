@@ -66,8 +66,7 @@ This product is not yet in Production, please refer to the "Recommended Next Ste
 The 21a v4 experience serves as the MVP for VA.gov, since this will be the first time users can complete a 21a form online. The goal of this version is to match the [VA Form 21a paper form](https://www.va.gov/vaforms/va/pdf/va21a.pdf), while also factoring in essential business logic (including required GCLAWS fields) from our OGC stakeholders. 
 
 Remaining development work to bring version 4.0 to a "release-ready" stage includes:
-1. Completing unit tests for Chapters 8-9 of the 21a form experience.
-2. Chapter 6: Implement document handling in vets-website and vets-api, to ensure documents are successfully transferred to GCLAWS upon submission.
+1. Chapter 6: Comlete document handling implementation in vets-website and vets-api, to ensure documents are successfully transferred to GCLAWS upon submission.
 3. End to End tests.
 4. Only allow LOA3 users on the backend, so it can't be accessed directly via API.
 5. Updating the experience for post-submission:
