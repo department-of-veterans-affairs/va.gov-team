@@ -154,14 +154,8 @@ Release:
 
 - Prod Manager: Andrew Belov
 - Delivery Lead: Jane Kim
-- Des/Res Lead: Ruben Sun
-- Des/Res: TBD
-- Des/Res: TBD
-- Full Stack Eng: TBD
-- Full Stack Eng: TBD
-- Full Stack Eng: TBD
-- Lead Eng: TBD
-
+- Des/Res Lead: Irene Vailikit
+- Eng: Kyle Soskin
 
 </details>
  
