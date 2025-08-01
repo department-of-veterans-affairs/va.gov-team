@@ -78,13 +78,6 @@ Note that after the spouse section, users will fork for A/B testing of the propo
 
 *Summarize the 5–10 most impactful findings from your study.* 
 
-> [!TIP] 
-> Write findings as stand-alone insights that are easy to scan. For example:  
-> - "Most participants used the search field to locate forms, often searching for 'veteran health.'"  
-> - "Participants struggled with the secondary caregiver section on the form."  
-
-[Example Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)
-
 **1.** Participants expressed a clear understanding of the spouse and financial information List&Loop component.
 
 **2.** There is a slightly higher preference for Optional Red (Confirmation Flow) over Option Green (existing MVP flow). 
