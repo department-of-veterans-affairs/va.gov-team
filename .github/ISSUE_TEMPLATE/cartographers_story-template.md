@@ -11,7 +11,7 @@ assignees: ''
 
 ### User story
 
-As a Cartography team member, I want
+As a Horizon team member, I want
 As a Veteran, I want
 
 ### Notes
