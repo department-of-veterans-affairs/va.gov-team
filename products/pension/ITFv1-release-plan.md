@@ -154,9 +154,8 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - How will you make the product available in production while limiting the number of users who can find/access it: Flipper
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
    - Network traffic to back end server 
-  - Error rate: <1%
-  - Pageviews
-  - Abandonment rate
+  - ITF Failure <1%
+  - ITFs created
 - Links to the dashboard(s) showing "success criteria" metrics:
   - [[DataDog v2 submission dashboard](https://vagov.ddog-gov.com/logs?query=%40message_content%3A%22Lighthouse%3A%3ASubmitBenefitsIntakeClaim%20job%20starting%22%20%40named_tags.source%3Aburials-v2%20&agg_m=count&agg_m_source=base&agg_t=count&cols=host%2Cservice%2C%40payload.benefits_intake_uuid%2C%40payload.claim_id%2C%40named_tags.request_id&fromUser=true&messageDisplay=inline&refresh_mode=paused&storage=hot&stream_sort=time%2Casc&viz=stream&from_ts=1713934800000&to_ts=1714747320000&live=false)](https://vagov.ddog-gov.com/dashboard/r39-ere-8pf/benefits-pension-527-itf?fromUser=fal[…]sliding&from_ts=1753963604159&to_ts=1753967204159&live=true)
 - Who is monitoring the dashboard(s)?: Product Manager (Matt Reilly) and Lead Engineer (Matt knight)
@@ -177,7 +176,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
 - Was any downstream service affected by the change?: No
 - Types of errors logged:
-  -  Selected Tribal Land Does not populate the pdf #81372
+  -  
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? None
 
 ### Stage B: 50% of users
@@ -195,7 +194,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
 - Was any downstream service affected by the change?: [PICK_ONE]: No
 - Types of errors logged:
-   - Facility name not appearing in overflow #81791 
+   -  
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? none
 
 rily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
