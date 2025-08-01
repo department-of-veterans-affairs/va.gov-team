@@ -1,6 +1,6 @@
 # Data Flow Diagram
 
-![SC data flow showing vets-website connection to vets-api, which then connects to EVSS, Central Mail Portal, MPI and lighthouse. Lighthouse connects to central mail and Caseflow, and central mail connects to VBMS Veterans e-folder](./SC_data_flow_diagram.png)
+![SC data flow showing vets-website connection to vets-api, which then connects Lighthouse. Lighthouse connects to central mail and Caseflow, and central mail connects to VBMS Veterans e-folder](./SC_data_flow_diagram.png)
 
-Made using a free account (unable to export SVG) with [creately.com](https://app.creately.com/)
+To edit, open [this diagram file](./SC_flow.drawio) in [app.diagrams.net](https://app.diagrams.net/)
 
