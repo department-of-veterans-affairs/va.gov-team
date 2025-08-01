@@ -47,4 +47,5 @@ If the certifying official does not know how to contact OGC, we can recommend th
 * Tuesday, October 29, 2024: Email from Paralyzed Veterans of America
 * Thursday, March 27, 2025: Email from VHA requesting a VFW rep's phone number be updated
 * Thursday, June 12, 2025: Email from VBA leadership, forwarded from a representative in the Georgia Department of Veterans Service
+* Friday, August 1, 2025: Emmail forwarded from a DAV representative
 
