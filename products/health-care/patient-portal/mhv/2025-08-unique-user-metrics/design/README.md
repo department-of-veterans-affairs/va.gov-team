@@ -40,7 +40,7 @@ sequenceDiagram
             Redis-->>API: Record cached
             API->>DataDog: statsd increment event type counter
             DataDog-->>API: Counter incremented
-            API-->>Frontend: 200 OK (event logged)
+            API-->>Frontend: 201 Created (event logged)
         end
     end
 ```
