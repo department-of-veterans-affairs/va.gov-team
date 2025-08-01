@@ -1,5 +1,7 @@
 # Form 21a (Digital Accreditation)
 
+Notes from the ARF's first year team, ending in September 2024.
+
 ## Problem overview 
 
 Before attorneys or claims agents can help Veterans with claims, they need to become accredited through VA. To become accredited, they need to submit [Form 21a](https://www.va.gov/find-forms/about-form-21a/), which the Office of General Counsel (OGC) uses to verify the applicant’s credentials and reputation. Claims agents then need to complete a written test verifying they have sufficient knowledge of the claims process. 
