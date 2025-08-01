@@ -97,9 +97,9 @@ Participants generally understood the List&Loop component for the spouse and fin
     - 5 participants wanted more dynamic content or upfront information on gathering the required financial information.
 - 4 participants suggested adding details like Date of Marriage to the Spouse Review page to reduce the need for checking or backtracking.
 
-*- P3: "Why don't you combine the 2 (financial intro and income pages) again? It's just this question, right? It's just this question. And then whne you click next, it all expands out to include what I'm trying to put in".*
+*P3: "Why don't you combine the 2 (financial intro and income pages) again? It's just this question, right? It's just this question. And then whne you click next, it all expands out to include what I'm trying to put in".*
 
-*-P8: "A little synopsis of just like these questions in the [review accordion]. So that when they come back...they can verify it without having to click the edit button" (re: spouse review page).*
+*P8: "A little synopsis of just like these questions in the [review accordion]. So that when they come back...they can verify it without having to click the edit button" (re: spouse review page).*
 
 **Finding 2:**  
 Participants showed a slight preference for Option Red (Confirmation Flow) over Option Green (existing MVP flow) due to the perceived speed and helpful reference information. 
@@ -108,13 +108,31 @@ Participants showed a slight preference for Option Red (Confirmation Flow) over 
 - 5 out of 10 participants noted that both flows felt similar and 2 of those did not express a strong preference for either.
 - 6 out of 10 participants found that the gray box referencing previously filled information to be helpful for context, even if the information wasn't directly relevant to them.
 
-
- 
-- _Supporting data: Quote [add context]_  
+*P3: "Fast, and that's why I think Option Red would be better in terms of speed and knocking this out".*
+*P3: "If I don't know 2023's gross (income) off the top of my head, that requires me to open up another document in my files for the gross income. So that's very, very helpful" (re: gray box reference).
+*P6: "I think it's useful to have this information just so you can kind of sometimes, you know, like 'did I earn more money this year?' ".*
+*P8: "I'm kinda on the fence. I like the gray boxes with information, but I also like the clean slate of just knowing to put what's focused for 2024".*
 
 **Finding 3:**  
-Brief description  
-- _Supporting data: Quote [add context]_  
+Participants expected VA.gov to align with their mental models around progress tracking, data handling, and form behavior. Any mismatch in these areas led to confusion and frustration.
+- 5 participants found the Stepper Progress Bar to be confusing and unhelpful. One participant suggested an alternative, like a checklist or task list, for better orientation.
+
+*P4: "How much longer is this going to take? I'm still on number 2".*
+*P6: "Even if you click on next page, you're still not moving, kind of, this one bar".*
+
+- 3 participants expect an option for spouse address to match the Veteran's address.
+
+*P4: "If your spouse's address is different from the Veterans, you know, then give me this option (to edit)".*
+
+- 3 participants assumed that the prefilled information is from their VA profile.
+
+*P7: "This is stuff that you put in when you first create a VA account. So this again, you moved, or something, got a new phone, this is not going to change."
+
+- 1 participant, who works with homeless services, noted that improving online accessibility and standardized support communications could reduce wait times and make it easier for homeless Veterans to receive timely assistance.
+
+*P9: "The biggest issue, I think, that I see my vets have is setting up their MyHealtheVet. That is the biggest problem: they get confused. They can't remember their password. I tell them, 'Go into the VA, they got an office set up for that.' So that's a barrier in and of itself".*
+*P9: Veteran not accessing this (health care portal), it delays them by weeks. They have to go do the paper form, so they have to get it, fill it out, take it into enrollment and eligbility. They're waiting on this to be competed so they can get homeless services versus if this were more accessible. It would be just be easier for them".*
+
 ---
 
 ## **Additional Insights**
