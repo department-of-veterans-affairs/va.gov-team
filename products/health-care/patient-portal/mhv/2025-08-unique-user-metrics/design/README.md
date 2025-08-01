@@ -59,7 +59,7 @@ Notes:
 erDiagram
     mhv_metrics_unique_user_events {
         uuid user_id PK "Unique user identifier"
-        varchar event_name PK "Event type name"
+        varchar(50) event_name PK "Event type name"
         timestamp created_at "Auto-populated creation timestamp"
     }
 ```
@@ -74,7 +74,8 @@ erDiagram
 - **Fields**:
   - `user_id` (UUID): Unique identifier for the user
     - **UUID benefits in PostgreSQL**: Native support with optimized 16-byte storage, better index performance for compound keys, fixed-size storage (vs. variable varchar), and built-in comparison operators
-  - `event_name`: Name/type of the event being tracked (e.g., "login", "view_appointments", "download_records")
+  - `event_name` (VARCHAR(50)): Name/type of the event being tracked (e.g., "login", "view_appointments", "download_records")
+    - **VARCHAR(50) optimization**: Limited length improves storage efficiency and index performance for the compound primary key, while maintaining flexibility to add new event types without schema changes
   - `created_at`: Auto-populated timestamp for when the event was first logged for this user
 
 **Performance Considerations**:
