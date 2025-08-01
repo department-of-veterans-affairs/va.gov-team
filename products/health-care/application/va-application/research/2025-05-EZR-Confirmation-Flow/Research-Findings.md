@@ -131,23 +131,35 @@ Participants expected VA.gov to align with their mental models around progress t
 - 1 participant, who works with homeless services, noted that improving online accessibility and standardized support communications could reduce wait times and make it easier for homeless Veterans to receive timely assistance.
 
 *P9: "The biggest issue, I think, that I see my vets have is setting up their MyHealtheVet. That is the biggest problem: they get confused. They can't remember their password. I tell them, 'Go into the VA, they got an office set up for that.' So that's a barrier in and of itself".*
-*P9: Veteran not accessing this (health care portal), it delays them by weeks. They have to go do the paper form, so they have to get it, fill it out, take it into enrollment and eligbility. They're waiting on this to be competed so they can get homeless services versus if this were more accessible. It would be just be easier for them".*
+*P9: Veteran not accessing this (health care portal), it delays them by weeks. They have to go do the paper form, so they have to get it, fill it out, take it into enrollment and eligibility. They're waiting on this to be completed so they can get homeless services versus if this were more accessible. It would be just be easier for them".*
 
 ---
 
 ## **Additional Insights**
 
-**1.** Participants generally found the flow easy to use, which aligns with findings from perious studies.
+**Additional Insights 1.** 
+Participants generally found the flow easy to use, which aligns with findings from previous studies.
 
-**2.** Shortcomming of Figma prototype
+- All participants have recently used VA.gov.
+- Every section of the form has several participants, indicating the form is clear and straightforward.
+- Like previous studies, many participants responded positively to the save-in-progess messages, hint text, pre-fill, and additional information component.
+  - 7 participants expanded the additional information component to read the description, with 5 expilicity indicating it is helpful.
+  - 6 participants mentioned that the save-in-progess alert is good.
+ 
+*P1: "I would be zipping through this. This isn't rocket science, really".*
+*P9: "These dropdown boxes are awesome". (re: additional information component*
 
-**3.** Prefers the online experience over phone
+**Additional Insight 2:** 
+Participants prefer the online experience over the phone.
+- 3 participants noted that they would prefer to make edits online themselves instead of calling the 800 number since it is often a long wait time.
+*P5: "I hate having to call 800 number to do things, especially if it's the VA general number trying to work through a menu to get the right person. It's never fun."
 
-**Additional Insight 1:** 
+**Additional Insight 3:** 
+The are drawbacks to using Figma for Prototype testing.
+- 9 out of 10 participants have a service-connected disability rating of 50% or higher, meaning they aren't usually required to fill out the financial section.
 
-*Include insights that do not represent patterns but are still valuable.*  
-> **TIP:** These could be powerful user comments or unexpected issues worth noting
-
+*P1: "None of this would be pertinent to me".*
+*P4: "I've never been asked for any of my financial information. Very invasive. I think".*
 
 ## Recommendations
 
