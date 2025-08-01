@@ -145,12 +145,12 @@ DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 
 #### Results
 
-- Number of unique users:
-- Metrics at this stage (per your "success criteria"):
+- Number of unique users: 218 users
+- Metrics at this stage (per your "success criteria"): 86.24% success rate, average 
 - Was any downstream service affected by the change?:
-- Types of errors logged:
+- Types of errors logged: Timeouts from dmc/filenet
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?:
-  - TBD
+  - There are enough spikes in latency and high enough of an error rate that we are moving forward with making this submission async.  Work has already begun on this process.
 
 ## Post Launch metrics
 
