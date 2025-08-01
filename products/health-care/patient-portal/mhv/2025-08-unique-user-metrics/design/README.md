@@ -6,6 +6,9 @@ The goal of the Unique User Metrics (UUM) for the My HealtheVet (MHV) Portal is 
 Account Activity Logs (AAL) reside in MHV Classic and have been used to generate unique user metrics in the past. However, there are storage limitations in AAL that do not allow us to add more logs to perform all the desired metrics.
 
 ## Architecture
+This effort will provide:
+- A new `vets-api` authenticated endpoint to allow a frontend to log events (e.g. when viewing the MHV Landing Page, we can call the logging API to log an "MHV Landing Page accessed" event in vets-api)
+- A new `vets-api` library to allow logging events directly from other code (e.g. when viewing the secure messages app, the application always fetches messages from vets-api, hence we can log an "SM accessed" event in vets-api)
 ![UUM Architecture](architecture.png "UUM Architecture")
 
 ## Sequence Diagram
