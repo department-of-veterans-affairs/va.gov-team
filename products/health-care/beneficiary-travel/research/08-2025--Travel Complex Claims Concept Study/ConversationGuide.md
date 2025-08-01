@@ -1,3 +1,19 @@
+```yaml
+---
+title: "Conversation Guide for Health Care Beneficiary Travel Complex Claims Study (August 2025)"
+author: "micahtaylor"
+date_created: "2025-08-01"
+last_modified: "2025-07-31"
+tags:
+  - "AUD: Veterans"
+  - "BNFT: Healthcare"
+  - "AUD: Travel Office Staff"
+  - "DSP: Ask users for feedback"
+  - "DSP: Help users to check eligibility"
+description: "This conversation guide supports moderated user research sessions exploring Veterans’ experiences and pain points when submitting travel reimbursement claims for VA medical appointments. The guide aims to surface barriers, expectations, and opportunities for improving the digital claims process by using prototype tasks, reflection, and comparison questions. Findings will inform design and policy decisions to better meet Veterans’ needs for travel reimbursement."
+---
+```
+
 # Complex Claims Concept Study Conversation Guide
 
 ## **Moderator logistics**
