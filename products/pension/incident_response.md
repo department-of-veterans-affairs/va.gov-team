@@ -1,9 +1,10 @@
 # VA Lifestage Incident Response Checklist
 ## Confirm
 1. Inform the following people of a possible incident: 
-- Matt Reilly, AdHoc Product Manager/Lead
-- Matt Knight, Coforma Engineering Lead
-- Anh Platt, Coforma Delivery Lead
+- Matt Reilly, Product Manager/Pension & Burial
+- Jacob Worrell, Product Manager/Dependents Management
+- Matt Knight, Engineering Lead
+- Anh Platt, Delivery Lead/Project Manager
 
 2. One of the following people, in order of preference
 - Sanja Bajovic, OCTO Product Owner
