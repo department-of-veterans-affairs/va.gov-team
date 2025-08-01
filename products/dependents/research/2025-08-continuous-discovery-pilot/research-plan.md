@@ -168,7 +168,7 @@ _What criteria would strengthen your results?_
 
 ### Optional Kick-off Call with Perigean
 
-- `Suggested dates and times:` **TBD**
+- `Suggested dates and times:` **Sometime during the week of August 4, 2925.**
 
 ### Prepare
 
@@ -180,6 +180,7 @@ _What criteria would strengthen your results?_
 ### Research sessions
 
 - `Planned dates of research:` **08-10/18-18/25**
+- Suggested times: 08/19/25: 12 - 3 ET; 08/20/25: 10 - 2 ET; 08/21/25: 10 - 1 ET.
 
 ### Length of sessions
 
