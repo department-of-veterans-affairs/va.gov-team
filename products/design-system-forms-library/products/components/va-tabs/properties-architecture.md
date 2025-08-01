@@ -1,7 +1,7 @@
 # `va-tabs` Properties / Architecture
 _Last updated: 2025-08-01_
 
-See [ADR 003](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/va-tabs/design-decisions.md#adr-003-tab-style-choices) for a list of design systems that have tab component with a similar tab overflow behavior.
+<!-- See [ADR 003](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/va-tabs/design-decisions.md#adr-003-tab-style-choices) for a list of design systems that have tab component with a similar tab overflow behavior. -->
 
 ## Properties
 
@@ -187,7 +187,7 @@ With focus on an instance of `<va-tab-panel>`
 - Shift Key + Tab Key: Sets focus on the selected `<va-tab-item>`.
 
 
-See the [ADR 001](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/va-tabs/design-decisions.md#adr-001-tab-definitions) for a detailed definition list of the tabs.
+<!-- See the [ADR 001](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/va-tabs/design-decisions.md#adr-001-tab-definitions) for a detailed definition list of the tabs.
 
 The challenging part of this component is there are alot of different smaller components being used together. 
 1. **Tabs:** The primary container.
@@ -201,7 +201,7 @@ The challenging part of this component is there are alot of different smaller co
     - Hover
     - Active
     - Focus 
-4.**Tab Panel** These are the content panels that are shown/hidden depending on the currently selected tab item. They are targeted by their `id` value. They are meant to be generic containers for page content. They are given semantic context via `role="tabpanel"`.
+4.**Tab Panel** These are the content panels that are shown/hidden depending on the currently selected tab item. They are targeted by their `id` value. They are meant to be generic containers for page content. They are given semantic context via `role="tabpanel"`. -->
 
 ## Future Considerations
 
