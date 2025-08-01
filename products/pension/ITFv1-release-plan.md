@@ -129,19 +129,6 @@ Completed staging test plan
 
 [ITFV1 Regression Test Plan (1).xlsx](https://github.com/user-attachments/files/21530943/ITFV1.Regression.Test.Plan.1.xlsx)
 
-Downstream validation examples of ITFs confirmed in downstream system VBMS:
-
-
-
-
-<img width="1411" height="752" alt="ITFSuccessVBMS1" src="https://github.com/user-attachments/assets/6029609b-9c00-4ed4-b341-13c9f7ef35bf" />
-
-
-
-<img width="1105" height="687" alt="ITFSuccessVBMS2" src="https://github.com/user-attachments/assets/c2c658cc-ef1b-4b3a-9b30-8fe8b4a3ae9d" />
-
-
-
 
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
