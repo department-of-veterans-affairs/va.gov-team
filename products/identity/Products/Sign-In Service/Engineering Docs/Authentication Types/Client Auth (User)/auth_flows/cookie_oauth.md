@@ -9,6 +9,7 @@
 | 0.4 | John Bramley | 9/02/22 | Adds links to `vets-api` & `vets-api-mockdata` setup |
 | 0.5 | John Bramley | 9/25/23 | Updates with `ClientConfig` information |
 | 0.6 | John Bramley | 1/03/24 | `auth_flows` refactor |
+| 1.0 | Joe Niquette | 8/01/25 | rewviewed document and published first official version |
 
 ## Introduction
 
