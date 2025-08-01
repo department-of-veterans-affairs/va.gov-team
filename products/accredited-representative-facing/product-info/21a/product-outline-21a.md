@@ -145,9 +145,9 @@ Current Figma status:
 
 ## **Communications**
 
-1. **Team Name**: Accredited Representation Management
-2. **GitHub Label**: accredited-representation-management-team
-3. **Slack channel**: #benefits-representation-management
+1. **Team Name**: Accredited Representative Facing
+2. **GitHub Label**: accredited-rep-facing
+3. **Slack channel**: #benefits-representative-facing
 
 
 ## **Team Leads**
