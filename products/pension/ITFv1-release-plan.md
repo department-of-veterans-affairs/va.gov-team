@@ -7,9 +7,10 @@
 | Phase | Duration | Users | Dates |
 |---|---|---|---|
 |Phase 1: Staging testing |14 days|7| July 1-10, 2025 and July 22-24, 2025 |
-|Phase 2: 1% of users |7 days|50% of users (auth users only)|  Aug 7, 2025|
-|Phase 2B: 100% of users| indefinite | 100% users (auth users only) | Aug 14, 2025|
-|Phase 3: Retire V0 (non alert version)| permanent | 100% users (auth users only) | TBD | 
+|Phase 2: 10 users |7 days|10 users (auth users only)|  Aug 7, 2025|
+|Phase 3: 25% of users| indefinite | 25% users (auth users only) | Aug 14, 2025|
+|Phase 4: 100% of users| indefinite | 100% users (auth users only) | Aug 14, 2025|
+|Phase 5: Retire V0 (non alert version)| permanent | 100% users (auth users only) | TBD | 
 
 Considerations
 - Pension form volume is typically ~200 per week, with ~180 authenticated submissions and ~20 unauthenticated submissions 
@@ -29,7 +30,7 @@ As outlined in the [intiative brief](https://github.com/department-of-veterans-a
 2. Applications Not Started
    - Before full release:
       - Unauthenticated Users: Intent to File functionality is not available to unauthenticated users.
-      - Authenticated Users: Users may be directed to fill out the updated version (v1) with alerts presented depending on the level of incremental traffic set for the updated version (v1) (50%/100%)
+      - Authenticated Users: Users may be directed to fill out the updated version (v1) with alerts presented depending on the level of incremental traffic set for the updated version (v1) (25%/100%)
    - After 100% release
       - Authenticated Users: Users will complete the v1 experience.
 
@@ -161,32 +162,34 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Who is monitoring the dashboard(s)?: Product Manager (Matt Reilly) and Lead Engineer (Matt knight)
 
 
-### Stage A: 50% of Users
+### Stage A: 10 Users
 
 *Test a small Veteran population to ensure any obvious bugs/edge cases are found.*
 
 #### Planning
 
-- Length of time: 1 week
+- Length of time: 1-2 days
 - Percentage of Users (and roughly how many users you expect this to be): 50% of daily submissions, approximately 90 users
 
 #### Results
 
 - Number of unique users: 
 - Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
+- ITF Failure <1%
+- ITFs created
 - Was any downstream service affected by the change?: No
 - Types of errors logged:
   -  
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? None
 
-### Stage B: 50% of users
+### Stage B: 25% of users
 
 *Test a larger user population to ensure larger usage patterns expose no issues.*
 
 #### Planning
 
-- Length of time: 7 days (actual: 7)
-- Percentage of Users (and roughly how many users do you expect this to be): 100%
+- Length of time: 3 days (actual: 7)
+- Percentage of Users (and roughly how many users do you expect this to be): 25%
 
 #### Results
 
@@ -208,9 +211,8 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 
 - Number of unique users:
 - Network traffic to back end server 
-  - Error rate: <1%
-  - Pageviews
-  - Abandonment rate
+  - ITF Failure <1%
+  - ITFs created
 - Any issues with VA handling/processing?:  [PICK_ONE]: yes | no |  N/A
 - Types of errors logged: [FILL_IN]
 - Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes | no |  N/A
@@ -219,10 +221,8 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 ### 1-month results
 
 - Number of unique users: [FILL_IN]
-- Error rate:
-- Abandonment rate:
-- Time to complete:
-- Sessions to complete
+ - ITF Failure <1%
+  - ITFs created
 - Any issues with VA handling/processing?: [PICK_ONE]: yes | no |  N/A
 - Types of errors logged: [FILL_IN]
 - Any UX changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes | no |  N/A
