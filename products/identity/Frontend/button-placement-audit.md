@@ -83,7 +83,7 @@ While there are many instances of the buttons rendered above, only a few key fil
     - `src/platform/user/authentication/components/LoginActions.jsx`
 - If the base instances of the Verify Buttons need to be changed:
     - `src/platform/user/authentication/components/VerifyButton.jsx`
-- Any of the following files to update the actual Verify Buttons themselves:
+- To update the actual Verify Buttons themselves:
     - Identity Related
         - `src/applications/sign-in-changes/components/AccountSwitch.jsx`
         - `src/applications/sign-in-changes/components/CreateAccount.jsx`
