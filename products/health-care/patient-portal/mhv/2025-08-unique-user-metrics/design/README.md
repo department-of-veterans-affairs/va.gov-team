@@ -1,6 +1,6 @@
 # Unique User Metrics for the MHV Portal
 
-The Unique User Metrics (UUM) for the My HealtheVet (MHV) Portal goal is to collect unique user metrics on how many users have accessed the MHV health tools. THe MHV health tools are any application that is accessed via the `/my-health` root URL includes the MHV landing page. Note that Google Analytics can collect these same metric, but this effort aims to provide more accurate metrics (e.g. we do not want users to opt-out of these metrics).
+The goal of the Unique User Metrics (UUM) for the My HealtheVet (MHV) Portal is to collect unique user metrics on how many users have accessed the MHV health tools. The MHV health tools are any application that is accessed via the `/my-health` root URL and includes the MHV landing page. Note that Google Analytics can collect these same metrics, but this effort aims to provide more accurate metrics since we do not want users to be able to opt out of these analytics.
 
 ## A Note on Account Activity Logs
 Account Activity Logs (AAL) reside in MHV Classic and have been used to generate unique user metrics in the past. However, there are storage limitations in AAL that do not allow us to add more logs to perform all the desired metrics.
@@ -47,8 +47,8 @@ sequenceDiagram
 
 Notes:
 - Logged events include a unique user ID
-- We use Redis for performance reasons, to limit the reads from the database for event logs for the same event from the same user
-- We use the database as a permanent record of each event for each user since the Redis cache will expire or could be purged 
+- We use Redis for performance reasons, to limit database reads when checking for duplicate events from the same user
+- We use the database as a permanent record of each event for each user since Redis cache entries will expire or could be purged 
 - One can recreate the metrics from the data stored in the database if needed
 - We increment a statsd counter for the given event once per user. This will result in a counter with the number of unique users per event.
 - DataDog takes care of persisting the cumulative metric for the event
@@ -58,7 +58,7 @@ Notes:
 ```mermaid
 erDiagram
     mhv_metrics_unique_user_events {
-        varchar user_id PK "Unique user identifier"
+        uuid user_id PK "Unique user identifier"
         varchar event_name PK "Event type name"
         timestamp created_at "Auto-populated creation timestamp"
     }
@@ -72,7 +72,8 @@ erDiagram
   - Provides optimal performance for lookups: `WHERE user_id = ? AND event_name = ?`
   - No additional unique indexes needed
 - **Fields**:
-  - `user_id`: Unique identifier for the user (e.g., UUID, ICN, or other VA identifier)
+  - `user_id` (UUID): Unique identifier for the user
+    - **UUID benefits in PostgreSQL**: Native support with optimized 16-byte storage, better index performance for compound keys, fixed-size storage (vs. variable varchar), and built-in comparison operators
   - `event_name`: Name/type of the event being tracked (e.g., "login", "view_appointments", "download_records")
   - `created_at`: Auto-populated timestamp for when the event was first logged for this user
 
