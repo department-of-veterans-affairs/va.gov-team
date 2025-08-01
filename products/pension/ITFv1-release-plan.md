@@ -7,7 +7,7 @@
 | Phase | Duration | Users | Dates |
 |---|---|---|---|
 |Phase 1: Staging testing |14 days|7| July 1-10, 2025 and July 22-24, 2025 |
-|Phase 2: 50% of users |7 days|50% of users (auth users only)|  Aug 7, 2025|
+|Phase 2: 1% of users |7 days|50% of users (auth users only)|  Aug 7, 2025|
 |Phase 2B: 100% of users| indefinite | 100% users (auth users only) | Aug 14, 2025|
 |Phase 3: Retire V0 (non alert version)| permanent | 100% users (auth users only) | TBD | 
 
@@ -46,7 +46,6 @@ As outlined in the [intiative brief](https://github.com/department-of-veterans-a
 ### This release will include the following components:
 1. Form component updates 
 2. Info alerts on the form information page letting new users know the purpose and benefit of ITF and next steps when there is a system issue.
-3. Toggle for inforamtion page to show old vs new form instructions.
 ---
 
 ## Step 1: Development
@@ -58,7 +57,8 @@ List the features toggles here.
 | Toggle name | Description |
 | ----------- | ----------- |
 | pension_itf_show_alert | Enable ITF V1 alerts|
-| intent_to_file_synchronous_enabled |Toggle Synchrounous ITF V1 |
+| pension_itf_enable| Enable ITF V1 requests|
+| intent_to_file_synchronous_enabled |Toggle Synchrounous ITF V0 - remove at 100% |
 
 
 
