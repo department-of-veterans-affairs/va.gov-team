@@ -12,18 +12,18 @@ Note: The below content is only to be used on an individual basis to those who r
 The messaging below can be copied/pasted into an email response, to the representative seeking help updating their information.
 
 ### Accredited Attorneys and Claims Agents
-> The information presented on VA.gov’s Find a Representative tool is from the VA OGC database. Once the representative's information is updated using one of the processes below it will update on VA.gov. Instructions on how to update are outlined below:
-> 
-> Attorneys and claims agents wishing to change their contact information with VA should do so with both OGC and the Veterans Benefits Administration by following the instructions set forth in this Fact Sheet on the Process for Attorney and Claims Agent Contact Change Requests.
+> The information presented on VA.gov’s Find a Representative tool is from the VA OGC database. Attorneys and claims agents wishing to change their contact information with VA should do so with both OGC and the Veterans Benefits Administration by following the instructions set forth in this Fact Sheet on the Process for Attorney and Claims Agent Contact Change Requests.
 >
 > Link to Fact Sheet: https://www.va.gov/OGC/docs/Accred/FactSheet_OBI-21-03.pdf
+>
+> Once the representative's information is updated using this process, the information on VA.gov will be updated.
 
 ### Veterans Service Organization Representatives
-> The information presented on VA.gov’s Find a Representative tool is from the VA OGC database. Once the representative's information is updated using one of the processes below it will update on VA.gov. Instructions on how to update are outlined below:
->
-> Veterans Service Organization (VSO) Representatives wishing to change their contact information with VA should contact the certifying official for their primary VSO, who will send the updated information to VA OGC. If they're unable to contact their certifying official, a supervisor may be able to help contact the certifying official at the VSO’s headquarters.
+> The information presented on VA.gov’s Find a Representative tool is from the VA OGC database. Veterans Service Organization (VSO) Representatives wishing to change their contact information with VA should contact the certifying official for their primary VSO, who will send the updated information to VA OGC. If they're unable to contact their certifying official, a supervisor may be able to help contact the certifying official at the VSO’s headquarters.
 > 
-> Learn more about OGC and accreditation at their website: https://www.va.gov/ogc/accreditation.asp 
+> Learn more about OGC and accreditation at their website: https://www.va.gov/ogc/accreditation.asp
+>
+> Once the representative's information is updated using this process, the information on VA.gov will be updated.
 
 ## Additional Guidance for VSO Representatives, If Needed
 The following information should only be provided IF ASKED.
