@@ -26,6 +26,8 @@ Smart and capable people made decisions likely influenced by forces beyond their
    - #ask-va-integration: Use for communicating with the Ask VA CRM team.
    - #ask-va-tech: Use for engineering convos
    - #ask-va-design: Use for design and research convos
+   - #ask-va-notifications: Datadog sends notifications to this channel. Use for monitoring. Respond to notifications if you researched the issue, if you need to add action items after reviewing the alert, etc.
+   - #ask-va-vapos: This is a private channel we have with our VA POs. Includes our Product manager and Program manager too. Use when we need to communicate only with Natalie (VES). Jaime and Kathleen (VEO) aren't in Slack.
 
 ### Email
 - Send emails with your VA.gov email address.
