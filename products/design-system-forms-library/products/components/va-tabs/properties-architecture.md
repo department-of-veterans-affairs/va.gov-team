@@ -1,5 +1,5 @@
 # `va-tabs` Properties / Architecture
-_Last updated: 2025-07-31_
+_Last updated: 2025-08-01_
 
 See [ADR 003](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/va-tabs/design-decisions.md#adr-003-tab-style-choices) for a list of design systems that have tab component with a similar tab overflow behavior.
 
@@ -34,12 +34,165 @@ Internal child component
 
 ## Architecture Overview
 
+### Foundation Approach: Composition
+
+Tab systems are often a pain point for design and development teams, so creating a usable, accessible implementation was priority.
+
+To accomplish this, it will have two internal child components that will allow the tab system to be constructed via slots.
+
+The advantages for constructing the component this way:
+
+- **Modularity and Maintainability:** Breaking down a complex component with repeating elements into smaller, isolated component files will simplify maintenance and will be easier to reason about.
+- **Future Expandability and Modifiability:** The modular design will help with integration of new functionalities, making future expansions and modifications more straightforward. This benefits both design system engineers and external teams.
+- **Simplified Tabs Construction:** Leveraging native web component functionality, slots handle the heavy lifting, making it easier to build out tab systems. This also allows non-engineers to set up the component in demos or mock-ups easier.
+- **Default Use of Vanilla Web Components:** The vanilla web component can be used by default instead of a React binding. Since web component attributes only support primitive data types (string, number, boolean), requiring an array of data would mean passing it into the component using JavaScript outside of a React environment.
+- **Increased Usability Outside of vets-website:** The simple web component design makes it easier to integrate into mock-ups in environments like CodePen and other builds outside of the VA ecosystem. This also means that populating data outside of a React environment requires no JavaScript skills, only the use of slots.
+
+One notable compositional decision was to use Stencil's `<Host>` component as the element that receives semantic meaning via HTML attributes, rather than having nested HTML elements (i.e. `<button>`) receive those attributes.
+
+This decision was made because adding attributes directly to `<Host>` results in the web component element having the attributes set on it directly. This is crucial to prevent nested elements from being locked into each child component's Shadow DOM, where they are unable to "find" corresponding elements and/or components in the DOM via their ARIA attributes (i.e. `aria-controls` in the case of `<va-tab-item>`).
+
+Example of composability:
+```jsx
+<va-tabs label="Filtered content options" initially-selected"0">
+  <va-tab-item target-id="panel-1" button-text="Tab 1"></va-tab-item>
+  <va-tab-item target-id="panel-2" button-text="Tab 2"></va-tab-item>
+  <va-tab-item target-id="panel-3" button-text="Tab 3"></va-tab-item>
+  <va-tab-panel panel-id="panel-1">
+    <h2>Panel 1</h2>
+    <p>This is the content for Panel 1.</p>
+  </va-tab-panel>
+  <va-tab-panel panel-id="panel-2">
+    <h2>Panel 2</h2>
+    <p>This is the content for Panel 2.</p>
+  </va-tab-panel>
+  <va-tab-panel panel-id="panel-2">
+    <h2>Panel 2</h2>
+    <p>This is the content for Panel 2.</p>
+  </va-tab-panel>
+  <va-tab-panel panel-id="panel-3">
+    <h2>Panel 3</h2>
+    <p>This is the content for Panel 3.</p>
+  </va-tab-panel>
+</va-tabs>
+```
+
+![va-tabs with three tabs and panels](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/refs/heads/master/products/design-system-forms-library/products/components/va-tabs/images/va-tabs-mobile.png)
+
+### Component Blocks Overview
+#### Parent Component
+`va-tabs`
+- Displays a `<div>` with `role="tablist"` that wraps all `<va-tab-item>` instances, styled with a bottom border that serves as a divider between tabs and tab panels.
+- Uses named slots for rendering children in place.
+- Wraps all content in a `<div>`.
+- Has event listeners for `tabItemSelected` and `tabItemKeyNavigated` custom events.
+
+#### Internal Child Components
+`va-tab-item`
+
+![va-tab-item](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/refs/heads/master/products/design-system-forms-library/products/components/va-tabs/images/va-tab-item.png)
+
+- Stencil `<Host>` component with HTML attributes added directly to it.
+- Notable attributes for accessibility and semantics:
+  - `role="tab"`
+  - `aria-selected` - Indicates if the tab item is currently active/selected
+  - `aria-controls` - Points to the corresponding `<va-tab-panel>` instance
+  - `id` - Reference point for the `aria-labelledby` value in the corresponding `<va-tab-panel>` instance
+  - `tabIndex` - Allows the component to be focusable and facilitates keyboard navigation
+  - `data-label` - Takes the `buttonText` prop as its value; used to populate the content of the CSS `::after` pseudo element for active tabs
+- Emits custom events:
+  - `tabItemSelected`
+  - `tabItemKeyNavigated`
+
+`va-tab-panel`
+
+![va-tab-panel](https://raw.githubusercontent.com/department-of-veterans-affairs/va.gov-team/refs/heads/master/products/design-system-forms-library/products/components/va-tabs/images/va-tab-panel.png)
+
+- Stencil `<Host>` component with HTML attributes added directly to it.
+- Content for panel is rendered via `<slot>` element.
+- Notable attributes for accessibility and semantics:
+  - `id` - Serves as a "target" for the corresponding `<va-tab-item>` instance; matches the corresponding component's `aria-controls` attribute and is used as query criteria for finding the panel to display or hide in event handling logic
+  - `role="tabpanel"`
+  - `tabindex` - Allows the component to receive keyboard focus when it is the selected panel
+  - `hidden` - Used to hide non-selected panels from the user
+  - `aria-labelledby` - Points to the corresponding `<va-tab-item>` instance for accessibility
+
+## Markup Overview
+
+`va-tab`
+```jsx
+<Host>
+  <div>
+    <div role="tablist" aria-label={label} class="va-tabs__list">
+      <slot name="tab"></slot>
+    </div>
+    <slot name="panel"></slot>
+  </div>
+</Host>
+```
+
+`va-tab-item`
+```jsx
+<Host
+  role="tab"
+  class={buttonClass}
+  aria-selected={selected ? 'true' : 'false'}
+  aria-controls={targetId}
+  id={`${targetId}-tab`}
+  ref={(el) => this.buttonElement = el as HTMLButtonElement}
+  tabIndex={selected ? 0 : -1}
+  onClick={(e: MouseEvent) => this.handleClick(e)}
+  onKeyDown={(e: KeyboardEvent) => this.handleKeyDown(e)}
+  data-label={buttonText}
+>
+  {buttonText}
+</Host>
+```
+
+`va-tab-panel`
+```jsx
+<Host
+  id={panelId}
+  role="tabpanel"
+  tabindex={this.selected ? '0' : '-1'}
+  class="va-tab-panel__content"
+  hidden={!this.selected}
+  aria-labelledby={`${panelId}-tab`}
+>
+  <slot></slot>
+</Host>
+```
+
+## Technical Considerations
+
+### Suggested limit of 3 tabs
+
+At this stage it is recommended for teams to pass no more than three tabs/panels to the component. The component is able to handle more than three but v1's designs and styling do not have an ideal way of handling overflow. This consideration will be accounted for in future updates.
+
+### Click behavior
+
+Clicking or tapping on a tab updates the active (selected) tab and displays the tab panel with the corresponding HTML `id`, while hiding the tab panel that was currently active. This is achieved by updating the `selected` prop on the respective instances of `<va-tab-item>` and `<va-tab-panel>`.
+
+### Keyboard behavior
+
+Keyboard behavior is meant to match that of [the tab group example from MDN](https://developer.mozilla.org/en-US/play).
+
+With focus on an instance of `<va-tab-item>`:
+- Right key: Selects and sets focus on the next tab in the list. If the user is on the final tab in the list, the selection reverts to the first tab.
+- Left key: Selects and sets focus on the previous tab in the list. If the user is on the first tab in the list, the selection goes to the last tab.
+- Enter key/Space key: Sets the currently focused tab as selected and displays the corresponding `<va-tab-panel>` while hiding the previously selected panel.
+- Tab key: Sets focus on the currently displayed `<va-tab-panel>` component.
+
+With focus on an instance of `<va-tab-panel>`
+- Shift Key + Tab Key: Sets focus on the selected `<va-tab-item>`.
+
+
 See the [ADR 001](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/va-tabs/design-decisions.md#adr-001-tab-definitions) for a detailed definition list of the tabs.
 
 The challenging part of this component is there are alot of different smaller components being used together. 
 1. **Tabs:** The primary container.
 2. **Divider:** A visual separator between the tabs and the content below that will extend the entire width of the container.
-3. **Horizontal Tab:** These are **URL-based** tabs implemented as `<a>` links (not buttons).
+3. **Tab Item:** These are tab pseudo buttons themselves - web components without nested elements, given semantic meaning via the `role="tab"` attribute.
   - Selected
     - Hover
     - Active
@@ -48,13 +201,13 @@ The challenging part of this component is there are alot of different smaller co
     - Hover
     - Active
     - Focus 
-2. **Dropdown Button:** A button used to trigger a menu when tabs overflow.
-3. **Popover:**
-   - A floating container that appears when the dropdown is triggered.
-   - Houses the vertical list of overflowed tabs.
-4. **Vertical Tab (Inside Popover):**
-  - Displayed vertically inside the popover.
-  - Mirror the same states and behaviors as the horizontal tabs.
+4.**Tab Panel** These are the content panels that are shown/hidden depending on the currently selected tab item. They are targeted by their `id` value. They are meant to be generic containers for page content. They are given semantic context via `role="tabpanel"`.
+
+## Future Considerations
+
+### Stacked option
+- For V2, it could be beneficial to offer different overflow behaviors. A stacked version like you see in this prototype might be a better option in some use cases or possibly a full-width version for mobile that would be similar to the [buttons - segmented](https://design.va.gov/components/button/button-segmented) option on mobile. 
+  [Stacked tabs prototype](https://codepen.io/babsdenney/pen/yyyBbYY)
 
 ### Overflow behavior
 
@@ -67,29 +220,25 @@ When the number of tabs exceeds the available horizontal space:
 
 > Note: While the prototype demonstrates functionality, it is **not required** to replicate its architecture or styles.
 
-### Max-width
+<!-- ### Max-width
 This is something I kept going back and forth about. What is a good max-width for the tabs? Some scenarios I was thinking of. This might be something we need to test out different scenarios.
 1. 120px max-width if there were only two tabs then both tabs could fit on a 288px screen width with a 24px margin between the tabs.
 2. 144px max-width so that 2 tabs could fit but we would need to remove the margin and the tabs would be flush.
-3. 160px max-width so that a single tab and the dropdown button can fit on screen.
+3. 160px max-width so that a single tab and the dropdown button can fit on screen. -->
 
-### Minimum of 2 tabs in the dropdown
+<!-- ### Minimum of 2 tabs in the dropdown
 
-This is a behavior we saw in the [Primer DS](https://primer.style/react/storybook/?path=/story/components-underlinenav-features--overflow-on-narrow-screen&globals=viewport:narrowScreen) where the dropdown would not appear until there were two tabs that needed to be put in the dropdown. There is probably a few different scenarios to consider with this when you think about making sure two tabs can fit at a 288px width. 
-
-### Click behavior
-
-Clicking or tapping on a tab navigates the user to a new page via the tab’s URL.
-
-More on the click behavior can be found in the [Experimental Design: New Tabs Design #2346](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/2346).
-
-## Future Considerations
-
-### Stacked option
-- For V2, it could be beneficial to offer different overflow behaviors. A stacked version like you see in this prototype might be a better option in some use cases or possibly a full-width version for mobile that would be similar to the [buttons - segmented](https://design.va.gov/components/button/button-segmented) option on mobile. 
-  [Stacked tabs prototype](https://codepen.io/babsdenney/pen/yyyBbYY)
+This is a behavior we saw in the [Primer DS](https://primer.style/react/storybook/?path=/story/components-underlinenav-features--overflow-on-narrow-screen&globals=viewport:narrowScreen) where the dropdown would not appear until there were two tabs that needed to be put in the dropdown. There is probably a few different scenarios to consider with this when you think about making sure two tabs can fit at a 288px width.  -->
 
 ### Popover and Side nav components
 This component could be the starting point for future components that can be reused.
-- **Side nav component:** You can consider this component a horizontal version of the side nav component. The vertical tabs used within the dropdown should probably be revaluated when we do decide to implement a side nav component. 
 - **Popover component:** We have a few instances now that use a form of a popover. The combo box, search results, and now this button dropdown component. We should consider adding a popover component to create consistency within the components.
+
+## Storybook Stories
+- (v1) Basic example with three tabs/panels.
+- (v1) Basic example with the second tab initially selected.
+- (v1) **Not advised - for DST testing purposes** Example with one tab having a long label that causes text to wrap onto a second line.
+- (v1) Example with panels that do not have heading elements.
+- (v1) Example with panels whose heading text does not match the text for the corresponding tab item.
+- (v1) **Not advised - for DST testing purposes** Example with a fourth tab (v1 has a suggested limit of three tabs).
+- (v1) Example with "meaningful content" — that is, content utilizing other VDS components rather than simple heading & paragraph content.
