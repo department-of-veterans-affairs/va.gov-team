@@ -187,7 +187,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Planning
 
-- Length of time: 3 days (actual: 7)
+- Length of time: 3 days
 - Percentage of Users (and roughly how many users do you expect this to be): 25%
 
 #### Results
