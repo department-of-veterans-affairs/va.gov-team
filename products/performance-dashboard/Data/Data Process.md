@@ -32,7 +32,7 @@ When IIR originally took on the project of revamping the data pipeline, we found
 
   - The Raw Medallia data
 
-  - A Domo webform that defines the proper mapping logic for GA and Medallia to work together, as well as the general flow of the dashboard’s layout (ordering)
+  - A [Domo webform](https://va-gov.domo.com/datasources/c9a4e6bb-9a91-4f88-8cd4-7a7b65b40a00/details/data/table)that defines the proper mapping logic for GA and Medallia to work together, as well as the general flow of the dashboard’s layout (ordering)
 
 - The Performance Dashboard is fueled by the following [Domo Dataflow](https://va-gov.domo.com/datacenter/dataflows/317/graph)
 
@@ -40,15 +40,15 @@ When IIR originally took on the project of revamping the data pipeline, we found
 
     - For any questions on the GA data, please reach out to the Analytics and Insights team
 
-  - The dataset called \[Output] – Medallia Performance Dashboard is the Medallia data
+  - The dataset called [Output] – Medallia Performance Dashboard is the Medallia data
 
     - For any questions on the Medallia data please reach out to the Veteran Support team
 
-  - The dataset called Performance Dashboard Groups | Staging is our webform data
+  - The dataset called [Performance Dashboard Groups | Staging](https://va-gov.domo.com/datasources/c9a4e6bb-9a91-4f88-8cd4-7a7b65b40a00/details/data/table) is our webform data
 
     - This is our bread and butter, and as such we will go into more detail below
 
-- [Performance Dashboard Groups | Staging](https://va-gov.domo.com/datasources/c9a4e6bb-9a91-4f88-8cd4-7a7b65b40a00/details/overview) is a Domo webform that contains all of the mapping logic required to make the performance dashboard function with GA and Medallia
+- [Performance Dashboard Groups | Staging](https://va-gov.domo.com/datasources/c9a4e6bb-9a91-4f88-8cd4-7a7b65b40a00/details/overview) is a Domo webform that contains all of the mapping logic required to make the Performance Dashboard function with GA and Medallia
 
   - GA data is mapped using a combination of Event Action, Event Label, and Event Category values, which are concatenated together from their raw BQ/GA datasets, with this document, to map them to the appropriate “Title”
 
@@ -94,7 +94,6 @@ When IIR originally took on the project of revamping the data pipeline, we found
 
     - If there are any questions on the calculations being displayed on the Performance Dashboard, please review with your Backend and Front End Engineers
 
- 
 
 4. Data ingestion to Performance Dashboard:
 
@@ -110,7 +109,7 @@ When IIR originally took on the project of revamping the data pipeline, we found
 
   - Medallia: afb89759-292f-40f0-8be4-0ccee76006d5
 
-5.
+5. Testing:
 
 - As of October 1st 2024, the team has integrated duplicate data models for DEV and Staging, to allow us to make changes to the flows, without impacting production. 
 
