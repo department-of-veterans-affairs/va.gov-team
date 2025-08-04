@@ -97,8 +97,8 @@ Participants generally understood the List&Loop component for the spouse and fin
     - 5 participants wanted more dynamic content or upfront information on gathering the required financial information.
 - 4 participants suggested adding details like Date of Marriage to the Spouse Review page to reduce the need for checking or backtracking.
 
+Key quotes:
   *P3: "Why don't you combine the 2 (financial intro and income pages) again? It's just this question, right? It's just this question. And then whne you click next, it all expands out to include what I'm trying to put in".*
-
   *P8: "A little synopsis of just like these questions in the [review accordion]. So that when they come back...they can verify it without having to click the edit button" (re: spouse review page).*
 
 **Finding 2:**  
@@ -108,6 +108,7 @@ Participants showed a slight preference for Option Red (Confirmation Flow) over 
 - 5 out of 10 participants noted that both flows felt similar and 2 of those did not express a strong preference for either.
 - 6 out of 10 participants found that the gray box referencing previously filled information to be helpful for context, even if the information wasn't directly relevant to them.
 
+Key quotes:
   *P3: "Fast, and that's why I think Option Red would be better in terms of speed and knocking this out".*
   *P3: "If I don't know 2023's gross (income) off the top of my head, that requires me to open up another document in my files for the gross income. So that's very, very helpful" (re: gray box reference).
   *P6: "I think it's useful to have this information just so you can kind of sometimes, you know, like 'did I earn more money this year?' ".*
@@ -130,6 +131,7 @@ Participants expected VA.gov to align with their mental models around progress t
 
 - 1 participant, who works with homeless services, noted that improving online accessibility and standardized support communications could reduce wait times and make it easier for homeless Veterans to receive timely assistance.
 
+Key quotes: 
   *P9: "The biggest issue, I think, that I see my vets have is setting up their MyHealtheVet. That is the biggest problem: they get confused. They can't remember their password. I tell them, 'Go into the VA, they got an office set up for that.' So that's a barrier in and of itself".*
   *P9: Veteran not accessing this (health care portal), it delays them by weeks. They have to go do the paper form, so they have to get it, fill it out, take it into enrollment and eligibility. They're waiting on this to be completed so they can get homeless services versus if this were more accessible. It would be just be easier for them".*
 
@@ -145,30 +147,35 @@ Participants found the flow easy to use, reinforcing patterns from previous stud
   - 7 participants expanded the additional information component to read the description, with 5 expilicity indicating it is helpful.
   - 6 participants mentioned that the save-in-progess alert is good.
  
+Key quotes:
   *P1: "I would be zipping through this. This isn't rocket science, really".*
   *P9: "These dropdown boxes are awesome". (re: additional information component*
 
 **Additional Insight 2:** 
 Participants prefer the online experience over the phone for making updates.
 - 3 participants expressed a clear preference for self-service editing over calling, citing long wait times and complicated menus.
+
+Key quote:
   *P5: "I hate having to call 800 number to do things, especially if it's the VA general number trying to work through a menu to get the right person. It's never fun."
 
 **Additional Insight 3:** 
 The are drawbacks to using Figma for Prototype testing.
 - 9 out of 10 participants have a service-connected disability rating of 50% or higher, meaning they aren't usually required to fill out the financial section.
 
+Key quotes:
   *P1: "None of this would be pertinent to me".*
   *P4: "I've never been asked for any of my financial information. Very invasive. I think".*
 
 ## Recommendations
 
 **Recommendation 1: Improve the List & Loop clarity**
-- Due to the rigid nature of the List&Loop, we will not be able to dynamically consolidate the Introduction screen with the succeeding screen in the Dependent and Spouse section. We can, however, improve the guidance with informational content at the List&Loop introduction pages. 
-- For the List&Loop review screen, 
+- Due to the rigid nature of the List&Loop, we will not be able to dynamically consolidate the Introduction screen with the succeeding screen in the Dependent and Spouse section. We can, however, improve the guidance with informational content at the List&Loop introduction pages, especially for the Financial section. 
+- For the List&Loop review screen for the spouse, consider additional supplemental information such as the date of marriage.
 
 **Recommendation 2: Optimize the flow to be more aligned with the Veteran's mental model**
-- Cosmetic update for the border around Personal Info
-- Cosmetic update for Marital Status (radio button option)
+- We recommend that the Personal Information box, showing the Veteran's name, birthday, social security number, and sex, from the address block format to the white box format. In a previous study by the Authenticated Patterns team, comparing prefilled data presented in several different formats, resulted in the recommendation of the white box with black border for editable and uneditable data. In our collaboration with this team, we presented three options: an address block format, and a gray box format. The participants overwhelmingly chose the white box as their preference. format.
+- We recommend changing the Marital Status option from the dropdown to radio buttons. 
+- Despite several participants wanting an option to match the Spouse's address with the Veteran's address, it is not needed. The only time they'll see the option to input Spouse's address is when they indicated that the Spouse does not live with the Veteran. We speculated that many overlooked this question since the Figma prototype automatically had this answer as a "no" to route the participant to this scenario.  
 - Prefilled Spouse Address? No
 
 **Recommendation 3: Optimize Confirmation Flow (Option Red)**
