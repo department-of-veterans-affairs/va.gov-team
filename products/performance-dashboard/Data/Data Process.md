@@ -1,16 +1,10 @@
- VA.GOV Performance Dashboard Data Process
-
- 
+# VA.GOV Performance Dashboard Data Process
 
 The[ VA.Gov Performance Dashboard](https://www.va.gov/performance-dashboard/) has had a complete data redesign, utilizing Domo has our processing tool to deliver Google Analytics and Medallia (CSAT) data to the dashboard.
 
- 
-
 When IIR originally took on the project of revamping the data pipeline, we found many areas of improvement, including the removal of a process where users manually entered data, to creating ETL flows that improve performance and useability of the data.
 
- 
-
-The current process can be broken down into the following steps:
+## Current Process
 
 1. **Data Ingestion to Domo**
 
@@ -40,7 +34,7 @@ The current process can be broken down into the following steps:
 
   - A Domo webform that defines the proper mapping logic for GA and Medallia to work together, as well as the general flow of the dashboard’s layout (ordering)
 
-- The Performance Dashboard is fueled by the following[ Domo Dataflow](https://va-gov.domo.com/datacenter/dataflows/317/graph)
+- The Performance Dashboard is fueled by the following [Domo Dataflow](https://va-gov.domo.com/datacenter/dataflows/317/graph)
 
   - The datasets within this dataflow that are denoted with BQ are the GA data that comes from Big Query
 
