@@ -25,17 +25,17 @@ The data in the online form will be used in the generation of the new (2024) 414
 
 
 ## Resource materials
-- [0781 Paper Sync Epic]
+- [4142 Paper Sync Epic]
 - [Story Mapping Board]
-- [Figma 0781 redesigns]
-- [Figma 0781 redesigns-final]
-- [Final -0781 PS Field Mapping.md]
-- [Final - 0781 PS New SubURL.md]
+- [Figma 4142 redesigns]
+- [Figma 4142 redesigns-final]
+- [Final -4142 PS Field Mapping.md]
+- [Final - 4142 PS New SubURL.md]
 - [Architecture]
 - Datadog log
 - Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing) (pre-production)
 - Product Guide
-- [0781 Paper Sync Staging Test Plan]
+- [4142 Paper Sync Staging Test Plan]
 - [Release calendar]
 
 
