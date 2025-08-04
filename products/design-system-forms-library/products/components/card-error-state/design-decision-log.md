@@ -1,33 +1,97 @@
 # Card Component Error State Design Decisions
 Last updated: [DATE]
 
-- [ADR: XXX - DECISION LABEL](#ADR-XXX---Decision-Label)
-- [ADR: XXX - DECISION LABEL](#ADR-XXX---Decision-Label)
-- [ADR: XXX - DECISION LABEL](#ADR-XXX---Decision-Label)
+- [ADR: 001 - Cards will not support success, warning, or info states](#ADR-001---Cards-will-not-support-success-warning-or-info-states)
+- [ADR: 002 - User must be able to resolve the error](#ADR-002---User-must-be-able-to-resolve-the-error)
+- [ADR: 003 - Default tag will be used for launch](#ADR-003---Default-tag-will-be-used-for-launch)
+- [ADR: 004 - The card will be interactive when in the error state](#ADR-004---The-card-will-be-interactive-when-in-the-error-state)
 
 
-## ADR XXX - Decision Label
-_Copy an ADR section for each decision made_
+## ADR 001 - Cards will not support success, warning, or info states
 
-### Status: [STATUS]
-_Describe the status of the decision. Options are "proposed", "accepted", "rejected", "deprecated", "superseded"._
+### Status: Accepted
 
-- Date issue raised: [DATE]
-- Decision date: [DATE]
+- Date issue raised: 07/17/2025
+- Decision date: 07/17/2025
 
 ### Context
-_Describe the context and problem statement, including any forces influencing the decision._
-
+Many times components support multiple states, including warning, error, success, and info and they operate similarly to communicate the various states.
 
 ### Decision
-_Describe the change we are proposing/doing._
+For this use case the decision has been made to limit card statuses to only the error state. Other states are not being considered at this time and are not planned to be in the immediate future.
 
+### Consequences
+Teams may want to include various states, or need to include a success state when an error state is resolved. For now, teams are encouraged to use other alerts in combination with cards to communicate other states.
+
+### Open Questions
+N/A
+
+## ADR 002 - User must be able to resolve the error
+
+### Status: Accepted
+
+- Date issue raised: 07/17/2025
+- Decision date: 08/04/2025
+
+### Context
+There are many times a card represents errors made by an API that a user cannot correct. We want to use the error state for those items that a user can correct. 
+
+### Decision
+Cards using an error state must include a visible secondary action link that allows the user to correct the error. In the missing, error, and default state of cards the link must persist. Link text may change from `Add` to `Edit`
+
+### Consequences
+Because the user will navigate to a new page to fix the error, the navigation action will be with a link, not a button.
+
+### Open Questions
+N/A
+
+
+## ADR 003 - Default tag will be used for launch
+
+### Status: Accepted
+
+- Date issue raised: 07/31/2025
+- Decision date: 08/04/2025
+
+### Context
+The experimental design request was designed using a colored tag. Colored tags are not available in the design system at this time.
+
+### Decision
+We will build using the default tag. Once the colored tag is available, the component/card will be updated to use the colored tag.
+
+### Consequences
+We may need to refactor any cards that launch with the default tag. But the team is looking into ways to control this from a single source.
+
+### Open Questions
+N/A
+
+
+## ADR 004 - The card will be interactive when in the error state
+
+### Status: Accepted
+
+- Date issue raised: 07/31/2025
+- Decision date: 08/04/2025
+
+### Context
+When a user tabs out of the error state and to another element and back into the card with an error, we want the user to know there is still an error that needs to be resolved. 
+
+### Decision
+We will make the card interactive when in the error state.
+
+These pages do not contain any form fields (e.g., text inputs, selects, or checkboxes). As a result, screen reader users are unlikely to be in Forms Mode when they arrive on pages with cards. Instead, they will most likely be in Browse Mode (Virtual Cursor Mode), which allows them to navigate using headings, landmarks, and the arrow keys.
+
+To ensure that the error state is still discoverable and perceivable in this mode:
+- The error message uses role="alert" to trigger screen reader announcements
+- The entire card becomes keyboard-focusable (tabindex="0") when in the error state
+- The card uses aria-labelledby and aria-describedby to programmatically associate the heading and error message
+- The heading inside the card uses a semantic <h2> tag, making it easy to navigate to using heading navigation shortcuts
+
+This approach ensures screen reader users receive the same information and cues as visual users, even when not in Forms Mode.
 
 
 ### Consequences
-_Describe the consequences of the decision. This could include positive and negative impacts, as well as any risks and how they will be mitigated._
-
-
+This may cause unexpected verbosity for some screen reader users.
 
 ### Open Questions
-_Include any open questions that may still be lingering_
+N/A
