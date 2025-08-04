@@ -1,0 +1,130 @@
+# Benefits Management Tools II Transition Hub
+
+**Updated: 8.31.2025**
+
+> **Note:** These Transition Docs are "point in time" documents, and may not reflect current progress, deployments, or upcoming efforts.
+
+---
+
+## Team Transition Document  
+**Status:** TBD  
+
+The purpose of this transition document is to outline the current state of Benefits Management Tools II product development.  
+It serves as a "front door" to documentation and resources collected during the course of product design and development.  
+Included are links to more specific transition hubs where you can find direct links to resources and references used during design and development.
+
+---
+
+## Table of Contents
+- [Product context, portfolio, and artifacts](#product-context-portfolio-and-artifacts)  
+- [Roadmap](#roadmap)  
+- [Features and initiatives we worked on](#features-and-initiatives-we-worked-on)  
+- [Enablement Team Contacts](#enablement-team-contacts)
+
+---
+
+## Product Context, Portfolio, and Artifacts
+
+### Portfolio Context
+
+#### Claim Status Tool  
+The Claim Status Tool allows Veterans to check the status of their VA claims, decision reviews, or appeals online.  
+Users can view details such as evidence submitted, additional evidence requested by VA, claim types, and specific issues claimed.  
+Additionally, Veterans can upload supporting documents for initial claims and download decision letters for certain types of claims, decision reviews, and appeals.
+
+#### VA Benefits Letters  
+Through the VA Benefits Letters application, Veterans can access and download various official VA letters and documents, including the Benefit Summary Letter (often referred to as a VA award letter).  
+This tool provides Veterans with immediate access to their benefits information, which can be useful for verifying service history, disability ratings, and other benefits-related detail.
+
+#### Rated Disabilities  
+The Rated Disabilities tool enables Veterans to view their combined disability rating as well as individual disability ratings online.  
+These ratings are assigned based on the severity of disabilities related to military service and are crucial in determining the benefits Veterans receive.  
+By accessing this tool, Veterans can stay informed about their disability evaluations and ensure they are receiving appropriate benefits.
+
+---
+
+### Product Portfolio
+
+**Claim Status Tool**
+- Staging link  
+- Product folder  
+- Product outline  
+- Product Guide / Contact Center Guide  
+- VBA OBA Stakeholder notes  
+- PM Resources folder  
+- Gap-Bet Scoring  
+- SharePoint files and resources  
+
+---
+
+### Product Artifacts
+
+**Claim Status Tool**
+- Data Flow Diagram  
+- Upstream Service Contacts  
+- Staging users  
+- Analytics  
+
+**Analytics Dashboards**
+- CSAT Domo (sort by URL `/track-claims`)  
+- Google Analytics  
+- DD CST Tracked Item Stats  
+- DD CST Error Monitoring  
+- DD BMT Silent Failure Monitoring  
+
+**Engineering**
+- High-level view of systems  
+- Silent Failures  
+- Engineering Onboarding Documentation  
+- Datadog README  
+- Engineering README: How to run the Benefits Management Tools team services  
+
+**Design and Research**
+- CST Design Resources  
+- Research folder  
+- BMT Figma Project  
+- CST V2: Up-to-date design source of truth  
+- CST Mural Room  
+
+**Team Resources**
+- GitHub Project Board  
+- Accessibility documentation  
+- Accessibility project board  
+
+---
+
+## Roadmap
+
+### Now (Current Quarter beginning April 1, 2025)
+-
+
+### Next (Quarter beginning July 1, 2025)
+- 
+### Future (Quarter beginning October 2025)
+-   
+
+**Links**
+- [Outcome-driven roadmap](#)   
+
+---
+
+## Features and Initiatives We Worked On
+
+| Feature                                   | AKA                                     | Status                                                                 |
+|-------------------------------------------|-----------------------------------------|------------------------------------------------------------------------|
+| xyz          | xyz     |xyz                                                      |
+| xyz  | xyz   | xyz                                                 |
+| xyz            |xyz                                   | xyz                                                   |
+| xyz         | xyz    | xyz   |
+| xyz               | xyz  | Ixyz                              |
+
+---
+
+## Enablement Team Contacts
+
+| Name             | Email                        | Role                              |
+|------------------|------------------------------|-----------------------------------|
+| Amy Lai          | amy.lai2@va.gov             | Product Owner                     |
+| Julie Strothman  | julie.strothman@va.gov      | Design Lead                       |
+| Cory Sohrakoff   | cory.sohrakoff@va.gov       | Engineering Lead                  |
+
