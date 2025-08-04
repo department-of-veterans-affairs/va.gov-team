@@ -86,7 +86,12 @@ Related ticket: [[Representative Status Widget] Add Downtime Notifications #1136
 - Refinement is required to define the approach
 - An early idea was to lean on existing downtime handling within `vets-website`
    - [Documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/downtime-notifications)
-   - [vets-website component](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/platform/monitoring/DowntimeNotification) 
+   - [vets-website component](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/platform/monitoring/DowntimeNotification)
+ 
+#### Known Bugs
+Some bugs have been identified for our Production experience. These have not yet been addressed due to lower priority, feel free to prioritize + address as needed.
+
+[Known bugs are stored in this view of the Github project board](https://github.com/orgs/department-of-veterans-affairs/projects/1180/views/41). 
 
 #### Future Ideas
 
