@@ -97,9 +97,9 @@ Participants generally understood the List&Loop component for the spouse and fin
     - 5 participants wanted more dynamic content or upfront information on gathering the required financial information.
 - 4 participants suggested adding details like Date of Marriage to the Spouse Review page to reduce the need for checking or backtracking.
 
-*P3: "Why don't you combine the 2 (financial intro and income pages) again? It's just this question, right? It's just this question. And then whne you click next, it all expands out to include what I'm trying to put in".*
+  *P3: "Why don't you combine the 2 (financial intro and income pages) again? It's just this question, right? It's just this question. And then whne you click next, it all expands out to include what I'm trying to put in".*
 
-*P8: "A little synopsis of just like these questions in the [review accordion]. So that when they come back...they can verify it without having to click the edit button" (re: spouse review page).*
+  *P8: "A little synopsis of just like these questions in the [review accordion]. So that when they come back...they can verify it without having to click the edit button" (re: spouse review page).*
 
 **Finding 2:**  
 Participants showed a slight preference for Option Red (Confirmation Flow) over Option Green (existing MVP flow) due to the perceived speed and helpful reference information. 
@@ -108,30 +108,30 @@ Participants showed a slight preference for Option Red (Confirmation Flow) over 
 - 5 out of 10 participants noted that both flows felt similar and 2 of those did not express a strong preference for either.
 - 6 out of 10 participants found that the gray box referencing previously filled information to be helpful for context, even if the information wasn't directly relevant to them.
 
-*P3: "Fast, and that's why I think Option Red would be better in terms of speed and knocking this out".*
-*P3: "If I don't know 2023's gross (income) off the top of my head, that requires me to open up another document in my files for the gross income. So that's very, very helpful" (re: gray box reference).
-*P6: "I think it's useful to have this information just so you can kind of sometimes, you know, like 'did I earn more money this year?' ".*
-*P8: "I'm kinda on the fence. I like the gray boxes with information, but I also like the clean slate of just knowing to put what's focused for 2024".*
+  *P3: "Fast, and that's why I think Option Red would be better in terms of speed and knocking this out".*
+  *P3: "If I don't know 2023's gross (income) off the top of my head, that requires me to open up another document in my files for the gross income. So that's very, very helpful" (re: gray box reference).
+  *P6: "I think it's useful to have this information just so you can kind of sometimes, you know, like 'did I earn more money this year?' ".*
+  *P8: "I'm kinda on the fence. I like the gray boxes with information, but I also like the clean slate of just knowing to put what's focused for 2024".*
 
 **Finding 3:**  
 Participants expected VA.gov to align with their mental models around progress tracking, data handling, and form behavior. Any mismatch in these areas led to confusion and frustration.
 - 5 participants found the Stepper Progress Bar to be confusing and unhelpful. One participant suggested an alternative, like a checklist or task list, for better orientation.
 
-*P4: "How much longer is this going to take? I'm still on number 2".*
-*P6: "Even if you click on next page, you're still not moving, kind of, this one bar".*
+  *P4: "How much longer is this going to take? I'm still on number 2".*
+  *P6: "Even if you click on next page, you're still not moving, kind of, this one bar".*
 
 - 3 participants expect an option for spouse address to match the Veteran's address.
 
-*P4: "If your spouse's address is different from the Veterans, you know, then give me this option (to edit)".*
+  *P4: "If your spouse's address is different from the Veterans, you know, then give me this option (to edit)".*
 
 - 3 participants assumed that the prefilled information is from their VA profile.
 
-*P7: "This is stuff that you put in when you first create a VA account. So this again, you moved, or something, got a new phone, this is not going to change."
+  *P7: "This is stuff that you put in when you first create a VA account. So this again, you moved, or something, got a new phone, this is not going to change."
 
 - 1 participant, who works with homeless services, noted that improving online accessibility and standardized support communications could reduce wait times and make it easier for homeless Veterans to receive timely assistance.
 
-*P9: "The biggest issue, I think, that I see my vets have is setting up their MyHealtheVet. That is the biggest problem: they get confused. They can't remember their password. I tell them, 'Go into the VA, they got an office set up for that.' So that's a barrier in and of itself".*
-*P9: Veteran not accessing this (health care portal), it delays them by weeks. They have to go do the paper form, so they have to get it, fill it out, take it into enrollment and eligibility. They're waiting on this to be completed so they can get homeless services versus if this were more accessible. It would be just be easier for them".*
+  *P9: "The biggest issue, I think, that I see my vets have is setting up their MyHealtheVet. That is the biggest problem: they get confused. They can't remember their password. I tell them, 'Go into the VA, they got an office set up for that.' So that's a barrier in and of itself".*
+  *P9: Veteran not accessing this (health care portal), it delays them by weeks. They have to go do the paper form, so they have to get it, fill it out, take it into enrollment and eligibility. They're waiting on this to be completed so they can get homeless services versus if this were more accessible. It would be just be easier for them".*
 
 ---
 
@@ -145,29 +145,48 @@ Participants found the flow easy to use, reinforcing patterns from previous stud
   - 7 participants expanded the additional information component to read the description, with 5 expilicity indicating it is helpful.
   - 6 participants mentioned that the save-in-progess alert is good.
  
-*P1: "I would be zipping through this. This isn't rocket science, really".*
-*P9: "These dropdown boxes are awesome". (re: additional information component*
+  *P1: "I would be zipping through this. This isn't rocket science, really".*
+  *P9: "These dropdown boxes are awesome". (re: additional information component*
 
 **Additional Insight 2:** 
 Participants prefer the online experience over the phone for making updates.
 - 3 participants expressed a clear preference for self-service editing over calling, citing long wait times and complicated menus.
-*P5: "I hate having to call 800 number to do things, especially if it's the VA general number trying to work through a menu to get the right person. It's never fun."
+  *P5: "I hate having to call 800 number to do things, especially if it's the VA general number trying to work through a menu to get the right person. It's never fun."
 
 **Additional Insight 3:** 
 The are drawbacks to using Figma for Prototype testing.
 - 9 out of 10 participants have a service-connected disability rating of 50% or higher, meaning they aren't usually required to fill out the financial section.
 
-*P1: "None of this would be pertinent to me".*
-*P4: "I've never been asked for any of my financial information. Very invasive. I think".*
+  *P1: "None of this would be pertinent to me".*
+  *P4: "I've never been asked for any of my financial information. Very invasive. I think".*
 
 ## Recommendations
 
-*Summarize actionable recommendations based on findings.*  
+**Recommendation 1: Improve the List & Loop clarity**
+- Due to the rigid nature of the List&Loop, we will not be able to dynamically consolidate the Introduction screen with the succeeding screen in the Dependent and Spouse section. We can, however, improve the guidance with informational content at the List&Loop introduction pages. 
+- For the List&Loop review screen, 
 
-1. **Recommendation:** [Insert action]  
-   - _Supporting evidence: [Insert data]_  
-2. **Recommendation:** [Insert action]  
-   - _Supporting evidence: [Insert data]_
+**Recommendation 2: Optimize the flow to be more aligned with the Veteran's mental model**
+- Cosmetic update for the border around Personal Info
+- Cosmetic update for Marital Status (radio button option)
+- Prefilled Spouse Address? No
+
+**Recommendation 3: Optimize Confirmation Flow (Option Red)**
+- Adopt or hybridize the Confirmation Flow.
+- Consider a customized Contact Information (Address, phone, and email)
+- Explore ways to make the  Gray Reference box clearer. 
+
+**Recommendation 4: Improve Accessibility for at-risk groups**
+- Unhoused/homeless address option
+- Standardized communication?? 
+
+**Recommendation 5: Va.gov**
+- Redesign the stepper component
+- VA Profile 
+
+**Recommendation 6: Prototype Testing**
+- Frame the scenario clearly
+- Supplement Figma tests? 
 
 ## Product User and Business Outcomes
 
