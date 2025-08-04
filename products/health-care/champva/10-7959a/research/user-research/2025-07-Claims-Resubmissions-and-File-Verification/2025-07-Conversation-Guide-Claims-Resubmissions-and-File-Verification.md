@@ -48,7 +48,7 @@
 
 Thanks for joining us today! My name is **[NAME]** and **[NOTETAKER NAME]** is taking notes. I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
-Today we’re going to talk about VA Form 10-7959a to submit a claim for the Civilian Health and Medical Program of the Department of Veterans Affairs benefits, otherwise known as CHAMPVA. CHAMPVA is a cost-sharing program for spouses and children of Veterans with disabilities who don’t qualify for Tricare.
+Today we’re going to talk about VA Form 10-7959a to submit a claim for the Civilian Health and Medical Program of the Department of Veterans Affairs benefits, otherwise known as CHAMPVA. CHAMPVA is a cost-sharing program for spouses and children of Veterans who have 100% Permanent and Total service-connected disability rating, who don’t qualify for Tricare.
 
 Before we start, I have a few things that I want to go over with you:
 
@@ -58,6 +58,8 @@ Before we start, I have a few things that I want to go over with you:
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
   
 - **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
+
+- **You'll be interacting with a coded prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. <mark>**Since it's a demo, none of your actions will affect your VA information or benefits.**</mark>
   
 - I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
    - <mark>**If no:** Use Slack to kindly ask the observers to leave the Zoom.</mark>
@@ -66,8 +68,6 @@ Before we start, I have a few things that I want to go over with you:
 > [!TIP]
 > - Then, ask the notetaker and observers to **give a brief, camera-on introduction, like their first name and position with VA.gov.** (This is meant to humanize the interaction of observation for the participant.)
 > - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
-     
-- **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. <mark>**Since it's a demo, none of your actions will affect your VA information or benefits.**</mark>
   
 - **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
    - **Knowing that, are you comfortable if I record my screen and audio as we talk today?**
@@ -91,9 +91,11 @@ Before we start, I have a few things that I want to go over with you:
 
  <mark>**[Record answer here]**</mark>
 
-# Warm-up Questions (Optional) - 5 minutes
+# Warm-up Questions - 5 minutes
 
 Before we look at the website, let’s start with a few warm-up questions.
+
+### For only non-assistive tech users
 
  - Are you or anyone else in your household currently enrolled in the CHAMPVA program?
    - IF ENROLLED: How recently did you apply for/enroll in the CHAMPVA program?
@@ -104,7 +106,8 @@ Before we look at the website, let’s start with a few warm-up questions.
        - What was your experience like?
        - Did you submit your claims using a paper/PDF form, or online?
        - Do you recall if you received any mail from the CHAMPVA program about your claim before it was processed?
-       
+
+### For only assistive tech users
  - (Optional, omit for time) Do you have a VA.gov account?
    - IF YES: What has been your experience with logging into the site?
      
@@ -112,7 +115,6 @@ Before we look at the website, let’s start with a few warm-up questions.
       - How often are you visiting VA.gov? 
       - For what tasks?
 
-### For only assistive tech users
  - What assistive technology are you using right now?
    - (If Dolphin screen reader, won't be able to share screen on Zoom)
  - (If no AT) Do you sometimes use assistive technology while using VA.gov or filling out a form online?
@@ -134,7 +136,7 @@ I'm going to drop a link in the chat, which I'd like you to open in your browser
 Great! I'm pasting the link to the site in the chat. You can find that in the row of buttons at the bottom, under the chat icon:
 
 Send link in Zoom chat
-[Link to Staging](update) 
+[Link to Staging](https://staging.va.gov/family-and-caregiver-benefits/health-and-disability/file-champva-claim-10-7959a/introduction) 
 
 Can you open the link in the chat?
 Do you know how to share your screen on Zoom?
@@ -190,14 +192,14 @@ At this point I am going to have you scroll down the page to the big blue box an
 
 
 ### Begin Claim
-Now I'd like you to start the form as if you are submitting a new claim for [yourself/your spouse]. I'll let you know when to pause so I can ask some questions.
+Now I'd like you to start the form as if you are submitting a new **medical claim** for [yourself/your spouse]. I'll let you know when to pause so I can ask some questions.
 
  - As a reminder:
    - This is our testing site so you don't have to worry about the information that you enter going anywhere. Feel free to use fake information for sensitive questions such as your social security number or birth date that you don't want to share.
    - As you go through the form, please remember to think out loud. We want to hear any reactions you have as you're experiencing them.
 
 
-### CHAMPVA benefit status [pause the participant]
+### CHAMPVA benefit status [omit if short on time]
  - What do you think would happen if you selected “no” on this page?
  - For the purposes of this test, please select "yes" and continue.
 
@@ -209,11 +211,9 @@ You can continue entering information until you reach section 4. I’ll let you 
 >  - [Does the participant hesitate or react to the resubmission question?]
 
 
-### Health Insurance Loop [pause the participant]
- - Why do you think you’re being asked for this information?
- - Please go ahead and add an insurance policy here. 
- - **Policy Information**
-   - You can make up information for this page, but if you were filing a claim for real, would you need to pause here to find this information?
+### Health Insurance Loop
+ - **Policy Information** 
+   - Just as a reminder, you can make up information for this page, but if you were filing a claim for real, would you need to pause here to find this information?
 
 
 ### Claim information [pause the participant]
@@ -255,9 +255,8 @@ You can continue entering information until you reach section 4. I’ll let you 
 
 
 ### Review & Submit
- - Without clicking submit, review your CHAMPVA claim.
- - If you accidentally input some information wrong, say your family member's name, how would you fix that?
- - Without clicking anything, if you submitted the form, what would you expect to happen next?
+ - Like I said at the beginning, we are not going to be submitting this form today, so this will be the last screen we look at for this task. Without clicking submit, please review your CHAMPVA claim.
+ - Without clicking anything, if you did submit the form, what would you expect to happen next?
  - How soon do you expect to be notified about a decision being made on your claim?
    - How do you expect to be notified? By mail, email, text?
    - If you could check the status of a claim BEFORE a decision was made, where would you expect to find that claim status?
@@ -268,12 +267,21 @@ You can continue entering information until you reach section 4. I’ll let you 
 #### Participant rating:
 On a scale of 1-5 (with 1 being very hard and 5 being very easy) - how difficult or easy was it to complete the CHAMPVA claim form? Why did you give it that rating?
 
+  - [If less than 5] what would you change about the CHAMPVA claim form to take your rating from [number] to that 5, or very easy?
+
 
 ## Second Task: Sendback Letter - 5-10 minutes
 
-For this task, I’m going to provide you with another link that I'd like you to open in a new tab on the same browser. This will be a letter that you received from CHAMPVA regarding a claim you filed. 
+For this task, I’m going to provide you with another document that I'd like you to open in a new tab on the same browser. This will be a letter that you received from CHAMPVA regarding a claim you filed. 
 
-*[provide Figma link to sample sendback letter]*
+ - [If through Zoom chat] I'll provide a document for you to open and read. I'm dropping it in the chat now.
+   - *Use [champva-sendback-letter]*
+   - If you hover over the file, you should see three dots you can click on and choose download.
+   - When you're ready, please open the file and we'll make sure we can see it on your screen.
+
+- [If through GDrive] I'll provide a link to a document for you to open and read in a new browser window. I'm dropping it in the chat now.
+  - *[provide GDrive link to sample sendback letter]*
+  - When you're ready, please open that link in a new browser window and we'll make sure we can see it on your screen.
 
 ### Letter
  - Please read through this letter carefully and pretend it’s about a claim [you/your spouse] previously submitted. Let me know when you’re done reading.
@@ -282,10 +290,10 @@ For this task, I’m going to provide you with another link that I'd like you to
  - What would you need to do to resolve it?
 
 #### Participant rating
- - On a scale of 1-5 (with 1 being poorly and 5 being very well) - how well does this letter **explain** what you need to do in order to resolve the problem with your CHAMPVA claim?
+ - On a scale of 1-5 (with 1 being poorly and 5 being very well): how well does this letter **explain** what you need to do in order to resolve the problem with your CHAMPVA claim?
    - [If less than 5] If you could redesign this letter, how would you explain the steps to resolve the problem with your CHAMPVA claim?
      
- - On a scale of 1-5 (with 1 being poorly and 5 being very well) - how **prepared** do you feel to resolve this claim based on this letter's content? Why did you give it that rating?
+ - On a scale of 1-5 (with 1 being poorly and 5 being very well): how **prepared** do you feel to resolve this claim based on this letter's content? Why did you give it that rating?
    - [If less than 5] What do you need to see in this letter to bring your rating from a [number] to a 5, meaning very well prepared? 
 
 > Things to watch for:
@@ -299,9 +307,9 @@ For this task, I’m going to provide you with another link that I'd like you to
  - We’re going to go back to the Claims form, but we aren't going to use the form you already started.
  - Please click the link I sent you at the beginning of this call to open a new window. 
    - I can drop the link in the chat again if you need it.
-   - *[provide link to form]*
+   - *[provide link to form]*: https://staging.va.gov/family-and-caregiver-benefits/health-and-disability/file-champva-claim-10-7959a/medical-claim-upload 
 
-### Intro page
+### Intro page (omit for time, if needed)
  - This is the form we used before.
  - Looking at this page, do you think you’re in the right place to resubmit your claim?
  - What information do you think you’ll need to resubmit your claim?
@@ -381,7 +389,8 @@ On a scale of 1-5 (with 1 being very hard and 5 being very easy) - how difficult
 
  - Overall, was there anything you saw in this session that worked well for you?
  - What was unclear or didn't work well for you?
- - What are your thoughts about the amount of information provided in this form?
+ - What are your thoughts about the amount of information provided in this form? Not enough, too much, just right?
+ - How would you compare the first claim you submitted today, versus the claim you resubmitted (the second claim)? Can you elaborate?
  - [If the participant is a current CHAMPVA beneficiary] 
    - How would you compare the forms you just completed to your experience filling out a CHAMPVA claim previously? Why?
  - Any questions for me?
@@ -395,7 +404,7 @@ On a scale of 1-5 (with 1 being very hard and 5 being very easy) - how difficult
    <mark>**[Record answer here]**</mark>
 
 
-# Thank-You and Closing - X minutes
+# Thank-You and Closing - 1-2 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
