@@ -7,7 +7,7 @@ Account Activity Logs (AAL) reside in MHV Classic and have been used to generate
 
 ## Architecture
 This effort will provide:
-- A new `vets-api` authenticated endpoint to allow a frontend to log events (e.g. when viewing the MHV Landing Page, we can call the logging API to log an "MHV Landing Page accessed" event in vets-api)
+- A new `vets-api` authenticated endpoint to allow a frontend to log events (e.g. when viewing the MHV Landing Page, we can call this new logging API to log an "MHV Landing Page accessed" event in vets-api)
 - A new `vets-api` library to allow logging events directly from other code (e.g. when viewing the secure messages app, the application always fetches messages from vets-api, hence we can log an "SM accessed" event in vets-api)
 ![UUM Architecture](architecture.png "UUM Architecture")
 
@@ -96,3 +96,6 @@ erDiagram
   - **Write optimization**: Critical for a logging/metrics table with potentially millions of records
 - **Trade-offs**: Theoretical possibility of invalid user_ids, but this is acceptable for a metrics table
 - **Pattern**: This follows standard practices for analytics/audit tables where historical data preservation and write performance are prioritized over strict referential integrity
+
+## Other considerations
+- Using a Sidekiq job - We could use a Sidekiq job in `vets-api` to asynchronously perform the logging operation, so not to incurr a performance hit on the backend, but it is expected that this operation will take a minimal amount of time to perform and hence can be done inline. Regardless, we could migrate in the future to using a Sidekiq job if we find the burden is too high.
