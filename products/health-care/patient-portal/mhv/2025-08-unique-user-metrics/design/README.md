@@ -22,8 +22,8 @@ sequenceDiagram
     participant Database
     participant DataDog
 
-    User->>Frontend: Interacts with MHV health tools
-    Frontend->>API: POST /log-event<br/>(with unique user identifier)
+    User->>Frontend: Authenticated user interacts with MHV health tools
+    Frontend->>API: POST /log-event<br/>
     
     API->>Redis: Check if event already logged for user
     alt Event found in Redis
@@ -49,7 +49,7 @@ sequenceDiagram
 ```
 
 Notes:
-- Logged events include a unique user ID
+- Logged events include a unique user ID taken from the authenticated user
 - We use Redis for performance reasons, to limit database reads when checking for duplicate events from the same user
 - We use the database as a permanent record of each event for each user since Redis cache entries will expire or could be purged 
 - One can recreate the metrics from the data stored in the database if needed
