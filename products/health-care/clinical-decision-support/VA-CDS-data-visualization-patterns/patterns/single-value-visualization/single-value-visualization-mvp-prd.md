@@ -1,8 +1,8 @@
 # Single Value Visualization PRD (Product Requirements Document)
-- **Version:** MVP 
+- **Version:** MVP or "V1"
 - **Start Date:** June 11, 2025
 - **End Date:** 
-- **Status:** draft
+- **Status:** In Progress
 
 ## Overview
 The Single Value Visualization pattern highlights a single, key-value metric in a clear, visually distinct format. It enables users to quickly understand critical information and often serves as a springboard to deeper data or actions elsewhere in the product.
@@ -13,17 +13,16 @@ Clinicians work in data-dense environments where key information can easily be o
 ## Goals
 - Provide a clear, standardized pattern for displaying a key value prominently
 - Ensure visual hierarchy, responsiveness, and accessibility across platforms
-- Allow for flexible integration with additional contextual elements (e.g., labels, trend indicators, icons, actions)
 - Enable easy integration for both designers (via Figma UI Kit) and developers (via code and Storybook)
 
 ## Out of Scope
-
+- Allow for flexible integration with additional contextual elements (e.g., labels, trend indicators, icons, actions)
 
 ## User Stories
 - As a clinician, I want the most important value to be visually distinct and easy to locate at a glance so that I can determine if I need to take further action on a patient
 - As a designer, I want to use a standardized single value pattern so that I can present a critical metric consistently across different views
-- As a developer, I want a reusable component that accepts a label and value, with optional indicators like deltas, trend icons, or units
-- As a product team, we want to customize the style or contextualize the value (e.g., positive/negative change, status icons, tooltips, or links to detail views) so that we can match our product's use case
+- As a developer, I want a reusable component that accepts a label and value so that I can consistently enable this component
+- As a product team, we want to customize the style or contextualize the value so that we can match our product's use case
 - As a mobile user, I want the Single Value Visualization to adapt gracefully to smaller screens so that I won't lose context of information
 - As a contributor, I want clear documentation and examples so that I can implement and extend the Single Value Visualization pattern confidently
 - **Accessibility & Usability:**
@@ -39,7 +38,11 @@ Clinicians work in data-dense environments where key information can easily be o
 
 | Requirements  | Priority Level  |
 | :------------- | ------------- |
-| 
+| The component has three sections including the title, value, and an optional section  | P1  |
+| Create UI Kit for designers to use in their product designs  | P1  |
+| Written guidance for managing text such as character length  | P1  |
+| Written guidance for color palette  | P1  |
+| Enabling contextual indicators with text in the optional section  | P2  |
 
 ## Epic
 [#1539 Single Value Visualization](https://github.com/department-of-veterans-affairs/clinical-design-system/issues/1539)
