@@ -152,6 +152,21 @@ See [526 Form Flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/dep
 ### After
 See [0781 Mental Health Paper Sync](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1742838742470/a65aef904518076608009f57241cfa96874485a8) for screen shots and flow diagrams. 
 
+## Results
+
+The end product was a modernized, online version of VA Form 21-0781 that integrates seamlessly into the 526 disability claim flow. The new experience meets the VA’s goal of making the claims process more inclusive, accurate, and less emotionally burdensome for Veterans with mental health conditions.
+
+**Expanded Scope:** The form now accommodates a broader range of mental health conditions beyond PTSD, including anxiety, depression, and bipolar disorder, ensuring more Veterans see themselves reflected in the process.
+
+**Unified Filing Experience:** Previously, Veterans had to complete separate forms based on the type of traumatic event (combat, MST, or personal assault). The new form consolidates these into a single experience, reducing duplication and confusion.
+Streamlined Process for Combat-Related Claims: Veterans filing for combat-related conditions no longer need to provide information such as unit assignment, rank, medals, or details about others injured or killed. This change significantly reduces the complexity and emotional toll of completing the form.
+
+**Improved Information Collection:**
+- Treatment details are now gathered in a dedicated section, making it easier to complete and review.
+- Requests for information from other sources are now framed as supporting documentation, not mandatory requirements, reducing pressure on Veterans.
+
+Overall, the project successfully delivered a more supportive, trauma-informed experience that aligns with the VA’s modernization efforts and commitment to Veteran-centered services.
+
 ---
 
 #### Communications
