@@ -1,5 +1,5 @@
 # 10-10EZR Emeregency Contact (EC) and Next of Kin (NoK) - Release Plan (WIP)
-- Last updated: 7/18/2025
+- Last updated: 8/4/2025
 
 
 ## Step 1: Development
@@ -59,7 +59,7 @@ Before enabling your feature toggle in production, you'll need to:
 - How you'll give the test participants access to the product in production w/o making it live on VA.gov:
      - Feature Toggle for specific users 
 
-#### Results
+#### Results of Round 1
 
 - Number of users:  4 Participants
 - Number of bugs identified / fixed: 
@@ -73,6 +73,15 @@ Before enabling your feature toggle in production, you'll need to:
   - Reconfiguration and retesting will take place
   - Retesting in staging
   - UAT testing will take place when work is ready
+
+#### Results of Round 2 (7/25/25 - 7/30/25)
+
+- Number of users: 2
+- Number of bugs identified / fixed: 1 (https://github.com/department-of-veterans-affairs/vets-api/pull/23294)
+- Was any downstream service affected by the change?: No
+- Any changes necessary based on the logs, feedback on user challenges, or VA challenges?
+  - For participant 1, their EC/NoK data was updated correctly there were no issues
+  - For participant 2, their EC/NoK data was updated, but the corresponding EZR form was not received by VES.
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
 
