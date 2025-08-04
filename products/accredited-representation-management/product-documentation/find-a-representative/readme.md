@@ -14,6 +14,11 @@ Designs for Find a Representative 3.0 have already been completed in Figma: http
 
 We recommend these designs undergo usability testing and be updated based on reasearch findings. After this, Find a Representative 3.0 will be ready for develpoment!
 
+#### Known Bugs
+Some bugs have been identified for our Production experience. These have not yet been addressed due to lower priority, feel free to prioritize + address as needed.
+
+[Known bugs are stored in this view of the Github project board](https://github.com/orgs/department-of-veterans-affairs/projects/1180/views/41). 
+
 #### Redirect Goals
 When [Appoint a Representative](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/product-documentation/appoint-a-representative) is out of pilot for the online submission of VA Form 21-22 (i.e. most, or all VSOs can accept online submissions), we will work with stakeholders to redirect related pages within eBenefits:
 1. https://www.ebenefits.va.gov/ebenfits/vso-search - redirect to Find a Representative
