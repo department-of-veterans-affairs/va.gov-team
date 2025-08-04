@@ -10,6 +10,11 @@
 - va.gov uses the VASS API token to make calls
   - the token should contain the information we need
 
+## Documentation
+
+- [SiS documentation in GH](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/readme.md)
+- [We will most likely be doing Service Account Auth (STS)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/Products/Sign-In%20Service/Engineering%20Docs/Authentication%20Types/Service%20Account%20Auth%20(STS))
+
 ## Examples
 
 ### Travel Pay on va.gov
