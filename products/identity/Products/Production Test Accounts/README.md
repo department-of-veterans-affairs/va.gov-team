@@ -32,6 +32,17 @@ Deliver a production-ready mechanism for secure PTA access using **Login.gov or 
 
 ---
 
+## MVP Requirements
+
+1. Users must have a verified credential using id.me or login.gov.
+2. Test identities have traits of real identities (current state).
+3. Real users (currently employee/contractor) are mapped securly to appropriate prod test users and associated data.
+4. Must be able to easily terminate or block access when needed by administrator.
+5. The identity of the employee or contractor must be captured, along with the test identity, date, time, and feature accessed.
+6. Auditing of the actions taken in each feature must be captured and available upon request.
+
+---
+
 ## MVP Scope by Requirement
 
 | **Requirement**       | **MVP Solution**                                  | **Backend Actions**                                                                 |
