@@ -22,8 +22,8 @@ sequenceDiagram
     participant Database
     participant DataDog
 
-    User->>Frontend: Authenticated user interacts with MHV health tools
-    Frontend->>API: POST /log-event<br/>
+    User->>Frontend: Authenticated user interacts<br/>with MHV health tools
+    Frontend->>API: POST /log-event
     
     API->>Redis: Check if event already logged for user
     alt Event found in Redis
