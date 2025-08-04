@@ -82,10 +82,10 @@ We will make the card interactive when in the error state.
 These pages do not contain any form fields (e.g., text inputs, selects, or checkboxes). As a result, screen reader users are unlikely to be in Forms Mode when they arrive on pages with cards. Instead, they will most likely be in Browse Mode (Virtual Cursor Mode), which allows them to navigate using headings, landmarks, and the arrow keys.
 
 To ensure that the error state is still discoverable and perceivable in this mode:
-- The error message uses role="alert" to trigger screen reader announcements
-- The entire card becomes keyboard-focusable (tabindex="0") when in the error state
-- The card uses aria-labelledby and aria-describedby to programmatically associate the heading and error message
-- The heading inside the card uses a semantic <h2> tag, making it easy to navigate to using heading navigation shortcuts
+- The error message uses `role="alert"` to trigger screen reader announcements
+- The entire card becomes keyboard-focusable (`tabindex="0"`) when in the error state
+- The card uses `aria-labelledby` and `aria-describedby` to programmatically associate the heading and error message
+- The heading inside the card uses a semantic `<h2>` tag, making it easy to navigate to using heading navigation shortcuts
 
 This approach ensures screen reader users receive the same information and cues as visual users, even when not in Forms Mode.
 
