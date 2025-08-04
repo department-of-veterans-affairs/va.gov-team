@@ -22,7 +22,7 @@ body:
     id: follow-team-offboarding
     attributes:
       label: Complete these steps before you complete this ticket.
-      description: Review team offboarding guidance and [individual offboarding ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=offboarding-request.md)
+      description: Review [team offboarding guidance](https://depo-platform-documentation.scrollhelp.site/getting-started/offboarding) and [individual offboarding ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=offboarding-request.md)
       options:
         - label: I have updated all team-related documentation, including the team's README, and product materials, such as the product outline. Access has been granted in accordance with the team's offboarding guidelines.
           required: true
