@@ -78,6 +78,7 @@ Before enabling your feature toggle in production, you'll need to:
 
 - Number of users: 2
 - Number of bugs identified / fixed: 1 (https://github.com/department-of-veterans-affairs/vets-api/pull/23294)
+  - We needed to add the `user` param to backend flipper code in order to be able to restrict it based on a user's email.
 - Was any downstream service affected by the change?: No
 - Any changes necessary based on the logs, feedback on user challenges, or VA challenges?
   - For participant 1, their EC/NoK data was updated correctly there were no issues
