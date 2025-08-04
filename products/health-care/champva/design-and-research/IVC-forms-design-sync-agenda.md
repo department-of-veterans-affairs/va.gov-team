@@ -1,5 +1,38 @@
 # Running Design and Research Agenda
 
+## August 4 2025
+Attendees: Renata Keck, Jamie Fiore, Amanda Klausmeier, Andrea Merrel, Mike Mooney
+
+### Agenda
+* Updates to now/next/later
+* Debrief the first CHAMPVA claims pilot
+* Amanda is attending CHAMPVA Denver offices this week and has flexibility to observe any part of the process.
+
+### Notes
+
+* Open Discussion topics
+    * Discussed multiple claims in the Health Status tool. How do we approach having a bunch of claims in the tool? How do users find what they are looking for without needing to sift through so many claims. 
+    * Another claims team did user research in the VA UX sync. 
+    * **AI**:Jamie to find that session. 
+    * Amanda is attending CHAMPVA Denver offices this week and may be able to ask some questions, concerns, thoughts  to uncover
+* Renata updated the Now, Next, Later with new tickets and removed the older tickets
+    * Discussed the  UX Design view tab in Github Projects to better organize tickets. We may clean up design tickets that were on the backlog for a while as well. 
+* Debrief the first CHAMPVA claims pilot: what needs to be updated in the conversation guide and sample docs
+    * 1st Pilot session went overtime so we need to revise the conservation guide
+    * Jamie (ADE) shared insights about AT users viewing the sendback letter. Do we want to emulate the real life letter with AT users? In that case we don’t need to make the screen reader friendly because the paper letter won’t be and most users will require assistance to read it. We can offer that same assistance to screen reader user.  We dedicated if we want to move this along quicker we may not want to add that extra friction of needing to read the letter to participants. 
+    * Do we want to update the sendback to mention [VA.gov](VA.gov) resubmissions? We may want to gather feedback on general content in the sendback. The pilot participant was confused about if the latter was for a rejection or denial. 
+    * AT users may not be CHAMPAV benes or family member of CHAMPVA benes. So they may not have the same background. Need to tell participants may not have access to these benefits
+    * A compacted timeline with this study means we should complete it ahead of time. 
+    * AI: Jamie and Renata to remove some redundant questions that were answered in other studies and add in info about benefit eligibility. 
+* Other Topics
+    * Need to double check if the resubmissions C/IA were done
+    * Duplicate submissions with C/IA.
+    * AI: ask C/IA to let us know when their work is complete
+    * Senior advisors complimented the Service Blueprint and will help to push some improvements based on blueprints findings
+    * Do bene’s need to send back the EOB as a cover letter? The current flow doesn’t ask for that or the sendback letter. The sendback letter asks to send it back. 
+    * Can we collect feedback on the Sendback and suggest changes to CHAMPVA?  The Partners mentioned that it was a 1-2 day process to implement some changes on the sendback content.
+    * AI: Make sure C/IA is on the study sessions too so they are aware of some of the content issues.
+
 ## July 28 2025
 Attendees: Renata Keck, Rachel Pope, Jamie Fiore, Amanda Klausmeier, Premal Shah, Mike Mooney
 
