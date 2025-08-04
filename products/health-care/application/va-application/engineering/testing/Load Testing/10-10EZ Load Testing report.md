@@ -101,7 +101,7 @@ There was a 6.4% error rate for this test. The failures were a result of maxing 
 In addition, vets-api has queuing and retry functionality implemented for 10-10EZ submissions to the Enrollment and Eligibility system. This means that any failed submissions are retried up to 25 times over a span of 3 days. While unlikely, it is technically possible for a submission to fail all 25 retries. In this case, an email notification is sent to the user.
 
 ## Rating info load test
-The rating info endpoint is used to call BGS for the Veteran's disability rating.
+The rating info endpoint is used to call BEP (Formerly BGS) for the Veteran's disability rating.
 
 ### Test Configuration
 We tested 832 requests at 1.39 requests per second through the rating_info endpoint, at 200x usual volume.
