@@ -6,6 +6,13 @@ The purpose of this release plan is to document and align the delivery teams and
 It is not intended to include the next generation of enhancements to the 4142 product.
 
 ## Feature description
+The required changes to support sending the new 4142 form include the following 2 changes. 
+
+- User must be presented with a new set of verbiage and ackowledge they agree to the terms before continuing
+- User must provide the disabilites being claimed in their disability claim, that they were treated for at each Private Medical Facility they want the VA to get their records from (that goes on the 4142 paper form)
+
+For users filling out for the first time, this additional verbiage is just shown in-place of the old, on a new page.
+For returning users who have an in-progress form in which they have already filled out the 4142, these users will be redirrected back to the begining of the 4142 flow, and also shown an alert informing them of the change, why they were brought back to this location in the flow, and giving them the option to re-authorize with the additional verbiage, and add the required treatments recived data to their previously provided private medical facilites entries. 
 
 ## Project goals
 Create a new 4142 online form that will match the newest paper version of the PDF form. 
@@ -13,6 +20,8 @@ The data in the online form will be used in the generation of the new (2024) 414
 
 ## Success criteria
 - Support 100% of 526 users in the ability to submit a 4142 that is the new 2024 version
+  - This includes all new users completing the form for the first time
+  - This also includes users who had in-progress forms and who are returning to complete their application AFTER having already filled out the form 4142 sections previously 
 
 
 ## Resource materials
