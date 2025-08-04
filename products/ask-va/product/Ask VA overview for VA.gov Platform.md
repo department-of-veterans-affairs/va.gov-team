@@ -13,9 +13,9 @@ In this doc:
   
 
 ## POC
-- Name of your product: Ask VA 
-- Purpose: Ask VA (AVA) is a digital support channel for Veterans, family members and other submitters. You can use Ask VA to ask a question about education benefits, disability compensation, health care and many other topics. Ask VA should only be used for non-urgent needs. You can reach Ask VA at [va.gov/contact-us/ask-va](https://www.va.gov/contact-us/ask-va/).
-- Expected duration: Indefinite
+- **Name of your product**: Ask VA 
+- **Purpose**: Ask VA (AVA) is a digital support channel for Veterans, family members and other submitters. You can use Ask VA to ask a question about education benefits, disability compensation, health care and many other topics. Ask VA should only be used for non-urgent needs. You can reach Ask VA at [va.gov/contact-us/ask-va](https://www.va.gov/contact-us/ask-va/).
+- **Expected duration**: Indefinite
 
 ## AWS Resources
 - List AWS services used
@@ -24,7 +24,7 @@ In this doc:
 - Do you utilize any other cloud resources beyond VA.gov?
 
 ## Repos
-- Repos: [ask-va](https://github.com/department-of-veterans-affairs/ask-va) | POC: @beckyphung
+- **Repos**: [ask-va](https://github.com/department-of-veterans-affairs/ask-va) | POC: @beckyphung
 ---
 - List repos maintained by your team, provide links
 - List repos used by your team, provide links
@@ -47,7 +47,7 @@ In this doc:
 - Do you have an MOU, ISA, IAA, or other formal agreement that documents this connection? If so, please provide it
 
 ## Data flow diagram
-- [Data flow diagram](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/engineering/collaboration-cycle/architecture-intent/diagrams/ask-va/data-flow-20250106.md)
+- [**Data flow diagram**](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/engineering/collaboration-cycle/architecture-intent/diagrams/ask-va/data-flow-20250106.md)
 ---
 Provide a data flow diagram that shows your product’s relationship to Platform
 
