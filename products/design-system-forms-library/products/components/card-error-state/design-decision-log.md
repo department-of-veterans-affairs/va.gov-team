@@ -1,5 +1,5 @@
 # Card Component Error State Design Decisions
-Last updated: [DATE]
+Last updated: 08/04/2025
 
 - [ADR: 001 - Cards will not support success, warning, or info states](#ADR-001---Cards-will-not-support-success-warning-or-info-states)
 - [ADR: 002 - User must be able to resolve the error](#ADR-002---User-must-be-able-to-resolve-the-error)
