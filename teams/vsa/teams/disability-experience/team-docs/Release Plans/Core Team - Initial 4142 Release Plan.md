@@ -78,6 +78,26 @@ The data in the online form will be used in the generation of the new (2024) 414
 **Mitigation:** End to end testing covers most of this risk. Our dashboards also cover overall submissions numbers, and evaluation will be done with each roll-out increment to ensure error-rate and submission numbers are not anomalous. 
 
 
+## Release Day Steps 
+
+Because we need to do a database record migration (the return url for the in-progress forms needs to be modified in the DB via rake task), it is impractical to do a phased/canary roll-out. We are going to 100% for all users at once. 
+
+Also, because of modifying the database/in-progress form records, we do not want users to be completing the form while we are modifying the records, as live users may over-write the data before we flip the last switch to enable. Due to this we are planning to do a 4 hour maintence window. However, we belive we can make use of an existing maintinence window (meaning, our app goes down for maintnence due to 3rd party systems and external services we use, we can just do our thing, during one of those windows since we will be down anyway, as to not increase downtime of our app). The exact window is not yet selected but will be finalized before release. 
+
+Once the window is entered, we will monitor to ensure no users are still using our application. We can do this by monitoring the `updated_at` timestamps of in-progress forms for our form in the prod DB.
+
+Once we are sure there is no stragglers left, we can then begin our migration/release. 
+
+### Rake task
+
+### Flippers
+
+### Post release monitoring
+
+
+
+
+
 ## Production issues recovery plan
 
 
