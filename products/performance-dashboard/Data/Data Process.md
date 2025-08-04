@@ -44,11 +44,11 @@ When IIR originally took on the project of revamping the data pipeline, we found
 
     - For any questions on the Medallia data please reach out to the Veteran Support team
 
-  - The dataset called [Performance Dashboard Groups | Staging](https://va-gov.domo.com/datasources/c9a4e6bb-9a91-4f88-8cd4-7a7b65b40a00/details/data/table) is our webform data
+  - The dataset called [Performance Dashboard Benefit Type Activities | Impacts All Outputs (PROD, STAGING, DEV)](https://va-gov.domo.com/datasources/c9a4e6bb-9a91-4f88-8cd4-7a7b65b40a00/details/data/table) is our webform data
 
     - This is our bread and butter, and as such we will go into more detail below
 
-- [Performance Dashboard Groups | Staging](https://va-gov.domo.com/datasources/c9a4e6bb-9a91-4f88-8cd4-7a7b65b40a00/details/overview) is a Domo webform that contains all of the mapping logic required to make the Performance Dashboard function with GA and Medallia
+- [Performance Dashboard Benefit Type Activities | Impacts All Outputs (PROD, STAGING, DEV)](https://va-gov.domo.com/datasources/c9a4e6bb-9a91-4f88-8cd4-7a7b65b40a00/details/overview) is a Domo webform that contains all of the mapping logic required to make the Performance Dashboard function with GA and Medallia
 
   - GA data is mapped using a combination of Event Action, Event Label, and Event Category values, which are concatenated together from their raw BQ/GA datasets, with this document, to map them to the appropriate “Title”
 
