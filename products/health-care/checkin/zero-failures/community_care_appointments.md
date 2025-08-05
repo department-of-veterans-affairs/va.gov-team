@@ -44,7 +44,7 @@
   * Yes; The error is logged with pertinent user info (uuid) and the appropriate failure metric is incremented. If the finallized appointment fails to be confirmed as "booked" an email is sent to the user via VaNotify. If that email attempt fails the callback class logs the error and increments a failure metric.
 
 * [] Has the owner of the system of record receiving the user's data indicated in writing that their system notifies or resolves 100% of fatal errors once in their custody?
-  * waiting on response from the EPS (Wellhive) team
+  * See Wellhive documentation: https://github.com/wellhive/api-docs
 
 ## User experience
 
