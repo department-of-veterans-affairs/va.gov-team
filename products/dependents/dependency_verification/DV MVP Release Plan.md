@@ -1,4 +1,4 @@
-# 686c/674 V2 Go/No-Go and Phased Release Plan
+# DV MVP Go/No-Go and Phased Release Plan
 
 ## Overview
 
