@@ -44,5 +44,6 @@ The VA Platform is the quintessential document resource for teams that build pro
 - [x] [Product managers & delivery managers](https://depo-platform-documentation.scrollhelp.site/getting-started/educational-tasks#Educationaltasks-ProductManagers&DeliveryManagers)
 
 ## Orientation Part 2
-- [ ] Once you've completed the Part 1 checklist and have access to the VA network and Slack, let your marci.mcguire@va.gov know so you can get info for Part 2!
+- [x] Once you've completed the Part 1 checklist and have access to the VA network and Slack, let your marci.mcguire@va.gov know so you can get info for Part 2!
+
 
