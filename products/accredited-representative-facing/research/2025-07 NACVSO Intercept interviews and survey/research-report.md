@@ -4,6 +4,8 @@ Office of the CTO - Digital Experience (OCTO-DE), Accredited Representative Faci
 
 Date: 07/2025
 
+[Findings report](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Background%20Research/2025%2007%20NACVSO%20Intercept%20interviews%20and%20Surveys/Research%20Report_2025%20NACVSO%20Intercept%20Interviews%20and%20Surveys.docx?d=w54a8313513f94e03be87d94295473c2e&csf=1&web=1&e=WzVQDX) | [Recording](https://dvagov.sharepoint.com/:v:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representative%20Facing/Background%20Research/2025%2007%20NACVSO%20Intercept%20interviews%20and%20Surveys/NACVSO%20intercept%20interview%20and%20survey%20shareout-20250730_150750-Meeting%20Recording.mp4?csf=1&web=1&e=IcN1k6)
+
 * Kate Albee, Eva Heintzelman, Maria Lemoine, Laura Paradis, Jennifer Seipel (research preparation, intercept interviews, notetaking, high-level synthesis discussion)
 * Laura Paradis (data synthesis and report writing)
 
