@@ -29,7 +29,7 @@ Note: This page will live under the current [Review or change dependents for dis
 
 **1) Verify your dependents for disability benefits - NEW**
 - URL: va.gov/manage-dependents/verify-form-21-0538/
-   - Suburl example: va.gov/manage-dependents/verify-form-21-0538/confirmation
+   - Suburl example: va.gov/manage-dependents/verify-form-21-0538/confirmation/
 - Breadcrumb: VA.gov home > Manage dependents > [H1 of 0538]
 
 
