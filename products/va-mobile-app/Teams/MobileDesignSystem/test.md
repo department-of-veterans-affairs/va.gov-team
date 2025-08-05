@@ -35,9 +35,16 @@ config:
   layout: fixed
 ---
 flowchart TD
-    PROG["Program"] --> RT["Ryan"] & HG["Heather"] & IZ["Izzie"]
+    PROG["Program"] --> RT["Ryan Thurlwell"] & HG["Heather"] & IZ["Izzie"]
     RT --> BT["Becca Tupaj"] & TW["Tim Wright"] & NA["N/A"]
     TW --> FE["Frontend"] & BE["Backend"] & QA["Quality Assurance"] & DEVOPS["DevOps"]
     BT --> PM["Product Management"]
     NA --> UX["UX / Design"]
+    FE --- JB["Jon Binbeutel"]
+    JB --- TD["Tony Doan"]
+    TD --- AH["Adryien Hayes"]
+    AH --- KL["Ken Li"]
+    KL --- JM["John Marchi"]
+    JM --- MS["Matt Sweeney"]
+    
 ```
