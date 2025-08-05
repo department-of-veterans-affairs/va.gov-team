@@ -11,8 +11,6 @@
 - [URLs and breadcrumbs](#url)
 - [Entry points](#nav)
 - [Redirects](#redirects)
-- [Best Bets](#bestbets)
-- [Crosslinks](#crosslinks)
 - [Staged Rollout](#stagedrollout)
 
 
@@ -56,6 +54,8 @@ _Any additional key locations that the page should be navigable from. Although t
   - Notes:
     - Who will update: Central Content
     - When will this entry point go live: at launch
+   
+Note: Crosslinks should be added to the About VA form pages for the 686c and 674. Other crosslinks should be evaluated post-launch. 
 
 ##  <a name="redirects"></a>Redirects <br>
 While there will be redirects needed for the parent page and other forms/pages in this section as a part of the section renaming, this form is expected to launch with the updated /manage-dependents/ slug and therefore does not require a redirect itself.  
