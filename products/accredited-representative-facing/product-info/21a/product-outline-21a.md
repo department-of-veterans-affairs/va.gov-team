@@ -137,7 +137,7 @@ Current Figma status:
 1. [Form 21a v5](https://www.figma.com/design/2afIGOMII0uRI5ck1dWo1w/ARF---Form-21a---Apply-for-Accreditation--CA---Attorneys-?node-id=1026-23089&p=f&t=Gw5noDTyr2O67EmE-0) -- GCLAWS is using this as a reference, to understand what additional questions will be added and build fields to accept the answers ahead of our development on VA.gov.
 2. [Form 21a v5.1](https://www.figma.com/design/2afIGOMII0uRI5ck1dWo1w/ARF---Form-21a---Apply-for-Accreditation--CA---Attorneys-?node-id=1026-23089&p=f&t=Gw5noDTyr2O67EmE-0) -- The ARM UX team is using this to consider UX improvements, including component updates and the introduction of conditional logic. The team does not anticipate a drastic difference to what's collected on the backend (and thus, sent to GCLAWS) between v5 and v5.1.
 
-Please refer to these epics, to bring Representative Status 2.1 into Production:
+Please refer to these epics, to bring VA Form 21a 5.0 into Production:
 1. [ARM Design: VA Form 21a 5.0](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105608) - prepare designs for user testing, finalize designs with updates from user testing and a final stakeholder review.
 2. [ARM Research: VA Form 21a 5.0](https://github.com/department-of-veterans-affairs/va.gov-team/issues/115974) - validate v5 designs with user testing, and report on findings.
 3. [ARM Development: VA Form 21a 5.0](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105610) - development of v5, based on finalized designs
