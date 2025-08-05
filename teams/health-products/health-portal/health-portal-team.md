@@ -2,9 +2,9 @@
 Updated 7/30/2025
 
 ## Table of Contents
-- [Welcome](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/health-portal-team.md#welcome)
-- [Team Mission](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/health-portal-team.md#our-mission)
-- [Office of the CTO (OCTO) Team Members](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/health-portal-team.md#office-of-the-cto-octo-team-members)
+- [Welcome](#welcome)
+- [Team Mission](#team-mission)
+- [Office of the CTO (OCTO) Team Members](#office-of-the-cto-octo-team-members)
 - [Product team members](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/health-portal-team.md#web-and-mobile-delivery-product-team-members)
 - [What we're working on](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/health-portal-team.md#what-were-working-on)
 - [Our stakeholders](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/health-products/health-portal/health-portal-team.md#stakeholders)
