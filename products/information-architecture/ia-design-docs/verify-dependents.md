@@ -29,28 +29,15 @@ This is part of a longer term strategy to build a more robust dependents ecosyst
 ## <a name="url"></a>URLs and breadcrumbs
 
 **1) Verify dependents - NEW**
-- URL: va.gov/manage-dependents/your-dependents/verify-form-21-0538/
-   - Suburl: va.gov/manage-dependents/your-dependents/verify-form-21-0538/confirmation
-- Breadcrumb: VA.gov home > Manage dependents > Your VA dependents > [H1 of 0538]
+- URL: va.gov/manage-dependents/verify-form-21-0538/
+   - Suburl: va.gov/manage-dependents/verify-form-21-0538/confirmation
+- Breadcrumb: VA.gov home > Manage dependents > [H1 of 0538]
 
-**2) Manage dependents - CHANGE from /view-change-dependents**
-- URL: va.gov/manage-dependents
-- Breadcrumb: VA.gov home > Manage dependents 
-
-**3) Your VA dependents - CHANGE from /view**
-- URL: va.gov/manage-dependents/your-dependents
-- Breadcrumb: VA.gov home > Manage dependents > Your VA dependents
-
-**4) 686c/674 - CHANGE location in the subdirectory**
-- URL: va.gov/manage-dependents/your-dependents/add-remove-form-21-686c/
-- Breadcrumb: VA.gov home > Manage dependents > Your VA dependents > [H1 of 686c/674]
 
 ## <a name="nav"></a>Entry points <br>
 In this new ecosystem, users will get to the verify screen through an auth or unauth path. 
 
-Unauth: they might come from an email or other authenticated page, that will take them to the /manage-dependents page to login. From the authenticated MyVA screen, users will walk through the update/verify widget thing at the bottom of the screen, and be directed to the correct form based on their answer.
 
-Users will have to be authenticated to do either form, but the authenticated will happen on the /manage-dependents page. So there doesn't need to be any other sign in widgets in the rest of the dependents experience.
 
 ![Screenshot 2025-01-17 at 1 43 29 PM](https://github.com/user-attachments/assets/bb69dcb5-d0b0-494b-a76f-c267c90e9523)
 
