@@ -1,4 +1,4 @@
-# How to conduct a manual UX Audit on 526EZ
+# How to conduct a Manual Bug or UX Issue Audit on 526EZ
 
 ## Context and Purpose
 The 526EZ is a long form with multiple pathways (e.g., ancillary forms) and nested, conditional responses. Our team needs to manually test the form for bugs and UX issues. We then need to document findings in a consistent, actionable ticket format. This will provide a high-level view of bugs and UX issues, help prioritize fixes, and inform a clearer product and UX strategy for future enhancements. 
