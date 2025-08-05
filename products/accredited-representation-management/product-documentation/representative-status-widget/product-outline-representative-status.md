@@ -78,15 +78,14 @@ The URL for this Profile subpage is https://va.gov/profile/accredited-representa
 
 #### Next Version Priorities - Representative Status 2.1
 
-A future version of Representative Status should strive to bring the error rate (for calling the [Lighthouse Benefits Claims API](https://developer.va.gov/explore/api/benefits-claims/docs?version=current)) below 1%. Currently, the biggest impacts to error rate are when the API undergoes scheduled maintenance or has an unplanned incident/outage.
-1. How might we update our Representative Status product, to hold off on API calls during periods of downtime (due to maintenance or incidents/outages) when we know that the API will return an error?
-2. How might we improve the UX during periods of downtime? Our current error state provides users with a number to call, to check their representative status. 
+A future version of Representative Status should strive to:
+1. Bring the error rate (for calling the [Lighthouse Benefits Claims API](https://developer.va.gov/explore/api/benefits-claims/docs?version=current)) below 1%. Currently, the biggest impacts to error rate are when the API undergoes scheduled maintenance or has an unplanned incident/outage.
+2. Improve UX and messaging around pending requests and the error state
+3. Address known bugs
 
-Related ticket: [[Representative Status Widget] Add Downtime Notifications #113643](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113643)
-- Refinement is required to define the approach
-- An early idea was to lean on existing downtime handling within `vets-website`
-   - [Documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/downtime-notifications)
-   - [vets-website component](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/platform/monitoring/DowntimeNotification)
+Please refer to these epics, to bring Representative Status 2.1 into Production:
+1. [ARM Design: Representative Status 2.1](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106743) - explore ideas to improve the Representative Status UX.
+2. [ARM Development: Representative Status 2.1](https://github.com/department-of-veterans-affairs/va.gov-team/issues/115970) - reduce the error rate to below 1%, address known bugs, factor in any design updates.
  
 #### Known Bugs
 Some bugs have been identified for our Production experience. These have not yet been addressed due to lower priority, feel free to prioritize + address as needed.
