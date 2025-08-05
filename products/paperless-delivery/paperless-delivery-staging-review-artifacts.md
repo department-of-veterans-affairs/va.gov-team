@@ -51,7 +51,7 @@
 - TBD
   
 ### Endpoint Monitoring Playbook
-- TBD
+- https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/playbooks/paperless-delivery.md
 
 ### Logging Silent Failures
 - Silent Failures are not applicable to this work. A Veteran only selects or deselects a checkbox and we have appropriate error states accounted for.
