@@ -163,24 +163,32 @@ Key quotes:
 ## Recommendations
 
 **Recommendation 1: Improve the List & Loop clarity**
-- Due to the rigid nature of the List & Loop, we will not be able to dynamically consolidate the Introduction screen with the succeeding screen in the Dependent and Spouse section. We can, however, improve the guidance with informational content at the List&Loop introduction pages, especially for the Financial section. 
-- For the List&Loop review screen for the spouse, consider additional supplemental information such as the date of marriage.
+- Consider providing additional information such as the date of marriage for the spouse's List & Loop's Review screen.
+- Improve the guidance with informational content at the List & Loop Introduction screens, especially for the financial section.
+
+    *Due to the rigid nature of the List & Loop, we we not be able to dynamically consolidate the Introduction screens with the succeeding screens in the dependent and spouse section.*
 
 **Recommendation 2: Optimize the health care flow to be more aligned with the Veteran's mental model**
-- We recommend that the Personal Information box, showing the Veteran's name, birthday, social security number, and sex, from the address block format to the white box format. In a previous study by the Authenticated Patterns team, comparing prefilled data presented in several different formats, resulted in the recommendation of the white box with black border for editable and uneditable data. In our collaboration with this team, we presented three options: an address block format, and a gray box format. The participants overwhelmingly chose the white box as their preference. format.
-- We recommend changing the Marital Status option from the dropdown to radio buttons. 
-- Despite several participants wanting an option to match the Spouse's address with the Veteran's address, it is not needed. The only time they'll see the option to input Spouse's address is when they indicated that the Spouse does not live with the Veteran. We speculated that many overlooked this question since the Figma prototype automatically had this answer as a "no" to route the participant to this scenario.  
+- Change the Marital Status option from the dropdown to radio buttons. 
+- Update the Veteran's personal information box from using the address block to the white box with black border.
+
+    *The personal information box shows the Veteran's name, birthday, social security number, and sex. In a previous study by the Authenticated Patterns team, they compared several different formats, resulting in the recommendation for the white box with a black border for editable and uneditable data. In our collaboration with this team, we presented three options: an address block formatting, a gray box formatting, and a white box with a black border. The participants overwhelmingly chose the white box with a black border as their preference.*
+
+  **Note:** Despite several participants wanting an option to match the Spouse's address with the Veteran's address, it is not needed. The only time they'll see the option to input the Spouse's address is when they indicated that the Spouse does not live with the Veteran. We speculated that many overlooked this question since the Figma prototype automatically had this answer as a "no" to route the participant to this scenario.  
 
 **Recommendation 3: Optimize Confirmation Flow (Option Red)**
 - Adopt or hybridize the Confirmation Flow. Participants like the efficiency features of Option Red, such as the gray box reference, minimal toggle, and more condensed presentation of information.
-- Consider a customized Contact Information (Address, phone, and email) List & Loop. Many participants noticed the condensed Contact Information in the white box with a border format right away and praised it since it dramatically reduced their review time.
-- Explore ways to make the Gray Reference box for income clearer. While participants cited this component to be helpful, this is still feature is still inconclusive since there is only a slight preference for it.
+- Consider a customized Contact Information (Address, phone, and email) List & Loop.
+    *Many participants noticed the condensed Contact Information in the white box with a border format right away and praised it since it dramatically reduced their review time.*
+- Explore ways to make the Gray Reference box for income clearer.
+    * While participants cited this component to be helpful, this is still feature is still inconclusive since there is only a slight preference for it.* 
 
-**Recommendation 4: Improve Accessibility for at-risk groups**
-- Unhoused/homeless address option
-- Standardized communication?? 
+**Recommendation 4: Improve Accessibility for unhoused veterans**
+- Offer an unhoused option for the address in the 10-10EZ Health Enrollment.
+  *The enrollment process is a barrier in itself for unhoused Veterans, as they're required to visit a facility in person to complete the enrollment form.*
 
 **Recommendation 5: Va.gov to match the Veteran's mental model**
+- Find ways to connect with 
 - Redesign the stepper component
 - VA Profile 
 
