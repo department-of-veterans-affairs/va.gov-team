@@ -35,5 +35,7 @@ The following were considered but rejected.
     - Answer
   - **Specifically regarding Copays and Pay.gov, there are 11 tickets for lighthouse copay data (just for backend), my understanding is that we need to have this done before we integrate with Pay.gov. Rough estimate is 3 points per Lighthouse item being optimistic. Seems like there are not enough points in the sprints between now and September 30th to get this done.**
     - Answer
+  - Taking multiple partial payments in one transaction is complicated. Is this something we need, or something we can consider post launch
+  - Answer
 - **Question**
   - Answer
