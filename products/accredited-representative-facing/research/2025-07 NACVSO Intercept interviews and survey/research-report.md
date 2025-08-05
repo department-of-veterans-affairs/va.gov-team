@@ -13,13 +13,13 @@ Type of Research: Intercept Interviews and Surveys
 
 Jump to:
 
-* [Background](#_Background)
-* [Research Goals](#_Research_Goals)
-* [Executive Summary](#_Executive_Summary)
-* [Participant Sample](#_Participant_sample)
-* [Key Findings and Recommendations](#_Key_Findings_and)
-* [Further Questions](#_Further_questions)
-* [References](#_References)
+* [Background](#background)
+* [Research Goals](#research-goals)
+* [Executive Summary](#executive-summary)
+* [Participant Sample](#participant-sample)
+* [Key Findings and Recommendations](#key-findings-and-recommendations)
+* [Further Questions](#further-questions)
+* [References](#references)
 
 # Background
 
