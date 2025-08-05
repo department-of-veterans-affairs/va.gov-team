@@ -120,24 +120,23 @@ Key quotes:
 Key quotes:
 
 - *P3: "Fast, and that's why I think Option Red would be better in terms of speed and knocking this out".*
-- *P3: "If I don't know 2023's gross (income) off the top of my head, that requires me to open up another document in my files for the gross income. So that's very, very helpful" (re: gray box reference).
+- *P3: "If I don't know 2023's gross (income) off the top of my head, that requires me to open up another document in my files for the gross income. So that's very, very helpful" (re: gray box reference).*
 - *P6: "I think it's useful to have this information just so you can kind of sometimes, you know, like 'did I earn more money this year?' ".*
 - *P8: "I'm kinda on the fence. I like the gray boxes with information, but I also like the clean slate of just knowing to put what's focused for 2024".*
 
 **Finding 3: Participants expected VA.gov to align with their mental models around progress tracking, data handling, and form behavior. Any mismatch in these areas led to confusion and frustration.**
 - 5 participants found the Stepper Progress Bar to be confusing and unhelpful. One participant suggested an alternative, like a checklist or task list, for better orientation.
 
-  *P4: "How much longer is this going to take? I'm still on number 2".*
-  *P6: "Even if you click on next page, you're still not moving, kind of, this one bar".*
+  - *P4: "How much longer is this going to take? I'm still on number 2".*
+  - *P6: "Even if you click on next page, you're still not moving, kind of, this one bar".*
 
 - 3 participants expect an option for spouse address to match the Veteran's address.
 
-  *P4: "If your spouse's address is different from the Veterans, you know, then give me this option (to edit)".*
+  - *P4: "If your spouse's address is different from the Veterans, you know, then give me this option (to edit)".*
 
 - 3 participants assumed that the prefilled information was from their VA profile.
 
-  * 
-  *P7: "This is stuff that you put in when you first create a VA account. So this again, you moved, or something, got a new phone, this is not going to change."
+  - *P7: "This is stuff that you put in when you first create a VA account. So this again, you moved, or something, got a new phone, this is not going to change."
 
 - 1 participant, who works with homeless services, noted that improving online accessibility and standardized support communications could reduce wait times and make it easier for homeless Veterans to receive timely assistance.
 
@@ -158,6 +157,7 @@ Key quotes:
   - 6 participants mentioned that the save-in-progess alert is good.
  
 Key quotes:
+
 - *P1: "I would be zipping through this. This isn't rocket science, really".*
 - *P9: "These dropdown boxes are awesome". (re: additional information component*
 
@@ -165,7 +165,8 @@ Key quotes:
 - 3 participants expressed a clear preference for self-service editing over calling, citing long wait times and complicated menus.
 
 Key quote:
-  *P5: "I hate having to call 800 number to do things, especially if it's the VA general number trying to work through a menu to get the right person. It's never fun."
+
+- *P5: "I hate having to call 800 number to do things, especially if it's the VA general number trying to work through a menu to get the right person. It's never fun."
 
 **Additional Insight 3: The are drawbacks to using Figma for Prototype testing.**
 - 9 out of 10 participants have a service-connected disability rating of 50% or higher, meaning they aren't usually required to fill out the financial section.
