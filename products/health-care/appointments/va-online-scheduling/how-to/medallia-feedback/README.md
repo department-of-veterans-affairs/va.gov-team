@@ -1,6 +1,6 @@
 ## Overview
 
-- We request user feedback from Contact Center - [here's the process](#how-to-request-and-process-medallia-feedback). For help, reach out in [#vsp-contact-center-support](https://dsva.slack.com/archives/CNCEXNXK4)
+- We request user feedback from Contact Center - [here's the process]([#how-to-request-and-process-medallia-feedback](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/how-to/medallia-feedback/step-1-request.md)). For help, reach out in [#vsp-contact-center-support](https://dsva.slack.com/archives/CNCEXNXK4)
 - Appointments user feedback is captured in [this sharepoint folder](https://dvagov.sharepoint.com/sites/HealthApartment/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FHealthApartment%2FShared%20Documents%2FAppointments%2FUser%20Feedback&viewid=9384f3a8%2De3e8%2D4abb%2Db2ab%2D24cf305ccdac&newTargetListUrl=%2Fsites%2FHealthApartment%2FShared%20Documents&viewpath=%2Fsites%2FHealthApartment%2FShared%20Documents%2FForms%2FAllItems%2Easpx)
 - Analytics from the likert scales in these reports are captured in the [MHV CSAT Dashboard in Domo](https://va-gov.domo.com/page/601491420?userId=917050460)
 
