@@ -16,10 +16,10 @@ Jump to:
 * [Background](#_Background)
 * [Research Goals](#_Research_Goals)
 * [Executive Summary](#_Executive_Summary)
-* [Participant Sample](#_Participant_sample_1)
+* [Participant Sample](#_Participant_sample)
 * [Key Findings and Recommendations](#_Key_Findings_and)
 * [Further Questions](#_Further_questions)
-* References
+* [References](#_References)
 
 # Background
 
@@ -43,9 +43,8 @@ Because our intercept interviews were scattered, based on VSO’s availability, 
 
 Also, our recommendations are limited to the selected interview topics, which are based on unknown areas or areas that needed further confirmation. We also were not able to include important questions related to dependent claims, workflows when representing Veterans who do not have access to digital tools, and others.
 
-|  |  |
+| Recommendation | General priority  High = next 6 months  Low = 6 months or more |  
 | --- | --- |
-| Recommendation | General priority  High = next 6 months  Low = 6 months or more |
 | **Plan for communication of ARP with state and county associations** as well as Regional Offices. If possible, include any known expectations of when 21-686c would be auto-established and discuss priority of auto-establishing 21-686c | High |
 | **Understand POA access problem space for claims agents and attorneys and ensure that the solution meets their needs.** Continue to improve login access for all accredited representatives. | High |
 | While we still see a variety of workflows related to permissions, we **gained a little more confidence in our decision to deprioritize permissions-related features**. | Low |
