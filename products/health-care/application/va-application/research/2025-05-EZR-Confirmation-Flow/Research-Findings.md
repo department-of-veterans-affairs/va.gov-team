@@ -111,7 +111,7 @@ Key quotes:
 - 6 out of 10 participants found that the gray box referencing previously filled information to be helpful for context, even if the information wasn't directly relevant to them.
 - 6 out of 10 participants prefer the Veteran's personal information to be within a white box with a black border, 2 out of 10 participants prefer it to be gray, 1 participant prefers the existing address block, and 1 participant has no preference.
 
-  *The personal information box shows the Veteran's name, birthday, social security number, and sex. In a previous study by the Authenticated Patterns team, they compared several different formats, resulting in the recommendation for the white box with a black border for editable and uneditable data. In our collaboration with this team, we presented three options: an address block formatting, a gray box formatting, and a white box with a black border. The participants overwhelmingly chose the white box with a black border as their preference.*
+  *The personal information box shows the Veteran's name, birthday, social security number, and sex. In a [previous study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/41879e5885eea6f0f2965b1ba51f7c65407d863d/products/authenticated-patterns/Design-and-research/2024-09-Research-Initiative-Two-Update-Prefill/Update%20Prefill%20Research%20Report.md#hypotheses-and-conclusions) by the Authenticated Patterns team, they compared several different formats, resulting in the recommendation for the white box with a black border for editable and uneditable data. In our collaboration with this team, we presented three options: an address block formatting, a gray box formatting, and a white box with a black border. The participants overwhelmingly chose the white box with a black border as their preference.*
 
 - 6 out of 10 participants prefer the Martial Status question to use radio button options over the 2 participants that prefer a dropdown menu. The last two participants have no preference.
 
@@ -153,7 +153,7 @@ Key quotes:
 **Additional Insights 1: Participants found the flow easy to use, reinforcing patterns from previous studies around clarity and supportive UI elements.**
 - All participants had recently used VA.gov.
 - Every section of the form has several participants, indicating the form is clear and straightforward.
-- Like past studies, many participants responded positively to the save-in-progess messages, hint text, pre-fill, and additional information component.
+- Like [past studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Priority%20Group%20and%20Financial%20Disclosure/research-findings.md), many participants responded positively to the save-in-progess messages, hint text, pre-fill, and additional information component.
   - 7 participants expanded the additional information component to read the description, with 5 expilicity indicating it is helpful.
   - 6 participants mentioned that the save-in-progess alert is good.
  
@@ -202,66 +202,64 @@ Key quotes:
 
 ## Product User and Business Outcomes
 
-*Explain how findings and recommendations align with the product's goals.*
-
-> [!NOTE] 
-> Refer back to your Product Outline. 
-
 - **Desired User Outcome**
-  - This research supports our desired user outcome by....
+  - Veterans experience a faster, more efficient application process by being able to review and edit their Household information in a consolidated view, rather than navigating through page-by-page updates. This reduces the time and effort required to complete the 10-10EZR form, leading to greater satisfaction and fewer barriers to completion.
  
 - **Deisred Business Outcome**
-  - This research supports our desired business outcome by....
+  - The VHA receives more accurate and up-to-date household data from Veterans, as the streamlined “review and edit” approach encourages thorough review and correction of information. This improves data quality for healthcare eligibility and resource planning, ultimately supporting better decision-making and service delivery.
 
 
 ## Key Performance Indicators
 
-*Explain how findings will support KPI measurement.*  
-
-> [!NOTE]
-> Refer back to your Product Outline. 
-
 - **KPI 1**
-  -  This research supports measurement of this KPI by....
+  -  Reduced time on Household section | Baseline | Target | Link to data source (e.g. GA, Domo)
 
 
 ## Next Steps
 
-*Outline immediate actions based on findings, including owners if applicable.*  
+- Refined the EZR based on the feedback from this study (cosmetic and content updates).
+- Continue the development of the Confirmation Flow (Insurance Information section, Military Information section, Contact Information section, etc).
+- Explore Stepper Progress Bar component alternative.
+- Explore VA Profile integration.
 
 
 ## Further research needed
 
-*Identify gaps in the current study and areas requiring additional investigation––such as demographics that were not included in this study.* 
+**Accessibility testing with assistive technology users**
+- We used a Figma prototype for this study, which made it hard for accessibility-focused testing. In the near future, especially after updating the flow based on the feedback for this study, we plan to test the flow with participants who use assistive technology, either using a coded prototype or the staging site. 
 
 
 ## Appendix
-[Product Outline](link here)
+[Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/health-update-form/Household%20Section%20V2/Household%20Section%20V2%20Initiative%20Brief.md)
 
-[Research plan](link here)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2025-05-EZR-Confirmation-Flow/Research%20Plan.md)
 
-[Conversation guide](link here)
+[Conversation guide - Green First](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2025-05-EZR-Confirmation-Flow/Conversation-guide-Green-first.md)
 
-[Interview transcripts](link here)
+[Conversation guide - Red First](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2025-05-EZR-Confirmation-Flow/Conversation-guide-Red-first.md)
+
+[Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research/2025-05-EZR-Confirmation-Flow/Transcripts)
 
 
 ## Tools used for Synthesis
 
-*List tools or techniques used, e.g., Mural, affinity mapping.*  
+- [Mural Board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1750698401377/537b1e81429ed97d2afbdb7a834ae10990f685c9)
   
 ## Pages and applications used
 
+- [Figma Prototype Link](https://www.figma.com/proto/tggcJk382w9yQ0ElwKfh3N/10-10EZR?node-id=8332-144952&t=WtgdBTqnbTbbPSPi-1&scaling=min-zoom&content-scaling=fixed&page-id=8109%3A122152&starting-point-node-id=8332%3A144952)
+- [Figma Research File](https://www.figma.com/design/tggcJk382w9yQ0ElwKfh3N/10-10EZR-Working-Files?node-id=8109-122152&t=3TSUH3beiSocA5EN-1)
 *Link to prototypes or pages tested during the study.*  
 
 
 ## Other supporting documents created
 
-*Include links to additional materials, e.g., personas, user flows.*  
+- N/A
 
 
 ## Secondary research
 
-*Include any relevant secondary research, e.g., web analytics, SME interviews.*  
+- N/A
 
 ## Who we talked to 
 _Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
