@@ -15,4 +15,4 @@
 
 **Validate that external integrations work correctly in production for authentication and data flow.**
 
-*As VISNs make the transition to Oracle Health, production test accounts are vital in testing that features and functionality work properly. Unfortunately, Oracle Health's "train"/staging environment (B1930?) isn't tied to other services in the VA. These production test accounts are used heavily with the roll-out of Oracle Health since it is nearly impossible to test without the necessary integrations to VA systems in the lower environments.*
+*As VISNs make the transition to Oracle Health, production test accounts are helpful in testing that features and functionality work properly. Unfortunately, Oracle Health's "train"/staging environment (B1930?) isn't tied to other services in the VA [this was negated on Aug 4. 2025 - the test env is integrated with other services but we should validate this with testers].*
