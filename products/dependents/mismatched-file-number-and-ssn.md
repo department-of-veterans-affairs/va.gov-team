@@ -49,6 +49,8 @@ July 2023:
 - Spouse SSN/File Number not matching: 68
 - Veteran SSN/File Number not matching: 26
 
+[Logs of errors](https://vagov.ddog-gov.com/logs?query=%22ORA-20099%3A%20Error%20-%20File%20Number%20and%20Social%20Security%20number%20are%20different%22%20-status%3A%28warn%20OR%20info%29%20-EJB&agg_m=count&agg_m_source=base&agg_t=count&clustering_pattern_field_path=message&cols=host%2Cservice%2C%40named_tags.class&fromUser=true&messageDisplay=inline&refresh_mode=sliding&storage=hot&stream_sort=desc&viz=stream&from_ts=1751817233580&to_ts=1754409233580&live=true).
+
 ## Previous efforts to mitigate this issue included:
 - [A PR](https://github.com/department-of-veterans-affairs/vets-api/pull/12530) that resolves some of the file number mismatches, and improves our logging around this issue for our convenience, and to help us report on mismatches to MPI and BGS, so that they can follow up.
 
