@@ -98,13 +98,6 @@ Qualitative:
 
 This product is not yet in Production, please refer to the "Recommended Next Steps" section below, for the goals and remaining work related to versions 4 and 5.
 
-## **Supporting Documentation**
-
-1. [Paper/PDF Form 21a](https://www.va.gov/find-forms/about-form-21a/)
-2. [21a v4 Form Fields](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representative-facing/product-info/21a/form21a-fields-v4) 
-5. [Figma Files](https://www.figma.com/design/2afIGOMII0uRI5ck1dWo1w/ARF---Form-21a---Apply-for-Accreditation--CA---Attorneys-?node-id=616-23089&p=f&t=Gw5noDTyr2O67EmE-0) 
-6. [VA Form 21a User Flow & Planning](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1748541140818/7053ec76ed1cce9b41a8aaa04cc42e20908f20fa) (with user flow and IA notes)
-
 ---
 
 ## **Recommended Next Steps**
@@ -144,6 +137,12 @@ Current Figma status:
 2. [Form 21a v5.1](https://www.figma.com/design/2afIGOMII0uRI5ck1dWo1w/ARF---Form-21a---Apply-for-Accreditation--CA---Attorneys-?node-id=1026-23089&p=f&t=Gw5noDTyr2O67EmE-0) -- The ARM UX team is using this to consider UX improvements, including component updates and the introduction of conditional logic. The team does not anticipate a drastic difference to what's collected on the backend (and thus, sent to GCLAWS) between v5 and v5.1.
 
 ---
+## **Supporting Documentation**
+
+1. [Paper/PDF Form 21a](https://www.va.gov/find-forms/about-form-21a/)
+2. [21a v4 Form Fields](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representative-facing/product-info/21a/form21a-fields-v4) 
+5. [Figma Files](https://www.figma.com/design/2afIGOMII0uRI5ck1dWo1w/ARF---Form-21a---Apply-for-Accreditation--CA---Attorneys-?node-id=616-23089&p=f&t=Gw5noDTyr2O67EmE-0) 
+6. [VA Form 21a User Flow & Planning](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1748541140818/7053ec76ed1cce9b41a8aaa04cc42e20908f20fa) (with user flow and IA notes)
 
 ## **Communications**
 
