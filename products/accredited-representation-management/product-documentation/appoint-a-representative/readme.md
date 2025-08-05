@@ -14,6 +14,9 @@ A future version of Appoint a Representative should strive for:
 
 Related epic with refined tickets: [Appoint a Representative 2.1](https://github.com/orgs/department-of-veterans-affairs/projects/1180/views/34)
 
+#### Expanding the online submission of 21-22
+Currently a handful of VSOs are able to accept the online submission of 21-22 as a "pilot" initiative. As the pilot expands, or even comes to and end, there will be a need to [enable online submission for additional VSOs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/appoint-a-representative/enabling-online-submission-for-vsos.md). 
+
 #### Known Bugs
 Some bugs have been identified for our Production experience. These have not yet been addressed due to lower priority, feel free to prioritize + address as needed.
 
