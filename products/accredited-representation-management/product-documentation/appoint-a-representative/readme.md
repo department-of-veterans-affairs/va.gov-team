@@ -5,7 +5,7 @@
 
 ## **Recommended Next Steps**
 
-#### Next Version Priorities - Appoint a Representative 2.1
+#### Next Version Priorities - Appoint a Representative 3.0
 A future version of Appoint a Representative should strive for:
 1. Updating the contact information entry pages, to use the prefill pattern and ensure any updates are also updated in the user's Profile.
    1. This will eliminate an existing risk: [Appoint a Representative is capturing a Veteran email address that is not aligned with Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/appoint-a-representative/product-outline-appoint-a-representative.md#appoint-a-representative-is-capturing-a-veteran-email-address-that-is-not-aligned-with-profile).
