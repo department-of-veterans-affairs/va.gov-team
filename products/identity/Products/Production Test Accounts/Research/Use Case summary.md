@@ -1,14 +1,14 @@
 
 | # | Prod Test Account Use Cases                                                                                                         | Production Workaround / Note                              |
 |---|------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
-| 1 | Validate that external integrations work correctly in production for authentication and data flow.              | Backend testing avialable in prod without frontend                         |
+| 1 | Validate that external integrations work correctly in production for authentication and data flow.              | Backend testing available in prod without frontend                         |
 | 2 | Reproduce and validate bug fixes to ensure prior issues are resolved without breaking other functionality.      | Workarounds exist, but challenging with external integrations |
 | 3 | Validate that new or updated features on VA.gov or the mobile app work as expected upon release.               | Workarounds for production exist                          |
-| 4 | Replicate a Veteran’s reported issue using a test account to understand errors and workflow blockers.           | Training/demo: not appropriate for production             |
-| 5 | Guide a Veteran through a process like prescription refills or secure messaging without exposing real PII.      | Training: not appropriate for production                  |
-| 6 | Show VA clinicians or pharmacists how features such as secure messaging or pharmacy tools appear to Veterans.   | Training: not appropriate for production                  |
-| 7 | Orient new staff with hands-on experience using Veteran-facing tools in a controlled setting.                   | Training: not appropriate for production                  |
-| 8 | Use a test account to present live demos to stakeholders showcasing the Veteran experience.                     | Demo: not appropriate for production                      |
+| 4 | Replicate a Veteran’s reported issue using a test account to understand errors and workflow blockers.           | Training/demo: more appropriate for lowers             |
+| 5 | Guide a Veteran through a process like prescription refills or secure messaging without exposing real PII.      | Training: more appropriate for lowers                  |
+| 6 | Show VA clinicians or pharmacists how features such as secure messaging or pharmacy tools appear to Veterans.   | Training: more appropriate for lowers                  |
+| 7 | Orient new staff with hands-on experience using Veteran-facing tools in a controlled setting.                   | Training: more appropriate for lowers                  |
+| 8 | Use a test account to present live demos to stakeholders showcasing the Veteran experience.                     | Demo: more appropriate for lowers                      |
 ```
 
 ### Most Significant Use Case
