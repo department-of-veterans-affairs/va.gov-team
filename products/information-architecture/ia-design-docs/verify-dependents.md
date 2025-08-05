@@ -17,21 +17,19 @@
 
 
 ## <a name="flows"></a>User/page flows <br>
-Most up-to-date flow in [mural]
 
 <img width="1404" height="433" alt="Screenshot 2025-08-05 122346" src="https://github.com/user-attachments/assets/47df9399-0280-4b9d-bfd0-81ddb72218a4" />
 
 
 ## <a name="map"></a>Page structure<br>
-This is part of a longer term strategy to build a more robust dependents ecosystem. Strategic thinking at this [IA mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717521751866/127cbff63df95bedf011a5463797989197bc069d). Proposal on the [team's mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1689863079145/5b97ba9ea11077f983f3413167f6324f11aa04a8?wid=0-1736373800549).
+Note: This page will live under the current [Review or change dependents for disability, pension, or DIC benefits](https://www.va.gov/view-change-dependents) page. The URL of this page is planned to update to /manage-dependents/ from /view-change-dependents/ before this form launches. That process is being managed by the dependents team and Central Content and IA team. 
 
-![Screenshot 2025-01-17 at 1 38 29 PM](https://github.com/user-attachments/assets/ec1cb253-afa2-454e-b9dc-834f127401e5)
-
+<img width="457" height="497" alt="Screenshot 2025-08-05 123041" src="https://github.com/user-attachments/assets/63f3bca4-5228-4bed-9207-59fa0ea58aef" />
 
 
 ## <a name="url"></a>URLs and breadcrumbs
 
-**1) Verify dependents - NEW**
+**1) Verify your dependents for disability benefits - NEW**
 - URL: va.gov/manage-dependents/verify-form-21-0538/
    - Suburl example: va.gov/manage-dependents/verify-form-21-0538/confirmation
 - Breadcrumb: VA.gov home > Manage dependents > [H1 of 0538]
@@ -42,48 +40,34 @@ Teams must launch with at least one entry point that allows site visitors to nav
 
 ### Required entry point(s)
 
-1. **[Page/placement name]**
-  - Placement description: 
-  - Link details
-    - Link label: 
-    - Link destination: 
+1. **Review or change dependents for disability, pension, or DIC benefits**
+  - Placement description: A section should be added to the page for the 0538 form
+  - Link: https://www.va.gov/view-change-dependents
   - Notes:
-    - Who will update (IA, content, product team):
-    - When will this entry point go live (at launch? After staged rollout? after some designated time?):
+    - Who will update: Central Content
+    - When will this entry point go live: at launch
 
 ### Additional key entry points
 _Any additional key locations that the page should be navigable from. Although these are not required for launch, they are critical to the findability of your content/feature.  Examples of key entry points include "About a form" pages, additional navigation component (top, left) placements, additional static pages where its prominently linked from, etc._
 
-1. **[Page/placement name]**
-  - Placement description: 
-  - Link details
-    - Link label: 
-    - Link destination: 
+1. **About VA Form 21-0538**
+  - Placement description: Add link for online tool
+  - Link: https://www.va.gov/find-forms/about-form-21-0538/
   - Notes:
-    - Who will update (IA, content, product team):
-    - When will this entry point go live (at launch? After staged rollout? after some designated time?):
+    - Who will update: Central Content
+    - When will this entry point go live: at launch
 
 ##  <a name="redirects"></a>Redirects <br>
 While there will be redirects needed for the parent page and other forms/pages in this section as a part of the section renaming, this form is expected to launch with the updated /manage-dependents/ slug and therefore does not require a redirect itself.  
-
-## <a name="bestbets"></a>Search best bets
-*Search “best bets” are suggested pages that appear in the “Our top recommendations for you” section when you perform a search on VA.gov. Best bets are not implemented for every page, and not intended to be permanent.  They can aid in helping visitors find key content and features that are not ranking search well or competing with similar pages in search results. Existing best bets must be removed or updated when links/URLs change.*
-
-**1. Best bet for [page name]** - 
-- Destination page:
-- Additional keywords:
 
 ## <a name="launch"></a>Launch coordination <br>
 *Communication when preparing for launch is critical to ensuring all supporting content, links, and messaging are implemented in a timely manner to ensure a good experience. Missing any of these steps can result in findability challenges, incorrect or misleading information, duplicate content, etc. *
 
 Key task | Responsibility | When to complete | Additional info
 --- | --- | --- | ---
-Communicate date of staging review | | Once scheduled |
-Submit redirect request | | at least 2 weeks prior to implementation | 
-Communicate launch date | | |
-
-
-
+Communicate date of staging review | Dependents team | Aug 15 | 
+Prepare entry point preview links | Content and IA | Prior to staging review |
+Communicate launch date | Dependents team | provide target launch window once identified |
 
 ### Staged rollout
 *Is the team planning a staged rollout? Roll-outs hidden behind a flipper flag need a static page to place a sign in widget or CTA on. Pages/sections where a sign in widget can't be implemented - find a form pages, within accordions, hub pages*
