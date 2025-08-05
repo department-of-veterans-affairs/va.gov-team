@@ -141,9 +141,14 @@ A future version of Find a Representative should strive for:
 1. Advanced filters, for users to refine their search results based on the associated VSO, a representative's name, and their method of contact.
 2. A detail page for search results, to reduce the initial search result cognitive load and allow for scalability of representative inforamtion on VA.gov.
 
-Designs for Find a Representative 3.0 have already been completed in Figma: https://www.figma.com/design/bzbwObT9hiItve0q3cQX9c/ARM---Find-and-Appoint-a-Representative?node-id=0-19109&p=f&t=9UDkWLdMS1C7DVfU-0
+[Figma designs for Find a Representative 3.0](https://www.figma.com/design/bzbwObT9hiItve0q3cQX9c/ARM---Find-and-Appoint-a-Representative?node-id=0-19109&p=f&t=9UDkWLdMS1C7DVfU-0) have already been completed.
 
 We recommend these designs undergo usability testing and be updated based on reasearch findings. After this, Find a Representative 3.0 will be ready for develpoment!
+
+Please refer to these epics, to bring the Find a Representative 3.0 designs into Production:
+1. [ARM Research: Find a Representative 3.0](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97783) - validate v3 designs with user testing, and report on findings.
+2. [ARM Design: Find a Representative 3.0](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98591) - update v3 designs based on research findings, and finalize for handoff to development.
+3. [ARM Development: Find a Representative 3.0](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80758) - development of v3, based on finalized designs.
 
 #### Known Bugs
 Some bugs have been identified for our Production experience. These have not yet been addressed due to lower priority, feel free to prioritize + address as needed.
