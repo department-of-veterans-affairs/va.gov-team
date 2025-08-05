@@ -1,7 +1,7 @@
 
 | # | Prod Test Account Use Cases                                                                                                         | Production Workaround / Note                              |
 |---|------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
-| 1 | Validate that external integrations work correctly in production for authentication and data flow.              | Demonstrated need for production                          |
+| 1 | Validate that external integrations work correctly in production for authentication and data flow.              | Backend testing avialable in prod without frontend                         |
 | 2 | Reproduce and validate bug fixes to ensure prior issues are resolved without breaking other functionality.      | Workarounds exist, but challenging with external integrations |
 | 3 | Validate that new or updated features on VA.gov or the mobile app work as expected upon release.               | Workarounds for production exist                          |
 | 4 | Replicate a Veteran’s reported issue using a test account to understand errors and workflow blockers.           | Training/demo: not appropriate for production             |
