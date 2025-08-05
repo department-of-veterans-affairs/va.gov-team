@@ -4,11 +4,9 @@
 
 You'll need to create a feature toggle (or two) for any moderately or significantly changing feature. Follow the [best practices for creating feature toggles](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles).
 
-List the features toggles here.
+**NOTE:** Instead of using feature toggles to gate access, we will be using Pager Duty's maintenance window to reroute ALL IPF users who had already signed the old 4142 to the new 4142 path. This will entail downtime. See notes in this [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/115385). We will describe this more below.
 
-| Toggle name | Description |
-| ----------- | ----------- |
-| [FILL_IN] | [FILL_IN] |
+
 
 ## Step 2: Validation
 
