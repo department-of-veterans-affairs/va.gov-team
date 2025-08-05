@@ -19,13 +19,13 @@ This is a comprehensive guide to integrating a new end-user authentication clien
 
 ### Postman Collection
 
-The VSP Identity team maintains a [Postman collection](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Product%20Documentation/va_identity_postman.json) to enable developers to more easily test against Sign in Service (SiS) routes; this collection is configured to manage cookie integrations. Documentation on how to use the SiS Postman collection can be found [here](../postman.md).
+The VSP Identity team maintains a [Postman collection](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Documentation/Development/postman/collections/main/va.gov_identity.postman_collection.json) to enable developers to more easily test against Sign in Service (SiS) routes; this collection is configured to manage cookie integrations. Documentation on how to use the SiS Postman collection can be found [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/identity_postman.md).
 
 ### Local `vets-api` & `vets-api-mockdata` Repositories
 
 In order to successfully develop against a local instance of Sign in Service, [vets-api](https://github.com/department-of-veterans-affairs/vets-api) must be set up, either natively or through Docker.
 
-`vets-api` localhost performs a real authentication with the CSP, but relies on mocked user data from MPI. It must be configured to look for this mocked data from [vets-api-mockdata](https://github.com/department-of-veterans-affairs/vets-api-mockdata). Make sur e you have the latest version of `vets-api-mockdata` (including running `ruby make_table.rb` in the mock data repository to populate the mock data tables) before attempting to authenticate with SiS to prevent missing mocked data errors.
+`vets-api` localhost performs a real authentication with the CSP, but relies on mocked user data from MPI. It must be configured to look for this mocked data from [vets-api-mockdata](https://github.com/department-of-veterans-affairs/vets-api-mockdata). Make sure you have the latest version of `vets-api-mockdata` (including running `ruby make_table.rb` in the mock data repository to populate the mock data tables) before attempting to authenticate with SiS to prevent missing mocked data errors.
 
 ### Client Config
 
