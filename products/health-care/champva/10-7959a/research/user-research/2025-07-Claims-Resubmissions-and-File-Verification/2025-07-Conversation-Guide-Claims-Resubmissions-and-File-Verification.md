@@ -48,7 +48,9 @@
 
 Thanks for joining us today! My name is **[NAME]** and **[NOTETAKER NAME]** is taking notes. I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
-Today we’re going to talk about VA Form 10-7959a to submit a claim for the Civilian Health and Medical Program of the Department of Veterans Affairs benefits, otherwise known as CHAMPVA. CHAMPVA is a cost-sharing program for spouses and children of Veterans who have 100% Permanent and Total service-connected disability rating, who don’t qualify for Tricare.
+Today we’re going to talk about VA Form 10-7959a to submit a claim for the Civilian Health and Medical Program of the Department of Veterans Affairs benefits, otherwise known as CHAMPVA. 
+
+> - [For AT users] **Today we’re going to talk about VA Form 10-7959a to submit a claim for the Civilian Health and Medical Program of the Department of Veterans Affairs benefits, otherwise known as CHAMPVA. CHAMPVA is a cost-sharing program for spouses and children of Veterans who have 100% Permanent and Total service-connected disability rating, who don’t qualify for Tricare.**
 
 Before we start, I have a few things that I want to go over with you:
 
