@@ -14,6 +14,11 @@ Designs for Find a Representative 3.0 have already been completed in Figma: http
 
 We recommend these designs undergo usability testing and be updated based on reasearch findings. After this, Find a Representative 3.0 will be ready for develpoment!
 
+Please refer to these epics, to bring the Find a Representative 3.0 designs into Production:
+1. [ARM Research: Find a Representative 3.0](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97783) - validate v3 designs with user testing, and report on findings.
+2. [ARM Design: Find a Representative 3.0](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98591) - update v3 designs based on research findings, and finalize for handoff to development.
+3. [ARM Development: Find a Representative 3.0](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80758) - development of v3, based on finalized designs.
+ 
 #### Known Bugs
 Some bugs have been identified for our Production experience. These have not yet been addressed due to lower priority, feel free to prioritize + address as needed.
 
