@@ -4,6 +4,10 @@ The[ VA.Gov Performance Dashboard](https://www.va.gov/performance-dashboard/) ha
 
 When IIR originally took on the project of revamping the data pipeline, we found many areas of improvement, including the removal of a process where users manually entered data, to creating ETL flows that improve performance and useability of the data.
 
+Video Recordings:
+- [Overview of what's in Domo](https://github.com/user-attachments/assets/162d02a0-f07d-4d1e-9f19-2e909697749e)
+
+
 ## Current Process
 
 1. **Data Ingestion to Domo**
