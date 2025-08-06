@@ -19,7 +19,7 @@ The following were considered but rejected.
 | TBD| TBD | TBD | TBD |
 
 ---
-### FAQ's
+### Resources/Reference
 Pay.gov FAQs: https://www.pay.gov/WebHelp/HTML/bill_1.htm
 
 ### FAQ's
