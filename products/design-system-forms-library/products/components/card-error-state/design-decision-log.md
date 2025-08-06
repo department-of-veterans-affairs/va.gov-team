@@ -5,7 +5,7 @@ Last updated: 08/04/2025
 - [ADR: 002 - User must be able to resolve the error](#ADR-002---User-must-be-able-to-resolve-the-error)
 - [ADR: 003 - Default tag will be used for launch](#ADR-003---Default-tag-will-be-used-for-launch)
 - [ADR: 004 - The card will be interactive when in the error state](#ADR-004---The-card-will-be-interactive-when-in-the-error-state)
-- [ADR: 005 - Figma update for card error state will be a breaking change](#ADR-005--Figma-update-for-card-error-state-will-be-a-breaking-change)
+- [ADR: 005 - Figma update for card error state will be a breaking change](#ADR-005---Figma-update-for-card-error-state-will-be-a-breaking-change)
 
 
 ## ADR 001 - Cards will not support success, warning, or info states
