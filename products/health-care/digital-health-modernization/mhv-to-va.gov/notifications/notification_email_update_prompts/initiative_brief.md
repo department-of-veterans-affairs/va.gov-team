@@ -88,12 +88,21 @@
 ### What're you building?
 
 > *What's in scope for you to build with this initiative? Describe key features/flows.*
+- Prompt messages on six pages
+   - 1. My HealtheVet Landing Page (web)
+   - 2. VA.gov Profile landing page (web)
+   - 3. VA.gov Profile contact info page (web)
+   - 4. VAHB mobile app Health landing page (mobile)
+   - 5. VAHB mobile app Profile landing page (mobile)
+   - 6. VAHB mobile app Profile contact info page (mobile)
  
 > *What have you explicitly decided to **not** include and why?*
 
 > *Are you building for the VA Health and Benefits mobile application? Explain why or why not.*
+Yes, because this impacts all My HealtheVet users who receive notifications from VA.gov or VAHB.
 
 > *How does this solution address your Assumptions & Risks?*
+
 
 #### Go-to-market 
 
