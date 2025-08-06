@@ -5,6 +5,7 @@ Last updated: 08/04/2025
 - [ADR: 002 - User must be able to resolve the error](#ADR-002---User-must-be-able-to-resolve-the-error)
 - [ADR: 003 - Default tag will be used for launch](#ADR-003---Default-tag-will-be-used-for-launch)
 - [ADR: 004 - The card will be interactive when in the error state](#ADR-004---The-card-will-be-interactive-when-in-the-error-state)
+- [ADR: 005 - Figma update for card error state will be a breaking change](#ADR-005--Figma-update-for-card-error-state-will-be-a-breaking-change)
 
 
 ## ADR 001 - Cards will not support success, warning, or info states
@@ -94,4 +95,29 @@ This approach ensures screen reader users receive the same information and cues 
 This may cause unexpected verbosity for some screen reader users.
 
 ### Open Questions
-N/A
+
+## ADR 005 - Figma update for card error state will be a breaking change
+
+### Status: Accepted
+
+- Date issue raised: 08/04/2025
+- Decision date: 08/06/2025
+
+### Context
+We need to add an error state into the figma component of card. We can either, duplicate existing legacy issues in the card component design, or issue a new breaking-change version of the card component, which improves it's constructions for future maintenance.
+
+### Decision
+We are going to design the card component to more align with the coded component. This means:
+1. The new default card component will have the three variants based on visual styles (border, background, drop shadow), with 2 states (default, and error)
+2. The content in the card will be one of the prebuilt options or an option for teams to add in whatever content they want.
+
+Right now the component is constructed of variants that combine content and visual style. We're going to separate those out.
+
+### Consequences
+This means that when teams update existing cards to use the new component construction, they will lose any customizations they have made.  For that reason we are going to rename the current card compoennt to `Card - Legacy` and the new card will have the same `Card` name. This will encourage new cards to use the new design, and teams can opt-in to the new design when they are ready to tackle the breaking changes.
+
+Any team wanting to add error states to their card will have to use the new design.
+
+### Open Questions
+- Need to determine how/when to communicate this to teams.
+
