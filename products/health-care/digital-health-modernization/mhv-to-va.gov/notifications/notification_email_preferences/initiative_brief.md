@@ -1,4 +1,4 @@
-# Initiative Brief 
+# MHV on VA.gov Initiative Brief - Notification email update prompts
 #### Overview
 
 <details>
@@ -9,13 +9,8 @@
 
 <details>
  <Summary>Examples:</Summary>
- 
- - *Product: My Health* 
-   - *Initiatives: Type-ahead, [Search Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/search-landing/initiative-brief.md), [Surfacing Other Search Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/surfacing%20other%20search%20tools/initiative-%20brief.md)*
- - *Product: VA.gov Profile*
-   - *Initiatives: Combine Account & Profile, Direct Deposit for Disability, Candidate Address Validation, Direct Deposit for Education, Notification Preferences*
- - *Product: Disability Claims*
-   - *Initiatives: Original Claims, Benefits Delivery at Discharge (BDD)*
+- Product: My HealtheVet on VA.gov
+    - Initiative: Notification email update prompts
  
  </details>
  
@@ -24,17 +19,19 @@
 ---
 
 ## Outcome Summary
-> *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-* .
+- Veterans will verify, change, or add the email address that they want to use for receiving notifications
 
 **Related/Associated product(s)**
-- Product | Link to product outline 
+- Product | My HealtheVet on VA.gov
 
 ## Problem
 > *Describe the challenge / pain point you seek to address.:* 
 * What is the problem and who is affected? And, what evidence do we have of the problem?
+  - More than 600k Veterans' VA.gov profile email address is null or does not match their My HealtheVet email address where they have been receiving notifications from the My HealtheVet Classic notification system.  When the MHV applications migrate their notifications to VA Notify later this year, Veterans without an email address in VA.gov Profile, or whose VA.gov profile email address has not been confirmed for notifications, may not recieve important emails about their medical appointments, medications, messagages from providers, or medical images that are ready for download.
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
+  - The My HealtheVet DBA ran a query to compare the two sets of email addresses.
 * How does this initiative help further OCTO-DE's mission and goals?
+  - It will ensure that Veterans reliably continue to receive their health notifications and know where to find related information on My HealtheVet.
 
 <!--
 ## Desired User Outcomes
@@ -59,6 +56,7 @@
 
 - Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
 
+- The number of Veterans with missing/mis-matched email addresses decreases. | 600K | 0 | Data source is an SQL database query that cannot be linked.
 ---
 
 ## Discovery
@@ -116,8 +114,10 @@
 
 * [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
+
+
 #### Initiative Launch Dates
-- *Target Launch Date*
+-  9/1/2025; actual date is dependent on Mobile release dates
   - tbd
 - *Actual Launch Date* 
   - tbd
@@ -127,6 +127,26 @@
 ## Screenshots
 
 ### Before
+#### 1. My HealtheVet Landing Page (web)
+<img width="772" height="815" alt="image" src="https://github.com/user-attachments/assets/5078c4db-4ae3-48f9-8378-59500e48f5b9" />
+
+
+#### 2. VA.gov Profile landing page (web)
+<img width="787" height="823" alt="image" src="https://github.com/user-attachments/assets/7d77a517-8e2d-47b9-8b08-8f64292f2a4d" />
+
+
+#### 3. VA.gov Profile contact info page (web)
+<img width="772" height="753" alt="image" src="https://github.com/user-attachments/assets/2f6788b3-5aec-4021-b188-324af141223c" />
+
+#### 4. VAHB mobile app Health landing page
+<img width="1170" height="2532" alt="image" src="https://github.com/user-attachments/assets/06b7bbd5-a795-4e87-beab-fa7fe9b83a6e" />
+
+#### 5. VAHB mobile app Profile landing page
+<img width="1170" height="2532" alt="image" src="https://github.com/user-attachments/assets/3e42d783-b43a-4972-a5a8-640f09ccc5b4" />
+
+#### 6. VAHB mobile app Profile contact info page
+<img width="1170" height="2532" alt="image" src="https://github.com/user-attachments/assets/c6731af0-d274-4a0b-b5eb-df5350172412" />
+
 
 ### After
 
@@ -137,21 +157,21 @@
 
 <details>
 
-- Team Name: 
-- GitHub Label(s): 
-- Slack channel: 
-- Product POCs:
+- Team Name: MHV Horizon
+- GitHub Label(s): mhv-horizon
+- Slack channel: #mhv-horizon-team
+- Product POCs: OCTO Lead: Marci McGuire; Product Manager: Bryan Ivie
 
 </details>
 
 
 #### Stakeholders
-*What offices/departments are critical to make this initiative successful?*
+
 
 <details>
-  
-- Office/Department:
-- Contact(s): 
+   
+- Office/Department: VHA Office of Connected Care
+- Contact(s): Theresa Hancock, Carnetta Scruggs
  
 </details>
 
