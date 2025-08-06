@@ -28,7 +28,7 @@ The product is an authenticated form within the My Health section of the VA.gov,
 
 The 10-10EZR is used to update information after the 10-10EZ enrollment, so Veterans are most likely familiar with similar questions and content. 
 
-[Link to EZR Household Section v2 product initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZR%20Form/Household%20Section%20V2/Household%20Section%20V2%20Initiative%20Brief.md)
+[Link to EZR Household Section v2 product initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/health-update-form/Household%20Section%20V2/Household%20Section%20V2%20Initiative%20Brief.md)
 
 
 ### [OCTO-DE Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md) 
