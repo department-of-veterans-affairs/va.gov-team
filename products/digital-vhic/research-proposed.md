@@ -19,18 +19,18 @@ UX Research: initial notes, thoughts, and questions
         * Especially with the mention I heard that this digital card has to be identical to the physical card. (during the recorded meeting I watched on the backend flow – I have not confirmed these details)
     * Conduct usability tests after it’s built in the app with users of various assistive technologies
     * Depending on how similar the two cards will be, we could do AT usability sessions on the VSC to find accessibility issues on the VHIC (to be done before VHIC is built)
-* (in scope?) Where will this be stored?
+* _(in scope?)_ Where will this be stored?
     * Where will Veterans think to access it?
     * Where are easy + quick places to access it?
     * Would location of VSC relate to this at all?
-* (in scope?) How are Veterans selecting the option of what version of the card to receive – physical and/or digital – can we test that communication?
+* _(in scope?)_ How are Veterans selecting the option of what version of the card to receive – physical and/or digital – can we test that communication?
     * Is the goal to have as few physical cards as possible? What communication would be best to achieve that?
     * What are reasons for Veterans requesting physical cards?
-* (in scope?) How are locations using this card? e.g. healthcare centers
+* _(in scope?)_ How are locations using this card? e.g. healthcare centers
     * What types of locations use this card?
     * Are there differences among types of locations in how they use the cards?
     * Can people at these locations be part of our research?
-* (in scope?) Adding card to mobile digital wallet
+* _(in scope?)_ Adding card to mobile digital wallet
     * Can this be done? (citing security concerns)
     * What information is needed on first screen, vs what can be in details? (i.e. front and back of card)
     * This would most likely not be in MVP
