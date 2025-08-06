@@ -34,7 +34,7 @@ As outlined in the [intiative brief](https://github.com/department-of-veterans-a
    - After 100% release
       - Authenticated Users: Users will complete the v1 experience. 
 
-| User Type | Flipper Status | Form in Progress | ITF Version| V1 Info Content Displayed|
+| User Type | Flipper Status | Form in Progress | ITF Version| V1 Alert Content Displayed|
 |---|---|---|---|---|
 | Authenticated Users | Disabled | No | v0 | No | No |
 | Authenticated Users | Disabled | Yes, v0 | v0 | No | No |
