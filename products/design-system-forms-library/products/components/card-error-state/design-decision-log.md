@@ -95,6 +95,7 @@ This approach ensures screen reader users receive the same information and cues 
 This may cause unexpected verbosity for some screen reader users.
 
 ### Open Questions
+N/A
 
 ## ADR 005 - Figma update for card error state will be a breaking change
 
