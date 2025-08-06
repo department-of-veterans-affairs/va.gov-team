@@ -1,24 +1,5 @@
 # Release Plan: 4142 Paper Sync - MVP 
 
-## When to use this release plan
-
-If you answer yes to any of the questions below, you'll need to create a release plan using this template.
-
-- Does the feature you are working on moderately or significantly affect the Veteran experience of the product?
-- Does the feature you are working on change the structure of the underlying data?
-- Does the feature's backend or downstream interactions change?
-- Is this a brand new experience for a Veteran?
-
-The team should develop this plan in parallel with the development of the feature your team is creating.
-
-
-## How to use this release plan
-
-1. Create a release plan using this template in your feature documentation. Optionally, remove the extra text from the template.
-2. Fill out all the details below.
-3. Review the release plan with the team and your OCTO before [releasing your app to production](#step-3-production-rollout).
-
-
 ## Purpose
 The purpose of this release plan is to document and align the delivery teams and stakeholders on what will be delivered and when. This release plan is specifically for the 4142 Paper Sync MVP (first release). 
 It is not intended to include the next generation of enhancements to the 4142 product.
@@ -30,7 +11,7 @@ The required changes to support sending the new 4142 form include the following 
 - User must provide the disabilites being claimed in their disability claim, that they were treated for at each Private Medical Facility they want the VA to get their records from (that goes on the 4142 paper form)
 
 For users filling out for the first time, this additional verbiage is just shown in-place of the old, on a new page.
-For returning users who have an in-progress form in which they have already filled out the 4142, these users will be redirrected back to the begining of the 4142 flow, and also shown an alert informing them of the change, why they were brought back to this location in the flow, and giving them the option to re-authorize with the additional verbiage, and add the required treatments recived data to their previously provided private medical facilites entries. 
+For returning users who have an in-progress form in which they have already filled out the 4142, these users will be redirected back to the begining of the 4142 flow, and also shown an alert informing them of the change, why they were brought back to this location in the flow, and giving them the option to re-authorize with the additional verbiage, and add the required treatments recived data to their previously provided private medical facilites entries. 
 
 ## Project goals
 Create a new 4142 online form that will match the newest paper version of the PDF form. 
@@ -46,7 +27,9 @@ List the features toggles here.
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| [FILL_IN] | [FILL_IN] |
+| disability_526_form4142_use_2024_template |  Enables the use of the 2024 template for form 4142 in disability 526 application |
+| disability_526_form4142_validate_schema | Enables the use of schema validation for form 4142 in disability 526 applications |
+| disability_526_form4142_use_2024_frontend | Enables the 2024 version of form 4142 in the disability 526 submission frontend workflow |
 
 
 ## Step 2: Validation
@@ -329,13 +312,7 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 
 ## Release Day Steps 
 
-Because we need to do a database record migration (the return url for the in-progress forms needs to be modified in the DB via rake task), it is impractical to do a phased/canary roll-out. We are going to 100% for all users at once. 
 
-Also, because of modifying the database/in-progress form records, we do not want users to be completing the form while we are modifying the records, as live users may over-write the data before we flip the last switch to enable. Due to this we are planning to do a 4 hour maintence window. However, we belive we can make use of an existing maintinence window (meaning, our app goes down for maintnence due to 3rd party systems and external services we use, we can just do our thing, during one of those windows since we will be down anyway, as to not increase downtime of our app). The exact window is not yet selected but will be finalized before release. 
-
-Once the window is entered, we will monitor to ensure no users are still using our application. We can do this by monitoring the `updated_at` timestamps of in-progress forms for our form in the prod DB.
-
-Once we are sure there is no stragglers left, we can then begin our migration/release. 
 
 ### Post release monitoring
 
