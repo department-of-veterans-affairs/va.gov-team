@@ -11,6 +11,9 @@ _BEP expects that a Veteran's or spouse's file number submitted in a 21-686c or 
 - Work was done in 2023 to ensure claims with this issue were submitted through the backup pathway (Central Mail), so they would no long be silent failures
 - The Identity Team monitors for bad ssn where the ssn in the Veteran's verified credential does not match the ssn that is stored in MPI. In those cases, the Identity Team blocks the Veteran from logging in to VA.gov and instructs the Veteran to contact the Contact Center. The Identity Team compiles a report of these cases and sends that report to MPI for resolution. If the Veteran also reports the issue, the mismatch in ssn could be resolved in a few days. It's unclear how long the cases in the list the Identity Team take MPI to resolve (if ever).
 
+## Current Status
+- [Around 40 claims per month](https://vagov.ddog-gov.com/logs?query=%22ORA-20099%3A%20Error%20-%20File%20Number%20and%20Social%20Security%20number%20are%20different%22%20-status%3A%28warn%20OR%20info%29%20-EJB&agg_m=count&agg_m_source=base&agg_t=count&clustering_pattern_field_path=message&cols=host%2Cservice%2C%40named_tags.class&messageDisplay=inline&refresh_mode=sliding&storage=hot&stream_sort=desc&viz=stream&from_ts=1751817233580&to_ts=1754409233580&live=true) generate this error. This is down from the 90-100 per month in 2023.
+
 ## Open questions
 - Are we stripping out hyphens from both ssn and file numbers?
    - Yes, the 686/674 form strips out hyphens from both numbers
@@ -28,7 +31,7 @@ _BEP expects that a Veteran's or spouse's file number submitted in a 21-686c or 
 
 ## Suggested course of action
 See https://github.com/department-of-veterans-affairs/va.gov-team/issues/56995#issuecomment-1532129932. File # / SSN mismatches are a big, complicated, systemic issue. IMO, the best we can do is:
-1. Report them to MPI to resolve. See https://github.com/department-of-veterans-affairs/va.gov-team/issues/57798. 
+1. Report mismatches to MPI to resolve. See https://github.com/department-of-veterans-affairs/va.gov-team/issues/57798. 
    - Create a DataDog dashboard to monitor the logs introduced by [these logs](https://github.com/department-of-veterans-affairs/vets-api/pull/12530)
    - Determine who to contact at MPI to report the instances of bad file/ssn
    - Figure out why the exsiting logs are not catching [File # formatting issues](http://sentry.vfs.va.gov/organizations/vsp/discover/results/?environment=production&field=message&field=error.value&name=Top+Errors&project=3&query=%28+controller_name%3Adependents_applications+OR+SubmitForm686cJob+OR+SubmitForm674Job+OR+job%3ABGS%3A%3ASubmitForm686cJob+OR+job%3ABGS%3A%3ASubmitForm674+%29+level%3Aerror+AND+%21message%3A%2Aget_dependents%2A+message%3A%22ORA-12899%3A+value+too+large+for+column+%5C%22CORPPROD%5C%22.%5C%22VNP_PERSON%5C%22.%5C%22FILE_NBR%5C%22+%28actual%3A+10%2C+maximum%3A+9%29+Sidekiq%2FBGS%3A%3ASubmitForm686cJob%22+error.value%3A%22%22&sort=-message&statsPeriod=7d&widths=-1&widths=-1) and [File # / SSN mismatch issues](http://sentry.vfs.va.gov/organizations/vsp/discover/results/?environment=production&field=message&field=error.value&name=Top+Errors&project=3&query=%28+controller_name%3Adependents_applications+OR+SubmitForm686cJob+OR+SubmitForm674Job+OR+job%3ABGS%3A%3ASubmitForm686cJob+OR+job%3ABGS%3A%3ASubmitForm674+%29+level%3Aerror+AND+%21message%3A%2Aget_dependents%2A+message%3A%22ORA-20099%3A+Error+-+File+Number+and+Social+Security+number+are+different%0AORA-06512%3A+at+%5C%22CORPPROD.RBI_VNP_PERSON%5C%22%2C+line+69%0AORA-04088%3A+error+during+execution+of+trigger+%27CORPPROD.RBI_VNP_PERSON%27+Sidekiq%2FBGS%3A%3ASubmitForm686cJob%22+error.value%3A%22%22&sort=-message&statsPeriod=7d&widths=-1&widths=-1).
