@@ -49,58 +49,55 @@ U.S. Postal Service records show that there may be a problem with the unit numbe
 
 </details>
 
-LEFT OFF HERE
 
 <details><summary>MISSING_UNIT_OVERRIDE | Address is missing a unit number</summary>
 
-- **Use case:** User is presented with Address you entered and can confirm that the information is correct. Or, they can return to edit mode.
+- **Use case:** Address is missing a unit number per USPS. User is presented with Address you entered and can confirm that the information is correct. Or, they can return to edit mode.
 - **Status code:** TBD
+- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
+- [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3866-12648&t=Ic7TBqjpcULWnUDk-1)
+- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/4b1cb7be2bc1df72d166a85aa88b683ef6b840c8/src/platform/user/profile/vap-svc/constants/addressValidationMessages.js#L33)
 - **Content:**
 
 Header: Confirm your address
 
 U.S. Postal Service records show this address may need a unit number. Confirm that you want us to use this address as you entered it. Or, go back to edit and add a unit number.
 
-- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
-- [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3123-29738&t=Lec9VMwUOLJiae7J-1)
-- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/4b1cb7be2bc1df72d166a85aa88b683ef6b840c8/src/platform/user/profile/vap-svc/constants/addressValidationMessages.js#L33)
-
 </details>
 
 
-<details><summary>SHOW_SUGGESTIONS_NO_CONFIRMED_OVERRIDE | Address can’t be confirmed with USPS, and a suggestion is not found</summary>
+<details><summary>SHOW_SUGGESTIONS_NO_CONFIRMED_OVERRIDE | Address entered is viable, but can't be confirmed with USPS</summary>
 
-- **Use case:** If the address can't be confirmed with USPS, and a suggestion is not found, the user is presented with the address they entered, and can confirm to move forward with the address as entered. Or go back to edit.
+- **Use case:** The addres entered is viable with USPS, there are no confirmed suggestions, and the address does not have a bad or missing unit. The user is presented with the address they entered, and can confirm to move forward with the address as entered. Or go back to edit.
 - **Status code:** TBD
+- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
+- [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3866-12646&t=Ic7TBqjpcULWnUDk-1)
+- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/4b1cb7be2bc1df72d166a85aa88b683ef6b840c8/src/platform/user/profile/vap-svc/constants/addressValidationMessages.js#L50)
 - **Content:**
 
 Header: Confirm your address
 
 We can’t confirm the address you entered with the U.S Postal Service. Confirm that you want to us to use this address as you entered it. Or, go back to edit it.
 
-- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
-- [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3123-29742&t=Lec9VMwUOLJiae7J-1)
-- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/4b1cb7be2bc1df72d166a85aa88b683ef6b840c8/src/platform/user/profile/vap-svc/constants/addressValidationMessages.js#L50)
-
 </details>
 
 
-<details><summary>NO_SUGGESTIONS_NO_OVERRIDE | TBD</summary>
+<details><summary>NO_SUGGESTIONS_NO_OVERRIDE | Address can't be confirmed with USPS and is not viable</summary>
 
-- **Use case:** TBD
-- **Status code:** TBD
+- **Use case:** User enters a completely invalid address that cannot be confirmed with USPS.
+- **Status code:** 400
+- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
+- [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3866-12644&t=Ic7TBqjpcULWnUDk-1)
+- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/4b1cb7be2bc1df72d166a85aa88b683ef6b840c8/src/platform/user/profile/vap-svc/constants/addressValidationMessages.js#L60)
 - **Content:**
 
 Header: This address you entered is invalid
 
 We can’t confirm the address you entered with the U.S. Postal Service. You’ll need to go back to edit it.
 
-- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
-- [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3123-29744&t=Lec9VMwUOLJiae7J-1)
-- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/4b1cb7be2bc1df72d166a85aa88b683ef6b840c8/src/platform/user/profile/vap-svc/constants/addressValidationMessages.js#L60)
-
 </details>
 
+LEFT OFF HERE
 
 <details><summary>SHOW_SUGGESTIONS_NO_OVERRIDE | TBD</summary>
 
