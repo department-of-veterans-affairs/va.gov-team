@@ -3,9 +3,9 @@
 
 ## Background 🏗️
 
-As part of expanding online self-scheduling, we’re adding two new features to the scheduling flow: expanding the teams’ roles returned during the Patient Aligned Care Team (PACT) check and adding Substance Use Disorder (SUD) as a mental health sub-type of care. The PACT expansion will be implemented on the backend only, with no UI changes in this phase. This study aims to understand Veterans’ mental models around scheduling—specifically, what roles they consider part of their care team, such as physician assistants, nurse practitioner, clinical pharmacy, and more, how an expanded set of clinic options affects their scheduling experience, and whether they consider SUD to be part of mental health when scheduling appointments.
+As part of expanding online self-scheduling, we’re adding two new features to the scheduling flow: expanding the teams’ roles returned during the Patient Aligned Care Team (PACT) check and adding Substance Use Disorder (SUD) as a mental health sub-type of care. The PACT expansion will be implemented on the backend only, with no UI changes in this phase. This study aims to understand Veterans’ mental models around scheduling—specifically, what roles they consider part of their PACT team, such as physician assistants, nurse practitioner, clinical pharmacy, and more, how an expanded set of clinic options affects their scheduling experience, and whether they consider SUD to be part of mental health when scheduling appointments.
 
-**[Link to product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/2025-expand-access-to-scheduling/README.md).**
+**[Product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/2025-expand-access-to-scheduling/README.md).**
 
 
 ### OCTO-DE Priorities
@@ -63,7 +63,8 @@ As part of expanding online self-scheduling, we’re adding two new features to 
 - **Veterans who know what the assigned PACT is and have seen providers on their assigned PACT may expect to schedule directly with them instead of choosing a clinic.**
 - **Most Veterans may not recognize the connection between type of care, clinic selection, and their assigned providers, even if they know what a PACT is.**
 - **Veterans may recognize some clinics from previous experiences, but more clinics may not improve their online scheduling experience.**
-- **Most Veterans who have not talked about SUD with someone on their care team or been not screened for SUD will not view SUD as part of mental health. However, those who have talked about SUD with someone on their care team or been screened for SUD will likely categorize this disorder under mental health.** 
+- **Most Veterans may not expect to find SUD service under the Mental Health category, but the descriptive context on the sub-type of care page may help them understand and learn this organization.**
+- **Some Veterans may select primary care when asked to schedule appointments to discuss unhealthy use of drugs or alcohol.**
 
 ---
 
@@ -107,7 +108,7 @@ We will partner with Perigean to recruit Veterans. All efforts will be made to r
 - `All participants must have a MHV premium account, OR an authenticated / identity-proofed ID.me account. In the email sent by Perigean, they should be informed that you will need to log in to their accounts either before or during the interview session so they should have their account details handy for the session, as they will be required to sign in.`
 - `Must identify as a gender other than male (recruit no less than 6)`
 - `Must be over the age of 55 (recruit no less than 6, and at least 3 over the age of 70)`
-- `Must have substance use disorder (recruit no less than 7)`
+- `Must have scheduled a mental health appointment (recruit no less than 7)`
 
 #### Secondary criteria (nice-to-haves)
 
@@ -129,7 +130,7 @@ We will partner with Perigean to recruit Veterans. All efforts will be made to r
 4. Have you scheduled or attempted to schedule a medical appointment in the last 12 months?
 	- Yes (go on to Screener question 5)
 	- No (Disqualify)
-5. Have you been talked to someone on your health team or screened for unhealthy use of drugs and alcohol? 
+5. Have you ever scheduled a mental health appointment?
 	- Yes (recruit 7)
 	- No (recruit 8)
 
@@ -189,5 +190,5 @@ We will partner with Perigean to recruit Veterans. All efforts will be made to r
 
 
 ## Approvals ✅
-- `Reviewed by [OCTO Product Owner, Kristen McConnell] on [MM-DD-YYYY]`
+- `Reviewed by [OCTO Product Owner, Kristen McConnell] on 08/06/2025`
 - `Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]`
