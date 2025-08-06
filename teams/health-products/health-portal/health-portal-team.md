@@ -212,11 +212,12 @@ During the transition period, the Medications team and Medical Devices team will
  
 ### Shared Services
  
-| Name                                                           | DSVA SLACK |
-|----------------------------------------------------------------|------------|
-| Rajasree Venkatesh                                             |            |
-| Stephen Orleski                                                |            |
-| Thomas Michaud                                                 |            |
+| Name                                                           | DSVA SLACK  |
+|----------------------------------------------------------------|------------ |
+| Rajasree Venkatesh                                             |             |
+| Stephen Orleski                                                |             |
+| Thomas Michaud                                                 |             |
+| Angela Chen                                                    | @Angela Chen |
 
 ## Partner Teams  [WIP - BEING UPDATED]
 
