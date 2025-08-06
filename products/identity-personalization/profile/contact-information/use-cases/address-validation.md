@@ -98,7 +98,7 @@ We can’t confirm the address you entered with the U.S. Postal Service. You’l
 </details>
 
 
-<details><summary>SHOW_SUGGESTIONS_NO_OVERRIDE | Entered address is invalid, but there is a suggested address found</summary>
+<details><summary>SHOW_SUGGESTIONS_NO_OVERRIDE | Entered address is invalid, but USPS found a suggested address</summary>
 
 - **Use case:** User enters an invalid address, but USPS found a suggestion. User can only proceed with the suggestion or go back to edit.
 - **Status code:** TBD
