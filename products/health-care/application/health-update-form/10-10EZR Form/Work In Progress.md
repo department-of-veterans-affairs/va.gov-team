@@ -9,5 +9,5 @@
 | [v2 Financial Info](https://github.com/department-of-veterans-affairs/vets-website/pull/35177) | Merged but feature flag is disabled |
 | [v2 Spouse](https://github.com/department-of-veterans-affairs/vets-website/pull/37774) | Awaiting QA |
 | [Emergency Contacts/Next of Kin](https://github.com/department-of-veterans-affairs/vets-website/pull/37849) | Merged. Feature flag disabled `ezr_emergency_contacts_enabled` |
-| [PDF Download]([https://github.com/department-of-veterans-affairs/vets-api/pull/23430](https://github.com/department-of-veterans-affairs/vets-website/pull/37492)) | FE: Merged, but behind a feature flag. BE: Not merged |
+| [PDF Download]([https://github.com/department-of-veterans-affairs/vets-api/pull/23430](https://github.com/department-of-veterans-affairs/vets-website/pull/37492) | FE: Merged, but behind a feature flag. BE: Not merged |
 
