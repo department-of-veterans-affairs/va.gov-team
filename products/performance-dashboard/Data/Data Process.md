@@ -6,6 +6,7 @@ When IIR originally took on the project of revamping the data pipeline, we found
 
 Video Recordings:
 - [Overview of what's in Domo](https://github.com/user-attachments/assets/162d02a0-f07d-4d1e-9f19-2e909697749e)
+- [ETL flow - GA Portion](https://github.com/user-attachments/assets/ece9c3ae-b2f5-46df-9951-762b0445e4b9)
 
 
 ## Current Process
