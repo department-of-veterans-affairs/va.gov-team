@@ -114,7 +114,7 @@ We can use the suggested address we found. Or, you can go back to edit the addre
 </details>
 
 
-<details><summary>VALIDATION_ERROR | API call fails</summary>
+<details><summary>SYSTEM_ERROR | API call fails</summary>
 
 - **Use case:** Triggers when the address validation API call itself fails (e.g., network error, 500 response, or the service can't process the address at all). User is presented with a system error and an option to go back and edit.
 - **Status code:** 500, 502, 503, 504
