@@ -88,7 +88,7 @@ This roadmap reflects current priorities and efforts for the 10-10EZR applicatio
 ## **Features and initiatives we worked on**
 
 This table details recent and ongoing features and initiatives specifically for the 10-10EZR application, along with their current status.
-https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/health-update-form/10-10EZR%20Form/Work%20In%20Progress.md
+- Link to current [Work In Progress - engineering doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/health-update-form/10-10EZR%20Form/Work%20In%20Progress.md)
 
 | Product | Initiative                                      | Status                                   |
 |---------|-------------------------------------------------|------------------------------------------|
