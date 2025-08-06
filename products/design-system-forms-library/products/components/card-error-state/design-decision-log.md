@@ -8,7 +8,7 @@ This document outlines the key design decisions made for implementing error stat
 - [ADR: 002 - User must be able to resolve the error](#ADR-002---User-must-be-able-to-resolve-the-error)
 - [ADR: 003 - Default tag will be used for launch](#ADR-003---Default-tag-will-be-used-for-launch)
 - [ADR: 004 - The card will be interactive when in the error state](#ADR-004---The-card-will-be-interactive-when-in-the-error-state)
-- [ADR: 005 - Figma update for card error state will be a breaking change](#ADR-005---Figma-update-for-card-error-state-will-be-a-breaking-change)
+- [ADR: 005 - Existing card will be moved to legacy state in Figma](#ADR-005---Existing-card-will-be-moved-to-legacy-state-in-Figma)
 
 
 ## ADR 001 - Cards will not support success, warning, or info states
@@ -108,7 +108,7 @@ This approach ensures screen reader users receive the same information and inter
 ### Open Questions
 N/A
 
-## ADR 005 - Figma update for card error state will be a breaking change
+## ADR 005 - Existing card will be moved to legacy state in Figma
 
 ### Status: Accepted
 
@@ -118,15 +118,17 @@ N/A
 ### Context
 To add an error state to the Figma card component, we have two options:
 1. Duplicate the existing component structure (preserving legacy design patterns)
-2. Issue a new breaking-change version that improves the component's construction for future maintenance
+2. Issue a new version that improves the component's construction for future maintenance
    
 ### Decision
-We will redesign the card component to better align with the coded implementation. This involves:
+We will issue a new version of the card component to better align with the coded implementation. This involves:
 
 1. **Separated concerns:** The new card component will have three visual style variants (border, background, drop shadow) with two states each (default and error)
 2. **Flexible content:** Card content will be either prebuilt options or a flexible option for teams to add custom content
 
 Currently, the component combines content and visual style into single variants. We are separating these concerns to create a more maintainable structure.
+
+We will maintain and support the current card component by renaming it to "Card - Legacy".
 
 
 ### Implementation Plan
@@ -142,5 +144,5 @@ Currently, the component combines content and visual style into single variants.
 - **Communication needed:** We need to determine how and when to communicate this change to teams
 
 ### Open Questions
-- How should we communicate this breaking change to affected teams?
-- What timeline should we establish for the migration period?
+- How should we communicate this change to affected teams? We are providing a new card that provides an error state and is more aligned with the web component. But, if it is swapped with the legacy card, teams will lose any customizations they have made. Plan accordingly. The current card will be renamed to Card - Legacy.
+- Do we want to then eventually deprecate the legacy version.
