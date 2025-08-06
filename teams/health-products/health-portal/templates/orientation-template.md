@@ -17,7 +17,7 @@ If you have questions, don't hesitate to reach out to your OCTO practice lead or
 - [ ] [Watch an overview of My HealtheVet on VA.gov created for Veterans](https://youtu.be/sTQ0dtUDGx0)
    
 - [ ] MHV products
-   - [ ] [Landing page](products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page) / portal experience
+   - [ ] [Landing page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page) / portal experience
    - [ ] [Medical devices and supplies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-devices-and-supplies/product_brief.md)
    - [ ] [Medical Records](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/README.md)
    - [ ] [Medications](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medications/README.md)
