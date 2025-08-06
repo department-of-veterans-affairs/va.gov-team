@@ -1,5 +1,7 @@
 # Key Terms
-Key terms related to the Accredited Representation Management team's work.
+Key terms related to the Accredited Representation Management team's work. 
+
+These terms are used for requesting relevant feedback from the Contact Center, optimizing search results (aka "Best Bets") on VA.gov. 
 
 **Representation**: accredited, representative, representation, power of attorney, poa
 
@@ -7,4 +9,4 @@ Key terms related to the Accredited Representation Management team's work.
 
 **Form**: 21-22, 2122, 21-22a, 2122a
  
-**Related**: claims support (_A helpful key term for Best Bets, but less helpful for qualitative feedback related to our products, as it's too broad._)
+**Related**: claims support (_A helpful key term for Best Bets, but less helpful for Contact Center feedback related to our products, as it's too broad._)
