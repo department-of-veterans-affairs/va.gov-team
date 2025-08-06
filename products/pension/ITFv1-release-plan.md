@@ -46,7 +46,7 @@ As outlined in the [intiative brief](https://github.com/department-of-veterans-a
 
 ### This release will include the following components:
 1. Form component updates 
-2. Info alerts on the form information page letting new users know the purpose and benefit of ITF and next steps when there is a system issue.
+2. Info alerts on the form information page letting new users know the purpose and benefit of ITF and next steps when there is a system issue. 
 ---
 
 ## Step 1: Development
