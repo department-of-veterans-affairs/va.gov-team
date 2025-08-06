@@ -1,4 +1,7 @@
-DO NOT INCLUDE PII HERE - AWS Instances, CI/CD, etc cannot be linked here- must be shared on VA Network
+# Platform Security request for information
+- The team met with the Platform Security team on 8/4/2025.  They are looking for specific information, which we have outlined here.
+
+**DO NOT INCLUDE PII HERE** - AWS Instances, CI/CD, etc cannot be linked here- must be shared on VA Network
 
 - Reach out to #platform-security channel for questions
   POC:
