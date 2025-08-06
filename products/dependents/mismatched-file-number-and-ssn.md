@@ -12,9 +12,10 @@ _BEP expects that a Veteran's or spouse's file number to match their ssn. If the
 
 ## Open questions
 - Are we stripping out hyphens from both ssn and file numbers?
+   - Yes, the 686/674 form strips out hyphens from both numbers
 - Has a request been submitted to BGS to allow ssn and file number to differ?
 - Will the new RESTful API enforce the same ssn = file number limitation?
-- Should we be getting ssn and file number from MPI rather than getting file number from BGS and ssn from MP?
+- Should we be getting ssn and file number from MPI rather than getting file number from BGS and ssn from MPI?
    - This may prevent mismatches We get the file number from BGS via a ```find_person_by_ptcpnt_id``` endpoint, using ```User#participant_id```. ```participant_id``` appears to come from MPI. See [here](https://github.com/department-of-veterans-affairs/vets-api/blob/fd5b5ec2a8a8d14b8cab7a948f4504366823740f/app/models/user.rb#L177).
    - The file # that we'd pull from MPI (given the user's ICN) is the same BIRLS file # that BGS is using. So it would make sense to get our file # from MPI, rather than from BGS. This raises the question: if we get the file # from MPI which we know is the same one that BGS uses, and since in BGS, a nine digit file # is always equal to its corresponding SSN, why wouldn't we just send the file number, as the file number and ssn, to BGS?
    - Source of this info in [this comment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56995#issuecomment-1522405974).
