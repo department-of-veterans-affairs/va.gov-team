@@ -32,7 +32,7 @@ As outlined in the [intiative brief](https://github.com/department-of-veterans-a
       - Unauthenticated Users: Intent to File functionality is not available to unauthenticated users.
       - Authenticated Users: Users may be directed to fill out the updated version (v1) with alerts presented depending on the level of incremental traffic set for the updated version (v1) (25%/100%)
    - After 100% release
-      - Authenticated Users: Users will complete the v1 experience.
+      - Authenticated Users: Users will complete the v1 experience. 
 
 | User Type | Flipper Status | Form in Progress | ITF Version| V1 Info Content Displayed|
 |---|---|---|---|---|
