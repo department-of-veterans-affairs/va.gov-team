@@ -97,38 +97,33 @@ We can’t confirm the address you entered with the U.S. Postal Service. You’l
 
 </details>
 
-LEFT OFF HERE
 
-<details><summary>SHOW_SUGGESTIONS_NO_OVERRIDE | TBD</summary>
+<details><summary>SHOW_SUGGESTIONS_NO_OVERRIDE | Entered address is invalid, but there is a suggested address found</summary>
 
-- **Use case:** TBD
+- **Use case:** User enters an invalid address, but USPS found a suggestion. User can only proceed with the suggestion or go back to edit.
 - **Status code:** TBD
+- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
+- [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3866-12642&t=Ic7TBqjpcULWnUDk-1)
+- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/4b1cb7be2bc1df72d166a85aa88b683ef6b840c8/src/platform/user/profile/vap-svc/constants/addressValidationMessages.js#L69)
 - **Content:**
 
 Header: We can’t confirm the address you entered with the U.S. Postal Service
 
 We can use the suggested address we found. Or, you can go back to edit the address you entered.
 
-- **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
-- [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3123-29741&t=Lec9VMwUOLJiae7J-1)
-- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/4b1cb7be2bc1df72d166a85aa88b683ef6b840c8/src/platform/user/profile/vap-svc/constants/addressValidationMessages.js#L69)
-
 </details>
 
 
-<details><summary>VALIDATION_ERROR | TBD</summary>
+<details><summary>VALIDATION_ERROR | API call fails</summary>
 
-- **Use case:** TBD
-- **Status code:** TBD
+- **Use case:** Triggers when the address validation API call itself fails (e.g., network error, 500 response, or the service can't process the address at all). User is presented with a system error and an option to go back and edit.
+- **Status code:** 500, 502, 503, 504
+- **Format:** [Error alert component](https://design.va.gov/components/alert/#error-alert)
+- [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3866-12640&t=Ic7TBqjpcULWnUDk-1)
+- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/4b1cb7be2bc1df72d166a85aa88b683ef6b840c8/src/platform/user/profile/vap-svc/constants/addressValidationMessages.js#L79)
 - **Content:**
 
-Header: We couldn’t verify your address
-
-We can’t deliver your VA mail to this address because we can’t confirm it with the U.S. Postal Service. Try editing it.
-
-- **Format:** [Error alert component](https://design.va.gov/components/alert/#error-alert)
-- [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3123-29746&t=Lec9VMwUOLJiae7J-1)
-- [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blob/4b1cb7be2bc1df72d166a85aa88b683ef6b840c8/src/platform/user/profile/vap-svc/constants/addressValidationMessages.js#L79)
+We can't update your address information right now. Refresh this page or try again later.
 
 </details>
 
