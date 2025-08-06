@@ -107,8 +107,8 @@ We’re sorry. We couldn’t update your direct deposit bank information because
 
 <details><summary>UpdateAddressError: Invalid address entered</summary>
 
-- **Use case:** User edits their Bank account information, a call is made to match the address, and the information is incorrect. There is no requirement to have valid addresses on file, and this is a legacy event from eBenefits. [More context linked here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/validation-address-phone.md). Alert appears above input fields in Bank account information edit use case.
-- **Status code:** TBD
+- **Use case:** User edits their Bank account information, a call is made to match the address, and the information is incorrect. There is no requirement to have valid addresses on file, and this is a legacy event from eBenefits. [More context linked here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/direct-deposit/use-cases/validation-address-phone.md). Alert appears below header directing user to edit their address, and edit fields disappear.
+- **Status code:** 422
 - **Format:** [Slim error alert component](https://design.va.gov/components/alert/#error-alert)
 - [Link to designs](https://www.figma.com/design/CUR39JNnF2CS8SidGiWmYG/Profile---Direct-Deposit?node-id=2424-3948&t=eM3nXOqLcnsRrXAu-1)
 - [Link to code](https://github.com/department-of-veterans-affairs/vets-website/blame/8bb9e606cbe6ac0d17598e748a550218b5bf3f2f/src/applications/personalization/profile/components/direct-deposit/alerts/UpdateErrorAlert.jsx#L93)

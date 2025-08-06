@@ -32,9 +32,9 @@ As outlined in the [intiative brief](https://github.com/department-of-veterans-a
       - Unauthenticated Users: Intent to File functionality is not available to unauthenticated users.
       - Authenticated Users: Users may be directed to fill out the updated version (v1) with alerts presented depending on the level of incremental traffic set for the updated version (v1) (25%/100%)
    - After 100% release
-      - Authenticated Users: Users will complete the v1 experience.
+      - Authenticated Users: Users will complete the v1 experience. 
 
-| User Type | Flipper Status | Form in Progress | ITF Version| V1 Info Content Displayed|
+| User Type | Flipper Status | Form in Progress | ITF Version| V1 Alert Content Displayed|
 |---|---|---|---|---|
 | Authenticated Users | Disabled | No | v0 | No | No |
 | Authenticated Users | Disabled | Yes, v0 | v0 | No | No |
@@ -46,7 +46,7 @@ As outlined in the [intiative brief](https://github.com/department-of-veterans-a
 
 ### This release will include the following components:
 1. Form component updates 
-2. Info alerts on the form information page letting new users know the purpose and benefit of ITF and next steps when there is a system issue.
+2. Info alerts on the form information page letting new users know the purpose and benefit of ITF and next steps when there is a system issue. 
 ---
 
 ## Step 1: Development
@@ -58,7 +58,7 @@ List the features toggles here.
 | Toggle name | Description |
 | ----------- | ----------- |
 | pension_itf_show_alert | Enable ITF V1 alerts|
-| pension_itf_enable| Enable ITF V1 requests|
+|intent_to_file_synchronous_enabled| Call ITF V0 requests| (turned off once V1 is enabled)
 
 
 

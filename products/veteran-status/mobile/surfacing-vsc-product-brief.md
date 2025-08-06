@@ -75,6 +75,7 @@ O1: VA’s digital experiences are the easiest and most efficient way to access 
 * IIR has a desire for mobile app logging to be separate from the web logging if possible  
 * Notes from IIR/MFS handoff: [here](https://github.com/department-of-veterans-affairs/va-mobile-feature-support/issues/209#issuecomment-2654834565) and [here](https://dsva.slack.com/archives/C07SD9P7XB9/p1739394087892769)  
 * Monitoring for the web app is tracked in \#vet-status-card-alerts
+* [Link](https://github.com/department-of-veterans-affairs/va-mobile-feature-support/blob/art.ariel/mermaid/projects/vsc-api-refactor/README.md) to the API Refactor: Veteran Status Card product brief
 
 ## Solution Approach
 

@@ -45,26 +45,18 @@ The My HealtheVet on VA.gov team’s mission is to simplify Veterans’ health e
 <details>
 <summary>Forthcoming roles joining the team</summary>
 
-|Name|Role|Company Email|VA Email|DSVA Slack|GitHub|
-|------|----|-----|-----|--------|------|
-| starting 8/4 | Mobile Engineer | TBD | TBD | TBD | TBD |
-| starting 8/4 | Full Stack Engineer | TBD | TBD | TBD | TBD |
-| starting 8/4 | Full Stack Engineer | TBD | TBD | TBD | TBD |
-| starting 8/4 | Full Stack Engineer | TBD | TBD | TBD | TBD |
-| starting 8/11 | QA Engineer | TBD | TBD | TBD | TBD |
-| starting 8/11 | Frontend Engineer | TBD | TBD | TBD | TBD |
-| starting 8/11 | Designer | TBD | TBD | TBD | TBD |
-| starting 8/11 | Researcher/Information Architect | TBD | TBD | TBD | TBD |
+|Name - Role|DSVA Slack|
+|------|----|
+| starting 8/11 - QA Engineer | TBD |
+| starting 8/11 - Frontend Engineer | TBD |
+| starting 8/11 - Designer | TBD |
+| starting 8/11 - Researcher/Information Architect | TBD |
 
 </details>
 
 ### Horizon
 This cross-functional group serves as the Company points of contact for the delivery team and manages work that impacts the whole portal. 
 - Slack channel: [#mhv-horizon](https://dsva.slack.com/archives/C05DFSM57FW)
-
-
-### Medical Records
-- Slack channel: [#mhv-medical-records](https://dsva.slack.com/archives/C03Q2UQL1AS)
 
 | Name                | DSVA Slack                                                      |
 |---------------------|-----------------------------------------------------------------|
@@ -76,6 +68,20 @@ This cross-functional group serves as the Company points of contact for the deli
 | Sara Sterkenburg    | [@Sara Sterkenburg](https://dsva.slack.com/team/U045GGS6V25)    |
 | Marcello Antosh     | TBD                                                             |
 | Lauren Ernest       | [@Lauren Ernest](https://dsva.slack.com/team/U01DKQVCEGY)       |
+
+### Medical Records
+- Slack channel: [#mhv-medical-records](https://dsva.slack.com/archives/C03Q2UQL1AS)
+
+| Name                | DSVA Slack                                                      |
+|---------------------|-----------------------------------------------------------------|
+| Marci McGuire       | [@Marci McGuire](https://dsva.slack.com/team/U04K6QYPP6V)       |
+| David Koger         | [davidkoger](https://github.com/davidkoger)                     |
+| Mike Moyer          | [@Mike Moyer](https://dsva.slack.com/team/U03G1ECH00K)          |
+| Ni Chia             | [@Ni Chia](https://dsva.slack.com/team/U07NQDN4WJG)             |
+| Napoleon Kernessant | [@Napoleon Kernessant](https://dsva.slack.com/team/U03US4Z036J) |
+| Aswin Malla         | [@Aswin Malla](https://dsva.slack.com/archives/D0992PS4D0W)     |
+| Elwood Gary         | [@Elwood Gary](https://dsva.slack.com/archives/D096LSQBSDN)     |
+| Liz Townsend        | [@Liz Townsend](https://dsva.slack.com/team/U06059URY69)        |
 
 ### Medications
 During the transition period, the Medications team and Medical Devices team will work closely together to ensure coverage.
@@ -89,21 +95,25 @@ During the transition period, the Medications team and Medical Devices team will
 | Chris Donelson  | TBD                                                         |
 | Cam Keif        | TBD                                                         |
 | Ian Seabock     | [@Ian Seabock](https://dsva.slack.com/team/U06K0HKLX25)     |
+| Langston Payne  | TBD |
+| Andrea Uhr      | TBD |
+| Timothy Powell  | TBD |
 
 ### Messaging
 - Slack channel: [#mhv-secure-messaging](https://dsva.slack.com/archives/C03ECSBGSKX)
 
-| Name            | DSVA Slack                                                 |
-|-----------------|------------------------------------------------------------|
-| Patrick Bateman | [@Patrick](https://dsva.slack.com/team/U04K6QYPP6V)        |
-| Stacy Blackwood | TBD                                                        |
-| Alex Morgun     | [@Alex Morgun](https://dsva.slack.com/team/U03FYHMUG9K)    |
-| Kevin Suarez    | [@Kevin Suarez](https://dsva.slack.com/team/U081A32NU4X)   |
-| Adam Stoler     | TBD                                                        |
-| Jason Congliari | TBD                                                        |
-| Clint Wilde     | [@Clint Wilde](https://dsva.slack.com/team/U04JMFT4NUE)    |
-| Mario Williams  | TBD                                                        |
-| Jayson Perkins  | [@Jayson Perkins](https://dsva.slack.com/team/U01A8SZCMHA) |
+| Name             | DSVA Slack                                                         |
+|------------------|--------------------------------------------------------------------|
+| Patrick Bateman  | [@Patrick](https://dsva.slack.com/team/U04K6QYPP6V)               |
+| Stacy Blackwood  | [@Stacy Blackwood](https://dsva.slack.com/archives/D098WLHCP4J)   |
+| Alex Morgun      | [@Alex Morgun](https://dsva.slack.com/team/U03FYHMUG9K)           |
+| Kevin Suarez     | [@Kevin Suarez](https://dsva.slack.com/team/U081A32NU4X)          |
+| Adam Stoler      | [@Adam Stoler](https://dsva.slack.com/archives/D0992PZM4SJ)       |
+| Jason Conigliari | [@Jason Conigliari](https://dsva.slack.com/team/U097UBH593M)      |
+| Clint Wilde      | [@Clint Wilde](https://dsva.slack.com/team/U04JMFT4NUE)           |
+| Mario Williams   | TBD                                                               |
+| Jayson Perkins   | [@Jayson Perkins](https://dsva.slack.com/team/U01A8SZCMHA)        |
+| Sofia Cordero    | TBD |
 
 ### Medical Devices and Supplies
 - Slack channel: [#vagov-supply-reordering](https://dsva.slack.com/archives/C05DFSM57FW)
@@ -113,7 +123,7 @@ During the transition period, the Medications team and Medical Devices team will
 | Marci McGuire | [@Marci McGuire](https://dsva.slack.com/team/U04K6QYPP6V) |
 | Mark Carter   | [@Mark Carter](https://dsva.slack.com/team/U081CKD47FZ)   |
 | Amy Cashbaugh | [@Amy Cashbaugh](https://dsva.slack.com/team/U095KDN5UR1) |
-| Geoff Winner  | TBD                                                       |
+| Geoff Winner  | [@Geoff Winner](https://dsva.slack.com/team/U09908QFJRW)  |
 
 During the transition period, the Medications team and Medical Devices team will work closely together to ensure coverage.
 
@@ -202,11 +212,12 @@ During the transition period, the Medications team and Medical Devices team will
  
 ### Shared Services
  
-| Name                                                           | DSVA SLACK |
-|----------------------------------------------------------------|------------|
-| Rajasree Venkatesh                                             |            |
-| Stephen Orleski                                                |            |
-| Thomas Michaud                                                 |            |
+| Name                                                           | DSVA SLACK  |
+|----------------------------------------------------------------|------------ |
+| Rajasree Venkatesh                                             |             |
+| Stephen Orleski                                                |             |
+| Thomas Michaud                                                 |             |
+| Angela Chen                                                    | @Angela Chen |
 
 ## Partner Teams  [WIP - BEING UPDATED]
 
@@ -254,7 +265,7 @@ Crew lead: Dave Conlon
 The My HealtheVet portal team's main focus for the past several years has been rebuilding the standalone My HealtheVet patient health portal (currently referred to as My HealtheVet Classic) and integrating it into VA.gov. 
 - [Health Apartment history](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/history-of-mhv-on-va.gov/health-apartment-overview.md)
 - [Product brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/product/product-brief.md).  My HealtheVet on VA.gov is comprised of several distinct products, which includes specific subsets of features that lend themselves to the the mobile app:
-- [Horizon (MHV portal experience)]
+- Horizon (MHV portal experience)
    - [Landing page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/landing-page)
 - [Medical records](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records)
 - [Medical devices and supplies](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-devices-and-supplies/README.md)

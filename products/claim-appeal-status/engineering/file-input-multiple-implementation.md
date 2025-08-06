@@ -68,15 +68,8 @@ As a user,
 1. If I submit a file that has already been successfully submitted, I get an error saying that it has been submitted already
 
 ## User Stories that are not yet covered (Add Github issue)
-1. If I submit the same file 2 times in the same Multiple File Input, I get an error message before being able to submit
-    - Current: The duplicate backend check only checks the currently submitting file against the previous documents filed and allows the multiple duplicates
-1. If I submit files A and B and A has already been successfully submitted previously, I get an error message for A saying that it has already been successfully submitted and I get a success message for B. Both are removed from the files listed in the mutliple file input (But is there a way they could turn a unprocessable entity into prcoessable and therefore we shouldn't remove it?). Documents with wrong PDF passwords should remain. 
-    - Current: Displays the duplicate error alert and though it successfully uploades the other file it does not show its success alert
-    - Current: Duplicate error message is displayed at the top of the page and not scrolled to (it was meant to be scrolled to)
-    - Current: Keeps the duplicate file amongst the files listed in the mutliple file input
-    - Current: If there are mutliple duplicate files it just mentions the first one.
-    - What about other status codes? It would be good if 500s and wrongs password's stayed in the files listed in the mutliple file input and included a message why they couldnt be uploaded (the 500 error / come back at another time)
-    - Benefit: This change would drastically reduce 422s
+1. If I submit the same file 2 times in the same Multiple File Input, I get an error message before being able to submit. - [CST] [BUG] Inconsistent duplicate file name validation between simultaneous and sequential uploads [#115523](https://github.com/department-of-veterans-affairs/va.gov-team/issues/115523)
+1. If I submit files A and B and A has already been successfully submitted previously, I get an error message for A saying that it has already been successfully submitted and I get a success message for B. Both are removed from the files listed in the multiple file input. Documents with wrong PDF passwords should remain. - [CST] [BUG] Duplicate Error Alert is Suppressing Success Alert [#115934](https://github.com/department-of-veterans-affairs/va.gov-team/issues/115934)
 
 ## User Stories Handled by VaFileInputMultiple component
 - I see a label with a hint with the allowed file types and size  

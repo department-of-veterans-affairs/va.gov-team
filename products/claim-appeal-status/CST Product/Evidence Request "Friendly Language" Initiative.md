@@ -18,8 +18,15 @@ before sending it out to the client. This behavior is managed by a feature flipp
 - [The mapping lives here](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/lighthouse/benefits_claims/constants.rb).
 - [The service overrides live here](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/lighthouse/benefits_claims/service.rb#L43).
 
-From a **frontend** perspective, we are builing a dictionary to store the longDescription, nextSteps and isProperNoun for each updated evidence content. The page that is displaying evidence is already updated to read through the dictionary. New updated evidence content will just need to be added to the dictionary.
+From a **frontend** perspective, we are builing a dictionary to store the longDescription, nextSteps, isProperNoun, noActionNeeded and isSensitive for each updated evidence content. The page that is displaying evidence is already updated to read through the dictionary. New updated evidence content will just need to be added to the dictionary.
 
 - [Dictionary lives here](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/claims-status/utils/evidenceDictionary.jsx).
-- [Affected screen here](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/claims-status/components/claim-document-request-pages/DefaultPage.jsx)
-  (https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/claims-status/components/claim-files-tab/FilesNeeded.jsx).
+- Affected screens:  
+  [Default page](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/claims-status/components/claim-document-request-pages/DefaultPage.jsx)
+  [File needed block](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/claims-status/components/claim-files-tab/FilesNeeded.jsx)
+  [File optional block](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/claims-status/components/claim-files-tab/FilesOptional.jsx)
+  [Recent Activity section](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/claims-status/components/claim-status-tab/RecentActivity.jsx)
+
+## Update
+
+The `cst_friendly_evidence_requests` is removed. For future evidence request content update will just add to the mapping in backend and frontend.
