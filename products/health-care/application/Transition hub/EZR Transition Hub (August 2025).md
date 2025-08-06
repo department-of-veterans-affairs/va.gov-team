@@ -23,9 +23,11 @@
 ## **Product context**
 
 The 10-10EZR form is designed to allow Veterans to easily update their VA health care information online. This ensures that their records are current, enabling timely and accurate benefits administration. Our ongoing work focuses on enhancing the user experience and ensuring seamless data flow for these crucial updates.
+* EZR form went online at 100% on April 11, 2024 (phased launch from December 2023)
 * Used by Veterans to update their VA health care information.
 * Averaging approximately 4,500 submissions per month.
 * This form requires VA.gov authentication to access it and submit updates.
+* Housed under the va.gov/my-health (MHV on VA.gov) umbrella
 
 
 ### **Product portfolio**
