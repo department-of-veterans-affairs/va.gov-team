@@ -5,6 +5,11 @@ _BEP expects that a Veteran's or spouse's file number to match their ssn. If the
 - There are some legitimate cases where ssn and file number may differ
 - There are some issues with the Master Person Index (MPI) where ssn (only?) may be incorrect on a Veteran's account and needs to be manually fixed
 
+## Remediation
+- VA.gov gets file numbers from BGS, and BGS sometimes returns a file number with dashes. [Work was done](https://github.com/department-of-veterans-affairs/vets-api/pull/12530) in 2023 to strip out dashes from all file numbers, so more file numbers matched ssn (which also had dashes stripped out)
+- [Logs were added](https://github.com/department-of-veterans-affairs/vets-api/pull/12530) in 2023 to capture instances where file and ssn did not match. The intent was to create a DataDag dashboard and send this report to MPI, so they could investigate and remediate mismatches, but the dashboard and report were never created.
+- Work was done in 2023 to ensure claims with this issue were submitted through the backup pathway (Central Mail), so they would no long be silent failures
+
 ## Open questions
 - Are we stripping out hyphens from both ssn and file numbers?
 - Has a request been submitted to BGS to allow ssn and file number to differ?
@@ -19,6 +24,9 @@ _BEP expects that a Veteran's or spouse's file number to match their ssn. If the
 ## Suggested course of action
 See https://github.com/department-of-veterans-affairs/va.gov-team/issues/56995#issuecomment-1532129932. File # / SSN mismatches are a big, complicated, systemic issue. IMO, the best we can do is:
 1. Report them to MPI to resolve. See https://github.com/department-of-veterans-affairs/va.gov-team/issues/57798. 
+   - Create a DataDog dashboard to monitor the logs introduced by [these logs](https://github.com/department-of-veterans-affairs/vets-api/pull/12530)
+   - Determine who to contact at MPI to report the instances of bad file/ssn
+   - Figure out why the exsiting logs are not catching [File # formatting issues](http://sentry.vfs.va.gov/organizations/vsp/discover/results/?environment=production&field=message&field=error.value&name=Top+Errors&project=3&query=%28+controller_name%3Adependents_applications+OR+SubmitForm686cJob+OR+SubmitForm674Job+OR+job%3ABGS%3A%3ASubmitForm686cJob+OR+job%3ABGS%3A%3ASubmitForm674+%29+level%3Aerror+AND+%21message%3A%2Aget_dependents%2A+message%3A%22ORA-12899%3A+value+too+large+for+column+%5C%22CORPPROD%5C%22.%5C%22VNP_PERSON%5C%22.%5C%22FILE_NBR%5C%22+%28actual%3A+10%2C+maximum%3A+9%29+Sidekiq%2FBGS%3A%3ASubmitForm686cJob%22+error.value%3A%22%22&sort=-message&statsPeriod=7d&widths=-1&widths=-1) and [File # / SSN mismatch issues](http://sentry.vfs.va.gov/organizations/vsp/discover/results/?environment=production&field=message&field=error.value&name=Top+Errors&project=3&query=%28+controller_name%3Adependents_applications+OR+SubmitForm686cJob+OR+SubmitForm674Job+OR+job%3ABGS%3A%3ASubmitForm686cJob+OR+job%3ABGS%3A%3ASubmitForm674+%29+level%3Aerror+AND+%21message%3A%2Aget_dependents%2A+message%3A%22ORA-20099%3A+Error+-+File+Number+and+Social+Security+number+are+different%0AORA-06512%3A+at+%5C%22CORPPROD.RBI_VNP_PERSON%5C%22%2C+line+69%0AORA-04088%3A+error+during+execution+of+trigger+%27CORPPROD.RBI_VNP_PERSON%27+Sidekiq%2FBGS%3A%3ASubmitForm686cJob%22+error.value%3A%22%22&sort=-message&statsPeriod=7d&widths=-1&widths=-1).
 2. Fail loudly when we discover a File # / SSN mismatch before jobs are enqueued; and render an appropriate error on the front-end and/or send an error notification email, instructing the veteran to contact VA for support.
 3. Confirm that error notification emails are sent to veterans when we discover a File # / SSN mismatch while one of our jobs are running.
 
