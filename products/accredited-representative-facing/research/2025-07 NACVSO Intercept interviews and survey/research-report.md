@@ -47,7 +47,7 @@ Also, our recommendations are limited to the selected interview topics, which ar
 
 | Recommendation | General priority  High = next 6 months  Low = 6 months or more |  
 | --- | --- |
-| **Plan for communication of ARP with state and county associations** as well as Regional Offices. If possible, include any known expectations of when 21-686c would be auto-established and discuss priority of auto-establishing 21-686c | High |
+| **Plan for communication of ARP with state associations** as well as Regional Offices. If possible, include any known expectations of when 21-686c would be auto-established and discuss priority of auto-establishing 21-686c | High |
 | **Understand POA access problem space for claims agents and attorneys and ensure that the solution meets their needs.** Continue to improve login access for all accredited representatives. | High |
 | While we still see a variety of workflows related to permissions, we **gained a little more confidence in our decision to deprioritize permissions-related features**. | Low |
 | When cross-accredited, **CVSOs decide which organization should hold POA based on needs of Veterans** and whether or not **their organization needs this information**. There does not appear to be an established standard of practice. | To discuss |
