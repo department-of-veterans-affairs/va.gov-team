@@ -1,9 +1,9 @@
 # Issue Brief: Mismatched file number and ssn 
 
-_BEP expects that a Veteran's or spouse's file number to match their ssn. If the two do not match, BEP rejects the claim and throws an error (`ORA-20099: Error - File Number and Social Security number are different ORA-06512: at "CORPPROD.RBI_VNP_PERSON", line 69 ORA-04088: error during execution of trigger 'CORPPROD.RBI_VNP_PERSON'`)._
+_BEP expects that a Veteran's or spouse's file number submitted in a 21-686c or 21-674 form on Va.gov matches their ssn. If the two do not match, BEP rejects the claim and throws an error (`ORA-20099: Error - File Number and Social Security number are different ORA-06512: at "CORPPROD.RBI_VNP_PERSON", line 69 ORA-04088: error during execution of trigger 'CORPPROD.RBI_VNP_PERSON'`)._
 
 - There are some legitimate cases where ssn and file number may differ
-- There are some issues with the Master Person Index (MPI) where ssn (only?) may be incorrect on a Veteran's account and needs to be manually fixed
+- There are some issues with the Master Person Index (MPI) where ssn or file number may be incorrect on a Veteran's account and needs to be manually fixed
 
 ## Remediation Efforts
 - VA.gov gets file numbers from BGS, and BGS sometimes returns a file number with dashes. [Work was done](https://github.com/department-of-veterans-affairs/vets-api/pull/12530) in 2023 to strip out dashes from all file numbers, so more file numbers matched ssn (which also had dashes stripped out)
