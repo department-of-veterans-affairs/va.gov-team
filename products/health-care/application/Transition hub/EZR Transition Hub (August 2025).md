@@ -88,6 +88,7 @@ This roadmap reflects current priorities and efforts for the 10-10EZR applicatio
 ## **Features and initiatives we worked on**
 
 This table details recent and ongoing features and initiatives specifically for the 10-10EZR application, along with their current status.
+https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/health-update-form/10-10EZR%20Form/Work%20In%20Progress.md
 
 | Product | Initiative                                      | Status                                   |
 |---------|-------------------------------------------------|------------------------------------------|
@@ -128,19 +129,19 @@ The current 10-10 Health Apps team roster includes:
 
 **HEC (Health Eligibility Center) Program Team**
 * Bryan Burgan | Bryan.burgan@va.gov -- VHA Member Services Publications Control Officer - Main POC
-* Ambroja Watson | ambroja.watson@va.gov -- Veteran Experience Officer, HEC - 2nd POC
-* Stacey Echols | stacey.echols@va.gov -- Director, HEC
+* Ambroja Watson | ambroja.watson@va.gov -- Veteran Experience Officer, HEC
 * Amanda Scully | amanda.scully@va.gov -- Deputy Director, HEC
+* Shana Watson | shana.watson@va.gov -- Member Services SME
+* Simone Gully | simone.gully@va.gov -- Member Services SME
+* Angela Fulton | angela.fulton@va.gov -- Member Services SME
+* Tiffany Gaines | tiffany.gaines@va.gov -- Member Services SME
 * Zachariah Bell | zachariah.bell@va.gov -- Acting ECM Supervisory Program Specialist
 * Cheylanda Griffith | cheylanda.griffith@va.gov -- Supervisory Program Specialist
 * Kimberly Bostic | Kimberly.Bostic@va.gov -- Associate Director, QA division HEC
 * Lindsey Peace | Lindsey.Peace@va.gov -- Assistant Associate Director, Income Verification division
 * Jessica Soza | Jessica.Soza@va.gov -- Management & Program Analyst, BSO Business Policy (Paper forms)
 * Annie Rice | Annie.Rice@va.gov -- Contact Representative office
-* Shana Watson | shana.watson@va.gov -- Member Services SME
-* Simone Gully | simone.gully@va.gov -- Member Services SME
-* Angela Fulton | angela.fulton@va.gov -- Member Services SME
-* Tiffany Gaines | tiffany.gaines@va.gov -- Member Services SME
+
 
 **Enrollment System (ES) (End-to-End Testing POCs)**
 * Joshua Faulkner | joshua.faulkner@va.gov - Technical Director, EHBD (Enrollment system)
@@ -165,4 +166,4 @@ This section is for any outstanding specific questions, unresolved issues, or ta
 * **Stakeholder Engagements:** Confirming open action items from recent stakeholder meetings with HEC, ES, and other relevant teams.
 * **Research Follow-ups:** Any pending decisions or next steps from recent research findings or discoveries.
 * **Technical Debt/Maintenance:** Identifying any known technical debt items specific to 10-10EZR that may need future attention.
-* **Ad-hoc Requests:** Any immediate, unprioritized requests that have come in.
+* **Unplanned Requests:** Any immediate, unprioritized requests that have come in.
