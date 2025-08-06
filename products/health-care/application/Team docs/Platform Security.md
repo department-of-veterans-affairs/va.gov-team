@@ -1,10 +1,11 @@
 # Platform Security request for information
 - The team met with the Platform Security team on 7/28/2025.  They are looking for specific information, which we have outlined here.
 
-**DO NOT INCLUDE PII HERE** - AWS Instances, CI/CD, etc cannot be linked here- must be shared on VA Network
-
 - Reach out to #platform-security channel for questions
      - POC: Kenneth Mayo
+  
+**DO NOT INCLUDE PII HERE** - AWS Instances, CI/CD, etc cannot be linked here- must be shared on VA Network
+
 
 ### Products
 - What is the name of your product(s)/system(s)?
@@ -19,14 +20,16 @@
      - 10-10EZR
           - This is an online form for Veterans, who are enrolled in VA health care, to provide updates to their personal information on their health record, such as income and deductibles, marital status/spouse information, dependents, next of kin, emergency contact, private health insurance.
      - 10-10CG
-          - This is an online form for Veterans and their caregivers to fill out and submit with the intention of enrolling in the PCAFC program (to support caregivers while they provide care for Veterans)
+          - This is an online form for Veterans and their caregivers to fill out and submit with the intention of enrolling in the PCAFC program (For the VA to support caregivers while they provide care for Veterans)
 
 - If you represent multiple products, please describe the relationship between them, if there is any.
      - There is no direct relationship between the products themselves. They are not reliant on each other.
      - The 10-10EZ and 10-10EZR both do connect through vets-api to VES (Veteran Enrollment System) and the forms themselves are very similar in structure, for the sake of consistency.
+          - However, this connection is not dependent between the forms.
 
 - What is the expected duration of your project? This information helps us understand how our processes need to adapt
      - Our project (contract) is set to end 8/13/2025.
+          - Pending news of a bridge contract to take affect immediately and lasting until May 2026.
      - Our products are intended to remain on VA.gov indefinitely
 
 ### AWS Resources
