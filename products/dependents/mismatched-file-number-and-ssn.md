@@ -5,7 +5,7 @@ _BEP expects that a Veteran's or spouse's file number to match their ssn. If the
 - There are some legitimate cases where ssn and file number may differ
 - There are some issues with the Master Person Index (MPI) where ssn (only?) may be incorrect on a Veteran's account and needs to be manually fixed
 
-## Remediation
+## Remediation Efforts
 - VA.gov gets file numbers from BGS, and BGS sometimes returns a file number with dashes. [Work was done](https://github.com/department-of-veterans-affairs/vets-api/pull/12530) in 2023 to strip out dashes from all file numbers, so more file numbers matched ssn (which also had dashes stripped out)
 - [Logs were added](https://github.com/department-of-veterans-affairs/vets-api/pull/12530) in 2023 to capture instances where file and ssn did not match. The intent was to create a DataDag dashboard and send this report to MPI, so they could investigate and remediate mismatches, but the dashboard and report were never created.
 - Work was done in 2023 to ensure claims with this issue were submitted through the backup pathway (Central Mail), so they would no long be silent failures
