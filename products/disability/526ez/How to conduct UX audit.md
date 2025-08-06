@@ -18,9 +18,10 @@ This documentation will help ensure consistency in how we evaluate the UX of the
 ## Overview of Steps
 1. Access staging
 2. Understand "Bugs vs. UX Issues" and determine what kind of audit you will be conducting.
-4. Determine which form Step(s) you will be auditing
+4. Determine which (a) form Step(s) and (b) which conditional pathways you will be auditing
 5. Audit your sections and make sure to track which conditional responses you are selecting as a user on the *526 Active Form Audit Map*.
-6. Create tickets for the issues you found using the *Bug Ticket Template* or the *UX Issue Template*
+6. Create tickets for the issues you found using the **Bug Ticket Template** or the **UX Issue Template**
+7. Document on the **526 Active Form Audit Map** and **Audit Spreadsheet** which Steps and conditional pathways you audited 
 
 ### 1. Access Staging
 In order to test, testers need to access the form in Staging.
@@ -53,4 +54,25 @@ In order to test, testers need to access the form in Staging.
 | **Ticket Template**   | Bug Ticket Template                                         | UX Issue Ticket Template 
 
 
+### 4. Determine Which Form Steps You Will Be Audting
+| **Form Section**      | **Subprocesses** | **Conditional Reponses** |
+|------------------------|----------------------|--------------------------|
+| **Intro, Intent to File** |None                 |
+| **Step 1: Veteran Details** |☐ Homeless Process <br>☐ Military Service History Process | 
+| **Step 2: Conditions**      |☐ Toxic Exposure                | ☐ Prisoner of War <br> ☐ Additional Disability Benefits |             
+| **Step 3: Mental Health**             |                 |                 |          | ☐          | ☐           | ☐          | ☐        |                 |
+| **Step 4: Supporting Evidence**             |                 |                 |          | ☐          | ☐           | ☐          | ☐        |                 |
+| **Step 5: Additional Information**             |                 |                 |          | ☐          | ☐           | ☐          | ☐        |                 |
+| **Step 6: Review and Submit**  |                 |                 |          | ☐          | ☐           | ☐          | ☐        |                 |
+
+### 4. [WIP] Sign up sheet
+| **Form Section**       | **Bug or UX Issue Audit** | **Subprocesses** | **Browser** | 
+|------------------------|-----------------|-----------------|----------|
+| **Intro, Intent to File** |None                 |                 |          | ☐          | ☐           | ☐          | ☐        |                 |
+| **Step 1: Veteran Details** |☐ Bug Audit <br>☐ UX Issue Audit|☐ Homeless Process <br>☐ Military Service History Process | ☐ Chrome<br>☐ Firefox <br>☐ Safari <br>☐ Other |
+| **Step 2: Conditions**             |                 |                 |          | ☐          | ☐           | ☐          | ☐        |                 |
+| **Step 3: Mental Health**             |                 |                 |          | ☐          | ☐           | ☐          | ☐        |                 |
+| **Step 4: Supporting Evidence**             |                 |                 |          | ☐          | ☐           | ☐          | ☐        |                 |
+| **Step 5: Additional Information**             |                 |                 |          | ☐          | ☐           | ☐          | ☐        |                 |
+| **Step 6: Review and Submit**  |                 |                 |          | ☐          | ☐           | ☐          | ☐        |                 |
 
