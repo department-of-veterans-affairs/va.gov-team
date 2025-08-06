@@ -52,6 +52,8 @@ This product fits into the [Veteran journey](https://github.com/department-of-ve
 - `Getting Out`
 - `Starting Up`
 - `Taking Care of Myself`
+- `Reinventing myself`
+- `Putting down roots`
 
 ## Research Goals 🥅	
 `What are you trying to learn from this research?` 
