@@ -7,20 +7,24 @@ _BEP expects that a Veteran's or spouse's file number to match their ssn. If the
 
 ## Remediation Efforts
 - VA.gov gets file numbers from BGS, and BGS sometimes returns a file number with dashes. [Work was done](https://github.com/department-of-veterans-affairs/vets-api/pull/12530) in 2023 to strip out dashes from all file numbers, so more file numbers matched ssn (which also had dashes stripped out)
-- [Logs were added](https://github.com/department-of-veterans-affairs/vets-api/pull/12530) in 2023 to capture instances where file and ssn did not match. The intent was to create a DataDag dashboard and send this report to MPI, so they could investigate and remediate mismatches, but the dashboard and report were never created.
+- [Logs were added](https://github.com/department-of-veterans-affairs/vets-api/pull/12530) in 2023 to capture instances where file and ssn did not match. The intent was to create a DataDag dashboard and send this report to MPI, so they could investigate and remediate mismatches, but the dashboard and report were never created. The logs were removed in March 2024. 
 - Work was done in 2023 to ensure claims with this issue were submitted through the backup pathway (Central Mail), so they would no long be silent failures
+- The Identity Team monitors for bad ssn where the ssn in the Veteran's verified credential does not match the ssn that is stored in MPI. In those cases, the Identity Team blocks the Veteran from logging in to VA.gov and instructs the Veteran to contact the Contact Center. The Identity Team compiles a report of these cases and sends that report to MPI for resolution. If the Veteran also reports the issue, the mismatch in ssn could be resolved in a few days. It's unclear how long the cases in the list the Identity Team take MPI to resolve (if ever).
 
 ## Open questions
 - Are we stripping out hyphens from both ssn and file numbers?
    - Yes, the 686/674 form strips out hyphens from both numbers
 - Has a request been submitted to BGS to allow ssn and file number to differ?
 - Will the new RESTful API enforce the same ssn = file number limitation?
+   - Ivan Vanegas indicated that he anticipates the RESTful API service will enforce the same validation as BEP (Aug 6, 2025)
 - Should we be getting ssn and file number from MPI rather than getting file number from BGS and ssn from MPI?
-   - This may prevent mismatches We get the file number from BGS via a ```find_person_by_ptcpnt_id``` endpoint, using ```User#participant_id```. ```participant_id``` appears to come from MPI. See [here](https://github.com/department-of-veterans-affairs/vets-api/blob/fd5b5ec2a8a8d14b8cab7a948f4504366823740f/app/models/user.rb#L177).
+   - This may prevent mismatches. We get the file number from BGS via a ```find_person_by_ptcpnt_id``` endpoint, using ```User#participant_id```. ```participant_id``` appears to come from MPI. See [here](https://github.com/department-of-veterans-affairs/vets-api/blob/fd5b5ec2a8a8d14b8cab7a948f4504366823740f/app/models/user.rb#L177).
    - The file # that we'd pull from MPI (given the user's ICN) is the same BIRLS file # that BGS is using. So it would make sense to get our file # from MPI, rather than from BGS. This raises the question: if we get the file # from MPI which we know is the same one that BGS uses, and since in BGS, a nine digit file # is always equal to its corresponding SSN, why wouldn't we just send the file number, as the file number and ssn, to BGS?
    - Source of this info in [this comment](https://github.com/department-of-veterans-affairs/va.gov-team/issues/56995#issuecomment-1522405974).
-- Do we have to send both file number and ssn to BGS? per Danny Reed (MPI), VA.gov only needs to send one or the other.
-- Does VA.gov need to update the claim creation flow? Danny said that the 686c/BGS code is using outdated APIs and using an outdated flow. For instance, we shouldn't be creating person records in the first place (this issue stems from a failed person creation attempt)
+- Do we have to send both file number and ssn to BGS?
+   - Per Danny Reed (MPI), VA.gov only needs to send one or the other.
+- Does VA.gov need to update the claim creation flow?
+   - Danny said that the 686c/BGS code is using outdated APIs and using an outdated flow. For instance, we shouldn't be creating person records in the first place (this issue stems from a failed person creation attempt)
 
 ## Suggested course of action
 See https://github.com/department-of-veterans-affairs/va.gov-team/issues/56995#issuecomment-1532129932. File # / SSN mismatches are a big, complicated, systemic issue. IMO, the best we can do is:
@@ -39,6 +43,8 @@ Another thought, it would be great if we could somehow preemptively inform VA ca
 - File numnber and SSN match
 
 ## File number
+- The file number for 686/674 is pulled from BGS/BEP and is the same as BIRLS.
+- File number could also be pulled from MPI (BGS uses the same file number that BGS uses).
 - There are four or five variations of what a file number might be, and only one variation would match SSN. Depends on age of Veteran and when they served. This is less and less relevant, it was mostly before Vietnam era that the numbers deviated.
 - Currently, downstream system (BGS) enforces that these numbers be the same
 - (Sensitive file won’t impact their file number)
