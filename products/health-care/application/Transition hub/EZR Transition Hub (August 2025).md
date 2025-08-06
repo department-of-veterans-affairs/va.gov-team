@@ -78,12 +78,13 @@ This roadmap reflects current priorities and efforts for the 10-10EZR applicatio
 
 **Next:** 
 * [V2 - Confirmation Flow: Insurance section](https://github.com/department-of-veterans-affairs/va.gov-team/issues/104121)
+* [Add Military History to EZR](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77527) - NEED INITIATIVE BRIEF
 
 **Later:**
-* International Phone number
+* [International Phone number](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106955)
 
 **Descoped:** *
-* Mobile integration - need to revisit this
+* [Mobile integration](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103829) - need to revisit this
 
 ## **Features and initiatives we worked on**
 
