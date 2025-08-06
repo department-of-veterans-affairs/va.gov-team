@@ -37,7 +37,7 @@ Subtext to mention where the edited prefilled information is updated
 
 **6. What data will VHA need to ensure they are processing the payments submitted correctly?**
 Adding to this list as we learn more:
-- Inidcation if the copay is from a legacy VistA and/or EHR Millennium Site (aka Cerner)
+- Indication if the copay is from a legacy VistA and/or EHR Millennium Site (aka Cerner)
 
 **7. Is the Veteran required to pay a copay in full?**
 - Yes. CFR regulations establish copayment charges and a veteran upon enrolment will agree to pay appropriate copayment charges. The full amount of a copayment charge is due on the due date noted in the patient’s initial Notice of Indebtedness (NOI), which is the patient statement. However if a Veteran was approved for a Repayment Plan; then they would pay the approved amount.
