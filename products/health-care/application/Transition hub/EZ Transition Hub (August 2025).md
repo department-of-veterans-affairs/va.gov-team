@@ -44,7 +44,7 @@ The 10-10EZ: Application for VA health care was one of the first applications to
 
 ### **Product artifacts**
 * [Page/User flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1711487613901/3f988d8dd69c59340e4b850ef5caf362fa490927)
-* [Figma file](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=0-1&t=zGqPQ71Gdv4QrpPj-1) with wireflows and page designs (including proposals and experiments)
+* [UX folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/ux-team) with links and information
 * [Staging users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
 * [Various form info](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/10-10EZ%20Form)
 
