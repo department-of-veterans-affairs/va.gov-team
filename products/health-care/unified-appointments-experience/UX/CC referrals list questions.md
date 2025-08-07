@@ -1,7 +1,9 @@
-# Community Care – Displaying All Referrals
-Post-Pilot Online Scheduling Discovery
+# Expanding community care referrals list to display all referrals
 
-Questions for IVC:
+## Context
+We now have the ability to add all community care (CC) referrals into the referrals and requests page, and need to design for this scenario where some referrals shown might not have online scheduling. We are in the discovery phase of this process and have questions about the referal statuses (e.g. what are all the cases that would result in a referal being removed from the list??), the Veteran experience (e.g. do they get notifications about referral status changes?) and back-end processes (e.g. what is staff's process to handle referrals? Would it complicate their process if we provided a number for Veterans to call to schedule, rather than wait for staff to call them?). Below are some questions we'd like to discuss with IVC.
+
+## Questions for IVC
 - If an appointment can't be scheduled online, Veterans are told that their provider will reach out to them. However, we'd like to give them an option to take proactive steps, rather than wait passively. Are there any issues with us providing the CC provider phone number (or another number to call) if they feel that they've waited too long, or are antsy to schedule the appointment?
   - If Veterans must wait to be contacted, what actions can they take in the meantime (if any)?
 - Currently, when a Veteran schedules the first appointment from the referral, that referral disappears. How are additional appointments scheduled from that referral? Does the provider call to schedule? 
