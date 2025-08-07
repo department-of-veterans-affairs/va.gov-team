@@ -1,6 +1,9 @@
 # Accreditation API - Read Me
 
 ## Recommended Next Steps
+[Accreditation API remaining work before and after intergration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/accreditation-api/accreditation_api_work_remaining.md)
+
+Related epic with refined tickets: [ARM Development: Accreditation API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97341)
 
 ## Supporting Documentation
 1. [Release Plan: Accreditation API Integration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/accreditation-api/release-plan-accreditation-api.md)
