@@ -36,7 +36,7 @@ As a supporting form for claims, many users receive follow ups via email or othe
 
 
 **1) Submit a pension or DIC income and asset statement - New**
-- URL: https://www.va.gov/supporting-forms-for-claims/submit-income-and-asset-statment-form-21p-0969/
+- URL: https://www.va.gov/supporting-forms-for-claims/submit-income-and-asset-statement-form-21p-0969/
 - Breadcrumb: VA.gov home > Supporting forms for VA claims > Submit a pension or DIC income and asset statement
 - Notes: 
 
@@ -53,7 +53,7 @@ Teams must launch with at least one entry point that allows site visitors to nav
     - Placement on page to be determined by content team
   - Link details
     - Link label: Supporting content and link label to be determined by Centralized content 
-    - Link destination: /supporting-forms-for-claims/submit-income-and-asset-statment-form-21p-0969/
+    - Link destination: /supporting-forms-for-claims/submit-income-and-asset-statement-form-21p-0969/
   - Notes:
     - Who will update: Content team representative, currently Juliana Jara is working directy with this team
     - When will this entry point go live: A section will be added prior to launch with a link to download the form. A link to the live online form will be added in coordination with the launch.
