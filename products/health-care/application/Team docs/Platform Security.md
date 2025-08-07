@@ -84,11 +84,12 @@
      - Google Analystics (GA)|(External)
      - PagerDuty|(External)
      - Domo|(External)
-     - Veterans Enrollment System |(Internal)
+     - Veteran Enrollment System |(Internal)
      - BEP (Formerly called BGS) |(Internal)
      - VA Lighthouse |(Internal)
 - Do you have a POC? Please list
 - Describe the encryption used for the connection in transit (e.g., Not Encrypted, TLS 1.2, TLS 1.3, mTLS). Specify the certificate source if applicable (e.g., AWS ACM, Let's Encrypt, self-signed)
+     - Veteran Enrollment System uses mTLS for the SOAP api. Platform has more info on where certs are stored. I know va.gov uses TLS 1.2 for most connections so most other calls to REST apis use that. 
 - List the types of PII shared (in each direction) with this connection
      - https://github.com/department-of-veterans-affairs/vets-json-schema/blob/f1c0e22c567c1ae861dba2b1682ef5a633e48a9d/src/schemas/10-10EZ/schema.js
      - https://github.com/department-of-veterans-affairs/vets-json-schema/tree/f1c0e22c567c1ae861dba2b1682ef5a633e48a9d/src/schemas/10-10EZR
