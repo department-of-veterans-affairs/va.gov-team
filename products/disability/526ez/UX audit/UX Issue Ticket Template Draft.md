@@ -18,3 +18,12 @@ Where in the form is it located or which sections does it affect?
 - [ ] **Step 3:** Mental Health
 - [ ] **Step 4:** BDD Process
 - [ ] **Step 5:** Additinoal Information 
+
+## Screenshots or Videos
+Add screenshots, videos, and/or instructions for reproducibility. 
+
+## Issue Criticality
+[some measure of criticality severe, moderate,?]
+
+## Issue Criticality
+[some measure of criticality severe, moderate,?]
