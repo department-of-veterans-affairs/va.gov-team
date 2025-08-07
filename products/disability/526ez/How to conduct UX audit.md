@@ -13,7 +13,8 @@ This documentation will help ensure consistency in how we evaluate the UX of the
 ## Helpful Resources
 - [526 Active Form Mural Board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1686768383603/3f4415dd2ddb71bbd104ebefd92a2c7b553ad792): This is the most up-to-date documentation of the form in production. It provides screenshots of all of the main form Steps and pathways or ancillary forms. You can use this to understand the form as a whole.
 - [526 Product Guide](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Disability%20Benefits%20Experience/2%20-%20Delivery/Product%20Guide%20Drafts/526EZ.Disability.Benefits.Claims.Product.Guide.v4.7_SRT.04072025.docx?d=wf9b54a1c03e14c14a4cee86463e34e40&csf=1&web=1&e=bRrO5C): This proivdes a walkthrough of the form with explanations of what is happening as the user goes through each page.
-- 526 Active Form Audit Map: It provides screenshots of all of the main form Steps and pathways or ancillary forms. Use this to track testing logistics (e.g., which path has been tested, who tested, when, what browser was used.) Provides a visual of how much of the form has been tested and how much is left to go. 
+- 526 Active Form Audit Map: It provides screenshots of all of the main form Steps and pathways or ancillary forms. Use this to track testing logistics (e.g., which path has been tested, who tested, when, what browser was used.) Provides a visual of how much of the form has been tested and how much is left to go.
+- _[Do we have a link to all of the business requirements or feature requirements for each section/feature of the form? May be helpful to reference.]_
 
 ## Overview of Steps
 1. Access staging
@@ -54,7 +55,8 @@ In order to test, testers need to access the form in Staging.
 | **Ticket Template**   | Bug Ticket Template                                         | UX Issue Ticket Template 
 
 
-### 4. Determine Which Form Steps You Will Be Audting
+### 3. Determine Which Form Steps You Will Be Audting
+[add instructions as a requirement to click all the conditionals. set expectation that they are only doing a couple of section at a time. go through one step with every variable possible. have detailed documentation of the exact section you are. ]
 | **Form Section**      | **Subprocesses** | **Conditional Reponses** |
 |------------------------|----------------------|--------------------------|
 | **Intro, Intent to File** |None                 |
@@ -76,3 +78,5 @@ In order to test, testers need to access the form in Staging.
 | **Step 5: Additional Information**             |                 |                 |          | ☐          | ☐           | ☐          | ☐        |                 |
 | **Step 6: Review and Submit**  |                 |                 |          | ☐          | ☐           | ☐          | ☐        |                 |
 
+Notes
+Add browser version and type of computer
