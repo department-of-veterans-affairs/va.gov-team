@@ -30,8 +30,11 @@ The Veteran Status Card is shown to users who come back as "Confirmed" in the [V
 When we reached out to Lighthouse to ask more questions about how those status and reasons are designated, we were given the SSC table below. Green: users who come back as "Confirmed" Yellow: users who come back as MORE_RESEARCH_REQUIRED Orange: users who come back as NOT_TITLE_38
 
 ### Service Summary Codes (SSC)
+<img width="765" height="528" alt="Screenshot 2025-08-07 at 8 49 17 AM" src="https://github.com/user-attachments/assets/1a192895-2517-4d2d-a829-321128fedf0d" />
+
 ![Screenshot 2025-06-27 at 1 34 26 PM](https://github.com/user-attachments/assets/da908eb7-970f-4a52-9437-0cfed30b8d95)
 
+<img width="697" height="259" alt="Screenshot 2025-08-07 at 8 49 54 AM" src="https://github.com/user-attachments/assets/0d84463d-042e-4c6b-8f82-71c1e7bf812f" />
 
 </details>
 
