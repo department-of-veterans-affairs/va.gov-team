@@ -152,7 +152,30 @@ Please reach out to [va-notify-public](https://dsva.slack.com/archives/C010R6AUP
 ```
 
 
-## Technical FAQ
+## FAQ
+### Business & Process FAQ
+
+**How can Veterans opt in and opt out of SMS messages?**
+
+- The following applies only to use cases that use VA Profile to store SMS communication preferences and integrate with VA Notify for contact and preference lookups. Typically, the front-end system managing the Veteran's communication preferences is VA.gov, however, other systems can integrate with VA Profile as its preference backend. For the sake of this example, we're going to use VA.gov.
+
+  Veterans can manage their SMS preferences in two ways:
+
+  #### Opt-in:
+  - Veterans can check the communication permission box in VA Profile to subscribe to SMS messages by use case.
+  - If the use case is using implicit/default consent logic, then explicit consent (checking the box) is not required to begin sending messages. For   more information, see the [VA SOP](https://github.com/department-of-Veterans-affairs/va.gov-team/blob/master/products/va-notify/VA%20SOP%20for%20Delivering%20SMS%20Messages%20v1.0.pdf) for SMS.
+
+  #### Opt-out:
+  - Veterans can uncheck the box on VA.gov to stop receiving messages, **or**
+  - Reply `STOP` to an SMS message directly.
+    - Once a Veteran has replied `STOP`, they must reply `START` to the applicable phone number to opt back in.
+
+  **Important Note:** These two opt-out methods are not fully synced. If a Veteran replies `STOP` by text, that blocks all messages being sent from    the applicable phone number to the opted-out mobile number. Re-checking the box in VA Profile does not automatically resume delivery. The Veteran    must reply `START` via SMS to unblock message delivery.
+
+  Services that do not rely on VA Profile for preferences (e.g., those managing opt-in/out independently) are responsible for handling their own SMS   subscription logic.
+
+
+### Technical FAQ
 **What type of API is VA Notify?**
 - We offer a REST API
 
