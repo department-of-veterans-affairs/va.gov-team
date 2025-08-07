@@ -1,4 +1,5 @@
 ## ATO Documentation: Veteran Status Card
+**_Last Updated: MM/DD/YYYY_**
 
 _Please Note: The Veteran-Facing Services Platform ATO boundary includes all environments: Dev, Staging, Utility, Sandbox, and Production, as well as all VFS teams/Products, Platform teams, CMS, VA Notify, and VA Mobile. If the environments your team uses have different configurations, we will need this information for each environment._
 
