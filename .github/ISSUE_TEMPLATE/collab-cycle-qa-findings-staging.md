@@ -75,6 +75,22 @@ QA -
 
 ##### Explanation of failure to meet standard (if applicable):
 
+#### PDF Version Validation
+
+- [ ] Not applicable
+    - The feature is not a form with a generated PDF submission.
+- [ ] Standard has been met 
+    - The PDF has been expired for 5 months or less, or the PDF is not expired.
+- [ ] Standard has not been met 
+    - The PDF has been expired for 6 to 9 months. 
+    - **Warning, not launch-blocking**
+- [ ] Standard has not been met 
+    - The PDF has been expired for 10 months or more.
+    - **Launch-blocking**
+
+##### Explanation of failure to meet standard (if applicable):
+
+
 ---
 
 ### Next Steps for the VFS team
