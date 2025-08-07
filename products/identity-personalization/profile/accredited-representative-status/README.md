@@ -46,7 +46,7 @@ Deafulting to [Profile: LOA1 user attempts to access any section of profile](htt
 
 1. [Sitewide Representative Status product documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/product-documentation/representative-status)
     1. [Contact Center guide](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/product-documentation/representative-status/contact-center) (experience screenshots, including user states and error messages)
-    2. [Technical documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/product-documentation/representative-status/launch-materials) (architecture and data flow diagrams, playbook / incident response plan)
+    2. [Technical documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/product-documentation/representative-status/technical-documentation) (architecture and data flow diagrams, playbook / incident response plan)
 2. Datadog dashboards
     1. [Authenticated Experience: Profile - Representative Status](https://vagov.ddog-gov.com/dashboard/86m-u8e-z5x/authenticated-experience-profile?fromUser=false&refresh_mode=paused&from_ts=1744839001906&to_ts=1744842601906&live=false&tile_focus=2305414365356432) 
     2. [ARM: Representative Status](https://vagov.ddog-gov.com/dashboard/ttj-p2z-9gh/arm-representative-status-widget?fromUser=false&refresh_mode=sliding&from_ts=1742250564464&to_ts=1744842564464&live=true)
