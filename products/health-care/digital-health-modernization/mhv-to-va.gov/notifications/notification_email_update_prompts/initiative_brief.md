@@ -27,7 +27,7 @@
 ## Problem
 > *Describe the challenge / pain point you seek to address.:* 
 * What is the problem and who is affected? And, what evidence do we have of the problem?
-  - 800,000 Veterans' VA.gov profile email address does not match their My HealtheVet email address where they have been receiving notifications from the My HealtheVet Classic notification system.  Another 66,000 have no email address in VA.gov Profile.  When the MHV Appointments, Messaging, Medications, Medical Records applications migrate their notifications to VA Notify later this year, these Veterans may not recieve important emails about their medical appointments, medications, messagages from providers, or medical images that are ready for download.
+  - 800,000 Veterans' VA.gov profile email address does not match their My HealtheVet email address where they have been receiving notifications from the My HealtheVet Classic notification system.  Another 66,000 have no email address in VA.gov Profile.  When the MHV Appointments, Messaging, Medications, Medical Records applications migrate their notifications to VA Notify later this year, these Veterans may not recieve important emails about their medical appointments, medications, messagages from providers, or medical images that are ready for download at their desired email address.
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
   - The My HealtheVet DBA recently ran a query to compare the two sets of email addresses.
 * How does this initiative help further OCTO-DE's mission and goals?
@@ -66,17 +66,14 @@
 > Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
 - **Value Risks** (will people use it): 
-  - .
+  - Veterans may ignore the prompt.  We will monitor number of clicks on prompts, number of emails confirmed, added, and changed.
 - **Usability Risks** (can people figure out how to use it):
-  - .
+  - Veterans may not understand why they need to confirm their address.   We will provide clear instructions explaining why this is important.
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - Examples:
-    - Upstream/Downstream API/Data availability and reliability
-    - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
+ - None noted
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - Examples: 
-    - VA stakeholder testing, marketing, compliance requirements 
+    - Veterans do not change or add email addresses before VA Notify migration is completed and do not receive notifications at the desired email address.
 
 ### Supporting research
 
