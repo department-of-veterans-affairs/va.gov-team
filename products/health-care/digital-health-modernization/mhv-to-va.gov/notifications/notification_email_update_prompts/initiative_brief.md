@@ -54,10 +54,10 @@
 > 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
 > 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
-
-- Veterans whose VA.gov Profile and MHV Profile addresses do not match confirm or change their email. | 0 | 800k | Data source is an SQL database query that cannot be linked.
-- The number of Veterans with no email address in VA.gov Profile decreases. | 66K | 0 | Data source is an SQL database query that cannot be linked.
+| Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo) |
+| ----- | ---- | ---- | ---- |
+| Veterans with mismatched VA Profile and MHV emails verify or change their email addresses | 0 | 800k | Data source is an SQL database query that cannot be linked. |
+| The number of Veterans with no email address in VA.gov Profile decreases. | 66K | 0 | Data source is an SQL database query that cannot be linked. |
 ---
 
 ## Discovery
