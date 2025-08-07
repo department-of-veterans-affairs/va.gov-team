@@ -7,6 +7,8 @@ When IIR originally took on the project of revamping the data pipeline, we found
 Video Recordings:
 - [Overview of what's in Domo](https://github.com/user-attachments/assets/162d02a0-f07d-4d1e-9f19-2e909697749e)
 - [ETL flow - GA Portion](https://github.com/user-attachments/assets/ece9c3ae-b2f5-46df-9951-762b0445e4b9)
+- [ETL flow - Medallia Portion](https://github.com/user-attachments/assets/5ec499df-f0e7-4b8a-83b8-e9db775343e7)
+- [Medallia - VA.gov Experience Rating](https://github.com/user-attachments/assets/11550e72-bb27-4c40-8fdc-f1f061ccd7c4)
 
 
 ## Current Process
