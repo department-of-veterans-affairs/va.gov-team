@@ -23,6 +23,7 @@ Veterans must log into the mobile app or VA.gov to view their veteran status car
 
 * Total number of downloads of the Veteran Status Card to add the card to an Apple Wallet. We expect this to be a non-zero amount and will increase once this feature is available. We will track the total number of downloads on a monthly basis.  
 * Total number of downloads of the Veteran Status Card to add the card to a Google Wallet. We expect this to be a non-zero amount and will increase once this feature is available. We will track the total number of downloads on a monthly basis.
+* Total number of error messages that a Veteran receives. We will track the number of error messages that occur as a way to monitor if there is a bug. TBD on a threshold that we would reasonably expect to keep this under.
 
 ### Supporting OCTO OKRs:
 
