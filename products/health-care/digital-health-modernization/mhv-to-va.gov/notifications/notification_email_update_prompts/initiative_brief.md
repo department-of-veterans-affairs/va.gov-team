@@ -27,9 +27,9 @@
 ## Problem
 > *Describe the challenge / pain point you seek to address.:* 
 * What is the problem and who is affected? And, what evidence do we have of the problem?
-  - More than 600k Veterans' VA.gov profile email address is null or does not match their My HealtheVet email address where they have been receiving notifications from the My HealtheVet Classic notification system.  When the MHV applications migrate their notifications to VA Notify later this year, Veterans without an email address in VA.gov Profile, or whose VA.gov profile email address has not been confirmed for notifications, may not recieve important emails about their medical appointments, medications, messagages from providers, or medical images that are ready for download.
+  - 800,000 Veterans' VA.gov profile email address does not match their My HealtheVet email address where they have been receiving notifications from the My HealtheVet Classic notification system.  Another 66,000 have no email address in VA.gov Profile.  When the MHV Appointments, Messaging, Medications, Medical Records applications migrate their notifications to VA Notify later this year, these Veterans may not recieve important emails about their medical appointments, medications, messagages from providers, or medical images that are ready for download.
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
-  - The My HealtheVet DBA ran a query to compare the two sets of email addresses.
+  - The My HealtheVet DBA recently ran a query to compare the two sets of email addresses.
 * How does this initiative help further OCTO-DE's mission and goals?
   - It will ensure that Veterans reliably continue to receive their health notifications and know where to find related information on My HealtheVet.
 
@@ -56,7 +56,8 @@
 
 - Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
 
-- The number of Veterans with missing/mis-matched email addresses decreases. | 600K | 0 | Data source is an SQL database query that cannot be linked.
+- Veterans whose VA.gov Profile and MHV Profile addresses do not match confirm or change their email. | 0 | 800k | Data source is an SQL database query that cannot be linked.
+- The number of Veterans with no email address in VA.gov Profile decreases. | 66K | 0 | Data source is an SQL database query that cannot be linked.
 ---
 
 ## Discovery
