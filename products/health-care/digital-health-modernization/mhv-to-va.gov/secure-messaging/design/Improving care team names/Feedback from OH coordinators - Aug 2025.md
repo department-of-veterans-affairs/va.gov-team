@@ -36,18 +36,17 @@ Sylvia Palmer sent coordinators these three questions on 7/31. Two coordinators 
 - Coordinator A: Pharmacy renewal, there may be no pools in dropdown menu and they don’t read type in “two or more characters” to locate pool 
 - Coordinator A: Fear of trying it. It looks complicated and they are timid using it. 
 - Coordinator B: Veterans have no way of knowing who their Care Team is in the patient portal. 
--	Coordinator B: The search isn't only isolated to the VA that the veteran is assigned to unfortunately they can see all “go live” sites that causes more frustration and can be extremely overwhelming. 
--	Coordinator B: The sign in process in general is overwhelming, cumbersome, and confusing for most of our veterans. The fact that they get ID.Me, Login.gov, VA.gov,  My VA Health and MyHealthyeVet all mixed up. The veterans sometimes don't understand how each one of those work together in order for them to get to the patient portal just to send a message in the first place. 
+- Coordinator B: The search isn't only isolated to the VA that the veteran is assigned to unfortunately they can see all “go live” sites that causes more frustration and can be extremely overwhelming. 
+- Coordinator B: The sign in process in general is overwhelming, cumbersome, and confusing for most of our veterans. The fact that they get ID.Me, Login.gov, VA.gov,  My VA Health and MyHealthyeVet all mixed up. The veterans sometimes don't understand how each one of those work together in order for them to get to the patient portal just to send a message in the first place. 
 
 ## Notes
 Themes that stand out
 - Ticketing
 - Guidance
 - Updating providers
-- 
+- Veteran vs. Non-Veteran pools
 
+Follow-up questions
 - What makes the ticketing process challenging right now?
 - What guidance do you have on building a pool, if any, right now?
 - Around what percentage of pools you create would you say are non-Veteran facing? And about what percentage is Veteran-facing?
-- 
-- 
