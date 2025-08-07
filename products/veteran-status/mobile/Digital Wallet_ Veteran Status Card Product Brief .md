@@ -55,6 +55,8 @@ O1: VA’s digital experiences are the easiest and most efficient way to access 
 |7/22/2025| The digital wallet for the Veteran Status Card must contain: Name, Disclaimer of Benefits, Identification Number, and Proof of Service. |This is required by law and the IIR team shared their findings with MFS.| 
 |7/23/2025| The disability rating will be displayed on the back of the card, located in pass details. | This decision was provided by Michelle at our weekly VA/PO sync.|
 |7/23/2025| Disclaimer of benefits will be displayed on the back of the card, located in pass details.  | This decision was provided by Michelle at our weekly VA/PO sync.|
+|8/4/2025| Mobile App Team will handle the digital signature and security feature that is needed for registration.  | This decision was provided by Michelle during a 1:1.|
+|8/6/2025| Increasing brightness for when the Veteran Status Card is accessed within an Apple or Google Wallet, is not necessary. | The feedback to consider increasing brightness to make it easier for Veterans to read their Veteran Status Card within the digital wallet was provided during the PO Sync. After internal discussion with the team, it appears that cards within the wallet feature that have a QR code (i.e., airline or concert ticket) will automatically brighten when a user accesses those cards. However, when accessing a card without a QR code, the brightness remains the same (i.e., credit card or gym membership). There has been no engineer exploration on this, but rather an observation that was made.    
 
 ## Reference Materials
 
