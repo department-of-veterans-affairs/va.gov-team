@@ -57,7 +57,7 @@
 | Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo) |
 | ----- | ---- | ---- | ---- |
 | Veterans with mismatched VA Profile and MHV emails verify or change their email addresses | 0 | 800k | Data source is an SQL database query that cannot be linked. |
-| The number of Veterans with no email address in VA.gov Profile decreases. | 66K | 0 | Data source is an SQL database query that cannot be linked. |
+| Veterans without an email address in VA Profile add one | 66K | 0 | Data source is an SQL database query that cannot be linked. |
 ---
 
 ## Discovery
