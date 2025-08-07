@@ -57,12 +57,7 @@ The 10-10EZ: Application for VA health care was one of the first applications to
 * [Real User Monitoring (RUM) Dashboard](https://vagov.ddog-gov.com/rum/application/9d5155fd-8623-4bc9-8580-ad8ec2cdd7fa/overview/browser?from_ts=1676217734085&to_ts=1676304134085&live=true)
 
 **Engineering**
-* [High level view of systems](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/engineering/10-10EZ%20High-level%20Architecture.png)
-* [Sequence Diagram](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/engineering/collaboration-cycle/architecture-intent/diagrams/1010-health-apps/10-10ez-data-flow-chart-10242024.md)
-* [Application Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/engineering/architecture-diagram.md)
-* [Frontend developer README](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/hca/README.md)
-* [Prefill fields engineering research](https://app.zenhub.com/workspaces/vsa---10-10-team-5fff0cfd1462b6000e320fc7/issues/department-of-veterans-affairs/va.gov-team/27278)
-* [Endpoints consumed and owned](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/engineering/Endpoints%20Information.md)
+* [Engineering folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/engineering) with all documentation
 
 **Latest discovery research**
 * [Research folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/research)
@@ -85,30 +80,27 @@ This roadmap reflects current priorities and efforts for the 10-10EZ application
 **Next (Planned / Blocked with known dependencies):**
 * **Unhoused/No Address:** This initiative is currently blocked, pending the development and availability of a new VES (Veteran Eligibility Services) REST API.
 * **Confirmation Emails:** Currently blocked, pending prioritization from the VES team for implementation of confirmation email functionality.
-* **Save-In-Progress List & Loop Fix:** Blocked, pending updates and fixes from the DST/Forms Library team.
-* **Insurance Page List & Loop:** Blocked, pending updates and fixes from the DST/Forms Library team.
-* **Mobile App Integration:** Further exploration is needed to determine additional integration points beyond the current link on the mobile app.
+
 
 **Future (Long-term Vision / To be prioritized):**
 * **Short Form - 1-click:** Full implementation of a simplified 1-click short form, building on the 'Choose Your Own Adventure' discovery. This is a significant long-term goal.
-
+* **Mobile App Integration:** Further exploration is needed to determine additional integration points beyond the current link on the mobile app.
 
 ## **Features and initiatives we worked on**
 This table details recent and ongoing features and initiatives specifically for the 10-10EZ application, along with their current status.
 | Product | Initiative                                      | Status                                   |
 |---------|-------------------------------------------------|------------------------------------------|
-| EZ      | [Print/Save completed PDF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60909)                         | 🎉 Launched 5/5                                                      |
-| EZ      | [Submission Traceability](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80978)                          | POC with ST team in progress                                          |
-| EZ      | [Form Statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95313)                                    | Discovery in progress (PM)                                            |
-| EZ      | [Choose your own adventure](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103253) (step toward 1-click) | Research planning in progress                                         |
-| EZ      | [Multi-form Completion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103260)                           | Exploration with BDS team                                             |
-| EZ      | [Integrate with Mobile app](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103255)                       | Link already on app, what else?                                       |
-| EZ      | [Unhoused/No Address](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103256)                             | BLOCKED<br>Pending VES REST api                                       |
-| EZ      | [Confirmation emails](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40765)                              | BLOCKED<br>Pending VES prioritization                                 |
-| EZ      | [Save-In-Progress L&L fix](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94818)                         | BLOCKED<br>Pending DST/Forms Library                                  |
-| EZ      | [Insurance page (L&L)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90159)                             | BLOCKED<br>Pending DST/Forms Library                                  |
-| EZ      | [Short Form - 1-click](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103258)                            |                                                                       |
-
+| EZ      | [Print/Save completed PDF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60909)                         | 🎉 Launched 5/5/2025                   |
+| EZ      | [Save-In-Progress L&L fix](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94818)                         | 🎉 Launched 8/3/2025                   |
+| EZ      | [Insurance page (L&L)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90159)                             | In QA                                   |
+| EZ      | [Submission Traceability](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80978)                          | POC with ST team in progress            |
+| EZ      | [Form Statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95313)                                    | Discovery in progress (PM/Eng)          |
+| EZ      | [Choose your own adventure](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103253) (step toward 1-click) | Research study & findings doc completed |
+| EZ      | [Multi-form Completion](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103260)                           | Exploration with BDS team needed        |
+| EZ      | [Integrate with Mobile app](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103255)                       | Link already on app, what else?         |
+| EZ      | [Unhoused/No Address](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103256)                             | BLOCKED<br>Pending VES REST api         |
+| EZ      | [Confirmation emails](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40765)                              | BLOCKED<br>Pending VES prioritization   |
+| EZ      | [Short Form - 1-click](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103258)                            |                                         |
 
 
 ### Descoped
@@ -150,7 +142,6 @@ The current 10-10 Health Apps team roster includes:
 **HEC (Health Eligibility Center) Program Team**
 * Bryan Burgan | Bryan.burgan@va.gov -- VHA Member Services Publications Control Officer - Main POC
 * Ambroja Watson | ambroja.watson@va.gov -- Veteran Experience Officer, HEC - 2nd POC
-* Stacey Echols | stacey.echols@va.gov -- Director, HEC
 * Amanda Scully | amanda.scully@va.gov -- Deputy Director, HEC
 * Zachariah Bell | zachariah.bell@va.gov -- Acting ECM Supervisory Program Specialist
 * Cheylanda Griffith | cheylanda.griffith@va.gov -- Supervisory Program Specialist
