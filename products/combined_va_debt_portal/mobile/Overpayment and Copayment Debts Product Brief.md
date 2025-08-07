@@ -87,3 +87,30 @@ O1: VA’s digital experiences are the easiest and most efficient way to access 
 |6/12/2025| Veterans who need to pay an overpayment bill will be linked directly to www.pay.va.gov. | This discussion occurred since the MFS team found out that www.pay.va.gov will eventually go away and overpayment bills will eventually be paid in pay.gov. As of today, no timeline has been provided for when the transition will be finalized. This decision was made in the Financial Management OCTO Slack by Denise.| 
 |6/30/2025| MVP Payment options will be in browser view.| This decision occurred during the Core Mobile Office Hours. Jonathan provided guidance that if a Veteran does not need to be authorized, it will be displayed in the browser view and will follow these guidelines to maintain consistency for Veterans.| 
 
+## Reference Materials
+
+## Communications
+
+<details>
+
+- Team Name: Mobile Feature Support   
+- Slack channel: \#mobile-feature-support-public   
+- Product POCs:  
+  - Michelle Middaugh, VA Product Owner, Mobile Feature Support  
+  - Ryan Thurlwell, VA Lead, VA Mobile App
+  - Denise Coveyduc, VA Product Owner, Financial Management Team
+ 
+
+</details>
+
+## Stakeholders 
+
+#### Team Members
+
+<details>
+   
+ - PM: Natalie Gibbons  
+ - Engineering: Alex Teal  
+ - Design: Natasha Huckleberry
+ - Research: Emily DeWan
+
