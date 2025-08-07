@@ -52,11 +52,7 @@
 * [Backend Stats on DataDog Dashboard](https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-health-apps?from_ts=1657212129534&to_ts=1657215729534&live=true)
 
 **Engineering**
-* [Architectural overview: example submissions flow](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/engineering/collaboration-cycle/architecture-intent/diagrams/1010-health-apps/10-10cg-sequence-diagram-10072024.md)
-* [High level view of systems](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/eng-docs/10-10CG%20High-level%20Architecture%20.png)
-* [Submission errors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/ux-capture/future.md)
-* [Frontend developer README](https://github.com/department-of-veterans-affairs/vets-website/blob/master/src/applications/caregivers/README.md)
-* [Endpoints consumed & owned](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/eng-docs/Endpoints%20Information.md)
+* [Engineering folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/engineering) with all documentation
 
 **Initial discovery**
 * [Initial discovery Discovery folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/discovery)
@@ -77,7 +73,7 @@ This roadmap reflects current priorities and efforts for the 10-10CG application
 * **Facilities Search:** Launched 2/14, improved facility search & selection.
 * **Submission Failure Email:** Launched 2/21, provides notifications for failed submissions.
 * **OAuth 2.0:** Launched 4/2, enhancing security and app authentication.
-* **Signature Page Update:** Engineering in progress for improvements to the signature page.
+* **Signature Page Update:** Launched 7/15, prefills names in signature fields on Review page
 
 **Next (Planned / In Progress Discovery):**
 * **Caregiver Clarification:** Content refresh is in progress to improve clarity around caregiver roles and definitions. This likely aligns with previous "Primary/Secondary Caregiver selection" work.
@@ -91,7 +87,7 @@ This table includes links to the individual feature directory and their current 
 | CG      | [Facilities Search](https://github.com/department-of-veterans-affairs/va.gov-team/issues/19433)                                | 🎉 Launched 2/14                       |
 | CG      | [Submission failure email](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95359)                         | 🎉 Launched 2/21                       |
 | CG      | [OAuth 2.0](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89108)                                        | 🎉 Launched 4/2                        |
-| CG      | [Signature page update](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102073)                           | Eng in progress                         |
+| CG      | [Signature page update](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102073)                           | 🎉 Launched 7/15/2025                  |
 | CG      | [Caregiver clarification](https://github.com/department-of-veterans-affairs/va.gov-team/issues/37541)                          | Content refresh                         |
 | CG      | [Integrate with Mobile app](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103250)                       |                                         |
 
@@ -139,8 +135,8 @@ The current 10-10 Health Apps team roster includes:
 * Tamara Scott | tamara.scott@va.gov -- Social Worker: Caregiver Support Program
 * Margaret Featherstone | Margaret.Featherston@va.gov -- Caregiver Support Program Manager
 * Hollie-Lyn James | hollie.speer@va.gov -- Health System Specialist
-* Gaspare Caruso | gaspare.caruso@va.gov -- Clinical Program Coordinator
-* Drew DeRocco | drew.derocco@va.gov -- PMO, scheduling
+* Gaspare Caruso | gaspare.caruso@va.gov -- Clinical Program Coordinator - 2nd POC
+* Drew DeRocco | drew.derocco@va.gov -- PMO, scheduling - Main POC
 
 **CARMA team/MuleSoft.Salesforce team (End-to-End Testing POCs)**
 * Paul Kuprionas | paul.kuprionas@va.gov - CARMA tech lead
@@ -156,6 +152,7 @@ The current 10-10 Health Apps team roster includes:
 ### **Recurring stakeholder meetings**
 * 10-10CG Caregiver team
     * Every other Friday at 12:30pm ET/11:30am CT/9:30am PT
+    * Drew DeRocco owns this meeting and scheduling
 
 
 ## **Outstanding Questions and Action Items**
