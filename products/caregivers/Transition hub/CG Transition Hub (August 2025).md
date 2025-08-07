@@ -39,7 +39,10 @@
 
 ### **Product artifacts**
 * [Page/User flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1687288632872/0728ba8a597b439671741c573fbba777ad0dac16)
-* [Figma file](https://www.figma.com/design/TxXD5bGUOhbHHWLb85GPjK/10-10CG?node-id=0-1&t=xgkK7brjz069I7kE-0) with wireflows and page designs (including proposals and experiments)
+* [UX folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/ux) with links and organization information
+     * [Working Design File](https://www.figma.com/file/TxXD5bGUOhbHHWLb85GPjK/10-10CG?type=design&node-id=0-1&mode=design&t=lktLzYtgxdXayCsO-0)
+     * [Production Source of Truth Design File](https://www.figma.com/design/ZLGXh1HFssRudTJeX190Zg/10-10CG---Production-File?node-id=0-1&p=f&t=kYJ2PseRThApGtv3-0)
+     * [Archive Design File](https://www.figma.com/design/z4ZzdVvDIEgZxc0D5BOSVs/10-10CG---Archive-File?node-id=0-1&p=f&t=LIV9VBekHBoXXDlu-0)
 * [Staging users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
 * [Use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Form/10-10CG%20Use%20Cases.md)
 * [Various form info](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers/10-10CG%20Form)
