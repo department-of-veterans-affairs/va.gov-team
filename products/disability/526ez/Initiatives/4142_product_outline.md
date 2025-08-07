@@ -104,7 +104,7 @@ Users who have already started filling out the form will receive an alert messag
 N/A
 
 * Link to Release Plan
-    * Work in progress. We have this [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/115385), which is a blocker to this ticket, which is a blocker to answering what our launch plan is...
+    * Work in progress - https://github.com/department-of-veterans-affairs/va.gov-team/issues/114568 
 
 
 
@@ -124,7 +124,6 @@ N/A
 
 ## Screenshots
 Current Work in Progress documented in this [Figma](https://www.figma.com/design/gvWPL7Z8llEy0tg6bEZbms/Initiative-%E2%80%A2-4142-Paper-Sync?node-id=1-401)
-
 
 ### Before
 See 
