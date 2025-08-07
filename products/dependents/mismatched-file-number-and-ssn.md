@@ -5,14 +5,14 @@ _BEP expects that a Veteran's or spouse's file number submitted in a 21-686c or 
 - There are some legitimate cases where ssn and file number may differ
 - There are some issues with the Master Person Index (MPI) where ssn or file number may be incorrect on a Veteran's account and needs to be manually fixed
 
+## Current Status
+- [Around 40 claims per month](https://vagov.ddog-gov.com/logs?query=%22ORA-20099%3A%20Error%20-%20File%20Number%20and%20Social%20Security%20number%20are%20different%22%20-status%3A%28warn%20OR%20info%29%20-EJB&agg_m=count&agg_m_source=base&agg_t=count&clustering_pattern_field_path=message&cols=host%2Cservice%2C%40named_tags.class&messageDisplay=inline&refresh_mode=sliding&storage=hot&stream_sort=desc&viz=stream&from_ts=1751817233580&to_ts=1754409233580&live=true) generate this error. This is down from the 90-100 per month in 2023.
+
 ## Remediation Efforts
 - VA.gov gets file numbers from BGS, and BGS sometimes returns a file number with dashes. [Work was done](https://github.com/department-of-veterans-affairs/vets-api/pull/12530) in 2023 to strip out dashes from all file numbers, so more file numbers matched ssn (which also had dashes stripped out)
 - [Logs were added](https://github.com/department-of-veterans-affairs/vets-api/pull/12530) in 2023 to capture instances where file and ssn did not match. The intent was to create a DataDag dashboard and send this report to MPI, so they could investigate and remediate mismatches, but the dashboard and report were never created. The logs were removed in March 2024. 
 - Work was done in 2023 to ensure claims with this issue were submitted through the backup pathway (Central Mail), so they would no long be silent failures
 - The Identity Team monitors for bad ssn where the ssn in the Veteran's verified credential does not match the ssn that is stored in MPI. In those cases, the Identity Team blocks the Veteran from logging in to VA.gov and instructs the Veteran to contact the Contact Center. The Identity Team compiles a report of these cases and sends that report to MPI for resolution. If the Veteran also reports the issue, the mismatch in ssn could be resolved in a few days. It's unclear how long the cases in the list the Identity Team take MPI to resolve (if ever).
-
-## Current Status
-- [Around 40 claims per month](https://vagov.ddog-gov.com/logs?query=%22ORA-20099%3A%20Error%20-%20File%20Number%20and%20Social%20Security%20number%20are%20different%22%20-status%3A%28warn%20OR%20info%29%20-EJB&agg_m=count&agg_m_source=base&agg_t=count&clustering_pattern_field_path=message&cols=host%2Cservice%2C%40named_tags.class&messageDisplay=inline&refresh_mode=sliding&storage=hot&stream_sort=desc&viz=stream&from_ts=1751817233580&to_ts=1754409233580&live=true) generate this error. This is down from the 90-100 per month in 2023.
 
 ## Open questions
 - Are we stripping out hyphens from both ssn and file numbers?
