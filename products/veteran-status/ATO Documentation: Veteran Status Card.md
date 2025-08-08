@@ -5,7 +5,7 @@ _Please Note: The Veteran-Facing Services Platform ATO boundary includes all env
 
 #### POC
 1. What is the name of your product(s)/system(s)?
-  - Vet Status Card
+  - Veteran Status Card
 2. Describe its purpose in a few sentences.
   - Megan to add
 3. If you represent multiple products, please describe the relationship between them, if there is any.
