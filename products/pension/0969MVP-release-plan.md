@@ -43,8 +43,12 @@ As referenced in the [Product Outline](https://github.com/department-of-veterans
 
 
 ### This release will include the following components:
-1. Form component updates
-2. 
+1. Form fields (add new fields)
+2. Form component (add new components)
+3. Accessibility updates 
+4. Info alerts
+5. Toggle to enable form
+6. Confirmation email sent to users confirming their application submission through VA.gov
 ---
 
 ## Step 1: Development
@@ -55,8 +59,7 @@ List the features toggles here.
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| pension_itf_show_alert | Enable ITF V1 alerts|
-| pension_itf_enable| Enable ITF V1 requests|
+| income_and_assets_form_enabled | Enable online form|
 
 
 
@@ -111,7 +114,8 @@ DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 
 ### Define the Rollback process
 
-Our PM and Engineer will monitor analytics. If something goes wrong, the engineering team will be on standby to disable the flippers and fall back to v1 of the form.
+Our PM and Engineer will monitor analytics. If something goes wrong, the engineering team will be on standby to disable the flippers and fall back to v1 of the form. 
+Analytics dashboard here: https://vagov.ddog-gov.com/dashboard/lists/manual/1944?q=team%3Abenefits&p=1
 
 Rollback plan:
 1. PM and Engineer monitor analytics for issues (failed submissions, traffic irregularies, unexpected errors).
@@ -121,12 +125,6 @@ Rollback plan:
 
 ### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 Our VFS team was advised against testing in production due to the downstream actions that submitting an application for burial benefits triggers. To migtigate the risk this poses, we will performed extensive testing in a staging environment.
-
-Completed staging test plan   
-[ITFV1 Test Plan.xlsx](https://github.com/user-attachments/files/21530941/ITFV1.Test.Plan.xlsx)
-
-[ITFV1 Regression Test Plan (1).xlsx](https://github.com/user-attachments/files/21530943/ITFV1.Regression.Test.Plan.1.xlsx)
-
 
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
