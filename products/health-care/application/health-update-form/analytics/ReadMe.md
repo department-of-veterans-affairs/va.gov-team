@@ -1,4 +1,4 @@
-## Resources for EZR Metrics
+## Resources for 10-10EZR Metrics
 ### DataDog
 - [EZR Dashboard](https://vagov.ddog-gov.com/dashboard/kjp-9wp-u47/10-10ezr?refresh_mode=sliding&from_ts=1698757876568&to_ts=1698761476568&live=true)
 - [EZR Job APM](https://vagov.ddog-gov.com/apm/traces?query=env%3Aeks-prod%20operation_name%3Asidekiq.job%20service%3Avets-api-sidekiq%20resource_name%3A%22HCA%3A%3AEzrSubmissionJob%22%20&agg_m=count&agg_m_source=base&agg_t=count&cols=core_service%2Ccore_resource_name%2Clog_duration%2Clog_http.method%2Clog_http.status_code&fromUser=false&graphType=flamegraph&historicalData=true&messageDisplay=inline&query_translation_version=v0&refresh_mode=sliding&shouldShowLegend=true&sort=time&spanType=all&spanViewType=errors&view=spans&start=1723576924341&end=1723580524341&paused=false)
