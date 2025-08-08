@@ -50,6 +50,9 @@ Use the following table to understand the difference between bugs and UX issues.
                         
 ## 🧩 3. Which form steps and conditional pathways will you be auditing? 
 Keep in mind that you must actually enter answers into the form in order to move to the next section. For a bug audit, you will have to interact with each conditional variable within that form step. This takes time to conduct thoroughly. In order to prevent burnout, we recommend conducting an audit on one section per person per sprint. 
+
+(BDD, reservist/guard history, ancillary forms, evidence uploads)
+
 | **Form Section**      | **Subprocesses** | **Conditional Reponses** |
 |------------------------|----------------------|--------------------------|
 | **Intro, Intent to File** |None                 |
@@ -75,3 +78,5 @@ Multiple teams are involved in designing and developing the 526 form, and there 
 
 ## 🗂️ 7. Fill out the Audit Tracker
 - [Audit Tracker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/UX%20audit/Audit%20Tracker.md)
+- If there is already a bug about the issue, the ticket is updated
+Enhancements and ideas are captured in github tickets under the appropriate superepic, with screenshots, videos, etc
