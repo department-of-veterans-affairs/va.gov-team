@@ -41,7 +41,7 @@ In order to test, testers need to access the form in Staging.
 6.  On the "Enther the 6 digit code" click "Continue" again. (The code should have automatically populated).
 
 ## 🧭 2. Will you conduct a bug or UX issue audit?
-Use the following table to understand what the difference between bugs and UX issues and determine whether you will be conducting a bug audit or a UX issue audit. While a combined audit can surface both, it is more effective for our tracking and for your mindset to decide beforehand which type of issues you are going to focusing on as the tester. Checking for bugs requires the tester to verify whether the system functions as intended, whereas checking for UX issues requires assessing how easily a user can understand, navigate, and complete their tasks.
+Use the following table to understand the difference between bugs and UX issues. Next, determine whether you will be conducting a bug audit or a UX issue audit. While a combined audit can surface both, it is more effective for our tracking and for your mindset to decide beforehand which type of issues you are going to focusing on as the tester. Checking for bugs requires the tester to verify whether the system functions as intended, whereas checking for UX issues requires assessing how easily a user can understand, navigate, and complete their tasks.
     
 | **Aspect**      | **Bug**                                                         | **UX Issue**                                                                 |
 |------------------|------------------------------------------------------------------|------------------------------------------------------------------------------|
