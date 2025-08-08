@@ -97,16 +97,12 @@ By accessing this tool, Veterans can stay informed about their disability evalua
 
 ## Roadmap
 
-### Now (Current Quarter beginning April 1, 2025)
--
+## Initiative and Tasks in backlog
 
-### Next (Quarter beginning July 1, 2025)
-- 
-### Future (Quarter beginning October 2025)
 -   
 
 **Links**
-- [Outcome-driven roadmap](#)   
+- [Roadmap for BMTII ](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1741805196727/ad752328cce58f0ea2428a4e421af18abfbfc10a?sender=ub840cb68d1886aa35b202891) 
 
 ---
 
