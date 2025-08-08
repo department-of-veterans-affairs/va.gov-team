@@ -9,7 +9,7 @@ Do these 3 steps first, _before any investigation of root cause is done_.
 2. System: **Which systems are involved?**
 
 ### 2. Notify
-2.1. **Coordinator**: Start a thread in #beneficiary-travel-team with the following template:
+2.1. **Coordinator**: Start a thread in [#beneficiary-travel-team](https://dsva.slack.com/archives/C05UTPZRZFY) with the following template:
 ```
 @kay @Kristen McConnell @Mark Dewey
 CC @Blaise Fox @Josh Patterson
