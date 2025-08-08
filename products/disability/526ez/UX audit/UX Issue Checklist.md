@@ -1,7 +1,11 @@
 # UX Issue Checklist
 When testing a section of the 526EZ form, your goal is to ensure that the experience is clear, consistent, and usable for all users. This means evaluating whether users can understand what’s being asked, complete tasks without confusion, and move through the section efficiently. Follow the questions below to guide your evaluation and surface any UX issues.
 
-## ✅ UX Issue Testing Questions (Per Section or Page)
+## 🧭 1. Understand the Form Step / Section's Purpose
+- Read any available documentation or helper text on the page.
+- Identify what this section is trying to capture or allow the user to do (e.g., enter personal info, upload documents, answer eligibility questions).
+
+## ✅ 2. UX Issue Testing Questions (Per Section or Page)
 ### 🧠 Comprehension
 - [ ] Can I easily understand what this section is asking me to do?
 - [ ] Is the language clear, plain, and free of jargon?
