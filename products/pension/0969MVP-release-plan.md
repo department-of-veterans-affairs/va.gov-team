@@ -136,11 +136,13 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Desired date range: August 7-20, 2025
 - How will you make the product available in production while limiting the number of users who can find/access it: Flipper
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
-   - Network traffic to back end server 
-  - ITF Failure <1%
-  - ITFs created
+   - Submission volume:
+    - Canary: 10 submissions
+    - 25%/55%: >10 submissions
+  - Error rate: <1% 
+  
 - Links to the dashboard(s) showing "success criteria" metrics:
-  - https://vagov.ddog-gov.com/dashboard/4p3-ufc-kpe
+  -  https://vagov.ddog-gov.com/dashboard/lists/manual/1944?q=team%3Abenefits&p=1
 - Who is monitoring the dashboard(s)?: Product Manager (Matt Reilly) and Lead Engineer (Matt knight)
 
 
@@ -151,14 +153,16 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Planning
 
 - Length of time: 1-2 days
-- Percentage of Users (and roughly how many users you expect this to be): 50% of daily submissions, approximately 90 users
+- Percentage of Users (and roughly how many users you expect this to be): 10% of daily submissions, 10 users
 
 #### Results
 
 - Number of unique users: 
 - Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- ITF Failure <1%
-- ITFs created
+- Submission volume:
+    - Canary: 10 submissions
+    - 25%/100%: >10 submissions
+  - Error rate: <1% 
 - Was any downstream service affected by the change?: No
 - Types of errors logged:
   -  
@@ -193,8 +197,10 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 
 - Number of unique users:
 - Network traffic to back end server 
-  - ITF Failure <1%
-  - ITFs created
+- Submission volume:
+    - Canary: 10 submissions
+    - 25%/100%: >10 submissions
+  - Error rate: <1% 
 - Any issues with VA handling/processing?:  [PICK_ONE]: yes | no |  N/A
 - Types of errors logged: [FILL_IN]
 - Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes | no |  N/A
@@ -203,8 +209,10 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 ### 1-month results
 
 - Number of unique users: [FILL_IN]
- - ITF Failure <1%
-  - ITFs created
+ - Submission volume:
+    - Canary: 10 submissions
+    - 25%/100%: >10 submissions
+  - Error rate: <1% 
 - Any issues with VA handling/processing?: [PICK_ONE]: yes | no |  N/A
 - Types of errors logged: [FILL_IN]
 - Any UX changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes | no |  N/A
