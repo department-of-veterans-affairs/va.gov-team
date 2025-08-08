@@ -165,3 +165,6 @@
 | 163 | [Your health care costs](https://www.va.gov/resources/your-health-care-costs/) | Health care | 7/14/25 |
 | 164 | [VA health care and other insurance](https://www.va.gov/resources/va-health-care-and-other-insurance/) | Health care | 7/14/25 |
 | 165 | [The Affordable Care Act (ACA) and your VA health care coverage](https://www.va.gov/resources/the-affordable-care-act-aca-and-your-va-health-care-coverage/) | Health care | 7/14/25 |
+| 166 | [Principles of Excellence program](https://www.va.gov/resources/principles-of-excellence-program/) | Education and training | 7/30/25 |
+| 167 | [Accessing Veteran Readiness and Employment through IDES](https://www.va.gov/resources/accessing-veteran-readiness-and-employment-through-ides/) | Careers and employment | 7/29/25 |
+| 168 | [Choosing a GI Bill-approved school](https://www.va.gov/resources/choosing-a-gi-bill-approved-school/) | Education and training | 7/30/25 |
