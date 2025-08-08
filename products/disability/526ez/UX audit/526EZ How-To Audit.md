@@ -49,20 +49,19 @@ Use the following table to understand the difference between bugs and UX issues.
 | **Resolution**   | Solved through code fixes or engineering changes                 | Solved through UX, content, or design improvements                          |
                         
 ## 🧩 3. Which form steps and conditional pathways will you be auditing? 
-Keep in mind that you must actually enter answers into the form in order to move to the next section. For a bug audit, you will have to interact with each conditional variable within that form step. This takes time to conduct thoroughly. In order to prevent burnout, we recommend conducting an audit on one section per person per sprint. 
+Keep in mind that you must actually enter answers into the form in order to move to the next section. For a bug audit, you will have to interact with each conditional variable within that form step. This takes time to conduct thoroughly. In order to prevent burnout, we recommend conducting an audit on one section per person per sprint. In order to determine where auditing is needed, reference the _526 Active Form Audit Map_ and the _Audit Tracker_.
 
-(BDD, reservist/guard history, ancillary forms, evidence uploads)
-
-| **Form Section**      | **Subprocesses** | **Conditional Reponses** |
+The following table provides a high level overview of all steps, sections, and pathways.
+| **Form Section / Step**      | **Pathways** | **Notes** |
 |------------------------|----------------------|--------------------------|
-| **Intro, Intent to File** |None                 |
+| **Landing Page and Wizard** |☐ Benefits Delivery at Discharge Claim (BDD) Process <br> ☐ Claim for Increase (CFI)                 | BDD pathway has a different supporting evidence flow. CFI has three conditional responses that will take you down three different pathways.         |
+| **Intro, Intent to File** |N/A                 |         |
 | **Step 1: Veteran Details** |☐ Homeless Process <br>☐ Military Service History Process | 
-| **Step 2: Conditions**      |☐ Toxic Exposure                | ☐ Prisoner of War <br> ☐ Additional Disability Benefits |             
-| **Step 3: Mental Health**             |                 |                 |          | ☐          | ☐           | ☐          | ☐        |                 |
-| **Step 4: Supporting Evidence**             |                 |                 |          | ☐          | ☐           | ☐          | ☐        |                 |
-| **Step 5: Additional Information**             |                 |                 |          | ☐          | ☐           | ☐          | ☐        |                 |
-| **Step 6: Review and Submit**  |                 |                 |          | ☐          | ☐           | ☐          | ☐        |                 |
-
+| **Step 2: Conditions**      |☐ Toxic Exposure <br> ☐ Prisoner of War <br> ☐ Additional Disability Benefits <br> ☐ Individual Unemployability | Individual Unemployability pathway is only present in staging and not active in production. Do not audit.  |             
+| **Step 3: Mental Health**             | N/A                |                 |          |
+| **Step 4: Supporting Evidence**             | ☐ BDD Process continues here                 |                 |          | 
+| **Step 5: Additional Information**             |      N/A           |                 |          | 
+| **Step 6: Review and Submit**  | N/A                |                 |          | 
 ## 📣 4. Check for in-progress work and known issues
 Multiple teams are involved in designing and developing the 526 form, and there may be in-progress updates to the section you plan to audit. These updates might address bugs or UX issues you would otherwise identify. To avoid duplicating work, first check for existing efforts by reaching out to the appropriate Slack channels or team members. Let them know you're auditing [X section] and ask if there are any in-progress changes, known issues, or prior findings you should review. 
 - ["Bug Bash Super Epic"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110810): Check subtasks for previously logged bugs or UX issues.
