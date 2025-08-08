@@ -27,8 +27,8 @@ The 526EZ is a long form with multiple pathways (e.g., ancillary forms) and nest
 4. Check for in-progress work and known issues
 5. Review the bug audit or UX issue checklist
 6. Conduct your audit
-7. Fill out the _Audit Tracker_ and update the _526 Active Form Audit Map_.
-8. Create tickets for the issues you found using the **Bug Ticket Template** or the **UX Issue Template**
+7.Create or update tickets for the issues you found using the **Bug Ticket Template** or the **UX Issue Template**
+8. Fill out the _Audit Tracker_ and update the _526 Active Form Audit Map_.
 
 ## 🔐 1. Access staging
 In order to test, testers need to access the form in Staging.
@@ -75,6 +75,8 @@ Multiple teams are involved in designing and developing the 526 form, and there 
 - 🤝 [UX Issue Audit Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/UX%20audit/UX%20Issue%20Checklist.md)
 
 ## 🔍 6. Conduct your audit
+
+## 🎟️ 7. Create or Update Tickets 
 
 ## 🗂️ 7. Fill out the Audit Tracker
 - [Audit Tracker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/UX%20audit/Audit%20Tracker.md)
