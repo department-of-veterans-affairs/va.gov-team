@@ -30,16 +30,19 @@
 ## 
 ### 10-10EZR
 
-#### Obj: EC/NOK
+#### Obj: Improvements
+- DENTAL CONTENT
+
+#### Obj: [EC/NOK](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75046)
 - [#116430](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116430) - [BE] Add PIL logger to `handle_associations`
 - [#108518](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108518) - [Eng, PM] Phased Release
 
 
-#### Obj: Household section V2
+#### Obj: [Household section V2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98353)
 - [#112998](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112998) - [FE] Prefill Spouse information
 - [#105896](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105896) - [QA] Test Dependents section
 
-#### Obj: Print/Save PDF
+#### Obj: [Print/Save PDF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109746)
 - [#109899](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109899) - [BE] Map additional Dependents fields on overflow page
 - [#109897](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109897) - [BE Map remaining fields and generate PDF
 
