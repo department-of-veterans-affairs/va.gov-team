@@ -1,4 +1,4 @@
-# How to Conduct a Bug Audit
+# Bug Audit Checklist
 When testing a section of the 526EZ form (or any structured form page), your goal is to ensure that every input, interaction, and system response works exactly as expected under all reasonable conditions. Follow the steps below:
 
 ## 1. Understand the Form Step / Section's Purpose
