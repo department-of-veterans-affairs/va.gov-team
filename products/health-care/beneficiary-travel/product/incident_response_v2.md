@@ -106,7 +106,7 @@ be proactive in noticing and fixing production issues, we adhere to the followin
    3. Validating backing services (API, CRM) deployments [how in prod?]
 
 ### Management
-- Schedule: The on-call schedule and rotation is managed in [PagerDuty]().
+- Schedule: The on-call schedule and rotation is managed in [PagerDuty](https://dsva.pagerduty.com/service-directory/PO9X8XN).
 - Alerting: Alerts are sent via Slack, text, and phone call.
 - Acknowledgement: The on-call engineer must acknowledge the alert within the configured timeframe.
 - Hand-off: If an incident cannot be resolved by the on-call engineer alone, they should follow the escalation process to involve additional team members.
