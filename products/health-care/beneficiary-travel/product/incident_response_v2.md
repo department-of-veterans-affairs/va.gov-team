@@ -133,6 +133,8 @@ be proactive in noticing and fixing production issues, we adhere to the followin
   - Check [#beneficiary-travel-team](https://dsva.slack.com/archives/C05UTPZRZFY) for API or CRM updates/release
   - Check shared calendar for API or CRM updates/releases
 
+Find more detailed debugging steps in our [in-depth debugging guide]().
+
 ## 📊 System Integration Diagram
 This diagram shows the upstream (right side) to downstream (left side) dependencies.
 <img width="2220" height="756" alt="image" src="https://github.com/user-attachments/assets/2a101bdb-fafd-4839-88b1-ae34d42d990f" />
