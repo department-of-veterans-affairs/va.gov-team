@@ -27,6 +27,8 @@ We are continuing to investigate the issue and will post updates in this thread 
 ### 3. Track
 - **Technical Lead**: Start a debugging traceability document using [this Incident Investigation Traceability]() template. 
 
+<hr />
+
 ## 📞 Points of Contact
 Slack channel is [#beneficiary-travel-team](https://dsva.slack.com/archives/C05UTPZRZFY)
 
