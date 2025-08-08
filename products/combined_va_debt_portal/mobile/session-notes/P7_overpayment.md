@@ -1,21 +1,3 @@
-# Summary from Dovetail
-
-#### Communication preferences
-
-The user strongly prefers paper mail notifications over digital communications for financial matters, citing concerns about missing electronic notifications. They set aside dedicated time to review physical mail and manage payments manually. [1](1)[2](2)
-
-#### Digital platform usage patterns
-
-The user exhibits distinct preferences for different financial tasks - using the mobile app for routine activities like medical appointments and prescriptions, while preferring the laptop/website for serious financial transactions that require focused attention. [3](3)[4](4)
-
-#### Payment management experience
-
-The user desires more proactive communication about payment assistance options and a more streamlined payment process. While appreciating the current design's clarity, they expressed interest in features like automated payment plans similar to other financial apps. [5](5)[6](6)
-
-#### Visual design and information architecture
-
-The user positively responded to the clean, straightforward design with minimal distractions. They particularly appreciated clear labeling, strategic use of color, and the organized presentation of financial information. [7](7)[8](8)
-
 
 # Notes by Perigean. Conversation Guide used as the structure for notes.
 
