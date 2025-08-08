@@ -69,7 +69,7 @@ Multiple teams are involved in designing and developing the 526 form, and there 
 - #platform-design-system: Platform design system team - for post-audit follow-up if issues are related to design patterns or components.
 
 ## 5. Review the bug audit or UX issue audit checklist
-- [Bug Audit Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/UX%20audit/Bug%20Audit%20Checklist.md))
+- [Bug Audit Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/UX%20audit/Bug%20Audit%20Checklist.md)
 - [UX Issue Audit Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/UX%20audit/UX%20Issue%20Checklist.md)
 
 ## 6. Conduct your audit
