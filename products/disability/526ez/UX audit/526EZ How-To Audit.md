@@ -24,12 +24,12 @@ The 526EZ is a long form with multiple pathways (e.g., ancillary forms) and nest
 ## Overview of Steps
 1. Access staging
 2. Determine if you will be conducting a bug or UX issue audit
-4. Determine which form Step(s) and conditional pathways you will be auditing
-5. Check for in-progress work and known issues
-6. Review bug audit or UX issue checklist
-7. Conduct your audit
-8. Fill out the _Audit Tracker_ and update the _526 Active Form Audit Map_.
-9. Create tickets for the issues you found using the **Bug Ticket Template** or the **UX Issue Template**
+3. Determine which form Step(s) and conditional pathways you will be auditing
+4. Check for in-progress work and known issues
+5. Review the bug audit or UX issue checklist
+6. Conduct your audit
+7. Fill out the _Audit Tracker_ and update the _526 Active Form Audit Map_.
+8. Create tickets for the issues you found using the **Bug Ticket Template** or the **UX Issue Template**
 
 ## 1. Access staging
 In order to test, testers need to access the form in Staging.
@@ -41,27 +41,14 @@ In order to test, testers need to access the form in Staging.
 6.  On the "Enther the 6 digit code" click "Continue" again. (The code should have automatically populated).
 
 ## 2. Will you conduct a bug or UX issue audit?
-1. Use the following table to understand what the difference between bugs and UX issues.
+Use the following table to understand what the difference between bugs and UX issues and determine whether you will be conducting a bug audit or a UX issue audit. While a combined audit can surface both, it is more effective for our tracking and for your mindset to decide beforehand which type of issues you are going to focusing on as the tester. Checking for bugs requires the tester to verify whether the system functions as intended, whereas checking for UX issues requires assessing how easily a user can understand, navigate, and complete their tasks.
     
 | **Aspect**      | **Bug**                                                         | **UX Issue**                                                                 |
 |------------------|------------------------------------------------------------------|------------------------------------------------------------------------------|
 | **What it is**   | A technical error where something doesn’t function as intended   | A usability or design problem that makes a task harder, slower, or confusing |
 | **System status**| System is broken or fails to behave as expected                  | System works but creates friction or confusion                               |
 | **Resolution**   | Solved through code fixes or engineering changes                 | Solved through UX, content, or design improvements                          |
-                         
-2.  Determine whether you will be conducting a Bug Audit or a UX Issue Audit. While a combined audit can surface both, it is more effective for our tracking and for your mindset to decide beforehand which type of issues you are going to focusing on as the tester. Checking for bugs requires the tester to verify whether the system functions as intended, whereas checking for UX issues requires assessing how easily a user can understand, navigate, and complete their tasks.
-
-| **Aspect**        | **Bug Audit**                                                                 | **UX Issue Audit**                                                               |
-|--------------------|------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| **Goal**           | Identify technical defects that prevent the system from working as intended. | Identify usability, design, or content issues that make tasks harder or confusing. |
-| **Focus**          | Functionality, broken features, errors, and system failures.                 | User understanding, ease of navigation, clarity, consistency, and experience quality. |
-| **Approach**       | Verify expected vs. actual behavior; often checklist-based or scripted.      | Observe task flows, evaluate against UX standards, note friction and confusion points. |
-| **Outcome**        | Bug reports for developers with reproduction steps and technical details.    | UX findings or tickets for designers/product teams to improve usability and design. |
-| **Mindset**        | "Does it work as specified?"                                                 | "How well does it work for the user?"                                            |
-| **VA Resource**  |                                                                  | [VA Experience Standards](https://design.va.gov/about/experience-standards/)
-| **Ticket Template**   | Bug Ticket Template                                         | UX Issue Ticket Template 
-
-
+                        
 ## 3. Which form steps and conditional pathways will you be auditing? 
 [add instructions as a requirement to click all the conditionals. set expectation that they are only doing a couple of section at a time. go through one step with every variable possible. have detailed documentation of the exact section you are. ]
 | **Form Section**      | **Subprocesses** | **Conditional Reponses** |
@@ -81,11 +68,13 @@ Multiple teams are involved in designing and developing the 526 form, and there 
 - #benefits-disability-conditions: Conditions team - for audits related to “Step 2: Conditions."
 - #platform-design-system: Platform design system team - for post-audit follow-up if issues are related to design patterns or components.
 
-## 5. Review Bug Audit or UX Issue Checklist
+## 5. Review the bug audit or UX issue audit checklist
 - [Bug Audit Checklist](products/disability/526ez/UX audit/Bug Audit Checklist.md)
-- [UX Issue Checklist]()
+- [UX Issue Audit Checklist]()
 
-## 6. [WIP] Sign up sheet / Tracker
+## 6. Conduct your audit
+
+## 7. [WIP] Sign up sheet / Tracker
 | **Form Section**       | **Bug or UX Issue Audit** | **Subprocesses** | **Browser** | 
 |------------------------|-----------------|-----------------|----------|
 | **Intro, Intent to File** |None                 |                 |          | ☐          | ☐           | ☐          | ☐        |                 |
