@@ -82,8 +82,8 @@ Multiple teams are involved in designing and developing the 526 form, and there 
 - #platform-design-system: Platform design system team - for post-audit follow-up if issues are related to design patterns or components.
 
 ## 5. Review Bug Audit or UX Issue Checklist
-[Bug Audit Checklist]()
-[UX Issue Checklist]()
+- [Bug Audit Checklist](products/disability/526ez/UX audit/Bug Audit Checklist.md)
+- [UX Issue Checklist]()
 
 ## 6. [WIP] Sign up sheet / Tracker
 | **Form Section**       | **Bug or UX Issue Audit** | **Subprocesses** | **Browser** | 
