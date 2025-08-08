@@ -136,7 +136,7 @@ Send updates to notification audience:
 - End of each day issue is unresolved
 - When the issue is resolved
 
-- ^: the Incident Commander will be a product manager or engineering manager for the respective user-facing application
+^: the Incident Commander will be a product manager or engineering manager for the respective user-facing application
 
 #### P3 or P4
 If incident is rated P3 or P4:
