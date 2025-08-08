@@ -3,7 +3,7 @@
 ## Goal
 To allow product teams to feature dynamic content as needed for user acceptance testing (UAT) and staged rollouts. 
 
-**Note:** After a staged rollout is complete, it's important to move content back into Drupal. This allows Sitewide editors to maintain the content in the future without help from developers. 
+**Note:** After a staged rollout is complete, it's important to move content back into Drupal. This allows Drupal editors to maintain the content in the future without help from developers. 
 
 ## Relevant terms
 
@@ -16,13 +16,13 @@ To allow product teams to feature dynamic content as needed for user acceptance 
 
 
 
-## How the sitewide content, accessibility, and IA team works with product teams to use feature toggles for dynamic content for UAT testing and staged rollouts
+## How the Content and IA team works with product teams to use feature toggles for dynamic content for UAT testing and staged rollouts
 
-The Product team should tell Content and IA  about plans for an incremental launch as early as possible. Typically, Sitewide CAIA asks for about one month to work with the Product team to create and test a react widget ahead of a launch. Content and IA  also suggests meeting for an incremental launch "kickoff" meeting to discuss the process outlined here.
+The Product team should tell Content and IA  about plans for an incremental launch as early as possible. Typically, Content and IA asks for about 1 month to work with the Product team to create and test a react widget ahead of a launch. Content and IA  also suggests meeting for an incremental launch "kickoff" meeting to discuss the process outlined here.
 
 |Owner | Task|
 --|--
-| Product team | If they haven't already, Product team should open a [Content and IA intake](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=Content-IA-intake-form.md) to describe the project. In the original intake ticket, Product team should request support for a staged rollout (or incremental release). Content and IA will create a child ticket to track this work. Product team should notify Content and IA in #content-ia-centralized-team with the issue link. **Include any timing requirements/goals**, based on full launch to 100% of users. |
+| Product team | Product team should communicate to Content and IA as soon as they know there will be a staged release. Product team can communicate this either directly to their assigned Content and IA team member (if applicable) or by posting in #content-ia-centralized-team Slack channel. **Include any timing requirements/goals**, based on full launch to 100% of users. |
 | Content and IA team & Product team | The Product team works with the Content and IA team and SMEs to determine what content needs to be dynamic. The teams work together to finalize content, via ticket or via meetings around the ticket. The teams use the [content design steps listed in this doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/sitewide-content/processes/dynamic-content-process.md#content-design-process-steps). The teams discuss what content to show readers when the feature toggle is on and what content to show readers when the feature toggle is off. At this point the team should also decide how they would like search engines to interact with their tool before it is live to all users (see section below for more info)|
 | Content and IA team | Provide final copy via the issue. If different content should appear in the widget when the feature toggle is off, Content and IA notes this. |
 | Product team | Create a React widget in vets-website for the dynamic content. [Read documentation on creating a new React widget](https://depo-platform-documentation.scrollhelp.site/developer-docs/creating-a-new-react-widget)|
@@ -76,10 +76,10 @@ Follow the [platform developer docs](https://depo-platform-documentation.scrollh
 ```
 3. Point `url` to the route to your team's react application (or any other appropriate/relevant page)
 4. Update the `serviceDescription` with the action to perform. This description will be appended to the sign-in call-to-action (i.e. Sign in to [serviceDescription])
-5. Provide the widget type value to sitewide CAIA for input into Drupal
+5. Provide the widget type value to Content and IA for input into Drupal
 
 ## Notes for testing react widgets
-* For general testing, ensure the widget code has been deployed to production before testing with Sitewide CAIA.
+* For general testing, ensure the widget code has been deployed to production before testing with Content and IA.
 * If your widget is controlled by a feature toggle, when Content and IA is ready for testing, you will need to fully enable the feature toggle for all users in order to test the enabled rendering. Testing will not work with the toggle in a conditional state. You may reset the toggle to whatever condition is required after testing is completed.
 
 ## Search engine options for staged rollouts
