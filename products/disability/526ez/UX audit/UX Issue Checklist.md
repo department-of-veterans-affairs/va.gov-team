@@ -1,6 +1,5 @@
 # UX Issue Checklist
-Here’s a set of UX issue testing questions a tester should ask themselves when evaluating a section of a form or interface. 
-These are aligned with usability heuristics, VA experience standards, and practical UX audit goals—structured to promote critical thinking and actionable insights.
+When testing a section of the 526EZ form, your goal is to ensure that the experience is clear, consistent, and usable for all users. This means evaluating whether users can understand what’s being asked, complete tasks without confusion, and move through the section efficiently. Follow the questions below to guide your evaluation and surface any UX issues.
 
 ## ✅ UX Issue Testing Questions (Per Section or Page)
 ### 🧠 Comprehension
