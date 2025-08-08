@@ -25,7 +25,7 @@ The 526EZ is a long form with multiple pathways (e.g., ancillary forms) and nest
 2. Determine if you will be conducting a bug or UX issue audit
 3. Determine which form Step(s) and conditional pathways you will be auditing
 4. Check for in-progress work and known issues
-5. Review the bug audit or UX issue checklist
+5. Review the Bug Audit Checklist or the UX Issue Checklist
 6. Conduct your audit
 7.Create or update tickets for the issues you found using the **Bug Ticket Template** or the **UX Issue Template**
 8. Fill out the _Audit Tracker_ and update the _526 Active Form Audit Map_.
@@ -70,9 +70,9 @@ Multiple teams are involved in designing and developing the 526 form, and there 
 - **#benefits-disability-conditions**: Conditions team - for audits related to “Step 2: Conditions."
 - **#platform-design-system**: Platform design system team - for post-audit follow-up if issues are related to design patterns or components.
 
-## 📋 5. Review the bug audit or UX issue audit checklist
+## 📋 5. Review the Bug Audit Checklist or the UX Issue Checklist
 - 🐞 [Bug Audit Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/UX%20audit/Bug%20Audit%20Checklist.md)
-- 🤝 [UX Issue Audit Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/UX%20audit/UX%20Issue%20Checklist.md)
+- 🤝 [UX Issue Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/UX%20audit/UX%20Issue%20Checklist.md)
 
 ## 🔍 6. Conduct your audit
 
