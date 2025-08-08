@@ -25,6 +25,7 @@ https://github.com/department-of-veterans-affairs/va.gov-team/issues/113242
 
 ## <a name="flows"></a>Navigation/page flows <br>
 Note: The page title has been updated but that doesn't affect the navigation flow. Do not use this image as a reference for titles. 
+
 ![Screenshot 2025-07-10 093429](https://github.com/user-attachments/assets/d65ee2d4-de53-4cda-a56b-92b3073b27e0)
 
 
@@ -57,10 +58,10 @@ Follow the [VA Design System](https://design.va.gov/) for URL, breadcrumb, and p
   - This is the canonical URL for the form and what will appear in search results.
   - All referring links should have this URL as the destination.
   - Once this URL renders, form logic should redirect the visitor to the first page within the form flow - per standards this is generally /introduction  
-- Subheading: Include full name in the subheading with the form number -- Application for high technology education courses (VA form 22-10297)
-- Breadcrumb: VA.gov home > Education and training > Other VA education benefits > High Technology Education Courses (VET TEC 2.0) > Apply for VET TEC 2.0
+- H1 heading: Apply for high technology education courses (VET TEC 2.0)
+- Breadcrumb: VA.gov home > Education and training > Other VA education benefits > High technology education courses (VET TEC 2.0) > Apply for high technology education courses (VET TEC 2.0)
 - Browser title: [H1 of introduction page in title case] | Veterans Affairs
-    - Example based on H1 in Figma: Apply for VET TEC 2.0 | Veterans Affairs
+    - Example based on H1 in Figma: Apply for High Technology Education Courses (VET TEC 2.0) | Veterans Affairs
 
 **3) About VA form 22-10297 - New - Created by OCTO**
 - URL: va.gov/find-forms/about-form-22-10297/
