@@ -10,7 +10,7 @@
 |Phase 2: 10 users |2 days|10 users (auth users only)|  In the 8/7 - 8/14,2025 timeframe|
 |Phase 3: 25% of users| 3 days| 25% users (auth users only) | In the 8/14 - 8/21,2025 timeframe|
 |Phase 4: 100% of users| indefinite | 100% users (auth users only) | In the 8/21 - 8/28,2025 timeframe |
-|Phase 5: Retire V0 (non alert version)| permanent | 100% users (auth users only) | TBD | 
+|Phase 5: Retire V0 (non alert version)| permanent | 100% users (auth users only) | TBD |  
 
 Considerations
 - Pension form volume is typically ~200 per week, with ~180 authenticated submissions and ~20 unauthenticated submissions 
