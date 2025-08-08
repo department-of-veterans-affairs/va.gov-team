@@ -48,3 +48,8 @@ Next you'll want to get your local stack setup. Front engineers will most likely
 There are a variety of internal tools we use for performance, monitoring, tracability of errors, and analytics. Access to many of these tools is restricted. As a developer on the platform it is highly advised that you get access to these systems. Follow the guide available here to request access if your manager has not already requested access on your behalf.
 
 [Internal Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/engineering/internal-tools.md)
+
+
+### Codespaces (running remote so others can test or so you can run on a mobile device from your branch)
+
+[See codespaces document](../codespaces.md)
