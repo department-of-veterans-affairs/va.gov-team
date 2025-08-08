@@ -70,6 +70,6 @@ For each field or interactive element in the section, test its default state, va
 * [ ] Resize the window or test on mobile emulator.
 * [ ] Confirm layout and elements adjust properly.
 
-## ♿ 5. Test Accessibility Basics (if part of your responsibility)
+## ♿ 5. Focus States
 * [ ] Use only a keyboard to navigate (Tab, Enter, Esc, Space).
 * [ ] Make sure focus order is logical and visible.
