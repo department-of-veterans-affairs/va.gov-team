@@ -73,16 +73,5 @@ Multiple teams are involved in designing and developing the 526 form, and there 
 
 ## 🔍 6. Conduct your audit
 
-## 🗂️ 7. [WIP] Sign up sheet / Tracker
-| **Form Section**       | **Bug or UX Issue Audit** | **Subprocesses** | **Browser** | 
-|------------------------|-----------------|-----------------|----------|
-| **Intro, Intent to File** |None                 |                 |          | ☐          | ☐           | ☐          | ☐        |                 |
-| **Step 1: Veteran Details** |☐ Bug Audit <br>☐ UX Issue Audit|☐ Homeless Process <br>☐ Military Service History Process | ☐ Chrome<br>☐ Firefox <br>☐ Safari <br>☐ Other |
-| **Step 2: Conditions**             |                 |                 |          | ☐          | ☐           | ☐          | ☐        |                 |
-| **Step 3: Mental Health**             |                 |                 |          | ☐          | ☐           | ☐          | ☐        |                 |
-| **Step 4: Supporting Evidence**             |                 |                 |          | ☐          | ☐           | ☐          | ☐        |                 |
-| **Step 5: Additional Information**             |                 |                 |          | ☐          | ☐           | ☐          | ☐        |                 |
-| **Step 6: Review and Submit**  |                 |                 |          | ☐          | ☐           | ☐          | ☐        |                 |
-
-Notes
-Add browser version and type of computer
+## 🗂️ 7. Fill out the Audit Tracker
+- [Audit Tracker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/UX%20audit/Audit%20Tracker.md)
