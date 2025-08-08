@@ -20,7 +20,7 @@ Included are links to more specific transition hubs where you can find direct li
 - [Roadmap](#roadmap)  
 - [Features and initiatives we worked on](#features-and-initiatives-we-worked-on)  
 - [Enablement Team Contacts](#enablement-team-contacts)
-- [Stakeholders and Supported Initiatives]
+- [Stakeholders and Supported Initiatives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/Benefits%20Management%20Tools%20II%20Transition%20Hub%208.31.2025.md#stakeholders-and-supported-initiatives)
 
 
 ---
