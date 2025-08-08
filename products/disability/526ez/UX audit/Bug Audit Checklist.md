@@ -5,6 +5,10 @@ When testing a section of the 526EZ form (or any structured form page), your goa
 - Read any available documentation or helper text on the page.
 - Identify what this section is trying to capture or allow the user to do (e.g., enter personal info, upload documents, answer eligibility questions).
 
+### 💻 2. Test on Desktop and / or Mobile
+* [ ] Note the browser you're using (Chrome, Firefox, Safari, Edge).
+* [ ] Note the operating system you're using (macOS, iOS, Windows, Andriod).
+
 ## 🧪 2. Test Every Input Type
 For each field or interactive element in the section, test its default state, valid use, invalid use, and edge case.
 
@@ -65,9 +69,6 @@ For each field or interactive element in the section, test its default state, va
 ### 🧱 Responsive layout
 * [ ] Resize the window or test on mobile emulator.
 * [ ] Confirm layout and elements adjust properly.
-
-### 🌍 Browser testing
-* [ ] Test in all required browsers (Chrome, Firefox, Safari, Edge).
 
 ## ♿ 4. Test Accessibility Basics (if part of your responsibility)
 * [ ] Use only a keyboard to navigate (Tab, Enter, Esc, Space).
