@@ -279,7 +279,7 @@ Scenarios to consider:
 ## Resource materials
 - [4142 Paper Sync Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114741)
 - [Story Mapping Board] ???
-- [Figma 4142 redesigns] ???
+- [Figma 4142 redesigns](https://www.figma.com/design/gvWPL7Z8llEy0tg6bEZbms/Initiative-%E2%80%A2-4142-Paper-Sync?node-id=4139-15800) Ruben
 - [Updated screenshots in 526 Form Flow Mural] TBD - Liz?
 - [Updated pages in 526 Source of Truth Figma] TBD - Ruben?
 - [Final - 4142 PS Field Mapping.md] ???
