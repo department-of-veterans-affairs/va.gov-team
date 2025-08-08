@@ -26,7 +26,7 @@ The 526EZ is a long form with multiple pathways (e.g., ancillary forms) and nest
 3. Determine which form Step(s) and conditional pathways you will be auditing
 4. Check for in-progress work and known issues
 5. Review the bug audit or UX issue checklist
-6. Conduct your audit<br>
+6. Conduct your audit
 7. Fill out the _Audit Tracker_ and update the _526 Active Form Audit Map_.
 8. Create tickets for the issues you found using the **Bug Ticket Template** or the **UX Issue Template**
 
@@ -49,7 +49,7 @@ Use the following table to understand the difference between bugs and UX issues.
 | **Resolution**   | Solved through code fixes or engineering changes                 | Solved through UX, content, or design improvements                          |
                         
 ## 🧩 3. Which form steps and conditional pathways will you be auditing? 
-[add instructions as a requirement to click all the conditionals. set expectation that they are only doing a couple of section at a time. go through one step with every variable possible. have detailed documentation of the exact section you are. ]
+Keep in mind that you must actually enter answers into the form in order to move to the next section. For a bug audit, you will have to interact with each conditional variable within that form step. This takes time to conduct thoroughly. In order to prevent burnout, we recommend conducting an audit on one section per person per sprint. 
 | **Form Section**      | **Subprocesses** | **Conditional Reponses** |
 |------------------------|----------------------|--------------------------|
 | **Intro, Intent to File** |None                 |
@@ -63,9 +63,9 @@ Use the following table to understand the difference between bugs and UX issues.
 ## 📣 4. Check for in-progress work and known issues
 Multiple teams are involved in designing and developing the 526 form, and there may be in-progress updates to the section you plan to audit. These updates might address bugs or UX issues you would otherwise identify. To avoid duplicating work, first check for existing efforts by reaching out to the appropriate Slack channels or team members. Let them know you're auditing [X section] and ask if there are any in-progress changes, known issues, or prior findings you should review. 
 - ["Bug Bash Super Epic"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110810): Check subtasks for previously logged bugs or UX issues.
-- #benefits-disability: Full 526 team and OCTO enabling partners
-- #benefits-disability-conditions: Conditions team - for audits related to “Step 2: Conditions."
-- #platform-design-system: Platform design system team - for post-audit follow-up if issues are related to design patterns or components.
+- **#benefits-disability**: Full 526 team and OCTO enabling partners
+- **#benefits-disability-conditions**: Conditions team - for audits related to “Step 2: Conditions."
+- **#platform-design-system**: Platform design system team - for post-audit follow-up if issues are related to design patterns or components.
 
 ## 📋 5. Review the bug audit or UX issue audit checklist
 - 🐞 [Bug Audit Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/UX%20audit/Bug%20Audit%20Checklist.md)
