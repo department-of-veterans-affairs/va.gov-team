@@ -4,7 +4,7 @@
 - Reach out to #platform-security channel for questions
      - POC: Kenneth Mayo
   
-**DO NOT INCLUDE PII HERE** - AWS Instances, CI/CD, etc cannot be linked here- must be shared on VA Network
+**DO NOT INCLUDE PII HERE** - AWS Instances, CI/CD, etc cannot be linked here - must be shared on VA Network
 
 
 ### Products
@@ -28,8 +28,7 @@
           - However, this connection is not dependent between the forms.
 
 - What is the expected duration of your project? This information helps us understand how our processes need to adapt
-     - Our project (contract) is set to end 8/13/2025.
-          - Pending news of a bridge contract to take affect immediately and lasting until May 2026.
+     - Our current contract is set to end 05/13/2026.
      - Our products are intended to remain on VA.gov indefinitely
 
 ### AWS Resources
