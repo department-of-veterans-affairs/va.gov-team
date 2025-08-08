@@ -1,20 +1,4 @@
-# Summary from Dovetail
 
-#### Communication preferences
-
-Users prefer email notifications over physical mail and app notifications for bills and payments, citing better organization and ability to check at set times. They often disable phone notifications to avoid distractions. [1]("I prefer like email notifications. You can have like a set time to check my emails and then I go through. Then I see my emails. But as far notifications to have. Even if I have the VA app right now, all of my notifications on my phone, they're just all turned off because they get like distracted so easy")
-
-#### Bill presentation and organization
-
-Users want a clear separation between current outstanding balances and payment history, with immediate visibility of payment due dates and amounts. The current mixed presentation of active and past payments causes confusion. [2]("I would say this one is not necessary. Then if it's already. It's already paid off, it should be under like payment history or something like that")[3]("Because I would think that you already have. When I click on. On the payments the CO pays, I would think that these are the ones that are outstanding, not the ones that are, you know")
-
-#### Payment process experience
-
-Users strongly prefer self-service digital payment options over phone or mail payments, but need easy access to account numbers and payment information. Having to switch between screens to find account numbers creates friction in the payment process. [4]("I would rather use this version because it'll, you know, I avoid, like, calling and being on hold or anything like that. I could just pay it off online, easy.")[5]("It'd be nice to have that information there. The. The account number...because I already know what the bill is...and then now I have to click on where do I find it? And then now go back to the app, get it, and then put it there.")
-
-#### Support and assistance needs
-
-Users want direct access to relevant help resources without having to navigate general support channels, particularly for billing disputes or payment arrangements. Clear contact information for specific issues would reduce frustration with being transferred multiple times. [6]("I've had that happen to me before...where I saw a number, and I called that number and they put me on hold to transfer me and then another transfer after that.")[7]("someone that could help me right away rather than like putting me on hold for them to find out which one it is")
 
 
 # Notes by Perigean. Conversation Guide used as the structure for notes.
