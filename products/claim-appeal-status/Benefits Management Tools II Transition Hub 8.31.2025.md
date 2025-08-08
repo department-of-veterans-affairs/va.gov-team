@@ -20,6 +20,8 @@ Included are links to more specific transition hubs where you can find direct li
 - [Roadmap](#roadmap)  
 - [Features and initiatives we worked on](#features-and-initiatives-we-worked-on)  
 - [Enablement Team Contacts](#enablement-team-contacts)
+- [Stakeholders and Supported Initiatives]
+
 
 ---
 
