@@ -22,31 +22,29 @@ As referenced in the [Product Outline](https://github.com/department-of-veterans
 ### The release plan will need to consider the following use cases:
 1. Applications In-Progress
    - Before full release:
-      - Unauthenticated Users: As 0969 exists only as a paper form today, there will not be in-progress applications prior to launch start.  Upon launch start the applicant will access the online form experience when turned on for 100 percent of users or selected through the incrementaltoggle percentage setting.
-      - Authenticated Users:  As 0969 exists only as a paper form today, there will not be in-progress applications prior to launch start.  Upon launch start the applicant will access the online form experience when turned on for 100 percent of users or selected through the toggle percentage setting.
+      - Unauthenticated Users: As 0969 exists only as a paper form today, there will not be in-progress applications prior to launch start.  Upon launch start the applicant will access the online form experience when turned on for 100 percent of users or selected through the incremental toggle percentage setting.
+      - Authenticated Users:  As 0969 exists only as a paper form today, there will not be in-progress applications prior to launch start.  Upon launch start the applicant will access the online form experience when turned on for 100 percent of users or selected through the incremental toggle percentage setting.
    - After 100% release:
-      - Unauthenticated Users:  Intent to File functionality is not available to unauthenticated users.
-     - Authenticated Users: If the user maintains a single active session, they will complete the legacy, back-end only version of the Intent to File experience.        If they leave a session and start a new one, they may be directed to the updated version (v1) with alerts presented about ITF. 
+      - Unauthenticated Users:  The applicant will access the online form experience
+     - Authenticated Users: the applicant will access the online form experience
 2. Applications Not Started
    - Before full release:
-      - Unauthenticated Users: Intent to File functionality is not available to unauthenticated users.
+      - Unauthenticated Users: The applicant will access the online form experience when turned on for 100 percent of users or selected through the incremental toggle percentage setting.      Applicants not selected through the incremental toggle percentage settingwill be directed to the (PDF) paper form.
       - Authenticated Users: Users may be directed to fill out the updated version (v1) with alerts presented depending on the level of incremental traffic set for the updated version (v1) (25%/100%)
    - After 100% release
-      - Authenticated Users: Users will complete the v1 experience.
+      - All applicants will access the online form experience.
 
-| User Type | Flipper Status | Form in Progress | ITF Version| V1 Info Content Displayed|
+| User Type | Flipper Status | Form in Progress |Version| Content Displayed|
 |---|---|---|---|---|
-| Authenticated Users | Disabled | No | v0 | No | No |
-| Authenticated Users | Disabled | Yes, v0 | v0 | No | No |
-| Authenticated Users | Disabled | Yes, v1 | v1 | Yes | No |
-| Authenticated Users | Enabled | No | v1  | No | Yes |
-| Authenticated Users | Enabled | Yes, v0 | v1 | Yes | Yes |
-| No-Auth Users (Pre-100% Release) | N/A | No | v0 | No | No |
-| No-Auth Users (Post-100% Release)| N/A | No | v1 | Yes | No |
+| Authenticated Users | Disabled | N/A | Paper Form PDF | not digitized | link to PDF |
+| Authenticated Users | Enabled | N/A | online form  | digitized | online application |
+| UnAuthenticated Users | Disabled | N/A | Paper Form PDF | not digitized | link to PDF |
+| UnAuthenticated Users | Enabled | N/A | online form  | digitized | online application |
+
 
 ### This release will include the following components:
-1. Form component updates 
-2. Info alerts on the form information page letting new users know the purpose and benefit of ITF and next steps when there is a system issue.
+1. Form component updates
+2. 
 ---
 
 ## Step 1: Development
