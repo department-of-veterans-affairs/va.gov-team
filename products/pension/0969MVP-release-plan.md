@@ -6,24 +6,24 @@
 
 | Phase | Duration | Users | Dates |
 |---|---|---|---|
-|Phase 1: Staging testing |14 days|7| July 1-10, 2025 and July 27-30, 2025 |
-|Phase 2: 10 users |2 days|10 users (auth users only)|  In the 8/21 - 8/28,2025 timeframe|
+|Phase 1: Staging testing |14 days|7| June 20-27, 2025 and July 8-15, 2025 |
+|Phase 2: 10 submissions |2 days|10 users|  In the 8/21 - 8/28,2025 timeframe|
 |Phase 3: 25% of users| 3 days| 25% users (auth users only) | In the 9/2 - 9/9,2025 timeframe|
 |Phase 4: 100% of users| indefinite | 100% users (auth users only) | In the 9/10 - 9/17,2025 timeframe |
-|Phase 5: Retire V0 (non alert version)| permanent | 100% users (auth users only) | TBD | 
+|Phase 5: Retire V0 (non alert version)| permanent | 100% users | TBD | 
 
 Considerations
-- Income and Asset statement paper form volume is typically ~40k per year, depending on online formm adoption we expect somewhere in the ~500 to ~1500 submissions per month.
+- Income and Asset statement paper form volume is typically ~40k per year, depending on online form adoption we expect somewhere in the ~500 to ~1500 submissions per month.
 
 ## Overview
-The 21P-0969 is available to Veterans today through a paper form.  This initiative will bring the form online so that Veterans instructed to complete it can more efficiently populate their income and asset information through a streamlined digital experience.
+As referenced in the [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pension/21P-0969-product-outline.md), the 21P-0969 is available to Veterans today through a paper form.  This initiative will bring the form online so that Veterans instructed to complete it can more efficiently populate their income and asset information through a streamlined digital experience.  This inititaive is the MVP initial digitization of the Income and Asset statement.  
  
 
 ### The release plan will need to consider the following use cases:
 1. Applications In-Progress
    - Before full release:
-      - Unauthenticated Users: Intent to File alert functionality is not available to unauthenticated users.
-      - Authenticated Users: If the user maintains a single active session, they will complete the legacy, back-end only version of the Intent to File experience. If they leave a session and start a new one, they may be directed to the updated version (v1) with alerts presented about ITF, depending on the level of incremental traffic set for the legacy form (50%/100%).
+      - Unauthenticated Users: As 0969 exists only as a paper form today, there will not be in-progress applications prior to launch start.  Upon launch start the applicant will access the online form experience when turned on for 100 percent of users or selected through the incrementaltoggle percentage setting.
+      - Authenticated Users:  As 0969 exists only as a paper form today, there will not be in-progress applications prior to launch start.  Upon launch start the applicant will access the online form experience when turned on for 100 percent of users or selected through the toggle percentage setting.
    - After 100% release:
       - Unauthenticated Users:  Intent to File functionality is not available to unauthenticated users.
      - Authenticated Users: If the user maintains a single active session, they will complete the legacy, back-end only version of the Intent to File experience.        If they leave a session and start a new one, they may be directed to the updated version (v1) with alerts presented about ITF. 
