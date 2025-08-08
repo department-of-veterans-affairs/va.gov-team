@@ -32,7 +32,7 @@ The 526EZ is a long form with multiple pathways (e.g., ancillary forms) and nest
 
 ## 🔐 1. Access staging
 In order to test, testers need to access the form in Staging.
-1. Access the Staging Environment [here](https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction)
+1. Access the [Staging Environment](https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction)
 2. Click "Sign in to start your application"
 3. Click the green "ID.me" button
 4. Login using a username and password from [this list](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv) of staging users. You may encounter errors with some users. Recommended users include 230, 234, 235.
