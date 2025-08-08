@@ -1,5 +1,5 @@
 # UX Issue Checklist
-When testing a section of the 526EZ form, your goal is to ensure that the experience is clear, consistent, and usable for all users. This means evaluating whether users can understand what’s being asked, complete tasks without confusion, and move through the section efficiently. Follow the questions below to guide your evaluation and surface any UX issues. These categories are based on the [VA Experience Standards](https://design.va.gov/about/experience-standards/).
+When testing a section of the 526EZ form, your goal is to ensure that the experience is clear, consistent, and usable for all users. This means evaluating whether users can understand what’s being asked, complete tasks without confusion, and move through the section efficiently. Follow the questions below to guide your evaluation and surface any UX issues. These categories are based on the [VA Experience Standards](https://design.va.gov/about/experience-standards/). Additionally, VA Information Architecture (IA) [here](https://design.va.gov/ia/#ia-principles).
 
 ## 🧭 1. Understand the Form Step / Section's Purpose
 - Read any available documentation or helper text on the page.
