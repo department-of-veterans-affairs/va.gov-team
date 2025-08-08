@@ -1,30 +1,4 @@
-# Summary from Dovetail
 
-#### Payment management experience
-
-- The participant primarily manages VA copayments through a combination of mailed bills and online payments via pay.gov, expressing preference for using a computer over phone. [1](1)
-
-- There is confusion around payment tracking due to disconnect between website information and mailed bills, with participant discovering they had unnecessarily made payments after reaching annual cap. [2](2)
-
-#### Information needs and preferences
-
-- The participant seeks key payment details including account numbers (which can change), payment amounts, and due dates to avoid late fees. [3](3)
-
-- Clear visibility of annual copay cap progress ($700) would increase confidence in payment tracking. [4](4)
-
-- Statement PDFs are saved for record-keeping, with participant using cloud storage when on mobile before transferring to local storage. [5](5)
-
-#### Help-seeking behaviors
-
-- When payment issues arise, the participant prefers calling using numbers found on statements rather than searching online resources. [6](6)
-
-- The participant expresses concern about maintaining VA benefits, leading to proactive communication about potential payment delays. [7](7)
-
-#### Interface and navigation
-
-- Navigation between apps for payments is acceptable for tech-savvy users but may challenge others less comfortable with mobile interfaces. [8](8)
-
-- The participant suggests adding an onboarding tour to help users locate key features within the app. [9](9)
 
 
 # Notes by Perigean. Conversation Guide used as the structure for notes.
