@@ -104,5 +104,6 @@ If you as a reviewer can verify these things, then we as a team should be comfor
 - Do the names of functions/components/variables make sense? This is one of the biggest pieces of making code understandable, making sure constructs are named clearly and accurately
 - For any custom css, are there design system utilities that could be used instead?
 
-
-
+### Testing code remotely
+- If you need to test code remotely or have someone else test code you can run that code on GitHub codespaces and test wherever you need.
+- To setup codespaces to use mocks and be publicly available see the [codespaces setup doc](../codespaces.md)
