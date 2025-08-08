@@ -26,5 +26,7 @@ Where in the form is it located or which sections does it affect?
 ## Screenshots or Videos
 Add screenshots, videos, and/or instructions for reproducibility. 
 
-## Issue Criticality
-[some measure of criticality severe, moderate,?]
+## Severity
+Low
+Medium
+High - prevents someone from filling out the form (like Copy?) 
