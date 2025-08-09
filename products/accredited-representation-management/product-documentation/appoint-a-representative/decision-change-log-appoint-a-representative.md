@@ -1,8 +1,6 @@
 
 # Decision and Change Log: Appoint a Representative
 
-This document is actively maintained by Product Manager, Lindsay Li-Smith, and updates are made every Friday.
-
 - **10/27/2023**: The 21-22 and 21-22a forms are updated to include a new field "Claimant's Date of Birth" and the 21-22a has an additional field "Authorization for Disclosure to Affiliated Personnel".\
   _Notified by the Compensation Service Calendar automated updates. ([calendar link](https://gcc02.safelinks.protection.outlook.com/?url=http%3A%2F%2Fvbacoweba5.vba.va.gov%2Fbl%2F21%2Fcalendar%2Fcal_Week.asp\&data=05%7C02%7C%7Cfb5aa9ac2a8144f1c2c108dc27cdcb98%7Ce95f1b23abaf45ee821db7ab251ab3bf%7C0%7C0%7C638429012045422344%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C\&sdata=za8k4WgCpYWf0LMiovJ54HLgaxR%2BSPHvtbzrV87ZVN4%3D\&reserved=0))._
 - **1/26/2024**: Lighthouse confirms that an older version of the PDF will not be an issue.\
