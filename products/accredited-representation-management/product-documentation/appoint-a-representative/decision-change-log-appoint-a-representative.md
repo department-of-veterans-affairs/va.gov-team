@@ -73,6 +73,8 @@ _Originally proposed by Product Manager Lindsay Li-Smith ([Slack Message](https:
   _Confirmed by Product Manager, Lindsay Li-Smith ([Slack message](https://dsva.slack.com/archives/C05L6HSJLHM/p1741039243600519))._
 - **3/11/2025**: Decided not to change our approach, despite the possible PII concern that first name and email address are being passed along. Instead, we'll wait for VA Notify to implement a new model/DB and will update our code to use that when it's ready.\
   _Decided in the ARM Leadership Sync ([Meeting notes](https://dsva.slack.com/docs/T03FECE8V/F05SKGFB50Q?focus_section_id=temp:C:VBD32b5d621ac8e4f4e97dcd3a7e))._
+- **3/13/2025**: Decided to hold off on adding in the "prefill pattern", and instead focus on 21a priorities.\
+  _Decided in the PM/PO Sync ([Meeting notes](https://dsva.slack.com/docs/T03FECE8V/F07T1273G2J?focus_section_id=temp:C:VEMee99d92aff7e4016b0a7f3e91))._
 - 🎉 **3/25/2025**: Released 2.0 to 100% of users
 ([release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/appoint-a-representative/release-plan-appoint-a-representative-2.0.md)).
 - **6/30/2025**: Enabled online submission for two VSOs: Wounded Warrior Project and Montana Department of Veterans Affairs.\
