@@ -77,4 +77,6 @@ _Originally proposed by Product Manager Lindsay Li-Smith ([Slack Message](https:
   _Decided in the ARM Leadership Sync ([Meeting notes](https://dsva.slack.com/docs/T03FECE8V/F05SKGFB50Q?focus_section_id=temp:C:VBD32b5d621ac8e4f4e97dcd3a7e))._
 - 🎉 **3/25/2025**: Released 2.0 to 100% of users
 ([release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/appoint-a-representative/release-plan-appoint-a-representative-2.0.md)).
+- **6/30/2025**: Enabled online submission for two VSOs: Wounded Warrior Project and Montana Department of Veterans Affairs.\
+  _([Github ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112473))._
 
