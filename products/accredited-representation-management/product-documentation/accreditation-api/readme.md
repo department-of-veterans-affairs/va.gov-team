@@ -6,5 +6,6 @@
 Related epic with refined tickets: [ARM Development: Accreditation API](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97341)
 
 ## Supporting Documentation
-1. [Release Plan: Accreditation API Integration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/accreditation-api/release-plan-accreditation-api.md)
-2. [Notes from Architecture Intent](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/pull/2300)
+1. [Decision and Change Log: Accreditation API](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/accreditation-api/decision-change-log-accreditation-api.md)
+2. [Release Plan: Accreditation API Integration](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/accreditation-api/release-plan-accreditation-api.md)
+3. [Notes from Architecture Intent](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/pull/2300)
