@@ -1,7 +1,5 @@
 # Decision and Change Log: Representative Status
 
-This document is actively maintained by Product Manager, Lindsay Li-Smith, and updates are made every Friday.
-
 - **3/1/2024**: Determined that the data structure only supports the appointment of an entire VSO, not an individual VSO Representative. MVP designs were updated to reflect this existing data structure.\
   _Discussion between Lighthouse and ARM, with final confirmation from Product Owner Jennifer Bertsch ([slack conversation](https://dsva.slack.com/archives/C063D0M76HX/p1709313981607549))_.
 - **:tada: 5/20/2024**: Released 1.0 (MVP) to 100% of users, published on the Find a Representative and accredited representative landing pages.\
