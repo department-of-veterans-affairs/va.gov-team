@@ -32,7 +32,7 @@ To focus our work, we’ve outlined four discovery buckets:
 These discovery buckets cut across all three fraud pillars, though our initial focus will be on the Detection track.
 
 
-## Phase 0: Foundation for Discovery  
+## Foundation for Discovery  
 
 We began by setting the foundation for discovery: defining the problem space, aligning on priorities, and identifying how our team could add unique value to VA’s fraud ecosystem. This work establishes the strategic pillars (Prevention, Detection, Response) and clarifies where we're focusing first.  
 
