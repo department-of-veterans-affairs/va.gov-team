@@ -36,8 +36,6 @@ Veterans may fill out web forms on VA.gov throughout their lives, including ALL 
 
 <img src="./images/2-a11y-issues.png" width="50%" height="50%" alt="This is a sample form question followed by an underlined link that says 'Finish this request later' and then a Continue button. Below the Continue button is a green informational box that says 'Your request has been saved. We saved it on April 30, 2025, at 5:15 p.m. PDT. Your request ID number is 44849.'">
 
-https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/research/2025-05-save-in-progress/research-report.md#figure-2-shows-the-revised-design
-
 ### Revised design
 
 We are testing a modification of the VA Design System [Header - Minimal component](https://design.va.gov/components/header/header-minimal), which is recommended for the design of new web forms. To address the above accessibility issues, we made the following two changes:
