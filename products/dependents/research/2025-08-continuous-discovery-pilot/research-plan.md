@@ -202,5 +202,5 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 
 ## Approvals ✅
 
-- `Reviewed by Ben Delphine on [MM-DD-YYYY]`
+- `Reviewed by Ben Delphine on [08-07-2025]`
 - `Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]`
