@@ -76,17 +76,7 @@ In the bottom toolbar of the Zoom window, click the arrow next to **SHOW CAPTION
 
 *After checking that transcription is working, close the Transcript panel by clicking **Close Full Transcript** in the Show Captions menu.*
 
-## Screen sharing instructions (if needed)
-- In the Zoom application on your mobile device, click the **More...** button and then click **Share** *(on your phone, you may need to scroll sideways)
-  - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
-  - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
 
-- Now I'd like you to share your screen with me. Tap on the button that says **Share**. Then there will be options for what to share. Please choose **"Screen"** (phone) or your web browser.
-- Great, now I can see your screen! Thank you for your patience in figuring this out.
-- Is anything in these instructions unclear or confusing to you? Is there any language you’d change?”
-
-- iPad: **Broadcast screen**
-- 
 ## Troubleshooting
 - [Avoid **AI Companion**, which is a new option next to “Share” in the Zoom buttons]
 
@@ -129,20 +119,22 @@ I would like you to share your screen with me so that I can see what you do duri
 
 We can help guide you through this if you need help. Please say what you're doing out loud so that if there are any issues, we'll know what they are.
 1. Make sure that the Zoom application has focus
-1. Navigate to the screen share button
-1. Check the "share sound" checkbox (so we can hear their screen reader speaking)--may have to tab a LOT to get to this in the right pane
-1. Activate the screen share
+2. Navigate to the screen share button (may need to tap on mobile device to display the menu at the bottom, may have to scroll over to see menu options).
+3. Check the "share sound" checkbox (so we can hear their screen reader speaking)--may have to tab a LOT to get to this in the right pane
+4. Activate the screen share
 
 **(If video window is covering up phone screen)** It looks like my zoom video is covering up a lot of your screen. Could you please swipe it off? (Screen reader: swipe right until the video window has focus, and then double tap when you hear "Stash preview".)
 
 ## Task 00: Open prototype
 **for iOS users:** 
 Did you previously receive the link and instructions to download the testing version of the mobile app today?
+
 Y - Were you able to download the app via those instructions?
+
     Y - skip down to note for all users
 N - Supply the following link and instructions
 
-I will *[email/text/dictate/put into the Zoom chat]* the URL: that takes you to download the testing app **[place url here](https://testflight.apple.com/join/RrO0Cw2q)** --
+If No: I will now share in the zoom chat the URL: that takes you to download the testing app **[place url here](https://testflight.apple.com/join/RrO0Cw2q)** --
 - *(If asked, reassure that this is a legitimate link to what I want you to test)*
 
 Did you get the link? 
@@ -177,7 +169,7 @@ As we go through the steps in this study, please talk aloud about what you're th
 
 [Sign in using the 'Sign in' button on your screen > Once logged in you will see some initial app instructions, select "Skip" at the bottom-right of your screen > For the notification screen select "Not now".]
 
-[When they get to the homepage:] Please stop here so I can give you the next instruction.
+[When they get to the homepage:] Any data you are seeing here or throughout this test is not your real data or connected to your VA account in any way. This is a testing environment with artifical testing data displayed only. Please stop here so I can give you the next instruction.
 
 ### Questions for testing participant: 
 
@@ -189,7 +181,7 @@ Was any part hard to navigate or understand?
 ## Task 2: Start a statement
 Pretend that you need to start a new statement with the VA by completing a form. Where would you expect to find forms like these in the VA mobile app? What would you expect this section to be called?
 
-[Select 'Go to forms' > Click the button 'Start a new statement' > Read the text on this page and continue on by clicking on the button 'Start a new statement', Read through the screen 'What would you like to do?' > Select 'What I want to do isn't listed here' > Click 'Continue'.]
+[Select 'Go to forms' > Click the button 'Start a new statement' > Read the text on this page and continue on by clicking on the button 'Start a new statement', Read through the screen 'What would you like to do?' > Select 'What I want to do isn't listed here' > Click 'Continue' > You will see a Github screen click 'Continue'.]
 
 Reminder to speak aloud any thoughts, reactions, or questions you have during this process.
 
@@ -303,9 +295,14 @@ Did you encounter any issues using your [screen reader/assistive tech/device]?
 Was any part hard to navigate or understand?
 
 ### SuS for testing participants:
-Now that you've completed the tasks above, I'm going to supply you with a link to a 10 questions survey.
+Now that you've completed the tasks above you can exit the VA testing app and return to your zoom app. You may need to tap on the screen to display the menu at the bottom of the zoom app. Find and select 'Chat' from the menu. I'm going to supply you with a link to a 10 questions survey.
 
 [Moderator copy/paste link to Qualitrix SuS into the chat] (SuS Link)(https://dj540s05.optimalworkshop.com/questions/vhbappformsmvp)
+
+Please select the link and take the survey.
+
+### Deleting the testing app:
+Now that we have completed the study today I'm going to prompt you to delete the VA testing app from your device. If you navigate to your device home screen, and engage the menu screen of the VA testing app we used today select 'Delete app'. Remove from device.
 
 ## Thank You and Closing - 3 minutes
 
