@@ -5,8 +5,9 @@ Do these 3 steps first, _before any investigation of root cause is done_.
 ### 1. Collect
 **Coordinator/Techical Lead**: Collect information for triaging.
 
-1. Impact: **What percentage of Veterans are impacted?**
+1. Impact: **What percentage (OR EXPLICIT #) of Veterans are impacted?**
 2. System: **Which systems are involved?**
+3. Timeframe: **Estimate - How long has the issue been going on?**
 
 ### 2. Notify
 2.1. **Coordinator**: Start a thread in [#beneficiary-travel-team](https://dsva.slack.com/archives/C05UTPZRZFY) with the following template:
@@ -16,13 +17,14 @@ CC @Blaise Fox @Josh Patterson
 
 There is an ongoing significant incident with Travel Pay. 
 
-Impacted Veterans %: xx%
+Impacted Veterans %: xx% (or explicit #)
 Impacted Systems:    System A, System B
+Timeframe: Issue has been going on for X minutes.
 
-We are continuing to investigate the issue and will post updates in this thread as we have them. :thread:
+We are investigating the issue and will post updates in this thread as we have them. :thread:
 ```
 
-2.2 **Coordinator**: Work with Kay, Kristen, and Mark to determine if this incident warrants setting up a maintenance window.
+2.2 **Coordinator**: Work with Kay, Kristen, Mark and Technical Lead to determine if this incident warrants setting up a maintenance window [or doing a complete rollback of updated service / tool].
 
 ### 3. Track
 - **Technical Lead**: Start a debugging traceability document using [this Incident Investigation Traceability]() template. 
@@ -33,7 +35,7 @@ We are continuing to investigate the issue and will post updates in this thread 
 Slack channel is [#beneficiary-travel-team](https://dsva.slack.com/archives/C05UTPZRZFY)
 
 ### Core Roles
-#### Coordinator: The person in charge of coordinating and communicating the overall response.
+#### Coordinator: The person in charge of coordinating and communicating the overall response & resolution.
 - Name: Charlotte Reid
 - Email: charlotte.reid@adhocteam.us
 
@@ -87,7 +89,7 @@ Reachable on Slack and Microsoft Teams.
 
 #### VFS Platform Team:
 - Slack Channel: [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1)
-- Engage this team when the impact is widespread
+- Engage this team when the impact is widespread (Confirm w/ Kay & Kristen before reaching out.)
 - Use the `/support` bot functionality (type `/support` into the main vfs-platform-support channel)
 and describe the incident.
 
@@ -101,9 +103,11 @@ be proactive in noticing and fixing production issues, we adhere to the followin
    scheduled from 8pm - 10pm ET, the VA.gov team would be on call from 7pm to 11pm ET.
 2. There should be a minimum of 1 person on call and ideally 2 people on call with exceptions for PTO, etc.
 3. On-call duties include
-   1. Responding to incidents
-   2. Validating VA.gov Travel Pay deployments [how in prod?]
-   3. Validating backing services (API, CRM) deployments [how in prod?]
+   1. Responding to testing requests from deploying teams
+   2. Responding to incidents
+   3. Validating VA.gov Travel Pay deployments [how in prod?]
+   4. Validating backing services (API, CRM) deployments [how in prod?]
+   5. Kicks off the Escalation process.
 
 ### Management
 - Schedule: The on-call schedule and rotation is managed in [PagerDuty](https://dsva.pagerduty.com/service-directory/PO9X8XN).
@@ -115,7 +119,7 @@ be proactive in noticing and fixing production issues, we adhere to the followin
 ### Escalation Steps
 - Initial Triage: On-call engineer attempts to resolve the issue for [Timeframe, e.g., 15 minutes].
 - Technical Escalation: If no progress is made, the on-call engineer pages the Technical Lead.
-- Leadership Escalation: For Sev 1 incidents or if the Technical Lead is unable to resolve the issue, the Incident Commander and relevant leadership are notified.
+- Leadership Escalation: For Sev 1 incidents or if the Technical Lead is unable to resolve the issue, the Incident Commander  (**DO YOU MEAN COORDINATOR**) and relevant leadership are notified. (**CONFIRM OVERNIGHT / LATE NIGHT BEHAVIOR W/ LEADERS.**)
 
 ## 🛠️ Debugging Steps
 
