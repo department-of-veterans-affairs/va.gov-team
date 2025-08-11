@@ -26,8 +26,8 @@ body:
       Describe here
 - type: checkboxes
   attributes: 
-    label: Definition of Done
-    description: Describe here
+    label: Definition of done
+    description: Describe here (Add to checklist if necessary)
     options:
       - label: Acceptance criteria reviewed and approved by product or design
       - label: Unit test (or other test coverage) added if possible
