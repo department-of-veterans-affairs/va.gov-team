@@ -5,7 +5,9 @@ labels: ["bug", "disability", "disability-benefits", "needs-refinement"]
 projects: 
 - department-of-veterans-affairs/1660
 body:
-markdown: |
+- type: markdown
+  attributes:
+    value: |
       What makes a good bug name? 
       
       - Use an action verb to convey what's not working as expected. 
