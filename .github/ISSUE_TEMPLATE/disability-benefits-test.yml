@@ -8,8 +8,7 @@ body:
 - type: textarea
   attributes:
     label: User Need 
-    description: Describe the story
-    placeholder: |
+    description: |
       As a **user**
       I want to **do something** 
       So that **something happens**
