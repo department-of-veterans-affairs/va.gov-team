@@ -159,13 +159,13 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 ### 1-week results
 
 - Number of unique users:
-- Post-launch KPI 1 actual: Total number of digital debt disputes
-- Post-launch KPI 2 actual: Total number of submission confirmations sent
-- Post-launch KPI 3 actual: Error Rate: Total number of errors/failures
-- Any issues with VA handling/processing?:
-- Types of errors logged: 
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges?:
-- If yes, what: Minor changes to requests to VaNotify service to prevent client side errors.
+- Post-launch KPI 1 actual: Total number of digital debt disputes: 517
+- Post-launch KPI 2 actual: Total number of submission confirmations sent (success): 27
+- Post-launch KPI 3 actual: Error Rate: Total number of errors/failures: 14% error rate (517/27)
+- Any issues with VA handling/processing?: No
+- Types of errors logged: Gateway timeout in DMC
+- Any changes necessary based on the logs, feedback on user challenges, or VA challenges?: Yes
+- If yes, what: We are working on making this form async so we can implement retries.
 
 ### 1-month results
 
