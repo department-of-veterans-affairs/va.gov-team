@@ -27,9 +27,18 @@
 *Provide context for this research by explaining how it fits into the Veteran’s journey.*  
 [See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)  
 
+This study aims to evaluate two different flows; an existing MVP flow (Option Green) and the new Confirmation Flow (Option Red). This is to validate the Confirmation Flow and seek to identify any pain points, areas of confusion, and opportunities to enhance the flow. The insights gathered from this study will help inform the iterative design and well as clarify the next steps.
+
 **Guiding Questions:**  
 - What are the key moments this tool supports in the Veteran’s journey?  
 - What outcomes are we aiming to achieve for Veterans and stakeholders?  
+
+**Specific Goals:**  
+- Goal 1: Spouse Information: Test the usability of the spouse information section to see if the Veterans follow the conditional logic, understand what information can be updated, and whether the information presented is comprehensible.
+
+- Goal 2: Confirmation Flow: Validate that Veterans prefer the confirmation flow (Option Red), using the List&Loop component, because it is more efficient than the existing MVP approach (Option Green).
+
+- Goal 3: Gray Reference Card: Understand how the Veterans expect the previous year’s financial data to be prefilled, and whether they understand the hierarchy of the information on financial reporting screens.
 
 [Example Research Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-goals) 
 
