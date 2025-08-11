@@ -35,10 +35,12 @@
                             * Go to Outlook and on the top right, click on the address book icon (person on the front of a book).
                             * Search for your name and then double-click on it.
                             * On the "General" tab (opens by default), you should see a field labeled "Alias". That's your AD ID.
+                            * <img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/03cdfb50-72af-4555-b909-1900c5842452" />
+                            - <img width="523" height="260" alt="image" src="https://github.com/user-attachments/assets/e5d4e5f6-5f42-4744-8afc-c88ccc73dfef" />
                     * Josh F can give create & edit access in SQA env
                 * Must be on VA network to access this
 
-         - <img width="523" height="260" alt="image" src="https://github.com/user-attachments/assets/e5d4e5f6-5f42-4744-8afc-c88ccc73dfef" />
+
 
             * Used for to look at changes we make via Enrollment system API and Associations API
                 * Example: EZR submitted, can find that EZR in UI (data, Priority group, etc)
