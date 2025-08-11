@@ -48,6 +48,6 @@ body:
     description: Make this ticket ready to work
     options: 
       - label: Add description, tasks, and acceptance criteria
-      - label: Add estimation
+      - label: Add estimate
       - label: Add the proper labels, team, and priority
       - label: Add an Epic or Super Epic
