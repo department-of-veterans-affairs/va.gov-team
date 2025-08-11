@@ -1,0 +1,113 @@
+name: Accessibility Design Review – Intake Form
+description: Intake form to prepare for an accessibility design review
+title: "[A11y Design Review] "
+labels:
+  - disability-experience
+  - needs-a11y-refinement
+assignees:
+  - etanb
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 📝 Summary
+        Please fill out all fields clearly to ensure we can provide helpful and timely feedback.
+
+  - type: input
+    id: feature_name
+    attributes:
+      label: Feature name
+      placeholder: e.g., Disability Benefits Form Update
+    validations:
+      required: true
+
+  - type: textarea
+    id: feature_summary
+    attributes:
+      label: Brief summary of the feature and what it aims to solve or improve
+      placeholder: Describe the purpose and improvements
+    validations:
+      required: true
+
+  - type: input
+    id: team_name
+    attributes:
+      label: Team name
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        ## 👥 Point of Contact
+
+  - type: input
+    id: product_owner
+    attributes:
+      label: Product owner name
+    validations:
+      required: true
+
+  - type: input
+    id: designer_contact
+    attributes:
+      label: Designer contact name
+    validations:
+      required: true
+
+  - type: input
+    id: engineers
+    attributes:
+      label: Engineer(s) name(s) (optional)
+      placeholder: Optional
+
+  - type: input
+    id: slack_channel
+    attributes:
+      label: Slack channel for follow-up
+      placeholder: e.g., #accessibility-help
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        ## 📁 Resources
+        Please provide links to any relevant design materials. Be specific about where we should look.
+
+  - type: textarea
+    id: figma_links
+    attributes:
+      label: Figma link(s)
+      placeholder: Paste link(s) here
+
+  - type: textarea
+    id: mural_links
+    attributes:
+      label: Mural link(s)
+      placeholder: Paste link(s) here
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      placeholder: Paste link(s) or markdown image references
+
+  - type: textarea
+    id: videos
+    attributes:
+      label: Video walkthroughs
+      placeholder: Paste link(s) here
+
+  - type: textarea
+    id: other_docs
+    attributes:
+      label: Other relevant documents or links
+      placeholder: Paste link(s) here
+
+  - type: markdown
+    attributes:
+      value: |
+        ## ✅ Next Steps
+        1. Etan will move the ticket Status from "New" to "Assigned"
+        2. Etan will reach out directly with the Design POC to coordinate
