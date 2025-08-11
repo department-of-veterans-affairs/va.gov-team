@@ -11,9 +11,6 @@ tags:
 ```    
     # Conversation Guide for BMT-1 Evidence Requests
 
-##   NOTE: This conversation guide is a WIP currently in Google Docs.
-
-
 # Moderator logistics
 ### 2-3 days before the session
 
