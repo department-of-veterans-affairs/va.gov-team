@@ -1,5 +1,15 @@
 # Running Design and Research Agenda
 
+## August 11 2025
+Attendees: Renata Keck, Jamie Fiore, Amanda Klausmeier, Andrea Merrel, Mike Mooney, Premal Shah, Rachel Pope
+
+### Agenda
+- Review findings from the CHAMPVA onsite
+- Update on the Claims Resubmissons Usability Studies
+- Share out the 1010D/OHI merge usability study findings with our partners
+
+### Notes
+
 ## August 4 2025
 Attendees: Renata Keck, Jamie Fiore, Amanda Klausmeier, Andrea Merrel, Mike Mooney
 
