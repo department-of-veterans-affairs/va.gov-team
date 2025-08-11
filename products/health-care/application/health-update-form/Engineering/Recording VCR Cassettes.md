@@ -1,5 +1,11 @@
-### Associations API
-#### This approach uses the socks proxy info to create a tunnel setup
+# Recording VCR Cassettes for the 10-10EZR
+
+## In a Review Instance
+### For calls to VES's SOAP APIs (eeSummary, EZR form submission), we typically record them in RIs
+1. Refer to the following documentation on [how to record VCR cassettes in an RI](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/tutorials/record_vcr.md).
+
+## Associations API
+### This approach uses the socks proxy info to create a tunnel setup
 1. In the terminal (MAC OS) run:
 ```
 brew install socat
