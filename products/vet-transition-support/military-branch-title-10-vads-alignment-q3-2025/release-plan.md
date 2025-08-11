@@ -1,4 +1,4 @@
-# Discovery Your Benefits Tool - Military branch/component + title 10, & VADS alignment
+# Release Plan: Discovery Your Benefits Tool - Military branch/component + title 10, & VADS alignment
 **Last updated: August 11, 2025 - published** 
 
 ### Table of Contents
