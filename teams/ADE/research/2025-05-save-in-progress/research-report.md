@@ -573,8 +573,6 @@ The form we tested has 9 pages of questions, and each page has at the bottom a *
    <img src="./images/form-pg9-statement-of-truth.png" width="75%" height="75%" alt="Below the expandable sections is a note about criminal penalties for withholding information, and a statement of truth that requires typing your full name and checking a box that you certify the information">
 </details>
 
-</details>
-
 <details>
   <summary>Figure 21: After clicking the "Finish later" button, the user sees a blue informational alert that says your information has been saved".</summary>
    <img src="./images/after-click-finish-later.png" width="75%" height="75%" alt="blue informational alert that says 'Your Personal records request has been saved' and contains the date and time of the last save, and the date two months later that the incomplete request will expire">
