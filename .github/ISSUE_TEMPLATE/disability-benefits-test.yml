@@ -9,7 +9,7 @@ body:
   attributes:
     label: User Need 
     description: |
-      As a **user** // I want to **do something** // so that **something happens**
+      ```As a **user** // I want to **do something** // so that **something happens**```
     placeholder: |
       As a **user** // I want to **do something** // so that **something happens**
 - type: textarea
