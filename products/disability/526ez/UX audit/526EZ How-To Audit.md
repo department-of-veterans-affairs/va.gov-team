@@ -17,7 +17,7 @@ The 526EZ is a long form with multiple pathways (e.g., ancillary forms) and nest
 - _[TODO: Do we have a link to all of the business requirements or feature requirements for each section/feature of the form? May be helpful to reference.]_
 
 ### Audit Trackers 
-- _526 Active Form Audit Map_: Provides screenshots of all of the main form Steps and pathways or ancillary forms. Use this to track how much of the form has been tested and how much is left to go. [TODO: this will be a copy of the 526 Active Form Mural Board once it is updated. Need to determine the process on how to indicate that X part of the form has been audited]
+- _526 Active Form Audit Map_: Provides screenshots of all of the main form Steps and pathways or ancillary forms. Use this to track how much of the form has been tested and how much is left to go. _[TODO: this will be a copy of the 526 Active Form Mural Board once it is updated. Need to determine the process on how to indicate that X part of the form has been audited.]_
 - [Audit Tracker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/UX%20audit/Audit%20Tracker.md): Used to document who conducted a bug or UX audit on a specific section of the 526EZ form, when it was tested, how it was tested, and whether any issues or tickets were identified.
 
 ### Tester Considerations
