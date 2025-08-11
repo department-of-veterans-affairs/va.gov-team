@@ -17,8 +17,8 @@
 - LOA3 user who is enrolled in healthcare but doesn’t have a contact email on file - should see missing email alert and be able to add one. Regardless of missing email, should still be able to see and use the 1095-B checkbox. | ssoissoetesting+mhvcss4@gmail.com (you can go to /contact-information to remove their contact email)
 - LOA3 user who is not enrolled in healthcare and has a contact email on file - should see not available alert instead of the 1095-B checkbox. | vets.gov.user+78@gmail.com
 - LOA3 user who is not enrolled in healthcare and doesn't have a contact email on file - should see not available alert instead of the 1095-B checkbox. Should also see missing email alert and be able to add one. | vets.gov.user+78@gmail.com (you can go to /contact-information to remove their contact email)
-- LOA3 user who has opted-in to paperless delivery - page should load with the 1095-B checkbox already checked | TBD but let's use vets.gov.user+1@gmail.com if we can
-- LOA3 user who has not opted-in to paperless delivery - page should load without the 1095-B checkbox already checked | TBD but let's use vets.gov.user+66@gmail.com if we can because this user is also enrolled in healthcare
+- LOA3 user who has opted-in to paperless delivery - page should load with the 1095-B checkbox already checked | TBD but let's use ssoissoetesting+mhvcss4@gmail.com if we can
+- LOA3 user who has not opted-in to paperless delivery - page should load without the 1095-B checkbox already checked | TBD but let's use vets.gov.user+12@gmail.com if we can because this user is also enrolled in healthcare
 
 ### Content & IA ticket
 - https://github.com/department-of-veterans-affairs/va.gov-team/issues/106648
