@@ -5,7 +5,8 @@ Previous research shows that Veterans currently struggle with understanding evid
 
 This research will assess how Veterans perceive the structure, clarity, and usability of the evidence requests they receive on VA.gov.  
 
-**Link to artifacts:** _[insert links here]_
+**Link to artifacts:** 
+- [Initiative brief]([url](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Improved%20Evidence%20Requests%20UX%20Initiative%202025-05.md))
 
 ---
 
@@ -68,6 +69,8 @@ This research will give us a better understanding of claimants’ experience of 
 ## Methodology
 **Moderated semi-structured interviews.**  
 Users are sent a Zoom link with instructions on how to join and share their screen. The user will log into `staging.VA.gov` and interact with the Claims Status Tool using a test user account containing the necessary claims and evidence requests.  
+Testing will be conducted using evidence requests set up at https://staging.va.gov/claim-or-appeal-status/ for
+vets.gov.user+64@gmail.com and vets.gov.user+150@gmail.com
 
 Participants will complete a series of tasks related to evidence requests, and the interviewer will observe their natural flow and ask questions about their experience. Data will be aggregated and synthesized to analyze emergent themes and main findings.
 
