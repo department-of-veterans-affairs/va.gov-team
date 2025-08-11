@@ -297,6 +297,11 @@ Did you encounter any issues using your [screen reader/assistive tech/device]?
 
 Was any part hard to navigate or understand?
 
+### SuS Survey for testing participants:
+Now that you've completed the tasks above, I'm going to supply you with a link to a 10 questions survey.
+
+[Moderator copy/paste link to Qualitrix SuS survey into the chat]
+
 ## Thank You and Closing - 3 minutes
 
 **How easy or difficult did you find this process overall?**
@@ -307,7 +312,7 @@ Was any part hard to navigate or understand?
 - *(yes / no)*
 - *(If participant says yes)* Is there any part of our discussion that you would NOT want shared in a video clip?
 
-**We really appreciate you taking the time to share your thoughts with us today**. Your feedback is so helpful to us as we continue to learn about Veterans so we can improve the online tools that we provide.
+**We really appreciate you taking the time to share your thoughts with us today**. Your feedback is so helpful to us as we continue to learn about Veterans so we can improve the online tools that we provide. 
 
 If you know any other Veterans or family members who might be willing to participate in a future research session like this one, you can pass along the web link that you'll receive in your email from our team. 
 
