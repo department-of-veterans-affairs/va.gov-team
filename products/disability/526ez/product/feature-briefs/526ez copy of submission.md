@@ -95,9 +95,10 @@ The Platform Design System team has analytics on how many users download and pri
 > Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
 **Value Risks** (will people use it): 
-- Veterans may not understand how to "Keep a record of submitted information" after submitting their claim.
+- Veterans may not select the "Print a copy of your form" button.
 
 **Validation approach**
+- The Platform Design System team has analytics on how many users download and print the information within the accordion (~25-30%) and can be seen in [this thread](https://dsva.slack.com/archives/C01DBGX4P45/p1754516995332259?thread_ts=1754412011.167569&cid=C01DBGX4P45). 
 - Prior to launch: Usability testing with "fresh eyes" internal testers to understand how users percieve the page and if the instructions are clear.
 - After launch (long term): Analytics tracking on how often the page is viewed, printed, or saved.
 
