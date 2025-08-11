@@ -79,8 +79,8 @@ Note that after the spouse section, users will fork for A/B testing of the propo
   - 6/10 participants prefer Option Red while 4/10 participants prefer Option Green.
 
 - **Hypothesis Statement: The participant will ask more questions, require more time to understand the content in the gray reference card component**  
-  - **"Maybe True"
-  - Several participants showed hesitation and/or confusion at the initial with the Gray Box reference but 6/10 participants indicated that the entire section was not confusing and straightforward to go through.
+  - **Maybe True**
+  - Several participants were initially hesitant or confused by the Gray Box reference, but 6 out of 10 found the section clear and straightforward overall.
 
 
 ## Key Findings
