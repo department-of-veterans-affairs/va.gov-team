@@ -31,7 +31,10 @@
             * Need to request access to view it (VA Network)
                 * Ask Josh F for access to it
                     * Needs Active Directory ID for the user (yourself)
-                        * You can find this in Outlook (Josh D will provide steps)
+                        * Steps for finding Active Directory ID:
+                            * Go to Outlook and on the top right, click on the address book icon (person on the front of a book).
+                            * Search for your name and then double-click on it.
+                            * On the "General" tab (opens by default), you should see a field labeled "Alias". That's your AD ID.
                     * Josh F can give create & edit access in SQA env
                 * Must be on VA network to access this
 
