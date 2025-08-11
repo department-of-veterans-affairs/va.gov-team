@@ -79,7 +79,7 @@ As you are conducting your audit, make sure to take screenshots and notes on wha
 - 🤝 [UX Issue Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/UX%20audit/UX%20Issue%20Checklist.md)
 
 ## 🎟️ 6. Create or update bug / UX issue tickets 
-Review previously created tickets under the ["Bug Bash Super Epic"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110810) to determine if you should create a new ticket or update an already existing one. as well as other super epics to determine if any of the issues you found 
+Review previously created tickets under the ["Bug Bash Super Epic"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110810) to determine if you should create a new ticket or update an already existing one. 
 - Bug Ticket Template
 - UX Issue Ticket Template
 
