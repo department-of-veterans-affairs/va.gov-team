@@ -48,7 +48,7 @@ _This document outlines the three major pillars of accessibility work and the re
 - Collaboration with product, content, and design teams
 
 **Intake Instructions:**
-1. Once content is done, and there are at least high-fidelity mockups available, fill out the [Design Accessibility Intake Form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=Disability-BaseTeam-A11y-Design-Intake-Template.md) **OR** tag `@etanb` in a previously made ticket making sure the aforementioned details are present.
+1. Once content is done, and there are at least high-fidelity mockups available, fill out the [Design Accessibility Intake Form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=Disability-BaseTeam-A11y-Design-Intake-Template.yml) **OR** tag `@etanb` in a previously made ticket making sure the aforementioned details are present.
 2. Invite `@etanb` to design review meetings as needed
 3. Tag `@etanb` for comments in Figma/Mural as needed
 
@@ -76,7 +76,7 @@ _This document outlines the three major pillars of accessibility work and the re
 - Includes automated scan support and ADE collaboration
 
 **Intake Instructions:**
-1. Once Engineering work is ready for review and has an available staging link, fill out the [Engineering Accessibility Intake Form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=Disability-BaseTeam-A11y-Engineering-Intake-Template.md) **OR** tag `@etanb` in a previously made ticket making sure the aforementioned details from the [Engineering Accessibility Intake Form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=Disability-BaseTeam-A11y-Engineering-Intake-Template.md) are present.
+1. Once Engineering work is ready for review and has an available staging link, fill out the [Engineering Accessibility Intake Form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=Disability-BaseTeam-A11y-Engineering-Intake-Template.yml) **OR** tag `@etanb` in a previously made ticket making sure the aforementioned details from the [Engineering Accessibility Intake Form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=Disability-BaseTeam-A11y-Engineering-Intake-Template.yml) are present.
 2. `@etanb` will then take all that inputted data and fill out the official [ADE team intake process](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=a11y-testing.yaml)
 3. `@etanb` will then be a "steward" between the ADE team and the original product team
 
