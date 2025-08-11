@@ -1,6 +1,7 @@
 ﻿# example
 # pwsh domo-client.ps1 "..\1 extracted\Domo Data\MHV Users with Modern Creds" "mhv-01272025" "216d211d-d5b3-439a-8d25-b4ddad182b7e"
 
+# 8/11/2025 Updated outfile to write directly to filesystem - fixes out of memory error
 
 $outputPath = $args[0]
 $fileName = $args[1]
@@ -101,7 +102,8 @@ $headers = @{
 Write-Host "Exporting Data from Domo" -ForegroundColor Green
 
 try {
-    $response = Invoke-WebRequest -Uri $exportDataUrl `
+    Invoke-WebRequest -Uri $exportDataUrl `
+        -OutFile $outFile `
         -Method Get `
         -Headers $headers `
 }
@@ -111,14 +113,5 @@ catch {
     Exit 1
 }
 
-
-#Write-Host $response
-
-$file = [System.IO.FileStream]::new($outFile, [System.IO.FileMode]::Create)
-$file.write($response.Content, 0, $response.RawContentLength)
-$file.close()
-
-#$icns.Values | Export-Csv -Path $outfile
-#Copy-Item $outfileToday -Destination $outfileLatest
-
 Exit 0
+
