@@ -94,5 +94,5 @@ _[TODO: Is the description of what we'd like testers to do to show relationships
 ## 🗂️ 8. Fill out the Audit Tracker and 526 Map
 The Audit Tracker will allow us to track which parts of the form, devices, and the environments that have been tested. The _526 Active Form Audit Map_ will visually show which parts of the form have already been tested.   
 - [Audit Tracker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/UX%20audit/Audit%20Tracker.md)
-- Update the _526 Active Form Audit Map_
+- _526 Active Form Audit Map_ [TODO: Link when complete.]
 
