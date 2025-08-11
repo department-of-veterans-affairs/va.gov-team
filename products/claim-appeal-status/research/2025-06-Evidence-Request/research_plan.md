@@ -105,7 +105,7 @@ Refer to the inclusive recruitment strategies to learn how to be inclusive of un
 
 ### Recruitment Criteria
 
-**Veterans (users):** N = 15  
+**Veterans (users):** Ideal session number: N = 10 (recruit for N=15 for no shows)
 
 #### Primary Criteria (flexible):
 - 2/3 participants have submitted a disability claim in the past  
@@ -127,7 +127,7 @@ We plan to do a pilot session.
 - **Date and time of pilot session:** _[insert date/time]_  
 
 ### Research Sessions
-- **Planned dates of research:** _[insert date range]_  
+- **Planned dates of research:** 8/25-8/29
 
 **Session length:** 1 hour or less  
 **Session flow:**  
