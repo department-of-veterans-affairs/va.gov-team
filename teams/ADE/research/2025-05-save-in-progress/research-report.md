@@ -206,7 +206,7 @@ For demographic details, see [Who we talked to](#who-we-talked-to).
 ### Finding 5: My VA had accessibility issues for screen magnifiers.
 - One participant using a screen magnifier (on a Windows computer using the Edge browser and Microsoft Zoom Magnification at least 300%) asked why the **"Continue your application" link in the form request card on My VA was so much smaller than everything else on the card**. The link text didn't scale up like the text above it.
 
-<details><summary>Expand for a screenshot of the issue in Figure 3.</summary>
+<details><summary>Expand for a screenshot of the link magnification issue in Figure 3.</summary>
 
 Figure 3 shows the form card on My VA magnified with all large-sized text except for much smaller text that says 'Continue your application'.
 
@@ -215,7 +215,7 @@ Figure 3 shows the form card on My VA magnified with all large-sized text except
 </details>
 
 - This same screen magnifier user missed that the header "Benefit applications and forms" was relevant because he only saw the words "Benefit applications". He didn't see the word "forms" because it was to the right of the magnified portion of the page that he was looking at. 
-<details><summary>Expand for a screenshot of the issue in Figure 4.</summary>
+<details><summary>Expand for a screenshot of the header magnification issue in Figure 4.</summary>
 
 Figure 4 shows a large magnified heading that says 'Benefit applications' and nothing about forms.
 
@@ -227,7 +227,7 @@ Figure 4 shows a large magnified heading that says 'Benefit applications' and no
   > *"A lot of the government websites are not working that great with Safari anymore, and...you need to use Google Chrome" (p5).*
 
 - On the Review/Submit page, a **screen magnifier user didn't see the "+"'s to expand the accordions because they're so far to the right**. He saw the names of the form sections, but there was no visual indication that there was anything more to scroll right to see. 
-<details><summary>Expand for a screenshot of the issue in Figure 5.</summary>
+<details><summary>Expand for a screenshot of the accordion magnification issue in Figure 5.</summary>
 
 Figure 5 shows 3 horizontal gray bars labeled with sections of the form but with no indication of how to interact with them.
 
@@ -281,7 +281,8 @@ Figure 5 shows 3 horizontal gray bars labeled with sections of the form but with
   > *"It doesn't let you know that there's a radio button before that, so it's sometimes confusing...In our world of using accessibility, we can only wish for so much...it works. Would be nice if as soon as I clicked on that, it said 'radio button' and then [when I] swiped right, it would read what that was and then go down" (p5).*
 
 - One participant using a screen magnifier (Microsoft Zoom Magnification at least 300% on a Windows computer with Edge browser) checked "I live on a United States military base outside of the U.S." and then didn't understand why he being asked for APO/FPO/DPO and got stuck. He had seen "I live on a United States" and thought that applied to him. He had no idea that the rest of the statement said "military base" because that was not in his view and he didn't scroll to the right. 
-<details><summary>Expand for a screenshot of the issue in Figure 6.</summary>
+
+<details><summary>Expand for a screenshot of the U.S. military base issue in Figure 6.</summary>
 
 Figure 6 shows a selected checkbox that says 'I live on a United States mil' on the first line and 'base outside of the U.S.' on the second line.
 
@@ -301,7 +302,7 @@ Figure 6 shows a selected checkbox that says 'I live on a United States mil' on 
      1. "I certify the information above is correct and true to the best of my knowledge and belief." -- ***Repeated again** when focus is on this line*
         > *"I heard it about 4 times there...I'm not sure why they put it both before and after my name...That's the kind of thing that causes me to rush through the repeats and maybe miss something. If something is only present once, then I have a much better chance of paying attention to it" (p3).*
 
-<details><summary>Expand for a screenshot of the issue in Figure 7.</summary>
+<details><summary>Expand for a screenshot of the affirmation statements  issue in Figure 7.</summary>
 
 Figure 7 starts with a note about criminal penalties for withholding information or providing incorrect information. Just below that says 'Statement of truth' with a confirmation statement. Below that is a required field for your name, followed by an unselected required checkbox to certify the correctness of the information entered above.
 
@@ -366,7 +367,7 @@ There are a number of findings that were outside the scope of the research goals
       > *"I'm looking for the least amount of work I have to do every single time" (p10).*
       1. On the intro page, seeing the "Freedom of Information Act (FOIA)" right underneath the name of the form on the intro page was confusing because it was unclear what the connection is. They expected to see something about the specific form, such as its name, which was at the end of that line. 
      
-<details><summary>Expand for a screenshot of the issue in Figure 8.</summary>
+<details><summary>Expand for a screenshot of the form name issue in Figure 8.</summary>
 
 Figure 8 shows the top of the intro page with the heading "Request personal records", and immediately below that is text about the Freedom of Information Act (FOIA).
 
@@ -588,8 +589,6 @@ The form we tested has 9 pages of questions, and each page has at the bottom a *
 
 </details>
 
-Education and training, and Benefit applications and forms 
-
 ## Who we talked to 
 
 **Recruitment criteria**
@@ -673,7 +672,7 @@ This research does not include the perspectives of the following marginalized Ve
 * Expat (living abroad)
 * Beginner AT user
 
-![To see an accessible version of this table, expand the next line](./images/VA-recruitment-checker.png)
+![To see an accessible version of the underserved groups table, expand the next line](./images/VA-recruitment-checker.png)
 
 <details>
   <summary>To see a more accessible version of the above image, expand to show a different table</summary>
