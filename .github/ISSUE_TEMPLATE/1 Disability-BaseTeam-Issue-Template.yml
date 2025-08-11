@@ -10,9 +10,9 @@ body:
   attributes:
     label: User Need 
     description: Describe the story:
-      As a **user**
-      I want to **do something** 
-      So that **something happens**
+      As a user
+      I want to do something
+      So that something happens
     placeholder: |
       As a **user**
       I want to **do something** 
