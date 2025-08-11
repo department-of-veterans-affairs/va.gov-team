@@ -15,7 +15,7 @@ body:
 - type: textarea
   attributes:
     label: Description
-    description: Describe the scope of this work, background context, why it matters, dependencies, and open questions.
+    description: Describe the goal and scope of this work, background context, why it matters, dependencies, and open questions.
 - type: textarea
   attributes:
     label: Tasks
@@ -49,5 +49,4 @@ body:
       - label: Add description, tasks, and acceptance criteria
       - label: Add estimation
       - label: Add the proper labels, team, and priority
-      - label: Add an Epic
-    
+      - label: Add an Epic or Super Epic
