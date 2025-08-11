@@ -1,3 +1,6 @@
+# Notes by Perigean. Conversation Guide used as the structure for notes.
+
+
 Start recording.
 
 
