@@ -30,11 +30,12 @@
 ## 
 ### 10-10EZR
 
-#### Obj: Improvements
-- DENTAL CONTENT
+#### Obj: [Improvements](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109435)
+- [#116521](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116521) - [Research] Dental info content research
 
 #### Obj: [EC/NOK](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75046)
 - [#116430](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116430) - [BE] Add PIL logger to `handle_associations`
+- Add UAT Ticket
 - [#108518](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108518) - [Eng, PM] Phased Release
 
 
@@ -52,5 +53,7 @@
 ##
 ### Team PTO
 - Jessica: 8/13-15
+- Heather: 8/15
 - Allan: 8/22
+- Renata: 8/22
 
