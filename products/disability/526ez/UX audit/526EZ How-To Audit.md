@@ -38,7 +38,7 @@ In order to test, testers need to access the form in Staging.
 1. Access the [Staging Environment](https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction)
 2. Click "Sign in to start your application"
 3. Click the green "ID.me" button
-4. Login using a username and password from [this list](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv) of staging users. You may encounter errors with some users. Recommended users include 230, 234, 235.
+4. Login using a username and password from [this list](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv) of staging users. You may encounter errors with some users. Recommended users include 230, 234, 235. (If you are auditing the form during the same sprint as other team members, make sure to select different staging users so that you are not overriding eachother's progress as you fill out the form.)
 5.  On the "Recieve a code by phone" screen, just click "Continue"
 6.  On the "Enther the 6 digit code" click "Continue" again. (The code should have automatically populated).
 
