@@ -124,7 +124,7 @@ Rollback plan:
    - New users will be directed to v1 of the form.
 
 ### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
-Our VFS team was advised against testing in production due to the downstream actions that submitting an application for burial benefits triggers. To migtigate the risk this poses, we will performed extensive testing in a staging environment.
+Our VFS team was advised against testing in production due to the downstream actions that submission triggers. To migtigate the risk this poses, we will performed extensive testing in a staging environment.
 
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
