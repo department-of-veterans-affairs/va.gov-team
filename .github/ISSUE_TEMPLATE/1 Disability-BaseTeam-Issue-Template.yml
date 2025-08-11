@@ -8,7 +8,7 @@ projects:
 body:
 - type: textarea
   attributes:
-    label: Value Statement 
+    label: User Need 
     description: Describe the story
     placeholder: |
       As a **user**
