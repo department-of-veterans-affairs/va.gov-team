@@ -17,12 +17,13 @@ The purpose or goal of the Login application is to kick-off the authentication e
 
 ## User flow(s)
 
-### High-level user flow
+<details>
+<summary><strong>Unified Sign-in Page (USiP)</strong></summary>
 
-**Unified Sign-in Page (USiP)**
+### User flow
 1. User lands on the `/sign-in` page
 2. We check a couple of different query parameters
-  3. Does the `application` query parameter exist and what is it set to?
+  1. Does the `application` query parameter exist and what is it set to?
     1. Is the value of the application valid & known?
       1. If YES, grab the configuration for that application (external redirect)
       2. If NO, disregard the application value and use the default authentication (internal redirect)
@@ -30,12 +31,13 @@ The purpose or goal of the Login application is to kick-off the authentication e
     1. Does the application allow OAuth to be its AuthBroker
       1. If YES, ensure the `oauth` query parameter is true
       2. If NO, ensure the `oauth` query parameter is not set to true
+  1. Generate the proper API URL using the configuration files
+  2. Redirect user to API for start of authentication flow
 
-   
-### High-level technical diagram
-```mermaid
+### Technical diagram
+  ```mermaid
 flowchart TD
-    A[Somewhere] -->|User navigates to /sign-in page| B(/sign-in page)
+    A[OCC App] & K[Oracle Health] & L[VA Mobile App] & M[Somewhere else] --> B(User navigates to /sign-in page)
     B --> C{What is application query parameter set to?}
     C -->|Known application| D[Grab the configuration file]
     C -->|Unknown application, or doesn't exist| E[Use the default configuration file]
@@ -43,8 +45,12 @@ flowchart TD
     F --> |Generate API URL based on AuthBroker and configuration file| H[Navigate to API]
     H --> I[Navigate to CSP]
     D --> |External redirect only| F
- 
 ```
+
+</details>
+
+**[Other user flows (protected)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/vsp/teams/Identity/Documentation/Frontend/login.md)**
+
 
 ## Engineering
 
@@ -54,5 +60,6 @@ flowchart TD
 
 | **Word**    | **Definition**                                                                                                                     | **Reference** |
 | ----------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| LOA         | Level of Assurance                                                                                                                 | NIST doc      |
-| IAL         | Identity Authentication Level                                                                                                      | NIST doc      |
+| OAuth         | An open protocol to allow securation authorization in a simple and standard method from web & mobile applications                | ref     |
+| Internal redirect   | Generally a redirect that navigates to only va.gov website                                                                 |      |
+| External redirect   | Generally a redirect that navigates outside of va.gov domain (eg ebenefits.va.gov)                                         |      |
