@@ -80,8 +80,8 @@ As you are conducting your audit, make sure to take screenshots and notes on wha
 
 ## 🎟️ 6. Create or update bug / UX issue tickets 
 Review previously created tickets under the ["Bug Bash Super Epic"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110810) to determine if you should create a new ticket or update an already existing one. 
-- Bug Ticket Template
-- UX Issue Ticket Template
+- Bug Ticket Template _[TODO: Update once template is approved and created. In the meantime, reference [this ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116511) written with proposed template sections]_
+- UX Issue Ticket Template _[TODO: Update once template is approved and created. In the meantime, reference [this ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116513) written with proposed template sections]_
 
 ## 📋 7. Link bug / UX issue tickets to any related enhancement Super Epics
 Super Epics may already exist that capture the broader work that needs to be completed to enhance a user flow. Review super epics to understand if your findings may be related to / help inform Super Epics in the backlog. If there is a relationship, comment on the Super Epic with your bug / UX issue ticket numbers.
