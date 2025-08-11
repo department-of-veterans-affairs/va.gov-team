@@ -5,14 +5,14 @@
 
 ## Decision: _____
 
-**Theo & Mikal**: are there any Sev1 bugs or accessibility issues outstanding?
+**1.** **Theo & Mikal**: are there any Sev1 bugs or accessibility issues outstanding?
 - Answer:  
 
-**Theo**: are you ready to proceed with the release process as documented in the [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vet-transition-support/military-branch-title-10-vads-alignment-q3-2025/release-plan.md)?
+**2.** **Theo**: are you ready to proceed with the release process as documented in the [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vet-transition-support/military-branch-title-10-vads-alignment-q3-2025/release-plan.md)?
 - Answer:  
 
-**Gene & AJ**: is the [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vet-transition-support/military-branch-title-10-vads-alignment-q3-2025/release-plan.md) complete and ready to execute against?
+**3.** **Gene & AJ**: is the [release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vet-transition-support/military-branch-title-10-vads-alignment-q3-2025/release-plan.md) complete and ready to execute against?
 - Answer: 
 
-**Everyone**: does anyone have any concerns or reasons we should postpone launch to all users?
+**4.** **Everyone**: does anyone have any concerns or reasons we should postpone launch to all users?
 - Answer: 
