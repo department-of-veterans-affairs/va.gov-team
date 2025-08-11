@@ -1,11 +1,11 @@
-| Product | Initiative                                      | Status                                   |
-|---------|-------------------------------------------------|------------------------------------------|
-| EZR | EC/NOK | UAT in progress |
-| EZR | Household V2 | TBD |
-| EZR | Confirmation flow | TBD |
-| EZR | Military service dates | TBD |
-| EZR | CYOA | TBD |
-| EZR | Mobile integration | TBD |
-| EZR | Unhoused/No address | TBD |
-| EZR | Dental reference | TBD |
-| EZR | TBD | TBD |
+|Product Brief| Initiative                                      | Status                                   |
+|-------------|-------------------------------------------------|------------------------------------------|
+| EZR - Brief | EC/NOK | UAT in progress |
+| EZR - Brief | Household V2 | TBD |
+| EZR - Brief | Confirmation flow | TBD |
+| EZR - Brief | Military service dates | TBD |
+| EZR - Brief | CYOA | TBD |
+| EZR - Brief | Mobile integration | TBD |
+| EZR - Brief | Unhoused/No address | TBD |
+| EZR - Brief | Dental reference | TBD |
+| EZR - Brief | TBD | TBD |
