@@ -14,7 +14,7 @@ Not applicable - team conducted internal testing.
 ### Planning
 **Launch Go/No-go:** 
 - _Scheduled: 08/12/2025_
-- Launch go/no-go ticket: [PTEMSVT-509](jira.devops.va.gov/browse/PTEMSVT-509) 
+- Launch go/no-go ticket: [PTEMSVT-509](https://jira.devops.va.gov/browse/PTEMSVT-509) 
 - [Launch readiness checklist]( TK )
 
 Timeline
