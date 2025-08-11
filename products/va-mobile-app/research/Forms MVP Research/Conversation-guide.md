@@ -137,6 +137,11 @@ We can help guide you through this if you need help. Please say what you're doin
 
 ## Task 00: Open prototype
 **for iOS users:** 
+Did you previously receive the link and instructions to download the testing version of the mobile app today?
+Y - Were you able to download the app via those instructions?
+    Y - skip down to note for all users
+N - Supply the following link and instructions
+
 I will *[email/text/dictate/put into the Zoom chat]* the URL: that takes you to download the testing app **[place url here](https://testflight.apple.com/join/RrO0Cw2q)** --
 - *(If asked, reassure that this is a legitimate link to what I want you to test)*
 
@@ -160,7 +165,7 @@ Instructions to access prototype (must access from your mobile device):
 **for Android users:** 
 You will receive an email invite to the email you supplied us to download the testing app. Please navigate to your email and select that link now.
 
-**You'll be interacting with a demo prototype today.** Since it's a demo, note that none of your actions will affect your own VA information or benefits.
+**Note for all users: You'll be interacting with a demo prototype today.** Since it's a demo, note that none of your actions will affect your own VA information or benefits.
 
 
 ## Task 1: Login to the VA Health and Benefits mobile app
