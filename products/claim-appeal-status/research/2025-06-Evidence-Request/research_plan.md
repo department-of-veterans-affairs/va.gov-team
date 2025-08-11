@@ -115,11 +115,11 @@ Refer to the inclusive recruitment strategies to learn how to be inclusive of un
 
 #### Secondary Criteria:
 
-# Screener Questions **[Screener questions document]**
+**Screener Questions *[Screener questions document]***
 
 ---
 
-### 1. How often do you use VA.gov? Your best guess is okay.
+1. How often do you use VA.gov? Your best guess is okay.
 
 - Daily  
 - Weekly  
@@ -129,7 +129,7 @@ Refer to the inclusive recruitment strategies to learn how to be inclusive of un
 
 ---
 
-### 2. Which of the following age ranges best describes you?
+2. Which of the following age ranges best describes you?
 
 - Under 35  
 - 35–44  
@@ -139,7 +139,7 @@ Refer to the inclusive recruitment strategies to learn how to be inclusive of un
 
 ---
 
-### 3. How do you usually access the VA.gov website?
+3. How do you usually access the VA.gov website?
 
 - Mostly on a desktop or laptop computer  
 - Mostly on a mobile device (phone or tablet)  
@@ -148,7 +148,7 @@ Refer to the inclusive recruitment strategies to learn how to be inclusive of un
 
 ---
 
-### 4. Have you ever submitted a VA claim or supporting documents using the VA.gov website (Claim Status Tool)?
+4. Have you ever submitted a VA claim or supporting documents using the VA.gov website (Claim Status Tool)?
 
 - Yes  
 - No  
@@ -156,7 +156,7 @@ Refer to the inclusive recruitment strategies to learn how to be inclusive of un
 
 ---
 
-### 5. When you receive a message from VA asking for more information or documents to support your claim, how do you usually respond?
+5. When you receive a message from VA asking for more information or documents to support your claim, how do you usually respond?
 
 - I log into VA.gov to upload or check documents  
 - I wait to receive a letter in the mail before doing anything  
@@ -165,7 +165,7 @@ Refer to the inclusive recruitment strategies to learn how to be inclusive of un
 
 ---
 
-### 6. Have you ever had to upload a document, form, or evidence file to VA.gov as part of a claim or appeal?
+6. Have you ever had to upload a document, form, or evidence file to VA.gov as part of a claim or appeal?
 
 - Yes, many times  
 - Yes, once or twice  
@@ -174,7 +174,7 @@ Refer to the inclusive recruitment strategies to learn how to be inclusive of un
 
 ---
 
-### 7. How confident do you feel navigating different sections of the Claim Status tool on VA.gov?
+7. How confident do you feel navigating different sections of the Claim Status tool on VA.gov?
 
 - Very confident – I can find what I need quickly  
 - Somewhat confident – I usually figure it out  
@@ -183,7 +183,7 @@ Refer to the inclusive recruitment strategies to learn how to be inclusive of un
 
 ---
 
-### 8. Have you ever seen or used any of the following features on VA.gov? (Select all that apply)
+8. Have you ever seen or used any of the following features on VA.gov? (Select all that apply)
 
 - A message about evidence the VA still needs from me  
 - A download link for VA-requested documents  
@@ -193,7 +193,7 @@ Refer to the inclusive recruitment strategies to learn how to be inclusive of un
 
 ---
 
-### 9. Have you been diagnosed with (formally or informally) a cognitive disability?  
+9. Have you been diagnosed with (formally or informally) a cognitive disability?  
 _This includes any intellectual disability, ADHD, Autism Spectrum Disorder, severe, persistent mental illness, brain injury, stroke, Alzheimer's disease and other dementias, or others not listed._
 
 - Yes  
