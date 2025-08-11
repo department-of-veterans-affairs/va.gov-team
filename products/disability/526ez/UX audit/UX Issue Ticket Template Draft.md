@@ -3,7 +3,7 @@ Note: _(A **UX issue** is a problem in how a user experiences the product, even 
 
 ## Description
 - What is the problem or friction point that the user experiences?
-- What is the impact on the user? (Consider the [VA Experience Standards](https://design.va.gov/about/experience-standards/) of: comprehension, consistency, credibility, efficiency, findability, health and safety, usability and the [UX Issue Checklst[(https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/UX%20audit/UX%20Issue%20Checklist.md)
+- What is the impact on the user? (Consider the [VA Experience Standards](https://design.va.gov/about/experience-standards/) of: comprehension, consistency, credibility, efficiency, findability, health and safety, usability and the [UX Issue Checklst](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/UX%20audit/UX%20Issue%20Checklist.md)
     
 ## Location
 Where in the form is it located or which sections does it affect?
