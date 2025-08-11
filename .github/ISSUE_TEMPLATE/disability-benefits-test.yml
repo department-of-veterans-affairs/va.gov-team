@@ -15,7 +15,7 @@ body:
 - type: textarea
   attributes:
     label: Description
-    description: Describe the goal and scope of this work, background context, why it matters, dependencies, and open questions.
+    description: Describe the scope of this work, background context, why it matters, dependencies, goals, and open questions.
 - type: textarea
   attributes:
     label: Tasks
