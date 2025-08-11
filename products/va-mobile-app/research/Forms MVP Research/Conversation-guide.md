@@ -129,12 +129,9 @@ We can help guide you through this if you need help. Please say what you're doin
 **for iOS users:** 
 Did you previously receive the link and instructions to download the testing version of the mobile app today?
 
-Y - Were you able to download the app via those instructions?
+Y - Were you able to download the app via those instructions? Y - skip down to note for all users
 
-    Y - skip down to note for all users
-N - Supply the following link and instructions
-
-If No: I will now share in the zoom chat the URL: that takes you to download the testing app **[place url here](https://testflight.apple.com/join/RrO0Cw2q)** --
+N - I will now share in the zoom chat the URL: that takes you to download the testing app **[iOS url here](https://testflight.apple.com/join/RrO0Cw2q)** -- **[Android link](https://appdistribution.firebase.dev/i/6bea6c3fabc1a872)**
 - *(If asked, reassure that this is a legitimate link to what I want you to test)*
 
 Did you get the link? 
