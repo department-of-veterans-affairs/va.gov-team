@@ -30,22 +30,22 @@ Veterans may fill out web forms on VA.gov throughout their lives, including ALL 
 	
 1. While VA.gov users are signed in (authenticated) and filling out a form, the "save in progress" alert flashes on and then off with every field entry or edit ([Figure 1 shows the alert with a light green background](#user-content-figure-1)). Because this alert displays *below* the Continue button, screen readers don't announce it, which is an accessibility issue. All users should have access to the same information about the user interface (per [WCAG 1.3.1](https://www.w3.org/WAI/WCAG21/Understanding/info-and-relationships.html)). 
 
-2. There's a ["Finish this request later" button that looks like a link (in Figure 2)](#user-content-figure-2), which is another accessibility issue. Links that take you to another page should look like links, and buttons that do actions should look like buttons (per [VA Design System guidance on choosing buttons vs. links](https://design.va.gov/components/link/#choose-the-right-element-buttons-vs-links)). 
+2. There's a ["Finish this request later" button that looks like a link (in Figure 1)](#user-content-figure-1), which is another accessibility issue. Links that take you to another page should look like links, and buttons that do actions should look like buttons (per [VA Design System guidance on choosing buttons vs. links](https://design.va.gov/components/link/#choose-the-right-element-buttons-vs-links)). 
 
-#### Figure 1
+#### Figure 1 shows two accessibility issues
 
 <img src="./images/2-a11y-issues.png" width="50%" height="50%" alt="This is a sample form question followed by an underlined link that says 'Finish this request later' and then a Continue button. Below the Continue button is a green informational box that says 'Your request has been saved. We saved it on April 30, 2025, at 5:15 p.m. PDT. Your request ID number is 44849.'">
 
 
 ### Revised design
 
-We are testing a modification of the VA Design System [Header - Minimal component](https://design.va.gov/components/header/header-minimal), which is recommended for the design of new web forms. To address the above accessibility issues, we made 2 changes:
-1. Removed the "save in progress" alert
-1. Changed the "Finish this request later" button that looks like a link into looking like a button ([Figure 2](#figure-2)). 
+We are testing a modification of the VA Design System [Header - Minimal component](https://design.va.gov/components/header/header-minimal), which is recommended for the design of new web forms. To address the above accessibility issues, we made the following two changes:
+1. Removed the "save in progress" alert.
+1. Changed the "Finish this request later" button that looks like a link into looking like a button ([Figure 2 shows the new "Finish later" button](#figure-2)). 
 
 We believe that removing the "save in progress" alert will be OK because there is already text about saving on both the authenticated version of the form intro page and the first page of the form. One goal of this current research is to obtain user feedback on the revised design.
 
-#### Figure 2
+#### Figure 2 shows the revised design
 <img src="./images/2-a11y-issues-fix.png" width="50%" height="50%" alt="This shows the sample form question with 2 buttons below: white 'Finish later' button on the left, and blue 'Continue' button on the right. There is no green informational box.">
 
 ### Past research 
