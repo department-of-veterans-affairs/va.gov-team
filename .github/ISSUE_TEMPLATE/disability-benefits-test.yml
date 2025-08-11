@@ -15,7 +15,7 @@ body:
 - type: textarea
   attributes:
     label: Description
-    description: What's the context? | Describe the scope of the ticket and include any context and details of the work that will be done | Add dependencies, open questions, and other relevant details as needed
+    description: Describe the scope of the ticket, including background context, why it matters, dependencies, and open questions.
 - type: textarea
   attributes:
     label: Tasks
@@ -46,8 +46,8 @@ body:
     label: Refinement Checklist! 
     description: Make this ticket ready to work
     options: 
-      - label: Add description, tasks and AC
+      - label: Add description, tasks, and acceptance criteria
       - label: Add estimation
-      - label: Add the proper labels, team and priority
-      - label: Add a parent 
+      - label: Add the proper labels, team, and priority
+      - label: Add an Epic
     
