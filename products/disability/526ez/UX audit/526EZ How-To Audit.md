@@ -28,9 +28,9 @@ The 526EZ is a long form with multiple pathways (e.g., ancillary forms) and nest
 2. Determine if you will be conducting a bug or UX issue audit
 3. Determine which form Step(s) and conditional pathways you will be auditing
 4. Check for in-progress work and known issues
-5. Review the Bug Audit Checklist or the UX Issue Checklist
-6. Conduct your audit
-7. Create or update tickets for the issues you found using the **Bug Ticket Template** or the **UX Issue Template**
+5. Conduct Audit using the Bug Audit or the UX Issue Checklist
+6. Create or Update Bug/UX Issue Tickets
+7. Link Bug/Issue Tickets to Any Related Enhancement Super Epics
 8. Fill out the _Audit Tracker_ and update the _526 Active Form Audit Map_.
 
 ## 🔐 1. Access staging
@@ -65,6 +65,7 @@ The following table provides a high level overview of all steps, sections, and p
 | **Step 4: Supporting Evidence**             | ☐ BDD Process continues here                 |                 |          | 
 | **Step 5: Additional Information**             |      N/A           |                 |          | 
 | **Step 6: Review and Submit**  | N/A                |                 |          | 
+
 ## 📣 4. Check for in-progress work and known issues
 Multiple teams are involved in designing and developing the 526 form, and there may be in-progress updates to the section you plan to audit. These updates might address bugs or UX issues you would otherwise identify. To avoid duplicating work, first check for existing efforts by reaching out to the appropriate Slack channels or team members. Let them know you're auditing [X section] and ask if there are any in-progress changes, known issues, or prior findings you should review. 
 - ["Bug Bash Super Epic"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110810): Check subtasks for previously logged bugs or UX issues.
@@ -72,15 +73,23 @@ Multiple teams are involved in designing and developing the 526 form, and there 
 - **#benefits-disability-conditions**: Conditions team - for audits related to “Step 2: Conditions."
 - **#platform-design-system**: Platform design system team - for post-audit follow-up if issues are related to design patterns or components.
 
-## 📋 5. Review the Bug Audit Checklist or the UX Issue Checklist
+## 🔍 5. Conduct Audit using the Bug Audit or the UX Issue Checklist
+As you are conducting your audit, make sure to take screenshots and notes on what you are observing and testing. The following checklists will help you be thorough in your considerations.
 - 🐞 [Bug Audit Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/UX%20audit/Bug%20Audit%20Checklist.md)
 - 🤝 [UX Issue Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/UX%20audit/UX%20Issue%20Checklist.md)
 
-## 🔍 6. Conduct your audit
+## 🎟️ 6. Create or Update Bug/UX Issue Tickets 
+Review previously created tickets under the ["Bug Bash Super Epic"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110810) to determine if you should create a new ticket or update an already existing one. as well as other super epics to determine if any of the issues you found 
+- Bug Ticket Template
+- UX Issue Ticket Template
 
-## 🎟️ 7. Create or Update Tickets 
+## 📋 7. Link Bug/Issue Tickets to Any Related Enhancement Super Epics
+Super epics may already exist that capture the broader work that needs to be completed to enhance a user flow. Review super epics to understand if your findings may be related to / help inform Super Epics in the backlog. If there is a relationship, comment on the Super Epic with your bug / UX issue ticket numbers.
 
-## 🗂️ 7. Fill out the Audit Tracker
+*For example*, "Improve 526 start/ restart experience" #108100 epic captures that enhancements need to be made to this flow, but as of Aug. 11, 2025, specific tasks and bugs are not yet captured. If you conducted an audit on this flow, and found specific issues, link the bug / UX isue tickets in the comments. 
+
+
+## 🗂️ 8. Fill out the Audit Tracker
 - [Audit Tracker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/UX%20audit/Audit%20Tracker.md)
 - If there is already a bug about the issue, the ticket is updated
 Enhancements and ideas are captured in github tickets under the appropriate superepic, with screenshots, videos, etc
