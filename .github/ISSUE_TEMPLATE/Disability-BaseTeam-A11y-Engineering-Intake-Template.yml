@@ -2,7 +2,9 @@ name: Engineering Accessibility Review – Intake Form
 description: Intake form to prepare for a technical accessibility review
 title: "[A11y Engineering Review] "
 labels:
-  - disability-experience
+  - disability-benefits
+  - accessibility
+  - engineering
   - needs-refinement
 assignees:
   - etanb
