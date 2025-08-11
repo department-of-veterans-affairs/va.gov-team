@@ -3,7 +3,7 @@ description: Intake form to prepare for an accessibility design review
 title: "[A11y Design Review] "
 labels:
   - disability-experience
-  - needs-a11y-refinement
+  - needs-refinement
 assignees:
   - etanb
 body:
@@ -73,24 +73,16 @@ body:
     attributes:
       value: "## 📁 Resources"
 
-  # Combined Figma/Mural/etc. links into a single textarea
   - type: textarea
     id: design_links
     attributes:
-      label: Design links (Figma, Mural, etc.)
-      description: "Provide URLs and specify frame/page names to review."
+      label: Design links & media (Figma, Mural, screenshots, videos)
+      description: "Paste URLs to boards/frames and any hosted images or videos (Drive/Loom/etc.)."
       placeholder: |
         Figma: https://www.figma.com/file/...
         Mural: https://app.mural.co/t/... (Board: ___, Section: ___)
-    validations:
-      required: false
-
-  # Combined screenshots + videos into one attachments field
-  - type: attachments
-    id: visuals
-    attributes:
-      label: Visuals & walkthroughs
-      description: "Upload screenshots or short videos, or paste links to hosted files."
+        Screenshots: https://drive.google.com/...
+        Video: https://www.loom.com/share/...
     validations:
       required: false
 
@@ -104,10 +96,8 @@ body:
 
   - type: markdown
     attributes:
-      value: "## ✅ Next Steps"
-
-  - type: markdown
-    attributes:
       value: |
+        ## ✅ Next Steps
         1. Etan will move the ticket Status from "New" to "Assigned".
         2. Etan will reach out directly with the Design POC to coordinate.
+        _If you need to share files directly, submit the issue and then upload them in a comment._
