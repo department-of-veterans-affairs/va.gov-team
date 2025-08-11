@@ -9,8 +9,9 @@ body:
   attributes: 
     label: "Add a title"
     placeholder: |
-      What makes a good bug name? Use an action verb to convey what's not working as expected. 
-      Avoid [tags] that can be added as labels, etc.
+      What makes a good bug name? 
+      - Use an action verb to convey what's not working as expected. 
+      - Avoid [tags] that can be added as labels, etc.
 - type: textarea
   attributes:
     label: What happened? 
