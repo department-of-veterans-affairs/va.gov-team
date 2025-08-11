@@ -8,6 +8,7 @@ body:
 - type: markdown
   attributes:
     value: |
+      ## "Add a title"
       What makes a good bug name? 
       
       - Use an action verb to convey what's not working as expected. 
