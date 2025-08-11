@@ -15,7 +15,7 @@ body:
 - type: textarea
   attributes:
     label: Description
-    description: Describe the scope of the ticket, background context, why it matters, dependencies, and open questions.
+    description: Describe the goal or outcome of this work, background context, why it matters, dependencies, and open questions.
 - type: textarea
   attributes:
     label: Tasks
