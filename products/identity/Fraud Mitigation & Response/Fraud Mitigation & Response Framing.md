@@ -147,8 +147,8 @@ Once discovery is complete, we’ll determine the best path forward based on wha
 - Operationalize findings: formalize partnerships and governance for cross-team fraud mitigation.
 
 _What tells us we’re ready to move forward?_
-Track 1: A validated playbook framework and stakeholder alignment on roles & responsibilities.
-Track 2: A clear determination on detection feasibility
+* Track 1: A validated playbook framework and stakeholder alignment on roles & responsibilities.
+* Track 2: A clear determination on detection feasibility
 
 ## Key Terms & Acronyms
 * Digital Access Fraud: Unauthorized access to VA systems using another person’s identity or information. May result in benefit theft, data exposure, or misuse.
