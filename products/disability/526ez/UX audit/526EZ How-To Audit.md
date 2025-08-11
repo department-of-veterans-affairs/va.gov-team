@@ -20,7 +20,7 @@ The 526EZ is a long form with multiple pathways (e.g., ancillary forms) and nest
 - _526 Active Form Audit Map_: Provides screenshots of all of the main form Steps and pathways or ancillary forms. Use this to track how much of the form has been tested and how much is left to go.
 - [Audit Tracker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/UX%20audit/Audit%20Tracker.md): Used to document who conducted a bug or UX audit on a specific section of the 526EZ form, when it was tested, how it was tested, and whether any issues or tickets were identified.
 
-### Considerations
+### Tester Considerations
 - Staging may have a lag / different performance than the production environment.
 
  ## 🗺️ Overview of Steps
