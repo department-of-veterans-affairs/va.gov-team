@@ -3,6 +3,7 @@ description: Issues for Disability Benefits Team
 labels: ["disability", "disability-benefits", "needs-refinement"]
 projects: 
 - department-of-veterans-affairs/1660
+type: Task
 
 body:
 - type: textarea
