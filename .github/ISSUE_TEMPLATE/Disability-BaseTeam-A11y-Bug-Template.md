@@ -1,9 +1,14 @@
 ---
 name: Disability Benefits Team A11y Bug Template
-about: A11y specific bug issues for Disability Benefits Team 
+about: A11y specific bug issues for Disability Benefits Team
 title: ''
-labels: bug, disability-experience, needs-a11y-refinement
-assignees: etanb
+labels:
+  - disability-benefits
+  - accessibility
+  - bug
+  - needs-refinement
+assignees:
+  - etanb
 ---
 
 ## What happened?

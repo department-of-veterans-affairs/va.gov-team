@@ -2,7 +2,9 @@ name: Accessibility Design Review – Intake Form
 description: Intake form to prepare for an accessibility design review
 title: "[A11y Design Review] "
 labels:
-  - disability-experience
+  - disability-benefits
+  - accessibility
+  - design
   - needs-refinement
 assignees:
   - etanb
