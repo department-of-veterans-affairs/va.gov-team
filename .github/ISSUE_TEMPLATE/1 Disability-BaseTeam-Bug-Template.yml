@@ -7,7 +7,7 @@ projects:
 body:
 - type: textarea
   attributes: 
-    label: "Add a title"
+    label: ""Add a title""
     placeholder: |
       What makes a good bug name? 
       
