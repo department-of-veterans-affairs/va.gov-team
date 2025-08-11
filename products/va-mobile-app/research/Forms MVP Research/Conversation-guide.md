@@ -297,10 +297,10 @@ Did you encounter any issues using your [screen reader/assistive tech/device]?
 
 Was any part hard to navigate or understand?
 
-### SuS Survey for testing participants:
+### SuS for testing participants:
 Now that you've completed the tasks above, I'm going to supply you with a link to a 10 questions survey.
 
-[Moderator copy/paste link to Qualitrix SuS survey into the chat]
+[Moderator copy/paste link to Qualitrix SuS into the chat] (SuS Link)(https://dj540s05.optimalworkshop.com/questions/vhbappformsmvp)
 
 ## Thank You and Closing - 3 minutes
 
