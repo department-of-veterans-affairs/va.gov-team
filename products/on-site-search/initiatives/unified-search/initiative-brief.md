@@ -1,14 +1,14 @@
 # Initiative brief: Unified search
 
 ## Outcome Summary
-> *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-* .
+Site visitors can utilize a single search experience to find the information they need regardless of where the information is stored - general web content, facility location data, forms database, authenticated or personal information.   
 
 **Related/Associated product(s)**
 - Product | Link to product outline 
 
 ## Problem
-> *Describe the challenge / pain point you seek to address.:* 
+We currently have multiple search solutions in place across various experiences on VA.gov. These solutions are not meeting our visitor expectations in relevancy of search results and visitors need to know where to go ont he site to search for specific types of information. By implementing a single search solution across all of our search experiences, it will allow us to work towards a unified search that allows site visitors to execute a search for any type of information - facility locations, authenticated information, forms, general information, etc. - from a single search box.
+
 * What is the problem and who is affected? And, what evidence do we have of the problem?
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
 * How does this initiative help further OCTO-DE's mission and goals?
