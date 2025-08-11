@@ -5,8 +5,8 @@
 | CG      | [OAuth 2.0](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89108)                                        | 🎉 Launched 4/2/2025                   |
 | EZ      | [Print/Save completed PDF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/60909)                         | 🎉 Launched 5/5/2025                   |
 | CG      | [Signature page update](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102073)                           | 🎉 Launched 7/15/2025                  |
-| EZ      | [Save-In-Progress L&L fix](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94818)                         | 🎉 Launched 8/3/2025                   |
-| EZ      | [Insurance page (L&L)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90159)                             | In QA                                   |
+| EZ      | [Save-In-Progress L&L fix](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94818)                         | 🎉 Launched 8/4/2025                   |
+| EZ      | [Insurance page (L&L)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90159)                             |🎉 Launched 8/11/2025                   |
 | EZ      | [Submission Traceability](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80978)                          | POC with ST team in progress            |
 | EZ      | [Form Statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95313)                                    | Discovery in progress (PM/Eng)          |
 | EZ      | [Choose your own adventure](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103253) (step toward 1-click) | Research study & findings doc completed |
