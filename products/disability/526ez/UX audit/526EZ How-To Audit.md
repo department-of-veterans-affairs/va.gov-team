@@ -79,16 +79,20 @@ As you are conducting your audit, make sure to take screenshots and notes on wha
 - 🤝 [UX Issue Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/UX%20audit/UX%20Issue%20Checklist.md)
 
 ## 🎟️ 6. Create or update bug / UX issue tickets 
-Review previously created tickets under the ["Bug Bash Super Epic"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110810) to determine if you should create a new ticket or update an already existing one. 
-- Bug Ticket Template _[TODO: Update once template is approved and created. In the meantime, reference [this ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116511) written with proposed template sections]_
-- UX Issue Ticket Template _[TODO: Update once template is approved and created. In the meantime, reference [this ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116513) written with proposed template sections]_
+1. Review previously created tickets under the ["Bug Bash Super Epic"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110810) to determine if you should create a new ticket or update an already existing one. Use the following ticket templates to write your tickets.
+- **Bug Ticket Template** _[TODO: Update once template is approved and created. In the meantime, reference [this ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116511) written with proposed template sections]_
+- **UX Issue Ticket Template** _[TODO: Update once template is approved and created. In the meantime, reference [this ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116513) written with proposed template sections]_
+2. Link your ticket as a Sub Issue under the ["Bug Bash Super Epic"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110810).
+_[TODO: How might we organize the bugs/sub issues under the Bug Bash Super Epic? Right now there are many different bugs/issues/epics nested under here.]_
 
 ## 📋 7. Link bug / UX issue tickets to any related enhancement Super Epics
 Super Epics may already exist that capture the broader work that needs to be completed to enhance a user flow. Review super epics to understand if your findings may be related to / help inform Super Epics in the backlog. If there is a relationship, comment on the Super Epic with your bug / UX issue ticket numbers.
 
 *For example*, "Improve 526 start/ restart experience" #108100 epic captures that enhancements need to be made to this flow, but as of Aug. 11, 2025, specific tasks and bugs are not yet captured. If you conducted an audit on this flow, and found specific issues, link the bug / UX isue tickets in the comments. 
+_[TODO: Is the description of what we'd like testers to do to show relationships between found bugs/issues and the corresponding Enhancement Super Epic?]_
 
-## 🗂️ 8. Fill out the Audit Tracker
+## 🗂️ 8. Fill out the Audit Tracker and 526 Map
+The Audit Tracker will allow us to track which parts of the form, devices, and the environments that have been tested. The _526 Active Form Audit Map_ will visually show which parts of the form have already been tested.   
 - [Audit Tracker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/UX%20audit/Audit%20Tracker.md)
 - Update the _526 Active Form Audit Map_
 
