@@ -1,0 +1,59 @@
+
+name: Disability Benefits Team Issue Template
+description: Issues for Disability Benefits Team 
+labels: ["disability", "disability-benefits", "needs-refinement"]
+projects: 
+- department-of-veterans-affairs/1660
+
+body:
+- type: textarea
+  attributes:
+    label: User Need 
+    description: Describe the story
+    placeholder: |
+      As a **user**
+      I want to **do something** 
+      So that **something happens**
+- type: textarea
+  attributes:
+    label: Description
+    description: What's the context? 
+    placeholder: | 
+      - Describe the scope of the ticket and include any context and details of the work that will be done 
+      
+      - Add dependencies, open questions, and other relevant details as needed
+- type: textarea
+  attributes:
+    label: Tasks
+    description: What are the tasks for this work?
+    placeholder: |
+      - [ ] Task
+      - [ ] Task
+      - [ ] Task
+- type: textarea
+  attributes:
+    label: Acceptance Criteria 
+    description: What are the acceptable conditions to consider this work complete? 
+    placeholder: |
+      - [ ] AC
+      - [ ] AC
+      - [ ] AC
+- type: checkboxes
+  attributes: 
+    label: Definition of Done
+    options:
+      - label: Meets acceptance criteria
+      - label: Passed all testing coverage
+      - label: Code or content reviewed (Internal)
+      - label: Reviewed and approved by product and/or design
+
+- type: checkboxes
+  attributes:
+    label: Refinement Checklist! 
+    description: Make this ticket ready to work
+    options: 
+      - label: Add description, tasks and AC
+      - label: Add estimation
+      - label: Add the proper labels, team and priority
+      - label: Add a parent 
+    
