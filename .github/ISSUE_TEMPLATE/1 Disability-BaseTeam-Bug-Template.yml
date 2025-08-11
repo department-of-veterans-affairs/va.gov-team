@@ -21,9 +21,8 @@ body:
 - type: textarea
   attributes: 
     label: What is the desired behavior? 
-    description: Describe here
     placeholder: Describe here
-      Describe here
+      
 - type: checkboxes
   attributes: 
     label: Definition of done
