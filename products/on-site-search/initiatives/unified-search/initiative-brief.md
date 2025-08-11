@@ -1,31 +1,30 @@
-# Initiative brief: Unified search
+# Initiative brief: Unified search solution
 
 ## Outcome Summary
 Site visitors can utilize a single search experience to find the information they need regardless of where the information is stored - general web content, facility location data, forms database, authenticated or personal information.   
 
 **Related/Associated product(s)**
-- Product | Link to product outline 
+- [On-site search product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/product-outline.md)
 
 ## Problem
-We currently have multiple search solutions in place across various experiences on VA.gov. These solutions are not meeting our visitor expectations in relevancy of search results and visitors need to know where to go ont he site to search for specific types of information. By implementing a single search solution across all of our search experiences, it will allow us to work towards a unified search that allows site visitors to execute a search for any type of information - facility locations, authenticated information, forms, general information, etc. - from a single search box.
+We currently have multiple search solutions in place across various experiences on VA.gov. These independent solutions not only require visitors to know where to go on the site to search for specific types of information, they also are not meeting expectations in the relevancy of results returned. 
 
-* What is the problem and who is affected? And, what evidence do we have of the problem?
-* Why do you think the problem is occurring? Other reasons why this might be occurring?
-* How does this initiative help further OCTO-DE's mission and goals?
 
-<!--
 ## Desired User Outcomes
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- Creates a unified search that allows site visitors to execute a search for any type of information - facility locations, authenticated information, forms, general information, etc. - from a single search experience
+- Improved findability of content currently not served up in global search
+- Improved relevancy and accuracy of results
 
 ## Undesired User Outcomes
+- 
+
 ## Desired Business Outcomes
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+- Reduce development and maintenance overhead due to multiple search code bases and experiences
+- Mitigates risks from dependency on other government agencies with unknown priorities
 
 ## Undesired Business Outcomes
--->
+- Reliance on a managed search solution that is no longer supported
 
 ---
 ## Measuring Success
