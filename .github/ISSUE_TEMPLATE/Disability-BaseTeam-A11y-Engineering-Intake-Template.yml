@@ -1,0 +1,123 @@
+name: Engineering Accessibility Review – Intake Form
+description: Intake form to prepare for a technical accessibility review
+title: "[A11y Engineering Review] "
+labels:
+  - disability-experience
+  - needs-refinement
+assignees:
+  - etanb
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 📝 Summary
+        Please fill out all fields clearly to ensure we can provide helpful and timely feedback.
+
+  - type: input
+    id: feature_name
+    attributes:
+      label: Feature name
+      placeholder: e.g., Disability Benefits Form Update
+    validations:
+      required: true
+
+  - type: input
+    id: team_name
+    attributes:
+      label: Team name
+      placeholder: e.g., Disability Benefits 1
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: "## 👥 Point of Contact"
+
+  - type: input
+    id: product_owner
+    attributes:
+      label: Product owner name
+
+  - type: input
+    id: designer_contact
+    attributes:
+      label: Designer contact name
+
+  - type: input
+    id: engineers
+    attributes:
+      label: Engineer(s) name(s)
+    validations:
+      required: true
+      
+  - type: markdown
+    attributes:
+      value: "## 🔍 Testing Instructions"
+
+  - type: input
+    id: staging_url
+    attributes:
+      label: Staging URL
+      placeholder: https://staging.example.com
+    validations:
+      required: true
+
+  - type: textarea
+    id: testing_steps
+    attributes:
+      label: Steps to test the feature
+      description: "Use text-based descriptions; do not rely on visual-only references like Figma frames."
+      placeholder: |
+        1. Step-by-step instruction #1
+        2. Step-by-step instruction #2
+        3. Step-by-step instruction #3
+    validations:
+      required: true
+
+  - type: textarea
+    id: media_links
+    attributes:
+      label: Supporting media links (videos, screenshots)
+      description: "Paste URLs to hosted files. 💡 You can also upload screenshots/videos in a comment after submitting."
+      placeholder: |
+        Video: https://www.loom.com/share/...
+        Screenshot: https://drive.google.com/...
+
+  - type: markdown
+    attributes:
+      value: "## 📅 Additional Information"
+
+  - type: dropdown
+    id: deadlines
+    attributes:
+      label: Are there any deadlines we should be aware of?
+      options:
+        - "Yes – will specify in description below"
+        - "No"
+        - "Not sure"
+    validations:
+      required: true
+
+  - type: input
+    id: deadline_date
+    attributes:
+      label: Deadline date (if applicable)
+      placeholder: MM/DD/YYYY
+    validations:
+      required: false
+
+  - type: textarea
+    id: related_tickets
+    attributes:
+      label: Related tickets or context
+      placeholder: "Include ticket links or GitHub issue numbers."
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        ## ✅ Next Steps
+        1. Etan will move the ticket Status from "New" to "Assigned".
+        2. Etan will reach out directly with the Engineering or Product POC to coordinate.
+        3. Etan will fill out the [ADE Intake Form](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=Accessibility-Digital-Experience-Intake-Ticket.md) completely.
