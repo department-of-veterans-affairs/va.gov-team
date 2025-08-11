@@ -25,7 +25,7 @@ body:
     id: feature_summary
     attributes:
       label: Brief summary of the feature and what it aims to solve or improve
-      placeholder: Describe the purpose and improvements
+      placeholder: Describe the purpose, users affected, and expected outcomes.
     validations:
       required: true
 
@@ -33,13 +33,13 @@ body:
     id: team_name
     attributes:
       label: Team name
+      placeholder: e.g., Disability Benefits 1
     validations:
       required: true
 
   - type: markdown
     attributes:
-      value: |
-        ## 👥 Point of Contact
+      value: "## 👥 Point of Contact"
 
   - type: input
     id: product_owner
@@ -71,43 +71,43 @@ body:
 
   - type: markdown
     attributes:
-      value: |
-        ## 📁 Resources
-        Please provide links to any relevant design materials. Be specific about where we should look.
+      value: "## 📁 Resources"
 
+  # Combined Figma/Mural/etc. links into a single textarea
   - type: textarea
-    id: figma_links
+    id: design_links
     attributes:
-      label: Figma link(s)
-      placeholder: Paste link(s) here
+      label: Design links (Figma, Mural, etc.)
+      description: "Provide URLs and specify frame/page names to review."
+      placeholder: |
+        Figma: https://www.figma.com/file/...
+        Mural: https://app.mural.co/t/... (Board: ___, Section: ___)
+    validations:
+      required: false
 
-  - type: textarea
-    id: mural_links
+  # Combined screenshots + videos into one attachments field
+  - type: attachments
+    id: visuals
     attributes:
-      label: Mural link(s)
-      placeholder: Paste link(s) here
-
-  - type: textarea
-    id: screenshots
-    attributes:
-      label: Screenshots
-      placeholder: Paste link(s) or markdown image references
-
-  - type: textarea
-    id: videos
-    attributes:
-      label: Video walkthroughs
-      placeholder: Paste link(s) here
+      label: Visuals & walkthroughs
+      description: "Upload screenshots or short videos, or paste links to hosted files."
+    validations:
+      required: false
 
   - type: textarea
     id: other_docs
     attributes:
       label: Other relevant documents or links
-      placeholder: Paste link(s) here
+      placeholder: e.g., PRD, user research notes, prior a11y findings
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: "## ✅ Next Steps"
 
   - type: markdown
     attributes:
       value: |
-        ## ✅ Next Steps
-        1. Etan will move the ticket Status from "New" to "Assigned"
-        2. Etan will reach out directly with the Design POC to coordinate
+        1. Etan will move the ticket Status from "New" to "Assigned".
+        2. Etan will reach out directly with the Design POC to coordinate.
