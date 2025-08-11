@@ -1,7 +1,7 @@
 # Running Design and Research Agenda
 
 ## August 11 2025
-Attendees: Renata Keck, Jamie Fiore, Amanda Klausmeier, Andrea Merrel, Mike Mooney, Premal Shah, Rachel Pope
+Attendees: Renata Keck, Jamie Fiore, Amanda Klausmeier, Alyssa, Li, Andrea Merrel, Mike Mooney, Premal Shah, Rachel Pope, Hieu Vo
 
 ### Agenda
 - Review findings from the CHAMPVA onsite
@@ -9,6 +9,49 @@ Attendees: Renata Keck, Jamie Fiore, Amanda Klausmeier, Andrea Merrel, Mike Moon
 - Share out the 1010D/OHI merge usability study findings with our partners
 
 ### Notes
+
+**Review now/next/later**
+
+* 1010D/OHI merge: engineers are doing minor content tickets and Andrea will be scheduling Staging Review today. 
+* AI: Andrea to start a thread about getting all forms in production compliant with the current versions of PDF forms
+
+**Share CHAMPVA offsite findings**
+
+* CHAMPVA is getting overwhelmed by OHI submissions and it's adding to the backlog (this should be improved with the merged form MVP, where you select applicants on a plan and upload 1 card per plan) -- there's a separate OHI team and they're really feeling this problem
+    * AI: Make sure when you designate a card applies to multiple applicants that PEGA isn't creating a doc for each applicant on the backend
+	* Shift in ongoing UX strategy: continually keep an eye out for burden on staff (the number of documents and images being sent over through PEGA)
+* Resub flow changes (see below)
+* Make sure we're sharing a version of our research readout with our CHAMPVA stakeholders. Send out a heads up days in advance so attendance can be established ahead of time
+* The CHAMPVA team is incredibly busy, so we need to send out agendas 24 hours or more in advance and be more careful about sending stuff out
+* Appeals backlog is 90% from providers (!!)
+* FMP is no longer sending emails to be scanned. Now they're uploading the email to PEGA. About 80% of things come in by email. Need to decide if there's urgency to still release the digital form
+
+
+**Scheduling 1010D/OHI usability findings share out**
+
+* Next meeting is 19th, is that too soon?
+	* Yes. Normally we present internally before we present to stakeholders, so let's make sure we don't show this to stakeholders first.
+ 	* By next design sync (8/18): draft of written findings report will be complete and ready for review/discussion. Deck will be started. At that point, we can decide if the next CHAMPVA stakeholder call (9/2) would be the right time for presenting findings. 
+
+
+**Update on current CHAMPVA claims research study**
+
+* Overview of overall usability findings, potential content changes: mostly content based, users are overwhelmingly happy with the file verification, but split on how they'd react if they received that error in real life on the form (calling CHAMPVA 800-number immediately vs. stopping the form vs. submitting and calling later)
+* Amanda shares some resubmissions flow changes from the CHAMPVA offsite (needs gut-check from PEGA)
+    * Is anything prefilled? When authenticated, there's no prefill in any IVC forms
+* What IVC UX team needs to rethink/redesign after the current claims study concludes: 
+    * Remove medical/pharmacy claim type question
+    * Remove claim details screen
+    * Upload screen: can just be a single screen for medical/pharmacy
+* BLUF: The business claims they only need the PDI or claim control number. 
+    * IVC UX team: Can we set a way to contact the bene? If yes, let's make sure that's clear in the frontend UX
+* IVC UX team: Double check whether there are PEGA constraints on the flow 
+* Resub flow should accommodate batch claims tied to a single PDI
+    * This might complicate the LLM upload on resubmission flow
+* AI: Amanda will discuss the business decision around sending back all of the initial claim over again in the resubmission flow
+* We can keep the resubmission flow as-is **for now**. Right now, users will need to be prompted by staff to go to the form. We can update the URL on the EOB. Likely won't see a lot of reopens through the online form
+	* Hoping next CHAMPVA Claims call will be a confirmation of a decision around resubmissions/reopens
+	* Andrea AI: Get a gut check from PEGA about the minimum they need to marry initial claim and resub together
 
 ## August 4 2025
 Attendees: Renata Keck, Jamie Fiore, Amanda Klausmeier, Andrea Merrel, Mike Mooney
