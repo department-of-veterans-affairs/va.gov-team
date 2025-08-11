@@ -133,13 +133,14 @@ The Platform Design System team has analytics on how many users download and pri
 ### Supporting research
 
 *Is this work supported by user research?* If this work is **not supported by existing user research**, will this work include user research?*
-Since the pattern that we are using is an existing pattern in the design system, we are assuming that it will already be meet accessibility standards and some usability needs. However, we do intend on validating the use of this pattern for the Keep a Record of Submitted Information page and are still in the process of determining what would be the best approach (internal "fresh eyes" testing and/or user research).  
+- The pattern is an existing pattern in the design systemthat is supported by user research.  
 
 *If this work **will include user research**, please briefly state what you hope to learn from that research.*
-We will conduct light internal testing using the staging environment: 
+We will still conduct light internal testing using the staging environment to test the following: 
 - Whether users understand how to save the HTML copy of their submission.
 - Whether users understand how to print the HTML copy of their submission.
-- Any pain points in printing the HTML copy of their submission via default browser functionality. 
+- Any pain points in printing the HTML copy of their submission via default browser functionality.
+- If users understand that the copy of their submission will not persist beyond their session.
 - Whether the visual hierarchy provided on the page via the accordions as well as the visual hierarchy within the accordions supports the user in clearly understanding the information they submitted. 
 
 ### What're you building?
