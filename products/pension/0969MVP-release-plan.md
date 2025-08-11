@@ -36,10 +36,13 @@ As referenced in the [Product Outline](https://github.com/department-of-veterans
 
 | User Type | Flipper Status | Form in Progress |Version| Content Displayed|
 |---|---|---|---|---|
-| Authenticated Users | Disabled | N/A | Paper Form PDF | not digitized | link to PDF |
-| Authenticated Users | Enabled | N/A | online form  | digitized | online application |
-| UnAuthenticated Users | Disabled | N/A | Paper Form PDF | not digitized | link to PDF |
+| Authenticated Users | Enabled | No | online form  | digitized | online application |
+| Authenticated Users | Enabled | Yes| online form  | digitized | online application |
+| UnAuthenticated Users | Disabled | No | Paper Form PDF | not digitized | link to PDF |
+| UnAuthenticated Users | Disabled | Yes | Paper Form PDF | not digitized | link to PDF |
 | UnAuthenticated Users | Enabled | N/A | online form  | digitized | online application |
+| Authenticated Users Post 100% Release| Enabled | Yes | online form | digitized | online application |
+| UnAuthenticated Users Post 100% Release| Disabled | Yes | Paper Form PDF | not digitized | link to PDF |
 
 
 ### This release will include the following components:
