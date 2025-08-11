@@ -3,7 +3,7 @@ description: Intake form to prepare for a technical accessibility review
 title: "[A11y Engineering Review] "
 labels:
   - disability-experience
-  - needs-a11y-refinement
+  - needs-refinement
 assignees:
   - etanb
 body:
@@ -18,14 +18,6 @@ body:
     attributes:
       label: Feature name
       placeholder: e.g., Disability Benefits Form Update
-    validations:
-      required: true
-
-  - type: textarea
-    id: feature_summary
-    attributes:
-      label: Brief summary of the feature and what it does
-      placeholder: Describe what the feature does, the users it impacts, and its purpose.
     validations:
       required: true
 
@@ -45,15 +37,11 @@ body:
     id: product_owner
     attributes:
       label: Product owner name
-    validations:
-      required: true
 
   - type: input
     id: designer_contact
     attributes:
       label: Designer contact name
-    validations:
-      required: true
 
   - type: input
     id: engineers
@@ -61,15 +49,7 @@ body:
       label: Engineer(s) name(s)
     validations:
       required: true
-
-  - type: input
-    id: slack_channel
-    attributes:
-      label: Slack channel for follow-up
-      placeholder: e.g., #accessibility-help
-    validations:
-      required: true
-
+      
   - type: markdown
     attributes:
       value: "## 🔍 Testing Instructions"
@@ -102,8 +82,6 @@ body:
       placeholder: |
         Video: https://www.loom.com/share/...
         Screenshot: https://drive.google.com/...
-    validations:
-      required: false
 
   - type: markdown
     attributes:
