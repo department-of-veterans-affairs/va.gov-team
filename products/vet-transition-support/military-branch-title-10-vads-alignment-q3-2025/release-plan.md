@@ -16,7 +16,7 @@ Not applicable - team conducted internal testing.
 **Launch Go/No-go:** 
 - _Scheduled: 08/12/2025_
 - Launch go/no-go ticket: [PTEMSVT-509](https://jira.devops.va.gov/browse/PTEMSVT-509) 
-- [Launch readiness checklist]( TK )
+- [Launch readiness checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/vet-transition-support/military-branch-title-10-vads-alignment-q3-2025/launch-checklist.md)
 
 Timeline
 - Last usability study session is 8/11 at 4pm et
