@@ -72,7 +72,7 @@ Before we start, I want to go over a few things:
  
   - **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners as long as we remove any information that can be used to identify you?** Yes / No
 
-In the bottom toolbar of the Zoom window, click the arrow next to **SHOW CAPTIONS** > **View Full Transcript** > Save (NEED TO DO THIS TO GET TRANSCRIPT)
+*Moderator: In the bottom toolbar of the Zoom window, click the arrow next to **SHOW CAPTIONS** > **View Full Transcript** > Save (NEED TO DO THIS TO GET TRANSCRIPT)*
 
 *After checking that transcription is working, close the Transcript panel by clicking **Close Full Transcript** in the Show Captions menu.*
 
