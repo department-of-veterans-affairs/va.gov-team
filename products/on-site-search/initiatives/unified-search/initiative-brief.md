@@ -1,4 +1,4 @@
-# Initiative brief: Unified search solution
+# Initiative brief: Unified search - Manage search POC
 
 ## Outcome Summary
 Site visitors can utilize a single search experience to find the information they need regardless of where the information is stored - general web content, facility location data, forms database, authenticated or personal information.   
@@ -72,13 +72,17 @@ Response time | | |
   - return relevant results for simple queries and more complex natural language queries
   - allow for filtering of results based on facets/tagging system created in Drupal
   - display results within a custom front-end experience
-- Test POC against sitewide search
-- Integrate within Find a form experience
+- Stand up POC within Find a form experience to showcase the service's ability to
+  - connect to additional data source other than an xml sitemap and serve both results that may or may not include a web page link
+  -  
+- Stand up POC for sitewide search
 
  
 > *What have you explicitly decided to **not** include and why?*
+- Searching for "near me"
 
 > *Are you building for the VA Health and Benefits mobile application? Explain why or why not.*
+- Before building a search experience to meet the authentiated experience needs, we need an integrated search engine that can search across various data sources and experiences on VA.gov.  Once proven out and implemented, future iterations will move towards search authenticated content and information. 
 
 > *How does this solution address your Assumptions & Risks?*
 
@@ -122,10 +126,10 @@ Response time | | |
 
 <details>
 
-- Team Name: 
-- GitHub Label(s): 
-- Slack channel: 
-- Product POCs:
+- Team Name: Onsite search
+- GitHub Label(s): search
+- Slack channel: #onsite-search 
+- Product POCs: Mikki Northuis, Jennifer Kramer, Megan Siddle
 
 </details>
 
@@ -135,8 +139,8 @@ Response time | | |
 
 <details>
   
-- Office/Department:
-- Contact(s): 
+- Office/Department:  Office of the CTO
+- Contact(s): Chris Johnston
  
 </details>
 
