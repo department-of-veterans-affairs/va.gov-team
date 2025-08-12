@@ -29,13 +29,11 @@ _As a Veteran, I am able to find the information I need to on the VA.gov Website
 ## Measuring succcess/KPIs
 
 ### Search satisfaction
-- CSAT
-- Trust
-- Able to complete task
+- [Q4 2024 CSAT](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/analytics/medallia/4q2024.md)
+
 
 ### Search usage
-- Search events
-- CTR
+- [Search events and CTR](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/analytics/2025.md)
 - Top referring pages
 - Top clicked pages
 
