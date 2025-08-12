@@ -25,10 +25,10 @@ Timeframe: Issue has been going on for X minutes.
 We are investigating the issue and will post updates in this thread as we have them. :thread:
 ```
 
-2.2 **Coordinator**: Work with Kay, Kristen, Mark and Technical Lead to determine if this incident warrants setting up a maintenance window [or doing a complete rollback of updated service / tool].
+2.2 **Coordinator**: Work with Kay, Kristen, Mark and Technical Lead to determine if this incident warrants setting up a maintenance window or rolling back the broken feature.
 
 ### 3. Track
-- **Technical Lead**: Start a debugging traceability document using [this Incident Investigation Traceability]() template. 
+- **Technical Lead**: Start a debugging traceability document using [this Incident Investigation Traceability](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/engineering/templates/incident_investigation_traceability_template.md) template. 
 
 <hr />
 
@@ -139,7 +139,13 @@ be proactive in noticing and fixing production issues, we adhere to the followin
   - Check shared calendar for API or CRM updates/releases
     - API Release Schedule: https://confluence.devops.va.gov/display/VAExternal/Release+Versions
 
-Find more detailed debugging steps in our [in-depth debugging guide]().
+Find more detailed debugging steps in our [in-depth debugging guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/engineering/guides/debugging.md).
+
+## Post-incident
+Follow these steps to clean up after an incident
+1. Remove any maintenance windows that are related to the incident
+2. Notify relevant groups that the incident is resolved
+3. For high-impact issues, spin up a post mortem using [this template](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Postmortems/_template.md)
 
 ## 📊 System Integration Diagram
 This diagram shows the upstream (right side) to downstream (left side) dependencies.
