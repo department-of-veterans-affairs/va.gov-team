@@ -30,18 +30,37 @@ Contact Mark Dewey to get access to the BTSSS CRM
 You will need to fill out a VA9957 form to gain access to the CHYSHR VistA. For best results, do all of these steps on the VA Network using a Desktop in the CAG or AVD, as you'll need to use your PIV credentials to sign the form prior to submission.
 
 1. Download the [VA9957 pdf](https://dvagov.sharepoint.com/:b:/r/sites/OITEPMOETS/Shared%20Documents/VA9957.pdf)
-1. Fill out section 1, 2, and 3; [Here is a picture of what to put for section 1 and section 3](./VA9957.section.1.and.3.PNG)
+2. Fill out section 1, 2, and 3; [Here is a picture of what to put for section 1 and section 3](./VA9957.section.1.and.3.PNG)
   1.  Unless you know them, you can leave items B, D, E and K blank.
   2.  For G your Expiration Date is your PIV card expiration date
   3.  For H your Contractor Name Employer is the name of your prime in your contract
   4.  For I your Contractor Address is the address of your companies physical address
   5.  For J your AD Username is the Alias within Outlook Address; you can get to this by doing the following...
-     1.  Go to Outlook -> Address Book -> Search for your name -> Select your name -> Look at the Alias noted
-1. Sign and get your VA/OCTO team member to sign and approve
-1. Submit the signed document at https://vhaispappteam01.vha.med.va.gov/webentry/test-center-service-request-form.html
-  1. This requires to be on the network to access. 
-1. Wait till the request gets approved. If you have not been approved within 1 month, the email address to follow up is OITCRRIVVTCECS@va.gov. CC: your OCTO Eng lead and OCTO POs on the follow up email.
-1. You will receive an email with connection details, including your access and verify codes once your access has been approved.
+     1.  Go to Outlook -> Address Book -> Search for your name -> Select your name -> Use the Alias noted as your AD Username
+3. Sign and get your VA/OCTO team member to sign and approve (For the travel pay team you can ask Kay Lawyer or Mark Dewey)
+4. Submit the signed document at https://dvagov.sharepoint.com/sites/OITEPMOETS/SitePages/SupportRequests.aspx?csf=1&web=1&e=cURoZY&CID=29acea24-f7c1-413f-8091-8579cb0c34c7 by creating an Enterprise Support Request. Please note that you will have to create 2 of these requests! One for Database CHYSHR/983 and one for Database DAYTSHR/984.
+  1. This requires you to be on the network to access.
+  2. Tips for Filling out the Enterprise Support Request 
+     1. Request Type: Test Center Request - Select "VistA Database User Access Request"
+     2. Created By Network User ID - Enter your AD Username
+     3. Request Summary - Enter "Access to CHYSHR and DAYTSHR"
+     4. Requester Network User ID - Enter your AD Username
+     5. Request Description - Enter "Need access to test travel pay reimbursement in SQA/staging"
+     6. VASI ID - Enter "2103"
+       1. [VASI link for future reference](https://vaww.vear.ea.oit.va.gov/#system_and_application_domain_vasystems_na.htm)
+     7. VASI System Name - Select "2103"
+     8. Additional VASI IDs - N/A
+     9. Project ID - leave blank
+     10. Project Name - Enter "Travel Pay on VA.gov"
+     11. VA Sponsor Organization - Select "OIT"
+     12. Database Name - Enter "CHYSHR/983"
+     13. User Name - Enter your AD Username
+     14. User Account Operation - Select "Modify"
+     15. Access Type - Check off "VistA Database"
+     16. Add your signed VA9957
+     17. Submit the Request
+5. Wait till the request gets approved. If you have not been approved within 1 month, the email address to follow up is OITCRRIVVTCECS@va.gov. CC: your OCTO Eng lead and OCTO POs on the follow up email.
+6. You will receive an email with connection details, including your access and verify codes once your access has been approved.
 
 ## Connect to VistA
 
