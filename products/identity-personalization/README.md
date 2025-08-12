@@ -24,7 +24,6 @@
 |Emerald Sargent | Full Stack Engineer |
 |Giles Wells| Full Stack Engineer | 
 |Diana Buffone| BE Engineer |
-|Joe Karschnik | QA/Accessibility Specialist|
 
 ## Our products
 
