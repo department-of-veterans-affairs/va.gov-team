@@ -62,7 +62,8 @@ Both participants experienced difficulties with the login process on VA.gov. Par
 
 *   **Participant 03:** "Yeah, sometimes it's down or you'll get messages. They're doing updates. Or maybe that's more so on the weekends, which is sometimes when I try Vet Healthy Vet is the login is going away. Right. There's a login that's changing soon. Correct."
 
-**2.** **Finding:** Unfamiliarity with the Find a Representative tool
+   **2.** **Finding:** Unfamiliarity with the Find a Representative tool
+
 Neither participant was aware that VA.gov offered a tool to find and appoint a representative. Participant 01 stumbled upon it via a link provided by their attorney, and Participant 03 explicitly stated they "didn't know that was available in va.gov," having previously searched for agents via Google. This suggests a possible discoverability issue with the new tool.
 
 *   **Participant 01:** "To be honest, honest with you, I never, I never got to that point." (When asked if they considered using VA.gov to find an attorney)
