@@ -2,19 +2,19 @@
 
 ## Quick Started
 
-- Can use any test user that is in MPI and can have appointments made in test VistA 500
+- Can use any test user that is in MPI and can have appointments made in test VistA 500 or VistA 983
 - Teams are responsible for their own test data
 
-## Testing Procedure
+
+## Patient Check-In Testing docs
+
+### PCI Testing Procedure
 
 1. Have an Appointment in the CHYSHY VistA(s), using the clinincs RClinic1, RClinic2, RClini3
 1. Submit your claim
 1. Clean up claim created for the user in the [BTSSS CRM](https://dvagov-btsss-qa.crm9.dynamics.com/main.aspx?appid=410c62d5-3681-4423-9170-6801d95cacbe&forceUCI=1&newWindow=true&pagetype=entitylist&etn=contact&viewid=00000000-0000-0000-00aa-000010001004&viewType=1039)
 
 Contact Mark Dewey to get access to the BTSSS CRM 
-
-
-## Patient Check-In Testing docs
 
 ### [WIP] Testing procedure. 
 
@@ -25,9 +25,9 @@ Contact Mark Dewey to get access to the BTSSS CRM
 
 Contact Mark Dewey to get access to the BTSSS CRM 
 
-## Get access VistA
+## All Teams - Get access VistA
 
-You will need to fill out a VA9957 form to gain access to the CHYSHR VistA
+You will need to fill out a VA9957 form to gain access to the CHYSHR VistA. For best results, do all of these steps on the VA Network using a Desktop in the CAG or AVD, as you'll need to use your PIV credentials to sign the form prior to submission.
 
 1. Download the [VA9957 pdf](https://dvagov.sharepoint.com/:b:/r/sites/OITEPMOETS/Shared%20Documents/VA9957.pdf)
 1. Fill out section 1, 2, and 3; [Here is a picture of what to put for section 1 and section 3](./VA9957.section.1.and.3.PNG)
@@ -35,30 +35,32 @@ You will need to fill out a VA9957 form to gain access to the CHYSHR VistA
 1. Sign and get your VA/OCTO team member to sign and approve
 1. Submit the signed document at https://vhaispappteam01.vha.med.va.gov/webentry/test-center-service-request-form.html
   1. This requires to be on the network to access. 
-1. Wait till the request gets approved. This may take hours, to days, but its a relatively fast turn around. 
+1. Wait till the request gets approved. If you have not been approved within 1 month, the email address to follow up is OITCRRIVVTCECS@va.gov. CC: your OCTO Eng lead and OCTO POs on the follow up email.
+1. You will receive an email with connection details, including your access and verify codes once your access has been approved.
 
 ## Connect to VistA
 
 ### IMPORTANT NOTES: 
 
-- All GFEs come with Reflection Workspace installed. Find this software on your GFE .  
+- All GFEs (and CAG/AVD Desktops) come with Reflection Workspace installed. Find this software on your GFE.  
 - Your Reflection Workspace may come already configured to access a VistA or it may be a blank workspace.
 
+### Connect
 
 1. Open the Reflection Workspace App.
-1. Select File->New
+1. Select File->New (if it doesn't open automatically with the "Create New Document" modal opened)
 1. Create a new session of type VT terminal.
 1. The Connection type should be Secure Shell.
-1. The Host name/IP Address is in your access email as Server.
+1. The Host name/IP Address is in your access email as Server. _NOTE: If the Server name does not work, use the IP Address_ 
 1. The User Name will be the VistA database in lowercase.
 1. The SSH configuration scheme is blank.
-1. Click OK.
+1. Click OK/Create.
 1. You should get a Banner then a Password Box.
 1. Password will be the VistA database again in lowercase.
 
 The terminal will connect and you see a shell-like prompt that you can type commands
 
-1. Enter your Access Code from your access email.
+1. Enter your Access Code from your access email. _NOTE: You must type these commands in, copy/paste will not work, even if you have copy/paste CAG priveleges._
 1. Then enter your Verify Code from your access email.
 1. THE FIRST TIME YOU LOGON YOU WILL NEED TO CHANGE THE VERIFY CODE.
 1. Enter the code from the email.
@@ -77,18 +79,23 @@ The terminal will connect and you see a shell-like prompt that you can type comm
   1. Scheduler Manager Menu
   1. Appointment Menu
   1. Make Appointment (this may take two tries due to how the VistA is configured)
-1. Select Clinic, BTSSS has two clinics to chooes from `RCLINIC1` and `RCLINIC2`
-1. Select patient by entering  `last name`, `first name`. This will a search of MPI for that patient. You don't have to type the full name, but if multiple patients are found they a list of selectable patients are displayed 
-1. Leave the default answers for all the questions. (keep on hitting enter)
-1. Enter `YES` for `IS THIS A 'NEXT AVAILABLE' APPOINTMENT REQUEST?`
-1. Select a date, you can use the exact date format or any of the VistA Shorthands. I like to use `T@1045` syntax. That will create an appointment for `today at 10:45AM`
+1. Select Clinic,
+   - PCI has two clinics to chooes from `RCLINIC1` and `RCLINIC2`
+   - For Travel Pay from Past Appointments:
+     1. Enter `chy test`
+     2. Select from one of the options provided
+1. Select patient by entering  `last name`, `first name`. This will a search of MPI for that patient. You don't have to type the full name, but if multiple patients are found they a list of selectable patients are displayed
+1. Answer `YES` to `IS THIS APPOINTMENT FOR A SERVICE CONNECTED CONDITION`
+1. For PCI: Enter `YES` for `IS THIS A 'NEXT AVAILABLE' APPOINTMENT REQUEST?`; For Travel Pay from Past Appointments, select `NO`
+1. Select a date, you can use the exact date format or any of the VistA Shorthands.
+    1. For future you can use `T@1045` syntax. That will create an appointment for `today at 10:45AM`
+    2. For past, use the `MMDDYYYY@Time` format; `07152025@0830` will make an appointment for July 15, 2025 at 8:30 am.
+    3. Times are in the VAMC's local timezone
 1. Keep the defaults for the rest of the questions (keep hitting enter)
 1. When you get to select a clinic, you have created an appointment
 
 
-
-
-## Users in the BTSSS system 
+## Users in the BTSSS system for PCI
 
 > These are Veterans that are in the ES, MPI, CHYSHR & BTSSS 
 
@@ -106,4 +113,8 @@ The terminal will connect and you see a shell-like prompt that you can type comm
 | Rutherford B. Hays | 1013769825V989251 | 01/23/1988  | 379-03-1812 | 01/23/1988         | Ben, Zach        |
 | Franklin Pierce     | 1013769808V549653 | 01/23/1988  | 520-84-5793 | 01/23/1988         | Ben, Zach |
 | Millard Fillmore    | 1013769801V197302 | 01/23/1988  | 520-11-8319 | 01/23/1988         | Ya-ching, Kelly, Christina |
+
+## Users for Travel Pay from Past Appointments
+
+The default Staging user for Travel Pay from Past Appointments is Nolle Barakat, but any staging user also used by the appointments team will work (i.e. Judy Morrison).
 
