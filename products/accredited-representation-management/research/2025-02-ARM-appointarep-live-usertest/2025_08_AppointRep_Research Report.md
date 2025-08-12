@@ -11,7 +11,7 @@ Lindsay Li-Smith, Product Manager
 
 ## Research Goals
 
-*   Evaluate the usability of Appoint a Representative on VA.gov. Usability includes understandability of content, whether the experience meets user expectations, and identifying system bugs.
+*   Evaluate the usability of Appoint a Representative on VA.gov. Usability includes understandability of content, whether the experience meets user expectations, and identifying system bugs.  
 *   Stretch goal: Evaluate the usability of the Representative Status Widget on VA.gov.
 
 ## Research Questions
@@ -125,13 +125,11 @@ o   Improve the accuracy and ease of collecting representative documentation f
 
 1. **KPI:** Adoption Rate of Electronic Signature/Submission
 
-a. This KPI would track the percentage of users who choose to electronically sign and submit forms through VA.gov compared to those who use the traditional print-and-mail method.
-b. The finding that both participants strongly preferred electronic submission and highlighted its benefits directly supports the importance of this metric. Efforts to promote and improve the electronic submission process would aim to increase this adoption rate.
+This KPI would track the percentage of users who choose to electronically sign and submit forms through VA.gov compared to those who use the traditional print-and-mail method. The finding that both participants strongly preferred electronic submission and highlighted its benefits directly supports the importance of this metric. Efforts to promote and improve the electronic submission process would aim to increase this adoption rate.
 
 2. **KPI:** Representative Search Success Rate
 
-a. This KPI would measure the percentage of users who successfully find and select a representative using the VA.gov tool.
-b. The finding that neither participant was aware of the tool, and Participant 03 previously used Google to search for agents, directly supports the need to track this metric. Improving the discoverability and usability of the "Appoint a Representative" tool on VA.gov would aim to increase this success rate.
+This KPI would measure the percentage of users who successfully find and select a representative using the VA.gov tool. The finding that neither participant was aware of the tool, and Participant 03 previously used Google to search for agents, directly supports the need to track this metric. Improving the discoverability and usability of the "Appoint a Representative" tool on VA.gov would aim to increase this success rate.
 
 ## Next Steps
 
