@@ -1,47 +1,26 @@
-# Initiative Brief Template
-#### Overview
+# MHV Medical Records - ROI Request Notification Initiative Brief
 
-<details>
- 
- *There is roughly a 1:many relationship between products and initiatives, or our attempts to improve a product/achieve Veteran outcomes. The same goes for product outlines and initiative briefs. This template can be used as product documentation for the Collaboration Cycle, especially when iterating an existing product. In addition, the Brief is an important communication tool within a team and between the team and Crew Chief/PO/other teams.* 
- 
-</details>
+## Summary
+- Product: Medical Records
+- Initiative: Release of information request notification
 
-<details>
- <Summary>Examples:</Summary>
- 
- - *Product: On-site Search* 
-   - *Initiatives: Type-ahead, [Search Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/search-landing/initiative-brief.md), [Surfacing Other Search Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/surfacing%20other%20search%20tools/initiative-%20brief.md)*
- - *Product: VA.gov Profile*
-   - *Initiatives: Combine Account & Profile, Direct Deposit for Disability, Candidate Address Validation, Direct Deposit for Education, Notification Preferences*
- - *Product: Disability Claims*
-   - *Initiatives: Original Claims, Benefits Delivery at Discharge (BDD)*
- 
- </details>
- 
- > 💡 Helpful guidance/tips
- 
 ---
 
 ## Outcome Summary
-> *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-* .
+- Advise Veterans that they may use a Release of Information request to request any part of their health record 
 
 **Related/Associated product(s)**
-- Product | Link to product outline 
+- MHV Medical Records| [Link to product outline ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/README.md)
 
 ## Problem
-> *Describe the challenge / pain point you seek to address.:* 
-* What is the problem and who is affected? And, what evidence do we have of the problem?
-* Why do you think the problem is occurring? Other reasons why this might be occurring?
-* How does this initiative help further OCTO-DE's mission and goals?
+- Some parts of Veterans' health records are not yet available on VA.gov, and some may never be made available on VA.gov
 
-<!--
+
 ## Desired User Outcomes
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- Veterans who need parts of their health record that are not available on VA.gov can follow the instructiosn provided in this notification to create a Release of Information Request
+- Veterans will then receive the health information that they were not able to access on VA.gov
 
-## Undesired User Outcomes
+<!--## Undesired User Outcomes
 ## Desired Business Outcomes
 
 - *Why would your business want this to exist?*
@@ -54,55 +33,47 @@
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-> 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
-> 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
-
+- Calls and emails to contact centers and stakeholders related to this problem will decrease.
 ---
 
 ## Discovery
 ### Assumptions/Risks
-> *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
-> Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
 - **Value Risks** (will people use it): 
-  - .
+  - It is possible that people will not use it if they do not want to be bothered filling out a form online, or if they need assistance in doing so. 
+
 - **Usability Risks** (can people figure out how to use it):
-  - .
+  - It is possible that people may not notice the notification amongst all the other options available. 
+
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - Examples:
-    - Upstream/Downstream API/Data availability and reliability
-    - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
+  - None noted
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - Examples: 
-    - VA stakeholder testing, marketing, compliance requirements 
+  - This keeps us in compliance with policy that mandates giving Veterans access to their health records
 
 ### Supporting research
-
-- *Is this work supported by user research?* 
-  - *If this work **is supported by user research**, please cite the user research by providing links to our [VA.gov research repo](https://github.com/department-of-veterans-affairs/va.gov-research-repository)*
-  - *If this work is **not supported by existing user research**, will this work include user research?*
-    - *If this work **will include user research**, please briefly state what you hope to learn from that research.*
-    - *If this work **does not cite nor include user research**, please state why and be prepared to defend your decision.*
+ - This work will not include user research because it is very straightforward and needs to be implemented quickly to give Veterans access to some health data that was previously available on My HealtheVet Classic.  Access to this data is in the process of being restored on VA.gov, but this provides a solution in the interim.
 
 ### What're you building?
 
-> *What's in scope for you to build with this initiative? Describe key features/flows.*
+A notification that will be shown in the Medical Records product (exact location(s) TBD) 
  
-> *What have you explicitly decided to **not** include and why?*
+> *What have you explicitly decided to **not** include and why?*  We will not include anything beyond the notification that links to the required form and the MHV Messaging application.  This is meant to be a simple contextual notification to let Veterans know that there are other ways to obtain their health information.   There is already information about this in the VA.gov Resources and Support content, and it is not necessary to provide extensive information here.
 
 > *Are you building for the VA Health and Benefits mobile application? Explain why or why not.*
+Initially, we will only be placing this on VA.gov, but will eventually add to mobile.  We are not adding this right away because it is time sensitive and the health data that was available on MHV Classic and no longer available on VA.gov was never available on VAHB.
 
 > *How does this solution address your Assumptions & Risks?*
+
 
 #### Go-to-market 
 
 > *What marketing, outreach, or communications are necessary for this product to be successful?*
+None
 
 > *Which groups/orgs are necessary to make this happen?*
-
+None other than the delivery team, stakeholders, and Governance.
 --- 
 
 ## Launch Planning
@@ -114,7 +85,7 @@
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
 
-* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+* [Link to Release Plan for this Initiative](TBD)
 
 #### Initiative Launch Dates
 - *Target Launch Date*
@@ -127,6 +98,7 @@
 ## Screenshots
 
 ### Before
+Location for notifications not yet defined
 
 ### After
 
@@ -137,10 +109,10 @@
 
 <details>
 
-- Team Name: 
-- GitHub Label(s): 
-- Slack channel: 
-- Product POCs:
+- Team Name: MHV Medical Records
+- GitHub Label(s): TEAM-mhv-medical-records
+- Slack channel: #mhv-medical-records-team
+- Product POCs: OCTO: Marci McGuire, Contract: David Koger
 
 </details>
 
@@ -150,8 +122,8 @@
 
 <details>
   
-- Office/Department:
-- Contact(s): 
+- Office/Department:  Office of Connected Care
+- Contact(s): Bresha Lipscomb (OCC Health Specialist; MHV Medical Records business owner), Carnetta Scruggs (Deputy Director, My HealtheVet PMO)
  
 </details>
 
