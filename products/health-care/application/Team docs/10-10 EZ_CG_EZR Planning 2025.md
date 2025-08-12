@@ -38,7 +38,7 @@
 
 
 #### Obj: [Household section V2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98353)
-- Timeline
+- **Timeline**
      - Update Dependents content
      - QA Dependents
           - Review with team to confirm release to Prod
