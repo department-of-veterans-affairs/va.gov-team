@@ -12,7 +12,7 @@ Lindsay Li-Smith, Product Manager
 ## Research Goals
 
 *   Evaluate the usability of Appoint a Representative on VA.gov. Usability includes understandability of content, whether the experience meets user expectations, and identifying system bugs.
-  · Stretch goal: Evaluate the usability of the Representative Status Widget on VA.gov.
+*   Stretch goal: Evaluate the usability of the Representative Status Widget on VA.gov.
 
 ## Research Questions
 
