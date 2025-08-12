@@ -25,10 +25,8 @@ Lindsay Li-Smith, Product Manager
 6.  Does the experience meet user expectations?
 7.  Are the steps clear and actionable?
 8.  Are there any reasons why users are not navigating from the Download to the ## Next Steps pages?
-9.  Are assistive technology (AT) users able to successfully use the feature?
 ** Stretch goal:**
 1.  Are there any usability challenges with the Representative Status Widget?
-1.  Same additional questions as above.
 
 ## Methodology
 
