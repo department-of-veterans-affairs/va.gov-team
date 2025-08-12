@@ -17,7 +17,6 @@
 <br></br>
 <br></br>
 <br></br>
-<br></br>
 
 5. Select the "[DIGITAL] Digital Admin" team
       * <img align="left" width="373" height="634" alt="Screenshot 2025-08-04 at 1 08 50 PM" src="https://github.com/user-attachments/assets/0c0aa76f-dbdf-4088-aa40-948b31e58c12" />
