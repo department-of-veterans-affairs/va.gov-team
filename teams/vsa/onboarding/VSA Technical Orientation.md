@@ -154,6 +154,15 @@ https://outlook.office.com/calendar
 - In addition to putting time away on the PTO Calendar, you can also block off OOO times and appointments as events on your work calendar, but don’t send them off as meeting invites.
 - If you have recurring short events that may take you away from Slack (lunch break, driving, etc), communicate those with your team, but also put them on your work calendar.
 
+## Issue Tracking
+
+Most teams use the [Issues](https://help.github.com/en/github/managing-your-work-on-github/about-issues)
+feature built into github for keeping track of work features, bugs, chores, etc.
+
+You can optionally install the [ZenHub Chrome Extension](https://chrome.google.com/webstore/detail/zenhub-for-github/ogcgkffhplmphkaahpmffcafajaocjbd?hl=en-US),
+which provides some more advanced project management capabilities. Refer to your team lead for rules around label use.
+ 
+
 ## GitHub Repositories
 
 - **GitHub: VA<span/>.gov | Public Repo | vets-website** \
