@@ -6,13 +6,16 @@
 
 ## Accessing VSignals
 1. [Navigate to VSignals](https://dvagov.sharepoint.com/sites/vacovsignals?SafelinksUrl=https%3a%2f%2fdvagov.sharepoint.com%2fsites%2fvacovsignals) on the VA Network and select the VSignals option in the menu, as shown in the image below.
-   <img width="1477" height="693" alt="Screenshot 2025-08-04 at 1 05 08 PM" src="https://github.com/user-attachments/assets/594de4f8-e62f-45e5-b257-d1cda7c7a79f" />
-3. Continue through authentication using your PIV Card
-4. Click on your username in the upper right-hand corner of the page
-5. Click the "user role" dropdown to select the dashboard that you would like to view
-   <img width="300" height="284" alt="Screenshot 2025-08-04 at 1 08 40 PM" src="https://github.com/user-attachments/assets/12923a73-c303-46c0-aecd-67cbc14af899" />
-7. Select the "[DIGITAL] Digital Admin" team
-   <img width="373" height="634" alt="Screenshot 2025-08-04 at 1 08 50 PM" src="https://github.com/user-attachments/assets/0c0aa76f-dbdf-4088-aa40-948b31e58c12" />
+  * <img align="left" width="1477" height="693" alt="Screenshot 2025-08-04 at 1 05 08 PM" src="https://github.com/user-attachments/assets/594de4f8-e62f-45e5-b257-d1cda7c7a79f" />
+ &nbsp;&nbsp;&nbsp;&nbsp;  
+2. Continue through authentication using your PIV Card
+3. Click on your username in the upper right-hand corner of the page
+4. Click the "user role" dropdown to select the dashboard that you would like to view
+  * <img align="left" width="300" height="284" alt="Screenshot 2025-08-04 at 1 08 40 PM" src="https://github.com/user-attachments/assets/12923a73-c303-46c0-aecd-67cbc14af899" />
+&nbsp;&nbsp;&nbsp;&nbsp;
+5. Select the "[DIGITAL] Digital Admin" team
+  * <img align="left" width="373" height="634" alt="Screenshot 2025-08-04 at 1 08 50 PM" src="https://github.com/user-attachments/assets/0c0aa76f-dbdf-4088-aa40-948b31e58c12" />
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Requesting custom reports via VSignals
 1. Once the dashboard loads, select the "**Live Feed & Search**" option from the top navigation bar
