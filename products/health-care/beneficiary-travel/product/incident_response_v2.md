@@ -37,34 +37,34 @@ Slack channel is [#beneficiary-travel-team](https://dsva.slack.com/archives/C05U
 ### Core Roles
 #### Coordinator: The person in charge of coordinating and communicating the overall response & resolution.
 - Name: Charlotte Reid
-- Email: charlotte.reid@adhocteam.us
+- Slack Handle: @Charlotte Reid
 
 #### Backup Coordinator:
 - Name: Kevin Duensing
-- Email: kevin.duensing@adhocteam.us
+- Slack Handle: @Kevin Duensing
 
 #### Technical Lead: The primary investigator, focused on technical debugging and resolution.
 - Name: Kevin Duensing
-- Email: kevin.duensing@adhocteam.us
+- Slack Handle: @Kevin Duensing
 
 #### Backup Technical Lead:
 - Name: Calvin Cieslak
-- Email: calvin.cieslak@adhocteam.us
+- Slack Handle: @Calvin Cieslak
 
 ### OCTO Roles
 #### Technical Lead: The person supporting and leading the engineering on the product from OCTO
 - Name: Mark Dewey
-- Email: mark.dewey@va.gov
+- Slack Handle: @Mark Dewey
 Reachable on Slack and Microsoft Teams
 
 #### UX Lead: The person supporting and leading the user experience on the product from OCTO
 - Name: Kristen McConnell 
-- Email: kristen.mcconnell@va.gov 
+- Slack Handle: @Kristen McConnell
 Reachable on Slack and Microsoft Teams
 
 #### Product Owner: The person supporting and leading the product from OCTO
 - Name: Kay Lawyer
-- Email: katherine.lawyer@va.gov 
+- Slack Handle: @Kay 
 Reachable on Slack and Microsoft Teams
 
 ### Supporting Teams & Contacts
@@ -74,17 +74,17 @@ Slack Channel: `#beneficiary-travel-team`
 ##### Contacts
 ##### Blaise Fox
 - Role: Business Analyst
-- Email: blaise.fox@va.gov 
+- Slack Handle: @Blaise Fox
 Reachable on Slack and Microsoft Teams.
 
 ##### Josh Patterson
 - Role: Technical Lead
-- Email: joshua.patterson2@va.gov
+- Slack Handle: @Josh Patterson
 Reachable on Slack and Microsoft Teams.
 
 ##### Tim Hawkins
 - Role: Developer
-- Email: timothy.hawkins1@va.gov 
+- @Slack Handle: @Tim Hawkins
 Reachable on Slack and Microsoft Teams.
 
 #### VFS Platform Team:
