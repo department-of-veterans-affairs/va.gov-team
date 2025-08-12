@@ -303,7 +303,7 @@ Now that we have completed the study today I'm going to prompt you to delete the
 
 ## Thank You and Closing - 3 minutes
 
-**How easy or difficult did you find this process overall?**
+**How did you find this process overall?**
 
 **Was there any part that felt especially frustrating or mentally tiring?**
 
