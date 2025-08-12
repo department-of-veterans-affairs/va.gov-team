@@ -56,6 +56,11 @@
 
 
 #### Obj: [Print/Save PDF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109746)
+- **Timeline**
+     - Complete mapping of remaining fields on PDF (not overflow page)
+     - Complete mapping of overflow page
+     - QA PDF generation, including overflow page
+     - Review with the team to confirm release to Prod
 - [#109897](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109897) - [BE] Map remaining fields and generate PDF
 - [#109899](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109899) - [BE] Map additional Dependents fields on overflow page
 - [#109900](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109900) - [BE] Map additional Dependents Income fields on overflow page
