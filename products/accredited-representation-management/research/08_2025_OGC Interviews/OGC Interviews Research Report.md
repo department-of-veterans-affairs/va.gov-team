@@ -1,13 +1,18 @@
 # Office of General Counsel Interviews 
 (focus: 21a)
 
-**Date:** 08AUG2025 
 Office of General Counsel (OGC) Interview Research Findings
+
 Accredited Representative Management 
+
+**Date:** 08AUG2025 
+
 
 **Contacts:** 
 Marisa Dominguez, UX + Research Lead 
+
 Michael Tri, Sr. Product Designer 
+
 Lindsay Li-Smith, Product Manager 
   
 
