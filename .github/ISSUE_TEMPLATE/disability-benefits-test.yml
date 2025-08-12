@@ -6,6 +6,10 @@ projects:
 type: Task
 
 body:
+- type: markdown
+  attributes:
+    value: |
+      A good title is usually written in plain language, without acronyms, and it uses an action verb to describe the work to be done.
 - type: textarea
   attributes:
     label: User Need 
