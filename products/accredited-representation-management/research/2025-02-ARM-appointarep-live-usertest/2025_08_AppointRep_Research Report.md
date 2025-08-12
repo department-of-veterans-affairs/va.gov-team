@@ -31,22 +31,22 @@ Lindsay Li-Smith, Product Manager
 
 ## Methodology
 
-*   **Warm-up questions /** The moderator will ask the Veteran a short series of questions to understand their status with finding a representative and VA.gov engagement.
+*   **Warm-up questions** / The moderator will ask the Veteran a short series of questions to understand their status with finding a representative and VA.gov engagement.
 *   **Usability testing** / Users will be asked to complete the Appoint a Representative flow on VA.gov and provide feedback along the way.
 
 ## Hypotheses and Conclusions
 
 **1.** **Hypothesis Statement:** Veterans will be able to successfully navigate Appoint a Representative through tested patterns and informative content.
 
-• **Inconclusive;** The Veterans had mixed success navigating the "Appoint a Representative" tool, with some patterns and content proving effective, while others presented challenges.
+*   **Inconclusive;** The Veterans had mixed success navigating the "Appoint a Representative" tool, with some patterns and content proving effective, while others presented challenges.
 
 **2.** **Hypothesis Statement:** Veterans will clearly understand whether the process concludes with a PDF or digital submission, as well as the next steps to take upon completion.
 
-• **Likely False**; The Veterans were **not** able to clearly understand whether the process concludes with a PDF or digital submission.
+*   **Likely False**; The Veterans were **not** able to clearly understand whether the process concludes with a PDF or digital submission.
 
 ## Key Findings**
 
-**1.** **Challenges with VA.gov login/identity verification (ID.me)**
+**1.**   **Challenges with VA.gov login/identity verification (ID.me)**
 
 **2.** **Unfamiliarity with the Find a Representative tool**
 
@@ -58,9 +58,9 @@ Lindsay Li-Smith, Product Manager
 
 Both participants experienced difficulties with the login process on VA.gov. Participant 01 struggled significantly with ID.me setup due to poor camera quality on their government-issued phone, eventually needing to buy a new phone. Participant 03 noted issues with the system being down for updates and confusion regarding various login methods, indicating a desire for a more streamlined experience.
 
-  •**Participant 01:** "ID me was harder to set up because I had a terrible phone (camera), you know, you have to send the front back of your ID card, driver's license. And it took me forever to finally get it, I, I tell you what I did, I actually bought another phone."
+*   **Participant 01:** "ID me was harder to set up because I had a terrible phone (camera), you know, you have to send the front back of your ID card, driver's license. And it took me forever to finally get it, I, I tell you what I did, I actually bought another phone."
 
-  •**Participant 03:** "Yeah, sometimes it's down or you'll get messages. They're doing updates. Or maybe that's more so on the weekends, which is sometimes when I try Vet Healthy Vet is the login is going away. Right. There's a login that's changing soon. Correct."
+*   **Participant 03:** "Yeah, sometimes it's down or you'll get messages. They're doing updates. Or maybe that's more so on the weekends, which is sometimes when I try Vet Healthy Vet is the login is going away. Right. There's a login that's changing soon. Correct."
 
 **2.** **Finding:** Unfamiliarity with the Find a Representative tool
 Neither participant was aware that VA.gov offered a tool to find and appoint a representative. Participant 01 stumbled upon it via a link provided by their attorney, and Participant 03 explicitly stated they "didn't know that was available in va.gov," having previously searched for agents via Google. This suggests a possible discoverability issue with the new tool.
@@ -83,12 +83,12 @@ Both participants expressed a strong preference for electronic signatures and on
 **1.**  **Additional Finding:** Desire for an online-only/virtual representative option
 Participant 03 explicitly looked for options beyond in-person assistance, mentioning a preference for a "Virtual online telephone only" representative. This indicates a growing need for flexible representative options that don't require physical presence.
 
-•**Participant 03:** "Either by zip code for a person to person face to face or there might be an option. Virtual online telephone only. That's kind of what I'm thinking. It wouldn't have to be, I would think that there would, if you want face to face, you could find someone face-to-face by zip code city and state. Or if it's online or telephone only, it would say that option. Find VA accredit representative. VSO Online virtual only."
+*   **Participant 03:** "Either by zip code for a person to person face to face or there might be an option. Virtual online telephone only. That's kind of what I'm thinking. It wouldn't have to be, I would think that there would, if you want face to face, you could find someone face-to-face by zip code city and state. Or if it's online or telephone only, it would say that option. Find VA accredit representative. VSO Online virtual only."
 
 **2.**  **Additional Finding:** Information about representative roles and accreditation is not clear enough
 Both participants demonstrated some confusion regarding the role of representatives listed on VA.gov and whether they are VA employees or independent. Participant 01 initially thought the VA would know their representative, and Participant 03 asked if the "VA accredited representative works for the VA." This suggests a need for clearer distinctions and explanations about the accreditation process and the representative's relationship with the VA.
 
-*   **Participant 03: “**How would the VA know who my representative is?"
+*   **Participant 03:** “How would the VA know who my representative is?"
 
 *   **Participant 03:** "I guess I'm gonna find an organization or person to link the form up to and then I will appoint the person using the form.”
 
