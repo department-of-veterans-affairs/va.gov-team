@@ -176,7 +176,7 @@ Was any part hard to navigate or understand?
 
 
 ## Task 2: Start a statement
-Pretend that you need to start a new statement with the VA by completing a form. Where would you expect to find forms like these in the VA mobile app? What would you expect this section to be called?
+Pretend that you need to submit a statement in support of a claim via a form submission with the VA. Where would you expect to find forms like these in the VA mobile app? What would you expect this section to be called?
 
 [Select 'Go to forms' > Click the button 'Start a new statement' > Read the text on this page and continue on by clicking on the button 'Start a new statement', Read through the screen 'What would you like to do?' > Select 'What I want to do isn't listed here' > Click 'Continue' > You will see a Github screen click 'Continue'.]
 
