@@ -18,44 +18,44 @@
 [Mobile docs](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Intro)
 
 - Install nvm (node version manager) as the mobile repo uses an nvmrc to automatically change your node version  
-- There are some outdated instructions, reach out to \#va-mobile-app-engineering or \#va-mobile-app DSVA slack channels for assistance if something doesn’t work
+- There are some outdated instructions, reach out to #va-mobile-app-engineering or #va-mobile-app DSVA slack channels for assistance if something doesn’t work
 
 ## Comms
 
 Mobile DSVA Slack channels:
 
-- [\#va-mobile-app](https://dsva.slack.com/archives/C018V2JCWRJ)   
-- [\#va-mobile-app-engineering](https://dsva.slack.com/archives/C08MEUZSG5V)  
-- [\#va-mobile-app-analytics](https://dsva.slack.com/archives/C01KBMKPJ95)  
-- [\#va-mobile-app-design](https://dsva.slack.com/archives/C02M11AKKNU)  
-- [\#va-mobile-app-shared-systems](https://dsva.slack.com/archives/C05HF9ULKJ4)  
-- [\#va-mobile-app-alerts](https://dsva.slack.com/archives/C021WCL114J)
+- [#va-mobile-app](https://dsva.slack.com/archives/C018V2JCWRJ)   
+- [#va-mobile-app-engineering](https://dsva.slack.com/archives/C08MEUZSG5V)  
+- [#va-mobile-app-analytics](https://dsva.slack.com/archives/C01KBMKPJ95)  
+- [#va-mobile-app-design](https://dsva.slack.com/archives/C02M11AKKNU)  
+- [#va-mobile-app-shared-systems](https://dsva.slack.com/archives/C05HF9ULKJ4)  
+- [#va-mobile-app-alerts](https://dsva.slack.com/archives/C021WCL114J)
 
 Travel Pay DSVA Slack channels
 
-- [\#beneficiary-travel-team](https://dsva.slack.com/archives/C05UTPZRZFY)  
-- [\#beneficiary-travel-team-alerts](https://dsva.slack.com/archives/C076YMDJRBQ)  
+- [#beneficiary-travel-team](https://dsva.slack.com/archives/C05UTPZRZFY)  
+- [#beneficiary-travel-team-alerts](https://dsva.slack.com/archives/C076YMDJRBQ)  
 - [private-team-beneficiary-travel-pay](https://dsva.slack.com/archives/C07Q8NY7C0J) (requires an invitation)  
-- [\#travel-pay](https://dsva.slack.com/archives/C05Q9HH47PS)  
-- [\#unified-appointment-experience](https://dsva.slack.com/archives/C06RMRJCLHH)
+- [#travel-pay](https://dsva.slack.com/archives/C05Q9HH47PS)  
+- [#unified-appointment-experience](https://dsva.slack.com/archives/C06RMRJCLHH)
 
 Other helpful channels
 
 - Because we interact with the appointments and check in teams:  
-  - [\#appointments-team](https://dsva.slack.com/archives/CMNQT72LX)  
-  - [\#vaos-engineering](https://dsva.slack.com/archives/C023EFZPX4K)  
-  - [\#check-in-experience](https://dsva.slack.com/archives/C022AC2STBM)  
-  - [\#check-in-experience-engineering](https://dsva.slack.com/archives/C02G6AB3ZRS)
+  - [#appointments-team](https://dsva.slack.com/archives/CMNQT72LX)  
+  - [#vaos-engineering](https://dsva.slack.com/archives/C023EFZPX4K)  
+  - [#check-in-experience](https://dsva.slack.com/archives/C022AC2STBM)  
+  - [#check-in-experience-engineering](https://dsva.slack.com/archives/C02G6AB3ZRS)
 
 ## Team Best Practices and Ways of Working
 
 - Get a Team member review *and approval* on all PRs while in Draft mode prior to marking them “Ready for review”  
-- Link the PR to the ticket \_from\_ the GH ticket (because the GH ticket is in a different repository than the codebase):  
+- Link the PR to the ticket _from_ the GH ticket (because the GH ticket is in a different repository than the codebase):  
   - Create the PR in the mobile repo  
   - Go to the ticket on the [BTSSS GH project board](https://github.com/orgs/department-of-veterans-affairs/projects/1525)  
   - Click “Development” at the right  
   - Click the back arrow to choose a different repository  
-  - Enter the full repository name \`department-of-veterans-affairs/va-mobile-app\` and select the mobile app repo from the list  
+  - Enter the full repository name `department-of-veterans-affairs/va-mobile-app` and select the mobile app repo from the list  
   - Select your PR from the resulting list  
   - The issue and PR are now linked across repositories
 
