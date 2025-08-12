@@ -22,31 +22,57 @@
 
 ## URLs by health tool
 ### Appointments
-/my-health/appointments
-/my-health/appointments/
-/my-health/appointments/upcoming
-/my-health/appointments/pending
-/my-health/appointments/past
-/my-health/appointments/schedule
+* /my-health/appointments
+* /my-health/appointments/
+* /my-health/appointments/upcoming
+* /my-health/appointments/pending
+* /my-health/appointments/past
+* /my-health/appointments/schedule
 
 ### Messages
-/my-health/secure-messages/inbox
-/my-health/secure-messages/inbox/
-/my-health/secure-messages/trash/
-/my-health/secure-messages/folders/
-/my-health/secure-messages/drafts/
-/my-health/secure-messages/sent/
-/my-health/secure-messages/new-message/
-/my-health/secure-messages/contact-list/
+* /my-health/secure-messages/inbox
+* /my-health/secure-messages/inbox/
+* /my-health/secure-messages/trash/
+* /my-health/secure-messages/folders/
+* /my-health/secure-messages/drafts/
+* /my-health/secure-messages/sent/
+* /my-health/secure-messages/new-message/
+* /my-health/secure-messages/contact-list/
 
 **COMING SOON Oracle Health URLs - Winter 2025: 
-*** /my-health/secure-messages/new-message/recent/
+* /my-health/secure-messages/new-message/recent/
 * /my-health/secure-messages/new-message/select-care-team/
 * /my-health/secure-messages/new-message/care-team-help/
 
 ### Medications
+* /my-health/medications/
+* /my-health/medications/refill
+* /my-health/medications/prescription/*
 
 ### Medical records
+* /my-health/medical-records
+* /my-health/medical-records/
+* /my-health/medical-records/labs-and-tests
+* /my-health/medical-records/labs-and-tests/*
+* /my-health/medical-records/labs-and-tests/*/images/*
+* /my-health/medical-records/vitals
+* /my-health/medical-records/vitals/blood-pressure-history
+* /my-health/medical-records/vitals/heart-rate-history
+* /my-health/medical-records/vitals/breathing-rate-history
+* /my-health/medical-records/vitals/blood-oxygen-level-history
+* /my-health/medical-records/vitals/temperature-history
+* /my-health/medical-records/vitals/weight-history
+* /my-health/medical-records/vitals/height-history
+* /my-health/medical-records/summaries-and-notes
+* /my-health/medical-records/vaccines
+* /my-health/medical-records/allergies
+* /my-health/medical-records/conditions
+* /my-health/medical-records/download
+* /my-health/medical-records/download/date-range
+* /my-health/medical-records/download/record-type
+* /my-health/medical-records/download/file-type
+* /my-health/medical-records/settings
+  
 
 
 
