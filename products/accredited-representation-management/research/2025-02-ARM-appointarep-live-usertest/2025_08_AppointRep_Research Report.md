@@ -18,15 +18,16 @@ Lindsay Li-Smith, Product Manager
 
 1.  Are there any usability challenges with the Appoint a Representative feature?
 1.  Do users understand the information shown?
-      a. Is there any information missing?
+2.  Is there any information missing?
 3.  Are there any challenges with using the experience?
-      a. Is there any confusion with the ‘Street address line 2’ input?
-      a. Do users correctly interpret the "Note: If you submit another request, you'll cancel your current one." content on the confirmation page?
-4.  Does the experience meet user expectations?
-5.  4.  Are the steps clear and actionable?
-   a. Are there any reasons why users are not navigating from the Download to the ## Next Steps pages?
-6.  Are assistive technology (AT) users able to successfully use the feature?
-2.  _Stretch goal:_ Are there any usability challenges with the Representative Status Widget?
+4.  Are there any confusion with the ‘Street address line 2’ input?
+5.  Do users correctly interpret the "Note: If you submit another request, you'll cancel your current one." content on the confirmation page?
+6.  Does the experience meet user expectations?
+7.  Are the steps clear and actionable?
+8.  Are there any reasons why users are not navigating from the Download to the ## Next Steps pages?
+9.  Are assistive technology (AT) users able to successfully use the feature?
+** Stretch goal:**
+1.  Are there any usability challenges with the Representative Status Widget?
 1.  Same additional questions as above.
 
 ## Methodology
