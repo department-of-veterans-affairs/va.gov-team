@@ -33,8 +33,10 @@ We currently have multiple search solutions in place across various experiences 
 > 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
 > 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
-
+Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+---| ---| ---| ---
+Relevancy | | |
+Response time
 ---
 
 ## Discovery
