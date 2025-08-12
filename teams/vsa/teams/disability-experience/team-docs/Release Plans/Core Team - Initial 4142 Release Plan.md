@@ -31,12 +31,12 @@ List the features toggles here.
 | disability_526_form4142_validate_schema | Enables the use of schema validation for form 4142 in disability 526 applications |
 | disability_526_form4142_use_2024_frontend | Enables the 2024 version of form 4142 in the disability 526 submission frontend workflow (maps to disability526Enable2024Form4142 in vets-website) |
 
-TODO: combine these toggles into one. 
+We will keep these as three separate toggles. 
 
 ## Step 2: Validation
 
 Since we use a [continuous delivery](https://depo-platform-documentation.scrollhelp.site/developer-docs/deployment-process) model, once code is in the `main` branch, it will be deployed that day. 
-TODO: We are eyeing a staged release by 1) combining the feature toggles into one, and 2) using the OnFormLoaded function to check form data to see if the data needs to be updated. 
+We will release to Staging under our three Flipper flags with our new strategy: using the OnFormLoaded function to check form data to see if the data needs to be updated. 
 
 To test in staging, let's record videos to validate this functionality:
 
@@ -57,14 +57,14 @@ Before enabling your feature toggle in production, you'll need to:
 
 ## Step 3: Production rollout
 
-TODO: Work in progress: ideally, we could test on staging behind a flipper, then test with a mod prod user, then test with staged rollout (as quickly as seems prudent). Our goal is to get (some portion? or all?) released by September 1. 
+We will test on staging behind a Flipper, then if possible, test with a mod prod user, then go to 100% for all users. Our goal is to release by September 1. 
 
-### Do I need a staged rollout? -> TODO: Perhaps not. 
+### Do I need a staged rollout? -> No.
 
 **Yes**, a staged rollout is required unless you can confidently answer "yes" to all of the following:
 
 - This change does not add substantial new functionality to VA.gov
-- This change does not impact user flows through tasks
+- This change does not impact user flows through tasks 
 - This change does not affect traffic to backend services
 
 *Example*: a change to a page's text content **could skip** staged rollout
@@ -100,19 +100,18 @@ Even though your feature has been tested and ready, production is still a differ
 >
 > - Our PM and PO will monitor analytics. If they see a spike in errors or unexpected behavior, they will contact the engineering team to get the FE engineer to disable the toggle.
 
-[FILL_IN]: create your rollback plan
+Our Engineering lead and PM will monitor our Datadog Dashboard. If they see a spike in submission errors, or unexpected behavior, they will contact our engineering team to disable the toggle. 
 
 ### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
 
 #### Planning
 
-- Desired date range or test duration: [FILL_IN]
-- Desired number of users: [FILL_IN]
-- How you'll recruit the right production test users: [FILL_IN]
-- How you'll conduct the testing: [FILL_IN]
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: [FILL_IN]
-
+- Desired date range or test duration: After Staging Review on August 22 and before our planned release date of September 1
+- Desired number of users: 1
+- How you'll recruit the right production test users: We have a few people we've used before
+- How you'll conduct the testing: We would need someone to have previously signed the 4142 form for private medical records release. We can turn on the stop-submission flipper flags, and check that they're able to submit (without actually sending anything down the line). 
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: We will turn on the Flippers just for their user id. 
 
 #### Results
 
