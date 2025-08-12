@@ -21,6 +21,9 @@
 #### Obj: EZ [Form Statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95313)
 - [#105833](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105833) - [Eng] Discovery on how we can confidently refer "pending" Veterans to EZR (CARRIED)
 
+#### Obj: EZ PDF Versioning
+- **Stretch** [#102906](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102906) - [BE] Exploration on PDF versioning update trigger
+
 ## 
 ### 10-10CG
 
