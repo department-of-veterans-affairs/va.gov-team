@@ -252,7 +252,7 @@ When would you like sessions scheduled?
 - `Participant recruiting & screening:`	**[Perigean]**	
 - `Project point of contact:` **[Ashley Bush]**		
 - `Accessibility specialist (for sessions where support for assistive technology may be needed):` **[N/A]**	
-- `Note-takers:` **[Perigean]**	
+- `Note-takers:` **Ashley will send invites out**	
 - `Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work. Spread observers across sessions. There should be no more than 5 to 6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side.`
 
 - **[N/A]**
