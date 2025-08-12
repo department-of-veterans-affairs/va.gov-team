@@ -84,7 +84,7 @@ If you answered yes to any of these questions then go through the following [che
 
 * [x] Do you have a diagram of the submission path that user data your application accepts takes to reach a system of record? 
   * If not, then [create a user data flow diagram](#how-to-create-a-user-data-flow-diagram) that captures this information. 
->  * Yes, [Architectural Overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/eng-docs/10-10%20Architectural%20Overview.pdf) and [End-to-End Data Flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/eng-docs/10-10cg%20End-to-End%20data%20flow.png)
+>  * Yes, [Architectural Overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/engineering/architecture/10-10%20Architectural%20Overview.pdf) and [End-to-End Data Flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/engineering/architecture/10-10cg%20End-to-End%20data%20flow.png)
 
 * [x] Do you understand how the error is handled when each system in the submission path fails, is down for maintenance, or is completely down?
   * If not, then create documentation that captures how errors in each system are handled. Detail which systems retry a submission and what happens when those retries exhaust. Show this in your diagram.
@@ -92,12 +92,12 @@ If you answered yes to any of these questions then go through the following [che
 >        * If the application cannot be successfully retried in that time, we follow the [Ultimate Failure process](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Form/Vets-api%20retries%20for%20MuleSoft%20-%20Ultimate%20Failures%20process.md) (written with the Caregiver business stakeholders) to gather user data, notify CG team who will then notify the Veteran/Caregiver
 >   * If the CARMA system is unavailable at the time of application submission, MuleSoft queues the application until the CARMA system is available to receive the data for up to 24 hours.
 >        * If the application cannot be successfully retried in that time, the contact information within the application data is used to send an email to the Veteran and Caregiver, informing them of the issue and requesting they resubmit the application.
->        * This is documented in the [End-to-End Data Flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/eng-docs/10-10cg%20End-to-End%20data%20flow.png)
+>        * This is documented in the [End-to-End Data Flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/engineering/architecture/10-10cg%20End-to-End%20data%20flow.png)
 
 * [x] Has the owner of the system of record receiving the user's data indicated in writing that their system notifies or resolves 100% of fatal errors once in their custody?
   * If not, work with OCTO to meet with the owner of the system and get their agreement in writing.
   * Please document the outcome of this conversation in your product's documentation in Github.
->   * Yes, Ranganathan Balasubramanian (Senior Technical Architect with Salesforce/CARMA) confirmed via email of the steps below and documented in the [End-to-End Data Flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/eng-docs/10-10cg%20End-to-End%20data%20flow.png)
+>   * Yes, Ranganathan Balasubramanian (Senior Technical Architect with Salesforce/CARMA) confirmed via email of the steps below and documented in the [End-to-End Data Flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/engineering/architecture/10-10cg%20End-to-End%20data%20flow.png)
 >        >* When Mule receives an application from Va.gov , one of the following outcomes is possible.
 >        >    * Successfully generate application records with attachments in Salesforce and send success email to submitter.
 >        >    * Create a shell case with pdf attachments and generate a DTC case that has a monitored queue and workflow to generate case records manually using pdf details, which will also send a success email to the submitter.
@@ -107,4 +107,4 @@ If you answered yes to any of these questions then go through the following [che
 
 * [x] Do you capture all of the potential points of failure and make those errors known to the user via email notification and/or through the application on VA.gov or the mobile application?
   * If not, don't worry. Few teams are doing this and we'll be providing resources to help you do this in your application. Proceed to [create a user data flow diagram](#how-to-create-a-user-data-flow-diagram). That diagram will help us to help you and your team to create this user experience.
->   * Yes, these are captured within the [Architectural Overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/eng-docs/10-10%20Architectural%20Overview.pdf) and [End-to-End Data Flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/eng-docs/10-10cg%20End-to-End%20data%20flow.png)
+>   * Yes, these are captured within the [Architectural Overview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/engineering/architecture/10-10%20Architectural%20Overview.pdf) and [End-to-End Data Flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/engineering/architecture/10-10cg%20End-to-End%20data%20flow.png)
