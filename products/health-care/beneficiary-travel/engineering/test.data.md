@@ -32,6 +32,11 @@ You will need to fill out a VA9957 form to gain access to the CHYSHR VistA. For 
 1. Download the [VA9957 pdf](https://dvagov.sharepoint.com/:b:/r/sites/OITEPMOETS/Shared%20Documents/VA9957.pdf)
 1. Fill out section 1, 2, and 3; [Here is a picture of what to put for section 1 and section 3](./VA9957.section.1.and.3.PNG)
   1.  Unless you know them, you can leave items B, D, E and K blank.
+  2.  For G your Expiration Date is your PIV card expiration date
+  3.  For H your Contractor Name Employer is the name of your prime in your contract
+  4.  For I your Contractor Address is the address of your companies physical address
+  5.  For J your AD Username is the Alias within Outlook Address; you can get to this by doing the following...
+     1.  Go to Outlook -> Address Book -> Search for your name -> Select your name -> Look at the Alias noted
 1. Sign and get your VA/OCTO team member to sign and approve
 1. Submit the signed document at https://vhaispappteam01.vha.med.va.gov/webentry/test-center-service-request-form.html
   1. This requires to be on the network to access. 
