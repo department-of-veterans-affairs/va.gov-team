@@ -78,8 +78,8 @@
 * /my-health/medical-records
 * /my-health/medical-records/
 * /my-health/medical-records/labs-and-tests
-* /my-health/medical-records/labs-and-tests/*
-* /my-health/medical-records/labs-and-tests/*/images/*
+* /my-health/medical-records/labs-and-tests/{ID}
+* /my-health/medical-records/labs-and-tests/{ID}/images/*
 * /my-health/medical-records/vitals
 * /my-health/medical-records/vitals/blood-pressure-history
 * /my-health/medical-records/vitals/heart-rate-history
