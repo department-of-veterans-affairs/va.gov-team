@@ -5,9 +5,10 @@ Do these 3 steps first, _before any investigation of root cause is done_.
 ### 1. Collect
 **Coordinator/Techical Lead**: Collect information for triaging.
 
-1. Impact: **What percentage (OR EXPLICIT #) of Veterans are impacted?**
-2. System: **Which systems are involved?**
-3. Timeframe: **Estimate - How long has the issue been going on?**
+1. Impact: **How is this affecting Veterans?**
+2. Error Type: **500s? 400s? 403s?**
+3. System: **Which systems are involved?**
+4. Timeframe: **Estimate - How long has the issue been going on?**
 
 ### 2. Notify
 2.1. **Coordinator**: Start a thread in [#beneficiary-travel-team](https://dsva.slack.com/archives/C05UTPZRZFY) with the following template:
