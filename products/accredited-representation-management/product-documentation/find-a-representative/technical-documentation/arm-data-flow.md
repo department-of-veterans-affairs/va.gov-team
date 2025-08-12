@@ -4,9 +4,9 @@
 
 ### Data Source: <https://www.va.gov/ogc>
 
-Please note: The Accredited Representation Management team did not author the following functionality but relies on it for their Find a Representative product; it was authored by the team who owns the `ClaimsApi` Rails Engine.
+Please note: The Accredited Representation Management team did not author the following functionality but relies on it for their Find a Representative product; it was authored by the team who owns the `ClaimsApi` Rails Engine.  The ARM team has modified it slightly to meet their needs.
 
-Representative and Organization data, which is publicly available, is fetched daily from <https://www.va.gov/ogc/apps/accreditation/> via a SideKiq periodic job in vets-api called `Veteran::VSOReloader` within the `veteran` Rails Engine (located at `/modules/veteran`) that runs on the following cron schedule -- `0 2 * * *` (2:00 AM every day). The specific files that are fetched are:
+Representative and Organization data, which is publicly available, is fetched daily from <https://www.va.gov/ogc/apps/accreditation/> via a Sidekiq periodic job in vets-api called `Veteran::VSOReloader` within the `veteran` Rails Engine (located at `/modules/veteran`) that runs on the following cron schedule -- `0 2 * * *` (2:00 AM every day). The specific files that are fetched are:
 
 - `attorneyexcellist.asp`
 - `caexcellist.asp`
@@ -36,15 +36,15 @@ The `orgsexcellist.asp` file is parsed and the following organization data is sa
 - `state`
 - `zip_code`
 
-These tables are used to provide search results for Find a Representative.
+These tables are used to provide search results for Find a Representative, search results for Appoint a Representative, and the Profile - Representative Status widget.
 
 The partial address for the representative or organization – the `city`, `state` and `zip_code` values - are validated using the Lighthouse Address Validation API. If the address is valid, the Address Validation API responds with latitude and longitude values for the address which are stored in the `lat` and `long` columns in the record’s respective table. Additionally, the `location` value is created and saved by combining the latitude and longitude values in a string.
 
 No credentials were created for this product and none are needed.
 
-### Data Source: Manually Shared MS Excel File
+### Data Source: Manually Downloaded MS Excel File
 
-Angela Saunders, IT Specialist in the Office of Information Technology, manually shares a MS Excel file with several members of the Accredited Representation Management team via MS Teams which has additional values for each representative.\
+At <https://ogccowbd1.dva.va.gov/Reports/report/Accreditation/Accreditation> an Excel file can be manually exported for download.\
 If a representative record in the file has address information, the address is validated using the Lighthouse Address Validation API. If the address is valid, the following fields are added to the corresponding representative or organization record in the `veteran_representatives` or `veteran_organizations` Postgres tables:
 
 - `address_line_1`
@@ -97,13 +97,21 @@ To update the `veteran_representatives` table using the shared file, open and s
 - CertifyingOfficial.FirstName
 - CertifyingOfficial.MiddleName
 
+**Sheet: VSOs**
+- VSOID
+- CertifyingOfficialID
+- RecognitionDate
+- CertifyingOfficialLastName
+- CertifyingOfficialFirstName
+- CertifyingOfficialFaxNumber
+- CertifyingOfficialWorkNumber
+- CertifyingOfficialMiddleName
+
 Also delete the following sheets:
-- VSOs
 - Accr Attorney Diagram
 - Accr Claim Agent Diagram
 - Accr Representatives Diagram
-- Vet Service Organization
-- Accreditation UML
+- Accr Vet Service Org Diagram
 
 Open and merge a pull request to replace the [rep-org-addresses.xlsx](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/accredited-representation-management/data/rep-org-addresses.xlsx)
  file in the [va.gov-team-sensitive](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive) repo.
@@ -129,7 +137,7 @@ The information that's reported is stored in the `flagged_veteran_representative
 The information is transfered from a user's client (web browser) to vet-api via a secure http POST request. Currently, no one has access to the data unless they're able to query the table in a production environment or unless they have access to the production database itself. Only individuals with access to the production environment and/or database are able to read/write the records in the table.
 
 ### Date Source: Hard-coded Organization Names
-Add details about the `Organizations::UpdateNames` periodic Sidekiq job...
+Every day at 5:00 AM the `Organizations::UpdateNames` job runs. It goes through the hard coded list of `Organizations::Names` at `modules/representation_management/app/sidekiq/representation_management/accredited_individuals_update.rb` and deletes any `Veteran::Service::Organization` records that are not present in the list. Any future Veteran Service Organizations will need to be added to `Organizations::Names` in order to be available in Find a Rep, Appoint a Rep, and the Profile - Representative Status widget.
 
 ## Where is the data stored and how, including information such as any encryption used?
 
@@ -142,13 +150,15 @@ We are using a spreadsheet from OGC to populate our accredited representative in
 
 ## How is the data transferred, including information such as any encryption used?
 
-1. Randy Trexler shares the Representative and Organization MS Excel File with several members of the Accredited Representation Management team via dvagov.sharepoint.com
+1. An ARM team member downloads the Representative and Organization MS Excel File from <https://ogccowbd1.dva.va.gov/Reports/report/Accreditation/Accreditation>. The team member will need to be granted permission to access this report.
 
-2. Holden Hinkle, the Tech Lead on the Accredited Representation Management team
+2. The team member:
 
-   1. downloads the file
-   2. emails it from his va.gov email account to his Oddball, Inc. email account
-   3. adds it to the GitHub `department-of-veterans-affairs` organization’s` va.gov-team-sensitive` repository.
+   1. Downloads the report as an Excel file.
+   1. Opens it in excel to sanitize it by removing the columns and sheets mentioned above.
+   1. Saves it as a MS Excel file.
+   1. Emails it from his va.gov email account to his Oddball, Inc. email account using Outlook encryption.
+   1. Adds it to the GitHub `department-of-veterans-affairs` organization’s` va.gov-team-sensitive` repository.
 
 ## Who accesses the data and in what capacity (read or read-write)?
 
