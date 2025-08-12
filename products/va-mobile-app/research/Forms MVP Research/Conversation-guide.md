@@ -153,19 +153,18 @@ Instructions to access prototype (must access from your mobile device):
 
 **for Android users:** 
 1. You will receive an email invite to the email you supplied us to download the testing app. Please navigate to your email and select that link now.
-2. It may require you to sign in again to authorize the install.
-3. You will then be required to consent to Firebase.
-4. Select "Download app tester"
-5. Select "app permissions"
-6. Click on name, settings, About, tap "Play Store version" text 7 times
-7. Receive a note "You are now a developer"
-8. Scroll up and press General, click on "Developer options"
-9. Toggle the "interal app sharing"
-10. Return to the window with the steps
-11. Download the release (ensure newest one #7)
-12. If you already have the app installed you'll have to select "Uninstall"
-13. And then go ahead and "Install"
-14. Pause before signing in
+2. Open the email and click on "Get started"
+3. It may require you to sign in again to authorize the install.
+4. Select "Download app tester".
+5. While this is downloading, go to your device homescreen > Go to settings > About > click on play store version 7 times (may need to Select "app permissions")
+10. Receive a note "You are now a developer"
+11. Scroll up and press General, click on "Developer options"
+12. Toggle the "interal app sharing"
+13. Return to the window with the steps
+14. Download the release (ensure newest one #7)
+15. If you already have the app installed you'll have to select "Uninstall"
+16. And then go ahead and "Install"
+17. Pause before signing in
 
 **Note for all users: You'll be interacting with a demo prototype today.** Since it's a demo, note that none of your actions will affect your own VA information or benefits.
 
@@ -312,7 +311,25 @@ Now that you've completed the tasks above you can exit the VA testing app and re
 Please select the link and take the survey.
 
 ### Deleting the testing app:
-Now that we have completed the study today I'm going to prompt you to delete the VA testing app from your device. If you navigate to your device home screen, and engage the menu screen of the VA testing app we used today select 'Delete app'. Remove from device.
+Now that we have completed the study today I'm going to prompt you to delete the VA testing app from your device. 
+
+**iOS users:** 
+If you navigate to your device home screen, and engage the menu screen of the VA testing app we used today select 'Delete app'. Remove from device.
+
+**Android users:***
+
+1. We now need to ensure you turn off the developer options we turned on for the test from the "Google Play Store".
+2. Navigate back to “Google Play Store”
+3. Select “uninstall”
+4. Go back to the main phone home screen, lower menu bar select III 3 lines icon
+5. Swipe up to remove Google Play Store window
+6. Now go back to the main screen, open the “Google Play Store”
+7. Click on your name in the top right 
+8. Settings > General > Click on the “Developer options” > Toggle off “Internal app sharing”
+9. Go to settings on phone > scroll to bottom > click on developer options > Toggle on top for on/off > Toggle off (it will obscure the screen because of screen share)
+10. Go back one, there should be no developer mode.
+11. Reinstall the VA app
+
 
 ## Thank You and Closing - 3 minutes
 
