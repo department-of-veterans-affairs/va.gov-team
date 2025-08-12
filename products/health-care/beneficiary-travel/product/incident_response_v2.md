@@ -136,6 +136,7 @@ be proactive in noticing and fixing production issues, we adhere to the followin
     - To filter from a date and now, add `merged:>2025-01-01`
   - Check [#beneficiary-travel-team](https://dsva.slack.com/archives/C05UTPZRZFY) for API or CRM updates/release
   - Check shared calendar for API or CRM updates/releases
+    - API Release Schedule: https://confluence.devops.va.gov/display/VAExternal/Release+Versions
 
 Find more detailed debugging steps in our [in-depth debugging guide]().
 
