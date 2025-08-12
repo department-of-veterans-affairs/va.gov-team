@@ -5,7 +5,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Accessibility Digital Experience (ADE)**
 
-**Date:** 08/11/2025
+**Date:** 08/12/2025
 
 **Contacts:** Cindy Merrill
 
@@ -24,7 +24,7 @@
 ## Research Goals
 Veterans may fill out web forms on VA.gov throughout their lives, including ALL stages of the Veteran Journey--Serving and separation, Living civilian life, and Retiring and aging. Saving in-progress work while filling out an online form is an interaction for which the current implementation on VA.gov has two known accessibility issues. This research was designed to collect user feedback on a revised design that has the potential to resolve both issues.
 
-<details><summary>Expand for a description of the two accessibility issues and the revised design that we tested.</summary>
+<details><summary>Below is a description of the two accessibility issues and the revised design that we tested.</summary>
 
 ### Two accessibility issues
 	
@@ -206,7 +206,7 @@ For demographic details, see [Who we talked to](#who-we-talked-to).
 ### Finding 5: My VA had accessibility issues for screen magnifiers.
 - One participant using a screen magnifier (on a Windows computer using the Edge browser and Microsoft Zoom Magnification at least 300%) asked why the **"Continue your application" link in the form request card on My VA was so much smaller than everything else on the card**. The link text didn't scale up like the text above it.
 
-<details><summary>Expand for a screenshot of the link magnification issue in Figure 3.</summary>
+<details><summary>Screenshot of the link magnification issue in Figure 3</summary>
 
 Figure 3 shows the form card on My VA magnified with all large-sized text except for much smaller text that says 'Continue your application'.
 
@@ -215,7 +215,7 @@ Figure 3 shows the form card on My VA magnified with all large-sized text except
 </details>
 
 - This same screen magnifier user missed that the header "Benefit applications and forms" was relevant because he only saw the words "Benefit applications". He didn't see the word "forms" because it was to the right of the magnified portion of the page that he was looking at. 
-<details><summary>Expand for a screenshot of the header magnification issue in Figure 4.</summary>
+<details><summary>Screenshot of the header magnification issue in Figure 4</summary>
 
 Figure 4 shows a large magnified heading that says 'Benefit applications' and nothing about forms.
 
@@ -227,7 +227,7 @@ Figure 4 shows a large magnified heading that says 'Benefit applications' and no
   > *"A lot of the government websites are not working that great with Safari anymore, and...you need to use Google Chrome" (p5).*
 
 - On the Review/Submit page, a **screen magnifier user didn't see the "+"'s to expand the accordions because they're so far to the right**. He saw the names of the form sections, but there was no visual indication that there was anything more to scroll right to see. 
-<details><summary>Expand for a screenshot of the accordion magnification issue in Figure 5.</summary>
+<details><summary>Screenshot of the accordion magnification issue in Figure 5</summary>
 
 Figure 5 shows 3 horizontal gray bars labeled with sections of the form but with no indication of how to interact with them.
 
@@ -282,7 +282,7 @@ Figure 5 shows 3 horizontal gray bars labeled with sections of the form but with
 
 - One participant using a screen magnifier (Microsoft Zoom Magnification at least 300% on a Windows computer with Edge browser) checked "I live on a United States military base outside of the U.S." and then didn't understand why he being asked for APO/FPO/DPO and got stuck. He had seen "I live on a United States" and thought that applied to him. He had no idea that the rest of the statement said "military base" because that was not in his view and he didn't scroll to the right. 
 
-<details><summary>Expand for a screenshot of the U.S. military base issue in Figure 6.</summary>
+<details><summary>Screenshot of the U.S. military base issue in Figure 6</summary>
 
 Figure 6 shows a selected checkbox that says 'I live on a United States mil' on the first line and 'base outside of the U.S.' on the second line.
 
@@ -302,7 +302,7 @@ Figure 6 shows a selected checkbox that says 'I live on a United States mil' on 
      1. "I certify the information above is correct and true to the best of my knowledge and belief." -- ***Repeated again** when focus is on this line*
         > *"I heard it about 4 times there...I'm not sure why they put it both before and after my name...That's the kind of thing that causes me to rush through the repeats and maybe miss something. If something is only present once, then I have a much better chance of paying attention to it" (p3).*
 
-<details><summary>Expand for a screenshot of the affirmation statements  issue in Figure 7.</summary>
+<details><summary>Screenshot of the affirmation statements  issue in Figure 7</summary>
 
 Figure 7 starts with a note about criminal penalties for withholding information or providing incorrect information. Just below that says 'Statement of truth' with a confirmation statement. Below that is a required field for your name, followed by an unselected required checkbox to certify the correctness of the information entered above.
 
@@ -367,7 +367,7 @@ There are a number of findings that were outside the scope of the research goals
       > *"I'm looking for the least amount of work I have to do every single time" (p10).*
       1. On the intro page, seeing the "Freedom of Information Act (FOIA)" right underneath the name of the form on the intro page was confusing because it was unclear what the connection is. They expected to see something about the specific form, such as its name, which was at the end of that line. 
      
-<details><summary>Expand for a screenshot of the form name issue in Figure 8.</summary>
+<details><summary>Screenshot of the form name issue in Figure 8</summary>
 
 Figure 8 shows the top of the intro page with the heading "Request personal records", and immediately below that is text about the Freedom of Information Act (FOIA).
 
@@ -499,13 +499,13 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
 
 ### Screenshots of the prototype (Codespace)
 <details>
-  <summary>Figure 9: Informational alert about saving (Expand to show screenshot)</summary>
+  <summary>Figure 9: Informational alert about saving</summary>
    <img src="./images/intro-pg-alert.png" width="75%" height="75%" alt="We'll save your request on every change. You can stop anytime, and come back later to finish.">
 
 </details>
 
 <details>
-  <summary>Figure 10: Intro page--not signed in (Expand to show screenshot)</summary>
+  <summary>Figure 10: Intro page--not signed in</summary>
 
   Figure 10 explains about about the form, and prompts the user to sign in to start filling it out.
 
@@ -515,7 +515,7 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
 </details>
 
 <details>
-  <summary>Figure 11: Intro page--signed in (Expand to show screenshot)</summary>
+  <summary>Figure 11: Intro page--signed in</summary>
 
   Figure 11 The signed-in version of the intro page has an informational alert about saving and a "Start your request" link.
   
@@ -527,48 +527,48 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
 The form we tested has 9 pages of questions, and each page has at the bottom a *Finish later* button on the left side and a *Continue* button on the right side.
 
 <details>
-  <summary>Figure 12: Form page 1 asks whether you are a U.S. citizen (Expand to show screenshot)</summary>
+  <summary>Figure 12: Form page 1 asks whether you are a U.S. citizen</summary>
    <img src="./images/form-pg1-alert&citizenship.png" width="75%" height="75%" alt="Radio button question with options to indicate whether you're a U.S. citizen">
 </details>
 
 <details>
-  <summary>Figure 13: Form page 2 asks for your first name, middle initial, last name, birthdate, and place of birth (Expand to show screenshot)</summary>
+  <summary>Figure 13: Form page 2 asks for your first name, middle initial, last name, birthdate, and place of birth</summary>
    <img src="./images/form-pg2-name&DOB.png" width="50%" height="50%" alt="first name, middle initial, last name, birth month dropdown, birth day, birth year, and place of birth">
 </details>
 
 <details>
-  <summary>Figure 14: Form page 3 asks for your social security number and VA file number (Expand to show screenshot)</summary>
+  <summary>Figure 14: Form page 3 asks for your social security number and VA file number</summary>
    <img src="./images/form-pg3-SSN&VAfile.png" width="75%" height="75%" alt="social security number and VA file number--one of which must be entered">
  </details>
 
 <details>
-  <summary>Figure 15: Form page 4 asks whether you live on a U.S. military base, and then for your country, street address, apartment or unit number, city, state/province/region, and postal code (Expand to show screenshot)</summary>
+  <summary>Figure 15: Form page 4 asks whether you live on a U.S. military base, and then for your country, street address, apartment or unit number, city, state/province/region, and postal code</summary>
    <img src="./images/form-pg4-mailing-addr-top.png" width="75%" height="75%" alt="top of the page with a checkbox for whether you live on a U.S. military base, followed by a dropdown field for your country. Below that are fields for street address, apartment or unit number, and city">
    <img src="./images/form-pg4-mailing-addr-bottom.png" width="75%" height="75%" alt="fields for state/province/region and postal code">
 </details>
 
 <details>
-  <summary>Figure 16: Form page 5 asks for your phone number and email (Expand to show screenshot)</summary>
+  <summary>Figure 16: Form page 5 asks for your phone number and email</summary>
    <img src="./images/form-pg5-phone&email.png" width="75%" height="75%" alt="fields to enter phone number and email, both of which are required">
  </details>
 
 <details>
-  <summary>Figure 17: Form page 6 is a list of checkboxes for which  record(s) to request (Expand to show screenshot)</summary>
+  <summary>Figure 17: Form page 6 is a list of checkboxes for which  record(s) to request</summary>
    <img src="./images/form-pg6-records.png" width="75%" height="75%" alt="a list of checkboxes, one for each type of record that can be requested">
 </details>
 
 <details>
-  <summary>Figure 18: Form page 7 is an Additional records information field (Expand to show screenshot)</summary>
+  <summary>Figure 18: Form page 7 is an Additional records information field</summary>
    <img src="./images/form-pg7-additional-info.png" width="75%" height="75%" alt="optional Additional records information field">
 </details>
 
 <details>
-  <summary>Figure 19: Form page 8 asks if there is a VA regional office that you're associated with (Expand to show screenshot)</summary>
+  <summary>Figure 19: Form page 8 asks if there is a VA regional office that you're associated with</summary>
    <img src="./images/form-pg8-regional-office.png" width="75%" height="75%" alt="optional VA regional office name field">
 </details>
 
 <details>
-  <summary>Figure 20: Form page 9, which is the last page in the form, has expandable sections of form information at the top. Below is a notice about criminal penalties for withholding information, and a statement of truth that requires typing your full name and checking a box to certify the information (Expand to show screenshot)</summary>
+  <summary>Figure 20: Form page 9, which is the last page in the form, has expandable sections of form information at the top. Below is a notice about criminal penalties for withholding information, and a statement of truth that requires typing your full name and checking a box to certify the information</summary>
    <img src="./images/form-pg9-review&submit.png" width="75%" height="75%" alt="the last page in the form, which has expandable sections of form information at the top">
    <img src="./images/form-pg9-statement-of-truth.png" width="75%" height="75%" alt="Below the expandable sections is a note about criminal penalties for withholding information, and a statement of truth that requires typing your full name and checking a box that you certify the information">
 </details>
@@ -580,7 +580,7 @@ The form we tested has 9 pages of questions, and each page has at the bottom a *
 </details>
 
 <details>
-  <summary>Figure 22: My VA page with various sections including Benefit applications and forms at the bottom (Expand to show screenshot)</summary>
+  <summary>Figure 22: My VA page with various sections including Benefit applications and forms at the bottom</summary>
    <img src="./images/MyVA-top.png" width="100%" height="100%" alt="top of the My VA page with a heading for Claims and appeals">
    <img src="./images/MyVA-middle.png" width="100%" height="100%" alt="headings for Health care, Outstanding debts, and Benefit payments">
    <img src="./images/MyVA-bottom.png" width="100%" height="100%" alt="headings for Education and training, and Benefit applications and forms">
@@ -670,10 +670,10 @@ This research does not include the perspectives of the following marginalized Ve
 * Expat (living abroad)
 * Beginner AT user
 
-![To see an accessible version of the underserved groups table, expand the next line](./images/VA-recruitment-checker.png)
+![An accessible version of the underserved groups table](./images/VA-recruitment-checker.png)
 
 <details>
-  <summary>To see a more accessible version of the above image, expand to show a different table</summary>
+  <summary>A more accessible version of the table in the above image</summary>
    
 # ADE Save in Progress usability testing
 
