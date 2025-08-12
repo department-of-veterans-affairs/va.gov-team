@@ -48,7 +48,9 @@ _As a Veteran, I am able to find the information I need to on the VA.gov Website
 - Indexing - # of pages indexed, time to index new or updated content
 
 
-## Decisions
+## Initiatives
+
+- [Unified search POC - Managed search solution](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/unified-search/initiative-brief.md)
 
 
 
