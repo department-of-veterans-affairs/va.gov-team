@@ -1,8 +1,8 @@
 ---
-title: "Conversation Guide for [Team, Product, Date]"
-author: "[AUTHOR NAME]"
-date_created: "[YYYY-MM-DD]"
-last_modified: "[YYYY-MM-DD]"
+title: "Conversation Guide for [Auth Experience, My VA 3.0, 2025/08/2025]"
+author: "[Ashley Bush]"
+date_created: "[2025-08-11]"
+last_modified: "[2025-08-11]"
 tags:
   - "[Tag1]"
   - "[Tag2]"
@@ -15,12 +15,6 @@ description: "A template for moderating research sessions including logistics, i
 
 > [!NOTE]
 > Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-checklist).
-
-`List and complete any project-specific setup tasks for this study below:`
-
-- [ ] Step 1
-- [ ] Step 2
-- [ ] Step 3
 
 ### Day of the session
 
@@ -100,47 +94,138 @@ Are there any email or text notifications that you think the VA should be sendin
 
 3. Have you ever used or viewed your profile on VA.gov?  
 If yes: How often are you using or viewing your profile?  
-What do you use your profile for? 
+What do you use your profile for?
 
-## First Task: [TASK NAME] - X minutes
+> ### Things to watch for:
+> - How often is the Veteran logging into My VA and profile and for what reason? 
+Are there any tasks that the Veteran is able to accomplish/not accomplish on the current  My VA or profile experience? 
+> - My VA or profile experience? 
+ If there is a task they cannot accomplish on My VA or profile, what other resource is the  Veteran using to get it done? 
+> - What are Veterans general knowledge of My VA, notifications, and profile? 
+> - What do Veterans want to be notified about? 
 
-- [ ] Step 1
-- [ ] Step 2
+## First Task: [My VA - Section Evaluation] - 10 minutes
+Thank you for telling me about your experience. We’re going to jump into exploring some new  experiences for My VA now.  
+To get started:
+- Please share your screen by clicking the green ‘Share Screen’ button at the bottom of  Zoom. 
+- I’m going to send you a link in the chat to a new design for My VA and Profile. 
+
+○ Desktop  
+  ■  ([Link to Desktop prototype](https://www.figma.com/proto/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=6505-13911&p=f&t=kKjFwhbmsp5VBlNK-1&scaling=min-zoom&content-scaling=fixed&page-id=6119%3A49293&starting-point-node-id=6505%3A13911))
+  https://www.figma.com/proto/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=6505-13911&p=f&t=kKjFwhbmsp5VBlNK-1&scaling=min-zoom&content-scaling=fixed&page-id=6119%3A49293&starting-point-node-id=6505%3A13911)
+
+○ Mobile  
+  ■  ([Link to Mobile prototype](https://www.figma.com/proto/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=6528-91140&p=f&t=vMzXpcgCaP6SYhUc-1&scaling=min-zoom&content-scaling=fixed&page-id=6011%3A69339&starting-point-node-id=6528%3A91140)) 
+https://www.figma.com/proto/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=6528-91140&p=f&t=vMzXpcgCaP6SYhUc-1&scaling=min-zoom&content-scaling=fixed&page-id=6011%3A69339&starting-point-node-id=6528%3A91140
+
+
+- Please keep in mind this website is not real, which means some parts of the experience  won’t work as expected. If you try to do something on the site and it doesn’t work, just let  me know what you would expect to happen instead. 
+Screenshare Prompt & Tech Support 
+- Troubleshooting Links 
+○ iPhone screen share instructions 
+○ Android screen share instructions 
+
+- [ ] Step 1. We are going to start by having you imagine that you’ve come to VA.gov and already  logged into your VA.gov account. You are now on the My VA page. 
+i. Keep in mind, we want to hear your thoughts, so say anything top of mind as you  go. 
+
+- [ ] Step 2. If you wanted to refill a prescription on My VA, can you show me where you would go to  do so?  
+i. If you were to click on the yellow alert to refill a prescription, what would you  expect to see next? 
+▪ If user has not already clicked on yellow alert, have user do so.  
+ii. How do you feel about being able to refill prescriptions on My VA? 
+iii. On a scale of 1-5, where 1 is Very Unlikely and 5 is Very Likely, how likely would  you use the refill prescription feature on My VA? 
+iv. If you wanted to check into an appointment can you show where you would do so  on this page? 
+v. How do you feel about being able to check into your appointments on My VA? 
+
+- [ ] Step 3. Okay now take a moment to review the whole page. Let me know your thoughts. 
+i. As you scroll down the page, what are your thoughts on the order of information  on the page? Is there any other order you’d like the information in? 
+
+- [ ] Step 4. Can you scroll back to the top? How do you feel about the yellow alerts in the claim  card? 
+i. Is this something that you can see yourself using? Why or why not? ii. How do you feel about the Disability rating being under the Claims and appeals  section? 
+
+- [ ] Step 5. Next, we are going to focus on the Forms and applications section. 
+i. How do you feel about being able to see previously completed forms in this  section? 
+
+- [ ] Step 6. Next, we are going to focus on the Payment and debts section. What are your thoughts  on the Payments and debts section? 
+
+- [ ] Step 7. Let’s move down to the Benefits section. 
+i. How do you feel about being able to review the amount of dependents on My  VA? 
+ii. What are your thoughts on being able to review GI Bill debt for tuition information  in the Benefits section of My VA? 
+iii. On a scale of 1-5, where 1 is Very Unlikely and 5 is Very Likely, how likely would  you use the benefits section? 
+
+- [ ] Step 8. What are your overall thoughts on My VA? 
+i. Is this something you could see yourself using? Why or why not? 
+ii. Do you feel as if there is anything missing from any of the sections in My VA?  iii. Which of these features we just discussed could you see yourself using in the  future?  
+
 
 > [!NOTE]
 > ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
-> - [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-> - [Etc]
+> - Does the experience match user expectations? 
+> - Is there any missing or confusing information? 
+> - Did the participant notice any design updates? (cards, header changes, new sections)
 
-## Second Task: [TASK NAME] - X minutes
+## Second Task: [Notification flyout and Notifications center page] - 10 minutes
 
-- [ ] Step 1
-- [ ] Step 2
+From this page, can you tell me where you would navigate to view important notifications from  the VA?  
+- [ ] Step 1. If the user is not able to locate the notification bell: Did you notice the bell in the top right  corner? Why or why not? Can you tell me your first impression of the notification  flyout/drawer?
+iv. What are your thoughts on the name of the drawer? What are your thoughts, if  the drawer was named Activity feed instead of Notifications?  
+v. Did you expect for the drawer to come out from the right-hand side of the  screen? 
+
+- [ ] Step 9. Can you scroll down the flyout/drawer.  
+i. What type of notifications do you expect to see?  
+ii. Any information missing that you’d like to see? 
+
+- [ ] Step 10. Can you scroll back to the top and click on the “Review all notifications” link. Take a  moment to review the page.  
+i. What would you expect, or want, to do from here? 
+ii. How do you feel about a central location for various types of notifications from  the VA? 
+iii. Any information missing that you’d like to see on this page?  
+
+- [ ] Step 11. For mobile - Click on the filter to open it so we can review the filter options.  For desktop – let’s review the filter options on the left-hand side  
+i. What are your thoughts on the filter options available? 
+ii. Is there any filter option missing that you’d like to see?  
+
+- [ ] Step 12. Now that you've seen this new experience. Does the title Notifications match what you  expected to see? Why or why not? 
+i. Is there anything different you'd like to name this feature? 
+ii. If they don't mention anything: We're also considering naming it Activity feed.  iii. What are your thoughts on Activity feed verses Notifications? Does either better  match what you'd expect? 
+
+- [ ] Step 13. Do you have any additional thoughts or feedback on the notification flyout/drawer or on  the notification page?  
+Scroll to the bottom and click on the “Go to next task” link.
+
 
 > [!NOTE]
 > ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
-> - [Etc]
+> - Does the participant know how to engage with the Flyout/Drawer? 
+> - Is there any missing or confusing information? With a focus on notification types, filter,  and sort options. 
+> - Does the UI of the flyout/drawer match with user mental models?
 
-## Third Task: [TASK NAME] - X minutes
+## Third Task: [Navigating to Profile] - 5 minutes
 
-- [ ] Step 1
-- [ ] Step 2
+- [ ] Step 14 From this screen how would you navigate to your profile? If the site doesn’t work as expected tell me how you’d expect it to work.
+If user is not able to - Please click on the name Hector in the menu. This should be located on  the left side of the notification bell.  
+i. Do you have any thoughts about the menu options? 
+ii. Is there anything missing from the menu that you’d like to see? 
+iii. Click on profile. Take a moment and review the page. Is there anything missing  on this page that you’d like to see? Anything confusing? 
+
 
 > [!NOTE]
 > ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
-> - [Etc]
+> - Does the participant understand the content on this page?  
+> - Does the participant get confused around navigating to profile? 
+> - Does the participant want, or expect anything more in the authenticated navigation? 
 
 
-## Forth Task: [TASK NAME] - X minutes
+## Forth Task: [A/B Testing Claims and Profile] - X minutes
 
-- [ ] Step 1
-- [ ] Step 2
+- [ ] Step 15 Now you will see the current version, Option A, and Option B for profile. You can toggle  between both options. 
+i. Take a moment to review both options.  
+ii. Which option do you prefer? Why? 
+iii. What about the other option did you not like?  
+iv. Is there anything missing from either option that you’d like to see? 
+
+- [ ] Step 16 Scroll to the bottom and click on the “Got to next task” link. Now you will see the current  version and an Option A and Option B for the claims and appeals card. Take a moment  to review all options. 
+i. Which option do you prefer? Why? 
+ii. What about the other option did you not like?  
+iii. Is there anything missing from either option that you’d like to see? 
+
 
 > [!NOTE]
 > ### Things to watch for:
