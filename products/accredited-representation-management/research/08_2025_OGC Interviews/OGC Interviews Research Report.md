@@ -93,11 +93,11 @@ Semi-structured interviews. The interviewer will ask the participants a series o
 
 ## Key Findings 
 
-* Manual Contact Information Updates 
-* Centralized but Decentralized Inquiries: 
-* Limited Proactive Outreach for Updates 
-* Challenges with Outdated Information 
-* Applicant Notification of Public Information 
+ 1. Manual Contact Information Updates 
+ 2. Centralized but Decentralized Inquiries: 
+ 3. Limited Proactive Outreach for Updates 
+ 4. Challenges with Outdated Information 
+ 5. Applicant Notification of Public Information 
 
 
 ## Details of Findings 
@@ -109,32 +109,29 @@ Semi-structured interviews. The interviewer will ask the participants a series o
 
 
 
-1. Finding: Centralized but Decentralized Inquiries 
+2. Finding: Centralized but Decentralized Inquiries 
     While there is an OGC accreditation mailbox intended for all accreditation-related inquiries, representatives often send update requests directly to individuals they have previously worked with, leading to multiple points of contact for updates. Margaret Talbot is primarily responsible for monitoring the OGC accreditation mailbox. 
 
 * Supporting data: "Even though we have the mailbox and we strongly encourage people to send the information there to distribute it, a lot of times people will send to maybe the person they're familiar with and they were working with, so they were recently accredited, they might send their responses to that person that they were working with versus sending it to the mailbox and then it gets, you know, forwarded or maybe, you know, one person do them." - Speaker 2 (0:05:54) 
 
 
 
-1. Finding: Limited Proactive Outreach for Updates 
+3. Finding: Limited Proactive Outreach for Updates 
     There are currently no ongoing outreach programs to remind representatives or certifying officials to keep their contact information updated, beyond initial accreditation emails and annual recertification projects. It is primarily the representative's responsibility. 
 
 * Supporting data: "But in terms of ongoing outreach, we currently do not have one that I'm aware of where we notify them." - Speaker 2 (0:08:18) 
 
 
 
-1. Finding: Challenges with Outdated Information 
+4. Finding: Challenges with Outdated Information 
      The biggest challenge in keeping information up to date is representatives not notifying OGC of changes. This can lead to returned mail and affect the representatives' ability to receive updated information regarding claims and even impact pay. 
 
 * Supporting data: "I think the challenge is them not letting us know their content information change." (0:10:40)  
 
 
 
-1. Finding: Applicant Notification of Public Information 
+5. Finding: Applicant Notification of Public Information 
     For attorneys and claims agents, the approval email explicitly states that their contact information will be publicly displayed on the VA's accredited search index. For VSO representatives, this information is sent to the certifying official, who is expected to advise the representative. The VA Form 21A itself does not contain this notification. 
-
-
-
 
 * Supporting data: "So in the approval email, that language is contained in there. Okay. That their contact information is contained. We tell them they need to verify it, and if they want to change it, we give them instructions on how to do it." (0:24:32) 
 
@@ -211,33 +208,7 @@ Semi-structured interviews. The interviewer will ask the participants a series o
 
 
 
-
-## Product User and Business Outcomes 
-
-
-1. Desired User Outcome 
-    This research supports our desired user outcome by focusing on the following user outcomes: 
-
-* Design a digitized version of Form 21a that incorporates new questions needed by VA OGC employees who process applications. 
-* Reduce the time for VA OGC employees to review and process accreditation applications. 
-* Provide accurate applicant data to VA OGC employees; this will also improve Veteran experiences on VA.gov for related applications. 
-* Effectively convey the seriousness and commitment required for accreditation, discouraging applicants who are not genuinely motivated. 
-* Create a more efficient accreditation process for applicants. 
-* Ensure the accreditation process is accessible to all users, including those using assistive technology. 
-
-
-
-1. Desired Business Outcome 
-    This research supports our desired business outcome by focusing on the following business outcomes: 
-
-* Reduce the backlog of accreditation applicants (currently around 2,000). 
-* Streamline the accreditation process to help VA OGC staff manage applications more efficiently. 
-* Decrease the time applicants spend waiting to become accredited, thereby increasing the number of qualified representatives available to assist Veterans. 
-* Minimize the need for back-and-forth communication between OGC staff and applicants by capturing required information digitally. 
-* Improve applicant and staff satisfaction with the accreditation process, measured by metrics like processing time, error rates, and user feedback. 
-
-
-Key Performance Indicators 
+## Key Performance Indicators 
 These KPIs help assess efficiency, system reliability, and user experience improvements resulting from digitizing the accreditation process. 
 
 
