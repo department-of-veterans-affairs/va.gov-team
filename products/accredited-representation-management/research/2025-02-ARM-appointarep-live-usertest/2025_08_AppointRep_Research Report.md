@@ -25,6 +25,7 @@ Lindsay Li-Smith, Product Manager
 6.  Does the experience meet user expectations?
 7.  Are the steps clear and actionable?
 8.  Are there any reasons why users are not navigating from the Download to the ## Next Steps pages?
+
 ** Stretch goal:**
 1.  Are there any usability challenges with the Representative Status Widget?
 
@@ -64,16 +65,16 @@ Both participants experienced difficulties with the login process on VA.gov. Par
 **2.** **Finding:** Unfamiliarity with the Find a Representative tool
 Neither participant was aware that VA.gov offered a tool to find and appoint a representative. Participant 01 stumbled upon it via a link provided by their attorney, and Participant 03 explicitly stated they "didn't know that was available in va.gov," having previously searched for agents via Google. This suggests a possible discoverability issue with the new tool.
 
-  ·**Participant 01:** "To be honest, honest with you, I never, I never got to that point." (When asked if they considered using VA.gov to find an attorney)
+*   **Participant 01:** "To be honest, honest with you, I never, I never got to that point." (When asked if they considered using VA.gov to find an attorney)
 
-  ·**Participant 03:** "I don't, I didn't know that was available in va.gov. I don't know if I overlooked it or what Now I'm curious."
+*   **Participant 03:** "I don't, I didn't know that was available in va.gov. I don't know if I overlooked it or what Now I'm curious."
 
 **3.** **Finding:** Preference for electronic form submission over print/mail
 Both participants expressed a strong preference for electronic signatures and online form submission. Participant 01 highlighted the convenience, speed, and direct transmission to the VA for back pay purposes. Participant 03 also appreciated the idea of electronic submission, indicating a general aversion to the traditional print, sign, and mail process.
 
 •**Participant 01:** "I think it's outstanding because a lot of people don't have, first of all, you're getting into a form, right? You're trying to accomplish a mission here today. And your form, your mission for today is to get this form filled out and taken care of. Well, bingo, you do all this work, you put all the legwork in right? To get it done. Then all of a sudden, oh, now I gotta file, I gotta print it, I gotta download it, I gotta print it right? Then I gotta fill it out, then I gotta get a stamp, then I gotta put it in an envelope. And then we gotta do the timeframe of the United States Postal Service as opposed to electronically signing it on the computer."
 
-• **Participant 03:** "I don't necessarily prefer the forms that you can't just fill out online and hit submit. I don't like to print them out."
+*   **Participant 03:** "I don't necessarily prefer the forms that you can't just fill out online and hit submit. I don't like to print them out."
 
 * * *
 
@@ -87,22 +88,22 @@ Participant 03 explicitly looked for options beyond in-person assistance, mentio
 **2.**  **Additional Finding:** Information about representative roles and accreditation is not clear enough
 Both participants demonstrated some confusion regarding the role of representatives listed on VA.gov and whether they are VA employees or independent. Participant 01 initially thought the VA would know their representative, and Participant 03 asked if the "VA accredited representative works for the VA." This suggests a need for clearer distinctions and explanations about the accreditation process and the representative's relationship with the VA.
 
-• **Participant 03: “**How would the VA know who my representative is?"
+*   **Participant 03: “**How would the VA know who my representative is?"
 
-• **Participant 03:** "I guess I'm gonna find an organization or person to link the form up to and then I will appoint the person using the form.”
+*   **Participant 03:** "I guess I'm gonna find an organization or person to link the form up to and then I will appoint the person using the form.”
 
 ## Recommendations
 
 1. **Recommendation:** Clarify the Relationship of Accredited Representatives to the VA
-  o   **Participant 03:** "This VA Accredited Representative works for the VA."
+*   **Participant 03:** "This VA Accredited Representative works for the VA."
 Both participants expressed some confusion about whether the "VA accredited representative" works for the VA or is an independent entity.
 
-To address this, the page should include a clear and concise explanation, perhaps in a tooltip or a small information box near the "Find a VA Accredited Representative" action link, that these individuals or organizations are accredited (approved) by the VA but generally operate independently. This would help set accurate expectations for users engaging with representatives found through VA.gov.
+*   To address this, the page should include a clear and concise explanation, perhaps in a tooltip or a small information box near the "Find a VA Accredited Representative" action link, that these individuals or organizations are accredited (approved) by the VA but generally operate independently. This would help set accurate expectations for users engaging with representatives found through VA.gov.
 
-2. **Recommendation:** Improve the Discoverability of "Start your form without signing in
-Participant 03 initially missed this option and expected to log in, which indicates a discoverability issue. The "Start your form without signing in" link should be highlighted or moved to a more visible spot on the page, possibly near the top of the "Sign in with a verified account" section or as a clearly marked alternative. This change would help users immediately see that login is optional and accommodate those who want to explore the forms first.
+2. **Recommendation:** Improve the Discoverability of "Start your form without signing in"
+*   Participant 03 initially missed this option and expected to log in, which indicates a discoverability issue. The "Start your form without signing in" link should be highlighted or moved to a more visible spot on the page, possibly near the top of the "Sign in with a verified account" section or as a clearly marked alternative. This change would help users immediately see that login is optional and accommodate those who want to explore the forms first.
 
-o   **Participant 03:** "So I did not scroll down far enough to know that I could proceed without logging in... I'm wondering if up somewhere up near the top it needs to say, you don't need to sign in, instead of going all the way to the bottom and it's saying start the form without signing in. Maybe something at the top saying FYI or whatever the proper terminology that you, you will be able to complete the form without help, without logging in."
+*   **Participant 03:** "So I did not scroll down far enough to know that I could proceed without logging in... I'm wondering if up somewhere up near the top it needs to say, you don't need to sign in, instead of going all the way to the bottom and it's saying start the form without signing in. Maybe something at the top saying FYI or whatever the proper terminology that you, you will be able to complete the form without help, without logging in."
 
 ## Product User and Business Outcomes
 
@@ -110,23 +111,25 @@ o   **Participant 03:** "So I did not scroll down far enough to know that I co
 
 This research supports our desired user outcome by focusing on the following user outcomes:
 
-o   Veterans can easily search for and appoint accredited representatives via VA.GOV.
+*   Veterans can easily search for and appoint accredited representatives via VA.GOV.
 
-o   Users can see their current representative information after signing in.
+*   Users can see their current representative information after signing in.
 
-o   Veterans have clarity about the process, including selecting, contacting, and officially appointing a representative.
+*   Veterans have clarity about the process, including selecting, contacting, and officially appointing a representative.
 
-o   The process reduces confusion and provides guidance, especially for those unsure if they already have a representative.
+*   The process reduces confusion and provides guidance, especially for those unsure if they already have a representative.
+
 
 **2.** **Desired Business Outcome**
 
 This research supports our desired business outcome by focusing on the following business outcomes:
 
-o   Increase VA.gov’s functionality to support appointing accredited representatives, replacing legacy services (e.g., eBenefits).
+*   Increase VA.gov’s functionality to support appointing accredited representatives, replacing legacy services (e.g., eBenefits).
 
-o   Reduce the time and effort it takes for Veterans to appoint a representative.
+*   Reduce the time and effort it takes for Veterans to appoint a representative.
 
-o   Improve the accuracy and ease of collecting representative documentation for Veteran applications.
+*   Improve the accuracy and ease of collecting representative documentation for Veteran applications.
+
 
 ## Key Performance Indicators
 
@@ -137,6 +140,7 @@ This KPI would track the percentage of users who choose to electronically sign a
 2. **KPI:** Representative Search Success Rate
 
 This KPI would measure the percentage of users who successfully find and select a representative using the VA.gov tool. The finding that neither participant was aware of the tool, and Participant 03 previously used Google to search for agents, directly supports the need to track this metric. Improving the discoverability and usability of the "Appoint a Representative" tool on VA.gov would aim to increase this success rate.
+
 
 ## Next Steps
 
@@ -159,6 +163,8 @@ Actively promote the benefits of electronic form submission and work to improve 
 **5.** **Enhance Tool Discoverability on VA.GOV**
 
 Develop strategies to increase awareness and discoverability of the "Appoint a Representative" tool on VA.gov. This could involve better placement on the website, targeted communication, or integration with other relevant VA services.
+
+
 
 ## Appendix
 
