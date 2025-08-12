@@ -12,7 +12,7 @@ Do these 3 steps first, _before any investigation of root cause is done_.
 ### 2. Notify
 2.1. **Coordinator**: Start a thread in [#beneficiary-travel-team](https://dsva.slack.com/archives/C05UTPZRZFY) with the following template:
 ```
-@kay @Kristen McConnell @Mark Dewey
+@kay @Kristen McConnell @Mark Dewey @Kevin Duensing
 CC @Blaise Fox @Josh Patterson
 
 There is an ongoing significant incident with Travel Pay. 
