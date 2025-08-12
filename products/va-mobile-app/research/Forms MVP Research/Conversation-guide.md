@@ -152,7 +152,20 @@ Instructions to access prototype (must access from your mobile device):
 8. Select "start testing" from the Share feedback screen.
 
 **for Android users:** 
-You will receive an email invite to the email you supplied us to download the testing app. Please navigate to your email and select that link now.
+1. You will receive an email invite to the email you supplied us to download the testing app. Please navigate to your email and select that link now.
+2. It may require you to sign in again to authorize the install.
+3. You will then be required to consent to Firebase.
+4. Select "Download app tester"
+5. Select "app permissions"
+6. Click on name, settings, About, tap "Play Store version" text 7 times
+7. Receive a note "You are now a developer"
+8. Scroll up and press General, click on "Developer options"
+9. Toggle the "interal app sharing"
+10. Return to the window with the steps
+11. Download the release (ensure newest one #7)
+12. If you already have the app installed you'll have to select "Uninstall"
+13. And then go ahead and "Install"
+14. Pause before signing in
 
 **Note for all users: You'll be interacting with a demo prototype today.** Since it's a demo, note that none of your actions will affect your own VA information or benefits.
 
@@ -160,7 +173,7 @@ You will receive an email invite to the email you supplied us to download the te
 ## Task 1: Login to the VA Health and Benefits mobile app
 [start on the VA Health and Benefits mobile app version: 2.54.1.QA (2825)]
 
-I'd like you to take a look at this screen, and login. The system will automatically generate a test user login for you and assume credentials. 
+I'd like you to take a look at this screen, and sign in. The system will automatically generate a test user login for you and assume credentials. 
 
 As we go through the steps in this study, please talk aloud about what you're thinking BEFORE clicking on anything. And please share any thoughts, reactions, or questions you have about the current screen. 
 
