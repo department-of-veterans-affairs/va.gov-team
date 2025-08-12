@@ -166,6 +166,8 @@ Below are the initiatives worked on during the contract, with links to their res
 
 
 ## 6. Intent to File
+For the Intent to File (ITF) discovery phase, the team investigated how Veterans currently check their ITF status and identified significant usability gaps on VA.gov and in the Claims Status Tool (CST). They reviewed existing ITF workflows, upstream data sources (VBMS and Lighthouse ITF API), and confirmed there was no direct, user-friendly way for Veterans to see if an ITF was active or when it expired. The team gathered pain points from Veteran research, Reddit feedback, and contact center insights, revealing confusion around ITF timelines, expiration dates, and the association between ITFs and claims. They explored design concepts for displaying ITF information in CST, including scenarios for active, expired, and multiple ITFs, as well as empty states for education. They documented potential risks, and technical dependencies. This discovery work laid the foundation for a UI solution to make ITF status transparent and actionable for Veterans.
+
 [Initiative Brief: Display Intent to File (ITF) Status in the Claims Status Tool (CST)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Intend%20To%20File%20-%20Product%20Brief.md)
 
 [Design Pitch: Display Intent to File (ITF) Status in CST](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Display%20Intent%20to%20File%20(ITF)%20Status%20in%20CST%20Initiative.md)
