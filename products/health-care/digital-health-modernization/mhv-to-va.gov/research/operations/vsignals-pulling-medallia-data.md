@@ -39,7 +39,7 @@
 ## Requesting custom reports via VSignals
 1. Once the dashboard loads, select the "**Live Feed & Search**" option from the top navigation bar
 2. Select the filter icon to the far-right of the dashboard. This should expand advanced filters into view that allow you to make adjustments to the data you want to pull.
-3. Under "Additional filters" there are options to specific specific URL paths - select this and add all relevant URLs that you want data from to the filtered view.
+3. Under "Additional filters" there are options to add specific URL paths - select this and add all relevant URLs that you want data from to the filtered view.
    * Note: for URLs to specify for each health tool, please see section below "URLs by health tool" 
 4. Once satisfied with additional filters and date range, select "run"
 5. Optional step - if you will regularly run this same report, you can select "Save filter" to have it show up as a preset option in your admin dashboard for next time.
