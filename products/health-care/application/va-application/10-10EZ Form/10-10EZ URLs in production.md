@@ -1,6 +1,7 @@
 # 10-10EZ form URLs in production
-- As of 03/28/2025 - updated by @hdjustice
+- As of 08/11/2025 - updated by @hdjustice
      - Removed Reg Only experiment pages in prod (only in effect from 10/2024-01/2024)
+     - Added updated Insurance pages (for list & loop)
 
 - Reference [URLs in production prior to 5/6/2024, before root URL change](#urls-in-production-prior-to-562024-before-root-url-change)
 
@@ -43,15 +44,18 @@
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/household-information/spouse-additional-information|
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/household-information/spouse-financial-support|
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/household-information/spouse-contact-information|
+|www.va.gov/health-care/apply-for-health-care-form-10-10ez/household-information/your-dependents|
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/household-information/dependents|
-|www.va.gov/health-care/apply-for-health-care-form-10-10ez/household-information/dependent-information|
+|www.va.gov/health-care/apply-for-health-care-form-10-10ez/household-information/dependents/0/basic-information?add=true|
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/household-information/veteran-annual-income|
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/household-information/spouse-annual-income|
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/household-information/deductible-expenses|
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/insurance-information/medicaid|
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/insurance-information/medicare|
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/insurance-information/medicare-part-a-effective-date|
-|www.va.gov/health-care/apply-for-health-care-form-10-10ez/insurance-information/general|
+|www.va.gov/health-care/apply-for-health-care-form-10-10ez/insurance-information/your-health-insurance|
+|www.va.gov/health-care/apply-for-health-care-form-10-10ez/insurance-information/health-insurance|
+|www.va.gov/health-care/apply-for-health-care-form-10-10ez/insurance-information/health-insurance/0/policy-information?add=true|
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/insurance-information/va-facility-api|
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/review-and-submit|
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/confirmation|

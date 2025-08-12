@@ -239,4 +239,4 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 
 ## Approvals ✅
 - `Reviewed by [Ryan Thurlwell, Team Lead] on [07/16/2025]`
-- `Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]`
+- `Reviewed by [Shane Strassberg, OCTO Research-Ops Lead] on [07/28-2025]`

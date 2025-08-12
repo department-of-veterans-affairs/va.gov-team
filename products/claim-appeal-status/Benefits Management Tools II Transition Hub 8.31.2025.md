@@ -20,6 +20,8 @@ Included are links to more specific transition hubs where you can find direct li
 - [Roadmap](#roadmap)  
 - [Features and initiatives we worked on](#features-and-initiatives-we-worked-on)  
 - [Enablement Team Contacts](#enablement-team-contacts)
+- [Stakeholders and Supported Initiatives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/Benefits%20Management%20Tools%20II%20Transition%20Hub%208.31.2025.md#stakeholders-and-supported-initiatives)
+
 
 ---
 
@@ -95,16 +97,12 @@ By accessing this tool, Veterans can stay informed about their disability evalua
 
 ## Roadmap
 
-### Now (Current Quarter beginning April 1, 2025)
--
+## Initiative and Tasks in backlog for New BMTII Team
 
-### Next (Quarter beginning July 1, 2025)
-- 
-### Future (Quarter beginning October 2025)
--   
+-   [Tickets for new BMTII Team](https://github.com/orgs/department-of-veterans-affairs/projects/1430/views/26)
 
 **Links**
-- [Outcome-driven roadmap](#)   
+- [Roadmap for BMTII ](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1741805196727/ad752328cce58f0ea2428a4e421af18abfbfc10a?sender=ub840cb68d1886aa35b202891) 
 
 ---
 
@@ -127,4 +125,24 @@ By accessing this tool, Veterans can stay informed about their disability evalua
 | Amy Lai          | amy.lai2@va.gov             | Product Owner                     |
 | Julie Strothman  | julie.strothman@va.gov      | Design Lead                       |
 | Cory Sohrakoff   | cory.sohrakoff@va.gov       | Engineering Lead                  |
+
+
+
+# Stakeholders and Supported Initiatives
+
+| **Name**                        | **Title**                              | **Organization** | **Initiatives Supported**                                                          |
+|---------------------------------|-----------------------------------------|------------------|-------------------------------------------------------------------------------------|
+| **Andrew Gray**                 | Senior Automation Strategist            | VBAVACO          | Supplemental Claims, Payment History, Evidence Request                              |
+| **Alejandro Mendiolaflores**   | Senior Automation Strategist            | VBAVACO          | Supplemental Claims, Payment History, Evidence Request                              |
+| **Danielle M. Atwood**         | Senior Program Analyst                  | VBAVACO          | Dependency Letters                                                                  |
+| **Lisa L. Lotts**              | Lead Program Analyst                    | VBAVACO          | Dependency Letters                                                                  |
+| **Melissa Rebstock**          | Branch Chief, Digital Experience        | VBASPT           | Dependency Letters                                                                  |
+| **Elizabeth A. Eskew-Howard**  |           | VBAVACO          | Payment History                                                                     |
+| **Amy Davis**                  |          | VBAVACO          | Payment History                                                                     |
+| **Eric Colinares**             | Management & Program Analyst            | OAR              | Payment History (Agent/Attorney Fees)                                               |
+| **Jacqueline N. Hale**         | Senior Management & Program Analyst     | VBAVACO          | Payment History                                                                     |
+| **Alicia M. Harvala**          | Program Analyst                         | VBAVACO          | Payment History                                                                     |
+| **Daniel J. Gifford**          | Management and Program Analyst          | VBAVACO          | Pension Claims                                                                      |
+| **Derek Uttley**               | [Title not specified in image]          | VBAVACO          | Pension Claims                                                                      |
+
 

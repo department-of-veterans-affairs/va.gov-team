@@ -1,27 +1,26 @@
-
-name: Disability Benefits Team Issue Template
+name: Disability Benefits Team Issue Template test
 description: Issues for Disability Benefits Team 
 labels: ["disability", "disability-benefits", "needs-refinement"]
 projects: 
 - department-of-veterans-affairs/1660
+type: Task
 
 body:
+- type: markdown
+  attributes:
+    value: |
+      Use clear, simple language and action verbs to describe the work. Avoid acronyms and jargon.
 - type: textarea
   attributes:
-    label: Value Statement 
-    description: Describe the story
+    label: User Need 
+    description: |
+      ```As a **user**, I want to **do something**, so that **something happens**.```
     placeholder: |
-      As a **user**
-      I want to **do something** 
-      So that **something happens**
+      As a **user**, I want to **do something**, so that **something happens**.
 - type: textarea
   attributes:
     label: Description
-    description: What's the context? 
-    placeholder: | 
-      - Describe the scope of the ticket and include any context and details of the work that will be done 
-      
-      - Add dependencies, open questions, and other relevant details as needed
+    description: Describe the scope of this work, background context, why it matters, dependencies, goals, and open questions.
 - type: textarea
   attributes:
     label: Tasks
@@ -41,7 +40,6 @@ body:
 - type: checkboxes
   attributes: 
     label: Definition of Done
-    description: Describe here
     options:
       - label: Meets acceptance criteria
       - label: Passed all testing coverage
@@ -53,8 +51,7 @@ body:
     label: Refinement Checklist! 
     description: Make this ticket ready to work
     options: 
-      - label: Add description, tasks and AC
-      - label: Add estimation
-      - label: Add the proper labels, team and priority
-      - label: Add a parent 
-    
+      - label: Add description, tasks, and acceptance criteria
+      - label: Add estimate
+      - label: Add the proper labels, team, and priority
+      - label: Add an Epic or Super Epic

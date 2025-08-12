@@ -1,7 +1,5 @@
 # Decision and Change Log: Find a Representative
 
-This document is actively maintained by Product Manager, Lindsay Li-Smith, and updates are made every Friday.
-
 - **10/20/2023**: Decided to split into distinct products (Find, Appoint and Widget).\
   _Discussed by the ARM team starting on 10/18/2023 and direction confirmed by Product Owner Zach Goldfine ([Slack conversation](https://dsva.slack.com/archives/C05L6HSJLHM/p1697658933875239))._
 - **10/27/2023**: Representative definitions are updated with stakeholder feedback.\

@@ -1,6 +1,6 @@
 # Authenticated experience at a glance
 
-**Last updated: March 25, 2025 -- updating team roster**
+**Last updated: August 12, 2025 -- updating team roster**
 
 ## Where to find us 
 
@@ -15,7 +15,8 @@
 |----|----|
 |Chante Lantos-Swett |OCTO Lead|
 |Andrew Pearce| Program Manager |
-|Travis Cahill|Product Manager|
+|TBD|Product Manager|
+|Anneliese LaTempa|Delivery Manager|
 |Janelle Finnerty | Design/Research Lead | 
 | Micah Frazier | Engineering Lead | 
 |Ashley Bush|	Designer | 
@@ -23,7 +24,6 @@
 |Emerald Sargent | Full Stack Engineer |
 |Giles Wells| Full Stack Engineer | 
 |Diana Buffone| BE Engineer |
-|Joe Karschnik | QA/Accessibility Specialist|
 
 ## Our products
 

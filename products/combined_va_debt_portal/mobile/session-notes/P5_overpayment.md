@@ -1,28 +1,3 @@
-# Summary from Dovetail
-
-#### App usability and preferences
-
-- The VA app is preferred over the website for most tasks except education benefits, with users appreciating its simplicity and Face ID login functionality. [1]("As much as I can. And a lot of it's just because, it's just, it's. The app's great for anything.")[2]("and then anything deaths. So those two are incorporated. I mean the app would be perfect. You would never have to use the site.")
-
-- The app is viewed as a streamlined "Cliff Notes" version compared to the more complex website experience. [3]("The va, I use the. It's almost like the Cliff Notes is the app. And that's all I want is the Cliff Notes. It's. The website's usually too convoluted compared to the app.")
-
-#### Debt awareness and communication
-
-- Users may discover debts through the app but lack clear notification mechanisms, suggesting a need for proactive alerts about new debts. [4]("I glanced at it on that's how I learned because I was looking up my post 911 GI benefits and then somehow I scrolled over and there was this thing like you have one debt. And I'm like, what is that? So I've never received a letter.")
-
-- Letters remain a primary form of debt communication, though users express interest in having digital access to letters directly within the app. [5]("Well, I think it'd be good if there's. And I don't know, maybe I'm not set up for it on the VA app about notifications")[6]("kind of like an access to the letter. So like if you go into VA disability, like you can basically get all your letters on your iPhone. Generate letters.")
-
-#### Payment experience and opportunities
-
-- Users strongly prefer digital payment options and express frustration with having to leave the app to complete payments. [7]("And anything that keeps you from having to log into a government website. But using a government app with a face ID is a million bucks in my opinion.")
-
-- The complex account number entry process on pay.gov creates friction, with users suggesting simplified payment flows and clearer copying mechanisms. [8]("Put all my information like this is confusing. Part. 1, 2, 3, 4. Mayor's full name, email address, payment amount. It just be nice to have it all right here")[9]("Copy. That'd be perfect. What I would do is just jot it down on a sticky pad, but.")
-
-#### Statement management preferences
-
-- Users value easy access to current and previous statements for reference, particularly for larger payment amounts. [10]("I would use it because I wouldn't want to check out especially when you start getting into hundreds of dollars like. Yeah, definitely need the easy access the statements.")
-
-- Statement organization could be improved by clearly distinguishing between current and previous statements with clear PDF labeling. [11]("So if you have loaded previous statements, parentheses PDF would be nice underneath.")
 
 
 # Notes by Perigean. Conversation Guide used as the structure for notes.

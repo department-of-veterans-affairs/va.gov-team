@@ -536,9 +536,10 @@ Response:
 3. The BE will poll the same endpoint, but send a notification via VA Notify the user on success or failure
 
 ## Integration Points
-1. CCRA: Source of referral data
+1. CCRA: Source of referral data 
 2. VA Notify: For sending notifications to veterans
-3. EPS (External Provider Services): For appointment management
+3. EPS (External Provider Services): For appointment management (Wellhive)
+    - https://wellhive.github.io/api-docs/
 
 ## Performance Considerations
 - Drive time seems to take a long time to retrieve results

@@ -6,47 +6,52 @@
 
 | Phase | Duration | Users | Dates |
 |---|---|---|---|
-|Phase 1: Staging testing |14 days|7| July 1-10, 2025 and July 27-30, 2025 |
-|Phase 2: 10 users |2 days|10 users (auth users only)|  In the 8/21 - 8/28,2025 timeframe|
+|Phase 1: Staging testing |14 days|7| June 20-27, 2025 and July 8-15, 2025 |
+|Phase 2: 10 submissions |2 days|10 users|  In the 8/21 - 8/28,2025 timeframe|
 |Phase 3: 25% of users| 3 days| 25% users (auth users only) | In the 9/2 - 9/9,2025 timeframe|
 |Phase 4: 100% of users| indefinite | 100% users (auth users only) | In the 9/10 - 9/17,2025 timeframe |
-|Phase 5: Retire V0 (non alert version)| permanent | 100% users (auth users only) | TBD | 
+|Phase 5: Retire V0 (non alert version)| permanent | 100% users | TBD | 
 
 Considerations
-- Income and Asset statement paper form volume is typically ~40k per year, depending on online formm adoption we expect somewhere in the ~500 to ~1500 submissions per month.
+- Income and Asset statement paper form volume is typically ~40k per year, depending on online form adoption we expect somewhere in the ~500 to ~1500 submissions per month.
 
 ## Overview
-The 21P-0969 is available to Veterans today through a paper form.  This initiative will bring the form online so that Veterans instructed to complete it can more efficiently populate their income and asset information through a streamlined digital experience.
+As referenced in the [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pension/21P-0969-product-outline.md), the 21P-0969 is available to Veterans today through a paper form.  This initiative will bring the form online so that Veterans instructed to complete it can more efficiently populate their income and asset information through a streamlined digital experience.  This inititaive is the MVP initial digitization of the Income and Asset statement.  
  
 
 ### The release plan will need to consider the following use cases:
 1. Applications In-Progress
    - Before full release:
-      - Unauthenticated Users: Intent to File alert functionality is not available to unauthenticated users.
-      - Authenticated Users: If the user maintains a single active session, they will complete the legacy, back-end only version of the Intent to File experience. If they leave a session and start a new one, they may be directed to the updated version (v1) with alerts presented about ITF, depending on the level of incremental traffic set for the legacy form (50%/100%).
+      - Unauthenticated Users: As 0969 exists only as a paper form today, there will not be in-progress applications prior to launch start.  Upon launch start the applicant will access the online form experience when turned on for 100 percent of users or selected through the incremental toggle percentage setting.
+      - Authenticated Users:  As 0969 exists only as a paper form today, there will not be in-progress applications prior to launch start.  Upon launch start the applicant will access the online form experience when turned on for 100 percent of users or selected through the incremental toggle percentage setting.
    - After 100% release:
-      - Unauthenticated Users:  Intent to File functionality is not available to unauthenticated users.
-     - Authenticated Users: If the user maintains a single active session, they will complete the legacy, back-end only version of the Intent to File experience.        If they leave a session and start a new one, they may be directed to the updated version (v1) with alerts presented about ITF. 
+      - Unauthenticated Users:  The applicant will access the online form experience
+     - Authenticated Users: the applicant will access the online form experience
 2. Applications Not Started
    - Before full release:
-      - Unauthenticated Users: Intent to File functionality is not available to unauthenticated users.
+      - Unauthenticated Users: The applicant will access the online form experience when turned on for 100 percent of users or selected through the incremental toggle percentage setting.      Applicants not selected through the incremental toggle percentage settingwill be directed to the (PDF) paper form.
       - Authenticated Users: Users may be directed to fill out the updated version (v1) with alerts presented depending on the level of incremental traffic set for the updated version (v1) (25%/100%)
    - After 100% release
-      - Authenticated Users: Users will complete the v1 experience.
+      - All applicants will access the online form experience.
 
-| User Type | Flipper Status | Form in Progress | ITF Version| V1 Info Content Displayed|
+| User Type | Flipper Status | Form in Progress |Version| Content Displayed|
 |---|---|---|---|---|
-| Authenticated Users | Disabled | No | v0 | No | No |
-| Authenticated Users | Disabled | Yes, v0 | v0 | No | No |
-| Authenticated Users | Disabled | Yes, v1 | v1 | Yes | No |
-| Authenticated Users | Enabled | No | v1  | No | Yes |
-| Authenticated Users | Enabled | Yes, v0 | v1 | Yes | Yes |
-| No-Auth Users (Pre-100% Release) | N/A | No | v0 | No | No |
-| No-Auth Users (Post-100% Release)| N/A | No | v1 | Yes | No |
+| Authenticated Users | Enabled | No | online form  | digitized | online application |
+| Authenticated Users | Enabled | Yes| online form  | digitized | online application |
+| UnAuthenticated Users | Disabled | No | Paper Form PDF | not digitized | link to PDF |
+| UnAuthenticated Users | Disabled | Yes | Paper Form PDF | not digitized | link to PDF |
+| UnAuthenticated Users | Enabled | N/A | online form  | digitized | online application |
+| Authenticated Users Post 100% Release| Enabled | Yes | online form | digitized | online application |
+| UnAuthenticated Users Post 100% Release| Disabled | Yes | Paper Form PDF | not digitized | link to PDF |
+
 
 ### This release will include the following components:
-1. Form component updates 
-2. Info alerts on the form information page letting new users know the purpose and benefit of ITF and next steps when there is a system issue.
+1. Form fields (add new fields)
+2. Form component (add new components)
+3. Accessibility updates 
+4. Info alerts
+5. Toggle to enable form
+6. Confirmation email sent to users confirming their application submission through VA.gov
 ---
 
 ## Step 1: Development
@@ -57,8 +62,7 @@ List the features toggles here.
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| pension_itf_show_alert | Enable ITF V1 alerts|
-| pension_itf_enable| Enable ITF V1 requests|
+| income_and_assets_form_enabled | Enable online form|
 
 
 
@@ -113,7 +117,8 @@ DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 
 ### Define the Rollback process
 
-Our PM and Engineer will monitor analytics. If something goes wrong, the engineering team will be on standby to disable the flippers and fall back to v1 of the form.
+Our PM and Engineer will monitor analytics. If something goes wrong, the engineering team will be on standby to disable the flippers and fall back to v1 of the form. 
+Analytics dashboard here: https://vagov.ddog-gov.com/dashboard/lists/manual/1944?q=team%3Abenefits&p=1
 
 Rollback plan:
 1. PM and Engineer monitor analytics for issues (failed submissions, traffic irregularies, unexpected errors).
@@ -122,13 +127,7 @@ Rollback plan:
    - New users will be directed to v1 of the form.
 
 ### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
-Our VFS team was advised against testing in production due to the downstream actions that submitting an application for burial benefits triggers. To migtigate the risk this poses, we will performed extensive testing in a staging environment.
-
-Completed staging test plan   
-[ITFV1 Test Plan.xlsx](https://github.com/user-attachments/files/21530941/ITFV1.Test.Plan.xlsx)
-
-[ITFV1 Regression Test Plan (1).xlsx](https://github.com/user-attachments/files/21530943/ITFV1.Regression.Test.Plan.1.xlsx)
-
+Our VFS team was advised against testing in production due to the downstream actions that submission triggers. To migtigate the risk this poses, we will performed extensive testing in a staging environment.
 
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
@@ -140,11 +139,13 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Desired date range: August 7-20, 2025
 - How will you make the product available in production while limiting the number of users who can find/access it: Flipper
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
-   - Network traffic to back end server 
-  - ITF Failure <1%
-  - ITFs created
+   - Submission volume:
+    - Canary: 10 submissions
+    - 25%/55%: >10 submissions
+  - Error rate: <1% 
+  
 - Links to the dashboard(s) showing "success criteria" metrics:
-  - https://vagov.ddog-gov.com/dashboard/4p3-ufc-kpe
+  -  https://vagov.ddog-gov.com/dashboard/lists/manual/1944?q=team%3Abenefits&p=1
 - Who is monitoring the dashboard(s)?: Product Manager (Matt Reilly) and Lead Engineer (Matt knight)
 
 
@@ -155,14 +156,16 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Planning
 
 - Length of time: 1-2 days
-- Percentage of Users (and roughly how many users you expect this to be): 50% of daily submissions, approximately 90 users
+- Percentage of Users (and roughly how many users you expect this to be): 10% of daily submissions, 10 users
 
 #### Results
 
 - Number of unique users: 
 - Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- ITF Failure <1%
-- ITFs created
+- Submission volume:
+    - Canary: 10 submissions
+    - 25%/100%: >10 submissions
+  - Error rate: <1% 
 - Was any downstream service affected by the change?: No
 - Types of errors logged:
   -  
@@ -197,8 +200,10 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 
 - Number of unique users:
 - Network traffic to back end server 
-  - ITF Failure <1%
-  - ITFs created
+- Submission volume:
+    - Canary: 10 submissions
+    - 25%/100%: >10 submissions
+  - Error rate: <1% 
 - Any issues with VA handling/processing?:  [PICK_ONE]: yes | no |  N/A
 - Types of errors logged: [FILL_IN]
 - Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes | no |  N/A
@@ -207,8 +212,10 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 ### 1-month results
 
 - Number of unique users: [FILL_IN]
- - ITF Failure <1%
-  - ITFs created
+ - Submission volume:
+    - Canary: 10 submissions
+    - 25%/100%: >10 submissions
+  - Error rate: <1% 
 - Any issues with VA handling/processing?: [PICK_ONE]: yes | no |  N/A
 - Types of errors logged: [FILL_IN]
 - Any UX changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes | no |  N/A

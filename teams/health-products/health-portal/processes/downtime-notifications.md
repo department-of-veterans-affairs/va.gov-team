@@ -96,9 +96,31 @@ If team is notified of or identifies an issue:
 - Follow [incident response procedures](https://depo-platform-documentation.scrollhelp.site/developer-docs/incident-response-documentation-for-application-te)
    - While in STEP ONE, On-call Engineer sends Slack message in #mhv-health-portal-coordination and tags MHV API/Platform (contacts TBD) with awareness of new incident
  
-#### P1 or P2
-If incident is rated P1 or P2:
-- Send multi-channel notifications:
+#### P1
+If incident is rated P1:
+- Incident Commander^ - Send multi-channel notifications:
+  - Slack message in #mhv-health-portal-coordination and tag:
+    - MHV API/Platform (contacts TBD)
+    - MHV OCTO POs and MHV OCTO Engineers (@octo-health-engineers group)
+    - Greg Kirk and Sean Good
+    - Horizon team (Slack user group TBD)
+    - Contact Center/Veteran Support (Chante, additional contacts TBD)
+  - Email to same audience as Slack
+    - OCTO forwards to respective OCC partners as necessary
+    - Contact Center/Veteran Support forwards to respective HRC and Help Desk partners as necessary
+- Continue [incident response procedures](https://depo-platform-documentation.scrollhelp.site/developer-docs/incident-response-documentation-for-application-te)
+  - While in STEP THREE, as part of the [Resolve the Issue procedures](https://depo-platform-documentation.scrollhelp.site/developer-docs/incident-response-documentation-for-application-te#Incidentresponsedocumentationforapplicationteams-Resolvetheissue), the Incident Commander works with OCTO PO to ensure that the Major Incident Management process has been triggered.
+
+Send updates to notification audience:
+- At major milestones during triage (e.g. a solution to resolve is determined, root causes have been ruled out)
+- End of each day issue is unresolved
+- When the issue is resolved
+
+^: the Incident Commander will be a product manager or engineering manager for the respective user-facing application
+
+#### P2
+If incident is rated P2:
+- Incident Commander^ - Send multi-channel notifications:
   - Slack message in #mhv-health-portal-coordination and tag:
     - MHV API/Platform (contacts TBD)
     - MHV OCTO POs and MHV OCTO Engineers (@octo-health-engineers group)
@@ -111,9 +133,10 @@ If incident is rated P1 or P2:
 - Continue [incident response procedures](https://depo-platform-documentation.scrollhelp.site/developer-docs/incident-response-documentation-for-application-te)
 
 Send updates to notification audience:
-- When a solution to resolve is determined
 - End of each day issue is unresolved
 - When the issue is resolved
+
+^: the Incident Commander will be a product manager or engineering manager for the respective user-facing application
 
 #### P3 or P4
 If incident is rated P3 or P4:

@@ -4,7 +4,7 @@
 - Reach out to #platform-security channel for questions
      - POC: Kenneth Mayo
   
-**DO NOT INCLUDE PII HERE** - AWS Instances, CI/CD, etc cannot be linked here- must be shared on VA Network
+**DO NOT INCLUDE PII HERE** - AWS Instances, CI/CD, etc cannot be linked here - must be shared on VA Network
 
 
 ### Products
@@ -28,8 +28,7 @@
           - However, this connection is not dependent between the forms.
 
 - What is the expected duration of your project? This information helps us understand how our processes need to adapt
-     - Our project (contract) is set to end 8/13/2025.
-          - Pending news of a bridge contract to take affect immediately and lasting until May 2026.
+     - Our current contract is set to end 05/13/2026.
      - Our products are intended to remain on VA.gov indefinitely
 
 ### AWS Resources
@@ -84,11 +83,12 @@
      - Google Analystics (GA)|(External)
      - PagerDuty|(External)
      - Domo|(External)
-     - Veterans Enrollment System |(Internal)
+     - Veteran Enrollment System |(Internal)
      - BEP (Formerly called BGS) |(Internal)
      - VA Lighthouse |(Internal)
 - Do you have a POC? Please list
 - Describe the encryption used for the connection in transit (e.g., Not Encrypted, TLS 1.2, TLS 1.3, mTLS). Specify the certificate source if applicable (e.g., AWS ACM, Let's Encrypt, self-signed)
+     - Veteran Enrollment System uses mTLS for the SOAP api. Platform has more info on where certs are stored. I know va.gov uses TLS 1.2 for most connections so most other calls to REST apis use that. Okta is used to get a bearer token for OAuth 2.0 authentication with MuleSoft. Mapbox, Google Analytics, and some Datadog requests are made from vets-wbsite from a web client and not vets-api like most other services. 
 - List the types of PII shared (in each direction) with this connection
      - https://github.com/department-of-veterans-affairs/vets-json-schema/blob/f1c0e22c567c1ae861dba2b1682ef5a633e48a9d/src/schemas/10-10EZ/schema.js
      - https://github.com/department-of-veterans-affairs/vets-json-schema/tree/f1c0e22c567c1ae861dba2b1682ef5a633e48a9d/src/schemas/10-10EZR

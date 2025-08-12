@@ -27,7 +27,7 @@ When PagerDuty is migrated and configured to alert engineers when something goes
 
 ### Relation to Investigator On-call
 
-In addition to on-call responsibilities for monitoring, teams also have responsibilities for handling technical questions and research that arise during sprints. See [Investigator On-Call](./investigator-oncall.md) for details.
+In addition to on-call responsibilities for monitoring, teams also have responsibilities for handling technical questions and research that arise during sprints. See [Investigator On-Call](./oncall-investigator.md) for details.
 
 ## How to respond to an alert or incident
 

@@ -1,8 +1,6 @@
-# **Product Outline: Appoint a Representative (VA Forms 21-22 and 21-22a)**
+# **Product Outline: VA Form 21a**
 
 **Team**: [Accredited Representation Management](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management) (partner team to Accredited Rep-Facing)
-
-Product URL (Staging): [Apply to become a VA-accredited attorney or claims agent](https://staging.va.gov/representative/accreditation/attorney-claims-agent-form-21a/introduction)
 
 **⚠️ Not yet in Production!**
 
@@ -149,7 +147,8 @@ Please refer to these epics, to bring VA Form 21a 5.0 into Production:
 2. [21a v4 Form Fields](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representative-facing/product-info/21a/form21a-fields-v4) 
 5. [Figma Files](https://www.figma.com/design/2afIGOMII0uRI5ck1dWo1w/ARF---Form-21a---Apply-for-Accreditation--CA---Attorneys-?node-id=616-23089&p=f&t=Gw5noDTyr2O67EmE-0) 
 6. [VA Form 21a User Flow & Planning](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1748541140818/7053ec76ed1cce9b41a8aaa04cc42e20908f20fa) (with user flow and IA notes)
-7. [Latest 21a research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/research/2025-06-ARM-Form21a-usertest) (user testing v4, and interviews with OGC to understand their process better) 
+7. [Latest 21a research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/research/2025-06-ARM-Form21a-usertest) (user testing v4, and interviews with OGC to understand their process better)
+8. [Decision and Change Log: 21a](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/product-info/21a/decision-change-log-21.md)
 
 ## **Communications**
 

@@ -239,7 +239,7 @@ _Response options: YES or NO_
 ### List the ideal completed sessions and total number and type (Veterans, caregivers, etc.) of participants for this study:
 
 - `Veterans:` **2-4**
-- `Spouses and dependent chilren:` **8-10**
+- `Spouses and dependent children:` **8-10**
 - `AT users (can be: Veterans and spouses/dependent children:` **2-4**
 - `Total:` **18**
 - `Ideal completed sessions:` **12**

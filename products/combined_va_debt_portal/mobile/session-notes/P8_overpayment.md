@@ -1,16 +1,3 @@
-# Summary from Dovetail
-
-#### Debt notification and communication
-
-The participant primarily receives debt notifications through physical mail, though they expressed a preference for also receiving email notifications for better tracking. [1]("Letters. I've always received a letter.")[2]("Not really. I mean, I guess the fact that I was only notified via ma. I guess that's one thing. Maybe if they sent me an email it'd be a little bit better.") Clear communication about payment deadlines and appeal timeframes was highlighted as important information to include in notifications. [3]("I know there's like a time frame of when some you get letters that you have like 90 days. I think it is before where you can appeal it.")
-
-#### Payment process experience and challenges 
-
-The current payment process requires switching between applications and manually recording information, creating friction in the user experience. [4]("Yeah, just switch back and forth. I'd probably write it down.") The participant noted challenges around keeping track of required payment information and suggested having copy functionality would improve the experience. [5]("maybe being able to copy doesn't let you trying to do like a copy and paste.")
-
-#### Information accessibility and organization
-
-The participant emphasized the importance of having detailed transaction information readily available, including specific months and reasons for charges. [6]("Which like for basically which month I got I'm being charged for... Or if it's like even when you go to like co payments, what off what appointment am I being charged that co payment for stuff like that") Having digital access to statements was seen as valuable for record-keeping and potential dispute purposes. [7]("Like I said, in case you have to dispute something or if there was an overcharge or anything like that.")[8]("So it's nicer than having a paper one... Keep track of. You're not going to throw it out so on accident.")
 
 
 # Notes by Perigean. Conversation Guide used as the structure for notes.

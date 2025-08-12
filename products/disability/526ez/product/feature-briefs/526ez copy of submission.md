@@ -25,7 +25,7 @@
 
 ## Outcome Summary
 > *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-* We need a way for a Veteran who has just finished submitting their 526EZ form to be able to review, save, and / or print the information they submitted on the form. While a [design system pattern](https://design.va.gov/patterns/help-users-to/keep-a-record-of-submitted-information) exists for this purpose, the single accordion breaks during technical implementation due to the length of content and data types. We are repurposing the [Review and Submit](https://design.va.gov/templates/forms/review) template with multiple accordions on the page for our “Keep a record of submitted information” page. 100% of Veterans should have the opportunity to save a copy of their submission.
+* We need a way for a Veteran who has just finished submitting their 526EZ form to be able to review, save, and / or print the information they submitted on the form. We are going to implement the [Keep a record of submitted information pattern](https://design.va.gov/patterns/help-users-to/keep-a-record-of-submitted-information). 100% of Veterans should have the opportunity to save or print a copy of their submission.
 
 ## Problem
 > *Describe the challenge / pain point you seek to address.:* 
@@ -69,11 +69,9 @@ This initiative would improve trust and transparency in the disability benefits 
 *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
 
 - Deliver a consistent UX that meets the design system's intent while functioning correctly with long, complex data submissions.
-- Provide self-service capabilities that reduce number of calls to the call center.
 
 ## Undesired Business Outcomes
 
-- Increased support calls or emails from Veterans asking for confirmation or copies of their submitted claim information.
 - Reduced trust in VA online services if Veterans feel the system does not provide a complete or reliable record.
 - Failure to meet internal guidelines or accessibility standards for “keeping a record of submitted information.”
 - An inconsistent user experience in how Veterans can access or print their submitted information across different forms or services, leading to confusion.
@@ -87,7 +85,8 @@ This initiative would improve trust and transparency in the disability benefits 
 > 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
 - Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
-The Platform Analytics team is currently working to create a GA4 and Domo dashboard for us. 
+The Platform Analytics team is currently working to create a GA4 and Domo dashboard for us.
+The Platform Design System team has analytics on how many users download and print the information within the accordion (~25-30%) and can be seen in [this thread](https://dsva.slack.com/archives/C01DBGX4P45/p1754516995332259?thread_ts=1754412011.167569&cid=C01DBGX4P45). 
 ---
 
 ## Discovery
@@ -96,24 +95,20 @@ The Platform Analytics team is currently working to create a GA4 and Domo dashbo
 > Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
 **Value Risks** (will people use it): 
-- Veterans may not notice or access the "Keep a record of submitted information" page after submitting their claim.
-- If printing or saving requires manual steps (e.g., opening all accordions), Veterans may abandon the task.
+- Veterans may not select the "Print a copy of your form" button.
 
 **Validation approach**
-- Usability testing with "fresh eyes" internal testers or Veterans (if time allows) immediately after submission to assess discoverability and perceived usefulness.
-- Surveys or analytics tracking on how often the page is viewed, printed, or saved.
+- The Platform Design System team has analytics on how many users download and print the information within the accordion (~25-30%) and can be seen in [this thread](https://dsva.slack.com/archives/C01DBGX4P45/p1754516995332259?thread_ts=1754412011.167569&cid=C01DBGX4P45). 
+- Prior to launch: Usability testing with "fresh eyes" internal testers to understand how users percieve the page and if the instructions are clear.
+- After launch (long term): Analytics tracking on how often the page is viewed, printed, or saved.
 
 **Usability Risks** (can people figure out how to use it):
-- Veterans may get confused by the "Keep a record of submitted information" page because it will have the same layout as the "Review and Submit" page.
-- Veterans may not understand that all accordions must be opened before printing or saving, resulting in incomplete records.
-- Multi-accordion layout may feel overwhelming or hard to navigate, especially with long data sets.
-- Accessibility issues (screen readers, keyboard navigation) may make expanding or reviewing all data difficult.
+- Information architecture (header levels) within that organize the information within the accordion may be challenging to skim/follow since the information has multiple levels of nesting.
 - Veterans may not realize that they will not be able to access a copy of their submission once their session has ended. 
 
 **Validation approach**
-- Usability testing with "fresh eyes" internal testers or Veterans for clarity of instructions and ease of navigation.
-- Accessibility audits following WCAG 2.1 AA and VA standards.
-- A/B testing of different instructions or default-open accordions.
+- Prior to launch: Usability testing with "fresh eyes" internal testers to understand how users percieve the page and if the instructions are clear.
+- After launch (long term): Analytics tracking on how often the page is viewed, printed, or saved.
 - Testing specifically on the content that relays to the user that they will not be able to access a copy of their submission after they end their session. 
 
 **Technical Feasibility Risks** (can we build it with available tech/data):
@@ -129,9 +124,7 @@ The Platform Analytics team is currently working to create a GA4 and Domo dashbo
   
 **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
 (Examples: VA stakeholder testing, marketing, compliance requirements) 
-- Platform may reject deviation from the existing design system pattern.
 - Limited engineering resources could delay implementation or ongoing maintenance.
-- Inconsistent approaches across other VA forms could create fragmented experiences if this pattern is unique.
 
 **Validation approach**
 - Early stakeholder reviews (experimental design request, collab cycle, ongoing conversations with OCTO enabling partners) to confirm alignment with VA standards.
@@ -140,17 +133,15 @@ The Platform Analytics team is currently working to create a GA4 and Domo dashbo
 ### Supporting research
 
 *Is this work supported by user research?* If this work is **not supported by existing user research**, will this work include user research?*
-Since the pattern that we are using is an existing pattern in the design system, we are assuming that it will already be meet accessibility standards and some usability needs. However, we do intend on validating the use of this pattern for the Keep a Record of Submitted Information page and are still in the process of determining what would be the best approach (internal "fresh eyes" testing and/or user research).  
+- The pattern is an existing pattern in the design systemthat is supported by user research.  
 
 *If this work **will include user research**, please briefly state what you hope to learn from that research.*
-We are still in the process of determining what we would like to conduct research on, but here are some key questions we have: 
-- Whether the accordions should be opened by default or whether users will click a link that says "Expand all accordions"
-- If users are confused by the fact that the pattern is also used on the previous page in the flow (Review and Submit page).
+We will still conduct light internal testing using the staging environment to test the following: 
 - Whether users understand how to save the HTML copy of their submission.
 - Whether users understand how to print the HTML copy of their submission.
-- Any pain points in printing the HTML copy of their submission via default browser functionality. 
+- Any pain points in printing the HTML copy of their submission via default browser functionality.
+- If users understand that the copy of their submission will not persist beyond their session.
 - Whether the visual hierarchy provided on the page via the accordions as well as the visual hierarchy within the accordions supports the user in clearly understanding the information they submitted. 
-- Any pain points that users using screen readers might experience. 
 
 ### What're you building?
 
@@ -166,7 +157,7 @@ We are still in the process of determining what we would like to conduct researc
 I am not sure.
 
 > *How does this solution address your Assumptions & Risks?*
-The solution we are proposing is currently the quickest and lowest lift option for us to provide users with a copy of their form submission. We will need to validate the design in order to address the assumptions and risks. 
+The solution we are proposing is aligned with the Platform Design System and is the quickest and lowest lift option for us to provide users with a copy of their form submission.
 
 #### Go-to-market 
 

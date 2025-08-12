@@ -62,32 +62,41 @@ Each participant saw the introduction page to the 10-10D/10-7959c forms, complet
 
 ## Hypotheses and Conclusions
 
-*List hypotheses explored in the research and the conclusions drawn. If applicable, list the success or task completion rate.*
-
-> [!TIP]
-> Place true or false statements in bold for easier scanability
-
-- **Hypothesis Statement:** [Insert statement]  
-  - **"Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”**  
-  - Supporting evidence  
-
-[Example Hypotheses and Conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)
-
 1. When filling out the merged 10-10D/10-7959c, users will have faster completion times when compared to cumulative completion times from the standalone 10-10D and 10-7959c.
 
-2. Users will be able to easily orient themselves around the transition between the 10-10D and 10-7959c.
+    - **NOT ENOUGH INFORMATION**
+    - The team will need to monitor the 10-10D/10-7959c form in production to compare against standalone form times.
+    - While users did not struggle with the length of the merged form, 4 users reported that the form felt "tedious," and 6 of 18 reported that the questions were repetitive to the point of confusion.
 
-3. Users will prefer to complete the 10-7959c as part of their CHAMPVA application, as opposed to a separate, standalone form.
+3. Users will be able to easily orient themselves around the transition between the 10-10D and 10-7959c.
 
-4. New instructions, examples, and directions for uploading necessary and required supporting evidence will provide relevant assistance as the user navigates the forms.
+    - **LIKELY TRUE**
+    - Participants did not have difficulty navigating the 10-7959c subform within the 10-10D, but they also struggled to identify content about the 10-7959c subform throughout the test.
 
-5. Veterans will understand that there is separate upload sections for applicant information and OHI, and avoid duplicate uploads/entries.
+5. Users will prefer to complete the 10-7959c as part of their CHAMPVA application, as opposed to a separate, standalone form.
 
-6. The v3 file upload component will provide visual validation of complex file uploads, like front/back of Medicare and Private Health Insurance cards
-  i. NOT ENOUGH INFORMATION: We were unable to implement the v3 upload component in time for testing   
+    - **LIKELY TRUE**
+    - 3 participants who are current CHAMPVA beneficiaries stated that the online form was a better overall experience than the paper/PDF application. 
 
-7. The v3 component will help users identify if they have provided all necessary evidence before submitting.
-  i. NOT ENOUGH INFORMATION: See above.
+7. New instructions, examples, and directions for uploading necessary and required supporting evidence will provide relevant assistance as the user navigates the forms.
+
+    - **MAYBE TRUE**
+    - 15 of 18 participants said that the content on the intro page made them feel "informed" or "very informed" about the 10-10D/10-7959c application, and 12 of 18 participants reiterated at the end of the test session that the amount of information they saw throughout the application was "just right."
+
+9. Veterans will understand that there is separate upload sections for applicant information and OHI, and avoid duplicate uploads/entries. 
+
+    - **DEFINITELY TRUE**
+    - 18 of 18 participants understood what supporting documentation was being asked for in the applicant and OHI sections. Only 2 participants had issues with uploading files in the form, due to Staging crashing, and due to an issue with the participant's iPad device.
+    - 2 participants specifically called out the ease of uploading supporting documentation as part of what made the 10-10D/10-7959C easy overall.
+
+10. The v3 file upload component will provide visual validation of complex file uploads, like front/back of Medicare and Private Health Insurance cards
+  
+    - **NOT ENOUGH INFORMATION**
+    - We were unable to implement the v3 upload component in time for testing. We will test this component in a future study.   
+
+8. The v3 component will help users identify if they have provided all necessary evidence before submitting.
+    - **NOT ENOUGH INFORMATION**
+    - We were unable to implement the v3 upload component in time for testing. We will test this component in a future study.      
 
 
 
@@ -102,33 +111,68 @@ Each participant saw the introduction page to the 10-10D/10-7959c forms, complet
 
 [Example Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)
 
-**1.** Finding one
+**1.**  Most participants (14 of 18) self-reported that the 10-10D/10-7959c form was "easy" or "very easy."
 
-**2.** Finding two
+**2.** Participants had mixed understanding about the supporting documentation required to submit their 10-10D/10-7959c application, based on the content on the Introduction page of the form. 
 
-**3.** Finding three
+**3.** Participants struggled with terms used to designate the person filling out the application ("Signer"), the Veteran ("Sponsor"), and their dependents ("Applicants"). This confusion resulted in duplicative and incorrect data entry in the Signer, Sponsor and Applicant sections of the application, which may result in applications being delayed or denied.
 
-**4.** Finding four
+**4.** Many participants expresssed confusion about the Medicare (9 of 18) and health insurance (9 of 18) sections of the 10-7959c Other Health Insurance (OHI) subform.
 
-**5.** Finding five
-
-**6.** Finding six
-
-**7.** Finding seven
+**5.** Participants had expectations about the submission and post-submission application process that would make them feel more confident their application was received and being processed. 
 
 
 ## Details of Findings 
 
-*Provide detailed descriptions and supporting evidence for each key finding.*  
+**Finding 1:**  Most participants (14 of 18) self-reported that the 10-10D/10-7959c form was "easy" or "very easy."
+In self-reported ease of use ratings, aspects of the form that participants said made it easy were:
+  - The overall flow (10 of 18)
+  - Easy-to-read pages (5 of 18)
+  - Inter-form navigation (3 of 18), and
+  - Ease of uploading supporting documentation (2 of 18)
+      
+Requested changes to the flow and content of the 10-10D/10-7959c were minimal. 6 of 18 users specifically requested tweaks to the overall content of the form to make submitting the CHAMPVA application easier. Areas for improvement included:
+  - Improved terminology about Sponsors and Applicants (4 of 18)
+  - "Spelling out" the forms instead of relying on VA form numbers on the Intro page and slim header (3 of 18)
+  - More information about the CHAMPVA program (2 of 18)
+  - Streamlining repetitive or "redundant" pages (2 of 18)
 
-**Finding 1:**  
-Brief description  
 - _Supporting data: Quote [add context]_  
 - _Supporting data: ![text](link - add image to github folder and link here with .png)_  
 
-**Finding 2:**  
+**Finding 2:**  Participants had mixed understanding about the supporting documentation required to submit their 10-10D/10-7959c application, based on the content on the Introduction page of the form. 
+
+- On the Introduction page, users struggled to understand fully the breadth of information and supporting documents required to complete the CHAMPVA application. Based on the introduction page, users expected they would need:
+  - Veteran and dependent information (12 of 18)**
+  - Health insurance information (6 of 18)**
+  - Veteran military information, like branch of service, service dates, and DD-214 (6 of 18)
+  - Financial information like most recent tax statement or estimated income (3 of 18)
+  - School letter or enrollment verification (1 of 18)**
+  - Residency and location, assuming it has a bearing on eligiblity for benefits (1 of 18)
+
+**  Indicates information required by the 10-10D/10-7959c application
+
+- Crucially, the confusion about required information and supporting documents on the introduction page meant that users were unprepared to provide key documentation as part of the Applicant and Other Health Information subsections of the form:
+  - Of the 5 participants who saw the School Enrollment portion of the Applicant loop, 4 said they would have to stop the form to call their dependents' school to request an enrollment letter.
+    - The remaining participant who saw the school enrollment page assumed that the requirements for this document were identical to other VA education benefits and did not stop to verify if they would need additional information for the CHAMPVA application.
+  - 12 of 18 participants did not recall if health insurance information was mentioned on the Introduction page, when they reached the Other Health Insurance subsection of the application.
+    - 11 of 18 participants said they would have to pause the form at the Other Health Insurance section, because they did not know to gather Medicare and Health Insurance cards prior to starting the form.
+    - Notably, 1 participant was confused about whether they needed the Veteran's health insurance information, or just applicants'.
+    - Another participant mentioned feeling "catfished" or like a "bait and switch" occurred at this point in the form, and went back to the Introduction page to verify that health insurance information hadn't been asked.
+ 
+- 9 of 18 users said they would click on the link on the introduction page to verify their assumptions about required supporting documents, and to make a plan to gather everything before starting the application.
+
 Brief description  
 - _Supporting data: Quote [add context]_  
+
+**Finding 3:**   Participants struggled with terms to designate the person filling out the application ("Signer"), the Veteran ("Sponsor"), and their dependents ("Applicants"). This confusion resulted in some duplicative and incorrect data entry in the Signer, Sponsor and Applicant sections of the CHAPMVA application, which may result in applications being delayed or denied.
+
+**Finding 4:**   Many participants expresssed confusion about the Medicare (9 of 18) and health insurance (9 of 18) sections of the 10-7959c Other Health Insurance (OHI) subform.
+
+
+
+**Finding 5:**   Participants had expectations about the submission and post-submission application process that would make them feel more confident their application was received and being processed. 
+
 
 ---
 

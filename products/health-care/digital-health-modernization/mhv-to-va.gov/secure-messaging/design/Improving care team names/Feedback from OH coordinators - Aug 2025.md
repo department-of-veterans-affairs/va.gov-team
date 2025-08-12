@@ -36,18 +36,27 @@ Sylvia Palmer sent coordinators these three questions on 7/31. Two coordinators 
 - Coordinator A: Pharmacy renewal, there may be no pools in dropdown menu and they don’t read type in “two or more characters” to locate pool 
 - Coordinator A: Fear of trying it. It looks complicated and they are timid using it. 
 - Coordinator B: Veterans have no way of knowing who their Care Team is in the patient portal. 
--	Coordinator B: The search isn't only isolated to the VA that the veteran is assigned to unfortunately they can see all “go live” sites that causes more frustration and can be extremely overwhelming. 
--	Coordinator B: The sign in process in general is overwhelming, cumbersome, and confusing for most of our veterans. The fact that they get ID.Me, Login.gov, VA.gov,  My VA Health and MyHealthyeVet all mixed up. The veterans sometimes don't understand how each one of those work together in order for them to get to the patient portal just to send a message in the first place. 
+- Coordinator B: The search isn't only isolated to the VA that the veteran is assigned to unfortunately they can see all “go live” sites that causes more frustration and can be extremely overwhelming. 
+- Coordinator B: The sign in process in general is overwhelming, cumbersome, and confusing for most of our veterans. The fact that they get ID.Me, Login.gov, VA.gov,  My VA Health and MyHealthyeVet all mixed up. The veterans sometimes don't understand how each one of those work together in order for them to get to the patient portal just to send a message in the first place. 
+
+### Follow-up: What makes the ticketing process challenging right now?
+- Coordinator A:
+   - 1.	Tickets are worked on by multiple staff and some new, and sometimes the tickets are completed incorrectly.  Early on it took a long time for completion of the ticket or sometimes the ticket was closed and not completed. But that has improved.  There is one POC that is wonderful [name] is my go-to when I submit a ticket. I can send him an email and he follows up.  
+   - 2.	If you have multiple pools that need modification, I have learned to submit individual tickets for each.  
+   - 3.	Submitting tickets for removing and adding providers:  Currently for [location], our PACTs and Providers have changed significantly and the ticket process is time consuming.  With veteran facing pools the ticket is very specific and inclusive of the veteran friendly name with the provider’s name pool and then the veteran facing PACT Pool name, then the routing rule, and then of course the medication renewal for pharmacy as well.  
+- Coordinator B: The ticketing process is frustrating as it doesn't go directly to Cerner Oracle. It goes to our informatics team(s) first. they then will decide if it moves on to Cerner or they keep it. Once it moves on to Cerner, the Cerner reps don't see the ticket the way we enter it. Meaning on our end it looks like it is step by step and easy to find the answer of what we are wanting. But when Cerner Oracle receives our ticket, it is one gigantic paragraph with everything smashed in. They then have to read through that and find out what the ‘ask’ is. Sometimes which is about 70% of the time they won't take the time to read the ticket they just reach out to us. Even if we are extremely detailed (and sometimes tickets get kicked back).  One of the biggest challenge is not having the ability to do simple things and having to put in a request that sometimes takes a week or two. 
+
+### Follow-up: What guidance do you have on building a pool, if any, right now?
+- Coordinator A: 1.	No real guidance: I learned from the other Coordinators and some of the Cerner staff gave a little guidance on how they would like the ticket worded.  I do remember being asked to submit tickets for non-veteran facing pools because staff were submitting pool tickets incorrectly or staff were submitting tickets for veteran facing pools without speaking with the coordinator first.
+- Coordinator B: There is no set guidance on how to build a pool. Coordinators just help each other out and show how we each individually do it and the coordinator then develops their own flow.
+
+### Follow-up: Around what percentage of pools you create would you say are non-Veteran facing? And about what percentage is Veteran-facing?
+- Coordinator A: 1.	It all depends, a few months ago some feature of Cerner was removed in Powerchart (block [#] update) and staff no longer had the ability to coordinate referrals as before, so several departments wanted new pools for community care referrals.  But the majority of the tickets are veteran facing are about 90%.  I try to discourage adding more pools if not really necessary.
+- Coordinator B: This question is a little bit harder to answer as other VA staff can request to open a pool. It's not just the coordinators. AO's can put in the request as well as supervisors. We don't always have knowledge. But I’ll guess it's probably 60% patient facing and 40% internal
 
 ## Notes
 Themes that stand out
 - Ticketing
 - Guidance
 - Updating providers
-- 
-
-- What makes the ticketing process challenging right now?
-- What guidance do you have on building a pool, if any, right now?
-- Around what percentage of pools you create would you say are non-Veteran facing? And about what percentage is Veteran-facing?
-- 
-- 
+- Veteran vs. Non-Veteran pools

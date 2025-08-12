@@ -41,7 +41,10 @@ The mobile app does not have any debt-related information for Veterans to access
 
 * Total number of views of benefit overpayments and medical copayments. We expect this to be a non-zero amount and will increase once overpayments and copayments are viewable in the app. We will track the total number of views on a monthly basis.  
 * Overall app volume. We expect an increase in overall app volume as benefit overpayments and medical copayments debt information are implemented within the app. We will track the overall app volume on a monthly basis.  
-* Total number of clicks on the link to access VA.gov. We expect that Veterans will want to make a payment towards their benefit overpayment and medical copayment debts, and that this non-zero amount will increase. We will track the total number of clicks on the link to access VA.gov on a monthly basis. 
+* Total number of clicks on the link to access VA.gov. We expect that Veterans will want to make a payment towards their benefit overpayment and medical copayment debts, and that this non-zero amount will increase. We will track the total number of clicks on the link to access VA.gov on a monthly basis.
+* Total number of downloads of the PDF Copayment statements. We expect this to be a non-zero amount and expect that Veterans who have any copayment bills will want to view the PDF. We will track the total number of views on a monthly basis.
+* Total number of error alerts shown to the user. We will want to track this metric to ensure that everything is functioning as intended and that if we see a high volume of errors, there is a problem that will need to be addressed. We will track the total number of errors on a monthly basis. 
+* Total number of clicks on the empty state of benefit overpayments and medical copayments. We expect this to be a non-zero amount and want to track this as a metric to assess the design, and not a metric determining the success of the debt feature itself.  
 
 ### Supporting OCTO OKRs:
 
@@ -86,4 +89,31 @@ O1: VA’s digital experiences are the easiest and most efficient way to access 
 |5/21/2025| We will not include notifications as part of MVP. | The decision was made at our VA/PO sync with Ryan Thurlwell and Michelle, to include notifiactions when we release a different Debt Service feature, such as when Veterans are able to make a payment for their debts within the app.| 
 |6/12/2025| Veterans who need to pay an overpayment bill will be linked directly to www.pay.va.gov. | This discussion occurred since the MFS team found out that www.pay.va.gov will eventually go away and overpayment bills will eventually be paid in pay.gov. As of today, no timeline has been provided for when the transition will be finalized. This decision was made in the Financial Management OCTO Slack by Denise.| 
 |6/30/2025| MVP Payment options will be in browser view.| This decision occurred during the Core Mobile Office Hours. Jonathan provided guidance that if a Veteran does not need to be authorized, it will be displayed in the browser view and will follow these guidelines to maintain consistency for Veterans.| 
+
+## Reference Materials
+
+## Communications
+
+<details>
+
+- Team Name: Mobile Feature Support   
+- Slack channel: \#mobile-feature-support-public   
+- Product POCs:  
+  - Michelle Middaugh, VA Product Owner, Mobile Feature Support  
+  - Ryan Thurlwell, VA Lead, VA Mobile App
+  - Denise Coveyduc, VA Product Owner, Financial Management Team
+ 
+
+</details>
+
+## Stakeholders 
+
+#### Team Members
+
+<details>
+   
+ - PM: Natalie Gibbons  
+ - Engineering: Alex Teal  
+ - Design: Natasha Huckleberry
+ - Research: Emily DeWan
 

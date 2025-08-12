@@ -1,0 +1,7 @@
+On August 6 2025 we were told that vaNotify was going to start rotating its keys every 180 days.
+
+They are building a self service portal that will allow us to generate our own keys.  
+
+The process will involve generating a key, and updating the params in AWS param store.
+
+  Will update here with specific details once we have access to the portal. It will be accessed through VA slack cag
