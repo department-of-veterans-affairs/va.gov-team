@@ -25,12 +25,10 @@ Lindsay Li-Smith, Product Manager
 2. How do OGC staff currently communicate application status, denials, and requests for additional information to applicants, and what improvements could be made to these notification processes? 
 3. What are the most common reasons for application denials or delays? 
 
-
-Methodology 
+### Methodology 
 Semi-structured interviews. The interviewer will ask the participants a series of questions to understand OGC’s current experiences with accepting and processing Form 21a. 
 
-Hypotheses and Conclusions 
-
+## Hypotheses and Conclusions 
 
 * Hypothesis Statement: 
     Applicants and OGC staff experience significant challenges and inefficiencies with the current VA Form 21a digital accreditation process. 
@@ -93,7 +91,7 @@ Hypotheses and Conclusions
             * This highlights that guiding users with required fields can improve application quality. 
 
 
-Key Findings 
+## Key Findings 
 
 * Manual Contact Information Updates 
 * Centralized but Decentralized Inquiries: 
@@ -102,7 +100,7 @@ Key Findings
 * Applicant Notification of Public Information 
 
 
-Details of Findings 
+## Details of Findings 
 
 1. Finding: Manual Contact Information Updates 
     The process for updating contact information for accredited representatives (attorneys, claims agents, and VSOs) is largely manual. Attorneys and claims agents can send emails, faxes, or mail, while VSO representatives require their certifying official or assistant to initiate the request. 
@@ -141,7 +139,7 @@ Details of Findings
 * Supporting data: "So in the approval email, that language is contained in there. Okay. That their contact information is contained. We tell them they need to verify it, and if they want to change it, we give them instructions on how to do it." (0:24:32) 
 
 
-Additional Insights 
+## Additional Insights 
 
 1. Insight: Challenges with Inconsistent System Functionality 
     The OGC's database (GC laws) has inconsistent functionality between its web and desktop versions, particularly regarding displaying multiple email addresses. This inconsistency can make it difficult for staff to determine what information is accurately displayed or utilized by the system. 
@@ -152,7 +150,7 @@ Additional Insights
     OGC has significantly improved the efficiency of their application processing (saving about 20% of processing time) by delaying character reference checks until after applicants pass the exam. This change was implemented because a large percentage (60%) of applicants were not passing the exam, making early character reference checks a wasted effort. 
 
 
-Recommendations 
+## Recommendations 
 
 1. Develop a self-service portal for contact information updates 
     Allow accredited representatives (attorneys, claims agents, and VSOs) to directly update their contact information (email, phone, address, and potentially name changes) through a secure online portal. This would significantly reduce the manual effort currently required by OGC staff and improve the accuracy and timeliness of the data. The portal should clearly indicate which information is publicly displayed and allow users to set preferences (e.g., preferred business address over home address). 
@@ -214,7 +212,7 @@ Recommendations
 
 
 
-Product User and Business Outcomes 
+## Product User and Business Outcomes 
 
 
 1. Desired User Outcome 
@@ -257,8 +255,8 @@ These KPIs help assess efficiency, system reliability, and user experience impro
 
     * Collect and analyze applicant satisfaction through surveys or feedback, using a Customer Satisfaction (CSAT) score. 
 
-Next Steps 
 
+## Next Steps 
 
 1. Review the Claims Agent Checklist 
     Your team needs to thoroughly review the "CNF agent checklist from May 7th" that Nate mentioned. This checklist is expected to provide insights into what OGC looks for in quality applications and potential "if-then" scenarios. 
@@ -269,7 +267,7 @@ Next Steps
     To facilitate ongoing continuous learning with OGC, a structured feedback loop and regular knowledge-sharing sessions should be established. This would involve collecting feedback from paralegals and attorneys on common application issues and "red flags" encountered, especially concerning the new digital forms and updated checklists. 
 
 
-Further research needed 
+## Further research needed 
 
 
 1. Investigate the impact of the inconsistent GC Laws functionality 
@@ -284,7 +282,7 @@ Further research needed
 
 
 
-Appendix 
+### Appendix 
 [Product Outline]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/product-info/21a/product-outline-21a.md) 
 [Research plan]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/2025-06-ARM-Form21a-usertest/21a%20v4%20Research%20Plan.md) 
 [Conversation guide]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/2025-06-ARM-Form21a-usertest/21a%20Convo%20Guide%20%E2%80%93%201%20OGC%20Interview%20(Exploratory).md) 
