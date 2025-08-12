@@ -36,7 +36,17 @@ We currently have multiple search solutions in place across various experiences 
 Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
 ---| ---| ---| ---
 Relevancy | | |
-Response time | | |
+Performance | | |
+
+**Search relevancy**
+- No results queries and frequency
+- Returning high demand results
+- Accuracy of results
+
+**Performance**
+- Response time
+- Indexing - # of pages indexed, time to index new or updated content
+
 
 
 ## Discovery
