@@ -157,14 +157,14 @@ Key quotes:
 **Additional Insights 1: Participants found the flow easy to use, reinforcing patterns from previous studies around clarity and supportive UI elements.**
 - All participants had recently used VA.gov.
 - Every section of the form has several participants, indicating the form is clear and straightforward.
-- Like [past studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Priority%20Group%20and%20Financial%20Disclosure/research-findings.md), many participants responded positively to the save-in-progess messages, hint text, pre-fill, and additional information component.
-  - 7 participants expanded the additional information component to read the description, with 5 expilicity indicating it is helpful.
-  - 6 participants mentioned that the save-in-progess alert is good.
+- Like [past studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Priority%20Group%20and%20Financial%20Disclosure/research-findings.md), many participants responded positively to the save-in-progress messages, hint text, pre-fill, and additional information component.
+  - 7 participants expanded the additional information component to read the description, with 5 explicitly indicating it is helpful.
+  - 6 participants mentioned that the save-in-progress alert is good.
  
 Key quotes:
 
 - *P1: "I would be zipping through this. This isn't rocket science, really".*
-- *P9: "These dropdown boxes are awesome". (re: additional information component*
+- *P9: "These dropdown boxes are awesome". (re: additional information component)*
 
 **Additional Insight 2: Participants prefer the online experience over the phone for making updates.**
 - 3 participants expressed a clear preference for self-service editing over calling, citing long wait times and complicated menus.
@@ -179,7 +179,7 @@ Key quote:
 - 3 participants expect an option for spouse address to match the Veteran's address, not realizing this is a conditional flow.
 
   - *P4: "If your spouse's address is different from the Veterans, you know, then give me this option (to edit)".*
-  - Note: For the user to see the Spouse Address page, they must selected "No" for "Do you currently have the same address as your spouse?". But since it is a Figma prototype, the "No" was pres-select some some participants was not aware of this conditional flow.
+  - Note: For the user to see the Spouse Address page, they must select "No" for "Do you currently have the same address as your spouse?". But since it is a Figma prototype, the "No" was pre-selected and some participants were not aware of this conditional flow.
 
 Key quotes:
 - *P1: "None of this would be pertinent to me".*
@@ -193,7 +193,7 @@ Key quotes:
 
 **Recommendation 2: Optimize the health care flow to be more aligned with the Veteran's mental model**
 - Change the Marital Status option from the dropdown to radio buttons. 
-- Update the Veteran's personal information box from using the address block to the white box with black border. 
+- Update the Veteran's personal information box from using the address block to the white box with a black border. 
 
 **Recommendation 3: Optimize Confirmation Flow (Option Red)**
 - Adopt or hybridize the Confirmation Flow. Participants like the efficiency features of Option Red, such as the gray box reference, minimal toggle, and more condensed presentation of information.
@@ -205,7 +205,7 @@ Key quotes:
 
 **Recommendation 5: Explore ways for Va.gov to be in better alignment with the Veteran's mental model**
 - Explore integration with VA Profile to prefilled personal information through the health care process.
-- Explore ways to redesign the stepper component that could be incorprate by the larger OCTO team, such as the task list or percentage stepper component. 
+- Explore ways to redesign the stepper component that could be incorporated by the larger OCTO team, such as the task list or percentage stepper component. 
 
 **Recommendation 6: Prototype Testing considerations**
 - Improve scenario clarity in Figma-based testing (such as limiting it only to Veterans with Disability Rating under 50%).
@@ -216,7 +216,7 @@ Key quotes:
 - **Desired User Outcome**
   - Veterans experience a faster, more efficient application process by being able to review and edit their Household information in a consolidated view, rather than navigating through page-by-page updates. This reduces the time and effort required to complete the 10-10EZR form, leading to greater satisfaction and fewer barriers to completion.
  
-- **Deisred Business Outcome**
+- **Desired Business Outcome**
   - The VHA receives more accurate and up-to-date household data from Veterans, as the streamlined “review and edit” approach encourages thorough review and correction of information. This improves data quality for healthcare eligibility and resource planning, ultimately supporting better decision-making and service delivery.
 
 
