@@ -68,14 +68,17 @@ Response time | | |
 ### What're you building?
 
 > *What's in scope for you to build with this initiative? Describe key features/flows.*
-- Stand up a POC search experience for Resources and support using Amazon Kendra that showcases the service's ability to
+- Stand up a POC search experience for Resources and support using Amazon Kendra
   - return relevant results for simple queries and more complex natural language queries
   - allow for filtering of results based on facets/tagging system created in Drupal
   - display results within a custom front-end experience
-- Stand up POC within Find a form experience to showcase the service's ability to
+- Stand up POC within Find a form experience 
   - connect to additional data source other than an xml sitemap and serve both results that may or may not include a web page link
-  -  
+  - display results within a custom front-end experience
 - Stand up POC for sitewide search
+  - return relevant results for simple queries and more complex natural language queries
+  - allow switching to scoped search to provide targeted results from find a form
+  - display results within a custom front-end experience 
 
  
 > *What have you explicitly decided to **not** include and why?*
