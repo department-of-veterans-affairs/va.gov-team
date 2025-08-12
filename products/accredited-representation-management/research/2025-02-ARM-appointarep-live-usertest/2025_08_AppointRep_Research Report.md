@@ -35,57 +35,54 @@ Lindsay Li-Smith, Product Manager
 
 ## Hypotheses and Conclusions
 
-**1.**          **Hypothesis Statement:** Veterans will be able to successfully navigate Appoint a Representative through tested patterns and informative content.
+**1.** **Hypothesis Statement:** Veterans will be able to successfully navigate Appoint a Representative through tested patterns and informative content.
 
-•             **Inconclusive;** The Veterans had mixed success navigating the "Appoint a Representative" tool, with some patterns and content proving effective, while others presented challenges.
+• **Inconclusive;** The Veterans had mixed success navigating the "Appoint a Representative" tool, with some patterns and content proving effective, while others presented challenges.
 
-**2.**          **Hypothesis Statement:** Veterans will clearly understand whether the process concludes with a PDF or digital submission, as well as the next steps to take upon completion.
+**2.** **Hypothesis Statement:** Veterans will clearly understand whether the process concludes with a PDF or digital submission, as well as the next steps to take upon completion.
 
-•             **Likely False**; The Veterans were **not** able to clearly understand whether the process concludes with a PDF or digital submission.
+• **Likely False**; The Veterans were **not** able to clearly understand whether the process concludes with a PDF or digital submission.
 
 ## Key Findings**
 
-**1.**        **Challenges with VA.gov login/identity verification (ID.me)**
+**1.** **Challenges with VA.gov login/identity verification (ID.me)**
 
-**2.**        **Unfamiliarity with the Find a Representative tool**
+**2.** **Unfamiliarity with the Find a Representative tool**
 
-**3.**        **Preference for electronic form submission over print/mail**
+**3.** **Preference for electronic form submission over print/mail**
 
 ## Details of Findings**
 
-**1.**        **Finding:** Challenges with VA.gov login/identity verification (ID.me)
+**1.** **Finding:** Challenges with VA.gov login/identity verification (ID.me)
 
 Both participants experienced difficulties with the login process on VA.gov. Participant 01 struggled significantly with ID.me setup due to poor camera quality on their government-issued phone, eventually needing to buy a new phone. Participant 03 noted issues with the system being down for updates and confusion regarding various login methods, indicating a desire for a more streamlined experience.
 
-•             **Participant 01:** "ID me was harder to set up because I had a terrible phone (camera), you know, you have to send the front back of your ID card, driver's license. And it took me forever to finally get it, I, I tell you what I did, I actually bought another phone."
+  • **Participant 01:** "ID me was harder to set up because I had a terrible phone (camera), you know, you have to send the front back of your ID card, driver's license. And it took me forever to finally get it, I, I tell you what I did, I actually bought another phone."
 
-•             **Participant 03:** "Yeah, sometimes it's down or you'll get messages. They're doing updates. Or maybe that's more so on the weekends, which is sometimes when I try Vet Healthy Vet is the login is going away. Right. There's a login that's changing soon. Correct."
+  • **Participant 03:** "Yeah, sometimes it's down or you'll get messages. They're doing updates. Or maybe that's more so on the weekends, which is sometimes when I try Vet Healthy Vet is the login is going away. Right. There's a login that's changing soon. Correct."
 
-**2.**        **Finding:** Unfamiliarity with the Find a Representative tool
-
+**2.** **Finding:** Unfamiliarity with the Find a Representative tool
 Neither participant was aware that VA.gov offered a tool to find and appoint a representative. Participant 01 stumbled upon it via a link provided by their attorney, and Participant 03 explicitly stated they "didn't know that was available in va.gov," having previously searched for agents via Google. This suggests a possible discoverability issue with the new tool.
 
-·       **Participant 01:** "To be honest, honest with you, I never, I never got to that point." (When asked if they considered using VA.gov to find an attorney)
+  ·**Participant 01:** "To be honest, honest with you, I never, I never got to that point." (When asked if they considered using VA.gov to find an attorney)
 
-·       **Participant 03:** "I don't, I didn't know that was available in va.gov. I don't know if I overlooked it or what Now I'm curious."
+  ·**Participant 03:** "I don't, I didn't know that was available in va.gov. I don't know if I overlooked it or what Now I'm curious."
 
-**3.**        **Finding:** Preference for electronic form submission over print/mail
-
+**3.** **Finding:** Preference for electronic form submission over print/mail
 Both participants expressed a strong preference for electronic signatures and online form submission. Participant 01 highlighted the convenience, speed, and direct transmission to the VA for back pay purposes. Participant 03 also appreciated the idea of electronic submission, indicating a general aversion to the traditional print, sign, and mail process.
 
-•             **Participant 01:** "I think it's outstanding because a lot of people don't have, first of all, you're getting into a form, right? You're trying to accomplish a mission here today. And your form, your mission for today is to get this form filled out and taken care of. Well, bingo, you do all this work, you put all the legwork in right? To get it done. Then all of a sudden, oh, now I gotta file, I gotta print it, I gotta download it, I gotta print it right? Then I gotta fill it out, then I gotta get a stamp, then I gotta put it in an envelope. And then we gotta do the timeframe of the United States Postal Service as opposed to electronically signing it on the computer."
+•**Participant 01:** "I think it's outstanding because a lot of people don't have, first of all, you're getting into a form, right? You're trying to accomplish a mission here today. And your form, your mission for today is to get this form filled out and taken care of. Well, bingo, you do all this work, you put all the legwork in right? To get it done. Then all of a sudden, oh, now I gotta file, I gotta print it, I gotta download it, I gotta print it right? Then I gotta fill it out, then I gotta get a stamp, then I gotta put it in an envelope. And then we gotta do the timeframe of the United States Postal Service as opposed to electronically signing it on the computer."
 
-•             **Participant 03:** "I don't necessarily prefer the forms that you can't just fill out online and hit submit. I don't like to print them out."
+• **Participant 03:** "I don't necessarily prefer the forms that you can't just fill out online and hit submit. I don't like to print them out."
 
 * * *
 
 ## Additional Insights**
 
-**1.**        **Additional Finding:** Desire for an online-only/virtual representative option
-
+**1.**  **Additional Finding:** Desire for an online-only/virtual representative option
 Participant 03 explicitly looked for options beyond in-person assistance, mentioning a preference for a "Virtual online telephone only" representative. This indicates a growing need for flexible representative options that don't require physical presence.
 
-•            **Participant 03:** "Either by zip code for a person to person face to face or there might be an option. Virtual online telephone only. That's kind of what I'm thinking. It wouldn't have to be, I would think that there would, if you want face to face, you could find someone face-to-face by zip code city and state. Or if it's online or telephone only, it would say that option. Find VA accredit representative. VSO Online virtual only."
+•**Participant 03:** "Either by zip code for a person to person face to face or there might be an option. Virtual online telephone only. That's kind of what I'm thinking. It wouldn't have to be, I would think that there would, if you want face to face, you could find someone face-to-face by zip code city and state. Or if it's online or telephone only, it would say that option. Find VA accredit representative. VSO Online virtual only."
 
 **2.**        **Additional Finding:** Information about representative roles and accreditation is not clear enough
 
