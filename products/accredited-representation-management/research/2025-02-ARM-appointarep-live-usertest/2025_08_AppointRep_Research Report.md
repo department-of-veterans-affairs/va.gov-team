@@ -5,7 +5,7 @@ Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
 
 **Contacts:**   
 Marisa Dominguez, UX + Research Lead  
-Janelle Finerty, Principal Researcher  
+Janelle Finnerty, Principal Researcher  
 Michael Tri, Sr. Product Designer  
 Lindsay Li-Smith, Product Manager
 
