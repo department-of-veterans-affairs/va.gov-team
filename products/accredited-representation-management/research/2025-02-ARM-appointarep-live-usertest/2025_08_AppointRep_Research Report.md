@@ -1,334 +1,281 @@
-*** Office of General Counsel (OGC) Interview Research Findings
+# Appoint a Representative Digital Submit User Test Research Finding
+Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
 
-**Office of the CTO-Digital Experience (OCTO-DE), Accredited Representative Management**
+**Report Date:** 08/2025 / **User Test Date:** 02/2025
 
-**Date:** 08AUG2025
-
-**Contacts:** Marisa Dominguez, UX + Research Lead  
+**Contacts:**   
+Marisa Dominguez, UX + Research Lead  
+Janelle Finerty, Principal Researcher  
 Michael Tri, Sr. Product Designer  
 Lindsay Li-Smith, Product Manager
 
-**Research Goals**
+## Research Goals**             
 
-·      We aim to understand and identify OGC Challenges or difficulties they face when processing the VA Form 21a accreditation for Attorneys and Claims Agents, from start to accreditation status.
+*   Evaluate the usability of Appoint a Representative on VA.gov. Usability includes understandability of content, whether the experience meets user expectations, and identifying system bugs.
 
-·      We will assess OGC Communication and evaluate how well OGC staff feel their current communication methods are performing.
+·       Stretch goal: Evaluate the usability of the Representative Status Widget on VA.gov.
 
-**Guiding Questions**
+## Research Questions**
 
-1.  What are the primary obstacles and concerns experienced by applicants during the VA Form 21a accreditation process, from initial submission to final decision?
-2.  How do OGC staff perceive the effectiveness of current communication and notification systems in supporting and guiding applicants through the accreditation journey?
+1.  Are there any usability challenges with the Appoint a Representative feature?
 
-**Research Questions**
+1.  Do users understand the information shown?
 
-1.  What are the key challenges and pain points that applicants face when completing the VA Form 21a to become accredited attorneys or claims agents?
-2.  How do OGC staff currently communicate application status, denials, and requests for additional information to applicants, and what improvements could be made to these notification processes?
-3.  What are the most common reasons for application denials or delays?
+   i.         Is there any information missing?
 
-**Methodology**
+2.  Are there any challenges with using the experience?
 
-**Semi-structured interviews.** The interviewer will ask the participants a series of questions to understand OGC’s current experiences with accepting and processing Form 21a.
+  i.         Is there any confusion with the ‘Street address line 2’ input?
 
-**Hypotheses and Conclusions**
+  ii.         Do users correctly interpret the "Note: If you submit another request, you'll cancel your current one." content on the confirmation page?
 
-*   **Hypothesis Statement:** Applicants and OGC staff experience significant challenges and inefficiencies with the current VA Form 21a digital accreditation process.
+3.  Does the experience meet user expectations?
+4.  Are the steps clear and actionable?
 
-*   **Definitely True  
-      
-    **
+    i.         Are there any reasons why users are not navigating from the Download to the ## Next Steps pages?
 
-1.          **Manual Contact Information Updates  
-**"So everything's pretty much manual, like we're the ones that update all the information..." (0:03:09) and "...we actually have to go in and change their information." (0:03:51).
+5.  Are assistive technology (AT) users able to successfully use the feature?
 
-o   This indicates a high manual burden for OGC staff.
+2.  _Stretch goal:_ Are there any usability challenges with the Representative Status Widget?
 
-2.          **Decentralized Inquiries:** "Even though we have the mailbox and we strongly encourage people to send the information there to distribute it, a lot of times people will send to maybe the person they're familiar with... versus sending it to the mailbox..." (0:05:54).
+1.  Same additional questions as above.
 
-o   This shows a lack of a single, efficient intake point for updates.
+## Methodology
 
-3.          **Challenges with Outdated Information:** "I think the challenge is them not letting them, letting us know their content information change." (0:10:40) and "And I'm saying that because when we do have reason to send stuff by mail, a lot of it gets returned at certain times." (0:10:50).
+*   **Warm-up questions /** The moderator will ask the Veteran a short series of questions to understand their status with finding a representative and VA.gov engagement.
+*   **Usability testing** / Users will be asked to complete the Appoint a Representative flow on VA.gov and provide feedback along the way.
 
-o   This directly points to the problem of inaccurate data due to representatives not providing updates.
+## Hypotheses and Conclusions
 
-4.          **Significant Burden of Status Inquiries:** "I respond to a tremendous amount of congressional inquiries on just status requests because those are really difficult for our paralegals to reply to because they're trying to move, you know, the backlog of cases and that everyone's writing in. Where is it now? Where, where is it now?" (0:14:50).
+**1.**          **Hypothesis Statement:** Veterans will be able to successfully navigate Appoint a Representative through tested patterns and informative content.
 
-o   This highlights a major inefficiency for OGC staff.
+•             **Inconclusive;** The Veterans had mixed success navigating the "Appoint a Representative" tool, with some patterns and content proving effective, while others presented challenges.
 
-5.          **Incomplete Applications:** "...making fields required. Stuff like that is always good because I can't tell you too how many incomplete applications we get..." (0:12:06).
+**2.**          **Hypothesis Statement:** Veterans will clearly understand whether the process concludes with a PDF or digital submission, as well as the next steps to take upon completion.
 
-o   This points to an inefficiency at the application intake stage.
+•             **Likely False**; The Veterans were **not** able to clearly understand whether the process concludes with a PDF or digital submission.
 
-6.          **High Volume of General Emails:** "...we get, on average we couldn't get up to 500 emails a day and that's just only in the mailbox." (0:20:27).
+## Key Findings**
 
-o   This suggests a high volume of unorganized communication that likely includes many status inquiries or requests that could be automated.
+**1.**        **Challenges with VA.gov login/identity verification (ID.me)**
 
-7.          **Inefficient Character Reference Process (now addressed, but historical inefficiency):** "Right now we're not doing our character in reputation requests until after they pass the exam because only 40% of them pass the exam and that took out a big chunk of time." (0:16:59) and "I would say about about 20% \[of processing time saved by this change\]." (0:19:46).
+**2.**        **Unfamiliarity with the Find a Representative tool**
 
-o   This demonstrates a past, significant inefficiency that has been mitigated.
+**3.**        **Preference for electronic form submission over print/mail**
 
-*   **Hypothesis Statement:** Targeted improvements to communication, notification systems, and user guidance can increase user satisfaction, reduce application errors, and improve overall process efficiency.
+## Details of Findings**
 
-*   **Likely True**
+**1.**        **Finding:** Challenges with VA.gov login/identity verification (ID.me)
 
-1.        **Desire for Self-Service / Preference Setting**  
-"...we are hoping that something with the online application, they're able to, to provide us with their preference. So we're not going not only just displaying the home address they don't wanna display, but instead of going back and forth with these manual changes, which at that point it won't be manual, but, you know, whatever it is that they want upfront." (0:15:26).
+Both participants experienced difficulties with the login process on VA.gov. Participant 01 struggled significantly with ID.me setup due to poor camera quality on their government-issued phone, eventually needing to buy a new phone. Participant 03 noted issues with the system being down for updates and confusion regarding various login methods, indicating a desire for a more streamlined experience.
 
-o   This directly supports the need for a system that captures user preferences upfront, reducing manual corrections.  
-  
+•             **Participant 01:** "ID me was harder to set up because I had a terrible phone (camera), you know, you have to send the front back of your ID card, driver's license. And it took me forever to finally get it, I, I tell you what I did, I actually bought another phone."
 
-2.        **Need for Automated Status Updates** "we would love for them to be able to see the status of their application and be transparent about it without having to have that extra interaction that takes us away from our processing job." (0:15:06).
+•             **Participant 03:** "Yeah, sometimes it's down or you'll get messages. They're doing updates. Or maybe that's more so on the weekends, which is sometimes when I try Vet Healthy Vet is the login is going away. Right. There's a login that's changing soon. Correct."
 
-o   This explicitly states the desire for automated, transparent status updates to reduce inquiries and improve efficiency.  
-  
+**2.**        **Finding:** Unfamiliarity with the Find a Representative tool
 
-3.        **Value of a Comprehensive Checklist/Pre-screening  
-**"...for claims agents we did recently even we developed like a checklist for our paralegals to use in assessing the quality of the application. And maybe that would be something that would be of interest to you all. Yes, absolutely. That sounds very interesting." (0:04:18) and "And absolutely the checklist is gonna be huge for our knowledge. Yeah, we would love to ask of all of the questions that we need to know at one time rather than dragging it out because it's painful for us and them." (0:10:12).
+Neither participant was aware that VA.gov offered a tool to find and appoint a representative. Participant 01 stumbled upon it via a link provided by their attorney, and Participant 03 explicitly stated they "didn't know that was available in va.gov," having previously searched for agents via Google. This suggests a possible discoverability issue with the new tool.
 
-o   This shows that a structured checklist/pre-screening mechanism can help gather necessary information upfront, reducing back-and-forth.  
-  
+·       **Participant 01:** "To be honest, honest with you, I never, I never got to that point." (When asked if they considered using VA.gov to find an attorney)
 
-4.        **Addressing "Red Flags" with Upfront Questions  
-**"...if they work in this type of work, there's, there's potential for a conflict of in interest if they're a financial planner, if they work in home care, if they're a doctor, all of those things do raise additional questions for us." (0:18:56).
+·       **Participant 03:** "I don't, I didn't know that was available in va.gov. I don't know if I overlooked it or what Now I'm curious."
 
-o   This implies that pre-screening questions could surface these issues early, preventing downstream problems.  
-  
+**3.**        **Finding:** Preference for electronic form submission over print/mail
 
-5.        **Clearer Communication on Public Information**  
-The discussion about whether applicants are explicitly told their information will be public and the sharing of approval email templates (0:24:32 - 0:28:31)
+Both participants expressed a strong preference for electronic signatures and online form submission. Participant 01 highlighted the convenience, speed, and direct transmission to the VA for back pay purposes. Participant 03 also appreciated the idea of electronic submission, indicating a general aversion to the traditional print, sign, and mail process.
 
-o   This suggests a need for clear, upfront communication regarding privacy and data display.
+•             **Participant 01:** "I think it's outstanding because a lot of people don't have, first of all, you're getting into a form, right? You're trying to accomplish a mission here today. And your form, your mission for today is to get this form filled out and taken care of. Well, bingo, you do all this work, you put all the legwork in right? To get it done. Then all of a sudden, oh, now I gotta file, I gotta print it, I gotta download it, I gotta print it right? Then I gotta fill it out, then I gotta get a stamp, then I gotta put it in an envelope. And then we gotta do the timeframe of the United States Postal Service as opposed to electronically signing it on the computer."
 
-6.        **Addressing Incomplete Applications through Required Fields  
-** "...making fields required. Stuff like that is always good because I can't tell you too how many incomplete applications we get..." (0:12:06).
-
-o   This highlights that guiding users with required fields can improve application quality.
+•             **Participant 03:** "I don't necessarily prefer the forms that you can't just fill out online and hit submit. I don't like to print them out."
 
 * * *
 
-**Key Findings**
+## Additional Insights**
 
-1.        Manual Contact Information Updates
+**1.**        **Additional Finding:** Desire for an online-only/virtual representative option
 
-2.        Centralized but Decentralized Inquiries:
+Participant 03 explicitly looked for options beyond in-person assistance, mentioning a preference for a "Virtual online telephone only" representative. This indicates a growing need for flexible representative options that don't require physical presence.
 
-3.        Limited Proactive Outreach for Updates
+•            **Participant 03:** "Either by zip code for a person to person face to face or there might be an option. Virtual online telephone only. That's kind of what I'm thinking. It wouldn't have to be, I would think that there would, if you want face to face, you could find someone face-to-face by zip code city and state. Or if it's online or telephone only, it would say that option. Find VA accredit representative. VSO Online virtual only."
 
-4.        Challenges with Outdated Information
+**2.**        **Additional Finding:** Information about representative roles and accreditation is not clear enough
 
-5.        Applicant Notification of Public Information
+Both participants demonstrated some confusion regarding the role of representatives listed on VA.gov and whether they are VA employees or independent. Participant 01 initially thought the VA would know their representative, and Participant 03 asked if the "VA accredited representative works for the VA." This suggests a need for clearer distinctions and explanations about the accreditation process and the representative's relationship with the VA.
 
-**Details of Findings**
+•            **Participant 03: “**How would the VA know who my representative is?"
 
-1.        **Finding: Manual Contact Information Updates**  
-The process for updating contact information for accredited representatives (attorneys, claims agents, and VSOs) is largely manual. Attorneys and claims agents can send emails, faxes, or mail, while VSO representatives require their certifying official or assistant to initiate the request.  
-  
+•            **Participant 03:** "I guess I'm gonna find an organization or person to link the form up to and then I will appoint the person using the form.”
 
-·       _Supporting data: "Okay. So everything's pretty much manual, like we're the ones that update all the information." - Speaker 1 (0:03:09)  
-  
-_
+## Recommendations**
 
-2.        **Finding: Centralized but Decentralized Inquiries**  
-While there is an OGC accreditation mailbox intended for all accreditation-related inquiries, representatives often send update requests directly to individuals they have previously worked with, leading to multiple points of contact for updates. Margaret Talbot is primarily responsible for monitoring the OGC accreditation mailbox.  
-  
+o   **Recommendation:** Clarify the Relationship of Accredited Representatives to the VA
 
-·       _Supporting data: "Even though we have the mailbox and we strongly encourage people to send the information there to distribute it, a lot of times people will send to maybe the person they're familiar with and they were working with, so they were recently accredited, they might send their responses to that person that they were working with versus sending it to the mailbox and then it gets, you know, forwarded or maybe, you know, one person do them." - Speaker 2 (0:05:54)_
+o   **Participant 03:** "This VA Accredited Representative works for the VA."
 
-3.        **Finding: Limited Proactive Outreach for Updates**  
-There are currently no ongoing outreach programs to remind representatives or certifying officials to keep their contact information updated, beyond initial accreditation emails and annual recertification projects. It is primarily the representative's responsibility.  
-  
+Both participants expressed some confusion about whether the "VA accredited representative" works for the VA or is an independent entity.
 
-·       _Supporting data: "But in terms of ongoing outreach, we currently do not have one that I'm aware of where we notify them." - Speaker 2 (0:08:18)_
+To address this, the page should include a clear and concise explanation, perhaps in a tooltip or a small information box near the "Find a VA Accredited Representative" action link, that these individuals or organizations are accredited (approved) by the VA but generally operate independently. This would help set accurate expectations for users engaging with representatives found through VA.gov.
 
-4.        **Finding: Challenges with Outdated Information**  
-The biggest challenge in keeping information up to date is representatives not notifying OGC of changes. This can lead to returned mail and affect the representatives' ability to receive updated information regarding claims and even impact pay.  
-  
+o   **Recommendation:** Improve the Discoverability of "Start your form without signing in
 
-·       _Supporting data: "I think the challenge is them not letting us know their content information change." (0:10:40)_
+Participant 03 initially missed this option and expected to log in, which indicates a discoverability issue. The "Start your form without signing in" link should be highlighted or moved to a more visible spot on the page, possibly near the top of the "Sign in with a verified account" section or as a clearly marked alternative. This change would help users immediately see that login is optional and accommodate those who want to explore the forms first.
 
-5.        **Finding: Applicant Notification of Public Information**  
-For attorneys and claims agents, the approval email explicitly states that their contact information will be publicly displayed on the VA's accredited search index. For VSO representatives, this information is sent to the certifying official, who is expected to advise the representative. The VA Form 21A itself does not contain this notification.  
-  
+o   **Participant 03:** "So I did not scroll down far enough to know that I could proceed without logging in... I'm wondering if up somewhere up near the top it needs to say, you don't need to sign in, instead of going all the way to the bottom and it's saying start the form without signing in. Maybe something at the top saying FYI or whatever the proper terminology that you, you will be able to complete the form without help, without logging in."
 
-·       _Supporting data: "So in the approval email, that language is contained in there. Okay. That their contact information is contained. We tell them they need to verify it, and if they want to change it, we give them instructions on how to do it." (0:24:32)_
+## Product User and Business Outcomes**
 
-* * *
-
-**Additional Insights**
-
-**1.**        **Insight:** **Challenges with Inconsistent System Functionality**
-
-The OGC's database (GC laws) has inconsistent functionality between its web and desktop versions, particularly regarding displaying multiple email addresses. This inconsistency can make it difficult for staff to determine what information is accurately displayed or utilized by the system.  
-  
-
-2.        **Insight: Increased Efficiency by Delaying Character References**
-
-OGC has significantly improved the efficiency of their application processing (saving about 20% of processing time) by delaying character reference checks until after applicants pass the exam. This change was implemented because a large percentage (60%) of applicants were not passing the exam, making early character reference checks a wasted effort.
-
-* * *
-
-**Recommendations**
-
-1.  **Develop a self-service portal for contact information updates**
-
-Allow accredited representatives (attorneys, claims agents, and VSOs) to directly update their contact information (email, phone, address, and potentially name changes) through a secure online portal. This would significantly reduce the manual effort currently required by OGC staff and improve the accuracy and timeliness of the data. The portal should clearly indicate which information is publicly displayed and allow users to set preferences (e.g., preferred business address over home address).  
-  
-
-*   **_Supporting evidence:_**
-
-§  _"So everything's pretty much manual, like we're the ones that update all the information..." (0:03:09)_
-
-·      This highlights the current manual burden on OGC staff.
-
-§  _"...we actually have to go in and change their information." (0:03:51)_
-
-·      This further emphasizes the manual process.
-
-§  _"...instead of going back and forth with these manual changes, which at that point it won't be manual, but, you know, whatever it is that they want upfront." (0:15:26)_
-
-·      Margaret expresses a desire for a system where preferences are handled upfront, suggesting a portal.
-
-§  _"It's honestly, it's their responsibility to keep us updated when it comes to their information." (0:07:57)_
-
-·      This indicates that representatives should be proactive, aligning with a self-service model.
-
-2.  **Implement status tracking and automated notifications for applications**
-
-Provide applicants with an online dashboard or clear status updates for their accreditation applications. This would reduce the "noise" of frequent inquiries about application status, allowing OGC paralegals to focus on processing. Automated notifications for key milestones (e.g., "application received," "background check initiated," "decision rendered") would keep applicants informed without requiring manual communication.  
-  
-
-*   **_Supporting evidence:_**
-
-§  "I respond to a tremendous amount of congressional inquiries on just status requests because those are really difficult for our paralegals to reply to because they're trying to move, you know, the backlog of cases and that everyone's writing in. Where is it now? Where, where is it now?" (0:14:50)
-
-·      This clearly states the significant burden of status inquiries on paralegals and the desire to reduce "noise."
-
-§  "Well if we haven't told you it hasn't moved right and that, that answer is not makes no one happy, we would love for them to be able to see the status of their application and be transparent about it without having to have that extra interaction that takes us away from our processing job." (0:15:06)
-
-·      This directly supports the need for transparency and automated status updates to free up OGC staff.
-
-§  "Is there any direction provided immediately once an application is submitted? Like do you guys have an automatic message that goes out? Not one that anyone's happy with?" (0:21:35)
-
-·      This shows a current lack of effective immediate communication upon submission, indicating a need for automated notifications.
-
-3.  **Integrate pre-screening questions and a comprehensive checklist into the application process**
-
-Digitize the claims agent checklist and embed its questions directly into the online application form. This would allow for immediate screening of applicants based on criteria that currently raise "red flags" (e.g., issues with good standing, specific employment types).
-
-*   **_Supporting evidence:_**
-
-§  "...for claims agents we did recently even we developed like a checklist for our paralegals to use in assessing the quality of the application. And maybe that would be something that would be of interest to you all. Yes, absolutely. That sounds very interesting." (0:04:18)
-
-·      The existence and value of this internal checklist for screening are highlighted.  
-  
-
-§  "And absolutely the checklist is gonna be huge for our knowledge. Yeah, we would love to ask of all of the questions that we need to know at one time rather than dragging it out because it's painful for us and them." (0:10:02)
-
-·      This explicitly states the desire to collect all necessary information upfront to avoid prolonged processes.  
-  
-
-§  "...if they work in this type of work, there's, there's potential for a conflict of in interest if they're a financial planner, if they work in home care, if they're a doctor, all of those things do raise additional questions for us." (0:18:56)
-
-·      This shows specific "red flags" that could be addressed by targeted pre-screening questions to filter applicants or gather necessary information early.  
-  
-
-§  "...making fields required. Stuff like that is always good because I can't tell you too how many incomplete applications we get..." (0:12:06)
-
-·      This supports the idea of mandatory fields to ensure complete applications from the start.
-
-* * *
-
-**Product User and Business Outcomes**
-
-1.  **Desired User Outcome**
+**1.**        **Desired User Outcome**
 
 This research supports our desired user outcome by focusing on the following user outcomes:
 
-·      Design a digitized version of Form 21a that incorporates new questions needed by VA OGC employees who process applications.
+o   Veterans can easily search for and appoint accredited representatives via
 
-·      Reduce the time for VA OGC employees to review and process accreditation applications.
+o   VA.GOV.
 
-·      Provide accurate applicant data to VA OGC employees; this will also improve Veteran experiences on VA.gov for related applications.
+o   Users can see their current representative information after signing in.
 
-·      Effectively convey the seriousness and commitment required for accreditation, discouraging applicants who are not genuinely motivated.
+o   Veterans have clarity about the process, including selecting, contacting, and officially appointing a representative.
 
-·      Create a more efficient accreditation process for applicants.
+o   The process reduces confusion and provides guidance, especially for those unsure if they already have a representative.
 
-·      Ensure the accreditation process is accessible to all users, including those using assistive technology.
-
-2.  **Desired Business Outcome**
+**2.**        **Desired Business Outcome**
 
 This research supports our desired business outcome by focusing on the following business outcomes:
 
-·       Reduce the backlog of accreditation applicants (currently around 2,000).
+o   Increase VA.gov’s functionality to support appointing accredited representatives, replacing legacy services (e.g., eBenefits).
 
-·       Streamline the accreditation process to help VA OGC staff manage applications more efficiently.
+o   Reduce the time and effort it takes for Veterans to appoint a representative.
 
-·       Decrease the time applicants spend waiting to become accredited, thereby increasing the number of qualified representatives available to assist Veterans.
+o   Improve the accuracy and ease of collecting representative documentation for Veteran applications.
 
-·       Minimize the need for back-and-forth communication between OGC staff and applicants by capturing required information digitally.
+## Key Performance Indicators**
 
-·       Improve applicant and staff satisfaction with the accreditation process, measured by metrics like processing time, error rates, and user feedback.
+1.  **KPI:** Adoption Rate of Electronic Signature/Submission
 
-* * *
+a.        This KPI would track the percentage of users who choose to electronically sign and submit forms through VA.gov compared to those who use the traditional print-and-mail method.
 
-**Key Performance Indicators**
+b.        The finding that both participants strongly preferred electronic submission and highlighted its benefits directly supports the importance of this metric. Efforts to promote and improve the electronic submission process would aim to increase this adoption rate.
 
-These KPIs help assess efficiency, system reliability, and user experience improvements resulting from digitizing the accreditation process.  
-  
+2.  **KPI:** Representative Search Success Rate
 
-1.  **KPI: Average Application Processing Time**
+a.        This KPI would measure the percentage of users who successfully find and select a representative using the VA.gov tool.
 
-*   Measure the average time it takes for an application to be processed, compared to previous (paper-based) processing times.  
-      
-    
-
-3.  **KPI: Form Submission Success Rate**
-
-*   Track the percentage of successful form submissions versus failed submissions, including metrics such as overall submission volume and submission error percentage.
-
-5.  **KPI: Applicant Satisfaction (CSAT Score)**
-
-*   Collect and analyze applicant satisfaction through surveys or feedback, using a Customer Satisfaction (CSAT) score.
+b.        The finding that neither participant was aware of the tool, and Participant 03 previously used Google to search for agents, directly supports the need to track this metric. Improving the discoverability and usability of the "Appoint a Representative" tool on VA.gov would aim to increase this success rate.
 
 **Next Steps**
 
-1.  **Review the Claims Agent Checklist**
+**1.**        **Gather Additional User Feedback**
 
-Your team needs to thoroughly review the "CNF agent checklist from May 7th" that Nate mentioned. This checklist is expected to provide insights into what OGC looks for in quality applications and potential "if-then" scenarios.
+Conduct further usability testing and gather feedback from a wider range of users to validate the findings, assess the effectiveness of the implemented changes, and uncover any new pain points or areas for improvement.
 
-2.  **Ongoing continuous learning with OGC**
+**2.**        **Track and Analyze KPIs**
 
-To facilitate ongoing continuous learning with OGC, a structured feedback loop and regular knowledge-sharing sessions should be established. This would involve collecting feedback from paralegals and attorneys on common application issues and "red flags" encountered, especially concerning the new digital forms and updated checklists. 
+Continuously monitor the defined KPIs (Successful Form Submissions, User Understanding of Representative Roles, Time to Complete ID.me Verification, Adoption Rate of Electronic Signature/Submission, and Representative Search Success Rate). Analyze the data to understand the impact of the UX improvements and identify areas that require further attention.
 
-**Further research needed**
+**3.**        **Prioritize UX Improvements**
 
-1.        **Investigate the impact of the inconsistent GC Laws functionality**
+Focus on implementing the recommended UX changes, particularly improving the discoverability of the "Start your form without signing in" option and clarifying the relationship between accredited representatives and the VA. These changes directly address key user pain points identified in the findings.
 
-Research should be conducted to fully understand the scope and impact of the "iffy" and "inconsistent" functionality between the web and desktop versions of GC Laws, especially regarding how it displays or processes multiple email addresses and other contact information. This would help identify specific pain points for OGC staff and potential data integrity issues.  
-  
+**4.**        **Promote Electronic Submission**
 
-2.        **Explore current post-denial/reapplication communication channels**
+Actively promote the benefits of electronic form submission and work to improve the process to increase the adoption rate. This aligns with user preferences and can lead to a more efficient experience.
 
-While the document mentions written decisions with appellate rights and occasional email chains for reconsideration, further research could delve into the specific content, frequency, and effectiveness of these communications. Understanding common applicant misunderstandings or persistent questions after a denial could inform the development of clearer, more proactive communication strategies or self-service resources.
+**5.**        **Enhance Tool Discoverability on VA.GOV**
 
-**Appendix**
+Develop strategies to increase awareness and discoverability of the "Appoint a Representative" tool on VA.gov. This could involve better placement on the website, targeted communication, or integration with other relevant VA services.
 
-\[Product Outline\]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representative-facing/product-info/21a/product-outline-21a.md)
+## Appendix
 
-\[Research plan\]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/2025-06-ARM-Form21a-usertest/21a%20v4%20Research%20Plan.md)
+\[Product Outline\]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/appoint-a-representative/product-outline-appoint-a-representative.md)
 
-\[Conversation guide\]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/2025-06-ARM-Form21a-usertest/21a%20Convo%20Guide%20%E2%80%93%201%20OGC%20Interview%20(Exploratory).md)
+\[Research plan\]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/2025-02-ARM-appointarep-live-usertest/Research%20Plan-%20Digital%20Submit.md)
 
-**Tools used for Synthesis**
+\[Conversation guide \]( https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/research/2025-02-ARM-appointarep-live-usertest/conversation-guide-session02.md)
 
-Mural, GH CoPilot
+\[Interview transcripts\](link here)
 
-**Who we talked to**
+### Tools used for Synthesis
 
-OGC Interview #1 – three participants
+_Mural, Enjoy HQ_
 
-OGC Interview #2 – two participants
+### Pages and applications used
 
-**Recruitment criteria**
+_Link to prototypes or pages tested during the study._
 
-We sought to speak with those OGC individuals who process Form 21a.
+### Other supporting documents created
+
+_None_
+
+### Who we talked to
+
+_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ [_See an example_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#who-we-talked-to)
+
+### Recruitment criteria
+
+_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
+
+We talked to **2 participants.**
+
+Audience segment:
+
+*   Veterans: 2
+*   Caregivers: 0
+*   Family members of a Veteran: 0
+
+Gender:
+
+*   Male: 2
+*   Female: 0
+
+LGBTQ+:
+
+*   Transgender: NA
+*   Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: NA
+*   Gay, lesbian, or bisexual: NA
+
+Devices used during study:
+
+*   Desktop: 2
+*   Tablet: 0
+*   Smart phone: 0
+*   Assistive Technology: 0
+
+Age:
+
+*   25-34: 0
+*   35-44: 0
+*   45-54: 0
+*   55-64: 1
+*   65+: 1
+*   Unknown: NA
+
+Geographic location:
+
+*   Urban: 1
+*   Rural: 1
+*   Unknown: x
+
+Race:
+
+*   White: 2
+*   Black: 0
+*   Hispanic: 0
+*   Biracial: 0
+*   Asian: 0
+*   Native: 0
+
+Disability and Assistive Technology (AT):
+
+*   Cognitive: x
+*   AT beginner: x
+*   AT advanced user: x
+*   Desktop screen reader: x
+*   Mobile screen reader: x
+*   Magnification/Zoom: x
+*   [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
+*   Hearing aids: x
+*   Sighted keyboard: x
+*   Captions: x
+
+-------END OF REPORT --------
