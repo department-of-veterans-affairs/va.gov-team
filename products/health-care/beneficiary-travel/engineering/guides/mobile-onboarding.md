@@ -88,7 +88,7 @@ Other helpful channels
 
 Here is a diagram of the backend Mobile module showing the inter-relationships and order of operations for sending data to the FE app:
 
-![][image1]
+![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/engineering/guides/Mobile-BE-integration-diagram.png)
 
 ### Web Frontend vets-website
 
