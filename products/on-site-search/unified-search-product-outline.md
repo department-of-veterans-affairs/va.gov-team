@@ -26,9 +26,28 @@ _As a Veteran, I am able to find the information I need to on the VA.gov Website
 - _Provide a more comprehensive sitemap (https://www.va.gov/site_map.htm) so search results are more accurate by allowing searching within a subdomain (To be better defined and verified as a goal)_
 
 
-## Measuring succcess
+## Measuring succcess/KPIs
 
+### Search satisfaction
+- CSAT
+- Trust
+- Able to complete task
 
+### Search usage
+- Search events
+- CTR
+- Top referring pages
+- Top clicked pages
+
+**Search relevancy**
+- Top queries and CTR
+- No results queries and frequency
+- Search refinements
+- Search abandonment
+
+**Performance**
+- Response time
+- Indexing - # of pages indexed, time to index new or updated content
 
 
 ## Decisions
