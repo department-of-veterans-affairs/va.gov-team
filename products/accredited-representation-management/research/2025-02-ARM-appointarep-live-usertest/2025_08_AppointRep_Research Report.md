@@ -51,15 +51,15 @@ Lindsay Li-Smith, Product Manager
 
 **3.** **Preference for electronic form submission over print/mail**
 
-## Details of Findings**
+## Details of Findings
 
 **1.** **Finding:** Challenges with VA.gov login/identity verification (ID.me)
 
 Both participants experienced difficulties with the login process on VA.gov. Participant 01 struggled significantly with ID.me setup due to poor camera quality on their government-issued phone, eventually needing to buy a new phone. Participant 03 noted issues with the system being down for updates and confusion regarding various login methods, indicating a desire for a more streamlined experience.
 
-  • **Participant 01:** "ID me was harder to set up because I had a terrible phone (camera), you know, you have to send the front back of your ID card, driver's license. And it took me forever to finally get it, I, I tell you what I did, I actually bought another phone."
+  •**Participant 01:** "ID me was harder to set up because I had a terrible phone (camera), you know, you have to send the front back of your ID card, driver's license. And it took me forever to finally get it, I, I tell you what I did, I actually bought another phone."
 
-  • **Participant 03:** "Yeah, sometimes it's down or you'll get messages. They're doing updates. Or maybe that's more so on the weekends, which is sometimes when I try Vet Healthy Vet is the login is going away. Right. There's a login that's changing soon. Correct."
+  •**Participant 03:** "Yeah, sometimes it's down or you'll get messages. They're doing updates. Or maybe that's more so on the weekends, which is sometimes when I try Vet Healthy Vet is the login is going away. Right. There's a login that's changing soon. Correct."
 
 **2.** **Finding:** Unfamiliarity with the Find a Representative tool
 Neither participant was aware that VA.gov offered a tool to find and appoint a representative. Participant 01 stumbled upon it via a link provided by their attorney, and Participant 03 explicitly stated they "didn't know that was available in va.gov," having previously searched for agents via Google. This suggests a possible discoverability issue with the new tool.
@@ -77,97 +77,75 @@ Both participants expressed a strong preference for electronic signatures and on
 
 * * *
 
-## Additional Insights**
+## Additional Insights
 
 **1.**  **Additional Finding:** Desire for an online-only/virtual representative option
 Participant 03 explicitly looked for options beyond in-person assistance, mentioning a preference for a "Virtual online telephone only" representative. This indicates a growing need for flexible representative options that don't require physical presence.
 
 •**Participant 03:** "Either by zip code for a person to person face to face or there might be an option. Virtual online telephone only. That's kind of what I'm thinking. It wouldn't have to be, I would think that there would, if you want face to face, you could find someone face-to-face by zip code city and state. Or if it's online or telephone only, it would say that option. Find VA accredit representative. VSO Online virtual only."
 
-**2.**        **Additional Finding:** Information about representative roles and accreditation is not clear enough
-
+**2.**  **Additional Finding:** Information about representative roles and accreditation is not clear enough
 Both participants demonstrated some confusion regarding the role of representatives listed on VA.gov and whether they are VA employees or independent. Participant 01 initially thought the VA would know their representative, and Participant 03 asked if the "VA accredited representative works for the VA." This suggests a need for clearer distinctions and explanations about the accreditation process and the representative's relationship with the VA.
 
-•            **Participant 03: “**How would the VA know who my representative is?"
+• **Participant 03: “**How would the VA know who my representative is?"
 
-•            **Participant 03:** "I guess I'm gonna find an organization or person to link the form up to and then I will appoint the person using the form.”
+• **Participant 03:** "I guess I'm gonna find an organization or person to link the form up to and then I will appoint the person using the form.”
 
-## Recommendations**
+## Recommendations
 
-o   **Recommendation:** Clarify the Relationship of Accredited Representatives to the VA
-
-o   **Participant 03:** "This VA Accredited Representative works for the VA."
-
+1. **Recommendation:** Clarify the Relationship of Accredited Representatives to the VA
+  o   **Participant 03:** "This VA Accredited Representative works for the VA."
 Both participants expressed some confusion about whether the "VA accredited representative" works for the VA or is an independent entity.
 
 To address this, the page should include a clear and concise explanation, perhaps in a tooltip or a small information box near the "Find a VA Accredited Representative" action link, that these individuals or organizations are accredited (approved) by the VA but generally operate independently. This would help set accurate expectations for users engaging with representatives found through VA.gov.
 
-o   **Recommendation:** Improve the Discoverability of "Start your form without signing in
-
+2. **Recommendation:** Improve the Discoverability of "Start your form without signing in
 Participant 03 initially missed this option and expected to log in, which indicates a discoverability issue. The "Start your form without signing in" link should be highlighted or moved to a more visible spot on the page, possibly near the top of the "Sign in with a verified account" section or as a clearly marked alternative. This change would help users immediately see that login is optional and accommodate those who want to explore the forms first.
 
 o   **Participant 03:** "So I did not scroll down far enough to know that I could proceed without logging in... I'm wondering if up somewhere up near the top it needs to say, you don't need to sign in, instead of going all the way to the bottom and it's saying start the form without signing in. Maybe something at the top saying FYI or whatever the proper terminology that you, you will be able to complete the form without help, without logging in."
 
-## Product User and Business Outcomes**
+## Product User and Business Outcomes
 
-**1.**        **Desired User Outcome**
+**1.** **Desired User Outcome**
 
 This research supports our desired user outcome by focusing on the following user outcomes:
-
-o   Veterans can easily search for and appoint accredited representatives via
-
-o   VA.GOV.
-
+o   Veterans can easily search for and appoint accredited representatives via VA.GOV.
 o   Users can see their current representative information after signing in.
-
 o   Veterans have clarity about the process, including selecting, contacting, and officially appointing a representative.
-
 o   The process reduces confusion and provides guidance, especially for those unsure if they already have a representative.
 
-**2.**        **Desired Business Outcome**
+**2.** **Desired Business Outcome**
 
 This research supports our desired business outcome by focusing on the following business outcomes:
-
 o   Increase VA.gov’s functionality to support appointing accredited representatives, replacing legacy services (e.g., eBenefits).
-
 o   Reduce the time and effort it takes for Veterans to appoint a representative.
-
 o   Improve the accuracy and ease of collecting representative documentation for Veteran applications.
 
 ## Key Performance Indicators**
 
-1.  **KPI:** Adoption Rate of Electronic Signature/Submission
+1. **KPI:** Adoption Rate of Electronic Signature/Submission
+a. This KPI would track the percentage of users who choose to electronically sign and submit forms through VA.gov compared to those who use the traditional print-and-mail method.
+b. The finding that both participants strongly preferred electronic submission and highlighted its benefits directly supports the importance of this metric. Efforts to promote and improve the electronic submission process would aim to increase this adoption rate.
 
-a.        This KPI would track the percentage of users who choose to electronically sign and submit forms through VA.gov compared to those who use the traditional print-and-mail method.
+2. **KPI:** Representative Search Success Rate
+a. This KPI would measure the percentage of users who successfully find and select a representative using the VA.gov tool.
+b. The finding that neither participant was aware of the tool, and Participant 03 previously used Google to search for agents, directly supports the need to track this metric. Improving the discoverability and usability of the "Appoint a Representative" tool on VA.gov would aim to increase this success rate.
 
-b.        The finding that both participants strongly preferred electronic submission and highlighted its benefits directly supports the importance of this metric. Efforts to promote and improve the electronic submission process would aim to increase this adoption rate.
+## Next Steps
 
-2.  **KPI:** Representative Search Success Rate
-
-a.        This KPI would measure the percentage of users who successfully find and select a representative using the VA.gov tool.
-
-b.        The finding that neither participant was aware of the tool, and Participant 03 previously used Google to search for agents, directly supports the need to track this metric. Improving the discoverability and usability of the "Appoint a Representative" tool on VA.gov would aim to increase this success rate.
-
-**Next Steps**
-
-**1.**        **Gather Additional User Feedback**
-
+**1.** **Gather Additional User Feedback**
 Conduct further usability testing and gather feedback from a wider range of users to validate the findings, assess the effectiveness of the implemented changes, and uncover any new pain points or areas for improvement.
 
-**2.**        **Track and Analyze KPIs**
-
+**2.** **Track and Analyze KPIs**
 Continuously monitor the defined KPIs (Successful Form Submissions, User Understanding of Representative Roles, Time to Complete ID.me Verification, Adoption Rate of Electronic Signature/Submission, and Representative Search Success Rate). Analyze the data to understand the impact of the UX improvements and identify areas that require further attention.
 
-**3.**        **Prioritize UX Improvements**
-
+**3.** **Prioritize UX Improvements**
 Focus on implementing the recommended UX changes, particularly improving the discoverability of the "Start your form without signing in" option and clarifying the relationship between accredited representatives and the VA. These changes directly address key user pain points identified in the findings.
 
-**4.**        **Promote Electronic Submission**
-
+**4.** **Promote Electronic Submission**
 Actively promote the benefits of electronic form submission and work to improve the process to increase the adoption rate. This aligns with user preferences and can lead to a more efficient experience.
 
-**5.**        **Enhance Tool Discoverability on VA.GOV**
-
+**5.** **Enhance Tool Discoverability on VA.GOV**
 Develop strategies to increase awareness and discoverability of the "Appoint a Representative" tool on VA.gov. This could involve better placement on the website, targeted communication, or integration with other relevant VA services.
 
 ## Appendix
