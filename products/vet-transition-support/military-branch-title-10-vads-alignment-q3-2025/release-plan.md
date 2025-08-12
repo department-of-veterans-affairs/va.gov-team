@@ -26,6 +26,7 @@ Timeline
 **Desired date range:** _week of 08/11/2025_
 
 **Two-Part Rollout:**
+
 Part 1: Features under the environment variable check will go out first:
 - Military branch + title 10 component (active duty, reserve, national guard) handling
 - Steps:
