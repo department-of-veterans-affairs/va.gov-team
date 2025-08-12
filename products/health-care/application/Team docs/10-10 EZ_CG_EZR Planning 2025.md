@@ -1,6 +1,7 @@
 # 2025 Sprint Planning for 10-10EZ, 10-10CG and 10-10EZR
 - Current Sprint first
 
+---
 ## 📆 Sprint 27 (Aug 13 - Aug 26)
 
 ### Team initiative (not form-specific)
