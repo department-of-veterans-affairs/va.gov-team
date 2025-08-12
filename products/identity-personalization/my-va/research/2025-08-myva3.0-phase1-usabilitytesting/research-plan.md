@@ -55,9 +55,6 @@ Are there moments that matter?</summary>
 ## Research Goals 🥅	
 `What are you trying to learn from this research?` 
 
-> [!NOTE]
-> Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.
-
 ### Goals
 
 `1.` **Validate if incorporating critical alert components and notifications center will guide Veterans  toward timely actions and create a more responsive, personalized homepage experience.**
