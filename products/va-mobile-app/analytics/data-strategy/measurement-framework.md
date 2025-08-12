@@ -13,6 +13,9 @@
 
 # *Alt view*
 
+## What are the most important metrics for the Mobile Platform team to track?
+We've identified task-based metrics (actions users can take), non-task metrics (passive events), and unhelpful metrics.
+
 ## Task-based (active) metrics
 |  | **Description** |
 |--------------|-------------|
