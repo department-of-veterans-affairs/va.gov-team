@@ -13,15 +13,6 @@
 
 # *Alt view*
 
-## User engagement metrics
-|  | **Description** |
-|--------------|-------------|
-| **Metric type** | User satisfaction |
-| **Definition** | Measures users’ perception of the app’s value, usability, and overall experience based on direct and indirect feedback. |
-| **Helpful metrics** | CSAT<br>App Store/Google Play star ratings<br>In-app survey results (scale rating)<br>Sentiment analysis from qualitative/open feedback |
-| **Related experiences** |  |
-| **How it informs decision-making** | Helps identify pain points, feature satisfaction, and areas for improvement. Guides prioritization of usability fixes and informs communication or design changes. |
-
 ## Task-based (active) metrics
 |  | **Description** |
 |--------------|-------------|
@@ -47,5 +38,23 @@
 | TBD | TBD |
 
 
-## How can we define "the overall health" of the Mobile Platform? 
-- To fill out
+## How should we define "the overall health" of the Mobile Platform? 
+Overall platform health can be measured by the following factors:
+- Speed
+- Availability
+- Reliability
+- Consistency
+- User satisfaction 
+- User engagement
+- Adoption
+- Retention
+
+The following tables define each measurement factor and provides helpful metrics to track, related user experiences, and how it can inform decision-making.
+
+|  | **Description** |
+|--------------|-------------|
+| **Metric type** | User satisfaction |
+| **Definition** | Measures users’ perception of the app’s value, usability, and overall experience based on direct and indirect feedback. |
+| **Helpful metrics** | CSAT<br>App Store/Google Play star ratings<br>In-app survey results (scale rating)<br>Sentiment analysis from qualitative/open feedback |
+| **Related experiences** |  |
+| **How it informs decision-making** | Helps identify pain points, feature satisfaction, and areas for improvement. Guides prioritization of usability fixes and informs communication or design changes. |
