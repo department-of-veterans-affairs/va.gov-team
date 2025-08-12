@@ -130,3 +130,71 @@ Expect to see if they check back later
 
 SuS link was easy to access for this user from the chat, results were captured in Optimal Workshop. 
 
+## P2
+
+### Per designer
+
+Forms UXR Session 081225 1000 PT
+
+iOS / Safari
+
+Seemed versed in app skills—does appointments, SM, and travel pay on the app, “…it’s actually pretty good.”
+
+No issues navigating to WebView, easily recovered from technical difficulties
+
+When asked, didn’t verbalize any issues with navigation or flow, was able to complete flow.
+
+We didn’t design or develop for dark mode so the UX isn’t 100% right, there’s also an issue with corner radius on one of the tags for “[days left to complete]”
+
+Didn’t interact with the collapsed info to review before submitting (recap info), so didn’t review info before submitting.
+
+No navigation issues, typing on phone was difficult.
+
+Negative sentiment for first screen in WebView, too many options/busy.
+
+Struggled to close the WebView to get back into the app UX, second time we’ve seen this.
+
+Identified “submitted” info from toast, correctly identified status tag and meaning.
+
+Provided feedback about how in progress might be less-than-helpful in terms of determining an exact status for this form.
+
+Could we redesign the VA test app icon so it’s not only green but also includes “TEST” as text in the icon and/or name info?
+
+Twice is a row with WebView nav, unexpected but good to know!
+
+Thoughts on icon: I think we picked the wrong icon for this BECAUSE it was originally designed to be an in-app or WebView experience and the "Go to..." button has a navigate to page icon (right-facing arrow), not a navigate to WebView icon (box w/ arrow to upper right)—might be why people are having a hard time closing the WebView, because they may be having some banner blindness to that top WebView UI and also believe they're in a page on the app. Icon was never switched after we started development because this didn't go through any kind of operationalized handoff process, that change fell through the Ops cracks.
+
+### Per developer
+
+Noticed that the user had his font scaled up - the toast was covering the ‘Continue form’ part so it was not immediate obvious where to click to continue the form
+
+Realizing that running these user testing that they may need to uninstall their current VA app on their phone to install the demo version.
+
+### Per product manager
+
+#### On Form Selection
+
+Mentioned that he’d likely select the first option
+
+In Data Entry
+
+Veteran was confused about the error message
+
+Mentioned the flow was not hard to understand
+
+Needed prompting to “leave” the form
+
+#### General Feedback
+
+Found the first screen the most confusing (i.e. form selection)
+
+Understood status, knew that “in progress” meant it’s likely being looked at by somebody.
+
+If checking back later, would expect to see a difference status
+
+In general found the experience pretty easy; but could see how other would find it cumbersome to use
+
+### Per researcher
+
+Pending recording review...
+
