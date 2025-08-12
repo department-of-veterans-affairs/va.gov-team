@@ -1,8 +1,9 @@
 # Pulling Medallia data using VSignals 
 
 ## Requesting access
-1. Request access to VSignals using the form at this link.
-2. Once access is granted, you should receive an email confirmation to your VA email.
+1. Request access to VSignals using the [form at this link](https://apps.gov.powerapps.us/play/e/default-e95f1b23-abaf-45ee-821d-b7ab251ab3bf/a/d8cd45da-4311-42a2-946c-174e3090c934?tenantId=e95f1b23-abaf-45ee-821d-b7ab251ab3bf&hidenavbar=true).
+2. For user role, type in "VA digital admin access" and it should populate with that option.
+3. Once access is granted, you should receive an email confirmation to your VA email.
 
 ## Accessing VSignals
 1. [Navigate to VSignals](https://dvagov.sharepoint.com/sites/vacovsignals?SafelinksUrl=https%3a%2f%2fdvagov.sharepoint.com%2fsites%2fvacovsignals) on the VA Network and select the VSignals option in the menu, as shown in the image below.
