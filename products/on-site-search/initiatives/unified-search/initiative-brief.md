@@ -4,7 +4,7 @@
 Site visitors can utilize a single search experience to find the information they need regardless of where the information is stored - general web content, facility location data, forms database, authenticated or personal information.   
 
 **Related/Associated product(s)**
-- [On-site search product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/product-outline.md)
+- [On-site search product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/unified-search-product-outline.md)
 
 ## Problem
 We currently have multiple search solutions in place across various experiences on VA.gov. These independent solutions not only require visitors to know where to go on the site to search for specific types of information, they also are not meeting expectations in relevancy of results returned. Examples of documented issues include:
