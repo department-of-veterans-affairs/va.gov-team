@@ -89,9 +89,13 @@
 * /my-health/medical-records/vitals/weight-history
 * /my-health/medical-records/vitals/height-history
 * /my-health/medical-records/summaries-and-notes
+* /my-health/medical-records/summaries-and-notes/{ID}
 * /my-health/medical-records/vaccines
+* /my-health/medical-records/vaccines/{ID}
 * /my-health/medical-records/allergies
+* /my-health/medical-records/allergies/{ID}
 * /my-health/medical-records/conditions
+* /my-health/medical-records/conditions/{ID}
 * /my-health/medical-records/download
 * /my-health/medical-records/download/date-range
 * /my-health/medical-records/download/record-type
