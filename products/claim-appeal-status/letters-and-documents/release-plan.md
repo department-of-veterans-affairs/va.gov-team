@@ -6,10 +6,10 @@
 
 #### Rollout Planning
 
-- Desired date range: August 10, 2025
+- Desired date range: August 13-20, 2025
 - How will you make the product available in production while limiting the number of users who can find/access it:
   - We will leverage the existing feature flipper to control the percentage of users who should be able to access.
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like _abandonment rate < 20%_, _reported contact center calls < 2 calls_, _error rate < 5%_, etc.\]
+- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
   - DataDog error rate for letter downloads below 5%
 - Links to the dashboard(s) showing "success criteria" metrics: https://vagov.ddog-gov.com/dashboard/86n-b39-hhn
 - Who is monitoring the dashboard(s)?: BMT2 Team
@@ -22,7 +22,7 @@ _Test a small Veteran population to ensure any obvious bugs/edge cases are found
 
 #### Planning
 
-- Length of time: 2 days
+- Length of time: 1-2 days (August 13 or 14)
 - Percentage of Users: 25%
 
 #### Results
@@ -40,7 +40,7 @@ _Test a larger user population to ensure larger usage patterns expose no issues.
 
 #### Planning
 
-- Length of time: 2 day
+- Length of time: 1-2 days (August 14 or 15; likely holding at 50% over the weekend)
 - Percentage of Users: 50%
 
 #### Results
@@ -58,7 +58,7 @@ _Test a larger user population to ensure larger usage patterns expose no issues.
 
 #### Planning
 
-- Length of time: 2 day
+- Length of time: 1-2 days (beginning early in the week of Aug 18)
 - Percentage of Users: 75%
 
 #### Results
@@ -76,7 +76,7 @@ _Test a larger user population to ensure larger usage patterns expose no issues.
 
 #### Planning
 
-- Length of time: 1 day
+- Length of time: 1-2 days (week of Aug 18)
 - Percentage of Users: 100%
 
 #### Results
