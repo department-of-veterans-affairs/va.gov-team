@@ -167,9 +167,13 @@ Below are the initiatives worked on during the contract, with links to their res
 
 ## 6. Intent to File
 [Initiative Brief: Display Intent to File (ITF) Status in the Claims Status Tool (CST)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Intend%20To%20File%20-%20Product%20Brief.md)
+
 [Design Pitch: Display Intent to File (ITF) Status in CST](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Display%20Intent%20to%20File%20(ITF)%20Status%20in%20CST%20Initiative.md)
+
 [ITF (Intent to File) in CST (Figma)](https://www.figma.com/design/ZLDFINlvw5skb6ckTT9skw/ITF--Intent-to-File--in-CST?node-id=201-192&p=f&t=jJsHCj2cYR6sJMrd-0)
+
 [Intent to File - CST (Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1745429653435/fdc61adbcd6f7c35a14ff23036dc131bd3cfad34)
+
 [Technical Discovery (part of initiative brief)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Intend%20To%20File%20-%20Product%20Brief.md#techinal-information)
 
 ## 7. Letter Migration to Lighthouse
