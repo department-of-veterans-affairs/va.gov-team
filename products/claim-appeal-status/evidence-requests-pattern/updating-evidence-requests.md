@@ -1,10 +1,10 @@
 # Process for Updating Evidence Requests with Plain Language
-
+This document explains the process for updating evidence requests on VA.gov with plain language. Use it as a step-by-step reference to understand what to do and the order to complete each stage.
 ## Prepare
 ### 1. Check the tracking spreadsheet
 Open the [Evidence Request Tracking Spreadsheet (SharePoint)](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/_layouts/15/Doc.aspx?sourcedoc=%7BD662A942-DA89-45FA-A055-35A822C0EB3B%7D&file=Evidence%20Requests%20by%20Type%20and%20Status.xlsx&action=default&mobileredirect=true) to see the status of all evidence requests. This shows which ones are already updated and which still need plain language.
 ### 2. (Optional) Prioritize updates
-To focus on the ones most used by Veterans, sort the spreadsheet by Log count.
+To focus on the ones most used by Veterans, sort the spreadsheet by log count.
 ### 3. Find requests that need updates
 If the “Content status” column is blank or says “On hold,” the request still needs plain language.
 ### 4. Get details from experts
