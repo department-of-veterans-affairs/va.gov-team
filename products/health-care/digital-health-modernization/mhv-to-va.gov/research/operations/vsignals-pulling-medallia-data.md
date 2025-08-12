@@ -49,10 +49,13 @@
 ### Appointments
 * /my-health/appointments
 * /my-health/appointments/
-* /my-health/appointments/upcoming
+* /my-health/appointments/*
 * /my-health/appointments/pending
+* /my-health/appointments/pending/*
 * /my-health/appointments/past
+* /my-health/appointments/past/{ID}
 * /my-health/appointments/schedule
+* /my-health/appointments/schedule/*
 
 ### Messages
 * /my-health/secure-messages/inbox
