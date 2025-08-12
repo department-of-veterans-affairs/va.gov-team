@@ -146,3 +146,38 @@ By accessing this tool, Veterans can stay informed about their disability evalua
 | **Derek Uttley**               | [Title not specified in image]          | VBAVACO          | Pension Claims                                                                      |
 
 
+# BMT2 Initiatives – File Links
+
+Below are the initiatives worked on during the contract, with links to their respective documentation or files.
+
+## 1. Your VA Letters and Documents
+
+
+## 2. Evidence Request Improvements
+
+
+## 3. Supplemental Claim (Discovery Phase)
+
+
+## 4. Payments History – Suppressed 3rd Party Payments
+
+
+## 5. Pension Claims Modernization (8-Step Workflow)
+
+
+## 6. Intent to File
+
+
+## 7. Letter Migration to Lighthouse
+
+
+## 8. Event Bus Gateway – Decision Letter Email Notifications
+
+
+## 9. Silent Failures – Investigation & Response
+
+
+## 10. Fixing Dependents Document Upload Issues
+-
+
+
