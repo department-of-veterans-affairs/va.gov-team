@@ -9,35 +9,24 @@ Janelle Finerty, Principal Researcher
 Michael Tri, Sr. Product Designer  
 Lindsay Li-Smith, Product Manager
 
-## Research Goals**             
+## Research Goals
 
 *   Evaluate the usability of Appoint a Representative on VA.gov. Usability includes understandability of content, whether the experience meets user expectations, and identifying system bugs.
+  · Stretch goal: Evaluate the usability of the Representative Status Widget on VA.gov.
 
-·       Stretch goal: Evaluate the usability of the Representative Status Widget on VA.gov.
-
-## Research Questions**
+## Research Questions
 
 1.  Are there any usability challenges with the Appoint a Representative feature?
-
 1.  Do users understand the information shown?
-
-   i.         Is there any information missing?
-
+   a. Is there any information missing?
 2.  Are there any challenges with using the experience?
-
-  i.         Is there any confusion with the ‘Street address line 2’ input?
-
-  ii.         Do users correctly interpret the "Note: If you submit another request, you'll cancel your current one." content on the confirmation page?
-
+   a. Is there any confusion with the ‘Street address line 2’ input?
+   b. Do users correctly interpret the "Note: If you submit another request, you'll cancel your current one." content on the confirmation page?
 3.  Does the experience meet user expectations?
-4.  Are the steps clear and actionable?
-
-    i.         Are there any reasons why users are not navigating from the Download to the ## Next Steps pages?
-
+4.  4.  Are the steps clear and actionable?
+   a. Are there any reasons why users are not navigating from the Download to the ## Next Steps pages?
 5.  Are assistive technology (AT) users able to successfully use the feature?
-
 2.  _Stretch goal:_ Are there any usability challenges with the Representative Status Widget?
-
 1.  Same additional questions as above.
 
 ## Methodology
