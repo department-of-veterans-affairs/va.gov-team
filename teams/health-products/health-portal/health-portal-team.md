@@ -1,5 +1,5 @@
 # OCTO Health Portal Team
-Updated 8/5/2025
+Updated 8/12/2025
 
 ## Table of Contents
 - [Welcome](#welcome)
@@ -41,18 +41,6 @@ The My HealtheVet on VA.gov team’s mission is to simplify Veterans’ health e
   - Matt Bain
 
 ## Web and Mobile Delivery Product Team Members
-
-<details>
-<summary>Forthcoming roles joining the team</summary>
-
-|Name - Role|DSVA Slack|
-|------|----|
-| starting 8/11 - QA Engineer | TBD |
-| starting 8/11 - Frontend Engineer | TBD |
-| starting 8/11 - Designer | TBD |
-| starting 8/11 - Researcher/Information Architect | TBD |
-
-</details>
 
 ### Horizon
 This cross-functional group serves as the Company points of contact for the delivery team and manages work that impacts the whole portal. 
@@ -114,6 +102,9 @@ During the transition period, the Medications team and Medical Devices team will
 | Mario Williams   | TBD                                                               |
 | Jayson Perkins   | [@Jayson Perkins](https://dsva.slack.com/team/U01A8SZCMHA)        |
 | Sofia Cordero    | TBD |
+| Fiona Tang       | TBD |
+| Espy Thomson     | TBD |
+
 
 ### Medical Devices and Supplies
 - Slack channel: [#vagov-supply-reordering](https://dsva.slack.com/archives/C05DFSM57FW)
@@ -138,6 +129,8 @@ During the transition period, the Medications team and Medical Devices team will
 | Athena Bozak     | [@Athena Bozak](https://dsva.slack.com/team/U07VBDM5M6J)  |
 | Jonathan Nelson  | [@Jonathan Nelson](https://dsva.slack.com/team/URMHM214N) |
 | Anneka Van Garza | TBD                                                       |
+| Tanya Malhotra   | TBD |
+| Laura Simpson    | TBD |
 
 ### Customer Support and Triage
 - Slack channel: 

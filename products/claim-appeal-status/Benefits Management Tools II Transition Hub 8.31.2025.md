@@ -152,9 +152,13 @@ Below are the initiatives worked on during the contract, with links to their res
 
 ## 1. Your VA Letters and Documents
 
+[VA Letters and Documents Page - Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/VA%20Letters%20and%20Documents.md)
 
 ## 2. Evidence Request Improvements
 
+[Process for Updating Evidence Requests with Plain Language](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/evidence-requests-pattern/updating-evidence-requests.md)
+
+[Evidence Requests Pattern Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/evidence-requests-pattern/release-plan.md)
 
 ## 3. Supplemental Claim (Discovery Phase)
 
@@ -183,6 +187,17 @@ For the Intent to File (ITF) discovery phase, the team investigated how Veterans
 
 ## 8. Event Bus Gateway – Decision Letter Email Notifications
 
+[Architecture Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/event-bus-notify/Architecture%20Diagram.md)
+
+[Data Flow Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/event-bus-notify/Data%20Flow%20Diagram.md)
+
+[Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/event-bus-notify/Product%20Outline.md)
+
+[Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/event-bus-notify/Release%20Plan.md)
+
+[Sequence Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/event-bus-notify/Sequence%20Diagram.md)
+
+[Other documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/event-bus-notify/documentation.md)
 
 ## 9. Silent Failures – Investigation & Response
 

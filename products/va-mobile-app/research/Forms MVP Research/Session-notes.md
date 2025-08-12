@@ -196,5 +196,105 @@ In general found the experience pretty easy; but could see how other would find 
 
 ### Per researcher
 
-Pending recording review...
+#### Warm-up questions
+Veteran: confirmed
 
+Device using an iPhone
+
+Default web browser: Safari
+
+Did receive the testing link, downloaded prior to study, no noted difficulties
+
+Yes, have completed a VA form online before
+
+Does have the VA Health & Benefits app downloaded on their device.
+
+Uses to checkin upon arrival at facility, travel reimbursements, and to check secure messaging between self and providers.
+
+Experience so far: “It’s actually pretty good.”
+
+Participant noted being unable to see themself or me upon sharing screen. 
+
+Got a “ready to test screen” that required a Redeem code. The participant asked about it and was told it would be provided during the testing session. This was not experienced by the previous participant. It was noted by the developer following the call that this was due to the participant not having also clicked on the step 2 button in the instructions. 
+
+Tried number inside link as redeem code, but participant had difficulty with his keyboard allowing him to enter a lowercase, and then experienced some delay/freezing from the device as he was entering the code.
+
+Had to click step 2 “view in testflight” and “install” , got the already have app installed modal and clicked “install”.
+
+Launched the testing app
+
+#### User tasks
+
+Login: no problems. User was experiencing window overlap with the app blocking a portion of the screen.
+
+Participant had no problem finding the “Go to forms” button on the homescreen, intuitively scrolled down.
+
+Screen: “Submit a statement to support a claim”
+
+No comments
+
+Screen: “What would you like to do?:
+
+Believed option 1 “I have new evidence to submit for an open claim” was the correct option to select, same as P1.
+
+Noted “Well, it could be any of these, couldn’t it.”
+
+Prompted to select “What I want to do isn’t listed here” to move forward in the flow.
+
+#### Form entry
+
+Phone suggests Names to prefill fields in 1 click (inherit benefit of iOS)
+
+SSN troubleshooting: Did not have any other issues so far before this error, noted nothing else was hard to navigate or understand.
+
+Upon instruction to leave the form user scrolled down, asked for support to leave screen
+
+Noticed “Form updated successfully’ overlap overlapped with the area on the screen that the user needed to click on to “Continue form”, user had to scroll to see that it was there.
+
+User also was in dark mode which changed the view of the app but not the web view as they were working through the prototype.
+
+**Note to self: should also test with a non-US address to test the fields.**
+
+It can take awhile to scroll down to the correct state for users, with states such as Texas.
+
+User did not open collapse components to preview data entered prior to submission.
+
+Submission screen
+
+Did not encounter any issues with the form
+
+Quote at 16:48 “No, not really. Only, submitting on the phone is a little harder  typing. But other than that, not too bad.”
+
+Navigating was not deemed challenging
+
+Quote at 17:16. No labels were noted as confusing however, participant noted the first screen looked at where it told us purpose of the form. A few of the options sounded a like.
+
+User had difficulty navigating back to the app from the confirmation page. Needed prompting to exit to Done at top of screen.
+
+Form submission
+
+Knew form was submitted because it was stated directly on the screen when the form was submitted.
+
+Status to the user means that it currently in progress, probably being looked at by somebody. Or it could be routed to somebody.
+
+Quote 18:45. Would hope to see when checking on the form later. “Probably a different status, or, at least I would hope that it would walk me through where it’s at right now. Being reviewed by intake, being reviewed by case manager. Something like that. To kind of show me that it is moving, rather than just in progress. Because that could mean anything.”
+
+Did not encounter issues using their device so far.
+
+#### SuS submitted
+
+Results in Optimal Workshop.
+
+Noted he wasn’t sure about question 5 (well integrated)
+
+Noted on question 7, disagree because not everyone is not technically savvy.
+
+Did feel pretty confident using the system. 
+
+VA testing app overrode the users actual VA app
+
+#### Closing
+
+How did the user find this process overall: Quote 24:10 “It’s pretty… like I said earlier, it’s pretty easy to navigate. But I can see where a lot of people could get confused and find it cumbersome to use. 
+
+1st page with specific questions with purpose of the form was confusing.
