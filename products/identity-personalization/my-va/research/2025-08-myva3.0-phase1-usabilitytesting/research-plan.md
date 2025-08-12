@@ -1,5 +1,5 @@
 
-	# Research Plan for [Team, Product, Date]
+	# Research Plan for [Auth Experience, My VA 3.0, 2025/08]
 > [!NOTE]
 > *Questions about how to set up your research study? Reach out in the [#research-ops](https://dsva.slack.com/archives/C0216PL32HJ) Slack channel.* 
 
