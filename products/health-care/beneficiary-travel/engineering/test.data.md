@@ -31,12 +31,12 @@ You will need to fill out a VA9957 form to gain access to the CHYSHR VistA. For 
 
 1. Download the [VA9957 pdf](https://dvagov.sharepoint.com/:b:/r/sites/OITEPMOETS/Shared%20Documents/VA9957.pdf)
 2. Fill out section 1, 2, and 3; [Here is a picture of what to put for section 1 and section 3](./VA9957.section.1.and.3.PNG)
-  1.  Unless you know them, you can leave items B, D, E and K blank.
-  2.  For G your Expiration Date is your PIV card expiration date
-  3.  For H your Contractor Name Employer is the name of your prime in your contract
-  4.  For I your Contractor Address is the address of your companies physical address
-  5.  For J your AD Username is the Alias within Outlook Address; you can get to this by doing the following...
-     1.  Go to Outlook -> Address Book -> Search for your name -> Select your name -> Use the Alias noted as your AD Username
+  1. Unless you know them, you can leave items B, D, E and K blank.
+  2. For G your Expiration Date is your PIV card expiration date
+  3. For H your Contractor Name Employer is the name of your prime in your contract
+  4. For I your Contractor Address is the address of your companies physical address
+  5. For J your AD Username is the Alias within Outlook Address; you can get to this by doing the following...
+     1. Go to Outlook -> Address Book -> Search for your name -> Select your name -> Use the Alias noted as your AD Username
 3. Sign and get your VA/OCTO team member to sign and approve (For the travel pay team you can ask Kay Lawyer or Mark Dewey)
 4. Submit the signed document at https://dvagov.sharepoint.com/sites/OITEPMOETS/SitePages/SupportRequests.aspx?csf=1&web=1&e=cURoZY&CID=29acea24-f7c1-413f-8091-8579cb0c34c7 by creating an Enterprise Support Request. Please note that you will have to create 2 of these requests! One for Database CHYSHR/983 and one for Database DAYTSHR/984.
   1. This requires you to be on the network to access.
