@@ -44,6 +44,8 @@ Lindsay Li-Smith, Product Manager
 
 *   **Likely False**; The Veterans were **not** able to clearly understand whether the process concludes with a PDF or digital submission.
 
+
+
 ## Key Findings
 
 1. **Challenges with VA.gov login/identity verification (ID.me)**
@@ -51,6 +53,8 @@ Lindsay Li-Smith, Product Manager
 2. **Unfamiliarity with the Find a Representative tool**
 
 3. **Preference for electronic form submission over print/mail**
+
+
 
 ## Details of Findings
 
@@ -64,7 +68,7 @@ Both participants experienced difficulties with the login process on VA.gov. Par
 
 2. **Finding:** Unfamiliarity with the Find a Representative tool
 
-Neither participant was aware that VA.gov offered a tool to find and appoint a representative. Participant 01 stumbled upon it via a link provided by their attorney, and Participant 03 explicitly stated they "didn't know that was available in va.gov," having previously searched for agents via Google. This suggests a possible discoverability issue with the new tool.
+  Neither participant was aware that VA.gov offered a tool to find and appoint a representative. Participant 01 stumbled upon it via a link provided by their attorney, and Participant 03 explicitly stated they "didn't know that was available in va.gov," having previously searched for agents via Google. This suggests a possible discoverability issue with the new tool.
 
 *   **Participant 01:** "To be honest, honest with you, I never, I never got to that point." (When asked if they considered using VA.gov to find an attorney)
 
@@ -73,7 +77,7 @@ Neither participant was aware that VA.gov offered a tool to find and appoint a r
 3. **Finding:** Preference for electronic form submission over print/mail
 Both participants expressed a strong preference for electronic signatures and online form submission. Participant 01 highlighted the convenience, speed, and direct transmission to the VA for back pay purposes. Participant 03 also appreciated the idea of electronic submission, indicating a general aversion to the traditional print, sign, and mail process.
 
-•**Participant 01:** "I think it's outstanding because a lot of people don't have, first of all, you're getting into a form, right? You're trying to accomplish a mission here today. And your form, your mission for today is to get this form filled out and taken care of. Well, bingo, you do all this work, you put all the legwork in right? To get it done. Then all of a sudden, oh, now I gotta file, I gotta print it, I gotta download it, I gotta print it right? Then I gotta fill it out, then I gotta get a stamp, then I gotta put it in an envelope. And then we gotta do the timeframe of the United States Postal Service as opposed to electronically signing it on the computer."
+*   **Participant 01:** "I think it's outstanding because a lot of people don't have, first of all, you're getting into a form, right? You're trying to accomplish a mission here today. And your form, your mission for today is to get this form filled out and taken care of. Well, bingo, you do all this work, you put all the legwork in right? To get it done. Then all of a sudden, oh, now I gotta file, I gotta print it, I gotta download it, I gotta print it right? Then I gotta fill it out, then I gotta get a stamp, then I gotta put it in an envelope. And then we gotta do the timeframe of the United States Postal Service as opposed to electronically signing it on the computer."
 
 *   **Participant 03:** "I don't necessarily prefer the forms that you can't just fill out online and hit submit. I don't like to print them out."
 
@@ -108,7 +112,7 @@ Both participants expressed some confusion about whether the "VA accredited repr
 
 ## Product User and Business Outcomes
 
-**1.** **Desired User Outcome**
+1. **Desired User Outcome**
 
 This research supports our desired user outcome by focusing on the following user outcomes:
 
@@ -121,7 +125,7 @@ This research supports our desired user outcome by focusing on the following use
 *   The process reduces confusion and provides guidance, especially for those unsure if they already have a representative.
 
 
-**2.** **Desired Business Outcome**
+2. **Desired Business Outcome**
 
 This research supports our desired business outcome by focusing on the following business outcomes:
 
@@ -145,23 +149,22 @@ This KPI would measure the percentage of users who successfully find and select 
 
 ## Next Steps
 
-**1.** **Gather Additional User Feedback**
+1. **Gather Additional User Feedback**
 
 Conduct further usability testing and gather feedback from a wider range of users to validate the findings, assess the effectiveness of the implemented changes, and uncover any new pain points or areas for improvement.
 
-**2.** **Track and Analyze KPIs**
+2. **Track and Analyze KPIs**
 
 Continuously monitor the defined KPIs (Successful Form Submissions, User Understanding of Representative Roles, Time to Complete ID.me Verification, Adoption Rate of Electronic Signature/Submission, and Representative Search Success Rate). Analyze the data to understand the impact of the UX improvements and identify areas that require further attention.
 
-**3.** **Prioritize UX Improvements**
+3. **Prioritize UX Improvements**
 
 Focus on implementing the recommended UX changes, particularly improving the discoverability of the "Start your form without signing in" option and clarifying the relationship between accredited representatives and the VA. These changes directly address key user pain points identified in the findings.
-
-**4.** **Promote Electronic Submission**
+4. **Promote Electronic Submission**
 
 Actively promote the benefits of electronic form submission and work to improve the process to increase the adoption rate. This aligns with user preferences and can lead to a more efficient experience.
 
-**5.** **Enhance Tool Discoverability on VA.GOV**
+5. **Enhance Tool Discoverability on VA.GOV**
 
 Develop strategies to increase awareness and discoverability of the "Appoint a Representative" tool on VA.gov. This could involve better placement on the website, targeted communication, or integration with other relevant VA services.
 
