@@ -33,8 +33,7 @@ Hypotheses and Conclusions
 
 
 * Hypothesis Statement: 
-
-Applicants and OGC staff experience significant challenges and inefficiencies with the current VA Form 21a digital accreditation process. 
+    Applicants and OGC staff experience significant challenges and inefficiencies with the current VA Form 21a digital accreditation process. 
     * Definitely True 
         * Manual Contact Information Updates 
             "So everything's pretty much manual, like we're the ones that update all the information..." (0:03:09) and "...we actually have to go in and change their information." (0:03:51). 
@@ -57,7 +56,6 @@ Applicants and OGC staff experience significant challenges and inefficiencies wi
         * Inefficient Character Reference Process (now addressed, but historical inefficiency) 
             "Right now we're not doing our character in reputation requests until after they pass the exam because only 40% of them pass the exam and that took out a big chunk of time." (0:16:59) and "I would say about about 20% [of processing time saved by this change]." (0:19:46). 
             * This demonstrates a past, significant inefficiency that has been mitigated. 
-
 
 
 * Hypothesis Statement: 
