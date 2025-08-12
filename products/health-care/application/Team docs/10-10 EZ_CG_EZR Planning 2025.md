@@ -15,8 +15,7 @@
 - [#94500](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94500) - [QA] Follow-up to complete testing on L&L pattern (CARRIED)
 
 #### Obj: EZ [Improvements/BUGS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
-- [#113841](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113841) - [BE, FE] CSRF at Platform level (CARRIED)
-- **Stretch** [#114338](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114338) - [BE] Investigate in-progress emails being sent when application has been submitted
+- 
 
 #### Obj: EZ [Form Statuses](https://github.com/department-of-veterans-affairs/va.gov-team/issues/95313)
 - [#105833](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105833) - [Eng] Discovery on how we can confidently refer "pending" Veterans to EZR (CARRIED)
@@ -34,8 +33,7 @@
 - [#116521](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116521) - [Research] Dental info content research
 
 #### Obj: [EC/NOK](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75046)
-- [#116430](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116430) - [BE] Add PIL logger to `handle_associations`
-- Add UAT Ticket
+- [#116623](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116623) - [Team] Complete UAT with volunteers
 - [#108518](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108518) - [Eng, PM] Phased Release
 
 
