@@ -6,6 +6,16 @@ This document is a guide to support team members in:
 - Conducting UX-focused manual audits of the 526EZ form
 - Documenting findings on tickets
 - Tracking which parts of the 526EZ have already been audited
+- _[TODO: Identify if there are existing tickets and create new ones other wise. This might be a two part process. Or a 2 person process. Someone has to facilitate the process]_
+- _[TODO: Bug triage / Refinement as part of the process (consolidate duplicates]_
+- [Mural](https://app.mural.co/t/nava4113/m/nava4113/1748904136573/6cc118924290977700e9a4ecd1e7a1b0e7c2e6c9) - check this mural. Eventually someone should assign the bug tickets to the appropriate team.
+- _[TODO: Bulk list of issues on Table - make in shared DBC google drive, can be excel- with observations first so that a group of testers can go in and document stuff en-mass and then someone can refine and transition to official tickets]
+- [TODO: spreadsheet example: https://docs.google.com/spreadsheets/d/1CstNDQMVic-IpJZEAr452UdLhUReAI3X/edit?gid=1348811676#gid=1348811676]
+- [TODO: Identify some users that have rated issues vs users that don't have rated issues.]
+- [TODO: Figure out what is the source of truth for staging users, and identify users that could fall in different scenarios (rated issues) Reserve staging users for the DBC.]
+
+#### Follow Up [TODO]
+- Create ticket for defining triage process for ticks in backlog where we don't know who will own them or priority. 
 
 ## 🧭 Context
 The 526EZ is a long form with multiple pathways (e.g., ancillary forms) and nested, conditional responses. Our team needs to manually test the form for bugs and UX issues. We then need to document findings in a consistent, actionable ticket format as well as track which parts of the 526EZ have been audited. Auditing the 526 will help prioritize fixes and inform a clearer product and UX strategy for future enhancements. This How-To documentation will help ensure consistency in how we evaluate the UX of the form and support longitudinal understanding of what bugs and UX issues exist and where.
