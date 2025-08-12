@@ -14,7 +14,7 @@ Open the [VA.gov Evidence Request Content Worksheet (SharePoint)](https://dvagov
 - What steps the Veteran should take
 - Any other important information
 ## Draft
-### 5. Create the design mockup
+### 5. Create a design mockup
 Once the worksheet is complete, create a design mockup in [Evidence Requests (Figma)](https://www.figma.com/design/P9rl860Qt8qqVFZGg4sejE/Evidence-Requests?node-id=0-1&p=f&t=KgdQOGJvE0T08vRm-0) with the new plain language content.
 ### 6. (Optional) Share with SME for review
 Send a screenshot of the mockup to the subject matter expert for feedback.
@@ -22,11 +22,11 @@ Send a screenshot of the mockup to the subject matter expert for feedback.
 Update the mockup with any changes from the review.
 ## Review
 ### 8. Get final approval
-Request a content and design review from the Design Lead.
+Request a content and design review from the Design Lead and product owner.
 ## Publish
 ### 9. Submit for implementation
 After approval, ask an engineer to add the changes to staging.va.gov.
 ### 10. Review and go live
-Check the staging site for accuracy and quality. When it’s ready, give the go-ahead to publish on the live site.
+Check the staging site for accuracy and quality. When it’s ready, give the go-ahead to publish on the live production site.
 
 
