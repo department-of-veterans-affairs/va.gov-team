@@ -119,7 +119,7 @@ be proactive in noticing and fixing production issues, we adhere to the followin
 ### Escalation Steps
 - Initial Triage: On-call engineer attempts to resolve the issue for [Timeframe, e.g., 15 minutes].
 - Technical Escalation: If no progress is made, the on-call engineer pages the Technical Lead.
-- Leadership Escalation: For Sev 1 incidents or if the Technical Lead is unable to resolve the issue, the Incident Commander  (**DO YOU MEAN COORDINATOR**) and relevant leadership are notified. (**CONFIRM OVERNIGHT / LATE NIGHT BEHAVIOR W/ LEADERS.**)
+- Leadership Escalation: For Sev 1 incidents or if the Technical Lead is unable to resolve the issue, the Coordinator and relevant leadership are notified.
 
 ## 🛠️ Debugging Steps
 
