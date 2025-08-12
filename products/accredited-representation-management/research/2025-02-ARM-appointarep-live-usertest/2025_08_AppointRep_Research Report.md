@@ -109,19 +109,26 @@ o   **Participant 03:** "So I did not scroll down far enough to know that I co
 **1.** **Desired User Outcome**
 
 This research supports our desired user outcome by focusing on the following user outcomes:
+
 o   Veterans can easily search for and appoint accredited representatives via VA.GOV.
+
 o   Users can see their current representative information after signing in.
+
 o   Veterans have clarity about the process, including selecting, contacting, and officially appointing a representative.
+
 o   The process reduces confusion and provides guidance, especially for those unsure if they already have a representative.
 
 **2.** **Desired Business Outcome**
 
 This research supports our desired business outcome by focusing on the following business outcomes:
+
 o   Increase VA.gov’s functionality to support appointing accredited representatives, replacing legacy services (e.g., eBenefits).
+
 o   Reduce the time and effort it takes for Veterans to appoint a representative.
+
 o   Improve the accuracy and ease of collecting representative documentation for Veteran applications.
 
-## Key Performance Indicators**
+## Key Performance Indicators
 
 1. **KPI:** Adoption Rate of Electronic Signature/Submission
 
