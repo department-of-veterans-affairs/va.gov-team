@@ -156,6 +156,9 @@ Below are the initiatives worked on during the contract, with links to their res
 
 ## 2. Evidence Request Improvements
 
+[Process for Updating Evidence Requests with Plain Language](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/evidence-requests-pattern/updating-evidence-requests.md)
+
+[Evidence Requests Pattern Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/evidence-requests-pattern/release-plan.md)
 
 ## 3. Supplemental Claim (Discovery Phase)
 
