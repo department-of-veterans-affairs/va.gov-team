@@ -232,7 +232,7 @@ iii. Is there anything missing from either option that you’d like to see?
 -Does the participant feel strongly towards one option vs. another? Why? 
 -Is there anything missing from either option? 
 
-# Post-Task Interview - X minutes
+# Post-Task Interview - 5 minutes
 
 -What are your overall thoughts on the website we shared with you today? 
 -On a scale of 1-5, where 1 is Very Unlikely and 5 is Very Likely, how likely would you use the updated website we showed today? Why or why not? 
@@ -246,7 +246,7 @@ I want to circle back and re-confirm that you are comfortable if we were to shar
 If yes: Is there any part of our discussion you would NOT want shared in a video clip? 
 
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - 2 minutes
 
 We’d love to hear what you think about your overall experience of being scheduled and participating in the research session. Could we have done anything differently/better? 
 
