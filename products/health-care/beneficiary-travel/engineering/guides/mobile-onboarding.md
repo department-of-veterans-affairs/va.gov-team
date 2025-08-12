@@ -80,7 +80,7 @@ Other helpful channels
   - Downtime windows are implemented with the useDowntime hook in the mobile app  
   - Because we don’t want to take down the entire appointments tool when travel pay is down we have made some adjustments to the usual usage of the useDowntime hook and only apply a subset of downtime features in the appointments screens
 
-### Backend vets-api
+### Backend [vets-api](https://github.com/department-of-veterans-affairs/vets-api)
 
 - The core travel pay functionality lives in [the travel\_pay module](https://github.com/department-of-veterans-affairs/vets-api/tree/master/modules/travel_pay). This is where we integrate with the Travel Pay API (an intermediary layer that integrates with the Dynamics backing system via plugins).  
 - However, the mobile controllers/serializers/schemas etc. are all located in the [mobile module](http://github.com/department-of-veterans-affairs/vets-api/tree/master/modules/mobile). Because the Mobile app must always be backwards compatible with older versions of the app, the mobile module in vets-api is stricter when it comes to change.
@@ -90,7 +90,7 @@ Here is a diagram of the backend Mobile module showing the inter-relationships a
 
 ![](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/engineering/guides/Mobile-BE-integration-diagram.png)
 
-### Web Frontend vets-website
+### Web Frontend [vets-website](https://github.com/department-of-veterans-affairs/vets-website)
 
 - Because we are looking for consistency around logic for filing and because the web will integrate with the Travel Pay API and roll out features prior to adding them in the mobile app, it’s important to know where to find travel pay features in vets-website.  
 - The main Travel Pay app is located in [src/applications/travel-pay](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/travel-pay). This is where all things specifically travel pay live including the status list, claim details page, and SMOC submission flows.  
