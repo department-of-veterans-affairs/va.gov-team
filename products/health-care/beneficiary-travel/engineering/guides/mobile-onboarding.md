@@ -73,7 +73,8 @@ Other helpful channels
   - There are currently 3 remote config flags:  
     - travelPaySmoc (currently at 100% for all users on v 2.54.0+; controls displaying SMOC filing capabilities, the Home screen Past Appointments activity button, and passing the include flag in the appointments API call to append travel claims to the past appointments list)  
     - travelPayClaimsFullHistory (controlling the “you didn’t file a claim for this appointment” component for appointments \> 30 days old \- not currently in Firebase, will always return false)  
-    - travelPayStatusList (controlling the claims list page and API calls, not currently in Firebase, will always return false)  
+    - travelPayStatusList (controlling the claims list page and API calls, not currently in Firebase, will always return false)
+  - When ready to launch a feature, ask someone from the core mobile team to add the feature flag in Firebase and enable it according to the rollout plan.
   - The remote config flags are used with the featureEnabled function to determine whether or not to display the feature(s) as well as whether or not to make API requests  
 - Travel Pay features are also wrapped in a downtime window, received from [vets-api](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/mobile/app/controllers/mobile/v0/maintenance_windows_controller.rb) when the travel pay backing service is down  
   - Currently there is only one downtime window that affects both web and mobile feature access  
