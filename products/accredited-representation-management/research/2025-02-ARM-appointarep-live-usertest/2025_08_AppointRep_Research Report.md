@@ -86,11 +86,13 @@ Both participants expressed a strong preference for electronic signatures and on
 ## Additional Insights
 
 1. **Additional Finding:** Desire for an online-only/virtual representative option
+
 Participant 03 explicitly looked for options beyond in-person assistance, mentioning a preference for a "Virtual online telephone only" representative. This indicates a growing need for flexible representative options that don't require physical presence.
 
 *   **Participant 03:** "Either by zip code for a person to person face to face or there might be an option. Virtual online telephone only. That's kind of what I'm thinking. It wouldn't have to be, I would think that there would, if you want face to face, you could find someone face-to-face by zip code city and state. Or if it's online or telephone only, it would say that option. Find VA accredit representative. VSO Online virtual only."
 
 2. **Additional Finding:** Information about representative roles and accreditation is not clear enough
+
 Both participants demonstrated some confusion regarding the role of representatives listed on VA.gov and whether they are VA employees or independent. Participant 01 initially thought the VA would know their representative, and Participant 03 asked if the "VA accredited representative works for the VA." This suggests a need for clearer distinctions and explanations about the accreditation process and the representative's relationship with the VA.
 
 *   **Participant 03:** “How would the VA know who my representative is?"
