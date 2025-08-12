@@ -124,28 +124,35 @@ o   Improve the accuracy and ease of collecting representative documentation f
 ## Key Performance Indicators**
 
 1. **KPI:** Adoption Rate of Electronic Signature/Submission
+
 a. This KPI would track the percentage of users who choose to electronically sign and submit forms through VA.gov compared to those who use the traditional print-and-mail method.
 b. The finding that both participants strongly preferred electronic submission and highlighted its benefits directly supports the importance of this metric. Efforts to promote and improve the electronic submission process would aim to increase this adoption rate.
 
 2. **KPI:** Representative Search Success Rate
+
 a. This KPI would measure the percentage of users who successfully find and select a representative using the VA.gov tool.
 b. The finding that neither participant was aware of the tool, and Participant 03 previously used Google to search for agents, directly supports the need to track this metric. Improving the discoverability and usability of the "Appoint a Representative" tool on VA.gov would aim to increase this success rate.
 
 ## Next Steps
 
 **1.** **Gather Additional User Feedback**
+
 Conduct further usability testing and gather feedback from a wider range of users to validate the findings, assess the effectiveness of the implemented changes, and uncover any new pain points or areas for improvement.
 
 **2.** **Track and Analyze KPIs**
+
 Continuously monitor the defined KPIs (Successful Form Submissions, User Understanding of Representative Roles, Time to Complete ID.me Verification, Adoption Rate of Electronic Signature/Submission, and Representative Search Success Rate). Analyze the data to understand the impact of the UX improvements and identify areas that require further attention.
 
 **3.** **Prioritize UX Improvements**
+
 Focus on implementing the recommended UX changes, particularly improving the discoverability of the "Start your form without signing in" option and clarifying the relationship between accredited representatives and the VA. These changes directly address key user pain points identified in the findings.
 
 **4.** **Promote Electronic Submission**
+
 Actively promote the benefits of electronic form submission and work to improve the process to increase the adoption rate. This aligns with user preferences and can lead to a more efficient experience.
 
 **5.** **Enhance Tool Discoverability on VA.GOV**
+
 Develop strategies to increase awareness and discoverability of the "Appoint a Representative" tool on VA.gov. This could involve better placement on the website, targeted communication, or integration with other relevant VA services.
 
 ## Appendix
