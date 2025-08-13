@@ -23,13 +23,13 @@ body:
       multiple: true
       options:
         - DEFINE: Identify content needs
-        - **Define** Analyze existing content (in production)
-        - **Create** Create new content
-        - **Ideate** Review content already created by design team (not yet in production)
-        - **User testing** Content on prototypes for testing
-        - **User testing** Content validation during testing
-        - **User testing** Refine content based on testing
-        - **Other** (e.g. a workshop)
+        - DEFINE: Analyze existing content (in production)
+        - CREATE: Create new content
+        - IDEATE: Review content already created by design team (not yet in production)
+        - TEST: Content on prototypes for testing
+        - TEST: Content validation during testing
+        - TEST: Refine content based on testing
+        - Other (e.g. a workshop)
 
   - type: input
     id: stakeholders_other
