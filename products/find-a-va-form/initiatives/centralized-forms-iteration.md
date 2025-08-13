@@ -5,7 +5,7 @@
 Veterans, family member beneficiaries, and those who support them rely on many forms to apply for benefits, file claims, provide and update information on file with VA, and other critical tasks. VA.gov's current organizational approach to forms is not optimal to helping Veterans, family member beneficiaries, and those who support them find the forms and related information as quickly as possible.
 
 VA.gov currently provides information about and access to these forms in different ways:
-- Within benefit hubs, organized around benefit types for forms that have a  (ex. The online 10-10EZ lives in the va.gov/health-care hub and the 526EZ lives in the va.gov/disability hub)
+- Within benefit hubs, organized around benefit types (ex. The online 10-10EZ lives in the va.gov/health-care hub and the 526EZ lives in the va.gov/disability hub)
 - Under root level pages, organized around a task (ex. The financial status report lives under the va.gov/manage-debt root-level page) or a grouping of forms (ex. Forms related to multiple claim types live under the www.va.gov/supporting-forms-for-claims/ root-level page)
 - Within a dedicated "Find a form" section of the site, organized around forms and presented as a search experience (PDF forms)
 
