@@ -89,6 +89,7 @@ O1: VA’s digital experiences are the easiest and most efficient way to access 
 |5/21/2025| We will not include notifications as part of MVP. | The decision was made at our VA/PO sync with Ryan Thurlwell and Michelle, to include notifiactions when we release a different Debt Service feature, such as when Veterans are able to make a payment for their debts within the app.| 
 |6/12/2025| Veterans who need to pay an overpayment bill will be linked directly to www.pay.va.gov. | This discussion occurred since the MFS team found out that www.pay.va.gov will eventually go away and overpayment bills will eventually be paid in pay.gov. As of today, no timeline has been provided for when the transition will be finalized. This decision was made in the Financial Management OCTO Slack by Denise.| 
 |6/30/2025| MVP Payment options will be in browser view.| This decision occurred during the Core Mobile Office Hours. Jonathan provided guidance that if a Veteran does not need to be authorized, it will be displayed in the browser view and will follow these guidelines to maintain consistency for Veterans.| 
+|8/12/2025| Align Copayments with the same user pattern as Overpayments.| Based on results of research the user pattern that was designed for Overpayments tested the best, so we will update the user pattern for Copayments to match Overpayments. Michelle provided us with the direction to make the updates to the design on 8/12/25 during a UX//PO sync.|
 
 ## Reference Materials
 
