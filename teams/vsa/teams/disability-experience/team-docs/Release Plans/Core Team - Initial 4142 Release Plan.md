@@ -124,7 +124,7 @@ If issues arise in production:
 - **Timeline:** After August 22 Staging Review, before September 1 release.
 - **Users:** 1 mod-prod tester.
 - **Recruitment:** Internal testers with prior 4142 submissions.
-- **Method:** Enable toggles for tester ID only, with stop-submission flag active.
+- **Method:** Enable toggles for tester ID only, with Production Tester flag active (this `disability_compensation_production_tester` flag stops mail automation from being triggered, blocks submissions from going down the Backup path, prevents ITFs from being generated, and prevents 4142 workflow from being triggered)
 
 **Results:** *(to be filled post-test)*
 
