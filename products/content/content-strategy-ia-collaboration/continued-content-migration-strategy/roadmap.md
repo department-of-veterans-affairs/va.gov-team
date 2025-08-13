@@ -4,8 +4,8 @@
 [Supporting work](#Supporting-work) <br>
 [Criteria for prioritization](#Criteria-for-prioritization) <br>
 [Recently completed migration efforts](#Recently-completed-migration-efforts) <br>
-[Currently in progress migration initiatives](#Currently-in-progress-migration-initiatives) <br>
-[Up next migration efforts](#Up-next-migration-efforts)
+[Currently in progress and near-term upcoming migration initiatives](#Currently-in-progress-and-near-term-upcoming-migration-initiatives) <br>
+[Longer term roadmap](#Longer-term-roadmap)
 
 ## Purpose of migration
 
@@ -86,7 +86,7 @@ Most of the content is now migrated or retired and redirected. Working with part
 
 <img width="353" height="153" alt="image" src="https://github.com/user-attachments/assets/6459c435-0e45-454c-820c-065b99020598" />
 
-### Longer-term roadmap
+## Longer-term roadmap
 
 <img width="338" height="189" alt="image" src="https://github.com/user-attachments/assets/02461c16-5c5b-4d78-8463-a88f68357e56" />
 
