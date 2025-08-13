@@ -41,7 +41,7 @@ body:
     id: value_statement
     attributes:
     label: Value Statement
-      placeholder: "As a Veteran... I want to... so that...
+      placeholder: As a Veteran... I want to... so that...
       
   - type: textarea
     id: request_summary
