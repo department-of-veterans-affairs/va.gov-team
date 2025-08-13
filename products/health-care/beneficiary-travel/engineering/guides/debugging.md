@@ -68,7 +68,7 @@ claims_service = TravelPay::ClaimsService.new(auth_manager, test_user)
 ```
 Finally, test the service with:
 ```ruby
-claims_service.get_claims
+claims_service.get_claims({})
 
 # or with params:
 
