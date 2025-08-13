@@ -24,16 +24,16 @@ This integration utilizes the vets-api PostgreSQL database to store processed an
 ### Architecture Diagrams
 
 #### System Architecture
-- **[technical-documentation/images/architecture_diagram.png](./technical-documentation/images/architecture_diagram.png)** - System architecture showing vets-API server with Sidekiq workers, daily job scheduling, and integration points with Accreditation API, Slack notifications, Lighthouse Address API, and PostgreSQL database
+- **[images/architecture_diagram.png](./images/architecture_diagram.png)** - System architecture showing vets-API server with Sidekiq workers, daily job scheduling, and integration points with Accreditation API, Slack notifications, Lighthouse Address API, and PostgreSQL database
 
 #### Data Flow Process
-- **[technical-documentation/images/data_flow_diagram.png](./technical-documentation/images/data_flow_diagram.png)** - Data flow showing daily job execution, API data fetching for all representative types, PostgreSQL record updates, and monitoring alerts for significant data changes
+- **[images/data_flow_diagram.png](./images/data_flow_diagram.png)** - Data flow showing daily job execution, API data fetching for all representative types, PostgreSQL record updates, and monitoring alerts for significant data changes
 
 #### Address Validation Workflow  
-- **[technical-documentation/images/accredited_individuals_update_diagram.png](./technical-documentation/images/accredited_individuals_update_diagram.png)** - Address validation workflow showing AccreditedIndividualsUpdate job, Lighthouse Address API integration, and PostgreSQL record updates
+- **[images/accredited_individuals_update_diagram.png](./images/accredited_individuals_update_diagram.png)** - Address validation workflow showing AccreditedIndividualsUpdate job, Lighthouse Address API integration, and PostgreSQL record updates
 
 #### Detailed Sequence Flow
-- **[technical-documentation/images/sequence_diagram.png](./technical-documentation/images/sequence_diagram.png)** - Complete sequence diagram showing the full daily processing cycle from scheduler trigger through API data processing, record comparison, address validation, and database updates
+- **[images/sequence_diagram.png](./images/sequence_diagram.png)** - Complete sequence diagram showing the full daily processing cycle from scheduler trigger through API data processing, record comparison, address validation, and database updates
 
 ## Database Integration
 
@@ -49,14 +49,18 @@ This system integrates with the **primary vets-api PostgreSQL database** through
 
 ### Core Documentation
 
-- **[accreditation_api_work_remaining.md](./accreditation_api_work_remaining.md)** - Comprehensive task list detailing remaining work before and after integration, including address validation fixes, staging testing requirements, production deployment steps, and future enhancement opportunities
-- **[decision-change-log-accreditation-api.md](./decision-change-log-accreditation-api.md)** - Change log documenting API connectivity issues and data availability challenges encountered during development and testing phases
-- **[release-plan-accreditation-api.md](./release-plan-accreditation-api.md)** - Staged rollout plan with feature flag configuration, testing requirements, Go/No-Go criteria, and rollback procedures
+- **[accreditation_api_work_remaining.md](../accreditation_api_work_remaining.md)** - Comprehensive task list detailing remaining work before and after integration, including address validation fixes, staging testing requirements, production deployment steps, and future enhancement opportunities
+- **[decision-change-log-accreditation-api.md](../decision-change-log-accreditation-api.md)** - Change log documenting API connectivity issues and data availability challenges encountered during development and testing phases
+- **[release-plan-accreditation-api.md](../release-plan-accreditation-api.md)** - Staged rollout plan with feature flag configuration, testing requirements, Go/No-Go criteria, and rollback procedures
 
 ### Supporting Documentation
 
-- **[Privacy.Security.Infrastructure.Readiness.Review.for.Accreditation.API.docx](./Privacy.Security.Infrastructure.Readiness.Review.for.Accreditation.API.docx)** - Official privacy and security review documentation for the API integration
+- **[Privacy.Security.Infrastructure.Readiness.Review.for.Accreditation.API.docx](../Privacy.Security.Infrastructure.Readiness.Review.for.Accreditation.API.docx)** - Official privacy and security review documentation for the API integration
 - **[Notes from Architecture Intent](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/pull/2300)** - Sensitive architecture planning and design decisions (requires team access)
+
+### Technical Diagrams
+
+- **[mermaid-diagrams.md](./mermaid-diagrams.md)** - Version-controllable Mermaid diagram representations of all technical architecture diagrams
 
 ## Key Benefits
 
@@ -72,4 +76,4 @@ This system integrates with the **primary vets-api PostgreSQL database** through
 **GitHub Label**: `accredited-representation-management-team`  
 **Slack Channel**: `#benefits-representation-management`
 
-For detailed technical implementation, testing procedures, and deployment guidelines, see the [work remaining documentation](./accreditation_api_work_remaining.md) and [release plan](./release-plan-accreditation-api.md).
+For detailed technical implementation, testing procedures, and deployment guidelines, see the [work remaining documentation](../accreditation_api_work_remaining.md) and [release plan](../release-plan-accreditation-api.md).
