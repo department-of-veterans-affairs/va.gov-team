@@ -18,83 +18,86 @@ body:
   - type: dropdown
     id: support_type
     attributes:
-      label: What kind of content support is needed?
+      label: 🛠 What kind of content support is needed?
       description: Review the [content design menu](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1746655929211/80067a3f9875681b70f4a854ce74388504c5c1de?sender=uf5838c6c24bc1098b12b5304) and select the most relevant category.
       multiple: true
       options:
-        - Define - Identify content needs
-        - Define - Analyze existing content (in production)
-        - Create - Create new content
-        - Ideate - Review content already created by design team (not yet in production)
-        - User testing - Content on prototypes for testing
-        - User testing - Content validation during testing
-        - User testing - Refine content based on testing
-        - Other (e.g. a workshop)
+        - **Define** Identify content needs
+        - **Define** Analyze existing content (in production)
+        - **Create** Create new content
+        - **Ideate** Review content already created by design team (not yet in production)
+        - **User testing** Content on prototypes for testing
+        - **User testing** Content validation during testing
+        - **User testing** Refine content based on testing
+        - **Other** (e.g. a workshop)
 
   - type: input
+    id: stakeholders_other
+    attributes:
+      label: If "Other" is selected above, please describe
+      placeholder: Describe typw of work here...
+
+  - type: textarea
     id: value_statement
     attributes:
-      label: Value Statement
-      placeholder: "As a Veteran... I want to... so that... e.g., As a Veteran applying for benefits, I want to understand the evidence I need to submit so that I can complete my application without delays."
-
+      label: 💬 Value Statement
+      placeholder: "As a Veteran... I want to... so that...
+      
   - type: textarea
     id: request_summary
     attributes:
-      label: Summary of request
+      label: 📝 Summary of request
       placeholder: What are you building and why does it matter?
 
   - type: dropdown
     id: priority
     attributes:
-      label: Priority
-      description: |
-        🏃‍♂️ **High:** Must complete before the next sprint ends (e.g., blocks other work, part of the Collaboration Cycle, or has an external deadline)
-        🌼 **Medium:** Important but not urgent (e.g., unblocks near-future work or is needed for an upcoming milestone)
-        🐢 **Low:** Nice to have (e.g., not time-sensitive, no major dependencies, won't block others if delayed)
+      label: ⏱ Priority
       options:
-        - High
-        - Medium
-        - Low
+        - 🏃‍♂️ **High:** Must complete before the next sprint ends (e.g., blocks other work, part of the Collaboration Cycle, or has an external deadline)
+        - 🌼 **Medium:** Important but not urgent (e.g., unblocks near-future work or is needed for an upcoming milestone)
+        - 🐢 **Low:** Nice to have (e.g., not time-sensitive, no major dependencies, won't block others if delayed)
 
   - type: dropdown
     id: effort
     attributes:
-      label: Effort
-      description: |
-        🐜 **Small:** Simple revision (e.g., editing a sentence or two)
-        🐈 **Medium:** Moderate update (e.g., editing a couple of sections or revising a page)
-        🐘 **Large:** Full review and rework (e.g., multiple screens, new content, or net-new flow)
+      label: 📏 Effort
       options:
-        - Small
-        - Medium
-        - Large
+        - 🐜 **Small:** Simple revision (e.g., editing a sentence or two)
+        - 🐈 **Medium:** Moderate update (e.g., editing a couple of sections or revising a page)
+        - 🐘 **Large:** Full review and rework (e.g., multiple screens, new content, or net-new flow)
 
   - type: textarea
     id: links
     attributes:
-      label: Relevant Links
+      label: 🔗 Relevant Links
       placeholder: "Include Figma, GitHub tickets, Collaboration Cycle, Mural, or other references."
 
   - type: textarea
     id: dates_meetings
     attributes:
-      label: Important Dates and Meetings
+      label: 📅 Important Dates and Meetings
       placeholder: "Timeline expectations, collaboration cycle stage, or meeting invites."
 
   - type: checkboxes
     id: stakeholders
     attributes:
-      label: Stakeholders
+      label: 👥 Stakeholders
       options:
-        - label: Enablement team - Product
-        - label: Enablement team - Design
-        - label: Enablement team - Other
+        - label: Enablement: Product
+        - label: Enablement: Design
         - label: Design
         - label: Engineering
         - label: Accessibility
         - label: OBA
         - label: Other
-
+  
+  - type: input
+    id: stakeholders_other
+    attributes:
+      label: If "Other" is selected above, please describe
+      placeholder: Describe additional stakeholders here...
+    
   - type: textarea
     id: open_questions
     attributes:
