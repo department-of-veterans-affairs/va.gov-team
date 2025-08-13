@@ -1,20 +1,24 @@
-# Centralized Forms Iteration (WIP)
+# Centralized forms initiative
 
-## Background
+## Background and problem statement
 
-Find a form was redesigned in 2020 with the goals of 
-- aligning the page with the VA.gov look and feel
-- driving traffic to top tasks and to the top digital versions of form applications with new content (because the page already had consistently high organic search traffic and the potential to provide better conversion)
-- adding analytics tracking to all links and downloads
+Veterans, family member beneficiaries, and those who support them rely on many forms to apply for benefits, file claims, provide and update information on file with VA, and other critical tasks. VA.gov's current organizational approach to forms is not optimal to helping Veterans, family member beneficiaries, and those who support them find the forms and related information as quickly as possible.
 
-Four years later, the existing benefit-centric IA cannot meet the needs of the changed landscape.                           
+VA.gov currently provides information about and access to these forms in different ways:
+- Within benefit hubs, organized around benefit types for forms that have a  (ex. The online 10-10EZ lives in the va.gov/health-care hub and the 526EZ lives in the va.gov/disability hub)
+- Under root level pages, organized around a task (ex. The financial status report lives under the va.gov/manage-debt root-level page) or a grouping of forms (ex. Forms related to multiple claim types live under the www.va.gov/supporting-forms-for-claims/ root-level page)
+- Within a dedicated "Find a form" section of the site, organized around forms and presented as a search experience (PDF forms)
+
+Over time, this organizational approach has led to these problems:
+- **Forms are harder to find due to the lack of a consistent information architecture for all forms and clear navigation paths to forms used across multiple benefits.** VA's continued digitization of more forms, including many used across multiple benefits, compounds this problem futher.
+- **Information about how to apply for benefits and complete other tasks using forms is scattered across the site―leading to duplicative information and underutilization of the most SEO-optimized pages.** The "About form" pages garner the highest SEO rankings for their respective forms due to the form number being in the H1 of each page. But the "About form" page template does not allow for robust information about how to use a form, information to gather before starting a form, or what to expect after submitting a form. This helpful information, when present, is instead housed on pages such as "How to apply" pages and form introduction pages within the benefit hubs. So, the most robust and helpful information isn't presented on the pages that most appear in search results.
 
 ### History and resources
-- [2021-README](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-01-mvp/README.md#mvp-search-landing-page-status-and-decisions) has timeline of changes and overview of decisions.
+- [2021-README](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-01-mvp/README.md#mvp-search-landing-page-status-and-decisions): 
+We complete an iteration on the "Find a form" product in 2020 to align with the VA.gov look and feel, capitalize on high SEO value of About form pages to drive more traffic to top tasks and online forms, and add analytics tracking to all links and downloads. However, the About form page templates need additional iteration to better accomodate all relevant form information. This file offers a timeline of changes and overview of decisions.
+---
 
-  ---
-
-## Outcome Summary
+## Outcome summary
 
 The goals of this iteration are
 - to create a centralized place for all digitized forms and form-related tasks (i.e. form search, pdf download, pdf upload, online completion)
