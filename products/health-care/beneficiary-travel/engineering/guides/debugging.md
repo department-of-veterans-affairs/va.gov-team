@@ -47,9 +47,9 @@ class FakeUser
 end
 ```
 
-Then create an instance of the fake user and populate it with your [BTSSS test user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-travel-pay.md) values:
+Then create an instance of the fake user and populate it with your [BTSSS test user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-travel-pay.md#additional-user-details) values:
 
-> Once you decide on a user, you'll log into Staging with that user, open DevTools, opent he Nework tab and open the User object to get the `email`, `UUID`, and `ICN`.
+> Youll update the below script with the `email`, `UUID`, and `ICN` from the user details in the above link .
 
 ```ruby
 test_user = FakeUser.new('prof.jimmy.dean@sausage.edu', '123ICNHERE123', 'uuid-12345-123436434-135234')
@@ -112,9 +112,10 @@ class FakeUser
 end
 ```
 
-Then create an instance of the fake user and populate it with your [BTSSS test user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-travel-pay.md) values:
+Then create an instance of the fake user and populate it with your [BTSSS test user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-travel-pay.md#additional-user-details) values:
 
-> Once you decide on a user, you'll log into Staging with that user, open DevTools, opent he Nework tab and open the User object to get the `email`, `UUID`, and `ICN`.
+> Youll update the below script with the `email`, `UUID`, and `ICN` from the user details in the above link .
+
 ```ruby
 test_user = FakeUser.new('prof.jimmy.dean@sausage.edu', '123ICNHERE123', 'uuid-12345-123436434-135234')
 ```
