@@ -8,19 +8,40 @@ Attendees: Andrea, Mike, Angela, Jennifer, Andrew, Premal, Nicole, Stephanie Sla
 
 ## **Agenda**
 
--   Status of FMP Application
--   Possibility of putting a FMP Eligibility Letter on VA.gov to save users from having to do application
+-   Status of FMP Claims
+-   Discuss possibility of adding the FMP eligibility letter to VA.gov to save time for the enrollment team and veterans
 
 ## **Notes**
-### Status
-Waiting for confirmation from Premal leadership to go live with FMP
-	Will make content updates to encourage users to update their FMP direct deposit before submitting
+### FMP Claims Status & Fraud Prevention
+- Update from Andy: Ongoing investigation into fraudulent FMP claims from international providers. Evidence shows providers are submitting reimbursement requests for more visits than the veteran actually attended.
+- Discussion:
+  - Short-term process: Users submit an application, and they receive an email confirmation of receipt.
+- Long-term goal: Develop a health status tool to allow users to check enrollment and claims status, and view previously submitted claims.
+  - First phase: ChampVA applications → then ChampVA claims.
+  - FMP forms will follow later due to infrastructure limitations (e.g., VES integration not ready).
 
-Go through ID Me
-We can turn on what people can see depending on how they login. So we should start at highest level of auth, lowest level of accessibility for ppl struggling, to prevent fraud
+### FMP Claims Status & Fraud Prevention
+- Premal’s input: Shared that the FMP team has a strong interest in making the FMP claims form available online, even if the direct deposit experience is not yet ideal. He has communicated this interest to OCTO leadership so they understand the urgency from the FMP perspective.
+- Team decision: Keep release on pause until OCTO decides the best path forward, given previous efforts to improve the direct deposit user experience.
+- Security decision: Lock down FMP claims to LOA 3 to ensure users are verified veterans.
 
-### Possibility of putting a FMP Eligibility Letter on VA.gov to save users from having to do application
-Doable, need to coordinate and plan
+### FMP Eligibility Letter on VA.gov
+- Premal’s possible proposal: Generate the enrollment letter from IBA data.
+- Andy’s update: The team has requested adding the FMP eligibility letter to VA.gov’s benefits letters and documents repository.
+  - Process: Users select the letter, verify their address, and generate it with the most up-to-date data.
+  - Benefit: Reduces workload for the enrollment team.
+- Action: Andy will send a current copy of the letter to Premal for his discussions.
+- Data request: Premal requested the FMP team start collecting impact data — e.g., average time to input a claim, application time, and other metrics to measure the current experience for both veterans and processing staff.
+
+### Action Items
+- Andy to send a current copy of the FMP eligibility letter to Premal.
+- FMP Team to start collecting impact data on current claim and application processes.
+- Premal to continue representing the FMP team’s interest in online claims form release to OCTO leadership.
+
+### Decisions
+- Keep FMP claims form release on pause until OCTO decides the path forward.
+- Lock down FMP claims to LOA 3 for veteran verification.
+
 
 **04/9/25**
 --------------------------------
