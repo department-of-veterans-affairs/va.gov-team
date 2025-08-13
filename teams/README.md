@@ -1,26 +1,22 @@
 # Teams
 
-This space is for all teams currently working on and with the platform. Teams can utilize this space for team info, workflow documents, project planning, and other general administrative content. <br>
+This space is for all teams currently working on and with the platform. Teams can utilize this space for team info, workflow documents, project planning, and other general administrative content.
+
 - If you are looking for documentation on VA.gov user-facing products, please see [/products](../products/README.md).
-- If you are looking for documentation on the tools and services provided by VSP, please see [/platform](../platform/README.md). 
+- If you are looking for documentation on the tools and services provided by the platform, please see [VA Platform documentation](https://depo-platform-documentation.scrollhelp.site/).
 
-### Using this space
-For information on how to use this space, please review the [guidelines and best practices for using the va.gov-team repo](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/working-with-vsp/orientation/repo-guidelines.md). 
+## Required documentation
 
-Core documentation required for each team (as well as each sub-team when applicable):
-- Team README.md file - Please be sure to fill out the information on your team's README.md file. 
-- [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/team-charter-template.md) 
+- **Team README.md file** - Please be sure to fill out the information on your team's README.md file. This file is used to produce the new Team and Product Directory. Use the provided [template](team-readme-template.md).
+- [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/team-charter-template.md)
 
+## Current team roster
 
-### Current teams
-These are the teams that are currently building apps and content on VA.gov and working to improve the lives of Veterans' and their families. 
+Currently, there are multiple lists of teams:
 
-| Team | Description of Work |
-| --- | --- |
-| [Booz Allen](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/booz-allen) |  |
-| [By Light](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/by-light)  |  |
-| [Health Products](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/health-products) |  |
-| [VSA](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa)  | Build products in the right way on VA.gov that deliver outcomes for Veterans.  |
-| [VSP](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsp) | Supporting all teams working on VSP, and continuing to build and improve on the tools and services that VSP provides.  |
+- [Atlas](https://www.va.gov/atlas/)
+- [VFS Product Directory](https://depo-platform-documentation.scrollhelp.site/getting-started/vfs-product-directory)
 
+Unfortunately, neither is complete nor up-to-date. The Platform Services & Governance crew in Digital Experience is working towards a new solution that will use the README.md files for each team in this directory and YAML files in each product in [products](../products/) to aggregate a list of both teams and products. The goal is to provide a simple way for teams to maintain their own information while still providing the Platform with a source of truth for the teams operating on the platform. Watch this space.
 
+There is also a current list of [crews and pods](crews-and-pods.md).

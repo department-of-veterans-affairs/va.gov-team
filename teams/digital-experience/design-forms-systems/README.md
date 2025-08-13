@@ -1,13 +1,11 @@
-_`To create a copy of this template, click "Edit" then copy all of the content within the file.  Within your team folder, create a new file called "README.md" and paste this content.  Update and complete as applicable to your team(s). Replace all bracketed placeholders with your actual team information. This template is designed to be parsed by an automated directory system to display team rosters, product owner classifications, and organizational affiliations. Thus please don't make changes to the format.`_
-
-# [Team Name]
+# Design and Forms Systems Team
 
 ## Team Information
 
 ### Basic Details
 
 - **Team Name:** [Full Team Name as it appears in VA systems]
-- **Short Name:** [team-slug-name] _(used for directory URLs and GitHub references)_
+- **Short Name:** design-forms-systems
 - **GitHub Team Name:** [github-team-name] _(exact name of GitHub team)_
 - **GitHub Team Labels:**
   - [github-label-1]
@@ -28,9 +26,9 @@ Directory system will parse this section to display team member contact informat
 
 #### Product Owner
 
-- **Name:** [Full Name]
-- **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
+- **Name:** Matthew Dingee
+- **GitHub:** @humancompanion-usds
+- **Email:** matthew.dingee@va.gov
 - **Role:** Product Owner
 
 #### Team Lead
@@ -48,7 +46,7 @@ Brief description of your team's mission, focus areas, and how you support Veter
 
 > Directory system will cross-reference these with product details.yml files containing `team: "[team-slug-name]"`
 
-- **[Product 1 Directory Entry]:** Link to product in /products directory when available and provide a brief description.
+- [Design System](../../../products/platform/design-system/design-system-details.yml)
 - **[Product 2 Directory Entry]:** Link to product in /products directory when available and provide a brief description.
 
 Add additional products as needed

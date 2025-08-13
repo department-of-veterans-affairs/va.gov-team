@@ -4,7 +4,7 @@
 
 "To empower teams across VA to build consistent, accessible, and user-centered digital experiences for Veterans and their families by providing and evolving a scalable design system and forms library that is rooted in quality, collaboration, and innovation."
 
-### Product Portfolio:
+### Product Portfolio
 
 - [Design system documentation site](http://design.va.gov/) ([http://design.va.gov](http://design.va.gov) )
     
@@ -16,13 +16,13 @@
     
 - [Component library](https://github.com/department-of-veterans-affairs/component-library/tree/main)
     
-    - [Storyboo](https://design.va.gov/storybook/?path=/docs/about-introduction--docs)k
+    - [Storybook](https://design.va.gov/storybook/?path=/docs/about-introduction--docs)k
         
 - [Figma library](https://www.figma.com/files/team/1278375444205744118/recents-and-sharing/recently-viewed?fuid=1192586511403544015)
     
     - Note: new users will need to be added to the VA’s Figma by Tricia
         
-- [Forms library](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/platform/forms)
+- [Forms System](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/platform/forms)
     
     - Schema-based
         
@@ -196,7 +196,7 @@ During rero, the team review saccomplishments from prior sprint, what went well,
     
     - The team assesses and updates the workload for the sprint
         
-    - 2nd Momday of every sprint at noon ET
+    - 2nd Monday of every sprint at noon ET
         
     - 60 mins
 
@@ -235,7 +235,7 @@ All work should be validated either in staging or production, as defined by the 
 - Let’s have fun and do great work!
     
 
-#### Slack:
+#### Slack
 
 This is our main means of communication with each other. Keep as much conversation in public channels as possible, to minimize duplicative and extraneous communication.
 
