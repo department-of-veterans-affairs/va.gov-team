@@ -30,7 +30,7 @@ This section shows the current team members and their assigned product teams. If
 - Iterate, Innovate, and Run (IIR) (supporting Juliana Jara)
 - Integrated Veteran Care (IVC) Forms (supporting Rory Cooper)
 
-**Note:** Marissa also supports pulling Medallia data
+**Note:** Marissa also supports pulling Medallia data.
 
 ### Rory Cooper
 - Integrated Veteran Care (IVC) Forms (supported by Marissa Merkt)
@@ -43,7 +43,7 @@ This section shows the current team members and their assigned product teams. If
 - 1010 Health Apps team
   - Products: 10-10EZ, 10-10EZ, 10-10CG
 
-**Note:** Tamika also support migration of Caregiver Support Program content
+**Note:** Tamika also support migration of Caregiver Support Program content.
 
 ### Tori Moore
 - MHV Horizon
