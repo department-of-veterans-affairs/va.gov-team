@@ -35,7 +35,7 @@ We have organized user tasks by user flow. User tasks and associated metrics for
 
 Non-tasks have also been identified for each key user flow. Non-tasks and associated metrics for 14 key flows are mapped in this [spreadsheet](URL).
 
-| Type | What to measure | Metrics | Notes | 
+| Type | What to measure | Sample metrics | Notes | 
 |--------------|-------------|--------------|-------------|
 | **User Tasks** | Task success and efficiency | - Task completion rate<br>- Time on task<br>- Error rate<br>- Drop-off rate<br>- Retry attempts | Collect in-app analytics on key flows (e.g. Rx refill, viewing appointments).|
 | **Non-tasks** | User engagement and awareness | - Views<br> - Click-through rate (CTR)<br>- Dwell time <br>- Notification open rate | Focus on passive or content-related interactions. Can serve as leading indicators of task initiation. |
