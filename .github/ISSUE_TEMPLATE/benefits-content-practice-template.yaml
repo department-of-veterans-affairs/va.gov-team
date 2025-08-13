@@ -22,10 +22,6 @@ body:
       description: Review the content design menu and select the most relevant category.
       multiple: true
       options:
-        - Workshop facilitation - Lean Canvas
-        - Workshop facilitation - Scoping (Effort/Impact, Goal setting, other)
-        - Workshop facilitation - User Story Map
-        - Workshop facilitation - Other
         - Define - Identify content needs
         - Define - Analyze existing content (in production)
         - Create - Create new content
@@ -35,22 +31,10 @@ body:
         - User testing - Refine content based on testing
 
   - type: input
-    id: value_as
+    id: Value_Statement
     attributes:
-      label: Value Statement - As a
-      placeholder: e.g., Veteran applying for benefits
-
-  - type: input
-    id: value_want
-    attributes:
-      label: Value Statement - I want to
-      placeholder: e.g., understand the evidence I need to submit
-
-  - type: input
-    id: value_so_that
-    attributes:
-      label: Value Statement - So that
-      placeholder: e.g., I can complete my application without delays
+      label: Value Statement
+      placeholder: As a Veteran... I want to... so that... e.g., As a Veteran applying for benefits, I want to understand the evidence I need to submit so that I can complete my application without delays. 
 
   - type: textarea
     id: request_summary
