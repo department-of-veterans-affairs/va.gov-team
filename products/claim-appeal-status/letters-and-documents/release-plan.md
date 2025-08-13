@@ -10,7 +10,7 @@
 - How will you make the product available in production while limiting the number of users who can find/access it:
   - We will leverage the existing feature flipper to control the percentage of users who should be able to access.
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:
-  - DataDog error rate for letter downloads below 5%
+  - DataDog error rate for letter downloads below 5% (and consistent with what is being reported for the old page)
 - Links to the dashboard(s) showing "success criteria" metrics: https://vagov.ddog-gov.com/dashboard/86n-b39-hhn
 - Who is monitoring the dashboard(s)?: BMT2 Team
 
@@ -29,7 +29,7 @@ _Test a small Veteran population to ensure any obvious bugs/edge cases are found
 
 - Number of unique users:
 - Metrics at this stage (per your "success criteria"):
-  - [ ] DataDog errors < 5%
+  - [ ] DataDog errors < 5% (and consistent with what is being reported for the old page)
 - Was any downstream service affected by the change?:
 - Types of errors logged:
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?
@@ -47,7 +47,7 @@ _Test a larger user population to ensure larger usage patterns expose no issues.
 
 - Number of unique users:
 - Metrics at this stage (per your "success criteria"):
-  - [ ] DataDog errors < 5%
+  - [ ] DataDog errors < 5% (and consistent with what is being reported for the old page)
 - Was any downstream service affected by the change?:
 - Types of errors logged:
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?
@@ -65,7 +65,7 @@ _Test a larger user population to ensure larger usage patterns expose no issues.
 
 - Number of unique users:
 - Metrics at this stage (per your "success criteria"):
-  - [ ] DataDog errors < 5%
+  - [ ] DataDog errors < 5% (and consistent with what is being reported for the old page)
 - Was any downstream service affected by the change?:
 - Types of errors logged:
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?
