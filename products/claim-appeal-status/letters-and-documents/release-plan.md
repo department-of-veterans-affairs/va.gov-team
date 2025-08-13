@@ -4,6 +4,8 @@
 | ---------------------------------------------------------------------------------------- | -------------------------------------------------- |
 | [`letters_page_new_design`](https://api.va.gov/flipper/features/letters_page_new_design) | Enables ability to show updated letter page design |
 
+[DataDog Dashboard](https://vagov.ddog-gov.com/dashboard/93y-wd5-gf4)
+
 #### Rollout Planning
 
 - Desired date range: August 13-20, 2025
