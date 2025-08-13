@@ -40,19 +40,19 @@ body:
   - type: textarea
     id: value_statement
     attributes:
-      label: 💬 Value Statement
+      label: Value Statement
       placeholder: "As a Veteran... I want to... so that...
       
   - type: textarea
     id: request_summary
     attributes:
-      label: 📝 Summary of request
+      label: Summary of request
       placeholder: What are you building and why does it matter?
 
   - type: dropdown
     id: priority
     attributes:
-      label: ⏱ Priority
+      label: Priority
       options:
         - 🏃‍♂️ **High:** Must complete before the next sprint ends (e.g., blocks other work, part of the Collaboration Cycle, or has an external deadline)
         - 🌼 **Medium:** Important but not urgent (e.g., unblocks near-future work or is needed for an upcoming milestone)
@@ -61,7 +61,7 @@ body:
   - type: dropdown
     id: effort
     attributes:
-      label: 📏 Effort
+      label: Effort
       options:
         - 🐜 **Small:** Simple revision (e.g., editing a sentence or two)
         - 🐈 **Medium:** Moderate update (e.g., editing a couple of sections or revising a page)
