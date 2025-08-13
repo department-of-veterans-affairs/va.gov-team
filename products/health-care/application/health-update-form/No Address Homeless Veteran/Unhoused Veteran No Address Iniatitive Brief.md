@@ -1,68 +1,81 @@
 # Unhoused Veteran No Address Iniative Brief
-Alex Seelig, 3/26/2025
-#### Overview
+Heather Justice, 08/13/2025
+- [Epic #116870](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116870)
+
+## Outcome Summary
+- We want to add an option on the **online** 10-10EZR Form for homeless Veterans to indicate they do not have a home or mailing address.
+     - Today, the staff member will enter the facility address in VES and there is some sort of bad address indicator
+- This will allow more Veterans, who do not have an address they want to input, to successfully submit the EZR Form **online**.
 
 <details>
- 
- *There is roughly a 1:many relationship between products and initiatives, or our attempts to improve a product/achieve Veteran outcomes. The same goes for product outlines and initiative briefs. This template can be used as product documentation for the Collaboration Cycle, especially when iterating an existing product. In addition, the Brief is an important communication tool within a team and between the team and Crew Chief/PO/other teams.* 
- 
+     <Summary>Email Q&A with Josh F on how VES works</Summary>
+
+Convo with Josh Faulkner :
+> 2. When we talked with Simone about how staff handles a Veteran who does not have a permanent address (unhoused, does not want to provide, etc), she mentioned that they would use the preferred facility address and somehow have a "bad address" flag on it
+> 
+> - I can't remember what the screen looks like, is there a checkbox or some way to indicate that the Veteran does not have a permanent address?
+>      - **[Josh F]** Not exactly, it’s a dropdown with a reason list, they will select the reason of Homeless in this use case where they use the facility address, other reason for bad address is Undeliverable.
+> - Do you know if there Is any special handling for these Veterans, other than using the facility address as their mailing address?
+>      - **[Josh F]** There is no special handling in terms of their eligibility or enrollment determinations. A residential address is required in order to do community care referrals though.
+> - Does this create a manual workflow/review process, even if the Veteran does not have any Toxic exposure or special eligibilities?
+>      - **[Josh F]** No, their mailing address is not relevant to their eligibility decision, but it is still important for them to receive their correspondence around those decisions.
+> - We are looking at ways we might be able to do this on VA.gov, allowing some sort of indicator that they don't have an address to provide.  Open to any thoughts you might have from your perspective
+>      - **[Josh F]** It can be as simple as providing a bad address reason/flag, which from self service should only be for reason of homeless, that I can think of. In that case we can auto set it to their preferred facility address and set the bad address reason.
+
 </details>
 
 <details>
- <Summary>Examples:</Summary>
- 
- - *Product: On-site Search* 
-   - *Initiatives: Type-ahead, [Search Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/search-landing/initiative-brief.md), [Surfacing Other Search Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/surfacing%20other%20search%20tools/initiative-%20brief.md)*
- - *Product: VA.gov Profile*
-   - *Initiatives: Combine Account & Profile, Direct Deposit for Disability, Candidate Address Validation, Direct Deposit for Education, Notification Preferences*
- - *Product: Disability Claims*
-   - *Initiatives: Original Claims, Benefits Delivery at Discharge (BDD)*
- 
- </details>
- 
- > 💡 Helpful guidance/tips
- 
----
+     <Summary>Slack Convo with Josh F - Volumes</Summary>
+     
+> **Heather Justice**
+>- is there any way to pull data on how many Veterans have that 'bad address' indicator (based on not providing a home or mailing address)?
+> 
+> **Joshua Faulkner**
+>- not the second part with it based on not being provided, it has to be provided unless they are homeless
+> 
+> **Heather Justice**
+>- Gotcha.  Would you be able to pull any volume on the "homeless" attribute?
+> 
+> **Joshua Faulkner**
+>- yes, homeless is one of the bad address reason. it is not an 'indicator' as commonly referenced, the field is bad address reason, not bad address indicator. Few mins.
+> 
+>      - OTHER - 5597
+>      - ADDRESS NOT FOUND - 747
+>      - HOMELESS - 2740
+> 
+>- that is among enrolled vets only
 
-## Outcome Summary
-> *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-* Adding the ability for Veterans who do not have a home address to indicate that and have their Preffered Facility address be added to their record.
+</details>
 
 **Related/Associated product(s)**
-- Product | Link to product outline 
+- Product | [10-10EZ product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20Product%20Outline.md)
 
 ## Problem
-> *Describe the challenge / pain point you seek to address.:* 
+
 - Veterans who do not have an address, or do not wish to provide one, cannot currently fill out the 10-10EZR without having to provide an address. 
-* What is the problem and who is affected? And, what evidence do we have of the problem?
 - Veterans need a home address to complete a 1010EZR and in some cases, maintain their healthcare without copays.
-* Why do you think the problem is occurring? Other reasons why this might be occurring?
 - The 1010EZR was not designed for Veterans without addresses, and thus address was a required field despite not being required in VES. 
-* How does this initiative help further OCTO-DE's mission and goals?
 - This improves the experience for the vulnerable unhoused Veteran population. 
 
-<!--
 ## Desired User Outcomes
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- More Veterans will be able to apply for VA health benefits online
+- Homeless Veterans will have more digital options available to them
 
-## Undesired User Outcomes
 ## Desired Business Outcomes
 
 - *Why would your business want this to exist?*
 - *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
 
-## Undesired Business Outcomes
--->
-
 ---
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-> 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
-> 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
+**OBJ: Increase submissions for homeless Veterans through an available online option to update their health record information**
 
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo) ALEX FILL THIS OUT!!!!!!!!!!!!
+| Metric| Baseline | Target | 1 Month|
+|-------| ------- | ------- | -------|
+|EZR Form Submissions from Homeless Veterans | TBD | TBD | TBD|
+|EZR Form Submissions (overall) | TBD | TBD | TBD|
 
 ---
 
@@ -72,49 +85,58 @@ Alex Seelig, 3/26/2025
 > Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
 - **Value Risks** (will people use it): 
-  - How many unhoused Veterans go online to update their healthcare information via the EZR?
+  - There is a risk that homeless Veterans will not be aware of the option to apply for VA health care online if they do not have a mailing address/home address to input.
+  - There is also a risk that homeless Veterans will not want to apply for VA health care online, and indicate that they do not have an address to input. 
 - **Usability Risks** (can people figure out how to use it):
-  - Will unhoused Veterans know to check the box?
-  - Will unhoused Veterans understand that by checking the box their Preferred Facility's address will be used as their address?
-  - Will unhoused Veterans understand that if they have previously indicated that they're unhoused, that their Preferred Facility address will display? 
+  - There is a risk that homeless Veterans will not have access to a device to apply online.  They may struggle with or are not familiar with how to use the device or fill out online forms.
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - Can we create an indicator to VES that the Veteran is homeless and to make their address their preferred facility?
-  - Can the backend VES system automatically default an unhoused Veteran's address to their preferred facility when a Veteran indicates they are homeless?
-  - Examples:
-    - Upstream/Downstream API/Data availability and reliability
-    - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
-  
+  - The 10-10EZ team can build this, however the “bad address” indicator to send downstream is not currently available for receiving by Enrollment System. There may be additional work needed there.
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - Will this make is easier for unhoused Veterans to use VA.gov?
-
+  - The HEC stakeholders will support this change, and we will be following the same manual process they have in place today, defaulting to the selected preferred facility address.
+  
 ### What're you building
-> *What's in scope for you to build with this initiative? Describe key features/flows. 
-- A FE indicator where a Veteran can indicate that they're unhoused. 
-- Once that is indicated, when the EZR is submitted to VES, VES automatically populates the Veteran's address as their preferred facility and indicates that they're homeless.
-- Making address NOT a required field either on the FE or BE. 
-- Content explaining this.
-> *What have you explicitly decided to **not** include and why?*
-- Anything not listed above, including but not limited to the EZR system automatically populating the Veteran's address.
-> *How does this solution address your Assumptions & Risks?
-- We have checked with VES lead Joshua Faulkner and confirmed that VES has a procedure for handling homeless Veterans. 
-- We will build a FE that makes it clear to Homeless Veterans how they can fill out an EZR without having an address, including content to match that.
+- Adding an option on the EZR Form for homeless veterans to indicate they do not have an address.
+     - When this option is selected, either the form will default to the selected facility address and send a "bad address" indicator to the Enrollment System **-OR-**
+     - Once that is indicated, when the EZR is submitted to VES, VES automatically populates the Veteran's address as their preferred facility and indicates that they're homeless.
+- Content updates
 
 #### Go-to-market 
-> *What marketing, outreach, or communications are necessary for this product to be successful? Which groups/orgs are necessary to make this happen?*
-- Notifying the field would be helpful as they can let homeless Veterans know they can update their information online.
+- The 10-10 team will work with the HEC stakeholders to consider a communications strategy for reaching homeless Veterans
 
 --- 
 
 ## Launch Planning
 ### Collaboration Cycle
-> 💡 *Use for any Collab Cycle tracking, questions.*
 
 - Kickoff ticket
+   - [ ] PO & Platform sync
+   - [ ] Design Intent
+   - [ ]  Research Review
+   - [ ]  Architecture Intent review
+   - [ ]  IA Review
+   - [ ]  Midpoint Review
+   - [ ]  Staging Review
+   - [ ]  Privacy & Security
+   - [ ]  Contact Center guide review
+
+### Incident Response info
+- The 1010EZR form is currently in production; we are only changing the content and flow of the application's questions.  The information being sent after submission to the Enrollment System remains unchanged.
+- There are no new endpoints implemented with this change
+- This change applies to the full application flow 
+- We will use the following 1010EZR monitoring for any latency or errors being logged
+     - [Datadog monitoring dashboard](https://app.datadoghq.com/dashboard/8it-wik-f5q/vsa-1010-team)
+     - [Datadog Real User Monitoring dashboard](https://vagov.ddog-gov.com/rum/performance-monitoring?query=%40application.id%3A9d5155fd-8623-4bc9-8580-ad8ec2cdd7fa&from_ts=1687971959215&to_ts=1688058359215&live=true)
+- If there are any errors or issues found as a result of this change, we will disable the code by switching off the feature toggle which will result in the change being reverted to its previous state prior to release.  We will then begin triaging the root cause and determining a solution.
+     - Timeline for triage and solution implementation will be fast-tracked to complete within 1-3 days.
+- Main POCs:
+     - Heather Justice (heather.justice@adhocteam.us) - Product Manager
+     - TBD - Engineering
+     - TBD (tbd) - Product Owner
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
 
-* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+* [Link to Release Plan for this Initiative](TBD)
 
 #### Initiative Launch Dates
 - *Target Launch Date*
@@ -137,10 +159,10 @@ Alex Seelig, 3/26/2025
 
 <details>
 
-- Team Name: 
-- GitHub Label(s): 
-- Slack channel: 
-- Product POCs:
+- Team Name: 10-10 Health Apps team
+- GitHub Label(s): 1010-team
+- Slack channel: 1010-health-apps
+- Product POCs: Heather Justice
 
 </details>
 
