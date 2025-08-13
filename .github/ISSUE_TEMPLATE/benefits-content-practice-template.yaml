@@ -84,8 +84,8 @@ body:
     attributes:
       label: 👥 Stakeholders
       options:
-        - label: Enablement: Product
-        - label: Enablement: Design
+        - label: Enablement Product
+        - label: Enablement Design
         - label: Design
         - label: Engineering
         - label: Accessibility
