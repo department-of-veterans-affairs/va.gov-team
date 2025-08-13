@@ -10,7 +10,7 @@
 - **GitHub Team Labels:**
   - [github-label-1]
   - [github-label-2]
-- **GitHub Team Link:** [https://github.com/orgs/department-of-veterans-affairs/teams/github-team-name]
+- **GitHub Team Link:** [https://github.com/orgs/department-of-veterans-affairs/teams/github-team-name] _If this group of GitHub users does not exist please request one. This should reflect your entire team._
 - **Slack Channel:** [#channel-name](https://dsva.slack.com/channels/channel-name)
 
 ### Organizational Affiliation
@@ -31,12 +31,21 @@ Directory system will parse this section to display team member contact informat
 - **Email:** matthew.dingee@va.gov
 - **Role:** Product Owner
 
-#### Team Lead
+#### Program Manager
 
 - **Name:** [Full Name]
 - **GitHub:** [@github-username]
 - **Email:** [contact-email@va.gov]
-- **Role:** Team Lead
+- **Role:** Program Manager
+
+#### Engineering Lead
+
+- **Name:** [Full Name]
+- **GitHub:** [@github-username]
+- **Email:** [contact-email@va.gov]
+- **Role:** Engineering Lead
+
+_Repeat for additional team leads (design, product, etc.) as needed_
 
 ## About This Team
 

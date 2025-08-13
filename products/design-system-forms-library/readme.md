@@ -16,7 +16,7 @@
     
 - [Component library](https://github.com/department-of-veterans-affairs/component-library/tree/main)
     
-    - [Storybook](https://design.va.gov/storybook/?path=/docs/about-introduction--docs)k
+    - [Storybook](https://design.va.gov/storybook/?path=/docs/about-introduction--docs)
         
 - [Figma library](https://www.figma.com/files/team/1278375444205744118/recents-and-sharing/recently-viewed?fuid=1192586511403544015)
     
