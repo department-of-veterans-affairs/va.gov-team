@@ -22,7 +22,7 @@ body:
       description: Review the [content design menu](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1746655929211/80067a3f9875681b70f4a854ce74388504c5c1de?sender=uf5838c6c24bc1098b12b5304) and select the most relevant category.
       multiple: true
       options:
-        - **Define** Identify content needs
+        - DEFINE: Identify content needs
         - **Define** Analyze existing content (in production)
         - **Create** Create new content
         - **Ideate** Review content already created by design team (not yet in production)
