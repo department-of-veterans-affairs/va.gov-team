@@ -1,10 +1,10 @@
-# Initiative Brief Template
+# Initiative Brief for breaking images out of Labs and Test Results on MHV Medical Records
 
  ## Product: MHV Medical Records
-- Initiative: Break Images out of Labs and Tests
+- Initiative: Break Images out of Labs and Test Results
 
 ## Outcome Summary
-- Pull Images out of Labs and Tests and up to the same level as the other MR domains.
+- Break Images out of Labs and Tests and up to the same level as the other MR domains.
 
 
 **Related/Associated product(s)**
@@ -108,6 +108,7 @@ Anything beyond pulling images out of Labs and Test Results into its own list an
 <img width="1045" height="850" alt="image" src="https://github.com/user-attachments/assets/e1784119-71d9-46ed-a285-38ca498cdba1" />
 
 ### After
+<img width="1269" height="852" alt="image" src="https://github.com/user-attachments/assets/93e4fe6c-4eae-40ee-8e42-116c62f090c4" />
 
 ---
 
