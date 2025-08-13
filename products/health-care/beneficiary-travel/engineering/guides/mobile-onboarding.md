@@ -58,6 +58,8 @@ Other helpful channels
   - Enter the full repository name `department-of-veterans-affairs/va-mobile-app` and select the mobile app repo from the list  
   - Select your PR from the resulting list  
   - The issue and PR are now linked across repositories
+- Don't hardcode text strings, use the [translations](https://github.com/department-of-veterans-affairs/va-mobile-app/blob/develop/VAMobile/src/translations/en/common.json) file.
+  - i.e. rather than using `"Clears all applied filters and sorting options"` (or even `t("Clears all applied filters and sorting options")`) use `t('travelPay.statusList.clearFilters.text')`
 
 ## Code
 
