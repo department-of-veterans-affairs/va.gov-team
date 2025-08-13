@@ -131,7 +131,7 @@ Did you previously receive the link and instructions to download the testing ver
 
 Y - Were you able to download the app via those instructions? Y - skip down to note for all users
 
-N - I will now share in the zoom chat the URL: that takes you to download the testing app **[iOS url here](https://testflight.apple.com/join/RrO0Cw2q)** -- **[Android link](https://appdistribution.firebase.dev/i/6bea6c3fabc1a872)**
+N - I will now share in the zoom chat the URL: that takes you to download the testing app **[iOS url here](https://testflight.apple.com/join/RrO0Cw2q)** -- **[Android link](https://appdistribution.firebase.dev/i/6bea6c3fabc1a872)** Build #2726, build version 2.56.0
 - *(If asked, reassure that this is a legitimate link to what I want you to test)*
 
 Did you get the link? 
