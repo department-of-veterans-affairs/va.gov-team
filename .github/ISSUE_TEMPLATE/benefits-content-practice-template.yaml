@@ -29,10 +29,10 @@ body:
         - Content on prototypes for testing
         - Content validation during testing
         - Refine content based on testing
-        - Other (e.g. a workshop)
+        - Other, like a workshop
 
   - type: input
-    id: stakeholders_other
+    id: support_other
     attributes:
       label: If "Other" is selected above, please describe
       placeholder: Describe typw of work here...
