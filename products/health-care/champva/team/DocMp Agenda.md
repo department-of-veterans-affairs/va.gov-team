@@ -1,5 +1,51 @@
 <h1>DOCMP/PEGA & IVC FORMS WEEKLY SYNC</h1>
 
+## Agenda 8.13.2025
+- Status of FMP Claims
+- Discuss possibility of adding the FMP eligibility letter to VA.gov to save time for the enrollment team and veterans
+
+---
+
+## 1. FMP Claims Status & Fraud Prevention
+- **Update from Andy:** Ongoing investigation into fraudulent FMP claims from international providers. Evidence shows providers are submitting reimbursement requests for more visits than the veteran actually attended.
+- **Discussion:**
+  - **Short-term process:** Users submit an application, and they receive an email confirmation of receipt.
+  - **Long-term goal:** Develop a health status tool to allow users to check enrollment and claims status, and view previously submitted claims.
+    - First phase: ChampVA applications → then ChampVA claims.
+    - FMP forms will follow later due to infrastructure limitations (e.g., VES integration not ready).
+
+---
+
+## 2. Expediting FMP Claims Form Release
+- **Premal’s input:** Shared that the FMP team has a strong interest in making the FMP claims form available online, even if the direct deposit experience is not yet ideal. He has communicated this interest to OCTO leadership so they understand the urgency from the FMP perspective.
+- **Team decision:** **Keep release on pause** until OCTO decides the best path forward, given previous efforts to improve the direct deposit user experience.
+- **Security decision:** **Lock down FMP claims to LOA 3** to ensure users are verified veterans.
+
+---
+
+## 3. FMP Eligibility Letter on VA.gov
+- **Premal’s proposal:** Generate the enrollment letter from IBA data.
+- **Andy’s update:** The team has requested adding the FMP eligibility letter to VA.gov’s benefits letters and documents repository.
+  - Process: Users select the letter, verify their address, and generate it with the most up-to-date data.
+  - Benefit: Reduces workload for the enrollment team.
+- **Action:** **Andy will send a current copy of the letter to Premal** for his discussions.
+- **Data request:** **Premal requested the team start collecting impact data** — e.g., average time to input a claim, application time, and other metrics to measure the current experience for both veterans and processing staff.
+
+---
+
+## **Action Items**
+1. **Andy to send a current copy of the FMP eligibility letter to Premal.**
+2. **Team to start collecting impact data** on current claim and application processes.
+3. **Premal to continue representing the FMP team’s interest** in online claims form release to OCTO leadership.
+
+---
+
+## **Decisions**
+1. **Keep FMP claims form release on pause** until OCTO decides the path forward.
+2. **Lock down FMP claims to LOA 3** for veteran verification.
+
+
+
 <H4>Wed March 26, 2025</H4>
 <h6>Agenda</h6>
 
