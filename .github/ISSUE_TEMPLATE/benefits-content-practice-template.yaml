@@ -32,24 +32,24 @@ body:
         - Other (e.g. a workshop)
 
   - type: input
-    id: Value_Statement
+    id: value_statement
     attributes:
       label: Value Statement
-      placeholder: As a Veteran... I want to... so that... e.g., As a Veteran applying for benefits, I want to understand the evidence I need to submit so that I can complete my application without delays. 
+      placeholder: "As a Veteran... I want to... so that... e.g., As a Veteran applying for benefits, I want to understand the evidence I need to submit so that I can complete my application without delays."
 
   - type: textarea
     id: request_summary
     attributes:
       label: Summary of request
       placeholder: What are you building and why does it matter?
-  
+
   - type: dropdown
     id: priority
     attributes:
       label: Priority
       description: |
-        🏃‍♂️ **High:** Must complete before the next sprint ends (e.g., blocks other work, part of the Collaboration Cycle, or has an external deadline)  
-        🌼 **Medium:** Important but not urgent (e.g., unblocks near-future work or is needed for an upcoming milestone)  
+        🏃‍♂️ **High:** Must complete before the next sprint ends (e.g., blocks other work, part of the Collaboration Cycle, or has an external deadline)
+        🌼 **Medium:** Important but not urgent (e.g., unblocks near-future work or is needed for an upcoming milestone)
         🐢 **Low:** Nice to have (e.g., not time-sensitive, no major dependencies, won't block others if delayed)
       options:
         - High
@@ -61,25 +61,25 @@ body:
     attributes:
       label: Effort
       description: |
-        🐜 **Small:** Simple revision (e.g., editing a sentence or two)  
-        🐈 **Medium:** Moderate update (e.g., editing a couple of sections or revising a page)  
+        🐜 **Small:** Simple revision (e.g., editing a sentence or two)
+        🐈 **Medium:** Moderate update (e.g., editing a couple of sections or revising a page)
         🐘 **Large:** Full review and rework (e.g., multiple screens, new content, or net-new flow)
       options:
         - Small
         - Medium
         - Large
-        
+
   - type: textarea
     id: links
     attributes:
       label: Relevant Links
-      placeholder: Include Figma, GitHub tickets, Collaboration Cycle, Mural, or other references.
+      placeholder: "Include Figma, GitHub tickets, Collaboration Cycle, Mural, or other references."
 
   - type: textarea
     id: dates_meetings
     attributes:
       label: Important Dates and Meetings
-      placeholder: Timeline expectations, collaboration cycle stage, or meeting invites.
+      placeholder: "Timeline expectations, collaboration cycle stage, or meeting invites."
 
   - type: checkboxes
     id: stakeholders
@@ -105,7 +105,7 @@ body:
     id: dependencies
     attributes:
       label: Dependencies
-      placeholder: e.g., Waiting for updated design, research input, or engineering review.
+      placeholder: "e.g., Waiting for updated design, research input, or engineering review."
 
   - type: textarea
     id: out_of_scope
@@ -116,16 +116,16 @@ body:
   - type: textarea
     id: tasks_list
     attributes:
-    label: "📋 Task List"
-    description: "List the tasks for this request. Use `- [ ]` to create checkboxes so they can be checked off later. It's okay to leave this minimal or blank for the Content Designer to fill out later."
-    placeholder: |
-      Example:
-      - [ ] Review current content
-      - [ ] Draft new headings
-      - [ ] Share with stakeholders
-  validations:
-    required: false
-  
+      label: "📋 Task List"
+      description: "List the tasks for this request. Use `- [ ]` to create checkboxes so they can be checked off later. It's okay to leave this minimal or blank for the Content Designer to fill out later."
+      placeholder: |
+        Example:
+        - [ ] Review current content
+        - [ ] Draft new headings
+        - [ ] Share with stakeholders
+    validations:
+      required: false
+
   - type: checkboxes
     id: definition_ready
     attributes:
