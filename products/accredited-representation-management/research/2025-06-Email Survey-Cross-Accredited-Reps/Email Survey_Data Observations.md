@@ -10,7 +10,6 @@ Accredited Representative Management
 -	Marisa Dominguez, UX Lead
 -	Michael Tri, Sr. Product Designer
 
-**Link to Research Readout**
 
 ## Data Observations
 -	The survey results reveal a diverse range of experience levels among the 77 VA accredited representatives who participated, though it's important to note that this sample size is relatively small compared to the total population of approximately 18,000 accredited representatives. 
