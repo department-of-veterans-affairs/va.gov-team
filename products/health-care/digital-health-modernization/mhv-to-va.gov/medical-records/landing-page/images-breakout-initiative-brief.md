@@ -8,18 +8,18 @@
 
 
 **Related/Associated product(s)**
-- Product | Link to product outline 
+- Product | [Link to product outline ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records#readme)
 
 ## Problem
 > *Describe the challenge / pain point you seek to address.:* 
-* What is the problem and who is affected? And, what evidence do we have of the problem?
-* Why do you think the problem is occurring? Other reasons why this might be occurring?
-* How does this initiative help further OCTO-DE's mission and goals?
+* Veterans are confused by having images included in Lab and Test Results.
+* We have received numerous reports from support staff that Veterans report being unable to find their images
+* We have also been in research sessions where users stated that they didn't know images would be in Labs and Test Results
+* Lab and Test Results currently include imaging studies and their associated images.  These images are too large to be suitable candidates for mobile.  We want to exclude images from Labs and Test and put them into their own category so they can easily be excluded on mobile.
 
-<!--
+
 ## Desired User Outcomes
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- Users can more easily locate their medical images
 
 ## Undesired User Outcomes
 ## Desired Business Outcomes
@@ -28,50 +28,48 @@
 - *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
 
 ## Undesired Business Outcomes
--->
+- None noted at this time
 
----
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-> 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
-> 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
-
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+- Baseline TBD
+  - We will see an increase in the number of users who access the Images page on web
+  - We will see an increase in the number of users who download their medical images files
 
 ---
 
 ## Discovery
 ### Assumptions/Risks
-> *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
-> Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
-
 - **Value Risks** (will people use it): 
-  - .
+  - None known at ths time.
 - **Usability Risks** (can people figure out how to use it):
-  - .
+  - None known at ths time. This change makes Images more visible than in its current state
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - Examples:
-    - Upstream/Downstream API/Data availability and reliability
-    - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
+   - None known at ths time.  This can be built with available tech
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
   - Examples: 
-    - VA stakeholder testing, marketing, compliance requirements 
+    - No known organizational constraints or risks
 
 ### Supporting research
 
 - *Is this work supported by user research?* 
   - *If this work **is supported by user research**, please cite the user research by providing links to our [VA.gov research repo](https://github.com/department-of-veterans-affairs/va.gov-research-repository)*
-  - *If this work is **not supported by existing user research**, will this work include user research?*
+  - *If this work is **not supported by existing user research**, will this work include user research?*  
     - *If this work **will include user research**, please briefly state what you hope to learn from that research.*
     - *If this work **does not cite nor include user research**, please state why and be prepared to defend your decision.*
 
 ### What're you building?
 
 > *What's in scope for you to build with this initiative? Describe key features/flows.*
+
+Pulling images out of Labs and Test Results into its own list and details page.
+Moving imaging study reports into this new page on Mobile and Web
  
 > *What have you explicitly decided to **not** include and why?*
+
+Anything beyond pulling images out of Labs and Test Results into its own list and details page
 
 > *Are you building for the VA Health and Benefits mobile application? Explain why or why not.*
 
@@ -93,12 +91,12 @@
 
 ### Timeline 
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
-
-* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+- We need to have this ready for user testing in Columbus, OH beginning October 15, 2025
+* [Link to Release Plan for this Initiative](TBD)
 
 #### Initiative Launch Dates
 - *Target Launch Date*
-  - tbd
+  September 30, 2025
 - *Actual Launch Date* 
   - tbd
 
@@ -107,6 +105,7 @@
 ## Screenshots
 
 ### Before
+<img width="1045" height="850" alt="image" src="https://github.com/user-attachments/assets/e1784119-71d9-46ed-a285-38ca498cdba1" />
 
 ### After
 
@@ -117,10 +116,10 @@
 
 <details>
 
-- Team Name: 
-- GitHub Label(s): 
-- Slack channel: 
-- Product POCs:
+- Team Name: MHV Medical Records
+- GitHub Label(s): TEAM-mhv-medical-records
+- Slack channel:  #mhv-medical-records-team
+- Product POCs:  Marci McGuire (OCTO PO), David Koger (contract PM)
 
 </details>
 
@@ -130,8 +129,8 @@
 
 <details>
   
-- Office/Department:
-- Contact(s): 
+- Office/Department:  VHA Office of Connected Care
+- Contact(s): Bresha Lipscomb (business owner), Theresa Hancock
  
 </details>
 
