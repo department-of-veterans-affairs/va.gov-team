@@ -1,63 +1,90 @@
 # Release Plan: 4142 Paper Sync - MVP 
 
 ## Purpose
-The purpose of this release plan is to document and align the delivery teams and stakeholders on what will be delivered and when. This release plan is specifically for the 4142 Paper Sync MVP (first release). 
-It is not intended to include the next generation of enhancements to the 4142 product.
+This release plan documents and aligns delivery teams and stakeholders on the scope, delivery timeline, and process for the 4142 Paper Sync MVP (first release).  
+It does **not** cover future enhancements to the 4142 product.
 
 ## Feature description
-The required changes to support sending the new 4142 form include the following 2 changes. 
+The MVP introduces two primary changes to support sending the updated 4142 form:
 
-- User must be presented with a new set of verbiage and ackowledge they agree to the terms before continuing
-- User must provide the disabilites being claimed in their disability claim, that they were treated for at each Private Medical Facility they want the VA to get their records from (that goes on the 4142 paper form)
+1. **Updated authorization terms** — Users must review new verbiage and acknowledge agreement before proceeding.  
+2. **Additional medical facility details** — Users must list the disabilities they are claiming that were treated at each private medical facility from which the VA will request records.
+   
+## New capabilities and changes
+### Changes to the 4142 include:
+- Updated user-facing verbiage to match the 2024 paper form requirements.
+- Replacement of old authorization terms with the new 2024 version for first-time users.
+- Updated redirect logic so returning users with in-progress forms containing old 4142 data are taken back to the 4142 choice page.
 
-For users filling out for the first time, this additional verbiage is just shown in-place of the old, on a new page.
-For returning users who have an in-progress form in which they have already filled out the 4142, these users will be redirected back to the begining of the 4142 flow, and also shown an alert informing them of the change, why they were brought back to this location in the flow, and giving them the option to re-authorize with the additional verbiage, and add the required treatments recived data to their previously provided private medical facilites entries. 
+### Additions to the 4142 include:
+- New requirement for users to list the disabilities they are claiming that were treated at each private medical facility.
+- Display of a returning-user alert explaining the reason for redirection and instructing the user to re-authorize under the new terms.
+- Schema validation updates to ensure new required data is captured before submission.
+
+### Additional functionality:
+- Feature toggles controlling 2024 template usage, schema validation, and updated frontend workflow (disability_526_form4142_use_2024_template, disability_526_form4142_validate_schema, disability_526_form4142_use_2024_frontend).
+- OnFormLoaded logic to detect old 4142 authorization data and trigger redirect/alert flow.
+- Updated backend form-to-PDF generation to match the 2024 4142 paper format for submission to Central Mail.
+
+**User experience changes:**
+
+- **First-time users**: See the new authorization terms in place of the old terms, on a new page.
+- **Returning users with an in-progress form**:
+  - Redirected to the start of the 4142 flow.
+  - Shown an alert explaining why they were redirected.
+  - Given the option to re-authorize with the updated terms and add required treatment details to existing facility entries.
 
 ## Project goals
-Create a new 4142 online form that will match the newest paper version of the PDF form. 
-The data in the online form will be used in the generation of the new (2024) 4142 PDF that will be sent to Central Mail (and eventually the eFolder further downstream) after a successful submit.
+- Create a new online 4142 form aligned with the latest paper version (2024).  
+- Ensure online form data is used to generate the updated 4142 PDF, which will be sent to Central Mail (and later to the eFolder) after a successful submission.
 
 ---
 
 ## Step 1: Development
 
-You'll need to create a feature toggle (or two) for any moderately or significantly changing feature. Follow the [best practices for creating feature toggles](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles).
-
-List the features toggles here.
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| disability_526_form4142_use_2024_template |  Enables the use of the 2024 template for form 4142 in disability 526 application |
-| disability_526_form4142_validate_schema | Enables the use of schema validation for form 4142 in disability 526 applications |
-| disability_526_form4142_use_2024_frontend | Enables the 2024 version of form 4142 in the disability 526 submission frontend workflow (maps to disability526Enable2024Form4142 in vets-website) |
+| disability_526_form4142_use_2024_template |  Enables 2024 template for form 4142 in disability 526 application |
+| disability_526_form4142_validate_schema | Enables schema validation for form 4142 in disability 526 applications |
+| disability_526_form4142_use_2024_frontend | Enables the 2024 form 4142 in the disability 526 submission frontend workflow (maps to disability526Enable2024Form4142 in vets-website) |
 
 We will keep these as three separate toggles. 
 
 ## Step 2: Validation
 
-Since we use a [continuous delivery](https://depo-platform-documentation.scrollhelp.site/developer-docs/deployment-process) model, once code is in the `main` branch, it will be deployed that day. 
-We will release to Staging under our three Flipper flags with our new strategy: using the OnFormLoaded function to check form data to see if the data needs to be updated. 
+**Staging release plan:**
+- Release under the three Flipper flags.
+- Use `OnFormLoaded` to detect whether data needs updating.
+- Test scenarios:
+  1. Form saved on the authorization page prior to release; user logs in after rollout.
+  2. Form saved on the authorization page during rollout, user **not** in initial rollout group.
+  3. Form saved on the authorization page during rollout, user **in** initial rollout group.
 
-To test in staging, let's record videos to validate this functionality:
+**Testing in staging:**
+Record videos validating the following:
+Feature Toggle = Disabled; User working on form → Toggle Enabled
+Feature Toggle = Enabled; User working on form → Toggle Disabled
+Feature Toggle = Disabled; User saved form → Toggle Enabled; User resumes form
+Feature Toggle = Enabled; User saved form → Toggle Disabled; User resumes form
+Feature Toggle = Enabled; User saved form (different page) → Toggle Disabled; User resumes form
 
-    Feature Toggle = Disabled and User is working on form --> Feature Toggle = Enabled: 
-    Feature Toggle = Enabled and User is working on form --> Feature Toggle = Disabled: 
-    Feature Toggle = Disabled and User saved form for later --> Feature Toggle = Enabled; User starts form again: 
-    Feature Toggle = Enabled and User saved form for later --> Feature Toggle = Disabled; User starts form again: 
-    Feature Toggle = Enabled and User saved form for later while on different page then the 4142 authorization page--> Feature Toggle = Disabled; User starts form again: 
+**Pre-production checklist:**
+- [ ] Follow [QA best practices](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
+- [ ] Validate in staging wherever possible.
+- [ ] Coordinate with dependent systems to ensure readiness.
+- [ ] Hold a go/no-go meeting with:
+  - [ ] DEPO/OCTO representative.
+  - [ ] Full delivery team.
+  - [ ] Review release plan and readiness checklist.
 
-Before enabling your feature toggle in production, you'll need to:
-
-- [ ] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
-- [ ] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
-- [ ] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
-- [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
-  - [ ] review the plan with your DEPO/OCTO representative.
-  - [ ] review the release plan with your team.
+---
 
 ## Step 3: Production rollout
 
-We will test on staging behind a Flipper, then if possible, test with a mod prod user, then go to 100% for all users. Our goal is to release by September 1. 
+Testing will occur in staging, followed by mod-prod testing, then full release.
+
+**Target release date:** September 1
 
 ### Do I need a staged rollout? -> No.
 
@@ -66,18 +93,6 @@ We will test on staging behind a Flipper, then if possible, test with a mod prod
 - This change does not add substantial new functionality to VA.gov
 - This change does not impact user flows through tasks 
 - This change does not affect traffic to backend services
-
-*Example*: a change to a page's text content **could skip** staged rollout
-
-*Example*: a minor visual redesign to a page that doesn't affect user flows **could skip** staged rollout
-
-*Example*: adding a new field to an existing form **could skip** staged rollout
-
-*Example*: a new feature on an existing application that creates new backend traffic **needs staged rollout**
-
-*Example*: a significant change to how users navigate an existing form **needs staged rollout**
-
-*Example*: a feature that will route significantly more users (and therefore more backend traffic) to an existing application **needs staged rollout**
 
 #### Exceptions
 
@@ -92,26 +107,26 @@ Currently, [feature toggles](https://department-of-veterans-affairs.github.io/ve
 
 DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 
-### Define the Rollback process
+---
 
-Even though your feature has been tested and ready, production is still a different environment than staging. You'll need to create a rollback plan if things go wrong. Usually, this is as simple as a feature toggle flip. Be as specific as possible.
+### Rollback Plan
+If issues arise in production:
+- PM and Engineering Lead monitor Datadog dashboards for:
+  - Submission error spikes.
+  - Abnormal abandonment rates.
+- If triggered, Engineering Lead disables all toggles immediately.
+- PM notifies stakeholders and logs incident.
 
-> Example
->
-> - Our PM and PO will monitor analytics. If they see a spike in errors or unexpected behavior, they will contact the engineering team to get the FE engineer to disable the toggle.
+---
 
-Our Engineering lead and PM will monitor our Datadog Dashboard. If they see a spike in submission errors, or unexpected behavior, they will contact our engineering team to disable the toggle. 
+### Phase I: Moderated Production Testing (UAT)
+**Planning:**
+- **Timeline:** After August 22 Staging Review, before September 1 release.
+- **Users:** 1 mod-prod tester.
+- **Recruitment:** Internal testers with prior 4142 submissions.
+- **Method:** Enable toggles for tester ID only, with stop-submission flag active.
 
-### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
-
-
-#### Planning
-
-- Desired date range or test duration: After Staging Review on August 22 and before our planned release date of September 1
-- Desired number of users: 1
-- How you'll recruit the right production test users: We have a few people we've used before
-- How you'll conduct the testing: We would need someone to have previously signed the 4142 form for private medical records release. We can turn on the stop-submission flipper flags, and check that they're able to submit (without actually sending anything down the line). 
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: We will turn on the Flippers just for their user id. 
+**Results:** *(to be filled post-test)*
 
 #### Results
 
@@ -125,98 +140,30 @@ Our Engineering lead and PM will monitor our Datadog Dashboard. If they see a sp
 - Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes/no
 - If yes, what: [FILL_IN] with ticket numbers
 
-### Phase II: Staged Rollout (also known as unmoderated production testing)
+---
 
-We recommend that the rollout plan has five stages, each increasing the number of Veterans. This plan is a strongly recommended guideline but should only be deviated for precise reasons.
-
-#### Rollout Planning
-
-- Desired date range: [FILL_IN]
-- How will you make the product available in production while limiting the number of users who can find/access it: [FILL_IN].
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
-  - [FILL_IN] : list
-  - [FILL_IN] : of
-  - [FILL_IN] : KPIs
-- Links to the dashboard(s) showing "success criteria" metrics: [FILL_IN] with link to dashboards (example: Google Analytics dashboard)
-- Who is monitoring the dashboard(s)?: [FILL_IN]
-
-*The KPIs and numbers are example values recommended by VSP but can be customized to your team's needs.*
+### Phase II: Rollout
+**Plan:**  
+- Aug 23 – Sept 1, enable via Flippers in stages.
+- Access limitation method: Flipper flags enabled for specific user IDs during mod-prod UAT; then toggled on for all users.
+- **Success criteria:**
+  - Submission error rate < 5% for 526 with 4142 attached.
+  - No increase in abandonment rate (±3% baseline).
+  - Returning-user reauthorization completion ≥ 90%.
+  - No significant increase in related contact center calls.
+- Links to the dashboard(s) showing "success criteria" metrics:
+  - Dashboard link: [TBD – Datadog dashboard URL]
+- Monitored by: PM, Engineering lead
 
 ### Stage A: Canary - 1% of users
-*Test a small Veteran population to ensure any obvious bugs/edge cases are found.*
-
-The recommended progression is 1% → 25% → 100%. However, VFS teams have flexibility to add more increments to mitigate risk.
-
-#### Planning
-
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): [FILL_IN]% (*Recommendation: 1% of users*)
-
-#### Results
-
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
-
-### Stage B: 25% of users
-
-*Test a larger user population to ensure larger usage patterns expose no issues.*
-
-#### Planning
-
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): 25%
-
-#### Results
-
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
-
-### Stage C: 50% of users (optional)
-
-*Test a larger user population to ensure larger usage patterns expose no issues.*
-
-#### Planning
-
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): 50%
-
-#### Results
-
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
-
-### Stage D: 75% of users (optional)
-
-*Test a larger user population to ensure larger usage patterns expose no issues.*
-
-#### Planning
-
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): 75%
-
-#### Results
-
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+_(We will skip this stage — going to 100% after mod-prod testing)_ 
 
 ### Stage E: 100% of users
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): 100%
+- Length of time: Ongoing
+- Percentage of Users: 100% (All Veterans in 526 flow who opt for 4142 flow
 
 #### Results
 
@@ -233,9 +180,9 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 ### 1-week results
 
 - Number of unique users: [FILL_IN]
-- Post-launch KPI 1 actual: [FILL_IN]
-- Post-launch KPI 2 actual: [FILL_IN]
-- Post-launch KPI 3 actual: [FILL_IN]
+- Compare submission volumes and error rates to baseline.
+- Monitor returning-user alert impressions vs. completions.
+- Confirm no anomalies in private medical facility data.
 - Any issues with VA handling/processing?:  [PICK_ONE]: yes | no |  N/A
 - Types of errors logged: [FILL_IN]
 - Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes | no |  N/A
@@ -244,9 +191,8 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 ### 1-month results
 
 - Number of unique users: [FILL_IN]
-- Post-launch KPI 1 actual: [FILL_IN]
-- Post-launch KPI 2 actual: [FILL_IN]
-- Post-launch KPI 3 actual: [FILL_IN]
+- Validate sustained KPI performance.
+- Confirm toggles can be safely removed.
 - Any issues with VA handling/processing?: [PICK_ONE]: yes | no |  N/A
 - Types of errors logged: [FILL_IN]
 - Any UX changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes | no |  N/A
@@ -263,12 +209,79 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 5. What technical tasks are needed to clean up (i.e., removal of feature toggles)?
 
 ## Removal of feature toggles after rollout
-
-Scenarios to consider: 
-1. They saved the form on the authorization page prior to this release, and they don't login during the progressive rollout:
-2. They saved the form on the authorization page during the rollout (they were NOT part of the initial percent it was rolled out to)
-3. They saved the form on the authorization page during the rollout (they were part of the percent it was rolled out to) 
+- After 1-month KPI validation and no major regressions, remove all three toggles in vets-api and vets-website.
+- Update documentation to reflect the 2024 form as the permanent version.
    
+
+## Production release plan
+- Deploy behind the disability_526_form4142_use_2024_template, disability_526_form4142_validate_schema, and disability_526_form4142_use_2024_frontend toggles.
+- Conduct staging QA including returning-user flows, new-user flows, and redirect behavior.
+- Enable toggles for a single mod-prod UAT user to confirm alert behavior and form submission success.
+- On approval, enable toggles for 100% of users in production.
+- Monitor Datadog dashboards for error spikes and submission anomalies for 48 hours post-release.
+
+## Risks & Mitigations
+
+| Risk | Mitigation |
+|------|------------|
+| New form negatively impacts old form | Monitor submission counts for both old and new forms; thorough unit/E2E tests. |
+| Form filled incorrectly or lost downstream | Post-release monitoring and data tracing. |
+| User confusion in UI/UX | Clear alert messaging; staging validation with internal testers. |
+| Bug blocks overall 526EZ submission | E2E coverage; monitor submissions; rollback plan in place. |
+
+---
+## Release Day Steps
+
+### Pre-release (day before or morning of release)
+- [ ] Confirm all code for the 4142 Paper Sync MVP has been merged to `main` and deployed to production behind feature toggles.
+- [ ] Verify Datadog dashboards and monitoring alerts are active for:
+  - 526 submission volume
+  - 4142 submission error rates
+  - Returning-user redirect impressions/completions
+- [ ] Confirm with QA that staging tests have passed for:
+  - New user flow (no alert shown, sees new terms)
+  - Returning user with old 4142 (alert shown, redirected, reauthorization works)
+  - Returning user with new 4142 (no alert, flow continues normally)
+
+---
+
+### Step 1 – Enable for Mod-Prod UAT User(s)
+- [ ] Turn on all three toggles for designated mod-prod tester(s) only:
+  - `disability_526_form4142_use_2024_template`
+  - `disability_526_form4142_validate_schema`
+  - `disability_526_form4142_use_2024_frontend`
+- [ ] Confirm:
+  - Alert displays for returning users with old 4142
+  - Redirect logic functions correctly
+  - Schema validation prevents incomplete submissions
+  - Updated PDF is generated successfully (stop-submission flag on to prevent downstream send)
+- [ ] Document results in the “Phase I: UAT Results” section of the release plan
+
+---
+
+### Step 2 – Enable for 100% of Users
+- [ ] At agreed release time, enable all three toggles for all users
+- [ ] PM/Engineering lead to monitor Datadog dashboards in real time for:
+  - Submission error spikes (>5% deviation from baseline triggers rollback)
+  - Drop in submission volume
+  - Abnormal increase in abandonment rate
+- [ ] Keep heightened monitoring for first 48 hours
+
+---
+
+### Rollback Process
+- [ ] If error rate spike or major regression is detected:
+  - Engineering lead to immediately disable all three toggles in production
+  - PM to notify stakeholders and document incident
+  - Debug and patch before attempting re-release
+
+---
+
+### Post-release monitoring (1 week)
+- [ ] Review KPI metrics against baseline
+- [ ] Confirm no increase in VA call center cases related to 4142 flow
+- [ ] Decide if toggles can be safely removed after 1 month
+
 ## Success criteria
 - Support 100% of 526 users in the ability to submit a 4142 that is the new 2024 version
   - This includes all new users completing the form for the first time
@@ -289,53 +302,4 @@ Scenarios to consider:
 - Product Guide ??? 
 - [4142 Paper Sync Staging Test Plan] TBD - Kyle
 - [Release calendar] TBD - Kyle
-
-
-## New capabilities and changes
-### Changes to the 4142 include:
-
-
-### Additions to the 4142 include:
-
-
-
-### Additional functionality:
-
-
-## Production release plan
-
-
-## Risks
-
-  
-**Risk:** In trying to release the new version of the form, we inadvertently negatively affect the existing version.
-
-**Mitigation:** By having monitors that count the old version of the form submitted, and new, we will catch any dip or anomaly in old submissions. Additionally our unit testing, and end to end testing both test not only the new flow, but also that the old flow is unaffected.
-
-
- 
-**Risk:** Form is not being filled out correctly, or not getting where it needs to.
-
-**Mitigation:** Post release monitoring and validation/tracing is designed to mitigate this risk.
-
-
-
-**Risk:** Users are confused by the UI/UX form or flow.
-
-**Mitigation:**
-
-
-
-**Risk:** A bug in new code prevents the overall submission of the 526ez submission.
-
-**Mitigation:** End to end testing covers most of this risk. Our dashboards also cover overall submissions numbers, and evaluation will be done with each roll-out increment to ensure error-rate and submission numbers are not anomalous. 
-
-
-## Release Day Steps 
-
-
-
-### Post release monitoring
-
-
 
