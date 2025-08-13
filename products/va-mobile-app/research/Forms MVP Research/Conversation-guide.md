@@ -321,7 +321,7 @@ If you navigate to your device home screen, and engage the menu screen of the VA
 1. We now need to ensure you turn off the developer options we turned on for the test from the "Google Play Store".
 2. Navigate back to “Google Play Store”
 3. Select “uninstall”
-4. Go back to the main phone home screen, lower menu bar select III 3 lines icon
+4. Go back to the main phone home screen, lower menu bar select square in the middle.
 5. Swipe up to remove Google Play Store window
 6. Now go back to the main screen, open the “Google Play Store”
 7. Click on your name in the top right 
