@@ -8,6 +8,7 @@ _Last updated: 2025-07-14_
 - [ADR 004: Consistent popover styles](#adr-004-consistent-popover-styles)
 - [ADR 005: Focus styles](#adr-005-focus-styles)
 - [ADR 006: Limiting tabs to 3 or less](#adr-006-limiting-tabs-to-3-or-less)
+- [ADR 007: Adding horizontal scrolling for tab overflow](#adr-007-Adding-horizontal-scrolling-for-overflow)
 
 ---
 
@@ -238,6 +239,34 @@ Based on the audit, there are currently no strong use cases requiring more than 
 
 However, we will still address accessibility and usability concerns for limited tabs at 400% zoom or in constrained viewports.
 
-### Consequences
+## Consequences
 
 There will most likely be a need to solve for more than 3 tabs in future. This could cause more time to develop and implement this interaction in the future. 
+
+---
+
+## ADR 007: Adding horizontal scrolling for tab overflow
+### Status: Accepted  
+- **Date Raised:** 2025-07-  
+- **Decision Date:** 2025-07-
+
+## Context
+
+## Decision
+
+## Consequences
+
+---
+
+## ADR 008: Switching from URL navigation to on-page navigation
+### Status: Accepted  
+- **Date Raised:** 2025-07-
+- **Decision Date:** 2025-07-13
+
+## Context
+
+## Decision
+
+## Consequences
+
+---
