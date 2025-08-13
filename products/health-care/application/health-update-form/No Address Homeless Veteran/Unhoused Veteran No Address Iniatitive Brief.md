@@ -124,8 +124,8 @@ Convo with Josh Faulkner :
 - There are no new endpoints implemented with this change
 - This change applies to the full application flow 
 - We will use the following 1010EZR monitoring for any latency or errors being logged
-     - [Datadog monitoring dashboard](https://app.datadoghq.com/dashboard/8it-wik-f5q/vsa-1010-team)
-     - [Datadog Real User Monitoring dashboard](https://vagov.ddog-gov.com/rum/performance-monitoring?query=%40application.id%3A9d5155fd-8623-4bc9-8580-ad8ec2cdd7fa&from_ts=1687971959215&to_ts=1688058359215&live=true)
+     - [Datadog monitoring dashboard](https://vagov.ddog-gov.com/dashboard/kjp-9wp-u47/10-10ezr?fromUser=false&refresh_mode=sliding&from_ts=1755025316070&to_ts=1755111716070&live=true)
+     - [Datadog Real User Monitoring dashboard](https://vagov.ddog-gov.com/rum/performance-monitoring?query=%40application.id%3Ad6b6178d-eef9-4252-baae-896432d38d45%20%40session.type%3Auser&agg_m=%40view.loading_time&fromUser=false&from_ts=1754506934358&to_ts=1755111734358&live=true)
 - If there are any errors or issues found as a result of this change, we will disable the code by switching off the feature toggle which will result in the change being reverted to its previous state prior to release.  We will then begin triaging the root cause and determining a solution.
      - Timeline for triage and solution implementation will be fast-tracked to complete within 1-3 days.
 - Main POCs:
