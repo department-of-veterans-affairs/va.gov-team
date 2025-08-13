@@ -12,6 +12,10 @@ The Appoint a Representative feature allows Veterans to:
 
 All data is securely stored in the vets-api PostgreSQL database with proper encryption and access controls.
 
+## Getting Started
+
+For instructions on setting up the Appoint a Representative feature in your local development environment, see the [`vets-website` Appoint README](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/representative-appoint/README.md).
+
 ## Documentation Files
 
 ### Core Documentation
@@ -48,7 +52,7 @@ This system integrates with the **primary vets-api PostgreSQL database** for:
 - **Save-in-Progress Forms**: Temporary storage in the `in_progress_forms` table with automatic 60-day purge
 - **Power of Attorney Requests**: Secure storage with column-level encryption using KMS
 - **Representative Data**: Read-only access to accredited individual and organization data
-- **Audit Logging**: Comprehensive audit trails through AWS, Sentry, and Datadog
+- **Audit Logging**: Comprehensive audit trails through AWS and Datadog
 
 ## Key Technical Features
 
@@ -56,21 +60,16 @@ This system integrates with the **primary vets-api PostgreSQL database** for:
 - **Save-in-Progress**: Form data temporarily stored and automatically purged
 - **PDF Generation**: On-demand generation of forms 21-22/21-22a
 - **Feature Flags**: Controlled rollout using Flipper features
-- **Monitoring**: Full observability through Sentry and Datadog
+- **Monitoring**: Full observability through Datadog
 
 ## Team Contacts
 
 - **DSVA Product Lead**: Jennifer Bertsch (jennifer.bertsch@va.gov)
-- **Team Product Manager**: Lindsay Li-Smith (lindsay.li-smith@oddball.io)
-- **Tech Lead**: Holden Hinkle (holden.hinkle@oddball.io)
-- **Backend Engineers**: Josh Fike, Jonathan VanCourt
-- **Frontend Engineer**: Colin O'Sullivan
 
 **Team Slack**: [#benefits-representation-management](https://dsva.slack.com/archives/C05L6HSJLHM)
 
 ## Monitoring and Observability
 
-- **Error Tracking**: [Sentry Integration](https://sentry.vfs.va.gov/)
 - **Performance Monitoring**: [Datadog Service - representation-management](https://vagov.ddog-gov.com/apm/services/representation-management/)
 - **Custom Dashboard**: [Appoint a Representative Dashboard](https://vagov.ddog-gov.com/dashboard/iiz-nnm-2em/arm-appoint-a-representative)
 
