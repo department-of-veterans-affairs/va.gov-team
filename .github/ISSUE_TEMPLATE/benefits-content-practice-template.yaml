@@ -1,0 +1,131 @@
+name: Benefits Content Practice Template
+description: Issue template for requesting content design support for Decision Reviews/BMT 1/BMT 2
+title: "[Content] Product: Feature - Request"
+labels:
+  - content
+  - hcd
+assignees:
+  - cinlackey
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## ✏️ Content Support Request
+        This form is for requesting content design support for work related to Decision Reviews (DR) and Benefits Management Tools Teams 1 & 2 (BMT 1 & BMT 2).
+        Please fill out the sections below to help us understand your request, prioritize it effectively, and coordinate with the right stakeholders.
+
+  - type: dropdown
+    id: support_type
+    attributes:
+      label: What kind of content support is needed?
+      description: Review the content design menu and select the most relevant category.
+      multiple: true
+      options:
+        - Define - Identify content needs
+        - Define - Analyze existing content (in production)
+        - Create - Create new content
+        - Ideate - Review content already created by design team (not yet in production)
+        - User testing - Content on prototypes for testing
+        - User testing - Content validation during testing
+        - User testing - Refine content based on testing
+
+  - type: input
+    id: Value_Statement
+    attributes:
+      label: Value Statement
+      placeholder: As a Veteran... I want to... so that... e.g., As a Veteran applying for benefits, I want to understand the evidence I need to submit so that I can complete my application without delays. 
+
+  - type: textarea
+    id: request_summary
+    attributes:
+      label: Summary of request
+      placeholder: What are you building and why does it matter?
+  
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priority
+      options:
+        - High - Must complete before the next sprint ends
+        - Medium - Important but not urgent
+        - Low - Nice to have
+
+  - type: dropdown
+    id: effort
+    attributes:
+      label: Effort
+      options:
+        - Small - Simple revision
+        - Medium - Moderate update
+        - Large - Full review/rework
+
+  - type: textarea
+    id: links
+    attributes:
+      label: Relevant Links
+      placeholder: Include Figma, GitHub tickets, Collaboration Cycle, Mural, or other references.
+
+  - type: textarea
+    id: dates_meetings
+    attributes:
+      label: Important Dates and Meetings
+      placeholder: Timeline expectations, collaboration cycle stage, or meeting invites.
+
+  - type: checkboxes
+    id: stakeholders
+    attributes:
+      label: Stakeholders
+      options:
+        - label: Enablement team - Product
+        - label: Enablement team - Design
+        - label: Enablement team - Other
+        - label: Design
+        - label: Engineering
+        - label: Accessibility
+        - label: OBA
+        - label: Other
+
+  - type: textarea
+    id: open_questions
+    attributes:
+      label: Open Questions
+      placeholder: List any outstanding decisions or questions.
+
+  - type: textarea
+    id: dependencies
+    attributes:
+      label: Dependencies
+      placeholder: e.g., Waiting for updated design, research input, or engineering review.
+
+  - type: textarea
+    id: out_of_scope
+    attributes:
+      label: Out of Content Scope
+      placeholder: List items that are not part of this request.
+
+  - type: textarea
+    id: tasks
+    attributes:
+      label: Tasks
+      placeholder: The content designer can update this section as needed.
+  
+  - type: checkboxes
+    id: definition_ready
+    attributes:
+      label: Definition of Ready (to be completed by the content designer)
+      options:
+        - label: Clear value statement
+        - label: Figma or reference materials available
+        - label: Timeline, blockers, and reviewers identified
+        - label: Scope and expectations are aligned
+
+  - type: checkboxes
+    id: definition_done
+    attributes:
+      label: Definition of Done (to be completed by the content designer)
+      options:
+        - label: Final content reviewed by stakeholder(s)
+        - label: Ready for handoff
+        - label: Guidance is clear and accessible
+        - label: No outstanding questions or blockers
