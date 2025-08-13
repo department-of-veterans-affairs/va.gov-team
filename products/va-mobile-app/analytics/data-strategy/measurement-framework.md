@@ -3,7 +3,7 @@
 ## What story are we trying to tell through the data?
 The data can tell 2 stories: A story about the user’s experience **(experiential metrics)** and a story about the platform’s health **(platform metrics)**.
 
-# Experiential metrics
+## Experiential metrics
 
 **Experiential metrics** capture the quality of the user’s experience — how well the product helps people achieve their goals, how easy it is to use. They can provide insight into how users experience the app, including navigation patterns, common tasks, and points of friction. Experiential metrics can be measured through **user tasks** and **non-tasks**.
 
@@ -52,29 +52,22 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 
 </details>
 
-## Unhelpful experiential metrics
+### Unhelpful experiential metrics
 | **Metric**  | **Why this is unhelpful**  |
 |--------------|-------------|
 | TBD | TBD |
 | TBD | TBD |
 
-# Platform metrics
+## Platform metrics
 
 **Platform metrics** center around the performance, stability, and operational health of the underlying platform or system that delivers the experience. They are **system-centered** and measured from the technical perspective. 
 - Reflect uptime, speed, scalability, and reliability
 - Usually quantitative and diagnostic
 
-## How should we define "the overall health" of the Mobile Platform? 
-Overall platform health can be measured by the following factors:
-- Speed
-- Availability
-- Reliability
-- Consistency
-- User satisfaction 
-- Adoption
-- Retention
+### How should we define "the overall health" of the Mobile Platform? 
+*"I want an application that is fast, stable, and accurately supports my needs as a Veteran."* 
 
-The following tables define each measurement factor and provides helpful metrics to track, related user experiences, and how it can inform decision-making.
+Overall platform health can be measured by the platform's speed, availability, reliability, consistency, overall user satisfaction, adoption, and retention. Each table below define each measurement factor and provides helpful metrics to track and how they can inform decision-making.
 
 <details>
 <summary><h3>Speed</h3></summary>
@@ -148,7 +141,7 @@ The following tables define each measurement factor and provides helpful metrics
 | **How it informs decision-making** | TBD |
 </details>
 
-## Unhelpful platform metrics
+### Unhelpful platform metrics
 | **Metric**  | **Why this is unhelpful**  |
 |--------------|-------------|
 | TBD | TBD |
