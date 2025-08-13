@@ -27,23 +27,23 @@ For instructions on setting up the Appoint a Representative feature in your loca
 ### Architecture Diagrams
 
 #### Current Implementation (V2)
-- **[images/v2/architecture.png](./images/v2/architecture.png)** - Current system architecture diagram
-- **[images/v2/data-flow.png](./images/v2/data-flow.png)** - Current data flow visualization
-- **[images/v2/sequence.png](./images/v2/sequence.png)** - Current sequence diagram showing user interactions
+- **[images/v2/architecture.png](./images/v2/architecture.png)** - System architecture showing user flow from vets-website frontend through vets-api backend, with integrations to PostgreSQL database, Redis cache, Sidekiq background jobs, Sentry error tracking, Datadog monitoring, VANotify service, Lighthouse API, and BGS API
+- **[images/v2/data-flow.png](./images/v2/data-flow.png)** - Comprehensive data flow diagram detailing the complete user journey from form start through PDF generation, submission processing, and email notifications, including database interactions and external service calls
+- **[images/v2/sequence.png](./images/v2/sequence.png)** - Detailed sequence diagram showing the interaction flow between user, vets-website frontend, and vets-api backend for the complete appointment process including authentication, form filling, representative selection, and form submission
 
 #### Legacy Implementation
-- **[images/appoint-a-rep-architecture.png](./images/appoint-a-rep-architecture.png)** - Legacy architecture diagram
-- **[images/appoint-a-rep-data-flow.png](./images/appoint-a-rep-data-flow.png)** - Legacy data flow diagram
-- **[images/appoint-a-rep-sequence.png](./images/appoint-a-rep-sequence.png)** - Legacy sequence diagram
+- **[images/appoint-a-rep-architecture.png](./images/appoint-a-rep-architecture.png)** - Original architecture diagram showing the complete user journey from form access through PDF generation and next steps, including integration points with external services
+- **[images/appoint-a-rep-data-flow.png](./images/appoint-a-rep-data-flow.png)** - Legacy data flow sequence showing user authentication, POA data retrieval, representative selection, form processing, and PDF generation workflows
+- **[images/appoint-a-rep-sequence.png](./images/appoint-a-rep-sequence.png)** - Simple sequence diagram showing the basic user flow from web app access through form submission and PDF download
 
 ### Original Design Documentation
 
 The `original-recommendation/` directory contains early design proposals and technical specifications:
 
 - **[original-recommendation/poa_request_proposal.md](./original-recommendation/poa_request_proposal.md)** - Original technical proposal for Power of Attorney request storage, including database schema design, encryption strategies, and data retention policies
-- **[original-recommendation/data-flow.png](./original-recommendation/data-flow.png)** - Original data flow visualization
-- **[original-recommendation/features.png](./original-recommendation/features.png)** - Feature support matrix
-- **[original-recommendation/sample-ui.png](./original-recommendation/sample-ui.png)** - Sample user interface mockups
+- **[original-recommendation/data-flow.png](./original-recommendation/data-flow.png)** - Flowchart showing the complete POA request lifecycle from form submission through representative decision-making, including database storage patterns and state transitions (cancelled, accepted, declined, expired)
+- **[original-recommendation/features.png](./original-recommendation/features.png)** - Feature support matrix comparing pending vs non-pending POA requests, showing searchable/displayable/sortable capabilities for veteran data fields, consent limitations, and representative information
+- **[original-recommendation/sample-ui.png](./original-recommendation/sample-ui.png)** - Representative-facing UI mockup showing "Power of attorney requests" interface with search functionality by veteran name, VSO, city, state, zip code, and tabbed views for Pending/Accepted/Declined requests with detailed veteran information display
 
 ## Database Integration
 
