@@ -237,7 +237,7 @@ Video Recordings:
 
   - Signed-In User Visits
      - Domo Field: logged\_in\_user
-     - Logic: Number of distinct GA sessions that are tagged as LOA 1 or 3 across any page with a page hierarchy of 'education'for the last completed month.
+     - Logic: Number of distinct GA sessions that are tagged as LOA 1 or 3 across any page with a page hierarchy of 'education' for the last completed month.
      - Dataset(s): [Performance Dashboard | Logged in Users | Benefit Type | Monthly | Staging](https://va-gov.domo.com/redirect-to-datasource-details/90dc5520-840f-42ac-9c27-b1d0c0e59363)
   - Completed Activities
      -  Domo Field: total\_events
@@ -387,7 +387,6 @@ Video Recordings:
           - Correlates to the "Download VA benefits letters" activity 
       - WHEN `URL` LIKE '%request-coe-form-26-1880%'
           - Correlates to the "Request a VA home loan Certificate of Eligibility" activity
-
     - Dataset(s): 
       - [\[Output\] - Medallia Performance Dashboard](https://va-gov.domo.com/datasources/af732c87-6e1a-4ce2-9ca4-56e2398b6c36/details/overview)
 
@@ -404,51 +403,6 @@ Video Recordings:
 
       - [BQ | LOA 1&3 Users by Login Type | Staging](https://va-gov.domo.com/redirect-to-datasource-details/49133251-2ea2-4ed6-a29e-bcc8b184532f)
 
- 
-
-   
-  - Metric Name: Signed-in user visits by benefit type
-
-    - Domo Field: logged\_in\_user
-
-    - Logic: looking at all data where the loa is in (1,3) (logged in, and logged in verified users), as well as any page that has a URL that has been mapped in the Groups staging dataset
-
-    - Dataset(s): 
-
-      - [Performance Dashboard | Logged in Users | Benefit Type | Monthly | Staging](https://va-gov.domo.com/redirect-to-datasource-details/90dc5520-840f-42ac-9c27-b1d0c0e59363)
-
-  - Metric Name: Completed activities by benefit type
-
-    - Domo Field: total\_events
-
-    - Logic: This field is calculated by taking the total events, married with the Groups staging dataset, and then aggregated at the respective granularity , but it is also broken down by benefit type, which is derived from the groups staging dataset
-
-    - Dataset(s): 
-
-      - Same big list as above
-
-  - Metric Name: completed activities by activity
-
-    - Domo Field: total\_events
-
-    - Logic: This field is calculated by taking the total events, married with the Groups staging dataset, and then aggregated at the respective granularity , but it is also broken down by activity, which is derived from the groups staging dataset
-
-    - Dataset(s): 
-
-      - Same big list as above
-
-- **Medallia (CSAT)**
-
-  -  Metric Name: Total User Satisfaction
-
-    - Domo Field: csat\_score
-
-    - Logic: this field is calculated by taking any values that have a[ va.gov](http://va.gov/) experience that is not null, flagging any values as 4 or 5 as 1, and then all values as 1, summing the 1s (4/5s) together and dividing by the total 1,2,3,4,5s, for all the data present in the table (no URL filtering)
-
-    - Dataset(s): 
-
-      - [\[Output\] - Medallia Performance Dashboard](https://va-gov.domo.com/datasources/af732c87-6e1a-4ce2-9ca4-56e2398b6c36/details/overview)
-
 
   -  Metric Name: Segment Bar Graph: 4s and 5s User Ratings
 
@@ -460,22 +414,3 @@ Video Recordings:
 
       - [\[Output\] - Medallia Performance Dashboard](https://va-gov.domo.com/datasources/af732c87-6e1a-4ce2-9ca4-56e2398b6c36/details/overview)
 
-  -  Metric Name: user satisfaction by benefit type
-
-    - Domo Field: csat\_score
-
-    - Logic: this field is calculated by taking any values that have a[ va.gov](http://va.gov/) experience that is not null, flagging any values as 4 or 5 as 1, and then all values as 1, summing the 1s (4/5s) together and dividing by the total 1,2,3,4,5s, for all the data present in the table (filtered by simplified URL from the groups staging table by benefit type)
-
-    - Dataset(s): 
-
-      - [\[Output\] - Medallia Performance Dashboard](https://va-gov.domo.com/datasources/af732c87-6e1a-4ce2-9ca4-56e2398b6c36/details/overview)
-
-  -  Metric Name: user satisfaction by activity
-
-    - Domo Field: csat\_score
-
-    - Logic: this field is calculated by taking any values that have a[ va.gov](http://va.gov/) experience that is not null, flagging any values as 4 or 5 as 1, and then all values as 1, summing the 1s (4/5s) together and dividing by the total 1,2,3,4,5s, for all the data present in the table (filtered by simplified URL from the groups staging table by activity type)
-
-    - Dataset(s): 
-
-      - [\[Output\] - Medallia Performance Dashboard](https://va-gov.domo.com/datasources/af732c87-6e1a-4ce2-9ca4-56e2398b6c36/details/overview)
