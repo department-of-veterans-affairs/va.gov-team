@@ -47,7 +47,7 @@ body:
     id: priority
     attributes:
       label: Priority
-            description: |
+      description: |
         🏃‍♂️ **High:** Must complete before the next sprint ends (e.g., blocks other work, part of the Collaboration Cycle, or has an external deadline)  
         🌼 **Medium:** Important but not urgent (e.g., unblocks near-future work or is needed for an upcoming milestone)  
         🐢 **Low:** Nice to have (e.g., not time-sensitive, no major dependencies, won't block others if delayed)
