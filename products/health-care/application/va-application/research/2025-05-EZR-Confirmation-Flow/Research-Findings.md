@@ -182,14 +182,12 @@ Key quote:
 **Additional Insight 3: The are drawbacks to using Figma for Prototype testing.**
 - 9 out of 10 participants have a service-connected disability rating of 50% or higher, meaning they aren't usually required to fill out the financial section.
 
-- 3 participants expect an option for spouse address to match the Veteran's address, not realizing this is a conditional flow.
-
-  - *P4: "If your spouse's address is different from the Veterans, you know, then give me this option (to edit)".*
-  - Note: For the user to see the Spouse Address page, they must select "No" for "Do you currently have the same address as your spouse?". But since it is a Figma prototype, the "No" was pre-selected and some participants were not aware of this conditional flow.
+- 3 participants expect an option for spouse address to match the Veteran's address, not realizing this is a conditional flow. Note: For the user to see the Spouse Address page, they must select "No" for "Do you currently have the same address as your spouse?". But since it is a Figma prototype, the "No" was pre-selected and some participants were not aware of this conditional flow.
 
 Key quotes:
 - *P1: "None of this would be pertinent to me".*
 - *P4: "I've never been asked for any of my financial information. Very invasive. I think".*
+- *P4: "If your spouse's address is different from the Veterans, you know, then give me this option (to edit)".*
 
 ## Recommendations
 
