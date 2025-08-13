@@ -68,90 +68,28 @@ The remaining content that must migrate to the modernized VA.gov is highly nuanc
 - Health care income limits tool (partnership with Public Websites)
 - VA Life (benefits.va.gov/insurance/valife.asp, benefits.va.gov/insurance/choose.asp, benefits.va.gov/insurance/valife_rates.asp)
   
-## Currently in progress migration initiatives
+## Currently in progress and near-term upcoming migration initiatives
 
-### VBA fact sheet library (benefits.va.gov/benefits/factsheets.asp)
+### My HealtheVet
 
-- **Status:** Audit of all fact sheets with recommendations complete and handed off to VBA digital media. Majority of fact sheets replaced with links.  
+Most of the content is now migrated or retired and redirected. Working with partners to fully migrate site.
 
-### Veteran persona page
+### Benefits.va.gov
 
-- **Status:** In planning for strategy for a "getting started as a Veteran" resources page
+<img width="340" height="152" alt="image" src="https://github.com/user-attachments/assets/ad974c9d-8327-4c47-a600-aa9773343354" />
 
-### Community care content for other beneficiaries
+<img width="317" height="189" alt="image" src="https://github.com/user-attachments/assets/fb235b98-25ba-4067-8f8d-8cc9f3e4b8b4" />
 
-- **Status:** Content strategy planning and writing complete. Moving into reviews with SMEs.
+### Core health care sites (other than My HealtheVet)
 
-### My HealtheVet (myhealth.va.gov)
+<img width="334" height="185" alt="image" src="https://github.com/user-attachments/assets/5e73fd41-1ec3-4bae-ae9e-fe7346d4aec0" />
 
-- **Status:** Working as part of the health portfolio team to migrate tools and content from My HealtheVet and My VA Health into My HealtheVet on VA.gov. Multi-year effort.
+<img width="353" height="153" alt="image" src="https://github.com/user-attachments/assets/6459c435-0e45-454c-820c-065b99020598" />
 
-### Full education services content (benefits.va.gov/gibill/ section)
+### Longer-term roadmap
 
-- **Status:** Initial content audit complete. Collaboration work kicked off with program office.
+<img width="338" height="189" alt="image" src="https://github.com/user-attachments/assets/02461c16-5c5b-4d78-8463-a88f68357e56" />
 
-### Full health benefits content (va.gov/healthbenefits/ section)
+<img width="359" height="187" alt="image" src="https://github.com/user-attachments/assets/de4c7c3a-5e0a-4fde-b2dd-12fcc6ec7ce5" />
 
-- **Status:** Initial content audit complete. Collaboration work kicked off with program office.
-
-### Full compensation content (benefits.va.gov/compensation/ section)
-
-- **Status:** Initial content audit in progress. 
-
-## Up next migration efforts
-
-### Benefits.va.gov (top 1,000 pages)
-
-Working to plan migration for these top 1,000 pages as we continue working our way through full sections:
-- benefits.va.gov/benefits/applying.asp
-- benefits.va.gov/homeloans/contact_rlc_info.asp
-- benefits.va.gov/compensation/claims-special-burial.asp
-- benefits.va.gov/compensation/dbq_disabilityexams.asp
-- benefits.va.gov/vocrehab/subsistence_allowance_rates.asp
-- benefits.va.gov/compensation/types-compensation.asp
-- benefits.va.gov/benefits/banking.asp 
-- benefits.va.gov/gibill/docs/wavechart.asp
-- benefits.va.gov/compensation/mailingaddresses.asp
-
-### Full sections and subdomains associated with top 1,000 URLs initiative
-
-These full sections and subdomains are high priority because they have:
-- Benefit and service content for Veterans and other beneficiaries
-- High engagement
-- At least some accessibility issues
-
-But these full sections and subdomains will take significantly more time and effort to migrate. Each presents a unique situation in terms of content (i.e. mixed audiences, content types) and VA program partner needs and perspectives. For each, we'll need to determine the following:
-- If we have an existing modernized "home" for most/all of the content. And, if not, how do we help program offices ensure that content remaining in the legacy environment for now still works from a UX perspective?
-- If and how we can effectively flow the content into the existing navigation structure (i.e. benefits hubs + R&S)
-- How we might need to iterate on R&S taxonomy or UX to accomodate new content
-- Whether a subdomain or new site section may make sense in any cases
-
-As we migrate this content, we also need to bring each program office into the Drupal environment, provide training on both Drupal and plain language, and get shared alignment around our content strategy, content placement criteria, VA.gov content style guide, and editorial processes. This work is slow, but building a partnership and shared alignment is critical to long-term success.
-
-#### High-priority full sections of va.gov include the following:
-
-- va.gov/geriatrics
-- va.gov/healthbenefits
-- va.gov/opa/persona/
-- va.gov/wholehealth
-
-#### High-priority full sections of benefits.va.gov including the following (with an eventual need to migrate the full subdomain to modernized environments in Drupal and WordPress):
-
-- benefits.va.gov/benefits/ 
-- benefits.va.gov/homeloans/
-- benefits.va.gov/insurance/
-- benefits.va.gov/vocrehab/
-- benefits.va.gov/persona/
-- benefits.va.gov/transition/
-- benefits.va.gov/atoz
-
-#### Other high-priority subdomains include the following:
-
-- publichealth.va.gov/exposures/ (eventually, will need to address the full publichealth.va.gov but exposures is top priority)
-- caregiver.va.gov
-- womenshealth.va.gov
-- mentalhealth.va.gov
-- ptsd.va.gov
-- prosthetics.va.gov
-- telehealth.va.gov
-- vetcenter.va.gov
+**Note:** Working with our OPIA and administration partners to assess and modernize/migrate content for additional sites and business offices.
