@@ -22,12 +22,18 @@
 - [Further research needed](#further-research-needed)
 - [Who we talked to](#who-we-talked-to)
 
+**Executive Summary:**
+
+This research study evaluated two application flows for updating 10-10EZR health benefit information by comparing the existing MVP flow (Option Green) and a new Confirmation Flow (Option Red). Through semi-structured interviews with 10 Veterans using a Figma prototype, the study aimed to validate the Confirmation Flow, identify pain points, and understand user preferences.
+
+Key findings showed that Veterans generally understood the List & Loop component for reviewing spouse and financial information, and there was a slight preference for the new Confirmation Flow due to its efficiency and helpful reference features. Participants indicated a need for clearer guidance, improved progress tracking, and UI elements that better align with their expectations and mental models. 
+
 
 ## Research Goals
-*Provide context for this research by explaining how it fits into the Veteran’s journey.*  
-[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)  
 
 This study aims to evaluate two different flows; an existing MVP flow (Option Green) and the new Confirmation Flow (Option Red). This is to validate the Confirmation Flow and seek to identify any pain points, areas of confusion, and opportunities to enhance the flow. The insights gathered from this study will help inform the iterative design and well as clarify the next steps.
+
+This research supports Veterans in the "Getting Out," "Starting Up", "Taking Care of Myself", "Reinventing Myself", and "Putting Down Roots" stages of their journey.
 
 **Guiding Questions:**  
 - What are the key moments this tool supports in the Veteran’s journey?  
@@ -43,10 +49,19 @@ This study aims to evaluate two different flows; an existing MVP flow (Option Gr
 ## Research Questions
 
 **Spouse Information:** Test the usability of the spouse information section to see if the Veterans follow the conditional logic, what information can be updated, and whether the information presented is comprehensible.
+- Does the user understand that the number of questions changes based on the choice they selected for marital status?
+- Do users understand that they can edit/update the information that’s pre-filled?
 
 **Confirmation Flow:** Validate that the confirmation flow (Option Red), using the List&Loop component, is more efficient than the existing MVP approach (Option Green).
+- Do users report a higher efficiency and ease of flow for the confirmation flow (Option Red), or the existing MVP (Option Green)?
+- Do users understand the instructions on how to update the pre-filled information when it is outdated?
+- Do users understand their income reporting requirements based on the content?
 
 **Gray Reference Card:** Understand how the Veterans expect the previous year’s data to be prefilled, and do they understand the hierarchy of the information.
+
+- Do users find referencing last year’s income helpful in updating their financial information?
+- Does the reference card reduce complexity and effort for users to update their income information?
+- Do users trust the accuracy of the data presented in the card?
 
 ## Methodology 
 
@@ -81,8 +96,6 @@ Note that after the spouse section, users will fork for A/B testing of the propo
 
 ## Key Findings
 
-*Summarize the 5–10 most impactful findings from your study.* 
-
 **1.** Participants expressed a clear understanding of the spouse and financial information List&Loop component.
 
 **2.** There is a slightly higher preference for Optional Red (Confirmation Flow) over Option Green (existing MVP flow). 
@@ -91,8 +104,6 @@ Note that after the spouse section, users will fork for A/B testing of the propo
 
 
 ## Details of Findings 
-
-*Provide detailed descriptions and supporting evidence for each key finding.*  
 
 **Finding 1: Participants generally understood the List & Loop component for the spouse and financial information, but want more contextual guidance and content consolidation around the List & Loop's intro and review pages.**
 - 7 out of 10 participants found that the financial section was easy to understand in both prototypes.
@@ -136,7 +147,7 @@ Key quotes:
 
 - 3 participants assumed that the prefilled information was from their VA profile.
 
-  - *P7: "This is stuff that you put in when you first create a VA account. So this again, you moved, or something, got a new phone, this is not going to change."
+  - *P7: "This is stuff that you put in when you first create a VA account. So this again, you moved, or something, got a new phone, this is not going to change."*
 
 - 1 participant, who works with homeless services, noted that improving online accessibility and standardized support communications could reduce wait times and make it easier for homeless Veterans to receive timely assistance.
 
@@ -207,15 +218,15 @@ Key quotes:
 - Supplement Figma prototype testing with additional UAT for Assistive Tech users. 
 
 ## AI
-**Data synthesis**
+**Data synthesis:**
 
 It can quickly generate summarized notes from transcripts and Mural notes, but it lacks contextual depth to provide helpful insights. When asked to pull insightful quotes from the transcripts, it produced many fabricated quotes. We found it easier to use the notes in Mural to scan for quotes manually, then use the video recording or transcript to confirm the complete context.
 
-**Brainstorming/ Writing**
+**Brainstorming/ Writing:**
 
 It excels at assisting with brainstorming and writing tasks, often giving suggestions to rephrase and improve clarity or highlight areas that could benefit from further exploration.
 
-**Feedback**
+**Feedback:**
 
 We had it analyze our findings report. While not everything was relevant, it was generally helpful for providing a different perspective and identifying potential gaps.
 For instance, it suggested adding an executive summary and visualizations to help communicate effectively with decision-makers.
