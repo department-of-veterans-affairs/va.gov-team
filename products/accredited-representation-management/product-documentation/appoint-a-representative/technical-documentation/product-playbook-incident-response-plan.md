@@ -18,7 +18,6 @@
 
 - Accredited Representation Management team Tech Lead: Holden Hinkle, holden.hinkle@oddball.io
 - Accredited Representation Management team Backend Engineer: Josh Fike, josh.fike@oddball.io
-- Accredited Representation Management team Backend Engineer : Jonathan VanCourt, jonathan.vancourt@adhocteam.us
 - Accredited Representation Management team Frontend Engineer: Colin O'Sullivan, colin.osullivan@adhocteam.us
 
 ## Troubleshooting

@@ -1,23 +1,29 @@
 # Storage Proposal for Power of Attorney Requests
+
 This proposal only covers the storing of data for Power of Attorney Requests.
 
 ## Background
+
 The Office of the Chief Technology Officer (OCTO) is seeking to migrate Veteran and Power of Attorney (PoA) experiences from the legacy Stakeholder Enterprise Platform (SEP) product and eBenefits platform to VA.gov.
 
 One aspect of this experience is the Power of Attorney (POA) Request, a data object that exists to enable accredited representatives accepting or denying requests to act as a Power of Attorney (Forms 21-22 and 21-22a) on behalf of Veterans. The data object bridges the gap from the Veteran facing form fill experience (Appoint a Representative) to establishing the Power of Attorney relationship in systems of record and updating representative permissions in those systems (Lighthouse auto-establishment APIs). [See the flow chart](#data-flow)
 
 ## Problem
+
 In order to create a functional user interface for accredited representatives ([see the sample UI](#sample-ui)), the POA Request objects must support reasonably efficient searching or filtering on the following Veteran attributes: first name, last name, city, state, zip code, and consent limits. The front end must also be able to display information related to change of address authorization and health record access limitations.
 
 There is not an existing pattern or solution in vets-api for storing Veteran PII that is secure and efficiently searchable for a many row result.
 
 ## Solution
+
 Code below is for illustrative and general direction purposes. Implementation details may change.
 
 ### Column level encryption
+
 The [blind index gem](https://github.com/ankane/blind_index) allows for exact matching queries on encrypted columns. This will be used on fields that users will search or filter by. Existing KMS encryption will be used on the fields that are for display purposes only.
 
 #### The Models
+
 ```ruby
 class PowerOfAttorneyRequest < ApplicationRecord
   include AASM
@@ -120,6 +126,7 @@ end
 ```
 
 #### The Migrations
+
 ```ruby
 class CreatePowerOfAttorneyRequests < ActiveRecord::Migration[7.1]
   def change
@@ -172,7 +179,9 @@ end
 ```
 
 #### Consent Limitation Data
+
 Consent limitation data will be treated as jsonb and should only contain boolean values.
+
 ```ruby
 {
   limitation_alcohol: true,
@@ -183,9 +192,11 @@ Consent limitation data will be treated as jsonb and should only contain boolean
 ```
 
 ### Short term persistence
+
 Due to the sensitive nature of this data, the various encrypted fields will only be stored for XX days. After XX days or a terminal status is reached (i.e. the request is accepted) only metadata will be kept in the database.
 
 #### Cleanup Job
+
 This would be a scheduled job and could run on any cadence. The first choice would be once per day to match `InProgressFormCleaner`.
 
 ```ruby
@@ -203,25 +214,31 @@ end
 ```
 
 #### Terminal Actions by Users
+
 The state machine helper methods should be used when VA.gov users take terminal actions.
 
 ## Risks
+
 - `blind_index` is susceptible to leakage in the same way any deterministic encryption method is.
 - Mixing elevated PII fields (name + location) makes this dataset a more appealing target to attackers.
 - The medical consent limitations may be considered PHI. However, one could argue that limiting access to certain types of records does not necessarily mean a user has those medical conditions.
 
 ## Future Considerations
+
 - Data access policies (i.e. Pundit) are not considered in this document. That may be an additional security concern for those implementing Accredited Representative Portal users.
 - Without clear product requirements, it is unclear how the system might use non-pending requests. The proposed data retention policy makes those settled requests less supportive of the same features pending request can power. It may be worth exploring an extended retention of XX days post settlement.
 
 ## Supplemental Information
 
 ### Data Flow
-![Flow chart for form fill to post POA establishment](data-flow.png)
+
+![Flow chart for form fill to post POA establishment](images/data-flow.png)
 
 ### Sample UI
+
 This is for illustrative purposes and subject to change ([source](https://www.figma.com/design/LVCQBuW7a6nfVFNyhA4kv4/ARF---Design-Explorations?node-id=294-34927&t=u5PCXD0K6lXA4SFQ-0]))
-![Sample representative facing UI](sample-ui.png)
+![Sample representative facing UI](images/sample-ui.png)
 
 ### Features Supported
-![Features Supported Table](features.png)
+
+![Features Supported Table](images/features.png)
