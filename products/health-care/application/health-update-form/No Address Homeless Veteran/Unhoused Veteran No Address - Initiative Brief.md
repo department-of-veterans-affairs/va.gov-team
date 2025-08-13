@@ -1,4 +1,4 @@
-# Unhoused Veteran No Address Iniative Brief
+# Unhoused Veteran No Address Initiative Brief
 Heather Justice, 08/13/2025
 - [Epic #116870](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116870)
 
