@@ -1,4 +1,4 @@
-# Evidence Requests Pattern Release Plan
+# Your VA Benefit Letters and Documents Release Plan
 
 | Toggle name                                                                              | Description                                        |
 | ---------------------------------------------------------------------------------------- | -------------------------------------------------- |
