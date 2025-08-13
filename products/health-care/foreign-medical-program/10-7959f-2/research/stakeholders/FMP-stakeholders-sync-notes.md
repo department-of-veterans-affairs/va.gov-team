@@ -1,6 +1,26 @@
 ## FMP stakeholder sync
 Every other Wednesday at 2:35pm ET
 
+**8/13/25**
+--------------------------------
+
+Attendees: Andrea, Mike, Angela, Jennifer, Andrew, Premal, Nicole, Stephanie Slater
+
+## **Agenda**
+
+-   Status of FMP Application
+-   Possibility of putting a FMP Eligibility Letter on VA.gov to save users from having to do application
+
+## **Notes**
+### Status
+Waiting for confirmation from Premal leadership to go live with FMP
+	Will make content updates to encourage users to update their FMP direct deposit before submitting
+
+Go through ID Me
+We can turn on what people can see depending on how they login. So we should start at highest level of auth, lowest level of accessibility for ppl struggling, to prevent fraud
+
+### Possibility of putting a FMP Eligibility Letter on VA.gov to save users from having to do application
+Doable, need to coordinate and plan
 
 **04/9/25**
 --------------------------------
