@@ -19,7 +19,7 @@ The data can tell 2 stories: A story about the user’s experience **(experienti
 * Has a clear beginning and end
 * Can typically be labeled as “completed” or “not completed”
 
-We have organized user tasks by user flow. 14 key flows have been identified in the attached [spreadsheet](URL).
+We have organized user tasks by user flow. User tasks and associated metrics for 14 key flows are mapped in this [spreadsheet](URL).
 
 ### Non-tasks
 **Non-tasks** are passive, informational, or exploratory interactions not necessarily tied to a concrete goal. Examples:
@@ -33,13 +33,15 @@ We have organized user tasks by user flow. 14 key flows have been identified in 
 * Doesn’t always result in a transaction or submission
 * Often serves to inform, guide, or prompt future actions
 
+Non-tasks have also been identified for each key user flow. Non-tasks and associated metrics for 14 key flows are mapped in this [spreadsheet](URL).
+
 | Type | What to measure | Metrics | Notes | 
 |--------------|-------------|--------------|-------------|
-| **User Tasks** | Task success and efficiency | - Task completion rate<br>- Time on task<br>- Error rate<br>- Drop-off rate<br>- Retry attempts | Collect in-app analytics on key flows (e.g. Rx refill, viewing appointments) 14 key flows have been identified in the attached spreadsheet|
+| **User Tasks** | Task success and efficiency | - Task completion rate<br>- Time on task<br>- Error rate<br>- Drop-off rate<br>- Retry attempts | Collect in-app analytics on key flows (e.g. Rx refill, viewing appointments).|
 | **Non-tasks** | User engagement and awareness | - Views<br> - Click-through rate (CTR)<br>- Dwell time <br>- Notification open rate | Focus on passive or content-related interactions. Can serve as leading indicators of task initiation. |
 
 <details>
-<summary><h2>Login</h2></summary>
+<summary><h3>Login</h3></summary> **this is an optional table**
  
 |      | Accessing the App and Logging In |
 |--------------------|-------------|
@@ -75,7 +77,7 @@ Overall platform health can be measured by the following factors:
 The following tables define each measurement factor and provides helpful metrics to track, related user experiences, and how it can inform decision-making.
 
 <details>
-<summary><h2>Speed</h2></summary>
+<summary><h3>Speed</h3></summary>
  
 |**Speed** |   |
 |--------------|-------------|
@@ -86,7 +88,7 @@ The following tables define each measurement factor and provides helpful metrics
 </details>
 
 <details>
-<summary><h2>Availability</h2></summary>
+<summary><h3>Availability</h3></summary>
 
 |**Availability** |   |
 |--------------|-------------|
@@ -97,7 +99,7 @@ The following tables define each measurement factor and provides helpful metrics
 </details>
 
 <details>
-<summary><h2>Reliability</h2></summary>
+<summary><h3>Reliability</h3></summary>
  
 |**Reliability** |   |
 |--------------|-------------|
@@ -107,7 +109,7 @@ The following tables define each measurement factor and provides helpful metrics
 </details>
 
 <details>
-<summary><h2>Consistency</h2></summary>
+<summary><h3>Consistency</h3></summary>
  
 |**Consistency** |   |
 |--------------|-------------|
@@ -117,7 +119,7 @@ The following tables define each measurement factor and provides helpful metrics
 </details>
 
 <details>
-<summary><h2>User satisfaction</h2></summary>
+<summary><h3>User satisfaction</h3></summary>
  
 |**User Satisfaction** |   |
 |--------------|-------------|
@@ -127,7 +129,7 @@ The following tables define each measurement factor and provides helpful metrics
 </details>
 
 <details>
-<summary><h2>Adoption</h2></summary>
+<summary><h3>Adoption</h3></summary>
  
 |**Adoption** |   |
 |--------------|-------------|
@@ -137,7 +139,7 @@ The following tables define each measurement factor and provides helpful metrics
 </details>
 
 <details>
-<summary><h2>Retention</h2></summary>
+<summary><h3>Retention</h3></summary>
  
 |**Retention** |   |
 |--------------|-------------|
