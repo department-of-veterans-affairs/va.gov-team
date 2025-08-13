@@ -19,7 +19,7 @@ body:
     id: support_type
     attributes:
       label: What kind of content support is needed?
-      description: Review the content design menu and select the most relevant category.
+      description: Review the [content design menu](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1746655929211/80067a3f9875681b70f4a854ce74388504c5c1de?sender=uf5838c6c24bc1098b12b5304) and select the most relevant category.
       multiple: true
       options:
         - Define - Identify content needs
@@ -29,6 +29,7 @@ body:
         - User testing - Content on prototypes for testing
         - User testing - Content validation during testing
         - User testing - Refine content based on testing
+        - Other (e.g. a workshop)
 
   - type: input
     id: Value_Statement
