@@ -131,7 +131,7 @@ Video Recordings:
     - Dev Staging dataset id: [84d8c3be-f15b-49b4-8500-af737df737a0](https://va-gov.domo.com/datasources/84d8c3be-f15b-49b4-8500-af737df737a0/details/data/table)
 
   
-## Metrics Mapping Guide (Stage 3)
+## Metrics Mapping Guide 
 ### 1. Total Signed-In User Visits
    
   <img width="337" height="332" alt="Screenshot 2025-08-13 at 12 07 32 PM" src="https://github.com/user-attachments/assets/4fb90a19-910e-4010-9d93-7248635dadea" />
@@ -139,7 +139,7 @@ Video Recordings:
 
   - Domo Field: logged\_in\_users
   - Logic: Number of distinct GA sessions that are tagged as LOA 1 or 3 across any page that has a url like: [ www.va.gov/](http://www.va.gov/). We sum the distinct number of sessions for each month which is displayed on the bar graph and then add up those last completed 12 months to get the Total Signed-In User Visits. 
-  - Dataset: [Performance Dashboard | Logged in Users | VA.GOV | Monthly | Staging](https://va-gov.domo.com/datasources/f7ae4c3e-d3b3-47d8-9588-e25f56391d72/details/data/table): 
+  - Dataset: [Performance Dashboard | Logged in Users | VA.GOV | Monthly | Staging](https://va-gov.domo.com/datasources/f7ae4c3e-d3b3-47d8-9588-e25f56391d72/details/data/table) 
 
 ### 2. Total Completed Activities
 
@@ -163,7 +163,7 @@ Video Recordings:
 <img width="790" height="559" alt="Screenshot 2025-08-13 at 1 00 48 PM" src="https://github.com/user-attachments/assets/d1217a92-9e5a-4d63-b266-a9ac988a1220" />
 
    - Domo Field: csat\_score
-   - Logic: this field is calculated by taking any values that have a "VA.gov experience" score that is not null, flagging any values as 4 or 5 as 1, and then all values as 1, summing the 1s (4/5s) together and dividing by the total 1,2,3,4,5s, for all the data present in the table (no URL filtering). We tally all of those scores for each month which is displayed on the bar graph and then we do another calculation that tallies the scores from the last completed 12 months to get the Total User Satisfaction - we do not average the individual monthly percentage scores in the bar graph to get the last 12 months.
+   - Logic: This field is calculated by taking any values that have a "VA.gov experience" score that is not null, flagging any values as 4 or 5 as 1, and then all values as 1, summing the 1s (4/5s) together and dividing by the total 1,2,3,4,5s, for all the data present in the table (no URL filtering). We calculate scores for each month which is displayed on the bar graph and then we do another calculation for the last completed 12 months to get the Total User Satisfaction - we do not average the individual monthly percentage scores in the bar graph to get the last 12 months.
    - Dataset(s): [\[Output\] - Medallia Performance Dashboard](https://va-gov.domo.com/datasources/af732c87-6e1a-4ce2-9ca4-56e2398b6c36/details/overview)
      - NOTE: The dataflow that creates this dataset for us combines the "VA.gov Experience" column and the "Please rate your experience with this site today" column but just calls it "VA.gov Experience" in this dataset. Noting that it includes data from both survey fields.
     
@@ -173,7 +173,7 @@ Video Recordings:
 
   - Signed-In User Visits
      - Domo Field: logged\_in\_user
-     - Logic: Number of distinct GA sessions that are tagged as LOA 1 or 3 across any page with a page hierarchy of 'burials-memorials'.
+     - Logic: Number of distinct GA sessions that are tagged as LOA 1 or 3 across any page with a page hierarchy of 'burials-memorials' for the last completed month.
      - Dataset(s): [Performance Dashboard | Logged in Users | Benefit Type | Monthly | Staging](https://va-gov.domo.com/redirect-to-datasource-details/90dc5520-840f-42ac-9c27-b1d0c0e59363)
   - Completed Activities
      -  Domo Field: total\_events
@@ -188,7 +188,7 @@ Video Recordings:
         - [Performance Dashboard Groups | Staging](https://va-gov.domo.com/datasources/c9a4e6bb-9a91-4f88-8cd4-7a7b65b40a00/details/overview)
   - User Satisfaction
     - Domo Field: csat\_score
-    - Logic: this field is calculated by taking any values that have a "VA.gov experience" score that is not null, flagging any values as 4 or 5 as 1, and then all values as 1, summing the 1s (4/5s) together and dividing by the total 1,2,3,4,5s, for all the data present in the table. We filter by simplified URL from the groups staging table by benefit type. These are the URLs we look at for Burials & Memorials:
+    - Logic: This field is calculated by taking any values that have a "VA.gov experience" score that is not null, flagging any values as 4 or 5 as 1, and then all values as 1, summing the 1s (4/5s) together and dividing by the total 1,2,3,4,5s, for all the data present in the table. We filter by simplified URL from the groups staging table by benefit type. These are the URLs we look at for Burials & Memorials:
       -  WHEN `URL` LIKE '%burials%'
       -  WHEN `URL` LIKE '%pre-need/form-10007%'
           - Correlates to the "Apply for pre-need eligibility determination" activity
@@ -204,7 +204,7 @@ Video Recordings:
 
   - Signed-In User Visits
      - Domo Field: logged\_in\_user
-     - Logic: Number of distinct GA sessions that are tagged as LOA 1 or 3 across any page with a page hierarchy of 'disability'.
+     - Logic: Number of distinct GA sessions that are tagged as LOA 1 or 3 across any page with a page hierarchy of 'disability' for the last completed month.
      - Dataset(s): [Performance Dashboard | Logged in Users | Benefit Type | Monthly | Staging](https://va-gov.domo.com/redirect-to-datasource-details/90dc5520-840f-42ac-9c27-b1d0c0e59363)
   - Completed Activities
      -  Domo Field: total\_events
@@ -237,7 +237,7 @@ Video Recordings:
 
   - Signed-In User Visits
      - Domo Field: logged\_in\_user
-     - Logic: Number of distinct GA sessions that are tagged as LOA 1 or 3 across any page with a page hierarchy of 'education'.
+     - Logic: Number of distinct GA sessions that are tagged as LOA 1 or 3 across any page with a page hierarchy of 'education'for the last completed month.
      - Dataset(s): [Performance Dashboard | Logged in Users | Benefit Type | Monthly | Staging](https://va-gov.domo.com/redirect-to-datasource-details/90dc5520-840f-42ac-9c27-b1d0c0e59363)
   - Completed Activities
      -  Domo Field: total\_events
@@ -296,7 +296,7 @@ Video Recordings:
 
   - Signed-In User Visits
      - Domo Field: logged\_in\_user
-     - Logic: Number of distinct GA sessions that are tagged as LOA 1 or 3 across any page with a page hierarchy of 'health-care'.
+     - Logic: Number of distinct GA sessions that are tagged as LOA 1 or 3 across any page with a page hierarchy of 'health-care' for the last completed month.
      - Dataset(s): [Performance Dashboard | Logged in Users | Benefit Type | Monthly | Staging](https://va-gov.domo.com/redirect-to-datasource-details/90dc5520-840f-42ac-9c27-b1d0c0e59363)
   - Completed Activities
      -  Domo Field: total\_events
@@ -333,7 +333,7 @@ Video Recordings:
 
   - Signed-In User Visits
      - Domo Field: logged\_in\_user
-     - Logic: Number of distinct GA sessions that are tagged as LOA 1 or 3 across any page with a page hierarchy of 'pension'.
+     - Logic: Number of distinct GA sessions that are tagged as LOA 1 or 3 across any page with a page hierarchy of 'pension' for the last completed month.
      - Dataset(s): [Performance Dashboard | Logged in Users | Benefit Type | Monthly | Staging](https://va-gov.domo.com/redirect-to-datasource-details/90dc5520-840f-42ac-9c27-b1d0c0e59363)
   - Completed Activities
      -  Domo Field: total\_events
@@ -361,7 +361,7 @@ Video Recordings:
 
   - Signed-In User Visits
      - Domo Field: logged\_in\_user
-     - Logic: Number of distinct GA sessions that are tagged as LOA 1 or 3 across any page with a page hierarchy of 'profile' or 'records'.
+     - Logic: Number of distinct GA sessions that are tagged as LOA 1 or 3 across any page with a page hierarchy of 'profile' or 'records' for the last completed month.
      - Dataset(s): [Performance Dashboard | Logged in Users | Benefit Type | Monthly | Staging](https://va-gov.domo.com/redirect-to-datasource-details/90dc5520-840f-42ac-9c27-b1d0c0e59363)
   - Completed Activities
      -  Domo Field: total\_events
