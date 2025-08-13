@@ -213,7 +213,7 @@ iii. Click on profile. Take a moment and review the page. Is there anything miss
 > - Does the participant want, or expect anything more in the authenticated navigation? 
 
 
-## Forth Task: [A/B Testing Claims and Profile] - X minutes
+## Forth Task: [A/B Testing Claims and Profile] - 5 minutes
 
 - [ ] Step 15 Now you will see the current version, Option A, and Option B for profile. You can toggle  between both options. 
 i. Take a moment to review both options.  
