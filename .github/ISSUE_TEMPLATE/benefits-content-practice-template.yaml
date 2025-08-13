@@ -47,20 +47,28 @@ body:
     id: priority
     attributes:
       label: Priority
+            description: |
+        🏃‍♂️ **High:** Must complete before the next sprint ends (e.g., blocks other work, part of the Collaboration Cycle, or has an external deadline)  
+        🌼 **Medium:** Important but not urgent (e.g., unblocks near-future work or is needed for an upcoming milestone)  
+        🐢 **Low:** Nice to have (e.g., not time-sensitive, no major dependencies, won't block others if delayed)
       options:
-        - High - Must complete before the next sprint ends
-        - Medium - Important but not urgent
-        - Low - Nice to have
+        - High
+        - Medium
+        - Low
 
   - type: dropdown
     id: effort
     attributes:
       label: Effort
+      description: |
+        🐜 **Small:** Simple revision (e.g., editing a sentence or two)  
+        🐈 **Medium:** Moderate update (e.g., editing a couple of sections or revising a page)  
+        🐘 **Large:** Full review and rework (e.g., multiple screens, new content, or net-new flow)
       options:
-        - Small - Simple revision
-        - Medium - Moderate update
-        - Large - Full review/rework
-
+        - Small
+        - Medium
+        - Large
+        
   - type: textarea
     id: links
     attributes:
@@ -106,10 +114,17 @@ body:
       placeholder: List items that are not part of this request.
 
   - type: textarea
-    id: tasks
+    id: tasks_list
     attributes:
-      label: Tasks
-      placeholder: The content designer can update this section as needed.
+    label: "📋 Task List"
+    description: "List the tasks for this request. Use `- [ ]` to create checkboxes so they can be checked off later. It's okay to leave this minimal or blank for the Content Designer to fill out later."
+    placeholder: |
+      Example:
+      - [ ] Review current content
+      - [ ] Draft new headings
+      - [ ] Share with stakeholders
+  validations:
+    required: false
   
   - type: checkboxes
     id: definition_ready
