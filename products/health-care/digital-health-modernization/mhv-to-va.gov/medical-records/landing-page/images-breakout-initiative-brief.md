@@ -15,8 +15,7 @@
 * Veterans are confused by having images included in Lab and Test Results.
 * We have received numerous reports from support staff that Veterans report being unable to find their images
 * We have also been in research sessions where users stated that they didn't know images would be in Labs and Test Results
-* Lab and Test Results currently include imaging studies and their associated images.  These images are too large to be suitable candidates for mobile.  We want to exclude images from Labs and Test and put them into their own category so they can easily be excluded on mobile.
-
+* Lab and Test Results currently include radiology report and their associated images. There are challenges with delivering images and radiology reports from Oracle, so we want to be able to easily exclude them on mobile until that can be resolved.  Adding them to their own category and excluding it on mobile temporarily will create less confusion than having results randomly missing from a list of Labs and Test results.
 
 ## Desired User Outcomes
 - Users can more easily locate their medical images
