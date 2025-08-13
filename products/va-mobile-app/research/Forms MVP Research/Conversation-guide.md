@@ -330,6 +330,7 @@ If you navigate to your device home screen, and engage the menu screen of the VA
 10. Go back one, there should be no developer mode.
 11. Reinstall the VA app
 
+(hint: to switch browser windows the user can select the three lines III in the bottom left corner of their lower nav. menu)
 
 ## Thank You and Closing - 3 minutes
 
