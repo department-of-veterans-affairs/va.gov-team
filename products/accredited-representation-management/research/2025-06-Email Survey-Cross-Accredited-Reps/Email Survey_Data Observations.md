@@ -15,7 +15,7 @@ Accredited Representative Management
 -	The survey results reveal a diverse range of experience levels among the 77 VA accredited representatives who participated, though it's important to note that this sample size is relatively small compared to the total population of approximately 18,000 accredited representatives. 
 -	Among the respondents, about 70% have been accredited for 10 years or less. This suggests a potentially younger demographic in terms of experience, which may influence their familiarity with processes and comfort with various communication methods. However, due to the limited sample size, these findings may not fully represent the broader group and could skew the understanding of overall experience levels.
 
-<img width="1925" height="880" alt="image" src="https://github.com/user-attachments/assets/8dc3a0e3-ca10-4a6c-a957-84315593f4d4" />
+<img width="1925" height="880" padding="100" alt="image" src="https://github.com/user-attachments/assets/8dc3a0e3-ca10-4a6c-a957-84315593f4d4" />
 
 -	Regarding how representatives chose their primary organization, nearly half (46.84%) indicated that the choice was automatic. This lack of active decision-making may reflect organizational structures that do not encourage representatives to explore options thoroughly. 
 -	Additionally, 20.25% reported that their director chose their organization for them. Such dynamics might result in representatives feeling less invested in their roles. While these trends are noteworthy, the small sample size suggests caution in generalizing these observations to the entire population of accredited representatives.
