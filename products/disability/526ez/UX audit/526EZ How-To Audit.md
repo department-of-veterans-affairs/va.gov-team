@@ -39,8 +39,8 @@ The 526EZ is a long form with multiple pathways (e.g., ancillary forms) and nest
 3. Determine which form Step(s) and conditional pathways you will be auditing
 4. Check for in-progress work and known issues
 5. Conduct an audit using the Bug Audit or the UX Issue Checklist
-6. Create or update bug / UX issue tickets
-7. Link bug / UX issue tickets to any related enhancement Super Epics
+6. ~Create or update bug / UX issue tickets~ Fill out spreadsheet with bug / UX issue findings.
+7. ~Link bug / UX issue tickets to any related enhancement Super Epics~ PO/PMs will review spreadsheet for duplicate bugs and create tickets.
 8. Fill out the _Audit Tracker_ and update the _526 Active Form Audit Map_.
 
 ## 🔐 1. Access staging
