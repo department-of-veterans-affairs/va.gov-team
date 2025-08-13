@@ -59,14 +59,13 @@ This system integrates with the **primary vets-api PostgreSQL database** for:
 - **Representative Data**: Daily automated updates to `veteran_representatives` table from OGC sources
 - **Organization Data**: Daily automated updates to `veteran_organizations` table from OGC sources  
 - **Address Validation**: Integration with Lighthouse Address Validation API for geocoding
-- **Contact Information Updates**: Processing of representative contact change requests
 - **Search Indexing**: Optimized database queries for location-based searches
 
 ## Data Sources and Processing
 
 - **OGC Daily Feeds**: Automated daily ingestion from `attorneyexcellist.asp`, `caexcellist.asp`, and `orgsexcellist.asp`
 - **Manual Excel Updates**: Periodic updates via sanitized Excel files from OGC GCLAWS system
-- **Address Validation**: Real-time geocoding via Lighthouse Address Validation API
+- **Address Validation**: Geocoding via Lighthouse Address Validation API
 - **Hard-coded Organization Names**: Curated list of approved VSO organizations
 
 ## Key Features
@@ -94,11 +93,6 @@ This system integrates with the **primary vets-api PostgreSQL database** for:
 ## Team Contacts
 
 - **DSVA Product Lead**: Jennifer Bertsch (jennifer.bertsch@va.gov)
-- **Team Product Manager**: Lindsay Li-Smith (lindsay.li-smith@oddball.io)
-- **Lead Engineer**: Holden Hinkle (holden.hinkle@oddball.io)
-- **UX Research/Design**: Janelle Finnerty
-- **Backend Engineer**: Jonathan VanCourt
-- **Frontend Engineer**: Colin O'Sullivan
 
 **Team Slack**: [#benefits-representation-management](https://dsva.slack.com/archives/C05L6HSJLHM)
 
@@ -106,7 +100,7 @@ This system integrates with the **primary vets-api PostgreSQL database** for:
 
 - **Performance Monitoring**: [Datadog Dashboard - ARM: Find a Representative](https://vagov.ddog-gov.com/dashboard/55d-sc2-bxi/arm-find-a-representative)
 - **User Analytics**: [Domo Dashboard - Accredited Representation Management](https://va-gov.domo.com/page/1897070864)
-- **Error Tracking**: Sentry integration for runtime error monitoring
+- **Error Tracking**: Datadog integration for runtime error monitoring
 - **Feature Flags**: Flipper-based feature toggles for controlled rollouts
 
 ## Security and Compliance
@@ -114,7 +108,6 @@ This system integrates with the **primary vets-api PostgreSQL database** for:
 - **Public Data**: No PII/PHI involved - all representative data is intended for public use
 - **Data Sanitization**: Removal of sensitive accreditation details from source files
 - **Secure Transfer**: HTTPS encryption for all data transfers
-- **Access Controls**: Role-based access to production systems and databases
 - **Audit Trails**: Git commit history for file changes and database access logging
 
 ## Known Issues and Future Improvements
@@ -131,5 +124,8 @@ Planned redirects from legacy systems once Appoint a Representative exits pilot:
 1. [ARM Research: Find a Representative 3.0](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97783) - User testing validation
 2. [ARM Design: Find a Representative 3.0](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98591) - Design finalization
 3. [ARM Development: Find a Representative 3.0](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80758) - Implementation
+
+### Future Ideas
+Longer term ideas are stored in the [ARM Future Ideas](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representation%20Management/ARM%20Future%20Ideas.docx?d=wfe95a788166e4670bfda5a59798550d7&csf=1&web=1&e=7iFIw0) document.
 
 For detailed technical procedures, security protocols, and incident response information, see the [technical documentation](./technical-documentation/) directory and [product playbook](./technical-documentation/product-playbook-incident-response-plan.md).
