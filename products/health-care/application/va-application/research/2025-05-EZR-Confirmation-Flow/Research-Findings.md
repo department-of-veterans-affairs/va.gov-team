@@ -40,10 +40,6 @@ This study aims to evaluate two different flows; an existing MVP flow (Option Gr
 
 - Goal 3: Gray Reference Card: Understand how the Veterans expect the previous year’s financial data to be prefilled, and whether they understand the hierarchy of the information on financial reporting screens.
 
-[Example Research Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-goals) 
-
-
-
 ## Research Questions
 
 **Spouse Information:** Test the usability of the spouse information section to see if the Veterans follow the conditional logic, what information can be updated, and whether the information presented is comprehensible.
@@ -123,7 +119,6 @@ Key quotes:
   *The personal information box shows the Veteran's name, birthday, social security number, and sex. In a [previous study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/41879e5885eea6f0f2965b1ba51f7c65407d863d/products/authenticated-patterns/Design-and-research/2024-09-Research-Initiative-Two-Update-Prefill/Update%20Prefill%20Research%20Report.md#hypotheses-and-conclusions) by the Authenticated Patterns team, they compared several different formats, resulting in the recommendation for the white box with a black border for editable and uneditable data. In our collaboration with this team, we presented three options: an address block formatting, a gray box formatting, and a white box with a black border. The participants overwhelmingly chose the white box with a black border as their preference.*
 
 - 6 out of 10 participants prefer the Marital Status question to use radio button options over the 2 participants that prefer a dropdown menu, citing that it is easier to see and requires fewer clicks. The last 2 participants have no preference.
-
 
 
 Key quotes:
@@ -210,6 +205,20 @@ Key quotes:
 **Recommendation 6: Prototype Testing considerations**
 - Improve scenario clarity in Figma-based testing (such as limiting it only to Veterans with Disability Rating under 50%).
 - Supplement Figma prototype testing with additional UAT for Assistive Tech users. 
+
+## AI
+**Data synthesis**
+
+It can quickly generate summarized notes from transcripts and Mural notes, but it lacks contextual depth to provide helpful insights. When asked to pull insightful quotes from the transcripts, it produced many fabricated quotes. We found it easier to use the notes in Mural to scan for quotes manually, then use the video recording or transcript to confirm the complete context.
+
+**Brainstorming/ Writing**
+
+It excels at assisting with brainstorming and writing tasks, often giving suggestions to rephrase and improve clarity or highlight areas that could benefit from further exploration.
+
+**Feedback**
+
+We had it analyze our findings report. While not everything was relevant, it was generally helpful for providing a different perspective and identifying potential gaps.
+For instance, it suggested adding an executive summary and visualizations to help communicate effectively with decision-makers.
 
 ## Product User and Business Outcomes
 
