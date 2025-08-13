@@ -1,6 +1,6 @@
 ## List of translated pages on VA.gov
 | **Number** | **Page** | **Language** | **Date published** | 
-| --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | 1 | [COVID-19 vaccines at VA](https://www.va.gov/health-care/covid-19-vaccine-esp/) | Spanish | |
 | 2 | [COVID-19 vaccines at VA](https://www.va.gov/health-care/covid-19-vaccine-tag/) | Tagalog | |
 | 3 | [About COVID-19 vaccines](https://www.va.gov/health-care/covid-19-vaccine-esp/about-covid-19-vaccine-esp/) | Spanish | |
