@@ -22,6 +22,8 @@
 
 ### Team Roster
 
+Directory system will parse this section to display team member contact information
+
 #### Product Owner
 
 - **Name:** Matthew Dingee
@@ -35,6 +37,8 @@
 - **GitHub:** @megansiddle
 - **Email:** <megan.siddle@va.gov>
 - **Role:** Program Manager
+
+#### Additional Team Members
 
 - Product Manager Lead: Tricia Baker
 - Product Manager: Carol Wong
@@ -56,11 +60,9 @@
 
 To empower teams across VA to build consistent, accessible, and user-centered digital experiences for Veterans and their families by providing and evolving a scalable design system and forms library that is rooted in quality, collaboration, and innovation.
 
-### North Star / Mission Statement
-
-To empower teams across VA to build consistent, accessible, and user-centered digital experiences for Veterans and their families by providing and evolving a scalable design system and forms library that is rooted in quality, collaboration, and innovation.
-
 ## Products We Own
+
+> Directory system will cross-reference these with product details.yml files containing `team: "[team-slug-name]"`
 
 - [Design System](../../../products/platform/design-system/design-system-details.yml)
 - [Forms System](../../../products/platform/forms-system/forms-system-details.yml)
@@ -131,15 +133,10 @@ During rero, the team review saccomplishments from prior sprint, what went well,
 For an issue to go into the Current Sprint column, it must have the following (created using the "Standard Issue Template"):
 
 - Estimate (when possible)
-
 - Title that explains task
-
 - Description with Background and Acceptance Criteria (optional)
-
 - Labels: platform-design-system-team (add appropriate corresponding labels to the ticket for example: "va-textinput", "dst-engineering" or "dst-design")
-
 - User Story (if applicable), Goal, and Acceptance Criteria
-
 - Nested in an Epic
 
 All work should be validated either in staging or production, as defined by the acceptance criteria. Each ticket's last comment before closing should reflect whether validation has occurred, and by whom. By default, assign your PM to validate any tasks you are unable to validate yourself.
@@ -147,13 +144,9 @@ All work should be validated either in staging or production, as defined by the 
 #### Team Norms
 
 - Be respectful, both online and off
-
 - Show your face (Webcam) at meetings / calls
-
 - Speak up! - everyone's voice matters
-
 - We are flexible, but intentional in the way we work
-
 - Let's have fun and do great work!
 
 #### Slack
@@ -171,5 +164,4 @@ GitHub is the single source of truth. Every body of work should be documented fo
 #### General things
 
 - Update tickets regularly. If conversations happen in Slack that are pertinent to a product or initiative, copy the useful info into GitHub
-
 - [Design System and Forms GH Project Board](https://github.com/orgs/department-of-veterans-affairs/projects/1643/views/1)
