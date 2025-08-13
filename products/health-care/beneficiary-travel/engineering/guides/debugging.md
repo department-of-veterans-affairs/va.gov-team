@@ -110,8 +110,9 @@ class FakeUser
 end
 ```
 
-Then create an instance of the fake user and populate it with your BTSSS test user values:
+Then create an instance of the fake user and populate it with your [BTSSS test user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-travel-pay.md) values:
 
+> Once you decide on a user, you'll log into Staging with that user, open DevTools, opent he Nework tab and open the User object to get the `email`, `UUID`, and `ICN`.
 ```ruby
 test_user = FakeUser.new('prof.jimmy.dean@sausage.edu', '123ICNHERE123', 'uuid-12345-123436434-135234')
 ```
