@@ -5,6 +5,8 @@ This document outlines the basic work areas that Content and IA team members cov
 ## Content
 This section shows the current team members and their assigned product teams. If we haven't noted a product team in this list, we're not currently providing extensive content support to them.
 
+**Note:** Identity and Secure Sign-in Transition teams aren't assigned below yet. But we do support them.
+
 ### Juliana Jara
 - Disability Benefits Crew
   - Subteams: Shared Support, Core 526 Form, Pathways Forms, Employee Experience, Conditions and Evidence
@@ -12,7 +14,7 @@ This section shows the current team members and their assigned product teams. If
 - Iterate, Innovate, and Run (IIR) (supported by Marissa Merkt)
   - Products: various
 
-**Note:** Juliana also supporting translation work
+**Note:** Juliana also supports translation work.
 
 ### Kaitlyn Hunt
 - Cross Benefits Crew
@@ -56,7 +58,7 @@ This section shows the current team members and their assigned product teams. If
 - Authenticated Experience Design Patterns
 
 ### Support to cross-functional or platform teams
-These are the cross-functional or platform teams that we may support depending on the product or feature they’re working on. Example: Rory supports Financial Management team on VA.gov. He also supports Mobile Feature Support team as they integrate Debt into the mobile app.
+These are the cross-functional or platform teams that we support. Team member assignments depends on the product or feature they’re working on. Example: Rory supports the Financial Management team on VA.gov. He'll also support Mobile Feature Support team as they integrate Debt into the mobile app.
 - Mobile Feature Support Team
 - Mobile App Platform
 - VA Digital Notifications
