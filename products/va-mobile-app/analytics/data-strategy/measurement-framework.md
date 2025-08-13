@@ -5,7 +5,7 @@ The data can tell 2 stories: A story about the user’s experience **(experienti
 
 ## Experiential metrics
 
-**Experiential metrics** capture the quality of the user’s experience — how well the product helps people achieve their goals, how easy it is to use. They can provide insight into how users experience the app, including navigation patterns, common tasks, and points of friction. Experiential metrics can be measured through **user tasks** and **non-tasks**.
+**Experiential metrics** capture the quality of the user’s experience — how well the product helps people achieve their goals. They can provide insight into how users experience the app, including navigation patterns, common tasks, and points of friction. Experiential metrics can be measured through **user tasks** and **non-tasks**.
 
 ### User Tasks
 **User Tasks** are goal-oriented actions that a user initiates with intent to complete a specific objective. Examples:
@@ -67,7 +67,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 ### How should we define "the overall health" of the Mobile Platform? 
 *"I want an application that is fast, stable, and accurately supports my needs as a Veteran."* 
 
-Overall platform health can be measured by the platform's speed, availability, reliability, consistency, overall user satisfaction, adoption, and retention. Each table below define each measurement factor and provides helpful metrics to track and how they can inform decision-making.
+Overall platform health can be measured by the platform's speed, availability, reliability, consistency, overall user satisfaction, adoption, and retention. Each table below defines each measurement factor and provides helpful metrics to track and how they can inform decision-making.
 
 <details>
 <summary><h3>Speed</h3></summary>
