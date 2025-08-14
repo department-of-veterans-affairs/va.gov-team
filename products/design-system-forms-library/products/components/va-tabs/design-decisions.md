@@ -247,14 +247,17 @@ There will most likely be a need to solve for more than 3 tabs in future. This c
 
 ## ADR 007: Adding horizontal scrolling for tab overflow
 ### Status: Accepted  
-- **Date Raised:** 2025-07-  
-- **Decision Date:** 2025-07-
+- **Date Raised:** 2025-07-24  
+- **Decision Date:** 2025-07-24
 
 ## Context
+At times, the tabs list will be wider than the viewport. This usually happens when users zoom in, resize text, or when teams create tab lists that are longer than recommended. To keep the component accessible, we needed to make sure users can always see and navigate to every tab item in the list.
 
 ## Decision
+After considering a mix of options including a collapsible menu, we chose horizontal scrolling to manage tab overflow. This solution is straightforward, accessible and works well with screen readers and keyboard navigation. If users follow our guidance to limit tab count and keep labels short, horizontal scrolling will only be needed at high zoom levels or in constrained viewports.
 
 ## Consequences
+If teams need a tabs component that supports more tabs or longer labels, we may need to revisit this functionality.
 
 ---
 
