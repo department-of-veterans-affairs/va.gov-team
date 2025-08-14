@@ -119,7 +119,7 @@ synthesis_tools_used:
 - [Next Steps](#user-content-next-steps)
 - [Further research needed](#user-content-further-research-needed)
 - [Appendix](#user-content-appendix)
-- [Who we talked to](#user-content-who-we-talked-to)
+- [Research participants](#user-content-research-participants)
 
 ## Research Goals
 *Provide context for this research by explaining how it fits into the Veteran’s journey.*  
@@ -282,7 +282,7 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 _If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
 
-#### Demographics of who we talked to 
+#### Demographics 
 
 We talked to **x participants.**
 
