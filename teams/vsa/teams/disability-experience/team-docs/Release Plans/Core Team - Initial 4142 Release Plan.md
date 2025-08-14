@@ -45,16 +45,14 @@ The MVP introduces two primary changes to support sending the updated 4142 form:
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| disability_526_form4142_use_2024_template |  Enables 2024 template for form 4142 in disability 526 application |
-| disability_526_form4142_validate_schema | Enables schema validation for form 4142 in disability 526 applications |
-| disability_526_form4142_use_2024_frontend | Enables the 2024 form 4142 in the disability 526 submission frontend workflow (maps to disability526Enable2024Form4142 in vets-website) |
+| disability_526_form4142_use_2024_version | Enables the 2024 form 4142 in the disability 526 submission workflow (maps to disability526Enable2024Form4142 in vets-website) |
 
-We will keep these as three separate toggles. 
+Note: we don't need to touch the `disability_526_form4142_validate_schema` Flipper which is just created by the Decision Reviews team for us in case our team ever implements form validation using the 2024 4142 template. We aren't using that validation currently.
 
 ## Step 2: Validation
 
 **Staging release plan:**
-- Release under the three Flipper flags.
+- Release under `disability_526_form4142_use_2024_version` Flipper.
 - Use `OnFormLoaded` to detect whether data needs updating.
 - Test scenarios:
   1. Form saved on the authorization page prior to release; user logs in after rollout.
@@ -82,7 +80,7 @@ Feature Toggle = Enabled; User saved form (different page) → Toggle Disabled; 
 
 ## Step 3: Production rollout
 
-Testing will occur in staging, followed by mod-prod testing if possible, then full release.
+Testing will occur in staging, followed by staged rollout, then full release.
 
 **Target release date:** September 1
 
@@ -120,7 +118,7 @@ If issues arise in production:
 ---
 
 ### Phase I: Moderated Production Testing (UAT)
-We would like to have a moderated production test user click through this flow if the timing allows. 
+We are considering whether or not to have a moderated production test user click through this flow if the timing allows. 
 **Planning:**
 - **Timeline:** After August 22 Staging Review, before September 1 release.
 - **Users:** 1 mod-prod tester.
@@ -157,14 +155,39 @@ We would like to have a moderated production test user click through this flow i
 - Monitored by: PM, Engineering lead
 
 ### Stage A: Canary - 1% of users
-_(We will skip this stage — going to 100% after mod-prod testing)_ 
+#### Planning
 
-### Stage E: 100% of users
+- Length of time: Ongoing
+- Percentage of Users: 1% (All Veterans in 526 flow who opt for 4142 flow)
+
+#### Results
+
+- Number of unique users: [FILL_IN]
+- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
+- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
+- Types of errors logged: [FILL_IN]
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+
+### Stage B: 25% of users
+#### Planning
+
+- Length of time: Ongoing
+- Percentage of Users: 25% (All Veterans in 526 flow who opt for 4142 flow)
+
+#### Results
+
+- Number of unique users: [FILL_IN]
+- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
+- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
+- Types of errors logged: [FILL_IN]
+- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
+
+### Stage C: 100% of users
 
 #### Planning
 
 - Length of time: Ongoing
-- Percentage of Users: 100% (All Veterans in 526 flow who opt for 4142 flow
+- Percentage of Users: 100% (All Veterans in 526 flow who opt for 4142 flow)
 
 #### Results
 
@@ -248,9 +271,7 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 
 ### Step 1 – Enable for Mod-Prod UAT User(s)
 - [ ] Turn on all three toggles for designated mod-prod tester(s) only:
-  - `disability_526_form4142_use_2024_template`
-  - `disability_526_form4142_validate_schema`
-  - `disability_526_form4142_use_2024_frontend`
+  - `disability_526_form4142_use_2024_version`
 - [ ] Confirm:
   - Alert displays for returning users with old 4142
   - Redirect logic functions correctly
@@ -260,8 +281,26 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 
 ---
 
-### Step 2 – Enable for 100% of Users
-- [ ] At agreed release time, enable all three toggles for all users
+### Step 2 – Enable for 1% of Users
+- [ ] At agreed release time, enable toggle for 1% of users
+- [ ] PM/Engineering lead to monitor Datadog dashboards in real time for:
+  - Submission error spikes (>5% deviation from baseline triggers rollback)
+  - Drop in submission volume
+  - Abnormal increase in abandonment rate
+- [ ] Keep heightened monitoring for first 48 hours before proceeding to Step 3
+
+---
+### Step 3 – Enable for 25% of Users
+- [ ] At agreed release time, enable toggle for 25% of users
+- [ ] PM/Engineering lead to monitor Datadog dashboards in real time for:
+  - Submission error spikes (>5% deviation from baseline triggers rollback)
+  - Drop in submission volume
+  - Abnormal increase in abandonment rate
+- [ ] Keep heightened monitoring for 24 hours before proceeding to Step 4
+
+---
+### Step 4 – Enable for 1% of Users
+- [ ] At agreed release time, enable toggle for 100% of users
 - [ ] PM/Engineering lead to monitor Datadog dashboards in real time for:
   - Submission error spikes (>5% deviation from baseline triggers rollback)
   - Drop in submission volume
