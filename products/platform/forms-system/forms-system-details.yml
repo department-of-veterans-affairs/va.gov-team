@@ -1,0 +1,9 @@
+name: Forms System
+entry_name: forms-system
+description: "A system of common patterns found in forms." 
+team: design-forms-system
+urls:
+  production: "https://design.va.gov"
+analytics:
+  metrics_dashboard: "https://design.va.gov/about/metrics/"
+status: "active"
