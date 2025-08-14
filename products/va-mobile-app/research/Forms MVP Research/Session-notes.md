@@ -487,3 +487,107 @@ The update version that showed up on the HomeScreen I believe is likely due to t
 ### per researcher:
 
 Pending recording review.
+
+## P8
+
+### per designer:
+
+iOS / Safari
+
+I’m excited for this one because it seems like the P is in a busy-ish location and/or is slightly distracted which is a very real situation, good for context building
+
+“Decent for what it is…” app isn’t meeting needs around handling 3P medical care, it’s 3/5 star okay.
+
+Where should the ingress be? “[If it’s in progress I would click on claims, if it’s new I would click on claims]”
+
+Issue with “continue” button on GH portal, “A little tiny”
+
+“I’ve been working on an active claim” Good context for user’s mental model of what a “Form” is or might be
+
+Should we test this for forms that aren’t related to claims, how might something like VR&E or Travel Pay change the users mental model if we expose them to multiple types of forms in one study?
+
+“Okay that kind of sucks” re: needing to submit one form per statement, “I think that’s a lot of work, [for mobile typing is difficult], it’s easier on a computer to do that.”
+
+“I wish it would [pre-fill]...annoying that I have to enter everything.”
+
+Couldn’t read one of the pages, text was too small to use on mobile (GH portal page?)
+
+Needed to be prompted on how to exit WebView
+
+Tried to click on whole card to continue form, “I was trying to click on “Statement in Support of a Claim…”
+
+So many when there’s only one contextual action we can make the whole card clickable? Would like to text this interaction too and see if it’s confusing when there’s multiple contextual actions.
+
+“I don’t like the phone number…I wish it put the parenthesis in there”, would like it to include punctuation—
+
+“If it’s a statement I don’t want to put anything wrong” so the form isn’t providing psychological safety, it may be a bit untrustworthy or uncomfortable.
+
+Reviewing info in recap, “I wish I could click on those dots” about un-hashing SSN, reiterated need for information on a claim to be accurate to avoid making claim “restart” or take a long time.
+
+“What if it’s a really really long one, like to establish nexus or something.” Re: reading their own statement back
+
+“The statements really matter…otherwise I need to go to my computer to [check it or attach a file]”
+
+Does most tacks on their phone so really good context here
+
+“Yeah the form submitting…it says its in progress…there a confirmation number so they got all the info…” P recommended swapping content order/updating IA so that “in progress” is later in the alert
+
+Users are saying things aren’t difficult to understand but are also having difficulty understanding things, so there’s some lurking bias here—might need to rephrase this question to make it more open ended.
+
+“[submission success alert] is confusing to me…”
+
+“I submitted it and there’s a confirmation so I expect that the form is fully submitted…” then detailed their mental models for VA reviewing the form after submission
+
+Asked for help returning to the app from the WebView, knew that doing to the VA.gov HP in the WebView was undesirable
+
+“To me this is a draft because of what it says in the top...it’s a little confusing.”
+
+“[In-progress] means I haven’t submitted it…”
+
+Copy at the top of the page is confusing users, VA’s ideas about statuses don’t match users mental models
+
+“I would expect not to see [submitted] forms in Active, [but in complete].”
+
+Negative sentiment while filling out exit survey
+
+(edited)
+11:10
+I built an MLP for status with alternative copy, we may consider testing this in future usability studies to learn more about how users conceptualize active vs. complete.
+
+### per engineer:
+
+Pending
+
+### per product manager:
+
+Uses app to refill meds multiple times a month; finds this process tiring but “decent”
+
+Would think to click on “Claims” to submit further evidence on a claim; had to be directed to go to forms
+
+#### Forms Webview/ Data Entry
+
+Understood they had likely already started a claim
+
+Feels like it’s a lot of work to submit a whole statement on the mobile app
+
+“Because I’m already signed into the app, I wish it would populate everything”
+
+For the phone number entry, “Wish it automatically put the parentheses around the area code”, i.e. it feels hard to verify the number is correct with our formatting
+
+“I forget if there was a limit/ character count in the statement”
+
+“What if I had a long statement, it would probably be hard to enter”
+
+Did not know how to exit the web view (from confirmation screen back to Forms), “I would’ve missed that”
+
+Reading the overall forms list and the status, would’ve understood to go back there to see form
+
+Did not understand the in progress status - “In progress status means I haven’t submitted it”
+
+#### Overall
+
+Thought the process of submitting the form was easy enough
+
+Would’ve been annoyed if she had had to type a lot for the statement section
+
+
