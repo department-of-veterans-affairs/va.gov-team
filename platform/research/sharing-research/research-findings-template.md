@@ -177,31 +177,31 @@ synthesis_tools_used:
 
 [Example Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)
 
-**1.** Finding one
+### 1. Finding one
 
-**2.** Finding two
+### 2. Finding two
 
-**3.** Finding three
+### 3. Finding three
 
-**4.** Finding four
+### 4. Finding four
 
-**5.** Finding five
+### 5. Finding five
 
-**6.** Finding six
+### 6. Finding six
 
-**7.** Finding seven
+### 7. Finding seven
 
 
 ## Details of Findings 
 
 *Provide detailed descriptions and supporting evidence for each key finding.*  
 
-**Finding 1:**  
+### Finding 1
 Brief description  
 - _Supporting data: Quote [add context]_  
 - _Supporting data: ![text](link - add image to github folder and link here with .png)_  
 
-**Finding 2:**  
+### Finding 2  
 Brief description  
 - _Supporting data: Quote [add context]_  
 
@@ -228,11 +228,11 @@ Brief description
 > [!NOTE] 
 > Refer back to your Product Outline. 
 
-- **Desired User Outcome**
-  - This research supports our desired user outcome by....
+### Desired User Outcome 
+This research supports our desired user outcome by....
  
-- **Deisred Business Outcome**
-  - This research supports our desired business outcome by....
+### Desired Business Outcome
+This research supports our desired business outcome by....
 
 
 ## Key Performance Indicators
@@ -242,8 +242,8 @@ Brief description
 > [!NOTE]
 > Refer back to your Product Outline. 
 
-- **KPI 1**
-  -  This research supports measurement of this KPI by....
+### KPI 1
+This research supports measurement of this KPI by....
 
 
 ## Next Steps
