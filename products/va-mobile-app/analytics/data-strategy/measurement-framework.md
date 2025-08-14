@@ -145,12 +145,103 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 </details>
 
 <details>
-<summary><h3>Travel pays</h3></summary> 
+<summary><h3>Travel pay</h3></summary> 
  
 |      | Travel pay |
 |--------------------|-------------|
 | **User goal**      | *"I want to file for beneficiary travel reimbursement after my appointment."* |
 | **What should we measure?** | Ease of access and BT claims filing <br> *“It was clear where to file for travel pay via the app. Filing was easy."* |
+| **Important metrics to track**| -TBD<br>-TBD<br>-TBD<br> |
+| **How these metrics can inform decision making** | TBD |
+| **Unhelpful metrics** | -TBD<br>-TBD<br>-TBD<br> |
+
+</details>
+
+<details>
+<summary><h3>Claim status</h3></summary> 
+ 
+|      | Claim status |
+|--------------------|-------------|
+| **User goal**      | *"I want to track claim status."* |
+| **What should we measure?** | Accurate, easy to understand claim status <br> *“I know the status of my claim.”* |
+| **Important metrics to track**| -TBD<br>-TBD<br>-TBD<br> |
+| **How these metrics can inform decision making** | TBD |
+| **Unhelpful metrics** | -TBD<br>-TBD<br>-TBD<br> |
+
+</details>
+
+<details>
+<summary><h3>Claim letters</h3></summary> 
+ 
+|      | Claim letters |
+|--------------------|-------------|
+| **User goal**      | *"I want to understand claims decisions/review claim letters."* |
+| **What should we measure?** | Convenient access to claim decision letters <br> *“I can easily access claims letters and review why claim decisions were made.”* |
+| **Important metrics to track**| -TBD<br>-TBD<br>-TBD<br> |
+| **How these metrics can inform decision making** | TBD |
+| **Unhelpful metrics** | -TBD<br>-TBD<br>-TBD<br> |
+
+</details>
+
+<details>
+<summary><h3>Submit evidence</h3></summary> 
+ 
+|      | Submit evidence |
+|--------------------|-------------|
+| **User goal**      | *"I need to submit evidence related to my claim."* |
+| **What should we measure?** | Smooth photo or document upload <br> *“I can easily upload photos and documents to my claim.”* |
+| **Important metrics to track**| -TBD<br>-TBD<br>-TBD<br> |
+| **How these metrics can inform decision making** | TBD |
+| **Unhelpful metrics** | -TBD<br>-TBD<br>-TBD<br> |
+
+</details>
+
+<details>
+<summary><h3>Payment</h3></summary> 
+ 
+|      | Payment |
+|--------------------|-------------|
+| **User goal**      | *"I want to understand and manage payments."* |
+| **What should we measure?** | TBD <br> *“TBD.”* |
+| **Important metrics to track**| -TBD<br>-TBD<br>-TBD<br> |
+| **How these metrics can inform decision making** | TBD |
+| **Unhelpful metrics** | -TBD<br>-TBD<br>-TBD<br> |
+
+</details>
+
+<details>
+<summary><h3>Profile</h3></summary> 
+ 
+|      | Profile |
+|--------------------|-------------|
+| **User goal**      | *"I want to manage my personal information related to my VA health benefits."* |
+| **What should we measure?** | TBD <br> *“TBD.”* |
+| **Important metrics to track**| -TBD<br>-TBD<br>-TBD<br> |
+| **How these metrics can inform decision making** | TBD |
+| **Unhelpful metrics** | -TBD<br>-TBD<br>-TBD<br> |
+
+</details>
+
+<details>
+<summary><h3>Crisis support</h3></summary> 
+ 
+|      | Crisis support|
+|--------------------|-------------|
+| **User goal**      | *"I'm in crisis and need urgent support."* |
+| **What should we measure?** | TBD <br> *“TBD.”* |
+| **Important metrics to track**| -TBD<br>-TBD<br>-TBD<br> |
+| **How these metrics can inform decision making** | TBD |
+| **Unhelpful metrics** | -TBD<br>-TBD<br>-TBD<br> |
+
+</details>
+
+<details>
+<summary><h3>Navigation</h3></summary> 
+ 
+|      | Navigation |
+|--------------------|-------------|
+| **User goal**      | *"I want to navigate to X easily from the home screen."* |
+| **What should we measure?** | TBD <br> *“TBD.”* |
 | **Important metrics to track**| -TBD<br>-TBD<br>-TBD<br> |
 | **How these metrics can inform decision making** | TBD |
 | **Unhelpful metrics** | -TBD<br>-TBD<br>-TBD<br> |
