@@ -8,7 +8,6 @@ Last updated 9/4/2024
 **On this page:**
 - [Page structure](#map)
 - [URLs and breadcrumbs](#url)
-- [Secondary nav](#nav)
 - [Product updates and notes](#notes)
 - [Archived information](#archived)
 
@@ -54,12 +53,23 @@ Details pages for historical records of each vital type are linked from the Vita
 * Weight
 * Height
 
-## <a name="nav"></a>Secondary navigation <br>
+## <a name="notes"></a>Product updates and notes <br>
+**August 2025** - Veteran feedback and research has led us to understand that users do not expect images from some types of radiology tests to be nested under "Lab and test results." Many Veterans are struggling to find their images. The team has decided to move "images" out from under the Lab & Test results section into its own domain, which will be accessible from the Medical Records landing page and referred to as "Medical imaging results." This is going through PO sync in August 2025 - TBD on launch date. 
+
+**June 2025** - Medical records on My HealtheVet Classic were sunset, and all VistA facility users now must access their Medical Records via My HealtheVet on VA.gov. This is a significant change from how medical records were previously structured in the legacy site (could only be downloaded via a very large Blue Button download report), and now we have sub-divided records into multiple subdomains (see URLs and breadcrumbs section below). 
+
+**Fall 2024**
+- Download all (Blue Button) will have the URL: va.gov/my-health/medical-records/download/ once it is ready on staging
+- URLs that are any deeper than a details page must comply with PHI/PII concerns & anonymize/randomize any identification numbers that are exposed in the URL. These cannot reference actual drug, lab, pharmaceutical, or personalized data that can be deciphered easily.
+- Back breadcrumbs deeper than details pages must say <- Back only to prevent exposure of PHI in link text that could be captured by analytics tools 
+- Title tags on details pages or deeper must be generalized to prevent exposure of PHI in the text that could be captured by analytics tools
+
+**June 2024**
 As of June 2024, medical records has been included in the secondary navigation bar. However, because the tool is not fully ready for launch, the destination URL under "records" in that navigation bar  is for a temporary page that explains what is coming and provides a link back to the previous version of My HealtheVet for users who want their records.
 
 In December 2024, when medical records is projected to be ready to move to Phase 1, we will update that link to point to the real medical records on VA.gov experience, and update links on the My HealtheVet landing page to do the same. 
 
-**Previous updates:**
+**February 2024**
 * Phase 0 initial launch (Allergies only) will not have a secondary navigation. Navigation will only be exposed once 2+ subdomains are launched. 
 
 * Full phase 0 secondary/left navigation order below. Secondary navigation will be removed before Medical Records reaches phase 1, and will rely on the landing page to serve as a the navigation means for child domain experiences.
@@ -72,19 +82,6 @@ In December 2024, when medical records is projected to be ready to move to Phase
     - Health conditions
     - Vitals
     - Medical records settings
-
-## <a name="notes"></a>Product updates and notes <br>
-
-### Product updates / decision log
-**August 2025** - Veteran feedback and research has led us to understand that users do not expect images from some types of radiology tests to be nested under "Lab and test results." Many Veterans are struggling to find their images. The team has decided to move "images" out from under the Lab & Test results section into its own domain, which will be accessible from the Medical Records landing page and referred to as "Medical imaging results." This is going through PO sync in August 2025 - TBD on launch date. 
-
-**June 2025** - Medical records on My HealtheVet Classic were sunset, and all VistA facility users now must access their Medical Records via My HealtheVet on VA.gov. This is a significant change from how medical records were previously structured in the legacy site (could only be downloaded via a very large Blue Button download report), and now we have sub-divided records into multiple subdomains (see URLs and breadcrumbs section below). 
-
-**Fall 2024**
-- Download all (Blue Button) will have the URL: va.gov/my-health/medical-records/download/ once it is ready on staging
-- URLs that are any deeper than a details page must comply with PHI/PII concerns & anonymize/randomize any identification numbers that are exposed in the URL. These cannot reference actual drug, lab, pharmaceutical, or personalized data that can be deciphered easily.
-- Back breadcrumbs deeper than details pages must say <- Back only to prevent exposure of PHI in link text that could be captured by analytics tools 
-- Title tags on details pages or deeper must be generalized to prevent exposure of PHI in the text that could be captured by analytics tools 
 
 **Notes:**
 - If you've been treated at a VA health facility at any point for any thing, you would have something for a Blue Button report, regardless of whether you are currently enrolled in VA healthcare.
