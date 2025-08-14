@@ -47,11 +47,11 @@ Applicants and OGC staff experience significant challenges and inefficiencies wi
             * This highlights a major inefficiency for OGC staff. 
 
   * Incomplete Applications 
-            "...making fields required. Stuff like that is always good because I can't tell you too how many incomplete applications we get..." (0:12:06). 
-            * This points to an inefficiency at the application intake stage. 
-        * High Volume of General Emails 
-            "...we get, on average we could get up to 500 emails a day and that's just only in the mailbox." (0:20:27). 
-            * This suggests a high volume of unorganized communication that likely includes many status inquiries or requests that could be automated. 
+            "...making fields required. Stuff like that is always good because I can't tell you too how many incomplete applications we get..." (0:12:06).    
+           * This points to an inefficiency at the application intake stage. 
+        * High Volume of General Emails
+            "...we get, on average we could get up to 500 emails a day and that's just only in the mailbox." (0:20:27).
+            * This suggests a high volume of unorganized communication that likely includes many status inquiries or requests that could be automated.
         * Inefficient Character Reference Process  (now addressed, but historical inefficiency) 
             "Right now we're not doing our character and reputation requests until after they pass the exam because only 40% of them pass the exam and that took out a big chunk of time." (0:16:59) and "I would say about 20% [of processing time saved by this change]." (0:19:46). 
             * This demonstrates a past, significant inefficiency that has been mitigated. 
