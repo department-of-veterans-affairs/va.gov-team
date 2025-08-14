@@ -13,15 +13,6 @@ Last updated 9/4/2024
 - [Meeting notes and open items](#notes)
 - [Archived information](#archived)
 
-## <a name="launch-plan"></a>Medical Records launch plan<br>
-Medical Records has several subdomains that will be launching incrementally to Phase 0 throughout Fall 2023-Fall 2024. The proposed launch order is as follows: 
-1. Allergies (October 2023) - DONE
-2. Vaccines (December 2023) - DONE
-3. Care summaries & notes, Vitals (March 2024) - DONE
-4. Health conditions (May 2024) - DONE
-5. Lab and test results (October 2024) - DONE 
-6. Medical records settings, Download medical reports, and lab & test result radiology images (December 2024) - NEW
-
 ## <a name="map"></a>Page structure<br>
 Most up-to-date [sitemap can be found here](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1705462711175/25f9ef7b28ee707498d29d4a4d168304a33c0527?sender=uf94a77a19aaf687331c09367)
 
@@ -38,7 +29,9 @@ We are moving toward launching **lab & test images, download medical records rep
 | Landing page              | /my-health/medical-records/                                    | None                                     | < My HealtheVet            | VA.gov home > My HealtheVet > Medical records | Medical Records \| Veterans Affairs        |
 | Lab and test results list | /my-health/medical-records/labs-and-tests/                     | < Back to Medical records                | < Medical records          | VA.gov home > My HealtheVet > Medical records > Lab and test results  | Lab and test results - Medical Records \| Veterans Affairs |
 | >Test detail              | /my-health/medical-records/labs-and-tests/123456/              | < Back To Lab and Test Results            | <- Back    | <- Back  | Lab And Test Results Details - Medical Records \| Veterans Affairs |
-| >>Radiology images            | /my-health/medical-records/labs-and-tests/123456/images/       | N/A (not in P0)                                | <- Back                     | <- Back  | Images - Lab And Test Results Details - Medical Records \| Veterans Affairs |
+| **DIRECTORY HAS BEEN MOVED** ~>>Radiology images~            | ~/my-health/medical-records/labs-and-tests/123456/images/~       | ~N/A (not in P0)~  | ~<- Back~    | ~<- Back~  | ~Images - Lab And Test Results Details - Medical Records~ \| ~Veterans Affairs~ |
+| **NEW** Medical imaging results  | /my-health/medical-records/imaging-results/                | N/A                | <- Medical records          | VA.gov home > My HealtheVet > Medical records > Medical imaging results  | Imaging results - Medical Records \| Veterans Affairs |
+| **NEW** >>Imaging results details  | /my-health/medical-records/imaging-results/1234                | N/A   | <- Back     | <- Back  | Imaging Results Details - Medical Records \| Veterans Affairs |
 | Care summaries and notes  | /my-health/medical-records/summaries-and-notes/                | < Back to Medical records                | <- Medical records          | VA.gov home > My HealtheVet > Medical records > Care summaries and notes  | Care Summaries And Notes - Medical Records \| Veterans Affairs |
 | >Note details             | /my-health/medical-records/summaries-and-notes/1234/           | < Back to Care summaries and notes       | <- Back | <- Back | Care Summaries And Notes Details - Medical Records \| Veterans Affairs |
 | Vaccines list             | /my-health/medical-records/vaccines/                           | < Back to Medical records                | <-Medical records          | VA.gov > My HealtheVet > Medical records > Vaccines | Vaccines - Medical Records \| Veterans Affairs |
@@ -113,6 +106,15 @@ In December 2024, when medical records is projected to be ready to move to Phase
 
  
 ## <a name="archived"></a>Archived information (Out of date)<br>
+
+## <a name="launch-plan"></a>Medical Records launch plan<br>
+Medical Records has several subdomains that will be launching incrementally to Phase 0 throughout Fall 2023-Fall 2024. The proposed launch order is as follows: 
+1. Allergies (October 2023) - DONE
+2. Vaccines (December 2023) - DONE
+3. Care summaries & notes, Vitals (March 2024) - DONE
+4. Health conditions (May 2024) - DONE
+5. Lab and test results (October 2024) - DONE 
+6. Medical records settings, Download medical reports, and lab & test result radiology images (December 2024) - DONE
 
 Updated 7/21/23 -- KO finalizing after medical records research -- ready to develop Phase 0
 * **IA Request (Previous IA work by CAIA):** [Epic for medical records work](https://app.zenhub.com/workspaces/sitewide-content-accessibility-and-ia-63a1d63232beba0011a7833f/issues/gh/department-of-veterans-affairs/va.gov-team/52997)
