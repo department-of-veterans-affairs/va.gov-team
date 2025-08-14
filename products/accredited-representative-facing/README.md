@@ -79,7 +79,7 @@ In addition to the above content, the below files may be helpful in understandin
 
 - **Product Owner:** Jennifer Bertsch - [jennifer.bertsch@va.gov](mailto:jennifer.bertsch@va.gov)
 - **Engineering Lead:** Sam Raudabaugh - [samuel.raudabaugh@va.gov](mailto:samuel.raudabaugh@va.gov)
-- **Design Lead:** Lesley Ropp - [lesley.ropp@va.gov](mailto:lesley.ropp@va.gov)
+- **Design Lead:** Shannon Ford - [Shannon.Ford1@va.gov](mailto:Shannon.Ford1@va.gov)
 - **Product Manager:** Candi Lemoine - [candi.lemoine@oddball.io](mailto:candi.lemoine@oddball.io)
 - [Full ARF team roster](https://github.com/orgs/department-of-veterans-affairs/projects/947/views/4)
 - View the [Stakeholder Engagement Tracker](https://dvagov.sharepoint.com/:x:/s/vaabdvro/EQgtn4jarAlBrIzHbxXaRnsBwyQxcNxleqUfl6QEAuaxTA?e=kCEQav) (Sharepoint) and [Rep Facing Stakeholder Map](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1696447082781/01a5c0865df77c97693ac51b36a61a989c8f9fba?sender=u2a4240a640b257ce33545495) (Mural)
