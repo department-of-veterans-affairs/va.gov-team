@@ -23,10 +23,10 @@ Notifications should go out:
 If impact is anticipated from a planned MHV API/Platform team activity:
 - Send multi-channel notifications with downtime information:
   - Slack message in [#mhv-health-portal-coordination](https://dsva.slack.com/archives/C04DRS3L9NV) and tag:
-      - MHV OCTO POs and MHV OCTO Engineers (@octo-health-engineers group)
+      - MHV OCTO POs ([@Marci](https://dsva.slack.com/team/U04K6QYPP6V), [@Kay](https://dsva.slack.com/team/U04K6QYPP6V), and [@Patrick](https://dsva.slack.com/team/U04K6QYPP6V)) and MHV OCTO Engineers (@octo-health-engineers group)
       - [@Greg Kirk](https://dsva.slack.com/team/U04DD9G1G02) and [@Sean Good](https://dsva.slack.com/team/U04JDKU8ZM5)
       - MHV User-facing team on-call (Slack user group TBD)
-      - MHV User-facing product managers (Slack user group TBD) and Horizon team ([@Bryan Ivie](https://dsva.slack.com/team/U02EA0XLRD1), [@Daniel Cloud](https://dsva.slack.com/team/U03CLNHG23S), [@Florence McCafferty](https://dsva.slack.com/team/U03HQRVPZD1), [@Cara Frissell](https://dsva.slack.com/team/U05123T8FT7), [@Sara Sterkenburg](https://dsva.slack.com/team/U045GGS6V25), and [@Lauren Ernest](https://dsva.slack.com/team/U01DKQVCEGY))
+      - MHV User-facing Product Managers (Slack user group TBD) and Horizon team ([@Bryan Ivie](https://dsva.slack.com/team/U02EA0XLRD1), [@Daniel Cloud](https://dsva.slack.com/team/U03CLNHG23S), [@Florence McCafferty](https://dsva.slack.com/team/U03HQRVPZD1), [@Cara Frissell](https://dsva.slack.com/team/U05123T8FT7), [@Sara Sterkenburg](https://dsva.slack.com/team/U045GGS6V25), and [@Lauren Ernest](https://dsva.slack.com/team/U01DKQVCEGY))
       - Contact Center/Veteran Support ([@Chante](https://dsva.slack.com/team/UGWD2V2BB))
       - If impacts mobile, include VAHB PO ([@rtwell](https://dsva.slack.com/team/UEY4D750B))
       - MHV System Owner and ISSO
@@ -41,7 +41,7 @@ If impact is anticipated from a planned MHV API/Platform team activity:
 If impact is anticipated from a planned MHV User-facing team activity:
 - Communication Owner^ - Send multi-channel notifications with downtime information:
    - Slack message in [#mhv-health-portal-coordination](https://dsva.slack.com/archives/C04DRS3L9NV) channel and tag:
-      - MHV OCTO POs and MHV OCTO Health Engineers (@octo-health-engineers)
+      - MHV OCTO POs ([@Marci](https://dsva.slack.com/team/U04K6QYPP6V), [@Kay](https://dsva.slack.com/team/U04K6QYPP6V), and [@Patrick](https://dsva.slack.com/team/U04K6QYPP6V)) and MHV OCTO Health Engineers (@octo-health-engineers)
       - [@Greg Kirk](https://dsva.slack.com/team/U04DD9G1G02) and [@Sean Good](https://dsva.slack.com/team/U04JDKU8ZM5)
       - Horizon team ([@Bryan Ivie](https://dsva.slack.com/team/U02EA0XLRD1), [@Daniel Cloud](https://dsva.slack.com/team/U03CLNHG23S), [@Florence McCafferty](https://dsva.slack.com/team/U03HQRVPZD1), [@Cara Frissell](https://dsva.slack.com/team/U05123T8FT7), [@Sara Sterkenburg](https://dsva.slack.com/team/U045GGS6V25), and [@Lauren Ernest](https://dsva.slack.com/team/U01DKQVCEGY))
       - If impacts mobile, include VAHB PO ([@rtwell](https://dsva.slack.com/team/UEY4D750B))
@@ -72,7 +72,7 @@ If team is notified of or identifies an issue:
   - Detection, Notification and Analysis
     - Upon detection of incident, notify core MHV IR team via slack channel[#mhv-health-portal-coordination](https://dsva.slack.com/archives/C04DRS3L9NV) and tag:
       - MHV User-facing team on-call (Slack user group TBD)
-      - MHV User-facing product managers (Slack user group TBD) and Horizon team ([@Bryan Ivie](https://dsva.slack.com/team/U02EA0XLRD1), [@Daniel Cloud](https://dsva.slack.com/team/U03CLNHG23S), [@Florence McCafferty](https://dsva.slack.com/team/U03HQRVPZD1), [@Cara Frissell](https://dsva.slack.com/team/U05123T8FT7), [@Sara Sterkenburg](https://dsva.slack.com/team/U045GGS6V25), and [@Lauren Ernest](https://dsva.slack.com/team/U01DKQVCEGY))
+      - MHV User-facing team product managers ([@Bryan Ivie](https://dsva.slack.com/team/U02EA0XLRD1), [@David Koger](https://github.com/davidkoger), [@Michael Brodsky](https://dsva.slack.com/team/U08HKSYE285), or [@Stacy Blackwood](https://dsva.slack.com/archives/D098WLHCP4J)) and Horizon team ([@Bryan Ivie](https://dsva.slack.com/team/U02EA0XLRD1), [@Daniel Cloud](https://dsva.slack.com/team/U03CLNHG23S), [@Florence McCafferty](https://dsva.slack.com/team/U03HQRVPZD1), [@Cara Frissell](https://dsva.slack.com/team/U05123T8FT7), [@Sara Sterkenburg](https://dsva.slack.com/team/U045GGS6V25), and [@Lauren Ernest](https://dsva.slack.com/team/U01DKQVCEGY))
       - MHV System Owner
         - Sean Good
       - MHV ISSO
@@ -135,9 +135,10 @@ If incident is rated P1:
 - Incident Commander^ - Send multi-channel notifications:
   - Slack message in [#mhv-health-portal-coordination](https://dsva.slack.com/archives/C04DRS3L9NV) channel and tag:
     - MHV API/Platform ([@Kyle MacMillan](https://dsva.slack.com/team/U0331QNU4BV), [@Greg Broz](https://dsva.slack.com/team/U03637N2BQ9), and [@Matt Bain](https://dsva.slack.com/team/U045AC9PL9L))
-    - MHV OCTO POs and MHV OCTO Engineers (@octo-health-engineers group)
+    - MHV OCTO POs ([@Marci](https://dsva.slack.com/team/U04K6QYPP6V), [@Kay](https://dsva.slack.com/team/U04K6QYPP6V), and [@Patrick](https://dsva.slack.com/team/U04K6QYPP6V)) and MHV OCTO Engineers (@octo-health-engineers group)
     - [@Greg Kirk](https://dsva.slack.com/team/U04DD9G1G02) and [@Sean Good](https://dsva.slack.com/team/U04JDKU8ZM5)
     - Horizon team ([@Bryan Ivie](https://dsva.slack.com/team/U02EA0XLRD1), [@Daniel Cloud](https://dsva.slack.com/team/U03CLNHG23S), [@Florence McCafferty](https://dsva.slack.com/team/U03HQRVPZD1), [@Cara Frissell](https://dsva.slack.com/team/U05123T8FT7), [@Sara Sterkenburg](https://dsva.slack.com/team/U045GGS6V25), and [@Lauren Ernest](https://dsva.slack.com/team/U01DKQVCEGY))
+    - MHV user-facing team Product Managers ([@Bryan Ivie](https://dsva.slack.com/team/U02EA0XLRD1), [@David Koger](https://github.com/davidkoger), [@Michael Brodsky](https://dsva.slack.com/team/U08HKSYE285), or [@Stacy Blackwood](https://dsva.slack.com/archives/D098WLHCP4J))
     - Contact Center/Veteran Support ([@Chante](https://dsva.slack.com/team/UGWD2V2BB))
     - If impacts mobile, include VAHB PO ([@rtwell](https://dsva.slack.com/team/UEY4D750B))
   - Email to same audience as Slack
@@ -159,9 +160,10 @@ If incident is rated P2:
 - Incident Commander^ - Send multi-channel notifications:
   - Slack message in [#mhv-health-portal-coordination](https://dsva.slack.com/archives/C04DRS3L9NV) channel and tag:
     - MHV API/Platform ([@Kyle MacMillan](https://dsva.slack.com/team/U0331QNU4BV), [@Greg Broz](https://dsva.slack.com/team/U03637N2BQ9), and [@Matt Bain](https://dsva.slack.com/team/U045AC9PL9L))
-    - MHV OCTO POs and MHV OCTO Engineers (@octo-health-engineers group)
+    - MHV OCTO POs ([@Marci](https://dsva.slack.com/team/U04K6QYPP6V), [@Kay](https://dsva.slack.com/team/U04K6QYPP6V), and [@Patrick](https://dsva.slack.com/team/U04K6QYPP6V)) and MHV OCTO Engineers (@octo-health-engineers group)
     - [@Greg Kirk](https://dsva.slack.com/team/U04DD9G1G02) and [@Sean Good](https://dsva.slack.com/team/U04JDKU8ZM5)
     - Horizon team ([@Bryan Ivie](https://dsva.slack.com/team/U02EA0XLRD1), [@Daniel Cloud](https://dsva.slack.com/team/U03CLNHG23S), [@Florence McCafferty](https://dsva.slack.com/team/U03HQRVPZD1), [@Cara Frissell](https://dsva.slack.com/team/U05123T8FT7), [@Sara Sterkenburg](https://dsva.slack.com/team/U045GGS6V25), and [@Lauren Ernest](https://dsva.slack.com/team/U01DKQVCEGY))
+    - MHV user-facing team Product Managers ([@Bryan Ivie](https://dsva.slack.com/team/U02EA0XLRD1), [@David Koger](https://github.com/davidkoger), [@Michael Brodsky](https://dsva.slack.com/team/U08HKSYE285), or [@Stacy Blackwood](https://dsva.slack.com/archives/D098WLHCP4J))
     - Contact Center/Veteran Support ([@Chante](https://dsva.slack.com/team/UGWD2V2BB))
   - Email to same audience as Slack
     - OCTO forwards to respective OCC partners as necessary
@@ -174,8 +176,9 @@ If incident is rated P2:
 #### P3 or P4
 If incident is rated P3 or P4:
 - Incident Commander^ - Update initial Slack message with priority level and tag:
-  - MHV OCTO POs
-  - Respective MHV User-facing product team Product Manager and Horizon (Slack user group TBD) for further prioritization
+  - MHV OCTO POs ([@Marci](https://dsva.slack.com/team/U04K6QYPP6V), [@Kay](https://dsva.slack.com/team/U04K6QYPP6V), and [@Patrick](https://dsva.slack.com/team/U04K6QYPP6V))
+  - Horizon team ([@Bryan Ivie](https://dsva.slack.com/team/U02EA0XLRD1), [@Daniel Cloud](https://dsva.slack.com/team/U03CLNHG23S), [@Florence McCafferty](https://dsva.slack.com/team/U03HQRVPZD1), [@Cara Frissell](https://dsva.slack.com/team/U05123T8FT7), [@Sara Sterkenburg](https://dsva.slack.com/team/U045GGS6V25), and [@Lauren Ernest](https://dsva.slack.com/team/U01DKQVCEGY))
+  - Respective MHV User-facing product team Product Manager ([@Bryan Ivie](https://dsva.slack.com/team/U02EA0XLRD1), [@David Koger](https://github.com/davidkoger), [@Michael Brodsky](https://dsva.slack.com/team/U08HKSYE285), or [@Stacy Blackwood](https://dsva.slack.com/archives/D098WLHCP4J)) for further prioritization
 - Continue [incident response procedures](https://depo-platform-documentation.scrollhelp.site/developer-docs/incident-response-documentation-for-application-te) which includes [resolution timeline](https://depo-platform-documentation.scrollhelp.site/developer-docs/incident-response-documentation-for-application-te#Incidentresponsedocumentationforapplicationteams-Resolutiontimeline) and communication updates cadence
 
 ^: the Incident Commander will be a product manager or engineering manager for the respective user-facing application
@@ -187,5 +190,8 @@ Many MHV user-facing products are part of the VA.gov/VAHB Platform ecosystem and
 - If a MHV-specific impact is determined, team will work with OCTO POs on path forward for communication based on the use case
 
 
+## References
+- [Incident response documentation for application teams "Watchtower"](https://depo-platform-documentation.scrollhelp.site/developer-docs/incident-response-documentation-for-application-te)
+- [On-Call Overview](/oncall.md)
 
 
