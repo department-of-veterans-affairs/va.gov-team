@@ -175,8 +175,7 @@ _What criteria would strengthen your results?_
 
 ### Research sessions
 
-- `Planned dates of research:` **All cohorts: 08/11/25 to 11/13/25**
-  **First cohort: 8/21/25 to 8/25/25**
+- `Planned dates of research:` **All cohorts: 08/11/25 to 11/13/25**, **First cohort: 8/21/25 to 8/25/25**
 
 ### Length of sessions
 
