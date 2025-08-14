@@ -263,13 +263,18 @@ If teams need a tabs component that supports more tabs or longer labels, we may 
 
 ## ADR 008: Switching from URL navigation to on-page navigation
 ### Status: Accepted  
-- **Date Raised:** 2025-07-
-- **Decision Date:** 2025-07-13
+- **Date Raised:** 2025-07-13
+- **Decision Date:** 2025-07-22
 
 ## Context
+While defining accessibility requirements for the tabs component, we found important differences in how assistive technologies interact with different tabs implementations. We identified two main interpretations:
+- In one, tabs act as horizontal navigation. Tab items load new pages, are navigated using the `tab` key, update the url, and are not programmatically linked to their content. 
+- In the other, tabs organize page content. These tabs are part of the main content, use arrow keys for keyboard navigation, and show or hide content without refreshing the page. The content panels are directly associated with the active tab.
 
 ## Decision
-
+We reviewed guidance from MDN and W3C/APG and decided to treat tabs as content rather than navigation. Tabs have specific accessibility expectations, including keyboard navigation, focus management, and the type of content shown. Because we chose not to build a navigation component, we did not add URL management to the tabs component. This follows common patterns we saw in other implementations and prevents the complexity of recreating and maintaining native browser page load behavior.
+  
 ## Consequences
+This approach makes our tabs component more accessible and easier to use. It avoids the complexity of managing URLs and page refreshes, and sets clear expectations for teams. Teams who need navigation features can use other components designed for that purpose. 
 
 ---
