@@ -1,4 +1,4 @@
-# Research Plan for Dependent Management Team, Picklist in Dependent Verification, August 2025
+    # Research Plan for Dependent Management Team, Picklist in Dependent Verification, August 2025
 
 > [!NOTE] > _Questions about how to set up your research study? Reach out in the [#research-ops](https://dsva.slack.com/archives/C0216PL32HJ) Slack channel._
 
@@ -261,13 +261,13 @@ _Who is your intended audience for this research (e.g. Veterans, caregivers, VSO
 > [!NOTE]
 > Your total number should equal **1.5x** your ideal completed sessions number _(e.g. for 10 ideal completed sessions, request 15 total participants)_
 
-Using Perigean to recruit, we would like to schedule: 24 eligible Veteran participants in two groups in order to achieve 6-8 completed sessions for each user group. Each group will provide feedback on a different prototype.
+Using Perigean to recruit, we would like to schedule: 11 eligible Veteran participants in one group in order to achieve 6-8 completed sessions. The group will provide feedback on two different prototypes.
 
-- `Veterans:` **24**
+- `Veterans:` **11**
 - `Caregivers:` **[n]**
 - `Dependents:` **[n]**
-- `Total:` **24**
-- `Ideal completed sessions:` **12 to 16, 6 to 8 for each group**
+- `Total:` **11**
+- `Ideal completed sessions:` **6 to 8**
 
 ### Primary criteria (must-haves)
 
