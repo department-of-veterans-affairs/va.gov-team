@@ -6,24 +6,16 @@ Last updated 9/4/2024
 **Team:** My HealtheVet - Medical Records
 
 **On this page:**
-- [Product updates](#updates)
 - [Page structure](#map)
 - [URLs and breadcrumbs](#url)
 - [Secondary nav](#nav)
-- [Meeting notes and open items](#notes)
+- [Product updates and notes](#notes)
 - [Archived information](#archived)
-
-## <a name="updates"></a>Product updates<br>
-
-**August 2025** - Veteran feedback and research has led us to understand that users do not expect images from some types of radiology tests to be nested under "Lab and test results." Many Veterans are struggling to find their images. The team has decided to move "images" out from under the Lab & Test results section into its own domain, which will be accessible from the Medical Records landing page and referred to as "Medical imaging results." This is going through PO sync in August 2025 - TBD on launch date. 
-
-**June 2025** - Medical records on My HealtheVet Classic were sunset, and all VistA facility users now must access their Medical Records via My HealtheVet on VA.gov. This is a significant change from how medical records were previously structured in the legacy site (could only be downloaded via a very large Blue Button download report), and now we have sub-divided records into multiple subdomains (see URLs and breadcrumbs section below). 
 
 ## <a name="map"></a>Page structure<br>
 Most up-to-date [sitemap can be found here](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1705462711175/25f9ef7b28ee707498d29d4a4d168304a33c0527?sender=uf94a77a19aaf687331c09367)
 
 <img width="1154" height="559" alt="Screenshot 2025-08-14 at 10 48 48 AM" src="https://github.com/user-attachments/assets/bc82d838-ba13-4262-b08e-84275cb81321" />
-
 
 ## <a name="url"></a>URLs and breadcrumbs
 
@@ -81,20 +73,18 @@ In December 2024, when medical records is projected to be ready to move to Phase
     - Vitals
     - Medical records settings
 
-## <a name="notes"></a>Meetings notes and background info
+## <a name="notes"></a>Product updates and notes <br>
 
-**Decision log:**
+### Product updates / decision log
+**August 2025** - Veteran feedback and research has led us to understand that users do not expect images from some types of radiology tests to be nested under "Lab and test results." Many Veterans are struggling to find their images. The team has decided to move "images" out from under the Lab & Test results section into its own domain, which will be accessible from the Medical Records landing page and referred to as "Medical imaging results." This is going through PO sync in August 2025 - TBD on launch date. 
+
+**June 2025** - Medical records on My HealtheVet Classic were sunset, and all VistA facility users now must access their Medical Records via My HealtheVet on VA.gov. This is a significant change from how medical records were previously structured in the legacy site (could only be downloaded via a very large Blue Button download report), and now we have sub-divided records into multiple subdomains (see URLs and breadcrumbs section below). 
+
+**Fall 2024**
 - Download all (Blue Button) will have the URL: va.gov/my-health/medical-records/download/ once it is ready on staging
 - URLs that are any deeper than a details page must comply with PHI/PII concerns & anonymize/randomize any identification numbers that are exposed in the URL. These cannot reference actual drug, lab, pharmaceutical, or personalized data that can be deciphered easily.
 - Back breadcrumbs deeper than details pages must say <- Back only to prevent exposure of PHI in link text that could be captured by analytics tools 
 - Title tags on details pages or deeper must be generalized to prevent exposure of PHI in the text that could be captured by analytics tools 
-
-- identify phase when entry points should be implemented
-  - In phase 0, the user will only be linked from a url in an email invite to the VA Medical Records landing page
-  - In phase 0.5 (ETA September 2024), the experience will be accessible to 1% of Veterans on VA.gov, and we will incrementally increase this number over time, with the goal of 100% around late November 2024. We will not consider Medical Records to be in Phase 1 until 100% of Veterans can access the experience on VA.gov, and "try me" banners have been published in the Classic (National Portal) site directing users to try out the new experience.
-  - In phase 1, Users will be linked from legacy MHV directly to these pages via "try me out" messaging. Veterans who start on VA.gov will also be able to access MHV on VA.gov through the "MyHealtheVet" link in the global header, or via cross-links within the portal. At this time, we are still having conversations about whether or not the links on MyVA will route to the new experience, or continue to funnel users to the National Portal. 
-  - By phase 1, the in-tool secondary navigation will be removed (with the implementation of the My HealtheVet portal-wide secondary navigation, we don't want to have tertiary navigation in tools).
-- "Download all" (Blue button) will not be available on VA.gov until Phase 1. It may no longer be a child of medical records since it touches lots of tools. This "download all" could become its own page at the root level of the portal (va.gov/my-health/download-all) and be cross-linked from medical records. This is still under discussion.
 
 **Notes:**
 - If you've been treated at a VA health facility at any point for any thing, you would have something for a Blue Button report, regardless of whether you are currently enrolled in VA healthcare.
@@ -102,7 +92,6 @@ In December 2024, when medical records is projected to be ready to move to Phase
 - Veterans enrolled in Foreign Medical Program who had VA healthcare in the past might need to access records here (note: still determining if they are included in user base)
 - Also not sure what CHAMPVA users have access too yet (TBD).
 - Healthcare records from during military service CANNOT be found here.
-- Veterans might go to /health-history by accident looking for medical records, so we should add a way for them to recover from that error and get in the right place (Once we reach Phase 1). 
 
 **FAQ:**
 1. If a user doesn't have data to show, will they not have it for all the reports, or could it just be for one report?
@@ -122,5 +111,13 @@ Medical Records has several subdomains that will be launching incrementally to P
 5. Lab and test results (October 2024) - DONE 
 6. Medical records settings, Download medical reports, and lab & test result radiology images (December 2024) - DONE
 
-Updated 7/21/23 -- KO finalizing after medical records research -- ready to develop Phase 0
+**Decision log related to earlier phases (prior to sunsetting of MR on MHV Classic) - Phases 0-2 and 2025 Milestones 1 & 2:**
+- identify phase when entry points should be implemented
+  - In phase 0, the user will only be linked from a url in an email invite to the VA Medical Records landing page
+  - In phase 0.5 (ETA September 2024), the experience will be accessible to 1% of Veterans on VA.gov, and we will incrementally increase this number over time, with the goal of 100% around late November 2024. We will not consider Medical Records to be in Phase 1 until 100% of Veterans can access the experience on VA.gov, and "try me" banners have been published in the Classic (National Portal) site directing users to try out the new experience.
+  - In phase 1, Users will be linked from legacy MHV directly to these pages via "try me out" messaging. Veterans who start on VA.gov will also be able to access MHV on VA.gov through the "MyHealtheVet" link in the global header, or via cross-links within the portal. At this time, we are still having conversations about whether or not the links on MyVA will route to the new experience, or continue to funnel users to the National Portal. 
+  - By phase 1, the in-tool secondary navigation will be removed (with the implementation of the My HealtheVet portal-wide secondary navigation, we don't want to have tertiary navigation in tools).
+- "Download all" (Blue button) will not be available on VA.gov until Phase 1. It may no longer be a child of medical records since it touches lots of tools. This "download all" could become its own page at the root level of the portal (va.gov/my-health/download-all) and be cross-linked from medical records. This is still under discussion.
+
+**Updated 7/21/23 -- KO finalizing after medical records research -- ready to develop Phase 0**
 * **IA Request (Previous IA work by CAIA):** [Epic for medical records work](https://app.zenhub.com/workspaces/sitewide-content-accessibility-and-ia-63a1d63232beba0011a7833f/issues/gh/department-of-veterans-affairs/va.gov-team/52997)
