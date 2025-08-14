@@ -674,13 +674,13 @@ This research does not include the perspectives of the following marginalized Ve
 <details>
   <summary>A more accessible version of the table in the above image</summary>
    
-## ADE Save in Progress usability testing
+### ADE Save in Progress usability testing
 
 **Final # of participants:** 11  
 **# of AT users:** 6  
 **# of no shows:** 1
 
-### Race
+#### Race
 
 | Category | % | Target | Study | p1 | p2 | p3 | p4 | p5 | p7 | p8 | p9 | p10 | p11 | p12 | p13 |
 |----------|---|---------|-------|---|---|---|---|---|---|---|---|----|----|----|----|
@@ -693,7 +693,7 @@ This research does not include the perspectives of the following marginalized Ve
 | Native, American Indian or Alaska Native | 0.30% | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 
-### Assistive Tech (AT)
+#### Assistive Tech (AT)
 
 | Category | % | Target | Study | p1 | p2 | p3 | p4 | p5 | p7 | p8 | p9 | p10 | p11 | p12 | p13 |
 |----------|---|---------|-------|---|---|---|---|---|---|---|---|----|----|----|----|
