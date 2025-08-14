@@ -32,7 +32,7 @@ If impact is anticipated from a planned MHV API/Platform team activity:
       - MHV System Owner and ISSO
   - Email to same audience as Slack
     - OCTO forwards to respective OCC partners as necessary
-      - OCC forwards to ther MHV business stakeholders (MHV Coordinators, EHRM, etc) as necessary
+      - OCC forwards to MHV business stakeholders (MHV Coordinators, EHRM, etc) as necessary
 - Submit a SNOW ticket to document downtime approval by System Owner
 - Set up PagerDuty maintenance window and coordinate with MHV User-facing team on-call to review/verify
 
@@ -48,7 +48,7 @@ If impact is anticipated from a planned MHV User-facing team activity:
       - If impacts mobile, include VAHB PO ([@rtwell](https://dsva.slack.com/team/UEY4D750B))
    - Email to same audience as Slack
      - OCTO forwards to respective OCC partners as necessary
-       - OCC forwards to ther MHV business stakeholders (MHV Coordinators, EHRM, etc) as necessary
+       - OCC forwards to MHV business stakeholders (MHV Coordinators, EHRM, etc) as necessary
 - Engineer - Set up a PagerDuty maintenance window
 
 Many MHV user-facing products are part of the VA.gov/VAHB Platform ecosystem and may be tangentially impacted by broader planned Platform downtimes.
@@ -145,7 +145,7 @@ If incident is rated P1:
     - If impacts mobile, include VAHB PO ([@rtwell](https://dsva.slack.com/team/UEY4D750B))
   - Email to same audience as Slack
     - OCTO forwards to respective OCC partners as necessary
-      - OCC forwards to ther MHV business stakeholders (MHV Coordinators, EHRM, etc) as necessary
+      - OCC forwards to MHV business stakeholders (MHV Coordinators, EHRM, etc) as necessary
     - Contact Center/Veteran Support forwards to respective HRC and Help Desk partners as necessary
 - Continue [incident response procedures](https://depo-platform-documentation.scrollhelp.site/developer-docs/incident-response-documentation-for-application-te)
   - While in STEP THREE, as part of the [Resolve the Issue procedures](https://depo-platform-documentation.scrollhelp.site/developer-docs/incident-response-documentation-for-application-te#Incidentresponsedocumentationforapplicationteams-Resolvetheissue), the Incident Commander works with OCTO PO to ensure that the Major Incident Management process has been triggered.
@@ -170,7 +170,7 @@ If incident is rated P2:
     - Contact Center/Veteran Support ([@Chante](https://dsva.slack.com/team/UGWD2V2BB))
   - Email to same audience as Slack
     - OCTO forwards to respective OCC partners as necessary
-      - OCC forwards to ther MHV business stakeholders (MHV Coordinators, EHRM, etc) as necessary
+      - OCC forwards to MHV business stakeholders (MHV Coordinators, EHRM, etc) as necessary
     - Contact Center/Veteran Support forwards to respective HRC and Help Desk partners as necessary
 - Continue [incident response procedures](https://depo-platform-documentation.scrollhelp.site/developer-docs/incident-response-documentation-for-application-te) which includes [resolution timeline](https://depo-platform-documentation.scrollhelp.site/developer-docs/incident-response-documentation-for-application-te#Incidentresponsedocumentationforapplicationteams-Resolutiontimeline) and communication updates cadence
 
