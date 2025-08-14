@@ -124,11 +124,7 @@ Where will you be holding the research sessions? Be sure to include whether this
 
 ## Research materials 📔
 
-**For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html)**
-
-- Link to email with instructions: Please use standard Perigean language
-- No prototypes will be used in this study.
-- [Link to conversation guide (in-progress)]().
+**None**
 
 ## Recruitment 🎯
 
