@@ -168,7 +168,7 @@ _What criteria would strengthen your results?_
 
 ### Optional Kick-off Call with Perigean
 
-- `Suggested dates and times:` **Sometime during the week of August 4, 2925.**
+- `Suggested dates and times:` **August 18th 9-11:30ET or 1-2:30ET, August 19th 10:30-4:30ET, August 20th 9-3ET.**
 
 ### Prepare
 
@@ -179,7 +179,8 @@ _What criteria would strengthen your results?_
 
 ### Research sessions
 
-- `Planned dates of research:` **08-10/18-18/25**
+- `Planned dates of research:` **All cohorts: 08/11/25 to 11/13/25**
+  **First cohort: 8/21/25 to 8/25/25**
 
 ### Length of sessions
 
@@ -188,7 +189,7 @@ _What criteria would strengthen your results?_
 ### Availability
 
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**.
-- Suggested times: 08/19/25: 12 - 3 ET; 08/20/25: 10 - 2 ET; 08/21/25: 10 - 1 ET.
+- Suggested times: 08/21/25: 9 - 2 ET; 08/22/25: 9 - 2 ET; 08/25/25: 11 - 3:30 ET.
 
 ## Team Roles 🕵️👩‍💻👩‍🔬
 
