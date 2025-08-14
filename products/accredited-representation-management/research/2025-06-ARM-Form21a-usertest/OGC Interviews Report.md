@@ -5,8 +5,8 @@ Office of the CTO-Digital Experience (OCTO-DE), Accredited Representative Manage
 Date: 08AUG2025 
 
 Contacts: 
-Marisa Dominguez, UX + Research Lead 
-Michael Tri, Sr. Product Designer 
+Marisa Dominguez, UX + Research Lead  
+Michael Tri, Sr. Product Designer  
 Lindsay Li-Smith, Product Manager 
 
 ## Research Goals
@@ -22,7 +22,7 @@ Lindsay Li-Smith, Product Manager
 2. How do OGC staff currently communicate application status, denials, and requests for additional information to applicants, and what improvements could be made to these notification processes? 
 3. What are the most common reasons for application denials or delays? 
 
-**Methodology**
+**Methodology**  
 Semi-structured interviews. The interviewer will ask the participants a series of questions to understand OGC’s current experiences with accepting and processing Form 21a. 
 
 
@@ -46,12 +46,12 @@ Applicants and OGC staff experience significant challenges and inefficiencies wi
             "I respond to a tremendous amount of congressional inquiries on just status requests because those are really difficult for our paralegals to reply to because they're trying to move, you know, the backlog of cases and that everyone's writing in. Where is it now? Where, where is it now?" (0:14:50). 
             * This highlights a major inefficiency for OGC staff. 
 
-  * Incomplete Applications 
+ 	 			* Incomplete Applications 
             "...making fields required. Stuff like that is always good because I can't tell you too how many incomplete applications we get..." (0:12:06).    
-           * This points to an inefficiency at the application intake stage. 
+        	   * This points to an inefficiency at the application intake stage. 
         * High Volume of General Emails
             "...we get, on average we could get up to 500 emails a day and that's just only in the mailbox." (0:20:27).
-            * This suggests a high volume of unorganized communication that likely includes many status inquiries or requests that could be automated.
+          	  * This suggests a high volume of unorganized communication that likely includes many status inquiries or requests that could be automated.
         * Inefficient Character Reference Process  (now addressed, but historical inefficiency) 
             "Right now we're not doing our character and reputation requests until after they pass the exam because only 40% of them pass the exam and that took out a big chunk of time." (0:16:59) and "I would say about 20% [of processing time saved by this change]." (0:19:46). 
             * This demonstrates a past, significant inefficiency that has been mitigated. 
@@ -90,43 +90,43 @@ Targeted improvements to communication, notification systems, and user guidance 
 
 **Details of Findings** 
 
-1. Finding: Manual Contact Information Updates 
+1. Finding: Manual Contact Information Updates  
     The process for updating contact information for accredited representatives (attorneys, claims agents, and VSOs) is largely manual. Attorneys and claims agents can send emails, faxes, or mail, while VSO representatives require their certifying official or assistant to initiate the request. 
 
     * Supporting data: "Okay. So everything's pretty much manual, like we're the ones that update all the information." - Speaker 1 (0:03:09) 
 
-2. Finding: Centralized but Decentralized Inquiries 
+2. Finding: Centralized but Decentralized Inquiries  
     While there is an OGC accreditation mailbox intended for all accreditation-related inquiries, representatives often send update requests directly to individuals they have previously worked with, leading to multiple points of contact for updates. Margaret T. is primarily responsible for monitoring the OGC accreditation mailbox. 
 
     * Supporting data: "Even though we have the mailbox and we strongly encourage people to send the information there to distribute it, a lot of times people will send to maybe the person they're familiar with and they were working with, so they were recently accredited, they might send their responses to that person that they were working with versus sending it to the mailbox and then it gets, you know, forwarded or maybe, you know, one person do them." - Speaker 2 (0:05:54) 
 
 
-3. Finding: Limited Proactive Outreach for Updates 
+3. Finding: Limited Proactive Outreach for Updates  
     There are currently no ongoing outreach programs to remind representatives or certifying officials to keep their contact information updated, beyond initial accreditation emails and annual recertification projects. It is primarily the representative's responsibility. 
 
     * Supporting data: "But in terms of ongoing outreach, we currently do not have one that I'm aware of where we notify them." - Speaker 2 (0:08:18) 
 
-4. Finding: Challenges with Outdated Information 
+4. Finding: Challenges with Outdated Information  
     The biggest challenge in keeping information up to date is representatives not notifying OGC of changes. This can lead to returned mail and affect the representatives' ability to receive updated information regarding claims and even impact pay. 
 
     * Supporting data: "I think the challenge is them not letting us know their content information change." (0:10:40)  
 
-5. Finding: Applicant Notification of Public Information 
+5. Finding: Applicant Notification of Public Information  
     For attorneys and claims agents, the approval email explicitly states that their contact information will be publicly displayed on the VA's accredited search index. For VSO representatives, this information is sent to the certifying official, who is expected to advise the representative. The VA Form 21A itself does not contain this notification. 
 
     * Supporting data: "So in the approval email, that language is contained in there. Okay. That their contact information is contained. We tell them they need to verify it, and if they want to change it, we give them instructions on how to do it." (0:24:32) 
 
 **Additional Insights** 
 
-1. Insight: Challenges with Inconsistent System Functionality 
+1. Insight: Challenges with Inconsistent System Functionality  
     The OGC's database (GC laws) has inconsistent functionality between its web and desktop versions, particularly regarding displaying multiple email addresses. This inconsistency can make it difficult for staff to determine what information is accurately displayed or utilized by the system. 
-2. Insight: Increased Efficiency by Delaying Character References 
+2. Insight: Increased Efficiency by Delaying Character References  
     OGC has significantly improved the efficiency of their application processing (saving about 20% of processing time) by delaying character reference checks until after applicants pass the exam. This change was implemented because a large percentage (60%) of applicants were not passing the exam, making early character reference checks a wasted effort. 
 
 
 ## Recommendations
 
-1. Develop a self-service portal for contact information updates 
+1. Develop a self-service portal for contact information updates  
     Allow accredited representatives (attorneys, claims agents, and VSOs) to directly update their contact information (email, phone, address, and potentially name changes) through a secure online portal. This would significantly reduce the manual effort currently required by OGC staff and improve the accuracy and timeliness of the data. The portal should clearly indicate which information is publicly displayed and allow users to set preferences (e.g., preferred business address over home address). 
 
     * Supporting evidence:  
@@ -135,19 +135,19 @@ Targeted improvements to communication, notification systems, and user guidance 
 
             * This highlights the current manual burden on OGC staff. 
 
-        1. "...we actually have to go in and change their information." (0:03:51) 
+        2. "...we actually have to go in and change their information." (0:03:51) 
 
             * This further emphasizes the manual process. 
 
-        1. "...instead of going back and forth with these manual changes, which at that point it won't be manual, but, you know, whatever it is that they want upfront." (0:15:26) 
+        3. "...instead of going back and forth with these manual changes, which at that point it won't be manual, but, you know, whatever it is that they want upfront." (0:15:26) 
 
             * Margaret expresses a desire for a system where preferences are handled upfront, suggesting a portal. 
 
-        1. "It's honestly, it's their responsibility to keep us updated when it comes to their information." (0:07:57) 
+        4. "It's honestly, it's their responsibility to keep us updated when it comes to their information." (0:07:57) 
 
             * This indicates that representatives should be proactive, aligning with a self-service model. 
 
-1. Implement status tracking and automated notifications for applications 
+1. Implement status tracking and automated notifications for applications  
     Provide applicants with an online dashboard or clear status updates for their accreditation applications. This would reduce the "noise" of frequent inquiries about application status, allowing OGC paralegals to focus on processing. Automated notifications for key milestones (e.g., "application received," "background check initiated," "decision rendered") would keep applicants informed without requiring manual communication. 
 
     * Supporting evidence: 
@@ -208,38 +208,31 @@ Targeted improvements to communication, notification systems, and user guidance 
     5. Improve applicant and staff satisfaction with the accreditation process, measured by metrics like processing time, error rates, and user feedback. 
 
 **Key Performance Indicators** 
-These KPIs help assess efficiency, system reliability, and user experience improvements resulting from digitizing the accreditation process. 
+These KPIs help assess efficiency, system reliability, and user experience improvements resulting from digitizing the accreditation process.  
 
-1. KPI: Average Application Processing Time 
-
+1. KPI: Average Application Processing Time  
 Measure the average time it takes for an application to be processed, compared to previous (paper-based) processing times.  
 
-1. KPI: Form Submission Success Rate 
-
+2. KPI: Form Submission Success Rate  
 Track the percentage of successful form submissions versus failed submissions, including metrics such as overall submission volume and submission error percentage. 
  
-1. KPI: Applicant Satisfaction (CSAT Score) 
-
+3. KPI: Applicant Satisfaction (CSAT Score)  
 Collect and analyze applicant satisfaction through surveys or feedback, using a Customer Satisfaction (CSAT) score. 
 
 
 ## Next Steps
 
-1. Review the Claims Agent Checklist 
-
+1. Review the Claims Agent Checklist  
 Your team needs to thoroughly review the "CNF agent checklist from May 7th" that Nate mentioned. This checklist is expected to provide insights into what OGC looks for in quality applications and potential "if-then" scenarios. 
 
-1. Ongoing continuous learning with OGC 
-
+1. Ongoing continuous learning with OGC  
 To facilitate ongoing continuous learning with OGC, a structured feedback loop and regular knowledge-sharing sessions should be established. This would involve collecting feedback from paralegals and attorneys on common application issues and "red flags" encountered, especially concerning the new digital forms and updated checklists. 
 Further research needed 
 
-1. Investigate the impact of the inconsistent GC Laws functionality 
-
+1. Investigate the impact of the inconsistent GC Laws functionality  
 Research should be conducted to fully understand the scope and impact of the "iffy" and "inconsistent" functionality between the web and desktop versions of GC Laws, especially regarding how it displays or processes multiple email addresses and other contact information. This would help identify specific pain points for OGC staff and potential data integrity issues. 
 
-1. Explore current post-denial/reapplication communication channels 
-
+1. Explore current post-denial/reapplication communication channels  
 Wile the document mentions written decisions with appellate rights and occasional email chains for reconsideration, further research could delve into the specific content, frequency, and effectiveness of these communications. Understanding common applicant misunderstandings or persistent questions after a denial could inform the development of clearer, more proactive communication strategies or self-service resources. 
 
 
