@@ -279,7 +279,7 @@ This research supports measurement of this KPI by....
 ### Research participants 
 _Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
 
-_[Example Research participants](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/research/2025-05-save-in-progress/research-report.md#research-participants)_
+[Example Research participants](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/research/2025-05-save-in-progress/research-report.md#research-participants)
 
 #### Recruitment criteria
 
