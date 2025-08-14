@@ -1,7 +1,9 @@
 # Office of General Counsel (OGC) Interview  Research Findings 
-Office of the CTO-Digital Experience (OCTO-DE),  
-Accredited Representative Management 
+
+Office of the CTO-Digital Experience (OCTO-DE), Accredited Representative Management 
+
 Date: 08AUG2025 
+
 Contacts: 
 Marisa Dominguez, UX + Research Lead 
 Michael Tri, Sr. Product Designer 
@@ -27,8 +29,10 @@ Semi-structured interviews. The interviewer will ask the participants a series o
 ## Hypotheses and Conclusions
 
 **Hypothesis Statement:** 
+
 Applicants and OGC staff experience significant challenges and inefficiencies with the current VA Form 21a digital accreditation process. 
-    * Definitely True 
+
+   * Definitely True 
         * Manual Contact Information Updates 
             "So everything's pretty much manual, like we're the ones that update all the information..." (0:03:09) and "...we actually have to go in and change their information." (0:03:51). 
             * This indicates a high manual burden for OGC staff. 
