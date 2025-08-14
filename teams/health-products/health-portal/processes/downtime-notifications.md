@@ -22,27 +22,29 @@ Notifications should go out:
 ### MHV API/Platform Team
 If impact is anticipated from a planned MHV API/Platform team activity:
 - Send multi-channel notifications with downtime information:
-  - Slack message in #mhv-health-portal-coordination and tag:
+  - Slack message in [#mhv-health-portal-coordination](https://dsva.slack.com/archives/C04DRS3L9NV) and tag:
       - MHV OCTO POs and MHV OCTO Engineers (@octo-health-engineers group)
-      - Greg Kirk and Sean Good
+      - [@Greg Kirk](https://dsva.slack.com/team/U04DD9G1G02) and [@Sean Good](https://dsva.slack.com/team/U04JDKU8ZM5)
       - MHV User-facing team on-call (Slack user group TBD)
-      - Respective MHV User-facing product team Product Manager and Horizon (Slack user group TBD)
+      - MHV User-facing product managers (Slack user group TBD) and Horizon team ([@Bryan Ivie](https://dsva.slack.com/team/U02EA0XLRD1), [@Daniel Cloud](https://dsva.slack.com/team/U03CLNHG23S), [@Florence McCafferty](https://dsva.slack.com/team/U03HQRVPZD1), [@Cara Frissell](https://dsva.slack.com/team/U05123T8FT7), [@Sara Sterkenburg](https://dsva.slack.com/team/U045GGS6V25), and [@Lauren Ernest](https://dsva.slack.com/team/U01DKQVCEGY))
+      - Contact Center/Veteran Support ([@Chante](https://dsva.slack.com/team/UGWD2V2BB))
+      - If impacts mobile, include VAHB PO ([@rtwell](https://dsva.slack.com/team/UEY4D750B))
       - MHV System Owner and ISSO
-      - Others? TBD
   - Email to same audience as Slack
     - OCTO forwards to respective OCC partners as necessary
 - Submit a SNOW ticket to document downtime approval by System Owner
 - Set up PagerDuty maintenance window and coordinate with MHV User-facing team on-call to review/verify
+
 
 ### MHV User-facing Team or VA.gov/VAHB Platform
 
 If impact is anticipated from a planned MHV User-facing team activity:
 - Communication Owner^ - Send multi-channel notifications with downtime information:
    - Slack message in [#mhv-health-portal-coordination](https://dsva.slack.com/archives/C04DRS3L9NV) channel and tag:
-      - MHV OCTO POs and MHV OCTO Engineers (@octo-health-engineers group)
+      - MHV OCTO POs and MHV OCTO Health Engineers (@octo-health-engineers)
       - [@Greg Kirk](https://dsva.slack.com/team/U04DD9G1G02) and [@Sean Good](https://dsva.slack.com/team/U04JDKU8ZM5)
       - Horizon team ([@Bryan Ivie](https://dsva.slack.com/team/U02EA0XLRD1), [@Daniel Cloud](https://dsva.slack.com/team/U03CLNHG23S), [@Florence McCafferty](https://dsva.slack.com/team/U03HQRVPZD1), [@Cara Frissell](https://dsva.slack.com/team/U05123T8FT7), [@Sara Sterkenburg](https://dsva.slack.com/team/U045GGS6V25), and [@Lauren Ernest](https://dsva.slack.com/team/U01DKQVCEGY))
-      - If impacts VAHB, include [@rtwell](https://dsva.slack.com/team/UEY4D750B)
+      - If impacts mobile, include VAHB PO ([@rtwell](https://dsva.slack.com/team/UEY4D750B))
    - Email to same audience as Slack
      - OCTO forwards to respective OCC partners as necessary
 - Engineer - Set up a PagerDuty maintenance window
@@ -68,22 +70,28 @@ Include the following information in messaging as best as possible:
 If team is notified of or identifies an issue:
 - Follow steps in VA Enterprise Incident Response Plan (link TBD)
   - Detection, Notification and Analysis
-    - Upon detection of incident, notify core MHV IR team via slack channel #mhv-health-portal-coordination and tag:
+    - Upon detection of incident, notify core MHV IR team via slack channel[#mhv-health-portal-coordination](https://dsva.slack.com/archives/C04DRS3L9NV) and tag:
       - MHV User-facing team on-call (Slack user group TBD)
-      - Horizon team (Slack user group TBD)
+      - MHV User-facing product managers (Slack user group TBD) and Horizon team ([@Bryan Ivie](https://dsva.slack.com/team/U02EA0XLRD1), [@Daniel Cloud](https://dsva.slack.com/team/U03CLNHG23S), [@Florence McCafferty](https://dsva.slack.com/team/U03HQRVPZD1), [@Cara Frissell](https://dsva.slack.com/team/U05123T8FT7), [@Sara Sterkenburg](https://dsva.slack.com/team/U045GGS6V25), and [@Lauren Ernest](https://dsva.slack.com/team/U01DKQVCEGY))
       - MHV System Owner
+        - Sean Good
       - MHV ISSO
+        - Joe Decoteu
       - MHV Privacy Officer
       - MHV Senior Security Specialist
+        - Janiece Wade
+          - Slack - [@Janiece Wade](https://dsva.slack.com/team/U04JMG0T5FG)
       - MHV Team Lead/Delivery Manager
+        - Slack - [@Matt Bain](https://dsva.slack.com/team/U045AC9PL9L)
       - OCTO
-      - V/CHIO/Business
+        - Slack - @Marci @Kay @patrick (PM for the product); OCTO health engineers (@octo-health-engineers)
+      - V/CHIO/VHA Partners
    - IR team convenes group chat and adds needed SMEs
       - ISSO or Privacy submits PSETS ticket
       - CSOC Data Breach Response Service (DBRS), if Veteran data has possibly been compromised
    - IR team notifies other key stakeholders:
       - OCC
-      - MHV Help Desk
+      - MHV Help Desk and OCTO Contact Center
       - VAEC
   - Containment and Eradication
     - IR team takes steps to contain/eradicate issue as applicable
@@ -130,7 +138,8 @@ If incident is rated P1:
     - MHV OCTO POs and MHV OCTO Engineers (@octo-health-engineers group)
     - [@Greg Kirk](https://dsva.slack.com/team/U04DD9G1G02) and [@Sean Good](https://dsva.slack.com/team/U04JDKU8ZM5)
     - Horizon team ([@Bryan Ivie](https://dsva.slack.com/team/U02EA0XLRD1), [@Daniel Cloud](https://dsva.slack.com/team/U03CLNHG23S), [@Florence McCafferty](https://dsva.slack.com/team/U03HQRVPZD1), [@Cara Frissell](https://dsva.slack.com/team/U05123T8FT7), [@Sara Sterkenburg](https://dsva.slack.com/team/U045GGS6V25), and [@Lauren Ernest](https://dsva.slack.com/team/U01DKQVCEGY))
-    - Contact Center/Veteran Support: [@Chante](https://dsva.slack.com/team/UGWD2V2BB)
+    - Contact Center/Veteran Support ([@Chante](https://dsva.slack.com/team/UGWD2V2BB))
+    - If impacts mobile, include VAHB PO ([@rtwell](https://dsva.slack.com/team/UEY4D750B))
   - Email to same audience as Slack
     - OCTO forwards to respective OCC partners as necessary
     - Contact Center/Veteran Support forwards to respective HRC and Help Desk partners as necessary
@@ -153,7 +162,7 @@ If incident is rated P2:
     - MHV OCTO POs and MHV OCTO Engineers (@octo-health-engineers group)
     - [@Greg Kirk](https://dsva.slack.com/team/U04DD9G1G02) and [@Sean Good](https://dsva.slack.com/team/U04JDKU8ZM5)
     - Horizon team ([@Bryan Ivie](https://dsva.slack.com/team/U02EA0XLRD1), [@Daniel Cloud](https://dsva.slack.com/team/U03CLNHG23S), [@Florence McCafferty](https://dsva.slack.com/team/U03HQRVPZD1), [@Cara Frissell](https://dsva.slack.com/team/U05123T8FT7), [@Sara Sterkenburg](https://dsva.slack.com/team/U045GGS6V25), and [@Lauren Ernest](https://dsva.slack.com/team/U01DKQVCEGY))
-    - Contact Center/Veteran Support: [@Chante](https://dsva.slack.com/team/UGWD2V2BB)
+    - Contact Center/Veteran Support ([@Chante](https://dsva.slack.com/team/UGWD2V2BB))
   - Email to same audience as Slack
     - OCTO forwards to respective OCC partners as necessary
     - Contact Center/Veteran Support forwards to respective HRC and Help Desk partners as necessary
@@ -164,10 +173,12 @@ If incident is rated P2:
 
 #### P3 or P4
 If incident is rated P3 or P4:
-- Update initial Slack message with priority level and tag:
+- Incident Commander^ - Update initial Slack message with priority level and tag:
   - MHV OCTO POs
   - Respective MHV User-facing product team Product Manager and Horizon (Slack user group TBD) for further prioritization
 - Continue [incident response procedures](https://depo-platform-documentation.scrollhelp.site/developer-docs/incident-response-documentation-for-application-te) which includes [resolution timeline](https://depo-platform-documentation.scrollhelp.site/developer-docs/incident-response-documentation-for-application-te#Incidentresponsedocumentationforapplicationteams-Resolutiontimeline) and communication updates cadence
+
+^: the Incident Commander will be a product manager or engineering manager for the respective user-facing application
 
 
 #### VA.gov/VAHB Platform / Incidents Beyond MHV Scope
