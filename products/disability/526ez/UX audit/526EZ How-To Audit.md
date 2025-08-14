@@ -72,9 +72,9 @@ The following table provides a high-level overview of all steps, sections, and p
 | **Step 1: Veteran Details** |☐ Homeless Process <br>☐ Military Service History Process | 
 | **Step 2: Conditions**      |☐ Toxic Exposure <br> ☐ Prisoner of War <br> ☐ Additional Disability Benefits <br> ☐ Individual Unemployability | Individual Unemployability pathway is only present in staging and not active in production. Do not audit.  |             
 | **Step 3: Mental Health**             | N/A                |                 |          |
-| **Step 4: Supporting Evidence**             | ☐ BDD Process continues here                 |                 |          | 
+| **Step 4: Supporting Evidence**             | ☐ BDD Process continues here <br> ☐ 4142 Release of Private Medical Records                 |                 |          | 
 | **Step 5: Additional Information**             |      N/A           |                 |          | 
-| **Step 6: Review and Submit**  | N/A                |                 |          | 
+| **Step 6: Review and Submit**  | N/A                |  ☐ "Edit" Pathway               |          | 
 
 ## 📣 4. Check for in-progress work and known issues
 Multiple teams are involved in designing and developing the 526 form, and there may be in-progress updates to the section you plan to audit. These updates might address bugs or UX issues you would otherwise identify. To avoid duplicating work, you first check for existing efforts by contacting the right Slack channels or team members. Let them know you're auditing [X section] and ask if there are any in-progress changes, known issues, or prior findings you should review. 
