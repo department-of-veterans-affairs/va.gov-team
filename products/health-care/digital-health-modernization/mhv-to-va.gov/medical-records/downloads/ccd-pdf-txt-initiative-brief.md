@@ -1,4 +1,4 @@
-# Initiative Brief Template
+# Initiative Brief for adding PDF and TXT to Continuity of Care Document
 #### Overview
 - Product: MHV Medical Records
 - Feature: Add PDF and TXT to Continuity of Care Document (CCD)
