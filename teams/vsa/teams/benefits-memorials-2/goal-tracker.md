@@ -101,7 +101,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 - [X] Any Additional details about goals **not** completed will be documented here
 - ENG: Complete 8 points of remaining Digital Dispute work addressing the 4 remaining staging review feedback tickets.
   - 3 of the 4 tickets were completed, however the 4th ticket [DD Contact Information Layout - Consolidated #109263 #113026](https://github.com/department-of-veterans-affairs/va.gov-team/issues/115664) was a consolidation of 2 items and unfortunatelly rolled into the next sprint.
-  - The work is now scheduled to be completed next sprint.
+  - Additional investigation and collaboration with platform is required for this item and those resources are being contacted.
 
 ## Sprint Goals - Sprint: 15 [8/13/25 - 8/26/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
