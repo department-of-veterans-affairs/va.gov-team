@@ -295,7 +295,7 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 - [Figma 4142 redesigns](https://www.figma.com/design/gvWPL7Z8llEy0tg6bEZbms/Initiative-%E2%80%A2-4142-Paper-Sync?node-id=4139-15800) Ruben
 - [Updated screenshots in 526 Form Flow Mural] TBD - Liz?
 - [Updated pages in 526 Source of Truth Figma] TBD - Ruben?
-- [Final - 4142 PS Field Mapping.md] ???
+- [Final - 4142 PS Field Mapping.md](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116055#issuecomment-3168357805)
 - [Final - 4142 PS New SubURL.md] ???
 - [Architecture] TBD - Kyle
 - Datadog log TBD - Kyle
