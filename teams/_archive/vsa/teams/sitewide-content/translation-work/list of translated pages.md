@@ -1,4 +1,5 @@
 ## List of translated pages on VA.gov
+<<<<<<< HEAD
 
 | **Number** | **Page** | **Language** | **Date published** | **Date archived** |
 | --- | --- | --- | --- | --- |
