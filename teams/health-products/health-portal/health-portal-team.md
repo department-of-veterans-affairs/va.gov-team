@@ -22,7 +22,7 @@ The My HealtheVet on VA.gov team’s mission is to simplify Veterans’ health e
 - Product - Horizon: Marci McGuire
 - Product - Messaging: Patrick Bateman
 - Product - Medical Records: Marci McGuire
-- Product - Medications: Kay Lawyer
+- Product - Medications, Medical Devices and Supplies: Kay Lawyer
 - Design: Kristen McConnell
 - Design - Messaging: Becky Phung
 - Research: Robyn Singleton
