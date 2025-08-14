@@ -298,3 +298,139 @@ VA testing app overrode the users actual VA app
 How did the user find this process overall: Quote 24:10 “It’s pretty… like I said earlier, it’s pretty easy to navigate. But I can see where a lot of people could get confused and find it cumbersome to use. 
 
 1st page with specific questions with purpose of the form was confusing.
+
+## P4: 
+
+### Per designer:
+
+We need to make it clearer how to return to the app after submitting a form + we need additional information about the form submission throughout the process are my two biggest takeaways. 
+
+That placing a link on the home page directly to the forms is super helpful.
+
+### Per engineer:
+
+Install on Android is definitely more difficult for users - for user testing purposes.
+
+She had alot of good feedback on the form flow(ex. asking what pages meant, or what happens after you submit, and call assistance ).
+
+The done button strikes again 3/3.
+
+Also, we should check if the App Tester app was still installed and uninstall for next time. 
+
+### Per researcher:
+
+To be added upon review of recording
+
+## P5:
+
+### per designer:
+
+App optimized for Tablets would be useful and that "done" button is obviously a bit confusing to find.
+
+### per engineer:
+
+4/4 on done button
+
+Toasts seems helpful but every user has not dismissed it immediately and blocks the “Continue form”  button.
+
+Another person using dark mode but the webview did not reflect that -> something we should look into.
+
+### per product manager:
+
+#### General
+
+Has used forms online (web)
+
+Login is a hassle because different government sites have different login providers
+
+#### Forms Web View/ Data Entry:
+
+Didn’t find the form options “crystal clear as to what a claim would be”
+
+Had no trouble entering the
+
+Paused after the error state on date
+
+Understood the significance of the error state on the social security error
+
+On Phone Number, was confused about whether he needed to include dashes
+
+“iPad would’ve been a lot easier”
+
+“Geez, so many fat fingers. This is hard on a tiny screen”
+
+“Was there any part that was hard to navigate or understand?” “No[…] this looks like a typical VA form”
+
+Had difficult knowing how to go back to the Forms location in the app, didn’t seem to know he was in the web view —> We should rename “Done” to “Back to Forms”
+
+#### On Forms Page:
+
+Selected “Continue” to exit out of the web view, and submitted the form accidentally
+
+The toast message covered the form status, he knew to move/ scroll his screen but it was still difficult to hold it in place for enough time
+
+“The “In Progress” status means it is waiting to be evaluated”
+
+If he checked back, he would be expect to see the status
+
+### per researcher:
+
+Pending review of recording.
+
+## P6:
+
+### per designer:
+
+the "done" button continues to be a cunning little fox
+
+that toast message wasn't in the way this time but still was randomly in the middle of the screen
+
+### per engineer:
+
+First though was forms would be in claims
+
+Done button 5/5 <- this button name needs to be contextual I feel. “Close”,  “Dismiss”, “Go back App” or something
+
+Standardize status(green for done, yellow for in-progress, and red for in-progress or draft)
+
+### per product manager:
+
+#### General
+
+Uses the app for Secure Messaging and Prescriptions, and viewing VA letters
+
+Finds the Disability Rating and Latest Payment Privacy Feature “neat”
+
+General observations: Seemed tech savvy, had it already downloaded and developer option on
+
+Found the whole experience straightforward
+
+Initial Navigation
+
+“To submit a statement in support of a claim, I’d either go to Claims or ‘Go to Forms’”
+
+#### Webview/ Data Entry:
+
+Was a bit confused by error message, did not have trouble with data entry
+
+Found the social security prompt confusing (due to incorrect data) but otherwise everything was straightforward
+
+Regarding the confirmation screen, was disappointed by the 30 day timeline 
+
+#### Forms Page
+
+Understood it was submitted
+
+Understood status of in progress to mean it hasn’t been received
+
+“Once it disappears, it’ll probably go to the Completed tab”
+
+Suggested color coding statuses - “yellow to be in a holding stage, green is where it’s completed, red is where it’s not done”:arrow_right: love that this is a potential design and he suggested it; shows this kind of thing would be intuitive for the user.
+
+### per researcher:
+
+Pending review of recording
+
+## P6
+
+
