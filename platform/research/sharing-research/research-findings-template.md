@@ -177,20 +177,13 @@ synthesis_tools_used:
 
 [Example Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)
 
-### 1. Finding one
-
-### 2. Finding two
-
-### 3. Finding three
-
-### 4. Finding four
-
-### 5. Finding five
-
-### 6. Finding six
-
-### 7. Finding seven
-
+1. Finding one
+1. Finding two
+1. Finding three
+1. Finding four
+1. Finding five
+1. Finding six
+1. Finding seven
 
 ## Details of Findings 
 
