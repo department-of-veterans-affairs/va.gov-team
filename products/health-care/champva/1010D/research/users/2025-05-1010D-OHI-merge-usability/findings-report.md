@@ -55,7 +55,7 @@ Applicants are required to submit VA Form 10-10d and VA Form 10-7959c separately
 
 ## Methodology 
 
-We conducted 1-hour remote moderated research sessions from **June 30, 2025-July 18, 2025**. These sessions included a semi-structured interview as well as a combined usability/content comprehension test protocol to gauge users' understanding of the CHAMPVA application process, the supporting documentation required to complete the application, and whether the merged 10-10D/10-7959c forms worked well for users over the alternative (submitting the two forms separately).
+We conducted 1-hour remote moderated research sessions from **June 30, 2025-July 18, 2025**. These sessions included a semi-structured interview as well as a combined usability/content comprehension test protocol to gauge users' understanding of the CHAMPVA application process, the supporting documentation required to complete the application, and whether the merged 10-10D/10-7959c forms worked well for users over the alternative (submitting the two forms separately). The usability/content comprehension protocol was conducted in Staging.
 
 Each participant saw the introduction page to the 10-10D/10-7959c forms, completed Forms 10-10D and 10-7959c questions, and uploaded any documentation required through branching logic associated with their responses. All participants also saw the review page, and discussed their expectations around the submission and application decision process.
 
@@ -63,41 +63,34 @@ Each participant saw the introduction page to the 10-10D/10-7959c forms, complet
 
 1. When filling out the merged 10-10D/10-7959c, users will have faster completion times when compared to cumulative completion times from the standalone 10-10D and 10-7959c.
 
-    - **NOT ENOUGH INFORMATION**
-    - The team will need to monitor the 10-10D/10-7959c form in production to compare against standalone form times.
-    - While users did not struggle with the length of the merged form, 4 users reported that the form felt "tedious," and 6 of 18 reported that the questions were repetitive to the point of confusion.
+    - **LIKELY TRUE**: 16 of 18 users were able to complete the entire merged form in a single sitting (the 2 who did not submit were due to technical difficulties with the Staging environment or their devices) compared to # number of visits to the 1010D and # to OHI to submit the standalone forms in production.
+        - The team will need to monitor the 10-10D/10-7959c form in production to compare against standalone form times and the number of sessions required to finish the merged form vs. standalone forms. See [_Next Steps_](#next-steps).
 
-3. Users will be able to easily orient themselves around the transition between the 10-10D and 10-7959c.
+2. Users will be able to easily orient themselves around the transition between the 10-10D and 10-7959c.
 
-    - **LIKELY TRUE**
-    - Participants did not have difficulty navigating the 10-7959c subform within the 10-10D, but they also struggled to identify content about the 10-7959c subform throughout the test.
+    - **LIKELY TRUE**: Participants did not have difficulty navigating the 10-7959c subform within the 10-10D, but they also struggled to identify content about the 10-7959c subform throughout the test.
 
-5. Users will prefer to complete the 10-7959c as part of their CHAMPVA application, as opposed to a separate, standalone form.
+3. Users will prefer to complete the 10-7959c as part of their CHAMPVA application, as opposed to a separate, standalone form.
 
-    - **LIKELY TRUE**
-    - 3 participants who are current CHAMPVA beneficiaries stated that the online form was a better overall experience than the paper/PDF application. 
+    - **LIKELY TRUE**: 3 participants who are current CHAMPVA beneficiaries stated that the online form was a better overall experience than the paper/PDF application.
 
-7. New instructions, examples, and directions for uploading necessary and required supporting evidence will provide relevant assistance as the user navigates the forms.
+4. New instructions, examples, and directions for uploading necessary and required supporting evidence will provide relevant assistance as the user navigates the forms.
 
-    - **MAYBE TRUE**
-    - 15 of 18 participants said that the content on the intro page made them feel "informed" or "very informed" about the 10-10D/10-7959c application, and 12 of 18 participants reiterated at the end of the test session that the amount of information they saw throughout the application was "just right."
+    - **MAYBE TRUE**: 15 of 18 participants said that the content on the intro page made them feel "informed" or "very informed" about the 10-10D/10-7959c application, and 12 of 18 participants reiterated at the end of the test session that the amount of information they saw throughout the application was "just right."
+        - We believe some minor tweaks to the content to address observed usability issues, alongside self-reported ease of comprehension, will make file uploads and supporting docs even easier for users. See _Recommendations_ and [_Next Steps_](#next-steps).
 
-9. Veterans will understand that there is separate upload sections for applicant information and OHI, and avoid duplicate uploads/entries. 
+5. Veterans will understand that there is separate upload sections for applicant information and OHI, and avoid duplicate uploads/entries. 
 
-    - **DEFINITELY TRUE**
-    - 18 of 18 participants understood what supporting documentation was being asked for in the applicant and OHI sections. Only 2 participants had issues with uploading files in the form, due to Staging crashing, and due to an issue with the participant's iPad device.
-    - 2 participants specifically called out the ease of uploading supporting documentation as part of what made the 10-10D/10-7959C easy overall.
+    - **DEFINITELY TRUE**: 18 of 18 participants understood what supporting documentation was being asked for in the applicant and OHI sections.
+        - Only 2 participants had issues with uploading files in the form, due to Staging crashing, and due to an issue with the participant's iPad device.
+        - 2 participants specifically called out the ease of uploading supporting documentation as part of what made the 10-10D/10-7959C easy overall.
 
-10. The v3 file upload component will provide visual validation of complex file uploads, like front/back of Medicare and Private Health Insurance cards
+6. The v3 file upload component will provide visual validation of complex file uploads, like front/back of Medicare and Private Health Insurance cards
   
-    - **NOT ENOUGH INFORMATION**
-    - We were unable to implement the v3 upload component in time for testing. We will test this component in a future study.   
+    - **NOT ENOUGH INFORMATION**: We were unable to implement the v3 upload component in time for testing. We will test this component in a future study.   
 
-8. The v3 component will help users identify if they have provided all necessary evidence before submitting.
-    - **NOT ENOUGH INFORMATION**
-    - We were unable to implement the v3 upload component in time for testing. We will test this component in a future study.      
-
-
+7. The v3 component will help users identify if they have provided all necessary evidence before submitting.
+    - **NOT ENOUGH INFORMATION**: See above.    
 
 ## Key Findings
 
@@ -110,7 +103,6 @@ Each participant saw the introduction page to the 10-10D/10-7959c forms, complet
 **4.** While users had no trouble navigating into and out of the 10-7959c subform, there were specific usability concerns with the Medicare and Health Insurance list&loops.
 
 **5.** While users did not struggle with the length of the merged form, 4 users reported that the form felt "tedious," and 6 of 18 reported that the questions were repetitive to the point of confusion. 
-
 
 ## Details of Findings 
 
@@ -180,32 +172,116 @@ Crucially, the confusion about required information and supporting documents on 
     
     > _I know exactly what they’re asking for. They’re asking for her enrollment or acceptance letter. That shows that, see, this is actually a very difficult thing! Because my daughter’s college was able to provide that, gave her graduation date. But my son’s college in [another state] only gives it for the semesters he’s enrolled in at the time. So [...] I had to go to the Publisher’s Clearinghouse and beg, plead, wheedle, and get them to change it to his actual graduation date._ (P12)
 
-**Note to Renata: pick up here**
+- **Health Insurance Documents**: 12 of 18 participants did not recall if health insurance information was mentioned on the Introduction page, when they reached the Other Health Insurance subsection of the application.
+    - 11 of 18 participants said they would have to pause the form at the Other Health Insurance section, because they did not know to gather Medicare and Health Insurance cards prior to starting the form.
+        - 1 participant mentioned feeling "catfished" or like a "bait and switch" occurred at this point in the form, and went back to the Introduction page to verify that health insurance information hadn't been asked.
+    - Notable edge case: 1 participant was confused about whether they needed the Veteran's health insurance information, or just applicants'.
 
-**Finding 3:**   Participants struggled with terms to designate the person filling out the application ("Signer"), the Veteran ("Sponsor"), and their dependents ("Applicants"). This confusion resulted in some duplicative and incorrect data entry in the Signer, Sponsor and Applicant sections of the CHAPMVA application, which may result in applications being delayed or denied.
+    > The concern, the confusion, the whatever I have is, apply for CHAMPVA benefits, and you were looking at 10-10d, right? So here it all is, nowhere in this form does it talk about Medicare. Right? Here's all this stuff. And then all of a sudden, to continue now step 4 of 6. We're bringing in Medicare information. Wait a minute, you didn't inform me of that. I didn't know.
+    
+    > So I would have to go look that [Medicare/Health Insurance information] up, find it, or something like that, and especially if it's new to me. I might have to log into something to get that number. So yeah, I would need to save and continue later. (P8)
+    
+    > I assume this is gonna time out at some point in real life. So it would be really bad for someone to lose all their information, but not be told when it's gonna time out. So if that is true. Hopefully, they can tell people upfront when it will time out or put a warning sign that comes up. Because that could create some real frustrations. (P13)
+
+- **ADD INTRO HERE**9 of 18 users said they would click on the [link](https://www.va.gov/family-and-caregiver-benefits/health-and-disability/champva/#supporting-documents-for-your-) on the introduction page to verify their assumptions about required supporting documents, and to make a plan to gather everything before starting the application.
+
+    > _I would read the whole thing 1st to see, to give me an over[view] of what I'm gonna be looking to do, and I can always come back to each page as I go. Like number one, I'll hit ["Find out if you're eligible,"](https://www.va.gov/family-and-caregiver-benefits/health-and-disability/champva/) read all that, and I can go back to find number 2, read all it, and then go back down where it said find out which documents I'll need to apply._ (P21)
+    
+    > _So in advance I could get all the paperwork that I needed, or documents or information, and then that way, when I went to apply. It would be like 1, 2, 3, you know. I like to have everything in front of me rather than go through the form and get part way through and see._ (P14)
+
+**Finding 3:** Participants struggled with terms to designate the person filling out the application ("Signer"), the Veteran ("Sponsor"), and their dependents ("Applicants"). This confusion resulted in some duplicative and incorrect data entry in the Signer, Sponsor and Applicant sections of the CHAMPVA application, which may result in applications being delayed or denied.
+
+[Insert link to flow or high-level photo of the flow]
+
+- 11 of 18 participants hesitated on the [**Signer**] section, not comprehending the question asking them to self-identify as a dependent, Veteran, or third-party representative filling out the form.
+    - 2 participants said they use their spouse’s VA.gov account and would default to self-selecting “Veteran,” and then proceeded to get confused by the information required in the Sponsor section.
+    - Another participant said they wanted more context on the Signer designation, such as the ability to select who you were applying for, rather than self-identifying as a Signer-type.
+
+    > I'm applying on behalf of my spouse and a child. I don't see a box that accurately describes that. The middle box says I'm a veteran applying benefits from my spouse or dependents. And okay. I'd probably want to go find out what they wanted, because a lot of these things could get completely screwed up if you check the wrong box. (P7)
+    
+    > I'm not a veteran, so I don't see one that's for me and a dependent …hopefully, when it's live, it can be more clear on that cause I wouldn't know what to do if I had a child, and which that would be a phone call to the CHAMPVA to try to get that answer, or ChatGpt. (P13)
+
+- 11 of 18 participants had issues completing the [**Sponsor**] section, either confused by the form asking them to provide their information twice in a row (Veterans), or not understanding what a Sponsor meant in relation to applicants (Dependents). Even participants who understood that a Sponsor was a Veteran were confused by the Signer/Sponsor/Applicant sections being close together, making the form appear to ask for the same information two or even three times.
+    - All 11 participants who struggled with the Sponsor section completed it as thought it was for a dependent/applicant, not the Veteran.
+    - 8 of the 11 participants who struggled with this section were Veterans, for whom the Sponsor section was prefilled based on their answers in the Signer section of the form.
+
+    > _I have no idea if the information I just put in there was wrong or not. Just like reading this. I enter the sponsor's name. Wouldn't that be me? The sponsor? I would be the sponsor for my husband, but all the information I just filled in was for me, and I don't know if I should have put his information in there._ (P6)
+    
+    > _So it says sponsor's name and date of birth...oh, I may have misread the original where I was putting in the original information. I thought that was the… Is there any way to go back?_ (P19)
+
+- 6 of 18 participants continued to struggle with the Applicant section, unclear who an Applicant was in relation to CHAMPVA benefits.
+
+    > _In the beginning it asked for my information, and then they asked me, for the sponsor was just the same person as myself, so If I'm not mistaken. The sponsor and myself are the same person. But then this is applicant information, the applicant would be … oh, am I the applicant?_ (P18)
+    
+    > _I think it's for me, cause it says applicant. But I guess it's confusing, because I already put my information a couple of times so. And I was doing it for myself and one other person. So I guess that part was confusing at the beginning. Then, so okay, so makes sense for me to put it twice, but if if I'm applying, I'm the applicant, I would be putting in my information._ (P1)
 
 **Finding 4:**   Many participants expresssed confusion about the Medicare (9 of 18) and health insurance (9 of 18) sections of the 10-7959c Other Health Insurance (OHI) subform.
 
-
+**Note: Complete finding**
 
 **Finding 5:**   Participants had expectations about the submission and post-submission application process that would make them feel more confident their application was received and being processed. 
 
+**Note: Complete finding**
 
 ---
 
 ## **Additional Insights**
-*Include insights that do not represent patterns but are still valuable.*  
-> **TIP:** These could be powerful user comments or unexpected issues worth noting
 
+**1.** School-aged CHAMPVA beneficiaries are required to re-submit school verification documents in between semesters to retain CHAMPVA benefits, which is a tedious task and may result in a lapse of coverage. 
+
+**2.** Participants had expectations about the submission and post-submission application process that would make them feel more confident their application was received and being processed.
+
+**Additional Finding 1:** School-aged CHAMPVA beneficiaries are required to re-submit school verification documents in between semesters to retain CHAMPVA benefits, which is a tedious task and may result in a lapse of coverage. 
+
+- 1 participant mentioned that lapses in CHAMPVA coverage were not announced, and it was the responsibility of the beneficiaries to check if coverage lapses between semesters at school, resulting in surprise copays or uncovered medical bills.
+
+    > My daughter…she goes to school, right? So she’s always cut off [from CHAMPVA benefits]. The fall semester runs from August all the way through December, and then there’s a gap period from mid-December til mid-January, when the VA sometimes would cut her off from benefits, because technically she’s not in school. So she would have to send in another recertifying form [10-7959c]. She always has [health issues] and was constantly having to go [to the doctor]...repeatedly. There were times where I would need to find out: do they [CHAMPVA] still have her, you know, insured or not? And so we’d have to call the 1-800 number to find out if she was still covered, and they would tell us. But I’ve never been able to check [if we’re still eligible]. Honestly, there’s very limited information that you can get regarding your CHAMPVA benefits as far as eligibility, finding out if you’re still eligible and still covered online. (P15)
+    
+    > We’ve had to do this multiple times. Every year, we have to do it, and it’s always a challenge with my son’s college. - P12
+
+- Another participant mentioned a workaround to communicating with the school, which was utilizing a third party enrollment verification system through Publisher’s Clearinghouse.
+
+    > [Pull quote]
+
+**Additional Finding 2:** Participants had expectations about the submission and post-submission application process that would make them feel more confident their application was received and being processed.
+
+**COMPLETE THIS ADDITIONAL FINDING**
 
 ## Recommendations
 
-*Summarize actionable recommendations based on findings.*  
+**1.** **Inform the users about the CHAMPVA program:** Include more information on the form introduction page about who qualifies for the program and what it is used for. Adding the form names to the headers can also increase awareness and understanding of what is the purpose of VA form 1010d and the 10-7959c.
+- _Supporting evidence: 6 of 18 users specifically requested tweaks to the overall content of the form to make submitting the CHAMPVA application easier._
 
-1. **Recommendation:** [Insert action]  
-   - _Supporting evidence: [Insert data]_  
-2. **Recommendation:** [Insert action]  
-   - _Supporting evidence: [Insert data]_
+**2.** **Help users feel more prepared to complete the form:** Add more details about the types of supporting documents needed before entering the form. Include explicit information about submitting school certification and those requirements. Acknowledge the need to submit Medicare cards and/or health insurance cards at the beginning of the form and during the Medicare and health insurance questions. 
+   - _Supporting evidence: On the Introduction page, users struggled to fully understand the breadth of information and supporting documents required to complete the CHAMPVA application._
+   - _Of the 5 participants who saw the School Enrollment portion of the Applicant loop, 4 said they would have to stop the form to call their dependents' school to request an enrollment letter._
+   - _12 of 18 participants did not recall if health insurance information was mentioned on the Introduction page, when they reached the Other Health Insurance subsection of the application._
+     
+**3.** **Reduce confusion of each role type involved in the form:** Update the form content to clarify in plain language who the signer, sponsor and applicant is. Users were more likely to understand the term “Veteran” rather than “sponsor”.  
+   - _Supporting evidence: 11 of 18 participants hesitated on the Signer section, not understanding the question asking them to self-identify as a dependent, Veteran, or third-party representative._
+
+**4.** **Relieve unnecessary burden and confusion for each role:** Ask for contact info for each one of the roles (signer, sponsor and applicant(s)) involved in the form. Update signer form flow to reduce repetitive and possibly confusing form entries. We believe moving the signer questions to the end of the form may decrease the amount of similar form fields such as address and phone number needed.
+   - _Supporting evidence: 11 of 18 participants had issues completing the Sponsor section, either confused by the form asking them to provide their information twice in a row (Veterans), or not understanding what a Sponsor meant in relation to applicants (Dependents). Even participants who understood that a Sponsor was a Veteran were confused by the Signer/Sponsor/Applicant sections being close together, making the form appear to ask for the same information two or even three times._
+   - _6 of 18 participants continued to struggle with the Applicant section, unclear who an Applicant was in relation to CHAMPVA benefits._
+
+**5.** **Reduce confusion surrounding the other health insurance section and better prepare users to provide this information:** Consider adding more context on why they are being asked about Medicare and other health insurance, which person  in the form this pertains to (applicants, not the sponsor) and how CHAMPVA works with government owned and private health insurances. It is recommended to mention Medicare Part D earlier on the in Medicare flow to better prepare applicants to have that information ready as well and alleviate uncertainty on if it is needed. 
+
+Consider using similar user flows for both Medicare and Other Health Insurances, specifically where the form asks which applicant is enrolled in which plan(s).
+
+We recommend adding more context about health insurance, such as the termination date and the plan type, to encourage users to enter as much accurate information as possible to ensure timely processing of their application. 
+   - _Supporting evidence: **[INSERT MISSING EVIDENCE]**
+
+**6.** **Ease the burden involved with obtaining a school certification letter:** Many other VA benefits (Education benefits) require proof of school enrollment, but from the perspective of this study's participants, it seems that these requirements don’t align CHAMPVA’s school certification requirements and may be more difficult to obtain. To help with user burden and prevent users from having to stop the form until they receive the school certification, we recommend using similar requirements and documentation as the Education benefits program does.
+   - _Supporting evidence: 4 out of 11 participants mentioned that they would either have to pause the form to obtain the school certification._
+   - _3 of 11 participants stated that it would cause significant friction and delay with completing the CHAMPVA application because the school certification is not something they can obtain easily and quickly._
+   - _1 participant mentioned having to submit several school certification letters for the same university in order to maintain her dependent CHAMPVA status in between semesters._
+     
+### A11y Recommendations
+
+**1. Reduce redundant name, address and contact information questions to remove friction with screen readers:** Having redundant questions can add confusion to a person only listening to the headers on the page. The assumption is that the user needs to fill out the same information multiple times in the form. This would also help sighted users who had confusion about these sections of the form as well. 
+
+**2. Reduce keyboard and screen reader users from losing their place when interacting with an object:** It was noted in AT user test sessions that when a screen reader user selects one of the radio buttons on the initial signer question that it moves focus to another area on the screen causing the user to lose their place. It is recommended to perform an audit with a screen reader to check for these problems and fix them within the frontend code.
+
 
 ## Product User and Business Outcomes
 
@@ -241,6 +317,7 @@ Crucially, the confusion about required information and supporting documents on 
 
 *Identify gaps in the current study and areas requiring additional investigation––such as demographics that were not included in this study.* 
 
+We recommended to conduct some more research with the CHAMPVA partners to gain more understanding of their school certification process. 
 
 ## Appendix
 [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/10-10D-OHI-Merge-Product-Outline.md)
