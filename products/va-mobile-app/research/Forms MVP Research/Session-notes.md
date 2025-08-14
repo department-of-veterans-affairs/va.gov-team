@@ -590,4 +590,87 @@ Thought the process of submitting the form was easy enough
 
 Would’ve been annoyed if she had had to type a lot for the statement section
 
+## P9
+
+### per designer:
+
+iOS/Chrome (probably?)
+
+Has filled out Identity transitions forms on mobile, had some difficulties with verifying identity using mobile esp. with managing documents
+
+Started using app recently, right before the study when they were asked to download the prototype
+
+Has used video chat with the VA via one of the other apps
+
+Expressed that they weren’t the most tech literate, had some trouble with iOS features—good context
+
+Would expect to find Forms in Claims or “Claims (information)”
+
+Pinched to zoom to find “continue” on GH page, didn’t need to zoom in for WebView form
+
+Did appear to have default type size increased though and it caused some layout issue in the WebView (arrow tag w/ blue background)
+
+Increase type sized also caused some issues with layout of native components (date picker) where the component was outside of or overlapping the WebView panel, a little funky
+
+Prompted to hit “done” to leave WebView said, “Ahhhhhh” when panel closed, an “Ah ha!” moment
+
+Continued missed with toast covering important UI, need to find a way to make these toasts dismiss themselves—shouldn’t be dependent on pressing “dismiss” for toast to disappear, too heavy handed as is.
+
+No issues with entering data when prompted, maybe this where an unmoderated study would help though—can users complete these tasks without moderation?
+
+Submit application button layout is broken based on increased type size
+
+Per usual, scrolled down to “go back to app”, closing the WebView has been the #1 challenge for users across this study
+
+“Does not indicate that it’s been submitted”, “….something else that I need to do” “[If it’s in progress isn’t not submitted.]”
+
+“Done, follow up…” would be preferred status tags for submitted forms
+
+Was also in a “busy” setting, at home with TV(?) on and people in the background, good context for simulating IRL situation
+
+Had some more issues with navigating iOS navigation between app, good to know for interactions where we might be sending users to browsers or asking them to switch between apps
+
+“Convoluting!” V candid feedback, also noted that P tries hard to keep up with changing technology (edited) 
+
+### per engineer:
+
+- Done button strikes again
+  
+- There is still desktop specific links that we can probably/suggest to remove(ex. Print at the confirmation page)
+  
+- The codespaces page keeps coming up as a painpoint - just be clear this only happens during user research when we need to open the vet-website in the webview. They wouldnt be seeing it at all if this
+  goes live
+
+### per product manager: 
+
+#### General
+
+Had never used the app before; has used the video system for the exercise classes
+
+Expected see Forms in the Information/ Guidance section (?)
+
+#### Forms Webview/ Data Entry
+
+Found the introductory/ explanatory content “pretty clear”
+
+Did not find it difficult to navigate or understand
+
+#### Forms Page
+
+Knew to view in-progress form in the Active tab
+
+Toast menu covered Forms options and statuses; knew to scroll past it and re-select them
+
+For Country selection, was a bit confused, but seemingly was due to wanting to see the United States option upfront due to the prompt - had no difficulty selecting it once she was told she could select and look for the option in the dropdown
+
+Didn’t know how to get back to “Forms”
+
+For checking back on the form, expected to look at the status to find it, would expect to see “Done” or “Follow up” - some sort of action item if not Done
+Overall
+
+Mentioned tech savviness is difficult to come by for more mature individuals, but she has been able to adapt
+
+### per researcher:
+
+## P10
 
