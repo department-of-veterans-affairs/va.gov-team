@@ -118,6 +118,7 @@ synthesis_tools_used:
 - [Key Performance Indicators](#user-content-key-performance-indicators)
 - [Next Steps](#user-content-next-steps)
 - [Further research needed](#user-content-further-research-needed)
+- [Appendix](#user-content-appendix)
 - [Who we talked to](#user-content-who-we-talked-to)
 
 ## Research Goals
@@ -129,8 +130,6 @@ synthesis_tools_used:
 - What outcomes are we aiming to achieve for Veterans and stakeholders?  
 
 [Example Research Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-goals) 
-
-
 
 ## Research Questions
 
@@ -200,7 +199,7 @@ Brief description
 
 ---
 
-## **Additional Insights**
+## Additional Insights
 *Include insights that do not represent patterns but are still valuable.*  
 > **TIP:** These could be powerful user comments or unexpected issues worth noting
 
