@@ -140,11 +140,11 @@ _Who is your intended audience for this research (e.g. Veterans, caregivers, VSO
 
 ### List the ideal completed sessions and total number and type (Veterans, caregivers, etc.) of participants for this study:
 
-- `Veterans:` **4**
+- `Veterans:` **5**
 - `Caregivers:` **0**
 - `Dependents:` **0**
-- `Total:` **4**
-- `Ideal completed sessions:` **2**
+- `Total:` **5**
+- `Ideal completed sessions:` **3**
 
 ### Primary criteria (must-haves)
 
