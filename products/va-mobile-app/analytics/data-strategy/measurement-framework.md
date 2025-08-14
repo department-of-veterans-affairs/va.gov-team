@@ -13,6 +13,7 @@ The data can tell 2 stories: A story about the user’s experience **(experienti
 * Sending a secure message
 * Updating contact information
 * Requesting a prescription refill
+* Submit evidence
 
 **Characteristics:**
 * Requires user effort and decision-making
@@ -23,10 +24,11 @@ We have organized user tasks by user flow. User tasks and associated metrics for
 
 ### Non-tasks
 **Non-tasks** are passive, informational, or exploratory interactions not necessarily tied to a concrete goal. Examples:
-* Viewing a push notification
+* Receiving a push notification
 * Browsing the home screen
 * Viewing disability rating
-* Viewing claim status 
+* Viewing claim status
+* Viewing appointments
 
 **Characteristics:**
 * May not have a defined end state
