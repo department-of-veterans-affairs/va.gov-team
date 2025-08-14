@@ -2,7 +2,7 @@
 
 **Last updated: August 2025**
 
-- [User flow]
+- [User flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1755179297520/d22e6c2efce116cd1e8c040338e97e26b98d87da?sender=u36b374887f74c9a3de2d0750)
 - [Figma files](https://www.figma.com/design/eMR2XSTGnWQgF2YEphWK8O/Profile---Connected-Apps?node-id=298-11669&t=j1B5x3IF0Ay0GHyu-1)
 - Test Rail QA
 
