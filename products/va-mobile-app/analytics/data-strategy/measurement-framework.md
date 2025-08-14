@@ -105,6 +105,58 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 
 </details>
 
+<details>
+<summary><h3>Rx refill</h3></summary> 
+ 
+|      | Rx refill |
+|--------------------|-------------|
+| **User goal**      | *"I need to refill my prescription."* |
+| **What should we measure?** | Ease of Prescription Refills <br> *“It was easy to get my prescription refilled.”* |
+| **Important metrics to track**| -TBD<br>-TBD<br>-TBD<br> |
+| **How these metrics can inform decision making** | TBD |
+| **Unhelpful metrics** | -TBD<br>-TBD<br>-TBD<br> |
+
+</details>
+
+<details>
+<summary><h3>Secure messaging</h3></summary> 
+ 
+|      | Secure messaging |
+|--------------------|-------------|
+| **User goal**      | *"I want to securely message my provider."* |
+| **What should we measure?** | Ease of secure messaging + timely provider response <br> *“I understood what I needed to do next to manage my whole health.”* |
+| **Important metrics to track**| -TBD<br>-TBD<br>-TBD<br> |
+| **How these metrics can inform decision making** | TBD |
+| **Unhelpful metrics** | -TBD<br>-TBD<br>-TBD<br> |
+
+</details>
+
+<details>
+<summary><h3>Medical records</h3></summary> 
+ 
+|      | Medical records |
+|--------------------|-------------|
+| **User goal**      | *"I want to view my medical records, labs, and test results."* |
+| **What should we measure?** | Accurate, up-to-date medical records <br> *“My recent labs and medical records are accessible and up-to-date.”"* |
+| **Important metrics to track**| -TBD<br>-TBD<br>-TBD<br> |
+| **How these metrics can inform decision making** | TBD |
+| **Unhelpful metrics** | -TBD<br>-TBD<br>-TBD<br> |
+
+</details>
+
+<details>
+<summary><h3>Travel pays</h3></summary> 
+ 
+|      | Travel pay |
+|--------------------|-------------|
+| **User goal**      | *"I want to file for beneficiary travel reimbursement after my appointment."* |
+| **What should we measure?** | Ease of access and BT claims filing <br> *“It was clear where to file for travel pay via the app. Filing was easy."* |
+| **Important metrics to track**| -TBD<br>-TBD<br>-TBD<br> |
+| **How these metrics can inform decision making** | TBD |
+| **Unhelpful metrics** | -TBD<br>-TBD<br>-TBD<br> |
+
+</details>
+
 ## Platform metrics
 
 **Platform metrics** center around the performance, stability, and operational health of the underlying platform or system that delivers the experience. They are **system-centered** and measured from the technical perspective. 
