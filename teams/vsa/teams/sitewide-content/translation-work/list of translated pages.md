@@ -1,10 +1,10 @@
 ## List of translated pages on VA.gov
 | **Number** | **Page** | **Language** | **Date published** | **Date archived** |
 | --- | --- | --- | --- | --- |
-| 1 | [COVID-19 vaccines at VA](https://www.va.gov/health-care/covid-19-vaccine-esp/) | Spanish | |
-| 2 | [COVID-19 vaccines at VA](https://www.va.gov/health-care/covid-19-vaccine-tag/) | Tagalog | |
-| 3 | [About COVID-19 vaccines](https://www.va.gov/health-care/covid-19-vaccine-esp/about-covid-19-vaccine-esp/) | Spanish | |
-| 4 | [About COVID-19 vaccines](https://www.va.gov/health-care/covid-19-vaccine-esp/about-covid-19-vaccine-tag/) | Tagalog | |
+| 1 | [COVID-19 vaccines at VA](https://www.va.gov/health-care/covid-19-vaccine-esp/) | Spanish | xx/xx/xx | Archived |
+| 2 | [COVID-19 vaccines at VA](https://www.va.gov/health-care/covid-19-vaccine-tag/) | Tagalog | xx/xx/xx | Archived |
+| 3 | [About COVID-19 vaccines](https://www.va.gov/health-care/covid-19-vaccine-esp/about-covid-19-vaccine-esp/) | Spanish | xx/xx/xx | Archived |
+| 4 | [About COVID-19 vaccines](https://www.va.gov/health-care/covid-19-vaccine-esp/about-covid-19-vaccine-tag/) | Tagalog | xx/xx/xx | Archived |
 | 5 | [How to get your COVID-19 vaccine records online](https://www.va.gov/health-care/covid-19-vaccine-esp/vaccine-record-esp/) | Spanish | |
 | 6 | [How to get your COVID-19 vaccine records online](https://www.va.gov/health-care/covid-19-vaccine-esp/vaccine-record-tag/) | Tagalog | |
 | 7 | [The PACT Act and your VA benefits](https://www.va.gov/resources/the-pact-act-and-your-va-benefits-esp/) | Spanish | |

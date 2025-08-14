@@ -124,11 +124,7 @@ Where will you be holding the research sessions? Be sure to include whether this
 
 ## Research materials 📔
 
-**For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html)**
-
-- Link to email with instructions: Please use standard Perigean language
-- No prototypes will be used in this study.
-- [Link to conversation guide (in-progress)]().
+**None**
 
 ## Recruitment 🎯
 
@@ -144,11 +140,11 @@ _Who is your intended audience for this research (e.g. Veterans, caregivers, VSO
 
 ### List the ideal completed sessions and total number and type (Veterans, caregivers, etc.) of participants for this study:
 
-- `Veterans:` **4**
+- `Veterans:` **5**
 - `Caregivers:` **0**
 - `Dependents:` **0**
-- `Total:` **4**
-- `Ideal completed sessions:` **2**
+- `Total:` **5**
+- `Ideal completed sessions:` **3**
 
 ### Primary criteria (must-haves)
 
@@ -168,7 +164,7 @@ _What criteria would strengthen your results?_
 
 ### Optional Kick-off Call with Perigean
 
-- `Suggested dates and times:` **Sometime during the week of August 4, 2925.**
+- `Suggested dates and times:` **August 18th 9-11:30ET or 1-2:30ET, August 19th 10:30-4:30ET, August 20th 9-3ET.**
 
 ### Prepare
 
@@ -179,7 +175,7 @@ _What criteria would strengthen your results?_
 
 ### Research sessions
 
-- `Planned dates of research:` **08-10/18-18/25**
+- `Planned dates of research:` **All cohorts: 08/11/25 to 11/13/25**, **First cohort: 8/21/25 to 8/25/25**
 
 ### Length of sessions
 
@@ -188,7 +184,7 @@ _What criteria would strengthen your results?_
 ### Availability
 
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**.
-- Suggested times: 08/19/25: 12 - 3 ET; 08/20/25: 10 - 2 ET; 08/21/25: 10 - 1 ET.
+- Suggested times: 08/21/25: 9 - 2 ET; 08/22/25: 9 - 2 ET; 08/25/25: 11 - 3:30 ET.
 
 ## Team Roles 🕵️👩‍💻👩‍🔬
 

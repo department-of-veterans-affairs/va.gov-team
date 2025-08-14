@@ -5,7 +5,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Accessibility Digital Experience (ADE)**
 
-**Date:** 08/12/2025
+**Date:** 08/14/2025
 
 **Contacts:** Cindy Merrill
 
@@ -670,7 +670,7 @@ This research does not include the perspectives of the following marginalized Ve
 * Expat (living abroad)
 * Beginner AT user
 
-![An accessible version of the underserved groups table](./images/VA-recruitment-checker.png)
+![Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers](./images/VA-recruitment-checker.png)
 
 <details>
   <summary>A more accessible version of the table in the above image</summary>

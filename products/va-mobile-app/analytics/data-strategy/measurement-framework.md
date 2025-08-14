@@ -13,6 +13,7 @@ The data can tell 2 stories: A story about the user’s experience **(experienti
 * Sending a secure message
 * Updating contact information
 * Requesting a prescription refill
+* Submit evidence
 
 **Characteristics:**
 * Requires user effort and decision-making
@@ -23,10 +24,11 @@ We have organized user tasks by user flow. User tasks and associated metrics for
 
 ### Non-tasks
 **Non-tasks** are passive, informational, or exploratory interactions not necessarily tied to a concrete goal. Examples:
-* Viewing a push notification
+* Receiving a push notification
 * Browsing the home screen
 * Viewing disability rating
-* Viewing claim status 
+* Viewing claim status
+* Viewing appointments
 
 **Characteristics:**
 * May not have a defined end state
@@ -48,6 +50,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 | **User goal**      | *"I need convenient access to view and manage my VA health benefits on-the-go."* |
 | **What should we measure?** | Successful login, the first time<br> *"I was easily able to login the first time."* |
 | **Helpful metrics**| - Login success rate<br> - Time to login<br> - Recovery rate<br>- Most common logout reasons (e.g. due to connectivity issues, app updates)<br>- Most common login failure reasons<br>- Active users<br>- New users<br>- Logins started event count<br>- Logins completed event count<br>- Login completed webview steps event count<br>- Logins canceled login event count<br>- Authenticated users<br>- Higher frequency reporting intervals than monthly (e.g. real-time data for login success or time to login)<br>- Qualitative trends in login issues from Feedback Hub channels<br>- Future: Login survey |
+| **How it informs decision making** | Understand login points of friction and identify opportunities to make it easier for users to use the app |
 | **Unhelpful metrics** | - Measuring login success on a monthly basis. Consider higher frequency reporting intervals than monthly (e.g. weekly for login success or time to login) |
 
 </details>
