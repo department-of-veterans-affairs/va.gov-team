@@ -132,6 +132,10 @@ SuS link was easy to access for this user from the chat, results were captured i
 
 ## P2
 
+This user cancelled.
+
+## P3
+
 ### Per designer
 
 Forms UXR Session 081225 1000 PT
@@ -431,6 +435,6 @@ Suggested color coding statuses - “yellow to be in a holding stage, green is w
 
 Pending review of recording
 
-## P6
+## P7
 
 
