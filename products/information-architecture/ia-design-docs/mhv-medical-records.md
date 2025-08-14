@@ -6,12 +6,18 @@ Last updated 9/4/2024
 **Team:** My HealtheVet - Medical Records
 
 **On this page:**
-- [Medical Records launch plan](#launch-plan)
+- [Product updates](#updates)
 - [Page structure](#map)
 - [URLs and breadcrumbs](#url)
 - [Secondary nav](#nav)
 - [Meeting notes and open items](#notes)
 - [Archived information](#archived)
+
+## <a name="updates"></a>Product updates<br>
+
+**August 2025** - Veteran feedback and research has led us to understand that users do not expect images from some types of radiology tests to be nested under "Lab and test results." Many Veterans are struggling to find their images. The team has decided to move "images" out from under the Lab & Test results section into its own domain, which will be accessible from the Medical Records landing page and referred to as "Medical imaging results." This is going through PO sync in August 2025 - TBD on launch date. 
+
+**June 2025** - Medical records on My HealtheVet Classic were sunset, and all VistA facility users now must access their Medical Records via My HealtheVet on VA.gov. This is a significant change from how medical records were previously structured in the legacy site (could only be downloaded via a very large Blue Button download report), and now we have sub-divided records into multiple subdomains (see URLs and breadcrumbs section below). 
 
 ## <a name="map"></a>Page structure<br>
 Most up-to-date [sitemap can be found here](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1705462711175/25f9ef7b28ee707498d29d4a4d168304a33c0527?sender=uf94a77a19aaf687331c09367)
