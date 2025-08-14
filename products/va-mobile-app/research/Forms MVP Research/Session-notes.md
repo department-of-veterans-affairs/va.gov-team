@@ -437,4 +437,53 @@ Pending review of recording
 
 ## P7
 
+### per designer:
 
+iOS / Safari
+
+Recently did travel pay reimbursement with the app, “Super easy, it was awesome…”
+
+Online check-in “phenomenal”
+
+See video for feedback about app overall, P provided lots of qual data
+
+Might want to review this for offline mode, systems resilience types of feedback
+
+Would expect to find Forms in Benefits section
+
+Screener radio options continue to be a challenge for accessing this form, but that might not be a bad ting for reducing overall VA paperwork intake though.
+
+“Finish this later” might be confusing for users
+
+“Done, I don’t know.” Was confused about how to leave the WebView
+
+P noted that they were confused about what type of form to use when presented with options
+
+How much control do users want vs. how much control is VA able to give them when selecting a form?
+
+Didn’t note any usability issues when asked, did not that having parity with mobile and desktop for content and/or copy was helpful because it made things recognizable.
+
+“I would click on complete”, would look for a submitted form in “complete”, was confused about what “In progress” status meant
+
+“I just submitted it…in progress is kind of vague, that would be confusing for me...”
+
+Would expect to find submitted forms in “Complete”
+
+	•		•	Positive sentiment overall when filling out exit survey
+ 
+9:28
+For retro on this study, could we do a section on Test Flight—I want to make sure that the lift for testing in browser is really worth it for users.
+
+### per engineer: 
+
+Done” and “finish the application later” is a bit crossover between mobile and web that is causing a weird user experience. This is like the 2-3rd user who has tried using the “finish the application later” to close the webview.
+
+“In progress” status was not detail enough - why is in progress when I already submitted.
+
+Expected forms to be in the benefits tabs. Depending how often people do forms it might be worth moving the button higher up on the HomeScreen
+
+The update version that showed up on the HomeScreen I believe is likely due to the hotfix(login issues) that just came out. Users can ignore that right now and just use whats installed through TestFlight.
+
+### per researcher:
+
+Pending recording review.
