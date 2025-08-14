@@ -82,7 +82,7 @@ Feature Toggle = Enabled; User saved form (different page) → Toggle Disabled; 
 
 ## Step 3: Production rollout
 
-Testing will occur in staging, followed by mod-prod testing, then full release.
+Testing will occur in staging, followed by mod-prod testing if possible, then full release.
 
 **Target release date:** September 1
 
@@ -120,6 +120,7 @@ If issues arise in production:
 ---
 
 ### Phase I: Moderated Production Testing (UAT)
+We would like to have a moderated production test user click through this flow if the timing allows. 
 **Planning:**
 - **Timeline:** After August 22 Staging Review, before September 1 release.
 - **Users:** 1 mod-prod tester.
@@ -216,7 +217,7 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 ## Production release plan
 - Deploy behind the disability_526_form4142_use_2024_template, disability_526_form4142_validate_schema, and disability_526_form4142_use_2024_frontend toggles.
 - Conduct staging QA including returning-user flows, new-user flows, and redirect behavior.
-- Enable toggles for a single mod-prod UAT user to confirm alert behavior and form submission success.
+- Enable toggles for a single mod-prod test user to confirm alert behavior and form submission success.
 - On approval, enable toggles for 100% of users in production.
 - Monitor Datadog dashboards for error spikes and submission anomalies for 48 hours post-release.
 
