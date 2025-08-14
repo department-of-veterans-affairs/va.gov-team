@@ -191,7 +191,9 @@ synthesis_tools_used:
 ### Finding 1
 Brief description  
 - _Supporting data: Quote [add context]_  
-- _Supporting data: ![text](link - add image to github folder and link here with .png)_  
+- _Supporting data: ![description of the image for screen readers (image)](link - add image to github folder and link here with .png)_  
+
+> **TIP:** For details on how to write descriptive links that are accessible to assistive technology users, see Platform documentation on [How to create accessible GitHub Markdown files](https://depo-platform-documentation.scrollhelp.site/research-design/how-to-create-accessible-github-markdown-files).
 
 ### Finding 2  
 Brief description  
@@ -368,4 +370,5 @@ _List all groups in red from the spreadsheet_
 * Group 3
 
 _[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+
+![Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers (image)](link - add image to github folder and link here with .png)
