@@ -60,6 +60,11 @@ Other helpful channels
   - The issue and PR are now linked across repositories
 - Don't hardcode text strings, use the [translations](https://github.com/department-of-veterans-affairs/va-mobile-app/blob/develop/VAMobile/src/translations/en/common.json) file.
   - i.e. rather than using `"Clears all applied filters and sorting options"` (or even `t("Clears all applied filters and sorting options")`) use `t('travelPay.statusList.clearFilters.text')`
+- When working in `vets-api` mobile module:
+  - Any time you change any of the yaml files in the vets-api mobile docs (/modules/mobile/docs/schemas, /params, /examples, or the openapi.yaml) remember to run the `generate_static_docs` script to update the openapi.json and related docs. 
+  - The easiest way to run it is to cd into /modules/mobile/docs and run `sh generate_static_docs.sh` in the terminal.
+  - To verify that your changes are looking correct you can open the index.html file in your browser locally, find the endpoint you're working on, and view the swagger docs to make sure they're what you're expecting.
+- When working in the FE, the [Mobile Swagger docs](https://department-of-veterans-affairs.github.io/va-mobile-app/api/) are your friend for verifying API responses match the mock data in the Demo Mode mocks.
 
 ## Code
 
