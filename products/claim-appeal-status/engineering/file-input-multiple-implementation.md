@@ -1,4 +1,4 @@
-# VA File Input Multiple Implementation
+# VA File Input Multiple User Stories
 
 ## Links
 1. [Storybook](https://design.va.gov/storybook/?path=/docs/uswds-va-file-input-multiple--docs)
@@ -6,115 +6,95 @@
 3. [File Input Single Web component Implementation](https://github.com/department-of-veterans-affairs/component-library/blob/main/packages/web-components/src/components/va-file-input/va-file-input.tsx)
 
 ## User Stories
-See screenshots at the end of this file.
-
 As a user,
 
+### Display and Adding Files
 1. I see a label with a hint with the allowed file types and size
-    - Label: "Upload additional evidence" 
-    - Hint: "You can upload a .pdf, .gif, .jpg, .jpeg, .bmp, or .txt file. Your file should be no larger than 50 MB (non-PDF) or 150 MB (PDF only)."
+    - Label: "Upload additional evidence"
+    - Hint: "You can upload a .pdf, .gif, .jpg, .jpeg, .bmp, or .txt file. Your file should be no larger than 50 MB (non-PDF) or 99 MB (PDF only)."
 1. I see the file input with instructions on how to add a file
     - Instructions: "Drag a file here or choose from folder"
 1. I can add multiple files to the file input by clicking the link
     - Link label: "Choose from folder"
     - Note: Cannot add multiple files at once
 1. I can add multiple files to the file input by dragging the files into the file input
+    - Note: Cannot add multiple files at once. If drag multiple will just accept 1.
+
+### File Validation and Error Handling
 1. If I don't add any files and click submit, I will see an error
     - Error: "Please select a file first"
-1. If I add an encrypted file, the component will show a password input
-    - Instructions: "This is an encrypted PDF document. In order for us to be able to view the document, we will need the password to decrypt it."
-    - Label: PDF password (*Required)
-1. If I add an encrypted file without inputting a password, I will see an error
+1. If I add a file after getting the "no files" error, that error will disappear
+1. I am not able to choose from folder an invalid file type
+    - Accepted types: .pdf, .gif, .jpg, .jpeg, .bmp, .txt
+    - A file with no file extension yields the same error
+1. If I try to add a file by dragging that is not one of the valid file types, I will see an error
+    - Error: "This is not a valid file type"
+1. If I try to add a file that is 0B, I will see an error and not be able to submit
+    - Error: "The file you selected is empty. Files must be larger than 0B."
+1. If I try to add a non-pdf that is above 50MB or a pdf that is above 99MB, I will see an error and not be able to submit
+    - Error PDF: "The file you selected is larger than the 99MB maximum file size and could not be added."
+    - Error non-PDF: "The file you selected is larger than the 50MB maximum file size and could not be added."
+1. If I add a file in which the file extension does not match the file format, I will see an error and not be able to submit
+    - Error: "The file extension doesn't match the file format. Please choose a different file."
+1. If I have a file extension mismatch error and I replace the file with a valid one using 'Change File', the error should be cleared
+    - Note: If I happen to change to a file that also triggers an extension mismatch error, the error should be repopulated
+
+### Encrypted PDF Password Handling
+1. If I add an encrypted PDF file, the component will show a password input
+    - Label: File password (*Required)
+1. If I add a non-encrypted PDF file, no password input should appear
+1. If I add an encrypted file without inputting a password and submit, I will see an error
     - Error: "Please provide a password to decrypt this file"
 1. If I add another file while I have an existing validation error, the validation error will persist
 1. If I add a password after getting a no password error, that error will disappear
+1. If I have a password error on an encrypted PDF and I replace it with a non-encrypted file, the password error should be cleared
+1. If I submit a PDF with an invalid password I get an error alert
+    - Heading: "Error uploading [file name]"
+    - Text: "We couldn't unlock your PDF. Save the PDF without a password and try again."
+
+### Document Type Selection and Validation
 1. If I add a file, a select field will be shown requesting the type of document
     - Label: "What type of document is this? (*Required)"
-    - Example types: Birth Certificate, Death Certificate
+    - Example types: Birth Certificate, Death Certificate, Copy of a DD214, Medical records
 1. If I try to submit a file without selecting a type of document, I will see an error
-    - Error: "Please provide a response"   
+    - Error: "Please provide a document type"
 1. If I select a type of document after getting the validation error, that error will disappear
-1. If I add a file in which the file extension does not match the file format, I will see an error
-    - Error: "The file extension doesn’t match the file format. Please choose a different file."
-1. If I try to add a file that is not one of the valid file types (.pdf, .gif, etc), I will see an error
-    - Error: "Please choose a file from one of the accepted types."
-    - Accepted types: [.pdf, .gif, .jpg, .jpeg, .bmp, .txt]
-1. If I try to add a pdf that is above 99MB or a non-pdf that is above 50MB, I will see an error
-    - Note: Code says 99MB max for PDF while the hint says 150MB
-    - Error: "The file you selected is larger than the [99 or 150]MB maximum file size and could not be added."
-1. If I try to add a file that is 0MB, I will see an error
-    - Error: "The file you selected is empty. Files uploaded must be larger than 0B."
-1. If I click Remove, I will be shown a confirm remove modal with confirm or cancel buttons
-    - Heading: "Remove this file?"
-    - Description: "We’ll remove [file name]"
+1. If I have a document type error and I replace the file with a new file, the error should be cleared
+
+### File Removal and Data Retention
+1. If I click Delete, I will be shown a confirm remove modal with confirm or cancel buttons
+    - Heading: "Delete this file?"
+    - Description: "We'll delete the uploaded file [file name]"
     - Confirm Button Text: "Yes, remove this"
     - Cancel Button Text: "No, keep this"
-1. If I delete a file, the other files will retain their correct data 
+1. If I confirm file removal in the modal, the file will be removed
+1. If I cancel file removal in the modal, the file will be kept
+1. If I delete a file, the other files will retain their correct data (document types, passwords)
+1. If I have multiple files with different validation errors and I delete one file, the remaining files should retain their specific error states correctly mapped to their new positions
+
+### Submit Button Functionality and Upload Modal
 1. If I add files that pass all validation errors, I am able to click the submit button
-    - Button Text: "Submit documents for review" 
+    - Button Text: "Submit documents for review"
 1. If I submit files, I will be shown an uploading modal with a submission progress bar
     - Heading: "Uploading files"
-    - Count: "Uploading 1 file..."
+    - Count: "Uploading [N] file(s)..."
     - Text: "Your files are uploading. Please do not close this window."
     - Cancel Button Text: "Cancel"
-1. If I click the "Cancel" button, the modal will close and I will not see a success or failure alert (CAN THIS BE IMPROVED)
-1. If I click the "X" button, the modal will close and then if succesful a success va-alert will be shown (CAN THIS BE IMPROVED)
-1. If I submit a PDF without a valid password I get an error alert
-    - Heading: "Error uploading [file name]"
-    - Text: "We couldn’t unlock your PDF. Save the PDF without a password and try again."
+1. If I click the "Cancel" button, the modal will close and I will not see a success or failure alert
+1. If I click the "X" button, the modal will close and the upload will continue, showing success alert when complete
 1. If I successfully submit files a success va-alert will be shown
-    - Heading: "We received your file upload on June 27, 2025"
-    - Text: "If your uploaded file doesn’t appear in the Documents Filed section on this page, please try refreshing the page."
+    - Heading: "We received your file upload on [date]"
+    - Text: "If your uploaded file doesn't appear in the Documents Filed section on this page, please try refreshing the page."
 1. If I submit a file that has already been successfully submitted, I get an error saying that it has been submitted already
+    - Heading:
+    - Text:
+    - Note: Cannot replicate on localhost
 
-## User Stories that are not yet covered (Add Github issue)
+### Data Submission
+1. If I add files with password and doc type in the "Additional evidence" flow all 3 pieces of data should be submitted for each file (each file has its own request)
+1. If I add files with password and doc type in the "Request for evidence" flow all 3 pieces of data along with the tracked item id (which is found in the url) should be submitted for each file (each file has its own request)
+1. If I change an encrypted PDF file to a non-encrypted file, the password from the encrypted file should not be submitted with the non-encrypted file
+
+## User Stories Not Yet Covered (Add Github issue)
 1. If I submit the same file 2 times in the same Multiple File Input, I get an error message before being able to submit. - [CST] [BUG] Inconsistent duplicate file name validation between simultaneous and sequential uploads [#115523](https://github.com/department-of-veterans-affairs/va.gov-team/issues/115523)
-1. If I submit files A and B and A has already been successfully submitted previously, I get an error message for A saying that it has already been successfully submitted and I get a success message for B. Both are removed from the files listed in the multiple file input. Documents with wrong PDF passwords should remain. - [CST] [BUG] Duplicate Error Alert is Suppressing Success Alert [#115934](https://github.com/department-of-veterans-affairs/va.gov-team/issues/115934)
-
-## User Stories Handled by VaFileInputMultiple component
-- I see a label with a hint with the allowed file types and size  
-  - `VaFileInputMultiple.renderLabelOrHeader()` + `label` / `hint` props (forwarded to each child `<va-file-input>`)
-- I see the file input with instructions on how to add a file  
-  - `<va-file-input>` built-in UI (`uploadMessage` default) and `additionalFileUploadMessage` for rows ≥ 2
-- I can add multiple files to the file input by clicking the link  
-  - `handleChange()` → when `FILE_ADDED` pushes a new empty row
-- I can add multiple files to the file input by dragging the files into the file input  
-  - Child `<va-file-input>` `handleDrop()` drag-and-drop support
-- If I try to add a file that is not one of the valid file types (.pdf, .gif, etc), I will see an error  
-  - Child `<va-file-input>` `accept` prop → `isAcceptedFileType()` sets `internalError`
-- If I click Remove, I will be shown a confirm remove modal with confirm or cancel buttons  
-  - Child `<va-file-input>` `va-modal` opened by `openModal()`
-- If I delete a file, the other files will retain their correct data  
-  - `VaFileInputMultiple.handleChange()` with `FILE_REMOVED` splices only the targeted row
-
-## User Stories that will need to be handled by logic outside VaFileInputMultiple component
-- If I don't add any files and click submit, I will see an error  
-  - Form-level “required” validation before submit
-- If I add an encrypted file, the component will show a password input  
-  - Your wrapper must detect encryption and set `encrypted[index] = true`
-- If I add an encrypted file without inputting a password, I will see an error  
-  - Validate the per-row password field in your form handler
-- If I add another file while I have an existing validation error, the validation error will persist  
-  - Keep `errors[]` in external form state; do not overwrite unchanged entries
-- If I add a password after getting a no-password error, that error will disappear  
-  - Clear the corresponding `errors[index]` when password becomes non-empty
-- If I add a file, a select field will be shown requesting the type of document  
-  - Render `<va-select>` in the slot and manage its state externally
-- If I try to submit a file without selecting a type of document, I will see an error  
-  - Validate the `<va-select>` value on submit
-- If I select a type of document after getting the validation error, that error will disappear  
-  - Remove the error from `errors[index]` when a valid option is chosen
-- If I add a file in which the file extension does not match the file format, I will see an error  
-  - Perform magic-number vs. extension check in wrapper logic
-- If I try to add a pdf that is above 99 MB or a non-pdf that is above 50 MB, I will see an error  
-  - Enforce size thresholds before accepting the file (`maxFileSize` only supports one value)
-- If I try to add a file that is 0 MB, I will see an error  
-  - Check `file.size === 0` in wrapper validation
-- If I add files that pass all validation errors, I am able to click the submit button  
-  - Enable/disable submit in page logic based on `errors[]` and `files[]`
-- If I submit files, I will be shown an uploading modal with a submission progress bar  
-  - Page-level upload workflow & modal component
-- If I submit a PDF without a valid password I get an error alert  
-  - Server response handling + alert display
-- If I successfully submit files a success va-alert will be shown  
-  - Show success `<va-alert>` after server confirms upload
+2. If I submit files A and B and A has already been successfully submitted previously, I get an error message for A saying that it has already been successfully submitted and I get a success message for B. Both are removed from the files listed in the multiple file input. Documents with wrong PDF passwords should remain. - [CST] [BUG] Duplicate Error Alert is Suppressing Success Alert [#115934](https://github.com/department-of-veterans-affairs/va.gov-team/issues/115934)
