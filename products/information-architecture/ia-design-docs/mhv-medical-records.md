@@ -22,8 +22,8 @@ Last updated 9/4/2024
 ## <a name="map"></a>Page structure<br>
 Most up-to-date [sitemap can be found here](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1705462711175/25f9ef7b28ee707498d29d4a4d168304a33c0527?sender=uf94a77a19aaf687331c09367)
 
-We are moving toward launching **lab & test images, download medical records reports, and settings** 
-<img width="952" alt="Screenshot 2024-12-11 at 3 05 09 PM" src="https://github.com/user-attachments/assets/1c2a542e-6c43-4a87-96a8-0dd05e60d3e9" />
+<img width="1154" height="559" alt="Screenshot 2025-08-14 at 10 48 48 AM" src="https://github.com/user-attachments/assets/bc82d838-ba13-4262-b08e-84275cb81321" />
+
 
 ## <a name="url"></a>URLs and breadcrumbs
 
