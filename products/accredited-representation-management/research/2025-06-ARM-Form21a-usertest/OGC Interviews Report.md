@@ -207,7 +207,7 @@ Targeted improvements to communication, notification systems, and user guidance 
     4. Minimize the need for back-and-forth communication between OGC staff and applicants by capturing required information digitally. 
     5. Improve applicant and staff satisfaction with the accreditation process, measured by metrics like processing time, error rates, and user feedback. 
 
-**Key Performance Indicators** 
+**Key Performance Indicators**  
 These KPIs help assess efficiency, system reliability, and user experience improvements resulting from digitizing the accreditation process.  
 
 1. KPI: Average Application Processing Time  
