@@ -66,6 +66,45 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 
 </details>
 
+<details>
+<summary><h3>Veteran status</h3></summary> 
+ 
+|      | Veteran status |
+|--------------------|-------------|
+| **User goal**      | *"I need proof of my Veteran/military status."* |
+| **What should we measure?** | Accurate military status <br> *"I can readily provide proof of my military status.”* |
+| **Important metrics to track**| -TBD<br>-TBD<br>-TBD<br> |
+| **How these metrics can inform decision making** | TBD |
+| **Unhelpful metrics** | -TBD<br>-TBD<br>-TBD<br> |
+
+</details>
+
+<details>
+<summary><h3>Letters</h3></summary> 
+ 
+|      | VA benefits letters |
+|--------------------|-------------|
+| **User goal**      | *"I want to have convenient access to a digital version of (x) so that I am not worried about loss or fraud."* |
+| **What should we measure?** | Convenient access to VA benefit letters<br> * “I can conveniently provide digital proof of (x).”* |
+| **Important metrics to track**| -TBD<br>-TBD<br>-TBD<br> |
+| **How these metrics can inform decision making** | TBD |
+| **Unhelpful metrics** | -TBD<br>-TBD<br>-TBD<br> |
+
+</details>
+
+<details>
+<summary><h3>Appointments</h3></summary> 
+ 
+|      | Appointments |
+|--------------------|-------------|
+| **User goal**      | *"I want to view my appointment(s) to take care of a health concern."* |
+| **What should we measure?** | Useful appointment details<br> *“I know when and where my appointment is."* |
+| **Important metrics to track**| -TBD<br>-TBD<br>-TBD<br> |
+| **How these metrics can inform decision making** | TBD |
+| **Unhelpful metrics** | -TBD<br>-TBD<br>-TBD<br> |
+
+</details>
+
 ## Platform metrics
 
 **Platform metrics** center around the performance, stability, and operational health of the underlying platform or system that delivers the experience. They are **system-centered** and measured from the technical perspective. 
