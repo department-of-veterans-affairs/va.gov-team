@@ -19,7 +19,7 @@
 - [Next Steps](#user-content-next-steps)
 - [Further research needed](#user-content-further-research-needed)
 - [Appendix (including screenshots of design prototype)](#user-content-appendix)
-- [Who we talked to](#user-content-who-we-talked-to)
+- [Research participants](#user-content-research-participants)
 
 ## Research Goals
 Veterans may fill out web forms on VA.gov throughout their lives, including ALL stages of the Veteran Journey--Serving and separation, Living civilian life, and Retiring and aging. Saving in-progress work while filling out an online form is an interaction for which the current implementation on VA.gov has two known accessibility issues. This research was designed to collect user feedback on a revised design that has the potential to resolve both issues.
@@ -481,23 +481,22 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
 
 
 ## Appendix
-[Research plan](./research-plan.md)
 
-[Conversation guide](./conversation-guide.md)
+### Research documents
+- [Research plan](./research-plan.md)
+- [Conversation guide](./conversation-guide.md)
+- [Interview notes](./notes)
 
-[Interview notes](./notes)
-
-
-## Tools used for Synthesis
+### Tools used for Synthesis
 [Synthesis spreadsheet](./analysis/SiP%20usab%20notes%20&%20data%20analysis--final.xlsx)
 
 [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1746465528913/8de22b81ea78a8e67d167bb339abd845a820a519)
   
-## Pages and applications used
+### Pages and applications used
 
 [Prototype in a GitHub Codespace that needs to be started manually--CONTACT CINDY](https://musical-space-goggles-7wxj74rqgvpfv9v-3001.app.github.dev/records/request-personal-records-form-20-10206/introduction?loggedIn=false)
 
-### Screenshots of the prototype (Codespace)
+#### Screenshots of the prototype (Codespace)
 <details>
   <summary>Figure 9: Informational alert about saving</summary>
    <img src="./images/intro-pg-alert.png" width="75%" height="75%" alt="We'll save your request on every change. You can stop anytime, and come back later to finish.">
@@ -587,9 +586,9 @@ The form we tested has 9 pages of questions, and each page has at the bottom a *
 
 </details>
 
-## Who we talked to 
+### Research participants 
 
-**Recruitment criteria**
+#### Demographics
 
 We talked to **11 participants.**
 
@@ -661,7 +660,7 @@ Disability and Assistive Technology (AT):
 * Captions: unknown
 
 
-## Underserved groups we haven’t talked to 
+#### Underserved groups we haven’t talked to 
 
 This research does not include the perspectives of the following marginalized Veteran groups:
 * Identify as Hispanic, Biracial, or Native
@@ -675,13 +674,13 @@ This research does not include the perspectives of the following marginalized Ve
 <details>
   <summary>A more accessible version of the table in the above image</summary>
    
-# ADE Save in Progress usability testing
+## ADE Save in Progress usability testing
 
 **Final # of participants:** 11  
 **# of AT users:** 6  
 **# of no shows:** 1
 
-## Race
+### Race
 
 | Category | % | Target | Study | p1 | p2 | p3 | p4 | p5 | p7 | p8 | p9 | p10 | p11 | p12 | p13 |
 |----------|---|---------|-------|---|---|---|---|---|---|---|---|----|----|----|----|
@@ -694,7 +693,7 @@ This research does not include the perspectives of the following marginalized Ve
 | Native, American Indian or Alaska Native | 0.30% | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 
-## Assistive Tech (AT)
+### Assistive Tech (AT)
 
 | Category | % | Target | Study | p1 | p2 | p3 | p4 | p5 | p7 | p8 | p9 | p10 | p11 | p12 | p13 |
 |----------|---|---------|-------|---|---|---|---|---|---|---|---|----|----|----|----|
