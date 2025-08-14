@@ -257,40 +257,40 @@ This research supports measurement of this KPI by....
 
 
 ## Appendix
-[Product Outline](link here)
 
-[Research plan](link here)
+### Research documents
+- [Product Outline](link here)
+- [Research plan](link here)
+- [Conversation guide](link here)
+- [Interview transcripts](link here)
 
-[Conversation guide](link here)
-
-[Interview transcripts](link here)
-
-
-## Tools used for Synthesis
+### Tools used for Synthesis
 
 *List tools or techniques used, e.g., Mural, affinity mapping.*  
   
-## Pages and applications used
+### Pages and applications used
 
 *Link to prototypes or pages tested during the study.*  
 
 
-## Other supporting documents created
+### Other supporting documents created
 
 *Include links to additional materials, e.g., personas, user flows.*  
 
 
-## Secondary research
+### Secondary research
 
 *Include any relevant secondary research, e.g., web analytics, SME interviews.*  
 
-## Who we talked to 
+### Research participants 
 _Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
 _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
-**Recruitment criteria**
+#### Recruitment criteria
 
 _If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
+
+#### Demographics of who we talked to 
 
 We talked to **x participants.**
 
@@ -365,7 +365,7 @@ Disability and Assistive Technology (AT):
 * Captions: x
 
 
-## Underserved groups we haven’t talked to 
+#### Underserved groups we haven’t talked to 
 
 _[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
 
