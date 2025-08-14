@@ -118,7 +118,7 @@ To get started, review a few sample integrations:
 The Identity team is here to help! We're dedicated to ensuring your integration with Sign-in Service goes off without a hitch. If you run into any issues, you have several options for getting support:
 
 - Review the [primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/readme.md).
-- Check out our [frequently asked questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Troubleshooting/SiS%20FAQ).
+- Check out our [frequently asked questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Troubleshooting/SiS%20FAQ.md).
 - Join us in our scheduled [office hours](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Sign-In%20Service/Support/README.md) meeting.
 - Start a thread in the [#vsp-identity channel](https://dsva.slack.com/archives/CSFV4QTKN) of the OCTO Slack workspace.
 - Send an email to Joe Niquette.

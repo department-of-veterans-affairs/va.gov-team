@@ -1,7 +1,7 @@
 # On-Call Rotation Guidelines for IVC Forms
 
 # DRAFT
-*Updated 4/8/2025 to identify @ManOnTheMooney as PM*
+*Updated 8/5/2025 to add VES on-call procedures*
 ### Overview
 This document outlines the expectations and responsibilities for team members during their on-call rotation for production support. The goal is to ensure smooth handling of production incidents during business hours while minimizing the impact on sprint deliverables.
 ### On-Call Schedule
@@ -21,6 +21,14 @@ While on call, you are expected to:
 - Document: Log any incidents, the steps taken to resolve them, and lessons learned in the ticket that was created above
 - Handoff: At the end of your on-call rotation, ensure the next team member in the rotation is fully briefed on any ongoing issues.
 
+### VES
+
+With the upcoming VES rollout, on-call procedures now include:
+
+- monitoring the [10-10D DataDog Dashboard](https://vagov.ddog-gov.com/dashboard/gmp-4du-pvm/ivc-champva-10-10d-form-dashboard?fromUser=false&refresh_mode=sliding&from_ts=1754402529005&to_ts=1754406129005&live=true) for VES failures as well as alerts in #ivc-forms-datadog for VES errors
+- In the event of an incident impacting normal IVC Forms service operations, the integration is controlled by [this Flipper toggle](https://api.va.gov/flipper/features/champva_send_to_ves) and should be disabled until a solution is rolled out
+- Communication with the VES team should be made on the **IVC Forms & VES Team Chat** channel on Teams
+
 ### Escalation Policy
 * As needed, escalate to
   * PM (Michael Mooney)
@@ -39,8 +47,15 @@ To ensure a consistent and effective approach to handling incidents, the followi
 ### Tools and Access
 You must ensure you have:
 * Access to all necessary monitoring tools and dashboards.
-  * Datadog dashboard
-  * Monitoring slack channel⠀
+  * Datadog dashboard:
+    * [IVC Forms Dashboard](https://vagov.ddog-gov.com/dashboard/zsa-453-at7/ivc-champva-ivc-forms-dashboard-original)
+    * [10-10D](https://vagov.ddog-gov.com/dashboard/gmp-4du-pvm/ivc-champva-10-10d-form-dashboard)
+    * [10-10D Extended (+OHI)](https://vagov.ddog-gov.com/dashboard/c2u-hkx-sdc/ivc-champva-10-10d-ohi-merged-form-dashboard)
+    * [10-7959A CHAMPVA Claims](https://vagov.ddog-gov.com/dashboard/tgw-7ju-ywy/ivc-champva-10-7959a-claims-form-dashboard)
+    * [OHI](https://vagov.ddog-gov.com/dashboard/tup-trn-tg6/ivc-champva-ohi-form-dashboard)
+    * [FMP](https://vagov.ddog-gov.com/dashboard/ffk-4ay-q2p/ivc-champva-fmp-form-dashboard)
+  * Monitoring slack channel⠀(OCTO: #ivc-forms-datadog)
+  * [Flipper](https://api.va.gov/flipper/features)
 
 ### Support From the Team
 * The entire team supports the on-call member. If an issue exceeds your expertise or the workload becomes too heavy, don’t hesitate to ask for help.

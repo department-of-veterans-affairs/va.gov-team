@@ -29,7 +29,8 @@ We are pursuing both approach at the moment because there are a lot of prerquisi
 
 ## Current progress
 
-As of 4/23/2025:
+As of 7/28/2025:
 
-1. Started the conversation with BEP team to ask for the datebase change, currently working with OBA to confirm the list of EP030 and EP040 claim labels that should be visible to a user in CST.
-2. Submitted a request ticket for Caseflow endpoint changes
+1. Started the conversation with BEP team to ask for the datebase change, we have [a list of 030 040 EP code](https://developer.va.gov/explore/api/benefits-claims/docs?version=current), all the ep codes in this list are to displayed to veterans. However, we need to work with OBA to convert the label to more suitable language to display on VA.gov
+2. Submitted a request ticket for Caseflow endpoint changes in April. Submitted a new requirements document to VA OIT in June and were asked to submit OIT intake submission form in July. Currently working on submitting the intake submission form.
+

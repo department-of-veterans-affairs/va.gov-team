@@ -273,7 +273,7 @@ We also recommend installing the new [VA page checker Chrome extension](https://
 (**Note:** If you have a GFE Windows PC, you can install JAWS with a VA 508 Office license. Open a [ServiceNow ticket](https://yourit.va.gov/sp?id=va_sc_subcat%E2%8A%82id=a7ff40ec1b352850a25d0d08ec4bcb6f) to create a JAWS installation request.)
 
 ### Figma
-If you use Figma, make sure to use our [accessibility annotations library](https://design.va.gov/about/accessibility/accessibility-annotations).
+If you use Figma, make sure to use our [accessibility annotations library](https://design.va.gov/accessibility/accessibility-annotations).
 
 You can also use Figma [plugins](https://www.figma.com/community/tag/a11y/plugins/free) to help check color contrast, readability, zoom, etc.
 

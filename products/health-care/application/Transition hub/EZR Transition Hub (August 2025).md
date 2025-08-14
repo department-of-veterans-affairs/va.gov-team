@@ -23,9 +23,11 @@
 ## **Product context**
 
 The 10-10EZR form is designed to allow Veterans to easily update their VA health care information online. This ensures that their records are current, enabling timely and accurate benefits administration. Our ongoing work focuses on enhancing the user experience and ensuring seamless data flow for these crucial updates.
+* EZR form went online at 100% on April 11, 2024 (phased launch from December 2023)
 * Used by Veterans to update their VA health care information.
 * Averaging approximately 4,500 submissions per month.
 * This form requires VA.gov authentication to access it and submit updates.
+* Housed under the va.gov/my-health (MHV on VA.gov) umbrella
 
 
 ### **Product portfolio**
@@ -48,7 +50,7 @@ The 10-10EZR form is designed to allow Veterans to easily update their VA health
 **Analytics**
 * Analytics dashboard:
     * [Domo](https://va-gov.domo.com/page/447193050) (consolidated forms dashboard)
-    * [Google Analytics](https://analytics.google.com/analytics/web/#/analysis/p419143770) (Placeholder - please specify EZR Analytics dashboard)
+    * [Google Analytics](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/B1BuF9JgTgCgLV3cx4EB4Q)
 * [Backend Stats on DataDog Dashboard](https://vagov.ddog-gov.com/dashboard/kjp-9wp-u47/10-10ezr?fromUser=false&refresh_mode=sliding&from_ts=1748201783568&to_ts=1750793783568&live=true) 
 * [Real User Monitoring (RUM) Dashboard](https://vagov.ddog-gov.com/rum/performance-monitoring?query=%40application.id%3Ad6b6178d-eef9-4252-baae-896432d38d45%20%40session.type%3Auser&agg_m=%40view.loading_time&fromUser=false&from_ts=1750189023883&to_ts=1750793823883&live=true) 
 
@@ -78,34 +80,45 @@ This roadmap reflects current priorities and efforts for the 10-10EZR applicatio
 
 **Next:** 
 * [V2 - Confirmation Flow: Insurance section](https://github.com/department-of-veterans-affairs/va.gov-team/issues/104121)
+* [Add Military History to EZR](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77527) - NEED INITIATIVE BRIEF
 
 **Later:**
-* International Phone number
+* [International Phone number](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106955)
 
 **Descoped:** *
-
+* [Mobile integration](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103829) - need to revisit this
 
 ## **Features and initiatives we worked on**
 
 This table details recent and ongoing features and initiatives specifically for the 10-10EZR application, along with their current status.
+- Link to current [Work In Progress - engineering doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/health-update-form/10-10EZR%20Form/Work%20In%20Progress.md)
 
 | Product | Initiative                                      | Status                                   |
 |---------|-------------------------------------------------|------------------------------------------|
-| EZR    | [Next of Kin/Emergency Contact](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75046)               | Dev/QA in progress         |
-| EZR    | [Print PDF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109746)                                  | Dev in progress            |
+| EZR    | [Next of Kin/Emergency Contact](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75046)               | In production, not enabled. Pending successful UAT        |
+| EZR    | [Print PDF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109746)                                  | FE: Merged, but behind a feature flag. BE: Not merged           |
 | EZR    | [V2 - Confirmation Flow: Household section](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98353)   | Dev in progress            |
 | EZR    | [V2 - Confirmation Flow: Insurance section](https://github.com/department-of-veterans-affairs/va.gov-team/issues/104121)   | Dev in progress            |
 | EZR    | TBD  |TBD            |
 | EZR    | TBD  |TBD            |
 | EZR    | TBD  |TBD            |
 
+### PR statuses
+| Product | PR link                                      | Status                                   |
+|---------|-------------------------------------------------|------------------------------------------|
+| EZR    | [V2 Dependents](https://github.com/department-of-veterans-affairs/vets-website/pull/38058) | In QA. Not merged. |
+| EZR    | [V2 Financial Info](https://github.com/department-of-veterans-affairs/vets-website/pull/35177) | Merged but feature flag is disabled |
+| EZR    | [V2 Spouse + Prefill](https://github.com/department-of-veterans-affairs/vets-website/pull/37774) | Awaiting QA |
+| EZR    | [Emergency Contacts/Next of Kin](https://github.com/department-of-veterans-affairs/vets-website/pull/37849) | Merged. Feature flag disabled `ezr_emergency_contacts_enabled` |
+| EZR    | [PDF Download](https://github.com/department-of-veterans-affairs/vets-website/pull/37492) | FE: Merged, but behind a feature flag. BE: Not merged |
+
+
+
 ## **Our team, VA relationships, and stakeholder meeting cadence**
 ### **Team Members:**
 
 The current 10-10 Health Apps team roster includes:
 * **Product Managers:**
-    * Michael Skinner | michael.skinner1@va.gov / michael.skinner@agile6.com / GH "Agile6MSkinner"
-* **Delivery Lead:**
     * Alexandria "Alex" Parker | alexandria.parker@va.gov / alexandria.parker@agile6.com / GH "ACParker89"
 * **UX Design/Research:**
     * Renata Keck | renata.keck@va.gov / renata.keck@agile6.com / GH "renatakeck"
@@ -130,19 +143,19 @@ The current 10-10 Health Apps team roster includes:
 
 **HEC (Health Eligibility Center) Program Team**
 * Bryan Burgan | Bryan.burgan@va.gov -- VHA Member Services Publications Control Officer - Main POC
-* Ambroja Watson | ambroja.watson@va.gov -- Veteran Experience Officer, HEC - 2nd POC
-* Stacey Echols | stacey.echols@va.gov -- Director, HEC
+* Ambroja Watson | ambroja.watson@va.gov -- Veteran Experience Officer, HEC
 * Amanda Scully | amanda.scully@va.gov -- Deputy Director, HEC
+* Shana Watson | shana.watson@va.gov -- Member Services SME
+* Simone Gully | simone.gully@va.gov -- Member Services SME
+* Angela Fulton | angela.fulton@va.gov -- Member Services SME
+* Tiffany Gaines | tiffany.gaines@va.gov -- Member Services SME
 * Zachariah Bell | zachariah.bell@va.gov -- Acting ECM Supervisory Program Specialist
 * Cheylanda Griffith | cheylanda.griffith@va.gov -- Supervisory Program Specialist
 * Kimberly Bostic | Kimberly.Bostic@va.gov -- Associate Director, QA division HEC
 * Lindsey Peace | Lindsey.Peace@va.gov -- Assistant Associate Director, Income Verification division
 * Jessica Soza | Jessica.Soza@va.gov -- Management & Program Analyst, BSO Business Policy (Paper forms)
 * Annie Rice | Annie.Rice@va.gov -- Contact Representative office
-* Shana Watson | shana.watson@va.gov -- Member Services SME
-* Simone Gully | simone.gully@va.gov -- Member Services SME
-* Angela Fulton | angela.fulton@va.gov -- Member Services SME
-* Tiffany Gaines | tiffany.gaines@va.gov -- Member Services SME
+
 
 **Enrollment System (ES) (End-to-End Testing POCs)**
 * Joshua Faulkner | joshua.faulkner@va.gov - Technical Director, EHBD (Enrollment system)
@@ -167,4 +180,4 @@ This section is for any outstanding specific questions, unresolved issues, or ta
 * **Stakeholder Engagements:** Confirming open action items from recent stakeholder meetings with HEC, ES, and other relevant teams.
 * **Research Follow-ups:** Any pending decisions or next steps from recent research findings or discoveries.
 * **Technical Debt/Maintenance:** Identifying any known technical debt items specific to 10-10EZR that may need future attention.
-* **Ad-hoc Requests:** Any immediate, unprioritized requests that have come in.
+* **Unplanned Requests:** Any immediate, unprioritized requests that have come in.

@@ -2,8 +2,8 @@
 
 ## Links
 1. [Storybook](https://design.va.gov/storybook/?path=/docs/uswds-va-file-input-multiple--docs)
-2. [File Input Multiple Web component Implementation](https://github.com/department-of-veterans-affairs/component-library/blob/e276b24d9292c2a5f8b2cde3cc2073c9b92a8404/packages/web-components/src/components/va-file-input-multiple/va-file-input-multiple.tsx)
-3. [File Input Single Web component Implementation](https://github.com/department-of-veterans-affairs/component-library/blob/e276b24d9292c2a5f8b2cde3cc2073c9b92a8404/packages/web-components/src/components/va-file-input/va-file-input.tsx)
+2. [File Input Multiple Web component Implementation](https://github.com/department-of-veterans-affairs/component-library/blob/main/packages/web-components/src/components/va-file-input-multiple/va-file-input-multiple.tsx)
+3. [File Input Single Web component Implementation](https://github.com/department-of-veterans-affairs/component-library/blob/main/packages/web-components/src/components/va-file-input/va-file-input.tsx)
 
 ## User Stories
 See screenshots at the end of this file.
@@ -57,12 +57,19 @@ As a user,
     - Count: "Uploading 1 file..."
     - Text: "Your files are uploading. Please do not close this window."
     - Cancel Button Text: "Cancel"
+1. If I click the "Cancel" button, the modal will close and I will not see a success or failure alert (CAN THIS BE IMPROVED)
+1. If I click the "X" button, the modal will close and then if succesful a success va-alert will be shown (CAN THIS BE IMPROVED)
 1. If I submit a PDF without a valid password I get an error alert
     - Heading: "Error uploading [file name]"
     - Text: "We couldn’t unlock your PDF. Save the PDF without a password and try again."
 1. If I successfully submit files a success va-alert will be shown
     - Heading: "We received your file upload on June 27, 2025"
     - Text: "If your uploaded file doesn’t appear in the Documents Filed section on this page, please try refreshing the page."
+1. If I submit a file that has already been successfully submitted, I get an error saying that it has been submitted already
+
+## User Stories that are not yet covered (Add Github issue)
+1. If I submit the same file 2 times in the same Multiple File Input, I get an error message before being able to submit. - [CST] [BUG] Inconsistent duplicate file name validation between simultaneous and sequential uploads [#115523](https://github.com/department-of-veterans-affairs/va.gov-team/issues/115523)
+1. If I submit files A and B and A has already been successfully submitted previously, I get an error message for A saying that it has already been successfully submitted and I get a success message for B. Both are removed from the files listed in the multiple file input. Documents with wrong PDF passwords should remain. - [CST] [BUG] Duplicate Error Alert is Suppressing Success Alert [#115934](https://github.com/department-of-veterans-affairs/va.gov-team/issues/115934)
 
 ## User Stories Handled by VaFileInputMultiple component
 - I see a label with a hint with the allowed file types and size  

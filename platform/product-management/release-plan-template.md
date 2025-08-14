@@ -134,14 +134,16 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 *The KPIs and numbers are example values recommended by VSP but can be customized to your team's needs.*
 
-### Stage A: Canary
+### Stage A: Canary - 1% of users
 
 *Test a small Veteran population to ensure any obvious bugs/edge cases are found.*
+
+The recommended progression is 1% → 25% → 100%. However, VFS teams have flexibility to add more increments to mitigate risk.
 
 #### Planning
 
 - Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): [FILL_IN]% (*Recommendation: select a percentage that targets ~500 users, or at most 10%*)
+- Percentage of Users (and roughly how many users do you expect this to be): [FILL_IN]% (*Recommendation: 1% of users*)
 
 #### Results
 
@@ -168,7 +170,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-### Stage C: 50% of users
+### Stage C: 50% of users (optional)
 
 *Test a larger user population to ensure larger usage patterns expose no issues.*
 
@@ -185,7 +187,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-### Stage D: 75% of users
+### Stage D: 75% of users (optional)
 
 *Test a larger user population to ensure larger usage patterns expose no issues.*
 

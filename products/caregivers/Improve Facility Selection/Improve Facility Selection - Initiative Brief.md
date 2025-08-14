@@ -107,19 +107,19 @@
    - At this time, there is no simple way to determine whether the case was rerouted at the Veteran/Caregiver request or due to having a non-caregiver supported facility on the form.
 - Data Source: Caregiver Stakeholder team and [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-health-apps?fromUser=false&fullscreen_end_ts=1730229097128&fullscreen_paused=false&fullscreen_refresh_mode=sliding&fullscreen_section=overview&fullscreen_start_ts=1730225497128&fullscreen_widget=1652960129845848&refresh_mode=sliding&from_ts=1730224696206&to_ts=1730228296206&live=true)
  
-|Applications | Monthly Average Baseline (Jan 2022-Jan 2023)| Target | 1 Month after launch|
-|--------|-----------------------|----------|--------------------|
+|Applications | Monthly Average Baseline (Jan 2022-Jan 2023)| Target | 1 Month after launch (2/14-3/14)|5 months aver launch (2/14-6/14)|
+|--------|-----------------------|----------|--------------------|--------------------|
 |Total Apps Rerouted | 423 | TBD | TBD |
-|Total Apps Submitted | 5,923 | No Change | TBD |
+|Total Apps Submitted | 5,923 | No decrease | TBD |
 
 
 #### Key result: Maintain or reduce the amount of time a user selects a facility
 - Data Source: [Google Analytics - CG Facility page views & time](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/8un9wi5nSN-WZ-KqWHHBPA)
 
-|Average time on page |Monthly Average Baseline (Jan-Dec 2024)| Target | 1 Month after launch|
-|--------|-----------------------|----------|--------------------|
-|Search page| 52 seconds |30 seconds|TBD|
-|Confirmation page |NEW|15 seconds|TBD|
+|Average time on page |Monthly Average Baseline (Jan-Dec 2024)| Target | 1 Month after launch (2/14-3/14)|5 months aver launch (2/14-6/14)|
+|--------|-----------------------|----------|--------------------|--------------------|
+|Search page| 52 seconds |30 seconds|1m 9s|1m 6s|
+|Confirmation page |NEW|15 seconds|1m 0s|58s|
 
 ---
 

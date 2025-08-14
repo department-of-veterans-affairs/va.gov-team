@@ -33,7 +33,7 @@
 - Product | Link to product outline 
 
 ## Problem
-* Veterans cannot currently update their Emeregency Contacts online
+* Veterans cannot currently update their Emergency Contacts online
 * This impacts all Veterens, as until recently they couldn't even see their EC online
 * Veterans can now see their EC (and NoK) in their VA.Gov profile, but a Medallia survey of those Veterans indicated they wanted to be able to edit that information online instead of calling the hotline
 * This initiative should improve data integrity and overall Veteran experience with VHA in that VA should have the correct information should they need to reach out to a Veteran's EC
@@ -64,14 +64,20 @@
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-> 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
-> 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
+#### Objective: Provide an effortless online experience for Veterans to update their information for health care benefits
+#### **Key Result #1:** Increase 10% of Veterans who successfully add their NOK and/or EC information online
+**Note** Paper submissions are based on the average provided by HEC for volumes that are received by the HEC centralized processing center.  This does not include individual facilities, as there are no mechanisms in place to track them.
+| Product KPI |  Monthly Target | Post-Launch 1 week |Post-Launch 1 month|
+|-------------|-------------- |-------------- |-------------- |
+|NOK add (Yes)|500 | TBD |TBD |
+|NOK edit/view existing|500 | TBD |TBD |
+|EC add (Yes) |500 | TBD |TBD |
+|EC edit/view existing|500 | TBD |TBD |
+Errors | 0 errors| TBD| TBD|
 
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+- Links to the dashboard(s) showing "success criteria" metrics:
+     - [Datadog dashboard](https://vagov.ddog-gov.com/dashboard/kjp-9wp-u47/10-10ezr?historicalData=true&index=&refresh_mode=sliding&view=spans&from_ts=1703092684168&to_ts=1703179084168&live=true)
+     - [Google Analytics - EZR Events](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/B1BuF9JgTgCgLV3cx4EB4Q)
 
 ---
 

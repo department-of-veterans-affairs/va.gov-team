@@ -1,10 +1,11 @@
 # Design Pitch: Display Intent to File (ITF) Status in CST
-(Updated: 6/16/25)
+(Updated: 7/8/25)
 
 ## Links
-* [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110236)
-* [Mural]
-* [Figma](https://www.figma.com/design/ZLDFINlvw5skb6ckTT9skw/Intent-to-File-in-CST-%C2%B7-BMT?node-id=201-192&t=z4CI7BMkcO58QHPb-1)
+* [Github Epic: Display Intent to File (ITF) Status in CST](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110236)
+* [Figma: ITF (Intent to File) in CST](https://www.figma.com/design/ZLDFINlvw5skb6ckTT9skw/Intent-to-File-in-CST-%C2%B7-BMT?node-id=201-192&t=z4CI7BMkcO58QHPb-1)
+* Mural: Intent to File - CST
+
 
 ## Background
 An Intent to File (ITF) is a notice to the VA that a Veteran plans to file a benefits claim. Submitting an ITF protects the claim’s effective date for up to one year, meaning if the formal claim is filed within that year, any benefits awarded can be backdated to the ITF date.

@@ -1,10 +1,10 @@
 
-# Product Outline: PERSONALIZED CAREER PLANNING AND GUIDANCE (PCPG), Chapter 36, Form 25-8832
+# Product Outline: PERSONALIZED CAREER PLANNING AND GUIDANCE (PCPG), Chapter 36, Form 27-8832
 
 ## Overview
 Personalized Career Planning and Guidance (PCPG), or VA Chapter 36, offers free educational and career guidance, planning, and resources to Veterans and their dependents who are eligible for a VA education benefit.
 
-- [About VA Form 25-8832](https://www.va.gov/careers-employment/education-and-career-counseling/) 
+- [About VA Form 27-8832](https://www.va.gov/careers-employment/education-and-career-counseling/) 
 - [Online form tool](https://www.va.gov/careers-employment/education-and-career-counseling/apply-career-guidance-form-25-8832/introduction)
 - [Form flow Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1691434304975/3f0c405c820c184d21393b3bbd76324a5ee7c677?sender=u934f98f179a86c76e6ee9592)
 - [Prefilling military history](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/burials-memorials/feature-briefs/Service%20history%20API.md)
@@ -89,7 +89,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 
 #### Communications
 - Team Name: IIR Team
-- GitHub Team Label: non-disability-benefits
+- GitHub Team Label: va-iir
 - GitHub Product Label: CH36
 - Slack channel: iir-product-teams-public
 - Product POCs: Mike King (product manager), Dave Conlon (OCTO Lead)

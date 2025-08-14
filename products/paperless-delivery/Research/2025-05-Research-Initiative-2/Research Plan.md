@@ -1,6 +1,6 @@
 ## **Background**
 
-Currently, Veterans and other claimants receive claims and appeals decisions by paper mail. They can also download the decision letters for disability compensation claims on[ VA.gov](http://va.gov). For other claim types, Veterans and other claimants may learn on[ VA.gov](http://va.gov) or in the VAHB mobile app that a decision has been made, but they have to wait an additional 7-10 days to learn what the decision was by paper mail.
+Currently, Veterans and other claimants receive claims, appeals decisions, and documents like the 1095-B by paper mail. They can also download the decision letters for disability compensation claims on[ VA.gov](http://va.gov). For other claim types, Veterans and other claimants may learn on[ VA.gov](http://va.gov) or in the VAHB mobile app that a decision has been made, but they have to wait an additional 7-10 days to learn what the decision was by paper mail.
 
 Reducing the need to mail paper represents a significant opportunity for cost savings. Transitioning to digitize all documents for Veterans is a major initiative that will require substantial time and manpower. Currently, only two documents—the disability compensation decision letter and the 1095-B—are available digitally.
 

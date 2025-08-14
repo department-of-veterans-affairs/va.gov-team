@@ -22,17 +22,15 @@ Deliver a seamless and positive experience for any Veteran or Caregiver who want
 - Michelle Ortiz
 
 ### Product Delivery Team
-- Lauren Ernest, interim Product Manager
+- Charlotte Reid, Product Management Lead
 - Kevin Duensing, Engineering Lead
 - Liz Townsend, Engineering
 - Calvin Cieslak, Engineering
 - Micah Taylor, UX Design
-- Cara Frissell, Research
+- TBD, Research
 
 ### Project Management
 - Lance Cromwell
-- Lauren Ernest
-
 
 ### Who We Work With
 

@@ -8,16 +8,19 @@ assignees: ''
 ---
 
 ## Problem to be solved
-_What challenge are we addressing?_
+What challenge are we addressing?
 
 
 ## Why this is important
-_What's the significance and impact of solving this problem?_
+What's the significance and impact of solving this problem?
 
 
-## Solution
-_What do we plan to deliver to address the problem?_
+## Desired outcome 
+How will we know we are successful in addressing the problem? What metrics will we use to measure success?
 
+## Additional Information
+(Optional) Include relevant background context, constraints, and links to resources as they are developed.
 
-## Expected results and impact
-_How will we know we are successful in addresing the problem? What metrics will we use to measure success?_
+## Key decisions
+(Optional) Note any key decisions made about this work along the way
+- Example:  On 5/25/25 Person McPerson in VBA confirmed we can descope the edge case of Veterans in a particular situation from the solution. (link to slack thread). We created a backlog ticket (link) to revisit this in the future.

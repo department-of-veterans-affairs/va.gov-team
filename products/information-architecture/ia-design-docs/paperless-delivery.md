@@ -1,5 +1,5 @@
 # IA Design for Paperless Delivery Opt-in in Profile
-**STATUS: Complete
+**STATUS: Complete - updated navigation flow on 7/15/25 to show path to download digital version of  1095b
 
 **Team:** IIR
 
@@ -20,7 +20,8 @@
 ## <a name="flows"></a>Navigation/page flows <br>
 *Illustration and/or description of how users will navigate to and flow through the experience for all impacted visitors typies. This helps identify key entry points and findability requirements, user flow scenarios, and content/messaging needs across various scenarios.*
 
-![Paperless delivery opt-in v1_2025-05-07_20-52-02](https://github.com/user-attachments/assets/093f93ef-b1e0-460c-9efa-9968592dfbaa)
+<img width="1776" height="1937" alt="Paperless delivery opt-in v1_2025-07-15_19-03-49" src="https://github.com/user-attachments/assets/8a0fd6d8-9c56-4c20-a104-d0935fe850df" />
+
 
 
 ## <a name="map"></a>Page structure<br>

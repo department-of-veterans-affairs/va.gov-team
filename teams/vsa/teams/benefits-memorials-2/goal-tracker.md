@@ -6,19 +6,19 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 
 ---
 
-## DRAFT Quarterly Priorities for FY25Q4 (July, August, September 2025)  
+## Quarterly Priorities for FY25Q4 (July, August, September 2025)  
 *Quarter Sprints include 12, 13, 14, 15, 16, 17, 18*
-<details>
     
 **Primary Goals (May shift based on stretch goal dependencies)**
-| Priority ID | Description | S.Epic | Relevant Dates |  Notes | Dependency |  End of Quarter Status |
+| Priority ID | Title | S.Epic |  Goal + Info |  Discipline | Dependency |  End of Quarter Status |
 |---------------|---------------|---------------|---------------|---------------|---------------|---------------|
-| QP1 | **Digital Debt Dispute (VBA):** Launch in Production |[#82003](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82003)  | Launch in Production June/July | UX-BE | **DMC** | |
-| QP2 | **One Thing Per Page:** Launch in Production |[#106610](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106610)  | launch in early July | FE |  |  |
-| QP3 | **Pay.gov Hosted Collection Page (HCP) for Copays:** Launch in Production |[ #110219](https://github.com/orgs/department-of-veterans-affairs/projects/1514/views/18?pane=issue&itemId=111610681&issue=department-of-veterans-affairs%7Cva.gov-team%7C110219)  |  | FE | **Pay.gov + HRC/VHA accounting** |  |
-| QP4 | **Pay.gov Hosted Collection Page (HCP) for Overpayments:** Finalize design + engineering handover. Potential to launch-TBD |[#105733](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105733)  |  | FE | **Pay.gov + DMC for <Receivable ID> + accounting components** |  |
-| QP5 | **Veteran Request for Hardship Suspension (VBA):** Initiate Design Prototyping & Development handover |[#106207](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106207)  |Finalize engineering handover by end of Sept in preparation for development in October  | Design -FE | **DMC** |  |
-| QP6 | **Indirect Initiative Priority Work:** Complete all work listed in the Epic  | [#112855](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112855)|Wrap up and launch all efforts asap  | UX-FE-BE |  |  |
+| QP1 | **Digital Debt Dispute (VBA):**  |[#82003](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82003)  | Target production launch in June/July | UX-BE | **DMC** | |
+| QP2 | **One Thing Per Page:** |[#106610](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106610)  | Target production launch as early as possible after QP1 during first half of quarter  | FE | None |  |
+| QP3| **Payment History (VHA):**  | [#18859](https://github.com/department-of-veterans-affairs/va.gov-team/issues/18859) | Progress BE development efforts in preparation for Lighthouse Production API (Sept) and continue align with Lighthouse as needed | Primarily BE; may involve whole team collab| Lighthouse |   |
+| QP4| **Pay.gov Hosted Collection Page (HCP) for Overpayments:**  |[#105733](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105733)  |Finalize design + engineering handover.   | BE, FE | **Pay.gov + DMC for <Receivable ID> + accounting components** |   |
+| QP5| **Pay.gov Hosted Collection Page (HCP) for Copays:**  |[ #110219](https://github.com/orgs/department-of-veterans-affairs/projects/1514/views/18?pane=issue&itemId=111610681&issue=department-of-veterans-affairs%7Cva.gov-team%7C110219)  |Target production at end of Sept/Early Oct   |BE, FE | **Pay.gov + HRC/VHA accounting** |  |
+| QP6 | **Veteran Request for Hardship Suspension (VBA):** |[#106207](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106207)  |Initiate Design Prototyping & Development handover  UX to finalize engineering handover by end of Sept in preparation for development in October  | Design- FE | **DMC** |  |
+| QP7 | **Indirect Initiative Priority Work:**  | [#112855](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112855)|Complete and launch priority work listed in the epic | UX-FE-BE |None  |  |
 
 **Priorities by Discipline (LOE)**
 | UX - Design Priorities | UX - Research Priorities | FE Priorities | BE Priorities |
@@ -38,45 +38,109 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [ ] VA PO approved end of quarter status of Quarterly Goals (0x/xx/25)
 
-## Sprint Goals - Sprint: 12 [7/1/25 - 7/15/25]  
+## Sprint Goals - Sprint: 12 [7/2/25 - 7/15/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
-|UX: Support Engineering team in addressing Staging Review feedback to ensure Digital Dispute is release-ready (Including canary testing with Veterans).| QP1 |--|--|--|
-|UX: Complete Figma user flows for Hardship Suspension.| QP5 |--|--|--|
-|UX: Refine and document the UX research process for studies to include use of Copilot (AI tool).| QPX |--|--|--|
-|ENG: Complete existing front end Digital Dispute launch-blocking tickets from the Staging Review (10 pts).| QP1 |--|--|--|
-|ENG: Create Digital Dispute multiple submission database schemas. | QP1 |--|--|--|
-|ENG: Address upstream server VBA job submission errors.| QPX |--|--|--|
+|UX: Support Engineering team in addressing Staging Review feedback to ensure Digital Dispute is release-ready (Including canary testing with Veterans).| QP1 |--|7/15/25|Complete|
+|UX: Complete Figma user flows for Hardship Suspension.| QP5 |--|7/14/25|Complete|
+|UX: Refine and document the UX research process for studies to include use of Copilot (AI tool).| QPX |--|7/15/25|Complete|
+|ENG: Complete existing front end Digital Dispute launch-blocking tickets from the Staging Review (10 pts).| QP1 |--|7/15/25|Complete|
+|ENG: Create Digital Dispute multiple submission database schemas. | QP1 |--|7/10/25|Complete|
+|ENG: Address upstream server VBA job submission errors.| QPX |--|7/10/25|Complete|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
- - [ ] Ready to be sent for approvals (06/30/25)
- - [ ] VA PO & COR sent the Sprint Goals (07/XX/25)
- - [ ] VA PO approved the Sprint Goals (07/XX/25)
- - [ ] VA COR approved the Sprint Goals (07/XX/25)
+ - [X] Ready to be sent for approvals (06/30/25)
+ - [X] VA PO & COR sent the Sprint Goals (06/30/25)
+ - [X] VA PO approved the Sprint Goals (07/02/25)
+ - [X] VA COR approved the Sprint Goals (07/02/25)
+ 
+**_Delivery + Notes:_**
+- [X] All goals have been updated in the sprint chart
+- [X] Any Additional details about goals **not** completed will be documented here
+  - For goal - ENG: Address upstream server VBA job submission errors. This was completed on the 10th, but in addition to the goal's scope the BE ENG team created an additional task to enhance the submission error correction ensuring a higher quality of the initial solution. This can be seen in ticket: Implement 5655 Submission Job Spike Solution
+#113523
+
+## Sprint Goals - Sprint: 13 [7/16/25 - 7/29/25]  
+| Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
+|--|--|--|--|--|
+|UX: Share the Digital Dispute designs with the DMC for them to review and understand what Veterans will be seeing on the Debt Portal to facilitate seamless follow up with them during call support.| QP1 |--|--|Completed|
+|UX: Review designs for pay.gov with ENG and determine implementability.| QP3 |--|--|Completed|
+|UX: Refine content for Hardship Suspension with the Content Team.| QP5 |--|--|Completed|
+|ENG: Launch Digital Dispute.| QP1 |--|--|Completed|
+|ENG: Observe Digital Dispute submissions. Create report of request/response times and determine if we need to move request to DMC to a Sidekiq job. | QP1 |--|--|Completed|
+|ENG: Develop a plan if Digital Dispute needs to move to a DMC Sidekiq job.| QP1 |--|--|Completed|
+|ENG: Pay.gov MOU filled out and some next steps determined.| QP3 |--|--|Completed|
+
+**_Approvals:_** _(sent via email but approvals tracked here)_
+ - [X] Ready to be sent for approvals (07/14/25)
+ - [X] VA PO & COR sent the Sprint Goals (07/14/25)
+ - [X] VA PO approved the Sprint Goals (07/16/25)
+ - [x] VA COR approved the Sprint Goals (07/17/25)
+ 
+**_Delivery + Notes:_**
+- [X] All goals have been updated in the sprint chart
+- [ ] Any Additional details about goals **not** completed will be documented here
+
+## Sprint Goals - Sprint: 14 [7/30/25 - 8/12/25]  
+| Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
+|--|--|--|--|--|
+|UX/ENG: Confirm the fields, data point mapping and format of the Lighthouse API for VHA payment history based on Fall 2024 study recommendations aka "paper testing".| QP3 |--|8/5/25|Complete|
+|UX: Refine the Pay.gov mockups based on the feedback from our discussion with the FE team.| QP4 |--|8/12/25|Completed|
+|UX: Create user flows & mockups for Hardship Suspension that are user-friendly and meet DMC's requirements.| QP6 |--|8/8/25|Completed|
+|ENG: Complete 8 points of remaining Digital Dispute work addressing the 4 remaining staging review feedback tickets.| QP1 |3 of the 4 tickets are closed|8/12/25|Incomplete|
+|ENG: Investigate next steps for submissions via Sharepoint and determine how to proceed.| QP7 |--|7/31/25|Completed|
+
+**_Approvals:_** _(sent via email but approvals tracked here)_
+ - [X] Ready to be sent for approvals (07/28/25)
+ - [X] VA PO & COR sent the Sprint Goals (07/28/25)
+ - [X] VA PO approved the Sprint Goals (07/31/25)
+ - [X] VA COR approved the Sprint Goals (07/31/25)
+ 
+**_Delivery + Notes:_**
+- [X] All goals have been updated in the sprint chart
+- [X] Any Additional details about goals **not** completed will be documented here
+- ENG: Complete 8 points of remaining Digital Dispute work addressing the 4 remaining staging review feedback tickets.
+  - 3 of the 4 tickets were completed, however the 4th ticket [DD Contact Information Layout - Consolidated #109263 #113026](https://github.com/department-of-veterans-affairs/va.gov-team/issues/115664) was a consolidation of 2 items and unfortunatelly rolled into the next sprint.
+  - Additional investigation and collaboration with platform is required for this item and those resources are being contacted.
+
+## Sprint Goals - Sprint: 15 [8/13/25 - 8/26/25]  
+| Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
+|--|--|--|--|--|
+|UX/ENG: Collaborate on the One Thing Per Page initiative by reviewing the implementation to align technical requirements with design standards.| QP2 |--|--|--|
+|UX: Be prepared to meet with stakeholders to review the current user flows and designs for Pay.gov overpayments and document feedback. | QP4 |--|--|--|
+|ENG: Complete the remaining 4 Front End tickets for the One Thing Per Page initiative.| QP2 |--|--|--|
+|ENG: Prepare items for upcoming One Thing Per Page Staging Review: QA Artifacts, Analytics request, Release Plan, and Playbook.| QP2 |--|--|--|
+|ENG: Update the Debt Portal of Notice of Rights Modals and PDF to reflect the updated language.| QP7 |--|--|--|
+
+**_Approvals:_** _(sent via email but approvals tracked here)_
+ - [X] Ready to be sent for approvals (08/12/25)
+ - [X] VA PO & COR sent the Sprint Goals (08/12/25)
+ - [X] VA PO approved the Sprint Goals (08/13/25)
+ - [X] VA COR approved the Sprint Goals (08/13/25)
  
 **_Delivery + Notes:_**
 - [ ] All goals have been updated in the sprint chart
 - [ ] Any Additional details about goals **not** completed will be documented here
 
-
-</details>
-
 ---
 
 ## Quarterly Priorities for FY25Q3 (Apr, May, Jun 2025)  
 *Quarter Sprints include 5, 6, 7, 8, 9, & 10*
+
+<details>
+    
 </br> **Primary Goals (May shift based on stretch goal dependencies)**
     
 | Priority ID | Description | S.Epic | Relevant Dates |  Notes |  End of Quarter Status |
 |-------------|---------------|-----------------|---------------|  ---------------|   ---------------| 
-| QP1 | **Zero Silent Failure Alignment:** Implement call back functionality and 3 email templates for asynchronous submission pattern|[#106206](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106206)  | Implement ASAP- before April 22, 2025 | **[UX+BE]** Tied to OCTO Silent Failure Initiative  | |
+| QP1 | **Zero Silent Failure Alignment:** Implement call back functionality and 3 email templates for asynchronous submission pattern|[#106206](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106206)  | Implement ASAP- before April 22, 2025 | **[UX+BE]** Tied to OCTO Silent Failure Initiative  | Work on this was paused for Digital Dispute and remainign items will be addressed in the Indirect Initiative Priority Work epic #112855 next quarter. |
 | QP2 |  **One VA Debt Letter:** Launch in production *| [#84175](https://github.com/department-of-veterans-affairs/va.gov-team/issues/84175) | Launch in Prodution Goal: ~~March~~ Early April 2025 | **[UX+FE+BE]** Legislative Requirement: Veterans Benefit Transition​ Act of 2018 ( year 7) |Launched on April 30, 2025  |
 | QP3 |  **Update 5655 Wizard to new task flow:** Launch updates in production *| [#48133](https://github.com/orgs/department-of-veterans-affairs/projects/1514/views/6?pane=issue&itemId=88349041&issue=department-of-veterans-affairs%7Cva.gov-team%7C48133)|  | **[UX+FE]**  Dependent on CAIA team collaboration | Launched in production May 6, 2025    ||
-| QP4  | **Digital Debt Dispute (VBA):** Target Launch in production *| [#82003](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82003) | Target Launch in Production ~~May 28, 25~~ - updated to end of June due to DMC bandwidth constraints |**[UX+FE+BE]**   | |
-| QP5 | **One Thing Per Page** | [#106610](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106610)|Target launch end of quarter | **[UX+FE]** Plan to extract 1TTP from VHA Payment History work to expedite implementation |  |
-| QP6 | **Pay.gov Hosted Collection Page (HCP) for Overpayments:** Discovery & Design Prototyping *| [#105733](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105733)  |  |**[UX]**  | |
-| QP7 | **Mobile App:** Collaborate with MFS (Mobile Feature Support) team to add overpayment debt information into mobile app experience |  [#106209](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106209) | complete initial discovery by end of quarter |**[UX]** MFS team responsible for implementation - FM team with expertise in finance space to collaborate closely with MFS |   |
-| QP8 | **Veteran Request for Hardship Suspension (VBA):** Discovery & Design Prototyping * | [#106207](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106207) |  | **[UX]** | |
+| QP4  | **Digital Debt Dispute (VBA):** Target Launch in production *| [#82003](https://github.com/department-of-veterans-affairs/va.gov-team/issues/82003) | Target Launch in Production ~~May 28, 25~~ - updated to end of June due to DMC bandwidth constraints |**[UX+FE+BE]**   | Due to launch blocking items the launch was delayed into the next sprint, but will launch in the first sprit of the next quarter. |
+| QP5 | **One Thing Per Page** | [#106610](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106610)|Target launch end of quarter | **[UX+FE]** Plan to extract 1TTP from VHA Payment History work to expedite implementation | Partially Complete, UX has completed their portion and FE had to shift to Digital Dispute. This will finish development and release early next quarter. |
+| QP6 | **Pay.gov Hosted Collection Page (HCP) for Overpayments:** Discovery & Design Prototyping *| [#105733](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105733)  |  |**[UX]**  | Complete for phase 1 - UX needs to review with ENG on the implimnetation verification. |
+| QP7 | **Mobile App:** Collaborate with MFS (Mobile Feature Support) team to add overpayment debt information into mobile app experience |  [#106209](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106209) | complete initial discovery by end of quarter |**[UX]** MFS team responsible for implementation - FM team with expertise in finance space to collaborate closely with MFS | Complete, any additional support will be captured in the Indirect Initiative Priority Work epic #112855 next quarter.  |
+| QP8 | **Veteran Request for Hardship Suspension (VBA):** Discovery & Design Prototyping * | [#106207](https://github.com/department-of-veterans-affairs/va.gov-team/issues/106207) |  | **[UX]** | Incomplete - UX is finishing the last 2 tickets for design and user flow. |
 
 
 
@@ -228,13 +292,13 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 ## Sprint Goals - Sprint: 11 [6/18/25 - 7/1/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
-|UX: Draft the design Ideation for Hardship suspension based off the 6/17 kickoff meeting. | QP8 |--|--|--|
-|UX: Create initial mockups for the Pay.gov Authenticated Copay path. | QP6 |--|--|--|
-|UX: Review staging implementation of DD with ENG prior to launch. | QP4 |--|--|--|
-|ENG: Prepare the QA Artifacts for the Digital Debt Dispute staging review.| QP4 |--|--|--|
-|ENG: Finish creating and run the E2E tests for validating the Digital Debt Dispute prior to launch.| QP4 |--|--|--|
-|ENG: Implement any launch required updates based off of the UX research for Digital Debt Dispute. | QP4 |--|--|--|
-|ENG: Launch Digital Debt Dispute. | QP4 |--|--|--|
+|UX: Draft the design Ideation for Hardship suspension based off the 6/17 kickoff meeting. | QP8 |--|07/01/25|Completed|
+|UX: Create initial mockups for the Pay.gov Authenticated Copay path. | QP6 |--|06/30/25|Completed|
+|UX: Review staging implementation of DD with ENG prior to launch. | QP4 |--|06/25/25|Completed|
+|ENG: Prepare the QA Artifacts for the Digital Debt Dispute staging review.| QP4 |--|06/23/25|Completed|
+|ENG: Finish creating and run the E2E tests for validating the Digital Debt Dispute prior to launch.| QP4 |--|06/26/25|Completed|
+|ENG: Implement any launch required updates based off of the UX research for Digital Debt Dispute. | QP4 |--|--|Incomplete|
+|ENG: Launch Digital Debt Dispute. | QP4 |--|--|Incomplete|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [X] Ready to be sent for approvals (06/16/25)
@@ -243,12 +307,18 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
  - [X] VA COR approved the Sprint Goals (06/17/25)
  
 **_Delivery + Notes:_**
-- [ ] All goals have been updated in the sprint chart
-- [ ] Any Additional details about goals **not** completed will be documented here
+- [X] All goals have been updated in the sprint chart
+- [X] Any Additional details about goals **not** completed will be documented here
+- For this goal: "Implement any launch required updates based off of the UX research for Digital Debt Dispute," we did not complete all updates.
+- For this goal:"ENG: Launch Digital Debt Dispute,"  the launch was delayed due to launch-blocking Staging Review feedback.
 ---
+
+</details>
 
 ## Quarterly Priorities for FY25Q2 (Jan, Feb, Mar 2025)  
 *Quarter Sprints include 1, 2, 3, & 4*
+
+<details>
   
 | Priority ID | Description | S.Epic |Status | Notes | Launch in Production Goal |   End of Quarter Status |
 |-------------|---------------|-----------------|---------------|  ---------------|  ---------------|    ---------------| 
@@ -353,3 +423,5 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 **_Delivery + Notes:_**
 - [X] All goals have been updated in the sprint chart
 - [X] Any Additional details about goals **not** completed will be documented here
+
+</details>

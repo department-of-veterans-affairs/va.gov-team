@@ -1,4 +1,4 @@
-# [DRAFT] Research Plan for Your VA benefit letters and documents research study
+# Research Plan for Your VA benefit letters and documents research study
 
 ## Background 🏗️
 
@@ -96,8 +96,8 @@ Where will you be holding the research sessions?
 ## Research materials 📔
 
 **For moderated usability tests:** 
-- [Link to conversation guide](url goes here)
-- [Link to “Your VA benefit letters and documents” page on production](url goes here)
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/benefit-letters/research/2025-06-Your-VA-benefit-letters-and-documents/conversation-guide.md)
+- [Link to “Your VA benefit letters and documents” page on staging](https://staging.va.gov/records/download-va-letters/)
 	
 ## Recruitment 🎯	
 
@@ -119,19 +119,19 @@ Our intended audience are Veterans. We will partner with Perigean to recruit Vet
 > [!NOTE]
 > Your total number should equal **1.5x** your ideal completed sessions number *(e.g. for 10 ideal completed sessions, request 15 total participants)*
 
-- `Veterans:` **12**
+- `Veterans:` **18**
 - `Caregivers:` **0**
 - `Dependents:` **0**
-- `Total:` **12**
+- `Total:` **18**
 - `Ideal completed sessions:` **12**
 
 ### Primary criteria (must-haves)
 *What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
 
-- 6 are AT users
-  - 3 must use a screen reader every time they access the internet
-  - At least one uses a screen magnifier every time they access the internet
-  - At least one uses one of the following voice command/speech recognition apps every time they access the internet
+- 10 are AT users
+  - 5 must use a screen reader every time they access the internet
+  - At least 3 use a screen magnifier every time they access the internet
+  - At least 2 use one of the following voice command/speech recognition apps every time they access the internet
     - Dragon NaturallySpeaking
     - Talon
     - Voice Control
@@ -140,9 +140,10 @@ Our intended audience are Veterans. We will partner with Perigean to recruit Vet
     - Android Voice Access
 
 	
-- 6 are non-AT users
+- 8 are non-AT users
   - At least 3 have a computer and are willing to use it for the session
   - At least 3 have a smartphone and are willing to use it for the session
+  - At least 2 have a tablet and are willing to use it for the session
 - ALL
   - Must be Veterans and have experience with VA.gov
   - Have received a Benefit Summary and Service Verification Letter
@@ -156,7 +157,7 @@ Our intended audience are Veterans. We will partner with Perigean to recruit Vet
 *What criteria would strengthen your results?* 
 
 - 6 aged 55 years or older
-- 6 mobile web users
+- 6 mobile web users (phone and tablet)
 - 4 Hispanic, Black, Biracial, Asian, or Native
 - 3 rural
 - 3 women
@@ -182,7 +183,7 @@ Our intended audience are Veterans. We will partner with Perigean to recruit Vet
 - `Date and time of pilot session:` **[Enter time]** 
 
 ### Research sessions
-- `Planned dates of research:` **07/29-08/06**
+- `Planned dates of research:` **08/04-08/15**
 
 ### Length of sessions
 - `Session length:` 60 minutes for non-AT users / 90 minutes for AT users
@@ -194,13 +195,14 @@ Our intended audience are Veterans. We will partner with Perigean to recruit Vet
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
 
-- `7/29, Tue, 10:00AM-7:00PM EST`
-- `7/30, Wed, 10:00AM-7:00PM EST`
-- `7/31, Thu, 10:00AM-7:00PM EST`
-- `8/01, Fri, 10:00AM-7:00PM EST`
 - `8/04, Mon, 10:00AM-7:00PM EST`
 - `8/05, Tue, 10:00AM-7:00PM EST`
 - `8/06, Wed, 10:00AM-7:00PM EST`
+- `8/11, Wed, 10:00AM-7:00PM EST`
+- `8/12, Wed, 10:00AM-7:00PM EST`
+- `8/13, Wed, 10:00AM-7:00PM EST`
+- `8/14, Wed, 10:00AM-7:00PM EST`
+- `8/15, Wed, 10:00AM-7:00PM EST`
   
 ## Team Roles  🕵️👩‍💻👩‍🔬
 

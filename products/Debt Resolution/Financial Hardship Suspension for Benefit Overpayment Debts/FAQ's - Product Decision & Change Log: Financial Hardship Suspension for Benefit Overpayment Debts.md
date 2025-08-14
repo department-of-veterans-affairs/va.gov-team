@@ -119,13 +119,13 @@ Current # of accounts requesting relief ; as of June 1, 2025.
 - Copy of letter can be found here:  Link coming soon
 
 **24.  If they submit a suspension for one overpayment debt. Are all debts they have suspended or just the one?**
-- TBD - Bob is confirming the answer to this one. 
+- Yes, if the Veteran submits a supension request and it is approved then collection for all outstanding overpayment debts would be suspended.
 
 **25.  How does/would suspension affect interest, fees or repayment plans?**
-- TBD - Bob is confirming the answer to this one. 
+- There aren't many interest or other fees associated with debts any longer. If the Veteran had an active repayment plan then the associated payments would need to stop when a financial hardship suspension has been approved. 
 
 **26. Does DMC or VA have any additional resources that they might send a Veteran who is experiencing financial hardship? i.e. Are there any financial counseling or educational materials available?**
 - Yes, there are resources across va.gov that might be a good idea to provide as reference for Veterans are using 
 
 **27. Why would a Veteran choose a suspension over a waiver?**
-- TBD 
+- Typically because the Veteran knows that the debt is valid and they want to repay it. A suspension will simply delay the collection until a later time but a waiver would remove the debt entirely. Many Veterans want to repay the debt and just need some time to do so. 

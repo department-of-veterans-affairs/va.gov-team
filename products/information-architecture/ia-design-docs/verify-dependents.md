@@ -11,83 +11,72 @@
 - [URLs and breadcrumbs](#url)
 - [Entry points](#nav)
 - [Redirects](#redirects)
-- [Best Bets](#bestbets)
-- [Crosslinks](#crosslinks)
 - [Staged Rollout](#stagedrollout)
 
 
 ## <a name="flows"></a>User/page flows <br>
-Most up-to-date flow in [mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709582312238/ae3de21fd188beba8c28668ee37a31841c6203bf?wid=0-1716382766670&sender=ua67f17f1c416a96ea04d2476).
+
+<img width="1404" height="433" alt="Screenshot 2025-08-05 122346" src="https://github.com/user-attachments/assets/47df9399-0280-4b9d-bfd0-81ddb72218a4" />
+
 
 ## <a name="map"></a>Page structure<br>
-This is part of a longer term strategy to build a more robust dependents ecosystem. Strategic thinking at this [IA mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1717521751866/127cbff63df95bedf011a5463797989197bc069d). Proposal on the [team's mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1689863079145/5b97ba9ea11077f983f3413167f6324f11aa04a8?wid=0-1736373800549).
+Note: This page will live under the current [Review or change dependents for disability, pension, or DIC benefits](https://www.va.gov/view-change-dependents) page. The URL of this page is planned to update to /manage-dependents/ from /view-change-dependents/ before this form launches. That process is being managed by the dependents team and Central Content and IA team. 
 
-![Screenshot 2025-01-17 at 1 38 29 PM](https://github.com/user-attachments/assets/ec1cb253-afa2-454e-b9dc-834f127401e5)
-
+<img width="457" height="497" alt="Screenshot 2025-08-05 123041" src="https://github.com/user-attachments/assets/63f3bca4-5228-4bed-9207-59fa0ea58aef" />
 
 
 ## <a name="url"></a>URLs and breadcrumbs
 
-**1) Verify dependents - NEW**
-- URL: va.gov/manage-dependents/your-dependents/verify-form-21-0538/
-   - Suburl: va.gov/manage-dependents/your-dependents/verify-form-21-0538/confirmation
-- Breadcrumb: VA.gov home > Manage dependents > Your VA dependents > [H1 of 0538]
+**1) Verify your dependents for disability benefits - NEW**
+- URL: va.gov/manage-dependents/verify-form-21-0538/
+   - Suburl example: va.gov/manage-dependents/verify-form-21-0538/confirmation/
+- Breadcrumb: VA.gov home > Manage dependents > [H1 of 0538]
 
-**2) Manage dependents - CHANGE from /view-change-dependents**
-- URL: va.gov/manage-dependents
-- Breadcrumb: VA.gov home > Manage dependents 
-
-**3) Your VA dependents - CHANGE from /view**
-- URL: va.gov/manage-dependents/your-dependents
-- Breadcrumb: VA.gov home > Manage dependents > Your VA dependents
-
-**4) 686c/674 - CHANGE location in the subdirectory**
-- URL: va.gov/manage-dependents/your-dependents/add-remove-form-21-686c/
-- Breadcrumb: VA.gov home > Manage dependents > Your VA dependents > [H1 of 686c/674]
 
 ## <a name="nav"></a>Entry points <br>
-In this new ecosystem, users will get to the verify screen through an auth or unauth path. 
+Teams must launch with at least one entry point that allows site visitors to navigate to the new content or feature. 
 
-Unauth: they might come from an email or other authenticated page, that will take them to the /manage-dependents page to login. From the authenticated MyVA screen, users will walk through the update/verify widget thing at the bottom of the screen, and be directed to the correct form based on their answer.
+### Required entry point(s)
 
-Users will have to be authenticated to do either form, but the authenticated will happen on the /manage-dependents page. So there doesn't need to be any other sign in widgets in the rest of the dependents experience.
+1. **Review or change dependents for disability, pension, or DIC benefits**
+  - Placement description: A section should be added to the page for the 0538 form
+  - Link: https://www.va.gov/view-change-dependents
+  - Notes:
+    - Who will update: Central Content
+    - When will this entry point go live: at launch
 
-![Screenshot 2025-01-17 at 1 43 29 PM](https://github.com/user-attachments/assets/bb69dcb5-d0b0-494b-a76f-c267c90e9523)
+### Additional key entry points
+_Any additional key locations that the page should be navigable from. Although these are not required for launch, they are critical to the findability of your content/feature.  Examples of key entry points include "About a form" pages, additional navigation component (top, left) placements, additional static pages where its prominently linked from, etc._
 
-**Other entry points:**
-1. **Update [About VA Form 21-0538](https://www.va.gov/find-forms/about-form-21-0538)**
-![Screenshot 2025-01-17 at 1 47 48 PM](https://github.com/user-attachments/assets/7d32f7b5-f444-4774-baf6-24b72a29beed)
+1. **About VA Form 21-0538**
+  - Placement description: Add link for online tool
+  - Link: https://www.va.gov/find-forms/about-form-21-0538/
+  - Notes:
+    - Who will update: Central Content
+    - When will this entry point go live: at launch
+   
+Note: Crosslinks should be added to the About VA form pages for the 686c and 674. Other crosslinks should be evaluated post-launch. 
 
-2. **Update [About VA Form 21-686c](https://www.va.gov/find-forms/about-form-21-686c)**
-![Screenshot 2025-01-17 at 1 47 59 PM](https://github.com/user-attachments/assets/ad5481ea-54cd-4472-a102-91e5c18f06d1)
+##  <a name="redirects"></a>Redirects <br>
+While there will be redirects needed for the parent page and other forms/pages in this section as a part of the section renaming, this form is expected to launch with the updated /manage-dependents/ slug and therefore does not require a redirect itself.  
 
-3. **Update [Home page](https://www.va.gov/) link label**
-![Screenshot 2025-01-17 at 1 48 09 PM](https://github.com/user-attachments/assets/d624992b-5b53-4312-bc85-a808b9e6274f)
+## <a name="launch"></a>Launch coordination <br>
+*Communication when preparing for launch is critical to ensuring all supporting content, links, and messaging are implemented in a timely manner to ensure a good experience. Missing any of these steps can result in findability challenges, incorrect or misleading information, duplicate content, etc. *
 
-4. **Update [Disability](https://www.va.gov/disability), [Pension](https://www.va.gov/pension), and [Family member survivor comp subhub](https://www.va.gov/family-and-caregiver-benefits/survivor-compensation/) page link labels and descriptions**
-![Screenshot 2025-01-17 at 1 48 24 PM](https://github.com/user-attachments/assets/55bc0cdb-2f40-4fd0-ae5e-f76e5ffab3c1)
+Key task | Responsibility | When to complete | Additional info
+--- | --- | --- | ---
+Communicate date of staging review | Dependents team | Aug 15 | 
+Prepare entry point preview links | Content and IA | Prior to staging review |
+Communicate launch date | Dependents team | provide target launch window once identified |
 
-5. **Update Disability and Pension left nav link labels**
-![Screenshot 2025-01-17 at 1 48 33 PM](https://github.com/user-attachments/assets/7077d4ca-5f77-4374-a16d-58df820d6743)
+### Staged rollout
+*Is the team planning a staged rollout? Roll-outs hidden behind a flipper flag need a static page to place a sign in widget or CTA on. Pages/sections where a sign in widget can't be implemented - find a form pages, within accordions, hub pages*
+
+1. What is the team's staged rollout plan?
+2. Which page will have the widget that controls views?
+3. Does the team need to manage search-engine results during rollout?
 
 
-## <a name="redirects"></a>Redirects <br>
-| Page Name                      | Current URL                                        | Will redirect to…                                                |
-|--------------------------------|----------------------------------------------------|------------------------------------------------------------------|
-| Unauth dependents landing page | va.gov/view-change-dependents/                     | va.gov/manage-dependents/                                        |
-| Your VA Dependents             | va.gov/view-change-dependents/view                 | va.gov/manage-dependents/your-dependents                         |
-| 686c/674                       | va.gov/view-change-dependents/add-remove-form-686c | va.gov/manage-dependents/your-dependents/add-remove-form-21-686c |
-
-## <a name="bestbets"></a>Best Bets<br>
-
-1. Update existing bestbet for /view-change-dependents to point to /manage-dependents
-![Screenshot 2025-01-17 at 1 52 54 PM](https://github.com/user-attachments/assets/fbbb7a6c-a312-4efd-9102-e6b13874463e)
-
-2. Revisit whether we want to keep our best bets for the Form pages. If not, delete. If so, perhaps adjust keywords.
-![Screenshot 2025-01-17 at 1 53 08 PM](https://github.com/user-attachments/assets/32be4ec9-4675-474e-97f0-17bdde65569c)\
-
-3. Reevaluate keywords for the new /manage-dependents best bet -- may need to add some
-![Screenshot 2025-01-17 at 1 53 56 PM](https://github.com/user-attachments/assets/171f042d-1550-4c16-972c-be1ce66c7e2e)
 
 
 

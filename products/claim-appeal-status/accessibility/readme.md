@@ -6,7 +6,7 @@ The [Benefits Management Tools and Decision Reviews Accessibility Work project b
 
 ## Requesting Accessibility Support
 
-If you are a team member looking for accessibility support, please submit a ticket using the [A11y Support Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/accessibility/a11y-support-template.md).
+If you are a team member looking for accessibility support, please submit a request ticket using the [Benefits Accessibility Practice Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=benefits-accessibility-practice-template.md). You can use the link or the template is also populated when you click "New Issue" in the `va.gov-team` repo.
 
 ## Open A11y Issues Quick Links
 - [Claims Status Tool](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=label%3A%22Claim+Status+Tool%22+label%3Aaccessibility++is%3Aopen+)

@@ -74,7 +74,7 @@ Investigation
 
 Resolution
 
-  -In a private teams chat labeled **CHAMPVA Production Support**, the PEGA batch ID and name will be given to the EEV Escalation team (Scot Uyeoka supervisor) where an analyst will examine the application to see if it missing any informatoin for processing.
+  - In a private teams chat labeled **CHAMPVA Production Support**, the PEGA batch ID and name will be given to the EEV Escalation team (Scot Uyeoka supervisor) where an analyst will examine the application to see if it missing any information for processing.
   - The EEV Escalation team will provide a decision on whether or not the user needs to be contacted and asked for a resubmit of part or all of the form and its documents and will electronically reach out to the applicant to make the application complete.
   - The VA.gov team will clear the error.
   - Based on the PEGA team's response, work with PM, PO, and PEGA team to reach out to the affected user(s).

@@ -28,6 +28,7 @@ flowchart TD
     B -- Logging --> G
     D -- Logging --> G
     F -- Sends to User --> H
+    F -- Sends callback --> D
 
     classDef external color:#999,fill:#004,stroke:#008,font-style:italic;
     classDef note color:#000,fill:#ff88,stroke:#fff8,stroke-width:5px,font-size:0.9rem;

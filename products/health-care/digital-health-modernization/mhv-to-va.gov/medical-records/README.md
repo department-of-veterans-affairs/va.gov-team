@@ -4,27 +4,13 @@ Last Updated: May 6. 2025
 
 ### Communications
 
-- **Github labels**: my-health; mhv-to-va.gov-MR
-- **Slack channel**: [#mhv-medical-records](https://dsva.slack.com/channels/mhv-medical-records)
+- **Github labels**: TEAM-mhv-medical-records, PRODUCT-mhv-medical-records
+- **Slack channel**: [#mhv-medical-records-team](https://dsva.slack.com/channels/mhv-medical-records-team)
 
-### Roles  
+### The Team
+
+[MHV Teams and Roles](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/health-portal/health-portal-team.md)
   
-|Name|Role|Email|
-|----|----|-----|
-|Lauren Alexanderson |OCTO Portfolio Director|lauren.alexanderson@va.gov|
-|Marci McGuire |OCTO Product Lead| marci.mcguire@va.gov |
-|Kaitlin Fink |OCTO Design Lead| kaitlin.fink@va.gov |
-|Stephen Barrs | OCTO Engineering Lead | stephen.barrs@va.gov |
-|Bresha Lipscomb | VA Product Owner | bresha.lipscomb@va.gov |
-|Bryan Riley | ByLight Delivery Mgr | bryan.riley@va.gov |
-|Lichelle Bain | ByLight Product Manager | lichelle.bain@va.gov |
-|Danielle Thierry| Content and IA | danielle.thierry@va.gov |
-|Martha Wilkes |OCTO Accessibility Strategist | martha.wilkes@va.gov |
-|Alexia Wunder | By Light Design Lead | alexia.wunder@va.gov |
-|Robert (Bobby) Bailey  | By Light UX Senior Accessibility and Operations | robert.bailey1@va.gov |
-|Mike Moyer | ByLight Lead Developer | michael.moyer@va.gov |
-|Anne Costello| ByLight Lead Researcher | anne.costello@bylight.com |
-
 
 ## Overview
 Medical Records on VA.gov will provide Veterans with the same ability to view their VA health care data providers as on the standalone MyHealtheVet (MHV) health portal. 

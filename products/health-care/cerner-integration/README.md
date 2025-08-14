@@ -15,13 +15,20 @@ This is a folder for the Cerner integration work.
 | [Lung Cancer Screening](https://github.com/department-of-veterans-affairs/lung-cancer-screen-and-track) (LCS) | Deployed in P0630 | ------------- |
 | Precision Oncology (PO) | No Cerner Integration | ------------- |
 
+# Cerner Dev Sandbox
+- [Build Smart on FHIR Overview](https://docs.oracle.com/en/industries/health/millennium-platform-apis/build-smart-on-fhir-apps/#overview)
+- [App set up Instructions](https://engineering.cerner.com/smart-on-fhir-tutorial/)
+- [Oracle Health Code Console ](https://code-console.cerner.com/)
+- [Developer Resources](https://www.oracle.com/health/developer/program/#tools)
+- [Developer Forum](https://forums.oracle.com/ords/apexds/domain/open-developer-experience)
+- Front end (needs Oracle Health consultant to grant access): C1941 https://cernabcn.cernerworks.com/Citrix/ProdWeb/
+
 # Cerner Environments
 - Dev Sandbox: C1941 https://cernabcn.cernerworks.com/Citrix/ProdWeb/
 - Stage: B1930 https://ssoiaccess.valehrpreprod.cernerworks.ehr.gov/
 - Prod: P0630 https://ssoiaccess.valehr.cernerworks.ehr.gov/
 
 # Requesting Access to Cerner Environments
-- C1941 Access -- Email Cerner resources for Access to Commercial Sandbox
 - Federal Domain Access -- [National URAC Process](https://dvagov.sharepoint.com/:w:/r/sites/VACO.OEHRMvisn/SitesDeploy/_layouts/15/Doc.aspx?sourcedoc=%7B1C47011C-F604-4618-B4F5-8E0DC10A7F48%7D&file=National%20URAC%20Provisioning%20Process.docx&action=default&mobileredirect=true&DefaultItemOpen=1&wdhostclicktime=1667246077835&web=1&cid=ff60d63d-0a80-4a6f-abc8-ff1a819ec4d0) (simplified instructions below)
 
 Cerner Request Process: 

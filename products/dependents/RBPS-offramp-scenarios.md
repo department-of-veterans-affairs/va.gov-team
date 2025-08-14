@@ -1,7 +1,8 @@
 # 686c and 674 Off-Ramp Scenarios
 
-VA.gov sends certain 21-686c and 21-674 claims with a "claim type" of `MANUAL_VAGOV` with a note to BIS. BIS then off-ramps those claims to the Central Mail manual processing queue rather than sending them to RBPS for automated processing. [This is a dashboard](https://vagov.ddog-gov.com/dashboard/nyf-p7y-adm/bgs-686c-674-dashboard?fromUser=false&refresh_mode=sliding&from_ts=1746392698677&to_ts=1748984698677&live=true) that shows the volume of 686/674 claim types off-ramped by VA.gov.
+VA.gov sends certain 21-686c and 21-674 claims with a "claim type" of `MANUAL_VAGOV` with a note to BIS. BIS then off-ramps those claims to the Central Mail manual processing queue rather than sending them to RBPS for automated processing. This is primarily done to ensure the RBPS processing queue remains managable and primarily consists of claims that RBPS can process. [This is a dashboard](https://vagov.ddog-gov.com/dashboard/nyf-p7y-adm/bgs-686c-674-dashboard?fromUser=false&refresh_mode=sliding&from_ts=1746392698677&to_ts=1748984698677&live=true) that shows the volume of 686/674 claim types off-ramped by VA.gov.
 
+## 674-only claims
 In March 2025, VA.gov removed the `MANUAL_VAGOV` "flag" from 674-only claims (see [ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97875)), and started sending all 674-only claims to RBPS for automated processing. This resulted in RBPS auto-processing 30% of 674-only claims. The remainder were off-ramped for manual processing by RBPS for expected reasons. If the 674-only claim meets all the conditions within RBPS, it will be processed automatically. However, if the claim contains any of the following conditions, RBPS will off-ramp the claim for manual processing (as intended):
    - School is listed as not accredited.
    - Continuous school term could not be determined as school start date is near 18th birthdate.
@@ -16,6 +17,7 @@ In March 2025, VA.gov removed the `MANUAL_VAGOV` "flag" from 674-only claims (se
    - Child's name, ssn, dob does not match corporate records. ([#61672](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61672) could mitigate this issue.)
    - Child does not exist on award. ([#61672](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61672) could mitigate this issue.)
 
+## Claim types VA.gov off-ramps
 The following claim types still receive the `MANUAL_VAGOV` "flag" and are off-ramped by BIS before they reach RBPS.
 - All 686c claims submitted with a 674
    - These claim types are off-ramped bc VA.gov assigns a seperate procID to each claim type. [Work needs to be done](https://github.com/department-of-veterans-affairs/va.gov-team/issues/25030) to merge both claims under the same procID. Once this is done, these claim types can go directly to RBPS and no longer need to be off-ramped by VA.gov
@@ -50,4 +52,5 @@ def set_to_manual_vagov(reason_code)
   end
 ```
 
-*NOTE:* Code was added to VA.gov in 2021 that was intended to off-ramp 686c requests to remove a dependent if the claimant was receiving pension, but the code was never turned on (placed behind a flipper) because the BGS Award Service API was not working (see this spike [#76465](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76465)). We believe these claims are still going to RBPS, but RBPS is off-ramping them (rather than VA.gov). Before fixing the API and turning on the flipper, [we need to understand](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89909) if the current logic for off-ramping pension claims is still correct. As part of this process, VA.gov also needs to [send the answers](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103842) to two income-related questions to RBPS, so it can automatically process pension-related dependent changes.
+## Dependent removals (686c) that impact pension
+Code was added to VA.gov in 2021 that was intended to off-ramp 686c requests to remove a dependent if the claimant was receiving pension, but the code was never turned on (placed behind a flipper) because the BGS Award Service API was not working (see this spike [#76465](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76465)). We believe these claims are still going to RBPS, but RBPS is off-ramping them (rather than VA.gov). Before fixing the API and turning on the flipper, [we need to understand](https://github.com/department-of-veterans-affairs/va.gov-team/issues/89909) if the current logic for off-ramping pension claims is still correct. As part of this process, VA.gov also needs to [send the answers](https://github.com/department-of-veterans-affairs/va.gov-team/issues/103842) to two income-related questions to RBPS, so it can automatically process pension-related dependent changes.

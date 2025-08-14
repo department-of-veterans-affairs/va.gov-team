@@ -1,6 +1,4 @@
-# 🔧 A11y Support Request
-
-Please copy this template into a new GitHub issue to request A11y support 😊
+# 🔧 Accessibility Support Request
 
 ## I am requesting...
 

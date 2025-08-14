@@ -3,6 +3,7 @@ This document contains tidbits, odds & ends, and information about the 10-10EZ f
 
 ### Abbreviations
 - ES = Enrollment System/Service
+- VES = Veteran Enrollment System
 - EE/E&E = Eligibility and Enrollment
 - HEC = Heathcare Enrollment Services
 - HCA - Health Care Application (AKA 10-10EZ)
@@ -23,6 +24,11 @@ Systems used by Application Processing teams
      - Used to obtain documents such as DD-214 and DD-215
 
 ### Development
+- 10-10EZR form launched at 100% on April 11, 2024 (phased launch from December 2023)
+     - Used by Veterans to update their VA health care information.
+     - Averaging approximately 4,500 submissions per month.
+     - This form requires VA.gov authentication to access it and submit updates.
+     - Housed under the va.gov/my-health (MHV on VA.gov) umbrella
 - 5/21/2024 - According to Joshua Faulkner, document attachment data is not exposed to the EE API and therefore cannot be accessed via requests.
 
 

@@ -24,11 +24,10 @@ We base the guidance in each content brief on these sources:
 
 ## Who creates a content brief for a new topic area?
 
-The sitewide content and IA team creates and manages each content brief.
+The Content and IA team creates and manages each content brief.
 
 Briefs are living documents made for shared collaboration. We encourage researchers to add their latest content-specific research findings. We encourage subject matter experts to add notes for consideration. We encourage all team members across VA to reach out to the sitewide content and IA team any time with questions or suggestions for content briefs.
 
-Slack channel: #sitewide-content-ia
-
+Slack channel: [#content-ia-centralized-team](https://dsva.slack.com/archives/C01K37HRUAH)
 
 

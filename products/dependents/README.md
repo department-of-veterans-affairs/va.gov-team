@@ -94,11 +94,6 @@ Dependent information is used accross many forms and experiences on VA.gov (pens
 
 - [Roadmap](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1692908527043/0da94b7ded52e8a943d798bcb8ae39697c2fb56f?wid=71-1692908552841)
 
-  ### Now
-
-  ### Next
-
-  ### Later
 
 ### Initiatives
 - [2023 Validate Zip Codes for Military Bases Outside the U.S.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/21-686C-military-base-outside-the-US-address-issues/initiative-brief.md) (This validation was eventually added to the platform-level address design component.)
@@ -116,6 +111,7 @@ Dependent information is used accross many forms and experiences on VA.gov (pens
 
 ---
 ## Key Decisions
+
 
 ---
    

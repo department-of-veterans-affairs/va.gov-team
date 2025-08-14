@@ -1,7 +1,3 @@
- # 🚧 🚧 🚧 Work in Progress 🚧 🚧 🚧 #
- <br>
- <br>
- 
  	# Research Plan for Mobile Feature Support, Debt Portal: Overpayments and Copayments, May 2025
 
 
@@ -109,7 +105,7 @@ Veterans currently manage their debt and copayments on VA.gov; this will be a ne
 `11.` How do users feel about having no option to pay their debt or bills through the app?  
 `12.` How do users feel about leaving the app to pay their debt through pay.va.gov?  
 `13.` How do users feel about leaving the app to pay their bills through pay.gov?  
-`14.` Are users comfortable signing in to a new site and copying/pasting information from the app to complete a payment?  
+`14.` Are users comfortable navigating to a new site and copying/pasting information from the app to complete a payment?  
 `15.` How do users feel about being redirected to VA.gov to complete actions like requesting help or disputing a debt?  
 
 **Prioritize features for the minimum viable product (MVP) that will handle overpayments and copayments in the app.**
@@ -124,7 +120,7 @@ Veterans currently manage their debt and copayments on VA.gov; this will be a ne
 - Veterans will appreciate the overview of money owed from overpayment debts and copays.
 - Veterans will find the details of each payment owed clear.
 - Veterans will find navigation confusing when redirected out of the app to complete tasks.
-- Veterans will be frustrated by having to log in to another site to make payments.
+- Veterans will be frustrated by having to copy and paste information in another site to make payments.
 - PDF copay statements will not be useful.
 - Veterans will find the help pages overwhelming with too much information.
 
@@ -132,7 +128,11 @@ Veterans currently manage their debt and copayments on VA.gov; this will be a ne
 
 ## Methodology  🛠️
 
-Moderated usability testing using high-fidelity Figma prototypes over Zoom. The prototypes will simulate the mobile app's MVP debt portal where users can view details on their copays and overpayment debts.
+Moderated usability testing using high-fidelity Figma prototypes over Zoom. Participants will view and interact with the prototype via the Figma mobile app, using account credentials that we supply during the sessions. 
+
+The prototype will simulate the mobile app's MVP debt portal where users can view details on their copays and overpayment debts, and also simulate the journey of leaving the mobile app to access information via a web browser.
+
+Backup plan: in case of any participants having difficulties opening the prototype in the Figma app, we will have them open the prototype in a web browser on their phone.
 
 Sessions will also include semi-structured interview questions. These questions will explore:
 
@@ -150,7 +150,7 @@ Note on Accessibility: Due to prototype limitations, this study will not include
 
 **For moderated usability tests:** 
 - [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/mobile/conversation_guide.md)
-- [Link to prototype](url goes here)
+- Prototype: [Version with no payment](https://www.figma.com/proto/kRA7JHbthNrSLxTQHrzH8T/MFS---Overpayments---Copays-%7C-VA-Mobile?page-id=2001%3A429&node-id=7274-61308&p=f&viewport=24600%2C-1348%2C0.59&t=RzEWQo0ZfxtjJRxF-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=7274%3A61308&show-proto-sidebar=1) / [Version with payment](https://www.figma.com/proto/kRA7JHbthNrSLxTQHrzH8T/MFS---Overpayments---Copays-%7C-VA-Mobile?page-id=2001%3A429&node-id=7372-28070&p=f&viewport=24600%2C-1348%2C0.59&t=RzEWQo0ZfxtjJRxF-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=7372%3A28070&show-proto-sidebar=1)
 
 
 
@@ -160,7 +160,10 @@ Note on Accessibility: Due to prototype limitations, this study will not include
 
 ### Recruitment approach
 
-We would like Perigean to recruit Veterans, non-AT users, for Zoom sessions on smartphones.
+We would like Perigean to recruit Veterans, non-AT (assistive technology) users, for Zoom sessions on smartphones.
+
+We would like our participants to download the Figma app prior to the sessions. They should not create an account within the app, only have it downloaded. It is available at the [Google Play Store](https://play.google.com/store/apps/details?id=com.figma.mirror&hl=en_US) and the [Apple App Store](https://apps.apple.com/us/app/figma/id1152747299).
+
 Two cohorts: those who have experience with benefits overpayment debts, and those who have experience with VA healthcare copayments. Ideally, some participants will have experience with both.
 
 ### Recruitment criteria
@@ -178,6 +181,9 @@ Two cohorts: those who have experience with benefits overpayment debts, and thos
 	- `Cohort 2: 8 received a VA copayment bill in the last year`
 - `Range of debt amount (for Cohort 1)`
 - `Complete session on their smartphone via the Zoom app`
+- `Download the Figma app ahead of time, though not creating an account`
+	- [Figma on Google Play Store](https://play.google.com/store/apps/details?id=com.figma.mirror&hl=en_US)
+	- [Figma on Apple App Store](https://apps.apple.com/us/app/figma/id1152747299)
 - `No assistive technology users or accessibility features turned on`
     * (this is due to prototype limitations; we will be testing with assistive technology at a later date)
 
@@ -284,27 +290,19 @@ Two cohorts: those who have experience with benefits overpayment debts, and thos
 <br>
 
 
-<!--
 ## Timeline 🗓️
-> [!NOTE]
-> **Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.** 
 
 ### Optional Kick-off Call with Perigean
 
-- `Suggested dates and times:` **[Enter dates and times MM/DD HH:MM]**
+- `Suggested dates and times:` **July 16 9:00 AM - 11:30 AM / 2:30 PM - 3:30 PM EDT**
 
 ### Prepare
-*When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).*
 
-**A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.** 
-> [!NOTE]
-> **Send pilot participant email in study Slack channel**
-
-- `Pilot participant name:` **[Enter name]**
-- `Date and time of pilot session:` **[Enter time]** 
+- `Pilot participant name:` **Matt Guest**
+- `Date and time of pilot session:` **July 16 2:30 PM EDT** 
 
 ### Research sessions
-- `Planned dates of research:` **[Enter dates MM/DD-MM/DD]**
+- `Planned dates of research:` **07/24-08/01**
 
 ### Length of sessions
 - `Session length:` **1 hour**
@@ -314,24 +312,15 @@ Two cohorts: those who have experience with benefits overpayment debts, and thos
 - `Maximum Sessions per day:` **4**
 
 ### Availability
-When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
 
-> [!NOTE]
-> We recommend providing availability outside of work hours, as many Veterans are only available before and after working times, and live across the U.S. 
+- `[07/24, Thursday, 10:30 AM - 4:00 PM] EDT`
+- `[07/25, Friday, 10:30 AM - 1:00 PM] EDT`
+- `[07/28, Monday, 9:00 AM - 4:00 PM / 8:00 PM - 10:30 PM] EDT`
+- `[07/29, Tuesday, 9:00 AM - 4:00 PM / 8:00 PM - 10:30 PM] EDT`
+- `[07/30, Wednesday, 9:00 AM - 1:00 PM] EDT`
+- `[07/31, Thursday, 9:00 AM - 4:00 PM] EDT`
+- `[08/01, Friday, 9:00 AM - 4:00 PM] EDT`
 
-> [!TIP]
-> Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. **(e.g. 3/17, Monday 9:00AM-1:00PM, 3:00PM-6:00PM EST; 3/18, Tuesday 9:00AM-6:00PM EST, etc.;** ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
->
-> **Place time slots between `hash marks` when in edit mode.**
-
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `Add more slots as needed`
-  
--->
 
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
@@ -349,6 +338,7 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 - `Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work. Spread observers across sessions. There should be no more than 5 to 6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side.`
 
 	- **Natasha Huckleberry**
+	- **Thomas Michaud**  
 	- **Natalie Davied Gibbons**
 	- **Jason DeHaan**
 	- **Parker Baranowski**
@@ -363,4 +353,4 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 
 ## Approvals ✅
 - `Reviewed by Michelle Middaugh, OCTO Product Owner on 06-27-2025`
-- `Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]`
+- `Reviewed by OCTO Research-Ops Lead on [07-10-2025]`

@@ -1,3 +1,3 @@
 # VA Health and Benefits Mobile App Core Team
 
-![VA Health and Benefits Team Org Chart](https://github.com/user-attachments/assets/4cf524f9-4ad0-4b0d-b102-39fe4a698419)
+<img width="1002" height="538" alt="Mobile Team Org Chart as of August 1, 2025" src="https://github.com/user-attachments/assets/40556e43-fbd0-4dd5-9189-6cd8cbafde44" />

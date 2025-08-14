@@ -5,7 +5,7 @@ Each year, VA.gov undergoes a Cost of Living Adjustment (COLA) update.  This occ
 ---
 
 ### What is the impact to the 10-10EZ form on VA.gov:
-* During this time, there are several systems that will be in a maintenance window.  This includes BGS, which is the service we call to gain disability ratings. We use disability ratings for those authenticated Veterans who have a 50% or higher disability rating, so that the form will automatically direct them through the Short Form flow.
+* During this time, there are several systems that will be in a maintenance window.  This includes BEP (Formerly BGS), which is the service we call to gain disability ratings. We use disability ratings for those authenticated Veterans who have a 50% or higher disability rating, so that the form will automatically direct them through the Short Form flow.
 
 ### What we’ve done to mitigate: 
 * To avoid calling the service while it is under a maintenance window, and causing additional noise with the errors that would result in a rejected call, we have implemented a temporary code change that returns a zero disability rating.  This will not stop Veterans from completing and submitting the form.  It also allows all Veterans to self-disclose their disability rating, so that those who qualify for the Short Form flow will still be directed through it.

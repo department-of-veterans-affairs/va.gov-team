@@ -12,7 +12,7 @@ To start, you will need access to the following tools/services:
 2. Power BI Service (https://app.PowerBIgov.us/home)
 3. Google Analytics
 
-We will walk through several steps to create the report
+We will walk through several steps to create the report:
 1. Verifying the event displays and fires as you expect in GA
 2. Create a report within Power BI Desktop and set up the GA Connector
 3. Create a query using the GA Connector for the needed measures and dimensions
@@ -33,12 +33,12 @@ Analytics.
    
 ![Data sources menu in Power BI](https://github.com/department-of-veterans-affairs/va.gov-team/blob/4b0db68b01e4ec95ae450a40af7f795750e1448a/products/va-mobile-app/analytics/New%20Report%20Template/1_1_getData.png)
 
-5. Select "Google Analytics" and click "Connect"
+4. Select "Google Analytics" and click "Connect"
     The first time you use this connector, you will have to authenticate with your GA credentials (https://learn.microsoft.com/en-us/power-query/connectors/google-analytics#connect-to-google-analytics-data-from-power-query-desktop)
 
 ![Get data menu in Power BI](https://github.com/department-of-veterans-affairs/va.gov-team/blob/1ebf69d6b5d30afd592718bc377e9788dcbb5c48/products/va-mobile-app/analytics/New%20Report%20Template/1_2_gaconnector.png)
 
-7. Select 2.0
+5. Select 2.0
 
 ## Create a query using the GA Connector for the needed measures and dimensions
 1. In the navigator, expand through "VA.gov" down to "va-mobile". These are the metrics and dimensions 
@@ -46,20 +46,19 @@ Analytics.
    
 ![Navigator in Power BI](https://github.com/department-of-veterans-affairs/va.gov-team/blob/1ebf69d6b5d30afd592718bc377e9788dcbb5c48/products/va-mobile-app/analytics/New%20Report%20Template/3_1_navigator.png)
 
-3. Select the **eventCount** measure and **eventName** and **date** dimensions
-4. 
+2. Select the **eventCount** measure and **eventName** and **date** dimensions 
 ![Navigator showing the table generated from the event query](https://github.com/department-of-veterans-affairs/va.gov-team/blob/1ebf69d6b5d30afd592718bc377e9788dcbb5c48/products/va-mobile-app/analytics/New%20Report%20Template/3_2_pretransformquery.png)
 
-6. Select "Transform Data" to bring up the Power Query Editor
-7. Enter a name for your model in the properties section
-8. Click the arrow next to **eventName** to add a filter. Filter by the name of your event. Because the filter loads 
+3. Select "Transform Data" to bring up the Power Query Editor
+4. Enter a name for your model in the properties section
+5. Click the arrow next to **eventName** to add a filter. Filter by the name of your event. Because the filter loads 
    in partial data, you may have to click "Load More" to see your event in the list. If the event doesn't appear in 
    the list, you can add the filter manually using the "Text Filters" menu and it will load once the full query is 
    run when the model is saved.
    
 ![Event name filter in semantic model editor](https://github.com/department-of-veterans-affairs/va.gov-team/blob/1ebf69d6b5d30afd592718bc377e9788dcbb5c48/products/va-mobile-app/analytics/New%20Report%20Template/3_5_addfilter.png)
 
-10. Verify the table looks as you expect, then click "File" -> "Close and Apply". This will bring you back to the 
+6. Verify the table looks as you expect, then click "File" -> "Close and Apply". This will bring you back to the 
    report view, and you should see your model on the side in the "Data" column
 
 ## Visualize the Data
@@ -70,12 +69,12 @@ Analytics.
    
 ![Date format menu for x-axis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/1ebf69d6b5d30afd592718bc377e9788dcbb5c48/products/va-mobile-app/analytics/New%20Report%20Template/4_1date.png)
 
-4. Drag eventCount to the y-axis
-5. Drag **date** to the filters section and configure the range of time you wish to show. Changing the filter type 
+3. Drag eventCount to the y-axis
+4. Drag **date** to the filters section and configure the range of time you wish to show. Changing the filter type 
    to "Relative date" will allow you set a value such as "in the last 1 month"
-6. You can now configure some details of your visualization in the Visualizations section. You can choose whether to 
+5. You can now configure some details of your visualization in the Visualizations section. You can choose whether to 
    display data labels, change X/Y axis names, or many other visual customizations. 
-7. Set a name for the tab of this report that describes what is shown (ex/ My Event Over Time)
+6. Set a name for the tab of this report that describes what is shown (ex/ My Event Over Time)
    
 ![Visual options for the report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/1ebf69d6b5d30afd592718bc377e9788dcbb5c48/products/va-mobile-app/analytics/New%20Report%20Template/4_2report.png)
 
@@ -89,7 +88,7 @@ Analytics.
 
 Your report is now published to Power BI! There are now a few things you may want to do with your report:
 
-## Setup Refresh
+## Set Up Refresh
 By default, your report will look as you created it with the data in your model at the time of publish. To set up a 
 refresh and run this query from the service automatically, go to the "Data hub" tab, find your semantic model and 
 use the "Schedule Refresh" workflow to schedule a daily or weekly time to run the query.
@@ -101,3 +100,33 @@ dashboard". Select a dashboard and the visual will be added. Within the dashboar
 like and format it to fit the dashboard. 
 
 ![Pin to dashboard UI](https://github.com/department-of-veterans-affairs/va.gov-team/blob/1ebf69d6b5d30afd592718bc377e9788dcbb5c48/products/va-mobile-app/analytics/New%20Report%20Template/pintodashboard.png)
+
+## Creating a Screen View Report
+
+Here we will walk through creating a semantic model and visualization fora common use case of the number of times a screen is viewed over time.
+
+### Creating the Query
+
+1. Use the Get Data menu to begin a new GA query and navigate to va-mobile
+2. Select date and unifiedScreenName dimensions and the screenPageViews measure
+3. Select Transform Data to bring up the query editor
+4. Filter unifiedScreenName by the name of the screen you wish to track
+
+![Query screen name filter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/5cdbe686e768f5a96dae800f9f03127b0be06380/products/va-mobile-app/analytics/New%20Report%20Template/5_1query.png)
+
+5. You should now see a model representing a page view count for each date for the filtered screen. Enter an appropriate name in the query settings panel and save
+   
+![Table showing results of screen name query](https://github.com/department-of-veterans-affairs/va.gov-team/blob/5cdbe686e768f5a96dae800f9f03127b0be06380/products/va-mobile-app/analytics/New%20Report%20Template/5_2model.png)
+
+* Note - When creating multiple reports, you may be able to expand the filter to an existing query to include the desired screen rather than creating a new query for every screen reported
+
+### Create the Visualization
+
+1. On a blank page in the report, select Line Chart from the visualizations panel
+2. Drag date from the data panel to the X-axis section in visualizations and select date from the right click menu instead of Date Heirarchy
+3. Drag screenPageViews to the Y-axis
+4. If using a shared model, add a filter to the page to isolate the unifiedScreenName being reported on
+5. Add any other filters to date to isolate the desired time frame
+
+![Visualized Report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/5cdbe686e768f5a96dae800f9f03127b0be06380/products/va-mobile-app/analytics/New%20Report%20Template/5_3viewsovertime.png)
+

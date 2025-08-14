@@ -1,0 +1,426 @@
+<html>
+  <head>
+    <title>Claims and Expenses Frontend</title>
+    <script>
+      // Global variable to store current claim ID
+      let currentClaimId = null;
+
+      // Utility function to show a specific page (div) and hide others
+      function showPage(pageId) {
+        const pages = document.querySelectorAll('.page');
+        pages.forEach(page => page.style.display = 'none');
+        document.getElementById(pageId).style.display = 'block';
+      }
+
+      // New helper: fetchWithTimer 
+      function fetchWithTimer(url, options, resultElementId) {
+        const start = performance.now();
+        return fetch(url, options).then(response => {
+          const elapsed = performance.now() - start;
+          const resultElem = document.getElementById(resultElementId);
+          // Check if a timer element already exists immediately above
+          let timerElem = resultElem.previousElementSibling;
+          if (!timerElem || !timerElem.classList.contains("requestTime")) {
+            timerElem = document.createElement("div");
+            timerElem.className = "requestTime";
+            resultElem.parentNode.insertBefore(timerElem, resultElem);
+          }
+          timerElem.textContent = `Request took: ${elapsed.toFixed(2)} ms`;
+          return response;
+        });
+      }
+
+      // Create a new claim via POST /claims and then switch to expense menu
+      async function createClaim() {
+        document.getElementById("claimResult").textContent = "Loading...";
+        const claimantName = document.getElementById("claimant_name").value;
+        const appointmentId = document.getElementById("appointment_id").value;
+        const data = { claimant_name: claimantName, appointment_id: appointmentId };
+        const response = await fetchWithTimer('/claims', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(data)
+        }, "claimResult");
+        const result = await response.json();
+        document.getElementById("claimResult").textContent = JSON.stringify(result, null, 2);
+        currentClaimId = result.id;
+        updateClaimVisualizer(); // update immediately
+        showPage("page-expense-menu");
+      }
+
+      // Get claim details (and its expenses) and update visualizer panel
+      async function updateClaimVisualizer() {
+        if (!currentClaimId) return;
+        document.getElementById("claimVisualizer").textContent = "Loading...";
+        const response = await fetchWithTimer('/claims/' + currentClaimId, {}, "claimVisualizer");
+        const result = await response.json();
+        document.getElementById("claimVisualizer").textContent = JSON.stringify(result, null, 2);
+      }
+
+      // New: Start polling for the claim details periodically to update visualizer
+      function startClaimPolling() {
+        setInterval(() => {
+          if (currentClaimId) {
+            updateClaimVisualizer();
+          }
+        }, 3000); // update every 3 seconds
+      }
+
+      // When an expense type is chosen from the menu, show its form page.
+      function selectExpense(expenseType) {
+        // Save selected expense type
+        document.getElementById("selectedExpenseType").value = expenseType;
+        // Hide all subforms in expense-form-container
+        const subforms = document.querySelectorAll("#expense-form-container .expense-subform");
+        subforms.forEach(sf => sf.style.display = 'none');
+        // Show only the subform corresponding to the selected expense type
+        const formId = "form-" + expenseType;
+        const selectedForm = document.getElementById(formId);
+        if (selectedForm) {
+          selectedForm.style.display = 'block';
+        }
+        showPage("page-expense-form");
+      }
+
+      // Save the expense for the selected type, then return to expense menu.
+      async function saveExpense() {
+        const expenseType = document.getElementById("selectedExpenseType").value;
+        // Call createExpense with the expense type prefixed by "current" (for our single form instance).
+        // We assume our expense form input ids use the expenseType string (lowercase) as prefix.
+        createExpense(expenseType).then(() => {
+          updateClaimVisualizer(); // refresh visualizer
+          showPage("page-expense-menu");
+        });
+      }
+
+      // Updated createExpense function. It uses the expense form inputs in the expense form page.
+      async function createExpense(expenseType) {
+        document.getElementById(expenseType + "ExpenseResult").textContent = "Loading...";
+        let data = { claim_id: currentClaimId, purchase_info: {} };
+
+        // For simplicity, assume the expense form has inputs with id:
+        // [expenseType]_purchase_date, [expenseType]_description, [expenseType]_cost, plus other fields if needed.
+        if(expenseType === 'flight') {
+          data.purchase_info = {
+            purchase_date: document.getElementById("flight_purchase_date").value,
+            description: document.getElementById("flight_description").value,
+            costRequested: parseFloat(document.getElementById("flight_cost").value)
+          };
+          data.vendor = document.getElementById("flight_vendor").value;
+          data.trip_type = document.getElementById("flight_trip_type").value;
+          data.departure_location = document.getElementById("flight_departure").value;
+          data.arrival_location = document.getElementById("flight_arrival").value;
+          // Include new from/to dates for flight
+          data["from"] = document.getElementById("flight_from").value;
+          data["to"] = document.getElementById("flight_to").value;
+        }
+        else if(expenseType === 'lodging') {
+          data.purchase_info = {
+            purchase_date: document.getElementById("lodging_purchase_date").value,
+            description: document.getElementById("lodging_description").value,
+            costRequested: parseFloat(document.getElementById("lodging_cost").value)
+          };
+          data.vendor = document.getElementById("lodging_vendor").value;
+          // Include new from/to dates for lodging
+          data["from"] = document.getElementById("lodging_from").value;
+          data["to"] = document.getElementById("lodging_to").value;
+        }
+        else if(expenseType === 'meal') {
+          data.purchase_info = {
+            purchase_date: document.getElementById("meal_purchase_date").value,
+            description: document.getElementById("meal_description").value,
+            costRequested: parseFloat(document.getElementById("meal_cost").value)
+          };
+          data.vendor = document.getElementById("meal_vendor").value;
+        }
+        else if(expenseType === 'parking') {
+          data.purchase_info = {
+            purchase_date: document.getElementById("parking_purchase_date").value,
+            description: document.getElementById("parking_description").value,
+            costRequested: parseFloat(document.getElementById("parking_cost").value)
+          };
+        }
+        else if(expenseType === 'toll') {
+          data.purchase_info = {
+            purchase_date: document.getElementById("toll_purchase_date").value,
+            description: document.getElementById("toll_description").value,
+            costRequested: parseFloat(document.getElementById("toll_cost").value)
+          };
+        }
+        else if(expenseType === 'common_carrier') {
+          data.purchase_info = {
+            purchase_date: document.getElementById("common_carrier_purchase_date").value,
+            description: document.getElementById("common_carrier_description").value,
+            costRequested: parseFloat(document.getElementById("common_carrier_cost").value)
+          };
+          data.reason = document.getElementById("common_carrier_reason").value;
+          data.explanation = document.getElementById("common_carrier_explanation").value;
+          data.type = document.getElementById("common_carrier_type").value;
+        }
+        // Fetch endpoint uses expense type as defined in server.rb (all lowercase, e.g., /expenses/flight)
+        const response = await fetchWithTimer('/expenses/' + expenseType, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(data)
+        }, expenseType + "ExpenseResult");
+        const result = await response.json();
+        document.getElementById(expenseType + "ExpenseResult").textContent = JSON.stringify(result, null, 2);
+      }
+
+      // New: loadClaim function to set a claim in progress from an existing claim ID
+      async function loadClaim() {
+        const claimId = document.getElementById("load_claim_id").value;
+        currentClaimId = claimId;
+        updateClaimVisualizer(); // load existing claim details
+        showPage("page-expense-menu");
+        // Optionally, start polling if needed
+        // startClaimPolling();
+      }
+    </script>
+    <style>
+      .page { display: none; }
+      #main-container { display: flex; }
+      #content { flex: 2; }
+      #claim-visualizer { flex: 1; border-left: 1px solid #ccc; padding-left: 1em; }
+      .requestTime { font-weight: bold; margin-bottom: 5px; }
+    </style>
+  </head>
+  <body>
+    <h1>Claims and Expenses Frontend</h1>
+    <div id="main-container">
+      <div id="content">
+        <!-- Claim Creation Page -->
+        <div id="page-claim-create" class="page">
+          <h2>Create Claim</h2>
+          <form onsubmit="event.preventDefault(); createClaim();">
+            <label>Claimant Name:
+              <input type="text" id="claimant_name" required>
+            </label>
+            <br>
+            <label>Appointment ID (optional):
+              <input type="text" id="appointment_id">
+            </label>
+            <br>
+            <button type="submit">Create Claim</button>
+          </form>
+          <pre id="claimResult"></pre>
+          <!-- New button to load an existing claim -->
+          <p>-- OR --</p>
+          <button onclick="showPage('page-claim-load')">Load Existing Claim</button>
+        </div>
+
+        <!-- New: Claim Load Page -->
+        <div id="page-claim-load" class="page">
+          <h2>Load Claim</h2>
+          <form onsubmit="event.preventDefault(); loadClaim();">
+            <label>Claim ID:
+              <input type="text" id="load_claim_id" required>
+            </label>
+            <br>
+            <button type="submit">Load Claim</button>
+          </form>
+          <button onclick="showPage('page-claim-create')">Back to Create Claim</button>
+        </div>
+
+        <!-- Expense Menu Page -->
+        <div id="page-expense-menu" class="page">
+          <h2>Add Expense</h2>
+          <p>Select an expense type:</p>
+          <button onclick="selectExpense('flight')">Flight</button>
+          <button onclick="selectExpense('lodging')">Lodging</button>
+          <button onclick="selectExpense('meal')">Meal</button>
+          <button onclick="selectExpense('parking')">Parking</button>
+          <button onclick="selectExpense('toll')">Toll</button>
+          <button onclick="selectExpense('common_carrier')">Common Carrier</button>
+        </div>
+
+        <!-- Expense Form Page -->
+        <div id="page-expense-form" class="page">
+          <h2 id="expense-form-title">Add Expense</h2>
+          <!-- Hidden field to store selected expense type -->
+          <input type="hidden" id="selectedExpenseType">
+          <!-- Expense form container; we'll display one form based on selected expense type -->
+          <div id="expense-form-container">
+            <!-- For brevity, we include forms for each expense type. Only one will be shown via show/hide logic. -->
+            <div id="form-flight" class="expense-subform">
+              <label>Purchase Date:
+                <input type="date" id="flight_purchase_date" required>
+              </label>
+              <br>
+              <label>Description:
+                <input type="text" id="flight_description" required value="to doctor city">
+              </label>
+              <br>
+              <!-- New from/to fields for flight -->
+              <label>From:
+                <input type="date" id="flight_from" required>
+              </label>
+              <br>
+              <label>To:
+                <input type="date" id="flight_to" required>
+              </label>
+              <br>
+              <label>Cost Requested:
+                <input type="number" step="0.01" id="flight_cost" required>
+              </label>
+              <br>
+              <label>Vendor:
+                <input type="text" id="flight_vendor">
+              </label>
+              <br>
+              <label>Trip Type:
+                <select id="flight_trip_type">
+                  <option value="ROUND_TRIP">ROUND_TRIP</option>
+                  <option value="ONE_WAY">ONE_WAY</option>
+                </select>
+              </label>
+              <br>
+              <label>Departure Location:
+                <input type="text" id="flight_departure">
+              </label>
+              <br>
+              <label>Arrival Location:
+                <input type="text" id="flight_arrival">
+              </label>
+              <br>
+              <pre id="flightExpenseResult"></pre>
+            </div>
+
+            <div id="form-lodging" class="expense-subform" style="display:none">
+              <label>Purchase Date:
+                <input type="date" id="lodging_purchase_date" required>
+              </label>
+              <br>
+              <label>Description:
+                <input type="text" id="lodging_description" required value="hotel">
+              </label>
+              <br>
+              <!-- New from/to fields for lodging -->
+              <label>From:
+                <input type="date" id="lodging_from" required>
+              </label>
+              <br>
+              <label>To:
+                <input type="date" id="lodging_to" required>
+              </label>
+              <br>
+              <label>Cost Requested:
+                <input type="number" step="0.01" id="lodging_cost" required>
+              </label>
+              <br>
+              <label>Vendor:
+                <input type="text" id="lodging_vendor">
+              </label>
+              <br>
+              <pre id="lodgingExpenseResult"></pre>
+            </div>
+
+            <div id="form-meal" class="expense-subform" style="display:none">
+              <label>Purchase Date:
+                <input type="date" id="meal_purchase_date" required>
+              </label>
+              <br>
+              <label>Description:
+                <input type="text" id="meal_description" required>
+              </label>
+              <br>
+              <label>Cost Requested:
+                <input type="number" step="0.01" id="meal_cost" required>
+              </label>
+              <br>
+              <label>Vendor:
+                <input type="text" id="meal_vendor">
+              </label>
+              <br>
+              <pre id="mealExpenseResult"></pre>
+            </div>
+
+            <div id="form-parking" class="expense-subform" style="display:none">
+              <label>Purchase Date:
+                <input type="date" id="parking_purchase_date" required>
+              </label>
+              <br>
+              <label>Description:
+                <input type="text" id="parking_description" required value="at the airport">
+              </label>
+              <br>
+              <label>Cost Requested:
+                <input type="number" step="0.01" id="parking_cost" required>
+              </label>
+              <br>
+              <pre id="parkingExpenseResult"></pre>
+            </div>
+
+            <div id="form-toll" class="expense-subform" style="display:none">
+              <label>Purchase Date:
+                <input type="date" id="toll_purchase_date" required>
+              </label>
+              <br>
+              <label>Description:
+                <input type="text" id="toll_description" required value="drive to the airport">
+              </label>
+              <br>
+              <label>Cost Requested:
+                <input type="number" step="0.01" id="toll_cost" required>
+              </label>
+              <br>
+              <pre id="tollExpenseResult"></pre>
+            </div>
+
+            <div id="form-common_carrier" class="expense-subform" style="display:none">
+              <label>Purchase Date:
+                <input type="date" id="common_carrier_purchase_date" required>
+              </label>
+              <br>
+              <label>Description:
+                <input type="text" id="common_carrier_description" required value="to the hotel">
+              </label>
+              <br>
+              <label>Cost Requested:
+                <input type="number" step="0.01" id="common_carrier_cost" required>
+              </label>
+              <br>
+              <label>Reason:
+                <input type="text" id="common_carrier_reason">
+              </label>
+              <br>
+              <label>Explanation:
+                <select id="common_carrier_explanation">
+                  <option value="PRIVATE_VEHICLE_UNAVAILABLE">PRIVATE_VEHICLE_UNAVAILABLE</option>
+                  <option value="MEDICALLY_INDICATED">MEDICALLY_INDICATED</option>
+                  <option value="OTHER">OTHER</option>
+                </select>
+              </label>
+              <br>
+              <label>Type:
+                <select id="common_carrier_type">
+                  <option value="BUS">BUS</option>
+                  <option value="SUBWAY">SUBWAY</option>
+                  <option value="TAXI">TAXI</option>
+                  <option value="TRAIN">TRAIN</option>
+                  <option value="OTHER">OTHER</option>
+                </select>
+              </label>
+              <br>
+              <pre id="common_carrierExpenseResult"></pre>
+            </div>
+          </div>
+          <br>
+          <button onclick="saveExpense()">Save Expense</button>
+          <button onclick="showPage('page-expense-menu')">Cancel</button>
+        </div>
+      </div>
+      <!-- Moved Claim Visualizer Panel inside main-container to appear on the right-hand side -->
+      <div id="claim-visualizer">
+        <h3>Claim Visualizer</h3>
+        <pre id="claimVisualizer"></pre>
+      </div>
+    </div>
+
+    <!-- End of main container -->
+    <script>
+      // Initially show the claim creation page
+      showPage("page-claim-create");
+    </script>
+  </body>
+</html>

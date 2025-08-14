@@ -27,6 +27,9 @@ missing = msc.get_missing_statuses
 # S3 Status:   ["S3 UploadFile failure for 7c30a37a-75e8-4314-94ae-da3cb27c5dcf_vha_10_10d1.pdf: upload failure"]
 ```
 
+> [!TIP]
+> If the output of `get_missing_statuses` shows an S3 status field of `['200']`, this indicates all files in the batch made it to S3 successfully. This may mean that the Pega lambda is stuck and needs to be manually re-run by the DOCMP team.
+
 ## To view all submissions associated with an email address:
 
 With an instance of `MissingStatusCleanup` defined:

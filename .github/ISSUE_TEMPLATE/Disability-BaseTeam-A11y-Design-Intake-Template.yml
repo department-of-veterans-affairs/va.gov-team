@@ -1,0 +1,81 @@
+name: Accessibility Design Review – Intake Form
+description: Intake form to prepare for an accessibility design review
+title: "[A11y Design Review] "
+labels:
+  - disability-benefits
+  - accessibility
+  - design
+  - needs-refinement
+assignees:
+  - etanb
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 📝 Summary
+        Please fill out all fields clearly to ensure we can provide helpful and timely feedback.
+
+  - type: input
+    id: feature_name
+    attributes:
+      label: Feature name
+      placeholder: e.g., Disability Benefits Form Update
+    validations:
+      required: true
+
+  - type: textarea
+    id: feature_summary
+    attributes:
+      label: Brief summary of the feature and what it aims to solve or improve
+      placeholder: Describe the purpose, users affected, and expected outcomes.
+
+  - type: input
+    id: team_name
+    attributes:
+      label: Team name
+      placeholder: e.g., Disability Benefits 1
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: "## 👥 Point of Contact"
+
+  - type: input
+    id: product_owner
+    attributes:
+      label: Product owner name
+
+  - type: input
+    id: designer_contact
+    attributes:
+      label: Designer contact name
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: "## 📁 Resources"
+
+  - type: textarea
+    id: design_links
+    attributes:
+      label: Design links & media (Figma, Mural, screenshots, videos)
+      description: "Paste URLs to boards/frames and any hosted images or videos (Drive/Loom/etc.)."
+    validations:
+      required: false
+
+  - type: textarea
+    id: other_docs
+    attributes:
+      label: Other relevant documents or links e.g., PRD, user research notes, prior a11y findings
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        ## ✅ Next Steps
+        1. Etan will move the ticket Status from "New" to "Assigned".
+        2. Etan will reach out directly with the Design POC to coordinate.
+        _If you need to share files directly, submit the issue and then upload them in a comment._

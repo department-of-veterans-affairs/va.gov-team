@@ -23,6 +23,13 @@ Systems used by Application Processing teams
      - Used to obtain documents such as DD-214 and DD-215
 
 ### Development/Engineering
+- 10-10EZ started out as a fillable PDF in 2012 (more timeline information on the [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md#launch-dates))
+- The online form with data fields was launched May 2016
+     - Averaging 20,000 submissions per month.
+     - Users can log into their VA.gov account (authenticate), but a VA.gov account is not required.
+     - Users who have a VA.gov account must log in.
+     - Some fields are prefilled for authenticated users.
+     - Authenticated users can "save in progress" and return to complete their application.
 - 7/29/22 - The Place of Birth state dropdown must only include 50 states, DC and Other. ES will not accept any other values at this time.
      - **NOTE** - This does not apply to Mailing or Home address (see item below on 9/12/23)
 - 11/12/22 - The Certificate CN being sent to ES for SSL (Security layers) is "es-prod.va.gov"  

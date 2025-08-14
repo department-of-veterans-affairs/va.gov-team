@@ -16,7 +16,7 @@ Last uploaded: July 25, 2024
 
 - [PRE-CHECK-IN_PRODUCT_GUIDE (Word)](https://github.com/user-attachments/files/16379339/PRE-CHECK-IN_PRODUCT_GUIDE.v1.11.07252024.docx)
 
-## Day of Appointment Travel Claim Submission
+## Day of Appointment Travel Claim Submission (LoROTA standalone mileage-only travel reimbursement)
 
 Last uploaded: February 14, 2025
 

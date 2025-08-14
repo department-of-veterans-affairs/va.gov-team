@@ -1,5 +1,4 @@
-# What to do if someone reaches out about updating representative contact info.
-
+# How to Update Representative Contact Information
 Note: The below content is only to be used on an individual basis to those who reach out to the team or adjacent teams directly. OGC is working on a larger task of creating a fact sheet for VSOs which we could then send to larger teams such as the contact center.
 
 1. Inform the Accredited Representation Management team
@@ -13,18 +12,18 @@ Note: The below content is only to be used on an individual basis to those who r
 The messaging below can be copied/pasted into an email response, to the representative seeking help updating their information.
 
 ### Accredited Attorneys and Claims Agents
-> The information presented on VA.gov’s Find a Representative tool is from the VA OGC database. Once the representative's information is updated using one of the processes below it will update on VA.gov. Instructions on how to update are outlined below:
-> 
-> Attorneys and claims agents wishing to change their contact information with VA should do so with both OGC and the Veterans Benefits Administration by following the instructions set forth in this Fact Sheet on the Process for Attorney and Claims Agent Contact Change Requests.
+> The information presented on VA.gov’s Find a Representative tool is from the VA OGC database. Attorneys and claims agents wishing to change their contact information with VA should do so with both OGC and the Veterans Benefits Administration by following the instructions set forth in this Fact Sheet on the Process for Attorney and Claims Agent Contact Change Requests.
 >
 > Link to Fact Sheet: https://www.va.gov/OGC/docs/Accred/FactSheet_OBI-21-03.pdf
+>
+> Once the representative's information is updated using this process, the information on VA.gov will be updated.
 
 ### Veterans Service Organization Representatives
-> The information presented on VA.gov’s Find a Representative tool is from the VA OGC database. Once the representative's information is updated using one of the processes below it will update on VA.gov. Instructions on how to update are outlined below:
->
-> Veterans Service Organization (VSO) Representatives wishing to change their contact information with VA should contact the certifying official for their primary VSO, who will send the updated information to VA OGC. If they're unable to contact their certifying official, a supervisor may be able to help contact the certifying official at the VSO’s headquarters.
+> The information presented on VA.gov’s Find a Representative tool is from the VA OGC database. Veterans Service Organization (VSO) Representatives wishing to change their contact information with VA should contact the certifying official for their primary VSO, who will send the updated information to VA OGC. If they're unable to contact their certifying official, a supervisor may be able to help contact the certifying official at the VSO’s headquarters.
 > 
-> Learn more about OGC and accreditation at their website: https://www.va.gov/ogc/accreditation.asp 
+> Learn more about OGC and accreditation at their website: https://www.va.gov/ogc/accreditation.asp
+>
+> Once the representative's information is updated using this process, the information on VA.gov will be updated.
 
 ## Additional Guidance for VSO Representatives, If Needed
 The following information should only be provided IF ASKED.
@@ -36,7 +35,7 @@ If the VSO representative does not know who their certifying official is, we can
 3. In the "VSOs" tab, locate the organization and you will be able to see the Certifying Official's name along with any contact information.
 4. For good measure, search for the Certifying Official in Find a Representative to see if any additional contact information is available.
 
-If the certifying official does not know how to contact OGC, we can recommend the email address `accreditationmailbox@va.gov`.
+If the certifying official does not know how to contact OGC, we can recommend the email address `ogcaccreditationmailbox@va.gov`.
 
 ---
 ## Occurrences
@@ -48,4 +47,5 @@ If the certifying official does not know how to contact OGC, we can recommend th
 * Tuesday, October 29, 2024: Email from Paralyzed Veterans of America
 * Thursday, March 27, 2025: Email from VHA requesting a VFW rep's phone number be updated
 * Thursday, June 12, 2025: Email from VBA leadership, forwarded from a representative in the Georgia Department of Veterans Service
+* Friday, August 1, 2025: Emmail forwarded from a DAV representative
 

@@ -60,6 +60,14 @@
 |------------- |---------|-------|-------------- |------------- |
 |Print/save application downloads |NEW | 4k monthly (25% of avg submissions) |1,520 (27% of 5,644 submissions)|5,940 (27% of 21,810 submissions)|
 |Errors when print/save|NEW | 0 errors |0 errors|0 errors|
+
+#### Update 7/30/2025
+- Since 5/5 (when we went to 100%), we have had 16,400k downloads.
+- This averages to about 5400 per month for 3 months.
+- We are still reporting zero errors.
+- There appears to be a slight increase since first launch.
+<img width="1795" height="428" alt="image" src="https://github.com/user-attachments/assets/d3c5d78d-f958-418c-b22e-f6e28fe03e2d" />
+
 ---
 
 ## Discovery

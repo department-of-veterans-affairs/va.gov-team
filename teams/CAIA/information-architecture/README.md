@@ -1,3 +1,0 @@
-# Information Architecture
-
-[WIP]

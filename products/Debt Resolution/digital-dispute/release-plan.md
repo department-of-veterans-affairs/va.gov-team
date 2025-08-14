@@ -76,81 +76,81 @@ DEPO VSP / OCTO leads can approve other exceptions to this requirement.
 
 #### Planning
 
-- Length of time: Seven Days 6/30/25 - 7/7/25
+- Length of time: Six Days 7/16/25 - 7/21/25
 - Percentage of Users (and roughly how many users do you expect this to be): 1% 
 
 #### Results
 
-- Number of unique users:
+- Number of unique users: 8
 - Metrics at this stage (per your "success criteria"): 100% success
 - Was any downstream service affected by the change?: N/A
-- Types of errors logged:
+- Types of errors logged: None
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?:
-  - TBD
+  - No changes required at this stage
 
 ### Stage B: 5% of users
 
 #### Planning
 
-- Length of time: Two Days 7/7/25 - 7/9/25
+- Length of time: Three Days 7/21/25 - 7/23/25
 - Percentage of Users (and roughly how many users do you expect this to be): 5%
 
 #### Results
 
-- Number of unique users:
+- Number of unique users: 18
 - Metrics at this stage (per your "success criteria"): 100% success
 - Was any downstream service affected by the change?: N/A
-- Types of errors logged:
+- Types of errors logged: None
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?:
-  - TBD
+  - No changes required at this stage
 
 ### Stage C: 20% of users
 
 #### Planning
 
-- Length of time: Five Days 7/9/25 - 7/14/25
+- Length of time: Six Days 7/23/25 - 7/28/25
 - Percentage of Users (and roughly how many users do you expect this to be): 20%
 
 #### Results
 
-- Number of unique users:
-- Metrics at this stage (per your "success criteria"):
+- Number of unique users: 71
+- Metrics at this stage (per your "success criteria"): 3 errors, under 1 second latency
 - Was any downstream service affected by the change?:
-- Types of errors logged:
+- Types of errors logged: 3.  Timeouts from downstream service
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?:
-  - TBD
+  - We are continuing to monitor downstream errors and latency. As of now they are both within acceptable ranges for us
 
 ### Stage D: 50% of users
 
 #### Planning
 
-- Length of time: Two Days 7/14/25 - 7/16/25
+- Length of time: Three Days 7/28/25 - 7/30/25
 - Percentage of Users (and roughly how many users do you expect this to be): 50%
 
 #### Results
 
-- Number of unique users:
-- Metrics at this stage (per your "success criteria"):
-- Was any downstream service affected by the change?:
-- Types of errors logged:
+- Number of unique users: 134
+- Metrics at this stage (per your "success criteria"):  117 successful submissions, 15 errors.
+- Was any downstream service affected by the change?: No
+- Types of errors logged: Failures tied to latency. In addition to the errors, there are other spikes of latency that still succeed but are outside the bounds of what we would consider acceptable
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?:
-  - TBD
+  - We should be seriously considering the move to making this async to a sidekiq, based on this weeks data.  
  
 ### Stage E: 100% of users
 
 #### Planning
 
-- Length of time: Final
+- Length of time: Final 7/30/25
 - Percentage of Users (and roughly how many users do you expect this to be): 100%
 
 #### Results
 
-- Number of unique users:
-- Metrics at this stage (per your "success criteria"):
+- Number of unique users: 218 users
+- Metrics at this stage (per your "success criteria"): 86.24% success rate, average 
 - Was any downstream service affected by the change?:
-- Types of errors logged:
+- Types of errors logged: Timeouts from dmc/filenet
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?:
-  - TBD
+  - There are enough spikes in latency and high enough of an error rate that we are moving forward with making this submission async.  Work has already begun on this process.
 
 ## Post Launch metrics
 
@@ -158,14 +158,14 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 
 ### 1-week results
 
-- Number of unique users:
-- Post-launch KPI 1 actual: Total number of digital debt disputes
-- Post-launch KPI 2 actual: Total number of submission confirmations sent
-- Post-launch KPI 3 actual: Error Rate: Total number of errors/failures
-- Any issues with VA handling/processing?:
-- Types of errors logged: 
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges?:
-- If yes, what: Minor changes to requests to VaNotify service to prevent client side errors.
+- Number of unique users (total number of submissions): 517
+- Post-launch KPI 1 actual: Total number of digital debt disputes(success): 445
+- Post-launch KPI 2 actual: Total number of submission confirmations sent (success, no confirmation currently): 445
+- Post-launch KPI 3 actual: Error Rate: Total number of errors/failures (failure / success + failures): 5.7% error rate (472/27)
+- Any issues with VA handling/processing?: Yes, we are getting Gateway timeouts and 500 server error responses
+- Types of errors logged: Gateway timeout in DMC and 500 responses
+- Any changes necessary based on the logs, feedback on user challenges, or VA challenges?: Yes
+- If yes, what: We are working on making this form async so we can implement retries.
 
 ### 1-month results
 

@@ -6,7 +6,7 @@ You can reach Ask VA at [va.gov/contact-us/ask-va](https://va.gov/contact-us/ask
 ## Current initiatives
 |Initiatives|Status|Launch date|
 |:---|:---|:---|
-|[Prefill topic questions with NLP data model](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/prefill-NLP%20June%202025/initiative-brief.md)|In-progress|June 30, 2025|
+|[Prefill topic questions with NLP data model](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/prefill-NLP%20June%202025/initiative-brief.md)|In-progress|Sep 30, 2025|
 |[Move frontend to VA.gov (Phase 1)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/product/move-frontend%20Mar%202025/initiative-brief.md)|Done|May 21, 2025|
 
 ## Where to find us
@@ -16,12 +16,13 @@ You can reach Ask VA at [va.gov/contact-us/ask-va](https://va.gov/contact-us/ask
 - Mural: [Ask VA room](https://app.mural.co/t/departmentofveteransaffairs9999/r/1686859097688)
 
 ## Our team
-|Role|Assigned|Contact|
-|:---|:---|:---|
-|Product owner (OCTO), Designer|Becky Phung||
-|Product owner (VES)|Natalie Morales||
+|Role|Assigned|
+|:---|:---|
+|Product owner (OCTO), Designer|Becky Phung|
+|Product owner (VES)|Natalie Morales|
+|Product owner (VEO)|Jaime Rocha and Kathleen Reavy|
 
-### Previous teammates
+### Former teammates
 |Role|Assigned|Contact|
 |:---|:---|:---|
 |Data engineer|Jacob Cheriathundam|jacob@docme360.com|

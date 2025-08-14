@@ -1,15 +1,15 @@
 ---
-name: Offboarding request
+name: Offboarding request (individual)
 about: To inform the Platform team when a VA.gov Platform or VFS team member has left
   and needs offboarding.
-title: Individual Offboarding of [individual]
+title: Individual Offboarding of [name]
 labels: analytics-insights, Offboarding, operations
 assignees: ''
 
 ---
 
 # Instructions
-Fill out name of individual and **Description** section below. Note: This form only handles deactivation from the DSVA (Office of CTO @ VA) Slack instance. For Lighthouse Slack and other DOTS-managed tool removal, please submit a [ticket for DOTS removal](https://jira.devops.va.gov/servicedesk/customer/portal/1/create/714).
+Fill out name of individual and **Description** section below. Note: This form only handles deactivation from the DSVA (Office of CTO @ VA) Slack instance. For Lighthouse Slack and other DOTS-managed tool removal, please submit a [ticket for DOTS removal](https://jira.devops.va.gov/servicedesk/customer/portal/1/create/714). If you are the PM or PO of a VFS team whose contract is ending, you will need to review [Team Offboarding](https://depo-platform-documentation.scrollhelp.site/getting-started/offboarding) and  submit a  ticket.
 
 *(Please add only one individual per form)*
 

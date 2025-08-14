@@ -1,4 +1,4 @@
-# 10-10EZ Registration Path - Initiative Brief
+# 10-10EZ Insurance page improvements - Initiative Brief
 
 ## Outcome Summary
 If the insurance page is updated then Veterans will be able to navigate the pages (increased accessibility), understand what information is being asked for and add/view/edit/delete multiple policies easily.

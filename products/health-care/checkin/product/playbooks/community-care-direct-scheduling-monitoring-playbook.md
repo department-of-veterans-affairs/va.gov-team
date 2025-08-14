@@ -20,6 +20,7 @@ and have the necessary information to address problems quickly.  To accomplish i
 - [VAOS Vets API Endpoint Error Rate - Community Care Appointment Create](https://vagov.ddog-gov.com/monitors/382190)
 - [VAOS Vets API Endpoint Error Rate - Community Care Appointment Status Check](https://vagov.ddog-gov.com/monitors/384196)
 - [VAOS Vets API Endpoint Error Rate - Community Care Appointments Fetch](https://vagov.ddog-gov.com/monitors/384560)
+- [Community Care appointment status notification silent failure](https://vagov.ddog-gov.com/monitors/391172)
 
 ## Process expectations
 
@@ -27,5 +28,6 @@ For issues and investigations follow the [Production Support Playbook](https://g
 
 ## Watch Officer (watchtower) Process
 
-- [ ] Determine which monitors whatchtower should be notified on
-- [x] Using the silent failure metric in the notificaiton job for failed scheduled appointments in the event of a timeout.
+We are using the silent failure metric in our notification job so that if it exhasust all of it's retries watchtower will be alerted.
+
+Once we have calibrated our monitors to alert us when it makes sense. We should add the watchtower notification to those monitors.

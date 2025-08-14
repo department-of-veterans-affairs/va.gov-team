@@ -47,7 +47,9 @@ class FakeUser
 end
 ```
 
-Then create an instance of the fake user (using one of the BTSSS test users) and populate it with your test user values:
+Then create an instance of the fake user and populate it with your [BTSSS test user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-travel-pay.md#additional-user-details) values:
+
+> Youll update the below script with the `email`, `UUID`, and `ICN` from the user details in the above link .
 
 ```ruby
 test_user = FakeUser.new('prof.jimmy.dean@sausage.edu', '123ICNHERE123', 'uuid-12345-123436434-135234')
@@ -66,7 +68,7 @@ claims_service = TravelPay::ClaimsService.new(auth_manager, test_user)
 ```
 Finally, test the service with:
 ```ruby
-claims_service.get_claims
+claims_service.get_claims({})
 
 # or with params:
 
@@ -110,7 +112,9 @@ class FakeUser
 end
 ```
 
-Then create an instance of the fake user and populate it with your BTSSS test user values:
+Then create an instance of the fake user and populate it with your [BTSSS test user](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-travel-pay.md#additional-user-details) values:
+
+> Youll update the below script with the `email`, `UUID`, and `ICN` from the user details in the above link .
 
 ```ruby
 test_user = FakeUser.new('prof.jimmy.dean@sausage.edu', '123ICNHERE123', 'uuid-12345-123436434-135234')

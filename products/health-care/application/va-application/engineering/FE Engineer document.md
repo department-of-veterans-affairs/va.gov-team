@@ -27,7 +27,7 @@ Mission: Make it easier for Veterans and Caregivers to apply for, track, and man
 ### Project URLS
 
 ``` markdown
-/health-care/apply/application/introduction
+/health-care/apply-for-health-care-form-10-10ez/introduction
 ```
 ### Enrollment System WSDL
 - [Enrollment System - EE Summary WSDL](https://ves.va.gov/esr-ws/spring-ws/getEESummary/eeSummary.wsdl)
@@ -39,7 +39,7 @@ Follow the standard directions to run the app. The API needs to be running in or
 
 ### VA Forms
 
-We are using version 1 of the forms library, Formation. This is a straight forward standard form. We are using [the vets-json-scheam](https://github.com/department-of-veterans-affairs/vets-json-schema) to validate the shape of the data.  
+We are using version 1 of the forms library, Formation. This is a straight forward standard form. We are using [the vets-json-schema](https://github.com/department-of-veterans-affairs/vets-json-schema) to validate the shape of the data.  
 
 ### What API(s) does this use?
 

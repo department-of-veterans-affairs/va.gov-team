@@ -47,14 +47,14 @@
 * Controls for content that starts automatically are provided (carousels, image sliders, video, etc.) 
 * Does the Figma prototype load efficiently without delay \- if so remove unused layers in layer panel  
 * Are images and linked pdfs optimized for quick loading without compromising quality? Check the dimensions and resolution of the image. Make sure it’s appropriate for its use case (e.g., 1x for standard displays, 2x for Retina displays). 
-* Is the tone and style consistent throughout the prototype?  `specialist's name`
+* Is the tone and style consistent throughout the prototype?
 
 ### Additional feedback to consider
 
 * Is the tab order defined for any custom components or complex designs?
 * Is there any complicated language that we think might pose an issue?
 * Is there anything weird about the flow that might confuse folks?
-* Is anything strange happening with the prototype’s interactions that would be helpful for the team to know ahead of testing? `specialist's name`
+* Is anything strange happening with the prototype’s interactions that would be helpful for the team to know ahead of testing? 
 
 ## **Results and recommendations**
 

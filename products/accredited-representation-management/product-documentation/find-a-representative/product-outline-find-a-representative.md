@@ -1,10 +1,12 @@
 # **Product Outline: Find a Representative**
 
-Team: Accredited Representation Management
+**Team**: Accredited Representation Management
 
-Product URL:[ Find a VA accredited representative or VSO](https://www.va.gov/get-help-from-accredited-representative/find-rep)
+Product URL: [ Find a VA accredited representative or VSO](https://www.va.gov/get-help-from-accredited-representative/find-rep)
 
-Main entry point:[ Get help from a VA accredited representative or VSO](https://www.va.gov/get-help-from-accredited-representative/) (landing page)
+Main entry points:
+1. [VA.gov homepage](https://www.va.gov/)
+2. [Get help from a VA accredited representative or VSO](https://www.va.gov/get-help-from-accredited-representative/) (landing page)
 
 
 ## **Overview**
@@ -36,38 +38,60 @@ There is not currently an experience on VA.gov for Veterans to find a representa
 
 1. Veterans are interested in searching for a representative on VA.gov
 2. Veterans are more likely to appoint VSOs, Attorneys and Claims Agents
-3. Only a small percentage of Veterans are interested in appointing individual representatives in a VSO
+3. Only a small percentage of Veterans are interested in appointing individual representatives within a VSO
 
-
-## **Solution Approach**
-
-Our immediate goal for Find a Representative is to mirror the representative search functionality on eBenefits, but with critical/impactful updates found through user research. From there, we will examine the experience through usability testing and incorporate findings into future versions. Ultimately, we hope to provide a more consistent and intuitive "Find a Representative" experience that lives directly on VA.gov.
-
-
+---
 ## **Measuring Success**
 
-Monthly performance metrics are currently documented in Sharepoint: the [Performance Metrics](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FAccredited%20Representation%20Management%2FPerformance%20Metrics\&viewid=3fa7a9bb%2D3d4e%2D44c2%2Db93f%2D629268a08e72) folder includes raw data, which is summarized in the monthly [Sprint Report](https://dvagov.sharepoint.com/sites/vaabdvro/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2Fvaabdvro%2FShared%20Documents%2FAccredited%20Representation%20Management%2FVeteran%20Facing%20Sprint%20Reports%20and%20Demos\&viewid=3fa7a9bb%2D3d4e%2D44c2%2Db93f%2D629268a08e72) decks.
+**Datadog Dashboards**
+1. [ARM: Find a Representative](https://vagov.ddog-gov.com/dashboard/55d-sc2-bxi/arm-find-a-representative?fromUser=false&refresh_mode=sliding&from_ts=1736986754401&to_ts=1739578754401&live=true)
 
-We are actively working with the Platform Analytics team to visualize our[ ARM OKRs](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718224425278/b300ea8d63dcaaa0cdad0ebf6b4a65a20fcc9371?sender=ubac5f0487f25bc4431288699) in a Domo dashboard at a future time.
-
-
-## **Supporting Documentation**
-
-1. [Decision and Change Log: Find a Representative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/find-a-representative/decision-change-log-find-a-representative.md)
-2. [Find a Representative Playbook/Incident Response Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/find-a-representative/launch-materials/product-playbook-incident-response-plan.md#find-a-representative-playbookincident-response-plan)
-3. [Contact Center Guide](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/product-documentation/find-a-representative/contact-center)
-4. [Service Map](https://www.docstomarkdown.pro/convert-markdown-to-google-docs-online/service-map.md)
+**Domo Dashboards**
+1. [Accredited Representation Managment](https://va-gov.domo.com/page/1897070864) - User trends for ARM products
 
 
 ## **Release History**
 
-### Version 2.0 ([Demo](https://dsva.slack.com/archives/C05L6HSJLHM/p1710372276269209))
+#### Version 1.0 (MVP) | [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/find-a-representative/release-plan-find-a-representative-1.0.md)
 
-Find a Representative 2.0 was **released to 100% of users on March 13, 2024**. A landing page "Get help from a VA accredited representative or VSO" (rooted in the Resources and Support section of VA.gov) was also published, and this content page includes a link to the Find a Representative tool ([release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/find-a-representative/release-plan-find-a-representative-2.0.md)).
+Targeted to release in December 2023, but a "No Go" was determined after discovering the representative data powering search results was only ~50% accurate. 
 
-There will be multiple entry points into the landing page, stemming from the main navigation as well as in-context with related benefits pages. The team worked with CAIA to implement Best Bets and redirects on March 18, 2024. [Complete outline of Redirects and Best Bets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/ia-design-docs/manage-accredited-representative.md).
+<details><summary>Expand to view the feature set for this version.</summary>
 
-The feature set for this version was updated based on UX research findings, and includes:
+1. Search
+   1. Location
+      1. Single consolidated field that accepts any form of address
+      2. `Use my location` feature to populate this location field
+   2. Select type of rep (single select)
+      1. Veteran Service Organization (VSO)
+      2. Attorney
+      3. Claims Agent
+   3. Search by name
+      1. Organization name
+      2. Representative first name
+      3. Representative last name
+   4. Rep definitions
+      1. Veteran Service Organization (VSO)
+      2. Attorney
+      3. Claims agent
+2. Display search results
+   1. List display
+   2. Filter results by
+      1. Distance
+      2. Representative Name / Organization Name
+   3. Search result details
+      1. Distance in miles
+      2. Name
+      3. Address
+      4. Phone number
+
+</details>
+
+#### Version 2.0 | [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/find-a-representative/release-plan-find-a-representative-2.0.md) and [Demo Video](https://dvagov.sharepoint.com/:v:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representation%20Management/Product%20Information/Product%20Demo%20Recordings/Find%20a%20Representative%20Demo.mov?csf=1&web=1&e=AaVq9f)
+
+Released to 100% of users on March 13, 2024. A landing page "Get help from a VA accredited representative or VSO" (rooted in the Resources and Support section of VA.gov) was also published, and this content page includes a link to the Find a Representative tool ([release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/find-a-representative/release-plan-find-a-representative-2.0.md)).
+
+<details><summary>Expand to view the feature set for this version.</summary>
 
 1. Search 
    1. Representative definitions
@@ -99,48 +123,52 @@ The feature set for this version was updated based on UX research findings, and 
 3. Include transparency around data accuracy 🆕
    1. Alert above search results
    2. ~~Report Outdated Information feature~~ _This feature was_ [_removed_](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/find-a-representative/decision-change-log-find-a-representative.md) _on 7/25/2024_
+  
+</details>
 
+--- 
+## **Recommended Next Steps**
 
-### Version 1.0 (MVP)
+#### Next Version Priorities - Find a Representative 3.0
+A future version of Find a Representative should strive for:
+1. Advanced filters, for users to refine their search results based on the associated VSO, a representative's name, and their method of contact (online, in person, both).
+2. A detail page for search results, to reduce the initial search result cognitive load and allow for scalability of representative inforamtion on VA.gov.
 
-Find a Representative 1.0 (MVP) was targeted to release in December 2023 ([release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/find-a-representative/release-plan-find-a-representative-1.0.md)), but the team decided to hold off after discovering the representative data powering search results was only \~50% accurate. The feature set for this version includes:
+[Figma designs for Find a Representative 3.0](https://www.figma.com/design/bzbwObT9hiItve0q3cQX9c/ARM---Find-and-Appoint-a-Representative?node-id=0-19109&p=f&t=9UDkWLdMS1C7DVfU-0) have already been completed.
 
-1. Search
-   1. Location
-      1. Single consolidated field that accepts address 1, city, state, zip code
-      2. `Use my location` feature to populate this location field
-   2. Select type of rep (single select)
-      1. Veteran Service Organization (VSO)
-      2. Attorney (Lawyer)
-      3. Claims agent
-   3. Search by name
-      1. Organization name
-      2. Representative first name
-      3. Representative last name
-   4. Rep definitions
-      1. Veteran Service Organization (VSO)
-      2. Attorney
-      3. Claims agent
-2. Display search results
-   1. List display
-   2. Filter results by
-      1. Distance
-      2. Representative Name / Organization Name
-   3. Search result details
-      1. Distance in miles
-      2. Name
-      3. Address
-      4. Phone number
+We recommend these designs undergo usability testing and be updated based on reasearch findings. After this, Find a Representative 3.0 will be ready for develpoment!
 
+Please refer to these epics, to bring the Find a Representative 3.0 designs into Production:
+1. [ARM Research: Find a Representative 3.0](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97783) - validate v3 designs with user testing, and report on findings.
+2. [ARM Design: Find a Representative 3.0](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98591) - update v3 designs based on research findings, and finalize for handoff to development.
+3. [ARM Development: Find a Representative 3.0](https://github.com/department-of-veterans-affairs/va.gov-team/issues/80758) - development of v3, based on finalized designs.
 
-## **Future Plans and Ideas**
+#### Known Bugs
+Some bugs have been identified for our Production experience. These have not yet been addressed due to lower priority, feel free to prioritize + address as needed.
 
-When [Appoint a Representative](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/product-documentation/appoint-a-representative) v2 (with digital submission) is released, we will work with stakeholders to redirect related pages within[ eBenefits](https://www.docstomarkdown.pro/convert-markdown-to-google-docs-online/%5Bhttps://www.ebenefits.va.gov/ebenefits/vso-search).
+[Known bugs are stored in this view of the Github project board](https://github.com/orgs/department-of-veterans-affairs/projects/1180/views/41). 
 
-We may also redirect the[ legacy OGC representative search](https://www.va.gov/ogc/apps/accreditation/index.asp), if there are no downstream effects.
+#### Redirect Goals
+When [Appoint a Representative](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/product-documentation/appoint-a-representative) is out of pilot for the online submission of VA Form 21-22 (i.e. most, or all VSOs can accept online submissions), we will work with stakeholders to redirect related pages within eBenefits:
+1. https://www.ebenefits.va.gov/ebenfits/vso-search - redirect to Find a Representative
+2. https://www.ebenefits.va.gov/ebenfits/about/feature?feature=request-vso-representative - redirect to Appoint a Representative
+3. https://www.ebenefits.va.gov/ebenfits/manage/representative - redirect to landing page
 
-While timeline is TBD, ideas for the next version are stored in our [Find a Representative v3](https://dsva.slack.com/docs/T03FECE8V/F086REGJ0JY) Slack canvas. Longer term ideas for Find a Representative are stored in our[ ARM Future Ideas](https://dsva.slack.com/docs/T03FECE8V/F06JUJ4CR19) Slack canvas.
+There may be an opportunity to redirect the following OGC Accreditation Search pages to Find a Representative, if there are no downstream effects. **Before proceeding with this redirect, connect with OGC and GCLAWS stakeholders to understand if any tools rely on this webpage.**
+1. https://www.va.gov/ogc/apps/accreditation/index.asp
+2. https://www.va.gov/ogc/apps/accreditation/accredpeople.asp (and all child pages)
 
+Reference: [IA redirect plan - Sharepoint](https://dvagov.sharepoint.com/:w:/r/sites/SitewideCAIA/_layouts/15/Doc.aspx?sourcedoc=%7B203EE57C-1260-4A20-9981-40A7396FB36A%7D&file=0.0%20Redirect%20plan.docx&action=default&mobileredirect=true)
+
+#### Future Ideas
+Longer term ideas are stored in our[ARM Future Ideas](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Accredited%20Representation%20Management/ARM%20Future%20Ideas.docx?d=wfe95a788166e4670bfda5a59798550d7&csf=1&web=1&e=7iFIw0) document.
+
+---
+## **Supporting Documentation**
+
+1. [Decision and Change Log: Find a Representative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/find-a-representative/decision-change-log-find-a-representative.md)
+2. [Find a Representative Playbook/Incident Response Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/find-a-representative/technical-documentation/product-playbook-incident-response-plan.md)
+3. [Contact Center Guide](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/accredited-representation-management/product-documentation/find-a-representative/contact-center) (with screenshots)
 
 ## **Communications**
 

@@ -3,16 +3,16 @@ This research plan draft describes the objectives, methodologies, and research q
 
 # Research objectives
 
-1. Understand how to support TSMs’ need to keep track of their transition progress, deadlines, and tasks to reduce stress, minimize the possibility of missing deadlines, and improve transition outcomes. This objective includes learning what they are currently doing to manage this need. 
-2. Understand how to improve the tool to address TSMs’ unmet needs of support to take action and get help  
-3. Usability testing of the live product
+1. Understand how to support TSMs’ need to keep track of their transition progress, deadlines, and tasks to reduce stress, minimize the possibility of missing deadlines, and improve transition outcomes. This objective includes learning what they are currently doing to manage this need. This research builds on earlier studies which created a body of knowledge about general needs of TSMs to track progress, honing in on how digital services might serve their needs, and how the way they use technology may have changed with widespread adoption of LLM tools like ChatGPT. 
+2. Understand how to improve the tool to address TSMs’ unmet needs of support to take action and get help. Urgent support is out of scope for this study and may be addressed in an upcoming study.   
+3. Usability testing of the product in staging, including Guard and Reserve features.
    
 # Methodologies
 
 ## This research \- Q3 usability study
 
 * Semi-structured interviews  
-* Test product in production
+* Usability test of the product in staging
 
 ## Next research \- Q4 study
 
@@ -39,7 +39,7 @@ This research plan draft describes the objectives, methodologies, and research q
   * Actions  
   * People  
 * Outside of TAP, is anyone helping you keep track of what you need for your transition?  
-* What are you most concerned might slip through the cracks during your transition?  
+* What are you most concerned might slip through the cracks during your transition?
 * What keeps you up at night
 
 ### Part 2: Usability test of the product
@@ -69,6 +69,8 @@ This research plan draft describes the objectives, methodologies, and research q
 ### Part 3: Follow up questions after testing the product
 
 * What support would you like to see TAP participants receive that isn’t included in this tool?  
+* What’s missing from this tool?
+* Would you recommend this tool to TSMs? Why or why not?
 * How could this tool make your job easier?
 
 # Unmet Needs that are outside the scope of Q3 research
@@ -90,8 +92,9 @@ As we crafted this research plan we identified areas from unmet needs that were 
 
 * Service characteristics  
   * Branch  
-  * Guard and reserve  
+  * Active Duty, Guard and Reserve  
   * Length of service  
+  * Rank
 * Demographic characteristics  
   * Gender  
   * Age - High priority recruitment criteria so we understand the needs of TSMs who separate at different life stages 

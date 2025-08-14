@@ -1,5 +1,5 @@
 # `va-tabs` Design Decisions  
-_Last updated: 2025-05-13_
+_Last updated: 2025-07-14_
 
 ## Index
 - [ADR 001: Tab definitions](#adr-001-tab-definitions)
@@ -7,6 +7,8 @@ _Last updated: 2025-05-13_
 - [ADR 003: Tab Style Choices](#adr-003-tab-style-choices)
 - [ADR 004: Consistent popover styles](#adr-004-consistent-popover-styles)
 - [ADR 005: Focus styles](#adr-005-focus-styles)
+- [ADR 006: Limiting tabs to 3 or less](#adr-006-limiting-tabs-to-3-or-less)
+- [ADR 007: Adding horizontal scrolling for tab overflow](#adr-007-Adding-horizontal-scrolling-for-overflow)
 
 ---
 
@@ -216,3 +218,55 @@ We chose **Option 2**: adding a 2px dark border around focused tabs. This provid
 ### Consequences
 
 This change introduces a new focus style for tabs, diverging from other components, which do not currently use an outer border for focus. 
+
+---
+
+## ADR 006: Limiting tabs to 3 or less 
+
+### Status: Accepted  
+- **Date Raised:** 2025-07-02  
+- **Decision Date:** 2025-07-14  
+
+## Context
+
+Following an accessibility review of the tabs component, concerns were raised about the overflow behavior—specifically the use of a `more` button to handle excess tabs. You can read more in the [accessibility review](https://vfs.atlassian.net/wiki/spaces/DST/pages/4194730001/Accessibility+Review+-+New+Tabs+Design).  
+
+In response, we initiated a [tabs discussion thread](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/discussions/4443), where teams shared their current use cases. Findings from this effort are documented in the [tabs audit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/va-tabs/tabs-audit.md).
+
+## Decision
+
+Based on the audit, there are currently no strong use cases requiring more than three tabs. Therefore, we will limit the initial implementation of the `va-tabs` component to **three or fewer tabs**. We will **not implement** a tab overflow solution (e.g., a `more` dropdown) in version 1.
+
+However, we will still address accessibility and usability concerns for limited tabs at 400% zoom or in constrained viewports.
+
+## Consequences
+
+There will most likely be a need to solve for more than 3 tabs in future. This could cause more time to develop and implement this interaction in the future. 
+
+---
+
+## ADR 007: Adding horizontal scrolling for tab overflow
+### Status: Accepted  
+- **Date Raised:** 2025-07-  
+- **Decision Date:** 2025-07-
+
+## Context
+
+## Decision
+
+## Consequences
+
+---
+
+## ADR 008: Switching from URL navigation to on-page navigation
+### Status: Accepted  
+- **Date Raised:** 2025-07-
+- **Decision Date:** 2025-07-13
+
+## Context
+
+## Decision
+
+## Consequences
+
+---

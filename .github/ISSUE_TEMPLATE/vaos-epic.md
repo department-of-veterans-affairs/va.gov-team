@@ -1,22 +1,35 @@
 ---
 name: VAOS Epic Template
-about: For VAOS product epic
+about: For Appointments FE epics
 title: "[Epic]"
-labels: appointments-pm, appointments-product-design
+labels: appointments-pm, appointments
 assignees: ''
+type: "Epic"
 
 ---
 
-**Objective:** _Enter the details_
+# Epic title
 
-_List out the initiatives and planned release date for tracking purposes_
-| Initiative | Release Date | Status | 
-| ------- | ---------- | ----- | 
-| Initiative [Link to feature epic]() | Month Year  |   | 
-| Initiative [Link to feature epic]() | Month Year  |   | 
-| Initiative [Link to feature epic]() | Month Year  |   | 
-| Initiative [Link to feature epic]() | Month Year  |   | 
-| Initiative [Link to feature epic]() | Month Year  |   | 
+### Problem Statement
+* What are we trying to solve?
+#### Why is this important?
+* 
+#### Links to Github and other documentation 
+*
+## Current Status
+
+
+|            | Status |
+|------------|-----------------------------|
+| Month Year | Status |
+
+
+## Success Criteria
+* What metrics are tied to this effort?
+
+
+
+
 
 
 ---

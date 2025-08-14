@@ -1,16 +1,20 @@
 # Check-In Experience Production Support Playbook
 
 ### Table of Contents
-1. [Communicating Production Incidents](#communication)
-2. [Post-Mortem Process ](#post)
+1. [Communicating Upcoming Releases](#releases)
+2. [Communicating Production Incidents](#communication)
+3. [Post-Mortem Process ](#post)
 
+
+## Communicating Upcoming Releases <a name="releases"></a>
+OCTO will share out the high-level upcoming work at each monthly VTP OIT Leadership Meeting with VTP and VES. The check-in team will begin to notify all relevant stakeholders of upcoming releases at weekly TCP to VA.gov Migration Weekly Sync when staging review preparations are being made, which should allow for multiple weeks warning before release. On the day of any release, emails will be sent to everyone on the invite list to the weekly TCP to VA.gov Migration Weekly Sync.
 
 ## Communicating Production Incidents <a name="communication"></a>
 In the event of a production incident related to any check-in applications, acknowledge the issue by creating a thread/acknowledging an existing incident thread in #check-in-production-support and PagerDuty within 15-minutes during business hours or 60 minutes after business hours. 
 Business Hours: 7:00am ET - 8:00pm ET, Non-Business Hours: 8:00pm ET - 7:00am ET, Weekends, and Holidays. 
 Note: we cannot get a timestamp from a reaction, so the acknowledgement needs to be a message post. The on-call engineer will outline the behavior seen and tag partners needed to help discover, brainstorm, or resolve the problems noted. If the incident triggered an incident in PagerDuty, the on-call engineer will acknowledge the incident in PagerDuty within 15-minutes during business hours or 60 minutes after business hours.
 
-Identify a point-of-contact who will own communicating alerts to all relevant stakeholders for awareness of the incident and the impacted users. Point-of-contact will use the following email template to alert all relevant stakeholders as soon as possible. 
+Check-in's Product Manager will own communicating alerts to all relevant stakeholders for awareness of the incident and the impacted users. Check-in's Product Manager will identify a back-up when out of office. They will use the following email template to alert all relevant stakeholders, which includes everyone on the invite list to the weekly TCP to VA.gov Migration Weekly Sync, within 24 hours of critical incidents. 
 
 **Subject Line:** < Application Name > Production Outage MM-DD-YYYY
 

@@ -24,27 +24,42 @@ Adoption is our key performance indicator. We’ll track Veteran engagement and 
 * Views of each error message. We expect this to be a non-zero amount across all error messages and will track the number of times each error message is surfaced to determine whether additional granularity could be helpful in the future.
 
 ### Table of the Key Performance Indicators 
-Feature went live on 4/22/2025
+* The feature went live on 4/22/2025
+* BE Metrics was set up on 5/16/2025
+* FE Metrics was set up on 6/17/2025
 
-
-|  | 03/2025 | 04/2025 | 05/2025 | 06/2025 | 07/2025 | 08/2025 | 09/2025 |
+|BE Metrics  | 03/2025 | 04/2025 | 05/2025 | 06/2025 | 07/2025 | 08/2025 | 09/2025 |
 | ----- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Total number of views** | 479k | 557k | 874k  |  |  |  |  |
-|**NOT\_TITLE\_38** (error message - BE) | No Data | No Data | 0.3% |  |  |  |  |
-| **Not NOT\_TITLE\_38** (error message - BE) | No Data | No Data | 2.9% |  |  |  |  |
-|**ERROR Not Confirmed** (error message - BE) | No Data | No Data | 0% |  |  |  |  |
+| **Total number of views** | 479k | 557k | 874k  | 852,531| 870,628 |  |  |
+|**NOT\_TITLE\_38** (error message) | No Data | No Data | 0.3% | 0.3% | 0.3% |  |  |
+| **Not NOT\_TITLE\_38** (error message) | No Data | No Data | 2.9% | 3% | 3.1% |  |  |
+|**ERROR Not Confirmed** (error message) | No Data | No Data | 0% | 0% | 0% |  |  |
+
+|FE Metrics  | 03/2025 | 04/2025 | 05/2025 | 06/2025 | 07/2025 | 08/2025 | 09/2025 |
+| ----- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Total number of views** | 479k | 557k | 874k  | 852,531| 870,628 |  |  |
+|Event Count **NOT\_TITLE\_38** (error message) | No Data | No Data | No Data |7.7k | 8.5k |  |  |
+|Total Users **NOT\_TITLE\_38** (error message) | No Data | No Data | No Data |2.7k | 3.4k |  |  |
+|Event Count **Not NOT\_TITLE\_38** (error message: More research required) | No Data | No Data | No Data | 69k | 75k |  |  |
+|Total Users **Not NOT\_TITLE\_38** (error message: More research required) | No Data | No Data | No Data | 23k | 27k |  |  |
+|Event Count **Not NOT\_TITLE\_38** (error message: Missing service history) | No Data | No Data | No Data | 38k | 81k |  |  |
+|Total Users **Not NOT\_TITLE\_38** (error message: Missing service history) | No Data | No Data | No Data | 25k | 51k |  |  |
+|Event Count **ERROR Not Confirmed** (error message) | No Data | No Data | No Data | 0 | 0 |  |  |
+|Total Users **ERROR Not Confirmed** (error message) | No Data | No Data |No Data | 0 | 0 |  |  |
 
 * Total number of views: This details the number of Veterans who can view their Proof of Veteran Status Card.
 * NOT\_TITLE\_38 error message: This message on the FE states **You're not eligible for a Veteran Status Card**.
-* Not NOT\_TITLE\_38 error message: This  message on the FE states **There's a problem with your discharge status records**.
+* Not NOT\_TITLE\_38 error message: This message on the FE states **There's a problem with your discharge status records**. This error message will populate if more research is required or there is missing service history.
 * ERROR Not Confirmed message: This message on the FE states **Something went wrong**.
+* Event Count: This data captures the number of times a message is clicked on and viewed by a Veteran.   
+* Total Users: This data captures the number of Veterans who are viewing the error message. 
 
 Additional Notes:
 * The total number of views of the proof of Veteran Status Card is pulled from the [Monthly Mobile Metrics](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/analytics/README.md#march-2025).
-* BE metrics is tracked through [Datadog](https://vagov.ddog-gov.com/dashboard/ech-i5z-egy/veteran-status-card?fromUser=true&refresh_mode=paused&from_ts=1746075600000&to_ts=1748753999999&live=false)
-* FE metrics is tracked through Firebase (link to come).
-* BE metrics was setup on 5/16/2025 and will show a percentage of users that receive the error message. This data is captured when a Veteran signs into the app.  
-* FE analytics will detail the number of views for each error message and is tracked when a Veteran clicks on the Proof of Status button and the respective error message populates. MFS is **in progress** with setting up Firebase and we expect to have this resolved by the end of June 2025. 
+* BE metrics is tracked through [Datadog](https://vagov.ddog-gov.com/dashboard/ech-i5z-egy/veteran-status-card?fromUser=true&refresh_mode=paused&from_ts=1746075600000&to_ts=1748753999999&live=false).
+* FE metrics is tracked through [Google Analytics](https://analytics.google.com/analytics/web/?authuser=2&hl=en#/p265787033/reports/dashboard?params=_u..pageSize%3D250%26_u.comparisonOption%3Ddisabled%26_u.date00%3D20250616%26_u.date01%3D20250624%26_u..nav%3Dmaui%26_r..dimension-value%3D%7B%22dimension%22:%22eventName%22,%22value%22:%22vama_vsc_error_shown%22%7D&r=events-overview&collectionId=3022309925). Note: At the top right corner of the linked page, users will be able to select the date range of the data.
+* BE metrics were set up on 5/16/2025 and will show a percentage of users who receive the error message. This data is captured when a Veteran signs into the app.  
+* FE analytics will detail the number of views for each error message and is tracked when a Veteran clicks on the Proof of Status button and the respective error message populates. This was set up on 6/17/2025 and will only provide data from that point forward. 
 
 ### Supporting OCTO OKRs:
 
@@ -60,6 +75,7 @@ O1: VA’s digital experiences are the easiest and most efficient way to access 
 * IIR has a desire for mobile app logging to be separate from the web logging if possible  
 * Notes from IIR/MFS handoff: [here](https://github.com/department-of-veterans-affairs/va-mobile-feature-support/issues/209#issuecomment-2654834565) and [here](https://dsva.slack.com/archives/C07SD9P7XB9/p1739394087892769)  
 * Monitoring for the web app is tracked in \#vet-status-card-alerts
+* [Link](https://github.com/department-of-veterans-affairs/va-mobile-feature-support/blob/art.ariel/mermaid/projects/vsc-api-refactor/README.md) to the API Refactor: Veteran Status Card product brief
 
 ## Solution Approach
 

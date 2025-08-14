@@ -31,4 +31,4 @@ _ hours
 ---
 ## How to configure this issue
 - [ ] **Attached to an Epic** (what body of work is this a part of?)
-- [ ] **Labeled with Practice Area** (`backend`, `frontend`, `devops`, `design`, `research`, `product`, `ia`, `qa`, `analytics`, `contact center`, `research`, `accessibility`, `content`)
+- [ ] **Labeled with Practice Area** (`vets-website`, `vets-api`, `backend`, `devops`, `design`, `research`, `product`, `ia`, `qa`, `analytics`, `contact center`, `research`, `accessibility`, `content`)

@@ -29,7 +29,7 @@ If Veterans cannot access their VA Letters and Documents, they need to request t
 ## Design & accessibility goals
 
 ### Focus Veterans on the primary task of downloading VA letters and documents.
-Consolidate the Mailing address and benefit letters content onto a single screen.
+- Consolidate the Mailing address and benefit letters content onto a single screen.
 - Remove the extra click to view and download documents.
 - Provide guidance for people who don't have a stable mailing address (Edit address).
 - Improve plain language descriptions of letters.

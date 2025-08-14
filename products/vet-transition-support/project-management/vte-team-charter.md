@@ -23,35 +23,30 @@ While the initial value proposition is aimed at TSMs and RSVs, the Veteran Trans
 ### Delivery Lead / Scrum Master / Contract Lead
 
 #### Delivery Lead Responsibilities 
-
 - Stands up project & onboards new team members
 - Responsible for monitoring all aspects of the project: scope, schedule, finance, risk, quality, and resources
 - Ensures project is meeting contractual objectives
 - Monitors and assesses project risks and helps escalate/resolve them as needed.
 - Coordinates & supports project invoice workflow
-- Lead Monthly COR report
+- Leads Monthly COR report
 - Responsible for creating and submitting contractual reports
 
 #### Scrum Master Responsibilities 
 - Support Product Manager in ensuring that goals, scope, and product domain are understood by everyone on the Scrum Team as well as possible
-- Focus on creating high-value Increments that meet the Definition of Done
 - Facilitates scrum ceremonies
-- Create process documentation as needed 
-- Track progress against goals and timelines
-- Calculate sprint velocity for each sprint
-- Help team problem solve, track down information, unblock folks as issues arise
-- Set standards and expectations with regard to how we practice Agile
-- Lead knowledge management on the team in terms of setting standards of how/where we should document things
-- Orient new teammates on use of project tools (such as GitHub, ZenHub, Mural, etc) and help troubleshoot team’s issues 
+- Creates process documentation as needed 
+- Tracks progress against goals and timelines
+- Calculates sprint velocity for each sprint
+- Helps team problem solve, track down information, unblock folks as issues arise
+- Sets standards and expectations with regard to how we practice Agile
+- Leads knowledge management on the team in terms of setting standards of how/where we should document things
 
 #### Contract Lead
 - Responsible for agency onboarding & offboarding for team members 
 - Welcome meeting 
 - Provide onboarding instructions
-- Troubleshoot any issues they run into 
-- Support them through the end to end VA onboarding process
+- Troubleshoot any onboarding issues the team runs into 
 - Log and track the team’s VA training requirements (TMS, etc) 
-- Works closely with the COR for any contract management
 
 ### Product Manager
 - Define the product vision and align it with business goals & user needs
@@ -66,7 +61,7 @@ While the initial value proposition is aimed at TSMs and RSVs, the Veteran Trans
 - Conduct user interviews, surveys, and usability testing to understand user needs and behaviors
 - Create wireframes, mockups, and interactive prototypes to visualize and test design solutions
 - Design the content and visual elements of the product, including layout, color schemes, typography, and iconography
-- Performing usability tests to gather feedback and make necessary adjustments to improve the user experience
+- Perform usability tests to gather feedback and make necessary adjustments to improve the user experience
 
 ### Tech Lead 
 - All Engineering responsibilities below 

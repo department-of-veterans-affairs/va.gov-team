@@ -1,0 +1,326 @@
+name: Generate Research Short Story
+
+on:
+  push:
+    paths:
+      - 'products/**/[Ff]indings.md'
+      - 'products/**/[Rr]eport.md'
+      - 'products/**/[Ii]nsights.md'
+      - 'products/**/[Rr]esearch-[Ff]indings.md'
+      - 'products/**/[Rr]esearch-[Rr]eport.md'
+      - 'products/**/[Rr]esearch-[Ii]nsights.md'
+      - 'products/**/[Uu]ser-[Rr]esearch-[Ff]indings.md'
+      - 'products/**/[Uu]ser-[Rr]esearch-[Rr]eport.md'
+      - 'products/**/[Ss]tudy-[Ff]indings.md'
+      - 'products/**/[Ss]tudy-[Rr]eport.md'
+    branches:
+      - master
+      - main
+  schedule:
+    # Run daily to check for reports that are ready for short story generation
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+    inputs:
+      research_file_path:
+        description: 'Path to specific research file (optional - leave blank to process all eligible files)'
+        required: false
+        type: string
+      ignore_time_delay:
+        description: 'Ignore 3-day waiting period (for testing)'
+        required: false
+        type: boolean
+        default: false
+      target_branch:
+        description: 'Target branch for PR (defaults to current branch)'
+        required: false
+        type: string
+        default: ''
+
+permissions:
+  contents: write
+  pull-requests: write
+  actions: write
+
+jobs:
+  check-and-generate-short-story:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.WORKFLOWS_PERMISSIONS }}
+          fetch-depth: 0
+          ref: ${{ github.event.inputs.target_branch || github.ref }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install openai requests
+
+      - name: Find eligible research files
+        id: find-files
+        run: |
+          # Check if manual run with specific file
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ -n "${{ github.event.inputs.research_file_path }}" ]; then
+            RESEARCH_FILE="${{ github.event.inputs.research_file_path }}"
+            if [ -f "$RESEARCH_FILE" ]; then
+              echo "Manual run for specific file: $RESEARCH_FILE"
+              echo "eligible_files=$RESEARCH_FILE" >> $GITHUB_OUTPUT
+              echo "skip=false" >> $GITHUB_OUTPUT
+            else
+              echo "Error: Specified file not found: $RESEARCH_FILE"
+              echo "skip=true" >> $GITHUB_OUTPUT
+              exit 1
+            fi
+          else
+            # Current time in seconds
+            CURRENT_TIME=$(date +%s)
+            THREE_DAYS_AGO=$((CURRENT_TIME - 259200))  # 3 days = 259200 seconds
+            
+            # For manual testing, optionally ignore time delay
+            if [ "${{ github.event.inputs.ignore_time_delay }}" = "true" ]; then
+              echo "Ignoring 3-day time delay for testing"
+              THREE_DAYS_AGO=$CURRENT_TIME
+            fi
+            
+            # Find research files that are at least 3 days old and don't have a short-story.md
+            ELIGIBLE_FILES=""
+            
+            # Find all research files
+            RESEARCH_FILES=$(find products -type f -name "*.md" | grep -E '([Ff]indings|[Rr]eport|[Ii]nsights|[Rr]esearch-[Ff]indings|[Rr]esearch-[Rr]eport|[Rr]esearch-[Ii]nsights|[Uu]ser-[Rr]esearch-[Ff]indings|[Uu]ser-[Rr]esearch-[Rr]eport|[Ss]tudy-[Ff]indings|[Ss]tudy-[Rr]eport)\.md$' || true)
+            
+            for FILE in $RESEARCH_FILES; do
+              DIR=$(dirname "$FILE")
+              SHORT_STORY_PATH="$DIR/short-story.md"
+              
+              # Get the file's first commit time
+              FIRST_COMMIT_TIME=$(git log --follow --format=%at --reverse "$FILE" | head -1)
+              
+              if [ -n "$FIRST_COMMIT_TIME" ]; then
+                # Check if file is at least 3 days old (or if we're ignoring delay)
+                if [ "$FIRST_COMMIT_TIME" -le "$THREE_DAYS_AGO" ]; then
+                  # Check if short-story.md exists
+                  if [ ! -f "$SHORT_STORY_PATH" ]; then
+                    ELIGIBLE_FILES="$ELIGIBLE_FILES$FILE "
+                  else
+                    # Check if research file was updated after short story
+                    RESEARCH_LAST_MODIFIED=$(git log -1 --format=%at "$FILE")
+                    SHORT_STORY_LAST_MODIFIED=$(git log -1 --format=%at "$SHORT_STORY_PATH" 2>/dev/null || echo "0")
+                    
+                    if [ "$RESEARCH_LAST_MODIFIED" -gt "$SHORT_STORY_LAST_MODIFIED" ]; then
+                      ELIGIBLE_FILES="$ELIGIBLE_FILES$FILE "
+                    fi
+                  fi
+                fi
+              fi
+            done
+            
+            if [ -z "$ELIGIBLE_FILES" ]; then
+              echo "No eligible research files found"
+              echo "skip=true" >> $GITHUB_OUTPUT
+            else
+              echo "eligible_files=$ELIGIBLE_FILES" >> $GITHUB_OUTPUT
+              echo "skip=false" >> $GITHUB_OUTPUT
+              echo "Found eligible files: $ELIGIBLE_FILES"
+            fi
+          fi
+
+      - name: Process and generate short stories
+        if: steps.find-files.outputs.skip != 'true'
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          cat << 'PYTHON_SCRIPT' > generate_stories.py
+          import os
+          import sys
+          import json
+          import openai
+          from pathlib import Path
+          from datetime import datetime, timedelta
+          import subprocess
+
+          # Get eligible files from environment
+          eligible_files = os.environ.get('ELIGIBLE_FILES', '').strip().split()
+
+          for research_file in eligible_files:
+              if not research_file:
+                  continue
+                  
+              print(f"Processing: {research_file}")
+              
+              # Get authors from last 3 days
+              three_days_ago = (datetime.now() - timedelta(days=3)).strftime('%Y-%m-%d')
+              cmd = f"git log --since='{three_days_ago}' --format='%an|%ae' '{research_file}' | sort -u"
+              result = subprocess.run(cmd, shell=True, capture_output=True, text=True)
+              
+              reviewers = []
+              for line in result.stdout.strip().split('\n'):
+                  if '|' in line:
+                      author, email = line.split('|')
+                      username = author.lower().replace(' ', '-')
+                      reviewers.append(username)
+              
+              reviewer_list = ','.join(reviewers) if reviewers else 'sstrassberg'
+              
+              # Read research content
+              with open(research_file, 'r', encoding='utf-8') as f:
+                  research_content = f.read()
+              
+              # Read prompt instructions
+              prompt_file = 'products/copilot-research-prompts/research-short-story-prompt.md'
+              if os.path.exists(prompt_file):
+                  with open(prompt_file, 'r', encoding='utf-8') as f:
+                      prompt_content = f.read()
+                  
+                  # Extract prompt instructions
+                  start_marker = '```plaintext'
+                  end_marker = '```'
+                  start_idx = prompt_content.find(start_marker) + len(start_marker)
+                  end_idx = prompt_content.find(end_marker, start_idx)
+                  prompt_instructions = prompt_content[start_idx:end_idx].strip()
+              else:
+                  print(f"Prompt file not found: {prompt_file}")
+                  continue
+              
+              # Generate short story using OpenAI
+              client = openai.OpenAI(api_key=os.environ['OPENAI_API_KEY'])
+              
+              try:
+                  response = client.chat.completions.create(
+                      model="gpt-4o-mini",
+                      messages=[
+                          {"role": "system", "content": prompt_instructions},
+                          {"role": "user", "content": f"Please summarize this research report:\n\n{research_content}"}
+                      ],
+                      temperature=0.7,
+                      max_tokens=1500
+                  )
+                  
+                  short_story = response.choices[0].message.content
+                  
+                  # Save metadata for the workflow
+                  metadata = {
+                      'research_file': research_file,
+                      'dir_path': os.path.dirname(research_file),
+                      'reviewers': reviewer_list,
+                      'short_story': short_story
+                  }
+                  
+                  with open(f'metadata_{eligible_files.index(research_file)}.json', 'w') as f:
+                      json.dump(metadata, f)
+                      
+                  print(f"Successfully generated short story for {research_file}")
+                  
+              except Exception as e:
+                  print(f"Error generating short story for {research_file}: {e}")
+          PYTHON_SCRIPT
+          
+          ELIGIBLE_FILES="${{ steps.find-files.outputs.eligible_files }}" python generate_stories.py
+
+      - name: Create PRs for each story
+        if: steps.find-files.outputs.skip != 'true'
+        run: |
+          for metadata_file in metadata_*.json; do
+            if [ -f "$metadata_file" ]; then
+              # Extract metadata
+              RESEARCH_FILE=$(jq -r '.research_file' "$metadata_file")
+              DIR_PATH=$(jq -r '.dir_path' "$metadata_file")
+              REVIEWERS=$(jq -r '.reviewers' "$metadata_file")
+              SHORT_STORY=$(jq -r '.short_story' "$metadata_file")
+              
+              # Save environment variables for the next steps
+              echo "RESEARCH_FILE=$RESEARCH_FILE" >> $GITHUB_ENV
+              echo "DIR_PATH=$DIR_PATH" >> $GITHUB_ENV
+              echo "REVIEWERS=$REVIEWERS" >> $GITHUB_ENV
+              echo "SHORT_STORY_CONTENT<<EOF" >> $GITHUB_ENV
+              echo "$SHORT_STORY" >> $GITHUB_ENV
+              echo "EOF" >> $GITHUB_ENV
+              
+              # Create the short story file
+              mkdir -p "$DIR_PATH"
+              echo "$SHORT_STORY" > "$DIR_PATH/short-story.md"
+              
+              # Continue with PR creation in next step
+              break
+            fi
+          done
+
+      - name: Create Pull Request
+        if: steps.find-files.outputs.skip != 'true' && env.RESEARCH_FILE
+        id: create-pull-request
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.WORKFLOWS_PERMISSIONS }}
+          commit-message: "Generate research short story for ${{ env.RESEARCH_FILE }}"
+          title: "${{ github.event_name == 'workflow_dispatch' && '[TEST] ' || '' }}Research Short Story: ${{ env.DIR_PATH }}"
+          body: |
+            ## 📚 Research Short Story Generated
+            
+            ${{ github.event_name == 'workflow_dispatch' && '> ⚠️ **This is a TEST run** triggered manually via workflow_dispatch' || '' }}
+            
+            This pull request adds a research short story based on the findings in `${{ env.RESEARCH_FILE }}`.
+            
+            ### 📝 Changes
+            - Added `short-story.md` to `${{ env.DIR_PATH }}/`
+            
+            ### 👀 Review Instructions
+            Please review the generated short story for:
+            - Accuracy of key insights
+            - Appropriate tone and language
+            - Proper markdown formatting
+            - Adherence to the 400-word limit
+            
+            ### 👥 Reviewers
+            All authors who contributed to the research findings in the past 3 days have been added as reviewers. Only one approval is needed to merge.
+          branch: auto/research-short-story-${{ github.run_number }}
+          delete-branch: true
+          reviewers: ${{ env.REVIEWERS }}
+          labels: |
+            research
+            documentation
+            automated
+
+      - name: Send Slack notification
+        if: steps.find-files.outputs.skip != 'true' && steps.create-pull-request.outputs.pull-request-number
+        uses: slackapi/slack-github-action@v1.26.0
+        with:
+          channel-id: 'research-ops'
+          payload: |
+            {
+              "text": "📚 New Research Short Story Generated",
+              "blocks": [
+                {
+                  "type": "header",
+                  "text": {
+                    "type": "plain_text",
+                    "text": "📚 New Research Short Story Generated"
+                  }
+                },
+                {
+                  "type": "section",
+                  "text": {
+                    "type": "mrkdwn",
+                    "text": "${{ env.SHORT_STORY_CONTENT }}"
+                  }
+                },
+                {
+                  "type": "actions",
+                  "elements": [
+                    {
+                      "type": "button",
+                      "text": {
+                        "type": "plain_text",
+                        "text": "Review PR on GitHub"
+                      },
+                      "url": "https://github.com/${{ github.repository }}/pull/${{ steps.create-pull-request.outputs.pull-request-number }}"
+                    }
+                  ]
+                }
+              ]
+            }
+        env:
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_USER_OAUTH_ACCESS_TOKEN }}

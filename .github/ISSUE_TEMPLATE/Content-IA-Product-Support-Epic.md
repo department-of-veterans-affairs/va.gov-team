@@ -54,19 +54,31 @@ assignees: ''
 - Incremental release plan
 
 
-### Work kick-off and closing tasks
+### Tasks
 
-#### Work kick-off action items
+#### Epic opening tasks (team lead)
+- [ ] Enter info on product team and initiative
+- [ ] Add links to Collab Cycle ticket and product brief
 - [ ] Assign content and IA specialists
-- [ ] Schedule kickoff with team
-- [ ] Review all supporting artifacts and compile initial questions
-- [ ] Gather all known relevant content style guide and standards to provide links to team in kickoff
-- [ ] Attend design intent for initiative (if scheduled)
-- [ ] Solidfy timeline and prioritize appropriatel
+- [ ] Comment in related Collab Cycle ticket, tagging product team and Governance (Content and IA), for awareness of our involvement
 
-#### Work closing action items
+#### Kick-off tasks (assigned team members)
+- [ ] Review all supporting artifacts (especially product brief) and compile initial questions
+- [ ] Schedule kickoff with team to understand scope, goals, technical or business contraints, and timelines
+- [ ] Attend design intent for initiative (if scheduled)
+- [ ] Confirm if user research is planned (and when)
+- [ ] Confirm timeline and staged release (if applicable)
+- [ ] Create content- and IA-specific sub-issues within epic for all individual pieces of work. (Use the Content and IA Product Support Task sub-issue template.)
+
+#### Closing tasks
 - [ ] All necessary redirects are implemented
 - [ ] All entry points are implemented
 - [ ] All crosslink/URL references are updated across the site
 - [ ] All associated tickets are closed
 - [ ] All documentation updates are made (i.e. artifacts are marked final, sitemaps are updated, etc.)
+
+
+### Deliverable
+The Content and IA team will update this section with specific items we've delivered to product teams for their project, such as IA specs and final copy. We'll update this section as best we can as we iterate throughout the project lifecycle.
+
+

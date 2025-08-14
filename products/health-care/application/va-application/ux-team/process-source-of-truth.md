@@ -1,26 +1,28 @@
-# [WIP] Process - Source of Truth
+Process - Source of Truth
 
-WIP updated June 20, 2024
+WIP updated July 22, 2025
 
 ----
 
-This process document outlines the steps needed to update the source of truth ux documentation wtih every new release to production. 
+This process document outlines the steps needed to update the source of truth ux documentation and files with every new release to production. 
 
-- [EZ / EZR shared content Figma library](https://www.figma.com/design/sxGu2QhRKtsUQqZLbSjWJO/10-10-EZ-%26-EZR-FormContent?node-id=0-1&t=bxW99i9FlFxMxC7R-0) 
+- [EZ Production Figma File](https://www.figma.com/design/W1cs6Gjx3MR5VU0EjurHLZ/10-10EZ-Production?node-id=0-1&p=f&t=qTtWOpNJ1vX4iiYO-0)
+- [EZR Production Figma File](https://www.figma.com/design/FIol4hCGVx9eTrY0AXDmnl/10-10EZR-Production?t=qTtWOpNJ1vX4iiYO-0)
+
 ----
 
 ## Process
 
-1. Open a ticket to account for the UX work to update the source of truth files.
+1. Open a ticket (Github) to account for the UX work to update the source of truth files and use the 1010 ticket template for user stories. 
 2. FIGMA: 
-    - Move the updated content/designs into the shared content library file if for the EZ or EZR or the component template page of CG file.
-    - In the product Figma file, make sure all the components are synced on the screens and no outdated variants of the components show.
-    - If there are new pages added to the form, add these all new pages to the source of truth section of the main product file.
+    - Move the updated content/designs into the COMPONENT page of the production file. 
+    - In the product/form section pages of the Figma file, make sure all the components are synced on the screens and no outdated variants of the components show.
+    - If there are new pages added to the form, add these all new pages to the section of the form flow.
 3. MURAL:
     - User flows (adjust the product source of truth file)
-    - If any alerts are new/updated, add the image and text to the Mural alert
+    - If any alerts are new/updated, add the image and text to the Mural alert audit board
 4. GITHUB
-    - Update the content source of truth and any ux doucmentation in the initiative folders as needed. 
+    - Update the content source of truth and any ux doucmentation in the initiative folders as needed
 
 ----
 
@@ -33,13 +35,12 @@ Ticket Description: To make sure the source of truth designs are accurate and up
 
 
 Tasks: 
-1. Update the Figma shared content library file with any content changes or new content/pages that were added
-2. Publish the EZ/EZR shared library once the updates are completed (CG source of truth will be in the product file).
-3. If EZ/EZR, open the product file and sync the content library changes.
+1. Update the Figma COMPONENT page in the source of truth with any content changes or new content/pages that were added.
+2. If EZ/EZR, open the product section pages and sync any components needed.
 4. Add any new pages (if needed) to the Figma source of truth pages.
-5. Update the Mural product user flow (if applies).
-6. Update the Mural error audit board (if applies).
-7. Update the github content source of truth file (For EZ and EZR).
+5. Update the Mural product user flow (if applies by adding/removing pages).
+6. Update the Mural error audit board (if applies by adding/removing alerts).
+7. Update the github content source of truth file.
 
 Acceptence criteria:
 - All source of truth documents listed are updated with the recently launched changes. 
@@ -53,7 +54,7 @@ Note:  Figma file pages are separated by sections within the form.
 
 ### Form 10-10EZ Health care application
 
-- **[EZ Figma File](https://www.figma.com/design/UljiHam46o5DItC5iDgmPd/10-10EZ?node-id=0-1&t=QjvZkmXsETMeSV6e-0)**
+- **[EZ Figma File](https://www.figma.com/design/W1cs6Gjx3MR5VU0EjurHLZ/10-10EZ-Production?node-id=0-1&p=f&t=qTtWOpNJ1vX4iiYO-0)**
   - Introduction page
   - Veteran infomation 
   - VA Benefits
@@ -90,7 +91,7 @@ Note:  Figma file pages are separated by sections within the form.
 - [Github folder]()
 
 ### Form 10-10CG Caregivers Program application
-- **[Figma file](https://www.figma.com/design/TxXD5bGUOhbHHWLb85GPjK/10-10CG?node-id=0-1&t=104bLnGOpjrdMbOF-0)**
+- **[Figma file](https://www.figma.com/design/ZLGXh1HFssRudTJeX190Zg/10-10CG---Production-File?t=qTtWOpNJ1vX4iiYO-0)**
   - Introduction page
   - Veteran infomation 
   - Primary Caregiver

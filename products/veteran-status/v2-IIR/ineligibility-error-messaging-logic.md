@@ -3,15 +3,15 @@
 ## Overview & Context
 Prior to 2025, the Veteran Status Card relied on VA Profile API data plus some custom logic to determine who is eligible for the card or not. That logic can be found in the "Ineligibility Logic - Prior to 2025" section. The mobile app team (and IIR) found that access rates using that logic were at 70% which we considered low.
 
-IIR changed the logic in January 2025 to look at the Veteran Service History & Eligibility API which looks at Title 38 eligibility to determine a Veteran's status. More info on that logic can be found in the "Ineligibility Logic - 2025" section. While that logic is technical stricter than only looking at discharge statuses through VA Profile API data, we saw access rates increase to around 80% on web and 96% on mobile.
+IIR changed the logic in January 2025 to look at the Veteran Service History & Eligibility API which looks at Title 38 eligibility to determine a Veteran's status. More info on that logic can be found in the "Previous Eligibility Logic - Prior to 2025" section. While that logic is technical stricter than only looking at discharge statuses through VA Profile API data, we saw access rates increase to around 80% on web and 96% on mobile (mobile is so much higher due to the sheer volumen of traffic and also user demographic - no technical differences).
 
-In April 2025, IIR met with Chris Johnston & Melissa Rebstock and shared that much of the other 20% who can't access the card on web come back as "More Research Required". That can mean a lot of different things but we believe that the majority of those are because of unknown discharge statuses in the database. There are also a very small subset of users who were able to access the card before we changed the logic but can't anymore under Title 38 logic. Two things that came out of this meeting: 1) a decision was made that we should eventually look at both APIs to determine who gets the Veteran Status Card - look at the Lighthouse API first and if it comes back as "not confirmed", look at VA Profile + custom logic that we had before 2) However, we should change the VA Profile + custom logic so only folks with "Dishonorable" discharge statuses aren't able to access the card because before it also excluded "Bad Conduct" and "Under other than honorable conditions" from getting the card.
+In April 2025, IIR met with Chris Johnston & Melissa Rebstock and shared that much of the other 20% who can't access the card on web come back as "More Research Required". That can mean a lot of different things but we believe that the majority of those are because of unknown discharge statuses in the database. There are also a very small subset of users who were able to access the card before we changed the logic but can't anymore under Title 38 logic. Two things that came out of this meeting: 1) A decision was made that we should eventually look at both APIs to determine who gets the Veteran Status Card - look at the Lighthouse API first and if it comes back as "not confirmed", look at VA Profile API + custom logic that we had before 2) However, we should change the VA Profile API + custom logic so only folks with "Dishonorable" discharge statuses aren't able to access the card because before it also excluded "Bad Conduct" and "Under other than honorable conditions" from getting the card.
 
-IIR has tickets in our backlog to do this work but it's just a matter of prioritization now. We don't expect access rates to JUMP up if we look at both APIs, but they would go up a little. There's no way to tell how much before doing it.
+IIR has tickets in our backlog to do this work but it's just a matter of prioritization now. We don't expect access rates to JUMP up if we look at both APIs, but they would likely go up a little. There's no way to tell how much before doing it.
 
-<details><summary>Future Ineligibility Logic - TBD</summary>
+## Future Ineligibility Logic - TBD
 
-### Summary 
+#### Summary 
 
 Rather than relying on just the [Veteran Service History & Eligibility API](https://developer.va.gov/explore/api/veteran-service-history-and-eligibility/docs?version=current) to determine who gets the Veteran Status Card, we want to do a combination of the Lighthouse API data and the VA Profile API data that was used prior to 2025. 
 
@@ -19,30 +19,31 @@ Rather than relying on just the [Veteran Service History & Eligibility API](http
 
 - Second, if a user comes back as "Not Confirmed" check their discharge statuses via VA Profile API and if they have at least one discharge status that isn't unknown or isn't dishonorable, give them access to the Veteran Status Card.
 
-</details>
 
-<details><summary>Current Ineligibility Logic - 2025</summary>
+## Current Ineligibility Logic - 2025
 
-### Summary
+#### Summary
    
 The Veteran Status Card is shown to users who come back as "Confirmed" in the [Veteran Service History & Eligibility API](https://developer.va.gov/explore/api/veteran-service-history-and-eligibility/docs?version=current) > /status endpoint. The API follows the Title 38 definition of Veteran. If we receive a "Not Confirmed" response from the endpoint, there are four reasons as to why the users isn't confirmed: ERROR, MORE_RESEARCH_REQUIRED, NOT_TITLE_38, and PERSON_NOT_FOUND. If a user comes back with any of these reasons, we surface various error messages to them.
 
-When we reached out to Lighthouse to ask more questions about how those status and reasons are designated, we were given the SSC table below. Green: users who come back as "Confirmed" Orange: users who come back as MORE_RESEARCH_REQUIRED Red: users who come back as NOT_TITLE_38
+When we reached out to Lighthouse to ask more questions about how those status and reasons are designated, we were given the SSC table below. Green: users who come back as "Confirmed" Yellow: users who come back as MORE_RESEARCH_REQUIRED Orange: users who come back as NOT_TITLE_38
 
-### Service Summary Codes (SSC)
+#### Service Summary Codes (SSC)
+<img width="765" height="528" alt="Screenshot 2025-08-07 at 8 49 17 AM" src="https://github.com/user-attachments/assets/1a192895-2517-4d2d-a829-321128fedf0d" />
+
 ![Screenshot 2025-06-27 at 1 34 26 PM](https://github.com/user-attachments/assets/da908eb7-970f-4a52-9437-0cfed30b8d95)
 
+<img width="697" height="259" alt="Screenshot 2025-08-07 at 8 49 54 AM" src="https://github.com/user-attachments/assets/0d84463d-042e-4c6b-8f82-71c1e7bf812f" />
 
-</details>
 
-<details><summary>Previous Ineligibility Logic - Prior to 2025</summary>
+## Previous Ineligibility Logic - Prior to 2025
 
-### Parent Component
+#### Parent Component
 
 At the top level, there is a parent component, `src/applications/personalization/profile/components/military-information/MilitaryInformation.jsx`, that decides whether or not the Veteran Status info is shown. If the call to `/profile/service_history` returns successfully with a `serviceHistory` array, then the `ProofOfVeteranStatus` component can display. The `ProofOfVeteranStatus` component is what displays the user's Veteran status card under the "Proof of Veteran status" header. If that `serviceHistory` array is missing, then the `ProofOfVeteranStatus` component does not display.
 
 
-### ProofOfVeteranStatus component
+#### ProofOfVeteranStatus component
 
 In `src/applications/personalization/profile/components/proof-of-veteran-status/ProofOfVeteranStatus.jsx `there are 3 paths of logic for displaying the Veteran Status card:
 
@@ -65,7 +66,7 @@ In `src/applications/personalization/profile/components/proof-of-veteran-status/
 
 
 
-### Discharge Code mappings
+#### Discharge Code mappings
 
 Found this mapping of discharge codes in `src/applications/personalization/profile/components/proof-of-veteran-status/constants.js` that is "used to specify whether or not to display proof of veteran status (only honorable discharge)".
 
@@ -131,7 +132,7 @@ indicator: 'Z',
 ```
 
 
-### How the unit tests document it
+#### How the unit tests document it
 
 - From `src/applications/personalization/profile/tests/e2e/proof-of-veteran-status/proof-of-veteran-status.cypress.spec.js`:
 

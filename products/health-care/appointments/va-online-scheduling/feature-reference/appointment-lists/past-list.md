@@ -15,6 +15,8 @@ As a Veteran, I want an overview of my appointment history so I can plan future 
 - The display of past appointments in VAOS follows the same display business rules noted in [upcoming appointments](./upcoming-list.md) with two differences:
   - Past canceled appointments are not displayed in VAOS.
   - Past appointments are sorted starting from most recent to furthest in the past.
+    - This is calculated based on the UTC time for the appointment.
+    - The appointment is still displayed in the time zone where it's scheduled.  
 - User can filter past appointments by certain time periods.  
 - Cancelled appointments of any type must not display on the past appointments page. 
 

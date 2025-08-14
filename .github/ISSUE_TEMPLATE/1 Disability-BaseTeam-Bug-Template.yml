@@ -1,0 +1,34 @@
+
+name: Disability Benefits Team Bug Template
+description: Bug issues for Disability Benefits Team 
+labels: ["bug", "disability", "disability-benefits", "needs-refinement"]
+projects: 
+- department-of-veterans-affairs/1660
+body:
+- type: textarea
+  attributes:
+    label: What happened? 
+    description: Describe what went wrong
+    placeholder: Insert bug details here including how to reproduce
+- type: checkboxes
+  attributes:
+    label: How severe is the problem? 
+    description: Describe the severity
+    options:
+      - label: Critical - User is blocked or significantly hindered from submitting the form, data is lost, or claim and evidence test coverage is missing. Fix ASAP.
+      - label: Moderate - User is not blocked, but the happy path is interrupted. Fix after critical bugs.
+      - label: Minor - Cosmetic bugs and minor language inconsistencies. Defer to a later sprint.
+- type: textarea
+  attributes: 
+    label: What is the desired behavior? 
+    placeholder: Describe here
+      
+- type: checkboxes
+  attributes: 
+    label: Definition of done
+    description: Describe here (Add to checklist if necessary)
+    options:
+      - label: Acceptance criteria reviewed and approved by product or design
+      - label: Unit test (or other test coverage) added if possible
+      - label: Logging and monitoring in place
+

@@ -49,5 +49,8 @@ Timeline:
 - **11/24/2024**- CAIA recommended Complete a Subtask
   - Team worked with CAIA on Complete a Subtask path
 - **02/19/2025**- CAIA recommended Static Page
-   - [Internal Slack Thread 02/12/2025](https://dsva.slack.com/archives/G01KBHYEXV2/p1739379659475599)
+   - [Slack Thread 02/12/2025](https://dsva.slack.com/archives/G01KBHYEXV2/p1739379659475599)
    - Team awaiting Content guidance from CAIA
+- **04/11/2025**- New R&S page launches
+   - https://www.va.gov/resources/options-to-request-help-with-va-debt/
+- **06/2025** - [Research Findings for R&S page and Dispute page posted](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/digital-dispute/research/research-findings.md)

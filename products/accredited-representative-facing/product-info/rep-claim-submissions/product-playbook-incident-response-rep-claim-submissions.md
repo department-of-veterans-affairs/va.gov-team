@@ -23,17 +23,20 @@
 ### Errors and Metrics
 
 This section will focus on how to identify and measure errors and performance metrics for the Representative Claims Submission Form Upload feature.
+[DataDog Dashboard](https://vagov.ddog-gov.com/dashboard/fij-cry-d3x/arf-ian-donovan-wip-clone?fromUser=false&refresh_mode=sliding&from_ts=1752108044111&to_ts=1752194444111&live=true)
+
+[Dedicated Slack channel for alerts](https://dsva.slack.com/archives/C08Q50V7LD8)
 
 #### Error Logging
 
 - **Datadog Integration:** Ensure Datadog is properly integrated into both vets-api and vets-website. Datadog will capture any runtime errors, performance issues, or exceptions in the application.
-- **Error Alerts:** Set up Datadog alerts to notify the team via email or Slack when critical errors occur or when error rates exceed a predefined threshold (NOTIFICATIONS HAVE NOT BEEN SETUP YET).
+- **Error Alerts:** Set up Datadog alerts to notify the team via email or Slack when critical errors occur or when error rates exceed a predefined threshold.
 - **Error Types and Frequencies:** Regularly review error logs to identify common or recurring issues. Pay special attention to error types, frequencies, and the severity of impacts on users.
 
 #### Performance Metrics
 
 - **Datadog Monitoring:** Utilize Datadog to monitor the application's performance. Track metrics like response times, server load, and API call frequencies.
-- **Thresholds and Anomalies:** Set performance thresholds in Datadog. Receive alerts when metrics fall outside of these thresholds, indicating potential performance issues (NOTIFICATIONS HAVE NO BEEN SETUP YET).
+- **Thresholds and Anomalies:** Set performance thresholds in Datadog. Receive alerts when metrics fall outside of these thresholds, indicating potential performance issues.
 
 #### Feedback Loop
 
@@ -64,8 +67,8 @@ This section outlines the steps to investigate and resolve issues related to the
 
 ### Flipper Features and Rollback
 - Flipper for the API endpoint
-Note: We will be in direct contact with all 13 pilot participants during the pilot phase. Any issues that arise, we will be able assist. 
+- Note: We will be in direct contact with all 13 pilot participants during the pilot phase. Any issues that arise, we will be able assist. 
 
 ## Security
 <!--  descibe any security concerns the responders should be aware, for example: Does your product have PII? Do you log sensitive information that needs to be handled in a particular manner? Does your product have a known security vulnerability that has been accepted by leadership? etc. -->
-Yes, the submission of claims forms require claimant PII and PHI to be collected on the PDF claims forms. These forms are then uploaded to Central Mail. The information entered in the PDF is not encrypted, and cannot be scrubbed. Additionally, we are collecting the minimum amount of claimant metadata necessary to submit forms to Central Mail. Information like first name and last name will be encrypted at rest. 60 days after submission, we will scrub all PII from the database.
+Yes, the claim submissions require claimant PII and PHI to be collected on the PDF claims forms. These forms are then uploaded to Central Mail. The information entered in the PDF is not encrypted, and cannot be scrubbed. Additionally, we are collecting the minimum amount of claimant metadata necessary to submit forms to Central Mail. Information like first name and last name will be encrypted at rest. 60 days after submission, we will scrub all PII from the database.

@@ -28,12 +28,12 @@ The product is an authenticated form within the My Health section of the VA.gov,
 
 The 10-10EZR is used to update information after the 10-10EZ enrollment, so Veterans are most likely familiar with similar questions and content. 
 
-[Link to EZR Household Section v2 product initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZR%20Form/Household%20Section%20V2/Household%20Section%20V2%20Initiative%20Brief.md)
+[Link to EZR Household Section v2 product initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/health-update-form/Household%20Section%20V2/Household%20Section%20V2%20Initiative%20Brief.md)
 
 
 ### [OCTO-DE Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md) 
 
-<details><summary>Which OCTO priorities does this research support? Work with your VA lead and product manager as needed. </summary>
+Which OCTO priorities does this research support? Work with your VA lead and product manager as needed.
 
 
 `Objective 1:  VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.`  
@@ -41,8 +41,6 @@ The 10-10EZR is used to update information after the 10-10EZ enrollment, so Vete
 > - **Key Result 1:** Improve satisfaction with our web and mobile products by 5 points.
 > - **Key Result 2:** We have reduced the total time Veterans spend waiting for a response from our digital experiences by 50%, towards a goal of less than 4 seconds per transaction.
 > - **Key Result 3:** 100% of transactions received via our digital experiences are either processed correctly or we have notified the user of an error.
-
-</details>
 
 
 ### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
@@ -52,6 +50,8 @@ This product fits into the [Veteran journey](https://github.com/department-of-ve
 - `Getting Out`
 - `Starting Up`
 - `Taking Care of Myself`
+- `Reinventing myself`
+- `Putting down roots`
 
 ## Research Goals 🥅	
 `What are you trying to learn from this research?` 

@@ -53,7 +53,5 @@ _Describe the error that was encountered. Stack traces, logs and videos (for e2e
 
 ---
 ## How to configure this issue
-- [ ] **Labeled with Team** (`appointments`)
-- [ ] **Labeled with Practice Area** (`backend`, `frontend`, `design`, `product`)
-- [ ] **Labeled with** `testing`
+- [ ] **Labeled with Practice Area** (`vets-website`, `vets-api`)
 - [ ] **Assigned to** Product for prioritization

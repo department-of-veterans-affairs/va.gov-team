@@ -36,46 +36,6 @@ This is part of a larger initiative to move all Veteran transactions around mana
 
 ## Project Timeline & Activities
 
-### Week of 3/20 Project Kick-Off
-- OCTO & OCC roles & responsbilities 
-- OCC Teams onboarding to VA.gov
-- Develop research plan & conversation guides (Jenny, Coulton) 
-- Review draft of product outline (Kay, Lauren, Tanner, Raquel) 
-- Ensure all teams are in Slack/GH /ZH (lauren/Kay)
-- Set up agile ceremonies / meetings / design collaboration weekly (Raquel/Kay/Coulton) 
-
-### Weeks of 3/27, 4/2, 4/9
-- OCC Teams Onboarding to VA.gov (Raquel, Tanner, Harrison, + + + )
-- Conversations with Eric, Maureen, Margo, identified SMEs (Coulton, Jenny, Kay, Harrison) 
-- Set up weekly agile ceremonies, get meds added to Design review on Wednesdays (Raquel, Tanner, Kay, Bryan Riley)
-- Finalize comparative analysis (Jenny, Coulton, Harrison, Ryan T.) 
-
-### Week of 4/16
-- OCC Teams Onboarding to VA.gov (engineers should be setting up their dev envts) 
-- Finalze synthesis from research (Jenny, Coulton, Harrison) 
-- Develop task flows for refills, renewal, etc.  (Jenny, Harrison, with support from Tanner, Kay, Raquel) 
-
-### Week of 4/23
-- OCC Teams Onboarding to VA.gov (engineers should be setting up their dev envts)  
-- Present synthesis from research to Eric et al, OCTO/OCC Leadership group 
-- Get feedback & iterate on task flows (Jenny, Harrison, Coulton + product, SMEs)
-- Update product outline (Read me file in GH) and definition of MVP functionality requirements - (Kay, Tanner, Raquel, Lauren) 
-- Start on low-fi prototypes
-
-### Week of 4/30 
-- OCTO team may be unavailable 
-- Iteration on low-fi prototypes (Jenny, Harrison) 
-- Iteration on synthesis/submit to research repo 
-- Teams should be fully onboarded to VA.gov and get ready for design intent (Raquel, Kay, Tanner, Lauren) 
-
-### Week of 5/8 
-- Finalize low-fi prototypes
-- Finalize synthesis 
-- Finalize user flows
-- Finalize product outline
-- Finalizee MVP outline
-- Submit for design intent meeting 
-
 ---
 ## Measuring Success-TBD
 
@@ -95,16 +55,13 @@ This is part of a larger initiative to move all Veteran transactions around mana
 
 ### Objectives and Key results (OKRs)
 _What are the measurable targets you're aiming for that delivers value for Veterans?_
-
+Need to update these with the new team.
 - Objective:
   - Key result: 
   - Key result: 
-
-
 ---
 
 ## Assumptions
-- MVP will likely draw medication list from AVS 
 - MVP will include the functionality available today in MHV Pharmacy- View and Refill Medications
 - Renewal of prescriptions requires an integration with the new secure message app.
 - Other “Prescriptions” applications have done research that shows what features most Veterans look for in a Medications space
@@ -127,7 +84,7 @@ Specific solution is dependent on Research and Discovery of the Medications sect
 ### Post MVP 
 - Digital Medication reconciliation 
 - Pre-filling secure messages 
-- Cerner integration 
+- Oracle Health integration 
 
 ### Research & Discovery Phase to be completed by May 2023
 
@@ -144,12 +101,11 @@ Specific solution is dependent on Research and Discovery of the Medications sect
 - [Link to Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
 ## Launch Dates
-- *Target Launch Date*
-  - Phase 0 by October 2023 
 - *Actual Launch Date* 
-  - tbd
-- *What date will you evaluate impact after launch (and when do you expect to have your Impact Review)?*
-  - tbd
+  - Subset of users: December 2023
+  - Launched to all users: June 2024
+  - Redirects and launch to all users: June 2025
+
 
 ---
 
@@ -179,30 +135,28 @@ Specific solution is dependent on Research and Discovery of the Medications sect
 - Product POCs:
   - OCTO Product: Kay Lawyer
 
- 
-
 </details>
 
 #### Team Members  
 
 **OCTO**
-- Product Leads: Kay Lawyer 
-- Design: Kaitlin Fink
-- Research: Robyn Singleton
+- Product Lead: Kay Lawyer 
+- Design/Research: Robyn Singleton
 - Engineering: Adrian Rollett 
 
- **By Light**
-   - Product Leads: Raquel Robertson & Tanner Bird
-   - Design: Harrison Amelang, Lexi Wunder
+ **Contract team**
+   - Product Leads: 
+   - Design: 
    - Engineering Lead: 
 
 **OCC**
    - Product Owner and decision maker: Dr. Eric Spahn, Office of Pharmacy Benefits Management
 
 **Others involved**
-   - Dr. Maureen Layden - Subject Matter Expert, Office of Pharmacy Benefits Management
    - Margo Kabel - Previous human factors lead and very involved in the development of VA Directive 1164, Office of Pharmacy Benefits Management
-   - Ro Weaver - OCC Business Requirements Manager
+   - Mark Sauer
+   - Robert Leonard- Oracle Health Pharmacy SME at a VA facility
+
 
 
 

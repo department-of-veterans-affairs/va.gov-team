@@ -1,5 +1,292 @@
 # Running Design and Research Agenda
 
+## August 11 2025
+Attendees: Renata Keck, Jamie Fiore, Amanda Klausmeier, Alyssa, Li, Andrea Merrel, Mike Mooney, Premal Shah, Rachel Pope, Hieu Vo
+
+### Agenda
+- Review findings from the CHAMPVA onsite
+- Update on the Claims Resubmissons Usability Studies
+- Share out the 1010D/OHI merge usability study findings with our partners
+
+### Notes
+
+**Review now/next/later**
+
+* 1010D/OHI merge: engineers are doing minor content tickets and Andrea will be scheduling Staging Review today. 
+* AI: Andrea to start a thread about getting all forms in production compliant with the current versions of PDF forms
+
+**Share CHAMPVA offsite findings**
+
+* CHAMPVA is getting overwhelmed by OHI submissions and it's adding to the backlog (this should be improved with the merged form MVP, where you select applicants on a plan and upload 1 card per plan) -- there's a separate OHI team and they're really feeling this problem
+    * AI: Make sure when you designate a card applies to multiple applicants that PEGA isn't creating a doc for each applicant on the backend
+	* Shift in ongoing UX strategy: continually keep an eye out for burden on staff (the number of documents and images being sent over through PEGA)
+* Resub flow changes (see below)
+* Make sure we're sharing a version of our research readout with our CHAMPVA stakeholders. Send out a heads up days in advance so attendance can be established ahead of time
+* The CHAMPVA team is incredibly busy, so we need to send out agendas 24 hours or more in advance and be more careful about sending stuff out
+* Appeals backlog is 90% from providers (!!)
+* FMP is no longer sending emails to be scanned. Now they're uploading the email to PEGA. About 80% of things come in by email. Need to decide if there's urgency to still release the digital form
+
+
+**Scheduling 1010D/OHI usability findings share out**
+
+* Next meeting is 19th, is that too soon?
+	* Yes. Normally we present internally before we present to stakeholders, so let's make sure we don't show this to stakeholders first.
+ 	* By next design sync (8/18): draft of written findings report will be complete and ready for review/discussion. Deck will be started. At that point, we can decide if the next CHAMPVA stakeholder call (9/2) would be the right time for presenting findings. 
+
+
+**Update on current CHAMPVA claims research study**
+
+* Overview of overall usability findings, potential content changes: mostly content based, users are overwhelmingly happy with the file verification, but split on how they'd react if they received that error in real life on the form (calling CHAMPVA 800-number immediately vs. stopping the form vs. submitting and calling later)
+* Amanda shares some resubmissions flow changes from the CHAMPVA offsite (needs gut-check from PEGA)
+    * Is anything prefilled? When authenticated, there's no prefill in any IVC forms
+* What IVC UX team needs to rethink/redesign after the current claims study concludes: 
+    * Remove medical/pharmacy claim type question
+    * Remove claim details screen
+    * Upload screen: can just be a single screen for medical/pharmacy
+* BLUF: The business claims they only need the PDI or claim control number. 
+    * IVC UX team: Can we set a way to contact the bene? If yes, let's make sure that's clear in the frontend UX
+* IVC UX team: Double check whether there are PEGA constraints on the flow 
+* Resub flow should accommodate batch claims tied to a single PDI
+    * This might complicate the LLM upload on resubmission flow
+* AI: Amanda will discuss the business decision around sending back all of the initial claim over again in the resubmission flow
+* We can keep the resubmission flow as-is **for now**. Right now, users will need to be prompted by staff to go to the form. We can update the URL on the EOB. Likely won't see a lot of reopens through the online form
+	* Hoping next CHAMPVA Claims call will be a confirmation of a decision around resubmissions/reopens
+	* Andrea AI: Get a gut check from PEGA about the minimum they need to marry initial claim and resub together
+
+## August 4 2025
+Attendees: Renata Keck, Jamie Fiore, Amanda Klausmeier, Andrea Merrel, Mike Mooney
+
+### Agenda
+* Updates to now/next/later
+* Debrief the first CHAMPVA claims pilot
+* Amanda is attending CHAMPVA Denver offices this week and has flexibility to observe any part of the process.
+
+### Notes
+
+* Open Discussion topics
+    * Discussed multiple claims in the Health Status tool. How do we approach having a bunch of claims in the tool? How do users find what they are looking for without needing to sift through so many claims. 
+    * Another claims team did user research in the VA UX sync. 
+    * **AI**:Jamie to find that session. 
+    * Amanda is attending CHAMPVA Denver offices this week and may be able to ask some questions, concerns, thoughts  to uncover
+* Renata updated the Now, Next, Later with new tickets and removed the older tickets
+    * Discussed the  UX Design view tab in Github Projects to better organize tickets. We may clean up design tickets that were on the backlog for a while as well. 
+* Debrief the first CHAMPVA claims pilot: what needs to be updated in the conversation guide and sample docs
+    * 1st Pilot session went overtime so we need to revise the conservation guide
+    * Jamie (ADE) shared insights about AT users viewing the sendback letter. Do we want to emulate the real life letter with AT users? In that case we don’t need to make the screen reader friendly because the paper letter won’t be and most users will require assistance to read it. We can offer that same assistance to screen reader user.  We dedicated if we want to move this along quicker we may not want to add that extra friction of needing to read the letter to participants. 
+    * Do we want to update the sendback to mention [VA.gov](VA.gov) resubmissions? We may want to gather feedback on general content in the sendback. The pilot participant was confused about if the latter was for a rejection or denial. 
+    * AT users may not be CHAMPAV benes or family member of CHAMPVA benes. So they may not have the same background. Need to tell participants may not have access to these benefits
+    * A compacted timeline with this study means we should complete it ahead of time. 
+    * AI: Jamie and Renata to remove some redundant questions that were answered in other studies and add in info about benefit eligibility. 
+* Other Topics
+    * Need to double check if the resubmissions C/IA were done
+    * Duplicate submissions with C/IA.
+    * AI: ask C/IA to let us know when their work is complete
+    * Senior advisors complimented the Service Blueprint and will help to push some improvements based on blueprints findings
+    * Do bene’s need to send back the EOB as a cover letter? The current flow doesn’t ask for that or the sendback letter. The sendback letter asks to send it back. 
+    * Can we collect feedback on the Sendback and suggest changes to CHAMPVA?  The Partners mentioned that it was a 1-2 day process to implement some changes on the sendback content.
+    * AI: Make sure C/IA is on the study sessions too so they are aware of some of the content issues.
+
+## July 28 2025
+Attendees: Renata Keck, Rachel Pope, Jamie Fiore, Amanda Klausmeier, Premal Shah, Mike Mooney
+
+### Agenda
+* UX Roadmap
+* Health Status Tool Updates
+* CHAMVPA Claims PDI/Control number UX updates
+* CHAMPA Claims Resubmissions/LLM usability study updates
+
+### Notes
+* UX Roadmap
+    * CHAMPVA claims resubmissions study is with Shane
+    * Renata is working on the 1010D/OHI merge usability study analysis
+    * Health status tool- will talk about in agenda
+    * Working on UX organizational tasks and file management
+    * A few claims research items in the next column followed by 1010d/OHI merge content updates and content review for the CHAMVPA claim resubmissions and LLM flow
+
+* Health Status Tool
+    * Where is it going to live? The consensus is leaning towards having it available in existing claims status tool We are waiting on thumbs up from Danielle and Mikki
+    * We need to redesign the [figma](https://www.figma.com/design/OpAuMgHwnh6BNkKpW3FyqF/CHAMPVA-in-Status-Tool?node-id=15-1207&p=f&t=NPcRFOVig8MSD59H-0) to show how it will look up in MyVA
+    * We may internally rebrand the current claims status tool to “Claims and Application Status Tool”
+    * Form submissions would live on myVA and eligibility and statuses would live in the claims status tool
+    * We plan to handoff to Alyssa because of the UX team’s capacity in the weeks they are doing the usability testing for the CHAMVPA resubmissions
+    * From an engineering aspect the claims status tool is technically difficult but OCTO the  Engineering Leads will help coordinate with us
+    * This is a high level initiative in VA so Premal is pretty sure everyone will be on board with making sure that this works well and has a great UX. We are not just trying to solve for something to work with the current systems and processes. Adding CHAMPVA is the Priority for this tool.
+    * Keep biased towards action so we can push this continually forward. Don’t focus on  how if we can do something. Instead focus on how we can do something.
+    * IVC’s delivery on the forms is what gave us the trust from OCTO to give this tool priority.
+
+* CHAMPVA claims PDI/control number flow. 
+    * The PDI number can be so variable so the designers attempted to break down the info in smaller chunks for the user
+    * We don’t/can’t validate the code from the backend because the numbers are so variable.
+    * Amanda: We are making a lot of assumptions without giving the user the benefit of the doubt that they can figure it out which is which with just the content. Leaning more towards the content only solution for testing. Afraid the content is still confusing so would want another content review
+    * Premal/Mike: Want to deliver it rather than keep iterating
+    * We decided to get user feedback on the low- effort content with the new additional components content and the 2 paragraphs above that 
+    * **Action Item: **We would like to get C/IA people to come to user testing to observe. 
+    * **Action Item: **We need to remove the word “claim” from “ claim control number” and then send to the engineers
+
+* Claims resubmission/LLM research
+    * No concerns to move forward. The kickoff meeting is tomorrow
+    * **Action Item:** Add Amanda to the Perigean channel for awareness.
+
+
+
+## July 21 2025
+Attendees: Renata Keck, Rachel Pope, Jamie Fiore, Amanda Klausmeier, Premal Shah, Mike Mooney
+
+### Agenda
+* UX Roadmap
+* 1010D and OHI Merged Form research
+* Claims research
+
+Amanda asks about DOB bug ticket and whether the date or marriage before DOB issue is a part of the same ticket
+* Mike will verify whether or not the date of marriage was worked on within this ticket
+    * If not, will create new ticket
+* Important because innovation team is trying to push through fixes for any issues that require human intervention in order to resolve, and this is one of them
+* Mike will make sure date bugs are prioritized
+
+### Roadmap
+* Renata reviews current UX roadmap
+* Premal asks about breadcrumbs thread in Slack - wouldn’t it be the same breadcrumbs as 1010d has now?
+    * The merged form is a separate form and the assumption was that both would be live at the same time for a short period of time 
+    * It’s possible to replace the standalone with this form instead
+        * User won’t know the difference if presented with both
+        * High volume form - make sure it’s solid before replacing it
+
+### Merged Form Research
+* Renata reviews research Mural
+    * May be some fast follows that can be worked on
+    * Nothing prioritized yet
+* Mostly positive feedback on overall usability and the amount of information in the form
+* Found some form-specific bugs and others that are platform-related
+    * Apple HEIC file type not supported
+    * On Safari, autofill doesn’t work - appears to fill info, but errors out as if blank
+        * Issue on both mobile devices and pc
+* Issues with signer/sponsor/applicant terms
+    * C/IA edits may be a partial fix
+    * May also need to adjust flow to move signer to end of form
+    * “Applicant” term is an issue with a lot of folks - maybe changing that would help
+    * Amanda mentions 193 applications (out of 8000) had the veteran listed as an applicant
+        * This may be a larger issue than the date of marriage one
+        * Content fix first, then follow with flow changes if needed
+* Very few folks recognized that it was form within a form
+    * Most understood, or thought they understood, why health insurance info was being requested
+    * Most didn’t mention health insurance info as something they would expect to be asked for when starting the form
+* Users had different expectations about response time
+    * Most users mentioned VA might take time to process
+    * Would use a tracker over a phone call to check status
+        * Flag this information for Amanda to use as evidence for creating a tracker
+
+### Resubmissions Research
+* Research would likely have to begin the week of August 11 to allow time for Shane to review and Perigean to recruit
+    * Premal asks if this will slow down releasing the resubmissions
+        * Try to push date up a little bit if possible
+    * Can go live with resubmissions prior to research and iterate based on research
+
+### Other topics
+* Amanda links to slack thread on HEIC images
+    * Mike already created a ticket for the gem to convert HEIC images (per Adrian’s suggestions)
+    * Adrian added AC to that ticket that say it should be usable by any team - Mike needs to check how that impacts level of effort
+        * Shouldn’t be an issue to fix for this team first, then make it accessible to other teams
+        * Engineers can create design system ticket after they have a fix
+    * Issue is not unique to VA
+    * Premal asks why we have to convert instead of just accepting HEIC format
+        * Fairly common file type now
+        * If we ask users to take a photo of their card and then don’t accept it, usability issue
+        * Mike will ask Michael if he know why we can’t accept HEIC images
+* Amanda and Premal are meeting with the Benefits Status team to discuss their tracker
+    * Probably won’t affect work that’s already been done towards our tracker tool
+    * Can inform future work
+
+## July 14 2025
+Attendees: Renata Keck, Rachel Pope, Amanda Klausmeier, Premal Shah, Mike Mooney, Jamie Fiore, Alyssa Li
+
+### Agenda
+- UX Design Roadmap
+- Share Updates to the [Claims LLM UX](https://www.figma.com/design/Tfhq5h2LwXEeEEtFBAAFOv/CHAMPVA-Claims--10-7959a-?node-id=5412-7489&t=F3mY3HsaiohAoK0R-4)
+- Review low lift updates to [reduce 1010d duplicates](https://www.figma.com/design/UmAtr3ULQEInMXfNFwP0g0/Application-for-CHAMPVA?node-id=7758-98392&p=f&t=JE45XOYt1NyhECh8-0)
+- Review Claims Correspondence Desk Research [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1751577567257/99e597037c5d3823e3f39913ca6b6cf4927b4f99)
+
+### Notes
+
+**UX Roadmap:** Reminder to ping Amanda in the ticket for the claims research plan
+
+**Share updates to the claims LLM mocks**
+  * Rachel left in a message about uploads taking a moment
+  * Reviewed alerts on resubmission flow specifically identifying the document type and warning users to upload other supporting docs if needed
+  * Amanda says it looks fine to go to testing, will iterate after we get user feedback
+
+**Review low lift updates to reduce 1010D duplicates**
+* **Goal:** to alleviate some of the duplicates coming through for the 1010d
+   * **Option 1:** Add a screener question on CHAMPVA application forms status, and if they've already applied, do not let users continue advancing through the form
+        * Premal asks about when you have updates to an existing application (like adding a new dependent). Which form do you submit?
+        * Jamie seems to recall that users have to fill out the 1010D again in those instances. 
+        * Premal asks us to consider that update use case in the screener question
+        	* Important to provide info so users don't have to call
+        * Amanda says maybe we need this question to be broader and just "have you applied to CHAMPVA before?"
+    * **Option 2:** Info alert on intro page
+        * This would take you to a new informational page with "Your CHAMPVA form status"
+         * Where would the gray box with the number of days in the backlog sit?
+         	* Somewhere on the "how to apply for CHAMPVA benefits" page.
+        * Amanda prefers this option, Premal says will defer to UX preference
+        	* Everyone will see the alert info - on a page everyone will have to go through
+       		* Notes that CHAMPVA does not have the support on the backend for something like the 10-10EZR for minor updates
+        	* This is a lower lift for engineering vs. Option 1 (Screener) and a better level of friction. Screener options might confuse people
+         * **AI:** IVS UX team to take to content team to refine the content. C/IA should prioritize. 
+       
+
+**Review Claims Correspondence Desk Research Mural**
+ * Jamie's walk through of the Mural:
+ 	* Most claims info is online - difficult to find a letter for comparison
+  	* Mentions that a claims tracker tool (Chrome browser extension), created by a Veteran, is a tool that a lot of Veterans use 
+  	* These claims letters come through the (lighthouse?) API.
+  * Amanda can provide a sample of a decision letter (not a send back)
+  * Jamie's curious about denial letters and how that's communicated
+  * Premal wanted this, specifically the claims letters and EOBs to compare against what CHAMPVA letters currently provide, that way we can build the business case to show what's needed/missing. We're also considering how to make this actionable in a status tracker/claims tool
+   	* Does not need to be presented to stakeholders at this point
+  * **AI:** pull user feedback from 1010D/OHI usability study (not urgent, can pull that by end of the week/next week) related to claims statuses and tracking, share with Amanda/Premal as part of larger efforts
+
+## July 7 2025
+Attendees: Renata Keck, Rachel Pope, Amanda Klausmeier, Premal Shah, Mike Mooney, Jamie Fiore, Alyssa Li 
+
+### Agenda
+- UX Design Roadmap
+- Reviewing the [desk research](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1751370196043/e92b98a93fe58ee6be6bbef08c40586591ce53aa) on to reduce duplicate submissions on 1010d
+- Discuss updates and current state of CHAMPVA claims work
+
+### Notes
+- UX Design Roadmap
+  - Claims Resubmission: Content updates from C/IA are done, duty to assist is removed from the roadmap for now and research plan and convo guide are in process
+  - On going research with 1010D merge
+  - Health Status tool: Amanda is working on that. She put it on the roadmap for transparency. Amanda may need help from the UX designer depending on their capacity
+  - Working on Q2 Medallia Report
+  - Working UX documentation
+
+- Reviewing the [desk research](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1751370196043/e92b98a93fe58ee6be6bbef08c40586591ce53aa) on to reduce duplicate submissions on 1010d
+  - Review the 1010EZ patterns for informing applicants of their form status as a possible solution.
+  - We don’t have a method to get the statuses from IVC yet which would be the better UX option.
+  - The project is aimed at coming up with solutions, not analyzing how big the issue is; Angela Pinion provided us that info already (over 70% duplicates in April/May coming from the VA.gov and 80% of duplicates are coming from VA.gov in June
+  - Angela (from the OCTO Innovation team) is working on a solution to decrease the backlog with automations and AI. This ties in to this work. Another solution is the health status tool.
+  - Amanda: While the innovation team is trying to reduce the backlog we can do a small low effort content update to reduce the claims. The backlog should reduce naturally after that.
+  - Brian Gunther informed us that #1 reason for calls are status updates because applicant are not hearing about statuses quick enough
+
+- *Action Items:*
+  - Work on a low-effort solution for reducing duplicate submissions similar to how this was handled with screener questions the claims forms
+  - Medallia report notes that users are confused about the CHAMPVA enrollment screener question when they receive an email about completing your application. We may want to look further into that data
+  - Would like to consider a solution for uploading missing documents for enrollment as well
+  - Premal and Amanda can get updated Backlog numbers for 1010D and claims
+  - Amanda and Jamie to sync up on health status work that may overlap
+  - Review Research Report from form statuses form 1010EZ: Link to their research folder
+  - Renata to send the Mural for the 1010EZ form statuses
+
+- Discuss updates and current state of CHAMPVA claims work
+  - Research plan and convo guide will be sent over via slack. This encompasses work LLM as well as resubmissions.Feedback for this will be managed async with the product and UX team
+  - Getting access to AMS Test Track (OCR) is moving forward
+  - We are testing with LLM but we can adjust to OCR for production if Test Track is the better option
+  - UX is going to test messaging about AI tools. The research plan will look into discovering if there are trust issues with AI tools.
+- *Action Items:*
+  - Rachel to ssend the Research plan and convo guide to the group on Slack
+  - Amanda to provide feedback on the research plan and convo guide
+
+
 ## June 23 2025
 Attendees: Renata Keck, Rachel Pope, Amanda Klausmeier, Premal Shah, Mike Mooney
 

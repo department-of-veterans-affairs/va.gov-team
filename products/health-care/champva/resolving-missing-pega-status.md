@@ -1,28 +1,24 @@
-<h1> Resolving Missing Pega Status Issues </h1>
+# Resolving Missing Pega Status Issues
 
-<h2>Understanding the Issue: </h2>
+## Understanding the Issue:
 
 The "Missing Pega Status" dashboard widget indicates that certain forms haven't been processed by the Pega system. This can lead to delays and potential errors in the form processing workflow.
 
-<h2>Resolving the Issue: </h2>
+## Resolving the Issue:
 
-1. Notify a team member from the Pega/DOCMP team if the forms in question are stuck in queue.
-2. Connect to the VA Access Gateway:
-    * Ensure you have the necessary credentials: VA-issued PIV card, User domain ID, and domain password.
-    * Connect to the VA Access Gateway using Citrix VPN.
-3. Access the Vets-API Pod:
-    * Open a web browser and navigate to  https://argocd.vfs.va.gov/applications/vets-api-prod?resource=
-    * Select an open pod, which will have a name beginning with `vets-api-web-`.
-4. Use the Rails Console:
-    * In the pod's command line interface, start the Rails console:
-    ```Bash
-    # Bash session
-    bundle exec rails console
-    ```
+1. Gather information about the submission in question using the `MissingStatusCleanup` utility (see [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/team/on-call-procedures.md) for detailed commands)
+    - Access a Vets-API Pod:
+        * Open a web browser and navigate to [Argo CD](https://argocd.vfs.va.gov/applications/vets-api-prod?resource=) to get access to a running instance of the backend
+        * Select a pod with a name beginning with `vets-api-web-` and start a console session in it
+    - Using the guide [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/team/on-call-procedures.md), search for submissions with missing Pega statuses
+2. Check the [production Pega instance](https://pega.docmp.vaec.va.gov/prweb/PRAuth/app/daper) (you must be on the VA Network) for a submission with the same name/email as the flagged submssion. If no records match, this may be [common scenario 1](#common-scenarios).
+    - Notify the DOCMP team in the appropriate Teams chat on the VA network and provide them the submission details as output by the `MissingStatusCleanup` [utility](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/team/on-call-procedures.md).
+3. If a cause has been determined, documented, and approved by product manager(s), the missing status may be [manually cleared](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/team/on-call-procedures.md#to-clear-a-missing-status)
 
-5. Identify and update submissions using the commmands shown in [this document](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/team/on-call-procedures.md).
+> [!TIP]
+> If the cause is determined to be on the DOCMP side, missing statuses should automatically resolve after Pega has ingested the submission and our [sidekiq job](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/ivc_champva/app/jobs/ivc_champva/missing_form_status_job.rb) re-runs
 
-<h2> Additional Considerations: </h2>
+## Additional Considerations:
 
 * Root Cause Analysis: While manually updating the pega_status resolves the immediate issue, it's important to investigate the underlying cause of the missing statuses. This could involve checking the Pega system's configuration, network connectivity, or data integrity.
 
@@ -32,8 +28,9 @@ The "Missing Pega Status" dashboard widget indicates that certain forms haven't 
 
 By following these steps and addressing the root cause, you can effectively resolve missing Pega status issues and maintain the health of the form processing system.
 
+## Common scenarios
 
-
-
-
-
+| |Scenario|Notes|
+|-|-|-|
+|1 |Missing Pega status reported but all documents show an S3 status of '200' in our database for this submission|When this happens, it can sometimes indicate that the files in S3 were not picked up by Pega's lambda function. This can usually be resolved by having the DOCMP team manually re-trigger the job|
+|2 |Missing Pega status reported but checking the production Pega instance (https://pega.docmp.vaec.va.gov/prweb/PRAuth/app/daper) shows the files were actually imported|Alerts from this scenario will typically self-resolve after our [sidekiq job](https://github.com/department-of-veterans-affairs/vets-api/blob/master/modules/ivc_champva/app/jobs/ivc_champva/missing_form_status_job.rb) that queries the Pega reporting API runs.|

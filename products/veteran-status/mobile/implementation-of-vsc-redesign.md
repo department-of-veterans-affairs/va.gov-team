@@ -35,7 +35,8 @@ O1: VA’s digital experiences are the easiest and most efficient way to access 
 
 * [Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-status/v2-IIR/new-home-and-ux-product-outline.md) to IIR Product Brief   
 * After implementation, this must go through Staging Review in the Collaboration Cycle. Megan will tag Ryan Thurlwell and Jonathan Post on the IIR collaboration cycle ticket to let them know what they need to review. To see additional information about a test plan click [here](https://docs.google.com/document/d/1CN7iTnWgqctLoQVDlXB9BR1Y7PMXSHIwn7BIJWr1stA/edit?usp=sharing).   
-* Here is the [figma link](https://www.figma.com/design/AobGKkBvIiDuYXR2QqkytC/IIR-Veteran-Status?node-id=3230-30325&p=f&t=7TCUWsuvMUi6MCcC-0) for design updates to the Veteran Status Card (mobile and web).   
+* Here is the [figma link](https://www.figma.com/design/AobGKkBvIiDuYXR2QqkytC/IIR-Veteran-Status?node-id=3230-30325&p=f&t=7TCUWsuvMUi6MCcC-0) for design updates to the Veteran Status Card (mobile and web).
+* [Link](https://github.com/department-of-veterans-affairs/va-mobile-feature-support/blob/art.ariel/mermaid/projects/vsc-api-refactor/README.md) to the API Refactor: Veteran Status Card product brief 
 * Changes that the team needs to address with the design updates include:   
   * Profile Button Update to “Veteran Status Card”  
   * Veteran Status Card updates, which include having the card display name, latest period of service, DoD ID number, VA disability rating  

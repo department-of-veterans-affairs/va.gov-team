@@ -64,6 +64,8 @@ Some of the items below may not apply to your work--that's okay.  You may not be
     + Describe new or modified databases, tables or columns
     + Describe indexes and constraints
     + Identify PII and PHI and where and how it will be stored, processed, expired and deleted
+- VA Health and Benefits Mobile application
+    + Does your work include changes in the mobile application?
 - Libraries and dependencies
     + List new or updated dependences
 - Metrics, logging, observability, alerting

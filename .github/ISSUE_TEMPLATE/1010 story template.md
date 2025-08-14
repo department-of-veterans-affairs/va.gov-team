@@ -2,7 +2,7 @@
 name: 1010 Story Template
 about: For the 10-10 Health Enrollment team
 title: "[discipline] formID - initiative: story title"
-labels: 1010-team
+labels: 1010-team, needs refinement
 assignees: ''
 
 ---
