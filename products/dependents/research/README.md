@@ -2,9 +2,9 @@
 
 ### Research Plan
 
-| Date Range | Sprint | Stream | LOE for research | Megan LOE | Notes |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| **Aug 4** | Sprint 10<br>Week 1 | Content | | Close study + inital analysis | | | | Medium | 4 | |
+| Date Range | Sprint | Stream | Work | LOE for research | Megan LOE | Notes |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Aug 4** | Sprint 10<br>Week 1 | Content | Close study + inital analysis |  | | | | Medium | 4 | |
 | | | Picklist | Conversation Guide + content | | | | | Low | | |
 | | | Continuous | Get feedback from Ben | | | | | Low | | |
 | **Aug 11** | Sprint 10<br>Week 2 | Content | | Complete initial analysis | | | | Medium | 4 | |
