@@ -39,7 +39,7 @@ You will need to fill out a VA9957 form to gain access to the CHYSHR VistA. For 
        1. Go to Outlook -> Address Book -> Search for your name -> Select your name -> Use the Alias noted as your AD Username
 2. Sign and get your VA/OCTO team member to sign and approve (For the travel pay team you can ask Kay Lawyer or Mark Dewey)
 3. Submit the signed document at https://dvagov.sharepoint.com/sites/OITEPMOETS/SitePages/SupportRequests.aspx?csf=1&web=1&e=cURoZY&CID=29acea24-f7c1-413f-8091-8579cb0c34c7 by creating an Enterprise Support Request.
-   > Please note that you will have to create 2 of these requests! One for Database `CHY983` and one for Database `DAYTSHR/984`.
+   > Please note that you will have to create 2 of these requests! One for Database `CHY983` and one for Database `DAYTSHR`.
     1. This requires you to be on the network to access.
     2. Tips for Filling out the Enterprise Support Request 
        1. Request Type: Test Center Request - Select `"VistA Database User Access Request"`
@@ -54,7 +54,7 @@ You will need to fill out a VA9957 form to gain access to the CHYSHR VistA. For 
      9. Project ID - leave blank
      10. Project Name - Enter `"Travel Pay on VA.gov"`
      11. VA Sponsor Organization - Select `"OIT"`
-     12. Database Name - Enter `"CHY983"`
+     12. Database Name - Enter `"CHY983"` OR Enter `"DAYTSHR"`
      13. User Name - Enter your AD Username
      14. User Account Operation - Select `"Modify"`
      15. Access Type - Check off `"VistA Database"`
