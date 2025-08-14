@@ -1,56 +1,42 @@
 # Initiative Brief Template
 #### Overview
-
-<details>
- 
- *There is roughly a 1:many relationship between products and initiatives, or our attempts to improve a product/achieve Veteran outcomes. The same goes for product outlines and initiative briefs. This template can be used as product documentation for the Collaboration Cycle, especially when iterating an existing product. In addition, the Brief is an important communication tool within a team and between the team and Crew Chief/PO/other teams.* 
- 
-</details>
-
-<details>
- <Summary>Examples:</Summary>
- 
- - *Product: On-site Search* 
-   - *Initiatives: Type-ahead, [Search Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/search-landing/initiative-brief.md), [Surfacing Other Search Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/surfacing%20other%20search%20tools/initiative-%20brief.md)*
- - *Product: VA.gov Profile*
-   - *Initiatives: Combine Account & Profile, Direct Deposit for Disability, Candidate Address Validation, Direct Deposit for Education, Notification Preferences*
- - *Product: Disability Claims*
-   - *Initiatives: Original Claims, Benefits Delivery at Discharge (BDD)*
- 
- </details>
+- Product: MHV Medical Records
+- Feature: Add PDF and TXT to Continuity of Care Document (CCD)
  
  > 💡 Helpful guidance/tips
  
 ---
 
 ## Outcome Summary
-> *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-* .
+Veterans will be able to download a PDF or a TXT file of their Continuity of Care Document
 
 **Related/Associated product(s)**
-- Product | Link to product outline 
+- Product | [Link to product outline ](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/digital-health-modernization/mhv-to-va.gov/medical-records/README.md)
 
 ## Problem
 > *Describe the challenge / pain point you seek to address.:* 
-* What is the problem and who is affected? And, what evidence do we have of the problem?
-* Why do you think the problem is occurring? Other reasons why this might be occurring?
+* The ability to download TXT and PDF of the Continuity of Care Document was deprecated when Medical Records was rebuilt on VA.gov.  This was done intentionally, as a way to help Veterans distinguish between CCD and Blue Button reports.  We had heard in interviews with Veterans that many of them did not understand the difference, so we made a distinction that CCD was an XML file for health providers to upload into their own health systems, and Blue Button was a human-readable record that the Veteran could save or print.   We recently learned that there are some elements of the patient health record in CCD that are NOT included in the Blue Button report, and some Veterans have contacted support folks in the field to ask how to access that information
+* We've received reports from My HealtheVet coordinators that Veterans are looking for this information.  We've also had some comments in surveys about it.
 * How does this initiative help further OCTO-DE's mission and goals?
+   - It makes it easier for Veterans to use their benefits.
 
-<!--
+
 ## Desired User Outcomes
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+- *Why would a user want to use this?*  They would use this to get access to the health data that is not part of the Blue Button report, nor available on VA.gov
+- *With this problem solved, what should users be able to do/achieve that they couldn't before?*  Download an accessible, human-readable TXT or PDF of their Continuity of Care Document.
 
 ## Undesired User Outcomes
 ## Desired Business Outcomes
 
 - *Why would your business want this to exist?*
+- Because it ensures that we comply with legistation that we must make users' health data available.
 - *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
+- They won't have to field as many support calls and emails related to this data
+- They won't have to provide this data as often in response to a Release of Information request
 
 ## Undesired Business Outcomes
--->
+- None known at this time
 
----
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
@@ -58,7 +44,8 @@
 > 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
 - Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
-
+   - Baseline TBD
+   - We will see users start to download TXT and PDF files of their Continuity of Care document instead of/in addition to XML
 ---
 
 ## Discovery
@@ -67,32 +54,32 @@
 > Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
 - **Value Risks** (will people use it): 
-  - .
+  - Not a known risk; this was available before, and Veterans have requested it.
+    
 - **Usability Risks** (can people figure out how to use it):
-  - .
+  - Not a known risk; we will follow an established pattern for print and download options that Veterans have successfully been using on MHV on VA.gov for over two years.
+    
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - Examples:
-    - Upstream/Downstream API/Data availability and reliability
-    - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
+  - The CCD format may present challenges for generating an accessible PDF
+  - The CCD format may present challenges generating a PDF that can be formatted in a user-friendly, intuitive fashion
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
   - Examples: 
-    - VA stakeholder testing, marketing, compliance requirements 
+    - These changes will need to be communicated to field support staff
 
 ### Supporting research
 
-- *Is this work supported by user research?* 
-  - *If this work **is supported by user research**, please cite the user research by providing links to our [VA.gov research repo](https://github.com/department-of-veterans-affairs/va.gov-research-repository)*
   - *If this work is **not supported by existing user research**, will this work include user research?*
-    - *If this work **will include user research**, please briefly state what you hope to learn from that research.*
+      - This work will not include user research
     - *If this work **does not cite nor include user research**, please state why and be prepared to defend your decision.*
+       - We are following a well-established pattern used for other domains in the Medical Records application, and we are restoring a feature that was available on My HealtheVet Classic, which has been explicitly requested by Veterans.
 
 ### What're you building?
 
 > *What's in scope for you to build with this initiative? Describe key features/flows.*
- 
+  -  We are adding the ability to generate a TXT or PDF file of the Continuity of Care Document
 > *What have you explicitly decided to **not** include and why?*
-
+  - Anything apart from generating TXT or PDF and providing a 
 > *Are you building for the VA Health and Benefits mobile application? Explain why or why not.*
 
 > *How does this solution address your Assumptions & Risks?*
