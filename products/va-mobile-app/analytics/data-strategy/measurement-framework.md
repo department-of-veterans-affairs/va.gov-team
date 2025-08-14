@@ -51,7 +51,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 | **What should we measure?** | Successful login, the first time<br> *"I was easily able to login the first time."* |
 | **Helpful metrics**| - Login success rate<br> - Time to login<br> - Recovery rate<br>- Most common logout reasons (e.g. due to connectivity issues, app updates)<br>- Most common login failure reasons<br>- Active users<br>- New users<br>- Logins started event count<br>- Logins completed event count<br>- Login completed webview steps event count<br>- Logins canceled login event count<br>- Authenticated users<br>- Higher frequency reporting intervals than monthly (e.g. real-time data for login success or time to login)<br>- Qualitative trends in login issues from Feedback Hub channels<br>- Future: Login survey |
 | **How these metrics can inform decision making** | Understand login points of friction and identify opportunities to make it easier for users to use the app |
-| **Unhelpful metrics** | - Measuring login success on a monthly basis. Consider higher frequency reporting intervals than monthly (e.g. weekly for login success or time to login) |
+| **Important metrics to track** | - Measuring login success on a monthly basis. Consider higher frequency reporting intervals than monthly (e.g. weekly for login success or time to login) |
 </details>
 <details>
 <summary><h3>Disability rating</h3></summary> 
@@ -60,7 +60,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |--------------------|-------------|
 | **User goal**      | *"I want to understand my disability rating."* |
 | **What should we measure?** | Easy to understand disability rating <br> *“I understood my disability rating."* |
-| **Helpful metrics**| -TBD<br>-TBD<br>-TBD<br> |
+| **Important metrics to track**| -TBD<br>-TBD<br>-TBD<br> |
 | **How these metrics can inform decision making** | TBD |
 | **Unhelpful metrics** | -TBD<br>-TBD<br>-TBD<br> |
 
