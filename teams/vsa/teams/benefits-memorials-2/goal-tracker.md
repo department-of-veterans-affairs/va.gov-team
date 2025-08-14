@@ -97,7 +97,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
  - [X] VA COR approved the Sprint Goals (07/31/25)
  
 **_Delivery + Notes:_**
-- [ ] All goals have been updated in the sprint chart
+- [X] All goals have been updated in the sprint chart
 - [X] Any Additional details about goals **not** completed will be documented here
 - ENG: Complete 8 points of remaining Digital Dispute work addressing the 4 remaining staging review feedback tickets.
   - 3 of the 4 tickets were completed, however the 4th ticket [DD Contact Information Layout - Consolidated #109263 #113026](https://github.com/department-of-veterans-affairs/va.gov-team/issues/115664) was a consolidation of 2 items and unfortunatelly rolled into the next sprint.
