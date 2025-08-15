@@ -1,3 +1,6 @@
+> [!WARNING]
+> Due to a recent change in the [teams/](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams) directory, you may encounter intermittent broken links. As we work on updating our broken links, please contact the ADE Team in the [#accessibility-help channel](https://dsva.slack.com/archives/C8E985R32) or by tagging `@accessibility-de` in your Slack channel, if you are unable to locate or access a linked ADE GitHub item. We can assist during this transition.
+
 # Accessibility Digital Experience (ADE) Team (pronounced /ād/)
 
 _Accessibility Digital Experience aka Accessibility DE or for short, ADE (pronounced /ād/), is OCTO's new accessibility team under SPRUCE._ [Read more about us, in our Feb. 6, 2025 announcement.](https://dsva.slack.com/canvas/C8E985R32?focus_section_id=temp:C:SDL8f9032f0740c4defaa0616679)
