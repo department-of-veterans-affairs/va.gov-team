@@ -249,32 +249,70 @@ Crucially, the confusion about required information and supporting documents on 
 
 ## Recommendations
 
-**1.** **Inform the users about the CHAMPVA program:** Include more information on the form introduction page about who qualifies for the program and what it is used for. Adding the form names to the headers can also increase awareness and understanding of what is the purpose of VA form 1010d and the 10-7959c.
-- _Supporting evidence: 6 of 18 users specifically requested tweaks to the overall content of the form to make submitting the CHAMPVA application easier._
+* Inform the users about the CHAMPVA program: Include more information on the form introduction page about who qualifies for the program and what it is used for. Adding the form names to the headers can also increase awareness and understanding of what is the purpose of VA form 1010d and the 10-7959c.
 
-**2.** **Help users feel more prepared to complete the form:** Add more details about the types of supporting documents needed before entering the form. Include explicit information about submitting school certification and those requirements. Acknowledge the need to submit Medicare cards and/or health insurance cards at the beginning of the form and during the Medicare and health insurance questions. 
-   - _Supporting evidence: On the Introduction page, users struggled to fully understand the breadth of information and supporting documents required to complete the CHAMPVA application._
-   - _Of the 5 participants who saw the School Enrollment portion of the Applicant loop, 4 said they would have to stop the form to call their dependents' school to request an enrollment letter._
-   - _12 of 18 participants did not recall if health insurance information was mentioned on the Introduction page, when they reached the Other Health Insurance subsection of the application._
-     
-**3.** **Reduce confusion of each role type involved in the form:** Update the form content to clarify in plain language who the signer, sponsor and applicant is. Users were more likely to understand the term “Veteran” rather than “sponsor”.  
-   - _Supporting evidence: 11 of 18 participants hesitated on the Signer section, not understanding the question asking them to self-identify as a dependent, Veteran, or third-party representative._
+    _Supporting evidence:_
 
-**4.** **Relieve unnecessary burden and confusion for each role:** Ask for contact info for each one of the roles (signer, sponsor and applicant(s)) involved in the form. Update signer form flow to reduce repetitive and possibly confusing form entries. We believe moving the signer questions to the end of the form may decrease the amount of similar form fields such as address and phone number needed.
-   - _Supporting evidence: 11 of 18 participants had issues completing the Sponsor section, either confused by the form asking them to provide their information twice in a row (Veterans), or not understanding what a Sponsor meant in relation to applicants (Dependents). Even participants who understood that a Sponsor was a Veteran were confused by the Signer/Sponsor/Applicant sections being close together, making the form appear to ask for the same information two or even three times._
-   - _6 of 18 participants continued to struggle with the Applicant section, unclear who an Applicant was in relation to CHAMPVA benefits._
+    * 6 of 18 users specifically requested tweaks to the overall content of the form to make submitting the CHAMPVA application easier.
 
-**5.** **Reduce confusion surrounding the other health insurance section and better prepare users to provide this information:** Consider adding more context on why they are being asked about Medicare and other health insurance, which person  in the form this pertains to (applicants, not the sponsor) and how CHAMPVA works with government owned and private health insurances. It is recommended to mention Medicare Part D earlier on the in Medicare flow to better prepare applicants to have that information ready as well and alleviate uncertainty on if it is needed. 
+* Help users feel more prepared to complete the form: Add more details about the types of supporting documents needed before entering the form. Include explicit information about submitting school certification and those requirements. Acknowledge the need to submit Medicare cards and/or health insurance cards at the beginning of the form and during the Medicare and health insurance questions. 
 
-Consider using similar user flows for both Medicare and Other Health Insurances, specifically where the form asks which applicant is enrolled in which plan(s).
+    _Supporting evidence:_
 
-We recommend adding more context about health insurance, such as the termination date and the plan type, to encourage users to enter as much accurate information as possible to ensure timely processing of their application. 
-   - _Supporting evidence: **[INSERT MISSING EVIDENCE]**
+    * On the Introduction page, users struggled to fully understand the breadth of information and supporting documents required to complete the CHAMPVA application.
+    * Of the 5 participants who saw the School Enrollment portion of the Applicant loop, 4 said they would have to stop the form to call their dependents' school to request an enrollment letter.
+    * 12 of 18 participants did not recall if health insurance information was mentioned on the Introduction page, when they reached the Other Health Insurance subsection of the application.
 
-**6.** **Ease the burden involved with obtaining a school certification letter:** Many other VA benefits (Education benefits) require proof of school enrollment, but from the perspective of this study's participants, it seems that these requirements don’t align CHAMPVA’s school certification requirements and may be more difficult to obtain. To help with user burden and prevent users from having to stop the form until they receive the school certification, we recommend using similar requirements and documentation as the Education benefits program does.
-   - _Supporting evidence: 4 out of 11 participants mentioned that they would either have to pause the form to obtain the school certification._
-   - _3 of 11 participants stated that it would cause significant friction and delay with completing the CHAMPVA application because the school certification is not something they can obtain easily and quickly._
-   - _1 participant mentioned having to submit several school certification letters for the same university in order to maintain her dependent CHAMPVA status in between semesters._
+* Reduce confusion of each role type involved in the form: Update the form content to clarify in plain language who the signer, sponsor and applicant is. Users were more likely to understand the term “Veteran” rather than “sponsor”.
+
+    _Supporting evidence:_
+
+    * 11 of 18 participants hesitated on the **Signer section**, not understanding the question asking them to self-identify as a dependent, Veteran, or third-party representative.
+        * 2 participants said they use their spouse’s [VA.gov](http://VA.gov) account and would default to selecting “Veteran,” but then proceeded to get confused by the information required in the Sponsor section.
+        * Another participant said they wanted more context on the Signer designation, such as the ability to select who you were applying for, rather than self-identifying as a Signer-type.
+    * 11 of 18 participants had issues completing the Sponsor section, either confused by the form asking them to provide their information twice in a row (Veterans), or not understanding what a Sponsor meant in relation to applicants (Dependents). Even participants who understood that a Sponsor was a Veteran were confused by the Signer/Sponsor/Applicant sections being close together, making the form appear to ask for the same information two or even three times. 
+        * All 11 participants who struggled with the Sponsor section completed it as thought it was for a dependent/applicant, not the Veteran.
+        * This was the case even for Veterans (8 of 11) in our study, for whom the Sponsor section was prefilled based on answers in the Signer section.
+    * 6 of 18 participants continued to struggle with the Applicant section, unclear who an Applicant was in relation to CHAMPVA benefits. 
+* Remove unnecessary burden and confusion and ask for contact info for each one of the roles (signer, sponsor and applicant(s)) involved in the form. Consider updating signer form flow to reduce repetitive and possibly confusing form entries. Moving the signer questions to the end of the form may decrease the amount of similar form fields such as address and phone number needed.
+
+
+    _Supporting evidence:_
+
+    * 11 of 18 participants had issues completing the Sponsor section, either confused by the form asking them to provide their information twice in a row (Veterans), or not understanding what a Sponsor meant in relation to applicants (Dependents). Even participants who understood that a Sponsor was a Veteran were confused by the Signer/Sponsor/Applicant sections being close together, making the form appear to ask for the same information two or even three times.
+
+* Remove the need for users to submit the same information from their health insurance and Medicare cards in multiple ways making it less tedious to complete the application. Consider employing strategies such as omitting these questions and relying on the data on the insurance card upload, omitting the card uploads to relying on the information types into the form fields, using a database or AI to prefill this information.
+
+    _Supporting evidence:_
+
+    * 4 of 11 participants reported that the form felt "tedious,"
+    * 3 of 11 participants  users expected to be able to either have the Medicare fields pre-filled in some way either from Medicare itself or from the uploaded card image
+    * 2 of 11 participants wanted a way to enter the effective date only once for both of their Medicare Parts A and B
+* To better prepare applicants to have Part D information ready and alleviate uncertainty on if it is needed it is recommended to mention Medicare Part D earlier on the in Medicare flow. 
+
+    _Supporting evidence:_
+
+    * 3 of 11 participants were unsure how to add their Medicare Part D information \
+
+* To avoid confusion on how applicants are added to Medicare and health insurance plans consider using similar user flows for both of these sections.
+
+    _Supporting evidence:_
+
+    * 9 participants were unsure how to **[add applicants]** to a Medicare (7 of 9) or other health insurance (2 of 9) plan.  \
+
+* It is recommended to add more context about health insurance details such as the termination date and the plan type to encourage applicants to enter the correct information.
+
+    _Supporting evidence:_
+
+    * 6 of 11 participants Users were unsure of the more specific details regarding their health insurance plans such as the termination date and the plan type. 
+
+* Ease the burden involved with obtaining a school certification letter: Many other VA benefits (Education benefits) require proof of school enrollment but from the perspective of the participant it seems that these requirements don’t align CHAMPVA’s school certification requirements and may be more difficult to obtain. It is recommended to conduct more research with the CHAMPVA partners to gain a better understanding of their school certification process. To help with user burden and prevent users from having to stop the form until they receive the school certification, ask for similar requirements and documentation as the Education benefits program does.
+
+    _Supporting evidence:_
+
+    * 4 out of 11 participants mentioned that they would either have to pause the form to obtain the school certification.
+    * 3 of 11 participants stated that it would cause significant friction and delay with completing the CHAMPVA application because the school certification is not something they can obtain easily and quickly. 
+    * 1 participant mentioned having to submit several school certification letters for the same university in order to maintain her dependent CHAMPVA status in between semesters.
      
 ### A11y Recommendations
 
