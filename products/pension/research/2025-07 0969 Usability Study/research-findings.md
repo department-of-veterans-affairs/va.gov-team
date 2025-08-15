@@ -273,67 +273,82 @@ Users appreciated transparency regarding how long it might take to be contacted 
 ---
 
 ## **Additional Insights**
-*Include insights that do not represent patterns but are still valuable.*  
-> **TIP:** These could be powerful user comments or unexpected issues worth noting
 
+**5 of 7 users shared that seeking live assistance from a VA or adjacent representative was critical to their success when filling out financial (and other required) forms to apply for benefits.**
+
+As we consider further use cases and improvements to the 0969 and other relevant forms, this study validated that many Veterans may be completing their applications with assistance from others. 
+
+- _“Sometimes you don’t know how to fill [the forms] out. When someone was helping me I realized this is what they want and that helped… When you do that a couple times then you know what you need to do.” (P1)_
+- _“I’m working with the VA on some financial matters right now. I broke the code on some of the run around. I just didn’t understand the processes… One of the ladies submitted for me so I have no idea what was involved at that time.” (P3)_
+- _“I sat down with the disability rep and it was a full session talking through things...” (P7)_
+- _“I went through a VSO when I filed for disability. I’m human and I make mistakes. Sometimes I don’t take things as coherently as other people do.” (P8)_
+
+**Those previously denied benefits, or who experienced negative interactions or outcomes with the VA, expressed more anxiety and concern for “getting the information right” and understanding what to expect when compared to those who had positive experiences.**
+
+3 out of 7 users expressed concern or anxiety as they completed the form, based on prior experience being denied for benefits or having difficulty navigating complex systems like the VA. This underscores the importance of taking a trauma-informed approach to forms and experiences, to help support Veteran claims and build trust. 
+
+- _“Forms scare me. I guess they scare a lot of people. I look at them and I think what does that mean? It’s not clear what the VA actually needs when you start. It needs to be dumbed down to the lowest level so everyone understands it.” (P1)_
+- _“Usually they tell you this is qualified and this isn’t. You don’t want to have to guess… that’s my concern. If it tells you, you don’t have to waste your time going through if you are eligible or not.” (P4)_
+
+**7 of 7 users initially applied their own dollar amount thresholds, or asked for clearer guidance, when determining if they should report items like cash or smaller income amounts from dependents.**
+
+All users attempted to apply a specific dollar amount threshold when determining “what was worth” reporting. Identifying if specific financial thresholds exist and adjusting the content to reflect this may be beneficial in further clarifying expectations and reducing burden on the claimant to interpret what is being asked for; as well as the amount of information requested. 
+
+- _“Is there a chart where you can go figure out if your interest is worth reporting? If it’s 0.1[%] is it even worth it? There should be a guideline. It doesn’t really move the needle on my income.” (P1)_
+- _“Nobody has enough [cash to qualify] so I probably wouldn’t report it. Nobody is worried about that.” (P8)_
+- _“My daughter doesn’t make enough money to put that into household. I’m not sure what a college student could contribute.” (P3)_
 
 ## Recommendations
 
-*Summarize actionable recommendations based on findings.*  
+1. **Clarify language at list and loop start so users understand they will need to submit each income type and recipient separately.**
 
-1. **Recommendation:** [Insert action]  
-   - _Supporting evidence: [Insert data]_  
-2. **Recommendation:** [Insert action]  
-   - _Supporting evidence: [Insert data]_
+2. **Adjust the definition of dependents to include emphasis on level of financial support provided to reduce confusion and help users determine what best applies in their situation.**
+
+3. **Continue to provide a reminder of the definition of “dependent” on the pages where it is most relevant to reduce the amount of recall required and potential mental load.**
+
+4. **Remove reference to supporting documents (or “evidence”) from the Introduction page to reduce anxiety and confusion for users.**
+
+5. **Determine if it is necessary to reference previous steps within the form; and if so, provide written descriptions of what information was gathered in the previous step rather than just the number.**
+
+6. **Set the accordion on the Review and Submit page to expand by default based on user inputs to better facilitate required action.**
+
+7. **Provide more transparency about what to expect regarding application processing times and assist in providing a thruline back to Pension or DIC applications (as 0969 is often triggered by another application being completed.**
+
 
 ## Product User and Business Outcomes
 
-*Explain how findings and recommendations align with the product's goals.*
-
-> [!NOTE] 
-> Refer back to your Product Outline. 
-
-- **Desired User Outcome**
-  - This research supports our desired user outcome by....
+- **Ease the burden of Veterans applying for pension benefits to complete the 21P-0969.**
+  - This research supports our desired user outcome by identifying areas of success and improvement that supports a positive experience for Veterans reporting complex financial information.
  
-- **Deisred Business Outcome**
-  - This research supports our desired business outcome by....
+- **Enable Veterans to provide income, asset and net worth information in a clear, streamlined online experience.**
+  - This research supports our desired business outcome by assessing Veteran comprehension of form instructions and ability to complete necessary actions to submit in a logical way.
 
-
-## Key Performance Indicators
-
-*Explain how findings will support KPI measurement.*  
-
-> [!NOTE]
-> Refer back to your Product Outline. 
-
-- **KPI 1**
-  -  This research supports measurement of this KPI by....
-
+- **Deliver incremental value to Veterans in a timely fashion.**
+  -  This research supports our desired business outcome by identifying the most high impact enhancements within existing constraints associated with 0969 improvement fast follow to MVP release. 
 
 ## Next Steps
 
-*Outline immediate actions based on findings, including owners if applicable.*  
+We have met with OCTO Enablement Team partners to align on design enhancements to be included in MVP fast follow effort based on these findings. These will be released in line with the timing laid out on the Pension team roadmap.  
 
 
 ## Further research needed
 
-*Identify gaps in the current study and areas requiring additional investigation––such as demographics that were not included in this study.* 
+Study results were strong in validating the general usability of the 0969 form and establishing several high impact low lift improvements to pursue. But there are some additional research opportunities to consider, especially if it’s planned as one element of a larger study. 
+
+The team used scenario based testing of the 0969 form as a standalone experience following an ideal path. In order to test the true mental load that might be associated with the form, it may be necessary to test it as part of the full form flow with parent applications such as the Veteran’s Pension (527) and DIC (534) forms. We also may wish to introduce more complex paths that include less than ideal conditions. Based on the findings, additional research exploring Veteran mental models when applying for benefits as it related to financial reporting may also be beneficial in future. Lastly, we did not include caregivers or survivors as part of our participant base. These account for a different use case that is important to consider but was out of scope for this study.   
 
 
 ## Appendix
-[Product Outline](link here)
 
-[Research plan](link here)
-
-[Conversation guide](link here)
-
-[Interview transcripts](link here)
+[Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pension/21P-0969-product-outline.md)
+[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pension/research/2025%2004%20Pension%20Exploratory%20Research/research-plan.md)
+[Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pension/research/2025%2004%20Pension%20Exploratory%20Research/conversation-guide.md)
+[Interview transcripts]([link here](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared%20Documents/0%20-%20Benefits%20Portfolio%20-%20General/Research%20Recordings%20-%20Veteran-Staff-VSO/2025-07%200969%20Usability%20Study%20to%20Digitize%20Form?csf=1&web=1&e=fPL3k6))
 
 
 ## Tools used for Synthesis
 
-*List tools or techniques used, e.g., Mural, affinity mapping.*  
+Mural and Affinity Mapping  
   
 ## Pages and applications used
 
