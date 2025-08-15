@@ -316,9 +316,22 @@ Crucially, the confusion about required information and supporting documents on 
      
 ### A11y Recommendations
 
-**1. Reduce redundant name, address and contact information questions to remove friction with screen readers:** Having redundant questions can add confusion to a person only listening to the headers on the page. The assumption is that the user needs to fill out the same information multiple times in the form. This would also help sighted users who had confusion about these sections of the form as well. 
+* Reduce redundant name, address and contact questions to remove friction with screen readers. Having redundant questions can add confusion to a person only listening to the headers on the page because the assumption is that they need to fill out the same info again. 
 
-**2. Reduce keyboard and screen reader users from losing their place when interacting with an object:** It was noted in AT user test sessions that when a screen reader user selects one of the radio buttons on the initial signer question that it moves focus to another area on the screen causing the user to lose their place. It is recommended to perform an audit with a screen reader to check for these problems and fix them within the frontend code.
+    *_Supporting evidence:_*
+    * Our pilot assistive technology user preferred to navigate by headers and did so for the majority of the form. This participant wanted to skip the second address page because she missed that the page was pre-filled.
+
+    * One of our assistive technology participants (P20) stated that even though it’s nice to have the name, address and contact fields pre-filled but it requires too much mental energy to listen to the screen reader (Talkback) announce these fields. They would rather not see those pages at all. The participant goes on to mention that if we must show the redundant pre-filled pages it would be helpful to announce that users are to confirm that the information in these fields are correct.
+      
+* Reduce keyboard and screen reader users from losing their place when interacting with an object: It was noted that when a screen reader user selects one of the radio buttons on the initial signer question that it moves focus to another area on the screen causing the user to lose their place. It is recommended to perform an audit with a screen reader to check for these problems and fix them within the frontend code.
+
+    *_Supporting evidence:_*
+    * One of our assistive technology participants (P20) notes that after they select a radio button option at the bottom of the page the focus automatically jumps to the top making him lose his place when zoomed in. They noted that this would also confuse screen readers because it would read the top of the page again instead of moving to the next action meant to be taken on the page.
+
+* Add focus to the header rather than the progress bar when entering a page. This form only includes 5 steps with multiple questions/pages under the same step. When entering a new page and the focus is on the progress bar, screen readers will read that first which gives the impression that the user is on the same page as the previous question and their progress has not changed.  
+
+    *_Supporting evidence:_*
+  * One of our assistive technology participants (P20) seemed confused by the progress bar remaining the same as they answered several questions. They expected to see more of a change as they progressed through the form.
 
 
 ## Product User and Business Outcomes
