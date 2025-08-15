@@ -105,7 +105,7 @@ synthesis_tools_used:
 
 **Contacts:** Chavie Cramer, Skyler Schain
 
-[Link to Research Readout](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Pension/0969%20Form/Research%20Plan%20for%20Digitizing%2021P-0969%20(Income%20%26%20Assets%20Statement).docx?d=wf827c07b7906403d8cf954170d0426ad&csf=1&web=1&e=fhpc0x)]
+[Link to Research Readout](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Pension/0969%20Form/Research%20Plan%20for%20Digitizing%2021P-0969%20(Income%20%26%20Assets%20Statement).docx?d=wf827c07b7906403d8cf954170d0426ad&csf=1&web=1&e=fhpc0x)
 
 **Jump to:**
 
