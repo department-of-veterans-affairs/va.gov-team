@@ -2,6 +2,14 @@
 <!-- markdownlint-disable MD024 -->
 # Release Plan - BDS Gateway
 
+## Table of Contents
+
+- [Step 1: Development](#step-1-development)
+- [Step 2: Validation](#step-2-validation)
+- [Step 3: Production rollout](#step-3-production-rollout)
+- [Post Launch metrics](#post-launch-metrics)
+- [Post-launch Questions](#post-launch-questions)
+
 ## Step 1: Development
 
 | Toggle name | Description |
