@@ -1,7 +1,11 @@
-## Incident Investigation Traceability 08/15/2025
+# Incident Investigation Traceability 08/15/2025
 
 ## Summary of the incident
-_Leave blank until incident is resolved, then summarize the issue and its resolution as a BLUF_
+On 8/14 @ 5:25pm ET, a platform team member noticed an increase in the number of errors for Travel Pay SMOC on mobile. Investigation began that evening and was picked back up on 8/15 @ 9:00am ET. After some investigation we discovered the root cause of the issue to be stale/outdated/incorrect Veteran status (is this user a Veteran or not?) in the BTSSS CRM. The timing of the increase in errors (to ~9%) coincided with the latest deploy of the mobile app. This problem was apparently ongoing but only was noticed when the amount of users increased.
+
+## Relevant Slack Threads
+- https://dsva.slack.com/archives/C05UTPZRZFY/p1755206730237449
+- https://dsva.slack.com/archives/C05UTPZRZFY/p1755263237873709
 
 ## Action Items
 - Make a datadog monitor specifically for catching issue like this in mobile.
