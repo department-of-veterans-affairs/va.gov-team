@@ -79,7 +79,7 @@ To effectively manage dependents on VA benefits, claimants and beneficiaries req
 **Financial impact**
 -   How dependent changes affect payment amounts
 -   Effective dates for benefit adjustments
--   Potential overpayments or underpayments and resolution processes
+-   Getting paid the correct amount" potential overpayments and resolution processes
 
 **Support and resolution**
 
