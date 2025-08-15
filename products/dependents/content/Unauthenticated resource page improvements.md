@@ -65,38 +65,27 @@ To effectively manage dependents on VA benefits, claimants and beneficiaries req
 **Eligibility and requirements**
 
 -   Dependent eligibility criteria for each benefit type
-
 -   Required documentation and evidence
-
 -   Special considerations for different dependent categories (spouse, children, disabled adult children, etc.)
 
 **Process and timing**
 
 -   Instructions for management acttivities
-
 -   Processing timelines and what to expect
-
 -   Digital vs. paper submission options and their implications
-
 -   When and how to follow up on submitted requests
 
 **Financial impact**
 -   How dependent changes affect payment amounts
-
 -   Effective dates for benefit adjustments
-
 -   Potential overpayments or underpayments and resolution processes
 
 **Support and resolution**
 
 -   Appeal processes for denied dependent claims
-
 -   Contact information for help
-
 -   Common issues and troubleshooting guidance
-
 -   Resources for special circumstances
-
 
 ---
 
@@ -108,14 +97,13 @@ Link to page: [Review or change dependents for disability, pension, or DIC benef
 
 #### Issue: Information overload and poor content hierarchy
 
-The current page includes a dense mix of basic information and program-specific details about dependent types, creating cognitive burden and making it difficult for users to find relevant information quickly.
+The current page includes a dense mix of basic information and program-specific details about dependent types, making it difficult for users to find relevant information quickly.
 
 Recommendation: Implement a progressive disclosure strategy
 
+Consider the following ideas:
 -   Lead with fundamental information relevant to all users (what dependents are, why management matters, when to take action)
-
 -   Move detailed program-specific and dependent-type information to dedicated resource pages
-
 -   Use clear cross-linking to guide users to relevant detailed information
 
 #### Issue: Missing context about importance and consequences
@@ -123,15 +111,17 @@ Recommendation: Implement a progressive disclosure strategy
 The page focuses heavily on procedural "what" and "how" information but fails to explain the "why" - specifically, what life changes trigger the need for dependent updates and what happens if changes aren't reported.
 
 Recommendation: Add motivational and contextual content
-
+Consider the following ideas:
 -   Open the page with clear messaging about the importance of maintaining accurate dependent information to ensure correct benefit payments and avoid overpayment debt
-
 -   Include common life change scenarios that require dependent updates (marriage, divorce, birth, death, changes in school enrollment, etc.)
-
 -   Explain consequences of delayed or missing updates, including the risk of overpayments and VA debt
 
+#### Detailed recommendations
+- [Additional notes on the Review or change dependents for disability, pension, or DIC benefits page](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1753816606740/b9bd04cec1e87c8568709e31977a92826f3496ad?wid=0-1753912608963)
+- [Suggested resource page IA changes](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1753816606740/b9bd04cec1e87c8568709e31977a92826f3496ad?wid=0-1754497802836)
+
 ### Benefit Program Resource Pages
-Links: 
+Links to current resource pages: 
 - [Disability ](https://www.va.gov/disability/)
 - [Pension](https://www.va.gov/pension/)
 - [DIC](https://www.va.gov/family-and-caregiver-benefits/survivor-compensation/)
@@ -143,11 +133,8 @@ Within disability, pension, and DIC program pages, information about adding depe
 Recommendation: Integrate dependent information into benefit program flows
 
 -   Add dependent eligibility and processes to the disability and pension"eligibility" section and "how to apply" sections (DIC page structure is different and doesn't include a separate eligibility page)
-
 -   Consider how best to incorporate program-specific guidance (e.g., disability benefits require 30% rating before dependents can be added) (e.g., in a separate "Adding dependents to your [benefit type]," incorporated in an existing page, etc.)
-
 -   Disability: Include dependent-related next steps on "After you file your claim" pages
-
 -   Disability: Move disability-specific dependent FAQs to disability hub (either as part of another page or its own page)
 
 ### Broader content strategy opportunities
@@ -173,14 +160,13 @@ Recommendation: Expand overpayment-related content
 -   Connect overpayment prevention directly to change reporting responsibilities
 -   Provide clear pathways from overpayment content to debt resolution resources
 
+
 ### Implementation priority recommendation
 
 **Next:**
-
 -   Restructure manage dependents page with progressive disclosure
 -   Add dependent guidance to benefit program pages
 
 **Later:**
-
 -   Change reporting content strategy
 -   Create overpayment prevention resources
