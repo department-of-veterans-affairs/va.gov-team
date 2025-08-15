@@ -26,5 +26,6 @@
 8. "What compliance or reporting requirements exist for fraud-related security events?"
 
 ### CSOC
+**Questions to Ask:**
 
 
