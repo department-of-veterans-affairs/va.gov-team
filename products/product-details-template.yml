@@ -1,0 +1,14 @@
+name: "Product Display Name"
+entry_name: "manifest-entry-name"  # Must match vets-website manifest.json
+description: "Product description"
+team: "team-name"  # MUST match teams/[portfolio]/[team-name]/ directory and team name in README.md
+github-label: "Product label"
+urls:
+  production: "https://..."
+  staging: "https://..."
+manifest_url: "https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/[app-name]/manifest.json"
+analytics:
+  domo_dashboard: "https://..."
+  datadog_dashboard: "https://..."
+  google_analytics: "https://..."
+status: "active" # active, maintenance, sunset
