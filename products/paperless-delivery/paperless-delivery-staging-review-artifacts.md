@@ -7,7 +7,7 @@
   - The new Paperlress Delivery page
   - New profile nav when visiting any `/profile` page
 
-### Test Users & scenarioes
+### Test Users & scenarios
 - All users should see the new Communication Settings box in the Profile Hub that links to both the existing Notification Settings page and the new Paperless Delivery Settings page. This can be tested with any LOA3 user.
 - All users should be able to see and use the new side navigation component within any `/profile` page. This can be tested with any LOA3 user.
 - All users should NOT be able to see any Paperless Delivery settings on the Notification Settings page. This can be tested with any LOA3 user.
@@ -19,6 +19,9 @@
 - LOA3 user who is not enrolled in healthcare and doesn't have a contact email on file - should see not available alert instead of the 1095-B checkbox. Should also see missing email alert and be able to add one. | vets.gov.user+78@gmail.com (you can go to /contact-information to remove their contact email)
 - LOA3 user who has opted-in to paperless delivery - page should load with the 1095-B checkbox already checked | TBD but let's use ssoissoetesting+mhvcss4@gmail.com if we can
 - LOA3 user who has not opted-in to paperless delivery - page should load without the 1095-B checkbox already checked | TBD but let's use vets.gov.user+12@gmail.com if we can because this user is also enrolled in healthcare
+
+### List of known issues and bugs
+- TBD
 
 ### Content & IA ticket
 - https://github.com/department-of-veterans-affairs/va.gov-team/issues/106648
