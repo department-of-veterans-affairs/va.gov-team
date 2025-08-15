@@ -1,7 +1,5 @@
 # Editor Experience Discovery Research Study, Drupal CMS, 09/2025
 
-Publish final research plan in the [CMS research repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms/research).
-
 ## Background
 The Editorial Experience Initiative is a Platform team effort to improve the tools, workflows, and support systems for the content Editors who use the Drupal CMS to publish and maintain VA.gov content. Editors play a critical role in ensuring Veterans and their families have timely, accurate, and accessible information. However, the efficiency and quality of their work is shaped by the broader context of their role, the efficiency of their workflows, the clarity of training, and the availability of reliable support resources.
 This research will take a holistic look at Editors’ work, exploring their experience, both inside and outside of Drupal, to identify friction points, uncover unmet needs, and surface opportunities to improve their experience. By understanding the complete picture, we can make targeted improvements that reduce friction, increase efficiency, and improve Editor satisfaction.
