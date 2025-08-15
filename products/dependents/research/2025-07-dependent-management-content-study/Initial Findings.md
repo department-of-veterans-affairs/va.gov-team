@@ -21,6 +21,7 @@ These findings are an analysis of the answers participants gave to pre-study, pr
      - "Only at time of set up to make sure they are there."
      - "Recently I divorced and was checking weekly until that status was reflected in my account as well."
      - "Only when my rating went over 30%."
+     - they participants mentioned situations and timelines
 - 3	viewed their dependents monthly
 - 7	viewed their dependents one to two times a year
 - 3	viewed their dependents occasionally
@@ -49,12 +50,12 @@ These findings are an analysis of the answers participants gave to pre-study, pr
 ##### Design A
 - Responses focused on making necessary changes
 - Responses also focused on making sure information was accurate
-- Verification was not mentioned
+- Verification was not mentioned specifically
      - One person did write: "I would verify the information as correct."
 
 ##### Design B
 - Responses focused on making necessary changes
-- Verification was not mentioned
+- Verification was not mentioned specifically
 
 #### Your VA dependents page: When or how often would you expect to see the alert at the top of the page?
 
@@ -143,7 +144,7 @@ These findings are an analysis of the answers participants gave to pre-study, pr
      - "To make sure you and your dependents are enabled to entitlements"
  
  #### Where on VA.gov would you expect to view your dependents?
- - participants mentioned more than place
+ - some participants mentioned more than place
  - 9 mentioned the Profile page
  - 4 mentioned myVA
  - 3 mentioned other reasons
@@ -163,6 +164,7 @@ These findings are an analysis of the answers participants gave to pre-study, pr
 - 1 gave no response
 
 #### Is there anything about the dependent verification process that you just experienced that you think should be changed? If so, what?
+- some participants mentioned more than one thing
 - 9 said No
 - 9 had suggestions for the dependents management team
      - "I believe anything that allows you to update in real time would make the system better."
@@ -186,7 +188,7 @@ These findings are an analysis of the answers participants gave to pre-study, pr
 - 1 responded N/A
  
 #### Is there anything else that you would like to share?
-- 10 said No																						
+- 11 said No																						
 - 5 gave responses related to Dependents Management
      - "I would like notice if someone were to apply to add me or one of my dependents as a dependent via data match. This unique circumstance was a potential disaster when a non-biological parent attempted to add my dependent to their benefits without my consent or forenotice. Fortunately they were unsuccessful though I'm uncertain the details of how/why the change request failed."
      - "The transition from MyHealthyVet to the VA.gov site has not been smooth from my perspective. Why offer three different ways to sign into VA.gov and why transfer someone wanting to access what used to be MyHealthyVet from the VA.gov site to a completely different site?"
