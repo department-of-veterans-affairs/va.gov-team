@@ -73,9 +73,9 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |--------------------|-------------|
 | **User goal**      | *"I need proof of my Veteran/military status."* |
 | **What should we measure?** | Accurate military status <br> *"I can readily provide proof of my military status.”* |
-| **Important metrics to track**| -TBD<br>-TBD<br>-TBD<br> |
+| **Important metrics to track**| - User engagement over time (actions on screen)<br>- Viewer counts<br>- Average daily viewers<br>- Views per user<br>- Viewers month-to-month<br>- Distribution/converion of users who access this task via different pathways (homepage vs tool bar)<br>- # of feature viewers/# of users<br>- Latency<br>- % of errors within X period of time<br>- Users report easy access and clear Veteran status |
 | **How these metrics can inform decision making** | TBD |
-| **Unhelpful metrics** | -TBD<br>-TBD<br>-TBD<br> |
+| **Unhelpful metrics** | - Time on screen |
 
 </details>
 
