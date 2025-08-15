@@ -165,7 +165,7 @@ Recommendation: Expand overpayment-related content
 
 **Next:**
 -   Restructure manage dependents page with progressive disclosure
--   Add dependent guidance to benefit program pages
+-   Add additional dependent guidance to benefit program pages
 
 **Later:**
 -   Change reporting content strategy
