@@ -49,9 +49,9 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |--------------------|-------------|
 | **User goal**      | *"I need convenient access to view and manage my VA health benefits on-the-go."* |
 | **What should we measure?** | Successful login, the first time<br> *"I was easily able to login the first time."* |
-| **Helpful metrics**| - Login success rate<br> - Time to login<br> - Recovery rate<br>- Most common logout reasons (e.g. due to connectivity issues, app updates)<br>- Most common login failure reasons<br>- Active users<br>- New users<br>- Logins started event count<br>- Logins completed event count<br>- Login completed webview steps event count<br>- Logins canceled login event count<br>- Authenticated users<br>- Higher frequency reporting intervals than monthly (e.g. real-time data for login success or time to login)<br>- Qualitative trends in login issues from Feedback Hub channels<br>- Future: Login survey |
+| **Important metrics to track**| - Login success rate<br> - Time to login<br> - Recovery rate<br>- Most common logout reasons (e.g. due to connectivity issues, app updates)<br>- Most common login failure reasons<br>- Active users<br>- New users<br>- Logins started event count<br>- Logins completed event count<br>- Login completed webview steps event count<br>- Logins canceled login event count<br>- Authenticated users<br>- Higher frequency reporting intervals than monthly (e.g. real-time data for login success or time to login)<br>- Qualitative trends in login issues from Feedback Hub channels<br>- Future: Login survey |
 | **How these metrics can inform decision making** | Understand login points of friction and identify opportunities to make it easier for users to use the app |
-| **Important metrics to track** | - Measuring login success on a monthly basis. Consider higher frequency reporting intervals than monthly (e.g. weekly for login success or time to login) |
+| **Unhelpful metrics** |  |
 </details>
 <details>
 <summary><h3>Disability rating</h3></summary> 
@@ -60,9 +60,9 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |--------------------|-------------|
 | **User goal**      | *"I want to understand my disability rating."* |
 | **What should we measure?** | Easy to understand disability rating <br> *“I understood my disability rating."* |
-| **Important metrics to track**| -TBD<br>-TBD<br>-TBD<br> |
-| **How these metrics can inform decision making** | TBD |
-| **Unhelpful metrics** | -TBD<br>-TBD<br>-TBD<br> |
+| **Important metrics to tracks**| - User engagement over time (actions on screen)<br>- Viewer counts<br>- Average daily viewers<br>- Views per user<br>- Viewers month-to-month<br>- Distribution/converion of users who access this task via different pathways (homepage vs tool bar)<br>- # of feature viewers/# of users<br>- Latency<br>- % of errors within X period of time<br>- Users report easy access and clear disability rating |
+| **How these metrics can inform decision making** | To understand and improve experience for Veterans accessing disability ratings  |
+| **Unhelpful metrics** | - Time on screen |
 
 </details>
 
