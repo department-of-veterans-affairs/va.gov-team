@@ -336,39 +336,82 @@ Crucially, the confusion about required information and supporting documents on 
 
 ## Product User and Business Outcomes
 
-*Explain how findings and recommendations align with the product's goals.*
+### Product User Outcomes
 
-> [!NOTE] 
-> Refer back to your Product Outline. 
-
-- **Desired User Outcome**
-  - This research supports our desired user outcome by....
+- **Veterans can complete and submit both the CHAMPVA benefits application and OHI certification through a unified digital interface.​**
+  - This research supports our desired user outcome by confirming that users can successfully complete both the CHAMPVA and OHI forms through a single digital interface. 16 of 18 participants completed the merged form in one sitting, with the two exceptions due to technical issues in the staging environment or participant devices—not confusion with the form itself, suggesting high task completion success.
  
-- **Deisred Business Outcome**
-  - This research supports our desired business outcome by....
+- **Veterans spend less time and effort filling out the forms.**
+  - This research supports our desired user outcome by validating that users want the streamlined flow of the merged forms. Participants appreciated the streamlined flow and reported it was easier and faster than the paper-based process. 10 of 18 cited the overall flow as a key reason for ease, and others highlighted features like easy-to-read pages, inter-form navigation, and straightforward document uploads. Several commented positively on navigation and clarity, reinforcing that the merged form helps reduce burden.
+  - 3 participants who were current CHAMPVA beneficiaries stated that the online form was a better overall experience than the paper/PDF version.
 
+- **Veterans spend less time waiting to hear back on the status of their application**
+  - Not included in this study. 
+ 
+- **Veteran satisfaction increased with application experience.**
+  - This research supports our desired user outcome by validating the navigation, ease of use, and clarity of steps with the merged application. 14 of 18 participants rated the form as “easy” or “very easy.” Positive feedback included comments on intuitive navigation, the clarity of steps, and the ease of uploading documents. Several participants expressed that they would feel comfortable applying for CHAMPVA online.
+
+### Desired Business Outcomes
+
+- **Reduce the amount of time spent processing paper forms.**
+  - Not included in this study.
+
+- **Expedite the application process for these two forms by reducing multitasking**
+  - Not included in this study.
+
+- **Reduce error rates or rejections by removing the dependence on handwritten forms.**
+  - Findings highlight preventable causes of incomplete or incorrect submissions—such as misunderstandings about document requirements and confusion over the roles of signer, sponsor, and applicant—that can be mitigated in a digital environment through clearer terminology, improved instructions, and streamlined input flows.
+  - Addressing these issues is expected to lower error rates and reduce rework compared to processing handwritten paper forms. Users were more satisfied and less likely to revert to paper forms—particularly when digital issues (terminology, instructions) are addressed.
 
 ## Key Performance Indicators
 
-*Explain how findings will support KPI measurement.*  
+**Objective: Increase number of people filing online for CHAMPVA and OHI**
+- **Key result: Increase % of Veterans and families who apply for health care benefits online**
+- **Key result: Increase number of beneficiaries who apply for CHAMPVA & submit OHI online**
+- **Key result: Applicant satisfaction increases due to digital form**
 
-> [!NOTE]
-> Refer back to your Product Outline. 
+This research supports measurement of this KPI by showing that:
 
-- **KPI 1**
-  -  This research supports measurement of this KPI by....
+-  Users prefer the unified digital experience over standalone or paper forms (as reported by 3 current CHAMPVA beneficiaries included in this study).
+-  This study also provides qualitative indicators that satisfaction and ease of use are strong enough to encourage wider adoption, especially once known pain points are addressed.
+-  Validates that users can complete the merged application without major issues, supporting a push to phase out the standalone forms and paper pathway.
+-  Capturing user quotes praising navigation, layout, and document supporting document upload ease.
 
+**Objective: Reduce time to submit both CHAMPVA and OHI**
+- **Key result: Measure number of applications completed in single session**
+- **Key result: Lower average session length than submitting CHAMPVA & OHI separately**
+- **Key result: Low dropoff when users encounter OHI part of merged solution**
+
+This research supports measurement of this KPI by:
+
+-  Demonstrating that 16 out of 18 participants completed the form in one session, with delays attributed only to technical issues—not user confusion.
+-  Users noted that the merged form avoided the need to submit the two forms separately — a time savings even without exact session time comparisons.
+-  Several participants commented on fewer clicks and less navigation effort than expected, which they linked to speed of completion.
+-  Providing baselines for expected completion rates to measure against real-world metrics post-launch.
+
+**Objective: Faster delivery of benefits for Veterans and their families**
+- **Key result: Increase number of people who obtain approvals for claims filed**
+- **Key result: Reduce processing and approval time**
+- **Key result: Reduce the number of resubmissions**
+
+This research supports measurement of this KPI by:
+
+- 18 of 18 participants understood the documentation categories for applicant and OHI sections, which can reduce delays due to missing evidence.
+- Participants called out that uploading supporting documentation was “a piece of cake” and easier than mailing or faxing, which should reduce the approval team’s document-gathering time.
+- Identifying how the digital experience can reduce back-and-forth due to errors in submission (e.g., sponsor/applicant role mix-ups).
+- Helping define form improvements that minimize resubmissions, allowing the approval team to process more efficiently.
 
 ## Next Steps
 
-*Outline immediate actions based on findings, including owners if applicable.*  
-
+1. Address launch-blocking UX, UI, content and engineering concerns identified in testing to prepare for Staging Review.
+2. Identify fast-follows and post-MVP improvements for the merged form experience.
+3. Implement UX/UI/content changes identified in this study to other IVC forms, where applicable.
 
 ## Further research needed
 
 *Identify gaps in the current study and areas requiring additional investigation––such as demographics that were not included in this study.* 
 
-We recommended to conduct some more research with the CHAMPVA partners to gain more understanding of their school certification process. 
+We recommended conducting additional research with the CHAMPVA partners to gain a better understanding of their school certification process, and how to better align business requirements with users' expectations. 
 
 ## Appendix
 [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/10-10D-OHI-Merge-Product-Outline.md)
@@ -382,7 +425,6 @@ We recommended to conduct some more research with the CHAMPVA partners to gain m
 
 ## Tools used for Synthesis
 
-*List tools or techniques used, e.g., Mural, affinity mapping.*  
 - [Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1750264395515/2f3e86214b70c294fb7e4c8abec93c83f80f3de5) 
   
 ## Pages and applications used
@@ -406,13 +448,20 @@ _[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/
 
 **Recruitment criteria**
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
+Our intended audience for this study was Veterans with high disability ratings and their dependent spouses and children, who may or may not be currently enrolled in the CHAMPVA program. We split this study into three cohorts:
+
+- **Cohort 1 (n = 12 minimum)**: Veterans with a 100% service connected disability rating with a spouse and/or dependent children who may or may not be enrolled in CHAMPVA benefits. 
+
+- **Cohort 2 (n = 3 minimum)**: Spouses and dependent children of Veterans with a 100% service connected disability rating, who may or may not be enrolled in CHAMPVA benefits.
+
+- **Cohort 3 (n = 2 minimum)**: Veterans with a 50% or higher service connected disability rating with a spouse and/or dependent children who may or may not be enrolled in CHAMPVA benefits. 
 
 We talked to **18 participants.**
 
 Audience segment:
-* Veterans:  14
-* Family members of a Veteran: 4  
+* Veterans:  10 (5 without CHAMPVA beneficiaries / 5 with CHAMPVA beneficiaries)
+* Family members of a Veteran: 4  (1 not currently enrolled in CHAMPVA / 3 currently enrolled in CHAMPVA)
+* Assistive Technology: 4 (All without current CHAMPVA beneficiaries)
 
 
 Gender:
