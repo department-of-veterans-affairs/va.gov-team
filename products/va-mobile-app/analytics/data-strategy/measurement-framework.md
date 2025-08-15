@@ -100,7 +100,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 | **User goal**      | *"I want to view my appointment(s) to take care of a health concern."* |
 | **What should we measure?** | Useful appointment details<br> *“I know when and where my appointment is."* |
 | **Important metrics to track**| -View appt details events<br>- Notification open/click-through rate<br>- % conversion from notification to completed appt<br>- Engagement time per active user<br>- Appointment cancel events<br>- # feature viewers/# of users<br>- Latency<br>- % of errors within X period of time<br>- CSAT |
-| **How these metrics can inform decision making** | TBD |
+| **How these metrics can inform decision making** | To understand and improve how users are engaging with appointment-related features  |
 | **Unhelpful metrics** |  |
 
 </details>
@@ -112,9 +112,9 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |--------------------|-------------|
 | **User goal**      | *"I need to refill my prescription."* |
 | **What should we measure?** | Ease of Prescription Refills <br> *“It was easy to get my prescription refilled.”* |
-| **Important metrics to track**| -TBD<br>-TBD<br>-TBD<br> |
-| **How these metrics can inform decision making** | TBD |
-| **Unhelpful metrics** | -TBD<br>-TBD<br>-TBD<br> |
+| **Important metrics to track**| - Filter and tracking details<br>- Number of clicks to My VA Health (if can't fill script in app)<br>- Feedback from Rx survey<br>- # feature viewers/# of users<br>- Latency<br>- % of errors within X period of time |
+| **How these metrics can inform decision making** | To identify pain points with Rx refill process in app and identfiy improvement opportunities |
+| **Unhelpful metrics** | |
 
 </details>
 
@@ -125,9 +125,9 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |--------------------|-------------|
 | **User goal**      | *"I want to securely message my provider."* |
 | **What should we measure?** | Ease of secure messaging + timely provider response <br> *“I understood what I needed to do next to manage my whole health.”* |
-| **Important metrics to track**| -TBD<br>-TBD<br>-TBD<br> |
-| **How these metrics can inform decision making** | TBD |
-| **Unhelpful metrics** | -TBD<br>-TBD<br>-TBD<br> |
+| **Important metrics to track**| - Notification open/click-through rate<br>- % conversion from notification to viewed message<br>- Messages sent<br>- Latency<br>- % of errors within X period of time |
+| **How these metrics can inform decision making** | To understand how users are viewing and sending secure messages and identify opportunities for improvement |
+| **Unhelpful metrics** |  |
 
 </details>
 
@@ -138,9 +138,9 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |--------------------|-------------|
 | **User goal**      | *"I want to view my medical records, labs, and test results."* |
 | **What should we measure?** | Accurate, up-to-date medical records <br> *“My recent labs and medical records are accessible and up-to-date.”"* |
-| **Important metrics to track**| -TBD<br>-TBD<br>-TBD<br> |
+| **Important metrics to track**| - Medical records viewed<br>- # feature viewers/# of users<br>- Latency<br>- % of errors within X period of time |
 | **How these metrics can inform decision making** | TBD |
-| **Unhelpful metrics** | -TBD<br>-TBD<br>-TBD<br> |
+| **Unhelpful metrics** |  |
 
 </details>
 
@@ -151,9 +151,9 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |--------------------|-------------|
 | **User goal**      | *"I want to file for beneficiary travel reimbursement after my appointment."* |
 | **What should we measure?** | Ease of access and BT claims filing <br> *“It was clear where to file for travel pay via the app. Filing was easy."* |
-| **Important metrics to track**| -TBD<br>-TBD<br>-TBD<br> |
+| **Important metrics to track**| - Travel pay submitted<br>- % of travel pay going through mobile compared to other channels<br>- # feature viewers/# of users<br>- Latency<br>- % of errors within X period of time |
 | **How these metrics can inform decision making** | TBD |
-| **Unhelpful metrics** | -TBD<br>-TBD<br>-TBD<br> |
+| **Unhelpful metrics** | |
 
 </details>
 
@@ -164,9 +164,9 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |--------------------|-------------|
 | **User goal**      | *"I want to track claim status."* |
 | **What should we measure?** | Accurate, easy to understand claim status <br> *“I know the status of my claim.”* |
-| **Important metrics to track**| -TBD<br>-TBD<br>-TBD<br> |
+| **Important metrics to track**| - Click the NCC call center number<br>- Click links on the claim status screen<br>- Claim Details Open events<br>- Time spend viewing per active user<br>- Overall claims page views<br>- # feature viewers/# of users<br>- Latency<br>- % of errors within X period of time |
 | **How these metrics can inform decision making** | TBD |
-| **Unhelpful metrics** | -TBD<br>-TBD<br>-TBD<br> |
+| **Unhelpful metrics** |  |
 
 </details>
 
@@ -177,9 +177,9 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |--------------------|-------------|
 | **User goal**      | *"I want to understand claims decisions/review claim letters."* |
 | **What should we measure?** | Convenient access to claim decision letters <br> *“I can easily access claims letters and review why claim decisions were made.”* |
-| **Important metrics to track**| -TBD<br>-TBD<br>-TBD<br> |
+| **Important metrics to track**| - Claims history viewed<br>- Conversion funnel to claims decision<br>- Latency<br>- % of errors within X period of time |
 | **How these metrics can inform decision making** | TBD |
-| **Unhelpful metrics** | -TBD<br>-TBD<br>-TBD<br> |
+| **Unhelpful metrics** |  |
 
 </details>
 
@@ -190,7 +190,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |--------------------|-------------|
 | **User goal**      | *"I need to submit evidence related to my claim."* |
 | **What should we measure?** | Smooth photo or document upload <br> *“I can easily upload photos and documents to my claim.”* |
-| **Important metrics to track**| -TBD<br>-TBD<br>-TBD<br> |
+| **Important metrics to track**| -Drop-offs at the "Upload Files" screen<br>- # feature viewers/# of users<br>- Latency<br>- % of errors within X period of time |
 | **How these metrics can inform decision making** | TBD |
 | **Unhelpful metrics** | -TBD<br>-TBD<br>-TBD<br> |
 
@@ -203,9 +203,9 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |--------------------|-------------|
 | **User goal**      | *"I want to understand and manage payments."* |
 | **What should we measure?** | TBD <br> *“TBD.”* |
-| **Important metrics to track**| -TBD<br>-TBD<br>-TBD<br> |
+| **Important metrics to track**| -Bank info add/update events<br>- Pathways to Payment history and Direct Deposit (home vs toolbar)<br>- #feature viewers/# of users<br>- Latency<br>- % of errors within X period of time |
 | **How these metrics can inform decision making** | TBD |
-| **Unhelpful metrics** | -TBD<br>-TBD<br>-TBD<br> |
+| **Unhelpful metrics** |  |
 
 </details>
 
@@ -216,9 +216,9 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |--------------------|-------------|
 | **User goal**      | *"I want to manage my personal information related to my VA health benefits."* |
 | **What should we measure?** | TBD <br> *“TBD.”* |
-| **Important metrics to track**| -TBD<br>-TBD<br>-TBD<br> |
+| **Important metrics to track**| - Notificaiton opt-in rates<br>-Notification open rates<br>- CTR<br>- # feature viewers/# of users<br>- Latency<br>- % of errors within X period of time|
 | **How these metrics can inform decision making** | TBD |
-| **Unhelpful metrics** | -TBD<br>-TBD<br>-TBD<br> |
+| **Unhelpful metrics** |  |
 
 </details>
 
