@@ -16,7 +16,7 @@ Gretchen Maciolek gretchen.maciolek@adhocteam.us
 Overview
 -----
 
-In support of the dependent management team's [initiative to improve on-ramps to dependents management tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/Initiative%20Brief%3A%20Improve%20On-Ramps%20to%20Dependents%20Management.md), the purpose of this exploration is to identifies gaps and opportunities within unauthenticated resource pages on VA.gov for information related to managing dependents on VA benefits. 
+In support of the dependent management team's [initiative to improve on-ramps to dependents management tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/Initiative%20Brief%3A%20Improve%20On-Ramps%20to%20Dependents%20Management.md), the purpose of this exploration is to identifies gaps and opportunities within unauthenticated resource pages on VA.gov for information related to adding and managing dependents on VA benefits. 
 
 Dependent management topics covered: 
 
