@@ -17,7 +17,7 @@ Example:
 
 This structure lets the app deep-link to any item’s questions and simplifies “Back/Next” behavior within the loop. It also aligns with our “ask for multiple responses” pattern guidance, which gathers the same fields for each item. However, it currently goes against VA's [URL standards](https://design.va.gov/ia/url-standards/) in that two empty directories are created, one for the `array-name` and one for the `index`
 
-**Note for content/UI:** When showing labels to users refer to the arrays as the `itemName` for example, "Edit John Smith's information". 
+**Note for content/UI:** When showing labels to users refer to the arrays as the `itemName` for example, "Edit John Smith's information" instead of "Edit Dependent 1's information". 
 
 
 ## Why zero-based in the URL?
