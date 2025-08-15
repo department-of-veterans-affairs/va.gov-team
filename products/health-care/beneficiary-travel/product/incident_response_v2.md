@@ -16,11 +16,11 @@ Do these 3 steps first, _before any investigation of root cause is done_.
 @kay @Kristen McConnell @Mark Dewey
 @btsss-api-team @btsss-vagov-team
 
-There is an ongoing significant incident with Travel Pay. 
+We're investigating an ongoing issue with Travel Pay. 
 
-Impacted Veterans %: xx% (or explicit #)
-Impacted Systems:    System A, System B
-Timeframe: Issue has been going on for X minutes.
+Impacted Veterans %:     xx% (or explicit #)
+Impacted Systems:        System A, System B
+Timeframe:               Issue has been going on for X minutes.
 
 We are investigating the issue and will post updates in this thread as we have them. :thread:
 ```
