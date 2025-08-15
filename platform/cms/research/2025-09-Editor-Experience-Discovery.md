@@ -150,18 +150,18 @@ We will recruit 9–15 Editors, with representation across three key groups to c
 3–5 Editors from Vet Centers
 3–5 Editors from Veterans Benefits Administration (VBA)
 
-Participant requirements
+**Participant requirements**
 - Current CMS users who regularly create, edit, or publish content in Drupal for VA.gov.
 - At least 3 months of Drupal CMS experience to ensure familiarity with core tasks, while still capturing a range of proficiency levels.
 - Mix of high-frequency users (daily or weekly) and low-frequency users (monthly or less) to reflect different usage patterns and training/support needs.
 - Representation from different geographic locations and facility sizes to capture a variety of operational contexts.
 
-Desired variation
+**Desired variation**
 - Experience level: newer Editors vs. experienced Editors.
 - Primary content responsibilities (e.g., facility pages, news stories, benefits content, events).
 - Comfort with and adherence to accessibility, plain language, and VA content standards.
 
-Exclusions
+**Exclusions**
 - CMS users whose role is exclusively technical or development-focused (e.g., site administrators, engineers) without Editorial duties.
 - VISN Editors
 - Inactive Editors
