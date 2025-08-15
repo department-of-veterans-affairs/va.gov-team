@@ -10,7 +10,7 @@ Discovery| Combined FSR |Veteran overview page for VBA + VHA Debts  | [#44636](h
 Discovery| FSR Enhancements |User Experience Enhancements including list loop, wizard, content.   | [#28318](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/28318)| mid December 2022|TBD
 Planned | Streamlined Waiver |Simplifying and streamlining the waiver request process for Veterans  | [#39330](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/39330)| Projected ~ Mid Dec 2022|TBD
 |Planned|MCP Notifications|Notifying Veteran of new copay statement in portal|[#31490](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/31490)|TBD: Hoping to move this up approx. Oct/Nov 2022|TBD|
-|Planned|Paid in Full Letter|Providing Veterans with ability to download letter that shows debt have been paid in full|[#TBD](TBD)|TBD|TBD|
+|Planned|Paid in Full Letter|Providing Veterans with ability to download letter that shows debt have been paid in full|TBD|TBD|TBD|
 
 (_Additional roadmap items will be incorporated from our extensive Strategic Roadmap as we get closer_)
 

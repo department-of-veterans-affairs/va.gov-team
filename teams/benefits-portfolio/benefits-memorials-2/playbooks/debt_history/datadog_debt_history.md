@@ -24,7 +24,7 @@ There is not much we've been able to do except ping the DMC team on Teams if thi
 Access required to complete the steps in this playbook. Intended for readers to review in advance.   
 
 - [OCTO Datadog instance](https://vagov.ddog-gov.com/), read-only access
-- [DSVA Slack](dsva.slack.com)
+- [DSVA Slack](https://dsva.slack.com/)
 
 # Steps
 
