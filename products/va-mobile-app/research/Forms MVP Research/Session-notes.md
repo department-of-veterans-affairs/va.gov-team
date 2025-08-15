@@ -701,3 +701,101 @@ In-progress status - is not detailed enough wants more information
 Pending
 
 ## P11
+
+### per designer:
+
+Clarifying text for each option before starting form would be helpful.
+
+Progress tags changing as the form goes through the submission process would be helpful as well - seems like this is recurring feedback
+
+Agree w/ Ken - we should see if the print button works and maybe also add some clarification on where the (reference? can't remember the exact phrasing) number after submission will be located
+
+### per engineer:
+
+Done button - its either users click on “Finish this application later”(web’s flow) or frozen until they are prompted to click the Done button
+
+We should test if printing actually works - its probably does but lets confirm
+
+On bigger devices that toast continue to block the card
+
+Good feedback -> how do we capture the confirmation number? We should probably put it in the card if we can
+
+### per engineer (2):
+
+Initially she mentioned she would look in Claims for the ability to submit forms
+
+She noted that the indicator of how much time she had left to complete a form was nice
+
+She was pleasantly surprised that when coming back to the form it brought her back to the correct place
+
+She said she’d expect to come back in after some time and see that the form was “In Review”
+
+She asked about ways to access the confirmation if she could not print in that moment. Maybe it would be helpful to make those methods more apparent on that screen.
+
+Awesome work everyone! That was very cool to sit in on and see.
+
+### product manager:
+
+#### Intro/ General
+
+Has Mobile App downloaded, uses it for claims and Appointments
+
+Has had glitches, used it for the first time for Travel Reimbursement, which was “interesting” (no further details)
+
+This Veteran had a custom keyboard on their phone that allowed them to enter text in different fonts - just a note if we ever get a bug report to this effect
+
+#### Forms Webview
+
+Did not have any issues with data entry on the form
+
+Hasn’t found any of it hard to navigate or understand
+
+Needed prompting to get back to the Forms page
+
+Upon re-entering the Forms experience - “Oh it took me back to where I was! Cool!”
+
+“If I were using this, would it send me a copy of my confirmation number.” Also mentioned that if she weren’t home she would want a digital copy to retain the number
+
+#### Forms Page
+
+Knew it was submitted based on it saying “Submitted on [Date]”
+
+“In progress” means it was submitted and waiting to be reviewed
+
+If she were to check back later, she’d hope to see some progress, would hope to see “In Review”
+
+#### Overall
+
+Found the process pretty easy and self explanatory overall
+
+Felt the questions were pretty simple
+
+Wanted to make sure Veterans with accessibility issues/ visibility issues are able to view the text (this has been addressed by the fix for webview font resizing support)
+
+### per researcher:
+
+Pending
+
+## P12
+
+### per designer:
+
+There needs to be a way to allow people to print from a link emailed to them now that two people have brought that up
+
+The postal code insight was useful, not sure if that's something difficult to implement but could help with form submission
+
+I'm not sure if I noted it in a previous session but I think at least one other person may have vocalized they weren't sure whether to press "finish later" or "continue" when trying to leave the form and complete it later
+
+### per engineer:
+
+11/11 Done Button 
+
+Prefers Postal code to be first for filling out the form
+
+Can they also send an email for printing out the form - not everyone can print out from the mobile
+
+In progress - want more context
+
+### per researcher:
+
+Pending
