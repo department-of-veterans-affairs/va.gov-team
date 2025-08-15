@@ -2,29 +2,21 @@
 
 In support of the dependent management team's [initiative to improve on-ramps to dependents management tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/Initiative%20Brief%3A%20Improve%20On-Ramps%20to%20Dependents%20Management.md), the purpose of this exploration is to identifies gaps and opportunities within unauthenticated resource pages on VA.gov for information related to managing dependents on VA benefits. 
 
+Dependent management topics included in this 
+
+-   Adding dependents to VA benefits (during initial claims, after benefit decisions, or due to life changes)
+-   Removing dependents from existing benefits
+-   Updating dependent information for active dependents 
+-   Dependent verification 
+
+The exploration will identify opportunities to improve user experience by ensuring Veterans and their families can successfully locate, understand, and act on dependent management information without requiring authenticated access or direct VA contact.
+
 Scope
 -----
 
-This audit covers dependent management content across the following VA benefit programs, including:
+This exploration covers dependent management content across disability, pension, and DIC. Not inlcuded: content that can only be accessed after signing in, content on form "About pages" in the Forms library, form intro pages.
 
--   Disability compensation
-
--   Pension benefits
-
--   Survivors benefits
-
-Definition of Dependent Management
-----------------------------------
-
-For the purposes of this audit, dependent management encompasses three primary actions:
-
--   Adding dependents to VA benefits (during initial claims, after benefit decisions, or due to life changes)
-
--   Removing dependents from existing benefits
-
--   Updating dependent information for current beneficiaries
-
-Information Needs Assessment
+Information needs assessment
 ----------------------------
 
 To effectively manage dependents on VA benefits, claimants and beneficiaries require comprehensive information about:
@@ -65,16 +57,12 @@ To effectively manage dependents on VA benefits, claimants and beneficiaries req
 -   Resources for special circumstances
 
 
-Success Metrics
----------------
 
-The audit will identify opportunities to improve user experience by ensuring veterans and their families can successfully locate, understand, and act on dependent management information without requiring authenticated access or direct VA contact.
-
-
-Artifacts
+Relevant resources
 ---------------
 
 - MURAL (link coming soon)
+- [IA discovery and recommendations from a previous team](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709582312238/ae3de21fd188beba8c28668ee37a31841c6203bf) (MURAL link)
 
 
 Summary of recommendations
