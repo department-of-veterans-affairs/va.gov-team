@@ -15,35 +15,12 @@
 
 ---
 
-## Section 1: Current Suspicious Access Detection (10 minutes)
-
-### Current Responsibilities
 **Questions to Ask:**
-1. "Where do you see the boundary between platform security and identity fraud detection?"
-2. "What fraud-related activities are currently in your scope vs. out of scope?"
-3. "How do you currently coordinate with other teams on security incidents involving user accounts?"
-4. "What fraud scenarios would you want the Identity team to handle vs. escalate to you?"
-
-### Collaboration Opportunities
-**Questions to Ask:**
-1. "What shared workflows or communication channels could improve fraud response?"
-2. "Are there opportunities to integrate fraud signals into existing security operations?"
-3. "What information from Identity fraud detection would be most valuable to your operations?"
-4. "How could we better coordinate on account compromise or suspicious authentication events?"
-
-## Section 2: Shared Signals & Tools (8 minutes)
-
-### Current Monitoring Infrastructure
-**Questions to Ask:**
-1. "What correlation capabilities exist between security events and user authentication?"
-2. "What triggers escalation of suspicious access events?"
-2. "How are fraud-related security incidents currently categorized and handled?"
-3. "What's your typical response timeline for suspicious authentication activity?"
-4. "Do you have playbooks specifically for identity-related security events?"
-
-### Ecosystem Integration
-**Questions to Ask:**
-1. "What other VA teams do you coordinate with on fraud or security issues?"
-2. "Are there existing fraud-related processes or committees we should be aware of?"
-3. "How do you currently interface with business teams when fraud impacts their operations?"
-4. "What compliance or reporting requirements exist for fraud-related security events?"
+1. "Where do you see the boundary between platform security and fraud detection?  What about identity related fraud?"
+2. "What is the difference between a security incident versus an actual instance of fraud?"
+3. "What "suspicious"/fraud-related activities is your team currently monitoring, keeping an eye out for?" "What triggers escalation of suspicious access events?"
+4. "When your monitors, triggers alert to suspicious behavior, how do you coordinate with other teams to address these incidents?"
+5. "How are fraud-related security incidents currently triaged and handled?"
+6. "Do other teams reach out to you to assist investigate security incidents?", "How do you currently coordinate with other teams on security incidents?"
+7. "Are there existing fraud-related processes or committees we should be aware of?"
+8. "What compliance or reporting requirements exist for fraud-related security events?"
