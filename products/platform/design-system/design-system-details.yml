@@ -6,4 +6,5 @@ urls:
   production: "https://design.va.gov"
 measurement:
   metrics_dashboard: "https://design.va.gov/about/metrics/"
+  project_board: "https://github.com/orgs/department-of-veterans-affairs/projects/1643/views/1"
 status: "active"

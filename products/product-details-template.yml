@@ -8,8 +8,9 @@ urls:
   staging: "https://..."
 manifest_url: "https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/[app-name]/manifest.json"
 measurement:
-  domo_dashboard: "https://..."
   datadog_dashboard: "https://..."
+  domo_dashboard: "https://..."
   google_analytics: "https://..."
+  project_board: "https://"
   research_repo: "https://..."
 status: "active" # active, maintenance, sunset

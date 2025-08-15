@@ -1,14 +1,14 @@
 # Teams
 
-This space is for all teams currently working on and with the platform. Teams can utilize this space for team info, workflow documents, project planning, and other general administrative content.
+This space is for all teams currently working on and with the VA.gov platform and the VA Health and Benefits mobile application. Teams should utilize this space for team info. However, project-specific documentation should go into /products.
 
 - If you are looking for documentation on VA.gov user-facing products, please see [/products](../products/README.md).
 - If you are looking for documentation on the tools and services provided by the platform, please see [VA Platform documentation](https://depo-platform-documentation.scrollhelp.site/).
 
 ## Required documentation
 
-- **Team README.md file** - Please be sure to fill out the information on your team's README.md file. This file is used to produce the new Team and Product Directory. Use the provided [template](team-readme-template.md).
-- [Team charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/team-charter-template.md)
+- **Team README.md file.** Teams must have a team README.md file. This file is used to produce the new Team and Product Directory and will be enforced upon entry into the Collaboration Cycle. Use the provided [template](team-readme-template.md).
+- **Team charter.** Teams may also created a team charter using the provided [team charter template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/team-charter-template.md).
 
 ## Current team roster
 
