@@ -556,7 +556,11 @@ I built an MLP for status with alternative copy, we may consider testing this in
 
 ### per engineer:
 
-Pending
+- For this particular style of forms where you need to put in a statement, preferred to be on desktop as often she write long statements for detail
+  
+- Prefilled information was something she mention it would be nice to have. It something already implemented on other forms but for this particular used case it was asked to be removed
+
+- Phone number would have been nice to be formatted as it helps ensure all her number was correct. Helping the user read things easier is helpful to ensure they have to do a re-review of their forms.
 
 ### per product manager:
 
@@ -672,5 +676,28 @@ Mentioned tech savviness is difficult to come by for more mature individuals, bu
 
 ### per researcher:
 
+Pending
+
 ## P10
 
+### per designer:
+
+In the context of other sessions, the form submission process (entering information and completing/submitting the form) seems to be fairly easy, it's navigating between the app and webview that's causing friction
+
+Adding some more detail to the form status screen seems to be part of recurring feedback
+
+### per engineer:
+
+Would prefer to have a help button - dont think the user noticed the option at the bottom ‘Get Help’. Worth moving to the top?
+
+Most users do not dismiss the toast immediately but was not an issue for this user as they had alot of real estate
+
+Done button strikes again but remembered about it the second time after submitting
+
+In-progress status - is not detailed enough wants more information
+
+### per researcher:
+
+Pending
+
+## P11
