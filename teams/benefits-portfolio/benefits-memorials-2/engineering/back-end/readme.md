@@ -14,14 +14,14 @@ Here is the table with the formatting fixed and the 3rd column removed:
 | `back-end/kevin-exit-docs/team-contacts.md`                          | [onboarding/team-contacts.md](./onboarding/team-contacts.md) |
 | `back-end/kevin-exit-docs/the-financial-status-report.md`            | [features/the-financial-status-report.md](./features/the-financial-status-report.md) |
 | `back-end/kevin-exit-docs/up-and-running.md`                         | [onboarding/up-and-running.md](./onboarding/up-and-running.md) |
-| `back-end/kevin-exit-docs/back-end-responsibilities.md`              | [guides-and-howtos/back-end-responsibilities.md](./architecture/back-end-responsibilities.md) |
+| `back-end/kevin-exit-docs/back-end-responsibilities.md`              | [guides-and-howtos/back-end-responsibilities.md](./guides-and-howtos/back-end-responsibilities.md) |
 | `back-end/kevin-exit-docs/useful-active-record-queries.md`           | [guides-and-howtos/useful-active-record-queries.md](./guides-and-howtos/useful-active-record-queries.md) |
 | `back-end/kevin-exit-docs/what-is-a-financial-status-report.md`      | [features/what-is-a-financial-status-report.md](./features/what-is-a-financial-status-report.md) |
 | `back-end/onboarding/FAQ.md`                                         | [onboarding/FAQ.md](./onboarding/FAQ.md) |
 | `back-end/onboarding/5655.pdf`                                       | [onboarding/5655.pdf](./onboarding/5655.pdf) |
 | `back-end/onboarding/readme.md` & `back-end/onboarding/Readme.md`    | [onboarding/readme.md](./onboarding/readme.md) |
-| `back-end/silent-errors/checklist.md`                                | [operations-and-monitoring/silent-errors/checklist.md](./guides-and-howtos/checklist.md) |
-| `back-end/silent-errors/queries.md`                                  | [operations-and-monitoring/silent-errors/queries.md](./guides-and-howtos/queries.md) |
+| `back-end/silent-errors/checklist.md`                                | [operations-and-monitoring/silent-errors/checklist.md](./operations-and-monitoring/silent-errors/checklist.md) |
+| `back-end/silent-errors/queries.md`                                  | [operations-and-monitoring/silent-errors/queries.md](./operations-and-monitoring/silent-errors/queries.md) |
 | `back-end/silent-errors/argo.md`                                     | [operations-and-monitoring/argo.md](./operations-and-monitoring/argo.md) |
 | `back-end/silent-errors/datadog.md`                                  | [operations-and-monitoring/datadog.md](./operations-and-monitoring/datadog.md) |
 | `back-end/silent-errors/inprogress-exploration.md`                   | [guides-and-howtos/inprogress-exploration.md](./guides-and-howtos/inprogress-exploration.md) |

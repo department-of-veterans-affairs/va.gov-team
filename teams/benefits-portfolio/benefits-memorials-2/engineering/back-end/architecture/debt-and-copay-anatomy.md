@@ -119,4 +119,4 @@ We get our copay statement data from VBS via [this service](https://github.com/d
 
 ---
 
-See the [Active Record Queries](useful-active-record-queries.md) in this documentation for scripts that can pull debts and copays with only a user UUID (no login required)
+See the [Active Record Queries](../guides-and-howtos/useful-active-record-queries.md) in this documentation for scripts that can pull debts and copays with only a user UUID (no login required)
