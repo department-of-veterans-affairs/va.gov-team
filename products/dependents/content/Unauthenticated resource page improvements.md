@@ -51,8 +51,7 @@ Not inlcuded:
 
 Relevant resources
 ---------------
-
-- MURAL (link coming soon)
+- [Dependents Management Findability Exploration](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1753816606740/b9bd04cec1e87c8568709e31977a92826f3496ad?wid=0-1754497898354) (MURAL link)
 - [IA discovery and recommendations from a previous team](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709582312238/ae3de21fd188beba8c28668ee37a31841c6203bf) (MURAL link)
 
 ---
