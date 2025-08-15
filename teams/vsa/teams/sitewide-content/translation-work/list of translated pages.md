@@ -9,13 +9,13 @@
 | 6 | [How to get your COVID-19 vaccine records online](https://www.va.gov/health-care/covid-19-vaccine-esp/vaccine-record-tag/) | Tagalog | xx/xx/xx | Seems to have been redirected - date unknown
 | 7 | [The PACT Act and your VA benefits](https://www.va.gov/resources/the-pact-act-and-your-va-benefits-esp/) | Spanish | 04/25/25 | |
 | 8 | [The PACT Act and your VA benefits](https://www.va.gov/resources/the-pact-act-and-your-va-benefits-tag/) | Tagalog | 05/23/25 | |
-| 9 | [Eligibility for VA disability benefits](https://www.va.gov/disability/eligibility-esp/) | Spanish | |
-| 10 | [How to file a VA disability claim](https://www.va.gov/disability/how-to-file-claim-esp/) | Spanish | |
-| 11 | [The VA claim process after you file a claim](https://www.va.gov/disability/after-you-file-claim-esp/) | Spanish | |
-| 12 | [Eligibility for VA health care](https://www.va.gov/health-care/eligibility-esp/) | Spanish | |
-| 13 | [How to apply for VA health care](https://www.va.gov/health-care/how-to-apply-esp/) | Spanish | |
-| 14 | [After you apply for health care benefits](https://www.va.gov/health-care/after-you-apply-esp/) | Spanish | |
-| 15 | [Language assistance](https://www.va.gov/asistencia-y-recursos-en-espanol/) | Spanish | |
+| 9 | [Eligibility for VA disability benefits](https://www.va.gov/disability/eligibility-esp/) | Spanish | 02/14/23 | |
+| 10 | [How to file a VA disability claim](https://www.va.gov/disability/how-to-file-claim-esp/) | Spanish | 02/14/23 | |
+| 11 | [The VA claim process after you file a claim](https://www.va.gov/disability/after-you-file-claim-esp/) | Spanish | 02/14/23 | |
+| 12 | [Eligibility for VA health care](https://www.va.gov/health-care/eligibility-esp/) | Spanish | 02/17/23 | |
+| 13 | [How to apply for VA health care](https://www.va.gov/health-care/how-to-apply-esp/) | Spanish | 02/17/23 | |
+| 14 | [After you apply for health care benefits](https://www.va.gov/health-care/after-you-apply-esp/) | Spanish | 02/17/23 | |
+| 15 | [Language assistance](https://www.va.gov/asistencia-y-recursos-en-espanol/) | Spanish | 05/27/21 | |
 | 16 | [Language assistance](https://www.va.gov/tagalog-wika-mapagkukunan-at-tulong/) | Tagalog | |
 | 17 | [The Program of Comprehensive Assistance for Family Caregivers](https://www.va.gov/family-member-benefits/comprehensive-assistance-for-family-caregivers-esp/) | Spanish | 9/7/23 |
 | 18 | [Supplemental Claims](https://www.va.gov/decision-reviews/supplemental-claim-esp/) | Spanish | 10/20/23 |
