@@ -23,3 +23,5 @@ Last uploaded: February 14, 2025
 - [PRODUCT_GUIDE (PDF)](https://github.com/user-attachments/files/18801024/Online.Travel.Reimbursement.Submission.for.Oracle.Health.Facilities.Product.Guide_SRT_08072024.pdf)
 
 - [PRODUCT_GUIDE (Word)](https://github.com/user-attachments/files/18801025/Online.Travel.Reimbursement.Submission.for.Oracle.Health.Facilities.Product.Guide_SRT_08072024.docx)
+
+- [PRODUCT_GUIDE (Word)](https://github.com/user-attachments/files/21799516/Online.Travel.Reimbursement.Submission.for.Oracle.Health.Facilities.Product.Guide_SRT_08152025.docx)
