@@ -43,7 +43,8 @@ Scope
 -----
 
 This exploration covers dependent management content across disability, pension, and DIC. 
-Not inlcuded: 
+
+Out of scope for this exploration: 
 - content that can only be accessed after signing in
 - content on form "About pages" in the Forms library
 - content on form intro pages
