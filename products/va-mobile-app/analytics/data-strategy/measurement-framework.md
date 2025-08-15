@@ -215,7 +215,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |      | Profile |
 |--------------------|-------------|
 | **User goal**      | *"I want to manage my personal information related to my VA health benefits."* |
-| **What should we measure?** | TBD <br> *“TBD.”* |
+| **What should we measure?** | Accurate personal data <br> *“TBD.”* |
 | **Important metrics to track**| - Notificaiton opt-in rates<br>-Notification open rates<br>- CTR<br>- # feature viewers/# of users<br>- Latency<br>- % of errors within X period of time|
 | **How these metrics can inform decision making** | TBD |
 | **Unhelpful metrics** |  |
@@ -228,10 +228,10 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |      | Crisis support|
 |--------------------|-------------|
 | **User goal**      | *"I'm in crisis and need urgent support."* |
-| **What should we measure?** | TBD <br> *“TBD.”* |
-| **Important metrics to track**| -TBD<br>-TBD<br>-TBD<br> |
+| **What should we measure?** | Clicks to Veteran Crisis Line <br> *“I received timely crisis support via the app.”* |
+| **Important metrics to track**| - Clicks on red CTA<br>- Exits to Veterancrisisline.net<br>- # feature viewers/# of users<br>- Latency<br>- % of errors within X period of time |
 | **How these metrics can inform decision making** | TBD |
-| **Unhelpful metrics** | -TBD<br>-TBD<br>-TBD<br> |
+| **Unhelpful metrics** | |
 
 </details>
 
@@ -241,10 +241,10 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |      | Navigation |
 |--------------------|-------------|
 | **User goal**      | *"I want to navigate to X easily from the home screen."* |
-| **What should we measure?** | TBD <br> *“TBD.”* |
-| **Important metrics to track**| -TBD<br>-TBD<br>-TBD<br> |
+| **What should we measure?** | Conversion rates from the app Homescreen to various parts of the app i.e. Health, Benefits, Payments, Profile, VA resources, location finder <br>Following path<br>- do they see it, <br>- if they see it do they tap,<br>- are they able to do a thing (view, task, etc.)   <br> *“TBD.”* |
+| **Important metrics to track**| - Activity button click rate, basedon when button conditionally shown (repeat users ok)<br>- Home screen page load time<br>- Notification interactions, bringing users to home screen<br>- # feature viewers/# of users<br>- Latency<br>- % of errors within X period of time |
 | **How these metrics can inform decision making** | TBD |
-| **Unhelpful metrics** | -TBD<br>-TBD<br>-TBD<br> |
+| **Unhelpful metrics** |  |
 
 </details>
 
@@ -264,8 +264,8 @@ Overall platform health can be measured by the platform's speed, availability, r
  
 |**Speed** |   |
 |--------------|-------------|
-| **Definition** | TBD |
-| **Helpful metrics** | -TBD<br>-TBD<br>-TBD<br> |
+| **Definition** | How quickly an app loads, responds to user input, and handles various tasks, data availability based on API |
+| **Helpful metrics** | - Page load times<br>- API latency or down times<br>- % of errors within X period of time |
 | **How it informs decision-making** | TBD |
 
 </details>
@@ -276,7 +276,7 @@ Overall platform health can be measured by the platform's speed, availability, r
 |**Availability** |   |
 |--------------|-------------|
 | **Definition** | TBD |
-| **Helpful metrics** | -TBD<br>-TBD<br>-TBD<br> |
+| **Helpful metrics** | - Application uptime<br>- Connectectiivty/off-line usage<br>- Crash rate<br>- Access/stability in low-connectively environments<br>- Qualitiative sentiment analysis of performance complaints<br>- Offline usage<br>- Error messaging |
 | **How it informs decision-making** | TBD |
 
 </details>
@@ -287,7 +287,7 @@ Overall platform health can be measured by the platform's speed, availability, r
 |**Reliability** |   |
 |--------------|-------------|
 | **Definition** | TBD |
-| **Helpful metrics** | -TBD<br>-TBD<br>-TBD<br> |
+| **Helpful metrics** | - Error rates from VA Mobile API middleware<br>- Error rates for experience APIs<br>- Change failure rate (CFR)<br>- Mean Time to Detect (MTTD)<br>- Mean Time to Repair (MTTR) |
 | **How it informs decision-making** | TBD |
 </details>
 
@@ -296,8 +296,8 @@ Overall platform health can be measured by the platform's speed, availability, r
  
 |**Consistency** |   |
 |--------------|-------------|
-| **Definition** | TBD |
-| **Helpful metrics** | -TBD<br>-TBD<br>-TBD<br> |
+| **Definition** | Veteran information returned correctly |
+| **Helpful metrics** | - Data parity with web |
 | **How it informs decision-making** | TBD |
 </details>
 
@@ -307,7 +307,7 @@ Overall platform health can be measured by the platform's speed, availability, r
 |**User Satisfaction** |   |
 |--------------|-------------|
 | **Definition** | Measures users’ perception of the app’s value, usability, and overall experience based on direct and indirect feedback. |
-| **Helpful metrics** | CSAT<br>App Store/Google Play star ratings<br>In-app survey results (scale rating)<br>Sentiment analysis from qualitative/open feedback |
+| **Helpful metrics** | - CSAT<br>- App Store/Google Play star ratings<br>- In-app survey results (scale rating)<br>- Sentiment analysis from qualitative/open feedback |
 | **How it informs decision-making** | Helps identify pain points, feature satisfaction, and areas for improvement. Guides prioritization of usability fixes and informs communication or design changes. |
 </details>
 
@@ -317,7 +317,7 @@ Overall platform health can be measured by the platform's speed, availability, r
 |**Adoption** |   |
 |--------------|-------------|
 | **Definition** | TBD |
-| **Helpful metrics** | -TBD<br>-TBD<br>-TBD<br> |
+| **Helpful metrics** | - New app downloads<br>- User segmentation (growth across age) |
 | **How it informs decision-making** | TBD |
 </details>
 
@@ -327,7 +327,7 @@ Overall platform health can be measured by the platform's speed, availability, r
 |**Retention** |   |
 |--------------|-------------|
 | **Definition** | TBD |
-| **Helpful metrics** | -TBD<br>-TBD<br>-TBD<br> |
+| **Helpful metrics** | - Monthly active users<br>- Churn rate (over month, year)<br>- Session length<br>- % of users updating app |
 | **How it informs decision-making** | TBD |
 </details>
 
