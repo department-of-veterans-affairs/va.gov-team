@@ -4,6 +4,6 @@ description: "A system to help you write, design, and build digital services on 
 team: design-forms-system
 urls:
   production: "https://design.va.gov"
-analytics:
+measurement:
   metrics_dashboard: "https://design.va.gov/about/metrics/"
 status: "active"

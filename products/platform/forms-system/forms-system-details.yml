@@ -4,6 +4,6 @@ description: "A system of common patterns found in forms."
 team: design-forms-system
 urls:
   production: "https://design.va.gov"
-analytics:
+measurement:
   metrics_dashboard: "https://design.va.gov/about/metrics/"
 status: "active"
