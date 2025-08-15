@@ -250,9 +250,9 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 
 ## Platform metrics
 
-**Platform metrics** center around the performance, stability, and operational health of the underlying platform or system that delivers the experience. They are **system-centered** and measured from the technical perspective. 
-- Reflect uptime, speed, scalability, and reliability
-- Usually quantitative and diagnostic
+**Platform metrics** center around the performance, stability, and operational health of the underlying platform or system that delivers the experience. These metrics are:
+- **system-centered** and measured from the technical perspective, and usually quantitative and diagnostic
+- Intended to capture **a pulse of how users feel about the overall app**. 
 
 ### How should we define "the overall health" of the Mobile Platform? 
 *"I want an application that is fast, stable, and accurately supports my needs as a Veteran."* 
@@ -266,7 +266,7 @@ Overall platform health can be measured by the platform's speed, availability, r
 |--------------|-------------|
 | **Definition** | How quickly an app loads, responds to user input, and handles various tasks, data availability based on API |
 | **Helpful metrics** | - Page load times<br>- API latency or down times<br>- % of errors within X period of time |
-| **How it informs decision-making** | TBD |
+| **How it informs decision-making** | Understand how responsive the app is, to prioritize giving users a responsive experience.  |
 
 </details>
 
@@ -275,9 +275,9 @@ Overall platform health can be measured by the platform's speed, availability, r
 
 |**Availability** |   |
 |--------------|-------------|
-| **Definition** | TBD |
-| **Helpful metrics** | - Application uptime<br>- Connectectiivty/off-line usage<br>- Crash rate<br>- Access/stability in low-connectively environments<br>- Qualitiative sentiment analysis of performance complaints<br>- Offline usage<br>- Error messaging |
-| **How it informs decision-making** | TBD |
+| **Definition** | The extent to which the app is accessible and operational, working as expected and fulfilling user requests |
+| **Helpful metrics** | - Application uptime<br>- Connectectivity/off-line usage<br>- Crash rate<br>- Access/stability in low-connectivity environments<br>- Qualitiative sentiment analysis of performance complaints<br>- Offline usage<br>- Error messaging |
+| **How it informs decision-making** | Understand how often users are experiencing a working app, and what the app experience is for users in low-connectivity environments |
 
 </details>
 
@@ -286,9 +286,9 @@ Overall platform health can be measured by the platform's speed, availability, r
  
 |**Reliability** |   |
 |--------------|-------------|
-| **Definition** | TBD |
+| **Definition** | How the app and the VA Mobile API performs its intended functions without failure |
 | **Helpful metrics** | - Error rates from VA Mobile API middleware<br>- Error rates for experience APIs<br>- Change failure rate (CFR)<br>- Mean Time to Detect (MTTD)<br>- Mean Time to Repair (MTTR) |
-| **How it informs decision-making** | TBD |
+| **How it informs decision-making** | Understand how the VA Mobile API and the platforms ability to identify associated data issues, to avoid impacts to the user experience and to collaborate closely with feature/experience teams to ensure a consistent experience.  |
 </details>
 
 <details>
@@ -296,9 +296,9 @@ Overall platform health can be measured by the platform's speed, availability, r
  
 |**Consistency** |   |
 |--------------|-------------|
-| **Definition** | Veteran information returned correctly |
+| **Definition** | The app shows users the correct, up-to-date information that matches their expectations across other VA channels |
 | **Helpful metrics** | - Data parity with web |
-| **How it informs decision-making** | TBD |
+| **How it informs decision-making** | Ensuring the application matches va.gov functionality, as new features are added to the VAHB app |
 </details>
 
 <details>
@@ -316,9 +316,9 @@ Overall platform health can be measured by the platform's speed, availability, r
  
 |**Adoption** |   |
 |--------------|-------------|
-| **Definition** | TBD |
-| **Helpful metrics** | - New app downloads<br>- User segmentation (growth across age) |
-| **How it informs decision-making** | TBD |
+| **Definition** | New users onboarding to the app |
+| **Helpful metrics** | - New app downloads<br>- User segmentation |
+| **How it informs decision-making** | Understand the overall growth of the app in capturing new users |
 </details>
 
 <details>
@@ -326,9 +326,9 @@ Overall platform health can be measured by the platform's speed, availability, r
  
 |**Retention** |   |
 |--------------|-------------|
-| **Definition** | TBD |
+| **Definition** | Users using the app over time |
 | **Helpful metrics** | - Monthly active users<br>- Churn rate (over month, year)<br>- Session length<br>- % of users updating app |
-| **How it informs decision-making** | TBD |
+| **How it informs decision-making** | Understand the ability of the app to generate usage over time, and be a consistent solution to meeting the needs of Veterans. |
 </details>
 
 ### Unhelpful platform metrics
