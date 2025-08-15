@@ -8,7 +8,8 @@ _Last updated: 2025-07-14_
 - [ADR 004: Consistent popover styles](#adr-004-consistent-popover-styles)
 - [ADR 005: Focus styles](#adr-005-focus-styles)
 - [ADR 006: Limiting tabs to 3 or less](#adr-006-limiting-tabs-to-3-or-less)
-- [ADR 007: Adding horizontal scrolling for tab overflow](#adr-007-Adding-horizontal-scrolling-for-overflow)
+- [ADR 007: Adding horizontal scrolling for tab overflow](#adr-007-Adding-horizontal-scrolling-for-tab-overflow)
+- [ADR 008: Switching from URL navigation to on-page navigation](#adr-008-Switching-from-URL-navigation-to-on-page-navigation)
 
 ---
 
