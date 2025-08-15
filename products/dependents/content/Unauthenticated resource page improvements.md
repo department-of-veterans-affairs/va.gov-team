@@ -1,6 +1,6 @@
-# Unauthenticated resource page improvements for dependents management
+# 2025-08 Unauthenticated resource page improvements for dependents management
 
-This effort identifies gaps and opportunities within publicly accessible pages on VA.gov for information related to managing dependents on VA benefits. The audit will assess content accuracy, completeness, findability, and user experience for veterans, family members, and veteran service organizations seeking to navigate dependent management processes.
+In support of the dependent management team's [initiative to improve on-ramps to dependents management tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/Initiative%20Brief%3A%20Improve%20On-Ramps%20to%20Dependents%20Management.md), the purpose of this exploration is to identifies gaps and opportunities within unauthenticated resource pages on VA.gov for information related to managing dependents on VA benefits. 
 
 Scope
 -----
