@@ -24,17 +24,21 @@ _Test a small Veteran population to ensure any obvious bugs/edge cases are found
 
 #### Planning
 
-- Length of time: 1-2 days (August 13 or 14)
+- Length of time: 1-2 days (August 14)
 - Percentage of Users: 25%
 
 #### Results
 
-- Number of unique users:
+- Number of unique users: 2,921
 - Metrics at this stage (per your "success criteria"):
-  - [ ] DataDog errors < 5% (and consistent with what is being reported for the old page)
-- Was any downstream service affected by the change?:
+  - [x] DataDog errors < 5% (and consistent with what is being reported for the old page)
+- Was any downstream service affected by the change?: No
 - Types of errors logged:
+    - Download: 6 `500`s, 3 `422`s, 1 `401`
+    - Index: 10 `401`s, 5 `500`s, 2 `422`s
+    - Beneficiary: 2 `500`s, 1 `422`
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?
+    - So far, no issues or changes have been identified
 
 ### Stage B: 50% of users
 
@@ -42,7 +46,7 @@ _Test a larger user population to ensure larger usage patterns expose no issues.
 
 #### Planning
 
-- Length of time: 1-2 days (August 14 or 15; likely holding at 50% over the weekend)
+- Length of time: 1-2 days (August 15; holding at 50% over the weekend)
 - Percentage of Users: 50%
 
 #### Results
