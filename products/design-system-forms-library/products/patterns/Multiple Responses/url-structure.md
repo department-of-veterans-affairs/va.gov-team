@@ -10,22 +10,22 @@ We include a folder-like path segment that holds the array index for the current
 
 `/<form-root>/<section>/<array-name>/<index>/<question-slug>`
 
-- `<index>` is zero-based: the first item is /0/, the second is /1/, and so on. This mirrors how arrays are numbered in code and keeps routing logic simple and predictable.
+- `<index>` is zero-based: the first item is `/0/`, the second is `/1/`, and so on. This matches how arrays work in code. It keeps routing logic simple and predictable..
 Example:
     - `/app-name/dependents/0/name` → first dependent
     - `/app-name/dependents/1/name` → second dependent
 
-This structure lets the app deep-link to any item’s questions and simplifies “Back/Next” behavior within the loop. It also aligns with our “ask for multiple responses” pattern guidance, which gathers the same fields for each item. However, it currently goes against VA's [URL standards](https://design.va.gov/ia/url-standards/) in that two empty directories are created, one for the `array-name` and one for the `index`
+This structure lets the form deep-link to any item's questions. It also simplifies 'Back/Next' behavior within the loop. It also aligns with our “ask for multiple responses” pattern guidance, which gathers the same fields for each item. However, this currently goes against VA's [URL standards](https://design.va.gov/ia/url-standards/) in that two empty directories are created: one for the `array-name` and one for the `index`.
 
 **Note for content/UI:** When showing labels to users refer to the arrays as the `itemName` for example, "Edit John Smith's information" instead of "Edit Dependent 1's information". 
 
 
 ## Why zero-based in the URL?
-- **Matches data structures:** form data is stored as arrays where items are 0, 1, 2….
-- **Reduces off-by-one bugs:** routes, validators, and UI state all point to the same index.
+- **Matches data structures:** The system stores form data as arrays. Items are numbered 0, 1, 2….
+- **Reduces off-by-one bugs:** Routes, validators, and UI state all point to the same index.
 - **Easier deep links and error recovery:** a validation error can link directly to /…/2/… without translation.
 
-## Examples
+## URL structure examples
 
 ### Collecting multiple employers
 ```
@@ -56,10 +56,11 @@ This structure lets the app deep-link to any item’s questions and simplifies �
 - Don’t renumber indices in the URL when items are re-ordered in the UI; treat the index as the item’s position in the current array at render time.
 - Don't refer to the arrays as `<array-name> 1` in visual presentation. 
 
-### Edge cases & tips
-- **Insertions and deletions:** If a user deletes item 1, the remaining items will shift (2 becomes 1). That’s expected—routes always reflect the current state of the array. If you need stable IDs for analytics, store a separate per-item UUID in data; keep the URL index for navigation.
+### Edge cases and tips
+- **Insertions and deletions:** If a user deletes item 1, the remaining items will shift (2 becomes 1). That’s expected—routes always reflect the current state of the array. If you need stable IDs for analytics, store a separate per-item UUID in data. Keep the URL index for navigation.
 - **Validation links:** Error summaries should link straight to the indexed route (for example, the second dependent’s name error links to /…/dependent/1/name), which takes users to the correct screen for that item in the loop.
 - **Accessibility notes:** Because every looped screen is a normal single-response screen, follow the standard single-response accessibility guidance (clear page heading, field labeling, focus management). The pattern simply repeats those screens for each array index. 
+
 
 ## Related guidance
 - [Multiple responses pattern (when and how to use it)](https://design.va.gov/patterns/ask-users-for/multiple-responses)
