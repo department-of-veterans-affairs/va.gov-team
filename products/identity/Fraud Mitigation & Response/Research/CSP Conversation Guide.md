@@ -15,11 +15,12 @@
 - [ what context should we share with them? ]
 
 ---
-### FIRST CONTACT
+### INITIAL MEETING
 1. "How are they handling fraud related incidents?  What is their current fraud strategy as it relates to the VA?"
 2. "What are they monitoring, tracking, etc.?"
 3. "Who are they collaborating with?  What communications channels are they leveraging?  How do they escalate incidents?"
 4. "What patterns are they seeing?"
+5. "What documentation can they share?"
 
 ---
 ### POTENTIAL FUTURE QUESTIONS
