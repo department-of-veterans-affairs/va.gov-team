@@ -8,10 +8,11 @@ Gretchen Maciolek gretchen.maciolek@adhocteam.us
 
 #### Table of Contents
 - [Overview](#Overview)
-- Scope
-- Relevant resources
-- Information needs assessment
-- Summary of recommendations
+- [Scope](#Scope)
+- [Relevant resources](#Relevant-resources)
+- [Information needs assessment](#Information-needs-assessment)
+- [Summary of recommendations](#Summary-of-recommendations)
+- [Implementation priority recommendation](#Implementation-priority-recommendation)
 
 Overview
 -----
@@ -93,7 +94,6 @@ Summary of recommendations
 ----------------------
   
 ### Manage dependents resource page 
-Link to page: [Review or change dependents for disability, pension, or DIC benefits](https://www.va.gov/view-change-dependents))
 
 #### Issue: Information overload and poor content hierarchy
 
@@ -111,31 +111,37 @@ Consider the following ideas:
 The page focuses heavily on procedural "what" and "how" information but fails to explain the "why" - specifically, what life changes trigger the need for dependent updates and what happens if changes aren't reported.
 
 Recommendation: Add motivational and contextual content
+
 Consider the following ideas:
 -   Open the page with clear messaging about the importance of maintaining accurate dependent information to ensure correct benefit payments and avoid overpayment debt
 -   Include common life change scenarios that require dependent updates (marriage, divorce, birth, death, changes in school enrollment, etc.)
 -   Explain consequences of delayed or missing updates, including the risk of overpayments and VA debt
+
+#### Reference links
+[Review or change dependents for disability, pension, or DIC benefits](https://www.va.gov/view-change-dependents)) resource page on VA.gov
 
 #### Detailed recommendations
 - [Additional notes on the Review or change dependents for disability, pension, or DIC benefits page](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1753816606740/b9bd04cec1e87c8568709e31977a92826f3496ad?wid=0-1753912608963)
 - [Suggested resource page IA changes](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1753816606740/b9bd04cec1e87c8568709e31977a92826f3496ad?wid=0-1754497802836)
 
 ### Benefit Program Resource Pages
-Links to current resource pages: 
-- [Disability ](https://www.va.gov/disability/)
-- [Pension](https://www.va.gov/pension/)
-- [DIC](https://www.va.gov/family-and-caregiver-benefits/survivor-compensation/)
 
 #### Issue: Hidden dependent management guidance
-
 Within disability, pension, and DIC program pages, information about adding dependents is either missing or buried within general benefit management content. New disability claimants may not realize that adding dependents requires separate action after initial benefit approval.
 
 Recommendation: Integrate dependent information into benefit program flows
+
 Consider the following ideas:
 -   Add dependent eligibility and processes to the disability and pension"eligibility" section and "how to apply" sections (DIC page structure is different and doesn't include a separate eligibility page)
 -   Consider how best to incorporate program-specific guidance (e.g., disability benefits require 30% rating before dependents can be added) (e.g., in a separate "Adding dependents to your [benefit type]," incorporated in an existing page, etc.)
 -   Disability: Include dependent-related next steps on "After you file your claim" pages
 -   Disability: Move disability-specific dependent FAQs to disability hub (either as part of another page or its own page)
+
+#### Reference links
+Links to current resource pages: 
+- [Disability ](https://www.va.gov/disability/)
+- [Pension](https://www.va.gov/pension/)
+- [DIC](https://www.va.gov/family-and-caregiver-benefits/survivor-compensation/)
 
 ### Broader content strategy opportunities
 
@@ -145,6 +151,7 @@ Consider the following ideas:
 VA.gov lacks comprehensive information about reporting life changes that affect benefits. Dependent updates represent just one category of required reporting, but information is scattered across multiple pages without clear connection to the broader concept of change reporting responsibilities.
 
 Recommendation: Develop unified change reporting content strategy
+
 Consider the following ideas:
 -   Create a "Reporting changes to VA" resource page that covers all types of changes (dependents, income, address, employment, etc.)
 -   Position dependent management as one component of broader change reporting responsibilities
@@ -155,6 +162,7 @@ Consider the following ideas:
 While VA.gov includes debt management information, it lacks proactive content about overpayment prevention, early recognition, and initial response steps.
 
 Recommendation: Expand overpayment-related content
+
 Consider the following ideas:
 -   Create dedicated overpayment resource page covering prevention, identification, and initial response
 -   Include information about voluntary reporting of suspected overpayments
