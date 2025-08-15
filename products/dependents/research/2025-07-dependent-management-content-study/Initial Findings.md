@@ -38,9 +38,80 @@ These findings are an analysis of the answers participants gave to pre-study, pr
 #### What causes you to view the dependents on your disability benefit on VA.gov? 
 - 18 of the 19 participants had viewed their dependents on VA.gov, 1 mentioned both checking and benefits
 - 14	said to check or verify the information
-- 4	 mention benefits and benefits other than disability compensation
-- 1	 said the DV letter
+- 4 mention benefits and benefits other than disability compensation
+- 1 said the DV letter
 
+
+### Prototype questions
+
+#### Your VA dependents page: After looking at this page what would you do next, if anything?
+
+##### Design A
+- Responses focused on making necessary changes
+- Responses also focused on making sure information was accurate
+- Verification was not mentioned
+     - One person did write: "I would verify the information as correct."
+
+##### Design B
+- Responses focused on making necessary changes
+- Verification was not mentioned
+
+#### Your VA dependents page: When or how often would you expect to see the alert at the top of the page?
+
+##### Design A
+- About half of participants said they didn't see, remember, or read the alert
+- The next most common response was when they needed to be notified of something
+
+##### Design B
+- Responses varied and included once a year, everytime they went to the page, and whenever they needed to be notified of something
+
+#### Your VA dependents page: Is there any additional information you would like to see about your dependents to help you take the next step? If so, what?
+
+##### Design A
+- Most participants said no
+
+##### Design B
+- Most participants said no
+
+#### Review your personal information page: Would you like to review this information?
+
+##### Design A
+- Responses were split between yes and no
+
+##### Design B
+- Responses were split but leaned towards yes
+
+#### Review your personal information page: If you needed to make a change to this information what would you do?
+
+##### Design A
+- Responses were split between contacting VA and using the current form flow
+
+#### Design B
+- Responses varied but generally involved reaching out to VA
+
+#### Confirm the contact information we have on file for you page: Would you like to review this information?
+
+##### Design A
+- Responses were primarily Yes
+
+##### Design B
+- Responses were split but leaned towards No
+
+#### Confirm the contact information we have on file for you page: If you made a change to this information would you expect it to update across VA.gov?
+
+##### Design A
+- Everyone said yes, one person mentioned that the content said that this would not happen
+
+##### Design B
+- Everyone said they would like this, one person mentioned reading that the changes must be made in your profile.
+
+#### Confirm the contact information we have on file for you page: If you left and came back to VA.gov, where would you expect to find information about about the additional forms to complete to finish updating your dependents?
+
+##### Design A
+- Responses were primarily either with the dependents information or as a notification on VA.gov
+
+##### Design B
+- Responses were primarily either in their profile or with the dependents information
 
 ### Post-study questions
 
