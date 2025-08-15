@@ -345,7 +345,7 @@ The team used scenario based testing of the 0969 form as a standalone experience
 [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pension/21P-0969-product-outline.md)
 [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pension/research/2025%2004%20Pension%20Exploratory%20Research/research-plan.md)
 [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/pension/research/2025%2004%20Pension%20Exploratory%20Research/conversation-guide.md)
-[Interview transcripts]([link here](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared%20Documents/0%20-%20Benefits%20Portfolio%20-%20General/Research%20Recordings%20-%20Veteran-Staff-VSO/2025-07%200969%20Usability%20Study%20to%20Digitize%20Form?csf=1&web=1&e=fPL3k6))
+[Interview transcripts](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared%20Documents/0%20-%20Benefits%20Portfolio%20-%20General/Research%20Recordings%20-%20Veteran-Staff-VSO/2025-07%200969%20Usability%20Study%20to%20Digitize%20Form?csf=1&web=1&e=fPL3k6)
 
 
 ## Tools used for Synthesis
