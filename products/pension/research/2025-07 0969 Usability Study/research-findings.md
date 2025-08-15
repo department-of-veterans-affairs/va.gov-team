@@ -197,7 +197,9 @@ We asked participants to rate the level of effort needed to complete the form wi
 
 - _“I would rate it a 2. Overall it was pretty easy. It might take a few steps… a little time. But this is all information you should know.” (P10)_
 - _“I would go back to my 2 or 3. There is a little tweak here or there, but the steps itself would be a 1.” (P7)_
+
 It is important to note that 1 Veteran rated level of effort between 4 and 5; expressing  difficulty with the amount of information requested. Some also shared that while it was easy for them to complete the form, it might prove more difficult for particularly complicated financial circumstances or for Veterans with cognitive difficulties. To validate further, these factors may be worth considering in future research planning and recruitment. 
+
 - _“It’s a 4 or 5. You are really asking for a lot. I mean phew. You have to be a really organized type person with a filing cabinet to get all these things together. Maybe if you had all this [a business, investments, other valuable assets] you would just have [the information available] but I’m not sure on that.” (P4)_
 - _“I’d rate it a 2. But there’s probably people who might have a hard time… I’m thinking of friends with traumatic brain injury. They’d actually need to go to the Veterans group for help. But overall it’s a great form.” (P8)_ 
 - _“Based on the information you gave me it’d be a 1, low effort. But I could imagine it might get a bit complicated if you had a lot of things to report on. Like annuities, big business, and such.” (P3)_
