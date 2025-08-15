@@ -7,16 +7,21 @@ _Leave blank until incident is resolved, then summarize the issue and its resolu
 - Make a datadog monitor specifically for catching issue like this in mobile.
 - Add error handling in the appointment service to log errors that capture the 403
 - Investigate if there is a way to check `is a Veteran` on mobile before allowing travel-pay related actions
+- Implement `is a Veteran` check on mobile
 
 ## Timeline
 1. Rachal Cassidy reached out in the #beneficiary-travel-team channel alerting us that in the past 3 days, she's seen a more-than-normal issue
 2. Notified stakeholders and partners using the incident repsonse plan v2.
 3. Collabed with Josh Patterson and traced it down to 403s from assumed non-Veterans trying to submit claims.
 4. Lined up timing of uptick in errors with mobile release on 8/12
-<img width="1534" height="140" alt="image" src="https://github.com/user-attachments/assets/40c5636f-ca9d-4be1-9950-c2724618a6d7" />
 5. Liz and Josh pointed out that users should not be able to get to the point of submission because all routes should return a 403 if a non-Veteran.
 6. Veteran data being stale is an ongoing issue and Josh mentioned it is stale because the logic for IDing a Veteran in BTSSS changed
 7. We talked about the fact that MHV has `is a Veteran`-gating, but it's hard to make that `is-a-Veteran` determination on mobile, which may contribute to the higher errors on mobile than on web
+
+### Mobile release timing lines up with uptick in errors
+<img width="1534" height="140" alt="image" src="https://github.com/user-attachments/assets/40c5636f-ca9d-4be1-9950-c2724618a6d7" />
+It is feasible that we see an uptick in errors because mobile users have to intentionally update the application. If enough word got out about the ease of submitting travel pay on mobile, it could
+cause more Users to update to get the latest features. This increase in app users could cause an increase in the number of users who have stale Veteran status in BTSSS and experience errors.
 
 ## Investigation Log
 _Use this section to keep a log of the debugging avenues you went down. Be detailed in this section._
@@ -43,3 +48,4 @@ _Use this section to keep a log of the debugging avenues you went down. Be detai
   * I clicked on the trace tab
   * I found the erroring `GET` call in the flame graph
   * I viewed the trace in APM to verify that it was **also getting a 403**
+* Liz looked into it and found we _do not_ do an `is a Veteran` check on Mobile
