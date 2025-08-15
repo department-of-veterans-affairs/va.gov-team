@@ -3,10 +3,10 @@ These documents are intended to provide the best possible context for an enginee
 I'm going to do my best to provide context posthumously 🤞
 
 ### Useful Starting Points
-- [Backend Engineer Responsibilities](./guides-and-howtos/back-end-responsibilities.md)
-- [Getting access to critical tools](./onboarding/up-and-running.md)
-- [team-contacts](./onboarding/team-contacts.md)
-- [FAQ](./onboarding/FAQ.md)
+- [Backend Engineer Responsibilities](../guides-and-howtos/back-end-responsibilities.md)
+- [Getting access to critical tools](./up-and-running.md)
+- [team-contacts](./team-contacts.md)
+- [FAQ](./FAQ.md)
 
 
 ---

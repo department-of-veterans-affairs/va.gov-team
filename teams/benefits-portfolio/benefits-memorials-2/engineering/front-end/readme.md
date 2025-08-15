@@ -4,7 +4,7 @@
 | Old Location                                      | New Location                                                     | Notes                                                       |
 |--------------------------------------------------|------------------------------------------------------------------|-------------------------------------------------------------|
 | `/Tools/SetFormData.md`                 | [tools-and-code/crawlers/set-form-data.md](./tools-and-code/crawlers/set-form-data.md)  | Tools grouped into `tools-and-code` subdirectories          |
-| `/hooks/useDetectFieldChanges.md`        | [tools-and-code/hooks/useDetectFieldChanges.md](./tools-and-code/hooks/useDetectFieldChanges.md) | Hooks organized under `tools-and-code/hooks`               |
+| `/hooks/useDetectFieldChanges.md`        | [tools-and-code/fsr/hooks/useDetectFieldChanges.md](./tools-and-code/fsr/hooks/useDetectFieldChanges.md) | Hooks organized under `tools-and-code/hooks`               |
 | `/other/andrews-perfect-world.md`        | [guides-and-howtos/andrews-perfect-world.md](./guides-and-howtos/andrews-perfect-world.md)     | General guides moved under `guides-and-howtos`             |
 | `/FSR Urls and Pages CSV.csv`            | [reference/fsr-urls-and-pages.csv](./reference/fsr-urls-and-pages.csv)                        | Reference materials consolidated into `reference/`          |
 | `/GMT yearly update.md`                  | [features/gmt-yearly-update.md](./features/gmt-yearly-update.md)                                | Feature-specific docs moved to `features/`                  |
@@ -16,7 +16,7 @@
 | `/honeydew.md`                           | [architecture/honey-dew.md](./architecture/honey-dew.md)                                         | Architectural doc renamed and moved under `architecture/`   |
 | `/howto-local-gmt-db-update.md`          | [getting-started/howto-local-gmt-db-update.md](./getting-started/howto-local-gmt-db-update.md)  | Onboarding steps organized under `getting-started/`         |
 | `/local-setup.md`                        | [getting-started/local-setup.md](./getting-started/local-setup.md)                              | Setup docs now live under `getting-started/`                |
-| `/noteable-changes.md`                   | [features/noteable-changes.md](./features/noteable-changes.md)                                  | Relevant changes doc moved to `features/`                   |
+| `/noteable-changes.md`                   | [guides-and-howtos/noteable-changes.md](./guides-and-howtos/noteable-changes.md)                                  | Relevant changes doc moved to `features/`                   |
 | `/the-wrong-way.md`                      | [guides-and-howtos/the-wrong-way.md](./guides-and-howtos/the-wrong-way.md)                      | General how-to docs grouped under `guides-and-howtos/`      |
 | `/readme.md`                             | [readme.md](./readme.md)                                                                         | The README stays at the root level                          |
 

@@ -1,5 +1,5 @@
 # Staging & Prod console
-Want to run queries on staging/prod? See our [Argo documentation](../argo.md).
+Want to run queries on staging/prod? See our [Argo documentation](../operations-and-monitoring/argo.md).
 
 ## Get copays for a given User UUID
 ```ruby
@@ -71,7 +71,7 @@ end
 ```
 #### Explanation
 At time of writing vets-api has a data structure called `User` which only exists as long as the user's session on VA.gov (`Users` do have persistent UUIDs though) Since most of our services take `Users` as input, troubleshooting can get tricky. The above scripts demonstrate how to source a user's mpi profile and then edit that profile to behave like a user for the sake of services that take User as input. Check `request_data.to_hash` to see what info is actually derived from mpi_profile. It just needs edipi and vha_facility_ids.
-See our [user relational structure](../user-relational-structure.md) documentation for details.
+See our [user relational structure](../architecture/user-relational-structure.md) documentation for details.
 
 ## MISC.
 ```
