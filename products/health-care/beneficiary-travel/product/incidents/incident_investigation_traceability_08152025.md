@@ -10,8 +10,11 @@ _Leave blank until incident is resolved, then summarize the issue and its resolu
 1. Rachal Cassidy reached out in the #beneficiary-travel-team channel alerting us that in the past 3 days, she's seen a more-than-normal issue
 2. Notified stakeholders and partners using the incident repsonse plan v2.
 3. Collabed with Josh Patterson and traced it down to 403s from assumed non-Veterans trying to submit claims.
+4. Lined up timing of uptick in errors with mobile release on 8/12
+<img width="1534" height="140" alt="image" src="https://github.com/user-attachments/assets/40c5636f-ca9d-4be1-9950-c2724618a6d7" />
 
-## Debugging Details
+
+## Investigatoin Log
 _Use this section to keep a log of the debugging avenues you went down. Be detailed in this section._
 
 * I first validated that the problem Rachal was seeing was actually an issue and not a fluke.
