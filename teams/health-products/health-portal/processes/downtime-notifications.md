@@ -6,15 +6,15 @@ Teams will be agile with our process - iterating and refining as we use it and g
 
 ## Planned Downtime
 
-There may be instances where a user-facing impact can be anticipated due to planned activities.
+Use the following guidance for instances where a user-facing impact is anticipated due to planned activities.
 
-Include the following information in messaging:
+**What to include in messaging information:**
 - Downtime Reason
 - Anticipated User Impact [number of users, services (e.g. medications)]
 - Planned Downtime Timeframe
 - Rollback Plan
 
-Notifications should go out:
+**When to time notifications:**
 - As soon as the team starts planning for the downtime
 - Day before the downtime
 - When the downtime has concluded
@@ -60,15 +60,15 @@ Many MHV user-facing products are part of the VA.gov/VAHB Platform ecosystem and
 - The respective user-facing team product manager or engineering manager will evaluate potential MHV impact
 - If a MHV-specific impact is determined, team will work with OCTO POs on path forward for communication based on the use case
 
-Note-Contact Center/Veteran Support does not need to be notified for planned downtimes.
+Note:  Contact Center/Veteran Support does not need to be notified for planned downtimes.
 
-^: the Communication Owner will be a product manager or engineering manager for the respective user-facing application
+^:  the Communication Owner will be a product manager or engineering manager for the respective user-facing application
 
 ## Incident Response
 
 When an incident response is initiated, teams will follow their respective procedures (linked in details below).
 
-Include the following information in messaging as best as possible:
+**Include the following information in messaging as best as possible:**
 - Issue/Outage Summary
 - Estimated User Impact [number of users, services (e.g. medications)]
 - Incident Start Time
@@ -77,7 +77,7 @@ Include the following information in messaging as best as possible:
 If team is notified of or identifies an issue:
 - Follow steps in VA Enterprise Incident Response Plan (link TBD)
   - Detection, Notification and Analysis
-    - Upon detection of incident, notify core MHV IR team via slack channel[#mhv-health-portal-coordination](https://dsva.slack.com/archives/C04DRS3L9NV) and tag:
+    - Upon detection of incident, notify core MHV IR team via slack channel [#mhv-health-portal-coordination](https://dsva.slack.com/archives/C04DRS3L9NV) and tag:
       - MHV User-facing team on-call (Slack user group TBD)
       - MHV User-facing team product managers (`@mhv-vagov-product` group) and Horizon team (`@mhv-vagov-horizon` group)
       - MHV System Owner
