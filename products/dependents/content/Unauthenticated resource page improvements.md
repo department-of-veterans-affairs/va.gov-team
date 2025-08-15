@@ -1,8 +1,24 @@
 # 2025-08 Unauthenticated resource page improvements for dependents management
 
+**Office of the CTO - Digital Experience (OCTO-DE), Dependent Verification, Dependents Experience**
+
+Date: 08/2025
+
+Gretchen Maciolek gretchen.maciolek@adhocteam.us
+
+#### Table of Contents
+- [Overview](#Overview)
+- Scope
+- Relevant resources
+- Information needs assessment
+- Summary of recommendations
+
+Overview
+-----
+
 In support of the dependent management team's [initiative to improve on-ramps to dependents management tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/Initiative%20Brief%3A%20Improve%20On-Ramps%20to%20Dependents%20Management.md), the purpose of this exploration is to identifies gaps and opportunities within unauthenticated resource pages on VA.gov for information related to managing dependents on VA benefits. 
 
-Dependent management topics included in this 
+Dependent management topics covered: 
 
 -   Adding dependents to VA benefits (during initial claims, after benefit decisions, or due to life changes)
 -   Removing dependents from existing benefits
@@ -11,10 +27,35 @@ Dependent management topics included in this
 
 The exploration will identify opportunities to improve user experience by ensuring Veterans and their families can successfully locate, understand, and act on dependent management information without requiring authenticated access or direct VA contact.
 
+Relevant VA.gov resource pages:
+- [Review or change dependents for disability, pension, or DIC benefits](https://www.va.gov/view-change-dependents) 
+- [VA disability compensation](https://www.va.gov/disability/) (and child pages)
+- [VA Pension benefits](https://www.va.gov/pension/) (and child pages)
+- [Survivors Pension and DIC](https://www.va.gov/family-and-caregiver-benefits/survivor-compensation/)
+
+Relevant VA forms:
+- [Add or remove dependents on VA benefits](https://www.va.gov/view-change-dependents/add-remove-form-21-686c/) (VA Form 21-686c)
+- [Add a depednent parent](https://www.va.gov/find-forms/about-form-21p-509) (VA Form 21P-509)
+- [Mandatory Verification of Dependents](https://www.va.gov/find-forms/about-form-21-0538/) (VA Form 21-0538)
+
+
 Scope
 -----
 
-This exploration covers dependent management content across disability, pension, and DIC. Not inlcuded: content that can only be accessed after signing in, content on form "About pages" in the Forms library, form intro pages.
+This exploration covers dependent management content across disability, pension, and DIC. 
+Not inlcuded: 
+- content that can only be accessed after signing in
+- content on form "About pages" in the Forms library
+- content on form intro pages
+- VA.gov homepage or navigation menus
+
+Relevant resources
+---------------
+
+- MURAL (link coming soon)
+- [IA discovery and recommendations from a previous team](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709582312238/ae3de21fd188beba8c28668ee37a31841c6203bf) (MURAL link)
+
+---
 
 Information needs assessment
 ----------------------------
@@ -57,13 +98,7 @@ To effectively manage dependents on VA benefits, claimants and beneficiaries req
 -   Resources for special circumstances
 
 
-
-Relevant resources
----------------
-
-- MURAL (link coming soon)
-- [IA discovery and recommendations from a previous team](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1709582312238/ae3de21fd188beba8c28668ee37a31841c6203bf) (MURAL link)
-
+---
 
 Summary of recommendations
 ----------------------
