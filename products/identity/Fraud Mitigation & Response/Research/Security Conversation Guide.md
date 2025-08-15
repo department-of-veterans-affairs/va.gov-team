@@ -16,7 +16,7 @@
 ---
 
 **Questions to Ask:**
-1. "Where do you see the boundary between platform security and fraud detection?  What about identity related fraud?"
+1. "How is the platform security team currently monitoring abnormalities in security?  What types of suspicious behaviors are currently being monitored or detected?"
 2. "What is the difference between a security incident versus an actual instance of fraud?"
 3. "What "suspicious"/fraud-related activities is your team currently monitoring, keeping an eye out for?" "What triggers escalation of suspicious access events?"
 4. "When your monitors, triggers alert to suspicious behavior, how do you coordinate with other teams to address these incidents?"
