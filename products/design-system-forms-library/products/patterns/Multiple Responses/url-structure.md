@@ -17,8 +17,8 @@ Example:
 
 This structure lets the app deep-link to any item’s questions and simplifies “Back/Next” behavior within the loop. It also aligns with our “ask for multiple responses” pattern guidance, which gathers the same fields for each item. 
 
-Note for content/UI: When showing labels to users (“Dependent 1,” “Dependent 2”), follow the public-facing <a href="https://design.va.gov/ia/url-standards/">URL standards</a> guidance to number from 1 in user-visible text. The URL path can remain zero-based for technical reasons. 
-design.va.gov
+**Note for content/UI:** When showing labels to users refer to the arrays as the `itemName` for example, "Edit John Smith's information". 
+
 
 ## Why zero-based in the URL?
 - **Matches data structures:** form data is stored as arrays where items are 0, 1, 2….
@@ -54,7 +54,7 @@ design.va.gov
 ### Don’t
 - Don’t encode the index in the question slug (e.g., avoid /dependent-two-name).
 - Don’t renumber indices in the URL when items are re-ordered in the UI; treat the index as the item’s position in the current array at render time.
-- Don't refer to the arrays as `<array-name> 1` in visual presentation. Try to refer to the arrays as the `itemName` for example, "Edit John Smith's information`
+- Don't refer to the arrays as `<array-name> 1` in visual presentation. 
 
 ### Edge cases & tips
 - **Insertions and deletions:** If a user deletes item 1, the remaining items will shift (2 becomes 1). That’s expected—routes always reflect the current state of the array. If you need stable IDs for analytics, store a separate per-item UUID in data; keep the URL index for navigation.
