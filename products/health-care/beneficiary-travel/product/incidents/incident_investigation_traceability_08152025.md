@@ -6,6 +6,7 @@ _Leave blank until incident is resolved, then summarize the issue and its resolu
 ## Action Items
 - Make a datadog monitor specifically for catching issue like this in mobile.
 - Add error handling in the appointment service to log errors that capture the 403
+- Investigate if there is a way to check `is a Veteran` on mobile before allowing travel-pay related actions
 
 ## Timeline
 1. Rachal Cassidy reached out in the #beneficiary-travel-team channel alerting us that in the past 3 days, she's seen a more-than-normal issue
