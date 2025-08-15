@@ -97,16 +97,15 @@ synthesis_tools_used:
 
 ---
 
-# [Study] Research Findings 
+# VA Form 21P-0969 Usability Study Research Findings 
 
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
+**Office of the CTO - Digital Experience (OCTO-DE), VA Form 21P-0969, Pension and Burials Team**
 
-**Date:** MM/DD/YYYY
+**Date:** 08/15/2025
 
-**Contacts:** [Researcher/Designer 1], [Researcher/Designer 2]
+**Contacts:** Chavie Cramer, Skyler Schain
 
 **[Link to Research Readout]([link-here](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Pension/0969%20Form/Research%20Plan%20for%20Digitizing%2021P-0969%20(Income%20%26%20Assets%20Statement).docx?d=wf827c07b7906403d8cf954170d0426ad&csf=1&web=1&e=fhpc0x))**  
-*Add a link to your research readout deck, if available.*
 
 **Jump to:**
 
@@ -114,96 +113,162 @@ synthesis_tools_used:
 - [Key findings](#key-findings)
 - [Recommendations](#recommendations)
 - [Product User and Business Outcomes](#product-user-and-business-outcomes)
-- [Key Performance Indicators](#key-performance-indicators)
 - [Next Steps](#next-steps)
 - [Further research needed](#further-research-needed)
 - [Who we talked to](#who-we-talked-to)
 
 
 ## Research Goals
-*Provide context for this research by explaining how it fits into the Veteran’s journey.*  
-[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)  
 
-**Guiding Questions:**  
-- What are the key moments this tool supports in the Veteran’s journey?  
-- What outcomes are we aiming to achieve for Veterans and stakeholders?  
-
-[Example Research Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-goals) 
-
-
+The goal of this usability study was to evaluate Veterans’ comprehension, decision-making, and task success across key parts of the income and asset reporting experience using VA form 21P-0969. Specifically, we aimed to:
+1. Assess initial comprehension and mental load.
+2. Evaluate interaction with the “List and Loop” design pattern for income and assets.
+3. Test clarity of labels, categorization, and task completion across steps.  
 
 ## Research Questions
 
-*List the research questions that guided this study.*  
+Assess Initial Comprehension and Mental Load
+- Do users feel overwhelmed by the introduction page content?
+- Do they read, skim, or skip the onboarding information?
+- Do they grasp what the form will ask of them before proceeding?
 
-* Question 1
-* Question 2
-* Question 3
+Evaluate Interaction with the “List and Loop” design pattern for Income and Assets
+- Do users understand they are entering individual items into a repeatable list structure?
+- Is the repeated flow of questions (e.g. asking the same details per entry) intuitive or frustrating?
+- Do users clearly understand how to add income for multiple recipients and why certain inputs (like "Spouse name") reappear?
+- Are any expected income types hard to categorize or missing altogether?
 
-[Example Research Questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-questions)
+Test Clarity of Labels, Categorization, and Task Completion Across Steps
+- Are income and asset categories labeled clearly and understood correctly?
+- Can users differentiate between property and business assets without confusion?
+- After submitting the 0969, do users know what comes next (e.g. uploading documents or returning to a different form)?
+- Are participants confident they’ve included all relevant financial information?
 
 ## Methodology 
 
-*Provide a brief description of the research methods used (e.g., usability testing, interviews).*  
-
-- Method 1: Description  
-- Method 2: Description  
-
-[Example Methodology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#methodology)
-
+We conducted 90 minute semi-structured interviews using a set of fictional scenarios and a high-fidelity prototype. 
 
 ## Hypotheses and Conclusions
 
-*List hypotheses explored in the research and the conclusions drawn. If applicable, list the success or task completion rate.*
+- **Veterans will be able to complete the 0969 form based on the scenarios provided with minimal friction.** 
+  - **Mostly True**  
+  - 6 of 7 users were able to complete the form with minimal assistance or confusion based on the existing form structure and flow.
 
-> [!TIP]
-> Place true or false statements in bold for easier scanability
+- **Up-front and conditional questions will provide an efficient way to collect data from Veterans and ease their form filling burden.** 
+  - **Mostly True**  
+  - 7 of 7 users were able to proceed through the form in a logical fashion based on the conditional questions provided. The only exception was during list and loop pattern which presented some user difficulty (see below in more detail). 
 
-- **Hypothesis Statement:** [Insert statement]  
-  - **"Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”**  
-  - Supporting evidence  
-
-[Example Hypotheses and Conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)
-
+- **Veterans will be able to understand the terms used in the form and answer all questions asked of them.** 
+  - **Mostly True**  
+  - 5 of 7 users described terminology and instructions in their own words accurately based on the information provided. 
+ 
+- **Veterans express preference for using this form over a paper version in a real-life scenario.** 
+  - **Maybe True**  
+  - 6 of 7 users shared they would prefer to submit VA forms online as it provides a more streamlined experience compared to paper, but were speaking about forms in general (rather than 0969 in particular). 
 
 ## Key Findings
 
-*Summarize the 5–10 most impactful findings from your study.* 
+**1.** When asked what level of effort was required to complete the form (1 being lowest and 5 being highest) 6 out of 7 users rated the experience between 1 to 3. This is particularly encouraging given that only 1 out of 7 described themselves as high in technical literacy.    
 
-> [!TIP] 
-> Write findings as stand-alone insights that are easy to scan. For example:  
-> - "Most participants used the search field to locate forms, often searching for 'veteran health.'"  
-> - "Participants struggled with the secondary caregiver section on the form."  
+**2.** Users were able to successfully navigate the form and progress to completion without assistance in 12 out of 14 steps.
 
-[Example Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)
+**3.** When asked to rephrase key concepts or terminology during particularly dense or complex sections of the form in their own words, 5 out of 7 users were able to do so accurately.
 
-**1.** Finding one
+**4.** 7 out of 7 users were able to identify next action steps if additional information was needed using contact information provided or personal research.
 
-**2.** Finding two
+**5.** 6 out of 7 users did not understand they needed to enter each income separately when entering list and loop, with high frustration or anxiety exhibited before first income entry. Once the first entry was completed, users expressed a strong understanding of the pattern.
 
-**3.** Finding three
+**6.** 6 out of 7 users were unclear about financial support rules based on existing content and were unable to recall the definition of a dependent without the additional info component.
 
-**4.** Finding four
+**7.** 5 out of 7 users were confused by mention of supporting “evidence” on the Introduction page, leading them to believe they had to provide additional documentation to what might be requested by the VA.
 
-**5.** Finding five
+**8.** 4 out of 7 users were confused when steps they were currently completing referenced previous steps by number rather than description.
 
-**6.** Finding six
+**9.** 6 of 7 users did not recognize or select the “Expand all” option to review information before it was submitted, leading some to experience frustration when progressing to the confirmation page.
 
-**7.** Finding seven
+**10.** 7 of 7 users desired more transparency regarding when to expect a decision for their claim.
 
 
 ## Details of Findings 
 
-*Provide detailed descriptions and supporting evidence for each key finding.*  
+**1. When asked what level of effort was required to complete the form (1 being lowest and 5 being highest) 6 out of 7 users rated the experience between 1 to 3. This is particularly encouraging given that only 1 out of 7 described themselves as high in technical literacy.**  
 
-**Finding 1:**  
-Brief description  
-- _Supporting data: Quote [add context]_  
-- _Supporting data: ![text](link - add image to github folder and link here with .png)_  
+We asked participants to rate the level of effort needed to complete the form with 1 being lowest and 5 being highest. Most shared they felt a lower level of effort would be required ranging from 1-3. 
 
-**Finding 2:**  
-Brief description  
-- _Supporting data: Quote [add context]_  
+- _“I would rate it a 2. Overall it was pretty easy. It might take a few steps… a little time. But this is all information you should know.” (P10)_
+- _“I would go back to my 2 or 3. There is a little tweak here or there, but the steps itself would be a 1.” (P7)_
+It is important to note that 1 Veteran rated level of effort between 4 and 5; expressing  difficulty with the amount of information requested. Some also shared that while it was easy for them to complete the form, it might prove more difficult for particularly complicated financial circumstances or for Veterans with cognitive difficulties. To validate further, these factors may be worth considering in future research planning and recruitment. 
+- _“It’s a 4 or 5. You are really asking for a lot. I mean phew. You have to be a really organized type person with a filing cabinet to get all these things together. Maybe if you had all this [a business, investments, other valuable assets] you would just have [the information available] but I’m not sure on that.” (P4)_
+- _“I’d rate it a 2. But there’s probably people who might have a hard time… I’m thinking of friends with traumatic brain injury. They’d actually need to go to the Veterans group for help. But overall it’s a great form.” (P8)_ 
+- _“Based on the information you gave me it’d be a 1, low effort. But I could imagine it might get a bit complicated if you had a lot of things to report on. Like annuities, big business, and such.” (P3)_
+
+**2. 7 out of 7 users were able to successfully navigate the form and progress to completion without assistance in 12 out of 14 steps.**  
+
+Users had no progress-blocking difficulties that interfered with completion of the form, and demonstrated a strong ability to navigate from section to section even if some confusion or difficulty existed (expanded on in subsequent findings). 
+
+- _All users were able to understand and provide the information requested; talking aloud as they reviewed the prototype to confirm content understanding and clicking “start,” “continue,” and “submit” without explanation or prompting._
+
+**3. When asked to rephrase key concepts or terminology during particularly dense or complex sections of the form in their own words, 5 out of 7 users were able to do so accurately.**
+
+Throughout the form, users were asked to review content and describe what was being asked or conveyed. Most were able to successfully do so. 
+
+2 of 7 users had challenges understanding terminology used, especially where limited examples or definitions were provided (e.g. annuities, trusts, etc) or they lacked a frame of reference to draw from. One example of note related to “waived income” and “deferred compensation.” Some did not understand the concept, stating they could not conceive of a situation where they would reject income they might otherwise be entitled to, especially if they were experiencing financial hardship. 
+
+- _“I don’t know what ‘deferred compensation’ is. I have never heard of it before. Why would anyone want to delay [receiving money]? I’d have to look that one up.” (P1)_
+- _“I would definitely say no [I do not have waived income to report] because it says you will be disqualified! This is the first I have heard of this.” (P4)_
+
+**4. 7 out of 7 users were able to identify next action steps if additional information was needed using contact information provided or personal research.**
+
+If clarification or additional information was needed or desired, all users felt confident about what actions they could take to find additional information. All were able to identify the VA helpline provided at the bottom of each page or that they might look online, utilizing YouTube or Google Search. Some also mentioned they would go to other trusted sources, such as a Veteran Service Officer; with 1 respondent noting the VSO lookup feature. 
+
+- _“I like how they give examples [in Step 6]. It makes it easy to understand how it applies to me… [for unfamiliar terms] I would probably need to Google what I didn’t know and maybe call if I still had questions.” (P1)_
+- _“I would have to do some research to make sure I had everything correct… the university of YouTube or Google and see what results I get.” (P7)_
+- _“It’s great you have [the VSO locator] there… that’s important I think.” (P8)_
+
+**5. 6 out of 7 users did not understand that they needed to enter each income separately when entering list and loop, with high frustration or anxiety exhibited before first income entry. Once the first entry was completed, users expressed a strong understanding of the pattern (Step 2).**
+
+Most users when starting list and loop did not recognize that they needed to enter each source individually. Instead they tried to multi-select all recipients based on the scenario shared or sought additional clarification before proceeding. In the absence of explicit instruction, users relied on previous experience filling out consumer surveys where a multi-select might be more common, or other types of form. Once the first list and loop was completed, all users understood they needed to add the second source afterward without prompting or clarification. 
+
+- _“Myself and my spouse qualify for recurring income… So I am trying to click everything that applies.” (P1)_
+- _“There’s no statement on here ‘we are going to do one first and then the other.’ A little more information is needed.” (P7)_
+- _“My wife receives income. They don’t count that as recurring? I tried to find a place to put it. I’d like to hit that ‘spouse’ and have it light up [as a multi-select].” (P8)_
+
+**6. 6 out of 7 users were unclear about financial support rules based on existing content and were unable to recall the definition without additional info component (Step 2 and Step 3).**
+
+Most users expressed confusion when reviewing the definition of a dependent. When selecting income recipients, users did not recognize instructions to forgo reporting for a child if they don’t provide financial support. Instead, they deferred to hint text that described additional conditions where you might report dependent income; such as full-time students under 23 years old. This led most users to incorrectly select “yes,” because the user thought they had to report income the child earned, even though they do not financially support them. Users were also unable to retain the definition of a dependent as they progressed through the form, utilizing the dropdown definition in real time as it was most relevant. 
+
+- _“Is there a way you could change that to just say ‘legal dependants?’ It’s a financial issue right? Maybe say ‘Do you have financial responsibility for that child?’ That might help a bit.” (P9)_
+- _“[References additional info component] They’re 18-23 and enrolled in school… So then yes I have income to report.” (P8)_
+
+**7. 5 out of 7 users were confused by mention of supporting “evidence” on the Introduction page, leading them to believe they had to provide additional documentation than what might be requested by the VA. (Introduction page and Step 12).**
+
+When reviewing the introduction page users did not understand why supporting documents were being referenced in advance. Confusion was compounded by using the term supporting “evidence” to describe what they might be asked to provide as they progressed through the form. 
+
+- _“What exactly are they looking for? Bank statement, letter from employer? What are the documents they say we need to download? What qualifies?” (P4)_
+- _“I wonder if [my] IRS form would be mentioned here… to upload another document that supports this form.” (P3)_
+- _“I’ve been denied before [applying for benefits]. I’ve just learned you need to give them everything you can to get approved.” (P1)_
+
+**8. 4 out of 7 users were confused when steps they were currently completing referenced previous steps by number rather than description. (Step 9 and Step 10).**
+
+When previous steps were referenced, users questioned what information was shared during previous steps and how it may or may not apply to the current step they were attempting to complete. 
+
+- _“This is confusing me right here… Are they still talking about irregular income? Or income from Step 1? [unable to remember what was included in Step 1]” (P1)_
+- _“Based on the scenario that would be a no. But do you want me to go back to step 6? I don’t remember anything about that.” (P10)_  
+
+**9. 6 out of 7 users did not recognize or select the “Expand all” option to review information before it was submitted, leading some to experience frustration when progressing to the confirmation page (Step 13).**
+
+When interacting with the review and submit page, users did not acknowledge the “expand all +” button at the top of the page to review the information, instead skimming the closed accordion to search for any specific alerts or instructions related to each section. 1 user expressed frustration once they progressed to the confirmation page that they had not actually been able to review the information, assuming there would be another substep before submission where the accordion would be expanded.   
+
+- _“Maybe you could put under the plus the documents you did upload [expanded by default]. That would help you be as accurate as you could be.” (P9)_
+- _“Oh wait, I didn't see that earlier [on the review and submit page]. I can’t go back and check it now? [after reaching confirmation page]” (P3)_
+- _“If I was confused about something I would use the plus sign to look at what I had put in. I guess that’s how you have to double check it.” (P10)_
+
+**10. 7 out of 7 users desired more transparency regarding when to expect a decision for their claim (Confirmation page).**
+
+Users appreciated transparency regarding how long it might take to be contacted by VA if additional action was needed, but all requested additional information about the benefit approval process. For some, they had previous experience with the VA where they had to wait extended periods of time before a decision was made. Others had applied for benefits and never received confirmation or received any communication back, prompting them to have to resubmit on their own or with assistance from others. 1 user described the lack of transparency as dismissive, which they felt undermined trust.
+
+- _“This does not tell me how long it will take for the decision process. So I guess I’d have to call them. ‘Our decision can take as long as 90 days, 120 days…’ I guess it’s like a don’t call us, we’ll call you.” (P1)_
+- _“They don’t always get back to you… It could be months and months and [like with travel pay] if you pay for something and this ends up getting denied. It could have been something we took care of another way.” (P10)_
 
 ---
 
