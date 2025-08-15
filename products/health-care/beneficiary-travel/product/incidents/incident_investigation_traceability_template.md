@@ -10,5 +10,5 @@ _Leave blank until incident is resolved_
 1. _Start with how you learned about the issue_
 2. _Each step should briefly describe what you looked into, or who you communicated with_
 
-## Debugging Details
+## Investigation Details
 _Use this section to keep a log of the debugging avenues you went down. Be detailed in this section._
