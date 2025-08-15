@@ -314,7 +314,7 @@ All users attempted to apply a specific dollar amount threshold when determining
 
 6. **Set the accordion on the Review and Submit page to expand by default based on user inputs to better facilitate required action.**
 
-7. **Provide more transparency about what to expect regarding application processing times and assist in providing a thruline back to Pension or DIC applications (as 0969 is often triggered by another application being completed.)**
+7. **Provide more transparency about what to expect regarding application processing times and assist in providing a thruline back to Pension or DIC applications (as 0969 is often connected to another application being completed.)**
 
 
 ## Product User and Business Outcomes
