@@ -97,6 +97,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
  - [X] VA COR approved the Sprint Goals (07/31/25)
  
 **_Delivery + Notes:_**
+
 - [X] All goals have been updated in the sprint chart
 - [X] Any Additional details about goals **not** completed will be documented here
 - ENG: Complete 8 points of remaining Digital Dispute work addressing the 4 remaining staging review feedback tickets.
