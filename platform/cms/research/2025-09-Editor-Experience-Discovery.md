@@ -3,11 +3,13 @@
 ## Background
 The Editorial Experience Initiative is a Platform team effort to improve the tools, workflows, and support systems for the content Editors who use the Drupal CMS to publish and maintain VA.gov content. Editors play a critical role in ensuring Veterans and their families have timely, accurate, and accessible information. However, the efficiency and quality of their work is shaped by the broader context of their role, the efficiency of their workflows, the clarity of training, and the availability of reliable support resources.
 This research will take a holistic look at Editors’ work, exploring their experience, both inside and outside of Drupal, to identify friction points, uncover unmet needs, and surface opportunities to improve their experience. By understanding the complete picture, we can make targeted improvements that reduce friction, increase efficiency, and improve Editor satisfaction.
+
 Our specific areas of inquiry include:
-Overall Role and Work Context
-CMS Use and Pain Points
-Training, Onboarding, and Learning Preferences
-Support Resources and Materials
+- Overall Role and Work Context
+- CMS Use and Pain Points
+- Training, Onboarding, and Learning Preferences
+- Support Resources and Materials
+
 By grounding improvements in evidence from Editor experiences and feedback, this research supports OCTO objectives to deliver more efficient digital tools, improve internal user satisfaction, and ultimately enhance the speed and quality of Veteran-facing content delivery.
 
 ### OCTO Objectives 
@@ -33,63 +35,75 @@ By addressing both the human and procedural aspects of the Editorial experience,
 ## Research Goals	
 What are you trying to learn from this research? 
 
-Understand the broader work context for Editors: Explore the full scope of Editors’ responsibilities, both inside and outside of Drupal, to understand how CMS work fits into their day-to-day priorities.
-Identify CMS usage patterns and pain points: Learn about Editor understanding of Drupal and which Drupal tasks are most frequent, most time-consuming, or most challenging for Editors.
-Assess training effectiveness and learning needs: Understand Editor motivations, learning styles, and preferences for training delivery. Identify opportunities to design onboarding and training experiences that are concise, memorable, and enable Editors to work confidently. Determine ways to accelerate onboarding and improve explanations of complex processes for new Editors.
-Evaluate the quality and completeness of support resources: Understand how Editors currently use or supplement available resources; identify missing, outdated, or unclear support material; and discover changes would make resources more useful for ongoing learning.
+1. Understand the broader work context for Editors: Explore the full scope of Editors’ responsibilities, both inside and outside of Drupal, to understand how CMS work fits into their day-to-day priorities.
+2. Identify CMS usage patterns and pain points: Learn about Editor understanding of Drupal and which Drupal tasks are most frequent, most time-consuming, or most challenging for Editors.
+3. Assess training effectiveness and learning needs: Understand Editor motivations, learning styles, and preferences for training delivery. Identify opportunities to design onboarding and training experiences that are concise, memorable, and enable Editors to work confidently. Determine ways to accelerate onboarding and improve explanations of complex processes for new Editors.
+4. Evaluate the quality and completeness of support resources: Understand how Editors currently use or supplement available resources; identify missing, outdated, or unclear support material; and discover changes would make resources more useful for ongoing learning.
+
 ### Outcome
 Findings from this study will provide a clear, evidence-based understanding of Editors’ roles, workflows, pain points, and learning needs. This insight will guide the Platform team in designing targeted improvements to the Drupal CMS experience, including:
-Streamlined workflows that reduce friction in high-frequency or high-difficulty tasks.
-Optimized onboarding and training that effectively explains essential tasks to Editors and enables them to work confidently and efficiently 
-Enhanced support resources that are easy to find, relevant, and effective in resolving common challenges.
+- Streamlined workflows that reduce friction in high-frequency or high-difficulty tasks.
+- Optimized onboarding and training that effectively explains essential tasks to Editors and enables them to work confidently and efficiently
+- Enhanced support resources that are easy to find, relevant, and effective in resolving common challenges.
+
 By grounding design decisions in actual Editor experiences, this research will reduce the risk of building solutions that miss critical needs, ensure that enhancements are directly aligned with real-world usage, and accelerate the path to adoption.
+
 The learnings will be used to:
-Improve the Editor experience for CMS interface and workflow improvements.
-Create and update training modules that align with Editor learning styles and establish strong fundamental Drupal skills.
-Identify and reinforce support resources for troubleshooting and collaboration.
-Inform our product roadmap for 2026 with new development goals and initiatives.
+- Improve the Editor experience for CMS interface and workflow improvements.
+- Create and update training modules that align with Editor learning styles and establish strong fundamental Drupal skills.
+- Identify and reinforce support resources for troubleshooting and collaboration.
+- Inform our product roadmap for 2026 with new development goals and initiatives.
+
 ### Research questions
 Understand the broader work context for Editors: Explore the full scope of Editors’ responsibilities, both inside and outside of Drupal, to understand how CMS work fits into their day-to-day priorities.
-Who are Editors, and what roles do they play within their teams?
-How do Editors allocate their time across CMS and non-CMS responsibilities?
-How does Drupal CMS work fit into their broader workflows and priorities?
-How much do they know about their facilities and system?
-How much do they communicate with their hospital leadership?
+- Who are Editors, and what roles do they play within their teams?
+- How do Editors allocate their time across CMS and non-CMS responsibilities?
+- How does Drupal CMS work fit into their broader workflows and priorities?
+- How much do they know about their facilities and system?
+- How much do they communicate with their hospital leadership?
+
 CMS Use and Pain Points: Learn which Drupal tasks are most frequent, most time-consuming, or most challenging for Editors.
-What do Editors think is the purpose of the Drupal CMS platform?
-How is Drupal similar or different to other web experiences?
-What are the most common tasks Editors complete in Drupal? 
-What tasks are most time-consuming or challenging?
-What would make the Drupal experience ideal?
+- What do Editors think is the purpose of the Drupal CMS platform?
+- How is Drupal similar or different to other web experiences?
+- What are the most common tasks Editors complete in Drupal? 
+- What tasks are most time-consuming or challenging?
+- What would make the Drupal experience ideal?
+
 Training, Onboarding, and Learning Preferences: Understand Editor motivations, learning styles, and preferences for training delivery. Identify opportunities to design onboarding and training experiences that are concise, memorable, and enable Editors to work confidently.Determine ways to accelerate onboarding for new Editors.
-How do Editors experience onboarding to Drupal?
-What motivates Editors to complete training?
-What motivates Editors to create high quality content?
-What would help training feel useful, relevant, or memorable?
-What additional support or resources do Editors reference during onboarding?
+- How do Editors experience onboarding to Drupal?
+- What motivates Editors to complete training?
+- What motivates Editors to create high quality content?
+- What would help training feel useful, relevant, or memorable?
+- What additional support or resources do Editors reference during onboarding?
+
 Support Resources and Materials: Understand how Editors currently use or supplement available resources; identify missing, outdated, or unclear support material; and discover changes would make resources more useful for ongoing learning.
-How do Editors troubleshoot tasks they struggle with?
-What other resources or support materials do they reference when encountering challenges? (e.g. colleagues, documentation, Teams, helpdesk)
-What did Editors wish they learned earlier in their Drupal experience?
-How could support materials be improved?
+- How do Editors troubleshoot tasks they struggle with?
+- What other resources or support materials do they reference when encountering challenges? (e.g. colleagues, documentation, Teams, helpdesk)
+- What did Editors wish they learned earlier in their Drupal experience?
+- How could support materials be improved?
+
 ### Hypothesis
 
 Central Hypothesis
 If we align Drupal workflows, training, and support with the real context of Editors’ work (inside and outside the CMS), Editors will complete common tasks faster, with fewer errors, and greater confidence—reducing time-to-publish and support burden.
 
-Assumptions
-Editors complete tasks on a frequent and recurring basis.
-Editors learn and retain information from working on the job and not from training.
-Editors do not continue to use training videos as a reference once they complete the assignments.
-Editors refer to each other or live sites for help more than documentation.
-Editors are motivated to complete tasks but not develop expertise.
-Editors want to change things on VA.gov that they cannot control or do not know how to change
-Hypotheses (for each research goal)
+**Assumptions**
+- Editors complete tasks on a frequent and recurring basis.
+- Editors learn and retain information from working on the job and not from training.
+- Editors do not continue to use training videos as a reference once they complete the assignments.
+- Editors refer to each other or live sites for help more than documentation.
+- Editors are motivated to complete tasks but not develop expertise.
+- Editors want to change things on VA.gov that they cannot control or do not know how to change
 
-Understand the broader work context for Editors: We believe Editors balance a wide range of responsibilities, with a significant portion of their time spent on non-CMS tasks that compete with their ability to work in Drupal. We expect to find that limited bandwidth, frequent context-switching, and varying levels of facility/system knowledge directly influence how quickly and confidently Editors complete CMS work.
-Identify CMS usage patterns and pain points: We believe Editors regularly encounter friction with high-frequency tasks such as uploading images, creating 508 compliant content, and fixing broken links. We expect that these pain points increase rework, slow publishing, and contribute to frustration. We also anticipate that navigation elements not tailored to Editor permissions cause unnecessary delays, and that simple reminders or built-in cues (e.g., for using Preview) would help prevent errors.
-Assess training effectiveness and learning needs: We believe Editors do not desire to become Drupal experts; instead, they desire sufficient training in common tasks – preferring short, scenario-based training that explains both the “how” and the “why” behind CMS processes to improve retention and confidence.  We expect to find that current onboarding does not fully prepare them to work independently, and that clearer prompts to use demo environments and Preview will make early publishing feel safer and more efficient.
-Evaluate the quality and completeness of support resources: We believe Editors want support that is easy to access in the moment of need, with embedded guidance, examples, and intuitive search. We expect to find that existing resources are often missing, outdated, or hard to find. As a result Editors may seek the support by reaching out to others, referencing live sites, or troubleshooting through trial-and-error. We anticipate that improving the relevance, accessibility, and findability of support materials will increase first-try problem resolution and reduce reliance on ad hoc assistance.
+**Hypotheses (for each research goal)**
+
+1. Understand the broader work context for Editors: We believe Editors balance a wide range of responsibilities, with a significant portion of their time spent on non-CMS tasks that compete with their ability to work in Drupal. We expect to find that limited bandwidth, frequent context-switching, and varying levels of facility/system knowledge directly influence how quickly and confidently Editors complete CMS work.
+
+2. Identify CMS usage patterns and pain points: We believe Editors regularly encounter friction with high-frequency tasks such as uploading images, creating 508 compliant content, and fixing broken links. We expect that these pain points increase rework, slow publishing, and contribute to frustration. We also anticipate that navigation elements not tailored to Editor permissions cause unnecessary delays, and that simple reminders or built-in cues (e.g., for using Preview) would help prevent errors.
+
+3. Assess training effectiveness and learning needs: We believe Editors do not desire to become Drupal experts; instead, they desire sufficient training in common tasks – preferring short, scenario-based training that explains both the “how” and the “why” behind CMS processes to improve retention and confidence.  We expect to find that current onboarding does not fully prepare them to work independently, and that clearer prompts to use demo environments and Preview will make early publishing feel safer and more efficient.
+
+4. Evaluate the quality and completeness of support resources: We believe Editors want support that is easy to access in the moment of need, with embedded guidance, examples, and intuitive search. We expect to find that existing resources are often missing, outdated, or hard to find. As a result Editors may seek the support by reaching out to others, referencing live sites, or troubleshooting through trial-and-error. We anticipate that improving the relevance, accessibility, and findability of support materials will increase first-try problem resolution and reduce reliance on ad hoc assistance.
 
 
 
@@ -134,20 +148,23 @@ We will recruit 9–15 Editors, with representation across three key groups to c
 3–5 Editors from Veterans Affairs Medical Centers (VAMCs)
 3–5 Editors from Vet Centers
 3–5 Editors from Veterans Benefits Administration (VBA)
+
 Participant requirements
-Current CMS users who regularly create, edit, or publish content in Drupal for VA.gov.
-At least 3 months of Drupal CMS experience to ensure familiarity with core tasks, while still capturing a range of proficiency levels.
-Mix of high-frequency users (daily or weekly) and low-frequency users (monthly or less) to reflect different usage patterns and training/support needs.
-Representation from different geographic locations and facility sizes to capture a variety of operational contexts.
+- Current CMS users who regularly create, edit, or publish content in Drupal for VA.gov.
+- At least 3 months of Drupal CMS experience to ensure familiarity with core tasks, while still capturing a range of proficiency levels.
+- Mix of high-frequency users (daily or weekly) and low-frequency users (monthly or less) to reflect different usage patterns and training/support needs.
+- Representation from different geographic locations and facility sizes to capture a variety of operational contexts.
+
 Desired variation
-Experience level: newer Editors vs. experienced Editors.
-Primary content responsibilities (e.g., facility pages, news stories, benefits content, events).
-Comfort with and adherence to accessibility, plain language, and VA content standards.
+- Experience level: newer Editors vs. experienced Editors.
+- Primary content responsibilities (e.g., facility pages, news stories, benefits content, events).
+- Comfort with and adherence to accessibility, plain language, and VA content standards.
+
 Exclusions
-CMS users whose role is exclusively technical or development-focused (e.g., site administrators, engineers) without Editorial duties.
-VISN Editors
-Inactive Editors
-CMS users on products outside of VAMCs, VBA, and Vet Centers
+- CMS users whose role is exclusively technical or development-focused (e.g., site administrators, engineers) without Editorial duties.
+- VISN Editors
+- Inactive Editors
+- CMS users on products outside of VAMCs, VBA, and Vet Centers
 
 ### Prepare
 
