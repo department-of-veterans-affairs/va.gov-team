@@ -112,12 +112,13 @@ If we align Drupal workflows, training, and support with the real context of Edi
 We will conduct semi-structured, one-on-one interviews with Editors to gather in-depth qualitative insights into their roles, workflows, CMS usage patterns, training experiences, and support resource needs. Semi-structured interviews allow for a consistent set of core questions across participants while providing flexibility to explore emerging topics in more detail based on individual responses.
 
 To enrich the conversation and elicit more specific feedback, we will incorporate stimuli and probes, such as:
-Current Drupal CMS forms, to prompt reflections on workflows.
-Live pages on VA.gov 
-Examples of existing support resources (e.g., knowledge base articles, training snippets) for discussion and critique.
-Scenario prompts related to onboarding, troubleshooting, editing, and publishing, to uncover decision-making processes and pain points.
+- Current Drupal CMS forms, to prompt reflections on workflows.
+- Live pages on VA.gov
+- Examples of existing support resources (e.g., knowledge base articles, training snippets) for discussion and critique.
+- Scenario prompts related to onboarding, troubleshooting, editing, and publishing, to uncover decision-making processes and pain points.
 
-Why this method is appropriate
+### Why this method is appropriate
+
 The goals of the study focus on understanding context, identifying pain points, and exploring preferences, outcomes that are best achieved through open-ended, qualitative discussion rather than rigid survey instruments.
 
 The maturity of the design is exploratory: We are not evaluating a finalized prototype or release-ready feature, but investigating needs and opportunities that will inform future design and development.
