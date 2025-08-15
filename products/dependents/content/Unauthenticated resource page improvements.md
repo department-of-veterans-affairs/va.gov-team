@@ -159,12 +159,8 @@ VA.gov lacks comprehensive information about reporting life changes that affect 
 
 Recommendation: Develop unified change reporting content strategy
 
--   Create a master "Reporting changes to VA" resource page that covers all types of changes (dependents, income, address, employment, etc.)
-
+-   Create a "Reporting changes to VA" resource page that covers all types of changes (dependents, income, address, employment, etc.)
 -   Position dependent management as one component of broader change reporting responsibilities
-
--   Cross-reference international best practices (Australian Department of Veteran Affairs, gov.uk) for comprehensive change reporting guidance
-
 -   Ensure consistent messaging about timing, methods, and consequences across all change types
 
 #### Issue: Insufficient overpayment prevention and management content
@@ -172,13 +168,9 @@ Recommendation: Develop unified change reporting content strategy
 While VA.gov includes debt management information, it lacks proactive content about overpayment prevention, early recognition, and initial response steps.
 
 Recommendation: Expand overpayment-related content
-
 -   Create dedicated overpayment resource page covering prevention, identification, and initial response
-
 -   Include information about voluntary reporting of suspected overpayments
-
 -   Connect overpayment prevention directly to change reporting responsibilities
-
 -   Provide clear pathways from overpayment content to debt resolution resources
 
 ### Implementation priority recommendation
