@@ -71,9 +71,6 @@ Success Metrics
 The audit will identify opportunities to improve user experience by ensuring veterans and their families can successfully locate, understand, and act on dependent management information without requiring authenticated access or direct VA contact.
 
 
-Related resources
----------------
-
 Artifacts
 ---------------
 
