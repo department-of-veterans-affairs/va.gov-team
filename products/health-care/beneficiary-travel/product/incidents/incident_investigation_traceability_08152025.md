@@ -20,3 +20,4 @@ _Use this section to keep a log of the debugging avenues you went down. Be detai
 * Messaged Josh Patterson in slack to ask for API-side correlation
 * Josh tied it to a 403 response, with no actual invocation of the CRM, which led him to believe it was a non-Veteran trying to submit a claim
 * Unclear right now if it's happening more than usual.
+* Turns out it is happening more than ususal - Josh thinks it's due to stale or inaccurate Veteran indicator data in BTSSS.
