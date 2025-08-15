@@ -1,11 +1,11 @@
 # Incident Investigation Traceability [TEMPLATE, MAKE A COPY]
 
+## Summary of the incident
+_Leave blank until incident is resolved_
+
 ## Relevant Slack Threads
 - slack1
 - slack2
-
-## Summary of the incident
-_Leave blank until incident is resolved_
 
 ## Action Items
 - _Update as you discover things that need to be done to resolve and prevent_
