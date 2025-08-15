@@ -86,9 +86,9 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |--------------------|-------------|
 | **User goal**      | *"I want to have convenient access to a digital version of (x) so that I am not worried about loss or fraud."* |
 | **What should we measure?** | Convenient access to VA benefit letters<br> * “I can conveniently provide digital proof of (x).”* |
-| **Important metrics to track**| -TBD<br>-TBD<br>-TBD<br> |
-| **How these metrics can inform decision making** | TBD |
-| **Unhelpful metrics** | -TBD<br>-TBD<br>-TBD<br> |
+| **Important metrics to track**| - Page views<br>- Most frequenlty accessed letters<br>- # feature viewers/# of users<br>- Latency<br>- % of errors within X period of time<br>- User report easy to view and download VA benefit letters |
+| **How these metrics can inform decision making** | To improve experience for Veterans accessing benefits letters across the app and understand the most common letters that Veterans are acceessing |
+| **Unhelpful metrics** | |
 
 </details>
 
