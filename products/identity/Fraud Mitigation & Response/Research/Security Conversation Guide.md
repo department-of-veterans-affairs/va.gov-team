@@ -14,7 +14,7 @@
 - Interest in shared tooling or data sources
 
 ---
-
+### Platform Team
 **Questions to Ask:**
 1. "How is the platform security team currently monitoring abnormalities in security?  What types of suspicious behaviors are currently being monitored or detected?"
 2. "What is the difference between a security incident versus an actual instance of fraud?"
@@ -24,3 +24,7 @@
 6. "Do other teams reach out to you to assist investigate security incidents?", "How do you currently coordinate with other teams on security incidents?"
 7. "Are there existing fraud-related processes or committees we should be aware of?"
 8. "What compliance or reporting requirements exist for fraud-related security events?"
+
+### CSOC
+
+
