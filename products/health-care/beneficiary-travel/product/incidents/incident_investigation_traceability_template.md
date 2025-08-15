@@ -1,4 +1,8 @@
-## Incident Investigation Traceability [TEMPLATE, MAKE A COPY]
+# Incident Investigation Traceability [TEMPLATE, MAKE A COPY]
+
+## Relevant Slack Threads
+- slack1
+- slack2
 
 ## Summary of the incident
 _Leave blank until incident is resolved_
