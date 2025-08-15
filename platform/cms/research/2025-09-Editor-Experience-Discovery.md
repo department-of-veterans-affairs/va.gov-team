@@ -99,6 +99,7 @@ We will conduct semi-structured, one-on-one interviews with Editors to gather in
 
 To enrich the conversation and elicit more specific feedback, we will incorporate stimuli and probes, such as:
 Current Drupal CMS forms, to prompt reflections on workflows.
+Live pages on VA.gov 
 Examples of existing support resources (e.g., knowledge base articles, training snippets) for discussion and critique.
 Scenario prompts related to onboarding, troubleshooting, editing, and publishing, to uncover decision-making processes and pain points.
 
@@ -120,6 +121,7 @@ Provide a link to any materials you need to run your study, including any materi
 For moderated interviews:
 - [Link to conversation guide](url goes here) 
 - [Link to interview stimuli](https://prod.cms.va.gov)
+- [Link to interview stimuli](https://www.va.gov/)
 	
 ## Recruitment	
 
