@@ -1,0 +1,10 @@
+name: VA Design System (VADS)
+entry_name: design-system
+description: "A system to help you write, design, and build digital services on VA.gov. Our content style guide, components, and patterns include guidance, standards, and tools to help teams build a consistent, intuitive, and Veteran-centered experience across VA.gov."
+team: design-forms-system
+urls:
+  production: "https://design.va.gov"
+measurement:
+  metrics_dashboard: "https://design.va.gov/about/metrics/"
+  project_board: "https://github.com/orgs/department-of-veterans-affairs/projects/1643/views/1"
+status: "active"

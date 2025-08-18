@@ -1,5 +1,5 @@
 # OCTO Health Portal Team
-Updated 8/5/2025
+Updated 8/14/2025
 
 ## Table of Contents
 - [Welcome](#welcome)
@@ -22,7 +22,7 @@ The My HealtheVet on VA.gov team’s mission is to simplify Veterans’ health e
 - Product - Horizon: Marci McGuire
 - Product - Messaging: Patrick Bateman
 - Product - Medical Records: Marci McGuire
-- Product - Medications: Kay Lawyer
+- Product - Medications, Medical Devices and Supplies: Kay Lawyer
 - Design: Kristen McConnell
 - Design - Messaging: Becky Phung
 - Research: Robyn Singleton
@@ -41,18 +41,6 @@ The My HealtheVet on VA.gov team’s mission is to simplify Veterans’ health e
   - Matt Bain
 
 ## Web and Mobile Delivery Product Team Members
-
-<details>
-<summary>Forthcoming roles joining the team</summary>
-
-|Name - Role|DSVA Slack|
-|------|----|
-| starting 8/11 - QA Engineer | TBD |
-| starting 8/11 - Frontend Engineer | TBD |
-| starting 8/11 - Designer | TBD |
-| starting 8/11 - Researcher/Information Architect | TBD |
-
-</details>
 
 ### Horizon
 This cross-functional group serves as the Company points of contact for the delivery team and manages work that impacts the whole portal. 
@@ -83,9 +71,8 @@ This cross-functional group serves as the Company points of contact for the deli
 | Elwood Gary         | [@Elwood Gary](https://dsva.slack.com/archives/D096LSQBSDN)     |
 | Liz Townsend        | [@Liz Townsend](https://dsva.slack.com/team/U06059URY69)        |
 
-### Medications
-During the transition period, the Medications team and Medical Devices team will work closely together to ensure coverage.
-- Slack channel: [#mhv-medications-rx](https://dsva.slack.com/archives/C04PRFEJQTY)
+### Medications, Medical Devices and Supplies
+- Slack channel: [#mhv-medications-rx](https://dsva.slack.com/archives/C04PRFEJQTY), [#vagov-supply-reordering](https://dsva.slack.com/archives/C05DFSM57FW)
 
 | Name            | DSVA Slack                                                  |
 |-----------------|-------------------------------------------------------------|
@@ -98,6 +85,8 @@ During the transition period, the Medications team and Medical Devices team will
 | Langston Payne  | TBD |
 | Andrea Uhr      | TBD |
 | Timothy Powell  | TBD |
+| Amy Cashbaugh | [@Amy Cashbaugh](https://dsva.slack.com/team/U095KDN5UR1) |
+| Geoff Winner  | [@Geoff Winner](https://dsva.slack.com/team/U09908QFJRW)  |
 
 ### Messaging
 - Slack channel: [#mhv-secure-messaging](https://dsva.slack.com/archives/C03ECSBGSKX)
@@ -114,16 +103,9 @@ During the transition period, the Medications team and Medical Devices team will
 | Mario Williams   | TBD                                                               |
 | Jayson Perkins   | [@Jayson Perkins](https://dsva.slack.com/team/U01A8SZCMHA)        |
 | Sofia Cordero    | TBD |
+| Fiona Tang       | TBD |
+| Espy Thomson     | TBD |
 
-### Medical Devices and Supplies
-- Slack channel: [#vagov-supply-reordering](https://dsva.slack.com/archives/C05DFSM57FW)
-
-| Name          | DSVA Slack                                                |
-|---------------|-----------------------------------------------------------|
-| Marci McGuire | [@Marci McGuire](https://dsva.slack.com/team/U04K6QYPP6V) |
-| Mark Carter   | [@Mark Carter](https://dsva.slack.com/team/U081CKD47FZ)   |
-| Amy Cashbaugh | [@Amy Cashbaugh](https://dsva.slack.com/team/U095KDN5UR1) |
-| Geoff Winner  | [@Geoff Winner](https://dsva.slack.com/team/U09908QFJRW)  |
 
 During the transition period, the Medications team and Medical Devices team will work closely together to ensure coverage.
 
@@ -138,6 +120,8 @@ During the transition period, the Medications team and Medical Devices team will
 | Athena Bozak     | [@Athena Bozak](https://dsva.slack.com/team/U07VBDM5M6J)  |
 | Jonathan Nelson  | [@Jonathan Nelson](https://dsva.slack.com/team/URMHM214N) |
 | Anneka Van Garza | TBD                                                       |
+| Tanya Malhotra   | TBD |
+| Laura Simpson    | TBD |
 
 ### Customer Support and Triage
 - Slack channel: 

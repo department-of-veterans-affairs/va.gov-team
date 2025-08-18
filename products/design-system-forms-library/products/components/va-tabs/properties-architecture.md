@@ -13,7 +13,6 @@ Parent component
 |---------|------------------|----------|-------------------------------------------------|---------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | v1      | `label`            | true     | `string`                                        | -             | web      | A unique name for the rendered div serving as `role="tablist"`. To be set as value for wrapper's `aria-label` attribute.                                                                                                                                                                                                                   |
 | v1      | `initally-selected` | false    | `number`                                        | `0`           | web      | The index of the initially selected tab. Defaults to `0` (the first tab).                                                                                                                                                                                                                                                                  |
-| v1      | `disable-analytics` | false    | `boolean`                                       | `false`       | web      | If `true`, the component-library-analytics event is disabled.                                                                                                                                                                                                                                                                              |
 | v2      | `overflow-behavior` | false    | `string`  `'stacked' \| 'full-width' \| 'menu'` | `'menu'`      | web      | Choose between the overflow behavior for the tabs. The  `'stacked'`  option will show all tabs in a single vertical column. The  `'full-width'`  option would show expand the tabs to the full-width of the container with each tab spanning a equal widths of space. The  `'menu'` option will bundle all the extra tabs into a dropdown. | container with each tab spanning a equal widths of space. The `'menu'` option will bundle all the extra tabs into a dropdown. |
 
 ### `va-tab-item`
@@ -202,37 +201,6 @@ The challenging part of this component is there are alot of different smaller co
     - Active
     - Focus 
 4.**Tab Panel** These are the content panels that are shown/hidden depending on the currently selected tab item. They are targeted by their `id` value. They are meant to be generic containers for page content. They are given semantic context via `role="tabpanel"`. -->
-
-## Future Considerations
-
-### Stacked option
-- For V2, it could be beneficial to offer different overflow behaviors. A stacked version like you see in this prototype might be a better option in some use cases or possibly a full-width version for mobile that would be similar to the [buttons - segmented](https://design.va.gov/components/button/button-segmented) option on mobile. 
-  [Stacked tabs prototype](https://codepen.io/babsdenney/pen/yyyBbYY)
-
-### Overflow behavior
-
-When the number of tabs exceeds the available horizontal space:
-
-- Each tab is measured individually.
-- Tabs that don’t fit are moved into a dropdown menu (Popover).
-- Reference: [ADR 002 – Overflow Behavior](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/va-tabs/design-decisions.md#adr-002-behavior-when-tabs-overflow-off-the-screen)
-- Prototype Example: [Tab Overflow Menu (CodePen)](https://codepen.io/babsdenney/pen/EaaYvQV)
-
-> Note: While the prototype demonstrates functionality, it is **not required** to replicate its architecture or styles.
-
-<!-- ### Max-width
-This is something I kept going back and forth about. What is a good max-width for the tabs? Some scenarios I was thinking of. This might be something we need to test out different scenarios.
-1. 120px max-width if there were only two tabs then both tabs could fit on a 288px screen width with a 24px margin between the tabs.
-2. 144px max-width so that 2 tabs could fit but we would need to remove the margin and the tabs would be flush.
-3. 160px max-width so that a single tab and the dropdown button can fit on screen. -->
-
-<!-- ### Minimum of 2 tabs in the dropdown
-
-This is a behavior we saw in the [Primer DS](https://primer.style/react/storybook/?path=/story/components-underlinenav-features--overflow-on-narrow-screen&globals=viewport:narrowScreen) where the dropdown would not appear until there were two tabs that needed to be put in the dropdown. There is probably a few different scenarios to consider with this when you think about making sure two tabs can fit at a 288px width.  -->
-
-### Popover and Side nav components
-This component could be the starting point for future components that can be reused.
-- **Popover component:** We have a few instances now that use a form of a popover. The combo box, search results, and now this button dropdown component. We should consider adding a popover component to create consistency within the components.
 
 ## Storybook Stories
 - (v1) Basic example with three tabs/panels.

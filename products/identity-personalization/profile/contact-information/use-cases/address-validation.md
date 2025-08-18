@@ -66,9 +66,9 @@ U.S. Postal Service records show this address may need a unit number. Confirm th
 </details>
 
 
-<details><summary>OLD: Checking if this is still triggering | SHOW_SUGGESTIONS_NO_CONFIRMED_OVERRIDE | Address entered is viable, but can't be confirmed with USPS</summary>
+<details><summary>SHOW_SUGGESTIONS_NO_CONFIRMED_OVERRIDE | Address entered is viable, and no suggestions from USPS</summary>
 
-- **Use case:** The addres entered is viable with USPS, there are no confirmed suggestions, and the address does not have a bad or missing unit. The user is presented with the address they entered, and can confirm to move forward with the address as entered. Or go back to edit.
+- **Use case:** The address entered is viable with USPS, there are no confirmed suggestions, and the address does not have a bad or missing unit. The user is presented with the address they entered, and can confirm to move forward with the address as entered. Or go back to edit.
 - **Status code:** TBD
 - **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
 - [Link to designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=3866-12646&t=Ic7TBqjpcULWnUDk-1)

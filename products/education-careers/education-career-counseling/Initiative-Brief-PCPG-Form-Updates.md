@@ -65,20 +65,20 @@ Veterans submitting online form 25-8832 have a positive experience and can trust
 
 ## Launch Planning
 ### Collaboration Cycle
-- [Collab Cycle ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/76364)
+- [Collab Cycle ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116202)
 - [CAIA Ticket](TBD) 
 
 ### Timeline 
-- Collab cycle kick off: 2/15/2024
+- Collab cycle kick off: 8/7/2025
 - CAIA kick off: 
-- Design Intent: 2/20/2024
-- Midpoint Review:
+- Design Intent: 
+- Midpoint Review:TBD
 - Staging Review:
 
 * [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
 #### Initiative Launch Dates
-- *Target Launch Date*: May 2024
+- *Target Launch Date*: Sept 2025
 - *Actual Launch Date*: TBD
 
 ---
@@ -96,8 +96,8 @@ Veterans submitting online form 25-8832 have a positive experience and can trust
 #### Communications
 - Team Name: Benefits Non-Disability Experience Team (Team Umbrella)
 - GitHub Label(s): Umbrella, Ch36
-- Slack channel: benefits-non-disability
-- Product POCs: Laura Steele (product manager), Emily Theis (OCTO Lead)
+- Slack channel: iir-product-teams-public
+- Product POCs: Mike King (product manager), Dave Conlon (OCTO Lead)
 
 #### Stakeholders
 - Office/Department:

@@ -1,6 +1,6 @@
 # Appoint a Representative Data Flow
 
-View the 'Appoint a Representative' data flow chart [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/accredited-representation-management/product-documentation/appoint-a-representative/launch-materials/images/v2/data-flow.png). Data is transferred from the user's browser to a VA.gov server via HTTPS.
+View the 'Appoint a Representative' data flow chart [here](images/v2/data-flow.png). Data is transferred from the user's browser to a VA.gov server via HTTPS.
 
 ## What data is collected or used, and where, including information such as credentials used by this system?
 

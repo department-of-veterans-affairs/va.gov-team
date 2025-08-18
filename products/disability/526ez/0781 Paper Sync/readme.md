@@ -117,7 +117,7 @@ _What are the measurable targets you're aiming for that delivers value for Veter
 --- 
 
 ## Launch Strategy
-- [DBEX 0781 Paper Sync Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/disability-experience/team-docs/Release%20Plans/DBEX%200781%20Paper%20Sync%20Release%20Plan.md)
+- [DBEX 0781 Paper Sync Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/disability-experience/team-docs/Release%20Plans/DBEX%200781%20Paper%20Sync%20Release%20Plan.md)
 
 ## Launch Dates
 - *Target Launch Date*

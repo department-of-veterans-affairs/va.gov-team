@@ -34,15 +34,12 @@ Health Products
 
 ### Team Members:
 - Heather Justice | heather.justice1@va.gov / heather.justice@adhocteam.us / GH "hdjustice" - Product manager
-- Alexandria "Alex" Parker | alexandria.parker@va.gov / alexandria.parker@agile6.com / GH "ACParker89" - Product Manager/Delivery Lead
+- Andrea Merrill | andrea.merrill@va.gov / andrea.merrill@agile6.com / GH "andrea-merrill" - Delivery Manager
 - Jessica Stump | jessica.stump@va.gov / jessica.stump@adhocteam.us / "jessicastump" - Sr UX Design/Research
-- Liza McRuer | elizabeth.mcruer@va.gov / liza.mcruer@adhocteam.us / GH "emcruer" - UX Design
 - Renata Keck | renata.keck@va.gov / renata.keck@agile6.com / GH "renatakeck" - UX Design
 - Hieu Vo | hieu.vo@va.gov / hieu.vo@agile6.com / GH "IMHieuVo" - UX Design/Research
 - Matt Long | matthew.long6@va.gov / matt.long@adhocteam.us / GH "longmd" - Sr Frontend Engineer
-- Daniel Sasser | daniel.sasser@va.gov / daniel.sasser@agile6.com / GH "dsasser" - Frontend Engineer
 - Derrick Ellerbie | derrick.ellerbie@va.gov / derrick.ellerbie@Agile6.com / GH "dellerbie" - Full Stack Engineer
-- Joshua Drumm | joshua.drumm@va.gov / joshua.drumm@agile6.com / GH "JoshingYou1" - Full Stack/Backend focus Engineer
 - Mitch Saltykov | dmitry.saltykov@va.gov / mitch.saltykovs@agile6.com / GH "mitch-a6" - Full Stack Engineer
 - Brandon Cooper |brandon.cooper1@va.gov / brandon.cooper@adhocteam.us /  GH "coope93' - Full Stack/Backend focus Engineer
 - Luis Simauchi | luis.simauchi@va.gov / luis.simauchi@adhocteam.us / GH "luis-simauchi" - Sr Data Analyst
@@ -58,9 +55,9 @@ Health Products
 - Danielle Thierry | danielle.thierry@va.gov - Content writer
 
 **HEC (Health Eligibility Center) Program Team**
-- Bryan Burgan | Bryan.burgan@va.gov -- VHA Member Services Publications Control Officer - Main POC
+- **Bryan Burgan** | Bryan.burgan@va.gov -- VHA Member Services Publications Control Officer - Main POC
 - Ambroja Watson | ambroja.watson@va.gov -- Veteran Experience Officer, HEC - 2nd POC
-- Stacey Echols  | stacey.echols@va.gov  --  Deputy Director, HEC
+- **Amanda Scully** | amanda.scully@va.gov -- Deputy Director, HEC
 - Zachariah Bell  | zachariah.bell@va.gov  -- Acting ECM Supervisory Program Specialist
 - Cheylanda Griffith  | cheylanda.griffith@va.gov  --  Supervisory Program Specialist
 - Kimberly Bostic | Kimberly.Bostic@va.gov -- Associate Director, QA division HEC
@@ -68,13 +65,12 @@ Health Products
 - Jessica Soza | Jessica.Soza@va.gov -- Management & Program Analyst, BSO Business Policy (Paper forms)
 - Annie Rice | Annie.Rice@va.gov -- Contact Representative office
 - Shana Watson | shana.watson@va.gov -- Member Services SME
-- Simone Gully | simone.gully@va.gov -- Member Services SME
-- Amanda Scully | amanda.scully@va.gov -- Member Services SME
-- Angela Fulton | angela.fulton@va.gov -- Member Services SME
+- **Simone Gully** | simone.gully@va.gov -- Member Services SME
+- **Angela Fulton** | angela.fulton@va.gov -- Member Services SME
 - Tiffany Gaines | tiffany.gaines@va.gov -- Member Services SME
 
 **Enrollment System (ES)** (End-to-End Testing POCs)
-- Joshua Faulkner | joshua.faulkner@va.gov - Technical Director, EHBD (Enrollment system)
+- **Joshua Faulkner** | joshua.faulkner@va.gov - Technical Director, EHBD (Enrollment system)
      - Primary contact for ES testing (end2end)
 - Ramya Venkataraman |ramya.venkataraman@va.gov - SQA Test Lead, Enrollement system
      - Secondary contact for ES testing
@@ -88,8 +84,8 @@ Health Products
 - Tamara Scott | tamara.scott@va.gov  -- Social Worker: Caregiver Support Program
 - Margaret Featherstone | Margaret.Featherston@va.gov  -- Caregiver Support Program Manager
 - Hollie-Lyn James | hollie.speer@va.gov -- Health System Specialist
-- Gaspare Caruso | gaspare.caruso@va.gov -- Clinical Program Coordinator
-- Drew DeRocco  | drew.derocco@va.gov -- PMO, scheduling
+- **Gaspare Caruso** | gaspare.caruso@va.gov -- Clinical Program Coordinator
+- **Drew DeRocco**  | drew.derocco@va.gov -- PMO, scheduling
 
 **CARMA team/MuleSoft.Salesforce team** (End-to-End Testing POCs)
 - Paul Kuprionas | paul.kuprionas@va.gov - CARMA tech lead
@@ -97,7 +93,7 @@ Health Products
 - David Wald | David.Wald@va.gov - testing/integration lead
 - Ranganathan Vekataraman | Ranganathan.Vekataraman@va.gov - CARMA engineer
 - Igor Khurgin | igor.khurgin@va.gov - CARMA engineer
-- Marla Clayton | marla.clayton@va.gov - Technical Project Manager CARMA
+- **Marla Clayton** | marla.clayton@va.gov - Technical Project Manager CARMA
 - Mili Riddout | mili.riddout@salesforce.com - CARMA point of contact
 - Slack channel | #vecms-carma_vadotgov_development_external
 
@@ -112,7 +108,6 @@ Health Products
 Check in on people and product progress
 
 - Combination of calls and slack-ups
-- We meet as a full team on Wednesdays at 12p ET/9a PT
 - We use the #1010-health-apps Slack channel  to share any links, questions, and notes that come up
 
 #### Sprint Planning
@@ -120,14 +115,11 @@ Outline work to be done this sprint in order to accomplish the team's goals
 
 - Last Tuesday of every sprint week @ 3pm ET/12pm PT
 - 1 hour
-- EZR and EZ/CG teams meet separately
 - We'll use the sprint field to indicate we have committed to what's in each sprint
 
 
 #### Retro
 Review accomplishments from prior sprint, what went well, what can be improved, what questions people have, and generate action items.
-
-- Full team meets with PO
 - 1st Wednesday of every sprint @ 1p ET/10a PT
 - 1 hour
 
@@ -136,7 +128,6 @@ Create, review, estimate, and prioritize backlog items.
 
 - 2nd Wednesday of every sprint
 - 1 hour
-- EZR and EZ/CG teams meet separately
 
 </p>
 </details>
@@ -174,7 +165,7 @@ Create, review, estimate, and prioritize backlog items.
    - Definition of done  
    - A user story that reflects the benefit to a Veteran, Caregiver, or other user
    - All known components/steps have been accounted for in the epic
-   - Documented risks: Risks: Value Risk, Feasibility Risk, Business Viability Risk, Usability Risk
+   - Documented risks
 
 **Stories/Tickets** should include:
    - Title that explains the goal in plain language
@@ -204,13 +195,12 @@ We use fibonacci numbers (1, 2, 3, 5, 8, 13) to account for the level of effort,
 - For anything considered a "release" or significant change, the QA lead will be responsible for QA
 - Engineers will be responsible for ensuring and documenting in the ticket that all acceptance criteria are met
 - Design is responsible for ensuring that design and content specifications are met
-- PM and PO will be responsible for end-to-end QA and communication to stakeholders
+- PM and PO will be responsible for final sign-off and communication to stakeholders
 
 
 ## Team Norms
 - We iterate often and deliver frequently
 - We are respectful, both online and off
-- We turn on cameras as often as possible at meetings / calls
 - We are flexible and intentional in the way we work
 - We communicate often and in public channels
 - We ask questions when they arise
@@ -238,5 +228,5 @@ We use fibonacci numbers (1, 2, 3, 5, 8, 13) to account for the level of effort,
 - Team members will post calendar events on the team calendar when they have scheduled time off.
 
 #### General things
-- Update tickets regularly. If conversations happen in Slack that are pertinent to a product or initiative, copy the useful info into GitHub/ZenHub.
+- Update tickets regularly. If conversations happen in Slack that are pertinent to a product or initiative, copy the useful info into GitHub.
 - Extra time? Explore the "Ready to work" column in [GitHub Project 10-10 Health Apps Team](https://github.com/orgs/department-of-veterans-affairs/projects/1433).

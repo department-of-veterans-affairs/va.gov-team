@@ -71,7 +71,7 @@ Undesired Business Outcomes:
 
 ## Plan
 
-[Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/disability-experience/team-docs/Release%20Plans/Toxic%20Exposure%20Release%20Plan.md)
+[Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/disability-experience/team-docs/Release%20Plans/Toxic%20Exposure%20Release%20Plan.md)
 
 ## Guiding Principles
 

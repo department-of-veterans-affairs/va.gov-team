@@ -27,12 +27,17 @@ The on-call investigator serves as the primary point of contact for addressing t
 - Technical debt assessment
 
 ## Response Process
-1. Monitor the team and/or designated request channel during on-call hours
-2. Acknowledge receipt of investigation requests
-3. Triage and prioritize based on impact and complexity
-4. Conduct the investigation using available tools and resources
-5. Document findings and communicate results to requesters
-6. Update knowledge base with new insights
+
+Teams should create recurring tickets for investigator on-call responsibilities. This helps ensure we reserve time for the engineer to:
+
+1. Monitor the team and/or designated request channel during on-call hours 👀
+2. Acknowledge receipt of investigation requests 🗣️
+3. Triage and prioritize based on impact and complexity 🧐
+4. Conduct the investigation using available tools and resources magnify 🔎
+  - Tickets are a good place to record notes and findings
+  - Subtasks can be added to the on-call ticket to divide different requests into smaller tasks
+5. Document findings and communicate results to requesters ✍️
+6. Update knowledge base with new  📝
 
 ## Rotation Schedule
 - Each engineer serves a one-week rotation

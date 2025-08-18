@@ -146,3 +146,63 @@ By accessing this tool, Veterans can stay informed about their disability evalua
 | **Derek Uttley**               | [Title not specified in image]          | VBAVACO          | Pension Claims                                                                      |
 
 
+# BMT2 Initiatives – File Links
+
+Below are the initiatives worked on during the contract, with links to their respective documentation or files.
+
+## 1. Your VA Letters and Documents
+
+[VA Letters and Documents Page - Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/VA%20Letters%20and%20Documents.md)
+
+## 2. Evidence Request Improvements
+
+[Process for Updating Evidence Requests with Plain Language](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/evidence-requests-pattern/updating-evidence-requests.md)
+
+[Evidence Requests Pattern Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/evidence-requests-pattern/release-plan.md)
+
+## 3. Supplemental Claim (Discovery Phase)
+
+
+## 4. Payments History – Suppressed 3rd Party Payments
+
+
+## 5. Pension Claims Modernization (8-Step Workflow)
+
+
+## 6. Intent to File
+For the Intent to File (ITF) discovery phase, the team investigated how Veterans currently check their ITF status and identified significant usability gaps on VA.gov and in the Claims Status Tool (CST). They reviewed existing ITF workflows, upstream data sources (VBMS and Lighthouse ITF API), and confirmed there was no direct, user-friendly way for Veterans to see if an ITF was active or when it expired. The team gathered pain points from Veteran research, Reddit feedback, and contact center insights, revealing confusion around ITF timelines, expiration dates, and the association between ITFs and claims. They explored design concepts for displaying ITF information in CST, including scenarios for active, expired, and multiple ITFs, as well as empty states for education. They documented potential risks, and technical dependencies. This discovery work laid the foundation for a UI solution to make ITF status transparent and actionable for Veterans.
+
+[Initiative Brief: Display Intent to File (ITF) Status in the Claims Status Tool (CST)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Intend%20To%20File%20-%20Product%20Brief.md)
+
+[Design Pitch: Display Intent to File (ITF) Status in CST](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Display%20Intent%20to%20File%20(ITF)%20Status%20in%20CST%20Initiative.md)
+
+[ITF (Intent to File) in CST (Figma)](https://www.figma.com/design/ZLDFINlvw5skb6ckTT9skw/ITF--Intent-to-File--in-CST?node-id=201-192&p=f&t=jJsHCj2cYR6sJMrd-0)
+
+[Intent to File - CST (Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1745429653435/fdc61adbcd6f7c35a14ff23036dc131bd3cfad34)
+
+[Technical Discovery (part of initiative brief)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Intend%20To%20File%20-%20Product%20Brief.md#techinal-information)
+
+## 7. Letter Migration to Lighthouse
+
+
+## 8. Event Bus Gateway – Decision Letter Email Notifications
+
+[Architecture Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/event-bus-notify/Architecture%20Diagram.md)
+
+[Data Flow Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/event-bus-notify/Data%20Flow%20Diagram.md)
+
+[Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/event-bus-notify/Product%20Outline.md)
+
+[Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/event-bus-notify/Release%20Plan.md)
+
+[Sequence Diagram](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/event-bus-notify/Sequence%20Diagram.md)
+
+[Other documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/event-bus-notify/documentation.md)
+
+## 9. Silent Failures – Investigation & Response
+
+
+## 10. Fixing Dependents Document Upload Issues
+-
+
+

@@ -72,7 +72,7 @@ Since the feature is part of the larger preexisting 526 form, communications wil
 
 ---
 ## Launch Planning
-[Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/disability-experience/team-docs/Release%20Plans/Toxic%20Exposure%20Release%20Plan.md)
+[Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/disability-experience/team-docs/Release%20Plans/Toxic%20Exposure%20Release%20Plan.md)
 #### Collaboration Cycle
 [Collaboration Cycle Kickoff ticket](https://github.com/orgs/department-of-veterans-affairs/projects/1268/views/7?pane=issue&itemId=66471236)
 

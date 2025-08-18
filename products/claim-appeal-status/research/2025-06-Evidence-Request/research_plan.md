@@ -105,7 +105,7 @@ Refer to the inclusive recruitment strategies to learn how to be inclusive of un
 
 ### Recruitment Criteria
 
-**Veterans (users):** N = 15  
+**Veterans (users):** Ideal session number: N = 10 (recruit for N=15 for no shows)
 
 #### Primary Criteria (flexible):
 - 2/3 participants have submitted a disability claim in the past  
@@ -114,7 +114,92 @@ Refer to the inclusive recruitment strategies to learn how to be inclusive of un
 - 50% of users aged 55–64+
 
 #### Secondary Criteria:
-- User screener questions
+
+**Screener Questions *[Screener questions document]***
+
+---
+
+1. How often do you use VA.gov? Your best guess is okay.
+
+- Daily  
+- Weekly  
+- Monthly  
+- Never, but I am open to using VA.gov  
+- I’m not sure  
+
+---
+
+2. Which of the following age ranges best describes you?
+
+- Under 35  
+- 35–44  
+- 45–54  
+- 55–64  
+- 65+  
+
+---
+
+3. How do you usually access the VA.gov website?
+
+- Mostly on a desktop or laptop computer  
+- Mostly on a mobile device (phone or tablet)  
+- I use both equally  
+- I don’t use VA.gov  
+
+---
+
+4. Have you ever submitted a VA claim or supporting documents using the VA.gov website (Claim Status Tool)?
+
+- Yes  
+- No  
+- Not sure  
+
+---
+
+5. When you receive a message from VA asking for more information or documents to support your claim, how do you usually respond?
+
+- I log into VA.gov to upload or check documents  
+- I wait to receive a letter in the mail before doing anything  
+- I contact the VA directly for help  
+- I don’t usually respond or I’ve never received one  
+
+---
+
+6. Have you ever had to upload a document, form, or evidence file to VA.gov as part of a claim or appeal?
+
+- Yes, many times  
+- Yes, once or twice  
+- No, but I’ve seen the option  
+- No, I’ve never done that  
+
+---
+
+7. How confident do you feel navigating different sections of the Claim Status tool on VA.gov?
+
+- Very confident – I can find what I need quickly  
+- Somewhat confident – I usually figure it out  
+- Not very confident – it’s often confusing  
+- I’ve never used it / not familiar with it  
+
+---
+
+8. Have you ever seen or used any of the following features on VA.gov? (Select all that apply)
+
+- A message about evidence the VA still needs from me  
+- A download link for VA-requested documents  
+- An option to upload documents directly  
+- A message explaining that the VA will collect records from a third party (like a doctor)  
+- None of these  
+
+---
+
+9. Have you been diagnosed with (formally or informally) a cognitive disability?  
+_This includes any intellectual disability, ADHD, Autism Spectrum Disorder, severe, persistent mental illness, brain injury, stroke, Alzheimer's disease and other dementias, or others not listed._
+
+- Yes  
+- No  
+- I prefer not to answer  
+
 
 ---
 
@@ -127,7 +212,7 @@ We plan to do a pilot session.
 - **Date and time of pilot session:** _[insert date/time]_  
 
 ### Research Sessions
-- **Planned dates of research:** _[insert date range]_  
+- **Planned dates of research:** 8/25-8/29
 
 **Session length:** 1 hour or less  
 **Session flow:**  

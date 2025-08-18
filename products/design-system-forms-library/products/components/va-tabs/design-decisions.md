@@ -8,6 +8,8 @@ _Last updated: 2025-07-14_
 - [ADR 004: Consistent popover styles](#adr-004-consistent-popover-styles)
 - [ADR 005: Focus styles](#adr-005-focus-styles)
 - [ADR 006: Limiting tabs to 3 or less](#adr-006-limiting-tabs-to-3-or-less)
+- [ADR 007: Adding horizontal scrolling for tab overflow](#adr-007-Adding-horizontal-scrolling-for-tab-overflow)
+- [ADR 008: Switching from URL navigation to on-page navigation](#adr-008-Switching-from-URL-navigation-to-on-page-navigation)
 
 ---
 
@@ -238,6 +240,42 @@ Based on the audit, there are currently no strong use cases requiring more than 
 
 However, we will still address accessibility and usability concerns for limited tabs at 400% zoom or in constrained viewports.
 
-### Consequences
+## Consequences
 
 There will most likely be a need to solve for more than 3 tabs in future. This could cause more time to develop and implement this interaction in the future. 
+
+---
+
+## ADR 007: Adding horizontal scrolling for tab overflow
+### Status: Accepted  
+- **Date Raised:** 2025-07-24  
+- **Decision Date:** 2025-07-24
+
+## Context
+At times, the tabs list will be wider than the viewport. This usually happens when users zoom in, resize text, or when teams create tab lists that are longer than recommended. To keep the component accessible, we needed to make sure users can always see and navigate to every tab item in the list.
+
+## Decision
+After considering a mix of options including a collapsible menu, we chose horizontal scrolling to manage tab overflow. This solution is straightforward, accessible and works well with screen readers and keyboard navigation. If users follow our guidance to limit tab count and keep labels short, horizontal scrolling will only be needed at high zoom levels or in constrained viewports.
+
+## Consequences
+If teams need a tabs component that supports more tabs or longer labels, we may need to revisit this functionality.
+
+---
+
+## ADR 008: Switching from URL navigation to on-page navigation
+### Status: Accepted  
+- **Date Raised:** 2025-07-13
+- **Decision Date:** 2025-07-22
+
+## Context
+While defining accessibility requirements for the tabs component, we found important differences in how assistive technologies interact with different tabs implementations. We identified two main interpretations:
+- In one, tabs act as horizontal navigation. Tab items load new pages, are navigated using the `tab` key, update the url, and are not programmatically linked to their content. 
+- In the other, tabs organize page content. These tabs are part of the main content, use arrow keys for keyboard navigation, and show or hide content without refreshing the page. The content panels are directly associated with the active tab.
+
+## Decision
+We reviewed guidance from MDN and W3C/APG and decided to treat tabs as content rather than navigation. Tabs have specific accessibility expectations, including keyboard navigation, focus management, and the type of content shown. Because we chose not to build a navigation component, we did not add URL management to the tabs component. This follows common patterns we saw in other implementations and prevents the complexity of recreating and maintaining native browser page load behavior.
+  
+## Consequences
+This approach makes our tabs component more accessible and easier to use. It avoids the complexity of managing URLs and page refreshes, and sets clear expectations for teams. Teams who need navigation features can use other components designed for that purpose. 
+
+---

@@ -22,35 +22,46 @@
 - [Further research needed](#further-research-needed)
 - [Who we talked to](#who-we-talked-to)
 
+**Executive Summary:**
+
+This research study evaluated two application flows for updating 10-10EZR health benefit information by comparing the existing MVP flow (Option Green) and a new Confirmation Flow (Option Red). Through semi-structured interviews with 10 Veterans using a Figma prototype, the study aimed to validate the Confirmation Flow, identify pain points, and understand user preferences.
+
+Key findings showed that Veterans generally understood the List & Loop component for reviewing spouse and financial information, and there was a slight preference for the new Confirmation Flow due to its efficiency and helpful reference features. Participants indicated a need for clearer guidance, improved progress tracking, and UI elements that better align with their expectations and mental models. 
+
 
 ## Research Goals
-*Provide context for this research by explaining how it fits into the Veteran’s journey.*  
-[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)  
 
 This study aims to evaluate two different flows; an existing MVP flow (Option Green) and the new Confirmation Flow (Option Red). This is to validate the Confirmation Flow and seek to identify any pain points, areas of confusion, and opportunities to enhance the flow. The insights gathered from this study will help inform the iterative design and well as clarify the next steps.
+
+This research supports Veterans in the "Getting Out," "Starting Up", "Taking Care of Myself", "Reinventing Myself", and "Putting Down Roots" stages of their journey.
 
 **Guiding Questions:**  
 - What are the key moments this tool supports in the Veteran’s journey?  
 - What outcomes are we aiming to achieve for Veterans and stakeholders?  
 
 **Specific Goals:**  
-- Goal 1: Spouse Information: Test the usability of the spouse information section to see if the Veterans follow the conditional logic, understand what information can be updated, and whether the information presented is comprehensible.
+- Goal 1: Spouse Information: Assess the usability of the spouse information section to see if the Veterans follow the conditional logic, understand what information can be updated, and whether the information presented is comprehensible.
 
 - Goal 2: Confirmation Flow: Validate that Veterans prefer the confirmation flow (Option Red), using the List&Loop component, because it is more efficient than the existing MVP approach (Option Green).
 
 - Goal 3: Gray Reference Card: Understand how the Veterans expect the previous year’s financial data to be prefilled, and whether they understand the hierarchy of the information on financial reporting screens.
 
-[Example Research Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-goals) 
-
-
-
 ## Research Questions
 
 **Spouse Information:** Test the usability of the spouse information section to see if the Veterans follow the conditional logic, what information can be updated, and whether the information presented is comprehensible.
+- Does the user understand that the number of questions changes based on the choice they selected for marital status?
+- Do users understand that they can edit/update the information that’s pre-filled?
 
 **Confirmation Flow:** Validate that the confirmation flow (Option Red), using the List&Loop component, is more efficient than the existing MVP approach (Option Green).
+- Do users report a higher efficiency and ease of flow for the confirmation flow (Option Red), or the existing MVP (Option Green)?
+- Do users understand the instructions on how to update the pre-filled information when it is outdated?
+- Do users understand their income reporting requirements based on the content?
 
 **Gray Reference Card:** Understand how the Veterans expect the previous year’s data to be prefilled, and do they understand the hierarchy of the information.
+
+- Do users find referencing last year’s income helpful in updating their financial information?
+- Does the reference card reduce complexity and effort for users to update their income information?
+- Do users trust the accuracy of the data presented in the card?
 
 ## Methodology 
 
@@ -70,7 +81,7 @@ Note that after the spouse section, users will fork for A/B testing of the propo
 
 ## Hypotheses and Conclusions
 
-- **Hypothesis Statement: The participant will understand the Spouse Information and Financial Information shown in List&Looop's review page** 
+- **Hypothesis Statement: The participant will understand the Spouse Information and Financial Information shown in List & Loop's review page** 
   - **Likely True**  
   - 8/10 participants expressed a clear understanding of spouse and financial information List & Loop component.  
 
@@ -85,8 +96,6 @@ Note that after the spouse section, users will fork for A/B testing of the propo
 
 ## Key Findings
 
-*Summarize the 5–10 most impactful findings from your study.* 
-
 **1.** Participants expressed a clear understanding of the spouse and financial information List&Loop component.
 
 **2.** There is a slightly higher preference for Optional Red (Confirmation Flow) over Option Green (existing MVP flow). 
@@ -96,9 +105,7 @@ Note that after the spouse section, users will fork for A/B testing of the propo
 
 ## Details of Findings 
 
-*Provide detailed descriptions and supporting evidence for each key finding.*  
-
-**Finding 1: Participants generally understood the List&Loop component for the spouse and financial information, but want more contextual guidance and content consolidation around the List & Loop's intro and review pages.**
+**Finding 1: Participants generally understood the List & Loop component for the spouse and financial information, but want more contextual guidance and content consolidation around the List & Loop's intro and review pages.**
 - 7 out of 10 participants found that the financial section was easy to understand in both prototypes.
 - Participants expressed a need for the List & Loop to have clear guidance or to consolidate its content.
     - 3 participants felt that the Dependent List&Loop Intro should be merged with the next page.
@@ -115,15 +122,14 @@ Key quotes:
 
 **Finding 2: Participants showed a slight preference for Option Red (Confirmation Flow) over Option Green (existing MVP flow) due to the perceived speed and helpful reference information.**
 
-- 6 out of 10 participants preferred Option Red, citing efficiency and helpful reference cues. The remaining 4 preferred Option Green. (MVP flow)
+- 6 out of 10 participants preferred Option Red, citing efficiency and helpful references. The remaining 4 preferred Option Green.
 - 5 out of 10 participants noted that both flows felt similar and 2 of those did not express a strong preference for either.
 - 6 out of 10 participants found that the gray box referencing previously filled information to be helpful for context, even if the information wasn't directly relevant to them.
-- 6 out of 10 participants prefer the Veteran's personal information to be within a white box with a black border, 2 out of 10 participants prefer it to be gray, 1 participant prefers the existing address block, and 1 participant has no preference.
+- 6 out of 10 participants prefer the Veteran's personal information to be within a white box with a black border, citing that the area needs their attention, 2 out of 10 participants prefer it to be gray, 1 participant prefers the existing address block, and 1 participant has no preference.
 
   *The personal information box shows the Veteran's name, birthday, social security number, and sex. In a [previous study](https://github.com/department-of-veterans-affairs/va.gov-team/blob/41879e5885eea6f0f2965b1ba51f7c65407d863d/products/authenticated-patterns/Design-and-research/2024-09-Research-Initiative-Two-Update-Prefill/Update%20Prefill%20Research%20Report.md#hypotheses-and-conclusions) by the Authenticated Patterns team, they compared several different formats, resulting in the recommendation for the white box with a black border for editable and uneditable data. In our collaboration with this team, we presented three options: an address block formatting, a gray box formatting, and a white box with a black border. The participants overwhelmingly chose the white box with a black border as their preference.*
 
-- 6 out of 10 participants prefer the Martial Status question to use radio button options over the 2 participants that prefer a dropdown menu. The last two participants have no preference.
-
+- 6 out of 10 participants prefer the Marital Status question to use radio button options over the 2 participants that prefer a dropdown menu, citing that it is easier to see and requires fewer clicks. The last 2 participants have no preference.
 
 
 Key quotes:
@@ -139,13 +145,9 @@ Key quotes:
   - *P4: "How much longer is this going to take? I'm still on number 2".*
   - *P6: "Even if you click on next page, you're still not moving, kind of, this one bar".*
 
-- 3 participants expect an option for spouse address to match the Veteran's address.
-
-  - *P4: "If your spouse's address is different from the Veterans, you know, then give me this option (to edit)".*
-
 - 3 participants assumed that the prefilled information was from their VA profile.
 
-  - *P7: "This is stuff that you put in when you first create a VA account. So this again, you moved, or something, got a new phone, this is not going to change."
+  - *P7: "This is stuff that you put in when you first create a VA account. So this again, you moved, or something, got a new phone, this is not going to change."*
 
 - 1 participant, who works with homeless services, noted that improving online accessibility and standardized support communications could reduce wait times and make it easier for homeless Veterans to receive timely assistance.
 
@@ -161,14 +163,14 @@ Key quotes:
 **Additional Insights 1: Participants found the flow easy to use, reinforcing patterns from previous studies around clarity and supportive UI elements.**
 - All participants had recently used VA.gov.
 - Every section of the form has several participants, indicating the form is clear and straightforward.
-- Like [past studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Priority%20Group%20and%20Financial%20Disclosure/research-findings.md), many participants responded positively to the save-in-progess messages, hint text, pre-fill, and additional information component.
-  - 7 participants expanded the additional information component to read the description, with 5 expilicity indicating it is helpful.
-  - 6 participants mentioned that the save-in-progess alert is good.
+- Like [past studies](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/research/2023-06-Priority%20Group%20and%20Financial%20Disclosure/research-findings.md), many participants responded positively to the save-in-progress messages, hint text, pre-fill, and additional information component.
+  - 7 participants expanded the additional information component to read the description, with 5 explicitly indicating it is helpful.
+  - 6 participants mentioned that the save-in-progress alert is good.
  
 Key quotes:
 
 - *P1: "I would be zipping through this. This isn't rocket science, really".*
-- *P9: "These dropdown boxes are awesome". (re: additional information component*
+- *P9: "These dropdown boxes are awesome". (re: additional information component)*
 
 **Additional Insight 2: Participants prefer the online experience over the phone for making updates.**
 - 3 participants expressed a clear preference for self-service editing over calling, citing long wait times and complicated menus.
@@ -180,9 +182,12 @@ Key quote:
 **Additional Insight 3: The are drawbacks to using Figma for Prototype testing.**
 - 9 out of 10 participants have a service-connected disability rating of 50% or higher, meaning they aren't usually required to fill out the financial section.
 
+- 3 participants expect an option for spouse address to match the Veteran's address, not realizing this is a conditional flow. Note: For the user to see the Spouse Address page, they must select "No" for "Do you currently have the same address as your spouse?". But since it is a Figma prototype, the "No" was pre-selected and some participants were not aware of this conditional flow.
+
 Key quotes:
 - *P1: "None of this would be pertinent to me".*
 - *P4: "I've never been asked for any of my financial information. Very invasive. I think".*
+- *P4: "If your spouse's address is different from the Veterans, you know, then give me this option (to edit)".*
 
 ## Recommendations
 
@@ -192,7 +197,7 @@ Key quotes:
 
 **Recommendation 2: Optimize the health care flow to be more aligned with the Veteran's mental model**
 - Change the Marital Status option from the dropdown to radio buttons. 
-- Update the Veteran's personal information box from using the address block to the white box with black border. 
+- Update the Veteran's personal information box from using the address block to the white box with a black border. 
 
 **Recommendation 3: Optimize Confirmation Flow (Option Red)**
 - Adopt or hybridize the Confirmation Flow. Participants like the efficiency features of Option Red, such as the gray box reference, minimal toggle, and more condensed presentation of information.
@@ -204,18 +209,32 @@ Key quotes:
 
 **Recommendation 5: Explore ways for Va.gov to be in better alignment with the Veteran's mental model**
 - Explore integration with VA Profile to prefilled personal information through the health care process.
-- Explore ways to redesign the stepper component that could be incorprate by the larger OCTO team, such as the task list or percentage stepper component. 
+- Explore ways to redesign the stepper component that could be incorporated by the larger OCTO team, such as the task list or percentage stepper component. 
 
 **Recommendation 6: Prototype Testing considerations**
 - Improve scenario clarity in Figma-based testing (such as limiting it only to Veterans with Disability Rating under 50%).
 - Supplement Figma prototype testing with additional UAT for Assistive Tech users. 
+
+## AI
+**Data synthesis:**
+
+It can quickly generate summarized notes from transcripts and Mural notes, but it lacks contextual depth to provide helpful insights. When asked to pull insightful quotes from the transcripts, it produced many fabricated quotes. We found it easier to use the notes in Mural to scan for quotes manually, then use the video recording or transcript to confirm the complete context.
+
+**Brainstorming/ Writing:**
+
+It excels at assisting with brainstorming and writing tasks, often giving suggestions to rephrase and improve clarity or highlight areas that could benefit from further exploration.
+
+**Feedback:**
+
+We had it analyze our findings report. While not everything was relevant, it was generally helpful for providing a different perspective and identifying potential gaps.
+For instance, it suggested adding an executive summary and visualizations to help communicate effectively with decision-makers.
 
 ## Product User and Business Outcomes
 
 - **Desired User Outcome**
   - Veterans experience a faster, more efficient application process by being able to review and edit their Household information in a consolidated view, rather than navigating through page-by-page updates. This reduces the time and effort required to complete the 10-10EZR form, leading to greater satisfaction and fewer barriers to completion.
  
-- **Deisred Business Outcome**
+- **Desired Business Outcome**
   - The VHA receives more accurate and up-to-date household data from Veterans, as the streamlined “review and edit” approach encourages thorough review and correction of information. This improves data quality for healthcare eligibility and resource planning, ultimately supporting better decision-making and service delivery.
 
 

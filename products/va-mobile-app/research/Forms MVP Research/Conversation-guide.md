@@ -50,7 +50,7 @@ There are a few of my teammates who would like to observe this session as well. 
 
 Could the observers please turn their cameras off now to save bandwidth? 
 
-Today we're going to talk about filling out forms from the VA mobile app. I'm going to ask you a few questions, and then I'll have you do some specific tasks using the VA Health & Benefits App that I will share with you via a link here in a bit. As you go through these steps please speak aloud your thoughts and actions to help us understand more about your experience.
+Today we're going to talk about filling out forms from the VA mobile app. I'm going to ask you a few questions, and then I'll have you do some specific tasks using the VA Health & Benefits App, ending with a quick 10 question survey. As you go through these steps please speak aloud your thoughts and actions to help us understand more about your experience.
 
 Before we start, I want to go over a few things:
 
@@ -72,21 +72,11 @@ Before we start, I want to go over a few things:
  
   - **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners as long as we remove any information that can be used to identify you?** Yes / No
 
-In the bottom toolbar of the Zoom window, click the arrow next to **SHOW CAPTIONS** > **View Full Transcript** > Save (NEED TO DO THIS TO GET TRANSCRIPT)
+*Moderator: In the bottom toolbar of the Zoom window, click the arrow next to **SHOW CAPTIONS** > **View Full Transcript** > Save (NEED TO DO THIS TO GET TRANSCRIPT)*
 
 *After checking that transcription is working, close the Transcript panel by clicking **Close Full Transcript** in the Show Captions menu.*
 
-## Screen sharing instructions (if needed)
-- In the Zoom application on your mobile device, click the **More...** button and then click **Share** *(on your phone, you may need to scroll sideways)
-  - If you don't tap the screen for a while, all the buttons at the bottom will hide. To get them back, you can tap/click anywhere on the screen, and they'll show up again.
-  - (If you have more than one screen, the row of buttons may be on the screen that's being shared)
 
-- Now I'd like you to share your screen with me. Tap on the button that says **Share**. Then there will be options for what to share. Please choose **"Screen"** (phone) or your web browser.
-- Great, now I can see your screen! Thank you for your patience in figuring this out.
-- Is anything in these instructions unclear or confusing to you? Is there any language you’d change?”
-
-- iPad: **Broadcast screen**
-- 
 ## Troubleshooting
 - [Avoid **AI Companion**, which is a new option next to “Share” in the Zoom buttons]
 
@@ -129,20 +119,19 @@ I would like you to share your screen with me so that I can see what you do duri
 
 We can help guide you through this if you need help. Please say what you're doing out loud so that if there are any issues, we'll know what they are.
 1. Make sure that the Zoom application has focus
-1. Navigate to the screen share button
-1. Check the "share sound" checkbox (so we can hear their screen reader speaking)--may have to tab a LOT to get to this in the right pane
-1. Activate the screen share
+2. Navigate to the screen share button (may need to tap on mobile device to display the menu at the bottom, may have to scroll over to see menu options).
+3. Check the "share sound" checkbox (so we can hear their screen reader speaking)--may have to tab a LOT to get to this in the right pane
+4. Activate the screen share
 
 **(If video window is covering up phone screen)** It looks like my zoom video is covering up a lot of your screen. Could you please swipe it off? (Screen reader: swipe right until the video window has focus, and then double tap when you hear "Stash preview".)
 
 ## Task 00: Open prototype
 **for iOS users:** 
 Did you previously receive the link and instructions to download the testing version of the mobile app today?
-Y - Were you able to download the app via those instructions?
-    Y - skip down to note for all users
-N - Supply the following link and instructions
 
-I will *[email/text/dictate/put into the Zoom chat]* the URL: that takes you to download the testing app **[place url here](https://testflight.apple.com/join/RrO0Cw2q)** --
+Y - Were you able to download the app via those instructions? Y - skip down to note for all users
+
+N - I will now share in the zoom chat the URL: that takes you to download the testing app **[iOS url here](https://testflight.apple.com/join/RrO0Cw2q)** -- **[Android link](https://appdistribution.firebase.dev/i/6bea6c3fabc1a872)** Build #2726, build version 2.56.0
 - *(If asked, reassure that this is a legitimate link to what I want you to test)*
 
 Did you get the link? 
@@ -163,7 +152,19 @@ Instructions to access prototype (must access from your mobile device):
 8. Select "start testing" from the Share feedback screen.
 
 **for Android users:** 
-You will receive an email invite to the email you supplied us to download the testing app. Please navigate to your email and select that link now.
+1. You will receive an email invite to the email you supplied us to download the testing app. Please navigate to your email and select that link now.
+2. Open the email and click on "Get started"
+3. It may require you to sign in again to authorize the install.
+4. Select "Download app tester".
+5. While this is downloading, go to your device homescreen > Go to settings > About > click on play store version 7 times (may need to Select "app permissions")
+10. Receive a note "You are now a developer"
+11. Scroll up and press General, click on "Developer options"
+12. Toggle the "interal app sharing"
+13. Return to the window with the steps
+14. Download the release (ensure newest one #7)
+15. If you already have the app installed you'll have to select "Uninstall"
+16. And then go ahead and "Install"
+17. Pause before signing in
 
 **Note for all users: You'll be interacting with a demo prototype today.** Since it's a demo, note that none of your actions will affect your own VA information or benefits.
 
@@ -171,13 +172,13 @@ You will receive an email invite to the email you supplied us to download the te
 ## Task 1: Login to the VA Health and Benefits mobile app
 [start on the VA Health and Benefits mobile app version: 2.54.1.QA (2825)]
 
-I'd like you to take a look at this screen, and login. The system will automatically generate a test user login for you and assume credentials. 
+I'd like you to take a look at this screen, and sign in. The system will automatically generate a test user login for you and assume credentials. 
 
 As we go through the steps in this study, please talk aloud about what you're thinking BEFORE clicking on anything. And please share any thoughts, reactions, or questions you have about the current screen. 
 
 [Sign in using the 'Sign in' button on your screen > Once logged in you will see some initial app instructions, select "Skip" at the bottom-right of your screen > For the notification screen select "Not now".]
 
-[When they get to the homepage:] Please stop here so I can give you the next instruction.
+[When they get to the homepage:] Any data you are seeing here or throughout this test is not your real data or connected to your VA account in any way. This is a testing environment with artifical testing data displayed only. Please stop here so I can give you the next instruction.
 
 ### Questions for testing participant: 
 
@@ -187,9 +188,9 @@ Was any part hard to navigate or understand?
 
 
 ## Task 2: Start a statement
-Pretend that you need to start a new statement with the VA by completing a form. Where would you expect to find forms like these in the VA mobile app? What would you expect this section to be called?
+Pretend that you need to submit a statement in support of a claim via a form submission with the VA. Where would you expect to find forms like these in the VA mobile app? What would you expect this section to be called?
 
-[Select 'Go to forms' > Click the button 'Start a new statement' > Read the text on this page and continue on by clicking on the button 'Start a new statement', Read through the screen 'What would you like to do?' > Select 'What I want to do isn't listed here' > Click 'Continue'.]
+[Select 'Go to forms' > Click the button 'Start a new statement' > Read the text on this page and continue on by clicking on the button 'Start a new statement', Read through the screen 'What would you like to do?' > Select 'What I want to do isn't listed here' > Click 'Continue' > You will see a Github screen click 'Continue'.]
 
 Reminder to speak aloud any thoughts, reactions, or questions you have during this process.
 
@@ -303,13 +304,37 @@ Did you encounter any issues using your [screen reader/assistive tech/device]?
 Was any part hard to navigate or understand?
 
 ### SuS for testing participants:
-Now that you've completed the tasks above, I'm going to supply you with a link to a 10 questions survey.
+Now that you've completed the tasks above you can exit the VA testing app and return to your zoom app. You may need to tap on the screen to display the menu at the bottom of the zoom app. Find and select 'Chat' from the menu. I'm going to supply you with a link to a 10 questions survey.
 
 [Moderator copy/paste link to Qualitrix SuS into the chat] (SuS Link)(https://dj540s05.optimalworkshop.com/questions/vhbappformsmvp)
 
+Please select the link and take the survey.
+
+### Deleting the testing app:
+Now that we have completed the study today I'm going to prompt you to delete the VA testing app from your device. 
+
+**iOS users:** 
+If you navigate to your device home screen, and engage the menu screen of the VA testing app we used today select 'Delete app'. Remove from device.
+
+**Android users:***
+
+1. We now need to ensure you turn off the developer options we turned on for the test from the "Google Play Store".
+2. Navigate back to “Google Play Store”
+3. Select “uninstall”
+4. Go back to the main phone home screen, lower menu bar select square in the middle.
+5. Swipe up to remove Google Play Store window
+6. Now go back to the main screen, open the “Google Play Store”
+7. Click on your name in the top right 
+8. Settings > General > Click on the “Developer options” > Toggle off “Internal app sharing”
+9. Go to settings on phone > scroll to bottom > click on developer options > Toggle on top for on/off > Toggle off (it will obscure the screen because of screen share)
+10. Go back one, there should be no developer mode.
+11. Reinstall the VA app
+
+(hint: to switch browser windows the user can select the three lines III in the bottom left corner of their lower nav. menu)
+
 ## Thank You and Closing - 3 minutes
 
-**How easy or difficult did you find this process overall?**
+**How did you find this process overall?**
 
 **Was there any part that felt especially frustrating or mentally tiring?**
 

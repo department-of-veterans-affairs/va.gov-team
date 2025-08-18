@@ -5,27 +5,30 @@ Do these 3 steps first, _before any investigation of root cause is done_.
 ### 1. Collect
 **Coordinator/Techical Lead**: Collect information for triaging.
 
-1. Impact: **What percentage of Veterans are impacted?**
-2. System: **Which systems are involved?**
+1. Impact: **How is this affecting Veterans?**
+2. Error Type: **500s? 400s? 403s?**
+3. System: **Which systems are involved?**
+4. Timeframe: **Estimate - How long has the issue been going on?**
 
 ### 2. Notify
 2.1. **Coordinator**: Start a thread in [#beneficiary-travel-team](https://dsva.slack.com/archives/C05UTPZRZFY) with the following template:
 ```
 @kay @Kristen McConnell @Mark Dewey
-CC @Blaise Fox @Josh Patterson
+@btsss-api-team @btsss-vagov-team
 
-There is an ongoing significant incident with Travel Pay. 
+We're investigating an ongoing issue with Travel Pay. 
 
-Impacted Veterans %: xx%
-Impacted Systems:    System A, System B
+Impacted Veterans %:     xx% (or explicit #)
+Impacted Systems:        System A, System B
+Timeframe:               Issue has been going on for X minutes.
 
-We are continuing to investigate the issue and will post updates in this thread as we have them. :thread:
+We are investigating the issue and will post updates in this thread as we have them. :thread:
 ```
 
-2.2 **Coordinator**: Work with Kay, Kristen, and Mark to determine if this incident warrants setting up a maintenance window.
+2.2 **Coordinator**: Work with Kay, Kristen, Mark and Technical Lead to determine if this incident warrants setting up a maintenance window or rolling back the broken feature.
 
 ### 3. Track
-- **Technical Lead**: Start a debugging traceability document using [this Incident Investigation Traceability]() template. 
+- **Technical Lead**: Start a debugging traceability document using [this Incident Investigation Traceability](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/engineering/templates/incident_investigation_traceability_template.md) template. 
 
 <hr />
 
@@ -33,36 +36,36 @@ We are continuing to investigate the issue and will post updates in this thread 
 Slack channel is [#beneficiary-travel-team](https://dsva.slack.com/archives/C05UTPZRZFY)
 
 ### Core Roles
-#### Coordinator: The person in charge of coordinating and communicating the overall response.
+#### Coordinator: The person in charge of coordinating and communicating the overall response & resolution.
 - Name: Charlotte Reid
-- Email: charlotte.reid@adhocteam.us
+- Slack Handle: @Charlotte Reid
 
 #### Backup Coordinator:
 - Name: Kevin Duensing
-- Email: kevin.duensing@adhocteam.us
+- Slack Handle: @Kevin Duensing
 
 #### Technical Lead: The primary investigator, focused on technical debugging and resolution.
 - Name: Kevin Duensing
-- Email: kevin.duensing@adhocteam.us
+- Slack Handle: @Kevin Duensing
 
 #### Backup Technical Lead:
 - Name: Calvin Cieslak
-- Email: calvin.cieslak@adhocteam.us
+- Slack Handle: @Calvin Cieslak
 
 ### OCTO Roles
 #### Technical Lead: The person supporting and leading the engineering on the product from OCTO
 - Name: Mark Dewey
-- Email: mark.dewey@va.gov
+- Slack Handle: @Mark Dewey
 Reachable on Slack and Microsoft Teams
 
 #### UX Lead: The person supporting and leading the user experience on the product from OCTO
 - Name: Kristen McConnell 
-- Email: kristen.mcconnell@va.gov 
+- Slack Handle: @Kristen McConnell
 Reachable on Slack and Microsoft Teams
 
 #### Product Owner: The person supporting and leading the product from OCTO
 - Name: Kay Lawyer
-- Email: katherine.lawyer@va.gov 
+- Slack Handle: @Kay 
 Reachable on Slack and Microsoft Teams
 
 ### Supporting Teams & Contacts
@@ -72,22 +75,22 @@ Slack Channel: `#beneficiary-travel-team`
 ##### Contacts
 ##### Blaise Fox
 - Role: Business Analyst
-- Email: blaise.fox@va.gov 
+- Slack Handle: @Blaise Fox
 Reachable on Slack and Microsoft Teams.
 
 ##### Josh Patterson
 - Role: Technical Lead
-- Email: joshua.patterson2@va.gov
+- Slack Handle: @Josh Patterson
 Reachable on Slack and Microsoft Teams.
 
 ##### Tim Hawkins
 - Role: Developer
-- Email: timothy.hawkins1@va.gov 
+- @Slack Handle: @Tim Hawkins
 Reachable on Slack and Microsoft Teams.
 
 #### VFS Platform Team:
 - Slack Channel: [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1)
-- Engage this team when the impact is widespread
+- Engage this team when the impact is widespread (Confirm w/ Kay & Kristen before reaching out.)
 - Use the `/support` bot functionality (type `/support` into the main vfs-platform-support channel)
 and describe the incident.
 
@@ -101,9 +104,11 @@ be proactive in noticing and fixing production issues, we adhere to the followin
    scheduled from 8pm - 10pm ET, the VA.gov team would be on call from 7pm to 11pm ET.
 2. There should be a minimum of 1 person on call and ideally 2 people on call with exceptions for PTO, etc.
 3. On-call duties include
-   1. Responding to incidents
-   2. Validating VA.gov Travel Pay deployments [how in prod?]
-   3. Validating backing services (API, CRM) deployments [how in prod?]
+   1. Responding to testing requests from deploying teams
+   2. Responding to incidents
+   3. Validating VA.gov Travel Pay deployments [how in prod?]
+   4. Validating backing services (API, CRM) deployments [how in prod?]
+   5. Kicks off the Escalation process.
 
 ### Management
 - Schedule: The on-call schedule and rotation is managed in [PagerDuty](https://dsva.pagerduty.com/service-directory/PO9X8XN).
@@ -115,7 +120,7 @@ be proactive in noticing and fixing production issues, we adhere to the followin
 ### Escalation Steps
 - Initial Triage: On-call engineer attempts to resolve the issue for [Timeframe, e.g., 15 minutes].
 - Technical Escalation: If no progress is made, the on-call engineer pages the Technical Lead.
-- Leadership Escalation: For Sev 1 incidents or if the Technical Lead is unable to resolve the issue, the Incident Commander and relevant leadership are notified.
+- Leadership Escalation: For Sev 1 incidents or if the Technical Lead is unable to resolve the issue, the Coordinator and relevant leadership are notified.
 
 ## 🛠️ Debugging Steps
 
@@ -132,8 +137,15 @@ be proactive in noticing and fixing production issues, we adhere to the followin
     - To filter from a date and now, add `merged:>2025-01-01`
   - Check [#beneficiary-travel-team](https://dsva.slack.com/archives/C05UTPZRZFY) for API or CRM updates/release
   - Check shared calendar for API or CRM updates/releases
+    - API Release Schedule: https://confluence.devops.va.gov/display/VAExternal/Release+Versions
 
-Find more detailed debugging steps in our [in-depth debugging guide]().
+Find more detailed debugging steps in our [in-depth debugging guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/beneficiary-travel/engineering/guides/debugging.md).
+
+## Post-incident
+Follow these steps to clean up after an incident
+1. Remove any maintenance windows that are related to the incident
+2. Notify relevant groups that the incident is resolved
+3. For high-impact issues, spin up a post mortem using [this template](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Postmortems/_template.md)
 
 ## 📊 System Integration Diagram
 This diagram shows the upstream (right side) to downstream (left side) dependencies.
