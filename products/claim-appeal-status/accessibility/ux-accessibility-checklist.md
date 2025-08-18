@@ -15,7 +15,7 @@ This is a list of common things to look for when reviewing Figma designs for acc
 - [Focus Order & Reading Order](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#focus-order--reading-order)
 - [Form Elements](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#form-elements)
 - [Headings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#headings)
-- [Images](https://github.com/department-of-veterans-affairs/va.gov-team/vproducts/claim-appeal-status/accessibility/ux-accessibility-checklist.md#images)
+- [Images](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#images)
 - [Language/Cognitive](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#language--cognitive)
 - [Links & Buttons](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#lists)
 - [Lists](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#lists)
