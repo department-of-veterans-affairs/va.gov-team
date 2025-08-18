@@ -1,5 +1,7 @@
 # Caregivers
-
+## NOTE: The Caregivers team documents are located under the [products/caregivers folder path](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers
+).  
+- the documents in this folder are very old and saved for historical record purposes 
 ### Description of Current Work
 Create a online experience for Caregivers to apply for, track, and manage benefits.
 
