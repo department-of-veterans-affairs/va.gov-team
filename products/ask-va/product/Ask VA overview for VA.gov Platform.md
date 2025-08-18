@@ -46,12 +46,16 @@ In this doc:
 ## Connections
 **Most important question
 
-|System|Internal/External|POC|Encryption|Types of PII shared|MOU/ISA/IAA/other formal agreement?|
-|---|---|---|---|---|---|
-|Ask VA CRM|Internal|Natalie Morales|x|x|MOU in-progress|
-|Datadog|x|x|x|x|x|
-|Google Analytics 4 (GA4)|x|x|x|x|x|
-|Other systems|x|x|x|x|x|
+|System|Description|Internal/External to VA|POC|Encryption|Types of PII shared|MOU/ISA/IAA/other formal agreement?|
+|---|---|---|---|---|---|---|
+|Ask VA CRM|Backend CRM system containing Ask VA data and where VA agents respond to user questions|Internal to VA|Natalie Morales|[View example payloads](https://github.com/department-of-veterans-affairs/vets-api/blob/cbd946340354b964d205befc301698d325ee265d/modules/ask_va_api/spec/support/shared_contexts.rb#)<br>- Name, Date of Birth, SSN or Service number, Address, Phone number, Email address, Question from user (which sometimes contains PII because it's free text)<br>- In some cases, we get Business email from CRM and display it to the user|x|MOU in-progress|
+|VA Facilities API (Health facilities)|Get list of health facilities when form asks for health facility ([view field rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Field%20rules.md#health-facility))|Internal to VA|x|x|x|x|
+|Education facilities|Get list of education facilities when form asks for education facility ([view field rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Field%20rules.md#school-fields))|Internal to VA|x|x|x|x|
+|Address Validation API|Validate address when form asks for address ([view field rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Location%20and%20postal%20code.md#1-general-rules))|Internal to VA|x|x|x|x|
+|Mapbox|x|External to VA|x|x|x|x|
+|Datadog|x|x|x|x|x|x|
+|Google Analytics 4 (GA4)|x|x|x|x|x|x|
+|[Other systems]|x|x|x|x|x|
 
 ---
 - List the connections your team makes/maintains with systems outside the Platform AWS Environment
