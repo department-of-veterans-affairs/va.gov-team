@@ -34,10 +34,13 @@ Veteran ID Card: No major accessibility audit.
 Previous:
 - 6/26/2025 A11y 101: Screenreaders part 1 video & slides
   - 40 minute session on screenreader basics. Led by @bacitracin
- 
-Upcoming:
 - 7/16/2025 A11y 101: Keyboard Navigation
+  - 30 minute session on the importance of keyboard navigation. Includes how to test for the accessibility testing artifact for Staging Review in the Collab Cycle. Leg by @bacitracin  
 
+Upcoming:
+- How to test for the Accessibility Testing Artifact for Staging Review
+- How to create Accessibility Annotations
+  
 ## Resources
 
 Much of the accessibility-related documentation resides elsewhere on shared, Platform areas.
@@ -51,3 +54,5 @@ Much of the accessibility-related documentation resides elsewhere on shared, Pla
 Benefits Accessibility Onboarding: This presentation can be given to new teammates or those new to accessibility. It's located in the Benefits Tools accessibility folder on Sharepoint.
 
 [Accessibility Cookbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/accessibility-cookbook.md): The Accessibility Cookbook was written with the help of the accessibility specialists on the Benefits team, and can be turned to for various accessibility questions.
+
+[UX Accessibility Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md): This is a list of common things to look for when reviewing Figma designs for accessibility, before handing off to engineering. More of a gut-check, a non-exhaustive list by @bacitracin.
