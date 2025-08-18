@@ -1,22 +1,22 @@
-# Content and Information Architecture
+# Education Benefits Tools
 
 ## Team Information
 
 ### Basic Details
 
-- **Team Name:** Content and Information Architecture
-- **Short Name:** content-and-information-architecture _(Used for directory URLs and should ideally match your GitHub team name below)_
+- **Team Name:** Education Benefits Tools
+- **Short Name:** education-benefits-tools _(Used for directory URLs and should ideally match your GitHub team name below)_
 - **GitHub Team Name:** [github-team-name] _(Exact name of GitHub team which is also found in your GitHub team link below)_
 - **GitHub Team Labels:**
   - [github-label-1]
   - [github-label-2]
 - **GitHub Team Link:** [https://github.com/orgs/department-of-veterans-affairs/teams/github-team-name]
-- **Slack Channel:** [#content-ia-centralized-team](https://dsva.slack.com/channels/content-ia-centralized-team)
+- **Slack Channel:** [#education-benefits-tools](https://dsva.slack.com/channels/education-benefits-tools)
 
 ### Organizational Affiliation
 
 - **VA Business Owner:** OCTO
-- **Portfolio:** Digital Experience
+- **Portfolio:** Benefits
 - **Crew or Pod:** [crew-or-pod-name] _refer to crews-and-pods.md_
 - **Contracting Organization:** [Name of contracting company, if applicable]
 
@@ -24,16 +24,16 @@
 
 Directory system will parse this section to display team member contact information
 
-#### OCTO-DE Leads
+#### Product Owner
 
-- **Name:** Danielle Thierry
-- **GitHub:** [@DanielleThierryUSDSVA](https://github.com/DanielleThierryUSDSVA)
-- **Email:** [danielle.thierry@va.gov]
-- **Role:** OCTO-DE Lead
+- **Name:** Darla van Nieukerk
+- **GitHub:** N/A
+- **Email:** [darla.vannieukerk@va.gov]
+- **Role:** Product Owner
 
 #### Team Representative
 
-- **Name:** Misty Milliron-Grant
+- **Name:** [Team Representative Name]
 - **GitHub:** [@github-username]
 - **Email:** [contact-email@va.gov]
 - **Role:** Team Representative
@@ -44,7 +44,7 @@ Brief description of your team's mission, focus areas, and how you support Veter
 
 ## Products We Own
 
-> Directory system will cross-reference these with product details.yml files containing `team: "content-and-information-architecture"`
+> Directory system will cross-reference these with product details.yml files containing `team: "education-benefits-tools"`
 
 - **[Product 1 Directory Entry]:** Link to product in /products directory when available and provide a brief description.
 - **[Product 2 Directory Entry]:** Link to product in /products directory when available and provide a brief description.

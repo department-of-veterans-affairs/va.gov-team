@@ -1,49 +1,54 @@
-# Content Management System (CMS)
+# Decision Reviews
 
 ## Team Information
 
 ### Basic Details
 
-- **Team Name:** Content Management System
-- **Short Name:** cms _(Used for directory URLs and should ideally match your GitHub team name below)_
+- **Team Name:** Decision Reviews
+- **Short Name:** decision-reviews
 - **GitHub Team Name:** [github-team-name] _(Exact name of GitHub team which is also found in your GitHub team link below)_
 - **GitHub Team Labels:**
   - [github-label-1]
   - [github-label-2]
 - **GitHub Team Link:** [https://github.com/orgs/department-of-veterans-affairs/teams/github-team-name]
-- **Slack Channel:** [#sitewide-cms-platform](https://dsva.slack.com/channels/sitewide-cms-platform), [#next-build](https://dsva.slack.com/channels/next-build)
+- **Slack Channel:** [#channel-name](https://dsva.slack.com/channels/channel-name)
 
 ### Organizational Affiliation
 
-- **VA Business Owner:** OCTO
-- **Portfolio:** Digital Experience
-- **Crew or Pod:** [crew-or-pod-name] _refer to crews-and-pods.md_
+- **VA Business Owner:** VBA
+- **Portfolio:** Benefits
+- **Crew or Pod:** Cross-Benefits Crew
 - **Contracting Organization:** [Name of contracting company, if applicable]
 
 ### Team Roster
 
 Directory system will parse this section to display team member contact information
 
-#### OCTO-DE Leads
+#### Product Owner
 
-- **Name:** Erika Washburn
-- **GitHub:** [@EWashb](https://github.com/EWashb)
-- **Email:** [erika.washburn@va.gov]
-- **Role:** OCTO-DE Lead
+- **Name:** Amy Lai
+- **GitHub:** [@amylai-va](https://github.com/amylai-va)
+- **Email:** [contact-email@va.gov]
+- **Role:** OCTO PO
 
-#### Team Representative
+#### Team Lead
 
-- **Name:** Grace Kretschmer Tran
+- **Name:** [Full Name]
 - **GitHub:** [@github-username]
 - **Email:** [contact-email@va.gov]
-- **Role:** Team Representative
+- **Role:** Team Lead
 
-#### Team Representative
+#### OCTO Leads
 
-- **Name:** Kelly Lein
+- **Name:** Julie Strothman
 - **GitHub:** [@github-username]
 - **Email:** [contact-email@va.gov]
-- **Role:** Team Representative
+- **Role:** OCTO Design/Research Lead
+
+- **Name:** Cory Schrakoff
+- **GitHub:** [@github-username]
+- **Email:** [contact-email@va.gov]
+- **Role:** OCTO Engineering Lead
 
 ## About This Team
 
@@ -51,11 +56,12 @@ Brief description of your team's mission, focus areas, and how you support Veter
 
 ## Products We Own
 
-> Directory system will cross-reference these with product details.yml files containing `team: "cms"`
+_Directory system will cross-reference these with product details.yml files containing `team: "[team-slug-name]"`. Copy the template at https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/product-details-template.yml into your product directories then rename and update appropriately._
 
-- **[Content Management System](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/cms):** Link to product in /products directory when available and provide a brief description.
+- **[Product 1 Entry](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/[product-name]/[product-name]-details.yml):** Link to product in /products directory and provide a brief description.
+- **[Product 2 Entry](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/[product-name]/[product-name]-details.yml):** Link to product in /products directory and provide a brief description.
 
-Add additional products as needed
+Add additional products as needed.
 
 ### Product highlights
 

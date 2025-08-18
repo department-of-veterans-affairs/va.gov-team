@@ -11,7 +11,7 @@
   - platform-design-system-team
   - forms-library
 - **GitHub Team Link:** <https://github.com/orgs/department-of-veterans-affairs/teams/platform-design-system-team>
-- **Slack Channel:** #platform-design-system, #veteran-facing-forms
+- **Slack Channel:** [#platform-design-system](https://dsva.slack.com/channels/platform-design-system)
 
 ### Organizational Affiliation
 
@@ -24,12 +24,12 @@
 
 Directory system will parse this section to display team member contact information
 
-#### Product Owner
+#### OCTO-DE Leads
 
-- **Name:** Matthew Dingee
-- **GitHub:** @humancompanion-usds
+- **Name:** Matt Dingee
+- **GitHub:** [@humancompanion-usds](https://github.com/humancompanion-usds)
 - **Email:** <matthew.dingee@va.gov>
-- **Role:** Product Owner
+- **Role:** OCTO-DE Lead
 
 #### Program Manager
 
@@ -40,8 +40,8 @@ Directory system will parse this section to display team member contact informat
 
 #### Additional Team Members
 
-- Product Manager Lead: Tricia Baker
-- Product Manager: Carol Wong
+- Product Manager Lead: Tricia Baker (Team Representative)
+- Product Manager: Carol Wong (Team Representative)
 - Engineering Lead: Nick Sprinkle
 - UX Designer: Barb Denney
 - UX Designer: Dan Brady

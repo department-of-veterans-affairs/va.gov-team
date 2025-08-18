@@ -1,17 +1,17 @@
-# Content and Information Architecture
+# Iterate, Innovate, and Run
 
 ## Team Information
 
 ### Basic Details
 
-- **Team Name:** Content and Information Architecture
-- **Short Name:** content-and-information-architecture _(Used for directory URLs and should ideally match your GitHub team name below)_
+- **Team Name:** Iterate, Innovate, and Run
+- **Short Name:** iterate-innovate-and-run _(Used for directory URLs and should ideally match your GitHub team name below)_
 - **GitHub Team Name:** [github-team-name] _(Exact name of GitHub team which is also found in your GitHub team link below)_
 - **GitHub Team Labels:**
   - [github-label-1]
   - [github-label-2]
 - **GitHub Team Link:** [https://github.com/orgs/department-of-veterans-affairs/teams/github-team-name]
-- **Slack Channel:** [#content-ia-centralized-team](https://dsva.slack.com/channels/content-ia-centralized-team)
+- **Slack Channel:** [#iir-product-teams-public](https://dsva.slack.com/channels/iir-product-teams-public)
 
 ### Organizational Affiliation
 
@@ -26,14 +26,35 @@ Directory system will parse this section to display team member contact informat
 
 #### OCTO-DE Leads
 
-- **Name:** Danielle Thierry
-- **GitHub:** [@DanielleThierryUSDSVA](https://github.com/DanielleThierryUSDSVA)
-- **Email:** [danielle.thierry@va.gov]
+- **Name:** Dave Conlon
+- **GitHub:** [@davidconlon](https://github.com/davidconlon)
+- **Email:** [dave.conlon@va.gov]
 - **Role:** OCTO-DE Lead
 
 #### Team Representative
 
-- **Name:** Misty Milliron-Grant
+- **Name:** Megan
+- **GitHub:** [@github-username]
+- **Email:** [contact-email@va.gov]
+- **Role:** Team Representative
+
+#### Team Representative
+
+- **Name:** Mike
+- **GitHub:** [@github-username]
+- **Email:** [contact-email@va.gov]
+- **Role:** Team Representative
+
+#### Team Representative
+
+- **Name:** Pete
+- **GitHub:** [@github-username]
+- **Email:** [contact-email@va.gov]
+- **Role:** Team Representative
+
+#### Team Representative
+
+- **Name:** Tabinda
 - **GitHub:** [@github-username]
 - **Email:** [contact-email@va.gov]
 - **Role:** Team Representative
@@ -44,7 +65,7 @@ Brief description of your team's mission, focus areas, and how you support Veter
 
 ## Products We Own
 
-> Directory system will cross-reference these with product details.yml files containing `team: "content-and-information-architecture"`
+> Directory system will cross-reference these with product details.yml files containing `team: "iterate-innovate-and-run"`
 
 - **[Product 1 Directory Entry]:** Link to product in /products directory when available and provide a brief description.
 - **[Product 2 Directory Entry]:** Link to product in /products directory when available and provide a brief description.

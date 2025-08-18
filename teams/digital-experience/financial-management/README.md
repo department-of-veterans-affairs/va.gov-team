@@ -1,17 +1,17 @@
-# Content and Information Architecture
+# Financial Management
 
 ## Team Information
 
 ### Basic Details
 
-- **Team Name:** Content and Information Architecture
-- **Short Name:** content-and-information-architecture _(Used for directory URLs and should ideally match your GitHub team name below)_
+- **Team Name:** Financial Management
+- **Short Name:** financial-management _(Used for directory URLs and should ideally match your GitHub team name below)_
 - **GitHub Team Name:** [github-team-name] _(Exact name of GitHub team which is also found in your GitHub team link below)_
 - **GitHub Team Labels:**
   - [github-label-1]
   - [github-label-2]
 - **GitHub Team Link:** [https://github.com/orgs/department-of-veterans-affairs/teams/github-team-name]
-- **Slack Channel:** [#content-ia-centralized-team](https://dsva.slack.com/channels/content-ia-centralized-team)
+- **Slack Channel:** [#financial-management](https://dsva.slack.com/channels/financial-management)
 
 ### Organizational Affiliation
 
@@ -24,16 +24,21 @@
 
 Directory system will parse this section to display team member contact information
 
-#### OCTO-DE Leads
+#### OCTO-DE Lead
 
-- **Name:** Danielle Thierry
-- **GitHub:** [@DanielleThierryUSDSVA](https://github.com/DanielleThierryUSDSVA)
-- **Email:** [danielle.thierry@va.gov]
+- **Name:** Denise Coveyduc
+- **GitHub:** [@denisecoveyduc](https://github.com/denisecoveyduc)
+- **Email:** [denise.coveyduc@va.gov]
 - **Role:** OCTO-DE Lead
 
-#### Team Representative
+#### Team Representatives
 
-- **Name:** Misty Milliron-Grant
+- **Name:** Heather Rienks
+- **GitHub:** [@github-username]
+- **Email:** [contact-email@va.gov]
+- **Role:** Team Representative
+
+- **Name:** Tom Davis
 - **GitHub:** [@github-username]
 - **Email:** [contact-email@va.gov]
 - **Role:** Team Representative
@@ -44,7 +49,7 @@ Brief description of your team's mission, focus areas, and how you support Veter
 
 ## Products We Own
 
-> Directory system will cross-reference these with product details.yml files containing `team: "content-and-information-architecture"`
+> Directory system will cross-reference these with product details.yml files containing `team: "financial-management"`
 
 - **[Product 1 Directory Entry]:** Link to product in /products directory when available and provide a brief description.
 - **[Product 2 Directory Entry]:** Link to product in /products directory when available and provide a brief description.

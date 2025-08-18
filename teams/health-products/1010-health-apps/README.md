@@ -1,42 +1,45 @@
-# Content and Information Architecture
+# 1010 Health Apps
 
 ## Team Information
 
 ### Basic Details
 
-- **Team Name:** Content and Information Architecture
-- **Short Name:** content-and-information-architecture _(Used for directory URLs and should ideally match your GitHub team name below)_
-- **GitHub Team Name:** [github-team-name] _(Exact name of GitHub team which is also found in your GitHub team link below)_
+- **Team Name:** 1010 Health Apps
+- **Short Name:** 1010-health-apps
+- **GitHub Team Name:** [github-team-name]
 - **GitHub Team Labels:**
   - [github-label-1]
   - [github-label-2]
-- **GitHub Team Link:** [https://github.com/orgs/department-of-veterans-affairs/teams/github-team-name]
-- **Slack Channel:** [#content-ia-centralized-team](https://dsva.slack.com/channels/content-ia-centralized-team)
+- **GitHub Team Link:** [https://github.com/orgs/department-of-veterans-affairs/teams/1010-health-apps-frontend]
+- **Slack Channel:** [#1010-health-apps](https://dsva.slack.com/channels/1010-health-apps)
 
 ### Organizational Affiliation
 
 - **VA Business Owner:** OCTO
-- **Portfolio:** Digital Experience
-- **Crew or Pod:** [crew-or-pod-name] _refer to crews-and-pods.md_
+- **Portfolio:** Health
+- **Crew or Pod:** [crew-or-pod-name]
 - **Contracting Organization:** [Name of contracting company, if applicable]
 
 ### Team Roster
 
-Directory system will parse this section to display team member contact information
+#### Team Representatives
 
-#### OCTO-DE Leads
-
-- **Name:** Danielle Thierry
-- **GitHub:** [@DanielleThierryUSDSVA](https://github.com/DanielleThierryUSDSVA)
-- **Email:** [danielle.thierry@va.gov]
-- **Role:** OCTO-DE Lead
-
-#### Team Representative
-
-- **Name:** Misty Milliron-Grant
+- **Name:** Heather Justice
 - **GitHub:** [@github-username]
 - **Email:** [contact-email@va.gov]
 - **Role:** Team Representative
+
+- **Name:** Alex Parker
+- **GitHub:** [@github-username]
+- **Email:** [contact-email@va.gov]
+- **Role:** Team Representative
+
+#### OCTO-DE Lead
+
+- **Name:** Patrick Bateman
+- **GitHub:** [@batemapf](https://github.com/batemapf)
+- **Email:** [patrick.bateman@va.gov]
+- **Role:** OCTO-DE Lead
 
 ## About This Team
 
@@ -44,7 +47,7 @@ Brief description of your team's mission, focus areas, and how you support Veter
 
 ## Products We Own
 
-> Directory system will cross-reference these with product details.yml files containing `team: "content-and-information-architecture"`
+> Directory system will cross-reference these with product details.yml files containing `team: "10-10-health-apps"`
 
 - **[Product 1 Directory Entry]:** Link to product in /products directory when available and provide a brief description.
 - **[Product 2 Directory Entry]:** Link to product in /products directory when available and provide a brief description.

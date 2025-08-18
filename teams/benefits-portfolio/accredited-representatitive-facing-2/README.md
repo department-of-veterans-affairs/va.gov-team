@@ -1,19 +1,11 @@
-# [Team Name]
-
-## Instructions
-
-- To create a copy of this template, click "Edit" then copy all of the content within the file. Within your team folder, which is located in a folder for your team's portfolio, create a new file called "README.md" and paste this content.
-- Update and complete as applicable to your team. Replace all bracketed placeholders with your actual team information.
-- This template is designed to be parsed by an automated directory system to display team rosters, product owner classifications, and organizational affiliations. Thus please don't make changes to the format in the Team Information section. Do your best to fill out all parts of that section (rather than putting n/a ask for help as every team should have this information)
-- Copy the [Product details template](../products/product-details-template.yml) into each product directory of the products your team works on. Name the file "[product-name]-details.yml". Then complete that file to the best of your ability for your product. Not all fields are required.
-- Delete this Instructions section when you are done.
+# Accredited Representative Facing 2
 
 ## Team Information
 
 ### Basic Details
 
-- **Team Name:** [Full Team Name as it appears in VA systems]
-- **Short Name:** [team-slug-name] _(Used for directory URLs and should ideally match your GitHub team name below)_
+- **Team Name:** Accredited Representative Facing 2
+- **Short Name:** accredited-representatitive-facing-2
 - **GitHub Team Name:** [github-team-name] _(Exact name of GitHub team which is also found in your GitHub team link below)_
 - **GitHub Team Labels:**
   - [github-label-1]
@@ -23,9 +15,9 @@
 
 ### Organizational Affiliation
 
-- **VA Business Owner:** [OCTO/VES/VHA/VBA/NCA/VACO]
-- **Portfolio:** [Benefits/Digital Experience/Health]
-- **Crew or Pod:** [crew-or-pod-name] _refer to crews-and-pods.md_
+- **VA Business Owner:** VBA
+- **Portfolio:** Benefits
+- **Crew or Pod:** Accredited Reps Crew
 - **Contracting Organization:** [Name of contracting company, if applicable]
 
 ### Team Roster
@@ -34,8 +26,8 @@ Directory system will parse this section to display team member contact informat
 
 #### Product Owner
 
-- **Name:** [Full Name]
-- **GitHub:** [@github-username]
+- **Name:** Jen Bertsch
+- **GitHub:** [@jenniferbertsch](https://github.com/jenniferbertsch)
 - **Email:** [contact-email@va.gov]
 - **Role:** OCTO PO
 
@@ -45,6 +37,18 @@ Directory system will parse this section to display team member contact informat
 - **GitHub:** [@github-username]
 - **Email:** [contact-email@va.gov]
 - **Role:** Team Lead
+
+#### OCTO Leads
+
+- **Name:** Shannon Ford
+- **GitHub:** [@github-username]
+- **Email:** [contact-email@va.gov]
+- **Role:** OCTO Design/Research Lead
+
+- **Name:** Sam Raudabaugh
+- **GitHub:** [@github-username]
+- **Email:** [contact-email@va.gov]
+- **Role:** OCTO Engineering Lead
 
 ## About This Team
 
@@ -71,9 +75,11 @@ This team actively contributes toward the following 2025 OCTO OKRs:
 
 > List the appropriate OCTO OKRs as follows:
 
-- **Objective 1: VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.**
+- **Objective 1: VA's digital experiences are the easiest and most efficient way to access VA health care and benefits.**
   - OKR 1.1: Improve satisfaction with our web and mobile products by 5 points.
 
 ## Key Documents
 
 - [Team Charter](team-charter.md)
+- [Roadmap]()
+- [Document Name]()

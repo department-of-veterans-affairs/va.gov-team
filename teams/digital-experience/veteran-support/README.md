@@ -1,17 +1,17 @@
-# Content and Information Architecture
+# Veteran Support
 
 ## Team Information
 
 ### Basic Details
 
-- **Team Name:** Content and Information Architecture
-- **Short Name:** content-and-information-architecture _(Used for directory URLs and should ideally match your GitHub team name below)_
+- **Team Name:** Veteran Support
+- **Short Name:** veteran-support _(Used for directory URLs and should ideally match your GitHub team name below)_
 - **GitHub Team Name:** [github-team-name] _(Exact name of GitHub team which is also found in your GitHub team link below)_
 - **GitHub Team Labels:**
   - [github-label-1]
   - [github-label-2]
 - **GitHub Team Link:** [https://github.com/orgs/department-of-veterans-affairs/teams/github-team-name]
-- **Slack Channel:** [#content-ia-centralized-team](https://dsva.slack.com/channels/content-ia-centralized-team)
+- **Slack Channel:** [#vsp-contact-center-support](https://dsva.slack.com/channels/vsp-contact-center-support)
 
 ### Organizational Affiliation
 
@@ -26,25 +26,34 @@ Directory system will parse this section to display team member contact informat
 
 #### OCTO-DE Leads
 
-- **Name:** Danielle Thierry
-- **GitHub:** [@DanielleThierryUSDSVA](https://github.com/DanielleThierryUSDSVA)
-- **Email:** [danielle.thierry@va.gov]
+- **Name:** Chante Lantos-Swett
+- **GitHub:** [@clantosswett](https://github.com/clantosswett)
+- **Email:** [chante.lantosswett@va.gov]
 - **Role:** OCTO-DE Lead
 
 #### Team Representative
 
-- **Name:** Misty Milliron-Grant
+- **Name:** Anita Middleton
 - **GitHub:** [@github-username]
 - **Email:** [contact-email@va.gov]
 - **Role:** Team Representative
 
 ## About This Team
 
-Brief description of your team's mission, focus areas, and how you support Veterans. Include any specializations or unique capabilities.
+The Veteran Support Crew leads the digital support experience on and for VA.gov and the VA Health and Benefits app. We bridge the gap between Veterans & VA staff by providing tools, information, and coordination to product teams, the helpdesks, and the end users.
+
+### North Star 
+
+Ensure Veteran problems are quickly addressed through a seamless experience that connects users to support tools and channels and collects data to drive improvements. 
+
+We imagine a support experience that: 
+- makes the VA support bureaucracy invisible to the Veteran by surfacing the relevant content, tools and support channels so Veterans can decide how they want to get help.
+- quickly identifies recurring problems or pain points through feedback and data, and empowers teams to quickly solve them.
+- proactively informs and collaborates with VA support stakeholders to ensure the best possible process for resolving VA.gov user issues.
 
 ## Products We Own
 
-> Directory system will cross-reference these with product details.yml files containing `team: "content-and-information-architecture"`
+> Directory system will cross-reference these with product details.yml files containing `team: "veteran-support"`
 
 - **[Product 1 Directory Entry]:** Link to product in /products directory when available and provide a brief description.
 - **[Product 2 Directory Entry]:** Link to product in /products directory when available and provide a brief description.
@@ -68,6 +77,6 @@ This team actively contributes toward the following 2025 OCTO OKRs:
 
 ## Key Documents
 
-- [Team Charter](team-charter.md)
+- [Crew Charter](crew charter.md)
 - [Roadmap]()
 - [Document Name]()

@@ -16,8 +16,7 @@
 - **Short Name:** [team-slug-name] _(Used for directory URLs and should ideally match your GitHub team name below)_
 - **GitHub Team Name:** [github-team-name] _(Exact name of GitHub team which is also found in your GitHub team link below)_
 - **GitHub Team Labels:**
-  - [github-label-1]
-  - [github-label-2]
+  - [bmt-team-2]
 - **GitHub Team Link:** [https://github.com/orgs/department-of-veterans-affairs/teams/github-team-name]
 - **Slack Channel:** [#channel-name](https://dsva.slack.com/channels/channel-name)
 
@@ -52,12 +51,12 @@ Brief description of your team's mission, focus areas, and how you support Veter
 
 ## Products We Own
 
-_Directory system will cross-reference these with product details.yml files containing `team: "[team-slug-name]"`. Copy the template at https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/product-details-template.yml into your product directories then rename and update appropriately._
+> Directory system will cross-reference these with product details.yml files containing `team: "[team-slug-name]"`
 
-- **[Product 1 Entry](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/[product-name]/[product-name]-details.yml):** Link to product in /products directory and provide a brief description.
-- **[Product 2 Entry](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/[product-name]/[product-name]-details.yml):** Link to product in /products directory and provide a brief description.
+- **[Product 1 Directory Entry]:** Link to product in /products directory when available and provide a brief description.
+- **[Product 2 Directory Entry]:** Link to product in /products directory when available and provide a brief description.
 
-Add additional products as needed.
+Add additional products as needed
 
 ### Product highlights
 
@@ -71,9 +70,11 @@ This team actively contributes toward the following 2025 OCTO OKRs:
 
 > List the appropriate OCTO OKRs as follows:
 
-- **Objective 1: VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.**
+- **Objective 1: VA's digital experiences are the easiest and most efficient way to access VA health care and benefits.**
   - OKR 1.1: Improve satisfaction with our web and mobile products by 5 points.
 
 ## Key Documents
 
 - [Team Charter](team-charter.md)
+- [Roadmap]()
+- [Document Name]()
