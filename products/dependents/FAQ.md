@@ -212,6 +212,7 @@ Source: [Amy Grace Wells, July 2025](https://dsva.slack.com/archives/C07RB9N9M6J
   - Bilogical children, step-children, and adopted children
      - The step-child's relationship to the Veteran is tied to the current spouse. If there is no current spouse then there is no step-child relationship that exists any longer. 
   - Foster children cannot be added (not recognized under [38 CFR 3.57](https://www.ecfr.gov/current/title-38/chapter-I/part-3/subpart-A/subject-group-ECFR2f2f66751230c72/section-3.57))
+  - [Rules and definitions](https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000176624/M21-1-Part-VII-Subpart-i-Chapter-3-Section-B-Biological-Children-Adopted-Children-and-Stepchildren?query=stepchildren#6) associated with biological children, adopted children, and stepchildren
 
   [Source: Kevin Schneider (Slack message) 4/28/25](https://dsva.slack.com/archives/C0547Q0K0LF/p1745847761380209)
 </details>
