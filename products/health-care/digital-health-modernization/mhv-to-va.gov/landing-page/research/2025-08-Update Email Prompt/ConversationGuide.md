@@ -105,12 +105,12 @@ Now, I want you to imagine that you it's a regular day.  You are starting a new 
 
 ## **Option A: Veteran does not have an email on file**
 
+[Flow A](https://www.figma.com/proto/CAChU51fWYMZsgDR5RXeSc/MHV-Landing-Page?page-id=5465%3A1304&node-id=5861-21571&viewport=26%2C-947%2C0.42&t=spgbQ62qjaRH4JSQ-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=5861%3A21571&show-proto-sidebar=1)
 
 ### **Start on: “Add a contact email address” page**
 
 
 ### ***First impressions***
-
 
 
 1. Tell me what you are looking at.
@@ -165,6 +165,7 @@ Moderator note: Switch to other Option (so if completed Option A, move to Option
 
 ## **Option B: Veteran has an email on file**
 
+[Flow B](https://www.figma.com/proto/CAChU51fWYMZsgDR5RXeSc/MHV-Landing-Page?page-id=5465%3A1304&node-id=5861-19456&viewport=26%2C-947%2C0.42&t=spgbQ62qjaRH4JSQ-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=5861%3A19456&show-proto-sidebar=1)
 
 ### **Start on: “Action needed: confirm or update contact email” page**
 
@@ -213,6 +214,14 @@ _[moderator note: show me/prompt to click confirm]_
 1. What would you change about these processes?
 2. What about this process would you keep?
 3. Thinking about these processes, is there anything else you would like to share that we have not covered?
+
+## **Comms recall questions**
+1. Do you recall getting any communication about upcoming changes to how the VA would be communicating with you?
+
+link to July 7 email 
+
+2. Do you recall this email?
+3. Anything else to share?
 
 ## **Consent to use video clips**
 
