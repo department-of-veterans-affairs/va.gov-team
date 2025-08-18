@@ -50,21 +50,4 @@ Tool | Access | Purpose
 
 
 ### External Dependencies
-The mobile app relies on many external systems in order to retrieve and process data. When any of the systems identified below encounter issues, the mobile app is directly impacted.
- Mobile App Feature | Feature Maintenance Window Service | External Dependency | External Dependency Maintenance Window Service
- :-- | :-- | :-- | :--
- Authentication and Token Access | | [IAM SSOe OAuth](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/External%20Service%20Integrations/SSOe%20OAuth%20Services.md) | [SSOe OAuth](https://dsva.pagerduty.com/service-directory/P0J60YD)
- Authentication - individual credentials | | [ID.me](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/External%20Service%20Integrations/ID.me.md), [MHV](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/External%20Service%20Integrations/My%20Healthe%20Vet.md), [DSLogon](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/External%20Service%20Integrations/DS_logon.md) | [ID.me](https://dsva.pagerduty.com/service-directory/PVWB4R8), [MHV](https://dsva.pagerduty.com/service-directory/PP2ZZ2V), [DSLogon](https://dsva.pagerduty.com/service-directory/P9DJJAV)
- Profile | | [VA Profile](https://depo-platform-documentation.scrollhelp.site/developer-docs/VA-Profile.1885602002.html) | [VA Profile](https://dsva.pagerduty.com/service-directory/PHVOGQ1)
- Letters | | [EVSS](https://depo-platform-documentation.scrollhelp.site/developer-docs/EVSS.1887240213.html) | [EVSS](https://dsva.pagerduty.com/service-directory/PZKWB6Y)
- Claims | | [EVSS](https://depo-platform-documentation.scrollhelp.site/developer-docs/EVSS.1887240213.html) | [EVSS](https://dsva.pagerduty.com/service-directory/PZKWB6Y)
-  Direct Deposit Benefits | | [EVSS](https://depo-platform-documentation.scrollhelp.site/developer-docs/EVSS.1887240213.html) | [EVSS](https://dsva.pagerduty.com/service-directory/PZKWB6Y)
-   Disability Rating | | [EVSS](https://depo-platform-documentation.scrollhelp.site/developer-docs/EVSS.1887240213.html) | [EVSS](https://dsva.pagerduty.com/service-directory/PZKWB6Y)
- Appeals | | [Caseflow](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/External%20Service%20Integrations/Appeals.md) | [Appeals](https://dsva.pagerduty.com/service-directory/P9S4RFU)
- Secure Messaging | | [MHV](https://github.com/department-of-veterans-affairs/devops/blob/master/docs/External%20Service%20Integrations/My%20Healthe%20Vet.md) | [MHV](https://dsva.pagerduty.com/service-directory/PP2ZZ2V)
- Appointments | | [VAOS](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/engineering/incident_response/VAOS%20Incident%20Playbook.md#incident-escalation) |
- Immunizations | | [Lighthouse](https://developer.va.gov/explore/health/docs/fhir?version=current) |
- Push Notifications | | [VEText](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/vetext), [VANotify](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-notify) |
- 
- [Other External Service Integrations](https://github.com/department-of-veterans-affairs/devops/tree/master/docs/External%20Service%20Integrations)<br/>
- _Note that some of these external service integration documents have not been vetted recently_
+The mobile app relies on many external systems in order to retrieve and process data. When any of these systems encounter issues, the mobile app is directly impacted. To see a list of external depenencies, view the [upstream services map](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Engineering/BackEnd/Architecture/Services/).
