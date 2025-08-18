@@ -130,7 +130,7 @@ entered by or provided to the user that is required to be entered again in the s
 ## Links & Buttons
 
 - [ ]  Are you choosing the correct element for the job? Does clicking on your item do something, or go somewhere? If it goes somewhere (either to a different page or to a different location on the same page), it should be a link. **Buttons activate scripted functionality** (e.g. make a dialog appear, expand a collapsed menu, turn font bold, etc.), usually on the same page, but a button can also submit form data. [When to use a button vs a link](https://design.va.gov/components/link/action#choose-the-right-element-buttons-vs-links) according to the VA Design System.
-- [ ]  Is the link/button text clear and descriptive (no “Click here” or “Learn more”)? If there are multiple of this link on the page, does it have a more specific aria-label? Does the link text reveal PII? TODO: Include details screenshot
+- [ ]  Is the link/button text clear and descriptive (no “Click here” or “Learn more”)? If there are multiple of this link on the page, does it have a more specific aria-label? Does the link text reveal PII?
 - [ ]  Are you opening the link in a new window? If so, tell users in the link text. When you can, it’s better to keep links opening in the same browser tab. This is because AT users can become disoriented by new tabs opening and it can be burdensome to return to their previous location.
 - [ ]  Are links visually distinguishable (e.g., underlined or styled consistently)?
 - [ ]  Touch target size and spacing (see Adaptability/Mobile)
