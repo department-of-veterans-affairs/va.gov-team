@@ -1,24 +1,41 @@
 # 🔧 526EZ How-To Audit  
 
 ## 🎯 Purpose
-This document is a guide to support team members in: 
+This document is a guide to support HCD and Engineering team members in: 
 - Conducting bug-focused manual audits of the 526EZ form
 - Conducting UX-focused manual audits of the 526EZ form
 - Documenting findings on tickets
 - Tracking which parts of the 526EZ have already been audited
 
 #### Follow Up [TODO]
-- Create ticket for defining triage process for ticks in backlog where we don't know who will own them or priority.
-- _[TODO: Identify if there are existing tickets and create new ones other wise. This might be a two part process. Or a 2 person process. Someone has to facilitate the process]_
-- _[TODO: Bug triage / Refinement as part of the process (consolidate duplicates]_
-- [Mural](https://app.mural.co/t/nava4113/m/nava4113/1748904136573/6cc118924290977700e9a4ecd1e7a1b0e7c2e6c9) - check this mural. Eventually someone should assign the bug tickets to the appropriate team.
-- _[TODO: Bulk list of issues on Table - make in shared DBC google drive, can be excel- with observations first so that a group of testers can go in and document stuff en-mass and then someone can refine and transition to official tickets]_
 - _[TODO: [Spreadsheet example](https://docs.google.com/spreadsheets/d/1CstNDQMVic-IpJZEAr452UdLhUReAI3X/edit?gid=1348811676#gid=1348811676)]_
 - _[TODO: Identify some users that have rated issues vs users that don't have rated issues.]_
 - _[TODO: Figure out what is the source of truth for staging users, and identify users that could fall in different scenarios (rated issues) Reserve staging users for the DBC, provide emails of the staging users, but team 5 has to reach out to someone on the team for the password. Example user descriptions: https://dsva.slack.com/archives/C098Q0GRKSL/p1755183584714369?thread_ts=1755181784.007889&cid=C098Q0GRKSL]_ 
 
 ## 🧭 Context
-The 526EZ is a long form with multiple pathways (e.g., ancillary forms) and nested, conditional responses. Our team needs to manually test the form for bugs and UX issues. We then need to document findings in a consistent, actionable ticket format as well as track which parts of the 526EZ have been audited. Auditing the 526 will help prioritize fixes and inform a clearer product and UX strategy for future enhancements. This How-To documentation will help ensure consistency in how we evaluate the UX of the form and support longitudinal understanding of what bugs and UX issues exist and where.
+The 526EZ is a long form with multiple pathways (e.g., ancillary forms) and nested, conditional responses. Our team needs to manually test the form for bugs and UX issues. We then need to document an auditor's environment (e.g., mobile, desktop, Safari, Chrome), an auditor's bug or UX findings, and track which 526EZ steps and pathways 526EZ have been audited. Auditing the 526 will help prioritize fixes and inform a clearer product and UX strategy for future enhancements. This How-To documentation will help ensure consistency in how we evaluate the UX of the form and support longitudinal understanding of what bugs and UX issues exist and where.
+
+## For New / Onboarding Team Members
+If you are a team member who has recently joined the team and is in the onboarding process, auditing the 526EZ form is a great way to build context around the product we work on. 
+
+### Your objectives in audting the 526EZ are:
+- Getting a gist of the form by conducting a UX audit on the whole form.
+- Staying on the "Main Path" (aka the path where generally, you will select "No" when the form asks questions so that you do not go down deep conditional pathways.)
+- Documenting any UX flaws or bugs you might happen to find.
+
+### You are are not expected to:
+- Conduct a thorough bug audit (e.g., trying to "break" every text field or component you come across).
+- Select multiple conditional pathways and track which pathways you are going down.
+
+**Something to note:**
+There are a few sections of the form that are being changed and the design or development of that section is currently in-progress. These changes are not yet reflected in the staging environment you will be auditing the form in. As a result, you may find issues within sections that are being redone and those issues may not be relevant. Regardless of this, we still encourage you to walk through the form in staging to get a feel of the form and document issues you find since your findings may still contribute or add weight as to why we should change X section or flow.
+
+## For Experienced Team Members
+If you are a team member who has already interacted with the form in staging or is generally familiar with the different Steps within the form (e.g., "Step 2. Conditions," "Step 3. Mental Health" etc.) please conduct a thorough bug or UX audit of a specific step / pathways of the form. The Audit Tracker listed in the next section will support you in selecting a step and pathway(s). 
+
+[TODO] Steps that are currently being changed are listed below. Please hold off on doing bug and UX audits of these sections:
+- Step 2: Conditions
+- 
 
 ## 📚 Helpful Resources
 ### Get familiar with the 526EZ Form
@@ -106,3 +123,10 @@ The Audit Tracker will allow us to track which parts of the form, devices, and e
 - [Audit Tracker]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/UX%20audit/Audit%20Tracker.md](https://docs.google.com/spreadsheets/d/1Y_JOzPltc_3Rb4OhdGTTCHPArLJpk12RpgkoJ2vxcMc/edit?gid=901203816#gid=901203816))
 - _526 Active Form Audit Map_ [TODO: Link when complete.]
 
+---
+# Post Audit Information For PMs and POs
+- Create ticket for defining triage process for ticks in backlog where we don't know who will own them or priority.
+- _[TODO: Identify if there are existing tickets and create new ones other wise. This might be a two part process. Or a 2 person process. Someone has to facilitate the process]_
+- _[TODO: Bug triage / Refinement as part of the process (consolidate duplicates]_
+- [Mural](https://app.mural.co/t/nava4113/m/nava4113/1748904136573/6cc118924290977700e9a4ecd1e7a1b0e7c2e6c9) - check this mural. Eventually someone should assign the bug tickets to the appropriate team.
+- _[TODO: Bulk list of issues on Table - make in shared DBC google drive, can be excel- with observations first so that a group of testers can go in and document stuff en-mass and then someone can refine and transition to official tickets]_
