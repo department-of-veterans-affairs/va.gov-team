@@ -43,7 +43,7 @@
 ### Week 1
 |Discipline|Content|Location|Description|
 |----------|-------|--------|-----------|
-|All|Team Readme|[Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/disability-experience/README.md)|Team charter, roster and key team info|
+|All|Team Readme|[Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/disability-experience/README.md)|Team charter, roster and key team info|
 |All|Humans of VA|Shared in #benefits-onboarding slack channel|Describes the people, organizations(and the mission) that make up VA|
 |All|Veteran's journey map|[Link](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)|Map of a veteran's journey through a benefit claim process |
 
