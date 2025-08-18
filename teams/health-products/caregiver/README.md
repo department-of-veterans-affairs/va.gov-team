@@ -21,6 +21,6 @@ Create a online experience for Caregivers to apply for, track, and manage benefi
 
 ### Key Documents
 
-- [Team Charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/caregiver/team-charter.md)
+- [Team Charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/caregiver/team-charter.md)
 - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/caregivers/10-10CG%20Caregiver%20application%20product-outline.md)
 - [Former Research](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/caregivers)

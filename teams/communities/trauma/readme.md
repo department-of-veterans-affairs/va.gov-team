@@ -1,16 +1,16 @@
 # VA Trauma Community
 Welcome to the VA trauma community ✨
 We're a grassroots, volunteer led multi-disciplinary community focused on maturing our approach to trauma from facilitating research to caring for practitioners. 
-For more on our purpose, check out our [takeaways from a collaborative discussion about our purpose](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/notes/2023-01-23.md#4-patterns-emerged-from-our-conversation-around-our-purpose-).
+For more on our purpose, check out our [takeaways from a collaborative discussion about our purpose](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/communities/trauma/notes/2023-01-23.md#4-patterns-emerged-from-our-conversation-around-our-purpose-).
 
 ## How do I join?
 Anyone can join, regardless of role, title, or status. There's no "official" way of joining, but we usually recommend to:
 - [ ] Join our Slack channel at `#trauma-practice`. Or reach out to Martha (martha.wilkes@va.gov) if you don't have Slack.
-- [ ] Read [how we work together and our community guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/community-guidelines.md).
+- [ ] Read [how we work together and our community guidelines](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/communities/trauma/community-guidelines.md).
 - [ ] Introduce yourself in `#trauma-practice`. This is 100% optional. 💙
-- [ ] Learn more about our [gatherings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/gatherings.md).
+- [ ] Learn more about our [gatherings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/communities/trauma/gatherings.md).
 - [ ] Reach out on `#trauma-practice` and tag Martha Wilkes if you'd like an invite to our gatherings.
-- [ ] In your own time, we encourage you to check out this [introduction to trauma (and resource list)](https://docs.google.com/document/d/11W66cjxCgguF_ulVOxet-CszfJB3aTBl-OxJTEeloGg/edit?usp=sharing) and skim through our [past shared learnings in our notes folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/shared-support/trauma/notes).
+- [ ] In your own time, we encourage you to check out this [introduction to trauma (and resource list)](https://docs.google.com/document/d/11W66cjxCgguF_ulVOxet-CszfJB3aTBl-OxJTEeloGg/edit?usp=sharing) and skim through our [past shared learnings in our notes folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/communities/trauma/notes).
 
 ## Participate and connect with our community
 We value everyone in our community, and encourage _anyone_ who has the time, resources, and comfort to share their talents in the following roles:
@@ -97,7 +97,7 @@ Facilitated a Community of Practice meeting or Practice Circle? You've helped se
 
 #### How do I serve as a facilitator?
 1. Volunteer to facilitate our next Community of Practice meeting
-2. [Follow facilitator instructions here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/facilitation-instructions.md)
+2. [Follow facilitator instructions here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/communities/trauma/facilitation-instructions.md)
 3. Reach out to the last meeting's facilitator if you have questions or need guidance
 
 <hr/>
@@ -115,6 +115,6 @@ Took notes for a Community of Practice meeting? You've helped share and grow our
 
 #### How do I serve as a scribe?
 1. Volunteer to scribe our next Community of Practice meeting
-2. [Follow scribe instructions here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/facilitation-instructions.md)
+2. [Follow scribe instructions here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/communities/trauma/facilitation-instructions.md)
 3. Reach out to the last meeting's scribe if you have questions or need guidance
 
