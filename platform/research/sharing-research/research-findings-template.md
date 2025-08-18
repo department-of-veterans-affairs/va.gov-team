@@ -236,6 +236,8 @@ channel_switching:
   - label
 temporal_patterns:
   - label
+design_system_patterns:
+  - label
 ```
 
 **Finding 2:**  
