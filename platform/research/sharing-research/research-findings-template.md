@@ -380,7 +380,7 @@ _[insert screenshot of completed recruitment checker]_
 _[In the Markdown table below, fill in your study name and all "--" placeholders for participant numbers, percentages, and 1's from your screenshot of the completed recruited checker.]_
 
 
-### <[Study name]>
+### Underserved groups in [Study name]
 
 **Final # of participants:** --  
 **# of AT users:** --  
@@ -411,7 +411,7 @@ _[In the Markdown table below, fill in your study name and all "--" placeholders
 | Category | % | Target | Study | p1 | p2 | p3 | p4 | p5 | p6 | p7 | p8 | p9 | p10 | p11 | p12 |
 |----------|---|---------|-------|---|---|---|---|---|---|---|---|----|----|----|----|
 | Beginner AT User | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Experienced AT User | --0% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Experienced AT User | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | Desktop Screen Reader (SR) | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | Mobile Screen Reader (SR) | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | Magnification/Zoom | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
