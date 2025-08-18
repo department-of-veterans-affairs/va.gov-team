@@ -7,23 +7,23 @@ This is a list of common things to look for when reviewing Figma designs for acc
 **This checklist was last updated by @bacitracin on August 18, 2025.** It references the Success Criteria (SC) from the [Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/WAI/WCAG22/quickref/?currentsidebar=%23col_customize&versions=2.2), which is the most recent WCAG version. This list was cross-checked with the [ADE Design Review Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/templates/design-review-template.md) Note: Link to ADE template is down at the moment.
 
 ## Topic Shortcuts
-- [Adaptability / Mobile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#adaptabilitymobile)
-- [Animation](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#audio--video)
-- [Audio / Video ](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#audio--video)
-- [Color & Contrast ](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md)
-- [Dynamic Content](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md)
-- [Focus Order & Reading Order](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#focus-order--reading-order)
-- [Form Elements](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#form-elements)
-- [Headings](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#headings)
-- [Images](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#languagecognitive)
-- [Language/Cognitive](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#languagecognitive)
-- [Links & Buttons](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#lists)
-- [Lists](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#lists)
-- [Modals](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#modals)
-- [Navigation](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#navigation)
-- [Tables](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#tables)
-- [Tooltips](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#tooltips)
-- [VA Design System (VADS) Components](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#va-design-system-vads-components)
+- [Adaptability / Mobile](https://github.com/department-of-veterans-affairs/va.gov-team/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#adaptabilitymobile)
+- [Animation](https://github.com/department-of-veterans-affairs/va.gov-team/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#audio--video)
+- [Audio / Video ](https://github.com/department-of-veterans-affairs/va.gov-team/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#audio--video)
+- [Color & Contrast ](https://github.com/department-of-veterans-affairs/va.gov-team/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md)
+- [Dynamic Content](https://github.com/department-of-veterans-affairs/va.gov-team/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md)
+- [Focus Order & Reading Order](https://github.com/department-of-veterans-affairs/va.gov-team/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#focus-order--reading-order)
+- [Form Elements](https://github.com/department-of-veterans-affairs/va.gov-team/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#form-elements)
+- [Headings](https://github.com/department-of-veterans-affairs/va.gov-team/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#headings)
+- [Images](https://github.com/department-of-veterans-affairs/va.gov-team/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#languagecognitive)
+- [Language/Cognitive](https://github.com/department-of-veterans-affairs/va.gov-team/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#languagecognitive)
+- [Links & Buttons](https://github.com/department-of-veterans-affairs/va.gov-team/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#lists)
+- [Lists](https://github.com/department-of-veterans-affairs/va.gov-team/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#lists)
+- [Modals](https://github.com/department-of-veterans-affairs/va.gov-team/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#modals)
+- [Navigation](https://github.com/department-of-veterans-affairs/va.gov-team/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#navigation)
+- [Tables](https://github.com/department-of-veterans-affairs/va.gov-team/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#tables)
+- [Tooltips](https://github.com/department-of-veterans-affairs/va.gov-team/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#tooltips)
+- [VA Design System (VADS) Components](https://github.com/department-of-veterans-affairs/va.gov-team/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#va-design-system-vads-components)
 
 
 ## Adaptability/Mobile
@@ -66,7 +66,7 @@ This is a list of common things to look for when reviewing Figma designs for acc
 
 ## Dynamic Content
 
-- [ ]  Focus behavior on dynamic fields should follow logical reading order (see Focus Order & Reading Order section)
+- [ ]  Focus behavior on dynamic fields should follow logical reading order (see [Focus Order & Reading Order](https://github.com/department-of-veterans-affairs/va.gov-team/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#focus-order--reading-order) section)
 - [ ]  Is success and failure feedback available? For example, when submitting something, often we show the VA-Alert success/error and move focus to the alert.
     
     <img width="556" height="598" alt="Screenshot 2025-08-18 at 11 59 10 AM" src="https://github.com/user-attachments/assets/9d2a08e9-a1a2-46ed-a3c4-20555d1d010b" />
@@ -84,7 +84,7 @@ This is a list of common things to look for when reviewing Figma designs for acc
 
 - [ ]  Are the interactive elements easy to identify?
 - [ ]  Is content not hidden behind scrollable areas or modals with a clear way to close them?
-- [ ]  Touch targets need to meet the minimum size and have sufficient spacing. See under Adaptability / Mobile.
+- [ ]  Touch targets need to meet the minimum size and have sufficient spacing. See under [Adaptability / Mobile](https://github.com/department-of-veterans-affairs/va.gov-team/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#adaptabilitymobile).
 - [ ]  Do all form elements have clear, always-visible labels (not just placeholders)? [WCAG 3.3.2 Labels or Instructions (Level A)](https://www.w3.org/WAI/WCAG22/Understanding/labels-or-instructions.html)
 - [ ]  Are the form labels and instructions immediately adjacent to their form element so that users (including users of screen magnification) can easily connect the form element with its label and instructions?
 - [ ]  Are all controls in close proximity to the content they are controlling? Example: Edit and Delete buttons are next to the content they modify.
@@ -134,7 +134,7 @@ entered by or provided to the user that is required to be entered again in the s
 - [ ]  Are you opening the link in a new window? If so, tell users in the link text. When you can, it’s better to keep links opening in the same browser tab. This is because AT users can become disoriented by new tabs opening and it can be burdensome to return to their previous location.
 - [ ]  Are links visually distinguishable (e.g., underlined or styled consistently)?
 - [ ]  Touch target size and spacing (see Adaptability/Mobile)
-- [ ]  If there are multiple links on the page with the same label, do they go to the same place?[SC 3.2.4](https://w3.org/TR/WCAG22#consistent-identification): Consistent Identification (Level AA) https://www.w3.org/WAI/WCAG22/Understanding/consistent-identification.html
+- [ ]  If there are multiple links on the page with the same label, do they go to the same place? [WCAG 3.2.4 Consistent Identification (Level AA)](https://w3.org/TR/WCAG22#consistent-identification)
 - [ ]  Similarly, if there are buttons that do the same thing, are they labelled the same way? Example: You shouldn’t have 2 buttons that print the page and one is labelled “Print” while the other is labeled “Print your results.”
 
 ## Lists
