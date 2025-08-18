@@ -91,6 +91,7 @@ O1: VA’s digital experiences are the easiest and most efficient way to access 
 |6/30/2025| MVP Payment options will be in browser view.| This decision occurred during the Core Mobile Office Hours. Jonathan provided guidance that if a Veteran does not need to be authorized, it will be displayed in the browser view and will follow these guidelines to maintain consistency for Veterans.| 
 |8/12/2025| Align Copayments with the same user pattern as Overpayments.| Based on results of research the user pattern that was designed for Overpayments tested the best, so we will update the user pattern for Copayments to match Overpayments. Michelle provided us with the direction to make the updates to the design on 8/12/25 during a UX//PO sync.|
 |8/12/2025| Minimize use of accordions | This was feedback from ADE to reduce the number of taps to get to relevant information which would improve the UX for all users. Michelle provided us with the direction to make the updates to the design on 8/12/25 during a UX//PO sync.|
+|8/18/2025| Mobile **does not** need to account for the Chapter 33 alert. | The FM team expressed in a Slack thread (on the FM team's Slack channel) that they are going to be removing the Chapter 33 alert from VA,gov, since this was a temporary alert.|
 
 ## Reference Materials
 
