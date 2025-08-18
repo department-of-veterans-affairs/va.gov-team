@@ -13,7 +13,7 @@ The Community of Practice is:
 
 **Interested in joining a Community of Practice meeting?** Reach out on `#trauma-practice` and tag Martha Wilkes. You can also [read or add to our shared agenda](https://docs.google.com/document/d/1z5OsfMtlnVp-ntPUi3zPUzw__1mwECqR9bMJygN04h0/edit?usp=sharing) before you join.
 
-**Interested in facilitating or scribing a Community of Practice meeting?** [Read our instructions here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/trauma/facilitation-instructions.md#community-of-practice-meetings).
+**Interested in facilitating or scribing a Community of Practice meeting?** [Read our instructions here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/communities/trauma/facilitation-instructions.md#community-of-practice-meetings).
 
 ## Practice Circle
 This is a **new** monthly meeting, held every 4th Friday of the month at 2:05pm EST (55 minutes).
