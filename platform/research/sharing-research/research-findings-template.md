@@ -377,7 +377,7 @@ _[insert screenshot of completed recruitment checker]_
 <details>
   <summary>A more accessible version of the table in the above image</summary>
    
-_[In the Markdown table below, fill in your study name and all "--" placeholders for participant numbers, percentages, and 1's and  from your screenshot above.]_
+_[In the Markdown table below, fill in your study name and all "--" placeholders for participant numbers, percentages, and 1's from your screenshot above.]_
 
 
 ### <[Study name]>
