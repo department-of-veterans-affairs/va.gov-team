@@ -327,7 +327,7 @@ Overall platform health can be measured by the platform's speed, availability, r
 |**Retention** |   |
 |--------------|-------------|
 | **Definition** | Users using the app over time |
-| **Helpful metrics** | - Monthly active users<br>- Churn rate (over month, year)<br>- Session length<br>- % of users updating app |
+| **Helpful metrics** | - Monthly active users by login source<br>- Churn rate (over month, year)<br>- Session length<br>- % of users updating app |
 | **How it informs decision-making** | Understand the ability of the app to generate usage over time, and be a consistent solution to meeting the needs of Veterans. |
 </details>
 
