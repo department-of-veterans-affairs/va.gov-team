@@ -25,7 +25,7 @@
 - https://github.com/department-of-veterans-affairs/va.gov-team/issues/106648
   
 ### Accessibility Test Artifact
-- TBD
+- https://github.com/department-of-veterans-affairs/va.gov-team/issues/117086
 
 ### Regression Test Plan
 - The new Paperless Delivery page is a net new feature/product, future iterations will include a regression plan to ensure stable user experience. This is not applicable for this MVP product. If major issues arise during release, we will disable the feature toggle. However, our regression test plan for IA profile changes include:
