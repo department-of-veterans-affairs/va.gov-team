@@ -1,18 +1,18 @@
 
-	# Research Plan for [Team, Product, Date]
+	# Research Plan for [DGIB Team, My Education Benefits, Summer 2025]
 > [!NOTE]
 > *Questions about how to set up your research study? Reach out in the [#research-ops](https://dsva.slack.com/archives/C0216PL32HJ) Slack channel.* 
 
 ## Background 🏗️
-<details><summary>Briefly describe the background of your product.</summary>
-	
-`What problem is your product trying to solve?`
+<details><summary> We are creating a new tool that allows users, who are impacted by Rudisill and eligibile for both Post-9/11 GI Bill (PGIB) or Montgomery GI Bill (MGIB) education benefits, the ability to allocate their qualifying days of service to both benefits. The tool will help users understand the outcomes of their allocation as it relates to benefit level, months of entitlement, and other information benefit information. The goal is to help users understand and create an allocation that provides the best benefit outcome for their circumstances.</summary>
+</br>	
 
-**[Enter answer here]**
+`What problem is your product trying to solve?` </br>
+**Veterans and beneficiaries who are impacted by the recent Rudisill court decision do not have a streamlined nor simple way to understand the impact of retaining or reversing reqlinquishement of MGIB and/or allocate days of service to the different benefit types.** </br>
   
-`Where is your product situated on VA.gov? (ex: auth vs. unauth)`
+`Where is your product situated on VA.gov? (ex: auth vs. unauth)` </br>
 
-**[Enter answer here]**
+**[We are planning for this tool to exist on its own page but linked from the 'Manage your Veterans education benefits' section. The planned IA is: VA.gov home > VA education and training benefits > Dual Benefit Eligibility Tool]**
   
 `What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?`
 
