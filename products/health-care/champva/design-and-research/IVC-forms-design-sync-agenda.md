@@ -1,5 +1,16 @@
 # Running Design and Research Agenda
 
+## August 18 2025
+Attendees: 
+
+### Agenda
+- Review UX Now/Next/Later
+- 10-10d/OHI merge: update to findings report draft, rough estimate of when to present usability findings, decide approach to school cert ahead of CHAMPVA stakeholder call this week
+- CHAMPVA claims: update on usability study, rough estimate for when to present usability findings, decide approach to sendback letter discussion ahead of CHAMPVA claims stakeholder call this week 
+
+### Notes
+
+
 ## August 11 2025
 Attendees: Renata Keck, Jamie Fiore, Amanda Klausmeier, Alyssa, Li, Andrea Merrel, Mike Mooney, Premal Shah, Rachel Pope, Hieu Vo
 
