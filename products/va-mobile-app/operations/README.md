@@ -31,24 +31,19 @@ Engineering Lead | Tim Wright | DSVA Slack
 Product Lead | Becca Tupaj | DSVA Slack
 Information System Owner (ISO) | Chris Johnston | DSVA Slack
 
-
 ### Key Slack Channels
 
 Many issues can be detected / resolved by monitoring / reaching out to others in DSVA Slack. Some of the important channels are,
 * #va-mobile-app
 * #va-mobile-app-alerts
 * #vfs-platform-support
-* #vsp-identity
-* #vsp-operations
-
+* #identity-support
 
 ### Dashboards and Tools
 The mobile app and backend takes advantage of a suite of tools for monitoring and alerting.
 Tool | Access | Purpose
 :-- | :-- | :--
-[Grafana](http://grafana.vfs.va.gov/d/cYh4m3UMz/mobile-api?orgId=1) | SOCKS | Operational and business metrics
 [DataDog](https://app.datadoghq.com/dashboard/9nz-cn7-ws6/mobile-api-dashboard?from_ts=1640615800322&to_ts=1643294200322&live=true) | SaaS account | Monitoring and Alerting
-[Sentry](http://sentry.vfs.va.gov/organizations/vsp/issues/) | SOCKS | Backend application exceptions and events
 [Firebase Analytics and Crashlytics](https://console.firebase.google.com/project/va-mobile/overview) | SaaS account | Frontend application exceptions and events, analytics
 [AWS Logs](https://console.amazonaws-us-gov.com/cloudwatch/home?region=us-gov-west-1#logsV2:log-groups/log-group/dsva-vagov-staging$252Fsrv$252Fvets-api$252Fsrc$252Flog$252Fvets-api-server.log) | AWS | Logs
 [PagerDuty](https://dsva.pagerduty.com/incidents) | SaaS account | Alerts, downtime management
