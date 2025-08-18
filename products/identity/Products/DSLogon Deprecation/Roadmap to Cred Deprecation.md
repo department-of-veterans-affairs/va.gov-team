@@ -35,6 +35,13 @@ _Note: The roadmap below does NOT reflect anything about the sunsetting of MHV c
 |  9.2025  | **[Monitoring](https://github.com/orgs/department-of-veterans-affairs/projects/1646/views/12?filterQuery=parent-issue%3Adepartment-of-veterans-affairs%2Fidentity-documentation%23161)**                      | Track error rates and feedback from users post-removal.     |
 |  11.25  | **[Cleanup](https://github.com/orgs/department-of-veterans-affairs/projects/1646/views/12?filterQuery=parent-issue%3Adepartment-of-veterans-affairs%2Fidentity-documentation%23107)**                         | Remove deprecated code, outdated feature flags, and DS Logon support references. |
 
+- :white_check_mark: Removal of DSLogon button from AccessVA INT - August 11, 2025
+- Removal of DSLogon button from Dev - August 19, 2025
+- Removal of DSLogon button from AccessVA SQA - August 27, 2025
+- Removal of DSLogon button from Staging - September 2, 2025
+- Removal of DSLogon button from AccessVA Pre-Prod - September 17, 2025
+- Removal of DSLogon button from Prod - October 1, 2025
+- Removal of DSLogon button from AccessVA Prod - October 2, 2025
 ---
 ## When we're done:
 
