@@ -377,7 +377,7 @@ _[insert screenshot of completed recruitment checker]_
 <details>
   <summary>A more accessible version of the table in the above image</summary>
    
-_[In the Markdown table below, fill in your study name and all "--" placeholders for participant numbers and percentages from your screenshot of the completed recruitment checker.]_
+_[In the Markdown table below, fill in your study name and all "--" placeholders for numbers of percentages of participants from your screenshot of the completed recruitment checker.]_
 
 
 ### Underserved groups in [Study name]
