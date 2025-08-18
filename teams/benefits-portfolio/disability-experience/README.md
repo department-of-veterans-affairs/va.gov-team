@@ -7,7 +7,7 @@ Last Updated - 5/20/2025
   - disability-experience
 - Slack channel: #benefits-disability
 - Product repo: [va.gov-team/tree/master/products/disability/526ez ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez)
-- Teams repo: [va.gov-team/teams/vsa/teams/disability-experience/](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez)
+- Teams repo: [va.gov-team/teams/benefits-portfolio/disability-experience/](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/benefits-portfolio/disability-experience)
 - [Project Board](https://github.com/orgs/department-of-veterans-affairs/projects/1660/views/1)
 - [Figma VA.gov Platform](https://www.figma.com/files/team/1278375444205744118/recents-and-sharing?fuid=1127219626551318446)
 - [VA Mural- Disability](https://app.mural.co/t/departmentofveteransaffairs9999/r/1613770853903?folderUuid=7ada32d9-9e43-4a8a-9bc9-7ec760992ec5)

@@ -502,7 +502,7 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 
 
 ## Relevant Links
-- [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/disability-experience/team-docs/Release%20Plans/Toxic%20Exposure%20Release%20Plan.md)
+- [Release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/disability-experience/team-docs/Release%20Plans/Toxic%20Exposure%20Release%20Plan.md)
 - [Design documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/toxic-exposure.md)
 - Meeting recording of technical approach and [diagrams in Slack](https://dsva.slack.com/archives/C04KW0B46N5/p1715293181014539?thread_ts=1715293137.064459&cid=C04KW0B46N5):
   - https://us06web.zoom.us/rec/share/4yzenPINHF8djrgx6x2XjepUbrC0QHgo3J6PPu9miRpeCp1HnJHqS9THVmFZmeYz.5j45fksUTFgqtqME
@@ -576,7 +576,7 @@ Sprints noted with an asterisk (*) will have flexible delivery completion, depen
 **Building Blocks:**      
 - [X] Schedule weekly Lighthouse touchpoints through release.
 - [X] Migrate Lighthouse synchronous /submit endpoint & release.*
-  - [X] [Submit release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/disability-experience/team-docs/Release%20Plans/DBEX%20Submit%20Migration%20Release%20Plan.md)    
+  - [X] [Submit release plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/disability-experience/team-docs/Release%20Plans/DBEX%20Submit%20Migration%20Release%20Plan.md)    
   - [X] Submit dashboard           
 - [X] Revisit submit transformation & make any needed changes
 - [ ] Migrate Lighthouse generatePDF endpoint and release with submit endpoint
