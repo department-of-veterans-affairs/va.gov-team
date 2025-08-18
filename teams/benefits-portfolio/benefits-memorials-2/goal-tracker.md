@@ -111,7 +111,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 |UX: Be prepared to meet with stakeholders to review the current user flows and designs for Pay.gov overpayments and document feedback. | QP4 |--|--|--|
 |ENG: Complete the remaining 4 Front End tickets for the One Thing Per Page initiative.| QP2 |--|--|--|
 |ENG: Prepare items for upcoming One Thing Per Page Staging Review: QA Artifacts, Analytics request, Release Plan, and Playbook.| QP2 |--|--|--|
-|ENG: Update the Debt Portal of Notice of Rights Modals and PDF to reflect the updated language.| QP7 |--|--|--|
+|ENG: Update the Debt Portal of Notice of Rights Modals and PDF to reflect the updated language.| QP7 |--|08/15/25|Completed|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [X] Ready to be sent for approvals (08/12/25)
