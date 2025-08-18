@@ -4,9 +4,16 @@ An accessibility gut-check for your Figma designs!
 
 This is a list of common things to look for when reviewing Figma designs for accessibility, before handing off to engineering. This is not an exhaustive list, and not all items in the list may apply to your design. Topics are ordered alphabetically.
 
-**This checklist was last updated by @bacitracin on August 18, 2025.** It references the Success Criteria (SC) from the [Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/WAI/WCAG22/quickref/?currentsidebar=%23col_customize&versions=2.2), which is the most recent WCAG version. This list was cross-checked with the [ADE Design Review Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/templates/design-review-template.md)
+**This checklist was last updated by @bacitracin on August 18, 2025.** It references the Success Criteria (SC) from the [Web Content Accessibility Guidelines (WCAG) 2.2](https://www.w3.org/WAI/WCAG22/quickref/?currentsidebar=%23col_customize&versions=2.2), which is the most recent WCAG version. This list was cross-checked with the [ADE Design Review Template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/templates/design-review-template.md) Note: Link to ADE template is down at the moment.
 
-## Adaptability / Mobile
+## Shortcuts
+- [Adaptability / Mobile](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#audio--video)
+- [Animation](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#audio--video)
+- [Audio / Video ](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#audio--video)
+- [Color & Contrast ](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#color--contrast)
+
+
+## Adaptability/Mobile
 
 - [ ]  Have you designed for responsiveness and adaptability across devices and viewports (including mobile, desktop, and 400% zoom)?
 - [ ]  Does the layout work in both orientations (landscape and portrait) without requiring horizontal scrolling?
