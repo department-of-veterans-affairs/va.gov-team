@@ -32,7 +32,7 @@ assignees: artsymartha68, lakper, sara-amanda
 - `PLACEHOLDER TEXT for your desired outcomes`
   
 ## Collaborate with ADE
-[**Review our menu of services**,](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/readme.md#services-we-offer) and check all the types of collaboration you're requesting, below:
+[**Review our menu of services**,](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/readme.md#services-we-offer) and check all the types of collaboration you're requesting, below:
 
 ### How would you like to collaborate with ADE?
 - [ ] Research support [(if yes, please open an additional research ticket)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/ade-accessibility-research.yaml)

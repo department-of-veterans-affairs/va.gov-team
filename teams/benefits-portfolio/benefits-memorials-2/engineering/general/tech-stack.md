@@ -178,6 +178,6 @@ Include any additional notes or resources that may be relevant for developers or
 
 ### Example Diagram 
 Below you will find links to diagrams so that in case we need to update the diagram(s), we can just update in the one place.
-* High level FSR graph: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/engineering/back-end/kevin-exit-docs/high-level-fsr-submission-graph.png
-* FSR dependency graph: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/engineering/back-end/kevin-exit-docs/fsr-submission-dependency-graph.png
+* High level FSR graph: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/benefits-memorials-2/engineering/back-end/kevin-exit-docs/high-level-fsr-submission-graph.png
+* FSR dependency graph: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/benefits-memorials-2/engineering/back-end/kevin-exit-docs/fsr-submission-dependency-graph.png
 

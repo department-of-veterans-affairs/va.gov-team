@@ -117,4 +117,4 @@ Your annotations don't have to be anything fancy, and you don't need to annotate
 -   Annotate your prototypes.
 
 ## Additional resources
-- [Focus management presentation](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/teams/ADE/presentations/Focus.pptx)
+- [Focus management presentation](https://github.com/department-of-veterans-affairs/va.gov-team/raw/master/teams/digital-experience/ADE/presentations/Focus.pptx)

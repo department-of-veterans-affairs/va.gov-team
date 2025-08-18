@@ -4,7 +4,7 @@
 # Templates for Accessibility Audits
 The following accessibility audit documentation has been created via Google Docs, in order to create the most accessible version of each document for our team. Rather than duplicate this content, we are linking to the shared Google files,below.
 
-ADE support offerings are detailed in the [ADE Menu of Services](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/ADE#services-we-offer).
+ADE support offerings are detailed in the [ADE Menu of Services](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/digital-experience/ADE#services-we-offer).
 
 > [!TIP]
 > - Each Google Document will have a last updated date in the first-page header. If you make any updates to a template, please adjust the date accordingly.
@@ -16,7 +16,7 @@ ADE support offerings are detailed in the [ADE Menu of Services](https://github.
 
 ### Templates
 - [Design Review: Google Doc template](https://docs.google.com/document/d/1oIMVsxYitmY-dyWu9zpek-MUnbY42PszkupNvgda1wI/edit?usp=drive_link) (permissions needed)
-- [Design Review: Markdown template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/templates/design-review-template.md)
+- [Design Review: Markdown template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/templates/design-review-template.md)
 
 ## Staging / CodePen / Production Audit
 
@@ -26,9 +26,9 @@ ADE support offerings are detailed in the [ADE Menu of Services](https://github.
 
 ### Templates
 - [Desktop Audit: Google Doc](https://docs.google.com/document/d/1Lerxk2rZp9Eeyb1XUP_9YCsYtKUdSxMCrzDzYj726xs/edit?usp=drive_link) (permissions needed)
-- [Desktop Audit: Markdown](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/templates/desktop-audit-template.md)
+- [Desktop Audit: Markdown](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/templates/desktop-audit-template.md)
 - [Mobile Audit: Google Doc](https://docs.google.com/document/d/1M9Yc9WjvQDr98J5n-Ahfw1KWnBONiyGEMjogQmMEUGY/edit?usp=drive_link) (permissions needed)
-- [Mobile Audit: Markdown](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/templates/mobile-audit-template.md)
+- [Mobile Audit: Markdown](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/templates/mobile-audit-template.md)
 
 
 <!-- ## Health Check Audit

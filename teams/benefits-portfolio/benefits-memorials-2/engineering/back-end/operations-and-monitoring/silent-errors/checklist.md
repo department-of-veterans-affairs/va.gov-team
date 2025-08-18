@@ -83,8 +83,8 @@ If you answered yes to any of these questions then go through the following [che
 
 * [x] Do you have a diagram of the submission path that user data your application accepts takes to reach a system of record?
   * We may need more detail, but we have a few docs:
-    * [High level submission flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/engineering/back-end/kevin-exit-docs/high-level-fsr-submission-graph.png)
-    * More granular view of [Roles and responsibilities of the related Financial Status Report services](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/engineering/back-end/kevin-exit-docs/fsr-submission-dependency-graph.png)
+    * [High level submission flow](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/benefits-memorials-2/engineering/back-end/kevin-exit-docs/high-level-fsr-submission-graph.png)
+    * More granular view of [Roles and responsibilities of the related Financial Status Report services](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/benefits-memorials-2/engineering/back-end/kevin-exit-docs/fsr-submission-dependency-graph.png)
   * If not, then [create a user data flow diagram](#how-to-create-a-user-data-flow-diagram) that captures this information. 
 * [x] Do you understand how the error is handled when each system in the submission path fails, is down for maintenance, or is completely down?
   * [Link to data flow](https://github.com/user-attachments/files/17372719/FSR.Submission.Flow.pdf)

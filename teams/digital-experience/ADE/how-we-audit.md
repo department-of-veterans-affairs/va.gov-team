@@ -6,12 +6,12 @@
 If you're a new accessibility specialist supporting VA.gov or on one of the product teams supported by one of those specialists, or an [Accessibility Champ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/a11y-champs#accessibility-champions-community-aka-a11y-champs), you might wonder how ADE's team of accessibility specialists audits experiences for accessibility. 
 
 **We'll go into that plus:**
-- [What's an audit?](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/ADE/how-we-audit.md#whats-an-audit)
-- [When does an audit happen?](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/ADE/how-we-audit.md#when-does-it-happen)
-- [What are the outcomes of an audit?](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/ADE/how-we-audit.md#what-are-the-outcomes)
-- [How long does an audit take?](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/ADE/how-we-audit.md#how-long-does-it-take)
-- [What is tested during an audit?](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/ADE/how-we-audit.md#whats-tested)
-- [How to get started with an audit?](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/ADE/how-we-audit.md#how-do-we-start-one-and-whats-the-process)
+- [What's an audit?](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/digital-experience/ADE/how-we-audit.md#whats-an-audit)
+- [When does an audit happen?](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/digital-experience/ADE/how-we-audit.md#when-does-it-happen)
+- [What are the outcomes of an audit?](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/digital-experience/ADE/how-we-audit.md#what-are-the-outcomes)
+- [How long does an audit take?](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/digital-experience/ADE/how-we-audit.md#how-long-does-it-take)
+- [What is tested during an audit?](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/digital-experience/ADE/how-we-audit.md#whats-tested)
+- [How to get started with an audit?](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/digital-experience/ADE/how-we-audit.md#how-do-we-start-one-and-whats-the-process)
    
 ## What's an audit?
 
@@ -56,7 +56,7 @@ This varies, depending on the scope of what's being tested. A good starting poin
 
 > [!IMPORTANT]
 > - Please specify if you need testing completed on a certain device or assistive technology.
-> - [These are the tools accessibility specialists use](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/tools-we-use.md).
+> - [These are the tools accessibility specialists use](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/tools-we-use.md).
 >   - However, all accessibility specialists do not have access to the same technology.*
 >   - As an example, some have access to JAWS, while others do not. Some do not have a mobile devlice, while others have an Android device, while others have iPhone and/or both.
 
@@ -95,11 +95,11 @@ Accessibility specialists will navigate the interface with the [keyboard alone](
 
 ### Color contrast and colorblind testing
 
-Accessibility specialists will use axe [to test for color contrast errors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/tools-we-use.md#color-and-contrast) and a tool like [Color Contrast Analyser](https://www.tpgi.com/color-contrast-checker/) to spot check any [areas that may be problematic in regards to color](https://www.w3.org/WAI/tips/designing/#provide-sufficient-contrast-between-foreground-and-background).
+Accessibility specialists will use axe [to test for color contrast errors](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/tools-we-use.md#color-and-contrast) and a tool like [Color Contrast Analyser](https://www.tpgi.com/color-contrast-checker/) to spot check any [areas that may be problematic in regards to color](https://www.w3.org/WAI/tips/designing/#provide-sufficient-contrast-between-foreground-and-background).
 
 ### Zoom testing
 
-[Accessibility specialists will zoom layouts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/tools-we-use.md#zoommagnification) to 400 percent at 1280 pixel width and inspect them for readability. If layouts break at 400 percent, they will start reducing them until they become stable, and log the zoom ratio when things begin breaking. Sometimes, the specialist can help identify what's breaking the page.
+[Accessibility specialists will zoom layouts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/tools-we-use.md#zoommagnification) to 400 percent at 1280 pixel width and inspect them for readability. If layouts break at 400 percent, they will start reducing them until they become stable, and log the zoom ratio when things begin breaking. Sometimes, the specialist can help identify what's breaking the page.
 
 ### Screen reader testing
 
@@ -112,7 +112,7 @@ Accessibility specialists will test interfaces with a screen reader with these p
 - Android + TalkBack (time and device permitting)
 
 We generally rely on [WebAIM's recommended pairings](https://webaim.org/techniques/screenreader/#differences). 
-- [We also may test with other pairings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/tools-we-use.md#screen-readers) if accessibility issues are reported from Veterans.
+- [We also may test with other pairings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/tools-we-use.md#screen-readers) if accessibility issues are reported from Veterans.
 - [Screen reader testing is an intensive, manual process](https://depo-platform-documentation.scrollhelp.site/developer-docs/screen-reader-testing). 
 - It involves subjective judgment and can take a lot of time.
 - [Common screen reader issues](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/platform/accessibility/common-issues#screen-readers)

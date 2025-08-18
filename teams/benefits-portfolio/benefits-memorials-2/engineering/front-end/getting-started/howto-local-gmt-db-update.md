@@ -25,4 +25,4 @@ The current workaround involves uncommenting some code in `src/applications/fina
   - - - -
 
   ### Alternate workaround
-  [This is a faster solution](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/engineering/front-end/the-wrong-way.md#local-gmt-data-issues) geared towards hard coding gmt data values for local testing
+  [This is a faster solution](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/benefits-memorials-2/engineering/front-end/guides-and-howtos/the-wrong-way.md#local-gmt-data-issues) geared towards hard coding gmt data values for local testing

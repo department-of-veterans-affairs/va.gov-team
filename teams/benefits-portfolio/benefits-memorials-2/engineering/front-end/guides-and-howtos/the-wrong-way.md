@@ -21,7 +21,7 @@ export const getStatements = async dispatch => {
 ```
 
 ## Local gmt data issues
-This is a little easier than populating the db in [the other doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/engineering/front-end/howto-local-gmt-db-update.md) which takes like 10 min total.
+This is a little easier than populating the db in [the other doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/benefits-memorials-2/engineering/front-end/getting-started/howto-local-gmt-db-update.md) which takes like 10 min total.
 
 You can hard code the `gmtThreshold` value and `incomeUpperThreshold`/`assetThreshold`/`discretionaryIncomeThreshold` will auto calculate, or you can hard code those values as well if you want to test thresholds.
 
