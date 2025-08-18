@@ -80,7 +80,7 @@ This document details how to create, update, and close an ADE ticket, ensuring a
     - This intake ticket becomes the container for all the work that takes place, relating to this request. 
 ### ADE Work Ticket
 These are ticket sub-issues created by ADE.
-- These are based on an intake or stakeholder request stemming from our "menu" of [services we offer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/readme.md#services-we-offer).
+- These are based on an intake or stakeholder request stemming from our "menu" of [services we offer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/readme.md#services-we-offer).
     - Our menu outlines the specific work needed from an individual contributor (we have also called these "child" or "task" tickets).
         - Product teams can see work tickets attached to their intake, but these work tickets are for you to use.
         - You can add notes in comments and checklists to help you track your progress and move the ticket wherever in belongs in the status swim lanes described below.

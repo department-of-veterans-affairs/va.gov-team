@@ -117,7 +117,7 @@ Last Updated: March 21, 2025
 </br>
 
 ## Team Workflow
-_[Additional Information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/Workflow.md)_
+_[Additional Information](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/benefits-memorials-2/Workflow.md)_
  
  **Norms**
   * Be respectful, both online and off

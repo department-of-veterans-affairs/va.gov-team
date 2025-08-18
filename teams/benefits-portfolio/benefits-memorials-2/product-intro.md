@@ -17,13 +17,13 @@ The purpose of this document is to capture necessary knowledge needed to underst
 >        + Intended Improvements/Next Steps
 >
 >
-> - [Medical Device Reordering [mDot]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/product-intro.md#medical-device-reordering-toolmdot-product-documentation)
-> - [Debt Portal (Debt Letters MVP) ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/product-intro.md#debt-portal--vba-debt-letters-mvp-product-documentation)
-> - [ Financial Status Report [FSR] ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/product-intro.md#financial-status-report-fsr-product-documentation)
-> - [Medical Copays [MCP]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/product-intro.md#medical-copays-mcp-product-documentation)
-> - [Combined  Debt Portal [CDP]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/product-intro.md#combined--debt-portal-cdp-product-documentation)
-> - [Combined  FSR [cFSR]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/product-intro.md#combined-fsr-cfsr-product-documentation)
-> - [Streamlined Waiver [SW]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/product-intro.md#streamlined-waiver-sw-product-documentation)
+> - [Medical Device Reordering [mDot]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/benefits-memorials-2/product-intro.md#medical-device-reordering-toolmdot-product-documentation)
+> - [Debt Portal (Debt Letters MVP) ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/benefits-memorials-2/product-intro.md#debt-portal--vba-debt-letters-mvp-product-documentation)
+> - [ Financial Status Report [FSR] ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/benefits-memorials-2/product-intro.md#financial-status-report-fsr-product-documentation)
+> - [Medical Copays [MCP]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/benefits-memorials-2/product-intro.md#medical-copays-mcp-product-documentation)
+> - [Combined  Debt Portal [CDP]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/benefits-memorials-2/product-intro.md#combined--debt-portal-cdp-product-documentation)
+> - [Combined  FSR [cFSR]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/benefits-memorials-2/product-intro.md#combined-fsr-cfsr-product-documentation)
+> - [Streamlined Waiver [SW]](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/benefits-memorials-2/product-intro.md#streamlined-waiver-sw-product-documentation)
 
 ♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎♒︎
 
@@ -36,24 +36,24 @@ The Debt Resolution team is focused on making VA.gov the "go-to" resource for Ve
 
 ## Product Team Resources 
 _"Resources for product team developing these products"_
-- [Team Charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/charter.md)
+- [Team Charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/benefits-memorials-2/charter.md)
 - [Products Master page](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products)
 - [Zenhub Scrum Board](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/board)
-- [Team GitHub Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/benefits-memorials-2)
-- [Staging Users by Product](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/staging-users-debtproducts.md)
+- [Team GitHub Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/benefits-portfolio/benefits-memorials-2)
+- [Staging Users by Product](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/benefits-memorials-2/staging-users-debtproducts.md)
 - [Sprint Planning](https://salientcrgt.sharepoint.com/:w:/r/sites/VSATeam/_layouts/15/doc.aspx?sourcedoc=%7B501c1a33-c7ad-40be-9778-5e8df64b5ccd%7D&action=edit)
-- [Summary of Sprint Objectives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/sprint-objectives.md)
+- [Summary of Sprint Objectives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/benefits-memorials-2/sprint-objectives.md)
 - [VA Platform Collab Cycle Information](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/) 
 - [Platform Deployment Policies](https://depo-platform-documentation.scrollhelp.site/support/Deployment-Policies.1279787009.html) (incl. Code Freezes)
 - [External Service Integrations](https://vfs.atlassian.net/wiki/spaces/pilot/pages/1889599494/External+Service+Integrations)
-- [Frequent Contacts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/frequent_contacts.md)
+- [Frequent Contacts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/benefits-memorials-2/frequent_contacts.md)
 
 
 
 ## Product Roadmap 
 
-- All Roadmap  information can be found in this [**roadmap folder**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/roadmap/readme.md) which  outlines:
-   - [**Roadmap Summary:**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/roadmap.md) _'Near term'_ product focus areas
+- All Roadmap  information can be found in this [**roadmap folder**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/benefits-memorials-2/roadmap/readme.md) which  outlines:
+   - [**Roadmap Summary:**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/benefits-memorials-2/roadmap.md) _'Near term'_ product focus areas
   - [**Roadmap Overview (.ppt)**](tbd): Consumable presentation format of detailed spreadsheet
   - [**Detailed Roadmap (spreadsheet)**](tbd): Detailed overview of roadmap
 <br>
@@ -109,9 +109,9 @@ _"Providing Veterans eligible for hearing aid battery and/or accessory resupply 
 - [Product Folder in GitHub](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/medical-device-tool) 
  - [MDT Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/product-outline.md)
  - [GitHub Epic]()
-  - [Staging Users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/staging-users-debtproducts.md)
+  - [Staging Users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/benefits-memorials-2/staging-users-debtproducts.md)
 - [KPIs](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/medical-device-tool/KPI.md)  
-- [mDot Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsa/teams/benefits-memorials-2/documentation/product%20transition.md#mdot-artifacts)
+- [mDot Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/benefits-portfolio/benefits-memorials-2/documentation/product%20transition.md#mdot-artifacts)
 - [Staging product link](https://staging.va.gov/health-care/order-hearing-aid-batteries-and-accessories/)
   
  **Design/Research Info:** 
@@ -178,9 +178,9 @@ _"Providing Veterans eligible for hearing aid battery and/or accessory resupply 
  **Product:** 
 - [Debt Portal Product Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/debt-letters-mvp)
 - [Debt Letters Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/debt-letters-mvp/new%20product_outline.md)
-- [Staging Users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/staging-users-debtproducts.md)
+- [Staging Users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/benefits-memorials-2/staging-users-debtproducts.md)
 - [Debt Portal DOMO Dashboard](https://va-gov.domo.com/page/74130670?userId=1724393873)
-- [Debt Portal Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsa/teams/benefits-memorials-2/documentation/product%20transition.md#debt-portal) 
+- [Debt Portal Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/benefits-portfolio/benefits-memorials-2/documentation/product%20transition.md#debt-portal) 
 - [Staging product link](https://staging.va.gov/manage-va-debt/)
 
  
@@ -267,10 +267,10 @@ _"Authenticated VA.gov form to apply for financial help for Education, Comp, and
  **Product:** 
 
 - [Financial Status Report (FSR)](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/Debt%20Resolution/Financial-Status-Report)
--  [Staging Users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/staging-users-debtproducts.md)
+-  [Staging Users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/benefits-memorials-2/staging-users-debtproducts.md)
 - [FSR Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Financial-Status-Report/FSR-Product-Outline.md) 
 - [GitHub Epic #14439](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/14439)
-- [FRS Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsa/teams/benefits-memorials-2/documentation/product%20transition.md#financial-status-report-fsr-artifacts)
+- [FRS Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/benefits-portfolio/benefits-memorials-2/documentation/product%20transition.md#financial-status-report-fsr-artifacts)
 - [Staging product link](https://www.va.gov/manage-va-debt/request-debt-help-form-5655/introduction)
 - [FSR Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Financial-Status-Report/FSR-Product-Outline.md)
 
@@ -335,8 +335,8 @@ _"Authenticated VA.gov form to apply for financial help for Education, Comp, and
 - [MCP Product Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/Debt%20Resolution/Medical_Copays)  
 - [MCP Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/Product_Outline_Medical_Copays.md)      
 - [GitHub Epic #31352](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/31352)
-- [MCP Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsa/teams/benefits-memorials-2/documentation/product%20transition.md#medical-copaysmcp-artifacts)
-- [Staging Users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/staging-users-debtproducts.md)
+- [MCP Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/benefits-portfolio/benefits-memorials-2/documentation/product%20transition.md#medical-copaysmcp-artifacts)
+- [Staging Users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/benefits-memorials-2/staging-users-debtproducts.md)
 - [Staging product link](https://staging.va.gov/health-care/pay-copay-bill/your-current-balances/)
 - [MCP User Flow](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/medical-copays-portal/mcp-architecture-doc.md)
 - [MCP Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/Debt%20Resolution/Medical_Copays/release_plan.md)  
@@ -398,8 +398,8 @@ _"Authenticated VA.gov form to apply for financial help for Education, Comp, and
 - [CDP Product Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_va_debt_portal)  
 - [CDP Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/product_outline.md) 
 - [GitHub Epic #36135](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/36131) 
-- [Combined Debt Portal Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/vsa/teams/benefits-memorials-2/documentation/product%20transition.md#combined-va-debt-portal-artifacts)
- - [Staging Users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/staging-users-debtproducts.md)
+- [Combined Debt Portal Artifacts](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/teams/benefits-portfolio/benefits-memorials-2/documentation/product%20transition.md#combined-va-debt-portal-artifacts)
+ - [Staging Users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/benefits-memorials-2/staging-users-debtproducts.md)
  - [CDP Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/release_plan.md) 
  - [CDP Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/use_cases.md)
  - [CDP Product Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/product_guide.md)
@@ -450,7 +450,7 @@ _"Authenticated VA.gov form to apply for financial help for Education, Comp, and
 - [Combined FSR Product Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_fsr)  
 - [Combined FSR Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_fsr/product_outline.md)
 - [GitHub Epic#28318](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/28318)
- - [Staging Users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/staging-users-debtproducts.md)
+ - [Staging Users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/benefits-memorials-2/staging-users-debtproducts.md)
  - [cFSR Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_fsr/release_plan.md) 
  - [cFSR Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_fsr/use_cases.md)
  - [cFSR Product Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_fsr/product_guide.md)
@@ -499,7 +499,7 @@ _"Authenticated VA.gov form to apply for financial help for Education, Comp, and
 **Product:** 
 - [GitHub Epic #39330](https://app.zenhub.com/workspaces/vsa---debt-607736a6c8b7e2001084e3ab/issues/department-of-veterans-affairs/va.gov-team/39330)
 - [SW Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/streamlined_waiver/product_outline.md)
- - [Staging Users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials-2/staging-users-debtproducts.md)
+ - [Staging Users](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/benefits-memorials-2/staging-users-debtproducts.md)
  - [SW Release Plan    ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/streamlined_waiver/release_plan.md)    
  - [SW Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/streamlined_waiver/use_cases.md)
  - [SW Product Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/streamlined_waiver/product_guide.md)
