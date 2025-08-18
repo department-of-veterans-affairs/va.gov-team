@@ -1,7 +1,7 @@
 # Running Design and Research Agenda
 
 ## August 18 2025
-Attendees: 
+Attendees: Renata Keck, Rachel Pope, Jamie Fiore, Amanda Klausmeier, Premal Shah, Mike Mooney, Andrea Merrill, Hieu Vo
 
 ### Agenda
 - Review UX Now/Next/Later
@@ -9,6 +9,94 @@ Attendees:
 - CHAMPVA claims: update on usability study, rough estimate for when to present usability findings, decide approach to sendback letter discussion ahead of CHAMPVA claims stakeholder call this week 
 
 ### Notes
+#### Roadmap
+* Renata reviewed tickets in now, next, later
+* Clarified that changes for CHAMPVA Claims will be made, but waiting to create tickets so that any findings from research can be included if needed
+
+#### Merge research report
+* Draft report is in GitHub, Renata will ping Amanda when finalized
+* Jamie is working on the desk
+* Presenting this week will be a stretch
+    * Okay to present two weeks from now
+    * Since it’s the day after Labor Day, confirm with business partners that they’re available
+
+#### CHAMPVA Enrollment call
+* School certification issues
+    * Findings from research study show that users’ mental model is based on other VA education benefits program
+        * CHAMPVA requirements are different - require more infooll
+        * Not easy to obtain this info
+    * Have heard that between terms, eligibility changes
+        * Required to get a continuing enrollment letter
+        * Need to find ways to make this more streamlined for users
+    * Premal mentions bringing this up during the research readout with any additional evidence we have on what other teams are requiring
+        * Not a lot of flexibility for change unless we have evidence that it’s a real issue
+        * Better to bring up as a topic for them to discuss within their team rather than trying to pin them down to an answer during a call
+        * Can mention this as a next step in the research deck
+        * They are more focused on reducing backlog than on front end changes at the moment
+* Andrea mentions demoing merged from since that is going to staging review soon
+* Premal mentions OHI backlog 
+    * Backlog looks deeper than it is because all health insurance card uploads are tagged as OHI
+        * We could ask how to indicate who each card is for in Pega
+    * Merged form might help resolve this because we don’t ask for an upload for each person
+        * Generating a PDF for each person individually per Andrea - not sure how we’re indicating who has which insurance
+        * If we don’t know for sure that it’s helping, better to not demo merged form again to prevent questions
+        * Might need to have a conversation with Pega and engineering to come up with a solution
+            * Might not have this for call tomorrow
+            * Should include engineers in the call so they know what business partners are looking for
+        * Hold off on discussing this in call until we know
+        * We can add language that they shouldn’t upload a card again if already uploaded to reduce duplicates
+            * This would work with old form if we’re not requiring uploads on each page
+            * Doesn’t apply to merged form because it’s grouped by insurance and shouldn’t be an issue
+            * Andrea says will discuss with Pega how to group insurance together
+* Can cancel call tomorrow if we are not discussing school cert or doing a demo of the merged form
+* Andrea will send out agenda for 9/2 for research readout
+
+#### CHAMPVA Claims research
+* Will kick off data analysis this sprint
+    * Probably will not be able to report on this in two weeks unless we reprioritize
+* No launch-blocking issues or bugs
+* Renata mentions “caretaker language” and issues with the tone of the sendback letter and requirements pages
+    * Premal says we’re empowered to make changes to the language on our end
+    * Might need to have a discussion about changes to the letter
+        * Amanda doesn’t think the letter content is launch-blocking
+        * Andrea mentions that the letter should tell them they can resubmit digitally for launch
+            * Not a quick process - wait until after launch
+            * More involved process to get approval for changes - might not be 1-2 weeks as previously discussed
+            * Some suggested changes were not approved recently, so need to be sensitive in how we approach this topic
+            * Research findings will help
+    * Jamie mentions this is a problem that goes beyond our forms
+        * Users are viewing through the lens of all VA communications
+        * Changing tone on our form could provide evidence that it’s a worthwhile change
+* Amanda discussed with Angela that the sendback letter needs to be required in the resubmission flow
+    * Andrea will create a ticket for this
+    * Concern is entry of the PDI number
+        * Need to address this with letter content also - shorter number or more prominent placement of PDI
+    * If requiring letter, can we remove the field for PDI in the form?
+        * Choosing PDI or control number is what routes the form in Pega
+        * We send the PDI field entry with the form
+        * Pega marries to original claim based on that information
+    * Currently no way to identify the document as a sendback letter
+        * It will come through as a med doc unless we change the front-end
+        * Either sendback letter on its own page or allow user to choose document type
+    * Renata mentions as a side note that if we are requiring info from initial claim, we should let users download or save the claim when they submit
+    * Amanda questions the need for doc type - thinks the extra detail complicates things in the back end
+* Other topics for Claims call
+    * Claims form caps insurance at 2, but they’re allowed to have more - should we remove the limit on the form?
+    * Renata found a list of common denial codes - wants to ask if that can be used to look up or populate reason for denial with CHAMPVA EOB
+    * Premal agrees these can be asked but comments that they might get annoyed on the call
+        * Asks if we require health insurance card for claims
+            * We don’t ask for card upload
+            * Users need to enter provider and optionally group/policy number
+        * We can talk about combining OHI with Claims form
+            * Ask if they have any changes and skip if they don’t
+    * Do not discuss sendback letter apart from letting them know it will come through as a med doc
+    * Ask business partners to try out the merged form in staging so they know how it works and what comes through
+    * Amanda mentions we need to consider that it’s not called a sendback letter in the letter and to keep that in mind when updating content to say it’s required
+
+### Action Items
+* Cancel call for tomorrow
+* Send agenda for Wednesday
+
 
 
 ## August 11 2025
