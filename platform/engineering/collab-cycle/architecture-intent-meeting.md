@@ -37,6 +37,8 @@ Some of the items below may not apply to your work--that's okay.  You may not be
 - Product description
     + Brief overview of motivation for the change from an engineering & security point of view
     + Link to Collaboration Cycle Request issue
+- Sensitive information types description
+    + Brief overview of any Personally Identifiable Information (PII), Protected Health Information (PHI), or other sensitive information (e.g. payment/financial information) involved with this product
 - UX design description
     + For user-facing changes, link to UX prototype or wireframes if available
     + Call out any engineering challenges; UX is reviewed in the [Design Intent meeting][DI]
@@ -63,7 +65,8 @@ Some of the items below may not apply to your work--that's okay.  You may not be
 - Data storage
     + Describe new or modified databases, tables or columns
     + Describe indexes and constraints
-    + Identify PII and PHI and where and how it will be stored, processed, expired and deleted
+    + Describe any data caching mechanisms being used; if caching is being used, what is done in case of a cache miss?
+    + Identify PII and PHI, where and how it will be stored (including caching), processed, expired and deleted
 - VA Health and Benefits Mobile application
     + Does your work include changes in the mobile application?
 - Libraries and dependencies
@@ -102,10 +105,14 @@ This checklist is by no means a comprehensive list of all applicable security pr
         * Note that ICNs are considered PII and therefore should not be logged. For more about this, see the [developer documentation][ICN].
         * The contents of free-form text fields filled in by users should not be logged, because there is no way to ensure they do not contain PII or PHI.
         * You should log all significant user actions, including both successful and failed actions, and both read and write operations.
-    + Data retention
-        * PII and PHI should only be stored persistently when there is a business justification for doing so. Don't retain data you don't need to.
+    + Caching
+        * Cached data counts as retained or stored data (see section below)
+        * Does the cached data include sensitive information types (e.g PII/PHI, financial)?
+        * Is the cached data stored as 'plaintext' (unencrypted) or as ciphertext (encrypted)? If encrypted, how?
+    + Data retention (including caching)
+        * <ins>PII and PHI should only be stored when there is a specific business justification.</ins> Don't retain data you don't need to.
         * PII and PHI can be retained for a maximum of 60 days.
-        * However, for forms that are in process (i.e., that a user has started working on but not yet submitted), PII may be retained for as long as the form is still eligible to be completed and submitted. Once the form expires and can no longer be worked on, the 60-day clock starts ticking, though again, ideally we would get rid of the PII sooner than that if there is no longer a business justification to retain it.
+        * However, for forms that are still in-process (i.e., that a user has started working on but not yet submitted), PII may be retained for as long as the form is still eligible to be completed and submitted. Once the form expires and can no longer be worked on, the 60-day clock starts ticking, though again, ideally we would get rid of the PII sooner than that if there is no longer a business justification to retain it.
         * Once a form has been completed and submitted, the 60-day clock starts when we have received confirmation from the remote system that the submission was successful, though again, getting rid of the PII sooner than that is preferred when possible.
         * Note that the [Forms Library][forms] includes support for these data-retention rules.
     + PII and PHI should never be hard-coded in source code or checked into GitHub.
