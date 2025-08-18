@@ -46,7 +46,8 @@
 - TBD
 
 ### Unit Test Coverage
-- TBD
+- As of August 18, 2025:
+  <img width="1405" height="166" alt="Screenshot 2025-08-18 at 8 11 36 AM" src="https://github.com/user-attachments/assets/aea2ea6a-8b56-4e9f-ac43-123c953cbb49" />
 
 ### Engineering & Security Checklist
 - TBD
