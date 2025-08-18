@@ -10,7 +10,7 @@ This is a list of common things to look for when reviewing Figma designs for acc
 - [Adaptability / Mobile](https://github.com/department-of-veterans-affairs/va.gov-team/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#adaptabilitymobile)
 - [Animation](https://github.com/department-of-veterans-affairs/va.gov-team/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#audio--video)
 - [Audio / Video ](https://github.com/department-of-veterans-affairs/va.gov-team/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#audio--video)
-- [Color & Contrast ](https://github.com/department-of-veterans-affairs/va.gov-team/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md)
+- [Color & Contrast ](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#color--contrast)
 - [Dynamic Content](https://github.com/department-of-veterans-affairs/va.gov-team/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md)
 - [Focus Order & Reading Order](https://github.com/department-of-veterans-affairs/va.gov-team/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#focus-order--reading-order)
 - [Form Elements](https://github.com/department-of-veterans-affairs/va.gov-team/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#form-elements)
