@@ -13,7 +13,7 @@ body:
 - type: textarea
   attributes:
     label: Background
-    description: Describe the background context, scope of this research, why it matters, dependencies, and open questions.
+    description: Describe the scope of this research, background context, why it matters, and dependencies.
 - type: textarea
   attributes: 
     label: Research goals
