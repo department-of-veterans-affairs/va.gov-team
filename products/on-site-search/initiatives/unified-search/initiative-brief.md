@@ -33,20 +33,21 @@ We currently have multiple search solutions in place across various experiences 
 > 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
 > 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
-Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
----| ---| ---| ---
-Relevancy | | |
-Performance | | |
-
 **Search relevancy**
-- No results queries and frequency
-- Returning high demand results
-- Accuracy of results
+1. Improve "no results" queries without use of manually entered recommendations (i.e. Best Bets)  
+    - [Top no results queries](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/analytics/2025.md#top-queries-with-no-results)
 
-**Performance**
-- Response time
-- Indexing - # of pages indexed, time to index new or updated content
+2. Improve CTR of top queries
+    - [Top queries and CTR](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/analytics/2025.md#top-queries)
 
+3. Improve accuracy of results
+    - List of current inaccurate or misleading search scenarios
+
+**Search performance**
+1. Response time
+    - 
+2. Indexing - # of pages indexed, time to index new or updated content
+    - 
 
 
 ## Discovery
