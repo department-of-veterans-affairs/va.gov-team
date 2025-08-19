@@ -118,13 +118,13 @@ entered by or provided to the user that is required to be entered again in the s
 ## Language/Cognitive
 
 - [ ]  Does the language rely solely on sensory characteristics (color, shape, position)?
-      Example: “Select the checkbox at the bottom of the page.” Updated example: “Select the checkbox labeled ‘Yes, I consent.”
+      Example: “Select the checkbox at the bottom of the page.” Fix: “Select the checkbox labeled ‘Yes, I consent.”
 
 - [ ]  Is your language plain, concise, and easy to understand? A good check is seeing if content is at an grade 8 reading level. Try pasting your content into the [Hemingway app](https://hemingwayapp.com/).  See [WCAG 3.1.5 Reading Level (Level AAA)](https://www.w3.org/WAI/WCAG22/Understanding/reading-level.html)
 - [ ]  For blocks of text does each line have no more than 80 characters? **Lines that are too long** can cause eye strain and make it harder to track from the end of one line to the start of the next.
 - [ ]  Is the tone and style consistent throughout?
 - [ ]  Are abbreviations, jargon, or acronyms explained or avoided?
-- [ ]  Does anything shown on the page require users to remember? If they are answering a question, do they have all the information they need on the page to complete it? Example: Form question asks “When were you treated for your condition?” Updated example: question is “When were you treated for your arthritis?”
+- [ ]  Does anything shown on the page require users to remember? If they are answering a question, do they have all the information they need on the page to complete it? Example: Form question asks “When were you treated for your condition?” Fix: question is “When were you treated for your arthritis?”
 - [ ]  Does the content rely on unusual punctuation or special characters? Check to see if [its screen reader support](https://www.elevenways.be/en/articles/screenreaders-special-characters)
 
 ## Links & Buttons
