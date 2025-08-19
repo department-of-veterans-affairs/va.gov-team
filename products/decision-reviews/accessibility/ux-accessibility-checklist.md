@@ -134,7 +134,7 @@ entered by or provided to the user that is required to be entered again in the s
 - [ ]  Are you opening the link in a new window? If so, tell users in the link text. When you can, it’s better to keep links opening in the same browser tab. This is because AT users can become disoriented by new tabs opening and it can be burdensome to return to their previous location.
 - [ ]  Are links visually distinguishable (e.g., underlined or styled consistently)?
 - [ ]  Touch target size and spacing (see Adaptability/Mobile)
-- [ ]  If there are multiple links on the page with the same label, do they go to the same place? [WCAG 3.2.4 Consistent Identification (Level AA)](https://w3.org/TR/WCAG22#consistent-identification)
+- [ ]  If there are multiple links on the page with the same label, do they go to the same place? [WCAG 3.2.4 Consistent Identification (Level AA)](https://www.w3.org/WAI/WCAG22/Understanding/consistent-identification.html)
 - [ ]  Similarly, if there are buttons that do the same thing, are they labelled the same way? Example: You shouldn’t have 2 buttons that print the page and one is labelled “Print” while the other is labeled “Print your results.”
 
 ## Lists
