@@ -168,7 +168,7 @@ Moderator note: Switch to other Option (so if completed Option A, move to Option
 
 ## **Option B: Veteran has an email on file**
 
-[Flow B](https://www.figma.com/proto/CAChU51fWYMZsgDR5RXeSc/MHV-Landing-Page?page-id=5465%3A1304&node-id=5861-19456&viewport=26%2C-947%2C0.42&t=spgbQ62qjaRH4JSQ-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=5861%3A19456&show-proto-sidebar=1)
+[Flow B](https://www.figma.com/proto/CAChU51fWYMZsgDR5RXeSc/MHV-Landing-Page?page-id=5465%3A1304&node-id=6143-41889&viewport=26%2C-947%2C0.42&t=GUA0lrM8kU6CnC5V-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=6143%3A41889&show-proto-sidebar=1)
 
 ### **Start on: “Action needed: confirm or update contact email” page**
 
