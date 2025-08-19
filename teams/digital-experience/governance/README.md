@@ -28,7 +28,7 @@ Directory system will parse this section to display team member contact informat
 
 - **Name:** Matt Dingee
 - **GitHub:** [@humancompanion-usds](https://github.com/humancompanion-usds)
-- **Email:** [matthew.dingee@va.gov]
+- **Email:** matthew.dingee@va.gov
 - **Role:** OCTO-DE Lead
 
 #### Team Representative

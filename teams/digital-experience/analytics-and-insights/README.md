@@ -28,7 +28,7 @@ Directory system will parse this section to display team member contact informat
 
 - **Name:** Michael Land
 - **GitHub:** [@mikefland](https://github.com/mikefland)
-- **Email:** [michael.land@va.gov]
+- **Email:** Michael.Land2@va.gov
 - **Role:** OCTO-DE Lead
 
 #### Team Representative

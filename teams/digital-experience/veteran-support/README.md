@@ -28,7 +28,7 @@ Directory system will parse this section to display team member contact informat
 
 - **Name:** Chante Lantos-Swett
 - **GitHub:** [@clantosswett](https://github.com/clantosswett)
-- **Email:** [chante.lantosswett@va.gov]
+- **Email:** Chante.LantosSwett@va.gov
 - **Role:** OCTO-DE Lead
 
 #### Team Representative

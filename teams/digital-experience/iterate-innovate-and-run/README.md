@@ -28,7 +28,7 @@ Directory system will parse this section to display team member contact informat
 
 - **Name:** Dave Conlon
 - **GitHub:** [@davidconlon](https://github.com/davidconlon)
-- **Email:** [dave.conlon@va.gov]
+- **Email:** David.Conlon@va.gov
 - **Role:** OCTO-DE Lead
 
 #### Team Representative

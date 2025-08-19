@@ -28,7 +28,7 @@ Directory system will parse this section to display team member contact informat
 
 - **Name:** Erika Washburn
 - **GitHub:** [@EWashb](https://github.com/EWashb)
-- **Email:** [erika.washburn@va.gov]
+- **Email:** Erika.Washburn@va.gov
 - **Role:** OCTO-DE Lead
 
 #### Team Representative

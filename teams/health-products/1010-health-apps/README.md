@@ -38,7 +38,7 @@
 
 - **Name:** Patrick Bateman
 - **GitHub:** [@batemapf](https://github.com/batemapf)
-- **Email:** [patrick.bateman@va.gov]
+- **Email:** Patrick.Bateman@va.gov
 - **Role:** OCTO-DE Lead
 
 ## About This Team

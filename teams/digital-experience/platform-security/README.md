@@ -28,7 +28,7 @@ Directory system will parse this section to display team member contact informat
 
 - **Name:** Ray Wang
 - **GitHub:** [@raywangoctova](https://github.com/raywangoctova)
-- **Email:** [ray.wang@va.gov]
+- **Email:** gang.wang@va.gov
 - **Role:** OCTO-DE Lead
 
 #### Team Representative

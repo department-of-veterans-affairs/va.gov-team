@@ -28,12 +28,12 @@ Directory system will parse this section to display team member contact informat
 
 - **Name:** Erika Washburn
 - **GitHub:** [@EWashb](https://github.com/EWashb)
-- **Email:** [erika.washburn@va.gov]
+- **Email:** Erika.Washburn@va.gov
 - **Role:** OCTO-DE Lead
 
 - **Name:** Steve Albers
 - **GitHub:** [@va-albers](https://github.com/va-albers)
-- **Email:** [contact-email@va.gov]
+- **Email:** Steve.Albers@va.gov
 - **Role:** OCTO-DE Lead
 
 #### Team Representative

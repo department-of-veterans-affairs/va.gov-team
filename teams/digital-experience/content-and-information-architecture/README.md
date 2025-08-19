@@ -28,7 +28,7 @@ Directory system will parse this section to display team member contact informat
 
 - **Name:** Danielle Thierry
 - **GitHub:** [@DanielleThierryUSDSVA](https://github.com/DanielleThierryUSDSVA)
-- **Email:** [danielle.thierry@va.gov]
+- **Email:** Danielle.Thierry@va.gov
 - **Role:** OCTO-DE Lead
 
 #### Team Representative

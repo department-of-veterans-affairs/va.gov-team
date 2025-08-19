@@ -27,13 +27,13 @@ Directory system will parse this section to display team member contact informat
 #### OCTO-DE Leads
 
 - **Name:** Samara Strauss
-- **GitHub:** [@sanjabaj2](https://github.com/sanjabaj2)
-- **Email:** [contact-email@va.gov]
+- **GitHub:** [@Samara-Strauss](https://github.com/samara-strauss)
+- **Email:** Samara.Strauss@va.gov
 - **Role:** OCTO-DE Lead
 
 - **Name:** Tom Black
-- **GitHub:** [@mmiddaugh](https://github.com/mmiddaugh)
-- **Email:** [contact-email@va.gov]
+- **GitHub:** [@tomblackgov](https://github.com/tomblackgov)
+- **Email:** Thomas.Black2@va.gov
 - **Role:** OCTO-DE Lead
 
 #### Team Representative

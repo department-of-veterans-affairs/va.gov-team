@@ -28,7 +28,7 @@ Directory system will parse this section to display team member contact informat
 
 - **Name:** Ryan Thurlwell
 - **GitHub:** [@rtwell](https://github.com/rtwell)
-- **Email:** [ryan.thurlwell@va.gov]
+- **Email:** Ryan.Thurlwell@va.gov
 - **Role:** OCTO-DE Lead
 
 #### Team Representative
