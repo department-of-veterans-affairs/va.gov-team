@@ -1,5 +1,9 @@
 # 🔧 526EZ How-To Audit  
 
+## Contents
+[1. Purpose](526EZ-How-To-Audit.md##Purpose)<br>
+[2. Context](526EZ-How-To-Audit.md##Context)
+
 ## 🎯 Purpose
 **This document is a guide to support HCD and Engineering team members in:** 
 - Conducting bug-focused manual audits of the 526EZ form
