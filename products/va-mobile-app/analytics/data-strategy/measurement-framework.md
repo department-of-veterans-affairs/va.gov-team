@@ -50,7 +50,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 | **User goal**      | *"I need convenient access to view and manage my VA health benefits on-the-go."* |
 | **What should we measure?** | Successful login, the first time<br> *"I was easily able to login the first time."* |
 | **Important metrics to track**| - Login success rate<br> - Time to login<br> - Recovery rate<br>- Most common logout reasons (e.g. due to connectivity issues, app updates)<br>- Most common login failure reasons<br>- Active users<br>- New users<br>- Logins started event count<br>- Logins completed event count<br>- Login completed webview steps event count<br>- Logins canceled login event count<br>- Authenticated users<br>- Higher frequency reporting intervals than monthly (e.g. real-time data for login success or time to login)<br>- Qualitative trends in login issues from Feedback Hub channels<br>- Future: Login survey |
-| **How these metrics can inform decision making** | Understand login points of friction and identify opportunities to make it easier for users to use the app |
+| **How these metrics can inform decision making** | Understand login points of friction and identify opportunities to make it easier for users to access the app. |
 | **Unhelpful metrics** |  |
 </details>
 <details>
@@ -74,7 +74,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 | **User goal**      | *"I need proof of my Veteran/military status."* |
 | **What should we measure?** | Accurate military status <br> *"I can readily provide proof of my military status.”* |
 | **Important metrics to track**| - User engagement over time (actions on screen)<br>- Viewer counts<br>- Average daily viewers<br>- Views per user<br>- Viewers month-to-month<br>- Distribution/converion of users who access this task via different pathways (homepage vs tool bar)<br>- # of feature viewers/# of users<br>- Latency<br>- % of errors within X period of time<br>- Users report easy access and clear Veteran status |
-| **How these metrics can inform decision making** | Collectively, these metrics show whether the Veteran status card is discoverable, reliable, and valuable in real-world use—helping product teams decide whether to prioritize performance and trust fixes, improve navigation and clarity, or expand feature integration (e.g., wallet apps) to better meet Veterans’ needs. |
+| **How these metrics can inform decision making** | Show how discoverable, reliable and valuable the Veteran status card is. These metrics can indicate whether to prioritize performance and trust fixes, improve navigation and clarity, or expand feature integration (e.g., wallet apps) to better meet Veterans’ needs. |
 | **Unhelpful metrics** | - Time on screen |
 
 </details>
@@ -87,7 +87,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 | **User goal**      | *"I want to have convenient access to a digital version of (x) so that I am not worried about loss or fraud."* |
 | **What should we measure?** | Convenient access to VA benefit letters<br> * “I can conveniently provide digital proof of (x).”* |
 | **Important metrics to track**| - Page views<br>- Most frequently accessed letters<br>- # feature viewers/# of users<br>- Latency<br>- % of errors within X period of time<br>- User report easy to view and download VA benefit letters |
-| **How these metrics can inform decision making** | These metrics reveal whether the VA benefits letters performs reliably and delivers a clear, usable experience. They can inform decisions on which letters to prioritize (e.g. the most common letters users access), where to reduce errors or latency, and how to improve usability so Veterans can quickly access and download the documents they need. |
+| **How these metrics can inform decision making** | Reveal whether the VA benefits letters performs reliably and delivers a clear, usable experience. They can inform decisions on which letters to prioritize (e.g. the most common letters users access), where to reduce errors or latency, and how to improve usability so users can quickly access and download the documents they need. |
 | **Unhelpful metrics** | |
 
 </details>
@@ -100,7 +100,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 | **User goal**      | *"I want to view my appointment(s) to take care of a health concern."* |
 | **What should we measure?** | Useful appointment details<br> *“I know when and where my appointment is."* |
 | **Important metrics to track**| - View appt details events<br>- Notification open/click-through rate<br>- % conversion from notification to completed appt<br>- Engagement time per active user<br>- Appointment cancel events<br>- # feature viewers/# of users<br>- Latency<br>- % of errors within X period of time<br>- CSAT |
-| **How these metrics can inform decision making** | These metrics can inform or improve notification design, in-app usability, or performance to ensure Veterans can easily view, manage, and act on their appointments.  |
+| **How these metrics can inform decision making** | Inform or improve notification design, in-app usability, or performance to ensure users can easily view, manage, and act on their appointments.  |
 | **Unhelpful metrics** |  |
 
 </details>
@@ -113,7 +113,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 | **User goal**      | *"I need to refill my prescription."* |
 | **What should we measure?** | Ease of Prescription Refills <br> *“It was easy to get my prescription refilled.”* |
 | **Important metrics to track**| - Filter and tracking details<br>- Number of clicks to My VA Health (if can't fill script in app)<br>- Feedback from Rx survey<br>- # feature viewers/# of users<br>- Latency<br>- % of errors within X period of time |
-| **How these metrics can inform decision making** | To identify pain points with Rx refill process and identify where to streamline navigation, reduce errors or latency |
+| **How these metrics can inform decision making** | Identify pain points with Rx refill process and identify where to streamline navigation, reduce errors or latency. |
 | **Unhelpful metrics** | |
 
 </details>
@@ -126,7 +126,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 | **User goal**      | *"I want to securely message my provider."* |
 | **What should we measure?** | Ease of secure messaging + timely provider response <br> *“I understood what I needed to do next to manage my whole health.”* |
 | **Important metrics to track**| - Notification open/click-through rate<br>- % conversion from notification to viewed message<br>- Messages sent<br>- Latency<br>- % of errors within X period of time |
-| **How these metrics can inform decision making** | To understand how users are viewing and sending secure messages and identify opportunities for improvement |
+| **How these metrics can inform decision making** | These metrics highlight whether secure messaging is accessible, dependable, and driving meaningful communication. They can highlight where to improve notifications, reduce technical friction, and optimize reliability so users can confidently connect with their healthcare providers through the app. |
 | **Unhelpful metrics** |  |
 
 </details>
@@ -139,7 +139,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 | **User goal**      | *"I want to view my medical records, labs, and test results."* |
 | **What should we measure?** | Accurate, up-to-date medical records <br> *“My recent labs and medical records are accessible and up-to-date.”"* |
 | **Important metrics to track**| - Medical records viewed<br>- # feature viewers/# of users<br>- Latency<br>- % of errors within X period of time |
-| **How these metrics can inform decision making** | To understand and improve experience for Veterans viewing their medical records |
+| **How these metrics can inform decision making** | Indicate how access to medical records in the app is widely used, reliable, and performant. They can help the platform team determine if expanding this feature to include labs and test results would provide high-value information, while ensuring the system can handle increased demand without added errors or delays. |
 | **Unhelpful metrics** |  |
 
 </details>
@@ -152,7 +152,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 | **User goal**      | *"I want to file for beneficiary travel reimbursement after my appointment."* |
 | **What should we measure?** | Ease of access and BT claims filing <br> *“It was clear where to file for travel pay via the app. Filing was easy."* |
 | **Important metrics to track**| - Travel pay submitted<br>- % of travel pay going through mobile compared to other channels<br>- # feature viewers/# of users<br>- Latency<br>- % of errors within X period of time |
-| **How these metrics can inform decision making** | To understand and improve how Veteran file for travel pay; to compare across different travel pay filing modalities |
+| **How these metrics can inform decision making** | Indicate whether the travel pay feature is usable, efficient, and shifting demand from other channels to mobile. They can inform where to improve app performance and reliability while validating the value of continued investment to make travel pay more convenient for users. |
 | **Unhelpful metrics** | |
 
 </details>
@@ -165,7 +165,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 | **User goal**      | *"I want to track claim status."* |
 | **What should we measure?** | Accurate, easy to understand claim status <br> *“I know the status of my claim.”* |
 | **Important metrics to track**| - Click the NCC call center number<br>- Click links on the claim status screen<br>- Claim Details Open events<br>- Time spend viewing per active user<br>- Overall claims page views<br>- # feature viewers/# of users<br>- Latency<br>- % of errors within X period of time |
-| **How these metrics can inform decision making** | To understand and improve experience for Veterans tracking their claim status |
+| **How these metrics can inform decision making** | Reveal whether the claim status feature is providing clear, self-service information. They can help us identify where to improve content clarity, navigation, and performance so Veterans can confidently track their claims in-app without relying on external channels/calling the contact center (NCC). |
 | **Unhelpful metrics** |  |
 
 </details>
@@ -178,7 +178,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 | **User goal**      | *"I want to understand claims decisions/review claim letters."* |
 | **What should we measure?** | Convenient access to claim decision letters <br> *“I can easily access claims letters and review why claim decisions were made.”* |
 | **Important metrics to track**| - Claims history viewed<br>- Conversion funnel to claims decision<br>- Latency<br>- % of errors within X period of time |
-| **How these metrics can inform decision making** | To understand and improve experience for Veterans understanding claim decisions/letters |
+| **How these metrics can inform decision making** | Show whether users can successfully access and navigate to their claim decision letters with minimal friction. |
 | **Unhelpful metrics** |  |
 
 </details>
@@ -190,8 +190,8 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |--------------------|-------------|
 | **User goal**      | *"I need to submit evidence related to my claim."* |
 | **What should we measure?** | Smooth photo or document upload <br> *“I can easily upload photos and documents to my claim.”* |
-| **Important metrics to track**| -Drop-offs at the "Upload Files" screen<br>- # feature viewers/# of users<br>- Latency<br>- % of errors within X period of time |
-| **How these metrics can inform decision making** | To understand and improve how Veterans submit evidence to claims |
+| **Important metrics to track**| - Drop-offs at the "Upload Files" screen<br>- # feature viewers/# of users<br>- Latency<br>- % of errors within X period of time |
+| **How these metrics can inform decision making** | Indicate whether users can successfully complete the evidence submission process without confusion or technical barriers. They can help inform how to improve user flow, reliability, and speed so that evidence/documents can be uploaded with ease. |
 | **Unhelpful metrics** |  |
 
 </details>
@@ -203,8 +203,8 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |--------------------|-------------|
 | **User goal**      | *"I want to understand and manage payments."* |
 | **What should we measure?** | Accurate, easy to understand payment information <br> *“I can easily understand payment history and my direct deposit information.”* |
-| **Important metrics to track**| -Bank info add/update events<br>- Pathways to Payment history and Direct Deposit (home vs toolbar)<br>- #feature viewers/# of users<br>- Latency<br>- % of errors within X period of time |
-| **How these metrics can inform decision making** | To understand and improve experience for a Veteran's payment history and management |
+| **Important metrics to track**| - Bank info add/update events<br>- Pathways to Payment history and Direct Deposit (home vs toolbar)<br>- #feature viewers/# of users<br>- Latency<br>- % of errors within X period of time |
+| **How these metrics can inform decision making** | Surface opportunities to improve navigation, reliability, and ease of updating direct deposit details, while ensuring payment history remains accessible and trustworthy. |
 | **Unhelpful metrics** |  |
 
 </details>
@@ -216,8 +216,8 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |--------------------|-------------|
 | **User goal**      | *"I want to manage my personal information related to my VA health benefits."* |
 | **What should we measure?** | Accurate personal data <br> *“I can easily review and manage my personal information in my VA profile.”* |
-| **Important metrics to track**| - Notificaiton opt-in rates<br>-Notification open rates<br>- CTR<br>- # feature viewers/# of users<br>- Latency<br>- % of errors within X period of time|
-| **How these metrics can inform decision making** | To understand and improve experience for a Veteran's profile information |
+| **Important metrics to track**| - Notification opt-in rates<br>- Notification open rates<br>- CTR<br>- # feature viewers/# of users<br>- Latency<br>- % of errors within X period of time|
+| **How these metrics can inform decision making** | Highlight how well users can manage and personalize their app experience through profile and notification settings, guiding decisions on improving usability and reliability. |
 | **Unhelpful metrics** |  |
 
 </details>
@@ -230,7 +230,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 | **User goal**      | *"I'm in crisis and need urgent support."* |
 | **What should we measure?** | Clicks to Veteran Crisis Line <br> *“I received timely crisis support via the app.”* |
 | **Important metrics to track**| - Clicks on red CTA<br>- Exits to Veterancrisisline.net<br>- # feature viewers/# of users<br>- Latency<br>- % of errors within X period of time |
-| **How these metrics can inform decision making** | To understand and improve crisis support for Veterans using the app  |
+| **How these metrics can inform decision making** | Indicate how effectively Veterans can access urgent crisis support when needed, and ensure the visibility, reliability, and seamless handoff to external crisis resources.  |
 | **Unhelpful metrics** | |
 
 </details>
@@ -243,7 +243,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 | **User goal**      | *"I want to navigate to X easily from the home screen."* |
 | **What should we measure?** | Conversion rates from the app Homescreen to various parts of the app i.e. Health, Benefits, Payments, Profile, VA resources, location finder <br>Following path<br>- do they see it, <br>- if they see it do they tap,<br>- are they able to do a thing (view, task, etc.)   <br> *“I'm able to easily access the things I need from the home screen.”* |
 | **Important metrics to track**| - Activity button click rate, basedon when button conditionally shown (repeat users ok)<br>- Home screen page load time<br>- Notification interactions, bringing users to home screen<br>- # feature viewers/# of users<br>- Latency<br>- % of errors within X period of time |
-| **How these metrics can inform decision making** | Improve the overall navigation/wayfinding of useres form the app home screen |
+| **How these metrics can inform decision making** | Improve the overall navigation/wayfinding of users from the app's home screen. |
 | **Unhelpful metrics** |  |
 
 </details>
