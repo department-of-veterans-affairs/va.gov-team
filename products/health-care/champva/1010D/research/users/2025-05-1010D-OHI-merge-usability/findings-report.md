@@ -156,11 +156,13 @@ On the Introduction page, users struggled to fully understand the breadth of inf
 
 Crucially, the confusion about required information and supporting documents on the introduction page meant that users were unprepared to provide key documentation as part of the Applicant and Other Health Information subsections of the form. 
 
-- **Applicant Enrollment Verification**: Participants felt unprepared when being asked for the school certification letter. Of the 5 participants who saw the School Enrollment portion of the Applicant loop:
+- **Applicant School Enrollment Verification**: Participants felt unprepared when being asked for the school certification letter. Of the 5 participants who saw the School Enrollment portion of the Applicant loop:
     - 4 said they would have to stop the form to call their dependents' school to request an enrollment letter.
     - 3 stated that it would cause significant friction and delay with completing the CHAMPVA application because the school certification is not something they can obtain easily and quickly.
     - 1 participant who saw the school enrollment page assumed that the requirements for this document were identical to other VA education benefits and did not stop to verify if they would need additional information for the CHAMPVA application.
     - Participants familiar with requesting enrollment letters stated they would want more clarity on the request process to schools, including possible workarounds, so as not to delay enrollment.
+
+
 
     > _I just had to do this as [one dependent] is enrolled, and the other one plans to enroll, and he’s already enrolled in a vocational [program]. You need a submitted letter from the school letterhead, first name, last name [of the beneficiary]. That’s what I was expecting, what I need to do._ (P4)
     
@@ -177,13 +179,15 @@ Crucially, the confusion about required information and supporting documents on 
         - 1 participant mentioned feeling "catfished" or like a "bait and switch" occurred at this point in the form, and went back to the Introduction page to verify that health insurance information hadn't been asked.
     - Notable edge case: 1 participant was confused about whether they needed the Veteran's health insurance information, or just applicants'.
 
-    > The concern, the confusion, the whatever I have is, apply for CHAMPVA benefits, and you were looking at 10-10d, right? So here it all is, nowhere in this form does it talk about Medicare. Right? Here's all this stuff. And then all of a sudden, to continue now step 4 of 6. We're bringing in Medicare information. Wait a minute, you didn't inform me of that. I didn't know.
-    
-    > So I would have to go look that [Medicare/Health Insurance information] up, find it, or something like that, and especially if it's new to me. I might have to log into something to get that number. So yeah, I would need to save and continue later. (P8)
-    
-    > I assume this is gonna time out at some point in real life. So it would be really bad for someone to lose all their information, but not be told when it's gonna time out. So if that is true. Hopefully, they can tell people upfront when it will time out or put a warning sign that comes up. Because that could create some real frustrations. (P13)
 
-- **ADD INTRO HERE**9 of 18 users said they would click on the [link](https://www.va.gov/family-and-caregiver-benefits/health-and-disability/champva/#supporting-documents-for-your-) on the introduction page to verify their assumptions about required supporting documents, and to make a plan to gather everything before starting the application.
+    > _The concern, the confusion, the whatever I have is, apply for CHAMPVA benefits, and you were looking at 10-10d, right? So here it all is, nowhere in this form does it talk about Medicare. Right? Here's all this stuff. And then all of a sudden, to continue now step 4 of 6. We're bringing in Medicare information. Wait a minute, you didn't inform me of that. I didn't know._ (P20)
+    
+    > _So I would have to go look that [Medicare/Health Insurance information] up, find it, or something like that, and especially if it's new to me. I might have to log into something to get that number. So yeah, I would need to save and continue later._ (P8)
+    
+    > _I assume this is gonna time out at some point in real life. So it would be really bad for someone to lose all their information, but not be told when it's gonna time out. So if that is true. Hopefully, they can tell people upfront when it will time out or put a warning sign that comes up. Because that could create some real frustrations._ (P13)
+
+- **Gathering Supporting Documents:** 9 of 18 users said they would click on the [_Supporting documents for your application link_](https://www.va.gov/family-and-caregiver-benefits/health-and-disability/champva/#supporting-documents-for-your-) on the form introduction page to verify their assumptions about required supporting documents, and to make a plan to gather everything before starting the application. Given half of the study participants did not notice this link, and the majority did not remember what documents were required for the application from the introduction page, we believe additional content guidance is necessary to help point users to the main documents they'll need to gather before starting the application. 
+
 
     > _I would read the whole thing 1st to see, to give me an over[view] of what I'm gonna be looking to do, and I can always come back to each page as I go. Like number one, I'll hit ["Find out if you're eligible,"](https://www.va.gov/family-and-caregiver-benefits/health-and-disability/champva/) read all that, and I can go back to find number 2, read all it, and then go back down where it said find out which documents I'll need to apply._ (P21)
     
@@ -191,19 +195,19 @@ Crucially, the confusion about required information and supporting documents on 
 
 **Finding 3:** Participants struggled with terms to designate the person filling out the application ("Signer"), the Veteran ("Sponsor"), and their dependents ("Applicants"). This confusion resulted in some duplicative and incorrect data entry in the Signer, Sponsor and Applicant sections of the CHAMPVA application, which may result in applications being delayed or denied.
 
-[Insert link to flow or high-level photo of the flow]
-
 - 11 of 18 participants hesitated on the [**Signer**] section, not comprehending the question asking them to self-identify as a dependent, Veteran, or third-party representative filling out the form.
     - 2 participants said they use their spouse’s VA.gov account and would default to self-selecting “Veteran,” and then proceeded to get confused by the information required in the Sponsor section.
     - Another participant said they wanted more context on the Signer designation, such as the ability to select who you were applying for, rather than self-identifying as a Signer-type.
 
-    > I'm applying on behalf of my spouse and a child. I don't see a box that accurately describes that. The middle box says I'm a veteran applying benefits from my spouse or dependents. And okay. I'd probably want to go find out what they wanted, because a lot of these things could get completely screwed up if you check the wrong box. (P7)
+
+    > _I'm applying on behalf of my spouse and a child. I don't see a box that accurately describes that. The middle box says "I'm a veteran applying benefits from my spouse OR dependents." And okay, I'd probably want to go find out what they wanted, because a lot of these things could get completely screwed up if you check the wrong box._ (P7)
     
-    > I'm not a veteran, so I don't see one that's for me and a dependent …hopefully, when it's live, it can be more clear on that cause I wouldn't know what to do if I had a child, and which that would be a phone call to the CHAMPVA to try to get that answer, or ChatGpt. (P13)
+    > _I'm not a veteran, so I don't see one that's for me and a dependent...hopefully, when [this application is] live, it can be more clear on that cause I wouldn't know what to do if I had a child, and which that would be a phone call to the CHAMPVA to try to get that answer, or [ask] ChatGPT._ (P13)
 
 - 11 of 18 participants had issues completing the [**Sponsor**] section, either confused by the form asking them to provide their information twice in a row (Veterans), or not understanding what a Sponsor meant in relation to applicants (Dependents). Even participants who understood that a Sponsor was a Veteran were confused by the Signer/Sponsor/Applicant sections being close together, making the form appear to ask for the same information two or even three times.
     - All 11 participants who struggled with the Sponsor section completed it as thought it was for a dependent/applicant, not the Veteran.
     - 8 of the 11 participants who struggled with this section were Veterans, for whom the Sponsor section was prefilled based on their answers in the Signer section of the form.
+
 
     > _I have no idea if the information I just put in there was wrong or not. Just like reading this. I enter the sponsor's name. Wouldn't that be me? The sponsor? I would be the sponsor for my husband, but all the information I just filled in was for me, and I don't know if I should have put his information in there._ (P6)
     
@@ -211,13 +215,18 @@ Crucially, the confusion about required information and supporting documents on 
 
 - 6 of 18 participants continued to struggle with the Applicant section, unclear who an Applicant was in relation to CHAMPVA benefits.
 
-    > _In the beginning it asked for my information, and then they asked me, for the sponsor was just the same person as myself, so If I'm not mistaken. The sponsor and myself are the same person. But then this is applicant information, the applicant would be … oh, am I the applicant?_ (P18)
+
+    > _In the beginning it asked for my information, and then they asked me for the sponsor [who] was just the same person as myself, so If I'm not mistaken, the sponsor and myself are the same person. But then this is applicant information, the applicant would be...oh, am **I** [the Veteran] the applicant?_ (P18)
     
-    > _I think it's for me, cause it says applicant. But I guess it's confusing, because I already put my information a couple of times so. And I was doing it for myself and one other person. So I guess that part was confusing at the beginning. Then, so okay, so makes sense for me to put it twice, but if if I'm applying, I'm the applicant, I would be putting in my information._ (P1)
+    > _I think [the Applicant section is] for me, cause it says "applicant." But I guess it's confusing, because I already put [in] my information a couple of times so, and I was doing [the application] for myself and one other person. So I guess that part was confusing at the beginning. Then, so okay, it makes sense for me to put it twice, but if if I'm applying, I'm the applicant, I would be putting in my information._ (P1)
 
-**Finding 4:**   Many participants expresssed confusion about the Medicare (9 of 18) and health insurance (9 of 18) sections of the 10-7959c Other Health Insurance (OHI) subform.
+**Finding 4:**   While users had no trouble navigating into and out of the 10-7959c subform, there were specific usability concerns with the Medicare and Health Insurance list&loops.
 
-**Note: Complete finding**
+While users generally rated the Other Health Insurance (10-7959c) sub-form "easy" or "very easy," there were observed and self-reported inconsistencies with the sub-form. 
+
+- 9 of 18 participants struggled with the **[Medicare]** flow due to peculiarities with Medicare plans and content in the sub-form.
+    - 9 participants could not recall seeing content about needing to provide Medicare plan information on the introduction of the form, and felt unprepared to provide this information (_See Finding 3_).
+    - 
 
 **Finding 5:**   Participants had expectations about the submission and post-submission application process that would make them feel more confident their application was received and being processed. 
 
