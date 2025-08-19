@@ -199,6 +199,8 @@ For the Intent to File (ITF) discovery phase, the team investigated how Veterans
 
 [Other documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/event-bus-notify/documentation.md)
 
+[Decision Letter Email Metrics](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Benefits%20Management%20-%20CST/BMT%20metrics/Decision%20Letter%20Email%20Metrics.xlsx?d=wb15afdf335a64f0798d4eef2fa457425&csf=1&web=1&e=XDqfij)
+
 ## 9. Silent Failures – Investigation & Response
 
 
