@@ -109,15 +109,15 @@ The Audit Tracker will allow us to track which parts of the form, devices, and e
 ### Form Steps Overview
 The following table provides a high-level overview of all steps, sections, and pathways.
 | **Form Section / Step**      | **Pathways** | **Notes** |
-|------------------------|----------------------|--------------------------|
-| **Landing Page and Wizard** |☐ Benefits Delivery at Discharge Claim (BDD) Process <br> ☐ Claim for Increase (CFI)                 | BDD pathway has a different supporting evidence flow. CFI has three conditional responses that will take you down three different pathways.         |
-| **Intro, Intent to File** |N/A                 |         |
-| **Step 1: Veteran Details** |☐ Homeless Process <br>☐ Military Service History Process | 
-| **Step 2: Conditions**      |☐ Toxic Exposure <br> ☐ Prisoner of War <br> ☐ Additional Disability Benefits <br> ☐ Individual Unemployability | Individual Unemployability pathway is only present in staging and not active in production. Do not audit.  |             
-| **Step 3: Mental Health**             | N/A                |                 |          |
-| **Step 4: Supporting Evidence**             | ☐ BDD Process continues here <br> ☐ 4142 Release of Private Medical Records                 |                 |          | 
-| **Step 5: Additional Information**             |      N/A           |                 |          | 
-| **Step 6: Review and Submit**  | N/A                |  ☐ "Edit" Pathway               |          | 
+|------------------------|-------------------------------|------------------|
+| **Landing Page and Wizard** |☐ Main Path <br> ☐ Benefits Delivery at Discharge Claim (BDD) Process <br>                          ☐ Claim for Increase (CFI)                 | BDD pathway has a different supporting evidence flow. CFI has three conditional responses that will take you down three different pathways.         |
+| **Intro, Intent to File** |☐ Main Path                 |         |
+| **Step 1: Veteran Details** |☐ Main Path <br> ☐ Homeless Process <br>☐ Military Service History Process | 
+| **Step 2: Conditions**      |☐ Main Path <br> ☐ Toxic Exposure <br> ☐ Prisoner of War <br> ☐ Additional Disability Benefits <br> ☐ Individual Unemployability | Individual Unemployability pathway is only present in staging and not active in production. Do not audit.  |             
+| **Step 3: Mental Health**             | ☐ Main Path <br> ☐ Mental Health (Answer questions online) <br> ☐ Mental Health (Answer questions on PDF)              |                 |          |
+| **Step 4: Supporting Evidence**             | ☐ Main Path <br> ☐ Supporting Evidence Upload (VA Medical Records)<br> ☐ Supporting Evidence - 4142 Release of Private Medical Records <br> ☐ Supporting Evidence - Upload my private medical records  <br> ☐ BDD Process continues here  <br> ☐ BDD Process - 4142 Release of Private Medical Records  <br>        |                 |          | 
+| **Step 5: Additional Information**             | ☐ Main Path <br>  ☐ VA Employee - Yes to Fully Developed Claim Program <br>  ☐ VA Employee - No to Fully Developed Claim Program <br>           |                 |          | 
+| **Step 6: Review and Submit**  | ☐ Main Path <br>  ☐ Review Veteran Details <br>   ☐ Conditions <br> ☐ Mental Health <br> ☐ Supporting Evidence <br> ☐ Additional Information <br>    |                 |          | 
   
 
 
