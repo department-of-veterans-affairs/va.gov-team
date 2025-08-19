@@ -83,15 +83,6 @@ The following resource can support experienced team members and PMs in understan
 5. Access staging
 6. Conduct your audit and document findings on the Audit Tracker
 
-### 🔐 Step 1. Access staging
-In order to test, testers need to access the form in Staging.
-1. Access the [Staging Environment](https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction)
-2. Click "Sign in to start your application"
-3. Click the green "ID.me" button
-4. Login using a username and password from [the staging users list](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv). You may encounter errors with some users. Recommended users include 230, 234, 235. (If you are auditing the form during the same sprint as other team members, make sure to select different staging users so that you are not overriding each other's progress as you fill out the form.)
-5.  On the "Receive a code by phone" screen, just click "Continue"
-6. On the "Enter the 6-digit code" click "Continue" again. (The code should have automatically populated).
-
 ### 🧭 Step 1. Will you conduct a bug or UX issue audit?
 Use the table below to understand the difference between bugs and UX issues. Choose one type of audit (bug or UX issue) before you begin — it helps with tracking and keeps you focused.
 - Bug audit: Check if the system works as intended.
@@ -129,12 +120,12 @@ The following table provides a high-level overview of all steps, sections, and p
 | **Step 5: Additional Information**             | ☐ Main Path <br>  ☐ VA Employee - Yes to Fully Developed Claim Program <br>  ☐ VA Employee - No to Fully Developed Claim Program <br>           |                 |          | 
 | **Step 6: Review and Submit**  | ☐ Main Path <br>  ☐ Review Veteran Details <br>   ☐ Review Conditions <br> ☐ Review Mental Health <br> ☐ Review Supporting Evidence <br> ☐ Review Additional Information <br>                                                                                                                                     |                 |          | 
 
-### 🗂️ Step 5. Familiarize yourself with the Audit Tracker and select your steps/pathways
+### 🗂️ Step 4. Familiarize yourself with the Audit Tracker and select your steps/pathways
 The Audit Tracker will allow us to track which parts of the form, devices, and environments have been tested. 
 - [Audit Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1Y_JOzPltc_3Rb4OhdGTTCHPArLJpk12RpgkoJ2vxcMc/edit?gid=901203816#gid=901203816)
 - Use [Tab A. Form Steps Overview](https://docs.google.com/spreadsheets/d/1Y_JOzPltc_3Rb4OhdGTTCHPArLJpk12RpgkoJ2vxcMc/edit?pli=1&gid=0#gid=0) to determine which steps and pathways of the form still need auditing and to "Sign up" for your sections. (This list is the same as the list in "Form Steps Overview" shown above.)
 
-### 🔐 Step 6. Access staging
+### 🔐 Step 5. Access staging
 In order to test, testers need to access the form in Staging.
 1. Access the [Staging Environment](https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction)
 2. Click "Sign in to start your application"
@@ -143,36 +134,20 @@ In order to test, testers need to access the form in Staging.
 5.  On the "Receive a code by phone" screen, just click "Continue"
 6. On the "Enter the 6-digit code" click "Continue" again. (The code should have automatically populated).
   
-### 🗂️ Step 7. Conduct your audit and document your findings in the Audit Tracker
+### 🗂️ Step 6. Conduct your audit and document your findings in the Audit Tracker
 The Audit Tracker will allow us to track which parts of the form, devices, and environments have been tested. 
 - On the [Audit Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1Y_JOzPltc_3Rb4OhdGTTCHPArLJpk12RpgkoJ2vxcMc/edit?gid=901203816#gid=901203816), write descriptions of your findings and provide screenshots on the tab that corresponds to the step you chose to audit. 
 
 ---
-# 7. Post Audit Information For PMs and POs
-
-## Post Audit: Steps for PMs and POs 
-1. ~Create or update bug / UX issue tickets~ Fill out spreadsheet with bug / UX issue findings.
-2. ~Link bug / UX issue tickets to any related enhancement Super Epics~ PO/PMs will review spreadsheet for duplicate bugs and create tickets.
-
-## Prioritized Backlog Super Epics
-as of August 19, 2025
-
-- Reduce the burden of navigating through the disability form 526 [#116289](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116289): This super epic covers the UX issue of users having to click `Back` and `Continue` multiple times to navigate to previous pages. It also covers the newly released `sidenav` component.
-- Improve 526 start/ restart experience [#108100](https://github.com/orgs/department-of-veterans-affairs/projects/1660/views/34?pane=issue&itemId=107514433&issue=department-of-veterans-affairs%7Cva.gov-team%7C108100): Covers UX issues that include - form asking the user to go through the intro sequence again when restarting the form, lack of expectation setting on intro page, no preview of form making it hard for the user to prepare to fill it out.
-
-## 📣 4. Check for in-progress work and known issues
-Multiple teams are involved in designing and developing the 526 form, and there may be in-progress updates to the section you plan to audit. These updates might address bugs or UX issues you would otherwise identify. To avoid duplicating work, you first check for existing efforts by contacting the right Slack channels or team members. Let them know you're auditing [X section] and ask if there are any in-progress changes, known issues, or prior findings you should review. 
-- ["Bug Bash Super Epic"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110810): Check subtasks for previously logged bugs or UX issues.
-- **#benefits-disability**: Full 526 team and OCTO enabling partners
-- **#benefits-disability-conditions**: Conditions team - for audits related to “Step 2: Conditions."
-- **#platform-design-system**: Platform design system team - for post-audit follow-up if issues are related to design patterns or components.
-
-~## 🎟️ 6. Create or update bug / UX issue tickets~ Fill out [Spreadsheet](https://docs.google.com/spreadsheets/d/1Y_JOzPltc_3Rb4OhdGTTCHPArLJpk12RpgkoJ2vxcMc/edit?gid=901203816#gid=901203816) 
-~1. Review previously created tickets under the ["Bug Bash Super Epic"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110810) to determine if you should create a new ticket or update an already existing one. Use the following ticket templates to write your tickets.
+## 7. 🎟️ Post Audit Information For PMs and POs
+- Review the Audit Tracker Spreadsheet for new findings. 
+- Review previously created tickets under the ["Bug Bash Super Epic"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110810) to determine if you should create a new ticket or update an already existing one. Use the following ticket templates to write your tickets.
 - **Bug Ticket Template** _[TODO: Update once template is approved and created. In the meantime, reference [this ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116511) written with proposed template sections]_
 - **UX Issue Ticket Template** _[TODO: Update once template is approved and created. In the meantime, reference [this ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116513) written with proposed template sections]_
-2. Link your ticket as a Sub Issue under the ["Bug Bash Super Epic"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110810).~
-_[TODO: How might we organize the bugs/sub issues under the Bug Bash Super Epic? Right now, there are many different bugs/issues/epics nested under here.]_
+- Check for in-progress work, or upcoming Super Epics on the [526EZ Product Prioritization Mural](https://app.mural.co/t/nava4113/m/nava4113/1748904136573/6cc118924290977700e9a4ecd1e7a1b0e7c2e6c9)
+- Link your ticket as a Sub Issue under the ["Bug Bash Super Epic"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110810).~
+
+  
 
 
 ~## 📋 7. Link bug / UX issue tickets to any related enhancement Super Epics~
