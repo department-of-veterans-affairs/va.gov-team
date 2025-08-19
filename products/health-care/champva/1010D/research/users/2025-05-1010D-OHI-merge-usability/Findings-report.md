@@ -207,25 +207,25 @@ Crucially, the confusion about required information and supporting documents on 
 
 **Finding 3:** Participants struggled with terms to designate the person filling out the application ("Signer"), the Veteran ("Sponsor"), and their dependents ("Applicants"). This confusion resulted in some duplicative and incorrect data entry in the Signer, Sponsor and Applicant sections of the CHAMPVA application, which may result in applications being delayed or denied.
 
-- 11 of 18 participants hesitated on the [**Signer**] section, not comprehending the question asking them to self-identify as a dependent, Veteran, or third-party representative filling out the form.
-    - 2 participants said they use their spouse’s VA.gov account and would default to self-selecting “Veteran,” and then proceeded to get confused by the information required in the Sponsor section.
-    - Another participant said they wanted more context on the Signer designation, such as the ability to select who you were applying for, rather than self-identifying as a Signer-type.
+11 of 18 participants hesitated on the [**Signer**] section, not comprehending the question asking them to self-identify as a dependent, Veteran, or third-party representative filling out the form.
+- 2 participants said they use their spouse’s VA.gov account and would default to self-selecting “Veteran,” and then proceeded to get confused by the information required in the Sponsor section.
+- Another participant said they wanted more context on the Signer designation, such as the ability to select who you were applying for, rather than self-identifying as a Signer-type.
 
 
     > _I'm applying on behalf of my spouse and a child. I don't see a box that accurately describes that. The middle box says "I'm a veteran applying benefits from my spouse OR dependents." And okay, I'd probably want to go find out what they wanted, because a lot of these things could get completely screwed up if you check the wrong box._ (P7)
     
     > _I'm not a veteran, so I don't see one that's for me and a dependent...hopefully, when [this application is] live, it can be more clear on that cause I wouldn't know what to do if I had a child, and which that would be a phone call to the CHAMPVA to try to get that answer, or [ask] ChatGPT._ (P13)
 
-- 11 of 18 participants had issues completing the [**Sponsor**] section, either confused by the form asking them to provide their information twice in a row (Veterans), or not understanding what a Sponsor meant in relation to applicants (Dependents). Even participants who understood that a Sponsor was a Veteran were confused by the Signer/Sponsor/Applicant sections being close together, making the form appear to ask for the same information two or even three times.
-    - All 11 participants who struggled with the Sponsor section completed it as thought it was for a dependent/applicant, not the Veteran.
-    - 8 of the 11 participants who struggled with this section were Veterans, for whom the Sponsor section was prefilled based on their answers in the Signer section of the form.
+11 of 18 participants had issues completing the [**Sponsor**] section, either confused by the form asking them to provide their information twice in a row (Veterans), or not understanding what a Sponsor meant in relation to applicants (Dependents). Even participants who understood that a Sponsor was a Veteran were confused by the Signer/Sponsor/Applicant sections being close together, making the form appear to ask for the same information two or even three times.
+- All 11 participants who struggled with the Sponsor section completed it as thought it was for a dependent/applicant, not the Veteran.
+- 8 of the 11 participants who struggled with this section were Veterans, for whom the Sponsor section was prefilled based on their answers in the Signer section of the form.
 
 
     > _I have no idea if the information I just put in there was wrong or not. Just like reading this. I enter the sponsor's name. Wouldn't that be me? The sponsor? I would be the sponsor for my husband, but all the information I just filled in was for me, and I don't know if I should have put his information in there._ (P6)
     
     > _So it says sponsor's name and date of birth...oh, I may have misread the original where I was putting in the original information. I thought that was the… Is there any way to go back?_ (P19)
 
-- 6 of 18 participants continued to struggle with the Applicant section, unclear who an Applicant was in relation to CHAMPVA benefits.
+6 of 18 participants continued to struggle with the [**Applicant**] section, unclear who an Applicant was in relation to CHAMPVA benefits.
 
 
     > _In the beginning it asked for my information, and then they asked me for the sponsor [who] was just the same person as myself, so If I'm not mistaken, the sponsor and myself are the same person. But then this is applicant information, the applicant would be...oh, am **I** [the Veteran] the applicant?_ (P18)
@@ -236,10 +236,10 @@ Crucially, the confusion about required information and supporting documents on 
 
 While users generally rated the Other Health Insurance (10-7959c) sub-form "easy" or "very easy," there were observed and self-reported inconsistencies with the sub-form. 
 
-- 9 of 18 participants struggled with the **[Medicare]** flow due to Medicare plan terminology in the form, users’ mental models about insurances, and type of information they were being asked to provide. 
-    - 9 participants could not recall seeing content about needing to provide Medicare plan information on the introduction of the form, and felt unprepared to provide this information (_See Finding 2_).
-    - 9 participants were confused about which plan to pick (Part A, Part B, Part C) because they were unfamiliar with Medicare terminology.
-    - 3 participants were confused by the enrollment date question. This is because this information wasn’t something that they would know off the top of their head, and for users with Parts A and B, the enrollment date would be the same. Entering dates twice felt duplicative. 
+9 of 18 participants struggled with the **[Medicare]** flow due to Medicare plan terminology in the form, users’ mental models about insurances, and type of information they were being asked to provide. 
+- 9 participants could not recall seeing content about needing to provide Medicare plan information on the introduction of the form, and felt unprepared to provide this information (_See Finding 2_).
+- 9 participants were confused about which plan to pick (Part A, Part B, Part C) because they were unfamiliar with Medicare terminology.
+- 3 participants were confused by the enrollment date question. This is because this information wasn’t something that they would know off the top of their head, and for users with Parts A and B, the enrollment date would be the same. Entering dates twice felt duplicative. 
 
 
     > _I [would] call CHAMPVA because I want to make certain that applying for [CHAMPVA] isn’t going to interfere with my Medicare [Part B] Supplemental Insurance. I never know when the [CHAMPVA] funds could run out, and then I could be stuck. That’s why I’ve kept the Part B of Medicare, the supplemental insurance, just to be on the safe side._ (P17)
@@ -250,10 +250,10 @@ While users generally rated the Other Health Insurance (10-7959c) sub-form "easy
     
     > _The way I'm reading it, this is which applicant dependent would I like to add Medicare to. When I already told them he got Medicare. I don't understand that question, that much._ (P21)
 
-- 3 of 11 participants were unsure how to add their **[Medicare Part D]** information. There are several reasons for this confusion.
-    - The Medicare flow we tested only mentioned Part D after asking users to identify which primary and supplemental Medicare plan(s) they have. Users noticed that Part D was missing from the first question.
-    - Medicare Part D is run by private health insurance providers, so a provider name is required. Some participants interpreted the Other Health Insurance flow as where you would disclose Medicare Part D, given the similarities between the Part D questions and Other Health Insurances loop.
-    - Part D does not show up on the Review Page under Medicare Plans, or on the review card within the Medicare loop. Users were unable to verify if their Part D plan was properly added.
+3 of 11 participants were unsure how to add their **[Medicare Part D]** information. There are several reasons for this confusion.
+- The Medicare flow we tested only mentioned Part D after asking users to identify which primary and supplemental Medicare plan(s) they have. Users noticed that Part D was missing from the first question.
+- Medicare Part D is run by private health insurance providers, so a provider name is required. Some participants interpreted the Other Health Insurance flow as where you would disclose Medicare Part D, given the similarities between the Part D questions and Other Health Insurances loop.
+- Part D does not show up on the Review Page under Medicare Plans, or on the review card within the Medicare loop. Users were unable to verify if their Part D plan was properly added.
 
 
     > _[Moderator: For this section I would like you to add a private health insurance plan for both applicants, so for both [dependent] and [spouse].] Well, didn’t I already do that with [Spouse] with his plan? Yeah, with the [Medicare Part] D, that’s a private health insurance._ (P6)
@@ -266,9 +266,12 @@ While users generally rated the Other Health Insurance (10-7959c) sub-form "easy
     
     > _If they should have captured that I had the [Part D] drug coverage and [I] wouldn't have to go back [from the Review page to check]._ (P17)
 
-- 9 participants were unsure how to **[add applicants]** to a Medicare or other health insurance (2 of 9) plan. Participants encountered these issues about applicants regardless of their enrollment status and awareness of Medicare and/or Other Health Insurances. We believe inconsistencies in the wording and flow of the Medicare and Other Health Insurance flows contributed to this confusion:
-    - When adding an applicant to **Medicare (7 of 9 participants)**, the flow asks users to first identify the applicant, then the specific Medicare plan and enrollment information. Users can only select one applicant at a time. This is because Medicare cards and enrollment ID numbers are specific to each individual, not to a family.
-    - When adding applicants to **Other Health Insurance plans (2 of 9 participants)**, the flow asks users to provide plan information first, and then users are able to select all applicants enrolled on that plan. This is because multiple family members can be enrolled on the same Health Insurance plan under a single Group and Provider ID. 
+9 participants were unsure how to [**add applicants**] to a Medicare or other health insurance plan. Participants encountered these issues about applicants regardless of their enrollment status and awareness of Medicare and/or Other Health Insurances. 
+
+We believe inconsistencies in the wording and flow of the Medicare and Other Health Insurance flows contributed to this confusion:
+
+- When adding an applicant to **Medicare (7 of 9 participants)**, the flow asks users to first identify the applicant, then the specific Medicare plan and enrollment information. Users can only select one applicant at a time. This is because Medicare cards and enrollment ID numbers are specific to each individual, not to a family.
+- When adding applicants to **Other Health Insurance plans (2 of 9 participants)**, the flow asks users to provide plan information first, and then users are able to select all applicants enrolled on that plan. This is because multiple family members can be enrolled on the same Health Insurance plan under a single Group and Provider ID. 
 
 
     > _You know I can't choose both [Applicants] here [in the Medicare flow]. It may be a 3rd radio button, you know. "Both."  Cause I'd be like, come on, you're gonna ask me more questions that I'll have to repeat myself again. But it should allow me to select either or both._ (P9)
@@ -278,10 +281,10 @@ While users generally rated the Other Health Insurance (10-7959c) sub-form "easy
     > _You have insurance now. I don't know if this is for myself or for my daughter._ (P15)
 
 
-- 9 of 18 participants had difficulty with understanding the form fields in the **[Other Health Insurances]** flow in the subform. Specific areas of difficulty included:
-    - 9 participants had concerns with the enrollment and termination date questions. This was particularly an issue because users were unaware why an expired health insurance plan would be relevant to enrolling in the program.
-    - 8 were unsure which plan type to select, because they were not familiar with insurance types other than Medicare, Medicaid or Tricare, and were unaccustomed to language used to describe ACA/private health insurance plans.
-    - Edge case: 1 participant said both she and her dependent have the same health insurance provider, but different Group IDs because they receive health insurance from different sources (employer, school). She was unsure if she could add both of them to a generic health insurance plan to save time completing the Health Insurance part of the form twice.
+9 of 18 participants had difficulty with understanding the form fields in the [**Other Health Insurance**] flow in the subform. Specific areas of difficulty included:
+- 9 participants had concerns with the enrollment and termination date questions. This was particularly an issue because users were unaware why an expired health insurance plan would be relevant to enrolling in the program.
+- 8 were unsure which plan type to select, because they were not familiar with insurance types other than Medicare, Medicaid or Tricare, and were unaccustomed to language used to describe ACA/private health insurance plans.
+- Edge case: 1 participant said both she and her dependent have the same health insurance provider, but different Group IDs because they receive health insurance from different sources (employer, school). She was unsure if she could add both of them to a generic health insurance plan to save time completing the Health Insurance part of the form twice.
 
 
     > _Now, the insurance termination…If a policy is inactive, then I don’t have a policy. I wouldn’t have said yes [I have health insurance], that makes no sense._ (P2)
@@ -296,17 +299,16 @@ While users generally rated the Other Health Insurance (10-7959c) sub-form "easy
 
 **Finding 5:**   Participants had expectations about the submission and post-submission application process that would make them feel more confident their application was received and being processed. 
 
-- In the flow we tested with participants, users must fill out information about the person filling out the application (the Signer), then the Veteran through whom dependents receive their eligibility (the Sponsor), and finally applicant information. Some participants had to fill out their information twice in the Signer and Sponsor sections, which felt duplicative.
+In the flow we tested with participants, users must fill out information about the person filling out the application (the Signer), then the Veteran through whom dependents receive their eligibility (the Sponsor), and finally applicant information. Some participants had to fill out their information twice in the Signer and Sponsor sections, which felt duplicative.
 
 
-    > _It's repetitive. It's easy... but just it's more tedious and been hard to do... [It would be less tedious] If I could do side by side myself as a sponsor, the spouse and the child in the same page, and then be able to click and fill out the form in 1 shot and one page, rather than go to each section individually._ (P18)
+ > _It's repetitive. It's easy... but just it's more tedious and been hard to do... [It would be less tedious] If I could do side by side myself as a sponsor, the spouse and the child in the same page, and then be able to click and fill out the form in 1 shot and one page, rather than go to each section individually._ (P18)
   
-- To reduce those feelings that the form was tedious, participants suggested streamlining repetitive or "redundant" pages, such as addresses.
+To reduce those feelings that the form was tedious, participants suggested streamlining repetitive or "redundant" pages, such as addresses.
 
-
-    > _Some of the questions were repetitive. You could have a little link where it says like, for my daughter…a box to check there “same address as mine” so it’ll copy over._ (P15)
+ > _Some of the questions were repetitive. You could have a little link where it says like, for my daughter…a box to check there “same address as mine” so it’ll copy over._ (P15)
     
-    > _It seemed like you were asking the same information on the address and things of that nature like when you did your spouse. And they went back actually for the address, the street, and all that twice, and they did it again the same thing when you put your of the dependent. I didn't understand why._ (P21)
+ > _It seemed like you were asking the same information on the address and things of that nature like when you did your spouse. And they went back actually for the address, the street, and all that twice, and they did it again the same thing when you put your of the dependent. I didn't understand why._ (P21)
 
 ---
 
@@ -316,22 +318,58 @@ While users generally rated the Other Health Insurance (10-7959c) sub-form "easy
 
 **2.** Participants had expectations about the submission and post-submission application process that would make them feel more confident their application was received and being processed.
 
-**Additional Finding 1:** School-aged CHAMPVA beneficiaries are required to re-submit school verification documents in between semesters to retain CHAMPVA benefits, which is a tedious task and may result in a lapse of coverage. 
+### Details of Additional Insights
 
-    > We’ve had to do this multiple times. Every year, we have to do it, and it’s always a challenge with my son’s college. - P12
+**Additional Insight 1:** School-aged CHAMPVA beneficiaries are required to re-submit school verification documents in between semesters to retain CHAMPVA benefits, which is a tedious task and may result in a lapse of coverage. 
 
-- 1 participant mentioned that lapses in CHAMPVA coverage were not announced, and it was the responsibility of the beneficiaries to check if coverage lapses between semesters at school, resulting in surprise copays or uncovered medical bills.
+2 participants mentioned that lapses in CHAMPVA coverage were not announced, and it was the responsibility of the beneficiaries to check if coverage lapses between semesters at school, resulting in surprise copays or uncovered medical bills. 
 
-    > My daughter…she goes to school, right? So she’s always cut off [from CHAMPVA benefits]. The fall semester runs from August all the way through December, and then there’s a gap period from mid-December til mid-January, when the VA sometimes would cut her off from benefits, because technically she’s not in school. So she would have to send in another recertifying form [10-7959c]. She always has [health issues] and was constantly having to go [to the doctor]...repeatedly. There were times where I would need to find out: do they [CHAMPVA] still have her, you know, insured or not? And so we’d have to call the 1-800 number to find out if she was still covered, and they would tell us. But I’ve never been able to check [if we’re still eligible]. Honestly, there’s very limited information that you can get regarding your CHAMPVA benefits as far as eligibility, finding out if you’re still eligible and still covered online. (P15)
+> _My daughter…she goes to school, right? So she’s always cut off [from CHAMPVA benefits]. The fall semester runs from August all the way through December, and then there’s a gap period from mid-December til mid-January, when the VA sometimes would cut her off from benefits, because technically she’s not in school. So she would have to send in another recertifying form [10-7959c]. She always has [health issues] and was constantly having to go [to the doctor]...repeatedly. There were times where I would need to find out: do they [CHAMPVA] still have her, you know, insured or not? And so we’d have to call the 1-800 number to find out if she was still covered, and they would tell us. But I’ve never been able to check [if we’re still eligible]. Honestly, there’s very limited information that you can get regarding your CHAMPVA benefits as far as eligibility, finding out if you’re still eligible and still covered online._ (P15)
+
+> _We’ve had to do this multiple times. Every year, we have to do it, and it’s always a challenge with my son’s college._ (P12)
     
-
 - Another participant mentioned a workaround to communicating with the school, which was utilizing a third party enrollment verification system through Publisher’s Clearinghouse.
 
-    > _But my son’s college in [another state] only gives it for the semesters he’s enrolled in at the time. So [...] I had to go to the Publisher’s Clearinghouse and beg, plead, wheedle, and get them to change it to his actual graduation date._ (P12)
 
-**Additional Finding 2:** Participants had expectations about the submission and post-submission application process that would make them feel more confident their application was received and being processed.
+  > _But my son’s college in [another state] only gives it for the semesters he’s enrolled in at the time. So [...] I had to go to the Publisher’s Clearinghouse and beg, plead, wheedle, and get them to change it to his actual graduation date._ (P12)
 
-**COMPLETE THIS ADDITIONAL FINDING**
+**Additional Insight 2:** Participants had expectations about the submission and post-submission application process that would make them feel more confident their application was received and being processed.
+
+On submission, participants expect to see:
+
+- A confirmation number (13 of 18)
+- A confirmation email (13 of 18)
+- The ability to save a copy of their application for their records (10 of 18)
+- Estimated timeline to process the application (5 of 18)
+- Self-service and helpful resources if they have questions, or if issues arise with their application (2 of 18)
+- Instructions and next steps in the enrollment process (1 of 18)
+
+  > _Well, I [want to] get a pop up telling me I could print it right off the bat. I'd get a email telling me it was done._ (P2)
+  
+  > _I entered an email in [the application]. So I would expect some type of generated communication to the spouse contact information, the child contact information and me as the sponsor slash also as the signer._ (P20)
+  
+  > _It's gonna give me a page that says this is your confirmation number for your submittal. Please print it out for your records and you're done. We'll get back to you. I save a digital copy… I['ll] pdf it._ (P12)
+
+13 of 18 participants expect to receive a decision on their CHAMPVA application within 30-60 days of submission. 
+
+- 3 participants said 90 to 180 days would not be unexpected, given their experience with applying for other VA benefits, but they would hope to hear sooner.
+- 2 participants mentioned having progress updates on their application would temper their expectations while waiting for a decision, and reduce calls to the Call Center.
+
+
+  > _At the 30-day mark, maybe [send an email] “hey we’re still working on your application” and that kind of thing, so you know you didn’t fall off the grid._ (P8)
+  
+  > _I'll give time for the mail [confirmation of submission] to get to me. I'll give that at least 10 working days for me to get something in the mail. After 10 days. I probably start making phone calls because hopefully, they had when I submitted it, they sent a text or something. Your application has been received, or whatever submitted to us, government government affairs, or whoever, and with all that information 10 days past. I haven't heard in that, I start making phone calls._ (P21)
+
+8 of 18 participants stated they would like a way to track the status of their application.
+
+- Participants expected that they could track the status of their application either in their MyVA profile, by returning to the intro page of the application, or a separate claims status tool, similar to what they've used with their disability benefits. 
+- 3 participants added that they expect that VA would reach out to them about problems processing their application, and allow them some way to send in missing information quickly, so as not to lose their place in the queue.
+- Many participants mentioned calling the Call Center for assistance with CHAMPVA and other VA benefits. While participants are not afraid to call in, they clearly want to exhaust all self-service options to track and remedy their benefits and applications before spending a lot of time on the phone.
+
+
+  > When I call the 1-800 number, [I’ve asked] have you all done anything to the website to include information regarding your benefits…statuses of claims? And they’re like no, you have to call in. That’s something they really need to improve on. It’s not very…it’s not very conducive. You have to call and wait, and sometimes there’s a wait, especially right now. I recently called…really early, at 8 o’clock…they called a bit over an hour later. (P15)
+  
+  > _Any claim, anything that you do, the VA site gives you: "Here's your status" and you can go and click on the status, you'll get an email status of that claim change … My expectation is that existing process, I would expect it to apply here as well._ (P20)
 
 ## Recommendations
 
@@ -378,13 +416,13 @@ While users generally rated the Other Health Insurance (10-7959c) sub-form "easy
 
     _Supporting evidence:_
 
-    * 3 of 11 participants were unsure how to add their Medicare Part D information \
+    * 3 of 11 participants were unsure how to add their Medicare Part D information 
 
 * To avoid confusion on how applicants are added to Medicare and health insurance plans consider using similar user flows for both of these sections.
 
     _Supporting evidence:_
 
-    * 9 participants were unsure how to **[add applicants]** to a Medicare (7 of 9) or other health insurance (2 of 9) plan.  \
+    * 9 participants were unsure how to **[add applicants]** to a Medicare (7 of 9) or other health insurance (2 of 9) plan.  
 
 * It is recommended to add more context about health insurance details such as the termination date and the plan type to encourage applicants to enter the correct information.
 
@@ -497,7 +535,7 @@ This research supports measurement of this KPI by:
 
 *Identify gaps in the current study and areas requiring additional investigation––such as demographics that were not included in this study.* 
 
-We recommended conducting additional research with the CHAMPVA partners to gain a better understanding of their school certification process, and how to better align business requirements with users' expectations. 
+- We recommended conducting additional research with the CHAMPVA partners to gain a better understanding of their school certification process, and how to better align business requirements with users' expectations. 
 
 ## Appendix
 [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/10-10D-OHI-Merge-Product-Outline.md)
@@ -516,7 +554,6 @@ We recommended conducting additional research with the CHAMPVA partners to gain 
 ## Pages and applications used
 
 - [Staging environment](https://staging.va.gov/ivc-champva/10-10d-extended/)
-- [Figma mocks]
 
 
 ## Other supporting documents created
@@ -529,12 +566,12 @@ We recommended conducting additional research with the CHAMPVA partners to gain 
 *Include any relevant secondary research, e.g., web analytics, SME interviews.*  
 
 ## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#who-we-talked-to)_
 
 **Recruitment criteria**
 
-Our intended audience for this study was Veterans with high disability ratings and their dependent spouses and children, who may or may not be currently enrolled in the CHAMPVA program. We split this study into three cohorts:
+Our intended audience for this study was Veterans with high disability ratings who are currently eligible (or may become eligible) to enroll their dependent spouses and children, as well as current/potential CHAMPVA beneficiaries. 
+
+We split this study into three cohorts:
 
 - **Cohort 1 (n = 12 minimum)**: Veterans with a 100% service connected disability rating with a spouse and/or dependent children who may or may not be enrolled in CHAMPVA benefits. 
 
@@ -542,24 +579,27 @@ Our intended audience for this study was Veterans with high disability ratings a
 
 - **Cohort 3 (n = 2 minimum)**: Veterans with a 50% or higher service connected disability rating with a spouse and/or dependent children who may or may not be enrolled in CHAMPVA benefits. 
 
+Our participant distribution by cohort was calculated based on demographics pulled from standalone 10-10d submissions. 
+
 We talked to **18 participants.**
 
 Audience segment:
-* Veterans:  10 (5 without CHAMPVA beneficiaries / 5 with CHAMPVA beneficiaries)
+* Veterans:  14 (9 without CHAMPVA beneficiaries / 5 with CHAMPVA beneficiaries)
 * Family members of a Veteran: 4  (1 not currently enrolled in CHAMPVA / 3 currently enrolled in CHAMPVA)
-* Assistive Technology: 4 (All without current CHAMPVA beneficiaries)
-
 
 Gender:
-* Male: 12 
-* Female: 6 
+* Male: 11 
+* Female: 6
+* Unknown: 1 
 
 
 Devices used during study: 
 * Desktop: 12 
 * Tablet: 1 
 * Smart phone: 5 
-* Assistive Technology: 5
+* Assistive Technology: 5*
+
+*One non-AT participant used screen magnification throughout their session, but did not self-identify to Perigean as an AT-user. They are counted in both cohorts 1 and 3 in our audience segment reporting. 
 
 
 Age:
