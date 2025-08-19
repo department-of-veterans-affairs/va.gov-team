@@ -43,11 +43,12 @@
 - TBD
 
 ### E2E Tests
-- TBD
+- https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/personalization/profile/tests/e2e/paperless-delivery
 
 ### Unit Test Coverage
-- As of August 18, 2025:
-  <img width="1405" height="166" alt="Screenshot 2025-08-18 at 8 11 36 AM" src="https://github.com/user-attachments/assets/aea2ea6a-8b56-4e9f-ac43-123c953cbb49" />
+- As of August 19, 2025:
+<img width="654" height="88" alt="Screenshot 2025-08-19 at 09 54 39" src="https://github.com/user-attachments/assets/2337d27b-4bf7-413c-925a-4f522c746aad" />
+
 
 ### Engineering & Security Checklist
 - TBD
