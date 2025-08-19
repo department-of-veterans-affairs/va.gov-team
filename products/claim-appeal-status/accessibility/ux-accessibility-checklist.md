@@ -125,7 +125,7 @@ entered by or provided to the user that is required to be entered again in the s
 - [ ]  Is the tone and style consistent throughout?
 - [ ]  Are abbreviations, jargon, or acronyms explained or avoided?
 - [ ]  Does anything shown on the page require users to remember? If they are answering a question, do they have all the information they need on the page to complete it? Example: Form question asks “When were you treated for your condition?” Fix: question is “When were you treated for your arthritis?”
-- [ ]  Does the content rely on unusual punctuation or special characters? Check to see if [its screen reader support](https://www.elevenways.be/en/articles/screenreaders-special-characters)
+- [ ]  Does the content rely on unusual punctuation or special characters? Check to see [its screen reader support](https://www.elevenways.be/en/articles/screenreaders-special-characters)
 
 ## Links & Buttons
 
