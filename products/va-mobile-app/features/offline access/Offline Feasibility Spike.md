@@ -34,4 +34,21 @@ CUSTOM_ERROR_WITH_REFRESH
 ## In-App Storage
 Options looked into for storing offline data in the app
 
+#### MMKV  
+- Developed by Tencent
+- Requires new React Native architecture
+- Fast, popular
+
+#### Realm-js 
+- sync functionality is deprecated - no updates in a year
+- mongo based
+
+#### Watermelon DB
+- uses sqllite
+- prioritizes large amounts of data and loading speed
+- need to create a schema layer for what we store - this is extra overhead and will force our data to conform to a specific structure or it will fail to store
+  
+#### op-sqlite
+- provides option for simple key value storage: https://op-engineering.github.io/op-sqlite/docs/key_value_storage/
+- basic wrapper for React Native for SQLite
 
