@@ -7,7 +7,6 @@
 **Contacts:** Renata Keck, Jamie Fiore & Rachel Pope
 
 **[Link to Research Readout](link-here)**  
-*Add a link to your research readout deck, if available.*
 
 **Jump to:**
 
@@ -533,9 +532,8 @@ This research supports measurement of this KPI by:
 
 ## Further research needed
 
-*Identify gaps in the current study and areas requiring additional investigation––such as demographics that were not included in this study.* 
-
-- We recommended conducting additional research with the CHAMPVA partners to gain a better understanding of their school certification process, and how to better align business requirements with users' expectations. 
+* We recommended conducting additional research with the CHAMPVA partners to gain a better understanding of their school certification process, and how to better align business requirements with users' expectations.
+* Future research should include groups we did not speak to or who were underrepresented in this study, including Veterans with cognitive abilities, and mobile users.
 
 ## Appendix
 [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/10-10D-OHI-Merge-Product-Outline.md)
@@ -553,19 +551,20 @@ This research supports measurement of this KPI by:
   
 ## Pages and applications used
 
-- [Staging environment](https://staging.va.gov/ivc-champva/10-10d-extended/)
-
+* [Staging environment](https://staging.va.gov/ivc-champva/10-10d-extended/)
 
 ## Other supporting documents created
 
-* 10-10d/OHI merge Other Health Insurance flows
-* Supporting documents inventory
-
+* [10-10d/OHI Work in Progress Figma](https://www.figma.com/design/UmAtr3ULQEInMXfNFwP0g0/Application-for-CHAMPVA---10-10d--and-OHI-Certification--10-7559c--WIP?t=t4Sf5N4rzuLqU6Wl-0)
+* [10-10d/OHI Source of Truth](https://www.figma.com/design/hHsrfXGDiR7lQ7kEsxFyNe/Application-and-OHI-for-CHAMPVA-SOT?t=t4Sf5N4rzuLqU6Wl-0)
+* [10-10d/OHI merge Other Health Insurance flows](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1734537770114/c43159bce476eaee8e52f597201223934411963b)
+* [Supporting documents inventory
+](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/supporting_docs_inventory.md)
 
 ## Secondary research
 
-* CHAMPVA service blueprint
-* CHAMPVA stakeholder calls
+* [CHAMPVA service blueprint](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1723309711950/72864bacb39ee1c8cd48f80735b6f6994a72b6ca)
+* [CHAMPVA stakeholder calls](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/research/stakeholders/CHAMPVA-stakeholder-sync.md)
 
 ## Who we talked to 
 
