@@ -27,7 +27,7 @@ Directory system will parse this section to display team member contact informat
 
 - **Name:** Amy Lai
 - **GitHub:** [@amylai-va](https://github.com/amylai-va)
-- **Email:** [contact-email@va.gov]
+- **Email:** [Amy.Lai2@va.gov]
 - **Role:** OCTO PO
 
 #### Team Lead
@@ -40,13 +40,13 @@ Directory system will parse this section to display team member contact informat
 #### OCTO Leads
 
 - **Name:** Julie Strothman
-- **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
+- **GitHub:** [@jstrothman](https://github.com/jstrothman)
+- **Email:** [julie.strothman@va.gov]
 - **Role:** OCTO Design/Research Lead
 
 - **Name:** Cory Schrakoff
-- **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
+- **GitHub:** [@CorySohrakoffUSDS](https://github.com/CorySohrakoffUSDS)
+- **Email:** [Cory.Sohrakoff@va.gov]
 - **Role:** OCTO Engineering Lead
 
 ## About This Team

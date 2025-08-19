@@ -28,7 +28,7 @@ Directory system will parse this section to display team member contact informat
 
 - **Name:** Sanja Bajovic
 - **GitHub:** [@sanjabaj2](https://github.com/sanjabaj2)
-- **Email:** [contact-email@va.gov]
+- **Email:** [Sanja.Bajovic2@va.gov]
 - **Role:** OCTO PO
 
 #### Team Lead

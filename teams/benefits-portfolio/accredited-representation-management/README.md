@@ -28,7 +28,7 @@ Directory system will parse this section to display team member contact informat
 
 - **Name:** Jen Bertsch
 - **GitHub:** [@jenniferbertsch](https://github.com/jenniferbertsch)
-- **Email:** [contact-email@va.gov]
+- **Email:** [Jennifer.Bertsch@va.gov]
 - **Role:** OCTO PO
 
 #### Team Lead
@@ -41,13 +41,13 @@ Directory system will parse this section to display team member contact informat
 #### OCTO Leads
 
 - **Name:** Shannon Ford
-- **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
+- **GitHub:** [@shannonkford](https://github.com/shannonkford)
+- **Email:** [Shannon.Ford1@va.gov]
 - **Role:** OCTO Design/Research Lead
 
 - **Name:** Sam Raudabaugh
-- **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
+- **GitHub:** [@raudabaugh](https://github.com/raudabaugh)
+- **Email:** [samuel.raudabaugh@va.gov]
 - **Role:** OCTO Engineering Lead
 
 ## About This Team
