@@ -126,6 +126,17 @@ In self-reported ease of use ratings, aspects of the form that participants said
     
     > _The amount of information that I had to enter[,] that was extremely helpful._ (P19)
 
+3 of 7 participants who had previously applied for CHAMPVA benefits for themselves or another family member said the merged form was easier by comparison to the PDF and mail/fax options they had previously used.
+
+- The remaining 4 of 7 participants who had previously applied for CHAMPVA either could not remember the application process because it happened long ago, or did not help their family member apply for CHAMPVA. 
+
+
+    > _I’m looking forward to this [form being online]. I know everyone, really, it’s frustrating to submit all those documents by mail. So this will be really great._ (P8)
+    
+    > _This is a hundred percent better than before…You know, we had to fax [the application]. We had to fill it out…I think I took it to a Kinko’s, or [my wife] did. I don’t remember…it was just a hassle, and you know, snail mail! So doing [the application] online is so much better._ (P12)
+    
+    > _This has to be better [than the paper form] because it’s online….I think that this is better._ (P13)
+
 Requested changes to the flow and content of the 10-10D/10-7959c were minimal. 6 of 18 users specifically requested tweaks to the overall content of the form to make submitting the CHAMPVA application easier. Areas for improvement included:
 - Improved terminology about Sponsors and Applicants (4 of 18) _See finding 3_
 - "Spelling out" the forms instead of relying on VA form numbers on the Intro page and slim header (3 of 18)
