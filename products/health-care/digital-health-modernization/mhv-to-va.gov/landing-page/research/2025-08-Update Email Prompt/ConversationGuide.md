@@ -210,7 +210,7 @@ _[moderator note: show me/prompt to click confirm]_
 ## **Comms recall questions**
 1. Do you recall getting any communication about upcoming changes to how the VA would be communicating with you?
 
-link to July 7 email 
+link to July 7 email: https://www.figma.com/slides/y8NWORwnQFQIJueKiLTYzz/Untitled?node-id=1-42&t=i48atjEXssbsA7p9-1
 
 2. Do you recall this email?
 3. Anything else to share?
