@@ -34,7 +34,32 @@
 ## Health (Pods)
 
 * Clinical Decision Support (CDS)
+  * Engineering: Shane Elliott
+  * Product: Peter Koutsovitis
+  * Design/Research: Amanda Klausmeier
 * MHV on VA.gov Patient Portal
+  * Product: Patrick Bateman
+  * Product: Kay Lawyer
+  * Product: Marci MacGuire
+  * Design/Research: Kristen McConnell
+  * Design/Research: Robyn Singleton
+  * Design/Research: Becky Phung
+  * Engineering: Adrian Rollett
+  * Engineering: Mark Dewey
+  * Engineering: Steve Mason
 * Unified Appointment Experience
+  * Product: Kay Lawyer
+  * Design/Research: Kristen McConnell
+  * Design/Research: Robyn Singleton
+  * Design/Research: Nina Anusavice
+  * Engineering: Adrian Rollett
+  * Engineering: Mark Dewey
+  * Engineering: Shane Elliott
 * VA Health Applications
+  * Product: Premal Shah
+  * Design/Research: Amanda Klausmeier
+  * Engineering: Steve Mason
 * VEText Notifications & Misc
+  * Engineering: Shane Elliott
+  * Engineering: Rob Durkin
+  * Engineering: Andy McCarty
