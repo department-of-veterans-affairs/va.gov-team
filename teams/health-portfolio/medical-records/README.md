@@ -17,7 +17,7 @@
 
 - **VA Business Owner:** OCTO
 - **Portfolio:** Health
-- **Crew or Pod:** [crew-or-pod-name] _refer to crews-and-pods.md_
+- **Crew or Pod:** MHV on VA.gov Patient Portal
 - **Contracting Organization:** [Name of contracting company, if applicable]
 
 ### Team Roster
