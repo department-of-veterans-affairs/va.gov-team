@@ -125,6 +125,15 @@ The Audit Tracker will allow us to track which parts of the form, devices, and e
 
 ---
 # Post Audit Information For PMs and POs
+
+## Prioritized Backlog Super Epics
+as of August 19, 2025
+
+- Reduce the burden of navigating through the disability form 526 [#116289](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116289): This super epic covers the UX issue of users having to click `Back` and `Continue` multiple times to navigate to previous pages. It also covers the newly released `sidenav` component.
+- Improve 526 start/ restart experience [#108100](https://github.com/orgs/department-of-veterans-affairs/projects/1660/views/34?pane=issue&itemId=107514433&issue=department-of-veterans-affairs%7Cva.gov-team%7C108100): Covers UX issues that include - form asking the user to go through the intro sequence again when restarting the form, lack of expectation setting on intro page, no preview of form making it hard for the user to prepare to fill it out.
+
+
+
 - Create ticket for defining triage process for ticks in backlog where we don't know who will own them or priority.
 - _[TODO: Identify if there are existing tickets and create new ones other wise. This might be a two part process. Or a 2 person process. Someone has to facilitate the process]_
 - _[TODO: Bug triage / Refinement as part of the process (consolidate duplicates]_
