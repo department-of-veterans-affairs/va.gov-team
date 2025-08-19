@@ -61,7 +61,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 | **User goal**      | *"I want to understand my disability rating."* |
 | **What should we measure?** | Easy to understand disability rating <br> *“I understood my disability rating."* |
 | **Important metrics to tracks**| - User engagement over time (actions on screen)<br>- Viewer counts<br>- Average daily viewers<br>- Views per user<br>- Viewers month-to-month<br>- Distribution/converion of users who access this task via different pathways (homepage vs tool bar)<br>- # of feature viewers/# of users<br>- Latency<br>- % of errors within X period of time<br>- Users report easy access and clear disability rating |
-| **How these metrics can inform decision making** | To understand and improve experience for Veterans accessing disability ratings  |
+| **How these metrics can inform decision making** | Health metrics like latency & errors provide insight into whether users can reliably and quickly see their rating. Views, navigation paths, and satisfaction metrics tell us whether this feature is discoverable, useful, and trusted.  |
 | **Unhelpful metrics** | - Time on screen |
 
 </details>
