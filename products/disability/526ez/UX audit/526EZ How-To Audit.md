@@ -40,13 +40,13 @@ If you are a team member who has recently joined the team and is in the onboardi
 - You may find issues in those areas that will soon be updated.
 - Still audit the full form — your findings help build familiarity and may reinforce why sections or flows need change.
 
-## For Experienced Team Members
+## 4. For Experienced Team Members
 If you are a team member who has already interacted with the form in staging or is generally familiar with the different Steps within the form (e.g., "Step 2. Conditions," "Step 3. Mental Health" etc.) please conduct a thorough bug or UX audit of a specific step / pathways of the form. The Audit Tracker listed in the next section will support you in selecting a step and pathway(s). 
 
 Steps with changes currently in design or development are listed below. Please hold off on doing bug and UX audits of these sections:
 - Step 2: Conditions (Epic [#785](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/785))
 
-## 📚 4. Helpful Resources
+## 📚 5. Helpful Resources
 ### For New Team Members - Get familiar with the 526EZ Form
 The following resources can support team members in building context on the scope of the 526EZ form and see relationships between sections and screens.
 - [526 Active Form Mural Board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1686768383603/3f4415dd2ddb71bbd104ebefd92a2c7b553ad792): This is the most up-to-date documentation of the form in production. It provides screenshots of all of the main form steps, conditional pathways, and ancillary forms. You can use this to understand the form as a whole.
@@ -62,16 +62,16 @@ The following resource can support experienced team members and PMs in understan
 ### Tester Considerations
 - Staging may have a lag / different performance than the production environment.
 
- ## 🗺️ 5. How to Conduct an Audit of the 526EZ
-## Overview of Steps
-1. Access staging 
-2. Determine if you will be conducting a bug or UX issue audit
-3. Reference the Bug Audit Checklist and the UX Issue Checklist
-4. Familiarize yourself with the Audit Tracker
-5. Determine which form Step(s) and conditional pathways you will be auditing
+## 🗺️ 6. How to Conduct an Audit of the 526EZ
+### Overview of Steps
+1. Determine if you will be conducting a bug or UX issue audit
+2. Reference the Bug Audit Checklist and the UX Issue Checklist
+3. Familiarize yourself with the Form Steps
+4. Familiarize yourself with the Audit Tracker and select your steps/pathways
+5. Access staging
 6. Conduct your audit and document findings on the Audit Tracker
 
-## 🔐 Step 1. Access staging
+### 🔐 Step 1. Access staging
 In order to test, testers need to access the form in Staging.
 1. Access the [Staging Environment](https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction)
 2. Click "Sign in to start your application"
@@ -80,7 +80,7 @@ In order to test, testers need to access the form in Staging.
 5.  On the "Receive a code by phone" screen, just click "Continue"
 6. On the "Enter the 6-digit code" click "Continue" again. (The code should have automatically populated).
 
-## 🧭 Step 2. Will you conduct a bug or UX issue audit?
+### 🧭 Step 2. Will you conduct a bug or UX issue audit?
 Use the table below to understand the difference between bugs and UX issues. Choose one type of audit (bug or UX issue) before you begin — it helps with tracking and keeps you focused.
 - Bug audit: Check if the system works as intended.
 - UX issue audit: Check how easily a user can understand, navigate, and complete tasks.
@@ -96,43 +96,36 @@ If you are conducting a bug audit, we recommend limiting your audit to one secti
 
 👉 **Note:** We’re looking for *any type of issue* that impacts the user experience, and regardless of whether your intention was a bug or UX audit, you may find both. If something feels broken, clunky, slow, inconsistent, or unclear, log it — whether it’s a bug or a UX issue.
 
-## 🔍 3. Reference the Bug Audit or the UX Issue Checklist
+### 🔍 Step 3. Reference the Bug Audit or the UX Issue Checklist
 Prior to conducting your audit, reference the following checklists. These will help you be thorough in your considerations.
 - 🐞 [Bug Audit Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/UX%20audit/Bug%20Audit%20Checklist.md)
 - 🤝 [UX Issue Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/UX%20audit/UX%20Issue%20Checklist.md)
 
-## 4. Familiarize yourself with the Audit Tracker and Form Steps
-The Audit Tracker will allow us to track which parts of the form, devices, and environments have been tested. 
-- [Audit Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1Y_JOzPltc_3Rb4OhdGTTCHPArLJpk12RpgkoJ2vxcMc/edit?gid=901203816#gid=901203816)
-- Use [Tab A. Form Steps Overview](https://docs.google.com/spreadsheets/d/1Y_JOzPltc_3Rb4OhdGTTCHPArLJpk12RpgkoJ2vxcMc/edit?pli=1&gid=0#gid=0) to determine which steps and pathways of the form still need auditing and to "Sign up" for your sections. 
+### Step 4. Familiarize yourself with the Form Steps
+The following is a high-level overview of the 526 form steps and the conditional pathways included in each step. Each step has a "Main Path" which the user will go down if they select "No" to most conditional questions. 
 
-### Form Steps Overview
+#### Form Steps Overview
 The following table provides a high-level overview of all steps, sections, and pathways.
 | **Form Section / Step**      | **Pathways** | **Notes** |
 |------------------------|-------------------------------|------------------|
-| **Landing Page and Wizard** |☐ Main Path <br> ☐ Benefits Delivery at Discharge Claim (BDD) Process <br>                          ☐ Claim for Increase (CFI)                 | BDD pathway has a different supporting evidence flow. CFI has three conditional responses that will take you down three different pathways.         |
+| **Landing Page and Wizard** |☐ Main Path <br> ☐ Benefits Delivery at Discharge Claim (BDD) Process <br>                          ☐ Claim for Increase (CFI)                                                                                | BDD pathway has a different supporting evidence flow. CFI has three conditional responses that will take you down three different pathways.         |
 | **Intro, Intent to File** |☐ Main Path                 |         |
 | **Step 1: Veteran Details** |☐ Main Path <br> ☐ Homeless Process <br>☐ Military Service History Process | 
 | **Step 2: Conditions**      |☐ Main Path <br> ☐ Toxic Exposure <br> ☐ Prisoner of War <br> ☐ Additional Disability Benefits <br> ☐ Individual Unemployability | Individual Unemployability pathway is only present in staging and not active in production. Do not audit.  |             
 | **Step 3: Mental Health**             | ☐ Main Path <br> ☐ Mental Health (Answer questions online) <br> ☐ Mental Health (Answer questions on PDF)              |                 |          |
-| **Step 4: Supporting Evidence**             | ☐ Main Path <br> ☐ Supporting Evidence Upload (VA Medical Records)<br> ☐ Supporting Evidence - 4142 Release of Private Medical Records <br> ☐ Supporting Evidence - Upload my private medical records  <br> ☐ BDD Process continues here  <br> ☐ BDD Process - 4142 Release of Private Medical Records  <br>        |                 |          | 
+| **Step 4: Supporting Evidence**             | ☐ Main Path <br> ☐ Supporting Evidence Upload (VA Medical Records)<br> ☐ Supporting Evidence - 4142 Release of Private Medical Records <br> ☐ Supporting Evidence - Upload my private medical records  <br> ☐ BDD Process continues here  <br> ☐ BDD Process - 4142 Release of Private Medical Records                                                 <br>        |                 |          | 
 | **Step 5: Additional Information**             | ☐ Main Path <br>  ☐ VA Employee - Yes to Fully Developed Claim Program <br>  ☐ VA Employee - No to Fully Developed Claim Program <br>           |                 |          | 
-| **Step 6: Review and Submit**  | ☐ Main Path <br>  ☐ Review Veteran Details <br>   ☐ Conditions <br> ☐ Mental Health <br> ☐ Supporting Evidence <br> ☐ Additional Information <br>    |                 |          | 
-  
+| **Step 6: Review and Submit**  | ☐ Main Path <br>  ☐ Review Veteran Details <br>   ☐ Review Conditions <br> ☐ Review Mental Health <br> ☐ Review Supporting Evidence <br> ☐ Review Additional Information <br>                                                                                                                                     |                 |          | 
 
 
-
-
-
-
-
-## 🗂️ 8. Fill out the Audit Tracker
+### 🗂️ Step 5. Conduct your audit and document your findings in the Audit Tracker
 The Audit Tracker will allow us to track which parts of the form, devices, and environments have been tested. 
-- [Audit Tracker]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/UX%20audit/Audit%20Tracker.md](https://docs.google.com/spreadsheets/d/1Y_JOzPltc_3Rb4OhdGTTCHPArLJpk12RpgkoJ2vxcMc/edit?gid=901203816#gid=901203816))
-- _526 Active Form Audit Map_ [TODO: Link when complete.]
+- [Audit Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1Y_JOzPltc_3Rb4OhdGTTCHPArLJpk12RpgkoJ2vxcMc/edit?gid=901203816#gid=901203816)
+- Use [Tab A. Form Steps Overview](https://docs.google.com/spreadsheets/d/1Y_JOzPltc_3Rb4OhdGTTCHPArLJpk12RpgkoJ2vxcMc/edit?pli=1&gid=0#gid=0) to determine which steps and pathways of the form still need auditing and to "Sign up" for your sections. (This list is the same as the list in "Form Steps Overview" shown above.) 
+- Write descriptions of your findings and provide screenshots on the tab that corresponds to the step you chose to audit. 
 
 ---
-# Post Audit Information For PMs and POs
+# 7. Post Audit Information For PMs and POs
 
 ## Post Audit: Steps for PMs and POs 
 1. ~Create or update bug / UX issue tickets~ Fill out spreadsheet with bug / UX issue findings.
