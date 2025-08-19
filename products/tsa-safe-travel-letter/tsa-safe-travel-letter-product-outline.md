@@ -4,25 +4,25 @@
 
 ### **Overview**
 
-The Iterate, Innovate, and Run (IIR) team is leading an project to allow va.gov users to download and print a net new letter on the /download-va-letters/letters/letter-list page. This letter will allow Veterans who meet certain eligibility critera to enroll in TSA PreCheck for free.
+The Iterate, Innovate, and Run (IIR) team is leading a project that will allow certain Veterans to download and print a net new letter on the /download-va-letters/letters/letter-list page. This letter will allow Veterans who meet certain eligibility critera to enroll in TSA PreCheck for free.
 
 
 ### **Problem Statement(s)**
 
-1. A new law is taking effect that will allow certain Veterans to enroll in TSA PreCheck for free but TSA needs proof of eligibility before enrolling the Veteran.
+1. A new law is taking effect that will allow certain Veterans to enroll in TSA PreCheck for free but TSA needs proof of the Veteran's eligibility before enrolling them.
 
 
-How might we statement: How might we enable Veterans who meet eligibility requirements prove their eligibility to TSA?
+How might we statement: How might we enable Veterans who meet eligibility requirements to prove their eligibility to TSA?
 
 
 ### **Desired User Outcomes**
 
-1. Veterans can self sufficiently download and print a letter to take to TSA
+1. Veterans can self sufficiently download and print a letter to take to TSA via va.gov.
 
 
 ### **Undesired User Outcomes**
 
-1. Veterans have no way to prove eligibility to TSA
+1. The only way Veterans can get this letter is by calling the help desk and having them check their eligibility and send it.
 
 
 ### **Desired Business Outcomes**
@@ -42,7 +42,7 @@ How might we statement: How might we enable Veterans who meet eligibility requir
 |                                                                       |             |            |                 |
 | --------------------------------------------------------------------- | ----------- | ---------- | --------------- |
 | **Description**                                                       | **Current** | **Target** | **Post Launch** |
-| Eligible Veterans are able to download and print their letter on va.gov | 0%          |            |                 |
+| Eligible Veterans are able to download and print their letter on va.gov |          |            |                 |
 
 
 #### **MVP Diagnostic Metrics**
@@ -50,10 +50,10 @@ How might we statement: How might we enable Veterans who meet eligibility requir
 |                                                |                |                         |                         |                         |
 | ---------------------------------------------- | -------------- | ----------------------- | ----------------------- | ----------------------- |
 | **Metric**                                     | **Pre Launch** | **30 Days Post Launch** | **60 Days Post Launch** | **90 Days Post Launch** |
-| # of users who are able to download the letter | N/A            |                         |                         |                         |
+| # of users who are able to download the letter (aka eligible) | N/A            |                         |                         |                         |
 | # of clicks on the download link     | N/A            |                         |                         |                         |
-| error rate on the download action  | N/A            |                         |                         |                         |
-| latency on the download action  | N/A            |                         |                         |                         |
+| Error rate on the download action  | N/A            |                         |                         |                         |
+| Latency on the download action  | N/A            |                         |                         |                         |
 
 
 ### **Launch Strategy**
