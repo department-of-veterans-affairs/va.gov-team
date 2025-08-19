@@ -50,7 +50,7 @@ If you are a team member who has recently joined the team and is in the onboardi
 - Some sections are already being redesigned or developed.
 - These changes are not yet reflected in staging.
 - You may find issues in those areas that will soon be updated.
-- Still audit the full form — your findings help build familiarity and may reinforce why sections or flows need change.
+- Still audit the full form! Your findings help build familiarity and may reinforce why sections or flows need change.
 
 ## 4. For Experienced Team Members
 If you are a team member who has already interacted with the form in staging or is generally familiar with the different Steps within the form (e.g., "Step 2. Conditions," "Step 3. Mental Health" etc.) please conduct a thorough bug or UX audit of a specific step / pathways of the form. The Audit Tracker listed in the next section will support you in selecting a step and pathway(s). 
