@@ -30,3 +30,8 @@ CUSTOM_ERROR_WITH_REFRESH
 - Prescription refill flow
 - Submitting claims
 - Profile updates
+
+## In-App Storage
+Options looked into for storing offline data in the app
+
+
