@@ -41,14 +41,17 @@ We currently have multiple search solutions in place across various experiences 
     - [Top queries and CTR](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/analytics/2025.md#top-queries)
 
 3. Improve accuracy of results
-    - List of current inaccurate or misleading search scenarios
+    - [List of current inaccurate or misleading search scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/analytics/problematic-search-queries.md)
 
 **Search performance**
 1. Improve response time
     - [Current response times]
 2. Indexing - # of pages indexed, time to index new or updated content
-    - [Current indexing stats]
-
+    - Search.gov indexing
+      - Search.gov pings the sitemaps mutiple times a day to pick up any entries that are new or updated since the last time checked and updates those items in the index
+      - Every 30 days it checks all URLs in the index to find updates not noted in the sitemaps - i.e. 404s, redircts, etc
+        - Search.gov cannot reindex VA.gov more frequently because of the sitemap_bva.xml file containing 1.6 million of the total 1.8 million VA URLs
+        - Indexing rules and timing are managed at the domain level - Search.gov cannot manage indexing or priority mgmt at a more granular level, such as for bva.va.gov
 
 ## Discovery
 ### Assumptions/Risks
