@@ -42,23 +42,23 @@ Directory system will parse this section to display team member contact informat
 
 The Veteran Support Crew leads the digital support experience on and for VA.gov and the VA Health and Benefits app. We bridge the gap between Veterans & VA staff by providing tools, information, and coordination to product teams, the helpdesks, and the end users.
 
-### North Star 
+### North Star
 
-Ensure Veteran problems are quickly addressed through a seamless experience that connects users to support tools and channels and collects data to drive improvements. 
+Ensure Veteran problems are quickly addressed through a seamless experience that connects users to support tools and channels and collects data to drive improvements.
 
-We imagine a support experience that: 
+We imagine a support experience that:
 - makes the VA support bureaucracy invisible to the Veteran by surfacing the relevant content, tools and support channels so Veterans can decide how they want to get help.
 - quickly identifies recurring problems or pain points through feedback and data, and empowers teams to quickly solve them.
 - proactively informs and collaborates with VA support stakeholders to ensure the best possible process for resolving VA.gov user issues.
 
 ## Products We Own
 
-> Directory system will cross-reference these with product details.yml files containing `team: "veteran-support"`
+_Directory system will cross-reference these with product details.yml files containing `team: "veteran-support"`. Copy the template at https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/product-details-template.yml into your product directories then rename and update appropriately._
 
-- **[Product 1 Directory Entry]:** Link to product in /products directory when available and provide a brief description.
-- **[Product 2 Directory Entry]:** Link to product in /products directory when available and provide a brief description.
+- **[Product 1 Entry](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/[product-name]/[product-name]-details.yml):** Link to product in /products directory and provide a brief description.
+- **[Product 2 Entry](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/[product-name]/[product-name]-details.yml):** Link to product in /products directory and provide a brief description.
 
-Add additional products as needed
+Add additional products as needed.
 
 ### Product highlights
 
