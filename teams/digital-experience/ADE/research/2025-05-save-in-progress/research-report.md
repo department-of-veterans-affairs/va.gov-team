@@ -5,7 +5,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Accessibility Digital Experience (ADE)**
 
-**Date:** 08/18/2025
+**Date:** 08/19/2025
 
 **Contacts:** Cindy Merrill
 
@@ -180,6 +180,7 @@ For demographic details, see [Who we talked to](#who-we-talked-to).
 - The alert on the first page of the form was not discovered by some screen reader and screen magnifier users. Two screen reader users (1 on desktop, 1 on mobile) never heard the save alert on the first page of the form because it's above the H1, which is where their focus starts when the page is loaded. Plus, participants were focused on completing the form and generally didn't scroll up to explore. One screen magnifier user didn't notice the alert because their magnified area was focused on the fields to fill out and wasn't large enough to also see higher up on the screen.
 
   > *"It took me directly to the question, so I just answered the question" (p5).*  
+  
   > *[Everything in the header] "is garbage that will be on every page that I am not going to listen to. I will go to the top of the page and hit 'H'. If the page is laid out right, it will have an H1 and tell me where to start" (p1).*
 
 
