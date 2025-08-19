@@ -20,12 +20,24 @@
 - _[TODO: Figure out what is the source of truth for staging users, and identify users that could fall in different scenarios (rated issues) Reserve staging users for the DBC, provide emails of the staging users, but team 5 has to reach out to someone on the team for the password. Example user descriptions: https://dsva.slack.com/archives/C098Q0GRKSL/p1755183584714369?thread_ts=1755181784.007889&cid=C098Q0GRKSL]_ 
 
 ## 🧭 2. Context
-The 526EZ is a long form with multiple pathways (e.g., ancillary forms) and nested, conditional responses. Our team needs to manually test the form for bugs and UX issues. We then need to document an auditor's environment (e.g., mobile, desktop, Safari, Chrome), an auditor's bug or UX findings, and track which 526EZ steps and pathways 526EZ have been audited. Auditing the 526 will help prioritize fixes and inform a clearer product and UX strategy for future enhancements. This How-To documentation will help ensure consistency in how we evaluate the UX of the form and support longitudinal understanding of what bugs and UX issues exist and where.
+The 526EZ form is long with multiple pathways and conditional responses. In order to continually improve our product, our team needs to manually test for bugs and UX issues.
+
+We document each audit by capturing:
+- Environment (device, OS, browser)
+- Bug or UX findings
+- Form step(s) and pathways tested
+
+Auditing helps:
+- Prioritize fixes
+- Inform product and UX strategy
+- Build a record of known issues over time
+
+This How-To document ensures we evaluate the form consistently and track issues clearly.
 
 ## 3. For New / Onboarding Team Members
 If you are a team member who has recently joined the team and is in the onboarding process, auditing the 526EZ form is a great way to build context around the product we work on. 
 
-### Your objectives in audting the 526EZ are:
+### Your objectives in auditing the 526EZ are:
 - Getting a gist of the form by conducting a UX audit on the whole form.
 - Staying on the "Main Path" (aka the path where generally, you will select "No" when the form asks questions so that you do not go down deep conditional pathways.)
 - Documenting any UX flaws or bugs you might happen to find.
