@@ -19,13 +19,6 @@ Overview
 
 In support of the dependent management team's [initiative to improve on-ramps to dependents management tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/Initiative%20Brief%3A%20Improve%20On-Ramps%20to%20Dependents%20Management.md), the purpose of this exploration is to identifies gaps and opportunities within unauthenticated resource pages on VA.gov for information related to adding and managing dependents on VA benefits. 
 
-Dependent management topics covered: 
-
--   Adding dependents to VA benefits (during initial claims, after benefit decisions, or due to life changes)
--   Removing dependents from existing benefits
--   Updating dependent information for active dependents 
--   Dependent verification 
-
 The exploration will identify opportunities to improve user experience by ensuring Veterans and their families can successfully locate, understand, and act on dependent management information without requiring authenticated access or direct VA contact.
 
 Relevant VA.gov resource pages:
@@ -43,7 +36,12 @@ Relevant VA forms:
 Scope
 -----
 
-This exploration covers dependent management content across disability, pension, and DIC. 
+This exploration covers dependent management content across disability, pension, and DIC. Dependent management topics covered: 
+-   Adding dependents to VA benefits (during initial claims, after benefit decisions, or due to life changes)
+-   Removing dependents from existing benefits
+-   Updating dependent information for active dependents 
+-   Dependent verification
+-   Overpayments: Legal requirements, implications of not reporting changes, reporting requirements
 
 Out of scope for this exploration: 
 - content that can only be accessed after signing in
