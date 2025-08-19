@@ -9,15 +9,15 @@ body:
 - type: markdown
   attributes:
     value: |
-      Use clear, simple language. If you know how to fix the bug, use action verbs to describe the work.
+      Use clear, simple language and action verbs to describe the work. Avoid acronyms and jargon.
 - type: textarea
   attributes:
     label: Background
     description: Describe the background context, scope of this research, why it matters, dependencies, and open questions.
 - type: textarea
   attributes: 
-    label: Goal
-    description: What questions should this spike research answer?
+    label: Research goals
+    description: What questions should this research answer?
 - type: textarea
   attributes:
     label: Tasks
@@ -30,7 +30,7 @@ body:
   attributes:
     value: |
       ## Evidence
-      Document links and notes from this research that inform the conclusions below
+      Document links and notes from this research that inform the conclusions below.
   
       ## Conclusions
       What did you learn? Answer the questions outlined in the Goal section above. 
