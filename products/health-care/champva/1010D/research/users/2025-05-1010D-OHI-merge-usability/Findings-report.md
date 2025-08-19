@@ -172,12 +172,13 @@ Crucially, the confusion about required information and supporting documents on 
     
     > _Typically I wouldn’t have thought [to have a school enrollment letter]. That’s where the eligibility and what documents to have in place [on the Introduction page]...where I would have read that. And hopefully, that’s in there. [...] I’ve been doing this for all 3 kids, almost one in a row, because they’re about 4-5 years apart. So that’s about the only reason I would have known to have [the school letter] on file. Like I have [my daughter’s] file now on my desktop, because those are things I routinely have to use, instead of having to bug or call her, especially since she’s going to school out of state._ (P1)
     
-    > _I know exactly what they’re asking for. They’re asking for her enrollment or acceptance letter. That shows that, see, this is actually a very difficult thing! Because my daughter’s college was able to provide that, gave her graduation date. But my son’s college in [another state] only gives it for the semesters he’s enrolled in at the time. So [...] I had to go to the Publisher’s Clearinghouse and beg, plead, wheedle, and get them to change it to his actual graduation date._ (P12)
+    > _I know exactly what they’re asking for. They’re asking for her enrollment or acceptance letter. That shows that, see, this is actually a very difficult thing! Because my daughter’s college was able to provide that, gave her graduation date._ (P12)
 
 - **Health Insurance Documents**: 12 of 18 participants did not recall if health insurance information was mentioned on the Introduction page, when they reached the Other Health Insurance subsection of the application.
     - 11 of 18 participants said they would have to pause the form at the Other Health Insurance section, because they did not know to gather Medicare and Health Insurance cards prior to starting the form.
         - 1 participant mentioned feeling "catfished" or like a "bait and switch" occurred at this point in the form, and went back to the Introduction page to verify that health insurance information hadn't been asked.
     - Notable edge case: 1 participant was confused about whether they needed the Veteran's health insurance information, or just applicants'.
+
 
 
     > _The concern, the confusion, the whatever I have is, apply for CHAMPVA benefits, and you were looking at 10-10d, right? So here it all is, nowhere in this form does it talk about Medicare. Right? Here's all this stuff. And then all of a sudden, to continue now step 4 of 6. We're bringing in Medicare information. Wait a minute, you didn't inform me of that. I didn't know._ (P20)
@@ -224,13 +225,77 @@ Crucially, the confusion about required information and supporting documents on 
 
 While users generally rated the Other Health Insurance (10-7959c) sub-form "easy" or "very easy," there were observed and self-reported inconsistencies with the sub-form. 
 
-- 9 of 18 participants struggled with the **[Medicare]** flow due to peculiarities with Medicare plans and content in the sub-form.
-    - 9 participants could not recall seeing content about needing to provide Medicare plan information on the introduction of the form, and felt unprepared to provide this information (_See Finding 3_).
-    - 
+- 9 of 18 participants struggled with the **[Medicare]** flow due to Medicare plan terminology in the form, users’ mental models about insurances, and type of information they were being asked to provide. 
+    - 9 participants could not recall seeing content about needing to provide Medicare plan information on the introduction of the form, and felt unprepared to provide this information (_See Finding 2_).
+    - 9 participants were confused about which plan to pick (Part A, Part B, Part C) because they were unfamiliar with Medicare terminology.
+    - 3 participants were confused by the enrollment date question. This is because this information wasn’t something that they would know off the top of their head, and for users with Parts A and B, the enrollment date would be the same. Entering dates twice felt duplicative. 
+
+
+    > _I [would] call CHAMPVA because I want to make certain that applying for [CHAMPVA] isn’t going to interfere with my Medicare [Part B] Supplemental Insurance. I never know when the [CHAMPVA] funds could run out, and then I could be stuck. That’s why I’ve kept the Part B of Medicare, the supplemental insurance, just to be on the safe side._ (P17)
+    
+    > _The first question itself is not clear: “Do you have any Medicare plans to report?” So what they’re really asking: “Is there an applicant that is on Medicare?” … I mean, “Do you have any Medicare” that’s saying, “do you have any dog food to report?” The grammar is confusing._ (P7)
+    
+    > _“Review your [Medicare] plans.” You’re saying there’s different types of Medicare plans? I don’t think that’s really applicable [to me] if you have a notice of disallowance, denial, or other proof of eligibility for Medicare Part A._ (P13)
+    
+    > _The way I'm reading it, this is which applicant dependent would I like to add Medicare to. When I already told them he got Medicare. I don't understand that question, that much._ (P21)
+
+- 3 of 11 participants were unsure how to add their **[Medicare Part D]** information. There are several reasons for this confusion.
+    - The Medicare flow we tested only mentioned Part D after asking users to identify which primary and supplemental Medicare plan(s) they have. Users noticed that Part D was missing from the first question.
+    - Medicare Part D is run by private health insurance providers, so a provider name is required. Some participants interpreted the Other Health Insurance flow as where you would disclose Medicare Part D, given the similarities between the Part D questions and Other Health Insurances loop.
+    - Part D does not show up on the Review Page under Medicare Plans, or on the review card within the Medicare loop. Users were unable to verify if their Part D plan was properly added.
+
+
+    > _[Moderator: For this section I would like you to add a private health insurance plan for both applicants, so for both [dependent] and [spouse].] Well, didn’t I already do that with [Spouse] with his plan? Yeah, with the [Medicare Part] D, that’s a private health insurance._ (P6)
+    
+    > _Oh, **now** it’s asking about Part D._ (P7)
+    
+    > _I thought I just said A and B for [dependent]. I don't remember it asking about D in the beginning._ (P8)
+    
+    > _I didn't sign up for Part D. I only signed up for A and B for me but it's like you know. Why not? If you're giving me a card that shows me more medicare benefits. Give them all to me, you know. A,B,D. I would assume it would have been on there. So if I looked at her card, and it wasn't there. I would probably say no, and say, I'll deal with it this problem later._ (P9)
+    
+    > _If they should have captured that I had the [Part D] drug coverage and [I] wouldn't have to go back [from the Review page to check]._ (P17)
+
+- 9 participants were unsure how to **[add applicants]** to a Medicare or other health insurance (2 of 9) plan. Participants encountered these issues about applicants regardless of their enrollment status and awareness of Medicare and/or Other Health Insurances. We believe inconsistencies in the wording and flow of the Medicare and Other Health Insurance flows contributed to this confusion:
+    - When adding an applicant to **Medicare (7 of 9 participants)**, the flow asks users to first identify the applicant, then the specific Medicare plan and enrollment information. Users can only select one applicant at a time. This is because Medicare cards and enrollment ID numbers are specific to each individual, not to a family.
+    - When adding applicants to **Other Health Insurance plans (2 of 9 participants)**, the flow asks users to provide plan information first, and then users are able to select all applicants enrolled on that plan. This is because multiple family members can be enrolled on the same Health Insurance plan under a single Group and Provider ID. 
+
+
+    > _You know I can't choose both [Applicants] here [in the Medicare flow]. It may be a 3rd radio button, you know. "Both."  Cause I'd be like, come on, you're gonna ask me more questions that I'll have to repeat myself again. But it should allow me to select either or both._ (P9)
+    
+    > _I'm gonna hit...no? No, because I've only got 2 people, and I've answered for both of them._ (P5)
+    
+    > _You have insurance now. I don't know if this is for myself or for my daughter._ (P15)
+
+
+- 9 of 18 participants had difficulty with understanding the form fields in the **[Other Health Insurances]** flow in the subform. Specific areas of difficulty included:
+    - 9 participants had concerns with the enrollment and termination date questions. This was particularly an issue because users were unaware why an expired health insurance plan would be relevant to enrolling in the program.
+    - 8 were unsure which plan type to select, because they were not familiar with insurance types other than Medicare, Medicaid or Tricare, and were unaccustomed to language used to describe ACA/private health insurance plans.
+    - Edge case: 1 participant said both she and her dependent have the same health insurance provider, but different Group IDs because they receive health insurance from different sources (employer, school). She was unsure if she could add both of them to a generic health insurance plan to save time completing the Health Insurance part of the form twice.
+
+
+    > _Now, the insurance termination…If a policy is inactive, then I don’t have a policy. I wouldn’t have said yes [I have health insurance], that makes no sense._ (P2)
+    
+    > [Termination date] When you can reapply for your insurance. It's usually, you know, the cancellation time when they renew your insurance policy. Wait. it says to only enter this date if the policy is inactive. Oh, so you don't have to put a date there. (P5)
+    
+    > _I don't want to say we all know the VA is not really very fast. So whenever it gets around to doing the application and getting to this, who knows if it's gonna be January? If it's going to be August, September, October, November, December right? Who knows how long this is gonna take? So I'm not going to go and terminate my health insurance right now, because I've applied for that, or I submitted an application for this. So this should be able to accept my actual termination date, which is December 2025._ (P21)
+    
+    > _I guess when I read insurance termination date, which you know, I know we pay for insurance every year. I thought of it as being the date you'd have to renew it. So the date it ends, and you'd have to start from scratch again. So that's why I put something in there._ (P1)
+    
+    > _[On insurance plan page] Oh, here I am clueless._ (P2)
 
 **Finding 5:**   Participants had expectations about the submission and post-submission application process that would make them feel more confident their application was received and being processed. 
 
-**Note: Complete finding**
+- In the flow we tested with participants, users must fill out information about the person filling out the application (the Signer), then the Veteran through whom dependents receive their eligibility (the Sponsor), and finally applicant information. Some participants had to fill out their information twice in the Signer and Sponsor sections, which felt duplicative.
+
+
+    > _It's repetitive. It's easy... but just it's more tedious and been hard to do... [It would be less tedious] If I could do side by side myself as a sponsor, the spouse and the child in the same page, and then be able to click and fill out the form in 1 shot and one page, rather than go to each section individually._ (P18)
+  
+- To reduce those feelings that the form was tedious, participants suggested streamlining repetitive or "redundant" pages, such as addresses.
+
+
+    > _Some of the questions were repetitive. You could have a little link where it says like, for my daughter…a box to check there “same address as mine” so it’ll copy over._ (P15)
+    
+    > _It seemed like you were asking the same information on the address and things of that nature like when you did your spouse. And they went back actually for the address, the street, and all that twice, and they did it again the same thing when you put your of the dependent. I didn't understand why._ (P21)
 
 ---
 
@@ -242,15 +307,16 @@ While users generally rated the Other Health Insurance (10-7959c) sub-form "easy
 
 **Additional Finding 1:** School-aged CHAMPVA beneficiaries are required to re-submit school verification documents in between semesters to retain CHAMPVA benefits, which is a tedious task and may result in a lapse of coverage. 
 
+    > We’ve had to do this multiple times. Every year, we have to do it, and it’s always a challenge with my son’s college. - P12
+
 - 1 participant mentioned that lapses in CHAMPVA coverage were not announced, and it was the responsibility of the beneficiaries to check if coverage lapses between semesters at school, resulting in surprise copays or uncovered medical bills.
 
     > My daughter…she goes to school, right? So she’s always cut off [from CHAMPVA benefits]. The fall semester runs from August all the way through December, and then there’s a gap period from mid-December til mid-January, when the VA sometimes would cut her off from benefits, because technically she’s not in school. So she would have to send in another recertifying form [10-7959c]. She always has [health issues] and was constantly having to go [to the doctor]...repeatedly. There were times where I would need to find out: do they [CHAMPVA] still have her, you know, insured or not? And so we’d have to call the 1-800 number to find out if she was still covered, and they would tell us. But I’ve never been able to check [if we’re still eligible]. Honestly, there’s very limited information that you can get regarding your CHAMPVA benefits as far as eligibility, finding out if you’re still eligible and still covered online. (P15)
     
-    > We’ve had to do this multiple times. Every year, we have to do it, and it’s always a challenge with my son’s college. - P12
 
 - Another participant mentioned a workaround to communicating with the school, which was utilizing a third party enrollment verification system through Publisher’s Clearinghouse.
 
-    > [Pull quote]
+    > _But my son’s college in [another state] only gives it for the semesters he’s enrolled in at the time. So [...] I had to go to the Publisher’s Clearinghouse and beg, plead, wheedle, and get them to change it to his actual graduation date._ (P12)
 
 **Additional Finding 2:** Participants had expectations about the submission and post-submission application process that would make them feel more confident their application was received and being processed.
 
