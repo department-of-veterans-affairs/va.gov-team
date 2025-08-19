@@ -1,4 +1,26 @@
 
+# **Participant #, Date and time**
+
+
+## **Instructions**
+
+We will be able to get ok transcripts from EnjoyHQ, so focus notes on observations, clearly defined interpretations, and impactful utterances.
+
+
+* Focus on observations of user behavior.
+    * Example of observation: “Participants clicks on My VA tab, hovers over X header, then back buttons to landing page.”
+    * Example of observation: “Participant says ‘this is annoying, that makes no sense.’ when looking to login to BTSSS.”
+* Be clear where notetaker is interpreting or making inferences of what participant is thinking/feeling
+    * Example of interpretation: “Based on facial expressions, participant seems to be confused. Going back and forth between X and Y pages seems like they are looking for something.”
+    * Example of interpretation: “Participant easily found link no frustration.”
+
+
+**Task order used: **
+
+
+
+
+
 ## **Option A: Veteran does not have an email on file**
 
 [Flow A](https://www.figma.com/proto/CAChU51fWYMZsgDR5RXeSc/MHV-Landing-Page?page-id=5465%3A1304&node-id=5861-21571&viewport=26%2C-947%2C0.42&t=spgbQ62qjaRH4JSQ-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=5861%3A21571&show-proto-sidebar=1)
@@ -9,17 +31,15 @@
 ### ***First impressions***
 
 
-1. Tell me what you are looking at.
-2. What do you think that means?
-    1. Why do you think you are being asked for this?
-3. What do you think you could do from here? What tells you that?
-4. Looking at this, what questions do you have? Is there anything you would want to be able to do or know that you don’t see here currently?
-6. What do you think would happen if you did not add this information?
-7. If you wanted to add this information, how would you do so?
-8. What do you think would happen if you clicked "Save"?
-9. What would you do if I wasn’t here?
-10. What do you think would happen if you clicked "Skip this for now"?
-        1. Probe on what they think "Skip this for now" would mean
+1. What stands out to them?
+2. Do they know why asked?
+3. What do they think they can do?
+4. What questions do they have?
+5. What info would they add and why?
+6. Do they understand the consequences of not adding info?
+7. Do they understand/accurately id how to enter and advance?
+10.  "Skip this for now" first impressions
+
 
 
 [moderator note: instruct to click "Skip this for now"]
@@ -27,29 +47,22 @@
 
 ### **On MyVA page with yellow "Confirm contact" alert"**
 
-1. Tell me what you are looking at.
-2. What do you think you could do from here? What looks "clickable" to you? What tells you that?
-3. What do you think that means?
-4. Tell me about the yellow rectangle.
-   5.    
-6. What do you think would happen next if you clicked the yellow rectangle? 
+1. What stands out to them?
+2. What actions do they identify?
+3. What do they think  would happen if they clicked the rectangle? Do they recognize it? Do they know how to dismiss it?
+
    
 ### **On: “Confirm your email” page**  (CARA note: update with new page)
 
-1. Tell me what you are looking at.
-3. What do you think you could do from here? What tells you that?
-   4. Probe: would you get rid of this? how?
-5. Looking at this, what questions do you have? Is there anything you would want to be able to do or know that you don’t see here currently?
-6. If you wanted to add this information, do you think that you can do so from here? How would you do so?
-7.   What do you think would happen if you clicked "Add"?
-      8.  Do they think that "Add"     
+1. What stands out to them?
+2. What actions do they identify?
+3. What do they think would happen if they clicked the alert? Do they recognize it? Do they know how to dismiss it?   
 
 ### **On: “We've updated your contact email address” page**
 
-1. Tell me what you are looking at.  What's happened? What does that mean?
-2. What do you think you can from here?
-3. Looking at this, what questions do you have? Is there anything you would want to be able to do or know that you don’t see here currently?
-4. What would you do now>
+1. What stands out to them?
+2. What actions do they identify?
+3. Next steps?
 
 ### **Option Reflection Questions**
 
@@ -71,23 +84,20 @@ Moderator note: Switch to other Option (so if completed Option A, move to Option
 
 ### ***First impressions***
 
-1. Tell me what you are looking at.
-2. What do you think that means?
-    1. Why do you think you are being asked this question?
-3. What do you think you could do from here? What tells you that?
-   4. Probe: Do they notice the Confirm and Update options? What do they think those mean?
-5. Looking at this, what questions do you have? Is there anything you would want to be able to do or know that you don’t see here currently?
-6. What do you think would happen if you clicked "Skip for now"?
-7. If this information was correct, what would you do now?
+1. What stands out to them?
+2. Do they know why being asked?
+3. Do they notice the Confirm and Update options?
+5. What questions do they have?
+6. What info would they add?
+7. What do they think "Skip for now" means?
+8. Do they identify how to confirm?
 
 _[moderator note: show me/prompt to click confirm]_
 
 *On Confirmation page:*
 
-1. Tell me what you are looking at now.
-2. What do you think that means? What tells you that?
-3. What do you think your next step is? Do you have one?
-4. What do you think would happen if you clicked "Continue to VA.gov"
+1. What stands out to them?
+2. Next steps?
 
 ### **Option Reflection Questions**
 
