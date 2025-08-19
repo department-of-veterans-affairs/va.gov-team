@@ -1,10 +1,9 @@
 # 🔧 526EZ How-To Audit  
 
 ## Contents
-[1. Purpose](526EZ-How-To-Audit.md##Purpose)<br>
-[2. Context](526EZ-How-To-Audit.md##Context)
 
-## 🎯 Purpose
+
+## 🎯 1. Purpose
 **This document is a guide to support HCD and Engineering team members in:** 
 - Conducting bug-focused manual audits of the 526EZ form
 - Conducting UX-focused manual audits of the 526EZ form
@@ -20,10 +19,10 @@
 - _[TODO: Identify some users that have rated issues vs users that don't have rated issues.]_
 - _[TODO: Figure out what is the source of truth for staging users, and identify users that could fall in different scenarios (rated issues) Reserve staging users for the DBC, provide emails of the staging users, but team 5 has to reach out to someone on the team for the password. Example user descriptions: https://dsva.slack.com/archives/C098Q0GRKSL/p1755183584714369?thread_ts=1755181784.007889&cid=C098Q0GRKSL]_ 
 
-## 🧭 Context
+## 🧭 2. Context
 The 526EZ is a long form with multiple pathways (e.g., ancillary forms) and nested, conditional responses. Our team needs to manually test the form for bugs and UX issues. We then need to document an auditor's environment (e.g., mobile, desktop, Safari, Chrome), an auditor's bug or UX findings, and track which 526EZ steps and pathways 526EZ have been audited. Auditing the 526 will help prioritize fixes and inform a clearer product and UX strategy for future enhancements. This How-To documentation will help ensure consistency in how we evaluate the UX of the form and support longitudinal understanding of what bugs and UX issues exist and where.
 
-## For New / Onboarding Team Members
+## 3. For New / Onboarding Team Members
 If you are a team member who has recently joined the team and is in the onboarding process, auditing the 526EZ form is a great way to build context around the product we work on. 
 
 ### Your objectives in audting the 526EZ are:
@@ -35,16 +34,19 @@ If you are a team member who has recently joined the team and is in the onboardi
 - Conduct a thorough bug audit (e.g., trying to "break" every text field or component you come across).
 - Select multiple conditional pathways and track which pathways you are going down.
 
-**Something to note:**
-There are a few sections of the form that are being changed and the design or development of that section is currently in-progress. These changes are not yet reflected in the staging environment you will be auditing the form in. As a result, you may find issues within sections that are being redone and those issues may not be relevant. Regardless of this, we still encourage you to walk through the form in staging to get a feel of the form and document issues you find since your findings may still contribute or add weight as to why we should change X section or flow.
+**Note:**
+- Some sections are already being redesigned or developed.
+- These changes are not yet reflected in staging.
+- You may find issues in those areas that will soon be updated.
+- Still audit the full form — your findings help build familiarity and may reinforce why sections or flows need change.
 
 ## For Experienced Team Members
 If you are a team member who has already interacted with the form in staging or is generally familiar with the different Steps within the form (e.g., "Step 2. Conditions," "Step 3. Mental Health" etc.) please conduct a thorough bug or UX audit of a specific step / pathways of the form. The Audit Tracker listed in the next section will support you in selecting a step and pathway(s). 
 
-Steps that with changes currently in design or development are listed below. Please hold off on doing bug and UX audits of these sections:
+Steps with changes currently in design or development are listed below. Please hold off on doing bug and UX audits of these sections:
 - Step 2: Conditions (Epic [#785](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/785))
 
-## 📚 Helpful Resources
+## 📚 4. Helpful Resources
 ### For New Team Members - Get familiar with the 526EZ Form
 The following resources can support team members in building context on the scope of the 526EZ form and see relationships between sections and screens.
 - [526 Active Form Mural Board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1686768383603/3f4415dd2ddb71bbd104ebefd92a2c7b553ad792): This is the most up-to-date documentation of the form in production. It provides screenshots of all of the main form steps, conditional pathways, and ancillary forms. You can use this to understand the form as a whole.
@@ -60,7 +62,8 @@ The following resource can support experienced team members and PMs in understan
 ### Tester Considerations
 - Staging may have a lag / different performance than the production environment.
 
- ## 🗺️ Overview of Steps for Auditors
+ ## 🗺️ 5. How to Conduct an Audit of the 526EZ
+## Overview of Steps
 1. Access staging 
 2. Determine if you will be conducting a bug or UX issue audit
 3. Reference the Bug Audit Checklist and the UX Issue Checklist
@@ -68,12 +71,7 @@ The following resource can support experienced team members and PMs in understan
 5. Determine which form Step(s) and conditional pathways you will be auditing
 6. Conduct your audit and document findings on the Audit Tracker
 
-## Post Audit: Steps for PMs and POs 
-1. ~Create or update bug / UX issue tickets~ Fill out spreadsheet with bug / UX issue findings.
-2. ~Link bug / UX issue tickets to any related enhancement Super Epics~ PO/PMs will review spreadsheet for duplicate bugs and create tickets.
-
-
-## 🔐 1. Access staging
+## 🔐 Step 1. Access staging
 In order to test, testers need to access the form in Staging.
 1. Access the [Staging Environment](https://staging.va.gov/disability/file-disability-claim-form-21-526ez/introduction)
 2. Click "Sign in to start your application"
@@ -82,7 +80,7 @@ In order to test, testers need to access the form in Staging.
 5.  On the "Receive a code by phone" screen, just click "Continue"
 6. On the "Enter the 6-digit code" click "Continue" again. (The code should have automatically populated).
 
-## 🧭 2. Will you conduct a bug or UX issue audit?
+## 🧭 Step 2. Will you conduct a bug or UX issue audit?
 Use the following table to understand the difference between bugs and UX issues. Next, determine whether you will be conducting a bug audit or a UX issue audit. While a combined audit can surface both, it is more effective for our tracking and for your mindset to decide beforehand which type of issues you are going to focus on as the tester. Checking for bugs requires the tester to verify whether the system functions as intended, whereas checking for UX issues requires assessing how easily a user can understand, navigate, and complete their tasks.
 
 | **Aspect**      | **Bug**                                                                 | **UX Issue**                                                                 |
@@ -94,6 +92,14 @@ Use the following table to understand the difference between bugs and UX issues.
 
 👉 **Note:** We’re looking for *any type of issue* that impacts the user experience, and regardless of whether your intention was a bug or UX audit, you may find both. If something feels broken, clunky, slow, inconsistent, or unclear, log it — whether it’s a bug or a UX issue.
 
+## 🔍 3. Reference the Bug Audit or the UX Issue Checklist
+Prior to conducting your audit, reference the following checklists. These will help you be thorough in your considerations.
+- 🐞 [Bug Audit Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/UX%20audit/Bug%20Audit%20Checklist.md)
+- 🤝 [UX Issue Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/UX%20audit/UX%20Issue%20Checklist.md)
+
+## 4. Familiarize yourself with the Audit Tracker
+The Audit Tracker will allow us to track which parts of the form, devices, and environments have been tested. 
+- [Audit Tracker]((https://docs.google.com/spreadsheets/d/1Y_JOzPltc_3Rb4OhdGTTCHPArLJpk12RpgkoJ2vxcMc/edit?gid=901203816#gid=901203816))
                         
 ## 🧩 3. Which form steps and conditional pathways will you be auditing? 
 Keep in mind that you must actually enter answers into the form in order to move to the next section. For a bug audit, you will have to interact with each conditional variable within that form step. This takes time to conduct thoroughly. In order to prevent burnout, we recommend conducting an audit on one section per person per sprint. In order to determine where auditing is needed, this page on the _Audit Tracker_.
@@ -110,38 +116,24 @@ The following table provides a high-level overview of all steps, sections, and p
 | **Step 5: Additional Information**             |      N/A           |                 |          | 
 | **Step 6: Review and Submit**  | N/A                |  ☐ "Edit" Pathway               |          | 
 
-## 📣 4. Check for in-progress work and known issues
-Multiple teams are involved in designing and developing the 526 form, and there may be in-progress updates to the section you plan to audit. These updates might address bugs or UX issues you would otherwise identify. To avoid duplicating work, you first check for existing efforts by contacting the right Slack channels or team members. Let them know you're auditing [X section] and ask if there are any in-progress changes, known issues, or prior findings you should review. 
-- ["Bug Bash Super Epic"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110810): Check subtasks for previously logged bugs or UX issues.
-- **#benefits-disability**: Full 526 team and OCTO enabling partners
-- **#benefits-disability-conditions**: Conditions team - for audits related to “Step 2: Conditions."
-- **#platform-design-system**: Platform design system team - for post-audit follow-up if issues are related to design patterns or components.
 
-## 🔍 5. Conduct an audit using the Bug Audit or the UX Issue Checklist
-As you conduct your audit, take screenshots and notes of your observations and tests. The following checklists will help you be thorough in your considerations.
-- 🐞 [Bug Audit Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/UX%20audit/Bug%20Audit%20Checklist.md)
-- 🤝 [UX Issue Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/UX%20audit/UX%20Issue%20Checklist.md)
 
-~## 🎟️ 6. Create or update bug / UX issue tickets~ Fill out [Spreadsheet](https://docs.google.com/spreadsheets/d/1Y_JOzPltc_3Rb4OhdGTTCHPArLJpk12RpgkoJ2vxcMc/edit?gid=901203816#gid=901203816) 
-~1. Review previously created tickets under the ["Bug Bash Super Epic"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110810) to determine if you should create a new ticket or update an already existing one. Use the following ticket templates to write your tickets.
-- **Bug Ticket Template** _[TODO: Update once template is approved and created. In the meantime, reference [this ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116511) written with proposed template sections]_
-- **UX Issue Ticket Template** _[TODO: Update once template is approved and created. In the meantime, reference [this ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116513) written with proposed template sections]_
-2. Link your ticket as a Sub Issue under the ["Bug Bash Super Epic"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110810).~
-_[TODO: How might we organize the bugs/sub issues under the Bug Bash Super Epic? Right now, there are many different bugs/issues/epics nested under here.]_
 
-~## 📋 7. Link bug / UX issue tickets to any related enhancement Super Epics~
-Super Epics may already exist that capture the broader work that needs to be completed to enhance a user flow. Review super epics to understand if your findings may be related to / help inform Super Epics in the backlog. If there is a relationship, comment on the Super Epic with your bug / UX issue ticket numbers.
 
-*For example*, "Improve 526 start/ restart experience" #108100 epic captures that enhancements need to be made to this flow, but as of Aug. 11, 2025, specific tasks and bugs are not yet captured. If you conducted an audit on this flow and found specific issues, link the bug / UX issue tickets in the comments. 
-_[TODO: Is the description of what we'd like testers to do to show relationships between found bugs/issues and the corresponding Enhancement Super Epic?]_
+
+
 
 ## 🗂️ 8. Fill out the Audit Tracker
-The Audit Tracker will allow us to track which parts of the form, devices, and environments have been tested. The _526 Active Form Audit Map_ will visually show which parts of the form have already been tested.   
+The Audit Tracker will allow us to track which parts of the form, devices, and environments have been tested. 
 - [Audit Tracker]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/UX%20audit/Audit%20Tracker.md](https://docs.google.com/spreadsheets/d/1Y_JOzPltc_3Rb4OhdGTTCHPArLJpk12RpgkoJ2vxcMc/edit?gid=901203816#gid=901203816))
 - _526 Active Form Audit Map_ [TODO: Link when complete.]
 
 ---
 # Post Audit Information For PMs and POs
+
+## Post Audit: Steps for PMs and POs 
+1. ~Create or update bug / UX issue tickets~ Fill out spreadsheet with bug / UX issue findings.
+2. ~Link bug / UX issue tickets to any related enhancement Super Epics~ PO/PMs will review spreadsheet for duplicate bugs and create tickets.
 
 ## Prioritized Backlog Super Epics
 as of August 19, 2025
@@ -155,6 +147,20 @@ Multiple teams are involved in designing and developing the 526 form, and there 
 - **#benefits-disability**: Full 526 team and OCTO enabling partners
 - **#benefits-disability-conditions**: Conditions team - for audits related to “Step 2: Conditions."
 - **#platform-design-system**: Platform design system team - for post-audit follow-up if issues are related to design patterns or components.
+
+~## 🎟️ 6. Create or update bug / UX issue tickets~ Fill out [Spreadsheet](https://docs.google.com/spreadsheets/d/1Y_JOzPltc_3Rb4OhdGTTCHPArLJpk12RpgkoJ2vxcMc/edit?gid=901203816#gid=901203816) 
+~1. Review previously created tickets under the ["Bug Bash Super Epic"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110810) to determine if you should create a new ticket or update an already existing one. Use the following ticket templates to write your tickets.
+- **Bug Ticket Template** _[TODO: Update once template is approved and created. In the meantime, reference [this ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116511) written with proposed template sections]_
+- **UX Issue Ticket Template** _[TODO: Update once template is approved and created. In the meantime, reference [this ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116513) written with proposed template sections]_
+2. Link your ticket as a Sub Issue under the ["Bug Bash Super Epic"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110810).~
+_[TODO: How might we organize the bugs/sub issues under the Bug Bash Super Epic? Right now, there are many different bugs/issues/epics nested under here.]_
+
+
+~## 📋 7. Link bug / UX issue tickets to any related enhancement Super Epics~
+Super Epics may already exist that capture the broader work that needs to be completed to enhance a user flow. Review super epics to understand if your findings may be related to / help inform Super Epics in the backlog. If there is a relationship, comment on the Super Epic with your bug / UX issue ticket numbers.
+
+*For example*, "Improve 526 start/ restart experience" #108100 epic captures that enhancements need to be made to this flow, but as of Aug. 11, 2025, specific tasks and bugs are not yet captured. If you conducted an audit on this flow and found specific issues, link the bug / UX issue tickets in the comments. 
+_[TODO: Is the description of what we'd like testers to do to show relationships between found bugs/issues and the corresponding Enhancement Super Epic?]_
 
 - Create ticket for defining triage process for ticks in backlog where we don't know who will own them or priority.
 - _[TODO: Identify if there are existing tickets and create new ones other wise. This might be a two part process. Or a 2 person process. Someone has to facilitate the process]_
