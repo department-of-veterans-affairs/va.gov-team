@@ -134,23 +134,26 @@ Now, I want you to imagine that you it's a regular day.  You are starting a new 
 1. Tell me what you are looking at.
 2. What do you think you could do from here? What looks "clickable" to you? What tells you that?
 3. What do you think that means?
-4. What do you think would happen next if you clicked the yellow rectangle? 
+4. Tell me about the yellow rectangle.
+   5.    
+6. What do you think would happen next if you clicked the yellow rectangle? 
    
-### **On: “Action needed: Add a contact email address” page**
+### **On: “Confirm your email” page**  (CARA note: update with new page)
 
 1. Tell me what you are looking at.
-2. What do you think you could do from here? What tells you that?
-3. Looking at this, what questions do you have? Is there anything you would want to be able to do or know that you don’t see here currently?
-4. What do you think would happen if you did not need correct this information?
-5.  If you wanted to add this information, do you think that you can do so from here? How would you do so?
-6.   What do you think would happen if you clicked "Save"?
+3. What do you think you could do from here? What tells you that?
+   4. Probe: would you get rid of this? how?
+5. Looking at this, what questions do you have? Is there anything you would want to be able to do or know that you don’t see here currently?
+6. If you wanted to add this information, do you think that you can do so from here? How would you do so?
+7.   What do you think would happen if you clicked "Add"?
+      8.  Do they think that "Add"     
 
 ### **On: “We've updated your contact email address” page**
 
 1. Tell me what you are looking at.  What's happened? What does that mean?
 2. What do you think you can from here?
 3. Looking at this, what questions do you have? Is there anything you would want to be able to do or know that you don’t see here currently?
-4. What do you think would happen if you clicked "Continue to VA.gov"?
+4. What would you do now>
 
 ### **Option Reflection Questions**
 
@@ -197,17 +200,6 @@ _[moderator note: show me/prompt to click confirm]_
 3. What about this process would you keep?
 4. Is there anything else you would like to share about this process that we have not covered?
 
-[moderator note: direct participants back to original question]
-
-### **On: “Action needed: Confirm or update your email address” page**
-
-1. Tell me what you are looking at.
-2. What do you think you could do from here? What tells you that?
-3. Looking at this, what questions do you have? Is there anything you would want to be able to do or know that you don’t see here currently?
-4. What do you think would happen if you did not need correct this information?
-5.  If you wanted to add this information, do you think that you can do so from here? How would you do so?
-6.   What do you think would happen if you clicked "Save"?
-7.   What do you think comes after this page?
 
 ## **Comparative Reflection questions**
 
