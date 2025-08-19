@@ -11,7 +11,7 @@
 - Tracking which parts of the 526EZ have already been audited
 
 **This document also supports PMs and POs in:**
-- Determining how bug /UX issues may be related to in-progress or upcoming Super Epics.
+- Determining how bug / UX issues may be related to in-progress or upcoming Super Epics.
 - Translating bug / UX issues that are documented on the Audit Tracker Spreadsheet into GitHub tickets.
 
 #### Follow Up [TODO]
@@ -81,7 +81,11 @@ In order to test, testers need to access the form in Staging.
 6. On the "Enter the 6-digit code" click "Continue" again. (The code should have automatically populated).
 
 ## 🧭 Step 2. Will you conduct a bug or UX issue audit?
-Use the following table to understand the difference between bugs and UX issues. Next, determine whether you will be conducting a bug audit or a UX issue audit. While a combined audit can surface both, it is more effective for our tracking and for your mindset to decide beforehand which type of issues you are going to focus on as the tester. Checking for bugs requires the tester to verify whether the system functions as intended, whereas checking for UX issues requires assessing how easily a user can understand, navigate, and complete their tasks.
+Use the table below to understand the difference between bugs and UX issues. Choose one type of audit (bug or UX issue) before you begin — it helps with tracking and keeps you focused.
+- Bug audit: Check if the system works as intended.
+- UX issue audit: Check how easily a user can understand, navigate, and complete tasks.
+
+If you are conducting a bug audit, we recommend limiting your audit to one section per sprint to prevent burnout since you'll have to interact with each component in multiple ways. 
 
 | **Aspect**      | **Bug**                                                                 | **UX Issue**                                                                 |
 |------------------|-------------------------------------------------------------------------|------------------------------------------------------------------------------|
@@ -97,13 +101,12 @@ Prior to conducting your audit, reference the following checklists. These will h
 - 🐞 [Bug Audit Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/UX%20audit/Bug%20Audit%20Checklist.md)
 - 🤝 [UX Issue Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/UX%20audit/UX%20Issue%20Checklist.md)
 
-## 4. Familiarize yourself with the Audit Tracker
+## 4. Familiarize yourself with the Audit Tracker and Form Steps
 The Audit Tracker will allow us to track which parts of the form, devices, and environments have been tested. 
-- [Audit Tracker]((https://docs.google.com/spreadsheets/d/1Y_JOzPltc_3Rb4OhdGTTCHPArLJpk12RpgkoJ2vxcMc/edit?gid=901203816#gid=901203816))
-                        
-## 🧩 3. Which form steps and conditional pathways will you be auditing? 
-Keep in mind that you must actually enter answers into the form in order to move to the next section. For a bug audit, you will have to interact with each conditional variable within that form step. This takes time to conduct thoroughly. In order to prevent burnout, we recommend conducting an audit on one section per person per sprint. In order to determine where auditing is needed, this page on the _Audit Tracker_.
+- [Audit Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1Y_JOzPltc_3Rb4OhdGTTCHPArLJpk12RpgkoJ2vxcMc/edit?gid=901203816#gid=901203816)
+- Use [Tab A. Form Steps Overview](https://docs.google.com/spreadsheets/d/1Y_JOzPltc_3Rb4OhdGTTCHPArLJpk12RpgkoJ2vxcMc/edit?pli=1&gid=0#gid=0) to determine which steps and pathways of the form still need auditing and to "Sign up" for your sections. 
 
+### Form Steps Overview
 The following table provides a high-level overview of all steps, sections, and pathways.
 | **Form Section / Step**      | **Pathways** | **Notes** |
 |------------------------|----------------------|--------------------------|
@@ -115,7 +118,7 @@ The following table provides a high-level overview of all steps, sections, and p
 | **Step 4: Supporting Evidence**             | ☐ BDD Process continues here <br> ☐ 4142 Release of Private Medical Records                 |                 |          | 
 | **Step 5: Additional Information**             |      N/A           |                 |          | 
 | **Step 6: Review and Submit**  | N/A                |  ☐ "Edit" Pathway               |          | 
-
+  
 
 
 
