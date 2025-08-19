@@ -22,10 +22,11 @@ CUSTOM_ERROR_WITH_REFRESH
 ```
 
 ## Identify areas of the app that would be good candidates for this behavior
-- History/list screens for appointments, prescriptions, claims, 
+- History/list screens for appointments, prescriptions, claims, vaccines, allergies, disability rating, payments
 
 ## Identify areas of the app that would be bad candidates for this behavior
-- Secure Messaging
+- Letters for benefits and claims (they are downloaded per request)
+- Secure messaging
 - Prescription refill flow
 - Submitting claims
 - Profile updates
