@@ -1,11 +1,15 @@
 # 🔧 526EZ How-To Audit  
 
 ## 🎯 Purpose
-This document is a guide to support HCD and Engineering team members in: 
+**This document is a guide to support HCD and Engineering team members in:** 
 - Conducting bug-focused manual audits of the 526EZ form
 - Conducting UX-focused manual audits of the 526EZ form
-- Documenting findings on tickets
+- Documenting findings on the Audit Tracker Spreadsheet
 - Tracking which parts of the 526EZ have already been audited
+
+**This document also supports PMs and POs in:**
+- Determining how bug /UX issues may be related to in-progress or upcoming Super Epics.
+- Translating bug / UX issues that are documented on the Audit Tracker Spreadsheet into GitHub tickets.
 
 #### Follow Up [TODO]
 - _[TODO: [Spreadsheet example](https://docs.google.com/spreadsheets/d/1CstNDQMVic-IpJZEAr452UdLhUReAI3X/edit?gid=1348811676#gid=1348811676)]_
