@@ -121,7 +121,7 @@ entered by or provided to the user that is required to be entered again in the s
       Example: “Select the checkbox at the bottom of the page.” Fix: “Select the checkbox labeled ‘Yes, I consent.”
 
 - [ ]  Is your language plain, concise, and easy to understand? A good check is seeing if content is at an grade 8 reading level. Try pasting your content into the [Hemingway app](https://hemingwayapp.com/).  See [WCAG 3.1.5 Reading Level (Level AAA)](https://www.w3.org/WAI/WCAG22/Understanding/reading-level.html)
-- [ ]  For blocks of text does each line have no more than 80 characters? **Lines that are too long** can cause eye strain and make it harder to track from the end of one line to the start of the next.
+- [ ]  For blocks of text does each line have no more than 80 characters? Lines that are too long can cause eye strain and make it harder to track from the end of one line to the start of the next.
 - [ ]  Is the tone and style consistent throughout?
 - [ ]  Are abbreviations, jargon, or acronyms explained or avoided?
 - [ ]  Does anything shown on the page require users to remember? If they are answering a question, do they have all the information they need on the page to complete it? Example: Form question asks “When were you treated for your condition?” Fix: question is “When were you treated for your arthritis?”
@@ -129,7 +129,7 @@ entered by or provided to the user that is required to be entered again in the s
 
 ## Links & Buttons
 
-- [ ]  Are you choosing the correct element for the job? Does clicking on your item do something, or go somewhere? If it goes somewhere (either to a different page or to a different location on the same page), it should be a link. **Buttons activate scripted functionality** (e.g. make a dialog appear, expand a collapsed menu, turn font bold, etc.), usually on the same page, but a button can also submit form data. [When to use a button vs a link](https://design.va.gov/components/link/action#choose-the-right-element-buttons-vs-links) according to the VA Design System.
+- [ ]  Are you choosing the correct element for the job? Does clicking on your item do something, or go somewhere? If it goes somewhere (either to a different page or to a different location on the same page), it should be a link. Buttons activate scripted functionality (e.g. make a dialog appear, expand a collapsed menu, turn font bold, etc.), usually on the same page, but a button can also submit form data. [When to use a button vs a link](https://design.va.gov/components/link/action#choose-the-right-element-buttons-vs-links) according to the VA Design System.
 - [ ]  Is the link/button text clear and descriptive (no “Click here” or “Learn more”)? If there are multiple of this link on the page, does it have a more specific aria-label? Does the link text reveal PII?
 - [ ]  Are you opening the link in a new window? If so, tell users in the link text. When you can, it’s better to keep links opening in the same browser tab. This is because AT users can become disoriented by new tabs opening and it can be burdensome to return to their previous location.
 - [ ]  Are links visually distinguishable (e.g., underlined or styled consistently)?
