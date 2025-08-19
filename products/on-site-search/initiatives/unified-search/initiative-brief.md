@@ -55,6 +55,9 @@ We currently have multiple search solutions in place across various experiences 
         - Every 30 days it checks all URLs in the index to find updates not noted in the sitemaps - i.e. 404s, redircts, etc
         - Search.gov cannot reindex VA.gov more frequently because of the sitemap_bva.xml file containing 1.6 million of the total 1.8 million VA URLs indexed primarily for https://search.usa.gov/search?affiliate=bvadecisions
         - Indexing rules and timing are managed at the domain level - Search.gov cannot manage indexing or priority mgmt at a more granular level, such as for bva.va.gov
+       
+**Reliability**
+
 
 ## Discovery
 ### Assumptions/Risks
