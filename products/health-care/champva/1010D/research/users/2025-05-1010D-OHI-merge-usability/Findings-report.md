@@ -558,12 +558,14 @@ This research supports measurement of this KPI by:
 
 ## Other supporting documents created
 
-*Include links to additional materials, e.g., personas, user flows.*  
+* 10-10d/OHI merge Other Health Insurance flows
+* Supporting documents inventory
 
 
 ## Secondary research
 
-*Include any relevant secondary research, e.g., web analytics, SME interviews.*  
+* CHAMPVA service blueprint
+* CHAMPVA stakeholder calls
 
 ## Who we talked to 
 
@@ -603,40 +605,40 @@ Devices used during study:
 
 
 Age:
-* 25-34: x
-* 35-44: 1
-* 45-54: 4
-* 55-64: 5 
+* 25-34: 1
+* 35-44: x
+* 45-54: 5
+* 55-64: 4 
 * 65+: 8
 * Unknown: x
 
 
 Education:
-* High school degree or equivalent: 3
+* High school degree or equivalent: 2
 * Some college (no degree): 4
 * Associate's degree, trade certificate or vocational training: 3
-* Bachelor's degree: 4
-* Master's degree: 3
+* Bachelor's degree: 3
+* Master's degree: 5
 * Doctorate degree: x
-* Unknown: 3
+* Unknown: 1
 
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
+* White: 10
+* Black: 2
+* Hispanic: 4
+* Biracial: 1
+* Asian: 1
 * Native: x
 
 
 Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
+* Cognitive: 1
+* AT beginner: 2
+* AT advanced user: 3
+* Desktop screen reader: 1
+* Mobile screen reader: 1
+* Magnification/Zoom: 5
 * [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
 * Hearing aids: x
 * Sighted keyboard: x
@@ -645,13 +647,11 @@ Disability and Assistive Technology (AT):
 
 ## Underserved groups we haven’t talked to 
 
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
-
 This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
+* Veterans ages 35-44
+* Rural users, other than honorable, immigrant origin, and expat living abroad
+* LGBTQ+ users
 
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+<img width="853" height="846" alt="1010dOHImerge-recruitment-checker" src="https://github.com/user-attachments/assets/14c04633-bf15-409a-90c0-c5debd8522f0" />
+
+[VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/research/users/2025-05-1010D-OHI-merge-usability/recruitment-checker.png)
