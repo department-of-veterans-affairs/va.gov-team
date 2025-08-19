@@ -44,10 +44,10 @@ We currently have multiple search solutions in place across various experiences 
     - List of current inaccurate or misleading search scenarios
 
 **Search performance**
-1. Response time
-    - 
+1. Improve response time
+    - [Current response times]
 2. Indexing - # of pages indexed, time to index new or updated content
-    - 
+    - [Current indexing stats]
 
 
 ## Discovery
