@@ -57,7 +57,7 @@ This is a list of common things to look for when reviewing Figma designs for acc
     <img width="494" alt="Screenshot 2025-08-12 at 9 07 59 PM" src="https://github.com/user-attachments/assets/abbaa5a4-00ea-4d3e-82d6-3c06343d55b8" />
 
 
-- [ ]  Is any information conveyed ONLY through color? (See also under Language/Cognitive for related guidance)
+- [ ]  Is any information conveyed ONLY through color? (See also under [Language/Cognitive](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/accessibility/ux-accessibility-checklist.md#languagecognitive) for related guidance)
     
     Example: Date text is red to indicate that the item is overdue. To fix it we’re still using the color red, but we’ve included text that says overdue.
     
