@@ -23,7 +23,7 @@ Attendees: Renata Keck, Rachel Pope, Jamie Fiore, Amanda Klausmeier, Premal Shah
 #### CHAMPVA Enrollment call
 * School certification issues
     * Findings from research study show that users’ mental model is based on other VA education benefits program
-        * CHAMPVA requirements are different - require more infooll
+        * CHAMPVA requirements are different - require more info to enroll
         * Not easy to obtain this info
     * Have heard that between terms, eligibility changes
         * Required to get a continuing enrollment letter
