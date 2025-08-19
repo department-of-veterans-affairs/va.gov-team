@@ -74,7 +74,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 | **User goal**      | *"I need proof of my Veteran/military status."* |
 | **What should we measure?** | Accurate military status <br> *"I can readily provide proof of my military status.”* |
 | **Important metrics to track**| - User engagement over time (actions on screen)<br>- Viewer counts<br>- Average daily viewers<br>- Views per user<br>- Viewers month-to-month<br>- Distribution/converion of users who access this task via different pathways (homepage vs tool bar)<br>- # of feature viewers/# of users<br>- Latency<br>- % of errors within X period of time<br>- Users report easy access and clear Veteran status |
-| **How these metrics can inform decision making** | Show how discoverable, reliable and valuable the Veteran status card is. These metrics can indicate whether to prioritize performance and trust fixes, improve navigation and clarity, or expand feature integration (e.g., wallet apps) to better meet Veterans’ needs. |
+| **How these metrics can inform decision making** | Show how discoverable, reliable and valuable the Veteran status card is. These metrics can indicate where to improve performance, navigation, or expand feature integration (e.g., wallet apps) to better meet Veterans’ needs. |
 | **Unhelpful metrics** | - Time on screen |
 
 </details>
@@ -87,7 +87,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 | **User goal**      | *"I want to have convenient access to a digital version of (x) so that I am not worried about loss or fraud."* |
 | **What should we measure?** | Convenient access to VA benefit letters<br> * “I can conveniently provide digital proof of (x).”* |
 | **Important metrics to track**| - Page views<br>- Most frequently accessed letters<br>- # feature viewers/# of users<br>- Latency<br>- % of errors within X period of time<br>- User report easy to view and download VA benefit letters |
-| **How these metrics can inform decision making** | Reveal whether the VA benefits letters performs reliably and delivers a clear, usable experience. They can inform decisions on which letters to prioritize (e.g. the most common letters users access), where to reduce errors or latency, and how to improve usability so users can quickly access and download the documents they need. |
+| **How these metrics can inform decision making** | These metrics show whether the VA benefits letters performs reliably and delivers a clear, usable experience. They can inform decisions on which letters to prioritize (e.g. the most common letters users access), where to reduce errors or latency, and how to improve usability so users can quickly access and download the documents they need. |
 | **Unhelpful metrics** | |
 
 </details>
@@ -126,7 +126,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 | **User goal**      | *"I want to securely message my provider."* |
 | **What should we measure?** | Ease of secure messaging + timely provider response <br> *“I understood what I needed to do next to manage my whole health.”* |
 | **Important metrics to track**| - Notification open/click-through rate<br>- % conversion from notification to viewed message<br>- Messages sent<br>- Latency<br>- % of errors within X period of time |
-| **How these metrics can inform decision making** | These metrics highlight whether secure messaging is accessible, dependable, and driving meaningful communication. They can highlight where to improve notifications, reduce technical friction, and optimize reliability so users can confidently connect with their healthcare providers through the app. |
+| **How these metrics can inform decision making** | These metrics can highlight where to improve notifications, reduce technical friction, and optimize reliability so users can confidently connect with their healthcare providers through the app. |
 | **Unhelpful metrics** |  |
 
 </details>
@@ -139,7 +139,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 | **User goal**      | *"I want to view my medical records, labs, and test results."* |
 | **What should we measure?** | Accurate, up-to-date medical records <br> *“My recent labs and medical records are accessible and up-to-date.”"* |
 | **Important metrics to track**| - Medical records viewed<br>- # feature viewers/# of users<br>- Latency<br>- % of errors within X period of time |
-| **How these metrics can inform decision making** | Indicate how access to medical records in the app is widely used, reliable, and performant. They can help the platform team determine if expanding this feature to include labs and test results would provide high-value information, while ensuring the system can handle increased demand without added errors or delays. |
+| **How these metrics can inform decision making** | Indicate how medical records are used, and whether this feature is reliable and performant. These metrics can help determine if expanding this feature to include labs and test results would provide high-value information, while ensuring the system can handle increased demand without added errors or delays. |
 | **Unhelpful metrics** |  |
 
 </details>
@@ -165,7 +165,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 | **User goal**      | *"I want to track claim status."* |
 | **What should we measure?** | Accurate, easy to understand claim status <br> *“I know the status of my claim.”* |
 | **Important metrics to track**| - Click the NCC call center number<br>- Click links on the claim status screen<br>- Claim Details Open events<br>- Time spend viewing per active user<br>- Overall claims page views<br>- # feature viewers/# of users<br>- Latency<br>- % of errors within X period of time |
-| **How these metrics can inform decision making** | Reveal whether the claim status feature is providing clear, self-service information. They can help us identify where to improve content clarity, navigation, and performance so Veterans can confidently track their claims in-app without relying on external channels/calling the contact center (NCC). |
+| **How these metrics can inform decision making** | Reveal whether the claim status feature is providing clear, self-service information. They can help us identify where to improve content clarity, navigation, and performance so users can confidently track their claims in-app without relying on external channels/calling the contact center (NCC). |
 | **Unhelpful metrics** |  |
 
 </details>
