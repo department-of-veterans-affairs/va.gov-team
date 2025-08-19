@@ -9,7 +9,7 @@ body:
 - type: markdown
   attributes:
     value: |
-      Use clear, simple language and avoid acronyms. If you know how to fix the bug, use action verbs to describe the work.
+      Use clear, simple language. If you know how to fix the bug, use action verbs to describe the work.
 - type: textarea
   attributes:
     label: Description
@@ -23,8 +23,8 @@ body:
       - label: Minor - Cosmetic bugs and minor language inconsistencies. Defer to sprint planning.
 - type: textarea
   attributes: 
-    label: How should the site function or look?
-    description: 
+    label: Desired behavior
+    description: How should the site function or look?
 - type: textarea
   attributes:
     label: Tasks
