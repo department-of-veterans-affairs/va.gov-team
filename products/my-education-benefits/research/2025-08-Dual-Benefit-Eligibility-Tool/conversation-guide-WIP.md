@@ -1,165 +1,244 @@
+    # Conversation Guide for [placeholder]
+
+# Conversation Guide for usability testing of Dual Benefit Eligibility Tool
+**My Education Benefits-- DGIB Team | Month 2025**
+
+`Joanna Yu, researcher | Slack: @Joanna Yu | GH: joannayudgib` 
+
+
+`Date created:` 2025-08-19 
+
+`Last modified:` 2025-MM-DD</br>
+
 ---
-title: "Conversation Guide for [Team, Product, Date]"
-author: "[AUTHOR NAME]"
-date_created: "[YYYY-MM-DD]"
-last_modified: "[YYYY-MM-DD]"
-tags:
-  - "[Tag1]"
-  - "[Tag2]"
-description: "A template for moderating research sessions including logistics, intro script, task outlines, and consent steps."
----
-    # Conversation Guide for 10-10EZR Confirmation Flow
+<p>&nbsp;</p>
 
-# Moderator logistics 📋✅
-### 2-3 days before the session
-
-> [!NOTE]
-> Review VA Platform's [Research Checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-checklist).
-
-`List and complete any project-specific setup tasks for this study below:`
-
-- [ ] Step 1
-- [ ] Step 2
-- [ ] Step 3
+## Moderator logistics 
 
 ### Day of the session
-
-> [!TIP]
-> - Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.
-> - Mute your Slack notifications.
-> - Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
+- Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in 
+Slack for real-time feedback from observers.
+- Mute your Slack/Teams/phone notifications.
+- Send out the [observer instructions](https://depo-platform-documentation.scrollhelp.site/research-design/Observer-guidelines.1622311177.html) to your observers (Type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).
+- Plan for sessions to be recorded
 
 ### Starting the session
+- In the Attendees section, make sure everyone except the participant is on mute.
+- In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
+- Check your screensharing setup and share permissions for participants.
+- When the participant is ready, begin the session with the following intro...
+<p>&nbsp;</p>
 
-> [!TIP]
-> - In the Attendees section, make sure everyone except the participant is on mute.
-> - In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
-> - Check your [screensharing setup] and share permissions for participants.
-> - When the participant is ready, begin the session with the following intro*
+<!-- *Use [#feedback-backchannel](https://dsva.slack.com/messages/C40B45NJK/details/) in Slack for real-time feedback from observers.*
 
-# Intro - 5 minutes
+*Mute your Slack notifications*
 
-Thanks for joining us today! My name is **[NAME]** and **[NOTETAKER NAME]** is taking notes.
-I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
+*Before the session, send out the [observer instructions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/during-research/howto-observer-instructions.md) to your observers (Slackbot will do this for you if you type "observer instructions" into [#feedback-backchannel](https://dsva.slack.com/channels/feedback-backchannel)).*
 
-Today we're going to talk about making updates to health care information.
+*In the Attendees section, make sure everyone except the participant is on mute.*
 
+*In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked*
 
-Before we start, I have a few things that I want to go over with you:
+*Check your [screensharing setup] and share permissions for participants.*
 
-- **This entire session should take about 60 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
-  
-- **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
-  
-- **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know.
-  
-- I know the folks who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. **Are you okay with a couple of additional observers during this session?**
-   - <mark>**If no:** Use Slack to kindly ask the observers to leave the Zoom.</mark>
-   - **If yes:** Admit observers.
-     
-> [!TIP]
-> - Then, ask the notetaker and observers to **give a brief, camera-on introduction, like their first name and position with VA.gov.** (This is meant to humanize the interaction of observation for the participant.)
-> - Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
-     
-- *(If applicable)* **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. <mark>**Since it's a demo, none of your actions will affect your VA information or benefits.**</mark>
-  
-- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are destroyed, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
-   - **Knowing that, are you comfortable if I record my screen and audio as we talk today?**
+*When the participant is ready, begin the session with the following intro* -->
 
-   <mark>**[Record answer here]**</mark>
-     
-- **Would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veterans’ experiences?** One of the ways that we share findings with our partners across the VA is by showing short video clips of sessions with Veterans. In these video clips, we blur out any information that could possibly be used to identify you, like your onscreen image. Sharing these video clips can be a compelling way for our partners to better understand what Veterans go through when using VA.gov and our digital products. These clips will not be shared outside of the VA. We don't know at this point if we will or not, but we like to ask ahead of time. At the end of the interview, I'll also confirm that this is okay with you, so you will get a chance to veto this once you know what we've discussed.
-   - **Knowing this, would you be comfortable if we decided to use a clip of our session with you to help our partners understand Veteran's experiences?**
- 
-   <mark>**[Record answer here]**</mark>
+## Intro (5 minutes)
 
-   - If yes: **Once I start recording, I am going to confirm that you are okay with me recording this session once more.**
+Thanks for joining us today! My name is [NAME] and I also have some colleagues on the line observing and taking notes. Today we're going to be talking about the Dual Benefit Eligbility tool.
 
-➡️ **Start recording.**
+Before we start, a few things I want to mention:
 
-> [!TIP]
-> After you start the recording, click the Show captions (CC) button to enable transcription for the recording.
+- **This entire session should take about 30 minutes.** I want to be sure not to keep you much longer, so I may occasionally prompt you with the next question or topic.
+- **In this session, we want to hear your honest opinions.** We are not testing your ability. We just want to improve these tools to better meet Veteran's needs. I will not be offended by any opinions you express, and I welcome your feedback.
+- **You'll be interacting with a prototypes and a demo tool.** This is a demo tool that may not function exactly the way you expect. Some areas of the prototype will be clickable, and some will not. Since it's a demo, none of your actions will affect your actual VA information or benefits.
+- **If for any reason and at any time you want to stop the session, please let me know.** 
+- **Are you comfortable if I record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. The recordings are destroyed after we complete analysis, and none of your comments will be attributed to you directly. 
+    - If yes: **Once I start recording, I am going to confirm that you are ok with me recording this session once more.** 
 
-- **I have started recording.** I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
+*Start recording.*
 
- <mark>**[Record answer here]**</mark>
- 
-- **Are you comfortable if we decide to use a recorded clip from our discussion today to share with other VA partners if we remove any information that can be used to identify you?**
+- **I have started recording**. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
- <mark>**[Record answer here]**</mark>
+<p>&nbsp;</p> 
 
-# Warm-up Questions (Optional) - 5 minutes
+## Warm-up Questions (5 minutes)
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-1. Do you have a service-connected disability at VA?
-- If yes: what is your disability rating?
-- If no, skip to question 2.
-2. 
+1. What factors have made applying and/or learning about GI Bill benefits successful? What factors have made it difficult?
+2. What resources do you use when trying to apply, change, or learn more about GI Bill benefits?
+3. What is your confidence level in navigating your education benefits? What factors contribute to your confidence level?
 
-## First Task: [TASK NAME] - X minutes
+<p>&nbsp;</p>
 
-- [ ] Step 1
-- [ ] Step 2
+## Task 1: Locate the self-review tool (3 minutes)
 
-> [!NOTE]
-> ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
-> - [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-> - [Etc]
+**"You are currently on the VA education and training landing page on VA.gov. Looking at this screen, where would you go to make updates to your education benefits"**
 
-## Second Task: [TASK NAME] - X minutes
+Probing questions:
+- Where might you look first to begin the process? Why?
 
-- [ ] Step 1
-- [ ] Step 2
+Qualitative questions:
+- Where does the user initially look? Why?
+- What is the your understanding of the tools purpose from the link text and description?
+- What was your experience in locating the link to the tool? Was there anything in particular that helped you find it here?
+- What is VA trying to tell you here?
 
-> [!NOTE]
-> ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
-> - [Etc]
+#### Things to watch for:
+> - Where does the user initially look? Why? </br>
+> - What is the users understanding of the tools purpose from the link text and description copy? </br>
+> - How easily does the user find and understand the tool link? </br>
+> - How easily does the user understand the un-authenticated vs. authenticated state? </br>
+> - Does the user notice and understand the authenticator widget? </br>
+> - Are there pain points or confusion for the user when logging in? </br>
 
-## Third Task: [TASK NAME] - X minutes
+<p>&nbsp;</p>
 
-- [ ] Step 1
-- [ ] Step 2
+## Task 2: Logging in, Review Tool Instructions Page (3 minutes)
 
-> [!NOTE]
-> ### Things to watch for:
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
-> - [Etc]
+**"We are now on the self-review tool's landing page. What is your first impression and how are you understanding the information you are looking at?"**
 
-# Post-Task Interview - X minutes
+Probing questions:
+- Where would you look to sign in? 
+- Our prototype does not have typing capabilities, lets try clicking the username field to input the login information.
+- What would you do to finish logging in?
+- What other information are you looking to find on this page?
 
-- Question 1
-- Question 2
-- Any questions for me? 
+#### Things to watch for:
+> - How easily does the user understand the un-authenticated vs. authenticated state? </br>
+> - Does the user notice and understand the authenticator widget? </br>
+> - Are there pain points or confusion for the user when logging in? </br>
+<p>&nbsp;</p>
 
-## Consent to use video clips
+## Task 3: Self Review Tool - Step 1 Your information (3 minutes)
 
-- I want to circle back and re-confirm that **you are comfortable if we were to share a video clip of this session with our VA partners?** Just to remind you, we will remove all information that could be used to identify you before sharing and will only share the videos with VA partners with the purpose of improving VA.gov and other digital experiences.
-   - **If yes:** Is there any part of our discussion you would NOT want shared in a video clip?
- 
-   <mark>**[Record answer here]**</mark>
+**"If you wanted to start using the tool, what would you do next?"**
 
+**"What is your first impression and how are you understanding the information you are looking at?"**
 
-## Thank-You and Closing - X minutes
+Probing questions:
+- What is your confidence level in the information presented here?
+- Is there any other information you are looking to see here?
 
-Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+**"What would you do next?"**
 
-Thanks! Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
+#### Things to watch for:
+> - Is there any hesitation or does it build users confidence to see personalized information?
 
-Thank you so much again, and enjoy the rest of your day!
+<p>&nbsp;</p>
 
+## Task 4: Self Review Tool - Step 2 Distribute Qualifying Days (5-7 minutes)
 
-# Emergency Exit 🚨
+**"We are now on Step 2 of the Self-review Tool. What is your first impression and how are you understanding the information you are looking at?"**
 
-In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). <mark>**Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.**</mark>
+Probing questions:
+- What are you noticing or gravitating to first? Why?
+- What is your interpretation of 'Your current benefit level' versus 'New benefit level'?
+- How are you interpreting the term 'Qualifying days'
+- Which pieces of information presented are particularly helpful for you to see? Are there any parts that are confusing?
+- What other information, if any, are you lookng to find?
+
+#### Things to watch for:
+> - Does the user understand terminology used such as 'benefit level', 'relinquished', 'kicker'?
+> - Where is the user spending the most time?
+> - How is the user scanning the page? Is there a section that is particularly helpful or confusing?
+<p>&nbsp;</p>
+
+## Task 5: Self Review Tool - Step 2 Create your own distribution (5-7 minutes)
+
+**"Let's say you did not want this suggested 'New benefit level', what would you do build your own distribution?"**
+
+Probing questions:
+- How was that interaction?
+- What are you noticing about these new section on the page?
+- How are you understanding the number of days in the PGIB and MGIB sections?
+- Are you interpreting the term 'Qualifying days' differently now that you see it here?
+
+**"Could you show me how you would update the PGIB section to [MOCK DATA] days?" & "Could you show me how you would update the MGIB section to [MOCK DATA] days?"**
+
+- What drew you to using the slider over the text field? (or vice versa depending on participant)
+- How is your experience in using the alternative input method?
+- Was there anything that caught your attention when you changed the number of days?
+- How are you understanding the change in 'New benefit level' once you added the new number of days?
+- Was there anything you found confusing about ineraction?
+- [CAN INSERT SPECIFIC QUESTIONS HERE FOR DIFF USE CASES OF RELINQUISH/RETAIN/ETC]
+
+**"Could you show me how you would reset this, get the original recommendation back?"**
+
+- How was resetting the recommendation for you?
+
+#### Things to watch for:
+> - Where does the user look first to customize? </br>
+> - Does the user understand the relationship between the slides, input fields, and recommendation? </br>
+> - How is the users experience using the sliders and input fields? </br>
+> - Where does the user look first to reset their recommendation? Are they able to find it easily? </br>
+> - Does the user have questions about this process? </br>
+<p>&nbsp;</p>
+
+## Task 6: Self Review Tool - Step 3 Confirm election (5 minutes)
+
+**"Let's say you are good to move forward with this distribution, what would do next?"**
+
+Probing questions:
+- What did you notice first on this step?
+- Is there anything in particular that is confusing?
+- Is there other information you are looking to find here?
+- How are you understanding the checkbox statement below?
+- What is your confidence level in making this decision about your education benefits?
+
+#### Things to watch for:
+> - Does the user understand terminology used such as 'relinquished'?
+> - Does the user have all the information they need to confirm their decision?
+> - How confident is the user?
+
+<p>&nbsp;</p>
+#### OPTIONAL: Future Prioritization (MAY BE REMOVED, PENDING STEP)
+
+**"Let's say you are good to move forward with this distribution, what would do next?"**
+
+Probing questions:
+- What did you notice first on this step?
+- How are you interpreting this prioritization? 
+- Is there anything in particular that is confusing? What in particular makes it confusing?
+- Is there other information you are looking to find here?
+- What is your confidence level in making this decision about your education benefits?
+
+#### Things to watch for:
+> - Does the user have particular ease or difficulty in understanding the content here? What factors contribute?
+> - Does the user understand this decision will affect their future benefits, that the decision is permanent?
+> - Where does the user look first to confirm their decision?
 
 ---
 
-### Sample Conversation Guide _(note: this link points to resources in the va.gov-team GitHub repo)_
+<p>&nbsp;</p>
 
-- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md)
+## Post-Task Interview (5 minutes)
+
+- How was your experience in receiving the recommendedation in the flow?
+- How was your experience in creating your own distribution?
+- Was there anything in particular that was hard to find or confusing when using this tool? Anything that made it easier or that was clear for you to understand?
+- Was there anything in particular that helped build your trust and confidence in making decisions about your education benefits?
+- Any questions for me? 
+<p>&nbsp;</p>
+
+## Thank-You and Closing (2 minutes)
+
+Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
+
+Thanks! Lastly, do you know any other Veterans, caregivers, or service members who might be willing to participate in a future user research session? 
+    If Yes: Thank you! I'll have our team send you an email with a little blurb that you can pass along. 
+
+Great, well thank you so much again, and enjoy the rest of your day!
+<p>&nbsp;</p>
+
+<!-- ## Sample Conversation Guides _(note: these links point to resources in the va.gov-team GitHub repo)_
+
+- [Scheduling Accessibility and Usability Study: Complex Recruit, Highly Variable based on User Profile](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/research/2017-studies/access-usability/access-usability-conversation-guide.md) 
+- [Veteran ID Card Discovery Interview](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/veteran-id-cards/research/discovery/discovery-conversation-guide.md) -->
+<p>&nbsp;</p>
+
+# Emergency Exit
+
+In the rare case of an emergency during a session, be prepared with an [emergency exit strategy](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html#ResearchSafetyandEmergencyExitStrategies-Sampleexitstrategies). <mark>**Plan to include here at least one option, so its easy to find during a session. Take some time to practice so it feels more comfortable.**</mark>
+
