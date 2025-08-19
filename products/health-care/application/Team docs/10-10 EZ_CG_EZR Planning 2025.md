@@ -16,7 +16,7 @@
 - **SPRINT GOAL** [#116030](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116030)- [FE] Array Building update Remove Item action to call autoSave (CARRIED)
 
 #### Obj: [Insurance page updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90159)
-- **Stretch** [#94500](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94500) - [QA] Follow-up to complete testing on L&L pattern (CARRIED)
+- **Stretch** [#94500](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94500) - [QA] Follow-up to complete testing on L&L pattern
 
 #### Obj: EZ [PDF Versioning](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
 - **Stretch** [#102906](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102906) - [BE] Exploration on PDF versioning update trigger
