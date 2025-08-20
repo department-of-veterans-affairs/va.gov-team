@@ -32,9 +32,9 @@ Veteran ID Card: No major accessibility audit.
 
 ## Accessibility 101 Trainings
 Previous:
-- 6/26/2025 A11y 101: Screenreaders part 1 video & slides
+- 6/26/2025 A11y 101: Screenreaders part 1 - [video](https://dvagov.sharepoint.com/:v:/s/vaabdvro/ERnVXAOJYCRMl-sI_ZrTgj0BSEzJ6tkolDY9Y4LuG5cD7Q?e=uM4Eeg) & [slides](https://dvagov.sharepoint.com/:b:/s/vaabdvro/ESEhnqNfZ1JAoMU2P02a9c4B8kQfbH3oRoSS95Xp1Ey_8Q?e=zZlaJE)
   - 40 minute session on screenreader basics. Led by @bacitracin
-- 7/16/2025 A11y 101: Keyboard Navigation
+- 7/16/2025 A11y 101: Keyboard Accessibility - [video](https://dvagov.sharepoint.com/:v:/s/vaabdvro/EXRx4mZLt2pKn28ENVLNsbgB2tHAS1unwoZRPdaX0SScVQ?e=SHXTTK) & [slides](https://dvagov.sharepoint.com/:b:/s/vaabdvro/EXTiUQNu64lMlVq6BofwmZABokwLl3gQftjPjL-iKGHbDg?e=7ieaoP)
   - 30 minute session on the importance of keyboard navigation. Includes how to test for the accessibility testing artifact for Staging Review in the Collab Cycle. Leg by @bacitracin  
 
 Upcoming:
