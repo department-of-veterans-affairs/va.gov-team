@@ -1,0 +1,439 @@
+# Travel Claim V1 Backend Flow
+
+## Overview
+
+This document outlines the new V1 backend flow for submitting travel claims, which replaces the current single asynchronous endpoint approach with a coordinated sequence of 6 specific API calls to the Travel Pay API (BTSSS).
+
+## Current State vs. New Flow
+
+- **Current**: Single asynchronous endpoint that handles everything in one call
+- **New**: Orchestrated sequence of 6 specific API calls in a specific order with proper error handling and state management
+
+## Integration with Check-In Session
+
+The new flow leverages the existing check-in session infrastructure to provide a seamless user experience:
+
+- **Authentication**: Reuses existing LoROTA JWT validation
+- **Patient Data**: Uses cached ICN (Individual Control Number) and facility information
+- **Session Management**: Inherits all check-in context and appointment details
+- **Audit Trail**: Full traceability from check-in to claim submission
+
+## The 6-Step Flow
+
+### Step 1: OAuth2 Token (`/oauth2/token`)
+
+**Purpose**: Obtain initial OAuth2 access token for system-to-system authentication
+
+**Method**: `POST`
+
+**Endpoint**: `/oauth2/token`
+
+**Required Parameters**:
+
+- `grant_type`: `client_credentials`
+- `client_id`: VA system client identifier
+- `client_secret`: VA system client secret
+- `scope`: Required OAuth2 scope
+
+**Returns**:
+
+```json
+{
+  "access_token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9...",
+  "token_type": "Bearer",
+  "expires_in": 3600
+}
+```
+
+**Integration**:
+
+- Uses existing `TravelClaim::TokenClient` infrastructure
+- Facility type determines client number (OH vs. standard)
+- Token cached in Redis for reuse
+
+**Error Handling**:
+
+- 401: Invalid credentials
+- 400: Missing required parameters
+- 500: Server error
+
+---
+
+### Step 2: System Access Token (`/api/v4/auth/system-access-token`)
+
+**Purpose**: Get a system-level access token specifically for the Travel Pay API
+
+**Method**: `POST`
+
+**Endpoint**: `/api/v4/auth/system-access-token`
+
+**Required Headers**:
+
+- `X-Correlation-ID`: UUID for request tracing (uses check-in session UUID)
+- `Content-Type`: `application/json`
+
+**Required Body**:
+
+```json
+{
+  "systemAccessRequest": {
+    "clientId": "va-system-identifier",
+    "clientSecret": "va-system-secret"
+  }
+}
+```
+
+**Returns**:
+
+```json
+{
+  "data": {
+    "accessToken": "btsss-v4-token",
+    "expiresAt": "2024-01-15T10:00:00Z",
+    "tokenType": "Bearer"
+  }
+}
+```
+
+**Integration**:
+
+- Uses OAuth2 token from Step 1 for authentication
+- ICN from check-in session for patient identification
+- Token cached with non-PHI key for security
+
+**Error Handling**:
+
+- 401: Unauthorized (invalid OAuth2 token)
+- 400: Bad request
+- 500: Server error
+
+---
+
+### Step 3: Find or Add Appointment (`POST /api/v3/appointments/find-or-add`)
+
+**Purpose**: Locate existing appointment or create new one in Travel Pay system
+
+**Method**: `POST`
+
+**Endpoint**: `/api/v3/appointments/find-or-add`
+
+**Required Headers**:
+
+- `X-Correlation-ID`: UUID for request tracing
+- `Authorization`: `Bearer {system_access_token}` (from Step 2)
+- `Content-Type`: `application/json`
+
+**Required Body**:
+
+```json
+{
+  "appointmentDateTime": "2024-01-15T10:00:00Z",
+  "appointmentName": "Primary Care Visit",
+  "facilityStationNumber": "123"
+}
+```
+
+**Optional Body Fields**:
+
+- `appointmentType`: Type of appointment
+- `isComplete`: Whether appointment is completed
+
+**Returns**:
+
+```json
+{
+  "data": [
+    {
+      "id": "appointment-uuid-123",
+      "appointmentDateTime": "2024-01-15T10:00:00Z",
+      "facilityId": "facility-uuid",
+      "facilityName": "VA Medical Center",
+      "appointmentName": "Primary Care Visit",
+      "isCompleted": true
+    }
+  ]
+}
+```
+
+**Integration**:
+
+- `appointmentDateTime` ← Check-in session appointment date
+- `facilityStationNumber` ← Session `station_number` from Redis
+- `appointmentName` ← Derived from appointment data or default value
+- Returns array of matching appointments (use first one)
+
+**Error Handling**:
+
+- 401: Unauthorized (invalid system token)
+- 422: Unprocessable content (invalid appointment data)
+- 408: Request timeout
+- 500: Server error
+
+---
+
+### Step 4: Create Claim (`POST /api/v3/claims`)
+
+**Purpose**: Create the travel claim record in the system
+
+**Method**: `POST`
+
+**Endpoint**: `/api/v3/claims`
+
+**Required Headers**:
+
+- `X-Correlation-ID`: UUID for request tracing
+- `Authorization`: `Bearer {system_access_token}` (from Step 2)
+- `Content-Type`: `application/json`
+
+**Required Body**:
+
+```json
+{
+  "appointmentId": "appointment-uuid-123",
+  "claimName": "Travel Reimbursement - Primary Care Visit",
+  "claimantType": "Veteran"
+}
+```
+
+**Returns**:
+
+```json
+{
+  "data": {
+    "claimId": "claim-uuid-456"
+  }
+}
+```
+
+**Integration**:
+
+- `appointmentId` ← UUID from Step 3 response
+- `claimName` ← Derived from appointment context (5-300 chars)
+- `claimantType` ← Determined from patient demographics
+- `claimId` becomes required for subsequent steps
+
+**Error Handling**:
+
+- 400: Bad request (missing required fields)
+- 401: Unauthorized
+- 403: Forbidden
+- 408: Request timeout
+- 429: Too many requests
+- 500: Server error
+- 502: Bad gateway
+
+---
+
+### Step 5: Add Mileage Expense (`POST /api/v3/expenses/mileage`)
+
+**Purpose**: Add mileage expense details to the claim
+
+**Method**: `POST`
+
+**Endpoint**: `/api/v3/expenses/mileage`
+
+**Required Headers**:
+
+- `X-Correlation-ID`: UUID for request tracing
+- `Authorization`: `Bearer {system_access_token}` (from Step 2)
+- `Content-Type`: `application/json`
+
+**Required Body**:
+
+```json
+{
+  "claimId": "claim-uuid-456",
+  "dateIncurred": "2024-01-15T10:00:00Z",
+  "description": "Round trip travel to VA Medical Center for primary care appointment",
+  "tripType": "RoundTrip"
+}
+```
+
+**Returns**:
+
+```json
+{
+  "data": {
+    "expenseId": "expense-uuid-789"
+  }
+}
+```
+
+**Integration**:
+
+- `claimId` ← UUID from Step 4 response
+- `dateIncurred` ← Check-in session appointment date
+- `description` ← Derived from facility/appointment context (5-2000 chars)
+- `tripType` ← Likely "RoundTrip" based on current implementation
+- `expenseId` for potential future expense management
+
+**Error Handling**:
+
+- 400: Bad request (missing required fields)
+- 401: Unauthorized
+- 403: Forbidden
+- 408: Request timeout
+- 429: Too many requests
+- 500: Server error
+- 502: Bad gateway
+
+---
+
+### Step 6: Submit Claim (`PATCH /api/v3/claims/{claimId}/submit`)
+
+**Purpose**: Finalize and submit the claim for processing
+
+**Method**: `PATCH`
+
+**Endpoint**: `/api/v3/claims/{claimId}/submit`
+
+**Required Headers**:
+
+- `X-Correlation-ID`: UUID for request tracing
+- `Authorization`: `Bearer {system_access_token}` (from Step 2)
+- `Content-Type`: `application/json`
+
+**Path Parameters**:
+
+- `claimId`: UUID from Step 4 (required)
+
+**Returns**:
+
+```json
+{
+  "data": {
+    "claimId": "claim-uuid-456"
+  }
+}
+```
+
+**Integration**:
+
+- `claimId` ← UUID from Step 4 response
+- Final step that activates the claim for processing
+- No additional body parameters required
+
+**Error Handling**:
+
+- 400: Bad request
+- 401: Unauthorized
+- 403: Forbidden
+- 404: Claim not found
+- 408: Request timeout
+- 429: Too many requests
+- 500: Server error
+- 502: Bad gateway
+
+## Data Flow and Dependencies
+
+### Sequential Dependencies
+
+Each step depends on the successful completion of the previous step:
+
+1. **OAuth2 Token** → Required for Step 2
+2. **System Access Token** → Required for Steps 3-6
+3. **Appointment ID** → Required for Step 4
+4. **Claim ID** → Required for Steps 5-6
+5. **Expense ID** → Optional for future reference
+6. **Claim Submission** → Final activation
+
+### Data Mapping from Check-In Session
+
+| Travel Pay API Field    | Check-In Session Source        | Notes                       |
+| ----------------------- | ------------------------------ | --------------------------- |
+| `X-Correlation-ID`      | Session UUID                   | For request tracing         |
+| `appointmentDateTime`   | Redis cached appointment date  | ISO 8601 format             |
+| `facilityStationNumber` | Redis cached `stationNo`       | Maps to facility identifier |
+| `appointmentName`       | Appointment data or default    | 5-100 character limit       |
+| `claimName`             | Derived from context           | 5-300 character limit       |
+| `claimantType`          | Patient demographics           | Veteran/Service Member/etc. |
+| `dateIncurred`          | Appointment date               | Same as appointment date    |
+| `description`           | Facility + appointment context | 5-2000 character limit      |
+| `tripType`              | Business logic                 | Likely "RoundTrip"          |
+
+## Error Handling Strategy
+
+### Retry Logic
+
+- **Transient Errors** (408, 429, 502): Implement exponential backoff retry
+- **Permanent Errors** (400, 401, 403, 404): Fail fast with clear error messages
+- **System Errors** (500): Retry with backoff, then fail
+
+### State Management
+
+- Track progress through the 6-step flow
+- Store intermediate results (appointment ID, claim ID, expense ID)
+- Enable resumption from any step if process is interrupted
+
+### Rollback Strategy
+
+- If any step fails after claim creation, consider cleanup options
+- Maintain audit trail of all attempts
+
+## Implementation Considerations
+
+### New V1 Controller
+
+- **Route**: `POST /check_in/v1/travel_claims`
+- **Parameters**: `uuid` (session identifier), `appointment_date` (optional)
+- **Authentication**: Reuse existing session authorization
+- **Response**: Immediate acknowledgment with job ID for tracking
+
+### Orchestration Service
+
+- **Dependencies**: `CheckIn::V2::Session`, `TravelClaim::AuthManager`
+- **Flow Control**: Sequential API calls with proper error handling
+- **State Persistence**: Store progress in Redis for monitoring
+
+### Monitoring and Observability
+
+- **Correlation IDs**: Track requests across all 6 steps
+- **Metrics**: Success/failure rates, timing for each step
+- **Logging**: Structured logging with correlation context
+- **Alerting**: Notify on failures or timeouts
+
+## Benefits of New Approach
+
+### Reliability
+
+- **Granular Control**: Each step can be monitored and retried independently
+- **Better Error Handling**: Specific failures can be identified and addressed
+- **State Persistence**: Process can be resumed if interrupted
+
+### Maintainability
+
+- **Clear Separation**: Each API call has a single responsibility
+- **Easier Debugging**: Issues can be isolated to specific steps
+- **Better Testing**: Each step can be unit tested independently
+
+### User Experience
+
+- **Transparency**: Users can see progress through the claim process
+- **Recovery**: Failed claims can be retried without starting over
+- **Status Tracking**: Real-time updates on claim processing
+
+## Migration Strategy
+
+### Phase 1: New V1 Endpoint
+
+- Implement new V1 controller and orchestration service
+- Deploy alongside existing V0 endpoint
+- Feature flag to control which flow is used
+
+### Phase 2: Gradual Rollout
+
+- Route percentage of traffic to new flow
+- Monitor success rates and performance
+- Gradually increase traffic to new flow
+
+### Phase 3: Deprecation
+
+- Remove old V0 endpoint
+- Clean up legacy code and infrastructure
+- Update documentation and client applications
+
+## Conclusion
+
+The new V1 travel claim backend flow represents a significant improvement over the current single endpoint approach. By breaking down the process into discrete, manageable steps, we gain better control, observability, and reliability while maintaining the seamless integration with the existing check-in session infrastructure.
+
+This approach follows modern API design principles and provides a foundation for future enhancements to the travel claim system.
