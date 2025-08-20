@@ -29,6 +29,7 @@ IVC plans to communicate research findings more often with the team in the futur
 **Decisions:** 
 - Health Insurance policies in ChampVA Claims: Remove the cap of two health insurance policies, allow users to add more as needed
 - EOB Codes: Don't use the EOB codes from the link Renata shared in the chat, those are from a legacy system
+
 **Action Items:**
 - Katrina will share denial codes with Va.gov team to help benes self-service (this request will take a bit of time to follow through on though)
 
