@@ -217,6 +217,27 @@ Source: [Amy Grace Wells, July 2025](https://dsva.slack.com/archives/C07RB9N9M6J
   [Source: Kevin Schneider (Slack message) 4/28/25](https://dsva.slack.com/archives/C0547Q0K0LF/p1745847761380209)
 </details>
 
+<details>
+<summary>What is the process for adding a child with a permanent disability?</summary>
+  
+  - A user cannot add a child as a helpless child until until the child has turned 18 (or 90 days before they turn 18)
+  - The child must have become disabled prior to the age of 18
+  - If a user submits permanent disability claim too early,  we tell the veteran we can't work the claim. But, we set a diary to expire 90 days before 18th bday to work the claim, and reach out to the veteran at that time to get the ball rolling.  
+
+  [Source: David Reis (Slack message) 8/18/25](https://dsva.slack.com/archives/C0547Q0K0LF/p1755526968940779)
+</details>
+
+<details>
+<summary>Are stepchildren automatically removed when the spouse dies/divorces?</summary>
+  
+  - Yes
+  - But, they are removed from the date the user stopped providing 50% of support, not the divorce/death date of parent. David says this date is typically earlier than the legal divorce date.
+  - NOT SURE what happens if the user is still providing 50% of support
+    
+  [Source: David Reis (Slack message) 8/18/25](https://dsva.slack.com/archives/C0547Q0K0LF/p1755526968940779)
+</details>
+
+
 ## Students
 <details>
 <summary>What happens if  dependent child graduates school before they turn 23?</summary>
