@@ -56,7 +56,7 @@ If you are a team member who has recently joined the team and is in the onboardi
 If you are a team member who has already interacted with the form in staging or is generally familiar with the different Steps within the form (e.g., "Step 2. Conditions," "Step 3. Mental Health" etc.) please conduct a thorough bug or UX audit of a specific step / pathways of the form. The Audit Tracker listed in the next section will support you in selecting a step and pathway(s). 
 
 Steps with changes currently in design or development are listed below. Please hold off on doing bug and UX audits of these sections:
-- `Step 2: Conditions` (Epic [#785](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/785))
+- Skip most of `Step 2: Conditions` (Epic [#785](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/785)) but you can audit starting at the POW pathway.
 
 ## 📚 5. Helpful Resources
 ### For New Team Members - Get familiar with the 526EZ Form
