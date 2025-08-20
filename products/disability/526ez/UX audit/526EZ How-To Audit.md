@@ -1,19 +1,17 @@
 # 🔧 526EZ How-To Audit  
 
 ## Jump to
-* [🎯 Purpose](#Purpose)
+* 🎯 [Purpose](#Purpose)
 
-* [📝 Context](#Context)
+* 📝 [Context](#Context)
   
-* [Domo](#Domo)
+* 🏁 [Getting Started](#Getting-Started)
 
-* [Google Analytics (GA4)](#Google-Analytics)
+* 📚 [Helpful Resources](#Helpful-Resources)
 
-* [MyVA411](#MyVA411)
+* 🗺️ [How to Conduct an Audit of the 526EZ](#How-to-Conduct-an-Audit-of-the-526EZ)
 
-* [How to Conduct an Audit of the 526EZ](#How-to-Conduct-an-Audit-of-the-526EZ)
-
-* [PM and PO Post Audit Tasks](#PM-and-PO-Post-Audit-Tasks)
+* 🎟️ [PM and PO Post Audit Tasks](#PM-and-PO-Post-Audit-Tasks)
 
 
 ## Purpose
@@ -47,15 +45,16 @@ Auditing helps:
 
 This How-To document ensures we evaluate the form consistently and track issues clearly.
 
-## For New or Onboarding Team Members
+## Getting Started
+### For New or Onboarding Team Members
 👋 If you are a team member who has recently joined the team and is in the onboarding process, auditing the 526EZ form is a great way to build context around the product we work on. 
 
-### Your objectives in auditing the 526EZ are:
+#### Your objectives in auditing the 526EZ are:
 - Getting a gist of the form by conducting a UX audit on the whole form.
 - Staying on the "Main Path" (aka the path where generally, you will select "No" when the form asks questions so that you do not go down deep conditional pathways.)
 - Documenting any UX flaws or bugs you might happen to find.
 
-### You are are not expected to:
+#### You are are not expected to:
 - Conduct a thorough bug audit (e.g., trying to "break" every text field or component you come across).
 - Select multiple conditional pathways and track which pathways you are going down.
 
@@ -65,8 +64,13 @@ This How-To document ensures we evaluate the form consistently and track issues 
 - You may find issues in those areas that will soon be updated.
 - Still audit the full form! Your findings help build familiarity and may reinforce why sections or flows need change.
 
-## For Experienced Team Members
-🦉 If you are a team member who has already interacted with the form in staging or is generally familiar with the different Steps within the form (e.g., "Step 2. Conditions," "Step 3. Mental Health" etc.) please conduct a thorough bug or UX audit of a specific step / pathways of the form. The Audit Tracker listed in the next section will support you in selecting a step and pathway(s). 
+### For Experienced Team Members
+🦉 If you are a team member who has already interacted with the form in staging or is generally familiar with the different Steps within the form (e.g., "Step 2. Conditions," "Step 3. Mental Health" etc.) you'll be expected to conduct a thorough audit of one part of the form.
+
+#### Your objectives in auditing the 526EZ are:
+- Conducting a thorough bug or UX audit of a specific step / pathways of the form.
+- Making sure you're covering multiple pathways within a step or section.
+- Thoroughly documenting bugs or UX issues.
 
 Steps with changes currently in design or development are listed below. Please hold off on doing bug and UX audits of these sections:
 - Skip most of `Step 2: Conditions` (Epic [#785](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/785)) but you can audit starting at the POW pathway.
