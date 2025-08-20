@@ -32,7 +32,7 @@
 - _[TODO: Identify some users that have rated issues vs users that don't have rated issues.]_
 - _[TODO: Figure out what is the source of truth for staging users, and identify users that could fall in different scenarios (rated issues) Reserve staging users for the DBC, provide emails of the staging users, but team 5 has to reach out to someone on the team for the password. Example user descriptions: https://dsva.slack.com/archives/C098Q0GRKSL/p1755183584714369?thread_ts=1755181784.007889&cid=C098Q0GRKSL]_ 
 
-## 🧭 2. Context
+## Context
 The 526EZ form is long with multiple pathways and conditional responses. In order to continually improve our product, our team needs to manually test for bugs and UX issues.
 
 We document each audit by capturing:
