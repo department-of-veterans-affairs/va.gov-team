@@ -42,14 +42,43 @@ ruby generate_manifest.rb --dry-run --verbose --portfolio=benefits-portfolio
 
 ### 2. `validate_teams.rb`
 
-*(Coming soon)* Validates team README files for completeness by checking for template placeholders.
+Validates team README files for completeness by checking for template placeholders.
+
+**Features:**
+
+- Depends on `generate_manifest.rb` output - uses the generated manifest to identify teams
+- Parses the `## Current team manifest` section in `teams/README.md`
+- Validates each team's README for placeholder content in the `## Team Information` section
+- Generates detailed validation reports with completion status
+- Identifies specific fields that need attention
+
+**Usage:**
+
+```bash
+# Basic usage - output to console
+ruby validate_teams.rb
+
+# Generate report with verbose output
+ruby validate_teams.rb --verbose
+
+# Write report to file
+ruby validate_teams.rb --output=validation_report.md
+
+# Combine options
+ruby validate_teams.rb --output=team_status.md --verbose
+```
+
+**Environment Variables:**
+
+- `REPO_ROOT` - Path to repository root (auto-detected if not set)
+- `VERBOSE` - Set to enable detailed logging
 
 ## File Structure
 
 ```text
 scripts/manifest/
 ├── generate_manifest.rb      # Main manifest generator script
-├── validate_teams.rb         # Team documentation validator (coming soon)
+├── validate_teams.rb         # Team documentation validator
 ├── lib/
 │   ├── team_parser.rb        # Team README parsing utilities
 │   └── markdown_utils.rb     # Markdown manipulation helpers
@@ -72,6 +101,15 @@ scripts/manifest/
 5. **Generation**: Creates formatted manifest content
 6. **Update**: Replaces the `## Current team manifest` section in `teams/README.md`
 
+### Validation Process
+
+1. **Manifest Parsing**: Reads the `## Current team manifest` section from `teams/README.md`
+2. **Team Discovery**: Identifies all teams listed in the manifest with their README paths
+3. **README Analysis**: For each team README, extracts the `## Team Information` section
+4. **Placeholder Detection**: Scans for template placeholder patterns (e.g., `[Full Name]`, `[github-username]`)
+5. **Progress Calculation**: Counts completed vs remaining fields for each team
+6. **Report Generation**: Creates comprehensive validation report with actionable feedback
+
 ### Data Extraction
 
 From each qualifying README, the script extracts:
@@ -80,6 +118,33 @@ From each qualifying README, the script extracts:
 - **Portfolio** (inferred from directory structure)
 - **Crew or Pod** (from `**Crew or Pod:**` field)
 - **README Link** (relative path to the team's README file)
+
+### Validation Output Format
+
+The validation report follows this structure:
+
+```markdown
+# Team Documentation Validation Report
+
+## Digital Experience
+
+### [Crew Name]
+
+#### [Team Name]
+- ❌ **GitHub Team Name:** Contains placeholder text
+- ❌ **Email:** Contains placeholder text
+- ✅ All other fields completed
+- ℹ️  **Progress:** 13/15 fields completed
+
+#### [Team Name]
+- ✅ **All fields completed**
+
+## Summary
+- **Total Teams:** 41
+- **Fully Completed:** 1
+- **Needs Attention:** 40
+- **Completion Rate:** 2.4%
+```
 
 ### Output Format
 
@@ -103,6 +168,10 @@ The generated manifest follows this structure:
 ### Health Portfolio
 #### [Pod Name]
 - [Team Name](teams/health-portfolio/team-slug/README.md)
+
+### BAM Portfolio
+#### [Crew Name]
+- [Team Name](teams/bam-portfolio/team-slug/README.md)
 ```
 
 ## Error Handling
