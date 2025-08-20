@@ -36,9 +36,9 @@ If you are a team member looking for accessibility support, please submit a requ
 
 ## Accessibility 101 Trainings
 Previous:
-- 6/26/2025 A11y 101: Screenreaders part 1 video & slides
+- 6/26/2025 A11y 101: Screenreaders part 1 [video](https://dvagov.sharepoint.com/:v:/s/vaabdvro/EUdtmcMn5HtJsep5TX5s_t4Ba-_4DFCPXB_yUQSKdMFNdQ?e=gLzHeq) & [slides](https://dvagov.sharepoint.com/:b:/s/vaabdvro/ESEhnqNfZ1JAoMU2P02a9c4B8kQfbH3oRoSS95Xp1Ey_8Q?e=zZlaJE)
   - 40 minute session on screenreader basics. Led by @bacitracin
-- 7/16/2025 A11y 101: Keyboard Navigation
+- 7/16/2025 A11y 101: Keyboard Accessibility [video](https://dvagov.sharepoint.com/:v:/s/vaabdvro/EQ15Vuo94MFFgVNQIWFbgFwBsSxV0yoKfuzWuKLe27fQOg?e=rQhReA) and [slides](https://dvagov.sharepoint.com/:b:/s/vaabdvro/EW16McixVe5ImAXjxNU2FHUBZPrka0Nkv5hoQbZ3IxhpJg?e=GRj5OL)
   - 30 minute session on the importance of keyboard navigation. Includes how to test for the accessibility testing artifact for Staging Review in the Collab Cycle. Leg by @bacitracin  
 
 Upcoming:
