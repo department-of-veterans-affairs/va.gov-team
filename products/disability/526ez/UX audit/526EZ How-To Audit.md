@@ -25,11 +25,6 @@
 - Determining how bug / UX issues may be related to in-progress or upcoming Super Epics.
 - Translating bug / UX issues that are documented on the Audit Tracker Spreadsheet into GitHub tickets.
 
-#### Follow Up [TODO]
-- _[TODO: [Spreadsheet example](https://docs.google.com/spreadsheets/d/1CstNDQMVic-IpJZEAr452UdLhUReAI3X/edit?gid=1348811676#gid=1348811676)]_
-- _[TODO: Identify some users that have rated issues vs users that don't have rated issues.]_
-- _[TODO: Figure out what is the source of truth for staging users, and identify users that could fall in different scenarios (rated issues) Reserve staging users for the DBC, provide emails of the staging users, but team 5 has to reach out to someone on the team for the password. Example user descriptions: https://dsva.slack.com/archives/C098Q0GRKSL/p1755183584714369?thread_ts=1755181784.007889&cid=C098Q0GRKSL]_ 
-
 ## Context
 📝 The 526EZ form is long with multiple pathways and conditional responses. In order to continually improve our product, our team needs to manually test for bugs and UX issues.
 
