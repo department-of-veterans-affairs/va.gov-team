@@ -3,16 +3,9 @@
 Determine where your file should go and how to name them...
 
 - [Where to put your files](#where-to-put-your-files)
-  - About each area of the this repo
-  - [Public versus private repo](#public-vs-private)
 - [Guidelines for creating and naming files and folders](#guidelines-for-creating-and-naming-folders-and-files)
-  - [Naming conventions](#naming-conventions)
-  - [Creating new folders](#create-folders)
-  - README.md files
-  - [Uploading large files](#large-files)
-- [Maintaining this repo](#maintainance)
-  - Governance of usage
-  - Archiving files
+- [File storage and large files](#file-storage-and-large-files)
+- [Maintaining this repo](#maintaining-this-repo)
 - [Questions](#questions)
 
 ## Where to put your files
@@ -46,7 +39,7 @@ This area includes information on all teams working on the platform.
 
 We encourage you to browse content in other /products and /teams folders to see how other teams have organized their content or presented their findings. This is especially important if your team is working on adding a feature to an existing application. You'll want to learn the history of the application by seeing what's happened so far. Your project may be slightly different, so you don't need to exactly copy what other teams have done. Use your best judgement about what works for your project.
 
-## Public versus Private
+### Public versus private repos
 
 - All content related to development on VA.gov belongs in the public `va.gov-team repository`.
 - However, **content that is sensitive to individuals or VA, for privacy and/or security reasons, should be stored in the `va.gov-team-sensitive`** repo.

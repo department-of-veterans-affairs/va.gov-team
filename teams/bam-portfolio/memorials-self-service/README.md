@@ -17,7 +17,7 @@
 
 - **VA Business Owner:** OIT
 - **Portfolio:** BAM (Benefits and Memorials)
-- **Crew or Pod:** Education
+- **Crew or Pod:** Memorials
 - **Contracting Organization:** [Name of contracting company, if applicable]
 
 ### Team Roster
