@@ -34,7 +34,7 @@ Auditing helps:
 
 This How-To document ensures we evaluate the form consistently and track issues clearly.
 
-## 3. For New / Onboarding Team Members
+## 👋 3. For New / Onboarding Team Members
 If you are a team member who has recently joined the team and is in the onboarding process, auditing the 526EZ form is a great way to build context around the product we work on. 
 
 ### Your objectives in auditing the 526EZ are:
@@ -52,7 +52,7 @@ If you are a team member who has recently joined the team and is in the onboardi
 - You may find issues in those areas that will soon be updated.
 - Still audit the full form! Your findings help build familiarity and may reinforce why sections or flows need change.
 
-## 4. For Experienced Team Members
+## 🦉 4. For Experienced Team Members
 If you are a team member who has already interacted with the form in staging or is generally familiar with the different Steps within the form (e.g., "Step 2. Conditions," "Step 3. Mental Health" etc.) please conduct a thorough bug or UX audit of a specific step / pathways of the form. The Audit Tracker listed in the next section will support you in selecting a step and pathway(s). 
 
 Steps with changes currently in design or development are listed below. Please hold off on doing bug and UX audits of these sections:
@@ -99,12 +99,12 @@ If you are conducting a bug audit, we recommend limiting your audit to one secti
 
 👉 **Note:** We’re looking for *any type of issue* that impacts the user experience, and regardless of whether your intention was a bug or UX audit, you may find both. If something feels broken, clunky, slow, inconsistent, or unclear, log it — whether it’s a bug or a UX issue.
 
-### 🔍 Step 2. Reference the Bug Audit or the UX Issue Checklist
+### 🔍 Step 2. Reference the Bug Audit Checklist or the UX Issue Checklist
 Prior to conducting your audit, reference the following checklists. These will help you be thorough in your considerations.
 - 🐞 [Bug Audit Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/UX%20audit/Bug%20Audit%20Checklist.md)
 - 🤝 [UX Issue Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/UX%20audit/UX%20Issue%20Checklist.md)
 
-### Step 3. Familiarize yourself with the Form Steps
+### 📋 Step 3. Familiarize yourself with the Form Steps
 The following is a high-level overview of the 526 form steps and the conditional pathways included in each step. Each step has a "Main Path" which the user will go down if they select "No" to most conditional questions. 
 
 #### Form Steps Overview
@@ -134,12 +134,13 @@ In order to test, testers need to access the form in Staging.
 5.  On the "Receive a code by phone" screen, just click "Continue"
 6. On the "Enter the 6-digit code" click "Continue" again. (The code should have automatically populated).
   
-### 🗂️ Step 6. Conduct your audit and document your findings in the Audit Tracker
+### ✏️ Step 6. Conduct your audit and document your findings in the Audit Tracker
 The Audit Tracker will allow us to track which parts of the form, devices, and environments have been tested. 
-- On the [Audit Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1Y_JOzPltc_3Rb4OhdGTTCHPArLJpk12RpgkoJ2vxcMc/edit?gid=901203816#gid=901203816), write descriptions of your findings and provide screenshots on the tab that corresponds to the step you chose to audit. 
+- On the [Audit Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1Y_JOzPltc_3Rb4OhdGTTCHPArLJpk12RpgkoJ2vxcMc/edit?gid=901203816#gid=901203816), write descriptions of your findings and provide screenshots on the tab that corresponds to the step you chose to audit.
+- In order to prevent ticket duplicates, you will not create tickets for your findings. PMs and POs will refine the spreadsheet and transition findings into tickets.  
 
 ---
-## 7. 🎟️ Post Audit Information For PMs and POs
+## 7. 🎟️ Post-Audit "To-Do List" For PMs and POs
 1. Review the [Audit Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1Y_JOzPltc_3Rb4OhdGTTCHPArLJpk12RpgkoJ2vxcMc/edit?gid=901203816#gid=901203816) for new findings. There are columns within the spreadsheet for PMs to indicate if a finding's status is a:
   - `New Issue` where a new ticket can be created
   - `Dupe` where a previously created ticket can be updated
