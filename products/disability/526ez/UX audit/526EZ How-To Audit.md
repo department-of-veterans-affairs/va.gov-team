@@ -140,24 +140,16 @@ The Audit Tracker will allow us to track which parts of the form, devices, and e
 
 ---
 ## 7. 🎟️ Post Audit Information For PMs and POs
-- Review the Audit Tracker Spreadsheet for new findings. 
-- Review previously created tickets under the ["Bug Bash Super Epic"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110810) to determine if you should create a new ticket or update an already existing one. Use the following ticket templates to write your tickets.
-- **Bug Ticket Template** _[TODO: Update once template is approved and created. In the meantime, reference [this ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116511) written with proposed template sections]_
-- **UX Issue Ticket Template** _[TODO: Update once template is approved and created. In the meantime, reference [this ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116513) written with proposed template sections]_
-- Check for in-progress work, or upcoming Super Epics on the [526EZ Product Prioritization Mural](https://app.mural.co/t/nava4113/m/nava4113/1748904136573/6cc118924290977700e9a4ecd1e7a1b0e7c2e6c9)
-- Link your ticket as a Sub Issue under the ["Bug Bash Super Epic"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110810).~
+1. Review the [Audit Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1Y_JOzPltc_3Rb4OhdGTTCHPArLJpk12RpgkoJ2vxcMc/edit?gid=901203816#gid=901203816) for new findings. There are columns within the spreadsheet for PMs to indicate if a finding's status is a:
+  - `New Issue` where a new ticket can be created
+  - `Dupe` where a previously created ticket can be updated
+  - `Already Addressed` where the finding is no longer an issue or will be addressed in broader changess happening to the form.
+2. In order to select the appropriate status, review previously created tickets under the ["Bug Bash Super Epic"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110810) to determine if you should create a new ticket or update an already existing one. 
+3. Check for in-progress work, or upcoming Super Epics on the [526EZ Product Prioritization Mural](https://app.mural.co/t/nava4113/m/nava4113/1748904136573/6cc118924290977700e9a4ecd1e7a1b0e7c2e6c9) to determine if new tickets should live under those Super Epics or if tickets might be dupes.
+4. Use the following proposed ticket templates to write new tickets (adopting and following these template examples will provide consistency accross tickets).   
+  - **[Bug Ticket Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116511)** 
+  - **[UX Issue Ticket Template](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116513)** 
+5. PMs can link new tickets as a Sub Issues under the ["Bug Bash Super Epic"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110810), under an appropriate Super Epic, and should assign the ticket to the appropriate team (Core Form, Pathways, Conditions, EE, or Team 5).
 
   
 
-
-~## 📋 7. Link bug / UX issue tickets to any related enhancement Super Epics~
-Super Epics may already exist that capture the broader work that needs to be completed to enhance a user flow. Review super epics to understand if your findings may be related to / help inform Super Epics in the backlog. If there is a relationship, comment on the Super Epic with your bug / UX issue ticket numbers.
-
-*For example*, "Improve 526 start/ restart experience" #108100 epic captures that enhancements need to be made to this flow, but as of Aug. 11, 2025, specific tasks and bugs are not yet captured. If you conducted an audit on this flow and found specific issues, link the bug / UX issue tickets in the comments. 
-_[TODO: Is the description of what we'd like testers to do to show relationships between found bugs/issues and the corresponding Enhancement Super Epic?]_
-
-- Create ticket for defining triage process for ticks in backlog where we don't know who will own them or priority.
-- _[TODO: Identify if there are existing tickets and create new ones other wise. This might be a two part process. Or a 2 person process. Someone has to facilitate the process]_
-- _[TODO: Bug triage / Refinement as part of the process (consolidate duplicates]_
-- [Mural](https://app.mural.co/t/nava4113/m/nava4113/1748904136573/6cc118924290977700e9a4ecd1e7a1b0e7c2e6c9) - check this mural. Eventually someone should assign the bug tickets to the appropriate team.
-- _[TODO: Bulk list of issues on Table - make in shared DBC google drive, can be excel- with observations first so that a group of testers can go in and document stuff en-mass and then someone can refine and transition to official tickets]_
