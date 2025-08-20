@@ -1,3 +1,26 @@
+[P2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/mobile/session-transcripts_all.md#p2-transcript)
+•
+[P5](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/mobile/session-transcripts_all.md#p5-transcript)
+•
+[P6](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/mobile/session-transcripts_all.md#p6-transcript)
+•
+[P7](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/mobile/session-transcripts_all.md#p7-transcript)
+•
+[P8](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/mobile/session-transcripts_all.md#p8-transcript)
+•
+[P9](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/mobile/session-transcripts_all.md#p9-transcript)
+•
+[P10](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/mobile/session-transcripts_all.md#p10-transcript)
+•
+[P11](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/mobile/session-transcripts_all.md#p11-transcript)
+•
+[P12](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/mobile/session-transcripts_all.md#p12-transcript)
+•
+[P13](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/mobile/session-transcripts_all.md#p13-transcript)
+•
+[P14](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/mobile/session-transcripts_all.md#p14-transcript)
+•
+[P16](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/mobile/session-transcripts_all.md#p16-transcript)
 
 
 ## P2 Transcript
