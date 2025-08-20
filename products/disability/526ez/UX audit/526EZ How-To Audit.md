@@ -150,6 +150,16 @@ In order to test, testers need to access the form in Staging.
 4. Login using a username and password from [the staging users list](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv). You may encounter errors with some users. Recommended users include 230, 234, 235. (If you are auditing the form during the same sprint as other team members, make sure to select different staging users so that you are not overriding each other's progress as you fill out the form.)
 5.  On the "Receive a code by phone" screen, just click "Continue"
 6. On the "Enter the 6-digit code" click "Continue" again. (The code should have automatically populated).
+
+| UserID                        | Use to Audit                                 | User Details      | Combined Disability Rating         | 
+| ----------------------------- | -------------------------------------------- | ----------------- | ---------------------------------- | 
+| vets.gov.user+xx@gmail.com    | All pathways except "Claim for Increase"     | Lorem ipsum       | Consectetur      | 
+| vets.gov.user+xx@gmail.com    | All pathways except "Claim for Increase"     | Dolor sit amet    | Incididunt       | 
+| vets.gov.user+xx@gmail.com    | All pathways except "Claim for Increase"     | Eiusmod tempor    | Minim veniam     | 
+| vets.gov.user+226@gmail.com    | "Claim for Increase" and subsequent pathways |- 30% rating for headaches, migraine <br> 50% rating for PTSD <br> Conditions VA determined aren’t service-connected: right knee           | Combined disability rating is 70%  | 
+| vets.gov.user+xx@gmail.com    | All pathways except "Claim for Increase"     | Duis aute irure   | In reprehenderit | 
+| vets.gov.user+xx@gmail.com    | All pathways except "Claim for Increase"     | Velit esse cillum | Eu fugiat nulla  | 
+
   
 ### ✏️ 6. Conduct your audit and document your findings in the Audit Tracker
 The Audit Tracker will allow us to track which parts of the form, devices, and environments have been tested. 
