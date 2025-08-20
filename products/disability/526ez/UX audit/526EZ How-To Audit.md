@@ -1,6 +1,19 @@
 # 🔧 526EZ How-To Audit  
 
-## Contents
+## Jump to
+* [1. Purpose](#🎯-1.-Purpose)
+
+* [2. Context](#2.-Context)
+  
+* [Domo](#Domo)
+
+* [Google Analytics (GA4)](#Google-Analytics)
+
+* [MyVA411](#MyVA411)
+
+* [Medallia](#Medallia)
+
+* [Datadog](#Datadog)
 
 
 ## 🎯 1. Purpose
