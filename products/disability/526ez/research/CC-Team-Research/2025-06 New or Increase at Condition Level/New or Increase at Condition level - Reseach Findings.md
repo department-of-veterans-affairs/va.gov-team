@@ -22,7 +22,9 @@ This research tested a new design for the Conditions step in the online 526EZ. T
 
 **Flowchart of the new design with key screens**
 
-![Overview of the new design user flow](media/image2.png)
+| <img src="images/fig01-flowchart.png" alt="Overview of the new design user flow" width="700"> |
+|---|
+
 
 # Research goals
 
@@ -111,7 +113,8 @@ All participants were able to complete the core flows and described the experien
 
 Participants were asked to rate the experience on a scale of 1–5 for both ease of use and time efficiency, with higher scores indicating a better experience. The chart below shows the distribution of their ratings.
 
-![](media/image5.png)
+| <img src="images/fig02-ease_of_use.png" alt="Ease of use and Time to complete satisfaction chart" width="700"> |
+|---|
 
 Many were pleasantly surprised by how short the process felt, with one participant saying it was “almost too short” to believe it was truly complete.
 
@@ -119,7 +122,8 @@ Many were pleasantly surprised by how short the process felt, with one participa
 
 ### 1a. Participants easily chose between “a condition I haven’t claimed before” and the rated conditions
 
-![](media/image12.png)
+| <img src="images/fig03-add_condition.png" alt="Adding a condition" width="300"> |
+|---|
 
 All participants understood the distinction between new and rated conditions and had no difficulty selecting the appropriate option. Several participants remarked on how helpful it was to see their existing conditions already pulled in.
 
@@ -164,7 +168,8 @@ Participants appreciated that conditions they’d already selected were taken of
 
 ### 1d. Participants understood the purpose and appreciated the organization of the Review Conditions screen, noting it enabled them to go back and edit their information
 
-![](media/image14.png)
+| <img src="images/fig04-review_condition.png" alt="Reviewing conditions" width="300"> |
+|---|
 
 Participants noticed and appreciated that the conditions were listed in the same order they had added them. They understood that the screen was intended as a final review step — a place to confirm or revise what they’d entered.
 
@@ -181,7 +186,8 @@ Participants noticed and appreciated that the conditions were listed in the same
 
 ### 1e. All participants were easily able to use the list & loop structure with a continuation question on the last screen
 
-![](media/image10.png)
+| <img src="images/fig05-loop.png" alt="List and loop" width="300"> |
+|---|
 
 All participants used the list & loop pattern correctly. One participant had a slight difficulty when trying to move on at the end, but they quickly figured it out.
 
@@ -226,7 +232,8 @@ It is possible the frequency of this problem had to do with the artificial testi
 
 Several Veterans wanted to enter a condition name that accounted for both the new condition and the old one. After not finding such an option in the autosuggestion menu, they entered free-text terms. One Veteran used the autosuggestion menu to select “Hearing loss,” then typed additional words into the text box to end up with “Hearing loss related to tinnitus.”
 
-![](media/image6.png)
+| <img src="images/fig06-autosuggest.png" alt="Using the autosuggestion" width="300"> |
+|---|
 
 *Impact:* Medium. Free text entries can’t be automated and may not get classified.
 
@@ -234,7 +241,8 @@ Several Veterans wanted to enter a condition name that accounted for both the ne
 
 - **1 of 4 participants selected the wrong cause option.**
 
-![](media/image15.png)
+| <img src="images/fig07-cause_options.png" alt="Wrong cause option" width="300"> |
+|---|
 
 In considering the 4 options on the Cause page, some participants found the choice easy, while others had to think on it a bit.
 
@@ -259,7 +267,8 @@ We asked participants to edit information for a condition they had already enter
 
 Two participants assumed the “Edit” button would bring them to a single page showing all details for that condition. When that didn’t happen, they paused, scrolled up and down, and exhibited stress before eventually clicking through and moving on.
 
-![](media/image3.png)
+| <img src="images/fig08-edit.png" alt="Editing a new condition" width="300"> |
+|---|
 
 > “I’m kinda stuck here for just a moment. I got a little stressed out… Maybe because I expected everything to be laid out there for me to edit it.”  
 > *— Participant 2*
@@ -284,7 +293,8 @@ The remaining five participants completed the Edit task without confusion. Sever
 
 ## Finding 4: The Cause options have improved, but still caused some difficulty
 
-![](media/image15.png)
+| <img src="images/fig09-cause_options.png" alt="Cause options" width="300"> |
+|---|
 
 Most participants were able to select a cause option without major difficulty, and several commented positively on the clarity of having defined scenarios to choose from. Since the prior round of testing, all four options have been edited to be easier to scan and understand; we think their performance has improved.
 
@@ -304,7 +314,8 @@ However, multiple participants misunderstood or hesitated over the fourth option
 > “I just put the first of the year and guess which year it was.”  
 > *— Participant 3*
 
-![](media/image11.png)
+| <img src="images/fig10-dates.png" alt="Date entry" width="300"> |
+|---|
 
 All participants struggled with providing accurate dates for when their conditions began or worsened, and most relied on guesswork to provide an answer. One Veteran even described this as the most difficult part of the prototype. This finding echoes what we’ve heard from VSRs: when Veterans provide dates on forms, they’re often incorrect.
 
@@ -356,7 +367,8 @@ Both issues in this finding stemmed from the same participant using a mobile pho
 
 When the Veteran using a phone tapped into the “Add a new condition” input field, the on-screen keyboard obscured the autosuggestion dropdown, making it difficult to understand whether the list was working. While this was only observed on one device, the issue may be more widespread depending on screen size, keyboard type, and how the dropdown is positioned in the viewport. Participant 3 did eventually complete the task after minimizing the keyboard manually.
 
-![](media/image9.png)
+| <img src="images/fig11-mobile.png" alt="Mobile screen" width="300"> |
+|---|
 
 ### Problem 2: Instructional language around autosuggestion was unclear
 
@@ -365,7 +377,8 @@ The on-screen instructions referred to selecting a condition from a “list,” 
 > “This is confusing… It says add the new condition from the list, and there is no list. It just has an empty box where I would type in.”  
 > *— Participant 3*
 
-![](media/image1.png)
+| <img src="images/fig12-add_condition.png" alt="Add new condition" width="300"> |
+|---|
 
 Despite getting stuck initially, the Veteran figured out the intended behavior on his own. But he was clearly frustrated.
 ## Finding 7: Autosuggestions were only partially used
@@ -383,7 +396,8 @@ When adding a new condition, only 3 of 7 participants selected a condition from 
 | **P7\***    | ✅ Yes              | Typed “ptsd” and selected from autosuggest  |                                                            |
 ## Finding 8: Page titles using the condition name helped participants stay oriented
 
-![](media/image13.png)
+| <img src="images/fig13-page_titles.png" alt="Page titles" width="300"> |
+|---|
 
 All participants were able to accurately report which condition they were working on in the follow-up screens. Several specifically pointed to the condition name in the `<h3>` header as a helpful reminder and confirmation that they were in the right place. No participant exhibited confusion about which screen they were on or whether they’d proceeded from the previous screen.
 
@@ -428,11 +442,13 @@ The instructions on this screen garnered the most attention of any screen. We ob
 
 ## Finding 10: The laterality question was easy and reassuring
 
-![](media/image8.png)
+| <img src="images/fig14-laterality.png" alt="Laterality" width="300"> |
+|---|
 
 This design removes the laterality designations (“left”, “right”, or “bilateral”) from the main conditions menu to make it shorter and easier to navigate. During testing, the more concise menu seemed helpful. For example, when participants typed “tendonitis” into the field, the “Tendonitis, shoulder” option they were looking for was visible without scrolling.
 
-![](media/image7.png)
+| <img src="images/fig15-type_laterality.png" alt="Typing condition" width="300"> |
+|---|
 
 Veterans had no problems understanding and answering the laterality question. Interestingly, one Veteran felt reassured by the laterality question, because it showed the condition she entered was something the VA understood. Likewise, another Veteran commented positively that the condition heading updated after they made their selection.  
 
@@ -602,4 +618,5 @@ This research does not include the perspectives of the following marginalized Ve
 
 [*VA-recruitment-checker*](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit?gid=790920180#gid=790920180):
 
-![Recruitment chart](media/image4.png)
+| <img src="images/fig16-recruitment.png" alt="Recruitment checker" width="700"> |
+|---|
