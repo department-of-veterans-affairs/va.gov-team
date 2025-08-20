@@ -3,7 +3,7 @@ Every other Wednesday at 2:35pm ET
 
 ### 08/20/25
 
-**Attendees:** Joie, Cindy, Andrea, Renata, Jamie, Rachel, Katrina, Elizbeth S., Dawn Henry, Angela P, Karl H, Eileen Cook, Mike M, Christine M, Angela C, Melissa J 
+**Attendees:** Joie, Cindy, Andrea, Renata, Jamie, Rachel, Katrina, Elizbeth S., Dawn H, Angela P, Karl H, Eileen C, Mike M, Christine M, Angela C, Melissa J 
 
 **Agenda**
 - Should we continue to cap health insurance policies at 2?
@@ -18,6 +18,7 @@ Every other Wednesday at 2:35pm ET
 - EOB denial codes
   - IVC wants to utilize the codes on this page to help users self-service their EOB denial reasons rather than calling the call center for this information.
   - **DECISION:** Don't use these - Joie explained that the link is for the older system and would not be helpful for benes to figure out the reseason for denial
+  - This page will have to be edited for accuracy or taken down 
   - **Action Item**: Katrina offered to share denial codes with IVC to help benes self-service. It may take some time to get the team these codes though. 
 - Testing resubmissions in staging
   - IVC reminded the partners to go through the claims resubmissions flow (shared link in the chat).
