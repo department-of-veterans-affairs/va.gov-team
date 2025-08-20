@@ -7,8 +7,20 @@
 
 <img width="368" height="243" alt="Screenshot 2025-08-01 at 3 55 45 PM" src="https://github.com/user-attachments/assets/8720f0b3-a42a-4cd7-82b9-9da690fb16f4" />
 
-## 7/1/2025 - 7/31/2025
+## 7/1/2025 - 8/15/2025
 
+
+8/11/25 20:28
+
+https://www.va.gov/manage-va-debt/dispute-debt/review-and-submit
+
+I'm trying to remove an erroneous debt. I received no feedback from the Veterans administration concerning any help whatsover with removing the debt. There is no information to contact a live person to discuss matters.
+
+8/12/25 17:54
+
+https://www.va.gov/manage-va-debt/dispute-debt/introduction#content
+
+Fill out dispute form. The form is not on this page.
 
 7/31/25 0:22
 
