@@ -126,7 +126,7 @@ Connections
 
 - Do you have a POC? Please list
 
-  - Jennifer Bertsch, Jennifer.Bertsch@va.gov
+  - Jennifer B.
 
 - Describe the encryption used for the connection in transit (e.g., Not Encrypted, TLS 1.2, TLS 1.3, mTLS). Specify the certificate source if applicable (e.g., AWS ACM, Let's Encrypt, self-signed)
 
