@@ -47,86 +47,86 @@ There is also a current list of [crews and pods](crews-and-pods.md).
 
 #### Content, IA, and Editor Experience
 
-- [Content and Information Architecture](teams/digital-experience/content-and-information-architecture/README.md)
+- [Content and Information Architecture](digital-experience/content-and-information-architecture/README.md)
 
 #### Core Veteran Experiences
 
-- [Authenticated Experience](teams/digital-experience/authenticated-experience/README.md)
-- [Digital Notifications](teams/digital-experience/digital-notifications/README.md)
-- [Financial Management](teams/digital-experience/financial-management/README.md)
-- [Iterate, Innovate, and Run](teams/digital-experience/iterate-innovate-and-run/README.md)
-- [Mobile App and Platform](teams/digital-experience/mobile-app-and-platform/README.md)
-- [Mobile Feature Support](teams/digital-experience/mobile-feature-support/README.md)
-- [Veteran Support](teams/digital-experience/veteran-support/README.md)
+- [Authenticated Experience](digital-experience/authenticated-experience/README.md)
+- [Digital Notifications](digital-experience/digital-notifications/README.md)
+- [Financial Management](digital-experience/financial-management/README.md)
+- [Iterate, Innovate, and Run](digital-experience/iterate-innovate-and-run/README.md)
+- [Mobile App and Platform](digital-experience/mobile-app-and-platform/README.md)
+- [Mobile Feature Support](digital-experience/mobile-feature-support/README.md)
+- [Veteran Support](digital-experience/veteran-support/README.md)
 
 #### Identity
 
-- [Identity](teams/digital-experience/identity/README.md)
+- [Identity](digital-experience/identity/README.md)
 
 #### Platform Services and Governance
 
-- [ADE](teams/digital-experience/ADE/README.md)
-- [Analytics and Insights](teams/digital-experience/analytics-and-insights/README.md)
-- [Design System & Forms Library](teams/digital-experience/design-forms-systems/README.md)
-- [Governance](teams/digital-experience/governance/README.md)
-- [Platform Support](teams/digital-experience/platform-support/README.md)
+- [ADE](digital-experience/ADE/README.md)
+- [Analytics and Insights](digital-experience/analytics-and-insights/README.md)
+- [Design System & Forms Library](digital-experience/design-forms-systems/README.md)
+- [Governance](digital-experience/governance/README.md)
+- [Platform Support](digital-experience/platform-support/README.md)
 
 #### Veteran-Facing Platforms
 
-- [Content Management System](teams/digital-experience/cms/README.md)
-- [Platform Infrastructure Services](teams/digital-experience/platform-infrastructure-services/README.md)
-- [Platform Security](teams/digital-experience/platform-security/README.md)
-- [Platform Site Reliability Engineering](teams/digital-experience/platform-sre/README.md)
+- [Content Management System](digital-experience/cms/README.md)
+- [Platform Infrastructure Services](digital-experience/platform-infrastructure-services/README.md)
+- [Platform Security](digital-experience/platform-security/README.md)
+- [Platform Site Reliability Engineering](digital-experience/platform-sre/README.md)
 
 ### Benefits Portfolio
 
 #### Accredited Reps Crew
 
-- [Accredited Representation Management](teams/benefits-portfolio/accredited-representation-management/README.md)
-- [Accredited Representative Facing 1](teams/benefits-portfolio/accredited-representatitive-facing-1/README.md)
-- [Accredited Representative Facing 2](teams/benefits-portfolio/accredited-representatitive-facing-2/README.md)
+- [Accredited Representation Management](benefits-portfolio/accredited-representation-management/README.md)
+- [Accredited Representative Facing 1](benefits-portfolio/accredited-representatitive-facing-1/README.md)
+- [Accredited Representative Facing 2](benefits-portfolio/accredited-representatitive-facing-2/README.md)
 
 #### Cross-Benefits Crew
 
-- [Benefits Management Tools 1](teams/benefits-portfolio/benefits-management-tools-1/README.md)
-- [Benefits Management Tools 3](teams/benefits-portfolio/benefits-management-tools-3/README.md)
-- [Decision Reviews](teams/benefits-portfolio/decision-reviews/README.md)
-- [Dependents Management](teams/benefits-portfolio/dependents-management/README.md)
-- [Employee Experience](teams/benefits-portfolio/employee-experience/README.md)
+- [Benefits Management Tools 1](benefits-portfolio/benefits-management-tools-1/README.md)
+- [Benefits Management Tools 3](benefits-portfolio/benefits-management-tools-3/README.md)
+- [Decision Reviews](benefits-portfolio/decision-reviews/README.md)
+- [Dependents Management](benefits-portfolio/dependents-management/README.md)
+- [Employee Experience](benefits-portfolio/employee-experience/README.md)
 
 #### Disability Benefits Crew
 
-- [Conditions](teams/benefits-portfolio/conditions/README.md)
-- [Disability Benefits 1](teams/benefits-portfolio/disability-benefits-1/README.md)
-- [Disability Benefits 2](teams/benefits-portfolio/disability-benefits-2/README.md)
+- [Conditions](benefits-portfolio/conditions/README.md)
+- [Disability Benefits 1](benefits-portfolio/disability-benefits-1/README.md)
+- [Disability Benefits 2](benefits-portfolio/disability-benefits-2/README.md)
 
 #### Lifestage Benefits Crew
 
-- [Pension Benefits 1](teams/benefits-portfolio/pension-benefits-1/README.md)
-- [Pension Benefits 2](teams/benefits-portfolio/pension-benefits-2/README.md)
+- [Pension Benefits 1](benefits-portfolio/pension-benefits-1/README.md)
+- [Pension Benefits 2](benefits-portfolio/pension-benefits-2/README.md)
 
 ### Health Portfolio
 
 #### MHV on VA.gov Patient Portal
 
-- [Horizon](teams/health-portfolio/horizon/README.md)
-- [Medical Records](teams/health-portfolio/medical-records/README.md)
-- [Medications, Medical Devices and Supplies](teams/health-portfolio/medications-medical-devices-supplies/README.md)
-- [Messaging](teams/health-portfolio/messaging/README.md)
+- [Horizon](health-portfolio/horizon/README.md)
+- [Medical Records](health-portfolio/medical-records/README.md)
+- [Medications, Medical Devices and Supplies](health-portfolio/medications-medical-devices-supplies/README.md)
+- [Messaging](health-portfolio/messaging/README.md)
 
 #### Unified Appointment Experience
 
-- [Hydra](teams/health-portfolio/hydra/README.md)
-- [Orion](teams/health-portfolio/orion/README.md)
-- [Ursa Minor](teams/health-portfolio/ursa-minor/README.md)
+- [Hydra](health-portfolio/hydra/README.md)
+- [Orion](health-portfolio/orion/README.md)
+- [Ursa Minor](health-portfolio/ursa-minor/README.md)
 
 #### Unknown Crew
 
-- [1010 Health Apps](teams/health-portfolio/1010-health-apps/README.md)
+- [1010 Health Apps](health-portfolio/1010-health-apps/README.md)
 
 ### BAM Portfolio
 
 #### Education
 
-- [Education Benefits Tools](teams/bam-portfolio/education-benefits-tools/README.md)
-- [Memorials Self-Service](teams/bam-portfolio/memorials-self-service/README.md)
+- [Education Benefits Tools](bam-portfolio/education-benefits-tools/README.md)
+- [Memorials Self-Service](bam-portfolio/memorials-self-service/README.md)
