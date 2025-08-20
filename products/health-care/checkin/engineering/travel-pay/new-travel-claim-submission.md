@@ -116,7 +116,6 @@ The new flow leverages the existing check-in session infrastructure to provide a
 ```json
 {
   "appointmentDateTime": "2024-01-15T10:00:00Z",
-  "appointmentName": "Primary Care Visit",
   "facilityStationNumber": "123"
 }
 ```
@@ -284,17 +283,6 @@ The new flow leverages the existing check-in session infrastructure to provide a
 - Final step that activates the claim for processing
 - No additional body parameters required
 
-**Error Handling**:
-
-- 400: Bad request
-- 401: Unauthorized
-- 403: Forbidden
-- 404: Claim not found
-- 408: Request timeout
-- 429: Too many requests
-- 500: Server error
-- 502: Bad gateway
-
 ## Data Flow and Dependencies
 
 ### Sequential Dependencies
@@ -308,39 +296,6 @@ Each step depends on the successful completion of the previous step:
 5. **Expense ID** → Optional for future reference
 6. **Claim Submission** → Final activation
 
-### Data Mapping from Check-In Session
-
-| Travel Pay API Field    | Check-In Session Source        | Notes                       |
-| ----------------------- | ------------------------------ | --------------------------- |
-| `X-Correlation-ID`      | Session UUID                   | For request tracing         |
-| `appointmentDateTime`   | Redis cached appointment date  | ISO 8601 format             |
-| `facilityStationNumber` | Redis cached `stationNo`       | Maps to facility identifier |
-| `appointmentName`       | Appointment data or default    | 5-100 character limit       |
-| `claimName`             | Derived from context           | 5-300 character limit       |
-| `claimantType`          | Patient demographics           | Veteran/Service Member/etc. |
-| `dateIncurred`          | Appointment date               | Same as appointment date    |
-| `description`           | Facility + appointment context | 5-2000 character limit      |
-| `tripType`              | Business logic                 | Likely "RoundTrip"          |
-
-## Error Handling Strategy
-
-### Retry Logic
-
-- **Transient Errors** (408, 429, 502): Implement exponential backoff retry
-- **Permanent Errors** (400, 401, 403, 404): Fail fast with clear error messages
-- **System Errors** (500): Retry with backoff, then fail
-
-### State Management
-
-- Track progress through the 6-step flow
-- Store intermediate results (appointment ID, claim ID, expense ID)
-- Enable resumption from any step if process is interrupted
-
-### Rollback Strategy
-
-- If any step fails after claim creation, consider cleanup options
-- Maintain audit trail of all attempts
-
 ## Implementation Considerations
 
 ### New V1 Controller
@@ -349,62 +304,3 @@ Each step depends on the successful completion of the previous step:
 - **Parameters**: `uuid` (session identifier), `appointment_date` (optional)
 - **Authentication**: Reuse existing session authorization
 - **Response**: Immediate acknowledgment with job ID for tracking
-
-### Orchestration Service
-
-- **Dependencies**: `CheckIn::V2::Session`, `TravelClaim::AuthManager`
-- **Flow Control**: Sequential API calls with proper error handling
-- **State Persistence**: Store progress in Redis for monitoring
-
-### Monitoring and Observability
-
-- **Correlation IDs**: Track requests across all 6 steps
-- **Metrics**: Success/failure rates, timing for each step
-- **Logging**: Structured logging with correlation context
-- **Alerting**: Notify on failures or timeouts
-
-## Benefits of New Approach
-
-### Reliability
-
-- **Granular Control**: Each step can be monitored and retried independently
-- **Better Error Handling**: Specific failures can be identified and addressed
-- **State Persistence**: Process can be resumed if interrupted
-
-### Maintainability
-
-- **Clear Separation**: Each API call has a single responsibility
-- **Easier Debugging**: Issues can be isolated to specific steps
-- **Better Testing**: Each step can be unit tested independently
-
-### User Experience
-
-- **Transparency**: Users can see progress through the claim process
-- **Recovery**: Failed claims can be retried without starting over
-- **Status Tracking**: Real-time updates on claim processing
-
-## Migration Strategy
-
-### Phase 1: New V1 Endpoint
-
-- Implement new V1 controller and orchestration service
-- Deploy alongside existing V0 endpoint
-- Feature flag to control which flow is used
-
-### Phase 2: Gradual Rollout
-
-- Route percentage of traffic to new flow
-- Monitor success rates and performance
-- Gradually increase traffic to new flow
-
-### Phase 3: Deprecation
-
-- Remove old V0 endpoint
-- Clean up legacy code and infrastructure
-- Update documentation and client applications
-
-## Conclusion
-
-The new V1 travel claim backend flow represents a significant improvement over the current single endpoint approach. By breaking down the process into discrete, manageable steps, we gain better control, observability, and reliability while maintaining the seamless integration with the existing check-in session infrastructure.
-
-This approach follows modern API design principles and provides a foundation for future enhancements to the travel claim system.
