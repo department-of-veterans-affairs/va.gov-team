@@ -60,7 +60,8 @@ module TeamParser
     teams_index = file_path.index('/teams/')
     return nil unless teams_index
 
-    relative_path = file_path[teams_index + 1..-1]
+    # Get the relative path starting after /teams/
+    relative_path = file_path[teams_index + 7..-1] # +7 to skip '/teams/'
     relative_path
   end
 
