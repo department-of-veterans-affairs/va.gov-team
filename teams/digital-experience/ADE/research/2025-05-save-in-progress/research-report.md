@@ -5,7 +5,7 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Accessibility Digital Experience (ADE)**
 
-**Date:** 08/19/2025
+**Date:** 08/20/2025
 
 **Contacts:** Cindy Merrill
 
@@ -34,7 +34,7 @@ Veterans may fill out web forms on VA.gov throughout their lives, including ALL 
 
 #### Figure 1 shows two accessibility issues
 
-<img src="./images/2-a11y-issues.png" width="50%" height="50%" alt="This is a sample form question followed by an underlined link that says 'Finish this request later' and then a Continue button. Below the Continue button is a green informational box that says 'Your request has been saved. We saved it on April 30, 2025, at 5:15 p.m. PDT. Your request ID number is 44849.'">
+<img src="./images/2-a11y-issues.png" width="50%" height="50%" alt="The current Production version of a sample form question followed by an underlined link that says 'Finish this request later' and then a 'Continue' button. Below the 'Continue' button is a light green information box that says 'Your request has been saved. We saved it on April 30, 2025, at 5:15 p.m. PDT. Your request ID number is 44849.'">
 
 ### Revised design
 
@@ -45,7 +45,7 @@ We are testing a modification of the VA Design System [Header - Minimal componen
 We believe that removing the "save in progress" alert will be OK because there is already text about saving on both the authenticated version of the form intro page and the first page of the form. One goal of this current research is to obtain user feedback on the revised design.
 
 #### Figure 2 shows the revised design
-<img src="./images/2-a11y-issues-fix.png" width="50%" height="50%" alt="This shows the sample form question with 2 buttons below: white 'Finish later' button on the left, and blue 'Continue' button on the right. There is no green informational box.">
+<img src="./images/2-a11y-issues-fix.png" width="50%" height="50%" alt="A revised version of the sample form with a light blue information box above the form question that says 'We'll save your request on every change. You can stop anytime, and come back later to finish.' Below the question are two buttons: a white 'Finish later' button on the left, and a blue 'Continue' button on the right.">
 
 ### Past research 
 
