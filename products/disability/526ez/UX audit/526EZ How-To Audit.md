@@ -11,9 +11,9 @@
 
 * [MyVA411](#MyVA411)
 
-* [Medallia](#Medallia)
+* [How to Conduct an Audit of the 526EZ](#How-to-Conduct-an-Audit-of-the-526EZ)
 
-* [Post-Audit "To-Do List" For PMs and POs](#Post-Audit-"To-Do-List"-For-PMs-and-POs)
+* [PM and PO Post Audit Tasks](#PM-and-PO-Post-Audit-Tasks)
 
 
 ## Purpose
@@ -47,7 +47,7 @@ Auditing helps:
 
 This How-To document ensures we evaluate the form consistently and track issues clearly.
 
-## For New / Onboarding Team Members
+## For New or Onboarding Team Members
 👋 If you are a team member who has recently joined the team and is in the onboarding process, auditing the 526EZ form is a great way to build context around the product we work on. 
 
 ### Your objectives in auditing the 526EZ are:
@@ -153,7 +153,7 @@ The Audit Tracker will allow us to track which parts of the form, devices, and e
 - In order to prevent ticket duplicates, you will not create tickets for your findings. PMs and POs will refine the spreadsheet and transition findings into tickets.  
 
 ---
-## Post-Audit "To-Do List" For PMs and POs
+## PM and PO Post Audit Tasks
 1. Review the [Audit Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1Y_JOzPltc_3Rb4OhdGTTCHPArLJpk12RpgkoJ2vxcMc/edit?gid=901203816#gid=901203816) for new findings. There are columns within the spreadsheet for PMs to indicate if a finding's status is a:
   - `New Issue` where a new ticket can be created
   - `Dupe` where a previously created ticket can be updated
