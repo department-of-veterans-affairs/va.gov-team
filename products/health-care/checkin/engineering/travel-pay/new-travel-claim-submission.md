@@ -51,12 +51,6 @@ The new flow leverages the existing check-in session infrastructure to provide a
 - Facility type determines client number (OH vs. standard)
 - Token cached in Redis for reuse
 
-**Error Handling**:
-
-- 401: Invalid credentials
-- 400: Missing required parameters
-- 500: Server error
-
 ---
 
 ### Step 2: System Access Token (`/api/v4/auth/system-access-token`)
@@ -100,12 +94,6 @@ The new flow leverages the existing check-in session infrastructure to provide a
 - Uses OAuth2 token from Step 1 for authentication
 - ICN from check-in session for patient identification
 - Token cached with non-PHI key for security
-
-**Error Handling**:
-
-- 401: Unauthorized (invalid OAuth2 token)
-- 400: Bad request
-- 500: Server error
 
 ---
 
@@ -162,13 +150,6 @@ The new flow leverages the existing check-in session infrastructure to provide a
 - `appointmentName` ← Derived from appointment data or default value
 - Returns array of matching appointments (use first one)
 
-**Error Handling**:
-
-- 401: Unauthorized (invalid system token)
-- 422: Unprocessable content (invalid appointment data)
-- 408: Request timeout
-- 500: Server error
-
 ---
 
 ### Step 4: Create Claim (`POST /api/v3/claims`)
@@ -211,16 +192,6 @@ The new flow leverages the existing check-in session infrastructure to provide a
 - `claimName` ← Derived from appointment context (5-300 chars)
 - `claimantType` ← Determined from patient demographics
 - `claimId` becomes required for subsequent steps
-
-**Error Handling**:
-
-- 400: Bad request (missing required fields)
-- 401: Unauthorized
-- 403: Forbidden
-- 408: Request timeout
-- 429: Too many requests
-- 500: Server error
-- 502: Bad gateway
 
 ---
 
