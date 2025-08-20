@@ -1,6 +1,6 @@
 # SiS VA Mobile Monitoring
 
-## [SiS VA Mobile Monitoring Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/kdx-9e6-5hg?fromUser=false&refresh_mode=sliding&live=true)
+## [SiS VA Mobile Monitoring Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/3di-esj-7wy/identity-va-mobile-log-queries?fromUser=false&refresh_mode=sliding&live=true)
 
 ## SiS VA Mobile Alerts
 
@@ -54,7 +54,7 @@ Mobile Device Errors - raw error count & return % by iOS/Android, overall Mobile
 
 SiS Mobile Route errors - lists the count of errors by the error message. Widgets for
   - callback
-  - mobile
+  - token
   - refresh
 
 SiS Android/iOS Refresh error count widgets
