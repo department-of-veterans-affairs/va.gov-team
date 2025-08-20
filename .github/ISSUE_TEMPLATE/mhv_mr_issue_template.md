@@ -36,7 +36,8 @@ As a Veteran, I want [ ], so that [ ].
 ## How to configure this issue
 - [ ] **Labeled with Team** (`TEAM-mhv-medical-records`)
 - [ ] **Labeled with Product** (`PRODUCT-mhv-medical-records`)
-- [ ] **Labeled with Feature** (`facilities-cg`, `registration`,  `toxic-exposure`, etc.)
+- [ ] **Labeled with Feature** (`FEAT-mhv-mr-roi-notification`, `FEAT-mhv-mr-break-out-images`, etc.)
 - [ ] **Labeled with Discipline** (`backend`, `frontend`,  `design`, `QA`, `research`, etc.)
-- [ ] **Project selected** (`MHV`)
-- [ ] **Epic Reationship (parent) identified**
+- [ ] **Labeled with Issue Type** (`epic`, `issue`,  `bug`, `initiative`, `super epic`, `task`, etc.)
+- [ ] **Project selected** (`MHV - Medical Records`,include `Mobile-Feature-Support` or `VA-Mobile-App-Team` if Mobile work is required.)
+- [ ] **Relationship (parent) identified**
