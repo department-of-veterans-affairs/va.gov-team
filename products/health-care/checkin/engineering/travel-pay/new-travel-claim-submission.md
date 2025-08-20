@@ -18,7 +18,7 @@ The new flow leverages the existing check-in session infrastructure to provide a
 - **Session Management**: Inherits all check-in context and appointment details
 - **Audit Trail**: Full traceability from check-in to claim submission
 
-## The 6-Step Flow
+## The 6 sequential external requests to the Travel Pay API
 
 ### Step 1: OAuth2 Token (`/oauth2/token`)
 
