@@ -11,22 +11,20 @@ We are planning for this tool to exist on its own page but linked from the 'Mana
 - `What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?` </br>
 The Dual Benefit Eligbility Tool would be a new product on a new page
 
-**[Link to product brief](url goes here).** TBD - needs to go through the collab cycle
-
+[Link to product brief](url goes here)- **update once we go through collaboration cycle.**
 
 ### OCTO-DE Priorities
 Objective 1:  VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.  
 
-
 ### Veteran Journey
 Reinventing Myself - Aquiring the appropriate education, new skills, and credentials: Veterans and beneficiaries will have the ability to receieve benefits that better fit their circumstances and/or gain more education benefits depending on their service. 
 
-## Research Goals	
+<p>&nbsp;</p>
 
-### Goals
-1. Gather more insight into GI Bill beneficiares understanding of benefit language and what terminology would be most beneficial to see
-2. Determine if the organization of information and layout in the flow, primarly in the allocation step, is intuitive and easy for users
-3. Determine what information is neccessary for users to see to make create the right allocation
+## Research Goals	
+- Gather more insight into GI Bill beneficiares understanding of benefit language and what terminology would be most beneficial to see
+- Determine if the organization of information and layout in the flow, primarly in the allocation step, is intuitive and easy for users
+- Determine what information is neccessary for users to see to make create the right allocation
   
 ### Outcome
 User research will inform improvements needed and validate interactions in the flow, information displayed, and allocation method that will best help users easily understand and make decisions in regards to their changing their benefit.
@@ -40,10 +38,12 @@ User research will inform improvements needed and validate interactions in the f
 ### Hypotheses
 The impact of Rudisill has left many GI Bill beneficiaries confused on what actions they can take to better utilize their education benefits. We hypothesize that by using this tool, users will have a better understanding of how Rudisill can impact their benefits by translating their qualifying service days to real outcomes. We hypothesize that presenting users with clear information about their benefit level, benefit type, entitlement, along with other important information will build their trust in the recommendation. We assume there will be some confusion on the benefit language used and within the allocation step as those are either new interactions or have varied understandings within the GI Bill beneficiary user group.
 
+<p>&nbsp;</p>
+
 ## Methodology  
 We will engage in moderated usability testing conducted remotely using Zoom. Participants will be recruited using Perigean. These users will be asked to consider how they'd look for the Dual Benefit Eligbility Tool, then will be provided a link of the prototype of the feature. The sessions will be recorded, and observers and notetakers may be in attendance.
 
-<details><summary>Additional resources</summary> 
+<details><summary>Reminder</summary> 
 	
 - Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
 - Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support. 
@@ -58,11 +58,14 @@ We will engage in moderated usability testing conducted remotely using Zoom. Par
 
 - [X] **Remote sessions via Zoom (set up by Perigean)**
 - [ ] **In-person**
+      
+<p>&nbsp;</p>
 
-## Research materials 📔
+## Research materials
 
-> [!NOTE]
+<details><summary>Reminder</summary>
 > **Your OCTO/VA lead must review and approve all research materials – including this plan –  prior to submitting a recruitment request.**
+</details>
 
 - [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/my-education-benefits/research/2025-08-Dual-Benefit-Eligibility-Tool/conversation-guide-WIP.md)
 - [Prototype](LINK HERE)
@@ -93,8 +96,9 @@ Our intended audience will be Veterans who are eligible according to the new Rud
 - The participants should have Zoom downloaded prior to the session
 - The participants should know how to screenshare
 
-## Timeline 🗓️
-> [!NOTE]
+<p>&nbsp;</p>
+
+## Timeline 
 > **Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.** 
 
 ### Optional Kick-off Call with Perigean
@@ -109,7 +113,7 @@ Our intended audience will be Veterans who are eligible according to the new Rud
 > **Send pilot participant email in study Slack channel**
 
 - `Pilot participant name:` **[Enter name]**
-- `Date and time of pilot session:` **[Enter time]** 
+- `Date and time of pilot session:` **[Enter time]**
 
 ### Research sessions
 - `Planned dates of research:` **[Enter dates MM/DD-MM/DD]**
@@ -131,16 +135,19 @@ Sessions will likely last 30-35 minutes.
 
 - Please leave 30 minutes between sessions 
 - Please do not exceed 3 sessions a day 
+
+<p>&nbsp;</p>
   
-## Team Roles  🕵️👩‍💻👩‍🔬
+## Team Roles 
 - Moderator: Joanna Yu 
 - Research guide writing and task development: Joanna Yu
 - Participant recruiting & screening: Perigean
 - Project point of contact: Joanna Yu
 - Participant(s) for pilot test: TBD
 - Note-takers: Alexander Ferzola ; Allison Nguyen
+  
 <p>&nbsp;</p>
 
-## Approvals ✅
+## Approvals
 - `Reviewed by [OCTO Product Owner, Team Lead] on [MM-DD-YYYY]`
 - `Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]`
