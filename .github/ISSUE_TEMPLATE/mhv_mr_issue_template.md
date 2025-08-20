@@ -1,7 +1,7 @@
 ---
 name: MHV on VA.gov Medical Records Issue Template
 about: For the My HealtheVet Medical Records Web and Mobile Team
-title: "MHV MR: - initiative: story title"
+title: "MHV MR: - Initiative: story title"
 labels: TEAM-mhv-medical-records, PRODUCT-mhv-medical-records, needs-refinement
 project: 1728
 assignees: ''
@@ -40,4 +40,5 @@ As a Veteran, I want [ ], so that [ ].
 - [ ] **Labeled with Discipline** (`backend`, `frontend`,  `design`, `QA`, `research`, etc.)
 - [ ] **Labeled with Issue Type** (`epic`, `issue`,  `bug`, `initiative`, `super epic`, `task`, etc.)
 - [ ] **Project selected** (`MHV - Medical Records`,include `Mobile-Feature-Support` or `VA-Mobile-App-Team` if Mobile work is required.)
+- [ ] **Select status** (`Ongoing`,`Icebox`,`Backlog`,`In Progress`,`Blocked`,etc.)
 - [ ] **Relationship (parent) identified**
