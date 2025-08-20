@@ -17,7 +17,7 @@
 
 - **VA Business Owner:** OCTO
 - **Portfolio:** Digital Experience
-- **Crew or Pod:** Veteran-Facing Platforms
+- **Crew or Pod:** Platform Services and Governance
 - **Contracting Organization:** Oddball, Wilcore, AdHoc
 
 ### Team Roster

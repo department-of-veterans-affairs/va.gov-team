@@ -5,7 +5,7 @@
 ### Basic Details
 
 - **Team Name:** Content and Information Architecture
-- **Short Name:** content-and-information-architecture _(Used for directory URLs and should ideally match your GitHub team name below)_
+- **Short Name:** content-and-ia _(Used for directory URLs and should ideally match your GitHub team name below)_
 - **GitHub Team Name:** [github-team-name] _(Exact name of GitHub team which is also found in your GitHub team link below)_
 - **GitHub Team Labels:**
   - [github-label-1]
@@ -17,7 +17,7 @@
 
 - **VA Business Owner:** OCTO
 - **Portfolio:** Digital Experience
-- **Crew or Pod:** [crew-or-pod-name] _refer to crews-and-pods.md_
+- **Crew or Pod:** Content, IA, and Editor Experience
 - **Contracting Organization:** [Name of contracting company, if applicable]
 
 ### Team Roster

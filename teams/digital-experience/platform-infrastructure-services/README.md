@@ -17,7 +17,7 @@
 
 - **VA Business Owner:** OCTO
 - **Portfolio:** Digital Experience
-- **Crew or Pod:** [crew-or-pod-name] _refer to crews-and-pods.md_
+- **Crew or Pod:** Veteran-Facing Platforms
 - **Contracting Organization:** [Name of contracting company, if applicable]
 
 ### Team Roster

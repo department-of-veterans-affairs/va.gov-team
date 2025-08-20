@@ -17,12 +17,10 @@
 
 - **VA Business Owner:** OCTO
 - **Portfolio:** Digital Experience
-- **Crew or Pod:** [crew-or-pod-name] _refer to crews-and-pods.md_
-- **Contracting Organization:** [Name of contracting company, if applicable]
+- **Crew or Pod:** Platform Services and Governance
+- **Contracting Organization:** Oddball
 
 ### Team Roster
-
-Directory system will parse this section to display team member contact information
 
 #### OCTO-DE Leads
 

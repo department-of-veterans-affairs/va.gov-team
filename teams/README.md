@@ -7,36 +7,45 @@ This space is for all teams currently working on and with the VA.gov platform an
 
 ## Required documentation
 
-- **Team README.md file.** Teams must have a team README.md file. This file is used to produce the new Team and Product Directory and will be enforced upon entry into the Collaboration Cycle. Use the provided [template](team-readme-template.md).
+- **Team README.md file.** Teams must have a team README.md file. This file is used to produce the new Team and Product Manifest and will be enforced upon entry into the Collaboration Cycle. Use the provided [template](team-readme-template.md) and follow the instructions therein.
 - **Team charter.** Teams may also created a team charter using the provided [team charter template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/team-charter-template.md).
 
 ## Current team manifest
 
-Current list of [crews and pods](crews-and-pods.md).
-
 ### Digital Experience
+
+#### Content, IA, and Editor Experience
+
+- [Content and Information Architecture](teams/digital-experience/content-and-information-architecture/README.md)
+
+#### Core Veteran Experiences
+
+- [Authenticated Experience](teams/digital-experience/authenticated-experience/README.md)
+- [Digital Notifications](teams/digital-experience/digital-notifications/README.md)
+- [Financial Management](teams/digital-experience/financial-management/README.md)
+- [Iterate, Innovate, and Run](teams/digital-experience/iterate-innovate-and-run/README.md)
+- [Mobile App and Platform](teams/digital-experience/mobile-app-and-platform/README.md)
+- [Mobile Feature Support](teams/digital-experience/mobile-feature-support/README.md)
+- [Veteran Support](teams/digital-experience/veteran-support/README.md)
+
+#### Identity
+
+- [Identity](teams/digital-experience/identity/README.md)
+
+#### Platform Services and Governance
+
+- [ADE](teams/digital-experience/ADE/README.md)
+- [Analytics and Insights](teams/digital-experience/analytics-and-insights/README.md)
+- [Design System & Forms Library](teams/digital-experience/design-forms-systems/README.md)
+- [Governance](teams/digital-experience/governance/README.md)
+- [Platform Support](teams/digital-experience/platform-support/README.md)
 
 #### Veteran-Facing Platforms
 
-- [Design System & Forms Library](teams/digital-experience/design-forms-systems/README.md)
-
-#### To Be Determined (Digital Experience)
-
-- [Analytics and Insights](teams/digital-experience/analytics-and-insights/README.md)
-- [Authenticated Experience](teams/digital-experience/authenticated-experience/README.md)
 - [Content Management System](teams/digital-experience/cms/README.md)
-- [Content and Information Architecture](teams/digital-experience/content-and-information-architecture/README.md)
-- [Digital Notifications](teams/digital-experience/digital-notifications/README.md)
-- [Financial Management](teams/digital-experience/financial-management/README.md)
-- [Governance](teams/digital-experience/governance/README.md)
-- [Identity](teams/digital-experience/identity/README.md)
-- [Iterate, Innovate, and Run](teams/digital-experience/iterate-innovate-and-run/README.md)
-- [Mobile App and Platform](teams/digital-experience/mobile-app-and-platform/README.md)
 - [Platform Infrastructure Services](teams/digital-experience/platform-infrastructure-services/README.md)
 - [Platform Security](teams/digital-experience/platform-security/README.md)
 - [Platform Site Reliability Engineering](teams/digital-experience/platform-sre/README.md)
-- [Platform Support](teams/digital-experience/platform-support/README.md)
-- [Veteran Support](teams/digital-experience/veteran-support/README.md)
 
 ### Benefits Portfolio
 
@@ -88,7 +97,6 @@ Current list of [crews and pods](crews-and-pods.md).
 #### Unknown Crew
 
 - [1010 Health Apps](teams/health-portfolio/1010-health-apps/README.md)
-
 ## About this manifest
 
 Manifest is a new series of scripts and files that aims to replace the VFS Product Directory and augment parts of Atlas. You can follow along in this [initiative](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59141).
@@ -107,4 +115,3 @@ Unfortunately, neither is complete nor up-to-date. The Platform Services & Gover
 3. teams/health-portfolio
 
 Those readme files will be linted upon update to retain the formatting of key sections such as "Team Information". Those files will also point to YAML files for each product that the team owns in [products](../products/). This will in turn allow us to aggregate a list of both teams and products. The goal is to provide a simple way for teams to maintain their own information while still providing the Platform with a source of truth for the teams operating on the platform. Watch this space.
-

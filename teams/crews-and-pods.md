@@ -3,10 +3,23 @@
 ## Digital Experience (Crews)
 
 * Identity
+  * Crew Leads: Tom Black, Samara Strauss
 * Content, IA, and Editor Experience
+  * Crew Lead: Danielle Thierry
+  * OCTO PO: Mikki Northuis
 * Core Veteran Experiences
+  * Crew Lead: Dave Conlon
+  * OCTO PO: Chante Lantos-Swett
+  * OCTO PO: Ryan Thurlwell
 * Platform Services and Governance
+  * Crew Lead: Matthew Dingee
+  * OCTO PO: Mike Land
+  * Research Lead: Shane Strassberg
+  * OCTO PO: Martha Wilkes
 * Veteran-Facing Platforms
+  * Crew Leads: Steve Albers, Erika Washburn
+  * OCTO PO: Ray Wang
+  * Security: Andrew Mo
 
 ## Benefits (Crews)
 

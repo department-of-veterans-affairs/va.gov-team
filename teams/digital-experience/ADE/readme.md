@@ -119,3 +119,32 @@ For research help specifically, submit a [research intake ticket](https://github
 
 ### Attend ADE office hours
 You can also reach us by attending our weekly office hours on Wednesdays at 3:00 PM Eastern on Zoom. [Sign up for a time slot on Calendly.](https://calendly.com/platform-office-hours/accessibility-office-hours)
+
+## Team Information
+
+### Basic Details
+
+- **Team Name:** ADE
+- **Short Name:** ade _(Used for directory URLs and should ideally match your GitHub team name below)_
+- **GitHub Team Name:** [github-team-name] _(Exact name of GitHub team which is also found in your GitHub team link below)_
+- **GitHub Team Labels:**
+  - [github-label-1]
+  - [github-label-2]
+- **GitHub Team Link:** [https://github.com/orgs/department-of-veterans-affairs/teams/github-team-name]
+- **Slack Channel:** [#accessibility-help](https://dsva.slack.com/archives/C8E985R32)
+
+### Organizational Affiliation
+
+- **VA Business Owner:** OCTO
+- **Portfolio:** Digital Experience
+- **Crew or Pod:** Platform Services and Governance
+- **Contracting Organization:**
+
+### Team Roster
+
+#### OCTO-DE Leads
+
+- **Name:** Martha Wilkes
+- **GitHub:** [@artsymartha68](https://github.com/artsymartha68)
+- **Email:** Martha.Wilkes@va.gov
+- **Role:** OCTO-DE Lead

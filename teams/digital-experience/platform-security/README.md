@@ -17,7 +17,7 @@
 
 - **VA Business Owner:** OCTO
 - **Portfolio:** Digital Experience
-- **Crew or Pod:** [crew-or-pod-name] _refer to crews-and-pods.md_
+- **Crew or Pod:** Veteran-Facing Platforms
 - **Contracting Organization:** [Name of contracting company, if applicable]
 
 ### Team Roster
@@ -29,6 +29,11 @@ Directory system will parse this section to display team member contact informat
 - **Name:** Ray Wang
 - **GitHub:** [@raywangoctova](https://github.com/raywangoctova)
 - **Email:** gang.wang@va.gov
+- **Role:** OCTO-DE Lead
+
+- **Name:** Andrew Mo
+- **GitHub:** [@amo-va-octo](https://github.com/amo-va-octo)
+- **Email:** Andrew.Mo@va.gov
 - **Role:** OCTO-DE Lead
 
 #### Team Representative

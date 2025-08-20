@@ -1,23 +1,23 @@
-# Education Benefits Tools
+# Memorials Self-Service
 
 ## Team Information
 
 ### Basic Details
 
-- **Team Name:** Education Benefits Tools
-- **Short Name:** education-benefits-tools _(Used for directory URLs and should ideally match your GitHub team name below)_
+- **Team Name:** Memorials Self-Service
+- **Short Name:** memorials-self-service _(Used for directory URLs and should ideally match your GitHub team name below)_
 - **GitHub Team Name:** [github-team-name] _(Exact name of GitHub team which is also found in your GitHub team link below)_
 - **GitHub Team Labels:**
   - [github-label-1]
   - [github-label-2]
 - **GitHub Team Link:** [https://github.com/orgs/department-of-veterans-affairs/teams/github-team-name]
-- **Slack Channel:** [#education-benefits-tools](https://dsva.slack.com/channels/education-benefits-tools)
+- **Slack Channel:** [#memorials-self-service](https://dsva.slack.com/channels/memorials-self-service)
 
 ### Organizational Affiliation
 
-- **VA Business Owner:** OCTO
-- **Portfolio:** Benefits
-- **Crew or Pod:** [crew-or-pod-name] _refer to crews-and-pods.md_
+- **VA Business Owner:** OIT
+- **Portfolio:** BAM (Benefits and Memorials)
+- **Crew or Pod:** Education
 - **Contracting Organization:** [Name of contracting company, if applicable]
 
 ### Team Roster
@@ -26,9 +26,9 @@ Directory system will parse this section to display team member contact informat
 
 #### Product Owner
 
-- **Name:** Darla van Nieukerk
-- **GitHub:** N/A
-- **Email:** [darla.vannieukerk@va.gov]
+- **Name:** [BAM Product Owner name]
+- **GitHub:** [@github-username]
+- **Email:** [contact-email@va.gov]
 - **Role:** Product Owner
 
 #### Team Representative
@@ -44,7 +44,7 @@ Brief description of your team's mission, focus areas, and how you support Veter
 
 ## Products We Own
 
-> Directory system will cross-reference these with product details.yml files containing `team: "education-benefits-tools"`
+> Directory system will cross-reference these with product details.yml files containing `team: "memorials-self-service"`
 
 - **[Product 1 Directory Entry]:** Link to product in /products directory when available and provide a brief description.
 - **[Product 2 Directory Entry]:** Link to product in /products directory when available and provide a brief description.

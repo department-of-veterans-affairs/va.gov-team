@@ -17,12 +17,10 @@
 
 - **VA Business Owner:** OCTO
 - **Portfolio:** Digital Experience
-- **Crew or Pod:** [crew-or-pod-name] _refer to crews-and-pods.md_
+- **Crew or Pod:** Core Veteran Experiences
 - **Contracting Organization:** [Name of contracting company, if applicable]
 
 ### Team Roster
-
-Directory system will parse this section to display team member contact information
 
 #### OCTO-DE Leads
 

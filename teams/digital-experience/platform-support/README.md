@@ -5,20 +5,20 @@
 ### Basic Details
 
 - **Team Name:** Platform Support
-- **Short Name:** platform-support _(Used for directory URLs and should ideally match your GitHub team name below)_
-- **GitHub Team Name:** [github-team-name] _(Exact name of GitHub team which is also found in your GitHub team link below)_
+- **Short Name:** platform-support
+- **GitHub Team Name:** [platform-support]
 - **GitHub Team Labels:**
-  - [github-label-1]
-  - [github-label-2]
-- **GitHub Team Link:** [https://github.com/orgs/department-of-veterans-affairs/teams/github-team-name]
+  - [platform-tech-team-support]
+  - [Platform-Support-Sprint-Work]
+- **GitHub Team Link:** [https://github.com/orgs/department-of-veterans-affairs/teams/platform-support]
 - **Slack Channel:** [#vfs-platform-support](https://dsva.slack.com/channels/vfs-platform-support)
 
 ### Organizational Affiliation
 
 - **VA Business Owner:** OCTO
 - **Portfolio:** Digital Experience
-- **Crew or Pod:** [crew-or-pod-name] _refer to crews-and-pods.md_
-- **Contracting Organization:** [Name of contracting company, if applicable]
+- **Crew or Pod:** Platform Services and Governance
+- **Contracting Organization:** Oddball
 
 ### Team Roster
 
@@ -26,7 +26,7 @@ Directory system will parse this section to display team member contact informat
 
 #### OCTO-DE Leads
 
-- **Name:** Matt Dingee
+- **Name:** Matthew Dingee
 - **GitHub:** [@humancompanion-usds](https://github.com/humancompanion-usds)
 - **Email:** matthew.dingee@va.gov
 - **Role:** OCTO-DE Lead
