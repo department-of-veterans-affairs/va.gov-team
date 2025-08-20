@@ -20,6 +20,9 @@ What is the difference between DIC and Survivor's pension:
    - Benefits may or may not be taxed based on recipients income
    - So they are separate and active programs. Still not clear why they share the same application form but the survivor's pension may require additional forms
    - Dependents affect the rates for both
+- Summary from SME (Jennifer Feuer)
+   - DIC is a service-connected benefits where a survivor gets a flat monthly rate if a Veteran died from a service-connected disability. It's actually a comp benefit that P&F manages. It's paid out of the Comp Service funds. Pension and Suvivors Pension are for Veterans or survivors of Veterans who served in war time periods (and a few other caveats) and who have an income and net worth below a certain amount
+   - There is also Parents DIC, but that's an income-based benefit that always requires a manaul review bc it's so wonky and rare 
 
 Source: [Amy Grace Wells, July 2025](https://dsva.slack.com/archives/C07RB9N9M6J/p1752781387946729)
 </details>
