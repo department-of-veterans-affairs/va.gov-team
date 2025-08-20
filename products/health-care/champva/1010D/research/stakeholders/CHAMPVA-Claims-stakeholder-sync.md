@@ -3,7 +3,7 @@ Every other Wednesday at 2:35pm ET
 
 ### 08/20/25
 
-**Attendees:** Joie, Cindy, Andrea, Renata, Jamie, Rachel, Katrina, Elizbeth S. 
+**Attendees:** Joie, Cindy, Andrea, Renata, Jamie, Rachel, Katrina, Elizbeth S., Dawn Henry, Angela P, Karl H, Eileen Cook, Mike M, Christine M, Angela C, Melissa J 
 
 **Agenda**
 - Should we continue to cap health insurance policies at 2?
