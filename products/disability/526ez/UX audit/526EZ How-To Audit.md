@@ -165,7 +165,7 @@ The Audit Tracker will allow us to track which parts of the form, devices, and e
 ## PM and PO Post Audit Tasks
 1. Review the [Audit Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1Y_JOzPltc_3Rb4OhdGTTCHPArLJpk12RpgkoJ2vxcMc/edit?gid=901203816#gid=901203816) for new findings. There are columns within the spreadsheet for PMs to indicate if a finding's status is a:
   - `New Issue` where a new ticket can be created
-  - `Dupe` where a previously created ticket can be updated
+  - `Duplicate` where a previously created ticket can be updated
   - `Already Addressed` where the finding is no longer an issue or will be addressed in broader changess happening to the form.
 2. In order to select the appropriate status, review previously created tickets under the ["Bug Bash Super Epic"](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110810) to determine if you should create a new ticket or update an already existing one. 
 3. Check for in-progress work, or upcoming Super Epics on the [526EZ Product Prioritization Mural](https://app.mural.co/t/nava4113/m/nava4113/1748904136573/6cc118924290977700e9a4ecd1e7a1b0e7c2e6c9) to determine if new tickets should live under those Super Epics or if tickets might be dupes.
