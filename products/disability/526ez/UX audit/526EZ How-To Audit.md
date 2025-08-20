@@ -3,7 +3,7 @@
 ## Jump to
 * [1. Purpose](#🎯-1.-Purpose)
 
-* [2. Context](#2.-Context)
+* [2. Context](#Context)
   
 * [Domo](#Domo)
 
