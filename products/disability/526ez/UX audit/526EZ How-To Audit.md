@@ -156,7 +156,7 @@ In order to test, testers need to access the form in Staging.
 | vets.gov.user+xx@gmail.com    | All pathways except "Claim for Increase"     | Lorem ipsum       | Consectetur      | 
 | vets.gov.user+xx@gmail.com    | All pathways except "Claim for Increase"     | Dolor sit amet    | Incididunt       | 
 | vets.gov.user+xx@gmail.com    | All pathways except "Claim for Increase"     | Eiusmod tempor    | Minim veniam     | 
-| vets.gov.user+226@gmail.com    | "Claim for Increase" and subsequent pathways |- 30% rating for headaches, migraine <br> - 50% rating for PTSD <br> Conditions VA determined aren’t service-connected: right knee           | Combined disability rating is 70%  | 
+| vets.gov.user+226@gmail.com    | "Claim for Increase" and subsequent pathways |- 30% rating for headaches, migraine <br> - 50% rating for PTSD <br> - Conditions VA determined aren’t service-connected: right knee           | Combined disability rating is 70%  | 
 | vets.gov.user+xx@gmail.com    | All pathways except "Claim for Increase"     | Duis aute irure   | In reprehenderit | 
 | vets.gov.user+xx@gmail.com    | All pathways except "Claim for Increase"     | Velit esse cillum | Eu fugiat nulla  | 
 
