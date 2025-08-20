@@ -2,7 +2,7 @@
 
 ## Static landing page
 
-- URL: https://va.gov/health-care/schedule-view-va-appointments/
+- URL: https://www.va.gov/health-care/manage-appointments/
 - Title tag: `[Page H1] | Veterans Affairs`
 - Navigation: `VA.gov home > Health care > [Page H1]` (Breadcrumb)
 
