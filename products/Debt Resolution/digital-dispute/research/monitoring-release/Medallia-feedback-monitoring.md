@@ -9,18 +9,17 @@
 
 ## 7/1/2025 - 8/15/2025
 
+8/12/25 17:54
+
+https://www.va.gov/manage-va-debt/dispute-debt/introduction#content
+
+Fill out dispute form. The form is not on this page.
 
 8/11/25 20:28
 
 https://www.va.gov/manage-va-debt/dispute-debt/review-and-submit
 
 I'm trying to remove an erroneous debt. I received no feedback from the Veterans administration concerning any help whatsover with removing the debt. There is no information to contact a live person to discuss matters.
-
-8/12/25 17:54
-
-https://www.va.gov/manage-va-debt/dispute-debt/introduction#content
-
-Fill out dispute form. The form is not on this page.
 
 7/31/25 0:22
 
