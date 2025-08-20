@@ -67,7 +67,7 @@ module MarkdownUtils
       end
     end
 
-    content.join("\n") + "\n"  # Add trailing newline
+    content.join("\n") + "\n\n"  # Add trailing newline plus extra blank line
   end
 
   # Convert portfolio folder name to display name
@@ -79,6 +79,8 @@ module MarkdownUtils
       'Benefits Portfolio'
     when 'health-portfolio'
       'Health Portfolio'
+    when 'bam-portfolio'
+      'BAM Portfolio'
     else
       portfolio.to_s.gsub('-', ' ').split.map(&:capitalize).join(' ')
     end

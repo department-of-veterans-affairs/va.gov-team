@@ -10,7 +10,7 @@ Scans team README files across portfolio directories and generates a consolidate
 
 **Features:**
 
-- Scans `teams/digital-experience/`, `teams/benefits-portfolio/`, and `teams/health-portfolio/` directories
+- Scans `teams/digital-experience/`, `teams/benefits-portfolio/`, `teams/health-portfolio/`, and `teams/bam-portfolio/` directories
 - Extracts team information from README files containing `## Team Information` section
 - Groups teams by portfolio and crew/pod
 - Updates the `## Current team manifest` section in `teams/README.md`
@@ -28,7 +28,7 @@ ruby generate_manifest.rb --dry-run
 ruby generate_manifest.rb --verbose
 
 # Process only a specific portfolio
-ruby generate_manifest.rb --portfolio=digital-experience
+ruby generate_manifest.rb --portfolio=bam-portfolio
 
 # Combine options
 ruby generate_manifest.rb --dry-run --verbose --portfolio=benefits-portfolio

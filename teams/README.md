@@ -1,5 +1,14 @@
 # Teams
 
+## On this page
+
+- [About Teams](#about-teams)
+- [Required documentation](#required-documentation)
+- [About this manifest](#about-this-manifest)
+- [Current team manifest](#current-team-manifest)
+
+## About Teams
+
 This space is for all teams currently working on and with the VA.gov platform and the VA Health and Benefits mobile application. Teams should utilize this space for team info. However, project-specific documentation should go into /products.
 
 - If you are looking for documentation on VA.gov user-facing products, please see [/products](../products/README.md).
@@ -9,6 +18,28 @@ This space is for all teams currently working on and with the VA.gov platform an
 
 - **Team README.md file.** Teams must have a team README.md file. This file is used to produce the new Team and Product Manifest and will be enforced upon entry into the Collaboration Cycle. Use the provided [template](team-readme-template.md) and follow the instructions therein.
 - **Team charter.** Teams may also created a team charter using the provided [team charter template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/team-charter-template.md).
+
+## About this manifest
+
+Manifest is a new series of scripts and files that aims to replace the VFS Product Directory and augment parts of Atlas. You can follow along in this [initiative](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59141).
+
+### Problem to be solved
+
+Currently, there are multiple lists of teams:
+
+- [Atlas](https://www.va.gov/atlas/)
+- [VFS Product Directory](https://depo-platform-documentation.scrollhelp.site/getting-started/vfs-product-directory)
+
+Unfortunately, neither is complete nor up-to-date. The Platform Services & Governance crew in Digital Experience is working towards a new solution that will use the README.md files for each team in the following portfolio directories:
+
+1. teams/benefits-portfolio
+2. teams/digital-experience
+3. teams/health-portfolio
+4. teams/bam-portfolio
+
+Those readme files will be linted upon update to retain the formatting of key sections such as "Team Information". Those files will also point to YAML files for each product that the team owns in [products](../products/). This will in turn allow us to aggregate a list of both teams and products. The goal is to provide a simple way for teams to maintain their own information while still providing the Platform with a source of truth for the teams operating on the platform. Watch this space.
+
+There is also a current list of [crews and pods](crews-and-pods.md).
 
 ## Current team manifest
 
@@ -74,11 +105,6 @@ This space is for all teams currently working on and with the VA.gov platform an
 - [Pension Benefits 1](teams/benefits-portfolio/pension-benefits-1/README.md)
 - [Pension Benefits 2](teams/benefits-portfolio/pension-benefits-2/README.md)
 
-#### To Be Determined (Benefits Portfolio)
-
-- [Education Benefits Tools](teams/benefits-portfolio/education-benefits-tools/README.md)
-- [Memorials Self-Service](teams/benefits-portfolio/memorials-self-service/README.md)
-
 ### Health Portfolio
 
 #### MHV on VA.gov Patient Portal
@@ -97,21 +123,10 @@ This space is for all teams currently working on and with the VA.gov platform an
 #### Unknown Crew
 
 - [1010 Health Apps](teams/health-portfolio/1010-health-apps/README.md)
-## About this manifest
 
-Manifest is a new series of scripts and files that aims to replace the VFS Product Directory and augment parts of Atlas. You can follow along in this [initiative](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59141).
+### BAM Portfolio
 
-### Problem to be solved
+#### Education
 
-Currently, there are multiple lists of teams:
-
-- [Atlas](https://www.va.gov/atlas/)
-- [VFS Product Directory](https://depo-platform-documentation.scrollhelp.site/getting-started/vfs-product-directory)
-
-Unfortunately, neither is complete nor up-to-date. The Platform Services & Governance crew in Digital Experience is working towards a new solution that will use the README.md files for each team in the following portfolio directories:
-
-1. teams/benefits-portfolio
-2. teams/digital-experience
-3. teams/health-portfolio
-
-Those readme files will be linted upon update to retain the formatting of key sections such as "Team Information". Those files will also point to YAML files for each product that the team owns in [products](../products/). This will in turn allow us to aggregate a list of both teams and products. The goal is to provide a simple way for teams to maintain their own information while still providing the Platform with a source of truth for the teams operating on the platform. Watch this space.
+- [Education Benefits Tools](teams/bam-portfolio/education-benefits-tools/README.md)
+- [Memorials Self-Service](teams/bam-portfolio/memorials-self-service/README.md)

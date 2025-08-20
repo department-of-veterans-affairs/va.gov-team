@@ -8,7 +8,7 @@ require_relative 'lib/markdown_utils'
 
 class ManifestGenerator
   SECTION_HEADER = '## Current team manifest'
-  PORTFOLIO_DIRS = %w[digital-experience benefits-portfolio health-portfolio].freeze
+  PORTFOLIO_DIRS = %w[digital-experience benefits-portfolio health-portfolio bam-portfolio].freeze
 
   def initialize(repo_root: nil, dry_run: false, verbose: false, portfolio: nil)
     @repo_root = repo_root || detect_repo_root
@@ -175,7 +175,7 @@ def main
       options[:verbose] = true
     end
     
-    opts.on("--portfolio=PORTFOLIO", "Process only specific portfolio (digital-experience, benefits-portfolio, health-portfolio)") do |portfolio|
+    opts.on("--portfolio=PORTFOLIO", "Process only specific portfolio (digital-experience, benefits-portfolio, health-portfolio, bam-portfolio)") do |portfolio|
       unless ManifestGenerator::PORTFOLIO_DIRS.include?(portfolio)
         puts "Error: Invalid portfolio. Must be one of: #{ManifestGenerator::PORTFOLIO_DIRS.join(', ')}"
         exit 1

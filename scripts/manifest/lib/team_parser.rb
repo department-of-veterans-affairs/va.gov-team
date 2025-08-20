@@ -47,6 +47,8 @@ module TeamParser
       'benefits-portfolio'
     elsif file_path.include?('/teams/health-portfolio/')
       'health-portfolio'
+    elsif file_path.include?('/teams/bam-portfolio/')
+      'bam-portfolio'
     else
       nil
     end
