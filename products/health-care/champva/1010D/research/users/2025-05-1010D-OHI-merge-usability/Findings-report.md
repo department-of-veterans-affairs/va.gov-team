@@ -1,4 +1,4 @@
-# 10-10D/10-7959c Merge Usability Research Findings 
+# 10-10d/10-7959c Merge Usability Research Findings 
 
 **Office of the CTO - Digital Experience (OCTO-DE), VA Forms 10-10d/10-7959c Application for CHAMPVA Benefits (with Other Health Insurance Certification), IVC Forms Team**
 
@@ -6,7 +6,7 @@
 
 **Contacts:** Renata Keck, Jamie Fiore & Rachel Pope
 
-**[Link to Research Readout](link-here)**  
+**[Link to Research Readout TBD](link-here)**  
 
 **Jump to:**
 
@@ -38,13 +38,13 @@ Applicants are required to submit VA Form 10-10d and VA Form 10-7959c separately
 
 ## Research Questions
 
-**Goal 1: Understand whether the placement of the 10-7959c within the 10-10D application for CHAMPVA benefits works better than the standalone forms, as it relates to form submission and time on task.**
-1. How well are users able to orient into and out of the ancillary 10-7959c within the 10-10D?
-2. Does content on transitional pages between the 10-10D and 10-7959c provide sufficient context about the purpose of the 10-7959c?
-3. Is the slim header/footer sufficient context for users knowing where they are within the 10-10D or 10-7959c?
+**Goal 1: Understand whether the placement of the 10-7959c within the  application for CHAMPVA benefits works better than the standalone forms, as it relates to form submission and time on task.**
+1. How well are users able to orient into and out of the ancillary 10-7959c within the 10-10d?
+2. Does content on transitional pages between the 10-10d and 10-7959c provide sufficient context about the purpose of the 10-7959c?
+3. Is the slim header/footer sufficient context for users knowing where they are within the 10-10d or 10-7959c?
 
-**Goal 2: Understand if the placement of the 10-7959c within the 10-10D form works better for users, specifically as it relates to providing all necessary and required supporting evidence.**
-1. Will users be confused by what supporting evidence is required for the 10-10D and 10-7959c?
+**Goal 2: Understand if the placement of the 10-7959c within the 10-10d form works better for users, specifically as it relates to providing all necessary and required supporting evidence.**
+1. Will users be confused by what supporting evidence is required for the 10-10d and 10-7959c?
 2. Will users prefer to upload documents mid-flow?
 3. Are the examples and content around what evidence to prepare and provide on the forms clear?
 
@@ -54,20 +54,20 @@ Applicants are required to submit VA Form 10-10d and VA Form 10-7959c separately
 
 ## Methodology 
 
-We conducted 1-hour remote moderated research sessions from **June 30, 2025-July 18, 2025**. These sessions included a semi-structured interview as well as a combined usability/content comprehension test protocol to gauge users' understanding of the CHAMPVA application process, the supporting documentation required to complete the application, and whether the merged 10-10D/10-7959c forms worked well for users over the alternative (submitting the two forms separately). The usability/content comprehension protocol was conducted in Staging.
+We conducted 1-hour remote moderated research sessions from **June 30, 2025-July 18, 2025**. These sessions included a semi-structured interview as well as a combined usability/content comprehension test protocol to gauge users' understanding of the CHAMPVA application process, the supporting documentation required to complete the application, and whether the merged 10-10d/10-7959c forms worked well for users over the alternative (submitting the two forms separately). The usability/content comprehension protocol was conducted in Staging.
 
-Each participant saw the introduction page to the 10-10D/10-7959c forms, completed Forms 10-10D and 10-7959c questions, and uploaded any documentation required through branching logic associated with their responses. All participants also saw the review page, and discussed their expectations around the submission and application decision process.
+Each participant saw the introduction page to the 10-10d/10-7959c forms, completed Forms 10-10d and 10-7959c questions, and uploaded any documentation required through branching logic associated with their responses. All participants also saw the review page, and discussed their expectations around the submission and application decision process.
 
 ## Hypotheses and Conclusions
 
-1. When filling out the merged 10-10D/10-7959c, users will have faster completion times when compared to cumulative completion times from the standalone 10-10D and 10-7959c.
+1. When filling out the merged 10-10d/10-7959c, users will have faster completion times when compared to cumulative completion times from the standalone 10-10d and 10-7959c.
 
     - **LIKELY TRUE**: 16 of 18 users were able to complete the entire merged form in a single sitting (the 2 who did not submit were due to technical difficulties with the Staging environment or their devices) compared to # number of visits to the 1010D and # to OHI to submit the standalone forms in production.
-        - The team will need to monitor the 10-10D/10-7959c form in production to compare against standalone form times and the number of sessions required to finish the merged form vs. standalone forms. See [_Next Steps_](#next-steps).
+        - The team will need to monitor the 10-10d/10-7959c form in production to compare against standalone form times and the number of sessions required to finish the merged form vs. standalone forms. See [_Next Steps_](#next-steps).
 
-2. Users will be able to easily orient themselves around the transition between the 10-10D and 10-7959c.
+2. Users will be able to easily orient themselves around the transition between the 10-10d and 10-7959c.
 
-    - **LIKELY TRUE**: Participants did not have difficulty navigating the 10-7959c subform within the 10-10D, but they also struggled to identify content about the 10-7959c subform throughout the test.
+    - **LIKELY TRUE**: Participants did not have difficulty navigating the 10-7959c subform within the 10-10d, but they also struggled to identify content about the 10-7959c subform throughout the test.
 
 3. Users will prefer to complete the 10-7959c as part of their CHAMPVA application, as opposed to a separate, standalone form.
 
@@ -75,14 +75,14 @@ Each participant saw the introduction page to the 10-10D/10-7959c forms, complet
 
 4. New instructions, examples, and directions for uploading necessary and required supporting evidence will provide relevant assistance as the user navigates the forms.
 
-    - **MAYBE TRUE**: 15 of 18 participants said that the content on the intro page made them feel "informed" or "very informed" about the 10-10D/10-7959c application, and 12 of 18 participants reiterated at the end of the test session that the amount of information they saw throughout the application was "just right."
+    - **MAYBE TRUE**: 15 of 18 participants said that the content on the intro page made them feel "informed" or "very informed" about the 10-10d/10-7959c application, and 12 of 18 participants reiterated at the end of the test session that the amount of information they saw throughout the application was "just right."
         - We believe some minor tweaks to the content to address observed usability issues, alongside self-reported ease of comprehension, will make file uploads and supporting docs even easier for users. See _Recommendations_ and [_Next Steps_](#next-steps).
 
 5. Veterans will understand that there is separate upload sections for applicant information and OHI, and avoid duplicate uploads/entries. 
 
     - **DEFINITELY TRUE**: 18 of 18 participants understood what supporting documentation was being asked for in the applicant and OHI sections.
         - Only 2 participants had issues with uploading files in the form, due to Staging crashing, and due to an issue with the participant's iPad device.
-        - 2 participants specifically called out the ease of uploading supporting documentation as part of what made the 10-10D/10-7959C easy overall.
+        - 2 participants specifically called out the ease of uploading supporting documentation as part of what made the 10-10d/10-7959C easy overall.
 
 6. The v3 file upload component will provide visual validation of complex file uploads, like front/back of Medicare and Private Health Insurance cards
   
@@ -93,19 +93,19 @@ Each participant saw the introduction page to the 10-10D/10-7959c forms, complet
 
 ## Key Findings
 
-**1.**  Most participants (14 of 18) self-reported that the 10-10D/10-7959c form was "easy" or "very easy."
+**1.**  Most participants (14 of 18) self-reported that the 10-10d/10-7959c form was "easy" or "very easy."
 
-**2.** Participants had mixed understanding about the supporting documentation required to submit their 10-10D/10-7959c application, based on the content on the Introduction page of the form.
+**2.** Participants had mixed understanding about the supporting documentation required to submit their 10-10d/10-7959c application, based on the content on the Introduction page of the form.
 
 **3.** Participants struggled with terms used to designate the person filling out the application ("Signer"), the Veteran ("Sponsor"), and their dependents ("Applicants"). This confusion resulted in duplicative and incorrect data entry in the Signer, Sponsor and Applicant sections of the application, which may result in applications being delayed or denied.
 
-**4.** While users had no trouble navigating into and out of the 10-7959c subform, there were specific usability concerns with the Medicare and Health Insurance list&loops.
+**4.** While users had no trouble navigating into and out of the 10-7959c subform, there were specific usability concerns with the Medicare and Health Insurance multiple responses (list and loop).
 
 **5.** While users did not struggle with the length of the merged form, 4 users reported that the form felt "tedious," and 6 of 18 reported that the questions were repetitive to the point of confusion. 
 
 ## Details of Findings 
 
-**Finding 1:**  Most participants (14 of 18) self-reported that the 10-10D/10-7959c form was "easy" or "very easy." 
+**Finding 1:**  Most participants (14 of 18) self-reported that the 10-10d/10-7959c form was "easy" or "very easy." 
 
 In self-reported ease of use ratings, aspects of the form that participants said made it easy were:
 - The overall flow (10 of 18)
@@ -136,7 +136,7 @@ In self-reported ease of use ratings, aspects of the form that participants said
     
     > _This has to be better [than the paper form] because it’s online….I think that this is better._ (P13)
 
-Requested changes to the flow and content of the 10-10D/10-7959c were minimal. 6 of 18 users specifically requested tweaks to the overall content of the form to make submitting the CHAMPVA application easier. Areas for improvement included:
+Requested changes to the flow and content of the 10-10d/10-7959c were minimal. 6 of 18 users specifically requested tweaks to the overall content of the form to make submitting the CHAMPVA application easier. Areas for improvement included:
 - Improved terminology about Sponsors and Applicants (4 of 18) _See finding 3_
 - "Spelling out" the forms instead of relying on VA form numbers on the Intro page and slim header (3 of 18)
 - More information about the CHAMPVA program (2 of 18)
@@ -152,7 +152,7 @@ Requested changes to the flow and content of the 10-10D/10-7959c were minimal. 6
     > _Not having to re-enter, re-key information that you’ve already entered, be more specific when it’s asking for information: who is the applicant you’re asking information about, be more specific._ (P15)
 
 
-**Finding 2:**  Participants had mixed understanding about the supporting documentation required to submit their 10-10D/10-7959c application, based on the content on the Introduction page of the form.
+**Finding 2:**  Participants had mixed understanding about the supporting documentation required to submit their 10-10d/10-7959c application, based on the content on the Introduction page of the form.
 
 On the Introduction page, users struggled to fully understand the breadth of information and supporting documents required to complete the CHAMPVA application. Based on the introduction page, users expected they would need:
 - Veteran and dependent information (12 of 18)**
@@ -162,7 +162,7 @@ On the Introduction page, users struggled to fully understand the breadth of inf
 - School letter or enrollment verification (1 of 18)**
 - Residency and location, assuming it has a bearing on eligibility for benefits (1 of 18)
 
-  ** Indicates information required by the 10-10D/10-7959c application
+  ** Indicates information required by the 10-10d/10-7959c application
 
 Crucially, the confusion about required information and supporting documents on the introduction page meant that users were unprepared to provide key documentation as part of the Applicant and Other Health Information subsections of the form. 
 
@@ -231,7 +231,7 @@ Crucially, the confusion about required information and supporting documents on 
     
     > _I think [the Applicant section is] for me, cause it says "applicant." But I guess it's confusing, because I already put [in] my information a couple of times so, and I was doing [the application] for myself and one other person. So I guess that part was confusing at the beginning. Then, so okay, it makes sense for me to put it twice, but if if I'm applying, I'm the applicant, I would be putting in my information._ (P1)
 
-**Finding 4:**   While users had no trouble navigating into and out of the 10-7959c subform, there were specific usability concerns with the Medicare and Health Insurance list&loops.
+**Finding 4:**   While users had no trouble navigating into and out of the 10-7959c subform, there were specific usability concerns with the Medicare and Health Insurance multiple responses (list and loop).
 
 While users generally rated the Other Health Insurance (10-7959c) sub-form "easy" or "very easy," there were observed and self-reported inconsistencies with the sub-form. 
 
@@ -252,7 +252,7 @@ While users generally rated the Other Health Insurance (10-7959c) sub-form "easy
 3 of 11 participants were unsure how to add their **[Medicare Part D]** information. There are several reasons for this confusion.
 - The Medicare flow we tested only mentioned Part D after asking users to identify which primary and supplemental Medicare plan(s) they have. Users noticed that Part D was missing from the first question.
 - Medicare Part D is run by private health insurance providers, so a provider name is required. Some participants interpreted the Other Health Insurance flow as where you would disclose Medicare Part D, given the similarities between the Part D questions and Other Health Insurances loop.
-- Part D does not show up on the Review Page under Medicare Plans, or on the review card within the Medicare loop. Users were unable to verify if their Part D plan was properly added.
+- Part D does not show up on the Review Page under Medicare Plans, or on the review card within the Medicare loop. Users were unable to verify if their Part D plan was properly added (this was a bug that was resolved after the study). 
 
 
     > _[Moderator: For this section I would like you to add a private health insurance plan for both applicants, so for both [dependent] and [spouse].] Well, didn’t I already do that with [Spouse] with his plan? Yeah, with the [Medicare Part] D, that’s a private health insurance._ (P6)
@@ -282,7 +282,7 @@ We believe inconsistencies in the wording and flow of the Medicare and Other Hea
 
 9 of 18 participants had difficulty with understanding the form fields in the [**Other Health Insurance**] flow in the subform. Specific areas of difficulty included:
 - 9 participants had concerns with the enrollment and termination date questions. This was particularly an issue because users were unaware why an expired health insurance plan would be relevant to enrolling in the program.
-- 8 were unsure which plan type to select, because they were not familiar with insurance types other than Medicare, Medicaid or Tricare, and were unaccustomed to language used to describe ACA/private health insurance plans.
+- 8 participants were unsure which plan type to select, because they were not familiar with insurance types other than Medicare, Medicaid or Tricare, and were unaccustomed to language used to describe ACA/private health insurance plans.
 - Edge case: 1 participant said both she and her dependent have the same health insurance provider, but different Group IDs because they receive health insurance from different sources (employer, school). She was unsure if she could add both of them to a generic health insurance plan to save time completing the Health Insurance part of the form twice.
 
 
@@ -296,7 +296,7 @@ We believe inconsistencies in the wording and flow of the Medicare and Other Hea
     
     > _[On insurance plan page] Oh, here I am clueless._ (P2)
 
-**Finding 5:**   Participants had expectations about the submission and post-submission application process that would make them feel more confident their application was received and being processed. 
+**Finding 5:**   While users did not struggle with the length of the merged form, 4 users reported that the form felt "tedious," and 6 of 18 reported that the questions were repetitive to the point of confusion.
 
 In the flow we tested with participants, users must fill out information about the person filling out the application (the Signer), then the Veteran through whom dependents receive their eligibility (the Sponsor), and finally applicant information. Some participants had to fill out their information twice in the Signer and Sponsor sections, which felt duplicative.
 
@@ -313,13 +313,13 @@ To reduce those feelings that the form was tedious, participants suggested strea
 
 ## **Additional Insights**
 
-**1.** School-aged CHAMPVA beneficiaries are required to re-submit school verification documents in between semesters to retain CHAMPVA benefits, which is a tedious task and may result in a lapse of coverage. 
+**1.** School-aged CHAMPVA beneficiaries may be required to re-submit school verification documents in between semesters to retain CHAMPVA benefits, which is a tedious task and may result in a lapse of coverage. 
 
 **2.** Participants had expectations about the submission and post-submission application process that would make them feel more confident their application was received and being processed.
 
 ### Details of Additional Insights
 
-**Additional Insight 1:** School-aged CHAMPVA beneficiaries are required to re-submit school verification documents in between semesters to retain CHAMPVA benefits, which is a tedious task and may result in a lapse of coverage. 
+**Additional Insight 1:** School-aged CHAMPVA beneficiaries may be required to re-submit school verification documents in between semesters to retain CHAMPVA benefits, which is a tedious task and may result in a lapse of coverage. 
 
 2 participants mentioned that lapses in CHAMPVA coverage were not announced, and it was the responsibility of the beneficiaries to check if coverage lapses between semesters at school, resulting in surprise copays or uncovered medical bills. 
 
@@ -397,8 +397,8 @@ On submission, participants expect to see:
         * All 11 participants who struggled with the Sponsor section completed it as thought it was for a dependent/applicant, not the Veteran.
         * This was the case even for Veterans (8 of 11) in our study, for whom the Sponsor section was prefilled based on answers in the Signer section.
     * 6 of 18 participants continued to struggle with the Applicant section, unclear who an Applicant was in relation to CHAMPVA benefits. 
-* Remove unnecessary burden and confusion and ask for contact info for each one of the roles (signer, sponsor and applicant(s)) involved in the form. Consider updating signer form flow to reduce repetitive and possibly confusing form entries. Moving the signer questions to the end of the form may decrease the amount of similar form fields such as address and phone number needed.
 
+* Remove unnecessary burden and confusion and ask for contact info for each one of the roles (signer, sponsor and applicant(s)) involved in the form. Consider updating signer form flow to reduce repetitive and possibly confusing form entries. Moving the signer questions to the end of the form may decrease the amount of similar form fields such as address and phone number needed.
 
     _Supporting evidence:_
 
@@ -408,14 +408,14 @@ On submission, participants expect to see:
 
     _Supporting evidence:_
 
-    * 4 of 11 participants reported that the form felt "tedious,"
-    * 3 of 11 participants  users expected to be able to either have the Medicare fields pre-filled in some way either from Medicare itself or from the uploaded card image
-    * 2 of 11 participants wanted a way to enter the effective date only once for both of their Medicare Parts A and B
+    * 4 participants reported that the form felt "tedious,"
+    * 3 participants  users expected to be able to either have the Medicare fields pre-filled in some way either from Medicare itself or from the uploaded card image
+    * 2 participants wanted a way to enter the effective date only once for both of their Medicare Parts A and B
 * To better prepare applicants to have Part D information ready and alleviate uncertainty on if it is needed it is recommended to mention Medicare Part D earlier on the in Medicare flow. 
 
     _Supporting evidence:_
 
-    * 3 of 11 participants were unsure how to add their Medicare Part D information 
+    * 3 participants were unsure how to add their Medicare Part D information 
 
 * To avoid confusion on how applicants are added to Medicare and health insurance plans consider using similar user flows for both of these sections.
 
@@ -423,20 +423,64 @@ On submission, participants expect to see:
 
     * 9 participants were unsure how to **[add applicants]** to a Medicare (7 of 9) or other health insurance (2 of 9) plan.  
 
-* It is recommended to add more context about health insurance details such as the termination date and the plan type to encourage applicants to enter the correct information.
+* It is recommended to alter the UI to separate the health insurance termination date from the policy start date. Add more context about health insurance details such as the termination date and the plan type to encourage applicants to enter the correct information.
 
     _Supporting evidence:_
 
-    * 6 of 11 participants Users were unsure of the more specific details regarding their health insurance plans such as the termination date and the plan type. 
+    * 6 participants Users were unsure of the more specific details regarding their health insurance plans such as the termination date and the plan type.
+    * 9 participants had concerns with the enrollment and termination date questions. This was particularly an issue because users were unaware why an expired health insurance plan would be relevant to enrolling in the program.
+ 
+* Consider hiding mailing address screens if a user selected that they have the same address as another person listed in the form.
+
+    _Supporting evidence:_
+
+    * 6 reported that the questions were repetitive to the point of confusion, including repetitive address screens as a particular area of friction.
+ 
+* Consider hiding name and contact information fields if the user has already completed that information in the Signer section. 
+
+    _Supporting evidence:_
+
+    * 6 reported that the questions were repetitive to the point of confusion, including asking for Signer, Sponsor and Applicant information back-to-back.
+    * 11 participants had issues completing the [**Sponsor**] section, either confused by the form asking them to provide their information twice in a row (Veterans), or not understanding what a Sponsor meant in relation to applicants (Dependents). Even participants who understood that a Sponsor was a Veteran were confused by the Signer/Sponsor/Applicant sections being close together, making the form appear to ask for the same information two or even three times.
+    - All 11 participants who struggled with the Sponsor section completed it as thought it was for a dependent/applicant, not the Veteran.
+    - 8 of the 11 participants who struggled with this section were Veterans, for whom the Sponsor section was prefilled based on their answers in the Signer section of the form.
 
 * Ease the burden involved with obtaining a school certification letter: Many other VA benefits (Education benefits) require proof of school enrollment but from the perspective of the participant it seems that these requirements don’t align CHAMPVA’s school certification requirements and may be more difficult to obtain. It is recommended to conduct more research with the CHAMPVA partners to gain a better understanding of their school certification process. To help with user burden and prevent users from having to stop the form until they receive the school certification, ask for similar requirements and documentation as the Education benefits program does.
 
     _Supporting evidence:_
 
-    * 4 out of 11 participants mentioned that they would either have to pause the form to obtain the school certification.
-    * 3 of 11 participants stated that it would cause significant friction and delay with completing the CHAMPVA application because the school certification is not something they can obtain easily and quickly. 
+    * 4 participants mentioned that they would either have to pause the form to obtain the school certification.
+    * 3 participants stated that it would cause significant friction and delay with completing the CHAMPVA application because the school certification is not something they can obtain easily and quickly. 
     * 1 participant mentioned having to submit several school certification letters for the same university in order to maintain her dependent CHAMPVA status in between semesters.
-     
+
+* Consider updating the confirmation screen to allow users to print or save a PDF copy of the form for their records using [this pattern](https://design.va.gov/patterns/help-users-to/keep-a-record-of-submitted-information) from the VA Design system. 
+
+    _Supporting evidence:_
+
+    * 13 participants expected a confirmation email that may include a PDF copy of their submitted applicaiton, and a confirmation/application ID number. 
+    * 10 participants wanted ability to save a copy of their application for their records
+ 
+* Collaborate with CHAMPVA partners and other stakeholders to implement a confirmation numbering system to use on the form confirmation page and confirmation email. 
+  
+    _Supporting evidence:_
+
+    * 13 participants wanted an application confirmation number for their records and to be able to track the status or call the Call Center for updates on the processing of their application.
+    * 13 participants expected a confirmation email that may include a PDF copy of their submitted applicaiton, and a confirmation/application ID number.
+
+* Include next steps and helpful resources on the confirmation page so that users can answer questions or solve issues if they arise before their application has been processed. In addition, add information to the confirmation page or confirmation email about what to do if a user needs to change or update their information and supporting documents after they submit their application, but before it has been processed, to help build confidence and ease Call Center inquiries. 
+  
+    _Supporting evidence:_
+
+    * 5 participants wanted an estimated timeline to process the application on the confirmation page or confirmation email 
+    * 2 participants asked for self-service and helpful resources if they have questions, or if issues arise with their application
+    * 1 participant wanted instructions and next steps in the application process
+ 
+* Consider implementing a user experience on va.gov that allows a user to manage their health benefits enrollments, submit new or missing documents, and check their applications and claims statuses. 
+  
+    _Supporting evidence:_
+
+    * 13 participants wanted an application confirmation number for their records and to be able to track the status or call the Call Center for updates on the processing of their application.
+
 ### A11y Recommendations
 
 * Reduce redundant name, address and contact questions to remove friction with screen readers. Having redundant questions can add confusion to a person only listening to the headers on the page because the assumption is that they need to fill out the same info again. 
