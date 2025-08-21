@@ -19,8 +19,9 @@
 
 - **VA Business Owner:** [OCTO/VES/VHA/VBA/NCA/VACO]
 - **Portfolio:** [Benefits/Digital Experience/Health]
-- **Crew or Pod:** [crew-or-pod-name] _refer to crews-and-pods.md_
+- **Crew or Pod:** [crew-or-pod-name] _Refer to crews-and-pods.md_
 - **Contracting Organization:** [Name of contracting company, if applicable]
+- **Contract:** [Current contract](https://dvagov.sharepoint.com/sites/oitoctocontracts/Contracts/Forms/AllItems.aspx) _Update to point to your specific contract file._
 
 ### Team Roster
 

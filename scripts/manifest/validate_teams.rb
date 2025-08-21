@@ -21,12 +21,16 @@ class TeamDocumentationValidator
     /\[Benefits\/Digital Experience\/Health\]/,
     /\[crew-or-pod-name\]/,
     /\[Name of contracting company, if applicable\]/,
+    /\[Current contract\]\(https:\/\/dvagov\.sharepoint\.com\/sites\/oitoctocontracts\/Contracts\/Forms\/AllItems\.aspx\)/,
     /\[Full Name\]/,
     /\[@github-username\]/,
     /\[contact-email@va\.gov\]/,
     /\[Product \d+ Entry\]/,
     /\[product-name\]/
   ].freeze
+
+  # Pattern for instruction note that should be removed from completed READMEs
+  INSTRUCTION_REFERENCE_PATTERN = /> \*\*📋 Instructions:\*\*/
 
   def initialize(repo_root: nil, output_file: nil, verbose: false)
     @repo_root = repo_root || detect_repo_root
@@ -133,7 +137,7 @@ class TeamDocumentationValidator
           teams_by_portfolio[current_portfolio][current_crew] << {
             name: team_name,
             readme_link: readme_link,
-            readme_path: File.join(@repo_root, readme_link)
+            readme_path: File.join(@repo_root, 'teams', readme_link)
           }
         end
       end
@@ -195,8 +199,10 @@ class TeamDocumentationValidator
       team_info_content = extract_team_info_section(content)
       result[:team_info_content] = team_info_content
       
-      # Check for placeholders
-      result[:placeholder_issues] = find_placeholder_issues(team_info_content)
+      # Check for placeholders in team info section and instruction reference in full content
+      team_info_issues = find_placeholder_issues(team_info_content)
+      instruction_issues = find_instruction_reference_issues(content)
+      result[:placeholder_issues] = team_info_issues + instruction_issues
       result[:completed] = result[:placeholder_issues].empty?
       
     rescue => e
@@ -242,6 +248,23 @@ class TeamDocumentationValidator
             pattern: pattern.source
           }
         end
+      end
+    end
+    
+    issues
+  end
+
+  def find_instruction_reference_issues(content)
+    issues = []
+    
+    content.split("\n").each_with_index do |line, index|
+      # Check for instruction reference that should be removed
+      if line.match?(INSTRUCTION_REFERENCE_PATTERN)
+        issues << {
+          field: "Instructions Reference",
+          line: line.strip,
+          pattern: "Instruction note should be removed when README is completed"
+        }
       end
     end
     

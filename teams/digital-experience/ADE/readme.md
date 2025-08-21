@@ -142,6 +142,7 @@ You can also reach us by attending our weekly office hours on Wednesdays at 3:00
 - **Portfolio:** Digital Experience
 - **Crew or Pod:** Platform Services and Governance
 - **Contracting Organization:**
+- **Contract:** [Current contract](https://dvagov.sharepoint.com/sites/oitoctocontracts/Contracts/Forms/AllItems.aspx) _Update to point to your specific contract file._
 
 ### Team Roster
 

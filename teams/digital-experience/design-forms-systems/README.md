@@ -19,6 +19,7 @@
 - **Portfolio:** Digital Experience
 - **Crew or Pod:** Platform Services and Governance
 - **Contracting Organization:** Oddball, Wilcore, AdHoc
+- **Contract:** [Current contract](https://dvagov.sharepoint.com/sites/oitoctocontracts/Contracts/Forms/AllItems.aspx?id=%2Fsites%2Foitoctocontracts%2FContracts%2FOCTO%20%2D%20Digital%20Experience%20Contracts%2FVA%2Egov%20Product%20Teams%20%2D%20Design%20System%20and%20Forms%2FFY25%20%2D%20Contract%2036C10B25D0007%20Task%20Order%2036C10B25N00070006&newTargetListUrl=%2Fsites%2Foitoctocontracts%2FContracts&viewpath=%2Fsites%2Foitoctocontracts%2FContracts%2FForms%2FAllItems%2Easpx)
 
 ### Team Roster
 

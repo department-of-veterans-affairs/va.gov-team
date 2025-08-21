@@ -22,6 +22,7 @@
 - **Portfolio:** Digital Experience
 - **Crew or Pod:** Platform Services and Governance
 - **Contracting Organization:** Oddball
+- **Contract:** [Current contract](https://dvagov.sharepoint.com/sites/oitoctocontracts/Contracts/Forms/AllItems.aspx) _Update to point to your specific contract file._
 
 ### Team Roster
 
