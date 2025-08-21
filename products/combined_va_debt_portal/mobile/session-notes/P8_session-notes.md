@@ -1,6 +1,5 @@
 
-
-# Notes by Perigean. Conversation Guide used as the structure for notes.
+# P8. Notes by Perigean. Conversation Guide used as the structure for notes.
 
 Start recording.
 
@@ -11,7 +10,7 @@ Start recording.
 
 **Discussion**
 
-Could you tell me a bit about yourself as a Veteran: what branch of the military did you serve, and when did you retire or separate? Brandon, I was in the Army from 09 to 13. I did three tours in Iraq. 
+Could you tell me a bit about yourself as a Veteran: what branch of the military did you serve, and when did you retire or separate? [redacted], I was in the [redacted] from 09 to 13. I did [redacted].
 
 How have you been involved with the VA – both in the past and now? I have used my GI bill and I have my disability compensation and medical. 
 
