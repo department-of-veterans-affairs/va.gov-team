@@ -468,7 +468,6 @@ While most of the study focused on usability and task success, several participa
 > “It can bring up a lot of emotions. If I got sidetracked, I wouldn’t want to have to go through this again.”  
 > *— Participant 1*
 
----
 
 ### Too many short screens
 One Veteran in the study expressed annoyance at having so many short screens in the design.
@@ -476,7 +475,6 @@ One Veteran in the study expressed annoyance at having so many short screens in 
 > “One thing I was expecting to see: boxes expanding, almost like a branching of the questions… For some of the questions, when I hit Yes or No, I expected it to open maybe a text box to expand instead of having to click Continue to do that on the next screen. Like, you have to keep hitting Continue.”  
 > *— Participant 1*
 
----
 
 ### Lack of follow-up questions for increase conditions
 One Veteran was surprised there was no follow-up question when he added a rated condition to his claim.
@@ -484,7 +482,6 @@ One Veteran was surprised there was no follow-up question when he added a rated 
 > “I’m surprised it didn't ask about details for worsening conditions. I'm ok with it not asking. Unless they deny the claim – in which case, it would’ve been nice to have the opportunity to explain."  
 > *— Participant 4*
 
----
 
 ### Online application anxiety
 Several participants mentioned concerns about whether their information was being saved, or whether they’d have a chance to go back and review their entries. They seemed to have a good deal of anxiety about the process of filling out this kind of form online. These concerns were based on past bad experiences and the fact that the standard auto-save notification was missing in the prototype.
