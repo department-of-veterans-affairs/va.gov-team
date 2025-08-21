@@ -79,10 +79,12 @@ Veterans can easily locate and access comprehensive, clear information about the
 
 ### Now
 **Improve content hierarchy** 
+
 Implement progressive disclosure strategy for dependents management unauthenticated resource pages to improve content hierarchy. Update existing pages and add new pages specific to dependent type and benefit program type.
 
 ### Next
 **Clearly communicate information about impact and consequences**
+
 Add information about importance of dependent management, how it impacts benefits, and the consequences of neglecting to manage dependents
 
 ### Later
