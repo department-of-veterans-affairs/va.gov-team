@@ -9,6 +9,7 @@
 - **GitHub Team Name:** platform-design-system-team
 - **GitHub Team Labels:**
   - platform-design-system-team
+  - team-platform-design-system
   - forms-library
 - **GitHub Team Link:** <https://github.com/orgs/department-of-veterans-affairs/teams/platform-design-system-team>
 - **Slack Channel:** [#platform-design-system](https://dsva.slack.com/channels/platform-design-system)
@@ -65,18 +66,10 @@ To empower teams across VA to build consistent, accessible, and user-centered di
 
 _Directory system will cross-reference these with product details.yml files containing `team: "[team-slug-name]"`. Copy the template at https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/product-details-template.yml into your product directories then rename and update appropriately._
 
-- **[Product 1 Entry](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/[product-name]/[product-name]-details.yml):** Link to product in /products directory and provide a brief description.
-- **[Product 2 Entry](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/[product-name]/[product-name]-details.yml):** Link to product in /products directory and provide a brief description.
-
-Add additional products as needed.
-
+- **[Design System](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/design-system/design-system-details.yml)**: Design System for VA.gov and the VA Health and Benefits mobile application.
+- **[Forms System](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/forms-system/forms-system-details.yml)**: Forms System for VA.gov forms-based applications.
+  
 ### Product highlights
-
-> Add any team achievements you might want to surface. Product link should link to your product on va.gov or to the product directory in /products.
-
-- [Product link] | OKRs 1.1, ..., ... - Description
-
-## Product highlights
 
 - [Design System](https://github.com/department-of-veterans-affairs/vets-design-system-documentation)
 - [Forms Library Work](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/README.md)
