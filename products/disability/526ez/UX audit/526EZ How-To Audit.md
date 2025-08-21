@@ -159,7 +159,9 @@ In order to test, testers need to access the form in Staging.
 ### ✏️ 6. Conduct your audit and document your findings in the Audit Tracker
 The Audit Tracker will allow us to track which parts of the form, devices, and environments have been tested. 
 - On the [Audit Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1Y_JOzPltc_3Rb4OhdGTTCHPArLJpk12RpgkoJ2vxcMc/edit?gid=901203816#gid=901203816), write descriptions of your findings and provide screenshots on the tab that corresponds to the step you chose to audit.
-- In order to prevent ticket duplicates, you will not create tickets for your findings. PMs and POs will refine the spreadsheet and transition findings into tickets.  
+- In order to prevent ticket duplicates, you will not create tickets for your findings. PMs and POs will refine the spreadsheet and transition findings into tickets.
+
+### 7. Discuss findings with other auditors
 
 ---
 ## PM and PO Post Audit Tasks
