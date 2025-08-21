@@ -19,4 +19,4 @@ body:
   attributes:
     label: Definition of Done
     description: "What things need to be true for this Epic to be complete? No need to fully duplicate the issue list. Instead, describe the outcome we've reached when we close this ticket."
-  placeholder: "Example: All recommendations are captured in prioritized tickets. Feedback synthesized and documented in [specific place]."
+    placeholder: "Example: All recommendations are captured in prioritized tickets. Feedback synthesized and documented in [specific place]."
