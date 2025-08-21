@@ -16,6 +16,7 @@ In March 2025, VA.gov removed the `MANUAL_VAGOV` "flag" from 674-only claims (se
    - No award exists for Veteran.
    - Child's name, ssn, dob does not match corporate records. ([#61672](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61672) could mitigate this issue.)
    - Child does not exist on award. ([#61672](https://github.com/department-of-veterans-affairs/va.gov-team/issues/61672) could mitigate this issue.)
+   - Child's relationship to Veteran is "adopted"
 
 ## Claim types VA.gov off-ramps
 The following claim types still receive the `MANUAL_VAGOV` "flag" and are off-ramped by BIS before they reach RBPS.
