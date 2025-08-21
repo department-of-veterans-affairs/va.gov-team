@@ -5,15 +5,15 @@
   
 Veterans currently struggle to understand their responsibilities for managing dependents on their VA benefits. Existing content on VA.gov lacks clarity around critical dependent management requirements, leading to:
 
+*  Confusion about the process to add dependents along with initial application to benefit program
 *   Confusion about what changes need to be reported to the VA
     
 *   Unclear timelines for reporting dependent status changes
     
 *   Limited understanding of consequences for non-compliance
     
-*   Increased support ticket volume and administrative burden
-    
 *   Potential benefit overpayments and processing delays for Veterans
+  
     
   
 ## Project Goals
