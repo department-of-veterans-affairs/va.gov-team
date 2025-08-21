@@ -227,9 +227,9 @@ Crucially, the confusion about required information and supporting documents on 
 6 of 18 participants continued to struggle with the [**Applicant**] section, unclear who an Applicant was in relation to CHAMPVA benefits.
 
 
-    > _In the beginning it asked for my information, and then they asked me for the sponsor [who] was just the same person as myself, so If I'm not mistaken, the sponsor and myself are the same person. But then this is applicant information, the applicant would be...oh, am **I** [the Veteran] the applicant?_ (P18)
+   > _In the beginning it asked for my information, and then they asked me for the sponsor [who] was just the same person as myself, so If I'm not mistaken, the sponsor and myself are the same person. But then this is applicant information, the applicant would be...oh, am **I** [the Veteran] the applicant?_ (P18)
     
-    > _I think [the Applicant section is] for me, cause it says "applicant." But I guess it's confusing, because I already put [in] my information a couple of times so, and I was doing [the application] for myself and one other person. So I guess that part was confusing at the beginning. Then, so okay, it makes sense for me to put it twice, but if if I'm applying, I'm the applicant, I would be putting in my information._ (P1)
+   > _I think [the Applicant section is] for me, cause it says "applicant." But I guess it's confusing, because I already put [in] my information a couple of times so, and I was doing [the application] for myself and one other person. So I guess that part was confusing at the beginning. Then, so okay, it makes sense for me to put it twice, but if if I'm applying, I'm the applicant, I would be putting in my information._ (P1)
 
 **Finding 4:**   While users had no trouble navigating into and out of the 10-7959c subform, there were specific usability concerns with the Medicare and Health Insurance multiple responses (list and loop).
 
