@@ -67,7 +67,7 @@ There is also a current list of [crews and pods](crews-and-pods.md).
 
 - [ADE](digital-experience/ADE/README.md)
 - [Analytics and Insights](digital-experience/analytics-and-insights/README.md)
-- [Design System & Forms Library](digital-experience/design-forms-systems/README.md)
+- [Design & Forms Systems](digital-experience/design-forms-systems/README.md)
 - [Governance](digital-experience/governance/README.md)
 - [Platform Support](digital-experience/platform-support/README.md)
 

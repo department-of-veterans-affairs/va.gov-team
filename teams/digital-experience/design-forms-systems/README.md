@@ -4,7 +4,7 @@
 
 ### Basic Details
 
-- **Team Name:** Design System & Forms Library
+- **Team Name:** Design & Forms Systems
 - **Short Name:** design-forms-systems
 - **GitHub Team Name:** platform-design-system-team
 - **GitHub Team Labels:**
