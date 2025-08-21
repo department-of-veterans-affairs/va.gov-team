@@ -123,7 +123,7 @@ As you're looking at the prototype, here's a scenario I'd like you to use:
 - Your son Jared (age 22) is in his last year of college and got married this summer
 - Your father fell and broke his hip six months ago. He spent time in rehab and moved in with you recently
 
-## First Task: Task goal: Validate whether Veterans understand which life changes need to be reported. - 5 minutes [Your VA Dependents page]
+## 1. First Task: Task goal: Validate whether Veterans understand which life changes need to be reported. - 5 minutes [Your VA Dependents page]
 
 Okay, thanks for doing your best to keep that scenario in mind as you look at the prototype. Now, I'm going to transition us to looking at a prototype.
 
@@ -136,38 +136,158 @@ Okay, thanks for doing your best to keep that scenario in mind as you look at th
 >
 > ### Things to watch for:
 >
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
-> - [Is the participant aware that they may be sharing personal information on their screen, and are they okay with that? - per question as needed]
-> - [Etc]
+> - Does the participant want to act on the alert to verify dependents?
+> - Does the participant explore the page?
+> - Does the participant notice, read and understand the text about when to update dependents?
 
-## Second Task: [TASK NAME] - X minutes
+## 1a. Task goal: Validate whether Veterans can review their personal information and move on. - 2 minutes [Your personal information]
 
-- [ ] Step 1
-- [ ] Step 2
+You can click the continue button.
 
-> [!NOTE]
->
-> ### Things to watch for:
->
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
-> - [Etc]
-
-## Third Task: [TASK NAME] - X minutes
-
-- [ ] Step 1
-- [ ] Step 2
+- So looking at this page, what's jumping out to you?
+- What would you do next?
 
 > [!NOTE]
 >
 > ### Things to watch for:
 >
-> - [Does the participant understand meaning of xyz?]
-> - [Does the participant notice xyz?]
-> - [Etc]
+> - Does the participant explore the page?
+> - Does the participant understand the purpose of the page?
+> - Does the participant think they should make any changes?
 
-# Post-Task Interview - X minutes
+## 1b. Task goal: Validate whether Veterans can review their contact information and move on. - 2 minutes [Your contact information]
+
+You can click the continue button.
+
+- So looking at this page, what's jumping out to you?
+- What would you do next?
+
+We're now moving to a section of the form that deals with dependents and death. We use the word 'death.' We are trying to understand if this word is clear and comfortable for Veterans in this context. Your feedback on this is really valuable to us.
+
+> [!NOTE]
+>
+> ### Things to watch for:
+>
+> - Does the participant explore the page?
+> - Does the participant understand the purpose of the page?
+> - Does the participant think they should make any changes?
+
+## 2. Task goal: Validate whether Veterans can answer the death question and move on in the form. - 5 minutes [Has any of your dependents died?]
+
+You can click the continue button.
+
+- What are your initial thoughts when you read this question?
+- What would you do next?
+
+> [!NOTE]
+>
+> ### Things to watch for:
+>
+> - Does the participant get tripped up by the death question?
+> - Does the participant understand the purpose of the page?
+> - Does the participant think they should make any changes?
+
+## 3. Task goal: Validate whether Veterans can make the right selection for their spouse and move on in the form. - 5 minutes [Changes to Maya Patel]
+
+You can click the continue button.
+
+- What would you do next?
+- Do you know how this dependent is related to the person in the scenario?
+- What else do you notice about the page?
+
+> [!NOTE]
+>
+> ### Things to watch for:
+>
+> - Does the participant get tripped up by the question in any way?
+> - Does the participant have the right information on the screen?
+
+## 3a. Task goal: Validate whether Veterans can make the right selection for their son getting married and move on in the form. - 5 minutes [Changes to Jared Patel]
+
+You can click the continue button.
+
+- What would you do next?
+- Do you know how this dependent is related to the person in the scenario?
+- What else do you notice about the page?
+
+> [!NOTE]
+>
+> ### Things to watch for:
+>
+> - Does the participant get tripped up by the question in any way?
+> - Does the participant have the right information on the screen?
+
+## 4. Task goal: Validate whether Veterans understand what's coming next: Adding dependents. - 5 minutes [Review reasons you can add a dependent]
+
+You can click the continue button.
+
+- What's this page about?
+- Based on the scenario, what would you do next here?
+- What do you think will happen next?
+
+> [!NOTE]
+>
+> ### Things to watch for:
+>
+> - Does the participant get tripped up by the question in any way?
+> - Does the know what's coming next?
+
+## 4a. Task goal: Validate whether Veterans understand who they need to add: A parent. - 5 minutes [Who do you want to add as a dependent?]
+
+You can click the continue button.
+
+- What would you do next?
+
+> [!NOTE]
+>
+> ### Things to watch for:
+>
+> - Does the participant get tripped up by the question in any way?
+
+## 4b. Task goal: Validate whether Veterans would finish the form. - 10 minutes [Update your dependents using different forms]
+
+You can click the continue button.
+
+- What stands out about this page?
+- Is this what you expected?
+- What would you do next?
+
+> [!NOTE]
+>
+> ### Things to watch for:
+>
+> - Does the participant want to finish the form?
+> - When would the participant complete the extra forms?
+
+## 5. Task goal: Validate whether Veterans would submit the form. - 5 minutes [Review application]
+
+You can click the continue button.
+
+- What stands out about this page?
+- Is this what you expected?
+- What would you do next?
+
+> [!NOTE]
+>
+> ### Things to watch for:
+>
+> - Does the participant want to submit the form?
+
+## 5a. Task goal: Validate whether Veterans would submit the form. - 5 minutes [Confirmation page]
+
+You can click the submit button.
+
+- What stands out about this page?
+- Is this what you expected?
+- Would you change anything about this page?
+
+> [!NOTE]
+>
+> ### Things to watch for:
+>
+> - Does the participant understand what's next?
+
+# Post-Task Interview - 2 minutes
 
 - Question 1
 - Question 2
@@ -181,7 +301,7 @@ Okay, thanks for doing your best to keep that scenario in mind as you look at th
 
   <mark>**[Record answer here]**</mark>
 
-## Thank-You and Closing - X minutes
+## Thank-You and Closing - 2 minutes
 
 Well we really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work on the site and make sure it really works for Veterans.
 
