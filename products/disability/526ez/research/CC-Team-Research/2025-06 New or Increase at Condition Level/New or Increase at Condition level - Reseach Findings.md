@@ -72,13 +72,13 @@ The study was conducted via Zoom, with participants recruited by Perigean. 5 par
 - Interview transcripts
 # Hypotheses and Conclusions
 
-| Hypothesis | Conclusion |
-|------------|------------|
-| Veterans will be able to easily add several different conditions to their claim | **Mostly true.** Veterans easily added a new condition and two increase conditions to their claim. The one exception was that several Veterans had trouble adding a secondary condition. |
-| Veterans will understand how to enter an approximate date on the date screens | **True.** Veterans were able to enter partial dates (e.g. month + year) with no problems. |
-| The condition-specific flow combined with condition-specific page headings will help Veterans feel confident they're entering the right information | **True.** The use of the condition name as the header for each follow-up screen helped Veterans orient themselves. We didn’t observe any disorientation. |
-| The label on the autocomplete menu, "Select or enter new condition," will encourage Veterans to use autosuggestions | **Mostly true.** 6 of the 7 Veterans were able to easily use the autocomplete menu. One Veteran had trouble; see discussion below. |
-| Veterans will read all four cause options before making a selection | **Partially true.** 5 of 7 Veterans read through the options before making a selection. This is an improvement from previous research; we believe it’s due in part to more concise and scannable option text. Caveat: this result may be an artifact of the “think aloud” testing format and may not hold up in the real world. |
+| Hypothesis                                                                                      | Conclusion                                                                                                                                                                                                 |
+|:------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Veterans will be able to easily add several different conditions to their claim                 | **Mostly true.** Veterans easily added a new condition and two increase conditions to their claim. The one exception was that several Veterans had trouble adding a secondary condition.                   |
+| Veterans will understand how to enter an approximate date on the date screens                   | **True.** Veterans were able to enter partial dates (e.g. month + year) with no problems.                                                                                                                  |
+| The condition-specific flow combined with condition-specific page headings will help Veterans feel confident they're entering the right information | **True.** The use of the condition name as the header for each follow-up screen helped Veterans orient themselves. We didn’t observe any disorientation.                                                    |
+| The label on the autocomplete menu, "Select or enter new condition," will encourage Veterans to use autosuggestions | **Mostly true.** 6 of the 7 Veterans were able to easily use the autocomplete menu. One Veteran had trouble; see discussion below.                                                                          |
+| Veterans will read all four cause options before making a selection                             | **Partially true.** 5 of 7 Veterans read through the options before making a selection. This is an improvement from previous research; we believe it's due in part to more concise and scannable option text. Caveat: this result may be an artifact of the “think aloud” testing format and may not hold up in the real world. |
 
 # Key Findings
 
@@ -94,14 +94,14 @@ Each of these key findings is covered in the Detailed Findings section below.
 
 ### Success Rate for each Task
 
-| Task                       | Result        | Success Rate |
-|----------------------------|---------------|--------------|
-| Add a new condition        | ✅ Success    | 100%         |
-| Add a rated condition      | ✅ Success    | 100%         |
-| Add another rated condition| ✅ Success    | 100%         |
-| Add a secondary condition  | ⚠️ Mixed      | 57%          |
-| Edit a condition           | ✅ Success *  | 100%         |
-| Delete a condition         | ✅ Success    | 100%         |
+| Task                        | Result        | Success Rate |
+|:----------------------------|:--------------|:-------------|
+| Add a new condition         | ✅ Success    | 100%         |
+| Add a rated condition       | ✅ Success    | 100%         |
+| Add another rated condition | ✅ Success    | 100%         |
+| Add a secondary condition   | ⚠️ Mixed      | 57%          |
+| Edit a condition            | ✅ Success *  | 100%         |
+| Delete a condition          | ✅ Success    | 100%         |
 
 *\* Two participants encountered some difficulty but were able to successfully complete the task.*
 
@@ -198,15 +198,15 @@ All participants used the list & loop pattern correctly. One participant had a s
 
 We asked participants to add a condition to their claim which had developed recently (e.g. Tendonitis in the shoulder) and was caused by a service-connected disability (e.g. Sciatica). All participants had at least some difficulty with this task.
 
-| Participant | New condition or rated condition | Condition name | Cause     | Underlying disability |
-|-------------|----------------------------------|----------------|-----------|-----------------------|
-| P1          | ❌ Chose a rated condition        |                |           |                       |
-| P2          | ✅ Chose new condition            | Free text: “sciatica up to shoulder” | ✅ Secondary | ✅ Sciatica |
-| P3          | ✅ Chose new condition            | Free text: “Tendonitis” | ❌ VA care |                       |
-| P4          | ✅ Chose new condition            | ✅ Autosuggest: “Tendonitis (tendinitis) in shoulder” | ✅ Secondary | ✅ Sciatica |
-| P5          | ❌ Chose a rated condition        |                |           |                       |
-| P6          | ❌ Chose a rated condition        |                |           |                       |
-| P7*         | ✅ Chose new condition            | Free text: “Hearing loss related to tinnitus” | ✅ Secondary | ✅ Sciatica |
+| Participant | New condition or rated condition | Condition name                                             | Cause             | Underlying disability |
+|:------------|:---------------------------------|:----------------------------------------------------------|:------------------|:----------------------|
+| P1          | ❌ Chose a rated condition        |                                                           |                   |                       |
+| P2          | ✅ Chose new condition            | Free text: “sciatica up to shoulder”                      | ✅ Secondary      | ✅ Sciatica           |
+| P3          | ✅ Chose new condition            | Free text: “Tendonitis”                                   | ❌ VA care        |                       |
+| P4          | ✅ Chose new condition            | ✅ Autosuggest: “Tendonitis (tendinitis) in shoulder”     | ✅ Secondary      | ✅ Sciatica           |
+| P5          | ❌ Chose a rated condition        |                                                           |                   |                       |
+| P6          | ❌ Chose a rated condition        |                                                           |                   |                       |
+| P7*         | ✅ Chose new condition            | Free text: “Hearing loss related to tinnitus”             | ✅ Secondary      | ✅ Sciatica           |
 
 *\* Due to the way the session proceeded, Participant 7 used a different scenario, “Hearing loss secondary to Tinnitus”.*
 
@@ -319,15 +319,15 @@ However, multiple participants misunderstood or hesitated over the fourth option
 
 All participants struggled with providing accurate dates for when their conditions began or worsened, and most relied on guesswork to provide an answer. One Veteran even described this as the most difficult part of the prototype. This finding echoes what we’ve heard from VSRs: when Veterans provide dates on forms, they’re often incorrect.
 
-| Participant | *Expressed Uncertainty* | *Date entered*     | *Noticed Hint Text* |
-|-------------|--------------------------|--------------------|---------------------|
-| **P1**      | 🤔 Yes                   | Month, Year        | ✅ Yes              |
-| **P2**      | No                       | Month, Day, Year   | ✅ Yes              |
-| **P3**      | 🤔 Yes                   | Month, Day, Year   | ✅ Yes              |
-| **P4**      | 🤔 Yes                   | Month, Day, Year   | ❌ No               |
-| **P5**      | 🤔 Yes                   | Month, Day, Year   | ❌ No               |
-| **P6**      | 🤔 Yes                   | Month, Day, Year   | ❌ No               |
-| **P7\***    | 🤔 Yes                   | Month, Day, Year   | ❌ No               |
+| Participant | Expressed Uncertainty | Date entered       | Noticed Hint Text |
+|:------------|:----------------------|:-------------------|:------------------|
+| P1          | 🤔 Yes                | Month, Year        | ✅ Yes            |
+| P2          | No                    | Month, Day, Year   | ✅ Yes            |
+| P3          | 🤔 Yes                | Month, Day, Year   | ✅ Yes            |
+| P4          | 🤔 Yes                | Month, Day, Year   | ❌ No             |
+| P5          | 🤔 Yes                | Month, Day, Year   | ❌ No             |
+| P6          | 🤔 Yes                | Month, Day, Year   | ❌ No             |
+| P7*         | 🤔 Yes                | Month, Day, Year   | ❌ No             |
 
 ### Date Uncertainty
 
@@ -385,15 +385,15 @@ Despite getting stuck initially, the Veteran figured out the intended behavior o
 
 When adding a new condition, only 3 of 7 participants selected a condition from the autosuggestion menu. The remaining 4 participants typed their entry as free text, either ignoring the autosuggested terms or not seeing them at all.
 
-| Participant | *Used Autosuggest* | *Entry Method*                              | *Reason*                                                   |
-|-------------|---------------------|---------------------------------------------|------------------------------------------------------------|
-| **P1**      | ❌ No               | Free text: “hidradenitis supurativa”        | No autosuggestions                                         |
-| **P2**      | ❌ No               | Free text: “Dislocated Elbow”               | No autosuggestions                                         |
-| **P3**      | ❌ No               | Free text: “Respiratory”                    | No autosuggestions                                         |
-| **P4**      | ❌ No               | Free text: “Allergies”                      | Did not recognize “chronic rhinitis, allergic or non-allergic” |
-| **P5**      | ✅ Yes              | Typed “TBI” and selected from autosuggest   |                                                            |
-| **P6**      | ✅ Yes              | Typed “neurop..” and selected from autosuggest |                                                         |
-| **P7\***    | ✅ Yes              | Typed “ptsd” and selected from autosuggest  |                                                            |
+| Participant | Used Autosuggest | Entry Method                           | Reason                                                      |
+|:------------|:-----------------|:---------------------------------------|:------------------------------------------------------------|
+| P1          | ❌ No            | Free text: “hidradenitis supurativa”   | No autosuggestions                                          |
+| P2          | ❌ No            | Free text: “Dislocated Elbow”          | No autosuggestions                                          |
+| P3          | ❌ No            | Free text: “Respiratory”               | No autosuggestions                                          |
+| P4          | ❌ No            | Free text: “Allergies”                 | Did not recognize “chronic rhinitis, allergic or non-allergic” |
+| P5          | ✅ Yes           | Typed “TBI” and selected from autosuggest |                                                            |
+| P6          | ✅ Yes           | Typed “neurop..” and selected from autosuggest |                                                           |
+| P7*         | ✅ Yes           | Typed “ptsd” and selected from autosuggest |                                                           |
 ## Finding 8: Page titles using the condition name helped participants stay oriented
 
 | <img src="images/fig13-page_titles.png" alt="Page titles" width="300"> |
