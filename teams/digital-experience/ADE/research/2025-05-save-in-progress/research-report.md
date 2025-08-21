@@ -380,7 +380,7 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
 
 ## Recommendations
 
-### TRY TO FIX
+### Try to fix
 
 #### For the Design System and Forms Library team
 1. **Revise the Save in Progress messaging to communicate more effectively that we're saving the user's form information as it's being entered/updated**. We need to revisit how we communicate what the form is doing so that we inform every user without being annoying.
