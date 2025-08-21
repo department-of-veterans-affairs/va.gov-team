@@ -146,9 +146,11 @@ We will work with VA stakeholders including Erika Washburn, Michelle Middaugh, B
 
 ### Recruitment criteria
 We will recruit 9–15 Editors, with representation across three key groups to capture a diversity of workflows, content types, and organizational contexts:
-3–5 Editors from Veterans Affairs Medical Centers (VAMCs)
-3–5 Editors from Vet Centers
-3–5 Editors from Veterans Benefits Administration (VBA)
+3 Editors from Veterans Affairs Medical Centers (VAMCs) (including Outreach)
+3 Editors from Vet Centers (including Outreach)
+3 Editors from Veterans Benefits Administration (VBA)
+3 Editors from internal teams
+
 
 **Participant requirements**
 - Current CMS users who regularly create, edit, or publish content in Drupal for VA.gov.
@@ -162,17 +164,15 @@ We will recruit 9–15 Editors, with representation across three key groups to c
 - Comfort with and adherence to accessibility, plain language, and VA content standards.
 
 **Exclusions**
-- CMS users whose role is exclusively technical or development-focused (e.g., site administrators, engineers) without Editorial duties.
-- VISN Editors
+- VISN Editors (too broad and not always Editors who work in Drupal frequently)
 - Inactive Editors
-- CMS users on products outside of VAMCs, VBA, and Vet Centers
 
 ### Prepare
 
 * Pilot participant email:
 Hello,
 
-The Drupal CMS research team is working on improving Editor experiences with Drupal CMS and its support resources. To ensure that improvements are informed by Editor feedback, the team would like to speak with you to learn about your role, your Drupal responsibilities, your experience Drupal onboarding and support resources, and your troubleshooting strategies. We will conduct one hour sessions that take place between September 4-17, 2025 to gather information from Editors. You may use this link to book a one hour time slot at your convenience. Thank you for your interest in sharing your feedback! Please contact sofia.kirkman@va.gov on Microsoft Teams or Outlook with any questions. 
+The Drupal CMS research team is working on improving Editor experiences with Drupal CMS and its support resources. To ensure that improvements are informed by Editor feedback, the team would like to speak with you to learn about your role, your Drupal responsibilities, your experience Drupal onboarding and support resources, and your troubleshooting strategies. We will conduct one hour sessions that take place between September 15-30, 2025 to gather information from Editors. You may use this link to book a one hour time slot at your convenience. Thank you for your interest in sharing your feedback! Please contact sofia.kirkman@va.gov on Microsoft Teams or Outlook with any questions. 
 
 * Date and time of pilot session: September 2 – 3, 2025
 
