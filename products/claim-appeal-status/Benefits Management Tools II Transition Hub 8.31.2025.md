@@ -22,6 +22,7 @@ Included are links to more specific transition hubs where you can find direct li
 - [Enablement Team Contacts](#enablement-team-contacts)
 - [Stakeholders and Supported Initiatives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/Benefits%20Management%20Tools%20II%20Transition%20Hub%208.31.2025.md#stakeholders-and-supported-initiatives)
 - [Content Center and Medallia Data Analysis - Document Upload Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/claim-appeal-status/Benefits%20Management%20Tools%20II%20Transition%20Hub%208.31.2025.md#manual-process-for-analyzing-contact-centermedallia-data)
+- [Analytics Dashboards](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/claim-appeal-status/Benefits%20Management%20Tools%20II%20Transition%20Hub%208.31.2025.md#analytics-dashboards)
 
 
 ---
@@ -68,21 +69,24 @@ By accessing this tool, Veterans can stay informed about their disability evalua
 - Staging users  
 - Analytics  
 
-**Analytics Dashboards**
-- [Payment History: CSAT Payment History (Sharepoint)](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/0%20-%20Benefits%20Portfolio%20-%20General/UX-Data/CSAT-Benefits-Portfolio.xlsx?d=w11ada4db693c4c579ec75ae0208c0bcb&csf=1&web=1&e=vJQWBq&nav=MTVfe0I3MzI1OTlCLTBCMTMtNEFGMS1BRjZELTgxMjczQjQ5OUZERH0)
-- [Decision Reviews: CSAT DRs (Sharepoint)](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/0%20-%20Benefits%20Portfolio%20-%20General/UX-Data/CSAT-Benefits-Portfolio.xlsx?d=w11ada4db693c4c579ec75ae0208c0bcb&csf=1&web=1&e=y1zIv4&nav=MTVfezBFREFDM0U1LTE3QTEtNEQ2NS04M0MxLTkyQTBGNTJBQjJBMX0)
-- Evidence request:
--   [Web GA: (Explore report > CST evidence requests > Funnel - Evidence + 5103 responses)](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/wdstw7U5TR-vGC5L8Xl3ow)
--   [Evidence request responses trends (sharepoint)](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Benefits%20Management%20-%20CST/CST%20analytics%20+%20success%20metrics/CST%20analytics.xlsx?d=we88fbaf03e8e4b6a8b3906e2f470beb9&csf=1&web=1&e=1HA7Oj&nav=MTVfe0IwQkE3RTRBLUYxOTItNDRCNC04RUIzLTI1NDYwRDIzOUM1Q30)
-VA Letters and Documents:
-  - [web GA: Explore report > Benefits Letters > Benefits Letter Downloads](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/SvIXt89hQnCx4HDFQ6iKNw)
-  - [DataDog Report, by letter, by month](https://vagov.ddog-gov.com/metric/explorer?fromUser=true&start=1704092400000&end=1735714799999&paused=true#N4Ig7glgJg5gpgFxALlAGwIYE8D2BXJVEADxQEYAaELcqyKBAC1pEbghkcLIF8qo4AMwgA7CAgg4RKUAiwAHOChASAtnADOcAE4RNIKtrgBHPJoQaUAbVBGN8qVoD6gnNtUZCKiOq279VKY6epbINiAiGOrKQdpYZAYgUJ4YThr42gDGSsgg6gi6mZaBZnHKGniqyABuiBpOGPIQAHQaCJ4aUM2qOABGEGhwToMICDr1UDhgImg4GFBOcorAcCLVyHAA1hoAtPLaOFA8AAS9WMfAS3A8zRj1mfgiCAAUAJQgPAC6VK7ueJihcK-VT-DAxUrxD7fEBtLCDGQgeQYEZjZSTGBOTIAjQQTKJNCiIZXco4AlQfGEpz0JjKERuDxoD78CD2TBYRYKHIgXoYbSWL48Pgw+QEhAAYSkwhgKBE-zQPCAA)
-[Abandonment rate](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/SvIXt89hQnCx4HDFQ6iKNw)
+## Analytics Dashboards
 
- 
-- DD CST Tracked Item Stats  
-- DD CST Error Monitoring  
-- DD BMT Silent Failure Monitoring  
+[Payment History: CSAT Payment History (Sharepoint)](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/0%20-%20Benefits%20Portfolio%20-%20General/UX-Data/CSAT-Benefits-Portfolio.xlsx?d=w11ada4db693c4c579ec75ae0208c0bcb&csf=1&web=1&e=vJQWBq&nav=MTVfe0I3MzI1OTlCLTBCMTMtNEFGMS1BRjZELTgxMjczQjQ5OUZERH0)
+
+[Decision Reviews: CSAT DRs (Sharepoint)](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/0%20-%20Benefits%20Portfolio%20-%20General/UX-Data/CSAT-Benefits-Portfolio.xlsx?d=w11ada4db693c4c579ec75ae0208c0bcb&csf=1&web=1&e=y1zIv4&nav=MTVfezBFREFDM0U1LTE3QTEtNEQ2NS04M0MxLTkyQTBGNTJBQjJBMX0)
+
+Evidence request:
+[Web GA: (Explore report > CST evidence requests > Funnel - Evidence + 5103 responses)](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/wdstw7U5TR-vGC5L8Xl3ow)
+
+[Evidence request responses trends (sharepoint)](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Benefits%20Management%20-%20CST/CST%20analytics%20+%20success%20metrics/CST%20analytics.xlsx?d=we88fbaf03e8e4b6a8b3906e2f470beb9&csf=1&web=1&e=1HA7Oj&nav=MTVfe0IwQkE3RTRBLUYxOTItNDRCNC04RUIzLTI1NDYwRDIzOUM1Q30)
+
+VA Letters and Documents:
+
+[web GA: Explore report > Benefits Letters > Benefits Letter Downloads](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/SvIXt89hQnCx4HDFQ6iKNw)
+
+[DataDog Report, by letter, by month](https://vagov.ddog-gov.com/metric/explorer?fromUser=true&start=1704092400000&end=1735714799999&paused=true#N4Ig7glgJg5gpgFxALlAGwIYE8D2BXJVEADxQEYAaELcqyKBAC1pEbghkcLIF8qo4AMwgA7CAgg4RKUAiwAHOChASAtnADOcAE4RNIKtrgBHPJoQaUAbVBGN8qVoD6gnNtUZCKiOq279VKY6epbINiAiGOrKQdpYZAYgUJ4YThr42gDGSsgg6gi6mZaBZnHKGniqyABuiBpOGPIQAHQaCJ4aUM2qOABGEGhwToMICDr1UDhgImg4GFBOcorAcCLVyHAA1hoAtPLaOFA8AAS9WMfAS3A8zRj1mfgiCAAUAJQgPAC6VK7ueJihcK-VT-DAxUrxD7fEBtLCDGQgeQYEZjZSTGBOTIAjQQTKJNCiIZXco4AlQfGEpz0JjKERuDxoD78CD2TBYRYKHIgXoYbSWL48Pgw+QEhAAYSkwhgKBE-zQPCAA)
+
+[Abandonment rate](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/SvIXt89hQnCx4HDFQ6iKNw)
 
 **Engineering**
 - High-level view of systems  
