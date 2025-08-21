@@ -1,4 +1,5 @@
-# Notes by Perigean. Conversation Guide used as the structure for notes.
+
+# P10. Notes by Perigean. Conversation Guide used as the structure for notes.
 
 Start recording.
 
@@ -9,9 +10,9 @@ Start recording.
 
 **Discussion**
 
-Could you tell me a bit about yourself as a Veteran: what branch of the military did you serve, and when did you retire or separate? In the Marines from 2007 to 2011. 
+Could you tell me a bit about yourself as a Veteran: what branch of the military did you serve, and when did you retire or separate? In the [redacted] from 2007 to 2011. 
 
-How have you been involved with the VA – both in the past and now? I first got service connected in 2017; in June I was 100 percent. I have been dealing with the VA for a few years I guess. I have been to VA from IN, UT, WA, TX, and PR. I have been to a few VA’s
+How have you been involved with the VA – both in the past and now? I first got service connected in 2017; in [redacted] I was 100 percent. I have been dealing with the VA for a few years I guess. I have been to [redacted]. I have been to a few VA’s
 
 
 
@@ -30,12 +31,12 @@ Now we're going to move to the financial portion of our discussion. I want to ma
 
 
 * *Overview of their financial obligations*
-    * (VBA debts) Have you had experience with owing the VA money? If you’re comfortable, could you tell me about that experience? Yes I was in school from 2021 to 2024 and I was in WR&E and overpaid they took 25 a month and it was finally paid off. It was automatically taken from my monthly deposit. 
+    * (VBA debts) Have you had experience with owing the VA money? If you’re comfortable, could you tell me about that experience? Yes I was in school from 2021 to 2024 and I was in [redacted] and overpaid they took [redacted] a month and it was finally paid off. It was automatically taken from my monthly deposit. 
         * What was the situation?
         * When and how were you notified of the debt? I wasn’t notified. Then I happened to look at my deposit and it didn’t look right so I called and they explained to me that I had a school overpayment. So, I received a letter but I don’t recall it. They said they sent one. on the website where it say overpayment it didn’t show there at all. I was being deducted and it didn’t show there, I had to call to know. 
         * How to make it easier: Digital world these days so a notification in the app or email would have helped because sometimes they mail multiple letters during claims and appointments. If I get it digitally. I may not open mail immediately so getting it digitally would have helped me understand. 
         * How long did it take you to pay it off? Or do you have a rough idea when you’ll pay it off?
-    * (copays) Do you have any experience with medical copayments through the VA? Only once in WA and it was $50 years ago. Since then I have never paid anything. 
+    * (copays) Do you have any experience with medical copayments through the VA? Only once in [redacted] and it was $ [redacted] years ago. Since then I have never paid anything. 
 
  \
 
