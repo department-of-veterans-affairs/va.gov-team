@@ -1,5 +1,4 @@
 
-
 # Notes by Perigean. Conversation Guide used as the structure for notes.
 
 Start recording.
@@ -11,7 +10,7 @@ Start recording.
 
 **Discussion**
 
-Could you tell me a bit about yourself as a Veteran: what branch of the military did you serve, and when did you retire or separate? *[redacted], separated 2013. I’m a disabled Veteran, I use healthcare, education. 
+Could you tell me a bit about yourself as a Veteran: what branch of the military did you serve, and when did you retire or separate? *[redacted, separated 2013. I’m a disabled Veteran, I use healthcare, education. 
 
 How have you been involved with the VA – both in the past and now?
 
