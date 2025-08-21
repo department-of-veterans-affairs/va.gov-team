@@ -1,16 +1,17 @@
 # 🚧 🚧 🚧 Work in Progress 🚧 🚧 🚧
 
-<!-----
+
 
 ---
-title: "[Study] Research Findings"
-product: "Product Name"
-team: "Team Name"
+title: "[Mobile App Debt Portal: Overpayments and Copayments Usability Study] Research Findings"
+product: "Mobile App Debt Portal: Overpayments and Copayments"
+team: "Mobile Feature Support"
 office: "Office of the CTO - Digital Experience (OCTO-DE)"
-date: "YYYY-MM-DD"
-researchers:
-  - "Researcher/Designer 1"
-  - "Researcher/Designer 2"
+date: "2025-08-21"
+researchers and designers:
+  - "Emily DeWan - UX Researcher"
+  - "Natasha Huckleberry - UX Designer"
+  - "Thomas Michaud - UX Designer"
 research_goals:
   - "Goal 1"
   - "Goal 2"
@@ -96,9 +97,13 @@ synthesis_tools_used:
   - "Affinity Mapping"
 ---
 
+
+
 <br>**This is a template, PLEASE MAKE A COPY**
 
 ---
+
+
 
 # [Study] Research Findings 
 
@@ -441,5 +446,3 @@ _[In the Markdown table below, fill in your study name and all "--" placeholders
 | Braille Reader | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
  </details>
-
- ----->
