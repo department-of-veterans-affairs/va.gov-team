@@ -95,6 +95,8 @@ By accessing this tool, Veterans can stay informed about their disability evalua
 
 **Manual Process for Analyzing Contact Center/Medallia Data**
 - [BMT2 Manual Process for Analyzing Contact Center & Medallia Data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/BMT2%20Manual%20Process%20for%20Analyzing%20Contact%20Center%20%26%20Medallia%20Data.md)
+- [Call Center and Medallia Data Analysis](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared%20Documents/Benefits%20Management%20-%20CST/cst%20-%20document%20uploads%20+%20upload%20status/Call%20Center%20and%20Medallia%20Data%20Analysis?csf=1&web=1&e=ANP5jy)
+- [Call Center Data Analysis/Synthesis](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1730231194923/cb140daff8eb9a2988238c992ec32e7c9c4963c6?sender=ub840cb68d1886aa35b202891)
 
 ---
 
