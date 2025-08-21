@@ -82,11 +82,11 @@ The study was conducted via Zoom, with participants recruited by Perigean. 5 par
 
 # Key Findings
 
-1. Veterans found the new condition experience easy to use and highly intuitive  
-2. Participants had a hard time adding a condition that was secondary to a previously rated condition  
-3. The editing flow was difficult for some participants  
-4. The Cause options have improved, but still caused some difficulty  
-5. No one knows the dates their condition started or worsened  
+1. [Veterans found the new condition experience easy to use and highly intuitive](#finding-1-veterans-found-the-new-condition-experience-easy-to-use-and-highly-intuitive)  
+2. [Participants had a hard time adding a condition that was secondary to a previously rated condition](#finding-2-participants-had-a-hard-time-adding-a-condition-that-was-secondary-to-a-previously-rated-condition)  
+3. [The editing flow was difficult for some participants](#finding-3-the-editing-flow-was-difficult-for-some-participants)  
+4. [The Cause options have improved, but still caused some difficulty](#finding-4-the-cause-options-have-improved-but-still-caused-some-difficulty)  
+5. [No one knows the dates their condition started or worsened](#finding-5-no-one-knows-the-dates-their-condition-started-or-worsened)  
 
 Each of these key findings is covered in the Detailed Findings section below.
 
