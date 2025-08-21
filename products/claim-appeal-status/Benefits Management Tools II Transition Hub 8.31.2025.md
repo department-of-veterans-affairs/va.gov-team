@@ -93,6 +93,9 @@ By accessing this tool, Veterans can stay informed about their disability evalua
 - Accessibility documentation  
 - Accessibility project board  
 
+**Manual Process for Analyzing Contact Center/Medallia Data**
+- [BMT2 Manual Process for Analyzing Contact Center & Medallia Data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/BMT2%20Manual%20Process%20for%20Analyzing%20Contact%20Center%20%26%20Medallia%20Data.md)
+
 ---
 
 ## Roadmap
