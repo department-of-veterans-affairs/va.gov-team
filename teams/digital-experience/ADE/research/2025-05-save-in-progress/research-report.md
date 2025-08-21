@@ -226,7 +226,7 @@ For demographic details, see [Research participants](#user-content-research-part
 - On the Review/Submit page, a **screen magnifier user didn't see the "+"'s to expand the accordions because they're so far to the right**. He saw the names of the form sections, but there was no visual indication that there was anything more to scroll right to see. 
   <details><summary>Screenshot of the accordion magnification issue in Figure 5</summary>
 
-Figure 5 shows 3 horizontal gray bars labeled with sections of the form but with no indication of how to interact with them.
+  Figure 5 shows 3 horizontal gray bars labeled with sections of the form but with no indication of how to interact with them.
 
   <img src="./images/p13-review-accordions-wo-plus.png" width="50%" height="50%" alt="3 horizontal gray bars labeled 'Your contact information', 'Records requested', and 'Additional information' with no indication of how to interact with them">
   </details>
@@ -281,7 +281,7 @@ Figure 5 shows 3 horizontal gray bars labeled with sections of the form but with
 
   <details><summary>Screenshot of the U.S. military base issue in Figure 6</summary>
 
-Figure 6 shows a selected checkbox that says 'I live on a United States mil' on the first line and 'base outside of the U.S.' on the second line.
+  Figure 6 shows a selected checkbox that says 'I live on a United States mil' on the first line and 'base outside of the U.S.' on the second line.
 
   <img src="./images/p13-military-base-checkbox-checked.png" width="50%" height="50%" alt="A selected checkbox that says 'I live on a United States mil' (truncated word) on the first line and 'base outside of the U.S.' on the second line">
   </details>
@@ -301,7 +301,7 @@ Figure 6 shows a selected checkbox that says 'I live on a United States mil' on 
 
   <details><summary>Screenshot of the affirmation statements  issue in Figure 7</summary>
 
-Figure 7 starts with a note about criminal penalties for withholding information or providing incorrect information. Just below that says 'Statement of truth' with a confirmation statement. Below that is a required field for your name, followed by an unselected required checkbox to certify the correctness of the information entered above.
+  Figure 7 starts with a note about criminal penalties for withholding information or providing incorrect information. Just below that says 'Statement of truth' with a confirmation statement. Below that is a required field for your name, followed by an unselected required checkbox to certify the correctness of the information entered above.
 
   <img src="./images/form-pg9-statement-of-truth.png" width="50%" height="50%" alt="A screen with a note about criminal penalties for withholding information or providing incorrect information. Just below that says 'Statement of truth' in large bold letters. Below that is 'I confirm that the identifying information in this form is accurate and has been represented correctly' and then 'I have read and accept the privacy policy' with a link to the policy. Below that is a required field titled 'Your full name', followed by an unselected required checkbox that says 'I certify the information above is correct and true to the best of my knowledge and belief.'">
   </details>
@@ -366,7 +366,7 @@ There are a number of findings that were outside the scope of the research goals
      
   <details><summary>Screenshot of the form name issue in Figure 8</summary>
 
-Figure 8 shows the top of the intro page with the heading "Request personal records", and immediately below that is text about the Freedom of Information Act (FOIA).
+  Figure 8 shows the top of the intro page with the heading "Request personal records", and immediately below that is text about the Freedom of Information Act (FOIA).
 
   <img src="./images/Intro-pg-unauth-top-h1.png" width="50%" height="50%" alt="The top of the intro page has the heading 'Request personal records'. Immediately below that is text that says 'Freedom of Information Act (FOIA) or Privacy Act (PA) Request (VA Form 20-10206)'">
   </details>
