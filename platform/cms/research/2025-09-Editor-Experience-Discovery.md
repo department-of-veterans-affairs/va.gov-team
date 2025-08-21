@@ -38,7 +38,7 @@ What are you trying to learn from this research?
 1. Understand the broader work context for Editors: Explore the full scope of Editors’ responsibilities, both inside and outside of Drupal, to understand how CMS work fits into their day-to-day priorities.
 2. Identify CMS usage patterns and pain points: Learn about Editor understanding of Drupal and which Drupal tasks are most frequent, most time-consuming, or most challenging for Editors.
 3. Assess training effectiveness and learning needs: Understand Editor motivations, learning styles, and preferences for training delivery. Identify opportunities to design onboarding and training experiences that are concise, memorable, and enable Editors to work confidently. Determine ways to accelerate onboarding and improve explanations of complex processes for new Editors.
-4. Evaluate the quality and completeness of support resources: Understand how Editors currently use or supplement available resources; identify missing, outdated, or unclear support material; and discover changes would make resources more useful for ongoing learning.
+4. Evaluate the quality and completeness of support resources: Understand how Editors currently use or supplement available resources; identify missing, outdated, or unclear support material; and discover changes that would make resources more useful for ongoing learning.
 
 ### Outcome
 Findings from this study will provide a clear, evidence-based understanding of Editors’ roles, workflows, pain points, and learning needs. This insight will guide the Platform team in designing targeted improvements to the Drupal CMS experience, including:
