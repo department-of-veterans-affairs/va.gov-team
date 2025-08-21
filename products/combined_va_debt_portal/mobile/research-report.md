@@ -1,7 +1,3 @@
-# 🚧 🚧 🚧 Work in Progress 🚧 🚧 🚧
-
-
-
 ---
 title: "[Mobile App Debt Portal: Overpayments and Copayments Usability Study] Research Findings"
 product: "Mobile App Debt Portal: Overpayments and Copayments"
