@@ -624,7 +624,108 @@ If he checked back, he would be expect to see the status
 
 ### per researcher:
 
-Pending review of recording.
+iPhone
+Safari
+
+Filled out a VA form online via a computer yes. 
+Experience with that form: “I didn’t have any trouble with it.”
+
+#### Re: Used the VAHB app before
+1:52 “I did once in the past, and it was too much of a hassle trying to do it on a small phone screen. I prefer doing it on a computer where I can actually type and not fight with a virtual keyboard.”
+
+Difficulty sharing screen on zoom “I rarely use Zoom on a phone, I usually do it on a computer so I am not familiar.” - ”I’ll be honest, I really don’t know where that is at on the iOS version of zoom.” (was on the top not the bottom for this user).
+
+“Ok, so let’s see if this will even install.”
+
+Asked about sign in technology now with ID.me or Login.gov
+
+“It’s such a hassle because other government sites are going strictly to Login.gov so its hard to keep them all straight.”
+
+#### Re: Navigation
+
+“Hopefully, there is something labeled forms.”
+
+Zoomed in on codespace screen to read and find button.
+
+#### Re: Screen 1
+
+9:18 “No I, don’t really have any real questions.”
+
+#### Re: Screen 2
+
+9:41 “Is this to be doing a new claim or doing something existing?”
+
+10:07 “Ok, it’s not 100% of what a new claim would be other than, I’m guessing maybe the one at the top of the screen right now?”
+
+Would choose option ‘I have evidence to submit for an open claim’.
+
+“Huh, ok. Well that was the next option, I don’t see anything crystal clear about a claim.”
+
+#### Re: Filling out the form
+
+11:41 while experiencing the error state on SSN “Nope, what didn’t it like… Required, entered. Hold on, let me just count 9 1s it would be easier. I just miscounted the number of 1s.”
+
+Other issues?
+12:18 “Nope, actually so far I haven’t had any fat finger issues so.”
+
+Hard to navigate or understand?
+No
+
+#### Re: Leaving form
+User selected “Finish my application later” link under form field on page.
+
+User did not dismiss the toast message. Scrolled around it
+
+#### Re: Returning to started form
+
+User went from the ‘active’ tab to ‘complete’ tab to find the started form, then back to the ‘active’ tab. 
+13:33 “I’m not seeing anything active, or calling up what I had just done. Continue, uh, continue form.”
+
+#### Re: Toast message
+13:42 “That little thing was blocking my view.”
+
+#### Re: Form entry
+
+When prompted to select United States in the Country, the user first checked the box for “I live on a United States military base outside of the U.S.” then caught himself, unchecked that box and navigated down to the country field to select “United States.”
+
+User asked if the phone number field required dashes. Noted that it doesn’t say one or the other.
+
+User made a typo when entering email. Caught himself, backed up and corrected before continuing.
+
+#### Statement entry:
+User misspelled test when entering it into this field, twice in a row due to hitting the a instead of s button on his phone (likely due to size of keypad).  
+16:40 “Oh geez, this is not fun on a tiny screen by the way. iPad would have been a lot easier.”
+
+#### Re: review page
+
+User did not expand any content at first just previewed full length of page then went back up to the top to open the areas to review his content before continuing on.
+
+#### Re: Submission
+
+User scrolled through submission page back and forth a few times.
+
+This looks like a typical VA form.
+
+Found no labels confusing. 
+
+#### Re: Returning back to the app
+Scrolled up and down on the page several times, paused onscreen over “Go back to Va.gov homepage” link area then stated.
+
+18:40 “Oh goodness, I don’t know where we started from for that. Was that the ‘Done’ thing or the ‘Va.gov homepage’.”
+
+User noted they know their form was submitted from this Forms page in the app because of the text “Submitted on August 13, 2025” and status “in progress”.
+
+Status means = 19:15 “The it’s in progress, it’s waiting to be evaluated I assume.”
+
+Check on the submission later, expect to see the status.
+
+This participant was unable to open the SuS survey link. They attempted to refresh, I attempted to generate a new link and share but the user only got a white screen. 
+
+User had some difficulty navigating between apps and back to their homescreen on their phone.
+
+#### Found the process overall
+26:35 “Um, other than trying to do it on this little phone, it was um, it was just fine. Like I said, I’m not somebody who normally does everything on the phone, usually if it’s an iOS app I’ll use my iPad, or just go to my computer.”
+
 
 ## P6:
 
