@@ -11,7 +11,7 @@ Start recording.
 
 **Discussion**
 
-Could you tell me a bit about yourself as a Veteran: what branch of the military did you serve, and when did you retire or separate? *US coast guard, separated 2013. I’m a disabled Veteran, I use healthcare, education. 
+Could you tell me a bit about yourself as a Veteran: what branch of the military did you serve, and when did you retire or separate? *[redacted], separated 2013. I’m a disabled Veteran, I use healthcare, education. 
 
 How have you been involved with the VA – both in the past and now?
 
@@ -30,12 +30,12 @@ Now we're going to move to the financial portion of our discussion. I want to ma
 
 * *Overview of their financial obligations*
     * (VBA debts) Have you had experience with owing the VA money? If you’re comfortable, could you tell me about that experience? *Yes, I have. 
-        * What was the situation? *Most recently I have a post 9/11 overpayment for $83, I have not received a letter for it, I figured it was an oversight on the VA and they know I overpaid. Then I had an overpayment of $1200 and it just went away after I disputed it. I don’t remember it was so long ago. 
+        * What was the situation? *Most recently I have a post 9/11 overpayment for $[redacted], I have not received a letter for it, I figured it was an oversight on the VA and they know I overpaid. Then I had an overpayment of $[redacted] and it just went away after I disputed it. I don’t remember it was so long ago. 
         * * There wasn’t much information on the letter, maybe a book stipend. 
         * When and how were you notified of the debt?
         * How long did it take you to pay it off? Or do you have a rough idea when you’ll pay it off?
     * (copays) Do you have any experience with medical copayments through the VA? *No. 
-        * Do you receive any of these bills? If so, how? *It could have gotten lost in the mail, I don’t have issues with my mail. It probably is an overpayment of $83, I haven’t put too much thought on it. 
+        * Do you receive any of these bills? If so, how? *It could have gotten lost in the mail, I don’t have issues with my mail. It probably is an overpayment of $[redacted], I haven’t put too much thought on it. 
         * How long have you been receiving them?
         * How often do you receive them?
 
