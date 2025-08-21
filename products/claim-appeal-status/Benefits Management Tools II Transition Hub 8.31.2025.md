@@ -145,14 +145,37 @@ Once we finish investigating why EVSS is still getting hits (Jane working on thi
 ---
 
 ## Features and Initiatives We Worked On
+# Release Timeline – Contract Features & Changes
 
-| Feature                                   | AKA                                     | Status                                                                 |
-|-------------------------------------------|-----------------------------------------|------------------------------------------------------------------------|
-| xyz          | xyz     |xyz                                                      |
-| xyz  | xyz   | xyz                                                 |
-| xyz            |xyz                                   | xyz                                                   |
-| xyz         | xyz    | xyz   |
-| xyz               | xyz  | Ixyz                              |
+## Jan 31, 2025 – Suppress Payments History
+- Suppressed internal/incorrectly categorized tracked items from Claim Status Tool.  
+- Items suppressed: **Attorney Fee**, **Secondary Action Required**, **Stage 2 Development**.  
+
+## May 16, 2025 – Intent to File (Discovery)
+- Completed discovery on improving visibility into Intent to File (ITF) status and expiration.  
+- *(Not released yet)*  
+
+## Jun 17, 2025 – Improved Pension Claims Experience
+- Expanded pension claims process from **5 phases → 8 phases**.  
+- Provided Veterans with more accurate status tracking and transparency.  
+
+## Jun 30, 2025 – Decision Letter Email Notifications (EventBus)
+- Released proactive notifications informing Veterans when a **Decision Letter** is available.  
+
+## Jul 1, 2025 – EVSS to Lighthouse Letters Migration
+- Initial migration of Benefits Letters API from **EVSS to Lighthouse**.  
+- Rolled back due to issues — pending re-release.  
+
+## Jul 10, 2025 – Evidence Request Content Improvements
+- Released **clearer, plain-language content model** for evidence requests.  
+- Added mockups for **1st party** and **3rd party** evidence requests.  
+
+## Aug 22, 2025 (week ending) – Your VA Letters and Documents
+- Released improvements to **letter download flow**:  
+  - Removed unnecessary steps  
+  - Improved plain language  
+  - Contextual labels  
+  - Accessibility alignment  
 
 ---
 
