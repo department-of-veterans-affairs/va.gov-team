@@ -365,11 +365,8 @@ There are a number of findings that were outside the scope of the research goals
       1. On the intro page, seeing the "Freedom of Information Act (FOIA)" right underneath the name of the form on the intro page was confusing because it was unclear what the connection is. They expected to see something about the specific form, such as its name, which was at the end of that line. 
      
        <details><summary>Screenshot of the form name issue in Figure 8</summary>
-
        Figure 8 shows the top of the intro page with the heading "Request personal records", and immediately below that is text about the Freedom of Information Act (FOIA).
-
-      <img src="./images/Intro-pg-unauth-top-h1.png" width="50%" height="50%" alt="The top of the intro page has the heading 'Request personal records'. Immediately below that is text that says 'Freedom of Information Act (FOIA) or Privacy Act (PA) Request (VA Form 20-10206)'">
-      </details>
+      <img src="./images/Intro-pg-unauth-top-h1.png" width="50%" height="50%" alt="The top of the intro page has the heading 'Request personal records'. Immediately below that is text that says 'Freedom of Information Act (FOIA) or Privacy Act (PA) Request (VA Form 20-10206)'"></details>
 
 3. One participant who uses a screen reader on a phone said that they had a lot of **difficulty signing in**, making a strong password and remembering it, creating a passkey, setting up two-factor authentication, and getting logged out with timeout. A different participant wished that they could sign in with a fingerprint, didn't get logged out, and had a "remember this device" option so you wouldn't have to log in again.
    > *"First I had to tangle up with login.gov because now they want you to. They want to do a video of your face and...that's very difficult for people that have limited vision or no vision...So by the time you get there, you're pretty frustrated (p5).*
