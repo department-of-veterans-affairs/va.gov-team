@@ -12,7 +12,7 @@ Start recording.
 
 **Discussion**
 
-Could you tell me a bit about yourself as a Veteran: what branch of the military did you serve, and when did you retire or separate? **I was in the Air Force, enlisted in 1979, and got out in 1986. *
+Could you tell me a bit about yourself as a Veteran: what branch of the military did you serve, and when did you retire or separate? **I was in the [redacted], enlisted in 1979, and got out in 1986. *
 
 How have you been involved with the VA – both in the past and now? 
 
