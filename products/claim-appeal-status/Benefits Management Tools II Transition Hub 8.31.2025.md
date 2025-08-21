@@ -71,22 +71,37 @@ By accessing this tool, Veterans can stay informed about their disability evalua
 
 ## Analytics Dashboards
 
-[Payment History: CSAT Payment History (Sharepoint)](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/0%20-%20Benefits%20Portfolio%20-%20General/UX-Data/CSAT-Benefits-Portfolio.xlsx?d=w11ada4db693c4c579ec75ae0208c0bcb&csf=1&web=1&e=vJQWBq&nav=MTVfe0I3MzI1OTlCLTBCMTMtNEFGMS1BRjZELTgxMjczQjQ5OUZERH0)
+[Benefits - Claim Status Tool Dashboard](https://vagov.ddog-gov.com/dashboard/8me-h86-qmb) (DataDog) - metrics on all CST related endpoints
 
-[Decision Reviews: CSAT DRs (Sharepoint)](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/0%20-%20Benefits%20Portfolio%20-%20General/UX-Data/CSAT-Benefits-Portfolio.xlsx?d=w11ada4db693c4c579ec75ae0208c0bcb&csf=1&web=1&e=y1zIv4&nav=MTVfezBFREFDM0U1LTE3QTEtNEQ2NS04M0MxLTkyQTBGNTJBQjJBMX0)
 
-Evidence request:
+**Decisions letters**
+
+[BMT Campaigns](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/-_4NVL0zS0C_T3jvb4vUCw) - used to calculate click rate for decision letter availability emails
+
+
+[Benefits - Management Tools - Letters](https://vagov.ddog-gov.com/dashboard/86n-b39-hhn) (DataDog) - logs and error rates for Your VA Benefits Letters & Documents.
+Once we finish investigating why EVSS is still getting hits (Jane working on this, may not be finished by the time we end so this may fall to the next team), EVSS monitors and metrics can be removed
+
+**Evidence request:**
+
+[Claim Status Tool Statistics](https://vagov.ddog-gov.com/dashboard/p2a-9ii-9hz) (DataDog) - Metrics around data, including types of evidence requests, contentions, claim types, and decision letter information; shows frequency of different types of data present in claims accessed through CST over a specified time frame
+
 [Web GA: (Explore report > CST evidence requests > Funnel - Evidence + 5103 responses)](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/wdstw7U5TR-vGC5L8Xl3ow)
 
-[Evidence request responses trends (sharepoint)](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Benefits%20Management%20-%20CST/CST%20analytics%20+%20success%20metrics/CST%20analytics.xlsx?d=we88fbaf03e8e4b6a8b3906e2f470beb9&csf=1&web=1&e=1HA7Oj&nav=MTVfe0IwQkE3RTRBLUYxOTItNDRCNC04RUIzLTI1NDYwRDIzOUM1Q30)
 
-VA Letters and Documents:
+**VA Letters and Documents:**
 
-[web GA: Explore report > Benefits Letters > Benefits Letter Downloads](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/SvIXt89hQnCx4HDFQ6iKNw)
+[web GA: Explore report > Benefits Letters > Benefits Letter Downloads](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/SvIXt89hQnCx4HDFQ6iKNw) - Total count of benefits letters downloaded by letter type
 
 [DataDog Report, by letter, by month](https://vagov.ddog-gov.com/metric/explorer?fromUser=true&start=1704092400000&end=1735714799999&paused=true#N4Ig7glgJg5gpgFxALlAGwIYE8D2BXJVEADxQEYAaELcqyKBAC1pEbghkcLIF8qo4AMwgA7CAgg4RKUAiwAHOChASAtnADOcAE4RNIKtrgBHPJoQaUAbVBGN8qVoD6gnNtUZCKiOq279VKY6epbINiAiGOrKQdpYZAYgUJ4YThr42gDGSsgg6gi6mZaBZnHKGniqyABuiBpOGPIQAHQaCJ4aUM2qOABGEGhwToMICDr1UDhgImg4GFBOcorAcCLVyHAA1hoAtPLaOFA8AAS9WMfAS3A8zRj1mfgiCAAUAJQgPAC6VK7ueJihcK-VT-DAxUrxD7fEBtLCDGQgeQYEZjZSTGBOTIAjQQTKJNCiIZXco4AlQfGEpz0JjKERuDxoD78CD2TBYRYKHIgXoYbSWL48Pgw+QEhAAYSkwhgKBE-zQPCAA)
 
 [Abandonment rate](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/SvIXt89hQnCx4HDFQ6iKNw)
+
+**BMT - Eventbus Gateway**
+
+[BMT - Eventbus Gateway (DataDog)](https://vagov.ddog-gov.com/dashboard/diy-2n4-4my) - monitoring Eventbus Gateway application + any errors reported from VANotify for sending the emails
+
+[Silent Failure Tracker (Official Count)](https://vagov.ddog-gov.com/dashboard/n6c-twn-swr/silent-failure-tracker-official-count?fromUser=false&refresh_mode=sliding&tpl_var_service%5B0%5D=claim-status&from_ts=1755616223224&to_ts=1755789023224&live=true) (DataDog) - not our dashboard, but useful to check on and see if there are silent failures occurring for any of our services.  Watch officers will post about items we own that appear on this dashboard.
 
 **Engineering**
 - High-level view of systems  
