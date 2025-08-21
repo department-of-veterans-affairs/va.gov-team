@@ -410,7 +410,7 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
     - *Supporting evidence:* This is so verbose for screen reader users that they perceive it as multiple repetitions of the same information and don't listen all the way to the end when the error is finally mentioned. p3 was using JAWS on Windows with the Chrome browser.
 
 
-1. Try to **fix announcing issues with JAWS where it says "has popup" for the State/Province/Region and Postal code text fields**. --> *Try to FIX this*
+1. Try to **fix announcing issues with JAWS where it says "has popup" for the State/Province/Region and Postal code text fields**. --> *NOT POSSIBLE TO FIX because it's the browser-based autofill saying "has popup", not a bug in the form*
     - *Supporting evidence:* One screen reader user (JAWS on desktop) reported that the State/Province/Region (as long as "United States" isn't selected in the Country field) and Postal code fields said "has pop up", even though they're both text fields.
 
 
@@ -435,7 +435,7 @@ Figure 8 shows the top of the intro page with the heading "Request personal reco
     - *Supporting evidence:* Two participants questioned the ability to request your military records through the VA. One of them had military records previously that the VA was unable to access. The other participant was concerned about privacy because he thought that VA wasn't supposed to know about some things from the military. 
 
 #### For the My VA team
-14. In the draft cards under "Benefit applications and forms", **make the "Continue your application" link scale up with magnification** like everything else on the card already does. --> *NEEDS MORE INVESTIGATION TO REPRODUCE and find the cause of the issue* 
+14. In the draft cards under "Benefit applications and forms", **make the "Continue your application" link scale up with magnification** like everything else on the card already does. --> *UNABLE TO REPRODUCE and find the cause of the issue* 
     - *Supporting evidence*: One participant using a screen magnifier found it difficult to read this link because its font didn't magnify like all the other text on the card and so it was small and hard to read. p13 was on a Windows computer using the Edge browser and Microsoft Zoom Magnification at least 300%.
 
 1. Consider **renaming the header "Benefit applications and forms" to** "Applications and forms" or **something else similarly short** so that it will be more accessible to screen magnifier users. --> *In a [Collab Cycle ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109779), the phrase "Active forms" was one content suggestion*
