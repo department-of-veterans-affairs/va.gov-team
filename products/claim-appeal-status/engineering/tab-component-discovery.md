@@ -1,6 +1,6 @@
 # Tab Component Discovery
 
-## [Related Issue](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/4638)
+## Issue: [Discovery – Viability of Using New Tabs Component in Claims Status Tool #4638](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/4638)
 
 ### Description:
 
