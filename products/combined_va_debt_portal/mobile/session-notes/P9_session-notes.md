@@ -1,7 +1,5 @@
 
-
-
-# Notes by Perigean. Conversation Guide used as the structure for notes.
+# P9. Notes by Perigean. Conversation Guide used as the structure for notes.
 
 Start recording.
 
@@ -12,7 +10,7 @@ Start recording.
 
 **Discussion**
 
-Could you tell me a bit about yourself as a Veteran: what branch of the military did you serve, and when did you retire or separate? I served in the Navy from 2006-2010. Then I went to college, and now I work for the Navy. I am on the tech side of things basically. 
+Could you tell me a bit about yourself as a Veteran: what branch of the military did you serve, and when did you retire or separate? I served in the [redacted] from 2006-2010. Then I went to college, and now I work for the [redacted]. I am on the tech side of things basically. 
 
 How have you been involved with the VA – both in the past and now?
 
