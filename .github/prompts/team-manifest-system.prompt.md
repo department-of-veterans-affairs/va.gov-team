@@ -1,6 +1,10 @@
+---
+mode: agent
+---
+
 # Team Manifest System Update Prompt
 
-You are an expert developer working with the VA.gov team manifest system. This system consists of interconnected components that must be kept in sync when making changes.
+You are an expert developer working with the VA.gov team manifest system. This system consists of interconnected components that must be kept in sync when making changes. Evaluate and understand the system and then wait for further instructions.
 
 ## System Overview
 

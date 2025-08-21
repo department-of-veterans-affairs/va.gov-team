@@ -47,14 +47,20 @@ Brief description of your team's mission, focus areas, and how you support Veter
 
 ## Products We Own
 
-> Directory system will cross-reference these with product details.yml files containing `team: "governance"`
+_Directory system will cross-reference these with product details.yml files containing `team: "[team-slug-name]"`. Copy the template at https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/product-details-template.yml into your product directories then rename and update appropriately._
 
-- **[Product 1 Directory Entry]:** Link to product in /products directory when available and provide a brief description.
-- **[Product 2 Directory Entry]:** Link to product in /products directory when available and provide a brief description.
+- **[Product 1 Entry](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/[product-name]/[product-name]-details.yml):** Link to product in /products directory and provide a brief description.
+- **[Product 2 Entry](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/[product-name]/[product-name]-details.yml):** Link to product in /products directory and provide a brief description.
 
-Add additional products as needed
+Add additional products as needed.
 
 ### Product highlights
+
+> Add any team achievements you might want to surface. Product link should link to your product on va.gov or to the product directory in /products.
+
+- [Product link] | OKRs 1.1, ..., ... - Description
+
+## Product highlights
 
 > Add any team achievements you might want to surface. Product link should link to your product on va.gov or to the product directory in /products.
 

@@ -62,12 +62,20 @@ To empower teams across VA to build consistent, accessible, and user-centered di
 
 ## Products We Own
 
-> Directory system will cross-reference these with product details.yml files containing `team: "[team-slug-name]"`
+_Directory system will cross-reference these with product details.yml files containing `team: "[team-slug-name]"`. Copy the template at https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/product-details-template.yml into your product directories then rename and update appropriately._
 
-- [Design System](../../../products/platform/design-system/design-system-details.yml)
-- [Forms System](../../../products/platform/forms-system/forms-system-details.yml)
+- **[Product 1 Entry](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/[product-name]/[product-name]-details.yml):** Link to product in /products directory and provide a brief description.
+- **[Product 2 Entry](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/[product-name]/[product-name]-details.yml):** Link to product in /products directory and provide a brief description.
+
+Add additional products as needed.
 
 ### Product highlights
+
+> Add any team achievements you might want to surface. Product link should link to your product on va.gov or to the product directory in /products.
+
+- [Product link] | OKRs 1.1, ..., ... - Description
+
+## Product highlights
 
 - [Design System](https://github.com/department-of-veterans-affairs/vets-design-system-documentation)
 - [Forms Library Work](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/README.md)
