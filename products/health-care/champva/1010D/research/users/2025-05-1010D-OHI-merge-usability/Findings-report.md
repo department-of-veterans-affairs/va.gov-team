@@ -21,7 +21,7 @@
 
 
 ## Research Goals
-Applicants seeking CHAMPVA benefits must complete and submit VA Form 10-10d for benefits enrollment and VA Form 10-7959c for Other Health Insurance (OHI) certification separately. To enhance user experience and streamline operations, we propose merging these two forms into a single, cohesive digital application process.​
+Applicants seeking CHAMPVA benefits must complete and submit VA Form 10-10d for benefits enrollment and VA Form 10-7959c for Other Health Insurance (OHI) certification separately. To enhance user experience and streamline operations, we have proposed merging these two forms into a single, cohesive digital application process.​
 
 Applicants are required to submit VA Form 10-10d and VA Form 10-7959c separately, leading to potential redundancy and increased processing times. This dual-submission process can be burdensome for users and may delay the overall application process. Our goal is to merge the submission processes to reduce the load on both the time it takes a veteran to submit, and the time it takes the approval team to process and approve applications.
 
@@ -458,7 +458,7 @@ On submission, participants expect to see:
     _Supporting evidence:_
 
     * 13 participants expected a confirmation email that may include a PDF copy of their submitted applicaiton, and a confirmation/application ID number. 
-    * 10 participants wanted ability to save a copy of their application for their records
+    * 10 participants wanted ability to save a copy of their application for their records.
  
 * Collaborate with CHAMPVA partners and other stakeholders to implement a confirmation numbering system to use on the form confirmation page and confirmation email. 
   
