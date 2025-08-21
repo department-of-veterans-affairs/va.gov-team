@@ -51,7 +51,7 @@
 
 
 ### Engineering & Security Checklist
-- TBD
+- https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/engineering/collaboration-cycle/architecture-intent/checklist/iir-paperless-delivery-08192025.md
   
 ### Endpoint Monitoring Playbook
 - https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits/playbooks/paperless-delivery.md
