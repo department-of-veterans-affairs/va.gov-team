@@ -396,7 +396,137 @@ Also, we should check if the App Tester app was still installed and uninstall fo
 
 ### Per researcher:
 
-To be added upon review of recording
+P4 Notes Forms Usability Study
+
+Device: Android Mobile
+Default Web Browser: Chrome
+Yes has filled out forms before: The travel form, when traveling to appointments.
+
+2:15  “Hasn’t done it in a while. Had a little interruption with doing it because it, I think it was um, it was trying to figure out the mileage and I knew the mileage that it was didn’t change but for some reason it changed it. And I don’t know why. I went to the um, pay agent, to tell them, so that they could do it and I started doing hard copies because for some reason the form just started, I don’ tknow it wasn’t, it just stopped working the way it used to work.”
+
+It was changing the mileage for her. 
+
+Does have the VA health and benefits app. 
+
+Had difficulty sharing her screen from zoom.
+
+Note: Developer contact on email received displays VA PO direct VA email address. May be a concern. 
+
+Download app tester button produces a warning on the phone “Link may be harmful” user has to click ‘Download anyways’.
+
+Participant was confused and thought it was funny that her phone told her “you are now a developer” when setting up the testing app.
+
+The participant had to uninstall their VA app to install the testing app
+Thought the VA testing app would be called something else like “VA tester”, it was hard to identify which app was the testing version.
+
+The app warning message about “App Login Issue” confused the participants. 
+
+“Codespace access development port” is tiny and difficult for users to click continue to move forward. They manually zoom in on the screen first.
+
+Prototype launched
+
+#### Navigation to forms
+
+Scenario: Submit a statement in support of a claim
+
+18:00 “Normally when I come into this, I type in the word forms, because I don’t know where to get it.”
+
+Expect it to be called?
+“Submit a claim”
+
+User easily identified the “Go to my forms” section on the screen after scrolling down (location not apparent at first due to scrolling required, needed prompting to scroll down).
+
+Re: Screen 1 “Alert: You can save this application in progress, and come back later to finish filling it out.”
+20:36 “Ok, I like the um, that you can save this and come back. That statement there that says you can save this and come back. Normally, unless I dedicate specific time I would never complete the form.” 
+
+#### Re: Screen 1
+20:59 “The other thing I see in here, is telling you to go… Normally, when you’re using technology like this, for me, when it tells me I have to fill out, I guess a new form or a different form every time or at the same time, when trying to complete more than one form within the same thing. When I go out, like we just did, it has a little confusion, with going from one screen to another, it’s lost in transition. I may miss something or something gets lost. And it takes so much time to research it and get it. This happened to me when I filled out form, with VA, the form for um, I forgot the form number, that is what happened. I had to literally call the office who is dedicated to doing that form, and the lady had to walk through with me for us to finish the form. So what I’m trying to say is it says in here I have to use more than one form, when I click from one thing and click back, it sometimes gets lost.”
+Question what does the respondent burden 15 minutes mean? It will take 15 minutes to complete this?
+
+#### Re: Screen 2
+24:04 “I’m just going to be the advocate and say ‘What I want to do isn’t listed here.’
+
+24:20 “No it was actually really good because you’ve never asked these questions, or whatever. I want to reduce my personal records, I’ve asked numbers of time how do people, who are looking for their DD214, access their DD214 without going to the St. Louis DDT and requesting their personal records. Couldn’t we just go through VA to request your DD214.”
+
+Typing on the phone offers predictive text options
+
+SSN: “No dashes?”
+
+User counted numbers entered before leaving field to ensure it was properly typed. 
+
+#### Leaving the form:
+User asked what to do. 
+
+27:14 “Now that’s a little…”
+
+27:30 - 28:04 “The only thing, the ‘Done’ button. I wouldn’t have expected it to be up there in the left hand corner.” - “That’s a good place to have it, but I wouldn’t have suspected it to be there. Because when you were saying hit done, I looked below.”
+
+Would expect that to be near where the Continue was.  
+
+Reported no issues entering data in the fields from her device. 
+
+#### Re: Return to form
+
+User did not dismiss the toast message.
+
+Went to ‘Complete’ forms tab, back to ‘Active’, scrolled, saw “Continue form” and clicked that without prompting. 
+
+
+#### Re: Filling out the form
+
+Question “each time I’m entering information will it be automatically saved, without having to hit continue?”
+
+Used swipe motion for typing their statement. 1 sentence w/ “thank you for this form”
+
+Here you can review this page:
+
+User did not expand the components to review the entered content, just scrolled down to move forward.
+
+#### Submit application:
+32:31 “No, once you hit submission. Are you allowed to go back?”
+NO
+Missing content: “It doesn’t state that in there, I didn’t see that statement.”
+
+33:10 “I didn’t know that if you hit submission, that’s the end. You know, some kind of notice that say once submitted can no longer be…”
+
+Scrolled through page steps and reviewed after submission
+
+33:35 “Just the ‘Done’ button, I don’t like it up there, and that’s just my personal preference.”
+
+Navigation reported as not challenging.
+
+No confusing labels.
+
+User asked how to navigate back to the app from the submission page, did not know how to do that.
+
+Did not dismiss toast. 
+
+#### Knows the form is submitted: 
+34:10 “It tells me it is submitted and it’s telling me it’s in progress.”
+
+#### Status meaning ‘In progress’ to the user: 
+“Now that what I filled out is in review by VA, or a representative of VA. And I don’t know how long, when I can come back. I don’t know if you can come back to just look at this to see what the status is later?”
+
+#### Expect to see check back in later:
+34:52 “Come back to the way it used to be where it would say the steps, it normally would say what step you in. Like in progress, here, let’s say its in progress. It used to, when I’d go into VA in the claims. It would say it’s in step 2, or step 5. Sometimes it stays in one step for months, or a year, or two.”
+
+“Like to see dates, which they probably cannot do to tell me the status. Like updated as of such and such date. Like it says submitted on August 13, updated on Dec. 10th, or something.”
+
+“I don’t see my VA app anymore” 
+This was a concern for the user returning after deleting the testing app.
+
+Support for the App users needed, by phone.
+
+#### Process overall:
+42:07 “Interesting, although I don’t see any interaction where you can, you know like, speaking to your personally now, or like when we did the claims. When you went into your claims thing you could call and say I’m on this step, or I’m in here and it says this, and the representative could go into your file and explain it to you. - I’m not sure if this app explains enough, or gives you enough explanation of what is going on. And, I’m not sure if you can call the 800 number, 1000 number, and will they be able to help you as they help you now?”
+
+#### Process from the mobile app:
+43:14 “You know, I actually like it, to tell the truth.I like that the forms are available right there because as I said now, you have to literally go and search for forms. There’s no link that is really available.”
+
+43:56 “The only thing, as I said, when you’re switching that when I first went in and it says I have to do several forms. When you switch back and forth you may lose something in transition. And it could be the user, as an individual, who could lose it because I don’t know what I’m doing. As Veterans, we as Veterans, the majority of us as Veterans, we’re older, so using technology sometimes is a challenge. So when you are taking us through a lot of different steps, it may become confusing.”
+
+45:35 “Oh, I love doing these because the last one that I did I did for the travel form, whatever, doing that thing. The girl said really helped because that was woo wee, that was frustrating.”
+
 
 ## P5:
 
