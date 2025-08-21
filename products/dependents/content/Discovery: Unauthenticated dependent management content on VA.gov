@@ -1,4 +1,4 @@
-# 2025-08 Unauthenticated resource page improvements for dependents management
+# 2025-08 Discovery: Unauthenticated dependent management content on VA.gov
 
 **Office of the CTO - Digital Experience (OCTO-DE), Dependent Verification, Dependents Experience**
 
@@ -17,7 +17,7 @@ Gretchen Maciolek gretchen.maciolek@adhocteam.us
 Overview
 -----
 
-In support of the dependent management team's [initiative to improve on-ramps to dependents management tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/Initiative%20Brief%3A%20Improve%20On-Ramps%20to%20Dependents%20Management.md), the purpose of this exploration is to identifies gaps and opportunities within unauthenticated resource pages on VA.gov for information related to adding and managing dependents on VA benefits. 
+In support of the dependent management team's [initiative to improve on-ramps to dependents management tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/Initiative%20Brief%3A%20Improve%20On-Ramps%20to%20Dependents%20Management.md), the purpose of this exploration is to identify gaps and opportunities within unauthenticated resource pages on VA.gov for information related to adding and managing dependents on VA benefits. 
 
 The exploration will identify opportunities to improve user experience by ensuring Veterans and their families can successfully locate, understand, and act on dependent management information without requiring authenticated access or direct VA contact.
 
