@@ -223,6 +223,7 @@ Below are the initiatives worked on during the contract, with links to their res
 
 ## 3. Supplemental Claim (Discovery Phase)
 
+[Supplemental claim and higher level review improvement Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Supplemental%20claim%20and%20higher%20level%20review%20improvement%20initiative.md)
 
 ## 4. Payments History – Suppressed 3rd Party Payments
 
