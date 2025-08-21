@@ -3,6 +3,9 @@
 
 # Accessibility Digital Experience (ADE) Team (pronounced /ād/)
 
+> **📋 Instructions:** See [../team-readme-instructions.md](../team-readme-instructions.md) for detailed guidance on using this template. Remove this instruction note when completing your README.
+
+
 _Accessibility Digital Experience aka Accessibility DE or for short, ADE (pronounced /ād/), is OCTO's new accessibility team under SPRUCE._ [Read more about us, in our Feb. 6, 2025 announcement.](https://dsva.slack.com/canvas/C8E985R32?focus_section_id=temp:C:SDL8f9032f0740c4defaa0616679)
 
 ## Our goal

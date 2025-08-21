@@ -1,18 +1,12 @@
-# [Team Name]
+# Benefits Management Tools 2
 
-## Instructions
-
-- To create a copy of this template, click "Edit" then copy all of the content within the file. Within your team folder, which is located in a folder for your team's portfolio, create a new file called "README.md" and paste this content.
-- Update and complete as applicable to your team. Replace all bracketed placeholders with your actual team information.
-- This template is designed to be parsed by an automated directory system to display team rosters, product owner classifications, and organizational affiliations. Thus please don't make changes to the format in the Team Information section. Do your best to fill out all parts of that section (rather than putting n/a ask for help as every team should have this information)
-- Copy the [Product details template](../products/product-details-template.yml) into each product directory of the products your team works on. Name the file "[product-name]-details.yml". Then complete that file to the best of your ability for your product. Not all fields are required.
-- Delete this Instructions section when you are done.
+> **📋 Instructions:** See [../team-readme-instructions.md](../team-readme-instructions.md) for detailed guidance on using this template. Remove this instruction note when completing your README.
 
 ## Team Information
 
 ### Basic Details
 
-- **Team Name:** [Full Team Name as it appears in VA systems]
+- **Team Name:** Benefits Management Tools 2
 - **Short Name:** [team-slug-name] _(Used for directory URLs and should ideally match your GitHub team name below)_
 - **GitHub Team Name:** [github-team-name] _(Exact name of GitHub team which is also found in your GitHub team link below)_
 - **GitHub Team Labels:**
@@ -22,9 +16,9 @@
 
 ### Organizational Affiliation
 
-- **VA Business Owner:** [OCTO/VES/VHA/VBA/NCA/VACO]
-- **Portfolio:** [Benefits/Digital Experience/Health]
-- **Crew or Pod:** [crew-or-pod-name] _refer to crews-and-pods.md_
+- **VA Business Owner:** OCTO
+- **Portfolio:** Benefits
+- **Crew or Pod:** Cross-Benefits Crew
 - **Contracting Organization:** [Name of contracting company, if applicable]
 
 ### Team Roster

@@ -16,7 +16,7 @@ This space is for all teams currently working on and with the VA.gov platform an
 
 ## Required documentation
 
-- **Team README.md file.** Teams must have a team README.md file. This file is used to produce the new Team and Product Manifest and will be enforced upon entry into the Collaboration Cycle. Use the provided [template](team-readme-template.md) and follow the instructions therein.
+- **Team README.md file.** Teams must have a team README.md file. This file is used to produce the new Team and Product Manifest and will be enforced upon entry into the Collaboration Cycle. Use the provided [template](team-readme-template.md) and follow the [instructions](team-readme-instructions.md).
 - **Team charter.** Teams may also created a team charter using the provided [team charter template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/team-charter-template.md).
 
 ## About this manifest
@@ -89,6 +89,7 @@ There is also a current list of [crews and pods](crews-and-pods.md).
 #### Cross-Benefits Crew
 
 - [Benefits Management Tools 1](benefits-portfolio/benefits-management-tools-1/README.md)
+- [Benefits Management Tools 2](benefits-portfolio/benefits-management-tools-2/README.md)
 - [Benefits Management Tools 3](benefits-portfolio/benefits-management-tools-3/README.md)
 - [Decision Reviews](benefits-portfolio/decision-reviews/README.md)
 - [Dependents Management](benefits-portfolio/dependents-management/README.md)

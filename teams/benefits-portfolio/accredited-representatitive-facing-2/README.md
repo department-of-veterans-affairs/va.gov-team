@@ -1,5 +1,8 @@
 # Accredited Representative Facing 2
 
+> **📋 Instructions:** See [../team-readme-instructions.md](../team-readme-instructions.md) for detailed guidance on using this template. Remove this instruction note when completing your README.
+
+
 ## Team Information
 
 ### Basic Details
