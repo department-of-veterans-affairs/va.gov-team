@@ -1,0 +1,22 @@
+name: Disability Benefits Epic Template
+description: Epic template for Disability Benefits Team 
+labels: ["disability", "disability-benefits", "needs-refinement"]
+projects: 
+- department-of-veterans-affairs/1660
+type: Epic
+
+body:
+- type: markdown
+  attributes:
+    value: |
+      Use clear, simple language and action verbs to describe the work. Avoid acronyms and jargon.
+- type: textarea
+  attributes:
+    label: Goal
+    description: Describe the milestone or value this Epic represents. Focus on the what -- link or refer to the Super Epic for the why.
+    placeholder: Example: To drive our approach to solving this usability problem, we'll build a prototype and test it with 5 users, then use the insights to shape what we build."
+- type: textarea
+  attributes:
+    label: Definition of Done
+    description: What things need to be true for this Epic to be complete? No need to fully duplicate the issue list. Instead, describe the outcome we've reached when we close this ticket.
+  placeholder: Example: All recommendations are captured in prioritized tickets. Feedback synthesized and documented in [specific place].
