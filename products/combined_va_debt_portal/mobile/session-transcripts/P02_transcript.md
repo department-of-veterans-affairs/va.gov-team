@@ -2601,3 +2601,101 @@ Emily
 Oh, yeah, thank you. So I I know you said that you would like if you I forgot to follow up with this like if you had questions, or if you wanted to thought that they made an error, you would call
 
 521  
+0:52:34  
+Emily  
+any thoughts of if you might use that that help section we looked at to find information first, st or just go directly to calling.
+
+522  
+0:52:51  
+P2  
+I would.
+
+523  
+0:52:53  
+P2  
+That's a good question.
+
+524  
+0:52:55  
+P2  
+When I thought there, when I needed help, I didn't go to.
+
+525  
+0:53:01  
+P2  
+I didn't do any web searching or do anything. I just grabbed the phone number office an old statement and made a phone call.
+
+526  
+0:53:08  
+Emily  
+Okay, got it
+
+527  
+0:53:12  
+Emily  
+all right. Sounds good. And then I'm gonna check in with my team here. If anyone has any questions, Natasha, Natalie, if you have anything, please unmute yourself and
+
+528  
+0:53:25  
+Emily  
+asks, ask here, excuse me.
+
+529  
+0:53:33  
+Emily  
+Okay, I'll take that as a No. So now that we've I think that is everything but I want to check in once again. Now that we've had the whole conversation. Are you still comfortable? If we potentially use a video clip of this with our Va. Partners.
+
+530  
+0:53:52  
+P2  
+Oh, yes, of course. Anything to help make this better, I mean, that's the whole point of the conversation.
+
+531  
+0:53:58  
+Emily  
+It is, it is all right. Well, yeah, that is all we have really appreciate you taking the time. It's always helpful, as you know it's very important to to talk with with veterans to get
+
+532  
+0:54:09  
+Emily  
+your exact experiences, so I'm sure you'll have fun doing more of these in the future. Paragene will be reaching back out, sending you a thank you. Note also a little blurb, that you can pass along to other veterans.
+
+533  
+0:54:25  
+Emily  
+and that is it for me, so I really appreciate your time. Thank you so much, and I hope.
+
+534  
+0:54:32  
+P2  
+Very welcome.
+
+535  
+0:54:33  
+Emily  
+Your day.
+
+536  
+0:54:34  
+P2  
+Oh, thank you, and I hope all of you have a great day, and thank you again for allowing
+
+537  
+0:54:40  
+P2  
+participate.
+
+538  
+0:54:41  
+Emily  
+Alright sounds great. Thank you so much.
+
+539  
+0:54:44  
+P2  
+Good, good. Have a good day.
+
+540  
+0:54:45  
+Emily  
+I.
