@@ -69,8 +69,17 @@ By accessing this tool, Veterans can stay informed about their disability evalua
 - Analytics  
 
 **Analytics Dashboards**
-- CSAT Domo (sort by URL `/track-claims`)  
-- Google Analytics  
+- [Payment History: CSAT Payment History (Sharepoint)](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/0%20-%20Benefits%20Portfolio%20-%20General/UX-Data/CSAT-Benefits-Portfolio.xlsx?d=w11ada4db693c4c579ec75ae0208c0bcb&csf=1&web=1&e=vJQWBq&nav=MTVfe0I3MzI1OTlCLTBCMTMtNEFGMS1BRjZELTgxMjczQjQ5OUZERH0)
+- [Decision Reviews: CSAT DRs (Sharepoint)](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/0%20-%20Benefits%20Portfolio%20-%20General/UX-Data/CSAT-Benefits-Portfolio.xlsx?d=w11ada4db693c4c579ec75ae0208c0bcb&csf=1&web=1&e=y1zIv4&nav=MTVfezBFREFDM0U1LTE3QTEtNEQ2NS04M0MxLTkyQTBGNTJBQjJBMX0)
+- Evidence request:
+-   [Web GA: (Explore report > CST evidence requests > Funnel - Evidence + 5103 responses)](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/wdstw7U5TR-vGC5L8Xl3ow)
+-   [Evidence request responses trends (sharepoint)](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Benefits%20Management%20-%20CST/CST%20analytics%20+%20success%20metrics/CST%20analytics.xlsx?d=we88fbaf03e8e4b6a8b3906e2f470beb9&csf=1&web=1&e=1HA7Oj&nav=MTVfe0IwQkE3RTRBLUYxOTItNDRCNC04RUIzLTI1NDYwRDIzOUM1Q30)
+VA Letters and Documents:
+  - [web GA: Explore report > Benefits Letters > Benefits Letter Downloads](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/SvIXt89hQnCx4HDFQ6iKNw)
+  - [DataDog Report, by letter, by month](https://vagov.ddog-gov.com/metric/explorer?fromUser=true&start=1704092400000&end=1735714799999&paused=true#N4Ig7glgJg5gpgFxALlAGwIYE8D2BXJVEADxQEYAaELcqyKBAC1pEbghkcLIF8qo4AMwgA7CAgg4RKUAiwAHOChASAtnADOcAE4RNIKtrgBHPJoQaUAbVBGN8qVoD6gnNtUZCKiOq279VKY6epbINiAiGOrKQdpYZAYgUJ4YThr42gDGSsgg6gi6mZaBZnHKGniqyABuiBpOGPIQAHQaCJ4aUM2qOABGEGhwToMICDr1UDhgImg4GFBOcorAcCLVyHAA1hoAtPLaOFA8AAS9WMfAS3A8zRj1mfgiCAAUAJQgPAC6VK7ueJihcK-VT-DAxUrxD7fEBtLCDGQgeQYEZjZSTGBOTIAjQQTKJNCiIZXco4AlQfGEpz0JjKERuDxoD78CD2TBYRYKHIgXoYbSWL48Pgw+QEhAAYSkwhgKBE-zQPCAA)
+[Abandonment rate](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/SvIXt89hQnCx4HDFQ6iKNw)
+
+ 
 - DD CST Tracked Item Stats  
 - DD CST Error Monitoring  
 - DD BMT Silent Failure Monitoring  
@@ -99,6 +108,7 @@ By accessing this tool, Veterans can stay informed about their disability evalua
 - [BMT2 Manual Process for Analyzing Contact Center & Medallia Data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/BMT2%20Manual%20Process%20for%20Analyzing%20Contact%20Center%20%26%20Medallia%20Data.md)
 - [Call Center and Medallia Data Analysis](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared%20Documents/Benefits%20Management%20-%20CST/cst%20-%20document%20uploads%20+%20upload%20status/Call%20Center%20and%20Medallia%20Data%20Analysis?csf=1&web=1&e=ANP5jy)
 - [Call Center Data Analysis/Synthesis](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1730231194923/cb140daff8eb9a2988238c992ec32e7c9c4963c6?sender=ub840cb68d1886aa35b202891)
+- [Spreadsheet with Raw Data Analysis](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Benefits%20Management%20-%20CST/cst%20-%20analytics%20+%20success%20metrics/CST%20call%20center%20and%20medallia%20data/COPY----MyVA411%20-%20call%20notes%20-%2002.01.2024%20-%2009.30.2024%20-%2021.xlsx?d=w3bf22df3e5c64deaab9914e5772b71bd&csf=1&web=1&e=kZDkvU&nav=MTVfe0FCMERDNzM0LTFFMUQtNDU5Ni05MDE4LUFBNTdEM0VFNTI0NX0)
 
 ---
 
