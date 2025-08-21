@@ -212,24 +212,24 @@ For demographic details, see [Research participants](#user-content-research-part
   </details>
 
 - This same screen magnifier user missed that the header "Benefit applications and forms" was relevant because he only saw the words "Benefit applications". He didn't see the word "forms" because it was to the right of the magnified portion of the page that he was looking at. 
-<details><summary>Screenshot of the header magnification issue in Figure 4</summary>
+  <details><summary>Screenshot of the header magnification issue in Figure 4</summary>
 
 Figure 4 shows a large magnified heading that says 'Benefit applications' and nothing about forms.
 
-<img src="./images/p13-MyVA-Benefit-apps-no-forms.png" width="50%" height="50%" alt="The large magnified heading says 'Benefit applications', but not the word 'forms'">
-</details>
+  <img src="./images/p13-MyVA-Benefit-apps-no-forms.png" width="50%" height="50%" alt="The large magnified heading says 'Benefit applications', but not the word 'forms'">
+  </details>
 
 ### Finding 6: VA forms in general had accessibility issues for screen readers and screen magnifiers.
 - Two screen reader users (VoiceOver on iOS with Safari) had **difficulty navigating while using Safari because focus kept jumping** to the top of the page or to the Safari controls below the page. p5 was unable to navigate the form and so switched to Chrome, where navigation worked normally. p4 was able to navigate the form well enough in Safari to fill it out.
   > *"A lot of the government websites are not working that great with Safari anymore, and...you need to use Google Chrome" (p5).*
 
 - On the Review/Submit page, a **screen magnifier user didn't see the "+"'s to expand the accordions because they're so far to the right**. He saw the names of the form sections, but there was no visual indication that there was anything more to scroll right to see. 
-<details><summary>Screenshot of the accordion magnification issue in Figure 5</summary>
+  <details><summary>Screenshot of the accordion magnification issue in Figure 5</summary>
 
 Figure 5 shows 3 horizontal gray bars labeled with sections of the form but with no indication of how to interact with them.
 
-<img src="./images/p13-review-accordions-wo-plus.png" width="50%" height="50%" alt="3 horizontal gray bars labeled 'Your contact information', 'Records requested', and 'Additional information' with no indication of how to interact with them">
-</details>
+  <img src="./images/p13-review-accordions-wo-plus.png" width="50%" height="50%" alt="3 horizontal gray bars labeled 'Your contact information', 'Records requested', and 'Additional information' with no indication of how to interact with them">
+  </details>
 
 - Many people navigate through forms quickly and miss things, regardless of whether they're using assistive tech (AT). Below is a summary of AT **navigation strategies that we observed in this study**, some of which were used to go through the new form slowly and carefully, while others were short-cuts that sometimes caused problems.
   - **Navigation strategies for screen reader users (desktop and mobile):** 
@@ -279,12 +279,12 @@ Figure 5 shows 3 horizontal gray bars labeled with sections of the form but with
 
 - One participant using a screen magnifier (Microsoft Zoom Magnification at least 300% on a Windows computer with Edge browser) checked "I live on a United States military base outside of the U.S." and then didn't understand why he being asked for APO/FPO/DPO and got stuck. He had seen "I live on a United States" and thought that applied to him. He had no idea that the rest of the statement said "military base" because that was not in his view and he didn't scroll to the right. 
 
-<details><summary>Screenshot of the U.S. military base issue in Figure 6</summary>
+  <details><summary>Screenshot of the U.S. military base issue in Figure 6</summary>
 
 Figure 6 shows a selected checkbox that says 'I live on a United States mil' on the first line and 'base outside of the U.S.' on the second line.
 
-<img src="./images/p13-military-base-checkbox-checked.png" width="50%" height="50%" alt="A selected checkbox that says 'I live on a United States mil' (truncated word) on the first line and 'base outside of the U.S.' on the second line">
-</details>
+  <img src="./images/p13-military-base-checkbox-checked.png" width="50%" height="50%" alt="A selected checkbox that says 'I live on a United States mil' (truncated word) on the first line and 'base outside of the U.S.' on the second line">
+  </details>
 
 - One screen reader user (JAWS on desktop) reported that the State/Province/Region and Postal code fields said "has pop up", even though they're both text fields. This participant selected "United States" from the Country dropdown, and then changed it to "Austria". Without "United States" selected, the State/Province/Region field becomes a text box, not a dropdown. However, JAWS announced "has popup", which is incorrect. JAWS also said "has popup" for the Postal code field, which is also incorrect.
   > *"It is saying 'pop up', which usually means it's gonna be a list. So the first thing I try to do is hit 'M' to get me down to 'Missouri'. But it's not really a pop up because it actually wants me to type something in there...As soon as I hit the first letter, it typed it in instead of going to the M's" (p1).*
@@ -299,12 +299,12 @@ Figure 6 shows a selected checkbox that says 'I live on a United States mil' on 
      1. "I certify the information above is correct and true to the best of my knowledge and belief." -- ***Repeated again** when focus is on this line*
         > *"I heard it about 4 times there...I'm not sure why they put it both before and after my name...That's the kind of thing that causes me to rush through the repeats and maybe miss something. If something is only present once, then I have a much better chance of paying attention to it" (p3).*
 
-<details><summary>Screenshot of the affirmation statements  issue in Figure 7</summary>
+  <details><summary>Screenshot of the affirmation statements  issue in Figure 7</summary>
 
 Figure 7 starts with a note about criminal penalties for withholding information or providing incorrect information. Just below that says 'Statement of truth' with a confirmation statement. Below that is a required field for your name, followed by an unselected required checkbox to certify the correctness of the information entered above.
 
-<img src="./images/form-pg9-statement-of-truth.png" width="50%" height="50%" alt="A screen with a note about criminal penalties for withholding information or providing incorrect information. Just below that says 'Statement of truth' in large bold letters. Below that is 'I confirm that the identifying information in this form is accurate and has been represented correctly' and then 'I have read and accept the privacy policy' with a link to the policy. Below that is a required field titled 'Your full name', followed by an unselected required checkbox that says 'I certify the information above is correct and true to the best of my knowledge and belief.'">
-</details>
+  <img src="./images/form-pg9-statement-of-truth.png" width="50%" height="50%" alt="A screen with a note about criminal penalties for withholding information or providing incorrect information. Just below that says 'Statement of truth' in large bold letters. Below that is 'I confirm that the identifying information in this form is accurate and has been represented correctly' and then 'I have read and accept the privacy policy' with a link to the policy. Below that is a required field titled 'Your full name', followed by an unselected required checkbox that says 'I certify the information above is correct and true to the best of my knowledge and belief.'">
+  </details>
         
 - Another screen reader user (JAWS on desktop) didn't expect the checkbox to be announced _after_ the "I certify..." line instead of before it.
     > *"It says, 'I certify'. Usually when something starts out with the words 'I certify', there's a checkbox there...You're telling me and then you're given my name, and then you put the actual box underneath of it, which is not typically what I'm used to...I had to listen to the whole thing to find out if that was a checkbox or not...cause it wouldn't have told me until the end" (p1).*
@@ -364,12 +364,12 @@ There are a number of findings that were outside the scope of the research goals
       > *"I'm looking for the least amount of work I have to do every single time" (p10).*
       1. On the intro page, seeing the "Freedom of Information Act (FOIA)" right underneath the name of the form on the intro page was confusing because it was unclear what the connection is. They expected to see something about the specific form, such as its name, which was at the end of that line. 
      
-<details><summary>Screenshot of the form name issue in Figure 8</summary>
+  <details><summary>Screenshot of the form name issue in Figure 8</summary>
 
 Figure 8 shows the top of the intro page with the heading "Request personal records", and immediately below that is text about the Freedom of Information Act (FOIA).
 
-<img src="./images/Intro-pg-unauth-top-h1.png" width="50%" height="50%" alt="The top of the intro page has the heading 'Request personal records'. Immediately below that is text that says 'Freedom of Information Act (FOIA) or Privacy Act (PA) Request (VA Form 20-10206)'">
-</details>
+  <img src="./images/Intro-pg-unauth-top-h1.png" width="50%" height="50%" alt="The top of the intro page has the heading 'Request personal records'. Immediately below that is text that says 'Freedom of Information Act (FOIA) or Privacy Act (PA) Request (VA Form 20-10206)'">
+  </details>
 
 3. One participant who uses a screen reader on a phone said that they had a lot of **difficulty signing in**, making a strong password and remembering it, creating a passkey, setting up two-factor authentication, and getting logged out with timeout. A different participant wished that they could sign in with a fingerprint, didn't get logged out, and had a "remember this device" option so you wouldn't have to log in again.
    > *"First I had to tangle up with login.gov because now they want you to. They want to do a video of your face and...that's very difficult for people that have limited vision or no vision...So by the time you get there, you're pretty frustrated (p5).*
