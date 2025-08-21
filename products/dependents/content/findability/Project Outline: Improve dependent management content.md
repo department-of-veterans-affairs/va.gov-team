@@ -65,8 +65,6 @@ Veterans currently struggle to understand their responsibilities for managing de
   
 Veterans can easily locate and access comprehensive, clear information about their dependent management responsibilities on publicly accessible content pages throughout VA.gov. Veterans understand why they need to report changes to their dependents' status to the VA, what specific changes require reporting, when these changes must be reported, and the potential consequences of failing to report changes timely. This improved content helps Veterans fulfill their dependent management obligations proactively, reducing benefit payment errors, overpayments, and administrative burdens for both Veterans and the VA.
 
-Success Metrics
-
 ## Key Stakeholders
 
 *   Content and IA team
