@@ -206,14 +206,10 @@ For demographic details, see [Research participants](#user-content-research-part
 
 ### Finding 5: My VA had accessibility issues for screen magnifiers.
 - One participant using a screen magnifier (on a Windows computer using the Edge browser and Microsoft Zoom Magnification at least 300%) asked why the **"Continue your application" link in the form request card on My VA was so much smaller than everything else on the card**. The link text didn't scale up like the text above it.
-
-<details><summary>Screenshot of the link magnification issue in Figure 3</summary>
-
-Figure 3 shows the form card on My VA magnified with all large-sized text except for much smaller text that says 'Continue your application'.
-
-<img src="./images/p13-MyVA-form-card-bottom.png" width="50%" height="50%" alt="form card on My VA with large text that says 'Application expires on: July 14, 2025' and 'Last saved on: May 15, 2025', but very small text that says 'Continue your application'">
-
-</details>
+  <details><summary>Screenshot of the link magnification issue in Figure 3</summary>
+  Figure 3 shows the form card on My VA magnified with all large-sized text except for much smaller text that says 'Continue your application'.
+  <img src="./images/p13-MyVA-form-card-bottom.png" width="50%" height="50%" alt="form card on My VA with large text that says 'Application expires on: July 14, 2025' and 'Last saved on: May 15, 2025', but very small text that says 'Continue your application'">
+  </details>
 
 - This same screen magnifier user missed that the header "Benefit applications and forms" was relevant because he only saw the words "Benefit applications". He didn't see the word "forms" because it was to the right of the magnified portion of the page that he was looking at. 
 <details><summary>Screenshot of the header magnification issue in Figure 4</summary>
