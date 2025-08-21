@@ -134,6 +134,25 @@ Before we look at the website, let’s start with a few warm-up questions.
 > - [Does the participant notice xyz?]
 > - [Etc]
 
+## Third Task: Questions from Content Comprehension Research (if time allows)
+
+- Have you ever viewed the dependents on your disability benefit on VA.gov?
+  
+     - If yes-
+          - How often do you view the dependents on your benefits on VA.gov?
+          - When was the last time you viewed the dependents on your benefits on VA.gov?
+          - What causes you to view the dependents on your disability benefit on VA.gov?
+            
+     - If no OR unsure-
+          - Have you ever wanted to view the dependents on your disability benefit on VA.gov?
+          - Are there cases when you feel that you would need to view the dependents on your disability benefit on Va.gov? If so, what?
+
+- How would you explain the reason for verifying dependents to another Veteran?
+
+- Where on VA.gov would you expect to view your dependents?
+
+- Would there ever be a case or cases where you would prefer dealing with an overpayment instead of updating your dependents right away? If so, when?
+
 # Post-Task Interview - 5 minutes
 
 - If you had a magic wand and could change anything about the dependents managment process for your disability benefit, what would you like to happen?
