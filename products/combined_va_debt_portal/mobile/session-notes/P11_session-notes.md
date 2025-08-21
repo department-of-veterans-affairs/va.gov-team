@@ -1,5 +1,5 @@
-# Notes by Perigean. Conversation Guide used as the structure for notes.
 
+# P11. Notes by Perigean. Conversation Guide used as the structure for notes.
 
 Start recording.
 
@@ -120,7 +120,7 @@ Copayments
     * What sort of info or guidance might you look for?
     * Is it clear when you would have to start something?
     * What are your thoughts on opening new windows for the information?
-* Were you aware of these options for financial help? If so, how did you learn? Vaguely, its not something that has been a concern of mine except when I got the 5K bill that I wasn’t supposed to get.VA healthcare is affordable. Theres homeless veterans and low-income seniors so I can see it being difficult for others. I can’t remember how I learned. 
+* Were you aware of these options for financial help? If so, how did you learn? Vaguely, its not something that has been a concern of mine except when I got the [redacted] bill that I wasn’t supposed to get.VA healthcare is affordable. Theres homeless veterans and low-income seniors so I can see it being difficult for others. I can’t remember how I learned. 
 * What else would you want to do here with regards to your copays?
     * How would you expect to make payments?
     * What are your thoughts on this new section not having a payment option?
