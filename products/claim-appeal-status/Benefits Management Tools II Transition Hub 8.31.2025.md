@@ -217,6 +217,8 @@ Below are the initiatives worked on during the contract, with links to their res
 
 [Evidence Requests Pattern Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/evidence-requests-pattern/release-plan.md)
 
+[Reclassifying or Suppressing Evidence Request Types](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Evidence%20Requests%20Alterations.md)
+
 ## 3. Supplemental Claim (Discovery Phase)
 
 [Supplemental claim and higher level review improvement Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Supplemental%20claim%20and%20higher%20level%20review%20improvement%20initiative.md)
