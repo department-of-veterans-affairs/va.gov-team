@@ -68,7 +68,7 @@ The study was conducted via Zoom, with participants recruited by Perigean. 5 par
 
 ### Research materials
 
-- [Designs tested](https://www.figma.com/design/P6IUm8gN00H3Yi1XzN80fj/-526ez--Condition-information-entry?node-id=1978-16118&t=F2wcLeJbxevucls6-1)  
+- [Designs tested](https://www.figma.com/design/P6IUm8gN00H3Yi1XzN80fj/-526ez--Condition-information-entry?node-id=3395-121247&t=lYqE4X7VpWaL9Iyf-1)  
 - [Research plan](https://github.com/va-gov-team/products/disability/526ez/research/CC-Team-Research/blob/master/research-plan.md)  
 - [Conversation guide](https://github.com/va-gov-team/products/disability/526ez/research/CC-Team-Research/blob/master/conversation-guide.md)  
 - [Research notes & recordings](https://dvagov.sharepoint.com/:f:/s/vaabdvro/EjQYUkn11tpImChEXdN4ZucBrfefe_mu1h78BRkZXJGx2Q?e=HgX2SU)
