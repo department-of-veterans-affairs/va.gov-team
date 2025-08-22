@@ -145,37 +145,49 @@ Once we finish investigating why EVSS is still getting hits (Jane working on thi
 ---
 
 ## Features and Initiatives We Worked On
+
 # Release Timeline – Contract Features & Changes
 
 ## Jan 31, 2025 – Suppress Payments History
-- Suppressed internal/incorrectly categorized tracked items from Claim Status Tool.  
-- Items suppressed: **Attorney Fee**, **Secondary Action Required**, **Stage 2 Development**.  
+- **What was done:** Suppressed internal/incorrectly categorized tracked items from Claim Status Tool (Attorney Fee, Secondary Action Required, Stage 2 Development).  
+- **Value to Veterans:** Veterans now only see payments that truly relates to them, reducing confusion and unnecessary worry.  
+
 
 ## May 16, 2025 – Intent to File (Discovery)
-- Completed discovery on improving visibility into Intent to File (ITF) status and expiration.  
-- *(Not released yet)*  
+- **What was done:** Completed discovery to improve visibility into Intent to File (ITF) status and expiration.  
+- **Value to Veterans:** Veterans will gain transparency into their ITF status, helping them avoid missed benefits due to expired filings or duplicate ITFs. *(Not released yet)*  
+
 
 ## Jun 17, 2025 – Improved Pension Claims Experience
-- Expanded pension claims process from **5 phases → 8 phases**.  
-- Provided Veterans with more accurate status tracking and transparency.  
+- **What was done:** Expanded pension claims process from 5 to 8 phases by separating evidence gathering, review, and decision.  
+- **Value to Veterans:** Provides a clearer, more accurate view of claim progress, reducing uncertainty and increasing trust in VA systems.  
+
 
 ## Jun 30, 2025 – Decision Letter Email Notifications (EventBus)
-- Released proactive notifications informing Veterans when a **Decision Letter** is available.  
+- **What was done:** Released proactive email notifications to inform Veterans when a Decision Letter is available.  
+- **Value to Veterans:** Ensures timely updates so Veterans can take next steps sooner, improving confidence and reducing reliance on call centers.  
+
 
 ## Jul 1, 2025 – EVSS to Lighthouse Letters Migration
-- Initial migration of Benefits Letters API from **EVSS to Lighthouse**.  
-- Rolled back due to issues — pending re-release.  
+- **What was done:** Began migration of Benefits Letters API from EVSS to Lighthouse (rolled back due to issues, pending re-release).  
+- **Value to Veterans:** Modernizes backend services to improve stability and long-term reliability of letter access.  
+
 
 ## Jul 10, 2025 – Evidence Request Content Improvements
-- Released **clearer, plain-language content model** for evidence requests.  
-- Added mockups for **1st party** and **3rd party** evidence requests.  
+- **What was done:** Released plain-language content model and mockups for 1st and 3rd party evidence requests.  
+- **Value to Veterans:** Veterans can more easily find, understand, and act on evidence request information, reducing confusion and delays.  
 
-## Aug 22, 2025 (week ending) – Your VA Letters and Documents
-- Released improvements to **letter download flow**:  
-  - Removed unnecessary steps  
-  - Improved plain language  
-  - Contextual labels  
-  - Accessibility alignment  
+
+## Jul 21, 2025 – Evidence Upload Improvements
+- **What was done:**  
+  - Added duplicate check to prevent multiple uploads of the same document.  
+  - Added claimant validation check to block ineligible dependents from uploading.  
+- **Value to Veterans:** Prevents wasted effort and confusion, provides clear error messages, protects privacy, and ensures uploads are processed correctly.  
+
+
+## Aug 10, 2025 (week ending) – Your VA Letters and Documents
+- **What was done:** Improved letter download flow by removing unnecessary steps, updating plain language, adding contextual labels, and aligning accessibility.  
+- **Value to Veterans:** Veterans can more easily download their letters without friction, reducing abandonment and ensuring quicker access to critical benefits documents.  
 
 ---
 
