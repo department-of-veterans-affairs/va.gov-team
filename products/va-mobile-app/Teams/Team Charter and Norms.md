@@ -107,16 +107,12 @@ Microsoft Teams: use for setting up meetings that include external stakeholders.
 Zoom/Huddle: use for setting up meetings for internal stakeholders only (or as a backup to Teams if needed)
 
 #### Team Meetings
+
 ##
 
-| Meeting Name | Day and Time | Purpose | Attendees                                                                                      |
-| ------ | ---------- | -------------------------------------------------------------------------------------------- |
-| Daily Stand-up     | Monday - Thursday at 9:00am ET    | Check in on people and product progress. Raise blockers.                           |
-| 2      | xsmall     | Small change - Up to 4 hours (More validation is required)                                   |
-| 3      | small      | Routine addon/none new - 1 to 2 days (small work/high domain knowledge/1 or no moving parts) |
-| 5      | medium     | Routine addon/none new - 2 to 3 days (medium work/1-2 moving parts)                          |
-| 8      | large      | New work/High Complexity - 3 to 5 days (over 2 moving parts)                                 |
-| 13     | xlarge     | Too big/Risky, should be broken down - 1 to 2 weeks                                          |
+| Meeting Name | Day and Time | Purpose | Attendees                                                                   |
+| ------------ | ------------ | --------| --------------------------------------------------------------------------- |
+| Daily Stand-up | Monday - Thursday at 9:00am ET | Check in on people and product progress. Raise blockers.| Core Mobile Team |
 
 #### Stand-up
 
