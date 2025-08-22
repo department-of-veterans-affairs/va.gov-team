@@ -12,8 +12,8 @@ This initiative focuses on improving the veteran experience by displaying health
 **Increase veteran awareness and completion rates for health update forms by displaying 10-10EZR form statuses on high-traffic personalized pages like MyVA, ensuring veterans can easily track their health record updates and take necessary actions.**
 
 **Related/Associated product(s)**
-- VA Health Update Form (10-10EZR) | [Product outline link needed]
-- MyVA Dashboard | [Product outline link needed]
+- VA Health Update Form (10-10EZR) | [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/health-update-form/10-10EZR%20Product%20Brief%20(standalone%20form).md)
+- MyVA Dashboard | [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/README.md)
 
 ## Problem
 
