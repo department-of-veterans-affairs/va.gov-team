@@ -19,6 +19,8 @@ The data can tell 2 stories: A story about the user’s experience **(experienti
 * Requires user effort and decision-making
 * Has a clear beginning and end
 * Can typically be labeled as “completed” or “not completed”
+* All users do not have access to the same tasks 
+* Tasks are not always available to the users who have access (i.e., I might have access to the appointment feature, but I may not have upcoming appointments to view) 
 
 We have organized user tasks by user flow. User tasks and associated metrics for 14 key flows are mapped in this [spreadsheet](URL).
 
@@ -40,7 +42,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 | Type | What to measure | Sample metrics | Notes | 
 |--------------|-------------|--------------|-------------|
 | **User Tasks** | Task success and efficiency | - Task completion rate<br>- Time on task<br>- Error rate<br>- Drop-off rate<br>- Retry attempts | Collect in-app analytics on key flows (e.g. Rx refill, viewing appointments).|
-| **Non-tasks** | User engagement and awareness | - Views<br> - Click-through rate (CTR)<br>- Dwell time <br>- Notification open rate | Focus on passive or content-related interactions. Can serve as leading indicators of task initiation. |
+| **Non-tasks** | User engagement and awareness | - Views<br> - Click-through rate (CTR)<br>- Time on screen <br>- Notification open rate | Focus on passive or content-related interactions. Can serve as leading indicators of task initiation. |
 
 <details>
 <summary><h3>Login</h3></summary> 
@@ -199,12 +201,25 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 <details>
 <summary><h3>Payment</h3></summary> 
  
-|      | Payment |
+|      | Payment history |
 |--------------------|-------------|
-| **User goal**      | *"I want to understand and manage payments."* |
-| **What should we measure?** | Accurate, easy to understand payment information <br> *“I can easily understand payment history and my direct deposit information.”* |
+| **User goal**      | *"I want to understand my payment history."* |
+| **What should we measure?** | Accurate, easy to understand payment information <br> *“I can clearly understand my VA payment history.”* |
 | **Important metrics to track**| - Bank info add/update events<br>- Pathways to Payment history and Direct Deposit (home vs toolbar)<br>- #feature viewers/# of users<br>- Latency<br>- % of errors within X period of time |
-| **How these metrics can inform decision making** | Surface opportunities to improve navigation, reliability, and ease of updating direct deposit details, while ensuring payment history remains accessible and trustworthy. |
+| **How these metrics can inform decision making** | Surface opportunities to improve navigation and reliability, and ensure payment history remains accessible and trustworthy. |
+| **Unhelpful metrics** |  |
+
+</details>
+
+<details>
+<summary><h3>Payment</h3></summary> 
+ 
+|      | Direct deposit |
+|--------------------|-------------|
+| **User goal**      | *"I want to update my direct deposit information."* |
+| **What should we measure?** | Easy to update banking information <br> *“I can easily update my direct deposit information.”* |
+| **Important metrics to track**| - Bank info add/update events<br>- Pathways to Direct Deposit (home vs toolbar)<br>- #feature viewers/# of users<br>- Latency<br>- % of errors within X period of time |
+| **How these metrics can inform decision making** | Surface opportunities to improve navigation, reliability, and ease of updating direct deposit details, while ensuring bank account information remains secure. |
 | **Unhelpful metrics** |  |
 
 </details>
