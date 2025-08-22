@@ -22,7 +22,7 @@ All applications on the Veteran-facing Services Platform include a phone number 
 
 *If you're building a brand new service*:
 
-  1. Create a Product Guide that covers all the functionality, the main user flow(s), any error conditions, and how the user can resolve those errors. Please use this sample template: xxx.
+  1. Create a Product Guide that covers all the functionality, the main user flow(s), any error conditions, and how the user can resolve those errors.
   2. Create a Table of Contents at the beginning of the Product Guide that includes clickable in-document links to each section and sub-section. 
   3. The Product Guide must be a Word document.
   4. In the Major Errors/Known Issues section (typically located at the end of the product guide), please include information about how to troubleshoot each known error. Provide workaround information and screenshots whenever possible; if the way to resolve the error is not currently known, then include the questions a call center agent must ask the user so that the product team can research the matter (such as the operating system and browser used, the exact text of the error, the URL where the error occured, the time the error occurred, et al). 
