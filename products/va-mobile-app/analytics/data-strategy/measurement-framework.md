@@ -312,7 +312,7 @@ Overall platform health can be measured by the platform's speed, availability, r
 |**Consistency** |   |
 |--------------|-------------|
 | **Definition** | The app shows users the correct, up-to-date information that matches their expectations across other VA channels |
-| **Helpful metrics** | - Data parity with web |
+| **Helpful metrics** | - Data affinity with web |
 | **How it informs decision-making** | Ensuring the application matches va.gov functionality, as new features are added to the VAHB app |
 </details>
 
