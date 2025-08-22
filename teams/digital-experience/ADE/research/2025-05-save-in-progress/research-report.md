@@ -30,7 +30,7 @@ Veterans may fill out web forms on VA.gov throughout their lives, including ALL 
 	
 1. While VA.gov users are signed in (authenticated) and filling out a form, the "save in progress" alert flashes on and then off with every field entry or edit ([Figure 1 shows the alert with a light green background](#user-content-figure-1-shows-two-accessibility-issues)). Because this alert displays *below* the Continue button, and screen reader users rarely navigate there, they wouldn't notice the alert, which is an accessibility issue. All users should have access to the same information about the user interface (per [WCAG 1.3.1](https://www.w3.org/WAI/WCAG21/Understanding/info-and-relationships.html)). 
 
-2. The ["Finish this request later" button looks like a link, even though it is coded as a button (in Figure 1)](#user-content-figure-1-shows-two-accessibility-issues), which is another accessibility issue. A button also performs an action, instead of only navigating to a different page like a link, and buttons that do actions should look like buttons (per [VA Design System guidance on choosing buttons vs. links](https://design.va.gov/components/link/#choose-the-right-element-buttons-vs-links)). 
+2. The ["Finish this request later" looks like a link, even though it is coded as a button (in Figure 1)](#user-content-figure-1-shows-two-accessibility-issues), which is another accessibility issue. A button also performs an action, instead of only navigating to a different page like a link, and buttons that do actions should look like buttons (per [VA Design System guidance on choosing buttons vs. links](https://design.va.gov/components/link/#choose-the-right-element-buttons-vs-links)). 
 
 #### Figure 1 shows two accessibility issues
 
@@ -38,9 +38,10 @@ Veterans may fill out web forms on VA.gov throughout their lives, including ALL 
 
 ### Revised design
 
-We are testing a modification of the VA Design System [Header - Minimal component](https://design.va.gov/components/header/header-minimal), which is recommended for the design of new web forms. To address the above accessibility issues, we made the following two changes:
-1. Removed the "save in progress" alert.
-1. Changed the "Finish this request later" button that looks like a link into looking like a button ([Figure 2 shows the new "Finish later" button](#user-content-figure-2-shows-the-revised-design)). 
+We are testing a modification of the VA Design System [Header - Minimal component](https://design.va.gov/components/header/header-minimal), which is recommended for the design of new web forms. To address the above accessibility issues, we made the following changes:
+1. Removed the "save in progress" alert flashing on and off.
+1. Changed "Finish this request later" to look like a button instead of a link ([Figure 2 shows the new "Finish later" button](#user-content-figure-2-shows-the-revised-design)). 
+1. Reworded the informational alert at the bottom of the form intro page about saving and also placed it at the top of the first page of the form.
 
 We believe that removing the "save in progress" alert will be OK because there is already text about saving on both the authenticated version of the form intro page and the first page of the form. One goal of this current research is to obtain user feedback on the revised design.
 
@@ -123,7 +124,7 @@ For demographic details, see [Research participants](#user-content-research-part
 1. While filling out online forms, Veterans expect that their form data will be saved.
     - **Likely False** because many participants shared about losing their work while filling out forms that time out or get rejected, and then they have to start all over again. 
 1. With the new design, Veterans are confident that their form data will be saved. 
-    - **Likely False** because participants didn't assume this would happen, and most didn't read and remember the information alerts that said it would. All saw their data saved after clicking *Finish later* and most concluded that saving happened only if they clicked *Finish later* or *Continue*. They said that they *hoped* their work would be saved but were *not confident* that it would be.  
+    - **Likely False** because participants didn't assume this would happen, and most didn't read and remember the informational alerts that said it would. All saw their data saved after clicking *Finish later* and most concluded that saving happened only if they clicked *Finish later* or *Continue*. They said that they *hoped* their work would be saved but were *not confident* that it would be.  
 1. Veterans will know how to resume filling out a form that they started previously. 
     - **Likely True** because the *Continue your request* button was readily found and used by most participants (although the user wasn't signed out), and those who were brought to the My VA page found the *Continue your application* link there. This could be tested again in a different study with a prototype that signed out the user during a break in filling out the form. 
 1. When Veterans encounter error messages while filling out online forms, they are able to resolve the errors. 
@@ -194,7 +195,7 @@ For demographic details, see [Research participants](#user-content-research-part
   > *"So maybe I hit 'Finish later' because I don't want to start all over again...I think it's gonna save it. And then whenever I log back in, it should take me to the same spot" (p8).*
 - 4 of 11 participants were unsure about what the *Finish later* button would do. Does it mean that you will quit for a while? Or skip the current page and proceed to the next page? Or save my current place in the form and the information I entered? 
    > *"Finish later...does that mean I can walk away from it? Usually it means I'm quitting for awhile, but I don't know if it's just letting me skip this page...Maybe 'Stop and return later'?" (p3).*
-- One participant (screen magnifier on desktop) clicked *Finish later* accidentally and thought he was going to lose information entered, but then noticed that the form saved his work. He then assumed that his information was being constantly saved (not only when you click *Finish later*). This was the ONLY participant who thought correctly that we're saving form data *all the time*, and it wasn't from seeing either information alert.
+- One participant (screen magnifier on desktop) clicked *Finish later* accidentally and thought he was going to lose information entered, but then noticed that the form saved his work. He then assumed that his information was being constantly saved (not only when you click *Finish later*). This was the ONLY participant who thought correctly that we're saving form data *all the time*, and it wasn't from seeing either informational alert.
 - At the end of the session when the moderator showed a different participant (screen magnifier on desktop) the informational alert at the top of the first page of the form, he asked why *Finish later* is needed when we already said that it's saving everything. 
 
 ### Finding 4: All participants were able to resume filling out the form after taking a short break and a long break.
@@ -366,7 +367,7 @@ There are a number of findings that were outside the scope of the research goals
      
          <details><summary>Screenshot of the form name issue in Figure 8</summary>
          Figure 8 shows the top of the intro page with the heading "Request personal records", and immediately below that is text about the Freedom of Information Act (FOIA).
-         
+
          <img src="./images/Intro-pg-unauth-top-h1.png" width="50%" height="50%" alt="The top of the intro page has the heading 'Request personal records'. Immediately below that is text that says 'Freedom of Information Act (FOIA) or Privacy Act (PA) Request (VA Form 20-10206)'"></details>
 
 3. One participant who uses a screen reader on a phone said that they had a lot of **difficulty signing in**, making a strong password and remembering it, creating a passkey, setting up two-factor authentication, and getting logged out with timeout. A different participant wished that they could sign in with a fingerprint, didn't get logged out, and had a "remember this device" option so you wouldn't have to log in again.
