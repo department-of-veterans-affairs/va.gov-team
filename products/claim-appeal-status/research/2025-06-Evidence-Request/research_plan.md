@@ -209,8 +209,8 @@ _This includes any intellectual disability, ADHD, Autism Spectrum Disorder, seve
 ### Prepare
 We plan to do a pilot session.  
 
-- **Pilot participant email:** _[insert email]_  
-- **Date and time of pilot session:** _[insert date/time]_  
+- **Pilot participant email:** _[michael.collier@agile6.com]_  
+- **Date and time of pilot session:** _[08/20/2025]_  
 
 ### Research Sessions
 - **Planned dates of research:** 8/25-8/29
