@@ -1,160 +1,196 @@
-# Initiative Brief Template
+# Initiative Brief: 10-10EZ Form Statuses on VA.gov - WIP
+- Last updated by hdjustice 8/21/2025
+
 #### Overview
 
-<details>
- 
- *There is roughly a 1:many relationship between products and initiatives, or our attempts to improve a product/achieve Veteran outcomes. The same goes for product outlines and initiative briefs. This template can be used as product documentation for the Collaboration Cycle, especially when iterating an existing product. In addition, the Brief is an important communication tool within a team and between the team and Crew Chief/PO/other teams.* 
- 
-</details>
+This initiative focuses on improving the veteran experience by displaying healthcare application statuses on personalized VA.gov pages beyond the current form introduction page, providing clear guidance on next steps based on application status.
 
-<details>
- <Summary>Examples:</Summary>
- 
- - *Product: On-site Search* 
-   - *Initiatives: Type-ahead, [Search Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/search-landing/initiative-brief.md), [Surfacing Other Search Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/surfacing%20other%20search%20tools/initiative-%20brief.md)*
- - *Product: VA.gov Profile*
-   - *Initiatives: Combine Account & Profile, Direct Deposit for Disability, Candidate Address Validation, Direct Deposit for Education, Notification Preferences*
- - *Product: Disability Claims*
-   - *Initiatives: Original Claims, Benefits Delivery at Discharge (BDD)*
- 
- </details>
- 
- > 💡 Helpful guidance/tips
- 
 ---
 
 ## Outcome Summary
-> *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-* .
+
+**Increase veteran confidence and clarity in healthcare application process by displaying application statuses on high-traffic personalized pages like MyVA, reducing confusion and support requests.**
 
 **Related/Associated product(s)**
-- Product | Link to product outline 
+- VA Healthcare Application (10-10EZ) | [Product outline link needed]
 
 ## Problem
-> *Describe the challenge / pain point you seek to address.:* 
-* What is the problem and who is affected? And, what evidence do we have of the problem?
-* Why do you think the problem is occurring? Other reasons why this might be occurring?
-* How does this initiative help further OCTO-DE's mission and goals?
 
-<!--
-## Desired User Outcomes
-- *Why would a user want to use this?*
-- *With this problem solved, what should users be able to do/achieve that they couldn't before?*
+**What is the problem and who is affected?**
+Veterans applying for VA healthcare currently have limited visibility into their application status outside of the form's introduction page. This creates confusion and anxiety as veterans are unsure of their application progress and what actions they need to take next. The problem affects all veterans who have submitted healthcare applications and are waiting for processing or need to take additional action.
 
-## Undesired User Outcomes
-## Desired Business Outcomes
+**Why do you think the problem is occurring?**
+- Application statuses are only displayed on the form introduction page, which veterans may not frequently visit
+- MyVA dashboard only shows limited status information (started but not submitted applications, and enrolled status)
+- Critical statuses like "application being reviewed" and "declined" are not visible on commonly accessed pages
+- Lack of clear guidance on next steps for each status creates uncertainty
 
-- *Why would your business want this to exist?*
-- *With this problem solved, what should your business be able to do/achieve that they couldn't before?*
-
-## Undesired Business Outcomes
--->
+**How does this initiative help further OCTO-DE's mission and goals?**
+This initiative directly supports OCTO-DE's mission to deliver seamless, proactive, and personalized experiences by:
+- Reducing veteran burden through proactive status communication
+- Improving service completion rates by providing clear next steps
+- Building trust through transparent communication about application progress
 
 ---
+
 ## Measuring Success
 
 ### Key Performance Indicators (KPIs)
-> 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
-> 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
-- Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
+> 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*
+
+- **Ease of Use**: Reduction in support calls related to healthcare application status inquiries | Baseline: [TBD] | Target: 20% reduction
+- **Service Completion**: Increase in veterans completing required follow-up actions | Baseline: [TBD] | Target: 15% increase
+- **Trust/Satisfaction**: Veteran satisfaction scores for healthcare application process | Baseline: [TBD] | Target: 10% improvement
+- **Health**: Reduction in time from application submission to enrollment completion | Baseline: [TBD] | Target: 5% reduction
+
+**Balancing Metrics:**
+- Page load performance on MyVA (ensure new status displays don't impact performance)
+- Error rates for status data retrieval
 
 ---
 
 ## Discovery
-### Assumptions/Risks
-> *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
-> Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
-- **Value Risks** (will people use it): 
-  - .
-- **Usability Risks** (can people figure out how to use it):
-  - .
-- **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - Examples:
-    - Upstream/Downstream API/Data availability and reliability
-    - Site performance impacts (see [Google Lighthouse](https://developers.google.com/web/tools/lighthouse), [WebPageTest](https://www.webpagetest.org/), #-daily-lighthouse-scan)
-  
-- **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - Examples: 
-    - VA stakeholder testing, marketing, compliance requirements 
+### Assumptions/Risks
+
+**Value Risks** (will people use it):
+- Veterans will find status information on personalized pages more useful than current placement
+- Clear next-step guidance will reduce veteran anxiety and confusion
+- *Validation*: User research and usability testing with veterans
+
+**Usability Risks** (can people figure out how to use it):
+- Status information and next steps are presented clearly and understandably
+- Integration with existing MyVA design doesn't create confusion
+- *Validation*: Usability testing and A/B testing of different presentation approaches
+
+**Technical Feasibility Risks** (can we build it with available tech/data):
+- Reliable access to real-time healthcare application status data
+- API performance with volume of status checks (150k pending unverified, 105k pending MT)
+- Integration capabilities with existing MyVA infrastructure
+- *Validation*: Technical spike and API performance testing
+
+**Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
+- Stakeholder alignment on status display locations and messaging
+- Compliance with VA healthcare privacy requirements
+- Coordination with healthcare enrollment teams for accurate status definitions
+- *Validation*: Stakeholder interviews and compliance review
 
 ### Supporting research
 
-- *Is this work supported by user research?* 
-  - *If this work **is supported by user research**, please cite the user research by providing links to our [VA.gov research repo](https://github.com/department-of-veterans-affairs/va.gov-research-repository)*
-  - *If this work is **not supported by existing user research**, will this work include user research?*
-    - *If this work **will include user research**, please briefly state what you hope to learn from that research.*
-    - *If this work **does not cite nor include user research**, please state why and be prepared to defend your decision.*
+This work is requested by Design Lead (Lois Lewis) based on identified user needs. Additional user research should be conducted to:
+- Validate veteran preferences for status information placement
+- Test comprehension of status messaging and next steps
+- Understand veteran mental models for application progress
+- Identify any additional statuses or information veterans need
 
 ### What're you building?
 
-> *What's in scope for you to build with this initiative? Describe key features/flows.*
- 
-> *What have you explicitly decided to **not** include and why?*
+**In scope:**
+- Display of healthcare application statuses ('In Process,' 'Enrolled,' 'Declined,' 'Pending more information') on appropriate VA.gov personalized pages
+- Clear guidance on next steps for each status
+- Integration with existing MyVA healthcare section
+- Responsive design that works across devices
 
-> *Are you building for the VA Health and Benefits mobile application? Explain why or why not.*
+**Explicitly not included:**
+- Changes to the actual healthcare application form
+- Modifications to backend status determination logic
+- New notification systems (email/SMS alerts)
+- Historical status tracking or timeline views
 
-> *How does this solution address your Assumptions & Risks?*
+**Mobile application consideration:**
+Building for VA Health and Benefits mobile app should be considered as a future iteration to ensure consistent experience across platforms.
 
-#### Go-to-market 
+**How this addresses Assumptions & Risks:**
+- User research will validate value and usability assumptions
+- Technical spikes will address feasibility concerns
+- Stakeholder engagement will ensure organizational viability
 
-> *What marketing, outreach, or communications are necessary for this product to be successful?*
+#### Go-to-market
 
-> *Which groups/orgs are necessary to make this happen?*
+**Marketing/Communications:**
+- Announcement through VA communication channels about improved status visibility
+- Training for VA call center staff on new status display locations
+- Documentation updates for veteran-facing support materials
 
---- 
+**Necessary groups/orgs:**
+- VA Healthcare Enrollment teams
+- MyVA product team
+- VA.gov Platform team
+- Veterans Experience Office (VEO)
+
+---
 
 ## Launch Planning
+
 ### Collaboration Cycle
-> 💡 *Use for any Collab Cycle tracking, questions.*
 
-- Kickoff ticket
+- Kickoff ticket: [TBD]
+- Design Intent: [TBD]
+- Research Review: [TBD]
+- Midpoint Review: [TBD]
+- Staging Review: [TBD]
+- Privacy & Security Review: [TBD]
 
-### Timeline 
-> *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
+### Timeline
+
+**Major milestones:**
+- User research completion: [TBD]
+- Design and technical approach finalization: [TBD]
+- Development completion: [TBD]
+- Staged rollout beginning: [TBD]
 
 * [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
 
 #### Initiative Launch Dates
-- *Target Launch Date*
-  - tbd
-- *Actual Launch Date* 
-  - tbd
+
+- **Target Launch Date**: TBD
+- **Actual Launch Date**: TBD
 
 ---
-   
+
 ## Screenshots
 
 ### Before
+[Screenshots of current MyVA healthcare section and form introduction page status display]
 
 ### After
+[Mockups of enhanced status display on personalized pages]
 
 ---
 
 #### Communications
+
 *Where will you discuss this initiative?*
 
 <details>
 
-- Team Name: 
-- GitHub Label(s): 
-- Slack channel: 
-- Product POCs:
+- Team Name: [Healthcare Application Team]
+- GitHub Label(s): [healthcare-application, 10-10ez, myva]
+- Slack channel: [TBD]
+- Product POCs: [TBD]
 
 </details>
 
-
 #### Stakeholders
+
 *What offices/departments are critical to make this initiative successful?*
 
 <details>
-  
-- Office/Department:
-- Contact(s): 
- 
+
+- Office/Department: Veterans Health Administration (VHA)
+- Contact(s): [TBD]
+
+- Office/Department: VA Healthcare Enrollment & Eligibility
+- Contact(s): [TBD]
+
+- Office/Department: OCTO-DE MyVA Team
+- Contact(s): [TBD]
+
 </details>
 
 ---
-<sup>1</sup> [VA.gov Analytics - KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf)\
+
+<sup>1</sup> [VA.gov Analytics - KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf)
+
 <sup>2</sup> [SVPG: The Four Big Risks](https://svpg.com/four-big-risks/)
