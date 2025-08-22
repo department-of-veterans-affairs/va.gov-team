@@ -67,7 +67,7 @@ This How-To document ensures we evaluate the form consistently and track issues 
 - Making sure you're covering multiple pathways within a step or section.
 - Thoroughly documenting bugs or UX issues.
 
-Steps with changes currently in design or development are listed below. Please hold off on doing bug and UX audits of these sections:
+**Steps with changes currently in design or development are listed below. Please hold off on doing bug and UX audits of these sections:**
 - Skip most of `Step 2: Conditions` (Epic [#785](https://github.com/department-of-veterans-affairs/vagov-claim-classification/issues/785)) but you can audit starting at the POW pathway.
 
 ## Helpful Resources
