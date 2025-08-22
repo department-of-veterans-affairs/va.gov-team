@@ -16,7 +16,7 @@ Applicants are required to complete VA Form 10-10d and VA Form 10-7959c separate
 
 - Veterans can complete and submit both the CHAMPVA benefits application and OHI certification through a unified digital interface.​
 - Veterans spend less time and effort filling out the forms.
-- Veterans spend less time waiting to hear back on the status of their application.
+- Veterans spend less time waiting to receive benefits.
 - Veteran satisfaction increased with application experience.
 
 ## Undesired User Outcomes
