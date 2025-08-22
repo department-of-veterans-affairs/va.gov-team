@@ -146,14 +146,15 @@ In order to test, testers need to access the form in Staging.
 5.  On the "Receive a code by phone" screen, just click "Continue"
 6. On the "Enter the 6-digit code" click "Continue" again. (The code should have automatically populated).
 
-| UserID                        | Use to Audit                                 | User Details      | Combined Disability Rating         | 
-| ----------------------------- | -------------------------------------------- | ----------------- | ---------------------------------- | 
-| vets.gov.user+xx@gmail.com    | All pathways except "Claim for Increase"     | Lorem ipsum       | Consectetur      | 
-| vets.gov.user+xx@gmail.com    | All pathways except "Claim for Increase"     | Dolor sit amet    | Incididunt       | 
-| vets.gov.user+xx@gmail.com    | All pathways except "Claim for Increase"     | Eiusmod tempor    | Minim veniam     | 
-| vets.gov.user+226@gmail.com    | "Claim for Increase" and subsequent pathways |- 30% rating for headaches, migraine <br> - 50% rating for PTSD <br> - Conditions VA determined aren’t service-connected: right knee           | Combined disability rating is 70%  | 
-| vets.gov.user+xx@gmail.com    | All pathways except "Claim for Increase"     | Duis aute irure   | In reprehenderit | 
-| vets.gov.user+xx@gmail.com    | All pathways except "Claim for Increase"     | Velit esse cillum | Eu fugiat nulla  | 
+| UserID                        |User Name | Use to Audit                                 | User Details      | Combined Disability Rating         | 
+| ----------------------------- |------- |-------------------------------------------- | ----------------- | ---------------------------------- | 
+| vets.gov.user+xx@gmail.com    | |All pathways except "Claim for Increase"     | Lorem ipsum       | Consectetur      | 
+| vets.gov.user+xx@gmail.com    | |All pathways except "Claim for Increase"     | Dolor sit amet    | Incididunt       | 
+| vets.gov.user+xx@gmail.com    | |All pathways except "Claim for Increase"     | Eiusmod tempor    | Minim veniam     | 
+| vets.gov.user+226@gmail.com    | Johnnie Leonard Weaver |"Claim for Increase" and subsequent pathways |- 30% rating for headaches, migraine <br> - 50% rating for PTSD <br> - Conditions VA determined aren’t service-connected: right knee |          | Combined disability rating is 70%  | 
+| vets.gov.user+230@gmail.com    | Wallace R. Webb |"Claim for Increase" and subsequent pathways | - 40% rating for hearing loss <br> - 30% rating for Paper Cut <br> - 30% rating for HL   | Combined disability rating is 70% | 
+| vets.gov.user+234@gmail.com    |Philip Daniel West |"Claim for Increase" and subsequent pathways     | - 30% rating for Peripheral vestibular disorder <br> - 60% rating for allergies (related to: SHAD (Project Shipboard Hazard and Defense)) <br> - 20% rating for Hearing Loss <br> - Conditions VA determined aren't service-connected: 10% rating for sinusitis | Combined disability rating is 70%  | 
+| vets.gov.user+235@gmail.com    | Philip Daniel West |"Claim for Increase" and subsequent pathways     | - 30% rating for Peripheral vestibular disorder <br> - 60% rating for allergies (related to: SHAD (Project Shipboard Hazard and Defense)) <br> - 20% rating for Hearing Loss <br> - Conditions VA determined aren't service-connected: 10% rating for sinusitis | Combined disability rating is 70%  | 
 
   
 ### ✏️ 6. Conduct your audit and document your findings in the Audit Tracker
