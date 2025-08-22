@@ -12,7 +12,7 @@ This initiative focuses on improving the veteran experience by displaying health
 **Increase veteran confidence and clarity in healthcare application process by displaying application statuses on high-traffic personalized pages like MyVA, reducing confusion and support requests.**
 
 **Related/Associated product(s)**
-- VA Healthcare Application (10-10EZ) | [Product outline link needed]
+- VA Healthcare Application (10-10EZ) | [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
 
 ## Problem
 
