@@ -5,13 +5,20 @@ _Please Note: The Veteran-Facing Services Platform ATO boundary includes all env
 
 #### POC
 1. What is the name of your product(s)/system(s)?
-1095-B Tax Form
+
+   1095-B Tax Form
+   
 2. Describe its purpose in a few sentences.
-Veterans can log in to va.gov and download their 1095-B tax form so they can report health coverage when they file taxes. There was no way to view this form digitally before this page on va.gov was built: https://www.va.gov/records/download-your-irs-1095-b/
+
+   Veterans can log in to va.gov and download their 1095-B tax form so they can report health coverage when they file taxes. There was no way to view this form digitally before this page on va.gov was built: https://www.va.gov/records/download-your-irs-1095-b/
+   
 3. If you represent multiple products, please describe the relationship between them, if there is any.
-We represent multiple products and the only one kind of related to 1095-B is Paperless Delivery. We will have a separate document that covers that product.
+   
+   We represent multiple products and the only one kind of related to 1095-B is Paperless Delivery. We will have a separate document that covers that product.
+   
 4. What is the expected duration of your project? This information helps us understand how our processes need to adapt
-We maintain this product so there are always have items on our roadmap for it. In the short term we are rearchitecting the backend to pull tax data from a new API endpoint rather than the current way of storing and reading files from S3.
+   
+   We maintain this product so there are always have items on our roadmap for it. In the short term we are rearchitecting the backend to pull tax data from a new API endpoint rather than the current way of storing and reading files from S3.
 
 #### AWS Resources
 1. List AWS services used.
