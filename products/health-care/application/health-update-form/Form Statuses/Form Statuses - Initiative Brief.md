@@ -148,21 +148,23 @@ Should align with existing VA mobile app form status patterns and be considered 
 ### Collaboration Cycle
 
 - Kickoff ticket: [TBD]
+- PO Sync: [TBD]
 - Design Intent: [TBD]
+- Architecture review: [TBD] - To be part of Midpoint review
 - Research Review: [TBD] (may leverage existing research)
 - Midpoint Review: [TBD]
+- Analytics Request: [TBD]
+- Contact Center review: [TBD]
 - Staging Review: [TBD]
-- Privacy & Security Review: [TBD]
+- Privacy & Security Review: [TBD] - To be part of Staging review
 
 ### Timeline
 
 **Major milestones:**
 - Design alignment with existing MyVA patterns: [TBD]
 - Technical implementation using existing infrastructure: [TBD]
-- Integration testing with 10-10EZR status APIs: [TBD]
-- Phased rollout coordination with 10-10EZ status work: [TBD]
 
-* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) - TBD
 
 #### Initiative Launch Dates
 
@@ -201,10 +203,10 @@ Should align with existing VA mobile app form status patterns and be considered 
 
 <details>
 
-- Team Name: [Health Update Form Team / Healthcare Application Team]
-- GitHub Label(s): [health-update-form, 10-10ezr, myva, form-status]
-- Slack channel: [TBD]
-- Product POCs: [TBD]
+- Team Name: [Health Applications Team]
+- GitHub Label(s): [1010-team, 10-10ezr, 1010-form-status]
+- Slack channel: [1010-health-apps]
+- Product POCs: [Heather Justice]
 
 </details>
 
@@ -214,17 +216,12 @@ Should align with existing VA mobile app form status patterns and be considered 
 
 <details>
 
-- Office/Department: Veterans Health Administration (VHA)
-- Contact(s): [TBD]
-
-- Office/Department: OCTO-DE MyVA Team / Identity Personalization
+- Office/Department: OCTO-DE MyVA Team / Personalization
 - Contact(s): [TBD]
 
 - Office/Department: VA Healthcare Enrollment & Eligibility
-- Contact(s): [TBD]
+- Contact(s): [Angela Fulton, Simone Gully, Amanda Scully, April Mims]
 
-- Office/Department: VA.gov Platform Team
-- Contact(s): [TBD]
 
 </details>
 
