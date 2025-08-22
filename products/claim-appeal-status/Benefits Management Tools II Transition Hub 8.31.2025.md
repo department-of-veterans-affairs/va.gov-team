@@ -163,17 +163,17 @@ Once we finish investigating why EVSS is still getting hits (Jane working on thi
 - **Value to Veterans:** Provides a clearer, more accurate view of claim progress, reducing uncertainty and increasing trust in VA systems.  
 
 
-## Jun 30, 2025 – Decision Letter Email Notifications (EventBus)
-- **What was done:** Released proactive email notifications to inform Veterans when a Decision Letter is available.  
-- **Value to Veterans:** Ensures timely updates so Veterans can take next steps sooner, improving confidence and reducing reliance on call centers.  
-
-
-## Jul 1, 2025 – EVSS to Lighthouse Letters Migration
+## Jun 24, 2025 – EVSS to Lighthouse Letters Migration
 - **What was done:** Began migration of Benefits Letters API from EVSS to Lighthouse (rolled back due to issues, pending re-release).  
-- **Value to Veterans:** Modernizes backend services to improve stability and long-term reliability of letter access.  
+- **Value to Veterans:** Modernizes backend services to improve stability and long-term reliability of letter access. 
 
 
-## Jul 10, 2025 – Evidence Request Content Improvements
+## Jun 25, 2025 – Decision Letter Email Notifications (EventBus Gateway)
+- **What was done:** Released proactive email notifications to inform Veterans when a Decision Letter is available.  
+- **Value to Veterans:** Ensures timely updates so Veterans can take next steps sooner, improving confidence and reducing reliance on call centers.   
+
+
+## Jul 16, 2025 – Evidence Request Content Improvements
 - **What was done:** Released plain-language content model and mockups for 1st and 3rd party evidence requests.  
 - **Value to Veterans:** Veterans can more easily find, understand, and act on evidence request information, reducing confusion and delays.  
 
@@ -185,7 +185,7 @@ Once we finish investigating why EVSS is still getting hits (Jane working on thi
 - **Value to Veterans:** Prevents wasted effort and confusion, provides clear error messages, protects privacy, and ensures uploads are processed correctly.  
 
 
-## Aug 10, 2025 (week ending) – Your VA Letters and Documents
+## Aug 19, 2025 – Your VA Letters and Documents
 - **What was done:** Improved letter download flow by removing unnecessary steps, updating plain language, adding contextual labels, and aligning accessibility.  
 - **Value to Veterans:** Veterans can more easily download their letters without friction, reducing abandonment and ensuring quicker access to critical benefits documents.  
 
