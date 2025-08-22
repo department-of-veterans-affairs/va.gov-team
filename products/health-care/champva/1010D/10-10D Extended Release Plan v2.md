@@ -70,7 +70,7 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 *The KPIs and numbers are example values recommended by VSP but can be customized to your team's needs.*
 
-_As this form is replacing a form that is currently live, we have to be a bit creative regarding our launch._
+**As this form is replacing a currently live form, we had to be a bit creative with our launch plan.**
 
 ### GOALS
 When we drafted this launch plan, we wanted to accomplish a few goals:
