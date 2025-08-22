@@ -15,7 +15,7 @@ host: `{dev,sandbox,staging,www}.va.gov`
 
 To visit the staged Medications refill page, navigate to:
 
-[`https://staging.va.gov/my-health/medicaitons/refill`](https://staging.va.gov/my-health/medicaitons/refill)
+[`https://staging.va.gov/my-health/medications/refill`](https://staging.va.gov/my-health/medications/refill)
 
 ## Medications App | API to EHR Map
 
