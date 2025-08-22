@@ -5,6 +5,15 @@
 
 This initiative focuses on improving the veteran experience by displaying healthcare application statuses on personalized VA.gov pages beyond the current form introduction page, providing clear guidance on next steps based on application status.
 
+## Resources
+
+- [Figma for on-screen Intro page status messaging](https://www.figma.com/design/FIol4hCGVx9eTrY0AXDmnl/10-10EZR-Production?node-id=2711-51591&t=KDXhIY7IbTMot5EV-1)
+- [10-10EZR Form Statuses GitHub Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/health-update-form/Form%20Statuses)
+- [VFF and MyVA submission statuses research](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues?q=is%3Aissue+label%3A%22DSP%3A+Help%20users%20to%20stay%20informed%20of%20app%20status%22)
+- [My VA: Benefit Applications and Forms Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/benefit-applications-and-forms-use-cases)
+- [Figma file on Form Statuses](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2049-36392&p=f&t=8FmjsddG1O9L4aoJ-0)
+- [Form Statuses on MyVA MVP - Project Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/forms-status-on-My-VA/README.md)
+- [MyVA Epic #81849](https://github.com/department-of-veterans-affairs/va.gov-team/issues/81849)
 ---
 
 ## Outcome Summary
@@ -126,11 +135,15 @@ Building for VA Health and Benefits mobile app should be considered as a future 
 ### Collaboration Cycle
 
 - Kickoff ticket: [TBD]
+- PO Sync: [TBD]
 - Design Intent: [TBD]
-- Research Review: [TBD]
+- Architecture review: [TBD] - To be part of Midpoint review
+- Research Review: [TBD] (may leverage existing research)
 - Midpoint Review: [TBD]
+- Analytics Request: [TBD]
+- Contact Center review: [TBD]
 - Staging Review: [TBD]
-- Privacy & Security Review: [TBD]
+- Privacy & Security Review: [TBD] - To be part of Staging review
 
 ### Timeline
 
@@ -140,7 +153,7 @@ Building for VA Health and Benefits mobile app should be considered as a future 
 - Development completion: [TBD]
 - Staged rollout beginning: [TBD]
 
-* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) - TBD
 
 #### Initiative Launch Dates
 
@@ -165,10 +178,10 @@ Building for VA Health and Benefits mobile app should be considered as a future 
 
 <details>
 
-- Team Name: [Healthcare Application Team]
-- GitHub Label(s): [healthcare-application, 10-10ez, myva]
-- Slack channel: [TBD]
-- Product POCs: [TBD]
+- Team Name: [Health Applications Team]
+- GitHub Label(s): [1010-team, 10-10ezr, 1010-form-status]
+- Slack channel: [1010-health-apps]
+- Product POCs: [Heather Justice]
 
 </details>
 
@@ -178,19 +191,13 @@ Building for VA Health and Benefits mobile app should be considered as a future 
 
 <details>
 
-- Office/Department: Veterans Health Administration (VHA)
+- Office/Department: OCTO-DE MyVA Team / Personalization
 - Contact(s): [TBD]
 
 - Office/Department: VA Healthcare Enrollment & Eligibility
-- Contact(s): [TBD]
-
-- Office/Department: OCTO-DE MyVA Team
-- Contact(s): [TBD]
+- Contact(s): [Angela Fulton, Simone Gully, Amanda Scully, April Mims]
 
 </details>
 
 ---
 
-<sup>1</sup> [VA.gov Analytics - KPI Framework](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/analytics/Analytics%20Playbook/va-gov-platform-analytics-kpi-framework.pdf)
-
-<sup>2</sup> [SVPG: The Four Big Risks](https://svpg.com/four-big-risks/)
