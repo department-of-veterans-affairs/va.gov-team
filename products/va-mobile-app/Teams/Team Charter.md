@@ -43,12 +43,12 @@ When you schedule meetings async or create deadlines (i.e. EOD), clarify the hou
 
 #### Slack 
 
-*DSVA “#va-mobile-app”:*
+DSVA #va-mobile-app:
 - This is the default channel for team communication
 - *Comms related to what our team is doing* including Discovery work, Research & Design, Development, PRs, QA, and Releases. Basically all ongoing or incoming work.
 - This is where any communication with MFS team or Experience Teams should happen (please don't use DMs for comms with MFS or Experience teams. If someone DMs you, ask them to repost in the channel whenever possible).
 
-*DSVA "#va-mobile-app-core-team":*
+DSVA #va-mobile-app-core-team:
 - private channel for VA mobile core team
 - Comms related to how our team operates including team processes, platform processes, sprint planning or capacity
 - Retro-style feedback: something that is going well, not going well, or needs to be changed.
@@ -60,9 +60,9 @@ Additional DSVA public channels include:
 
 #### Email
 
-- VA email: sign into Citrix with your PIV and check everyday at least once a day. By checking your email on a daily basis, you will reduce the risk of losing access to your account due to inactivity (accounts are assumed to be inactive after a month of no sign-in).
+VA email: sign into Citrix with your PIV and check everyday at least once a day. By checking your email on a daily basis, you will reduce the risk of losing access to your account due to inactivity (accounts are assumed to be inactive after a month of no sign-in).
 
-- Company email: primary communication takes place over Slack but check your email everyday at least once a day.
+Company email: primary communication takes place over Slack but check your email everyday at least once a day.
 
 #### GitHub
 
@@ -86,7 +86,7 @@ If team member is out for a day or more:
 - Add to shared team calendar: Mobile Team Calendar
 - Set up automated email response
 
-#### Unplanned OOOO
+#### Unplanned OOO
 
 Notify team ASAP in VA Slack #va-mobile-app-core-team channel
 For sensitive issues, DM your lead
