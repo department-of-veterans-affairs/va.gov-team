@@ -35,23 +35,23 @@ PM and PO will monitor analytics. If they see a spike in errors or unexpected be
 
 #### Planning
 
-- Desired date range or test duration: TBD
-- Desired number of users: TBD
-- How you'll recruit the right production test users: Likely Perigean, but TBD
+- Desired date range or test duration: 6/18-7/17
+- Desired number of users: 15+
+- How you'll recruit the right production test users: Perigean
 - How you'll conduct the testing: User/Usability Interviews
 - How you'll give the test users access to the product in production w/o making it live on VA.gov: Staging
 
 #### Results
 
-- Number of users: [FILL_IN]
-- Number of bugs identified / fixed: [FILL_IN]/[FILL_IN]
+- Number of users: 18
+- Number of bugs identified / fixed: N/A
   - [FILL_IN] : list
   - [FILL_IN] : of
   - [FILL_IN]: Tickets of bugs/changes
-- Was any downstream service affected by the change?: yes/no, [FILL_IN]
-- Types of errors logged: [FILL_IN]
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes/no
-- If yes, what: [FILL_IN] with ticket numbers
+- Was any downstream service affected by the change?: yes/no, No
+- Types of errors logged: N/A
+- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? No
+- If yes, what: N/A
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
 
@@ -69,6 +69,31 @@ We recommend that the rollout plan has five stages, each increasing the number o
 - Who is monitoring the dashboard(s)?: IVC Forms Team
 
 *The KPIs and numbers are example values recommended by VSP but can be customized to your team's needs.*
+
+_As this form is replacing a form that is currently live, we have to be a bit creative regarding our launch._
+
+### GOALS
+When we drafted this launch plan, we wanted to accomplish a few goals:
+- Still perform a “proper” phased launch to help control for issues with the 10-10d extended form
+- Never block users from completing the 10-10d. If we were to take 10-10d original offline, and still give the extended form a phased launch, large portions of users would not be able to start a 10-10d until the buckets (25%, 50%, etc) caught them
+- Don’t erase users progress. If we did a hard cutover, any user who started the form and saved their progress would lose it during the cutover
+
+### LIMITATIONS
+Due to the structure of the extended form (as an entirely new app instead of building off the existing 1010d form) we can’t use the approaches some other teams have used for their rollouts, such as a train approach. This has left us with three choices:
+- the phased launch with two urls discussed here
+- a hard cutover with a phased launch and users losing access to 1010d
+- a hard cutover with no phased launch which obviously carries a lot of risk for a form with this much volume.
+
+### PROPOSED LAUNCH PLAN
+Content/IA has given us the green light for our current rollout plan. For the sake of explaining the plan, I'm going to use 9/1 as a launch date. Thats not the actual launch date:
+- If a user starts but does not finish the 1010d original at any point in this phased launch, we will store that record and when they return they will continue with the 1010d original
+- 9/1 1010d extended goes up for canary at a new url, 1010d original is still available to all other users at the old url
+- 9/3 1010d extended goes to 25% at it's new url, 1010d original is still available to the other 75% of users at the old url
+- 9/5 1010d extended goes to 50% at its new url, 1010d original is still available to the other 50% of users at the old url
+- 9/7 1010d extended goes to 75% at its new url, 1010d original is still available to the other 25% of users at the old url
+- 9/9 1010d extended fully replaces 1010d original, still at its new url, but 'new' visitors cannot access the 1010d original
+   - for the standard 60 days that we save forms in progress, users who have an in progress 1010d original will continue the in progress 1010d original if they return
+- 60 days after 9/9, the 1010d extended will fully replace the 1010d original at the old url. no one will be able to access 1010d original
 
 ### Stage A: Canary
 
