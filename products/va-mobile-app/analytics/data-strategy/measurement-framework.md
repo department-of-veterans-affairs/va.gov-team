@@ -103,7 +103,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 | **What should we measure?** | Useful appointment details<br> *“I know when and where my appointment is."* |
 | **Important metrics to track**<br> *New metrics indicated by asterisk*| - View appt details events<br>- Notification open/click-through rate* <br>- % conversion from notification to completed appt* <br>- Engagement time per active user* <br>- Appointment cancel events* <br>- # feature viewers/# of users* <br>- Latency* <br>- % of errors within X period of time* <br>- CSAT* |
 | **How these metrics can inform decision making** | Inform or improve notification design, in-app usability, or performance to ensure users can easily view, manage, and act on their appointments.  |
-| **Unhelpful metrics** |  |
+| **Unhelpful metrics** | - Viewer counts – shows exposure, not whether users successfully access or act on appointment details.<br> - Average daily viewers – volume metric, doesn’t reflect usability or conversion to completed appointments.<br> - Views per user – repeated views may indicate confusion, not value.<br> - Times viewed per user – inflates numbers without tying to meaningful outcomes. |
 
 </details>
 
