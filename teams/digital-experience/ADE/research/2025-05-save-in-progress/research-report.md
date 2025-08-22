@@ -9,7 +9,7 @@
 
 **Contacts:** Cindy Merrill
 
-**[Link to Research Readout--TBD](link)**  
+**[Link to Research Readout](./Save%20in%20Progress%20research%20readout-8_25_2025%20VA%20UX%20sync-rem-final.pdf)**  
 
 **Jump to:**
 
