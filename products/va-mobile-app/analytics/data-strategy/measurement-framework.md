@@ -129,7 +129,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 | **What should we measure?** | Ease of secure messaging + timely provider response <br> *“I understood what I needed to do next to manage my whole health.”* |
 | **Important metrics to track**<br> *New metrics indicated by asterisk*| - Notification open/click-through rate* <br>- % conversion from notification to viewed message* <br>- Messages sent* <br>- Latency* <br>- % of errors within X period of time* |
 | **How these metrics can inform decision making** | These metrics can highlight where to improve notifications, reduce technical friction, and optimize reliability so users can confidently connect with their healthcare providers through the app. |
-| **Unhelpful metrics** | - Viewer counts – measures exposure, not refill completion. <br> - Average daily viewers – volume metric, doesn’t indicate success or usability. <br> - Views per user – repeated views could signal confusion, not value. <br> - Times viewed per user – same issue as above; no task completion context. |
+| **Unhelpful metrics** | - Viewer counts – measures exposure, not completion. <br> - Average daily viewers – volume metric, doesn’t indicate success or usability. <br> - Views per user – repeated views could signal confusion, not value. <br> - Times viewed per user – same issue as above; no task completion context. |
 
 </details>
 
@@ -166,9 +166,9 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |--------------------|-------------|
 | **User goal**      | *"I want to track claim status."* |
 | **What should we measure?** | Accurate, easy to understand claim status <br> *“I know the status of my claim.”* |
-| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Click the NCC call center number<br>- Click links on the claim status screen<br>- Claim Details Open events<br>- Time spend viewing per active user<br>- Overall claims page views<br>- # feature viewers/# of users<br>- Latency<br>- % of errors within X period of time |
+| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Click the NCC call center number* <br>- Click links on the claim status screen* <br>- Claim Details Open events* <br>- Time spend viewing per active user* <br>- Overall claims page views<br>- # feature viewers/# of users* <br>- Latency* <br>- % of errors within X period of time* Clicks VA phone number for help*|
 | **How these metrics can inform decision making** | Reveal whether the claim status feature is providing clear, self-service information. They can help us identify where to improve content clarity, navigation, and performance so users can confidently track their claims in-app without relying on external channels/calling the contact center (NCC). |
-| **Unhelpful metrics** |  |
+| **Unhelpful metrics** | TBD |
 
 </details>
 
@@ -179,9 +179,9 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |--------------------|-------------|
 | **User goal**      | *"I want to understand claims decisions/review claim letters."* |
 | **What should we measure?** | Convenient access to claim decision letters <br> *“I can easily access claims letters and review why claim decisions were made.”* |
-| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Claims history viewed<br>- Conversion funnel to claims decision<br>- Latency<br>- % of errors within X period of time |
+| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Claims history viewed* <br>- Conversion funnel to claims decision* <br>- Latency* <br>- % of errors within X period of time* <br> Clicks VA phone number for help* |
 | **How these metrics can inform decision making** | Show whether users can successfully access and navigate to their claim decision letters with minimal friction. |
-| **Unhelpful metrics** |  |
+| **Unhelpful metrics** | TBD |
 
 </details>
 
@@ -192,9 +192,9 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |--------------------|-------------|
 | **User goal**      | *"I need to submit evidence related to my claim."* |
 | **What should we measure?** | Smooth photo or document upload <br> *“I can easily upload photos and documents to my claim.”* |
-| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Drop-offs at the "Upload Files" screen<br>- # feature viewers/# of users<br>- Latency<br>- % of errors within X period of time |
+| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Drop-offs at the "Upload Files" screen* <br>- # feature viewers/# of users* <br>- Latency* <br>- % of errors within X period of time* |
 | **How these metrics can inform decision making** | Indicate whether users can successfully complete the evidence submission process without confusion or technical barriers. They can help inform how to improve user flow, reliability, and speed so that evidence/documents can be uploaded with ease. |
-| **Unhelpful metrics** |  |
+| **Unhelpful metrics** | TBD |
 
 </details>
 
