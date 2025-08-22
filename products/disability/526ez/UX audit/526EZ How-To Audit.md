@@ -94,6 +94,7 @@ This How-To document ensures we evaluate the form consistently and track issues 
 4. Familiarize yourself with the Audit Tracker and select your steps/pathways
 5. Access staging
 6. Conduct your audit and document findings on the Audit Tracker
+7. Discuss findings with other auditors, PMs, POs
 
 ### 🧭 1. Will you conduct a bug or UX issue audit?
 Use the table below to understand the difference between bugs and UX issues. Choose one type of audit (bug or UX issue) before you begin — it helps with tracking and keeps you focused.
