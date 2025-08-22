@@ -16,6 +16,16 @@ Find us on DSVA slack in [#va-notify-public](https://dsva.slack.com/archives/C01
 
 Email us at **VA Notify** (oitoctovanotify@va.gov)
 
+Reserve a spot at our **Office Hours** - Tuesdays and Thursdays at 2:30 PM ET (30 minutes each) - contact Ksenia Belikova and/or Evan Parish.
+Sign-ups close 24 hours before each session. If no one signs up, that slot will be skipped and the next available time can be booked.
+
+Office hours are a chance to:
+- Hold a kick-off session once your intake has been submitted
+- Ask onboarding or integration questions
+- Request quick demos of features
+- Get help with specific issues or blockers
+
+
 # Points of Contact
 **Product**
 - Dave Conlon, VA PO - VA Notify, Platform & Experience
@@ -81,8 +91,9 @@ Please note, this may differ based on your use case.
 (*) = Your team, (**) = Joint effort between your team and VA Notify
 
 - Submit the [intake form](https://github.com/department-of-Veterans-affairs/va.gov-team/issues/new?assignees=davidconlon%2C+GitSamJennings%2C+kbelikova-oddball&labels=vanotify-intake&template=VANotify-Business-Intake.md&title=Business+intake+form+for+%5BBusiness+or+team%5D) *
-- Kick-off with VA Notify **
 - Have your technical team review the VA Notify API docs *
+- Kick-off with VA Notify **
+    - During our office hours - Tuesday and Thursday at 2:30pm ET 
 - Get access to the Self Service Portal **
 - Budget approval for notifications *
 - Create your notification content (Privacy Officer review required) *
