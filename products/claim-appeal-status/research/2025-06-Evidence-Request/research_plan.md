@@ -7,7 +7,8 @@ This research will assess how Veterans perceive the structure, clarity, and usab
 
 **Link to artifacts:** 
 - [Initiative brief]([url](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Improved%20Evidence%20Requests%20UX%20Initiative%202025-05.md))
-- ([url](https://dsva.slack.com/archives/C099VF5T5U3)) 
+- [Note-taking Sign-up]([url](https://dsva.slack.com/archives/C099VF5T5U3))
+
 ---
 
 ## OCTO Priorities
