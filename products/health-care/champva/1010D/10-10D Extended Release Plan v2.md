@@ -10,7 +10,7 @@ List the features toggles here.
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| [FILL_IN] | If enabled shows the digital form experience for form 10-10D Extended (IVC CHAMPVA) |
+| form1010d_extended | If enabled shows the digital form experience for form 10-10D Extended (IVC CHAMPVA) |
 
 ## Step 2: Validation
 
