@@ -164,7 +164,7 @@ Once we finish investigating why EVSS is still getting hits (Jane working on thi
 
 
 ## Jun 24, 2025 – EVSS to Lighthouse Letters Migration
-- **What was done:** Began migration of Benefits Letters API from EVSS to Lighthouse (rolled back due to issues, pending re-release).  
+- **What was done:** Began migration of Benefits Letters API from EVSS to Lighthouse.  
 - **Value to Veterans:** Modernizes backend services to improve stability and long-term reliability of letter access. 
 
 
