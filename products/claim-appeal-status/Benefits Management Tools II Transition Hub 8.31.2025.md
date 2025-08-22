@@ -203,20 +203,25 @@ Once we finish investigating why EVSS is still getting hits (Jane working on thi
 
 # Stakeholders and Supported Initiatives
 
-| **Name**                        | **Title**                              | **Organization** | **Initiatives Supported**                                                          |
-|---------------------------------|-----------------------------------------|------------------|-------------------------------------------------------------------------------------|
-| **Andrew Gray**                 | Senior Automation Strategist            | VBAVACO          | Supplemental Claims, Payment History, Evidence Request                              |
-| **Alejandro Mendiolaflores**   | Senior Automation Strategist            | VBAVACO          | Supplemental Claims, Payment History, Evidence Request                              |
-| **Danielle M. Atwood**         | Senior Program Analyst                  | VBAVACO          | Dependency Letters                                                                  |
-| **Lisa L. Lotts**              | Lead Program Analyst                    | VBAVACO          | Dependency Letters                                                                  |
-| **Melissa Rebstock**          | Branch Chief, Digital Experience        | VBASPT           | Dependency Letters                                                                  |
-| **Elizabeth A. Eskew-Howard**  |           | VBAVACO          | Payment History                                                                     |
-| **Amy Davis**                  |          | VBAVACO          | Payment History                                                                     |
-| **Eric Colinares**             | Management & Program Analyst            | OAR              | Payment History (Agent/Attorney Fees)                                               |
-| **Jacqueline N. Hale**         | Senior Management & Program Analyst     | VBAVACO          | Payment History                                                                     |
-| **Alicia M. Harvala**          | Program Analyst                         | VBAVACO          | Payment History                                                                     |
-| **Daniel J. Gifford**          | Management and Program Analyst          | VBAVACO          | Pension Claims                                                                      |
-| **Derek Uttley**               | [Title not specified in image]          | VBAVACO          | Pension Claims                                                                      |
+
+| **Name**                               | **Role/Title**                                | **Initiatives Worked On**                                                                 |
+|----------------------------------------|-----------------------------------------------|--------------------------------------------------------------------------------------------|
+| **Andrew Gray (VBAVACO)**              | Senior Automation Strategist                  | Supplemental Claims, Payment History, Evidence Request                                     |
+| **Alejandro Mendiolaflores (VBAVACO)** | Senior Automation Strategist                  | Supplemental Claims, Payment History, Evidence Request                                     |
+| **Danielle M. Atwood (VBAVACO)**       | Senior Program Analyst                        | Dependency Letters                                                                         |
+| **Lisa L. Lotts (VBAVACO)**            | Lead Program Analyst                          | Dependency Letters                                                                         |
+| **Melissa Rebstock (VBASPT)**          | Branch Chief of Digital Experience            | Dependency Letters                                                                         |
+| **Elizabeth A. Eskew-Howard (VBAVACO)**| —                                             | Payment History                                                                           |
+| **Amy Davis (VBAVACO)**                | —                                             | Payment History                                                                           |
+| **Eric Colinares (OAR)**               | Management & Program Analyst                  | Payment History (Agent/Attorney Fees)                                                     |
+| **Jacqueline N. Hale (VBAVACO)**       | Senior Management & Program Analyst           | Payment History                                                                           |
+| **Alicia M. Harvala (VBAVACO)**        | Program Analyst                               | Payment History                                                                           |
+| **Daniel J. Gifford (VBAVACO)**        | Management & Program Analyst                  | Pension Claims                                                                            |
+| **Derek Uttley (VBAVACO)**             | Program Analyst                               | Pension Claims                                                                            |
+| **Anthony Nguyen (VA OIT)**            | EventBus Team                                 | Decision Letter Notifications (EventBus / EventBus Gateway)                               |
+| **Kaitlyn Hunt**                       | Senior Content Designer (Content/IA)          | Evidence Requests, Benefit Letters                                                        |
+| **Danielle Thierry**                   | Content Practice Lead                         | Evidence Requests, Benefit Letters                                                        |
+
 
 
 # BMT2 Initiatives – File Links
