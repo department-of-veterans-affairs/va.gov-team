@@ -88,7 +88,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |--------------------|-------------|
 | **User goal**      | *"I want to have convenient access to a digital version of (x) so that I am not worried about loss or fraud."* |
 | **What should we measure?** | Convenient access to VA benefit letters<br> * “I can conveniently provide digital proof of (x).”* |
-| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Page views<br>- Most frequently accessed letters<br>- # feature viewers/# of users<br>- Latency<br>- % of errors within X period of time<br>- User report easy to view and download VA benefit letters |
+| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Page views<br>- Most frequently accessed letters<br>- # feature viewers/# of users<br>- Latency* <br>- % of errors within X period of time* <br>- User report easy to view and download VA benefit letters* |
 | **How these metrics can inform decision making** | These metrics show whether the VA benefits letters performs reliably and delivers a clear, usable experience. They can inform decisions on which letters to prioritize (e.g. the most common letters users access), where to reduce errors or latency, and how to improve usability so users can quickly access and download the documents they need. |
 | **Unhelpful metrics** | |
 
@@ -101,7 +101,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |--------------------|-------------|
 | **User goal**      | *"I want to view my appointment(s) to take care of a health concern."* |
 | **What should we measure?** | Useful appointment details<br> *“I know when and where my appointment is."* |
-| **Important metrics to track**<br> *New metrics indicated by asterisk*| - View appt details events<br>- Notification open/click-through rate<br>- % conversion from notification to completed appt<br>- Engagement time per active user<br>- Appointment cancel events<br>- # feature viewers/# of users<br>- Latency<br>- % of errors within X period of time<br>- CSAT |
+| **Important metrics to track**<br> *New metrics indicated by asterisk*| - View appt details events<br>- Notification open/click-through rate* <br>- % conversion from notification to completed appt* <br>- Engagement time per active user* <br>- Appointment cancel events* <br>- # feature viewers/# of users* <br>- Latency* <br>- % of errors within X period of time* <br>- CSAT* |
 | **How these metrics can inform decision making** | Inform or improve notification design, in-app usability, or performance to ensure users can easily view, manage, and act on their appointments.  |
 | **Unhelpful metrics** |  |
 
@@ -114,9 +114,9 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |--------------------|-------------|
 | **User goal**      | *"I need to refill my prescription."* |
 | **What should we measure?** | Ease of Prescription Refills <br> *“It was easy to get my prescription refilled.”* |
-| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Filter and tracking details<br>- Number of clicks to My VA Health (if can't fill script in app)<br>- Feedback from Rx survey<br>- # feature viewers/# of users<br>- Latency<br>- % of errors within X period of time |
+| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Filter and tracking details* <br>- Number of clicks to My VA Health (if can't fill script in app)* <br>- Feedback from Rx survey* <br>- # feature viewers/# of users* <br>- Latency* <br>- % of errors within X period of time* |
 | **How these metrics can inform decision making** | Identify pain points with Rx refill process and identify where to streamline navigation, reduce errors or latency. |
-| **Unhelpful metrics** | |
+| **Unhelpful metrics** | - Viewer counts – measures exposure, not refill completion. <br> - Average daily viewers – volume metric, doesn’t indicate success or usability. <br> - Views per user – repeated views could signal confusion, not value. <br> - Times viewed per user – same issue as above; no task completion context.|
 
 </details>
 
