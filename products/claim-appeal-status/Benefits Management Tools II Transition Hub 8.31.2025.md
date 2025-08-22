@@ -204,6 +204,8 @@ Once we finish investigating why EVSS is still getting hits (Jane working on thi
 # Stakeholders and Supported Initiatives
 
 
+# Stakeholders and Initiatives
+
 | **Name**                               | **Role/Title**                                | **Initiatives Worked On**                                                                 |
 |----------------------------------------|-----------------------------------------------|--------------------------------------------------------------------------------------------|
 | **Andrew Gray (VBAVACO)**              | Senior Automation Strategist                  | Supplemental Claims, Payment History, Evidence Request                                     |
@@ -221,7 +223,9 @@ Once we finish investigating why EVSS is still getting hits (Jane working on thi
 | **Anthony Nguyen (VA OIT)**            | EventBus Team                                 | Decision Letter Notifications (EventBus / EventBus Gateway)                               |
 | **Kaitlyn Hunt**                       | Senior Content Designer (Content/IA)          | Evidence Requests, Benefit Letters                                                        |
 | **Danielle Thierry**                   | Content Practice Lead                         | Evidence Requests, Benefit Letters                                                        |
-
+| **Kimberley Monroe-Daniels**           | Veteran Support Customer Success Manager      | Veteran Issues, Silent Failures                                                           |
+| **Jinmay Patel**                       | BGS                                           | Backend Services (BGS)                                                                    |
+| **Janelle Finnerty**                   | UX Lead for Authenticated Experience                                           | Mailing Address initiatives                                                               |
 
 
 # BMT2 Initiatives – File Links
