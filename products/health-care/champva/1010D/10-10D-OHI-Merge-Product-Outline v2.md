@@ -1,11 +1,11 @@
 # 1010D & OHI Merge Product Outline v2
 
 ## Overview
-Applicants seeking CHAMPVA benefits must complete and submit VA Form 10-10d for benefits enrollment and VA Form 10-7959c for Other Health Insurance (OHI) certification separately. To enhance user experience and streamline operations, we propose merging these two forms into a single, cohesive digital application process.​
+Applicants seeking CHAMPVA benefits must complete and submit VA Form 10-10d for benefits enrollment and, if they have other health insurance to report, VA Form 10-7959c for Other Health Insurance (OHI) certification. The current 10-10d flow supports submitting the OHI as a part of it, but you must fill out the OHI separately and upload it, and it is not an enforced requirement. Over 30% of users that indicate they have other health insurance to report skip uploading the OHI, meaning they're submitting an incomplete application, clogging the application queue, and delaying their awarding of benefits. To enhance user experience and streamline operations, we propose merging these two forms into a single, cohesive digital application process.​
 
 
 ## Problem Statement
-Applicants are required to submit VA Form 10-10d and VA Form 10-7959c separately, leading to potential redundancy and increased processing times. This dual-submission process can be burdensome for users and may delay the overall application process. Our goal is to merge the submission processes to reduce the load on both the time it takes a veteran to submit, and the time it takes the approval team to process and approve applications.
+Applicants are required to complete VA Form 10-10d and VA Form 10-7959c separately, leading to potential redundancy and increased processing times. This dual-submission process can be burdensome for users and may delay the overall application process. The current process also does not enforce the requirement of OHI when a user states they have OHI to report. Our goal is to merge the submission processes to reduce the load on both the time it takes a veteran to submit, and the time it takes the approval team to process and approve applications.
 
 - How might we simplify the CHAMPVA application and OHI supporting docs process to allow applicants to submit both benefits enrollment and OHI certification seamlessly in a single digital experience?
 
