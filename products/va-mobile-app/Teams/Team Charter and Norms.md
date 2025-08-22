@@ -64,14 +64,6 @@ VA email: sign into Citrix with your PIV and check everyday at least once a day.
 
 Company email: primary communication takes place over Slack but check your email everyday at least once a day.
 
-#### GitHub
-
-- Product and research documentation are on[ VA.gov repository](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app).
-- Codebase and issues are on separate [VA mobile repository](https://github.com/department-of-veterans-affairs/va-mobile-app).
-- Update tickets regularly. If conversations happen in Slack that are pertinent to a product or initiative, link the slack thread or copy information into GitHub ticket. 
-
-See [Team Norms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/Teams/Team%20Norms.md) for more details on team communications.
-
 ### Out of Office
 
 #### Planned OOO
@@ -181,7 +173,13 @@ Outline work to be done next quarter in order to accomplish the team's goals. Pl
 - 2 hours
 - Core Mobile Team & MFS Team
 
-### GitHub Etiquette
+### GitHub
+
+- Product and research documentation are on[ VA.gov repository](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app).
+- Codebase and issues are on separate [VA mobile repository](https://github.com/department-of-veterans-affairs/va-mobile-app).
+- Update tickets regularly. If conversations happen in Slack that are pertinent to a product or initiative, link the slack thread or copy information into GitHub ticket. 
+
+#### GitHub Etiquette
 
 - Anyone on the team can create a(n) issue/ticket/story.
 - Every user story needs to be linked to an epic.
