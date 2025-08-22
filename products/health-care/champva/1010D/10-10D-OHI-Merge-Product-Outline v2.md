@@ -60,7 +60,7 @@ _Baseline values for those most critical metrics. These may come from other syst
   - Key result: Low dropoff when users encounter OHI part of merged solution
 
 - Objective: Faster delivery of benefits for Veterans and their families
-  - Key result: Increase number of people who obtain approvals for claims filed 
+  - Key result: Increase number of people who obtain approvals for applications filed 
   - Key result: Reduce processing and approval time
   - Key result: Reduce the number of resubmissions
 
