@@ -108,78 +108,17 @@ Zoom/Huddle: use for setting up meetings for internal stakeholders only (or as a
 
 #### Team Meetings
 
-##
-
 | Meeting Name | Day and Time | Purpose | Attendees                                                                   |
 | ------------ | ------------ | --------| --------------------------------------------------------------------------- |
-| Daily Stand-up | Monday - Thursday at 9:00am ET | Check in on people and product progress. Raise blockers.| Core Mobile Team |
+| Sprint Planning | First day of every sprint (Monday) from 12:05pm - 1:00pm ET | Outline work to be done this sprint in order to accomplish the team's goals. | Core mobile team |
+| Daily Stand-up | Monday - Thursday from 12:00pm - 12:20pm ET | Check in on people and product progress. Raise blockers.| Core mobile team |
+| Mid Sprint Check-In | First Friday of every sprint from 12:30pm - 1:00pm ET | Review sprint goals and assess any adjustments that need to be made to meet sprint goals | Core mobile team |
+| Backlog Refinement | Every Wednesday from 1:35pm - 2:30pm ET | Review upcoming tickets to add needed details, ask questions, refine AC, and estimate. Output of this meeting should be tickets that are ready to work on in upcoming sprints. | Core mobile team | 
+| Demo | Second Thursday of every sprint from 3:35pm - 4:35pm ET | Showcase of work done during the sprint. | Core mobile team and open to anyone who wants to join as an audience member |
+| Retro | Second Thursday of every sprint from 4:35pm - 5:00pm ET | Open discussion on what has gone well, what has been challenging, and discussion of action items. | Core mobile team |
+| New Epics & Priorities Review | Every Tuesday from 4:05pm - 5:00pm ET | Product, Leads, and POs working ahead of the team to define future initiatives. Create draft product briefs that we can pull from in the future. | PMs, Team Leads, and POs | 
+| Quarterly Planning | Upcoming Tentative Dates: Q4 2025 - 9/17/25, Q1 2026 - 12/17/25, Q2 2026 - 3/18/25, Q3 2026 - 6/18/25, Q4 2026 - 9/16/2025 | Outline work to be done next quarter in order to accomplish the team's goals. Planned for a few weeks before Quarter starts. | Core mobile team | 
 
-#### Stand-up
-
-Check in on people and product progress. Raise blockers.
-
-- Monday - Thursday
-- 9:00am ET
-- 20 minutes
-- Core mobile team
-
-#### Sprint Planning
-
-Outline work to be done this sprint in order to accomplish the team's goals.
-
-- First day of every sprint (Monday)
-- 9:05am ET
-- 1 hour
-- Core mobile team
-
-#### Demo
-
-Showcase of work done during the sprint.
-
-- Second Thursday of every sprint
-- 3:35pm ET
-- 1 hour
-- Open to anyone who wants to join as an audience member
-
-#### Retro
-
-Open discussion on what has gone well, what has been challenging, and discussion of action items.
-
-- Second Thursday of every sprint
-- 4:35pm ET
-- 30 minutes
-- Core mobile team
-
-#### Backlog Refinement
-
-Review upcoming tickets to add needed details, ask questions, refine AC, and estimate. Output of this meeting should be tickets that are ready to work on in upcoming sprints.
-
-- Every Wednesday
-- 1:35pm ET
-- 1 hour
-- Core mobile team
-
-#### New Epics & Priorities Review
-
-Product, Leads, and POs working ahead of the team to define future initiatives. Create draft product briefs that we can pull from in the future.
-
-- Every Tuesday
-- 4:05 pmET
-- 1 hour
-- PMs, Team Leads, and POs
-
-#### Quarterly Planning
-
-Outline work to be done next quarter in order to accomplish the team's goals. Planned for a few weeks before Quarter starts.
-
-- Upcoming tentative dates
-  - Q4 2025 - 9/17/25
-  - Q1 2026 - 12/17/25
-  - Q2 2026 - 3/18/25
-  - Q3 2026 - 6/18/25
-  - Q4 2026 - 9/16/2025
-- 2 hours
-- Core Mobile Team & MFS Team
 
 ### GitHub
 
