@@ -10,9 +10,14 @@ A native mobile app that is a trusted source for Veterans to quickly and easily 
 
 ## What we work on
 
-### Mobile Platform Product suite
+### Mobile Product suite
 
 - VA Health and Benefits mobile app
+
+### Mobile Platform tools
+
+- Feedback Hub
+- Dev Tools app
 
 ## Team organization
 
