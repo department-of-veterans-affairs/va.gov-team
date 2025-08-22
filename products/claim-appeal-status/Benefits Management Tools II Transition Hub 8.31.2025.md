@@ -246,6 +246,9 @@ For the Intent to File (ITF) discovery phase, the team investigated how Veterans
 
 ## 7. Letter Migration to Lighthouse
 
+The development work to support this effort was done by the previous BMT1 team.  BMT2 was responsible for releasing this work after the previous BMT1 team's contract ended.
+
+The [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/VA%20Benefits%20Letters%20EVSS%20to%20Lighthouse%20API%20Migration%20Release%20Plan.md) was executed and updated as findings caused various pivots.  The release was completed on **June 24, 2025**.
 
 ## 8. Event Bus Gateway – Decision Letter Email Notifications
 
