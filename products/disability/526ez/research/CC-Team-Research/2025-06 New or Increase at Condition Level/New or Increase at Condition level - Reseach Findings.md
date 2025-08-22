@@ -47,7 +47,7 @@ This research tested a new design for the Conditions step in the online 526EZ. T
 
 # Methodology
 
-We conducted a one-hour moderated remote usability study with 7 Veterans from June 20–27, 2025, using a [*functional high-fidelity prototype*](https://staging.va.gov/user-testing/conditions) in the staging environment. Participants completed six tasks representing common interactions with the claim form, including:
+We conducted a one-hour moderated remote usability study with 7 Veterans from June 20–27, 2025, using a functional high-fidelity prototype in the staging environment. Participants completed six tasks representing common interactions with the claim form, including:
 
 1. Add a new condition  
 2. Request an increase for a rated condition  
@@ -66,10 +66,13 @@ The study was conducted via Zoom, with participants recruited by Perigean. 5 par
 
 ## Research materials
 
-- [*Prototype*](https://staging.va.gov/user-testing/conditions)  
-- [*Research plan*](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2025-06%20New%20or%20Increase%20at%20Condition%20Level/Research%20Plan%20-%202025-06%20New%20or%20Increase%20at%20Condition%20Level.md)  
-- [*Conversation guide*](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/CC-Team-Research/2025-06%20New%20or%20Increase%20at%20Condition%20Level/Conversation%20Guide%20-%202025-06%20New%20or%20Increase%20at%20Condition%20Level.md)  
-- Interview transcripts
+### Research materials
+
+- [Designs tested](https://www.figma.com/design/P6IUm8gN00H3Yi1XzN80fj/-526ez--Condition-information-entry?node-id=1978-16118&t=F2wcLeJbxevucls6-1)  
+- [Research plan](https://github.com/va-gov-team/products/disability/526ez/research/CC-Team-Research/blob/master/research-plan.md)  
+- [Conversation guide](https://github.com/va-gov-team/products/disability/526ez/research/CC-Team-Research/blob/master/conversation-guide.md)  
+- [Research notes & recordings](https://dvagov.sharepoint.com/:f:/s/vaabdvro/EjQYUkn11tpImChEXdN4ZucBrfefe_mu1h78BRkZXJGx2Q?e=HgX2SU)
+
 # Hypotheses and Conclusions
 
 | Hypothesis                                                                                      | Conclusion                                                                                                                                                                                                 |
@@ -105,8 +108,6 @@ Each of these key findings is covered in the Detailed Findings section below.
 
 *\* Two participants encountered some difficulty but were able to successfully complete the task.*
 
----
-
 ## Finding 1: Veterans found the new condition experience easy to use and highly intuitive
 
 All participants were able to complete the core flows and described the experience as easy and fast. Several expressed increased confidence in their ability to file a claim on their own. Multiple participants remarked on the simplicity and self-explanatory nature of the experience, particularly in contrast to previous VA tools or paper-based workflows. Participants’ responses indicated that the streamlined form increased their confidence in completing the process independently, and reduced their perceived need for outside help.
@@ -118,8 +119,6 @@ Participants were asked to rate the experience on a scale of 1–5 for both ease
 
 Many were pleasantly surprised by how short the process felt, with one participant saying it was “almost too short” to believe it was truly complete.
 
----
-
 ### 1a. Participants easily chose between “a condition I haven’t claimed before” and the rated conditions
 
 | <img src="images/fig03-add_condition.png" alt="Adding a condition" width="300"> |
@@ -130,8 +129,6 @@ All participants understood the distinction between new and rated conditions and
 > “It’s easy that it’s all in one place — add new ones, talk about your increases.”  
 > *— Participant 1*
 
----
-
 ### 1b. Participants understood what the list of rated disabilities represented
 
 The rated conditions list was universally understood as “already known” or “already claimed” conditions. Participants correctly inferred that these were conditions already present in their VA record. No one expressed confusion about whether these were generic options or specific to them — with the exception of one participant, who initially guessed the list might be suggested conditions. (This was likely a result of the test using dummy data.)
@@ -140,8 +137,6 @@ Participants appreciated that the system pulled in their existing information, m
 
 > “No challenges. It’s nice that they already have [your information] and you just add to it.”  
 > *— Participant 6*
-
----
 
 ### 1c. There was no confusion or concern about the list of rated conditions becoming shorter as they were added to the claim
 
@@ -164,8 +159,6 @@ Participants appreciated that conditions they’d already selected were taken of
 > “It’s actually nice, since it keeps the page from getting too cluttered.”  
 > *— Participant 2*
 
----
-
 ### 1d. Participants understood the purpose and appreciated the organization of the Review Conditions screen, noting it enabled them to go back and edit their information
 
 | <img src="images/fig04-review_condition.png" alt="Reviewing conditions" width="300"> |
@@ -181,8 +174,6 @@ Participants noticed and appreciated that the conditions were listed in the same
 >
 > “It gives you the opportunity to double check.”  
 > *— Participant 6*
-
----
 
 ### 1e. All participants were easily able to use the list & loop structure with a continuation question on the last screen
 
@@ -289,8 +280,6 @@ The remaining five participants completed the Edit task without confusion. Sever
 > “Really, really easy to do.”  
 > *— Participant 3*
 
----
-
 ## Finding 4: The Cause options have improved, but still caused some difficulty
 
 | <img src="images/fig09-cause_options.png" alt="Cause options" width="300"> |
@@ -353,8 +342,6 @@ Participants used a variety of strategies to estimate a date:
 
 One participant suggested showing their service dates on this page, as a way to jog their memory.
 
----
-
 ## Finding 6: We observed two problems with the autosuggestion menu
 
 Both issues in this finding stemmed from the same participant using a mobile phone. One problem was specific to the mobile layout and screen behavior, while the other reflected a more general confusion about when and how the autosuggestion list appears.
@@ -407,8 +394,6 @@ All participants were able to accurately report which condition they were workin
 > “If you look at the screen, it’s up there — it basically tells you what you’re into.”  
 > *— Participant 6*
 
----
-
 ## Finding 9: Instructions were helpful
 
 Most participants engaged with the on-screen instructions at some point, either by skimming them initially or referring back to them when clarification was needed. Several participants mentioned the instructions directly and described them as useful and to-the-point.  
@@ -437,8 +422,6 @@ The instructions on this screen garnered the most attention of any screen. We ob
 
 > “It’s nice that you can give an approximate date.”  
 > *— Participant 1*
-
----
 
 ## Finding 10: The laterality question was easy and reassuring
 
@@ -530,8 +513,6 @@ Several participants mentioned concerns about whether their information was bein
    - This would allow Veterans to add helpful information about their requests for increase.
    - It could also serve as a backstop for Veterans who choose an increase condition when they really have a new, secondary condition.
 
----
-
 # Who we talked to
 
 ### Recruitment criteria
@@ -544,8 +525,6 @@ Perigean recruited 10 people. There were 3 cancellations, resulting in 7 actual 
 - 2-3 Veterans with “no degree after high school.”
 
 While we recruited a mix of age, gender, and race/ethnicity, it turned out all our cancellations were non-White recruits and/or women. This resulted in a participant group that was more White and more male than we typically see. In the future, we should ask for higher percentages of these underrepresented groups in the initial recruit.
-
----
 
 ### Final participant pool
 
@@ -599,8 +578,6 @@ While we recruited a mix of age, gender, and race/ethnicity, it turned out all o
 
 **Disability and Assistive Technology (AT)**
 - Did not recruit for this  
-
----
 
 ## Underserved groups we haven’t talked to
 This research does not include the perspectives of the following marginalized Veteran groups:
