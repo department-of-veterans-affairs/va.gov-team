@@ -10,45 +10,13 @@ A native mobile app that is a trusted source for Veterans to quickly and easily 
 
 ## What we work on
 
-### Product suite
+### Mobile Platform Product suite
 
-- Health, benefits, payments, and profile products and services.
-- Global systems like UI library, FE components, accessibility, devops, governance and documentation.
-
-### Product portfolio
-
-#### Health
-
-- Appointments
-- Secure Messages
-- Prescriptions
-- Vaccines
-
-#### Benefits
-
-- Claims & appeals status
-- Disability rating
-- Letters
-
-#### Profile
-
-- Personal & military information
-
-#### Payments
-
-- Compensation
+- VA Health and Benefits mobile app
 
 ## Team organization
 
-The VA mobile App team is split into two groups covering different areas of focus.
-
-### Red team
-
-Health-related products in the app.
-
-### Blue team
-
-Benefits-related products, global app features like navigation and single sign on (SIS), and incremental improvements and maintenance (aka TLC).
+The VA Mobile App Core Team operates the mobile platform and builds mobile features for the VAHB app.
 
 See [teaming information](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app) for the team roster.
 
@@ -58,13 +26,17 @@ See [teaming information](https://github.com/department-of-veterans-affairs/va.g
 
 #### Slack DSVA “#va-mobile-app”:
 
-This is our main means of communication with each other. Keep as much conversation in public channels as possible, to minimize duplicative and extraneous communication.
+This is the main means of communication with the VA Mobile App Core Team. We aim to keep as much conversation in public channels as possible, to minimize duplicative and extraneous communication.
+
+Additional public channels include:
+#va-mobile-app-design
+#va-mobile-app-engineering
 
 #### GitHub
 
 - Product and research documentation are on[ VA.gov repository](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/va-mobile-app).
 - Codebase and issues are on separate [VA mobile repository](https://github.com/department-of-veterans-affairs/va-mobile-app).
-- Update tickets regularly. If conversations happen in Slack that are pertinent to a product or initiative, copy the useful info into GitHub/ZenHub.
+- Update tickets regularly. If conversations happen in Slack that are pertinent to a product or initiative, link the slack thread or copy information into GitHub ticket. 
 
 See [Team Norms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/Teams/Team%20Norms.md) for more details on team communications.
 
@@ -74,82 +46,81 @@ See [Team Norms](https://github.com/department-of-veterans-affairs/va.gov-team/b
 
 Check in on people and product progress. Raise blockers.
 
-- Every Tuesday and Thursdays
-- 15-30 minutes
-- Red team at 1:30pm ET
-- Blue team at 2pm ET
+- Monday - Thursday
+- 9:00am ET
+- 20 minutes
+- Core mobile team
 
 #### Sprint Planning
 
 Outline work to be done this sprint in order to accomplish the team's goals.
 
-- Last Tuesday of every sprint
+- First day of every sprint (Monday)
+- 9:05am ET
 - 1 hour
-- Red team at 1pm ET
-- Blue team at 2pm ET
+- Core mobile team
 
 #### Demo
 
-Showcase of work done during the previous sprint.
+Showcase of work done during the sprint.
 
-- Thursday after the end of every sprint
-- 45 minutes
-- Entire team (Red + Blue) at 2:35 ET
+- Second Thursday of every sprint
+- 3:35pm ET
+- 1 hour
+- Open to anyone who wants to join as an audience member
 
 #### Retro
 
 Open discussion on what has gone well, what has been challenging, and discussion of action items.
 
-- Mid-Thursday of every sprint
-- 45 minutes
-- Entire team (Red + Blue) at 2:30 ET
+- Second Thursday of every sprint
+- 4:35pm ET
+- 30 minutes
+- Core mobile team
 
-#### Sprint 0
+#### Backlog Refinement
 
-Team and POs working ahead of the team to define future initiatives. Create draft product briefs that we can pull from in the future. Open to anyone on the team.
+Review upcoming tickets to add needed details, ask questions, refine AC, and estimate. Output of this meeting should be tickets that are ready to work on in upcoming sprints.
 
+- Every Wednesday
+- 1:35pm ET
 - 1 hour
-- Weekly on Wednesdays at 1:05pm ET
+- Core mobile team
 
-#### Scrum of Scrums (SoS)
+#### New Epics & Priorities Review
 
-Product, leads, and PO get together to discuss:
+Product, Leads, and POs working ahead of the team to define future initiatives. Create draft product briefs that we can pull from in the future.
 
-- Highlight the quarterly plan and review progress
-- Review changes in risks, dependencies, assumptions, or priority for the current sprint
-- Review insights from ongoing discovery or delivery work in the current sprint
-- Discuss the plan for the upcoming sprint
-- Rebalance team staffing if necessary
-- Triage unplanned work
-
-Cadence:
-
+- Every Tuesday
+- 4:05 pmET
 - 1 hour
-- Weekly on Tuesdays at 4:05pm ET
+- PMs, Team Leads, and POs
 
 #### Quarterly Planning
 
-Outline work to be done next quarter in order to accomplish the team's goals.
+Outline work to be done next quarter in order to accomplish the team's goals. Planned for a few weeks before Quarter starts.
 
 - Upcoming tentative dates
-  - Q2 2023 - 4/4/23
-  - Q3 2023 - 6/27/23
-  - Q4 2023 - 10/3/23
-  - Q1 2024 - 1/9/24
+  - Q4 2025 - 9/17/25
+  - Q1 2026 - 12/17/25
+  - Q2 2026 - 3/18/25
+  - Q3 2026 - 6/18/25
+  - Q4 2026 - 9/16/2025
 - 2 hours
-- Entire team (Red + Blue)
+- Core Mobile Team & MFS Team
 
 ### GitHub Etiquette
 
 - Anyone on the team can create a(n) issue/ticket/story.
-- All teammates are responsible for keeping them up to date.
+- Every user story needs to be linked to an epic.
+- Alert PM when new ticket is created.
+- Do not add a ticket to the current sprint without thumbs up from PMs. 
+- All teammates are responsible for keeping their tickets up to date.
 - Templates are available within the new issue/ticket/story during creation.
 
 #### Labels to use:
 
-- Team assigned (_mobile-blue-team_, etc)
 - Discipline(s) (_ux_, _content_, _front-end_, _back-end_, _qa_)
-- Feature area(s) if applicable (_direct-deposit_, _payments_, etc.)
 - For bugs, add the _bug_ tag and [applicable severity tag](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/QA#issue-severity)
 
 #### Epics should include:
@@ -164,7 +135,7 @@ Outline work to be done next quarter in order to accomplish the team's goals.
 #### Stories/Tickets should include:
 
 - Title that explains the goal in plain language
-- Linked to another ticket or epic
+- Linked to epic
 - Includes:
   - Description (what happened & why we need this ticket),
   - General tasks to perform
