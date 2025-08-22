@@ -1,4 +1,4 @@
-# Team norms
+# (Archived) Team norms
 
 ## Our values
 
