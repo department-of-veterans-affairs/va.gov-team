@@ -29,13 +29,40 @@ See [teaming information](https://github.com/department-of-veterans-affairs/va.g
 
 ### Communications
 
-#### Slack DSVA “#va-mobile-app”:
+#### Working Remotely
 
-This is the main means of communication with the VA Mobile App Core Team. We aim to keep as much conversation in public channels as possible, to minimize duplicative and extraneous communication.
+Team members are expected to log in daily from a workspace with sufficient internet connection and limited background noise. Understanding that no space is perfect 100% of the time, you should do your best to attend meetings and stay in communication when you face connectivity or other disruptive issues. If you cannot attend meetings due to a disruption, you must communicate a backup plan in the #va-mobile-app-core-team VA Slack channel.
 
-Additional public channels include:
+Be as responsive and engaging as possible in all forms of communication. Check VA and internal Slack and email when you are not in meetings and respond to threads within a timely fashion during working hours. Defer to communicating in customer facing channels as much as possible, and tag team members when asking questions, sharing documents, providing async updates, and creating meeting back channels. For any other matters, you may use private channels such as direct messages or Slack huddles.For questions and topics that may not be ready to put in front of the customer, you may use internal channels (MO Slack). 
+
+#### Time Zones
+
+Be mindful of teammates’ working hours and time zones. Most people tend to work between 8 AM - 5 PM in their respective time zones. There is no expectation that team members have to respond to messages outside of those hours unless it is a critical circumstance. 
+
+When you schedule meetings async or create deadlines (i.e. EOD), clarify the hours and time zones.
+
+#### Slack 
+
+*DSVA “#va-mobile-app”:*
+- This is the default channel for team communication
+- *Comms related to what our team is doing* including Discovery work, Research & Design, Development, PRs, QA, and Releases. Basically all ongoing or incoming work.
+- This is where any communication with MFS team or Experience Teams should happen (please don't use DMs for comms with MFS or Experience teams. If someone DMs you, ask them to repost in the channel whenever possible).
+
+*DSVA "#va-mobile-app-core-team":*
+- private channel for VA mobile core team
+- Comms related to how our team operates including team processes, platform processes, sprint planning or capacity
+- Retro-style feedback: something that is going well, not going well, or needs to be changed.
+- OOO plans or reminders
+
+Additional DSVA public channels include:
 #va-mobile-app-design
 #va-mobile-app-engineering
+
+#### Email
+
+- VA email: sign into Citrix with your PIV and check everyday at least once a day. By checking your email on a daily basis, you will reduce the risk of losing access to your account due to inactivity (accounts are assumed to be inactive after a month of no sign-in).
+
+- Company email: primary communication takes place over Slack but check your email everyday at least once a day.
 
 #### GitHub
 
@@ -45,7 +72,47 @@ Additional public channels include:
 
 See [Team Norms](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/Teams/Team%20Norms.md) for more details on team communications.
 
-### Team meeting cadence
+### Out of Office
+
+#### Planned OOO
+
+If team member is out for less than a day:
+- Update slack status (in MO and VA Slack)
+- Post in VA Slack #va-mobile-app-core-team channel
+- 
+If team member is out for a day or more:
+- Update PTO Tracker spreadsheet
+- Update slack status (in MO and VA Slack)
+- Add to shared team calendar: Mobile Team Calendar
+- Set up automated email response
+
+#### Unplanned OOOO
+
+Notify team ASAP in VA Slack #va-mobile-app-core-team channel
+For sensitive issues, DM your lead
+
+
+### Team meetings
+
+#### Meeting Etiquette
+
+No agenda, no meeting. All meetings (except Daily Stand Up, Sprint Planning, and Backlog Refinement) should have a planned agenda shared in the calendar description. Please use our Team MO Meeting Notes doc to capture all team meeting notes. It is recommended that you attach this doc to all calendar invites.
+
+All team members who are invited to meetings are expected to attend unless they mark themselves as unavailable in advance or are specified as optional. 
+
+If you are the owner of a recurring meeting that you cannot attend, transfer ownership of the meeting to another attendee and have them accept the event and replace the meeting link with their own link.
+
+When you create a meeting, add a Zoom or Google Meet link for internal meetings and a Teams link for meetings with external stakeholders. 
+
+Try to attend meetings on camera as much as possible in front of external stakeholders. For internal meetings, you may attend cameras on or off but you will still be expected to remain engaged and participative in conversations.
+
+It is recommended that team members in non-lead roles spend no more than 3-4 hours in meetings per day to ensure they have sufficient time to work on deliverables. Try to avoid scheduling meetings in the first or last 30 minutes of another teammate’s work day to ensure they have time to begin or end daily activities.
+
+#### Meeting Links
+
+Microsoft Teams: use for setting up meetings that include external stakeholders. You may enter a meeting you do not own without a PIV. You may also host a Teams Meeting through your company email account, but make sure to add your VA email to the guest list.
+
+Zoom/Huddle: use for setting up meetings for internal stakeholders only (or as a backup to Teams if needed)
 
 #### Stand-up
 
