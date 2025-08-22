@@ -45,29 +45,6 @@ The Rated Disabilities tool enables Veterans to view their combined disability r
 These ratings are assigned based on the severity of disabilities related to military service and are crucial in determining the benefits Veterans receive.  
 By accessing this tool, Veterans can stay informed about their disability evaluations and ensure they are receiving appropriate benefits.
 
----
-
-### Product Portfolio
-
-**Claim Status Tool**
-- Staging link  
-- Product folder  
-- Product outline  
-- Product Guide / Contact Center Guide  
-- VBA OBA Stakeholder notes  
-- PM Resources folder  
-- Gap-Bet Scoring  
-- SharePoint files and resources  
-
----
-
-### Product Artifacts
-
-**Claim Status Tool**
-- Data Flow Diagram  
-- Upstream Service Contacts  
-- Staging users  
-- Analytics  
 
 ## Analytics Dashboards
 
@@ -120,9 +97,7 @@ Once we finish investigating why EVSS is still getting hits (Jane working on thi
 - CST Mural Room  
 
 **Team Resources**
-- GitHub Project Board  
-- Accessibility documentation  
-- Accessibility project board  
+- [GitHub Project Board](https://github.com/orgs/department-of-veterans-affairs/projects/1430)  
 
 ### Manual Process for Analyzing Contact Center/Medallia Data
 
@@ -288,10 +263,8 @@ The [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team
 
 [Decision Letter Email Metrics](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Benefits%20Management%20-%20CST/BMT%20metrics/Decision%20Letter%20Email%20Metrics.xlsx?d=wb15afdf335a64f0798d4eef2fa457425&csf=1&web=1&e=XDqfij) (SharePoint)
 
-## 9. Silent Failures – Investigation & Response
 
-
-## 10. Fixing Dependents Document Upload Issues
+## 9. Fixing Dependents Document Upload Issues
 -
 
 ## 📑 Additional Documentation
