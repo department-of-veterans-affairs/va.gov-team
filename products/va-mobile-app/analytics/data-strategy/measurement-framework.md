@@ -127,9 +127,9 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |--------------------|-------------|
 | **User goal**      | *"I want to securely message my provider."* |
 | **What should we measure?** | Ease of secure messaging + timely provider response <br> *“I understood what I needed to do next to manage my whole health.”* |
-| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Notification open/click-through rate<br>- % conversion from notification to viewed message<br>- Messages sent<br>- Latency<br>- % of errors within X period of time |
+| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Notification open/click-through rate* <br>- % conversion from notification to viewed message* <br>- Messages sent* <br>- Latency* <br>- % of errors within X period of time* |
 | **How these metrics can inform decision making** | These metrics can highlight where to improve notifications, reduce technical friction, and optimize reliability so users can confidently connect with their healthcare providers through the app. |
-| **Unhelpful metrics** |  |
+| **Unhelpful metrics** | - Viewer counts – measures exposure, not refill completion. <br> - Average daily viewers – volume metric, doesn’t indicate success or usability. <br> - Views per user – repeated views could signal confusion, not value. <br> - Times viewed per user – same issue as above; no task completion context. |
 
 </details>
 
@@ -140,7 +140,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |--------------------|-------------|
 | **User goal**      | *"I want to view my medical records, labs, and test results."* |
 | **What should we measure?** | Accurate, up-to-date medical records <br> *“My recent labs and medical records are accessible and up-to-date.”"* |
-| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Medical records viewed<br>- # feature viewers/# of users<br>- Latency<br>- % of errors within X period of time |
+| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Medical records viewed<br>- # feature viewers/# of users<br>- Latency* <br>- % of errors within X period of time* |
 | **How these metrics can inform decision making** | Indicate how medical records are used, and whether this feature is reliable and performant. These metrics can help determine if expanding this feature to include labs and test results would provide high-value information, while ensuring the system can handle increased demand without added errors or delays. |
 | **Unhelpful metrics** |  |
 
