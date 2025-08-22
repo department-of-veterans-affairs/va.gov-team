@@ -79,7 +79,7 @@ See [Team Norms](https://github.com/department-of-veterans-affairs/va.gov-team/b
 If team member is out for less than a day:
 - Update slack status (in MO and VA Slack)
 - Post in VA Slack #va-mobile-app-core-team channel
-- 
+
 If team member is out for a day or more:
 - Update PTO Tracker spreadsheet
 - Update slack status (in MO and VA Slack)
@@ -96,7 +96,7 @@ For sensitive issues, DM your lead
 
 #### Meeting Etiquette
 
-No agenda, no meeting. All meetings (except Daily Stand Up, Sprint Planning, and Backlog Refinement) should have a planned agenda shared in the calendar description. Please use our Team MO Meeting Notes doc to capture all team meeting notes. It is recommended that you attach this doc to all calendar invites.
+No agenda, no meeting. All meetings (except Daily Stand Up) should have a planned agenda shared in the calendar description. Please use our Team MO Meeting Notes doc to capture all team meeting notes. It is recommended that you attach this doc to all calendar invites.
 
 All team members who are invited to meetings are expected to attend unless they mark themselves as unavailable in advance or are specified as optional. 
 
