@@ -1,4 +1,4 @@
-# Team Charter
+# Team Charter and Norms
 
 ## Vision
 
