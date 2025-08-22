@@ -6,8 +6,8 @@ Previous research shows that Veterans currently struggle with understanding evid
 This research will assess how Veterans perceive the structure, clarity, and usability of the evidence requests they receive on VA.gov.  
 
 **Link to artifacts:** 
-- [Initiative brief]([url https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Improved%20Evidence%20Requests%20UX%20Initiative%202025-05.md))
-- [Note-taking Sign-up]([url](https://dsva.slack.com/archives/C099VF5T5U3))
+- [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Improved%20Evidence%20Requests%20UX%20Initiative%202025-05.md))
+- [Note-taking Sign-up](https://dsva.slack.com/archives/C099VF5T5U3)
 
 ---
 
