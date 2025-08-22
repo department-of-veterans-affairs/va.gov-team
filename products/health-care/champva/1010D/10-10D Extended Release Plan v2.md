@@ -44,7 +44,7 @@ PM and PO will monitor analytics. If they see a spike in errors or unexpected be
 #### Results
 
 - Number of users: 18
-- Number of bugs identified / fixed: N/A
+- Number of bugs identified / fixed: 
   - [FILL_IN] : list
   - [FILL_IN] : of
   - [FILL_IN]: Tickets of bugs/changes
