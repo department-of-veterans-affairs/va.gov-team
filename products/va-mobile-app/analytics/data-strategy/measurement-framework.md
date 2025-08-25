@@ -75,7 +75,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |--------------------|-------------|
 | **User goal**      | *"I need proof of my Veteran or military status."* |
 | **What should we measure?** | Accurate military status <br> *"I can readily provide proof of my Veteran status.”* |
-| **Important metrics to track**<br> *New metrics indicated by asterisk*| - User engagement over time (actions on screen)* <br>- Viewer counts<br>- Average daily viewers<br>- Views per user<br>- Viewers month-to-month<br>- Distribution/conversion of users who access this task via different pathways (homepage vs tool bar)* <br>- # of feature viewers/# of users <br>- Latency* <br>- % of errors within X period of time* <br>- Users report easy access and clear Veteran status* |
+| **Important metrics to track**<br> *New metrics indicated by asterisk*| - User engagement over time (actions on screen)* <br>- Viewer counts<br>- Average daily viewers<br>- Views per user<br>- Viewers month-to-month<br>- Distribution/conversion of users who access this task via different pathways (homepage vs tool bar)* <br>- # of feature viewers/# of users <br>- Latency* <br>- % of errors within X period of time* <br>- Users report easy access and clear Veteran status* <br> - Clicks VA phone number for help|
 | **How these metrics can inform decision making** | Show how discoverable, reliable and valuable the Veteran status card is. These metrics can indicate where to improve performance, navigation, or expand feature integration (e.g., wallet apps) to better meet Veterans’ needs. |
 | **Unhelpful metrics** | Time on screen could be misleading; a short time may mean efficiency or that users immediately abandoned. Doesn’t measure meaningful outcomes.  |
 
@@ -88,7 +88,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |--------------------|-------------|
 | **User goal**      | *"I want to have convenient access to a digital version of (x) so that I am not worried about loss or fraud."* |
 | **What should we measure?** | Convenient access to VA benefit letters<br> * “I can conveniently provide digital proof of (x).”* |
-| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Page views<br>- Monthly letter downloads <br>- Most frequently accessed letters* <br>- # feature viewers/# of users<br>- Latency* <br>- % of errors within X period of time* <br>- User report easy to view and download VA benefit letters* |
+| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Page views<br>- Monthly letter downloads <br>- Most frequently accessed letters* <br>- # feature viewers/# of users<br>- Latency* <br>- % of errors within X period of time* <br>- User report easy to view and download VA benefit letters* <br> - Clicks VA phone number for help|
 | **How these metrics can inform decision making** | These metrics show whether the VA benefits letters performs reliably and delivers a clear, usable experience. They can inform decisions on which letters to prioritize (e.g. the most common letters users access), where to reduce errors or latency, and how to improve usability so users can quickly access and download the documents they need. |
 | **Unhelpful metrics** | Monthly letter downloads without context that breaks down the numbers by letter type |
 
@@ -101,7 +101,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |--------------------|-------------|
 | **User goal**      | *"I want to view my appointment(s) to take care of a health concern."* |
 | **What should we measure?** | Useful appointment details<br> *“I know when and where my appointment is."* |
-| **Important metrics to track**<br> *New metrics indicated by asterisk*| - View appt details events<br>- Notification open/click-through rate* <br>- % conversion from notification to completed appt* <br>- Engagement time per active user* <br>- Appointment cancel events* <br>- # feature viewers/# of users <br>- Latency* <br>- % of errors within X period of time* <br>- CSAT* |
+| **Important metrics to track**<br> *New metrics indicated by asterisk*| - View appt details events<br>- Notification open/click-through rate* <br>- % conversion from notification to completed appt* <br>- Engagement time per active user* <br>- Appointment cancel events* <br>- # feature viewers/# of users <br>- Latency* <br>- % of errors within X period of time* <br>- CSAT* <br> - Clicks VA phone number for help/reschedule or cancel |
 | **How these metrics can inform decision making** | Inform or improve notification design, in-app usability, or performance to ensure users can easily view, manage, and act on their appointments.  |
 | **Unhelpful metrics** | - Viewer counts – shows exposure, not whether users successfully access or act on appointment details.<br> - Average daily viewers – volume metric, doesn’t reflect usability or conversion to completed appointments.<br> - Views per user – repeated views may indicate confusion, not value.<br> - Times viewed per user – inflates numbers without tying to meaningful outcomes. |
 
@@ -166,7 +166,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |--------------------|-------------|
 | **User goal**      | *"I want to track claim status."* |
 | **What should we measure?** | Accurate, easy to understand claim status <br> *“I know the status of my claim.”* |
-| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Click the NCC call center number* <br>- Click links on the claim status screen* <br>- Claim Details Open events* <br>- Time spend viewing per active user* <br>- Overall claims page views<br>- # feature viewers/# of users <br>- Latency* <br>- % of errors within X period of time* Clicks VA phone number for help*|
+| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Click the NCC call center number* <br>- Click links on the claim status screen* <br>- Claim Details Open events* <br>- Time spend viewing per active user* <br>- Overall claims page views<br>- # feature viewers/# of users <br>- Latency* <br>- % of errors within X period of time* <br> - Clicks VA phone number for help*|
 | **How these metrics can inform decision making** | Reveal whether the claim status feature is providing clear, self-service information. They can help us identify where to improve content clarity, navigation, and performance so users can confidently track their claims in-app without relying on external channels/calling the contact center (NCC). |
 | **Unhelpful metrics** | Most current metrics measure traffic volume (e.g. viewer counts, average daily viewers, views per user, times viewed per user, viewers month-to-month), but not whether the feature helps users actually understand their claim status or avoid needing to call NCC |
 
@@ -179,7 +179,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |--------------------|-------------|
 | **User goal**      | *"I want to understand claims decisions/review claim letters."* |
 | **What should we measure?** | Convenient access to claim decision letters <br> *“I can easily access claims letters and review why claim decisions were made.”* |
-| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Claims history viewed* <br>- Conversion funnel to claims decision* <br>- Latency* <br>- % of errors within X period of time* <br> Clicks VA phone number for help* |
+| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Claims history viewed* <br>- Conversion funnel to claims decision* <br>- Latency* <br>- % of errors within X period of time* <br> - Clicks VA phone number for help* |
 | **How these metrics can inform decision making** | Show whether users can successfully access and navigate to their claim decision letters with minimal friction. |
 | **Unhelpful metrics** | Current metrics mostly measure traffic volume (e.g. viewer counts, average daily viewers, views per user, times viewed per user, viewers month-to-month), but not whether users can successfully access and make sense of their decision letters. |
 
