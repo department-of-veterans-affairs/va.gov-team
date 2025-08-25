@@ -168,7 +168,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 | **What should we measure?** | Accurate, easy to understand claim status <br> *“I know the status of my claim.”* |
 | **Important metrics to track**<br> *New metrics indicated by asterisk*| - Click the NCC call center number* <br>- Click links on the claim status screen* <br>- Claim Details Open events* <br>- Time spend viewing per active user* <br>- Overall claims page views<br>- # feature viewers/# of users <br>- Latency* <br>- % of errors within X period of time* Clicks VA phone number for help*|
 | **How these metrics can inform decision making** | Reveal whether the claim status feature is providing clear, self-service information. They can help us identify where to improve content clarity, navigation, and performance so users can confidently track their claims in-app without relying on external channels/calling the contact center (NCC). |
-| **Unhelpful metrics** | TBD |
+| **Unhelpful metrics** | Most current metrics measure traffic (e.g. viewer counts, average daily viewers, views per user, times viewed per user, viewers month-to-month), but not whether the feature helps users actually understand their claim status or avoid needing to call NCC |
 
 </details>
 
