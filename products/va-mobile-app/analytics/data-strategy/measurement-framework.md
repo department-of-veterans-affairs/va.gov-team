@@ -62,7 +62,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |--------------------|-------------|
 | **User goal**      | *"I want to understand my disability rating."* |
 | **What should we measure?** | Easy to understand disability rating <br> *“I understood my disability rating."* |
-| **Important metrics to tracks**<br> *New metrics indicated by asterisk*| - User engagement over time (actions on screen)* <br>- Viewer counts<br> - Average daily viewers<br>- Views per user<br> - Viewers month-to-month<br> - Distribution/conversion of users who access this task via different pathways (homepage vs tool bar)* <br> - # of feature viewers/# of users* <br> - Latency* <br> - % of errors within X period of time* <br> - Users report easy access and clear disability rating* |
+| **Important metrics to tracks**<br> *New metrics indicated by asterisk*| - User engagement over time (actions on screen)* <br>- Viewer counts<br> - Average daily viewers<br>- Views per user<br> - Viewers month-to-month<br> - Distribution/conversion of users who access this task via different pathways (homepage vs tool bar)* <br> - # of feature viewers/# of users <br> - Latency* <br> - % of errors within X period of time* <br> - Users report easy access and clear disability rating* |
 | **How these metrics can inform decision making** | Health metrics like latency & errors provide insight into whether users can reliably and quickly see their rating. Views, navigation paths, and satisfaction metrics tell us whether this feature is discoverable, useful, and trusted.  |
 | **Unhelpful metrics** | - Time on screen could be misleading; a short time may mean efficiency or that users immediately abandoned. Doesn’t measure meaningful outcomes. |
 
@@ -75,7 +75,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |--------------------|-------------|
 | **User goal**      | *"I need proof of my Veteran or military status."* |
 | **What should we measure?** | Accurate military status <br> *"I can readily provide proof of my Veteran status.”* |
-| **Important metrics to track**<br> *New metrics indicated by asterisk*| - User engagement over time (actions on screen)* <br>- Viewer counts<br>- Average daily viewers<br>- Views per user<br>- Viewers month-to-month<br>- Distribution/conversion of users who access this task via different pathways (homepage vs tool bar)* <br>- # of feature viewers/# of users* <br>- Latency* <br>- % of errors within X period of time* <br>- Users report easy access and clear Veteran status* |
+| **Important metrics to track**<br> *New metrics indicated by asterisk*| - User engagement over time (actions on screen)* <br>- Viewer counts<br>- Average daily viewers<br>- Views per user<br>- Viewers month-to-month<br>- Distribution/conversion of users who access this task via different pathways (homepage vs tool bar)* <br>- # of feature viewers/# of users <br>- Latency* <br>- % of errors within X period of time* <br>- Users report easy access and clear Veteran status* |
 | **How these metrics can inform decision making** | Show how discoverable, reliable and valuable the Veteran status card is. These metrics can indicate where to improve performance, navigation, or expand feature integration (e.g., wallet apps) to better meet Veterans’ needs. |
 | **Unhelpful metrics** | - Time on screen could be misleading; a short time may mean efficiency or that users immediately abandoned. Doesn’t measure meaningful outcomes.  |
 
@@ -101,7 +101,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |--------------------|-------------|
 | **User goal**      | *"I want to view my appointment(s) to take care of a health concern."* |
 | **What should we measure?** | Useful appointment details<br> *“I know when and where my appointment is."* |
-| **Important metrics to track**<br> *New metrics indicated by asterisk*| - View appt details events<br>- Notification open/click-through rate* <br>- % conversion from notification to completed appt* <br>- Engagement time per active user* <br>- Appointment cancel events* <br>- # feature viewers/# of users* <br>- Latency* <br>- % of errors within X period of time* <br>- CSAT* |
+| **Important metrics to track**<br> *New metrics indicated by asterisk*| - View appt details events<br>- Notification open/click-through rate* <br>- % conversion from notification to completed appt* <br>- Engagement time per active user* <br>- Appointment cancel events* <br>- # feature viewers/# of users <br>- Latency* <br>- % of errors within X period of time* <br>- CSAT* |
 | **How these metrics can inform decision making** | Inform or improve notification design, in-app usability, or performance to ensure users can easily view, manage, and act on their appointments.  |
 | **Unhelpful metrics** | - Viewer counts – shows exposure, not whether users successfully access or act on appointment details.<br> - Average daily viewers – volume metric, doesn’t reflect usability or conversion to completed appointments.<br> - Views per user – repeated views may indicate confusion, not value.<br> - Times viewed per user – inflates numbers without tying to meaningful outcomes. |
 
@@ -114,7 +114,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |--------------------|-------------|
 | **User goal**      | *"I need to refill my prescription."* |
 | **What should we measure?** | Ease of Prescription Refills <br> *“It was easy to get my prescription refilled.”* |
-| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Filter and tracking details* <br>- Number of clicks to My VA Health (if can't fill script in app)* <br>- Feedback from Rx survey* <br>- # feature viewers/# of users* <br>- Latency* <br>- % of errors within X period of time* |
+| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Filter and tracking details* <br>- Number of clicks to My VA Health (if can't fill script in app)* <br>- Feedback from Rx survey* <br>- # feature viewers/# of users <br>- Latency* <br>- % of errors within X period of time* |
 | **How these metrics can inform decision making** | Identify pain points with Rx refill process and identify where to streamline navigation, reduce errors or latency. |
 | **Unhelpful metrics** | - Viewer counts – measures exposure, not refill completion. <br> - Average daily viewers – volume metric, doesn’t indicate success or usability. <br> - Views per user – repeated views could signal confusion, not value. <br> - Times viewed per user – same issue as above; no task completion context.|
 
@@ -166,7 +166,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |--------------------|-------------|
 | **User goal**      | *"I want to track claim status."* |
 | **What should we measure?** | Accurate, easy to understand claim status <br> *“I know the status of my claim.”* |
-| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Click the NCC call center number* <br>- Click links on the claim status screen* <br>- Claim Details Open events* <br>- Time spend viewing per active user* <br>- Overall claims page views<br>- # feature viewers/# of users* <br>- Latency* <br>- % of errors within X period of time* Clicks VA phone number for help*|
+| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Click the NCC call center number* <br>- Click links on the claim status screen* <br>- Claim Details Open events* <br>- Time spend viewing per active user* <br>- Overall claims page views<br>- # feature viewers/# of users <br>- Latency* <br>- % of errors within X period of time* Clicks VA phone number for help*|
 | **How these metrics can inform decision making** | Reveal whether the claim status feature is providing clear, self-service information. They can help us identify where to improve content clarity, navigation, and performance so users can confidently track their claims in-app without relying on external channels/calling the contact center (NCC). |
 | **Unhelpful metrics** | TBD |
 
@@ -192,7 +192,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |--------------------|-------------|
 | **User goal**      | *"I need to submit evidence related to my claim."* |
 | **What should we measure?** | Smooth photo or document upload <br> *“I can easily upload photos and documents to my claim.”* |
-| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Drop-offs at the "Upload Files" screen* <br>- # feature viewers/# of users* <br>- Latency* <br>- % of errors within X period of time* |
+| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Drop-offs at the "Upload Files" screen* <br>- # feature viewers/# of users <br>- Latency* <br>- % of errors within X period of time* |
 | **How these metrics can inform decision making** | Indicate whether users can successfully complete the evidence submission process without confusion or technical barriers. They can help inform how to improve user flow, reliability, and speed so that evidence/documents can be uploaded with ease. |
 | **Unhelpful metrics** | TBD |
 
