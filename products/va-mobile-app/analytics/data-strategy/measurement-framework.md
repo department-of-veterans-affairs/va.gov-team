@@ -142,7 +142,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 | **What should we measure?** | Accurate, up-to-date medical records <br> *“My recent labs and medical records are accessible and up-to-date.”"* |
 | **Important metrics to track**<br> *New metrics indicated by asterisk*| - Medical records viewed<br>- # feature viewers/# of users<br>- Latency* <br>- % of errors within X period of time* |
 | **How these metrics can inform decision making** | Indicate how medical records are used, and whether this feature is reliable and performant. These metrics can help determine if expanding this feature to include labs and test results would provide high-value information, while ensuring the system can handle increased demand without added errors or delays. |
-| **Unhelpful metrics** |  |
+| **Unhelpful metrics** | - Time on screen could be misleading; a short time may mean efficiency or that users immediately abandoned. Doesn’t measure meaningful outcomes. |
 
 </details>
 
@@ -153,9 +153,9 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |--------------------|-------------|
 | **User goal**      | *"I want to file for beneficiary travel reimbursement after my appointment."* |
 | **What should we measure?** | Ease of access and BT claims filing <br> *“It was clear where to file for travel pay via the app. Filing was easy."* |
-| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Travel pay submitted<br>- % of travel pay going through mobile compared to other channels<br>- # feature viewers/# of users<br>- Latency<br>- % of errors within X period of time |
+| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Travel pay submitted* <br>- % of travel pay going through mobile compared to other channels* <br>- # feature viewers/# of users* <br>- Latency* <br>- % of errors within X period of time* |
 | **How these metrics can inform decision making** | Indicate whether the travel pay feature is usable, efficient, and shifting demand from other channels to mobile. They can inform where to improve app performance and reliability while validating the value of continued investment to make travel pay more convenient for users. |
-| **Unhelpful metrics** | |
+| **Unhelpful metrics** | This is a new feature that will be measured, and we should monitor the usefulness of these proposed metrics over time.  |
 
 </details>
 
