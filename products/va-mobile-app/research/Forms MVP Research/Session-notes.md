@@ -969,7 +969,81 @@ The update version that showed up on the HomeScreen I believe is likely due to t
 
 ### per researcher:
 
-Pending recording review.
+iPhone
+Safari
+Just submitted the mileage reimbursement on their phone via the app.
+1:25 “Super easy, it was awesome. I literally did it while I was at my appointment. I finished my appointment, it literally prompted me. It was an online check-in, which was phenomenal. It then prompted, like it literally, everything was thing step by step, I didn’t have questions, it was much faster than it was online.”
+
+App experience so far: 
+The stuff that is there is good, its not bad at all.
+2:32 Wish it had: to access certain things, like making appointments. I don’t know if it’s not showing a doctor and I have to call and look for that. 
+2:50 “In general, it would be like I’m able to send a message to my primary care but for example if I have dental I can’t leave them a message I have to call on the phone. It would be nice to have, to alleviate the phone, because you have to go through the whole process of like connecting through the main lines and they connect you. I just want the capability to send them a direct message. I’m not asking for someone to answer the phone, but just the ability to send a message.”
+
+Use the app today for:
+My VA claim
+My health
+Appointments, put in my iphone calendar but don’t write down the locate so I reference the app to see what building number or what room number. That is really helpful.
+#### Downloading the testing apps
+Easy to download and enter.
+Login, no problems.
+Got an error message to update once in and when clicked update now it took her to the full version not the test flight. 
+Ignore the update.
+
+####  Find forms in the app
+Would go to ‘Benefits’
+Clicked on Benefits but I directed her back tot the homepage, scrolled down, directed her to click ‘Go to my forms’
+
+#### Re: Screen 1
+Had no comment
+
+#### Re: Screen 2
+Would choose ‘I want to provide context or details about a claim.’ OR ‘I want to submit new evidence in support of an existing claim’.
+Prompted user to select ‘What I want to do isn’t listed here.’
+
+#### Re: Form entry
+Misspelling of last name, caught and corrected quickly. 
+SSN error: tried to add an additional number, thought she did not put enough numbers into the SSN field.
+
+#### Re: leave form
+Asked about ‘finish this application later’
+Clicked that, wasn’t sure how to return to the app main page from here. 
+‘Maybe click Done I don’t, I don’t know.”
+
+12:42 “That was confusing, what type of, because of knowing which type of form. When you say statement in support of a claim, that part was confusing a little bit.”
+
+#### Re: Completing the form
+User dismissed the toast after a while to find ‘Continue form’, previously the toast blocked the entire section. She noticed it only after attempting to scroll.
+
+User did not experience difficulty entering to form fields.
+
+Provide your statement she entered “ The sky is blue.”
+
+User expanded each section to review data entered before entering full name for statement of truth. 
+
+#### Re: Submit the application
+Navigating back to the app, found the Done button without prompting this time.
+
+Labels
+16:01 “No, cause it’s similar to the online. Where you do, like on my computer, its very like the same thing and I’ve done it online before which is why it was very familiar to me.”
+
+Knows the form was submitted by going to ‘Benefits’ and then ‘Claims’, had to redirect her back to the home screen ‘Go to my forms’
+
+Knows the form was submitted because…
+16:51 “I would click on complete, but it says I don’t have any completed forms so its not complete.”
+
+Status: 
+17:05 “Well I see it’s in progress but, I guess it’s confusing to me, meaning, when it’s saying complete does that mean I completed the form or they completed seeing it. That is a little confusing to me because I just submitted it. You know what I mean.”
+17:25 “Instead of saying in progress it could say submitted or something. In progress is kind of vague. It could mean that I didn’t finish it but I did finish it, so that would be a little bit of confusion for me.”
+
+Expect to see later:
+17:52 “ I would expect to see submitted, or not in progress, something to say it was submitted. Then go to ‘Complete’ part and it is showing it as completed.”
+
+How did you find this process overall?
+21:46 “Good.”
+
+Any part that was frustrating or tiring?
+“No”
+
 
 ## P8
 
