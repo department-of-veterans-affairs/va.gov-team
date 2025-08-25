@@ -14,10 +14,7 @@ This rubric acts as a high-level decision tree for how urgently to respond to an
 2. **Is this a critical security incident?**<br/>
   Per the VA.gov incident response playbook, this means, "if at any point during your evaluation you determine that the system has been compromised by a third party, that there is a leak of personally identifiable information, or that the system is under attack." Such an incident warrants an immediate response, including informing our product owner (first) and information system owner. You should also escalate the issue to one or more of the mobile app team engineering leads.
   
-3. **Is the incident due to an outage or issue with an upstream dependency?**<br/>
-  An outage caused by one of our dependencies is still significant and you should still assess the impact, but isolating the cause as being because a dependency adjusts your response. Talk to the responsible team. If you determine the outage will last a significant period of time, follow the procedure to set a maintenance window on the upstream service, which will create user-visible warnings in the app about temporary loss of functionality. Make sure the team responsible for the upstream service is aware of the outage; if they are not, escalate the issue to the team responsible for the upstream service. If you need to escalate to another VA team, inform the mobile app product owner and CC them on all communications with other teams.
-  
-4. **What is the impact? Widespead, or only a few users? Impacting the entire app, or only one feature or subset of a feature?**<br/>
+3. **What is the impact? Widespead, or only a few users? Impacting the entire app, or only one feature or subset of a feature?**<br/>
   An issue affecting all users or a significant percentage of users – or affecting all parts of the app – warrants a more immediate response. In those cases, Immediately notify our product owner. A more isolated issue can be triaged and prioritized appropriately – somewhere between "fix it tomorrow" and "incorporate into our normal development cycle."
   
 ### Summary - When To Notify Product Owner
