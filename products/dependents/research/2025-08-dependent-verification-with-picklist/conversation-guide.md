@@ -127,7 +127,7 @@ As you're looking at the prototype, here's a scenario I'd like you to use:
 
 Okay, thanks for doing your best to keep that scenario in mind as you look at the prototype. Now, I'm going to transition us to looking at a prototype.
 
-[Send link to prototype 1]
+[Send link to prototype 1](https://www.figma.com/proto/AM5gVqcdLtWazrjTqwqykN/DV-Picklist-V2?page-id=82%3A4755&node-id=284-16217&viewport=73%2C332%2C0.11&t=w9RvfaoPZsspxi47-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=284%3A16217&show-proto-sidebar=1&hotspot-hints=0&hide-ui=1)
 
 - We'll be talking about specific actions in the prototype.
 - So looking at this first page, what's jumping out to you?
@@ -271,7 +271,7 @@ You can click the submit button.
 
 Okay, now we're going to change prototypes and use a different one. The scenario you're using will stay the same.
 
-[Send link to prototype 2]
+[Send link to prototype 2](https://www.figma.com/proto/AM5gVqcdLtWazrjTqwqykN/DV-Picklist-V2?page-id=82%3A4755&node-id=298-19323&viewport=73%2C332%2C0.11&t=w9RvfaoPZsspxi47-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=298%3A19323&show-proto-sidebar=1&hotspot-hints=0&hide-ui=1)
 
 - We'll be talking about specific actions in the prototype, like the last one.
 - Since this page is similar to the first page in the last prototype, you can go ahead and click the link in the box at the top that says, "Verify your VA disability benefits dependents"
