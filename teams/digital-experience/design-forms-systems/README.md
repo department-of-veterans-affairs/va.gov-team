@@ -4,32 +4,34 @@
 
 ### Basic Details
 
-- **Team Name:** Design System & Forms Library
+- **Team Name:** Design & Forms Systems
 - **Short Name:** design-forms-systems
 - **GitHub Team Name:** platform-design-system-team
 - **GitHub Team Labels:**
   - platform-design-system-team
+  - team-platform-design-system
   - forms-library
 - **GitHub Team Link:** <https://github.com/orgs/department-of-veterans-affairs/teams/platform-design-system-team>
-- **Slack Channel:** #platform-design-system, #veteran-facing-forms
+- **Slack Channel:** [#platform-design-system](https://dsva.slack.com/channels/platform-design-system)
 
 ### Organizational Affiliation
 
 - **VA Business Owner:** OCTO
 - **Portfolio:** Digital Experience
-- **Crew or Pod:** Veteran-Facing Platforms
+- **Crew or Pod:** Platform Services and Governance
 - **Contracting Organization:** Oddball, Wilcore, AdHoc
+- **Contract:** [Current contract](https://dvagov.sharepoint.com/sites/oitoctocontracts/Contracts/Forms/AllItems.aspx?id=%2Fsites%2Foitoctocontracts%2FContracts%2FOCTO%20%2D%20Digital%20Experience%20Contracts%2FVA%2Egov%20Product%20Teams%20%2D%20Design%20System%20and%20Forms%2FFY25%20%2D%20Contract%2036C10B25D0007%20Task%20Order%2036C10B25N00070006&newTargetListUrl=%2Fsites%2Foitoctocontracts%2FContracts&viewpath=%2Fsites%2Foitoctocontracts%2FContracts%2FForms%2FAllItems%2Easpx)
 
 ### Team Roster
 
 Directory system will parse this section to display team member contact information
 
-#### Product Owner
+#### OCTO-DE Leads
 
-- **Name:** Matthew Dingee
-- **GitHub:** @humancompanion-usds
+- **Name:** Matt Dingee
+- **GitHub:** [@humancompanion-usds](https://github.com/humancompanion-usds)
 - **Email:** <matthew.dingee@va.gov>
-- **Role:** Product Owner
+- **Role:** OCTO-DE Lead
 
 #### Program Manager
 
@@ -40,8 +42,8 @@ Directory system will parse this section to display team member contact informat
 
 #### Additional Team Members
 
-- Product Manager Lead: Tricia Baker
-- Product Manager: Carol Wong
+- Product Manager Lead: Tricia Baker (Team Representative)
+- Product Manager: Carol Wong (Team Representative)
 - Engineering Lead: Nick Sprinkle
 - UX Designer: Barb Denney
 - UX Designer: Dan Brady
@@ -62,11 +64,11 @@ To empower teams across VA to build consistent, accessible, and user-centered di
 
 ## Products We Own
 
-> Directory system will cross-reference these with product details.yml files containing `team: "[team-slug-name]"`
+_Directory system will cross-reference these with product details.yml files containing `team: "[team-slug-name]"`. Copy the template at https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/product-details-template.yml into your product directories then rename and update appropriately._
 
-- [Design System](../../../products/platform/design-system/design-system-details.yml)
-- [Forms System](../../../products/platform/forms-system/forms-system-details.yml)
-
+- **[Design System](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/design-system/design-system-details.yml)**: Design System for VA.gov and the VA Health and Benefits mobile application.
+- **[Forms System](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/platform/forms-system/forms-system-details.yml)**: Forms System for VA.gov forms-based applications.
+  
 ### Product highlights
 
 - [Design System](https://github.com/department-of-veterans-affairs/vets-design-system-documentation)

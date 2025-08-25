@@ -3,6 +3,9 @@
 
 # Accessibility Digital Experience (ADE) Team (pronounced /ād/)
 
+> **📋 Instructions:** See [../team-readme-instructions.md](../team-readme-instructions.md) for detailed guidance on using this template. Remove this instruction note when completing your README.
+
+
 _Accessibility Digital Experience aka Accessibility DE or for short, ADE (pronounced /ād/), is OCTO's new accessibility team under SPRUCE._ [Read more about us, in our Feb. 6, 2025 announcement.](https://dsva.slack.com/canvas/C8E985R32?focus_section_id=temp:C:SDL8f9032f0740c4defaa0616679)
 
 ## Our goal
@@ -119,3 +122,61 @@ For research help specifically, submit a [research intake ticket](https://github
 
 ### Attend ADE office hours
 You can also reach us by attending our weekly office hours on Wednesdays at 3:00 PM Eastern on Zoom. [Sign up for a time slot on Calendly.](https://calendly.com/platform-office-hours/accessibility-office-hours)
+
+## Team Information
+
+### Basic Details
+
+- **Team Name:** ADE
+- **Short Name:** ade _(Used for directory URLs and should ideally match your GitHub team name below)_
+- **GitHub Team Name:** [github-team-name] _(Exact name of GitHub team which is also found in your GitHub team link below)_
+- **GitHub Team Labels:**
+  - [github-label-1]
+  - [github-label-2]
+- **GitHub Team Link:** [https://github.com/orgs/department-of-veterans-affairs/teams/github-team-name]
+- **Slack Channel:** [#accessibility-help](https://dsva.slack.com/archives/C8E985R32)
+
+### Organizational Affiliation
+
+- **VA Business Owner:** OCTO
+- **Portfolio:** Digital Experience
+- **Crew or Pod:** Platform Services and Governance
+- **Contracting Organization:**
+- **Contract:** [Current contract](https://dvagov.sharepoint.com/sites/oitoctocontracts/Contracts/Forms/AllItems.aspx) _Update to point to your specific contract file._
+
+### Team Roster
+
+#### OCTO-DE Leads
+
+- **Name:** Martha Wilkes
+- **GitHub:** [@artsymartha68](https://github.com/artsymartha68)
+- **Email:** Martha.Wilkes@va.gov
+- **Role:** OCTO-DE Lead
+
+## Products We Own
+
+_Directory system will cross-reference these with product details.yml files containing `team: "[team-slug-name]"`. Copy the template at https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/product-details-template.yml into your product directories then rename and update appropriately._
+
+- **[Product 1 Entry](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/[product-name]/[product-name]-details.yml):** Link to product in /products directory and provide a brief description.
+- **[Product 2 Entry](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/[product-name]/[product-name]-details.yml):** Link to product in /products directory and provide a brief description.
+
+Add additional products as needed.
+
+### Product highlights
+
+> Add any team achievements you might want to surface. Product link should link to your product on va.gov or to the product directory in /products.
+
+- [Product link] | OKRs 1.1, ..., ... - Description
+
+## Aligned to 2025 OCTO OKRs
+
+This team actively contributes toward the following 2025 OCTO OKRs:
+
+> List the appropriate OCTO OKRs as follows:
+
+- **Objective 1: VA's digital experiences are the easiest and most efficient way to access VA health care and benefits.**
+  - OKR 1.1: Improve satisfaction with our web and mobile products by 5 points.
+
+## Key Documents
+
+- [Team Charter](team-charter.md)
