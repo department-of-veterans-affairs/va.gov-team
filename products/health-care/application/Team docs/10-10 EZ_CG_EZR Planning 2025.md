@@ -3,6 +3,74 @@
 
 
 ---
+## 📆 Sprint 2 (Aug 27 - Sept 9)
+
+### Team initiative (not form-specific)
+#### Obj: Knowledge sharing
+- Over the next several sprints, the team will need to share knowledge between our 10-10 forms, and then with the IVC team on their forms.
+     - Some of our teammates have started to do this, and we will continue throughout the contract to ensure a fairly even level of knowledge and comfort across all forms.
+
+##
+### 10-10EZ
+
+#### Obj: EZ [Improvements/BUGS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
+- **SPRINT GOAL** [#114338](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114338) - [BE] Investigate in-progress emails being sent when application has been submitted
+- **SPRINT GOAL** [#117230](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117230) - [Design, FE] Update destructive modal content
+
+#### Obj: [Insurance page updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90159)
+- **SPRINT GOAL** [#94500](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94500) - [QA] Follow-up to complete testing on L&L pattern
+
+#### Obj: EZ [PDF Versioning](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
+- **Stretch** [#102906](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102906) - [BE] Exploration on PDF versioning update trigger
+
+
+
+## 
+### 10-10CG
+
+#### Obj: N/A
+- N/A
+
+## 
+### 10-10EZR
+#### Obj: [EC/NOK](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75046)
+- **SPRINT GOAL** [#108518](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108518) - [Team] Phased launch
+
+
+#### Obj: [Household section V2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98353)
+- **Timeline**
+     - QA remaining sections (Sprint 2)
+     - Review with team to determine release cadence to Prod (Sprint 3)
+- **SPRINT GOAL** [#105901](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105901) - [QA] Test Spouse section
+- **SPRINT GOAL** [#112998](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112998) - [FE] Prefill Spouse information (Pending QA before merging)
+- **SPRINT GOAL** [#68669](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68669) - [Design, FE] Content update on Insurance page
+
+
+#### Obj: [Print/Save PDF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109746)
+- **Timeline**
+     - QA PDF generation, including overflow page (Sprint 2)
+     - Review with the team to confirm release to Prod (Sprint 3)
+- **SPRINT GOAL** [#109905](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109905) - [QA] PDF generation testing
+
+#### Obj: Confirmation flow
+- **SPRINT GOAL** Next Steps???
+
+#### Obj: [Improvements](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109435)
+- **SPRINT GOAL** [#117590](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117590) - [Design, FE] Update SIP message on Intro screen
+- **Stretch** [#116521](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116521) - [Research] Dental info content research
+
+
+##
+### Team PTO
+- Labor Day holiday: 9/1
+- Matt: Half-day 8/29
+- Mitch: 9/2
+- Heather: 9/8
+
+
+
+---
+
 ## 📆 Sprint 1 (Aug 13 - Aug 26)
 
 ### Team initiative (not form-specific)
