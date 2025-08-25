@@ -15,15 +15,15 @@ Included are links to more specific transition hubs where you can find direct li
 ---
 
 ## Table of Contents
-- [Product context, portfolio, and artifacts](#product-context-portfolio-and-artifacts)  
+- [Product context, portfolio, and artifacts](#product-context-portfolio-and-artifacts)
+- [Analytics Dashboards](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/claim-appeal-status/Benefits%20Management%20Tools%20II%20Transition%20Hub%208.31.2025.md#analytics-dashboards)
+- [Content Center and Medallia Data Analysis - Document Upload Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/claim-appeal-status/Benefits%20Management%20Tools%20II%20Transition%20Hub%208.31.2025.md#manual-process-for-analyzing-contact-centermedallia-data)
 - [Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/Benefits%20Management%20Tools%20II%20Transition%20Hub%208.31.2025.md#roadmap)
 - [Features and initiatives we worked on](#features-and-initiatives-we-worked-on)  
 - [Enablement Team Contacts](#enablement-team-contacts)
 - [Stakeholders and Supported Initiatives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/Benefits%20Management%20Tools%20II%20Transition%20Hub%208.31.2025.md#stakeholders-and-supported-initiatives)
-- [Content Center and Medallia Data Analysis - Document Upload Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/claim-appeal-status/Benefits%20Management%20Tools%20II%20Transition%20Hub%208.31.2025.md#manual-process-for-analyzing-contact-centermedallia-data)
-- [Analytics Dashboards](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/claim-appeal-status/Benefits%20Management%20Tools%20II%20Transition%20Hub%208.31.2025.md#analytics-dashboards)
-- [Call center data analysis (SharePoint)](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/_layouts/15/Doc.aspx?sourcedoc=%7B3B[%E2%80%A6].xlsx&action=default&mobileredirect=true&DefaultItemOpen=1)
-
+- [BMT2 Initiatives - File links](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/Benefits%20Management%20Tools%20II%20Transition%20Hub%208.31.2025.md#bmt2-initiatives--file-links)
+- [Additional Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/Benefits%20Management%20Tools%20II%20Transition%20Hub%208.31.2025.md#-additional-documentation)
 
 ---
 
