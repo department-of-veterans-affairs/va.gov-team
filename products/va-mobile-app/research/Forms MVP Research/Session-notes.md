@@ -822,7 +822,101 @@ Suggested color coding statuses - “yellow to be in a holding stage, green is w
 
 ### per researcher:
 
-Pending review of recording
+Android User
+
+VA form online yes filled it out. It went good, either one of our forms or the form the doctor made.
+
+VA has so many different form numbers, I don’t even remember which one it is. But it was fairly easy to do.
+
+Uses the app today, yes. 
+
+2:01 “I use it primarily for secure messages, to order my prescriptions, I think that’s all I can do is the secure messaging and to prescriptions. I could do at one point, VA letters and stuff if I need to. I never have used that yet.”
+
+Experience with mobile app so far:  “So far so good, I haven’t had any issues with it.”
+
+No difficulty sharing screen on zoom
+
+Already had email to download latest build. Had to uninstall the VA app, and install the testing version.
+
+It took several minutes for the app to install on his phone. He mentioned not having the best internet service, he had to drive outside of his work environment in get better service on his phone.
+
+User had been able to set up the developer mode settings on his phone prior to joining the call with us live.
+
+#### Re: Find forms location
+Expect it to be under ‘Claims’
+Or scrolled down and then suggested ‘Go to my forms’ as another option
+
+#### Re: Screen 1 
+Read through this silently and quickly, did not mention any thoughts or questions.
+
+#### Re: Screen 2
+What would you like to do?
+Asked what the background of this task. Important to distinguish between new or existing claim. 
+Read through the options multiple times, and suggested
+“What I want to do isn’t listed here.”
+
+#### Re: Form field entry
+Phone seemed to have delay during entry like freezing (may be due to low connectivity)
+SSN error, scrolled up and down, had to enter dashes to confirm # format as entered into the SSN. 
+
+#### Re: Leaving form
+Selected ‘Finish this application later’ then saw that it was saved.
+To navigate back to the app, user selected ‘Continue form’ instead of ‘Done’, had to be guided to select ‘Done’ to leave web view and return to the app.
+
+Part hard to navigate or understand?
+16:56 “ Probably finding out where that, the done button is to go back out. That may be a little hard for some to find out, if you hadn’t told me I would have had to look for it. May be a little harder for maybe older vets, or some that are technology challenged.”
+
+Found ‘Continue form’ on the screen without any difficulty to return to the form.
+
+User checked the “I live on a Unites States military base outside of the U.S.” at first instead of selecting United States from Country field. Quickly caught that, removed, and corrected.
+
+Service froze during street address, experienced delay in entry due to service
+
+User seemed to move through fields with ease.
+
+In the ‘Your statement’ field user entered ‘I make this statement of fact.’, had a typo but quickly caught it, backed up and corrected.
+
+#### Review page
+Did open/expand each section to review entered details. 
+Submitted w/ ease.
+
+Any issues using your device on this form?
+22:10 “No, it’s pretty straightforward.”
+
+Hard to navigate or understand?
+“No”
+
+Any labels confusing?
+22:29 “No. I am sad that it says it’ll take up to 30 days for them to receive the form. I know its the military, I guess 30 days is pretty good for them instead of 60, 90 days or more.”
+
+#### Leaving form returning to the app
+User scrolled down on the page and back up, then found the ‘Done’ button this time to return to the app.
+
+Knows the form was submitted because it says it was Submitted on date and under active.
+
+Status ‘in progress’ means they haven’t received it, it’s still in progress.
+
+Expect to see later:
+“Just to log in and see it. Once it disappears it would probably go to the completed tab.”
+24:03 “ Another thing you could do for some people, I know who are OCD, you could color code them like yellow could be where its in that holding stage or submitted stage. Green is where its completed and red where its not done. Just have three colors. I have some veterans that file their systems that way.”
+
+Took the Sus survey, did experience delays due to service for loading/selection.
+
+#### Uninstall/Reinstall apps
+User had difficulty finding the testing apps in the Play Store to uninstall at first, had to filter to search.
+
+User did not have or need App Tester
+
+User did not have to set up Developer options on his phone settings either. 
+User could not find systems under settings on his phone, checked in ‘About’, he was good and did not need to change the developer options.
+
+#### Overall experience with task
+Found this process overall?
+30:43 “Fairly easy, I like how they are starting to update the app more and make a lot of needed changes. Make it more simple for a lot of Veterans, especially the older Veterans.”
+
+Especially frustrating or mentally tiring?
+No
+
 
 ## P7
 
