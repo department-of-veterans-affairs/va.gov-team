@@ -13,7 +13,11 @@ flowchart TD
       C["Service Account Token Request<br/>(Sign-In Service)"]
       D["/v0/event_bus_gateway/send_email<br/>(API Endpoint)"]
       E[Internal Processing]
-      F["VA Notify (Email Delivery)"]
+      I["VANotifyEmailStatusCallback"]
+    end
+
+    subgraph "VA-Notify (Email Delivery)"
+      F["send_email"]
     end
 
     H(((User's Email))):::external
@@ -28,7 +32,7 @@ flowchart TD
     B -- Logging --> G
     D -- Logging --> G
     F -- Sends to User --> H
-    F -- Sends callback --> D
+    F -- Sends callback --> I
 
     classDef external color:#999,fill:#004,stroke:#008,font-style:italic;
     classDef note color:#000,fill:#ff88,stroke:#fff8,stroke-width:5px,font-size:0.9rem;
