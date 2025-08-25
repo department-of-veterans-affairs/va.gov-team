@@ -21,9 +21,7 @@
 
 
 ## Research Goals
-Applicants seeking CHAMPVA benefits must complete and submit VA Form 10-10d for benefits enrollment and VA Form 10-7959c for Other Health Insurance (OHI) certification separately. To enhance user experience and streamline operations, we have proposed merging these two forms into a single, cohesive digital application process.​
-
-Applicants are required to submit VA Form 10-10d and VA Form 10-7959c separately, leading to potential redundancy and increased processing times. This dual-submission process can be burdensome for users and may delay the overall application process. Our goal is to merge the submission processes to reduce the load on both the time it takes a veteran to submit, and the time it takes the approval team to process and approve applications.
+Applicants seeking CHAMPVA benefits are required to submit VA Form 10-10d and VA Form 10-7959c separately, leading to potential redundancy and increased processing times. This dual-submission process can be burdensome for users and may delay the overall application process. To enhance user experience and streamline operations, we have proposed merging these two forms into a single, cohesive digital application process to reduce both the time it takes a Veteran or applicant to submit, and the time it takes the CHAMPVA approval team to process and approve applications. 
 
 1. Understand whether the placement of the 10-7959c within the 10-10d application for CHAMPVA benefits works better than the standalone forms, as it relates to form submission and time on task.
 
@@ -62,7 +60,7 @@ Each participant saw the introduction page to the 10-10d/10-7959c forms, complet
 
 1. When filling out the merged 10-10d/10-7959c, users will have faster completion times when compared to cumulative completion times from the standalone 10-10d and 10-7959c.
 
-    - **LIKELY TRUE**: 16 of 18 users were able to complete the entire merged form in a single sitting (the 2 who did not submit were due to technical difficulties with the Staging environment or their devices) compared to # number of visits to the 1010D and # to OHI to submit the standalone forms in production.
+    - **LIKELY TRUE**: 16 of 18 users were able to complete the entire merged form in a single sitting (the 2 who did not submit were due to technical difficulties with the Staging environment or their devices) compared to multiple visits to the 10-10d and OHI to submit the standalone forms in production.
         - The team will need to monitor the 10-10d/10-7959c form in production to compare against standalone form times and the number of sessions required to finish the merged form vs. standalone forms. See [_Next Steps_](#next-steps).
 
 2. Users will be able to easily orient themselves around the transition between the 10-10d and 10-7959c.
@@ -78,7 +76,7 @@ Each participant saw the introduction page to the 10-10d/10-7959c forms, complet
     - **MAYBE TRUE**: 15 of 18 participants said that the content on the intro page made them feel "informed" or "very informed" about the 10-10d/10-7959c application, and 12 of 18 participants reiterated at the end of the test session that the amount of information they saw throughout the application was "just right."
         - We believe some minor tweaks to the content to address observed usability issues, alongside self-reported ease of comprehension, will make file uploads and supporting docs even easier for users. See _Recommendations_ and [_Next Steps_](#next-steps).
 
-5. Veterans will understand that there is separate upload sections for applicant information and OHI, and avoid duplicate uploads/entries. 
+5. Veterans will understand that there are separate upload sections for applicant information and OHI, and avoid duplicate uploads/entries. 
 
     - **DEFINITELY TRUE**: 18 of 18 participants understood what supporting documentation was being asked for in the applicant and OHI sections.
         - Only 2 participants had issues with uploading files in the form, due to Staging crashing, and due to an issue with the participant's iPad device.
@@ -399,7 +397,7 @@ On submission, participants expect to see:
 **9. Streamline the Signer/Sponsor/Applicant repetitive screens:** Consider hiding name and contact information fields if the user has already completed that information in the Signer section. 
 
 
-**10. Ease the burden involved with obtaining a school certification letter:** Many other VA benefits (Education benefits) require proof of school enrollment but from the perspective of the participant it seems that these requirements don’t align CHAMPVA’s school certification requirements and may be more difficult to obtain. It is recommended to conduct more research with the CHAMPVA partners to gain a better understanding of their school certification process. To help with user burden and prevent users from having to stop the form until they receive the school certification, ask for similar requirements and documentation as the Education benefits program does.
+**10. Ease the burden involved with obtaining a school certification letter:** Many other VA benefits (Education benefits) require proof of school enrollment but from the perspective of the participant it seems that these requirements don’t align with CHAMPVA’s school certification requirements and may be more difficult to obtain. We recommend conducting more research with the CHAMPVA partners to gain a better understanding of their school certification process. To help with user burden and prevent users from having to stop the form until they receive the school certification, ask for similar requirements and documentation as the Education benefits program does.
 
 
 **11. Update the confirmation screen to match users' mental models:** Allow users to print or save a PDF copy of the form for their records using [this pattern](https://design.va.gov/patterns/help-users-to/keep-a-record-of-submitted-information) from the VA Design system. Collaborate with CHAMPVA partners and other stakeholders to implement a confirmation numbering system to use on the form confirmation page and confirmation email. Include next steps and helpful resources on the confirmation page so that users can answer questions or solve issues if they arise before their application has been processed. In addition, add information to the confirmation page or confirmation email about what to do if a user needs to change or update their information and supporting documents after they submit their application, but before it has been processed, to help build confidence and ease Call Center inquiries. 
