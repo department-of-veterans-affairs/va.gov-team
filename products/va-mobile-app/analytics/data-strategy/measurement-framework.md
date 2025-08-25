@@ -127,7 +127,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |--------------------|-------------|
 | **User goal**      | *"I want to securely message my provider."* |
 | **What should we measure?** | Ease of secure messaging + timely provider response <br> *“I understood what I needed to do next to manage my whole health.”* |
-| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Notification open/click-through rate* <br>- % conversion from notification to viewed message* <br>- Messages sent* <br>- Latency* <br>- % of errors within X period of time* |
+| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Notification open/click-through rate* <br>- % conversion from notification to viewed message* <br>- Messages sent <br>- Latency* <br>- % of errors within X period of time* |
 | **How these metrics can inform decision making** | These metrics can highlight where to improve notifications, reduce technical friction, and optimize reliability so users can confidently connect with their healthcare providers through the app. |
 | **Unhelpful metrics** | - Viewer counts – measures exposure, not completion. <br> - Average daily viewers – volume metric, doesn’t indicate success or usability. <br> - Views per user – repeated views could signal confusion, not value. <br> - Times viewed per user – same issue as above; no task completion context. |
 
