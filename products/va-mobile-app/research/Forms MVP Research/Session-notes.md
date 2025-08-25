@@ -1152,6 +1152,120 @@ Thought the process of submitting the form was easy enough
 
 Would’ve been annoyed if she had had to type a lot for the statement section
 
+### per researcher
+
+iPhone
+Default browser: Safari
+Yes has filled out a VA form online before.
+Most recent experience. 
+1:33 “Actually I just completed VR&E form online. It was ok, it was pretty easy. It was a lot shorter than I though. Pretty standard with all the forms. Is that considered a form? I don’t even know.”
+
+VAHB app user yes
+Uses it for
+Medication refills
+Experience so far:
+2:18 “I wish if I had a refill remaining I could click in it and start a message to my provider. Instead I have to go back to find my provider and create  message to remember which medication it is. I have a lot of medications so its hard to remember which one. I do refill meds multiple times every few months. It just gets tiring, I don’t want to do it, and then I forget. I guess its just decent for what it is.”
+
+Sign in no problem
+User scrolled down on screen once landing on the homescreen.
+
+Expect to find forms like these
+“Is it already a thing I started? If so, I would click on claims. If its a brand new one I would think I would start on claims.”
+
+Advised to click on ‘Go to my forms’ > ‘Start statement’
+Github page received is pretty tiny, had to zoom in to read.
+
+#### Re: Screen 1
+6:43 “Right now, this confuses me. That it’s for a new claim I haven’t submitted. Typically if you select to submit a statement its because you are giving information to the examiner to support your claim. Doing this is like being proactive. I don’t really know what I’m looking at. That’s just me.”
+
+I’ve been working on an active claim I have, and I filed it on May. 
+
+8:00 “well now I kind of get it, I’ve already started the claim. Now its telling me I’m going to need this to submit a statement. Too many pages to go to.”
+
+If I already started that claim I would rather it tell me what that claim is here. I have two claims for disability, it would be easier to know which.
+
+8:47 “Ok that kind of sucks. If you want to submit more than one statement for the same claim you’ll need to use a new form. That’s just me.”
+
+9:20 “I just think that’s a lot of work because its the mobile app and if my statement has to be long I don’t want to type so much. It’s easier on my computer than it would be on the app.”
+
+#### Re: Screen 2
+User would select option ‘I want to provide context or details about a claim.’
+
+
+Prompted user to select ‘What I want to do isn’t listed here.”
+
+#### Re: Form entry
+Use typed fast on her phone.
+SSN: it was hard to tell how many numbers they had entered. When received the error tried to count numbers entered.
+
+11:22 “Because i’m already signed into the app I wish that it would populate everything like it does online. Like when I filled out the VR&E it said something like we’ve prefilled all of your info. I’m assuming this statement is only coming from me, what is annoying is that I have to enter everything and its so different from the website.”
+
+Issue was one-page I couldn’t really read after it said start my statement screen 1.
+
+#### Re: Leaving form
+Selected finish my application later link.
+Needed prompted to select done from the top corner. Scrolled and couldn’t find out how to leave initially.
+
+“To pull up form, I didn’t even read the continue form I was trying to click on statement in support. “
+
+#### Completing form
+Had a typo spelling address court, caught and corrected. 
+
+Mistyped name while typing in address
+
+“I don’t like that home phone number. It makes me what to read the whole thing and correct it. It makes me what to put the parentheses in there and correct it. It’s like ok did I type enough? The social automatically put the dashes after, but this one is like hold on I got to check on that again.
+
+15:20 “Especially if its like a statement. I don’t want to get anything wrong. Or if they call me about it. I don’t want to miss it.”
+
+In the provide your statement section user entered ‘It is very … My claim will include records from private doctors since I only got the VA health benefits in 2022 even if I was discharged in 2006.
+Experienced typos and started over. 
+Engaged auto correct to continue typing.
+User had to correct a lot of typos.
+
+Review page.
+16:55 “Oh I can’t see it, I would expect I could click on those dots. Just to make sure again, I entered the right number because on a claim I dont’ want any reason it could be delayed. Its like ok I got to start the review process over for months because I entered the social wrong or whatever.”
+
+It’s formatted on the review page which is cool, I don’t have to read numbers here again. 
+
+I forget if there is a limit in the statement or character count. What if its a really really long one like to establish nexis or something can I just upload from my phone and then view it here? I like to write a lot. 
+
+18:16 “The statements really matter, whether its like here I’m submitting new medical records or hey heres a nexis letter or you know just a file. Otherwise I have to go to my computer and submit it which defeats the mobile app process. I do everything on my phone, for the most part.”
+
+Submission page.
+19:24 “This box is a little confusing. Yeah its submitted but its started on the 14th and then it says its in progress. Because I finished it I would hope and assume that it goes all the way not in the checklist again. Since there’s a confirmation number it would have been checked in. The second sentence tells me you gotta keep checking the app or get an email that it went through which would be so inefficient.”
+
+User did scroll down on confirmation page to review steps in what to expect.
+
+What if I had a really long statement and I want to upload this record because I can write a statement please see attached doctors whatever or my doctor wrote this letter and I just copy and paste but I can’t upload another one. I know I selected submit a statement to give more info or context but maybe I have to go to another form or selection to upload a file. It’s better if its all in one place that has to do with providing more context or details.
+
+This is confusing to me the green box. The first part doesn’t tell me its complete but I know its completed. 
+
+Found some more info lower in the page after reading “what to expect”
+
+I expect the form is fully submitted but the next step is someone reviewing it or it landing in the hands of a reviewer. 
+
+I don’t have the best memory…
+
+It’s pretty straight forward like the website. 
+
+#### Re:Leaving to return to the app
+User scrolled up and down the page to find and said “I don’t know what where to do that. I don’t know if i click the Go back to VA.gov homepage it’ll take me back to Safari homepage which I don’t know that I want to do.
+Was prompted to select done at top.
+
+“I would have missed that, I would have closed the app and go back in.”
+
+Submitted: “To me this is a draft because of what it says at the top. To me, this is still being drafted because it says in progress and its in active. But the line that says submitted on August 14th actually tells me that is submitted that is the only way. I would think it would be in complete not active. 
+
+Kind of like VA messages you close out of it but you go back to your drafts and finish it. 
+
+To me, I didn’t finish it if it says in progress.
+
+Expect to see later:
+25:47 “I would expect that the submitted one is under complete. That this isn’t showing here. So I would not see it in Active. I would expect not to see it in Active, I’d expect for it to be in complete and the status could say it’s in progress meaning they’re working on it they have it.”
+
+31:22 “I think if I had to type a lot in the statement that I entered I would have gotten very annoyed. Just on the app it might take long.”
+
+
 ## P9
 
 ### per designer:
