@@ -201,6 +201,10 @@ Response options: yes or no. (Answering yes would qualify the participant.)
 
 - Response option: text box.
 
+11. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.
+
+- Response options: yes or no. (Answering yes would qualify the participant.)
+
 ## Timeline 🗓️
 > [!NOTE]
 > **Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.** 
