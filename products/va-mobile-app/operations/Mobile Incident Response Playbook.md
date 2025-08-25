@@ -9,7 +9,7 @@ This rubric acts as a high-level decision tree for how urgently to respond to an
 0. **Use your best judgement. Don't be afraid to reach out for help.**
 
 1. **Is the issue unique to the mobile app, or is it affecting VA.gov as well?**<br/>
-  Check the #oncall and #vfs-platform-support channels. If VSP staff are aware of and addressing the incident you can stand by and make yourself available for escalation of any mobile-specific questions. You should keep tabs on the overall response and make sure it is addressed in a reasonable time frame.
+  Check the #oncall and #vfs-platform-support channels. If OCTO or Platform staff are aware of and addressing the incident you can stand by and make yourself available for escalation of any mobile-specific questions. You should keep tabs on the overall response and make sure it is addressed in a reasonable time frame.
 
 2. **Is this a critical security incident?**<br/>
   Per the VA.gov incident response playbook, this means, "if at any point during your evaluation you determine that the system has been compromised by a third party, that there is a leak of personally identifiable information, or that the system is under attack." Such an incident warrants an immediate response, including informing our product owner (first) and information system owner. You should also escalate the issue to one or more of the mobile app team engineering leads.
@@ -28,11 +28,11 @@ Issues will come to our attention through a variety of channels:
 - Automated alerts communicated via PagerDuty or Slack
 - Manual observation of problematic events in Sentry/Crashlytics/Grafana
 - App store reviews
-- Escalation from VSP on call staff
+- Escalation from Web Platform on call staff
 - Escalation from VA contact centers (help desks)
 - Escalation from other VA teams
 
-Our team does not have a standing 24/7 on-call rotation. We may receive escalations from VSP's on-call staff, and per their procedures we may be added to PagerDuty as an escalation team.  
+Our team does not have a standing 24/7 on-call rotation. We may receive escalations from Web Platform's on-call staff, and per their procedures we may be added to PagerDuty as an escalation team.  
 
 At critical junctures, such as initial launch and after major releases, we may institute "business hours on-call", where we assign rotating responsibility for monitoring our observability tools and triaging issues during the working day. 
 
@@ -59,7 +59,7 @@ The process of isolating the cause of an incident and resolving it can't be pres
 - Go wide, then go deep. First verify the overall state of the system. Is it a particular API endpoint that is unavailable, or the whole API? Isolate what parts of the system are actually affected.
 - Rule out external factors. Given the nature of vets-api as a facade over other VA systems, check whether any relevant upstream dependencies are unavailable or experiencing elevated error rates. In this case the likely response process will be to notify the team responsible for the upstream system, and if possible, set a maintenance window in PagerDuty to trigger the downtime notification mechanism. 
   - Don't forget about non-API dependencies such as the VA network gateways that sit in front of our backend services. If these are experiencing an issue it's almost certainly also affecting VA.gov and possibly the VA as a whole. 
-- Look for what changed. If a behavior began suddenly, determine if anything changed recently that can account for it - did a vets-api deployment occur? Did the VSP operations team change some infrastructure?
+- Look for what changed. If a behavior began suddenly, determine if anything changed recently that can account for it - did a vets-api deployment occur? Did the Web Platform operations team change some infrastructure?
 - Look inward. Is there something we did that caused the issue? 
 
 ## After the Incident
