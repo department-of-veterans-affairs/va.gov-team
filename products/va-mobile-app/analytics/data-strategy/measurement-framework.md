@@ -205,9 +205,9 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |--------------------|-------------|
 | **User goal**      | *"I want to understand my payment history."* |
 | **What should we measure?** | Accurate, easy to understand payment information <br> *“I can clearly understand my VA payment history.”* |
-| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Bank info add/update events<br>- Pathways to Payment history and Direct Deposit (home vs toolbar)<br>- #feature viewers/# of users<br>- Latency<br>- % of errors within X period of time |
+| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Pathways to Payment history (home vs toolbar)<br>- #feature viewers/# of users<br>- Latency<br>- % of errors within X period of time <br> - Clicks links or VA phone number for help |
 | **How these metrics can inform decision making** | Surface opportunities to improve navigation and reliability, and ensure payment history remains accessible and trustworthy. |
-| **Unhelpful metrics** |  |
+| **Unhelpful metrics** | Current metrics focus on raw volume and repeat visits (e.g. viewer counts, average daily viewers, views per user, times viewed per user, viewers month-to-month), which don’t explain whether Veterans could successfully access or understand their payment history. |
 
 </details>
 
