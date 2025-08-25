@@ -205,7 +205,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |--------------------|-------------|
 | **User goal**      | *"I want to understand my payment history."* |
 | **What should we measure?** | Accurate, easy to understand payment information <br> *“I can clearly understand my VA payment history.”* |
-| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Pathways to Payment history (home vs toolbar)<br>- #feature viewers/# of users<br>- Latency<br>- % of errors within X period of time <br> - Clicks links or VA phone number for help |
+| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Pathways to Payment history (home vs toolbar)* <br>- #feature viewers/# of users<br>- Latency* <br>- % of errors within X period of time* <br> - Clicks links or VA phone number for help* |
 | **How these metrics can inform decision making** | Surface opportunities to improve navigation and reliability, and ensure payment history remains accessible and trustworthy. |
 | **Unhelpful metrics** | Current metrics focus on raw volume and repeat visits (e.g. viewer counts, average daily viewers, views per user, times viewed per user, viewers month-to-month), which don’t explain whether Veterans could successfully access or understand their payment history. |
 
@@ -218,9 +218,9 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |--------------------|-------------|
 | **User goal**      | *"I want to update my direct deposit information."* |
 | **What should we measure?** | Easy to update banking information <br> *“I can easily update my direct deposit information.”* |
-| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Bank info add/update events<br>- Pathways to Direct Deposit (home vs toolbar)<br>- #feature viewers/# of users<br>- Latency<br>- % of errors within X period of time |
+| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Bank info add/update events* <br>- Pathways to Direct Deposit (home vs toolbar)* <br>- #feature viewers/# of users<br>- Latency* <br>- % of errors within X period of time* <br> - Clicks VA phone number for help* |
 | **How these metrics can inform decision making** | Surface opportunities to improve navigation, reliability, and ease of updating direct deposit details, while ensuring bank account information remains secure. |
-| **Unhelpful metrics** |  |
+| **Unhelpful metrics** | Current metrics focus on volume (e.g. viewer counts, average daily viewers, views per user, times viewed per user, viewers month-to-month), which don’t explain whether Veterans could successfully update direct deposit information. |
 
 </details>
 
@@ -231,9 +231,9 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |--------------------|-------------|
 | **User goal**      | *"I want to manage my personal information related to my VA health benefits."* |
 | **What should we measure?** | Accurate personal data <br> *“I can easily review and manage my personal information in my VA profile.”* |
-| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Notification opt-in rates<br>- Notification open rates<br>- CTR<br>- # feature viewers/# of users<br>- Latency<br>- % of errors within X period of time|
+| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Notification opt-in rates*<br>- Notification open rates*<br>- CTR* <br>- # feature viewers/# of users<br> - Latency*<br>- % of errors within X period of time*|
 | **How these metrics can inform decision making** | Highlight how well users can manage and personalize their app experience through profile and notification settings, guiding decisions on improving usability and reliability. |
-| **Unhelpful metrics** |  |
+| **Unhelpful metrics** | Current metrics focus on volume (e.g. viewer counts, average daily viewers, views per user, times viewed per user, viewers month-to-month), which don’t explain whether Veterans could successfully update profile information. |
 
 </details>
 
@@ -244,9 +244,9 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |--------------------|-------------|
 | **User goal**      | *"I'm in crisis and need urgent support."* |
 | **What should we measure?** | Clicks to Veteran Crisis Line <br> *“I received timely crisis support via the app.”* |
-| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Clicks on red CTA<br>- Exits to Veterancrisisline.net<br>- # feature viewers/# of users<br>- Latency<br>- % of errors within X period of time |
+| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Clicks on red CTA* <br>- Exits to Veterancrisisline.net*<br>- # feature viewers/# of users*<br>- Latency* <br>- % of errors within X period of time* |
 | **How these metrics can inform decision making** | Indicate how effectively Veterans can access urgent crisis support when needed, and ensure the visibility, reliability, and seamless handoff to external crisis resources.  |
-| **Unhelpful metrics** | |
+| **Unhelpful metrics** |  |
 
 </details>
 
