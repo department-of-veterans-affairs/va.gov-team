@@ -2,13 +2,17 @@
 
 **Author:** Lainey Trahan
 **Date:** July 22, 2025  
-**Initiative:** Replace Production Test Accounts (PTAs) that rely on MHV credentials with a secure alternative using verified modern credentials (Login.gov or ID.me).
+**Initiative:** Replace Production Test Accounts (PTAs) that rely on MHV credentials with a secure alternative using verified modern credentials (Login.gov or ID.me) so that teams can validate their products are working in production **as intended for Veterans**.
 
 ---
 
 ## Problem Statement
 
-With the scheduled deprecation of MHV credentials in **October 2025**, VA.gov and mobile teams face a critical gap in their ability to safely test Veteran-facing features in the production environment. Current PTAs tied to MHV are insecure, lack traceability, and cannot be easily revoked. We must deliver an MVP that enables **VA employees and contractors to access PTAs using modern, verified credentials**—ensuring secure, accountable, and reliable test access in production.
+With the scheduled deprecation of MHV credentials in **October 2025 (now October 2026)**, VA.gov and mobile teams face a critical gap in their ability to safely test Veteran-facing features in the production environment. Current PTAs tied to MHV are insecure, lack traceability, and cannot be easily revoked. We must deliver an MVP that enables **VA employees and contractors to access PTAs using modern, verified credentials**—ensuring secure, accountable, and reliable test access in production.
+
+## Why Identity
+
+Our team's responsibility is to provide authentication solutions for VA.gov, VA Mobile apps, and MyVA Health. Testing in production requires authentication, making the production test accounts relevant to our work
 
 ---
 
