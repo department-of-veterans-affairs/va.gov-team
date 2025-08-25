@@ -64,7 +64,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 | **What should we measure?** | Easy to understand disability rating <br> *“I understood my disability rating."* |
 | **Important metrics to tracks**<br> *New metrics indicated by asterisk*| - User engagement over time (actions on screen)* <br>- Viewer counts<br> - Average daily viewers<br>- Views per user<br> - Viewers month-to-month<br> - Distribution/conversion of users who access this task via different pathways (homepage vs tool bar)* <br> - # of feature viewers/# of users <br> - Latency* <br> - % of errors within X period of time* <br> - Users report easy access and clear disability rating* |
 | **How these metrics can inform decision making** | Health metrics like latency & errors provide insight into whether users can reliably and quickly see their rating. Views, navigation paths, and satisfaction metrics tell us whether this feature is discoverable, useful, and trusted.  |
-| **Unhelpful metrics** | - Time on screen could be misleading; a short time may mean efficiency or that users immediately abandoned. Doesn’t measure meaningful outcomes. |
+| **Unhelpful metrics** | Time on screen could be misleading; a short time may mean efficiency or that users immediately abandoned. Doesn’t measure meaningful outcomes. |
 
 </details>
 
@@ -77,7 +77,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 | **What should we measure?** | Accurate military status <br> *"I can readily provide proof of my Veteran status.”* |
 | **Important metrics to track**<br> *New metrics indicated by asterisk*| - User engagement over time (actions on screen)* <br>- Viewer counts<br>- Average daily viewers<br>- Views per user<br>- Viewers month-to-month<br>- Distribution/conversion of users who access this task via different pathways (homepage vs tool bar)* <br>- # of feature viewers/# of users <br>- Latency* <br>- % of errors within X period of time* <br>- Users report easy access and clear Veteran status* |
 | **How these metrics can inform decision making** | Show how discoverable, reliable and valuable the Veteran status card is. These metrics can indicate where to improve performance, navigation, or expand feature integration (e.g., wallet apps) to better meet Veterans’ needs. |
-| **Unhelpful metrics** | - Time on screen could be misleading; a short time may mean efficiency or that users immediately abandoned. Doesn’t measure meaningful outcomes.  |
+| **Unhelpful metrics** | Time on screen could be misleading; a short time may mean efficiency or that users immediately abandoned. Doesn’t measure meaningful outcomes.  |
 
 </details>
 
@@ -142,7 +142,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 | **What should we measure?** | Accurate, up-to-date medical records <br> *“My recent labs and medical records are accessible and up-to-date.”"* |
 | **Important metrics to track**<br> *New metrics indicated by asterisk*| - Medical records viewed<br>- # feature viewers/# of users<br>- Latency* <br>- % of errors within X period of time* |
 | **How these metrics can inform decision making** | Indicate how medical records are used, and whether this feature is reliable and performant. These metrics can help determine if expanding this feature to include labs and test results would provide high-value information, while ensuring the system can handle increased demand without added errors or delays. |
-| **Unhelpful metrics** | - Time on screen could be misleading; a short time may mean efficiency or that users immediately abandoned. Doesn’t measure meaningful outcomes. |
+| **Unhelpful metrics** | Time on screen could be misleading; a short time may mean efficiency or that users immediately abandoned. Doesn’t measure meaningful outcomes. |
 
 </details>
 
@@ -168,7 +168,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 | **What should we measure?** | Accurate, easy to understand claim status <br> *“I know the status of my claim.”* |
 | **Important metrics to track**<br> *New metrics indicated by asterisk*| - Click the NCC call center number* <br>- Click links on the claim status screen* <br>- Claim Details Open events* <br>- Time spend viewing per active user* <br>- Overall claims page views<br>- # feature viewers/# of users <br>- Latency* <br>- % of errors within X period of time* Clicks VA phone number for help*|
 | **How these metrics can inform decision making** | Reveal whether the claim status feature is providing clear, self-service information. They can help us identify where to improve content clarity, navigation, and performance so users can confidently track their claims in-app without relying on external channels/calling the contact center (NCC). |
-| **Unhelpful metrics** | Most current metrics measure traffic (e.g. viewer counts, average daily viewers, views per user, times viewed per user, viewers month-to-month), but not whether the feature helps users actually understand their claim status or avoid needing to call NCC |
+| **Unhelpful metrics** | Most current metrics measure traffic volume (e.g. viewer counts, average daily viewers, views per user, times viewed per user, viewers month-to-month), but not whether the feature helps users actually understand their claim status or avoid needing to call NCC |
 
 </details>
 
@@ -181,7 +181,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 | **What should we measure?** | Convenient access to claim decision letters <br> *“I can easily access claims letters and review why claim decisions were made.”* |
 | **Important metrics to track**<br> *New metrics indicated by asterisk*| - Claims history viewed* <br>- Conversion funnel to claims decision* <br>- Latency* <br>- % of errors within X period of time* <br> Clicks VA phone number for help* |
 | **How these metrics can inform decision making** | Show whether users can successfully access and navigate to their claim decision letters with minimal friction. |
-| **Unhelpful metrics** | TBD |
+| **Unhelpful metrics** | Current metrics mostly measure traffic volume (e.g. viewer counts, average daily viewers, views per user, times viewed per user, viewers month-to-month), but not whether users can successfully access and make sense of their decision letters. |
 
 </details>
 
@@ -194,7 +194,7 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 | **What should we measure?** | Smooth photo or document upload <br> *“I can easily upload photos and documents to my claim.”* |
 | **Important metrics to track**<br> *New metrics indicated by asterisk*| - Drop-offs at the "Upload Files" screen* <br>- # feature viewers/# of users <br>- Latency* <br>- % of errors within X period of time* |
 | **How these metrics can inform decision making** | Indicate whether users can successfully complete the evidence submission process without confusion or technical barriers. They can help inform how to improve user flow, reliability, and speed so that evidence/documents can be uploaded with ease. |
-| **Unhelpful metrics** | TBD |
+| **Unhelpful metrics** | Current metrics mostly measure traffic volume (e.g. viewer counts, average daily viewers, views per user, times viewed per user, viewers month-to-month), but not whether users can successfully submit evidence. |
 
 </details>
 
