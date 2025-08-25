@@ -161,16 +161,15 @@ Instructions to access prototype (must access from your mobile device):
 1. You will receive an email invite to the email you supplied us to download the testing app. Please navigate to your email and select that link now.
 2. Open the email and click on "Get started"
 3. It may require you to sign in again to authorize the install.
-4. Select "Download app tester".
-5. While this is downloading, go to your device homescreen > Go to settings > About > click on play store version 7 times (may need to Select "app permissions")
-10. Receive a note "You are now a developer"
-11. Scroll up and press General, click on "Developer options"
-12. Toggle the "interal app sharing"
-13. Return to the window with the steps
-14. Download the release (ensure newest one #7)
-15. If you already have the app installed you'll have to select "Uninstall"
-16. And then go ahead and "Install"
-17. Pause before signing in
+4. Go to your device homescreen > Go to settings > About > click on play store version 7 times (may need to Select "app permissions")
+5. Receive a note "You are now a developer"
+6. Scroll up and press General, click on "Developer options"
+7. Toggle the "interal app sharing"
+8. Return to the window with the steps
+9. Download the release (ensure newest one #7)
+10. If you already have the app installed you'll have to select "Uninstall"
+11. And then go ahead and "Install"
+12. Pause before signing in
 
 **Note for all users: You'll be interacting with a demo prototype today.** Since it's a demo, note that none of your actions will affect your own VA information or benefits.
 
@@ -184,13 +183,7 @@ As we go through the steps in this study, please talk aloud about what you're th
 
 [Sign in using the 'Sign in' button on your screen > Once logged in you will see some initial app instructions, select "Skip" at the bottom-right of your screen > For the notification screen select "Not now".]
 
-[When they get to the homepage:] Any data you are seeing here or throughout this test is not your real data or connected to your VA account in any way. This is a testing environment with artifical testing data displayed only. Please stop here so I can give you the next instruction.
-
-### Questions for testing participant: 
-
-Did you encounter any issues using your [screen reader/assistive tech/device]? 
-
-Was any part hard to navigate or understand?
+[When they get to the homepage:] Any data used throughout this test is not your real data or connected to your VA account in any way. This is a testing environment with artifical testing data displayed only. Please stop here so I can give you the next instruction.
 
 
 ## Task 2: Start a statement
@@ -230,7 +223,7 @@ Please fill out this form to submit your statement, but I want you to use fake d
 
 ### Questions for testing participant: 
 
-Did you encounter any issues using your [screen reader/assistive tech/device]? 
+Other than the SSN error, Did you encounter any issues using your [screen reader/assistive tech/device]? 
 
 Was any part hard to navigate or understand?
 
@@ -247,11 +240,6 @@ Pretend you need to step away from the form for an extended period of time, you 
     - If yes, what does the user do?
 - Does the user express doubt that their work will be saved? Y/N
 
-### Questions for testing participant: 
-
-Did you encounter any issues using your [screen reader/assistive tech/device]? 
-
-Was any part hard to navigate or understand?
 
 
 ## Task 5: Continue completing the started form and submit
@@ -273,15 +261,10 @@ Pretend you are ready to come back to your previous form to complete it. Please 
 
 Did you encounter any issues using your [screen reader/assistive tech/device]? 
 
-Was any part hard to navigate or understand?
-
 Did you find navigation particularly challenging in any way?
 
 If Y, why?
 
-Did you find any labels particularly confusing on the form?
-
-If Y, what labels specifically and how might they be improved for clarity?
  
 ### Task 6: View submitted form
 Now that you have completed the form, navigate back to the general forms location in the app.
