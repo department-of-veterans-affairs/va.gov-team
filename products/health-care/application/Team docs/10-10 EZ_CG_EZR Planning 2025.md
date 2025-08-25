@@ -43,8 +43,6 @@
      - Review with team to determine release cadence to Prod (Sprint 3)
 - **SPRINT GOAL** [#105901](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105901) - [QA] Test Spouse section
 - **SPRINT GOAL** [#112998](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112998) - [FE] Prefill Spouse information (Pending QA before merging)
-- **SPRINT GOAL** [#68669](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68669) - [Design, FE] Content update on Insurance page
-
 
 #### Obj: [Print/Save PDF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109746)
 - **Timeline**
