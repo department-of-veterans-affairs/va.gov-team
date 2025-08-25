@@ -88,9 +88,9 @@ Non-tasks have also been identified for each key user flow. Non-tasks and associ
 |--------------------|-------------|
 | **User goal**      | *"I want to have convenient access to a digital version of (x) so that I am not worried about loss or fraud."* |
 | **What should we measure?** | Convenient access to VA benefit letters<br> * “I can conveniently provide digital proof of (x).”* |
-| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Page views<br>- Most frequently accessed letters<br>- # feature viewers/# of users<br>- Latency* <br>- % of errors within X period of time* <br>- User report easy to view and download VA benefit letters* |
+| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Page views<br>- Monthly letter downloads <br>- Most frequently accessed letters* <br>- # feature viewers/# of users<br>- Latency* <br>- % of errors within X period of time* <br>- User report easy to view and download VA benefit letters* |
 | **How these metrics can inform decision making** | These metrics show whether the VA benefits letters performs reliably and delivers a clear, usable experience. They can inform decisions on which letters to prioritize (e.g. the most common letters users access), where to reduce errors or latency, and how to improve usability so users can quickly access and download the documents they need. |
-| **Unhelpful metrics** | |
+| **Unhelpful metrics** | Monthly letter downloads without context that breaks down the numbers by letter type |
 
 </details>
 
