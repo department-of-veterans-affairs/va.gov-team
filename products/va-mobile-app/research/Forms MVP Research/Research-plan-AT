@@ -215,34 +215,59 @@ If Android, pleae request their email where an invitation to the testing link wi
 - Yes would qualify them for the study
 - No would disqualify them
 
-#### For AT Users
-##### For Screen reader or screen magnifier users
-5. Do you need a screen reader or screen magnifier every time you use the Internet? We ask this question because we want to make sure that our website works for people who rely on these types of technologies.
-- Response options: yes or no. (Answering yes would qualify the participant.)
+#### Screen reader users, please also ask the following screener questions.
 
-6. We want to make sure our app work for people with various levels of experience with screen readers. Please rate your experience level using a screen reader:
+1. Do you need to use a screen reader to access websites or applications? For example, VoiceOver, TalkBack, or JAWS.
+    - Yes
+    - No
+2. If you answered yes, which screen reader do you use? Please select all that apply.
+    - JAWS
+    - NVDA
+    - VoiceOver (iPhone, iPad, Mac)
+    - TalkBack (Android)
+    - Narrator (Windows)
+    - Other (Please specify): ________________
+    - This question doesn't apply to me
+3. How long have you been using a screen reader? Your best guess is okay.
+    - 0 - 1 years
+    - 2 - 4 years
+    - 5+ years
+    - Never used
+4. How frequently do you use a screen reader? Your best guess is okay.
+    - Daily
+    - Once a week
+    - Once a month
+    - Never
+5. Can you join the Zoom session from your mobile device using your screen reader?
+    - Yes
+    - No
+    - This question doesn't apply to me
+6. Please list the name of the screen reader you will use during the session.
+    - Open text box
 
-- Response options: Beginner, Intermediate, Advanced.
+#### Screen magnification users, please also ask the following screener questions.
 
-7. Are you willing to join the Zoom session using this assistive technology?
 
-Response options: yes or no. (Answering yes would qualify the participant.)
+1. Do you consistently need to resize fonts or use a magnification setting to see your screen when you are using your mobile device?
+    - Yes
+    - No
+2. If you answered yes, which screen magnification tool do you use?
+   - Open text box
+3. How long have you been using a screen magnification tool? Your best guess is okay.
+    - 0 - 1 years
+    - 2 - 4 years
+    - 5+ years
+    - Never used
+4. How frequently do you use screen magnification on VA.gov?
+   - Always
+   - Sometimes
+   - Rarely
+   - Never
+5. Can you join the Zoom session from your mobile or desktop device using the screen magnification tool you need to see your screen?
+   - Yes
+   - No
+   - This question doesn't apply to me
 
-8. What is the name of the screen reader or screen magnifier technology that you will use during the Zoom session?
-
-- Response option: text box.
-
-9. How long have you been using this screen reader or screen magnifier?
-
-- Response option: text box.
-
-10. What (if any) accommodations will you need to participate in this Zoom session?
-
-- Response option: text box.
-
-11. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.
-
-- Response options: yes or no. (Answering yes would qualify the participant.)
 
 ## Timeline 🗓️
 > [!NOTE]
