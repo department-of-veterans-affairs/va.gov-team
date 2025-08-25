@@ -22,6 +22,7 @@ Included are links to more specific transition hubs where you can find direct li
 - [Stakeholders and Supported Initiatives](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/Benefits%20Management%20Tools%20II%20Transition%20Hub%208.31.2025.md#stakeholders-and-supported-initiatives)
 - [Content Center and Medallia Data Analysis - Document Upload Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/claim-appeal-status/Benefits%20Management%20Tools%20II%20Transition%20Hub%208.31.2025.md#manual-process-for-analyzing-contact-centermedallia-data)
 - [Analytics Dashboards](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/claim-appeal-status/Benefits%20Management%20Tools%20II%20Transition%20Hub%208.31.2025.md#analytics-dashboards)
+- [Call center data analysis (SharePoint)](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/_layouts/15/Doc.aspx?sourcedoc=%7B3B[%E2%80%A6].xlsx&action=default&mobileredirect=true&DefaultItemOpen=1)
 
 
 ---
@@ -64,6 +65,7 @@ Once we finish investigating why EVSS is still getting hits (Jane working on thi
 
 [Web GA: (Explore report > CST evidence requests > Funnel - Evidence + 5103 responses)](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/wdstw7U5TR-vGC5L8Xl3ow)
 
+[Collaboration Cycle for [BMTII, Claim Status Tool, Evidence Requests Pattern] #105105](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1513)
 
 **VA Letters and Documents:**
 
@@ -73,27 +75,27 @@ Once we finish investigating why EVSS is still getting hits (Jane working on thi
 
 [Abandonment rate](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/SvIXt89hQnCx4HDFQ6iKNw)
 
+[Collaboration Cycle for [BMT2, Claim Status Tool, VA Letters and Documents] #98499](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1452)
+
 **BMT - Eventbus Gateway**
 
 [BMT - Eventbus Gateway (DataDog)](https://vagov.ddog-gov.com/dashboard/diy-2n4-4my) - monitoring Eventbus Gateway application + any errors reported from VANotify for sending the emails
 
 [Silent Failure Tracker (Official Count)](https://vagov.ddog-gov.com/dashboard/n6c-twn-swr/silent-failure-tracker-official-count?fromUser=false&refresh_mode=sliding&tpl_var_service%5B0%5D=claim-status&from_ts=1755616223224&to_ts=1755789023224&live=true) (DataDog) - not our dashboard, but useful to check on and see if there are silent failures occurring for any of our services.  Watch officers will post about items we own that appear on this dashboard.
 
+Readme update #1: [department-of-veterans-affairs/eventbus-gateway#112](https://github.com/department-of-veterans-affairs/eventbus-gateway/pull/112)
 
+[This is the Directory for our EventBus (Gateway) Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/event-bus-notify)
 
-**Engineering**
-- High-level view of systems  
-- Silent Failures  
-- Engineering Onboarding Documentation  
-- Datadog README  
-- Engineering README: How to run the Benefits Management Tools team services  
+Uploaded the Venify onboarding instructions to SharePoint (due to the sensitivity of certification access) and added a link to that in the [general documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/event-bus-notify/documentation.md) file in the eventbus gateway folder.
 
 **Design and Research**
-- CST Design Resources  
-- Research folder  
-- BMT Figma Project  
-- CST V2: Up-to-date design source of truth  
-- CST Mural Room  
+
+- [CST v2 (Figma)](https://www.figma.com/design/F8U4wddaFouUPVd4mGBMDI/CST-V2?node-id=0-1&p=f&t=VdBXNB4Nn7fV2SyX-0)
+- [Claims and appeals content & data modeling (Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1719581824942/975bd9a22e21177415cdb238525b3e1aac95a288)
+- [BMT 2 draft content (Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1730491796385/2ae33589d99eac75e0dd49b29c290e4acab0a46a)
+- [CST V2 Breadcrumbs Update (Figma)](https://www.figma.com/design/F8U4wddaFouUPVd4mGBMDI/CST-V2?node-id=0-1&p=f&t=uqbPJ9MpgUm3XCVg-0)
+- [Proposed copy for link to VA.gov from mobile app (GitHub)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108465)
 
 **Team Resources**
 - [GitHub Project Board](https://github.com/orgs/department-of-veterans-affairs/projects/1430)  
@@ -104,6 +106,7 @@ Once we finish investigating why EVSS is still getting hits (Jane working on thi
 - [Call Center and Medallia Data Analysis](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared%20Documents/Benefits%20Management%20-%20CST/cst%20-%20document%20uploads%20+%20upload%20status/Call%20Center%20and%20Medallia%20Data%20Analysis?csf=1&web=1&e=ANP5jy)
 - [Call Center Data Analysis/Synthesis](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1730231194923/cb140daff8eb9a2988238c992ec32e7c9c4963c6?sender=ub840cb68d1886aa35b202891)
 - [Spreadsheet with Raw Data Analysis](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Benefits%20Management%20-%20CST/cst%20-%20analytics%20+%20success%20metrics/CST%20call%20center%20and%20medallia%20data/COPY----MyVA411%20-%20call%20notes%20-%2002.01.2024%20-%2009.30.2024%20-%2021.xlsx?d=w3bf22df3e5c64deaab9914e5772b71bd&csf=1&web=1&e=kZDkvU&nav=MTVfe0FCMERDNzM0LTFFMUQtNDU5Ni05MDE4LUFBNTdEM0VFNTI0NX0)
+- [Call center data analysis (Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1730231194923/cb140daff8eb9a2988238c992ec32e7c9c4963c6)
 
 ---
 
@@ -125,11 +128,6 @@ Once we finish investigating why EVSS is still getting hits (Jane working on thi
 ## Jan 31, 2025 – Suppress Payments History
 - **What was done:** Suppressed internal/incorrectly categorized tracked items from Claim Status Tool (Attorney Fee, Secondary Action Required, Stage 2 Development).  
 - **Value to Veterans:** Veterans now only see payments that truly relates to them, reducing confusion and unnecessary worry.  
-
-
-## May 16, 2025 – Intent to File (Discovery)
-- **What was done:** Completed discovery to improve visibility into Intent to File (ITF) status and expiration.  
-- **Value to Veterans:** Veterans will gain transparency into their ITF status, helping them avoid missed benefits due to expired filings or duplicate ITFs. *(Not released yet)*  
 
 
 ## Jun 17, 2025 – Improved Pension Claims Experience
@@ -210,6 +208,14 @@ Below are the initiatives worked on during the contract, with links to their res
 
 [VA Letters and Documents Page - Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/VA%20Letters%20and%20Documents.md)
 
+[Your VA benefit letters and documents (Figma)](https://www.figma.com/design/61I2UcRPJDXdw0xCl9BlEe/Your-VA-benefit-letters-and-documents?node-id=0-1&p=f&t=VZj88nDIza2UMwRm-0)
+
+[Mailing address validation alerts (SharePoint)](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/_layouts/15/Doc.aspx?sourcedoc=%7BDF[%E2%80%A6]alidation%20alerts.docx&action=default&mobileredirect=true)
+
+[VA Benefit Letters Checkbox Labels (SharePoint)](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/_layouts/15/Doc.aspx?sourcedoc=%7B6F[%E2%80%A6]0Checkbox%20Labels.docx&action=default&mobileredirect=true)
+
+[Note-taking VA benefit letters and documents research sessions (SharePoint)](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/_layouts/15/Doc.aspx?sourcedoc=%7B31[%E2%80%A6]nd-docs-study-2025.xlsx&action=default&mobileredirect=true)
+
 ## 2. Evidence Request Improvements
 
 [Process for Updating Evidence Requests with Plain Language](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/evidence-requests-pattern/updating-evidence-requests.md)
@@ -218,16 +224,35 @@ Below are the initiatives worked on during the contract, with links to their res
 
 [Reclassifying or Suppressing Evidence Request Types](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Evidence%20Requests%20Alterations.md)
 
+[Evidence requests (Figma)](https://www.figma.com/design/P9rl860Qt8qqVFZGg4sejE/Evidence-Requests?node-id=0-1&p=f&t=K6DMW1XVl7VvimiI-0)
+
+[Evidence request description drafting (SharePoint)](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/_layouts/15/Doc.aspx?sourcedoc=%7B38[%E2%80%A6]iptions%20drafting.docx&action=default&mobileredirect=true)
+
+[Evidence Request Content Worksheet (SharePoint)](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/_layouts/15/Doc.aspx?sourcedoc=%7B6D[%E2%80%A6]idence%20requests).docx&action=default&mobileredirect=true)
+
+[PTSD evidence requests unedited (SharePoint)](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/_layouts/15/Doc.aspx?sourcedoc=%7B12[%E2%80%A6]-evidence-requests.docx&action=default&mobileredirect=true)
+
+[Initiative Brief – Evidence Request Improvements (SharePoint)](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/_layouts/15/Doc.aspx?sourcedoc=%7BEA[%E2%80%A6]est%20improvements.docx&action=default&mobileredirect=true)
+
 ## 3. Supplemental Claim (Discovery Phase)
 
 [Supplemental claim and higher level review improvement Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Supplemental%20claim%20and%20higher%20level%20review%20improvement%20initiative.md)
 
+[Supplemental claims (Figma)](https://www.figma.com/design/T2cH3R8rckAlIFNwgx214H/CST---Supplemental-Claim?node-id=62-891&p=f&t=XLnuhDNhzWzijtEn-0)
+
+[Migration Approach for Supplemental Claims and Higher Level Reviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Supplemental%20claim%20and%20higher%20level%20review%20improvement%20initiative.md) 
+
 ## 4. Payments History – Suppressed 3rd Party Payments
 
+[First and Third Party Evidence Requests – Suppression](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Evidence%20Requests%20Alterations.md)
 
 ## 5. Pension Claims Modernization (8-Step Workflow)
 
 [Figma file](https://www.figma.com/design/QTZuETCjjgYfRYCmqbNu5d/Pension-claim-process-overview?node-id=2201-3233&t=YLNZEZaRevuH9Gqa-0)
+
+[Pension claim process overview (Figma)](https://www.figma.com/design/QTZuETCjjgYfRYCmqbNu5d/Pension-claim-process-overview?node-id=2201-3233&t=Y6VvofzuuyPMatz3-0)
+
+[Veterans Pension benefits claim process (SharePoint)](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/_layouts/15/Doc.aspx?sourcedoc=%7B3D[%E2%80%A6]ss-pensions-021325.docx&action=default&mobileredirect=true)
 
 ## 6. Intent to File
 For the Intent to File (ITF) discovery phase, the team investigated how Veterans currently check their ITF status and identified significant usability gaps on VA.gov and in the Claims Status Tool (CST). They reviewed existing ITF workflows, upstream data sources (VBMS and Lighthouse ITF API), and confirmed there was no direct, user-friendly way for Veterans to see if an ITF was active or when it expired. The team gathered pain points from Veteran research, Reddit feedback, and contact center insights, revealing confusion around ITF timelines, expiration dates, and the association between ITFs and claims. They explored design concepts for displaying ITF information in CST, including scenarios for active, expired, and multiple ITFs, as well as empty states for education. They documented potential risks, and technical dependencies. This discovery work laid the foundation for a UI solution to make ITF status transparent and actionable for Veterans.
@@ -241,6 +266,8 @@ For the Intent to File (ITF) discovery phase, the team investigated how Veterans
 [Intent to File - CST (Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1745429653435/fdc61adbcd6f7c35a14ff23036dc131bd3cfad34)
 
 [Technical Discovery (part of initiative brief)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Intend%20To%20File%20-%20Product%20Brief.md#techinal-information)
+
+[ITF (Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1745429653435/fdc61adbcd6f7c35a14ff23036dc131bd3cfad34)
 
 ## 7. Letter Migration to Lighthouse
 
@@ -270,10 +297,7 @@ The [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team
 
 ## 📑 Additional Documentation
 
-- [First and Third Party Evidence Requests – Suppression](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Evidence%20Requests%20Alterations.md)  
+
 - [Silent Failure Remediation (Production Monitoring)](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/benefits-portfolio/benefits-management-tools/claim-status-tool/engineering/troubleshooting/retrieve-failed-evidence-submissions.md)  
 - [CST Troubleshooting Guide](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/teams/benefits-portfolio/benefits-management-tools/claim-status-tool/engineering/troubleshooting)  
-- [Migration Approach for Supplemental Claims and Higher Level Reviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Supplemental%20claim%20and%20higher%20level%20review%20improvement%20initiative.md)  
-- [CST V2 Breadcrumbs Update (Figma)](https://www.figma.com/design/F8U4wddaFouUPVd4mGBMDI/CST-V2?node-id=0-1&p=f&t=uqbPJ9MpgUm3XCVg-0)
-- [Proposed copy for link to VA.gov from mobile app (GitHub)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108465)
 
