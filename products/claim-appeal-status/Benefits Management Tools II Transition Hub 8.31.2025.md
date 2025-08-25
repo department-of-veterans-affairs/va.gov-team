@@ -292,9 +292,6 @@ The [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team
 [Decision Letter Email Metrics](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Benefits%20Management%20-%20CST/BMT%20metrics/Decision%20Letter%20Email%20Metrics.xlsx?d=wb15afdf335a64f0798d4eef2fa457425&csf=1&web=1&e=XDqfij) (SharePoint)
 
 
-## 9. Fixing Dependents Document Upload Issues
--
-
 ## 📑 Additional Documentation
 
 
