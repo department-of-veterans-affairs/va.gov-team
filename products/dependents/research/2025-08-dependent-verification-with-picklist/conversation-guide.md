@@ -125,7 +125,7 @@ As you're looking at the prototype, here's a scenario I'd like you to use:
 
 ## 1. First Prototype - Task goal: Validate whether Veterans understand which life changes need to be reported. - 5 minutes [Your VA Dependents page]
 
-Okay, thanks for doing your best to keep that scenario in mind as you look at the prototype. Now, I'm going to transition us to looking at a prototype.
+Okay, thanks for doing your best to keep that scenario in mind as you look at the prototype. I know it's a lot to remember and I'm happy to read it again at any point if that would be helpful. Now, I'm going to transition us to looking at a prototype.
 
 [Send link to prototype 1](https://www.figma.com/proto/AM5gVqcdLtWazrjTqwqykN/DV-Picklist-V2?page-id=82%3A4755&node-id=284-16217&viewport=73%2C332%2C0.11&t=w9RvfaoPZsspxi47-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=284%3A16217&show-proto-sidebar=1&hotspot-hints=0&hide-ui=1)
 
@@ -367,7 +367,7 @@ You can click the continue button.
 
 ## 9. Task goal: Validate whether Veterans would submit the form. - 5 minutes [Review application]
 
-We've reviewed a similar page in the last prototype, so no feedback needed here.
+We've reviewed a similar page in the last prototype, so no feedback needed here, but you're welcome to share any additional thoughts that you have.
 
 ## 5a. Task goal: Validate whether Veterans would submit the form. - 5 minutes [Confirmation page]
 
