@@ -1,10 +1,10 @@
-# Medications App | Refill Path
+# Medications on VA.gov | Refill Path
 
 [`/my-health/medications/refill`](https://staging.va.gov/my-health/medications/refill)
 
-![Refill prescriptions view](images/refill-prescriptions.png)
+![Refill prescriptions view](images/web-refill-prescriptions.png)
 
-## Medications App | RefillPrescriptions Component
+## Medications on VA.gov | RefillPrescriptions Component
 
 [source code](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/mhv-medications/containers/RefillPrescriptions.jsx)
 

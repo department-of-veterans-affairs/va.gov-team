@@ -1,10 +1,10 @@
-# Medications App | API to EHR Map
+# Medications on VA.gov | API to EHR Map
 
 | API resource.property | MedicationRequest/MedicationDispense resource query |
 | --------------------- | --------------------------------------------------- |
 | `prescriptionName`  | (MD) `medicationCodeableConcept.coding.%Get(0).display` |
 | `prescriptionId`    | |
-| `prescriptionNumber` | (MR) `id` | 
+| `prescriptionNumber` | (MR) `id` |
 | `orderedDate` | (MR) `authoredOn` |
 | `sortedDispensedDate` | |
 | `dispStatus` | |

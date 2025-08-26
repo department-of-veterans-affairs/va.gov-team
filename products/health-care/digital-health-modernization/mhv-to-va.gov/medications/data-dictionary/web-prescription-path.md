@@ -1,10 +1,10 @@
-# Medications App | Prescription Path
+# Medications on VA.gov | Prescription Path
 
 [`/my-health/medications/prescription/1`](https://staging.va.gov/my-health/medications/prescription/1)
 
-![Prescription view](images/prescription-details.png)
+![Prescription view](images/web-prescription-details.png)
 
-## Medications App | PrescriptionDetails Component
+## Medications on VA.gov | PrescriptionDetails Component
 
 [source code](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/mhv-medications/containers/PrescriptionDetails.jsx)
 

@@ -1,37 +1,46 @@
-# Medications App | Medications Data Dictionary
+# Medications on VA.gov | Medications Data Dictionary
 
 A place to document the mapping of medications data presented within the UI across systems upstream to vets-website and vets-api (www.va.gov, api.va.gov).
 
-## Medications App | URL Paths
+## Web URLs
 
-The Medications application exists across the following URLs
+The Medications on VA.gov application exists across the following URLs
 
 host: `{dev,sandbox,staging,www}.va.gov`
 
-- [`/my-health/medications/`](root-path.md) - root path for the Medications app
-- [`/my-health/medications/refill`](refill-path.md) - first Medications link at `/my-health`
-- [`/my-health/medications/prescription/:id`](prescription-path.md)
-- [`/my-health/medications/prescription/:id/documentation`](prescription-documentation-path.md)
+- [`/my-health/medications/`](web-root-path.md) - root path for the Medications on VA.gov
+- [`/my-health/medications/refill`](web-refill-path.md) - first Medications link at `/my-health`
+- [`/my-health/medications/prescription/:id`](web-prescription-path.md)
+- [`/my-health/medications/prescription/:id/documentation`](web-prescription-documentation-path.md)
 
 To visit the staged Medications refill page, navigate to:
 
 [`https://staging.va.gov/my-health/medications/refill`](https://staging.va.gov/my-health/medications/refill)
 
-## Medications App | API to EHR Map
+## Mobile Views
 
-[link](api-to-ehr-map.md)
+- [Prescriptions list](mobile-prescriptions-list.md)
+- [Prescriptions details](mobile-prescriptions-details.md)
+- [Refill request](mobile-refill-request.md)
 
-## Medications App | Staging User Credentials
+## API to EHR Map
+
+[API to EHR Map](api-to-ehr-map.md)
+
+
+## Resources
+
+### Staging User Credentials
 
 - [Staging User Credentials](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/medications/test-accounts.md)
 - [Lighthouse | Test User Portal](https://dev.lighthouse.va.gov/test-user-portal)
 
-## Medications App | Front-end
+### Medications on VA.gov | Front-end
 
 - repository: [github.com/department-of-veterans-affairs/vets-website](https://github.com/department-of-veterans-affairs/vets-website)
 - front-end app: [vets-website/src/applications/mhv-medications](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/mhv-medications)
 
-## Medications App | Backend API
+### Medications on VA.gov | Backend API
 
 - repository: [github.com/department-of-veterans-affairs/vets-api](https://github.com/department-of-veterans-affairs/vets-api)
 - backend api: [vets-api/modules/my_health](https://github.com/department-of-veterans-affairs/vets-api/tree/master/modules/my_health)

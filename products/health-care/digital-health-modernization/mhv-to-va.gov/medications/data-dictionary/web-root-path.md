@@ -1,10 +1,10 @@
-# Medications App | Root Path
+# Medications on VA.gov | Root Path
 
 [`/my-health/medications/`](https://staging.va.gov/my-health/medications)
 
-<img src="images/medications-list.png" width="1203" alt="Medications list" />
+<img src="images/web-medications-list.png" width="1203" alt="Medications list" />
 
-## Medications App | MedicationsListCard Component
+## Medications on VA.gov | MedicationsListCard Component
 
 [source code](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/mhv-medications/components/MedicationsList/MedicationsListCard.jsx)
 
@@ -23,12 +23,12 @@ These render based on `rx.dispStatus`. See the [`ExtraDetails`](https://github.c
 
 #### Expired
 
-<img src="images/medications-list-card-expired.png" width="651" alt="MedicationsListCard Expired" />
+<img src="images/web-medications-list-card-expired.png" width="651" alt="MedicationsListCard Expired" />
 
 #### Active: Refill in Process
 
-<img src="images/medications-list-card-active-refill-in-process.png" width="653" alt="MedicationsListCard Refill in Process" />
+<img src="images/web-medications-list-card-active-refill-in-process.png" width="653" alt="MedicationsListCard Refill in Process" />
 
 #### Active: Non-VA
 
-<img src="images/medications-list-card-active-non-va.png" width="648" alt="MedicationsListCard Non-VA" />
+<img src="images/web-medications-list-card-active-non-va.png" width="648" alt="MedicationsListCard Non-VA" />
