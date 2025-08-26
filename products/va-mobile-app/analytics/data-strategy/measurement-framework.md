@@ -322,7 +322,7 @@ Overall platform health can be measured by the platform's speed, availability, r
 |**User Satisfaction** |   |
 |--------------|-------------|
 | **Definition** | Measures users’ perception of the app’s value, usability, and overall experience based on direct and indirect feedback. |
-| **Helpful metrics** | - CSAT<br>- App Store/Google Play star ratings<br>- In-app survey results (scale rating)<br>- Sentiment analysis from qualitative/open feedback |
+| **Helpful metrics** | **Already captured** <br> - App Store/Google Play star ratings<br> - In-app survey results (scale rating)<br><br> **New metrics** <br> - CSAT<br> - Sentiment analysis from qualitative/open feedback | 
 | **How it informs decision-making** | Helps identify pain points, feature satisfaction, and areas for improvement. Guides prioritization of usability fixes and informs communication or design changes. |
 </details>
 
@@ -332,7 +332,7 @@ Overall platform health can be measured by the platform's speed, availability, r
 |**Adoption** |   |
 |--------------|-------------|
 | **Definition** | New users onboarding to the app |
-| **Helpful metrics** | - New app downloads<br>- User segmentation |
+| **Helpful metrics** | **Already captured** <br> - New app downloads<br><br> **New metrics** - User segmentation |
 | **How it informs decision-making** | Understand the overall growth of the app in capturing new users |
 </details>
 
