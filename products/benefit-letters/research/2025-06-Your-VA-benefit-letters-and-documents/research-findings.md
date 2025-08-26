@@ -56,10 +56,10 @@ Remote, moderated, one-hour, semi-structured interviews and usability testing wi
 ### Veterans are more likely to find the letter type they need when presented with clear, concise categorization and descriptions up front rather than hidden on a secondary screen.
 **Definitely true:** Veterans successfully navigated letter options and appreciated clear descriptions. P14: "It's pretty cut and paste standard...even if I didn't know what [a letter] was, I could read about it."
 
-### Veterans who encounter the redesigned single-step page will complete the View Letters step at a rate higher than the current design (current: 60%).**
+### Veterans who encounter the redesigned single-step page will complete the View Letters step at a rate higher than the current design (current: 60%).
 **Likely true:** While most Veterans successfully completed tasks, navigation paths varied significantly, suggesting improvement but not elimination of all friction.
 
-### Making the mailing address change to the VA.gov profile optional and the reasoning clear will increase download rates (current: 55%).**
+### Making the mailing address change to the VA.gov profile optional and the reasoning clear will increase download rates (current: 55%).
 **Not enough info:** In the end, we couldn’t make the mailing address change to the VA.gov profile optional, and we also had to roll back the alerts we were using to clarify the address change and its reasoning. We did learn that 45% of our participants (P1, P5, P11, P12, P14) generally believed that the benefit letters shouldn’t be so closely tied to the veteran’s mailing address.
 
 ## Key Findings
