@@ -53,7 +53,7 @@ sequenceDiagram
 
 ```
 
-### Alternate approach
+### First touch point (OTC)
 ``` mermaid
 sequenceDiagram
     participant U as User
