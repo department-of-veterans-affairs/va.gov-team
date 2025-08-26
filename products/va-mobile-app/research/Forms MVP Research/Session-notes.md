@@ -1901,4 +1901,114 @@ In progress - want more context
 
 ### per researcher:
 
-Pending
+Using an apple iphone, 12
+Default web browser is Safari
+
+Yes has filled out a VA form online.
+1:07 “It went pretty easy, I filled out a form for an appointment. I also think I filled out a form for travel reimbursement awhile back. They were really, real easy. There’s weren’t a lot of options so it was just easy for me to do. Not a lot of problems.
+
+Does use the VAHB app today for
+1:53 “I just look at it to see things like a prescription that may need to be refilled or to remind myself of an appointment.”
+
+Experience so far
+2:12 “Again, very easy to use. I think if there was one thing I don’t know if, I don’t think they have the face authentication I think I still need to put in a user ID and password.”
+
+Note: Assisted the user with turning that on in their app at the end of the session.
+
+User had difficulty finding the zoom app menu on their phone, only familiar with zoom on his laptop so needed assistance to engage the screen to pop up the menu. 
+
+Did get the test flight app loaded prior to the session but did not get the step 2 done to download the VA testing app.
+
+Zoom shows face preview which blocked screen and it took the user a minute to move it out of their way, still had difficulties swiping me off their screen. Wanted to ensure he was still connected with me if not seeing me. 
+
+Noted his wifi was going in and out today. 
+
+There was a slight delay between us.
+
+Had to select that they were using cellular data instead of wifi
+
+Users phone was in light mode
+
+#### Re: Find forms in the app
+Would expect to find forms in ‘Claims’
+Direct him to scroll down click ‘Go to my forms’
+Asked if he should select ‘Start a new statement’
+
+#### Re: Screen 1
+8:45 “I wouldn’t much of that stuff I would just start my statement right here.”
+
+9:00 “OK I see all this stuff but the way my mind works I’m like ok, ok I remember you have to do this I’m going to find out what I need and I’m just going to start my statement right here. I’m probably not going to read all this stuff. 
+
+9:34 “If I were doing this, for me, I would have this first paragraph in three bullet points and then I would have something that would click next so that I would be forced to reach this… instead of the scroll because my tendency is to scroll until I see something that causes me to act…. I find myself then having to bac track a bit sometimes.”
+
+I do like that I can save the application. Which is good.
+
+#### Re: Screen 2
+10:52 “If I were starting a new claim, I would probably select the first one, I have new evidence to submit for an open claim.” oh wait… that’s for open claims…
+Selected instead ‘I want to request faster claim processing because of my situation.’ by accident, could not figure out how to deselect it. 
+Maybe I should look at all of these you know… 
+Then said ‘I would probably select this what I want to do isn’t listed here because you told me its a new claim.’
+
+#### Re: Form entry
+12:00 view date of birth entry.
+For SSN did not type in dashes, typed fast, but then got the error and erased to retype. 
+
+#### Re: leave form
+‘Finish application later’ or leave it as…
+Selected ‘ Finish application later’
+Had to be directed to navigate back to the mobile app, scrolled down on the page. Didn’t know if he should close the app completely and select done and then go back in…
+
+Directed him to select ‘Done.’
+
+Reported no issues so far.
+Nothing reported as hard to navigate or understand. 
+
+User moved back to the homescreen, back to ‘Go to my forms’ then noticed the shown form was the one he started today and was easily able to continue the form. 
+
+Toast wasn’t an issue because the user navigated to the homescreen and back.
+
+#### Re: Form completion
+User did not experience issues entering into the form fields from his mobile phone. 
+16:18 “Since I’m talking as I’m thinkin’, I like that when I put in the postal code first and it populates the stuff for me. I don’t know if you have that option, its nice, I like that option.”
+
+User did not enter dashes when entering in the phone number.
+When providing the statement the user entered ‘My hand has been tealling (autocorrected to recalling) bothering lately. He did not catch that spell correct and change to what he intended. 
+
+#### Re: Form submission
+Did not expand the sections, scrolled down and was ready to confirm with his name to submit the application.
+
+User scrolled down on the confirmation page after submission to the bottom. 
+To return to the app the user scrolled back up and found the ‘Done’ button without prompting.
+
+Went all the way back to the homepage and then went forward again to the forms section.
+
+User noted regarding printing…
+18:30 “Sometimes its hard to print, some people have trouble printing from their phone, I know how to print from my phone but some people don’t. Do you also send them an email maybe with a link to print it, they are confirming that they got your form. If you want to print a copy click here to print it or click here to look at the pdf. It’s just something I’ve seen other apps do that sort of help people that may not be real familiar with technology.”
+
+#### Re: After form submission
+Knows the form was submitted …
+19:20 “I see that it was done today and it’s in progress that it’s active. It’s an active one, I don’t have anyone in completed (user checked the complete tab).”
+
+Status means to them
+19:37 “I’ve done everything that I was supposed to do. And someone is now looking at it. If they need more information they will come back to me. And if they don’t come back to me then they will respond with some sort of a decision.”
+
+Expect to see if they check back on this later…
+20:10 “Interesting if it would say some sort of review, reviewed 1, review 2, waiting for final decision. Some sort of decision or something like that. In progress, if it’s just says its in progress and I come back here week after week and see its in progress then I’m probably going to be likely to find is there a phone number that I can call and how can I find the progress beyond it saying its in progress. Is it progress to be done in a week, is it in progress to be done in a year. I would like to see some sort of guage,  it could be three or four steps, or it could even be a bar like moving to complete like filling up a tank of gas. I would like to see that.”
+
+No challenges using his device for this process today.
+Did not have anything hard to navigate or understand.
+Labels were pretty well done according to the user.
+
+How the user found this process overall…
+25:15 “I found it pretty easy. It was surprising, I talked to Shannon yesterday and I wanted to know if I needed to be in my office on my laptop because I’m not always… I’m always better on my laptop than I am on my phone.”
+
+No part was noted as being especially frustrating or mental tiring.
+
+“Did you take it away? I thought I had it.” (regarding having to reinstall the VAHB app on their phone to use after the test.) “I’m glad you’re doing this, I didn’t realize you had done that.”
+
+At the end of the session the user logged into their account on the VA mobile app and I walked them through setting up Face ID in the settings under their profile. 
+
+The user was waiting on the receipt of the MFA code to his text messages. Then after awhile of waiting navigated back to the sign in process of the app and realized he had forgotten to hit ‘Continue’ 
+
+26:40 “I hit text me and then I always forget to hit continue. I go and I realize I didn’t get the text, I go back and think I missed something…”
+
