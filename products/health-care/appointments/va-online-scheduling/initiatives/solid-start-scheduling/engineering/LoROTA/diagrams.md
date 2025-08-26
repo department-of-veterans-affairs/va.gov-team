@@ -52,3 +52,39 @@ sequenceDiagram
     Note over va-gov: displays confirmation page
 
 ```
+
+### Alternate approach
+``` mermaid
+sequenceDiagram
+    participant U as User
+    participant F as Scheduling Form(vets-website)
+    participant V as vets-api
+    
+    participant M as MPI
+    participant N as VANotify
+    participant D as VASS-API
+    
+
+    U->>F: Enter SSN + DOB
+    F->>V: Send SSN + DOB
+    V->>M: Lookup in MPI
+    M-->>V: Return ICN + EDIPI (if match)
+    V->>D: Check EDIPI in VASS-API
+
+    D-->>V: Exists? (Yes → return user information, No → stop)
+
+    V->>V: Generate one-time code (OTC) for EDIPI
+    V->>N: Send user information email/phone
+    N-->>U: Send OTC (SMS/email) with VANotify
+
+    U->>F: Enter OTC
+    F->>V: Verify OTC
+    V-->>F: Return EDIPI if valid
+
+    U->>F: Select appointment
+    F->>V: Submit appointment with EDIPI
+    V->>D: Submit appointment with EDIPI
+    D-->>V: Appointment confirmed
+    V-->>F: Appointment confirmed
+    F-->>U: Confirmation message
+```
