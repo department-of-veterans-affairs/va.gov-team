@@ -152,7 +152,7 @@ Multiple participants emphasized the importance of DD214 and appreciated promine
 
 ## Recommendations
 
-Based on the research findings, the following recommendations are organized into three broad categories with targeted tasks:
+Based on the research findings, here is a prioritized plan for improving the benefit letters tool:
 
 ### 1. Improve access and usability
 
