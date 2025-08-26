@@ -112,6 +112,8 @@ If you are conducting a bug audit, we recommend limiting your audit to one secti
 
 👉 **Note:** We’re looking for *any type of issue* that impacts the user experience, and regardless of whether your intention was a bug or UX audit, you may find both. If something feels broken, clunky, slow, inconsistent, or unclear, log it — whether it’s a bug or a UX issue.
 
+**Bonus:** If you decided you're going to conduct a 🐞 Bug Audit and want to nerd out, check out the [VA Web Components Highlighter](https://arperry87.github.io/va-web-components-v3-bookmarklet/index.html). This will highlight current design system components once you're in the staging environment. It'll help you identify if something is wonky because it is an [impostor component](https://dsva.slack.com/archives/C03R5SBELQM/p1714671527233369?thread_ts=1714612416.352079&cid=C03R5SBELQM) or an old component.  
+
 ### 🔍 2. Reference the Bug Audit Checklist or the UX Issue Checklist
 Prior to conducting your audit, reference the following checklists. These will help you be thorough in your considerations.
 - 🐞 [Bug Audit Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/UX%20audit/Bug%20Audit%20Checklist.md)
