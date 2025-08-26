@@ -1,21 +1,21 @@
 # Platform Security Questionnaire - Conditions & Evidence
 
 ### POC
-- What is the name of your product(s)/system(s)?
-   Contention Classification API
+- What is the name of your product(s)/system(s)?  
+     Contention Classification API
 - Describe its purpose in a few sentences.
-- If you represent multiple products, please describe the relationship between them, if there is any.
+- If you represent multiple products, please describe the relationship between them, if there is any.   
    n/a
 - What is the expected duration of your project? This information helps us understand how our processes need to adapt
    
 ### AWS Resources
-- List AWS services used
+- List AWS services used   
    AWS EKS, as deployed through VFS ArgoCD; AWS S3
 - Describe named instances of each service used
    n/a
 - Which of your resources handle PII? List the types of PII
-- Do you utilize any other cloud resources beyond VA.gov?
-   We use the VA Datadog (vagov.ddog-gov.com), VA GitHub (github.com/department-of-veterans-affairs), DSVA Slack, and VFS ArgoCD.
+- Do you utilize any other cloud resources beyond VA.gov?   
+   VA Datadog (vagov.ddog-gov.com), VA GitHub (github.com/department-of-veterans-affairs), DSVA Slack, and VFS ArgoCD.
 
 ### Repos
 - List repos maintained by your team, provide links
