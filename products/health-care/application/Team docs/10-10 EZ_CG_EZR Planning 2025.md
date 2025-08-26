@@ -31,11 +31,11 @@
 #### Obj: N/A
 - N/A
 
+
 ## 
 ### 10-10EZR
 #### Obj: [EC/NOK](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75046)
 - **SPRINT GOAL** [#108518](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108518) - [Team] Phased launch
-
 
 #### Obj: [Household section V2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98353)
 - **Timeline**
@@ -51,11 +51,17 @@
 - **SPRINT GOAL** [#109905](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109905) - [QA] PDF generation testing
 
 #### Obj: Confirmation flow
-- **SPRINT GOAL** Next Steps???
+- **Stretch** [#117847](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117847) - [Design, FE] Date of Marriage for Spouse card
 
 #### Obj: [Improvements](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109435)
 - **SPRINT GOAL** [#117590](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117590) - [Design, FE] Update SIP message on Intro screen
 - **Stretch** [#116521](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116521) - [Research] Dental info content research
+
+##
+### All Forms
+#### Obj: [Shared Improvements](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116451)
+- **SPRINT GOAL** [#117351](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117351) - [UX]Product Mapping (CARRIED)
+- **SPRINT GOAL** [#117486](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117486) - [BE] Audit BE logs to move from Sentry to Datadog
 
 ##
 ### IVC
