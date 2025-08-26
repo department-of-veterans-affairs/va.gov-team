@@ -39,7 +39,7 @@ We have organized user tasks by experience. User tasks and associated metrics fo
 
 Non-tasks have also been identified for each key experience and are mapped in this [spreadsheet](URL).
 
-This table summarizes how we've defined *user tasks* and *non-tasks*.
+This table summarizes how we've defined **user tasks** and **non-tasks**.
 
 | Type | What to measure | Sample metrics | Notes | 
 |--------------|-------------|--------------|-------------|
