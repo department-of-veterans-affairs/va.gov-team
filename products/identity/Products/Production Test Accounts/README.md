@@ -1,4 +1,4 @@
-# WIP Pending Further Research and Validation 
+# WIP pending further research and validation to determine if a technical replacement solution is needed
 # Product Brief: MVP for Production Test Accounts Using Verified Modern Credentials
 **
 **Author:** Lainey Trahan
@@ -9,7 +9,7 @@
 
 ## Problem Statement
 
-With the scheduled deprecation of MHV credentials in **October 2025 (now October 2026)**, VA.gov and mobile teams face a critical gap in their ability to safely test Veteran-facing features in the production environment. Current PTAs tied to MHV are insecure, lack traceability, and cannot be easily revoked. We must deliver an MVP that enables **VA employees and contractors to access PTAs using modern, verified credentials**—ensuring secure, accountable, and reliable test access in production.
+With the scheduled deprecation of MHV credentials in **October 2025 (now October 2026)**, VA.gov and mobile teams face a critical gap in their ability to safely validate Veteran-facing features are working as intended in the production environment. Current PTAs tied to MHV are insecure, lack traceability, and cannot be easily revoked. **If an alternative solution for production test accounts is proven to be a necessity**, we will deliver the MVP of a solution that enables **VA employees and contractors to access production test accounts using modern, verified credentials**—ensuring secure, accountable, and reliable test access in production. 
 
 ## Why Identity
 
