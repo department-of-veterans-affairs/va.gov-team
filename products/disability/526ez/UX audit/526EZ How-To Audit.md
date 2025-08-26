@@ -164,6 +164,7 @@ In order to test, testers need to access the form in Staging.
 The Audit Tracker will allow us to track which parts of the form, devices, and environments have been tested. 
 - On the [Audit Tracker Spreadsheet](https://docs.google.com/spreadsheets/d/1Y_JOzPltc_3Rb4OhdGTTCHPArLJpk12RpgkoJ2vxcMc/edit?gid=901203816#gid=901203816), write descriptions of your findings and provide screenshots on the tab that corresponds to the step you chose to audit.
 - In order to prevent ticket duplicates, you will not create tickets for your findings. PMs and POs will refine the spreadsheet and transition findings into tickets.
+- Note that you may find UX issues that are **global** (impacting the form throughout), **interrelated** (one issue or potential solution may impact another issue or potential solution), or that you have **questions** ("What is the intention or tradeoff behind this feature/flow?"). If this is the case, log these on the last tab of the Audit Tracker Spreadsheet titled: [Broader / Interrelated Issues](https://docs.google.com/spreadsheets/d/1Y_JOzPltc_3Rb4OhdGTTCHPArLJpk12RpgkoJ2vxcMc/edit?gid=1375951836#gid=1375951836). 
 
 ### 💬 7. Discuss findings with other auditors, PMs, POs
 Towards the end of each sprint, we'll discuss findings across the group so that we can surface broader or interrelated UX issues and bugs. 
