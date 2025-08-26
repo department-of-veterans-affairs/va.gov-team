@@ -78,7 +78,7 @@ Remote, moderated, one-hour, semi-structured interviews and usability testing wi
 Most participants (P1, P2, P5, P11, P12, P14, P15) signed in first before looking for benefit letters. Navigation methods varied significantly: keyword search (P1), dropdown menu (P11), top pages/Records section (P5, P12, P14), and search functionality (P14).
 * "I would keyword search for benefit letters.” -P1
 * “I normally search for it. I'd type 'document letter' or the specific name of the letter.” -P7
-* P15 found the dropdown menu confusing: "When it said just 'letters,' that didn't make sense to me...what kind of letters?"
+* P15 found the dropdown menu confusing: "When it said just 'letters,' that didn't make sense to me...what kind of letters?" <img width="400" alt="dropdown showing letters" src="https://github.com/user-attachments/assets/65fc3240-be12-4822-af2c-4484abbc96aa" />
 
 #### Finding 2: Documents with similar names, like the "Benefit Summary and Verification Letter" and the "Benefit Verification Letter," confuse Veterans and make them download a few documents to find the right one
 6 out of 11 participants (55%) were confused by the similarly named documents "Benefit Summary and Service Verification Letter" and "Benefit Verification Letter."
@@ -183,28 +183,22 @@ Based on the research findings, here is a prioritized plan for improving the ben
 ## Appendix
 
 ### Research documents
-- [Product Outline](link here)
-- [Research plan](link here)
-- [Conversation guide](link here)
+- [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/benefit-letters/2025-06-design-intent.md)
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/benefit-letters/research/2025-06-Your-VA-benefit-letters-and-documents/research-plan.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/benefit-letters/research/2025-06-Your-VA-benefit-letters-and-documents/conversation-guide.md)
 - [Interview transcripts](link here)
-
-### Tools used for Synthesis
-
-*List tools or techniques used, e.g., Mural, affinity mapping.*  
+ 
   
 ### Pages and applications used
 
-*Link to prototypes or pages tested during the study.*  
+- [Download VA benefit letters on Staging](https://staging.va.gov/records/download-va-letters/)
+
 
 
 ### Other supporting documents created
 
-*Include links to additional materials, e.g., personas, user flows.*  
+- [Figma](https://www.figma.com/design/61I2UcRPJDXdw0xCl9BlEe/Your-VA-benefit-letters-and-documents?node-id=3696-6535&t=qEEEXmFH86iEvuY4-1)
 
-
-### Secondary research
-
-*Include any relevant secondary research, e.g., web analytics, SME interviews.*  
 
 ### Research participants 
 _Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
@@ -224,10 +218,10 @@ Gender:
 * Female: 2 
 
 Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
+* Desktop: 8 
+* Tablet: 1 
+* Smart phone: 2 
+* Assistive Technology: 5
 
 
 Age:
