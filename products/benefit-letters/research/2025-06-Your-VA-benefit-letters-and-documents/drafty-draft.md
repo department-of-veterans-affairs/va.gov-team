@@ -126,7 +126,7 @@ Speechify and similar commercial TTS tools had significant compatibility problem
 * *P7 noted Speechify required highlighting section by section to read pages logically*.
 * *Commercial TTS tools missed interactive elements and critical alerts*.
 
-### Some Veterans were confused about hoe to get back to the benefit letters page after viewing PDF letter in new tab
+### Some Veterans were confused about how to get back to the benefit letters page after viewing PDF letter in new tab
 Veterans expected PDF behavior patterns from other websites, affecting navigation when PDFs opened in the same tabs.
 * *P15: "Got stuck trying to get back to the previous page. Was unsure how to go back to the previous tab.”*
 * *Multiple participants struggled with PDF navigation back to the letters page*.
