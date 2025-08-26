@@ -25,18 +25,24 @@ Items needed from each VFS team:
 
 ### AWS Resources
 - List AWS services used
+   - AWS EKS, as deployed through VFS ArgoCD
+   - AWS S3
 - Describe named instances of each service used
 - Which of your resources handle PII? List the types of PII
 - Do you utilize any other cloud resources beyond VA.gov?
+   - VA Datadog (vagov.ddog-gov.com), VA GitHub (github.com/department-of-veterans-affairs), DSVA Slack, VFS ArgoCD.
 
 ### Repos
 - List repos maintained by your team, provide links
+  - [Contention Classification API](https://github.com/department-of-veterans-affairs/contention-classification-api/)
+  - We maintain additional repos that hold documentation and do not contribute artifacts for deployments. 
 - List repos used by your team, provide links
 - Do you have a POC for each repo? Please list – Individuals are preferred, but groups are acceptable
 - List other groups you know use your repos
 
 ### Tools
 - List CI/CD or Infrastructure as Code tools
+  - GitHub Actions; VFS Jenkins; Terraform (used by our products, however we are not the maintainers)
 - Describe where each tool is hosted and if they handle PII
 - List software included in deployment or generate SBOM
 - List all packages/plugins/modules/gems/etc. Include version numbers
