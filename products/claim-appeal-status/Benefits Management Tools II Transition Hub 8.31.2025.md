@@ -244,7 +244,7 @@ Below are the initiatives worked on during the contract, with links to their res
 
 ## 4. Payments History – Suppressed 3rd Party Payments
 
-[First and Third Party Evidence Requests – Suppression](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Evidence%20Requests%20Alterations.md)
+[Payment History Suppressions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/payment-history/payment-history-suppressions.md)
 
 ## 5. Pension Claims Modernization (8-Step Workflow)
 
