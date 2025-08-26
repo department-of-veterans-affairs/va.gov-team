@@ -95,6 +95,7 @@ O1: VA’s digital experiences are the easiest and most efficient way to access 
 |8/18/2025| Mobile **does not** need to account for the Chapter 33 alert. | The FM team expressed in a Slack thread (on the FM team's Slack channel) that they are going to be removing the Chapter 33 alert from VA,gov, since this was a temporary alert.|
 |8/18/2025| Removed the "feedback-to-vet" label during UX refinement. | During UX refinement, Michelle provided approval for the team to move forward with "rework overpayments pay online info and Move or rename PDF statements. These are now items in the UX backlog that can be picked up to work on.|
 |8/18/2025| Engineers can begin working on providing the Governance team with the data that will be cached for the overpayment/copayment initiative. | During Natalie // Michelle 1:1, Michelle provided approval for engineers to move forward on this effort and to remove the "feedback-to-vet" label.|
+|8/26/2025| We will include accordions in our design. | During the MFS//Core Mobile UX sync, it was decided that we should use accordions in our feature design since mobile and web are different. This decision overrides the decision on 8/12 to "Minimize use of axcordions".|
 
 ## Reference Materials
 
