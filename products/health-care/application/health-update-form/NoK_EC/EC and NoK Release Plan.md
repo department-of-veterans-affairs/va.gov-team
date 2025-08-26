@@ -22,20 +22,19 @@ Before enabling your feature toggle in production, you'll need to:
 
 - [x] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
   - [x] [ec-nok-v1-v2-test-results.pdf](https://github.com/user-attachments/files/21188726/ec-nok-v1-v2-test-results.pdf) - initial testing 
-  - [ ] **Link retest **
 - [x] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
 - [x] Work any downstream or dependent systems proactively to ensure that the feature is ready for use once it hits production.
    - [x] Confirm with Joshua Faulkner and team on End to End testing
-   - [ ] Link to confirmation of successful transmission/processing
+   - [x] [Link to confirmation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/health-update-form/NoK_EC/UAT%20Results%20-%20VES%20VA.gov%201010EZR%20PVT%20Short%20Tar-8-22-25.pdf) of successful transmission/processing
 - [x] Ensure product guide has been updated and sent for review (approval prior to launch is ideal)
    - [Ticket #114731](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114731)
-- [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
+- [x] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
   - [x] review the plan with your DEPO/OCTO representative.
-     - [ ] First meeting 7/16 received approval
-     - [ ] Second approval **DATE**
+     - [s] First meeting 7/16 received approval
+     - [x] Second approval 08/25/2025
   - [x] review the release plan with your team.
-    - [ ] initial review 7/16
-    - [ ] second review **Date**
+    - [x] initial review 7/16
+    - [x] second review 08/26/2025
 
 ## Step 3: Production rollout
 
@@ -48,7 +47,7 @@ Before enabling your feature toggle in production, you'll need to:
 #### Planning
 
 - Desired date range or test duration:
-     - 3 days - 7/16/25-7/18/25
+     - 7/16/25-7/18/25, 8/22/2025
 - Desired number of users:
      - 1-3 participants
 - How you'll recruit the right production test users:
@@ -84,6 +83,17 @@ Before enabling your feature toggle in production, you'll need to:
   - For participant 1, their EC/NoK data was updated correctly there were no issues
   - For participant 2, their EC/NoK data was updated, but the corresponding EZR form was not received by VES.
 
+#### Results of Round 3 (8/22/25 - 8/22/25)
+
+- Number of users:
+     - 2
+- Number of bugs identified / fixed:
+     - None 
+- Was any downstream service affected by the change?:
+     - No
+- Any changes necessary based on the logs, feedback on user challenges, or VA challenges?
+     - None
+
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
 
 We recommend that the rollout plan has five stages, each increasing the number of Veterans. This plan is a strongly recommended guideline but should only be deviated for precise reasons.
@@ -91,9 +101,9 @@ We recommend that the rollout plan has five stages, each increasing the number o
 #### Rollout Planning
 
 - Desired date range:
-     - ~~7/21/25-7/22/2025~~
+     - 8/26/2025 - 9/5/2025
 - How will you make the product available in production while limiting the number of users who can find/access it:
-     - Feature Toggle limiting 10% of traffic to the application
+     - Feature Toggle limiting traffic to the application
 - What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: 
 
 ### Objective: Provide an effortless online experience for Veterans to update their information for health care benefits
@@ -123,10 +133,10 @@ Errors | 0 errors| TBD| TBD|
 #### Planning
 
 - Length of time:
-     - ~~2 days - 7/21-22/2025~~
+     - 8/26/2025
 - Percentage of Users (and roughly how many users do you expect this to be):
-     - 10% of authenticated Veterans
-     - About 16 submissions per day
+     - 5% of authenticated Veterans
+     - About 8 submissions per day
 
 #### Results
 
@@ -143,7 +153,7 @@ Errors | 0 errors| TBD| TBD|
 #### Planning
 
 - Length of time:
-     - ~~**5 days - 7/23-27/2025**~~
+     - 8/27/2025 - 8/28/2025
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 25% of authenticated Veterans
      - about 41 submissions per day
@@ -164,7 +174,7 @@ Errors | 0 errors| TBD| TBD|
 #### Planning
 
 - Length of time:
-     - ~~**2 days - 7/28-29/2025**~~
+     - 8/29/2025 - 9/2/2025
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 75% of authenticated Veterans
      - about 124 submissions per day
@@ -182,7 +192,7 @@ Errors | 0 errors| TBD| TBD|
 #### Planning
 
 - Length of time:
-     - ~~**7/30/2025**~~
+     - 9/2/2025
 - Percentage of Users (and roughly how many users do you expect this to be):
      - 100% of authenticated Veterans
      - about 1,000 per week
