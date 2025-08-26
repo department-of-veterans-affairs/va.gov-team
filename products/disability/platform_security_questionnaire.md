@@ -8,7 +8,7 @@ From the kickoff meeting invitation:
 
 ## Questionnaire
 
-Items needed from each VFS team:
+VFS team: Disability Benefits Crew
 
 ### POC
 - What is the name of your product(s)/system(s)? 
