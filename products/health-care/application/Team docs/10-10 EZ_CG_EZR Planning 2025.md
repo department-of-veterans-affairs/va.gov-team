@@ -28,8 +28,8 @@
 ## 
 ### 10-10CG
 
-#### Obj: N/A
-- N/A
+#### Obj: TBD
+- #TBD - [BE] Testing support for MuleSoft runtime versino upgrade (08/28/2025)
 
 
 ## 
