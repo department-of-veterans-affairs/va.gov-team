@@ -48,7 +48,7 @@ Follow the [VA Design System](https://design.va.gov/) for URL, breadcrumb, and p
 
 **1) VET TEC 2.0 (high-tech program) - New - Created by OCTO**
 - URL: va.gov/education/other-va-education-benefits/vet-tec-2/
-- Breadcrumb: VA.gov home > Education and training > Other VA education benefits > VET TEC 2.0 (high-tech program 
+- Breadcrumb: VA.gov home > Education and training > Other VA education benefits > VET TEC 2.0 (high-tech program) 
 - Browser title: [H1 of introduction page in title case] | Veterans Affairs
     - Example: VET TEC 2.0 (High-tech Program) | Veterans Affairs
     - Notes: OCTO will create and publish this page as it lives in Drupal.
