@@ -10,7 +10,7 @@
 
 | Name/Label | resource.property |
 | ---------- | ----------------- |
-| name |
-| prescription number |
-| last filled |
-| refills left |
+| name | `prescriptionName` |
+| prescription number | `prescriptionNumber` |
+| last filled | `sortedDispensedDate` |
+| refills left | `refillRemaining` |

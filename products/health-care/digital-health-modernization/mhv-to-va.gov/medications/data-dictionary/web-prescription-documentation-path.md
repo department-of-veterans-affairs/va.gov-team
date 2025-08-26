@@ -8,3 +8,5 @@
 ## Medications on VA.gov | PrescriptionDetailsDocumentation Component
 
 [source code](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/mhv-medications/containers/PrescriptionDetailsDocumentation.jsx)
+
+The documentation API endpoint returns HTML content that is inserted into the page.

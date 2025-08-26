@@ -12,7 +12,7 @@
 | ---------- | ------------ | ----------------- |
 | name | `prescription-name` | `rx?.prescriptionName` or `rx?.orderableItem` |
 | documented on | `rx-last-filled-date` | `prescription?.orderedDate` |
-| last filled | `rx-last-filled-date` | `prescription.sortedDispensedDate` |
+| last filled | `rx-last-filled-date` | [`prescription.sortedDispensedDate`](https://github.com/department-of-veterans-affairs/vets-api/blob/master/app/models/prescription_details.rb) |
 | prescription number | `prescription-number` | `prescription.prescriptionNumber` |
 | status | `status` | `prescription.dispStatus` |
 | refills left | `refills-left` | `prescription.refillRemaining` |

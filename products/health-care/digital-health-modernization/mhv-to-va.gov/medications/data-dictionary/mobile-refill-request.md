@@ -8,3 +8,5 @@
 
 | Name/Label | resource.property |
 | ---------- | ----------------- |
+| name | `prescriptionName` |
+| rx # | `prescriptionNumber` |
