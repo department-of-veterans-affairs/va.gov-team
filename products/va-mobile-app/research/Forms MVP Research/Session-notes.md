@@ -1694,7 +1694,121 @@ Wanted to make sure Veterans with accessibility issues/ visibility issues are ab
 
 ### per researcher:
 
-Pending
+Android samsung galaxy 
+Chrome is the default browser
+
+Yes has filled out a VA form before
+1:13” The most recent form I actually filled out was I was trying to apply for burial benefits. It was pretty easy to navigate for me so I didn’t have to run into any issues. I did have to stop, but of course when I went and logged back in I was able to continue where I left off.”
+
+Uses the VA mobile app for
+1:56 “I use it to connect to Va.gov for I know they changed my health e vet.
+Check in for latest appointment.
+Check appointments
+Benefit claim 
+
+“I use it when i’m not at a laptop, I don’t have access. I use it in that way.”
+2:32 “I used it for the first time for travel reimbursement, that was interesting. Because I’ve never done it that way before.”
+
+Had difficulty sharing her screen with us. “I’m trying to do this without messing anything up so bare with me…”
+
+Email to download the testing environment comes from VA:Health and Benefits subject “Confirm your email to test V…” Firebase App Distribution…
+
+Instead of finding Developer settings under General had to go to about > play store version> update play store version x7> have to close and reopen again > Settings > General > Developer options (now visible) > Internal app sharing toggle on
+
+Had to uninstall and reinstall to get the correct version due to already having the VAHB app on their phone.
+
+I’m sort of tech savvy but not really so bare with me.”
+User had a custom keyboard design (red letters with image of cat behind entire keyboard)
+
+*Note it took us 12 mins to get ready to start the test (including intro questions and downloading the testing app).
+
+User has light mode.
+
+#### Re: Finding forms in the app
+Would expect to find this under ‘Claims’, directed her to ‘Go to my forms’
+Codespace screen is tiny and had to zoom in to read.
+
+#### Re: Screen 1
+User 13:58 “If you want to submit more than one statement you have to do this each time is what I’m understanding. You need to do a form for each statement.”
+
+#### Re: Screen 2
+Would select option hmmmm…. Ummmmm… reviewed options multiple time would choose ‘I want to provide context and details about a claim.”
+
+Prompted user to select ‘What I want to do isn’t listed here.”
+
+#### Re: Form entry
+User did not enter dashes on the SSN, and had to count #s before entering to ensure it was right.
+
+Any issues so far?
+NO
+
+ANything hard to navigate or understand?
+No
+
+#### Re: Leaving form
+User asked if they should click ‘Finish application later?”
+Prompted them to select the ‘Done’ in the top left corner to return to the app from the web view
+
+#### Re: Continuing back to the form
+User did dismiss toast quickly, it was blocking her view of the page.
+
+User noted it told her I have 30 days left to submit and that is good.
+
+Annoying how tiny the github acceptance page was.
+
+“Oh, ok it took me back to where I stopped actually. Ok, cool.”
+
+User wanted to correct capitalization
+
+#### Re: Form completion
+User did not enter dashes when typing in the phone number
+Users keyboard was stuck on numbers when trying to type in the email field and user could not switch to letters. Had to leave the field, scrolled up on the page, reengaged the field and then her keyboard would display letters instead of numbers. 
+
+Wrote a very short statement.
+
+User did not expand sections to review data entries before writing the name. 
+
+Liked that you could print it. 
+
+Saw the steps under What to expect and the question section on the confirmation page.
+
+Had a question about printing it. Didn’t know how to save the confirmation number. If she can’t print from her phone she didn’t know how to save it. Wanted to know if she would get a confirmation number by email. 
+
+In case I was doing this and I wasn’t at home or incase someone didn’t have access to a printer.
+
+Anything hard to navigate or understand?
+No, just the github codespace accept page
+Pretty self-explanatory directions “We know how to use it.”
+
+Labels
+“I didn’t find any labels confusing, no I did not.”
+
+#### Re: Navigate back tot he app
+Scrolled down on the page before seeing the ‘Done’ page, then also clicked the back button and ended up on the homepage again. Realized she went too far back and clicked on ‘Go to my forms’ again to get back to the forms page within the app.
+
+User knew the form had been submitted because
+“It tells me it was submitted on date and tells me it was in progress.”
+
+Status in progress means to her
+24:15 “If I was looking at it, I would say ok I know they got it, it was submitted. And its in the process, as far as being looked at and reviewed. Well not in review, because it hasn’t been reviewed. I would say its in progress and is waiting to be reviewed.”
+
+Would expect to see later
+24:40 “I would hope to see some progress, like I noticed it said up to 30 days. I would think that if I came back in a couple weeks or so I would hope it would say in review, or something like that.”
+
+To exit the VA app it took her a bit to get back to the zoom app.
+
+Searching for apps on the phone was difficult for this user. 
+
+Found the process overall
+30:05 “I found this process pretty easy, although of course, ya’ll had to sort of guide me on how to do the testing, but if I was just doing this just myself logging in… pretty easy for me, pretty self-explanatory. I didn’t run into any issues. I just think that if I was someone who wasn’t tech savvy, I’m not that tech savvy anyways, but for someone who maybe doesn’t know what they were doing there could be issues. You would have to get help.”
+
+Any part frustrating or mentally tiring? 
+30:40 “No the questions were pretty simple to answer, you’re basically asking for the information.”
+30:48 “Even explaining which form to choose if you need to add more information, those may be some questions if you’re not really familiar with doing a VA forms, like you may need to ask somebody for help, like what do you mean by additional buddy statement, some people may not know what that means.”
+31:14 “I mean for somebody that may not know that terminology, having a little glossary, a little snippet of information next to it maybe click on what is a buddy statement for somebody who many not necessarily know what that is.”
+
+I have issues when I’m on a small screen and I’m wearing glasses. 
+
 
 ## P12
 
