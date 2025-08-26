@@ -1,5 +1,5 @@
 # IA Design for High technology education courses (VET TEC 2.0) -- VA form 22-10297 
-**STATUS: Complete; Updated 8/8/25**
+**STATUS: Complete; Updated 8/26/25**
 
 **Team:** VEBT
 
@@ -46,22 +46,22 @@ Follow the [VA Design System](https://design.va.gov/) for URL, breadcrumb, and p
 - [Breadcrumbs](https://design.va.gov/components/breadcrumbs)
 - [Title tags](https://design.va.gov/content-style-guide/title-tags)
 
-**1) High technology education courses (VET TEC 2.0) - New - Created by OCTO**
-- URL: va.gov/education/other-va-education-benefits/high-technology-education-courses-vet-tec-2/
-- Breadcrumb: VA.gov home > Education and training > Other VA education benefits > High technology education courses (VET TEC 2.0) 
+**1) VET TEC 2.0 (high-tech program) - New - Created by OCTO**
+- URL: va.gov/education/other-va-education-benefits/vet-tec-2/
+- Breadcrumb: VA.gov home > Education and training > Other VA education benefits > VET TEC 2.0 (high-tech program 
 - Browser title: [H1 of introduction page in title case] | Veterans Affairs
-    - Example: High Technology Education Courses (VET TEC 2.0) | Veterans Affairs
+    - Example: VET TEC 2.0 (High-tech Program) | Veterans Affairs
     -Notes: OCTO will create and publish this page as it lives in Drupal.
 
-**2) Apply for High technology education courses (VET TEC 2.0) - New - Canonical URL for form**
-- URL: va.gov/education/other-va-education-benefits/high-technology-education-courses-vet-tec-2/apply-for-program-form-22-10297/
+**2) Apply for VET TEC 2.0 - New - Canonical URL for form**
+- URL: va.gov/education/other-va-education-benefits/vet-tec-2/apply-for-program-form-22-10297/
   - This is the canonical URL for the form and what will appear in search results.
   - All referring links should have this URL as the destination.
   - Once this URL renders, form logic should redirect the visitor to the first page within the form flow - per standards this is generally /introduction  
-- H1 heading: Apply for high technology education courses (VET TEC 2.0)
-- Breadcrumb: VA.gov home > Education and training > Other VA education benefits > High technology education courses (VET TEC 2.0) > Apply for high technology education courses (VET TEC 2.0)
+- H1 heading: Apply for VET TEC 2.0 (high-tech program)
+- Breadcrumb: VA.gov home > Education and training > Other VA education benefits > VET TEC 2.0 (high-tech program) > Apply for VET TEC 2.0
 - Browser title: [H1 of introduction page in title case] | Veterans Affairs
-    - Example based on H1 in Figma: Apply for High Technology Education Courses (VET TEC 2.0) | Veterans Affairs
+    - Example based on H1 in Figma: Apply for VET TEC 2.0 (High-tech Program) | Veterans Affairs
 
 **3) About VA form 22-10297 - New - Created by OCTO**
 - URL: va.gov/find-forms/about-form-22-10297/
@@ -71,9 +71,9 @@ Follow the [VA Design System](https://design.va.gov/) for URL, breadcrumb, and p
 **Structuring URLs for individual pages within the form flows**
 - All pages within form flows will exist as child pages of the core/canonical URL.
   - Examples:
-      - va.gov/education/other-va-education-benefits/high-technology-education-courses-vet-tec-2/apply-for-program-form-22-10297/introduction/
-      - va.gov/education/other-va-education-benefits/high-technology-education-courses-vet-tec-2/apply-for-program-form-22-10297/review-and-submit/
-      - va.gov/education/other-va-education-benefits/high-technology-education-courses-vet-tec-2/apply-for-program-form-22-10297/confirmation/
+      - va.gov/education/other-va-education-benefits/vet-tec-2/apply-for-program-form-22-10297/introduction/
+      - va.gov/education/other-va-education-benefits/vet-tec-2/apply-for-program-form-22-10297/review-and-submit/
+      - va.gov/education/other-va-education-benefits/vet-tec-2/apply-for-program-form-22-10297/confirmation/
   - Please refer to [URL standards for form flows](https://design.va.gov/components/url-standards/#guidelines-for-urls-in-form-flows) when defining the URLs for these pages.  Reach out to #content-ia-centralized-team with any questions.
 
 
@@ -86,8 +86,8 @@ Teams must launch with at least one entry point that allows site visitors to nav
 
 ### Required entry point(s)
 
-**High technology education courses (VET TEC 2.0)**
-  - URL: va.gov/education/other-va-education-benefits/high-technology-education-courses-vet-tec-2/
+**VET TEC 2.0 (high-tech program)**
+  - URL: va.gov/education/other-va-education-benefits/vet-tec-2/
   - This will be a new unauthenticated page under the Other VA education benefits subsection within the Education benefits hub.
   - Notes:
     - This will be created and published by the OCTO Content and IA team. The page could be published in advance once the program launch date and/or paper form is finalized. It must be published by the time the online form launches. 
@@ -112,8 +112,8 @@ The standard process for redirects can be found on the Platform website.
 
 | Current URL | Redirect to | Notes |
 |----------|----------|----------|
-| va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/apply-for-vettec-form-22-0994/ | va.gov/education/other-va-education-benefits/high-technology-education-courses-vet-tec-2/ | **Product team responsible for requesting and implementing redirect** |
-| va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/ | va.gov/education/other-va-education-benefits/high-technology-education-courses-vet-tec-2/ | **OCTO team responsible for implenting redirect within Drupal** |
+| va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/apply-for-vettec-form-22-0994/ | va.gov/education/other-va-education-benefits/vet-tec-2/ | **Product team responsible for requesting and implementing redirect** |
+| va.gov/education/about-gi-bill-benefits/how-to-use-benefits/vettec-high-tech-program/ | va.gov/education/other-va-education-benefits/vet-tec-2/ | **OCTO team responsible for implenting redirect within Drupal** |
 
 
 ## <a name="launch"></a>Launch coordination <br>
