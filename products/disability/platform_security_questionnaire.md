@@ -6,17 +6,22 @@ From the kickoff meeting invitation:
 > We need to gather and maintain some specific information about your team and its work on and in support of VA.gov.
 
 
-The Disability Benefits Crew covers multiple products. This directory contains responses to the questionnaire for each of the products. 
-
 ## Questionnaire
 
 Items needed from each VFS team:
 
 ### POC
-- What is the name of your product(s)/system(s)?
+- What is the name of your product(s)/system(s)? 
+   - Form 526ez
+   - Form 0781
+   - Form 4142
+   - Contention Classification API
+   - Employee Experience 
 - Describe its purpose in a few sentences.
+   - Contention Classification API: The API maps contention text and diagnostic codes from the Form 526ez submission to contention classification codes as defined in the [Benefits Reference Data API](https://developer.va.gov/explore/api/benefits-reference-data/docs).
 - If you represent multiple products, please describe the relationship between them, if there is any.
 - What is the expected duration of your project? This information helps us understand how our processes need to adapt
+  - Ongoing with regular enhancements. The DBC contract runs through ~March 2028.
 
 ### AWS Resources
 - List AWS services used
