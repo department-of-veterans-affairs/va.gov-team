@@ -20,3 +20,10 @@ Current state of feature flags (as of ~**08/26/25**)
 | fsr_confirmation_email                          | -                 | Doesn't exist in BE toggle definitions. Only FE reference is [in a helper](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/financial-status-report/utils/helpers.js#L24-L25) and not referenced elsewhere |
 | fsr_5655_server_side_transform                  | 1                 | `transform.js` is basically skipped on the FSR and the formData object is sent as is. Has been live for a while now, so we can probably set up deprication soon. Coordinate with BE so they can depricate their old suff too|
 | financial_status_report_expenses_update         | 1                 | Ready to be sunset |
+
+
+## Misc 
+- [Sensitive](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/teams/vsa/teams/benefits-memorials-2) -  Sensitive artifacts like staging review and other product specific stuff
+  - Official type stuff
+- [Public](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/benefits-portfolio/benefits-memorials-2) - Engineering notes and other misc product docs
+  - memes and how-tos
