@@ -1,5 +1,6 @@
-# <WIP Pending Further Research and Validation> Product Brief: MVP for Production Test Accounts Using Verified Modern Credentials
-
+# WIP Pending Further Research and Validation 
+# Product Brief: MVP for Production Test Accounts Using Verified Modern Credentials
+**
 **Author:** Lainey Trahan
 **Date:** July 22, 2025  
 **Initiative:** Replace Production Test Accounts (PTAs) that rely on MHV credentials with a secure alternative using verified modern credentials (Login.gov or ID.me) so that teams can validate their products are working in production **as intended for Veterans**.
