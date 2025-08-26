@@ -57,7 +57,7 @@ sequenceDiagram
 ``` mermaid
 sequenceDiagram
     participant U as User
-    participant F as Scheduling Form(vets-website)
+    participant F as VASS Application(vets-website)
     participant V as vets-api
     
     participant M as MPI
