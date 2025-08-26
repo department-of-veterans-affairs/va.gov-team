@@ -21,7 +21,7 @@ Items needed from each VFS team:
    - Contention Classification API: The API maps contention text and diagnostic codes from the Form 526ez submission to contention classification codes as defined in the [Benefits Reference Data API](https://developer.va.gov/explore/api/benefits-reference-data/docs).
 - If you represent multiple products, please describe the relationship between them, if there is any.
 - What is the expected duration of your project? This information helps us understand how our processes need to adapt
-  - Ongoing with regular enhancements. The DBC contract runs through ~March 2028.
+  - Ongoing with regular enhancements. The contract runs through ~March 2028.
 
 ### AWS Resources
 - List AWS services used
