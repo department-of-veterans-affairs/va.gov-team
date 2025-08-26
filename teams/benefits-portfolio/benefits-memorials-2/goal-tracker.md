@@ -123,6 +123,27 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 - [ ] All goals have been updated in the sprint chart
 - [ ] Any Additional details about goals **not** completed will be documented here
 
+## Sprint Goals - Sprint: 16 [8/27/25 - 9/9/25]  
+| Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
+|--|--|--|--|--|
+|UX: Update pay.gov overpayment designs after receiving stakeholder feedback.| QP4 |--|--|--|
+|UX: Create designs to improve readability of payment history pages with lengthy statements by adding a pagination component. | QP3 |--|--|--|
+|ENG: In accordance with Platform updates, address imposter components related to continue and back buttons.| QP7 |--|--|--|
+|ENG: Finalize remaining artifacts for One Thing Per Page Staging Review:  QA Artifacts, Release Plan, and Playbook.| QP2 |--|--|--|
+|ENG: Prepare to submit 3 payment history PR’s for Platform approval (without merging) in preparation for Lighthouse API credentials.| QP3 |--|--|--|
+
+**_Approvals:_** _(sent via email but approvals tracked here)_
+ - [X] Ready to be sent for approvals (08/26/25)
+ - [X] VA PO & COR sent the Sprint Goals (08/26/25)
+ - [ ] VA PO approved the Sprint Goals (08/XX/25)
+ - [ ] VA COR approved the Sprint Goals (08/XX/25)
+ 
+**_Delivery + Notes:_**
+- [ ] All goals have been updated in the sprint chart
+- [ ] Any Additional details about goals **not** completed will be documented here
+
+
+
 ---
 
 ## Quarterly Priorities for FY25Q3 (Apr, May, Jun 2025)  
