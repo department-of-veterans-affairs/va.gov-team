@@ -1,5 +1,66 @@
 # Running Design and Research Agenda
 
+## August 25 2025
+Attendees: Renata Keck, Rachel Pope, Jamie Fiore, Amanda Klausmeier, Premal Shah, Mike Mooney, Andrea Merrill, Hieu Vo, Alyssa Li
+
+### Agenda
+- Review UX Now/Next/Later
+- Post-study and post-CHAMPVA offsite CHAMPVA claims resubmission flow updates
+- Sendback letter content recommendations (Amanda)
+- CHAMVPA is open IVC suggestions on the sendback letter content. UX can pull out notes from Claims Study to help inform content changes.
+- 1010d/OHI Merge - communicating submission of both forms (Amanda)
+- FMP Claims Direct Deposit changes re: leveraging Travel Pay Direct Deposit setup
+- Decide what [pattern](https://dsva.slack.com/archives/C068Q9DQACX/p1755880832560749?thread_ts=1754937855.966879&cid=C068Q9DQACX) to follow for updated backlog estimate (Andrea)
+- MyVA ChampVA submission statuses mockups (Alyssa)
+  ### Notes
+  * UX Roadmap
+    * In progress: laying out the claims flow with both LLM and resubmissions in one figma page
+    * In progress: 1010D merge findings reports almost ready to the share out
+    * In progress: duplicate submissions content is with C/IA
+    * In progress: Figma, Github, Mural reorganization work
+    * In progress: Medallia report
+    * Coming up next: FMP direct deposit
+    * No questions from the team on these 
+* Post-study and post-CHAMPVA offsite CHAMPVA claims resubmission flow updates
+    * UX presented 3 iterations which we can start with the low lift and frame up the other solutions for the next team. 
+      * 1. Low lift: Content solutions on the upload page to ask specifically for the sendback and missing information. (don't need to induce other docs that were sent back in the packet) Removing claim type/ provider detail screens
+       * 2. Mid lift: Have dedicated sendback and EOB upload pages to better ensure we are capturing those documents.  
+       * 3. High Lift: AI solution that tells the user what document they scanned in (Sendback, EOB and wrong document) AI will also fill in the claim ID number in the field and select the doc type with the ability for the user to edit if needed. 
+    * Amanda likes the separate upload screen or the send letter. She wants to make improvements to send back letters before we tackle the AI approach.
+    * Renata voiced concern with removing provider and date of service details. What happens if a user fails both the Claims ID data entry and the sendback/EOB upload?
+    * Are we also requiring the EOB letter? > Amanda says yes
+    * Do we want to go right to iteration 2 with a small delay? Will most likely need to put in a C/IA ticket. 
+    * **Decision:** we decided to pursue iteration 2 right away and skip the first lower lift iteration. 
+    * **Action Item:** UX to mockup this experience before our meeting with C/IA on Thursday.   
+* Sendback letter content recommendations (Amanda)
+From Amanda: Suggest to CHAMPVA to remove the date from the PDI on the letter
+* CHAMVPA is open IVC suggestions on the sendback letter content. UX can pull out notes from Claims Study to help inform content changes. 
+    * Angela sent Amanda sendback letter templates.Where can we save these for a team to look at and make suggestions? \
+**Action Item:** Save Sendback letter templates to Sharepoint so C/IA can easily copy and edit text.
+* 1010d/OHI Merge - communicating submission of both forms (Amanda)
+    * Should we add more content about the the OHI form to be more apparent that there are 2 forms
+    * The Staging site has both forms in the header form the start of the forms
+    * Figma and current pattern for merged form does not have the OHI form in the header until they get to the OHI form in the flow
+    * Can we have to separate emails for users who completed the OHI. Adjusting the email is lower priority
+    * **Action Item:** Jamie: ping C/IA and Ask for their input if having OHI in the Header through the form vs having it show only on the OHI section Copy Amanda and ALyssa on the message. It may impact the Health Status tool that Aylssa is working on 
+
+* FMP Claims Direct Deposit changes re: leveraging Travel Pay Direct Deposit setup
+    * (Mike) Wants to coordinate patterns and iterations with the Travel Pay team for Direct Deposit.
+    * UX can look at the Travel Pay figma and ask questions we may have in their Slack. 
+
+* Decide what [pattern](https://dsva.slack.com/archives/C068Q9DQACX/p1755880832560749?thread_ts=1754937855.966879&cid=C068Q9DQACX) to follow for updated backlog estimate (Andrea)
+    * Amanda wants to be as transparent with users as possible. 
+**Decision: **We decided to use the [pattern](https://design.va.gov/components/card#number-highlight) with the number highlight on the intro page to let users know how many days the forms are backlogged. We also will update the content on the screener as seen in this [figma](https://www.figma.com/design/Tfhq5h2LwXEeEEtFBAAFOv/CHAMPVA-Claims--10-7959a-?node-id=3715-57509&t=DordDnznXJn87VyO-4). 
+
+* MyVA ChampVA submission statuses mockups (Alyssa)
+    * [Figma File](https://www.figma.com/design/OpAuMgHwnh6BNkKpW3FyqF/CHAMPVA-in-Status-Tool?node-id=204-4582&p=f&t=iAJTecMS8jSbDlNj-0)
+    * Based on the pattern MY VA authenticated experience team is working on.
+    * Where would this fit into My VA?
+    * There are two different submissions: Sync vs async submissions. CHAMPVA uses synced submission but we may still need to use the “Action Needed” status tag to manage silent failures.
+    * Submission status in my VA but actually form submissions are stored in the claims status tool. 
+    * What do we call the merged form? We would like to hear suggestions from C/IA. 
+    * Do you have to name it something different because the standalone form will be replaced with the merged form. From a user perspective the merged form with OHI will seem like a part of the same process (application)
+
 ## August 18 2025
 Attendees: Renata Keck, Rachel Pope, Jamie Fiore, Amanda Klausmeier, Premal Shah, Mike Mooney, Andrea Merrill, Hieu Vo
 
