@@ -1486,7 +1486,81 @@ In-progress status - is not detailed enough wants more information
 
 ### per researcher:
 
-Pending
+Android Motorola PowerG cellphone
+Edge as default web browser
+
+Yes, has filled out a VA form online.
+About experience 1:11 “Uh, I think it went fine. Its pretty much self explanatory. I was able to upload it to VA.”
+
+Yes has used the VA mobile app.
+Uses the app for… 1:38 “Sending messages, sending information. Getting lab reports, medical reports, primarily.”
+
+About experience so far
+1:58 “Ah, pretty good. I don’t think I’ve had a glitch for a little while.”
+
+User may have low connectivity issues or low storage available as the download speed was rather slow for them to download the testing version of the app. Took 3 minutes to download the app on their phone.
+
+User had light mode
+
+#### Re: Finding forms
+Would expect to find this ‘Go to my forms’
+Found easily ‘Start a statement’
+
+#### Re: Screen 1
+Skipped over reading the content and asked if they could move forward with the action button at the bottom.
+Asked the user to read through the text and let me know if they had any questions or thoughts.
+13:49 “Maybe have a little button that says if you have questions or need to submit questions maybe a little link or something.”
+
+#### Re: Screen 2
+User would chose 
+14:20-15:05 (took that amount of time to read options on the screen) 
+15:06 “I would select I have new evidence to submit for an open claim.”
+
+
+Their audio broke up a bit here.
+
+#### Re: Form entry
+Page loaded in chunks (slow loading due to connection maybe?)
+User had no difficulties with typing in the fields.
+User entered dashes, experienced the error and did not try to correct. To enter dashes the user has to change the displayed keyboard on their screen. 
+They counted the numbers entered to ensure they typed it correctly. 
+
+#### Re: Returning to the app
+Should I back up?
+Prompted them to select the done button.
+Any issues? Not yet
+18:40 “No, it was pretty, explained pretty well.”
+
+Found continue form without prompting. 
+
+#### Re: Completing the form
+User did not type in dashes when entering the phone number.
+In provide a statement field entered “This is a test.”
+
+Review and submit page
+User did review the information by expanding each section.
+On confirmation page, the user scrolled down to the what to expect section to view the steps.
+
+Anything hard to navigate or understand?
+24:13 “Not really, the only thing I would say is that to have a little button or something that says if you’re having problems with this here is how you can get more information click here.”
+
+To return to the app the user asked if they should click ‘Done’
+
+#### Re: Form submission 
+Knows the form was submitted because 25:10 “Right in the middle it says Submitted on August 15, 2025. And it says in progress so that is telling me it’s not completed but its in progress.”
+
+Status means “Somebody is working on it hopefully. I guess for some people it might be a little bit clearer if you said in progress maybe it stated, may take up to 30 days if you have an immediate need call this number. I guess that’s a little up and above.”
+
+Expect to see later:
+26:05 “Being able to get back to this page, clicking on that dot, that in progress tab. Going to a screen where I might get an explain of exactly what is happening. In other words, in work forms are needed there’s a problem the exact status.”
+
+Was able to easily close out the app and navigate to the zoom app.
+Found this process overall
+“Pretty good, not really any glitches.”
+
+Frustrating or tiring.
+“Initially getting into zoom, and clicked the link it was loading. That was a little bit frustrating I don’t know if you can work on that.”
+
 
 ## P11
 
