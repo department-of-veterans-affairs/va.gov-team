@@ -445,10 +445,10 @@ On submission, participants expect to see:
 
 This research supports measurement of this KPI by showing that:
 
--  Users prefer the unified digital experience over standalone or paper forms (as reported by 3 current CHAMPVA beneficiaries included in this study).
--  This study also provides qualitative indicators that satisfaction and ease of use are strong enough to encourage wider adoption, especially once known pain points are addressed.
--  Validates that users can complete the merged application without major issues, supporting a push to phase out the standalone forms and paper pathway.
--  Capturing user quotes praising navigation, layout, and document supporting document upload ease.
+-  Participants prefer the unified digital experience over standalone or paper forms (as reported by 3 current CHAMPVA beneficiaries included in this study).
+-  Participants provided qualitative indicators that satisfaction and ease of use are strong enough to encourage wider adoption, especially once known pain points are addressed.
+-  Participants can complete the merged application without major issues, supporting a push to phase out the standalone forms and paper pathway.
+-  Participants praised subform navigation, layout, and were able to upload supporting documents with relative ease, once documented pain points are addressed.
 
 **Objective: Reduce time to submit both CHAMPVA and OHI**
 - **Key result: Measure number of applications completed in single session**
@@ -457,9 +457,9 @@ This research supports measurement of this KPI by showing that:
 
 This research supports measurement of this KPI by:
 
--  Demonstrating that 16 out of 18 participants completed the form in one session, with delays attributed only to technical issues—not user confusion.
--  Users noted that the merged form avoided the need to submit the two forms separately — a time savings even without exact session time comparisons.
--  Several participants commented on fewer clicks and less navigation effort than expected, which they linked to speed of completion.
+-  The majority (16 of 18) participants completed the form in one session, with delays attributed only to technical issues—not user confusion.
+-  Participants noted that the merged form avoided the need to submit the two forms separately — a time savings even without exact session time comparisons.
+-  Participants commented on fewer clicks and less navigation effort than expected, which they linked to speed of completion.
 -  Providing baselines for expected completion rates to measure against real-world metrics post-launch.
 
 **Objective: Faster delivery of benefits for Veterans and their families**
@@ -469,8 +469,8 @@ This research supports measurement of this KPI by:
 
 This research supports measurement of this KPI by:
 
-- 18 of 18 participants understood the documentation categories for applicant and OHI sections, which can reduce delays due to missing evidence.
-- Participants called out that uploading supporting documentation was “a piece of cake” and easier than mailing or faxing, which should reduce the approval team’s document-gathering time.
+- All 18 participants understood the documentation categories for applicant and OHI sections, which can reduce delays due to missing evidence.
+- Uploading supporting documentation was “a piece of cake” and easier than mailing or faxing, which should reduce the approval team’s document-gathering time.
 - Identifying how the digital experience can reduce back-and-forth due to errors in submission (e.g., sponsor/applicant role mix-ups).
 - Helping define form improvements that minimize resubmissions, allowing the approval team to process more efficiently.
 
@@ -514,7 +514,7 @@ This research supports measurement of this KPI by:
 
 * [CHAMPVA service blueprint](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1723309711950/72864bacb39ee1c8cd48f80735b6f6994a72b6ca)
 * [CHAMPVA stakeholder calls](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/research/stakeholders/CHAMPVA-stakeholder-sync.md)
-* * [Supporting documents inventory](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/supporting_docs_inventory.md)
+* [Supporting documents inventory](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/supporting_docs_inventory.md)
 
 ## Who we talked to 
 
