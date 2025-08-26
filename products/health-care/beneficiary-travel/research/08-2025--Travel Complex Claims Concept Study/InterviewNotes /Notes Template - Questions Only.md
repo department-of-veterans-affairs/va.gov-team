@@ -21,6 +21,14 @@
 
 ---
 
+### Questions from: “Trip Info” page
+
+1. Tell me what you are looking at.
+2. What do you think you can do here? What tells you that?
+3. What do you think you need to do here? Why?
+
+---
+
 ### Questions from: “Receipts” page
 
 1. Tell me what you are looking at.
