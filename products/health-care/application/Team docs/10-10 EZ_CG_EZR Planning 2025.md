@@ -29,7 +29,7 @@
 ### 10-10CG
 
 #### Obj: TBD
-- #TBD - [BE] Testing support for MuleSoft runtime versino upgrade (08/28/2025)
+- [#117879](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117879) - [BE] Testing support for MuleSoft runtime versino upgrade (08/28/2025)
 
 
 ## 
