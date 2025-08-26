@@ -46,6 +46,8 @@ This table summarizes how we've defined *user tasks* and *non-tasks*.
 | **User Tasks** | Task success and efficiency | - Task completion rate<br>- Time on task<br>- Error rate<br>- Drop-off rate<br>- Retry attempts | Collect in-app analytics on key flows (e.g. Rx refill, viewing appointments).|
 | **Non-tasks** | User engagement and awareness | - Views<br> - Click-through rate (CTR)<br>- Time on screen <br>- Notification open rate | Focus on passive or content-related interactions. Can serve as leading indicators of task initiation. |
 
+Each table below defines what we should measure for each experience, provides helpful metrics to track, and describes how they can inform decision-making.
+
 <details>
 <summary><h3>Login</h3></summary> 
  
