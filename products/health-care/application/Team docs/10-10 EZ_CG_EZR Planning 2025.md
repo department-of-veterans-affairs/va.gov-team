@@ -55,7 +55,7 @@
 
 #### Obj: [Improvements](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109435)
 - **SPRINT GOAL** [#117590](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117590) - [Design, FE] Update SIP message on Intro screen
-- **Stretch** [#116521](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116521) - [Research] Dental info content research
+- **Stretch** [#116521](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116521) - [Research] Dental info content research (CARRIED)
 
 ##
 ### All Forms
