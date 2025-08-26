@@ -141,31 +141,31 @@ Veterans valued address validation for accuracy despite questioning requirements
 * "I've entered an extra one or a zero by mistake [on other websites] at the end of my address and was glad they caught it...this is nice.” -P14
 * "I want to be careful about the address I want on my letter...my medications might go there, so I need to be careful about that.” -P10
 
-## Findings Beyond Original Research Plan
+### Findings Beyond Original Research Plan
 
-### Veterans confuse benefit letters with claim and decision letters
+#### Veterans confuse benefit letters with claim and decision letters
 Multiple participants (P4, P5, P12) initially confused benefit letters with claims or decision letters, showing broader mental model mismatches.
 * "Mixing up benefit and decision letters initially.” -P5
 * P12 initially navigated to the Claim Status Tool when asked to return to benefit letters.
 
-### Critical Text-to-Speech Compatibility Issues with Speechify
+#### Critical Text-to-Speech Compatibility Issues with Speechify
 Speechify and similar commercial TTS tools had significant compatibility problems beyond traditional screen readers.
 * P7 noted Speechify required highlighting section by section to read pages logically.
 * Commercial TTS tools missed interactive elements and critical alerts.
 
-### Some Veterans were confused about how to get back to the benefit letters page after viewing PDF letter in new tab
+#### Some Veterans were confused about how to get back to the benefit letters page after viewing PDF letter in new tab
 Veterans expected PDF behavior patterns from other websites, affecting navigation when PDFs opened in the same tabs.
 * "Got stuck trying to get back to the previous page. Was unsure how to go back to the previous tab.” -P15
 * Multiple participants struggled with PDF navigation back to the letters page.
 
-### Some Veterans are skeptical about their mailing address getting updated across services
+#### Some Veterans are skeptical about their mailing address getting updated across services
 Veterans expressed skepticism about cross-system functionality.
 * "I see the alert. Do I believe it? I'm more skeptical...If I believed the world was flat [I would believe the alert message].” -P1
 
-### Veterans want a list of available state-specific benefits based on their mailing address
+#### Veterans want a list of available state-specific benefits based on their mailing address
 * "If you could put in this address, then these are benefits you could consider for your area and benefit situation.” -P2
 
-### Veterans like that the page is simple and easy to follow, which makes it easier to use
+#### Veterans like that the page is simple and easy to follow, which makes it easier to use
 * “It's what I expected.” -P2
 * “I really appreciate the brevity and cleanliness of the website overall. It’s so much better than in the past.” -P10
 * “I think it is very direct about what the page is providing and how to get there...I also like that it shows a brief description of what each letter is about.”* -P11
