@@ -22,7 +22,7 @@ The data can tell 2 stories: A story about the user’s experience **(experienti
 * All users do not have access to the same tasks 
 * Tasks are not always available to the users who have access (i.e., I might have access to the appointment feature, but I may not have upcoming appointments to view) 
 
-We have organized user tasks by user flow. User tasks and associated metrics for 14 key flows are mapped in this [spreadsheet](URL).
+We have organized user tasks by experience. User tasks and associated metrics for 17 key experiences are mapped in this [spreadsheet](URL).
 
 ### Non-tasks
 **Non-tasks** are passive, informational, or exploratory interactions not necessarily tied to a concrete goal. Examples:
@@ -37,7 +37,7 @@ We have organized user tasks by user flow. User tasks and associated metrics for
 * Doesn’t always result in a transaction or submission
 * Often serves to inform, guide, or prompt future actions
 
-Non-tasks have also been identified for each key user flow. Non-tasks and associated metrics for 14 key flows are mapped in this [spreadsheet](URL).
+Non-tasks have also been identified for each key experience and are mapped in this [spreadsheet](URL).
 
 | Type | What to measure | Sample metrics | Notes | 
 |--------------|-------------|--------------|-------------|
@@ -332,7 +332,7 @@ Overall platform health can be measured by the platform's speed, availability, r
 |**Adoption** |   |
 |--------------|-------------|
 | **Definition** | New users onboarding to the app |
-| **Helpful metrics** | **Already captured** <br> - New app downloads<br><br> **New metrics** - User segmentation |
+| **Helpful metrics** | **Already captured** <br> - New app downloads<br><br> **New metrics** <br> - User segmentation |
 | **How it informs decision-making** | Understand the overall growth of the app in capturing new users |
 </details>
 
