@@ -1348,7 +1348,74 @@ Mentioned tech savviness is difficult to come by for more mature individuals, bu
 
 ### per researcher:
 
-Pending
+iOS 16
+Default web browser: Believes its Chrome
+
+Has filled out a VA form online before
+1:20 “Probably when they were transitioning over to the ID verification thing. You know, everything wants a different password right? Not only do I do it for myself but I also do it for my husband who is a 76 year old veteran and I had to get it done because its a requirement because he wasn’t going to do it so I had to do it. It was asking for his driver license number and social, I had to go back and forth with that. If I was gone for a certain amount of time it would lock you out and I would have to start over again and go through the whole process.”
+
+Uses the VAHB for the first time for the purpose of downloading for this study. 
+
+Before this test had not used this particular app, at some point maybe a year and a half during covid used the video appointment system for the VA exercise classes, used that app but it was very inconsistent. Sometimes she could get on or sometimes she couldn’t. She more or less stopped because it wasn’t reliable.
+
+#### Re: Find forms 
+“Under claims”
+Titled “Claims (forms, guidance).”
+Was directed to select “Go to my forms”
+
+User utilized dark mode on their phone
+
+#### Re: Screen 1
+“Ok, it’s pretty clear.”
+
+#### Re: Screen 2
+User would select ‘I disagree with VA’s decision on my benefit or claim, and I’d like to request a decision review. In some situations, you can submit new evidence for closed claims.’
+
+Directed her to select ‘What I want to do isn’t listed here.’
+
+#### Re: Form entry
+User had typos entering name, had to correct.
+SSN entry user entered dashes. User saw the SSN error but did not attempt to correct.
+To leave the form and return to the app the user would select “Finish this application later.”
+Directed her to select the ‘Done’ button
+No issues reported so far with form entry fields.
+
+#### Re: Continue form
+User tried to go to tab ‘Active’ despite being there already. And then scrolled on the page a few times to identify the section that said ‘Continue form’.
+
+User was confused by country “united states” prompt, she said “I see the checkbox for I live on a United States military base outside of the U.S. but I don’t see united states elsewhere. Want me to just write it in the blank?”
+
+Phone suggested field entry based on commonly entered information like name, address, and phone number.
+
+Providing the statement the user typed ‘Hi there’
+
+On review page the user did not expand the sections to review if her information was entered correctly. 
+
+After submission the user did not report any problems, thought it was pretty clear.
+
+Found no labels confusing.
+
+#### Re: Navigate back to the general forms location
+User scrolled down on the summary page and paused over the “go to Va.gov homepage.” but then asked where she needed to go back. Had to direct her to select ‘Done’ in the top left corner of her screen.
+
+#### Re: Confirming form submission
+18:14 “On the bottom it says forms updated successfully, it does not indicate that its been submitted but it does say that it’s in progress.”
+
+Status in progress means to her 18:28 “It has not been submitted. IF its in progress I would assume that there is something else that I need to get in there and do.”
+
+Expect to see later “Done, follow up in two weeks or done follow up within a specific time frame or to check the status.”
+
+Had difficulty existing the VA app and returning to her phone. Had difficulty pulling up the apps like zoom app, did not know where it was placed on her phone or how to search with it.
+
+Didn’t know the difference between VA apps utilized previously and the one we tested today.
+
+Found the process overall
+23:36 “It was relatively easy, I, it was a little frustrating when I couldn't go back and forth to do the things that you wanted. I can assume that others would probably, and I’m 72, I would think that others may have some difficulty and frustration and say I’m not going to do that.” 
+24:23 “So I’m still involved in it, and I’ll try. And if you talk me through it I could probably figure my way through it. I think individuals who don’t have that type of networking or avenue for support, I think they would have difficulty.”
+
+Frustrating
+24:47“Only when closing browsers. I was like oh my goodness, like I say tell me how to do this. It’s probably simple things that were outside the norm for me, I never thought to do that, now I know. You know, I do learn from experiences. So, just the maneuvering aspect of it I think is the most convoluted piece for me.”
+
 
 ## P10
 
