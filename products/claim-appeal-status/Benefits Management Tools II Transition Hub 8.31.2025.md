@@ -65,7 +65,6 @@ Once we finish investigating why EVSS is still getting hits (Jane working on thi
 
 [Web GA: (Explore report > CST evidence requests > Funnel - Evidence + 5103 responses)](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/wdstw7U5TR-vGC5L8Xl3ow)
 
-[Collaboration Cycle for [BMTII, Claim Status Tool, Evidence Requests Pattern] #105105](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1513)
 
 **VA Letters and Documents:**
 
@@ -228,6 +227,8 @@ Below are the initiatives worked on during the contract, with links to their res
 [PTSD evidence requests unedited (SharePoint)](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/_layouts/15/Doc.aspx?sourcedoc=%7B12[%E2%80%A6]-evidence-requests.docx&action=default&mobileredirect=true)
 
 [Initiative Brief – Evidence Request Improvements (SharePoint)](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/_layouts/15/Doc.aspx?sourcedoc=%7BEA[%E2%80%A6]est%20improvements.docx&action=default&mobileredirect=true)
+
+[Collaboration Cycle for [BMTII, Claim Status Tool, Evidence Requests Pattern] #105105](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1513)
 
 ## 3. Supplemental Claim (Discovery Phase)
 
