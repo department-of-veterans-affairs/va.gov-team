@@ -142,14 +142,15 @@ For moderated interviews:
 
 ### Recruitment approach
 
-We will work with VA stakeholders including Erika Washburn, Michelle Middaugh, Barbara Kuhn, and Justin Warren, to identify eligible participants from each group. Once identified, VA stakeholders will put CMS team members in touch with eligible participants for scheduling. All Editor recruitment will follow OCTO guidelines and will be documented and managed in SharePoint per internal recruitment procedures.
+We will work with Laura Flannery and VA stakeholders, including Erika Washburn, Michelle Middaugh, Barbara Kuhn, and Beth Potts, to identify eligible participants for each target group. Once identified, VA stakeholders will put CMS team members in touch with eligible participants for scheduling. All Editor recruitment will follow OCTO guidelines and will be documented and managed in SharePoint per internal recruitment procedures.
 
 ### Recruitment criteria
 We will recruit 9–15 Editors, with representation across three key groups to capture a diversity of workflows, content types, and organizational contexts:
 3 Editors from Veterans Affairs Medical Centers (VAMCs) (including Outreach)
 3 Editors from Vet Centers (including Outreach)
 3 Editors from Veterans Benefits Administration (VBA)
-3 Editors from internal teams
+3 Editors from Benefits Hub
+3 Editors from Resources and Support
 
 
 **Participant requirements**
