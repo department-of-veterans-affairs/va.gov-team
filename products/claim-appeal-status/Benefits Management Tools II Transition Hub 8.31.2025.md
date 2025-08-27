@@ -83,11 +83,6 @@ Once we finish investigating why EVSS is still getting hits (Jane working on thi
 
 [Silent Failure Tracker (Official Count)](https://vagov.ddog-gov.com/dashboard/n6c-twn-swr/silent-failure-tracker-official-count?fromUser=false&refresh_mode=sliding&tpl_var_service%5B0%5D=claim-status&from_ts=1755616223224&to_ts=1755789023224&live=true) (DataDog) - not our dashboard, but useful to check on and see if there are silent failures occurring for any of our services.  Watch officers will post about items we own that appear on this dashboard.
 
-Readme update #1: [department-of-veterans-affairs/eventbus-gateway#112](https://github.com/department-of-veterans-affairs/eventbus-gateway/pull/112)
-
-[This is the Directory for our EventBus (Gateway) Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/event-bus-notify)
-
-Uploaded the Venify onboarding instructions to SharePoint (due to the sensitivity of certification access) and added a link to that in the [general documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/event-bus-notify/documentation.md) file in the eventbus gateway folder.
 
 **Design and Research**
 
@@ -291,7 +286,11 @@ The [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team
 
 [Decision Letter Email Metrics](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Benefits%20Management%20-%20CST/BMT%20metrics/Decision%20Letter%20Email%20Metrics.xlsx?d=wb15afdf335a64f0798d4eef2fa457425&csf=1&web=1&e=XDqfij) (SharePoint)
 
+Readme update #1: [department-of-veterans-affairs/eventbus-gateway#112](https://github.com/department-of-veterans-affairs/eventbus-gateway/pull/112)
 
+[This is the Directory for our EventBus (Gateway) Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/claim-appeal-status/event-bus-notify)
+
+Uploaded the Venify onboarding instructions to SharePoint (due to the sensitivity of certification access) and added a link to that in the [general documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/event-bus-notify/documentation.md) file in the eventbus gateway folder.
 ## 📑 Additional Documentation
 
 
