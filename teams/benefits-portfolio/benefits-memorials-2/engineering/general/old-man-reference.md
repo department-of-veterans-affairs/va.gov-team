@@ -1,14 +1,5 @@
 # That one guys notes 
 
-## Cypress
-Do you have failing cypress tests locally in vets-website? Do they pass in CI? Are you adding `{ force: true }` just to try and get to the next page? 
-Well I have the solution for you! Try running the following and then the tests again. 
-```
-rm -rf node_modules
-yarn install
-yarn build
-```
-
 ## Feature flags
 Current state of feature flags (as of ~**08/26/25**)
 | Feature toggles for Financial Management        | Production value  | Notes                  |
@@ -30,9 +21,18 @@ Current state of feature flags (as of ~**08/26/25**)
 | financial_status_report_expenses_update         | 1                 | Ready to be sunset |
 
 
-## Misc 
+--- 
 
-### Documentation
+## Cypress
+Do you have failing cypress tests locally in vets-website? Do they pass in CI? Are you adding `{ force: true }` just to try and get to the next page? 
+Well I have the solution for you! Try running the following and then the tests again. 
+```
+rm -rf node_modules
+yarn install
+yarn build
+```
+
+## Documentation
 - [Sensitive](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/teams/vsa/teams/benefits-memorials-2) -  Sensitive artifacts like staging review and other product specific stuff
   - Official type stuff
 - [Public](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/benefits-portfolio/benefits-memorials-2) - Engineering notes and other misc product docs
