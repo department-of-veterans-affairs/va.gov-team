@@ -89,7 +89,7 @@ _This document outlines the three major pillars of accessibility work and the re
       2. `accessibility`
       3. `engineering`
       4. `needs-refinement`
-2. `@etanb` will then take all that inputted data and fill out the official [ADE team intake process](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=a11y-testing.yaml)
+2. `@etanb` will then take all that inputted data and fill out the official [ADE team intake process](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=Accessibility-Digital-Experience-Intake-Ticket.md)
 3. `@etanb` will then be a "steward" between the ADE team and the original product team
 
 **Deliverables:**
@@ -98,7 +98,7 @@ _This document outlines the three major pillars of accessibility work and the re
 - ADE team findings and suggested code-level fixes
 
 **Resources Utilized:**
-- [ADE team intake process](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=a11y-testing.yaml)
+- [ADE team intake process](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=Accessibility-Digital-Experience-Intake-Ticket.md)
 - Lighthouse and axe DevTools
 - Support from accessibility PM coordinating review efforts
 
