@@ -26,16 +26,21 @@ VFS team: Disability Benefits Crew (DBC)
 
 ### AWS Resources
 - List AWS services used
-   - AWS EKS, as deployed through VFS ArgoCD
+   - the AWS services that support the VA.gov website - the frontend work on the Form 526ez and ancillary forms is hosted on VA.gov
+   - AWS EKS, as used by VFS ArgoCD - our team's backend work is deployed through apps vets-api and contention-classification-api.
    - AWS S3
 - Describe named instances of each service used
+   -  AWS S3: `dsva-vagov-[dev/staging/sandbox/prod]-contention-classification-api`
 - Which of your resources handle PII? List the types of PII
+   - these is potential for PII in form submissions on the Form 526ez and ancillary forms; and potential for PII in the files uploaded to S3.
 - Do you utilize any other cloud resources beyond VA.gov?
    - VA Datadog (vagov.ddog-gov.com), VA GitHub (github.com/department-of-veterans-affairs), DSVA Slack, VFS ArgoCD.
 
 ### Repos
 - List repos maintained by your team, provide links
   - [Contention Classification API](https://github.com/department-of-veterans-affairs/contention-classification-api/)
+  - vets-api
+  - vets-website
   - We maintain additional repos that hold documentation and do not contribute artifacts for deployments. 
 - List repos used by your team, provide links
 - Do you have a POC for each repo? Please list – Individuals are preferred, but groups are acceptable
@@ -43,8 +48,9 @@ VFS team: Disability Benefits Crew (DBC)
 
 ### Tools
 - List CI/CD or Infrastructure as Code tools
-  - GitHub Actions; VFS Jenkins; Terraform (used by our products, however we are not the maintainers)
+  - GitHub Actions, Jenkins, Terraform, Helm charts 
 - Describe where each tool is hosted and if they handle PII
+  - We do not intend for PII to enter any of these tools. Jenkins is hosted by VFS. For GitHub Actions, we use GitHub-hosted runners.
 - List software included in deployment or generate SBOM
 - List all packages/plugins/modules/gems/etc. Include version numbers
 
