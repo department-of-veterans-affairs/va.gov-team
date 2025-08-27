@@ -108,8 +108,9 @@ Several participants expected to download letters even without a valid mailing a
 
 #### Finding 6: Assistive technology missed critical information.
 Text-to-speech tool Speechify failed to read important context, such as customization options and alerts, creating accessibility gaps.
-* "Speechify didn't read out that you could pick options like 'monthly benefit amount' or 'military service’.” -P07
-* "It skipped the note about the address change affecting my whole profile—that's critical.” -P07
+* Speechify skipped critical parts of the page - address, blue alert about address change, accordion. In screenshot mode, it did read the accordion headers.
+* Speechify has problems with multiple column pages (example reading a scientific paper).
+* Speechify save to library feature didn't save accordions.
 
 #### Finding 7: Expectations for a complete online letter list.
 Veterans wanted all applicable benefit letters available online, including state-specific documents, without needing to call VA or search elsewhere.
