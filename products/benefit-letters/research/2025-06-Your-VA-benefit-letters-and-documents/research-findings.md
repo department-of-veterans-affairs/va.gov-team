@@ -82,7 +82,7 @@ Participants did not follow one clear path to reach benefit letters. Navigation 
 
 #### Finding 2: Similar letter names caused confusion.
 Letters like the “Benefit Summary and Service Verification Letter” and the “Benefit Verification Letter” confused 6 out of 11 participants (55%).
-* "Unclear what the difference is between 'Benefit Verification letter' and 'Benefit Summary and Verification Letter.’” -P01
+* "But then I'm asking myself, what's the difference between benefit summary and Service Verification letter and benefit verification letter." -P01
 * “What's the difference between ‘benefit summary and verification’ and ‘benefit verification’? I guess one is for sharing with others and one is for yourself...I see what the difference is, but don't understand why there needs to be two.” -P02
 * “The names are a little confusing. I had to open both to understand the difference.” -P07
 * "Benefit verification letter vs [top letter] it's not clear...it's definitely confusing.” -P12
