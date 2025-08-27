@@ -30,7 +30,7 @@ _Note: This realease will be staged approach with an MVP target for the week of 
 
 Yes
 
-### Define the Rollback process
+### Define the Rollback process (To be Updated-does not apply to SM, below is just a SAMPLE template)
 
 **(Need Eng Input Here-Below is an example)**
 
