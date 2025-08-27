@@ -254,14 +254,9 @@ Race:
 * Black: 3
 
 Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
+* AT advanced user: 3
+* Desktop screen reader: 2 (P1 opted not to use)
+* Magnification/Zoom: 2 (P2 showed us how they use it but didn't use for full session)
+* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: 1 (on iPad)
+* Closed captioning: P1 uses about 30% of the time
 
