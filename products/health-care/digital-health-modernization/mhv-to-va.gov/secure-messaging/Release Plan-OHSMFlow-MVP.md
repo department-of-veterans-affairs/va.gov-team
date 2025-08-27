@@ -5,7 +5,7 @@
 
 _This Release Plan Template is intended to help ensure your new message flow for OH product is ready for MVP launch and will deliver the desired user outcomes._
 
-**Target: Readiness by Week of 9/2**
+**Target: Readiness by Week of 9/2/25**
 
 **Staging Review- 9/5/25**
 
