@@ -1,10 +1,28 @@
-# --DRAFT-- (To be Updated)
+# --DRAFT-- (In Progress)
 
-# Release Plan
+# Update Start a New Message Flow: MVP Release Plan
 ## Guidance
 
-_This Release Plan Template is intended to help ensure your new VSP product or feature is ready for launch and will deliver the desired user outcomes._
-*
+_This Release Plan Template is intended to help ensure your new message flow for OH product is ready for MVP launch and will deliver the desired user outcomes._
+
+**Target: Readiness by Week of 9/2**
+
+**Staging Review- 9/5/25**
+
+
+## Product Outline (Background)
+
+As a Veteran with Oracle Health facilities in my profile, I need to be able to find and select the care team when I send a new message, so that I can continue to manage my care and communicate with my providers.
+
+**MVP Epic**: Here: https://github.com/orgs/department-of-veterans-affairs/projects/1729/views/1?pane=issue&itemId=123015170&issue=department-of-veterans-affairs%7Cva.gov-team%7C116017
+
+**MVP Staging Review Epic**: Here: https://github.com/orgs/department-of-veterans-affairs/projects/1729/views/1?pane=issue&itemId=123018281&issue=department-of-veterans-affairs%7Cva.gov-team%7C116023
+
+## Hypothesis
+
+If we change the user flow for sending a new message then we expect it will be able to accommodate very different data structure for triage groups coming from Oracle Health, so that any user will be able to send a new message no matter what EHR their facility runs on.
+
+_Note: This realease will be staged approach with an MVP target for the week of 9/2 and staging review for 9/6 estimated as noted above_
 
 ## Step 3: Production rollout
 
@@ -13,6 +31,8 @@ _This Release Plan Template is intended to help ensure your new VSP product or f
 Yes
 
 ### Define the Rollback process
+
+**(Need Eng Input Here-Below is an example)**
 
 Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics both on Google Analytics and DataDog. If they see a spike in errors or unexpected behavior, they will flag to the engineering team that there is a problem. The engineering team will do the following:
 #### If a critical severity issue
@@ -33,7 +53,7 @@ Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics
 
 ### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
-#### Planning
+#### Rollout Planning  (Sample)
 
 - Date range or test duration: Aug 22 - Sept 4
 - Number of users: 2
@@ -41,7 +61,7 @@ Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics
 - How you'll conduct the testing: UAT
 - How you'll give the test users access to the product in production w/o making it live on VA.gov: Through use of a feature flag
 
-#### Results
+#### Results  (Sample)
 
 - Number of users: 2
 - Number of bugs identified / fixed: 2
@@ -53,61 +73,51 @@ Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics
 - Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: No
 - Latency: For succesful responses to the API, we had between 4 seconds and 23 seconds of latency. The team suspects that latency had a positive correlation with number of claims.
 
-### Phase I: Friends and Family testing and 5% of users
 
-#### Planning
-
-- Desired date range or test duration: Week of Oct 15
-- Desired number of users: 19
-- How you'll recruit the right production test users: We have identified 19 Veterans with VA.gov email logins to whom we will reach out and offer to test our authenticated experience.
-- How you'll conduct the testing: We will offer them an optimal workshop survey asking them to verify a few pieces of information.
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: Through use of a feature flag
-
-#### Results
-
-- Number of users: 5; we had users log in and view the page per GA, but no one provided direct feedback.
-- Number of bugs identified / fixed: none
 team was able to resolve this as well.
 - Was any downstream service affected by the change?: No
 - Types of errors logged: N/A
 - Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: No
 - Latency: For succesful responses to the API, we had between 4 seconds and 23 seconds of latency. The team suspects that latency had a positive correlation with number of claims.
 
-### Phase II: Staged Rollout (also known as unmoderated production testing)
+## Post MVP Metrics Launch Plan
 
-#### Rollout Planning
+1. **Data Dog**: Increasing DD collection to 100% for those users on the new flow
 
-- Desired date range: January 13-24, 2025
-- How will you make the product available in production while limiting the number of users who can find/access it: By using a feature flag.
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: Because this entire page is an MVP without a specific entry point just yet, we will be broadly monitoring health and engineering metrics as the key indicator of whether or not we can advance.
-- Links to the dashboard showing "success criteria" metrics: [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/crx-9dc-4y6/travel-pay-performance-dashboard?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1723557083764&to_ts=1723643483764&live=true)
-- Who is monitoring the dashboard(s)?: UX Leads, Engineering Lead, and Product Manager
+2. **Error rates** - the base for comparison, data from the new flow can be separated out and compared to base.  This will require some eng capacity.
 
-**Engineering Metrics (Datadog)**
-***[Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/crx-9dc-4y6/travel-pay-performance-dashboard?fromUser=false&refresh_mode=sliding&view=spans&from_ts=1723557083764&to_ts=1723643483764&live=true)*** 
+
+
+3. **CSAT** - continue to monitor CSAT for the base, and the new flows.  We should be able to break out the new flows with URLs and compare feedback.
+
+4. **Messsages**- Number of messages successfully submitted by platform - this is already tracked
+
+
+
+
+## Datadog Dashboard  (Input from ENG- Alex)
+
+Add Link HERE
 
 | Metric Name | Description |
 | ----------- | ----------- |
-| VA.gov - Endpoint error count | Number of non-200,201 status codes to va.gov endpoints |
-| Travel Pay API - Endpoint error count | Number of non-200,201 status codes to travel pay API endpoints |
-| VA.gov - Sustained high latency | p90 latency measures above x for time |
+|  |  |
+| |  |
+|  | |
 
 **User-Facing Metrics (Google Analytics and Call Center)**
-***[Google Analytics Dashboard]([https://analytics.google.com/analytics/web/#/p419143770/reports/explorer?params=_u..nav%3Dmaui%26_r.explorerCard..filterTerm%3D%252Fmy-health%252Ftravel-claim-status%26_r.explorerCard..startRow%3D0&ruid=D4F7103F-DEA1-4A09-B066-EE554BF6F5F0&collectionId=8429185582&r=all-pages-and-screens](https://analytics.google.com/analytics/web/#/p419143770/reports/explorer?params=_u..nav%3Dmaui%26_r.explorerCard..filterTerm%3D%252Fmy-health%252Ftravel-pay%252Fclaims%26_r.explorerCard..startRow%3D0%26_u.comparisonOption%3Ddisabled%26_u.date00%3D20250112%26_u.date01%3D20250113&r=all-pages-and-screens&ruid=D4F7103F-DEA1-4A09-B066-EE554BF6F5F0&collectionId=8429185582))
+
+Add Link Here
 
 | Metric Name | Description |
 | ----------- | ----------- |
-| Unique page views | # of individuals (% of users) who are visiting this page at least once |
-| Repeat page views | # of times a given user is visiting this page |
-| Are the users going out to BTSSS? | # of clicks on the help section's outbound link |
-| Utilization of pagination | % of users going to the second page |
-| Origin page | What page are they coming from to Travel Pay page? |
-| Exit point | Where are they clicking out to? |
-| Entry point | Which of the sources are they entering from (MHV / main page; VA Travel Reimbursement; My VA claims tool) |
-| Time spent | Time spent on page |
-| Call Center Queries | How many calls and queries did the VA call center receive about this page? |
-| Member Services Queries | How many calls and queries did Member Services receive about this page? |
-
+| |  |
+|  |  |
+| |  |
+| |  |
+|  |  |
+|  |  |
+| |  |
 
 
 
@@ -116,6 +126,8 @@ team was able to resolve this as well.
 
 
 ## Post-launch Questions
+
+**Post MVP Epic Here**: Here: https://github.com/orgs/department-of-veterans-affairs/projects/1729/views/1?pane=issue&itemId=126050940&issue=department-of-veterans-affairs%7Cva.gov-team%7C117885
 
 *To be completed once you have gathered your initial set of data, as outlined above.*
 
