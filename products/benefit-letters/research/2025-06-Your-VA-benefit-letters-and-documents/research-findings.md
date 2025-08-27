@@ -126,37 +126,39 @@ While some questioned the mailing address requirement, Veterans valued validatio
 
 ## Findings Beyond Original Research Plan
 
-#### Veterans confuse benefit letters with claim and decision letters
-Multiple participants (P4, P5, P12) initially confused benefit letters with claims or decision letters, showing broader mental model mismatches.
+### Veterans confuse benefit letters with claim and decision letters
+Some participants initially mistook benefit letters for claim or decision letters, revealing a mismatch in how Veterans think about VA letters.
 * "Mixing up benefit and decision letters initially.” -P05
 * P12 initially navigated to the Claim Status Tool when asked to return to benefit letters.
 
-#### Critical Text-to-Speech Compatibility Issues with Speechify
-Speechify and similar commercial TTS tools had significant compatibility problems beyond traditional screen readers.
-* P7 noted Speechify required highlighting section by section to read pages logically.
+### Critical Text-to-Speech Compatibility Issues with Speechify
+Speechify and similar commercial TTS tools struggled to interpret the page content logically.
+* P07 noted Speechify required highlighting section by section to read pages logically.
 * Commercial TTS tools missed interactive elements and critical alerts.
 
-#### Some Veterans were confused about how to get back to the benefit letters page after viewing PDF letter in new tab
-Veterans expected PDF behavior patterns from other websites, affecting navigation when PDFs opened in the same tabs.
+### Navigation challenges after viewing PDF letters
+Some Veterans struggled to return to the benefit letters page after opening a PDF in a new tab.
 * "Got stuck trying to get back to the previous page. Was unsure how to go back to the previous tab.” -P15
 * Multiple participants struggled with PDF navigation back to the letters page.
 
-#### Some Veterans are skeptical about their mailing address getting updated across services
-Veterans expressed skepticism about cross-system functionality.
-* "I see the alert. Do I believe it? I'm more skeptical...If I believed the world was flat [I would believe the alert message].” -P1
+### Skepticism about address updates across systems
+Even when presented with alerts about address changes updating across VA services, some Veterans questioned the accuracy of this functionality.
+* "I see the alert. Do I believe it? I'm more skeptical...If I believed the world was flat [I would believe the alert message].” -P01
 
-#### Veterans want a list of available state-specific benefits based on their mailing address
-* "If you could put in this address, then these are benefits you could consider for your area and benefit situation.” -P2
+### Desire for state-specific benefits tied to mailing address
+Participants expressed interest in seeing benefits relevant to their state or locality based on their mailing address.
+* "If you could put in this address, then these are benefits you could consider for your area and benefit situation.” -P02
 
-#### Veterans like that the page is simple and easy to follow, which makes it easier to use
-* “It's what I expected.” -P2
+### Positive reactions to page simplicity and clarity
+Veterans appreciated the clean layout and directness of the page, describing it as straightforward and easy to use.
+* “It's what I expected.” -P02
 * “I really appreciate the brevity and cleanliness of the website overall. It’s so much better than in the past.” -P10
 * “I think it is very direct about what the page is providing and how to get there...I also like that it shows a brief description of what each letter is about.”* -P11
 * “It's pretty cut and [dry]...even if I didn't know what [a letter] was, I could read about it.” -P14
 
-#### DD214 critically important
-Multiple participants emphasized the importance of DD214 and appreciated prominent access.
-* "DD214 is typically the letter that is problematic for Veterans.” -P3
+### DD214 access is critically important
+Multiple participants emphasized the importance of DD214 documentation and appreciated its prominent placement.
+* "DD214 is typically the letter that is problematic for Veterans.” -P03
 * "Most important thing is to find the 214.” -P15
 
 
