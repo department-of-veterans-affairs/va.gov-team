@@ -74,7 +74,6 @@ Once we finish investigating why EVSS is still getting hits (Jane working on thi
 
 [Abandonment rate](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/SvIXt89hQnCx4HDFQ6iKNw)
 
-[Collaboration Cycle for [BMT2, Claim Status Tool, VA Letters and Documents] #98499](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1452)
 
 **BMT - Eventbus Gateway**
 
@@ -209,6 +208,8 @@ Below are the initiatives worked on during the contract, with links to their res
 [VA Benefit Letters Checkbox Labels (SharePoint)](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/_layouts/15/Doc.aspx?sourcedoc=%7B6F[%E2%80%A6]0Checkbox%20Labels.docx&action=default&mobileredirect=true)
 
 [Note-taking VA benefit letters and documents research sessions (SharePoint)](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/_layouts/15/Doc.aspx?sourcedoc=%7B31[%E2%80%A6]nd-docs-study-2025.xlsx&action=default&mobileredirect=true)
+
+[Collaboration Cycle for [BMT2, Claim Status Tool, VA Letters and Documents] #98499](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1452)
 
 ## 2. Evidence Request Improvements
 
