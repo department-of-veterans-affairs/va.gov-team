@@ -14,7 +14,8 @@ Questions
 - What happens if associated with multiple facilities? Do they get multiple ROI triage group options?
 - Confirm: Do they need to send the form? Or can they simply sign the electronic signature?
 - Can they submit a request for partial records?
-- What if anything can we communicate to users about what to expect after they send off that message? Will they get a response in SM? Will they get a response via email/mail? 
+- What if anything can we communicate to users about what to expect after they send off that message? Will they get a response in SM? Will they get a response via email/mail?
+- Any sense of how long it takes to go from SM request to records being in the Veteran's hands? 
 
 Action items (AIs) 
 - [ ] Robyn will kick off questions to Sylvia and Tracey, will cc' Jonathan, Tori, Marci, Becky. 
