@@ -170,7 +170,7 @@ Based on the research findings, here is a prioritized plan for improving the ben
 ### 1. Improve access and usability
 
 - **Conduct an accessibility audit:** Ensure all interactive elements and critical alerts work with screen readers and commercial text-to-speech tools (e.g., Speechify).
-- **Clarify address update impact:** Clearly explain that changing a mailing address on this page updates tother VA services.
+- **Clarify address update impact:** Clearly explain that changing a mailing address on this page updates the address for other VA services.
 - **Allow access without an address:** Provide a way for Veterans to download benefit letters even without a current mailing address, addressing the needs of homeless or transient users.
 
 ### 2. Increase document clarity and relevance
