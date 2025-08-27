@@ -18,6 +18,8 @@ Clinicians operate in data-dense environments where they must quickly interpret 
 
 ## Out of Scope
 - Stacked bars
+- more than two bars
+   - Reasoning: More than two bars increases data density. Considering how to display this should open up the option for stacked bars or other ideas. Considering the bar chart is currently experimental and without pilot partners, the MVP should keep the solution simple and allow user feedback when a product team considers this pattern.
 - Horizontal orientation
 - 3D bar charts
 
