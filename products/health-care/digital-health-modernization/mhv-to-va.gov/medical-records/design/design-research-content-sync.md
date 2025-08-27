@@ -5,7 +5,7 @@ This doc has notes, questions, and action items during our sync.
 [notes]
 
 ## 8/27/25
-**Agenda**
+### Agenda
 - Continuity of Care work
 - Release of information (ROI) work
 
