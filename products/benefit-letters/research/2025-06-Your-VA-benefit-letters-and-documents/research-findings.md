@@ -205,13 +205,6 @@ Based on the research findings, here is a prioritized plan for improving the ben
 
 
 ### Research participants 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-
-[Example Research participants](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/research/2025-05-save-in-progress/research-report.md#research-participants)
-
-#### Recruitment criteria
-
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
 
 #### Demographics 
 
