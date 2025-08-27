@@ -107,10 +107,10 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 ## Sprint Goals - Sprint: 15 [8/13/25 - 8/26/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
-|UX/ENG: Collaborate on the One Thing Per Page initiative by reviewing the implementation to align technical requirements with design standards.| QP2 |--|--|--|
-|UX: Be prepared to meet with stakeholders to review the current user flows and designs for Pay.gov overpayments and document feedback. | QP4 |--|--|--|
-|ENG: Complete the remaining 4 Front End tickets for the One Thing Per Page initiative.| QP2 |--|--|--|
-|ENG: Prepare items for upcoming One Thing Per Page Staging Review: QA Artifacts, Analytics request, Release Plan, and Playbook.| QP2 |--|--|--|
+|UX/ENG: Collaborate on the One Thing Per Page initiative by reviewing the implementation to align technical requirements with design standards.| QP2 |--|08/13/25|Completed|
+|UX: Be prepared to meet with stakeholders to review the current user flows and designs for Pay.gov overpayments and document feedback. | QP4 |--|08/26/25|Completed|
+|ENG: Complete the remaining 4 Front End tickets for the One Thing Per Page initiative.| QP2 |--|--|Incomplete|
+|ENG: Prepare items for upcoming One Thing Per Page Staging Review: QA Artifacts, Analytics request, Release Plan, and Playbook.| QP2 |--|--|Incomplete|
 |ENG: Update the Debt Portal of Notice of Rights Modals and PDF to reflect the updated language.| QP7 |--|08/15/25|Completed|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
@@ -120,8 +120,12 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
  - [X] VA COR approved the Sprint Goals (08/13/25)
  
 **_Delivery + Notes:_**
-- [ ] All goals have been updated in the sprint chart
-- [ ] Any Additional details about goals **not** completed will be documented here
+- [X] All goals have been updated in the sprint chart
+- [X] Any Additional details about goals **not** completed will be documented here
+- ENG: Complete the remaining 4 Front End tickets for the One Thing Per Page initiative
+      - 3 of the 4 tickets were completed, however the 4th ticket is ready to be merged and is in Validate, awaiting Platform's direction on which component to use.
+- ENG: Prepare items for upcoming One Thing Per Page Staging Review: QA Artifacts, Analytics request, Release Plan, and Playbook.
+      - These artifacts are still in progress.
 
 ## Sprint Goals - Sprint: 16 [8/27/25 - 9/9/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
@@ -135,7 +139,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [X] Ready to be sent for approvals (08/26/25)
  - [X] VA PO & COR sent the Sprint Goals (08/26/25)
- - [ ] VA PO approved the Sprint Goals (08/XX/25)
+ - [X] VA PO approved the Sprint Goals (08/27/25)
  - [ ] VA COR approved the Sprint Goals (08/XX/25)
  
 **_Delivery + Notes:_**
