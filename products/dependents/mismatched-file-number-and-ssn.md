@@ -28,6 +28,8 @@ _BEP expects that a Veteran's or spouse's file number submitted in a 21-686c or 
    - Per Danny Reed (MPI), VA.gov only needs to send one or the other.
 - Does VA.gov need to update the claim creation flow?
    - Danny said that the 686c/BGS code is using outdated APIs and using an outdated flow. For instance, we shouldn't be creating person records in the first place (this issue stems from a failed person creation attempt)
+- Do all Veterans have a file number?
+   - No, only Veterans who have submitted a claim have a file number. 
 
 ## Suggested course of action
 See https://github.com/department-of-veterans-affairs/va.gov-team/issues/56995#issuecomment-1532129932. File # / SSN mismatches are a big, complicated, systemic issue. IMO, the best we can do is:
