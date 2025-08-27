@@ -94,11 +94,7 @@ Before we start, I have a few things that I want to go over with you:
 
 Before we look at the website, let’s start with a few warm-up questions.
 
-1. Do you receive VA disability compensation? [answer should be yes to qualify]
-
-2. Do you receive additional VA disability compensation for one or more of your dependents? [answer should be yes to qualify]
-
-- If yes: How often do you view the dependents on your benefits on VA.gov?
+- How often do you view the dependents on your benefits on VA.gov?
 - When was the last time you viewed the dependents on your benefits on VA.gov?
 - What causes you to view the dependents on your disability benefit on VA.gov?
 
@@ -133,6 +129,7 @@ Okay, thanks for doing your best to keep that scenario in mind as you look at th
 - So looking at this first page, what's jumping out to you?
 - What would you do next?
 - When would you update your dependents?
+- If they don't click the "Verify your VA disability benefits dependents" link or if they try to click a different link like the "Add or remove a dependent" link, why did you start there? Is there somewhere else you might click?
 
 > [!NOTE]
 >
@@ -170,6 +167,8 @@ You can click the continue button.
 - What would you do next?
 - Do you know how this dependent is related to the person in the scenario?
 - What else do you notice about the page?
+- If they share that they've lost a dependent this becomes a more sensitive session. Focus on making sure they're all right, but if they are open to it are there one or two questions we might like to ask
+  - Maybe what the process of removing that dependent was like? And what they would have ideally liked it to be like?
 
 > [!NOTE]
 >
@@ -202,6 +201,7 @@ You can click the continue button.
 - What's this page about?
 - Based on the scenario, what would you do next here?
 - What do you think will happen next?
+- What does the gray tag mean to you?
 
 > [!NOTE]
 >
@@ -229,6 +229,7 @@ You can click the continue button.
 - What stands out about this page?
 - Is this what you expected?
 - What would you do next?
+- If they left the page with the additional forms information, where or how would they expect to find this information again?
 
 > [!NOTE]
 >
@@ -244,6 +245,7 @@ You can click the continue button.
 - What stands out about this page?
 - Is this what you expected?
 - What would you do next?
+- If they left the page with the additional forms information, where or how would they expect to find this information again?
 
 > [!NOTE]
 >
@@ -257,6 +259,7 @@ You can click the submit button.
 
 - What stands out about this page?
 - Is this what you expected?
+- What would you do next?
 - Would you change anything about this page?
 
 > [!NOTE]
@@ -264,12 +267,35 @@ You can click the submit button.
 > ### Things to watch for:
 >
 > - Does the participant understand how to keep track of their claim?
+> - Does the Veteran notice the blue section about needing to do additional forms?
 
 ---
+
+## Rate prototype one
+
+On a scale of 1 to 5, how would you rate this experience?
+
+Why?
+
+> [!NOTE]
+>
+> ### Things to watch for:
+>
+> - Make sure to get at a why for the rating.
 
 ## 6. Second Prototype - Task goal: Validate whether Veterans understand which life changes need to be reported. - 5 minutes [Your VA Dependents page]
 
 Okay, now we're going to change prototypes and use a different one. The scenario you're using will stay the same.
+
+As you're looking at the prototype, here's a scenario I'd like you to use:
+
+- You are Curtis, a 60 year old Marine Veteran
+- You are married and have 2 kids
+- You receive Disability benefits
+- Your wife, Maya, recently retired
+- Your daughter Naomi (age 24) finished her Master's degree and moved back home while she is looking for work
+- Your son Jared (age 22) is in his last year of college and got married this summer
+- Your father fell and broke his hip six months ago. He spent time in rehab and moved in with you recently
 
 [Send link to prototype 2](https://www.figma.com/proto/AM5gVqcdLtWazrjTqwqykN/DV-Picklist-V2?page-id=82%3A4755&node-id=298-19323&viewport=73%2C332%2C0.11&t=w9RvfaoPZsspxi47-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=298%3A19323&show-proto-sidebar=1&hotspot-hints=0&hide-ui=1)
 
@@ -294,6 +320,7 @@ You can click the continue button.
 
 - What are your initial thoughts after checking out this page?
 - What would you do next?
+- What selections would you make here?
 
 > [!NOTE]
 >
@@ -302,6 +329,7 @@ You can click the continue button.
 > - Does the participant get tripped up by the death question?
 > - Does the participant understand the purpose of the page?
 > - Does the participant think they should make any changes?
+> - They would need to enter the date Jared got married
 
 You can click the continue button.
 
@@ -337,6 +365,7 @@ You can click the continue button.
 >
 > - Does the participant want to add a participant?
 > - Do they know who to add? Is that confusing in any way?
+> - Do they interact with the accordion? (if they interact with it) How useful is it to see active dependents in the accordion?
 
 ## 8b. Task goal: Validate whether Veterans know what's next. - 5 minutes [Who do you want to add as a dependent?]
 
@@ -372,6 +401,18 @@ We've reviewed a similar page in the last prototype, so no feedback needed here,
 ## 5a. Task goal: Validate whether Veterans would submit the form. - 5 minutes [Confirmation page]
 
 You can click the submit button. We've reviewed a similar page in the last prototype, so no feedback needed here.
+
+## Rate prototype two
+
+On a scale of 1 to 5, how would you rate this experience?
+
+Why?
+
+> [!NOTE]
+>
+> ### Things to watch for:
+>
+> - Make sure to get at a why for the rating.
 
 # Post-Task Interview - 2 minutes
 
