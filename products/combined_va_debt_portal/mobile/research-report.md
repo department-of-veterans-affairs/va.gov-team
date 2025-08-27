@@ -135,50 +135,102 @@ synthesis_tools_used:
 
 ----->
 
-<!-----
 
 ## Research Goals
-*Provide context for this research by explaining how it fits into the Veteran’s journey.*  
-[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)  
 
-**Guiding Questions:**  
-- What are the key moments this tool supports in the Veteran’s journey?  
-- What outcomes are we aiming to achieve for Veterans and stakeholders?  
+`1.` **Understand how users become aware of and locate information about money they owe in the app.**
 
-[Example Research Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-goals) 
+`2.` **Assess how well users understand and interpret their copay and overpayment information in the app.**
+
+`3.` **Identify what actions users want to take regarding money owed and evaluate how easily they can find guidance in the app.** 
+
+`4.` **Evaluate the experience of completing actions outside the app.**
+
+`5.` **Prioritize features for the minimum viable product (MVP) that will handle overpayments and copayments in the app.**
+
+This touches many areas of the Veteran's journey, as the product deals with debt and healthcare. [See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)  
+
+- Starting Up (Moment: Balancing Finances)
+- Taking Care of Myself (Moment: Maintaining my health)
+- Putting Down Roots (Moment: Maintaining my financial, social, and emotional health)
+- Retiring (Moment: Taking care of my health)
+- Aging (Moment that Matters: Managing my declining health)
+
+Outcomes we were aiming to achieve:
+
+- Validate designs for viewing copays + overpayment debts
+- Determine when and how to add  functionality that enables Veterans to take action on copays and overpayment and be notified about new debts. 
+- Address and identify accessibility gaps (note: Due to prototype limitations, we likely will not identify all accessibility issues)
+
 
 ## Research Questions
 
-*List the research questions that guided this study.*  
+**Goal 1: Understand how users become aware of and locate information about money they owe in the app.**
 
-* Question 1
-* Question 2
-* Question 3
+`1.` What prompts users to check on or take action regarding money they owe to the VA (in general, not specific to mobile)?  
+`2.` How do users expect to be notified or informed about new bills or debts (in general, not specific to mobile)?  
+`3.` Can users successfully locate the section of the app with information about money owed?  
 
-[Example Research Questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-questions)
+**Goal 2: Assess how well users understand and interpret their copay and overpayment information in the app.**
+
+`4.` Is the overview of money owed (copays and overpayments) clear, complete, and useful?  
+`5.` Can users access and make sense of detailed information for each item?  
+`6.` Do users feel confident they understand what they owe and why?  
+`7. ` Do users find access to downloadable PDF copay statements helpful, and would they use this feature?  
+
+**Goal 3: Identify what actions users want to take regarding money owed and evaluate how easily they can find guidance in the app.**
+
+`8.` What types of actions (e.g., pay, request financial help, dispute a charge) do users expect to take in the app?  
+`9.` How do users expect to complete each of these actions?  
+`10.` Can users find clear, actionable guidance on how to proceed with each option?  
+
+**Goal 4: Evaluate the experience of completing actions outside the app.**
+
+`11.` How do users feel about having no option to pay their debt or bills through the app?  
+`12.` How do users feel about leaving the app to pay their debt through pay.va.gov?  
+`13.` How do users feel about leaving the app to pay their bills through pay.gov?  
+`14.` Are users comfortable navigating to a new site and copying/pasting information from the app to complete a payment?  
+`15.` How do users feel about being redirected to VA.gov to complete actions like requesting help or disputing a debt?  
+
+**Goal 5: Prioritize features for the minimum viable product (MVP) that will handle overpayments and copayments in the app.**
+
+`16.` Would users prefer the experiences of leaving the app to pay via pay.va.gov / pay.gov OR having no option to pay from the app at all?  
+`17.` Would users prefer the experience of leaving the app to read help documentation OR seeing help documentation directly in the app?  
+
+
 
 ## Methodology 
 
-*Provide a brief description of the research methods used (e.g., usability testing, interviews).*  
+Moderated usability testing using high-fidelity Figma prototypes over Zoom. Participants viewed and interact with the prototype via the Figma mobile app, using account credentials that we supplied during the sessions. 
 
-- Method 1: Description  
-- Method 2: Description  
+The prototype simulated the mobile app's MVP debt portal where users can view details on their copays and overpayment debts, and also simulated the journey of leaving the mobile app to access payment portals via a web browser.
 
-[Example Methodology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#methodology)
+Sessions also included semi-structured interview questions. These questions explored:
+
+- Experiences and awareness of debt before accessing the app
+- Actions taken outside of the app that will not be included in the MVP, such as payments, disputing charges, and requesting financial assistance. For the initial release, users will be linked to VA.gov for these actions
+
+Note on Accessibility: Due to prototype limitations, this study did not include testing with users of assistive technologies. However, design files were reviewed by accessibility specialists.
+
+<!-----
 
 
 ## Hypotheses and Conclusions
 
-*List hypotheses explored in the research and the conclusions drawn. If applicable, list the success or task completion rate.*
-
-> [!TIP]
-> Place true or false statements in bold for easier scanability
-
-- **Hypothesis Statement:** [Insert statement]  
-  - **"Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”**  
-  - Supporting evidence  
-
-[Example Hypotheses and Conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)
+- Veterans will want notifications from the app when payments are due.
+  - 
+- Veterans will appreciate the overview of money owed from overpayment debts and copays.
+  - 
+- Veterans will find the details of each payment owed clear.
+  - 
+- Veterans will find navigation confusing when redirected out of the app to complete tasks.
+  - 
+- Veterans will be frustrated by having to copy and paste information in another site to make payments.
+  - 
+- PDF copay statements will not be useful.
+  - 
+- Veterans will find the help pages overwhelming with too much information.
+  - 
 
 
 ## Key Findings
