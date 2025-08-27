@@ -30,7 +30,7 @@ VFS team: Disability Benefits Crew (DBC)
    - AWS EKS, as used by VFS ArgoCD - our team's backend work is deployed through apps vets-api and contention-classification-api.
    - AWS S3
 - Describe named instances of each service used
-   -  AWS S3: `dsva-vagov-[dev/staging/sandbox/prod]-contention-classification-api`
+   -  S3: `dsva-vagov-[dev/staging/sandbox/prod]-contention-classification-api`
 - Which of your resources handle PII? List the types of PII
    - these is potential for PII in form submissions on the Form 526ez and ancillary forms; and potential for PII in the files uploaded to S3.
 - Do you utilize any other cloud resources beyond VA.gov?
@@ -38,13 +38,18 @@ VFS team: Disability Benefits Crew (DBC)
 
 ### Repos
 - List repos maintained by your team, provide links
-  - [Contention Classification API](https://github.com/department-of-veterans-affairs/contention-classification-api/)
-  - vets-api
-  - vets-website
-  - We maintain additional repos that hold documentation and do not contribute artifacts for deployments. 
+  - [contention-classification-api](https://github.com/department-of-veterans-affairs/contention-classification-api/)
+  - [vets-api](https://github.com/department-of-veterans-affairs/vets-api/) (shared with other teams)
+  - [vets-website](https://github.com/department-of-veterans-affairs/vets-website/) (shared with other teams)
+  - [vsp-infra-application-manifests](https://github.com/department-of-veterans-affairs/vsp-infra-application-manifests) (shared with other teams)
+  - we maintain additional repos that hold documentation and do not contribute artifacts for deployments. 
 - List repos used by your team, provide links
+  - repositories that `vets-website` is dependent on, noted in [DEPO docs]( https://depo-platform-documentation.scrollhelp.site/developer-docs/setting-up-your-local-frontend-environment#Settingupyourlocalfrontendenvironment-Step2:Getthesourcecode)
 - Do you have a POC for each repo? Please list – Individuals are preferred, but groups are acceptable
+  - for our work in `vets-api` and `vets-website`: GitHub team [disability-benefits](https://github.com/orgs/department-of-veterans-affairs/teams/disability-benefits)
+  - for our work in `contention-classification-api` and `vsp-infra-application-manifests`: [vfs-benefits-conditions-team](https://github.com/orgs/department-of-veterans-affairs/teams/vfs-benefits-conditions-team)
 - List other groups you know use your repos
+  - `vets-api`, `vets-website`, and `vsp-infra-application-manifests` is shared by several project teams
 
 ### Tools
 - List CI/CD or Infrastructure as Code tools
