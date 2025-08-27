@@ -54,10 +54,11 @@
 - **Reflection:** I think both use cases shared can be moved over to the new colored tags. 
 
 ### 6. Appointments:MHV online scheduling
-- **Current Implementation:**  
-- **Use Case:**  
-- **Design Details:**  
-- **Reflection:**
+- **Current Implementation:**  Uses the default gray tag in a card. As a interactive filter chip with a close button that changes the results of filters applied. Uses a tag on a page that shows the status of the entire page. 
+- **Use Case:**  Inside a card to show when a appointment invite will expire
+- **Tag words:** Expires [MM/DD/YYYY], Processing, Accepted, 
+- **Design Details:**  Tags are used in cards and also at the top of pages to indicate the status. The tag is modified to be interactive as a filter chip. 
+- **Reflection:** The use cases shared could fit with the two planned components here. The search filter chip and the colored tag component currently being looked at. 
 
 ### 7. My VA
 - **Current Implementation:**  
