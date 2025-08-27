@@ -45,6 +45,11 @@ The Rated Disabilities tool enables Veterans to view their combined disability r
 These ratings are assigned based on the severity of disabilities related to military service and are crucial in determining the benefits Veterans receive.  
 By accessing this tool, Veterans can stay informed about their disability evaluations and ensure they are receiving appropriate benefits.
 
+#### Payment History
+The Payment History feature provides Veterans with visibility into their past and current VA benefit payments.  
+Through this tool, Veterans can track the timing, amount, and type of payments issued, including disability compensation, pension, and other benefit-related disbursements.  
+Payment history transparency helps Veterans identify discrepancies, understand adjustments (such as attorney or agent fees), and better manage their personal finances.
+
 
 ## Analytics Dashboards
 
