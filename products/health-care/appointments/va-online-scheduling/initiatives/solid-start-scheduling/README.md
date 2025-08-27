@@ -1,5 +1,5 @@
 
-# New Statuses Initative Brief - Solid Start Scheduling
+# New Statuses Initative Brief - Solid Start (VASS) Scheduling
 
 ---
 
