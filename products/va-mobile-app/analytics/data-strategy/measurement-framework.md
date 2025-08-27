@@ -250,7 +250,7 @@ Each table below defines what we should measure for each experience, provides he
 | **What should we measure?** | Clicks to Veteran Crisis Line <br> *“I received timely crisis support via the app.”* |
 | **Important metrics to track**<br> *New metrics indicated by asterisk*| - Clicks on red CTA* <br>- Exits to Veterancrisisline.net*<br>- # feature viewers/# of users*<br>- Latency* <br>- % of errors within X period of time* |
 | **How these metrics can inform decision making** | Indicate how effectively Veterans can access urgent crisis support when needed, and ensure the visibility, reliability, and seamless handoff to external crisis resources.  |
-| **Unhelpful metrics** |  |
+| **Unhelpful metrics** | Time on screen or # of users without additional context could be misleading; a short time may mean efficiency or that users immediately abandoned (doesn’t explain whether Veterans could successfully access crisis support).  |
 
 </details>
 
@@ -263,7 +263,7 @@ Each table below defines what we should measure for each experience, provides he
 | **What should we measure?** | Conversion rates from the app Homescreen to various parts of the app i.e. Health, Benefits, Payments, Profile, VA resources, location finder <br>Following path<br>- do they see it, <br>- if they see it do they tap,<br>- are they able to do a thing (view, task, etc.)   <br> *“I'm able to easily access the things I need from the home screen.”* |
 | **Important metrics to track**<br> *New metrics indicated by asterisk*| - Activity button click rate, based on when button conditionally shown (repeat users ok)* <br>- Home screen page load time* <br>- Notification interactions bringing users to home screen* <br>- # feature viewers/# of users<br>- Latency* <br>- % of errors within X period of time*  |
 | **How these metrics can inform decision making** | Improve the overall navigation/wayfinding of users from the app's home screen. |
-| **Unhelpful metrics** |  |
+| **Unhelpful metrics** | Page views without context does not help us understand conversion/the path users take through the app.  |
 
 </details>
 
@@ -351,9 +351,14 @@ Overall platform health can be measured by the platform's speed, availability, r
 </details>
 
 ### Unhelpful platform metrics
+
+Some platform metrics can be less actionable if they emphasize volume without connecting to user outcomes (big numbers without insight), provide raw counts without context, or don’t directly inform where to focus improvements. Meaningful metrics **connect to user outcomes**, **provide context**, and directly **help prioritize fixes or improvements.** 
+
 | **Metric**  | **Why this is unhelpful**  |
 |--------------|-------------|
-| TBD | TBD |
-| TBD | TBD |
-
+| Raw page view counts | High volume may not mean usefulness or task completion; can mislead without context. |
+| Session length (without task context) | Longer isn’t always better (could mean users are stuck); shorter isn’t always worse (could mean efficiency). Context is needed depending on the user task.|
+| # sent push notifications | Volume says nothing about effectiveness; open/click rates matter more. |
+| Total downloads (all-time) | Inflates the picture since it includes inactive/uninstalled users; doesn’t show current engagement.|
+| # total users | Can inflate adoption; retention/active use is more meaningful.|
 
