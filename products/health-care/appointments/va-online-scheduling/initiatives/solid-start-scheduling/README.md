@@ -99,7 +99,7 @@ Veteran outreach is built into the workflow with the initial emails.
 
 - Pending Epic
 - [User flow](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1751390201955/589e47d3edd54147463bca38118ea2a190fdbf94?sender=u7c471a43344939c759cb1640)
-- [Figma](https://www.figma.com/design/Z96Oy8JRzQNXQueV0LcNBR/Solid-Start-Scheduling--VASS--%7C-Appointments?node-id=2145-37798&t=WCpE4TOQki5XLo2A-1)
+- [Figma](https://www.figma.com/design/Z96Oy8JRzQNXQueV0LcNBR/Solid-Start-Scheduling--VASS--%7C-Appointments?node-id=12157-38855&t=c7EFK1RjEAHjz0jw-1)
 
 ---
 
