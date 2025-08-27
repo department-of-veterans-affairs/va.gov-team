@@ -70,7 +70,7 @@ Remote, moderated, one-hour, semi-structured interviews and usability testing wi
 4. Impact of address changes is unclear
 5. Access barriers for Veterans without a mailing address
 6. Assistive technology missed critical information
-7. Expectations for a complete online letter list
+7. Personalized and comprehensive digital access expected
 8. Address validation builds confidence
 
 ### Details of Findings
@@ -112,8 +112,8 @@ The text-to-speech tool Speechify failed to read key context—like customizatio
 * Struggled with multi-column layouts.
 * “Save to library” feature didn’t capture accordion content.
 
-#### Finding 7: Expectations for a complete online letter list.
-Veterans wanted all applicable benefit letters available online, including state-specific documents, without needing to call VA or search elsewhere.
+#### Finding 7: Personalized and comprehensive digital access expected.
+Veterans expect personal and comprehensive digital access to all benefit letters, including documents that are difficult to find, such as narrative summaries.
 * "[I use letters for] financial aid for mother's medical procedure [and] summer pool pass discount.” - P01
 * “It would be great if it said federal and then showed the state for things you can explore.” -P02
 * “I needed a narrative summary...Neither I nor my VSO could find the letter on VA.gov. I had to call the VA to get it.” -P07
