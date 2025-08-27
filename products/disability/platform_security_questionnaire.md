@@ -8,18 +8,19 @@ From the kickoff meeting invitation:
 
 ## Questionnaire
 
-VFS team: Disability Benefits Crew
+VFS team: Disability Benefits Crew (DBC)
 
 ### POC
 - What is the name of your product(s)/system(s)? 
-   - Form 526ez
-   - Form 0781
-   - Form 4142
+   - Form 526ez (shared with other teams; we focus on the core form and ancillary forms and pathways within the 526ez, such as Form 0781 and Form 4142)
    - Contention Classification API
-   - Employee Experience 
+   - products from the Employee Experience on DBC are generally under the platform footprint of the Form 526ez or Contention Classification API 
 - Describe its purpose in a few sentences.
+   - Form 526ez: improve the core digitized Form 526ez application and ancillary forms and pathways. We focus on end-to-end flow, error messages, filing an intent to file, overall navigation within the form, and managing stability and emergencies 
    - Contention Classification API: The API maps contention text and diagnostic codes from the Form 526ez submission to contention classification codes as defined in the [Benefits Reference Data API](https://developer.va.gov/explore/api/benefits-reference-data/docs).
+   - Employee Experience: develop programmatic means to reduce burdensome manual actions that need to be taken by claims processors.
 - If you represent multiple products, please describe the relationship between them, if there is any.
+   - the Form 526ez submission flow invokes the Contention Classification API and Employee Experience features, to supplement the user-provided form data. The Contention Classification API and Employee Experience features are not relied on production systems other than the Form 526ez submission flow.
 - What is the expected duration of your project? This information helps us understand how our processes need to adapt
   - Ongoing with regular enhancements. The contract runs through ~March 2028.
 
