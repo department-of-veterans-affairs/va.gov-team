@@ -12,6 +12,7 @@ This doc has notes, questions, and action items during our sync.
 ### Continuity of Care work
 **Notes**
 - XML because providers use XML, so easier to share with your new provider
+- From Carnetta: The reason why is that when we implemented the CCD, the BB .txt format was not widely used. Therefore, My HealtheVet classic offered the CCD .pdf and the “interactive” on line display
 
 **Ideas**
 - Order: XML, PDF, HTML
