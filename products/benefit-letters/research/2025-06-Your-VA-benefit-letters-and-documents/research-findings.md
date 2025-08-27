@@ -175,7 +175,7 @@ Based on the research findings, here is a prioritized plan for improving the ben
 ### 2. Increase document clarity and relevance
 
 - **Revise letter names and descriptions:** Use clearer naming and descriptive text to distinguish similarly titled documents.
-- **Expand online letter availability:** Make all frequently requested letters available online, including DD214 and relevant state-specific benefits.
+- **Expand online letter availability:** Make all frequently requested letters available online, including DD214, VA Percentage Narrative Letter, and relevant state-specific benefits.
 - **Personalize letter listings:** Show only letters that apply to each Veteran, and highlight high-priority documents based on context and need.
 
 ### 3. Enhance overall user experience
