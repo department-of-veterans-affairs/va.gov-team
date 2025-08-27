@@ -64,70 +64,71 @@ Remote, moderated, one-hour, semi-structured interviews and usability testing wi
 
 ## Key Findings
 
-1. Veterans successfully navigated to benefit letters, but did not find one clear path.
-2. Documents with similar names, like the "Benefit Summary and Verification Letter" and the "Benefit Verification Letter," confuse Veterans and make them download a few documents to find the right one
-3. Veterans like that they can customize their Benefit Summary and Verification Letter because it gives them more control
-4. Veterans don't all understand that changing their address on this page changes it in other places, which could cause problems they didn't expect
-5. Veterans expect to be able to download their letters even if they don't have a mailing address on file
-6. Veterans using assistive technology might miss important context
-7. Veterans expect to find a complete list of all the letters that apply to them online.
-8. Veterans like the address validation because it makes them feel confident their information is correct
+1. Veterans successfully found benefit letters, but used different paths
+2. Similar letter names caused confusion
+3. Customization is highly valued
+4. Impact of address changes is unclear
+5. Access barriers for Veterans without a mailing address
+6. Assistive technology missed critical information
+7. Expectations for a complete online letter list
+8. Address validation builds confidence
 
 ### Details of Findings
-#### Finding 1: Veterans successfully navigated to benefit letters, but did not find one clear path
-Most participants (P1, P2, P5, P11, P12, P14, P15) signed in first before looking for benefit letters. Navigation methods varied significantly: keyword search (P1), dropdown menu (P11), top pages/Records section (P5, P12, P14), and search functionality (P14).
-* "I would keyword search for benefit letters.” -P1
-* “I normally search for it. I'd type 'document letter' or the specific name of the letter.” -P7
-* P15 found the dropdown menu confusing: "When it said just 'letters,' that didn't make sense to me...what kind of letters?" <img width="400" alt="dropdown showing letters" src="https://github.com/user-attachments/assets/65fc3240-be12-4822-af2c-4484abbc96aa" />
+#### Finding 1: Veterans successfully found benefit letters, but used different paths.
+Participants did not follow one clear path to reach benefit letters. Navigation methods varied—keyword search, dropdown menus, Records section, or site search—indicating the need for more intuitive navigation.
+* "I would keyword search for benefit letters.” -P01
+* “I normally search for it. I'd type 'document letter' or the specific name of the letter.” -P07
+* "When [the dropdown menu] said just 'letters,' that didn't make sense to me...what kind of letters?" -P15 <img width="400" alt="dropdown showing letters" src="https://github.com/user-attachments/assets/65fc3240-be12-4822-af2c-4484abbc96aa" />
 
-#### Finding 2: Documents with similar names, like the "Benefit Summary and Verification Letter" and the "Benefit Verification Letter," confuse Veterans and make them download a few documents to find the right one
-6 out of 11 participants (55%) were confused by the similarly named documents "Benefit Summary and Service Verification Letter" and "Benefit Verification Letter."
-* "Unclear what the difference is between 'Benefit Verification letter' and 'Benefit Summary and Verification Letter.’” -P1
-* “What's the difference between ‘benefit summary and verification’ and ‘benefit verification’? I guess one is for sharing with others and one is for yourself...I see what the difference is, but don't understand why there needs to be two.” -P2
-* “The names are a little confusing. I had to open both to understand the difference.” -P7
+#### Finding 2: Similar letter names caused confusion.
+Letters like the “Benefit Summary and Service Verification Letter” and the “Benefit Verification Letter” confused 6 out of 11 participants (55%).
+* "Unclear what the difference is between 'Benefit Verification letter' and 'Benefit Summary and Verification Letter.’” -P01
+* “What's the difference between ‘benefit summary and verification’ and ‘benefit verification’? I guess one is for sharing with others and one is for yourself...I see what the difference is, but don't understand why there needs to be two.” -P02
+* “The names are a little confusing. I had to open both to understand the difference.” -P07
 * "Benefit verification letter vs [top letter] it's not clear...it's definitely confusing.” -P12
 
-#### Finding 3: Veterans like that they can customize their Benefit Summary and Verification Letter because it gives them more control
-All participants who attempted customization successfully used the feature, with 4 out of 11 participants (36%) calling it a “game-changer.”
-* "The opportunity right there [to select what to include in the letter] is phenomenal.” -P3
-* “This was a game-changer...we used to have to call and wait a few weeks, if you were lucky.” -P3
+#### Finding 3: Customization is highly valued.
+Veterans appreciated being able to customize their Benefit Summary and Service Verification Letter.
+* "The opportunity right there [to select what to include in the letter] is phenomenal.” -P03
+* “This was a game-changer...we used to have to call and wait a few weeks, if you were lucky.” -P03
 * "I like that it gave you the option to choose what you want and don't want in your letter...before it used to include everything.” -P14
 * “I like that when you do go here to download benefit letters, it gives you one that I can pick and choose what I need.” -P15
 * “I like that you can choose what to include in the letter.” -P11
 
-#### Finding 4: Veterans don't all understand that changing their address on this page changes it in other places, which could cause problems they didn't expect
-5 out of 11 participants (45%) didn't realize that updating their address on the benefit letters page updates their entire VA profile.
-* "That was not clear to me...[that my address would be updated elsewhere].” -P1
+#### Finding 4: Impact of address changes is unclear.
+Nearly half of participants did not realize that updating their address on the benefit letters page updates their address in other VA services, which could lead to unintended consequences.
+* "That was not clear to me...[that my address would be updated elsewhere].” -P01
 * "In my mind, I thought it would just change my address in my letter, not in my profile...that's not an action I would typically expect.” -P11
 
-#### Finding 5: Veterans expect to be able to download their letters even if they don't have a mailing address on file
-5 out of 11 participants (45%) expected to access benefit letters without a valid mailing address, citing concerns for homeless Veterans.
-* "I would hope the letters are still available. You might be in between homes or homeless—those documents are still needed.” -P7
+#### Finding 5: Access barriers for Veterans without a mailing address.
+Several participants expected to download letters even without a valid mailing address on file, raising concerns about homeless or transient Veterans.
+* "I would hope the letters are still available. You might be in between homes or homeless—those documents are still needed.” -P07
 * "If I were homeless, I would have a problem with [the letters not showing up without an address].” -P11
 * “Even if I didn't have a mailing address listed in there, I would think that I could still go in there and access a benefit letter.” -P14
 
-#### Finding 6: Veterans using assistive technology might miss important context
-Text-to-speech software (Speechify) failed to read critical information, creating accessibility barriers.
-* "Speechify didn't read out that you could pick options like 'monthly benefit amount' or 'military service’.” -P7
-* "It skipped the note about the address change affecting my whole profile—that's critical.” -P7
+#### Finding 6: Assistive technology missed critical information.
+Text-to-speech tool Speechify failed to read important context, such as customization options and alerts, creating accessibility gaps.
+* "Speechify didn't read out that you could pick options like 'monthly benefit amount' or 'military service’.” -P07
+* "It skipped the note about the address change affecting my whole profile—that's critical.” -P07
 
-#### Finding 7: Veterans expect to find a complete list of all the letters that apply to them online
-* P1 used letters for "financial aid for mother's medical procedure" and "summer pool pass discount.”
-* “It would be great if it said federal and then showed the state for things you can explore.” -P2
-* “I needed a narrative summary...Neither I nor my VSO could find the letter on VA.gov. I had to call the VA to get it.” -P7
-* P10 uses letters "any time I need to certify or re-certify for SDVOSB application.”
+#### Finding 7: Expectations for a complete online letter list.
+Veterans wanted all applicable benefit letters available online, including state-specific documents, without needing to call VA or search elsewhere.
+* "[I use letters for] financial aid for mother's medical procedure [and] summer pool pass discount.” - P01
+* “It would be great if it said federal and then showed the state for things you can explore.” -P02
+* “I needed a narrative summary...Neither I nor my VSO could find the letter on VA.gov. I had to call the VA to get it.” -P07
+* "[I use letters] any time I need to certify or re-certify for SDVOSB application.” - P10
 * “Is it possible to only show letters that apply to me?” -P12
 
-#### Finding 8: Veterans like the address validation because it makes them feel confident their information is correct
-Veterans valued address validation for accuracy despite questioning requirements.
-* "I've entered an extra one or a zero by mistake [on other websites] at the end of my address and was glad they caught it...this is nice.” -P14
+#### Finding 8: Address validation builds confidence
+While some questioned the mailing address requirement, Veterans valued validation checks that reduced errors and improved trust in their information.
 * "I want to be careful about the address I want on my letter...my medications might go there, so I need to be careful about that.” -P10
+* "I've entered an extra one or a zero by mistake [on other websites] at the end of my address and was glad they caught it...this is nice.” -P14
 
-### Findings Beyond Original Research Plan
+## Findings Beyond Original Research Plan
 
 #### Veterans confuse benefit letters with claim and decision letters
 Multiple participants (P4, P5, P12) initially confused benefit letters with claims or decision letters, showing broader mental model mismatches.
-* "Mixing up benefit and decision letters initially.” -P5
+* "Mixing up benefit and decision letters initially.” -P05
 * P12 initially navigated to the Claim Status Tool when asked to return to benefit letters.
 
 #### Critical Text-to-Speech Compatibility Issues with Speechify
@@ -153,7 +154,7 @@ Veterans expressed skepticism about cross-system functionality.
 * “I think it is very direct about what the page is providing and how to get there...I also like that it shows a brief description of what each letter is about.”* -P11
 * “It's pretty cut and [dry]...even if I didn't know what [a letter] was, I could read about it.” -P14
 
-#### DD214 Critically Important
+#### DD214 critically important
 Multiple participants emphasized the importance of DD214 and appreciated prominent access.
 * "DD214 is typically the letter that is problematic for Veterans.” -P3
 * "Most important thing is to find the 214.” -P15
@@ -165,20 +166,20 @@ Based on the research findings, here is a prioritized plan for improving the ben
 
 ### 1. Improve access and usability
 
-- **Conduct an accessibility audit:** Identify and address gaps for screen readers and commercial text-to-speech tools (e.g., Speechify), ensuring all interactive elements and critical alerts are accessible.
-- **Clarify Address Update Impact:** Clearly communicate when changing a mailing address on the benefit letters page that it affects the entire VA profile and other VA services.
-- **Allow Access Without Mailing Address:** Provide options for Veterans to download benefit letters even if they do not have a current mailing address, considering the needs of homeless or transient Veterans.
+- **Conduct an accessibility audit:** Ensure all interactive elements and critical alerts work with screen readers and commercial text-to-speech tools (e.g., Speechify).
+- **Clarify address update impact:** Clearly explain that changing a mailing address on this page updates tother VA services.
+- **Allow access without an address:** Provide a way for Veterans to download benefit letters even without a current mailing address, addressing the needs of homeless or transient users.
 
 ### 2. Increase document clarity and relevance
 
-- **Revise Letter Names and Descriptions:** Improve document understanding by revising confusing letter names and using descriptions to better distinguish them.
-- **Expand Online Letter Availability:** Work to make all relevant benefit letters and documents accessible online, including commonly requested items like DD214 and state-specific benefits.
-- **Personalize Letter Listings:** Display only the letters that apply to each Veteran, and highlight the most important documents based on user context and needs.
+- **Revise letter names and descriptions:** Use clearer naming and descriptive text to distinguish similarly titled documents.
+- **Expand online letter availability:** Make all frequently requested letters available online, including DD214 and relevant state-specific benefits.
+- **Personalize letter listings:** Show only letters that apply to each Veteran, and highlight high-priority documents based on context and need.
 
 ### 3. Enhance overall user experience
 
-- **Optimize Search and Navigation:** Improve keyword search functionality and ensure intuitive navigation pathways to benefit letters, reducing confusion and friction.
-- **Provide State-Specific Benefit Guidance:** Use the mailing address to surface available state and local benefits, supporting Veterans in finding relevant programs.
+- **Optimize search and navigation:** Improve keyword search and navigation so Veterans can find benefit letters through more intuitive pathways.
+- **Provide state-specific benefit guidance:** Use mailing addresses to display relevant state and local benefit options.
 
 ## Appendix
 
