@@ -3,7 +3,7 @@ Last updated: 2025-05-08
 
 - [ADR: 001 - Define the meaning for colored tags](#ADR-001---Define-the-meaning-for-colored-tags)
 - [ADR: 002 - Tag styles](#ADR-002---Tag-styles)
-- [ADR: 003 - Accessibile Colors](#ADR-002---Accessible-colors)
+- [ADR: 003 - Accessibile Colors](#ADR-002---Accessible-Colors)
 
 ## ADR: 001 - Define the meaning for colored tags
 
