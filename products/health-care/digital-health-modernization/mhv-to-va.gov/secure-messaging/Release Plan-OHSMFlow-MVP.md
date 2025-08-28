@@ -29,6 +29,7 @@ _Note: This realease will be staged approach with an MVP target for the week of 
 ### Do I need a staged rollout?
 
 Yes- MVP and Post MVP
+A defined set of users will be whitelisted in `mhv_secure_messaging_cerner_pilot` Flipper toggle to gain access to the new experience
 
 ### Define the Rollback process (To be Updated-does not apply to SM, below is just a SAMPLE template)
 
@@ -67,9 +68,21 @@ Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics
 
 
 
-## Datadog Dashboard  (Input from ENG- Alex)
+## Datadog Dashboard
 
-Add Link HERE
+Parent [MHV Secure Messaging Metrics Dashboard](https://vagov.ddog-gov.com/dashboard/39q-93p-ftw/mhv-secure-messaging-metrics) contains [additional section](https://vagov.ddog-gov.com/dashboard/39q-93p-ftw/mhv-secure-messaging-metrics?tile_focus=8373464859678247) to monitor additional metrics for the introduced functionality
+
+| Metric Name | Description |
+| ----------- | ----------- |
+| [web] New Drafts created on va.gov| count of requests grouped by status code  |
+| [web] Drafts updated on va.gov | count of requests grouped by status code |
+| [web] Drafts deleted on va.gov| count of requests grouped by status code |
+| [web] Messages Sent on va.gov| count of requests grouped by status code |
+| [web] Latency - Drafts/Send Message| metrics on latency for requests above sampled only for user of the new flow on `/select-care-team` page  |
+| [web] click on Care System Radio button | RUM metrics to track interaction with new care system selection radio button |
+| [web] click on "Update your contact list" link | RUM metrics to track interaction with URL on `/new-message/select-care-team` page |
+| [web] click on "Can't find your care team" link | RUM metrics to track interaction with URL on `/new-message/select-care-team` page |
+| [web] click on "Select different care team" link | RUM metrics to track interaction with URL on `/new-message/start-message` page |
 
 | Metric Name | Description |
 | ----------- | ----------- |
@@ -79,18 +92,13 @@ Add Link HERE
 
 **User-Facing Metrics (Google Analytics and Call Center)**- Applicable here or chop?
 
-Add Link Here
+User-Facing Metrics (Google Analytics and Call Center)- Applicable here or chop?
 
 | Metric Name | Description |
 | ----------- | ----------- |
-| |  |
 |  |  |
 | |  |
-| |  |
-|  |  |
-|  |  |
-| |  |
-
+|  | |
 
 
 
