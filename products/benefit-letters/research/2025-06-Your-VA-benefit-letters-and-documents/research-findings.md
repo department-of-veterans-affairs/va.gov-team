@@ -78,7 +78,9 @@ Remote, moderated, one-hour, semi-structured interviews and usability testing wi
 Participants did not follow one clear path to reach benefit letters. Navigation methods varied—keyword search, dropdown menus, Records section, or site search—indicating the need for more intuitive navigation.
 * "I would keyword search for benefit letters.” -P01
 * “I normally search for it. I'd type 'document letter' or the specific name of the letter.” -P07
-* "When [the dropdown menu] said just 'letters,' that didn't make sense to me...what kind of letters?" -P15 <img width="400" alt="dropdown showing letters" src="https://github.com/user-attachments/assets/65fc3240-be12-4822-af2c-4484abbc96aa" />
+* "When [the dropdown menu] said just 'letters,' that didn't make sense to me...what kind of letters?" -P15
+<img width="400" alt="CleanShot 2025-08-28 at 07 25 06@2x" src="https://github.com/user-attachments/assets/ac1d66e9-5c74-40e8-9aa5-dbaa5d34a9f3" />
+
 
 #### Finding 2: Similar letter names caused confusion.
 Letters like the “Benefit Summary and Service Verification Letter” and the “Benefit Verification Letter” confused 6 out of 11 participants (55%).
@@ -94,11 +96,15 @@ Veterans appreciated being able to customize their Benefit Summary and Service V
 * "I like that it gave you the option to choose what you want and don't want in your letter...before it used to include everything.” -P14
 * “I like that when you do go here to download benefit letters, it gives you one that I can pick and choose what I need.” -P15
 * “I like that you can choose what to include in the letter.” -P11
+<img width="400" alt="CleanShot 2025-08-28 at 07 24 20@2x" src="https://github.com/user-attachments/assets/96db8378-6edf-4de0-a376-904233cfecd4" />
+
 
 #### Finding 4: Impact of address changes is unclear.
 Nearly half of participants did not realize that updating their address on the benefit letters page updates their address in other VA services, which could lead to unintended consequences.
 * "That was not clear to me...[that my address would be updated elsewhere].” -P01
 * "In my mind, I thought it would just change my address in my letter, not in my profile...that's not an action I would typically expect.” -P11
+<img width="400" alt="CleanShot 2025-08-28 at 07 22 59@2x" src="https://github.com/user-attachments/assets/d310b7dd-0473-424a-b01e-71b9f002d2bf" />
+
 
 #### Finding 5: Access barriers for Veterans without a mailing address.
 Several participants expected to download letters even without a valid mailing address on file, raising concerns about homeless or transient Veterans.
@@ -111,6 +117,8 @@ The text-to-speech tool Speechify failed to read key context—like customizatio
 * Skipped important page elements (address, blue address-change alert, accordion content); in screenshot mode, only accordion headers were read.
 * Struggled with multi-column layouts.
 * “Save to library” feature didn’t capture accordion content.
+<img width="600" alt="CleanShot 2025-08-28 at 07 26 19@2x" src="https://github.com/user-attachments/assets/27068ed5-41c4-450a-8b48-c5f9802710b8" />
+
 
 #### Finding 7: Veterans expect personalized and comprehensive digital access.
 Veterans expect to find all relevant benefit letters online in one place, including documents that are often hard to locate, such as narrative summaries. They also want the experience to feel personalized, showing only the letters that apply to them.
@@ -119,11 +127,15 @@ Veterans expect to find all relevant benefit letters online in one place, includ
 * “I needed a narrative summary...Neither I nor my VSO could find the letter on VA.gov. I had to call the VA to get it.” -P07
 * "[I use letters] any time I need to certify or re-certify for SDVOSB application.” - P10
 * “Is it possible to only show letters that apply to me?” -P12
+<img width="400" alt="CleanShot 2025-08-28 at 07 27 24@2x" src="https://github.com/user-attachments/assets/a392e5fa-9222-4b25-aa9f-d74774fd2d29" />
+
 
 #### Finding 8: Address validation builds confidence
 While some questioned the mailing address requirement, Veterans valued validation checks that reduced errors and improved trust in their information.
 * "I want to be careful about the address I want on my letter...my medications might go there, so I need to be careful about that.” -P10
 * "I've entered an extra one or a zero by mistake [on other websites] at the end of my address and was glad they caught it...this is nice.” -P14
+<img width="400" alt="CleanShot 2025-08-28 at 07 27 56@2x" src="https://github.com/user-attachments/assets/5820f52a-3fe4-42d5-9968-b8dd468275b3" />
+
 
 ## Findings Beyond Original Research Plan
 
