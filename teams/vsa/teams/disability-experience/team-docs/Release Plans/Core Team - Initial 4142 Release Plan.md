@@ -299,7 +299,7 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 - [ ] Keep heightened monitoring for 24 hours before proceeding to Step 4
 
 ---
-### Step 4 – Enable for 1% of Users
+### Step 4 – Enable for 100% of Users
 - [ ] At agreed release time, enable toggle for 100% of users
 - [ ] PM/Engineering lead to monitor Datadog dashboards in real time for:
   - Submission error spikes (>5% deviation from baseline triggers rollback)
