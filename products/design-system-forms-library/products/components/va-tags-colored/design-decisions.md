@@ -103,9 +103,9 @@ Tags with uppercase is **not a good choice** for:
 - When the tone should be conversational or friendly
 
 ### Decision
-**Recommendation:** Maintain alignment with USWDS tag component standards by continuing to use uppercase text for tags.
+**Recommendation:** Maintain alignment with [USWDS tag component](https://designsystem.digital.gov/components/tag/) standards by continuing to use uppercase text for tags.
 
-**Rationale:** This approach preserves design system consistency and alignment with the [USWDS tag component](https://designsystem.digital.gov/components/tag/) while leveraging the functional benefits of uppercase formatting for short-form, categorical content.  
+**Rationale:** This approach preserves design system consistency and alignment with the USWDS tag component while leveraging the functional benefits of uppercase formatting for short-form, categorical content.  
 
 ### Consequences
 - Current tag implementation may not accommodate all existing use cases optimally
