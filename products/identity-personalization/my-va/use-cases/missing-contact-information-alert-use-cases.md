@@ -4,14 +4,14 @@
 - [Figma files](https://www.figma.com/design/eztyT5LpinAolQPMFnFtw7/Missing-Contact-Info?node-id=3-17192&t=xs0tatrc16quiEQo-1)
 
 
-## Overview
+## Quick Links
 Included in this section are descriptions of use cases for the missing contact information alert and flow and links to shared VA.gov profile use cases.
 - [Common use cases for My VA: Missing contact information alert](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/missing-contact-information-alert-use-cases.md#common-use-cases-for-my-va-missing-contact-information-alert)
 - [Common use cases for Missing contact info: Summary page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/missing-contact-information-alert-use-cases.md#common-use-cases-for-missing-contact-info-summary-page)
-- Common use cases for Missing contact info: Add mobile phone number 
-- Common use cases for Missing contact info: Add contact email address 
-- Common use cases for Missing contact info: Add mailing address
-- Common use cases for Missing contact info: Contact information update confirmation page
+- [Common use cases for Modified Edit-as-a-subtask: Add mobile phone number](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/identity-personalization/my-va/use-cases/missing-contact-information-alert-use-cases.md#common-use-cases-for-missing-contact-info-add-mobile-phone-number) 
+- [Common use cases for Modified Edit-as-a-subtask: Add contact email address](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/identity-personalization/my-va/use-cases/missing-contact-information-alert-use-cases.md#common-use-cases-for-missing-contact-info-add-contact-email-address) 
+- [Common use cases for Modified Edit-as-a-subtask: Add mailing address](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/identity-personalization/my-va/use-cases/missing-contact-information-alert-use-cases.md#common-use-cases-for-modified-edit-as-a-subtask-add-mailing-address)
+- [Common use cases for Modified Edit-as-a-subtask: Contact information update confirmation page](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/identity-personalization/my-va/use-cases/missing-contact-information-alert-use-cases.md#common-use-cases-for-modified-edit-as-a-subtask-contact-information-update-confirmation-page)
 
 ## Common use cases for My VA: Missing contact information alert
 ### User logs in with LOA3 account
@@ -74,10 +74,9 @@ A text note above the alert “[A/An] [mobile phone/email address] is required f
 
 <details><summary>Modified Edit-as-a-subtask flow</summary>
 
-- **Use case:** If a user edits their contact information (email, address, phone) by clicking the edit link on the Missing Contact Information Summary page, they will launch the modified edit-as-a-subtask flow. The flow is a single question flow that updates their contact information then directs the user back to the Summary page. [Link to product documentation.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/editing-as-a-subtask) See modifications in figma designs linked below.
-- **Format:** See designs
+- **Use case:** If a user edits their contact information (email, address, phone) by clicking the edit link on the Missing Contact Information Summary page, they will launch the modified edit-as-a-subtask flow. The flow is a single question flow that updates their contact information then directs the user back to the Summary page. This document contains documentation describing the modified edit-as-a-subtask flow. [Here you can find the origional edit-as-a-subtask product documentation.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/editing-as-a-subtask) 
+- **Format:** See designs for modified example
 - [Links to designs](https://www.figma.com/design/eztyT5LpinAolQPMFnFtw7/Missing-Contact-Info?node-id=43-8774&t=qBnzLOIRS5QmY5ev-1)
-- [Link to code]
 - **Content:** See designs
 
 </details>
@@ -135,3 +134,231 @@ Alert Body Copy: "We still don’t have your [mobile phone, email address, and m
 Alert Body Copy: “[We’re sorry. We’re having some server issues and are working to fix them. Please try applying again in a few moments.](https://www.figma.com/design/eztyT5LpinAolQPMFnFtw7/Missing-Contact-Info?node-id=60-13216&t=8zRR5AUIS7qoYnGK-1)”
 
 </details>
+
+## Common use cases for Modified Edit-as-a-subtask: Add mobile phone number
+### User logs in with LOA3 account
+#### Add/Update mobile phone number
+<details><summary> Mobile phone number text field</summary>
+
+- **Use case:** Text field is automatically populated with the mobile phone number from their profile if it exists. They can add, edit, or leave the text field as it as is. If there are input errors they show inline with the input field.
+- **Staging user:** Any staging user can be used to view the “Add your mobile number” page by removing the email address from the [contact information page in staging.](https://staging.va.gov/profile/contact-information)
+- **Format:** [Text input](https://design.va.gov/storybook/?path=/docs/uswds-va-text-input--docs)
+- **Link to designs:** [Text field populated with mobile phone number](https://www.figma.com/design/eztyT5LpinAolQPMFnFtw7/Missing-Contact-Info?node-id=39-5463&t=aXZQimDQORGaA1ST-1)
+
+  - **Input errors:**
+  <details><summary> Submit without entering any characters</summary>
+
+  - **Use case:** LOA3 user will see an inline error message informing them that they must provide a response.
+  - **Staging user:** Any staging user can be used to view the “Add your mobile number” page by removing the mobile phone number from the contact information page in   staging.
+  - **Format:** Text input error
+  - **Link to designs:** Empty text field without a response inline error
+  - **Content:**
+  “You must provide a response”
+
+
+  </details>
+
+  <details><summary> Submit with less than 10 digits</summary>
+
+  - **Use case:** LOA3 user will see an inline error message informing them that they must enter at least 10 character(s).
+  - **Staging user:** Any staging user can be used to view the “Add your mobile number” page by removing the mobile phone number from the contact information page in   staging.
+  - **Format:** [Text input error](https://design.va.gov/storybook/?path=/story/uswds-va-text-input--error)
+  - **Link to designs:** [Text field with less than 10 character(s) inline error](https://www.figma.com/design/eztyT5LpinAolQPMFnFtw7/Missing-Contact-Info?node-id=39-5463&t=aXZQimDQORGaA1ST-1)
+  - **Content:**
+  “This field should be at least 10 character(s)”
+
+
+  </details>
+
+  <details><summary> Submit with letters entered</summary>
+
+  - **Use case:** LOA3 user will see an inline error message informing them that they must enter a 10 digit phone number.
+  - **Staging user:** Any staging user can be used to view the “Add your mobile number” page by removing the mobile phone number from the contact information page in staging.
+  - **Format:** [Text input error](https://design.va.gov/storybook/?path=/story/uswds-va-text-input--error)
+  - **Link to designs:** [Text field with letters inline error](https://www.figma.com/design/eztyT5LpinAolQPMFnFtw7/Missing-Contact-Info?node-id=39-5463&t=aXZQimDQORGaA1ST-1)
+  - **Content:**
+  “Enter a 10 digit phone number”
+
+  </details>
+
+  <details><summary> Submit after entering more than 10 digits in the text field</summary>
+
+  - **Use case:** LOA3 user will see an inline error message informing them that they must enter a 10 digit phone number.
+  - **Staging user:** Any staging user can be used to view the “Add your mobile number” page by removing the mobile phone number from the contact information page in staging.
+  - **Format:** [Text input error](https://design.va.gov/storybook/?path=/story/uswds-va-text-input--error)
+  - **Link to designs:** [Text field with more than 10 characters](https://www.figma.com/design/eztyT5LpinAolQPMFnFtw7/Missing-Contact-Info?node-id=39-5463&t=aXZQimDQORGaA1ST-1)
+  - **Content:**
+  “Enter a 10 digit phone number”
+
+  </details>
+
+</details>
+
+
+<details><summary> Submit button after entering in a non US phone number</summary>
+
+- **Use case:** LOA3 user will see a slim error alert if they enter a non US phone number
+- **Staging user:** Any staging user can be used to view the “Add your mobile number” page by removing the mobile phone number from the contact information page in staging.
+- **Format:** [Slim Error Alert](https://design.va.gov/storybook/?path=/story/uswds-va-alert--slim)
+- **Link to designs:** [U.S. Area codes alert](https://www.figma.com/design/eztyT5LpinAolQPMFnFtw7/Missing-Contact-Info?node-id=39-5463&t=aXZQimDQORGaA1ST-1)
+- **Content:**
+“We can’t make this update because we currently only support U.S. area codes. Please provide a U.S.-based phone number”
+
+</details>
+
+## Edge cases
+### Validation
+None
+
+### Flags
+#### Blocked users
+- [Blocked users documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/blocked-account.md)
+
+#### LOA1 users
+- [User logs in with an LOA1 account documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
+
+
+### Errors
+
+#### System errors
+<details><summary>Server issues</summary>
+
+- **Use case:** LOA3 user will see a slim error alert if there is a backend issue preventing them from submitting their phone number
+- **Staging user:** Any staging user can be used to view the “Add your mobile number” page by removing the mobile phone number from the contact information page in staging.
+- **Format:** [Slim Error Alert](https://design.va.gov/storybook/?path=/story/uswds-va-alert--slim)
+- **Link to designs:** [System Error | Backend system down](https://www.figma.com/design/eztyT5LpinAolQPMFnFtw7/Missing-Contact-Info?node-id=39-6335&t=aXZQimDQORGaA1ST-1)
+- **Content:**
+“We’re sorry. We can’t update your information right now. We’re working to fix this problem. Try again later”
+
+
+</details>
+<details><summary>Server issues</summary>
+
+- **Format:** This does not look like a design system component
+- **Link to designs:** [Server issues](https://www.figma.com/design/eztyT5LpinAolQPMFnFtw7/Missing-Contact-Info?node-id=40-6350&t=aXZQimDQORGaA1ST-1)
+- **Content:**
+Alert Body Copy: “We’re sorry. We’re having some server issues and are working to fix them. Please try applying again in a few moments.”
+Buttons: “Yes”, “No”, “Continue your application”
+
+</details>
+
+
+## Common use cases for Modified Edit-as-a-subtask: Add contact email address
+### User logs in with LOA3 account
+#### Add/Update contact email address
+<details><summary> Contact email address text field</summary>
+
+- **Use case:** Text field is automatically populated with the contact email address from their profile if it exists. They can add, edit, or leave the text field as it as is. If there are input errors they show inline with the input field.
+- **Staging user:** Any staging user can be used to view the “Add your email address” page by removing the contact email address from the contact information page in staging.
+- **Format:** [Text input](https://design.va.gov/storybook/?path=/docs/uswds-va-text-input--docs)
+- **Link to designs:** [Text field missing email address](https://www.figma.com/design/eztyT5LpinAolQPMFnFtw7/Missing-Contact-Info?node-id=29-4877&t=aXZQimDQORGaA1ST-1), [Text field populated with email address](https://www.figma.com/design/eztyT5LpinAolQPMFnFtw7/Missing-Contact-Info?node-id=44-15348&t=aXZQimDQORGaA1ST-1)
+
+  - **Input errors:**
+    <details><summary> Submit without entering any characters</summary>
+
+    - **Use case:** LOA3 users will see an inline error message informing them that they must enter their email address.
+    - **Staging user:** Any staging user can be used to view the “Add your email address” page by removing the mobile phone number from the contact information page in staging
+    - **Format:** [Text input error](https://design.va.gov/storybook/?path=/story/uswds-va-text-input--error)
+    - **Link to designs:** [Empty text field without a response inline error](https://www.figma.com/design/eztyT5LpinAolQPMFnFtw7/Missing-Contact-Info?node-id=44-15349&t=aXZQimDQORGaA1ST-1)
+    - **Content:**
+  “You must enter your email address, using the format: X@X.com”
+    </details>
+    
+    <details><summary> Submit button with an incomplete domain name</summary>
+      
+    - **Use case:** LOA3 users will see an inline error message informing them that they must enter their email address and the format they need to follow.
+    - **Staging user:** Any staging user can be used to view the “Add your email address” page by removing the mobile phone number from the contact information page in staging.
+    - **Format:** [Text input error](https://design.va.gov/storybook/?path=/story/uswds-va-text-input--error)
+    - **Link to designs:** [Text field with an incomplete domain name inline error](https://www.figma.com/design/eztyT5LpinAolQPMFnFtw7/Missing-Contact-Info?node-id=44-15349&t=aXZQimDQORGaA1ST-1)
+    - **Content:**
+“You must enter your email address, using the format: X@X.com”
+
+     </details>
+     <details><summary> Submit button without characters before the domain name</summary>
+      
+    - **Use case:** Use case: LOA3 users will see an inline error message informing them that they must enter a valid email address.
+    - **Staging user:** Any staging user can be used to view the “Add your email address” page by removing the mobile phone number from the contact information page in staging.
+    - **Format:** [Text input error](https://design.va.gov/storybook/?path=/story/uswds-va-text-input--error)
+    - **Link to designs:** [Text field with an invalid email address inline error](https://www.figma.com/design/eztyT5LpinAolQPMFnFtw7/Missing-Contact-Info?node-id=44-15349&t=aXZQimDQORGaA1ST-1)
+    - **Content:**
+“You must enter a valid email address”
+
+     </details>
+     <details><summary> Submit button without a domain name</summary>
+      
+    - **Use case:** Use case: LOA3 users will see an inline error message informing them that they must enter a valid email address.
+    - **Staging user:** Any staging user can be used to view the “Add your email address” page by removing the mobile phone number from the contact information page in staging.
+    - **Format:** [Text input error](https://design.va.gov/storybook/?path=/story/uswds-va-text-input--error)
+    - **Link to designs:** [Text field with an invalid email address inline error](https://www.figma.com/design/eztyT5LpinAolQPMFnFtw7/Missing-Contact-Info?node-id=44-15349&t=aXZQimDQORGaA1ST-1)
+    - **Content:**
+“You must enter a valid email address”
+
+     </details>
+
+</details>
+
+## Edge cases
+### Validation
+None
+
+### Flags
+#### Blocked users
+- [Blocked users documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/blocked-account.md)
+
+#### LOA1 users
+- [User logs in with an LOA1 account documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
+
+
+### Errors
+
+#### System errors
+Unknown, this flow was built using a pre-existing form flow and the system errors mirrored what that flow had
+
+
+</details>
+
+## Common use cases for Modified Edit-as-a-subtask: Add mailing address
+### User logs in with LOA3 account
+#### Add/Update contact mailing address
+
+- Documentation for this use case have been created in other locations and linked below
+- address-validation
+- apo-fpo-dpo
+- bad-address-indicator
+
+## Common use cases for Modified Edit-as-a-subtask: Contact information update confirmation page
+### User logs in with LOA3 account and completes the modified Edit-as-a-subtask flow
+#### Confirmation of success mobile phone, contact email, and mailing address.
+     
+<details><summary> Confirmation of success message</summary>
+     
+- **Use case:** After a user successfully submits complete contact information they will see a confirmation page with a success alert with an action link and two other action links
+- **Staging user:** Any staging user can be used to view the “Add your mailing address” page by deleting either the mobile phone number or contact email address from the contact information page in staging.
+- **Format:** [Success alert](https://design.va.gov/storybook/?path=/story/uswds-va-alert--success), [Action link](https://design.va.gov/storybook/?path=/docs/components-va-link-action--docs)
+- **Link to designs:** [Updated contact information confirmation page](https://www.figma.com/design/eztyT5LpinAolQPMFnFtw7/Missing-Contact-Info?node-id=49-6193&t=0abBcuqqRUYIwV1C-1)
+- **Content:**
+  - Success Alert Header: Contact information added to your profile
+  - Success Alert body: If you apply for VA benefits, we’ll use this information to contact you with important information about your benefits and how to manage them.  You can change your email and text notification settings in your profile.
+  - Action link in Success Alert: “Go to your notification settings in your VA.gov profile”
+  - Action link 1: “Go back to My VA”
+  - Action link 2: “Go to your profile”
+ 
+</details>
+ 
+## Edge cases
+### Validation
+None
+
+### Flags
+#### Blocked users
+- [Blocked users documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/blocked-account.md)
+
+#### LOA1 users
+- [User logs in with an LOA1 account documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/use-cases/loa1-user.md)
+
+
+### Errors
+
+#### System errors
+Unknown, this flow was built using a pre-existing form flow and the system errors mirrored what that flow had
+
