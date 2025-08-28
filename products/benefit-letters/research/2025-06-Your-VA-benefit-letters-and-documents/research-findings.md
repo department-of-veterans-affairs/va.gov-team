@@ -112,8 +112,8 @@ The text-to-speech tool Speechify failed to read key context—like customizatio
 * Struggled with multi-column layouts.
 * “Save to library” feature didn’t capture accordion content.
 
-#### Finding 7: Personalized and comprehensive digital access expected.
-Veterans expect personal and comprehensive digital access to all benefit letters, including documents that are difficult to find, such as narrative summaries.
+#### Finding 7: Veterans expect personalized and comprehensive digital access.
+Veterans expect to find all relevant benefit letters online in one place, including documents that are often hard to locate, such as narrative summaries. They also want the experience to feel personalized, showing only the letters that apply to them.
 * "[I use letters for] financial aid for mother's medical procedure [and] summer pool pass discount.” - P01
 * “It would be great if it said federal and then showed the state for things you can explore.” -P02
 * “I needed a narrative summary...Neither I nor my VSO could find the letter on VA.gov. I had to call the VA to get it.” -P07
@@ -132,7 +132,7 @@ Some participants initially mistook benefit letters for claim or decision letter
 * "Mixing up benefit and decision letters initially.” -P05
 * P12 initially navigated to the Claim Status Tool when asked to return to benefit letters.
 
-### Critical Text-to-Speech Compatibility Issues with Speechify
+### Critical text-to-speech compatibility issues with Speechify
 Speechify and similar commercial TTS tools struggled to interpret the page content logically.
 * P07 noted Speechify required highlighting section by section to read pages logically.
 * Commercial TTS tools missed interactive elements and critical alerts.
