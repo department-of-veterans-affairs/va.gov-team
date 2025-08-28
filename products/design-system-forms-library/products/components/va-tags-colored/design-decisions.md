@@ -84,7 +84,7 @@ The tag background must meet 3:1 color contrast against the page background
 ### Consequences
 It may make the tags look like buttons. Usability testing would help us understand if users think these are buttons.
 
-## ADR: 004 - Sentence case
+## ADR: 004 - Uppercase text
 
 ### Status: Pending
 
