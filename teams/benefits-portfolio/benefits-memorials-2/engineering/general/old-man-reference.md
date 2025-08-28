@@ -1,4 +1,4 @@
-# That one guys notes 
+# Andrew's cheat sheet 
 
 ## Feature flags
 Current state of feature flags (as of ~**08/26/25**)
