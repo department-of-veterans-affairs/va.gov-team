@@ -23,7 +23,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v4
       with:
-        token: ${{ secrets.WORKFLOWS_PERMISSIONS }}
+        token: ${{ secrets.MANIFEST_TEAM_VALIDATION_TOKEN }}
         sparse-checkout: |
           teams/
           scripts/manifest/
@@ -89,7 +89,7 @@ jobs:
       id: create-issue
       uses: actions/github-script@v7
       with:
-        github-token: ${{ secrets.WORKFLOWS_PERMISSIONS }}
+        github-token: ${{ secrets.MANIFEST_TEAM_VALIDATION_TOKEN }}
         script: |
           const fs = require('fs');
           
@@ -124,7 +124,7 @@ jobs:
           
           ---
           
-          *This issue was automatically created by the [Team Validation Workflow](https://github.com/department-of-veterans-affairs/va.gov-team/actions/workflows/team-validation-report.yml)*`;
+          *This issue was automatically created by the [Manifest Team Validation Workflow](https://github.com/department-of-veterans-affairs/va.gov-team/actions/workflows/manifest-team-validation-report.yml)*`;
           
           // Close previous validation report issues
           const { data: existingIssues } = await github.rest.issues.listForRepo({
@@ -151,7 +151,7 @@ jobs:
           }
           
           // Create new issue
-          const labels = ['team-validation-report', 'documentation', 'automated-report'];
+          const labels = ['manifest-team-validation-report'];
           if (isTestRun) {
             labels.push('test-run');
           } else {
