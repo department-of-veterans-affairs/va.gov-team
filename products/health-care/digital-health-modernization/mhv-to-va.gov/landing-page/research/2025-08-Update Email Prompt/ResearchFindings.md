@@ -40,11 +40,8 @@ The insights from this study will allow the UX team to adapt the appropriate con
 
 ## **Research Findings**
 
-<ol>
-
 <strong><em>Do users understand that they need to confirm, update or add their contact email address and why?</em></strong>
 
- 
 <strong><em>Of the content presented, what confuses users?</em></strong>
 <p>
 Yes, participants understood that they were being asked to confirm, update or add their email address.  They were less clear on <em>why</em> and <em>how</em> that email they were being asked to confirm/update/add would be used.  This blunts their understanding of the consequences of not doing the action.  Participants assumed that if one part of the VA already had an email on file from them (for login, other reminders, etc) then <em>everyone</em> in the VA had that email on file.    In particular, their belief that they had to have an email on file to even have an account on <a href="va.gov">va.gov</a> made them assume that means that the VA has an email for them - therefore, they did not understand why they were being asked to provide information that they had already provided multiple times. The distinction between the different types of emails - “contact email” versus login email etc. - wasn't immediately clear to participants.  However, they seemed to see this as a “low stakes” question and so said that they would do it.
@@ -58,9 +55,8 @@ Yes, participants understood that they were being asked to confirm, update or ad
 <p>
 <em>"...Let's say you go do a FOIA or a privacy request and I think the form says, ‘do you wish to receive electronic communication from the va?’ So you have to put your email address on there. Okay. So they can communicate with you electronically, but if you don’t have the email address then they won't be able to communicate electronically. I guess they would just have to mail it.” - P5 </em>
 </p>
-<ol>
 
-<strong><em>Do users understand their options based on the question, understanding that those options will be different depending on the question?</em></strong></li>
+<strong><em>Do users understand their options based on the question, understanding that those options will be different depending on the question?</em></strong> 
 <p>
 Yes, from an interaction standpoint, participants understood what their options were and how to execute on those options.  One or two overlooked the “Skip for now and go on to <a href="http://VA.gov">VA.gov</a>”  link because they were on mobile devices and it was cut off on the screen and they didn't scroll down to see it.  
 </p>
@@ -76,14 +72,10 @@ Yes, from an interaction standpoint, participants understood what their options 
 <p>
 <em>[If I clicked ‘Skip for now’] “It'd just take me to va.gov so I can start,  but I'm sure it's gonna ask me again at some point.  At some point it's going to be that little bug.” - P8</em>
 </p>
-<ol>
+<strong><em>Do users feel that they have the information they need to make a decision?</em></strong>
 
-<li><strong><em>Do users feel that they have the information they need to make a decision?</em></strong></li> 
-<ol>
  
-<li><strong><em>Can users identify and articulate how this information will be used?</em></strong></li> 
-</ol></li> 
-</ol>
+<strong><em>Can users identify and articulate how this information will be used?</em></strong>
 <p>
 No, not clearly.  But they do understand that if they don’t add an email address that they might not get communications from the VA.  There was not complete consensus about what kind of communication would be sent to the email provided.  Most participants accurately described what a notification was, but some thought that not providing an email would block their ability to access their medical information online, not just notifications. See response to RQ1.  
 </p>
@@ -96,10 +88,8 @@ No, not clearly.  But they do understand that if they don’t add an email addre
 <p>
 <em>“What I'm understanding is [if they don’t provide an email] they will get none of their medical notifications… they won't be able to access their notes or maybe even fill prescriptions or different stuff like that if they were doing it … through the portal.” - P3</em>
 </p> 
-<ol>
  
-<li><strong><em>Can users recognize the consequences of each option?</em></strong></li> 
-</ol>
+<strong><em>Can users recognize the consequences of each option?</em></strong>
 <p>
 No, not clearly, because they assume the VA already has their email address because they have a <a href="VA.gov">VA.gov</a> account.  They assume that the VA would default to using what the VA has on file for their <a href="VA.gov">VA.gov</a> account.  This was especially true when it came to confirming an email address as opposed to adding one. However, again, they knew there was a chance that if they did not provide the email information, it would interrupt communication from the VA.
 </p>
@@ -124,10 +114,8 @@ Participants all noticed the bright yellow alert and understood they were seeing
 <p>
 <em>[If I clicked ‘Skip for now’] “It'd just take me to va.gov so I can start,  but I'm sure it's gonna ask me again at some point.  At some point it's going to be that little bug.” - P8</em>
 </p>
-<ol>
 
-<li><strong><em>Do users understand how to advance?</em></strong></li>
-</ol>
+<strong><em>Do users understand how to advance?</em></strong>
 <p>
 From an interaction standpoint, they all understood how to advance/proceed. Almost all saw all of the options which were available for the different flows. One or two overlooked the “Skip for now and go on to <a href="http://VA.gov">VA.gov</a>”  link because they were on mobile devices and it was cut off on the screen and they didn't scroll down to see it.  
 </p>
