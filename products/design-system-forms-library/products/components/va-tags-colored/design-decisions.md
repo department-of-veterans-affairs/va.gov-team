@@ -92,7 +92,7 @@ It may make the tags look like buttons. Usability testing would help us understa
 - Decision Date: 
 
 ### Context
-During the [tag usage audit](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1755032896804/d24a5a32988c08139ddf73a67e589c7fa9e9f22d?wid=0-1755893916029), we identified teams using tags with sentence case instead of the standard uppercase format. Teams cited improved readability and accessibility as their primary motivations for this deviation. 
+During the [tag usage audit](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1755032896804/d24a5a32988c08139ddf73a67e589c7fa9e9f22d?wid=0-1755893916029), we identified teams using tags with sentence case instead of the standard uppercase format. Teams cited improved readability and accessibility as their primary motivations for this deviation. We evaluated the pros and cons of uppercase text vs. sentence case for tags. 
 
 Tags with uppercase is a **good choice** for:
 - Visually distinguishing tags from buttons
