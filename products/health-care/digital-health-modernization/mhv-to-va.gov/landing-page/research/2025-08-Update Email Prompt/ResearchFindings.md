@@ -1,6 +1,7 @@
 # **Update Email Prompt Study**
 
 Office of the CTO - Digital Experience (OCTO-DE), MHV on VA.gov and VAHB, Horizon team
+
 Date: 08/28/2025
 
 Contact Cara Frissell (cara.frissell@adhocteam.us) with questions.
