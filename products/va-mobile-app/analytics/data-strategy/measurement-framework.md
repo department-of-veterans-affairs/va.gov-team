@@ -22,7 +22,7 @@ The data can tell 2 stories: A story about the user’s experience **(experienti
 * All users do not have access to the same tasks 
 * Tasks are not always available to the users who have access (i.e., I might have access to the appointment feature, but I may not have upcoming appointments to view) 
 
-We have organized user tasks by experience. User tasks and associated metrics for 17 key experiences are mapped in this [spreadsheet](URL).
+We have organized user tasks by experience. User tasks and associated metrics for 17 key experiences are mapped in this [spreadsheet](https://dvagov.sharepoint.com/:x:/r/sites/VA.govMobileFlagshipTeam/Shared%20Documents/VA.gov%20Mobile%20Flagship%20Team%20Channel/Mobile%20App%20%26%20Platform%20Documentation/Data/VA%20Mobile%20Measurement%20Framework.xlsx?d=wbea5c01f821a486aa889930897c52a29&csf=1&web=1&e=LhD0aT).
 
 ### Non-tasks
 **Non-tasks** are passive, informational, or exploratory interactions not necessarily tied to a concrete goal. Examples:
@@ -37,7 +37,7 @@ We have organized user tasks by experience. User tasks and associated metrics fo
 * Doesn’t always result in a transaction or submission
 * Often serves to inform, guide, or prompt future actions
 
-Non-tasks have also been identified for each key experience and are mapped in this [spreadsheet](URL).
+Non-tasks have also been identified for each key experience and are mapped in this [spreadsheet](https://dvagov.sharepoint.com/:x:/r/sites/VA.govMobileFlagshipTeam/Shared%20Documents/VA.gov%20Mobile%20Flagship%20Team%20Channel/Mobile%20App%20%26%20Platform%20Documentation/Data/VA%20Mobile%20Measurement%20Framework.xlsx?d=wbea5c01f821a486aa889930897c52a29&csf=1&web=1&e=LhD0aT).
 
 This table summarizes how we've defined **user tasks** and **non-tasks**.
 
