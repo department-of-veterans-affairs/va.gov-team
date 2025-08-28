@@ -93,6 +93,7 @@ jobs:
 
       - name: Process and share research findings
         if: steps.find-files.outputs.skip != 'true'
+        id: process
         run: |
           IFS=' ' read -ra FILES <<< "${{ steps.find-files.outputs.eligible_files }}"
           
@@ -165,19 +166,29 @@ jobs:
                 echo "PRODUCT_PATH=$PRODUCT_PATH"
               } >> $GITHUB_ENV
               
+              # Set outputs for workflow
+              echo "RESEARCH_FILE=$RESEARCH_FILE" >> $GITHUB_OUTPUT
+              echo "RESEARCH_TITLE=$TITLE" >> $GITHUB_OUTPUT
+              echo "KEY_FINDINGS<<EOF" >> $GITHUB_OUTPUT
+              echo "$KEY_FINDINGS" >> $GITHUB_OUTPUT
+              echo "EOF" >> $GITHUB_OUTPUT
+              echo "AUTHORS=$AUTHORS" >> $GITHUB_OUTPUT
+              echo "STUDY_DATE=$STUDY_DATE" >> $GITHUB_OUTPUT
+              echo "PRODUCT_PATH=$PRODUCT_PATH" >> $GITHUB_OUTPUT
+              
               # Only process one file per run
               break
             fi
           done
 
       - name: Send Slack notification - Success
-        if: steps.find-files.outputs.skip != 'true' && env.RESEARCH_FILE
+        if: steps.find-files.outputs.skip != 'true' && steps.process.outputs.RESEARCH_FILE
         uses: slackapi/slack-github-action@v1.26.0
         with:
           payload: |
             {
               "channel": "#research-ops",
-              "text": "📊 New Research Findings Available: ${{ env.RESEARCH_TITLE }}",
+              "text": "📊 New Research Findings Available: ${{ steps.process.outputs.RESEARCH_TITLE }}",
               "blocks": [
                 {
                   "type": "header",
@@ -192,19 +203,19 @@ jobs:
                   "fields": [
                     {
                       "type": "mrkdwn",
-                      "text": "*Study:*\n${{ env.RESEARCH_TITLE || 'Research Findings' }}"
+                      "text": "*Study:*\n${{ steps.process.outputs.RESEARCH_TITLE || 'Research Findings' }}"
                     },
                     {
                       "type": "mrkdwn",
-                      "text": "*Product Area:*\n${{ env.PRODUCT_PATH }}"
+                      "text": "*Product Area:*\n${{ steps.process.outputs.PRODUCT_PATH }}"
                     },
                     {
                       "type": "mrkdwn",
-                      "text": "*Date:*\n${{ env.STUDY_DATE }}"
+                      "text": "*Date:*\n${{ steps.process.outputs.STUDY_DATE }}"
                     },
                     {
                       "type": "mrkdwn",
-                      "text": "*Authors:*\n${{ env.AUTHORS }}"
+                      "text": "*Authors:*\n${{ steps.process.outputs.AUTHORS }}"
                     }
                   ]
                 },
@@ -215,7 +226,7 @@ jobs:
                   "type": "section",
                   "text": {
                     "type": "mrkdwn",
-                    "text": "*Key Findings Preview:*\n${{ env.KEY_FINDINGS || 'See full report for details' }}"
+                    "text": "*Key Findings Preview:*\n${{ steps.process.outputs.KEY_FINDINGS || 'See full report for details' }}"
                   }
                 },
                 {
@@ -231,7 +242,7 @@ jobs:
                         "text": "📖 Read Full Report",
                         "emoji": true
                       },
-                      "url": "https://github.com/${{ github.repository }}/blob/${{ github.sha }}/${{ env.RESEARCH_FILE }}",
+                      "url": "https://github.com/${{ github.repository }}/blob/${{ github.sha }}/${{ steps.process.outputs.RESEARCH_FILE }}",
                       "style": "primary"
                     }
                   ]
@@ -272,10 +283,10 @@ jobs:
           SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_USER_OAUTH_ACCESS_TOKEN }}
 
       - name: Commit tracking file
-        if: steps.find-files.outputs.skip != 'true' && github.event_name != 'workflow_dispatch' && env.RESEARCH_FILE
+        if: steps.find-files.outputs.skip != 'true' && github.event_name != 'workflow_dispatch' && steps.process.outputs.RESEARCH_FILE
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Track shared research file: ${{ env.RESEARCH_FILE }}"
+          commit_message: "Track shared research file: ${{ steps.process.outputs.RESEARCH_FILE }}"
           file_pattern: .github/workflows/shared-research-files.log
           commit_user_name: github-actions[bot]
           commit_user_email: github-actions[bot]@users.noreply.github.com
