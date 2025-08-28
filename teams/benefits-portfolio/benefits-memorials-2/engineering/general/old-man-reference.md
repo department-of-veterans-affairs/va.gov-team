@@ -23,6 +23,18 @@ Current state of feature flags (as of ~**08/26/25**)
 
 --- 
 
+## FSR streamlined waiver
+
+### Links
+- [Mural with streamlined process overview, and use cases.](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1678973946956/6f3bb65fe1ccc2b9d3bc38cd24cd09e74d18d778)
+- [Income Limits | HUD USER](https://www.huduser.gov/portal/datasets/il.html) source of truth for all things Geographic Means Threshold (GMT).
+- We source GMT data from the income limits app on vets-website. [Here is the readme for more info.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/income-limits-app/data/README.md)
+- [Here's an old ticket with some initial discovery](https://github.com/department-of-veterans-affairs/va.gov-team/issues/58212) in case you're looking for a _why_.
+- more coming!
+
+
+--- 
+
 ## Cypress
 Do you have failing cypress tests locally in vets-website? Do they pass in CI? Are you adding `{ force: true }` just to try and get to the next page? 
 Well I have the solution for you! Try running the following and then the tests again. 
@@ -31,6 +43,8 @@ rm -rf node_modules
 yarn install
 yarn build
 ```
+
+--- 
 
 ## Documentation
 - [Sensitive](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/teams/vsa/teams/benefits-memorials-2) -  Sensitive artifacts like staging review and other product specific stuff
