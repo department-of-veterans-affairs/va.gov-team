@@ -257,12 +257,12 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 ## Release Day Steps
 
 ### Pre-release (day before or morning of release)
-- [ ] Confirm all code for the 4142 Paper Sync MVP has been merged to `main` and deployed to production behind feature toggles.
-- [ ] Verify Datadog dashboards and monitoring alerts are active for:
+- [x] Confirm all code for the 4142 Paper Sync MVP has been merged to `main` and deployed to production behind feature toggles.
+- [x] Verify Datadog dashboards and monitoring alerts are active for:
   - 526 submission volume
   - 4142 submission error rates
-  - Returning-user redirect impressions/completions
-- [ ] Confirm with QA that staging tests have passed for:
+  - Returning-user redirect impressions/completions XXXX
+- [x] Confirm with QA that staging tests have passed for:
   - New user flow (no alert shown, sees new terms)
   - Returning user with old 4142 (alert shown, redirected, reauthorization works)
   - Returning user with new 4142 (no alert, flow continues normally)
@@ -270,9 +270,9 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 ---
 
 ### Step 1 – Enable for Mod-Prod UAT User(s)
-- [ ] Turn on all three toggles for designated mod-prod tester(s) only:
+- [x] Turn on flipper for designated mod-prod tester(s) only:
   - `disability_526_form4142_use_2024_version`
-- [ ] Confirm:
+- [x] Confirm:
   - Alert displays for returning users with old 4142
   - Redirect logic functions correctly
   - Schema validation prevents incomplete submissions
@@ -282,8 +282,8 @@ Continue to check in on the KPIs of your feature at periodic intervals to ensure
 ---
 
 ### Step 2 – Enable for 1% of Users
-- [ ] At agreed release time, enable toggle for 1% of users
-- [ ] PM/Engineering lead to monitor Datadog dashboards in real time for:
+- [x] At agreed release time, enable toggle for 1% of users
+- [x] PM/Engineering lead to monitor Datadog dashboards in real time for:
   - Submission error spikes (>5% deviation from baseline triggers rollback)
   - Drop in submission volume
   - Abnormal increase in abandonment rate
