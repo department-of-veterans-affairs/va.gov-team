@@ -151,7 +151,7 @@ jobs:
           }
           
           // Create new issue
-          const labels = ['team-validation-report', 'documentation', 'automated-report'];
+          const labels = ['manifest-team-validation-report'];
           if (isTestRun) {
             labels.push('test-run');
           } else {
@@ -192,6 +192,6 @@ jobs:
             Please check the workflow logs and fix any issues with the team validation scripts.
             
           cc: @humancompanion-usds`,
-            labels: ['bug', 'team-manifest-tool'],
+            labels: ['bug', 'manifest-team-validation-report'],
             assignees: ['humancompanion-usds']
           })
