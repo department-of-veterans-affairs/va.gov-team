@@ -6,7 +6,7 @@
 
 ## Overview
 Included in this section are descriptions of use cases for the missing contact information alert and flow and links to shared VA.gov profile use cases.
-- [Common use cases for My VA: Missing contact information alert](https://github.com/department-of-veterans-affairs/va.gov-team/new/master/products/identity-personalization/my-va/use-cases#common-use-cases-for-my-va-missing-contact-information-alert)
+- [Common use cases for My VA: Missing contact information alert](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/missing-contact-information-alert-use-cases.md#common-use-cases-for-my-va-missing-contact-information-alert)
 - Common use cases for Missing contact info: Summary page
 - Common use cases for Missing contact info: Add mobile phone number 
 - Common use cases for Missing contact info: Add contact email address 
