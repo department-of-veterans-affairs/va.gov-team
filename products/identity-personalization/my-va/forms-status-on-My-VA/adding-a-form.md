@@ -1,47 +1,58 @@
 # Adding A non-Lighthouse Benefits Intake API Form [WIP]
+## Table of Contents
+1. [Introduction](#introduction)
+2. [Form Status Card](#form-status-card)
+3. [Form Status Workflow](#form-status-workflow)
+    - [High-Level Workflow](#high-level-workflow)
+    - [`vets-api` Workflow](#vets-api-workflow)
+4. [Existing Pattern: Lighthouse Benefits Intake API Forms](#existing-pattern-lighthouse-benefits-intake-api-forms)
+    - [Feature Toggle](#feature-toggle)
+    - [List of Known Forms](#list-of-known-forms)
+5. [Begin Implementation for Non-Benefits Intake API Forms](#begin-implementation-for-non-benefits-intake-api-forms)
+    - [Initial Decisions](#initial-decisions)
+6. [Using `restricted_list_of_forms`](#using-restricted_list_of_forms)
+    - [Continue with the restriscted approach](#continue-with-the-restriscted-approach)    
+8. [Brand New Form API Connection](#brand-new-form-api-connection)
+
+
 ## Introduction
 Currently, we have two types of forms that are already able to show the Form Status:
 - Online forms
 - Uploadable forms
 
-There are only four (4) statuses that a form should display:
+Forms can display **four statuses**:
 
-1. DRAFT
-2. SUBMISSION IN PROGRESS
-3. RECEIVED
-4. ACTION NEEDED
+1. **DRAFT**  
+2. **SUBMISSION IN PROGRESS**  
+3. **RECEIVED**  
+4. **ACTION NEEDED**
 
-This guide will allow you to display statuses 2 - 4 because the DRAFT status is handled within the SiP implementation ([Save-in-Progress Platform guide](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-set-up-save-in-progress-si))
+> This guide covers statuses **2–4**, as **DRAFT** is handled by the Save-in-Progress (SiP) implementation.  
+> For more details, see the [SiP guide](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-set-up-save-in-progress-si).
+
+---
 
 ### Form Status Card
-There are two options for how the status card will display the title/heading for the form.
-These depend on whether the form is an uploadable form or if the form has the SiP feature.
+There are two title/heading display options for the status card, depending on whether the form is uploadable or has the SiP feature:
 
 | Uploadable Form | Form with SiP |
 |-----------------|---------------|
 | <img width="421" height="256" alt="Screenshot 2025-07-24 at 10 26 45" src="https://github.com/user-attachments/assets/712288b1-641e-4688-a392-e8379e35ccc0" /> | <img width="417" height="280" alt="Screenshot 2025-07-16 at 14 24 44" src="https://github.com/user-attachments/assets/cd963ee3-35ad-4c8a-9145-351555e73cd6" /> |
 
-Uploadable forms will use a fallback title for the status card which follows the general format: "VA Form XX-XXXX". 
-Forms that have implemented the SiP feature will have a title/heading as defined in vets-website and a subheading "VA Form XX-XXXX" (details in [the "Instructions for teams" -> step 3](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-set-up-save-in-progress-si))
+- **Uploadable forms** use a fallback title: `"VA Form XX-XXXX"`  
+- **SiP forms** use the title defined in `vets-website` with a subheading: `"VA Form XX-XXXX"` (for details see [Instructions for teams, step 3](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-set-up-save-in-progress-si))  
 
-To familiarize yourself with the high level flow that currently exists to show the status for LH Benefits Intake API forms, please see this diagram ([original source](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/7693b23eafaabac7c52a288ce89ae04d45972170/products/identity-personalization/my-va/form-status/backend_documentation.md#form-status-workflow)):
 
-### Form Status Workflow (High Level)
-```mermaid
-sequenceDiagram
-    VA.gov Website->>+VA.gov API: Get Form Statuses
-    VA.gov API->>+VA.gov API: Get User Account ID
-    VA.gov API->>+VA.gov Database: Query form_submissions by Account ID
-    VA.gov Database-->>-VA.gov API: List of benefits_intake_uuid's    
-    VA.gov API->>+Lighthouse Benefits Intake API: POST /uploads/report
-    Lighthouse Benefits Intake API-->>-VA.gov API: 200 OK: List of Form Statuses
-    VA.gov API->>+VA.gov API: Parse and format results
-    VA.gov API-->>-VA.gov Website: Return submission statuses
-```
+## Form Status Workflow
 
-### Form Status Workflow (`vets-api`)
+### High-Level Workflow
 
-Now let's zoom in strictly to the vets-api (VA.gov API) portion:
+> Refer to the [original diagram](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/7693b23eafaabac7c52a288ce89ae04d45972170/products/identity-personalization/my-va/form-status/backend_documentation.md#form-status-workflow) for a visual overview.
+
+
+### `vets-api` Workflow
+
+> Use this workflow when implementing API-level status retrieval.
 
 ```mermaid
 sequenceDiagram
@@ -50,13 +61,14 @@ sequenceDiagram
     participant R as Forms::SubmissionStatuses::Report
     participant G as Gateway(s)
     participant F as Formatter(s)
+    participant DB as VA.gov Database
 
     FE->>+SC: Request Form Statuses
     SC->>+SC: Check Flipper toggle<br/> (restricted list vs all forms)
     SC->>+R: Initialize Report with user_account
 
-    R->>+G: Query user form submissions
-    G-->>R: UUIDs of submissions
+    R->>+DB: Query FormSubmissions by user_account
+    DB-->>R: List of benefits_intake_uuid's
 
     R->>+G: Fetch statuses by UUIDs
     G-->>R: Form statuses
@@ -70,9 +82,13 @@ sequenceDiagram
     SC-->>FE: Serialized Form Statuses
 ```
 
-## Existing Pattern: Lighthouse Benefits Inatake API Forms
-#### Feature Toggle: `my_va_display_all_lighthouse_benefits_intake_forms`
-#### List of Known Forms
+## Existing Pattern: Lighthouse Benefits Intake API Forms
+
+### Feature Toggle
+
+`my_va_display_all_lighthouse_benefits_intake_forms`
+
+### List of Known Forms
 
 | Form Name                                        | Form ID            | Included in MVP| Included with Feature Toggle | Included in FE's VA_FORM_IDS |
 |:-------------------------------------------------|:-------------------|:---------------|:-----------------------------|:-----------------------------|
@@ -114,36 +130,46 @@ sequenceDiagram
 | Application for Burial Benefits                  | 21P-530EZ          |❌              | ⚠️                           | ✅ |
 | Personalized Career Planning and Guidance/Chapter 36 | 27-8832        |❌              | ⚠️                           | ✅ |
 
-⚠️ These forms need further investigation on why they're not showing a status card upon successful submission (https://github.com/department-of-veterans-affairs/va.gov-team/issues/117244)
+> ⚠️ These forms need further investigation on why they're not showing a status card upon successful submission (https://github.com/department-of-veterans-affairs/va.gov-team/issues/117244)
 
-## Begin Implementation for non-Benefits Intake API forms
+## Begin Implementation for Non-Benefits Intake API Forms
 
-Your team will have to make a a few decisions by answering these question:
-- Do we want to show the status for all forms within this new Forms API?
-- Do we want to use the restricted list already present to only show specific form IDs?
-- Will we use a Flipper toggle?
-- Are we the first form for the Form API in question?
-  - Is there an existing Gateway and Formatter for the Form API that can return the status for my form?
-  - example: `BenefitsIntakeGateway` and `BenefitsIntakeFormatter`
-- Does your Form API use form statuses that do not match the statuses above?
-  - If your form has different form statuses you will need to match/map them to the ones listed in the link above
-  - The status mapping is handled in vets-website `src/applications/personalization/dashboard/helpers.jsx` under `SUBMISSION_STATUS_MAP`  
+### Initial Decisions
 
-From this point, you will fall in one of the following categories:
-- You are the first form team wanting to display the status for your particular Form API
-  - example: Form 21-0781 is submitted to the Lighthouse Documents Intake API
-- You are not the first form team wanting to display the status for your particular Form API
-  - This will be determined by a previous decision of only showing the status for the form in question vs for all forms withing the Form API  
+Before implementation, discuss and answer the following:
 
-### Using `restricted_list_of_forms`
+- Show status for **all forms** in the new Form API or a restricted list?  
+- Use a **Flipper toggle**?  
+- Are you the **first form** for this Form API?  
+  - Existing Gateway & Formatter available?  
+  - Example: `BenefitsIntakeGateway` + `BenefitsIntakeFormatter`  
+- Do your form statuses **match the standard statuses**?  
+  - Map any different statuses in `vets-website/src/applications/personalization/dashboard/helpers.jsx` under `SUBMISSION_STATUS_MAP`.
 
-If you are not the first form team for your Form API and you do not see a form status for your form upon successful submission, it is likely that whoever was first decided to use the restricted list of forms approach.
-The good news is that the Gateway and Formatter are likely already created for you - but confirm both exist.
-You can continue with the same approach, or discuss with your team if it makes sense to not restrict the list (example: Lighthouse Benefits Intake API forms when the feature toggle is enabled).
+> Depending on your answers, you will fall into one of two categories:
+> 1. **First form team for this API** (e.g., Form 21-0781 → Lighthouse Documents Intake API)  
+> 2. **Not the first form team** (follow existing restrictions or patterns)  
 
+---
+
+## Using `restricted_list_of_forms`
+
+To use this path, ensure the following exist:
+  ```
+       ✔️ Gateway matching your Form API
+    
+       ✔️ Formatter matching your Gateway
+   ```
+
+If your form status **does not appear** upon successful submission, the first team likely used the restricted approach.
+
+You can continue with the same approach or discuss removing restrictions and allowing all forms for your Form API to show a status.
+
+### Continue with the restriscted approach
 
 ℹ️ In our `app/controllers/v0/my_va/submission_statuses_controller.rb` we have a list of Allowed Forms.
-```
+
+```ruby
       def restricted_list_of_forms
         %w[
           20-10206
@@ -158,36 +184,39 @@ You can continue with the same approach, or discuss with your team if it makes s
       end
 ```
 
-1️⃣ Add the new form ID (ex: Statement in Support of Claim 21-4138) to the list of form IDs seen above or make sure it's already part of the `uploadable_forms` list
+Implementation Steps:
 
-2️⃣ Update or add any necessary tests in the respective Formatter/Gateway spec 
+1.	Add your form ID (e.g., 21-4138) or ensure it’s in uploadable_forms.
+2.	Update or add tests in the respective Formatter/Gateway spec.
+3.	Test locally to confirm the form status card appears.
 
-3️⃣ Test locally to confirm that your form shows a form status card
+## Brand New Form API Connection
 
-### Brand new Form API connection
+ℹ️ Please refer to the diagram focused on the [`vets-api` Workflow](#vets-api-workflow) for a refresher on the flow/pattern you will be adding to.
 
-If there is no existing Gateway and Formatter for your Form API, congratulations! You get to be the first 🎉
+If no Gateway/Formatter exists for your Form API, congratulations! You get to be the first 🎉:
 
-ℹ️ Please refer to the diagram focused on the vets-api flow for a refresher on the flow/pattern you will be adding to.
+1.	Create a Gateway to fetch status from your Form API.
+2.	Add the newly created Gateway to `lib/forms/submission_statuses/report.rb`:
+   - determine a service name, this will make sure the correct formatter is used for your data
 
-1️⃣ Create a Gateway to connect with your Form API and fetch the status(es)
-
-2️⃣ You will add that Gateway to the gateways list in `lib/forms/submission_statuses/report.rb` 
+```ruby
+  def initialize(user_account:, allowed_forms:)
+    @gateways = [
+      { service: 'lighthouse_benefits_intake',
+        gateway: BenefitsIntakeGateway.new(user_account:, allowed_forms:) },
+      { service: 'your_new_service_name',
+        gateway: YourNewGateway.new() }
+    ]
+  end
 ```
-      def initialize(user_account:, allowed_forms:)
-        @gateways = [
-          { service: 'lighthouse_benefits_intake',
-            gateway: BenefitsIntakeGateway.new(user_account:, allowed_forms:) }
-            # determine a service name - this will make sure the correct formatter is used for your data
-            # add the gateway here
-        ]
-      end
-```
+        
+3.	Create a Formatter for your API data
 
-3️⃣ Create a Formatter for your data.
-- Example data that comes into the `BenefitsIntakeFormatter`
-  ```
-    # Submissions data that comes form the FormSubmission query
+Example input in `BenefitsIntakeFormatter`:
+
+  ```ruby
+    # Submissions data froms from the FormSubmission query
     submissions = [
       {
         benefits_intake_uuid: "123",
@@ -208,34 +237,37 @@ If there is no existing Gateway and Formatter for your Form API, congratulations
         }
       }
     ]
-  ``` 
-- This formatter must output your data in the following structure:
   ```
-  [
-    OpenStruct.new(
-      id: "123", # this should be the ID in the Form API
-      form_type: "526EZ",
-      created_at: "2023-01-01",
-      updated_at: "2023-01-02",
-      detail: "Processing",
-      message: "Form received",
-      status: "pending",
-      pdf_support: true # determined by PdfUrls class
-    )
-  ]
-  ```
-  
-4️⃣ Add your formatter to the formatter list in `lib/forms/submission_statuses/report.rb` 
+
+Output format must match the following example structure:
+
+```ruby
+    [
+        OpenStruct.new(
+          id: "123", # this should be the ID in the Form API
+          form_type: "526EZ",
+          created_at: "2023-01-01",
+          updated_at: "2023-01-02",
+          detail: "Processing",
+          message: "Form received",
+          status: "pending",
+          pdf_support: true # determined by PdfUrls class
+        )
+    ]
 ```
+  
+4.	Add Formatter to `lib/forms/submission_statuses/report.rb`:
+   - use the service name you determined in the gateway list
+   
+```ruby
       FORMATTERS = {
-        # use the service name you determined in the gateway list
-        'lighthouse_benefits_intake' => Formatters::BenefitsIntakeFormatter.new
+        'lighthouse_benefits_intake' => Formatters::BenefitsIntakeFormatter.new,
+        'your_new_service_name' => Formatters::YourNewFormatter.new
       }.freeze
 ```
 
-5️⃣ Update or add any necessary tests in the respective Formatter/Gateway spec 
-
-3️⃣ Test locally to confirm that your form shows a form status card
+5. Update/add tests and test locally to confirm the status card displays correctly.
+6. Test locally to confirm the form status card appears
 
 
 ----------------------------------------
