@@ -88,6 +88,7 @@ Letters like the “Benefit Summary and Service Verification Letter” and the �
 * “What's the difference between ‘benefit summary and verification’ and ‘benefit verification’? I guess one is for sharing with others and one is for yourself...I see what the difference is, but don't understand why there needs to be two.” -P02
 * “The names are a little confusing. I had to open both to understand the difference.” -P07
 * "Benefit verification letter vs [top letter] it's not clear...it's definitely confusing.” -P12
+<img width="400" alt="CleanShot 2025-08-28 at 07 24 20@2x" src="https://github.com/user-attachments/assets/96db8378-6edf-4de0-a376-904233cfecd4" />
 
 #### Finding 3: Customization is highly valued.
 Veterans appreciated being able to customize their Benefit Summary and Service Verification Letter.
@@ -96,7 +97,8 @@ Veterans appreciated being able to customize their Benefit Summary and Service V
 * "I like that it gave you the option to choose what you want and don't want in your letter...before it used to include everything.” -P14
 * “I like that when you do go here to download benefit letters, it gives you one that I can pick and choose what I need.” -P15
 * “I like that you can choose what to include in the letter.” -P11
-<img width="400" alt="CleanShot 2025-08-28 at 07 24 20@2x" src="https://github.com/user-attachments/assets/96db8378-6edf-4de0-a376-904233cfecd4" />
+<img width="400" alt="CleanShot 2025-08-28 at 07 59 17@2x" src="https://github.com/user-attachments/assets/e39f436d-93ae-46a7-9cb2-0d2c35d7970e" />
+
 
 
 #### Finding 4: Impact of address changes is unclear.
@@ -119,7 +121,9 @@ The text-to-speech tool Speechify failed to read key context—like customizatio
 * Skipped important page elements (address, blue address-change alert, accordion content); in screenshot mode, only accordion headers were read.
 * Struggled with multi-column layouts.
 * “Save to library” feature didn’t capture accordion content.
-<img width="600" alt="CleanShot 2025-08-28 at 07 26 19@2x" src="https://github.com/user-attachments/assets/27068ed5-41c4-450a-8b48-c5f9802710b8" />
+<img width="500" alt="CleanShot 2025-08-28 at 07 57 40@2x" src="https://github.com/user-attachments/assets/8e2e54bb-d0e7-4cc6-bde1-65641e047fb1" />
+
+
 
 
 #### Finding 7: Veterans expect personalized and comprehensive digital access.
