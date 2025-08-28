@@ -174,6 +174,7 @@ jobs:
         
     - name: Send Slack notification
       if: always() # Send notification for all runs (including PR tests) for now
+      continue-on-error: true # Don't fail the workflow if Slack notification fails
       uses: slackapi/slack-github-action@v1.26.0
       with:
         channel-id: 'C09CFKZ5TMK' # Slack channel ID for #platform-manifest-notifications
@@ -248,7 +249,7 @@ jobs:
       with:
         script: |
           github.rest.issues.create({
-            owner: humancompanion-usds,
+            owner: context.repo.owner,
             repo: context.repo.repo,
             title: 'Team Validation Workflow Failed',
             body: `The weekly team validation workflow failed to complete successfully.
@@ -259,6 +260,7 @@ jobs:
             
             Please check the workflow logs and fix any issues with the team validation scripts.
             
-          cc: @department-of-veterans-affairs/platform-support`,
-            labels: ['bug', 'team-manifest-tool']
+          cc: @humancompanion-usds`,
+            labels: ['bug', 'team-manifest-tool'],
+            assignees: ['humancompanion-usds']
           })
