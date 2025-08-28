@@ -1,5 +1,5 @@
 ---
-title: "[Forms MVP Usability Study] Research Findings"
+title: "Forms MVP Usability Study Research Findings"
 product: "VA Health & Benefits Mobile App"
 team: "Mobile App & Platform Team"
 office: "Office of the CTO - Digital Experience (OCTO-DE)"
@@ -224,9 +224,7 @@ Research goal #4: Identify if Veterans can start a form and come back to it at a
 
 [Example Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)
 
-**1.** Veterans desire this feature. 
-- All respondents to our SuS expressed a positive desire to use this system frequently. 
-- With an overall SuS score of **77.78** a on the high end rating of **Moderate** resolving found usability issues are likely to result in a well received MVP.
+**1.** Forms from the app were generally well received.  
 
 **2.** Veteras may navigate to this activity from various paths. [#) participants would navigate to 'Claims' or 'Benefits > Claims' before looking for a 'Forms' area. Veterans understand this task in relation to the claim but not necessarily identify it as a form to complete.
 
@@ -247,13 +245,34 @@ Research goal #4: Identify if Veterans can start a form and come back to it at a
 
 *Provide detailed descriptions and supporting evidence for each key finding.*  
 
-**Finding 1:**  
-Brief description  
+**1. Forms from the app were generally well received.**  
+- All 9 respondents to our SuS survey expressed a positive desire to use this system frequently. 
+- With an overall SuS score of **82.77** which translates to **excellent**. Resolving found usability issues during this study are likely to result in a well received MVP.
 - _Supporting data: Quote [add context]_  
 - _Supporting data: ![text](link - add image to github folder and link here with .png)_  
 
-**Finding 2:**  
-Brief description  
+**2. Veteras may navigate to this activity from various paths.**  
+[#) participants would navigate to 'Claims' or 'Benefits > Claims' before looking for a 'Forms' area. Veterans understand this task in relation to the claim but not necessarily identify it as a form to complete.
+- _Supporting data: Quote [add context]_
+
+**3. Veterans often skimmed or skipped over the initial 'Submit a statement in support of a claim' screen.**
+- _Supporting data: Quote [add context]_  
+
+**4. Veterans were unclear about the wording on the 'What would you like to do?' screen that directs them to various forms.** 
+- _Supporting data: Quote [add context]_  
+
+**5. Veterans struggle to return to the app from webview. Only 1 participant self-identified the 'Done' button to return to the app during or after submitting the form.**
+- _Supporting data:
+
+“The only thing, the ‘Done’ button. I wouldn’t have expected it to be up there in the left hand corner.” - “That’s a good place to have it, but I wouldn’t have suspected it to be there. Because when you were saying hit done, I looked below.”[regarding returning to the app when leaving a form]_  
+ 
+**6. Mobile users are prone to typing errors in their form entry.**
+- _Supporting data: Quote [add context]_  
+
+**7. Users may miss screen content or attempt to scroll around instead of dismiss toast messages in the app. Only 1 participant dismissed a toast message within the app during the study.** 
+- _Supporting data: Quote [add context]_  
+
+**8. Users desire more information about the status of a form after submission as proposed statuses may be interpreted in different ways.**
 - _Supporting data: Quote [add context]_  
 
 ---
