@@ -107,7 +107,7 @@ No, not clearly, because they assume the VA already has their email address beca
 <em>[If I didn’t enter or confirm I’d] probably I would have to go through a whole bunch of security questions and stuff like that.” - P11</em>
 </p>
 <p>
-Participants all noticed the bright yellow alert and understood they were seeing it as a consequence of not providing their email information.  They knew what it was asking for and that it would not go away until they completed the action.  When asked, they noted the lack of an ‘x’ on the alert as a reason they could not get rid of the alert.  But they knew that they could ignore it by not engaging with it (scrolling down, going to another page, etc).  
+Participants all noticed the bright yellow alert and understood they were seeing it as a consequence of not providing their email information.  They knew what it was asking for and that it would not go away until they completed the action of adding/confirming their email.  When asked, they noted the lack of an ‘x’ on the alert as a reason they could not get rid of the alert.  But they knew that they could ignore it by not engaging with it (scrolling down, going to another page, etc).  
 </p>
 <p>
 <em>“...because to me it's a forward arrow versus a X, right?… I think the only way you eventually get rid of it … is by updating the email, right, because it didn't have one on file, right...So I think that it's gonna keep giving you that repetitively. So I don't wanna say like deal with it…like it's a nuisance, but…you have to take care of it at some point.” - P2</em>
