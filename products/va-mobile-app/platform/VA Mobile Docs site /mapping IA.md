@@ -120,7 +120,7 @@
 |QA, Quality Assurance Process, Resources|Getting started, Set up, Development setup process, QA resources|
 |QA, Quality Assurance Process, Testing summary|Development guide, Quality assurance, QA process, Testing summary|
 |QA, Quality Assurance Process, Tool Setup|Getting started, Set up, Development setup process, QA resources, tool setup|
-|QA, Quality Assurance Process, Accessible Research Session Help|Design, Foundations, Research, Accessible research session help|
+|QA, Quality Assurance Process, Accessible Research Session Help|Development guide, Design, Foundations, Research, Accessible research session help|
 |QA, Quality Assurance Process, Working with others|Development guide, Quality assurance, QA process, QAs role|
 |Operations|X Remove|
 |Operations, App metrics|Getting started, Metrics|
