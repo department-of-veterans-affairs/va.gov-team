@@ -1,55 +1,56 @@
 ---
-title: "[Study] Research Findings"
-product: "Product Name"
-team: "Team Name"
+title: "[Forms MVP Usability Study] Research Findings"
+product: "VA Health & Benefits Mobile App"
+team: "Mobile App & Platform Team"
 office: "Office of the CTO - Digital Experience (OCTO-DE)"
-date: "YYYY-MM-DD"
+date: "2025-08-28"
 researchers:
-  - "Researcher/Designer 1"
-  - "Researcher/Designer 2"
+  - "Christine Julian (Researcher)"
+  - "Jonathan Post (UX Designer)"
 research_goals:
-  - "Goal 1"
-  - "Goal 2"
+  - "Understand if Veterans can find and interact with forms from the app."
+  - "Identify if Veterans can fill out a form from the app on their own."
+  - "Identify any usability issues Veterans may experience when interacting with forms on the mobile app."
+  - "Identify if Veterans can start a form and come back to it at a later time to complete."
 methodology:
-  - "Method 1"
-  - "Method 2"
+  - "Moderated Usability Testing"
+  - "System Usability Scale Survey"
 devices_used:
     desktop: X
     tablet: X
-    smartphone: X
+    smartphone: 11
     assistive_technology: X
-participants_total: X
+participants_total: 11
 demographics:
-  veterans: X
+  veterans: 11
   service_members: X
   caregivers: X
   dependents: X
   VA_staff: X
   age:
     "25-34": X
-    "35-44": X
-    "45-54": X
-    "55-64": X
-    "65+": X
-    unknown: X
+    "35-44": 1
+    "45-54": 3
+    "55-64": 4
+    "65+": 3
   education:
     high_school: X
     some_college: X
-    associates: X
-    bachelors: X
-    masters: X
+    associates: 1
+    bachelors: 3
+    masters: 7
     doctorate: X
     unknown: X
   location:
-    urban: X
-    rural: X
+    urban: 4
+    rural: 7
     unknown: X
   race:
-    white: X
-    black: X
-    hispanic: X
-    biracial: X
-    asian: X
+    white: 4
+    black: 2
+    hispanic: 2
+    biracial: 2
+    asian: 1
     native: X
   disability:
     cognitive: X
@@ -79,7 +80,7 @@ opportunity_areas:
   - "Unmet need 1"
   - "Research gap 1"
 further_research_needed:
-  - "Area 1"
+  - "Test with assistive tech users"
   - "Area 2"
 underserved_groups_missing:
   - "Group 1"
@@ -88,11 +89,9 @@ secondary_research:
   - "Web analytics"
   - "SME interviews"
 synthesis_tools_used:
-  - "Mural"
-  - "Affinity Mapping"
+  - "Github CoPilot Ai: Gemini 2.0"
+  - "Affinity Mapping in Figjam"
 ---
-
-<br>**This is a template, PLEASE MAKE A COPY**
 
 ---
 
@@ -100,9 +99,9 @@ synthesis_tools_used:
 
 **Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
 
-**Date:** MM/DD/YYYY
+**Date:** 08/28/2025
 
-**Contacts:** [Researcher/Designer 1], [Researcher/Designer 2]
+**Contacts:** [Christine Julian (Researcher)], [Jonathan Post (Designer)]
 
 **[Link to Research Readout](link-here)**  
 *Add a link to your research readout deck, if available.*
@@ -120,12 +119,19 @@ synthesis_tools_used:
 
 
 ## Research Goals
-*Provide context for this research by explaining how it fits into the Veteran’s journey.*  
+The key objective of this study is to evaluate the usability of completing a VA form in a webview from the VA Health and Benefits app. Additionally, the research aims to uncover the following:
+
+1. Understand if Veterans can find and interact with forms from the app.
+2. Identify if Veterans can fill out a form from the app on their own.
+3. Identify any usability issues Veterans may experience when interacting with forms on the mobile app.
+4. Identify if Veterans can start a form and come back to it at a later time to complete.
+
+This research can impact Veterans across many phases of the Veteran journey from Getting out to Death
 [See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)  
 
 **Guiding Questions:**  
 - What are the key moments this tool supports in the Veteran’s journey?  
-- What outcomes are we aiming to achieve for Veterans and stakeholders?  
+- The results of the study will help us determine if Veterans are able to fill out and complete forms from the mobile app and to identify any pain points. This will inform future form development on the app. 
 
 [Example Research Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-goals) 
 
@@ -135,20 +141,37 @@ synthesis_tools_used:
 
 *List the research questions that guided this study.*  
 
-* Question 1
-* Question 2
-* Question 3
+Research goal #1: Understand if Veterans can find and interact with forms from the app.
 
-[Example Research Questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-questions)
+1. How easily can Veterans locate the forms section within the mobile app?
+2. What steps do Veterans take to start a new form from within the app?
+3. Are there any points of confusion or difficulty when Veterans attempt to start a new form?
+
+Research goal #2: Identify if Veterans can fill out a form from the app on their own.
+
+1. Can Veterans independently complete all required fields in a form using the mobile app?
+2. Do Veterans understand the instructions and language used in the forms?
+3. How do Veterans interpret the status of the form once the form is submitted?
+
+Research goal #3: Identify any usability issues Veterans may experience when interacting with forms on the mobile app.
+
+1. What challenges, if any, do Veterans encounter while entering information into the forms?
+2. What, if any, technical or design barriers prevent Veterans from successfully interacting with forms?
+3. How do Veterans feel about the overall experience of using forms in the mobile app?
+4. Research goal #4: Identify if Veterans can start a form and come back to it at a later time to complete.
+
+Can Veterans locate and resume a form they previously started in the mobile app?
+1. Do Veterans encounter any challenges or confusion when attempting to access and complete a saved or in-progress form?
+2. What steps do Veterans take to find and finish a form they started earlier?
+3. Are there any barriers that prevent Veterans from successfully submitting a previously started form through the app?
+
 
 ## Methodology 
 
 *Provide a brief description of the research methods used (e.g., usability testing, interviews).*  
 
-- Method 1: Description  
-- Method 2: Description  
-
-[Example Methodology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#methodology)
+- Method 1: Moderated usability study (remote)
+- Method 2: SuS Survey (system usability scale)
 
 
 ## Hypotheses and Conclusions
@@ -158,7 +181,38 @@ synthesis_tools_used:
 > [!TIP]
 > Place true or false statements in bold for easier scanability
 
-- **Hypothesis Statement:** [Insert statement]  
+- **Hypothesis Statement:**
+
+Research goal #1: Understand if Veterans can find and interact with forms from the app.
+
+1. Veterans will be able to easily locate the forms section within the mobile app without extensive guidance.
+- **Finding: Likely False**. Many participants needed guidance to locate the "Go to my forms" button, as they initially reported  under "Claims" or "Benefits." 
+2. Veterans will be able to follow the intended navigation steps to start a new form from within the app.
+- **Finding: Likely True**. Veterans could generally follow the steps, but the research also revealed issues with participants skipping introductory text on screen "Submit a statement in support of a claim" and being unclear about which option to choose on the screen 'What would you like to do".
+3. Some Veterans may experience confusion or difficulty due to unclear labeling or navigation options related to forms.
+- **Finding: Definitely True**. The research strongly supports this hypothesis. The form selection screen, the "Done" button placement, and the codespace screen all caused confusion and difficulty for participants.
+
+Research goal #2: Identify if Veterans can fill out a form from the app on their own.
+
+1. Most Veterans will be able to independently complete all required fields in a form using the mobile app.
+- **Finding: Likely True**. The research showed that Veterans could complete the fields. Although they encountered some challenges with typing difficulties from their mobile devices. In part, related to small touch targets and auto-corrections from their device.
+2. The instructions and language used in the forms will be clear and understandable to Veterans.
+- **Finding: Definitely False**. The research revealed that the instructions and language used in the forms were often not clear and understandable, particularly on the form selection screen 'What would you like to do?' and regarding the meaning of the "In Progress" status following submission of the form.
+3. Some Veterans may experience confusion interpretting the status of the form after submission.
+- **Finding: Definitely True**. The "In Progress" status was consistently misinterpreted, with Veterans unsure if it meant the form had been submitted, was still being drafted, or was being reviewed.
+
+Research goal #3: Identify any usability issues Veterans may experience when interacting with forms on the mobile app.
+
+1. Veterans may encounter difficulty entering information into forms from their mobile device.
+- **Finding: Definitely True**. The research confirmed that typing on a mobile device was a significant challenge, leading to errors and frustration.
+2. Technical or design barriers, such as small touch targets or required page scrolling, may add additional frustration for Veterans when completing forms from a mobile device.
+- **Finding: Definitely True**. The research identified the "Done" button placement required to return to the mobile app from webview was widely missed, while users often did not dismiss toast messages blocking content, and the small touch targets on their mobile keyboards resulted in typos that caused additional frustration.
+3. Veterans will have mixed feelings about the overall experience, with some expressing frustration regarding usability issues and others finding the process straightforward.
+
+Research goal #4: Identify if Veterans can start a form and come back to it at a later time to complete.
+
+1. Veterans will be able to locate and resume a form they previously started within the mobile app.
+2. Barriers such as difficulty finding saved forms or unclear resumption instructions will prevent some Veterans from successfully submitting a previously started form.]  
   - **"Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”**  
   - Supporting evidence  
 
@@ -176,7 +230,7 @@ synthesis_tools_used:
 
 [Example Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)
 
-**1.** Finding one
+**1.** Veterans perceive the system as highly usable. With a SuS score of **84.38** a rating of **excellent** ikely to be well-received by users.
 
 **2.** Finding two
 
