@@ -42,12 +42,10 @@ The insights from this study will allow the UX team to adapt the appropriate con
 
 <ol>
 
-<li><strong><em>Do users understand that they need to confirm, update or add their contact email address and why?</em></strong></li> 
-<ol>
+<strong><em>Do users understand that they need to confirm, update or add their contact email address and why?</em></strong>
+
  
-<li><strong><em>Of the content presented, what confuses users?</em></strong></li> 
-</ol></li> 
-</ol>
+<strong><em>Of the content presented, what confuses users?</em></strong>
 <p>
 Yes, participants understood that they were being asked to confirm, update or add their email address.  They were less clear on <em>why</em> and <em>how</em> that email they were being asked to confirm/update/add would be used.  This blunts their understanding of the consequences of not doing the action.  Participants assumed that if one part of the VA already had an email on file from them (for login, other reminders, etc) then <em>everyone</em> in the VA had that email on file.    In particular, their belief that they had to have an email on file to even have an account on <a href="va.gov">va.gov</a> made them assume that means that the VA has an email for them - therefore, they did not understand why they were being asked to provide information that they had already provided multiple times. The distinction between the different types of emails - “contact email” versus login email etc. - wasn't immediately clear to participants.  However, they seemed to see this as a “low stakes” question and so said that they would do it.
 </p>
@@ -62,8 +60,7 @@ Yes, participants understood that they were being asked to confirm, update or ad
 </p>
 <ol>
 
-<li><strong><em>Do users understand their options based on the question, understanding that those options will be different depending on the question?</em></strong></li>
-</ol>
+<strong><em>Do users understand their options based on the question, understanding that those options will be different depending on the question?</em></strong></li>
 <p>
 Yes, from an interaction standpoint, participants understood what their options were and how to execute on those options.  One or two overlooked the “Skip for now and go on to <a href="http://VA.gov">VA.gov</a>”  link because they were on mobile devices and it was cut off on the screen and they didn't scroll down to see it.  
 </p>
