@@ -4,6 +4,7 @@ Last updated: 2025-05-08
 - [ADR: 001 - Define the meaning for colored tags](#ADR-001---Define-the-meaning-for-colored-tags)
 - [ADR: 002 - Tag styles](#ADR-002---Tag-styles)
 - [ADR: 003 - Accessibile Colors](#ADR-003---Accessible-Colors)
+- [ADR: 004 - Uppercase text](#ADR-004---Uppercase-text)
 
 ## ADR: 001 - Define the meaning for colored tags
 
@@ -82,3 +83,30 @@ The tag background must meet 3:1 color contrast against the page background
 
 ### Consequences
 It may make the tags look like buttons. Usability testing would help us understand if users think these are buttons.
+
+## ADR: 004 - Sentence case
+
+### Status: Pending
+
+- Date Raised: 2025-05-25
+- Decision Date: 
+
+### Context
+During the [tag usage audit](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1755032896804/d24a5a32988c08139ddf73a67e589c7fa9e9f22d?wid=0-1755893916029), we identified teams using tags with sentence case instead of the standard uppercase format. Teams cited improved readability and accessibility as their primary motivations for this deviation. 
+
+Tags with uppercase is a **good choice** for:
+- Visually distinguishing tags from buttons
+- Drawing attention to the tag to make them more noticeable and easily scannable
+
+Tags with uppercase is **not a good choice** for:
+- Long strings of text because it reduces readability and can harm accessibility
+- When the tone should be conversational or friendly
+
+### Decision
+**Recommendation:** Maintain alignment with USWDS tag component standards by continuing to use uppercase text for tags.
+
+**Rationale:** This approach preserves design system consistency and alignment with the [USWDS tag component](https://designsystem.digital.gov/components/tag/) while leveraging the functional benefits of uppercase formatting for short-form, categorical content.  
+
+### Consequences
+- Current tag implementation may not accommodate all existing use cases optimally
+- Some teams may need to evaluate whether tags are the appropriate component for their specific content needs
