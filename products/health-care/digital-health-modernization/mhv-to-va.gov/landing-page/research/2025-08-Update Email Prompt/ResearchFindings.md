@@ -78,7 +78,7 @@ Yes, from an interaction standpoint, participants understood what their options 
  
 <strong><em>Can users identify and articulate how this information will be used?</em></strong>
 <p>
-No, not clearly.  But they do understand that if they don’t add an email address that they might not get communications from the VA.  There was not complete consensus about what kind of communication would be sent to the email provided.  Most participants accurately described what a notification was, but some thought that not providing an email would block their ability to access their medical information online, not just notifications. See response to RQ1.  
+No, not clearly.  But they do understand that if they do not add an email address that they might not get communications from the VA.  There was not complete consensus about what kind of communication would be sent to the email provided.  Most participants accurately described what a notification was, but some thought that not providing an email would block their ability to access their medical information online, not just notifications. See response to RQ1.  
 </p>
 <p>
 <em>Examples:</em>
