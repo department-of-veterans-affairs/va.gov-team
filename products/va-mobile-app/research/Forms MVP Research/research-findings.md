@@ -226,7 +226,7 @@ Research goal #4: Identify if Veterans can start a form and come back to it at a
 
 **1.** Veterans desire this feature. 
 - All respondents to our SuS expressed a positive desire to use this system frequently. 
-- With an overall SuS score of **79.22** a on the high end rating of **Moderate** resolving found usability issues are likely to result in a well received MVP.
+- With an overall SuS score of **77.78** a on the high end rating of **Moderate** resolving found usability issues are likely to result in a well received MVP.
 
 **2.** Veteras may navigate to this activity from various paths. [#) participants would navigate to 'Claims' or 'Benefits > Claims' before looking for a 'Forms' area. Veterans understand this task in relation to the claim but not necessarily identify it as a form to complete.
 
