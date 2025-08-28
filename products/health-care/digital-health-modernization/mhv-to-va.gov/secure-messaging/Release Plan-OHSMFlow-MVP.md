@@ -84,15 +84,8 @@ Parent [MHV Secure Messaging Metrics Dashboard](https://vagov.ddog-gov.com/dashb
 | [web] click on "Can't find your care team" link | RUM metrics to track interaction with URL on `/new-message/select-care-team` page |
 | [web] click on "Select different care team" link | RUM metrics to track interaction with URL on `/new-message/start-message` page |
 
-| Metric Name | Description |
-| ----------- | ----------- |
-|  |  |
-| |  |
-|  | |
 
 **User-Facing Metrics (Google Analytics and Call Center)**- Applicable here or chop?
-
-User-Facing Metrics (Google Analytics and Call Center)- Applicable here or chop?
 
 | Metric Name | Description |
 | ----------- | ----------- |
