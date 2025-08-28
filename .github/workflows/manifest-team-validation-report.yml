@@ -8,7 +8,7 @@ on:
   pull_request:
     paths:
       - 'scripts/manifest/**'
-      - '.github/workflows/team-validation-report.yml'
+      - '.github/workflows/manifest-team-validation-report.yml'
     types: [opened, synchronize, reopened]
 
 permissions:
