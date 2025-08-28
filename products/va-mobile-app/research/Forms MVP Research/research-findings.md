@@ -139,8 +139,6 @@ This research can impact Veterans across many phases of the Veteran journey from
 
 ## Research Questions
 
-*List the research questions that guided this study.*  
-
 Research goal #1: Understand if Veterans can find and interact with forms from the app.
 
 1. How easily can Veterans locate the forms section within the mobile app?
@@ -168,18 +166,11 @@ Can Veterans locate and resume a form they previously started in the mobile app?
 
 ## Methodology 
 
-*Provide a brief description of the research methods used (e.g., usability testing, interviews).*  
-
 - Method 1: Moderated usability study (remote)
 - Method 2: SuS Survey (system usability scale)
 
 
 ## Hypotheses and Conclusions
-
-*List hypotheses explored in the research and the conclusions drawn. If applicable, list the success or task completion rate.*
-
-> [!TIP]
-> Place true or false statements in bold for easier scanability
 
 - **Hypothesis Statement:**
 
@@ -233,19 +224,23 @@ Research goal #4: Identify if Veterans can start a form and come back to it at a
 
 [Example Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)
 
-**1.** Veterans perceive the system as highly usable. With a SuS score of **84.38** a rating of **excellent** ikely to be well-received by users.
+**1.** Veterans desire this feature. 
+- All respondents to our SuS expressed a positive desire to use this system frequently. 
+- With an overall SuS score of **79.22** a on the high end rating of **Moderate** resolving found usability issues are likely to result in a well received MVP.
 
-**2.** Finding two
+**2.** Veteras may navigate to this activity from various paths. [#) participants would navigate to 'Claims' or 'Benefits > Claims' before looking for a 'Forms' area. Veterans understand this task in relation to the claim but not necessarily identify it as a form to complete.
 
-**3.** Finding three
+**3.** Veterans often skimmed or skipped over the initial 'Submit a statement in support of a claim' screen.  
 
-**4.** Finding four
+**4.** Veterans were unclear about the wording on the 'What would you like to do?' screen that directs them to various forms.  
 
-**5.** Finding five
+**5.** Veterans struggle to return to the app from webview. Only 1 participant self-identified the 'Done' button to return to the app during or after submitting the form. 
 
-**6.** Finding six
+**6.** Mobile users are prone to typing errors in their form entry.
 
-**7.** Finding seven
+**7.** Users may miss screen content or attempt to scroll around instead of dismiss toast messages in the app. Only 1 participant dismissed a toast message within the app during the study. 
+
+**8.** Users desire more information about the status of a form after submission as proposed statuses may be interpreted in different ways. 
 
 
 ## Details of Findings 
@@ -266,16 +261,23 @@ Brief description
 ## **Additional Insights**
 *Include insights that do not represent patterns but are still valuable.*  
 > **TIP:** These could be powerful user comments or unexpected issues worth noting
-
+**1.** Users desire support from the app if they have questions or don't know how to complete a task.
+**2.** Users expect to be automatically sent a message by the VA to confirm receipt of the form after submission, or receive key updates during the process.
+**3.** Dark-mode settings on a users mobile device does not carry over into a webview.  
 
 ## Recommendations
 
 *Summarize actionable recommendations based on findings.*  
 
-1. **Recommendation:** [Insert action]  
+1. **Move forward with an MVP of forms in the mobile app.** [Insert action]  
    - _Supporting evidence: [Insert data]_  
-2. **Recommendation:** [Insert action]  
+2. **Direct users to the 21-4138 form under the context of claims.** [Insert action]  
    - _Supporting evidence: [Insert data]_
+3. **Make the 'Submit a statement in support of a claim' more scannable.***
+4. **Update the wording of the options on the screen 'What would you like to do?'**
+5. **Update the text in the button 'Done' to make returning to the app more apparent**
+6. **Consider light-weight, simple forms to include in the app that require less input from the user.**
+7. **Consider alternative methods of delivering a confirmation message.**
 
 ## Product User and Business Outcomes
 
