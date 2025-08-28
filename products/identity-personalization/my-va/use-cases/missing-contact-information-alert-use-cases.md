@@ -72,6 +72,16 @@ A text note above the alert “[A/An] [mobile phone/email address] is required f
 
 </details>
 
+<details><summary>Modified Edit-as-a-subtask flow</summary>
+
+- **Use case:** If a user edits their contact information (email, address, phone) by clicking the edit link on the Missing Contact Information Summary page, they will launch the modified edit-as-a-subtask flow. The flow is a single question flow that updates their contact information then directs the user back to the Summary page. [Link to product documentation.](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/editing-as-a-subtask) See modifications in figma designs linked below.
+- **Format:** See designs
+- [Links to designs](https://www.figma.com/design/eztyT5LpinAolQPMFnFtw7/Missing-Contact-Info?node-id=43-8774&t=qBnzLOIRS5QmY5ev-1)
+- [Link to code]
+- **Content:** See designs
+
+</details>
+
 #### After editing their contact info (mobile phone number, contact email, and/or mailing address)
 <details><summary>Saving information: Success</summary>
 
@@ -116,9 +126,8 @@ Alert Body Copy: "We still don’t have your [mobile phone, email address, and m
 ### Errors
 
 #### System errors
-<details><summary>Backend system down</summary>
+<details><summary>Server issues</summary>
 
-- **Server issues:** (Could this actually be a bug?)
 - **Format:** This does not look like a design system component
 - **Link to designs:** [Server issues](https://www.figma.com/design/eztyT5LpinAolQPMFnFtw7/Missing-Contact-Info?node-id=60-13216&t=8zRR5AUIS7qoYnGK-1)
 - **Link to code:** ???
