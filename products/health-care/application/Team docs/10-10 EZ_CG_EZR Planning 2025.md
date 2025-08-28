@@ -21,7 +21,7 @@
 - [ ] **SPRINT GOAL** [#94500](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94500) - [QA] Follow-up to complete testing on L&L pattern
 
 #### Obj: EZ [PDF Versioning](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
-- [ ] **Stretch** [#117843](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117843) - [QA, BE] Validate PDF versioning update trigger
+- [x] **Stretch** [#117843](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117843) - [QA, BE] Validate PDF versioning update trigger
 
 
 
@@ -29,7 +29,7 @@
 ### 10-10CG
 
 #### Obj: CG [Improvements/BUGs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40165)
-- [ ] **SPRINT GOAL** [#117879](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117879) - [BE] Testing support for MuleSoft runtime version upgrade (08/28/2025)
+- [x] **SPRINT GOAL** [#117879](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117879) - [BE] Testing support for MuleSoft runtime version upgrade (08/28/2025)
 
 
 
@@ -56,7 +56,7 @@
 
 #### Obj: EZR [Improvements](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109435)
 - [ ] **SPRINT GOAL** [#117486](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117486) - [BE] Audit BE logs to move from Sentry to Datadog
-- [ ] **SPRINT GOAL** [#117590](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117590) - [Design, FE] Update SIP message on Intro screen
+- [x] **SPRINT GOAL** [#117590](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117590) - [Design, FE] Update SIP message on Intro screen
 - [ ] **Stretch** [#116521](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116521) - [Research] Dental info content research (CARRIED)
 
 #### Obj: EZR [Veteran Info Confirmation flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/104124)
