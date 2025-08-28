@@ -129,5 +129,3 @@
 - **Typography Decision:** Finalize whether to use uppercase tags (USWDS alignment) or sentence case (readability optimization)
 - **Status Indicator Component:** Evaluate if status indicators should be offered as an alternative for teams requiring longer text with status icons
 - **Mobile Compatibility:** Review mobile tag variations and ensure current tag design supports all presented use cases
-- **Accessibility Review:** Ensure color-based status communication includes additional visual indicators for accessibility compliance
-- **Implementation Guidelines:** Develop clear guidance for when to use tags vs. status indicators vs. alerts based on content length and context
