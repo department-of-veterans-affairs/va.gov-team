@@ -1,15 +1,6 @@
 # Requirements Index
 
 A centralized list of documented requirements across features and systems.  
-This will grow as more initiatives (eg RISC, DS Logon deprecation, etc.) are added.
-
----
-
-## 📌 Requirements
-
-# Requirements Index
-
-A centralized list of documented requirements across features and systems.  
 This index is automatically generated from individual requirement files.
 
 *Last updated: 2025-08-27*
