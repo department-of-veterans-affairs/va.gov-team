@@ -2,8 +2,8 @@ name: Weekly Team Documentation Validation Report
 
 on:
   schedule:
-    # Run every Monday at 9:02 AM UTC (adjust timezone as needed)
-    - cron: '02 9 * * 1'
+    # Run every day at 9:00 AM UTC (adjust timezone as needed)
+    - cron: '0 9 * * *'
   workflow_dispatch: # Allow manual triggering
   pull_request:
     paths:
@@ -89,7 +89,7 @@ jobs:
       id: create-issue
       uses: actions/github-script@v7
       with:
-        github-token: ${{ secrets.MANIFEST_TEAM_VALIDATION_TOKEN }}
+        github-token: ${{ secrets.TEAM_VALIDATION_TOKEN }}
         script: |
           const fs = require('fs');
           
@@ -124,7 +124,7 @@ jobs:
           
           ---
           
-          *This issue was automatically created by the [Manifest Team Validation Workflow](https://github.com/department-of-veterans-affairs/va.gov-team/actions/workflows/manifest-team-validation-report.yml)*`;
+          *This issue was automatically created by the [Team Validation Workflow](https://github.com/department-of-veterans-affairs/va.gov-team/actions/workflows/team-validation-report.yml)*`;
           
           // Close previous validation report issues
           const { data: existingIssues } = await github.rest.issues.listForRepo({
@@ -151,7 +151,7 @@ jobs:
           }
           
           // Create new issue
-          const labels = ['manifest-team-validation-report'];
+          const labels = ['team-validation-report', 'documentation', 'automated-report'];
           if (isTestRun) {
             labels.push('test-run');
           } else {
@@ -169,80 +169,9 @@ jobs:
           
           console.log(`Created validation report issue: ${newIssue.html_url}`);
           
-          // Save issue info for Slack notification
+          // Save issue info for potential future use
           core.setOutput('issue_number', newIssue.number);
           core.setOutput('issue_url', newIssue.html_url);
-        
-    - name: Send Slack notification
-      if: always() # Send notification for all runs (including PR tests) for now
-      continue-on-error: true # Don't fail the workflow if Slack notification fails
-      uses: slackapi/slack-github-action@v1.26.0
-      with:
-        channel-id: 'C09CFKZ5TMK' # Slack channel ID for #platform-manifest-notifications
-        payload: |
-          {
-            "text": "📋 ${{ github.event_name == 'pull_request' && '[TEST] ' || '' }}Team Documentation Validation Report",
-            "blocks": [
-              {
-                "type": "header",
-                "text": {
-                  "type": "plain_text",
-                  "text": "📋 ${{ github.event_name == 'pull_request' && '[TEST] ' || '' }}Team Documentation Validation Report"
-                }
-              },
-              ${{ github.event_name == 'pull_request' && '{"type": "section", "text": {"type": "mrkdwn", "text": "> ⚠️ *This is a TEST run* triggered by pull request changes"}}, ' || '' }}{
-                "type": "section",
-                "fields": [
-                  {
-                    "type": "mrkdwn",
-                    "text": "*Total Teams:* ${{ steps.validate.outputs.total_teams }}"
-                  },
-                  {
-                    "type": "mrkdwn",
-                    "text": "*Completion Rate:* ${{ steps.validate.outputs.completion_rate }}"
-                  },
-                  {
-                    "type": "mrkdwn",
-                    "text": "*Fully Completed:* ${{ steps.validate.outputs.completed_teams }}"
-                  },
-                  {
-                    "type": "mrkdwn",
-                    "text": "*Needs Attention:* ${{ steps.validate.outputs.needs_attention }}"
-                  }
-                ]
-              },
-              {
-                "type": "section",
-                "text": {
-                  "type": "mrkdwn",
-                  "text": "📊 *Progress Update:* ${{ steps.validate.outputs.completed_teams }} out of ${{ steps.validate.outputs.total_teams }} teams have completed their documentation (${{ steps.validate.outputs.completion_rate }} completion rate)."
-                }
-              },
-              {
-                "type": "actions",
-                "elements": [
-                  {
-                    "type": "button",
-                    "text": {
-                      "type": "plain_text",
-                      "text": "View GitHub Issue"
-                    },
-                    "url": "${{ steps.create-issue.outputs.issue_url }}"
-                  },
-                  {
-                    "type": "button",
-                    "text": {
-                      "type": "plain_text",
-                      "text": "View Team Manifest"
-                    },
-                    "url": "https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/README.md"
-                  }
-                ]
-              }
-            ]
-          }
-      env:
-        SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_USER_OAUTH_ACCESS_TOKEN }}
         
     - name: Create GitHub issue on failures
       if: failure()
