@@ -111,6 +111,8 @@ Several participants expected to download letters even without a valid mailing a
 * "I would hope the letters are still available. You might be in between homes or homeless—those documents are still needed.” -P07
 * "If I were homeless, I would have a problem with [the letters not showing up without an address].” -P11
 * “Even if I didn't have a mailing address listed in there, I would think that I could still go in there and access a benefit letter.” -P14
+<img width="400" alt="CleanShot 2025-08-28 at 07 47 45@2x" src="https://github.com/user-attachments/assets/1858cfc3-202b-41fe-a670-7f139e06eb0a" />
+
 
 #### Finding 6: Assistive technology missed critical information.
 The text-to-speech tool Speechify failed to read key context—like customization options and alerts—creating accessibility gaps.
