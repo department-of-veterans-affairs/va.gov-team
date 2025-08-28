@@ -27,6 +27,7 @@ jobs:
         sparse-checkout: |
           teams/
           scripts/manifest/
+          products/
         sparse-checkout-cone-mode: false
         
     - name: Set up Ruby
