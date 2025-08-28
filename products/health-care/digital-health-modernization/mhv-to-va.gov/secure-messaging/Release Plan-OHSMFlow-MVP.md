@@ -28,7 +28,7 @@ _Note: This realease will be staged approach with an MVP target for the week of 
 
 ### Do I need a staged rollout?
 
-Yes
+Yes- MVP and Post MVP
 
 ### Define the Rollback process (To be Updated-does not apply to SM, below is just a SAMPLE template)
 
@@ -51,41 +51,13 @@ Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics
 2. A fix will be prioritized and worked on
 3. The fix will be tested and deployed through normal CI/CD practices, with no interruption to feature uptime.
 
-### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
-#### Rollout Planning  (Sample)
-
-- Date range or test duration: Aug 22 - Sept 4
-- Number of users: 2
-- How you'll recruit the right production test users: We have identified two BAH Veterans
-- How you'll conduct the testing: UAT
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: Through use of a feature flag
-
-#### Results  (Sample)
-
-- Number of users: 2
-- Number of bugs identified / fixed: 2
-  - STS Bug: Our service account wasn't configured correctly to include the ICN; team resolved this.
-  - Incorrect config: The team was using out-of-date credentials; upstream service provided us with the updated credentials.
-  - Overwrite issue: our request headers were getting overridden - the root cause was the need to support two API keys, but our team was able to resolve this as well.
-- Was any downstream service affected by the change?: No
-- Types of errors logged: N/A
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: No
-- Latency: For succesful responses to the API, we had between 4 seconds and 23 seconds of latency. The team suspects that latency had a positive correlation with number of claims.
-
-
-team was able to resolve this as well.
-- Was any downstream service affected by the change?: No
-- Types of errors logged: N/A
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: No
-- Latency: For succesful responses to the API, we had between 4 seconds and 23 seconds of latency. The team suspects that latency had a positive correlation with number of claims.
 
 ## Post MVP Metrics Launch Plan
 
 1. **Data Dog**: Increasing DD collection to 100% for those users on the new flow
 
-2. **Error rates** - the base for comparison, data from the new flow can be separated out and compared to base.  This will require some eng capacity.
-
+2. **Error rates** - the base for comparison, data from the new flow can be separated out and compared to base.  This will require some eng capacity (estimated a full day for dashboard build)
 
 
 3. **CSAT** - continue to monitor CSAT for the base, and the new flows.  We should be able to break out the new flows with URLs and compare feedback.
@@ -105,7 +77,7 @@ Add Link HERE
 | |  |
 |  | |
 
-**User-Facing Metrics (Google Analytics and Call Center)**
+**User-Facing Metrics (Google Analytics and Call Center)**- Applicable here or chop?
 
 Add Link Here
 
@@ -131,9 +103,23 @@ Add Link Here
 
 *To be completed once you have gathered your initial set of data, as outlined above.*
 
-1. How do the KPIs you gathered compare to your pre-launch definition(s) of "success"?
-2. What qualitative feedback have you gathered from users or other stakeholders, if any?
-3. Which of the assumptions you listed in your product outline were/were not validated?
-4. How might your product evolve now or in the future based on these results?
+1. What percentage of overall SM users are sending new messages each month?
+2. How many do they send on average?
+3. What is the breakdown of those users on mobile v. desktop devices (web)?
+4. How many VHAB mobile app users send new messages each month?
+5. Pie chart: What % of users are sending messages across each of these spaces:
+     My VA Health (OH platform)
+     My HealtheVet on VA.gov (web)
+     VHAB mobile app
+6. Does the expansion of the "start a new message" flow impact the # of users submitting messages in a negative way?
+     Is there a decrease in how many users are sending messages, or how many messages they're sending as a result of this flow?
+7. Is the the /new-message/recent page serving most users?
+     What % of overall users benefit from this "shortcut" page and are able to select a care team here, and directly go to the /new-     message/start-message page (bypassing /new-message/select-care-teams page)?
+     What % of users select "a different care team" from the radio button options?
+     Path analysis: what % of users go from /recent directly to /start-message (found the team they were looking for)
+     Path analysis: what % of users go from this page to/select-care-team page (did not find the team they were looking for)
+
+8. What percentage of new messages throw an error upon submission?
+
 
 
