@@ -146,7 +146,7 @@ All of these test cases require that the user is signed in and has LOA3 access.
 - Functionality has been verified via test users for all user stories - 100%
 
 ### Summary (Defects) Reports
-- TBD
+- No defects were found
 
 ### E2E Tests
 - https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/personalization/profile/tests/e2e/paperless-delivery
