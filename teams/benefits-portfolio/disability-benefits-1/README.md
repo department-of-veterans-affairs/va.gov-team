@@ -2,7 +2,6 @@
 
 > **📋 Instructions:** See [../team-readme-instructions.md](../team-readme-instructions.md) for detailed guidance on using this template. Remove this instruction note when completing your README.
 
-
 ## Team Information
 
 ### Basic Details
@@ -11,8 +10,8 @@
 - **Short Name:** disability-benefits-1
 - **GitHub Team Name:** [github-team-name] _(Exact name of GitHub team which is also found in your GitHub team link below)_
 - **GitHub Team Labels:**
-  - [github-label-1]
-  - [github-label-2]
+  - disability-benefits
+  - 21-526EZ
 - **GitHub Team Link:** [https://github.com/orgs/department-of-veterans-affairs/teams/github-team-name]
 - **Slack Channel:** [#channel-name](https://dsva.slack.com/channels/channel-name)
 

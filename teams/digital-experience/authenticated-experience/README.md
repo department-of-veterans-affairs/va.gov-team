@@ -10,7 +10,7 @@
 - **Short Name:** authenticated-experience _(Used for directory URLs and should ideally match your GitHub team name below)_
 - **GitHub Team Name:** [github-team-name] _(Exact name of GitHub team which is also found in your GitHub team link below)_
 - **GitHub Team Labels:**
-  - [github-label-1]
+  - authenticated-experience
   - [github-label-2]
 - **GitHub Team Link:** [https://github.com/orgs/department-of-veterans-affairs/teams/github-team-name]
 - **Slack Channel:** [#accountexp-authexp](https://dsva.slack.com/channels/accountexp-authexp)

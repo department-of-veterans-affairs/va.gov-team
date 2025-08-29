@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+require 'uri'
+
 module MarkdownUtils
   # Find the start and end of a section in markdown content
   def self.find_section_bounds(content, section_header)
@@ -61,7 +63,16 @@ module MarkdownUtils
           teams.each do |team|
             team_name = team[:team_name] || 'Unknown Team'
             readme_link = team[:readme_link] || '#'
+            
+            # Add the main team entry
             content << "- [#{team_name}](#{readme_link})"
+            
+            # Add Collaboration Cycle link as a sub-bullet if team has GitHub labels
+            if team[:github_labels] && !team[:github_labels].empty?
+              first_label = team[:github_labels].first
+              collab_cycle_link = generate_collab_cycle_link(first_label)
+              content << "  - [Current Collab Cycle work](#{collab_cycle_link})"
+            end
           end
         end
       end
@@ -109,5 +120,13 @@ module MarkdownUtils
     else
       crew_name
     end
+  end
+
+  # Generate Collaboration Cycle project board link filtered by team label and status
+  def self.generate_collab_cycle_link(github_label)
+    # URL encode the label for the GitHub project board filter
+    encoded_label = URI.encode_www_form_component(github_label)
+    encoded_status = URI.encode_www_form_component("In Progress")
+    "https://github.com/orgs/department-of-veterans-affairs/projects/998/views/15?filterQuery=label%3A%22#{encoded_label}%22+status%3A%22#{encoded_status}%22"
   end
 end
