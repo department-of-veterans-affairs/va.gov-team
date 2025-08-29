@@ -140,7 +140,7 @@ TBD
 - Team Name: 10-10 Heath Apps Team
 - GitHub Label(s): 1010-print-save
 - Slack channel: #1010-health-apps
-- Product POCs: 
+- Product POCs: Heather Justice (PM)
 
 </details>
 
