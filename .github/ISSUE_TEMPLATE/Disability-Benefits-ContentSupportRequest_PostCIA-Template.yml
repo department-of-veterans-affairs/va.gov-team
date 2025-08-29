@@ -23,7 +23,7 @@ body:
 - type: markdown
   attributes:
     value: |
-      ### Relevant links and artifacts   
+      ## Relevant links and artifacts   
 - type: input
   attributes:
     label: "Name and issue # of the parent epic"
