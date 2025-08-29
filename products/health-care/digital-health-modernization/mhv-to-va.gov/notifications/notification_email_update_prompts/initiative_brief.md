@@ -89,11 +89,14 @@ Display the following UX to all actively enrolled VHA patients. Stop displaying 
 - `Horizon team` Critical Action alert on My VA page, /my-va/
 - `Horizon team` Dismissible Alert_ on VA.gov Profile page, /profile/contact-information#contact-email-address
 - `Horizon team` and `Identity team` Interstitial after signing-in
+   - Will discuss tech implementation details in 9/2 sync 
 
 **Mobile**
+Mobile work expected in 9/23 (2.59.0) release ([thread for reference](https://dsva.slack.com/archives/C018V2JCWRJ/p1756489806851979?thread_ts=1756326572.906019&cid=C018V2JCWRJ)).
 - `Mobile team` Warning alert on home landing screen
 - `Mobile team` Warning alert on health landing screen
 - `Mobile team` Warning alert on profile contact info page
+
  
 > *What have you explicitly decided to **not** include and why?*
 - Mobile won't include an interstitial after signing-in. Because this requires additional development effort. And we want to ship ASAP.
@@ -103,9 +106,7 @@ Yes, because this impacts all My HealtheVet users who receive notifications from
 
 > *How does this solution address your Assumptions & Risks?*
 
-
 #### Go-to-market 
-
 > *What marketing, outreach, or communications are necessary for this product to be successful?*
 
 > *Which groups/orgs are necessary to make this happen?*
