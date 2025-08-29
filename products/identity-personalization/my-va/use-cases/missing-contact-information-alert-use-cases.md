@@ -129,7 +129,6 @@ Alert Body Copy: "We still don’t have your [mobile phone, email address, and m
 
 - **Format:** This does not look like a design system component
 - **Link to designs:** [Server issues](https://www.figma.com/design/eztyT5LpinAolQPMFnFtw7/Missing-Contact-Info?node-id=60-13216&t=8zRR5AUIS7qoYnGK-1)
-- **Link to code:** ???
 - **Content:**
 Alert Body Copy: “[We’re sorry. We’re having some server issues and are working to fix them. Please try applying again in a few moments.](https://www.figma.com/design/eztyT5LpinAolQPMFnFtw7/Missing-Contact-Info?node-id=60-13216&t=8zRR5AUIS7qoYnGK-1)”
 
