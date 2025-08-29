@@ -10,9 +10,13 @@
     - [List of Known Forms](#list-of-known-forms)
 5. [Begin Implementation for Non-Benefits Intake API Forms](#begin-implementation-for-non-benefits-intake-api-forms)
     - [Initial Decisions](#initial-decisions)
-6. [Using `restricted_list_of_forms`](#using-restricted_list_of_forms)
-    - [Continue with the restriscted approach](#continue-with-the-restriscted-approach)    
-8. [Brand New Form API Connection](#brand-new-form-api-connection)
+    - [Using `restricted_list_of_forms`](#using-restricted_list_of_forms)
+    - [Continue with the restricted approach](#continue-with-the-restricted-approach)    
+    - [Brand New Form API Connection](#brand-new-form-api-connection)
+    - [Restricted vs Unrestricted](#restricted-vs-unrestricted)
+    - [Unrestricted Implementation](#unrestricted-implementation)
+6. [Team Implementations Tracker](#team-implementations-tracker)
+7. [Other References](#other-references)
 
 
 ## Introduction
@@ -30,7 +34,6 @@ Forms can display **four statuses**:
 > This guide covers statuses **2–4**, as **DRAFT** is handled by the Save-in-Progress (SiP) implementation.  
 > For more details, see the [SiP guide](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-set-up-save-in-progress-si).
 
----
 
 ### Form Status Card
 There are two title/heading display options for the status card, depending on whether the form is uploadable or has the SiP feature:
@@ -81,6 +84,8 @@ sequenceDiagram
     R-->>SC: Return formatted report
     SC-->>FE: Serialized Form Statuses
 ```
+
+----------------------------------------
 
 ## Existing Pattern: Lighthouse Benefits Intake API Forms
 
@@ -152,7 +157,7 @@ Before implementation, discuss and answer the following:
 
 ---
 
-## Using `restricted_list_of_forms`
+### Using `restricted_list_of_forms`
 
 To use this path, ensure the following exist:
   ```
@@ -165,7 +170,7 @@ If your form status **does not appear** upon successful submission, the first te
 
 You can continue with the same approach or discuss removing restrictions and allowing all forms for your Form API to show a status.
 
-### Continue with the restriscted approach
+### Continue with the restricted approach
 
 ℹ️ In our `app/controllers/v0/my_va/submission_statuses_controller.rb` we have a list of Allowed Forms.
 
@@ -190,7 +195,7 @@ Implementation Steps:
 2.	Update or add tests in the respective Formatter/Gateway spec.
 3.	Test locally to confirm the form status card appears.
 
-## Brand New Form API Connection
+### Brand New Form API Connection
 
 ℹ️ Please refer to the diagram focused on the [`vets-api` Workflow](#vets-api-workflow) for a refresher on the flow/pattern you will be adding to.
 
@@ -269,14 +274,62 @@ Output format must match the following example structure:
 5. Update/add tests and test locally to confirm the status card displays correctly.
 6. Test locally to confirm the form status card appears
 
+### Restricted vs Unrestricted
+
+You will still need to decide if you want to follow the [restricted (add to the list)](#using-restricted_list_of_forms) vs unrestricted (show all forms) approach.
+
+#### Unrestricted Implementation
+
+If you have made the connection to your Forms API and don't use the restricted path, then the default will be to show all status for the forms of your Form API.
+
+This is possible by passing `nil` for `allowed_forms` in `app/controllers/v0/my_va/submission_statuses_controller.rb`:
+
+```ruby
+      def show
+        report = Forms::SubmissionStatuses::Report.new(
+          user_account: @current_user.user_account,
+          allowed_forms: forms_based_on_feature_toggle
+        )
+
+        result = report.run
+
+        render json: serializable_from(result).to_json, status: status_from(result)
+      end
+
+      def forms_based_on_feature_toggle
+        return nil if display_all_forms?
+
+        restricted_list_of_forms
+      end
+```
+
+----------------------------------------
+
+## Team Implementations Tracker
+
+This table is a shared resource for tracking each team’s implementation path, the forms they’ve added, and any notes that may help us and future teams provide better support.
+If you are unable to edit this document to add your team's decisions, please let us know.
+
+ <details>
+  <summary>Click to expand: Team Implementations Tracker</summary>
+
+| Team Name | Form API | First Team for API? | Restricted or Unrestricted? | Form(s) Added | Epic/Ticket Link | Notes / Useful Info |
+|-----------|----------|----------------------|-----------------------------|---------------|------------------|----------------------|
+| Example Team A | Lighthouse Benefits Intake | Yes | Unrestricted | All | Epic-1234 | Used feature toggle `flipper_name` |
+| Example Team B | Forms API XYZ | No | Restricted | 21-4138 | Ticket-5678 | Continuing restricted path |
+| Example Team C | Forms API ABC | Yes | Restricted | 20-10206, 21-4142 | Epic-9876 | `#slack-team-channel` |
+
+ </details>
+
 
 ----------------------------------------
 
 
-**Other References:**
+## Other References:
 - [Project outline: Forms Status on My VA MVP](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/forms-status-on-My-VA)
   - This document will provide context for the MVP of Form Status 
 - [Form Submission Status: Backend Documentation](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/7693b23eafaabac7c52a288ce89ae04d45972170/products/identity-personalization/my-va/form-status/backend_documentation.md)
   - This document hold the final and current backend implementation of the Form Status
   - You can reference this document if you want more insight into how we work with the Lighthouse Benefits Intake API to retrieve the status of submitted forms
-- [VA Forms Library - How to set up Save In Progress (SiP)](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-set-up-save-in-progress-si#VAFormsLibrary-HowtosetupSaveInProgress(SiP)-MyVAPage) 
+- [VA Forms Library - How to set up Save In Progress (SiP)](https://depo-platform-documentation.scrollhelp.site/developer-docs/va-forms-library-how-to-set-up-save-in-progress-si#VAFormsLibrary-HowtosetupSaveInProgress(SiP)-MyVAPage)
+- [VA Design System Submission Status Pattern](https://design.va.gov/patterns/help-users-to/stay-informed-of-their-application-status#for-asynchronous-submissions)
