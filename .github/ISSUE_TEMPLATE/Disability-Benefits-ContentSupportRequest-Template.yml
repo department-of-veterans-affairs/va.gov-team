@@ -1,0 +1,120 @@
+
+name: Disability Benefits Content Support Request Template
+description: Content Support Request for Disability Benefits Team 
+title: [INTAKE] Team name: Initiaitve name
+labels: ["disability", "disability-benefits", "content"]
+projects: 
+- department-of-veterans-affairs/1660
+type: Task
+assignees: amylago
+
+body:
+- type: markdown
+  attributes:
+    value: |
+      TICKET TITLE: [INTAKE] Team name: Initiative name
+      Use this ticket to ask the Disability Benefits Crew (DBC) content designer for support. Feel free to delete any unselected options from this ticket to make it easier to scan.
+
+      ## 👥 Team Info 
+      Tell us about your team
+- type: input
+  attributes:
+    label: Product Name  
+    placeholder: e.g., VA 21-0781
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Team Name  
+    placeholder: e.g., Disability Benefits Crew Core Form team
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Slack Channel  
+  validations:
+    required: true
+
+- type: input
+  attributes:
+    label: Product Manager  
+- type: input
+  attributes:
+    label: Designer(s)  
+
+- type: markdown
+  attributes:
+    value: ## About your initiative
+
+- type: checkboxes
+  attributes: 
+    label: Which of these descriptions best fits the work we'll partner on? (Select all that apply)
+    options:
+      - label: Digiitzing a new form
+      - label: Updating an existing form
+      - label: Adding new unauthenticated content to VA.gov
+      - label: Updating existing unauthenticated content on VA.gov
+      - label: Something else:
+- type: input
+  attributes:
+    label: If something else
+    placeholder: Enter something else here  
+
+- type: textarea
+  attributes:
+    label: Describe the work effort
+    description: Provide a brief description of the work
+
+- type: markdown
+  attributes:
+    value: |
+      ## 📑 Supporting Artifacts
+      Add links to all applicable artifacts and issues
+
+- type: input
+  attributes:
+    label:   Parent epic or super epic
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Figma file 
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Mural 
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Collaboration Cycle ticket# 
+- type: input
+  attributes:
+    label: Research findings or usability insights
+
+  
+- type: textarea
+  attributes:
+    label: Technical constraints
+    description: Describe any technical constraints or considerations
+
+- type: input
+  attributes:
+    label: Timeline
+    description: Provide information about your expected/planned timeline
+    placeholder: Estimated launch timeline
+- type: input
+  attributes:
+    label: Where are you in your design/development process
+- type: input
+  attributes:
+    label: Is a staged launch planned?
+    description: If so, please provide details
+  
+
+
+
+
+
+
