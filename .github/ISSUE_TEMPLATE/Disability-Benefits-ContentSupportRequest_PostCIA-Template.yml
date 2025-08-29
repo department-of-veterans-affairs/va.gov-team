@@ -42,6 +42,8 @@ body:
 - type: input
   attributes:
     label: Figma where final content should be provided
+  validations: 
+    required: true
 
 - type: input
   attributes:
