@@ -17,19 +17,19 @@ Work done in [#76465](https://github.com/department-of-veterans-affairs/va.gov-t
 ### Sample questions
 
 ![image](https://github.com/user-attachments/assets/735d560d-1623-4045-a9c7-d1ed674bc112)
-- Veterans will be asked this question only if the benefits API fails to connect or if the API cannot determine if the Veteran receives pension benefits. If the Veteran answers "yes", the following two questions will be conditionally revealed later in the form flow. If the API is working and can locate the Veteran, this question will not appear.
+- Veterans will be asked this question only if the benefits API fails to connect or if the API cannot determine if the Veteran receives pension benefits. If the Veteran answers "yes", BOTH of the following two questions will be conditionally revealed later in the form flow. The Veteran is required to answer those questions. If the API is working and can locate the Veteran, this question will not appear.
 
 -----
 
 ![image](https://github.com/user-attachments/assets/ba77b819-232d-4af7-aea1-22ed571a5170)
-- This question is asked for every dependent branch in the form
-- If yes, VA.gov will off-ramp the claim for manual review where the VBA will usually ask the Veteran a complete income/asset picture via a 21P-0969 or 21P-8416. Baha Khaled confirmed on 6/17/25 in an email to Sanja Bajovic that VA.gov should preemptively off-ramp these claims for manual processing rather than send them to RBPS.
+- This question is asked when ~~every dependent branch in the form~~ a dependent is being added. The questions are not asked with a Veteran is only submitted a 674 or removing a dependent.
+- If yes, VA.gov will off-ramp the claim for manual review where the VBA will usually ask the Veteran a complete income/asset picture via a 21P-0969 or 21P-8416. Baha Khaled confirmed on 6/17/25 in an email to Sanja Bajovic that VA.gov should preemptively off-ramp these claims for manual processing rather than send them to RBPS, but Sanja opted to [put that work on hold](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112500).
 - If no, the claim will continue through to RBPS
 
 -----
 
 ![image](https://github.com/user-attachments/assets/11696ae6-df7c-43f1-9fe0-326148864f4b)
-- This question is asked at the end of every form branch
+- This question is asked at the end of ~~every form branch~~ all dependent addition branches.
 - If yes, VA.gov will off-ramp the claim for manual review review where the VBA will usually ask the Veteran a complete income/asset picture via a 21P-0969 or 21P-8416. Baha Khaled confirmed on 6/17/25 in an email to Sanja Bajovic that VA.gov should preemptively off-ramp these claims for manual processing rather than send them to RBPS.
 - If no, the claim will continue through to RBPS
 -----
@@ -42,8 +42,10 @@ From our Pension and Fiduciary Service SME, Jennifer Feuer, about the original i
 -----
 
 ### Functionalty Overview
-- If a Veteran is removing a dependent, they should not see the income and net worth questions. Instead, the claim should be off-ramped from VA.gov, so it does not go to RBPS. All dependent removals that might impact pension benefits are manually reviewed.
-- 
+- If a Veteran is removing a dependent, they should not see the income and net worth questions. Instead, the claim should be off-ramped from VA.gov (on hold), so it does not go to RBPS. All dependent removals that might impact pension benefits are manually reviewed.
+- If a Veteran is in receipt of pension, they should not see the dependent income or net worth questions in the 674-only flow. The 674 already contains income questions that are used to process student changes that may impact a Veteran's pension benefits.
+- RBPS expects an answer of "Y", "N", or "NULL". In cases where the Veteran is not in receipt of pension and does not see/answer the questions, RBPS does not require a value to be passed.
+- DIC benefits are not considered pension in this case and a Veteran in receipt of DIC (but not pension) does not need to see these questions.
 
 -----
 
@@ -55,6 +57,7 @@ The (same?) API can be leveraged to pull in the annual net worth limit and [auto
 ### Questions
 1. Should VA.gov preemptively off-ramp pension-related claims that cannot be processed by RBPS? Or, is RBPS responsible for off-ramping them?
   - VA.gov should preemtively off-ramp pension-related claims that cannot be processed by RBPS. This involves claims where the answers to the income questions are anything other than "no income in the last 365 days" and "no, my income is not over the annual limit". Baha Khaled confirmed on 6/17/25 in an email to Sanja Bajovic that VA.gov should preemptively off-ramp these claims for manual processing rather than send them to RBPS.
+  - Sanja put [this work](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112500) on hold to prioritize higher impact work.
 2. 
 
 ### Content Recommendations

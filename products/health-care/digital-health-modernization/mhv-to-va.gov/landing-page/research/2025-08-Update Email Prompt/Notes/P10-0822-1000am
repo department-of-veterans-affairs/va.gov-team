@@ -1,0 +1,177 @@
+# **Participant 10, August 22, 2025 and 10AM EST**
+
+
+## **Instructions**
+
+We will be able to get ok transcripts from EnjoyHQ, so focus notes on observations, clearly defined interpretations, and impactful utterances.
+
+
+* Focus on observations of user behavior.
+    * Example of observation: “Participants clicks on My VA tab, hovers over X header, then back buttons to landing page.”
+    * Example of observation: “Participant says ‘this is annoying, that makes no sense.’ when looking to login to BTSSS.”
+* Be clear where notetaker is interpreting or making inferences of what participant is thinking/feeling
+    * Example of interpretation: “Based on facial expressions, participant seems to be confused. Going back and forth between X and Y pages seems like they are looking for something.”
+    * Example of interpretation: “Participant easily found link no frustration.”
+
+
+**Task order used:A, B**
+
+
+
+
+
+## **Option A: Veteran does not have an email on file**
+
+[Flow A](https://www.figma.com/proto/CAChU51fWYMZsgDR5RXeSc/MHV-Landing-Page?page-id=5465%3A1304&node-id=5861-21571&viewport=26%2C-947%2C0.42&t=spgbQ62qjaRH4JSQ-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=5861%3A21571&show-proto-sidebar=1)
+
+### **Start on: “Add a contact email address” page**
+
+
+### ***First impressions***
+
+1. What stands out to them?
+
+-
+2. Do they know why asked?
+3. What do they think they can do?
+4. What questions do they have?
+5. What info would they add and why?
+6. Do they understand the consequences of not adding info?
+7. Do they understand/accurately id how to enter and advance?
+8.  "Skip this for now" first impressions
+
+Sigin
+Participant would go up to the sign in thing because she already uses it
+Signs in with ID me
+
+What they notice first 
+Contact email address (starts reading screen) 
+Notices the save and skip for now button/link
+
+-They want to be able to communicate by email, but I if I don’t wanna do it, I could skip it
+Notices the note at the bottom of the screen and what’s changing and starts reading it
+
+make sure I give them the right email address. And if I entered it in my healthy vet, I might want to enter it again.
+I’m pretty sure they have my email address but I would enter it again. I would rather enter it twice than zero.
+
+
+Moderator: What would happen if you skipped
+
+I don’t think anything would happen. I mean it would take me to va.gov. But how would they contact me? Whatever is in my profile right now.
+
+Moderator: why would the VA asked this question? 
+I’ve seen something around the scuttle bug of loggin changes, etc. talks about my healtheVet sign in going away 
+(Seemed not surprised to see a message like this) - But was not able to articulate that the user’s email was missing in this situation -  probably because she was putting herself in those shoes. 
+
+On My VA page 
+ Starts going through the page reading headings - claims and appeals, appointments, etc..
+Scrolled past the yellow rectangle
+when prompted by the moderator to look at yellow rectangle 
+The yellow rectangle is asking the same thing as the previous page.
+If she saw it on this page and already entered the email, would click on it and make sure the VA got it
+I would ignore it if I wanted to skip it. The participant restates the prompt, I would go to medicaidons, etc 
+Notices it’s a link in the yellow box because of the  underline 
+
+Prototype is not clicking past the confirm your contact email address
+
+Moderator asked what they think would come next. 
+
+Contact email: an email that the VA will use to contact you
+
+_What are notifications? 
+
+notifications if I have an upcoming appointments or I have a prescription. I get surveys if I get something new or flagged.
+
+
+Overall, how easy or difficult would you say this process was? 
+
+for me, it’s not that hard. I have the phone in my hand half the time. So it wasn’t that hard but for my roommate, he’s practically illiterate. It seems like he would have a great deal difficulty on this.
+If you want somebody to update their contact information. That’s the only thing that should be on the screen. People get distracted very easily.
+Isolating it on the page on the screen
+And then give them one choice. Confirm your email or you’re not going further.
+
+_Note: this was the end the session due to technical difficulties and time._
+
+[moderator note: instruct to click "Skip this for now"]
+
+
+### **On MyVA page with yellow "Confirm contact" alert"**
+
+1. What stands out to them?
+2. What actions do they identify?
+3. What do they think  would happen if they clicked the rectangle? Do they recognize it? Do they know how to dismiss it?
+
+   
+### **On: “Confirm your email” page**  (CARA note: update with new page)
+
+1. What stands out to them?
+2. What actions do they identify?
+3. What do they think would happen if they clicked the alert? Do they recognize it? Do they know how to dismiss it?   
+
+### **On: “We've updated your contact email address” page**
+
+1. What stands out to them?
+2. What actions do they identify?
+3. Next steps?
+
+### **Option Reflection Questions**
+
+
+1. Overall, how easy or difficult would you say this process was? Probe on w
+
+
+
+2. What would you change about this process? Why?
+3. What about this process would you keep?
+4. Is there anything else you would like to share about this process that we have not covered?
+
+Moderator note: Switch to other Option (so if completed Option A, move to Option B and vice-versa)
+
+
+## **Option B: Veteran has an email on file**
+
+[Flow B](https://www.figma.com/proto/CAChU51fWYMZsgDR5RXeSc/MHV-Landing-Page?page-id=5465%3A1304&node-id=5861-19456&viewport=26%2C-947%2C0.42&t=spgbQ62qjaRH4JSQ-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=5861%3A19456&show-proto-sidebar=1)
+
+### **Start on: “Action needed: confirm or update contact email” page**
+
+
+### ***First impressions***
+
+1. What stands out to them?
+2. Do they know why being asked?
+3. Do they notice the Confirm and Update options?
+5. What questions do they have?
+6. What info would they add?
+7. What do they think "Skip for now" means?
+8. Do they identify how to confirm?
+
+_[moderator note: show me/prompt to click confirm]_
+
+*On Confirmation page:*
+
+1. What stands out to them?
+2. Next steps?
+
+### **Option Reflection Questions**
+
+1. Overall, how easy or difficult would you say this process was? Probe on why
+2. What would you change about this process? Why?
+3. What about this process would you keep?
+4. Is there anything else you would like to share about this process that we have not covered?
+
+
+## **Comparative Reflection questions**
+
+1. What would you change about these processes?
+2. What about this process would you keep?
+3. Thinking about these processes, is there anything else you would like to share that we have not covered?
+
+## **Comms recall questions**
+1. Do you recall getting any communication about upcoming changes to how the VA would be communicating with you?
+
+link to July 7 email 
+
+2. Do you recall this email?
+3. Anything else to share?
+
+

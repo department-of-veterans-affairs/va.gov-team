@@ -3,6 +3,7 @@
 ## Links
 - [Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/97937)
 - [Figma](https://www.figma.com/design/61I2UcRPJDXdw0xCl9BlEe/Your-VA-benefit-letters-and-documents?node-id=3696-6535&t=qEEEXmFH86iEvuY4-1)
+- [Research findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/benefit-letters/research/2025-06-Your-VA-benefit-letters-and-documents/research-findings.md)
 
 ## Background
 Veterans often need a letter confirming their status to access other benefits. The “Your VA benefit letters and documents” page lets Veterans view and download their benefit-related letters and documents online.

@@ -1,4 +1,4 @@
-# Research Plan for Dependent Management Team, Picklist in Dependent Verification, August 2025
+    # Research Plan for Dependent Management Team, Picklist in Dependent Verification, August 2025
 
 > [!NOTE] > _Questions about how to set up your research study? Reach out in the [#research-ops](https://dsva.slack.com/archives/C0216PL32HJ) Slack channel._
 
@@ -8,14 +8,13 @@
 	
 `What problem is your product trying to solve?`
 
-Veterans can select known dependents from a picklist when verifying or removing dependents, rather than manually re-entering names. This reduces input errors, increases confidence, and enables more reliable downstream automation.
 
-The associated problems:
-
-- Veterans are required to manually type in the names of dependents to remove or verify, even though these individuals are already on record with VA.
+When veterans are editing or verifying a dependent on their benefit, they have to manually type in the names of dependents, even though these individuals are already on record with VA.
 - Manual entry increases cognitive load for Veterans and opens the door to small but critical typos (e.g. “John A. Smith” vs “Jon Smith”), which can trigger downstream claim routing errors or prevent automation.
 - Both usability and back-end reliability are being compromised by redundant and error-prone data entry.
 - Veterans who need to reinstate an inactive dependent (for example, a spouse removed after divorce but now re-married to the Veteran, or a child who aged out at 18 and is being added back via Form 674 for school attendance) must currently re-enter all personal details from scratch; this adds friction and creates new opportunities for data mismatches.
+
+With the picklist feature we want to test, veterans will be able to select known dependents from a picklist when verifying or removing them, rather than manually re-entering names. This reduces input errors, increases confidence, and enables more reliable downstream automation.
 
 `Where is your product situated on VA.gov? (ex: auth vs. unauth)`
 
@@ -28,7 +27,7 @@ There may be insights we learn in this study that apply to using the picklist in
 
 `What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?`
 
-The tool is new, but will be launched soon in its MVP form (a Collaboration Cycle Staging Review happens on Aug. 15, 2025). The addition of the picklist in the Dependent Verification form is considered version two of the product.
+This is an iteration within the Dependents Verification form, which was launched in Aug/Sept (at time of writing, a Collaboration Cycle Staging Review happens on Aug. 15, 2025). The addition of the picklist in the Dependent Verification form is considered v2 of the product.
 
 `Product Brief`
 
@@ -48,8 +47,6 @@ The tool is new, but will be launched soon in its MVP form (a Collaboration Cycl
 
 </details>
 
-> [!TIP]
-> Delete priorities not supported by this research.
 
 ### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
 
@@ -65,15 +62,9 @@ Veterans could interact with our products at many points in their journey but it
 
 </details>
 
-> [!TIP]
-> Delete journeys not supported by this research.
-
 ## Research Goals 🥅
 
 `What are you trying to learn from this research?`
-
-> [!NOTE]
-> Limit 3 goals per study. If you have more than 3 goals, consider how to break up your research into iterative studies.
 
 ### Goals
 
@@ -95,8 +86,8 @@ Veterans could interact with our products at many points in their journey but it
 We anticipate that this research will:
 
 - Deepen understanding of how Veterans understand and interact with the picklist component, and where friction with using the component may exist.
-- Validate an approach to how we ask about death in the form.
-- Create design iterations and possible updates to how we approach asking Veterans to complete more forms/tasks once they've finished their current task.
+- Help us decide how we should ask about death in the form.
+- Help improve how we ask Veterans to complete more forms/tasks once they've finished the form.
 
 We anticipate that further iteration, based on findings in this research will lead to these outcomes:
 
@@ -107,21 +98,13 @@ We anticipate that further iteration, based on findings in this research will le
 
 ---
 
-### Research questions
-
-> [!NOTE]
-> Do not write out all questions you plan to ask participants -- that should go in the` [conversation guide.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/conversation-guide-template.md)
-
-**_Consider bucketing research questions under research goals and think about:_**
-`What will I do with what I learn from this question?`
-
-`Does this question serve the goals of my study?`
+### Research goals and key questions
 
 **`1.`Goal 1: Better understand how our end users understand and interact with the picklist component.**
 
 Some key questions:
 
-- What are your initial thoughts when you read this question [about death]? If you were designing this form, what word or phrase would you use to get this information?
+- What are your initial thoughts when you read this question [about death]? What words or phrases would you expect the VA to use when talking about this situation?
 - Would you want to navigate through your dependents in another way? How would you want to do that?
 
 **`2.`Goal 2: Better understand how our end users want to take next steps after completing the Dependent Verification form with the picklist, which requires them to fill out additional forms from VA.**
@@ -131,102 +114,34 @@ Some key questions:
 - How would you want VA to help you remember to fill out these extra forms?
 - When would you want to fill out those forms?
 
-> [!TIP]
-> Enter more questions as needed
 
 ### Hypotheses
 
-> [!NOTE]
-> Remember to constrain the hypotheses to the goals of your study!
-
-**Think through these prompts to develop strong hypotheses:**
-`What do you intend to learn and measure from this study?`
-
-`What do you already know about this problem space?`
-
-`What do you think users will do or think about this product? (Identifying our assumptions helps us be aware of biases we may unintentionally bring into the study, so don’t skip this step!)`
-
-`Write a generalized statement that combines what you know + what you think will happen during the study.`
-
 ---
 
-- Veterans will prefer being asked about the death of a dependent all at once in each dependent card.
+- Veterans will prefer being asked about the death of a dependent in each dependent card rather than as a separate question.
 - Veterans will prefer having access to all their dependents at once while filling out the form.
 - Veterans will want a follow up email or text message to notify them about what other forms they have to fill out.
-- Veterans will not want to fill out the additional forms right away, immediately following finishing the Dependent Verification form with the picklist.
+- Veterans will not want to fill out the additional forms right away after completing this form.
 
 ---
 
 ## Methodology 🛠️
 
-**_Describe the method you’re planning. You should be able to explain why this method is appropriate for the goals of the research and maturity of the design._**
+`Usability testing - appropriate for evaluative research`
 
-<details><summary>Examples of common research methods include</summary> 
-	
-- `Semi-structured interviews - appropriate for generative research`
-- `Contextual inquiry - appropriate for generative research`
-- `Card sorts - appropriate for generative and evaluative research; depending on the study design` 
-- `Tree tests - appropriate for evaluative research`
-- `Usability testing - appropriate for evaluative research`
-- `User acceptance testing (UAT) - required before product release`
-
-</details>
-
-Usability testing - appropriate for evaluative research
-
-<details><summary>Additional resources</summary> 
-	
-- Please review the [PRA primer](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/what-is-paperwork-reduction-act.md) to educate yourself on how PRA impacts the research we do as a government project. 
-- Review the [Perigean recruitment guidance](https://depo-platform-documentation.scrollhelp.site/research-design/Recruiting-Participants.1958773044.html) to understand how Perigean recruits, and what types of research they can support. 
-- If conducting testing on mobile, refer to the [mobile research guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/Conducting-Research-Sessions.1958773061.html#ConductingResearchSessions-Researchingwithmobileusers)
-- If conducting [unmoderated usability research, refer to the guidance here.](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html) 
-- If conducting [research with disabled Veterans, refer to this checklist](https://depo-platform-documentation.scrollhelp.site/research-design/research-with-assistive-technology-users) and [follow disability etiquette guidelines.](https://depo-platform-documentation.scrollhelp.site/research-design/disability-etiquette)
-- In the rare event of an emergency during research, be prepared by reviewing guidelines for [research safety and emergency exit strategies](https://depo-platform-documentation.scrollhelp.site/research-design/Research-Safety-and-Emergency-Exit-Strategies.2143649793.html).
-
-</details>
 
 ### Location
-
-Where will you be holding the research sessions? Be sure to include whether this is remote or in-person research. [Learn more about setting up in-person research.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/research/planning/planning-in-person-research.md)
-
-> [!TIP]
-> Place [X] between brackets in edit mode to leave a checkmark in the correct box.
 
 - [x] **Remote**
 - [ ] **In-person**
 
-> [!NOTE]
-> If in-person, include:
-
-- `Location:` **[Enter text]**
-- `Point of contact:` **[Enter text]**
-- `Equipment used for research:` **[Enter text]**
-
 ## Research materials 📔
-
-> [!NOTE] > **Your OCTO/VA lead must review and approve all research materials – including this plan – prior to submitting a recruitment request.**
-
-Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.
-
-**For moderated interviews:**
-
-- [Link to conversation guide](url goes here)
-
-**For moderated usability tests:**
 
 - [Link to conversation guide](url goes here): To come soon.
 - [Link to prototype 1](url goes here): To come soon.
 - [Link to prototype 2](url goes here): To come soon.
 
-**For [unmoderated testing:](https://depo-platform-documentation.scrollhelp.site/research-design/Planning-Unmoderated-Studies.1904738369.html)**
-
-- [Link to email with instructions](url goes here)
-- [Link to prototype or OptimalSort session for group A](url goes here)
-- [Link to prototype or OptimalSort session for group B](url goes here)
-
-**If recruiting outside of Perigean’s participant database:**
-
-- [Link to recruitment flyer](url goes here)
 
 ## Recruitment 🎯
 
@@ -261,13 +176,13 @@ _Who is your intended audience for this research (e.g. Veterans, caregivers, VSO
 > [!NOTE]
 > Your total number should equal **1.5x** your ideal completed sessions number _(e.g. for 10 ideal completed sessions, request 15 total participants)_
 
-Using Perigean to recruit, we would like to schedule: 24 eligible Veteran participants in two groups in order to achieve 6-8 completed sessions for each user group. Each group will provide feedback on a different prototype.
+Using Perigean to recruit, we would like to schedule: 11 eligible Veteran participants in one group in order to achieve 6-8 completed sessions. The group will provide feedback on two different prototypes.
 
-- `Veterans:` **24**
+- `Veterans:` **11**
 - `Caregivers:` **[n]**
 - `Dependents:` **[n]**
-- `Total:` **24**
-- `Ideal completed sessions:` **12 to 16, 6 to 8 for each group**
+- `Total:` **11**
+- `Ideal completed sessions:` **6 to 8**
 
 ### Primary criteria (must-haves)
 
@@ -300,12 +215,12 @@ _When will the thing you are testing be finalized? Ideally it's ready a week bef
 
 > [!NOTE] > **Send pilot participant email in study Slack channel**
 
-- `Pilot participant name:` **TBD**
+- `Pilot participant name:` **Mike Palmer**
 - `Date and time of pilot session:` **TBD**
 
 ### Research sessions
 
-- `Planned dates of research:` **09/02-09/16**
+- `Planned dates of research:` **09/08-09/17**
 
 ### Length of sessions
 
@@ -325,12 +240,16 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 >
 > **Place time slots between `hash marks` when in edit mode.**
 
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `Add more slots as needed`
+- `[9/8, Monday, 09:30 AM-11:30 AM] EST`
+- `[9/9, Tuesday, 11:00 AM-4:00 PM] EST`
+- `[9/10, Wednesday, 09:00 AM-1:30 PM] EST`
+- `[9/11, Thursday, 09:00 AM-11:00 AM] EST`
+- `[9/11, Thursday, 12:30 PM-2:00 PM] EST`
+- `[9/11, Thursday, 3:00 PM-5:00 PM] EST`
+- `[9/12, Friday, 9:00 AM-2:00 PM] EST`
+- `[9/15, Monday, 10:00 AM-12:00 PM] EST`
+- `[9/16, Tuesday, 11:00 AM-3:00 PM] EST`
+- `[9/17, Wednesday, 09:00 AM-3:00 PM] EST`
 
 ## Team Roles 🕵️👩‍💻👩‍🔬
 

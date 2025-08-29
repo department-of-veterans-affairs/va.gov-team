@@ -39,9 +39,9 @@ Monitors for each product are described within product folders. e.g.
 | [Campaign Landing Pages](#campaign-landing-pages-clp) | [Income limits web application](#income-limits-web-application) | [Downtime messaging](#downtime-messaging) |
 | [Events](#events) | [Sitewide Content Redirects](#sitewide-content-redirects) | [Harassment Reporting Tool](#harassment-reporting-tool) |
 | [FAQ Page](#faq-page) | [PACT Act Wizard](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/pact-act-wizard) | [“How to apply” wizards](#how-to-apply--benefit-wizards)  |
-| [Find a form / VA Forms (+ Forms DB import)](#find-a-form--va-forms) | [On-site search (using search.gov)](#on-site-search-using-searchgov) | [React widgets use within CMS](#react-widgets-use-within-cms) |
-| [Full-width Alert](#full-width-alert) | [Translation React widgets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/README.md#translation-react-widgets)  | [BTSSS react widget](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/travel-reimbursement-btsss) |
-| [VA.gov Homepage](#vagov-homepage) | [Sitewide Widgets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/sitewide-widgets.md) | [Promo Banner](#promo-banner) | 
+| [Find a form / VA Forms (+ Forms DB import)](#find-a-form--va-forms) | [Translation React widgets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/README.md#translation-react-widgets) | [React widgets use within CMS](#react-widgets-use-within-cms) |
+| [Full-width Alert](#full-width-alert) |[Translation React widgets](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/public-websites/README.md#translation-react-widgets)  | [BTSSS react widget](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/travel-reimbursement-btsss) |
+| [VA.gov Homepage](#vagov-homepage) | . | [Promo Banner](#promo-banner) | 
 | [Outreach Materials Library (Publication listing & page)](#outreach-materials-library-publication-listing-page--publications) | . | . |
 | [Resources & Support](#resources-and-support) |  . | . |
 | [Reusable Q&A](#reusable-qa) | . | .  |
@@ -57,8 +57,6 @@ The Public Websites team also supports most of the portfolio of the previous Dec
 ### P1 Products
 - [ ] VA.gov homepage
 - [ ] Header / footer injection - https://benefits.va.gov
-- [ ] Search / results form in header
-- [ ] Search results page - https://www.va.gov/search/?query=benefits&t=false
 - [ ] Find a Form - https://www.va.gov/find-forms/
 - [ ] Form detail page - e.g. https://www.va.gov/find-forms/about-form-21p-534/
 - [ ] Breadcrumbs on PW products
@@ -93,6 +91,7 @@ The Public Websites team also supports most of the portfolio of the previous Dec
 </details>
 
 ## Changelog
+* 8/15/2025: Responsibility for On-site search is moving to the Faceted Search team
 * 5/15/2025: The Promo banner has been deprecated from the design system because of accessibility defects and low use: see [#4142](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/4142)
 * 1/14/2025: Identity team now owns the central vets-website cta-widget application. The MHV Cartography team may have a stake in the content / behavior of the  6 CTA widget invocations that are present on VAMC pages.
 * 09/23/2024: Design System Team now owns the global Header and footer markup: https://dsva.slack.com/archives/C52CL1PKQ/p1727120068414909

@@ -1,8 +1,97 @@
-# 2025 Sprint Planning for 10-10EZ, 10-10CG and 10-10EZR
+ # 2025 Sprint Planning for 10-10EZ, 10-10CG and 10-10EZR
 - Current Sprint first
 
+
 ---
-## 📆 Sprint 27 (Aug 13 - Aug 26)
+## 📆 Sprint 2 (Aug 27 - Sept 9)
+- [ ] 🎉 or 🧱 **Sprint Goals completed** 
+
+### Team initiative (not form-specific)
+#### Obj: Knowledge sharing
+- Over the next several sprints, the team will need to share knowledge between our 10-10 forms, and then with the IVC team on their forms.
+     - Some of our teammates have started to do this, and we will continue throughout the contract to ensure a fairly even level of knowledge and comfort across all forms.
+
+##
+### 10-10EZ
+
+#### Obj: EZ [Improvements/BUGS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
+- [ ] **SPRINT GOAL** [#114338](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114338) - [BE] Investigate in-progress emails being sent when application has been submitted
+- [ ] **SPRINT GOAL** [#117230](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117230) - [Design, FE] Update destructive modal content
+
+#### Obj: EZ [Insurance page updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90159)
+- [ ] **SPRINT GOAL** [#94500](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94500) - [QA] Follow-up to complete testing on L&L pattern
+
+#### Obj: EZ [PDF Versioning](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
+- [x] **Stretch** [#117843](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117843) - [QA, BE] Validate PDF versioning update trigger
+
+
+
+## 
+### 10-10CG
+
+#### Obj: CG [Improvements/BUGs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40165)
+- [x] **SPRINT GOAL** [#117879](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117879) - [BE] Testing support for MuleSoft runtime version upgrade (08/28/2025)
+
+
+
+## 
+### 10-10EZR
+#### Obj: EZR [EC/NOK](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75046)
+- [ ] **SPRINT GOAL** [#108518](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108518) - [Team] Phased launch
+
+#### Obj: EZR [Household section V2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98353)
+- **Timeline**
+     - QA remaining sections (Sprint 2)
+     - Review with team to determine release cadence to Prod (Sprint 3)
+- [ ] **SPRINT GOAL** [#105901](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105901) - [QA] Test Spouse section
+- [ ] **SPRINT GOAL** [#112998](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112998) - [FE] Prefill Spouse information (Pending QA before merging)
+
+#### Obj: EZR [Print/Save PDF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109746)
+- **Timeline**
+     - QA PDF generation, including overflow page (Sprint 2)
+     - Review with the team to confirm release to Prod (Sprint 3)
+- [ ] **SPRINT GOAL** [#109905](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109905) - [QA] PDF generation testing
+
+#### Obj: EZR Household Confirmation flow
+- [ ] **Stretch** [#117847](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117847) - [Design, FE] Date of Marriage for Spouse card
+
+#### Obj: EZR [Improvements](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109435)
+- [ ] **SPRINT GOAL** [#117486](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117486) - [BE] Audit BE logs to move from Sentry to Datadog
+- [x] **SPRINT GOAL** [#117590](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117590) - [Design, FE] Update SIP message on Intro screen
+- [ ] **Stretch** [#116521](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116521) - [Research] Dental info content research (CARRIED)
+
+#### Obj: EZR [Veteran Info Confirmation flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/104124)
+- [ ] **SPRINT GOAL** [#117878](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117878) - [Design] Review existing designs to confirm direction
+
+
+##
+### All Forms
+#### Obj: [Shared Improvements](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116451)
+- [ ] **SPRINT GOAL** [#117351](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117351) - [UX] Product Mapping (CARRIED)
+
+
+##
+### IVC
+#### Obj: [RUM Dashboards](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98945)
+- [ ] **Stretch** [#115604](https://github.com/department-of-veterans-affairs/va.gov-team/issues/115604) - [Eng] 10-10d CHAMPVA - Hide PII in RUM dashboard
+- [ ] **Stretch** [#116731](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116731) - [Eng] 10-7959c OHI - Hide PII in RUM dashboard
+- [ ] **Stretch** [#116567](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116567) - [Eng] 10-7959a CHAMPVA Claims - Hide PII in RUM dashboard
+- [ ] **Stretch** [#116734](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116734) - [Eng] 10-7959f-1 FMP - Hide PII in RUM dashboard
+
+
+##
+### Team PTO
+- Labor Day holiday: 9/1
+- Matt: Half-day 8/29
+- Mitch: 9/2
+- Heather: 9/8
+
+
+
+---
+
+## 📆 Sprint 1 (Aug 13 - Aug 26)
+- [x] 🎉 **Sprint Goals completed** 
 
 ### Team initiative (not form-specific)
 #### Obj: Knowledge sharing
@@ -13,13 +102,13 @@
 ### 10-10EZ
 
 #### Obj: EZ [Save in-progress for List & Loop](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94818)
-- [#116030](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116030)- [FE] Array Building update Remove Item action to call autoSave (CARRIED)
+- [x] **SPRINT GOAL** [#116030](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116030)- [FE] Array Building update Remove Item action to call autoSave (CARRIED)
 
 #### Obj: [Insurance page updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90159)
-- [#94500](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94500) - [QA] Follow-up to complete testing on L&L pattern (CARRIED)
+- [ ] **Stretch** [#94500](https://github.com/department-of-veterans-affairs/va.gov-team/issues/94500) - [QA] Follow-up to complete testing on L&L pattern
 
 #### Obj: EZ [PDF Versioning](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
-- **Stretch** [#102906](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102906) - [BE] Exploration on PDF versioning update trigger
+- [ ] **Stretch** [#102906](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102906) - [BE] Exploration on PDF versioning update trigger
 
 ## 
 ### 10-10CG
@@ -30,12 +119,8 @@
 ## 
 ### 10-10EZR
 
-
-
 #### Obj: [EC/NOK](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75046)
-- [#116623](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116623) - [Team] Complete UAT with volunteers
-- [#108518](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108518) - [Eng, PM] Phased Release
-
+- [x] **Stretch** [#116623](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116623) - [Team] Complete UAT with volunteers
 
 #### Obj: [Household section V2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98353)
 - **Timeline**
@@ -47,12 +132,12 @@
      - QA Financial section
      - QA all sections together
      - Review with team to determine release cadence to Prod
-- [#105896](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105896) - [QA] Test Dependents section
-- [#93836](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93836) - [BE] Financial section - Validation error
-- [#105901](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105901) - [QA] Test Spouse section
-- [#112998](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112998) - [FE] Prefill Spouse information (Pending QA before merging)
-- [#105904](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105904) - [QA] Test Financial section
-- **Stretch** [#68669](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68669) - [Design, FE] Content update on Insurance page
+- [x] **SPRINT GOAL** [#105896](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105896) - [QA] Test Dependents section
+- [x] **SPRINT GOAL** [#93836](https://github.com/department-of-veterans-affairs/va.gov-team/issues/93836) - [BE] Financial section - Validation error
+- [ ] **Stretch** [#105901](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105901) - [QA] Test Spouse section
+- [ ] **Stretch** [#112998](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112998) - [FE] Prefill Spouse information (Pending QA before merging)
+- [x] **Stretch** [#105904](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105904) - [QA] Test Financial section
+- [ ] **Stretch** [#68669](https://github.com/department-of-veterans-affairs/va.gov-team/issues/68669) - [Design, FE] Content update on Insurance page
 
 
 #### Obj: [Print/Save PDF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109746)
@@ -61,16 +146,16 @@
      - Complete mapping of overflow page
      - QA PDF generation, including overflow page
      - Review with the team to confirm release to Prod
-- [#109897](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109897) - [BE] Map remaining fields and generate PDF
-- [#109899](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109899) - [BE] Map additional Dependents fields on overflow page
-- [#109900](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109900) - [BE] Map additional Dependents Income fields on overflow page
-- [#109901](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109901) - [BE] Map additional Insurance fields on overflow page
+- [x] **SPRINT GOAL** [#109897](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109897) - [BE] Map remaining fields and generate PDF
+- [x] **SPRINT GOAL** [#109899](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109899) - [BE] Map additional Dependents fields on overflow page
+- [x] **SPRINT GOAL** [#109900](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109900) - [BE] Map additional Dependents Income fields on overflow page
+- [x] **SPRINT GOAL** [#109901](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109901) - [BE] Map additional Insurance fields on overflow page
 
 #### Obj: Confirmation flow
-- [#112224](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112224) - [Research] Draft summary of findings/Readout (CARRIED)
+- [x] **SPRINT GOAL** [#112224](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112224) - [Research] Draft summary of findings/Readout (CARRIED)
 
 #### Obj: [Improvements](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109435)
-- **Stretch** [#116521](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116521) - [Research] Dental info content research
+- [ ] **Stretch** [#116521](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116521) - [Research] Dental info content research
 
 ##
 ### Team PTO

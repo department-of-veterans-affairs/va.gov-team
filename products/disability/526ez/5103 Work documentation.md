@@ -23,7 +23,7 @@ ________________________________________________________________________________
 
 **5/30/24**
 [VBA Sync meeting
-](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/disability-experience/team-meetings/VBA-syncs.md)
+](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/benefits-portfolio/disability-experience/team-meetings/VBA-syncs.md)
 
 5103 Claim Certification
 - We want to try revising some of the claim certification piece to put it into more plain language. Is there a team within VBA (Office of policy of oversight?) that we could work with on approving this?

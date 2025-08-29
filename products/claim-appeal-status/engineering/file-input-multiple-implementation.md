@@ -95,6 +95,9 @@ As a user,
 1. If I add files with password and doc type in the "Request for evidence" flow all 3 pieces of data along with the tracked item id (which is found in the url) should be submitted for each file (each file has its own request)
 1. If I change an encrypted PDF file to a non-encrypted file, the password from the encrypted file should not be submitted with the non-encrypted file
 
-## User Stories Not Yet Covered (Add Github issue)
+## Not Yet Covered by Implementation
+Include Github Issue that would add it
 1. If I submit the same file 2 times in the same Multiple File Input, I get an error message before being able to submit. - [CST] [BUG] Inconsistent duplicate file name validation between simultaneous and sequential uploads [#115523](https://github.com/department-of-veterans-affairs/va.gov-team/issues/115523)
-2. If I submit files A and B and A has already been successfully submitted previously, I get an error message for A saying that it has already been successfully submitted and I get a success message for B. Both are removed from the files listed in the multiple file input. Documents with wrong PDF passwords should remain. - [CST] [BUG] Duplicate Error Alert is Suppressing Success Alert [#115934](https://github.com/department-of-veterans-affairs/va.gov-team/issues/115934)
+1. If I submit files A and B and A has already been successfully submitted previously, I get an error message for A saying that it has already been successfully submitted and I get a success message for B. Both are removed from the files listed in the multiple file input. Documents with wrong PDF passwords should remain. - [CST] [BUG] Duplicate Error Alert is Suppressing Success Alert [#115934](https://github.com/department-of-veterans-affairs/va.gov-team/issues/115934)
+1. If I submit a file, I expect the file to be shown at the top of the Documents Filed section
+2. If I submit a file, I expect the file to be shown with the correct date it was filed

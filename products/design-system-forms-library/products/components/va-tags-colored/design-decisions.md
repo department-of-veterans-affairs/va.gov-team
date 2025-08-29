@@ -3,6 +3,8 @@ Last updated: 2025-05-08
 
 - [ADR: 001 - Define the meaning for colored tags](#ADR-001---Define-the-meaning-for-colored-tags)
 - [ADR: 002 - Tag styles](#ADR-002---Tag-styles)
+- [ADR: 003 - Accessibile Colors](#ADR-003---Accessible-Colors)
+- [ADR: 004 - Uppercase text](#ADR-004---Uppercase-text)
 
 ## ADR: 001 - Define the meaning for colored tags
 
@@ -51,11 +53,60 @@ Tags can come in a variety of styles and we needed to finalize a final design fo
 1. **Experimental design:** The original experimental design submitted has a variety of color options and a border around the tags. The tags are slightly bigger than the original USWDS/VADS tags. The alert tag versions included a icon that matches the icons used for the alerts.
 2. **Mobile design:** The mobile design uses the same colors as the alert backgrounds and has a large border radius with a border.
 
-## Decision
+### Decision
 1. **Colors:** The tag color options will match semantic color meanings with alerts decided in ADR 001.
 2. **Spacing and size:** The size and the spacing of the tags will remain the same as the current tag already added in the VADS.
-3. **Border:** Both the mobile and the experimental design included borders with the design but looking that the mockups with the tags used with the tags, we decided that the border makes the tags look more like buttons. So to avoid any confusion with buttons we will be removing the border.
+~~3. **Border:** Both the mobile and the experimental design included borders with the design but looking that the mockups with the tags used with the tags, we decided that the border makes the tags look more like buttons. So to avoid any confusion with buttons we will be removing the border.~~
 4. **Icon:** To make the tags accessible we need to make sure that color is not the only way that the tag is conveying the status. We will include the same icon that is used in the alert to convey the meaning the of the tag beyond color.
 
 ### Consequences
 Currently, we only have a single tag color. Going forward we will have a variety of options for teams to choose depending on the status of the tag. It is challenging to forsee the different ways the tags will be used. This could have consequences if the colored tags options are used in ways we did not account for. 
+
+
+## ADR: 003 - Accessible Colors
+
+### Status: Pending
+
+- Date Raised: 2025-05-25
+- Decision Date: 
+
+### Context
+The tag background must meet 3:1 color contrast against the page background
+
+**Reasoning:** 
+- The colored background of the tag carries semantic meaning (warning, error, success) and is not decorative, so it functions as a “graphical object” under WCAG. 
+- [WCAG 1.4.11 (non-text contrast)](https://www.w3.org/TR/WCAG21/#non-text-contrast) sets a minimum 3:1 contrast between any meaningful graphical element and its adjacent background so that users with low vision can reliably perceive the shape and color cue. 
+- [USWDS also recommends 3:1 contrast on tags](https://designsystem.digital.gov/components/tag/accessibility-tests/)
+
+### Decision
+- The team recommends adding the border to the tag. This marks a 3:1 ratio contrast. The other option is to use a solid color that creates the 3:1 ratio.
+
+### Consequences
+It may make the tags look like buttons. Usability testing would help us understand if users think these are buttons.
+
+## ADR: 004 - Uppercase text
+
+### Status: Pending
+
+- Date Raised: 2025-05-25
+- Decision Date: 
+
+### Context
+During the [tag usage audit](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1755032896804/d24a5a32988c08139ddf73a67e589c7fa9e9f22d?wid=0-1755893916029), we identified teams using tags with sentence case instead of the standard uppercase format. Teams cited improved readability and accessibility as their primary motivations for this deviation. We evaluated the pros and cons of uppercase text vs. sentence case for tags. 
+
+Tags with uppercase is a **good choice** for:
+- Visually distinguishing tags from buttons
+- Drawing attention to the tag to make them more noticeable and easily scannable
+
+Tags with uppercase is **not a good choice** for:
+- Long strings of text because it reduces readability and can harm accessibility
+- When the tone should be conversational or friendly
+
+### Decision
+**Recommendation:** Maintain alignment with [USWDS tag component](https://designsystem.digital.gov/components/tag/) standards by continuing to use uppercase text for tags.
+
+**Rationale:** This approach preserves design system consistency and alignment with the USWDS tag component while leveraging the functional benefits of uppercase formatting for short-form, categorical content.  
+
+### Consequences
+- Current tag implementation may not accommodate all existing use cases optimally
+- Some teams may need to evaluate whether tags are the appropriate component for their specific content needs

@@ -32,13 +32,13 @@ assignees: artsymartha68, lakper, sara-amanda
 - `PLACEHOLDER TEXT for your desired outcomes`
   
 ## Collaborate with ADE
-[**Review our menu of services**,](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/readme.md#services-we-offer) and check all the types of collaboration you're requesting, below:
+[**Review our menu of services**,](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/readme.md#services-we-offer) and check all the types of collaboration you're requesting, below:
 
 ### How would you like to collaborate with ADE?
 - [ ] Research support [(if yes, please open an additional research ticket)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/ade-accessibility-research.yaml)
     - [ ] Discuss research plan / conversation guide / recruitment of AT users
     - [ ] Advise on accessible prototypes
-    - [ ] Schedule a [pilot session](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/assistive-tech-pilot-guide.md) with an ADE Accessibility Specialist
+    - [ ] Schedule a [pilot session](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/assistive-tech-pilot-guide.md) with an ADE Accessibility Specialist
     - [ ] Schedule technical support during AT research sessions
     - [ ] Document accessibility-related issues during AT research sessions
     - [ ] Conduct research for your team

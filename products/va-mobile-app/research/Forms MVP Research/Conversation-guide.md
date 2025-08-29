@@ -54,7 +54,7 @@ Today we're going to talk about filling out forms from the VA mobile app. I'm go
 
 Before we start, I want to go over a few things:
 
-- **This entire session may take 60 minutes.** I want to be sure not to keep you longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session may take 120 minutes.** I want to be sure not to keep you longer, so I may occasionally prompt you with the next question or topic.
   
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. We're testing an app to learn how we can make it easier to use. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
 - **Your participation in this interview is completely voluntary.** Whether or not you choose to participate will not affect your benefits with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Just let me know.
@@ -97,10 +97,6 @@ Let’s start with a few questions...
 3. What operating system is on your device? *(iOS / Android / _______)*
 
 4. What is the default web browser set up on your device? *(Chrome / Firefox / Edge / Safari / _______)*
-
-4. I will be sharing a link with you during the session that will take you to the testing app. How would you prefer to receive the URL? I could dictate it to you, put it in the Zoom chat, or email it to you. 
-
-   - *(If text or email)* Could the notetaker please text/email the link now? (include link here)
 
 5. Have you ever filled out a VA form online before? 
    - If so, can you tell me about your most recent experience? How did it go?

@@ -1,3 +1,6 @@
+> [!CAUTION]
+> This page is now stored in the [Community care direct scheduling initiative folder](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/initiatives/community-care-direct-scheduling/discovery/referrals%20list%20expansion/Referrals%20list%20questions.md). This page is no longer being updated.
+
 # Expanding community care and VA referrals list to display all referrals
 
 ## Context

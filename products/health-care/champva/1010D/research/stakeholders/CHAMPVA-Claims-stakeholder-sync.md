@@ -1,6 +1,39 @@
 ## CHAMPVA Claims biweekly stakeholder sync
 Every other Wednesday at 2:35pm ET
 
+### 08/20/25
+
+**Attendees:** Joie, Cindy, Andrea, Renata, Jamie, Rachel, Katrina, Elizbeth S., Dawn H, Angela P, Karl H, Eileen C, Mike M, Christine M, Angela C, Melissa J 
+
+**Agenda**
+- Should we continue to cap health insurance policies at 2?
+- EOB denial codes
+- Testing resubmissions in staging
+
+**Notes**
+
+- Should we continue to cap health insurance policies at 2?
+  - Renata showed the current insurance loop Figma which only allows users the add up to 2 insurance policies per applicant on the current claims form (in production)
+  - **DECISION:** Elizabeth S agreed that we should let users add however many insurance policies they may have
+- EOB denial codes
+  - IVC wants to utilize the codes on this page to help users self-service their EOB denial reasons rather than calling the call center for this information.
+  - **DECISION:** Don't use these - Joie explained that the link is for the older system and would not be helpful for benes to figure out the reseason for denial
+  - This page will have to be edited for accuracy or taken down 
+  - **Action Item**: Katrina offered to share denial codes with IVC to help benes self-service. It may take some time to get the team these codes though. 
+- Testing resubmissions in staging
+  - IVC reminded the partners to go through the claims resubmissions flow (shared link in the chat).
+  - Andrea mentioned this is not the final version. LLM functionality is still a WIP so it may not work as expected.
+  - There are still updates needed and may incorporate findings into the initial launch. 
+
+IVC plans to communicate research findings more often with the team in the future. 
+
+**Decisions:** 
+- Health Insurance policies in ChampVA Claims: Remove the cap of two health insurance policies, allow users to add more as needed
+- EOB Codes: Don't use the EOB codes from the link Renata shared in the chat, those are from a legacy system
+
+**Action Items:**
+- Katrina will share denial codes with Va.gov team to help benes self-service (this request will take a bit of time to follow through on though)
+
 ### 06/23/25
 
 **Attendees:** Angela P., Arleen, Joie, Cindy, Melissa Premal, Andrea, Renata, Jamie, Rachel 
