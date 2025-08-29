@@ -11,7 +11,7 @@
    - [Medallia intercept survey](#user-content-medallia-intercept-survey---quantitative)
    - [My VA411 call data](#user-content-myVA411-call-data)
    - [Comparisons](#user-content-comparisons)
-   - [Themes](#user-content-Themes-from-qualitative-data)
+   - [Themes](#user-content-themes-from-qualitative-data)
 - [Recommendations](#user-content-recommendations)
 - [Survey quotes](#user-content-survey-quotes)
 
