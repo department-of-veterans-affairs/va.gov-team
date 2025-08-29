@@ -91,7 +91,7 @@ Source: [Amy Grace Wells, July 2025](https://dsva.slack.com/archives/C07RB9N9M6J
 <details>
 <summary>What is RBPS' processing volume?</summary>
 
-  - RBPS production processes every 30 mins at the top/bottom of the hour. 4 servers, 50 claims per server = 200 claims every 30 mins. VA.gov sends 60-ish 686 or 674 claims to RBPS per hour, but it's unknown how many paper claims RBPS may process.
+  - RBPS production processes every 30 mins at the top/bottom of the hour. 4 servers, 50 claims per server = 200 claims every 30 mins. Even if those 200 claims take 15 minutes to run RBPS cannot then run more claims in the remaining 45 minutes. VA.gov sends 60-ish 686 or 674 claims to RBPS per hour, but it's unknown how many paper claims RBPS may process.
 
   Source: Linda Ciston, 2024
 </details>
