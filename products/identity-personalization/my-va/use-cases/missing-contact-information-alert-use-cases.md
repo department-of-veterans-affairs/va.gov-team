@@ -10,7 +10,7 @@ Included in this section are descriptions of use cases for the missing contact i
 - [Common use cases for Missing contact info: Summary page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/missing-contact-information-alert-use-cases.md#common-use-cases-for-missing-contact-info-summary-page)
 - [Common use cases for Modified Edit-as-a-subtask: Add mobile phone number](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/missing-contact-information-alert-use-cases.md#common-use-cases-for-modified-edit-as-a-subtask-add-mobile-phone-number) 
 - [Common use cases for Modified Edit-as-a-subtask: Add contact email address](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/missing-contact-information-alert-use-cases.md#common-use-cases-for-modified-edit-as-a-subtask-add-contact-email-address) 
-- [Common use cases for Modified Edit-as-a-subtask: Add mailing address]()
+- [Common use cases for Modified Edit-as-a-subtask: Add mailing address](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/missing-contact-information-alert-use-cases.md#common-use-cases-for-modified-edit-as-a-subtask-add-mailing-address)
 - [Common use cases for Modified Edit-as-a-subtask: Contact information update confirmation page]()
 
 ## Common use cases for My VA: Missing contact information alert
