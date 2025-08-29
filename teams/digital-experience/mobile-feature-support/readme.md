@@ -10,7 +10,7 @@
 - **Short Name:** [team-slug-name] _(Used for directory URLs and should ideally match your GitHub team name below)_
 - **GitHub Team Name:** [github-team-name] _(Exact name of GitHub team which is also found in your GitHub team link below)_
 - **GitHub Team Labels:**
-  - [github-label-1]
+  - team-MFS
   - [github-label-2]
 - **GitHub Team Link:** [https://github.com/orgs/department-of-veterans-affairs/teams/github-team-name]
 - **Slack Channel:** [#channel-name](https://dsva.slack.com/channels/channel-name)

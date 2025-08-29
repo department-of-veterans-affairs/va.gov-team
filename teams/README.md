@@ -52,11 +52,14 @@ There is also a current list of [crews and pods](crews-and-pods.md).
 #### Core Veteran Experiences
 
 - [Authenticated Experience](digital-experience/authenticated-experience/README.md)
+  - [Current Collab Cycle work](https://github.com/orgs/department-of-veterans-affairs/projects/998/views/15?filterQuery=label%3A%22authenticated-experience%22+status%3A%22In+Progress%22)
 - [Digital Notifications](digital-experience/digital-notifications/README.md)
 - [Financial Management](digital-experience/financial-management/README.md)
 - [Iterate, Innovate, and Run](digital-experience/iterate-innovate-and-run/README.md)
+  - [Current Collab Cycle work](https://github.com/orgs/department-of-veterans-affairs/projects/998/views/15?filterQuery=label%3A%22va-iir%22+status%3A%22In+Progress%22)
 - [Mobile App and Platform](digital-experience/mobile-app-and-platform/README.md)
 - [Mobile Feature Support](digital-experience/mobile-feature-support/README.md)
+  - [Current Collab Cycle work](https://github.com/orgs/department-of-veterans-affairs/projects/998/views/15?filterQuery=label%3A%22team-MFS%22+status%3A%22In+Progress%22)
 - [Veteran Support](digital-experience/veteran-support/README.md)
 
 #### Identity
@@ -68,6 +71,7 @@ There is also a current list of [crews and pods](crews-and-pods.md).
 - [ADE](digital-experience/ADE/README.md)
 - [Analytics and Insights](digital-experience/analytics-and-insights/README.md)
 - [Design & Forms Systems](digital-experience/design-forms-systems/README.md)
+  - [Current Collab Cycle work](https://github.com/orgs/department-of-veterans-affairs/projects/998/views/15?filterQuery=label%3A%22platform-design-system-team%22+status%3A%22In+Progress%22)
 - [Governance](digital-experience/governance/README.md)
 - [Platform Support](digital-experience/platform-support/README.md)
 
@@ -92,18 +96,23 @@ There is also a current list of [crews and pods](crews-and-pods.md).
 - [Benefits Management Tools 2](benefits-portfolio/benefits-management-tools-2/README.md)
 - [Benefits Management Tools 3](benefits-portfolio/benefits-management-tools-3/README.md)
 - [Decision Reviews](benefits-portfolio/decision-reviews/README.md)
+  - [Current Collab Cycle work](https://github.com/orgs/department-of-veterans-affairs/projects/998/views/15?filterQuery=label%3A%22Decision-Reviews-Team%22+status%3A%22In+Progress%22)
 - [Dependents Management](benefits-portfolio/dependents-management/README.md)
+  - [Current Collab Cycle work](https://github.com/orgs/department-of-veterans-affairs/projects/998/views/15?filterQuery=label%3A%22dependents-benefits%22+status%3A%22In+Progress%22)
 - [Employee Experience](benefits-portfolio/employee-experience/README.md)
+  - [Current Collab Cycle work](https://github.com/orgs/department-of-veterans-affairs/projects/998/views/15?filterQuery=label%3A%22Employee+Experience%22+status%3A%22In+Progress%22)
 
 #### Disability Benefits Crew
 
 - [Conditions](benefits-portfolio/conditions/README.md)
 - [Disability Benefits 1](benefits-portfolio/disability-benefits-1/README.md)
+  - [Current Collab Cycle work](https://github.com/orgs/department-of-veterans-affairs/projects/998/views/15?filterQuery=label%3A%22disability-benefits%22+status%3A%22In+Progress%22)
 - [Disability Benefits 2](benefits-portfolio/disability-benefits-2/README.md)
 
 #### Lifestage Benefits Crew
 
 - [Pension Benefits 1](benefits-portfolio/pension-benefits-1/README.md)
+  - [Current Collab Cycle work](https://github.com/orgs/department-of-veterans-affairs/projects/998/views/15?filterQuery=label%3A%22benefits-pension%22+status%3A%22In+Progress%22)
 - [Pension Benefits 2](benefits-portfolio/pension-benefits-2/README.md)
 
 ### Health Portfolio
@@ -111,7 +120,9 @@ There is also a current list of [crews and pods](crews-and-pods.md).
 #### MHV on VA.gov Patient Portal
 
 - [Horizon](health-portfolio/horizon/README.md)
+  - [Current Collab Cycle work](https://github.com/orgs/department-of-veterans-affairs/projects/998/views/15?filterQuery=label%3A%22mhv-horizon%22+status%3A%22In+Progress%22)
 - [Medical Records](health-portfolio/medical-records/README.md)
+  - [Current Collab Cycle work](https://github.com/orgs/department-of-veterans-affairs/projects/998/views/15?filterQuery=label%3A%22TEAM-mhv-medical-records%22+status%3A%22In+Progress%22)
 - [Medications, Medical Devices and Supplies](health-portfolio/medications-medical-devices-supplies/README.md)
 - [Messaging](health-portfolio/messaging/README.md)
 
@@ -120,6 +131,7 @@ There is also a current list of [crews and pods](crews-and-pods.md).
 - [Hydra](health-portfolio/hydra/README.md)
 - [Orion](health-portfolio/orion/README.md)
 - [Ursa Minor](health-portfolio/ursa-minor/README.md)
+  - [Current Collab Cycle work](https://github.com/orgs/department-of-veterans-affairs/projects/998/views/15?filterQuery=label%3A%22appointments%22+status%3A%22In+Progress%22)
 
 #### Unknown Crew
 
@@ -130,7 +142,9 @@ There is also a current list of [crews and pods](crews-and-pods.md).
 #### Education
 
 - [Education Benefits Tools](bam-portfolio/education-benefits-tools/README.md)
+  - [Current Collab Cycle work](https://github.com/orgs/department-of-veterans-affairs/projects/998/views/15?filterQuery=label%3A%22gi-comparison-tool%22+status%3A%22In+Progress%22)
 
 #### Memorials
 
 - [Memorials Self-Service](bam-portfolio/memorials-self-service/README.md)
+  - [Current Collab Cycle work](https://github.com/orgs/department-of-veterans-affairs/projects/998/views/15?filterQuery=label%3A%22bah-mbs-selfserv%22+status%3A%22In+Progress%22)
