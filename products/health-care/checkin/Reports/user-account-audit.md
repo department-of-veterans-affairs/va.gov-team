@@ -93,7 +93,7 @@ Access is provided via elevated access with a Non-mail Enabled Account (NMEA) an
 No changes were deemed necessary during the scope of this audit.
 
 ## Veterans-affairs PagerDuty (not within ATO boundry)
-https://veterans-affairs.pagerduty.com/
+https://ecc.pagerduty.com/
 
 ### Managed by:
  OCTO PO via DOTS request
@@ -112,7 +112,7 @@ https://veterans-affairs.pagerduty.com/
 No changes were deemed necessary during the scope of this audit.
 
 ## DVSA PagerDuty (not within ATO boundry)
-https://dsva.pagerduty.com/
+https://ecc.pagerduty.com/
 
 ### Managed by:
 va.gov platform (VSP)

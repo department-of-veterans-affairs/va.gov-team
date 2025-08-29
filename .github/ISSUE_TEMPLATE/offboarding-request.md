@@ -51,7 +51,7 @@ _The following steps are performed by the **Platform Support Tier 1** team. Deta
 - [ ] Remove from [Platform Atlas](https://www.va.gov/atlas/product_directory/team_members) (if applicable)
 - [ ] User removed from the VA GitHub Org (if applicable. Check [department-of-veterans-affairs/people](https://github.com/orgs/department-of-veterans-affairs/people))
    > Fill out request found [here](https://github.com/department-of-veterans-affairs/github-user-requests/issues/new?assignees=&labels=remove-user&template=user-remove.yml&title=Remove+User+from+Org%3A+%5Busername%5D).
-- [ ] Pagerduty access removed (if applicable. Check [pd users](https://dsva.pagerduty.com/users-new))
+- [ ] Pagerduty access removed (if applicable. Check [pd users](https://ecc.pagerduty.com/users-new))
 - [ ] Sentry access removed (if applicable. Check [Sentry members](http://sentry.vfs.va.gov/settings/vsp/members/))
 - [ ] TestRail access removed (if applicable, Check [TestRail User List](https://dsvavsp.testrail.io/index.php?/admin/users/overview))
 - [ ] [Okta account](https://vfs.atlassian.net/wiki/spaces/OT/pages/2532508159/Offboarding+users+from+Okta) disabled

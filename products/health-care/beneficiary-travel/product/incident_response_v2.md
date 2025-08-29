@@ -111,7 +111,7 @@ be proactive in noticing and fixing production issues, we adhere to the followin
    5. Kicks off the Escalation process.
 
 ### Management
-- Schedule: The on-call schedule and rotation is managed in [PagerDuty](https://dsva.pagerduty.com/service-directory/PO9X8XN).
+- Schedule: The on-call schedule and rotation is managed in [PagerDuty](https://ecc.pagerduty.com/service-directory/PO9X8XN).
 - Alerting: Alerts are sent via Slack, text, and phone call.
 - Acknowledgement: The on-call engineer must acknowledge the alert within the configured timeframe.
 - Hand-off: If an incident cannot be resolved by the on-call engineer alone, they should follow the escalation process to involve additional team members.
