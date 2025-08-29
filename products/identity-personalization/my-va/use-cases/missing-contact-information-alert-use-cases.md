@@ -11,7 +11,7 @@ Included in this section are descriptions of use cases for the missing contact i
 - [Common use cases for Modified Edit-as-a-subtask: Add mobile phone number](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/missing-contact-information-alert-use-cases.md#common-use-cases-for-modified-edit-as-a-subtask-add-mobile-phone-number) 
 - [Common use cases for Modified Edit-as-a-subtask: Add contact email address](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/missing-contact-information-alert-use-cases.md#common-use-cases-for-modified-edit-as-a-subtask-add-contact-email-address) 
 - [Common use cases for Modified Edit-as-a-subtask: Add mailing address](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/missing-contact-information-alert-use-cases.md#common-use-cases-for-modified-edit-as-a-subtask-add-mailing-address)
-- [Common use cases for Modified Edit-as-a-subtask: Contact information update confirmation page]()
+- [Common use cases for Modified Edit-as-a-subtask: Contact information update success page]()
 
 ## Common use cases for My VA: Missing contact information alert
 ### User logs in with LOA3 account
@@ -333,7 +333,7 @@ Unknown, this flow was built using a pre-existing form flow and the system error
 
 </details>
 
-## Common use cases for Modified Edit-as-a-subtask: Contact information update confirmation page
+## Common use cases for Modified Edit-as-a-subtask: Contact information update success page
 ### User logs in with LOA3 account and completes the modified Edit-as-a-subtask flow
 #### Confirmation of success mobile phone, contact email, and mailing address.
      
