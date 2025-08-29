@@ -34,7 +34,113 @@
    - Testing the content on the Notification Settings page to make sure it doesn't include Paperless Delivery settings with the feature toggle off and then on
 
 ### Test Plan
-- TBD
+All of these test cases require that the user is signed in and has LOA3 access.
+#### Navigate from profile homepage
+  - As a Veteran, I want to view my paperless delivery settings, so that I can view my options.
+
+  - Preconditions
+    - User has navigated to `va.gov/profile`
+
+  - Acceptance Criteria
+    - Given I’m on the profile page
+    - When I click the `Update paperless delivery settings` link under communication settings
+    - Then I am navigated to the paperless delivery page
+
+#### Navigate using side navigation
+  - As a Veteran, I want to view my paperless delivery settings, so that I can view my options.
+
+  - Preconditions
+    - User has navigated to `va.gov/profile/personal-information`
+
+  - Acceptance Criteria
+    - Given I’m on the personal information page
+    - When I click the `Paperless delivery` link in the side navigation
+    - Then I am navigated to the paperless delivery page
+
+#### Enroll in paperless delivery
+  - As a Veteran, I want to enroll in paperless delivery, so that I stop receiving paper mail.
+
+  - Preconditions
+    - User has navigated to `va.gov/profile/paperless-delivery`
+
+  - Acceptance Criteria
+    - Given I’m on the paperless delivery page
+    - When I select the `1095-B Proof of Health Care` checkbox
+    - Then a loading button appears, receives focus and disappears when the update completes
+    - And a confirmation alert indicates the selection was updated
+    - And the checkbox is now checked
+
+#### Unenroll from paperless delivery
+  - As a Veteran, I want to update my paperless delivery settings, so that I receive paper mail.
+
+  - Preconditions
+    - User has navigated to `va.gov/profile/paperless-delivery`
+    - The 1095-B Proof of Health care checkbox is checked
+
+  - Acceptance Criteria
+    - Given I’m on the paperless delivery page
+    - When I select the `1095-B Proof of Health Care` checkbox
+    - Then a loading button appears, receives focus and disappears when the update completes
+    - And a confirmation alert indicates the selection was updated
+    - And the checkbox is now unchecked
+
+#### Email notifications
+  - As a Veteran without a contact email address in my profile, I want to be prompted to add an email address, so that I can receive paperless delivery email notifications.
+
+  - Preconditions
+    - User has navigated to `va.gov/profile/paperless-delivery`
+    - User does not have a contact email address in profile
+
+  - Acceptance Criteria
+    - Given I'm on the paperless delivery page
+    - Then an alert is displayed prompting me to add an email address
+
+#### Unavailable
+  - As a Veteran not enrolled in benefits that offer paperless delivery, I want to be made aware if paperless delivery is not available to me, so that I can understand why I don't see any documents to choose.
+
+  - Preconditions
+    - User has navigated to `va.gov/profile/paperless-delivery`
+    - User is not enrolled in any benefits that offer paperless delivery options
+
+  - Acceptance Criteria
+    - Given I'm on the paperless delivery page
+    - Then an alert is displayed informing me that I'm not enrolled in any benefits that offer paperless delivery
+
+#### Add email address
+  - As a Veteran without a contact email address in my profile, I want to add my contact email address, so that I can receive paperless delivery notifications.
+
+  - Preconditions
+    - User has navigated to `va.gov/profile/paperless-delivery`
+    - User does not have a contact email address in profile
+  
+  - Acceptance Criteria
+    - Given I'm on the paperless delivery page
+    - When I click the `Add your email address to your profile` link
+    - Then the Add your contact email address page is displayed
+    - And an input exists to enter my email address
+    - When I enter a valid email address and click the Save to profile button
+    - Then a loading button appears and receives focus
+    - Then I’m navigated back to the paperless delivery page
+    - And an alert confirms my email address was saved
+    - And my email address is displayed
+
+#### Update existing email address
+  - As a Veteran with a contact email address in my profile, I want to update my contact email address, so that I can receive paperless delivery notifications at the correct email address.
+
+  - Preconditions
+    - User has navigated to `va.gov/profile/paperless-delivery`
+    - User has a contact email address in profile
+  
+  - Acceptance Criteria
+    - Given I'm on the paperless delivery page
+    - When I click the `Update your email address` link
+    - Then the Update your contact email address page is displayed
+    - And an input shows my current email address
+    - When I enter a new valid email address and click the Save to profile button
+    - Then a loading button appears and receives focus
+    - Then I’m navigated back to the paperless delivery page
+    - And an alert confirms my email address was saved
+    - And my updated email address is displayed
 
 ### Coverage for References
 - TBD
