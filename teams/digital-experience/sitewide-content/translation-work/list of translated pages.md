@@ -25,7 +25,7 @@
 | 20 | [Accessibility at VA](https://www.va.gov/accessibility-at-va-esp) | Spanish | 11/15/23 | 
 | 21 | [About VA DIC for spouses, dependents, and parents](https://www.va.gov/disability/dependency-indemnity-compensation-esp/) | Spanish | 11/16/23 | 
 | 22 | [How to apply for the GI Bill and related benefits](https://www.va.gov/education/how-to-apply-esp/) | Spanish | 1/19/24 | 
-| 23 | |[After you apply for VA education benefits](https://www.va.gov/education/after-you-apply-esp/) | Spanish | 1/22/24 |
+| 23 | [After you apply for VA education benefits](https://www.va.gov/education/after-you-apply-esp/) | Spanish | 1/22/24 |
 | 24 | [GI Bill and other education benefit eligibility](https://www.va.gov/education/eligibility-esp/) | Spanish | 2/14/24 |
 | 25 | [VA Survivors Pension](https://www.va.gov/pension/survivors-pension-esp) | Spanish | 3/6/24 |
 | 26 | [What to bring to create your online sign in account](https://www.va.gov/resources/what-to-bring-to-create-your-online-sign-in-account-esp/) | Spanish | 8/23/24 |
@@ -43,7 +43,7 @@
 | 38 | [How to apply for Veterans Pension](https://www.va.gov/pension/how-to-apply-esp/) | Spanish | 4/7/25 |
 | 39 | [Eligibility for Veterans Pension](https://www.va.gov/pension/eligibility-esp/) | Spanish | 4/22/25 | 
 | 40 | [Survivors Pension](https://www.va.gov/family-and-caregiver-benefits/survivor-compensation/survivors-pension-esp/) | Spanish | 4/22/25 |
-| 41 | [Eligibility for VA home loan programs](https://www.va.gov/housing-assistance/home-loans/eligibility-esp/) Spanish | 4/24/25 |
+| 41 | [Eligibility for VA home loan programs](https://www.va.gov/housing-assistance/home-loans/eligibility-esp/) | Spanish | 4/24/25 |
 | 42 | [How to apply for Veteran Readiness and Employment](https://www.va.gov/careers-employment/vocational-rehabilitation/how-to-apply-esp/)| Spanish | 5/5/25 |
 | 43 | [Board Appeals](https://www.va.gov/decision-reviews/board-appeal-esp/) | Spanish | 5/14/25 |
 | 44 | [How to request a VA home loan Certificate of Eligibility (COE)](https://www.va.gov/housing-assistance/home-loans/how-to-request-coe-esp/) | Spanish | 5/20/25 |
