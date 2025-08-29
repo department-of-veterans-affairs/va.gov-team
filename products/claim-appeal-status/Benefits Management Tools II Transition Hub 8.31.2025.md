@@ -252,8 +252,6 @@ Below are the initiatives worked on during the contract, with links to their res
 
 [Pension claim process overview (Figma)](https://www.figma.com/design/QTZuETCjjgYfRYCmqbNu5d/Pension-claim-process-overview?node-id=2201-3233&t=Y6VvofzuuyPMatz3-0)
 
-[Veterans Pension benefits claim process (SharePoint)](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/_layouts/15/Doc.aspx?sourcedoc=%7B3D[%E2%80%A6]ss-pensions-021325.docx&action=default&mobileredirect=true)
-
 ## 6. Intent to File
 For the Intent to File (ITF) discovery phase, the team investigated how Veterans currently check their ITF status and identified significant usability gaps on VA.gov and in the Claims Status Tool (CST). They reviewed existing ITF workflows, upstream data sources (VBMS and Lighthouse ITF API), and confirmed there was no direct, user-friendly way for Veterans to see if an ITF was active or when it expired. The team gathered pain points from Veteran research, Reddit feedback, and contact center insights, revealing confusion around ITF timelines, expiration dates, and the association between ITFs and claims. They explored design concepts for displaying ITF information in CST, including scenarios for active, expired, and multiple ITFs, as well as empty states for education. They documented potential risks, and technical dependencies. This discovery work laid the foundation for a UI solution to make ITF status transparent and actionable for Veterans.
 
