@@ -226,6 +226,8 @@ Below are the initiatives worked on during the contract, with links to their res
 
 [Evidence requests (Figma)](https://www.figma.com/design/P9rl860Qt8qqVFZGg4sejE/Evidence-Requests?node-id=0-1&p=f&t=K6DMW1XVl7VvimiI-0)
 
+[Evidence requests tracker spreadsheet (SharePoint)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/Benefits%20Management%20Tools%20II%20Transition%20Hub%208.31.2025.md#2-evidence-request-improvements)
+
 [Evidence request description drafting (SharePoint)](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Benefits%20Management%20-%20CST/cst%20-%20evidence-requests/evidence%20request%20descriptions%20drafting.docx?d=w384ff0e8c5e943ee92522e04d2ad05f3&csf=1&web=1&e=slnO7o)
 
 [Evidence Request Content Worksheet (SharePoint)](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Benefits%20Management%20-%20CST/cst%20-%20evidence-requests/Content%20Worksheet%20(VA%20evidence%20requests).docx?d=w6dc2e2711afd48d5be7e028ddd26ec7c&csf=1&web=1&e=zlch0K)
