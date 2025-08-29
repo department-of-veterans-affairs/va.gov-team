@@ -1,7 +1,6 @@
-
 name: Disability Benefits Content Support Request Template
 description: Content Support Request for Disability Benefits Team
-title: [INTAKE] Team name: Initiaitve name
+title: "[INTAKE] Team name: Initiaitve name"
 labels: ["disability", "disability-benefits", "content"]
 projects:
 - department-of-veterans-affairs/1660
@@ -15,7 +14,7 @@ body:
       TICKET TITLE: [INTAKE] Team name: Initiative name
       Use this ticket to ask the Disability Benefits Crew (DBC) content designer for support. Feel free to delete any unselected options from this ticket to make it easier to scan.
 
-      ## 👥 Team Info 
+      ## 👥 Team Info
       Tell us about your team
 - type: input
   attributes:
@@ -89,7 +88,7 @@ body:
   attributes:
     label: Research findings or usability insights
 
-  
+
 - type: textarea
   attributes:
     label: Technical constraints
@@ -107,10 +106,3 @@ body:
   attributes:
     label: Is a staged launch planned?
     description: If so, please provide details
-  
-
-
-
-
-
-
