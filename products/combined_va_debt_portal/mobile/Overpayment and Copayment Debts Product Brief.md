@@ -96,6 +96,7 @@ O1: VA’s digital experiences are the easiest and most efficient way to access 
 |8/18/2025| Removed the "feedback-to-vet" label during UX refinement. | During UX refinement, Michelle provided approval for the team to move forward with "rework overpayments pay online info and Move or rename PDF statements. These are now items in the UX backlog that can be picked up to work on.|
 |8/18/2025| Engineers can begin working on providing the Governance team with the data that will be cached for the overpayment/copayment initiative. | During Natalie // Michelle 1:1, Michelle provided approval for engineers to move forward on this effort and to remove the "feedback-to-vet" label.|
 |8/26/2025| We will include accordions in our design. | During the MFS//Core Mobile UX sync, it was decided that we should use accordions in our feature design since mobile and web are different. This decision overrides the decision on 8/12 to "Minimize use of axcordions".|
+|8/28/2025| UX will work on updating the copay account number and make design adjustments. | This feedback was discovered during user testing and Michelle approved that the team could remove the feedback-to-vet label in a Slack message.|
 
 ## Reference Materials
 
