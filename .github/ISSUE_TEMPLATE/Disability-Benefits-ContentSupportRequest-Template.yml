@@ -19,33 +19,30 @@ body:
       Tell us about your team
 - type: input
   attributes:
-    label: Product Name  
+    label: Product Name
     placeholder: e.g., VA 21-0781
   validations:
     required: true
 - type: input
   attributes:
-    label: Team Name  
+    label: Team Name
     placeholder: e.g., Disability Benefits Crew Core Form team
   validations:
     required: true
 - type: input
   attributes:
-    label: Slack Channel  
+    label: Slack Channel
   validations:
     required: true
-
 - type: input
   attributes:
-    label: Product Manager  
+    label: Product Manager
 - type: input
   attributes:
-    label: Designer(s)  
-
+    label: Designer(s)
 - type: markdown
   attributes:
     value: ## About your initiative
-
 - type: checkboxes
   attributes: 
     label: Which of these descriptions best fits the work we'll partner on? (Select all that apply)
@@ -58,8 +55,7 @@ body:
 - type: input
   attributes:
     label: If something else
-    placeholder: Enter something else here  
-
+    placeholder: Enter something else here
 - type: textarea
   attributes:
     label: Describe the work effort
@@ -73,22 +69,22 @@ body:
 
 - type: input
   attributes:
-    label:   Parent epic or super epic
+    label: Parent epic or super epic
   validations:
     required: true
 - type: input
   attributes:
-    label: Figma file 
+    label: Figma file
   validations:
     required: true
 - type: input
   attributes:
-    label: Mural 
+    label: Mural
   validations:
     required: true
 - type: input
   attributes:
-    label: Collaboration Cycle ticket# 
+    label: Collaboration Cycle ticket#
 - type: input
   attributes:
     label: Research findings or usability insights
