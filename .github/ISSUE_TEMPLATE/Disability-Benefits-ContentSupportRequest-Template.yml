@@ -50,7 +50,7 @@ body:
       - label: Updating an existing form
       - label: Adding new unauthenticated content to VA.gov
       - label: Updating existing unauthenticated content on VA.gov
-      - label: Something else:
+      - label: Something else...
 - type: input
   attributes:
     label: If something else
