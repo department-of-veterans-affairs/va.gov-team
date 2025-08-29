@@ -8,8 +8,8 @@
 ### Basic Details
 
 - **Team Name:** Governance
-- **Short Name:** governance _(Used for directory URLs and should ideally match your GitHub team name below)_
-- **GitHub Team Name:** [github-team-name] _(Exact name of GitHub team which is also found in your GitHub team link below)_
+- **Short Name:** governance
+- **GitHub Team Name:** platform-governance-team
 - **GitHub Team Labels:**
   - [governance-team]
 - **GitHub Team Link:** [https://github.com/orgs/department-of-veterans-affairs/teams/platform-governance-team]

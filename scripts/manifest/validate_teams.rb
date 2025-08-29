@@ -449,7 +449,7 @@ class TeamDocumentationValidator
     local_path = convert_github_url_to_local_path(product_info[:url])
     
     unless local_path
-      result[:yaml_issues] << "Could not resolve URL to local file path"
+      result[:yaml_issues] << "Could not resolve URL to local file path: #{product_info[:url]}"
       return result
     end
     
@@ -489,11 +489,21 @@ class TeamDocumentationValidator
       return File.join(@repo_root, relative_path)
     end
     
-    # Handle relative paths
+    # Handle relative paths that start with /
     if url.start_with?('/')
       return File.join(@repo_root, url[1..-1])
-    elsif !url.include?('://')
+    elsif !url.include?('://') && !url.start_with?('/')
+      # Handle relative paths without leading slash
       return File.join(@repo_root, url)
+    end
+    
+    # For other formats, try to extract just the path part
+    # This handles cases where the URL might be a relative path within the repo
+    if url.include?('products/') || url.include?('teams/')
+      # Extract everything from 'products/' or 'teams/' onwards
+      if match = url.match(%r{((?:products|teams)/.+)})
+        return File.join(@repo_root, match[1])
+      end
     end
     
     # Return nil for other URL formats we can't handle
