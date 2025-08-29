@@ -101,12 +101,12 @@ Display the following UX to all actively enrolled VHA patients. Stop displaying 
 - `Mobile team` Warning alert on profile contact info page
 
 **After UX interventions**
-Stop displaying alerts altogether after VA leadership agrees we've reached an appropriate amount of users. At which point we will: 
+<br>Stop displaying alerts altogether after VA leadership agrees we've reached an appropriate amount of users. At which point we will: 
 - For people with no contact email in VA Profile still: Copy email in either MHV or SM databases into contact email
 - For people with a mismatch still: Use VA Profile contact email for VA Notify
 
 **Other relevant interventions**
-We're going to have 1-2 more email campaigns prompting users to review their email. 
+<br>We're going to have 1-2 more email campaigns prompting users to review their email. 
 
 <details>
 <summary>Example from July 7, 2025 email campaign</summary>
