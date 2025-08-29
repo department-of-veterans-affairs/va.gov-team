@@ -1,6 +1,6 @@
 
 
-# [DRAFT] Your VA benefit letters and documents research study Research Findings 
+# Your VA benefit letters and documents research study Research Findings 
 
 **Office of the CTO - Digital Experience (OCTO-DE), Benefit Letters, Benefit Management Team 2**
 
