@@ -320,11 +320,18 @@ Unknown, this flow was built using a pre-existing form flow and the system error
 ## Common use cases for Modified Edit-as-a-subtask: Add mailing address
 ### User logs in with LOA3 account
 #### Add/Update contact mailing address
+<details><summary> Mailing address text entry</summary>
 
-- Documentation for this use case have been created in other locations and linked below
-- address-validation
-- apo-fpo-dpo
-- bad-address-indicator
+  - **Use case:** Text fields are automatically populated with the mailing address from their profile if it exists. They can add, edit, or leave the text fields as they are. If there are input errors they show inline with the input field.
+  - **Staging user:** vets.gov.user+12@gmail.com does not have a mailing address (do not add a mailing address), you may need to remove the contact email on the contact information page in staging.
+  - **Link to designs:** [Update mailing address designs](https://www.figma.com/design/eztyT5LpinAolQPMFnFtw7/Missing-Contact-Info?node-id=268-7415&t=qBnzLOIRS5QmY5ev-1), [Detailed designs for mailing address mirror the designs in Profile: Contact Information](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=2583-28269&t=nto3L3XeTYR9k2tJ-1)
+
+  - Documentation for this use case have been created in other locations and are linked below:
+  - [address-validation](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information/address-validation)
+  - [apo-fpo-dpo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information/apo-fpo-dpo)
+  - [bad-address-indicator](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/contact-information/bad-address-indicator)
+
+</details>
 
 ## Common use cases for Modified Edit-as-a-subtask: Contact information update confirmation page
 ### User logs in with LOA3 account and completes the modified Edit-as-a-subtask flow
