@@ -143,7 +143,7 @@ All of these test cases require that the user is signed in and has LOA3 access.
     - And my updated email address is displayed
 
 ### Coverage for References
-- TBD
+- Functionality has been verified via test users for all user stories - 100%
 
 ### Summary (Defects) Reports
 - TBD
