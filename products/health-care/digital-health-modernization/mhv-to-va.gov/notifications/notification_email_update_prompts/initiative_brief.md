@@ -22,15 +22,17 @@
 - Veterans will verify, change, or add the email address that they want to use for receiving notifications
 
 **Related/Associated product(s)**
-- Product | My HealtheVet on VA.gov
+- Web: MHV on VA.gov landing page, My VA landing page, Contact information page in VA.gov profile, Sign-in flow
+- VAHB: Home screen, Health screen, Contact information screen in profile
 
 ## Problem
 > *Describe the challenge / pain point you seek to address.:* 
-* What is the problem and who is affected? And, what evidence do we have of the problem?
+- What is the problem and who is affected? And, what evidence do we have of the problem?
   - 800,000 Veterans' VA.gov profile email address does not match their My HealtheVet email address where they have been receiving notifications from the My HealtheVet Classic notification system.  Another 66,000 have no email address in VA.gov Profile.  When the MHV Appointments, Messaging, Medications, Medical Records applications migrate their notifications to VA Notify later this year, these Veterans may not recieve important emails about their medical appointments, medications, messagages from providers, or medical images that are ready for download at their desired email address.
-* Why do you think the problem is occurring? Other reasons why this might be occurring?
+- Why do you think the problem is occurring? Other reasons why this might be occurring?
   - The My HealtheVet DBA recently ran a query to compare the two sets of email addresses.
-* How does this initiative help further OCTO-DE's mission and goals?
+  - VA.gov isn't copying over contact email addresses into MHV.
+- How does this initiative help further OCTO-DE's mission and goals?
   - It will ensure that Veterans reliably continue to receive their health notifications and know where to find related information on My HealtheVet.
 
 <!--
@@ -70,31 +72,31 @@
 - **Usability Risks** (can people figure out how to use it):
   - Veterans may not understand why they need to confirm their address.   We will provide clear instructions explaining why this is important.
 - **[Technical] Feasibility Risks** (can we build it with available tech/data):
- - None noted
+  - None noted
   
 - **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
     - Veterans do not change or add email addresses before VA Notify migration is completed and do not receive notifications at the desired email address.
 
 ### Supporting research
-
-- *Is this work supported by user research?* 
-  - *If this work **is supported by user research**, please cite the user research by providing links to our [VA.gov research repo](https://github.com/department-of-veterans-affairs/va.gov-research-repository)*
-  - *If this work is **not supported by existing user research**, will this work include user research?*
-    - *If this work **will include user research**, please briefly state what you hope to learn from that research.*
-    - *If this work **does not cite nor include user research**, please state why and be prepared to defend your decision.*
+[2025-08 {MHV on VA.gov}: {Update Email Prompt} [Usability study] #978](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/978)
 
 ### What're you building?
-
 > *What's in scope for you to build with this initiative? Describe key features/flows.*
-- Prompt messages on six pages
-   - 1. My HealtheVet Landing Page (web)
-   - 2. VA.gov Profile landing page (web)
-   - 3. VA.gov Profile contact info page (web)
-   - 4. VAHB mobile app Health landing page (mobile)
-   - 5. VAHB mobile app Profile landing page (mobile)
-   - 6. VAHB mobile app Profile contact info page (mobile)
+Display the following UX to all actively enrolled VHA patients. Stop displaying this UX after users have completed 
+
+**Web**
+- `Horizon team` Critical Action alert on MHV Landing page, /my-health/
+- `Horizon team` Critical Action alert on My VA page, /my-va/
+- `Horizon team` Dismissible Alert_ on VA.gov Profile page, /profile/contact-information#contact-email-address
+- `Horizon team` and `Identity team` Interstitial after signing-in
+
+**Mobile**
+- `Mobile team` Warning alert on home landing screen
+- `Mobile team` Warning alert on health landing screen
+- `Mobile team` Warning alert on profile contact info page
  
 > *What have you explicitly decided to **not** include and why?*
+- Mobile won't include an interstitial after signing-in. Because this requires additional development effort. And we want to ship ASAP.
 
 > *Are you building for the VA Health and Benefits mobile application? Explain why or why not.*
 Yes, because this impacts all My HealtheVet users who receive notifications from VA.gov or VAHB.
