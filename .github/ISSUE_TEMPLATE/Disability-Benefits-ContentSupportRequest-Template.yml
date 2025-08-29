@@ -83,7 +83,7 @@ body:
     required: true
 - type: input
   attributes:
-    label: Collaboration Cycle ticket#
+    label: "Collaboration Cycle ticket #"
 - type: input
   attributes:
     label: Research findings or usability insights
