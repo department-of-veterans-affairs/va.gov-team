@@ -70,7 +70,7 @@ RA - Remote Access_
   - [ ] [Jenkins](http://jenkins.vfs.va.gov/)
   - [ ] [Sentry](http://sentry.vfs.va.gov/)
   - [ ] [Argo CD](http://argocd.vfs.va.gov/)
-- [ ] [Pagerduty](https://dsva.pagerduty.com/) - _ask a team member for access_
+- [ ] [Pagerduty](https://ecc.pagerduty.com/) - _ask a team member for access_
 - [ ] [Keybase](https://keybase.io/)
 - [ ] [Datadog](https://depo-platform-documentation.scrollhelp.site/developer-docs/get-access-to-datadog) - _You may need to ask your PM or TL to submit a request on your behalf_
 - [ ] [AWS access request](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?assignees=&labels=external-request%2Coperations%2Cops-access-request&template=aws-access-request.yml&title=Access+for+%5Bindividual%5D) - _Wait until your EQIP submission is verified_

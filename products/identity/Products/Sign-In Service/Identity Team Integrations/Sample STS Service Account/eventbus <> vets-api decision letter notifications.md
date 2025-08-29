@@ -74,5 +74,5 @@ Role	Contact
 Identity Team	Trevor Bosaw, Joe Niquette, John Bramley
 Benefits Management Team	Stacy Wise
 Eventbus Gateway Dev	Ian Donovan, Dariusz Dzien
-Incident Response	#benefits-management-tools, event-bus@veterans-affairs.pagerduty.com
+Incident Response	#benefits-management-tools, event-bus@ecc.pagerduty.com
 
