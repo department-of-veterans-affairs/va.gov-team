@@ -99,7 +99,6 @@ Display the following UX to all actively enrolled VHA patients. Stop displaying 
 - `Mobile team` Warning alert on health landing screen
 - `Mobile team` Warning alert on profile contact info page
 
- 
 > *What have you explicitly decided to **not** include and why?*
 - Mobile won't include an interstitial after signing-in. Because this requires additional development effort. And we want to ship ASAP.
 
@@ -136,22 +135,22 @@ Yes, because this impacts all My HealtheVet users who receive notifications from
 ## Screenshots
 ### Before
 #### 1. My HealtheVet Landing Page (web)
-<img width="772" height="815" alt="image" src="https://github.com/user-attachments/assets/5078c4db-4ae3-48f9-8378-59500e48f5b9" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/5078c4db-4ae3-48f9-8378-59500e48f5b9" />
 
 #### 2. VA.gov Profile landing page (web)
-<img width="787" height="823" alt="image" src="https://github.com/user-attachments/assets/7d77a517-8e2d-47b9-8b08-8f64292f2a4d" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/7d77a517-8e2d-47b9-8b08-8f64292f2a4d" />
 
 #### 3. VA.gov Profile contact info page (web)
-<img width="772" height="753" alt="image" src="https://github.com/user-attachments/assets/2f6788b3-5aec-4021-b188-324af141223c" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/2f6788b3-5aec-4021-b188-324af141223c" />
 
 #### 4. VAHB mobile app Health landing page
-<img width="1170" height="2532" alt="image" src="https://github.com/user-attachments/assets/06b7bbd5-a795-4e87-beab-fa7fe9b83a6e" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/06b7bbd5-a795-4e87-beab-fa7fe9b83a6e" />
 
 #### 5. VAHB mobile app Profile landing page
-<img width="1170" height="2532" alt="image" src="https://github.com/user-attachments/assets/3e42d783-b43a-4972-a5a8-640f09ccc5b4" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/3e42d783-b43a-4972-a5a8-640f09ccc5b4" />
 
 #### 6. VAHB mobile app Profile contact info page
-<img width="1170" height="2532" alt="image" src="https://github.com/user-attachments/assets/c6731af0-d274-4a0b-b5eb-df5350172412" />
+<img width="400" alt="image" src="https://github.com/user-attachments/assets/c6731af0-d274-4a0b-b5eb-df5350172412" />
 
 ### After
 [View designs in Figma](https://www.figma.com/design/CAChU51fWYMZsgDR5RXeSc/MHV-Landing-Page?node-id=5465-1304)
