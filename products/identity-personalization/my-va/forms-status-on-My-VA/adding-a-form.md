@@ -1,4 +1,4 @@
-# Adding A non-Lighthouse Benefits Intake API Form
+# Display Form Status for a non-Lighthouse Benefits Intake API Form
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Form Status Card](#form-status-card)
