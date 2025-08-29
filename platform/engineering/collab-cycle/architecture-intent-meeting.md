@@ -1,3 +1,10 @@
+# We're moving our docs! 
+### You can find [the latest version of this page](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/engineering/collaboration-cycle/architecture-intent/checklist/eng-sec-checklist.md), which has been renamed to the Engineering and Security Checklist, in the va.gov-team-sensitive repo.
+
+### Still can't find what you're looking for? Reach out to [#vfs-platform-support](https://dsva.slack.com/archives/CBU0KDSB1) on Slack.
+
+---
+
 # Architecture Intent Meeting
 
 The Architecture Intent meeting helps your team build a solution that meets VA.gov platform engineering and security standards and lowers the potential for launch-blocking issues later in the development cycle.
