@@ -43,7 +43,7 @@ Included in this document are links to all shared VA.gov profile use cases. Thes
 
 <details><summary>Saving information: Success</summary>
 
-- **Use case:** When the user selects the Save button, and the form successfully saves, the user is returned to read mode and a slim success alert displays below the section header.
+- **Use case:** When the user selects the Save button, and the form successfully saves, the user is returned to read mode and a slim success alert displays below the section header or sub header.
 - **Format:** [Slim success alert](https://design.va.gov/components/alert/#examples---slim-alert)
 - Links to designs
    - [Input success message](https://www.figma.com/design/Byfu9NRKXCtXN3DuMYguKI/Authenticated-Experience-Team-Symbols?node-id=1027-2055&t=lV1Oua0bfedXY6kj-1)
@@ -54,7 +54,7 @@ Included in this document are links to all shared VA.gov profile use cases. Thes
 
 <details><summary>Saving information: Error</summary>
 
-- **Use case:** When the user selects the Save button, and the form does not save, the user is returned to edit mode and a slim error alert displays below the section header.
+- **Use case:** When the user selects the Save button, and the form does not save, the user is returned to edit mode and a slim error alert displays below the section header or sub header.
 - **Format:** [Slim error alert](https://design.va.gov/components/alert/#examples---slim-alert)
 - Links to designs
    - [Input error message](https://www.figma.com/design/Byfu9NRKXCtXN3DuMYguKI/Authenticated-Experience-Team-Symbols?node-id=1034-634&t=lV1Oua0bfedXY6kj-1)
@@ -152,7 +152,7 @@ We’re sorry. Something went wrong on our end. Refresh this page or try again l
 
 <details><summary>Cannot display section information</summary>
 
-- **Use case:** Backend systems that control the individual sections on the pages is down. A slim warning message appears inline under the section header. It is possible for multiple errors to appear at the same time.
+- **Use case:** Backend systems that control the individual sections on the pages is down. A slim warning message appears inline under the section header or sub header. It is possible for multiple errors to appear at the same time.
 - **Format:** [Warning alert component](https://design.va.gov/components/alert/#warning-alert)
 - [Link to designs](https://www.figma.com/design/Byfu9NRKXCtXN3DuMYguKI/Authenticated-Experience-Team-Symbols?node-id=1042-894&t=2aUKNsBhABYqSK6e-1)
 - **Content:**
