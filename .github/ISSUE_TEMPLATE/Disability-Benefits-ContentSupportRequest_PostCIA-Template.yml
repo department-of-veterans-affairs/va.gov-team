@@ -26,7 +26,7 @@ body:
       ### Relevant links and artifacts   
 - type: input
   attributes:
-    label: Name and issue # of the parent epic
+    label: Name and issue `#` of the parent epic
   validations:
     required: true
 - type: input
