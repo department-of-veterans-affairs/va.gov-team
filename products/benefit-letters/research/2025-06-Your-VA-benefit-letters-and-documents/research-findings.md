@@ -195,7 +195,8 @@ Based on the research findings, here is a prioritized plan for improving the ben
 
 - **Revise letter names and descriptions:** Use clearer naming and descriptive text to distinguish similarly titled documents.
 - **Expand online letter availability:** Make all frequently requested letters available online, including DD214, and VA Rating Narrative Letter.
-- **Clarify letter relevance:** Organize letters into clear categories such as “Employment" and “Retirement" (or add as labels to each letter) rather than a single unordered list that lacks context.
+- **Clarify letter relevance:** Organize or dynamically filter letters into categories such as “Employment" and “Retirement" rather than a single unordered list that lacks context.
+- **Reorder letters by usage frequency:** Move the most commonly used letters to the top of the list.
 
 ### 3. Enhance overall user experience
 
