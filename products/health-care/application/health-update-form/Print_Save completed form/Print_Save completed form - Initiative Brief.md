@@ -122,7 +122,8 @@
 
 ### Before
 
-TBD
+<img width="398" height="645" alt="image" src="https://github.com/user-attachments/assets/95a86cbf-2026-4292-9f3c-2ade6a0b2d07" />
+
 
 ### After
 
