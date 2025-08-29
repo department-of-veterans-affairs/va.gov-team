@@ -9,11 +9,11 @@
 - [Key Data](#user-content-key-data-points)
    - [Medallia feedback survey](#user-content-medallia-feedback-survey---quantitative)
    - [Medallia intercept survey](#user-content-medallia-intercept-survey---quantitative)
-   - [My VA411 call data](#user-content-MyVA411-call-data)
+   - [My VA411 call data](#user-content-myVA411-call-data)
    - [Comparisons](#user-content-comparisons)
    - [Themes](#user-content-Themes-from-qualitative-data)
 - [Recommendations](#user-content-recommendations)
-- [Survey quotes](#user-content-Survey-quotes)
+- [Survey quotes](#user-content-survey-quotes)
 
 ## Background
 This research considered the Medallia intercept survey, Medallia feedback survey, and the MyVA411 Call Center data from January 1, 2025 to March 30, 2025. This is part of our team's regular checkin with quantitatitve data.
