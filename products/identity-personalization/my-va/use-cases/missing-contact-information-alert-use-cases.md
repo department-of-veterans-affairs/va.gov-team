@@ -62,7 +62,7 @@ None
 - **Staging user:** vets.gov.user+12@gmail.com does not have a mailing address (do not add a mailing address), you may need to remove the mobile phone number on the contact information page in staging.
 - **Format:** Slim Warning alert
 - **Link to designs:** Missing contact information warning
-- **Link to code:** ???
+- **Link to code:** [Alert](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/profile/components/alerts/ContactInfoNeeded.jsx) and placement on the [dashboard](https://github.com/department-of-veterans-affairs/vets-website/blob/2065c3ce67945b9a8f79f07e651d851f203b4f3f/src/applications/personalization/dashboard/components/Dashboard.jsx#L123)
 - **Content:**
 Body: Your [mobile phone, email address, and mailing address] [is/are] missing. Please edit and update the [field/fields].
 
