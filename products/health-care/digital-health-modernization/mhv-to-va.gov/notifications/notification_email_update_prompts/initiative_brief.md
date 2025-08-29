@@ -70,22 +70,24 @@ Note: Because we do not copy over emails right now from VA.gov profile to MHV af
 > *Identify risks related to usability, value to users, feasibility/implementation, and viability given organizational constraints<sup>2</sup>. 
 > Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
-- **Value Risks** (will people use it): 
-  - Veterans may ignore the prompt.  We will monitor number of clicks on prompts, number of emails confirmed, added, and changed.
-- **Usability Risks** (can people figure out how to use it):
-  - Veterans may not understand why they need to confirm their address.   We will provide clear instructions explaining why this is important.
-- **[Technical] Feasibility Risks** (can we build it with available tech/data):
+**Value Risks** (will people use it)
+- Veterans may ignore the prompt.  We will monitor number of clicks on prompts, number of emails confirmed, added, and changed.
+  
+**Usability Risks** (can people figure out how to use it)
+- Veterans may not understand why they need to confirm their address.   We will provide clear instructions explaining why this is important.
+  
+**Technical Feasibility Risks** (can we build it with available tech/data)
   - None noted
   
-- **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-    - Veterans do not change or add email addresses before VA Notify migration is completed and do not receive notifications at the desired email address.
+**Organizational Viability Risks/Constraints** (will there be a positive organizational impact)
+- Veterans do not change or add email addresses before VA Notify migration is completed and do not receive notifications at the desired email address.
 
 ### Supporting research
 [2025-08 {MHV on VA.gov}: {Update Email Prompt} [Usability study] #978](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/978)
 
 ### What're you building?
 > *What's in scope for you to build with this initiative? Describe key features/flows.*
-Display the following UX to all actively enrolled VHA patients. Stop displaying this UX after users have completed 
+Display the following UX to all actively enrolled VHA patients. Stop displaying this UX after users have either confirmed, added, or updated their contact email address.
 
 **Web**
 - `Horizon team` Critical Action alert on MHV Landing page, /my-health/
@@ -99,13 +101,44 @@ Display the following UX to all actively enrolled VHA patients. Stop displaying 
 - `Mobile team` Warning alert on health landing screen
 - `Mobile team` Warning alert on profile contact info page
 
-> *What have you explicitly decided to **not** include and why?*
+**After UX interventions**
+Stop displaying alerts altogether after VA leadership agrees we've reached an appropriate amount of users. At which point we will: 
+- For people with no contact email in VA Profile still: Copy email in either MHV or SM databases into contact email
+- For people with a mismatch still: Use VA Profile contact email for VA Notify
+
+**Other relevant interventions**
+We're going to have 1-2 more email campaigns prompting users to review their email. 
+
+<details>
+<summary>Example from July 7, 2025 email campaign</summary>
+
+> **Action needed: Confirm your email address in your VA.gov profile**
+> 
+> We noticed your email address is different in your VA.gov profile than the email you had in the previous My HealtheVet experience. We want to make sure we’re sending email notifications to the correct email address for you.
+> 
+> Please review and confirm that your email address is correct in your VA.gov profile. If you need to change your email address, follow these instructions:
+> 
+> Sign in to VA.gov to manage your contact information
+> Go to the email address section.
+> Select **Edit** and enter your correct email address.
+> Select **Save**.
+> 
+> **Act Now**
+> Please complete this update **as soon as possible** to avoid missing critical communications. 
+> Learn more about My HealtheVet on VA.gov https://www.va.gov/resources/my-healthevet-on-vagov-what-to-know/
+> 
+> **Note**: Please update your profile directly on VA.gov. DO NOT respond directly to this email with any personal information.
+
+</details>
+
+**What have you explicitly decided to **not** include and why?**
 - Mobile won't include an interstitial after signing-in. Because this requires additional development effort. And we want to ship ASAP.
 
-> *Are you building for the VA Health and Benefits mobile application? Explain why or why not.*
-Yes, because this impacts all My HealtheVet users who receive notifications from VA.gov or VAHB.
+**Are you building for the VA Health and Benefits mobile application? Explain why or why not.**
+- Yes, because this impacts all My HealtheVet users who receive notifications from VA.gov or VAHB.
 
-> *How does this solution address your Assumptions & Risks?*
+**How does this solution address your Assumptions & Risks?**
+- [answer]
 
 #### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful?*
