@@ -1,0 +1,48 @@
+name: Disability Benefits Request to Incorporate C&IA Feedback
+description: Request to incoporate C&IA feedback for Disability Benefits Team
+title: "Request to incorporate C&IA content feedback"
+labels: ["disability", "disability-benefits", "content"]
+projects:
+- department-of-veterans-affairs/1660
+type: Task
+assignees: amylago
+
+body:
+- type: markdown
+  attributes:
+    value: |
+      Use this ticket to ask your content designer to update content based on feedback from the Content and IA team.
+
+- type: textarea
+  attributes:
+    label: About your request
+    placeholder: Tell us what you need
+  validations:
+    required: true
+
+- type: markdown
+  attributes:
+    value: |
+      ### Relevant links and artifacts   
+- type: input
+  attributes:
+    label: Name and issue # of the parent epic
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Original content support request ticket #
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: C&IA ticket #
+- type: input
+  attributes:
+    label: Figma where final content should be provided
+
+- type: input
+  attributes:
+    label: Timeline
+    description: When does this request need to be completed by?
+
