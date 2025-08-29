@@ -215,12 +215,12 @@ _When will the thing you are testing be finalized? Ideally it's ready a week bef
 
 > [!NOTE] > **Send pilot participant email in study Slack channel**
 
-- `Pilot participant name:` **TBD**
+- `Pilot participant name:` **Mike Palmer**
 - `Date and time of pilot session:` **TBD**
 
 ### Research sessions
 
-- `Planned dates of research:` **09/02-09/16**
+- `Planned dates of research:` **09/08-09/17**
 
 ### Length of sessions
 
@@ -240,12 +240,16 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 >
 > **Place time slots between `hash marks` when in edit mode.**
 
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `[MM/DD, Day, TT:TT AM/PM-TT:TT AM/PM] EST`
-- `Add more slots as needed`
+- `[9/8, Monday, 09:30 AM-11:30 AM] EST`
+- `[9/9, Tuesday, 11:00 AM-4:00 PM] EST`
+- `[9/10, Wednesday, 09:00 AM-1:30 PM] EST`
+- `[9/11, Thursday, 09:00 AM-11:00 AM] EST`
+- `[9/11, Thursday, 12:30 PM-2:00 PM] EST`
+- `[9/11, Thursday, 3:00 PM-5:00 PM] EST`
+- `[9/12, Friday, 9:00 AM-2:00 PM] EST`
+- `[9/15, Monday, 10:00 AM-12:00 PM] EST`
+- `[9/16, Tuesday, 11:00 AM-3:00 PM] EST`
+- `[9/17, Wednesday, 09:00 AM-3:00 PM] EST`
 
 ## Team Roles 🕵️👩‍💻👩‍🔬
 
