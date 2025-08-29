@@ -11,7 +11,7 @@ body:
 - type: markdown
   attributes:
     value: |
-      Use this ticket to ask your content designer to update content based on feedback from the Content and IA team.
+      Use this ticket to [ask your content designer to update content](https://docs.google.com/document/d/1YBJgdfQkuULS4S5zOUgOqAt7Tg50l-YnAib8RXYdO1A/edit?tab=t.0#heading=h.e7bnbdg3wale) based on feedback from the Content and IA team.
 
 - type: textarea
   attributes:
