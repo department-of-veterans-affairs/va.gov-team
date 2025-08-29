@@ -102,7 +102,7 @@ Anything beyond pulling images out of Labs and Test Results into its own list an
 ---
    
 ## Screenshots
-
+[View designs in Figma](https://www.figma.com/design/gGU9oX4QVqbYdxzXfTqTEj/Medical-Records---Milestone-2?node-id=20641-4936&t=4Nvy58PSUjSwmFON-0)
 ### Before
 <img width="1045" height="850" alt="image" src="https://github.com/user-attachments/assets/e1784119-71d9-46ed-a285-38ca498cdba1" />
 

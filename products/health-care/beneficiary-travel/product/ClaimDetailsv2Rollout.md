@@ -8,9 +8,8 @@ List the features toggles here.
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| travel_pay_power_switch | Main switch for the Travel Pay feature on VA.gov using the new BTSSS (travel pay) API. Enabled - Requests are handled as normal. Disabled - Requests are not handled. Server returns a 503 (Service Unavailable) until re-enabled. |
-| travel_pay_submit_mileage_expense | A switch that toggles availability of the submit mileage expense feature. Enabled - Requests are handled as normal. Frontend features are available per toggle settings. Disabled - Requests are not handled. Server returns a 503 (Service Unavailable) until re-enabled. Frontend features are not available. |
-| travel_pay_view_claim_details | A frontend-focused switch that toggles visibility of and access to the Travel Pay claim details page and entry point (features toggled together). Enabled - Entry point link and claim details page are viewable. Disabled - Entry point link and claim details page are not viewable. |
+| XXX | xxx |
+
 
 ## Step 2: Validation
 
@@ -25,22 +24,26 @@ Before enabling your feature toggle in production, you'll need to:
   - [ ] review the plan with your DEPO/OCTO representative.
   - [ ] review the release plan with your team.
 
+
 ## Step 3: Production rollout
 
 ### Define the Rollback process
 
 Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics both on Google Analytics and DataDog. If they see a spike in errors or unexpected behavior, they will flag to the engineering team that there is a problem. The engineering team will do the following:
+
 #### If a critical severity issue
 1. The feature toggle will be disabled for all users
 2. Debugging will start immediately
 3. The fix will be tested and deployed through normal CI/CD practices
 4. The feature toggle will be re-enabled, possibly at a lower percentage of logged-in users
+
 #### If a high-severity issue
 1. The feature toggle will remain enabled, possibly at a reduction of availability (e.g. lowered percentage of logged in users)
 2. The offending commit will be reverted through normal `git` operations
 3. Remove offending code by deploying the revert commit
 4. A fix will be highly prioritized and worked on
 5. The fix will be tested and deployed through normal CI/CD practices
+
 #### If a low-severity issue
 1. The toggle will remain enabled with no reduction in availability
 2. A fix will be prioritized and worked on
@@ -50,16 +53,16 @@ Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics
 
 #### Planning
 
-- Desired date range or test duration: 3/17-3/28
-- Desired number of users: 9
-- How you'll recruit the right production test users: Through Perigean, we will identify 9 eligible claimants with appointments in the last 30 days who are able to file a simple, mileage-only claim.
-- How you'll conduct the testing: Cara Frissell, our UX researcher, will conduct UAT
+- Desired date range or test duration: x/xx-x/xx
+- Desired number of users: at least 9 eligible claimants 
+- How you'll recruit the right production test users: Through Perigean, we will identify at least 9 eligible claimants with appointments in the last 30 days who are able to file a simple, mileage-only claim.
+- How you'll conduct the testing: XX
 - How you'll give the test users access to the product in production w/o making it live on VA.gov: We will put them behind the feature flag.
 
 #### Results
 
-- Number of users: 9
-- Number of bugs identified / fixed: 1/1
+- Number of users: xx
+- Number of bugs identified / fixed: xx/xx
   - [FILL_IN] : Key issue with the appointments plugin detected
 - Was any downstream service affected by the change?: no]
 - Types of errors logged: API error finding appointments
@@ -75,10 +78,11 @@ On 4/3/25, To help us better understand if the appointment API problems are real
 The idea will be after this test, we should have more insight into the error rate. If it is still close to 25%, then launch will be blocked until the API fix is complete. If it is lower, then we might be able to rollout. An official Go-No Go meeting will have to occur for rollout. 
 
 Results:
--Total submissions: 70
--Total unique users: 53
+**********************************REWRITE ENTIRE SECTION *************************************************
+-Total submissions: xx
+-Total unique users: xx
 
-By appointments: of the 67 appointments that people attempted filing for, there were 60 successful attempts and 7 errors (5 errors with appointment mismatches and 2 missing addresses - a 10.4% error rate).
+By appointments: of the xx appointments that people attempted filing for, there were xx successful attempts and 7 errors (5 errors with appointment mismatches and 2 missing addresses - a 10.4% error rate).
 
 By users:
 53 unique users, with 46 able to submit all appointments successfully (86.7%)

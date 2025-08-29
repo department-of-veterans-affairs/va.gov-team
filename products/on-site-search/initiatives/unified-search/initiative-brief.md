@@ -33,20 +33,30 @@ We currently have multiple search solutions in place across various experiences 
 > 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*<sup>1</sup>\
 > 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
-Product KPI | Baseline | Target | Link to data source (e.g. GA, Domo)
----| ---| ---| ---
-Relevancy | | |
-Performance | | |
-
 **Search relevancy**
-- No results queries and frequency
-- Returning high demand results
-- Accuracy of results
+1. Improve "no results" queries without use of manually entered recommendations (i.e. Best Bets)  
+    - [Top no results queries](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/analytics/2025.md#top-queries-with-no-results)
 
-**Performance**
-- Response time
-- Indexing - # of pages indexed, time to index new or updated content
+2. Improve CTR of top queries
+    - [Top queries and CTR](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/analytics/2025.md#top-queries)
 
+3. Improve accuracy of results
+    - [List of current inaccurate or misleading search scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/analytics/problematic-search-queries.md)
+
+**Search performance**
+1. Improve response time
+    - [Current response times]
+2. Indexing - # of pages indexed, time to index new or updated content
+    - Search.gov indexing
+      - 1.8 million URLs including PDF, TXT, and other docs
+          - Search.gov pauses for up to 5 seconds for a page that includes React and 1 second between other pages
+      - Process
+        - Search.gov pings the sitemaps mutiple times a day to pick up any entries that are new or updated since the last time checked and updates those items in the index
+        - Every 30 days it checks all URLs in the index to find updates not noted in the sitemaps - i.e. 404s, redircts, etc
+        - Search.gov cannot reindex VA.gov more frequently because of the sitemap_bva.xml file containing 1.6 million of the total 1.8 million VA URLs indexed primarily for https://search.usa.gov/search?affiliate=bvadecisions
+        - Indexing rules and timing are managed at the domain level - Search.gov cannot manage indexing or priority mgmt at a more granular level, such as for bva.va.gov
+       
+**Reliability**
 
 
 ## Discovery
@@ -69,11 +79,11 @@ Performance | | |
 
 ### Supporting research
 
-- *Is this work supported by user research?* 
-  - *If this work **is supported by user research**, please cite the user research by providing links to our [VA.gov research repo](https://github.com/department-of-veterans-affairs/va.gov-research-repository)*
-  - *If this work is **not supported by existing user research**, will this work include user research?*
-    - *If this work **will include user research**, please briefly state what you hope to learn from that research.*
-    - *If this work **does not cite nor include user research**, please state why and be prepared to defend your decision.*
+**Previous research supporting effort**
+
+- [01/2021 VA.gov search research](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/research-study-jan-2021/research-findings.md)
+- [09/2021 Search design concepts](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/research/user-research/2021-Aug-research-study/research-findings.md#3-using-different-search-tools-on-different-pages-is-confusing-ie-vagov-site-search-find-a-va-form-resources-and-support)
+    - 
 
 ### What're you building?
 

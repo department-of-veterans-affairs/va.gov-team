@@ -28,6 +28,8 @@ _BEP expects that a Veteran's or spouse's file number submitted in a 21-686c or 
    - Per Danny Reed (MPI), VA.gov only needs to send one or the other.
 - Does VA.gov need to update the claim creation flow?
    - Danny said that the 686c/BGS code is using outdated APIs and using an outdated flow. For instance, we shouldn't be creating person records in the first place (this issue stems from a failed person creation attempt)
+- Do all Veterans have a file number?
+   - No, only Veterans who have submitted a claim have a file number. 
 
 ## Suggested course of action
 See https://github.com/department-of-veterans-affairs/va.gov-team/issues/56995#issuecomment-1532129932. File # / SSN mismatches are a big, complicated, systemic issue. IMO, the best we can do is:
@@ -35,8 +37,10 @@ See https://github.com/department-of-veterans-affairs/va.gov-team/issues/56995#i
    - Create a DataDog dashboard to monitor the logs introduced by [these logs](https://github.com/department-of-veterans-affairs/vets-api/pull/12530)
    - Determine who to contact at MPI to report the instances of bad file/ssn
    - Figure out why the exsiting logs are not catching [File # formatting issues](http://sentry.vfs.va.gov/organizations/vsp/discover/results/?environment=production&field=message&field=error.value&name=Top+Errors&project=3&query=%28+controller_name%3Adependents_applications+OR+SubmitForm686cJob+OR+SubmitForm674Job+OR+job%3ABGS%3A%3ASubmitForm686cJob+OR+job%3ABGS%3A%3ASubmitForm674+%29+level%3Aerror+AND+%21message%3A%2Aget_dependents%2A+message%3A%22ORA-12899%3A+value+too+large+for+column+%5C%22CORPPROD%5C%22.%5C%22VNP_PERSON%5C%22.%5C%22FILE_NBR%5C%22+%28actual%3A+10%2C+maximum%3A+9%29+Sidekiq%2FBGS%3A%3ASubmitForm686cJob%22+error.value%3A%22%22&sort=-message&statsPeriod=7d&widths=-1&widths=-1) and [File # / SSN mismatch issues](http://sentry.vfs.va.gov/organizations/vsp/discover/results/?environment=production&field=message&field=error.value&name=Top+Errors&project=3&query=%28+controller_name%3Adependents_applications+OR+SubmitForm686cJob+OR+SubmitForm674Job+OR+job%3ABGS%3A%3ASubmitForm686cJob+OR+job%3ABGS%3A%3ASubmitForm674+%29+level%3Aerror+AND+%21message%3A%2Aget_dependents%2A+message%3A%22ORA-20099%3A+Error+-+File+Number+and+Social+Security+number+are+different%0AORA-06512%3A+at+%5C%22CORPPROD.RBI_VNP_PERSON%5C%22%2C+line+69%0AORA-04088%3A+error+during+execution+of+trigger+%27CORPPROD.RBI_VNP_PERSON%27+Sidekiq%2FBGS%3A%3ASubmitForm686cJob%22+error.value%3A%22%22&sort=-message&statsPeriod=7d&widths=-1&widths=-1).
-2. Fail loudly when we discover a File # / SSN mismatch before jobs are enqueued; and render an appropriate error on the front-end and/or send an error notification email, instructing the veteran to contact VA for support.
-3. Confirm that error notification emails are sent to veterans when we discover a File # / SSN mismatch while one of our jobs are running.
+~~2. Fail loudly when we discover a File # / SSN mismatch before jobs are enqueued; and render an appropriate error on the front-end and/or send an error notification email, instructing the veteran to contact VA for support.~~
+- This approach needs to be reviewed. The Identity Team added functionality that alerts the Veteran when their ssn in their verified credential does not match the ssn that is stored in MPI. The Veteran cannot log into VA.gov and is instructed to contact the VA to rectify the data issue.
+~~3. Confirm that error notification emails are sent to veterans when we discover a File # / SSN mismatch while one of our jobs are running.~~
+- This approach needs to be reviewed.
 
 Another thought, it would be great if we could somehow preemptively inform VA call center employees that veterans have a mismatched File # and SSN, so they know how to help veterans, should they call.
 

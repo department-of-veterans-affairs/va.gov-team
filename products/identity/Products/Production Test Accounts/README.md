@@ -1,20 +1,25 @@
+# WIP pending further research and validation to determine if a technical replacement solution is needed
 # Product Brief: MVP for Production Test Accounts Using Verified Modern Credentials
-
+**
 **Author:** Lainey Trahan
 **Date:** July 22, 2025  
-**Initiative:** Replace Production Test Accounts (PTAs) that rely on MHV credentials with a secure alternative using verified modern credentials (Login.gov or ID.me).
+**Initiative:** Replace Production Test Accounts (PTAs) that rely on MHV credentials with a secure alternative using verified modern credentials (Login.gov or ID.me) so that teams can validate their products are working in production **as intended for Veterans**.
 
 ---
 
 ## Problem Statement
 
-With the scheduled deprecation of MHV credentials in **October 2025**, VA.gov and mobile teams face a critical gap in their ability to safely test Veteran-facing features in the production environment. Current PTAs tied to MHV are insecure, lack traceability, and cannot be easily revoked. We must deliver an MVP that enables **VA employees and contractors to access PTAs using modern, verified credentials**—ensuring secure, accountable, and reliable test access in production.
+With the scheduled deprecation of MHV credentials in **October 2025 (now October 2026)**, VA.gov and mobile teams face a critical gap in their ability to safely validate Veteran-facing features are working as intended in the production environment. Current PTAs tied to MHV are insecure, lack traceability, and cannot be easily revoked. **If an alternative solution for production test accounts is proven to be a necessity**, we will deliver the MVP of a solution that enables **VA employees and contractors to access production test accounts using modern, verified credentials**—ensuring secure, accountable, and reliable test access in production. 
+
+## Why Identity
+
+Our team's responsibility is to provide authentication solutions for VA.gov, VA Mobile apps, and MyVA Health. Testing in production requires authentication, making the production test accounts relevant to our work
 
 ---
 
 ## MVP Objective
 
-Deliver a production-ready mechanism for secure PTA access using **Login.gov or ID.me**, focused on high-priority use cases such as:
+Deliver a production-ready mechanism for secure PTA access using Login.gov or ID.me, focused on high-priority use cases such as:
 
 - Validate that new or updated features on VA.gov or the mobile app work as expected upon release.
 - Reproduce and validate bug fixes to ensure prior issues are resolved without breaking other functionality.
@@ -24,11 +29,11 @@ Deliver a production-ready mechanism for secure PTA access using **Login.gov or 
 
 ## MVP Goals
 
-- **Secure Authentication:** Enable verified login using Login.gov or ID.me.  
-- **User Mapping:** Associate each verified user with a pre-provisioned PTA (ICN).  
-- **Access Management:** Provide a manual revocation mechanism for MVP.  
-- **Identity Logging:** Log verified user identity and PTA access to Audit DB.  
-- **Auditing & Reporting:** Generate searchable logs for session tracking and reporting.
+- Secure Authentication: Enable verified login using Login.gov or ID.me.  
+- User Mapping: Associate each verified user with a pre-provisioned PTA (ICN).  
+- Access Management: Provide a manual revocation mechanism for MVP.  
+- Identity Logging: Log verified user identity and PTA access to Audit DB.  
+- Auditing & Reporting: Generate searchable logs for session tracking and reporting.
 
 ---
 
@@ -57,27 +62,27 @@ Deliver a production-ready mechanism for secure PTA access using **Login.gov or 
 
 ## Key Open Questions
 
-- Should verified login accounts be tied to **VA emails** or allow any personal email?
-- What metadata is the **minimum required** for identity enforcement and logging?
+- Should verified login accounts be tied to VA emails or allow any personal email?
+- What metadata is the minimum required for identity enforcement and logging?
 - What’s the best pattern for securely mapping a verified user to a test identity without exposing or reusing PII?
 
 ---
 
 ## Initial Technical Spikes
 
-- Investigate **OAuth On-Behalf-Of flow** for token chaining and delegation.
-- Explore **Redis-based mapping** between verified users and PTA ICNs.
-- Evaluate **PII logging considerations** for storing identity info safely.
-- Determine **routes/actions to monitor** via Audit DB.
+- Investigate OAuth On-Behalf-Of flow for token chaining and delegation.
+- Explore Redis-based mapping between verified users and PTA ICNs.
+- Evaluate PII logging considerations for storing identity info safely.
+- Determine routes/actions to monitor via Audit DB.
 
 ---
 
 ## Post-MVP Enhancements (Roadmap Candidates)
 
-- Self-service **whitelist management** for PTA access.
-- Admin dashboard for **real-time access control** and revocation.
-- MPI check for **employment status validation** to automatically revoke access.
-- Improved **integration test support** for downstream systems (e.g., MHV).
+- Self-service whitelist management for PTA access.
+- Admin dashboard for real-time access control and revocation.
+- MPI check for employment status validation to automatically revoke access.
+- Improved integration test support for downstream systems (e.g., MHV).
 
 ---
 

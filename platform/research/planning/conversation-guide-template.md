@@ -8,9 +8,9 @@ tags:
   - "[Tag2]"
 description: "A template for moderating research sessions including logistics, intro script, task outlines, and consent steps."
 ---
-    # Conversation Guide for 10-10EZR Confirmation Flow
+# Conversation Guide for [initiative]
 
-# Moderator logistics 📋✅
+## Moderator logistics 📋✅
 ### 2-3 days before the session
 
 > [!NOTE]

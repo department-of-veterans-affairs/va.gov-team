@@ -15,7 +15,7 @@
 |----|----|
 |Chante Lantos-Swett |OCTO Lead|
 |Andrew Pearce| Program Manager |
-|TBD|Product Manager|
+|Patrick Siebenlist|Product Manager|
 |Anneliese LaTempa|Delivery Manager|
 |Janelle Finnerty | Design/Research Lead | 
 | Micah Frazier | Engineering Lead | 

@@ -20,6 +20,9 @@ What is the difference between DIC and Survivor's pension:
    - Benefits may or may not be taxed based on recipients income
    - So they are separate and active programs. Still not clear why they share the same application form but the survivor's pension may require additional forms
    - Dependents affect the rates for both
+- Summary from SME (Jennifer Feuer)
+   - DIC is a service-connected benefits where a survivor gets a flat monthly rate if a Veteran died from a service-connected disability. It's actually a comp benefit that P&F manages. It's paid out of the Comp Service funds. Pension and Suvivors Pension are for Veterans or survivors of Veterans who served in war time periods (and a few other caveats) and who have an income and net worth below a certain amount
+   - There is also Parents DIC, but that's an income-based benefit that always requires a manaul review bc it's so wonky and rare 
 
 Source: [Amy Grace Wells, July 2025](https://dsva.slack.com/archives/C07RB9N9M6J/p1752781387946729)
 </details>
@@ -88,7 +91,7 @@ Source: [Amy Grace Wells, July 2025](https://dsva.slack.com/archives/C07RB9N9M6J
 <details>
 <summary>What is RBPS' processing volume?</summary>
 
-  - RBPS production processes every 30 mins at the top/bottom of the hour. 4 servers, 50 claims per server = 200 claims every 30 mins. VA.gov sends 60-ish 686 or 674 claims to RBPS per hour, but it's unknown how many paper claims RBPS may process.
+  - RBPS production processes every 30 mins at the top/bottom of the hour. 4 servers, 50 claims per server = 200 claims every 30 mins. Even if those 200 claims take 15 minutes to run RBPS cannot then run more claims in the remaining 45 minutes. VA.gov sends 60-ish 686 or 674 claims to RBPS per hour, but it's unknown how many paper claims RBPS may process.
 
   Source: Linda Ciston, 2024
 </details>
@@ -212,9 +215,30 @@ Source: [Amy Grace Wells, July 2025](https://dsva.slack.com/archives/C07RB9N9M6J
   - Bilogical children, step-children, and adopted children
      - The step-child's relationship to the Veteran is tied to the current spouse. If there is no current spouse then there is no step-child relationship that exists any longer. 
   - Foster children cannot be added (not recognized under [38 CFR 3.57](https://www.ecfr.gov/current/title-38/chapter-I/part-3/subpart-A/subject-group-ECFR2f2f66751230c72/section-3.57))
+  - [Rules and definitions](https://www.knowva.ebenefits.va.gov/system/templates/selfservice/va_ssnew/help/customer/locale/en-US/portal/554400000001018/content/554400000176624/M21-1-Part-VII-Subpart-i-Chapter-3-Section-B-Biological-Children-Adopted-Children-and-Stepchildren?query=stepchildren#6) associated with biological children, adopted children, and stepchildren
 
   [Source: Kevin Schneider (Slack message) 4/28/25](https://dsva.slack.com/archives/C0547Q0K0LF/p1745847761380209)
 </details>
+
+<details>
+<summary>What is the process for adding a child with a permanent disability?</summary>
+  
+  - A user cannot add a child as a helpless child until until the child has turned 18 (or 90 days before they turn 18)
+  - The child must have become disabled prior to the age of 18
+  - If a user submits a permanent disability claim too early,  we tell the veteran we can't work the claim. But, we set a diary to expire 90 days before 18th bday to work the claim, and reach out to the veteran at that time to get the ball rolling.  
+
+  [Source: David Reis (Slack message) 8/18/25](https://dsva.slack.com/archives/C0547Q0K0LF/p1755526968940779)
+</details>
+
+<details>
+<summary>Are stepchildren automatically removed when the spouse dies/divorces?</summary>
+  
+  - Yes
+  - But, they are removed from the date the user stopped providing 50% of the child's support OR the divorce/death date of parent, whatever is earlier. 
+    
+  [Source: David Reis (Slack message) 8/18/25](https://dsva.slack.com/archives/C0547Q0K0LF/p1755526968940779)
+</details>
+
 
 ## Students
 <details>

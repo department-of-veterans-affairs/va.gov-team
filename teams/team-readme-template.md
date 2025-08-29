@@ -1,31 +1,74 @@
-_`To create a copy of this template, click "Edit" then copy all of the content within the file.  Within your team folder, create a new file called "README.md" and paste this content.  Update and complete as applicable to your team(s).`_
-
 # [Team Name]
 
-### Description of Current Work
-_What is a brief description or list of current work efforts?_
+> **📋 Instructions:** See [../team-readme-instructions.md](../team-readme-instructions.md) for detailed guidance on using this template. Remove this instruction note when completing your README.
 
-### Slack Channels
-_Where can your team(s) be found in Slack?_
-- [#channel-name](https://dsva.slack.com/channels/channel-name)
+## Team Information
 
+### Basic Details
 
-### Github Labels
-_What labels are your GitHub issues tagged with?_
-- `github label`
+- **Team Name:** [Full Team Name as it appears in VA systems]
+- **Short Name:** [team-slug-name] _(Used for directory URLs and should ideally match your GitHub team name below)_
+- **GitHub Team Name:** [github-team-name] _(Exact name of GitHub team which is also found in your GitHub team link below)_
+- **GitHub Team Labels:**
+  - [github-label-1]
+  - [github-label-2]
+- **GitHub Team Link:** [https://github.com/orgs/department-of-veterans-affairs/teams/github-team-name]
+- **Slack Channel:** [#channel-name](https://dsva.slack.com/channels/channel-name)
 
+### Organizational Affiliation
 
-### Points of Contact 
-_Who are the primary contacts for your team(s)?  
-Do not publish personal contact info, only names and slack contact name._
-- Program Management: 
-- Product Management:  
-- Design: 
-- Engineering: 
-- Operations:  
+- **VA Business Owner:** [OCTO/VES/VHA/VBA/NCA/VACO]
+- **Portfolio:** [Benefits/Digital Experience/Health]
+- **Crew or Pod:** [crew-or-pod-name] _Refer to crews-and-pods.md_
+- **Contracting Organization:** [Name of contracting company, if applicable]
+- **Contract:** [Current contract](https://dvagov.sharepoint.com/sites/oitoctocontracts/Contracts/Forms/AllItems.aspx) _Update to point to your specific contract file._
 
-### Key Documents
+### Team Roster
 
-- [Team Charter]()
-- [Roadmap]()
-- [Document Name]()
+Directory system will parse this section to display team member contact information
+
+#### Product Owner
+
+- **Name:** [Full Name]
+- **GitHub:** [@github-username]
+- **Email:** [contact-email@va.gov]
+- **Role:** OCTO PO
+
+#### Team Lead
+
+- **Name:** [Full Name]
+- **GitHub:** [@github-username]
+- **Email:** [contact-email@va.gov]
+- **Role:** Team Lead
+
+## About This Team
+
+Brief description of your team's mission, focus areas, and how you support Veterans. Include any specializations or unique capabilities.
+
+## Products We Own
+
+_Directory system will cross-reference these with product details.yml files containing `team: "[team-slug-name]"`. Copy the template at https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/product-details-template.yml into your product directories then rename and update appropriately._
+
+- **[Product 1 Entry](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/[product-name]/[product-name]-details.yml):** Link to product in /products directory and provide a brief description.
+- **[Product 2 Entry](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/[product-name]/[product-name]-details.yml):** Link to product in /products directory and provide a brief description.
+
+Add additional products as needed.
+
+### Product highlights
+
+> Add any team achievements you might want to surface. Product link should link to your product on va.gov or to the product directory in /products.
+
+- [Product link] | OKRs 1.1, ..., ... - Description
+
+## Aligned to 2025 OCTO OKRs
+
+This team actively contributes toward the following 2025 OCTO OKRs:
+
+> List the appropriate OCTO OKRs as follows:
+
+- **Objective 1: VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.**
+  - OKR 1.1: Improve satisfaction with our web and mobile products by 5 points.
+
+## Key Documents
+
+- [Team Charter](team-charter.md)

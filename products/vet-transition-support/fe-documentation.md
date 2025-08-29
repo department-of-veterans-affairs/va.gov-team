@@ -42,53 +42,15 @@ The **designer** and **researcher** are responsible for managing content that’
 
 Content that is **in progress** can be found in:
 * **⭐️ Source of truth**: [Figma (working file)](https://www.figma.com/design/fRuATIubZQNSeQmnvxzqKY/%F0%9F%92%A1-Working-file--Transition-experience-?m=auto&t=ODHjsOOxGnDsLBLf-6)
-* **Other sources**: [Jira](https://jira.devops.va.gov/secure/RapidBoard.jspa?rapidView=10991&projectKey=PTEMSVT&view=planning&issueLimit=100#), [Sharepoint](https://dvagov.sharepoint.com/sites/VESPortfolioOpsManagement/Shared%20Documents/Forms/AllItems.aspx?FolderCTID=0x0120005D19BD4FFB74134285F70EC84B94C756&id=%2Fsites%2FVESPortfolioOpsManagement%2FShared%20Documents%2FProduct%20Lines%2FSeamless%20Experience%20Product%20Line%2FTransition%2FDesign%2C%20Content%2C%20and%20Logic&viewid=f0fefbdc%2D305b%2D4c46%2Dae6a%2D4872045e22d8)
+* **Other sources**: [Jira](https://jira.devops.va.gov/secure/RapidBoard.jspa?rapidView=10991&projectKey=PTEMSVT&view=planning&issueLimit=100#)
 
 ## Functionality
 
 ### How the results are determined
 
-The **all benefits** page displays all benefits that a Veteran (including RSVs) or TSM may be eligible for.
+The **all benefits** page displays all benefits that a Veteran, RSV, or TSM may be eligible for.
 
-The **recommended benefits** page displays benefits that Veterans (including RSVs) and TSMs may be eligible for based on their answers in the questionnaire. The [Logic Mapping spreadsheet in Sharepoint](https://dvagov.sharepoint.com/:x:/r/sites/VESPortfolioOpsManagement/_layouts/15/Doc.aspx?sourcedoc=%7BC0881268-34D7-4863-936A-DABCD4B7B15D%7D&file=MASTER%20Logic%20Mapping%20Spreadsheet%20-%2001NOV2024.xlsx&action=default&mobileredirect=true) is the source of truth for how eligibility is determined for each benefit. Below are a few key factors for determining eligibility:
-
-* **Only TSMs who are still serving qualify for the following benefits:**
-    * DOD SkillBridge program
-    * Transfer your GI Bill benefits
-    * Transition Assistance Program (TAP)
-* **Only Veterans or TSMs with a disability rating or in progress claim and any character of discharge other than dishonorable qualify for the following benefits:**
-    * Foreign Medical Program
-    * Veteran Readiness and Employment (Chapter 31)
-    * Veterans Affairs Life Insurance (VALife)
-* **How character of discharge affects benefit eligibility**
-    * **Honorable OR still serving**
-        * GI Bill benefits
-        * Transfer your GI Bill benefits
-    * **Honorable OR Under honorable conditions (General) OR still serving**
-        * DOD SkillBridge program
-        * Veterans’ Preference in federal hiring
-    * **Honorable OR Under honorable conditions (General) OR Under other than honorable conditions OR Bad conduct OR Uncharacterized OR I'm still serving**
-        * Educational and career counseling (Chapter 36)
-        * Veteran Readiness and Employment (Chapter 31)
-    * **Honorable OR Under honorable conditions (General) OR Under other than honorable conditions OR Uncharacterized OR I'm still serving**
-        * VetSuccess on Campus (VSOC)
-    * **Honorable OR Under Honorable Conditions (General) OR Under other than honorable conditions OR Bad conduct OR Uncharacterized OR I'm still serving OR I'm not sure**
-        * Foreign Medical Program
-        * Disability compensation
-        * Disability housing grant
-        * VA-backed home loans
-        * VA health care
-        * VA mental health services
-        * VA national cemetery burial
-        * Veterans Affairs Life Insurance (VALife)
-        * Veterans Pension
-    * **Under Other than Honorable Conditions OR Bad Conduct OR Dishonorable OR I'm still serving OR I'm not sure**
-        * Apply for a discharge upgrade
-    * **Any character of discharge**
-        * State Veterans' Benefits
-        * Support for your Veteran-Owned Small Business
-        * Transition Assistance Program (TAP)
-        * Veterans' Group Life Insurance (VGLI)
+The **recommended benefits** page displays benefits that Veterans, RSVs, and TSMs may be eligible for based on their answers in the questionnaire. The [logic diagram in Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1748526908036/5e68de58e739ae592366aebd09bc662a3038b290?sender=ue02033fbb0fe7e82629e4489) is the source of truth for how eligibility is determined for each benefit.
 
 ## Design
 
@@ -106,6 +68,7 @@ The following components are used in the product:
 * [Link](https://design.va.gov/components/link/)
 * [Link - Action](https://design.va.gov/components/link/action)
 * [Modal](https://design.va.gov/components/modal/)
+* [Search Filter](https://design.va.gov/components/search-filter)
 * Form
     * [Checkbox](https://design.va.gov/components/form/checkbox)
     * [Need help?](https://design.va.gov/components/form/need-help)
@@ -116,10 +79,9 @@ The following components are used in the product:
 
 There are a few components that are managed separately in the code:
 * **Card**: Referenced in [BenefitCard.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/discover-your-benefits/components/BenefitCard.jsx)
-* **Modal**: Referenced in [CopyResultsModal.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/discover-your-benefits/components/CopyResultsModal.jsx)
 * **Need help?**: Referenced in [GetFormHelp.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/discover-your-benefits/components/GetFormHelp.jsx)
 * **Banner**: Referenced in [NoResultsBanner.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/discover-your-benefits/components/NoResultsBanner.jsx)
-* **SubmitHelper**: TBD
+* **SubmitHelper**: Referenced in [SubmitHelper.jsx](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/discover-your-benefits/components/SubmitHelper.jsx)
 
 ### Patterns
 
@@ -138,7 +100,7 @@ The following templates are used in the product:
     * [Introduction](https://design.va.gov/templates/forms/introduction)
     * [Form step](https://design.va.gov/templates/forms/form-step)
     * [Review](https://design.va.gov/templates/forms/review)
-* ⚠️ [Search results](https://design.va.gov/templates/search-results): This template is currently considered a candidate for the design system. If and when it is deployed, we will likely need to consider updating our results page.
+* [Search results](https://design.va.gov/templates/search-results)
 
 ## Research
 

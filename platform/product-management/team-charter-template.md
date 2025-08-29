@@ -1,40 +1,29 @@
 # [Team Name] Charter
 
+_Put this team charter in your /teams/[team-name] directory and NOT in the /products directory._
+
 ---
 
 ## Why we're here
 
-### Product Crew (if applicable): 
-_i.e. Sitewide, Platform, Account Experience, Benefits Tools, Health Tools, etc - ask Chris J or your VA Product Lead if you're unsure!_
+### Team Mission Statement
 
-### Team Mission Statement:
 _Lorem ipsum_
 
-### Product Portfolio:
-_List of products within your team's perview - make sure the list of products here aligns to what's captured in the [List of VA.gov Products doc](https://docs.google.com/spreadsheets/d/1hzz6whEGoQJQbiNvIggirhydYYdv57nfOZfLvFqZ1pQ/edit)_
+### Responsibilities
 
-### Responsibilities:
 _High level problem space and user goals for this team_
 
-### Roadmap:
+### Roadmap
+
 _Link to agile roadmap_
-
----
-
-## Who we are
-
-### Team Members:
-- DSVA Product Lead: _person’s name_
-- Team Product Manager: _person’s name_
-- _Additional Team Role_: _person’s name_
-
----
 
 ## How we work
 
 ### Workflow + Cadence
 
 #### Stand-up
+
 Check in on people and product progress
 
 - Daily @ _time_
@@ -42,6 +31,7 @@ Check in on people and product progress
 - 3 Question Format: What I did yesterday? What will I do today? Any impediments?
 
 #### Sprint Planning
+
 Outline work to be done this sprint in order to accomplish the team's goals
 
 - 1st Wednesday of every sprint @ _time_
@@ -49,13 +39,15 @@ Outline work to be done this sprint in order to accomplish the team's goals
 - _any other notes you have_
 
 #### Retro
-Review accomplishments from prior sprint, what went well, what can be improvemed, what questions people have, and any action items
+
+Review accomplishments from prior sprint, what went well, what can be improved, what questions people have, and any action items
 
 - 1st Wednesday of every sprint @ _time_
 - 30 min
 - _any other notes you have_
 
 #### Grooming
+
 Assess and update workload for remainder of sprint
 
 - 2nd Thursday of every sprint
@@ -63,6 +55,7 @@ Assess and update workload for remainder of sprint
 - _any other notes you have_
 
 #### Issue Etiquette
+
 For an issue to go into the Current Sprint column, it must have the following (created using the “Standard Issue Template”):
 
 - Estimate
@@ -86,13 +79,7 @@ _Update as you see fit! These are some starter norms for you to consider_
 - We are flexible, but intentional in the way we work
 - Let’s have fun and do great work!
 
-#### Slack:
-
-This is our main means of communication with each other. Keep as much conversation in public channels as possible, to minimize duplicative and extraneous communication.
-
-#### GitHub
-GitHub is the single source of truth. Every body of work should be documented for tracking and capacity planning.
-
 #### General things
+
 - Update tickets regularly. If conversations happen in Slack that are pertinent to a product or initiative, copy the useful info into GitHub/ZenHub.
 - Extra time? Explore the "Ready" column in ZenHub.

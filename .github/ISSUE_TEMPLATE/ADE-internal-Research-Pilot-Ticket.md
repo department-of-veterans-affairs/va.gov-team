@@ -75,7 +75,7 @@ This is a child ticket of the research ticket `[Number Goes Here](link to ticket
 ### ADE Tasks (Internal)
 - [ ] **Schedule ADE team members**: Pilot (runs pilot with AT) and co-pilot (notes and support)
 - [ ] **Add ADE team member(s)** to this ticket as assignees
-- [ ] **Share link to [Assistive Tech Pilot Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/CAIA/accessibility/assistive-tech-pilot-guide.md) with VFS team, if they haven't reviewed it yet**
+- [ ] **Share link to [Assistive Tech Pilot Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/assistive-tech-pilot-guide.md) with VFS team, if they haven't reviewed it yet**
 - [ ] **Schedule Pilot:** Determine date and time for pilot:
 - [ ] **Update ADE Capacity Calendar:** Add invite for pilot, when scheduled (hold time block in the interim) 
 - [ ] **Review research conversation guide** and provide feedback in comments.

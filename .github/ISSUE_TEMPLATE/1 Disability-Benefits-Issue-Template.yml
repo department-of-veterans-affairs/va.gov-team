@@ -44,6 +44,7 @@ body:
     options:
       - label: Meets acceptance criteria
       - label: Passed all testing coverage
+      - label: Logging and monitoring in place
       - label: Code or content reviewed (Internal)
       - label: Reviewed and approved by product and/or design
 

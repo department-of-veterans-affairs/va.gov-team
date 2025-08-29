@@ -16,7 +16,8 @@
   - Copy the swagger YML and drop into the left panel and it’ll give you a visual on the right (not interactive, but easier to view than trying to just look at the yml file)
 
 [Mobile docs](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Intro)
-
+- [Development set up page](https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Engineering/FrontEnd/DevSetupProcess/#local-project-setup)
+  - To gain access to the repo and be onboarded with write permissions and gain access to Firebase, the first step is to submit an [onboarding ticket](https://github.com/department-of-veterans-affairs/va-mobile-app/issues/new?template=onboarding-request-engineering.yml) in GitHub
 - Install nvm (node version manager) as the mobile repo uses an nvmrc to automatically change your node version  
 - There are some outdated instructions, reach out to #va-mobile-app-engineering or #va-mobile-app DSVA slack channels for assistance if something doesn’t work
 

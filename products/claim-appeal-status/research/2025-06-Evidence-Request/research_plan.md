@@ -6,7 +6,8 @@ Previous research shows that Veterans currently struggle with understanding evid
 This research will assess how Veterans perceive the structure, clarity, and usability of the evidence requests they receive on VA.gov.  
 
 **Link to artifacts:** 
-- [Initiative brief]([url](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Improved%20Evidence%20Requests%20UX%20Initiative%202025-05.md))
+- [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Improved%20Evidence%20Requests%20UX%20Initiative%202025-05.md)
+- [Note-taking Sign-up](https://dsva.slack.com/archives/C099VF5T5U3)
 
 ---
 
@@ -208,8 +209,8 @@ _This includes any intellectual disability, ADHD, Autism Spectrum Disorder, seve
 ### Prepare
 We plan to do a pilot session.  
 
-- **Pilot participant email:** _[insert email]_  
-- **Date and time of pilot session:** _[insert date/time]_  
+- **Pilot participant email:** _[michael.collier@agile6.com]_  
+- **Date and time of pilot session:** _[08/20/2025]_  
 
 ### Research Sessions
 - **Planned dates of research:** 8/25-8/29

@@ -176,6 +176,35 @@ If Android, pleae request their email where an invitation to the testing link wi
 - Yes would qualify them for the study
 - No would disqualify them
 
+#### For AT Users
+##### For Screen reader or screen magnifier users
+5. Do you need a screen reader or screen magnifier every time you use the Internet? We ask this question because we want to make sure that our website works for people who rely on these types of technologies.
+- Response options: yes or no. (Answering yes would qualify the participant.)
+
+6. We want to make sure our app work for people with various levels of experience with screen readers. Please rate your experience level using a screen reader:
+
+- Response options: Beginner, Intermediate, Advanced.
+
+7. Are you willing to join the Zoom session using this assistive technology?
+
+Response options: yes or no. (Answering yes would qualify the participant.)
+
+8. What is the name of the screen reader or screen magnifier technology that you will use during the Zoom session?
+
+- Response option: text box.
+
+9. How long have you been using this screen reader or screen magnifier?
+
+- Response option: text box.
+
+10. What (if any) accommodations will you need to participate in this Zoom session?
+
+- Response option: text box.
+
+11. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.
+
+- Response options: yes or no. (Answering yes would qualify the participant.)
+
 ## Timeline 🗓️
 > [!NOTE]
 > **Please submit artifacts for [Research Review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Research-review.1781891143.html) 8-9 days prior to the first planned research day for remote studies so Perigean can begin recruiting one week prior. Perigean requires 2+ weeks for in-person.** 

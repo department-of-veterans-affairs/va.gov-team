@@ -53,9 +53,10 @@
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/insurance-information/medicaid|
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/insurance-information/medicare|
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/insurance-information/medicare-part-a-effective-date|
-|www.va.gov/health-care/apply-for-health-care-form-10-10ez/insurance-information/your-health-insurance|
-|www.va.gov/health-care/apply-for-health-care-form-10-10ez/insurance-information/health-insurance|
-|www.va.gov/health-care/apply-for-health-care-form-10-10ez/insurance-information/health-insurance/0/policy-information?add=true|
+|www.va.gov/health-care/apply/application/insurance-information/general|
+|~www.va.gov/health-care/apply-for-health-care-form-10-10ez/insurance-information/your-health-insurance~|
+|~www.va.gov/health-care/apply-for-health-care-form-10-10ez/insurance-information/health-insurance~|
+|~www.va.gov/health-care/apply-for-health-care-form-10-10ez/insurance-information/health-insurance/0/policy-information?add=true~|
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/insurance-information/va-facility-api|
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/review-and-submit|
 |www.va.gov/health-care/apply-for-health-care-form-10-10ez/confirmation|

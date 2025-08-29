@@ -42,7 +42,7 @@ description: "This research effort is part of the three-month pilot to test ligh
 Thanks for joining us today! My name is **Megan** and **[NOTETAKER NAME]** is taking notes.
 I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them... 
 
-Today we're going to talk about making updates to health care information.
+Today we're going to talk about dependents on your disability compensation benefit.
 
 
 Before we start, I have a few things that I want to go over with you:
@@ -133,6 +133,25 @@ Before we look at the website, let’s start with a few warm-up questions.
 > - [Does the participant understand meaning of xyz?]
 > - [Does the participant notice xyz?]
 > - [Etc]
+
+## Third Task: Questions from Content Comprehension Research (if time allows)
+
+- Have you ever viewed the dependents on your disability benefit on VA.gov?
+  
+     - If yes-
+          - How often do you view the dependents on your benefits on VA.gov?
+          - When was the last time you viewed the dependents on your benefits on VA.gov?
+          - What causes you to view the dependents on your disability benefit on VA.gov?
+            
+     - If no OR unsure-
+          - Have you ever wanted to view the dependents on your disability benefit on VA.gov?
+          - Are there cases when you feel that you would need to view the dependents on your disability benefit on Va.gov? If so, what?
+
+- How would you explain the reason for verifying dependents to another Veteran?
+
+- Where on VA.gov would you expect to view your dependents?
+
+- Would there ever be a case or cases where you would prefer dealing with an overpayment instead of updating your dependents right away? If so, when?
 
 # Post-Task Interview - 5 minutes
 

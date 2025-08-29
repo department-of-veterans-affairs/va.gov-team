@@ -87,4 +87,6 @@ The VADS/DSC is working on creating components that support international Phone 
 
 ## Reference Links / Important Artifacts 
 - [International Phone Numbers Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/74562)
-- Designs 
+- [Designs](https://www.figma.com/design/bFdl7MEIda4ExZIQuot84r/Profile---Contact-Information?node-id=2092-9680&t=rFzROpDC2dYrH1X4-0)
+- [QA Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/international-phone-numbers/QA/README.md#spreadsheet)
+- [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/profile/contact-information/international-phone-numbers/launch-plan/README.md)

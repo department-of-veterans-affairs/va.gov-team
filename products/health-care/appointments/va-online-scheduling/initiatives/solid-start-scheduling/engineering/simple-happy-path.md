@@ -20,3 +20,17 @@ va-gov->>VASS API: queries POST /SaveAppointment
 VASS API->>va-gov: returns { ok \| can't confirm, appointment details }
 Note over va-gov: displays confirmation page
 ```
+
+
+## With LoROTA
+```mermaid
+sequenceDiagram
+    actor Veteran
+    Veteran ->> va-gov: Fills out unauth'd form
+    va-gov ->> VASS-API: sends data
+    VASS-API ->> LoROTA: creates entry {appointment id, user data, etc}
+    LoROTA ->> VASS-API: returns UUI for cancel link
+    VASS-API ->> VA Notify: Sends email with Cancel Link
+```
+    
+ 

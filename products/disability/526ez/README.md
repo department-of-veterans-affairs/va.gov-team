@@ -12,8 +12,8 @@
 - [Test users](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/staging-test-accounts-claims.md)
 - Keywords: disability compensation, 21-526EZ, all claims, increase only
 - Product repo: [va.gov-team/tree/master/products/disability/526ez ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez)
-- Teams repo: [va.gov-team/teams/vsa/teams/disability-experience/](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/disability-experience)
-- Onboarding and Orientation - [Link to doc on team repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/disability-experience/onboarding#readme)
+- Teams repo: [va.gov-team/teams/benefits-portfolio/disability-experience/](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/benefits-portfolio/disability-experience)
+- Onboarding and Orientation - [Link to doc on team repo](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/benefits-portfolio/disability-experience/onboarding#readme)
 ---
 
 [21-781]: /products/disability/ancillary-forms/21-781.md
@@ -75,7 +75,7 @@ Refer to #benefits-disability for most up to date team
 | ⭐️ 526 Flow-Active ⭐️ | Most up to date 526 application flow| [Link](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1686768383603/3f4415dd2ddb71bbd104ebefd92a2c7b553ad792)| November 2023|
 |526 Feature briefs | Feature briefs for new initiatives | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/disability/526ez/product/feature-briefs)
 |Team Carbs Story Mapping | Team 2's 2024 initiatives | [Link](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1718308823134/02c2c9ea74f16b276692af8f31eb65202acc7928)
-|Disability Release Plans | Disability experience team-docs release plans | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/teams/disability-experience/team-docs/Release%20Plans)|
+|Disability Release Plans | Disability experience team-docs release plans | [Link](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/benefits-portfolio/disability-experience/team-docs/Release%20Plans)|
 |Collab Cycle Tickets|Records of interactions with the collaboration cycle|[Github Board Link](https://github.com/orgs/department-of-veterans-affairs/projects/998/views/2?filterQuery=disability+experience)|
 
 ## First Read 📂

@@ -5,3 +5,4 @@ scripts/repo-deprecation.log.csv
 .idea
 */.obsidian/*
 .obsidian
+.claude/settings.local.json

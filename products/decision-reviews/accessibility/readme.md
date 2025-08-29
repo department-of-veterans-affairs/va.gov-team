@@ -36,11 +36,14 @@ If you are a team member looking for accessibility support, please submit a requ
 
 ## Accessibility 101 Trainings
 Previous:
-- 6/26/2025 A11y 101: Screenreaders part 1 video & slides
+- 6/26/2025 A11y 101: Screenreaders part 1 [video](https://dvagov.sharepoint.com/:v:/s/vaabdvro/EUdtmcMn5HtJsep5TX5s_t4Ba-_4DFCPXB_yUQSKdMFNdQ?e=gLzHeq) & [slides](https://dvagov.sharepoint.com/:b:/s/vaabdvro/ESEhnqNfZ1JAoMU2P02a9c4B8kQfbH3oRoSS95Xp1Ey_8Q?e=zZlaJE)
   - 40 minute session on screenreader basics. Led by @bacitracin
- 
+- 7/16/2025 A11y 101: Keyboard Accessibility [video](https://dvagov.sharepoint.com/:v:/s/vaabdvro/EQ15Vuo94MFFgVNQIWFbgFwBsSxV0yoKfuzWuKLe27fQOg?e=rQhReA) and [slides](https://dvagov.sharepoint.com/:b:/s/vaabdvro/EW16McixVe5ImAXjxNU2FHUBZPrka0Nkv5hoQbZ3IxhpJg?e=GRj5OL)
+  - 30 minute session on the importance of keyboard navigation. Includes how to test for the accessibility testing artifact for Staging Review in the Collab Cycle. Leg by @bacitracin  
+
 Upcoming:
-- 7/16/2025 A11y 101: Keyboard Navigation
+- How to test for the Accessibility Testing Artifact for Staging Review
+- How to create Accessibility Annotations
 
 ## Resources
 
@@ -55,3 +58,5 @@ Much of the accessibility-related documentation resides elsewhere on shared, Pla
 Benefits Accessibility Onboarding: This presentation can be given to new teammates or those new to accessibility. It's located in the Benefits Tools accessibility folder on Sharepoint.
 
 [Accessibility Cookbook](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/ADE/accessibility-cookbook.md): The Accessibility Cookbook was written with the help of the accessibility specialists on the Benefits team, and can be turned to for various accessibility questions.
+
+[UX Accessibility Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/accessibility/ux-accessibility-checklist.md): This is a list of common things to look for when reviewing Figma designs for accessibility, before handing off to engineering. More of a gut-check, a non-exhaustive list by @bacitracin.

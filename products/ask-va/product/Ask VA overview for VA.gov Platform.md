@@ -14,10 +14,11 @@ In this doc:
 ## POC
 - **Name of your product**: Ask VA 
 - **Purpose**: Ask VA (AVA) is a digital support channel for Veterans, family members and other submitters. You can use Ask VA to ask a question about education benefits, disability compensation, health care and many other topics. Ask VA should only be used for non-urgent needs. You can reach Ask VA at [va.gov/contact-us/ask-va](https://www.va.gov/contact-us/ask-va/).
-- **Expected duration**: Indefinite...
-   - **Note:** Period of performance? for incoming team 
-
+- **Expected duration**: Indefinite. Current base Period of performance (PoP) for the Ask VA VA.gov team is 8/12/25 to 8/11/26.
+  
 ## AWS Resources
+
+---
 - List AWS services used
    - Note: Anything in VA.gov AWS platform account that's currently used 
 - Describe named instances of each service used
@@ -44,7 +45,18 @@ In this doc:
  
 ## Connections
 **Most important question
-[Ask VA info]
+
+|System|Description|Internal/External to VA|POC|Encryption|Types of PII shared|MOU/ISA/IAA/other formal agreement?|
+|---|---|---|---|---|---|---|
+|Ask VA CRM|Backend CRM system containing Ask VA data and where VA agents respond to user questions|Internal to VA|Natalie Morales|[View example payloads](https://github.com/department-of-veterans-affairs/vets-api/blob/cbd946340354b964d205befc301698d325ee265d/modules/ask_va_api/spec/support/shared_contexts.rb#)<br>- Name, Date of Birth, SSN or Service number, Address, Phone number, Email address, Question from user (which sometimes contains PII because it's free text)<br>- In some cases, we get Business email from CRM and display it to the user|x|MOU in-progress|
+|VA Facilities API (Health facilities)|Get list of health facilities when form asks for health facility ([view field rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Field%20rules.md#health-facility))|Internal to VA|x|x|x|x|
+|Education facilities|Get list of education facilities when form asks for education facility ([view field rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Field%20rules.md#school-fields))|Internal to VA|x|x|x|x|
+|Address Validation API|Validate address when form asks for address ([view field rules](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/design/Fields%2C%20options%20and%20labels/Location%20and%20postal%20code.md#1-general-rules))|Internal to VA|x|x|x|x|
+|Mapbox|x|External to VA|x|x|x|x|
+|Datadog|x|x|x|x|x|x|
+|Google Analytics 4 (GA4)|x|x|x|x|x|x|
+|[Other systems]|x|x|x|x|x|
+
 ---
 - List the connections your team makes/maintains with systems outside the Platform AWS Environment
    - Note: Ex: Datadog, GA4, VBA, Search.gov, ID.me, etc....  
@@ -58,6 +70,3 @@ In this doc:
 
 ## Data flow diagram
 - [**Data flow diagram**](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/engineering/collaboration-cycle/architecture-intent/diagrams/ask-va/data-flow-20250106.md)
----
-Provide a data flow diagram that shows your product’s relationship to Platform 
-Reference: [What is considered PII?](https://dsva.slack.com/archives/C01CJV0L9PS/p1751551763852079)
