@@ -8,8 +8,25 @@ Megan Graham megan.graham@adhocteam.us
 
 [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/research/2025-07-dependent-management-content-study/research-plan.md)
 
+[Link to Design A](https://www.figma.com/proto/bvj72inycD0iZkuCbjYTWL/prototype?starting-point-node-id=7352:20072)
 
-## Initial Findings
+[Link to Design B](https://www.figma.com/proto/bvj72inycD0iZkuCbjYTWL/prototype?starting-point-node-id=7355:39612)
+
+## Findings Summary
+We had three main questions for the content portion of this study.
+
+`1.` **What type of content on the "Your VA dependents" page, especially in the alert box, is most effective in helping Veterans understand and complete the dependents verification process?**
+
+- **Findings:** Responses were very similar in Design A and Design B. After looking at the page including the alert box, participants said that they would make any changes that were necessary to their dependents. They also mentioned checking to see if their dependents were correct but did not seem to realize they should click on the link to document that their dependents were correct. Also, when asked about the alert box half of partcipants viewing Design A said they didn't see, remember, or read the alert.
+
+`2.` **How is it most natural for Veterans to respond after reviewing the current state of the dependents on their benefits?**
+- **By indicating Yes they need to make changes or No they do not need to make changes**
+- **OR by indicating Yes the current information is correct or No the current information is not correct**
+
+`3.` **Do Veterans understand that if they need to make changes to the dependents on their VA benefits they will need to fill out an additional form or forms?** 
+  
+
+## Data
 These findings are an analysis of the answers participants gave to pre-study, prototype, and post-study questions. The pre-study and post-study findings group answers from participants who viewed Designs A and B together. The prototype question analysis is broken down into the two designs.
 
 
