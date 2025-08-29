@@ -1,0 +1,16 @@
+name: "10-7959C CHAMPVA Other Health Insurance Certification form"
+entry_name: 10-7959C
+description: "Product description"
+team: "ivc-forms"
+github-label: "10-7959c"
+urls:
+  production: "https://www.va.gov/family-and-caregiver-benefits/health-and-disability/champva/submit-other-insurance-form-10-7959c/"
+  staging: "https://staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/family-and-caregiver-benefits/health-and-disability/champva/submit-other-insurance-form-10-7959c"
+manifest_url: "https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/ivc-champva/10-7959C/manifest.json"
+measurement:
+  datadog_dashboard: "https://..."
+  domo_dashboard: "https://..."
+  google_analytics: "https://..."
+  project_board: "https://"
+  research_repo: "https://..."
+status: "active" # active, maintenance, sunset

@@ -1,0 +1,16 @@
+name: 10-10D Application for CHAMPVA benefits
+entry_name: 10-10D  # Must match vets-website manifest.json
+description: "Product description"
+team: "ivc-forms"  # MUST match teams/[portfolio]/[team-name]/ directory and team name in README.md
+github-label: "10-10d"
+urls:
+  production: "https://..."
+  staging: https://staging.va.gov/ivc-champva/10-10d-extended/
+manifest_url: https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/ivc-champva/10-10D/manifest.json
+measurement:
+  datadog_dashboard: "https://..."
+  domo_dashboard: "https://..."
+  google_analytics: "https://..."
+  project_board: "https://"
+  research_repo: "https://..."
+status: "active" # active, maintenance, sunset
