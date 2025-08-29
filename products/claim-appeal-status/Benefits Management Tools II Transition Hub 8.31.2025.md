@@ -103,7 +103,7 @@ Once we finish investigating why EVSS is still getting hits (Jane working on thi
 - [BMT2 Manual Process for Analyzing Contact Center & Medallia Data](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/BMT2%20Manual%20Process%20for%20Analyzing%20Contact%20Center%20%26%20Medallia%20Data.md)
 - [Call Center and Medallia Data Analysis](https://dvagov.sharepoint.com/:f:/r/sites/vaabdvro/Shared%20Documents/Benefits%20Management%20-%20CST/cst%20-%20document%20uploads%20+%20upload%20status/Call%20Center%20and%20Medallia%20Data%20Analysis?csf=1&web=1&e=ANP5jy)
 - [Call Center Data Analysis/Synthesis](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1730231194923/cb140daff8eb9a2988238c992ec32e7c9c4963c6?sender=ub840cb68d1886aa35b202891)
-- [Spreadsheet with Raw Data Analysis](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Benefits%20Management%20-%20CST/cst%20-%20analytics%20+%20success%20metrics/CST%20call%20center%20and%20medallia%20data/COPY----MyVA411%20-%20call%20notes%20-%2002.01.2024%20-%2009.30.2024%20-%2021.xlsx?d=w3bf22df3e5c64deaab9914e5772b71bd&csf=1&web=1&e=kZDkvU&nav=MTVfe0FCMERDNzM0LTFFMUQtNDU5Ni05MDE4LUFBNTdEM0VFNTI0NX0)
+- [Spreadsheet with Raw Data Analysis](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Benefits%20Management%20-%20CST/cst%20-%20analytics%20+%20success%20metrics/CST%20call%20center%20and%20medallia%20data/COPY----MyVA411%20-%20call%20notes%20-%2002.01.2024%20-%2009.30.2024%20-%2021.xlsx?d=w3bf22df3e5c64deaab9914e5772b71bd&csf=1&web=1&e=Z64h5o)
 - [Call center data analysis (Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1730231194923/cb140daff8eb9a2988238c992ec32e7c9c4963c6)
 
 ---
@@ -208,11 +208,11 @@ Below are the initiatives worked on during the contract, with links to their res
 
 [Your VA benefit letters and documents (Figma)](https://www.figma.com/design/61I2UcRPJDXdw0xCl9BlEe/Your-VA-benefit-letters-and-documents?node-id=0-1&p=f&t=VZj88nDIza2UMwRm-0)
 
-[Mailing address validation alerts (SharePoint)](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/_layouts/15/Doc.aspx?sourcedoc=%7BDF[%E2%80%A6]alidation%20alerts.docx&action=default&mobileredirect=true)
+[Mailing address validation alerts (SharePoint)](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Benefits%20Management%20-%20CST/VA%20Letters%20and%20Documents/Mailing%20address%20validation%20alerts.docx?d=wdf65f9df17af453bbb251c9982b0a33c&csf=1&web=1&e=7zivez)
 
-[VA Benefit Letters Checkbox Labels (SharePoint)](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/_layouts/15/Doc.aspx?sourcedoc=%7B6F[%E2%80%A6]0Checkbox%20Labels.docx&action=default&mobileredirect=true)
+[VA Benefit Letters Checkbox Labels (SharePoint)](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Benefits%20Management%20-%20CST/VA%20Letters%20and%20Documents/VA%20Benefit%20Letters%20Checkbox%20Labels.docx?d=w6f78bea8fbc24f3c996ace23ca3d643f&csf=1&web=1&e=JPqaKy)
 
-[Note-taking VA benefit letters and documents research sessions (SharePoint)](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/_layouts/15/Doc.aspx?sourcedoc=%7B31[%E2%80%A6]nd-docs-study-2025.xlsx&action=default&mobileredirect=true)
+[Note-taking VA benefit letters and documents research sessions (SharePoint)](https://dvagov.sharepoint.com/:x:/r/sites/vaabdvro/Shared%20Documents/Benefits%20Management%20-%20CST/VA%20Letters%20and%20Documents/Research/notetaking-VA-benefit-letters-and-docs-study-2025.xlsx?d=w316f365edb684deebe30e5b5d8c0c0e0&csf=1&web=1&e=pRbOSv)
 
 [Collaboration Cycle for [BMT2, Claim Status Tool, VA Letters and Documents] #98499](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1452)
 
@@ -226,13 +226,13 @@ Below are the initiatives worked on during the contract, with links to their res
 
 [Evidence requests (Figma)](https://www.figma.com/design/P9rl860Qt8qqVFZGg4sejE/Evidence-Requests?node-id=0-1&p=f&t=K6DMW1XVl7VvimiI-0)
 
-[Evidence request description drafting (SharePoint)](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/_layouts/15/Doc.aspx?sourcedoc=%7B38[%E2%80%A6]iptions%20drafting.docx&action=default&mobileredirect=true)
+[Evidence request description drafting (SharePoint)](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Benefits%20Management%20-%20CST/cst%20-%20evidence-requests/evidence%20request%20descriptions%20drafting.docx?d=w384ff0e8c5e943ee92522e04d2ad05f3&csf=1&web=1&e=slnO7o)
 
-[Evidence Request Content Worksheet (SharePoint)](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/_layouts/15/Doc.aspx?sourcedoc=%7B6D[%E2%80%A6]idence%20requests).docx&action=default&mobileredirect=true)
+[Evidence Request Content Worksheet (SharePoint)](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Benefits%20Management%20-%20CST/cst%20-%20evidence-requests/Content%20Worksheet%20(VA%20evidence%20requests).docx?d=w6dc2e2711afd48d5be7e028ddd26ec7c&csf=1&web=1&e=zlch0K)
 
-[PTSD evidence requests unedited (SharePoint)](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/_layouts/15/Doc.aspx?sourcedoc=%7B12[%E2%80%A6]-evidence-requests.docx&action=default&mobileredirect=true)
+[PTSD evidence requests unedited (SharePoint)](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Benefits%20Management%20-%20CST/cst%20-%20evidence-requests/PTSD%20evidence%20requests%20(unedited).docx?d=w1269d93255d2462ea1fcc40c852a1772&csf=1&web=1&e=TIEYKB)
 
-[Initiative Brief – Evidence Request Improvements (SharePoint)](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/_layouts/15/Doc.aspx?sourcedoc=%7BEA[%E2%80%A6]est%20improvements.docx&action=default&mobileredirect=true)
+[Initiative Brief – Evidence Request Improvements (SharePoint)](https://dvagov.sharepoint.com/:w:/r/sites/vaabdvro/Shared%20Documents/Benefits%20Management%20-%20CST/cst%20-%20evidence-requests/Initiative%20Brief%20%E2%80%93%20Evidence%20Request%20improvements.docx?d=wea2c511ba28d4afdb69604b75b9a062e&csf=1&web=1&e=ivmouJ)
 
 [Collaboration Cycle for [BMTII, Claim Status Tool, Evidence Requests Pattern] #105105](https://github.com/department-of-veterans-affairs/va.gov-team/milestone/1513)
 
@@ -241,8 +241,6 @@ Below are the initiatives worked on during the contract, with links to their res
 [Supplemental claim and higher level review improvement Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Supplemental%20claim%20and%20higher%20level%20review%20improvement%20initiative.md)
 
 [Supplemental claims (Figma)](https://www.figma.com/design/T2cH3R8rckAlIFNwgx214H/CST---Supplemental-Claim?node-id=62-891&p=f&t=XLnuhDNhzWzijtEn-0)
-
-[Migration Approach for Supplemental Claims and Higher Level Reviews](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/claim-appeal-status/CST%20Product/Supplemental%20claim%20and%20higher%20level%20review%20improvement%20initiative.md) 
 
 ## 4. Payments History – Suppressed 3rd Party Payments
 
