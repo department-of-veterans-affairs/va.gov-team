@@ -41,7 +41,7 @@ body:
 - type: markdown
   attributes:
     value: |
-      ## About your initiative
+      ## 📝 About your initiative
 - type: checkboxes
   attributes:
     label: Which of these descriptions best fits the work we'll partner on? (Select all that apply)
