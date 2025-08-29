@@ -22,7 +22,7 @@ Included in this section are descriptions of use cases for the missing contact i
 - **Staging user:** Any staging user can be used to view the alert. However, they may need to be set up by removing the contact email address and/or mobile phone number from the contact information page. vets.gov.user+12@gmail.com currently does not have a mailing address
 - **Format:** Default Alert Component
 - **Link to designs:** Missing Contact Information Alert
-- **Link to code:** ???
+- **Link to code:** [Alert](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/profile/components/alerts/ContactInfoNeeded.jsx) and placement on the [dashboard](https://github.com/department-of-veterans-affairs/vets-website/blob/2065c3ce67945b9a8f79f07e651d851f203b4f3f/src/applications/personalization/dashboard/components/Dashboard.jsx#L123)
 - **Content:**
 Header: We need your contact information
 Body: We're missing some contact information for you. Add your full contact information so that we can contact you about your VA benefits
