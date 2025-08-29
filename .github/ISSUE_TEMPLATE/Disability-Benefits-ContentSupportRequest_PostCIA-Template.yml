@@ -15,7 +15,7 @@ body:
 
 - type: textarea
   attributes:
-    label: About your request
+    label: 🏷️ About your request
     placeholder: Tell us what you need
   validations:
     required: true
@@ -23,7 +23,7 @@ body:
 - type: markdown
   attributes:
     value: |
-      ## Relevant links and artifacts   
+      ## 🔗 Relevant links and artifacts 📑  
 - type: input
   attributes:
     label: "Name and issue # of the parent epic"
