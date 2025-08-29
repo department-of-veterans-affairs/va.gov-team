@@ -37,11 +37,11 @@ body:
 - type: input
   attributes:
     label: C&IA ticket #
+  validations:
+    required: true
 - type: input
   attributes:
     label: Figma where final content should be provided
-  validations:
-    required: true
 
 - type: input
   attributes:
