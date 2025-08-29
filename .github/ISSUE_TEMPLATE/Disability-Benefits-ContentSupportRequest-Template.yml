@@ -44,7 +44,7 @@ body:
   attributes:
     value: ## About your initiative
 - type: checkboxes
-  attributes: 
+  attributes:
     label: Which of these descriptions best fits the work we'll partner on? (Select all that apply)
     options:
       - label: Digiitzing a new form
