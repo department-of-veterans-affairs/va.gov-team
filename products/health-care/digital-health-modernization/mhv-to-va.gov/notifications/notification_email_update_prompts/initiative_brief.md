@@ -63,7 +63,6 @@ Note: Because we do not copy over emails right now from VA.gov profile to MHV af
 | ----- | ---- | ---- | ---- |
 | Veterans with mismatched VA Profile and MHV emails verify or change their email addresses | 0 | 800k | Data source is an SQL database query that cannot be linked. |
 | Veterans without an email address in VA Profile add one | 66K | 0 | Data source is an SQL database query that cannot be linked. |
----
 
 ## Discovery
 ### Assumptions/Risks
@@ -145,8 +144,6 @@ We're going to have 1-2 more email campaigns prompting users to review their ema
 
 > *Which groups/orgs are necessary to make this happen?*
 
---- 
-
 ## Launch Planning
 ### Collaboration Cycle
 - [Kickoff ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116216)
@@ -162,8 +159,6 @@ We're going to have 1-2 more email campaigns prompting users to review their ema
 
 **Actual Launch Date** 
   - tbd
-
----
    
 ## Screenshots
 ### Before
@@ -187,7 +182,6 @@ We're going to have 1-2 more email campaigns prompting users to review their ema
 
 ### After
 [View designs in Figma](https://www.figma.com/design/CAChU51fWYMZsgDR5RXeSc/MHV-Landing-Page?node-id=5465-1304)
----
 
 #### Communications
 *Where will you discuss this initiative?*
