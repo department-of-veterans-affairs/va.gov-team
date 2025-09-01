@@ -19,7 +19,7 @@
 - LOA3 user who is not enrolled in healthcare and doesn't have a contact email on file - should see not available alert instead of the 1095-B checkbox. Should also see missing email alert and be able to add one. | vets.gov.user+78@gmail.com (you can go to /contact-information and remove their contact email to test)
 
 ### List of known issues and bugs
-- TBD
+- None
 
 ### Content & IA ticket
 - https://github.com/department-of-veterans-affairs/va.gov-team/issues/106648
