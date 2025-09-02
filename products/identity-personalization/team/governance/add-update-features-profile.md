@@ -95,3 +95,35 @@ The following usability best practices should be kept in mind when adding or upd
    3. all error states, including system errors.
   
 8. Page level alerts and messages should be a [standard alerts](https://design.va.gov/components/alert/#examples---standard), and appear directly below the page header. Alerts within the page, such as in a section or card, should be [slim alert](https://design.va.gov/components/alert/#web-2), and appear below the header or sub header of that section.
+ 
+
+## VA.gov Profile content standards
+### Notification settings
+[Link to current Notification settings production files for examples.](https://www.figma.com/design/e6JEtrwZCInKk9SjZktx2T/Profile---Notification-Settings?m=auto&node-id=4649-8881&t=aeIImeiPytf4vfpe-1)
+
+Notification settings checkbox groups are made up of 4 sections:
+1. Label header
+2. (Optional) Group hint text
+3. Checkbox label
+4. (Optional) Checkbox description
+
+Label header
+* Describes the subject of notifications.
+* Limit to 36 characters to keep text on a single line.
+* Don’t use the word ‘notification’.
+
+Group hint text
+* Provides additional information that applies to all notification types within a single subject.
+* Group hint text is optional.
+
+Checkbox label
+* Indicates which type of notification to receive.
+* Only options are:
+    * Notify me by email
+    * Notify me by text
+* If both email and text are available, email should always be listed first.
+
+Checkbox description
+* Provides additional information that applies to a single notification type.
+* Typical use case will be to indicate what information the reminders will contain.
+* Checkbox descriptions are optional.
