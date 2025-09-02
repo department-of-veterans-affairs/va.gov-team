@@ -11,7 +11,6 @@
 - **GitHub Team Name:** content-ia-team _(Exact name of GitHub team which is also found in your GitHub team link below)_
 - **GitHub Team Labels:**
   - content-ia
-  - design-system
 - **GitHub Team Link:** [https://github.com/orgs/department-of-veterans-affairs/teams/content-ia-team]
 - **Slack Channel:** [#content-ia-centralized-team](https://dsva.slack.com/channels/content-ia-centralized-team)
 
