@@ -24,7 +24,7 @@ We offer regular pairing sessions for both backend and frontend support. Select 
 
 Urgent requests are defined as issues impacting Veterans on production servers.
 
-If you need assistance with an urgent request during weekends, holidays, or outside of regular business hours, email **component--identity-authentication-email.sy4b6pv6@ecc.pagerduty.com**.
+If you need assistance with an urgent request during weekends, holidays, or outside of regular business hours, email **component--identity-authentication-email.sy4b6pv6@dsva.pagerduty.com**.
 
 ### Requests during business hours
 
