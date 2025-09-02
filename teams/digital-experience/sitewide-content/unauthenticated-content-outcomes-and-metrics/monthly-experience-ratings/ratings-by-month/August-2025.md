@@ -25,11 +25,13 @@ All pages have ratings of 2 or below.
 ### Resources and support ratings ("good" or "bad")
 
 - **Breakdown of resources and support scores by thirds:**
-  - XX% (XX of XXX) R&S pages have a 75% or higher "good" score
-  - XX% (XX of XXX) R&S pages have a 51% - 74% "good" score
-  - XX% (XX of XXX) R&S pages have a 50% or lower "good" score
+  - 47% (73 of 155) R&S pages have a 75% or higher "good" score
+  - 26% (40 of 155) R&S pages have a 51% - 74% "good" score
+  - 27% (42 of 155) R&S pages have a 50% or lower "good" score
     
 - **Breakdown of resources and support scores by 10s:*
+<img width="361" height="217" alt="image" src="https://github.com/user-attachments/assets/8d40c9d4-f667-44e2-bce1-382afe7ebd1a" />
+<img width="361" height="217" alt="image" src="https://github.com/user-attachments/assets/8bd99cda-7f13-4f33-a2bc-7efd7e01e292" />
 
 ### 5 resources and support pages with the highest "good" ratings percentage overall and at least 10 total responses
 
@@ -65,9 +67,9 @@ All pages have ratings of 2 or below.
        
 ## Analysis
 [Resources and support ratings spreadsheet]
-- We continue to not meet our goal of a 75% good rating for resources and support pages, with an average rating this month of XX%. 
+- We continue to not meet our goal of a 75% good rating for resources and support pages, with an average rating this month of 72%. 
 - Performance isn't as high when broken down to individual pages:
-  - XX% of pages are scoring at 90% or higher "good"
-  - XX% of pages are meeting our goal of 75% or higher "good," while XX% of pages are scoring 70% or higher
-  - XX% of pages are scoring at less than 50% "good," with X% scoring at less than 10% "good" 
+  - 23% of pages are scoring at 90% or higher "good"
+  - 47% of pages are meeting our goal of 75% or higher "good," while 50% of pages are scoring 70% or higher
+  - 23% of pages are scoring at less than 50% "good," with 3% scoring at less than 10% "good" 
 -  
