@@ -364,44 +364,44 @@ Some platform metrics can be less actionable if they emphasize volume without co
 
 ## Perpetual vs. Point-in-time metrics
 
-### Perpetually Monitored Metrics
+### Perpetually monitored metrics
 
 These reflect ongoing system health, reliability, and user engagement, and are needed continuously to spot regressions, trends, or emerging issues.
 
-- **Speed & Latency** (page load times, API response times, down times)
-→ Directly impacts daily user experience; must be watched continuously.
+- **Speed & Latency** (page load times, API response times, down times) <br>
+  - Directly impacts daily user experience; must be watched continuously.
 
 - **Availability** (uptime, crash rate, stability in low-connectivity environments)
-→ Core to trust and reliability; any degradation affects all users.
+  - Core to trust and reliability; any degradation affects all users.
 
 - **Reliability** (error rates, Change failure rate (CFR), Mean Time to Detect (MTTD), Mean Time to Repair (MTTR))
-→ Essential for maintaining platform stability and service quality.
+  - Essential for maintaining platform stability and service quality.
 
 - **Consistency** (data affinity with web, Veteran info returned correctly)
-→ Must be checked continuously to avoid systemic data issues.
+  - Must be checked continuously to avoid systemic data issues.
 
 - **User satisfaction** (CSAT, star ratings, in-app survey sentiment)
-→ Ongoing pulse of Veteran sentiment; tracks how changes affect experience.
+  - Ongoing pulse of Veteran sentiment; tracks how changes affect experience.
 
 - **Adoption** (downloads, segmentation growth by user characteristics)
-→ Monitored over time to assess which user groups are being reached.
+  - Monitored over time to assess which user groups are being reached.
 
 - **Retention** (monthly active users, churn, session length)
-→ Indicates whether Veterans continue to find the app valuable.
+  - Indicates whether Veterans continue to find the app valuable.
 
 ### Point-in-time metrics
 
 These are baseline insights or one-off validations that don’t require continuous monitoring. They’re useful for informing strategy or feature design but don’t change meaningfully day-to-day.
 
 - **Connectivity/offline usage needs** (baseline testing + targeted follow-ups)
-→ Capture Veteran needs once, validate occasionally, but not daily/weekly.
+  - Capture Veteran needs once, validate occasionally, but not daily/weekly.
 
 - **Qualitative sentiment analysis** (of specific performance complaints)
-→ Useful as periodic studies (e.g., post-launch review) rather than continuous.
+  - Useful as periodic studies (e.g., post-launch review) rather than continuous.
 
 - **User segmentation by characteristic** (beyond initial adoption trends)
-→ Helpful to validate inclusivity and reach, but changes slowly.
+  - Helpful to validate inclusivity and reach, but changes slowly.
 
 - **Baseline task success** (e.g., how long login or refill takes the first time)
-→ Once established, shifts should appear in other perpetual metrics (like latency).
+  - Once established, shifts should appear in other perpetual metrics (like latency).
 
