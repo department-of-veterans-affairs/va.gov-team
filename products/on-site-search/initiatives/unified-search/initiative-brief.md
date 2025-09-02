@@ -34,14 +34,18 @@ We currently have multiple search solutions in place across various experiences 
 > 💡 *Identify balancing metrics to ensure you're not bringing about undesired outcomes.*
 
 **Search relevancy**
-1. Improve "no results" queries without use of manually entered recommendations (i.e. Best Bets)  
+1. Improve accuracy of results
+    - [List of current inaccurate or misleading search scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/analytics/problematic-search-queries.md)
+    - Analysis of the relevancy of the top 10 results
+    - Review of relevancy of top result
+
+2. Improve "no results" queries without use of manually entered recommendations (i.e. Best Bets)  
     - [Top no results queries](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/analytics/2025.md#top-queries-with-no-results)
 
-2. Improve CTR of top queries
+3. Improve CTR of top queries
     - [Top queries and CTR](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/analytics/2025.md#top-queries)
 
-3. Improve accuracy of results
-    - [List of current inaccurate or misleading search scenarios](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/analytics/problematic-search-queries.md)
+
 
 **Search performance**
 1. Improve response time
