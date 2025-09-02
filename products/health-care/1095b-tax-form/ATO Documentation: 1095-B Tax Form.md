@@ -1,5 +1,5 @@
 ## ATO Documentation: 1095-B Tax Form
-**_Last Updated: MM/DD/YYYY_**
+**_Last Updated: 08/27/2025_**
 
 _Please Note: The Veteran-Facing Services Platform ATO boundary includes all environments: Dev, Staging, Utility, Sandbox, and Production, as well as all VFS teams/Products, Platform teams, CMS, VA Notify, and VA Mobile. If the environments your team uses have different configurations, we will need this information for each environment._
 
@@ -18,7 +18,7 @@ _Please Note: The Veteran-Facing Services Platform ATO boundary includes all env
 
 4. What is the expected duration of your project? This information helps us understand how our processes need to adapt
 
-   We maintain this product so there are always have items on our roadmap for it. In the short term we are rearchitecting the backend to pull tax data from a new API endpoint rather than the current way of storing and reading files from S3.
+   We maintain this product so there are always items on our roadmap for it. In the short term we are rearchitecting the backend to pull tax data from a new API endpoint rather than the current way of storing and reading files from S3.
 
 #### AWS Resources
 1. List AWS services used.
