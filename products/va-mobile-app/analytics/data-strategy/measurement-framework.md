@@ -1,9 +1,9 @@
 # Defining the Most Important Metrics for the VAHB Mobile App
 
 ### Quick links on this page <br>
-- [Experiential metrics](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/va-mobile-app/analytics/data-strategy/measurement-framework.md#experiential-metrics) <br>
-- [Platform metrics](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/va-mobile-app/analytics/data-strategy/measurement-framework.md#platform-metrics) <br>
-- [Unhelpful platform metrics](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/va-mobile-app/analytics/data-strategy/measurement-framework.md#unhelpful-platform-metrics) <br>
+- [Experiential metrics](#experiential-metrics) <br>
+- [Platform metrics](#platform-metrics) <br>
+- [Unhelpful platform metrics](#unhelpful-platform-metrics) <br>
 - [Perpetual vs. point-in-time metrics](#perpetual-vs-point-in-time-metrics)
 
 
