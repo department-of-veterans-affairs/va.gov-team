@@ -8,11 +8,11 @@
 
 - **Team Name:** Content and Information Architecture
 - **Short Name:** content-and-ia _(Used for directory URLs and should ideally match your GitHub team name below)_
-- **GitHub Team Name:** [github-team-name] _(Exact name of GitHub team which is also found in your GitHub team link below)_
+- **GitHub Team Name:** content-ia-team _(Exact name of GitHub team which is also found in your GitHub team link below)_
 - **GitHub Team Labels:**
-  - [github-label-1]
-  - [github-label-2]
-- **GitHub Team Link:** [https://github.com/orgs/department-of-veterans-affairs/teams/github-team-name]
+  - content-ia
+  - design-system
+- **GitHub Team Link:** [https://github.com/orgs/department-of-veterans-affairs/teams/content-ia-team]
 - **Slack Channel:** [#content-ia-centralized-team](https://dsva.slack.com/channels/content-ia-centralized-team)
 
 ### Organizational Affiliation
@@ -20,8 +20,8 @@
 - **VA Business Owner:** OCTO
 - **Portfolio:** Digital Experience
 - **Crew or Pod:** Content, IA, and Editor Experience
-- **Contracting Organization:** [Name of contracting company, if applicable]
-- **Contract:** [Current contract](https://dvagov.sharepoint.com/sites/oitoctocontracts/Contracts/Forms/AllItems.aspx) _Update to point to your specific contract file._
+- **Contracting Organization:** Oddball
+- **Contract:** [OCTO Quality and Delivery Support](https://dvagov.sharepoint.com/sites/oitoctocontracts/Contracts/Forms/AllItems.aspx) _Contract for quality and delivery support services._
 
 ### Team Roster
 
