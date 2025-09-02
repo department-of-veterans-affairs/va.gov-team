@@ -1,4 +1,4 @@
-# Initiative brief: Unified search - Manage search POC
+# Initiative brief: Unified search - Managed search POC
 
 ## Outcome Summary
 Site visitors can utilize a single search experience to find the information they need regardless of where the information is stored - general web content, facility location data, forms database, authenticated or personal information.   
