@@ -1,8 +1,7 @@
-# Note: This page is in draft
 # Unauthenticated page experience ratings: August 2025
 ## Related overall scores
 - **Total customer satisfaction score:** 62.8% (0% change from last period)
-- **Average resources and support good/bad experience score:** XX% "good" experience rating overall XXXXX out of XXXXX total)
+- **Average resources and support good/bad experience score:** 72% "good" experience rating overall 12,187 out of 17,011 total)
 
 ## Experience ratings (1 to 5 scale)
 
@@ -66,10 +65,12 @@ All pages have ratings of 2 or below.
 5. [How to change your legal name on file with VA](https://www.va.gov/resources/how-to-change-your-legal-name-on-file-with-va/) (44% good out of 80 total responses)
        
 ## Analysis
-[Resources and support ratings spreadsheet]
+[Resources and support ratings spreadsheet](https://dvagov-my.sharepoint.com/:x:/r/personal/randi_hecht_va_gov/Documents/Documents/Analytics/Resources%20and%20support%20ratings%20tracking%20August%202025.xlsx?d=w57f1fbe841a441a4932c83df3c1e400d&csf=1&web=1&e=J6WUCW)
 - We continue to not meet our goal of a 75% good rating for resources and support pages, with an average rating this month of 72%. 
 - Performance isn't as high when broken down to individual pages:
   - 23% of pages are scoring at 90% or higher "good"
   - 47% of pages are meeting our goal of 75% or higher "good," while 50% of pages are scoring 70% or higher
   - 23% of pages are scoring at less than 50% "good," with 3% scoring at less than 10% "good" 
--  
+- Sign-in related pages continue to score poorly. We still believe this is more about the process than the content on the pages, but we'll continue to monitor Medallia feedback to learn if there are any changes we can make to improve these pages.
+- For a third month in a row we had a high number of responses (2,059) for the page "How to renew a VA prescription." This month was only a 51% good rating. We reviewed Medallia feedback for July 2025 and sent the product team comments. We'll review feedback again this month to determine if these are the same issues and if there is anything we can do with the content to improve this score.
+- For the second month since the page has moved to R&S, the VA claim exam page was one of pages with the highest volume of responses (790) and a a very high "good" rating (92%).
