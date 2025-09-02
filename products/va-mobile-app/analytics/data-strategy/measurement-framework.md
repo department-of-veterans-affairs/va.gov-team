@@ -4,7 +4,7 @@
 - [Experiential metrics](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/va-mobile-app/analytics/data-strategy/measurement-framework.md#experiential-metrics) <br>
 - [Platform metrics](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/va-mobile-app/analytics/data-strategy/measurement-framework.md#platform-metrics) <br>
 - [Unhelpful platform metrics](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/va-mobile-app/analytics/data-strategy/measurement-framework.md#unhelpful-platform-metrics) <br>
-- [Perpetual vs. point-in-time metrics](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/va-mobile-app/analytics/data-strategy/measurement-framework.md#perpetual-vs-point-in-time-metrics)
+- [Perpetual vs. point-in-time metrics](#perpetual-vs-point-in-time-metrics)
 
 
 ## What story are we trying to tell through the data?
