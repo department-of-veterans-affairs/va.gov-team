@@ -1,12 +1,12 @@
-2025-08 Explore decision reviews for your disability claim
-Conversation Guide
+## **2025-08 Explore decision reviews for your disability claim**
+## Conversation Guide
 Team: Decision Reviews
 Written by: Kyra Berman-Gestring & Lauren Dawson
 Last modified: Sep 2, 2025
 Uploaded to Github:  Sep 2, 2025
 
 
-Moderator logistics 
+## Moderator logistics 
 2-3 days before the session
 [!NOTE] Review VA Platform's Research Checklist.
 List and complete any project-specific setup tasks for this study below:
@@ -14,20 +14,20 @@ Create note-taking doc (?) for sessions.
 Slack channel creation / communication
 
 
-Day of the session
+## Day of the session
 Use #feedback-backchannel in Slack for real-time feedback from observers.
 Mute your Slack notifications.
 Send out the observer instructions to your observers (Slackbot will do this for you if you type "observer instructions" into #feedback-backchannel).
 
 
-Starting the session
+## Starting the session
 In the Attendees section, make sure everyone except the participant is on mute.
 In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
 Check your [screensharing setup] and share permissions for participants.
 When the participant is ready, begin the session with the following intro*
 
 
-Section 1: Introduction - 5-10 minutes
+## Section 1: Introduction - 5-10 minutes
 Thank you so much for joining us today! My name is [NAME] and I work at VA.gov to help improve access to benefits and services for Veterans like you. [NOTETAKER NAME] will be taking notes. I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them...
 Today we're going to talk about choosing a decision review pathway. We’re working on an online guide to assist Veterans with exploring the review options available after a disability claim decision has been made. I’ll walk you through the guide and ask for your honest feedback so we can improve it.
 Before we start, I have a few things that I want to go over with you:
@@ -91,8 +91,8 @@ On a scale of 1-4, how well do you currently feel you understand the decision re
 4: I understand them very well (Could explain each option to another Veteran, has completed a DR in the past)
 
 
-Section 2: Work through their own situation - 20-25 minutes
-Set the Task
+## Section 2: Work through their own situation - 20-25 minutes
+## Set the Task
 “For today’s session, imagine you’re on VA.gov, looking to ask VA to reconsider your disability benefits decision. You will be navigating through a guide to explore the review options available to you, to help you select the decision review option that fits your needs. The guide will ask a few high-level questions—no sensitive details—and anything you enter is for testing purposes only; none of the information you enter will impact your benefits in any way.” If it’s okay with you, we’d like you to answer the questions today as if you were using this on your own- providing answers based on your own personal situation.
 Caveat: We’re interested in two things: how easy it is to use and does the way the information is presented support your decision making process. Some details haven’t yet been fully aligned with official VA policy, so please don’t rely on the information you see here to make decisions about your own situation.”
 Task 1: Launch the guide
@@ -101,9 +101,9 @@ Link:   UNAUTHENTICATED LINK TO STAGING HERE
 “Next, I’d like you to share your screen for the remainder of the session. If you need help figuring out how to share your screen I am happy to troubleshoot.”
 [Troubleshooting guide for mobile: https://depo-platform-documentation.scrollhelp.site/research-design/research-mobile-sessions
 General troubleshooting: https://depo-platform-documentation.scrollhelp.site/research-design/troubleshooting-for-va-gov-research-sessions-in-pr ]
-Introduction Screen
+## Introduction Screen
 “Take some time to read through this screen. When you’re ready, please talk me through what you would expect to do before selecting any links. Please do not select any links or leave the page yet– but tell me verbally if there is an action you would like to take.”
-Intro screen questions
+## Intro screen questions
 “In your own words, what do you think the Explore disability claim decision review options guide is for? What do you expect to get out of this guide?”
 “What types of claims do you think this guide supports?”
 “What, if anything, would you like to know before starting the guide?”
@@ -120,7 +120,7 @@ If they click on links, ask:
 “After viewing, where would you expect to return?”
 
 
-Task 2: Answer Explore disability claim decision review options questions
+## Task 2: Answer Explore disability claim decision review options questions
 “Now that you have had a chance to read through the introductory screen, go ahead and start. Please answer the questions true to your situation, to the best of your ability.  I will mostly just observe you working through this process. If you can, please remember to talk out loud to share your thought process as you read through the guide to help me understand your experience.”
 
 Observe the Veteran working through the questions as they correspond to their own situation.
@@ -146,12 +146,12 @@ Are there questions or considerations shared/reported?
 Note which links the Veteran would select and note any comments they have about the information provided.
 
 
-Task 3: Select an option on the summary screen
+## Task 3: Select an option on the summary screen
 Was the Veteran able to reach the summary screen successfully and without help?
 Yes, participant reached the summary screen successfully.
 No, participant didn’t reach the summary screen/needed assistance.
 “You’ve reached the summary screen. I’m going to stop you here so that I can ask some questions. Take a minute and read through this page and please describe what you’re experiencing.”
-Summary screen questions
+## Summary screen questions
 “Is this screen what you expected to find? Why / why not?”
 
 
@@ -166,7 +166,7 @@ Summary screen questions
 Has your review option changed from what you originally expected?  And if so, what about the Explore your options guide led you to reconsider your choice?
 
 
-If the Veteran lands on the following summary screens:
+## If the Veteran lands on the following summary screens:
 Non-DR summary Screens
 1.1.B.1
 DR may not be available because you haven’t filed an initial claim.
@@ -395,7 +395,7 @@ Task 4: Evaluate best option on summary screen against previous preference.
 
 
 
-At the summary screen:
+## At the summary screen:
 “Please list out—aloud—all the Decision Review pathways the guide tells you are available to you. Explain which one you would choose now and why.”
 Questions:
 What makes the hearing option appealing—or less appealing—after seeing the other choices?
@@ -403,7 +403,7 @@ Which factors (time, evidence rules, chance of success, etc.) influenced your de
 Was any information missing that you needed to feel confident about picking a different option?
 
 
-Section 4: Post Session Interview - 10 minutes
+## Section 4: Post Session Interview - 10 minutes
 Thank you for your feedback. Now, I am going to ask you some questions about your overall experience using the Explore disability claim decision review options guide.
 Overall rating questions
 Now that you’ve used the Guide, how well do you feel you understand the VA decision review options, their requirements, and which one applies to your situation?”
@@ -435,7 +435,7 @@ Overall, on a scale of 1 to 4, how confident are you that the questions you answ
 What, if anything, was burdensome or confusing about the experience overall?
 
 
-Overall Post Questions
+## Overall Post Questions
 Would you recommend this tool to a friend? Why / why not?
 Do you have any questions for us about the Explore disability claim decision review options guide?
 How might you use this tool in the future?
@@ -450,7 +450,7 @@ Imagine you’re explaining the Guide to another Veteran. What is its purpose an
 What types of claims do you think this guide supports?
 
 
-Section 5: Wrap up - 5 minutes
+## Section 5: Wrap up - 5 minutes
 Consent to use video clips
 I want to circle back and ask one more question that we ask all participants about the video recording: Is it okay with you if we share a video clip of part of this session with our VA partners? We'd want to do this if we find a clip that demonstrates the need for an improvement or other helpful example of Veteran needs. We remove all information that could be used to identify you before sharing and would only share the video clips with VA partners with the purpose of improving VA.gov and other digital experiences.
 
@@ -458,14 +458,14 @@ If yes: Is there any part of our discussion you would NOT want shared in a video
 
 
 
-Thank you and closing
+## Thank you and closing
 “We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work to improve the website for Veterans.
 Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
 Thank you so much again, and enjoy the rest of your day!”
 
 
 
-Emergency Exit 🆗
+## Emergency Exit 🆗
 Pause or exit strategies
 If the participant can't screen share after troubleshooting
 I really appreciate your patience through this. I'm sure you know, it can be really frustrating when technology is not our friend. Since we're not able to set up screen share, we're going to end the session now. You're still going to be compensated for the full session. Thanks again for joining us and we'll hopefully see you back here again for another study.
@@ -488,7 +488,7 @@ Thanks for letting me take a break. You didn't do anything wrong, but I'm realiz
 
 
 
-Appendix:
+## Appendix:
 Rating scale questions for quick copy and paste into the participant’s chat to be placed here once approved and finalized. 
 Example:
 Warm-up Questions
