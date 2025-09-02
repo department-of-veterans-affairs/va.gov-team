@@ -156,7 +156,7 @@ You can click the continue button.
 >
 > ### Things to watch for:
 >
-> - Does the participant get tripped up by the death question?
+> - How does the participant respond to the death question?
 > - Does the participant understand the purpose of the page?
 > - Does the participant think they should make any changes?
 
@@ -174,8 +174,8 @@ You can click the continue button.
 >
 > ### Things to watch for:
 >
-> - Does the participant get tripped up by the question in any way?
-> - Does the participant have the right information on the screen?
+> - Does the participant indicate that they are confused by any question(s)?
+> - Does the participant indicate that they need additional information on the screen?
 
 ## 3a. Task goal: Validate whether Veterans can make the right selection for their son getting married and move on in the form. - 5 minutes [Changes to Jared Patel]
 
@@ -191,8 +191,8 @@ You can click the continue button.
 >
 > ### Things to watch for:
 >
-> - Does the participant get tripped up by the question in any way?
-> - Does the participant have the right information on the screen?
+> - Does the participant indicate that they are confused by any question(s)?
+> - Does the participant indicate that they need additional information on the screen?
 
 ## 4. Task goal: Validate whether Veterans understand what's coming next: Adding dependents. - 5 minutes [Review reasons you can add a dependent]
 
@@ -207,8 +207,8 @@ You can click the continue button.
 >
 > ### Things to watch for:
 >
-> - Does the participant get tripped up by the question in any way?
-> - Does the know what's coming next?
+> - Does the participant indicate that they are confused by any question(s) or information?
+> - Does the participant indicate that they need additional information on the screen?
 
 ## 4a. Task goal: Validate whether Veterans understand who they need to add: A parent. - 5 minutes [Who do you want to add as a dependent?]
 
@@ -220,7 +220,7 @@ You can click the continue button.
 >
 > ### Things to watch for:
 >
-> - Does the participant get tripped up by the question in any way?
+> - Does the participant indicate that they are confused by any question(s) or information?
 
 ## 4b. Task goal: Validate whether Veterans would finish the form. - 10 minutes [Update your dependents using different forms]
 
@@ -326,7 +326,8 @@ You can click the continue button.
 >
 > ### Things to watch for:
 >
-> - Does the participant get tripped up by the death question?
+> - Does the participant indicate that they are confused by any question(s) or information?
+> - Does the participant indicate that they need additional information on the screen?
 > - Does the participant understand the purpose of the page?
 > - Does the participant think they should make any changes?
 > - They would need to enter the date Jared got married
