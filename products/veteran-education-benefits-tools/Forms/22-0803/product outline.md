@@ -6,7 +6,7 @@
 ## Overview
 *After you've explored the problem and through testing / hypothesis have identified the ideal solution, write up one sentence describing the solution you'll be creating.*
 
-* Currently available as a PDF-only download, the 22-0803 form is used for reimbursement for license and certification test fees.  Digitizing the form will increase VA efficiencies and streamline and enhance the overall user experience. *
+*Currently available as a PDF-only download, the 22-0803 form is used for reimbursement for license and certification test fees.  Digitizing the form will increase VA efficiencies and streamline and enhance the overall user experience.*
 
 ## Problem Statement
 *In a couple of sentences, describe the Who, What, Why, and Where of the challenge / pain point you seek to address. [Here's a sample problem statement definition activity you can try on your team to help generate this](https://www.atlassian.com/team-playbook/plays/problem-framing)*
@@ -16,7 +16,7 @@
 
 Who: Veterans and beneficiaries 
 
-What: The current Request for Reimbursement of Licensing or Certification Test Fees form exists as a PDF, which limits accessibility and convenience. 
+What: The current Request for Reimbursement of Licensing or Certification Test Fees form exists as a PDF, which limits accessibility and convenience.
 
 Why: By digitizing the form, we can remove barriers to entry, making it easier for users to submit their forms. This will help improve the reimbursement process. 
 
