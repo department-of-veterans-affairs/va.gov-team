@@ -1,5 +1,12 @@
 # Defining the Most Important Metrics for the VAHB Mobile App
 
+### Quick links on this page <br>
+- [Experiential metrics](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/va-mobile-app/analytics/data-strategy/measurement-framework.md#experiential-metrics) <br>
+- [Platform metrics](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/va-mobile-app/analytics/data-strategy/measurement-framework.md#platform-metrics) <br>
+- [Unhelpful platform metrics](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/va-mobile-app/analytics/data-strategy/measurement-framework.md#unhelpful-platform-metrics) <br>
+- [Perpetual vs. point-in-time metrics](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/va-mobile-app/analytics/data-strategy/measurement-framework.md#perpetual-vs-point-in-time-metrics)
+
+
 ## What story are we trying to tell through the data?
 The data can tell 2 stories: A story about the user’s experience **(experiential metrics)** and a story about the platform’s health **(platform metrics)**.
 
