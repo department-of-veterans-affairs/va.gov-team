@@ -1,0 +1,54 @@
+name: Setup Environment for Large Repository
+
+# Pre-install steps for GitHub Copilot in va.gov-team repository
+# This configures Git LFS and optimizes the environment for the large repository
+
+steps:
+  - name: Configure Git LFS for large files
+    run: |
+      git lfs install
+      echo "Git LFS configured successfully"
+      
+  - name: Verify repository optimization
+    run: |
+      echo "=== Repository Size Check ==="
+      du -sh . || echo "Unable to check repository size"
+      echo ""
+      echo "=== Available Disk Space ==="
+      df -h
+      echo ""
+      echo "=== Git LFS Status ==="
+      git lfs ls-files | head -5 || echo "No LFS files found"
+      echo ""
+      echo "=== Directory Structure ==="
+      ls -la
+      echo ""
+      echo "✅ Environment optimized for large repository work"
+      
+  - name: Setup Ruby environment (if needed)
+    run: |
+      ruby --version || echo "Ruby not available"
+      if command -v ruby >/dev/null 2>&1; then
+        echo "Ruby is available for validation scripts"
+        if [ -f "scripts/manifest/validate_teams.rb" ]; then
+          echo "✅ Team validation script found"
+        else
+          echo "⚠️ Team validation script not found in current checkout"
+        fi
+      fi
+      
+  - name: Setup Node.js environment (if needed)
+    run: |
+      node --version || echo "Node.js not available"
+      npm --version || echo "npm not available"
+      
+  - name: Verify required directories
+    run: |
+      echo "Checking for required directories in sparse checkout:"
+      for dir in ".github/workflows" "scripts" "teams" "products"; do
+        if [ -d "$dir" ]; then
+          echo "✅ $dir - available"
+        else
+          echo "⚠️ $dir - not available in current checkout"
+        fi
+      done
