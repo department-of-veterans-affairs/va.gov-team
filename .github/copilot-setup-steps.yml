@@ -2,8 +2,22 @@ name: Setup Environment for Large Repository
 
 # Pre-install steps for GitHub Copilot in va.gov-team repository
 # This configures Git LFS and optimizes the environment for the large repository
+# CRITICAL: Must use larger GitHub Actions runners (4-core or 8-core) to handle 35GB repository
 
 steps:
+  - name: Verify runner specifications
+    run: |
+      echo "=== CRITICAL: GitHub Actions Runner Requirements ==="
+      echo "⚠️  This repository (~35GB) requires larger GitHub Actions runners"
+      echo "✅ Use: ubuntu-latest-4-cores or ubuntu-latest-8-cores"
+      echo "❌ DO NOT USE: ubuntu-latest (2-core) - will cause 'No space left on device' errors"
+      echo ""
+      echo "Current runner specs:"
+      echo "CPU cores: $(nproc)"
+      echo "Memory: $(free -h | awk '/^Mem:/ {print $2}')"
+      echo "Disk space: $(df -h / | awk 'NR==2 {print $4 " available"}')"
+      echo ""
+      
   - name: Configure Git LFS for large files
     run: |
       git lfs install

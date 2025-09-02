@@ -19,25 +19,31 @@ The repository serves as a central hub for:
 When working on tasks in this repository, **you must use the following optimized checkout settings**:
 
 ```yaml
-- name: Optimized checkout for large repository
-  uses: actions/checkout@v4
-  with:
-    # Enable Git LFS to handle large files properly
-    lfs: true
-    # Use shallow clone to reduce download size
-    fetch-depth: 1
-    # Use sparse checkout to only get necessary directories
-    sparse-checkout: |
-      .github/workflows/
-      scripts/
-      teams/
-      products/
-      platform/
-      docs/
-      templates/
-      assets/
-    sparse-checkout-cone-mode: false
-    token: ${{ secrets.GITHUB_TOKEN }}
+jobs:
+  your-job-name:
+    runs-on: ubuntu-latest-4-cores  # CRITICAL: Use larger runner
+    timeout-minutes: 60             # CRITICAL: Extend timeout
+    
+    steps:
+      - name: Optimized checkout for large repository
+        uses: actions/checkout@v4
+        with:
+          # Enable Git LFS to handle large files properly
+          lfs: true
+          # Use shallow clone to reduce download size
+          fetch-depth: 1
+          # Use sparse checkout to only get necessary directories
+          sparse-checkout: |
+            .github/workflows/
+            scripts/
+            teams/
+            products/
+            platform/
+            docs/
+            templates/
+            assets/
+          sparse-checkout-cone-mode: false
+          token: ${{ secrets.GITHUB_TOKEN }}
 ```
 
 ### Post-Checkout Setup
@@ -52,7 +58,8 @@ For additional environment verification and setup steps, see: [`copilot-setup-st
 
 ### Environment Requirements
 
-- **Use larger GitHub Actions runners** when possible: `ubuntu-latest-4-cores` or `ubuntu-latest-8-cores`
+- **CRITICAL: Use larger GitHub Actions runners** - `ubuntu-latest-4-cores` or `ubuntu-latest-8-cores`
+- **DO NOT USE `ubuntu-latest`** (2-core) - will cause "No space left on device" errors
 - **Extend timeouts** to 45-60 minutes for large operations
 - **Monitor disk space** with `df -h` to ensure sufficient space
 
@@ -219,7 +226,7 @@ ruby scripts/cleanup.rb
 2. **Enable Git LFS** - prevents large file download issues  
 3. **Use shallow clones** - significantly reduces checkout time
 4. **Monitor disk space** - verify availability during operations
-5. **Prefer larger runners** - use 4-core or 8-core when available
+5. **Use larger runners REQUIRED** - `ubuntu-latest-4-cores` or `ubuntu-latest-8-cores` (never use `ubuntu-latest`)
 
 ### Build Optimization
 - **Parallel workflows** when possible for independent tasks
