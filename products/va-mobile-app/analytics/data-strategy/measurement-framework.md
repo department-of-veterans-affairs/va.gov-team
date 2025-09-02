@@ -92,7 +92,7 @@ Each table below defines what we should measure for each experience, provides he
 |--------------------|-------------|
 | **User goal**      | *"I want to have convenient access to a digital version of (x) so that I am not worried about loss or fraud."* |
 | **What should we measure?** | Convenient access to VA benefit letters<br> * “I can conveniently provide digital proof of (x).”* |
-| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Page views<br>- Monthly letter downloads <br>- Most frequently accessed letters* <br>- # feature viewers/# of users<br>- Latency* <br>- % of errors within X period of time* <br>- User report easy to view and download VA benefit letters* <br> - Clicks VA phone number for help|
+| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Screen views <br>- Monthly letter downloads <br>- Most frequently accessed letters* <br>- # feature viewers/# of users<br>- Latency* <br>- % of errors within X period of time* <br>- User report easy to view and download VA benefit letters* <br> - Clicks VA phone number for help|
 | **How these metrics can inform decision making** | These metrics show whether the VA benefits letters performs reliably and delivers a clear, usable experience. They can inform decisions on which letters to prioritize (e.g. the most common letters users access), where to reduce errors or latency, and how to improve usability so users can quickly access and download the documents they need. |
 | **Unhelpful metrics** | Monthly letter downloads without context that breaks down the numbers by letter type |
 
@@ -118,7 +118,7 @@ Each table below defines what we should measure for each experience, provides he
 |--------------------|-------------|
 | **User goal**      | *"I need to refill my prescription."* |
 | **What should we measure?** | Ease of Prescription Refills <br> *“It was easy to get my prescription refilled.”* |
-| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Filter and tracking details* <br>- Number of clicks to My VA Health (if can't fill script in app)* <br>- Feedback from Rx survey* <br>- # feature viewers/# of users <br>- Latency* <br>- % of errors within X period of time* |
+| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Filter and tracking details* <br>- Number of clicks to My VA Health (if can't fill script in app)* <br>- Feedback from Rx survey* <br> - CSAT <br> - # feature viewers/# of users <br>- Latency* <br>- % of errors within X period of time* |
 | **How these metrics can inform decision making** | Identify pain points with Rx refill process and identify where to streamline navigation, reduce errors or latency. |
 | **Unhelpful metrics** | - Viewer counts – measures exposure, not refill completion. <br> - Average daily viewers – volume metric, doesn’t indicate success or usability. <br> - Views per user – repeated views could signal confusion, not value. <br> - Times viewed per user – same issue as above; no task completion context.|
 
@@ -170,7 +170,7 @@ Each table below defines what we should measure for each experience, provides he
 |--------------------|-------------|
 | **User goal**      | *"I want to track claim status."* |
 | **What should we measure?** | Accurate, easy to understand claim status <br> *“I know the status of my claim.”* |
-| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Click the NCC call center number* <br>- Click links on the claim status screen* <br>- Claim Details Open events* <br>- Time spend viewing per active user* <br>- Overall claims page views<br>- # feature viewers/# of users <br>- Latency* <br>- % of errors within X period of time* <br> - Clicks VA phone number for help*|
+| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Click the NCC call center number* <br>- Click links on the claim status screen* <br>- Claim Details open events* <br>- Time spend viewing per active user* <br>- Overall claims screen views<br>- # feature viewers/# of users <br>- Latency* <br>- % of errors within X period of time* <br> - Clicks VA phone number for help*|
 | **How these metrics can inform decision making** | Reveal whether the claim status feature is providing clear, self-service information. They can help us identify where to improve content clarity, navigation, and performance so users can confidently track their claims in-app without relying on external channels/calling the contact center (NCC). |
 | **Unhelpful metrics** | Most current metrics measure traffic volume (e.g. viewer counts, average daily viewers, views per user, times viewed per user, viewers month-to-month), but not whether the feature helps users actually understand their claim status or avoid needing to call NCC |
 
@@ -196,7 +196,7 @@ Each table below defines what we should measure for each experience, provides he
 |--------------------|-------------|
 | **User goal**      | *"I need to submit evidence related to my claim."* |
 | **What should we measure?** | Smooth photo or document upload <br> *“I can easily upload photos and documents to my claim.”* |
-| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Drop-offs at the "Upload Files" screen* <br>- # feature viewers/# of users <br>- Latency* <br>- % of errors within X period of time* |
+| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Successful uploads <br> - Drop-offs at the "Upload Files" screen* <br>- # feature viewers/# of users <br>- Latency* <br>- % of errors within X period of time* |
 | **How these metrics can inform decision making** | Indicate whether users can successfully complete the evidence submission process without confusion or technical barriers. They can help inform how to improve user flow, reliability, and speed so that evidence/documents can be uploaded with ease. |
 | **Unhelpful metrics** | Current metrics mostly measure traffic volume (e.g. viewer counts, average daily viewers, views per user, times viewed per user, viewers month-to-month), but not whether users can successfully submit evidence. |
 
@@ -209,7 +209,7 @@ Each table below defines what we should measure for each experience, provides he
 |--------------------|-------------|
 | **User goal**      | *"I want to understand my payment history."* |
 | **What should we measure?** | Accurate, easy to understand payment information <br> *“I can clearly understand my VA payment history.”* |
-| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Pathways to Payment history (home vs toolbar)* <br>- #feature viewers/# of users<br>- Latency* <br>- % of errors within X period of time* <br> - Clicks links or VA phone number for help* |
+| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Pathways to payment history (home vs toolbar)* <br>- #feature viewers/# of users<br>- Latency* <br>- % of errors within X period of time* <br> - Clicks links or VA phone number for help* |
 | **How these metrics can inform decision making** | Surface opportunities to improve navigation and reliability, and ensure payment history remains accessible and trustworthy. |
 | **Unhelpful metrics** | Current metrics focus on raw volume and repeat visits (e.g. viewer counts, average daily viewers, views per user, times viewed per user, viewers month-to-month), which don’t explain whether Veterans could successfully access or understand their payment history. |
 
@@ -235,7 +235,7 @@ Each table below defines what we should measure for each experience, provides he
 |--------------------|-------------|
 | **User goal**      | *"I want to manage my personal information related to my VA health benefits."* |
 | **What should we measure?** | Accurate personal data <br> *“I can easily review and manage my personal information in my VA profile.”* |
-| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Notification opt-in rates*<br>- Notification open rates*<br>- CTR* <br>- # feature viewers/# of users<br> - Latency*<br>- % of errors within X period of time*|
+| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Notification opt-in rates* <br> - Notification open rates* <br>- CTR* <br>- # feature viewers/# of users<br> - Latency* <br>- % of errors within X period of time*|
 | **How these metrics can inform decision making** | Highlight how well users can manage and personalize their app experience through profile and notification settings, guiding decisions on improving usability and reliability. |
 | **Unhelpful metrics** | Current metrics focus on volume (e.g. viewer counts, average daily viewers, views per user, times viewed per user, viewers month-to-month), which don’t explain whether Veterans could successfully update profile information. |
 
@@ -248,7 +248,7 @@ Each table below defines what we should measure for each experience, provides he
 |--------------------|-------------|
 | **User goal**      | *"I'm in crisis and need urgent support."* |
 | **What should we measure?** | Clicks to Veteran Crisis Line <br> *“I received timely crisis support via the app.”* |
-| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Clicks on red CTA* <br>- Exits to Veterancrisisline.net*<br>- # feature viewers/# of users*<br>- Latency* <br>- % of errors within X period of time* |
+| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Clicks on red CTA* <br>- Exits to Veterancrisisline.net* <br> - # feature viewers/# of users* <br>- Latency* <br>- % of errors within X period of time* |
 | **How these metrics can inform decision making** | Indicate how effectively Veterans can access urgent crisis support when needed, and ensure the visibility, reliability, and seamless handoff to external crisis resources.  |
 | **Unhelpful metrics** | Time on screen or # of users without additional context could be misleading; a short time may mean efficiency or that users immediately abandoned (doesn’t explain whether Veterans could successfully access crisis support).  |
 
@@ -261,7 +261,7 @@ Each table below defines what we should measure for each experience, provides he
 |--------------------|-------------|
 | **User goal**      | *"I want to navigate to X easily from the home screen."* |
 | **What should we measure?** | Conversion rates from the app Homescreen to various parts of the app i.e. Health, Benefits, Payments, Profile, VA resources, location finder <br>Following path<br>- do they see it, <br>- if they see it do they tap,<br>- are they able to do a thing (view, task, etc.)   <br> *“I'm able to easily access the things I need from the home screen.”* |
-| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Activity button click rate, based on when button conditionally shown (repeat users ok)* <br>- Home screen page load time* <br>- Notification interactions bringing users to home screen* <br>- # feature viewers/# of users<br>- Latency* <br>- % of errors within X period of time*  |
+| **Important metrics to track**<br> *New metrics indicated by asterisk*| - Activity button click rate, based on when button conditionally shown (repeat users ok)* <br>- Home screen load time* <br>- Notification interactions bringing users to home screen* <br>- # feature viewers/# of users<br>- Latency* <br>- % of errors within X period of time*  |
 | **How these metrics can inform decision making** | Improve the overall navigation/wayfinding of users from the app's home screen. |
 | **Unhelpful metrics** | Page views without context does not help us understand conversion/the path users take through the app.  |
 
@@ -284,7 +284,7 @@ Overall platform health can be measured by the platform's speed, availability, r
 |**Speed** |   |
 |--------------|-------------|
 | **Definition** | How quickly an app loads, responds to user input, and handles various tasks, data availability based on API |
-| **Helpful metrics** | - Page load times<br>- API latency or down times<br>- % of errors within X period of time |
+| **Helpful metrics** | - Screen load times<br>- API latency or down times<br>- % of errors within X period of time |
 | **How it informs decision-making** | Understand how responsive the app is, to prioritize giving users a responsive experience.  |
 
 </details>
