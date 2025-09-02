@@ -83,12 +83,15 @@ The following usability best practices should be kept in mind when adding or upd
 3. Label what information is required versus optional and give the ability to remove optional information.
 
 4. When content is long, provide an unauthenticated FAQ to cover more complex topics within the Records or Resources and support sections of VA.gov.
+
    1. FAQ content should not live within VA.gov Profile.
 
-5. If system save times are long, provide visuals to the user that their save is in process.
+6. If system save times are long, provide a loading spinner button to show the user that their save is in process.
 
-6. Create all states of the information feature, including, but not limited to:
+7. Create all states of information for the feature, including, but not limited to:
 
    1. When the feature is available;
    2. when the feature is not available;
    3. all error states, including system errors.
+  
+8. Page level alerts and messages should be a [standard alerts](https://design.va.gov/components/alert/#examples---standard), and appear directly below the page header. Alerts within the page, such as in a section or card, should be [slim alert](https://design.va.gov/components/alert/#web-2), and appear below the header or sub header of that section.
