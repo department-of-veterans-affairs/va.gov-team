@@ -10,7 +10,7 @@
 ### Screen 'Enable notifications'
 <img width="432" height="937" alt="Screenshot 2025-08-21 at 8 43 34 AM" src="https://github.com/user-attachments/assets/e4af14c9-4796-4304-ae71-6cf70a67c9e3" />
 
-### App homepage
+### Screen 'Homepage'
 <img width="432" height="937" alt="Screenshot 2025-08-21 at 8 43 57 AM" src="https://github.com/user-attachments/assets/f8a8a5f7-a714-4175-985e-9235f0c0929a" />
 
 
