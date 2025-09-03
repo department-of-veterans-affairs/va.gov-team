@@ -6,7 +6,7 @@
 
 **Contacts:** Renata Keck, Jamie Fiore & Rachel Pope
 
-**[Link to Research Readout (TBD)](link-here)**  
+**[Link to Research Readout (Sharepoint)](https://dvagov.sharepoint.com/:p:/r/sites/vaivc/Shared%20Documents/Forms%20Modernization/10-10D%20(Champ%20VA%20application)/Research/CHAMPVA%20enrollment%20_%20OHI%20merged%20form%20usability%20study.pptx?d=w333427c41e444b428efefd1db6348450&csf=1&web=1&e=b7D8Ar)**  
 
 **Jump to:**
 
