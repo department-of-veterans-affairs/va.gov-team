@@ -117,9 +117,12 @@ Entry for name and date of birth.
 <img width="434" height="942" alt="Screenshot 2025-08-26 at 3 46 26 PM" src="https://github.com/user-attachments/assets/babc9f2e-df29-4b1c-a832-eb520d1f29d3" />
 
 
-### Screen Form 21-4138 'Page 3'
+### Screen Form 21-4138 'Step 2'
 
 Entry for social security number and VA file number.
+
+<img width="591" height="1016" alt="Screenshot 2025-08-14 at 1 57 06 PM" src="https://github.com/user-attachments/assets/fb2cc0c5-b558-41d6-a9a2-f917f8733086" />
+
 
 <img width="432" height="937" alt="Screenshot 2025-08-21 at 8 59 34 AM" src="https://github.com/user-attachments/assets/b97f1764-1216-4454-8006-af6918745102" />
 
@@ -143,6 +146,7 @@ Entry for social security number and VA file number.
 
 
 ### Toast Messagges on Screen
+
 
 <img width="432" height="937" alt="Screenshot 2025-08-21 at 9 00 42 AM" src="https://github.com/user-attachments/assets/0c73a3e5-c82b-47e7-bbd9-138f7a3239df" />
 <img width="440" height="934" alt="Screenshot 2025-08-25 at 8 39 52 AM" src="https://github.com/user-attachments/assets/2d6de339-5f66-4dbc-9c02-54d4c42c65e8" />
