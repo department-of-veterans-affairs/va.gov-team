@@ -160,7 +160,6 @@ We will partner with Perigean to recruit Veterans. All efforts will be made to r
 
 ### Research sessions
 - `Planned dates of research:` **09/DD-09/DD**
-- **Will at in times when we are closer to research kick-off**
 
 
 ### Length of sessions
@@ -172,7 +171,7 @@ We will partner with Perigean to recruit Veterans. All efforts will be made to r
 - `Maximum Sessions per day:` **3 per day**
 
 
-### Availability
+### Availability - **Will at in times when we are closer to research kick-off**
 > [!TIP]
 > Please request enough dates and at ***least double the amount of time slots for the number of requested participants***. **(e.g. 3/17, Monday 9:00AM-1:00PM, 3:00PM-6:00PM EST; 3/18, Tuesday 9:00AM-6:00PM EST, etc.;** ***12 time slots for 6 participants***). This helps Perigean book participants when there are more time slots available, and when sessions need to be rescheduled or filled in with further recruitment.
 
