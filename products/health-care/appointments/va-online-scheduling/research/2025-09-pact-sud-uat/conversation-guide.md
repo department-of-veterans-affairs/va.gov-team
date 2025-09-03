@@ -257,6 +257,7 @@ health care type
 health appointments. [Show user side by side images - option 2 and 3.](https://www.figma.com/design/HnExAM5SGNXzUlv9yRS87t/Working-File-%7C-Appointments-FE?node-id=6162-8257&t=PaavUKlSUUIOXwCj-0)
   - When you compare the list you originally saw (shown on the left) to a different list (shown on the right), which list do you prefer for scheduling an appointment related to unhealthy use of drugs or alcohol?
 
+> [!NOTE]
 > ### Things to watch for:
 > - [Before getting to the sub-groups, note what the participant expected to see.]
 > - [Does the sub-types screen match their expectations?]
