@@ -153,6 +153,8 @@ Entry for social security number and VA file number.
 
 ### Temporary alerts impacting testing users at time of study
 
+<img width="432" height="937" alt="Screenshot 2025-08-21 at 8 36 01 AM" src="https://github.com/user-attachments/assets/d2125afe-878e-4ca8-92a7-d55b03ebf67b" />
+
 <img width="434" height="942" alt="Screenshot 2025-08-26 at 3 39 41 PM" src="https://github.com/user-attachments/assets/bb5031c0-7713-4c23-84bf-c7767c01788d" />
 
 
