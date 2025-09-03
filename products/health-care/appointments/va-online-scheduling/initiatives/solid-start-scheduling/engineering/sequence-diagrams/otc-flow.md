@@ -1,7 +1,5 @@
 ### First touch point (OTC)
 
-VASS sends email to form with EDIPI encoded in URL 
-
 ``` mermaid
 sequenceDiagram
     participant E as Email Service
