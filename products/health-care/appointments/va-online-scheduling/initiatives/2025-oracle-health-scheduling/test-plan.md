@@ -79,7 +79,8 @@ Test users with the following configurations:
 | ID | Description                                                                         | Test Cases |
 |----|-------------------------------------------------------------------------------------|------------|
 |    | Verify user can access scheduling flow                                              |            |
-|    | Verify user is alerted if home address is missing from profile 
+|    | Verify user is alerted if home address is missing from profile                      |            |
+
 
 
 ## Test cases and steps
@@ -117,6 +118,31 @@ Failure: Alert displays at top of page “To use some of the tool’s features, 
 - If the patient has only been seen for telehealth appts, don't show facility
 
 ## Page: Which provider do you want to schedule with?
+
+
+| ID | Description                                                                         | Test Cases |
+|----|-------------------------------------------------------------------------------------|------------|
+|    | Page displays providers the user can direct-schedule with for the selected type of care. |            |
+|    | Page displays providers the user can request appointments with for the selected type of care. |            |
+|    | Verify that provider's recent-visit configuration is correct for the type of care |       |
+|    | Verify user can't request if over the limit |   |
+|    | Users can request appointments with providers they have seen before |            |
+|    | Display providers a user can call to schedule with. |            |
+|    | If system errors out when loading the list of providers, display an alert. |            |
+
+
+- Direct scheduling for type of care can be enabled or disabled
+
+System: Attempts to fetch available providers (GET /vaos/v2/relationships)
+IF Call fails, Display alert:
+
+<img width="721" height="2444" alt="image" src="https://github.com/user-attachments/assets/501e3c91-c846-4abd-a37b-8f00e58976b8" />
+
+IF call succeeds, Continue
+
+System: Checks if direct scheduling and requests are enabled in VPG.
+
+
 
 - If the Veteran has had an appointment with a provider at this facility for this type of care in the past 36 months: include that provider in the list  
 
