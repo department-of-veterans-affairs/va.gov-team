@@ -325,16 +325,14 @@ Research goal #4: Identify if Veterans can start a form and come back to it at a
 
 ## Product User and Business Outcomes
 
-*Explain how findings and recommendations align with the product's goals.*
-
-> [!NOTE] 
-> Refer back to your Product Outline. 
-
 - **Desired User Outcome**
-  - This research supports our desired user outcome by....
+The overarching outcome of combining these native features into one app is that it will make it simpler and faster for users to interact with VA and complete day-to-day transactions.
+
+  - This research supports our desired user outcome by bringing the digital forms experience into the app with the MVP being a commonly utilized form making it both simpler and faster to interact with the VA. 
  
 - **Desired Business Outcome**
-  - This research supports our desired business outcome by....
+Empower business lines to provide targeted communication to Veterans. By building a mobile app, business units have the opportunity to close some of the existing communication gaps that exist at VA. For example, business units will be able to push notifications to users when pertinent information is available on either an individual or VA-wide level. This reduces the burden on Veterans themselves from having to navigate through VA to track down the status of their claims, or when their next healthcare appointment is.
+  - This research supports our desired business outcome by providing users with supporting actions related to their claims together in the app and making available relevant information and updates about those actions.
 
 
 ## Key Performance Indicators
