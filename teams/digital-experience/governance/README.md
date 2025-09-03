@@ -8,20 +8,20 @@
 ### Basic Details
 
 - **Team Name:** Governance
-- **Short Name:** governance _(Used for directory URLs and should ideally match your GitHub team name below)_
-- **GitHub Team Name:** [github-team-name] _(Exact name of GitHub team which is also found in your GitHub team link below)_
-- **GitHub Team Labels:**
-  - [governance-team]
-- **GitHub Team Link:** [https://github.com/orgs/department-of-veterans-affairs/teams/platform-governance-team]
-- **Slack Channel:** [#platform-collaboration-cycle](https://dsva.slack.com/channels/platform-collaboration-cycle)
+- **Short Name:** governance
+- **GitHub Team Name:** platform-governance-team
+- **GitHub Team Labels:** governance-team
+- **GitHub Team Link:** [platform-governance-team](https://github.com/orgs/department-of-veterans-affairs/teams/platform-governance-team)
+- **Slack Channel:** [#platform-governance-team](https://dsva.slack.com/channels/platform-governance-team)
+- **Slack group:** @platform-governance-team-memnbers 
 
 ### Organizational Affiliation
 
 - **VA Business Owner:** OCTO
 - **Portfolio:** Digital Experience
 - **Crew or Pod:** Platform Services and Governance
-- **Contracting Organization:** Oddball, AdHoc
-- **Contract:** [Current contract](https://dvagov.sharepoint.com/sites/oitoctocontracts/Contracts/Forms/AllItems.aspx) _Update to point to your specific contract file._
+- **Contracting Organization:** Oddball, AdHoc, So Company
+- **Contract:** [Current contract](https://dvagov.sharepoint.com/sites/oitoctocontracts/Contracts/Forms/AllItems.aspx) 
 
 ### Team Roster
 
@@ -37,22 +37,24 @@ Directory system will parse this section to display team member contact informat
 #### Team Representative
 
 - **Name:** Shira Goodman
-- **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
-- **Role:** Team Representative
+- **GitHub:** [@shiragoodman](https://github.com/shiragoodman)
+- **Email:** shira.goodman@oddball.io, shira.goodman@va.gov
+- **Role:** Team Representative, Product Manager
 
 ## About This Team
 
-Brief description of your team's mission, focus areas, and how you support Veterans. Include any specializations or unique capabilities.
+Using our expertise of VA.gov standards and practices, the Governance team empowers and supports VFS teams to iteratively build high-quality, user-centered products that are accessible and aligned to the overall VA.gov experience, and as a result, allow Veterans to easily get the services they deserve.
 
 ## Products We Own
 
 _Directory system will cross-reference these with product details.yml files containing `team: "[team-slug-name]"`. Copy the template at https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/product-details-template.yml into your product directories then rename and update appropriately._
 
-- **[Product 1 Entry](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/[product-name]/[product-name]-details.yml):** Link to product in /products directory and provide a brief description.
-- **[Product 2 Entry](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/[product-name]/[product-name]-details.yml):** Link to product in /products directory and provide a brief description.
-
-Add additional products as needed.
+- Collaboration Cycle
+   - [VFS-facing guidance](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle)
+   - [Operational guidance](https://vfs.atlassian.net/wiki/spaces/PPS/pages/1748860945/Collaboration+Cycle)
+- Platform Orientation
+   - [VFS-facing guidance](https://depo-platform-documentation.scrollhelp.site/getting-started/platform-orientation)
+   - [Operational guidance](https://vfs.atlassian.net/wiki/spaces/PPS/pages/1844838440/Platform+Orientation)
 
 ### Product highlights
 
@@ -77,6 +79,5 @@ This team actively contributes toward the following 2025 OCTO OKRs:
 
 ## Key Documents
 
-- [Team Charter](team-charter.md)
-- [Roadmap]()
-- [Document Name]()
+- [GH Projects board](https://github.com/orgs/department-of-veterans-affairs/projects/1491/views/1)
+- [Roadmap](https://github.com/orgs/department-of-veterans-affairs/projects/1491/views/11)
