@@ -27,7 +27,7 @@ Objective 1: VA’s digital experiences are the easiest and most efficient way t
 - Key Result 1: Improve satisfaction with our web and mobile products by 5 points.
 
 
-## [**Veteran Journey**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) ****
+## [**Veteran Journey**](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) 
 
 This work fits into the:
 
@@ -40,7 +40,7 @@ This work fits into the:
 
 ## **Research Goals**
 
-1. **Usability of flow**: ****Evaluate the usability of the Decision Review Guide screen flow
+1. **Usability of flow**: Evaluate the usability of the Decision Review Guide screen flow
 
 2. **Clarity of content**: Evaluate participant comprehension of the questions and helpfulness of the explanatory content
 
@@ -81,73 +81,20 @@ This research will be an initial study of this new feature, and will inform how 
 
 ## **Hypotheses** 
 
-|          |                                                                                                                                           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| -------- | ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **GOAL** | **HYPOTHESIS**                                                                                                                            | **HOW WE ARE MEASURING THIS IN OUR STUDY**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| 1        | Participants will understand that the output of the flow is a tailored summary of options based on their personal circumstance.           | - Feedback: At beginning of flow, what do participants expect to “get” at the end?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| 1        | Participants understand they can use this tool for both planning and action.                                                              | * Feedback: How might you use this tool in the future?
-
-* Feedback: Is this guide something you would use to plan next steps? To start the decision review process? Both?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| 1        | There may be some confusion around what types of claims (disability vs. non-disability) can leverage this guide.                          | - Feedback: What questions or considerations do participants have?
-
-- Feedback: Do participants express uncertainty about types of claims that the guide will help with?
-
-- Task completion: Is there confusion or dropoff at the “type of claim” question in flow?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| 1        | Participants will be able to move through every question and arrive at the appropriate summary screen, without assistance.                | * Feedback: What is this experience like for Veterans? Are there points of tension, friction, or confusion?
-
-* Feedback: Are frustrations observed or shared?
-
-* Task completion: How many participants arrive at the summary screen?
-
-* Time on task: How long does it take for participants to progress from intro page to summary screen?                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| 2        | The guide will support participants learning of the different decision review pathways, and the unique requirements of each.              | - Feedback: What decision review pathway did they consider before the guide? And after? If there is a change, why?
-
-- Feedback: What do they have to say about the cards on the summary page?
-
-  - Both available options, and those in the “all option” sections
-
-- Feedback: From the summary screen, Is the user able to state one requirement of each pathway?                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| 2        | The questions and helper text will support users in confidently and correctly selecting an answer.                                        | * Feedback: What do they understand from the hint text? 
-
-* Feedback: What questions or considerations do participants have?
-
-* Feedback: Did the helper text influence the user’s choice?
-
-* Feedback: Do participants ask for help/support or clarification?
-
-* Task completion: Are there common errors observed from misunderstanding questions?
-
-* Feedback: On a scale of 1-5, how confident are you in selecting the choice that is right for you? Can ask on specific screens (like 2.IS.3 about CFI, 2.H.2B.1 about BA: Hearing, or 2.S about Supplemental Claim, which is very restrictive in options), or general at end?
-
-* Feedback: Listen/look for confusion around “you’re requesting” language in the summary screen. Do participants understand that there is further action needed to submit a DR? |
-| 2        | Some VA terminology will be confusing to Veterans (ex. service-connected, contested claim, etc.)                                          | - Feedback: What questions or considerations do participants have?
-
-- Listen for…”what does this mean?”
-
-- Look for…confusion, hesitation
-
-- Feedback: Do participants ask the meaning of certain terms?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| 3        | Participants will understand why certain options are applicable to their situation, and why others are not.                               | * Feedback: What questions or considerations do participants have?
-
-* Feedback: What decision review pathway did they consider before the guide? And after?
-
-* Feedback: Can the user explain back/articulate why a pathway is/isn’t available?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| 3        | Most participants will use the summary screen as a resource to return to later.                                                           | - Feedback: What do they have to say about their next step(s)? 
-
-- First-click: Where do users click first on the summary screen? (Print? Copy/bookmark link? More info links? Apply links?)
-
-- Feedback: Look for…Participants will not be ready to immediately apply for a pathway, but need time to consider, confer, etc.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| 3        | The tone and language of available decision review options and all other options on the summary screen feel supportive and nonjudgmental. | * Feedback: Maybe ask about tone rating? (1: judgemental/ discouraging, 2: somewhat judgemental, 3: neutral, 4: supportive, 5: very supportive/ encouraging) 
-
-* Feedback: Does the tone of the options available to you on the summary screen support your ability to move forward?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| 3        | Participants will not need additional context beyond the reasons provided on the personalized summary screens.                            | - Feedback: What questions or considerations do participants have?
-
-- Feedback: What might the users change about the summary screens?
-
-- Feedback: Listen for…”I still don’t understand why X option is not for me…” or “this doesn’t tell me…” or “this page is missing…”                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| 3        | Participants will consider options from the “Your options” section of the summary screen and not from the “All options” section.          | * First click: Where would they click on summary screen?
-
-* Feedback: Which options would you consider from the summary screen? Why?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| GOAL        | HYPOTHESIS    | HOW WE ARE MEASURING THIS IN OUR STUDY |
+|:--------------|:-----------|:------------|
+| 1 | Participants will understand that the output of the flow is a tailored summary of options based on their personal circumstance.    | - Feedback: At beginning of flow, what do participants expect to “get” at the end?       |
+| 1 | Participants understand they can use this tool for both planning and action.    | - Feedback: How might you use this tool in the future? - Feedback: Is this guide something you would use to plan next steps? To start the decision review process? Both?      |
+| 1     | There may be some confusion around what types of claims (disability vs. non-disability) can leverage this guide.  | - Feedback: What questions or considerations do participants have? - Feedback: Do participants express uncertainty about types of claims that the guide will help with? - Task completion: Is there confusion or dropoff at the “type of claim” question in flow?       |
+| 1      | Participants will be able to move through every question and arrive at the appropriate summary screen, without assistance.  | - Feedback: What is this experience like for Veterans? Are there points of tension, friction, or confusion? - Feedback: Are frustrations observed or shared? - Task completion: How many participants arrive at the summary screen? - Time on task: How long does it take for participants to progress from intro page to summary screen?       |
+| 2      | The guide will support participants learning of the different decision review pathways, and the unique requirements of each.   | - Feedback: What decision review pathway did they consider before the guide? And after? If there is a change, why? - Feedback: What do they have to say about the cards on the summary page? - Both available options, and those in the “all option” sections - Feedback: From the summary screen, Is the user able to state one requirement of each pathway?       |
+| 2     | The questions and helper text will support users in confidently and correctly selecting an answer.  | * Feedback: What questions or considerations do participants have? * Feedback: Did the helper text influence the user’s choice? * Feedback: Do participants ask for help/support or clarification? * Task completion: Are there common errors observed from misunderstanding questions? * Feedback: On a scale of 1-5, how confident are you in selecting the choice that is right for you? Can ask on specific screens (like 2.IS.3 about CFI, 2.H.2B.1 about BA: Hearing, or 2.S about Supplemental Claim, which is very restrictive in options), or general at end? * Feedback: Listen/look for confusion around “you’re requesting” language in the summary screen. Do participants understand that there is further action needed to submit a DR?      |
+| 2      | Some VA terminology will be confusing to Veterans (ex. service-connected, contested claim, etc.)  | Feedback: What questions or considerations do participants have? - Listen for…”what does this mean?” - Look for…confusion, hesitation - Feedback: Do participants ask the meaning of certain terms?        |
+| 3      | Participants will understand why certain options are applicable to their situation, and why others are not.  | Feedback: What questions or considerations do participants have? * Feedback: What decision review pathway did they consider before the guide? And after? * Feedback: Can the user explain back/articulate why a pathway is/isn’t available?        |
+| 3      | Most participants will use the summary screen as a resource to return to later.  | Feedback: What do they have to say about their next step(s)? - First-click: Where do users click first on the summary screen? (Print? Copy/bookmark link? More info links? Apply links?) - Feedback: Look for…Participants will not be ready to immediately apply for a pathway, but need time to consider, confer, etc.      |
+| 3        | The tone and language of available decision review options and all other options on the summary screen feel supportive and nonjudgmental. | * Feedback: Maybe ask about tone rating? (1: judgemental/ discouraging, 2: somewhat judgemental, 3: neutral, 4: supportive, 5: very supportive/ encouraging) * Feedback: Does the tone of the options available to you on the summary screen support your ability to move forward?        | 
+| 3      | Participants will not need additional context beyond the reasons provided on the personalized summary screens.  | Feedback: What questions or considerations do participants have? - Feedback: What might the users change about the summary screens? - Feedback: Listen for…”I still don’t understand why X option is not for me…” or “this doesn’t tell me…” or “this page is missing…”       |
+| 3      | Participants will consider options from the “Your options” section of the summary screen and not from the “All options” section.  | First click: Where would they click on summary screen? * Feedback: Which options would you consider from the summary screen? Why?       |
 
 
 ## **Methodology**
@@ -162,9 +109,9 @@ We will run a moderated usability study remotely on Zoom. 
 
 ## **Research materials**
 
-1. Conversation Guide \[Github]
+1. Conversation Guide \[[Github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/research/decision-reviews-onramp-2025/2025-08%20Explore%20decision%20reviews%20for%20your%20disability%20claim%20Conversation%20Guide.md)]
 
-2. Mock-ups of what we will test in staging \[Figma]
+2. Mock-ups of what we will test in staging \[[Figma](https://www.figma.com/design/5vAWK3wpBkJgG7ngLXYmht/Onramping-Tool?node-id=122-8973&t=fQYJ9qkpWYLokAPc-1)]
 
 
 ## **Recruitment** 
