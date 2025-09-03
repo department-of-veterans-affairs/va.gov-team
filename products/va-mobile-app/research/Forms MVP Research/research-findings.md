@@ -64,40 +64,44 @@ demographics:
     sighted_keyboard: X
     captions: X
 key_findings:
-  - 1. Forms from the app were generally well received.
-  - 2. Veterans may navigate to this activity from various paths.
-    3. Veterans were confused about the wording of the options on the 'What would you like to do?' screen that directs them to various forms.
-    4. Veterans struggle to return to the app from webview.
-    5. Mobile users are prone to typing errors in their form entry. Typing on a smaller device is frustrating for many Veterans as they experience smaller touch targets & compact keyboards.
-    6. Users may miss screen content or attempt to scroll around instead of dismiss toast messages in the app.
-    7. Users desire more information about the status of a form after submission as proposed statuses may be interpreted in different ways.
+  - "1. Forms from the app were generally well received."
+  - "2. Veterans may navigate to this activity from various paths."
+  - "3. Veterans were confused about the wording of the options on the 'What would you like to do?' screen that directs them to various forms."
+  - "4. Veterans struggle to return to the app from webview."
+  - "5. Mobile users are prone to typing errors in their form entry. Typing on a smaller device is frustrating for many Veterans as they experience smaller touch targets & compact keyboards."
+  - "6. Users may miss screen content or attempt to scroll around instead of dismiss toast messages in the app."
+  - "7. Users desire more information about the status of a form after submission as proposed statuses may be interpreted in different ways."
 recommendations:
-- 1. Move forward with an MVP of forms in the mobile app.
-- 2. Consider multiple pathways to forms. Direct users to the 21-4138 form also under the context of claims.
-- 3. Update the wording of the options on the screen 'What would you like to do?’. 
-- 4. Update the text of the ‘Done’ button. 
-- 5. Consider smaller ‘light-weight’ forms that require shorter responses with less manual entry for the mobile app.
-- 6. Consider alternative methods of delivering messages to an app user rather than a toast, or encourage users to dismiss the message more clearly.
-- 7. Provide the steps of processing the form to decision reflecting the current progress in relation to the whole with meaningful details and dates.
+- "1. Move forward with an MVP of forms in the mobile app."
+- "2. Consider multiple pathways to forms. Direct users to the 21-4138 form also under the context of claims."
+- "3. Update the wording of the options on the screen 'What would you like to do?’." 
+- "4. Update the text of the ‘Done’ button." 
+- "5. Consider smaller ‘light-weight’ forms that require shorter responses with less manual entry for the mobile app."
+- "6. Consider alternative methods of delivering messages to an app user rather than a toast, or encourage users to dismiss the message more clearly."
+- "7. Provide the steps of processing the form to decision reflecting the current progress in relation to the whole with meaningful details and dates."
 
 kpi_alignment:
-  - "KPI 1"
-  - "KPI 2"
+  - "Trust, satisfaction, and equity"
 outcomes:
-  user: "Desired user outcome"
-  business: "Desired business outcome"
+  user: "Make it simpler and faster for users to interact with VA and complete day-to-day transactions."
+  business: "Empower business lines to provide targeted communication to Veterans."
 opportunity_areas:
-  - "Unmet need 1"
-  - "Research gap 1"
+  - "Introductory screens to form 21-4138"
+  - "Action relationally associated with claims"
 further_research_needed:
   - "Test with assistive tech users"
-  - "Area 2"
+  - "Test the form introductory screens related to 21-4138 after updates to content"
 underserved_groups_missing:
-  - "Group 1"
-  - "Group 2"
+  - Live abroad
+  - Cognitive disability
+  - Don’t have a degree
+  - Other than honorable
+  - Immigrant origin
+  - Expat
+  - Identify as LGBTQ+
+  - Assistive tech users
 secondary_research:
-  - "Web analytics"
-  - "SME interviews"
+  - "SuS results"
 synthesis_tools_used:
   - "Github CoPilot Ai: Gemini 2.0"
   - "Affinity Mapping in Figjam"
@@ -339,11 +343,13 @@ Empower business lines to provide targeted communication to Veterans. By buildin
 
 *Explain how findings will support KPI measurement.*  
 
-> [!NOTE]
-> Refer back to your Product Outline. 
 
-- **KPI 1**
-  -  This research supports measurement of this KPI by....
+- **Trust, satisfaction, and equity**
+
+The findings in the SuS research supports measurement of this KPI by...
+  -  Measuring user satisfaction with the experience
+  -  Measuring user confidence with this task
+  -  Measuring desirability for this feature in the app 
 
 
 ## Next Steps
@@ -513,6 +519,6 @@ This research does not include the perspectives of the following marginalized Ve
 - Identify as LGBTQ+
 - Assistive tech users
 
-_[<img width="970" height="838" alt="Screenshot 2025-08-29 at 1 22 24 PM" src="https://github.com/user-attachments/assets/99c0c8e7-05ed-4a9c-adcc-85e3ea3c1440" />
-]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+<img width="970" height="838" alt="Screenshot 2025-08-29 at 1 22 24 PM" src="https://github.com/user-attachments/assets/99c0c8e7-05ed-4a9c-adcc-85e3ea3c1440" />
+
+[VA-recruitment-checker]
