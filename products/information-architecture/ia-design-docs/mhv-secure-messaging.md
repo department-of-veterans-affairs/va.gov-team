@@ -4,6 +4,7 @@
 **Product/Feature:** Secure Messages
 
 **Change log/updates:** 
+- 08/2025 - Sara - Updating the "start a new message" flow in order to prepare for integration with Oracle Health EHR system data
 - 06/2025 - Sara - MHV Classic version of SM is being sunset on 6/4/2025 - users will be redirected to SM on VA.gov.
 - 05/2025 - Sara - Beginning to plan for the integration of OH/Cerner users in the new version of the tool. The /new-message flow will need to be updated to accommodate an extra screen in order to step users through a flow based on how triage group data are organized in that EHR system. New features also include surfacing recent recipients and updated UI for editing contact lists (VistA only).
 - 03/2025 - Sara - Links on VA.gov connect all users to the new tool (no longer route to MHV Classic version)
@@ -55,11 +56,12 @@ Page-level specifications, like page titles (H1), URL, and breadcrumb.
 
 **Start a new message flow**:
 - **URLs**:
-  - Interstitial page `https://www.va.gov/my-health/secure-messages/new-message/`
-  - Recent recipients page `https://www.va.gov/my-health/secure-messages/new-message/recent-recipients/`
-  - Select recipient page `https://www.va.gov/my-health/secure-messages/new-message/select-recipient/`
-  - Can't find my care team help page `https://www.va.gov/my-health/secure-messages/new-message/care-team-help/`
-  - Start message page `https://www.va.gov/my-health/secure-messages/new-message/start-message/`
+  - Interstitial page `https://www.va.gov/my-health/secure-messages/new-message`
+  - COMING SOON Recent recipients page `https://www.va.gov/my-health/secure-messages/new-message/recent`
+  - NEW Select care team `https://www.va.gov/my-health/secure-messages/new-message/select-care-team`
+  - NEW Can't find my care team help page `https://www.va.gov/my-health/secure-messages/new-message/care-team-help`
+  - NEW Start message page `https://www.va.gov/my-health/secure-messages/new-message/start-message`
+  - Edit contact list page `https://www.va.gov/my-health/secure-messages/new-message/contact-list`
 - **Breadcrumbs**: <- Back
 
  
