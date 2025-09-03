@@ -1,18 +1,12 @@
 
-# Research Plan for 2025-10 Save in Progress research study -- 2nd round of usability testing
+# Research Plan for 2025-10 Save in Progress -- 2nd round of usability testing
 
 ## Background 🏗️
 <details><summary>Briefly describe the background of your product.</summary>
 	
-OCTO aims to improve VA.gov's digital services for all Veterans. Assessibility specialists at OCTO focus on making these digital services accessible for all, especially those with visual and/or cognitive disabilities. Getting user feedback from Veterans who use assistive technologies helps OCTO understand which digital interactions work well and which need improvements to be accessible.
+Saving in-progress work while filling out an online form is an interaction for which the current implementation on VA.gov has known accessibility issues, and the revised design that was [usability tested in May 2025](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/research/2025-05-save-in-progress/research-report.md) didn't work very well. Key findings from that study included that most participants didn't know that their information was being saved automatically, and they didn't see or remember either of the informational alerts about saving. 
 
-Saving in-progress work while filling out an online form is an interaction for which the current implementation on VA.gov has two known accessibility issues. This research is being planned to get user feedback on a revised design that may resolve both issues: 
-
-1. While VA.gov users are signed in (authenticated) and filling out a form, the "save in progress" alert (see below) flashes on and then off with every field entry or edit. Because this alert displays *below* the Continue button, screen readers don't announce it, which is an accessibility issue. All users should have access to the same information about the user interface.
-
-2. There's a "Finish this request later" button that looks like a link (see below), which is another accessibility issue. Links that take you to another page should look like links, and buttons that do actions should look like buttons. 
-
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/research/2025-05-save-in-progress/images/2-a11y-issues.png" width="50%" height="50%">
+This research is being planned to get user feedback on a revised design that may resolve both issues: 
 
 We are testing a modification of the VA Design System [Header - Minimal component](https://design.va.gov/components/header/header-minimal), which is recommended for the design of new web forms. To address the above accessibility issues, we have removed the "save in progress" alert, as well as changed the "Finish this request later" button that looks like a link into looking like a button (see below). We believe that removing the "save in progress" alert will be OK because there is already text about saving on the authenticated version of the form intro page and the first page of the form. One goal of this current research is to get user feedback on the revised design.
 
