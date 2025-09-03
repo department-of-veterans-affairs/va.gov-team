@@ -9,3 +9,9 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.mov filter=lfs diff=lfs merge=lfs -text
 *.avi filter=lfs diff=lfs merge=lfs -text
+
+# Temporary exclusions for files with corrupted LFS objects
+"assets/False Foreign White Paper_V3.docx" -filter -diff -merge
+"products/GIBCT_SMF Product Outline.docx" -filter -diff -merge
+"products/VA.gov.Profile.product.guide.v9.03212024.docx" -filter -diff -merge
+"templates/VA.gov Product Guide Template 06142022.docx" -filter -diff -merge
