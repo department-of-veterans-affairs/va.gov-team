@@ -31,44 +31,36 @@ Directory system will parse this section to display team member contact informat
 
 - **Name:** Marci McGuire
 - **GitHub:** [@MarciMcGuire](https://github.com/MarciMcGuire)
-- **Email:** Marci.McGuire@va.gov
 - **Role:** OCTO PO
 
 #### Team Members
 
 - **Name:** Bryan Ivie
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Member
 
 - **Name:** Daniel Cloud
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Member
 
 - **Name:** Florence McCafferty
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Member
 
 - **Name:** Cara Frissell
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Member
 
 - **Name:** Sara Sterkenburg
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Member
 
 - **Name:** Marcello Antosh
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Member
 
 - **Name:** Lauren Ernest
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Member
 
 ## About This Team

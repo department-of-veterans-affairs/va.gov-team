@@ -31,19 +31,16 @@ Directory system will parse this section to display team member contact informat
 
 - **Name:** Denise Coveyduc
 - **GitHub:** [@denisecoveyduc](https://github.com/denisecoveyduc)
-- **Email:** Denise.Coveyduc@va.gov
 - **Role:** OCTO-DE Lead
 
 #### Team Representatives
 
 - **Name:** Heather Rienks
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Representative
 
 - **Name:** Tom Davis
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Representative
 
 ## About This Team

@@ -32,59 +32,48 @@ Directory system will parse this section to display team member contact informat
 
 - **Name:** Kay Lawyer
 - **GitHub:** [@klawyer](https://github.com/klawyer)
-- **Email:** katherine.lawyer@va.gov
 - **Role:** OCTO PO
 
 #### Team Members
 
 - **Name:** Michael Brodsky
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Member
 
 - **Name:** Richard Davis
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Member
 
 - **Name:** Chris Donelson
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Member
 
 - **Name:** Cam Keif
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Member
 
 - **Name:** Ian Seabock
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Member
 
 - **Name:** Langston Payne
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Member
 
 - **Name:** Andrea Uhr
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Member
 
 - **Name:** Timothy Powell
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Member
 
 - **Name:** Amy Cashbaugh
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Member
 
 - **Name:** Geoff Winner
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Member
 
 ## About This Team

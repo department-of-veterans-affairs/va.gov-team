@@ -25,7 +25,6 @@ class TeamDocumentationValidator
     /\[Current contract\]\(https:\/\/dvagov\.sharepoint\.com\/sites\/oitoctocontracts\/Contracts\/Forms\/AllItems\.aspx\)/,
     /\[Full Name\]/,
     /\[@github-username\]/,
-    /\[contact-email@va\.gov\]/,
     /\[Product \d+ Entry\]/,
     /\[product-name\]/
   ].freeze

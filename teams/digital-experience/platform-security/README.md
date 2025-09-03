@@ -32,19 +32,16 @@ Directory system will parse this section to display team member contact informat
 
 - **Name:** Ray Wang
 - **GitHub:** [@raywangoctova](https://github.com/raywangoctova)
-- **Email:** gang.wang@va.gov
 - **Role:** OCTO-DE Lead
 
 - **Name:** Andrew Mo
 - **GitHub:** [@amo-va-octo](https://github.com/amo-va-octo)
-- **Email:** Andrew.Mo@va.gov
 - **Role:** OCTO-DE Lead
 
 #### Team Representative
 
 - **Name:** Kelly Argyros
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Representative
 
 ## About This Team

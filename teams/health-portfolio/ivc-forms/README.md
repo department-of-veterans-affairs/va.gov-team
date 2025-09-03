@@ -31,14 +31,12 @@ Directory system will parse this section to display team member contact informat
 
 - **Name:** Premal Shah
 - **GitHub:** [@pshahVA](https://github.com/pshahVA)
-- **Email:** [Premal.Shah@va.gov]
 - **Role:** OCTO PO
 
 #### Team Lead
 
 - **Name:** [Full Name]
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Lead
 
 ## About This Team

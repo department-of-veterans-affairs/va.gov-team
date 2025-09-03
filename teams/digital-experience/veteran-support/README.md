@@ -30,14 +30,12 @@
 
 - **Name:** Chante Lantos-Swett
 - **GitHub:** [@clantosswett](https://github.com/clantosswett)
-- **Email:** Chante.LantosSwett@va.gov
 - **Role:** OCTO-DE Lead
 
 #### Team Representative
 
 - **Name:** Anita Middleton
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Representative
 
 ## About This Team

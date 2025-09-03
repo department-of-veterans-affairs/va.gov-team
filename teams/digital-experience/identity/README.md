@@ -32,33 +32,28 @@ Directory system will parse this section to display team member contact informat
 
 - **Name:** Samara Strauss
 - **GitHub:** [@Samara-Strauss](https://github.com/samara-strauss)
-- **Email:** Samara.Strauss@va.gov
 - **Role:** OCTO-DE Lead
 
 - **Name:** Tom Black
 - **GitHub:** [@tomblackgov](https://github.com/tomblackgov)
-- **Email:** Thomas.Black2@va.gov
 - **Role:** OCTO-DE Lead
 
 #### Team Representative
 
 - **Name:** Jon Knotts
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Representative
 
 #### Team Lead
 
 - **Name:** Joelle Wells
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Representative
 
 #### Team Lead
 
 - **Name:** Lainey Trahan
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Representative
 
 ## About This Team

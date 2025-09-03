@@ -31,44 +31,36 @@ Directory system will parse this section to display team member contact informat
 
 - **Name:** Marci McGuire
 - **GitHub:** [@MarciMcGuire](https://github.com/MarciMcGuire)
-- **Email:** Marci.McGuire@va.gov
 - **Role:** OCTO PO
 
 #### Team Members
 
 - **Name:** David Koger
 - **GitHub:** [@davidkoger](https://github.com/davidkoger)
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Member
 
 - **Name:** Mike Moyer
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Member
 
 - **Name:** Ni Chia
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Member
 
 - **Name:** Napoleon Kernessant
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Member
 
 - **Name:** Aswin Malla
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Member
 
 - **Name:** Elwood Gary
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Member
 
 - **Name:** Liz Townsend
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Member
 
 ## About This Team

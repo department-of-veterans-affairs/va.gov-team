@@ -32,64 +32,52 @@ Directory system will parse this section to display team member contact informat
 
 - **Name:** Patrick Bateman
 - **GitHub:** [@batemapf](https://github.com/batemapf)
-- **Email:** Patrick.Bateman@va.gov
 - **Role:** OCTO PO
 
 #### Team Members
 
 - **Name:** Stacy Blackwood
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Member
 
 - **Name:** Alex Morgun
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Member
 
 - **Name:** Kevin Suarez
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Member
 
 - **Name:** Adam Stoler
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Member
 
 - **Name:** Jason Conigliari
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Member
 
 - **Name:** Clint Wilde
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Member
 
 - **Name:** Mario Williams
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Member
 
 - **Name:** Jayson Perkins
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Member
 
 - **Name:** Sofia Cordero
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Member
 
 - **Name:** Fiona Tang
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Member
 
 - **Name:** Espy Thomson
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Member
 
 ## About This Team

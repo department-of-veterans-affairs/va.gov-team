@@ -29,19 +29,16 @@
 
 - **Name:** Patrick Bateman
 - **GitHub:** [@batemapf](https://github.com/batemapf)
-- **Email:** Patrick.Bateman@va.gov
 - **Role:** OCTO PO
 
 #### Team Representatives
 
 - **Name:** Heather Justice
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Representative
 
 - **Name:** Alex Parker
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Representative
 
 ## About This Team

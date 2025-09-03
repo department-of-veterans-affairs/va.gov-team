@@ -32,14 +32,12 @@ Directory system will parse this section to display team member contact informat
 
 - **Name:** Erika Washburn
 - **GitHub:** [@EWashb](https://github.com/EWashb)
-- **Email:** Erika.Washburn@va.gov
 - **Role:** OCTO-DE Lead
 
 #### Team Representative
 
 - **Name:** Ashley Guerrant
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Representative
 
 ## About This Team

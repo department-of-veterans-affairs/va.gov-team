@@ -32,31 +32,26 @@ Directory system will parse this section to display team member contact informat
 
 - **Name:** Kay Lawyer
 - **GitHub:** [@klawyer](https://github.com/klawyer)
-- **Email:** katherine.lawyer@va.gov
 - **Role:** OCTO PO
 
 - **Name:** Kristen McConnell
 - **GitHub:** [@kristenmcconnell](https://github.com/kristenmcconnell)
-- **Email:** Kristen.Mcconnell@va.gov
 - **Role:** OCTO PO
 
 - **Name:** Mark Dewey
 - **GitHub:** [@mdewey](https://github.com/mdewey)
-- **Email:** Mark.Dewey@va.gov
 - **Role:** OCTO PO
 
 #### Tech Lead
 
 - **Name:** Simi Adebowale
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Tech Lead
 
 #### Product Manager
 
 - **Name:** Alayna Abel
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Product Manager
 
 ## About This Team
