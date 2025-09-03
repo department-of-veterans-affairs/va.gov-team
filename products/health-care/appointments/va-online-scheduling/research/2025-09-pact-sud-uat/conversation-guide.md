@@ -1,13 +1,13 @@
 ```yaml
 ---
-title: "Conversation Guide for PACT/SUD [UAE, VA Online Scheduling, September 2025]"
-author: "[AUTHOR NAME]"
-date_created: "[YYYY-MM-DD]"
-last_modified: "[YYYY-MM-DD]"
+title: "Conversation Guide for PACT/SUD [UAE, Appointments, September, 2025]"
+author: "[Jenny Wang, Lena Cardoso, Kristen Faiferlick]"
+date_created: "[2025-08-19]"
+last_modified: "[2025-08-19]"
 tags:
   - "[Tag1]"
   - "[Tag2]"
-description: "A template for moderating research sessions including logistics, intro script, task outlines, and consent steps."
+description: "A conversation guide related to VA online scheduling."
 ---
 ```    
     # Conversation Guide for PACT/SUD
