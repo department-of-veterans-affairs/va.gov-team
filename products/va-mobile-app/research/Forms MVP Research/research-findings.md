@@ -113,8 +113,7 @@ synthesis_tools_used:
 
 **Contacts:** [Christine Julian (Researcher)], [Jonathan Post (Designer)]
 
-**[Link to Research Readout]([link-here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/Forms%20MVP%20Research/VAHB%20App%20Forms%20MVP%20Research%20Shareout.pdf))**  
-*Add a link to your research readout deck, if available.*
+**[Link to Research Readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/Forms%20MVP%20Research/VAHB%20App%20Forms%20MVP%20Research%20Shareout.pdf))**  
 
 **Jump to:**
 
