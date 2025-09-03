@@ -1,5 +1,5 @@
 # Ask VA KPIs
-Last updated by @beckyphung on July 29, 2025
+Last updated by @jacobworrell on September 2, 2025
 
 These KPIs help us understand how Ask VA is meeting expected submitter outcomes and operational performance of our Ask VA application. We'll benchmark our KPIs against VA.gov metrics.
 
