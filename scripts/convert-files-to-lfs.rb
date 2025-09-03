@@ -161,6 +161,20 @@ class LFSConverter
     end
   end
   
+  # Public method for formatting file sizes
+  def format_bytes(bytes)
+    units = %w[B KB MB GB TB]
+    size = bytes.to_f
+    unit_index = 0
+    
+    while size >= 1024 && unit_index < units.length - 1
+      size /= 1024
+      unit_index += 1
+    end
+    
+    "#{size.round(1)} #{units[unit_index]}"
+  end
+  
   private
   
   def verify_environment
@@ -257,19 +271,6 @@ class LFSConverter
     return 0 unless File.exist?(path)
     
     File.size(path)
-  end
-  
-  def format_bytes(bytes)
-    units = %w[B KB MB GB TB]
-    size = bytes.to_f
-    unit_index = 0
-    
-    while size >= 1024 && unit_index < units.length - 1
-      size /= 1024
-      unit_index += 1
-    end
-    
-    "#{size.round(1)} #{units[unit_index]}"
   end
   
   def create_backup_branch
@@ -427,7 +428,7 @@ def main
       puts ""
       puts "💡 Use --migrate to convert files, --help for more options."
       puts ""
-      puts "⚠️  For this large repository (#{analysis_result[:files].length} files, #{converter.send(:format_bytes, analysis_result[:total_size])}),"
+      puts "⚠️  For this large repository (#{analysis_result[:files].length} files, #{converter.format_bytes(analysis_result[:total_size])}),"
       puts "   consider using --priority-only first to migrate large files."
     end
     
