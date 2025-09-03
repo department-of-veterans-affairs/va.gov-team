@@ -293,7 +293,7 @@ class LFSConverter
     
     begin
       # Use git lfs migrate import with specific file list
-      cmd = "git lfs migrate import --include-ref=HEAD --fixup --no-rewrite --verbose"
+      cmd = "git lfs migrate import --include-ref=HEAD --fixup --verbose"
       
       # Add each file explicitly to avoid pattern issues
       files.each do |file|
