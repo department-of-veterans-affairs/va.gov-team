@@ -28,6 +28,7 @@
 <img width="434" height="942" alt="Screenshot 2025-08-26 at 4 16 54 PM" src="https://github.com/user-attachments/assets/97d7ffe1-8cb8-4760-bf9a-511335d73040" />
 
 Viewed when users are not logged in already to the app.
+
 <img width="425" height="942" alt="Screenshot 2025-08-26 at 3 36 13 PM" src="https://github.com/user-attachments/assets/e64dce3e-69eb-4fdd-a0f5-a5aa81e6ca61" />
 
 
