@@ -1,7 +1,7 @@
 # Paperless delivery settings use cases
 **Last updated: August 2025**
 
-- [User flow](https://www.figma.com/design/DWOjExui9JzyzwhMBWOFkw/Paperless-delivery-opt-in?node-id=2592-20588&t=z8k7qVk61u67asjJ-1)
+- [User flow](https://www.figma.com/design/DWOjExui9JzyzwhMBWOFkw/Paperless-delivery-opt-in?node-id=2627-16758&t=o5rTYQykZL0StMUo-1)
 - [Figma files](https://www.figma.com/design/DWOjExui9JzyzwhMBWOFkw/Paperless-delivery-opt-in?node-id=2593-24032&t=z8k7qVk61u67asjJ-1)
 
 
