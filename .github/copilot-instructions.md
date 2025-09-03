@@ -57,7 +57,7 @@ For additional environment verification and setup steps, see: [`copilot-setup-st
 ### Environment Requirements
 
 - **Standard runners work well** with sparse checkout - `ubuntu-latest` is sufficient for most tasks
-- **Use larger runners only when necessary** - `ubuntu-latest-4-cores` or `ubuntu-latest-8-cores` for full repository operations
+- **Use larger runners only when necessary** - `ubuntu-4-cores-latest` or `ubuntu-8-cores-latest` for full repository operations
 - **Always use sparse checkout** - avoids "No space left on device" errors
 - **Extend timeouts** to 45-60 minutes for large operations
 - **Monitor disk space** with `df -h` to ensure sufficient space
@@ -238,7 +238,7 @@ ruby scripts/cleanup.rb
 ### "No space left on device" errors
 1. Ensure sparse checkout is properly configured to limit directories  
 2. Use shallow clone (`fetch-depth: 1`)
-3. Switch to larger GitHub Actions runners only if needed (`ubuntu-latest-4-cores`)
+3. Switch to larger GitHub Actions runners only if needed (`ubuntu-4-cores-latest`)
 4. Monitor disk usage with `df -h`
 5. Remove unnecessary files during workflow execution
 

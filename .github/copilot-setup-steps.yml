@@ -10,7 +10,7 @@ steps:
       echo "=== GitHub Actions Runner Information ==="
       echo "✅ This repository (~35GB) works well with standard runners when using sparse checkout"
       echo "✅ Recommended: ubuntu-latest (2-core) for most tasks with sparse checkout"
-      echo "⚠️  Use larger runners (ubuntu-latest-4-cores, ubuntu-latest-8-cores) only for full repository operations"
+      echo "⚠️  Use larger runners (ubuntu-4-cores-latest, ubuntu-8-cores-latest) only for full repository operations"
       echo "📝 Note: Larger runners may have longer queue times"
       echo ""
       echo "Current runner specs:"
