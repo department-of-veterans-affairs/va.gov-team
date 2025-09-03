@@ -19,8 +19,8 @@ sequenceDiagram
 
     V->>V: Check lastname and dob match user information (Yes -> continue) 
     V->>V: Generate one-time code (OTC) for EDIPI
-    V->>N: Send user information email
-    N-->>U: Send OTC (email) with VANotify
+    V->>N: Send email and templateId
+    N-->>U: Send OTC email with VANotify
 
     U->>F: Enter OTC
     F->>V: POST OTC and EDIPI
@@ -32,6 +32,8 @@ sequenceDiagram
     F->>V: Submit appointment with EDIPI
     V->>S: passthrough appointment with EDIPI
     S-->>V: Appointment confirmed
+    V->>N: Send email address and confirmed templateId
+    N-->>U: Send confirmation email(with link to cancel)
     V-->>F: Appointment confirmed
     F-->>U: Display Confirmation message
 ```
