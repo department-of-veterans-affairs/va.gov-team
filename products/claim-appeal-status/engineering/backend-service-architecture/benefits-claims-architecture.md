@@ -1,4 +1,4 @@
-# VA.gov Claims Status Architecture
+# VA.gov Claims Status Tool - BenefitsClaimsController Architecture
 
 This document outlines the architecture flow for a user accessing their claims status on VA.gov.
 
