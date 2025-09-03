@@ -376,8 +376,10 @@ In the future we will also run a study with assistive tech users and recommend t
   
 ## Pages and applications used
 
-[Prototype link for iOS]([link here](https://testflight.apple.com/join/RrO0Cw2q))
-[Prototype link for Android] ([link here]https://appdistribution.firebase.dev/i/6bea6c3fabc1a872)
+[Prototype link for iOS](https://testflight.apple.com/join/RrO0Cw2q)
+
+[Prototype link for Android](https://appdistribution.firebase.dev/i/6bea6c3fabc1a872)
+
 **Note to run the prototype:** Codespace must manually be launched each time an individual desires to access the prototype. The device used to access the prototype MUST be a mobile device.
  
 **Instructions to access prototype from an iOS mobile device:**
@@ -410,12 +412,12 @@ In the future we will also run a study with assistive tech users and recommend t
 
 ## Other supporting documents created
 
-*Include links to additional materials, e.g., personas, user flows.*  
+[Screenshots from testing](https://github.com/department-of-veterans-affairs/va.gov-team/blob/4f3e132cdcb4068d026a2e1172e42b1b18fb2ae1/products/va-mobile-app/research/Forms%20MVP%20Research/static-screenshots.md)
 
 
 ## Secondary research
 
-*Include any relevant secondary research, e.g., web analytics, SME interviews.*  
+System Usability Scale [results linked here](https://app.optimalworkshop.com/questions/dj540s05/vhbappformsmvp/shared-results/6r9vvgvgh2rjnmn7q7pviqub5ynq6hx0#/t/results/questions)
 
 ## Who we talked to 
 
