@@ -30,14 +30,12 @@
 
 - **Name:** Michael Land
 - **GitHub:** [@mikefland](https://github.com/mikefland)
-- **Email:** Michael.Land2@va.gov
 - **Role:** OCTO-DE Lead
 
 #### Team Representative
 
 - **Name:** Adam Oyenuga
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Representative
 
 ## About This Team

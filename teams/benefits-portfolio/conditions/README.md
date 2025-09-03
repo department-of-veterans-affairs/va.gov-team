@@ -32,31 +32,26 @@ Directory system will parse this section to display team member contact informat
 
 - **Name:** Emily Theis
 - **GitHub:** [@emilytheis](https://github.com/emilytheis)
-- **Email:** [Emily.Theis@va.gov]
 - **Role:** OCTO PO
 
 #### Team Lead
 
 - **Name:** [Full Name]
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Lead
 
 #### OCTO Leads
 
 - **Name:** Liz Lantz
 - **GitHub:** [@andaleliz](https://github.com/andaleliz)
-- **Email:** [Elizabeth.Lantz@va.gov]
 - **Role:** OCTO Design/Research Lead
 
 - **Name:** Leah Bannon
 - **GitHub:** [@leahbannon2](https://github.com/leahbannon2)
-- **Email:** [leah.bannon2@va.gov]
 - **Role:** OCTO Design/Research Lead
 
 - **Name:** Cory Schrakoff
 - **GitHub:** [@CorySohrakoffUSDS](https://github.com/CorySohrakoffUSDS)
-- **Email:** [Cory.Sohrakoff@va.gov]
 - **Role:** OCTO Engineering Lead
 
 ## About This Team

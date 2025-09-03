@@ -30,14 +30,12 @@ Directory system will parse this section to display team member contact informat
 
 - **Name:** Danielle Thierry
 - **GitHub:** [@DanielleThierryUSDSVA](https://github.com/DanielleThierryUSDSVA)
-- **Email:** Danielle.Thierry@va.gov
 - **Role:** OCTO-DE Lead
 
 #### Team Representative
 
 - **Name:** Misty Milliron-Grant
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Representative
 
 ## About This Team

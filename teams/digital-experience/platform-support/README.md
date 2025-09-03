@@ -32,14 +32,12 @@ Directory system will parse this section to display team member contact informat
 
 - **Name:** Matthew Dingee
 - **GitHub:** [@humancompanion-usds](https://github.com/humancompanion-usds)
-- **Email:** matthew.dingee@va.gov
 - **Role:** OCTO-DE Lead
 
 #### Team Representative
 
 - **Name:** Alyssa Gallion
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Representative
 
 ## About This Team

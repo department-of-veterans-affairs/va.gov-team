@@ -32,26 +32,22 @@ Directory system will parse this section to display team member contact informat
 
 - **Name:** Sanja Bajovic
 - **GitHub:** [@sanjabaj2](https://github.com/sanjabaj2)
-- **Email:** [Sanja.Bajovic2@va.gov]
 - **Role:** OCTO PO
 
 #### Team Lead
 
 - **Name:** [Full Name]
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Lead
 
 #### OCTO Leads
 
 - **Name:** Ben Guhin Delphine
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** OCTO Design/Research Lead
 
 - **Name:** TBD
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** OCTO Engineering Lead
 
 ## About This Team

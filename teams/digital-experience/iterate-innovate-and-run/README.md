@@ -31,35 +31,30 @@ Directory system will parse this section to display team member contact informat
 
 - **Name:** Dave Conlon
 - **GitHub:** [@davidconlon](https://github.com/davidconlon)
-- **Email:** David.Conlon@va.gov
 - **Role:** OCTO-DE Lead
 
 #### Team Representative
 
 - **Name:** Megan
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Representative
 
 #### Team Representative
 
 - **Name:** Mike
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Representative
 
 #### Team Representative
 
 - **Name:** Pete
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Representative
 
 #### Team Representative
 
 - **Name:** Tabinda
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Representative
 
 ## About This Team

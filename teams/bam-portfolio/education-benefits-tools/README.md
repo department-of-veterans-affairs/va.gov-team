@@ -31,14 +31,12 @@ Directory system will parse this section to display team member contact informat
 
 - **Name:** Darla van Nieukerk
 - **GitHub:** N/A
-- **Email:** [darla.vannieukerk@va.gov]
 - **Role:** Product Owner
 
 #### Team Representative
 
 - **Name:** [Team Representative Name]
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Representative
 
 ## About This Team

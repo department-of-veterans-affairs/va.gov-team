@@ -150,7 +150,6 @@ You can also reach us by attending our weekly office hours on Wednesdays at 3:00
 
 - **Name:** Martha Wilkes
 - **GitHub:** [@artsymartha68](https://github.com/artsymartha68)
-- **Email:** Martha.Wilkes@va.gov
 - **Role:** OCTO-DE Lead
 
 ## Products We Own

@@ -32,14 +32,12 @@ Directory system will parse this section to display team member contact informat
 
 - **Name:** Ryan Thurlwell
 - **GitHub:** [@rtwell](https://github.com/rtwell)
-- **Email:** Ryan.Thurlwell@va.gov
 - **Role:** OCTO-DE Lead
 
 #### Team Representative
 
 - **Name:** Becca Tupaj
 - **GitHub:** [@github-username]
-- **Email:** [contact-email@va.gov]
 - **Role:** Team Representative
 
 ## About This Team
