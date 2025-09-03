@@ -3,7 +3,7 @@ description: Complete required accessibility testing prior to your Staging revie
 title: "Accessibility Testing for [Team Name, Product Name, Feature Name]"
 labels: ["a11y-testing"]
 assignees:
-  - briandeconinck
+  - jasonday
 body:
   - type: markdown
     attributes:
