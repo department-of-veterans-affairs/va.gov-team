@@ -21,18 +21,16 @@ When working on tasks in this repository, **you must use the following optimized
 ```yaml
 jobs:
   your-job-name:
-    runs-on: ubuntu-latest-4-cores  # CRITICAL: Use larger runner
-    timeout-minutes: 60             # CRITICAL: Extend timeout
+    runs-on: ubuntu-latest           # RECOMMENDED: Standard runner works with sparse checkout
+    timeout-minutes: 45-60           # CRITICAL: Extend timeout for large operations
     
     steps:
       - name: Optimized checkout for large repository
         uses: actions/checkout@v4
         with:
-          # Enable Git LFS to handle large files properly
-          lfs: true
           # Use shallow clone to reduce download size
           fetch-depth: 1
-          # Use sparse checkout to only get necessary directories
+          # CRITICAL: Use sparse checkout to only get necessary directories
           sparse-checkout: |
             .github/workflows/
             scripts/
@@ -48,7 +46,7 @@ jobs:
 
 ### Post-Checkout Setup
 
-After checkout, always run:
+After checkout, if working with large files:
 ```bash
 git lfs install
 git lfs pull
@@ -58,8 +56,9 @@ For additional environment verification and setup steps, see: [`copilot-setup-st
 
 ### Environment Requirements
 
-- **CRITICAL: Use larger GitHub Actions runners** - `ubuntu-latest-4-cores` or `ubuntu-latest-8-cores`
-- **DO NOT USE `ubuntu-latest`** (2-core) - will cause "No space left on device" errors
+- **Standard runners work well** with sparse checkout - `ubuntu-latest` is sufficient for most tasks
+- **Use larger runners only when necessary** - `ubuntu-4-cores-latest` or `ubuntu-8-cores-latest` for full repository operations
+- **Always use sparse checkout** - avoids "No space left on device" errors
 - **Extend timeouts** to 45-60 minutes for large operations
 - **Monitor disk space** with `df -h` to ensure sufficient space
 
@@ -219,14 +218,14 @@ ruby scripts/cleanup.rb
 - **Permissions blocks**: Always include explicit permissions in workflows
 - **Security scanning**: Workflows should not expose sensitive data
 
-## Performance Optimization
+### Performance Optimization
 
 ### Repository Size Management
-1. **Always use sparse checkout** - full repository too large for standard runners
-2. **Enable Git LFS** - prevents large file download issues  
-3. **Use shallow clones** - significantly reduces checkout time
-4. **Monitor disk space** - verify availability during operations
-5. **Use larger runners REQUIRED** - `ubuntu-latest-4-cores` or `ubuntu-latest-8-cores` (never use `ubuntu-latest`)
+1. **Always use sparse checkout** - prevents full repository download (35GB+)
+2. **Enable Git LFS when needed** - only for workflows handling large files  
+3. **Use shallow clones** - significantly reduces checkout time (`fetch-depth: 1`)
+4. **Monitor disk space** - verify availability during operations (`df -h`)
+5. **Standard runners are sufficient** - `ubuntu-latest` works with proper sparse checkout
 
 ### Build Optimization
 - **Parallel workflows** when possible for independent tasks
@@ -237,11 +236,11 @@ ruby scripts/cleanup.rb
 ## Troubleshooting Common Issues
 
 ### "No space left on device" errors
-1. Ensure Git LFS is enabled (`lfs: true`)
-2. Use sparse checkout to limit directories  
-3. Switch to larger GitHub Actions runners
-4. Use shallow clone (`fetch-depth: 1`)
-5. Monitor disk usage with `df -h`
+1. Ensure sparse checkout is properly configured to limit directories  
+2. Use shallow clone (`fetch-depth: 1`)
+3. Switch to larger GitHub Actions runners only if needed (`ubuntu-4-cores-latest`)
+4. Monitor disk usage with `df -h`
+5. Remove unnecessary files during workflow execution
 
 ### Large file handling issues
 1. Verify Git LFS is properly configured

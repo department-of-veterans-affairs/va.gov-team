@@ -2,15 +2,16 @@ name: Setup Environment for Large Repository
 
 # Pre-install steps for GitHub Copilot in va.gov-team repository
 # This configures Git LFS and optimizes the environment for the large repository
-# CRITICAL: Must use larger GitHub Actions runners (4-core or 8-core) to handle 35GB repository
+# NOTE: Standard ubuntu-latest runners work well with sparse checkout for most tasks
 
 steps:
   - name: Verify runner specifications
     run: |
-      echo "=== CRITICAL: GitHub Actions Runner Requirements ==="
-      echo "⚠️  This repository (~35GB) requires larger GitHub Actions runners"
-      echo "✅ Use: ubuntu-latest-4-cores or ubuntu-latest-8-cores"
-      echo "❌ DO NOT USE: ubuntu-latest (2-core) - will cause 'No space left on device' errors"
+      echo "=== GitHub Actions Runner Information ==="
+      echo "✅ This repository (~35GB) works well with standard runners when using sparse checkout"
+      echo "✅ Recommended: ubuntu-latest (2-core) for most tasks with sparse checkout"
+      echo "⚠️  Use larger runners (ubuntu-4-cores-latest, ubuntu-8-cores-latest) only for full repository operations"
+      echo "📝 Note: Larger runners may have longer queue times"
       echo ""
       echo "Current runner specs:"
       echo "CPU cores: $(nproc)"
@@ -18,10 +19,11 @@ steps:
       echo "Disk space: $(df -h / | awk 'NR==2 {print $4 " available"}')"
       echo ""
       
-  - name: Configure Git LFS for large files
+  - name: Configure Git LFS for large files (when needed)
     run: |
       git lfs install
       echo "Git LFS configured successfully"
+      echo "Note: Git LFS is mainly needed for workflows that handle large files"
       
   - name: Verify repository optimization
     run: |
@@ -38,6 +40,12 @@ steps:
       ls -la
       echo ""
       echo "✅ Environment optimized for large repository work"
+      echo ""
+      echo "💡 Tips:"
+      echo "- Use sparse checkout to limit directories checked out"
+      echo "- Standard ubuntu-latest runners work well with sparse checkout"
+      echo "- Monitor disk space during operations"
+      echo "- Use larger runners only when full repository checkout is needed"
       
   - name: Setup Ruby environment (if needed)
     run: |

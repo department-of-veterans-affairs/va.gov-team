@@ -291,10 +291,13 @@ class TeamDocumentationValidator
       team_info_issues = find_placeholder_issues(team_info_content)
       instruction_issues = find_instruction_reference_issues(content)
       result[:placeholder_issues] = team_info_issues + instruction_issues
-      result[:completed] = result[:placeholder_issues].empty?
       
       # Validate products section
       validate_products_section(content, result)
+      
+      # Check if team is completed (no team info placeholders AND no product placeholders)
+      has_product_placeholders = has_placeholder_products(result[:product_validation][:products])
+      result[:completed] = result[:placeholder_issues].empty? && !has_product_placeholders
       
     rescue => e
       result[:error] = "Error reading file: #{e.message}"
@@ -360,6 +363,16 @@ class TeamDocumentationValidator
     end
     
     issues
+  end
+
+  def has_placeholder_products(products)
+    return false if products.empty?
+    
+    products.any? do |product|
+      has_placeholder_name = product[:name].match?(/\[Product \d+ Entry\]/) || product[:name].match?(/\[product-name\]/)
+      has_placeholder_url = product[:url].include?('[product-name]')
+      has_placeholder_name || has_placeholder_url
+    end
   end
 
   def validate_products_section(content, result)
@@ -632,12 +645,53 @@ class TeamDocumentationValidator
       return
     end
     
+    # Check if any products have placeholder content that should fail validation
+    placeholder_products = product_validation[:products].select do |product|
+      has_placeholder_name = product[:name].match?(/\[Product \d+ Entry\]/) || product[:name].match?(/\[product-name\]/)
+      has_placeholder_url = product[:url].include?('[product-name]')
+      has_placeholder_name || has_placeholder_url
+    end
+    
     if product_validation[:products].empty?
-      report << "- ⚠️  **Products:** No product YAML links found in 'Products We Own' section"
+      # Empty products section is now valid - some teams don't have specific product directories
+      report << "- ✅ **Products:** No products listed (service teams don't require product directories)"
+      return
+    elsif placeholder_products.any?
+      # If there are placeholder products, fail validation
+      report << "- ❌ **Products:** Contains placeholder product entries that need to be completed"
+      placeholder_products.each do |product|
+        report << "  - **#{product[:name]}:** Contains placeholder text"
+      end
+      
+      # Also validate any real products if they exist
+      real_products = product_validation[:products] - placeholder_products
+      if real_products.any?
+        valid_real_products = real_products.count { |p| p[:file_exists] && p[:yaml_valid] && p[:yaml_issues].empty? }
+        if valid_real_products == real_products.length
+          report << "  - ✅ #{valid_real_products} real product(s) are valid"
+        else
+          report << "  - ❌ #{valid_real_products}/#{real_products.length} real product(s) are valid"
+          real_products.each do |product|
+            next if product[:file_exists] && product[:yaml_valid] && product[:yaml_issues].empty?
+            
+            report << "    - **#{product[:name]}:**"
+            
+            unless product[:file_exists]
+              report << "      - ❌ File does not exist"
+            end
+            
+            unless product[:yaml_valid] && product[:yaml_issues].empty?
+              product[:yaml_issues].each do |issue|
+                report << "      - ❌ #{issue}"
+              end
+            end
+          end
+        end
+      end
       return
     end
     
-    # Count valid vs invalid products
+    # All products are real (no placeholders) - validate them normally
     valid_products = product_validation[:products].count { |p| p[:file_exists] && p[:yaml_valid] && p[:yaml_issues].empty? }
     total_products = product_validation[:products].length
     
