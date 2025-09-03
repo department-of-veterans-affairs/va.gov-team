@@ -7,11 +7,11 @@
 ### Basic Details
 
 - **Team Name:** Content and Information Architecture
-- **Short Name:** content-and-ia _(Used for directory URLs and should ideally match your GitHub team name below)_
-- **GitHub Team Name:** content-ia-team _(Exact name of GitHub team which is also found in your GitHub team link below)_
+- **Short Name:** content-ia _(Used for directory URLs and should ideally match your GitHub team name below)_
+- **GitHub Team Name:** content-ia _(Exact name of GitHub team which is also found in your GitHub team link below)_
 - **GitHub Team Labels:**
   - content-ia
-- **GitHub Team Link:** [https://github.com/orgs/department-of-veterans-affairs/teams/content-ia-team]
+- **GitHub Team Link:** [https://github.com/orgs/department-of-veterans-affairs/teams/content-ia]
 - **Slack Channel:** [#content-ia-centralized-team](https://dsva.slack.com/channels/content-ia-centralized-team)
 
 ### Organizational Affiliation
