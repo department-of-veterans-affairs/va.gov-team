@@ -143,8 +143,6 @@ This research can impact Veterans across many phases of the Veteran journey from
 - What are the key moments this tool supports in the Veteran’s journey?  
 - The results of the study will help us determine if Veterans are able to fill out and complete forms from the mobile app and to identify any pain points. This will inform future form development on the app. 
 
-[Example Research Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-goals) 
-
 
 
 ## Research Questions
