@@ -374,11 +374,11 @@ In the future we recommend research with the following persepectives of underser
 
 
 ## Appendix
-[Product Outline](link here)
+[Product Outline]([link here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/product/archive/2021/Product-Outline.md))
 
-[Research plan](link here)
+[Research plan]([link here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/Forms%20MVP%20Research/Research-Plan.md))
 
-[Conversation guide](link here)
+[Conversation guide]([link here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/Forms%20MVP%20Research/Conversation-guide.md))
 
 [Interview transcripts](link here)
 
@@ -390,8 +390,37 @@ In the future we recommend research with the following persepectives of underser
   
 ## Pages and applications used
 
-*Link to prototypes or pages tested during the study.*  
+[Prototype link for iOS]([link here](https://testflight.apple.com/join/RrO0Cw2q))
+[Prototype link for Android] ([link here]https://appdistribution.firebase.dev/i/6bea6c3fabc1a872)
+**Note to run the prototype:** Codespace must manually be launched each time an individual desires to access the prototype. The device used to access the prototype MUST be a mobile device.
+ 
+**Instructions to access prototype from an iOS mobile device:**
+1. Use the link provided to install test flight on your mobile device.
+2. Once you've installed it (or if you already have it installed), select step 2 "view in test flight" from your mobile device.
+3. Under App Informaton at the bottom of the screen, select "Previous builds"
+4. Select the VA Health and Benefits mobile app version: 2.55.1
+5. Select 'Install' button next to correct build number 2871 (may have to select Load more builds to find version).
+6. It can take a few minutes to download.
+7. Once downloaded select "next".
+8. Select "start testing from the Share feedback screen.
+9. In order to test the prototype our developer needs to launch codespace during your session. Please ping researcher developer Ken Li to run codespace during your prototype (slack K_li).
 
+**Instructions to access prototype from an Android mobile device:**
+1. Provide your email when launching the link above.
+2. After which, you will receive an email invite to the email you supplied us to download the testing app. Please navigate to your email and select that link now.
+3. Open the email and click on "Get started"
+4. It may require you to sign in again to authorize the install.
+5. Select "Download app tester".
+6. While this is downloading, go to your device homescreen > Go to settings > About > click on play store version 7 times (may need to Select "app permissions")
+7. Receive a note "You are now a developer"
+8. Scroll up and press General, click on "Developer options"
+9. Toggle the "interal app sharing"
+10. Return to the window with the steps
+11. Download the release (ensure newest one #7)
+12. If you already have the app installed you'll have to select "Uninstall"
+13. And then go ahead and "Install"
+
+**Note for all users:** You'll be interacting with a demo prototype today. Since it's a demo, note that none of your actions will affect your own VA information or benefits.
 
 ## Other supporting documents created
 
