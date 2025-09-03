@@ -142,7 +142,10 @@ We will partner with Perigean to recruit Veterans. All efforts will be made to r
 
 ### Optional Kick-off Call with Perigean
 
-- `Suggested dates and times:` **09/DD HH:MM**
+- `Available timeslots for a kick off call are below:`
+	- **Tuesday, Sept 9, 3-5pm EST**
+	- **Thursday, Sept 11, 2-4pm EST**
+	- **Friday, Sept 12, 11am-1pm EST**
 
 
 ### Prepare
