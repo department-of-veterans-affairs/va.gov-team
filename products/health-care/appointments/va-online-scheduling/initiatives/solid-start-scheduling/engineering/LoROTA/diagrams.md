@@ -54,28 +54,31 @@ sequenceDiagram
 ```
 
 ### First touch point (OTC)
+
+VASS sends email to form with EDIPI encoded in URL 
+
 ``` mermaid
 sequenceDiagram
+    participant E as Email Service
     participant U as User
     participant F as VASS Application(vets-website)
     participant V as vets-api
     
     participant M as MPI
     participant N as VANotify
-    participant D as VASS-API
+    participant S as VASS-API
     
+    E->>U: VASS sends email with EDIPI encoded URL
+    U->>F: Enter Lastname DOB(something to match up with EDIPI)
+    F->>V: Send lastname + DOB + encoded EDIPI
+    V->>S: Check encoded EDIPI in VASS-API
 
-    U->>F: Enter SSN + DOB
-    F->>V: Send SSN + DOB
-    V->>M: Lookup in MPI
-    M-->>V: Return ICN + EDIPI (if match)
-    V->>D: Check EDIPI in VASS-API
+    S-->>V: Exists? (Yes -> return user information, No -> return error)
 
-    D-->>V: Exists? (Yes → return user information, No → stop)
-
+    V->>V: Check lastname and dob match user information (Yes -> continue) 
     V->>V: Generate one-time code (OTC) for EDIPI
-    V->>N: Send user information email/phone
-    N-->>U: Send OTC (SMS/email) with VANotify
+    V->>N: Send user information email
+    N-->>U: Send OTC (email) with VANotify
 
     U->>F: Enter OTC
     F->>V: Verify OTC
@@ -83,8 +86,8 @@ sequenceDiagram
 
     U->>F: Select appointment
     F->>V: Submit appointment with EDIPI
-    V->>D: Submit appointment with EDIPI
-    D-->>V: Appointment confirmed
+    V->>S: Submit appointment with EDIPI
+    S-->>V: Appointment confirmed
     V-->>F: Appointment confirmed
     F-->>U: Confirmation message
 ```
