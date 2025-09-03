@@ -9,9 +9,15 @@
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.mov filter=lfs diff=lfs merge=lfs -text
 *.avi filter=lfs diff=lfs merge=lfs -text
-
-# Temporary exclusions for files with corrupted LFS objects
-"assets/False Foreign White Paper_V3.docx" -filter -diff -merge
-"products/GIBCT_SMF Product Outline.docx" -filter -diff -merge
-"products/VA.gov.Profile.product.guide.v9.03212024.docx" -filter -diff -merge
-"templates/VA.gov Product Guide Template 06142022.docx" -filter -diff -merge
+templates/VA.gov[[:space:]]Product[[:space:]]Guide[[:space:]]Template[[:space:]]06142022.docx filter=lfs diff=lfs merge=lfs -text
+products/GIBCT_SMF[[:space:]]Product[[:space:]]Outline.docx filter=lfs diff=lfs merge=lfs -text
+products/ask-va/product/product-guides/12.19.24[[:space:]]VA.gov[[:space:]]Product[[:space:]]Guide[[:space:]]-[[:space:]]Ask[[:space:]]VA[[:space:]]-[[:space:]]Version[[:space:]]1.docx filter=lfs diff=lfs merge=lfs -text
+products/ask-va/product/product-guides/6.24.25[[:space:]]VA.gov[[:space:]]Product[[:space:]]Guide[[:space:]]-[[:space:]]Ask[[:space:]]VA[[:space:]]-[[:space:]]Version[[:space:]]2.docx filter=lfs diff=lfs merge=lfs -text
+products/Comparison[[:space:]]Tool[[:space:]]Enhancements/VFEP[[:space:]]SMF[[:space:]]UAT[[:space:]]Feb5.docx filter=lfs diff=lfs merge=lfs -text
+products/Comparison[[:space:]]Tool[[:space:]]Enhancements/GI[[:space:]]Bill[[:space:]]Comparison[[:space:]]Tool_Specialized[[:space:]]Mission[[:space:]]Filter[[:space:]]v2[[:space:]]Product[[:space:]]Product[[:space:]]Outline_v2[[:space:]](1).docx filter=lfs diff=lfs merge=lfs -text
+products/accredited-representation-management/product-documentation/representative-status/contact-center/product-guide-representative-status-1.0.docx filter=lfs diff=lfs merge=lfs -text
+products/office-administration/vba/sco-migration/design/ui/VBA[[:space:]]School[[:space:]]Resources.sketch filter=lfs diff=lfs merge=lfs -text
+products/decision-reviews/Notice-of-Disagreement/NOD-2.mp4 filter=lfs diff=lfs merge=lfs -text
+products/office-administration/vba/sco-migration/deliverables/BuildandTestCheckpoint_SCO_CT116_11202019.pdf filter=lfs diff=lfs merge=lfs -text
+products/office-administration/offices/research/OPIA-Administration[[:space:]]research[[:space:]]-[[:space:]]design[[:space:]]studio[[:space:]]-[[:space:]]February[[:space:]]2019/20190228_VA.govCMS_office_designStudio_synthesisCapture.pptx filter=lfs diff=lfs merge=lfs -text
+products/accredited-representation-management/product-documentation/appoint-a-representative/contact-center/product-guide-appoint-a-representative-2.0.docx filter=lfs diff=lfs merge=lfs -text
