@@ -41,10 +41,6 @@ Added an exception to time zone formatting for automated time stamps:
 > **Note:** If the text is already bold (like in some error messages), we can use quotation marks to reference buttons, screens, or section headers.
 - Made edits to the rest of the page to align with our style (these edits don’t affect guidance)
 
-### Components
-
-### Patterns
-
 ## July 2025
 
 ### Content style guide
