@@ -160,6 +160,7 @@ We will partner with Perigean to recruit Veterans. All efforts will be made to r
 
 ### Research sessions
 - `Planned dates of research:` **09/DD-09/DD**
+- **Will at in times when we are closer to research kick-off**
 
 
 ### Length of sessions
