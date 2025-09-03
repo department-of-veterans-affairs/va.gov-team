@@ -1,6 +1,6 @@
 # Style guide and Design System updates
 
-This page outlines all updates to the content style guide and Design System (components, patterns, and IA) beginning in May 2025. If you have any questions or would like to suggest a change or addition to the style guide, send us a message in Slack at #content-ia-centralized-team.
+This page outlines all updates to the content style guide and Design System (components, patterns, and IA) beginning in May 2025. If you have any questions or would like to suggest an addition to the style guide, send us a message in Slack at #content-ia-centralized-team.
 
 [Full guidance is available on the Design System site](https://design.va.gov/)
 
