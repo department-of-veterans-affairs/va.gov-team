@@ -40,11 +40,11 @@ Design & Research:
 Engineering:
 - Obedi Ferreira (Thoughtworks, Tech Lead)
 - Filip Fafara (Thoughtworks, Solution Architect)
-- Frances Henshall (Thoughtworks, Developer)
+- Steve Ferguson (Thoughtworks, Architecture, Developer)
 - Sarah Cnota (Thoughtworks, Developer)
 - Daniel Olson (Thoughtworks, Developer)
 - Ashley Gentles (Thoughtworks, Developer)
-- Fara Hughes (Thoughtworks, Developer)
+- Christopher McCollum (Thoughtworks, Architecture, Developer)
 - MR Ngo (Thoughtworks, Developer)
 - Charly McRae-Olson (Thoughtworks, Quality Analyst)
 
