@@ -111,7 +111,7 @@ synthesis_tools_used:
 
 **Date:** 08/28/2025
 
-**Contacts:** [Christine Julian (Researcher)], [Jonathan Post (Designer)]
+**Contacts:** Christine Julian (Researcher), Jonathan Post (Designer), Ken Li (Developer)
 
 **[Link to Research Readout](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/Forms%20MVP%20Research/VAHB%20App%20Forms%20MVP%20Research%20Shareout.pdf))**  
 
