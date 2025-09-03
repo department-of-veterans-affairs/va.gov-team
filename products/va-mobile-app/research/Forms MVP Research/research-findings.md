@@ -107,7 +107,7 @@ synthesis_tools_used:
 
 # Forms MVP Usability Study Research Findings 
 
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
+**Office of the CTO - Digital Experience (OCTO-DE), VA Health and Benefits App, Mobile App and Platform Team**
 
 **Date:** 08/28/2025
 
@@ -184,7 +184,7 @@ Can Veterans locate and resume a form they previously started in the mobile app?
 Research goal #1: Understand if Veterans can find and interact with forms from the app.
 
 1. Veterans will be able to easily locate the forms section within the mobile app without extensive guidance.
-- **Likely False**. Many participants needed guidance to locate the "Go to my forms" button, as they initially thought to look under "Claims" or "Benefits." 
+- **Likely False**. 6 participants needed guidance to locate the "Go to my forms" button, as they initially thought to look under "Claims" or "Benefits." 
 2. Veterans will be able to follow the intended navigation steps to start a new form from within the app.
 - **Likely True**. Veterans could generally follow the steps, but the research also revealed issues with participants skipping introductory text on screen "Submit a statement in support of a claim" and being unclear about which option to choose on the screen 'What would you like to do".
 3. Some Veterans may experience confusion or difficulty due to unclear labeling or navigation options related to forms.
@@ -277,7 +277,7 @@ Research goal #4: Identify if Veterans can start a form and come back to it at a
 - Veterans expect to see their progress over time within the steps of claims processing.
 - Users often checked both tabs ‘Active’ and ‘Complete’ to find their form as complete to them may translate to the fact that they have completed the form.  
 
->*"“If I come back here week after week, and see its in progress then I’m probably going to be likely to find is there a phone number that I can call?…I would like to see some sort of gauge…it could even be a bar like moving to complete.”
+>*"If I come back here week after week, and see its in progress then I’m probably going to be likely to find is there a phone number that I can call?…I would like to see some sort of gauge…it could even be a bar like moving to complete.”
 
 
 ---
