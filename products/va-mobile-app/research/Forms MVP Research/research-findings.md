@@ -64,12 +64,22 @@ demographics:
     sighted_keyboard: X
     captions: X
 key_findings:
-  - "Finding 1"
-  - "Finding 2"
-  # etc.
+  - 1. Forms from the app were generally well received.
+  - 2. Veterans may navigate to this activity from various paths.
+    3. Veterans were confused about the wording of the options on the 'What would you like to do?' screen that directs them to various forms.
+    4. Veterans struggle to return to the app from webview.
+    5. Mobile users are prone to typing errors in their form entry. Typing on a smaller device is frustrating for many Veterans as they experience smaller touch targets & compact keyboards.
+    6. Users may miss screen content or attempt to scroll around instead of dismiss toast messages in the app.
+    7. Users desire more information about the status of a form after submission as proposed statuses may be interpreted in different ways.
 recommendations:
-  - "Recommendation 1"
-  - "Recommendation 2"
+- 1. Move forward with an MVP of forms in the mobile app.
+- 2. Consider multiple pathways to forms. Direct users to the 21-4138 form also under the context of claims.
+- 3. Update the wording of the options on the screen 'What would you like to do?’. 
+- 4. Update the text of the ‘Done’ button. 
+- 5. Consider smaller ‘light-weight’ forms that require shorter responses with less manual entry for the mobile app.
+- 6. Consider alternative methods of delivering messages to an app user rather than a toast, or encourage users to dismiss the message more clearly.
+- 7. Provide the steps of processing the form to decision reflecting the current progress in relation to the whole with meaningful details and dates.
+
 kpi_alignment:
   - "KPI 1"
   - "KPI 2"
