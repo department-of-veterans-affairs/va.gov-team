@@ -9,6 +9,7 @@ The "Missing Pega Status" dashboard widget indicates that certain forms haven't 
 1. Gather information about the submission in question using the `MissingStatusCleanup` utility (see [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/team/on-call-procedures.md) for detailed commands)
     - Access a Vets-API Pod:
         * Open a web browser and navigate to [Argo CD](https://argocd.vfs.va.gov/applications/vets-api-prod?resource=) to get access to a running instance of the backend
+        * Select application `vets-api-prod`
         * Select a pod with a name beginning with `vets-api-web-` and start a console session in it
     - Using the guide [here](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/team/on-call-procedures.md), search for submissions with missing Pega statuses
 2. Check the [production Pega instance](https://pega.docmp.vaec.va.gov/prweb/PRAuth/app/daper) (you must be on the VA Network) for a submission with the same name/email as the flagged submssion. If no records match, this may be [common scenario 1](#common-scenarios).
