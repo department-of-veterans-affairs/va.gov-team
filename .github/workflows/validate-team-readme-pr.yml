@@ -15,35 +15,28 @@ permissions:
 
 jobs:
   validate-team-readmes:
-    runs-on: ubuntu-latest-4-cores  # Use larger runner for better disk space
-    timeout-minutes: 30
+    runs-on: ubuntu-latest  # Use standard runner - sufficient for validation with sparse checkout
+    timeout-minutes: 15     # Reduced timeout since validation is lightweight
     
     steps:
-      - name: Optimized checkout for large repository
+      - name: Minimal checkout for team validation
         uses: actions/checkout@v4
         with:
-          # Enable Git LFS to handle large files properly
-          lfs: true
-          # Use shallow clone to reduce download size
+          # Minimal sparse checkout - only what we need for validation
           fetch-depth: 1
-          # Use sparse checkout to only get necessary directories
           sparse-checkout: |
-            .github/workflows/
-            scripts/
+            scripts/manifest/
             teams/
-            products/
           sparse-checkout-cone-mode: false
-          # Ensure we have proper token access
           token: ${{ secrets.GITHUB_TOKEN }}
       
-      - name: Configure Git LFS and environment
+      - name: Verify environment
         run: |
-          git lfs install
-          echo "Repository optimized for large file handling"
+          echo "✅ Minimal repository checkout completed"
           echo "Available disk space:"
-          df -h
-          echo "Repository size:"
-          du -sh .
+          df -h | head -2
+          echo "Checked out directories:"
+          ls -la
       
       - name: Setup Ruby environment
         uses: ruby/setup-ruby@v1
