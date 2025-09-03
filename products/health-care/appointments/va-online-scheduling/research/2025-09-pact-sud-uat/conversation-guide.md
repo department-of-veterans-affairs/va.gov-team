@@ -3,10 +3,7 @@
 title: "Conversation Guide for PACT/SUD [UAE, Appointments, September, 2025]"
 author: "[Jenny Wang, Lena Cardoso, Kristen Faiferlick]"
 date_created: "[2025-08-19]"
-last_modified: "[2025-08-19]"
-tags:
-  - "[Tag1]"
-  - "[Tag2]"
+last_modified: "[2025-09-03]"
 description: "A conversation guide related to VA online scheduling."
 ---
 ```    
