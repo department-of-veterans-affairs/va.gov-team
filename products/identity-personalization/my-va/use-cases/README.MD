@@ -11,6 +11,7 @@ Updated to reflect My VA 3.0 Phase 1 use cases.
 
 ### User logs in with LOA3 account
 
+- NEEDS DOCUMENTATION Missing contact information alert use cases
 - [Claims and appeals use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/claims-and-appeals-use-cases)
 - [Forms and applications use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/benefit-applications-and-forms-use-cases)
 - [Health care use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/health-care-use-cases)
