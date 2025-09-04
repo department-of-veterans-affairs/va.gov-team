@@ -1,7 +1,5 @@
-> [!CAUTION]
-> **WIP**: Last udpated: Februrary 20, 2025
-
 # How the Accessibility Digital Experience (ADE) team audits for accessibility
+Updated September 4, 2025
 
 If you're a new accessibility specialist supporting VA.gov or on one of the product teams supported by one of those specialists, or an [Accessibility Champ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/a11y-champs#accessibility-champions-community-aka-a11y-champs), you might wonder how ADE's team of accessibility specialists audits experiences for accessibility. 
 
