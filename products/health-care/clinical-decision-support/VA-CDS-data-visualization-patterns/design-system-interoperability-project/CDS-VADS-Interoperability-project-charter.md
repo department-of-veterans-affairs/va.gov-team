@@ -15,15 +15,15 @@ The project will:
 
 #### Requirements
 1. **Phased Approach:**
-    - **1. Consume design tokens from VADS**
+    - **P1. Consume design tokens from VADS**
       - a. Contribute design tokens back to VADS that are Clinical DS-specific
       - b.Replace any hard-coded USWDS (U.S. Web Design System) values with VADS tokens
-    - **2. Replace any React component in Clinical DS that is duplicative of a VADS component with the VADS version (React binding version):**
+    - **P2. Replace any React component in Clinical DS that is duplicative of a VADS component with the VADS version (React binding version):**
       - a. Begin with an experiment – import one component that currently does not exist in Clinical DS from VADS, in collaboration with the VA design system team. Communications should include Matt Dingee and Amanda Klausmeier before and during this phase.
       - b. Next experiment - import one component that currently exists in Clinical DS from VADS, in collaboration with the VA design system team. Communications should include Matt Dingee and Amanda Klausmeier before and during this phase. (amended Sep 4, 2025)
       - c. If the experiment is successful, incorporate additional components and replacements.
         - If unsuccessful, create a feedback loop to collaborate on how to unblock issues
-    - **3. Convert any Clinical DS-specific React component to a web component, where feasible:**
+    - **P3. Convert any Clinical DS-specific React component to a web component, where feasible:**
       - a. **ON HOLD** – As stated in the Data Viz contract, the team is blocked from moving forward until Phase 1 and 2 are completed and deemed successful by OCTO. All parties are aware that achieving this within the current contract period of performance is unlikely.
 
 #### Acceptance Criteria
