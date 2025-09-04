@@ -59,7 +59,7 @@ Veterans can easily locate and access comprehensive, clear information about the
 Consider implementing a holistic content strategy for change reporting and overpayment prevention. Build the strategy informed by Veterans mental model and moments in their benefit journey experience where they may be most likely to notice and take action on dependents management requirements.
 
 ## Completed activities to date 
-- [Initial exploration of problem space](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112154)
+- [Initial exploration of unauthenticated dependents management resource pages](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112154)
 - [Audit of 688c/674 entry points](https://github.com/orgs/department-of-veterans-affairs/projects/1237/views/3?pane=issue&itemId=118036186&issue=department-of-veterans-affairs%7Cva.gov-team%7C113355)
 
 ## Next steps
