@@ -37,7 +37,7 @@ Additionally, the research aims to uncover the following:
 
   
 ### Outcome
-The results of the study will help us determine if Veterans are able to fill out and complete forms from the mobile app and to identify any pain points. This will inform future form development on the app.
+The results of the study will help us determine if Veterans who utilize assistive technology, specifically screen readers or magnified screens, are able to fill out and complete forms from the mobile app and to identify any pain points. This will inform future form development on the app.
 
 
 ### Research questions
