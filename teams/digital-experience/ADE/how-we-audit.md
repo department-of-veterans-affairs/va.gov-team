@@ -6,12 +6,12 @@
 If you're a new accessibility specialist supporting VA.gov or on one of the product teams supported by one of those specialists, or an [Accessibility Champ](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/a11y-champs#accessibility-champions-community-aka-a11y-champs), you might wonder how ADE's team of accessibility specialists audits experiences for accessibility. 
 
 **We'll go into that plus:**
-- [What's an audit?](https://github.com/department-of-veterans-affairs/va.gov-team/master/teams/digital-experience/ADE/how-we-audit.md#user-content-whats-an-audit)
-- [When does an audit happen?](https://github.com/department-of-veterans-affairs/va.gov-team/master/teams/digital-experience/ADE/how-we-audit.md#user-content-when-does-it-happen)
-- [What are the outcomes of an audit?](https://github.com/department-of-veterans-affairs/va.gov-team/master/teams/digital-experience/ADE/how-we-audit.md#user-content-what-are-the-outcomes)
-- [How long does an audit take?](https://github.com/department-of-veterans-affairs/va.gov-team/master/teams/digital-experience/ADE/how-we-audit.md#user-content-how-long-does-it-take)
-- [What is tested during an audit?](https://github.com/department-of-veterans-affairs/va.gov-team/master/teams/digital-experience/ADE/how-we-audit.md#user-content-whats-tested)
-- [How to get started with an audit?](https://github.com/department-of-veterans-affairs/va.gov-team/master/teams/digital-experience/ADE/how-we-audit.md#user-content-how-do-we-start-one-and-whats-the-process)
+- [What's an audit?](#user-content-whats-an-audit)
+- [When does an audit happen?](#user-content-when-does-it-happen)
+- [What are the outcomes of an audit?](#user-content-what-are-the-outcomes)
+- [How long does an audit take?](#user-content-how-long-does-it-take)
+- [What is tested during an audit?](#user-content-whats-tested)
+- [How to get started with an audit?](#user-content-how-do-we-start-one-and-whats-the-process)
    
 ## What's an audit?
 
