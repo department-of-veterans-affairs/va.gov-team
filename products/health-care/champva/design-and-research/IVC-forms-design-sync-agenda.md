@@ -1,5 +1,15 @@
 # Running Design and Research Agenda
+September 4 2025
+Attendees: Renata Keck, Rachel Pope, Jamie Fiore, Amanda Klausmeier, Premal Shah, Mike Mooney, Andrea Merrill, Hieu Vo, Alyssa Li
 
+### Agenda
+- Review UX Now/Next/Later
+- Changes to resubmissions flow to require sendback letter
+- Minimal headers on 1010d/OHI Merge
+- FMP claims ticket
+
+  ### Notes
+  
 ## August 25 2025
 Attendees: Renata Keck, Rachel Pope, Jamie Fiore, Amanda Klausmeier, Premal Shah, Mike Mooney, Andrea Merrill, Hieu Vo, Alyssa Li
 
