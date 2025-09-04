@@ -18,7 +18,7 @@ The following is a non-exhaustive list of identifiers parsed from the Eauth SAML
 
 [Vets-API inspects](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/saml/user_attributes/ssoe.rb) each of the above attributes and makes business logic decisions regarding if a user should be permitted to login to va.gov and any other applications that utilize the sign-in modal (exceptions are made on a case by case basis and are listed in the next section):
  - IEN: 
-    - If a user has more than one IEN attribute with an `A` marker attached to it, the user `IS NOT` permitted to login
+    - If a user has more than one IEN attribute with an `A` marker attached to it, the user `IS` permitted to login
     - If a user has one or less IEN attributes with an `A` marker attached to it, the user `IS` permitted to login
  - Corp ID / Participant ID: uuid from VBA
     - If a user has more than one CORP ID attribute with an `A` marker attached to it, the user `IS NOT` permitted to login
