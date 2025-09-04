@@ -1,4 +1,4 @@
-# Add Service History - Initiative Brief: 
+# Add Service History - Initiative Brief
 
 #### Overview
 
