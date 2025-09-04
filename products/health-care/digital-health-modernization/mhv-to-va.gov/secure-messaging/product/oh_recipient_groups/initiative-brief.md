@@ -66,13 +66,13 @@ Governance rules around "recent" care teams include:
 
 ## Measuring Success (Confirmed September 2025)
 
-Data Dog: Increasing DD collection to 100% for those users on the new flow
+(1) Data Dog: Increasing DD collection to 100% for those users on the new flow
 
-Error rates - the base for comparison, data from the new flow can be separated out and compared to base. This will require some eng capacity (estimated a full day for dashboard build)
+(2) Error rates - the base for comparison, data from the new flow can be separated out and compared to base. This will require some eng capacity (estimated a full day for dashboard build)
 
-CSAT - continue to monitor CSAT for the base, and the new flows. We should be able to break out the new flows with URLs and compare feedback.
+(3) CSAT - continue to monitor CSAT for the base, and the new flows. We should be able to break out the new flows with URLs and compare feedback.
 
-Messsages- Number of messages successfully submitted by platform - this is already tracked
+(4) Messsages- Number of messages successfully submitted by platform - this is already tracked
 
 
 
