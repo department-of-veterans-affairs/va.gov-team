@@ -1,14 +1,70 @@
 # Running Design and Research Agenda
-September 4 2025
-Attendees: Renata Keck, Rachel Pope, Jamie Fiore, Amanda Klausmeier, Premal Shah, Mike Mooney, Andrea Merrill, Hieu Vo, Alyssa Li
+
+## September 4 2025
+Attendees: Renata Keck, Jamie Fiore, Amanda Klausmeier, Premal Shah, Mike Mooney, Andrea Merrill, Hieu Vo, Jessica Stump
 
 ### Agenda
 - Review UX Now/Next/Later
 - Changes to resubmissions flow to require sendback letter
-- Minimal headers on 1010d/OHI Merge
 - FMP claims ticket
+- Minimal headers on 1010d/OHI Merge
 
-  ### Notes
+### Notes
+
+**UX roadmap overview**
+  
+  * Address updates is for the 10-10d merge, but it’s in the backlog. This is not a launch-blocker, can be done post-launch. 
+	* Resubmission study: did scope of the findings report change due to the change in the flow?
+    	* Yes, we’re omitting findings irrelevant to the current flow.
+
+**Resubmission flow updates **
+
+	* **Next steps:** Team will be migrating [these updated screens](https://www.figma.com/design/Tfhq5h2LwXEeEEtFBAAFOv/CHAMPVA-Claims--10-7959a-?node-id=6047-26992&t=RBGkJTIcmDZ6ezdy-4https://www.figma.com/design/Tfhq5h2LwXEeEEtFBAAFOv/CHAMPVA-Claims--10-7959a-?node-id=6047-26992&t=RBGkJTIcmDZ6ezdy-4) to the Figma SOT next sprint (including changing verbiage that’s consistent with content changes in the 10-10d merged form)
+	* If CHAMPVA claims stakeholders ask for doctype to be assigned in the resub flow in the future, how would we handle that?
+   	 * **Decision:** If in the future the CHAMPVA claims stakeholders want to include designating doctype, would not recommend adding a dropdown to the letter/CHAMPVA EOB upload page because it’s not good friction. UX team encourages adding that doctype tagging to the previous claim control number page
+
+**FMP Claims**
+
+* Background on this form: Right before go-live with the claims form, we assumed the direct deposit information was coming from VA Profile, but it’s not (it’s coming from FSC, “Financial Services Center” from Dept of Treasury) which caused this form to be delayed
+    * [FSC overview (Mural)](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1753456440793/e796411a00bbb9d171b55b4428cb35d5179ff0bd)
+    * This form has been blocked from launch for about 4-5 months
+* The goal with this UX work is to soften the blow of a bad user experience 
+    * When a user applies for FMP, if there’s a FSC record, the system uses data from FSC
+    * If there’s no data in FSC, it uses VBA data (pulls from VA Profile once)
+    * Unless a user goes to the FSC portal, the system does not pull changes to VBA direct deposit/VA Profile to FSC. It’ll only retain the old data. 
+    * FSC Portal does a check in CorpDB once a month
+    * FSC is not meant for Veteran-facing, but business. It’s used for beneficiary travel pay right now, but it’s really putting burden on the user to figure everything out. (Premal walks through the FSC portal)
+    * There’s no way for a user to see the status of their current ACCURATE direct deposit data unless they visit the FSC Portal
+    * Users can call FSC to confirm if a change was made (Premal to confirm)
+* Goal is to go back to the business and build a case for why this is a bad UX, and suggest the least disruptive flow for users, so they understand what to do/their options
+    * Amanda’s not confident that we’ll have a good UX solution to go live with, but we need to design as best we can short-term for this situation
+    * Ideal future-state would be an authenticated experience with VA Profile-based. There’s a potential reduction in fraud in FMP claims if direct deposit is available on the authenticated VA.gov
+    * Premal is working to get the change made so users can update their direct deposit the same as VBA (long-term solution)
+* At the end of this current ticket, what is the intended outcome?
+    * **Decision:** Jessica should have freedom to explore different ideas, intentionally not prescriptive. 
+        * We need a UXer exploring the different flows should be able to recommend what’s an option vs. not viable. 
+        * We have to explain the story of why this is a bad user experience
+    	* Jessica can brainstorm more with Premal and Amanda
+     * Some possible solutioning discussed in the call:
+       > 1. Maybe we can ask: Do you currently get direct deposit payments for FMP?
+       > 2. Have you changed your direct deposit information on VA.gov since you got a payment for FMP claims?
+	   > 3. Then: We outline the possible worst case scenarios of our design and we have VFMP sign off on that risk (ie wrong bank account being paid).
+ 
+	   > Consider opening this up solely to a small sliver of users who have qualifying conditions
+
+**Minimal headers for 10-10d/OHI merge**
+
+* The problem with the minimal headers (as discussed in design sync last week and team standup today) is that the current headers are not referencing the OHI at all, it just talks about 10-10d
+* [Link](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1734537770114/c43159bce476eaee8e52f597201223934411963b) to early integration options Mural
+	* Nobody has done a minimal header with both forms mentioned, the 526EZ uses an eyebrow that mentions the form-within-form only when you reach that section
+* Jamie is working on updating this and made an ask in the OCTO design channel to see if anyone else had done this before. 
+	* Jamie notes there’s several requirements for the experimental pattern for form-within-form. That includes informing users if they completed 2 forms in the confirmation email (either 2 emails for both forms, or 1 email that combines confirmation for both forms)
+    * More to come
+
+
+
+
+
   
 ## August 25 2025
 Attendees: Renata Keck, Rachel Pope, Jamie Fiore, Amanda Klausmeier, Premal Shah, Mike Mooney, Andrea Merrill, Hieu Vo, Alyssa Li
