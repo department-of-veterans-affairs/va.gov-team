@@ -106,13 +106,13 @@ Survey participants were asked to mark which VA-related tasks *are most importan
 
 Five of the top 6 tasks marked as important to the greatest number of participants were related to health care, as shown in the table below. Percentages greater than 50 are highlighted in red, and 40-59% are highlighted in orange. 
 
-![top-tasks-all-ps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-all-ps.png)
+![top-tasks-all-ps](./images/top-tasks-all-ps.png)
 
 The percentages for these top tasks can be compared to all the other tasks in the bar chart and the table below. 
 
-![bar-chart--all-ps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-all-ps-chart.png)
+![bar-chart--all-ps](./images/top-tasks-all-ps-chart.png)
 
-![all-tasks-all-ps-table](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/all-tasks-all-ps-table.png)
+![all-tasks-all-ps-table](./images/all-tasks-all-ps-table.png)
 
 ## 2. Most frequently done tasks were all related to health care 
 
@@ -132,22 +132,22 @@ Because most of the top tasks across all survey responses were related to health
 
 For people who don't use VA health care, it might be unexpected that *Get your VA medical records* would be an important task. However, they may have medical records from past experience with VA health care (maybe they voluntarily disenrolled or became ineligible), or perhaps they mean DoD medical records from their military service.
 
-![top-tasks-no-hc-ps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-no-hc-ps.png)
+![top-tasks-no-hc-ps](./images/top-tasks-no-hc-ps.png)
 
-![top-tasks-hc-ps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-hc-ps.png)
+![top-tasks-hc-ps](./images/top-tasks-hc-ps.png)
 
 It is interesting to note that in the above top tasks lists, the *disability compensation percentage is much higher for people without VA health care* (71%) as compared to those with VA health care (37%). Perhaps a number of Veterans start exploring disability compensation before applying for VA health care.
 
 <details>
   <summary>Click to show details for ALL tasks</summary>
   
-  ![all-tasks-no-hc-chart](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/all-tasks-no-hc-chart.png)
+  ![all-tasks-no-hc-chart](./images/all-tasks-no-hc-chart.png)
 
-  ![all-tasks-no-hc-table](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/all-tasks-no-hc-table.png)
+  ![all-tasks-no-hc-table](./images/all-tasks-no-hc-table.png)
     
-  ![all-tasks-hc-chart](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/all-tasks-hc-chart.png) 
+  ![all-tasks-hc-chart](./images/all-tasks-hc-chart.png) 
     
-  ![all-tasks-hc-table](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/all-tasks-hc-table.png)
+  ![all-tasks-hc-table](./images/all-tasks-hc-table.png)
   
 </details>
 
@@ -159,27 +159,27 @@ The results showed that **older participants thought health care and burial task
 
 Note that the older group had many more people (23 of 55) than the younger group (7 of 55). We also defined a third segment with the 25 participants  who were between the oldest and youngest groups (age 35-54). The data from these 25 **in-between-aged participants** (45% of all participants) align more with the older group--**mostly health care tasks plus disability compensation, but no burial**.
 
-![top-tasks-55%26over](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-55%26over.png)
+![top-tasks-55%26over](./images/top-tasks-55%26over.png)
 
-![top-tasks-under35_a](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-under35_a.png)
+![top-tasks-under35_a](./images/top-tasks-under35_a.png)
 
-![top-tasks-age35-54](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-age35-54.png)
+![top-tasks-age35-54](./images/top-tasks-age35-54.png)
 
 
 <details>
   <summary>Click to show details for ALL tasks</summary>
 
-  ![all-tasks-55%26over-chart](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/all-tasks-55%26over-chart.png)
+  ![all-tasks-55%26over-chart](./images/all-tasks-55%26over-chart.png)
 
-  ![all-tasks-55%26over-table](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/all-tasks-55%26over-table.png)
+  ![all-tasks-55%26over-table](./images/all-tasks-55%26over-table.png)
     
-  ![all-tasks-under35-chart](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/all-tasks-under35-chart.png)
+  ![all-tasks-under35-chart](./images/all-tasks-under35-chart.png)
     
-  ![all-tasks-under35-table](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/all-tasks-under35-table.png)
+  ![all-tasks-under35-table](./images/all-tasks-under35-table.png)
     
-  ![all-tasks-age35-54-chart](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/all-tasks-age35-54-chart.png)
+  ![all-tasks-age35-54-chart](./images/all-tasks-age35-54-chart.png)
     
-  ![all-tasks-age35-54-table](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/all-tasks-age35-54-table.png)
+  ![all-tasks-age35-54-table](./images/all-tasks-age35-54-table.png)
     
 </details>
 
@@ -195,24 +195,24 @@ The goal of this research was to come up with one list of top tasks that can be 
 
 All tasks that were marked as important by at least 30% of any one of the above segments were compiled, and the number of times that each task appeared on one of the 6 lists was tallied, along with the percentage of all participants who marked each as important. 
 
-![top-tasks-6segments-tallies&percents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-6segments-tallies%26percents.png)
+![top-tasks-6segments-tallies&percents](./images/top-tasks-6segments-tallies%26percents.png)
 
 The above results show which tasks were rated as important the most often, and this leads to the partition below into **primary, secondary, and tertiary top tasks**. Within each primary/secondary/tertiary grouping, tasks are in order of decreasing percentage selected by all participants.
 
-![top-tasks-6segments-tallies-a](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-6segments-tallies-a.png)
+![top-tasks-6segments-tallies-a](./images/top-tasks-6segments-tallies-a.png)
 
 These top 25 tasks can be **viewed by benefit category**, as seen below in the order above and then sorted by benefit. 9 of the top 25 tasks are related to health care, followed by 4 related to education, 3 related to disability, 3 other, and 6 that are independent of the benefit categories.
 
-![top-tasks-by-benefit](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-by-benefit.png)
+![top-tasks-by-benefit](./images/top-tasks-by-benefit.png)
 
-![top-tasks-by-benefit-sorted](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-by-benefit-sorted.png)
+![top-tasks-by-benefit-sorted](./images/top-tasks-by-benefit-sorted.png)
 
 
 ## 6. Least important tasks overall
 
 Below are the *least important* tasks across all survey participants, which were marked as important by fewer than 10% of participants.
 
-![low-tasks-all-ps](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/low-tasks-all-ps.png)
+![low-tasks-all-ps](./images/low-tasks-all-ps.png)
 
 The first of these tasks *(Learn about or apply for monthly Veterans pension payments)* turned out to be a duplicate of a top task *(Learn about or file for disability compensation)* and so perhaps wasn't well understood and thus not marked as important. 
 
@@ -223,7 +223,7 @@ Two of these tasks involve financial help (*Get help with your rent, utility bil
 
 In the survey question about selecting which tasks are important, we didn't specify how many tasks to select. We had hoped that people would select about 5-10 of them. The average number selected was 9.5, with a range from 1 to 26. The average of 9.5 was interesting because we had originally included the instruction "select up to 10" but removed it. In the chart below, the number of tasks selected shows a normal curve, with the greatest number of people selecting 6-10 tasks. The mode (most commonly occurring number of tasks) was 7.
 
-![#tasks-selected](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/%23tasks-selected.png)
+![#tasks-selected](./images/%23tasks-selected.png)
 
 ## 8. Challenging to recruit people who don't use VA benefits
 
@@ -246,9 +246,9 @@ We had only one participant (2%) who had no experience with VA benefits, which i
 
 Note that the percentages add up to more than 100% because many people interact with VA in more than way.
 
-![interact-VA-chart](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/interact-VA-chart.png)
+![interact-VA-chart](./images/interact-VA-chart.png)
 
-![interact-VA-table](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/interact-VA-table.png)
+![interact-VA-table](./images/interact-VA-table.png)
 
 ### Missing tasks
 After the task importance question, the survey asked if there were any other important VA-related tasks that weren't in the previous list. Here is a list of those tasks--each of which was suggested by only one person:
@@ -289,7 +289,7 @@ In the open-ended survey responses, there was some feedback specifically for VA,
 
 Then **select a range of tasks from the list of the top 25 to have at least some relevance to most people in your user base.**
 
-![top-tasks-6segments-a](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/top-tasks-6segments-a.png)
+![top-tasks-6segments-a](./images/top-tasks-6segments-a.png)
 
 2. Since the unauthenticated VA.gov home page serves users of all ages and experience levels with VA (including with and without VA health care), **we'd like the home page to support all 25 top tasks**. Usability testing of the redesigned home page will provide valuable input to see whether all top tasks--including both learn/apply and manage benefits tasks--are easy to do from the home page.
 
@@ -308,21 +308,21 @@ Then **select a range of tasks from the list of the top 25 to have at least some
 
 # Appendix
 
-[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/research-plan.md)
+[Research plan](./research-plan.md)
 
 
 ## Tools used for Synthesis
 
-[Synthesis spreadsheet](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/analysis/Top%20Tasks%20survey%20data%20analysis.xlsx)
+[Synthesis spreadsheet](./analysis/Top%20Tasks%20survey%20data%20analysis.xlsx)
 
-[Synthesis pictures for report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/analysis/Top%20Tasks%20pictures%20for%20report.pptx)
+[Synthesis pictures for report](./analysis/Top%20Tasks%20pictures%20for%20report.pptx)
 
 
 ## Survey questions
 
-![survey-questions-1](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/survey-questions-1.png)
-![survey-questions-2](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/survey-questions-2.png)
-![survey-questions-3](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/survey-questions-3.png)
+![survey-questions-1](./images/survey-questions-1.png)
+![survey-questions-2](./images/survey-questions-2.png)
+![survey-questions-3](./images/survey-questions-3.png)
 
 
 ## Who we heard from 
@@ -342,7 +342,7 @@ Audience segments:
 
 Note that the percentages add up to more than 100% because many people have more than one role (e.g., a Veteran who's also a family member of another Veteran).
 
-![participant-roles](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/participant-roles.png)
+![participant-roles](./images/participant-roles.png)
 
 Gender:
 * Male:   28
@@ -392,4 +392,4 @@ This research does not include the perspectives of the following marginalized Ve
 * Expat (living abroad)
 * Use assistive technology
 
-![VA-recruitment-checker](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/VA-recruitment-checker.png)
+![VA-recruitment-checker](./images/VA-recruitment-checker.png)
