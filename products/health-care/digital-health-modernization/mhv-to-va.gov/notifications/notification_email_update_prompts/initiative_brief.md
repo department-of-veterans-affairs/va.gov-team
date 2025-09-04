@@ -137,7 +137,7 @@ Display the following UX to all actively enrolled VHA patients. Stop displaying 
 - Yes, because this impacts all My HealtheVet users who receive notifications from VA.gov or VAHB.
 
 **How does this solution address your Assumptions & Risks?**
-- [answer]
+- Solution decisions regarding designs, content, placement, and conditions under which they will be displayed were made with our risks and assumptions in mind.
 
 #### Go-to-market 
 > *What marketing, outreach, or communications are necessary for this product to be successful?*
