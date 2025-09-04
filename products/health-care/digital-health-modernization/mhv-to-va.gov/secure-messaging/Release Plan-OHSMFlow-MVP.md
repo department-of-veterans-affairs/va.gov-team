@@ -1,35 +1,57 @@
 # --DRAFT-- (In Progress)
 
-# Update Start a New Message Flow: MVP Release Plan
+# Update Start a New Message Flow: Release Plan (MVP and Post MVP)
 ## Guidance
 
 _This Release Plan Template is intended to help ensure your new message flow for OH product is ready for MVP launch and will deliver the desired user outcomes._
 
-**Target: Readiness by Week of 9/2/25**
-
-**Staging Review- 9/5/25**
-
-
 ## Product Outline (Background)
 
-As a Veteran with Oracle Health facilities in my profile, I need to be able to find and select the care team when I send a new message, so that I can continue to manage my care and communicate with my providers.
+## MVP: Update Start a New Message Flow
 
-**MVP Epic**: Here: https://github.com/orgs/department-of-veterans-affairs/projects/1729/views/1?pane=issue&itemId=123015170&issue=department-of-veterans-affairs%7Cva.gov-team%7C116017
+EPIC: https://github.com/orgs/department-of-veterans-affairs/projects/1729/views/1?pane=issue&itemId=123015170&issue=department-of-veterans-affairs%7Cva.gov-team%7C116017
 
-**MVP Staging Review Epic**: Here: https://github.com/orgs/department-of-veterans-affairs/projects/1729/views/1?pane=issue&itemId=123018281&issue=department-of-veterans-affairs%7Cva.gov-team%7C116023
+**Summary:** The "send a new message" flow must expand into additional screens in order to accommodate variations in data for triage groups that come in from Oracle Health. This work is "done" when Veterans can message providers at facilities operating on either EHR successfully.
 
 ## Hypothesis
 
 If we change the user flow for sending a new message then we expect it will be able to accommodate very different data structure for triage groups coming from Oracle Health, so that any user will be able to send a new message no matter what EHR their facility runs on.
 
-_Note: This realease will be staged approach with an MVP target for the week of 9/2 and staging review for 9/6 estimated as noted above_
+**Target: Readiness by Week of 9/2/25**
+
+**Staging Review- 9/5/25**
+
+## Post MVP: Add Recent Recipient Flow
+
+EPIC: https://github.com/orgs/department-of-veterans-affairs/projects/1729/views/1?pane=issue&itemId=126050940&issue=department-of-veterans-affairs%7Cva.gov-team%7C117885
+
+**Summary:**
+-Building out a new "shortcut" screen at va.gov/my-health/secure-messages/new-message/recent to allow Veterans to quickly identify -their most recently messaged care providers
+-Adding those same recent care providers into the combo box component on the /select-care-teams page
+-Adjusting the flow for users who do not have any recent recipients
+
+**Staging Review- 9/25/24**
+
+
 
 ## Step 3: Production rollout
 
 ### Do I need a staged rollout?
 
-Yes- MVP and Post MVP
+MVP and Post MVP will Luanch together. Separate Feature toggles
 A defined set of users will be whitelisted in `mhv_secure_messaging_cerner_pilot` Flipper toggle to gain access to the new experience
+
+
+## Overall Roll out Plan: Release the FULL (MVP and Post MVP (Recent Recipient Flow)  together)
+
+Small % Release Rollout then 100% to All Users
+
+1. Replace existing toggle we are using with a new one to decouple from OH integration work
+
+2. Utilize a separate feature toggle recent recipient which will avoid  delaying % release until the FULL feature (including recent recipients). This will ensure that  some users who may be accessing the recent recipient flow while it is still in progress with the team avoid seeing work that is undone
+
+
+
 
 ### Define the Rollback process (To be Updated-does not apply to SM, below is just a SAMPLE template)
 
@@ -99,8 +121,6 @@ Parent [MHV Secure Messaging Metrics Dashboard](https://vagov.ddog-gov.com/dashb
 
 
 ## Post-launch Questions
-
-**Post MVP Epic Here**: Here: https://github.com/orgs/department-of-veterans-affairs/projects/1729/views/1?pane=issue&itemId=126050940&issue=department-of-veterans-affairs%7Cva.gov-team%7C117885
 
 *To be completed once you have gathered your initial set of data, as outlined above.*
 
