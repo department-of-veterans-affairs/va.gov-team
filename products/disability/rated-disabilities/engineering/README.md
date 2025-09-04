@@ -1,2 +1,14 @@
-### Backend Service Architecture Diagram
-<img width="775" alt="Screenshot 2024-03-29 at 11 47 44 AM" src="https://github.com/department-of-veterans-affairs/va.gov-team/assets/13838621/8761206d-a22f-4823-94ff-c4162dcffcf1">
+### Architecture Diagram
+```mermaid
+sequenceDiagram
+    participant Veteran
+    participant Frontend as vets-website
+    participant Backend as vets-api
+    participant Lighthouse as Lighthouse API
+
+    Veteran->>Frontend: Visit disability rating page
+    Frontend->>Backend: Send GET request with Veteran's<br/> ICN to V0::DisabilityCompensationFormsController#35;rated_disabilities
+    Backend->>Lighthouse: Fetch total combined disability rating<br/> and rated disabilities for the Veteran
+    Lighthouse-->>Backend: Return total combined disability rating<br/> and rated disabilities for the Veteran
+    Backend-->>Frontend: Return total combined disability rating<br/> and rated disabilities for the Veteran
+```
