@@ -43,21 +43,21 @@ Findings and recommendations from this research will **inform design guidance an
 ### Research questions
 
 #### Research goal 1: Get user feedback on the new interstitial page with "save in progress" messaging.
-1. How do Veterans feel about encountering the interstitial page after clicking "Continue"?
+1. What reactions do Veterans have upon encountering the interstitial page after clicking "Continue"?
 1. Do Veterans think that their form data is being saved? If so, how confident are they?
 
 #### Research goal 2: See if Veterans can stop and resume filling out a form.  
 1. Do Veterans use the "Finish later" button to stop filling out a form?
 1. Are Veterans able to resume filling out a form that they previously started?
-1. What feedback do Veterans have tono the revised calls to action on the "Finish later" page? 
+1. What feedback do Veterans have on the revised "Finish later" page? 
 
 #### Research goal 3: See if moving the accordion controls to the left side affects usability.
-1. Are Veterans able to open and close the accordions with controls on the left side? 
+1. Are Veterans able to open and close accordions with controls on the left side? 
 
 ### Hypotheses
 
 1. With the new design, Veterans are confident that their form data will be saved.
-1. Authenticated users will be fine with seeing the form intro page only once (instead of twice--once before signing in, and again after signing in).  
+1. Authenticated users will be fine with seeing the form intro page only once (vs. twice--before and after signing in).  
 1. All Veterans (including screen magnifier users) will find the accordion controls on the left side easy to use.
 
 ---
@@ -95,8 +95,8 @@ We would like Perigean to recruit assistive tech (AT) users and non-AT users.
 ### Primary criteria (must-haves) in *decreasing* order of priority
 *What demographics, experience, and scenarios do you need participants to meet to effectively run your study?* 
 
-- `4 must use a screen reader every time they access the internet`
-- `2 must use a screen magnifier every time they access the internet`
+- `3 must use a screen reader every time they access the internet`
+- `3 must use a screen magnifier every time they access the internet`
 - `6 must NOT use a screen reader or screen magnifier`
 - `At least 5 have a computer and are willing to use it for the session`
 - `At least 5 have a smartphone and are willing to use it for the session`
@@ -138,10 +138,10 @@ We would like Perigean to recruit assistive tech (AT) users and non-AT users.
 1. What is the name of the screen reader or screen magnifier technology that you will use during the Zoom session? *(open text field--RECORD what they say AND ask the rest of the questions)*
 
     - If they say something non-digital like "magnifying glass, *DISQUALIFY* 
-    - If they say "JAWS", "NVDA", "VoiceOver", "TalkBack", or "Narrator", *RECORD as **screen reader user**, RECRUIT 4 and ask next question*
-    - If they say "Magnifier", "Zoom", "Magnification", "Magnifier", or "ZoomText", *RECORD as **screen magnifier user**, RECRUIT 2 and ask next question*
+    - If they say "JAWS", "NVDA", "VoiceOver", "TalkBack", or "Narrator", *RECORD as **screen reader user**, RECRUIT 3 and ask next question*
+    - If they say "Magnifier", "Zoom", "Magnification", "Magnifier", or "ZoomText", *RECORD as **screen magnifier user**, RECRUIT 3 and ask next question*
     - If they say "increase font size" or "zoom in the browser", ask  what percentage they zoom to. 
-      - If 200% or greater, *RECORD as **screen magnifier user**, RECRUIT 2, and ask next question*
+      - If 200% or greater, *RECORD as **screen magnifier user**, RECRUIT 3, and ask next question*
     - *If unsure whether someone qualifies, please ask Cindy*
 
 1. For this meeting, you'll need a device with Zoom installed that can screen share and has a working microphone. What kind of device will you be using?
