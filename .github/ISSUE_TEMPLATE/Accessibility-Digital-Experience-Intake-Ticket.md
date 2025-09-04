@@ -57,16 +57,19 @@ assignees: artsymartha68, lakper, sara-amanda
 - [ ] **Unsure?** _Check this box if you're not sure what kind of support you need, need multiple types of support, and/or want to meet with us. We'll schedule an introductory meeting to learn more about your team and project._
 
 
-## Provide Your Supporting Artifacts 
-
-> [!TIP]
-> **Include artifacts like your product outline, user flows, mockups and prototypes, etc.** 
-> - **Figma/Mural:** Please tell us which screens/board/section to look at so we don't leave comments on old stuff. 
-> - **Staging Audits:** We will need staging user(s) and scenarios provided.
-
-### Links to Artifacts
-Provide links to any supporting artifacts that can help us better understand your initiative and begin collaboration. 
-
+## Supporting information
+### Starting URL
+(URL)
+### Login information (if applicable)
+(answer)
+### What screens need to be tested?
+(answer)
+### Are there any custom (non-VADS) components in use? Where?
+(answer)
+### Are there any conditional fields or screens? Where?
+(answer)
+### Additional artifacts
+Provide links to any supporting artifacts that can help us better understand your initiative and begin collaboration. This could include your project overview, user flow diagrams, etc.
 - [Artifact 1](Placeholder1)
 - [Artifact 2](Placeholder2)
 - [Artifact 3](Placeholder3)
@@ -95,8 +98,6 @@ _Select all that apply._
 - [ ] Staging
 - [ ] None. This initiative isn’t going through the collaboration cycle.
 
-
-
 ## Next Steps for Your Team
 - [ ] Save and submit this intake ticket.
 - [ ] Start a new thread, and post a link to this ticket in the [accessibility-help](https://dsva.slack.com/archives/C8E985R32) Slack channel by tagging Lakwi Perera.
@@ -123,12 +124,3 @@ _Select all that apply._
 - [ ] _Update date in `Last Checked` field_
 - [ ] _Label with `Actual` (level of effort it took to complete this ticket)_
 - [ ] _Update date in_ `Closed Date`
-
-### Related Tickets (ADE Internal)
-> [!IMPORTANT]
-> #### Tasks are Now Sub-Issues
-> - Related tickets are no longer being tracked in task lists, due to the planned depreceiation of tasks by GitHub in April 2025. 
-> - Instead, related tickets will be connected to tickets via sub-issues.
-> ##### Connecting Tickets
-> - **To connect an existing ticket**, choose the drop-down from "create sub-issue" and select "add existing issue"
-> - **To connect a new issue,** choose the drop-down from "create sub-issue" and select "create sub-issue," and select the respective template.
