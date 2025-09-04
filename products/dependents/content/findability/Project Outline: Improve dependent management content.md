@@ -1,6 +1,10 @@
 # Project overview: Improve dependent management content on VA.gov
 
+**Office of the CTO - Digital Experience (OCTO-DE), Dependent Verification, Dependents Experience**
+
 Last update: September 4, 2025
+
+Gretchen Maciolek gretchen.maciolek@adhocteam.us
 
 ## Problem Statement
 
