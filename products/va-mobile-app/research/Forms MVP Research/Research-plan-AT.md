@@ -125,6 +125,10 @@ We would like Pergean's support in recruiting eligibile participants for the stu
 - Must have interacted with the mobile app at least once
 - 3 to 4 Veterans from rural areas
 - 3 to 4 Veterans over the age of 55
+- 4 to 5 Veterans with cognitive disabilities
+- 3 to 4 Veterans with no degree
+- 1 to 2 Veterans that identify as LGBTQ+
+- 2 to 3 Veterans of immigrant origin
 - 4-6 of each AT group mentioned below:
 
 We will recruit 12 Veterans for:
@@ -201,58 +205,34 @@ If Android, pleae request their email where an invitation to the testing link wi
 - Yes would qualify them for the study
 - No would disqualify them
 
-#### Screen reader users, please also ask the following screener questions.
+5. Do you use a screen reader or screen magnifier every time you use the Internet? We ask this question because we want to make sure that our website works for people who rely on these types of technologies.
 
-1. Do you need to use a screen reader to access websites or applications? For example, VoiceOver, TalkBack, or JAWS.
-    - Yes
-    - No
-2. If you answered yes, which screen reader do you use? Please select all that apply.
-    - JAWS
-    - NVDA
-    - VoiceOver (iPhone, iPad, Mac)
-    - TalkBack (Android)
-    - Narrator (Windows)
-    - Other (Please specify): ________________
-    - This question doesn't apply to me
-3. How long have you been using a screen reader? Your best guess is okay.
-    - 0 - 1 years
-    - 2 - 4 years
-    - 5+ years
-    - Never used
-4. How frequently do you use a screen reader? Your best guess is okay.
-    - Daily
-    - Once a week
-    - Once a month
-    - Never
-5. Can you join the Zoom session from your mobile device using your screen reader?
-    - Yes
-    - No
-    - This question doesn't apply to me
-6. Please list the name of the screen reader you will use during the session.
-    - Open text box
+- Yes would qualify them for the study
+- No would disqualify them
 
-#### Screen magnification users, please also ask the following screener questions.
+6. Are you willing to join the testing session using your screen reader or screen magnifier?
 
+- Yes would qualify them for the study
+- No would disqualify them
 
-1. Do you consistently need to resize fonts or use a magnification setting to see your screen when you are using your mobile device?
-    - Yes
-    - No
-2. If you answered yes, which screen magnification tool do you use?
-   - Open text box
-3. How long have you been using a screen magnification tool? Your best guess is okay.
-    - 0 - 1 years
-    - 2 - 4 years
-    - 5+ years
-    - Never used
-4. How frequently do you use screen magnification on VA.gov?
-   - Always
-   - Sometimes
-   - Rarely
-   - Never
-5. Can you join the Zoom session from your mobile or desktop device using the screen magnification tool you need to see your screen?
-   - Yes
-   - No
-   - This question doesn't apply to me
+7. How long have you been using this screen reader or screen magnifier?
+
+- Less than 1 year would disqualify them
+- At least 1 year would qualify them
+
+8. What is the name of the screen reader or screen magnifier technology that you will use during the Zoom session? (open text field--RECORD what they say AND ask the rest of the questions)
+
+- If they say something non-digital like "magnifying glass, it would disqualify them
+- If they say "JAWS", "NVDA", "VoiceOver", "TalkBack", or "Narrator", RECORD as screen reader user, RECRUIT 6 and ask next question
+- If they say "Magnifier", "Zoom", "Magnification", "Magnifier", or "ZoomText", RECORD as screen magnifier user, RECRUIT 3 and ask next question
+- If they say "increase font size" or "zoom in the browser", ask what percentage they zoom to.
+- 	If 200% or greater, RECORD as screen magnifier user, RECRUIT 3, and ask next question
+- 	If unsure whether someone qualifies, please ask Christine
+
+9. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.
+
+- No (ask next question)
+- Yes (RECRUIT 5, RECORD as having a cognitive disability)
 
 
 ## Timeline 🗓️
