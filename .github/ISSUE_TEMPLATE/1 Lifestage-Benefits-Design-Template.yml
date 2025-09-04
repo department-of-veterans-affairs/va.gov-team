@@ -1,0 +1,71 @@
+
+name: Lifestage Benefits Team Design Template
+description: Design ticket for Lifestage Benefits Team 
+labels: ["lifestage LSS", "dependents-benefits", "pension", "Burial",  "Income & Asset", "design", "needs-refinement"]
+projects: 
+- department-of-veterans-affairs/1237
+type: Task
+
+body:
+- type: markdown
+  attributes:
+    value: |
+      Use clear, simple language and action verbs to describe the work. Avoid acronyms and jargon.
+- type: textarea
+  attributes:
+    label: User Need 
+    description: |
+      ```As a **user**, I want to **do something**, so that **something happens**.```
+    placeholder: |
+      As a **user**, I want to **do something**, so that **something happens**.
+- type: textarea
+  attributes:
+    label: Background
+    description: Add some helpful context about the ticket. Link any related tickets here.
+    
+- type: textarea
+  attributes:
+    label: Tasks
+    description: What are the tasks for this work?
+    placeholder: |
+      - [ ] Task
+      - [ ] Task
+      - [ ] Task
+- type: textarea
+  attributes:
+    label: Acceptance Criteria 
+    description: What are the acceptable conditions to consider this work complete? 
+    placeholder: |
+      - [ ] AC
+      - [ ] AC
+      - [ ] AC
+
+- type: textarea
+  attributes:
+    label: Link to Design
+    description: Link to Figma once work is complete
+
+    - type: textarea
+  attributes:
+    label: Screenshot
+    description: 
+
+- type: checkboxes
+  attributes: 
+    label: Definition of Done
+    options:
+      - label: Meets acceptance criteria
+      - label: Passed all testing coverage
+      - label: Logging and monitoring in place
+      - label: Code or content reviewed (Internal)
+      - label: Reviewed and approved by product and/or design
+
+- type: checkboxes
+  attributes:
+    label: Refinement Checklist! 
+    description: Make this ticket ready to work
+    options: 
+      - label: Add description, tasks, and acceptance criteria
+      - label: Add estimate
+      - label: Set the proper labels, workstream, squad, and priority
+      - label: Add a Milestone
