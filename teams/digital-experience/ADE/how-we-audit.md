@@ -126,5 +126,11 @@ The best way to engage with ADE is early! The earlier in a project that we can g
 - You can also reach out to ADE through the #accessibility-help Slack channel
 - [We recommend starting with a ADE Intake Ticket.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=Accessibility-Digital-Experience-Intake-Ticket.md) From there we’ll connect your team with one or more practice area specialists, who can provide the input that your team is requesting.
 
+In your intake ticket, please tell us:
+- What screens need to be tested
+- What conditional content or pages are in the flow
+- If there are any custom (non-VADS) components in use
+- How to log in to access the product (if applicable)
+
 ## About this Documentation 
 **Primary Source:** The framework of information used in this documentation was [taken from the previously-sunset VA Shared Support Team's version of "How We Audit" version Sept. 21, 2022.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/documentation/how-we-audit.md) 
