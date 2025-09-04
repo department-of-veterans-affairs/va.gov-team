@@ -229,9 +229,9 @@ In the survey question about selecting which tasks are important, we didn't spec
 
 In recruiting participants for this survey, we wanted people who had experience with a variety of VA benefits and services so that each of our tasks would be potentially relevant to at least some respondents (see chart and table below). **The greatest number of survey respondents had experience with VA health care, disability, and education.** One person wrote in that they have experience with services for MST (Military Sexual Trauma).
 
-![benefit-experience-chart](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/benefit-experience-chart.png)
+![benefit-experience-chart](./images/benefit-experience-chart.png)
 
-![benefit-experience-table](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/images/benefit-experience-table.png)
+![benefit-experience-table](./images/benefit-experience-table.png)
 
 We also wanted 20% of our participants to be people who *haven't used any VA benefits but were interested in doing so*, so that the "learn about or apply" tasks might be most relevant for those people. Unfortunately, Perigean had difficulty recruiting people who don't use VA benefits, perhaps due to the following reasons:
 1. Some of the benefits usage data in Perigean's recruitment database were outdated because people may have applied for new benefits after filling out the recruitment survey. This was true for one participant interviewed during a moderated session who said he had applied for a home loan Certificate of Eligibility the day before the research session. 
