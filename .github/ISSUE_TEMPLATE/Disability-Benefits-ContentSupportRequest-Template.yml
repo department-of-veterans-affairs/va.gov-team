@@ -1,5 +1,5 @@
 name: Disability Benefits Content Support Request Template
-description: Content Support Request for Disability Benefits Team
+description: Content support request for the Disability Benefits Team
 title: "[INTAKE] Team name: Initiative name"
 labels: ["disability", "disability-benefits", "content"]
 projects:
@@ -14,7 +14,7 @@ body:
       Use this ticket to [ask the Disability Benefits Crew (DBC) content designer for support](https://docs.google.com/document/d/1YBJgdfQkuULS4S5zOUgOqAt7Tg50l-YnAib8RXYdO1A/edit?tab=t.0#heading=h.e7bnbdg3wale).
 
       ## 👥 Team Info
-      Tell us about your team
+      Tell us about your team.
 - type: input
   attributes:
     label: Product Name
@@ -48,9 +48,9 @@ body:
       ## 🏷️ About your initiative
 - type: checkboxes
   attributes:
-    label: Which of these descriptions best fits the work we'll partner on? (Select all that apply)
+    label: Which of these descriptions best fits the work we'll partner on? (select all that apply)
     options:
-      - label: Digiitzing a new form
+      - label: Digitizing a new form
       - label: Updating an existing form
       - label: Adding new unauthenticated content to VA.gov
       - label: Updating existing unauthenticated content on VA.gov
@@ -61,14 +61,14 @@ body:
     placeholder: Enter something else here
 - type: textarea
   attributes:
-    label: Describe the work effort
-    description: Provide a brief description of the work
+    label: Describe the work effort.
+    description: Provide a brief description of the work.
 
 - type: markdown
   attributes:
     value: |
       ## 📑 Supporting Artifacts
-      Add links to all applicable artifacts and issues
+      Add links to all applicable artifacts and issues.
 
 - type: input
   attributes:
@@ -94,17 +94,17 @@ body:
 - type: textarea
   attributes:
     label: Technical constraints
-    description: Describe any technical constraints or considerations
+    description: Describe any technical considerations or constraints.
 
 - type: input
   attributes:
     label: Timeline
-    description: Provide information about your expected/planned timeline
+    description: Provide information about your expected/planned timeline.
     placeholder: Estimated launch timeline
 - type: input
   attributes:
-    label: Where are you in your design/development process
+    label: Where are you in your design/development process?
 - type: input
   attributes:
     label: Is a staged launch planned?
-    description: If so, please provide details
+    description: If so, please provide details.
