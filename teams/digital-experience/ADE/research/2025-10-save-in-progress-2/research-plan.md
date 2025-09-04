@@ -31,8 +31,8 @@ Veterans may use web forms on VA.gov throughout ALL stages of the Veteran Journe
 
 ### Goals
 
-1. Get user feedback on the interstitial page with "save in progress" messaging.
-1. See if Veterans are able to stop and resume filling out a form. Get user feedback on the revised calls to action on the page that displays after "Finish later" is selected. 
+1. Get user feedback on the new interstitial page with "save in progress" messaging.
+1. See if Veterans can stop and resume filling out a form.  
 1. See if moving the accordion controls to the left side affects usability.
   
 ### Outcome
@@ -42,23 +42,21 @@ Findings and recommendations from this research will **inform design guidance an
 
 ### Research questions
 
-#### Research goal 1: Get user feedback on the interstitial page with "save in progress" messaging.
+#### Research goal 1: Get user feedback on the new interstitial page with "save in progress" messaging.
 1. How do Veterans feel about encountering the interstitial page after clicking "Continue"?
 1. Do Veterans think that their form data is being saved? If so, how confident are they?
 
-#### Research goal 2: 1. See if Veterans are able to stop and resume filling out a form. Get user feedback on the revised calls to action on the page that displays after "Finish later" is selected. 
+#### Research goal 2: See if Veterans can stop and resume filling out a form.  
 1. Do Veterans use the "Finish later" button to stop filling out a form?
 1. Are Veterans able to resume filling out a form that they previously started?
-1. What feedback 
+1. What feedback do Veterans have tono the revised calls to action on the "Finish later" page? 
 
-
-#### Research goal 3: 1. See if moving the accordion controls to the left side affects usability.
-1. 
+#### Research goal 3: See if moving the accordion controls to the left side affects usability.
+1. Are Veterans able to open and close the accordions with controls on the left side? 
 
 ### Hypotheses
 
 1. With the new design, Veterans are confident that their form data will be saved.
-1. With the new design, all users will see and remember the 
 1. Authenticated users will be fine with seeing the form intro page only once (instead of twice--once before signing in, and again after signing in).  
 1. All Veterans (including screen magnifier users) will find the accordion controls on the left side easy to use.
 
@@ -170,17 +168,17 @@ We would like Perigean to recruit assistive tech (AT) users and non-AT users.
 Before recruitment starts, we would like to **request a kickoff call with Perigean** to align on recruitment criteria and terminology for screener questions in the survey and emails that will be sent to Veterans. We would also like to discuss the relative priorities of recruitment criteria.  
 
 Cindy is available for a kickoff call during any of these times: 
-- **May 2**: 12-5 pm ET
+- **Month X**: 12-5 pm ET
 
 **Prior to the kickoff call, we would like a link or screenshot of the recruitment survey** for this study to review beforehand.
 
 - `Dates and times of pilot sessions:` 
-  - **Mon May 5 from 3:30-5 pm ET** with Sarah Koomson
-  - **Tue May 6 from 4-5:30 pm ET** with Maria Mutia
-  - **Wed May 7 from 4-5:30 pm ET** with Evan Burnett
+  - **Month X from y-z pm ET** with TBD
+  - **Month X from y-z ET** with TBD
+  - **Month X from y-z pm ET** with TBD
 
 ### Research sessions
-- `Planned dates of research:` **May 12-21**
+- `Planned dates of research:` **Oct TBD**
 
 We would like to request that **Perigean calls each participant** to remind them about the session, in addition to emailing them. And please include the session time **in each participant's own time zone** (from their address).
 
@@ -194,32 +192,11 @@ We would like to request that **Perigean calls each participant** to remind them
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
 
-- `May 12, Mon, 12 - 1 or 1:30 PM ET`
-- `May 12, Mon, 5 - 6 or 6:30 PM ET`
-- `May 12, Mon, 7 - 8 or 8:30 PM ET`
-- `May 13, Tue, 12 - 1 or 1:30 PM ET`
-- `May 13, Tue, 2 - 3 or 3:30 PM ET`
-- `May 14, Wed, 12 - 1 or 1:30 PM ET`
-- `May 14, Wed, 2 - 3 or 3:30 PM ET` 
-- `May 15, Thu, 12 - 1 or 1:30 PM ET`
-- `May 15, Thu, 2 - 3 or 3:30 PM ET`
-- `May 15, Thu, 5 - 6 or 6:30 PM ET`
-- `May 15, Thu, 7 - 8 or 8:30 PM ET`
-- `May 16, Fri, 12 - 1 or 1:30 PM ET`
-- `May 16, Fri, 2 - 3 or 3:30 PM ET`
-- `May 16, Fri, 5 - 6 or 6:30 PM ET`
-- `May 16, Fri, 7 - 8 or 8:30 PM ET`
-- `May 19, Mon, 12 - 1 or 1:30 PM ET`
-- `May 19, Mon, 2 - 3 or 3:30 PM ET`
-- `May 19, Mon, 5 - 6 or 6:30 PM ET`
-- `May 19, Mon, 7 - 8 or 8:30 PM ET`
-- `May 20, Tue, 12 - 1 or 1:30 PM ET`
-- `May 20, Tue, 2 - 3 or 3:30 PM ET`
-- `May 20, Tue, 5 - 6 or 6:30 PM ET`
-- `May 20, Tue, 7 - 8 or 8:30 PM ET`
-- `May 21, Wed, 12 - 1 or 1:30 PM ET`
-- `May 21, Wed, 2 - 3 or 3:30 PM ET`
-- `May 21, Wed, 5 - 6 or 6:30 PM ET`
+- `OCT TBD, Mon, 12 - 1 or 1:30 PM ET`
+- `OCT TBD, Mon, 2 - 3 or 3:30 PM ET`
+- `OCT TBD, Mon, 5 - 6 or 6:30 PM ET`
+- `OCT TBD, Mon, 7 - 8 or 8:30 PM ET`
+
 
 ## Team Roles  🕵️👩‍💻👩‍🔬
 
@@ -232,5 +209,5 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 - `Observers:` Will need to sign up so we can limit the number of observers per session, and Cindy will add them to the invites that she receives from Perigean.
 
 ## Approvals ✅
-- `Reviewed by Martha Wilkes, OCTO Accessibility Strategist/Designer, on 04-22-2025`
-- `Reviewed by Shane Strassberg, Research-Ops Lead, on 04-30-2025`
+- `Reviewed by Martha Wilkes, OCTO Accessibility Strategist/Designer, on TBD`
+- `Reviewed by Shane Strassberg, Research-Ops Lead, on TBD`
