@@ -10,15 +10,15 @@ Cindy Merrill [cindy.merrill@adhocteam.us]
 
 **Jump to:**
 
-[Hypotheses and Conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/research-findings.md#hypotheses-and-conclusions)
+[Hypotheses and Conclusions](#user-content-hypotheses-and-conclusions)
 
-[Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/research-findings.md#key-findings)
+[Key Findings](#user-content-key-findings)
 
-[Recommendations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/research-findings.md#recommendations)
+[Recommendations](#user-content-recommendations)
 
-[Appendix](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/research-findings.md#appendix)
+[Appendix](#user-content-appendix)
 
-[Who we heard from](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/public-websites/research/Veteran-tasks/unmoderated/research-findings.md#who-we-heard-from)
+[Who we heard from](#user-content-who-we-heard-from)
 
 <br>
 
