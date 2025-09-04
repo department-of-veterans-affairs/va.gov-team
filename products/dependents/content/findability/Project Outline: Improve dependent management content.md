@@ -1,4 +1,4 @@
-# Project overview: Improve dependent management content on VA.gov
+# Project overview: Improve findability of dependent management tools and resources
 
 **Office of the CTO - Digital Experience (OCTO-DE), Dependent Verification, Dependents Experience**
 
@@ -48,13 +48,12 @@ Veterans can easily locate and access comprehensive, clear information about the
 
 ## Lean roadmap
 
-### Fall 2025**
+### Fall 2025
 - Improve content hierarchy: Implement progressive disclosure strategy for dependents management unauthenticated resource pages to improve content hierarchy. Update existing pages and add new pages specific to dependent type and benefit program type. 
 - Audit and improve authenticated dependent management entry points and cross-links (within experiences owned by the lifestage benefits team e.g., Add/remove dependent form intro/confirmation pages, Your VA dependents page)
 
 ### Next
-**Clearly communicate information about impact and consequences**
-Add information about importance of dependent management, how it impacts benefits, and the consequences of neglecting to manage dependents. Possibly in the form of a new resource page about payments/overpayments.
+**Clearly communicate information about impact and consequences:** Add information about importance of dependent management, how it impacts benefits, and the consequences of neglecting to manage dependents. Possibly in the form of a new resource page about payments/overpayments.
 
 ### Later
 Consider implementing a holistic content strategy for change reporting and overpayment prevention. Build the strategy informed by Veterans mental model and moments in their benefit journey experience where they may be most likely to notice and take action on dependents management requirements.
