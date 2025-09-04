@@ -35,9 +35,13 @@ body:
 - type: input
   attributes:
     label: Product Manager
+  validations:
+    required: true
 - type: input
   attributes:
     label: Designer(s)
+ validations:
+    required: true
 - type: markdown
   attributes:
     value: |
