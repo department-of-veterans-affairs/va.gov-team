@@ -1,5 +1,5 @@
 # Accessibility Beyond Compliance (ABC)
-by [Elissa Frankle Olinsky's blogpost](https://adhoc.team/2020/02/07/accessibility-beyond-compliance/)
+written by Elissa Frankle Olinsky, Ad Hoc ([archived blog post](https://web.archive.org/web/20250203052657/https://adhoc.team/2020/02/07/accessibility-beyond-compliance/))
 
 When thinking about web accessibility, many people tend to focus on checking the boxes: 
 > “Let’s make sure we pass Section 508 compliance; let’s make sure we don’t get yelled at or sued.”
@@ -24,20 +24,4 @@ Accessibility Beyond Compliance isn’t about fear. It’s not running from some
 
 We do not pass a site for an automated compliance check at the end of the process and wait to be told what needs to be fixed; the vast range of human needs permeates how and why we do work at every stage of a project. Everyone is responsible for talking about accessibility as more than treating edge cases and for supporting each other’s continued pursuit of usable accessible web experiences.
 
-### Accessibility Beyond Compliance is not just about code, or laws, or checkboxes. <br/>It’s about embracing the rich variety of human experiences, and ensuring equitable access for all.
-
-
-## Resources
-
-- [WCAG Checklist](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/resources/WCAG-Checklist.md)
-
-- [Disability Considerations](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/resources/disability-considerations.md)
-  
-- [User Stories](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/resources/user-stories.md)
-
-- [Accessibility Best Practices](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/accessibility/508-accessibility-best-practices.md)
-- [Dev Accessibility Audit Step-by-Step](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/accessibility-dev-review-step-by-step.md)
-
-- [Learning Sessions](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/learning-sessions) Description to come - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-- [Listening Sessions](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams/vsa/accessibility/research-synthesis) Description to come - Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+**Accessibility Beyond Compliance is not just about code, or laws, or checkboxes. <br/>It’s about embracing the rich variety of human experiences, and ensuring equitable access for all.**
