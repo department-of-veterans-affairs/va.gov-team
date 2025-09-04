@@ -55,5 +55,5 @@ body:
     options: 
       - label: Add description, tasks, and acceptance criteria
       - label: Add estimate
-      - label: Add the proper labels, team, and priority
+      - label: Set the proper labels, workstream, squad, and priority
       - label: Add a Milestone
