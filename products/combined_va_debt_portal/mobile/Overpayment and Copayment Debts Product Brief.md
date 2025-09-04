@@ -97,6 +97,7 @@ O1: VA’s digital experiences are the easiest and most efficient way to access 
 |8/18/2025| Engineers can begin working on providing the Governance team with the data that will be cached for the overpayment/copayment initiative. | During Natalie // Michelle 1:1, Michelle provided approval for engineers to move forward on this effort and to remove the "feedback-to-vet" label.|
 |8/26/2025| We will include accordions in our design. | During the MFS//Core Mobile UX sync, it was decided that we should use accordions in our feature design since mobile and web are different. This decision overrides the decision on 8/12 to "Minimize use of axcordions".|
 |8/28/2025| UX will work on updating the copay account number and make design adjustments. | This feedback was discovered during user testing and Michelle approved that the team could remove the feedback-to-vet label in a Slack message.|
+|9/4/2025| Veterans will be able to see when their overpayments are paid off, but not when their copayments have been paid off. | This was an outstanding question that was asked [here](https://dsva.slack.com/archives/CPE4AJ6Q0/p1755620211706699). A $0 balance will appear in the API for a certain amount of time (TBD for how long) for overpayments, but due to limitations with the Copayments API this is currently not possible. Once the new Copay API is implemented this is something that is possible and will want to do. Future iterations would also include adding a way for Veterans to see previously paid of debts. |
 
 ## Reference Materials
 
