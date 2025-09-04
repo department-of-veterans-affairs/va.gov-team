@@ -187,7 +187,7 @@ jobs:
         with:
           payload: |
             {
-              "channel": "#research-ops",
+              "channel-id": "#research-ops",
               "text": "📊 New Research Findings Available: ${{ steps.process.outputs.RESEARCH_TITLE }}",
               "blocks": [
                 {
@@ -267,7 +267,7 @@ jobs:
         with:
           payload: |
             {
-              "channel": "#research-ops",
+              "channel-id": "#research-ops",
               "text": "❌ Research File Not Found",
               "blocks": [
                 {
