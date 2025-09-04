@@ -127,9 +127,6 @@ We would like Pergean's support in recruiting eligibile participants for the stu
 - 3 to 4 Veterans over the age of 55
 - 4-6 of each AT group mentioned below:
 
-Screen reader (mobile, beginner and advanced)
-Magnification
-
 We will recruit 12 Veterans for:
 - **minimum** of 4 sessions with screen reader users
 - **minimum** of 4 sessions with screen magnification users
