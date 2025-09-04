@@ -13,23 +13,23 @@ body:
     value: |
       Use this ticket to [ask the Disability Benefits Crew (DBC) content designer for support](https://docs.google.com/document/d/1YBJgdfQkuULS4S5zOUgOqAt7Tg50l-YnAib8RXYdO1A/edit?tab=t.0#heading=h.e7bnbdg3wale).
 
-      ## 👥 Team Info
+      ## 👥 Team info
       Tell us about your team.
 - type: input
   attributes:
-    label: Product Name
+    label: Product name
     placeholder: e.g., VA 21-0781
   validations:
     required: true
 - type: input
   attributes:
-    label: Team Name
+    label: Team name
     placeholder: e.g., Disability Benefits Crew Core Form team
   validations:
     required: true
 - type: input
   attributes:
-    label: Slack Channel
+    label: Slack channel
   validations:
     required: true
 - type: input
@@ -61,7 +61,7 @@ body:
     placeholder: Enter something else here
 - type: textarea
   attributes:
-    label: Describe the work effort.
+    label: Describe the work effort
     description: Provide a brief description of the work.
 
 - type: markdown
