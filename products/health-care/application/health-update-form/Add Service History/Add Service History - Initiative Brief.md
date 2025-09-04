@@ -11,7 +11,7 @@ This initiative focuses on adding service history update capabilities to the 10-
 **Create a more effective and accessible path for veterans to update their service history online, leading to improved benefit eligibility determinations and healthcare priority group assignments based on the PACT Act and recent service periods.**
 
 **Resources**
-- [Add Service History Epic #77527](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77527)
+- Add Service History [Epic #77527](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77527)
 - VA Health Update Form (10-10EZR) | [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/health-update-form/10-10EZR%20Product%20Brief%20(standalone%20form).md)
 - VA Healthcare Application (10-10EZ) | [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
 
@@ -25,8 +25,9 @@ Veterans who have completed additional service periods after their initial healt
 - Need to provide updated DD-214 documentation for recent service periods
 
 **Why do you think the problem is occurring?**
-- The current 10-10EZR form focuses on demographic and insurance updates but doesn't include service history updates
-- Veterans must use separate, potentially more complex processes to update service information
+- The current online 10-10EZR form doesn't include service history updates
+- Veterans must use a separate paper form to update service information
+- Veterans believe that VA and DOD data is shared, and that VA should already know the Veteran has a more recent service period
 - Lack of integrated pathway between service history updates and healthcare benefit reassessment
 - Veterans may be unaware that additional service periods could improve their benefit eligibility
 
@@ -34,8 +35,7 @@ Veterans who have completed additional service periods after their initial healt
 This initiative directly supports the OKR "VA's digital experiences are the easiest and most efficient way to access VA healthcare and benefits" by:
 - Providing a seamless digital pathway for service history updates
 - Integrating service updates with healthcare benefit reassessment
-- Reducing veteran burden through self-service capabilities
-- Ensuring veterans receive appropriate benefits based on complete service history
+- Ensuring Veterans receive appropriate benefits based on complete service history
 
 ---
 
@@ -83,14 +83,10 @@ This initiative directly supports the OKR "VA's digital experiences are the easi
 
 **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
 - Healthcare eligibility review processes can accommodate increased service history updates
-- PACT Act implementation coordination and requirements
-- Data security and privacy compliance for service documentation
-- Staff training for processing updated service history information
-- *Validation*: Stakeholder engagement with healthcare eligibility and PACT Act teams
 
 ### Supporting research
 
-**Research needed:**
+**Possible Research:**
 - User research with veterans who have completed recent military service
 - Understanding of veteran awareness regarding PACT Act eligibility
 - Analysis of current service history update processes and pain points
@@ -115,61 +111,27 @@ This initiative directly supports the OKR "VA's digital experiences are the easi
 
 **Explicitly not included:**
 - Changes to backend service history verification processes
-- Automatic healthcare priority group reassignment (separate downstream process)
 - Historical service record corrections (focuses on new/recent periods)
 - Integration with other benefit applications beyond healthcare
 
 **Mobile application consideration:**
 Should be designed mobile-first given the form-filling nature of the experience and ensure consistency with existing 10-10EZ mobile patterns.
 
-**How this addresses Assumptions & Risks:**
-- Leverages proven 10-10EZ patterns to reduce usability risk
-- Uses existing file upload infrastructure to minimize technical risk
-- Focuses on recent service periods to maximize value and reduce complexity
-- Builds on established form patterns to ensure consistency
-
-#### Go-to-market
-
-**Marketing/Communications:**
-- Outreach through PACT Act communication channels about new self-service option
-- Integration with existing healthcare enrollment communications
-- Coordination with VSO and veteran advocacy groups
-- Educational content about PACT Act eligibility and service history importance
-
-**Necessary groups/orgs:**
-- PACT Act implementation teams
-- Veterans Health Administration (VHA) eligibility teams
-- Healthcare enrollment and priority group assessment teams
-- Veterans Benefits Administration (for coordination)
-- VSOs and veteran advocacy organizations
-
 ---
 
 ## Launch Planning
-
-### Collaboration Cycle
-
-- Kickoff ticket: [TBD]
-- Design Intent: [TBD]
-- Research Review: [TBD]
-- Midpoint Review: [TBD]
-- Staging Review: [TBD]
-- Privacy & Security Review: [TBD] (important for DD-214 handling)
+- Release Plan - TBD ‼️
 
 ### Timeline
 
 **Major milestones:**
-- User research with veterans having recent service periods: [TBD]
-- Design completion using 10-10EZ patterns: [TBD]
-- File upload capability enhancement: [TBD]
-- Integration testing with eligibility review processes: [TBD]
-- PACT Act coordination and validation: [TBD]
-
-* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+- Design completion using arrayBuilder and existing 10-10EZ patterns: [TBD]
+- File upload capability enhancement/content changes: [TBD]
+- Integration testing: [TBD]
 
 #### Initiative Launch Dates
 
-- **Target Launch Date**: TBD
+- **Target Launch Date**: November 2025
 - **Actual Launch Date**: TBD
 
 ---
@@ -177,13 +139,12 @@ Should be designed mobile-first given the form-filling nature of the experience 
 ## Screenshots
 
 ### Before
-[Screenshots of current 10-10EZR form without service history section]
-[Screenshots of current file upload page limited to TERA evidence]
+- Copy of most recent PDF 10-10EZR form
+     - <img width="957" height="249" alt="image" src="https://github.com/user-attachments/assets/37f297f1-dca1-4b55-82d7-d36dba065d4b" />
+
 
 ### After
-[Mockups of new service history confirmation flow]
-[Mockups of military service question page]
-[Mockups of enhanced file upload for DD-214 documents]
+TBD
 
 ---
 
@@ -193,10 +154,10 @@ Should be designed mobile-first given the form-filling nature of the experience 
 
 <details>
 
-- Team Name: [Health Update Form Team / Healthcare Application Team]
-- GitHub Label(s): [10-10ezr, service-history, pact-act, healthcare-eligibility]
-- Slack channel: [TBD]
-- Product POCs: [TBD]
+- Team Name: Health Update Form Team / Healthcare Application Team
+- GitHub Label(s): 10-10ezr, military-info
+- Slack channel: #1010-health-apps
+- Product POCs: Heather Justice (PM)
 
 </details>
 
@@ -206,20 +167,8 @@ Should be designed mobile-first given the form-filling nature of the experience 
 
 <details>
 
-- Office/Department: Veterans Health Administration (VHA) - Healthcare Eligibility
-- Contact(s): [TBD]
-
-- Office/Department: PACT Act Implementation Teams
-- Contact(s): [TBD]
-
-- Office/Department: Veterans Benefits Administration (VBA) - Service History Records
-- Contact(s): [TBD]
-
-- Office/Department: VA.gov Platform Team
-- Contact(s): [TBD]
-
-- Office/Department: Office of Information Technology (OIT) - Data Integration
-- Contact(s): [TBD]
+- Office/Department: OCTO-DE
+- Contact(s): Lauren Alexanderson, Patrick Bateman
 
 </details>
 
