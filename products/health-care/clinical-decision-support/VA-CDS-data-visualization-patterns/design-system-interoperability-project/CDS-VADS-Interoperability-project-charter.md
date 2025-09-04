@@ -5,7 +5,7 @@
 Amanda Klausmeier
 
 #### Project Purpose
-Creation of web components during the Data Viz contract period for newly created components and patterns is being deprioritized in favor of a phased approach to achieve better interoperability between the Clinical Design System (Clinical DS) and the VA Design System (VADS). This strategy aims to create a foundation that empowers the Clinical DS to move towards the long-term vision of utilizing VADS web components and enables increased opportunities to contribute back to the VA Design System.
+To achieve better interoperability between the Clinical Design System (Clinical DS) and the VA design system (VADS). This multi-prong project will create a foundation that empowers the Clinical DS to move towards the long-term vision of utilizing VADS web components and enables increased opportunities to contribute back to the VA Design System.
 
 #### Scope Statement
 The project will:
