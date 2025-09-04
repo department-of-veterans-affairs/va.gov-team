@@ -131,4 +131,4 @@ In your intake ticket, please tell us:
 - How to log in to access the product (if applicable)
 
 ## About this Documentation 
-**Primary Source:** The framework of information used in this documentation was [taken from the previously-sunset VA Shared Support Team's version of "How We Audit" version Sept. 21, 2022.](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/shared-support/accessibility/documentation/how-we-audit.md) 
+This documentation was adapted from the VA Shared Support team's version of "How We Audit," written September 21, 2022.
