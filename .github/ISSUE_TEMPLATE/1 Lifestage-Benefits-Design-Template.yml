@@ -45,7 +45,7 @@ body:
     label: Link to Design
     description: Link to Figma once work is complete
 
-    - type: textarea
+- type: textarea
   attributes:
     label: Screenshot
     description: <img width="968" alt="Screenshot" src="https://github.com/user-attachments/assets/0133913f-3149-4eec-af4d-cb877d74bd49" />
