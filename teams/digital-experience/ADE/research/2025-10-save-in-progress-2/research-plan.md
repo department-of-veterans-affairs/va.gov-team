@@ -6,9 +6,9 @@
 	
 Saving in-progress work while filling out an online form is an interaction for which the current implementation on VA.gov has known accessibility issues, and the revised design that was [usability tested in May 2025](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/research/2025-05-save-in-progress/research-report.md) didn't work very well. Key findings from that study indicated that most participants didn't know that their information was being saved automatically, and they didn't see or remember either of the informational alerts about saving. 
 
-This research is being planned to get user feedback on a revised design that hopefully communicates more effectively to Veterans that the information they enter into forms will be saved automatically. The new design adds an [interstitial page (in Figure 1 below)](TBD) about saving that appears after the user first selects the Continue button, which should happen after they've started filling out the form and during a natural pause in their work.
+This research is being planned to get user feedback on a revised design that hopefully communicates more effectively to Veterans that the information they enter into forms will be saved automatically. The new design adds an [interstitial page (in Figure 1 below)](TBD) about saving that appears after the user first clicks the Continue button, which should happen after they've started filling out the form and during a natural pause in their work.
 
-### Figure 1 shows new interstitial page
+### Figure 1 shows the new interstitial page
 
 <img src="./images/FILENAME.png" width="50%" height="50%" alt="write a description here">
 
@@ -31,8 +31,9 @@ Veterans may use web forms on VA.gov throughout ALL stages of the Veteran Journe
 
 ### Goals
 
-1. Get user feedback on the revised design for "save in progress" messaging.
-1. Get user feedback on the revised calls to action on the page that displays after "Finish later" is selected.
+1. Get user feedback on the interstitial page with "save in progress" messaging.
+1. See if Veterans are able to stop and resume filling out a form. Get user feedback on the revised calls to action on the page that displays after "Finish later" is selected. 
+1. See if moving the accordion controls to the left side affects usability.
   
 ### Outcome
 
@@ -41,17 +42,25 @@ Findings and recommendations from this research will **inform design guidance an
 
 ### Research questions
 
-**Research goal 1: Get user feedback on design revisions for "save in progress".**
+#### Research goal 1: Get user feedback on the interstitial page with "save in progress" messaging.
+1. How do Veterans feel about encountering the interstitial page after clicking "Continue"?
+1. Do Veterans think that their form data is being saved? If so, how confident are they?
 
-1. Do Veterans think that their form data is being saved? If so, how do they know?
-1. What feedback do Veterans have on the interstitial page about saving?
+#### Research goal 2: 1. See if Veterans are able to stop and resume filling out a form. Get user feedback on the revised calls to action on the page that displays after "Finish later" is selected. 
+1. Do Veterans use the "Finish later" button to stop filling out a form?
+1. Are Veterans able to resume filling out a form that they previously started?
+1. What feedback 
 
+
+#### Research goal 3: 1. See if moving the accordion controls to the left side affects usability.
+1. 
 
 ### Hypotheses
 
 1. With the new design, Veterans are confident that their form data will be saved.
 1. With the new design, all users will see and remember the 
 1. Authenticated users will be fine with seeing the form intro page only once (instead of twice--once before signing in, and again after signing in).  
+1. All Veterans (including screen magnifier users) will find the accordion controls on the left side easy to use.
 
 ---
   
