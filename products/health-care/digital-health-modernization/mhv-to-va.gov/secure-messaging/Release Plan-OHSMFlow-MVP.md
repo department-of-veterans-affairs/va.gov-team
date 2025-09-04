@@ -42,7 +42,7 @@ MVP and Post MVP will Luanch together. Separate Feature toggles
 A defined set of users will be whitelisted in `mhv_secure_messaging_cerner_pilot` Flipper toggle to gain access to the new experience
 
 
-## Overall Roll out Plan: Full Release (MVP and Post MVP (Recent Recipient Flow)  
+## Overall Roll out Plan: Full Release- MVP and Post MVP (recent recipients)
 
 Small % Release Rollout up 100% to **All Users**
 
