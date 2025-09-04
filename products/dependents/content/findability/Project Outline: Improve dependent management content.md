@@ -1,4 +1,4 @@
-# Project overview: Improve depedent management content on VA.gov
+# Project overview: Improve dependent management content on VA.gov
 
 Last update: September 4, 2025
 
