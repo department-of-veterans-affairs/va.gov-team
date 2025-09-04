@@ -12,7 +12,7 @@ Veterans currently struggle to understand their responsibilities for managing de
 
 *  Confusion about the process to add dependents along with initial application to disability benefit program 
 * Confusion about what changes need to be reported to the VA relative to dependents
-* Not submitting dependent verification for disability benefits (in particular, not understanding that verificiation is a requirement separate from/in addition to reporting ongoing changes)
+* Veterans not submitting dependent verification (0538) for disability benefits (in particular, not understanding that verificiation is a requirement separate from/in addition to reporting ongoing changes)
 *   Unclear timelines for reporting dependent status changes
 *   Limited understanding of consequences for non-compliance
 *   Potential benefit overpayments and processing delays for Veterans
