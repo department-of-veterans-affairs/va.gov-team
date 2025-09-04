@@ -4,15 +4,9 @@
 ## Background 🏗️
 <details><summary>Briefly describe the background of your product.</summary>
 	
-Saving in-progress work while filling out an online form is an interaction for which the current implementation on VA.gov has known accessibility issues, and the revised design that was [usability tested in May 2025](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/research/2025-05-save-in-progress/research-report.md) didn't work very well. Key findings from that study included that most participants didn't know that their information was being saved automatically, and they didn't see or remember either of the informational alerts about saving. 
+Saving in-progress work while filling out an online form is an interaction for which the current implementation on VA.gov has known accessibility issues, and the revised design that was [usability tested in May 2025](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/research/2025-05-save-in-progress/research-report.md) didn't work very well. Key findings from that study indicated that most participants didn't know that their information was being saved automatically, and they didn't see or remember either of the informational alerts about saving. 
 
-This research is being planned to get user feedback on a revised design that may resolve both issues: 
-
-We are testing a modification of the VA Design System [Header - Minimal component](https://design.va.gov/components/header/header-minimal), which is recommended for the design of new web forms. To address the above accessibility issues, we have removed the "save in progress" alert, as well as changed the "Finish this request later" button that looks like a link into looking like a button (see below). We believe that removing the "save in progress" alert will be OK because there is already text about saving on the authenticated version of the form intro page and the first page of the form. One goal of this current research is to get user feedback on the revised design.
-
-<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/research/2025-05-save-in-progress/images/2-a11y-issues-fix.png" width="50%" height="50%">
-
-Previous research has validated the minimal header component, including its lack of "Back" button (research participants successfully used the "Back to previous page" breadcrumb link at the top of each page). Other research studies have tested various locations for the "Save in progress" alert, and subsequent research studies have documented usability and accessibility issues with those locations. We believe that our new design will work better for Veterans. 
+This research is being planned to get user feedback on a revised design that hopefully communicates more successfully to Veterans that the information they enter into forms will be saved. 
 
 </details>
 
@@ -31,51 +25,25 @@ Veterans may use web forms on VA.gov throughout ALL stages of the Veteran Journe
 
 ### Goals
 
-1. (primary) Learn about Veterans' expectations for saving information while filling out an online form before submitting it.
-1. (primary) Get user feedback on design revisions for "save in progress" and "finish this request later" that reduce redundant messaging around saving.
-1. (secondary) Get user feedback on error messages and the progress bar while filling out online forms.
+1. Get user feedback on the revised design for "save in progress" messaging.
+1. 
   
 ### Outcome
 
-Findings and recommendations from this research will **inform guidance and documentation for the "save in progress" feature** for authenticated users filling out forms on VA.gov. Matt Dingee asked ADE to help with this because some VFS teams are innovating new designs, whereas "save in progress" should be a standard pattern used by all teams.
-
-In addition, user feedback collected on "finish this request later", error messages, and the progress bar will be helpful for accessibility specialists advising VFS teams.
+Findings and recommendations from this research will **inform guidance and documentation for the "save in progress" feature** for authenticated users filling out forms on VA.gov. 
 
 
 ### Research questions
 
-**Research goal 1: Learn about Veterans' expectations for saving information while filling out an online form before submitting it.**
-1. What experiences have Veterans had around saving while filling out VA forms?
-1. What expectations do Veterans have about whether information will be saved while filling out an online form?
-     1. What do Veterans expect to happen to their form data if they stop in the middle of filling out a form?
-     1. What do Veterans expect to happen to their form data if they close the form page?
-     1. How do Veterans expect to resume working on a form that they previously started filling out?
-
 **Research goal 2: Get user feedback on design revisions for "save in progress" and "finish this request later" that reduce redundant messaging around saving.**
 
-3. Do Veterans think that their form data is being saved? If so, how do they know?
-1. Are Veterans able to stop working on a form and return to it later? If so, how do they do it?
-1. Do Veterans notice the alert about saving on the form intro page?
-1. Do Veterans notice the text about saving on the first page of the form (below the progress stepper)?
+1. Do Veterans think that their form data is being saved? If so, how do they know?
+1. What feedback do Veterans have on the interstitial page about saving?
 
-**Research goal 3: Get user feedback on error messages and the progress bar while filling out online forms.**
-
-7. What reactions do Veterans have to error messages? 
-     1. Do they know what the errors mean, and how to resolve them?
-     1. How do they want to find out about errors?
-1. What reactions do Veterans have to the progress bar? Do they notice it?
 
 ### Hypotheses
 
-1. While filling out online forms, Veterans expect that their form data will be saved.
-
 1. With the new design, Veterans are confident that their form data will be saved.
-
-1. With the new design, Veterans will know how to resume filling out a form that they started previously.
-
-1. When Veterans encounter error messages while filling out online forms, they are able to resolve the errors.
-
-1. While filling out an online form, Veterans will notice the progress bar and find it useful.
 
 ---
   
