@@ -7,11 +7,11 @@ _Please Note: The Veteran-Facing Services Platform ATO boundary includes all env
 1. What is the name of your product(s)/system(s)?
   - Veteran Status Card
 2. Describe its purpose in a few sentences.
-  - Megan to add
+  - The Veteran Status Card is a digital card that eligible Veterans can access in their Profile on va.gov or the mobile app. It doesn't entitle them to any benefits, it is just to prove their service to businesses and organizations offering Veteran discounts. The card has their name, latest period of serivce, DoD ID number, and disability rating on it.
 3. If you represent multiple products, please describe the relationship between them, if there is any.
-  - Megan to add
+  - We represent multiple products but no other product we own relates to this one.
 4. What is the expected duration of your project? This information helps us understand how our processes need to adapt
-  - Megan to add
+  - We maintain this product so there are always items on our roadmap for it. In the short term we are planning to create a shared service that both va.gov and the mobile app can pull from so eligibility logic and messaging remains consistent.
 
 #### AWS Resources
 1. List AWS services used.
