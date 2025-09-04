@@ -26,8 +26,12 @@ If we change the user flow for sending a new message then we expect it will be a
 EPIC: https://github.com/orgs/department-of-veterans-affairs/projects/1729/views/1?pane=issue&itemId=126050940&issue=department-of-veterans-affairs%7Cva.gov-team%7C117885
 
 **Summary:**
+
+
 -Building out a new "shortcut" screen at va.gov/my-health/secure-messages/new-message/recent to allow Veterans to quickly identify -their most recently messaged care providers
+
 -Adding those same recent care providers into the combo box component on the /select-care-teams page
+
 -Adjusting the flow for users who do not have any recent recipients
 
 **Staging Review- 9/25/24**
