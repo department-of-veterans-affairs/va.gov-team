@@ -23,7 +23,7 @@ We're a grassroots, volunteer-led educational program intent on scaling up VA.go
 - [conducting foundational accessibility reviews for their team](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review#Prepareforanaccessibilitystagingreview-Foundationalaccessibilitytests(required)foundational-testing)
 - [providing support during research with disabled Veterans]()
 - [write accessibility annotations for mockups](https://design.va.gov/accessibility/accessibility-annotations)
-- answering (or finding answers to) questions in the #accessibility-help channel
+- answering (or finding answers to) questions in the [#accessibility-help Slack channel](https://dsva.slack.com/archives/C8E985R32)
 
 **This is a volunteered effort, so rest assured that:**
 - you won't be responsible for every aspect of your product being accessible
