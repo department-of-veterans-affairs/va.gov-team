@@ -11,9 +11,6 @@ MHV Unified Sign In inherits the rules from the standard user attribute processi
 
 [Vets-API inspects](https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/saml/user_attributes/ssoe.rb) each of the user attributes and makes business logic decisions regarding if a user should be permitted to login to the `application=mhv` (myhealth.va.gov):
 
-- IEN: 
-    - If a user has more than one IEN attribute the user `IS` permitted to login
-    - If a user has one or less IEN attributes the user `IS` permitted to login
 - MHV_ICN: parsed from eauth headers
     - If the MHV ICN does not equal the ICN inside the eauth headers returned after authentication, the user `IS` permitted to login.
 - Corp ID: 
