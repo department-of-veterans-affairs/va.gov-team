@@ -15,17 +15,17 @@ _Please include a brief description of the purpose of this ticket._
 
 ---
 
+## Tasks
+_Steps that need to be taken to reach definition of done_
+
+---
+
 ## Acceptance Criteria
 _Conditions that must be met to complete the user story above. How will we know this is done? Include ANY related tickets if necessary_
 - [ ] Ctiteria A
 - [ ] Criteria B
 - [ ] Criteria C
       
----
-
-## Tasks
-_Steps that need to be taken to reach definition of done_
-
 ---
 
 ## Definition of Done
