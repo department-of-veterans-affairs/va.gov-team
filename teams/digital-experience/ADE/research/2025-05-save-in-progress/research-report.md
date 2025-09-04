@@ -22,7 +22,7 @@
 - [Research participants](#user-content-research-participants)
 
 ## Research Goals
-Veterans may fill out web forms on VA.gov throughout their lives, including ALL stages of the Veteran Journey--Serving and separation, Living civilian life, and Retiring and aging. Saving in-progress work while filling out an online form is an interaction for which the current implementation on VA.gov has two known accessibility issues. This research was designed to collect user feedback on a revised design that has the potential to resolve both issues.
+Veterans may fill out web forms on VA.gov throughout their lives, including all stages of the Veteran Journey--Serving and separation, Living civilian life, and Retiring and aging. Saving in-progress work while filling out an online form is an interaction for which the current implementation on VA.gov has two known accessibility issues. This research was designed to collect user feedback on a revised design that has the potential to resolve both issues.
 
 <details><summary>Below is a description of the two accessibility issues and the revised design that we tested.</summary>
 
@@ -136,7 +136,7 @@ For demographic details, see [Research participants](#user-content-research-part
 
 1. Most participants didn't know that their information was being saved automatically with every edit.
 1. Most participants didn't see the informational alerts about saving, and the few who did, didn't remember what they said.
-1. ALL participants tried the *Finish later* button and from that learned that their information was saved.
+1. All participants tried the *Finish later* button and from that learned that their information was saved.
 1. All participants were able to resume filling out the form after taking a short break and a long break.
 1. My VA had accessibility issues for screen magnifiers.
 1. VA forms in general had accessibility issues for screen readers and screen magnifiers.
@@ -185,12 +185,12 @@ For demographic details, see [Research participants](#user-content-research-part
   > *[Everything in the header] "is garbage that will be on every page that I am not going to listen to. I will go to the top of the page and hit 'H'. If the page is laid out right, it will have an H1 and tell me where to start" (p1).*
 
 
-### Finding 3: ALL participants tried the *Finish later* button and from that learned that their information was saved.
+### Finding 3: All participants tried the *Finish later* button and from that learned that their information was saved.
 - After the first time each participant clicked the *Finish later* button, they saw the "Your records request has been saved" message. Then when they returned to the form, they saw the information they had entered previously. This is how most participants learned that the *Finish later* button saved their information, and they (incorrectly) assumed that you had to click this button in order to save. 
   > *"I assume when it says 'Finish later', it does save what I've done so far. But that's an assumption...Okay, cool. It says that my personal record request has been saved" (p11).*
 
   > *"Exactly where I left off" (p9).*
-- The "Your records request has been saved" message appears to be well positioned because ALL participants read it, unlike the two informational alerts. It appears at a time that users have intentionally stopped filling out the form and are wondering whether their work will be saved.
+- The "Your records request has been saved" message appears to be well positioned because **all** participants read it, unlike the two informational alerts. It appears at a time that users have intentionally stopped filling out the form and are wondering whether their work will be saved.
 - For the long break in filling out the form during the research sessions, 9 of 10 participants used the *Finish later* button--at least some because they were worried that their session might time out and they would have to start over. One participant just left their browser open, which would have timed out if 30 minutes had passed, but we didn't stop for that long during the research sessions. For the short break, 4 of 11 participants used *Finish later*, and the other 7 just left the browser open.
   > *"So maybe I hit 'Finish later' because I don't want to start all over again...I think it's gonna save it. And then whenever I log back in, it should take me to the same spot" (p8).*
 - 4 of 11 participants were unsure about what the *Finish later* button would do. Does it mean that you will quit for a while? Or skip the current page and proceed to the next page? Or save my current place in the form and the information I entered? 
@@ -381,7 +381,7 @@ There are a number of findings that were outside the scope of the research goals
 1. **Revise the Save in Progress messaging to communicate more effectively that we're saving the user's form information as it's being entered/updated**. We need to revisit how we communicate what the form is doing so that we inform every user without being annoying.
    - *Supporting evidence:* We're saving automatically with every edit, which participants asked for, but most didn't realize that was actually happening because they didn't see or understand the informational alerts.   
    - Consider the suggestions below:
-      1. Messaging should be better integrated into the user's interaction flow with the form. It's possible that no messaging will be effective before the user has started filling out information, so we should find somewhere other than the intro page and the top of the first page of the form. Users may be more receptive to an alert that shows up later while they're editing and then pause, such as right after they click the *Continue* button. --> *Consider ADDING A SHORT INTERSTITIAL PAGE about automatic saving after the user clicks the Continue button at the bottom of the first form page*
+      1. Messaging should be better integrated into the user's interaction flow with the form. It's possible that no messaging will be effective before the user has started filling out information, so we should find somewhere other than the intro page and the top of the first page of the form. Users may be more receptive to an alert that shows up later while they're editing and then pause, such as right after they click the *Continue* button. --> *Consider **adding a short interstitial page** about automatic saving after the user clicks the Continue button at the bottom of the first form page*
       1. All messaging must be positioned so that it's accessible to AT users. All screen reader users should be able to hear the messaging, even if they start navigating pages from the H1. Messaging should also be aligned with the left margin so that it's most likely to be visible on magnified screens.
       1. Messaging could be reworded for clarity and to lead with what's most important at the beginning to attract attention and ensure visibility to users of both screen readers and screen magnifiers. For example, we could change "We'll save your request on every change" to "Saving will happen automatically..." or "Your information will be saved..."
            1. If we want a message that shows up with every automatic save, it could be very short (e.g., "Saving..." or "Autosaved now"). 
@@ -398,24 +398,24 @@ There are a number of findings that were outside the scope of the research goals
      - There is a [current proposal in the USWDS for accordions](https://github.com/uswds/uswds/discussions/6483) to move the open/close icon to the left. 
      - Other research studies with Veterans have reported issues with screen magnifier users being unable to see interactive elements that aren't on the left side of the screen (for example, see [this research finding about missing buttons on the right side of the screen](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/home-page/research/2022-09-redesign-usability-round2/research-findings.md#5-there-may-be-an-accessibility-issue-for-screen-magnifier-users-with-buttons-on-the-far-right-side-of-web-pages)).
 
-1. **On the Review/Submit page, consider shortening the text to be less redundant and less repetitive for screen reader users.**  --> *NEEDS MORE INVESTIGATION TO REPRODUCE and find the cause of the issue* 
+1. **On the Review/Submit page, consider shortening the text to be less redundant and less repetitive for screen reader users.**  --> ***Needs more investigation to reproduce** and find the cause of the issue* 
     - *Supporting evidence:* The verbose text "Statement of truth. I confirm that the identifying information in this form is accurate and has been represented correctly." is read 3 times by JAWS, and the text "I certify the information above is correct and true to the best of my knowledge and belief." is read 2 times. This is while the screenreader user is going through the form the first time--not because of any errors generated--and is specified in the code so that all users hear it, regardless of how they navigated to the field (by tabs or arrows). p3 was using JAWS on Windows with the Chrome browser.
 
-1. Streamline error handling on the Review/Submit page for the ***Your full name* field so that (1) focus goes to the name field (*vs*. the top of the component), and (2) the error message is announced immediately** (*vs*. after two repetitions of most of the text in the component).  --> *NEEDS MORE INVESTIGATION TO REPRODUCE and find the cause of the issue*
+1. Streamline error handling on the Review/Submit page for the ***Your full name* field so that (1) focus goes to the name field (*vs*. the top of the component), and (2) the error message is announced immediately** (*vs*. after two repetitions of most of the text in the component).  --> ***Needs more investigation to reproduce** and find the cause of the issue*
     - *Supporting evidence:* This is so verbose for screen reader users that they perceive it as multiple repetitions of the same information and don't listen all the way to the end when the error is finally mentioned. p3 was using JAWS on Windows with the Chrome browser.
 
 
-1. Try to **fix announcing issues with JAWS where it says "has popup" for the State/Province/Region and Postal code text fields**. --> *NOT POSSIBLE TO FIX because it's the browser-based autofill saying "has popup", not a bug in the form*
+1. Try to **fix announcing issues with JAWS where it says "has popup" for the State/Province/Region and Postal code text fields**. --> ***Not possible to fix** because it's the browser-based autofill saying "has popup", not a bug in the form*
     - *Supporting evidence:* One screen reader user (JAWS on desktop) reported that the State/Province/Region (as long as "United States" isn't selected in the Country field) and Postal code fields said "has pop up", even though they're both text fields.
 
 
-1. **Fix the postal code field so it will accept a valid autofill suggestion without returning an error** ("Enter a ZIP code"). This is a known issue with autofilling with a coding workaround in [this ticket about autofill in Safari](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/2668).  --> *BUG to fix*
+1. **Fix the postal code field so it will accept a valid autofill suggestion without returning an error** ("Enter a ZIP code"). This is a known issue with autofilling with a coding workaround in [this ticket about autofill in Safari](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/2668).  --> ***Bug** to fix*
     - *Supporting evidence:* One participant accepted the (correct) autofill suggestion from their phone for their zip code, and the form gave an error.
 
-1. Consider adding some **help text that says what the "VA file number" is**. --> *CONSIDER doing*
+1. Consider adding some **help text that says what the "VA file number" is**. --> ***Consider**  doing*
     - *Supporting evidence:* Four participants didn't know what a "VA file number", why you might want to use one, and how you would find it.
 
-1. Consider the design suggestion: The **error message for SSN validation could provide more information**. Instead of saying that it needs 9 digits, it could also say how many digits you entered: "You entered 8 digits for your social security number, but you need 9 digits." --> *CONSIDER doing*
+1. Consider the design suggestion: The **error message for SSN validation could provide more information**. Instead of saying that it needs 9 digits, it could also say how many digits you entered: "You entered 8 digits for your social security number, but you need 9 digits." --> ***Consider** doing*
      - *Supporting evidence:* Participants were confused when they thought they entered 9 digits but actually hadn't. This issue may be less of an issue when users enter their actual SSN, rather than a fake one for the research session.
 
 
@@ -423,14 +423,14 @@ There are a number of findings that were outside the scope of the research goals
 11. Explore **prefilling the Veteran's name and address**, which we know once they've signed in. --> *Jeana is working on this*
     - *Supporting evidence:* This suggestion came from a participant, who wanted to type less but was willing to make corrections if any information was wrong.
 
-1. Consider adding a **description of what a "VA regional office" is**. --> *CONSIDER doing*
+1. Consider adding a **description of what a "VA regional office" is**. --> ***Consider** doing*
     - *Supporting evidence:* Three participants were confused by the field and skipped it. One didn't know whether to enter their regional office because they go to a clinic in a different region, and whether it should be a clinic or a hospital.
 
-1. Consider adding an **explanation or disclaimer about how the VA can provide military records**. --> *CONSIDER and work with Content team*
+1. Consider adding an **explanation or disclaimer about how the VA can provide military records**. --> ***Consider** and work with Content team*
     - *Supporting evidence:* Two participants questioned the ability to request your military records through the VA. One of them had military records previously that the VA was unable to access. The other participant was concerned about privacy because he thought that VA wasn't supposed to know about some things from the military. 
 
 #### For the My VA team
-14. In the draft cards under "Benefit applications and forms", **make the "Continue your application" link scale up with magnification** like everything else on the card already does. --> *UNABLE TO REPRODUCE and find the cause of the issue* 
+14. In the draft cards under "Benefit applications and forms", **make the "Continue your application" link scale up with magnification** like everything else on the card already does. --> ***Unable to reproduce*** and find the cause of the issue* 
     - *Supporting evidence*: One participant using a screen magnifier found it difficult to read this link because its font didn't magnify like all the other text on the card and so it was small and hard to read. p13 was on a Windows computer using the Edge browser and Microsoft Zoom Magnification at least 300%.
 
 1. Consider **renaming the header "Benefit applications and forms" to** "Applications and forms" or **something else similarly short** so that it will be more accessible to screen magnifier users. --> *In a [Collab Cycle ticket about heading wording](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109779), the phrase "Active forms" was one content suggestion*
@@ -438,25 +438,25 @@ There are a number of findings that were outside the scope of the research goals
 
 ### Not possible to fix
 
-16. Investigate the **form navigation/focus issues that 2 screen reader users had while using VoiceOver on iPhones with the Safari** web browser in which focus kept jumping to the top of the page or to the Safari controls below the page after almost every field. --> *NOT POSSIBLE TO FIX because of a [known bug with VoiceOver and Safari](https://webaim.org/discussion/mail_thread?thread=7141)*
+16. Investigate the **form navigation/focus issues that 2 screen reader users had while using VoiceOver on iPhones with the Safari** web browser in which focus kept jumping to the top of the page or to the Safari controls below the page after almost every field. --> ***Not possible to fix** because of a [known bug with VoiceOver and Safari](https://webaim.org/discussion/mail_thread?thread=7141)*
 
     - *Supporting evidence:* These focus issues made it very difficult for 2 mobile screen reader users to fill out the form. One of them continued using Safari, and the other gave up and switched to Chrome. For example, focus was on the Month field, but there was also a blinking cursor in the previous field (last name). When the participant typed a number for the date of birth month, the number was entered into the last name field. And when she was done picking the Month, focus was moved to the very top of the page. 
 
-1. See if **field type announcing by screen readers can happen sooner**, perhaps *before* the field name, to set the user's expectations for  the type of interaction expected. --> *NOT POSSIBLE TO FIX because we can't change the order in which a screen reader announces things*
+1. See if **field type announcing by screen readers can happen sooner**, perhaps *before* the field name, to set the user's expectations for  the type of interaction expected. --> ***Not possible to fix** because we can't change the order in which a screen reader announces things*
     - *Supporting evidence:* A desktop screen reader user didn't know that the birth month field was a popup because he stopped the screen reader before it was done announcing. A mobile VoiceOver user also didn't know that field was a popup and so tried to type a number into the field. In addition, on the Review/Submit page, a JAWS screen reader user heard the checkbox announced *after* the entire "I certify the information above is correct and true to the best of my knowledge and belief" line, which was unexpected. 
 
-1. **Change the VoiceOver announcement text for dropdown fields from "Double tap to activate the picker" to use plain language**. For example, "Double tap to select the month", "Double tap to select the country", and "Double tap to select the state". --> *NOT POSSIBLE TO FIX because this wording is part of VoiceOver*
+1. **Change the VoiceOver announcement text for dropdown fields from "Double tap to activate the picker" to use plain language**. For example, "Double tap to select the month", "Double tap to select the country", and "Double tap to select the state". --> ***Not possible to fix** because this wording is part of VoiceOver*
     - *Supporting evidence:* One participant didn't know what a "picker" was and got confused.
 
-1. Try to **fix announcing issues with VoiceOver for the citizenship question, which said it was a checkbox instead of a radio button**. --> *NOT POSSIBLE TO FIX because it's an iOS bug that was fixed for Riley when she updated. Jeana asked how to handle issues with a third party vendor; currently communicating with Martha Wilkes and the 508 office about this*
+1. Try to **fix announcing issues with VoiceOver for the citizenship question, which said it was a checkbox instead of a radio button**. --> ***Not possible to fix** because it's an iOS bug that was fixed for Riley when she updated. Jeana asked how to handle issues with a third party vendor; currently communicating with Martha Wilkes and the 508 office about this*
     - *Supporting evidence:* One screen reader user (VoiceOver on iOS) didn't know that the citizenship question was a radio button when they tapped on it. Riley Orr tested and found that it's announced as a checkbox (bug) and radio button on her iPhone, but announced (correctly) as a radio button on desktop. After she updated her phone, it announced (correctly) as a radio button.
 
-1. See if the **duplicate messaging from JAWS for the records checkboxes and mailing address fields can be removed**. --> *NOT POSSIBLE TO FIX because it's a known JAWS bug*
+1. See if the **duplicate messaging from JAWS for the records checkboxes and mailing address fields can be removed**. --> ***Not possible to fix** because it's a known JAWS bug*
     - *Supporting evidence:* Two screen reader users said that they were hearing every records checkbox option and mailing address fields twice while using the arrow keys to navigate through the form.
 
 1. At the **top of the form's intro page, consider simplifying the text directly under the H1**: 
     > "Freedom of Information Act (FOIA) or Privacy Act (PA) Request (VA Form 20-10206)"
-    - --> *NOT POSSIBLE TO FIX because this is the legal name of the form, which we are required to place underneath the plain language name of the form*
+    - --> ***Not possible to fix** because this is the legal name of the form, which we are required to place underneath the plain language name of the form*
     - *Supporting evidence:* One participant was confused by "Freedom of Information Act (FOIA)" right underneath the name of the form on the intro page where they expected to see something about the Request personal records form. This is a disconnect between the plain language title of the form in the heading and the full title of the form in the subtitle.
 
 
