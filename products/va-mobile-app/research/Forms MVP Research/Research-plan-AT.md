@@ -122,14 +122,6 @@ Provide a link to any materials you need to run your study, including any materi
 We would like Pergean's support in recruiting eligibile participants for the study. Targeting 12 participants for recruiting, aiming for 8 completed sessions minimum.
 
 ### Recruitment criteria
-- Must have interacted with the mobile app at least once
-- 3 to 4 Veterans from rural areas
-- 3 to 4 Veterans over the age of 55
-- 4 to 5 Veterans with cognitive disabilities
-- 3 to 4 Veterans with no degree
-- 1 to 2 Veterans that identify as LGBTQ+
-- 2 to 3 Veterans of immigrant origin
-- 4-6 of each AT group mentioned below:
 
 We will recruit 12 Veterans for:
 - **minimum** of 4 sessions with screen reader users
@@ -143,11 +135,12 @@ We'd like to recruit people who use a mix of different screen readers, such as, 
 
 |# of participants|Criteria|Level|
 |:--|:--|:--|
-|Exactly 4|Are Veterans|Primary|
-|Exactly 4|Are willing to join from a mobile device using a screen reader|Primary|
-|Exactly 4|Daily use of screen readers to access websites or applications|Primary|
-|Exactly 3|Have 1-4 years of experience using a screen reader|Primary|
-|Exactly 3|Have 5+ years of experience using a screen reader|Primary|
+|All|Are Veterans|Primary|
+|All|Have used the VA Health & Benefits app at least once before the study|Primary|
+|All|Are willing to join from a mobile device using a screen reader|Primary|
+|All|Daily use of screen readers to access websites or applications|Primary|
+|3-4|Have 1-4 years of experience using a screen reader|Primary|
+|3-4|Have 5+ years of experience using a screen reader|Primary|
 |At least 3|Are over 55 years old|Secondary|
 |At least 3|Identify as Black, Asian, Hispanic or Native|Secondary|
 |At least 2|Identify as a gender other than male|Secondary|
@@ -160,9 +153,10 @@ We'd like to recruit people who use a mix of different screen magnification soft
 
 |# of participants|Criteria|Level|
 |:--|:--|:--|
-|Exactly 4|Are Veterans|Primary|
-|Exactly 4|Are willing to join from a mobile device using screen magnification software|Primary|
-|Exactly 4|Always use screen magnification on VA.gov|Primary|
+|All|Are Veterans|Primary|
+|All|Have used the VA Health & Benefits app at least once before the study|Primary|
+|All|Are willing to join from a mobile device using screen magnification software|Primary|
+|All|Always use screen magnification on VA.gov|Primary|
 |At least 1|Are over 55 years old|Secondary|
 |At least 1|Identify as Black, Asian, Hispanic or Native|Secondary|
 |At least 1|Identify as a gender other than male|Secondary|
@@ -181,11 +175,10 @@ During the session:
 - `Total:` **[8]**
 
 ### Screening Question
-1. Are you able to join the session from a smartphone or tablet?
+1. Are you able to join the session from a smartphone or tablet with a working camera and microphone?
    
 - Yes would qualify them for the study
 - No would disqualify them
-
 
 2. What device will you use to join the session?
    
@@ -242,12 +235,15 @@ If Android, pleae request their email where an invitation to the testing link wi
 ### Prepare
 *When will the thing you are testing be finalized? Ideally it's ready a week before testing begins and has also been through a [Midpoint review](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/Midpoint-review.1781039167.html).*
 
-**A pilot session is required for each operating system and AT targeted. Please indicate the date and name of a mock participant for a pilot session.** 
+**A pilot session is required for each operating system and AT targeted (4 pilots total). Please indicate the date and name of a mock participant for a pilot session.** 
 > [!NOTE]
 > **Send pilot participant email in study Slack channel**
 
 - `Pilot participant name:` **[ADE Team Member]**
-- `Date and time of pilot session:` **[Pending]** 
+- `Date and time of pilot session iOS w/ a screen reader:` **[Pending]**
+- `Date and time of pilot session iOS w/ a screen magnifier:` **[Pending]**
+- `Date and time of pilot session Android w/ a screen reader:` **[Pending]**
+- `Date and time of pilot session Android w/ a screen magnifier:` **[Pending]** 
 
 ### Research sessions
 - `Planned dates of research:` **[10/22-10/29/25]**
