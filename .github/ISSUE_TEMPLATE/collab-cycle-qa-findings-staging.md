@@ -11,6 +11,8 @@ assignees: ''
 
 #### VFS team, product, feature name
 
+
+
 #### Point of Contact/Reviewers
 
 QA - 
@@ -19,7 +21,7 @@ QA -
 
 ### [QA Standards](https://depo-platform-documentation.scrollhelp.site/developer-docs/quality-assurance-standards)
 
-**Note**: all standards are launch-blocking.
+**Note**: all standards are potentially launch-blocking.
 
 #### Regression Test Plan
 
