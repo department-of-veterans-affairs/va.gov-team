@@ -185,9 +185,10 @@ jobs:
         if: steps.find-files.outputs.skip != 'true' && steps.process.outputs.RESEARCH_FILE
         uses: slackapi/slack-github-action@v1.26.0
         with:
+          channel-id: "research-ops"
           payload: |
             {
-              "channel-id": "#research-ops",
+              "channel-id": "research-ops",
               "text": "📊 New Research Findings Available: ${{ steps.process.outputs.RESEARCH_TITLE }}",
               "blocks": [
                 {
@@ -265,6 +266,7 @@ jobs:
         if: steps.find-files.outputs.skip == 'true' && steps.find-files.outputs.error_message && github.event_name == 'workflow_dispatch'
         uses: slackapi/slack-github-action@v1.26.0
         with:
+          channel-id: "research-ops"
           payload: |
             {
               "channel-id": "#research-ops",
