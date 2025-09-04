@@ -2,9 +2,9 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Sitewide Home Page team**
 
-Date: 07/08/2022
+Date: 07/08/2022 (9/4/2025 links updated)
 
-Cindy Merrill [cindy.merrill@adhocteam.us]
+Cindy Merrill [cmerrill@pluribusdigital.com] ~~[cindy.merrill@adhocteam.us]~~
 
 <br>
 
