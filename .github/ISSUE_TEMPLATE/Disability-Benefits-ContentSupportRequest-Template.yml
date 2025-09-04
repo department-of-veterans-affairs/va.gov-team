@@ -78,9 +78,7 @@ body:
     required: true
 - type: input
   attributes:
-    label: Mural
-  validations:
-    required: true
+    label: Mural 
 - type: input
   attributes:
     label: "Collaboration Cycle ticket #"
