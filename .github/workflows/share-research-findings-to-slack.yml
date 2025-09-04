@@ -269,7 +269,7 @@ jobs:
           channel-id: "research-ops"
           payload: |
             {
-              "channel-id": "#research-ops",
+              "channel-id": "research-ops",
               "text": "❌ Research File Not Found",
               "blocks": [
                 {
