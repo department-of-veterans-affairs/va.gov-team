@@ -23,7 +23,7 @@ _Only_ if you're comfortable, on the `#accessibility-champs` channel...
 
 If you're not comfortable, that's totally ok! You can also:
 - Share your thoughts and questions with someone you trust in a private message or in person conversation
-- Reflect on what you learned alone or [send a question directly to any of our specialists](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/champions.md#specialists)! We're sworn to non-judgement and secrecy 🖖
+- Reflect on what you learned alone or [send a question directly to any of our specialists](../../champions.md#specialists)! We're sworn to non-judgement and secrecy 🖖
 
 ## Take a break! Or continue on?
 Phew. Deep breath. Feel free to take a break, we’re not going anywhere. You can also continue on if you’d like, the choice is 100% yours.
@@ -32,4 +32,4 @@ A couple of reminders before moving on to the next part of level 1:
 - [ ] <strong>Share your questions and thoughts in the `#accessibility-champs` channel.</strong> Did you learn something new today? Have a follow up question to this lesson? Let us know in the `#accessibility-champs` channel! 
 - [ ] Move on to the final part of level 1, or bookmark it for safekeeping.
 
-<strong>[Continue to the final part of level 1, trying out your first screen reader ➡️](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/curriculum/Level%201/C_ScreenReader.md)</strong>
+<strong>[Continue to the final part of level 1, trying out your first screen reader ➡️](C_ScreenReader.md)</strong>
