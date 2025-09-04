@@ -17,9 +17,9 @@ Attendees: Renata Keck, Jamie Fiore, Amanda Klausmeier, Premal Shah, Mike Mooney
 	* Resubmission study: did scope of the findings report change due to the change in the flow?
     	* Yes, we’re omitting findings irrelevant to the current flow.
 
-**Resubmission flow updates **
+**Resubmission flow updates**
 
-	* **Next steps:** Team will be migrating [these updated screens](https://www.figma.com/design/Tfhq5h2LwXEeEEtFBAAFOv/CHAMPVA-Claims--10-7959a-?node-id=6047-26992&t=RBGkJTIcmDZ6ezdy-4https://www.figma.com/design/Tfhq5h2LwXEeEEtFBAAFOv/CHAMPVA-Claims--10-7959a-?node-id=6047-26992&t=RBGkJTIcmDZ6ezdy-4) to the Figma SOT next sprint (including changing verbiage that’s consistent with content changes in the 10-10d merged form)
+* **Next steps:** Team will be migrating [these updated screens](https://www.figma.com/design/Tfhq5h2LwXEeEEtFBAAFOv/CHAMPVA-Claims--10-7959a-?node-id=6047-26992&t=RBGkJTIcmDZ6ezdy-4https://www.figma.com/design/Tfhq5h2LwXEeEEtFBAAFOv/CHAMPVA-Claims--10-7959a-?node-id=6047-26992&t=RBGkJTIcmDZ6ezdy-4) to the Figma SOT next sprint (including changing verbiage that’s consistent with content changes in the 10-10d merged form)
 	* If CHAMPVA claims stakeholders ask for doctype to be assigned in the resub flow in the future, how would we handle that?
    	 * **Decision:** If in the future the CHAMPVA claims stakeholders want to include designating doctype, would not recommend adding a dropdown to the letter/CHAMPVA EOB upload page because it’s not good friction. UX team encourages adding that doctype tagging to the previous claim control number page
 
