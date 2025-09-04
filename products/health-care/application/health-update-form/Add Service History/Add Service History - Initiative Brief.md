@@ -43,18 +43,27 @@ This initiative directly supports the OKR "VA's digital experiences are the easi
 
 ### Key Performance Indicators (KPIs)
 
-> 💡 *VA.gov products measure success against Ease of use, Service Completion, Trust/Satisfaction, Health.*
+- Data source
+  - TBD
 
-- **Ease of Use**: Successful completion rate of service history section in 10-10EZR | Baseline: [TBD] | Target: 85% completion rate
-- **Service Completion**: Number of veterans successfully updating service history through 10-10EZR | Baseline: 0 (new feature) | Target: [TBD based on veteran population analysis]
-- **Service Completion**: Increase in healthcare priority group reassessments initiated through updated service history | Baseline: [TBD] | Target: 20% increase
-- **Trust/Satisfaction**: Veteran satisfaction with service history update process | Baseline: [TBD] | Target: 4.0/5.0 satisfaction score
-- **Health**: Number of veterans receiving improved benefits/priority groups due to updated service history | Baseline: [TBD] | Target: [TBD]
+#### Objective: Veterans will update their service history details
+- Result #1: At least 10% of submissions will show the Veteran updating their service history
+- Result #2: Supporting documentation uploads will increase by 10%
 
-**Balancing Metrics:**
-- Form completion time (ensure service history additions don't create excessive burden)
-- Form abandonment rates at service history section
-- Accuracy of self-reported service information vs. official records
+| Product KPI | Baseline | Target | Post-Launch 1 week |Post-Launch 1 month|
+|------------- |---------|-------|-------------- |------------- |
+| Service history updates |NEW|-------|-------------- |------------- |
+| Supporting docs uploads |TBD|-------|-------------- |------------- |
+
+#### Objective: Veterans will move through the form easily without excessive burdon or abandonment
+- Result #1: Average completion time will not increase more than 10% of current time
+- Result #2: Abandonment rates will not increase
+
+| Product KPI | Baseline | Target | Post-Launch 1 week |Post-Launch 1 month|
+|------------- |---------|-------|-------------- |------------- |
+| Form completion time |TBD|-------|-------------- |------------- |
+| Abandonment rates |TBD|-------|-------------- |------------- |
+| Service History section Abandonment rates |TBD|-------|-------------- |------------- |
 
 ---
 
