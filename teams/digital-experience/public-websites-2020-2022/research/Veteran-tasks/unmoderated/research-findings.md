@@ -4,7 +4,7 @@
 
 Date: 07/08/2022 (9/4/2025 links updated)
 
-Cindy Merrill [cmerrill@pluribusdigital.com] ~~[cindy.merrill@adhocteam.us]~~
+Cindy Merrill ~~[cindy.merrill@adhocteam.us]~~ [cmerrill@pluribusdigital.com] 
 
 <br>
 
