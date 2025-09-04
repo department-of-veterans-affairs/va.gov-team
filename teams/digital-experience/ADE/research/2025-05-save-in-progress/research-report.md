@@ -5,11 +5,11 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Accessibility Digital Experience (ADE)**
 
-**Date:** 08/22/2025
+**Date:** 09/4/2025
 
 **Contacts:** Cindy Merrill
 
-**[Link to Research Readout](./Save%20in%20Progress%20research%20readout-8_25_2025%20VA%20UX%20sync-rem-final.pdf)**  
+**[Research Readout (PDF)](./Save%20in%20Progress%20research%20readout-8_25_2025%20VA%20UX%20sync-rem-final.pdf)**  
 
 **Jump to:**
 
@@ -504,8 +504,8 @@ There are a number of findings that were outside the scope of the research goals
 
   Figure 10 explains about about the form, and prompts the user to sign in to start filling it out.
 
-  <img src="./images/Intro-pg-unauth-top.png" width="75%" height="75%">
-  <img src="./images/Intro-pg-unauth-bottom.png" width="75%" height="75%" alt="The intro page explains what to know before you fill out the form and the types of information you can request. At the bottom of the page is a prompt to sign in to start filling out the form">
+  <img src="./images/Intro-pg-unauth-top.png" width="75%" height="75%" alt="The intro page explains what to know before you fill out the form and the types of information you can request">
+  <img src="./images/Intro-pg-unauth-bottom.png" width="75%" height="75%" alt="At the bottom of the intro page is a prompt to sign in to start filling out the form">
 
 </details>
 
@@ -514,8 +514,8 @@ There are a number of findings that were outside the scope of the research goals
 
   Figure 11 The signed-in version of the intro page has an informational alert about saving and a "Start your request" link.
   
-   <img src="./images/Intro-pg-auth-top.png" width="75%" height="75%">
-   <img src="./images/Intro-pg-auth-bottom.png" width="75%" height="75%" alt="The signed-in version of the intro page is the same as the not-signed-in version, except that the prompt to sign in has been replaced by an informational alert about saving and a 'Start your request' link">
+   <img src="./images/Intro-pg-auth-top.png" width="75%" height="75%" alt="Most of the signed-in version of the intro page is the same as the not-signed-in version">
+   <img src="./images/Intro-pg-auth-bottom.png" width="75%" height="75%" alt="At the bottom of the signed-in version of the intro page, the sign-in prompt has been replaced by an informational alert about saving and a 'Start your request' link">
 
 </details>
 
