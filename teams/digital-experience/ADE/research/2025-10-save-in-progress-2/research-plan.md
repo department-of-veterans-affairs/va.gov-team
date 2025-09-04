@@ -6,7 +6,13 @@
 	
 Saving in-progress work while filling out an online form is an interaction for which the current implementation on VA.gov has known accessibility issues, and the revised design that was [usability tested in May 2025](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/research/2025-05-save-in-progress/research-report.md) didn't work very well. Key findings from that study indicated that most participants didn't know that their information was being saved automatically, and they didn't see or remember either of the informational alerts about saving. 
 
-This research is being planned to get user feedback on a revised design that hopefully communicates more successfully to Veterans that the information they enter into forms will be saved. 
+This research is being planned to get user feedback on a revised design that hopefully communicates more effectively to Veterans that the information they enter into forms will be saved automatically. The new design adds an [interstitial page (in Figure 1 below)](TBD) about saving that appears after the user first selects the Continue button, which should happen after they've started filling out the form and during a natural pause in their work.
+
+### Figure 1 shows new interstitial page
+
+<img src="./images/FILENAME.png" width="50%" height="50%" alt="write a description here">
+
+<!--INSERT SCREENSHOT WHEN DESIGN IS READY-->
 
 </details>
 
@@ -26,16 +32,16 @@ Veterans may use web forms on VA.gov throughout ALL stages of the Veteran Journe
 ### Goals
 
 1. Get user feedback on the revised design for "save in progress" messaging.
-1. 
+1. Get user feedback on the revised calls to action on the page that displays after "Finish later" is selected.
   
 ### Outcome
 
-Findings and recommendations from this research will **inform guidance and documentation for the "save in progress" feature** for authenticated users filling out forms on VA.gov. 
+Findings and recommendations from this research will **inform design guidance and documentation for the "save in progress" feature** for authenticated users filling out forms on VA.gov. 
 
 
 ### Research questions
 
-**Research goal 2: Get user feedback on design revisions for "save in progress" and "finish this request later" that reduce redundant messaging around saving.**
+**Research goal 1: Get user feedback on design revisions for "save in progress".**
 
 1. Do Veterans think that their form data is being saved? If so, how do they know?
 1. What feedback do Veterans have on the interstitial page about saving?
@@ -44,6 +50,8 @@ Findings and recommendations from this research will **inform guidance and docum
 ### Hypotheses
 
 1. With the new design, Veterans are confident that their form data will be saved.
+1. With the new design, all users will see and remember the 
+1. Authenticated users will be fine with seeing the form intro page only once (instead of twice--once before signing in, and again after signing in).  
 
 ---
   
@@ -59,8 +67,8 @@ This is remote research over Zoom.
       
 ## Research materials 📔
 
-- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/research/2025-05-save-in-progress/conversation-guide.md)
-- [Link to prototype](https://bit.ly/4lXVLTV)
+- [Link to conversation guide](./conversation-guide.md)
+- [Link to prototype](TBD)
 
 	
 ## Recruitment 🎯	
