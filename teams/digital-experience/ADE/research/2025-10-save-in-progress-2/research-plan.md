@@ -48,7 +48,7 @@ Findings and recommendations from this research will **inform design guidance an
 
 #### Research goal 2: See if Veterans can stop and resume filling out a form.  
 1. Do Veterans use the "Finish later" button to stop filling out a form?
-1. Are Veterans able to resume filling out a form that they previously started?
+1. Are Veterans able to resume filling out a form that they previously started? If so, how?
 1. What feedback do Veterans have on the revised "Finish later" page? 
 
 #### Research goal 3: See if moving the accordion controls to the left side affects usability.
@@ -57,7 +57,7 @@ Findings and recommendations from this research will **inform design guidance an
 ### Hypotheses
 
 1. With the new design, Veterans are confident that their form data will be saved.
-1. Authenticated users will be fine with seeing the form intro page only once (vs. twice--before and after signing in).  
+1. With the new design, Veterans will be able to stop and resume filling out a form.
 1. All Veterans (including screen magnifier users) will find the accordion controls on the left side easy to use.
 
 ---
@@ -137,7 +137,7 @@ We would like Perigean to recruit assistive tech (AT) users and non-AT users.
 
 1. What is the name of the screen reader or screen magnifier technology that you will use during the Zoom session? *(open text field--RECORD what they say AND ask the rest of the questions)*
 
-    - If they say something non-digital like "magnifying glass, *DISQUALIFY* 
+    - If they say something non-digital like "magnifying glass", *DISQUALIFY* 
     - If they say "JAWS", "NVDA", "VoiceOver", "TalkBack", or "Narrator", *RECORD as **screen reader user**, RECRUIT 3 and ask next question*
     - If they say "Magnifier", "Zoom", "Magnification", "Magnifier", or "ZoomText", *RECORD as **screen magnifier user**, RECRUIT 3 and ask next question*
     - If they say "increase font size" or "zoom in the browser", ask  what percentage they zoom to. 
