@@ -125,10 +125,18 @@ The best way to engage with ADE is early! The earlier in a project that we can g
 - [We recommend starting with a ADE Intake Ticket.](https://github.com/department-of-veterans-affairs/va.gov-team/issues/new?template=Accessibility-Digital-Experience-Intake-Ticket.md) From there we’ll connect your team with one or more practice area specialists, who can provide the input that your team is requesting.
 
 In your intake ticket, please tell us:
-- What screens need to be tested
-- What conditional content or pages are in the flow
-- If there are any custom (non-VADS) components in use
-- How to log in to access the product (if applicable)
+
+<details><summary>What screens need to be tested</summary>
+**Why do we ask this?** Often accessibility audits encompass many different screens, testing an entire flow of a product. However, an audit doesn't have to be many different screens. It can be one or two screens as well. In fact, we prefer this because it usually speeds up the feedback loop between product teams and accessibility specialists.
+</details>
+<details><summary>What conditional content or pages are in the flow</summary>
+**Why do we ask this?** It's important to test all the functionality of the product. If conditional content gets triggered by selecting certain choices, it's good to know where those choices are and how the conditional content gets activated. This makes auditing more efficient and ensures that we're evaluating everything a Veteran would encounter. What errors can occur and how can those be triggered? Why do we ask this? Errors create an important part of the user experience, and often are critical to get right. Knowing what errors can occur will help accessibility specialists test the product more efficiently and make sure we evaluate everything a Veteran would encounter.</details>
+<details><summary>If there are any custom (non-VADS) components in use</summary>
+**Why do we ask this?** This helps accessibility specialists know where the boundaries are between the design system and the product itself. It can help in determining where to create issues, and which team is responsible for fixing them.
+</details>
+<details><summary>How to log in to access the product (if applicable)</summary>
+Why do we ask this? This helps accessibility specialists test with the right information so all of the appropriate functionality can be triggered. Should user accounts be kept in their existing states? How should they be reset, if changed? Why do we ask this? During the process of testing, it's common to change data in fields to trigger errors and explore functionality. If data needs to be in specific states, it's good to know that ahead of time.
+</summary>
 
 ## About this Documentation 
 This documentation was adapted from the VA Shared Support team's version of "How We Audit," written September 21, 2022.
