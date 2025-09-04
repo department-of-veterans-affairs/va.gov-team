@@ -6,7 +6,7 @@ We're a grassroots, volunteer-led educational program intent on scaling up VA.go
 - centering the diverse voices of disabled Veterans, caretakers, and family members
 - asking questions first and learning from others
 
-<strong>[Complete level 1 to start your journey 🪴](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/curriculum/Level%201/A_Introduction.md)</strong>
+<strong>[Complete level 1 to start your journey 🪴](curriculum/Level%201/A_Introduction.md)</strong>
 
 ## Who can be an accessibility champion? And what do they do? 🤔 
 
@@ -21,8 +21,8 @@ We're a grassroots, volunteer-led educational program intent on scaling up VA.go
 
 **Depending on their role, they might help their team by:**
 - [conducting foundational accessibility reviews for their team](https://depo-platform-documentation.scrollhelp.site/collaboration-cycle/prepare-for-an-accessibility-staging-review#Prepareforanaccessibilitystagingreview-Foundationalaccessibilitytests(required)foundational-testing)
-- [providing support during research with disabled Veterans](https://depo-platform-documentation.scrollhelp.site/research-design/research-assistive-technology-sessions)
-- [write accessibility annotations for mockups](https://www.sketch.com/s/aaa5c25f-6991-4aac-a6ed-d378bdff7727/p/C7BD6145-9511-470C-950C-7ACC42DE9F03/canvas)
+- [providing support during research with disabled Veterans]()
+- [write accessibility annotations for mockups](https://design.va.gov/accessibility/accessibility-annotations)
 - answering (or finding answers to) questions in the #accessibility-help channel
 
 **This is a volunteered effort, so rest assured that:**
@@ -30,13 +30,13 @@ We're a grassroots, volunteer-led educational program intent on scaling up VA.go
 - you'll have ample support from our accessibility community and accessibility specialists
 - you are welcome to step aside at any time (we value our people!)
 
-**[Check out our champions and specialists](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/champions.md)**
+**[Check out our champions and specialists](champions.md)**
 
 </details>
 
 ## Curriculum
 
-### [Level 1, Community Member](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/curriculum/Level%201/A_Introduction.md) 👐
+### [Level 1, Community Member](curriculum/Level%201/A_Introduction.md) 👐
 - 1 hour to complete
 - Learn what accessibilty is, get comfortable asking for help, and join our community
 - Get started with your first screen reader
@@ -86,7 +86,7 @@ This was inspired by a curriculum designed by **Jen Strickland** and **Trevor Pi
 
 ### Community feedback
 We make updates to our curriculum based on feedback from our community. This is forever a work in progress, and is built by a community of people.
-- [Check out all the updates we've made in our changelog](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/accessibility/a11y-champs/changelog.md)
+- [Check out all the updates we've made in our changelog](changelog.md)
 - [Provide feedback directly using this Microsoft Form](https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAToLe2lUM0FTUlRTRUxIMEhTVjc1RExON1JTVTk2Vi4u)
 
 ### Contributors
