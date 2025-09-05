@@ -15,7 +15,7 @@ Following the enactment of the Veterans Appeals Improvement and Modernization Ac
 
 Despite these options, navigating the AMA review process remains challenging for Veterans. Many struggle to identify the appropriate Decision review path for their situation, leading to frequent missteps, delays in claim resolution, and sometimes unfavorable outcomes. Confusion is often compounded by unclear distinctions between certain choices—such as knowing when to file a Supplemental Claim versus a Claim for Increase (CFI)—or by missing deadlines and not understanding what to do next.
 
-To address these gaps and to assist Veterans in selecting the appropriate pathway, we are developing a new unauthenticated tool, the Decision Review Guide. This new tool introduces a guided, interactive experience on [VA.gov](http://va.gov), which aims to improve the Veteran journey by offering clear, context-sensitive guidance and reducing friction caused by uncertainty, incorrect submissions, and fragmented information sources. This tool will use a guided, “wizard-style” experience to help Veterans navigate the complex decision review landscape. By tailoring questions to each individual’s circumstances, the tool aims to guide the user to recommend appropriate review options for their circumstance, with clear reasoning as to why certain options may be a good fit, and others may not. 
+To address these gaps and to assist Veterans in selecting the appropriate pathway, we are developing a new unauthenticated tool, the guide "Explore disability claim decision review options". This new tool introduces a guided, interactive experience on [VA.gov](http://va.gov), which aims to improve the Veteran journey by offering clear, context-sensitive guidance and reducing friction caused by uncertainty, incorrect submissions, and fragmented information sources. This tool will use a guided, “wizard-style” experience to help Veterans navigate the complex decision review landscape. By tailoring questions to each individual’s circumstances, the tool aims to guide the user to recommend appropriate review options for their circumstance, with clear reasoning as to why certain options may be a good fit, and others may not. 
 
 Product Brief \[[Github](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/decision-reviews/Enhanced-DR-Onramp-Initiative%20Brief.md)]
 
@@ -54,7 +54,7 @@ This research will be an initial study of this new feature, and will inform how 
 
 ## **Research Questions** 
 
-- **Goal 1, Usability of flow:** Evaluate the usability of the Decision Review Guide screen flow
+- **Goal 1, Usability of flow:** Evaluate the usability of the guide, "Explore disability claim decision review options" screen flow
 
   - Do participants understand what the outcomes of using the tool will be before they start?
 
