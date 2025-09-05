@@ -4,7 +4,7 @@
 
 ---
 ## 📆 Sprint 2 (Aug 27 - Sept 9)
-- [ ] 🎉 or 🧱 **Sprint Goals completed** 
+- [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
 ### Team initiative (not form-specific)
 #### Obj: Knowledge sharing
