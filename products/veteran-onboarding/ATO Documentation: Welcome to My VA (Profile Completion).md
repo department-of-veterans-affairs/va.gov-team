@@ -16,7 +16,7 @@ _Please Note: The Veteran-Facing Services Platform ATO boundary includes all env
 4. **Do you utilize any other cloud resources beyond VA.gov?** N/A
 
 #### Repositories
-1. **List repos maintained by your team, provide links.**  The only repo that we maintain exclusively is the [Performance Dashboard](https://github.com/department-of-veterans-affairs/performance-dashboard).  The rest of the work we do is within `vets-api` and `vets-website`
+1. **List repos maintained by your team, provide links.**  Project maintained by our team exists within vets-api and vets-website
 2. **List repos used by your team, provide links.** [vets-api](https://github.com/department-of-veterans-affairs/vets-api), [vets-website](https://github.com/department-of-veterans-affairs/vets-website)
 3. **Do you have a POC for each repo? Please list – Individuals are preferred, but groups are acceptable.** [IIR Team](https://github.com/orgs/department-of-veterans-affairs/teams/va-iir) 
 4. **List other groups you know use your repos.** N/A
