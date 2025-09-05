@@ -57,9 +57,7 @@
   - Current: VA.gov home > Find a VA form > About VA Form [form number]
   - New: VA.gov home > VA forms > About VA Form [form number]  (no change to last segment)
 - Notes:
-  - The form number used as the URL segment should be pulled directly from the forms db
-  - Any letters utilized in the form number should be lower case
-  - Spaces should be replaced with a dash
+  - The form number used as the URL segment should be pulled directly from the forms db and formatted the same way it currently is
 
 
 
