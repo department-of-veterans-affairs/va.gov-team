@@ -1,8 +1,6 @@
 # Product Outline: [Form 26-4555 Application in Aquiring Specially Adapted Housing or Special Home Adaptation Grant](https://www.vba.va.gov/pubs/forms/VBA-26-4555-ARE.pdf)
 
 
-Note:  This form had already started the process but the project was shelved in Jan 2022, see original [Collaboration Cycle Kickoff Issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/34092)
-
 ## Overview
 As part of the [IDEA Act](https://digital.gov/resources/21st-century-integrated-digital-experience-act/
 ), we are prioritizing forms that have the low complexity to build / high frequency of use and high impact to Veterans. Form 26-455 has a high impact for Veterans. The 526 Disabiity Benefits Crew is taking over ownership of this form from the VFF team. More specifically, the Pathways team.
