@@ -373,8 +373,7 @@ The PDF statements in the copay experience were highly valued, with all 11 parti
 
   > _[would you use the statement in the app?] "For sure. I always download anything I have just to keep on record in case anything happens. Having access to these PDFs immediately, I think it makes everything more clear and concise and straightforward." - P10_
 
-However, participants found older statements difficult to locate. Only 2 out of 6 people were able to find them, even expressing concern about the long scroll to get to them and the unclear title (suggesting renaming them “older statements” or “previous statements”.
-
+However, participants found older statements difficult to locate. Only 2 out of 6 people were able to find them, and even those users noted the excessive scrolling and suggested a clearer label, such as “older statements” or “previous statements.”
 
   > _"If somebody did get seen pretty often, they'd have to scroll a long way before they get to the bottom. So if I were trying to look [for older statements], I wouldn't want to scroll all the way down, because I'm like, oh, it's just appointments and appointments and appointments." - P12_
 
