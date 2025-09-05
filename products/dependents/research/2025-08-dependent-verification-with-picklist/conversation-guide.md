@@ -92,15 +92,21 @@ Before we start, I have a few things that I want to go over with you:
 
 # Warm-up Questions (Optional) - 2 minutes
 
-Before we look at the website, let’s start with a few warm-up questions.
+- Have you ever viewed the dependents on your disability benefit on VA.gov?
+  
+     - If yes-
+          - How often do you view the dependents on your benefits on VA.gov?
+          - When was the last time you viewed the dependents on your benefits on VA.gov?
+          - What causes you to view the dependents on your disability benefit on VA.gov?
+            
+     - If no OR unsure-
+          - Have you ever wanted to view the dependents on your disability benefit on VA.gov?
+          - Are there cases when you feel that you would need to view the dependents on your disability benefit on Va.gov? If so, what?
 
-- How often do you view the dependents on your benefits on VA.gov?
-- When was the last time you viewed the dependents on your benefits on VA.gov?
-- What causes you to view the dependents on your disability benefit on VA.gov?
 
 ## Screen Sharing Setup - 5 minutes
 
-Before we get started, I want to get our tech set up for the prototype review later. So we can understand how you’re navigating this feature, we’d like you to share your screen. I'm going to share the link to prototype in the Zoom chat. You'll be able to activate it and open it in a web browser.
+I want to get our tech set up for the prototype review. So we can understand how you’re navigating this feature, we’d like you to share your screen. I'm going to share the link to prototype in the Zoom chat. You'll be able to activate it and open it in a web browser.
 
 - If participants cannot share their screen, walk them through screen sharing.
 
@@ -112,8 +118,8 @@ Before we get started, I want to get our tech set up for the prototype review la
 As you're looking at the prototype, here's a scenario I'd like you to use:
 
 - You are Curtis, a 60 year old Marine Veteran
-- You are married and have 2 kids
 - You receive Disability benefits
+- You are married and have 2 kids
 - Your wife, Maya, recently retired
 - Your daughter Naomi (age 24) finished her Master's degree and moved back home while she is looking for work
 - Your son Jared (age 22) is in his last year of college and got married this summer
@@ -125,8 +131,8 @@ Okay, thanks for doing your best to keep that scenario in mind as you look at th
 
 [Send link to prototype 1](https://www.figma.com/proto/AM5gVqcdLtWazrjTqwqykN/DV-Picklist-V2?page-id=82%3A4755&node-id=284-16217&viewport=73%2C332%2C0.11&t=w9RvfaoPZsspxi47-1&scaling=min-zoom&content-scaling=fixed&starting-point-node-id=284%3A16217&show-proto-sidebar=1&hotspot-hints=0&hide-ui=1)
 
-- We'll be talking about specific actions in the prototype.
-- So looking at this first page, what's jumping out to you?
+- Imagine that you receive an email from VA that says "Review the dependents that you've added to they're VA benefits to make sure the information is accurate" the email includes a link that takes you to this page.
+- Looking at this first page, what's jumping out to you?
 - What would you do next?
 - When would you update your dependents?
 - If they don't click the "Verify your VA disability benefits dependents" link or if they try to click a different link like the "Add or remove a dependent" link, why did you start there? Is there somewhere else you might click?
@@ -164,9 +170,9 @@ You can click the continue button.
 
 You can click the continue button.
 
-- What would you do next?
+- What do you notice about the page?
 - Do you know how this dependent is related to the person in the scenario?
-- What else do you notice about the page?
+- What would you do next?
 - If they share that they've lost a dependent this becomes a more sensitive session. Focus on making sure they're all right, but if they are open to it are there one or two questions we might like to ask
   - Maybe what the process of removing that dependent was like? And what they would have ideally liked it to be like?
 
@@ -181,9 +187,9 @@ You can click the continue button.
 
 You can click the continue button.
 
-- What would you do next?
+- What do you notice about the page?
 - Do you know how this dependent is related to the person in the scenario?
-- What else do you notice about the page?
+- What would you do next?
 
 You can click the continue button.
 
@@ -198,7 +204,7 @@ You can click the continue button.
 
 You can click the continue button.
 
-- What's this page about?
+- What do you notice about the page? What's this page about?
 - Based on the scenario, what would you do next here?
 - What do you think will happen next?
 - What does the gray tag mean to you?
@@ -226,10 +232,10 @@ You can click the continue button.
 
 You can click the continue button.
 
-- What stands out about this page?
+- What do you notice about the page?
 - Is this what you expected?
-- What would you do next?
 - If they left the page with the additional forms information, where or how would they expect to find this information again?
+- What would you do next?
 
 > [!NOTE]
 >
@@ -242,10 +248,9 @@ You can click the continue button.
 
 You can click the continue button.
 
-- What stands out about this page?
+- What do you notice about the page?
 - Is this what you expected?
 - What would you do next?
-- If they left the page with the additional forms information, where or how would they expect to find this information again?
 
 > [!NOTE]
 >
@@ -257,7 +262,7 @@ You can click the continue button.
 
 You can click the submit button.
 
-- What stands out about this page?
+- What do you notice about the page?
 - Is this what you expected?
 - What would you do next?
 - Would you change anything about this page?
@@ -290,8 +295,8 @@ Okay, now we're going to change prototypes and use a different one. The scenario
 As you're looking at the prototype, here's a scenario I'd like you to use:
 
 - You are Curtis, a 60 year old Marine Veteran
-- You are married and have 2 kids
 - You receive Disability benefits
+- You are married and have 2 kids
 - Your wife, Maya, recently retired
 - Your daughter Naomi (age 24) finished her Master's degree and moved back home while she is looking for work
 - Your son Jared (age 22) is in his last year of college and got married this summer
@@ -318,9 +323,10 @@ You can click the continue button again.
 
 You can click the continue button.
 
-- What are your initial thoughts after checking out this page?
-- What would you do next?
+- What do you notice about the page?
 - What selections would you make here?
+- What would you do next?
+
 
 > [!NOTE]
 >
