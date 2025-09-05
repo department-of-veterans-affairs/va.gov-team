@@ -270,7 +270,7 @@ No one is thrilled that they can't pay in the app and/or that their information 
   
   > _“Yeah, the second one [version with payment option] for sure, because it gives options to resolve, however you choose to. So definitely the second option is better.” - P10_
 
-<br> </br>
+
 ### Finding 2: Navigation and labels need to be intuitive to prevent confusion.
 
 Veterans rely on labels in multiple locations to find information about money they owe, such as the main tab, breadcrumbs, and help options.
@@ -294,7 +294,7 @@ A significant majority of participants (7 out of 11) agreed that "Payments" was 
 
 > _“I'm inclined to think maybe payments might be anything I might be receiving. But then that's why the benefits tab is there? So yeah, I think payments is clear enough.” - P7_
 
-<br> </br>
+
 ### Finding 3: Participants have a need for clear, actionable options when searching for help with their debt or bills.
 
 Most participants (9 out of 11) search for a phone number within the app when they have questions about their debt and bills. 
@@ -332,7 +332,7 @@ The “Why might I have this debt” button proved unhelpful, as 4 out of 5 foun
 
   > _"Yeah, that's pretty standard. It gives you 3 options to ponder. So instead of 3 options, if there was some way to know exactly what it is – a direct line to contact." - P10_
 
-<br> </br>
+
 ### Finding 4: Key payment information must be surfaced and easy to retain.
 
 Most users are not noticing that the app is providing them with important payment information (e.g. account number, payee number) that they will need when moving to pay portals outside of the app.
@@ -363,7 +363,7 @@ This difficult app-to-portal handoff led to a strong desire for in-app automatio
 
   > _"Does this allow copy? This won't allow you to copy, it doesn't look like, so I guess I'd have to write it down." - P8_
 
-<br> </br>
+
 ### Finding 5: Digital statements and documents are a core need for users.
 
 The PDF statements in the copay experience were highly valued, with all 11 participants appreciating the inclusion. The most common reasons for using them were verifying charges (5 users) and saving them for future reference (4 users).
@@ -395,7 +395,7 @@ A majority (6 out of 8) had a strong expectation that they should be able to vie
 
   > _"If this had the letters, I would expect to click on it and view the letters." - P12_
 
-<br> </br>
+
 ### Finding 6: Separation of current and resolved debt is beneficial for clarity.
 
 A majority of participants (3 out of 5) did not want to see resolved debt alongside current debt, as they expected the main debt page to only show outstanding actionable items.
@@ -412,7 +412,7 @@ The remaining participants (2 out of 5) were content with having the resolved an
 
   > _"'Closed' or some type of other wording that says it's been paid." - P10_
 
-<br> </br>
+
 ### Finding 7: Users want a clear, centralized way to manage their bills.
 
 The overall structure of the Payments page is clear to the majority of participants (9 out of 12). A small group (3 of 12), all of whom were not receiving benefits in their real life, were confused by the section of payments made to them.
