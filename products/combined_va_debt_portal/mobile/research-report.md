@@ -444,7 +444,7 @@ The copay pages – both overview page and detail pages of each bill – were co
 
 While the current experience for learning about new debt comes from physical letters, 3 of 6 participants would like to receive in-app notifications for anything new.
 
----
+
 
 <!-----
 
@@ -457,12 +457,6 @@ While the current experience for learning about new debt comes from physical let
 
 ## Recommendations
 
-*Summarize actionable recommendations based on findings.*  
-
-1. **Recommendation:** [Insert action]  
-   - _Supporting evidence: [Insert data]_  
-2. **Recommendation:** [Insert action]  
-   - _Supporting evidence: [Insert data]_
 
 ### The Payments hub
 
