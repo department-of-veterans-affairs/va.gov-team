@@ -555,11 +555,15 @@ This research supports our desired business outcome by....
 ### KPI 1
 This research supports measurement of this KPI by....
 
+----->
 
-## Next Steps
+## Next Steps 🚧
 
-*Outline immediate actions based on findings, including owners if applicable.*  
+[Spreadsheet with recommendations and their statuses (Google Doc)](https://docs.google.com/spreadsheets/d/1b2y2qA8gWbx0GtgiDoCnUsUiYlQksZIuN6oCClm0458/edit?gid=2073713253#gid=2073713253&fvid=2013959249)
+  - There will be a table here with each recommendation and the current status (e.g. designs have been updated, potential v2 feature)
+  - Feedback needed: The "Recommendation Status" column – confirm, fix, or update cells as necessary
 
+<!-----
 
 ## Further research needed
 
