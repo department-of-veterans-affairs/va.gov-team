@@ -468,32 +468,37 @@ While the current experience for learning about new debt comes from physical let
 
 1. Proceed with the MVP version, having the payment options of linking to pay.gov and pay.va.gov.
 
-  - 10 out of 11 participants
-
-3. Keep the name of “Payments” on the tab as-is for now.
+    - _10 out of 11 participants preferred the version that allowed them to make payments. Even with the friction of the mobile payment process and the lack of autofill features, they appreciated having this capability._
 
 
 
-* Even with confusion, most users were fine with this name once they explored the contents.
+2. Keep the name of “Payments” on the tab as-is for now.
+
+    - _7 out of 11 users agreed that "Payments" was the most fitting name for the tab. Even most of those who initially thought "Payments" referred to money owed to them were fine with the name after they explored the contents of the tab._
 
 3. Provide a space for users to view resolved debt, and remove resolved debt from the current list of outstanding debts and bills.
 
+    - _3 out of 5 users did not want to see resolved debt alongside current debt, with the remaining two fine with having it there so long as there was a clear distinction between them._
 
 ### Clarity and Communication
 
 4. Improve the handoff experience to external payment sites. Make it very clear that the user needs to take action to save the payment information before they are redirected.
 
+    - _Most users did not notice that they app was providing this information for them: 5 out of 7 with the overpayment flow, and all 10 in the copayment flow._
+
 5. Enable copy-and-paste functions for key payment information to make the external payment process more seamless.
+
+    - _All 10 participants in the copay flow saw immediate value in the prototype's copy-and-paste function for the account number._
 
 6. Clarify why a debt exists. Add easy and actionable ways for users to learn why they have a particular debt, moving away from the generic explanation.
 
-
+    - _4 out of 5 felt the “Why might I have this debt” button was unhelpful, finding the information too general and expected a more direct, personalized explanation._
 
 * 🚧 Possible V2: we would need to check with engineers to see what is feasible.
 
 7. Add due dates for bills and debts on the Payments page to help users manage their finances at a glance.
 
-
+    - _4 of 9 wanted more specifics up front, such as due date and type of debt._
 
 * 🚧 Possible V2: category tiles would need to be changed.
 
@@ -502,20 +507,33 @@ While the current experience for learning about new debt comes from physical let
 
 8. Prominently display a phone number, as Veterans often bypass help menus in search of a way to speak directly with someone.
 
+    - _9 out of 11 searched for a phone number within the app for questions about their debt and bills._
+
 9. Surface non-payment options. The options of disputing a debt or requesting a payment plan were not being discovered in the Help menu and were somewhat hidden under the Resolve button.
 
+    - _3 out of 6 wanted more direct options to be surfaced upon tapping the Resolve button._
 
 ### Documentation and Notifications
 
 10. Provide access to debt letters. If not possible, provide a clear explanation for why they can not be read in the app.
 
+    - _Everyone found the debt letters useful, and 6 of 8 assumed they could access the letters in the app._
+
 11. Make older PDF statements easier to find. The current structure requires much scrolling and is not clearly labeled.
+
+    - _Only 2 out of 6 people were able to find them, and even those users noted the excessive scrolling and suggested a clearer label, such as “older statements” or “previous statements.”_
 
 12. Look into making the PDFs as accessible as possible for all users.
 
+    - _Everyone found the PDF statements useful, so we need to make sure they can be read by all users._
+
 13. Clarify the structure of the copay statements. Until we are able to provide real-time transactions, make it clear that the copay details are in statement form and may not be up to date.
 
+    - _5 out of 11 were confused by the bill structure, not realizing it was a monthly statement._
+
 14. Re-evaluate the alert accordion on the details page. Either make it clearly expandable with valuable content inside or replace it with a simple banner.
+
+    - _7 out of 11 did not open the yellow alert accordion. Of those who did, all 4 were looking for additional information on taking those actions, which they did not find._
 
 <!-----
 
