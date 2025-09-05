@@ -99,7 +99,7 @@ This research will be an initial study of this new feature, and will inform how 
 
 ## **Methodology**
 
-This research approach is for remote moderated usability testing of the decision review Guide, using a coded-prototype on staging.VA.gov. These sessions will include a semi-structured interview at the beginning to gauge participant’s prior understanding of the decision review process. The usability test will ask participants to use information about their personal scenario to guide them through the flow and observe task completion and thought process. The session will end with a follow-up interview to assess the impact of the flow on the participant experience and understanding of decision review options.  
+This research approach is for remote moderated usability testing of the guide, "Explore disability claim decision review options", using a coded-prototype on staging.VA.gov. These sessions will include a semi-structured interview at the beginning to gauge participant’s prior understanding of the decision review process. The usability test will ask participants to use information about their personal scenario to guide them through the flow and observe task completion and thought process. The session will end with a follow-up interview to assess the impact of the flow on the participant experience and understanding of decision review options.  
 
 
 ## **Location**
