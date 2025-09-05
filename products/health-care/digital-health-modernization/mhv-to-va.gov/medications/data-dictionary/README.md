@@ -2,6 +2,13 @@
 
 A place to document the mapping of medications data presented within the UI across systems upstream to vets-website and vets-api (www.va.gov, api.va.gov).
 
+
+## System Diagram
+
+```
+[www.va.gov UI] <-> [api.va.gov API] <-> [MHV API] <-> [VA/EHR Systems]
+```
+
 ## Web URLs
 
 The Medications on VA.gov application exists across the following URLs
