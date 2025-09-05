@@ -32,7 +32,7 @@ body:
       What work do you recommend based on your conclusions? Link to any issues.
 - type: checkboxes
   attributes:
-    label: Refinement Checklist! 
+    label: Refinement Checklist
     description: Make this ticket ready to work
     options: 
       - label: Add description, goal, and tasks
