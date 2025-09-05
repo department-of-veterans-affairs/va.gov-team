@@ -8,6 +8,8 @@
   - New profile nav when visiting any `/profile` page
 
 ### Test Users & scenarios
+[Link to passwords for test user +12 and +78](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/Administrative/vagov-users/mvi-staging-users.csv)
+[Link to password for test user +mhvcss4](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/642883a81003d53310f1a9d42ec300116f7df119/Administrative/vagov-users/staging-test-accounts-notification-preferences-a11y.md)
 - All users should see the new Communication Settings box in the Profile Hub that links to both the existing Notification Settings page and the new Paperless Delivery Settings page. This can be tested with any LOA3 user.
 - All users should be able to see and use the new side navigation component within any `/profile` page. This can be tested with any LOA3 user.
 - All users should NOT be able to see any Paperless Delivery settings on the Notification Settings page. This can be tested with any LOA3 user.
