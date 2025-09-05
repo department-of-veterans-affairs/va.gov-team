@@ -452,6 +452,8 @@ While the current experience for learning about new debt comes from physical let
 *Include insights that do not represent patterns but are still valuable.*  
 > **TIP:** These could be powerful user comments or unexpected issues worth noting
 
+----->
+
 
 ## Recommendations
 
@@ -461,6 +463,61 @@ While the current experience for learning about new debt comes from physical let
    - _Supporting evidence: [Insert data]_  
 2. **Recommendation:** [Insert action]  
    - _Supporting evidence: [Insert data]_
+
+### The Payments hub
+
+1. Proceed with the MVP version, having the payment options of linking to pay.gov and pay.va.gov.
+
+  - 10 out of 11 participants
+
+3. Keep the name of “Payments” on the tab as-is for now.
+
+
+
+* Even with confusion, most users were fine with this name once they explored the contents.
+
+3. Provide a space for users to view resolved debt, and remove resolved debt from the current list of outstanding debts and bills.
+
+
+### Clarity and Communication
+
+4. Improve the handoff experience to external payment sites. Make it very clear that the user needs to take action to save the payment information before they are redirected.
+
+5. Enable copy-and-paste functions for key payment information to make the external payment process more seamless.
+
+6. Clarify why a debt exists. Add easy and actionable ways for users to learn why they have a particular debt, moving away from the generic explanation.
+
+
+
+* 🚧 Possible V2: we would need to check with engineers to see what is feasible.
+
+7. Add due dates for bills and debts on the Payments page to help users manage their finances at a glance.
+
+
+
+* 🚧 Possible V2: category tiles would need to be changed.
+
+
+### Help and Support
+
+8. Prominently display a phone number, as Veterans often bypass help menus in search of a way to speak directly with someone.
+
+9. Surface non-payment options. The options of disputing a debt or requesting a payment plan were not being discovered in the Help menu and were somewhat hidden under the Resolve button.
+
+
+### Documentation and Notifications
+
+10. Provide access to debt letters. If not possible, provide a clear explanation for why they can not be read in the app.
+
+11. Make older PDF statements easier to find. The current structure requires much scrolling and is not clearly labeled.
+
+12. Look into making the PDFs as accessible as possible for all users.
+
+13. Clarify the structure of the copay statements. Until we are able to provide real-time transactions, make it clear that the copay details are in statement form and may not be up to date.
+
+14. Re-evaluate the alert accordion on the details page. Either make it clearly expandable with valuable content inside or replace it with a simple banner.
+
+<!-----
 
 ## Product User and Business Outcomes
 
