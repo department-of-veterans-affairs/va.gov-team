@@ -25,10 +25,6 @@ Currently this form is a catch-all form used for many different scenario, exampl
 - A Veteran should be able to understand this form is best served as an onramp to the specific forms for statements in support of their claim
  
 
-## KPI
-- Goal: Decrease the number of submissions of 21-4138 by directing them to other forms for faster processing and reducing the burden.
-- Metric: Track the number of submissions of 21-4138 to see if they are decreasing and track submissions for 21-10210, 20-10206, 20-10207, and 20-10208 to see if the submissions are increasing.
-
 ## Desired Business Outcomes
 - Increased conversion and exposure to the Veteran population.
 - Understand all of the different forms that reference this form. It is a generic catch-all form.
@@ -46,6 +42,10 @@ Currently this form is a catch-all form used for many different scenario, exampl
 ---
 ## Measuring Success
 
+### Goal 
+- Decrease the number of submissions of 21-4138 by directing them to more specific forms for faster processing.
+- (Tracking) Track the number of submissions of 21-4138 to measure if they're dropping
+- (Tracking) Track the number of submissions of the more specific forms (list here) to measure if they're rising
 
 ### Key Performance Indicators (KPIs)
 
