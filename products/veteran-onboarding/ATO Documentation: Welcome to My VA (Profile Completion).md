@@ -25,22 +25,22 @@ _Please Note: The Veteran-Facing Services Platform ATO boundary includes all env
 
 This product is implemented in [vets-api](https://github.com/department-of-veterans-affairs/vets-api) and [vets-website](https://github.com/department-of-veterans-affairs/vets-website).  It does not use any additional tools.
 
-1. List CI/CD or Infrastructure as Code tools.
+~~1. List CI/CD or Infrastructure as Code tools.
 2. Describe where each tool is hosted and if they handle PII.
 3. List software included in deployment or generate SBOM.
-4. List all packages/plugins/modules/gems/etc. Include version numbers.
+4. List all packages/plugins/modules/gems/etc. Include version numbers.~~
 
 #### Connections
 
 This product does not implement any additional connections, either within or outside of the VA Network.  It uses the existing endpoints which connect to VA Profile, but does not modify those calls.
 
 
-1. List the connections your team makes/maintains with systems outside the Platform AWS Environment.
+~~1. List the connections your team makes/maintains with systems outside the Platform AWS Environment.
 2. Are these connections Internal or External to the VA?
 3. Do you have a POC? Please list.
 4. Describe the encryption used for the connection in transit (e.g., Not Encrypted, TLS 1.2, TLS 1.3, mTLS). Specify the certificate source if applicable (e.g., AWS ACM, Let's Encrypt, self-signed).
 5. List the types of PII shared (in each direction) with this connection.
-6. Do you have an MOU, ISA, IAA, or other formal agreement that documents this connection? If so, please provide it.
+6. Do you have an MOU, ISA, IAA, or other formal agreement that documents this connection? If so, please provide it.~~
 
 #### Data Flow Diagram
 The following is a data flow diagram that shows this product’s relationship to Platform:
