@@ -266,7 +266,8 @@ The one outlier does not have interest in using the app and would not make any p
 No one is thrilled that they can't pay in the app and/or that their information is not auto-filled, but appreciate that they at least have the option to pay.
 
 
-  > *“This is now one-stop shopping! And I love that.” - P2*  
+  > _“This is now one-stop shopping! And I love that.” - P2_
+  
   > _“Yeah, the second one for sure, because it gives options to resolve, however you choose to. So definitely the second option is better.” - P10_
 
 
@@ -291,7 +292,7 @@ A significant majority of participants (7 out of 11) agreed that "Payments" was 
 * Some participants (3 out of 11) initially thought "Payments" referred to money owed to them (e.g., disability benefits), but 2 of those were fine with the name after a brief explanation
 
 
-  > _“I'm inclined to think maybe payments might be anything I might be receiving. But then that's why the benefits tab is there? So yeah, I think payments is clear enough.”_
+> _“I'm inclined to think maybe payments might be anything I might be receiving. But then that's why the benefits tab is there? So yeah, I think payments is clear enough.” - P7_
 
 
 ### Finding 3: Participants have a need for clear, actionable options when searching for help with their debt or bills.
@@ -313,8 +314,9 @@ Users easily discovered help options under the Resolve menu (6 out of 6), though
 * *This did not come up with the version with the Help menu, as all options were written out when they first arrived at that page*
 
 
-  > _[tapping “Other ways to pay”] "In my mind I thought that maybe there'd be other options where they can help me with making these payments much more doable. But instead, I got that [pay by phone or in person]" - P7_
-  > _[tapping “Resolve debt”] "Oh, it's really not that clear on what you can do when you're here. Under the Request Help I see "dispute this debt." I want to see this on the main portion." - P8_
+> _[tapping “Other ways to pay”] "In my mind I thought that maybe there'd be other options where they can help me with making these payments much more doable. But instead, I got that [pay by phone or in person]" - P7_
+
+> _[tapping “Resolve debt”] "Oh, it's really not that clear on what you can do when you're here. Under the Request Help I see "dispute this debt." I want to see this on the main portion." - P8_
 
 Most participants (7 out of 11) did not open the yellow notification accordion that indicated to users they must pay or request help by a particular date. Of those who did, all 4 were looking for additional information on taking those actions, which they did not find.
 
@@ -328,7 +330,7 @@ The “Why might I have this debt” button proved unhelpful, as 4 out of 5 foun
 
   > _"Well, that just sounds like some generic information that's not specific to me. I would want to know exactly how this came to be." - P11_
 
-  > _"Yeah, that's pretty standard. It gives you 3 options to ponder. So instead of 3 options, if there was some way to know exactly what it is –, a direct line to contact." - P10_
+  > _"Yeah, that's pretty standard. It gives you 3 options to ponder. So instead of 3 options, if there was some way to know exactly what it is – a direct line to contact." - P10_
 
 
 ### Finding 4: Key payment information must be surfaced and easy to retain.
@@ -345,21 +347,21 @@ Users assume the app would automatically handle the information for them, and do
 
   > _"There's nothing here that tells you that you're gonna need this. [reads again] I guess they do explain it. But it doesn't tell you that once you click on the "pay on pay.va.gov" thing that it's gonna take this information away from you." - P8_
 
-  > _"It says you'll need to provide these details. But, I think I'm not really fully grasping that I need to write everything down, or that I'm going to need to toggle back and forth in the digital age." - P11
+  > _"It says you'll need to provide these details. But, I think I'm not really fully grasping that I need to write everything down, or that I'm going to need to toggle back and forth in the digital age." - P11_
 
 As a result, users would not rely on the app for this information, but instead search for it on a physical letter or PDF statement.
 
 
-  > _"I would click on "where do I find my VA account number?" Because I don't know that off top of my head. Or, if I do have it in any of my paper mail." - P9
+  > _"I would click on "where do I find my VA account number?" Because I don't know that off top of my head. Or, if I do have it in any of my paper mail." - P9_
 
-  > _"Well, I would need the account number, and that would be on the letter where they send the bill." - P13
+  > _"Well, I would need the account number, and that would be on the letter where they send the bill." - P13_
 
 This difficult app-to-portal handoff led to a strong desire for in-app automation. All 10 participants in the copay flow would use the copy-and-paste function of the account number. Without this feature in the overpayment flow, users would resort to writing the information elsewhere or referring to the physical letter.
 
 
-  > _"I guess I could jot this stuff down. But that'd be kind of cool if you can do like a copy and paste." - P5
+  > _"I guess I could jot this stuff down. But that'd be kind of cool if you can do like a copy and paste." - P5_
 
-  > _"Does this allow copy? This won't allow you to copy, it doesn't look like, so I guess I'd have to write it down." - P8
+  > _"Does this allow copy? This won't allow you to copy, it doesn't look like, so I guess I'd have to write it down." - P8_
 
 
 ### Finding 5: Digital statements and documents are a core need for users.
@@ -367,32 +369,32 @@ This difficult app-to-portal handoff led to a strong desire for in-app automatio
 The PDF statements in the copay experience were highly valued, with all 11 participants appreciating the inclusion. The most common reasons for using them were verifying charges (5 users) and saving them for future reference (4 users).
 
 
-  > _[would you look at the statement within the app?] "Yeah, if I lost the letter or something. Just to verify that the info is correct." - P16
+  > _[would you look at the statement within the app?] "Yeah, if I lost the letter or something. Just to verify that the info is correct." - P16_
 
-  > _[would you use the statement in the app?] "For sure. I always download anything I have just to keep on record in case anything happens. Having access to these PDFs immediately, I think it makes everything more clear and concise and straightforward." - P10
+  > _[would you use the statement in the app?] "For sure. I always download anything I have just to keep on record in case anything happens. Having access to these PDFs immediately, I think it makes everything more clear and concise and straightforward." - P10_
 
 However, participants found older statements difficult to locate. Only 2 out of 6 people were able to find them, even expressing concern about the long scroll to get to them and the unclear title (suggesting renaming them “older statements” or “previous statements”.
 
 
   > _"If somebody did get seen pretty often, they'd have to scroll a long way before they get to the bottom. So if I were trying to look [for older statements], I wouldn't want to scroll all the way down, because I'm like, oh, it's just appointments and appointments and appointments." - P12_
 
-  > _"No, I don't see where I could go find a previous statement. It shows a previous unpaid balance, but I don't see any place where it'll take me to previous statements." - P13
+  > _"No, I don't see where I could go find a previous statement. It shows a previous unpaid balance, but I don't see any place where it'll take me to previous statements." - P13_
 
 In the overpayment flow, all participants found the inclusion of debt letters useful. They cited reasons such as knowing if they’re approaching a deadline and understanding a debt situation in case they had missed a physical letter.
 
 
-  > _"It's showing the chronological timeline of 1st contact or 1st demand. So I imagine that the VA has all these timelines, so I would want to know: was I approaching any kind of a time deadline?" - P13
+  > _"It's showing the chronological timeline of 1st contact or 1st demand. So I imagine that the VA has all these timelines, so I would want to know: was I approaching any kind of a time deadline?" - P13_
 
-  > _"I like that it also tells you when the 1st and 2nd letters were sent, because sometimes I miss a letter. But it tells me: oh, we submitted months ago." - P16
+  > _"I like that it also tells you when the 1st and 2nd letters were sent, because sometimes I miss a letter. But it tells me: oh, we submitted months ago." - P16_
 
 A majority (6 out of 8) had a strong expectation that they should be able to view these documents directly in the app.
 
 
   > _"Can I open the letters? I would want to know exactly how this came to be, which I assume is in these demand letters at the bottom." - P11_
 
-  > _"I would [expect to be able to view the letters]. It would be very easy instead of having to go to the VA website on a desktop." - P5
+  > _"I would [expect to be able to view the letters]. It would be very easy instead of having to go to the VA website on a desktop." - P5_
 
-  > _"If this had the letters, I would expect to click on it and view the letters." - P12
+  > _"If this had the letters, I would expect to click on it and view the letters." - P12_
 
 
 ### Finding 6: Separation of current and resolved debt is beneficial for clarity.
@@ -400,14 +402,14 @@ A majority (6 out of 8) had a strong expectation that they should be able to vie
 A majority of participants (3 out of 5) did not want to see resolved debt alongside current debt, as they expected the main debt page to only show outstanding actionable items.
 
 
-  > _"If it's already paid off, it should be under payment history. Because when I click on these, I would think that these are the ones that are outstanding." - P9
+  > _"If it's already paid off, it should be under payment history. Because when I click on these, I would think that these are the ones that are outstanding." - P9_
 
-  > _"I think it's fine, but maybe after a month it will go away, I think maybe to payment history. Because if it's on here, it I would feel like I still owe them something." - P16
+  > _"I think it's fine, but maybe after a month it will go away, I think maybe to payment history. Because if it's on here, it I would feel like I still owe them something." - P16_
 
 The remaining participants (2 out of 5) were content with having the resolved and open debts together, but only if there was a clear distinction between them. They wanted it to be clear that there was no further action needed, suggesting a “closed label” or balance of zero.
 
 
-  > _"Maybe something in green or a balance of 0, just letting me know that there's no further action required on my end." - P7
+  > _"Maybe something in green or a balance of 0, just letting me know that there's no further action required on my end." - P7_
 
   > _""Closed" or some type of other wording that says it's been paid." - P10_
 
@@ -421,9 +423,9 @@ Initial impressions of the details written under the “Copays” and “Overpay
 
   > _"I think just telling you how much is going to be due, how much you owe, and maybe there's a deadline on when we need to pay it." - P8_
 
-  > _"Yeah, I wanna know what the date is that it's due. So it should say due August 1st, 2025, or whatever." - P11
+  > _"Yeah, I wanna know what the date is that it's due. So it should say due August 1st, 2025, or whatever." - P11_
 
-  > _"What I would look for is what section I owe them something: medical, is it for school, or is it home loan, or something like that?" - P16
+  > _"What I would look for is what section I owe them something: medical, is it for school, or is it home loan, or something like that?" - P16_
 
 Diving into the specifics of overpayment debts – both the overview page and the detail pages of each debt – most everyone found the information complete. There were a few suggestions that would make the information even more helpful:
 
@@ -437,9 +439,9 @@ Diving into the specifics of overpayment debts – both the overview page and th
 The copay pages – both overview page and detail pages of each bill – were confusing to many. About half (5 out of 11) were confused by the bill structure, not realizing it was a monthly statement, plus one more participant who was aware of the structure but still concerned that it would be this way in the app. A small group (2 out of 11) were also confused by the grouping of locations together.
 
 
-  > _"I just want to see right now, like what the breakdown of the $50 is like. I would say, separate these actual balances from the payments already received so that it's clear that's exactly my balance. And then if you really want to see your past payments, you could go to your statements." - P9
+  > _"I just want to see right now, like what the breakdown of the $50 is like. I would say, separate these actual balances from the payments already received so that it's clear that's exactly my balance. And then if you really want to see your past payments, you could go to your statements." - P9_
 
-  > _[the bill total was $50, they were looking for a single transaction that matched it] "I don't see one for $50, though. I want the one for $50 and it's not on there." - P14
+  > _[the bill total was $50, they were looking for a single transaction that matched it] "I don't see one for $50, though. I want the one for $50 and it's not on there." - P14_
 
 While the current experience for learning about new debt comes from physical letters, 3 of 6 participants would like to receive in-app notifications for anything new.
 
