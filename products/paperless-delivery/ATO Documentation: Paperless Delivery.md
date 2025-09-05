@@ -1,25 +1,59 @@
 ## ATO Documentation: Paperless Delivery
-**_Last Updated: MM/DD/YYYY_**
+**_Last Updated: 09/05/2025_**
 
 _Please Note: The Veteran-Facing Services Platform ATO boundary includes all environments: Dev, Staging, Utility, Sandbox, and Production, as well as all VFS teams/Products, Platform teams, CMS, VA Notify, and VA Mobile. If the environments your team uses have different configurations, we will need this information for each environment._
 
 #### POC
 1. What is the name of your product(s)/system(s)?
+
+  - Paperless Delivery
+
 2. Describe its purpose in a few sentences.
+
+  - Allows users to indicate that they would like to receive their 1095-B forms electronically and without any paper being mailed to them. This feature can be extended to include other forms in the future.
+
 3. If you represent multiple products, please describe the relationship between them, if there is any.
+
+   - We represent multiple products and the only one kind of related to Paperless Delivery is 1095-B. We will have a separate document that covers that product.
+
 4. What is the expected duration of your project? This information helps us understand how our processes need to adapt
+
+  - This product will be complete by end of year, but we will be responsible for the va.gov portion of it for the foreseeable future.
 
 #### AWS Resources
 1. List AWS services used.
+
+None.
+
 2. Describe named instances of each service used.
+
+N/A
+
 3. Which of your resources handle PII? List the types of PII.
+
+N/A
+
 4. Do you utilize any other cloud resources beyond VA.gov?
+
+No.
 
 #### Repositories
 1. List repos maintained by your team, provide links.
+
+   - vets-api (refer to codeowners file for specific files)
+   - vets-website (refer to codeowners file for specific files)
+
 2. List repos used by your team, provide links.
+
+   - None that are relevant to this feature.
+
 3. Do you have a POC for each repo? Please list – Individuals are preferred, but groups are acceptable.
+
+- N/A
+
 4. List other groups you know use your repos.
+
+- N/A
 
 #### Tools
 1. List CI/CD or Infrastructure as Code tools.
@@ -37,4 +71,3 @@ _Please Note: The Veteran-Facing Services Platform ATO boundary includes all env
 
 #### Data Flow Diagram
 The following is a data flow diagram that shows this product’s relationship to Platform:
-
