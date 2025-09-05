@@ -102,7 +102,7 @@ Make sure you have access to the VNCE team G-drive, which will give you access t
 - [The Critical Incident Event Log](https://docs.google.com/spreadsheets/d/14W6AOjbOS6XmbzN7hpvo3vAO5ZG5eW6vhPj1JvOeCaM/edit#gid=0)
 - [Previous Post Mortems](https://drive.google.com/drive/folders/1QpcLg6Cx1WN5cIST5ViPoi2WjaUgy0tO)
 
-Make sure your on-call shift is configured in [PagerDuty](https://veterans-affairs.pagerduty.com/teams/PZ9XJHY)
+Make sure your on-call shift is configured in [PagerDuty](https://ecc.pagerduty.com/teams/PZ9XJHY)
 - Request to be added to DSVA Pagerduty by the platform team (Allison can add if response time is delayed)
 
 Once you have VA Access, make sure you have access to the:
@@ -155,7 +155,7 @@ When the above responsibilities are met and development bandwidth is available, 
         1. Set the VEText Kill Switch - This stops veterans from receiving the check in link when they attempt checkin at the clinic, they will be directed to the front desk.  [PCI  Kill Switch Instructions](https://github.com/department-of-veterans-affairs/chip/blob/master/README.md#pci-killswitch)
         3. Confirm VEText is disabled by texting “checkin” to 53079 on your phone. If you get “We’re sorry. We can’t check you in online. Please ask a staff member for help.” The killswitch has been enabled successfully. If not, try again.
     4. **Enable PCI Maintenance Page in VA pagerduty** - 
-        1. Login to VA pagerduty -> services -> day of check-in - https://dsva.pagerduty.com/service-directory/PNDVBO8
+        1. Login to VA pagerduty -> services -> day of check-in - https://ecc.pagerduty.com/service-directory/PNDVBO8
         2. Go to Add Maintenance at the Maintenance Window section at the bottom right
         3. Create a new Maintenance Window depending on the discussed time we wish to have the window open.
     5. **Coordinate with VHA IVC (Shawn Adams) to communicate resolution to field** - via PCI Implementation Teams channel

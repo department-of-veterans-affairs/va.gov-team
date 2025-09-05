@@ -11,7 +11,7 @@ The purpose of setting maintenance windows is to temporarily disable specific pa
 
 # Mechanism
 
-Maintenance windows are managed using [PagerDuty](https://dsva.pagerduty.com). Application dependencies and features are defined as **Services** in PagerDuty terminology, and each Service can have maintenance windows scheduled. Maintenance windows can be adjusted in duration or cancelled if the issue with the Service is resolved.
+Maintenance windows are managed using [PagerDuty](https://ecc.pagerduty.com). Application dependencies and features are defined as **Services** in PagerDuty terminology, and each Service can have maintenance windows scheduled. Maintenance windows can be adjusted in duration or cancelled if the issue with the Service is resolved.
 
 Vets API polls PagerDuty for relevant maintenance windows, and the mobile API aggregates these in the mobile `discovery` endpoint. The mobile app consumes this information and displays alerts/warnings to users when a specific part of the application is known to be unavailable. 
 
