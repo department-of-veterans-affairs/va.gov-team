@@ -1,6 +1,6 @@
 # CST: Document Status Initiative
 
-* GitHub Label: 
+* GitHub Label:
 * Slack channel: #benefits-management-tools
 * Product: CST
 * GitHub Issue: [Link Pending]
@@ -68,3 +68,7 @@ Our core bet is that by providing real-time, in-app status updates and failure n
 * How can we best communicate next steps or corrective actions when a submission fails?
 * What metrics can we use to measure user anxiety reduction and overall satisfaction with the submission process?
 * How can we ensure that in-app status updates complement the information Veterans receive via email?
+
+## Resources
+* [Release Plan](../document-status/release-plan.md)
+* [Engineering & Security Checklist](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/b0b97824dad1c3f66cd3ffee962f6584280b318e/platform/engineering/collaboration-cycle/architecture-intent/checklist/Benefits%20Management%20Tools%202%20-%20Document%20Status%20%20-%2009032025.md)
