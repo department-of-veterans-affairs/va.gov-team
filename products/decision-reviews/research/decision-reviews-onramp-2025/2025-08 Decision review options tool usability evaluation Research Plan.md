@@ -3,8 +3,8 @@
 Research Plan 
 
 Team: Decision Reviews\
-Written by: [Kyra Berman-Gestring](mailto:kyra.berman-gestring@agile6.com) & [Lauren Dawson](mailto:lauren.dawson@agile6.com)\
-Last updated: Sep 2, 2025
+Written by: Kyra Berman-Gestring & Lauren Dawson
+</br>Last updated: Sep 5, 2025
 
 Uploaded to github:  Sep 2, 2025
 
@@ -309,37 +309,37 @@ Place time slots between hash marks when in edit mode.
 
 ## **Team Roles** 
 
-## **Moderator:** [**Kyra Berman-Gestring**](mailto:kyra.berman-gestring@agile6.com) **&** [**Lauren Dawson**](mailto:lauren.dawson@agile6.com)
+## **Moderator:** **Kyra Berman-Gestring** **&** **Lauren Dawson**
 
-- Research guide writing and task development (usually but not always same as moderator): [Kyra Berman-Gestring](mailto:kyra.berman-gestring@agile6.com) & [Lauren Dawson](mailto:lauren.dawson@agile6.com)
+- Research guide writing and task development (usually but not always same as moderator): Kyra Berman-Gestring & Lauren Dawson
 
-- Participant recruiting & screening: [Kyra Berman-Gestring](mailto:kyra.berman-gestring@agile6.com) & [Lauren Dawson](mailto:lauren.dawson@agile6.com)
+- Participant recruiting & screening: Kyra Berman-Gestring & Lauren Dawson
 
-- Project point of contact: [Kyra Berman-Gestring](mailto:kyra.berman-gestring@agile6.com)
+- Project point of contact: Kyra Berman-Gestring
 
-- Accessibility specialist (for sessions where support for assistive technology may be needed): [Tracy Tran](mailto:tracy.tran@agile6.com)
+- Accessibility specialist (for sessions where support for assistive technology may be needed): Tracy Tran
 
-- Note-takers: [Kyra Berman-Gestring](mailto:kyra.berman-gestring@agile6.com), [Lauren Dawson](mailto:lauren.dawson@agile6.com), <julie.strothman@va.gov>
+- Note-takers: Kyra Berman-Gestring, Lauren Dawson, Julie Strothman
 
 - Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work. Spread observers across sessions. There should be no more than 3 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side.
 
-  - <ccrumlish@kindsys.us>
+  - Chrisitan Crumlish
 
-  - [Pam Macalintal](mailto:pam.macalintal@agile6.com)
+  - Pam Macalintal
 
-  - <gxu@kindsys.us>
+  - Grace Xu
 
-  - <jsea@kindsys.us>
+  - Jerry Sea
 
-  - <rmays@kindsys.us>
+  - Randi Mays
 
-  - <julie.strothman@va.gov>
+  - Julie Strothman
 
-  - <amy.lai2@va.gov>
+  - Amy Lai
 
-  - <cindy.lackey@coa.solutions>
+  - Cindy Lackey
 
-  - <cory.sohrakoff@va.gov>
+  - Cory Sohrakoff
 
   - & others TBD
 
