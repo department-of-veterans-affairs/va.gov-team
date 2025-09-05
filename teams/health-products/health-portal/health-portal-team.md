@@ -80,7 +80,7 @@ This cross-functional group serves as the Company points of contact for the deli
 | Michael Brodsky | [@Michael Brodsky](https://dsva.slack.com/team/U08HKSYE285) |
 | Richard Davis   | [@Richard Davis](https://dsva.slack.com/team/U05BCJSDCDA)   |
 | Chris Donelson  | [@Chris Donelson](https://dsva.slack.com/team/U09B1FV641Y)  |
-| Cam Keif        | [@Cam Keif](https://dsva.slack.com/team/U09AF2JEHQS         |
+| Cam Keif        | [@Cam Keif](https://dsva.slack.com/team/U09AF2JEHQS)        |
 | Ian Seabock     | [@Ian Seabock](https://dsva.slack.com/team/U06K0HKLX25)     |
 | Langston Payne  | TBD                                                         |
 | Andrea Uhr      | TBD                                                         |
