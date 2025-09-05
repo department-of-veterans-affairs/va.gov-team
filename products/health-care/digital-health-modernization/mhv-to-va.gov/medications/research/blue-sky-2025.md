@@ -6,6 +6,7 @@ UX squad:
 * Cara Frissell
 * Florence McCafferty
 * Sara Sterkenburg
+
 OCTO:
 * Robyn Singleton
 * Kay Lawyer
