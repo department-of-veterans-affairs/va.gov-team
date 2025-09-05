@@ -46,15 +46,18 @@
 
 **2) Form detail page - Existing/page**
 - URL:
-  - Current: www.va.gov/find-forms/
-  - New: www.va.gov/forms/
+  - Current: www.va.gov/find-forms/about-form-[form-nbr]/, example www.va.gov/find-forms/about-form-10-10ez/
+  - New: www.va.gov/forms/[form-nbr]/, example www.va.gov/forms/10-10ez/
 - H1:
-  - Current:  Find a VA form
-  - New: VA forms
+  - Current:  About VA Form 10-10EZ
+  - New: No change at this time
 - Breadcrumb:
-  - Current: VA.gov home > Find a VA form
-  - New: VA.gov home > VA forms 
-- Notes: 
+  - Current: VA.gov home > Find a VA form > About VA Form [form number]
+  - New: VA.gov home > VA forms > About VA Form [form number]  (no change to last segment)
+- Notes:
+  - The form number used as the URL segment should be pulled directly from the forms db
+  - Any letters utilized in the form number should be lower case
+  - Spaces should be replaced with a dash
 
 
 
@@ -64,26 +67,16 @@ Teams must launch with at least one entry point that allows site visitors to nav
 
 ### Required entry point(s)
 
-1. **[Page/placement name]**
-  - Placement description: 
-  - Link details
-    - Link label: 
-    - Link destination: 
-  - Notes:
-    - Who will update (IA, content, product team):
-    - When will this entry point go live (at launch? After staged rollout? after some designated time?):
+1. **Footer**
+  - Link label: no change
+  - Link destination:  www.va.gov/forms/
+
 
 ### Additional key entry points
 _Any additional key locations that the page should be navigable from. Although these are not required for launch, they are critical to the findability of your content/feature.  Examples of key entry points include "About a form" pages, additional navigation component (top, left) placements, additional static pages where its prominently linked from, etc._
 
-1. **[Page/placement name]**
-  - Placement description: 
-  - Link details
-    - Link label: 
-    - Link destination: 
-  - Notes:
-    - Who will update (IA, content, product team):
-    - When will this entry point go live (at launch? After staged rollout? after some designated time?):
+Additional links across the site will need to have the destination URL updated.  Link labels can be evaluated based on placement. 
+
 
 ##  <a name="redirects"></a>Redirects <br>
 *A list of any critical redirects needed as part of this product/feature launch. Redirects are required for any URL changes to ensure visitors do not receive a 404 - Page not found error in the experience.* 
@@ -92,24 +85,26 @@ _Any additional key locations that the page should be navigable from. Although t
 
 Current URL | Redirect to | Notes
 --- | --- | ---
- |  | 
+www.va.gov/find-forms/ | www.va.gov/forms/  | 
+www.va.gov/find-forms/about-form-[form-nbr]/ | www.va.gov/forms/[form-number] | These redirects should be 1:1, so the /about-form-10-10ez/ should redirect to /10-10ez/
 
+**NOTE: When implementing redirects for the individual form detail pages, existing redirects in place should be reviewed and updated appropriately to avoid a redirect chain if possible.**
 
 ## <a name="bestbets"></a>Search best bets
 *Search “best bets” are suggested pages that appear in the “Our top recommendations for you” section when you perform a search on VA.gov. Best bets are not implemented for every page, and not intended to be permanent.  They can aid in helping visitors find key content and features that are not ranking search well or competing with similar pages in search results. Existing best bets must be removed or updated when links/URLs change.*
 
-**1. Best bet for [page name]** - 
-- Destination page:
-- Additional keywords:
+Best bets are already in place for most of these pages.  Best bets will need to be updated to represent the correct URL destination. 
 
 ## <a name="launch"></a>Launch coordination <br>
 *Communication when preparing for launch is critical to ensuring all supporting content, links, and messaging are implemented in a timely manner to ensure a good experience. Missing any of these steps can result in findability challenges, incorrect or misleading information, duplicate content, etc. *
 
 Key task | Responsibility | When to complete | Additional info
 --- | --- | --- | ---
-Communicate date of staging review | | Once scheduled |
-Submit redirect request | | at least 2 weeks prior to implementation | 
-Communicate launch date | | |
+URL changes | Public Websites |  |
+Submit redirect request | Public Websites | at least 2 weeks prior to implementation  | 
+Implement redirects | Public Websites | at the same time as the URL changes |
+Update entry point destination URLs and labels | Content and IA team | After URL changes and redirects are in place |
+Update best bet destination URLs | Content and IA team | After URL changes and redirects are in place | 
 
 
 
