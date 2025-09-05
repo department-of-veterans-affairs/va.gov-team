@@ -113,7 +113,7 @@ We will run a moderated usability study remotely on Zoom. 
 
 2. Mock-ups of what we will test in staging \[[Figma](https://www.figma.com/design/5vAWK3wpBkJgG7ngLXYmht/Onramping-Tool?node-id=122-8973&t=fQYJ9qkpWYLokAPc-1)]
 
-
+3. Prototype in staging (in progress, estimated completion date Wednesday Sept. 17, 2025) \[[Staging](https://staging.va.gov/decision-reviews/onramp-to-dr)]
 ## **Recruitment** 
 
 We will work with Perigean to recruit Veterans for this research.
