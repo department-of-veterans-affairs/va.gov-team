@@ -180,4 +180,4 @@ body:
     attributes:  
       label: "Platform Checklist (For Platform Use Only)"  
       options:  
-        - label: "New VFS Team has been added to the [Manifest Team Roster](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/teams#current-team-manifest)."
+        - label: "New VFS Team has been added to the VFS Team Roster located in [Atlas](https://www.va.gov/atlas/).
