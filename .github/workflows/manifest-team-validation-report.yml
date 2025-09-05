@@ -1,0 +1,197 @@
+name: Weekly Team Documentation Validation Report
+
+on:
+  schedule:
+    # Run every day at 9:02 AM UTC (adjust timezone as needed)
+    - cron: '02 9 * * *'
+  workflow_dispatch: # Allow manual triggering
+  pull_request:
+    paths:
+      - 'scripts/manifest/**'
+      - '.github/workflows/manifest-team-validation-report.yml'
+    types: [opened, synchronize, reopened]
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  validate-teams:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.MANIFEST_TEAM_VALIDATION_TOKEN }}
+        sparse-checkout: |
+          teams/
+          scripts/manifest/
+          products/
+        sparse-checkout-cone-mode: false
+        
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '3.0'
+        bundler-cache: false
+        
+    - name: Generate team manifest
+      run: |
+        echo "📋 Generating team manifest..."
+        ruby scripts/manifest/generate_manifest.rb --verbose
+        
+    - name: Validate team documentation
+      id: validate
+      run: |
+        echo "🔍 Validating team documentation..."
+        ruby scripts/manifest/validate_teams.rb --output=team_validation_report.md --verbose
+        
+        # Capture summary stats for GitHub issue and Slack notification
+        TOTAL_TEAMS=$(grep "Total Teams:" team_validation_report.md | grep -o '[0-9]\+')
+        COMPLETED_TEAMS=$(grep "Fully Completed:" team_validation_report.md | grep -o '[0-9]\+')
+        NEEDS_ATTENTION=$(grep "Needs Attention:" team_validation_report.md | grep -o '[0-9]\+')
+        COMPLETION_RATE=$(grep "Completion Rate:" team_validation_report.md | grep -o '[0-9.]\+%')
+        
+        echo "total_teams=$TOTAL_TEAMS" >> $GITHUB_OUTPUT
+        echo "completed_teams=$COMPLETED_TEAMS" >> $GITHUB_OUTPUT
+        echo "needs_attention=$NEEDS_ATTENTION" >> $GITHUB_OUTPUT
+        echo "completion_rate=$COMPLETION_RATE" >> $GITHUB_OUTPUT
+        
+        # Create a brief summary for the GitHub issue body
+        cat > issue_summary.txt << EOF
+        Weekly Team Documentation Validation Report
+        ==========================================
+        
+        📊 Summary:
+        - Total Teams: $TOTAL_TEAMS
+        - Fully Completed: $COMPLETED_TEAMS
+        - Needs Attention: $NEEDS_ATTENTION
+        - Completion Rate: $COMPLETION_RATE
+        
+        📋 Full validation report is included below in the collapsible section
+        
+        🔗 View the current team manifest: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/README.md
+        
+        Generated on: $(date -u)
+        EOF
+        
+    - name: Upload validation report as artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: team-validation-report
+        path: |
+          team_validation_report.md
+          issue_summary.txt
+        retention-days: 30
+        
+    - name: Create GitHub issue with validation report
+      id: create-issue
+      uses: actions/github-script@v7
+      with:
+        github-token: ${{ secrets.MANIFEST_TEAM_VALIDATION_TOKEN }}
+        script: |
+          const fs = require('fs');
+          
+          // Read the validation report
+          const reportContent = fs.readFileSync('team_validation_report.md', 'utf8');
+          const summaryContent = fs.readFileSync('issue_summary.txt', 'utf8');
+          
+          // Create issue body with summary and collapsible full report
+          const isTestRun = '${{ github.event_name }}' === 'pull_request';
+          const testPrefix = isTestRun ? '> ⚠️ **This is a TEST run** triggered by a pull request\n\n' : '';
+          
+          const issueBody = `${testPrefix}${summaryContent}
+          
+          ## 📋 Actions Needed
+          
+          Teams with incomplete documentation should complete their README files according to the template.
+          
+          ## 🔗 Quick Links
+          
+          - [Current Team Manifest](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/README.md)
+          - [Team Manifest Scripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/scripts/manifest)
+          - [GitHub Actions](https://github.com/department-of-veterans-affairs/va.gov-team/actions)
+          
+          <details>
+          <summary>📄 Full Validation Report (Click to expand)</summary>
+          
+          \`\`\`markdown
+          ${reportContent}
+          \`\`\`
+          
+          </details>
+          
+          ---
+          
+          *This issue was automatically created by the [Team Validation Workflow](https://github.com/department-of-veterans-affairs/va.gov-team/actions/workflows/team-validation-report.yml)*`;
+          
+          // Close previous validation report issues
+          const { data: existingIssues } = await github.rest.issues.listForRepo({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            labels: 'team-validation-report',
+            state: 'open'
+          });
+          
+          for (const issue of existingIssues) {
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: issue.number,
+              state: 'closed'
+            });
+            
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: issue.number,
+              body: '🔄 Closed automatically - new validation report available'
+            });
+          }
+          
+          // Create new issue
+          const labels = ['manifest-team-validation-report'];
+          if (isTestRun) {
+            labels.push('test-run');
+          } else {
+            labels.push('production');
+          }
+          
+          const { data: newIssue } = await github.rest.issues.create({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            title: `${isTestRun ? '[TEST] ' : ''}Team Documentation Validation Report - ${{ steps.validate.outputs.completion_rate }} Complete (${{ steps.validate.outputs.completed_teams }}/${{ steps.validate.outputs.total_teams }})`,
+            body: issueBody,
+            labels: labels,
+            assignees: ['humancompanion-usds']
+          });
+          
+          console.log(`Created validation report issue: ${newIssue.html_url}`);
+          
+          // Save issue info for future reference
+          core.setOutput('issue_number', newIssue.number);
+          core.setOutput('issue_url', newIssue.html_url);
+        
+    - name: Create GitHub issue on failures
+      if: failure()
+      uses: actions/github-script@v7
+      with:
+        github-token: ${{ secrets.MANIFEST_TEAM_VALIDATION_TOKEN }}
+        script: |
+          github.rest.issues.create({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            title: 'Team Validation Workflow Failed',
+            body: `The weekly team validation workflow failed to complete successfully.
+            
+            **Workflow Run:** ${context.payload.workflow_run?.html_url || 'Manual trigger'}
+            **Failed Job:** ${context.job}
+            **Timestamp:** ${new Date().toISOString()}
+            
+            Please check the workflow logs and fix any issues with the team validation scripts.
+            
+          cc: @humancompanion-usds`,
+            labels: ['bug', 'manifest-team-validation-report'],
+            assignees: ['humancompanion-usds']
+          })
