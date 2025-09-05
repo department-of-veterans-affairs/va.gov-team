@@ -51,6 +51,7 @@ _Please Note: The Veteran-Facing Services Platform ATO boundary includes all env
   - We use two internal services to provide data for this project:
     - [Lighthouse VSH&E API](https://developer.va.gov/explore/api/veteran-service-history-and-eligibility/docs?version=current)
     - [Profile API](https://qa.vaprofile.va.gov:7005/profile-service/swagger-ui/index.html?urls.primaryName=ProfileServiceV3)
+  - We use Datadog to log and monitor this application.
 2. Are these connections Internal or External to the VA?
   - Internal
 3. Do you have a POC? Please list.
