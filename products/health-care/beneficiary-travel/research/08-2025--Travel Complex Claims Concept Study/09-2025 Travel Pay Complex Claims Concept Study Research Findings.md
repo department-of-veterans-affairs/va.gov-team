@@ -1,18 +1,19 @@
 ---
-title: "[Study] Research Findings"
-product: "Product Name"
-team: "Team Name"
+title: "Travel Pay Complex Claims Concept Study Research Findings"
+product: Travel Pay
+team: Beneficiary Travel Team
 office: "Office of the CTO - Digital Experience (OCTO-DE)"
-date: "YYYY-MM-DD"
+date: "2025-009-10"
 researchers:
-  - "Researcher/Designer 1"
-  - "Researcher/Designer 2"
+  - Micah Taylor
+  - Liza McRuer
+  - Kristen Faiferlick
 research_goals:
-  - "Goal 1"
-  - "Goal 2"
+  - Understand participants' mental models around complex claims for travel pay
+  - Learn whether participants focus primarily on their trip first or the types of expenses first as they prepare to submit
 methodology:
-  - "Method 1"
-  - "Method 2"
+  - Video interviews via Zoom
+  - Counterbalanced prototype study that switches the order of the prototype versions
 devices_used:
     desktop: X
     tablet: X
@@ -92,17 +93,13 @@ synthesis_tools_used:
   - "Affinity Mapping"
 ---
 
-<br>**This is a template, PLEASE MAKE A COPY**
+# Travel Pay Complex Claims Concept Study Research Findings 
 
----
+**Office of the CTO - Digital Experience (OCTO-DE), Travel Pay, Beneficiary Travel Pay Team**
 
-# [Study] Research Findings 
+**Date:** 09/10/2025
 
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
-
-**Date:** MM/DD/YYYY
-
-**Contacts:** [Researcher/Designer 1], [Researcher/Designer 2]
+**Contacts:** Liza McRuer, Kristen Faiferlick
 
 **[Link to Research Readout](link-here)**  
 *Add a link to your research readout deck, if available.*
@@ -121,35 +118,29 @@ synthesis_tools_used:
 - [Appendix](#user-content-appendix)
 - [Research participants](#user-content-research-participants)
 
-## Research Goals
-*Provide context for this research by explaining how it fits into the Veteran’s journey.*  
-[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)  
+## Research Goals 
+As the Beneficiary Travel Team integrates complex claim submission with appointments on VA.gov, we want to understand how our users organize and approach filing travel claims with different expense types. The concept study was designed to help us understand what Veterans focus on first: the expense types or the trip itself. The study was a moderated and counterbalanced prototype study. Veterans walked through two different prototypes, one that started with expense type and one that started from the trip, and compared the ease of use and overall preference.   
+Our goals were to:   
+- Understand Veterans' mental models around complex claims for travel pay
+- Learn whether Veterans focus primarily on their trip first or the types of expenses first as they prepare to submit
 
 **Guiding Questions:**  
-- What are the key moments this tool supports in the Veteran’s journey?  
-- What outcomes are we aiming to achieve for Veterans and stakeholders?  
-
-[Example Research Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-goals) 
+- Key Moments: This tool supports key moments in the [Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf) : Starting up, taking care of myself, putting down roots, and retiring.
+- Outcomes: After learning Veterans' preference and expectations around complex claim submission, we will have research to support our higher fidelity designs. 
 
 ## Research Questions
 
-*List the research questions that guided this study.*  
-
-* Question 1
-* Question 2
-* Question 3
-
-[Example Research Questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-questions)
+* Based on the Intro page, do participants understand what to expect from the Claim submission process (what they will need, if they are eligible, steps)?
+* When looking to get reimbursed for travel expenses, do users focus on the trip first or on what they want to be reimbursed for first?   
+* Can users accomplish the key task (submitting a travel claim) using the different concepts provided?   
+       a. What steps or language confuses them?   
+       b. Where do they stumble in the process?   
+* What do participants think will happen to the Claim after they submit?
 
 ## Methodology 
 
-*Provide a brief description of the research methods used (e.g., usability testing, interviews).*  
-
-- Method 1: Description  
-- Method 2: Description  
-
-[Example Methodology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#methodology)
-
+- Method 1: We conducted 45-60 minute long interviews via Zoom from August 25 - September 5, 2025. We gave participants a short hypothetical scenario around filing for travel pay.
+- Method 2: Based upon the scenario provided, Veterans navigated a mid-fidelity coded [prototype](https://tfclkd.csb.app/). The study was counterbalanced, so some participants started with Version A and others started with Version B. All participants saw both versions. After each version, we asked participants about ease of use, parts of the process that they liked or didn't like, and provided the opportunity to speak further about their experience. Once participants had completed both prototypes, we asked if they had a preference or found one of the versions easier than the other. 
 
 ## Hypotheses and Conclusions
 
