@@ -544,18 +544,39 @@ This research supports our desired user outcome by....
 ### Desired Business Outcome
 This research supports our desired business outcome by....
 
-
-## Key Performance Indicators
-
-*Explain how findings will support KPI measurement.*  
-
-> [!NOTE]
-> Refer back to your Product Outline. 
-
-### KPI 1
-This research supports measurement of this KPI by....
-
 ----->
+
+## 🚧 🚧 🚧 Key Performance Indicators 🚧 🚧 🚧
+
+### KPI 1: Total number of views of benefit overpayments and medical copayments.
+We expect this to be a non-zero amount and will increase once overpayments and copayments are viewable in the app. We will track the total number of views on a monthly basis.
+
+- How findings support the KPI: The research has shown that users are motivated to use the app to manage their debt and bills, with almost everyone reporting that they will likely use this new feature.
+
+### KPI 2: Overall app volume.
+We expect an increase in overall app volume as benefit overpayments and medical copayments debt information are implemented within the app. We will track the overall app volume on a monthly basis.
+
+- How findings support the KPI: Participants preferring the payment version of the app cited its usefulness, suggesting that the feature will attract new users and increase overall app engagement.
+
+### KPI 3: Total number of clicks on the link to access VA.gov.
+We expect that Veterans will want to make a payment towards their benefit overpayment and medical copayment debts, and that this non-zero amount will increase. We will track the total number of clicks on the link to access VA.gov on a monthly basis.
+
+- How findings support the KPI: 
+
+### KPI 4: Total number of views of the PDF Copayment statements.
+We expect this to be a non-zero amount and expect that Veterans who have any copayment bills will want to view the PDF. We will track the total number of views on a monthly basis.
+
+- How findings support the KPI: 
+
+### KPI 5: Total number of error alerts shown to the user.
+We will want to track this metric to ensure that everything is functioning as intended and that if we see a high volume of errors, there is a problem that will need to be addressed. We will track the total number of errors on a monthly basis.
+
+- How findings support the KPI: 
+
+### KPI 6: Total number of clicks on the empty state of benefit overpayments and medical copayments.
+We expect this to be a non-zero amount and want to track this as a metric to assess the design, and not a metric determining the success of the debt feature itself. This will be a temporary metric that is tracked for 6 months.
+
+- How findings support the KPI: 
 
 ## Next Steps 🚧
 
