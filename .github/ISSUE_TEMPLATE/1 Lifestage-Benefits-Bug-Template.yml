@@ -53,7 +53,7 @@ body:
       - label: Reviewed and approved by product and/or design
 - type: checkboxes
   attributes:
-    label: Refinement Checklist! 
+    label: Refinement Checklist 
     description: Make this ticket ready to work
     options: 
       - label: Add description, tasks, and acceptance criteria
