@@ -15,7 +15,6 @@ These links go to the most recent use case documentation for each product in VA.
 - [Accredited representative or VSO](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/accredited-representative-status)
 - **Communication settings**
   - [Notification settings use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/notification-preferences/use-cases#readme)
-  - NEEDS UPDATING Paperless delivery use cases
+  - NEEDS UPDATING [Paperless delivery use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/paperless-delivery/use-cases.md)
 - NEEDS UPDATING [Account security use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/account-security/use-cases#readme)
 - [Connected apps use cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/profile/connected-apps/use-cases#readme)
-- [Paperless delivery settings use cases](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/paperless-delivery/use-cases.md)
