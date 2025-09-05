@@ -30,24 +30,23 @@ Timeline
 Part 1: Features under the environment variable check will go out first:
 - Military branch + title 10 component (active duty, reserve, national guard) handling
 - Steps:
-    - [ ] Remove environment flag check so features will go to production with the following day's daily deployment (post 2pm et)
-    - [ ] Smoke test on staging
-    - [ ] Confirm features are on production post-deployment the following day 
+    - [x] Remove environment flag check so features will go to production with the following day's daily deployment (post 2pm et)
+    - [x] Smoke test on staging
+    - [x] Confirm features are on production post-deployment the following day 
 
 
 Part 2: Results page UI changes
 - No feature toggle or environment variable so once merged would go automatically to prod with next cycle
 - Steps:
-    - [ ] Merge feature branch into master post-production cut-off time (2pm et)
-    - [ ] Smoke test
-    - [ ] If no issues, allow auto-deployment the following day to prod 
+    - [x] Merge feature branch into master post-production cut-off time (2pm et)
+    - [x] Smoke test
+    - [x] If no issues, allow auto-deployment the following day to prod 
 
 
 ## Phase III: Go Live!
 Confirmed in production:
-- [ ] Military branch + title 10 component handling
-- [ ] Results page UI updates
+- [x] Military branch + title 10 component handling
+- [x] Results page UI updates
 
-Date: mm/dd/yyyy
-
+Date: 08/13/2025
 
