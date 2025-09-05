@@ -1,7 +1,7 @@
 # Ineligibility Error Messaging Logic 
 
 ## Overview & Context
-Prior to 2025, the Veteran Status Card relied on VA Profile API data plus some custom logic to determine who is eligible for the card or not. That logic can be found in the "Ineligibility Logic - Prior to 2025" section. The mobile app team (and IIR) found that access rates using that logic were at 70% which we considered low.
+Prior to 2025, the Veteran Status Card relied on VA Profile API data plus some custom logic to determine who is eligible for the card or not. That logic can be found in the "Previous Ineligibility Logic - Prior to 2025" section. The mobile app team (and IIR) found that access rates using that logic were at 70% which we considered low.
 
 IIR changed the logic in January 2025 to look at the Veteran Service History & Eligibility API which looks at Title 38 eligibility to determine a Veteran's status. More info on that logic can be found in the "Current Ineligibility Logic - 2025" section. While that logic is technical stricter than only looking at discharge statuses through VA Profile API data, we saw access rates increase to around 80% on web and 96% on mobile (mobile is so much higher due to the sheer volumen of traffic and also user demographic - no technical differences).
 
