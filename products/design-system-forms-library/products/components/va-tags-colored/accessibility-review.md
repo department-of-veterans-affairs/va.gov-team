@@ -13,7 +13,6 @@ Related links:
 * [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/va-tags-colored/product-outline.md) ([Google Doc version](https://docs.google.com/document/d/1RxR6bDxnPRPkCNvqg8Hs_qONIuqKG3R83-JH41pXVTM/edit?tab=t.0))  
 * [Experimental design issue](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/issues/2993#top)  
 * [Design Decision Log](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/products/components/va-tags-colored/design-decisions.md#ADR-002---Tag-styles)  
-* Properties / Architecture doc
 
 ---
 
@@ -47,9 +46,6 @@ Related links:
       * Why we chose to have uppercase in the tag (it does match USWDS, but USWDS also doesn’t document why uppercase \- teams have already been asking why all caps)  
       * Why were are expanding on / deviating from the options in USWDS
 
-### Concerns
-
-* 
 
 ## **Interaction design**
 
@@ -63,9 +59,6 @@ Related links:
 - [ ] Are there ever times when we’d want the tag to receive focus?   
 - [ ] Can tags be paired with other content, for example, inside a heading. If it’s inside a heading, should there be hidden text indicating that this is a “status” or some other marker that might be more visibly understood? 
 
-### Concerns
-
-* 
 
 ## **Content design**
 
@@ -84,48 +77,6 @@ Related links:
       * If so, should text also be customizable?  
         * If so, will we have recommended string length for custom text? Uppercase text can reduce readability, so want to keep text length to a few words
 
-### Concerns
-
-* 
-
-
-## **Code design**
-
-### Recommendations
-
-N/A \- use existing tag structure
-
-#### Rendered markup structure
-
-| Element | HTML element | Attributes |
-| :---- | :---- | :---- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-
-Example:
-
-```html
-
-```
-
-#### Recommended props
-
-Recommend making the following accessibility attributes customizable by the user
-
-| Prop controls | Standard values | Default value | Required?  |
-| :---- | :---- | :---- | :---- |
-| status | Info, warning, error, success (same as alert) | null | no |
-|  |  |  |  |
-|  |  |  |  |
-
-### Open questions
-
-* 
-
-### Concerns
-
-* 
 
 ## **Testing requirements**
 
