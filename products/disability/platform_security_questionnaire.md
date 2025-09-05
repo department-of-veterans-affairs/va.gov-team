@@ -26,11 +26,11 @@ VFS team: Disability Benefits Crew (DBC)
 
 ### AWS Resources
 - List AWS services used
-   - the AWS services that support the VA.gov website - the frontend work on the Form 526ez and ancillary forms is hosted on VA.gov
-   - AWS EKS, as used by VFS ArgoCD - our team's backend work is deployed through apps vets-api and contention-classification-api.
+   - all of the services used to support the VA.gov website, as our Form 526ez and ancillarm forms are sections within the VA.gov website
+   - AWS EKS, as used by VFS ArgoCD (our team's backend work is deployed through apps vets-api and contention-classification-api)
    - AWS S3
 - Describe named instances of each service used
-   -  S3: `dsva-vagov-[dev/staging/sandbox/prod]-contention-classification-api`
+   -  S3: dsva-vagov-[dev/staging/sandbox/prod]-contention-classification-api
 - Which of your resources handle PII? List the types of PII
    - these is potential for PII in form submissions on the Form 526ez and ancillary forms; and potential for PII in the files uploaded to S3.
 - Do you utilize any other cloud resources beyond VA.gov?
@@ -55,17 +55,32 @@ VFS team: Disability Benefits Crew (DBC)
 - List CI/CD or Infrastructure as Code tools
   - GitHub Actions, Jenkins, Terraform, Helm charts 
 - Describe where each tool is hosted and if they handle PII
-  - We do not intend for PII to enter any of these tools. Jenkins is hosted by VFS. For GitHub Actions, we use GitHub-hosted runners.
+  - We do not intend for PII to enter any of these CI/CD or Infrastructure as Code tools. Jenkins is hosted by VFS. For GitHub Actions, we use GitHub-hosted runners.
 - List software included in deployment or generate SBOM
+    - vets-website: [dependency graph](https://github.com/department-of-veterans-affairs/vets-website/network/dependencies) 
+    - vets-api:  [dependency graph](https://github.com/department-of-veterans-affairs/vets-api/network/dependencies)
+    - contention-classification-api: [dependency graph](https://github.com/department-of-veterans-affairs/contention-classification-api/network/dependencies)
 - List all packages/plugins/modules/gems/etc. Include version numbers
+  - vets-api: [Gemfile.lock](https://github.com/department-of-veterans-affairs/vets-api/blob/master/Gemfile.lock), 
+  - vets-website: [yarn.lock](https://github.com/department-of-veterans-affairs/vets-website/blob/main/yarn.lock), [package.json](https://github.com/department-of-veterans-affairs/vets-website/blob/main/package.json)
+  - contention-classification-api: [poetry.lock](https://github.com/department-of-veterans-affairs/contention-classification-api/blob/main/poetry.lock)
+
+ 
 
 ### Connections
 - List the connections your team makes/maintains with systems outside the Platform AWS Environment
+  - [topology](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/engineering/Updated%20External%20Service%20Topology.png)
+  - Lighthouse APIs
+  - VANotify (?)
 - Are these connections Internal or External to the VA?
+  - internal
 - Do you have a POC? Please list
-- Describe the encryption used for the connection in transit (e.g., Not Encrypted, TLS 1.2, TLS 1.3, mTLS).  
+- Describe the encryption used for the connection in transit (e.g., Not Encrypted, TLS 1.2, TLS 1.3, mTLS).
+  - not certain, but we believe TLS 1.2/1.3 encryption over HTTPS, VA Certificate Authority signed. 
 - Specify the certificate source if applicable (e.g., AWS ACM, Let's Encrypt, self-signed)
 - List the types of PII shared (in each direction) with this connection
 - Do you have an MOU, ISA, IAA, or other formal agreement that documents this connection? If so, please provide it
+  - No, our team does not directly maintain MOUs, ISAs, or IAAs for these connections. These external system connections are facilitated through platform-provided APIs (Lighthouse) and shared services like the Identity VFS team.
 
 ### Provide a data flow diagram that shows your product’s relationship to Platform.
+- contention-classification-api: [Service v1.0 Architecture [cc-team]](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1677003925622/f5284353833891a9f341413073b3b16695026cba) (see section with label "Option 2 - Models hosted in Va.gov Infrastructure [...] Last Updated August 2025"
