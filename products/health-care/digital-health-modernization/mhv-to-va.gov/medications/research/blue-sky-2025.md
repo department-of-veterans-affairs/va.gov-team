@@ -2,6 +2,14 @@
 
 In July-August 2025, the Horizon team UX practitioners took on a discovery effort around the Medications tool with the goal of reimagining what would be possible if we could re-create the appliation from scratch today, knowing what we know now from user research and identified problems. 
 
+UX squad: 
+* Cara Frissell
+* Florence McCafferty
+* Sara Sterkenburg
+OCTO:
+* Robyn Singleton
+* Kay Lawyer
+
 What this discovery process included: 
 * **Desk research** -_what research has already been done related to Medications? What do we know already about user expectations and preferences, pain points, and things that are going well?_
 * **Competitive analysis:**
