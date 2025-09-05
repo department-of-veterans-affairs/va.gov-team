@@ -30,6 +30,6 @@ _Presentations occur at 1:05pm ET_
 |Beneficiary Travel Pay|Micah Taylor|Mileage-submission on Mobile|July 2025|August 7, 2025|
 |Event Bus|Rick Golden|Decision Letter Availability Electronic Notification|June 2025|September 4, 2025|
 |Benefits Discovery Services|Krithi Murthy|TBD|TBD|October 2, 2025|
-||TBD|||November 2025|
+|Lifestage Benefits|Anh Platt|Intent to file v1 and the Income & Asset Statement (0906)|August 2025|November 2025|
 |TBD|TBD|TBD|TBD|December 2025|
 
