@@ -4,10 +4,10 @@
 _Please Note: The Veteran-Facing Services Platform ATO boundary includes all environments: Dev, Staging, Utility, Sandbox, and Production, as well as all VFS teams/Products, Platform teams, CMS, VA Notify, and VA Mobile. If the environments your team uses have different configurations, we will need this information for each environment._
 
 #### POC
-1. **What is the name of your product(s)/system(s)?** Welcome to My VA
+1. **What is the name of your product(s)/system(s)?** Welcome to My VA (Missing Contanct Info Flow)
 2. **Describe its purpose in a few sentences.** In order to ensure VA can communicate with Veterans, if key pieces of contact information (phone number, email, physical address) are missing from the Veteran's profile, we request they add that information, providing them with a form to allow them to do so.
 3. **If you represent multiple products, please describe the relationship between them, if there is any.**  This product sits within the "My VA Dashboard" but it does not interact with them. 
-4. **What is the expected duration of your project? This information helps us understand how our processes need to adapt** This is a permanent feature.
+4. **What is the expected duration of your project? This information helps us understand how our processes need to adapt** We maintain this product so there are always items on our roadmap for it. In the short term we are ensuring it is compatible with international phone number changes which the AuthEx team is working to implement. 
 
 #### AWS Resources
 1. **List AWS services used.**  This service does not utilize any AWS resources
