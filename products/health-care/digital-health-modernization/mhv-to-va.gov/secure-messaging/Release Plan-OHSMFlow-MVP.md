@@ -1,76 +1,91 @@
 # --DRAFT-- (In Progress)
 
-# Update Start a New Message Flow: Release Plan (MVP and Post MVP)
-## Guidance
+# Release Plan: Update Start a New Message Flow for Oracle Health
 
-_This Release Plan Template is intended to help ensure your new message flow for OH product is ready for MVP launch and will deliver the desired user outcomes._
+## Background: 
 
-## Product Outline (Background)
-
-## MVP: Update Start a New Message Flow
-
-EPIC: https://github.com/orgs/department-of-veterans-affairs/projects/1729/views/1?pane=issue&itemId=123015170&issue=department-of-veterans-affairs%7Cva.gov-team%7C116017
-
-**Summary:** The "send a new message" flow must expand into additional screens in order to accommodate variations in data for triage groups that come in from Oracle Health. This work is "done" when Veterans can message providers at facilities operating on either EHR successfully.
+**Product Outline:** https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/product/oh_recipient_groups/initiative-brief.md
 
 ## Hypothesis
 
 If we change the user flow for sending a new message then we expect it will be able to accommodate very different data structure for triage groups coming from Oracle Health, so that any user will be able to send a new message no matter what EHR their facility runs on.
 
-**Target: Readiness by Week of 9/2/25**
 
-**Staging Review- 9/5/25**
+## Step 1: Development
+Feature Toggles
 
-## Post MVP: Add Recent Recipient Flow
-
-EPIC: https://github.com/orgs/department-of-veterans-affairs/projects/1729/views/1?pane=issue&itemId=126050940&issue=department-of-veterans-affairs%7Cva.gov-team%7C117885
-
-**Summary:**
-
-
--Building out a new "shortcut" screen at va.gov/my-health/secure-messages/new-message/recent to allow Veterans to quickly identify -their most recently messaged care providers
-
--Adding those same recent care providers into the combo box component on the /select-care-teams page
-
--Adjusting the flow for users who do not have any recent recipients
-
-**Staging Review- 9/25/24**
-
-
-
-## Step 3: Production rollout
-
-### Do I need a staged rollout?
-
-MVP and Post MVP will Luanch together. Separate Feature toggles
-A defined set of users will be whitelisted in `mhv_secure_messaging_cerner_pilot` Flipper toggle to gain access to the new experience
-
-
-## Overall Roll out Plan: Full Release- MVP and Post MVP (recent recipients)
-
-Small % Release Rollout up 100% to **All Users**
+| Toggle name | Description |
+| ----------- | ----------- |
+| Add MVP Feature toggle here-XX | Add description here-XX |
+| Add Recent Recipient Feature toggle here-XX | Add Description here-XX |
 
 Replace existing toggle we are using with a new one to decouple from OH integration work
 
 1. Create a feature toggle for post MVP and Post MVP recent recipient work
-**Note: Allows for flexibility if we decide to release any MVP work to all users.**
+which will allow for flexibility
 
-2. With the Plan for releaseing the FULL Feature, creating 2 feature toggles will allows us to flip when need be for that full release
+2. With the Plan for releaseing the FULL Feature (MVP and Post MVP), creating 2 feature toggles will allows us to flip when need be for that full release
+
+
+## Step 2: Validation  
+
+Since we use a [continuous delivery](https://depo-platform-documentation.scrollhelp.site/developer-docs/deployment-process) model, once code is in the `main` branch, it will be deployed within 24 hours. 
+
+Before enabling your feature toggle in production, you'll need to:
+
+- [ ] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
+- [ ] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
+- [ ] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
+- [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
+  - [ ] review the plan with your DEPO/OCTO representative.
+  - [ ] review the release plan with your team.
+
+## Step 3: Production rollout
+
+### Do I need a staged rollout? 
+
+**Yes**
+
+MVP and Post MVP will Launch together. Separate Feature toggles
+A defined set of users will be whitelisted in `mhv_secure_messaging_cerner_pilot` Flipper toggle to gain access to the new experience
+
+
+### Define the Rollback process
+
+Our PM, Engineering Lead, Research Lead, and stakeholders will monitor analytics both on Google Analytics and DataDog. If they see a spike in errors or unexpected behavior, they will flag to the engineering team that there is a problem. The engineering team will do the following:
+
+#### If a critical severity issue
+1. The feature toggle will be disabled for all users
+2. Debugging will start immediately
+3. The fix will be tested and deployed through normal CI/CD practices
+4. The feature toggle will be re-enabled, possibly at a lower percentage of logged-in users
+#### If a high-severity issue
+1. The feature toggle will remain enabled, possibly at a reduction of availability (e.g. lowered percentage of logged in users)
+2. The offending commit will be reverted through normal `git` operations
+3. Remove offending code by deploying the revert commit
+4. A fix will be highly prioritized and worked on
+5. The fix will be tested and deployed through normal CI/CD practices
+#### If a low-severity issue
+1. The toggle will remain enabled with no reduction in availability
+2. A fix will be prioritized and worked on
+3. The fix will be tested and deployed through normal CI/CD practices, with no interruption to feature uptime.
+
+## Overall Roll out Plan: Staged Release: Full Release- (MVP and Post MVP) (ALL USERS)
+
+Staged Rollout (also known as unmoderated production testing)
+Rollout Planning
+Desired date range: **UPDATE DATE HERE**
+
+-How will you make the product available in production while limiting the number of users who can find/access it: **By using a feature flag.**
+
+-What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?:**Metrics Criteria Defined Below.**
+
+-Links to the dashboard showing "success criteria" metrics: **ADD Data Dashboard Link Here**
+
+-Who is monitoring the dashboard(s)?: **UX Leads, Engineering Lead, and Product Manager**
     
 
-
-### Define the Rollback process (needs updating)
-
-
-
-
-
-
-
-
-
-
-## Post MVP Metrics Launch Plan
+##  Metrics Based Criteria:
 
 1. **Data Dog**: Increasing DD collection to 100% for those users on the new flow
 
@@ -108,6 +123,82 @@ Parent [MHV Secure Messaging Metrics Dashboard](https://vagov.ddog-gov.com/dashb
 |  |  |
 | |  |
 |  | |
+
+
+
+## Monitoring (Post Monitoring Documentation)
+
+
+**Stage A: 5% of users**
+Test a larger user population to ensure larger usage patterns expose no issues.
+
+**Planning**
+-Length of time: 1 day, January 15 (Update Here_
+-Percentage of Users (and roughly how many users do you expect this to be):**5%**
+
+**Results**
+-Number of unique users: XX
+-Metrics at this stage (per your "success criteria"): please see detailed MVP monitoring doc
+-Was any downstream service affected by the change?: No
+-Types of errors logged: XX (Update Here)
+-What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? None, except for error messaging change
+
+**Stage B: 25% of users**
+Test a larger user population to ensure larger usage patterns expose no issues.
+
+**Planning**
+-Length of time: 
+-Percentage of Users (and roughly how many users do you expect this to be): **25%**
+
+**Results**
+-Number of unique users: 
+-Metrics at this stage (per your "success criteria"): please see detailed MVP monitoring doc
+-Was any downstream service affected by the change?: No
+-Types of errors logged: 
+-What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? None, except for error messaging change
+
+**Stage C: 50% of users**
+Test a larger user population to ensure larger usage patterns expose no issues.
+
+**Planning**
+-Length of time: 
+-Percentage of Users (and roughly how many users do you expect this to be): **50%**
+
+**Results**
+-Number of unique users: XX
+-Metrics at this stage (per your "success criteria"): please see detailed MVP monitoring doc
+-Was any downstream service affected by the change?: No
+-Types of errors logged: XX
+-What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?: None
+
+
+**Stage D: 75% of users**
+Test a larger user population to ensure larger usage patterns expose no issues.
+
+**Planning**
+-Length of time: XX
+-Percentage of Users (and roughly how many users do you expect this to be): **75%**
+
+**Results**
+-Number of unique users: XX
+-Metrics at this stage (per your "success criteria"): please see detailed MVP monitoring doc
+-Was any downstream service affected by the change?: No
+-Types of errors logged: XX
+-What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges?: Error messaging for pages - work ongoing.
+
+
+**Stage E: 100% of users**
+**Planning**
+-Length of time: XX
+-Percentage of Users: **100%**
+
+**Results**
+-Number of unique users: XX
+-Metrics at this stage (per your "success criteria"): please see detailed MVP monitoring doc
+-Was any downstream service affected by the change?: [PICK_ONE]: no
+-Types of errors logged: XX
+-What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? Error messaging deploys on Monday
+
 
 
 
