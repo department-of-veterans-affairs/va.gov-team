@@ -12,9 +12,10 @@ The team manifest system includes these key components:
 
 ### 1. Template File
 
-- **Location**: `/teams/team-readme-template.md`
-- **Purpose**: Template that teams copy to create their README files
+- **Location**: Moved to private repository to protect team member privacy
+- **Purpose**: Template that teams copy to create their README files  
 - **Key Section**: `## Team Information` - parsed by automation
+- **Status**: No longer maintained in public repository
 
 ### 2. Team README Files
 
@@ -57,7 +58,7 @@ Validation Script ← team_parser.rb ← Pattern Recognition
 
 I will understand you want to:
 
-1. **Update the template** (`team-readme-template.md`) with new fields/format
+1. **Update the template** (now in private repository) with new fields/format
 2. **Update parsing logic** in `team_parser.rb` to recognize new fields
 3. **Update generation script** in `generate_manifest.rb` if needed
 4. **Update validation script** in `validate_teams.rb` with new patterns
@@ -113,7 +114,7 @@ When requesting changes, provide:
 
 ## Files I Will Track and Update
 
-- ✅ `/teams/team-readme-template.md`
+- ❌ `/teams/team-readme-template.md` (moved to private repository)
 - ✅ `/teams/README.md` (main manifest)
 - ✅ `/scripts/manifest/generate_manifest.rb`
 - ✅ `/scripts/manifest/validate_teams.rb`

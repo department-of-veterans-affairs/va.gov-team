@@ -1,36 +1,35 @@
 # Team README Instructions
 
-## Creating Your Team README
+## ⚠️ Team Documentation Has Moved
 
-- To create a copy of this template, click "Edit" then copy all of the content within the file. Within your team folder, which is located in a folder for your team's portfolio, create a new file called "README.md" and paste this content.
-- Update and complete as applicable to your team. Replace all bracketed placeholders with your actual team information.
-- This template is designed to be parsed by an automated system, named Manifest, to display team rosters, product owner classifications, and organizational affiliations. Thus please don't make changes to the format in the Team Information section. Do your best to fill out all parts of that section (rather than putting n/a ask for help as every team should have this information)
-- Copy the [Product details template](../products/product-details-template.yml) into each product directory of the products your team works on. Name the file "[product-name]-details.yml". Then complete that file to the best of your ability for your product. Not all fields are required.
-    - Then link to each of your products in your team README.md file in the "Products we own" section.
-- Delete the reference to these instructions when you are done.
+**Team README creation and management has been migrated to our private repository to protect team member privacy while keeping product documentation public.**
 
-## Template Overview
+### For VA Team Members
 
-The team README template is structured to provide consistent information across all teams:
+- **Create team READMEs:** Access our private repository where team documentation templates and instructions are now maintained
+- **Update existing teams:** Follow the same process using updated templates in the private repository
+- **Get support:** Reach out in [#vfs-all-teams](https://dsva.slack.com/channels/vfs-all-teams) for guidance on the migration
 
-### Team Information Section
+### For External Contributors
 
-This section is parsed by automated systems and should maintain its exact format:
+This public repository maintains:
+- **Product documentation:** All user-facing product information in [/products](../products/README.md)
+- **Platform documentation:** Developer resources at [VA Platform documentation](https://depo-platform-documentation.scrollhelp.site/)
+- **General contact information:** Available through product documentation and platform support channels
 
-- **Basic Details:** Team identification and contact information
-- **Organizational Affiliation:** VA business alignment and reporting structure  
-- **Team Roster:** Key team member contact information
+### About This Change
 
-### Additional Sections
+We've implemented a dual-repository approach to balance transparency with privacy protection:
 
-- **About This Team:** Brief mission and focus description
-- **Products We Own:** Links to product details with descriptions
-- **Aligned to 2025 OCTO OKRs:** Strategic alignment documentation
-- **Key Documents:** Links to team charter and other important documents
+- **Private repository:** Contains team rosters, organizational details, and sensitive team information
+- **Public repository:** Maintains all product documentation, technical resources, and public-facing information
 
-## Important Notes
+This ensures that:
+- Veterans and the public can access all product and service information
+- External contributors can find the technical resources they need  
+- Team member personal information remains protected
+- Our commitment to open source and transparency is maintained for all non-sensitive content
 
-- The directory system relies on the specific format of the "Team Information" section
-- All bracketed placeholders `[like this]` should be replaced with actual information
-- Team names and portfolio assignments are used to organize the main teams manifest
-- Product links should point to completed product-details.yml files in the /products directory
+---
+
+*For questions about this transition, please reach out in [#vfs-all-teams](https://dsva.slack.com/channels/vfs-all-teams).*
