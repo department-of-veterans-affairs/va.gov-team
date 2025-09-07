@@ -9,6 +9,7 @@ Last Updated: July 23, 2025
 
 ### Roles  
 7/23: We'll update these roles as we onboard a new team onto this product.
+9/7/25: (More Updates to come)
 
 |Name|Role|Email|
 |----|----|-----|
@@ -17,20 +18,9 @@ Last Updated: July 23, 2025
 |Robyn Singleton| OCTO  Research Lead||
 |Mark Dewey | OCTO Engineering Lead ||
 |----|----|-----|
-|Matthew Bain| MHV Program Manager ||
-|Bryan Riley| MHV Team Delivery Manager/Product Manager| bryan.riley@vbylight.com |
-|Lichelle Bain| MHV Team Product Manager| lichelle.nichols@bylight.com |
-|Arienne Walters | MHV User Experience Lead | arienne.walters@bylight.com |
-|Joel Calumpong | MHV Team Design Lead | joel.calumpong@bylight.com |
-| Anne Costello Kenndedy | MHV Team Research Lead | anne.costello@bylight.com
-| Bobby Bailey | MHV Team Accessibility | robert.m.bailey@bylight.com
-|Emily Taylor | MHV Team Designer | emily.taylor@bylight.com |
-|Oleksii Morgun| MHV Team FE Lead Engineer ||
-|Kolby Balch| MHV Team Engineer ||
-|Victoria Saleem| MHV Team FE Engineer ||
-|Kyle Cardwell| MHV Team Engineer | kyle.cardwell@acommsolutions.com |
-|Rakesh Maurya | MHV Team QA ||
-|Fazil Mammadov | MHV Team QA  | fazil.mammadov@bylight.com |
+|Lauren Ernest| MHV Program Manager ||
+|Stacy Blackwood MHV SM Product Manager| stacy.blackwood@adhocteam.us |
+|Alex Morgun| Senior Engineer|A.Morgun@ironarchtech.com
 
 ## VA partners
 
