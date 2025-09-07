@@ -1,4 +1,4 @@
-# VA.gov message Oracle Health recipient groups
+# VA.gov message Oracle Health recipient groups (Update Start New Message Flow)
 #### Overview
 
 VA.gov will become the exclusive web interface for patients at EHRM transitioned ("Oracle Health") facilities. To accomplish this goal, the VA.gov messages tool will need to accomodate a new type of recipient group. This initiative will make conforming changes to the existing VA.gov messaging tool for those new EHRM/Oracle Health recipient groups.
@@ -6,14 +6,16 @@ VA.gov will become the exclusive web interface for patients at EHRM transitioned
 ---
 
 ## Outcome Summary
-Patients can message their providers from VA.gov regardless of which EHR their provider is using.
+Patients can message their providers from VA.gov regardless of which EHR-Oracle Health Facility their provider is using.
 
 **Related/Associated product(s)**
 
 [VA.gov messages product outline](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/product)
 
 ## Problem
-The incoming EHRM/Oracle Health recipient objects (alternately called "Group Inboxes" or "Message Pools") do not align with the existing MHV- and VistA-based recipient objects ("triage groups"). Specifically, there is no avaialble patient-to-recipient object mapping at present for EHRM/Oracle Health recipient objects. So the VA.gov messages tool must be  modified to help the user find the correct EHRM/Oracle Health recipient object.
+The incoming EHRM/Oracle Health recipient objects (alternately called "Group Inboxes" or "Message Pools") do not align with the existing MHV- and VistA-based recipient objects ("triage groups"). Specifically, there is no avaialble patient-to-recipient object mapping at present for EHRM/Oracle Health recipient objects. The VA.gov messages tool must be  modified to help the user find the correct EHRM/Oracle Health recipient object.
+_
+
 
 **As a Veteran with Oracle Health facilities in my profile, I need to be able to find and select the care team when I send a new message, so that I can continue to manage my care and communicate with my providers.**
 
@@ -27,8 +29,8 @@ If we change the user flow for sending a new message then we expect it will be a
 - We assume that the EHRM/Oracle Health recipient objects and messaging APIs operate as stated in production
 - We assume there is no reliable way to get patient-to-recipient mappings for EHRM/Oracle Health recipient objects
 
-### What're you building
-Patients that are treated at an EHRM transitioned facility will be asked to select a facility before proceeding to the compose screen. If the facility selected is an EHRM transitioned facility, the messages tool will use this facility selection to narrow down the list of potential EHRM/Oracle Health recipients from system-wide to just those associated with the selected facility.
+### What we are building
+Patients that are treated at an EHRM-OH transitioned facility will be asked to select a facility before proceeding to the compose screen. If the facility selected is an EHRM-OH transitioned facility, the messages tool will use this facility selection to narrow down the list of potential EHRM/Oracle Health recipients from system-wide to just those associated with the selected facility.
 
 ## Product Outline (Background)
 
