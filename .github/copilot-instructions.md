@@ -157,10 +157,11 @@ For additional environment verification and setup steps, see: [`copilot-setup-st
 
 ### For Team Documentation
 - **Location**: `teams/{portfolio}/{team-name}/README.md`
-- **Template**: Team documentation templates have been moved to private repository
+- **Template**: Team documentation templates are in `va.gov-team-sensitive` repository at `/teams/team-readme-template.md`
+- **Private Repository**: `https://github.com/department-of-veterans-affairs/va.gov-team-sensitive`
 - **Validation**: Use `ruby scripts/manifest/validate_teams.rb`
 - **Structure**: Must include `## Team Information` section
-- **Note**: Team roster and sensitive information migrated to private repository for privacy protection
+- **Note**: When referencing team templates or sensitive content, always direct users to the private repository URL
 
 ### For Product Documentation
 - **Location**: `products/{product-name}/`
@@ -208,8 +209,11 @@ ruby scripts/cleanup.rb
 
 ### Public vs Private Content
 - **This repository is PUBLIC** - no sensitive information allowed
-- **Sensitive content** goes to `va.gov-team-sensitive` private repository
-- **Prohibited content**: PII, credentials, security vulnerabilities, postmortems
+- **Sensitive content** goes to the **private repository**: `https://github.com/department-of-veterans-affairs/va.gov-team-sensitive`
+  - **Repository name**: `va.gov-team-sensitive`
+  - **Access**: VA team members only
+  - **Content**: Team rosters, organizational details, sensitive team information, team README templates
+- **Prohibited content in public repo**: PII, credentials, security vulnerabilities, postmortems, team member personal information
 - **Review carefully** before committing any content
 
 ### Workflow Permissions
