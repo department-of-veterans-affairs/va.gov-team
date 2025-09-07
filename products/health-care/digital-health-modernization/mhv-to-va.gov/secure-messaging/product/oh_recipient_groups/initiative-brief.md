@@ -93,14 +93,18 @@ In our Post MVP, we are adjusting the flow to include shortcut for recent recipi
 
 ## Launch Planning
 
-**Release Guide**: https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/Release%20Plan-OHSMFlow-MVP.md
+#### September 2025
+
+**Release Guide** (In progress) : https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/digital-health-modernization/mhv-to-va.gov/secure-messaging/Release%20Plan-OHSMFlow-MVP.md
 
 ### Collaboration Cycle
 View all related tickets [in this view](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue%20state%3Aopen%20OH%20curated%20list)
 
 **MVP Collab Cycle Ticket** (September 2025): https://github.com/orgs/department-of-veterans-affairs/projects/1729/views/1?pane=issue&itemId=2818596889&issue=department-of-veterans-affairs%7Cva.gov-team%7C102015
 
-Post MVP Collab Cycle Ticket (September 2025); https://github.com/orgs/department-of-veterans-affairs/projects/1729/views/1?pane=issue&itemId=3380177653&issue=department-of-veterans-affairs%7Cva.gov-team%7C118453
+**Post MVP Collab Cycle Ticket**(September 2025); https://github.com/orgs/department-of-veterans-affairs/projects/1729/views/1?pane=issue&itemId=3380177653&issue=department-of-veterans-affairs%7Cva.gov-team%7C118453
+
+___________________________________________________________________________________________________________________________________________
 
 #### Jan 2025 
 - [Kickoff ticket](https://github.com/department-of-veterans-affairs/va.gov-team/issues/102015)
