@@ -124,7 +124,7 @@ jobs:
           
           ---
           
-          *This issue was automatically created by the [Team Validation Workflow](https://github.com/department-of-veterans-affairs/va.gov-team/actions/workflows/team-validation-report.yml)*`;
+          *This issue was automatically created by the [Team Validation Workflow](https://github.com/department-of-veterans-affairs/va.gov-team/actions/workflows/manifest-team-validation-report.yml)*`;
           
           // Close previous validation report issues
           const { data: existingIssues } = await github.rest.issues.listForRepo({
