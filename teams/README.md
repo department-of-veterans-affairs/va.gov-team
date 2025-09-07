@@ -5,10 +5,12 @@
 **Team rosters, organizational details, and sensitive team information have been migrated to our private repository to protect team member privacy while keeping product documentation public.**
 
 ### For VA Team Members
+
 - **Access team information:** Log into our private repository where team rosters and organizational details are now maintained
 - **Update your team info:** Follow the same process in the private repository using the updated templates and instructions
 
 ### For External Contributors and General Public
+
 - **Product documentation:** All product-related documentation remains available in the [/products](../products/README.md) directory
 - **Platform tools and services:** See [VA Platform documentation](https://depo-platform-documentation.scrollhelp.site/)
 - **General team information:** The high-level team structure and product ownership information below is maintained for transparency
@@ -49,7 +51,3 @@ For reference, our teams are organized into the following portfolios. Detailed t
 - **General inquiries:** Use the [#vfs-all-teams](https://dsva.slack.com/channels/vfs-all-teams) Slack channel
 - **Platform support:** See [VA Platform documentation](https://depo-platform-documentation.scrollhelp.site/) for support channels
 - **Product-specific questions:** Contact information is available in individual product documentation in [/products](../products/README.md)
-
----
-
-*This page was updated as part of the team information migration to protect team member privacy. For questions about this transition, please reach out in [#vfs-all-teams](https://dsva.slack.com/channels/vfs-all-teams).*
