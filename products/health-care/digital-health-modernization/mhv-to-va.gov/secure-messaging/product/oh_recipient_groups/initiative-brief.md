@@ -36,19 +36,22 @@ Patients that are treated at an EHRM-OH transitioned facility will be asked to s
 
 ## MVP: Update Start a New Message Flow
 
-EPIC: https://github.com/orgs/department-of-veterans-affairs/projects/1729/views/1?pane=issue&itemId=123015170&issue=department-of-veterans-affairs%7Cva.gov-team%7C116017
-
 **Summary:** The "send a new message" flow must expand into additional screens in order to accommodate variations in data for triage groups that come in from Oracle Health. This work is "done" when Veterans can message providers at facilities operating on either EHR successfully.
+
+
+**EPIC:** https://github.com/orgs/department-of-veterans-affairs/projects/1729/views/1?pane=issue&itemId=123015170&issue=department-of-veterans-affairs%7Cva.gov-team%7C116017
+
 
 ## Hypothesis
 
 If we change the user flow for sending a new message then we expect it will be able to accommodate very different data structure for triage groups coming from Oracle Health, so that any user will be able to send a new message no matter what EHR their facility runs on.
 
 ## Post MVP: Add Recent Recipient Flow
+**Note: As part of the launch plan, we will launch both MVP and Post MVP as one product**.
 
-EPIC: https://github.com/orgs/department-of-veterans-affairs/projects/1729/views/1?pane=issue&itemId=126050940&issue=department-of-veterans-affairs%7Cva.gov-team%7C117885
 
 **Summary:**
+In our Post MVP, we are adjusting the flow to include shortcut for recent recipients, 
 
 -Building out a new "shortcut" screen at va.gov/my-health/secure-messages/new-message/recent to allow Veterans to quickly identify -their most recently messaged care providers
 
@@ -57,7 +60,7 @@ EPIC: https://github.com/orgs/department-of-veterans-affairs/projects/1729/views
 -Adjusting the flow for users who do not have any recent recipients
 
 
-Governance rules around "recent" care teams include:
+**Governance rules around "recent" care teams include:**
 
 (1) Up to 4 teams (no more than 4 to display)
 
@@ -65,16 +68,17 @@ Governance rules around "recent" care teams include:
 
 (3) Within the last 6 months
 
+**EPIC**: https://github.com/orgs/department-of-veterans-affairs/projects/1729/views/1?pane=issue&itemId=126050940&issue=department-of-veterans-affairs%7Cva.gov-team%7C117885
 
-## Measuring Success (Confirmed September 2025)
+## Measuring Success (Plan Post Launch)
 
-(1) Data Dog: Increasing DD collection to 100% for those users on the new flow
+(1) **Data Dog**: Increasing DD collection to 100% for those users on the new flow
 
-(2) Error rates - the base for comparison, data from the new flow can be separated out and compared to base. This will require some eng capacity (estimated a full day for dashboard build)
+(2) **Error rates** - the base for comparison, data from the new flow can be separated out and compared to base. This will require some eng capacity (estimated a full day for dashboard build)
 
-(3) CSAT - continue to monitor CSAT for the base, and the new flows. We should be able to break out the new flows with URLs and compare feedback.
+(3) **CSAT** - continue to monitor CSAT for the base, and the new flows. We should be able to break out the new flows with URLs and compare feedback.
 
-(4) Messsages- Number of messages successfully submitted by platform - this is already tracked
+(4)**Messsages**- Number of messages successfully submitted by platform - this is already tracked
 
 
 
