@@ -1,18 +1,18 @@
 # ID.me Test Account Creation Guide
-This document is a guide for creating a ID.me lower environment test account for usage on the development and staging VA.gov instances. For more details on how ID.me user account creation functions and the ID.me sandbox environment see the [ID.me test credentials documentation](https://developers.id.me/documentation/deploy-and-monitor/quality-assurance-testing/best-practice).
+This document is a guide for creating an ID.me lower environment test account for usage on the development and staging VA.gov instances. For more details on how ID.me user account creation functions as well as the ID.me sandbox environment see the [ID.me test credentials documentation](https://developers.id.me/documentation/deploy-and-monitor/quality-assurance-testing/best-practice).
 
 ## Standard ID.me Account Creation Flow
 1. Navigate to dev or staging VA.gov & use the sign in modal to initiate a request with ID.me.
 2. On the ID.me sign in page click the ["Create an ID.me account"](https://api.idmelabs.com/en/registration/new) link to be taken to the ID.me account registration page, then enter in the email address you wish to use - ID.me will email that address with a link to confirm your access to it if it doesn't already have an account on record for that email.
 
    <img width="709" height="916" alt="enter_email" src="https://github.com/user-attachments/assets/46c98769-44fd-42f3-bff8-cb624685d7b4" />
-4. Click the link in the email ID.me sends or copy over the code contained in it to your original ID.me window to complete the email proofing process, then proceed to setting up your 2FA. You also have the option of forgoing adding a 2FA method at this point.
+4. Click the link in the email ID.me sends or copy over the code contained in it to your original ID.me window to complete the email proofing process, then proceed to setting up your 2FA. You also have the option of forgoing adding a 2FA method at this point, but will be forced to add it if you wish to verify your account later.
 
    <img width="709" height="916" alt="add_2fa" src="https://github.com/user-attachments/assets/09c0f856-782b-4b3b-a431-72cc2b5a2a0f" />
-6. After adding or skipping a 2FA method you will be returned to VA.gov with an unverified account. Click the link to return back to ID.me to complete your account verification. You will need to re-enter your email and password, and if you have not already set up a 2FA method you will be forced to create one now.
+6. After adding or skipping a 2FA method you will be returned to VA.gov with an unverified account. Click the link to return back to ID.me to complete your account verification. You will need to re-enter your email and password, and if you have not already set up a 2FA method you will have to create one now to continue.
 
    <img width="1080" height="651" alt="verify_identity" src="https://github.com/user-attachments/assets/42c314b9-9f3b-43b8-9661-b161b08b5845" />
-  - Unlike Login.gov ID.me mocks its 2FA during authentication, meaning you won't need to actually use your 2FA method. Therefore the easiest 2FA method to add is a phone number; ID.me runs a basic validation to ensure it appears as a valid US-based phone number but beyond that does not validate or attempt to contact it for lower environment 2FA purposes.
+  - Unlike Login.gov, ID.me mocks its 2FA during authentication, meaning you won't need to actually use your 2FA method. Therefore the easiest 2FA method to add is a phone number; ID.me runs a basic validation to ensure it appears as a valid US-based phone number but beyond that does not validate or attempt to contact it for lower environment 2FA purposes.
 
     <img width="1086" height="811" alt="fake_phone_2fa" src="https://github.com/user-attachments/assets/5b1d20b0-7eb9-45f3-9a66-47823f8dd956" />
     <img width="1086" height="811" alt="confirm_2fa" src="https://github.com/user-attachments/assets/41d959af-7818-4302-a1e5-3edf74a50a40" />
