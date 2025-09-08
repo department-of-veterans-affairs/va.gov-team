@@ -14,3 +14,31 @@
 ## 10-10d Online
 - [CHAMPVA overview](https://www.va.gov/family-and-caregiver-benefits/health-and-disability/champva/)
 - [10-10d form](https://www.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/)
+
+## Supporting Artifacts for 10-7959a
+- [design](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/champva/1010D/design/)
+- [research](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/health-care/champva/1010D/research/)
+- [IA doc](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/information-architecture/ia-design-docs/champva-online-form.md)
+
+## QA
+- Regression Plan
+- Test Plan 
+- Coverage for Reference
+- E2E Testing 
+- Unit Tests
+- Unit-tests coverage
+
+## Staging Information
+- [Staging URL](https://staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/apply-form-10-10d/)
+- Staging Test Accounts
+
+## Privacy & Readiness Review
+- [Release Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/10-10d-release-plan.md)
+- Sequence Diagram / Workflow
+
+## Additional Tickets 
+- Privacy, Security, & Infrastructure Readiness Review
+- Contact Center Ticket
+
+## Contact Center
+- [Product Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/Application%20for%20CHAMPVA%20Benefits%20Product%20Guide%20v2.docx)
