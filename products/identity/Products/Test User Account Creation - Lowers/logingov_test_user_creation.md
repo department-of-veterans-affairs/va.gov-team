@@ -1,14 +1,14 @@
-## Login.gov Test Account Creation Guide
+## Login.gov test account creation guide
 
-This document is a guide for creating a Login.gov lower environment test account for usage on the development and staging VA.gov instances. For more details on how Login.gov user account creation functions and the Login.gov sandbox environment see the [Login.gov sandbox environment documentation](https://developers.login.gov/testing/#testing-identity-proofing).
+This guide provides step-by-step instructions for setting up a Login.gov account for development and testing in lower environments on VA.gov. For more details on Login.gov user account creation and the Login.gov sandbox environment see the [Login.gov sandbox environment documentation](https://developers.login.gov/testing/#testing-identity-proofing).
 
-### Standard Login.gov Account Creation Flow
+### Standard Login.gov account creation flow
 1. Navigate to https://dev.va.gov or https://staging.va.gov and click the **Sign in button** to open the sign-in modal and select **Login.gov**.
-2. On the Login.gov sign in page click the **Create an Account** tab. Enter in the [test email address](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/testing/How%20to%20create%20test%20user%20accounts.md)  you wish to use. Login.gov will send an email to that address with a link to confirm your account.
+2. On the Login.gov sign-in page click the **Create an Account** tab. Enter in the [test email address](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/testing/How%20to%20create%20test%20user%20accounts.md)  you wish to use. Login.gov will send an email to that address with a link to confirm your account.
 	<img width="841" height="871" alt="new_logingov" src="https://github.com/user-attachments/assets/64ce5669-e76e-4311-b66f-6e17d7ae6462" />
 3. Click the link in the email to return to Login.gov. First create your password, then add your multifactor authentication (MFA) method(s). 
 
-> [!IMPORTANT]  
+> [!NOTE]  
 > Login.gov lower environments enforce real multifactor authentication (MFA) usage (unlike ID.me, which spoofs it). So choose methods that you actually plan to use.
 
  <img width="779" height="858" alt="add_mfa" src="https://github.com/user-attachments/assets/6c4c21f0-415d-41a9-9bd5-5826f1e2e102" />
@@ -19,10 +19,11 @@ This document is a guide for creating a Login.gov lower environment test account
 	
 5. Agree to the Login.gov terms of use for verification, then select if you want to use a mobile device or your current computer to submit verification photos. Either method will work and not require actual identity documentation.
 
-> [!IMPORTANT]  
-> If you want to upload custom account attributes for your test users, such as a specific name or address, upload a YAML file when you're prompted to upload identity documents. 
+> [!NOTE]  
+> If you want to upload custom account attributes for your test users, such as a specific name or address, [upload a YAML file when you're prompted to upload identity documents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Test%20User%20Account%20Creation%20-%20Lowers/logingov_test_user_creation.md#custom-logingov-account-attributes). 
 
-    <img width="1063" height="755" alt="phone_or_computer" src="https://github.com/user-attachments/assets/af51035e-0fe1-4ef3-9739-7fdee8e845b1" />
+<img width="1063" height="755" alt="phone_or_computer" src="https://github.com/user-attachments/assets/af51035e-0fe1-4ef3-9739-7fdee8e845b1" />
+
 6. Login.gov will request front and rear photos of an accepted photo ID, but in the lower environments it will accept anything that is card-shaped and not perform actual validations on the information in the photo.
 
     <img width="706" height="1088" alt="photo_ids" src="https://github.com/user-attachments/assets/4cd7988f-5370-4a9a-8546-a2ff012ed6a6" />
@@ -31,7 +32,7 @@ This document is a guide for creating a Login.gov lower environment test account
 > [!IMPORTANT]  
 > To create a SSN for testing purposes only, the number should start with either `900-` or `666-`. Do not enter real PII in this field.
 
-    <img width="828" height="822" alt="fake_ssn" src="https://github.com/user-attachments/assets/ccb2d30b-b51b-438f-87d4-a331474c2474" />
+<img width="828" height="822" alt="fake_ssn" src="https://github.com/user-attachments/assets/ccb2d30b-b51b-438f-87d4-a331474c2474" />
 	
 8. Next you will have to verify the personal information for your test user account. First name, last name, DOB, and your submitted photo ID number are all preset and cannot be changed (in the standard flow), while address and SSN are also preset but updatable if you wish.
 
@@ -43,11 +44,11 @@ This document is a guide for creating a Login.gov lower environment test account
     > <img width="828" height="822" alt="request_letter" src="https://github.com/user-attachments/assets/95478441-3247-4575-a11b-4d4bd9199669" />
   - After requesting the letter you will be sent back to VA.gov & will have to sign in with Login.gov, then begin the verification with Login.gov again. Upon returning to Login.gov for the verification you will immediately land on a verification code page with the code from your "letter" pre-filled and ready to submit.
     > <img width="828" height="822" alt="verification_code" src="https://github.com/user-attachments/assets/9dd64102-bd9a-4744-9461-e920c1a95589" />
-10. After verifying with Login.gov via phone or faked letter you will be given a personal key that allows you to recover the account if the password is lost; save this key along with the rest of the credential information. You will then be sent back to VA.gov signed into your new IAL2-verified account.
+10. After verifying with Login.gov via phone or faked letter, you'll get a personal key that allows you to recover the account if the password is lost. Save this key along with the rest of the credential information. You'll be redirected back to VA.gov and signed into your new IAL2-verified account.
 
   <img width="828" height="822" alt="personal_key" src="https://github.com/user-attachments/assets/674cd57d-483d-4609-9654-d82454a82f9e" />
 
-### Custom Login.gov Account Attributes
+### Custom Login.gov account attributes
 In order to bypass the standard `Fakey McFakerson` test user attributes, a YAML (`.yml`) file can be uploaded during the document verification portion of the Login.gov account verification process in place of document photos. In the lower environments the attributes in the YAML file will be processed and set as user attributes in place of the standard ones.
 
 The YAML file is only required in the upload field for the back of your identity document. Regardless, it’s good practice to upload the same YAML file in both upload fields to avoid confusion when testing.
