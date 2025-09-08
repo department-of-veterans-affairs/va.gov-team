@@ -1,5 +1,5 @@
 # ID.me test account creation guide
-This guide provides step-by-step instructions for setting up an ID.me account for development and testing in lower environments on VA.gov. For more details on ID.me user account creation functions and the ID.me sandbox environment see the [ID.me test credentials documentation](https://developers.id.me/documentation/deploy-and-monitor/quality-assurance-testing/best-practice).
+Follow these step-by-step instructions to create an ID.me account for development and testing in lower environments on VA.gov. For more details on ID.me user account creation functions and the ID.me sandbox environment see the [ID.me test credentials documentation](https://developers.id.me/documentation/deploy-and-monitor/quality-assurance-testing/best-practice).
 
 ## Standard ID.me account creation flow
 1. Navigate to https://dev.va.gov or https://staging.va.gov and click the **Sign in button** to open the sign-in modal and select **ID.me**.
