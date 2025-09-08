@@ -246,11 +246,11 @@ If Android, pleae request their email where an invitation to the testing link wi
 - `Date and time of pilot session Android w/ a screen magnifier:` **[Pending]** 
 
 ### Research sessions
-- `Planned dates of research:` **[10/22-10/29/25]**
+- `Planned dates of research:` **[09/29/2025-10/03/2025]**
 
 ### Length of sessions
-- `Session length: **120 minutes**
-- `Maximum Sessions per day: **2 sessions**
+- `Session length: **90 minutes**
+- `Maximum Sessions per day: **3 sessions**
 
 ### Availability
 When would you like sessions scheduled? Please list exact dates and times in **EASTERN Standard Time**. 
@@ -263,12 +263,12 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 >
 > **Place time slots between `hash marks` when in edit mode.**
 
-- `[10/22, Monday, 10:00 AM-7:00 PM] EST'
-- '[10/23, Tuesday, 10:00 AM-7:00 PM] EST`
-- `[10/24, Wednesday, 10:00 AM-7:00 PM] EST'
-- '[10/25. Thursday, 10:00 AM-7:00 PM] EST`
-- '[10/26, Friday, 10:00 AM-4:00 PM] EST`
-- '[10/29, Monday, 10:00 AM-7:00 PM] EST'
+- `[09/29, Monday, 10:00 AM-7:00 PM] EST'
+- '[09/30, Tuesday, 10:00 AM-3:00 PM] EST`
+- `[10/01, Wednesday, 10:00 AM-7:00 PM] EST'
+- '[10/02. Thursday, 10:00 AM-7:00 PM] EST`
+- '[10/03, Friday, 10:00 AM-4:00 PM] EST`
+- '[10/04, Monday, 10:00 AM-7:00 PM] EST'
 
   
 ## Team Roles  🕵️👩‍💻👩‍🔬
@@ -282,7 +282,7 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 - `Research guide writing and task development (usually but not always same as moderator):` **[Christine Julian and Kira Evsanaa]**		
 - `Participant recruiting & screening:`	**[Perigean]**	
 - `Project point of contact:` **[Christine Julian]**		
-- `Accessibility specialist (for sessions where support for assistive technology may be needed):` **[ADE Team]**	
+- `Accessibility specialist (for sessions where support for assistive technology may be needed):` **[ADE Team Research Lead, Cindy Merril]**	
 - `Note-takers:` **[Jonathan Post]** ***or*** **[Maria Kravets]**	
 - `Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work. Spread observers across sessions. There should be no more than 5 to 6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side.`
 
@@ -293,4 +293,4 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 ## Approvals ✅
 - `Reviewed by [Ryan Thurlwell, Team Lead] on [x]`
 - `Reviewed by [Shane Strassberg, OCTO Research-Ops Lead] on [x]`
-- 'Reviewed by [ADE Team] on [x]'
+- 'Reviewed by [ADE Team] on [8/28/2025]'
