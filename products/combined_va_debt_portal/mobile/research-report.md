@@ -572,17 +572,17 @@ We expect that Veterans will want to make a payment towards their benefit overpa
 ### KPI 4: Total number of views of the PDF Copayment statements.
 We expect this to be a non-zero amount and expect that Veterans who have any copayment bills will want to view the PDF. We will track the total number of views on a monthly basis.
 
-- How findings support the KPI: 
+- How findings support the KPI: Research shows that the PDF statements are a desired feature, with some participants noting they would use them regularly to verfy charges, while others would refer to them only if needed.
 
 ### KPI 5: Total number of error alerts shown to the user.
 We will want to track this metric to ensure that everything is functioning as intended and that if we see a high volume of errors, there is a problem that will need to be addressed. We will track the total number of errors on a monthly basis.
 
-- How findings support the KPI: 
+- How findings support the KPI: Any error the user encounters would most likely lead to frustration. The research identified several points of friction that could lead to this frustration, including a confusing handoff to external payment sites, difficulty locating financial help, and a lack of prominently displayed phone numbers.
 
-### KPI 6: Total number of clicks on the empty state of benefit overpayments and medical copayments.
-We expect this to be a non-zero amount and want to track this as a metric to assess the design, and not a metric determining the success of the debt feature itself. This will be a temporary metric that is tracked for 6 months.
+~~### KPI 6: Total number of clicks on the empty state of benefit overpayments and medical copayments.
+We expect this to be a non-zero amount and want to track this as a metric to assess the design, and not a metric determining the success of the debt feature itself. This will be a temporary metric that is tracked for 6 months.~~
 
-- How findings support the KPI: 
+~~- How findings support the KPI:~~
 
 ## Next Steps 🚧
 
