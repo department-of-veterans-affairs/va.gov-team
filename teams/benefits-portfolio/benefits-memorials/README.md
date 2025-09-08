@@ -3,7 +3,7 @@
 - Slack channel: [#vsa-claims-appeals](https://dsva.slack.com/channels/vsa-benefits-memorial), vsa-benefits-nod (dedicated channel for LightHouse and Claims & Appeals for Notice of Disagreement discussions)
 - VA.gov link: n/a
 - Demo video link: n/a
-- Product POCs: Matt Self (matthewself.dvsa@gmail.com and Veronica Henry (ronnie.henry@gcio.com)
+- Product POCs: Available through team documentation in private repository
 - [Team Charter and Roadmap](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/vsa/teams/benefits-memorials/charter.md)
 ---
 
@@ -78,21 +78,6 @@ Like BDD (somewhat).  Not on the radar for 2021
 
 
 # Team Info
-
-## Customer Support
-First line is always Matt and Ronnie. However, our channel #vsa-claims-appeals is a great place to talk to anyone about a specific subject.  For specific questions regarding front-end, back-end, or design, you can always contact the individuals in the specific roles below.
-
-|**Roles**              |**Assigned**                        |**Contact Information**         |
-|-----------------------|------------------------------------|--------------------------------|
-|DSVA Product Manager   |Matt Self                           |matt.self@va.gov                |
-|Team Product Manager   |Veronica Henry                      |ronnie.henry@gcio.com           |
-|Back-End Engineer      |Csaba Nemeth                        |csaba.nemeth@gcio.com           |
-|Back-End Engineer      |Michel McDonald                     |michel.mcdonald@adhocteam.us    |
-|Front-End Engineer     |Robin Garrison                      |robin.garrison@adhocteam.us     |
-|Front-End Engineer     |Devon Hills                         |asha.gross@adhocteam.us.        |
-|Design Researcher      |Christian Valla                     |cvalla@governmentcio.com        |
-|Design Researcher      |Kevin Stachura                      |kstachura@govermentcio.com      |
-|
 
 # Executive Summary
 
