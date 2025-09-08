@@ -17,7 +17,7 @@ This document is a guide for creating a Login.gov lower environment test account
     <img width="1063" height="755" alt="phone_or_computer" src="https://github.com/user-attachments/assets/af51035e-0fe1-4ef3-9739-7fdee8e845b1" />
 6. Login.gov will request front and rear photos of an accepted photo ID, but in the lower environments it will accept anything that is card-shaped and not perform actual validations on the information in the photo.
 
-    <img width="487" height="888" alt="fake_ids" src="https://github.com/user-attachments/assets/77084eac-0163-42c8-8a27-86e7746b7a10" />
+    <img width="706" height="1088" alt="photo_ids" src="https://github.com/user-attachments/assets/4cd7988f-5370-4a9a-8546-a2ff012ed6a6" />
 7. After you submit your identity card photos Login.gov will accept them and request your social security number. Create your SSN, starting with either `900-` or `666-`.
 
     <img width="828" height="822" alt="fake_ssn" src="https://github.com/user-attachments/assets/ccb2d30b-b51b-438f-87d4-a331474c2474" />
