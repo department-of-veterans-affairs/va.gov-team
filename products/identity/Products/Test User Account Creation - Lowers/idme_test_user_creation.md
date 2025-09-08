@@ -24,7 +24,7 @@ This document is a guide for creating an ID.me lower environment test account fo
     <img width="666" height="871" alt="identity_verification_confirmation" src="https://github.com/user-attachments/assets/754f78cf-ebdf-4dc4-8e4b-7a983cfd72bc" />
 7. ID.me will request you submit images of the front and back of your photo ID - it will accept any uploads and not attempt to validate them.
 
-    <img width="666" height="871" alt="fake_id_documents" src="https://github.com/user-attachments/assets/a0ee5a14-794e-4a98-b6cc-6019d86f8d28" />
+   <img width="740" height="1138" alt="photo_ids" src="https://github.com/user-attachments/assets/2914dac4-c3c0-4fca-96ed-ea6e5b5bba68" />
 8. After accepting your document photos you will be asked to enter in a SSN, and then presented with the `"Veronic Persinger"` test account information to verify.
 
     <img width="666" height="871" alt="veronica_persinger" src="https://github.com/user-attachments/assets/3fa3122a-d14f-4290-a5a8-56c1c0b697b2" />
