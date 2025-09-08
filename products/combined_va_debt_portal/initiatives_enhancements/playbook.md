@@ -1,4 +1,4 @@
-# One Thing Per PagePlaybook
+# One Thing Per Page Playbook
 
 NOTE: 
 - links to complete data for each of the sections below is welcome and encouraged.
@@ -14,8 +14,8 @@ issue tickets (if they add value when describing known errors for your product)
 ## Contacts
 
 ### Team Members:
-- DSVA Product Lead: _person’s name_ _persons's email_
-- Team Product Manager: _person’s name_ _persons's email_
+- DSVA Product Lead: Denise Coveyduc, denise.coveyduc@va.gov
+- Team Product Manager:Tom Davis, thomas.davis@govcio.com
 - _Additional Team Role_: _person’s name_ _persons's email_
 
 ### Outage Contacts:
