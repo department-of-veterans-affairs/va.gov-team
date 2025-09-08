@@ -29,8 +29,8 @@ sequenceDiagram
     F-->>U: Route user to scheduling appointment
 
     U->>F: Select appointment
-    F->>V: Submit appointment with EDIPI
-    V->>S: passthrough appointment with EDIPI
+    F->>V: Submit appointment with IDIPI
+    V->>S: passthrough appointment with IDIPI
     S-->>V: Appointment confirmed
     V->>N: Send email address and confirmed templateId
     N-->>U: Send confirmation email(with link to cancel)
