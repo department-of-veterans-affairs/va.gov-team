@@ -3,12 +3,12 @@
 |--|--|--|
 | 1 | Validate that external integrations work correctly in production for authentication and data flow. | Backend testing available in prod but without frontend|
 | 2 | Reproduce and validate bug fixes to ensure prior issues are resolved without breaking other functionality.      | Workarounds exist, but challenging with external integrations |
-| 3 | Validate that new or updated features on VA.gov or the mobile app work as expected upon release.| Recommendation: Conduct User Acceptance Testing (UAT)|
-| 4 | Replicate a Veteran’s reported issue using a test account to understand errors and workflow blockers. | Training/demo: more appropriate for lowers |
-| 5 | Guide a Veteran through a process like prescription refills or secure messaging without exposing real PII. | Training: more appropriate for lowers|
-| 6 | Show VA clinicians or pharmacists how features such as secure messaging or pharmacy tools appear to Veterans.| Training: more appropriate for lowers|
-| 7 | Orient new staff with hands-on experience using Veteran-facing tools in a controlled setting. | Training: more appropriate for lowers|
-| 8 | Use a test account to present live demos to stakeholders showcasing the Veteran experience. | Demo: more appropriate for lowers|
+| 3 | Validate that new or updated features on VA.gov or the mobile app work as expected upon release.| **Recommendation**: Conduct User Acceptance Testing (UAT)|
+| 4 | Replicate a Veteran’s reported issue using a test account to understand errors and workflow blockers. | **Recommendation**: Better staging data |
+| 5 | Guide a Veteran through a process like prescription refills or secure messaging without exposing real PII. |**Recommendation**: Demo mode|
+| 6 | Show VA clinicians or pharmacists how features such as secure messaging or pharmacy tools appear to Veterans.| **Recommendation**: Demo mode|
+| 7 | Orient new staff with hands-on experience using Veteran-facing tools in a controlled setting. | **Recommendation**: Demo mode|
+| 8 | Use a test account to present live demos to stakeholders showcasing the Veteran experience. | **Recommendation**: Demo mode|
 ```
 
 ### Most Significant Use Case
