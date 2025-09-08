@@ -6,7 +6,7 @@ This file tracks the key decisions made for the Picklist project.
 
 For any substanial decision to make or made by the team, add it here. Substantial is defined as a decision the team may regret forgetting later. Some examples include: Project scope, design decisions, technical decisions, etc. You should still document those decisions in tickets, but pull substantial ones out here for easier future reference. Whenever possible, link to existing tickets for better context.
 
-## Decisions to make for the picklist in Dependent Verification
+## Decisions to make for the picklist in Add/Remove Dependents
 
 | Date added | Decision | Background | Why make this decision |
 | :--- | :--- | :--- | :--- |
