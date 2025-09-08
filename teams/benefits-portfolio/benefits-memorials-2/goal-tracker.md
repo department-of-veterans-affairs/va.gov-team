@@ -134,7 +134,7 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 |UX: Create designs to improve readability of payment history pages with lengthy statements by adding a pagination component. | QP3 |--|--|--|
 |ENG: In accordance with Platform updates, address imposter components related to continue and back buttons.| QP7 |--|--|--|
 |ENG: Finalize remaining artifacts for One Thing Per Page Staging Review:  QA Artifacts, Release Plan, and Playbook.| QP2 |--|--|--|
-|ENG: Prepare to submit 3 payment history PR’s for Platform approval (without merging) in preparation for Lighthouse API credentials.| QP3 |--|--|--|
+|ENG: Prepare to submit 3 payment history PR’s for Platform approval (without merging) in preparation for Lighthouse API credentials.| QP3 |--|09/08/25|Completed|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
  - [X] Ready to be sent for approvals (08/26/25)
