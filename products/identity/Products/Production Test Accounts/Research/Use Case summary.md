@@ -1,4 +1,3 @@
-
 | # | Prod Test Account Use Cases | Production Workaround / Note|
 |--|--|--|
 | 1 | Validate that external integrations work correctly in production for authentication and data flow. | Backend testing available in prod but without frontend|
@@ -9,7 +8,7 @@
 | 6 | Show VA clinicians or pharmacists how features such as secure messaging or pharmacy tools appear to Veterans.| **Recommendation**: Demo mode|
 | 7 | Orient new staff with hands-on experience using Veteran-facing tools in a controlled setting. | **Recommendation**: Demo mode|
 | 8 | Use a test account to present live demos to stakeholders showcasing the Veteran experience. | **Recommendation**: Demo mode|
-```
+
 
 ### Most Significant Use Case
 
