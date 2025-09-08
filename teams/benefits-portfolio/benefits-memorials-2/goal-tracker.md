@@ -130,9 +130,9 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 ## Sprint Goals - Sprint: 16 [8/27/25 - 9/9/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
-|UX: Update pay.gov overpayment designs after receiving stakeholder feedback.| QP4 |--|--|--|
-|UX: Create designs to improve readability of payment history pages with lengthy statements by adding a pagination component. | QP3 |--|--|--|
-|ENG: In accordance with Platform updates, address imposter components related to continue and back buttons.| QP7 |--|--|--|
+|UX: Update pay.gov overpayment designs after receiving stakeholder feedback.| QP4 |--|09/08/25|Completed|
+|UX: Create designs to improve readability of payment history pages with lengthy statements by adding a pagination component. | QP3 |--|09/05/25|Completed|
+|ENG: In accordance with Platform updates, address imposter components related to continue and back buttons.| QP7 |--|--|Incomplete|
 |ENG: Finalize remaining artifacts for One Thing Per Page Staging Review:  QA Artifacts, Release Plan, and Playbook.| QP2 |--|--|--|
 |ENG: Prepare to submit 3 payment history PR’s for Platform approval (without merging) in preparation for Lighthouse API credentials.| QP3 |--|09/08/25|Completed|
 
@@ -145,6 +145,8 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 **_Delivery + Notes:_**
 - [ ] All goals have been updated in the sprint chart
 - [ ] Any Additional details about goals **not** completed will be documented here
+- ENG: In accordance with Platform updates, address imposter components related to continue and back buttons.
+     -This ticket was moved out of the sprint to prioritize a more pressing initiative.
 
 ## Sprint Goals - Sprint: 17 [9/10/25 - 9/23/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
