@@ -13,4 +13,10 @@ This is a working file to begin to capture structured content for forms.
 - **Supporting forms:** Same as above, we'll want to establish the supporting form relationship. 
 - **Parallel, or combined, form:** We are in the process of combining some forms online, so we'll need a way to address this in the model.
 - **Form type:** Let's consider how best to capture form type (i.e. application, etc.).
+- **Who can submit this form:** Let's consider how best to capture form audiences/submitter. Some forms will have multiple people who need to fill out the form. 
+- **Privacy statement:** Would be great to be able to include the privacy statement in the content model, whether for current or future needs. Possibly other statements/areas like this. Let's consider more.
+- **When to use this form:** Plain language instructions on when to use this form.
+- **What to know before you fill out this form:** Any specific warnings, disclaimers, etc. a person needs to know before filling out the form. 
+- **Information you'll need to fill out this form:** Bulleted list of information and documents you'll need to submit this form.
 - **
+
