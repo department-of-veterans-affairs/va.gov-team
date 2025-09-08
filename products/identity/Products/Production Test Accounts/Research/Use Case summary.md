@@ -2,7 +2,7 @@
 
 ## Overview
 
-These are use cases for which VA and Oracle Health staff are currently utilizing production MHV user ID and password test accounts. We need to transition this entire infrastructure away from the MHV user ID and password so we can retire it in its entirety.
+These are use cases for which VA and Oracle Health staff are currently utilizing the production test accounts we'd like to retire.
 
 ### Internal VA use cases
 
@@ -25,5 +25,5 @@ These are use cases for which VA and Oracle Health staff are currently utilizing
 
 | # | Prod Test Account Use Cases | Production Workaround / Note|
 |--|--|--|
-| 1 | Oracle health staff: Validate that Oracle Health and other external integrations work correctly in production for authentication and data flow. |**Recommendation**: Do nothing. Oracle Health staff can leverage MHV user ID and password until 10/2026.|
-| 2 | Oracle health help desk: Replicate a Veteran’s reported issue to understand errors and workflow blockers. | **Recommendation**: Do nothing. Oracle Health staff can leverage MHV user ID and password until 10/2026.|
+| 1 | Oracle health staff: Validate that Oracle Health and other external integrations work correctly in production for authentication and data flow. |**Recommendation**: Do nothing. Oracle Health staff can leverage prod test accounts until 10/2026.|
+| 2 | Oracle health help desk: Replicate a Veteran’s reported issue to understand errors and workflow blockers. | **Recommendation**: Do nothing. Oracle Health staff can leverage prod test accounts until 10/2026.|
