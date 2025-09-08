@@ -13,12 +13,14 @@ assignees: artsymartha68, lakper, sara-amanda
 
 ## About Your Team
 
-- **Product name**:
-- **Team name**:
-- **OCTO product owner**:
-- **Product manager**:
-- **Designer(s)**:
-- **Slack channel**: `Link to channel`
+- **Product name**: `Product name goes here`
+    - [ ] Add your product label to this ticket
+- **Team name**: `Team name goes here`
+    - [ ] Add your team label to this ticket
+- **OCTO product owner**: `OCTO PO goes here`
+- **Product manager**: `PM name goes here`
+- **Designer(s)**: `Name of designer(s)`
+- **Slack channel**: `Link to channel(s)`
 - **Dedicated accessibility specialist on your team** (if you have one):
 - **Accessibility Champ** (if you have one):
 
