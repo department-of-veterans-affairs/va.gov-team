@@ -151,13 +151,13 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 ## Sprint Goals - Sprint: 17 [9/10/25 - 9/23/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
-|UX: X| QPX |--|--|--|
-|UX: X | QPX |--|--|--|
-|ENG: X | QPX |--|--|--|
-|ENG: X | QPX |--|--|--|
+|UX: Review the designs and userflows for pay.gov overpayments with ENG and determine feasibility and update mockups accordingly.| QP4 |--|--|--|
+|UX: Investigate, identify and work with stakeholders on ways to improve the Marital Status question on the FSR, to cover all situations/scenarios referenced in the Medallia reports.| QP7 |--|--|--|
+|ENG: Launch the refactored, asynchronous Sidekiq job for Digital Dispute and monitor metrics, including creation of monitors for critical metrics.| QP1 |--|--|--|
+|ENG: Complete all remaining One Thing Per Page work and book Staging Review.| QP2 |--|--|--|
 
 **_Approvals:_** _(sent via email but approvals tracked here)_
- - [ ] Ready to be sent for approvals (09/08/25)
+ - [X] Ready to be sent for approvals (09/08/25)
  - [ ] VA PO & COR sent the Sprint Goals (09/08/25)
  - [ ] VA PO approved the Sprint Goals (09/XX/25)
  - [ ] VA COR approved the Sprint Goals (09/XX/25)
