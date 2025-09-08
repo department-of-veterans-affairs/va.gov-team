@@ -40,7 +40,7 @@ CHECK SLACK for real-time feedback or questions from observers
 
 Thanks for joining us today! My name is **Christine**. How are you doing today?
 
-I have a colleague with us in this session who will be taking notes. 
+I have a colleague with us in this session who will be taking notes **Notetaker First Name** and our accessibility specialist **Cindy** will be on the call available to provide support with any technical issues that may arise with your use of assistive technology should you need it.
 
 There are a few of my teammates who would like to observe this session as well. **Would it be OK with you if I invited them to join us?**
 - *(If participant seems hesitant or unsure or uncomfortable)* Just so you know, my teammates will be muted and off camera and you won't have to interact with them. You also have the option to keep the session just the two of us plus the notetaker (and the technical support person).
@@ -54,7 +54,7 @@ Today we're going to talk about filling out forms from the VA mobile app. I'm go
 
 Before we start, I want to go over a few things:
 
-- **This entire session may take 120 minutes.** I want to be sure not to keep you longer, so I may occasionally prompt you with the next question or topic.
+- **This entire session may take 90 minutes.** I want to be sure not to keep you longer, so I may occasionally prompt you with the next question or topic.
   
 - **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your knowledge or abilities. We're testing an app to learn how we can make it easier to use. I welcome any and all of your feedback, and I won't be offended by any opinions you express.
 - **Your participation in this interview is completely voluntary.** Whether or not you choose to participate will not affect your benefits with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Just let me know.
@@ -98,9 +98,9 @@ Let’s start with a few questions...
 
 4. What is the default web browser set up on your device? *(Chrome / Firefox / Edge / Safari / _______)*
 
-5. What AT are you using right now?
+5. What type of assistive technology are you using right now?
 
-6. How many years have you been using AT?
+6. How many years have you been using [assistive technology]?
 
 7. When or how often do you use it?
 
@@ -137,7 +137,9 @@ Did you previously receive the link and instructions to download the testing ver
 
 Y - Were you able to download the app via those instructions? Y - skip down to note for all users
 
-N - I will now share in the zoom chat the URL: that takes you to download the testing app **[iOS url here](https://testflight.apple.com/join/RrO0Cw2q)** -- **[Android link](https://appdistribution.firebase.dev/i/6bea6c3fabc1a872)** Build #2726, build version 2.56.0
+N - I can now share the URL: that takes you to download the testing app, How would you prefer to receive the URL? I could dictate it to you, put it in the Zoom chat, email it to you, or (for smartphone only) text it to you.
+**[iOS url here](https://testflight.apple.com/join/RrO0Cw2q)**  
+**[Android link](https://appdistribution.firebase.dev/i/6bea6c3fabc1a872)** Build #903, build version 2.56.1
 - *(If asked, reassure that this is a legitimate link to what I want you to test)*
 
 Did you get the link? 
@@ -147,12 +149,12 @@ Did you get the link?
 
 Please click the (green) "Continue" button.
 
-Instructions to access prototype (must access from your mobile device):
+Instructions to access prototype for **iOS users**(must access from your mobile device):
 1. Use the link provided to install test flight on your mobile device.
 2. Once you've installed it (or if you already have it installed), select step 2 "view in test flight" from your mobile device.
 3. Under App Informaton at the bottom of the screen, select "Previous builds"
-4. Select the VA Health and Benefits mobile app version: 2.55.1
-5. Select 'Install' button next to correct build number 2871 (may have to select Load more builds to find version).
+4. Select the VA Health and Benefits mobile app version: 2.56.1
+5. Select 'Install' button next to correct build number 2903 (may have to select Load more builds to find version).
 6. It can take a few minutes to download.
 7. Once downloaded select "next".
 8. Select "start testing" from the Share feedback screen.
@@ -175,9 +177,9 @@ Instructions to access prototype (must access from your mobile device):
 
 
 ## Task 1: Login to the VA Health and Benefits mobile app
-[start on the VA Health and Benefits mobile app version: 2.54.1.QA (2825)]
+[start on the VA Health and Benefits mobile app version: 2.56.1.QA (2903)]
 
-I'd like you to take a look at this screen, and sign in. The system will automatically generate a test user login for you and assume credentials. 
+I'd like you to take a look at this screen, and sign in. This will happen automatically once you select sign in. So you don’t need to type anything.
 
 As we go through the steps in this study, please talk aloud about what you're thinking BEFORE clicking on anything. And please share any thoughts, reactions, or questions you have about the current screen. 
 
@@ -225,7 +227,7 @@ Please fill out this form to submit your statement, but I want you to use fake d
 
 Other than the SSN error, Did you encounter any issues using your [screen reader/assistive tech/device]? 
 
-Was any part hard to navigate or understand?
+What did you find difficult about doing this task?
 
 
 ## Task 4: (After SSN before 'Continue') take a break in filling out the form
@@ -259,11 +261,9 @@ Pretend you are ready to come back to your previous form to complete it. Please 
 
 ### Questions for testing participant: 
 
-Did you encounter any issues using your [screen reader/assistive tech/device]? 
+What type of issues, if any, did you encounter during this task? [screen reader/assistive tech/device]? 
 
-Did you find navigation particularly challenging in any way?
-
-If Y, why?
+What did you find challenging about navigation during this task?
 
  
 ### Task 6: View submitted form
@@ -320,8 +320,6 @@ If you navigate to your device home screen, and engage the menu screen of the VA
 ## Thank You and Closing - 3 minutes
 
 **How did you find this process overall?**
-
-**Was there any part that felt especially frustrating or mentally tiring?**
 
 **Are you still okay if we use any video or audio clips from this session?** 
 - *(yes / no)*
