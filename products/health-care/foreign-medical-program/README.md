@@ -1,1 +1,2 @@
-This is a dedicated product folder for the VA Foreign Medical Program applications. 
+This is a dedicated product folder for the VA Foreign Medical Program forms. 
+It contains design and research artifacts for the VA forms [10-7959f1](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/foreign-medical-program/10-7959f-1) (FMP registration) and [10-7959f2](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/foreign-medical-program/10-7959f-2) (FMP claims)
