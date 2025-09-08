@@ -12,14 +12,6 @@ Create a online experience for Caregivers to apply for, track, and manage benefi
 - `#vsa-10-10`
 
 
-### Points of Contact 
-
-- OCTO-DE Product: Lauren Alexanderson 
-- Product Management:  Heather Justice and Mark Fallows
-- Front-End Engineering: Lisa Zapon and Matt Long
-- Back-End Engineering: Lihan Li
-- Research and Design: Dené Gabaldón and Nick Osmanski
-
 ### Key Documents
 
 - [Team Charter](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/health-products/caregiver/team-charter.md)

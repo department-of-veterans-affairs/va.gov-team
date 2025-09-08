@@ -1,151 +1,53 @@
 # Teams
 
+## ⚠️ Team Information Has Moved
+
+**Team rosters, organizational details, and sensitive team information have been migrated to our private repository to protect team member privacy while keeping product documentation public.**
+
+### For VA Team Members
+
+- **Access team information:** Log into our private repository where team rosters and organizational details are now maintained
+- **Update your team info:** Follow the same process in the private repository using the updated templates and instructions
+
+### For External Contributors and General Public
+
+- **Product documentation:** All product-related documentation remains available in the [/products](../products/README.md) directory
+- **Platform tools and services:** See [VA Platform documentation](https://depo-platform-documentation.scrollhelp.site/)
+- **General team information:** The high-level team structure and product ownership information below is maintained for transparency
+
 ## On this page
 
-- [About Teams](#about-teams)
-- [Required documentation](#required-documentation)
-- [About this manifest](#about-this-manifest)
-- [Current team manifest](#current-team-manifest)
+- [About this transition](#about-this-transition)
+- [Product information](#product-information)
+- [Team structure overview](#team-structure-overview)
 
-## About Teams
+## About this transition
 
-This space is for all teams currently working on and with the VA.gov platform and the VA Health and Benefits mobile application. Teams should utilize this space for team info. However, project-specific documentation should go into /products.
+This space previously contained detailed team rosters and organizational information. To better protect team member privacy while maintaining transparency around our work, we've implemented a dual-repository approach:
 
-- If you are looking for documentation on VA.gov user-facing products, please see [/products](../products/README.md).
-- If you are looking for documentation on the tools and services provided by the platform, please see [VA Platform documentation](https://depo-platform-documentation.scrollhelp.site/).
+- **Private repository:** Contains sensitive team information, rosters, and organizational details
+- **Public repository:** Maintains product documentation, high-level team structure, and public-facing information
 
-## Required documentation
+## Product information
 
-- **Team README.md file.** Teams must have a team README.md file. This file is used to produce the new Team and Product Manifest and will be enforced upon entry into the Collaboration Cycle. Use the provided [template](team-readme-template.md) and follow the [instructions](team-readme-instructions.md).
-- **Team charter.** Teams may also created a team charter using the provided [team charter template](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/team-charter-template.md).
+Product documentation and details remain fully accessible in the public repository:
 
-## About this manifest
+- **Product directory:** All user-facing products are documented in [/products](../products/README.md)
+- **Platform tools and services:** See [VA Platform documentation](https://depo-platform-documentation.scrollhelp.site/)
 
-Manifest is a new series of scripts and files that aims to replace the VFS Product Directory and augment parts of Atlas. You can follow along in this [initiative](https://github.com/department-of-veterans-affairs/va.gov-team/issues/59141).
+## Team structure overview
 
-### Problem to be solved
+For reference, our teams are organized into the following portfolios. Detailed team information is maintained in our private repository.
 
-Currently, there are multiple lists of teams:
+### Portfolio Structure
 
-- [Atlas](https://www.va.gov/atlas/)
-- [VFS Product Directory](https://depo-platform-documentation.scrollhelp.site/getting-started/vfs-product-directory)
+- **Benefits Portfolio:** Teams working on benefits-related products and services
+- **Digital Experience Portfolio:** Teams working on platform services, sitewide features, and infrastructure  
+- **Health Portfolio:** Teams working on health care products and My HealtheVet integration
+- **BAM Portfolio:** Teams working on burial/memorial and education benefits
 
-Unfortunately, neither is complete nor up-to-date. The Platform Services & Governance crew in Digital Experience is working towards a new solution that will use the README.md files for each team in the following portfolio directories:
+### Collaboration and Contact
 
-1. teams/benefits-portfolio
-2. teams/digital-experience
-3. teams/health-portfolio
-4. teams/bam-portfolio
-
-Those readme files will be linted upon update to retain the formatting of key sections such as "Team Information". Those files will also point to YAML files for each product that the team owns in [products](../products/). This will in turn allow us to aggregate a list of both teams and products. The goal is to provide a simple way for teams to maintain their own information while still providing the Platform with a source of truth for the teams operating on the platform. Watch this space.
-
-There is also a current list of [crews and pods](crews-and-pods.md).
-
-## Current team manifest
-
-### Digital Experience
-
-#### Content, IA, and Editor Experience
-
-- [Content and Information Architecture](digital-experience/content-and-information-architecture/README.md)
-
-#### Core Veteran Experiences
-
-- [Authenticated Experience](digital-experience/authenticated-experience/README.md)
-  - [Current Collab Cycle work](https://github.com/orgs/department-of-veterans-affairs/projects/998/views/15?filterQuery=label%3A%22authenticated-experience%22+status%3A%22In+Progress%22)
-- [Digital Notifications](digital-experience/digital-notifications/README.md)
-- [Financial Management](digital-experience/financial-management/README.md)
-- [Iterate, Innovate, and Run](digital-experience/iterate-innovate-and-run/README.md)
-  - [Current Collab Cycle work](https://github.com/orgs/department-of-veterans-affairs/projects/998/views/15?filterQuery=label%3A%22va-iir%22+status%3A%22In+Progress%22)
-- [Mobile App and Platform](digital-experience/mobile-app-and-platform/README.md)
-- [Mobile Feature Support](digital-experience/mobile-feature-support/README.md)
-  - [Current Collab Cycle work](https://github.com/orgs/department-of-veterans-affairs/projects/998/views/15?filterQuery=label%3A%22team-MFS%22+status%3A%22In+Progress%22)
-- [Veteran Support](digital-experience/veteran-support/README.md)
-
-#### Identity
-
-- [Identity](digital-experience/identity/README.md)
-
-#### Platform Services and Governance
-
-- [ADE](digital-experience/ADE/README.md)
-- [Analytics and Insights](digital-experience/analytics-and-insights/README.md)
-- [Design & Forms Systems](digital-experience/design-forms-systems/README.md)
-  - [Current Collab Cycle work](https://github.com/orgs/department-of-veterans-affairs/projects/998/views/15?filterQuery=label%3A%22platform-design-system-team%22+status%3A%22In+Progress%22)
-- [Governance](digital-experience/governance/README.md)
-- [Platform Support](digital-experience/platform-support/README.md)
-
-#### Veteran-Facing Platforms
-
-- [Content Management System](digital-experience/cms/README.md)
-- [Platform Infrastructure Services](digital-experience/platform-infrastructure-services/README.md)
-- [Platform Security](digital-experience/platform-security/README.md)
-- [Platform Site Reliability Engineering](digital-experience/platform-sre/README.md)
-
-### Benefits Portfolio
-
-#### Accredited Reps Crew
-
-- [Accredited Representation Management](benefits-portfolio/accredited-representation-management/README.md)
-- [Accredited Representative Facing 1](benefits-portfolio/accredited-representatitive-facing-1/README.md)
-- [Accredited Representative Facing 2](benefits-portfolio/accredited-representatitive-facing-2/README.md)
-
-#### Cross-Benefits Crew
-
-- [Benefits Management Tools 1](benefits-portfolio/benefits-management-tools-1/README.md)
-- [Benefits Management Tools 2](benefits-portfolio/benefits-management-tools-2/README.md)
-- [Benefits Management Tools 3](benefits-portfolio/benefits-management-tools-3/README.md)
-- [Decision Reviews](benefits-portfolio/decision-reviews/README.md)
-  - [Current Collab Cycle work](https://github.com/orgs/department-of-veterans-affairs/projects/998/views/15?filterQuery=label%3A%22Decision-Reviews-Team%22+status%3A%22In+Progress%22)
-- [Dependents Management](benefits-portfolio/dependents-management/README.md)
-  - [Current Collab Cycle work](https://github.com/orgs/department-of-veterans-affairs/projects/998/views/15?filterQuery=label%3A%22dependents-benefits%22+status%3A%22In+Progress%22)
-- [Employee Experience](benefits-portfolio/employee-experience/README.md)
-  - [Current Collab Cycle work](https://github.com/orgs/department-of-veterans-affairs/projects/998/views/15?filterQuery=label%3A%22Employee+Experience%22+status%3A%22In+Progress%22)
-
-#### Disability Benefits Crew
-
-- [Conditions](benefits-portfolio/conditions/README.md)
-- [Disability Benefits 1](benefits-portfolio/disability-benefits-1/README.md)
-  - [Current Collab Cycle work](https://github.com/orgs/department-of-veterans-affairs/projects/998/views/15?filterQuery=label%3A%22disability-benefits%22+status%3A%22In+Progress%22)
-- [Disability Benefits 2](benefits-portfolio/disability-benefits-2/README.md)
-
-#### Lifestage Benefits Crew
-
-- [Pension Benefits 1](benefits-portfolio/pension-benefits-1/README.md)
-  - [Current Collab Cycle work](https://github.com/orgs/department-of-veterans-affairs/projects/998/views/15?filterQuery=label%3A%22benefits-pension%22+status%3A%22In+Progress%22)
-- [Pension Benefits 2](benefits-portfolio/pension-benefits-2/README.md)
-
-### Health Portfolio
-
-#### MHV on VA.gov Patient Portal
-
-- [Horizon](health-portfolio/horizon/README.md)
-  - [Current Collab Cycle work](https://github.com/orgs/department-of-veterans-affairs/projects/998/views/15?filterQuery=label%3A%22mhv-horizon%22+status%3A%22In+Progress%22)
-- [Medical Records](health-portfolio/medical-records/README.md)
-  - [Current Collab Cycle work](https://github.com/orgs/department-of-veterans-affairs/projects/998/views/15?filterQuery=label%3A%22TEAM-mhv-medical-records%22+status%3A%22In+Progress%22)
-- [Medications, Medical Devices and Supplies](health-portfolio/medications-medical-devices-supplies/README.md)
-- [Messaging](health-portfolio/messaging/README.md)
-
-#### Unified Appointment Experience
-
-- [Hydra](health-portfolio/hydra/README.md)
-- [Orion](health-portfolio/orion/README.md)
-- [Ursa Minor](health-portfolio/ursa-minor/README.md)
-  - [Current Collab Cycle work](https://github.com/orgs/department-of-veterans-affairs/projects/998/views/15?filterQuery=label%3A%22appointments%22+status%3A%22In+Progress%22)
-
-#### VA Health Applications
-
-- [1010 Health Apps](health-portfolio/1010-health-apps/README.md)
-- [IVC Forms](health-portfolio/ivc-forms/README.md)
-
-### BAM Portfolio
-
-#### Education
-
-- [Education Benefits Tools](bam-portfolio/education-benefits-tools/README.md)
-  - [Current Collab Cycle work](https://github.com/orgs/department-of-veterans-affairs/projects/998/views/15?filterQuery=label%3A%22gi-comparison-tool%22+status%3A%22In+Progress%22)
-
-#### Memorials
-
-- [Memorials Self-Service](bam-portfolio/memorials-self-service/README.md)
-  - [Current Collab Cycle work](https://github.com/orgs/department-of-veterans-affairs/projects/998/views/15?filterQuery=label%3A%22bah-mbs-selfserv%22+status%3A%22In+Progress%22)
+- **General inquiries:** Use the [#vfs-all-teams](https://dsva.slack.com/channels/vfs-all-teams) Slack channel
+- **Platform support:** See [VA Platform documentation](https://depo-platform-documentation.scrollhelp.site/) for support channels
+- **Product-specific questions:** Contact information is available in individual product documentation in [/products](../products/README.md)
