@@ -205,6 +205,10 @@ Moderated usability testing using high-fidelity Figma prototypes over Zoom. Part
 
 The prototype simulated the mobile app's MVP debt portal where users can view details on their copays and overpayment debts, and also simulated the journey of leaving the mobile app to access payment portals via a web browser.
 
+- The two flows, overpayment debts and copayment bills, were tested separately within the prototype. Half the participants saw the overpayment flow, and half saw the copayment flow. Depending on time, they sometimes also experienced the other flow.
+- Participants were first shown a version of the prototype that did not have any payment links or mention of how to make payments. After getting feedback on the initial version, participants were then shown a second version that included the payment option to open the portals in a browser.
+
+
 Sessions also included semi-structured interview questions. These questions explored:
 
 - Experiences and awareness of debt before accessing the app
@@ -256,6 +260,8 @@ Note on Accessibility: Due to prototype limitations, this study did not include 
 
 
 ## Details of Findings 
+
+_Note: there are two distinct flows within this section of money that Veterans owe to the VA: overpayments and copayments. Any mention of debt refers to overpayments, and bills refer to copayments._
 
 ### Finding 1: Despite their frustrations with the payment process on mobile, participants preferred having this option over a version that only allowed viewing debt and bills.
 
