@@ -1,6 +1,6 @@
 ## Login.gov test account creation guide
 
-This guide provides step-by-step instructions for setting up a Login.gov account for development and testing in lower environments on VA.gov. For more details on Login.gov user account creation and the Login.gov sandbox environment see the [Login.gov sandbox environment documentation](https://developers.login.gov/testing/#testing-identity-proofing).
+Follow these step-by-step instructions to create a Login.gov account for development and testing in lower environments on VA.gov. For more details on Login.gov user account creation and the Login.gov sandbox environment see the [Login.gov sandbox environment documentation](https://developers.login.gov/testing/#testing-identity-proofing).
 
 ### Standard Login.gov account creation flow
 1. Navigate to https://dev.va.gov or https://staging.va.gov and click the **Sign in button** to open the sign-in modal and select **Login.gov**.
@@ -19,14 +19,15 @@ This guide provides step-by-step instructions for setting up a Login.gov account
 	
 5. Agree to the Login.gov terms of use for verification, then select if you want to use a mobile device or your current computer to submit verification photos. Either method will work and not require actual identity documentation.
 
-> [!NOTE]  
-> If you want to upload custom account attributes for your test users, such as a specific name or address, [upload a YAML file when you're prompted to upload identity documents](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Test%20User%20Account%20Creation%20-%20Lowers/logingov_test_user_creation.md#custom-logingov-account-attributes). 
-
 <img width="1063" height="755" alt="phone_or_computer" src="https://github.com/user-attachments/assets/af51035e-0fe1-4ef3-9739-7fdee8e845b1" />
 
 6. Login.gov will request front and rear photos of an accepted photo ID, but in the lower environments it will accept anything that is card-shaped and not perform actual validations on the information in the photo.
 
-    <img width="706" height="1088" alt="photo_ids" src="https://github.com/user-attachments/assets/4cd7988f-5370-4a9a-8546-a2ff012ed6a6" />
+> [!NOTE]  
+> If you want to upload custom account attributes for your test account, [upload a YAML file](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Test%20User%20Account%20Creation%20-%20Lowers/logingov_test_user_creation.md#custom-logingov-account-attributes) during this step instead of image files.
+
+<img width="706" height="1088" alt="photo_ids" src="https://github.com/user-attachments/assets/4cd7988f-5370-4a9a-8546-a2ff012ed6a6" />
+
 7. After you submit your identity card photos Login.gov will accept them and request your Social Security Number (SSN). 
 
 > [!IMPORTANT]  
