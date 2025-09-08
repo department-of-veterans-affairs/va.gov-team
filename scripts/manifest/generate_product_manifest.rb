@@ -274,7 +274,7 @@ class ProductManifestGenerator
           if measurement['research_repo'] && 
              !measurement['research_repo'].match?(/^https?:\/+\.\.\./) &&
              !measurement['research_repo'].match?(/^https?:\/+\s*$/) &&
-             !measurement['research_repo'].match?(/^https:\/\/github\.com\/department-of-veterans-affairs\/va\.gov-research-repository\/issues$/) &&
+             !measurement['research_repo'].match?(%r{^https://github\.com/department-of-veterans-affairs/va\.gov-research-repository/issues$}) &&
              !measurement['research_repo'].empty?
             content << "  - [Research Repository](#{measurement['research_repo']})"
           end
