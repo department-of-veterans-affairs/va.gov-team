@@ -6,8 +6,8 @@ These are use cases for which VA and Oracle Health staff are currently utilizing
 
 | # | Prod Test Account Use Cases | Production Workaround / Note|
 |--|--|--|
-| 1 | Validate that external integrations work correctly in production for authentication and data flow. | Backend testing available in prod but without frontend|
-| 2 | Reproduce and validate bug fixes to ensure prior issues are resolved without breaking other functionality. | Workarounds exist, but challenging with external integrations |
+| 1 | Validate that Oracle Health and other external integrations work correctly in production for authentication and data flow. |**Recommendation**: For Oracle Health; utilize backend testing infrastucture that is currently in place. TBD -- do we need a frontend testing path? |
+| 2 | Reproduce and validate bug fixes to ensure prior issues are resolved without breaking other functionality. | **Recommendation**: Utilize Veteran employees for bug fixes and validating fixes|
 | 3 | Validate that new or updated features on VA.gov or the mobile app work as expected upon release.| **Recommendation**: Conduct User Acceptance Testing (UAT)|
 | 4 | Replicate a Veteran’s reported issue using a test account to understand errors and workflow blockers. | **Recommendation**: Better staging data |
 | 5 | Guide a Veteran through a process like prescription refills or secure messaging without exposing real PII. |**Recommendation**: Demo mode|
