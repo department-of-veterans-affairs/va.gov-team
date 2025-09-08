@@ -236,6 +236,13 @@ class ProductManifestGenerator
         if product[:measurement] && product[:measurement].any?
           measurement = product[:measurement]
           
+          if measurement['metrics_dashboard'] && 
+             !measurement['metrics_dashboard'].match?(/^https?:\/+\.\.\./) &&
+             !measurement['metrics_dashboard'].match?(/^https?:\/+\s*$/) &&
+             !measurement['metrics_dashboard'].empty?
+            content << "  - [Metrics Dashboard](#{measurement['metrics_dashboard']})"
+          end
+          
           if measurement['datadog_dashboard'] && 
              !measurement['datadog_dashboard'].match?(/^https?:\/+\.\.\./) &&
              !measurement['datadog_dashboard'].match?(/^https?:\/+\s*$/) &&
@@ -267,6 +274,7 @@ class ProductManifestGenerator
           if measurement['research_repo'] && 
              !measurement['research_repo'].match?(/^https?:\/+\.\.\./) &&
              !measurement['research_repo'].match?(/^https?:\/+\s*$/) &&
+             !measurement['research_repo'].match?(/^https:\/\/github\.com\/department-of-veterans-affairs\/va\.gov-research-repository\/issues$/) &&
              !measurement['research_repo'].empty?
             content << "  - [Research Repository](#{measurement['research_repo']})"
           end

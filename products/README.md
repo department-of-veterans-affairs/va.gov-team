@@ -42,18 +42,20 @@ This manifest lists all VA.gov products that have product details YAML files.
   - Status: 🟢 Active
   - Team: design-forms-systems
   - [Production URL](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/platform/forms-system)
+  - [Metrics Dashboard](https://design.va.gov/about/metrics/)
   - [Project Board](https://github.com/orgs/department-of-veterans-affairs/projects/1643/views/1)
 
 - [VA Design System (VADS)](products/platform/design-system/design-system-details.yml)
   - Status: 🟢 Active
   - Team: design-forms-systems
   - [Production URL](https://design.va.gov)
+  - [Metrics Dashboard](https://design.va.gov/about/metrics/)
   - [Project Board](https://github.com/orgs/department-of-veterans-affairs/projects/1643/views/1)
   - [Research Repository](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues?q=is%3Aissue%20state%3Aopen%20DSC)
 
 ---
 
-*Last updated: 2025-09-08 16:28:13*
+*Last updated: 2025-09-08 17:31:01*
 <details>
 <summary><h2>Archive: Previous Product Organization</h2></summary>
 

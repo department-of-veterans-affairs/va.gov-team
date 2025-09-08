@@ -18,7 +18,8 @@ class ProductDetailsValidator
     /team-name/,
     /Product label/,
     /https:\/\.\.\./, # URLs with just "https://..."
-    /https:\/\/\.\.\./
+    /https:\/\/\.\.\./,
+    /https:\/\/github\.com\/department-of-veterans-affairs\/va\.gov-research-repository\/issues$/ # Generic research repo placeholder
   ].freeze
 
   def initialize(repo_root: nil, output_file: nil, verbose: false, target_product: nil)

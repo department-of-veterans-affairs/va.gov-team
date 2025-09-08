@@ -1,16 +1,17 @@
 name: "Product Display Name"
 entry_name: "manifest-entry-name"  # Must match vets-website manifest.json
 description: "Product description"
-team: "team-name"  # MUST match teams/[portfolio]/[team-name]/ directory and team name in README.md
+team: "team-name"  # MUST match teams/[portfolio]/[team-name]/ directory and team name in va.gov-team-sensitive repo
 github-label: "Product label"
 urls:
   production: "https://..."
   staging: "https://..."
 manifest_url: "https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/[app-name]/manifest.json"
 measurement:
-  datadog_dashboard: "https://..."
-  domo_dashboard: "https://..."
-  google_analytics: "https://..."
-  project_board: "https://"
-  research_repo: "https://..."
+  datadog_dashboard: "https://..." # Link to Datadog dashboard
+  domo_dashboard: "https://..." # Link to DOMO dashboard (optional)
+  google_analytics: "https://..." # Link to Google Analytics dashboard
+  metrics_dashboard: "https://..." # Link to additional metrics dashboard (optional)
+  project_board: "https://" # Link to GitHub project board (optional)
+  research_repo: "https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues" # Link to VA research repository, filtering for this product tag
 status: "active" # active, maintenance, sunset
