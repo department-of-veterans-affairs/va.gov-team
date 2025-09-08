@@ -42,25 +42,25 @@ The results of the study will help us determine if Veterans who utilize assistiv
 ### Research questions
 **Research goal #1: Understand if Veterans using screen reader or screen magnifier technology can find and interact with forms from the app.**
 
-1. How easily can Veterans locate the forms section within the mobile app?
-2. What steps do Veterans take to start a new form from within the app?
-3. Are there any points of confusion or difficulty when Veterans attempt to start a new form?
+1. How easily can Veterans using a screen reader or screen magnifer locate the forms section within the mobile app?
+2. What steps do Veterans using a screen reader or screen magnifer take to start a new form from within the app?
+3. Are there any points of confusion or difficulty when Veterans using a screen reader or screen magnifer attempt to start a new form?
 
 **Research goal #2: Identify if Veterans using screen reader or screen magnifier technology can fill out a form from the app on their own.**
 
-4. Can Veterans independently complete all required fields in a form using the mobile app?
-5. Do Veterans understand the instructions and language used in the forms?
+4. Can Veterans using a screen reader or screen magnifer independently complete all required fields in a form using the mobile app?
+5. Do Veterans using a screen reader or screen magnifer understand the instructions and language used in the forms?
 6. How do Veterans interpret the status of the form once the form is submitted
-7. What challenges, if any, do Veterans encounter while entering information into the forms?
-8. What, if any, technical or design barriers prevent Veterans from successfully interacting with forms?
+7. What challenges, if any, do Veterans using a screen reader or screen magnifer encounter while entering information into the forms?
+8. What, if any, technical or design barriers prevent Veterans using a screen reader or screen magnifer from successfully interacting with forms?
 9. How do Veterans feel about the overall experience of using forms in the mobile app?
 
 **Research goal #3: Identify if Veterans using screen reader or screen magnifier technology can start a form and come back to it at a later time to complete.**
 
-10. Can Veterans locate and resume a form they previously started in the mobile app?
-11. Do Veterans encounter any challenges or confusion when attempting to access and complete a previously started form?
+10. Can Veterans using a screen reader or screen magnifer locate and resume a form they previously started in the mobile app?
+11. Do Veterans using a screen reader or screen magnifer encounter any challenges or confusion when attempting to access and complete a previously started form?
 12. What steps do Veterans take to find and finish a form they started earlier?
-13. Are there any barriers that prevent Veterans from successfully submitting a previously started form through the app?
+13. Are there any barriers that prevent Veterans using a screen reader or screen magnifer from successfully submitting a previously started form through the app?
 
 ### Hypotheses
 
