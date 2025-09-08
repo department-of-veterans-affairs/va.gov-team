@@ -26,4 +26,4 @@ These are use cases for which VA and Oracle Health staff are currently utilizing
 | # | Prod Test Account Use Cases | Production Workaround / Note|
 |--|--|--|
 | 1 | Oracle health staff: Validate that Oracle Health and other external integrations work correctly in production for authentication and data flow. |**Recommendation**: TBD|
-| 2 | Oracle health help desk: Replicate a Veteran’s reported issue using a test account to understand errors and workflow blockers. | **Recommendation**: TBD|
+| 2 | Oracle health help desk: Replicate a Veteran’s reported issue to understand errors and workflow blockers. | **Recommendation**: TBD|
