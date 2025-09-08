@@ -99,3 +99,5 @@ _Please Note: The Veteran-Facing Services Platform ATO boundary includes all env
 
 #### Data Flow Diagram
 The following is a data flow diagram that shows this product’s relationship to Platform:
+
+https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/engineering/collaboration-cycle/architecture-intent/diagrams/paperless-delivery/diagram.png
