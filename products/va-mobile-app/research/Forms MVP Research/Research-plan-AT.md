@@ -103,7 +103,7 @@ During the usability testing the following flow will test both:
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
 **For moderated usability tests:** 
-- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/Forms%20MVP%20Research/Conversation-guide.md)
+- [Link to conversation guide]([https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/Forms%20MVP%20Research/Conversation-guide.md](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/Forms%20MVP%20Research/Conversation-guide-AT.md))
 - [Link to prototype for iOS users](https://testflight.apple.com/join/RrO0Cw2q)
 - *Instructions to access prototype for iOS users(must access from your mobile device):
   1. Use the link provided to install test flight on your mobile device.
