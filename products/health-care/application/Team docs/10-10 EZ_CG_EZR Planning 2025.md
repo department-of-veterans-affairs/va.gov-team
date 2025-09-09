@@ -33,7 +33,7 @@
 - [ ] **SPRINT GOAL** [#112998](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112998) - [FE] Prefill Spouse information (Pending QA before merging)  - **Carry over to Sprint 3 due to Eng availability, bug fix & additional QA**
 
 #### Obj: EZR [Print/Save PDF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109746)
-- [ ] **SPRINT GOAL** [#109905](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109905) - [QA] PDF generation testing
+- [ ] **SPRINT GOAL** [#109907](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109907) - [Team] Phased launch
 
 #### Obj: EZR Household Confirmation flow
 - [ ] **Stretch** [#117847](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117847) - [Design, FE] Date of Marriage for Spouse card
@@ -43,6 +43,9 @@
 
 #### Obj: EZR [Veteran Info Confirmation flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/104124)
 - [ ] **SPRINT GOAL** [#117878](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117878) - [Design] Review existing designs to confirm direction
+
+#### Obj: [Add Service history](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77527)
+- [ ] **Stretch** [#113982(https://github.com/department-of-veterans-affairs/va.gov-team/issues/113982) - [Design] create/update designs with Service history pages
 
 
 ## 
