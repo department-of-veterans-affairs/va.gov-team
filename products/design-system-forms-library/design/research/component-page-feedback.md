@@ -9,7 +9,15 @@ The goal was to understand:
 - How well the current documentation supports those decisions.  
 - How the component checklist (and maturity levels) are perceived and used.  
 
-**Key themes include**: reliance on Storybook for engineers, reliance on search for designers, navigation complexity, content length, trust in maturity levels and checklists, accessibility of status indicators, and lack of built-in feedback options.  
+**Key themes include**: 
+- Reliance on Storybook for engineers
+- Reliance on search for designers
+- Navigation complexity
+- Content length
+- Trust in maturity levels and checklists
+- Accessibility of status indicators
+- Lack of built-in feedback options
+  
 The report also provides **direct quotes** to highlight user voices, a **role comparison table** (Designers vs. Engineers), and **recommendations** for improvement.  
 
 ---
