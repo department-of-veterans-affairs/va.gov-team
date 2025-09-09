@@ -1,0 +1,17 @@
+name: "10-10EZR"
+entry_name: "manifest-entry-name"  # Must match vets-website manifest.json
+description: "10-10EZR Veteran health update form"
+team: "1010 Health Apps"  # MUST match teams/[portfolio]/[team-name]/ directory and team name in va.gov-team-sensitive repo
+github-label: "1010-ezr"
+urls:
+  production: "https://www.va.gov/my-health/update-benefits-information-form-10-10ezr/introduction"
+  staging: "https://staging.va.gov/my-health/update-benefits-information-form-10-10ezr/introduction"
+manifest_url: "https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/[app-name]/manifest.json"
+measurement:
+  datadog_dashboard: "https://vagov.ddog-gov.com/dashboard/kjp-9wp-u47/10-10ezr?fromUser=false&refresh_mode=sliding&from_ts=1748201783568&to_ts=1750793783568&live=true" # Link to Datadog dashboard
+  domo_dashboard: "https://va-gov.domo.com/page/447193050" # Link to DOMO dashboard (optional)
+  google_analytics: "https://..." # Link to Google Analytics dashboard
+  metrics_dashboard: "https://..." # Link to additional metrics dashboard (optional)
+  project_board: "https://github.com/orgs/department-of-veterans-affairs/projects/1433" # Link to GitHub project board (optional)
+  research_repo: "https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22BNFT%3A%20Healthcare%22" # Link to VA research repository, filtering for this product tag
+status: "active" # active, maintenance, sunset
