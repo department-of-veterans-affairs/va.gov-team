@@ -546,7 +546,7 @@ Veterans will want to view their benefit overpayment and medical copayment debt 
 This research supports our desired business outcome by....
 
 
-## 🚧 🚧 🚧 Key Performance Indicators 🚧 🚧 🚧
+## Key Performance Indicators
 
 ### KPI 1: Total number of views of benefit overpayments and medical copayments.
 We expect this to be a non-zero amount and will increase once overpayments and copayments are viewable in the app. We will track the total number of views on a monthly basis.
@@ -558,7 +558,7 @@ We expect an increase in overall app volume as benefit overpayments and medical 
 
 - How findings support the KPI: Participants preferring the payment version of the app cited its usefulness, suggesting that the feature will attract new users and increase overall app engagement.
 
-### KPI 3: Total number of clicks on the link to access VA.gov.
+###  🚧 🚧 🚧 KPI 3: Total number of clicks on the link to access VA.gov.  🚧 🚧 🚧
 We expect that Veterans will want to make a payment towards their benefit overpayment and medical copayment debts, and that this non-zero amount will increase. We will track the total number of clicks on the link to access VA.gov on a monthly basis.
 
 - How findings support the KPI: 
@@ -578,8 +578,10 @@ We expect this to be a non-zero amount and want to track this as a metric to ass
 
 ~~- How findings support the KPI:~~
 
-## Next Steps 🚧
+## Next Steps
 
+ 🚧 🚧 🚧
+ 
 [Spreadsheet with recommendations and their statuses (Google Doc)](https://docs.google.com/spreadsheets/d/1b2y2qA8gWbx0GtgiDoCnUsUiYlQksZIuN6oCClm0458/edit?gid=2073713253#gid=2073713253&fvid=2013959249)
   - There will be a table here with each recommendation and the current status (e.g. designs have been updated, potential v2 feature)
   - Feedback needed: The "Recommendation Status" column – confirm, fix, or update cells as necessary
