@@ -5,19 +5,21 @@
 The 526EZ frontend was permitting malformed or partial dates (e.g., `XXXX-XX-XX`) to reach the backend.
 This ADR documents the implemented solution: a centralized date handling module that standardizes parsing, formatting, and validation across the entire form.
 
-- Owner: Frontend Team
-- Date: 2025-08-19
+- Owner: Disability Benefits Crew @ Pathways Team
 - Related Docs:
   - [Discovery Document #110024](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110024)
   - [Original Issue #108295](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108295)
   - [Implementation PR #38080](https://github.com/department-of-veterans-affairs/vets-website/pull/38080)
+  - [Toxic Exposure Opt-Out PR #38593](https://github.com/department-of-veterans-affairs/vets-website/pull/38593)
 
 ## Goals Achieved
 
-- [ ] Blocked submission of invalid toxic-exposure dates with data purge on opt-out
+- [x] Blocked submission of invalid toxic-exposure dates with data purge on opt-out
+- [x] Created clear migration path to modern JS date APIs
+- [x] Established comprehensive test coverage for all date scenarios
 - [ ] Standardized date operations via centralized utility module
-- [ ] Established comprehensive test coverage for all date scenarios
-- [ ] Created clear migration path to modern JS date APIs
+- [ ] Unblock all Veterans stuck on review and submit page
+- [ ] Reduce all 422 errors from Toxic Exposure to zero
 
 ## Problem Statement Addressed
 
@@ -26,12 +28,13 @@ The 526EZ form allowed inconsistent and malformed date values due to:
 - Missing validation in newer (V3) components
 - Fragmented and inconsistent use of date utilities
 - Partial dates not being cleaned or formatted correctly before submission
+- **Toxic exposure data persisting even when users selected "none" option**
 
-This resulted in backend rejections, broken submissions, and additional support/debugging cycles.
+This resulted in backend rejections, broken submissions, unnecessary data transmission, and additional support/debugging cycles.
 
 ## Technical Solution
 
-### Decision: Centralized Date Module with MomentJS
+### Decision: Centralized Date Module with MomentJS and Feature-Flagged Data Cleanup
 
 Created a comprehensive date handling module at `src/applications/disability-benefits/all-claims/utils/dates/` that:
 
@@ -40,6 +43,7 @@ Created a comprehensive date handling module at `src/applications/disability-ben
 - **Handles partial dates** with explicit support for `YYYY-XX-XX`, `XXXX-MM-XX`, and `YYYY-MM-XX` formats
 - **Integrates with platform utilities** to avoid duplication
 - **Provides product-specific operations** for unique business requirements
+- **Implements feature-flagged toxic exposure data cleanup** to remove unnecessary data when users opt out
 
 ### Module Structure
 
@@ -51,7 +55,11 @@ dates/
 ├── validations.js        # Date validation functions
 ├── product-specific.js   # Product-specific date operations
 ├── form-integration.js   # VA forms system integration
-└── README.md            # Module documentation
+└── README.md             # Module documentation
+
+utils/
+├── submit.js            # Form submission transformations including toxic exposure cleanup
+└── index.jsx            # Feature flag selectors and utility functions
 ```
 
 ## Implementation Details
@@ -64,6 +72,43 @@ dates/
 - **Partial Date Handlers**: `isMonthOnly()`, `isYearOnly()`, `isYearMonth()`
 - **Form Integration**: `dateFieldToISO()`, `isoToDateField()`, `validateFormDateField()`, `validateFormDateRange()`
 - **Product-Specific**: PTSD, toxic exposure, unemployability, hospitalization, and evidence date operations
+- **Toxic Exposure Cleanup**: `cleanToxicExposureData()` with feature flag control
+
+### Toxic Exposure Data Cleanup Implementation
+
+#### Feature Flag Configuration
+
+```javascript
+// Form526EZApp.jsx
+useFormFeatureToggleSync([
+  'disability526Enable2024Form4142',
+  'disability526ToxicExposureOptOutDataPurge',
+]);
+
+// utils/index.jsx
+export const showToxicExposureOptOutDataPurge = state =>
+  toggleValues(state).disability526ToxicExposureOptOutDataPurge;
+```
+
+#### Data Cleanup Logic
+
+```javascript
+// utils/submit.js
+export const cleanToxicExposureData = formData => {
+  // Check if the opt-out data purge feature flag is disabled
+  if (!formData.disability526ToxicExposureOptOutDataPurge) {
+    return formData; // Preserve all data when flag is off
+  }
+
+  // When user selects "none" for conditions, remove all toxic exposure data
+  if (hasOnlyNoneCondition(conditions)) {
+    return { ...clonedData, toxicExposure: { conditions: { none: true } } };
+  }
+
+  // Otherwise, clean up unselected locations and details
+  // ...existing cleanup logic
+};
+```
 
 ### Key Validations Implemented
 
@@ -83,7 +128,9 @@ dates/
 
 - Gulf War 1990 period: Aug 2, 1990 - Jul 31, 1991
 - Gulf War 2001 period: On or after Sep 11, 2001
-- Proper data cleanup on opt-out scenarios
+- **Proper data cleanup on opt-out scenarios (when feature flag enabled)**
+- **Removal of unselected location details and dates**
+- **Preservation of data when feature flag is disabled for backward compatibility**
 
 #### Age and Temporal Validation
 
@@ -98,6 +145,33 @@ dates/
 - **Root Cause**: V3 components bypassed schema validation, allowing `XX` formatted dates through
 - **Solution**: Added validation hooks at multiple levels with centralized validation logic
 - **Testing**: Comprehensive unit tests for all date paths including edge cases
+- **Data Cleanup**: Feature-flagged removal of unnecessary toxic exposure data on opt-out
+
+### Toxic Exposure Data Management
+
+#### The Problem
+
+When veterans selected "I did not have any of these toxic exposure risk activities" (none option), the form was still transmitting all previously entered toxic exposure data to the backend, including:
+
+- Gulf War location selections and dates
+- Herbicide exposure locations and dates
+- Other exposure details and specifications
+
+This created several issues:
+
+- **Data Privacy**: Transmitting data the veteran explicitly opted out of
+- **Backend Processing**: Unnecessary processing of irrelevant data
+- **Storage Overhead**: Storing data that should not be associated with the claim
+- **Confusion**: Potential for misinterpretation of the veteran's intent
+
+#### The Solution
+
+Implemented a feature-flagged approach to data cleanup:
+
+1. **Feature Flag Control**: `disability526ToxicExposureOptOutDataPurge` allows gradual rollout
+2. **Selective Cleanup**: When enabled, removes all toxic exposure data except the "none" selection
+3. **Backward Compatibility**: When disabled, preserves existing behavior for safety
+4. **Comprehensive Testing**: Added test coverage for both flag states
 
 ### Frontend-Backend Validation Mismatch Challenge
 
@@ -117,6 +191,7 @@ During implementation, we discovered several validation mismatches between front
 - **Date Range Logic**: Frontend validated date ranges differently than backend expectations
 - **Service Period Boundaries**: Frontend allowed dates outside service periods that backend would reject
 - **Future Date Limits**: Different thresholds for "too far in future" between FE (180 days) and BE (varies by field)
+- **Toxic Exposure Dates**: Frontend accepted dates for deselected locations that backend would process
 
 #### Implications for 526EZ Form
 
@@ -126,15 +201,17 @@ This architectural shift means:
 2. **Increased Testing Burden**: Need comprehensive integration tests to catch mismatches
 3. **Higher Risk of Production Issues**: Validation differences only discovered when forms reach backend
 4. **Documentation Critical**: Must document expected validations for both frontend and backend teams
+5. **Feature Flag Strategy**: Need controlled rollout for data structure changes
 
 #### Our Mitigation Strategy
 
-To address these challenges in the date module:
+To address these challenges in the date module and toxic exposure cleanup:
 
 1. **Defensive Validation**: Implemented stricter frontend validation to prevent any questionable data from reaching backend
 2. **Explicit Format Handling**: Clear handling of partial date formats with explicit validation rules
 3. **Backend Alignment Testing**: Added integration tests that verify backend acceptance of all date formats
 4. **Documentation of Rules**: Comprehensive documentation of all validation rules in module README
+5. **Feature Flag Protection**: Gradual rollout of data cleanup logic with monitoring
 
 ### Why MomentJS (Not date-fns or Luxon)
 
@@ -147,12 +224,14 @@ To address these challenges in the date module:
 
 ### Comprehensive Testing Implemented
 
-- [ ] All date formats including partial dates
-- [ ] Edge cases (leap years, dates before 1900, non-existent dates)
-- [ ] Product-specific validations (PTSD, toxic exposure, etc.)
-- [ ] Form integration scenarios
-- [ ] Validation error messages
-- [ ] Opt-out data cleanup scenarios
+- [x] All date formats including partial dates
+- [x] Edge cases (leap years, dates before 1900, non-existent dates)
+- [x] Product-specific validations (PTSD, toxic exposure, etc.)
+- [x] Form integration scenarios
+- [x] Validation error messages
+- [x] **Opt-out data cleanup scenarios with feature flag on/off**
+- [x] **Toxic exposure data preservation when flag disabled**
+- [x] **Selective data removal when flag enabled**
 
 ### Test Files Created/Updated
 
@@ -160,6 +239,8 @@ To address these challenges in the date module:
 - Date utility function tests
 - Integration tests for form submission
 - Validation rule tests for each date field type
+- **Toxic exposure cleanup tests (`clean-toxic-exposure-data.unit.spec.jsx`)**
+- **Feature flag state tests for data transformation**
 
 ## Technical Debt & Future Work
 
@@ -176,6 +257,7 @@ To address these challenges in the date module:
 - MomentJS deprecation warnings throughout module
 - ESLint rules disabled with documented reasons
 - Waiting for Node.js v20+ for Temporal API support
+- **Feature flag cleanup after successful rollout**
 
 ### Migration Plan to Temporal API
 
@@ -187,6 +269,16 @@ When Node.js is upgraded to v20+ and Temporal API is stable:
 4. Update tests to verify compatibility
 5. Remove MomentJS dependency and ESLint disables
 
+### Feature Flag Retirement Plan
+
+After successful production validation:
+
+1. Monitor metrics for toxic exposure submission success rates
+2. Verify no increase in backend rejections
+3. Confirm data cleanup working as expected
+4. Remove feature flag check, making cleanup permanent
+5. Clean up associated test code for flag states
+
 ## Outcomes & Impact
 
 ### Positive Outcomes
@@ -197,18 +289,24 @@ When Node.js is upgraded to v20+ and Temporal API is stable:
 - **Better test coverage** with focused test files
 - **Clear migration path** to Temporal API
 - **Reduced support burden** from date-related issues
+- **Improved data privacy** by not transmitting opted-out data
+- **Reduced backend processing** of unnecessary toxic exposure data
+- **Safer rollout** through feature flag protection
 
 ### Trade-offs Accepted
 
 - Continued MomentJS dependency despite deprecation
 - ESLint warnings that must be disabled
 - Technical debt until Temporal API migration
+- Temporary feature flag complexity for toxic exposure cleanup
+- Dual code paths during feature flag rollout period
 
 ### Performance Impact
 
 - No negative performance impact observed
 - MomentJS performance remains acceptable
 - Existing code continues to work (backward compatible)
+- Slight reduction in payload size when toxic exposure data removed
 
 ## Architectural Considerations
 
@@ -243,16 +341,19 @@ This creates gaps where:
 - Components may accept input that backends reject
 - Error messages differ between frontend and backend
 - Validation rules drift over time without detection
+- Data structure expectations diverge without notice
 
 ### Strategic Recommendations for Platform Team
 
-Based on our experience with date validation challenges, we recommend:
+Based on our experience with date validation challenges and toxic exposure data management, we recommend:
 
 - **Validation Contract Testing**: Establish contract tests between frontend and backend to catch validation mismatches early
 - **Shared Validation Library**: Consider a new shared validation library that both frontend and backend can consume
 - **Validation Documentation Standard**: Require explicit documentation of all validation rules with examples
 - **Integration Test Suite**: Maintain a comprehensive suite testing form submissions end-to-end
 - **Validation Audit Process**: Regular audits to identify and fix validation drift between systems
+- **Feature Flag Standards**: Establish patterns for safely modifying data structures with feature flags
+- **Data Privacy Reviews**: Regular audits of what data is transmitted vs. what users consented to
 
 ## Lessons Learned
 
@@ -266,6 +367,8 @@ Based on our experience with date validation challenges, we recommend:
 - **Frontend must be defensive**: With backend validation no longer guaranteed to match, frontend must over-validate
 - **Integration testing is critical**: Unit tests alone won't catch frontend-backend mismatches
 - **Architectural changes need migration guides**: Teams need clear guidance when fundamental patterns change
+- **Feature flags enable safe data structure changes**: Gradual rollout reduces risk when modifying submission payloads
+- **Data privacy must be actively managed**: Forms should only transmit data users consent to share
 
 ## Broader Implications and Risks
 
@@ -277,6 +380,7 @@ The date validation issues discovered are symptomatic of a larger architectural 
 - **Increased Support Burden**: More failed submissions reaching backend means more support tickets
 - **Veteran Experience Degradation**: Users may fill out forms correctly only to have submissions rejected
 - **Technical Debt Accumulation**: Each form team implementing their own validation increases overall complexity
+- **Data Privacy Concerns**: Forms may transmit more data than necessary without proper cleanup
 
 ### Risk Mitigation Recommendations
 
@@ -286,6 +390,8 @@ The date validation issues discovered are symptomatic of a larger architectural 
 - Document all known validation mismatches
 - Implement frontend over-validation as defensive measure
 - Add monitoring for backend rejection patterns
+- **Review all forms for unnecessary data transmission**
+- **Implement feature-flagged cleanup where needed**
 
 #### Medium Term Priority
 
@@ -293,6 +399,8 @@ The date validation issues discovered are symptomatic of a larger architectural 
 - Create shared validation rule repository
 - Establish validation synchronization process
 - Build automated validation drift detection
+- **Establish data minimization standards**
+- **Create data privacy review process for forms**
 
 #### Long Term Priority
 
@@ -300,17 +408,22 @@ The date validation issues discovered are symptomatic of a larger architectural 
 - Consider new validation federation approach
 - Implement platform-wide validation standards
 - Create validation governance process
+- **Implement automatic data cleanup pipelines**
+- **Establish consent-based data transmission patterns**
 
 ## Next Steps
 
 - [x] Phase 1: Toxic-exposure validation and opt-out cleanup
+- [x] Phase 1.3: Add enhanced backend Toxic Exposure validation logging
+- [ ] Phase 1.5: Toxic exposure data purge onSubmit (In Progress)
 - [x] Phase 2: Centralized date utility implementation
 - [x] Phase 3: Test coverage for all date fields
-- [ ] Phase 3.5: Migrate to `date-fns`
-- [ ] Phase 4: Monitor for edge cases in production
+- [ ] Phase 4: Migrate to `date-fns` (In Progress)
+- [ ] Phase 5: Monitor for edge cases in production
+- [ ] Phase 6: Remove feature flag after successful validation
 - [ ] Platform: Address validation federation gap between frontend and backend
 - [ ] Documentation: Create validation rules matrix for all form fields
-- [ ] Audit: Review other forms for similar validation mismatches
+- [ ] Audit: Review other forms for similar validation mismatches and unnecessary data transmission
 
 ## References
 
@@ -318,3 +431,5 @@ The date validation issues discovered are symptomatic of a larger architectural 
 - [date-fns Documentation](https://date-fns.org/)
 - [VA Platform Date Utilities](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/platform/utilities/date)
 - [VA Forms System Documentation](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/platform/forms-system)
+- [Feature Toggle Documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles)
+- [Toxic Exposure Cleanup PR](https://github.com/department-of-veterans-affairs/vets-website/pull/38593)
