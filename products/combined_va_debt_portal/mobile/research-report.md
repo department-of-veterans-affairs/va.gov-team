@@ -634,7 +634,7 @@ Previous research studies
 * [2024-06 Usability Study: Debt Portal Payment History](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/560)
 * [2024-02 Exploratory & Concept Study, Debt Portal (Debt Resolution Team)](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/483)
 
-<!-----
+
 
 ### Research participants 
 _Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
@@ -643,92 +643,94 @@ _Complete the demographic info below using information from the Perigean recruit
 
 #### Recruitment criteria
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
+Two cohorts of Veterans: those who had experience with benefits overpayment debts, and those who have experience with VA healthcare copayments. Some participants had experience with both.
+
+We talked with 12 Veterans
+
+- 6 focusing on overpayments
+- 5 focusing on copayments
+- 1 that was interview only and not a usability test (due to technical issues)
+- No assistive technology users or accessibility features turned on
+    * (this is due to prototype limitations; we will be testing with assistive technology at a later date)
+
 
 #### Demographics 
 
-We talked to **x participants.**
+We talked to **12 participants.**
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
+* Veterans: 12
+* Caregivers: 0 
+* Family members of a Veteran: 0
 
 
 Gender:
-* Male: x 
-* Female: x 
+* Male: 9
+* Female: 3
 
 
 LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
+* Member of the LGBTQ+ community: 2
+* Transgender: unknown
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: unknown
+* Gay, lesbian, or bisexual: unknown
 
 
 Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
+* Desktop: 0
+* Tablet: 0
+* Smart phone: 12
+* Assistive Technology: 0
 
 
 Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
+* 25-34: 1
+* 35-44: 7
+* 45-54: 0
+* 55-64: 0
+* 65+: 3
+* Unknown: 1
 
 
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
+* High school degree or equivalent: 3
+* Some college (no degree): 3
+* Associate's degree, trade certificate or vocational training: 0
+* Bachelor's degree: 5
+* Master's degree: 1
+* Doctorate degree: 0
+* Unknown: 0
 
 
 Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
+* Urban: 9
+* Rural: 3
+* Unknown: 0
 
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
+* White: 5
+* Black: 1
+* Hispanic: 2
+* Biracial: 1
+* Asian: 2
+* Native: 1
 
 
 Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
+* Cognitive: 3
+* No assistive technology users due to prototype limitations
 
+<!-----
 
 #### Underserved groups we haven’t talked to 
 
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
-
 This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
+* No degree
+* Other than honorable
+* Immigrant origin
+* Expat (living abroad)
+* Assistive technology users
 
 _[insert screenshot of completed recruitment checker]_
 
