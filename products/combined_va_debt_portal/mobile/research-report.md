@@ -602,28 +602,30 @@ We expect this to be a non-zero amount and want to track this as a metric to ass
 
 *Identify gaps in the current study and areas requiring additional investigation––such as demographics that were not included in this study.* 
 
+----->
 
 ## Appendix
 
 ### Research documents
-- [Product Outline](link here)
-- [Research plan](link here)
-- [Conversation guide](link here)
-- [Interview transcripts](link here)
+- [Product Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/mobile/Overpayment%20and%20Copayment%20Debts%20Product%20Brief.md)
+- [Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/mobile/research-plan.md)
+- [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/mobile/conversation_guide.md)
+- [Interview transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_va_debt_portal/mobile/session-transcripts)
+- [Interview notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_va_debt_portal/mobile/session-notes)
+- [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1752611263909/251a9de646f8e1f1243c9d66902ad9e2466ab623?sender=u456b54784628aa29fbf80697)
+- [User flow](https://www.figma.com/board/jHdoq3dF3iEZABqUzir6ot/MFS---Overpayments---Copays--Sitemap-flows--%7C-VA-Mobile?node-id=135-6256&t=jNUjASjwhmmfxBSV-4)
 
 ### Tools used for Synthesis
 
-*List tools or techniques used, e.g., Mural, affinity mapping.*  
+- Mural (taking notes during sessions)
+- Numbers and Google Sheets (tagging keywords, pulling quotes)
   
 ### Pages and applications used
 
-*Link to prototypes or pages tested during the study.*  
+- Prototype: [version with no payment option](https://www.figma.com/proto/kRA7JHbthNrSLxTQHrzH8T/MFS---Overpayments---Copays-%7C-VA-Mobile?page-id=2001%3A429&node-id=7274-61308&starting-point-node-id=7274%3A61308&scaling=min-zoom&content-scaling=fixed&show-proto-sidebar=1&hotspot-hints=0&t=908xt3WmHfQCvYYB-1) (Figma)
+- Prototype: [version with payment options](https://www.figma.com/proto/kRA7JHbthNrSLxTQHrzH8T/MFS---Overpayments---Copays-%7C-VA-Mobile?page-id=2001%3A429&node-id=7372-28070&starting-point-node-id=7372%3A28070&scaling=min-zoom&content-scaling=fixed&show-proto-sidebar=1&hotspot-hints=0&t=908xt3WmHfQCvYYB-1) (Figma)
 
-
-### Other supporting documents created
-
-*Include links to additional materials, e.g., personas, user flows.*  
-
+<!-----
 
 ### Secondary research
 
