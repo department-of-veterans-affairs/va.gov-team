@@ -2,11 +2,11 @@
 
 ## Vision
 
-Each Veteran is securely connected to the VA services that matter most to them regardless of device or VA org chart.
+Our vision is to provide the foundation, guidance, and tools for delivering VA digital services as cohesive native app experiences, ensuring Veterans can reliably access the care and benefits they’ve earned.
 
 ## Mission statement
 
-A native mobile app that is a trusted source for Veterans to quickly and easily check the status of their VA services and complete simple, transactional tasks across their health and benefits.
+Our mission is to build intuitive, high-quality features for the VA Health and Benefits app while empowering VA experience teams to deliver seamless, standards-driven mobile functionality that enhances Veterans’ access to services.
 
 ## What we work on
 
