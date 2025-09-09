@@ -40,7 +40,7 @@
 - [ ] **SPRINT GOAL** [#109907](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109907) - [Team] Phased launch
 
 #### Obj: [Add Service history](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77527)
-- [ ] **Stretch** [#113982(https://github.com/department-of-veterans-affairs/va.gov-team/issues/113982) - [Design] create/update designs with Service history pages
+- [ ] **Stretch** [#113982](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113982) - [Design] create/update designs with Service history pages
 
 ## 
 ### FMP - Claims
