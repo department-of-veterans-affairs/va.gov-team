@@ -1,7 +1,7 @@
 # Initiative Brief: Dependent Picklist Component
 
 ## Outcome Summary
-Veterans can select known dependents from a picklist when verifying or removing dependents, rather than manually re-entering names. This reduces input errors, increases confidence, and enables more reliable downstream automation.
+Veterans can select known dependents from a picklist when verifying, adding or removing dependents, rather than manually re-entering names. This reduces input errors, increases confidence, and enables more reliable downstream automation.
 
 **Related/Associated product(s)**
 - 686c/674 Remove Dependents Flow
