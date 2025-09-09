@@ -489,13 +489,9 @@ While the current experience for learning about new debt comes from physical let
 
     - _4 out of 5 felt the “Why might I have this debt” button was unhelpful, finding the information too general and expected a more direct, personalized explanation._
 
-* 🚧 Possible V2: we would need to check with engineers to see what is feasible.
-
 7. Add due dates for bills and debts on the Payments page to help users manage their finances at a glance.
 
     - _4 of 9 wanted more specifics up front, such as due date and type of debt._
-
-* 🚧 Possible V2: category tiles would need to be changed.
 
 
 ### Help and Support
