@@ -44,7 +44,7 @@ Issues will come to our attention through a variety of channels:
 - Escalation from VA contact centers (help desks)
 - Escalation from other VA teams
 
-Our team has an **emergency** 24/7 on-call rotation viewable in [PagerDuty](https://ecc.pagerduty.com/schedules#PC245UL) under the Benefits Decision Reviews team. We may also receive escalations from VSP's on-call staff.
+Our team has an **emergency** 24/7 on-call rotation viewable in [PagerDuty](https://ecc.pagerduty.com/schedules/P5PRD6V) under the Benefits Decision Reviews team. We may also receive escalations from VSP's on-call staff.
 
 Our workday support has a primary and a secondary engineer that rotate on a weekly basis. You can find that information in the Decision Reviews Team Calendar in Google (ping Pam Macalintal to get access).
 

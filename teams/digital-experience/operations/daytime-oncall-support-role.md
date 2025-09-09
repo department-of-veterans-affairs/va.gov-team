@@ -24,7 +24,7 @@ This task is part of two ongoing sprint goals:
 * Incident Response https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/1954
 * Global Customer Support https://app.zenhub.com/workspaces/vsp-5cedc9cce6e3335dc5a49fc4/issues/department-of-veterans-affairs/va.gov-team/3675
 
-This rotation can be found in [PagerDuty](https://ecc.pagerduty.com/schedules#PGIEA8Q) labeled layer 2. Each developer will be alerted by PagerDuty before they start their rotation and will only be responsible for the items outlined above. Since this covers *two* ongoing SuperEpics, the developer will assign themselves just like any other sprint task during their rotation.
+This rotation can be found in [PagerDuty](https://dsva.pagerduty.com/schedules#PGIEA8Q) labeled layer 2. Each developer will be alerted by PagerDuty before they start their rotation and will only be responsible for the items outlined above. Since this covers *two* ongoing SuperEpics, the developer will assign themselves just like any other sprint task during their rotation.
 
 ## What do I do?
 

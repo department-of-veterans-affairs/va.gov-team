@@ -36,7 +36,7 @@ As you determine that others may need to be pulled in to help with the remediati
 - <ins>**Metric Sources:**</ins>
 These metrics and their initialization can be found starting [at this line of the sessions controller](https://github.com/department-of-veterans-affairs/vets-api/blob/db8635cc65d786ce265c27bcc22b96b415aa028f/app/controllers/v1/sessions_controller.rb#L24). The metrics are handled and incremented in the [login_stats function](https://github.com/department-of-veterans-affairs/vets-api/blob/db8635cc65d786ce265c27bcc22b96b415aa028f/app/controllers/v1/sessions_controller.rb#L265).
 - <ins>**Notifications:**</ins>
-[pagerduty alert](https://ecc.pagerduty.com/service-directory/P8H4DC6) to the oncall person and send a notification in the [va-identity-alerts](https://dsva.slack.com/archives/C02SBFQ22RL) slack channel.
+[pagerduty alert](https://ecc.pagerduty.com/service-directory/PO7BZ1K) to the oncall person and send a notification in the [va-identity-alerts](https://dsva.slack.com/archives/C02SBFQ22RL) slack channel.
 
 ---
 

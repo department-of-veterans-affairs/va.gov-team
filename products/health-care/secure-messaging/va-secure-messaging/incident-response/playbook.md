@@ -27,7 +27,7 @@ Team members responding to [Secure Messaging Monitors](https://vagov.ddog-gov.co
 
 ## PagerDuty
 
-[SM in Pager Duty](https://ecc.pagerduty.com/service-directory/P7LKM9I)
+[SM in Pager Duty](https://ecc.pagerduty.com/service-directory/PTOO8J2)
 
 ## Steps
 

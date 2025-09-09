@@ -4,7 +4,7 @@ This document details the process of generating a monthly report from PagerDuty 
 
 ### Steps to Generate the MTTA Report
 
-1. Navigate to the PagerDuty analytics dashboard by clicking on this [link](https://ecc.pagerduty.com/analytics/overview-dashboard/_Oy7Pyd9QxcuSqp97ZgxOA?ref=share-button) (Note: Make sure you are signed in to your PagerDuty account)
+1. Navigate to the PagerDuty analytics dashboard by clicking on this [link](https://ecc.pagerduty.com/analytics/overview-dashboard/SvSlH8k7RqNrkTSauHtRsg) (Note: Make sure you are signed in to your PagerDuty account)
 2. Adjust the date range to reflect the previous month.
 3. Select the “OCTO Identity” team. This should update the Escalation Policy filter to only show the Identity Team escalation policy. 
 4. Take a screen capture of the top 5 graphs of the dashboard.

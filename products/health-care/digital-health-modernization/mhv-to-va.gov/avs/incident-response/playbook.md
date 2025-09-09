@@ -8,7 +8,7 @@ Team members responding to [AVS](https://vagov.ddog-gov.com/monitors/manage?q=ta
 
 - [OCTO Datadog instance](https://vagov.ddog-gov.com/), read-only access
 - [DSVA Slack](dsva.slack.com)
-- [DSVA Pager Duty](https://ecc.pagerduty.com/)
+- [DSVA Pager Duty](https://dsva.pagerduty.com/)
 
 ## Dashboards
 
@@ -16,8 +16,8 @@ Team members responding to [AVS](https://vagov.ddog-gov.com/monitors/manage?q=ta
 
 ## PagerDuty
 
-- [AVS in Pager Duty (prod)](https://ecc.pagerduty.com/service-directory/PO38NG2)
-- [AVS in Pager Duty (staging)](https://ecc.pagerduty.com/service-directory/P3643PN)
+- [AVS in Pager Duty (prod)](https://dsva.pagerduty.com/service-directory/PO38NG2)
+- [AVS in Pager Duty (staging)](https://dsva.pagerduty.com/service-directory/P3643PN)
 
 ## Steps
 
