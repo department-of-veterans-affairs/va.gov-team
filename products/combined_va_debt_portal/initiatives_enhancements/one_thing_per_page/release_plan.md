@@ -7,7 +7,7 @@ List the features toggles here.
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| [FILL_IN] | [FILL_IN] |
+| show_cdp_one_thing_per_page | Enables the One Thing Per Page feature |
 
 ## Step 2: Validation
 
