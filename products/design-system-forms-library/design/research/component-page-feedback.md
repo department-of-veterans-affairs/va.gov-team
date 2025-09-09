@@ -64,6 +64,11 @@ The report also provides **direct quotes** to highlight user voices, a **role co
 ---
 
 ## 5. Component Checklist Feedback
+### Prototypes shared
+  1. [Accordion/Compact option](https://dev-design.va.gov/4647/component-checklist-layout-option-1/)
+  2. [Static/Expanded option](https://dev-design.va.gov/4647/component-checklist-layout-option-2/)
+  3. [Compact list option](https://dev-design.va.gov/4647/component-checklist/)
+
 - **The checklist is rarely consulted for decision-making.** Most users said they ignore it unless doing an audit or checking accessibility.  
   > *“I’ll be honest. Whether or not I use a component is at the very top: is it deployed, is it green? I’m good.”* – Designer  
 
@@ -101,7 +106,8 @@ The report also provides **direct quotes** to highlight user voices, a **role co
 - **Users want a clear way to provide feedback directly in the docs.** Right now, feedback usually happens in Slack, where it gets lost.  
   > *“Slack feedback gets lost. The page itself could ask for feedback.”* – Designer  
 
-- **Lack of visibility discourages reporting.** Without a built-in channel, users aren’t sure if their feedback is seen, tracked, or acted upon.  
+- **Lack of visibility discourages reporting.** Without a built-in channel, users aren’t sure if their feedback is seen, tracked, or acted upon.
+> *“When we drop feedback in Slack, I don’t know if it ever makes it back to the team or gets tracked anywhere.”* – Designer  
 
 ---
 
@@ -144,7 +150,7 @@ The report also provides **direct quotes** to highlight user voices, a **role co
    - Prioritize “warnings,” “in-progress,” and “caution” over “green/complete.”
 
 5. **Clarify Maturity Levels**
-   - Link top-level maturity directly to checklist items.  
+   - Link top-level maturity directly to checklist items. ([See prototype)](https://dev-design.va.gov/4647/component-checklist/)
    - Provide explanations for why a component is labeled green, orange, or red.  
 
 6. **Support Web + Mobile Clarity**
