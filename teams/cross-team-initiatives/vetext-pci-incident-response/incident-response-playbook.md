@@ -102,7 +102,7 @@ Make sure you have access to the VNCE team G-drive, which will give you access t
 - [The Critical Incident Event Log](https://docs.google.com/spreadsheets/d/14W6AOjbOS6XmbzN7hpvo3vAO5ZG5eW6vhPj1JvOeCaM/edit#gid=0)
 - [Previous Post Mortems](https://drive.google.com/drive/folders/1QpcLg6Cx1WN5cIST5ViPoi2WjaUgy0tO)
 
-Make sure your on-call shift is configured in [PagerDuty](https://ecc.pagerduty.com/teams/P5TJKID)
+Make sure your on-call shift is configured in [PagerDuty](https://veterans-affairs.pagerduty.com/teams/PZ9XJHY)
 - Request to be added to DSVA Pagerduty by the platform team (Allison can add if response time is delayed)
 
 Once you have VA Access, make sure you have access to the:
