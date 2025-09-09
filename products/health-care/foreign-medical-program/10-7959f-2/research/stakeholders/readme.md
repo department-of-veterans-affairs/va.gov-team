@@ -1,5 +1,6 @@
 # **Research for FMP Claims (10-7959f-2)**
 
+There were no usability studies conducted with users. Research findings for the FMP stakeholders and the findings from the CHAMPVA usability study influenced that FMP claims form UX
 
 
 * [Stakeholder research and interviews](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/foreign-medical-program/10-7959f-2/research/stakeholders)
