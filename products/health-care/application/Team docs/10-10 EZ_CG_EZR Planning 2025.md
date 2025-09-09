@@ -6,10 +6,12 @@
 ## 📆 Sprint 3 (Sept 10 - Sept 23) 
 - [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
 
-### Team initiative (not form-specific)
-#### Obj: Knowledge sharing
-- Over the next several sprints, the team will need to share knowledge between our 10-10 forms, and then with the IVC team on their forms.
-     - Some of our teammates have started to do this, and we will continue throughout the contract to ensure a fairly even level of knowledge and comfort across all forms.
+### Sprint Goal summary
+- Investigate cause of Intro page looping feedback (from Medallia)
+- Determine resolution for in-progress email issue, confirming if resolution should be platform-wide
+- Re-launch EC/NOK
+- Complete QA on Household V2, preparing for launch
+- Start phased launch of Print/Save PDF
 
 ##
 ### 10-10EZ
