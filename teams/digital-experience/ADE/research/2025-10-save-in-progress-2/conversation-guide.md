@@ -127,8 +127,6 @@ Let’s start with a few questions...
 1. Have you ever shared your screen in Zoom while using a screen *(reader / magnifier)*? *(Yes / No)*
     - If not, we can help you do that.
 
-1. Is there anything else that we can do to support you during this session? *(RECORD AND DO!)*
-
 ### For everyone
 
 10. What VA benefits, if any, do you have experience with? 
@@ -282,7 +280,7 @@ OK, pretend that you just finished your snack/lunch/dinner. Now you want to get 
 
 [**Type into #feedback-backchannel**: "Any questions you want me to ask?"]
 1. Overall, about everything on the website in this session...What worked *well* for you?
-1. What was *unclear or didn't work well* for you?
+1. What was *unclear or did not work well* for you?
      - [If they say nothing, could ask:] What, if anything, did you find annoying?
 1. What would you like to *change or add*?
 1. What kinds of online forms have you filled out before?
@@ -330,8 +328,8 @@ Thank you so much again, and I hope that you enjoy the rest of your day!
 
 
 ## Approvals
-- Martha Wilkes, OCTO Accessibility Strategist/Designer, on 4-28-2025
-- Shane Strassberg, Research-Ops Lead, on 04-30-2025
+- Martha Wilkes, OCTO Accessibility Strategist/Designer, on XX-XX-2025
+- Shane Strassberg, Research-Ops Lead, on XX-XX-2025
 
 
 # Emergency Exit 🚨

@@ -185,7 +185,7 @@ We would like to request that **Perigean calls each participant** to remind them
 ### Length of sessions
 - `Session length:` **90 min for AT users, 60 min for non-AT users**
   
-- `Buffer time between sessions:` **30 min**
+- `Buffer time between sessions:` **60 min**
   
 - `Maximum Sessions per day:` **3**
 
