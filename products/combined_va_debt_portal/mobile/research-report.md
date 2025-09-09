@@ -535,8 +535,11 @@ Veterans will want to view their benefit overpayment and medical copayment debt 
 
   - This research supports our desired user outcome by confirming that the ability to view overpayment and copayment information is highly desired by users, with everyone currently using the app saying they would use the feature. It also validates that users are not just looking for a total amount, but for clarity on why their debt exists, wanting more details than what was provided in the prototype.
  
-### 🚧 🚧 🚧 Desired Business Outcome 🚧 🚧 🚧 
-This research supports our desired business outcome by....
+### Desired Business Outcome
+Increase the visibility of these debts by the business, so that it provides additional awareness to Veterans, informing them that they owe money to the VA. By adding these details to the mobile app, gives Veterans a convenient way to view money they might owe the VA and then take the necessary actions on their debt/bill.
+
+  - This research supports our desired business outcome by providing users with visibility into their debts/bills on the app, so that they are aware that they owe money to the VA, and the ability to take actions to resolve the debt or bill, request help, or dispute it. 
+
 
 
 ## Key Performance Indicators
@@ -721,7 +724,6 @@ Disability and Assistive Technology (AT):
 * Cognitive: 3
 * No assistive technology users due to prototype limitations
 
-<!-----
 
 #### Underserved groups we haven’t talked to 
 
@@ -732,72 +734,60 @@ This research does not include the perspectives of the following marginalized Ve
 * Expat (living abroad)
 * Assistive technology users
 
-_[insert screenshot of completed recruitment checker]_
 
-![Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers (image)](link - add image to github folder and link here with .png)
+![Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/mobile/supporting-files/VA%20Recruitment%20Checker.png)
+
+
 
 <details>
   <summary>A more accessible version of the table in the above image</summary>
    
-_[In the Markdown table below, fill in your study name and all "--" placeholders for numbers and percentages of participants from your screenshot of the completed recruitment checker.]_
 
+### Underserved groups
 
-### Underserved groups in [Study name]
-
-**Final # of participants:** --  
-**# of AT users:** --  
-**# of no shows:** --
+**Final # of participants:** 12  
+**# of AT users:** 0  
+**# of no shows:** 4
 
 #### General
 
-| Category | % | Target | Study | p1 | p2 | p3 | p4 | p5 | p6 | p7 | p8 | p9 | p10 | p11 | p12 |
-|----------|---|---------|-------|---|---|---|---|---|---|---|---|----|----|----|----|
-| Age 55-64+ | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Cognitive Disability | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Mobile user | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Rural | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| No degree | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Other than honorable | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Immigrant origin | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Women | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Expat (living abroad) | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Category | % Target | Study | P1 | P2 | P3 | P4 | P5 | P6 | P7 | P8 | P9 | P10 | P11 | P12 | P13 | P14 | P15 | P16 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Age 55-64+ | 50.00% | 6 | 3 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 
+| Cognitive Disability | 50.00% | 6 | 3 | 0 | 0 | N | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 |
+| Mobile user | 50.00% | 6 | 1 | 2 | N | 1 | N | N | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 1 | 
+| Rural | 25.00% | 3 | 3 | 0 | 1 | N | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | N | 0 |
+| No degree | 25.00% | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Other than honorable | 21.00% | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Immigrant origin | 17.00% | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Women | 10.00% | 2 | 3 | N | 0 | N | N | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 1 |
+| Expat (living abroad) | 0.40% | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+
 
 #### Race
 
-| Category | % | Target | Study | p1 | p2 | p3 | p4 | p5 | p6 | p7 | p8 | p9 | p10 | p11 | p12 |
-|----------|---|---------|-------|---|---|---|---|---|---|---|---|----|----|----|----|
-| Black or African American | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Hispanic, Latino, or Spanish origin | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Biracial | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Asian | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Native Hawaiian or other Pacific Islander | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| First Nations (Canada) | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Native, American Indian or Alaska Native | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Category | % Target | Study | P1 | P2 | P3 | P4 | P5 | P6 | P7 | P8 | P9 | P10 | P11 | P12 | P13 | P14 | P15 | P16 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Black or African American | 15.00% | 2 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | N | 0 |
+| Hispanic, Latino, or Spanish origin | 12.00% | 2 | 2 | N | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 |
+| Biracial | 3.90% | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Asian | 3.00% | 1 | 2 | 0 | 0 | 0 | N | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 1 |
+| Native Hawaiian or other Pacific Islander | | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| First Nations (Canada) | | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Native, American Indian or Alaska Native | 0.30% | 1 | 1 | 0 | 0 | 0 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 #### LGBTQ+
 
-| Category | % | Target | Study | p1 | p2 | p3 | p4 | p5 | p6 | p7 | p8 | p9 | p10 | p11 | p12 |
-|----------|---|---------|-------|---|---|---|---|---|---|---|---|----|----|----|----|
-| Gay, lesbian, or bisexual | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Transgender | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Nonbinary, gender fluid, gender queer, Two-Spirit | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Category | % Target | Study | P1 | P2 | P3 | P4 | P5 | P6 | P7 | P8 | P9 | P10 | P11 | P12 | P13 | P14 | P15 | P16 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Gay, lesbian, or bisexual | --% | 1 | 2 | 0 | 0 | N | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Transgender | --% | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman | --% | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
 #### Assistive Tech (AT)
 
-| Category | % | Target | Study | p1 | p2 | p3 | p4 | p5 | p6 | p7 | p8 | p9 | p10 | p11 | p12 |
-|----------|---|---------|-------|---|---|---|---|---|---|---|---|----|----|----|----|
-| Beginner AT User | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Experienced AT User | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Desktop Screen Reader (SR) | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Mobile Screen Reader (SR) | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Magnification/Zoom | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Speech Input Tech (Siri, Dragon) | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Hearing Aids | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Sighted Keyboard | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Captions | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Switch Device | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Braille Reader | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+No assistive tech users
 
  </details>
 
------>
+
