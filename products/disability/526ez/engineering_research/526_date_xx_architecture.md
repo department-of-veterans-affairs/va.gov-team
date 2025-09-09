@@ -7,7 +7,7 @@ This ADR documents the implemented solution: a centralized date handling module 
 
 - Owner: Disability Benefits Crew @ Pathways Team
 - Related Docs:
-  - [Discovery Document](https://github.com/department-of-veterans-affairs/va.gov-team/issues/110024)
+  - [Discovery Document](./526_date_xx_errors_discovery.md)
   - [Original Issue](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108295)
   - [Implementation PR #38080](https://github.com/department-of-veterans-affairs/vets-website/pull/38080)
   - [Toxic Exposure Opt-Out PR #38593](https://github.com/department-of-veterans-affairs/vets-website/pull/38593)
