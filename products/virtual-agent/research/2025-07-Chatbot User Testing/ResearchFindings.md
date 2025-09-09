@@ -124,9 +124,6 @@ synthesis_tools_used:
 
 **Contacts:** Lucas Wright
 
-**[Link to Research Readout](link-here)**  
-*Add a link to your research readout deck, if available.* 
-
 
 **Jump to:**
 - [Hypotheses and conclusions](#user-content-hypotheses-and-conclusions)
@@ -323,16 +320,16 @@ Based on the key findings, there are a few areas to concentrate on for the next 
 
 ## Product User and Business Outcomes
 
-*Explain how findings and recommendations align with the product's goals.*
-
-> [!NOTE] 
-> Refer back to your Product Outline. 
+As detailed in the [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/product/Chatbot%20PoC%20Initiative.md), user use of the Chatbot has decreased significantly due in part to the fact that the current model not being able to recognize synonyms and its limited scope to just the VA.gov website. "This causes it to have to follow up to understand what topic to direct the user to leading to longer user journeys, especially when the question is personalized. With GenAI sites that are able to not only understand the intent of the question, but also provide answers to questions by sourcing data from not only the VA site, but other sites across the internet. Veterans are more likely to use them instead of the VA Chatbot to ask questions that are more personalized to their needs."
 
 ### Desired User Outcome 
-This research supports our desired user outcome by....
+This research supports our desired user outcome by getting valuable feedback from Veterans to steer us towards the model that most satisfies their needs.
  
 ### Desired Business Outcome
-This research supports our desired business outcome by....
+This research supports our desired business outcome by adding perceived value to the business-end that handles troubleshooting tickets.
+
+### Desired Business Outcome
+This research supports our desired business outcome by giving Veterans a more efficient option for answering their question thus deflecting calls to VA call centers.
 
 
 ## Alignment with Chatbot Key Performance Indicators
@@ -368,7 +365,16 @@ This research directly supports improvement in several key performance indicator
 
 ## Next Steps
 
-*Outline immediate actions based on findings, including owners if applicable.*  
+The Chatbot team's next steps are to further enhance and fine tune POC / component 3 to:
+    - Monitor and establish guardrails against jailbreaking
+    - Add additional call center documentation from Tier 1 support into VectorDB
+    - Harden DeepEval metrics and create custom metrics for answer correctness
+    - Add Google Analytics to track the Sign in support intent
+    - Add Datadog logs for monitoring and alerting
+    - Move DeepEval metrics to Databricks for automated analysis
+    - Conduct internal VA employee testing
+    - Perform moderated usability testing with Veterans 
+    - Launch sign in support LLM in production for a 2 month trial 
 
 
 ## Further research needed
@@ -383,9 +389,9 @@ This research directly supports improvement in several key performance indicator
 
 ### Research documents
 - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/product/Chatbot%20PoC%20Initiative.md)
-- [Product Brief](https://docs.google.com/document/d/114fKRhqjoKr_TvqFSE-_hklefcrSCiz4/edit)
+- [Product Overview](https://docs.google.com/presentation/d/1vNElpZOhDNT7Ed6FBenw4jEGYP172IVr/edit?slide=id.p1#slide=id.p1)
 - [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/research/2025-07-Chatbot%20User%20Testing/ConversationGuide.md)
-- [Interview transcripts](link here)
+- [Interview Transcripts](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/virtual-agent/research/2025-07-Chatbot%20User%20Testing/Transcripts)
 - [Copilot Analysis](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/research/2025-07-Chatbot%20User%20Testing/Copilot_Analysis_FINAL.md)
 - [VA Chatbot Evaluation Summary](https://docs.google.com/presentation/d/1fw2GLrYaQ8IXjQL7gp0P-VxncS5a3Vo_XF7-QWWAUI0/edit?usp=sharing)
 - [Test Session Notes](https://app.mural.co/t/vachatbot1224/m/vachatbot1224/1752070920501/956b0e14039b4fedb6fac5ca8f1d17bc62b76ebb?sender=u6feac4dfb60185c471ca2132)
@@ -402,7 +408,7 @@ This research directly supports improvement in several key performance indicator
 - [POC 2](https://chatbot-test-1-fe.whitlock.app/component-2)*
 - [POC 3](https://chatbot-test-1-fe.whitlock.app/component-3)*
 
-*test user email must be added to a white list by team
+*test user email must be added to a  list by team
 
 
 
