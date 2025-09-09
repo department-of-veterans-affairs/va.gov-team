@@ -5,13 +5,13 @@ _Please Note: The Veteran-Facing Services Platform ATO boundary includes all env
 
 #### POC
 1. What is the name of your product(s)/system(s)?
-  - Mike to answer
+  - Chapter 31 / Veteran Readiness and Employment (VR&E) / VA form 28-1900
 2. Describe its purpose in a few sentences.
-  - Mike to answer
+  - VA benefit providing vocational rehabilitation, employment assistance, and training services for veterans with service-connected disabilities to help them achieve independence and find or maintain suitable employment.
 3. If you represent multiple products, please describe the relationship between them, if there is any.
-  - Mike to answer
+  - There aren't any other products that link directly to Chapter 31.
 4. What is the expected duration of your project? This information helps us understand how our processes need to adapt
-  - Mike to answer
+  - We have completed the form rebuild and modernization of Chapter 31, but it will continue to be a live form on VA.gov.
 
 #### AWS Resources
 1. List AWS services used.
