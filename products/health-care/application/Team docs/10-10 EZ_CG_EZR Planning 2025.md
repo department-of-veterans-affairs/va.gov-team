@@ -39,7 +39,7 @@
 - [ ] **SPRINT GOAL** [#117486](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117486) - [BE] Audit BE logs to move from Sentry to Datadog - **_Carry over to Sprint 3 due to attention turned to EC/NOK bug fix_**
 
 #### Obj: EZR [Print/Save PDF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109746)
-- [ ] **SPRINT GOAL** [#109907](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109907) - [Team] Phased launch
+- [ ] **Stretch** [#109907](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109907) - [Team] Phased launch
 
 #### Obj: [Add Service history](https://github.com/department-of-veterans-affairs/va.gov-team/issues/77527)
 - [ ] **Stretch** [#113982](https://github.com/department-of-veterans-affairs/va.gov-team/issues/113982) - [Design] create/update designs with Service history pages
