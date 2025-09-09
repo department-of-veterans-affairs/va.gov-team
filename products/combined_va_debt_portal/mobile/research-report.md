@@ -579,9 +579,26 @@ We expect this to be a non-zero amount and want to track this as a metric to ass
 
  🚧 🚧 🚧
  
-[Spreadsheet with recommendations and their statuses (Google Doc)](https://docs.google.com/spreadsheets/d/1b2y2qA8gWbx0GtgiDoCnUsUiYlQksZIuN6oCClm0458/edit?gid=2073713253#gid=2073713253&fvid=2013959249)
-  - There will be a table here with each recommendation and the current status (e.g. designs have been updated, potential v2 feature)
+[Spreadsheet with recommendations and their statuses (Google Sheet)](https://docs.google.com/spreadsheets/d/1b2y2qA8gWbx0GtgiDoCnUsUiYlQksZIuN6oCClm0458/edit?gid=2073713253#gid=2073713253&fvid=560371841)
+  - There will be a table here with each recommendation and the current status (e.g. design updated, future, pending)
   - Feedback needed: The "Recommendation Status" column – confirm, fix, or update cells as necessary
+
+| Recommendation | Status | Note |
+|---|---|---|
+| Proceed with the MVP version, having the payment options of linking to pay.gov and pay.va.gov | Design updated | |
+| Keep the name of “Payments” on the tab as-is for now | No action | |
+| Provide a space for users to view resolved debt, and remove resolved debt from the current list of outstanding debts and bills | Future: consider for v2 | Not currently technically feasible |
+| Improve the handoff experience to external payment sites. Make it very clear that the user needs to take action to save the payment information before they are redirected. | Design updated | |
+| Enable copy-and-paste functions for key payment information to make the external payment process more seamless. | Design updated | Research needed: will PII always block adding letters? Research needed: what is allowed to be written? |
+| Clarify why a debt exists. Add easy and actionable ways for users to learn why they have a particular debt, moving away from the generic explanation. | Future: consider for v2 | Research needed on what is technically feasible |
+| Add due dates for bills and debts on the Payments page to help users manage their finances at a glance. | Future: consider for v2 | |
+| Prominently display a phone number, as Veterans often bypass help menus in search of a way to speak directly with someone. | Pending | (will there be phone numbers listed elsewhere beyond the Help menu?) |
+| Surface non-payment options. The options of disputing a debt or requesting a payment plan were not being discovered in the Help menu and were somewhat hidden under the Resolve button. | Design updated | |
+| Provide access to debt letters. If not possible, provide a clear explanation for why they can not be read in the app | Future: consider for v2 | |
+| Make older PDF statements easier to find. The current structure requires much scrolling and is not clearly labeled. | Design updated | |
+| Look into making the PDFs as accessible as possible for all users. | Pending | |
+| Clarify the structure of the copay statements. Until we are able to provide real-time transactions, make it clear that the copay details are in statement form and may not be up to date. | Pending | |
+| Re-evaluate the alert accordion on the details page. Either make it clearly expandable with valuable content inside or replace it with a simple banner. | Pending | |
 
 <!-----
 
