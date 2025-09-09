@@ -6,13 +6,7 @@ Follow these step-by-step instructions to create an ID.me account for developmen
 2. On the ID.me sign in page click Create an ID.me account to be taken to the ID.me account registration page. Enter a [test email address](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/ask-va/testing/How%20to%20create%20test%20user%20accounts.md) you wish to use. ID.me will email that address with a link to confirm your account.
 
    <img width="709" height="916" alt="enter_email" src="https://github.com/user-attachments/assets/46c98769-44fd-42f3-bff8-cb624685d7b4" />
-4. Click the link in the email ID.me sends or copy over the code contained in it to your original ID.me window to complete the email proofing process, then proceed to setting up your multifactor authentication (MFA). You also have the option of forgoing adding a MFA method at this point, but will be forced to add it if you wish to verify your account later.
-
-   <img width="709" height="916" alt="add_2fa" src="https://github.com/user-attachments/assets/09c0f856-782b-4b3b-a431-72cc2b5a2a0f" />
-   
-6. You will be directed back to VA.gov with an unverified account. Click the **Verify with ID.me button** to return back to ID.me to complete your account verification. You'll re-enter your email and password. If you have not already set up a MFA method, you'll create one now to continue.
-
-   <img width="1080" height="651" alt="verify_identity" src="https://github.com/user-attachments/assets/42c314b9-9f3b-43b8-9661-b161b08b5845" />
+3. Click the link in the email ID.me sends or copy over the code contained in it to your original ID.me window to complete the email proofing process, then proceed to setting up your multifactor authentication (MFA). You also have the option of forgoing adding a MFA method at this point, but will be forced to add it if you wish to verify your account later.
 
 > [!NOTE]  
 > Unlike Login.gov, ID.me mocks its MFA during authentication, meaning you won't need to actually use your MFA method. Therefore the easiest MFA method to add is a phone number. ID.me runs a basic validation to ensure it appears as a valid US-based phone number, but beyond that does not validate or attempt to contact it for lower environment MFA purposes.
@@ -20,6 +14,10 @@ Follow these step-by-step instructions to create an ID.me account for developmen
    <img width="1086" height="811" alt="fake_phone_2fa" src="https://github.com/user-attachments/assets/5b1d20b0-7eb9-45f3-9a66-47823f8dd956" />
     
    <img width="1086" height="811" alt="confirm_2fa" src="https://github.com/user-attachments/assets/41d959af-7818-4302-a1e5-3edf74a50a40" />
+
+4. You will be directed back to VA.gov with an unverified account. Click the **Verify with ID.me button** to return back to ID.me to complete your account verification. You'll re-enter your email and password. If you have not already set up a MFA method, you'll create one now to continue.
+
+   <img width="1080" height="651" alt="verify_identity" src="https://github.com/user-attachments/assets/42c314b9-9f3b-43b8-9661-b161b08b5845" />
     
 5. ID.me will then ask to verify your identity via identity documents. Select option #2 **Upload photos of your license of state ID**. 
 
