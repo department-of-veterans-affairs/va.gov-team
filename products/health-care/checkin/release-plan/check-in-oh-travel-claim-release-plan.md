@@ -13,8 +13,8 @@
 ## Step 1: Development
 
 Since this is a stand-alone application within the check-in namespace we can also use PagerDuty to put the applicaiton into maintenance mode
- - [Production Service](https://ecc.pagerduty.com/service-directory/PPS19LL)
- - [Staging Service](https://ecc.pagerduty.com/service-directory/PHVXQUE)
+ - [Production Service](https://ecc.pagerduty.com/service-directory/PBIEMZ3)
+ - [Staging Service](https://ecc.pagerduty.com/service-directory/PGI3PSX)
 
 ## Step 2: Validation
 
