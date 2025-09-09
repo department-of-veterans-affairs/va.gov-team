@@ -667,10 +667,14 @@ This research does not include the perspectives of the following marginalized Ve
 
 ![Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers](./images/VA-recruitment-checker.png)
 
+![Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers](./images/VA-recruitment-checker-NEW.png)
+
 <details>
   <summary>A more accessible version of the table in the above image</summary>
    
-### ADE Save in Progress usability testing
+### ADE Save in Progress usability testing recruitment of underserved groups
+
+
 
 **Final # of participants:** 11  
 **# of AT users:** 6  
