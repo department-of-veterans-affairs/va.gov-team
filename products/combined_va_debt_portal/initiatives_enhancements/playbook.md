@@ -1,15 +1,11 @@
 # One Thing Per Page Playbook
 
-NOTE: 
-- links to complete data for each of the sections below is welcome and encouraged.
-- This document serves the requirement of an incident response procedure for your product. This document should be iterated upon as changes are made to the product.
-
 ## Product Description
 The Combined Debt Portal previously presented multiple layers of information on single pages, creating confusion and cognitive overload for veterans. The One Thing Per Page (OTPP) update restructures the experience so each page focuses on a single task or piece of information. This mirrors the Financial Status Report’s one-question-per-page design, reducing cognitive load, improving navigation, and making the process clearer and more manageable for veterans.
 
 ## Routes to code
-links here
-issue tickets (if they add value when describing known errors for your product)
+[Debt code](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/combined-debt-portal/debt-letters/containers/ResolveDebtPage.jsx)
+
 
 ## Contacts
 
@@ -43,8 +39,7 @@ issue tickets (if they add value when describing known errors for your product)
 - Follow the standard flow to view debts in combined debt portal, there is no new logic, only a reordering of pages.
 
 ### Flipper Features and Rollback
-- Is there a flipper feature? If yes, describe here and explain when to modify the flipper and to what exactly.
-- At what point, if applicable, should your code be rolled back, to what state? (optional)
+ If compromised, the feature can be disabled by toggling flags to hide links and redirect users away from affected routes. (show_cdp_one_thing_per_page)
 
 ## Security
-descibe any security concerns the responders should be aware, for example: Does your product have PII? Do you log senstive information that needs to be handled in a particular manner? Does your product have a known security vulnerability that has been accepted by leadership? etc.
+N/A No new code
