@@ -625,11 +625,16 @@ We expect this to be a non-zero amount and want to track this as a metric to ass
 - Prototype: [version with no payment option](https://www.figma.com/proto/kRA7JHbthNrSLxTQHrzH8T/MFS---Overpayments---Copays-%7C-VA-Mobile?page-id=2001%3A429&node-id=7274-61308&starting-point-node-id=7274%3A61308&scaling=min-zoom&content-scaling=fixed&show-proto-sidebar=1&hotspot-hints=0&t=908xt3WmHfQCvYYB-1) (Figma)
 - Prototype: [version with payment options](https://www.figma.com/proto/kRA7JHbthNrSLxTQHrzH8T/MFS---Overpayments---Copays-%7C-VA-Mobile?page-id=2001%3A429&node-id=7372-28070&starting-point-node-id=7372%3A28070&scaling=min-zoom&content-scaling=fixed&show-proto-sidebar=1&hotspot-hints=0&t=908xt3WmHfQCvYYB-1) (Figma)
 
-<!-----
 
 ### Secondary research
 
-*Include any relevant secondary research, e.g., web analytics, SME interviews.*  
+Previous research studies
+* [Debt Portal & eFSR Medallia Report: December 2024](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_fsr/research/medallia_reports/Medallia-December-2024.md)
+* [2024-09 VHA Debt Portal Payment History, Usability Study, September 2024](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/684)
+* [2024-06 Usability Study: Debt Portal Payment History](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/560)
+* [2024-02 Exploratory & Concept Study, Debt Portal (Debt Resolution Team)](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/483)
+
+<!-----
 
 ### Research participants 
 _Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
