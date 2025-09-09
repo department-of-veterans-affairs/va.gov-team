@@ -100,7 +100,7 @@ MHV API connects to various downstream systems to support Medical Records use ca
 - +++ ?
 
 ## Pager Duty
-We utlize [DSVA Pager Duty](https://ecc.pagerduty.com/service-directory/P64JPH1) to restrict access to Medical Records on va.gov for both planned maintenance and unplanned downtime events. 
+We utlize [ECC Pager Duty](https://ecc.pagerduty.com/service-directory/P64JPH1) to restrict access to Medical Records on va.gov for both planned maintenance and unplanned downtime events. 
 
 - There is also a Slack integration that will schedule the Pager Duty window along with pausing all relevant tagged alerts from Datadog monitors
 #### TODO - more info/link for Slack integration
