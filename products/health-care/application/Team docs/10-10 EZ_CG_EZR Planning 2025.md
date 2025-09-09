@@ -15,7 +15,7 @@
 ### 10-10EZ
 
 #### Obj: EZ [Improvements/BUGS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
-- [ ] **SPRINT GOAL** [#118788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118788)- [Eng] Investigate Intro page looping
+- [ ] **SPRINT GOAL** [#118788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118788) - [Eng] Investigate Intro page looping
 - [ ] **SPRINT GOAL** [#118997](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118997) - [BE] Remediate in-progress emails issue
 
 ## 
