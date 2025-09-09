@@ -77,7 +77,7 @@ recommendations:
   - "Recommendations were made for chatbots to more effectively address complex, sequential, or multi-part queries while being able to answer simpler queries faster."
 kpi_alignment:
   - KPI 1. User Satisfaction:
-    Research Alignment: The study’s focus on clarity, brevity, helpfulness, and formatting matches the KPI goal of maximizing user satisfaction. User feedback and recommendations target pain points (irrelevance, verbosity, poor formatting) that can lower satisfaction scores.
+    Research Alignment: "The study’s focus on clarity, brevity, helpfulness, and formatting matches the KPI goal of maximizing user satisfaction. User feedback and recommendations target pain points (irrelevance, verbosity, poor formatting) that can lower satisfaction scores."
     Improvement Actions: "Adopting the report’s recommendations—such as improved context awareness and actionable answers—will raise satisfaction metrics."
   - KPI 2. Average Response Time:
     Research Alignment: "Slow response times were a major user complaint. The recommendation to optimize performance and reduce latency aligns with the KPI of minimizing average response time."
