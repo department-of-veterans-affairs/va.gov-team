@@ -3,6 +3,67 @@
 
 
 ---
+## 📆 Sprint 3 (Sept 10 - Sept 23) 
+- [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
+
+### Team initiative (not form-specific)
+#### Obj: Knowledge sharing
+- Over the next several sprints, the team will need to share knowledge between our 10-10 forms, and then with the IVC team on their forms.
+     - Some of our teammates have started to do this, and we will continue throughout the contract to ensure a fairly even level of knowledge and comfort across all forms.
+
+##
+### 10-10EZ
+
+#### Obj: EZ [Improvements/BUGS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
+- [ ] **SPRINT GOAL** [#118788](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118788)- [Eng] Investigate Intro page looping
+- [ ] **SPRINT GOAL** [#118997](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118997) - [BE] Remediate in-progress emails issue
+
+## 
+### 10-10CG
+
+#### No scheduled work this sprint
+
+## 
+### 10-10EZR
+#### Obj: EZR [EC/NOK](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75046)
+- [ ] **SPRINT GOAL** [#108518](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108518) - [Team] Phased launch - **Carry over due to bug fix & additional QA**
+
+#### Obj: EZR [Household section V2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98353)
+- [ ] **SPRINT GOAL** [#105901](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105901) - [QA] Test Spouse section  - **Carry over to Sprint 3 due to Eng availability, bug fix & additional QA**
+- [ ] **SPRINT GOAL** [#112998](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112998) - [FE] Prefill Spouse information (Pending QA before merging)  - **Carry over to Sprint 3 due to Eng availability, bug fix & additional QA**
+
+#### Obj: EZR [Print/Save PDF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109746)
+- [ ] **SPRINT GOAL** [#109905](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109905) - [QA] PDF generation testing
+
+#### Obj: EZR Household Confirmation flow
+- [ ] **Stretch** [#117847](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117847) - [Design, FE] Date of Marriage for Spouse card
+
+#### Obj: EZR [Improvements](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109435)
+- [ ] **SPRINT GOAL** [#117486](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117486) - [BE] Audit BE logs to move from Sentry to Datadog
+
+#### Obj: EZR [Veteran Info Confirmation flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/104124)
+- [ ] **SPRINT GOAL** [#117878](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117878) - [Design] Review existing designs to confirm direction
+
+
+## 
+### FMP - Claims
+#### Obj: [Improvements]
+- [ ] **Stretch** [#117937](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117937) - [UX] Update direct deposit info
+
+##
+### IVC
+#### Obj: [RUM Dashboards](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98945)
+- [ ] **Stretch** [#115604](https://github.com/department-of-veterans-affairs/va.gov-team/issues/115604) - [Eng] 10-10d CHAMPVA - Hide PII in RUM dashboard
+- [ ] **Stretch** [#116731](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116731) - [Eng] 10-7959c OHI - Hide PII in RUM dashboard
+- [ ] **Stretch** [#116567](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116567) - [Eng] 10-7959a CHAMPVA Claims - Hide PII in RUM dashboard
+- [ ] **Stretch** [#116734](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116734) - [Eng] 10-7959f-1 FMP - Hide PII in RUM dashboard
+
+
+##
+### Team PTO
+- Brandon: 9/11-12
+
+---
 ## 📆 Sprint 2 (Aug 27 - Sept 9)
 - [x] 🧱 **Sprint Goals not completed** 
 
@@ -61,7 +122,7 @@
 ##
 ### All Forms
 #### Obj: [Shared Improvements](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116451)
-- [ ] **SPRINT GOAL** [#117351](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117351) - [UX] Product Mapping (CARRIED)
+- [x] **SPRINT GOAL** [#117351](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117351) - [UX] Product Mapping (CARRIED)
 
 
 ##
