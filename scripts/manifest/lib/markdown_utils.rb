@@ -12,9 +12,23 @@ module MarkdownUtils
     lines.each_with_index do |line, index|
       if line.strip == section_header
         start_index = index
-      elsif start_index && line.match?(/^##\s+/) && line.strip != section_header
-        end_index = index
-        break
+      elsif start_index 
+        # Look for patterns that indicate the end of the current section
+        if line.match?(/^##\s+/) && line.strip != section_header  # Next markdown header
+          end_index = index
+          break
+        elsif line.strip.start_with?('<details')  # Start of details/archive section
+          end_index = index
+          break
+        elsif line.strip.match?(/^\*Last updated:/)  # Timestamp line
+          # Include the timestamp line and look for the next content
+          end_index = index + 1
+          # Skip any empty lines after the timestamp
+          while end_index < lines.length && lines[end_index].strip.empty?
+            end_index += 1
+          end
+          break
+        end
       end
     end
 
