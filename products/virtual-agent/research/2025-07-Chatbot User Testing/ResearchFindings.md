@@ -76,23 +76,23 @@ recommendations:
   - "Requests included more use of bullet points, headings, tables, and consistent markdown for easy scanning."
   - "Recommendations were made for chatbots to more effectively address complex, sequential, or multi-part queries while being able to answer simpler queries faster."
 kpi_alignment:
-  - "KPI 1. User Satisfaction
-Research Alignment: The study’s focus on clarity, brevity, helpfulness, and formatting matches the KPI goal of maximizing user satisfaction. User feedback and recommendations target pain points (irrelevance, verbosity, poor formatting) that can lower satisfaction scores.
-Improvement Actions: Adopting the report’s recommendations—such as improved context awareness and actionable answers—will raise satisfaction metrics."
-  - "KPI 2. Average Response Time
-Research Alignment: Slow response times were a major user complaint. The recommendation to optimize performance and reduce latency aligns with the KPI of minimizing average response time.
-Improvement Actions: Technical enhancements suggested in the report will help meet response time targets."
-  - "KPI 3. Resolution Rate (First-Contact Resolution)
-Research Alignment: Users want direct, complete, and actionable answers. Improving query interpretation and multi-turn handling will increase the percentage of user queries resolved without escalation or further follow-up."
-Improvement Actions: Better context retention and multi-part question handling are likely to boost first-contact resolution rates." 
-  - "KPI 4. Escalation Rate to Human Agents
-Research Alignment: The research calls for better handling of complex or multi-step queries and a smoother transition to human support when needed. Reducing unnecessary escalations aligns with this KPI.
-Improvement Actions: Strengthening the chatbot’s capabilities will decrease the escalation rate, while ensuring seamless hand-off for cases that require human assistance."
-  - "KPI 5. User Engagement and Retention
-Research Alignment: Recommendations for improved tone, personality, and adaptability support increased user engagement. Consistency and clarity encourage users to return and use the chatbot for more tasks.
-Improvement Actions: Personalization and clearer responses will drive higher engagement and repeat usage."
-  - "KPI 6. Accessibility & Inclusivity (Emerging KPI)
-Research Gap: The research identifies a gap in accessibility and inclusivity testing. Addressing this will support KPIs related to equitable access and user experience for all segments."
+  - KPI 1. User Satisfaction:
+    Research Alignment: The study’s focus on clarity, brevity, helpfulness, and formatting matches the KPI goal of maximizing user satisfaction. User feedback and recommendations target pain points (irrelevance, verbosity, poor formatting) that can lower satisfaction scores.
+    Improvement Actions: Adopting the report’s recommendations—such as improved context awareness and actionable answers—will raise satisfaction metrics."
+  - KPI 2. Average Response Time:
+    Research Alignment: Slow response times were a major user complaint. The recommendation to optimize performance and reduce latency aligns with the KPI of minimizing average response time.
+    Improvement Actions: Technical enhancements suggested in the report will help meet response time targets."
+  - KPI 3. Resolution Rate (First-Contact Resolution):
+    Research Alignment: Users want direct, complete, and actionable answers. Improving query interpretation and multi-turn handling will increase the percentage of user queries resolved without escalation or further follow-up."
+    Improvement Actions: Better context retention and multi-part question handling are likely to boost first-contact resolution rates." 
+  - KPI 4. Escalation Rate to Human Agents:
+    Research Alignment: The research calls for better handling of complex or multi-step queries and a smoother transition to human support when needed. Reducing unnecessary escalations aligns with this KPI.
+    Improvement Actions: Strengthening the chatbot’s capabilities will decrease the escalation rate, while ensuring seamless hand-off for cases that require human assistance."
+  - KPI 5. User Engagement and Retention:
+    Research Alignment: Recommendations for improved tone, personality, and adaptability support increased user engagement. Consistency and clarity encourage users to return and use the chatbot for more tasks.
+    Improvement Actions: Personalization and clearer responses will drive higher engagement and repeat usage."
+  - KPI 6. Accessibility & Inclusivity (Emerging KPI):
+    Research Gap: The research identifies a gap in accessibility and inclusivity testing. Addressing this will support KPIs related to equitable access and user experience for all segments."
 outcomes:
   user: "Use a chatbot with the best UI, best message, best features, easiest to understand and easiest to navigate"
   business: "Users will determine the best version of the chatbot and convey that choice to UX researcher with reasons why they made those choices"
@@ -100,7 +100,7 @@ opportunity_areas:
   - "Diversity of Participants"
   - "The current sample size (14 users) may not represent the full spectrum of users. There is a gap in understanding how different demographics (age, tech-savviness, health status) interact with chatbots."
   - "Limited Accessibility Testing"
-  - "Only one of the 14 users tested used assistive tech
+  - "Only one of the 14 users tested used assistive tech"
 further_research_needed:
   - "Area 1"
   - "Area 2"
