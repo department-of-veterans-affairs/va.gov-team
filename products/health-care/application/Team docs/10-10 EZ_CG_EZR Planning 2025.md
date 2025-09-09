@@ -4,7 +4,7 @@
 
 ---
 ## 📆 Sprint 2 (Aug 27 - Sept 9)
-- [ ] 🎉 **Sprint Goals completed** or 🧱 **Sprint Goals not completed** 
+- [x] 🧱 **Sprint Goals not completed** 
 
 ### Team initiative (not form-specific)
 #### Obj: Knowledge sharing
@@ -15,7 +15,7 @@
 ### 10-10EZ
 
 #### Obj: EZ [Improvements/BUGS](https://github.com/department-of-veterans-affairs/va.gov-team/issues/40162)
-- [ ] **SPRINT GOAL** [#114338](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114338) - [BE] Investigate in-progress emails being sent when application has been submitted
+- [x] **SPRINT GOAL** [#114338](https://github.com/department-of-veterans-affairs/va.gov-team/issues/114338) - [BE] Investigate in-progress emails being sent when application has been submitted
 - [x] **SPRINT GOAL** [#117230](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117230) - [Design, FE] Update destructive modal content
 
 #### Obj: EZ [Insurance page updates](https://github.com/department-of-veterans-affairs/va.gov-team/issues/90159)
@@ -37,19 +37,13 @@
 ## 
 ### 10-10EZR
 #### Obj: EZR [EC/NOK](https://github.com/department-of-veterans-affairs/va.gov-team/issues/75046)
-- [ ] **SPRINT GOAL** [#108518](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108518) - [Team] Phased launch - **_Carry over due to bug fix & additional QA_**
+- [ ] **SPRINT GOAL** [#108518](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108518) - [Team] Phased launch - **_Carry over to Sprint 3 due to bug fix & additional QA_**
 
 #### Obj: EZR [Household section V2](https://github.com/department-of-veterans-affairs/va.gov-team/issues/98353)
-- **Timeline**
-     - QA remaining sections (Sprint 2)
-     - Review with team to determine release cadence to Prod (Sprint 3)
-- [ ] **SPRINT GOAL** [#105901](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105901) - [QA] Test Spouse section
-- [ ] **SPRINT GOAL** [#112998](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112998) - [FE] Prefill Spouse information (Pending QA before merging)
+- [ ] **SPRINT GOAL** [#105901](https://github.com/department-of-veterans-affairs/va.gov-team/issues/105901) - [QA] Test Spouse section  - **_Carry over to Sprint 3 due to Eng availability, bug fix & additional QA_**
+- [ ] **SPRINT GOAL** [#112998](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112998) - [FE] Prefill Spouse information (Pending QA before merging) - **_Carry over to Sprint 3 due to Eng availability, bug fix & additional QA_**
 
 #### Obj: EZR [Print/Save PDF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109746)
-- **Timeline**
-     - QA PDF generation, including overflow page (Sprint 2)
-     - Review with the team to confirm release to Prod (Sprint 3)
 - [ ] **SPRINT GOAL** [#109905](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109905) - [QA] PDF generation testing
 
 #### Obj: EZR Household Confirmation flow
@@ -61,7 +55,7 @@
 - [x] **Stretch** [#116521](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116521) - [Research] Dental info content research (CARRIED)
 
 #### Obj: EZR [Veteran Info Confirmation flow](https://github.com/department-of-veterans-affairs/va.gov-team/issues/104124)
-- [ ] **SPRINT GOAL** [#117878](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117878) - [Design] Review existing designs to confirm direction
+- [x] **SPRINT GOAL** [#117878](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117878) - [Design] Review existing designs to confirm direction
 
 
 ##
