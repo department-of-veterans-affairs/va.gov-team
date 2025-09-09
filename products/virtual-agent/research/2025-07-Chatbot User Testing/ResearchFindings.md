@@ -366,15 +366,24 @@ This research directly supports improvement in several key performance indicator
 ## Next Steps
 
 The Chatbot team's next steps are to further enhance and fine tune POC / component 3 to:
-    - Monitor and establish guardrails against jailbreaking
-    - Add additional call center documentation from Tier 1 support into VectorDB
-    - Harden DeepEval metrics and create custom metrics for answer correctness
-    - Add Google Analytics to track the Sign in support intent
-    - Add Datadog logs for monitoring and alerting
-    - Move DeepEval metrics to Databricks for automated analysis
-    - Conduct internal VA employee testing
-    - Perform moderated usability testing with Veterans 
-    - Launch sign in support LLM in production for a 2 month trial 
+
+- Monitor and establish guardrails against jailbreaking
+    
+- Add additional call center documentation from Tier 1 support into VectorDB
+    
+- Harden DeepEval metrics and create custom metrics for answer correctness
+    
+- Add Google Analytics to track the Sign in support intent
+    
+- Add Datadog logs for monitoring and alerting
+    
+- Move DeepEval metrics to Databricks for automated analysis
+    
+- Conduct internal VA employee testing
+    
+- Perform moderated usability testing with Veterans 
+    
+- Launch sign in support LLM in production for a 2 month trial 
 
 
 ## Further research needed
@@ -512,9 +521,9 @@ This research does not include the perspectives of the following marginalized Ve
 * Nonbinary, gender fluid, gender queer...
 
 
-_[insert screenshot of completed recruitment checker]_
+![Table of Underserved Veterans](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/research/2025-07-Chatbot%20User%20Testing/TableOfUnderservedVets.png "Table")
 
-![Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers. Data available in the table below this image](link - add image to github folder and link here with .png)
+[Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers. Data available in the table below this image](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/virtual-agent/research/2025-07-Chatbot%20User%20Testing/TableOfUnderservedVets.png)
 
 <details>
   <summary>A more accessible version of the table in the above image</summary>
@@ -522,15 +531,15 @@ _[insert screenshot of completed recruitment checker]_
 _[In the Markdown table below, fill in your study name and all "--" placeholders for numbers and percentages of participants from your screenshot of the completed recruitment checker.]_
 
 
-### Underserved groups in [Study name]
+### Underserved groups in VA Chatbot user testing 
 
-**Final # of participants:** --  
-**# of AT users:** --  
-**# of no shows:** --
+**Final # of participants:** 15  
+**# of AT users:** 2  
+**# of no shows:** 1
 
 #### General
 
-| Category | % | Target | Study | p1 | p2 | p3 | p4 | p5 | p6 | p7 | p8 | p9 | p10 | p11 | p12 |
+| Category | % | Target | Study | p1 | p2 | p3 | p4 | p5 | p6 | p7 | p8 | p9 | p10 | p11 | p12 |   
 |----------|---|---------|-------|---|---|---|---|---|---|---|---|----|----|----|----|
 | Age 55-64+ | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | Cognitive Disability | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
@@ -544,7 +553,7 @@ _[In the Markdown table below, fill in your study name and all "--" placeholders
 
 #### Race
 
-| Category | % | Target | Study | p1 | p2 | p3 | p4 | p5 | p6 | p7 | p8 | p9 | p10 | p11 | p12 |
+| Category | % | Target | Study | p1 | p2 | p3 | p4 | p5 | p6 | p7 | p8 | p9 | p10 | p11 | p12 | 
 |----------|---|---------|-------|---|---|---|---|---|---|---|---|----|----|----|----|
 | Black or African American | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | Hispanic, Latino, or Spanish origin | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
