@@ -1,4 +1,10 @@
-# Impact to AE Team
+# Military info / Veteran Status Card IIR learnings
+
+September 9th, 2025
+
+Document purpose: Identify potential areas of opportunity to improve display logic on the Military information page on VA.gov profile through learnings from the IIR teams experience with the Veteran Status Card.
+
+## Impact to AE Team
 
 - **The problem:** About 30% of Veterans had an ‘unknown’ discharge status for all their service history causing Veterans who should be eligible unable to access the VSC.
 
