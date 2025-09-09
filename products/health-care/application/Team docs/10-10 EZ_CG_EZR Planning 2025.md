@@ -35,7 +35,7 @@
 - [ ] **SPRINT GOAL** [#112998](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112998) - [FE] Prefill Spouse information (Pending QA before merging)  - **_Carry over to Sprint 3 due to pending QA before merge_**
 - [ ] **Stretch** [#117847](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117847) - [Design, FE] Date of Marriage for Spouse card
 
-#### Obj: EZR [Improvements](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109435)
+#### Obj: EZR [Improvements/Bugs](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109435)
 - [ ] **SPRINT GOAL** [#117486](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117486) - [BE] Audit BE logs to move from Sentry to Datadog - **_Carry over to Sprint 3 due to attention turned to EC/NOK bug fix_**
 
 #### Obj: EZR [Print/Save PDF](https://github.com/department-of-veterans-affairs/va.gov-team/issues/109746)
