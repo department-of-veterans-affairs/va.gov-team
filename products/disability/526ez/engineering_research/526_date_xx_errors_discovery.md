@@ -7,7 +7,7 @@ This discovery investigates the issue, validates the hot spot (toxic-exposure fi
 
 - Owner: Justin Linn <@LinnJS>
 - Date: 08/19/2025
-- Related Docs: [526 'XX' Data Issue - Discovery (Frontend)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108295), [Date XX Error Architecture Document](./526_date_xx_errors_discovery.md)
+- Related Docs: [526 'XX' Data Issue - Discovery (Frontend)](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108295), [Date XX Error Architecture Document](./526_date_xx_architecture.md)
 
 ## Goals
 
@@ -41,8 +41,8 @@ This has resulted in backend rejections, broken submissions, and additional supp
 
 ## Ideas / Approaches
 
-- Option 1: **Continue using MomentJS** with a standardized utility layer to ensure consistent parsing/validation (recommended)
-- Option 2: Adopt `date-fns` and refactor existing usage (lighter, but less feature-rich)
+- Option 1: **Continue using MomentJS** with a standardized utility layer to ensure consistent parsing/validation
+- Option 2: **Adopt `date-fns` and refactor existing usage** (lighter, tree-shakeable, already in repo) - **SELECTED**
 - Option 3: Add `Luxon`, but would increase complexity with limited additional value
 - Future Option: Migrate to `Temporal API` once Node 20+ and modern browsers are baseline
 
@@ -50,7 +50,7 @@ This has resulted in backend rejections, broken submissions, and additional supp
 
 - `MomentJS`: Already used in this form, feature-complete, but deprecated
 - `Intl.DateTimeFormat`: Native JS, useful for formatting only
-- `Temporal`: Successor to MomentJS, but requires Node 20+
+- `Temporal`: Successor to MomentJS, but requires Node 20+ (future consideration)
 - `Luxon`: Modern, but new dependency and complexity
 - `date-fns`: Present in repo, but limited for complex calendar logic
 
@@ -77,11 +77,11 @@ This has resulted in backend rejections, broken submissions, and additional supp
 
 ## Recommendations
 
-- Standardize on **MomentJS** in a centralized utility layer (`dateUtils.ts`)
+- Standardize on **date-fns** in a centralized utility layer (`dateUtils.ts`)
 - Add unit and integration tests for all date paths, including partial/invalid inputs
 - Refactor V3 components to enforce schema-level rules
 - Add logging/monitoring to track malformed date attempts
-- Plan migration path to **Temporal API** once Node 20+ is baseline
+- Consider migration path to **Temporal API** once Node 20+ is baseline (long-term)
 
 ## Open Questions / Risks
 
@@ -94,6 +94,6 @@ This has resulted in backend rejections, broken submissions, and additional supp
 
 - Audit all 526EZ date fields and build validation matrix
 - Implement Phase 1: toxic-exposure validation and opt-out cleanup
-- Implement Phase 2: centralized date utility and form-wide standardization
+- Implement Phase 2: centralized date utility using date-fns and form-wide standardization
 - Add test coverage for partial and invalid dates across all form sections
-- Document ADR and migration plan for Temporal API
+- Document ADR and migration plan for date-fns implementation

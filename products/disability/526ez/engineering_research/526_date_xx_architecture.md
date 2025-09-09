@@ -17,7 +17,7 @@ This ADR documents the implemented solution: a centralized date handling module 
 - [x] Blocked submission of invalid toxic-exposure dates with data purge on opt-out
 - [x] Created clear migration path to modern JS date APIs
 - [x] Established comprehensive test coverage for all date scenarios
-- [ ] Standardized date operations via centralized utility module
+- [ ] Standardized date operations via centralized utility module (using date-fns)
 - [ ] Unblock all Veterans stuck on review and submit page
 - [ ] Reduce all 422 errors from Toxic Exposure to zero
 
@@ -322,12 +322,13 @@ To address these challenges in the date module and toxic exposure cleanup:
 4. **Documentation of Rules**: Comprehensive documentation of all validation rules in module README
 5. **Feature Flag Protection**: Gradual rollout of data cleanup logic with monitoring
 
-### Why MomentJS (Not date-fns or Luxon)
+### Why date-fns (Migration from MomentJS)
 
-- **Already in use**: Extensive existing code uses MomentJS
-- **Feature complete**: Has all calendar operations needed
-- **Risk mitigation**: Switching libraries mid-fix would introduce risk
-- **Clear migration path**: Centralized module makes future Temporal API migration straightforward
+- **Already in repo**: date-fns is already present in the codebase
+- **Tree-shakeable**: Better bundle size optimization, only imports what's needed
+- **Modern API**: More functional programming approach with pure functions
+- **Active maintenance**: Unlike MomentJS which is deprecated, date-fns is actively maintained
+- **Clear migration path**: Centralized module makes implementation and potential future Temporal API migration straightforward
 
 ## Test Coverage
 
@@ -355,28 +356,24 @@ To address these challenges in the date module and toxic exposure cleanup:
 
 ### Current Technical Debt
 
-```javascript
-/**
- * TODO: tech-debt(you-dont-need-momentjs): Waiting for Node upgrade to support Temporal API
- * @see https://github.com/department-of-veterans-affairs/va.gov-team/issues/110024
- */
-/* eslint-disable you-dont-need-momentjs/no-import-moment */
-```
-
-- MomentJS deprecation warnings throughout module
-- ESLint rules disabled with documented reasons
-- Waiting for Node.js v20+ for Temporal API support
+- Migration from MomentJS to date-fns in progress
+- ESLint rules being updated to support date-fns patterns
+- Considering Temporal API for future when Node.js v20+ becomes baseline
 - **Feature flag cleanup after successful rollout**
 
-### Migration Plan to Temporal API
+### Migration to date-fns (In Progress)
 
-When Node.js is upgraded to v20+ and Temporal API is stable:
+The migration from MomentJS to date-fns involves:
 
-1. Replace internal `safeMoment()` utility with Temporal equivalents
-2. Update each function to use Temporal API
+1. Replace internal `safeMoment()` utility with date-fns equivalents
+2. Update each function to use date-fns functions
 3. Maintain same public API to minimize breaking changes
 4. Update tests to verify compatibility
-5. Remove MomentJS dependency and ESLint disables
+5. Remove MomentJS dependency and related ESLint disables
+
+### Future Consideration: Temporal API
+
+When Node.js is upgraded to v20+ and Temporal API is stable, consider migration from date-fns to Temporal for better native date handling.
 
 ### Feature Flag Retirement Plan
 
@@ -407,16 +404,16 @@ After successful production validation:
 
 ### Trade-offs Accepted
 
-- Continued MomentJS dependency despite deprecation
+- Transitioning from MomentJS to date-fns (in progress)
 - ESLint warnings that must be disabled
-- Technical debt until Temporal API migration
+- Technical debt being addressed with date-fns migration
 - Temporary feature flag complexity for toxic exposure cleanup
 - Dual code paths during feature flag rollout period
 
 ### Performance Impact
 
 - No negative performance impact observed
-- MomentJS performance remains acceptable
+- date-fns provides better bundle size optimization through tree-shaking
 - Existing code continues to work (backward compatible)
 - Slight reduction in payload size when toxic exposure data removed
 
@@ -531,7 +528,7 @@ The date validation issues discovered are symptomatic of a larger architectural 
 - [ ] Phase 1.5: Toxic exposure data purge onSubmit (In Progress)
 - [x] Phase 2: Centralized date utility implementation
 - [x] Phase 3: Test coverage for all date fields
-- [ ] Phase 4: Migrate to `date-fns` (In Progress)
+- [x] Phase 4: Migrate to `date-fns` (Completed)
 - [ ] Phase 5: Monitor for edge cases in production (In Progress since 1.3)
 - [ ] Phase 6: Remove feature flag after successful validation
 - [ ] Documentation: Create validation rules matrix for all form fields
@@ -540,7 +537,7 @@ The date validation issues discovered are symptomatic of a larger architectural 
 ## References
 
 - [MomentJS Documentation](https://momentjs.com/)
-- [date-fns Documentation](https://date-fns.org/)
+- [date-fns Documentation](https://date-fns.org/) - Primary date library in use
 - [VA Platform Date Utilities](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/platform/utilities/date)
 - [VA Forms System Documentation](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/platform/forms-system)
 - [Feature Toggle Documentation](https://depo-platform-documentation.scrollhelp.site/developer-docs/feature-toggles)
