@@ -1,5 +1,14 @@
 # Medical Supplies Reorder Playbook/Incident Response Plan
 
+## Incident Response Steps
+
+- React/comment on the monitor alert in Slack to let the team know you are aware and investigating the issue
+- Review a list of recent monitor alerts, including other related platforms such as downstream services, va.gov platform issues, login.gov, etc.
+- Check out the [Dashboard](https://vagov.ddog-gov.com/dashboard/dfy-bgk-try/medications-device-ordering-pod)
+- Reach out to OCTO stakeholders in the [#vagov-supply-reordering](https://dsva.slack.com/archives/C05DFSM57FW) slack channel
+- Begin to troubleshoot the error and root cause
+  - If needed, begin coordination with the upstream data source team in [microsoft teams chat](https://teams.microsoft.com/l/chat/19:f0db76db670d4a93881bc64945aacd05@thread.v2/conversations?context=%7B%22contextType%22%3A%22chat%22%7D)
+
 ## Product Description
 
 Medical Supply Reordering allows Veterans to order different medical device supplies on VA.gov. [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/supply-reordering-tool/READme.md).
@@ -74,22 +83,8 @@ This section outlines the steps to investigate and resolve issues related to the
 - **Monitoring Post-Fix:** Closely monitor Datadog after deploying the fix to ensure the issue is resolved and no new issues have arisen.
 - **Postmortem Analysis:** Conduct a postmortem analysis to understand the root cause and document learnings. Update the playbook accordingly to improve response for future incidents.
 
-### Flipper Features and Rollback
-
-- Flipper for the API endpoint
-- Note: We will be in direct contact with all 13 pilot participants during the pilot phase. Any issues that arise, we will be able assist.
-
 ## Security
 
 <!--  descibe any security concerns the responders should be aware, for example: Does your product have PII? Do you log sensitive information that needs to be handled in a particular manner? Does your product have a known security vulnerability that has been accepted by leadership? etc. -->
 
 No PII/PHI captured in this feature.
-
-## Incident Response Steps
-
-- React/comment on the monitor alert in Slack to let the team know you are aware and investigating the issue
-- Review a list of recent monitor alerts, including other related platforms such as downstream services, va.gov platform issues, login.gov, etc.
-- Check out the [Dashboard](https://vagov.ddog-gov.com/dashboard/dfy-bgk-try/medications-device-ordering-pod)
-- Reach out to OCTO stakeholders in the [#vagov-supply-reordering](https://dsva.slack.com/archives/C05DFSM57FW) slack channel
-- Begin to troubleshoot the error and root cause
-  - If needed, begin coordination with the downstream API team in [#va-cto-supply-reordering-alerts](https://dsva.slack.com/archives/C07BSFDCK2B)
