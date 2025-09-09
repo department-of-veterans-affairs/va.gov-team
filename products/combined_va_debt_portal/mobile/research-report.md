@@ -535,22 +535,18 @@ While the current experience for learning about new debt comes from physical let
 
     - _7 out of 11 did not open the yellow alert accordion. Of those who did, all 4 were looking for additional information on taking those actions, which they did not find._
 
-<!-----
 
 ## Product User and Business Outcomes
 
-*Explain how findings and recommendations align with the product's goals.*
-
-> [!NOTE] 
-> Refer back to your Product Outline. 
 
 ### Desired User Outcome 
-This research supports our desired user outcome by....
+Veterans will want to view their benefit overpayment and medical copayment debt on the mobile app to understand how much money they owe to the VA and why that debt exists.
+
+  - This research supports our desired user outcome by confirming that the ability to view overpayment and copayment information is highly desired by users, with everyone currently using the app saying they would use the feature. It also validates that users are not just looking for a total amount, but for clarity on why their debt exists, wanting more details than what was provided in the prototype.
  
-### Desired Business Outcome
+### 🚧 🚧 🚧 Desired Business Outcome 🚧 🚧 🚧 
 This research supports our desired business outcome by....
 
------>
 
 ## 🚧 🚧 🚧 Key Performance Indicators 🚧 🚧 🚧
 
