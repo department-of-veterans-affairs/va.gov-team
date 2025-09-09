@@ -59,7 +59,7 @@ Veterans can select known dependents from a picklist when verifying, adding or r
 - Instrument user selection and error patterns for ongoing refinement.
 ---
 
-## Phase 1 Implementation: Picklist in 686c Remove Flows
+## Phase 1 Implementation: Picklist in 686c Remove Flows (September - December 2025)
 As part of the 686c V3 release, we will introduce the picklist only in **remove dependent flows**.
 
 - Applies only to dependents already on file in the Veteran’s award record  
