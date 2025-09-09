@@ -57,21 +57,61 @@ Veterans can select known dependents from a picklist when verifying, adding or r
 - In a second phase, expand integration into the 686c “remove dependent” flow.
 - Define fallback paths when no known dependents are found or picklist data cannot be loaded.
 - Instrument user selection and error patterns for ongoing refinement.
-
 ---
 
-## Screenshots
+## Phase 1 Implementation: Picklist in 686c Remove Flows
+As part of the 686c V3 release, we will introduce the picklist only in **remove dependent flows**.
+
+- Applies only to dependents already on file in the Veteran’s award record  
+- Picklist selections will be mapped directly to 686c submissions
+- Design is based on existing 0538 Picklist exploration work where relevant, aligned with VA Design System  
+
+
+### Hypotheses
+- Veterans will complete removal flows at a higher rate when presented with a picklist instead of manual entry  
+- Picklist-driven selections will reduce input errors  
+- Veterans will trust the accuracy of the displayed dependent list and feel more confident in their submissions  
+- Average time to complete a removal will decrease because redundant questions are eliminated  
+
+
+### Measurement Plan
+- **Primary metric:** Conversion rate on 686c remove flows (baseline vs. post-picklist)  
+- **Secondary metrics:**  
+  - Average time to complete a removal  
+  - % of submissions with name mismatch errors  
+  - % of submissions requiring manual routing  
+- **Diagnostic metrics:**  
+  - Drop-off rate at dependent selection step  
+  - Frequency of “Other / none of the above” selections if we include a fallback  
+
+
+
+### Risks and Watch-fors
+- Dependent data freshness or mismatches could erode Veteran trust in the picklist  
+- Claims intake systems may not handle mapped codes consistently, risking downstream rework  
+- Edge cases (no dependents on file, complex branching removals) may still force manual paths  
+- Over-indexing on speed without validating comprehension could risk incorrect removals  
+
+
+### Link to Broader Initiative
+This Phase 1 release will serve as a proof point for:  
+- Dependent Verification picklist opportunities  
+- Expansion to 686c add flows and reinstatements  
+- Long-term goal of enabling RBPS auto-processing with structured dependent data 
+
+
+### Screenshots
 TBD — wireframes or prototypes in development.
 
 ---
 
-### Communications
+## Communications
 - Team Name: Benefits Dependent Experience Team
 - GitHub Label(s): dependents-benefits
 - Slack channel: benefits-dependents-management
 - Product POC: Jacob Worrell
 
-### Stakeholders
+## Stakeholders
 - OCTO: Sanja Bajovic, Ben Guhin Delphine
 - VBA: Kevin Schneider
 - RBPS: Caleb Roberts
