@@ -11,7 +11,7 @@
 - Determine resolution for in-progress email issue, confirming if resolution should be platform-wide
 - Re-launch EC/NOK
 - Complete QA on Household V2, preparing for launch
-- Start phased launch of Print/Save PDF
+
 
 ##
 ### 10-10EZ
