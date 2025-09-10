@@ -1,7 +1,7 @@
 name: "10-7959C CHAMPVA Other Health Insurance Certification form"
 entry_name: 10-7959C
 description: "Product description"
-team: "ivc-forms"
+team: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/teams/health-portfolio/ivc-forms
 github-label: "10-7959c"
 urls:
   production: "https://www.va.gov/family-and-caregiver-benefits/health-and-disability/champva/submit-other-insurance-form-10-7959c/"

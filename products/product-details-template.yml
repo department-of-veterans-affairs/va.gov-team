@@ -1,7 +1,7 @@
 name: "Product Display Name"
 entry_name: "manifest-entry-name"  # Must match vets-website manifest.json
 description: "Product description"
-team: "team-name"  # MUST match teams/[portfolio]/[team-name]/ directory and team name in va.gov-team-sensitive repo
+team: "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/[portfolio]/[team-name]/README.md"  # MUST be a link to the team README.md file in va.gov-team-sensitive repo
 github-label: "Product label"
 urls:
   production: "https://..."

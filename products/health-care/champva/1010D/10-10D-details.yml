@@ -1,7 +1,7 @@
 name: 10-10D Application for CHAMPVA benefits
 entry_name: 10-10D  # Must match vets-website manifest.json
 description: "Product description"
-team: "ivc-forms"  # MUST match teams/[portfolio]/[team-name]/ directory and team name in README.md
+team: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/teams/health-portfolio/ivc-forms
 github-label: "10-10d"
 urls:
   production: "https://..."
