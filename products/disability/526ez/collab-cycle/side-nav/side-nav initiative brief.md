@@ -49,7 +49,6 @@ This initiative supports the following OCTO strategy and Objectives because it w
     1. 1.1 Improve satisfaction with our web and mobile products by 5 points.
 - `OCTO’s platforms are the fastest, most efficient`, and most secure way to deliver products at VA.
   
-<!--
 ## Desired User Outcomes
 **Why would a user want to use this?**
 - To move to any section of the form at any time, so that I don’t waste clicks or have to backtrack unnecessarily.
