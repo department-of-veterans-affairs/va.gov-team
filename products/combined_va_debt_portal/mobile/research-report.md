@@ -1,4 +1,3 @@
-<!-----
 ---
 title: "[Mobile App Debt Portal: Overpayments and Copayments Usability Study] Research Findings"
 product: "Mobile App Debt Portal: Overpayments and Copayments"
@@ -10,91 +9,117 @@ researchers and designers:
   - "Natasha Huckleberry - UX Designer"
   - "Thomas Michaud - UX Designer"
 research_goals:
-  - "Goal 1"
-  - "Goal 2"
+  - "Goal 1: Understand how users become aware of and locate information about money they owe in the app."
+  - "Goal 2: Assess how well users understand and interpret their copay and overpayment information in the app."
+  - "Goal 3: Identify what actions users want to take regarding money owed and evaluate how easily they can find guidance in the app."
+  - "Goal 4: Evaluate the experience of completing actions outside the app."
+  - "Goal 5: Prioritize features for the minimum viable product (MVP) that will handle overpayments and copayments in the app."
 methodology:
-  - "Method 1"
-  - "Method 2"
+  - "Moderated usability testing using high-fidelity Figma prototypes over Zoom"
 devices_used:
-    desktop: X
-    tablet: X
+    desktop: 0
+    tablet: 0
     smartphone: X
-    assistive_technology: X
-participants_total: X
+    assistive_technology: 0
+participants_total: 12
 demographics:
-  veterans: X
-  service_members: X
-  caregivers: X
-  dependents: X
-  VA_staff: X
+  veterans: 12
+  service_members: 0
+  caregivers: 0
+  dependents: 0
+  VA_staff: 0
   age:
-    "25-34": X
-    "35-44": X
-    "45-54": X
-    "55-64": X
-    "65+": X
-    unknown: X
+    "25-34": 1
+    "35-44": 7
+    "45-54": 0
+    "55-64": 0
+    "65+": 3
+    unknown: 1
   education:
-    high_school: X
-    some_college: X
-    associates: X
-    bachelors: X
-    masters: X
-    doctorate: X
-    unknown: X
+    high_school: 3
+    some_college: 3
+    associates: 0
+    bachelors: 5
+    masters: 1
+    doctorate: 0
+    unknown: 0
   location:
-    urban: X
-    rural: X
-    unknown: X
+    urban: 9
+    rural: 3
+    unknown: 0
   race:
-    white: X
-    black: X
-    hispanic: X
-    biracial: X
-    asian: X
-    native: X
+    white: 5
+    black: 1
+    hispanic: 2
+    biracial: 1
+    asian: 2
+    native: 1
   disability:
-    cognitive: X
-    AT_beginner: X
-    AT_advanced: X
-    screen_reader_desktop: X
-    screen_reader_mobile: X
-    magnification_zoom: X
-    speech_input: X
-    hearing_aids: X
-    sighted_keyboard: X
-    captions: X
+    cognitive: 3
+    AT_beginner: 0
+    AT_advanced: 0
+    screen_reader_desktop: 0
+    screen_reader_mobile: 0
+    magnification_zoom: 0
+    speech_input: 0
+    hearing_aids: 0
+    sighted_keyboard: 0
+    captions: 0
 key_findings:
-  - "Finding 1"
-  - "Finding 2"
-  # etc.
+  - "Finding 1: Despite their frustrations with the payment process on mobile, participants preferred having this option over a version that only allowed viewing debt and bills."
+  - "Finding 2: Navigation and labels need to be intuitive to prevent confusion."
+  - "Finding 3: Participants have a need for clear, actionable options when searching for help with their debt or bills."
+  - "Finding 4: Key payment information must be surfaced and easy to retain."
+  - "Finding 5: Digital statements and documents are a core need for users."
+  - "Finding 6: Separation of current and resolved debt is beneficial for clarity."
+  - "Finding 7: Users want a clear, centralized way to manage their bills."
 recommendations:
-  - "Recommendation 1"
-  - "Recommendation 2"
+  - "Recommendation 1: Proceed with the MVP version, having the payment options of linking to pay.gov and pay.va.gov"
+  - "Recommendation 2: Keep the name of “Payments” on the tab as-is for now"
+  - "Recommendation 3: Provide a space for users to view resolved debt, and remove resolved debt from the current list of outstanding debts and bills"
+  - "Recommendation 4: Improve the handoff experience to external payment sites. Make it very clear that the user needs to take action to save the payment information before they are redirected."
+  - "Recommendation 5: Enable copy-and-paste functions for key payment information to make the external payment process more seamless."
+  - "Recommendation 6: Clarify why a debt exists. Add easy and actionable ways for users to learn why they have a particular debt, moving away from the generic explanation."
+  - "Recommendation 7: Add due dates for bills and debts on the Payments page to help users manage their finances at a glance."
+  - "Recommendation 8: Prominently display a phone number, as Veterans often bypass help menus in search of a way to speak directly with someone."
+  - "Recommendation 9: Surface non-payment options. The options of disputing a debt or requesting a payment plan were not being discovered in the Help menu and were somewhat hidden under the Resolve button."
+  - "Recommendation 10: Provide access to debt letters. If not possible, provide a clear explanation for why they can not be read in the app"
+  - "Recommendation 11: Make older PDF statements easier to find. The current structure requires much scrolling and is not clearly labeled."
+  - "Recommendation 12: Look into making the PDFs as accessible as possible for all users."
+  - "Recommendation 13: Clarify the structure of the copay statements. Until we are able to provide real-time transactions, make it clear that the copay details are in statement form and may not be up to date."
+  - "Recommendation 14: Re-evaluate the alert accordion on the details page. Either make it clearly expandable with valuable content inside or replace it with a simple banner."
 kpi_alignment:
-  - "KPI 1"
-  - "KPI 2"
+  - "KPI 1: Total number of views of benefit overpayments and medical copayments. We expect this to be a non-zero amount and will increase once overpayments and copayments are viewable in the app. We will track the total number of views on a monthly basis."
+  - "KPI 2: Overall app volume. We expect an increase in overall app volume as benefit overpayments and medical copayments debt information are implemented within the app. We will track the overall app volume on a monthly basis."
+  - "KPI 3: Total number of clicks on the link to access VA.gov. We expect that Veterans will want to request help or dispute their debt or copay, and that this non-zero amount will increase. We will track the total number of clicks on the links to access VA.gov on a monthly basis."
+  - "KPI 4: Total number of clicks on the 'Resolve Debt' and 'Resolve Copay' buttons. These buttons will allow users to begin the payment journey for their overpayment debt (on pay.va.gov) or copayment bill (on pay.gov). We expect this non-zero amount will increase. We will track the total number of clicks on each button to access the respective payment sites on a monthly basis."
+  - "KPI 5: Total number of views of the PDF Copayment statements. We expect this to be a non-zero amount and expect that Veterans who have any copayment bills will want to view the PDF. We will track the total number of views on a monthly basis."
+  - "KPI 6: Total number of error alerts shown to the user. We will want to track this metric to ensure that everything is functioning as intended and that if we see a high volume of errors, there is a problem that will need to be addressed. We will track the total number of errors on a monthly basis."
+  - "KPI 7: Total number of clicks on the empty state of benefit overpayments and medical copayments. We expect this to be a non-zero amount and want to track this as a metric to assess the design, and not a metric determining the success of the debt feature itself. This will be a temporary metric that is tracked for 6 months."
 outcomes:
-  user: "Desired user outcome"
-  business: "Desired business outcome"
+  user: "Veterans will want to view their benefit overpayment and medical copayment debt on the mobile app to understand how much money they owe to the VA and why that debt exists. This research supports our desired user outcome by confirming that the ability to view overpayment and copayment information is highly desired by users, with everyone currently using the app saying they would use the feature. It also validates that users are not just looking for a total amount, but for clarity on why their debt exists, wanting more details than what was provided in the prototype."
+  business: "Increase the visibility of these debts by the business, so that it provides additional awareness to Veterans, informing them that they owe money to the VA. By adding these details to the mobile app, gives Veterans a convenient way to view money they might owe the VA and then take the necessary actions on their debt or bill. This research supports our desired business outcome by confirming that Veterans desire visibility into their debts and bills on the app. The findings validate that by adding these features, we are providing a solution for Veterans to become aware that they owe money to the VA, and the ability to take actions to resolve the debt or bill, request help, or dispute it."
 opportunity_areas:
   - "Unmet need 1"
   - "Research gap 1"
 further_research_needed:
-  - "Area 1"
-  - "Area 2"
+  - "Area 1: Notifications: how do users want to be notified of new debts, new bills, and payments required?"
+  - "Area 2: Possibly exploring naming options for “Payments” to find something that is more encompassing of money owed to VA and money owed to the Veteran."
+  - "Area 3: Testing with users of assistive technology after this is built in the app."
 underserved_groups_missing:
-  - "Group 1"
-  - "Group 2"
+  - "Group 1: No degree"
+  - "Group 2: Other than honorable"
+  - "Group 3: Immigrant origin"
+  - "Group 4: Expat (living abroad)"
+  - "Group 5: Assistive technology users"
 secondary_research:
-  - "Web analytics"
-  - "SME interviews"
+  - "Reviewed previous research studies"
 synthesis_tools_used:
   - "Mural"
-  - "Affinity Mapping"
+  - "Numbers and Google Sheets"
 ---
 
------>
+
 
 # 🚧 🚧 🚧 Work in Progress 🚧 🚧 🚧
 
