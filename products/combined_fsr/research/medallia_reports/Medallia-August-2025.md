@@ -10,7 +10,7 @@ This portion of the report analyzes the two open field text responses gathered f
 
 1. **Medallia Feedback Survey:** Accessed by clicking the blue ‘feedback’ button located at the bottom of most [VA.gov](http://VA.gov) pages. In reports this is known as `VA.gov VFS Questionnaire`
 
-   The open field text question asks,“What task were you trying to do today?”  
+   The open field text question asks, “What task were you trying to do today?”  
       
 2. **Medallia Intercept Survey:** Randomly intercepts 5% of [VA.gov](http://VA.gov) visitors who have had a 20-second or more session.  In reports this is known as `VA.gov A11 Questionnaire`
 
