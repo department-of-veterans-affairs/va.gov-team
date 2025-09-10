@@ -603,11 +603,6 @@ We expect this to be a non-zero amount and want to track this as a metric to ass
 
 ## Next Steps
 
- 🚧 🚧 🚧
- 
-[Spreadsheet with recommendations and their statuses (Google Sheet)](https://docs.google.com/spreadsheets/d/1b2y2qA8gWbx0GtgiDoCnUsUiYlQksZIuN6oCClm0458/edit?gid=2073713253#gid=2073713253)
-  - Feedback needed: The "Recommendation Status" column – confirm, fix, or update cells as necessary
-  - The table below is from the above spreadsheet – I'll update the table once everyone has viewed + adjusted the spreadsheet
 
 | Recommendation | Status | Note |
 | :--- | :--- | :--- |
