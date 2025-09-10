@@ -574,7 +574,8 @@ We will want to track this metric to ensure that everything is functioning as in
 
 - How findings support the KPI: Any error the user encounters would most likely lead to frustration. The research identified several points of friction that could lead to this frustration, including a confusing handoff to external payment sites, difficulty locating financial help, and a lack of prominently displayed phone numbers.
 
-### KPI 7: Total number of clicks on the empty state of benefit overpayments and medical copayments. We expect this to be a non-zero amount and want to track this as a metric to assess the design, and not a metric determining the success of the debt feature itself. This will be a temporary metric that is tracked for 6 months.
+### KPI 7: Total number of clicks on the empty state of benefit overpayments and medical copayments. 
+We expect this to be a non-zero amount and want to track this as a metric to assess the design, and not a metric determining the success of the debt feature itself. This will be a temporary metric that is tracked for 6 months.
 
 - How findings support the KPI: This research did not directly touch upon this KPI. However, the findings show that a few users were confused about some of the cards on the Payments page if they did not have experience with them in their real life (e.g. the payments made to them).
 
