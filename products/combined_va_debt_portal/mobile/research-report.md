@@ -121,17 +121,13 @@ synthesis_tools_used:
 
 
 
-# 🚧 🚧 🚧 Work in Progress 🚧 🚧 🚧
-
-
-
 
 
 # [Mobile App Debt Portal: Overpayments and Copayments] Research Findings 
 
 **Office of the CTO - Digital Experience (OCTO-DE), Mobile App Debt Portal: Overpayments and Copayments, Mobile Feature Support**
 
-**Date:** 09-04-2025
+**Date:** 09-11-2025
 
 **Contacts:** Emily DeWan - Researcher, Natasha Huckleberry - Designer, Thomas Michaud - Designer
 
