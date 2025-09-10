@@ -74,7 +74,7 @@ A text note above the alert “Note: [A/An] [mobile phone, email address, and ma
 
 <details><summary> Missing contact information error alert</summary>
 
-- **Use case:** User is missing all or some of their contact info (mobile phone number, contact email, and/or mailing address) from their profile and the user can view the missing contact information summary page with an error alert, warning alert, and note to provide direction
+- **Use case:** User clicks "Continue button" at the bottom of the Missing contact inforamtion summary page when they are missing all or some of their contact info (mobile phone number, contact email, and/or mailing address) from their profile. The displayed error alert is there to bring additional attention to the action that the user needs to take.
 - **Staging user:** vets.gov.user+12@gmail.com does not have a mailing address (do not add a mailing address), you may need to remove the mobile phone number on the contact information page in staging.
 - **Format:** Slim Warning alert
 - **Link to designs:** [Missing contact information error alert and note](https://www.figma.com/design/eztyT5LpinAolQPMFnFtw7/Missing-Contact-Info?node-id=384-9424&t=qBnzLOIRS5QmY5ev-1)
@@ -86,6 +86,8 @@ Additional components displayed for this use case:
 A text note above the alert “Note: [A/An] [mobile phone, email address, and mailing address] [is/are] required for this application."
 
 [See figma design for additional insight](https://www.figma.com/design/eztyT5LpinAolQPMFnFtw7/Missing-Contact-Info?node-id=384-9286&t=qBnzLOIRS5QmY5ev-1)
+
+Note: This stacked alert design does not follow design standards and was only implemented in this way because the form that this flow was built from had this pre-existing behavior.
 
 
 </details>
