@@ -30,10 +30,14 @@ The mobile app does not have any debt-related information for Veterans to access
 * Veterans might not understand overpayment and copayment debts and will want information on VA Debt Management resources and support.  
 * Veterans will want information on steps to dispute a charge or request financial assistance, as well as be able to make a payment on their overpayment and copayment debt.
 
-## Desired Outcomes
+## Desired User Outcomes
 
 * Veterans will want to view their benefit overpayment and medical copayment debt on the mobile app to understand how much money they owe to the VA.   
 * Veterans will want to view details related to the benefit overpayment and medical copayment debts on the mobile app so they understand why that debt exists.
+
+## Desired Business Outcomes
+
+* Increase the visibility of these debts by the business, so that it provides additional awareness to Veterans, informing them that they owe money to the VA. By adding these details to the mobile app, gives Veterans a convenient way to view money they might owe the VA and then take the necessary actions on their debt/bill.
 
 ## Measuring Success
 
@@ -41,7 +45,8 @@ The mobile app does not have any debt-related information for Veterans to access
 
 * Total number of views of benefit overpayments and medical copayments. We expect this to be a non-zero amount and will increase once overpayments and copayments are viewable in the app. We will track the total number of views on a monthly basis.  
 * Overall app volume. We expect an increase in overall app volume as benefit overpayments and medical copayments debt information are implemented within the app. We will track the overall app volume on a monthly basis.  
-* Total number of clicks on the link to access VA.gov. We expect that Veterans will want to make a payment towards their benefit overpayment and medical copayment debts, and that this non-zero amount will increase. We will track the total number of clicks on the link to access VA.gov on a monthly basis.
+* Total number of clicks on the link to access VA.gov. We expect that Veterans will want to request help or dispute their debt or copay, and that this non-zero amount will increase. We will track the total number of clicks on the links to access VA.gov on a monthly basis. 
+* Total number of clicks on the "Resolve Debt" and Resolve Copay" buttons. These buttons will allow users to begin the payment journey for their overpayment debt (on pay.va.gov) or copayment bill (on pay.gov). We expect this non-zero amount will increase. We will track the total number of clicks on each button to access the respective payment sites on a monthly basis.
 * Total number of views of the PDF Copayment statements. We expect this to be a non-zero amount and expect that Veterans who have any copayment bills will want to view the PDF. We will track the total number of views on a monthly basis.
 * Total number of error alerts shown to the user. We will want to track this metric to ensure that everything is functioning as intended and that if we see a high volume of errors, there is a problem that will need to be addressed. We will track the total number of errors on a monthly basis. 
 * Total number of clicks on the empty state of benefit overpayments and medical copayments. We expect this to be a non-zero amount and want to track this as a metric to assess the design, and not a metric determining the success of the debt feature itself. This will be a temporary metric that is tracked for 6 months.  
@@ -101,6 +106,7 @@ O1: VA’s digital experiences are the easiest and most efficient way to access 
 |9/4/2025| Remove the Feedback-to-vet to align alerts between mobile and web. | Michelle said that we could remove that label, and we have tickets in progress or completed that have captured that work. |
 |9/4/2025| Completed Content and Flow Alignment between Mobile and Web. | Michelle said that we could consider this work done in a Slack thread. |
 |9/4/2025| Understand how users navigate to payment website. | Michelle said that we could pass off the documentation to the Core Mobile team and close this out. |
+|9/10/2025| Mobile designs will include the Notice of rights and responsibilities for overpayments and copayments. | This notice is regulatory-related and needs to be included in the detail/overview pages. The FM team does not own the content. |
 
 
 ## Reference Materials

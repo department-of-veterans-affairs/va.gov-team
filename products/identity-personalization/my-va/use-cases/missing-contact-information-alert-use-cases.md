@@ -8,10 +8,8 @@
 Included in this section are descriptions of use cases for the missing contact information alert and flow and links to shared VA.gov profile use cases.
 - [Common use cases for My VA: Missing contact information alert](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/missing-contact-information-alert-use-cases.md#common-use-cases-for-my-va-missing-contact-information-alert)
 - [Common use cases for Missing contact info: Summary page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/missing-contact-information-alert-use-cases.md#common-use-cases-for-missing-contact-info-summary-page)
-- [Common use cases for Modified Edit-as-a-subtask: Add mobile phone number](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/missing-contact-information-alert-use-cases.md#common-use-cases-for-modified-edit-as-a-subtask-add-mobile-phone-number) 
-- [Common use cases for Modified Edit-as-a-subtask: Add contact email address](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/missing-contact-information-alert-use-cases.md#common-use-cases-for-modified-edit-as-a-subtask-add-contact-email-address) 
-- [Common use cases for Modified Edit-as-a-subtask: Add mailing address](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/missing-contact-information-alert-use-cases.md#common-use-cases-for-modified-edit-as-a-subtask-add-mailing-address)
-- [Common use cases for Modified Edit-as-a-subtask: Contact information update success page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/missing-contact-information-alert-use-cases.md#common-use-cases-for-modified-edit-as-a-subtask-contact-information-update-success-page)
+- [Common use cases for Variation of Edit-as-a-subtask](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/missing-contact-information-alert-use-cases.md#common-use-cases-for-modified-edit-as-a-subtask-add-mobile-phone-number) 
+- [Common use cases for Contact information confirmation page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/missing-contact-information-alert-use-cases.md#common-use-cases-for-modified-edit-as-a-subtask-contact-information-update-success-page)
 
 ## Common use cases for My VA: Missing contact information alert
 ### User logs in with LOA3 account
@@ -56,18 +54,20 @@ None
 ## Common use cases for Missing contact info: Summary page
 ### User logs in with LOA3 account
 #### Missing all or some of their contact info (mobile phone number, contact email, and/or mailing address)
-<details><summary> View informational alert</summary>
+<details><summary> View Missing contact information summary page with warning alert</summary>
 
-- **Use case:** User is missing all or some of their contact info (mobile phone number, contact email, and/or mailing address) from their profile and an alert is displayed on the summary page to provide direction
+- **Use case:** User is missing all or some of their contact info (mobile phone number, contact email, and/or mailing address) from their profile and the user can view the missing contact information summary page with a warning alert to provide direction
 - **Staging user:** vets.gov.user+12@gmail.com does not have a mailing address (do not add a mailing address), you may need to remove the mobile phone number on the contact information page in staging.
 - **Format:** Slim Warning alert
-- **Link to designs:** Missing contact information warning
+- **Link to designs:** [Missing contact information warning](https://www.figma.com/design/eztyT5LpinAolQPMFnFtw7/Missing-Contact-Info?node-id=384-9449&t=qBnzLOIRS5QmY5ev-1)
 - **Link to code:** [Alert](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/profile/components/alerts/ContactInfoNeeded.jsx) and placement on the [dashboard](https://github.com/department-of-veterans-affairs/vets-website/blob/2065c3ce67945b9a8f79f07e651d851f203b4f3f/src/applications/personalization/dashboard/components/Dashboard.jsx#L123)
 - **Content:**
-Body: Your [mobile phone, email address, and mailing address] [is/are] missing. Please edit and update the [field/fields].
+Body: Your [mobile phone, email address, and mailing address] [are/is] missing. Please edit and update the [fields/field].
 
 Additional components displayed for this use case:
-A text note above the alert “[A/An] [mobile phone/email address] is required for this application.” (This text is associated with the form structure that this flow was built with)
+A text note above the alert “Note: [A/An] [mobile phone, email address, and mailing address] [is/are] required for this application."
+
+[See figma design for additional insight](https://www.figma.com/design/eztyT5LpinAolQPMFnFtw7/Missing-Contact-Info?node-id=384-9286&t=qBnzLOIRS5QmY5ev-1)
 
 
 </details>

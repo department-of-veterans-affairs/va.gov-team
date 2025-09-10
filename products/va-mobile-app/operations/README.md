@@ -46,7 +46,7 @@ Tool | Access | Purpose
 [DataDog](https://app.datadoghq.com/dashboard/9nz-cn7-ws6/mobile-api-dashboard?from_ts=1640615800322&to_ts=1643294200322&live=true) | SaaS account | Monitoring and Alerting
 [Firebase Analytics and Crashlytics](https://console.firebase.google.com/project/va-mobile/overview) | SaaS account | Frontend application exceptions and events, analytics
 [AWS Logs](https://console.amazonaws-us-gov.com/cloudwatch/home?region=us-gov-west-1#logsV2:log-groups/log-group/dsva-vagov-staging$252Fsrv$252Fvets-api$252Fsrc$252Flog$252Fvets-api-server.log) | AWS | Logs
-[PagerDuty](https://dsva.pagerduty.com/incidents) | SaaS account | Alerts, downtime management
+[PagerDuty](https://ecc.pagerduty.com/incidents) | SaaS account | Alerts, downtime management
 
 
 ### External Dependencies

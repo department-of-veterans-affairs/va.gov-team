@@ -9,8 +9,8 @@ This message is an alert that is displayed on VAOS pages, but leaves the app up 
 To enable this message:
 
 1. Choose which environment to enable maintenance message:
-    1. For Staging open https://dsva.pagerduty.com/service-directory/PK8LY9N
-    2. For Production open https://dsva.pagerduty.com/service-directory/P4M0YBT
+    1. For Staging open https://ecc.pagerduty.com/service-directory/PW06NOU
+    2. For Production open https://ecc.pagerduty.com/service-directory/P35KIQK
 2. Click Add a maintenance window at the bottom
 3. Make sure the "Which services are affected" box says
     1. "Staging: VAOS - warning message" for Staging
@@ -26,8 +26,8 @@ This message will replace the entire VAOS application and prevent any access to 
 To enable this message:
 
 1. Choose which environment to enable maintenance message:
-    1. For Staging open https://dsva.pagerduty.com/service-directory/PK8LY9N
-    2. For Production open https://dsva.pagerduty.com/service-directory/PFDNA11
+    1. For Staging open https://ecc.pagerduty.com/service-directory/PW06NOU
+    2. For Production open https://ecc.pagerduty.com/service-directory/P35KIQK
 2. Click Add a maintenance window at the bottom
 3. Make sure the "Which services are affected" box says:
     1. "Staging: VAOS" for Staging

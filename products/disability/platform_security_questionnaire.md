@@ -74,9 +74,14 @@ VFS team: Disability Benefits Crew (DBC)
   - [topology](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/platform/engineering/Updated%20External%20Service%20Topology.png)
   - Lighthouse APIs
   - VANotify (?)
+  - VBMS
 - Are these connections Internal or External to the VA?
   - internal
 - Do you have a POC? Please list
+  - Core Form (Team 1): Kyle Soskin
+  - Pathways (Team 2): Justin Linn
+  - Conditions: Lisa Chung
+  - Employee Experience: Mark Chae
 - Describe the encryption used for the connection in transit (e.g., Not Encrypted, TLS 1.2, TLS 1.3, mTLS).
   - not certain, but we believe TLS 1.2/1.3 encryption over HTTPS, VA Certificate Authority signed. 
 - Specify the certificate source if applicable (e.g., AWS ACM, Let's Encrypt, self-signed)

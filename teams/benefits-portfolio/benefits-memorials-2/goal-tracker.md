@@ -130,9 +130,9 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 ## Sprint Goals - Sprint: 16 [8/27/25 - 9/9/25]  
 | Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
 |--|--|--|--|--|
-|UX: Update pay.gov overpayment designs after receiving stakeholder feedback.| QP4 |--|--|--|
-|UX: Create designs to improve readability of payment history pages with lengthy statements by adding a pagination component. | QP3 |--|--|--|
-|ENG: In accordance with Platform updates, address imposter components related to continue and back buttons.| QP7 |--|--|--|
+|UX: Update pay.gov overpayment designs after receiving stakeholder feedback.| QP4 |--|09/08/25|Completed|
+|UX: Create designs to improve readability of payment history pages with lengthy statements by adding a pagination component. | QP3 |--|09/05/25|Completed|
+|ENG: In accordance with Platform updates, address imposter components related to continue and back buttons.| QP7 |--|--|Incomplete|
 |ENG: Finalize remaining artifacts for One Thing Per Page Staging Review:  QA Artifacts, Release Plan, and Playbook.| QP2 |--|--|--|
 |ENG: Prepare to submit 3 payment history PR’s for Platform approval (without merging) in preparation for Lighthouse API credentials.| QP3 |--|09/08/25|Completed|
 
@@ -145,8 +145,26 @@ Current/prior sprint tickets & completion rates can be seen [here](https://githu
 **_Delivery + Notes:_**
 - [ ] All goals have been updated in the sprint chart
 - [ ] Any Additional details about goals **not** completed will be documented here
+- ENG: In accordance with Platform updates, address imposter components related to continue and back buttons.
+     -This ticket was moved out of the sprint to prioritize a more pressing initiative.
 
+## Sprint Goals - Sprint: 17 [9/10/25 - 9/23/25]  
+| Sprint Goal | QP Goal  | Reason if Not Complete | Update Date | End of Sprint Status |
+|--|--|--|--|--|
+|UX: Review the designs and userflows for pay.gov overpayments with ENG and determine feasibility and update mockups accordingly.| QP4 |--|--|--|
+|UX: Investigate, identify and work with stakeholders on ways to improve the Marital Status question on the FSR, to cover all situations/scenarios referenced in the Medallia reports.| QP7 |--|--|--|
+|ENG: Launch the refactored, asynchronous Sidekiq job for Digital Dispute and monitor metrics, including creation of monitors for critical metrics.| QP1 |--|--|--|
+|ENG: Complete all remaining One Thing Per Page work and book Staging Review.| QP2 |--|--|--|
 
+**_Approvals:_** _(sent via email but approvals tracked here)_
+ - [X] Ready to be sent for approvals (09/08/25)
+ - [ ] VA PO & COR sent the Sprint Goals (09/08/25)
+ - [ ] VA PO approved the Sprint Goals (09/XX/25)
+ - [ ] VA COR approved the Sprint Goals (09/XX/25)
+ 
+**_Delivery + Notes:_**
+- [ ] All goals have been updated in the sprint chart
+- [ ] Any Additional details about goals **not** completed will be documented here
 
 ---
 

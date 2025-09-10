@@ -10,7 +10,7 @@ Today, claims processors, attorneys, judges, and other employees within VA don't
 
 ## The request
 
-The Veterans Benefits Administration (VBA) and the Board of Veterans' Appeals (BVA or the Board) have requested that the email contents, recipient email, and relevant dates be available in the Veteran's eFolder.
+The Veterans Benefits Administration (VBA) and the Board of Veterans' Appeals (BVA or the Board) have requested that the email contents, recipient email address, and relevant dates be available in the Veteran's eFolder.
 
 ### Why this is important
 

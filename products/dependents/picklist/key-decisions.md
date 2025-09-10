@@ -6,21 +6,57 @@ This file tracks the key decisions made for the Picklist project.
 
 For any substanial decision to make or made by the team, add it here. Substantial is defined as a decision the team may regret forgetting later. Some examples include: Project scope, design decisions, technical decisions, etc. You should still document those decisions in tickets, but pull substantial ones out here for easier future reference. Whenever possible, link to existing tickets for better context.
 
-## Decisions to make for the picklist in Dependent Verification
+## Decisions to make for the picklist in Add/Remove Dependents
 
 | Date added | Decision | Background | Why make this decision |
 | :--- | :--- | :--- | :--- |
 | 09/02/25 | Do we want to show all dependents or one at a time? | This will bet tested as part of the initial picklist research. | One puts more information in front of the Veteran at once, liekly helping Veterans what decisions they need to make. It also may mean a more challenging implementation. |
 | 09/02/25 | Should we ask the death-related questions separately? | This will bet tested as part of the initial picklist research. | We need to decide which is a better experience for Veterans, and more trauma informed. |
-| 09/02/25 | Do we want it to handle complex scenarios, such as the divorce of a spouse and the removal of stepchildren? | The current digital dependent verification form doesn't handle this. How far do we want to go? | This would help determine scope in a big way. |
+| 09/02/25 | Which removals should we support? | The current digital dependent verification form doesn't handle many removal types. How far do we want to go? | This would help determine scope in a big way. |
 
 ## Decisions made
+
+## DR 2: Where does the picklist go first? 686/674 or 0538?
+
+Date: 2025-09-08
+
+#### Status
+
+Accepted
+
+#### Context
+
+The [picklist feature](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/Initiative%20Brief%3A%20Dependent%20Picklist%20Component.md) can go in either form.
+
+The team and stakeholders kept questioning our past decision as we dug deeper into the problem space.
+
+This happened as a result of our exploration of the disability benefits landscape, and further design work on the picklist.
+
+#### Decision
+
+The team, along with the VA Product Lead, VA Design Lead and VBA stakeholder decided to change course and work on putting the picklist in the 686.
+
+#### Consequences
+
+Pros
+
+- Almost all removal use cases are handled by the 686/674, whereas the 0538 only allows some removal types.
+  - All programs (disability, pension, and survivor payments) use this form for adds/removals, rather than the 0538 (which is just for disability)
+- The 686 can be auto-processed by RBPS (leading to faster processing and reducing overpayment due to delay), whereas the 0538 cannot (no changes only can be auto-processed)
+  - This is with the caveat that our current digital form CANNOT be processed by RBPS, but we are planning to prioritize a back-end fix to that soon
+  - Dependent removals submitted using an 0538 are manually processed and, given the lower priority of EP130s in the manual queue, these claims could take months to process
+- If the team is able to process verifications and changes to dependents in the future via the 686/674, the picklist may not need to go into the 0538.
+
+Cons
+
+- Risk for dropoff when transitioning between 0538 and 686
+- Increased technical complexity (assumed), since we are attempting to change the VBA process to better align with veteran needs/expectations, rather than just digitizing the process as-is
 
 ### DR 1: Where does the picklist go first? 686/674 or 0538?
 Date: 2025-07-17
 
 #### Status
-Accepted
+Superseded
 
 #### Context
 The [picklist feature](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/dependents/Initiative%20Brief%3A%20Dependent%20Picklist%20Component.md) can go in either form. Placing it in the 0538 means less complexities from both a design and engineering perspective. However, it that form covers fewer use cases for Veterans. Placing it in the 686/674 means that more dependent use cases would be covered. However, the complexities increase because they are more screens and edge cases.
