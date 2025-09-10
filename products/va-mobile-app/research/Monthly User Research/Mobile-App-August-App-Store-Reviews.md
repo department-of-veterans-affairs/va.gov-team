@@ -43,7 +43,7 @@ Note: General feedback includes responses that reflect Veteran experiences with 
 The August 2025 feedback for the VA Health & Benefits app reveals a polarized distribution of ratings with 42% of responses giving the app a 5 star rating, while the second highest percentage of ratings at 22% rate the app as 1 star. While many users appreciate the app's convenience and ease of use for managing healthcare and benefits, a significant number report issues with login, navigation, and specific features like travel pay and messaging. An incident involving an incorrectly linked staging environment appeared to have temporarily caused login problems for some users likely directly impacting the lower rating scores. Despite this temporary issue, many users praise the app for its improvements over previous versions.
 
 ### Positive
-The majority of the received review, although only a slight majority at roughly 57%, is positive. Many users find the app quick and easy to use noting its simplicity and speed. They also often note it provides a convenient way to manage their healthcare and benefits. Users appreciate the ability to refill prescriptions, check appointments, prove their status, track payments, and communicate with their care teams.
+The majority of the received review, although only a slight majority at roughly 57%, is positive. Many users find the app quick and easy to use noting its simplicity and speed. They also often note it provides a convenient and secure way to manage their healthcare and benefits. Users appreciate the ability to refill prescriptions, check appointments, prove their status, track payments, and communicate with their care teams.
 
 | Rating | % of ratings | # of ratings |
 |--|--|--|
@@ -53,6 +53,10 @@ The majority of the received review, although only a slight majority at roughly 
 Representative responses:
 
 > This app is so valuable. I’m thankful that it exists and impressed with its function. It’s easy to use and has so many helpful tools that make accessing VA benefits much easier. Because of this app, I’m more likely to tend to my medical needs. I can easily communicate with my doctor through the app, request medicine, refill medications or check on my other VA benefits. Very thankful to have such an awesome tool in my pocket.
+
+<br>
+
+> This app has truly transformed the way I manage my healthcare and benefits as a veteran. It’s user friendly, secure, and packed with features that make managing my appointments and medications very easy. It’s clear the VA is prioritizing digital accessibility and making things more convenient for us.
 
 <br>
 
@@ -137,9 +141,14 @@ Representative responses:
 ### User pain points
 
 #### Login difficulties
-Many users struggle with the login process, citing issues with ID.me, two-factor authentication, and general difficulty remembering passwords. This is a major pain point, as it prevents users from accessing the app's features.
+Many users struggle with the login process, citing issues with ID.me, two-factor authentication, and general difficulty remembering passwords. Some users also mention getting logged out or having to reauthenticate noting it as an inconveience. Login continues to be a major pain point, as it prevents users from accessing the app's features.
 
-Recommendation: Simplify the login process by promoting biometric options. Login research including a temporary addition of a login issue survey for unathenticated users will allow the team to further gather data about the issues app users may be experiencing to analyize for root cause. Provide links to clear instructions and support for users experiencing login issues.
+> All in all it's a decent app. You can do most everything VA-related here. They do frequent updates and keep up on maintaining the app. My only complaint is it like to hard kick you out causing a 3-step verification when you were just in it. Sometimes after an update it happens, most of the time not. Again not an issue, more of an inconvenience.
+
+<br>
+
+Recommendation: Simplify the login process through native functionality promoting options like biometric options instead of MFA and retaining user login credentials. Login research including a temporary addition of a login issue survey for unathenticated users will allow the team to further gather data about the login issue root causes of app users in order to target key improvements the mobile app can target related to login. Provide links to clear instructions and support for users experiencing login issues.
+
 
 ## Feature specific feedback
 | Feature | average rating | # of ratings |
@@ -173,15 +182,19 @@ Representative responses:
 
 <br>
 
+> Once I got the app figured out, it's very nice and easy to use.
+
+<br>
+
 ### Login
 | Feature | average rating | # of ratings |
 |--|--|--|
 |Login | 2.1 | 85 |
-Login issues are a significant pain point for many users, with some reporting difficulties with ID.me, two-factor authentication, and general login errors. Recent updates appear to have exacerbated these issues.
+Login issues are a significant pain point for many users, with some reporting difficulties with ID.me, two-factor authentication, and general login errors. Recent updates appear to have exacerbated these issues. Users that express positive login sentiment appreciate the easier methods of signing in native functionality offers and the fewer steps offered from the app. 
 
 Representative responses:
 
-> Unable to log on. id.me not working
+> This is awesome. No more, numerous steps to sign-in to get messages and answers. Thank you VA.
 
 <br>
 
@@ -293,6 +306,14 @@ Representative responses:
 
 <br>
 
+> I don't see the section for travel pay. supposed to be in the health section, don't see it.
+
+<br>
+
+> Love the app, also like that it shows when there is a travel claim that can be made and lets you know how long you have to file.
+
+<br> 
+
 ### Messaging
 | Feature | average rating | # of ratings |
 |--|--|--|
@@ -305,9 +326,10 @@ Representative responses:
 
 <br>
 
-> The VA always looks out for their veterans and goes out of their way to care for them.
+> Everything was working fine until this last update when I tried to send a message. It asked me to 'Pick A Care System' and the app won't let me scroll down to do so... Kind of a big deal since it's required. Please look into it. Galaxy Note 10+
 
 <br>
+
 
 ### Prescriptions
 | Feature | average rating | # of ratings |
@@ -321,11 +343,20 @@ Representative responses:
 
 <br>
 
-> Ordering prescriptions are easy and fast and the app helps with all my needs
+> This App has been a life saver for me by making it user friendly enough to use. The information and dr appts and medication info in (real time) makes the quality of my life better because I can stay on top of my medications. Thanks for all you do for Vets. God Bless!ARMY VETERAN
+
+<br>
+
+> The groups that are set up are very confusing. I've tried 3 times to request a prescription to no avail...
+
+<br>
+
+> refilling my medication is very easy as opposed to how it used to be. great job VA! 👏
 
 <br>
 
 ### Appointments
+Appointments are a favorited feature by many app users who provided a positive rating for the app. Additions to appointment details would continue to add value to users, where users mentioned desiring to see the reason for the appointment, payment status, and more detailed address elements such as building names with room numbers.
 
 Representative responses:
 
@@ -333,10 +364,23 @@ Representative responses:
 
 <br>
 
+> Looking forward to whats to come. Would like to suggest having the word "Paid" under the appt, next to "Confirmed".
 
+<br>
+
+> One of the best apps I've used, never had any issues while using the app. I have noticed some appointments don't provide the reason for the appointment, would be nice if it did.
+
+<br>
 
 ### Feature Enhancements
-Users request the ability to see what their appointment is for.
+#### App support
+Users mention the desire to reach someone knowledgeable about the app to assist them with a service the app provides, noting mixed success with call center agents and lack of knowledge from in-person staff at their local VA care centers.
+> initially there were quite a few technical glitches preventing me access. it took me a few tries to finally reach an agent that had the knowledge and expertise to help with the biometrics system. to this day I am appreciative of amount of help this application provides! keep up the good work 👍🏾
+
+<br>
+
+#### Appointments
+1. Users request the ability to see what their appointment is for.
 
 Representative responses:
 
