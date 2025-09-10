@@ -13,7 +13,7 @@ Feedback includes x total responses, each with a rating of 1-5. Ratings of 1-2 a
 | = 5 | % | # |
 
 ### Outline
-1. [General/other feedback](link)
+1. [General/other feedback](https://github.com/department-of-veterans-affairs/va.gov-team/edit/master/products/va-mobile-app/research/Monthly%20User%20Research/Template2_App%20Store%20Reviews.md#generalother-feedback)
 - [Positive](link)
 - [Negative](link)
 - [Neutral](link)
