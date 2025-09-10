@@ -25,7 +25,7 @@
 
 ## Outcome Summary
 > *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-* .
+* We are implementing the [side navigation component](https://design.va.gov/components/sidenav) into the 526ez form. The side navigation will contain the 6 main steps of the form: (1) Veteran details (2) Conditions (3) Mental health (4) Suppporting evidence (5) Additional information (6) Review and submit. By implementing the `side navigation` we intend on giving Veterans the ability to skip sections and navigate back to sections without having to hit the `back` or `continue` button multiple times. Providing a navigation feature will also provide Veterans with an overview of all form section and help them have a stronger sense of progress across sections. By implementing the `side navigation` we will reduce the number of clicks it takes for a Veteran to complete the form, consequently making the act of filling out the form quicker and more efficient.
 
 **Related/Associated product(s)**
 - Product | Link to product outline 
@@ -33,6 +33,7 @@
 ## Problem
 > *Describe the challenge / pain point you seek to address.:* 
 * What is the problem and who is affected? And, what evidence do we have of the problem?
+* 
 * Why do you think the problem is occurring? Other reasons why this might be occurring?
 * How does this initiative help further OCTO-DE's mission and goals?
 
