@@ -95,20 +95,22 @@ This initiative supports the following OCTO strategy and Objectives because it w
 > Indicate how you'll validate/test against these risks. Inspired by [SVPG's Four Big Risks](https://www.svpg.com/four-big-risks/).*
 
 **Value Risks** (will people use it): 
-  - Users may continue to not trust VA's buttons and navigation and continue to use their browser back button.  
-  - The side nav component on mobile becomes an accordion that lives that the top of the page. Our form's "Review and Submit" summarizes the information that the user entered in multiple accordions. Users may get confused and not use the navigation component on this page because the number of stacked accordions might be confusing. 
+- Users may continue to not trust VA's buttons and navigation and continue to use their browser back button.  
+- The side nav component on mobile becomes an accordion that lives that the top of the page. Our form's "Review and Submit" summarizes the information that the user entered in multiple accordions. Users may get confused and not use the navigation component on this page because the number of stacked accordions might be confusing. 
+
 **Usability Risks** (can people figure out how to use it):
-  - The side nav component on mobile becomes an accordion that lives that the top of the page. This might be challenging for users to figure out. 
-  - Our form's "Review and Submit" summarizes the information that the user entered in multiple accordions. Users may get confused and not use the navigation component on this page because the number of stacked accordions might be confusing. 
+- The side nav component on mobile becomes an accordion that lives that the top of the page. This might be challenging for users to figure out. 
+- Our form's "Review and Submit" summarizes the information that the user entered in multiple accordions. Users may get confused and not use the navigation component on this page because the number of stacked accordions might be confusing. 
+
 **[Technical] Feasibility Risks** (can we build it with available tech/data):
-  - Risk of invalid or incomplete data if a user navigates mid-entry and the system saves improperly.
-  - The current form schema is inconsistent—some chunks are grouped under a single object, others spread out. This may affect how Side Nav maps sections and impacts stability. There is a risk that Side Nav can’t align cleanly with existing schema structure.
-  - Navigation must respect existing conditional logic (e.g., hiding/showing sections like 0781). There is a risk if Side Nav doesn’t dynamically adjust as state changes.
-  - Risk of poor user experience if navigation isn’t predictable (e.g., landing in the wrong sub-page).
-  - Potential accessibility risks if Side Nav doesn’t integrate well with existing navigation and back button behaviors.
+- Risk of invalid or incomplete data if a user navigates mid-entry and the system saves improperly.
+- The current form schema is inconsistent—some chunks are grouped under a single object, others spread out. This may affect how Side Nav maps sections and impacts stability. There is a risk that Side Nav can’t align cleanly with existing schema structure.
+- Navigation must respect existing conditional logic (e.g., hiding/showing sections like 0781). There is a risk if Side Nav doesn’t dynamically adjust as state changes.
+- Risk of poor user experience if navigation isn’t predictable (e.g., landing in the wrong sub-page).
+- Potential accessibility risks if Side Nav doesn’t integrate well with existing navigation and back button behaviors.
   
-- **Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
-  - We are trying to minimize organizational viability risks and constraints by using the side nav platform component and starting with an MVP implementation that encompasses providing navigation to the landing pages of the 6 main sections vs. also providing navigation to sub sections.
+**Organizational Viability Risks/Constraints** (will there be a positive organizational impact):
+- We are trying to minimize organizational viability risks and constraints by using the side nav platform component and starting with an MVP implementation that encompasses providing navigation to the landing pages of the 6 main sections vs. also providing navigation to sub sections.
 
 ### Supporting research
 
@@ -124,7 +126,7 @@ This initiative supports the following OCTO strategy and Objectives because it w
 - We are going to include the 6 major steps of our form in the side nav: (1) Veteran details (2) Conditions (3) Mental health (4) Supporting evidence (5) Additional Information (6) Submit and review.
  
  **What have you explicitly decided to **not** include and why?**
- - We ARE NOT going to include any sub sections or nested sections within the side navigation because we want to first understand how the MVP functions and any technical constraints we may come across during it's implementation. 
+ - We ARE NOT going to include any sub sections or nested sections within the side navigation because we want to first understand how the MVP functions and any technical constraints we may come across during it's implementation. We need to do more work to understand the number of header levels that are included in the navigation and how to map pages of our form to those header levels. There is more IA work to be done before we implement the nested side nav.  
 
 > *Are you building for the VA Health and Benefits mobile application? Explain why or why not.*
 
