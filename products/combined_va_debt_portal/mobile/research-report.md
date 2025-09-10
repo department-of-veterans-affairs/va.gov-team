@@ -579,8 +579,8 @@ We expect this to be a non-zero amount and want to track this as a metric to ass
  🚧 🚧 🚧
  
 [Spreadsheet with recommendations and their statuses (Google Sheet)](https://docs.google.com/spreadsheets/d/1b2y2qA8gWbx0GtgiDoCnUsUiYlQksZIuN6oCClm0458/edit?gid=2073713253#gid=2073713253&fvid=560371841)
-  - There will be a table here with each recommendation and the current status (e.g. design updated, future, pending)
   - Feedback needed: The "Recommendation Status" column – confirm, fix, or update cells as necessary
+  - The table below is from the above spreadsheet – I'll update the table once everyone has viewed + adjusted the spreadsheet
 
 | Recommendation | Status | Note |
 |---|---|---|
@@ -633,7 +633,7 @@ Testing with users of assistive technology after this is built in the app.
 
 ### Secondary research
 
-Previous research studies
+Previous research studies reviewed and referenced
 * [Debt Portal & eFSR Medallia Report: December 2024](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_fsr/research/medallia_reports/Medallia-December-2024.md)
 * [2024-09 VHA Debt Portal Payment History, Usability Study, September 2024](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/684)
 * [2024-06 Usability Study: Debt Portal Payment History](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues/560)
@@ -642,9 +642,6 @@ Previous research studies
 
 
 ### Research participants 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-
-[Example Research participants](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/teams/digital-experience/ADE/research/2025-05-save-in-progress/research-report.md#research-participants)
 
 #### Recruitment criteria
 
@@ -652,8 +649,8 @@ Two cohorts of Veterans: those who had experience with benefits overpayment debt
 
 We talked with 12 Veterans
 
-- 6 focusing on overpayments
-- 5 focusing on copayments
+- 6 discussions focusing on overpayments
+- 5 discussions focusing on copayments
 - 1 that was interview only and not a usability test (due to technical issues)
 - No assistive technology users or accessibility features turned on
     * (this is due to prototype limitations; we will be testing with assistive technology at a later date)
@@ -736,7 +733,7 @@ This research does not include the perspectives of the following marginalized Ve
 * Expat (living abroad)
 * Assistive technology users
 
-
+Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers:
 ![Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/mobile/supporting-files/VA%20Recruitment%20Checker.png)
 
 
