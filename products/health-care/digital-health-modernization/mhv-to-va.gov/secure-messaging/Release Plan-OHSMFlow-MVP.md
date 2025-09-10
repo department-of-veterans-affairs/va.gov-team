@@ -16,8 +16,8 @@ Feature Toggles
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| Add MVP Feature toggle here-XX | Add description here-XX |
-| Add Recent Recipient Feature toggle here-XX | Add Description here-XX |
+| Add MVP Feature toggle here- `mhv_secure_messaging_curated_list_flow` | Add description here-XX |
+| Add Recent Recipient Feature toggle here- `mhv_secure_messaging_recent_recipients` | Add Description here-XX |
 
 Replace existing toggle we are using with a new one to decouple from OH integration work
 
