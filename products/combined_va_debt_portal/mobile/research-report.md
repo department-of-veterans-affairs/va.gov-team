@@ -610,6 +610,7 @@ We expect this to be a non-zero amount and want to track this as a metric to ass
 
 - Notifications: how do users want to be notified of new debts, new bills, and payments required?
 - Possibly exploring naming options for “Payments” to find something that is more encompassing of money owed to VA and money owed to the Veteran.
+  - In a comparative analysis we conducted, we found that most apps did not group incoming and outgoing money together. The few that did used the terms "Transact" and "Transfer & Pay." [Read the full comparative analysis report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/mobile/Naming_Conventions_Report.md).
 - Testing with users of assistive technology after this is built in the app.
 
 
@@ -623,6 +624,7 @@ We expect this to be a non-zero amount and want to track this as a metric to ass
 - [Interview notes](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/combined_va_debt_portal/mobile/session-notes)
 - [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1752611263909/251a9de646f8e1f1243c9d66902ad9e2466ab623?sender=u456b54784628aa29fbf80697)
 - [User flow](https://www.figma.com/board/jHdoq3dF3iEZABqUzir6ot/MFS---Overpayments---Copays--Sitemap-flows--%7C-VA-Mobile?node-id=135-6256&t=jNUjASjwhmmfxBSV-4)
+- [Comparative analysis report on naming conventions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/mobile/Naming_Conventions_Report.md)
 
 ### Tools used for Synthesis
 
