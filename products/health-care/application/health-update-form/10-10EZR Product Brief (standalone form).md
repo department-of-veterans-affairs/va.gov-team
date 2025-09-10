@@ -218,8 +218,8 @@ In future iterations, we plan to review for alternative locations and other syst
 - Nov: Complete UAT
 - Dec: Complete E2E testing
 - Dec 20: Launched to 10% of users
-- Jan: Complete phased launch
-- Jan 11: Launch at 100%
+- April: Complete phased launch at 100%
+
 ---
    
 ## Screenshots
