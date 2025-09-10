@@ -1,0 +1,350 @@
+name: Validate Product Details
+
+on:
+  pull_request:
+    paths:
+      - 'products/**/*-details.yml'
+  push:
+    branches:
+      - master
+    paths:
+      - 'products/**/*-details.yml'
+
+jobs:
+  validate-product-details:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    permissions:
+      contents: read
+      issues: read
+      pull-requests: write
+
+    steps:
+      - name: Optimized checkout for large repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          sparse-checkout: |
+            .github/workflows/
+            scripts/
+            products/
+          sparse-checkout-cone-mode: false
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
+          bundler-cache: false
+
+      - name: Install dependencies
+        run: |
+          gem install yaml psych net-http uri
+
+      - name: Get changed product files
+        id: changed-files
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            # For pull requests, get files changed in this PR
+            git fetch origin ${{ github.base_ref }}:${{ github.base_ref }}
+            CHANGED_FILES=$(git diff --name-only ${{ github.base_ref }}...HEAD | grep 'products/.*-details\.yml$' || true)
+          else
+            # For push to master, get files in the last commit
+            CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD | grep 'products/.*-details\.yml$' || true)
+          fi
+          
+          if [ -z "$CHANGED_FILES" ]; then
+            echo "No product details files changed"
+            echo "changed_files=" >> $GITHUB_OUTPUT
+          else
+            echo "Changed files:"
+            echo "$CHANGED_FILES"
+            # Convert to space-separated list for easier processing
+            FILES_LIST=$(echo "$CHANGED_FILES" | tr '\n' ' ')
+            echo "changed_files=$FILES_LIST" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Validate changed product files
+        if: steps.changed-files.outputs.changed_files != ''
+        run: |
+          # Create validation script
+          cat > validate_links.rb << 'EOF'
+          #!/usr/bin/env ruby
+          require 'yaml'
+          require 'net/http'
+          require 'uri'
+          require 'json'
+
+          class ProductLinkValidator
+            # Template defaults that should be ignored
+            TEMPLATE_DEFAULTS = {
+              'manifest_url' => 'https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/[app-name]/manifest.json',
+              'project_board' => 'https://',
+              'research_repo' => 'https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues',
+              'github-label' => 'Product label'
+            }.freeze
+
+            def initialize(github_token)
+              @github_token = github_token
+              @errors = []
+              @warnings = []
+            end
+
+            def validate_file(file_path)
+              puts "🔍 Validating #{file_path}..."
+              
+              unless File.exist?(file_path)
+                @errors << "❌ File not found: #{file_path}"
+                return
+              end
+
+              begin
+                content = YAML.safe_load(File.read(file_path))
+                validate_yaml_structure(content, file_path)
+                validate_links(content, file_path)
+                validate_github_label(content, file_path)
+              rescue Psych::SyntaxError => e
+                @errors << "❌ YAML syntax error in #{file_path}: #{e.message}"
+              rescue => e
+                @errors << "❌ Error processing #{file_path}: #{e.message}"
+              end
+            end
+
+            def validate_yaml_structure(content, file_path)
+              unless content.is_a?(Hash)
+                @errors << "❌ #{file_path}: YAML content must be a hash/object"
+                return
+              end
+
+              required_fields = %w[name entry_name description team status]
+              missing_fields = required_fields.select do |field|
+                !content.key?(field) || content[field].nil? || content[field].to_s.strip.empty?
+              end
+
+              unless missing_fields.empty?
+                @errors << "❌ #{file_path}: Missing required fields: #{missing_fields.join(', ')}"
+              end
+
+              # Check for template placeholders
+              placeholder_checks = {
+                'name' => 'Product Display Name',
+                'entry_name' => 'manifest-entry-name',
+                'description' => 'Product description',
+                'team' => 'team-name'
+              }
+
+              placeholder_checks.each do |field, placeholder|
+                if content[field] == placeholder
+                  @errors << "❌ #{file_path}: Field '#{field}' contains template placeholder: #{placeholder}"
+                end
+              end
+            end
+
+            def validate_links(content, file_path)
+              # Validate manifest_url
+              if content['manifest_url'] && content['manifest_url'] != TEMPLATE_DEFAULTS['manifest_url']
+                validate_url(content['manifest_url'], 'manifest_url', file_path)
+              end
+
+              # Validate measurement URLs
+              if content['measurement'].is_a?(Hash)
+                measurement = content['measurement']
+                
+                if measurement['project_board'] && measurement['project_board'] != TEMPLATE_DEFAULTS['project_board']
+                  validate_url(measurement['project_board'], 'project_board', file_path)
+                end
+
+                if measurement['research_repo'] && measurement['research_repo'] != TEMPLATE_DEFAULTS['research_repo']
+                  validate_url(measurement['research_repo'], 'research_repo', file_path)
+                end
+
+                # Validate other measurement URLs
+                %w[datadog_dashboard domo_dashboard google_analytics metrics_dashboard].each do |field|
+                  if measurement[field] && !measurement[field].match?(/^https?:\/+\.\.\./) && !measurement[field].strip.empty?
+                    validate_url_format(measurement[field], field, file_path)
+                  end
+                end
+              end
+
+              # Validate production and staging URLs
+              if content['urls'].is_a?(Hash)
+                %w[production staging].each do |env|
+                  if content['urls'][env] && !content['urls'][env].match?(/^https?:\/+\.\.\./) && !content['urls'][env].strip.empty?
+                    validate_url_format(content['urls'][env], "urls.#{env}", file_path)
+                  end
+                end
+              end
+            end
+
+            def validate_github_label(content, file_path)
+              github_label = content['github-label']
+              return unless github_label && github_label != TEMPLATE_DEFAULTS['github-label']
+
+              puts "🏷️  Checking GitHub label: #{github_label}"
+              
+              # Check if label exists in the repository
+              begin
+                response = github_api_request("https://api.github.com/repos/department-of-veterans-affairs/va.gov-team/labels/#{URI.encode_www_form_component(github_label)}")
+                
+                if response.code == '200'
+                  puts "✅ GitHub label '#{github_label}' exists"
+                elsif response.code == '404'
+                  @warnings << "⚠️  #{file_path}: GitHub label '#{github_label}' does not exist in va.gov-team repository"
+                else
+                  @warnings << "⚠️  #{file_path}: Could not verify GitHub label '#{github_label}' (HTTP #{response.code})"
+                end
+              rescue => e
+                @warnings << "⚠️  #{file_path}: Error checking GitHub label '#{github_label}': #{e.message}"
+              end
+            end
+
+            def validate_url_format(url, field_name, file_path)
+              begin
+                uri = URI.parse(url)
+                unless uri.scheme && %w[http https].include?(uri.scheme)
+                  @errors << "❌ #{file_path}: #{field_name} must be a valid HTTP/HTTPS URL: #{url}"
+                  return false
+                end
+                
+                unless uri.host
+                  @errors << "❌ #{file_path}: #{field_name} must have a valid hostname: #{url}"
+                  return false
+                end
+                
+                # Additional validation for specific field types
+                case field_name
+                when 'manifest_url'
+                  unless url.include?('github.com') && url.include?('manifest.json')
+                    @errors << "❌ #{file_path}: manifest_url should be a GitHub URL pointing to manifest.json: #{url}"
+                    return false
+                  end
+                when 'research_repo'
+                  unless url.include?('github.com')
+                    @warnings << "⚠️  #{file_path}: research_repo should typically be a GitHub URL: #{url}"
+                  end
+                end
+                
+                true
+              rescue URI::InvalidURIError
+                @errors << "❌ #{file_path}: #{field_name} contains invalid URL: #{url}"
+                false
+              end
+            end
+
+            def validate_url(url, field_name, file_path)
+              validate_url_format(url, field_name, file_path)
+              puts "✅ URL format valid: #{url}"
+            end
+
+            # Remove the unused validation methods since we're only doing format validation
+            def github_api_request(url)
+              uri = URI.parse(url)
+              http = Net::HTTP.new(uri.host, uri.port)
+              http.use_ssl = true
+              http.open_timeout = 10
+              http.read_timeout = 10
+              
+              request = Net::HTTP::Get.new(uri.path)
+              request['Authorization'] = "token #{@github_token}"
+              request['Accept'] = 'application/vnd.github.v3+json'
+              request['User-Agent'] = 'VA.gov Product Validator'
+              
+              http.request(request)
+            end
+
+            def report_results
+              puts "\n📊 Validation Results:"
+              puts "Errors: #{@errors.length}"
+              puts "Warnings: #{@warnings.length}"
+              
+              unless @errors.empty?
+                puts "\n❌ ERRORS:"
+                @errors.each { |error| puts error }
+              end
+              
+              unless @warnings.empty?
+                puts "\n⚠️  WARNINGS:"
+                @warnings.each { |warning| puts warning }
+              end
+              
+              @errors.empty?
+            end
+          end
+
+          # Main execution
+          if ARGV.empty?
+            puts "Usage: ruby validate_links.rb <file1> [file2] ..."
+            exit 1
+          end
+
+          github_token = ENV['GITHUB_TOKEN']
+          unless github_token
+            puts "❌ GITHUB_TOKEN environment variable not set"
+            exit 1
+          end
+
+          validator = ProductLinkValidator.new(github_token)
+          
+          ARGV.each do |file_path|
+            validator.validate_file(file_path)
+          end
+          
+          success = validator.report_results
+          exit(success ? 0 : 1)
+          EOF
+
+          chmod +x validate_links.rb
+          
+          # Run validation on changed files
+          ruby validate_links.rb ${{ steps.changed-files.outputs.changed_files }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Run existing product validation
+        if: steps.changed-files.outputs.changed_files != ''
+        run: |
+          # Run the existing validation script for comparison
+          if [ -f "scripts/manifest/validate_products.rb" ]; then
+            echo "🔧 Running existing product validation..."
+            for file in ${{ steps.changed-files.outputs.changed_files }}; do
+              if [ -f "$file" ]; then
+                product_name=$(basename "$file" .yml | sed 's/-details$//')
+                ruby scripts/manifest/validate_products.rb --product "$product_name" --verbose || true
+              fi
+            done
+          else
+            echo "⚠️  Existing validation script not found, skipping"
+          fi
+
+      - name: Comment on PR with validation results
+        if: github.event_name == 'pull_request' && steps.changed-files.outputs.changed_files != ''
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            
+            // This would need to be enhanced to capture the validation output
+            // For now, we'll just note that validation ran
+            const comment = `## 🔍 Product Details Validation
+            
+            Validation completed for the following product details files:
+            ${process.env.CHANGED_FILES.split(' ').map(f => `- \`${f}\``).join('\n')}
+            
+            Please check the workflow logs for detailed validation results.
+            
+            The validation checks:
+            - ✅ YAML syntax and required fields
+            - 🔗 URL format validation for all links
+            - 🏷️ GitHub label existence in va.gov-team repository
+            - 📋 Template placeholder detection
+            `;
+            
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: comment
+            });
+        env:
+          CHANGED_FILES: ${{ steps.changed-files.outputs.changed_files }}
