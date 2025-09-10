@@ -34,6 +34,7 @@ Veterans may use web forms on VA.gov throughout ALL stages of the Veteran Journe
 1. See if Veterans understand that their form data is being saved as they're filling out a form but haven't submitted it yet.
 1. See if Veterans can stop and resume filling out a form.  
 1. See if moving the accordion controls to the left side affects usability.
+1. See if the removal of the duplicate form intro page for authenticated users reduces confusion.
   
 ### Outcome
 
@@ -54,11 +55,15 @@ Findings and recommendations from this research will **inform design guidance an
 #### Research goal 3: See if moving the accordion controls to the left side affects usability.
 1. Are Veterans able to open and close accordions with controls on the left side? 
 
+#### Research goal 4: See if the removal of the duplicate form intro page for authenticated users reduces confusion.
+1. Do Veterans have any issues navigating to the first page of the form? 
+
 ### Hypotheses
 
 1. With the new design, Veterans are confident that their form data will be saved.
 1. With the new design, Veterans will be able to stop and resume filling out a form.
 1. All Veterans (including screen magnifier users) will find the accordion controls on the left side easy to use.
+1. Authenticated users who start a form from the form intro page will get to the first page of the form quicker without any confusion.
 
 ---
   
