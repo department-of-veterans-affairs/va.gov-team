@@ -8,7 +8,7 @@
 Included in this section are descriptions of use cases for the missing contact information alert and flow and links to shared VA.gov profile use cases.
 - [Common use cases for My VA: Missing contact information alert](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/missing-contact-information-alert-use-cases.md#common-use-cases-for-my-va-missing-contact-information-alert)
 - [Common use cases for Missing contact info: Summary page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/missing-contact-information-alert-use-cases.md#common-use-cases-for-missing-contact-info-summary-page)
-- [Common use cases for Modified Edit-as-a-subtask](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/missing-contact-information-alert-use-cases.md#common-use-cases-for-modified-edit-as-a-subtask-add-mobile-phone-number) 
+- [Common use cases for Variation of Edit-as-a-subtask](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/missing-contact-information-alert-use-cases.md#common-use-cases-for-modified-edit-as-a-subtask-add-mobile-phone-number) 
 - [Common use cases for Contact information confirmation page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/use-cases/missing-contact-information-alert-use-cases.md#common-use-cases-for-modified-edit-as-a-subtask-contact-information-update-success-page)
 
 ## Common use cases for My VA: Missing contact information alert
