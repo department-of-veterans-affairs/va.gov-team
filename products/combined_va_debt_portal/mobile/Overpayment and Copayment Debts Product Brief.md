@@ -106,6 +106,7 @@ O1: VA’s digital experiences are the easiest and most efficient way to access 
 |9/4/2025| Remove the Feedback-to-vet to align alerts between mobile and web. | Michelle said that we could remove that label, and we have tickets in progress or completed that have captured that work. |
 |9/4/2025| Completed Content and Flow Alignment between Mobile and Web. | Michelle said that we could consider this work done in a Slack thread. |
 |9/4/2025| Understand how users navigate to payment website. | Michelle said that we could pass off the documentation to the Core Mobile team and close this out. |
+|9/10/2025| Mobile designs will include the Notice of rights and responsibilities for overpayments and copayments. | This notice is regulatory-related and needs to be included in the detail/overview pages. The FM team does not own the content. |
 
 
 ## Reference Materials
