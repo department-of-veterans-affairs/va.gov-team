@@ -72,13 +72,11 @@ The results of the study will help us determine if Veterans who utilize assistiv
 **Research goal #2: Identify if Veterans using screen reader or screen magnifier technology can fill out a form from the app on their own.**
 
 3. Most Veterans using a screen reader or screen magnifer will be able to independently complete all required fields in a form using the mobile app.
-4. Some Veterans may experience confusion interpretting the status of the form after submission.
-5. Veterans using a screen reader or screen magnifer will have mixed feelings about the overall experience, with some expressing frustration regarding usability issues and others finding the process straightforward.
+
 
 **Research goal #3: Identify if Veterans using screen reader or screen magnifier technology can start a form and come back to it at a later time to complete.**
 
-6. Veterans using a screen reader or screen magnifer will be able to locate and resume a form they previously started within the mobile app.
-7. Barriers such as difficulty finding saved forms will prevent some Veterans from successfully submitting a previously started form.
+4. Veterans using a screen reader or screen magnifer will be able to locate and resume a form they previously started within the mobile app.
   
 ## Methodology  🛠️
 
@@ -149,8 +147,8 @@ We'd like to recruit people who use a mix of different screen readers, such as, 
 |All|Have used the VA Health & Benefits app at least once before the study|Primary|
 |All|Are willing to join from a mobile device using a screen reader|Primary|
 |All|Daily use of screen readers to access websites or applications|Primary|
-|3-4|Have 1-4 years of experience using a screen reader|Primary|
-|3-4|Have 5+ years of experience using a screen reader|Primary|
+|Exactly 3|Have 1-4 years of experience using a screen reader|Primary|
+|Exactly 3|Have 5+ years of experience using a screen reader|Primary|
 |At least 3|Are over 55 years old|Secondary|
 |At least 3|Identify as Black, Asian, Hispanic or Native|Secondary|
 |At least 2|Identify as a gender other than male|Secondary|
@@ -201,13 +199,13 @@ During the session:
 
 If Android, pleae request their email where an invitation to the testing link will be sent. 
 
-3. Are you willing to download the test flight app, the va mobile app, and the zoom mobile app to complete the session?
+3. Are you willing to download the testing app, the va mobile app, and the zoom mobile app to complete the session?
    
 - Yes would qualify them for the study
 - No would disqualify them
 
 4. Have you ever used the VA Health & Benefits app before?
-5. 
+
 - Yes would qualify them for the study
 - No would disqualify them
 
@@ -252,7 +250,7 @@ If Android, pleae request their email where an invitation to the testing link wi
 > [!NOTE]
 > **Send pilot participant email in study Slack channel**
 
-- `Pilot participant name:` **[ADE Team Member: Research Lead, Cindy Merril]**
+- `Pilot participant name:` **[ADE Team Member]**
 - `Date and time of pilot session iOS w/ a screen reader:` **[Pending]**
 - `Date and time of pilot session iOS w/ a screen magnifier:` **[Pending]**
 - `Date and time of pilot session Android w/ a screen reader:` **[Pending]**
@@ -294,7 +292,7 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 - `Research guide writing and task development (usually but not always same as moderator):` **[Christine Julian and Kira Evsanaa]**		
 - `Participant recruiting & screening:`	**[Perigean]**	
 - `Project point of contact:` **[Christine Julian]**		
-- `Accessibility specialist (for sessions where support for assistive technology may be needed):` **[Cindy Merril]**	
+- `Accessibility specialist (for sessions where support for assistive technology may be needed):` **[ADE Specialist TBD]**	
 - `Note-takers:` **[Jonathan Post]** ***or*** **[Maria Kravets]**	
 - `Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work. Spread observers across sessions. There should be no more than 5 to 6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side.`
 
