@@ -16,7 +16,7 @@ This portion of the report analyzes the two open field text responses gathered f
 
    The open field text question asks, “Why did you select that rating?”
 
-All survey responses analyzed here are from respondents who visited and referenced pages in any part of the /manage-va-debt/ experience.
+All survey responses analyzed here are from respondents who visited and referenced pages in any part of the /manage-va-debt/ experience between August 1 - 31, 2025.
 
 The following section aggregates the themes from the two above open text field questions.
 
