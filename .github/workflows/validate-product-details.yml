@@ -89,7 +89,9 @@ jobs:
           fi
 
       - name: Validate changed product files
+        id: validation
         if: steps.changed-files.outputs.changed_files != ''
+        continue-on-error: true  # Continue even if validation fails so we can post comments
         run: |
           FILES_TO_VALIDATE="${{ steps.changed-files.outputs.changed_files }}"
           echo "🔍 Debug: Files to validate: '$FILES_TO_VALIDATE'"
@@ -333,57 +335,143 @@ jobs:
           
           # Run validation on changed files
           echo "🚀 Starting validation..."
-          ruby validate_links.rb $FILES_TO_VALIDATE
+          
+          # Capture validation output to a file for PR comment
+          VALIDATION_OUTPUT_FILE="validation_results.txt"
+          
+          # Run validation and capture output
+          if ruby validate_links.rb $FILES_TO_VALIDATE > "$VALIDATION_OUTPUT_FILE" 2>&1; then
+            echo "✅ Validation passed"
+            echo "validation_status=success" >> $GITHUB_OUTPUT
+          else
+            echo "❌ Validation failed"
+            echo "validation_status=failure" >> $GITHUB_OUTPUT
+          fi
+          
+          # Always show the results
+          echo "📊 Validation Results:"
+          cat "$VALIDATION_OUTPUT_FILE"
+          
+          # Store results for PR comment (properly handle multiline output)
+          {
+            echo "validation_output<<EOF"
+            cat "$VALIDATION_OUTPUT_FILE"
+            echo "EOF"
+          } >> $GITHUB_OUTPUT
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Run existing product validation
+        id: existing-validation
         if: steps.changed-files.outputs.changed_files != ''
+        continue-on-error: true
         run: |
           FILES_TO_VALIDATE="${{ steps.changed-files.outputs.changed_files }}"
           
           # Run the existing validation script for comparison
           if [ -f "scripts/manifest/validate_products.rb" ]; then
             echo "🔧 Running existing product validation..."
+            
+            EXISTING_OUTPUT_FILE="existing_validation_results.txt"
+            
             for file in $FILES_TO_VALIDATE; do
               if [ -f "$file" ]; then
                 product_name=$(basename "$file" .yml | sed 's/-details$//')
                 echo "🔍 Validating product: $product_name (from file: $file)"
-                ruby scripts/manifest/validate_products.rb --product "$product_name" --verbose || true
+                ruby scripts/manifest/validate_products.rb --product "$product_name" --verbose >> "$EXISTING_OUTPUT_FILE" 2>&1 || true
               fi
             done
+            
+            if [ -f "$EXISTING_OUTPUT_FILE" ]; then
+              echo "📊 Existing Validation Results:"
+              cat "$EXISTING_OUTPUT_FILE"
+              
+              # Store results for PR comment (properly handle multiline output)
+              {
+                echo "existing_validation_output<<EOF"
+                cat "$EXISTING_OUTPUT_FILE"
+                echo "EOF"
+              } >> $GITHUB_OUTPUT
+            fi
           else
             echo "⚠️  Existing validation script not found, skipping"
+            echo "existing_validation_output=Existing validation script not found" >> $GITHUB_OUTPUT
           fi
 
       - name: Comment on PR with validation results
-        if: github.event_name == 'pull_request' && steps.changed-files.outputs.changed_files != ''
+        if: always() && github.event_name == 'pull_request' && steps.changed-files.outputs.changed_files != ''
         uses: actions/github-script@v7
         with:
           script: |
-            const fs = require('fs');
+            const changedFiles = "${{ steps.changed-files.outputs.changed_files }}".split(' ').filter(f => f.trim().length > 0);
+            const validationStatus = "${{ steps.validation.outputs.validation_status }}";
+            const validationOutput = `${{ steps.validation.outputs.validation_output }}`;
+            const existingValidationOutput = `${{ steps.existing-validation.outputs.existing_validation_output }}`;
             
-            // This would need to be enhanced to capture the validation output
-            // For now, we'll just note that validation ran
-            const comment = `## 🔍 Product Details Validation
+            // Determine overall status and icon
+            const statusIcon = validationStatus === 'success' ? '✅' : '❌';
+            const statusText = validationStatus === 'success' ? 'PASSED' : 'FAILED';
             
-            Validation completed for the following product details files:
-            ${process.env.CHANGED_FILES.split(' ').map(f => `- \`${f}\``).join('\n')}
+            // Build comment content
+            let comment = `## ${statusIcon} Product Details Validation ${statusText}\n\n`;
+            comment += `**Files Validated:**\n`;
+            comment += changedFiles.map(f => `- \`${f}\``).join('\n') + '\n\n';
+            comment += `### 🔍 Validation Results\n\n`;
+            comment += '```\n';
+            comment += validationOutput || 'No validation output captured';
+            comment += '\n```\n\n';
+
+            // Add existing validation results if available
+            if (existingValidationOutput && existingValidationOutput !== 'Existing validation script not found') {
+              comment += `### 🔧 Legacy Validation Results\n\n`;
+              comment += '```\n';
+              comment += existingValidationOutput;
+              comment += '\n```\n\n';
+            }
+
+            // Add footer with validation details
+            comment += `---\n\n`;
+            comment += `**Validation Checks Performed:**\n`;
+            comment += `- ✅ YAML syntax and required fields\n`;
+            comment += `- 🔗 URL format validation for all links\n`;
+            comment += `- 🏷️ GitHub label existence in va.gov-team repository\n`;
+            comment += `- 📋 Template placeholder detection\n\n`;
             
-            Please check the workflow logs for detailed validation results.
-            
-            The validation checks:
-            - ✅ YAML syntax and required fields
-            - 🔗 URL format validation for all links
-            - 🏷️ GitHub label existence in va.gov-team repository
-            - 📋 Template placeholder detection
-            `;
-            
-            github.rest.issues.createComment({
-              issue_number: context.issue.number,
+            if (validationStatus === 'failure') {
+              comment += `⚠️ **Action Required:** Please fix the validation errors above before merging.`;
+            } else {
+              comment += `🎉 **All checks passed!** This PR is ready for review.`;
+            }
+
+            // Post or update comment
+            const { data: comments } = await github.rest.issues.listComments({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: comment
+              issue_number: context.issue.number,
             });
-        env:
-          CHANGED_FILES: ${{ steps.changed-files.outputs.changed_files }}
+
+            // Look for existing validation comment
+            const existingComment = comments.find(comment => 
+              comment.body.includes('Product Details Validation') && 
+              comment.user.login === 'github-actions[bot]'
+            );
+
+            if (existingComment) {
+              // Update existing comment
+              await github.rest.issues.updateComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                comment_id: existingComment.id,
+                body: comment
+              });
+              console.log('Updated existing validation comment');
+            } else {
+              // Create new comment
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body: comment
+              });
+              console.log('Created new validation comment');
+            }
