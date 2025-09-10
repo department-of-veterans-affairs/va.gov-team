@@ -72,13 +72,11 @@ The results of the study will help us determine if Veterans who utilize assistiv
 **Research goal #2: Identify if Veterans using screen reader or screen magnifier technology can fill out a form from the app on their own.**
 
 3. Most Veterans using a screen reader or screen magnifer will be able to independently complete all required fields in a form using the mobile app.
-4. Some Veterans may experience confusion interpretting the status of the form after submission.
-5. Veterans using a screen reader or screen magnifer will have mixed feelings about the overall experience, with some expressing frustration regarding usability issues and others finding the process straightforward.
+
 
 **Research goal #3: Identify if Veterans using screen reader or screen magnifier technology can start a form and come back to it at a later time to complete.**
 
-6. Veterans using a screen reader or screen magnifer will be able to locate and resume a form they previously started within the mobile app.
-7. Barriers such as difficulty finding saved forms will prevent some Veterans from successfully submitting a previously started form.
+4. Veterans using a screen reader or screen magnifer will be able to locate and resume a form they previously started within the mobile app.
   
 ## Methodology  🛠️
 
@@ -103,18 +101,32 @@ During the usability testing the following flow will test both:
 Provide a link to any materials you need to run your study, including any materials needed for set up and recruitment.  
 
 **For moderated usability tests:** 
-- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/Forms%20MVP%20Research/Conversation-guide.md)
-- [Link to prototype](https://testflight.apple.com/join/RrO0Cw2q)
-- *Instructions to access prototype (must access from your mobile device):
+- [Link to conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/research/Forms%20MVP%20Research/Conversation-guide-AT.md) 
+- [Link to prototype for iOS users](https://testflight.apple.com/join/RrO0Cw2q)
+- *Instructions to access prototype for iOS users(must access from your mobile device):
   1. Use the link provided to install test flight on your mobile device.
   2. Once you've installed it (or if you already have it installed), select step 2 "view in test flight" from your mobile device.
   3. Under App Informaton at the bottom of the screen, select "Previous builds"
-  4. Select the VA Health and Benefits mobile app version: 2.55.1
-  5. Select 'Install' button next to correct build number 2871 (may have to select Load more builds to find version).
+  4. Select the VA Health and Benefits mobile app version: 2.56.1
+  5. Select 'Install' button next to correct build number 2903 (may have to select Load more builds to find version).
   6. It can take a few minutes to download.
   7. Once downloaded select "next".
   8. Select "start testing from the Share feedback screen.
-  9. In order to test the prototype our developer needs to launch codespace during your session. Please ping researcher developer Ken Li to run codespace during your prototype (slack K_li). 
+  9. In order to test the prototype our developer needs to launch codespace during your session. Please ping researcher developer Ken Li to run codespace during your prototype (slack K_li).
+- [Link to prototype for Android users](https://appdistribution.firebase.dev/i/6bea6c3fabc1a872)
+- *Instructions to access prototype for Android users (must be accessed from your mobile device):
+1. Once you select the link above you will enter your email to receive the invite for the prototype.
+2. Open the email and click on "Get started"
+3. It may require you to sign in again to authorize the install.
+4. Select "Download app tester".
+5. While this is downloading, go to your device homescreen > Go to settings > About > click on play store version 7 times (may need to Select "app permissions")
+6. Receive a note "You are now a developer"
+7.Scroll up and press General, click on "Developer options"
+8. Toggle the "interal app sharing"
+9. Return to the window with the steps
+10. Download the release (ensure newest one #7)
+11. If you already have the app installed you'll have to select "Uninstall"
+12. And then go ahead and "Install"
 	
 ## Recruitment 🎯	
 
@@ -122,10 +134,6 @@ Provide a link to any materials you need to run your study, including any materi
 We would like Pergean's support in recruiting eligibile participants for the study. Targeting 12 participants for recruiting, aiming for 8 completed sessions minimum.
 
 ### Recruitment criteria
-
-We will recruit 12 Veterans for:
-- **minimum** of 4 sessions with screen reader users
-- **minimum** of 4 sessions with screen magnification users
 
 #### Cohort 1: Screen reader users
 
@@ -139,11 +147,12 @@ We'd like to recruit people who use a mix of different screen readers, such as, 
 |All|Have used the VA Health & Benefits app at least once before the study|Primary|
 |All|Are willing to join from a mobile device using a screen reader|Primary|
 |All|Daily use of screen readers to access websites or applications|Primary|
-|3-4|Have 1-4 years of experience using a screen reader|Primary|
-|3-4|Have 5+ years of experience using a screen reader|Primary|
+|Exactly 3|Have 1-4 years of experience using a screen reader|Primary|
+|Exactly 3|Have 5+ years of experience using a screen reader|Primary|
 |At least 3|Are over 55 years old|Secondary|
 |At least 3|Identify as Black, Asian, Hispanic or Native|Secondary|
 |At least 2|Identify as a gender other than male|Secondary|
+|At least 2|Identify as having a cognitive disability|Secondary|
 
 #### Cohort 2: Screen magnification users
 
@@ -160,6 +169,7 @@ We'd like to recruit people who use a mix of different screen magnification soft
 |At least 1|Are over 55 years old|Secondary|
 |At least 1|Identify as Black, Asian, Hispanic or Native|Secondary|
 |At least 1|Identify as a gender other than male|Secondary|
+|At least 2|Identify as having a cognitive disability|Secondary|
 
 Please make sure that ALL participants are willing to complete the session on the device they specify during the screener questions and:
 During the session:
@@ -175,7 +185,7 @@ During the session:
 - `Total:` **[8]**
 
 ### Screening Question
-1. Are you able to join the session from a smartphone or tablet with a working camera and microphone?
+1. Are you able to join the session from a smartphone or tablet with a working microphone?
    
 - Yes would qualify them for the study
 - No would disqualify them
@@ -189,12 +199,13 @@ During the session:
 
 If Android, pleae request their email where an invitation to the testing link will be sent. 
 
-3. Are you willing to download the test flight app, the va mobile app, and the zoom mobile app to complete the session?
+3. Are you willing to download the testing app, the va mobile app, and the zoom mobile app to complete the session?
    
 - Yes would qualify them for the study
 - No would disqualify them
 
-4. Have you ever used the VHB app before? If so, describe how often you use the app and what you primarily use the app for.
+4. Have you ever used the VA Health & Benefits app before?
+
 - Yes would qualify them for the study
 - No would disqualify them
 
@@ -225,7 +236,7 @@ If Android, pleae request their email where an invitation to the testing link wi
 9. Do you find it difficult to remember or learn new things, focus on a task, or make decisions? We ask this question because we want to make sure that our tools work for people who live with challenges like these.
 
 - No (ask next question)
-- Yes (RECRUIT 5, RECORD as having a cognitive disability)
+- Yes (RECRUIT 4, RECORD as having a cognitive disability)
 
 
 ## Timeline 🗓️
@@ -268,7 +279,6 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 - `[10/01, Wednesday, 10:00 AM-7:00 PM] EST'
 - '[10/02. Thursday, 10:00 AM-7:00 PM] EST`
 - '[10/03, Friday, 10:00 AM-4:00 PM] EST`
-- '[10/04, Monday, 10:00 AM-7:00 PM] EST'
 
   
 ## Team Roles  🕵️👩‍💻👩‍🔬
@@ -282,7 +292,7 @@ When would you like sessions scheduled? Please list exact dates and times in **E
 - `Research guide writing and task development (usually but not always same as moderator):` **[Christine Julian and Kira Evsanaa]**		
 - `Participant recruiting & screening:`	**[Perigean]**	
 - `Project point of contact:` **[Christine Julian]**		
-- `Accessibility specialist (for sessions where support for assistive technology may be needed):` **[ADE Team Research Lead, Cindy Merril]**	
+- `Accessibility specialist (for sessions where support for assistive technology may be needed):` **[ADE Specialist TBD]**	
 - `Note-takers:` **[Jonathan Post]** ***or*** **[Maria Kravets]**	
 - `Observers: List the names of people observing the sessions. This includes VA stakeholders, engineering team members, design team members, and any other people who might find this research relevant to their work. Spread observers across sessions. There should be no more than 5 to 6 total attendees (moderator, notetaker(s), observer(s)) per session on the VA side.`
 

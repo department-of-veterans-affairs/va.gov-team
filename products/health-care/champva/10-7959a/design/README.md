@@ -1,8 +1,8 @@
 # Design Artifacts for CHAMPVA Claims (10-7959a) #
 
 ### Figma
-- [Source of Truth (production)](https://www.figma.com/design/Tfhq5h2LwXEeEEtFBAAFOv/CHAMPVA-Claims--10-7959a-?node-id=5302-81490)
-- [Work in Progress](https://www.figma.com/design/Tfhq5h2LwXEeEEtFBAAFOv/CHAMPVA-Claims--10-7959a-?node-id=5949-100095)
+- [Source of Truth (in staging)](https://www.figma.com/design/spGKiDT4GFlkSAFtof7lAZ/CHAMPVA-Claims--10-7959a--Source-of-Truth?node-id=13-121&t=D5j2KUFmSiH73zxM-0)
+- [Work in Progress](https://www.figma.com/design/Tfhq5h2LwXEeEEtFBAAFOv/CHAMPVA-Claims--10-7959a--WIP?node-id=13-80&p=f&t=qLSIMJs44bvAmVVo-0)
 
 ### Mural
 - [Discovery](https://app.mural.co/t/departmentofveteransaffairs9999/r/1698952870356?folderUuid=68f9d6ba-a7c1-4994-9f17-c27af37bca48)

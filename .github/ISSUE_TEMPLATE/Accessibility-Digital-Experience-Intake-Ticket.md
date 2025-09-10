@@ -13,12 +13,14 @@ assignees: artsymartha68, lakper, sara-amanda
 
 ## About Your Team
 
-- **Product name**:
-- **Team name**:
-- **OCTO product owner**:
-- **Product manager**:
-- **Designer(s)**:
-- **Slack channel**: `Link to channel`
+- **Product name**: `Product name goes here`
+    - [ ] Add your product label to this ticket
+- **Team name**: `Team name goes here`
+    - [ ] Add your team label to this ticket
+- **OCTO product owner**: `OCTO PO goes here`
+- **Product manager**: `PM name goes here`
+- **Designer(s)**: `Name of designer(s)`
+- **Slack channel**: `Link to channel(s)`
 - **Dedicated accessibility specialist on your team** (if you have one):
 - **Accessibility Champ** (if you have one):
 
@@ -99,6 +101,7 @@ _Select all that apply._
 - [ ] None. This initiative isn’t going through the collaboration cycle.
 
 ## Next Steps for Your Team
+- [ ] Make sure your team and product labels are on this ticket. 
 - [ ] Save and submit this intake ticket.
 - [ ] Start a new thread, and post a link to this ticket in the [accessibility-help](https://dsva.slack.com/archives/C8E985R32) Slack channel by tagging Lakwi Perera.
 - [ ] If you're requesting accessibility support for user research, submit a research support request next: [Open an accessibility research support request](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/.github/ISSUE_TEMPLATE/ade-accessibility-research.yaml).
@@ -109,6 +112,8 @@ _Select all that apply._
 ## ADE Internal
 ### Ticket Updates
 - [ ] Receive new intake ticket
+- [ ] Verify team label has been added
+- [ ] Verify product label has been added
 - [ ] Respond to Slack message sent by VFS team upon submission
 - [ ] Reach out to the VFS team to set up Kickoff (if requested)
 - [ ] Reviewed by OCTO/Martha

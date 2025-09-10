@@ -58,3 +58,6 @@ Systems used by Application Processing teams
                - Future: We need to consider adding a check on E&E service to see if there is a means test already present in the current income year, and if there is, possibly preventing any info that could impact income from being updated. 
           - Insurance information can be updated any time, but Josh F is double checking on how multiple policies with adding/removing would work.
      - There is a caveat that the EZR service hasn't been used in about 8 years, and we may find out more on what actually happens during the end-to-end testing
+- 9-10-2025
+     - Confirmed with Joshua Faulkner that when Veteran personal information is updated on the EZR (address, phone, email, emergency contact, next of kin), that information is updated in ES -> Vista -> VA Profile
+     - This same information is also updated in the opposite direction: VA Profile -> Vista (overnight batch) -> ES (immediate)

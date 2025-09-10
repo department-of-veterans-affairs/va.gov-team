@@ -10,7 +10,7 @@ We've created message to show on our sign-in modal whenever one of our identity 
 
 
 ## How to set up within pagerduty
-1. Go to https://dsva.pagerduty.com/maintenance_windows and click Schedule Maintenance. 
+1. Go to https://ecc.pagerduty.com/maintenance_windows and click Schedule Maintenance. 
 2. Select one or more services, set the expected outage time range, and click Create Maintenance.  
 - The "Description" text area is for notes and is not visible to an enduser.
 <img width="831" alt="pager_duty_maintenance_window" src="https://user-images.githubusercontent.com/19188/58024022-42e35080-7adf-11e9-9275-745800dba54b.png">

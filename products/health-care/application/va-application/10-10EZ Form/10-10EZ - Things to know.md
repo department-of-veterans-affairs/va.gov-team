@@ -60,10 +60,11 @@ Systems used by Application Processing teams
      - This information is pulled from the VA.gov Profile
      - The VA.gov Profile pulls this information from the VA Profile (different team/system)
      - The VA Profile pulls the information from the DoD DEERS and VADIR repository
+          - The Service History comes from VADIR as the ADS and it is Provided by DoD. Any modification on Military History would have to be supported by documentation to VBA (VBMS). and have those updates stored in administrative records.
      - Technical specs and details can be found in this [VA.gov Profile Backend document](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/products/identity-personalization/profile/military_info/backend_documentation.md)
 
 - 1/18/2023 Tarsha Tremble has moved to another position and is no longer the POC Project manager for 10-10EZ.
-     - Jennifer Mdoe is the new contact
+     - Bryan Bergen is the new contact
  
 - WSDL file for Enrollment System from Joshua Faulkner
      - [EE Summary WSDL](https://ves.va.gov/esr-ws/spring-ws/getEESummary/eeSummary.wsdl)

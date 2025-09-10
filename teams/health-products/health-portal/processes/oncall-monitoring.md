@@ -54,7 +54,7 @@ The alerts that come from Datadog can tell you when something is happening, but 
 
 - [Platform OnCall docs](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/OnCall)
 - [Datadog](https://vagov.ddog-gov.com/): the tool that provides monitoring and logging capabilities
-- [PagerDuty](https://dsva.pagerduty.com/): provides notifications, escalation, and on-call scheduling capabilities.[^1]
+- [PagerDuty](https://ecc.pagerduty.com/): provides notifications, escalation, and on-call scheduling capabilities.[^1]
 - Slack channels
   - mhv-on-vagov-alerts
   - mhv-medical-records-alerts

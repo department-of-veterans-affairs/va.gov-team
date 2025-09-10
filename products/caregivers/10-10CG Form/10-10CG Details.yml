@@ -1,0 +1,17 @@
+name: "10-10CG"
+entry_name: "1010cg-application-caregiver-assistance"  # Must match vets-website manifest.json
+description: "10-10CG Program of Comprehensive Assistance for Family Caregivers application"
+team: "1010 Health Apps"  # MUST match teams/[portfolio]/[team-name]/ directory and team name in va.gov-team-sensitive repo
+github-label: "1010-cg"
+urls:
+  production: "https://www.va.gov/family-and-caregiver-benefits/health-and-disability/comprehensive-assistance-for-family-caregivers/apply-form-10-10cg/introduction"
+  staging: "https://staging.va.gov/family-and-caregiver-benefits/health-and-disability/comprehensive-assistance-for-family-caregivers/apply-form-10-10cg/introduction"
+manifest_url: "https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/caregivers/manifest.json"
+measurement:
+  datadog_dashboard: "https://vagov.ddog-gov.com/dashboard/p5g-fys-epz/1010-health-apps?from_ts=1657212129534&to_ts=1657215729534&live=true" # Link to Datadog dashboard
+  domo_dashboard: "https://va-gov.domo.com/page/447193050" # Link to DOMO dashboard (optional)
+  google_analytics: "https://..." # Link to Google Analytics dashboard
+  metrics_dashboard: "https://..." # Link to additional metrics dashboard (optional)
+  project_board: "https://github.com/orgs/department-of-veterans-affairs/projects/1433" # Link to GitHub project board (optional)
+  research_repo: "https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22PRDT%3A%20Caregivers%22" # Link to VA research repository, filtering for this product tag
+status: "active" # active, maintenance, sunset

@@ -98,19 +98,21 @@ This kickoff meeting is to prepare for a handoff of the Vet Status work. We shou
 
    1. Idea: maybe we ask to do a one-off Architecture Intent without having to go through the entire kickoff process?
 
-8. How do we approach monitoring? Slack? Mobile and web? - **MFS to own**
+8. How do we approach monitoring? Slack? Mobile and web? - **MFS to own. Can reach out to IIR for questions as they come out**
+   1. The only frontend web alerts that come through this channel are the RUM (PDF failed) alerts. The other web alerts are technically coming from vets-api which could be helpful for MFS to keep an eye on since the shared service will be living in vets-api.
 
-9. Clean up work post release of shared service and logic update - ??
+10. Clean up work post release of shared service and logic update - **MFS to own cleanup for shared service, updated logic, and mobile app connection. IIR to own cleanup for va.gov connection**
 
-10. Supporting Content/IA team in updating the Veteran ID Card page - ?? **MFS to own but will need to engage with VEO** 
+11. Supporting Content/IA team in updating the Veteran ID Card page - **MFS to own but will need to engage with VEO** > Check with Michelle on how and who to coordinate with
 
-11. Product Guide for mobile app - **MFS to own**
+12. Product Guide for mobile app - **MFS to own**
 
-12. Remove Vet Status alert/link from the military-information page (enough time has passed that we think it can be removed) - **IIR to own and do much later**
+13. Remove Vet Status alert/link from the military-information page (enough time has passed that we think it can be removed) - **IIR to own and do much later**
 
 **Support:** 
 
 - IIR does not need to be reviewers on PRs
+- IIR should in some way review what MFS has built - demo-like meeting once shared service and logic has been updated
 
 **Timeline:**
 
@@ -118,4 +120,5 @@ This kickoff meeting is to prepare for a handoff of the Vet Status work. We shou
 
 **Handoff Next Steps:**
 
--
+- MFS is set once the logic is solidified - waiting on Michelle and Dave for this.
+- MFS to coordinate how they kickoff the project with the rest of their team and start planning.

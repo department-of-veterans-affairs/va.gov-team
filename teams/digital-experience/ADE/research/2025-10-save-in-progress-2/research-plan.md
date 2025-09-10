@@ -31,9 +31,10 @@ Veterans may use web forms on VA.gov throughout ALL stages of the Veteran Journe
 
 ### Goals
 
-1. Get user feedback on the new interstitial page with "save in progress" messaging.
+1. See if Veterans understand that their form data is being saved as they're filling out a form but haven't submitted it yet.
 1. See if Veterans can stop and resume filling out a form.  
 1. See if moving the accordion controls to the left side affects usability.
+1. See if the removal of the duplicate form intro page for authenticated users reduces confusion.
   
 ### Outcome
 
@@ -42,8 +43,8 @@ Findings and recommendations from this research will **inform design guidance an
 
 ### Research questions
 
-#### Research goal 1: Get user feedback on the new interstitial page with "save in progress" messaging.
-1. What reactions do Veterans have upon encountering the interstitial page after clicking "Continue"?
+#### Research goal 1: See if Veterans understand that their form data is being saved as they're filling out a form but haven't submitted it yet.
+1. What reactions/feedback do Veterans have upon encountering the interstitial page after clicking "Continue"?
 1. Do Veterans think that their form data is being saved? If so, how confident are they?
 
 #### Research goal 2: See if Veterans can stop and resume filling out a form.  
@@ -54,11 +55,15 @@ Findings and recommendations from this research will **inform design guidance an
 #### Research goal 3: See if moving the accordion controls to the left side affects usability.
 1. Are Veterans able to open and close accordions with controls on the left side? 
 
+#### Research goal 4: See if the removal of the duplicate form intro page for authenticated users reduces confusion.
+1. Do Veterans have any issues navigating to the first page of the form? 
+
 ### Hypotheses
 
 1. With the new design, Veterans are confident that their form data will be saved.
 1. With the new design, Veterans will be able to stop and resume filling out a form.
 1. All Veterans (including screen magnifier users) will find the accordion controls on the left side easy to use.
+1. Authenticated users who start a form from the form intro page will get to the first page of the form quicker without any confusion.
 
 ---
   
@@ -185,7 +190,7 @@ We would like to request that **Perigean calls each participant** to remind them
 ### Length of sessions
 - `Session length:` **90 min for AT users, 60 min for non-AT users**
   
-- `Buffer time between sessions:` **30 min**
+- `Buffer time between sessions:` **60 min**
   
 - `Maximum Sessions per day:` **3**
 

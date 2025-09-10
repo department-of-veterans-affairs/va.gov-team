@@ -1,71 +1,74 @@
-# Team Manifest Tool
+# Product Manifest Tool
 
-This directory contains Ruby scripts for managing the VA.gov team manifest and validating team documentation.
+This directory contains Ruby scripts for managing the VA.gov product manifest and validating product documentation.
 
 ## Scripts
 
-### 1. `generate_manifest.rb`
+### 1. `generate_product_manifest.rb`
 
-Scans team README files across portfolio directories and generates a consolidated team manifest in the main teams README file.
+Scans product YAML files across the products directory and generates a consolidated product manifest in the main products README file.
 
 **Features:**
 
-- Scans `teams/digital-experience/`, `teams/benefits-portfolio/`, `teams/health-portfolio/`, and `teams/bam-portfolio/` directories
-- Extracts team information from README files containing `## Team Information` section
-- Groups teams by portfolio and crew/pod
-- Updates the `## Current team manifest` section in `teams/README.md`
+- Scans `products/` directory for `*-details.yml` files
+- Extracts product information from YAML files containing required fields
+- Groups products by category based on directory structure  
+- Updates the `## Current product manifest` section in `products/README.md`
+- Includes comprehensive URL information (Production, Staging, Application code, Measurement dashboards)
+- Filters out placeholder and invalid URLs
+- Provides statistics on total products, active products, and categories
 
 **Usage:**
 
 ```bash
 # Basic usage
-ruby generate_manifest.rb
+ruby generate_product_manifest.rb
 
 # Preview changes without writing files
-ruby generate_manifest.rb --dry-run
+ruby generate_product_manifest.rb --dry-run
 
 # Enable detailed output
-ruby generate_manifest.rb --verbose
-
-# Process only a specific portfolio
-ruby generate_manifest.rb --portfolio=bam-portfolio
+ruby generate_product_manifest.rb --verbose
 
 # Combine options
-ruby generate_manifest.rb --dry-run --verbose --portfolio=benefits-portfolio
+ruby generate_product_manifest.rb --dry-run --verbose
 ```
 
 **Environment Variables:**
 
 - `REPO_ROOT` - Path to repository root (auto-detected if not set)
-- `DRY_RUN` - Set to preview changes without writing files
 - `VERBOSE` - Set to enable detailed logging
 
-### 2. `validate_teams.rb`
+### 2. `validate_products.rb`
 
-Validates team README files for completeness by checking for template placeholders.
+Validates product YAML files for completeness by checking for required fields and placeholder content.
 
 **Features:**
 
-- Depends on `generate_manifest.rb` output - uses the generated manifest to identify teams
-- Parses the `## Current team manifest` section in `teams/README.md`
-- Validates each team's README for placeholder content in the `## Team Information` section
+- Discovers all `*-details.yml` files in the products directory
+- Validates each product YAML against the template requirements
+- Checks for placeholder content and missing required fields
 - Generates detailed validation reports with completion status
 - Identifies specific fields that need attention
+- Supports validation of individual products or all products
 
 **Usage:**
 
 ```bash
-# Basic usage - output to console
-ruby validate_teams.rb
+# Basic usage - validate all products
+ruby validate_products.rb
 
-# Generate report with verbose output
-ruby validate_teams.rb --verbose
+# Validate with verbose output
+ruby validate_products.rb --verbose
+
+# Validate a specific product
+ruby validate_products.rb --product "design-system"
 
 # Write report to file
-ruby validate_teams.rb --output=validation_report.md
+ruby validate_products.rb --output=validation_report.md
 
 # Combine options
-ruby validate_teams.rb --output=team_status.md --verbose
+ruby validate_products.rb --output=product_status.md --verbose
 ```
 
 **Environment Variables:**
@@ -77,12 +80,11 @@ ruby validate_teams.rb --output=team_status.md --verbose
 
 ```text
 scripts/manifest/
-├── generate_manifest.rb      # Main manifest generator script
-├── validate_teams.rb         # Team documentation validator
+├── generate_product_manifest.rb  # Product manifest generator script
+├── validate_products.rb          # Product YAML validator
 ├── lib/
-│   ├── team_parser.rb        # Team README parsing utilities
-│   └── markdown_utils.rb     # Markdown manipulation helpers
-└── README.md                 # This file
+│   └── markdown_utils.rb         # Markdown manipulation helpers
+└── README.md                     # This file
 ```
 
 ## Requirements
@@ -92,105 +94,139 @@ scripts/manifest/
 
 ## How It Works
 
-### Manifest Generation Process
+### Product Manifest Generation Process
 
-1. **Discovery**: Scans portfolio directories for team subdirectories containing README.md files
-2. **Parsing**: Extracts team information from README files that contain the `## Team Information` section
-3. **Validation**: Filters out teams missing required information (team name, portfolio)
-4. **Grouping**: Organizes teams by portfolio and crew/pod
-5. **Generation**: Creates formatted manifest content
-6. **Update**: Replaces the `## Current team manifest` section in `teams/README.md`
+1. **Discovery**: Scans products directory for `*-details.yml` files
+2. **Parsing**: Extracts product information from YAML files with valid structure
+3. **Categorization**: Groups products by category based on directory structure
+4. **URL Validation**: Filters out placeholder URLs and invalid links
+5. **Statistics**: Calculates total products, active products, and category counts
+6. **Generation**: Creates formatted manifest content with rich metadata
+7. **Update**: Replaces the `## Current product manifest` section in `products/README.md`
 
-### Validation Process
+### Product Validation Process
 
-1. **Manifest Parsing**: Reads the `## Current team manifest` section from `teams/README.md`
-2. **Team Discovery**: Identifies all teams listed in the manifest with their README paths
-3. **README Analysis**: For each team README, extracts the `## Team Information` section
-4. **Placeholder Detection**: Scans for template placeholder patterns (e.g., `[Full Name]`, `[github-username]`)
-5. **Progress Calculation**: Counts completed vs remaining fields for each team
-6. **Report Generation**: Creates comprehensive validation report with actionable feedback
+1. **Discovery**: Finds all `*-details.yml` files in the products directory
+2. **Schema Validation**: Checks each YAML file against the expected template structure
+3. **Content Analysis**: Scans for placeholder patterns and missing required fields
+4. **Progress Calculation**: Counts completed vs remaining fields for each product
+5. **Report Generation**: Creates comprehensive validation report with actionable feedback
 
 ### Data Extraction
 
-From each qualifying README, the script extracts:
+From each qualifying YAML file, the script extracts:
 
-- **Team Name** (from `**Team Name:**` field)
-- **Portfolio** (inferred from directory structure)
-- **Crew or Pod** (from `**Crew or Pod:**` field)
-- **README Link** (relative path to the team's README file)
+- **Product Name** (from `name` field)
+- **Team** (from `team` field)
+- **Status** (active, maintenance, sunset)
+- **URLs** (production, staging, application code)
+- **Measurement URLs** (Datadog, Domo, Google Analytics, Project Board, Research Repository)
+- **GitHub Label** (for issue tracking)
+- **Category** (inferred from directory structure)
+
+### Product Categories
+
+Products are automatically categorized based on their directory structure:
+
+- **Health Care** - `health-care/` directory
+- **Platform & Infrastructure** - `platform/` directory  
+- **Disability Benefits** - `disability/` directory
+- **Education & Careers** - `education-careers/` directory
+- **Identity & Personalization** - `identity-personalization/` directory
+- **And more** - Automatically derived from directory names
 
 ### Validation Output Format
 
 The validation report follows this structure:
 
 ```markdown
-# Team Documentation Validation Report
+# Product Documentation Validation Report
 
-## Digital Experience
+## Health Care
 
-### [Crew Name]
+### ✅ 10-7959C CHAMPVA Other Health Insurance Certification form
+- **All required fields completed**
+- **Status:** Active
+- **Team:** ivc-forms
 
-#### [Team Name]
-- ❌ **GitHub Team Name:** Contains placeholder text
-- ❌ **Email:** Contains placeholder text
+### ❌ Example Product Name
+- ❌ **Production URL:** Contains placeholder text
+- ❌ **Team:** Missing required field
 - ✅ All other fields completed
-- ℹ️  **Progress:** 13/15 fields completed
-
-#### [Team Name]
-- ✅ **All fields completed**
+- ℹ️  **Progress:** 8/10 required fields completed
 
 ## Summary
-- **Total Teams:** 41
+- **Total Products:** 4
 - **Fully Completed:** 1
-- **Needs Attention:** 40
-- **Completion Rate:** 2.4%
+- **Needs Attention:** 3
+- **Completion Rate:** 25%
 ```
 
-### Output Format
+### Manifest Output Format
 
 The generated manifest follows this structure:
 
 ```markdown
-## Current team manifest
+## Current product manifest
 
-### Digital Experience
-#### [Crew Name]
-- [Team Name](teams/digital-experience/team-slug/README.md)
-- [Team Name](teams/digital-experience/team-slug/README.md)
+This manifest lists all VA.gov products that have product details YAML files.
 
-#### [Crew Name]
-- [Team Name](teams/digital-experience/team-slug/README.md)
+### Statistics
 
-### Benefits Portfolio
-#### [Crew Name]
-- [Team Name](teams/benefits-portfolio/team-slug/README.md)
+- Total Products: 4
+- Active Products: 4
+- Categories: 2
 
-### Health Portfolio
-#### [Pod Name]
-- [Team Name](teams/health-portfolio/team-slug/README.md)
+### Health Care (2)
 
-### BAM Portfolio
-#### [Crew Name]
-- [Team Name](teams/bam-portfolio/team-slug/README.md)
+- [Product Name](products/path/to/product-details.yml)
+  - Status: 🟢 Active
+  - Team: team-name
+  - [Production URL](https://...)
+  - [Staging URL](https://staging...)
+  - [Application code](https://github.com/...)
+  - [Project Board](https://github.com/orgs/...)
+  - [GitHub Issues](https://github.com/.../issues?q=...)
+
+### Platform & Infrastructure (2)
+
+- [Another Product](products/platform/product-details.yml)
+  - Status: 🟢 Active
+  - Team: platform-team
+  - [Production URL](https://...)
+
+---
+
+*Last updated: YYYY-MM-DD HH:MM:SS*
 ```
 
 ## Error Handling
 
 The scripts include robust error handling:
 
-- Skip files that don't contain required headers
-- Log warnings for teams missing portfolio or crew/pod information
-- Gracefully handle malformed README files
+- Skip files with invalid YAML syntax
+- Log warnings for products missing required information
+- Gracefully handle malformed product files
 - Validate repository structure before processing
+- Filter out placeholder and invalid URLs
+
+## URL Validation
+
+The manifest generator includes smart URL filtering:
+
+- **Placeholder Detection**: Filters out URLs like "https://..." or "https://"
+- **Empty Value Handling**: Skips empty or null URL fields
+- **Valid URL Display**: Only shows legitimate, working URLs as clickable links
 
 ## Contributing
 
 When modifying these scripts:
 
 1. Follow Ruby best practices
-2. Maintain backward compatibility
+2. Maintain backward compatibility with existing YAML files
 3. Update tests if available
 4. Update this documentation
+5. Test with both valid and invalid product YAML files
 
 ## Support
 

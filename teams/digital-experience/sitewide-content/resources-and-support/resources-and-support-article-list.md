@@ -170,3 +170,4 @@
 | 168 | [Choosing a GI Bill-approved school](https://www.va.gov/resources/choosing-a-gi-bill-approved-school/) | Education and training | 7/30/25 |
 | 169 | [Services and support for caregivers](https://www.va.gov/resources/services-and-support-for-caregivers/) | Family and caregiver benefits | 9/3/25 |
 | 170 | [Find your VA Consolidated Patient Account Center (CPAC)](https://www.va.gov/resources/find-your-va-consolidated-patient-account-center-cpac/) | Health care | 9/3/25 |
+| 171 | [What to do after applying for CHAMPVA benefits](https://www.va.gov/resources/what-to-do-after-applying-for-champva-benefits/) | Family and caregiver benefits | 9/9/25 |

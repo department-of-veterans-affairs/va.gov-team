@@ -69,6 +69,33 @@ Our core bet is that by providing real-time, in-app status updates and failure n
 * What metrics can we use to measure user anxiety reduction and overall satisfaction with the submission process?
 * How can we ensure that in-app status updates complement the information Veterans receive via email?
 
+## Incident Response Info
+### POC:
+* Enablement Team:
+  - Amy Lai (amy.lai2@va.gov)
+  - Julie Strothman (Julie.Strothman@va.gov)
+  - Cory Sohrakoff (Cory.Sohrakoff@va.gov)
+ 
+* Slack Channels:
+  * [#benefits-bmt-team-2](https://dsva.slack.com/archives/C09ADJQ0KUZ)
+  * [#benefits-management-tools](https://dsva.slack.com/archives/C04KHCT3ZMY)
+  * [#benefits-management-tools-notifications](https://dsva.slack.com/archives/C0600QN7CFJ)
+
+### Monitoring: 
+* [GA Dashboard](https://analytics.google.com/analytics/web/#/analysis/a50123418p419143770/edit/bMzsgzMCT6yazCs5H-3N_g)
+* [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/8me-h86-qmb/benefits---claim-status-tool-dashboard)
+* [Datadog Monitors](https://vagov.ddog-gov.com/monitors/manage?q=claim%20status%20tool)
+
+### Response:
+Feature will remain behind the feature flag while being developed and for a monitoring period defined in the [Release Plan](../document-status/release-plan.md). 
+
+In the event of an incident during release or post-release monitoring period:
+  1. the feature flag [cst_show_document_upload_status](https://api.va.gov/flipper/features/cst_show_document_upload_status) will be disabled
+  2. Fix identified and implemented
+  3. Fix applied and deployed (OOB if necessary)
+  4. Feature re-enabled
+  5. Continue Monitoring
+
 ## Resources
 * [Release Plan](../document-status/release-plan.md)
-* [Engineering & Security Checklist](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/b0b97824dad1c3f66cd3ffee962f6584280b318e/platform/engineering/collaboration-cycle/architecture-intent/checklist/Benefits%20Management%20Tools%202%20-%20Document%20Status%20%20-%2009032025.md)
+* [Engineering & Security Checklist](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/b0b97824dad1c3f66cd3ffee962f6584280b318e/platform/engineering/collaboration-cycle/architecture-intent/checklist/Benefits%20Management%20Tools%202%20-%20Document%20Status%20%20-%2009032025.md) [DRAFT]
