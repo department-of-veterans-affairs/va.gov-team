@@ -608,11 +608,9 @@ We expect this to be a non-zero amount and want to track this as a metric to ass
 
 ## Further research needed
 
-Notifications: how do users want to be notified of new debts, new bills, and payments required?
-
-Possibly exploring naming options for “Payments” to find something that is more encompassing of money owed to VA and money owed to the Veteran.
-
-Testing with users of assistive technology after this is built in the app.
+- Notifications: how do users want to be notified of new debts, new bills, and payments required?
+- Possibly exploring naming options for “Payments” to find something that is more encompassing of money owed to VA and money owed to the Veteran.
+- Testing with users of assistive technology after this is built in the app.
 
 
 ## Appendix
