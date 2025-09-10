@@ -599,13 +599,15 @@ We expect this to be a non-zero amount and want to track this as a metric to ass
 | Clarify the structure of the copay statements. Until we are able to provide real-time transactions, make it clear that the copay details are in statement form and may not be up to date. | Pending | |
 | Re-evaluate the alert accordion on the details page. Either make it clearly expandable with valuable content inside or replace it with a simple banner. | Pending | |
 
-<!-----
 
 ## Further research needed
 
-*Identify gaps in the current study and areas requiring additional investigation––such as demographics that were not included in this study.* 
+Notifications: how do users want to be notified of new debts, new bills, and payments required?
 
------>
+Possibly exploring naming options for “Payments” to find something that is more encompassing of money owed to VA and money owed to the Veteran.
+
+Testing with users of assistive technology after this is built in the app.
+
 
 ## Appendix
 
