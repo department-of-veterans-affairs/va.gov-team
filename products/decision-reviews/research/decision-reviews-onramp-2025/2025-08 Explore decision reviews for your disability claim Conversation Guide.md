@@ -21,103 +21,103 @@ Send out the observer instructions to your observers (Slackbot will do this for 
 
 
 ## Starting the session
-In the Attendees section, make sure everyone except the participant is on mute.
-In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
-Check your [screensharing setup] and share permissions for participants.
-When the participant is ready, begin the session with the following intro*
+* In the Attendees section, make sure everyone except the participant is on mute.
+* In the Participant "more" menu, make sure "Play Join and Leave Sound" is unchecked
+* Check your [screensharing setup] and share permissions for participants.
+* When the participant is ready, begin the session with the following intro*
 
 
 ## Section 1: Introduction - 5-10 minutes
-Thank you so much for joining us today! My name is [NAME] and I work at VA.gov to help improve access to benefits and services for Veterans like you. [NOTETAKER NAME] will be taking notes. I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them...
+Thank you so much for joining us today! My name is **[NAME]** and I work at VA.gov to help improve access to benefits and services for Veterans like you. **[NOTETAKER NAME]** will be taking notes. I also have a couple other colleagues in the Zoom waiting room who would like to observe and take notes. But before we get to them...
+
 Today we're going to talk about choosing a decision review pathway. We’re working on an online guide to assist Veterans with exploring the review options available after a disability claim decision has been made. I’ll walk you through the guide and ask for your honest feedback so we can improve it.
+
 Before we start, I have a few things that I want to go over with you:
-This entire session should take about 60 minutes. I want to be sure to end on time, so I may occasionally prompt you with the next question or topic.
-
-
-In this session, we want to hear your honest opinions. There are no right or wrong answers; we are not testing your skills, knowledge, or abilities. We’re here to learn from your perspective, so please share your thoughts openly. All feedback is welcome.
-
-
-Whenever you can, please talk out loud to share your thought process as you complete tasks. This will help me understand your experience. I might remind you to think out loud because this can feel unnatural and be easy to forget.
-
-
-Your participation in this interview is completely voluntary. You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know. If you decide you need to stop at any time, you’ll still be compensated for your time.
-
-
-I want you to know that although I work on the VA.gov website, I have no access to your records or benefits, nor do I have the ability to change your claims or benefits in any way. I am not a specialist in benefits. My primary focus is to understand your experience with the website.
-
-
-That was a lot of information. Are you okay with proceeding with the agenda I’ve proposed for today’s session?
-
-
-The people from Perigean who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. Is it okay with you to have  one person join us to observe this session?
+* **This entire session should take about 60 minutes.** I want to be sure to end on time, so I may occasionally prompt you with the next question or topic.
+* **In this session, we want to hear your honest opinions.** There are no right or wrong answers; we are not testing your skills, knowledge, or abilities. We’re here to learn from your perspective, so please share your thoughts openly. All feedback is welcome.
+* **Whenever you can, please talk out loud to share your thought process as you complete tasks.** This will help me understand your experience. I might remind you to think out loud because this can feel unnatural and be easy to forget.
+* **Your participation in this interview is completely voluntary.** You do not have to participate if you don't want to. Whether you choose to participate or not will not affect your benefits in any way with the VA. If you would like to stop the session or do not want to answer a question for any reason at any time, that's no problem. Please let me know. If you decide you need to stop at any time, you’ll still be compensated for your time.
+* **I want you to know that although I work on the VA.gov website, I have no access to your records or benefits, nor do I have the ability to change your claims or benefits in any way.** I am not a specialist in benefits. My primary focus is to understand your experience with the website.
+* That was a lot of information. Are you okay with proceeding with the agenda I’ve proposed for today’s session?
+* The people from Perigean who invited you to participate in this interview asked if it was alright to allow people to observe this interview, but I want to double-check with you before we get going. Is it okay with you to have  one person join us to observe this session?
 	If no:
-Use Slack to kindly ask the observers to leave the Zoom.
-
+     * Use Slack to kindly ask the observers to leave the Zoom.
 
 If yes: 
-Admit observers.
-Then, ask the notetaker and observers to give a brief, camera-on introduction, like their first name and position with VA.gov. (This is meant to humanize the interaction of observation for the participant.)
-Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
+     * Admit observers.
+	 * Then, ask the notetaker and observers to **give a brief, camera-on introduction, like their first name and position with VA.gov.** (This is meant to humanize the interaction of observation for the participant.)
+     * Once complete, ask the notetaker and observers to turn off their cameras for the remainder of the session to save bandwidth
 
-You'll be interacting with a prototype today. This is a demo tool that may not function exactly the way you expect. Some areas and links of the prototype will be functional, and some will not. Since this is only a demo, none of your actions will affect your VA information or benefits.
+* **You'll be interacting with a prototype today.** This is a demo tool that may not function exactly the way you expect. Some areas and links of the prototype will be functional, and some will not. **Since this is only a demo, none of your actions will affect your VA information or benefits.**
 
-I’d like to ask your permission to record my screen and audio as we talk today? We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are deleted, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
-Knowing that, is it okay with you if I record my screen and audio as we talk today?
-If yes,  ➡️ Have the Notetaker start the recording.
-Reminder to Notetaker: After you start the recording, select the “Show captions (CC)” button to enable transcription for the recording.
+* **I’d like to ask your permission to record my screen and audio as we talk today?** We use the recordings to confirm that we have captured your opinions accurately. After we complete the analysis, the recordings are deleted, and none of your comments will be attributed to you directly. We either report findings out in groups (i.e., 5 out of 10 participants said this), or if we want to quote you directly, we take away any identifying information and give you a participant ID, like P7.
+    * **Knowing that, is it okay with you if I record my screen and audio as we talk today?**
+    * If yes,  ➡️ **Have the Notetaker start the recording.**
+    * **Reminder to Notetaker:** After you start the recording, select the “Show captions (CC)” button to enable transcription for the recording.
 I have started recording. I'd like to confirm: Is it okay with you if I record my screen and the audio as we talk today?
 
 **[Record answer here]**
-Warm-up Questions
+
+**Warm-up Questions**
 “Before we look at the prototype, let’s start with a few warm-up questions.
-Just to confirm, you mentioned during recruitment that you’ve previously filed a disability compensation claim with the VA—is that correct?
-How long ago was that - when did you last file a VA benefits claim? 
-Have you received a decision for that claim?
 
+1. Just to confirm, you mentioned during recruitment that you’ve previously filed a disability compensation claim with the VA—is that correct? 
+	* How long ago was that - when did you last file a VA benefits claim? 
+	* Have you received a decision for that claim?
 
-Have you ever challenged a VA claim decision or filed a VA decision review before? 
+2. Have you ever challenged a VA claim decision or filed a VA decision review before? 
 Which claim review option did you choose? Supplemental Claim, Higher-Level Review, or Board Appeal? (could also be the US Court of Appeals. In the future, Motion to Vacate, Motion to Reconsider, CUE)
 
-
-Did you file the decision review yourself, or did you work with a VSO or an attorney on your behalf?
+3. Did you file the decision review yourself, or did you work with a VSO or an attorney on your behalf?
 If they filed themselves: Can you walk me through how you first learned about the different VA decision review options—and what factors helped you decide which one to choose?
 
-
 Facilitator: Copy and paste the rating options from the Appendix into Zoom Chat for visual reference:
-On a scale of 1-4, how well do you currently feel you understand the decision review options, the requirements, and which one might apply to your situation?
-1: I don’t understand them at all (No awareness / high confusion)
-2: I understand them a little (Basic or initial understanding of concept; can’t explain in detail)
-3: I understand them well (Can outline DR steps and select one confidently, has completed a DR in the past)
-4: I understand them very well (Could explain each option to another Veteran, has completed a DR in the past)
+
+4. On a scale of 1-4, how well do you currently feel you understand the decision review options, the requirements, and which one might apply to your situation?
+    1 - I don’t understand them at all (No awareness / high confusion)  
+    2 - I understand them a little (Basic or initial understanding of concept; can’t explain in detail)    
+    3 - I understand them well (Can outline DR steps and select one confidently, has completed a DR in the past)
+    4 - I understand them very well (Could explain each option to another Veteran, has completed a DR in the past)
 
 
 ## Section 2: Work through their own situation - 20-25 minutes
 ## Set the Task
 “For today’s session, imagine you’re on VA.gov, looking to ask VA to reconsider your disability benefits decision. You will be navigating through a guide to explore the review options available to you, to help you select the decision review option that fits your needs. The guide will ask a few high-level questions—no sensitive details—and anything you enter is for testing purposes only; none of the information you enter will impact your benefits in any way.” If it’s okay with you, we’d like you to answer the questions today as if you were using this on your own- providing answers based on your own personal situation.
-Caveat: We’re interested in two things: how easy it is to use and does the way the information is presented support your decision making process. Some details haven’t yet been fully aligned with official VA policy, so please don’t rely on the information you see here to make decisions about your own situation.”
+
+**Caveat:** We’re interested in two things: how easy it is to use and does the way the information is presented support your decision making process. Some details haven’t yet been fully aligned with official VA policy, so please don’t rely on the information you see here to make decisions about your own situation.”
+
 Task 1: Launch the guide
 Navigate to the Intro screen. “Let's get started. I am going to drop a link in the Zoom chat. When you receive the link, please open the web page.”
-Link:   UNAUTHENTICATED LINK TO STAGING HERE
+
+**Link:  [https:staging.ca.gov/decision-reviews/explore-disability-claim-decision-review-options](https://staging.va.gov/decision-reviews/explore-disability-claim-decision-review-options)**
+
 “Next, I’d like you to share your screen for the remainder of the session. If you need help figuring out how to share your screen I am happy to troubleshoot.”
-[Troubleshooting guide for mobile: https://depo-platform-documentation.scrollhelp.site/research-design/research-mobile-sessions
-General troubleshooting: https://depo-platform-documentation.scrollhelp.site/research-design/troubleshooting-for-va-gov-research-sessions-in-pr ]
+
+* Troubleshooting guide for mobile: [https://depo-platform-documentation.scrollhelp.site/research-design/research-mobile-sessions](https://depo-platform-documentation.scrollhelp.site/research-design/research-mobile-sessions)
+ 
+ * General troubleshooting: [https://depo-platform-documentation.scrollhelp.site/research-design/troubleshooting-for-va-gov-research-sessions-in-pr](https://depo-platform-documentation.scrollhelp.site/research-design/troubleshooting-for-va-gov-research-sessions-in-pr)
+
+  
 ## Introduction Screen
 “Take some time to read through this screen. When you’re ready, please talk me through what you would expect to do before selecting any links. Please do not select any links or leave the page yet– but tell me verbally if there is an action you would like to take.”
+
 ## Intro screen questions
-“In your own words, what do you think the Explore disability claim decision review options guide is for? What do you expect to get out of this guide?”
-“What types of claims do you think this guide supports?”
-“What, if anything, would you like to know before starting the guide?”
-If they mention the text in the intro page: ‘This guide isn’t a form you’ll submit to us.’, Ask: “What does that mean to you?”
-“Is there anything on this page that is confusing or unclear that you would like to understand better?”
-“What would you select first on this page and why?”
+* “In your own words, what do you think the Explore disability claim decision review options guide is for? What do you expect to get out of this guide?”
+* “What types of claims do you think this guide supports?”
+* “What, if anything, would you like to know before starting the guide?”
+* If they mention the text in the intro page: ‘This guide isn’t a form you’ll submit to us.’, Ask: “What does that mean to you?”
+* “Is there anything on this page that is confusing or unclear that you would like to understand better?”
+* “What would you select first on this page and why?”
+
 If the Veteran selects the helper text/accordion links:
-Note which accordions they notice/open
-Note any language or wording that causes hesitation or confusion.
+* Note which accordions they notice/open
+* Note any language or wording that causes hesitation or confusion.
+
 If they click on links, ask:
-“Was this information helpful?”
-“Did this link help you better understand the question being asked in the guide?”
-“Would you prefer links to open a new tab or stay within the same window?”
-“After viewing, where would you expect to return?”
+* “Was this information helpful?”
+* “Did this link help you better understand the question being asked in the guide?”
+* “Would you prefer links to open a new tab or stay within the same window?”
+* “After viewing, where would you expect to return?”
 
 
 ## Task 2: Answer Explore disability claim decision review options questions
