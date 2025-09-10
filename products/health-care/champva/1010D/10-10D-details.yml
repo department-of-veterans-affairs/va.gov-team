@@ -1,6 +1,6 @@
 name: 10-10D Application for CHAMPVA benefits
 entry_name: 10-10D  # Must match vets-website manifest.json
-description: "Product description"
+description: "Online application form for CHAMPVA (Civilian Health and Medical Program of the Department of Veterans Affairs) benefits for eligible family members and survivors of veterans."
 team: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/teams/health-portfolio/ivc-forms
 github-label: "10-10d"
 urls:
@@ -12,6 +12,6 @@ measurement:
   domo_dashboard: "https://..."
   google_analytics: "https://..."
   project_board: "https://"
-  research_repo: "https://..."
+  research_repo: "https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues"
 product_outline: "https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/10-10d-product-outline.md"
 status: "active" # active, maintenance, sunset

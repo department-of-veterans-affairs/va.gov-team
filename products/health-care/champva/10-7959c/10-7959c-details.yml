@@ -1,6 +1,6 @@
 name: "10-7959C CHAMPVA Other Health Insurance Certification form"
 entry_name: 10-7959C
-description: "Product description"
+description: "Online form for CHAMPVA beneficiaries to certify other health insurance coverage, required for CHAMPVA benefits coordination and processing."
 team: https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/teams/health-portfolio/ivc-forms
 github-label: "10-7959c"
 urls:
@@ -12,5 +12,5 @@ measurement:
   domo_dashboard: "https://..."
   google_analytics: "https://..."
   project_board: "https://"
-  research_repo: "https://..."
+  research_repo: "https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues"
 status: "active" # active, maintenance, sunset
