@@ -155,7 +155,7 @@ When the above responsibilities are met and development bandwidth is available, 
         1. Set the VEText Kill Switch - This stops veterans from receiving the check in link when they attempt checkin at the clinic, they will be directed to the front desk.  [PCI  Kill Switch Instructions](https://github.com/department-of-veterans-affairs/chip/blob/master/README.md#pci-killswitch)
         3. Confirm VEText is disabled by texting “checkin” to 53079 on your phone. If you get “We’re sorry. We can’t check you in online. Please ask a staff member for help.” The killswitch has been enabled successfully. If not, try again.
     4. **Enable PCI Maintenance Page in VA pagerduty** - 
-        1. Login to VA pagerduty -> services -> day of check-in - https://dsva.pagerduty.com/service-directory/PNDVBO8
+        1. Login to VA pagerduty -> services -> day of check-in - https://ecc.pagerduty.com/service-directory/PNW6SMI
         2. Go to Add Maintenance at the Maintenance Window section at the bottom right
         3. Create a new Maintenance Window depending on the discussed time we wish to have the window open.
     5. **Coordinate with VHA IVC (Shawn Adams) to communicate resolution to field** - via PCI Implementation Teams channel
