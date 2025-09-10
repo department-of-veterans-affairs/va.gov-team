@@ -47,7 +47,7 @@ Before enabling your feature toggle in production, you'll need to:
 **Yes**
 
 MVP and Post MVP will Launch together. Separate Feature toggles
-A defined set of users will be whitelisted in `mhv_secure_messaging_cerner_pilot` Flipper toggle to gain access to the new experience
+A defined set of users will be whitelisted in `mhv_secure_messaging_curated_list_flow` Flipper toggle to gain access to the new experience
 
 
 ### Define the Rollback process
