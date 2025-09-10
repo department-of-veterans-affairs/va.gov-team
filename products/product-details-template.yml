@@ -14,4 +14,5 @@ measurement:
   metrics_dashboard: "https://..." # Link to additional metrics dashboard (optional)
   project_board: "https://" # Link to GitHub project board (optional)
   research_repo: "https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues" # Link to VA research repository, filtering for this product tag
+product_outline: "https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/[product-category]/[product-name]/[product-name]-product-outline.md" # Link to product outline document
 status: "active" # active, maintenance, sunset

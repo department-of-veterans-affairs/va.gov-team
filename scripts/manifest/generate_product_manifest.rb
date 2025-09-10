@@ -122,6 +122,7 @@ class ProductManifestGenerator
       production_url: yaml_content.dig('urls', 'production'),
       staging_url: yaml_content.dig('urls', 'staging'),
       manifest_url: yaml_content['manifest_url'],
+      product_outline: yaml_content['product_outline'],
       measurement: yaml_content['measurement'] || {}
     }
   end
@@ -192,10 +193,10 @@ class ProductManifestGenerator
       content << ""
       
       products.each do |product|
-        # Main product entry with link to YAML file
+        # 1. Main product entry with link to YAML file (Product name)
         content << "- [#{product[:name]}](#{product[:file_path]})"
         
-        # Add status indicator
+        # 2. Add status indicator
         status_indicator = case product[:status]
                           when 'active' then '🟢'
                           when 'maintenance' then '🟡'
@@ -204,10 +205,32 @@ class ProductManifestGenerator
                           end
         content << "  - Status: #{status_indicator} #{product[:status]&.capitalize || 'Unknown'}"
         
-        # Add team if available
+        # 3. Add team if available
         if product[:team] && !product[:team].empty?
           content << "  - Team: #{product[:team]}"
         end
+        
+        # 4. Add product outline URL if available
+        if product[:product_outline] && 
+           !product[:product_outline].empty? &&
+           !product[:product_outline].match?(/^https?:\/+\.\.\./)
+          content << "  - [Product Outline](#{product[:product_outline]})"
+        end
+        
+        # 5. Add manifest/application code URL if available
+        if product[:manifest_url] && 
+           !product[:manifest_url].empty? &&
+           !product[:manifest_url].match?(/^https?:\/+\.\.\./)
+          content << "  - [Application code](#{product[:manifest_url]})"
+        end
+        
+        # 6. Add GitHub project board link if label is available
+        if product[:github_label] && !product[:github_label].empty?
+          board_link = generate_github_project_link(product[:github_label])
+          content << "  - [GitHub Issues](#{board_link})"
+        end
+        
+        # Additional URLs section (after the core 6 items)
         
         # Add production URL if available and not a placeholder
         if product[:production_url] && 
@@ -223,13 +246,6 @@ class ProductManifestGenerator
            !product[:staging_url].match?(/^https?:\/+\s*$/) &&
            !product[:staging_url].empty?
           content << "  - [Staging URL](#{product[:staging_url]})"
-        end
-        
-        # Add manifest/application code URL if available
-        if product[:manifest_url] && 
-           !product[:manifest_url].empty? &&
-           !product[:manifest_url].match?(/^https?:\/+\.\.\./)
-          content << "  - [Application code](#{product[:manifest_url]})"
         end
         
         # Add measurement URLs if available
@@ -278,12 +294,6 @@ class ProductManifestGenerator
              !measurement['research_repo'].empty?
             content << "  - [Research Repository](#{measurement['research_repo']})"
           end
-        end
-        
-        # Add GitHub project board link if label is available
-        if product[:github_label] && !product[:github_label].empty?
-          board_link = generate_github_project_link(product[:github_label])
-          content << "  - [GitHub Issues](#{board_link})"
         end
         
         content << ""

@@ -19,6 +19,7 @@ class ProductDetailsValidator
     /Product label/,
     %r{https://\.\.\.}, # URLs with just "https://..."
     %r{https://\.\.\./},
+    %r{https://github\.com/department-of-veterans-affairs/va\.gov-team/blob/master/products/\[product-category\]/}, # Product outline placeholder
     %r{https://github\.com/department-of-veterans-affairs/va\.gov-research-repository/issues$} # Generic research repo placeholder
   ].freeze
 
@@ -255,6 +256,11 @@ class ProductDetailsValidator
     if yaml_content['manifest_url']
       result[:field_validation]['manifest_url'] = validate_manifest_url_field(yaml_content['manifest_url'])
     end
+    
+    # Validate product_outline if present
+    if yaml_content['product_outline']
+      result[:field_validation]['product_outline'] = validate_product_outline_field(yaml_content['product_outline'])
+    end
   end
 
   def validate_name_field(name)
@@ -367,6 +373,29 @@ class ProductDetailsValidator
       valid = false
     elsif !url.match?(/manifest\.json$/)
       issues << 'Should point to a manifest.json file'
+      valid = false
+    end
+    
+    { valid: valid, issues: issues }
+  end
+
+  def validate_product_outline_field(product_outline)
+    issues = []
+    valid = true
+    
+    url = product_outline.to_s
+    
+    if url.match?(/https:\/\.\.\./) || url.empty?
+      issues << 'Contains placeholder or is empty'
+      valid = false
+    elsif !url.match?(/^https:\/\/github\.com/)
+      issues << 'Should be a GitHub URL'
+      valid = false
+    elsif !url.match?(/\/va\.gov-team\//)
+      issues << 'Should point to va.gov-team repository'
+      valid = false
+    elsif !url.match?(/\.(md|markdown)$/i)
+      issues << 'Should point to a Markdown file (.md)'
       valid = false
     end
     
