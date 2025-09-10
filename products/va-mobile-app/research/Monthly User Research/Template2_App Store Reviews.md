@@ -19,7 +19,9 @@ Feedback includes x total responses, each with a rating of 1-5. Ratings of 1-2 a
 - [Neutral](link)
 
 2. [Common themes](link)
+
 3. [User pain point](link)
+
 4. [Feature specific feedback](link)
 - [Navigation](link)
 - [Login](link)
