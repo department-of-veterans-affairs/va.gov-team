@@ -40,7 +40,7 @@ CHECK SLACK for real-time feedback or questions from observers
 
 Thanks for joining us today! My name is **Christine**. How are you doing today?
 
-I have a colleague with us in this session who will be taking notes **Notetaker First Name** and our accessibility specialist **Cindy** will be on the call available to provide support with any technical issues that may arise with your use of assistive technology should you need it.
+I have a colleague with us in this session who will be taking notes **Notetaker First Name** and our accessibility specialist **AT Specialist First Name** will be on the call available to provide support with any technical issues that may arise with your use of assistive technology should you need it.
 
 There are a few of my teammates who would like to observe this session as well. **Would it be OK with you if I invited them to join us?**
 - *(If participant seems hesitant or unsure or uncomfortable)* Just so you know, my teammates will be muted and off camera and you won't have to interact with them. You also have the option to keep the session just the two of us plus the notetaker (and the technical support person).
@@ -139,7 +139,7 @@ Y - Were you able to download the app via those instructions? Y - skip down to n
 
 N - I can now share the URL: that takes you to download the testing app, How would you prefer to receive the URL? I could dictate it to you, put it in the Zoom chat, email it to you, or (for smartphone only) text it to you.
 **[iOS url here](https://testflight.apple.com/join/RrO0Cw2q)**  
-**[Android link](https://appdistribution.firebase.dev/i/6bea6c3fabc1a872)** Build #903, build version 2.56.1
+**[Android link](https://appdistribution.firebase.dev/i/6bea6c3fabc1a872)** Build #2903, build version 2.56.1
 - *(If asked, reassure that this is a legitimate link to what I want you to test)*
 
 Did you get the link? 
