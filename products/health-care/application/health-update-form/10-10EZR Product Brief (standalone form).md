@@ -230,7 +230,8 @@ In future iterations, we plan to review for alternative locations and other syst
 
 ### After
 
-TBD
+<img width="542" height="795" alt="image" src="https://github.com/user-attachments/assets/4502d7f1-9eff-468e-90c9-365a16e6a25e" />
+
 
 ---
 
