@@ -536,9 +536,9 @@ Veterans will want to view their benefit overpayment and medical copayment debt 
   - This research supports our desired user outcome by confirming that the ability to view overpayment and copayment information is highly desired by users, with everyone currently using the app saying they would use the feature. It also validates that users are not just looking for a total amount, but for clarity on why their debt exists, wanting more details than what was provided in the prototype.
  
 ### Desired Business Outcome
-Increase the visibility of these debts by the business, so that it provides additional awareness to Veterans, informing them that they owe money to the VA. By adding these details to the mobile app, gives Veterans a convenient way to view money they might owe the VA and then take the necessary actions on their debt/bill.
+Increase the visibility of these debts by the business, so that it provides additional awareness to Veterans, informing them that they owe money to the VA. By adding these details to the mobile app, gives Veterans a convenient way to view money they might owe the VA and then take the necessary actions on their debt or bill.
 
-  - This research supports our desired business outcome by providing users with visibility into their debts/bills on the app, so that they are aware that they owe money to the VA, and the ability to take actions to resolve the debt or bill, request help, or dispute it. 
+  - This research supports our desired business outcome by confirming that Veterans desire visibility into their debts and bills on the app. The findings validate that by adding these features, we are providing a solution for Veterans to become aware that they owe money to the VA, and the ability to take actions to resolve the debt or bill, request help, or dispute it. 
 
 
 
@@ -569,10 +569,6 @@ We will want to track this metric to ensure that everything is functioning as in
 
 - How findings support the KPI: Any error the user encounters would most likely lead to frustration. The research identified several points of friction that could lead to this frustration, including a confusing handoff to external payment sites, difficulty locating financial help, and a lack of prominently displayed phone numbers.
 
-~~### KPI 6: Total number of clicks on the empty state of benefit overpayments and medical copayments.
-We expect this to be a non-zero amount and want to track this as a metric to assess the design, and not a metric determining the success of the debt feature itself. This will be a temporary metric that is tracked for 6 months.~~
-
-~~- How findings support the KPI:~~
 
 ## Next Steps
 
