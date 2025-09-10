@@ -25,7 +25,12 @@
 
 ## Outcome Summary
 > *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
-* We are implementing the [side navigation component](https://design.va.gov/components/sidenav) into the 526ez form. The side navigation will contain the 6 main steps of the form: (1) Veteran details (2) Conditions (3) Mental health (4) Suppporting evidence (5) Additional information (6) Review and submit. By implementing the `side navigation` we intend on giving Veterans the ability to skip sections and navigate back to sections without having to hit the `back` or `continue` button multiple times. Providing a navigation feature will also provide Veterans with an overview of all form section and help them have a stronger sense of progress across sections. By implementing the `side navigation` we will reduce the number of clicks it takes for a Veteran to complete the form, consequently making the act of filling out the form quicker and more efficient.
+
+We are implementing the [side navigation component](https://design.va.gov/components/sidenav) into the 526ez form. The side navigation will contain the 6 main steps of the form: (1) Veteran details (2) Conditions (3) Mental health (4) Suppporting evidence (5) Additional information (6) Review and submit. By implementing the `side navigation` we intend on giving Veterans the ability to skip sections and navigate back to sections without having to hit the `back` or `continue` button multiple times. Providing a navigation feature will also provide Veterans with an overview of all form section and help them have a stronger sense of progress across sections. By implementing the `side navigation` we will reduce the number of clicks it takes for a Veteran to complete the form, consequently making the act of filling out the form quicker and more efficient.
+
+#### Initial lo-fi image of proposed initiative:
+
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/collab-cycle/side-nav/screenshots/SideNavMVP.png" alt="Screenshot" style="max-width: 600px; width: 40%;">
 
 **Related/Associated product(s)**
 - Product | Link to product outline 
@@ -124,19 +129,30 @@ This initiative supports the following OCTO strategy and Objectives because it w
 ### What're you building?
 **What's in scope for you to build with this initiative? Describe key features/flows.**
 - We are going to include the 6 major steps of our form in the side nav: (1) Veteran details (2) Conditions (3) Mental health (4) Supporting evidence (5) Additional Information (6) Submit and review.
+
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/collab-cycle/side-nav/screenshots/SideNavMVP.png" alt="Screenshot" style="max-width: 600px; width: 40%;">
+
  
  **What have you explicitly decided to **not** include and why?**
  - We ARE NOT going to include any sub sections or nested sections within the side navigation because we want to first understand how the MVP functions and any technical constraints we may come across during it's implementation. We need to do more work to understand the number of header levels that are included in the navigation and how to map pages of our form to those header levels. There is more IA work to be done before we implement the nested side nav.  
 
 > *Are you building for the VA Health and Benefits mobile application? Explain why or why not.*
 
+We are not building for the VA Health and Benefits mobile application. This is going to be for the MyVA site. The mobile application is out of scope. 
+
 > *How does this solution address your Assumptions & Risks?*
+
+We will conduct user testing and we will start with an MVP version of implementation. This approach allows us to identify user pain points early, and limit the scope of the solution to what is most viable so that we can learn from implementation while using fewer resources. 
 
 #### Go-to-market 
 
 > *What marketing, outreach, or communications are necessary for this product to be successful?*
 
+We do not need marketing, outreach, or communications for this initiative. 
+
 > *Which groups/orgs are necessary to make this happen?*
+
+- Platform Design System
 
 --- 
 
@@ -162,8 +178,12 @@ This initiative supports the following OCTO strategy and Objectives because it w
 ## Screenshots
 
 ### Before
+There is no previous navigation component, so there is no "before" image.
 
 ### After
+<img src="https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/collab-cycle/side-nav/screenshots/SideNavMVP.png" alt="Screenshot" style="max-width: 600px; width: 40%;">
+
+
 
 ---
 
@@ -172,10 +192,10 @@ This initiative supports the following OCTO strategy and Objectives because it w
 
 <details>
 
-- Team Name: 
-- GitHub Label(s): 
-- Slack channel: 
-- Product POCs:
+- Team Name: Disability Benefits Core Form Team 
+- GitHub Label(s): disability-benefits
+- Slack channel: https://dsva.slack.com/archives/C04KW0B46N5
+- Product POCs:Andrew Belov
 
 </details>
 
@@ -185,8 +205,8 @@ This initiative supports the following OCTO strategy and Objectives because it w
 
 <details>
   
-- Office/Department:
-- Contact(s): 
+- Office/Department: OCTO
+- Contact(s): Emily Theis, Elizabeth Lantz
  
 </details>
 
