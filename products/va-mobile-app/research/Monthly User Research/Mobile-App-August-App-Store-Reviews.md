@@ -33,6 +33,7 @@ Feedback includes 357 total responses, each with a rating of 1-5. Ratings of 1-2
 - [Travel pay](#travel-pay)
 - [Messaging](#messaging)
 - [Prescriptions](#prescriptions)
+- [Appointments](#appointments)
 - [Feedback enhancements](#feedback-enhancements)
 
 ## General/other feedback
@@ -42,7 +43,7 @@ Note: General feedback includes responses that reflect Veteran experiences with 
 The August 2025 feedback for the VA Health & Benefits app reveals a polarized distribution of ratings with 42% of responses giving the app a 5 star rating, while the second highest percentage of ratings at 22% rate the app as 1 star. While many users appreciate the app's convenience and ease of use for managing healthcare and benefits, a significant number report issues with login, navigation, and specific features like travel pay and messaging. An incident involving an incorrectly linked staging environment appeared to have temporarily caused login problems for some users likely directly impacting the lower rating scores. Despite this temporary issue, many users praise the app for its improvements over previous versions.
 
 ### Positive
-The majority of the received review, although only a slight majority at roughly 57%, is positive. Many users finding the app easy to use and convenient for managing their healthcare and benefits. Users appreciate the ability to refill prescriptions, check appointments, and communicate with their care teams.
+The majority of the received review, although only a slight majority at roughly 57%, is positive. Many users find the app quick and easy to use noting its simplicity and speed. They also often note it provides a convenient way to manage their healthcare and benefits. Users appreciate the ability to refill prescriptions, check appointments, prove their status, track payments, and communicate with their care teams.
 
 | Rating | % of ratings | # of ratings |
 |--|--|--|
@@ -55,7 +56,15 @@ Representative responses:
 
 <br>
 
-> This is definitely a must easier way to keep up with VA appointments and prescriptions...finally.
+> The app is both more intuitive and more reliable than the website. Well done VA techies, I appreciate your thoughtfulness and understanding. Bravo
+
+<br>
+
+> I have been able to communicate with providers at the VA in seconds using this app. Logging in takes under 30 seconds. I have tried for months to login through the old va.gov website and could never access provider messaging (or anything useful )where now using the app, it is not only possible but instant instantaneous and at my fingertips (iPhone)THANK-YOU!👍😎
+
+<br>
+
+> This is the best government app I have ever used. Functionality, ease of use, everything in one location. I was skeptical at first but this is the best thing the VA has done.
 
 <br>
 
@@ -145,21 +154,22 @@ Recommendation: Simplify the login process by promoting biometric options. Login
 | Travel Pay | 2.8 | 50 |
 | Messaging | 3.9 | 35 |
 | Prescriptions | 4.3 | 65 |
+| Appointments | | |
 
 
 ### Navigation
 | Feature | average rating | # of ratings |
 |--|--|--|
 | Navigation | 3.6 | 45 |
-Some users find the app easy to navigate, while others struggle to find specific features or information. The organization of the app's menus and sections could be improved to enhance usability.
+Some users find the app easy to navigate, while others struggle to find specific features or information. Users often compare it to the structure of what they are familiar with using at the VA previously such as MyHealthEVet or Va.gov but after learning the app find it easy to navigate. The organization of the app's menus and sections could be improved to enhance usability.
 
 Representative responses:
 
-> Since the change it has become too difficult to log in and use the site.
+> Downloaded the app and doggone it’s fast and responsive. Takes a bit getting used to navigating compared to the previous “MyHealthevet” but so far I like it! Bravo
 
 <br>
 
-> The app is both more intuitive and more reliable than the website.Well done VA techies, I appreciate your thoughtfulness and understanding.Bravo
+> The app is both more intuitive and more reliable than the website. Well done VA techies, I appreciate your thoughtfulness and understanding.Bravo
 
 <br>
 
@@ -267,6 +277,14 @@ Travel pay is a common pain point with the app.
 
 Representative responses:
 
+> Thank you for making it easy to file for travel reimbursement again. Ever since you discontinued the kiosk reimbursement, it has been such a pain in the …. to file, that I stopped filing. Thank you for the mobile app. Also for the pharmacy refill application.
+
+<br>
+
+> The latest update made travel reimbursement really easy, which I really appreciate.
+
+<br>
+
 > This app is terrible it does not have the updated travel claim that is supposed have. It was the main reason for the new “great” app. To top it off it’s says this update has Been online for 2weeks.
 
 <br>
@@ -279,11 +297,11 @@ Representative responses:
 | Feature | average rating | # of ratings |
 |--|--|--|
 | Messaging | 3.9 | 35 |
-Messaging is generally rated well.
+Messaging is a well appreciated feature in the app, however common complaints include not finding needed providers on the list to send messages to. Users noted changes in their provider list after recent updates loosing access to the providers they previously had and need, with no known avenue to request needed providers. 
 
 Representative responses:
 
-> I have been able to communicate with providers at the VA in seconds using this app. Logging in takes under 30 seconds. I have tried for months to login through the old va.gov website and could never access provider messaging (or anything useful )where now using the app, it is not only possible but instant instantaneous and at my fingertips (iPhone)THANK-YOU!👍😎
+> Just update the app and now only Kansas City MO is showing for secure messaging. What a shame because the previous version did not have this problem
 
 <br>
 
@@ -299,13 +317,23 @@ Prescriptions are rated as a strength of the app.
 
 Representative responses:
 
-> Utilizing the VA app to fill prescription refills was surprisingly, easy!
+> Unexpectedly going through the messages, it was a one touch refill everything endeavor. I was very pleased pleasantly surprised.
 
 <br>
 
 > Ordering prescriptions are easy and fast and the app helps with all my needs
 
 <br>
+
+### Appointments
+
+Representative responses:
+
+> The appointments are much easier to read and have more information.
+
+<br>
+
+
 
 ### Feature Enhancements
 Users request the ability to see what their appointment is for.
