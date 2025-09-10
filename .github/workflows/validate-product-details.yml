@@ -24,7 +24,7 @@ jobs:
       - name: Optimized checkout for large repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 1
+          fetch-depth: 0  # Changed from 1 to get full history for proper diff
           sparse-checkout: |
             .github/workflows/
             scripts/
@@ -45,29 +45,59 @@ jobs:
       - name: Get changed product files
         id: changed-files
         run: |
+          echo "🔍 Debug: Event name is ${{ github.event_name }}"
+          echo "🔍 Debug: Base ref is ${{ github.base_ref }}"
+          echo "🔍 Debug: Head ref is ${{ github.head_ref }}"
+          
           if [ "${{ github.event_name }}" = "pull_request" ]; then
             # For pull requests, get files changed in this PR
-            git fetch origin ${{ github.base_ref }}:${{ github.base_ref }}
-            CHANGED_FILES=$(git diff --name-only ${{ github.base_ref }}...HEAD | grep 'products/.*-details\.yml$' || true)
+            echo "🔍 Debug: Fetching base branch origin/${{ github.base_ref }}"
+            git fetch origin ${{ github.base_ref }}
+            
+            echo "🔍 Debug: Available branches:"
+            git branch -a
+            
+            echo "🔍 Debug: Getting changed files between origin/${{ github.base_ref }} and HEAD"
+            ALL_CHANGED=$(git diff --name-only origin/${{ github.base_ref }}...HEAD || git diff --name-only HEAD~10..HEAD)
+            echo "🔍 Debug: All changed files:"
+            echo "$ALL_CHANGED"
+            
+            CHANGED_FILES=$(echo "$ALL_CHANGED" | grep 'products/.*-details\.yml$' || true)
           else
             # For push to master, get files in the last commit
-            CHANGED_FILES=$(git diff --name-only HEAD~1 HEAD | grep 'products/.*-details\.yml$' || true)
+            echo "🔍 Debug: Getting files from last commit"
+            ALL_CHANGED=$(git diff --name-only HEAD~1 HEAD)
+            echo "🔍 Debug: All changed files:"
+            echo "$ALL_CHANGED"
+            
+            CHANGED_FILES=$(echo "$ALL_CHANGED" | grep 'products/.*-details\.yml$' || true)
           fi
+          
+          echo "🔍 Debug: Product details files found:"
+          echo "$CHANGED_FILES"
           
           if [ -z "$CHANGED_FILES" ]; then
             echo "No product details files changed"
             echo "changed_files=" >> $GITHUB_OUTPUT
           else
-            echo "Changed files:"
+            echo "✅ Changed product details files:"
             echo "$CHANGED_FILES"
             # Convert to space-separated list for easier processing
-            FILES_LIST=$(echo "$CHANGED_FILES" | tr '\n' ' ')
+            FILES_LIST=$(echo "$CHANGED_FILES" | tr '\n' ' ' | sed 's/  */ /g' | sed 's/^ *//g' | sed 's/ *$//g')
+            echo "🔍 Debug: Files list for output: '$FILES_LIST'"
             echo "changed_files=$FILES_LIST" >> $GITHUB_OUTPUT
           fi
 
       - name: Validate changed product files
         if: steps.changed-files.outputs.changed_files != ''
         run: |
+          FILES_TO_VALIDATE="${{ steps.changed-files.outputs.changed_files }}"
+          echo "🔍 Debug: Files to validate: '$FILES_TO_VALIDATE'"
+          
+          if [ -z "$FILES_TO_VALIDATE" ]; then
+            echo "❌ No files to validate (empty list)"
+            exit 1
+          fi
           # Create validation script
           cat > validate_links.rb << 'EOF'
           #!/usr/bin/env ruby
@@ -185,7 +215,9 @@ jobs:
               
               # Check if label exists in the repository
               begin
-                response = github_api_request("https://api.github.com/repos/department-of-veterans-affairs/va.gov-team/labels/#{URI.encode_www_form_component(github_label)}")
+                encoded_label = URI.encode_www_form_component(github_label)
+                api_url = "https://api.github.com/repos/department-of-veterans-affairs/va.gov-team/labels/#{encoded_label}"
+                response = github_api_request(api_url)
                 
                 if response.code == '200'
                   puts "✅ GitHub label '#{github_label}' exists"
@@ -245,7 +277,10 @@ jobs:
               http.open_timeout = 10
               http.read_timeout = 10
               
-              request = Net::HTTP::Get.new(uri.path)
+              path = uri.path
+              path += "?#{uri.query}" if uri.query
+              
+              request = Net::HTTP::Get.new(path)
               request['Authorization'] = "token #{@github_token}"
               request['Accept'] = 'application/vnd.github.v3+json'
               request['User-Agent'] = 'VA.gov Product Validator'
@@ -297,19 +332,23 @@ jobs:
           chmod +x validate_links.rb
           
           # Run validation on changed files
-          ruby validate_links.rb ${{ steps.changed-files.outputs.changed_files }}
+          echo "🚀 Starting validation..."
+          ruby validate_links.rb $FILES_TO_VALIDATE
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Run existing product validation
         if: steps.changed-files.outputs.changed_files != ''
         run: |
+          FILES_TO_VALIDATE="${{ steps.changed-files.outputs.changed_files }}"
+          
           # Run the existing validation script for comparison
           if [ -f "scripts/manifest/validate_products.rb" ]; then
             echo "🔧 Running existing product validation..."
-            for file in ${{ steps.changed-files.outputs.changed_files }}; do
+            for file in $FILES_TO_VALIDATE; do
               if [ -f "$file" ]; then
                 product_name=$(basename "$file" .yml | sed 's/-details$//')
+                echo "🔍 Validating product: $product_name (from file: $file)"
                 ruby scripts/manifest/validate_products.rb --product "$product_name" --verbose || true
               fi
             done
