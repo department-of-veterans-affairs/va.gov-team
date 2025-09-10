@@ -70,7 +70,7 @@ The report also provides **direct quotes** to highlight user voices, a **role co
   2. [Static/Expanded option](https://dev-design.va.gov/4647/component-checklist-layout-option-2/)
   3. [Compact list option](https://dev-design.va.gov/4647/component-checklist/)
 
-
+### Prototype feedback
 - **The checklist is rarely consulted for decision-making.** Most users said they ignore it unless doing an audit or checking accessibility.  
   > *“I’ll be honest. Whether or not I use a component is at the very top: is it deployed, is it green? I’m good.”* – Designer  
 
@@ -82,6 +82,7 @@ The report also provides **direct quotes** to highlight user voices, a **role co
 
 - **Preferences for layout varied.** Some preferred compact accordions for less clutter, while others wanted a top-level summary with anchor links.  
   > *“For me I’d probably say accordions, because I don’t really care about the completion status.”* – Engineer
+  
   > *“I’d prefer just a compact list at the top with a link down if I need details.”* – Designer 
 
 ---
