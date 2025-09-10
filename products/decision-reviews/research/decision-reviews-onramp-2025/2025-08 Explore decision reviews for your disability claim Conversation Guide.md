@@ -82,7 +82,7 @@ Facilitator: Copy and paste the rating options from the Appendix into Zoom Chat 
 
 ## Section 2: Work through their own situation - 20-25 minutes
 ## Set the Task
-“For today’s session, imagine you’re on VA.gov, looking to ask VA to reconsider your disability benefits decision. You will be navigating through a guide to explore the review options available to you, to help you select the decision review option that fits your needs. The guide will ask a few high-level questions—no sensitive details—and anything you enter is for testing purposes only; none of the information you enter will impact your benefits in any way.” If it’s okay with you, we’d like you to answer the questions today as if you were using this on your own- providing answers based on your own personal situation.
+“For today’s session, imagine you’re on VA.gov, looking to ask VA to reconsider your disability benefits decision. You will be navigating through a guide to explore the review options available to you, to help you select the decision review option that fits your needs. The guide will ask a few high-level questions—no sensitive details—and anything you enter is for testing purposes only; none of the information you enter will impact your benefits in any way. If it’s okay with you, we’d like you to answer the questions today as if you were using this on your own- providing answers based on your own personal situation.”
 
 **Caveat:** We’re interested in two things: how easy it is to use and does the way the information is presented support your decision making process. Some details haven’t yet been fully aligned with official VA policy, so please don’t rely on the information you see here to make decisions about your own situation.”
 
@@ -121,49 +121,52 @@ If they click on links, ask:
 
 
 ## Task 2: Answer Explore disability claim decision review options questions
-“Now that you have had a chance to read through the introductory screen, go ahead and start. Please answer the questions true to your situation, to the best of your ability.  I will mostly just observe you working through this process. If you can, please remember to talk out loud to share your thought process as you read through the guide to help me understand your experience.”
+**“Now that you have had a chance to read through the introductory screen, go ahead and start. Please answer the questions true to your situation, to the best of your ability.**  I will mostly just observe you working through this process. If you can, please remember to talk out loud to share your thought process as you read through the guide to help me understand your experience.”
 
 Observe the Veteran working through the questions as they correspond to their own situation.
 At the question: ‘What type of claim decision is the one you want us to review?’: 
-“Tell me in your own words what you just chose and why.”
-Is there confusion or drop-off at the “type of claim” question in flow? 
-Yes, participant was confused about “type of claim” question.
-No, question was clear
-NOTE: If they select the CFI & Disagree path:
-If they answer Yes – VA said my condition is service connected to “Did VA decide that your condition is service-connected?” AND
-They answer Yes, My condition has gotten worse to “Has your condition gotten worse since you filed this claim?” AND
-They answer Yes, I disagree with VA's decision AND my service-connected condition has gotten worse to “Do you disagree with VA's decision?”
+* “Tell me in your own words what you just chose and why.”
+* Is there confusion or drop-off at the “type of claim” question in flow?
+   * Yes, participant was confused about “type of claim” question.
+   * No, question was clear
+
+NOTE: If they select the **CFI & Disagree path:**
+* If they answer **Yes, VA said my condition is service connected** to *“Did VA decide that your condition is service-connected?”* **AND**
+* They answer **Yes, My condition has gotten worse** to *“Has your condition gotten worse since you filed this claim?”* **AND**
+* They answer **Yes, I disagree with VA's decision AND my service-connected condition has gotten worse** to *“Do you disagree with VA's decision?”*
+
 This places the user in the BOTH path and will receive an alternate summary screen of which we will ask additional questions.
 NOTE: Be sure to ask questions about CFI AND DR Summary Screens here.
-Did the user select the BOTH Path?  
-Yes
-No
+
+Did the user select the **BOTH Path**?  
+* Yes
+* No
+
 Things to watch for:
-Note issues or confusion with any of the language or terms used.
-Are there common errors observed from misunderstanding questions?
-Are there points of tension, friction, or confusion as they work through the questions?
-Are there questions or considerations shared/reported?
-Note which links the Veteran would select and note any comments they have about the information provided.
+* Note issues or confusion with any of the language or terms used.
+* Are there common errors observed from misunderstanding questions?
+* Are there points of tension, friction, or confusion as they work through the questions?
+* Are there questions or considerations shared/reported?
+* Note which links the Veteran would select and note any comments they have about the information provided.
 
 
 ## Task 3: Select an option on the summary screen
 Was the Veteran able to reach the summary screen successfully and without help?
-Yes, participant reached the summary screen successfully.
-No, participant didn’t reach the summary screen/needed assistance.
-“You’ve reached the summary screen. I’m going to stop you here so that I can ask some questions. Take a minute and read through this page and please describe what you’re experiencing.”
+
+* Yes, participant reached the summary screen successfully.
+* No, participant didn’t reach the summary screen/needed assistance.
+
+**“You’ve reached the summary screen.** I’m going to stop you here so that I can ask some questions. Take a minute and read through this page and please describe what you’re experiencing.”
+
 ## Summary screen questions
-“Is this screen what you expected to find? Why / why not?”
+1. “Is this screen what you **expected** to find? Why / why not?”
+2. “Now that you have walked through the Guide, given the options presented to you, **which option would you choose** for your individual situation and why? On a scale of 1-4, how confident are you in selecting that choice?”<br>
+	1 - Not at all confident<br>
+    2 - Slightly confident<br>
+    3 - Very confident<br>
+    4 - Extremely confident
 
-
-“Now that you have walked through the Guide, given the options presented to you, which option would you choose for your individual situation and why?”
-“On a scale of 1-4, how confident are you in selecting that choice?”
-1 = Not at all confident
-2 = Slightly confident
-3 = Very confident
-4 = Extremely confident
-
-
-Has your review option changed from what you originally expected?  And if so, what about the Explore your options guide led you to reconsider your choice?
+3. **Has your review option changed** from what you originally expected?  And if so, what about the Explore your options guide led you to reconsider your choice?
 
 
 ## If the Veteran lands on the following summary screens:
