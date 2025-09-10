@@ -559,7 +559,8 @@ We expect that Veterans will want to request help or dispute their debt or copy,
 
 - How findings support the KPI: Participants were motivated to seek help for their debt and bills, and were generally comfortable with seeing links that would direct them to further information on VA.gov.
 
-### KPI 4: Total number of clicks on the "Resolve Debt" and Resolve Copay" buttons. These buttons will allow users to begin the payment journey for their overpayment debt (on pay.va.gov) or copayment bill (on pay.gov). We expect this non-zero amount will increase. We will track the total number of clicks on each button to access the respective payment sites on a monthly basis.
+### KPI 4: Total number of clicks on the "Resolve Debt" and Resolve Copay" buttons. 
+These buttons will allow users to begin the payment journey for their overpayment debt (on pay.va.gov) or copayment bill (on pay.gov). We expect this non-zero amount will increase. We will track the total number of clicks on each button to access the respective payment sites on a monthly basis.
 
 - How findings support the KPI: The research confirms that the "Resolve Debt" and "Resolve Copay" buttons are a critical feature. Participants overwhelmingly preferred the version with these buttons, as they liked having a “one stop shop” for their financial management.
 
