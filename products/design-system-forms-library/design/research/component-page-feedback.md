@@ -17,6 +17,7 @@ The goal was to understand:
 - Trust in maturity levels and checklists
 - Accessibility of status indicators
 - Lack of built-in feedback options
+- Missing visibility into research behind patterns
   
 The report also provides **direct quotes** to highlight user voices, a **role comparison table** (Designers vs. Engineers), and **recommendations** for improvement.  
 
@@ -112,6 +113,15 @@ The report also provides **direct quotes** to highlight user voices, a **role co
 
 ---
 
+## 10. Research & Pattern Validation
+- **Designers want more transparency into research.** Components and patterns sometimes appear without clear explanation of what research supported them. This leaves users unsure how much confidence to place in them.  
+  > *“I don’t always know what research this is based on — is it just what one team needed, or did we actually test it with veterans?”* – Designer  
+
+- **Patterns feel disconnected from evidence.** Without research summaries on component pages, Designers may not know if a pattern is best practice or just convention.  
+  > *“It would help to see what research backs this up — otherwise I don’t know if I should trust it or push back.”* – Designer  
+
+---
+
 ## 9. Additional Insights
 - **Merging mobile and web adds complexity.** Having to present guidance for both platforms together makes pages longer and harder to parse.  
   > *“Pages are getting complicated now with mobile guidance, web guidance, and then a checklist for both.”* – Designer  
@@ -129,6 +139,7 @@ The report also provides **direct quotes** to highlight user voices, a **role co
 | **Status Indicators** | Want clarity on why maturity levels are assigned; need accessible indicators   | Look for maturity as shorthand, but trust accuracy less without dates         |
 | **Frustrations**      | Outdated screenshots, inconsistent layouts, redundant content                  | Redundant code snippets in docs, unreliable property updates in Storybook     |
 | **Feedback Channels** | Desire built-in feedback collection on component pages                         | Feedback usually happens in dev cycles or when bugs are encountered           |
+| **Research Visibility** | Want evidence and usability findings tied to patterns                        | Less emphasis; rely on whether the component works technically                |
 
 ---
 
@@ -163,3 +174,7 @@ The report also provides **direct quotes** to highlight user voices, a **role co
 8. **Add Feedback Mechanism**
    - Provide a simple, consistent way for users to leave feedback directly on component pages.  
    - Ensure feedback is tracked and visible to maintain trust and transparency.
+
+9. **Surface Research Evidence**
+   - Include short summaries of usability research and testing linked to patterns.  
+   - Make it clear what evidence supports a component’s inclusion or maturity level.
