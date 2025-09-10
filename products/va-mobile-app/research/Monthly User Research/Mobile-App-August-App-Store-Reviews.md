@@ -42,12 +42,12 @@ Note: General feedback includes responses that reflect Veteran experiences with 
 The August 2025 feedback for the VA Health & Benefits app reveals a polarized distribution of ratings with 42% of responses giving the app a 5 star rating, while the second highest percentage of ratings at 22% rate the app as 1 star. While many users appreciate the app's convenience and ease of use for managing healthcare and benefits, a significant number report issues with login, navigation, and specific features like travel pay and messaging. An incident involving an incorrectly linked staging environment appeared to have temporarily caused login problems for some users likely directly impacting the lower rating scores. Despite this temporary issue, many users praise the app for its improvements over previous versions.
 
 ### Positive
+The majority of the received review, although only a slight majority at roughly 57%, is positive. Many users finding the app easy to use and convenient for managing their healthcare and benefits. Users appreciate the ability to refill prescriptions, check appointments, and communicate with their care teams.
 
 | Rating | % of ratings | # of ratings |
 |--|--|--|
 | = 4 | 14.85% | 53 |
 | = 5 | 42.02% | 150 |
-The general sentiment is positive, with many users finding the app easy to use and convenient for managing their healthcare and benefits. Users appreciate the ability to refill prescriptions, check appointments, and communicate with their care teams.
 
 Representative responses:
 
@@ -64,7 +64,7 @@ Representative responses:
 |--|--|--|
 | = 1 | 22.41% | 80 |
 | = 2 | 9.24% | 33 |
-The general sentiment is negative, with many users reporting issues with login, navigation, and specific features like travel pay and messaging. Some users also express frustration with the app's limited functionality and the need to use the website for certain tasks.
+Roughly 32% of the received sentiment rated in the negative, with many users reporting issues with login, navigation, and specific features like travel pay and messaging. Some users also express frustration with the app's limited functionality and the need to use the website for certain tasks.
 
 Representative responses:
 
@@ -80,7 +80,7 @@ Representative responses:
 | Rating | % of ratings | # of ratings |
 |--|--|--|
 | = 3 | 11.48% | 41 |
-The general sentiment is neutral, with many users acknowledging the app's potential but also pointing out areas for improvement. Some users find the app useful for certain tasks but still lacking in functionality compared to the website.
+Roughly 11% of the sentiment received ranked as neutral, with many users acknowledging the app's potential but also pointing out areas for improvement. Some users find the app useful for certain tasks but still lacking in functionality compared to the website.
 
 Representative responses:
 
@@ -96,7 +96,7 @@ Representative responses:
 
 #### Login issues after update (50)
 
-Many users reported login issues after a recent app update, with some being directed to a test site or receiving error messages. This caused frustration and prevented users from accessing their accounts.
+Many users reported login issues after a recent app update, with some being directed to a test site or receiving error messages. This caused frustration and prevented users from accessing their accounts temporarily. The mobile app platform team was able however to roll out an error message within 24hrs of the found issue which directed Veterans to update their app version to receive the fix and correctly sign-in to access their account. However the temporary direction to a staging account was a major cause of confusion and concern for Veterans attempting to access the app during this time. 
 
 Representative responses:
 
@@ -108,7 +108,7 @@ Representative responses:
 
 <br>
 
-Recommendation: The development team should investigate the login issues caused by the recent update and release a fix as soon as possible. Clear communication about the issue and its resolution should be provided to users.
+Recommendation: 
 
 #### Travel claim submission problems (30)
 
@@ -124,14 +124,13 @@ Representative responses:
 
 <br>
 
-Recommendation: The app's interface for travel claim submissions should be reviewed and improved to ensure it is user-friendly and easy to navigate. Clear instructions and troubleshooting tips should be provided within the app.
 
 ### User pain points
 
 #### Login difficulties
 Many users struggle with the login process, citing issues with ID.me, two-factor authentication, and general difficulty remembering passwords. This is a major pain point, as it prevents users from accessing the app's features.
 
-Recommendation: Simplify the login process by offering more biometric options and improving the integration with ID.me. Provide clear instructions and support for users experiencing login issues.
+Recommendation: Simplify the login process by promoting biometric options. Login research including a temporary addition of a login issue survey for unathenticated users will allow the team to further gather data about the issues app users may be experiencing to analyize for root cause. Provide links to clear instructions and support for users experiencing login issues.
 
 ## Feature specific feedback
 | Feature | average rating | # of ratings |
