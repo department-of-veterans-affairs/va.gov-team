@@ -16,8 +16,8 @@ Feature Toggles
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| Add MVP Feature toggle here-XX | Add description here-XX |
-| Add Recent Recipient Feature toggle here-XX | Add Description here-XX |
+| Add MVP Feature toggle here- `mhv_secure_messaging_curated_list_flow` | Add description here-XX |
+| Add Recent Recipient Feature toggle here- `mhv_secure_messaging_recent_recipients` | Add Description here-XX |
 
 Replace existing toggle we are using with a new one to decouple from OH integration work
 
@@ -47,7 +47,7 @@ Before enabling your feature toggle in production, you'll need to:
 **Yes**
 
 MVP and Post MVP will Launch together. Separate Feature toggles
-A defined set of users will be whitelisted in `mhv_secure_messaging_cerner_pilot` Flipper toggle to gain access to the new experience
+A defined set of users will be whitelisted in `mhv_secure_messaging_curated_list_flow` Flipper toggle to gain access to the new experience
 
 
 ### Define the Rollback process

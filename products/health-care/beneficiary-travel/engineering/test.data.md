@@ -75,9 +75,9 @@ You will need to fill out a VA9957 form to gain access to the CHYSHR VistA. For 
 1. Open the Reflection Workspace App.
 1. Select File->New (if it doesn't open automatically with the "Create New Document" modal opened)
 1. Create a new session of type VT terminal.
-1. The Connection type should be Secure Shell.
-1. The Host name/IP Address is in your access email as Server. _NOTE: If the Server name does not work, use the IP Address_ 
-1. The User Name will be the VistA database in lowercase.
+1. The `Connection type` should be `Secure Shell`.
+1. The `Host name/IP Address` is in your access email under the `Server`. _NOTE: If the Server name does not work and you get the error `An error occurred in communications. No such host is known.`, use the `IP Address` that is in the access email 
+1. The `User Name` will be the `database` noted in your access email.
 1. The SSH configuration scheme is blank.
 1. Click OK/Create.
 1. You should get a Banner then a Password Box.
@@ -100,17 +100,20 @@ The terminal will connect and you see a shell-like prompt that you can type comm
 
 1. Connect to the VistA
 1. Navigate the menu to get to the `Make Appointment` menu using the following commands
-  1. PIMS
-  1. Scheduler Manager Menu
-  1. Appointment Menu
-  1. Make Appointment (this may take two tries due to how the VistA is configured)
+  1. type `PIMS`
+  1. Scheduler Manager Menu - type `SCH`
+  1. Appointment Menu - type `APP` 
+  1. Make Appointment (this may take two tries due to how the VistA is configured) - type `Make Appointment` and then you may need to type this again
 1. Select Clinic,
-   - PCI has two clinics to chooes from `RCLINIC1` and `RCLINIC2`
-   - For Travel Pay from Past Appointments:
+   - Patient Check In -  has two clinics to chooes from `RCLINIC1` and `RCLINIC2`
+   - Travel Pay:
      1. Enter `chy test`
-     2. Select from one of the options provided
-1. Select patient by entering  `last name`, `first name`. This will a search of MPI for that patient. You don't have to type the full name, but if multiple patients are found they a list of selectable patients are displayed
+     2. Several options will appear
+     3. Select from one of the options provided
+     4. After selecting a clinic youll see a list of patients to choose from . If you dont want to add an appointment to these enter `^` and youll be able to type in a patient name.
+2. Select patient by entering  `last name`, `first name`. This will a search of MPI for that patient. You don't have to type the full name, but if multiple patients are found they a list of selectable patients are displayed - if you want to add an appointment for Nolle youd type `Barakat, Nolle`
 1. Answer `YES` to `IS THIS APPOINTMENT FOR A SERVICE CONNECTED CONDITION`
+2. ENTER button when you see `APPOINTMENT TYPE: SERVICE CONNECTED//`
 1. For PCI: Enter `YES` for `IS THIS A 'NEXT AVAILABLE' APPOINTMENT REQUEST?`; For Travel Pay from Past Appointments, select `NO`
 1. Select a date, you can use the exact date format or any of the VistA Shorthands.
     1. For future you can use `T@1045` syntax. That will create an appointment for `today at 10:45AM`

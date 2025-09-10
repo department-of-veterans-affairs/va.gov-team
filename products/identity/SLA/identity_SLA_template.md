@@ -69,7 +69,7 @@ The OCTO Identity team responds to service outages as follows:
 
 Urgent requests are defined as issues impacting VA.gov users on production servers.
 
-If you need assistance with an urgent request during weekends, holidays, or outside of regular business hours, email: [component--identity-authentication-email.sy4b6pv6@dsva.pagerduty.com](mailto:component--identity-authentication-email.sy4b6pv6@dsva.pagerduty.com).
+If you need assistance with an urgent request during weekends, holidays, or outside of regular business hours, email: [component--identity-authentication-email.sy4b6pv6@ecc.pagerduty.com](mailto:component--identity-authentication-email.sy4b6pv6@ecc.pagerduty.com).
 
 The OCTO Identity team monitors system performance and inbound communications 24x7 via Pager Duty and responds within 30 minutes to any alerts.
 

@@ -7,7 +7,7 @@ List the features toggles here.
 
 | Toggle name | Description |
 | ----------- | ----------- |
-| [FILL_IN] | [FILL_IN] |
+| show_cdp_one_thing_per_page | Enables the One Thing Per Page feature |
 
 ## Step 2: Validation
 
@@ -15,9 +15,9 @@ Since we use a [continuous delivery](https://depo-platform-documentation.scrollh
 
 Before enabling your feature toggle in production, you'll need to:
 
-- [ ] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
-- [ ] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
-- [ ] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
+- [X] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
+- [X] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
+- [X] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
 - [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
   - [ ] review the plan with your DEPO/OCTO representative.
   - [ ] review the release plan with your team.
@@ -65,28 +65,28 @@ Even though your feature has been tested and ready, production is still a differ
 >
 > - Our PM and PO will monitor analytics. If they see a spike in errors or unexpected behavior, they will contact the engineering team to get the FE engineer to disable the toggle.
 
-[FILL_IN]: create your rollback plan
+- Our Dev Team, in conjunction with our business partners will monitor site traffic and Veteran communications that denote submission problems. If they see a spike in errors or unexpected behavior, they will contact the engineering team to get the FE engineer to disable the toggle asap.
 
 ### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 
 #### Planning
 
-- Desired date range or test duration: [FILL_IN]
-- Desired number of users: [FILL_IN]
-- How you'll recruit the right production test users: [FILL_IN]
-- How you'll conduct the testing: [FILL_IN]
-- How you'll give the test users access to the product in production w/o making it live on VA.gov: [FILL_IN]
+- Desired date range or test duration: N/A
+- Desired number of users: N/A
+- How you'll recruit the right production test users: N/A
+- How you'll conduct the testing: N/A
+- How you'll give the test users access to the product in production w/o making it live on VA.gov: N/A
 
 #### Results
 
-- Number of users: [FILL_IN]
-- Number of bugs identified / fixed: [FILL_IN]/[FILL_IN]
+- Number of users: N/A
+- Number of bugs identified / fixed: N/A
   - [FILL_IN] : list
   - [FILL_IN] : of
   - [FILL_IN]: Tickets of bugs/changes
-- Was any downstream service affected by the change?: yes/no, [FILL_IN]
-- Types of errors logged: [FILL_IN]
-- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? [PICK_ONE]: yes/no
+- Was any downstream service affected by the change?: yes/no, No
+- Types of errors logged: N/A
+- Any changes necessary based on the logs, feedback on user challenges, or VA challenges? No
 - If yes, what: [FILL_IN] with ticket numbers
 
 ### Phase II: Staged Rollout (also known as unmoderated production testing)
@@ -95,18 +95,15 @@ We recommend that the rollout plan has five stages, each increasing the number o
 
 #### Rollout Planning
 
-- Desired date range: [FILL_IN]
-- How will you make the product available in production while limiting the number of users who can find/access it: [FILL_IN].
-- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: \[use your KPIs to help guide this. It could be things like *abandonment rate < 20%*, *reported contact center calls < 2 calls*, *error rate < 5%*, etc.\]
-  - [FILL_IN] : list
-  - [FILL_IN] : of
-  - [FILL_IN] : KPIs
-- Links to the dashboard(s) showing "success criteria" metrics: [FILL_IN] with link to dashboards (example: Google Analytics dashboard)
-- Who is monitoring the dashboard(s)?: [FILL_IN]
+- Desired date range: One week
+- How will you make the product available in production while limiting the number of users who can find/access it: Use of Feature toggles.
+- What metrics-based criteria will you look at before advancing rollout to the next stage ("success criteria")?: Under 5% Error rates
+- Links to the dashboard(s) showing "success criteria" metrics: Data Dog reports - GA will not be implimented until launch.
+- Who is monitoring the dashboard(s)?: FE Developer (Aaron Ponce) BE Developer (Derek Dyer) and PM (Tom Davis), DM (Heather Rienks)
 
 *The KPIs and numbers are example values recommended by VSP but can be customized to your team's needs.*
 
-### Stage A: Canary - 1% of users
+### Stage A: 10% of users
 
 *Test a small Veteran population to ensure any obvious bugs/edge cases are found.*
 
@@ -114,79 +111,47 @@ The recommended progression is 1% → 25% → 100%. However, VFS teams have flex
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): [FILL_IN]% (*Recommendation: 1% of users*)
+- Length of time: 5 days (*minimum 2 hours*)
+- Percentage of Users (and roughly how many users do you expect this to be): 10%
 
 #### Results
 
 - Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
+- Metrics at this stage (Number of Page Errors):
 - Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-### Stage B: 25% of users
+### Stage B: 50% of users
 
 *Test a larger user population to ensure larger usage patterns expose no issues.*
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): 25%
+- Length of time: 3 days
+- Percentage of Users 50%
 
 #### Results
 
 - Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
+- Metrics at this stage (Number of Page Errors):
 - Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
 
-### Stage C: 50% of users (optional)
+### Stage C: 100% of users
 
 *Test a larger user population to ensure larger usage patterns expose no issues.*
 
 #### Planning
 
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): 50%
-
-#### Results
-
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
-
-### Stage D: 75% of users (optional)
-
-*Test a larger user population to ensure larger usage patterns expose no issues.*
-
-#### Planning
-
-- Length of time: [FILL_IN] (*minimum 2 hours*)
-- Percentage of Users (and roughly how many users do you expect this to be): 75%
-
-#### Results
-
-- Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
-- Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
-- Types of errors logged: [FILL_IN]
-- What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]
-
-### Stage E: 100% of users
-
-#### Planning
-
-- Length of time: [FILL_IN] (*minimum 2 hours*)
+- Length of time: Final stage
 - Percentage of Users (and roughly how many users do you expect this to be): 100%
 
 #### Results
 
 - Number of unique users: [FILL_IN]
-- Metrics at this stage (per your "success criteria"): [FILL_IN] a list that includes KPIs listed in the [Rollout Planning](#rollout-planning) section
+- Metrics at this stage (Number of Page Errors):
 - Was any downstream service affected by the change?: [PICK_ONE]: yes | no |  N/A
 - Types of errors logged: [FILL_IN]
 - What changes (if any) are necessarily based on the logs, feedback on user challenges, or VA challenges? [FILL_IN]

@@ -15,6 +15,7 @@
 |[VA.gov.Profile.product.guide.v10.07032024.docx](https://github.com/user-attachments/files/16087028/VA.gov.Profile.product.guide.v10.07032024.docx) | Version 10 | 7/2024 | [#87602](https://github.com/department-of-veterans-affairs/va.gov-team/issues/87602) | |
 | [VA.gov.Profile.product.guide.v11.SRT.04242025.docx](https://github.com/user-attachments/files/20122539/VA.gov.Profile.product.guide.v11.SRT.04242025.docx)   |Version 11|April 2025| [#108288](https://github.com/department-of-veterans-affairs/va.gov-team/issues/108288) ||
 | [VA.gov.Profile.product.guide.v12](https://github.com/user-attachments/files/20893620/VA.gov.Profile.product.guide.v12.docx)   |Version 12|July 2025| [#112823](https://github.com/department-of-veterans-affairs/va.gov-team/issues/112823) |Veteran Status Card updates|
+| [VA.gov.Profile.product.guide.v13.docx](https://github.com/user-attachments/files/22243796/VA.gov.Profile.product.guide.v13.docx) | Version 13|September 2025 | [#119134](https://github.com/department-of-veterans-affairs/va.gov-team/issues/119134) | Paperless Delivery updates|
 
 
 

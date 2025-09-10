@@ -125,10 +125,11 @@ Site performance impacts (see Google Lighthouse, WebPageTest, #-daily-lighthouse
 > *Describe any major milestones for this initiative including organizational, legislative, etc. constraints.*
 
 * [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md)
+* Release Plan [HERE](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/initiatives_enhancements/one_thing_per_page/release_plan.md)
 
 #### Initiative Launch Dates
 - *Target Launch Date*
-  - tbd
+  - October 8, 2025
 - *Actual Launch Date* 
   - tbd
 

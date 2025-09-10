@@ -27,8 +27,8 @@ NOTE:
 
 ### Flipper Features and Rollback
 Since this is a stand-alone application within the check-in namespace we can use PagerDuty to put the applicaiton into maintenance mode
- - [Production Service](https://dsva.pagerduty.com/service-directory/PPS19LL)
- - [Staging Service](https://dsva.pagerduty.com/service-directory/PHVXQUE)
+ - [Production Service](https://ecc.pagerduty.com/service-directory/PBIEMZ3)
+ - [Staging Service](https://ecc.pagerduty.com/service-directory/PGI3PSX)
 
 ## Security
 descibe any security concerns the responders should be aware, for example: Does your product have PII? Do you log senstive information that needs to be handled in a particular manner? Does your product have a known security vulnerability that has been accepted by leadership? etc.
