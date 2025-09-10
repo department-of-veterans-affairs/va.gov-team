@@ -32,10 +32,17 @@
 
 ## Problem
 > *Describe the challenge / pain point you seek to address.:* 
-* What is the problem and who is affected? And, what evidence do we have of the problem?
-* 
-* Why do you think the problem is occurring? Other reasons why this might be occurring?
-* How does this initiative help further OCTO-DE's mission and goals?
+### What is the problem and who is affected? And, what evidence do we have of the problem?**
+* **The following issues have been surfaced during Shadow Research conducted on 11/2023 and Toxic Exposure Research conducted on 11/2024** 
+* Veterans cannot currently move to any section of the form at any time, and have to click the back button and continue button excessively to get to different sections of the form.
+* Veterans cannot review or edit previous answers easily without losing my place or progress, and cannot easily correct mistakes.
+* Veterans cannot navigate between form pages to preview the form’s structure before engaging with the content.
+* Veterans may not trust the form’s built-in such back button and may use the browser back button to get to another section of the form.
+  
+### Why do you think the problem is occurring? Other reasons why this might be occurring?
+* These problems occur because there is no way for a Veteran to navigate the form and skip pages or sections other than using the `back` or `continue` buttons.
+
+### How does this initiative help further OCTO-DE's mission and goals?
 
 <!--
 ## Desired User Outcomes
