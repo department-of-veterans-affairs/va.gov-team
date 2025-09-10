@@ -54,12 +54,30 @@ None
 ## Common use cases for Missing contact info: Summary page
 ### User logs in with LOA3 account
 #### Missing all or some of their contact info (mobile phone number, contact email, and/or mailing address)
-<details><summary> View Missing contact information summary page with warning alert</summary>
+<details><summary> Missing contact information note and warning alert</summary>
 
-- **Use case:** User is missing all or some of their contact info (mobile phone number, contact email, and/or mailing address) from their profile and the user can view the missing contact information summary page with a warning alert to provide direction
+- **Use case:** User is missing all or some of their contact info (mobile phone number, contact email, and/or mailing address) from their profile and the user can view the missing contact information summary page with a warning alert and note to provide direction
 - **Staging user:** vets.gov.user+12@gmail.com does not have a mailing address (do not add a mailing address), you may need to remove the mobile phone number on the contact information page in staging.
 - **Format:** Slim Warning alert
-- **Link to designs:** [Missing contact information warning](https://www.figma.com/design/eztyT5LpinAolQPMFnFtw7/Missing-Contact-Info?node-id=384-9449&t=qBnzLOIRS5QmY5ev-1)
+- **Link to designs:** [Missing contact information warning alert and note](https://www.figma.com/design/eztyT5LpinAolQPMFnFtw7/Missing-Contact-Info?node-id=384-9424&t=qBnzLOIRS5QmY5ev-1)
+- **Link to code:** [Alert](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/profile/components/alerts/ContactInfoNeeded.jsx) and placement on the [dashboard](https://github.com/department-of-veterans-affairs/vets-website/blob/2065c3ce67945b9a8f79f07e651d851f203b4f3f/src/applications/personalization/dashboard/components/Dashboard.jsx#L123)
+- **Content:**
+Body: Your [mobile phone, email address, and mailing address] [are/is] missing. Please edit and update the [fields/field].
+
+Additional components displayed for this use case:
+A text note above the alert “Note: [A/An] [mobile phone, email address, and mailing address] [is/are] required for this application."
+
+[See figma design for additional insight](https://www.figma.com/design/eztyT5LpinAolQPMFnFtw7/Missing-Contact-Info?node-id=384-9286&t=qBnzLOIRS5QmY5ev-1)
+
+
+</details>
+
+<details><summary> Missing contact information error alert</summary>
+
+- **Use case:** User is missing all or some of their contact info (mobile phone number, contact email, and/or mailing address) from their profile and the user can view the missing contact information summary page with an error alert, warning alert, and note to provide direction
+- **Staging user:** vets.gov.user+12@gmail.com does not have a mailing address (do not add a mailing address), you may need to remove the mobile phone number on the contact information page in staging.
+- **Format:** Slim Warning alert
+- **Link to designs:** [Missing contact information error alert and note](https://www.figma.com/design/eztyT5LpinAolQPMFnFtw7/Missing-Contact-Info?node-id=384-9424&t=qBnzLOIRS5QmY5ev-1)
 - **Link to code:** [Alert](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/profile/components/alerts/ContactInfoNeeded.jsx) and placement on the [dashboard](https://github.com/department-of-veterans-affairs/vets-website/blob/2065c3ce67945b9a8f79f07e651d851f203b4f3f/src/applications/personalization/dashboard/components/Dashboard.jsx#L123)
 - **Content:**
 Body: Your [mobile phone, email address, and mailing address] [are/is] missing. Please edit and update the [fields/field].
