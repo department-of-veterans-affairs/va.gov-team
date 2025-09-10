@@ -44,7 +44,7 @@ This feature interacts with the VA's Loan Guarantee (LGY) service.  This service
 3. ~~Do you have a POC? Please list.~~
 4. **Describe the encryption used for the connection in transit (e.g., Not Encrypted, TLS 1.2, TLS 1.3, mTLS). Specify the certificate source if applicable (e.g., AWS ACM, Let's Encrypt, self-signed).** Communication with the LGY REST service is done with the `Common::Client::Base` service on vets-api.
 5. **List the types of PII shared (in each direction) with this connection.** Name, address, phone number, email address, prior loan information, periods of service
-6. **Do you have an MOU, ISA, IAA, or other formal agreement that documents this connection? If so, please provide it.** 
+6. **Do you have an MOU, ISA, IAA, or other formal agreement that documents this connection? If so, please provide it.** No, these connections are covered by broad formal agreements covering all vets-api requests to these internal services.
 
 #### Data Flow Diagram
 The following is a data flow diagram that shows this product’s relationship to Platform:
