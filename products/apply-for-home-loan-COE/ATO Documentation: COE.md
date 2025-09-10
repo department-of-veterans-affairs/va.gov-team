@@ -49,7 +49,7 @@ This feature interacts with the VA's Loan Guarantee (LGY) service.  This service
 #### Data Flow Diagram
 The following is a data flow diagram that shows this product’s relationship to Platform:
 
-```
+```mermaid
 graph TD
     A[Vets-website Client] --> B[Vets-api Gateway]
     B --> C{REST Endpoints}
