@@ -55,8 +55,6 @@ This manifest lists all VA.gov products that have product details YAML files.
   - [Research Repository](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues?q=is%3Aissue%20state%3Aopen%20DSC)
 
 ---
-
-*Last updated: 2025-09-10 12:57:30*
 <details>
 <summary><h2>Archive: Previous Product Organization</h2></summary>
 
@@ -119,3 +117,5 @@ This section contains the previous way products were organized and documented. T
 - [Office and administration sites](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/office-administration)
 
 </details>
+
+*Last updated: 2025-09-10 14:41:24*

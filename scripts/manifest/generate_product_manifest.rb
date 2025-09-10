@@ -330,8 +330,6 @@ class ProductManifestGenerator
     
     content << "---"
     content << ""
-    content << "*Last updated: #{Time.now.strftime('%Y-%m-%d %H:%M:%S')}*"
-    content << ""
     
     content.join("\n")
   end
@@ -346,12 +344,30 @@ class ProductManifestGenerator
     if File.exist?(@readme_path)
       current_content = File.read(@readme_path)
       updated_content = MarkdownUtils.replace_section(current_content, MANIFEST_SECTION_HEADER, manifest_content)
+      # Add timestamp at the very end
+      updated_content = add_timestamp_at_end(updated_content)
     else
       # Create a new README if it doesn't exist
       updated_content = generate_new_readme_with_manifest(manifest_content)
     end
     
     File.write(@readme_path, updated_content)
+  end
+
+  def add_timestamp_at_end(content)
+    # Remove any existing timestamp from the end
+    lines = content.split("\n")
+    
+    # Remove trailing empty lines and any existing timestamp or extra separators
+    while lines.last && (lines.last.strip.empty? || lines.last.match?(/^\*Last updated:/) || lines.last.strip == "---")
+      lines.pop
+    end
+    
+    # Add the timestamp at the very end (no extra separator needed since manifest already has one)
+    lines << ""
+    lines << "*Last updated: #{Time.now.strftime('%Y-%m-%d %H:%M:%S')}*"
+    
+    lines.join("\n") + "\n"
   end
 
   def generate_new_readme_with_manifest(manifest_content)
@@ -362,7 +378,9 @@ class ProductManifestGenerator
     content << ""
     content << MANIFEST_SECTION_HEADER
     content << manifest_content
-    content.join("\n")
+    content << ""
+    content << "*Last updated: #{Time.now.strftime('%Y-%m-%d %H:%M:%S')}*"
+    content.join("\n") + "\n"
   end
 end
 
