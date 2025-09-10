@@ -405,8 +405,10 @@ jobs:
           script: |
             const changedFiles = "${{ steps.changed-files.outputs.changed_files }}".split(' ').filter(f => f.trim().length > 0);
             const validationStatus = "${{ steps.validation.outputs.validation_status }}";
-            const validationOutput = `${{ steps.validation.outputs.validation_output }}`;
-            const existingValidationOutput = `${{ steps.existing-validation.outputs.existing_validation_output }}`;
+            
+            // Use environment variables to safely pass multiline content
+            const validationOutput = process.env.VALIDATION_OUTPUT || 'No validation output captured';
+            const existingValidationOutput = process.env.EXISTING_VALIDATION_OUTPUT || '';
             
             // Determine overall status and icon
             const statusIcon = validationStatus === 'success' ? '✅' : '❌';
@@ -418,7 +420,7 @@ jobs:
             comment += changedFiles.map(f => `- \`${f}\``).join('\n') + '\n\n';
             comment += `### 🔍 Validation Results\n\n`;
             comment += '```\n';
-            comment += validationOutput || 'No validation output captured';
+            comment += validationOutput;
             comment += '\n```\n\n';
 
             // Add existing validation results if available
@@ -475,3 +477,6 @@ jobs:
               });
               console.log('Created new validation comment');
             }
+        env:
+          VALIDATION_OUTPUT: ${{ steps.validation.outputs.validation_output }}
+          EXISTING_VALIDATION_OUTPUT: ${{ steps.existing-validation.outputs.existing_validation_output }}
