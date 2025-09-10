@@ -114,18 +114,12 @@ The report also provides **direct quotes** to highlight user voices, a **role co
 
 ---
 
-## 10. Research & Pattern Validation
+## 9. Research & Pattern Validation
 - **Designers want more transparency into research.** Components and patterns sometimes appear without clear explanation of what research supported them. This leaves users unsure how much confidence to place in them.  
   > *“I don’t always know what research this is based on — is it just what one team needed, or did we actually test it with veterans?”* – Designer  
 
 - **Patterns feel disconnected from evidence.** Without research summaries on component pages, Designers may not know if a pattern is best practice or just convention.  
   > *“It would help to see what research backs this up — otherwise I don’t know if I should trust it or push back.”* – Designer  
-
----
-
-## 9. Additional Insights
-- **Merging mobile and web adds complexity.** Having to present guidance for both platforms together makes pages longer and harder to parse.  
-  > *“Pages are getting complicated now with mobile guidance, web guidance, and then a checklist for both.”* – Designer  
 
 ---
 
