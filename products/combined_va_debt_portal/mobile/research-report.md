@@ -554,20 +554,28 @@ We expect an increase in overall app volume as benefit overpayments and medical 
 
 - How findings support the KPI: Participants preferring the payment version of the app cited its usefulness, suggesting that the feature will attract new users and increase overall app engagement.
 
-###  🚧 🚧 🚧 KPI 3: Total number of clicks on the link to access VA.gov.  🚧 🚧 🚧
-We expect that Veterans will want to make a payment towards their benefit overpayment and medical copayment debts, and that this non-zero amount will increase. We will track the total number of clicks on the link to access VA.gov on a monthly basis.
+### KPI 3: Total number of clicks on the link to access VA.gov.
+We expect that Veterans will want to request help or dispute their debt or copy, and that this non-zero amount will increase. We will track the total number of clicks on the links to access VA.gov on a monthly basis.
 
-- How findings support the KPI: 
+- How findings support the KPI: Participants were motivated to seek help for their debt and bills, and were generally comfortable with seeing links that would direct them to further information on VA.gov.
 
-### KPI 4: Total number of views of the PDF Copayment statements.
+### KPI 4: Total number of clicks on the "Resolve Debt" and Resolve Copay" buttons. These buttons will allow users to begin the payment journey for their overpayment debt (on pay.va.gov) or copayment bill (on pay.gov). We expect this non-zero amount will increase. We will track the total number of clicks on each button to access the respective payment sites on a monthly basis.
+
+- How findings support the KPI: The research confirms that the "Resolve Debt" and "Resolve Copay" buttons are a critical feature. Participants overwhelmingly preferred the version with these buttons, as they liked having a “one stop shop” for their financial management.
+
+### KPI 5: Total number of views of the PDF Copayment statements.
 We expect this to be a non-zero amount and expect that Veterans who have any copayment bills will want to view the PDF. We will track the total number of views on a monthly basis.
 
 - How findings support the KPI: Research shows that the PDF statements are a desired feature, with some participants noting they would use them regularly to verfy charges, while others would refer to them only if needed.
 
-### KPI 5: Total number of error alerts shown to the user.
+### KPI 6: Total number of error alerts shown to the user.
 We will want to track this metric to ensure that everything is functioning as intended and that if we see a high volume of errors, there is a problem that will need to be addressed. We will track the total number of errors on a monthly basis.
 
 - How findings support the KPI: Any error the user encounters would most likely lead to frustration. The research identified several points of friction that could lead to this frustration, including a confusing handoff to external payment sites, difficulty locating financial help, and a lack of prominently displayed phone numbers.
+
+### KPI 7: Total number of clicks on the empty state of benefit overpayments and medical copayments. We expect this to be a non-zero amount and want to track this as a metric to assess the design, and not a metric determining the success of the debt feature itself. This will be a temporary metric that is tracked for 6 months.
+
+- How findings support the KPI: This research did not directly touch upon this KPI. However, the findings show that a few users were confused about some of the cards on the Payments page if they did not have experience with them in their real life (e.g. the payments made to them).
 
 
 ## Next Steps
