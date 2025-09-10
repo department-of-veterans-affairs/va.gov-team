@@ -1,4 +1,4 @@
-# App Store Feedback from the VA Health & Benefits App from [Month, Year] 
+# Apple App Store & Google Playstore Feedback from the VA Health & Benefits App from [Month, Year] 
 ## Summary
 Feedback includes x total responses, each with a rating of 1-5. Ratings of 1-2 are considered negative, 3 represents neutral, and 4-5 are positive.
 
@@ -27,8 +27,13 @@ Note: General feedback includes responses that reflect Veteran experiences with 
 
 Representative responses:
 
--
--
+> Quote.
+
+<br>
+
+> Quote.
+
+<br>
 
 ### Negative
 | Rating | % of ratings | # of ratings |
@@ -39,8 +44,13 @@ Representative responses:
 
 Representative responses:
 
--
--
+> Quote.
+
+<br>
+
+> Quote.
+
+<br>
 
 ### Neutral
 | Rating | % of ratings | # of ratings |
@@ -50,8 +60,13 @@ Representative responses:
 
 Representative responses:
 
--
--
+> Quote.
+
+<br>
+
+> Quote.
+
+<br>
 
 ### Common themes
 
@@ -61,8 +76,13 @@ Representative responses:
 
 Representative responses:
 
--
--
+> Quote.
+
+<br>
+
+> Quote.
+
+<br>
 
 Recommendation: Where applicable, 1-2 sentences of recommendations for to investigate, improve, or mitigate this theme.
 
@@ -96,8 +116,13 @@ Recommendation: 1-2 sentences of recommendations that could improve this pain po
 
 Representative responses:
 
--
--
+> Quote.
+
+<br>
+
+> Quote.
+
+<br>
 
 ### Login
 | Feature | average rating | # of ratings |
@@ -107,8 +132,13 @@ Representative responses:
 
 Representative responses:
 
--
--
+> Quote.
+
+<br>
+
+> Quote.
+
+<br>
 
 ### Disability rating
 | Feature | average rating | # of ratings |
@@ -118,8 +148,13 @@ Representative responses:
 
 Representative responses:
 
--
--
+> Quote.
+
+<br>
+
+> Quote.
+
+<br>
 
 ### Claims
 | Feature | average rating | # of ratings |
@@ -129,8 +164,13 @@ Representative responses:
 
 Representative responses:
 
--
--
+> Quote.
+
+<br>
+
+> Quote.
+
+<br>
 
 ### Letters and documents
 | Feature | average rating | # of ratings |
@@ -140,8 +180,13 @@ Representative responses:
 
 Representative responses:
 
--
--
+> Quote.
+
+<br>
+
+> Quote.
+
+<br>
 
 ### Profile
 | Feature | average rating | # of ratings |
@@ -151,8 +196,13 @@ Representative responses:
 
 Representative responses:
 
--
--
+> Quote.
+
+<br>
+
+> Quote.
+
+<br>
 
 ### Payments
 | Feature | average rating | # of ratings |
@@ -162,8 +212,13 @@ Representative responses:
 
 Representative responses:
 
--
--
+> Quote.
+
+<br>
+
+> Quote.
+
+<br>
 
 ### Travel Pay
 | Feature | average rating | # of ratings |
@@ -173,8 +228,13 @@ Representative responses:
 
 Representative responses:
 
--
--
+> Quote.
+
+<br>
+
+> Quote.
+
+<br>
 
 ### Messaging
 | Feature | average rating | # of ratings |
@@ -184,8 +244,13 @@ Representative responses:
 
 Representative responses:
 
--
--
+> Quote.
+
+<br>
+
+> Quote.
+
+<br>
 
 ### Prescriptions
 | Feature | average rating | # of ratings |
@@ -195,13 +260,23 @@ Representative responses:
 
 Representative responses:
 
--
--
+> Quote.
+
+<br>
+
+> Quote.
+
+<br>
 
 ### Feature Enhancements
 1-2 sentences summarizing requested feature enhancement w/ supporting evidence.
 
 Representative responses:
 
--
--
+> Quote.
+
+<br>
+
+> Quote.
+
+<br>
