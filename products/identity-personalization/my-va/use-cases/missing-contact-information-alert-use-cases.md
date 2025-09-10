@@ -99,9 +99,10 @@ Note: This stacked alert design does not follow design standards and was only im
 - [Links to designs](https://www.figma.com/design/eztyT5LpinAolQPMFnFtw7/Missing-Contact-Info?node-id=396-8387&t=qBnzLOIRS5QmY5ev-1)
 - **Content:** See designs
 
+
 </details>
 
-#### After editing their contact info (mobile phone number, contact email, and/or mailing address)
+#### After editing contact info (mobile phone number, contact email, and/or mailing address)
 <details><summary>Saving information: Success</summary>
 
 - **Use case:** When the user selects the Save button in one of the three edit contact information flows (mobile phone number, contact email address, mailing address), and the form successfully saves, the user is returned to the summary page and a slim success alert displays below the section header.
@@ -113,6 +114,7 @@ Alert Body Copy: â€œ[Mobile phone number/Email address/Mailing address] updatedâ
 
 </details>
 
+</details>
 
 ## Edge cases
 ### Validation
