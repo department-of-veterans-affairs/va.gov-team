@@ -185,16 +185,6 @@ Notes:
 
 
 
-
-
-
-
-
-
-
-
-
-
 1.2.C.1
 Your claim is no longer eligible for a DR b/c decision over a year, no new evidence.
 Ask: “On a scale of 1-4, how confident are you in selecting an option for your situation?”
@@ -208,19 +198,6 @@ Confidence Rating: ________________
 Notes:
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 1.3.B
 DR may not be available b/c claim contested, more than 60 days since decision.
 Ask: “On a scale of 1-4, how confident are you in selecting an option for your situation?”
@@ -232,16 +209,6 @@ Confidence Rating: ________________
 
 
 Notes:
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -259,18 +226,6 @@ Notes:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 2.IS.3
 CFI, condition worsened since the decision.
 Ask: “On a scale of 1-4, how confident are you in selecting an option for your situation?”
@@ -282,20 +237,6 @@ Confidence Rating: ________________
 
 
 Notes:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -323,93 +264,92 @@ Notes:
 
 
 
-“On this summary screen, would you describe how you’d explain to a friend why these option(s) do or don’t fit.” 
-Is the user able to state one requirement of why/why not on the summary screens?
-Yes, participant was able to rephrase the summary screen requirements.
-No, the participant was not able to state a requirement of the summary screen.
-
-
-“Looking at these options, what do you think about their order? Does any option appear higher-priority or more important than the others, or do they all seem equal? Why?” (Perceived hierarchy on summary screens, What about when >1 pathway?)
-
-
-“Now that you’ve reviewed the summary screen, is there any information missing? Are you still looking for something that would help you choose your next step?”
-
-
-“What would you do from here?” What is the next step you might take?
-Restart
-Print  - Ask: “If you printed, what would you do with that information?”
-Bookmark - Ask: “Where would you expect the bookmark to take you?”
-Email the link - Ask: “Where would you expect the link to take you?”
-Save as PDF 
-Other ________________________________
-
-
-“Does the wording and presentation of the options on the summary screen give you the confidence to move forward with your next step?”
 
 
 
-“At this point in the process, do you believe you’ve submitted your Decision Review request at this stage, or do you think there are still steps left to complete it? What actions would you expect to take next to finish submitting?” 
-Do participants understand that there is further action needed to submit a DR?
-Yes, participant understands that further action is required
-No, participant believes DR has been submitted.
-Note: Listen/look for confusion around “You’re requesting a review of…” language in the summary screen.
-Imagine you've reached the summary screen and you noticed you answered a question incorrectly or changed your mind. What would you do?
 
+5. “On this summary screen, would you describe how you’d explain to a friend **why these option(s) do or don’t fit.”**
+* Is the user able to state one requirement of why/why not on the summary screens?
+	* Yes, participant was able to rephrase the summary screen requirements.
+	* No, the participant was not able to state a requirement of the summary screen.
 
-“If you could change anything about the summary screen, what might that be?”
-Additional Notes:
-Do they have anything to say about the cards on the summary screen?
-Available options cards
-‘All option’ cards
+6. “Looking at these options, what do you think about their **order**? Does any option appear **higher-priority or more important** than the others, or do they all seem equal? Why?” (Perceived hierarchy on summary screens, What about when >1 pathway?)
+
+7. “Now that you’ve reviewed the summary screen, is there **any information missing**? Are you still looking for something that would help you choose your next step?”
+
+8. “What would you do from here?” What is the **next step** you might take?
+* Restart
+* Print  - Ask: “If you printed, what would you do with that information?”
+* Bookmark - Ask: “Where would you expect the bookmark to take you?”
+* Email the link - Ask: “Where would you expect the link to take you?”
+* Save as PDF
+* Other ________________________________
+
+9. “Does the wording and presentation of the options on the summary screen give you the **confidence to move forward** with your next step?”
+
+10. “At this point in the process, **do you believe you’ve submitted** your Decision Review request at this stage, or do you think there are still steps left to complete it? What actions would you expect to take next to finish submitting?”
+
+* Do participants understand that there is further action needed to submit a DR?
+    * Yes, participant understands that further action is required
+    * No, participant believes DR has been submitted.
+
+Note: Listen/look for confusion around **“You’re requesting a review of…”** language in the summary screen.
+
+11. Imagine you've reached the summary screen and you noticed **you answered a question incorrectly or changed your mind**. What would you do?
+    
+12. “If you could **change anything about the summary screen**, what might that be?”
+
+**Additional Notes:**
+Do they have anything to say about the **cards** on the summary screen?
+* Available options cards
+* ‘All option’ cards
+
 Listen for…”I still don’t understand why X option is not for me…” or “this doesn’t tell me…” or “this page is missing…”
 
 
-Rating scale for summary screen:
-On a scale of 1–4, how well do you feel you understand the Decision Review options and which one applies to you? 
-1 = Don’t understand at all
-2 = Understand a little
-3 = Understand well
-4 = Understand very well
+**Rating scale for summary screen:**
+13. On a scale of 1–4, how well do you feel you understand the Decision Review options and which one applies to you?
+	1 - Don’t understand at all
+	2 - Understand a little
+	3 - Understand well
+	4 - Understand very well
  
-“How confident are you in selecting a decision review option from the summary screen?”
+14. “How confident are you in selecting a decision review option from the summary screen?”
 1 = Not at all confident
 2 = Slightly confident
 3 = Confident
 4 = Very confident
 5 = Extremely confident
 
-
-“Using this 1–4 scale where 1 is ‘Very judgmental’ and 4 is ‘Very supportive’, how would you rate the wording, tone, and presentation of the summary screen?”
+15. “Using this 1–4 scale where 1 is ‘Very judgmental’ and 4 is ‘Very supportive’, how would you rate the wording, tone, and presentation of the summary screen?”
 1 = Very judgemental
 2 = Somewhat judgemental
 3 = Somewhat supportive
 4 = Very Supportive
-Section 3: Summary Screen Evaluation - 10 minutes
-Task 4: Evaluate best option on summary screen against previous preference.
 
+## Section 3: Summary Screen Evaluation - 10 minutes
+# Task 4: Evaluate best option on summary screen against previous preference.
 
 “Now, we are going to show you a summary screen not based on your responses. We would like you to imagine you filled out the guide with the idea you would like to have a hearing. In this hypothetical scenario, this is the summary screen you arrived at. Please answer the questions based on this summary screen.” 
-
-
-
 
 
 (Screenshot not to be split)
 
 
-
-## At the summary screen:
+# At the summary screen:
 “Please list out—aloud—all the Decision Review pathways the guide tells you are available to you. Explain which one you would choose now and why.”
+
 Questions:
-What makes the hearing option appealing—or less appealing—after seeing the other choices?
-Which factors (time, evidence rules, chance of success, etc.) influenced your decision the most?
-Was any information missing that you needed to feel confident about picking a different option?
+1. What makes the hearing option appealing—or less appealing—after seeing the other choices?
+2. Which factors (time, evidence rules, chance of success, etc.) influenced your decision the most?
+3. Was any information missing that you needed to feel confident about picking a different option?
 
 
 ## Section 4: Post Session Interview - 10 minutes
-Thank you for your feedback. Now, I am going to ask you some questions about your overall experience using the Explore disability claim decision review options guide.
-Overall rating questions
-Now that you’ve used the Guide, how well do you feel you understand the VA decision review options, their requirements, and which one applies to your situation?”
+**Thank you for your feedback. Now, I am going to ask you some questions about your overall experience using the Explore disability claim decision review options guide.**
+
+# Overall rating questions
+1. Now that you’ve used the Guide, how well do you feel you understand the VA decision review options, their requirements, and which one applies to your situation?”
 1 = I don’t understand them at all 
 (No awareness / high confusion)
 2 = I understand them a little 
@@ -419,53 +359,43 @@ Now that you’ve used the Guide, how well do you feel you understand the VA dec
 4 = I understand them very well 
 (Could explain each option to another Veteran, completed a DR in the past)
 
-
-Overall, on a scale of 1 to 4, how easy or difficult was it to complete today’s tasks, with 1 being very difficult and 5 being very easy? 
+2. Overall, on a scale of 1 to 4, how easy or difficult was it to complete today’s tasks, with 1 being very difficult and 5 being very easy? 
 1 = Very difficult
 2 = Slightly difficult
 3 = Easy
 4 = Very easy
 
-
-
-Overall, on a scale of 1 to 4, how confident are you that the questions you answered are accurate and sufficient to support your choosing a type of decision review?
+3. Overall, on a scale of 1 to 4, how confident are you that the questions you answered are accurate and sufficient to support your choosing a type of decision review?
 1 = Not at all confident
 2 = Slightly confident
 3 = Confident
 4 = Very confident
 
-
-What, if anything, was burdensome or confusing about the experience overall?
+4. What, if anything, was burdensome or confusing about the experience overall?
 
 
 ## Overall Post Questions
-Would you recommend this tool to a friend? Why / why not?
-Do you have any questions for us about the Explore disability claim decision review options guide?
-How might you use this tool in the future?
-
-
-Is this guide something you would use to plan next steps? To start the process of a decision review? Both?
-Does the name ‘Explore decision reviews for your disability claim’ communicate its purpose?
-Did the guide feel like too many questions, too few, or about right? 
-Imagine you’re explaining the Guide to another Veteran. What is its purpose and would you tell them about the guide?
-
-
-What types of claims do you think this guide supports?
+1. Would you recommend this tool to a friend? Why / why not?
+2. Do you have any questions for us about the Explore disability claim decision review options guide?
+3. How might you use this tool in the future?
+4. Is this guide something you would use to plan next steps? To start the process of a decision review? Both?
+5. Does the name ‘Explore decision reviews for your disability claim’ communicate its purpose?
+6. Did the guide feel like too many questions, too few, or about right?
+7. Imagine you’re explaining the Guide to another Veteran. What is its purpose and would you tell them about the guide?
+8. What types of claims do you think this guide supports?
 
 
 ## Section 5: Wrap up - 5 minutes
-Consent to use video clips
-I want to circle back and ask one more question that we ask all participants about the video recording: Is it okay with you if we share a video clip of part of this session with our VA partners? We'd want to do this if we find a clip that demonstrates the need for an improvement or other helpful example of Veteran needs. We remove all information that could be used to identify you before sharing and would only share the video clips with VA partners with the purpose of improving VA.gov and other digital experiences.
 
-If yes: Is there any part of our discussion you would NOT want shared in a video clip? Record answer here:
+# Consent to use video clips
+I want to circle back and ask one more question that we ask all participants about the video recording: **Is it okay with you if we share a video clip of part of this session with our VA partners?** We'd want to do this if we find a clip that demonstrates the need for an improvement or other helpful example of Veteran needs. We remove all information that could be used to identify you before sharing and would only share the video clips with VA partners with the purpose of improving VA.gov and other digital experiences.
 
-
+    **If yes**: Is there any part of our discussion you would NOT want shared in a video clip? Record answer here:
 
 ## Thank you and closing
 “We really appreciate you taking the time to share your thoughts with us today. Your feedback is so helpful to us as we continue to work to improve the website for Veterans.
 Lastly, Perigean will be sending you a thank you note with a little blurb that you can pass along to other Veterans you may know to provide them the chance to participate in future research studies.
 Thank you so much again, and enjoy the rest of your day!”
-
 
 
 ## Emergency Exit 🆗
