@@ -81,7 +81,6 @@ This research will give us a better understanding of claimants’ experience and
   
 **Goal 3: Evaluate whether users are able to find information on “What happens next” and how to ask for help on the page.**  
 
--   Can a user easily interact with the accordion and find the information they submitted?
 -   From the Confirmation Page, are the users clear on the next steps of the claims process and how to reach out to VA for help?
 
   
