@@ -50,5 +50,4 @@
 
 ### Resources
 - [Notetaking Mural](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1747758330802/7fc824be01468a7d6e61e8ae81df92512133cd7e?sender=ua0d825b32c8711c13b130611)
-- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iga/research/discovery/2025-070ifams-discovery/research-plan.md)
-  
+- [Research Plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/iga/research/discovery/2025-07-ifams-discovery/research-plan.md)
