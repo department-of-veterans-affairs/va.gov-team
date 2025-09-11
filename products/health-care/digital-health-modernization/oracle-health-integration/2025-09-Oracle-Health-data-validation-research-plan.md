@@ -132,11 +132,6 @@ Maximum sessions per day: 4 sessions
 
 **Week of Sep 15–19, 2025:**
  
-- Mon Sep 15, 08:00 AM to 10:00 AM
-- Mon Sep 15, 11:30 AM to 02:00 PM
-- Mon Sep 15, 02:30 PM to 04:00 PM
-- Tue Sep 16, 11:00 AM to 12:00 PM
-- Tue Sep 16, 02:00 PM to 04:00 PM
 - Wed Sep 17, 08:00 AM to 11:00 AM
 - Wed Sep 17, 12:00 PM to 04:00 PM
 - Thu Sep 18, 11:00 AM to 04:00 PM
