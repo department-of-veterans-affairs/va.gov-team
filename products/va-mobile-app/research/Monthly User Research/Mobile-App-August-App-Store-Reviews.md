@@ -166,6 +166,10 @@ Users often share short, generalized impressions of the app in reviews. With the
 
 <br>
 
+> The VA app is getting better over the years. It is not perfect by any means. If they keep working on it I believe it will get close 🤞
+
+<br>
+
 #### Login issues after update (50)
 
 Many users reported login issues after a recent app update, with some being directed to a test site or receiving error messages. This caused frustration and prevented users from accessing their accounts temporarily. The mobile app platform team was able however to roll out an error message quickly with the found issue which directed Veterans to update their app version to receive the fix and correctly sign-in to access their account. However the temporary direction to a staging account was a major cause of confusion and concern for Veterans attempting to access the app during this time. 
@@ -266,9 +270,9 @@ With the newer release and marketing for the travel pay feature in the app, user
 |--|--|--|
 | Navigation | 3.6 | 45 |
 | Login | 1.5 | 85 |
-| Claims | 3.8 | 20 |
+| Claims | 4.67 | 3 |
 | Letters and documents | 4.0 | 15 |
-| Profile | 4.1 | 8 |
+| Profile | 3.67 | 3 |
 | Payments | 3.5 | 12 |
 | Travel Pay | 2.7 | 30 |
 | Messaging | 4.0 | 25 |
@@ -349,9 +353,9 @@ Representative responses:
 
 | Feature | average rating | # of ratings |
 |--|--|--|
-| Claims | 3.8 | 20 |
+| Claims | 4.67 | 3 |
 
-The app is good at tracking claims.
+Only 2 reviews mentioned claims not related to travel reimbursement. When claims are specifically mentioned they are usually listed as a core feature highlighted. 
 
 Representative responses:
 
@@ -359,10 +363,13 @@ Representative responses:
 
 <br>
 
-> Very convenient for the keeping of award letters ..appointments and benefits..thanks
+> Key features include easy appointment scheduling, prescription refills, and access to health records. Secure messaging enhances communication with health care providers, ensuring veterans stay informed. The app also simplifies benefit management by allowing users to check status, apply for new benefits, and manage claims. Overall, the VA app streamlines access to services, improves communication with the VA, and supports veterans in leading healthier lives, making it a vital resource for health care management.
 
 <br>
 
+> The app also simplifies benefit management by allowing users to check status, apply for new benefits, and manage claims. Overall, the VA app streamlines access to services, improves communication with the VA, and supports veterans in leading healthier lives, making it a vital resource for health care management.
+
+<br>
 
 ### Letters and documents
 
@@ -398,9 +405,9 @@ Representative responses:
 
 | Feature | average rating | # of ratings |
 |--|--|--|
-| Profile | 4.1 | 8 |
+| Profile | 3.67 | 3 |
 
-A few users mentioned desired improvements to the profile section of the app including a digital copy of the VA ID card.
+A few users mentioned desired improvements to the profile section of the app noting it is not intuitive to find, their status card is not up to date, or desiring a digital copy of the VA ID card.
 
 Representative responses:
 
@@ -408,9 +415,15 @@ Representative responses:
 
 <br>
 
-> The VA app is getting better over the years. It is not perfect by any means. If they keep working on it I believe it will get close 🤞
+> my name is never correct in the benefit letters and while I can get to the app there is no icon on my phone that I can just select I have to search for it every time sigh
 
 <br>
+
+> I can't find how to file mileage for community care va approved appointments. Veteran Status card not up to date.
+
+<br>
+
+> 
 
 
 ### Payments
