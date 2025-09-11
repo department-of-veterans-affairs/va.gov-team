@@ -147,7 +147,7 @@ const utils = {
   },
 ```
 
-## Exceprt of `screenshot_data.ts`
+## Excerpt of `screenshot_data.ts`
 
 ```javascript
 export interface ScreenshotData {
