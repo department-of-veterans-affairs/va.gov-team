@@ -761,7 +761,7 @@ Option 3 provides the optimal balance for the VA.gov context:
 Phase 1: Foundation
 - Create configuration object with all 106 mappings
 - Build compatibility layer
-- Write comprehensive tests (target: 100% coverage)
+- Write comprehensive tests
 
 Phase 2: Validation
 - Deploy behind feature flag
