@@ -1,6 +1,6 @@
 ## MHV-Secure Messaging FE Product (WEB)
 
-**Mobile Product Information**: 
+Update Here
 
 
 List repos maintained by your team, provide links:
@@ -14,6 +14,26 @@ A. **List repos used by your team and associated Links**:
 ## MHV VAHB Mobile Product (Mobile Application)
 
 **Mobile Product Information**: 
+
+**Mobile Product Information**: (Secure Messaging Product)
+
+-Over** 50% of traffic** to VA websites comes from users on mobile devices. This traffic is typically driven by users that want to complete quick transactions, such as viewing Claims Status or Facility Locator.
+
+-Mobile team: An OCTO-led team that owns all experiences in VA: Health and Benefits mobile app.
+
+For More information on Web and Mobile Collobaration: https://department-of-veterans-affairs.github.io/va-mobile-app/docs/Contributing/
+
+**Contacts:**
+
+ ENG Mobile Lead: Jayson Perkins 
+ Main Slack Channel: #va-mobile-app channel 
+
+ Product Manager: Stacy Blackwood
+ Main Slack Channel: #mhv-secure-messaging
+
+
+
+
 
 
 List repos maintained by your team, provide links:
