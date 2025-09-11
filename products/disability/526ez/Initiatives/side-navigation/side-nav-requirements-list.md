@@ -1,13 +1,20 @@
 # Implementing the Side Navigation Component V1 - Requirements List
-The following documentation lists out the user, functional, technical, and data requirements that we are uncovering for this initiative. <br>
+_The following documentation lists out the user, functional, technical, and data requirements that we are uncovering for this initiative._ 
 
-- Super Epic Link: <br>
-- Author: Irene Vailikit, Julius Ahenkora <br>
-- Last Edited: 2025/9/11 <br>
+- [Side Nav Super Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116289)
+- [Side Nav Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/collab-cycle/side-nav/side-nav%20initiative%20brief.md)
+- Authors: Irene Vailikit, Julius Ahenkora 
+- Last Edited: 2025/9/11 
 
 ## Jump To
-[Initiative Summary](#initiative-summary)
-
+- [Initiative Summary](#initiative-summary)
+- [Future Iterations](#future-iterations)
+- [User Reqirements](#user-requirements)
+- [Functional Requirements](#functional-requirements)
+- [Technical Requirements and Considerations](#technical-requirements-and-considerations)
+- [Data Requirements and Considerations](#data-requirements-and-considerations)
+- [Open Questions](#open-questions)
+- [Engineering Resources](#engineering-resources)
 
 ## Initiative Summary
 We are implementing the [side navigation component](https://design.va.gov/components/sidenav) into the 526ez form. <br> 
@@ -60,7 +67,8 @@ Future iterations of this implementing the side navigation component will includ
   - Recommendation: Force a save-in-progress before a user navigates away from the page.
 - Harden the data validation and ensure the user cannot nav to a page they should not logically be able to get to.
 
-## Open Questions (Collaboration between Design + Eng Needed)
+## Open Questions 
+_(Collaboration between Design + Eng Needed)_
 - Determine which page within a section will each Side Nav option route. Is there a clear landing page of each of the 6 sections?
 - Research rendering of sidenav in mobile version. Consider collapsible navigation for smaller screens and its effect on usability.
 - What content shows up on the "Review and Submit" page if the user is able to navigate to it via the side nav before finishing the form? Are accordions present, but empty? How does it impact the "edit" on page fuctionality on the "Review and Submit" page?
