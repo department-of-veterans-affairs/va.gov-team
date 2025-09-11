@@ -17,7 +17,7 @@
 |	----	|	----	|	----	|	----	|	----	|	
 |	Bug fixes	|	-	|	3	|	4	|	-	|		
 |	Contributions adopted	|	-	|	-	|	2	|	-	|
-|	Tokens created	|	-	|	-	|	27	|	5	|
+|	Tokens created	|	-	|	-	|	6 |	3	|
 |	Components created	|	-	|	-	|	3	|	2	|
 |	Patterns created	|	-	|	1	|	1	|	3	|
 
@@ -29,7 +29,19 @@
 |	Contributions to USWDS design system	|	-	|	1	|	1	|	-	|
 
 ---
+
 ## Synthesis
+### FY25 Q3 Summary
+**Usage of Clinical Design System** At the end of June 2025, we surveyed teams on their usage of the Clinical Design System. The metrics indicate that each team is continuing their effort to use the Clinical Design System. The Clinical Decision Support Collaborative has five product teams. The commonly used are the alert, button, date picker, icon, link, modal, and select components. Commonly used is defined as implemented by 4 - 5 teams. 
+
+The Design System had 42 components/pattern as of the end of June 2025. Of these, 35 components/pattern are in use. Compared to the previous quarter, two components were added to the Design System and three more components are in use by at least one team. All teams are working towards adopting the Design System. Medical Calculator has identified 3 components that can be replaced. All teams anticipate using the new header once available in the following quarter.
+
+Previously, the use of tokens were not tracked. The introduction of this question identified 4 out of 5 teams are using the tokens including Console, Medical Calculator, My Workweek, and Task Manager. The tokens surveyed were theme color, state color, spacing, and font tokens.
+
+**Mutual Support within the Collaborative** More has been added or were contributed. The header component was contributed by Task Manager and enhanced by Clinical DS to include the patient name and SSN. This MVP iteration #1 was implemented by Console. The typography tokens received multiple design collaboration from all teams in HCD Community of Practice to ensure the values are applicable to the clinical environment.
+
+The drawer is the latest pattern release. Applicable teams provided support in discovery sessions. The pattern is anticipated to be adopted by at least two teams that plan to use the drawer with the data grid.
+
 ### FY25 Q2 Summary
 (added June 4, 2025 )
 
