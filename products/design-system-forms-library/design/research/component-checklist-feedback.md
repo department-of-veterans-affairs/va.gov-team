@@ -1,12 +1,20 @@
 # Component Checklist Feedback Report  
 *Date: September 2025*  
 
+## About
+This report brings together feedback from **four Design System users (2 Designers and 2 Engineers)** who were asked about the **component checklist** and how they use it to make decisions on the component page. More feedback about the component page can be found on the component page feedback report. 
+
+### Prototypes shared
+  1. [Accordion/Compact option 1](./images/component-checklist-layout-option-1.png)
+  3. [Static/Expanded option 2](./images/component-checklist-layout-option-2.png)
+  4. [Compact list option 3](./images/component-checklist-option-3.png)
+
 ## Executive Summary  
 User feedback shows that the **component checklist** is not a primary decision-making tool but can provide value if improved. Key takeaways include:  
 - **Low usage overall**: Designers and Engineers rarely use the checklist day-to-day, but see value during audits (especially accessibility).  
 - **Trust depends on accuracy**: Users question whether statuses are updated; adding “last updated” dates could build confidence.  
 - **Status clarity is needed**: Current maturity and color states are confusing; users want clearer definitions and phase-based statuses.  
-- **Accessibility and layout matter**: Red/green icons are not inclusive; users had mixed preferences for accordion vs. summary-at-top layouts.  
+- **Accessibility and layout matter**: Red/green icons are not inclusive; users had mixed preferences for accordion vs. summary-at-top layouts.
 
 ---
 
@@ -66,7 +74,7 @@ User feedback shows that the **component checklist** is not a primary decision-m
 
 ## 5. Proposed Improvements  
 1. **Add “last updated” dates** to increase trust.  
-2. **Clarify status meanings** (e.g., design complete, development in progress, deprecated).  
+2. **Clarify status meanings** (e.g., design complete, development in progress).  
 3. **Improve accessibility** of status icons with text labels or alternative markers.  
 4. **Prioritize warnings/in-progress first**, instead of listing all completed items.  
 5. **Offer flexible layouts** (accordion for compactness; summary at top for scanning).  
