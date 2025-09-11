@@ -128,9 +128,10 @@ Veterans must have received care from a VAMC that has converted to Oracle Health
 ### Research Sessions
 Planned dates of research: Weeks of September 15th through October 10th
 
-Length of Sessions:
 Session length: 1 hour
+
 Buffer time between sessions: 5 min
+
 Maximum sessions per day: 4 sessions
 
 ### Availability:
