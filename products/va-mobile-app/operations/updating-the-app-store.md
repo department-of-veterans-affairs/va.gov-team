@@ -24,7 +24,7 @@
 
 ## Updating App Store Images
 
-Explination of updated files:
+Explanation of files:
 
 ### `VAMobile/e2e/screenshots`
 
