@@ -7,7 +7,7 @@ This report synthesizes feedback from **four Design System users (Designers and 
 The goal was to understand:
 - What decisions users are trying to make when visiting a component page.  
 - How well the current documentation supports those decisions.  
-- How the component checklist (and maturity levels) are perceived and used.  
+- How the component checklist (and maturity levels) are perceived and used. See the component checklist feedback report for more details on the component checklist.  
 
 **Key themes include**: 
 - Reliance on Storybook for engineers
@@ -64,30 +64,7 @@ The report also provides **direct quotes** to highlight user voices, a **role co
 
 ---
 
-## 5. Component Checklist Feedback
-### Prototypes shared
-  1. [Accordion/Compact option 1](./images/component-checklist-layout-option-1.png)
-  3. [Static/Expanded option 2](./images/component-checklist-layout-option-2.png)
-  4. [Compact list option 3](./images/component-checklist-option-3.png)
-
-### Prototype feedback
-- **The checklist is rarely consulted for decision-making.** Most users said they ignore it unless doing an audit or checking accessibility.  
-  > *“I’ll be honest. Whether or not I use a component is at the very top: is it deployed, is it green? I’m good.”* – Designer  
-
-- **Status indicators can be misleading.** Users were confused when maturity at the top said “green,” but checklist details showed gaps.  
-  > *“What’s deceptive is it says at the top everything is green, but then at the bottom mobile isn’t even here.”* – Designer 
-
-- **Icons are not accessible.** Red/green indicators without text alternatives fail for colorblind users.  
-  > *“My devs who are red-green color blind would not be able to tell the difference.”* – Designer
-
-- **Preferences for layout varied.** Some preferred compact accordions for less clutter, while others wanted a top-level summary with anchor links.  
-  > *“For me I’d probably say accordions, because I don’t really care about the completion status.”* – Engineer
-  
-  > *“I’d prefer just a compact list at the top with a link down if I need details.”* – Designer 
-
----
-
-## 6. Maturity Levels and Checklist Alignment
+## 5. Maturity Levels and Checklist Alignment
 - **Disconnect between maturity labels and checklist details.** A component might appear “green” overall but still have incomplete variants.  
   > *“It says green at the top, but then the checklist shows things missing. That’s confusing.”* – Designer  
 
@@ -96,7 +73,7 @@ The report also provides **direct quotes** to highlight user voices, a **role co
 
 ---
 
-## 7. Designer Reliance on Search
+## 6. Designer Reliance on Search
 - **Search is the main way designers find content.** Most skip the nav entirely and use search as their entry point.  
   > *“99% of the time when I’m looking for stuff, I just use search.”* – Designer 
 
@@ -105,7 +82,7 @@ The report also provides **direct quotes** to highlight user voices, a **role co
 
 ---
 
-## 8. Feedback Gaps
+## 7. Feedback Gaps
 - **Users want a clear way to provide feedback directly in the docs.** Right now, feedback usually happens in Slack, where it gets lost.  
   > *“Slack feedback gets lost. The page itself could ask for feedback.”* – Designer  
 
@@ -114,7 +91,7 @@ The report also provides **direct quotes** to highlight user voices, a **role co
 
 ---
 
-## 9. Research & Pattern Validation
+## 8. Research & Pattern Validation
 - **Designers want more transparency into research.** Components and patterns sometimes appear without clear explanation of what research supported them. This leaves users unsure how much confidence to place in them.  
   > *“I don’t always know what research this is based on — is it just what one team needed, or did we actually test it with veterans?”* – Designer  
 
@@ -152,24 +129,20 @@ The report also provides **direct quotes** to highlight user voices, a **role co
    - Add “last updated” dates to checklists and maturity statuses.
    - Assign ownership for screenshot/example updates.
 
-4. **Redesign Checklist**
-   - Keep compact (accordion or summary-at-top with anchor).
-   - Prioritize “warnings,” “in-progress,” and “caution” over “green/complete.”
-
-5. **Clarify Maturity Levels**
+4. **Clarify Maturity Levels**
    - Link top-level maturity directly to checklist items. ([See prototype)](https://dev-design.va.gov/4647/component-checklist/)
    - Provide explanations for why a component is labeled green, orange, or red.  
 
-6. **Support Web + Mobile Clarity**
+5. **Support Web + Mobile Clarity**
    - Use clear tags/icons to distinguish “web,” “mobile app,” and “mobile web.”
 
-7. **Enhance Search**
+6. **Enhance Search**
    - Improve search relevance (keyword and metadata driven).
 
-8. **Add Feedback Mechanism**
+7. **Add Feedback Mechanism**
    - Provide a simple, consistent way for users to leave feedback directly on component pages.  
    - Ensure feedback is tracked and visible to maintain trust and transparency.
 
-9. **Surface Research Evidence**
+8. **Surface Research Evidence**
    - Include short summaries of usability research and testing linked to patterns.  
    - Make it clear what evidence supports a component’s inclusion or maturity level.
