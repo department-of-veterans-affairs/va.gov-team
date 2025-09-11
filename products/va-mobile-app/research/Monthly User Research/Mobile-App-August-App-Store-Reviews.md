@@ -271,7 +271,7 @@ With the newer release and marketing for the travel pay feature in the app, user
 | Navigation | 3.6 | 45 |
 | Login | 1.5 | 85 |
 | Claims | 4.67 | 3 |
-| Letters and documents | 4.0 | 15 |
+| Letters and documents | 4.2 | 5 |
 | Profile | 3.67 | 3 |
 | Payments | 3.5 | 12 |
 | Travel Pay | 2.7 | 30 |
@@ -375,7 +375,7 @@ Representative responses:
 
 | Feature | average rating | # of ratings |
 |--|--|--|
-| Letters and documents | 4.3 | 20 |
+| Letters and documents | 4.2 | 5 |
 
 Users often note that they appreciate access to letters and documents from the app. Issues reported in this area include difficulties with uploading or sending documents and the formatting of letters as barriers to viewing from their device. Users report having to reauthenticate in the middle of a task, and getting errors blocking their ability to complete needed uploads. 
 
