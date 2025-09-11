@@ -54,10 +54,14 @@ Quick and simple for in-person feedback.
 ---
 
 ### Option B: TestFlight / Google Play Testing
+> No special permisions are required to trigger the On Demand Build other than being added as a contributor to the mobile github repo 
 Best for remote distribution to Veterans.
 
+**Pre Requisites** 
+- The veteran must be invited to TestFlight or Google Play test via a link or their email to access the test builds
+
 **Steps:**
-1. Use the [On Demand Build GitHub Action](https://github.com/department-of-veterans-affairs/va-mobile-app/actions/workflows/on_demand_build.yml) to generate a build from your modified branch.  
+1. Use the [On Demand Build GitHub Action](https://github.com/department-of-veterans-affairs/va-mobile-app/actions/workflows/on_demand_build.yml) to generate a build from your modified branch.
 2. Track build status in the `#va-mobile-build-alerts` [DSVA Slack channel](https://dsva.slack.com/archives/C022SV53ASZ).  
 3. Once successful, the action will automatically push the build to **Google Play Store (Internal Testing)** and **Apple TestFlight**, and post a Slack thread with the build version and numbers.  
 4. Record the version/build numbers.  
