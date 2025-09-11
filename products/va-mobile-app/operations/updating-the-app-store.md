@@ -67,7 +67,7 @@ This is the new action that triggers when `screenshot_data.ts` is updated. This 
 - Run detox on ipad
 - Run detos on android
 
-After detox runs and gathers all the images `move_screenshots.sh` is run. This moves all the screenshots from there current folder `VAMobile/artifacts` to `.github/scripts/app-store-images/fastlane/screenshots/en-US`. Once they are moved `process_images.sh` is run. This will
+After detox runs and gathers all the images `move_screenshots.sh` is run. This moves all the screenshots from there current folder `VAMobile/artifacts` to `.github/scripts/app-store-images/fastlane/screenshots/en-US`. Once they are moved `process_images.sh` is run. This will:
 
 - Resize all images to the proper screenshot size for the device.
 - Use `Fastlane FrameIt` to frame all the images with the correct device frames.
