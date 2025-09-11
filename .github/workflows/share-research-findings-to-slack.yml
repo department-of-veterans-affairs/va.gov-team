@@ -46,7 +46,7 @@ jobs:
           sparse-checkout: |
             products
             .github/workflows
-          sparse-checkout-cone: true
+          sparse-checkout-cone-mode: true
           filter: blob:none  # partial clone keeps transfer minimal
 
       - name: Find eligible research files
@@ -139,7 +139,15 @@ jobs:
         if: steps.find-files.outputs.skip != 'true' && steps.process.outputs.RESEARCH_FILE
         id: build-slack-success
         run: |
-          json_escape() { local s="$1"; s=${s//\\/\\\\}; s=${s//"/\\"}; s=${s//$'\n'/\\n}; s=${s//$'\r'/}; echo -n "$s"; }
+          json_escape() {
+            local s="$1"
+            s=${s//\\/\\\\}
+            s=${s//\"/\\\"}
+            s=${s//$'\n'/\\n}
+            s=${s//$'\r'/}
+            s=${s//$'\t'/\\t}
+            echo -n "$s"
+          }
           TITLE='${{ steps.process.outputs.RESEARCH_TITLE }}'; PRODUCT_PATH='${{ steps.process.outputs.PRODUCT_PATH }}'; STUDY_DATE='${{ steps.process.outputs.STUDY_DATE }}'; AUTHORS='${{ steps.process.outputs.AUTHORS }}'; KEY_FINDINGS='${{ steps.process.outputs.KEY_FINDINGS }}'; [ -z "$KEY_FINDINGS" ] && KEY_FINDINGS='See full report for details'; FILE_PATH='${{ steps.process.outputs.RESEARCH_FILE }}'; REPO='${{ github.repository }}'; SHA='${{ github.sha }}'
           if [ '${{ github.event_name }}' = 'workflow_dispatch' ]; then CONTEXT_MSG='🧪 _Test notification - not tracked as shared_'; else CONTEXT_MSG='✨ _Shared after 3-day revision period_'; fi
           ESC_TITLE=$(json_escape "$TITLE"); ESC_PRODUCT=$(json_escape "$PRODUCT_PATH"); ESC_DATE=$(json_escape "$STUDY_DATE"); ESC_AUTHORS=$(json_escape "$AUTHORS"); ESC_FINDINGS=$(json_escape "$KEY_FINDINGS"); ESC_CTX=$(json_escape "$CONTEXT_MSG"); ESC_URL=$(json_escape "https://github.com/$REPO/blob/$SHA/$FILE_PATH")
@@ -158,7 +166,15 @@ jobs:
         if: steps.find-files.outputs.skip == 'true' && steps.find-files.outputs.error_message && github.event_name == 'workflow_dispatch'
         id: build-slack-error
         run: |
-          json_escape() { local s="$1"; s=${s//\\/\\\\}; s=${s//"/\\"}; s=${s//$'\n'/\\n}; s=${s//$'\r'/}; echo -n "$s"; }
+          json_escape() {
+            local s="$1"
+            s=${s//\\/\\\\}
+            s=${s//\"/\\\"}
+            s=${s//$'\n'/\\n}
+            s=${s//$'\r'/}
+            s=${s//$'\t'/\\t}
+            echo -n "$s"
+          }
           ERR='${{ steps.find-files.outputs.error_message }}'; ESC_ERR=$(json_escape "$ERR")
           PAYLOAD="{\"channel\":\"#research-ops\",\"text\":\"Research File Not Found\",\"blocks\":[{\"type\":\"section\",\"text\":{\"type\":\"mrkdwn\",\"text\":\"❌ *Could not find the specified research file*\\n\\n$ESC_ERR\\n\\nPlease check the file path and try again.\"}}]}"
           echo "payload=$PAYLOAD" >> $GITHUB_OUTPUT
