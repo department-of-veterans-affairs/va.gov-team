@@ -1,4 +1,4 @@
-# Research Plan for Copy of Form Submission
+# Research Plan for Providing Veterans with a Copy of Form Submission
 
 Disability Benefits, Core Team, September 2025
 
@@ -186,7 +186,10 @@ _Response options: yes, no, or prefer not to answer. (Answering yes would qualif
 
 ### Optional Kick-off Call with Perigean
 
--  Suggested dates and times: September 15th - September 17th
+- Suggested dates and times: 
+  - 9/15: 12-2pm, 4pm-5pm
+  - 9/16: 12-4pm
+  - 9/17: 11:30-2pm, 3:30-4pm
 
 ### Prepare
 
