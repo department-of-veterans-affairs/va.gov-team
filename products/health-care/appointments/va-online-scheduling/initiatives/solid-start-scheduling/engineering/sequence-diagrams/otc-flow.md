@@ -31,12 +31,12 @@ sequenceDiagram
     F->>V: request agent skills
     V->>S: GET agent skills
     S-->>V: return agent skills
-    V-->>U: return agent skills
-    U->>U: Select agent skills to be used later when saving the appointment
-    U->>V: request available appointments
+    V-->>F: return agent skills
+    U->>F: Select agent skills to be used later when saving the appointment
+    F->>V: request available appointments
     V->>S: GET appointment availability
     S-->>V: return appointment availability
-    V-->>U: return appointment availability
+    V-->>F: return appointment availability
     U->>U: Select time slot
 
     F->>V: Submit appointment with EDIPI
