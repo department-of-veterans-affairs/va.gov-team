@@ -60,9 +60,21 @@ jobs:
           git lfs install
           echo "Git LFS installed (only pulls if LFS pointers in sparse set)"
 
+      - name: Ensure jq is available
+        run: |
+          if ! command -v jq >/dev/null 2>&1; then
+            echo "jq not found; installing..."
+            sudo apt-get update -y
+            sudo apt-get install -y jq
+          else
+            echo "jq already installed"
+          fi
+          jq --version
+
       - name: Find eligible research files
         id: find-files
         run: |
+          set -euo pipefail
           SHARED_FILES_LOG=".github/workflows/shared-research-files.log"
           mkdir -p "$(dirname "$SHARED_FILES_LOG")"; touch "$SHARED_FILES_LOG"
           IGNORE_DELAY="${{ github.event.inputs.ignore_time_delay }}"
@@ -107,11 +119,17 @@ jobs:
         if: steps.find-files.outputs.skip != 'true'
         id: process
         run: |
+          set -euo pipefail
           RESEARCH_FILE="${{ steps.find-files.outputs.eligible_file }}"
           [ -z "$RESEARCH_FILE" ] || [ ! -f "$RESEARCH_FILE" ] && { echo "No valid research file to process."; exit 0; }
           echo "Processing: $RESEARCH_FILE"
-          TITLE=$(grep -m 1 '^# ' "$RESEARCH_FILE" | sed 's/^# //' || true)
-          [ -z "$TITLE" ] && TITLE=$(grep -m 1 '^## ' "$RESEARCH_FILE" | sed 's/^## //' || echo 'Research Findings')
+          if TITLE_LINE=$(grep -m 1 '^# ' "$RESEARCH_FILE" 2>/dev/null); then
+            TITLE=${TITLE_LINE#\# }
+          elif TITLE_LINE=$(grep -m 1 '^## ' "$RESEARCH_FILE" 2>/dev/null); then
+            TITLE=${TITLE_LINE#\#\# }
+          else
+            TITLE='Research Findings'
+          fi
           KEY_FINDINGS=""
           for pattern in 'Key findings' 'Key Findings' 'Summary' 'Findings' 'Results' 'Insights'; do
             if grep -qi "^##.*$pattern" "$RESEARCH_FILE"; then
@@ -120,16 +138,23 @@ jobs:
             fi
           done
           [ -z "$KEY_FINDINGS" ] && KEY_FINDINGS=$(awk 'NR>3 && NF>0 {print}' "$RESEARCH_FILE" | head -10)
-          KEY_FINDINGS=$(echo "$KEY_FINDINGS" | sed '/^$/d' | tr '\n' ' ' | sed 's/  */ /g')
-          [ ${#KEY_FINDINGS} -gt 2000 ] && KEY_FINDINGS="${KEY_FINDINGS:0:1997}..."
-          AUTHORS=$(git log --format='%an' "$RESEARCH_FILE" 2>/dev/null | sort -u | head -3 | paste -sd ', ' -)
+          KEY_FINDINGS=$(printf '%s' "$KEY_FINDINGS" | sed '/^$/d' | tr '\n' ' ' | sed 's/  */ /g')
+          if [ ${#KEY_FINDINGS} -gt 2000 ]; then
+            KEY_FINDINGS_TRUNCATED=1
+            KEY_FINDINGS="${KEY_FINDINGS:0:1997}..."
+          else
+            KEY_FINDINGS_TRUNCATED=0
+          fi
+          AUTHORS=$(git log --format='%an' "$RESEARCH_FILE" 2>/dev/null | sort -u | head -3 | paste -sd ', ' - || true)
           [ -z "$AUTHORS" ] && AUTHORS="Unknown"
-          STUDY_DATE=$(git log -1 --format='%ai' "$RESEARCH_FILE" 2>/dev/null | cut -d' ' -f1)
+          STUDY_DATE=$(git log -1 --format='%ai' "$RESEARCH_FILE" 2>/dev/null | cut -d' ' -f1 || true)
           if [ -z "$STUDY_DATE" ]; then
             # Fallback to file mtime if commit not present
             STUDY_DATE=$(date -d @$(stat -c %Y "$RESEARCH_FILE" 2>/dev/null || date +%s) +%Y-%m-%d)
           fi
           PRODUCT_PATH=$(echo "$RESEARCH_FILE" | cut -d'/' -f2-3)
+          echo "Preview of extracted findings (first 200 chars):"
+          echo "$KEY_FINDINGS" | head -c 200; echo ""; [ "$KEY_FINDINGS_TRUNCATED" -eq 1 ] && echo "(Truncated for Slack)"
           {
             echo "RESEARCH_FILE=$RESEARCH_FILE"
             echo "RESEARCH_TITLE=$TITLE"
@@ -150,28 +175,44 @@ jobs:
         if: steps.find-files.outputs.skip != 'true' && steps.process.outputs.RESEARCH_FILE
         id: build-slack-success
         run: |
-          json_escape() {
-            local s="$1"
-            s=${s//\\/\\\\}
-            s=${s//"/\\"}  # escape double quotes correctly
-            s=${s//$'\n'/\\n}
-            s=${s//$'\r'/}
-            s=${s//$'\t'/\\t}
-            echo -n "$s"
-          }
-          # Use double quotes to avoid breaking on apostrophes in content (e.g., Veterans')
+          set -euo pipefail
           TITLE="${{ steps.process.outputs.RESEARCH_TITLE }}"
           PRODUCT_PATH="${{ steps.process.outputs.PRODUCT_PATH }}"
           STUDY_DATE="${{ steps.process.outputs.STUDY_DATE }}"
           AUTHORS="${{ steps.process.outputs.AUTHORS }}"
           KEY_FINDINGS="${{ steps.process.outputs.KEY_FINDINGS }}"
           [ -z "$KEY_FINDINGS" ] && KEY_FINDINGS='See full report for details'
-          FILE_PATH="${{ steps.process.outputs.RESEARCH_FILE }}"
-          REPO="${{ github.repository }}"
-          SHA="${{ github.sha }}"
+          URL="https://github.com/${{ github.repository }}/blob/${{ github.sha }}/${{ steps.process.outputs.RESEARCH_FILE }}"
           if [ '${{ github.event_name }}' = 'workflow_dispatch' ]; then CONTEXT_MSG='🧪 _Test notification - not tracked as shared_'; else CONTEXT_MSG='✨ _Shared after 3-day revision period_'; fi
-          ESC_TITLE=$(json_escape "$TITLE"); ESC_PRODUCT=$(json_escape "$PRODUCT_PATH"); ESC_DATE=$(json_escape "$STUDY_DATE"); ESC_AUTHORS=$(json_escape "$AUTHORS"); ESC_FINDINGS=$(json_escape "$KEY_FINDINGS"); ESC_CTX=$(json_escape "$CONTEXT_MSG"); ESC_URL=$(json_escape "https://github.com/$REPO/blob/$SHA/$FILE_PATH")
-          PAYLOAD="{\"channel\":\"#research-ops\",\"text\":\"New Research Findings: $ESC_TITLE\",\"blocks\":[{\"type\":\"header\",\"text\":{\"type\":\"plain_text\",\"text\":\"📊 New Research Findings Available\",\"emoji\":true}},{\"type\":\"section\",\"fields\":[{\"type\":\"mrkdwn\",\"text\":\"*Study:*\\n$ESC_TITLE\"},{\"type\":\"mrkdwn\",\"text\":\"*Product Area:*\\n$ESC_PRODUCT\"},{\"type\":\"mrkdwn\",\"text\":\"*Date:*\\n$ESC_DATE\"},{\"type\":\"mrkdwn\",\"text\":\"*Authors:*\\n$ESC_AUTHORS\"}]},{\"type\":\"divider\"},{\"type\":\"section\",\"text\":{\"type\":\"mrkdwn\",\"text\":\"*Key Findings Preview:*\\n$ESC_FINDINGS\"}},{\"type\":\"divider\"},{\"type\":\"actions\",\"elements\":[{\"type\":\"button\",\"text\":{\"type\":\"plain_text\",\"text\":\"📖 Read Full Report\",\"emoji\":true},\"url\":\"$ESC_URL\",\"style\":\"primary\"}]},{\"type\":\"context\",\"elements\":[{\"type\":\"mrkdwn\",\"text\":\"$ESC_CTX\"}]}]}"
+          PAYLOAD=$(jq -c -n \
+            --arg channel "#research-ops" \
+            --arg title "$TITLE" \
+            --arg product "$PRODUCT_PATH" \
+            --arg date "$STUDY_DATE" \
+            --arg authors "$AUTHORS" \
+            --arg findings "$KEY_FINDINGS" \
+            --arg url "$URL" \
+            --arg ctx "$CONTEXT_MSG" \
+            '{
+              channel:$channel,
+              text:("New Research Findings: " + $title),
+              blocks:[
+                {type:"header", text:{type:"plain_text", text:"📊 New Research Findings Available", emoji:true}},
+                {type:"section", fields:[
+                  {type:"mrkdwn", text:("*Study:*\n" + $title)},
+                  {type:"mrkdwn", text:("*Product Area:*\n" + $product)},
+                  {type:"mrkdwn", text:("*Date:*\n" + $date)},
+                  {type:"mrkdwn", text:("*Authors:*\n" + $authors)}
+                ]},
+                {type:"divider"},
+                {type:"section", text:{type:"mrkdwn", text:("*Key Findings Preview:*\n" + $findings)}},
+                {type:"divider"},
+                {type:"actions", elements:[
+                  {type:"button", text:{type:"plain_text", text:"📖 Read Full Report", emoji:true}, url:$url, style:"primary"}
+                ]},
+                {type:"context", elements:[{type:"mrkdwn", text:$ctx}]}
+              ]
+            }')
           echo "payload=$PAYLOAD" >> $GITHUB_OUTPUT
 
       - name: Send Slack notification - Success
@@ -186,17 +227,18 @@ jobs:
         if: steps.find-files.outputs.skip == 'true' && steps.find-files.outputs.error_message && github.event_name == 'workflow_dispatch'
         id: build-slack-error
         run: |
-          json_escape() {
-            local s="$1"
-            s=${s//\\/\\\\}
-            s=${s//\"/\\\"}
-            s=${s//$'\n'/\\n}
-            s=${s//$'\r'/}
-            s=${s//$'\t'/\\t}
-            echo -n "$s"
-          }
-          ERR="${{ steps.find-files.outputs.error_message }}"; ESC_ERR=$(json_escape "$ERR")
-          PAYLOAD="{\"channel\":\"#research-ops\",\"text\":\"Research File Not Found\",\"blocks\":[{\"type\":\"section\",\"text\":{\"type\":\"mrkdwn\",\"text\":\"❌ *Could not find the specified research file*\\n\\n$ESC_ERR\\n\\nPlease check the file path and try again.\"}}]}"
+          set -euo pipefail
+          ERR="${{ steps.find-files.outputs.error_message }}"
+          PAYLOAD=$(jq -c -n \
+            --arg channel "#research-ops" \
+            --arg err "$ERR" \
+            '{
+              channel:$channel,
+              text:"Research File Not Found",
+              blocks:[
+                {type:"section", text:{type:"mrkdwn", text:"❌ *Could not find the specified research file*\n\n" + $err + "\n\nPlease check the file path and try again."}}
+              ]
+            }')
           echo "payload=$PAYLOAD" >> $GITHUB_OUTPUT
 
       - name: Send Slack notification - Error
