@@ -38,23 +38,34 @@ permissions:
 jobs:
   share-research-findings:
     runs-on: ubuntu-latest
+    timeout-minutes: 60  # Extended per large repo guidance
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 50  # shallow history (≈recent changes) for performance
+          fetch-depth: 1  # shallow clone for performance
           sparse-checkout: |
-            products
-            .github/workflows
-          sparse-checkout-cone-mode: true
-          filter: blob:none  # partial clone keeps transfer minimal
+            .github/workflows/
+            products/
+            scripts/
+            platform/
+            docs/
+            templates/
+            assets/
+          sparse-checkout-cone-mode: false
+          filter: blob:none
+
+      - name: Configure Git LFS (if needed)
+        run: |
+          git lfs install
+          echo "Git LFS installed (only pulls if LFS pointers in sparse set)"
 
       - name: Find eligible research files
         id: find-files
         run: |
           SHARED_FILES_LOG=".github/workflows/shared-research-files.log"
           mkdir -p "$(dirname "$SHARED_FILES_LOG")"; touch "$SHARED_FILES_LOG"
-          IGNORE_DELAY='${{ github.event.inputs.ignore_time_delay }}'
+          IGNORE_DELAY="${{ github.event.inputs.ignore_time_delay }}"
           [ -z "$IGNORE_DELAY" ] && IGNORE_DELAY=false
           match_target() { echo "$1" | grep -Eiq '(findings|report|insights)(\.md)$'; }
           # If manual specific path provided, bypass discovery/age gating
@@ -96,7 +107,7 @@ jobs:
         if: steps.find-files.outputs.skip != 'true'
         id: process
         run: |
-          RESEARCH_FILE='${{ steps.find-files.outputs.eligible_file }}'
+          RESEARCH_FILE="${{ steps.find-files.outputs.eligible_file }}"
           [ -z "$RESEARCH_FILE" ] || [ ! -f "$RESEARCH_FILE" ] && { echo "No valid research file to process."; exit 0; }
           echo "Processing: $RESEARCH_FILE"
           TITLE=$(grep -m 1 '^# ' "$RESEARCH_FILE" | sed 's/^# //' || true)
@@ -142,13 +153,22 @@ jobs:
           json_escape() {
             local s="$1"
             s=${s//\\/\\\\}
-            s=${s//\"/\\\"}
+            s=${s//"/\\"}  # escape double quotes correctly
             s=${s//$'\n'/\\n}
             s=${s//$'\r'/}
             s=${s//$'\t'/\\t}
             echo -n "$s"
           }
-          TITLE='${{ steps.process.outputs.RESEARCH_TITLE }}'; PRODUCT_PATH='${{ steps.process.outputs.PRODUCT_PATH }}'; STUDY_DATE='${{ steps.process.outputs.STUDY_DATE }}'; AUTHORS='${{ steps.process.outputs.AUTHORS }}'; KEY_FINDINGS='${{ steps.process.outputs.KEY_FINDINGS }}'; [ -z "$KEY_FINDINGS" ] && KEY_FINDINGS='See full report for details'; FILE_PATH='${{ steps.process.outputs.RESEARCH_FILE }}'; REPO='${{ github.repository }}'; SHA='${{ github.sha }}'
+          # Use double quotes to avoid breaking on apostrophes in content (e.g., Veterans')
+          TITLE="${{ steps.process.outputs.RESEARCH_TITLE }}"
+          PRODUCT_PATH="${{ steps.process.outputs.PRODUCT_PATH }}"
+          STUDY_DATE="${{ steps.process.outputs.STUDY_DATE }}"
+          AUTHORS="${{ steps.process.outputs.AUTHORS }}"
+          KEY_FINDINGS="${{ steps.process.outputs.KEY_FINDINGS }}"
+          [ -z "$KEY_FINDINGS" ] && KEY_FINDINGS='See full report for details'
+          FILE_PATH="${{ steps.process.outputs.RESEARCH_FILE }}"
+          REPO="${{ github.repository }}"
+          SHA="${{ github.sha }}"
           if [ '${{ github.event_name }}' = 'workflow_dispatch' ]; then CONTEXT_MSG='🧪 _Test notification - not tracked as shared_'; else CONTEXT_MSG='✨ _Shared after 3-day revision period_'; fi
           ESC_TITLE=$(json_escape "$TITLE"); ESC_PRODUCT=$(json_escape "$PRODUCT_PATH"); ESC_DATE=$(json_escape "$STUDY_DATE"); ESC_AUTHORS=$(json_escape "$AUTHORS"); ESC_FINDINGS=$(json_escape "$KEY_FINDINGS"); ESC_CTX=$(json_escape "$CONTEXT_MSG"); ESC_URL=$(json_escape "https://github.com/$REPO/blob/$SHA/$FILE_PATH")
           PAYLOAD="{\"channel\":\"#research-ops\",\"text\":\"New Research Findings: $ESC_TITLE\",\"blocks\":[{\"type\":\"header\",\"text\":{\"type\":\"plain_text\",\"text\":\"📊 New Research Findings Available\",\"emoji\":true}},{\"type\":\"section\",\"fields\":[{\"type\":\"mrkdwn\",\"text\":\"*Study:*\\n$ESC_TITLE\"},{\"type\":\"mrkdwn\",\"text\":\"*Product Area:*\\n$ESC_PRODUCT\"},{\"type\":\"mrkdwn\",\"text\":\"*Date:*\\n$ESC_DATE\"},{\"type\":\"mrkdwn\",\"text\":\"*Authors:*\\n$ESC_AUTHORS\"}]},{\"type\":\"divider\"},{\"type\":\"section\",\"text\":{\"type\":\"mrkdwn\",\"text\":\"*Key Findings Preview:*\\n$ESC_FINDINGS\"}},{\"type\":\"divider\"},{\"type\":\"actions\",\"elements\":[{\"type\":\"button\",\"text\":{\"type\":\"plain_text\",\"text\":\"📖 Read Full Report\",\"emoji\":true},\"url\":\"$ESC_URL\",\"style\":\"primary\"}]},{\"type\":\"context\",\"elements\":[{\"type\":\"mrkdwn\",\"text\":\"$ESC_CTX\"}]}]}"
@@ -175,7 +195,7 @@ jobs:
             s=${s//$'\t'/\\t}
             echo -n "$s"
           }
-          ERR='${{ steps.find-files.outputs.error_message }}'; ESC_ERR=$(json_escape "$ERR")
+          ERR="${{ steps.find-files.outputs.error_message }}"; ESC_ERR=$(json_escape "$ERR")
           PAYLOAD="{\"channel\":\"#research-ops\",\"text\":\"Research File Not Found\",\"blocks\":[{\"type\":\"section\",\"text\":{\"type\":\"mrkdwn\",\"text\":\"❌ *Could not find the specified research file*\\n\\n$ESC_ERR\\n\\nPlease check the file path and try again.\"}}]}"
           echo "payload=$PAYLOAD" >> $GITHUB_OUTPUT
 
