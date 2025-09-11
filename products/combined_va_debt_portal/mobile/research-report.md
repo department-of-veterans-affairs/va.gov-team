@@ -630,7 +630,7 @@ We expect this to be a non-zero amount and want to track this as a metric to ass
 | Surface non-payment options. The options of disputing a debt or requesting a payment plan were not being discovered in the Help menu and were somewhat hidden under the Resolve button. | Design updated | |
 | Provide access to debt letters. If not possible, provide a clear explanation for why they can not be read in the app | Future: consider for v2 | Research needed: will PII always block adding letters? Research needed: what is allowed to be written? |
 | Make older PDF statements easier to find. The current structure requires much scrolling and is not clearly labeled. | Design updated | |
-| Look into making the PDFs as accessible as possible for all users. | Pending | |
+| Look into making the PDFs as accessible as possible for all users. | Future | On roadmap as future initiative |
 | Clarify the structure of the copay statements. Until we are able to provide real-time transactions, make it clear that the copay details are in statement form and may not be up to date. | Design updated | |
 | Re-evaluate the alert accordion on the details page. Either make it clearly expandable with valuable content inside or replace it with a simple banner. | In progress | |
 
