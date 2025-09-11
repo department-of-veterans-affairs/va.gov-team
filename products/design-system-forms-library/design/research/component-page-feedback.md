@@ -68,7 +68,7 @@ The report also provides **direct quotes** to highlight user voices, a **role co
 ### Prototypes shared
   1. [Accordion/Compact option 1](./images/component-checklist-layout-option-1.png)
   3. [Static/Expanded option 2](./images/component-checklist-layout-option-2.png)
-  4. [Compact list option 3](./images/component-checklist-layout-option-3.png)
+  4. [Compact list option 3](./images/component-checklist-option-3.png)
 
 ### Prototype feedback
 - **The checklist is rarely consulted for decision-making.** Most users said they ignore it unless doing an audit or checking accessibility.  
