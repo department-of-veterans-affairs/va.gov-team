@@ -47,12 +47,12 @@ My goal today is to understand your experience with implementing Siteminder, and
 
 ## Second Task: Current Understanding, Concerns, Risks
 
-- What is your current understanding of the migration to EntraID?
+- What is your current understanding of the migration to EntraID? 
 - What questions or concerns do you have about the migration?
-- You answered _________ on the survey when asked if your team has dedicated resources (e.g., developers, testers, support staff) available to participate in the migration process over the course of the migration.
-- Do you anticipate any changes to that in the next 6 – 8 months?
-- What expectations do you have about the migration experience?
-- What do you feel would be helpful for you and your team to prepare?
+- You answered _______ on the survey when asked if your team has dedicated resources (e.g., developers, testers, support staff) available to participate in the migration process over the course of the migration. 
+- Do you anticipate any changes to that in the next 6 – 8 months? 
+- What expectations do you have about the migration experience? 
+- What do you feel would be helpful for you and your team to prepare? 
 
 ## Post-Task Interview
 
