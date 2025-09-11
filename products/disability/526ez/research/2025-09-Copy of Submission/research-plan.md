@@ -6,51 +6,43 @@ Disability Benefits, Core Team, September 2025
   
 We are implementing the design platform's pattern “[keep a record of submitted information](https://design.va.gov/patterns/help-users-to/keep-a-record-of-submitted-information)" in a new Confirmation Page to enable users to access what they entered on the disability benefits form after they click "Submit." In order to make the information more scannable, we added header titles for information hierarchy. This research will validate our updates proposed improvements to this design system pattern.  
   
-`What problem is your product trying to solve?`  
+### What problem is your product trying to solve? 
 At the present, veterans cannot see, download, or print a copy of their completed disability application data (form 526ez, and nested forms) for their records after hitting submit. The prototype we are testing in this research, an update to the new confirmation page for the online disability benefits form, would enable users to access what they submitted on the form after they click "Submit."  
   
-`Where is your product situated on VA.gov? (ex: auth vs. unauth)`  
+### Where is your product situated on VA.gov? (ex: auth vs. unauth)  
 Authenticated  
   
-`What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?`  
+### What is Veterans’ familiarity with this tool? Is this a new product or an iteration on an existing one?  
 Veterans may have filled out the disability application and have interacted with it in the past, but not frequently enough to have familiarity with it. This will be an iteration on an existing confirmation page, which currently does not give any copy of submission.  
   
   
-`Product Brief`  
-[Superepic link](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107258)  
+### Product Brief  
+[Superepic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/107258)  
   
 [Initiative brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/product/feature-briefs/526ez%20copy%20of%20submission.md)  
   
 
 ### [OCTO-DE Priorities](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/strategy/OCTO-DE%20Priorities%202025.md)
+  
+Objective 1: VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.  
+  
+- **Key Result 1:** Improve satisfaction with our web and mobile products by 5 points.  
+- **Key Result 3:** 100% of transactions received via our digital experiences are either processed correctly or we have notified the user of an error.  
+  
 
-  
-`Objective 1: VA’s digital experiences are the easiest and most efficient way to access VA health care and benefits.`  
-  
-> - **Key Result 1:** Improve satisfaction with our web and mobile products by 5 points.  
-> - **Key Result 3:** 100% of transactions received via our digital experiences are either processed correctly or we have notified the user of an error.  
-  
-
-### [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
-
-  
+### Applicable steps in the [Veteran Journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)
 
 -   Starting up - Attending to health needs
 -   Taking care of myself
--   Putting down roots
+-   Putting down roots  
+
+## Research Goals 🥅
 
   
-
-## _Research Goals 🥅_
-
-  
-**Goal 1: Gather feedback on the overall content of the page.**  
-  
-**Goal 2: Evaluate the effectiveness of the formatting and visual hierarchy of submitted information within the accordion.**  
-  
-**Goal 3: Evaluate whether users are able to find information on “What happens next” and how to ask for help on the page**.  
-  
-**Goal 4: Determine if users understand how and are able to save and/or print all the content from the Confirmation Page**  
+1. Gather feedback on the overall content of the page.   
+2. Evaluate the effectiveness of the formatting and visual hierarchy of submitted information within the accordion.    
+3. Evaluate whether users are able to find information on “What happens next” and how to ask for help on the page.    
+4. Determine if users understand how and are able to save and/or print all the content from the Confirmation Page. 
   
 
 ### Outcome
@@ -58,8 +50,7 @@ Veterans may have filled out the disability application and have interacted with
 This research will give us a better understanding of claimants’ experience and their understanding on the copy of submissions data in the Confirmation page. We expect to find insights on the usability, language clarity, and navigability of the accordion and the submission data attached. These insights will help ensure claimants can access a copy of their submitted data, and understand how to save a digital copy or print it. Furthermore, we will also get feedback on the overall content of the Confirmation Page.  
   
 
-## _Research questions_
-
+## Research questions
   
 (Page as a whole)  
 **Goal 1: Gather feedback on the overall content of the page.**  
@@ -89,11 +80,9 @@ This research will give us a better understanding of claimants’ experience and
 -   Can a user view/save/and print their submitted information?
 -   Without intervention, how would users save the content on the Confirmation Page?
 -   When printing the page, what do users expect to be actually printed from the Confirmation Page?
--   Is the default browser functionality for printing (button for ‘Print this page’) sufficient and intuitive for all users?
+-   Is the default browser functionality for printing (button for ‘Print this page’) sufficient and intuitive for all users
 
-  
-
-### Hypotheses
+## Hypotheses
 
 -   Most participants are able to intuitively interact with the Confirmation Page to find the info they entered in their disability benefits application.
 -   Most participants will not understand that the info on this page disappears (i.e., not retrievable) after they quit/leave the page.
@@ -103,13 +92,10 @@ This research will give us a better understanding of claimants’ experience and
 -   Most participants will be able to successfully save or print their submitted information.
 -   Participants find the new functionality of saving and printing a copy of their submission useful.
 
-  
-
-----------
 
 ## Methodology 🛠️
 
-**[Usability Testing]**  
+**Usability Testing**  
 We will be testing using a Codespace prototype that will include 3 pages for the user to interact with. The Codespace prototype will follow this [design in Figma](https://www.figma.com/proto/zduybBnXDjVkKpJosfC6oh/526---Submission---Provide-a-Copy-Update-7.2?node-id=1248-187297&starting-point-node-id=1248%3A187297).  
 
 -   **Page 1: Login Page**
@@ -128,21 +114,15 @@ We will be testing using a Codespace prototype that will include 3 pages for the
 
 Remote through Zoom  
 
--   **Remote**
-
 ## Research materials 📔
 
-  
-**For moderated usability tests:**  
-
 -   [Conversation guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2025-09-Copy%20of%20Submission/conversation-guide.md)
+-   [Figma prototype](https://www.figma.com/proto/zduybBnXDjVkKpJosfC6oh/526---Submission---Provide-a-Copy-Update-7.2?node-id=1248-187297&starting-point-node-id=1248%3A187297), will not be used in sessions. Providing for research review and approval processes.  
 -   [Codespace Prototype URL TBA]
 
 ## Recruitment 🎯
 
 ### Recruitment criteria
-
--   `Veterans:` Ideal session number: N = 7 (recruit for N=10 for no shows)
 
 ### Primary criteria (must-haves)
 
@@ -170,7 +150,6 @@ All participants should be:
 -   2 or more who speak English as their second language
 -   At least 5 participants have applied for disability benefits through an online or paper form within the last 2 years
 -   At least 4 participants who have applied for VA benefits other than disability compensation within the last 2 years
--   up to 2 participants who have no experience applying for VA benefits
 
 **Secondary criteria (nice-to-haves)**  
 
@@ -181,18 +160,15 @@ All participants should be:
 
   
 **Screener Questions**  
-  
 
 1.  How will you join the Zoom meeting for your research session?
 	-   Desktop/laptop (_qualify for desktop)_
 	-   Tablet _(qualify for tablet)_
 	-   Smartphone _(qualify for smartphone)_
 
-  
 2.  Within the last 2 years, which of the following VA benefits have you applied for through an online or paper application? It's ok if you are not yet receiving these benefits.
 
-	-  Disability compensation _(recruit at least 5, no more than 6)_  
-	   
+	-  Disability compensation _(recruit at least 5, no more than 6)_    
 	-   Education and training
 	-   Health care
 	-   Housing assistance
@@ -201,40 +177,34 @@ All participants should be:
 	-   Other
 	-   I haven’t applied for any benefits within the last 2 years (_disqualify for study)_
 
-  
-
-1.  Do you find it difficult to read or understand what you read? We ask this question because we want to make sure that our tools work for people who live with challenges like these.
+3.  Do you find it difficult to read or understand what you read? We ask this question because we want to make sure that our tools work for people who live with challenges like these.
 
 _Response options: yes, no, or prefer not to answer. (Answering yes would qualify the participant for reading challenge considerations.)_  
   
 
 ## Timeline 🗓️
 
-
-
 ### Optional Kick-off Call with Perigean
 
--   `Suggested dates and times:` **[** September 15th **- September 17th **]**
+-  Suggested dates and times: September 15th - September 17th
 
 ### Prepare
 
-**A pilot session is required. Please indicate the** **date and name of a mock participant for a pilot session.**  
-> **Send pilot participant email in study Slack channel**  
+**A pilot session is required. Please indicate the date and name of a mock participant for a pilot session.**  
+Send pilot participant email in study Slack channel.  
 
--   `Pilot participant name:` **Richard Jones**
--   `Date and time of pilot session:` **[TBA]**
-
--   Richard has confirmed that he is available to be the pilot tester sometime in Sprint 13. We need to schedule the test session once the Codespace Prototype is ready.
+-   Pilot participant name: **Richard Jones**
+-   Date and time of pilot session: **[TBA]**
 
 ### Research sessions
 
--   `Planned dates of research:` **[** September 22nd - September 26]
+-   Planned dates of research: September 22nd - September 26
 
 ### Length of sessions
 
--   `Session length:` **[1 hour]**
--   `Buffer time between sessions:` **[1 hour]**
--   `Maximum Sessions per day:` **[3 sessions]**
+-   Session length: **1 hour**
+-   Buffer time between sessions: **1 hour**
+-   Maximum Sessions per day: **3 sessions**
 
   
 **Availability**  
@@ -243,8 +213,6 @@ _Response options: yes, no, or prefer not to answer. (Answering yes would qualif
 -   Irene will be OOO on Sept. 26.
 
 ## Team Roles 🕵️👩‍💻👩‍🔬
-
-  
 
 -   `Moderator:` **[Qian Chen] and [Kevin Shih] and [Irene Vailikit]**
 -   `Research guide writing and task development (usually but not always same as moderator):` **[Qian Chen] and [Kevin Shih] and [Irene Vailikit]**
@@ -256,7 +224,7 @@ _Response options: yes, no, or prefer not to answer. (Answering yes would qualif
 
 ## Approvals ✅
 
--   `Reviewed by [OCTO Liz Lantz, Team Lead] on [09-10-2025]`
+-   `Reviewed by Liz Lantz, Disability Benefits Crew Design Lead on [MM-DD-YYYY]`
 -   `Reviewed by OCTO Research-Ops Lead on [MM-DD-YYYY]`
 
 ----------
