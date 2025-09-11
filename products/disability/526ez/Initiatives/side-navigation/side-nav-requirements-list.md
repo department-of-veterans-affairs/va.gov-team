@@ -78,5 +78,6 @@ _(Collaboration between Design + Eng Needed)_
 - [side nav design system page](https://design.va.gov/components/sidenav#code-usage)
 - [va-sidenav component library](https://github.com/department-of-veterans-affairs/component-library/tree/main/packages/web-components/src/components/va-sidenav)
 - [Form Flow js](https://github.com/department-of-veterans-affairs/vets-website/blob/34a5337ad8098d143eea4ca68a0aec3bb9d1a4d8/src/applications/disability-benefits/all-claims/config/form.js#L708)
-- [Routed Savable App](https://github.com/department-of-veterans-affairs/vets-website/blob/8b0faa523ed4045407b8a319929adf8b344f51a6/src/platform/forms/save-in-progress/RoutedSavableApp.jsx#L34): Look into this re: ensuring progress is saved. 
+- [Routed Savable App](https://github.com/department-of-veterans-affairs/vets-website/blob/8b0faa523ed4045407b8a319929adf8b344f51a6/src/platform/forms/save-in-progress/RoutedSavableApp.jsx#L34): Look into this re: ensuring progress is saved.
+- [Side-nav Usage Example - ProfileSubNav](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/personalization/profile/components/ProfileSubNav.jsx)
 
