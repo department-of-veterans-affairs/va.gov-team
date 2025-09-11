@@ -2,48 +2,53 @@
 
 ``` mermaid
 sequenceDiagram
-    participant E as Email Service
-    participant U as User
-    participant F as VASS Application(vets-website)
+    participant U as User (Browser)
+    participant F as VASS Application (vets-website)
     participant V as vets-api
-    
-    participant N as VANotify
     participant S as VASS-API
-    
-    E->>U: VASS sends email with URL(with UUID) to schedule.
-    U->>F: Enter Lastname DOB(something to match up with UUID)
-    F->>V: Send lastname + DOB + UUID
-    V->>S: Check UUID in VASS-API
+    participant N as VANotify
+    participant E as Email Service
 
-    S-->>V: Exists? (Yes -> return user information with EDIPI, No -> return error)
+    %% Step 1: Email Invitation
+    E->>U: Email with scheduling link (UUID)
 
-    V->>V: Check lastname and dob match user information (Yes -> continue) 
-    V->>V: Generate one-time code (OTC) for EDIPI
-    V->>N: Send email and templateId
-    N-->>U: Send OTC email with VANotify
+    %% Step 2: User validates identity
+    U->>F: Opens link, enters Lastname + DOB
+    F->>V: Sends Lastname + DOB + UUID
+    V->>S: Validate UUID in VASS-API
+    S-->>V: Return user info (EDIPI) or error
+    V->>V: Check Lastname + DOB match
+    V->>V: Generate One-Time Code (OTC)
+    V->>N: Send OTC email (templateId)
+    N-->>U: OTC email sent
 
-    U->>F: Enter OTC
-    F->>V: POST OTC
-    V->>V: Validate OTC against the one in redis
+    %% Step 3: User enters OTC
+    U->>F: Enters OTC
+    F->>V: Validate OTC
+    V->>V: Check OTC in Redis
     V-->>F: Return EDIPI if valid
-    F-->>U: Route user to scheduling appointment
+    F-->>U: Proceed to scheduling page
 
-    F->>V: request agent skills
-    V->>S: GET agent skills
-    S-->>V: return agent skills
-    V-->>F: return agent skills
-    U->>F: Select agent skills to be used later when saving the appointment
-    F->>V: request available appointments
-    V->>S: GET appointment availability
-    S-->>V: return appointment availability
-    V-->>F: return appointment availability
-    U->>U: Select time slot
+    %% Step 4: Scheduling Flow
+    F->>V: Request agent skills
+    V->>S: Get agent skills
+    S-->>V: Return agent skills
+    V-->>F: Return agent skills
+    U->>F: Select skills
 
-    F->>V: Submit appointment with EDIPI
-    V->>S: passthrough appointment with EDIPI
+    F->>V: Request appointment availability
+    V->>S: Get availability
+    S-->>V: Return availability
+    V-->>F: Return availability
+    U->>F: Select time slot
+
+    %% Step 5: Confirm Appointment
+    F->>V: Submit appointment (EDIPI)
+    V->>S: Save appointment
     S-->>V: Appointment confirmed
-    V->>N: Send email address and confirmed templateId
-    N-->>U: Send confirmation email(with link to cancel)
+    V->>N: Send confirmation email (templateId)
+    N-->>U: Confirmation email with cancel link
     V-->>F: Appointment confirmed
-    F-->>U: Display Confirmation message
+    F-->>U: Show confirmation message
+
 ```
