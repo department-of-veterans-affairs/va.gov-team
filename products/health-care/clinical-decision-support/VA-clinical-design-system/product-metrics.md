@@ -15,11 +15,11 @@
 #### Design system growth 
 |	Metric	|	FY25 Q1 |	FY25 Q2 |	FY25 Q3 |	FY25 Q4 |
 |	----	|	----	|	----	|	----	|	----	|	
-|	Bug fixes	|	-	|	-	|	3	|	-	|		
+|	Bug fixes	|	-	|	-	|	4	|	-	|		
 |	Contributions adopted	|	-	|	-	|	2	|	-	|
-|	Tokens created	|	-	|	-	|	1	|	-	|
-|	Components created	|	-	|	-	|	-	|	-	|
-|	Patterns created	|	-	|	1	|	1	|	-	|
+|	Tokens created	|	-	|	-	|	27	|	5	|
+|	Components created	|	-	|	-	|	3	|	2	|
+|	Patterns created	|	-	|	1	|	1	|	3	|
 
 
 #### Contributions to other design systems 
