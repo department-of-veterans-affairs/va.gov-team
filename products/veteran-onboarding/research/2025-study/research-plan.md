@@ -1,4 +1,4 @@
-# Research Plan - New Veteran Modal Experience
+# Research Plan for Veteran Onboarding Modal Experience Study, 2025
 
 ## Background
 
