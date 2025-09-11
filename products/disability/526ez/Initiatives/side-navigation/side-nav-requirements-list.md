@@ -6,6 +6,8 @@ The following documentation lists out the user, functional, technical, and data 
 - Last Edited: 2025/9/11 <br>
 
 ## Jump To
+[Initiative Summary](#initiative-summary)
+
 
 ## Initiative Summary
 We are implementing the [side navigation component](https://design.va.gov/components/sidenav) into the 526ez form. <br> 
