@@ -1,7 +1,17 @@
+---
+title: "Conversation Guide for Disability Benefits Core Form Team, 21-526ez, 2025-09-11"
+author: "Qian Chen, Irene Vailikit, Kevin Shih"
+date_created: "2025-09-11"
+last_modified: "2025-09-11"
+tags:
+  - "526ez"
+  - "research"
+description: "A template for moderating research sessions including logistics, intro script, task outlines, and consent steps."
+---
+
 # Copy of Submission: Conversation Guide
 
 **[Research plan](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/research/2025-09-Copy%20of%20Submission/research-plan.md)** 
-
 
 ---
 
