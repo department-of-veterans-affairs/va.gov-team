@@ -284,7 +284,7 @@ With the newer release and marketing for the travel pay feature in the app, user
 
 | Feature | average rating | # of ratings |
 |--|--|--|
-| Navigation | 4.2 | 60 |
+| Navigation | 3.6 | 45 |
 
 Navigation is often a strength of the app when mentioned in positive reviews while some users struggle to find specific features or information. Users often compare it to the structure of what they are familiar with using at the VA previously such as MyHealthEVet or Va.gov but after learning the app find it easy to navigate. 
 
@@ -355,7 +355,7 @@ Representative responses:
 |--|--|--|
 | Claims | 4.67 | 3 |
 
-Only 2 reviews mentioned claims not related to travel reimbursement. When claims are specifically mentioned they are usually listed as a core feature highlighted. 
+Only 3 reviews mentioned claims not related to travel reimbursement. When claims are specifically mentioned they are usually listed as a core feature highlighted. 
 
 Representative responses:
 
@@ -432,7 +432,7 @@ Representative responses:
 |--|--|--|
 | Payments | 4.33 | 3 |
 
-The payment section is rated neutrally.
+A few users mentioned payments specifically this month and mostly noting their ability to track their payments. One user desired a way to make a payment through the app and couldn't find it.
 
 Representative responses:
 
@@ -556,7 +556,7 @@ Representative responses:
 |--|--|--|
 | Appointments | 3.0 | 40 |
 
-Appointments are a favorited feature by many app users who provided a positive rating for the app. Additions to appointment details would continue to add value to users, where users mentioned desiring to see the reason for the appointment, payment status, and more detailed address elements such as building names with room numbers.
+Appointments are a favorited feature by many app users who provided a positive rating for the app. Additions to appointment details would continue to add value to users, where users mentioned desiring to see the reason for the appointment, payment status, and more detailed address elements such as building names with room numbers. The mixed ratings suggest that improvements to this area are still needed and users pointed out lack of informationas the number one reason for dissatisfaction, and some mentioned the desire to make an appointment from the app.
 
 Representative responses:
 
@@ -574,6 +574,8 @@ Representative responses:
 
 > The appointments section needs work. The medical department associated with the appointment is sometimes not shown, resulting in the need to call the VA, which in itself can be an exhausting exercise. Also always missing is any indication of lab work that may be needed before the appointment, so that should be added. Otherwise, one must go the frustrating telephone route. Maybe VA employees should be required to use the app and other such computerized tools as the BTSSS. In that way, they themselves could find the glitches and shortcomings veterans have to deal with and get them fixed. The overall information technology capability of the VA is average, at best.
 
+<br>
+
 > Easy to use app... only suggestion is the ability to request, change, or cancel appointments thru the app...
 
 <br>
@@ -583,14 +585,11 @@ Representative responses:
 <br>
 
 ### Feature Enhancements
-#### App support 
+#### App support (2)
 Several users mention the desire to reach someone knowledgeable about the app to assist them with a service the app provides, noting mixed success with call center agents and lack of knowledge from in-person staff at their local VA care centers. 
 
 > initially there were quite a few technical glitches preventing me access. it took me a few tries to finally reach an agent that had the knowledge and expertise to help with the biometrics system. to this day I am appreciative of amount of help this application provides! keep up the good work 👍🏾
 
-<br>
-
-> Hopefully this IS the right app to use out of the 4 I have saved. Don't know from sign in to sign in which is the right one.
 
 <br>
 
@@ -598,7 +597,7 @@ Several users mention the desire to reach someone knowledgeable about the app to
 
 <br>
 
-#### Dependent claims
+#### Dependent claims (1)
 One user specifically desired the ability to track statuses of claims also related to their dependents.
 
 > It also doesn’t let me check the status of my wife’s ChampVA application which is very unfortunate and an oversight on this apps part I believe. It app is also referenced as the place to go to do these thing. 
