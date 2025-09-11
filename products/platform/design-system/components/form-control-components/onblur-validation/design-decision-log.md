@@ -8,25 +8,25 @@ Last updated: Sep 4, 2025
 
 ### Status: completed
 
-Date issue raised: Oct 12, 2023
-Decision date: Oct 12, 2023 (?)
-Date completed: Oct 19, 2023
+- Date issue raised: Oct 12, 2023
+- Decision date: Oct 12, 2023 (?)
+- Date completed: Oct 19, 2023
 
 ### Context
 
 This context is being added retroactively by looking back at PR’s and issues. Not all of the original decision details are clear (ie who made the decisions) but we believe the following based on component updates.
 
-According to this PR, validation for va-date and va-memorable-date was updated so that each individual field (day, month, and year) undergoes validation when focused even if the fields were empty.
+According to [this PR](https://github.com/department-of-veterans-affairs/component-library/pull/922), validation for `va-date` and `va-memorable-date` was updated so that each individual field (day, month, and year) undergoes validation when focused even if the fields were empty.
 
-Previously, validation didn’t happen until the inputs had a value. This Storybook staging link from this April 2023 PR demonstrates that behavior.
+Previously, validation didn’t happen until the inputs had a value. This [Storybook staging link](https://1665-memorable-date-default-value--60f9b557105290003b387cd5.chromatic.com/?path=/docs/components-va-memorable-date--default) from this [April 2023 PR](https://github.com/department-of-veterans-affairs/component-library/pull/685) demonstrates that behavior.
 
 ### Decision
 
 The validation behavior changes in 2023 were:
 
-All fields would validate with and without content
-Validation errors focused in sequence
-Validation happened when clicking outside of the component (onBlur)
+- All fields would validate with and without content
+- Validation errors focused in sequence
+- Validation happened when clicking outside of the component (onBlur)
 
 ### Consequences
 
