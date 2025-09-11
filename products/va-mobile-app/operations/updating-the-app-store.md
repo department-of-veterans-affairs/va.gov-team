@@ -30,7 +30,7 @@ Explanation of files:
 
 ```bash
 #va-mobile-app/VAMobile/e2e
-├── detoxMapping.json
+├── detoxMapping.js
 ├── environment.js
 ├── screenshots
 │   ├── screenshot_data.ts
