@@ -1,4 +1,4 @@
-# Epic: Easy to Reference Support for Veterans in the Philippines Credential Transition  
+# Easy to Reference Support for Veterans in the Philippines Credential Transition  
 https://github.com/department-of-veterans-affairs/identity-documentation/issues/658
 
 **Problem**  
