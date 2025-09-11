@@ -210,11 +210,11 @@ Representative responses:
 
 Many users struggle with the login process, citing issues with ID.me, two-factor authentication, and general difficulty remembering passwords. Some users also mention getting logged out or having to reauthenticate noting it as an inconveience. Login continues to be a major pain point, as it prevents users from accessing the app's features.
 
-< It has an option to keep you logged in, but it doesn't work. it requires a log in and 2 step verification EVERY TIME.
+> The app will let me log in with my biometrics for a few weeks and then randomly ask me to log in with an email address but not auto populate the login credentials that I had saved. It's very inconvenient to always have to make a new account because of the app not working properly. Other times the app just does not work, it says to log in and try again later.
 
 <br>
 
-> The app will let me log in with my biometrics for a few weeks and then randomly ask me to log in with an email address but not auto populate the login credentials that I had saved. It's very inconvenient to always have to make a new account because of the app not working properly. Other times the app just does not work, it says to log in and try again later.
+> It has an option to keep you logged in, but it doesn't work. it requires a log in and 2 step verification EVERY TIME.
 
 <br>
 
@@ -332,15 +332,15 @@ Representative responses:
 
 <br>
 
-< App forces you to log in multiple times before it allows access.
+> App forces you to log in multiple times before it allows access.
 
 <br>
 
-< Is clunky to use. It will not work if you have the fingerprint option now that you have to use the IDme to log in.
+> Is clunky to use. It will not work if you have the fingerprint option now that you have to use the IDme to log in.
 
 <br>
 
-< cant login because how it's setup nothing is easy like it is on the website. Just use your biometrics on website so you dont remember password. deleted app instantly.
+> cant login because how it's setup nothing is easy like it is on the website. Just use your biometrics on website so you dont remember password. deleted app instantly.
 
 <br>
 
@@ -479,7 +479,7 @@ Messaging is a well appreciated feature in the app, however common complaints in
 
 Representative responses:
 
-> "This is the easiest and best way to communicate with your primary team or specialty team."
+> This is the easiest and best way to communicate with your primary team or specialty team.
 
 <br> 
 
