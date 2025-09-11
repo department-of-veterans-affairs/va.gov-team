@@ -21,7 +21,7 @@ Feedback includes 357 total responses, each with a rating of 1-5. Ratings of 1-2
 
 [Common themes](#common-themes)
 
-[User pain point](#user-pain-points)
+[User pain points](#user-pain-points)
 
 [Feature specific feedback](#feature-specific-feedback)
 - [Navigation](#navigation)
@@ -35,7 +35,7 @@ Feedback includes 357 total responses, each with a rating of 1-5. Ratings of 1-2
 - [Messaging](#messaging)
 - [Prescriptions](#prescriptions)
 - [Appointments](#appointments)
-- [Feedback enhancements](#feedback-enhancements)
+- [Other enhancements](#other-enhancements)
 
 ## General/other feedback
 Note: General feedback includes responses that reflect Veteran experiences with their healthcare teams, or the VA in general and may not specifically be related to the VA Health & Benefits app. 
@@ -584,7 +584,7 @@ Representative responses:
 
 <br>
 
-### Feature Enhancements
+### Other enhancements
 #### App support (2)
 Several users mention the desire to reach someone knowledgeable about the app to assist them with a service the app provides, noting mixed success with call center agents and lack of knowledge from in-person staff at their local VA care centers. 
 
