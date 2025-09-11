@@ -4,7 +4,7 @@ _The following documentation lists out the user, functional, technical, and data
 - [Side Nav Super Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116289)
 - [Side Nav Initiative Brief](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/disability/526ez/collab-cycle/side-nav/side-nav%20initiative%20brief.md)
 - Authors: Irene Vailikit, Julius Ahenkora 
-- Last Edited: 2025/9/11 
+- Last Edited: 2025-9-11 
 
 ## Jump To
 - [Initiative Summary](#initiative-summary)
