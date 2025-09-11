@@ -1,4 +1,4 @@
-# Initiative Brief Template
+# 526ez - Side Navigation Initiative Brief 
 #### Overview
 
 <details>
