@@ -13,7 +13,7 @@ sequenceDiagram
     E->>U: VASS sends email with URL(with UUID) to schedule.
     U->>F: Enter Lastname DOB(something to match up with UUID)
     F->>V: Send lastname + DOB + UUID
-    V->>S: Check UUID in VASS-API(this is a new endpoint)
+    V->>S: Check UUID in VASS-API
 
     S-->>V: Exists? (Yes -> return user information with EDIPI, No -> return error)
 
