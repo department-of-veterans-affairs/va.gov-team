@@ -46,7 +46,7 @@ The August 2025 feedback for the VA Health & Benefits app reveals a polarized di
 An incident involving an incorrectly linked staging environment appeared to have temporarily caused login problems for some users directly impacting the lower rating scores, with a significant portion of negative feedback received relating to the login issue on August 12th. Another issue impacting the travel pay API mid-August was also directly linked to both neutral and negative ratings as many users reported issues finding or using the newly marketed travel pay feature in the app. Despite these temporary issues, many users praise the app for its improvements over previous versions.
 
 ### Positive
-The majority of the received review, although only a slight majority at roughly 57%, is positive. Many users find the app quick and easy to use noting its simplicity and speed. They also often note it provides a convenient and secure way to manage their healthcare and benefits. Users appreciate the ability to refill prescriptions, check appointments, prove their status, track payments, and communicate with their care teams.
+The majority of the received reviews, although only a slight majority at roughly 57%, is positive. Many users find the app quick and easy to use noting its simplicity and speed. They also appreciate that it provides a convenient way to manage their healthcare and benefits. Users appreciate the ability to refill prescriptions, check appointments, prove their status, track payments, submit travel reimbursements, and communicate with their care teams.
 
 | Rating | % of ratings | # of ratings |
 |--|--|--|
@@ -80,11 +80,13 @@ Representative responses:
 <br>
 
 ### Negative
+
 | Rating | % of ratings | # of ratings |
 |--|--|--|
 | = 1 | 22.41% | 80 |
 | = 2 | 9.24% | 33 |
-Roughly 32% of the received sentiment rated in the negative, with many users reporting issues with login, navigation, and specific features like travel pay and messaging. Some users also express frustration with the app's limited functionality and the need to use the website for certain tasks or being sent to the website from the app is frustrating for many. Several incidents this month effecting both login and the travel pay likely attributed to the volume of negative ratings and feedback.
+
+Roughly 32% of the received sentiment rated in the negative, with many users reporting issues with login, navigation, and specific features like travel pay and messaging. Some users also express frustration with the app's limited functionality and the need to use the website for certain tasks. Being sent to the website from the app is frustrating for many. Several incidents this month effecting both login and the travel pay directly impacted the volume of negative ratings and feedback.
 
 Representative responses:
 
@@ -113,9 +115,11 @@ Representative responses:
 <br>
 
 ### Neutral
+
 | Rating | % of ratings | # of ratings |
 |--|--|--|
 | = 3 | 11.48% | 41 |
+
 Roughly 11% of the sentiment received ranked as neutral, with many users acknowledging the app's potential but also pointing out areas for improvement. Some users find the app useful for certain tasks but still lacking in needed functionality.
 
 Representative responses:
@@ -146,9 +150,25 @@ Representative responses:
 
 ### Common themes
 
+#### General satisfaction/overall impressions (100)
+
+Users often share short, generalized impressions of the app in reviews. With these sentiments skewing towards the positive at an average rating of 4.7 on generalized feedback. Specific functionality challenges are often the most common result of neutral or negative ratings, improving these found issues will likely result in a positive app experience for users. 
+
+> This is app is so valuable. I’m thankful that it exists and impressed with its function.
+
+<br>
+
+> This app is the best thing the VA has done. It’s easy and simple.
+
+<br>
+
+< It is a good app and very easy to use. You can't do everything with the app. The main things one would do can be started or completed in the app.
+
+<br>
+
 #### Login issues after update (50)
 
-Many users reported login issues after a recent app update, with some being directed to a test site or receiving error messages. This caused frustration and prevented users from accessing their accounts temporarily. The mobile app platform team was able however to roll out an error message within 24hrs of the found issue which directed Veterans to update their app version to receive the fix and correctly sign-in to access their account. However the temporary direction to a staging account was a major cause of confusion and concern for Veterans attempting to access the app during this time. 
+Many users reported login issues after a recent app update, with some being directed to a test site or receiving error messages. This caused frustration and prevented users from accessing their accounts temporarily. The mobile app platform team was able however to roll out an error message quickly with the found issue which directed Veterans to update their app version to receive the fix and correctly sign-in to access their account. However the temporary direction to a staging account was a major cause of confusion and concern for Veterans attempting to access the app during this time. 
 
 Representative responses:
 
@@ -164,23 +184,18 @@ Representative responses:
 
 <br>
 
-> The app will let me log in with my biometrics for a few weeks and then randomly ask me to log in with an email address but not auto populate the login credentials that I had saved. It's very inconvenient to always have to make a new account because of the app not working properly. Other times the app just does not work, it says to log in and try again later.
-
-<br>
-
 > Thanks for fixing the login issues with this app. I was finally able to log back in after uninstalling and reinstalling it. This is once again a very good app that allows vets to check on appointments, refill meds, make and receive secure messages, etc. You can even see a record of all vaccinations administered through the VA.
 
 <br>
 
-Recommendation: 
 
 #### Travel claim submission problems (30)
 
-Several users reported difficulties with travel claim submissions, including the inability to find the travel claim feature within the app, problems with direct deposit information, and general frustration with the process.
+Several users reported difficulties with travel claims. Issues including the inability to find the travel claim feature within the app, problems with direct deposit information, and general frustration with the process.
 
 Representative responses:
 
-> The latest version of the app says a travel claim can be completed within the app, but in the health section, I do not see anywhere to submit a travel claim . Is it connected to a an appointment after the appointment is complete?
+> The latest version of the app says a travel claim can be completed within the app, but in the health section, I do not see anywhere to submit a travel claim. Is it connected to a an appointment after the appointment is complete?
 
 <br>
 
@@ -192,14 +207,21 @@ Representative responses:
 ### User pain points
 
 #### Login difficulties
+
 Many users struggle with the login process, citing issues with ID.me, two-factor authentication, and general difficulty remembering passwords. Some users also mention getting logged out or having to reauthenticate noting it as an inconveience. Login continues to be a major pain point, as it prevents users from accessing the app's features.
 
-<br> It has an option to keep you logged in, but it doesn't work. it requires a log in and 2 step verification EVERY TIME.
+< It has an option to keep you logged in, but it doesn't work. it requires a log in and 2 step verification EVERY TIME.
 
-Recommendation: Simplify the login process through native functionality promoting options like biometric options instead of MFA and retaining user login credentials. Login research including a temporary addition of a login issue survey for unathenticated users will allow the team to further gather data about the login issue root causes of app users in order to target key improvements the mobile app can target related to login. Provide links to clear instructions and support for users experiencing login issues.
+<br>
+
+> The app will let me log in with my biometrics for a few weeks and then randomly ask me to log in with an email address but not auto populate the login credentials that I had saved. It's very inconvenient to always have to make a new account because of the app not working properly. Other times the app just does not work, it says to log in and try again later.
+
+<br>
+
 
 #### Maintenance interupting service
-Even users with positive ratings tend to note issues with app access or activities during maintenace or updates.
+
+Even users with positive ratings tend to note issues with app access or activities during frequent maintenace or updates.
 
 > app is pretty good most id the time. have uploaded documents etc through app with no issues. updates tend to crash it but usually corrected within 24hrs.
 
@@ -211,38 +233,56 @@ Even users with positive ratings tend to note issues with app access or activiti
 
 > Half of the time it works great, other half is always under maintenance.
 
+<br>
+
 > This app is down for maintenance more than anything i've ever seen in my entire life. 
 
 <br>
 
-#### Clarity of information provided
-Users often share issues with getting the information they need that provides them with the relevant context in a concise manner.
 
-> it's not clear and concise and doesn't get to the subject without having to jump through all the links and discover the answers don't exist.
+#### Travel pay issue 
+
+With the newer release and marketing for the travel pay feature in the app, users reported difficulty finding it at all.
+
+> Don’t see where I can submit a travel claim. Also there is no option to anywhere to dispute an erroneous travel claim amount.
 
 <br>
+
+> VA is putting information out publicly about being able to make travel claims through this app. Well I’m here to tell you there is no such thing as making a travel claim on this app.
+
+<br>
+
+> This is a good first step but the travel claim limitation is a big disappointment.
+
+<br>
+
+> The latest version of the app says a travel claim can be completed within the app, but in the health section, I do not see anywhere to submit a travel claim.
+
+<br>
+
 
 ## Feature specific feedback
 | Feature | average rating | # of ratings |
 |--|--|--|
 | Navigation | 3.6 | 45 |
-| Login | 2.1 | 85 |
-| Disability rating | 4.2 | 10 |
+| Login | 1.5 | 85 |
 | Claims | 3.8 | 20 |
 | Letters and documents | 4.0 | 15 |
 | Profile | 4.1 | 8 |
 | Payments | 3.5 | 12 |
-| Travel Pay | 2.8 | 50 |
-| Messaging | 3.9 | 35 |
-| Prescriptions | 4.3 | 65 |
-| Appointments | | |
+| Travel Pay | 2.7 | 30 |
+| Messaging | 4.0 | 25 |
+| Prescriptions | 4.6 | 50 |
+| Appointments | 3.0 | 40 |
 
 
 ### Navigation
+
 | Feature | average rating | # of ratings |
 |--|--|--|
-| Navigation | 3.6 | 45 |
-Some users find the app easy to navigate, while others struggle to find specific features or information. Users often compare it to the structure of what they are familiar with using at the VA previously such as MyHealthEVet or Va.gov but after learning the app find it easy to navigate. 
+| Navigation | 4.2 | 60 |
+
+Navigation is often a strength of the app when mentioned in positive reviews while some users struggle to find specific features or information. Users often compare it to the structure of what they are familiar with using at the VA previously such as MyHealthEVet or Va.gov but after learning the app find it easy to navigate. 
 
 Representative responses:
 
@@ -266,10 +306,16 @@ Representative responses:
 
 <br>
 
+> Trying to navigate the app and knowing all the details in which to get my prescription setup at the VA has been a very long and trying task
+
+<br>
+
 ### Login
+
 | Feature | average rating | # of ratings |
 |--|--|--|
-|Login | 2.1 | 85 |
+|Login | 1.5 | 85 |
+
 Login issues are a significant pain point for many users, with some reporting difficulties with ID.me, two-factor authentication, and general login errors. Recent updates appear to have exacerbated these issues. Users that express positive login sentiment appreciate the easier methods of signing in native functionality offers and the fewer steps offered from the app. 
 
 Representative responses:
@@ -294,26 +340,17 @@ Representative responses:
 
 <br>
 
-### Disability rating
-| Feature | average rating | # of ratings |
-|--|--|--|
-| Disability rating | 4.2 | 10 |
-Users generally appreciate the ability to access their disability rating information through the app, finding it convenient and helpful.
-
-Representative responses:
-
-> Never keeps me signed in and I have 140% but only get 80% because the VA only allows people that pay lawyer's to get away with false claims allowing them a fake lifestyle. I can barley stand for a few hrs now still has to find a way to make ends meet for his new family and VA wants me to repay back pay for getting divorced in 2020 and went through mental trauma and seemed therapy from VA and that did help. VA has helped me out a lot, I'm just so mad that I have had to fight for what I am due.
+< cant login because how it's setup nothing is easy like it is on the website. Just use your biometrics on website so you dont remember password. deleted app instantly.
 
 <br>
 
-> very convenient for the keeping of award letters ..appointments and benefits..thanks
-
-<br>
 
 ### Claims
+
 | Feature | average rating | # of ratings |
 |--|--|--|
 | Claims | 3.8 | 20 |
+
 The app is good at tracking claims.
 
 Representative responses:
@@ -326,10 +363,13 @@ Representative responses:
 
 <br>
 
+
 ### Letters and documents
+
 | Feature | average rating | # of ratings |
 |--|--|--|
-| Letters and documents | 4.0 | 15 |
+| Letters and documents | 4.3 | 20 |
+
 Users often note that they appreciate access to letters and documents from the app. Issues reported in this area include difficulties with uploading or sending documents and the formatting of letters as barriers to viewing from their device. Users report having to reauthenticate in the middle of a task, and getting errors blocking their ability to complete needed uploads. 
 
 Representative responses:
@@ -350,15 +390,21 @@ Representative responses:
 
 <br>
 
+> You can check benefits, print your rating letter, look up your monthly disability payments, and send and receive messages to your VA Healthcare providers. You can also look up lab results, radiology reports and I believe you can download them to send to outside providers.
+
+<br> 
+
 ### Profile
+
 | Feature | average rating | # of ratings |
 |--|--|--|
 | Profile | 4.1 | 8 |
-The profile section is rated well.
+
+A few users mentioned desired improvements to the profile section of the app including a digital copy of the VA ID card.
 
 Representative responses:
 
-> Unable to log on. id.me not working
+> Great app, had an issue fixed the same day. Just a suggestion put a digital copy of the VA ID card on here.
 
 <br>
 
@@ -366,10 +412,13 @@ Representative responses:
 
 <br>
 
+
 ### Payments
+
 | Feature | average rating | # of ratings |
 |--|--|--|
 | Payments | 3.5 | 12 |
+
 The payment section is rated neutrally.
 
 Representative responses:
@@ -383,10 +432,12 @@ Representative responses:
 <br>
 
 ### Travel Pay
+
 | Feature | average rating | # of ratings |
 |--|--|--|
-| Travel Pay | 2.8 | 50 |
-Travel pay is a common pain point with the app. Users comment on it being hard to find, with an inability to track the status of the reimbursement, and at times an inability to complete the request.
+| Travel Pay | 2.7 | 30 |
+
+Travel pay functionality is desired but was noted as not working as needed. Users comment on it being hard to find, with an inability to track the status of the reimbursement, and at times an inability to complete the request. An issue impacting the travel pay API mid-August directly impacted users sentiment regarding travel pay this month.
 
 Representative responses:
 
@@ -395,10 +446,6 @@ Representative responses:
 <br>
 
 > It doesn’t allowed my tracking of travel reimbursement which is unfortunate.
-
-<br>
-
-> VA is putting information out publicly about being able to make travel claims through this app. Well I’m here to tell you there is no such thing as making a travel claim on this app. VA needs to remove all such information saying this until it’s proven that it is in the app to make a travel claim.
 
 <br>
 
@@ -423,12 +470,18 @@ Representative responses:
 <br>
 
 ### Messaging
+
 | Feature | average rating | # of ratings |
 |--|--|--|
-| Messaging | 3.9 | 35 |
+| Messaging | 4.0 | 25 |
+
 Messaging is a well appreciated feature in the app, however common complaints include not finding needed providers on the list to send messages to and a desire to remove messaging. Users noted changes in their provider list after recent updates loosing access to the providers they previously had and need, with no known avenue to request needed providers. 
 
 Representative responses:
+
+> "This is the easiest and best way to communicate with your primary team or specialty team."
+
+<br> 
 
 > Just update the app and now only Kansas City MO is showing for secure messaging. What a shame because the previous version did not have this problem
 
@@ -447,9 +500,11 @@ Representative responses:
 <br>
 
 ### Prescriptions
+
 | Feature | average rating | # of ratings |
 |--|--|--|
-| Prescriptions | 4.3 | 65 |
+| Prescriptions | 4.6 | 50 |
+
 Prescriptions are rated as a strength of the app, although Veterans still request additional functionality related to prescritions, or note that the grouping and flows are unintuitive. 
 
 Representative responses:
@@ -466,10 +521,6 @@ Representative responses:
 
 <br>
 
-> refilling my medication is very easy as opposed to how it used to be. great job VA! 👏
-
-<br>
-
 > The new format is not intuitive for requests and checking prescriptions. I manage, so not a complaint but an observation.
 
 <br>
@@ -483,6 +534,11 @@ Representative responses:
 <br>
 
 ### Appointments
+
+| Feature | average rating | # of ratings |
+|--|--|--|
+| Appointments | 3.0 | 40 |
+
 Appointments are a favorited feature by many app users who provided a positive rating for the app. Additions to appointment details would continue to add value to users, where users mentioned desiring to see the reason for the appointment, payment status, and more detailed address elements such as building names with room numbers.
 
 Representative responses:
@@ -492,10 +548,6 @@ Representative responses:
 <br>
 
 > Looking forward to whats to come. Would like to suggest having the word "Paid" under the appt, next to "Confirmed".
-
-<br>
-
-> One of the best apps I've used, never had any issues while using the app. I have noticed some appointments don't provide the reason for the appointment, would be nice if it did.
 
 <br>
 
@@ -529,9 +581,6 @@ Users mention the desire to reach someone knowledgeable about the app to assist 
 
 <br>
 
-#### Appointments
-Users desire more context about their appointments such as reason, provider, building details, and associated tasks that may be related to the appointment such as labs. 
-
 #### Dependent claims
 Users desire to track statuses of claims also related to their dependents.
 
@@ -539,7 +588,7 @@ Users desire to track statuses of claims also related to their dependents.
 
 <br>
 
-#### Notifications
+#### Notifications and Alerts (10)
 Users often rely on the app as a quick, accessible method to confirm details or take action on their benefits. Users also note a desire to recieve more proactive communication from the app through notifications.
 
 > Very rarely information. It also rarely pushes notifications.
