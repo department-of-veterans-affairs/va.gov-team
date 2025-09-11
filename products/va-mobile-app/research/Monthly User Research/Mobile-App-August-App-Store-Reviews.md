@@ -240,7 +240,7 @@ Even users with positive ratings tend to note issues with app access or activiti
 <br>
 
 
-#### Travel pay issue 
+#### Travel pay findability 
 
 With the newer release and marketing for the travel pay feature in the app, users reported difficulty finding it at all.
 
