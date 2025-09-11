@@ -39,5 +39,11 @@ This is a working file to begin to capture structured content for forms.
 - **CTA to online form:** An action link to the online version of the form (if available), such as "Apply online now." The current link label for this in About Form page template is "Go to the online tool," which is generic enough to be used across any form but also not great. Let's consider how to customize link label here.
 - **CTA to download form:** Download link to download the PDF version of the form from the Forms database.
 
+## After you submit the form
+
+- **What to expect after you apply: / Next step in process:** Note that some forms are simple in that you submit the form and then you get the decision from VA. Other forms are just the start of a multi-step process (ex. caregiver program). Let's consider how to address.
+- **When to expect a response:** We'll need to communicate when folks can expect to get their decision / next steps.
+- **How to check status of form/decision:** Thinking about this one in context of forms.
+- **What to do after you get your decision:** This is an interesting one in that it's connected to a benefit more than a "form" per se, but it's also part of the overall experience of submitting a form. Let's discuss.
  
 
