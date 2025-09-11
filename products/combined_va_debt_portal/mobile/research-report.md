@@ -123,13 +123,17 @@ synthesis_tools_used:
 
 
 
-# [Mobile App Debt Portal: Overpayments and Copayments] Research Findings 
+# Mobile App Debt Portal: Overpayments and Copayments Research Findings 
 
 **Office of the CTO - Digital Experience (OCTO-DE), Mobile App Debt Portal: Overpayments and Copayments, Mobile Feature Support**
 
 **Date:** 09-11-2025
 
-**Contacts:** Emily DeWan - Researcher, Natasha Huckleberry - Designer, Thomas Michaud - Designer
+**Contacts:** 
+- Emily DeWan - Researcher
+- Natasha Huckleberry - Designer
+- Thomas Michaud - Designer
+- Natalie Gibbons - Product Manager
 
 <!-----
 
@@ -137,6 +141,7 @@ synthesis_tools_used:
 *Add a link to your research readout deck, if available.*
 
 ----->
+
 
 
 **Jump to:**
@@ -177,6 +182,7 @@ Outcomes we were aiming to achieve:
 - Validate designs for viewing copays + overpayment debts
 - Determine when and how to add  functionality that enables Veterans to take action on copays and overpayment and be notified about new debts. 
 - Address and identify accessibility gaps (note: Due to prototype limitations, we likely will not identify all accessibility issues)
+
 
 
 ## Research Questions
@@ -263,6 +269,7 @@ Note on Accessibility: Due to prototype limitations, this study did not include 
     * When viewing full pages with information, users were fine with what was presented. They also often wanted to talk to someone first instead of reading through everything.
 
 
+
 ## Key Findings
 
 1. Despite their frustrations with the payment process on mobile, participants preferred having this option over a version that only allowed viewing debt and bills.
@@ -272,6 +279,7 @@ Note on Accessibility: Due to prototype limitations, this study did not include 
 5. Digital statements and documents are a core need for users.
 6. Separation of current and resolved debt is beneficial for clarity.
 7. Users want a clear, centralized way to manage their bills.
+
 
 
 
@@ -468,6 +476,7 @@ While the current experience for learning about new debt comes from physical let
 
 
 
+
 <!-----
 
 ## Additional Insights
@@ -475,6 +484,8 @@ While the current experience for learning about new debt comes from physical let
 > **TIP:** These could be powerful user comments or unexpected issues worth noting
 
 ----->
+
+
 
 
 ## Recommendations
@@ -548,6 +559,7 @@ While the current experience for learning about new debt comes from physical let
     - _7 out of 11 did not open the yellow alert accordion. Of those who did, all 4 were looking for additional information on taking those actions, which they did not find._
 
 
+
 ## Product User and Business Outcomes
 
 
@@ -601,6 +613,7 @@ We expect this to be a non-zero amount and want to track this as a metric to ass
 - How findings support the KPI: This research did not directly touch upon this KPI. However, the findings show that a few users were confused about some of the cards on the Payments page if they did not have experience with them in their real life (e.g. the payments made to them).
 
 
+
 ## Next Steps
 
 
@@ -622,12 +635,14 @@ We expect this to be a non-zero amount and want to track this as a metric to ass
 | Re-evaluate the alert accordion on the details page. Either make it clearly expandable with valuable content inside or replace it with a simple banner. | In progress | |
 
 
+
 ## Further research needed
 
 - Notifications: how do users want to be notified of new debts, new bills, and payments required?
 - Possibly exploring naming options for “Payments” to find something that is more encompassing of money owed to VA and money owed to the Veteran.
   - In a comparative analysis we conducted, we found that most apps did not group incoming and outgoing money together. The few that did used the terms "Transact" and "Transfer & Pay." [Read the full comparative analysis report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/mobile/Naming_Conventions_Report.md).
 - Testing with users of assistive technology after this is built in the app.
+
 
 
 ## Appendix
@@ -653,6 +668,9 @@ We expect this to be a non-zero amount and want to track this as a metric to ass
 
 - Prototype: [version with no payment option](https://www.figma.com/proto/kRA7JHbthNrSLxTQHrzH8T/MFS---Overpayments---Copays-%7C-VA-Mobile?page-id=2001%3A429&node-id=7274-61308&starting-point-node-id=7274%3A61308&scaling=min-zoom&content-scaling=fixed&show-proto-sidebar=1&hotspot-hints=0&t=908xt3WmHfQCvYYB-1) (Figma)
 - Prototype: [version with payment options](https://www.figma.com/proto/kRA7JHbthNrSLxTQHrzH8T/MFS---Overpayments---Copays-%7C-VA-Mobile?page-id=2001%3A429&node-id=7372-28070&starting-point-node-id=7372%3A28070&scaling=min-zoom&content-scaling=fixed&show-proto-sidebar=1&hotspot-hints=0&t=908xt3WmHfQCvYYB-1) (Figma)
+
+  _The prototype was tested on the Figma mobile app to accurately simulate leaving the app for an external browser and ensure no design elements were cropped_
+
 
 
 ### Secondary research
