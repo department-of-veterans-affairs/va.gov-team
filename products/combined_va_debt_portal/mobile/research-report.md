@@ -775,6 +775,11 @@ This research does not include the perspectives of the following marginalized Ve
 * Expat (living abroad)
 * Assistive technology users
 
+Veterans Whose Perspectives Were Underrepresented
+* Ages 55+
+* Cognitive disability
+* Black or African American
+
 Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers:
 ![Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/combined_va_debt_portal/mobile/supporting-files/VA%20Recruitment%20Checker.png)
 
