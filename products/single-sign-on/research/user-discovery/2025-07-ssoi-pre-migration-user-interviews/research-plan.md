@@ -39,7 +39,7 @@ Interviews will be conducted remotely via Teams.
 
 ## Research materials 📔
 
-- \[Conversation Guide\]
+- [Conversation Guide](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/single-sign-on/research/user-discovery/2025-07-ssoi-pre-migration-user-interviews/conversation-guide.md)
 
 ## Recruitment 🎯
 
