@@ -42,245 +42,134 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Get full history to track file age
+          fetch-depth: 50  # shallow history (≈recent changes) for performance
+          sparse-checkout: |
+            products
+            .github/workflows
+          sparse-checkout-cone: true
+          filter: blob:none  # partial clone keeps transfer minimal
 
       - name: Find eligible research files
         id: find-files
         run: |
-          # Track which files have already been shared
           SHARED_FILES_LOG=".github/workflows/shared-research-files.log"
-          mkdir -p "$(dirname "$SHARED_FILES_LOG")"
-          touch "$SHARED_FILES_LOG"
-          
-          # Check if manual run with specific file
+          mkdir -p "$(dirname "$SHARED_FILES_LOG")"; touch "$SHARED_FILES_LOG"
+          IGNORE_DELAY='${{ github.event.inputs.ignore_time_delay }}'
+          [ -z "$IGNORE_DELAY" ] && IGNORE_DELAY=false
+          match_target() { echo "$1" | grep -Eiq '(findings|report|insights)(\.md)$'; }
+          # If manual specific path provided, bypass discovery/age gating
           if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ -n "${{ github.event.inputs.research_file_path }}" ]; then
             RESEARCH_FILE="${{ github.event.inputs.research_file_path }}"
-            
-            # Check if file exists
             if [ -f "$RESEARCH_FILE" ]; then
-              echo "Manual run for specific file: $RESEARCH_FILE"
-              echo "eligible_files=$RESEARCH_FILE" >> $GITHUB_OUTPUT
-              echo "skip=false" >> $GITHUB_OUTPUT
+              echo "eligible_file=$RESEARCH_FILE" >> $GITHUB_OUTPUT; echo "skip=false" >> $GITHUB_OUTPUT
+              exit 0
             else
-              echo "Error: Specified file not found: $RESEARCH_FILE"
-              
-              # Try to find similar files
-              echo "Looking for similar files..."
-              SEARCH_DIR=$(dirname "$RESEARCH_FILE")
-              SEARCH_NAME=$(basename "$RESEARCH_FILE")
-              
-              if [ -d "$SEARCH_DIR" ]; then
-                echo "Files in $SEARCH_DIR:"
-                ls -la "$SEARCH_DIR" | grep -i "\.md$" || echo "No markdown files found"
-                
-                # Try case-insensitive search
-                SIMILAR_FILES=$(find "$SEARCH_DIR" -maxdepth 1 -iname "*$(echo $SEARCH_NAME | sed 's/[^a-zA-Z0-9]//g')*" -type f 2>/dev/null | head -5)
-                if [ -n "$SIMILAR_FILES" ]; then
-                  echo "Did you mean one of these?"
-                  echo "$SIMILAR_FILES"
-                fi
-              fi
-              
-              echo "skip=true" >> $GITHUB_OUTPUT
-              echo "error_message=File not found: $RESEARCH_FILE" >> $GITHUB_OUTPUT
-              exit 0  # Don't fail the workflow, just skip processing
+              echo "skip=true" >> $GITHUB_OUTPUT; echo "error_message=File not found: $RESEARCH_FILE" >> $GITHUB_OUTPUT; exit 0
             fi
+          fi
+          NOW_EPOCH=$(date +%s)
+          FIRST_FILE=""
+          while IFS= read -r f; do
+            match_target "$f" || continue
+            grep -Fxq "$f" "$SHARED_FILES_LOG" && continue
+            # Attempt to get last commit epoch (may fail if depth too shallow)
+            COMMIT_EPOCH=$(git log -1 --format=%ct -- "$f" 2>/dev/null || echo 0)
+            if [ "$COMMIT_EPOCH" -eq 0 ]; then
+              # Fallback to file modification time (stat) if commit not present in shallow clone
+              COMMIT_EPOCH=$(stat -c %Y "$f" 2>/dev/null || echo 0)
+            fi
+            [ "$COMMIT_EPOCH" -eq 0 ] && continue
+            AGE_DAYS=$(( (NOW_EPOCH - COMMIT_EPOCH) / 86400 ))
+            if [ "$IGNORE_DELAY" != "true" ] && [ $AGE_DAYS -lt 3 ]; then
+              continue
+            fi
+            FIRST_FILE="$f"; break
+          done < <(git ls-files 'products/**/*.md')
+          if [ -n "$FIRST_FILE" ]; then
+            echo "Discovered eligible file: $FIRST_FILE (age >= 3 days or delay ignored)"
+            echo "eligible_file=$FIRST_FILE" >> $GITHUB_OUTPUT; echo "skip=false" >> $GITHUB_OUTPUT
           else
-            # Rest of the automatic file finding logic...
-            # [Previous auto-discovery code here]
-            echo "skip=false" >> $GITHUB_OUTPUT
+            echo "skip=true" >> $GITHUB_OUTPUT; echo "error_message=No eligible files found" >> $GITHUB_OUTPUT
           fi
 
       - name: Process and share research findings
         if: steps.find-files.outputs.skip != 'true'
         id: process
         run: |
-          IFS=' ' read -ra FILES <<< "${{ steps.find-files.outputs.eligible_files }}"
-          
-          for RESEARCH_FILE in "${FILES[@]}"; do
-            if [ -n "$RESEARCH_FILE" ] && [ -f "$RESEARCH_FILE" ]; then
-              echo "Processing: $RESEARCH_FILE"
-              
-              # Extract key information from the research file with better error handling
-              TITLE=$(grep -m 1 "^# " "$RESEARCH_FILE" 2>/dev/null | sed 's/^# //' || echo "")
-              
-              # If no H1 title found, try H2
-              if [ -z "$TITLE" ]; then
-                TITLE=$(grep -m 1 "^## " "$RESEARCH_FILE" 2>/dev/null | sed 's/^## //' || echo "Research Findings")
-              fi
-              
-              echo "Title found: $TITLE"
-              
-              # Get key findings section with case-insensitive search
-              KEY_FINDINGS=""
-              
-              # Try multiple section patterns
-              for pattern in "Key findings" "Key Findings" "Summary" "Findings" "Results" "Insights"; do
-                if grep -qi "^##.*$pattern" "$RESEARCH_FILE" 2>/dev/null; then
-                  # Extract content between this section and the next section
-                  KEY_FINDINGS=$(awk -v pattern="$pattern" '
-                    BEGIN {IGNORECASE=1; found=0} 
-                    /^##.*'"$pattern"'/ {found=1; next} 
-                    found && /^##/ {exit} 
-                    found {print}
-                  ' "$RESEARCH_FILE" | head -20)
-                  
-                  if [ -n "$KEY_FINDINGS" ]; then
-                    break
-                  fi
-                fi
-              done
-              
-              # If still no findings, get content after title
-              if [ -z "$KEY_FINDINGS" ]; then
-                KEY_FINDINGS=$(awk 'NR>3 && NF>0 {print}' "$RESEARCH_FILE" | head -10)
-              fi
-              
-              # Clean up and truncate
-              KEY_FINDINGS=$(echo "$KEY_FINDINGS" | sed '/^$/d' | tr '\n' ' ' | sed 's/  */ /g')
-              if [ ${#KEY_FINDINGS} -gt 2000 ]; then
-                KEY_FINDINGS="${KEY_FINDINGS:0:1997}..."
-              fi
-              
-              echo "Key findings length: ${#KEY_FINDINGS}"
-              
-              # Get authors and dates
-              AUTHORS=$(git log --format='%an' "$RESEARCH_FILE" 2>/dev/null | sort -u | head -3 | paste -sd ", " -)
-              [ -z "$AUTHORS" ] && AUTHORS="Unknown"
-              
-              STUDY_DATE=$(git log -1 --format='%ai' "$RESEARCH_FILE" 2>/dev/null | cut -d' ' -f1)
-              [ -z "$STUDY_DATE" ] && STUDY_DATE=$(date '+%Y-%m-%d')
-              
-              # Extract product/team from path
-              PRODUCT_PATH=$(echo "$RESEARCH_FILE" | cut -d'/' -f2-3)
-              
-              # Save all variables for Slack notification
-              {
-                echo "RESEARCH_FILE=$RESEARCH_FILE"
-                echo "RESEARCH_TITLE=$TITLE"
-                echo "KEY_FINDINGS<<EOF"
-                echo "$KEY_FINDINGS"
-                echo "EOF"
-                echo "AUTHORS=$AUTHORS"
-                echo "STUDY_DATE=$STUDY_DATE"
-                echo "PRODUCT_PATH=$PRODUCT_PATH"
-              } >> $GITHUB_ENV
-              
-              # Set outputs for workflow
-              echo "RESEARCH_FILE=$RESEARCH_FILE" >> $GITHUB_OUTPUT
-              echo "RESEARCH_TITLE=$TITLE" >> $GITHUB_OUTPUT
-              echo "KEY_FINDINGS<<EOF" >> $GITHUB_OUTPUT
-              echo "$KEY_FINDINGS" >> $GITHUB_OUTPUT
-              echo "EOF" >> $GITHUB_OUTPUT
-              echo "AUTHORS=$AUTHORS" >> $GITHUB_OUTPUT
-              echo "STUDY_DATE=$STUDY_DATE" >> $GITHUB_OUTPUT
-              echo "PRODUCT_PATH=$PRODUCT_PATH" >> $GITHUB_OUTPUT
-              
-              # Only process one file per run
-              break
+          RESEARCH_FILE='${{ steps.find-files.outputs.eligible_file }}'
+          [ -z "$RESEARCH_FILE" ] || [ ! -f "$RESEARCH_FILE" ] && { echo "No valid research file to process."; exit 0; }
+          echo "Processing: $RESEARCH_FILE"
+          TITLE=$(grep -m 1 '^# ' "$RESEARCH_FILE" | sed 's/^# //' || true)
+          [ -z "$TITLE" ] && TITLE=$(grep -m 1 '^## ' "$RESEARCH_FILE" | sed 's/^## //' || echo 'Research Findings')
+          KEY_FINDINGS=""
+          for pattern in 'Key findings' 'Key Findings' 'Summary' 'Findings' 'Results' 'Insights'; do
+            if grep -qi "^##.*$pattern" "$RESEARCH_FILE"; then
+              KEY_FINDINGS=$(awk -v pattern="$pattern" 'BEGIN{IGNORECASE=1;f=0} /^##.*'"$pattern"'/{f=1;next} f&&/^##/{exit} f{print}' "$RESEARCH_FILE" | head -20)
+              [ -n "$KEY_FINDINGS" ] && break
             fi
           done
+          [ -z "$KEY_FINDINGS" ] && KEY_FINDINGS=$(awk 'NR>3 && NF>0 {print}' "$RESEARCH_FILE" | head -10)
+          KEY_FINDINGS=$(echo "$KEY_FINDINGS" | sed '/^$/d' | tr '\n' ' ' | sed 's/  */ /g')
+          [ ${#KEY_FINDINGS} -gt 2000 ] && KEY_FINDINGS="${KEY_FINDINGS:0:1997}..."
+          AUTHORS=$(git log --format='%an' "$RESEARCH_FILE" 2>/dev/null | sort -u | head -3 | paste -sd ', ' -)
+          [ -z "$AUTHORS" ] && AUTHORS="Unknown"
+          STUDY_DATE=$(git log -1 --format='%ai' "$RESEARCH_FILE" 2>/dev/null | cut -d' ' -f1)
+          if [ -z "$STUDY_DATE" ]; then
+            # Fallback to file mtime if commit not present
+            STUDY_DATE=$(date -d @$(stat -c %Y "$RESEARCH_FILE" 2>/dev/null || date +%s) +%Y-%m-%d)
+          fi
+          PRODUCT_PATH=$(echo "$RESEARCH_FILE" | cut -d'/' -f2-3)
+          {
+            echo "RESEARCH_FILE=$RESEARCH_FILE"
+            echo "RESEARCH_TITLE=$TITLE"
+            echo "KEY_FINDINGS<<EOF"; echo "$KEY_FINDINGS"; echo "EOF"
+            echo "AUTHORS=$AUTHORS"
+            echo "STUDY_DATE=$STUDY_DATE"
+            echo "PRODUCT_PATH=$PRODUCT_PATH"
+          } >> $GITHUB_ENV
+          echo "RESEARCH_FILE=$RESEARCH_FILE" >> $GITHUB_OUTPUT
+          echo "RESEARCH_TITLE=$TITLE" >> $GITHUB_OUTPUT
+          echo "KEY_FINDINGS<<EOF" >> $GITHUB_OUTPUT; echo "$KEY_FINDINGS" >> $GITHUB_OUTPUT; echo "EOF" >> $GITHUB_OUTPUT
+          echo "AUTHORS=$AUTHORS" >> $GITHUB_OUTPUT
+          echo "STUDY_DATE=$STUDY_DATE" >> $GITHUB_OUTPUT
+          echo "PRODUCT_PATH=$PRODUCT_PATH" >> $GITHUB_OUTPUT
+          echo "$RESEARCH_FILE" >> .github/workflows/shared-research-files.log
+
+      - name: Build Slack payload (success)
+        if: steps.find-files.outputs.skip != 'true' && steps.process.outputs.RESEARCH_FILE
+        id: build-slack-success
+        run: |
+          json_escape() { local s="$1"; s=${s//\\/\\\\}; s=${s//"/\\"}; s=${s//$'\n'/\\n}; s=${s//$'\r'/}; echo -n "$s"; }
+          TITLE='${{ steps.process.outputs.RESEARCH_TITLE }}'; PRODUCT_PATH='${{ steps.process.outputs.PRODUCT_PATH }}'; STUDY_DATE='${{ steps.process.outputs.STUDY_DATE }}'; AUTHORS='${{ steps.process.outputs.AUTHORS }}'; KEY_FINDINGS='${{ steps.process.outputs.KEY_FINDINGS }}'; [ -z "$KEY_FINDINGS" ] && KEY_FINDINGS='See full report for details'; FILE_PATH='${{ steps.process.outputs.RESEARCH_FILE }}'; REPO='${{ github.repository }}'; SHA='${{ github.sha }}'
+          if [ '${{ github.event_name }}' = 'workflow_dispatch' ]; then CONTEXT_MSG='🧪 _Test notification - not tracked as shared_'; else CONTEXT_MSG='✨ _Shared after 3-day revision period_'; fi
+          ESC_TITLE=$(json_escape "$TITLE"); ESC_PRODUCT=$(json_escape "$PRODUCT_PATH"); ESC_DATE=$(json_escape "$STUDY_DATE"); ESC_AUTHORS=$(json_escape "$AUTHORS"); ESC_FINDINGS=$(json_escape "$KEY_FINDINGS"); ESC_CTX=$(json_escape "$CONTEXT_MSG"); ESC_URL=$(json_escape "https://github.com/$REPO/blob/$SHA/$FILE_PATH")
+          PAYLOAD="{\"channel\":\"#research-ops\",\"text\":\"New Research Findings: $ESC_TITLE\",\"blocks\":[{\"type\":\"header\",\"text\":{\"type\":\"plain_text\",\"text\":\"📊 New Research Findings Available\",\"emoji\":true}},{\"type\":\"section\",\"fields\":[{\"type\":\"mrkdwn\",\"text\":\"*Study:*\\n$ESC_TITLE\"},{\"type\":\"mrkdwn\",\"text\":\"*Product Area:*\\n$ESC_PRODUCT\"},{\"type\":\"mrkdwn\",\"text\":\"*Date:*\\n$ESC_DATE\"},{\"type\":\"mrkdwn\",\"text\":\"*Authors:*\\n$ESC_AUTHORS\"}]},{\"type\":\"divider\"},{\"type\":\"section\",\"text\":{\"type\":\"mrkdwn\",\"text\":\"*Key Findings Preview:*\\n$ESC_FINDINGS\"}},{\"type\":\"divider\"},{\"type\":\"actions\",\"elements\":[{\"type\":\"button\",\"text\":{\"type\":\"plain_text\",\"text\":\"📖 Read Full Report\",\"emoji\":true},\"url\":\"$ESC_URL\",\"style\":\"primary\"}]},{\"type\":\"context\",\"elements\":[{\"type\":\"mrkdwn\",\"text\":\"$ESC_CTX\"}]}]}"
+          echo "payload=$PAYLOAD" >> $GITHUB_OUTPUT
 
       - name: Send Slack notification - Success
         if: steps.find-files.outputs.skip != 'true' && steps.process.outputs.RESEARCH_FILE
         uses: slackapi/slack-github-action@v1.26.0
         with:
-          payload: |
-            {
-              "channel": "#research-ops",
-              "text": "📊 New Research Findings Available: ${{ steps.process.outputs.RESEARCH_TITLE }}",
-              "blocks": [
-                {
-                  "type": "header",
-                  "text": {
-                    "type": "plain_text",
-                    "text": "📊 New Research Findings Available",
-                    "emoji": true
-                  }
-                },
-                {
-                  "type": "section",
-                  "fields": [
-                    {
-                      "type": "mrkdwn",
-                      "text": "*Study:*\n${{ steps.process.outputs.RESEARCH_TITLE || 'Research Findings' }}"
-                    },
-                    {
-                      "type": "mrkdwn",
-                      "text": "*Product Area:*\n${{ steps.process.outputs.PRODUCT_PATH }}"
-                    },
-                    {
-                      "type": "mrkdwn",
-                      "text": "*Date:*\n${{ steps.process.outputs.STUDY_DATE }}"
-                    },
-                    {
-                      "type": "mrkdwn",
-                      "text": "*Authors:*\n${{ steps.process.outputs.AUTHORS }}"
-                    }
-                  ]
-                },
-                {
-                  "type": "divider"
-                },
-                {
-                  "type": "section",
-                  "text": {
-                    "type": "mrkdwn",
-                    "text": "*Key Findings Preview:*\n${{ steps.process.outputs.KEY_FINDINGS || 'See full report for details' }}"
-                  }
-                },
-                {
-                  "type": "divider"
-                },
-                {
-                  "type": "actions",
-                  "elements": [
-                    {
-                      "type": "button",
-                      "text": {
-                        "type": "plain_text",
-                        "text": "📖 Read Full Report",
-                        "emoji": true
-                      },
-                      "url": "https://github.com/${{ github.repository }}/blob/${{ github.sha }}/${{ steps.process.outputs.RESEARCH_FILE }}",
-                      "style": "primary"
-                    }
-                  ]
-                },
-                {
-                  "type": "context",
-                  "elements": [
-                    {
-                      "type": "mrkdwn",
-                      "text": "${{ github.event_name == 'workflow_dispatch' && '🧪 _Test notification - not tracked as shared_' || '✨ _Shared after 3-day revision period_' }}"
-                    }
-                  ]
-                }
-              ]
-            }
+          payload: ${{ steps.build-slack-success.outputs.payload }}
         env:
-          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_USER_OAUTH_ACCESS_TOKEN }}
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_ACCESS_TOKEN_RSRCH_OPS }}
+
+      - name: Build Slack payload (error)
+        if: steps.find-files.outputs.skip == 'true' && steps.find-files.outputs.error_message && github.event_name == 'workflow_dispatch'
+        id: build-slack-error
+        run: |
+          json_escape() { local s="$1"; s=${s//\\/\\\\}; s=${s//"/\\"}; s=${s//$'\n'/\\n}; s=${s//$'\r'/}; echo -n "$s"; }
+          ERR='${{ steps.find-files.outputs.error_message }}'; ESC_ERR=$(json_escape "$ERR")
+          PAYLOAD="{\"channel\":\"#research-ops\",\"text\":\"Research File Not Found\",\"blocks\":[{\"type\":\"section\",\"text\":{\"type\":\"mrkdwn\",\"text\":\"❌ *Could not find the specified research file*\\n\\n$ESC_ERR\\n\\nPlease check the file path and try again.\"}}]}"
+          echo "payload=$PAYLOAD" >> $GITHUB_OUTPUT
 
       - name: Send Slack notification - Error
         if: steps.find-files.outputs.skip == 'true' && steps.find-files.outputs.error_message && github.event_name == 'workflow_dispatch'
         uses: slackapi/slack-github-action@v1.26.0
         with:
-          payload: |
-            {
-              "channel": "#research-ops",
-              "text": "❌ Research File Not Found",
-              "blocks": [
-                {
-                  "type": "section",
-                  "text": {
-                    "type": "mrkdwn",
-                    "text": "❌ *Could not find the specified research file*\n\n`${{ steps.find-files.outputs.error_message }}`\n\nPlease check the file path and try again."
-                  }
-                }
-              ]
-            }
+          payload: ${{ steps.build-slack-error.outputs.payload }}
         env:
-          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_USER_OAUTH_ACCESS_TOKEN }}
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_ACCESS_TOKEN_RSRCH_OPS }}
 
       - name: Commit tracking file
         if: steps.find-files.outputs.skip != 'true' && github.event_name != 'workflow_dispatch' && steps.process.outputs.RESEARCH_FILE
