@@ -65,7 +65,7 @@ Ok, great. I want you to know that today, I don’t want to add to any frustrati
   * If no: Use Slack to kindly ask the observers to leave the Zoom.  
   * If yes: Admit observers.
 
-Tip
+`Tip:`
 
 * Then, ask the notetaker and observers to give **a brief, camera-on introduction, like their first name and position with VA.gov**. (This is meant to humanize the interaction of observation for the participant.)  
 * Also ask the participant to give a brief introduction of themselves.  
@@ -86,7 +86,7 @@ If yes: **Once I start recording, I am going to confirm that you are okay with m
 
 ➡️ Start recording.
 
-Tip: After you start the recording, click the Show captions (CC) button to enable transcription for the recording.
+`Tip: After you start the recording, click the Show captions (CC) button to enable transcription for the recording.`
 
 * I have started recording. I'd like to confirm: Are you comfortable if I record my screen and the audio as we talk today?
 
@@ -109,6 +109,8 @@ Before we look at the form, let’s start with a couple of background questions.
 Thank you for sharing your experience. 
 
 We are now going to transition into testing a demo version of the Disability Benefits form.
+
+---
 
 ## GUIDE FOR CODESPACES
 
@@ -149,7 +151,8 @@ Go ahead and type your ”Full name“ as ”Leslie Jackson“ and click on ”S
 **We are now on what we call the Confirmation Page.** This is the page that we’d like your feedback on. The data on this page is not real, but we’d like to ask you to pretend that this is your data as Leslie. 
 
 → Continue to [Research Questions](?tab=t.0)  
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+---
 
 ## Research Questions
 
