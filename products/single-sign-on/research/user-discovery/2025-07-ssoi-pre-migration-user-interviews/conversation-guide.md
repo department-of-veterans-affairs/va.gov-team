@@ -21,7 +21,7 @@ My goal today is to understand your experience with implementing Siteminder, and
 ## Warm-up questions - 5 minutes
 
 - Can you tell me about yourself and the role you have with the VA?
-- Are there other applications are you currently responsible for besides
+- Are there other applications are you currently responsible for besides ________?
 - Ques about app (after research)
 - Do you anticipate it needing to scale?
 
@@ -49,7 +49,7 @@ My goal today is to understand your experience with implementing Siteminder, and
 
 - What is your current understanding of the migration to EntraID?
 - What questions or concerns do you have about the migration?
-- You answered on the survey when asked if your team has dedicated resources (e.g., developers, testers, support staff) available to participate in the migration process over the course of the migration.
+- You answered _________ on the survey when asked if your team has dedicated resources (e.g., developers, testers, support staff) available to participate in the migration process over the course of the migration.
 - Do you anticipate any changes to that in the next 6 – 8 months?
 - What expectations do you have about the migration experience?
 - What do you feel would be helpful for you and your team to prepare?
