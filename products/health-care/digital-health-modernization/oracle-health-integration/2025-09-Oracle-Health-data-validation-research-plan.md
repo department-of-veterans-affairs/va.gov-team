@@ -120,6 +120,11 @@ Veterans must have received care from a VAMC that has converted to Oracle Health
 
 ## Timeline
 
+### Kick-off Meeting
+- Friday afternoon, 9/12, or
+- Anytime Monday, 9/15
+
+
 ### Research Sessions
 Planned dates of research: Weeks of September 15th through October 10th
 
