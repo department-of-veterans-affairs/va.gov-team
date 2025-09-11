@@ -28,7 +28,17 @@ sequenceDiagram
     V-->>F: Return EDIPI if valid
     F-->>U: Route user to scheduling appointment
 
-    U->>F: Select appointment
+    F->>V: request agent skills
+    V->>S: GET agent skills
+    S-->>V: return agent skills
+    V-->>U: return agent skills
+    U->>U: Select agent skills to be used later when saving the appointment
+    U->>V: request available appointments
+    V->>S: GET appointment availability
+    S-->>V: return appointment availability
+    V-->>U: return appointment availability
+    U->>U: Select time slot
+
     F->>V: Submit appointment with EDIPI
     V->>S: passthrough appointment with EDIPI
     S-->>V: Appointment confirmed
