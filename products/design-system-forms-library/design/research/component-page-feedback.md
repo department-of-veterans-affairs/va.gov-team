@@ -7,7 +7,7 @@ This report synthesizes feedback from **four Design System users (Designers and 
 The goal was to understand:
 - What decisions users are trying to make when visiting a component page.  
 - How well the current documentation supports those decisions.  
-- How the component checklist (and maturity levels) are perceived and used. See the component checklist feedback report for more details on the component checklist.  
+- How the component checklist (and maturity levels) are perceived and used. See the [component checklist feedback report](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/design/research/component-checklist-feedback.md) for more details on the component checklist.  
 
 **Key themes include**: 
 - Reliance on Storybook for engineers
