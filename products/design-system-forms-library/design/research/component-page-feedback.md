@@ -130,7 +130,7 @@ The report also provides **direct quotes** to highlight user voices, a **role co
    - Assign ownership for screenshot/example updates.
 
 4. **Clarify Maturity Levels**
-   - Link top-level maturity directly to checklist items. ([See prototype)](https://dev-design.va.gov/4647/component-checklist/)
+   - Link top-level maturity directly to checklist items. ([See component checklist feedback repor)]([https://dev-design.va.gov/4647/component-checklist/](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/design-system-forms-library/design/research/component-checklist-feedback.md))
    - Provide explanations for why a component is labeled green, orange, or red.  
 
 5. **Support Web + Mobile Clarity**
