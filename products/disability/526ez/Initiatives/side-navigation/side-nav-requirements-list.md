@@ -1,4 +1,4 @@
-# Implementing the Side Navigation Component V1 - Requirements List
+# Side Navigation Component V1 - Requirements List
 _The following documentation lists out the user, functional, technical, and data requirements that we are uncovering for this initiative._ 
 
 - [Side Nav Super Epic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116289)
