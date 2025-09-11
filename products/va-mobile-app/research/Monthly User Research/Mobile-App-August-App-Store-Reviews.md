@@ -14,16 +14,16 @@ Feedback includes 357 total responses, each with a rating of 1-5. Ratings of 1-2
 | = 5 | 42.02% | 150 |
 
 ### Outline
-1. [General/other feedback](#generalother-feedback)
+[General/other feedback](#generalother-feedback)
 - [Positive](#positive)
 - [Negative](#negative)
 - [Neutral](#neutral)
 
-2. [Common themes](#common-themes)
+[Common themes](#common-themes)
 
-3. [User pain point](#user-pain-points)
+[User pain point](#user-pain-points)
 
-4. [Feature specific feedback](#feature-specific-feedback)
+[Feature specific feedback](#feature-specific-feedback)
 - [Navigation](#navigation)
 - [Login](#login)
 - [Disability rating](#disability-rating)
