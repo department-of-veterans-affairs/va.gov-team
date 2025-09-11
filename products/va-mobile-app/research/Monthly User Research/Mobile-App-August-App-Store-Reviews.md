@@ -1,4 +1,3 @@
-**IN PROGRESS**
 # Apple App Store & Google Playstore Feedback from the VA Health & Benefits App from August, 2025 
 ## Summary
 Feedback includes 357 total responses, each with a rating of 1-5. Ratings of 1-2 are considered negative, 3 represents neutral, and 4-5 are positive.
