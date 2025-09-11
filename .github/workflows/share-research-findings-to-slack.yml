@@ -133,11 +133,17 @@ jobs:
           KEY_FINDINGS=""
           for pattern in 'Key findings' 'Key Findings' 'Summary' 'Findings' 'Results' 'Insights'; do
             if grep -qi "^##.*$pattern" "$RESEARCH_FILE"; then
-              KEY_FINDINGS=$(awk -v pattern="$pattern" 'BEGIN{IGNORECASE=1;f=0} /^##.*'"$pattern"'/{f=1;next} f&&/^##/{exit} f{print}' "$RESEARCH_FILE" | head -20)
+              # Use awk internal counter to avoid SIGPIPE from head (was causing exit 141 with pipefail)
+              KEY_FINDINGS=$(awk -v pattern="$pattern" 'BEGIN{IGNORECASE=1;f=0;c=0} \
+                /^##.*'"$pattern"'/ {f=1;next} \
+                f && /^##/ {exit} \
+                f {print; if(++c>=20) exit}' "$RESEARCH_FILE")
               [ -n "$KEY_FINDINGS" ] && break
             fi
           done
-          [ -z "$KEY_FINDINGS" ] && KEY_FINDINGS=$(awk 'NR>3 && NF>0 {print}' "$RESEARCH_FILE" | head -10)
+          if [ -z "$KEY_FINDINGS" ]; then
+            KEY_FINDINGS=$(awk 'NR>3 && NF>0 {print; if(++c>=10) exit}' "$RESEARCH_FILE")
+          fi
           KEY_FINDINGS=$(printf '%s' "$KEY_FINDINGS" | sed '/^$/d' | tr '\n' ' ' | sed 's/  */ /g')
           if [ ${#KEY_FINDINGS} -gt 2000 ]; then
             KEY_FINDINGS_TRUNCATED=1
@@ -149,12 +155,13 @@ jobs:
           [ -z "$AUTHORS" ] && AUTHORS="Unknown"
           STUDY_DATE=$(git log -1 --format='%ai' "$RESEARCH_FILE" 2>/dev/null | cut -d' ' -f1 || true)
           if [ -z "$STUDY_DATE" ]; then
-            # Fallback to file mtime if commit not present
             STUDY_DATE=$(date -d @$(stat -c %Y "$RESEARCH_FILE" 2>/dev/null || date +%s) +%Y-%m-%d)
           fi
           PRODUCT_PATH=$(echo "$RESEARCH_FILE" | cut -d'/' -f2-3)
+          PREVIEW=${KEY_FINDINGS:0:200}
           echo "Preview of extracted findings (first 200 chars):"
-          echo "$KEY_FINDINGS" | head -c 200; echo ""; [ "$KEY_FINDINGS_TRUNCATED" -eq 1 ] && echo "(Truncated for Slack)"
+          echo "$PREVIEW"
+          [ "$KEY_FINDINGS_TRUNCATED" -eq 1 ] && echo "(Truncated for Slack)"
           {
             echo "RESEARCH_FILE=$RESEARCH_FILE"
             echo "RESEARCH_TITLE=$TITLE"
