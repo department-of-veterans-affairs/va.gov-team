@@ -273,7 +273,7 @@ With the newer release and marketing for the travel pay feature in the app, user
 | Claims | 4.67 | 3 |
 | Letters and documents | 4.2 | 5 |
 | Profile | 3.67 | 3 |
-| Payments | 3.5 | 12 |
+| Payments | 4.33 | 3 |
 | Travel Pay | 2.7 | 30 |
 | Messaging | 4.0 | 25 |
 | Prescriptions | 4.6 | 50 |
@@ -430,7 +430,7 @@ Representative responses:
 
 | Feature | average rating | # of ratings |
 |--|--|--|
-| Payments | 3.5 | 12 |
+| Payments | 4.33 | 3 |
 
 The payment section is rated neutrally.
 
@@ -441,6 +441,10 @@ Representative responses:
 <br>
 
 > trying to find how to make payments is hard
+
+<br>
+
+> It is a good app and very easy to use. You can't do everything with the app. The main things one would do can be started or completed in the app. You can check benefits, print your rating letter, look up your monthly disability payments, and send and receive messages to your VA Healthcare providers. You can also look up lab results, radiology reports and I believe you can download them to send to outside providers. It gets updated regularly for safety and security. Overall, I am happy with it.
 
 <br>
 
@@ -579,8 +583,8 @@ Representative responses:
 <br>
 
 ### Feature Enhancements
-#### App support
-Users mention the desire to reach someone knowledgeable about the app to assist them with a service the app provides, noting mixed success with call center agents and lack of knowledge from in-person staff at their local VA care centers.
+#### App support 
+Several users mention the desire to reach someone knowledgeable about the app to assist them with a service the app provides, noting mixed success with call center agents and lack of knowledge from in-person staff at their local VA care centers. 
 
 > initially there were quite a few technical glitches preventing me access. it took me a few tries to finally reach an agent that had the knowledge and expertise to help with the biometrics system. to this day I am appreciative of amount of help this application provides! keep up the good work 👍🏾
 
@@ -595,15 +599,19 @@ Users mention the desire to reach someone knowledgeable about the app to assist 
 <br>
 
 #### Dependent claims
-Users desire to track statuses of claims also related to their dependents.
+One user specifically desired the ability to track statuses of claims also related to their dependents.
 
 > It also doesn’t let me check the status of my wife’s ChampVA application which is very unfortunate and an oversight on this apps part I believe. It app is also referenced as the place to go to do these thing. 
 
 <br>
 
-#### Notifications and Alerts (10)
-Users often rely on the app as a quick, accessible method to confirm details or take action on their benefits. Users also note a desire to recieve more proactive communication from the app through notifications.
+#### Notifications and Alerts (2)
+Users often rely on the app as a quick, accessible method to confirm details or take action on their benefits. Several users noted a desire to recieve more proactive communication from the app through notifications.
 
 > Very rarely information. It also rarely pushes notifications.
+
+<br>
+
+> this app is one of very good things and helpfull info also alerts of refills ect. Thanks to the devs for this and making our(veterans and family) life easier.
 
 <br>
