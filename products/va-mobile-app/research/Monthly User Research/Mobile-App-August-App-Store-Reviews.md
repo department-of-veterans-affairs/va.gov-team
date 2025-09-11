@@ -162,7 +162,7 @@ Users often share short, generalized impressions of the app in reviews. With the
 
 <br>
 
-< It is a good app and very easy to use. You can't do everything with the app. The main things one would do can be started or completed in the app.
+> It is a good app and very easy to use. You can't do everything with the app. The main things one would do can be started or completed in the app.
 
 <br>
 
