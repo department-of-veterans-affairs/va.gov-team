@@ -160,8 +160,6 @@ Go ahead and type your ”Full name“ as ”Leslie Jackson“ and click on ”S
 
 **We are now on what we call the Confirmation Page.** This is the page that we’d like your feedback on. The data on this page is not real, but we’d like to ask you to pretend that this is your data as Leslie. 
 
-→ Continue to [Research Questions](?tab=t.0)  
-
 ---
 
 ## Research Questions
