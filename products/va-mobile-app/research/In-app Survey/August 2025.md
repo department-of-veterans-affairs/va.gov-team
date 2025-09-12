@@ -207,63 +207,94 @@ Brief sentence explaining pain point, noting scale of that pain point (# of revi
 Recommendation: 1-2 sentences of recommendations that could improve this pain point.
 
 ## Feature specific feedback
-| Feature | average rating | # of ratings |
-|--|--|--|
-| Navigation | # | # |
-| Login | # | # |
-| Disability rating | # | # |
-| Claims | # | # |
-| Letters and documents | # | # |
-| Profile | # | # |
-| Payments | # | # |
-| Travel Pay | # | # |
-| Messaging | # | # |
-| Prescriptions | 4.36 | 128 |
-| Appointments | # | # |
+| Feature | # of ratings |
+|--|--|
+| Navigation | 2 |
+| Login | 25 |
+| Disability rating | # |
+| Claims | # |
+| Letters and documents | # |
+| Profile | # |
+| Payments | # |
+| Travel Pay | # |
+| Messaging | # |
+| Prescriptions | 128 |
+| Appointments | # |
 
 ### Navigation
-| Feature | average rating | # of ratings |
-|--|--|--|
-| Navigation | # | # |
-1-2 sentences summarizing the sentiment of the area.
+| Feature | # of ratings |
+|--|--|
+| Navigation | 2 |
+2 comments this month noted the ease of the app navigation.
 
 Representative responses:
 
-> Quote.
+> It is so convenient and easy to navigate.  I appreciate the new updated format.
 
 <br>
 
-> Quote.
+> It’s easy to navigate and convenient
 
 <br>
 
-#### Common themes
-
-#### User pain points
-
-#### Feature enhancements
 
 ### Login
-| Feature | average rating | # of ratings |
+| Feature | # of ratings |
 |--|--|--|
-|Login | # | # |
-1-2 sentences summarizing the sentiment of the area.
+|Login | 25 |
+Login continues to be a user pain point and 7 responses this month specifically mention problems with login making it difficult to even enter the app. The negative sentiment around login mentions the complexity of the process, biometric login failure, having to sign in too often, and saved password functionality not working. Despite the challenges, some users still find the new setup better than previous versions and easier to sign in.
 
 Representative responses:
 
-> I love the app except for one thing: if you are in the prescription portion of the app, it takes five steps to sign out of the app.
+> I love the VA app! The secure messaging, prescription refill requests, and disability claim information all in one spot is absolutely amazing! And I can sign into it with my face! Great job dev team!
 
 <br>
 
-> Quote.
+> I am so happy that you got the sign-in fixed.  I hated having to sign-in on the app and then having to do it all again.  It was taking me 15 minutes to request a refill or send a message.
+
+<br>
+
+> Very difficult to login for 78 year old with mental memory issues.
+
+<br>
+
+> The app does not use facial ID on most attempts to login. Only about 20% of the time does it work. Thank you.
+
+<br>
+
+> Usually have to go through entering the code several times before finally getting in the app. Sometimes I don't get in at all.
+
+<br>
+
+> Seems to work well. Haven’t had any bad issues. Only issue I have is the Face ID seems to reset and I can’t use it  which makes me have to look up my password and sometimes I can’t at the time. In one case it caused me to not get my script entered in time and I went without my meds for a few days. But most of that’s on me   It’s still irritating how many times the Face ID won’t work.
+
+<br>
+
+> Would like a longer time frame before having to re-sign in (manually vs the app using Face ID)
+
+<br>
+
+> "You can't copy to the clipboard the 6 digit number code all by itself.
+You have to copy the whole spiel of the text, then compose a message and using that text then before sending it off you can then copy only the 6 digit code. The take the copied 6 digit code and enter to finish the verification. This seems like a crazy process to perform to copy 6 digits for verification. "
 
 <br>
 
 #### Common themes
+1. **Biometrics:** When it works users appreciate the improved sign in experience from the app using native functionality such as biometric login, however several users reported issues with these biometrics working only part of the time.
+
+2. **Number of steps:** Users often express difficulty with the multi-factor authentication process increasing the number of steps required to login compared to previous signin methods.
 
 #### User pain points
+1. **Complexity and Multiple Steps:** Users express frustration with the login process requiring too many steps and taking significantly longer than before.
+
+2. **Biometric Login Inconsistency:** Some users report that facial ID login is unreliable, working only some of the time.
+
+3. **Multi-factor authentication codes:** There's a suggestion for an enhancement to automatically copy and paste codes sent via text for a smoother login experience.
+
 
 #### Feature enhancements
+1. **Biometric improvements:** Investigate biometric failure rates to improve biometric consistency.
+2. **Retain login credentials:** Reduce the frequency in which users are required to sign in by retaining previous login credentials. 
 
 ### Disability rating
 | Feature | average rating | # of ratings |
