@@ -36,7 +36,7 @@ Feedback includes 244 total responses, each with a rating ranging from not at al
 - [Travel pay](link)
 - [Messaging](link)
 - [Prescriptions](link)
-- [Feedback enhancements](link)
+- [Other enhancements](link)
 
 ## General/other feedback
 Note: General feedback includes responses that reflect Veteran experiences with their healthcare teams, or the VA in general and may not specifically be related to the VA Health and Benefits app. 
@@ -50,6 +50,7 @@ The survey results reveal a high-level of user satisfaction with the service wit
 |--|--|--|
 | = Very satisfied | 64.34% | 157 |
 | = Satisfied | 20.08% | 49 |
+
 The survey results reveal a high-level of user satisfaction with the service with over 84% of responses rating their experience as positive. The significant majority of postive reviews (136) related more to user overall app experience due to ease of use, conveience, and functionality. 32 positive reviews specifically related to prescriptions often due to the service itself being both quick, easy, and conveient through the mobile app. 
 
 Representative responses:
@@ -79,6 +80,7 @@ Representative responses:
 |--|--|--|
 | = Dissatisfied | 3.28% | 8 |
 | = Not at all satisfied | 2.05% | 5 |
+
 We had very few users reporting a negative experience about the app. Most negative ratings were directly tied to either prescriptions (5) or login (6). Reasons for negative ratings were mostly due to lack of functionality or information needed, login not working as expected or disliking the new login process, and some issues making it harder for veterans to manage multiple scripts or copy/paste content.  
 
 
@@ -108,6 +110,7 @@ You have to copy the whole spiel of the text, then compose a message and using t
 | Rating | % of ratings | # of ratings |
 |--|--|--|
 | = Neither satisfied or dissatisfied | 5.33% | 13 |
+
 General app feedback that was received with neutral ratings was due to desiring other functionality such as education benefits or more medical information. Some individual comments noted it was  difficult to use, or that functionality was not working as it should such as login biometrics. About half of the neutral ratings were directly related to prescriptions with requests such as automating refills, confusion over frequent refill messages, feeling as if there were too many steps, or not receiving ordered medications at all.
 
 Representative responses:
@@ -134,21 +137,67 @@ Representative responses:
 
 ### Common themes
 
-#### Theme name (# of responses)
+#### General satisfaction (86 responses)
 
-1-2 sentences describing the theme.
+Many users expressed overall satisfaction with the app. 
 
 Representative responses:
 
-> Quote.
+> I love the app there is so much you can do with the app without having to contact anyone.
 
 <br>
 
-> Quote.
+> I think the app is super helpful and easy to use. I’m very happy with it.
 
 <br>
 
-Recommendation: Where applicable, 1-2 sentences of recommendations for to investigate, improve, or mitigate this theme.
+#### Ease of use (74 responses)
+
+Users love the ease of use of not only the mobile app holistically but also key features within the app such as prescriptions or messaging, with a few individuals mentioning navigation was easy, or seeing improvements that simplified login.
+
+Representative responses:
+
+> I have nothing but good things to say about the app and the VA since I've been using it for the last few months. The app is very easy to you and is NOT cumbersome by any means
+
+<br>
+
+> Love this app! It makes things so much easier. Especially for some of us who don’t really like speaking on the phone.
+
+<br>
+
+> I really like the app regarding how everything is organized and easy to use. Extremely convenient with monitoring my medications, messages, and appointments. Also really like the ability to access all letters and proof of veteran status and benefits.
+
+<br>
+
+> I love the VA app! The secure messaging, prescription refill requests, and disability claim information all in one spot is absolutely amazing! And I can sign into it with my face! Great job dev team!
+
+<br>
+
+#### Content (20)
+
+Users often request additional information they wish they received from the app. Some noting confusion over labels, or desiring content in different locations. Several users noted that they felt like the app was easy to understand and being scannable. 
+
+> Team names for Messages need changed Only VA staff members understand what those teams are Make them simpler to understand for the veterans themselves.
+
+<br>
+
+> It would be helpful if the app would tell you what the appointment is not just a room # I would like to be able to be prepared.
+
+<br>
+
+> Don’t understand why certain prescriptions aren’t shown for refill. RX and RX aren’t shown on my refill list.
+
+<br>
+
+> Regarding appointments, you tell me everything I need to know about the appointment except for who it’s with and which department regarding prescriptions. All I wanna know is if it’s been sent why is that so hard to find?
+
+<br>
+
+> Easy to use, easy to reach out to providers. I would like a better option when selecting the department to reach the right people to address concerns. Also, it would be great to actually have a conversation with the Doctor or Primary Physician I’m seeing respond to my questions instead of a nurse or assistant. 
+
+<br>
+
+#### Functionality 
 
 ### User pain points
 
@@ -188,6 +237,12 @@ Representative responses:
 
 <br>
 
+#### Common themes
+
+#### User pain points
+
+#### Feature enhancements
+
 ### Login
 | Feature | average rating | # of ratings |
 |--|--|--|
@@ -203,6 +258,12 @@ Representative responses:
 > Quote.
 
 <br>
+
+#### Common themes
+
+#### User pain points
+
+#### Feature enhancements
 
 ### Disability rating
 | Feature | average rating | # of ratings |
@@ -220,6 +281,12 @@ Representative responses:
 
 <br>
 
+#### Common themes
+
+#### User pain points
+
+#### Feature enhancements
+
 ### Claims
 | Feature | average rating | # of ratings |
 |--|--|--|
@@ -235,6 +302,12 @@ Representative responses:
 > Quote.
 
 <br>
+
+#### Common themes
+
+#### User pain points
+
+#### Feature enhancements
 
 ### Letters and documents
 | Feature | average rating | # of ratings |
@@ -252,6 +325,12 @@ Representative responses:
 
 <br>
 
+#### Common themes
+
+#### User pain points
+
+#### Feature enhancements
+
 ### Profile
 | Feature | average rating | # of ratings |
 |--|--|--|
@@ -267,6 +346,12 @@ Representative responses:
 > Quote.
 
 <br>
+
+#### Common themes
+
+#### User pain points
+
+#### Feature enhancements
 
 ### Payments
 | Feature | average rating | # of ratings |
@@ -284,6 +369,12 @@ Representative responses:
 
 <br>
 
+#### Common themes
+
+#### User pain points
+
+#### Feature enhancements
+
 ### Travel Pay
 | Feature | average rating | # of ratings |
 |--|--|--|
@@ -299,6 +390,12 @@ Representative responses:
 > Quote.
 
 <br>
+
+#### Common themes
+
+#### User pain points
+
+#### Feature enhancements
 
 ### Messaging
 | Feature | average rating | # of ratings |
@@ -316,6 +413,12 @@ Representative responses:
 
 <br>
 
+#### Common themes
+
+#### User pain points
+
+#### Feature enhancements
+
 ### Prescriptions
 | Feature | average rating | # of ratings |
 |--|--|--|
@@ -332,7 +435,13 @@ Representative responses:
 
 <br>
 
-### Feature Enhancements
+#### Common themes
+
+#### User pain points
+
+#### Feature enhancements
+
+### Other Enhancements
 1-2 sentences summarizing requested feature enhancement w/ supporting evidence.
 
 Representative responses:
