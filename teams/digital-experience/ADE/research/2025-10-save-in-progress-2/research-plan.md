@@ -38,7 +38,7 @@ Veterans may use web forms on VA.gov throughout ALL stages of the Veteran Journe
   
 ### Outcome
 
-Findings and recommendations from this research will **inform design guidance and documentation for the "save in progress" feature** for authenticated users filling out forms on VA.gov. 
+Findings and recommendations from this research will **inform design guidance and documentation  for the "save in progress" feature** (i.e., a documented pattern in the VA Design System) for authenticated users filling out forms on VA.gov. 
 
 
 ### Research questions
