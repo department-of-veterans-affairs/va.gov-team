@@ -119,46 +119,57 @@
 
 >**Derrick Ellerbie**
 >  Wednesday at 12:48 PM
+>
 >Joshua Faulkner We received a 400 Bad Request at Sep 10 12:42:14.729. Are you able to give us some details on what the error could be?
 >
 >**Derrick Ellerbie**
 >  Wednesday at 12:49 PM
+>
 >This is from the associations api response
 >
 >**Derrick Ellerbie**
 >  Wednesday at 12:51 PM
+>
 >DD Trace for reference
 >
 >**Joshua Faulkner**
 >  Wednesday at 12:57 PM
+>
 >from String \"SPOUSE\": not one of the values accepted for Enum class:
 >
 >**Joshua Faulkner**
 >  Wednesday at 12:58 PM
+>
 >same thing as before, there is disconnect on allowed values of relationship
 >
 >**Joshua Faulkner**
 >  Wednesday at 12:58 PM
+>
 >it needs to be husband or wife, not spouse
 >
 >**Joshua Faulkner**
 >  Wednesday at 12:58 PM
+>
 >[BROTHER, CHILDINLAW, MOTHER, SISTER, DAUGHTER, UNRELATED_FRIEND, EXTENDED_FAMILY_MEMBER, STEPCHILD, WIFE, SON, NIECE_NEPHEW, HUSBAND, FATHER, GRANDCHILD, WARD]
 >
 >**Derrick Ellerbie**
 >  Wednesday at 12:59 PM
+>
 >We do not allow the user to choose "SPOUSE" in our application: https://github.com/department-of-veterans-affairs/vets-json-schema/blob/master/dist/10-10EZR-schema.json#L1235-L1254
 >
 >**Derrick Ellerbie**
 >  Wednesday at 12:59 PM
+>
 >Is it possible that this value was set on VES side when we call get_associations api?
 >
 >**Joshua Faulkner**
 >  Wednesday at 1:00 PM
+>
 >that is possible
 >
 >**Joshua Faulkner**
 >  Wednesday at 1:00 PM
+>
 >let me see if i can find the identifier for that person
 >
 >**Derrick Ellerbie**
@@ -167,97 +178,119 @@
 >
 >**Joshua Faulkner**
 >  Wednesday at 1:04 PM
+>
 >its set to extended_family_member currently, not sure where spouse is coming from
 >
 >**Derrick Ellerbie**
 >  Wednesday at 1:08 PM
+>
 >Is this on their emergency contacts or next of kins?
 >
 >**Joshua Faulkner**
 >  Wednesday at 1:08 PM
+>
 >i see what the problem is, there is a mismatch between old and new relationship values
 >
 ><img width="501" height="334" alt="image" src="https://github.com/user-attachments/assets/25d4b3d2-17c5-42a3-b10f-f13641774f6f" />
-
 >
 >**Joshua Faulkner**
 >  Wednesday at 1:10 PM
+>
 >seems like its taking relationship but putting it back into the relationType on its way back in
 >
 >**Derrick Ellerbie**
 >  Wednesday at 1:10 PM
+>
 >ahh I see. We send back relationType to the update API and not relationship
 >
 >**Joshua Faulkner**
 >  Wednesday at 1:12 PM
+>
 >the relationship is the old 'free text' field, before these were standardized into enum restriction a few years ago
 >
 >**Derrick Ellerbie**
 >  Wednesday at 1:12 PM
+>
 >Can you tell if this was marked for deletion when we called the update API? (edited) 
 >
 >**Joshua Faulkner**
 >  Wednesday at 1:13 PM
+>
 >it did not delete anything, it was rejected at the validation at the front door, the associates on that record are unchanged, last updated in 2022.
 >
 >**Derrick Ellerbie**
 >  Wednesday at 1:13 PM
+>
 >But in the request data that we sent to the update API, are you able to see if we sent the deleteIndicator attribute with this relationship (edited) 
 >
 >**Joshua Faulkner**
 >  Wednesday at 1:17 PM
+>
 >no, i can just see the reason of the error, it won't log the full request until it gets past that part of it
 >
 >**Derrick Ellerbie**
 >  Wednesday at 1:24 PM
+>
 >Okay thank you. I'm not sure what we can do on our side to fix these fundamental data validation issues. We released a patch to set default values for relationType name and role when those data points are missing when we call get_associations API. But now it looks >like we have to choose a relationType for the user if it's not in the enum. Heather Justice I will need some input on how we should handle this
 >
 >**Derrick Ellerbie**
 >  Wednesday at 1:26 PM
+>
 >It looks like that wouldn't resolve this issue either, since we are not sending SPOUSE to VES, this looks like something VES is doing @Joshua Faulkner?
 >
 >**Joshua Faulkner**
 >  Wednesday at 1:42 PM
+>
 >it is sending SPOUSE, its getting it from the wrong place in the GET it appears
 >
 >**Joshua Faulkner**
 >  Wednesday at 1:43 PM
+>
 >the relationship value that is sent from the retrieve should not be used, just the relationType
 >
 >**Derrick Ellerbie**
 >  Wednesday at 1:43 PM
+>
 >Okay yes we do check for the relationship value first, and then relationType , and then we set a default value if all of those are blank
 >
 >**Derrick Ellerbie**
 >  Wednesday at 1:44 PM
+>
 >So you're saying to completely ignore the relationship values from now on? (edited) 
 >
 >**Joshua Faulkner**
 >  Wednesday at 1:45 PM
+>
 >right, that free text field is provided in the api in case the relationtype is null, it would provide some info on what it is meant to be, but it should not be used directly back in, in this case it probably should not be read at all and just left for the user to >provide it if there is not currently a relationType set.
 >
 >**Derrick Ellerbie**
 >  Wednesday at 1:45 PM
+>
 >Code for reference https://github.com/department-of-veterans-affairs/vets-api/blob/master/lib/form1010_ezr/veteran_enrollment_system/associations/reconciler.rb#L93
 >
 >**Derrick Ellerbie**
 >  Wednesday at 1:45 PM
+>
 >Okay, I will make an adjustment to not read this relationship value
 >
 >**Joshua Faulkner**
 >  Wednesday at 1:46 PM
+>
 >backstory of this, is that it used to be all free text, we converted them to standard values a few years ago, and that free text field remained there static, but some of them could not be converted to a standard value and we left it there for historical purposes.
 >
 >**Derrick Ellerbie**
 >  Wednesday at 1:46 PM
+>
 >Is it still possible that relationType will have values that aren't in the enum?
 >
 >**Joshua Faulkner**
 >  Wednesday at 1:47 PM
+>
 >no, that should be impossible, but it is possible it could be null.
 >
 >**Derrick Ellerbie**
 >  Wednesday at 1:47 PM
+>
 >Thank you, I will get this fixed
 >
 </details>
