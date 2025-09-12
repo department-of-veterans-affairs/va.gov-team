@@ -138,7 +138,7 @@ This work is requested by Design Lead (Lois Lewis) based on identified user need
 - Development completion: [TBD]
 - Staged rollout beginning: [TBD]
 
-* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) - TBD
+* [Link to Release Plan for this Initiative] - TBD
 
 #### Initiative Launch Dates
 
@@ -150,7 +150,11 @@ This work is requested by Design Lead (Lois Lewis) based on identified user need
 ## Screenshots
 
 ### Before
-[Screenshots of current MyVA healthcare section and form introduction page status display]
+- MyVA dashboard showing application saved with "Draft" label (not yet submitted)
+     - <img width="470" height="268" alt="image" src="https://github.com/user-attachments/assets/db619667-c400-4465-baa4-7543d93aeb16" />
+
+- Alerts that display on 10-10EZ for various statuses
+     - [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1683651181051/e0f47b9aaefbf78a3942df3028525cdc4336caff)
 
 ### After
 [Mockups of enhanced status display on personalized pages]
@@ -163,10 +167,10 @@ This work is requested by Design Lead (Lois Lewis) based on identified user need
 
 <details>
 
-- Team Name: [Health Applications Team]
-- GitHub Label(s): [1010-team, 10-10ezr, 1010-form-status]
-- Slack channel: [1010-health-apps]
-- Product POCs: [Heather Justice]
+- Team Name: Health Applications Team
+- GitHub Label(s): 1010-team, 10-10ez, 1010-form-status
+- Slack channel: 1010-health-apps
+- Product POCs: Heather Justice
 
 </details>
 
@@ -176,11 +180,11 @@ This work is requested by Design Lead (Lois Lewis) based on identified user need
 
 <details>
 
-- Office/Department: OCTO-DE MyVA Team / Personalization
-- Contact(s): [TBD]
+- Office/Department: OCTO-DE Product Owner
+- Contact(s): Patrick Bateman, Premal Shah
 
 - Office/Department: VA Healthcare Enrollment & Eligibility
-- Contact(s): [Angela Fulton, Simone Gully, Amanda Scully, April Mims]
+- Contact(s): Angela Fulton, Simone Gully, Amanda Scully, April Mims
 
 </details>
 
