@@ -6,11 +6,11 @@ Feedback includes x total responses, each with a rating of 1-5. Ratings of 1-2 a
 
 | Rating | % of ratings | # of ratings |
 |--|--|--|
-| = 1 | % | # |
-| = 2 | % | # |
-| = 3 | % | # |
-| = 4 | % | # |
-| = 5 | % | # |
+| = Very satisfied | % | # |
+| = Satisfied | % | # |
+| = Neither satisfied or dissatisfied | % | # |
+| = Dissatisfied | % | # |
+| = Not at all satisfied | % | # |
 
 ### Outline
 1. [General/other feedback](link)
@@ -45,8 +45,8 @@ Note: General feedback includes responses that reflect Veteran experiences with 
 
 | Rating | % of ratings | # of ratings |
 |--|--|--|
-| = 4 | % | # |
-| = 5 | % | # |
+| = Very Satisfied | % | # |
+| = Satisfied | % | # |
 1-2 sentences describing the general positive sentiment.
 
 Representative responses:
@@ -62,8 +62,8 @@ Representative responses:
 ### Negative
 | Rating | % of ratings | # of ratings |
 |--|--|--|
-| = 1 | % | # |
-| = 2 | % | # |
+| = Dissatisfied | % | # |
+| = Not at all satisfied | % | # |
 1-2 sentences describing the general negative sentiment.
 
 Representative responses:
@@ -79,7 +79,7 @@ Representative responses:
 ### Neutral
 | Rating | % of ratings | # of ratings |
 |--|--|--|
-| = 3 | % | # |
+| = Neither satisfied or dissatisfied | % | # |
 1-2 sentences describing the general neutral sentiment.
 
 Representative responses:
