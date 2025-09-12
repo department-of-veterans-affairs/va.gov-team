@@ -251,7 +251,7 @@ Representative responses:
 
 Representative responses:
 
-> Quote.
+> I love the app except for one thing: if you are in the prescription portion of the app, it takes five steps to sign out of the app.
 
 <br>
 
@@ -423,7 +423,7 @@ Representative responses:
 | Feature | average rating | # of ratings |
 |--|--|--|
 | Prescriptions | 4.36 | 128 |
-Users generally rated prescriptions highly, for the process being easy, conveient, and quick. Users appreciate the ability to submit refill requests directly within the app and find the overall process to be working well. There are several improvements they requested related to surfacing missing information, adding medications (when medication doesn't show up on the list), surfacing the tracking infromation directly from the refill page, and 
+Users generally rated prescriptions highly, for the process being easy, conveient, and quick. Users appreciate the ability to submit refill requests directly within the app and find the overall process to be working well. There are still some noted user pain points that could be mitigated and enhancements requests that could be added to improve this service from the mobile app for Veterans. 
 
 Representative responses:
 
@@ -483,7 +483,17 @@ Representative responses:
 4. **Expired Refills:** Users desire a better way to request refills for expired prescriptions, with the app then forwarding the request to medical staff.
 
 #### Feature enhancements
-1. 
+1. **In-App Pharmacist Communication:** Provide a secure and convenient way for users to communicate directly with their pharmacist through the app, especially for questions about off-list or changed medications.
+
+2. **Expired Refill Requests:** Allow users to initiate refill requests for expired prescriptions within the app direct to their provider. Route these requests to the appropriate medical staff for review and approval.
+
+3. **Streamlined Refill Process:** Reduce the number of steps required to request a prescription refill.
+
+4. **Detailed Prescription Status:** In prescription statuses include whether they have been ordered, when the last order was placed, and estimated delivery dates.
+
+5. **Medication Purpose and Dosage:** Clearly display the purpose of each medication and the prescribed dosage within the app.
+
+6. **Full Medication List Visibility:** Ensure that all medications prescribed to a user are visible within the app, regardless of whether they are currently available for refill. This would allow users to have a complete overview of their prescriptions.
 
 ### Other Enhancements
 1-2 sentences summarizing requested feature enhancement w/ supporting evidence.
