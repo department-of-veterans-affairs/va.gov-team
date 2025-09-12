@@ -25,17 +25,16 @@ A veteran uploads evidence at 10:18 PM EDT on August 15, 2025. In the success al
 The bug's root cause is visible in the API schemas:
 
 ### Benefits Documents API v1 (Upload)
-The upload endpoint (`POST /services/benefits-documents/v1/documents`) accepts NO date/time from the client:
+The upload endpoint ([`POST /services/benefits-documents/v1/documents`](https://developer.va.gov/explore/api/benefits-documents/docs?version=current)) accepts NO date/time from the client:
 
 <img width="2630" height="1428" alt="image" src="https://github.com/user-attachments/assets/ede470a9-e834-45d4-b5b5-516010b86dee" />
 
 **Key insight**: Since no timestamp is sent with the upload, we can infer Lighthouse generates its own server-side timestamp in UTC.
 
 ### Benefits Claims API v2 (Retrieval)
-The retrieval endpoint (`GET /services/claims/v2/veterans/{veteranId}/claims/{claimId}`) returns dates as date-only strings:
+The retrieval endpoint ([`GET /services/claims/v2/veterans/{veteranId}/claims/{claimId}`](https://developer.va.gov/explore/api/benefits-claims/docs?version=current)) returns dates as date-only strings:
 
 <img width="1356" height="1502" alt="image" src="https://github.com/user-attachments/assets/7c28c11d-561f-48b2-92d1-275a8b26d704" />
-
 
 **Key insight**: The API returns only date strings without time or timezone information: `"2025-08-16"` instead of `2025-08-16T02:18:00.000Z`.
 
