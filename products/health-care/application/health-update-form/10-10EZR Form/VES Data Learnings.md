@@ -177,20 +177,8 @@
 >  Wednesday at 1:08 PM
 >i see what the problem is, there is a mismatch between old and new relationship values
 >
->**Joshua Faulkner**
->  Wednesday at 1:09 PM
->`"associations": [
->      {
->        "role": "PRIMARY_NEXT_OF_KIN",
->        "relationType": "EXTENDED_FAMILY_MEMBER",
->        "name": {
->          "givenName": "XXX",
->          "familyName": "XXX"
->        },
->        "relationship": "SPOUSE",
->        "address": {
->          ...
->        },`
+><img width="501" height="334" alt="image" src="https://github.com/user-attachments/assets/25d4b3d2-17c5-42a3-b10f-f13641774f6f" />
+
 >
 >**Joshua Faulkner**
 >  Wednesday at 1:10 PM
