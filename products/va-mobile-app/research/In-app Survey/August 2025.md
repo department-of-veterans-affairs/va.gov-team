@@ -211,9 +211,9 @@ Recommendation: 1-2 sentences of recommendations that could improve this pain po
 |--|--|
 | Navigation | 2 |
 | Login | 25 |
-| Disability rating | # |
-| Claims | # |
-| Letters and documents | # |
+| Disability rating | 1 |
+| Claims | 2 |
+| Letters and documents | 2 |
 | Profile | # |
 | Payments | # |
 | Travel Pay | # |
@@ -240,8 +240,9 @@ Representative responses:
 
 ### Login
 | Feature | # of ratings |
-|--|--|--|
+|--|--|
 |Login | 25 |
+
 Login continues to be a user pain point and 7 responses this month specifically mention problems with login making it difficult to even enter the app. The negative sentiment around login mentions the complexity of the process, biometric login failure, having to sign in too often, and saved password functionality not working. Despite the challenges, some users still find the new setup better than previous versions and easier to sign in.
 
 Representative responses:
@@ -297,163 +298,156 @@ You have to copy the whole spiel of the text, then compose a message and using t
 2. **Retain login credentials:** Reduce the frequency in which users are required to sign in by retaining previous login credentials. 
 
 ### Disability rating
-| Feature | average rating | # of ratings |
-|--|--|--|
-| Disability rating | # | # |
-1-2 sentences summarizing the sentiment of the area.
+| Feature | # of ratings |
+|--|-- |
+| Disability rating | 1 |
 
-Representative responses:
+Only one user mentioned disability this month in their review with an appreciation for the access to their disability claim from the app.
 
-> Quote.
+Response:
 
-<br>
-
-> Quote.
+> I love the VA app! The secure messaging, prescription refill requests, and disability claim information all in one spot is absolutely amazing! And I can sign into it with my face! Great job dev team!
 
 <br>
 
-#### Common themes
-
-#### User pain points
-
-#### Feature enhancements
 
 ### Claims
-| Feature | average rating | # of ratings |
-|--|--|--|
-| Claims | # | # |
-1-2 sentences summarizing the sentiment of the area.
+| Feature | # of ratings |
+|--|--|
+| Claims | 2 |
 
-Representative responses:
+Only two responses noted claims this month, both rated their experience as very satisfied. One user required more real time status information about claims and appeals, while the other appreciated the ability to quickly locate the status of their claim in the app.
 
-> Quote.
+Responses:
 
-<br>
-
-> Quote.
+> Please show more real time status’s for claims and appeals
 
 <br>
 
-#### Common themes
+> The app is doing very well, especially in the last six or seven months. It seems. The ease of ordering prescriptions messaging your clinic, is impressive. I like using it. It’s easy to use. And if you have any claims you can read very fast find out their status. Nicely done, thank you. 
 
-#### User pain points
+<br>
 
-#### Feature enhancements
 
 ### Letters and documents
-| Feature | average rating | # of ratings |
-|--|--|--|
-| Letters and documents | # | # |
-1-2 sentences summarizing the sentiment of the area.
+| Feature | # of ratings |
+|--|--|
+| Letters and documents | 2 |
+Only two responses this month noted letters and documents in their feedback. Both rating the app as very satisfied for ease of use. 
 
-Representative responses:
+Responses:
 
-> Quote.
-
-<br>
-
-> Quote.
+> Honestly, this app is amazing and so easy to use. I’m not the most tech savvy but refills and letters are a breeze on here
 
 <br>
 
-#### Common themes
+> I really like the app regarding how everything is organized and easy to use. Extremely convenient with monitoring my medications, messages, and appointments. Also really like the ability to access all letters and proof of veteran status and benefits.
 
-#### User pain points
+<br>
 
-#### Feature enhancements
 
 ### Profile
-| Feature | average rating | # of ratings |
-|--|--|--|
-| Profile | # | # |
-1-2 sentences summarizing the sentiment of the area.
+| Feature | # of ratings |
+|--|--|
+| Profile | 2 |
 
-Representative responses:
+Two responses noted specifically their appreciation for access to their veteran status from the app.
 
-> Quote.
+Responses:
 
-<br>
-
-> Quote.
+> I really like the app regarding how everything is organized and easy to use. Extremely convenient with monitoring my medications, messages, and appointments. Also really like the ability to access all letters and proof of veteran status and benefits.
 
 <br>
 
-#### Common themes
+> Using the app is so much easier to view & refills medication, plus all of my upcoming appointments are viewable. Benefit information & proof of service are available as well. 
+Login is so much easier on the mobile app du to being able to use biometrics to verify who I am.
 
-#### User pain points
+<br>
 
-#### Feature enhancements
+
 
 ### Payments
-| Feature | average rating | # of ratings |
-|--|--|--|
-| Payments | # | # |
-1-2 sentences summarizing the sentiment of the area.
+| Feature | # of ratings |
+|--|--|
+| Payments | 1 |
+One review appreciated the privacy settings around their RE pension amounts.
 
-Representative responses:
+Response:
 
-> Quote.
-
-<br>
-
-> Quote.
+> Site is getting better each time I use it. Privacy settings RE pension amounts is nice.
 
 <br>
 
-#### Common themes
-
-#### User pain points
-
-#### Feature enhancements
 
 ### Travel Pay
-| Feature | average rating | # of ratings |
-|--|--|--|
-| Travel Pay | # | # |
-1-2 sentences summarizing the sentiment of the area.
+| Feature | # of ratings |
+|--|--|
+| Travel Pay | 3 |
+Three reviews specifically mentioned travel pay, with two reviews noting appreciation for the ability to now submit travel pay from the app and one requesting it. 
 
 Representative responses:
 
-> Quote.
+> Real easy to use App.  I like fingerprint sign in & the ability to reorder my prescriptions & request my travel pay All in on place !!! 1,000% satisfied
 
 <br>
 
-> Quote.
+> Update ways to file for travel pay. Update appointments reminder. 
 
 <br>
 
-#### Common themes
+> Ease of use and ability to file travel claims now. Saves time and agro when using a desktop computer.
 
-#### User pain points
+<br>
 
-#### Feature enhancements
 
 ### Messaging
-| Feature | average rating | # of ratings |
-|--|--|--|
-| Messaging | # | # |
-1-2 sentences summarizing the sentiment of the area.
+| Feature | # of ratings |
+|--|--|
+| Messaging | 9 |
+Nine users specifically mentioned messaging, all in which were rated positive. However, users note challenges with list options needing to identify which department to reach with their concerns, naming, or missing needed providers from the list. One user specifically mentioned a believed bug where the button you type after entering a message saves your message as a draft by default, this resulted in unsent messages the user had believed they had sent. Another requested the ability to create folders.
 
 Representative responses:
 
-> Quote.
+> Easy to use, easy to reach out to providers. I would like a better option when selecting the department to reach the right people to address concerns. Also, it would be great to actually have a conversation with the Doctor or Primary Physician I’m seeing respond to my questions instead of a nurse or assistant. 
 
 <br>
 
-> Quote.
+> Team names for Messages need changed. Only VA staff members understand what those teams are. Make them simpler to understand for the veterans themselves.
+
+<br>
+
+> There is a major flaw with the messages. When typing, there is a giant button at the top right corner. You press it when you're done typing, and it saves the message as a draft instead of sending it. To send it, you have to exit out of your keyboard, and then the send button is below where the keyboard was. Multiple times, I thought I had sent a message to my doctors, and when I went to look for a response, it had never been sent. When I looked into it, they were all in the drafts.
+
+<br>
+
+> How do you create folders for secure messages?
+
+<br>
+
+> No follow up and or responses to Secure Messages.
 
 <br>
 
 #### Common themes
+1. **Appreciated app feature:** Users frequently note messaging as a conveient feature in the app.
+2. **Messaging receivers:** Users often commented on not finding or identifying their desired providers on the list options to send messages to.
 
 #### User pain points
+1. **Messaging list options:** Users couldn't always find the needed option to send messages to, and noted confusion around naming conventions of Teams.
+2. **Draft by default:** One user disliked that messages were saved as drafts by default causing confusion about delivery of message.
+3. **Not receiving responses:** One user mentioned not getting responses back from their sent messages. Another user disliked that the response came someone other than their primary provider. 
+4. **No ability to chat live:** One user requested the ability to chat live instead of having to wait for replies.
 
 #### Feature enhancements
+1. **Message list options:** Provide a path for users to get support directly from the app when needing to message providers not shown in their list options or provide the ability for users to directly search for and add needed providers to the list.
+2. **Send direct from draft:** Provide a clear option for users to send a message from their initial drafted message.
+
 
 ### Prescriptions
-| Feature | average rating | # of ratings |
-|--|--|--|
-| Prescriptions | 4.36 | 128 |
+| Feature | # of ratings |
+|--|--|
+| Prescriptions | 128 |
+
 Users generally rated prescriptions highly, for the process being easy, conveient, and quick. Users appreciate the ability to submit refill requests directly within the app and find the overall process to be working well. There are still some noted user pain points that could be mitigated and enhancements requests that could be added to improve this service from the mobile app for Veterans. 
 
 Representative responses:
@@ -525,6 +519,10 @@ Representative responses:
 5. **Medication Purpose and Dosage:** Clearly display the purpose of each medication and the prescribed dosage within the app.
 
 6. **Full Medication List Visibility:** Ensure that all medications prescribed to a user are visible within the app, regardless of whether they are currently available for refill. This would allow users to have a complete overview of their prescriptions.
+
+
+### Appointments
+
 
 ### Other Enhancements
 1-2 sentences summarizing requested feature enhancement w/ supporting evidence.
