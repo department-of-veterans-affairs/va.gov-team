@@ -10,7 +10,9 @@ This report brings together feedback from **four Design System users (2 Designer
   4. [Compact list option 3](./images/component-checklist-option-3.png)
 
 ### Executive Summary  
-User feedback shows that the **component checklist** is not a primary decision-making tool but can provide value if improved. Key takeaways include:  
+User feedback shows that the **component checklist** is not a primary decision-making tool and some improvements can be made. 
+
+Key takeaways include:  
 - **Low usage overall**: Designers and Engineers rarely use the checklist day-to-day, but see value during audits (especially accessibility).  
 - **Trust depends on accuracy**: Users question whether statuses are updated; adding “last updated” dates could build confidence.  
 - **Status clarity is needed**: Current maturity and color states are confusing; users want clearer definitions and phase-based statuses.  
