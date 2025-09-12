@@ -11,6 +11,8 @@
 - [Platform Documentation](https://depo-platform-documentation.scrollhelp.site/)
 
 ### Checklist
+- [ ] I am part of the team
+  - [ ] [AVA Github Team](https://github.com/orgs/department-of-veterans-affairs/teams/ask-va-team/members)
 - [ ] I know what Ask VA is
   - [ ] I know how to get there on staging.va.gov
   - [ ] I know how to sign in using a test user
