@@ -218,8 +218,8 @@ Recommendation: 1-2 sentences of recommendations that could improve this pain po
 | Payments | # | # |
 | Travel Pay | # | # |
 | Messaging | # | # |
-| Prescriptions | # | # |
-
+| Prescriptions | 4.36 | 128 |
+| Appointments | # | # |
 
 ### Navigation
 | Feature | average rating | # of ratings |
@@ -422,24 +422,68 @@ Representative responses:
 ### Prescriptions
 | Feature | average rating | # of ratings |
 |--|--|--|
-| Prescriptions | # | # |
-1-2 sentences summarizing the sentiment of the area.
+| Prescriptions | 4.36 | 128 |
+Users generally rated prescriptions highly, for the process being easy, conveient, and quick. Users appreciate the ability to submit refill requests directly within the app and find the overall process to be working well. There are several improvements they requested related to surfacing missing information, adding medications (when medication doesn't show up on the list), surfacing the tracking infromation directly from the refill page, and 
 
 Representative responses:
 
-> Quote.
+> Requesting refills this time was very easy and painless. Thank you.
 
 <br>
 
-> Quote.
+> Good but some medication do not show up on the app.
 
 <br>
+
+> A feature that would be a benefit would be to be able to track Rx items that are sent out via FedEx and UPS right from the refill page.
+
+<br>
+
+> Not sure why you added another step to request a refill.
+
+<br>
+
+> Let us request refills that have expired. Then pharmacists can contact medical staff.
+
+<br>
+
+> It would really be nice if meds were automatically shipped when needed. Some of us have [medical condition] and we forget to order meds. Especially when meds all have different refill dates or when someone else fills your pill cases and don't tell you to reorder.
+
+<br>
+
+> I’m very confused because every time I come onto my VA app it tells me I have one prescription to fill then the next day there’s three prescriptions to refill so I do it and then the same thing shows up again. Not sure why or even if my prescriptions are being refilled properly.
+
+<br>
+
+> I wish, when I come back to refill request, that there would be a note that I already requested a refill & date.
+
+<br> 
 
 #### Common themes
+1. **Positive User Experience:** Many users find the app easy and convenient for managing prescriptions and submitting refill requests.
+
+2. **Missing Information:** Users frequently request more detailed information about their prescriptions, including status, purpose, and dosage.
+
+3. **Medication Showing:** Some users encounter issues with certain medications not being available for refill through the app.
+
+4. **Tracking and Alerts:** There is a desire for improved tracking of shipped prescriptions and clearer notifications about refill requests.
+
+5. **Communication Gaps:** Users express a need for better communication options with pharmacists, especially for specific medication issues.
+
+6. **Delivery Problems:** A few users have reported problems with prescription deliveries.
+
 
 #### User pain points
+1. **Delivery problems:** A few users experienced problems with delivery, including orders being lost in the mail or never received.
+
+2. **Number of steps in the process:** Some feedback indicates that the refill process has "too many steps" (2 responses) or that users are confused by repeated alerts or refill cadence.
+
+3. **Communication w/ professionals:** Users expressed a need to contact pharmacists directly through the app, especially when a medication is off-list or has been changed. Users also noted a need to communicate with their doctor about their medications from the prescriptions area.
+
+4. **Expired Refills:** Users desire a better way to request refills for expired prescriptions, with the app then forwarding the request to medical staff.
 
 #### Feature enhancements
+1. 
 
 ### Other Enhancements
 1-2 sentences summarizing requested feature enhancement w/ supporting evidence.
