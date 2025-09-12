@@ -20,6 +20,9 @@ When a veteran uploads a file after 7 PM ET (8 PM during Standard Time), the sys
 
 A veteran uploads evidence at 10:18 PM EDT on August 15, 2025. In the success alert they see "We received your file upload on August 15, 2025". They look in the Documents Filed section and see "Received on August 16, 2025" instead of the expected "Received on August 15, 2025".  This creates confusion and potentially distrust in the system as they may think "How can a document be submitted in the future?" or potentially "Is the document not going to be submitted until tomorrow because it's outside business hours right now?". They look in the Status tab in the Recent activity section and also see the confusing "August 16, 2025" as the day the VA.gov received their document.
 
+This is a real screenshot from a user in which this Example Scenario was created out of:
+<img width="1167" height="591" alt="image (5)" src="https://github.com/user-attachments/assets/bad11660-bbae-43f3-b97c-58869968b677" />
+
 ## Quick Root Cause Analysis
 
 The bug's root cause is visible in the API schemas:
