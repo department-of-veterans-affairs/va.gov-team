@@ -26,7 +26,7 @@ This is an onboarding checklist for new team members. Modeled after the MHV on V
 - [ ] Review [GA4 exploration](https://analytics.google.com/analytics/web/#/analysis/p419143770/edit/hQrn2ZlVRFGs0p-tT9Mgwg)
 
 ### Front-end engineers
-- [ ] Review [code in vets-website GH repo](https://github.com/department-of-veterans-affairs/vets-website/tree/48e9673566352bdc0445d786401f29a9e5f61553/src/applications/ask-va)
+- [ ] Review [code in vets-website GH repo](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/applications/ask-va)
 - [ ] Review [engineering](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/engineering) and [integration](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/ask-va/integration) folders in GH. Needs updating.
 
 ### Back-end engineers
