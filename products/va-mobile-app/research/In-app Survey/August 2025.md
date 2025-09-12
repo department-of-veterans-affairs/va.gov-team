@@ -175,7 +175,7 @@ Representative responses:
 
 #### Content (20)
 
-Users often request additional information they wish they received from the app. Some noting confusion over labels, or desiring content in different locations. Several users noted that they felt like the app was easy to understand and being scannable. 
+Users often request additional information they wish they received from the app. Some noting confusion over labels, or desiring content in different locations. Several users noted that they felt like the app was easy to understand and scannable. 
 
 > Team names for Messages need changed Only VA staff members understand what those teams are Make them simpler to understand for the veterans themselves.
 
@@ -197,14 +197,41 @@ Users often request additional information they wish they received from the app.
 
 <br>
 
-#### Functionality 
+#### Functionality (31)
+
+While the app's core functionality for prescription refills is well utilized, there are notable challenges related to login reliability and a desire for improvements on several features.
+
+Representative responses:
+
+> There are not enough options. For example, MyChart (UF HEALTH), I can view diagnostic reports, labs, notes, etc. Myhealthyvet should have this level of accessibility. It is extremely limited. 
+
+<br>
+
+> Be able to cut and paste or maybe a drop-down list of my current active prescriptions. I have arthritis and have neuropathy in my fingers and it is very difficult to type either on my mobile phone or iPad. So when I’m messaging my PCP it will be easier for me instead of trying to type everything out. Overall, I do like the app. I am also a app developer myself.
+
+<br>
+
+> I wish, when I come back to refill request, that there would be a note that I already requested a refill & date.
+
+<br>
+
+> "Using the app is so much easier to view & refills medication, plus all of my upcoming appointments are viewable. Benefit information & proof of service are available as well. 
+Login is so much easier on the mobile app du to being able to use biometrics to verify who I am."
+
+<br> 
+
 
 ### User pain points
+Details about user pain points are noted in each relevant feature area below.
 
-#### Pain point title
-Brief sentence explaining pain point, noting scale of that pain point (# of reviews related to this pain point).
+#### Login challenges (13)
+#### Lacking functionality (7)
+#### Missing needed information (11)
+#### Expired refills (2)
+#### Latency (1)
+#### Missing medications from list (4)
 
-Recommendation: 1-2 sentences of recommendations that could improve this pain point.
+
 
 ## Feature specific feedback
 | Feature | # of ratings |
@@ -219,12 +246,13 @@ Recommendation: 1-2 sentences of recommendations that could improve this pain po
 | Travel Pay | 3 |
 | Messaging | 9 |
 | Prescriptions | 128 |
-| Appointments | # |
+| Appointments | 9 |
 
 ### Navigation
 | Feature | # of ratings |
 |--|--|
 | Navigation | 2 |
+
 2 comments this month noted the ease of the app navigation.
 
 Representative responses:
@@ -524,17 +552,40 @@ Representative responses:
 
 
 ### Appointments
+| Feature | # of ratings |
+|--|--|
+| Appointments | 9 |
 
+A positively rated feature of the app, with only one response providing a neutral rating due to addiitonal information needed. Positive sentiment around appointments is the conveience, alerts, and overall ease of use. Comments about improvements are mostly related to missing content or desired functionality.
+
+#### User pain points
+1. **Lack of information:** Users request more information about their appointments such as appointment purpose, provider name,  notes from providers after an appointment being accessible from the app. 
+2. **Appointment scheduling:** One user noted the appt. scheduler does not work. 
+3. **Inabiltiy to check-in:** One user requested the ability to check-in for their appointment directly from the app.
+4. **Appointment reminders:** One user requested an update to appointment reminders without more context. 
+
+#### Feature enhancements
+1. **Check-in for appointments:** Provide a way for users to check-in for their appointments from the app.
+2. **Book appointments:** Provide an option to book appointments directly from the app.
+3. **Add additional details about the appointment:** Add access to notes following an appointment.
+4. **Alert customization:** Provide an ability for the user to customize their alert or notifications regarding appointments. 
 
 ### Other Enhancements
-1-2 sentences summarizing requested feature enhancement w/ supporting evidence.
+Additional requests came in for the following areas. 
 
-Representative responses:
+#### Education benefits (1)
 
-> Quote.
+> Better access to GI Bill or education info and letters
+<br>
+
+
+#### Medical supply ordering (2)
+Several users requested the ability to order medical supplies also through the app.
+
+> I don’t see the refill tab for fit right underwear. I would like to place an order for them also.
 
 <br>
 
-> Quote.
+> I like it so far it is very convenient. I wish CPAP supplies could be ordered through this.
 
-<br>
+<br> 
