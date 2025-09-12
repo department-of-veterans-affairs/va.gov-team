@@ -214,10 +214,10 @@ Recommendation: 1-2 sentences of recommendations that could improve this pain po
 | Disability rating | 1 |
 | Claims | 2 |
 | Letters and documents | 2 |
-| Profile | # |
-| Payments | # |
-| Travel Pay | # |
-| Messaging | # |
+| Profile | 2 |
+| Payments | 1 |
+| Travel Pay | 3 |
+| Messaging | 9 |
 | Prescriptions | 128 |
 | Appointments | # |
 
@@ -370,6 +370,7 @@ Login is so much easier on the mobile app du to being able to use biometrics to 
 | Feature | # of ratings |
 |--|--|
 | Payments | 1 |
+
 One review appreciated the privacy settings around their RE pension amounts.
 
 Response:
@@ -383,6 +384,7 @@ Response:
 | Feature | # of ratings |
 |--|--|
 | Travel Pay | 3 |
+
 Three reviews specifically mentioned travel pay, with two reviews noting appreciation for the ability to now submit travel pay from the app and one requesting it. 
 
 Representative responses:
