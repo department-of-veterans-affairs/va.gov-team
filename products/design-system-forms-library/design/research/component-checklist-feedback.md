@@ -14,9 +14,9 @@ User feedback shows that the **component checklist** is not a primary decision-m
 
 Key takeaways include:  
 - **Low usage overall**: Designers and Engineers rarely use the checklist day-to-day, but see value during audits (especially accessibility).  
-- **Trust depends on accuracy**: Users question whether statuses are updated; adding “last updated” dates could build confidence.  
-- **Status clarity is needed**: Current maturity and color states are confusing; users want clearer definitions and phase-based statuses.  
-- **Accessibility and layout matter**: Red/green icons are not inclusive; users had mixed preferences for accordion vs. summary-at-top layouts.
+- **Trust depends on accuracy**: Users question whether statuses are updated.  
+- **Status clarity is needed**: Current maturity and color states are confusing.  
+- **Accessibility and layout matter**: Red/green icons are not inclusive.
 
 ---
 ## Feedback
