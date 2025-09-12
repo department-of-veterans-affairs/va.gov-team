@@ -1,16 +1,17 @@
 # RX In-App Survey Feedback from the VA Health & Benefits App from August, 2025 
 ## Summary
-Feedback includes x total responses, each with a rating of 1-5. Ratings of 1-2 are considered negative, 3 represents neutral, and 4-5 are positive.
+Feedback includes 243 total responses, each with a rating ranging from not at all satisfied to very satisfied. Ratings of not at all satisfied and dissatisfied are considered negative, neither satisfied or dissatisfied represents neutral, and satisfied or very satisfied are positive.
 
 ## Overall distribution of ratings
 
 | Rating | % of ratings | # of ratings |
 |--|--|--|
-| = Very satisfied | % | # |
-| = Satisfied | % | # |
-| = Neither satisfied or dissatisfied | % | # |
-| = Dissatisfied | % | # |
-| = Not at all satisfied | % | # |
+| = Very satisfied | % | 157 |
+| = Satisfied | % | 49 |
+| = Neither satisfied or dissatisfied | % | 13 |
+| = Dissatisfied | % | 8 |
+| = Not at all satisfied | % | 5 |
+| = blank or not set | % | 19 |
 
 ### Outline
 1. [General/other feedback](link)
