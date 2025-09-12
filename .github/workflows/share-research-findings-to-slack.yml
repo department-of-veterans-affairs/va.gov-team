@@ -186,17 +186,21 @@ jobs:
         id: build-slack-success
         run: |
           set -euo pipefail
+          CHANNEL_ID='${{ secrets.SLACK_RSRCH_FINDINGS_CHANNEL_ID }}'
+          if [ -z "$CHANNEL_ID" ] || [ "$CHANNEL_ID" = 'null' ]; then
+            echo "Missing secret SLACK_RSRCH_FINDINGS_CHANNEL_ID; cannot send Slack notification." >&2
+            exit 1
+          fi
           TITLE="${{ steps.process.outputs.RESEARCH_TITLE }}"
           PRODUCT_PATH="${{ steps.process.outputs.PRODUCT_PATH }}"
           STUDY_DATE="${{ steps.process.outputs.STUDY_DATE }}"
           AUTHORS="${{ steps.process.outputs.AUTHORS }}"
-          # Decode key findings from base64 to avoid inline shell parsing issues
           KEY_FINDINGS=$(echo "${{ steps.process.outputs.KEY_FINDINGS_B64 }}" | base64 -d || true)
           [ -z "$KEY_FINDINGS" ] && KEY_FINDINGS='See full report for details'
           URL="https://github.com/${{ github.repository }}/blob/${{ github.sha }}/${{ steps.process.outputs.RESEARCH_FILE }}"
           if [ '${{ github.event_name }}' = 'workflow_dispatch' ]; then CONTEXT_MSG='🧪 _Test notification - not tracked as shared_'; else CONTEXT_MSG='✨ _Shared after 3-day revision period_'; fi
           PAYLOAD=$(jq -c -n \
-            --arg channel "#research-ops" \
+            --arg channel_id "$CHANNEL_ID" \
             --arg title "$TITLE" \
             --arg product "$PRODUCT_PATH" \
             --arg date "$STUDY_DATE" \
@@ -204,32 +208,14 @@ jobs:
             --arg findings "$KEY_FINDINGS" \
             --arg url "$URL" \
             --arg ctx "$CONTEXT_MSG" \
-            '{
-              channel:$channel,
-              text:("New Research Findings: " + $title),
-              blocks:[
-                {type:"header", text:{type:"plain_text", text:"📊 New Research Findings Available", emoji:true}},
-                {type:"section", fields:[
-                  {type:"mrkdwn", text:("*Study:*\n" + $title)},
-                  {type:"mrkdwn", text:("*Product Area:*\n" + $product)},
-                  {type:"mrkdwn", text:("*Date:*\n" + $date)},
-                  {type:"mrkdwn", text:("*Authors:*\n" + $authors)}
-                ]},
-                {type:"divider"},
-                {type:"section", text:{type:"mrkdwn", text:("*Key Findings Preview:*\n" + $findings)}},
-                {type:"divider"},
-                {type:"actions", elements:[
-                  {type:"button", text:{type:"plain_text", text:"📖 Read Full Report", emoji:true}, url:$url, style:"primary"}
-                ]},
-                {type:"context", elements:[{type:"mrkdwn", text:$ctx}]}
-              ]
-            }')
+            '{ channel:$channel_id, text:("New Research Findings: " + $title), blocks:[ {type:"header", text:{type:"plain_text", text:"📊 New Research Findings Available", emoji:true}}, {type:"section", fields:[ {type:"mrkdwn", text:("*Study:*\n" + $title)}, {type:"mrkdwn", text:("*Product Area:*\n" + $product)}, {type:"mrkdwn", text:("*Date:*\n" + $date)}, {type:"mrkdwn", text:("*Authors:*\n" + $authors)} ]}, {type:"divider"}, {type:"section", text:{type:"mrkdwn", text:("*Key Findings Preview:*\n" + $findings)}}, {type:"divider"}, {type:"actions", elements:[ {type:"button", text:{type:"plain_text", text:"📖 Read Full Report", emoji:true}, url:$url, style:"primary"} ]}, {type:"context", elements:[{type:"mrkdwn", text:$ctx}]} ] }')
           echo "payload=$PAYLOAD" >> $GITHUB_OUTPUT
 
       - name: Send Slack notification - Success
         if: steps.find-files.outputs.skip != 'true' && steps.process.outputs.RESEARCH_FILE
         uses: slackapi/slack-github-action@v1.26.0
         with:
+          channel-id: ${{ secrets.SLACK_RSRCH_FINDINGS_CHANNEL_ID }}
           payload: ${{ steps.build-slack-success.outputs.payload }}
         env:
           SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_ACCESS_TOKEN_RSRCH_OPS }}
@@ -239,23 +225,23 @@ jobs:
         id: build-slack-error
         run: |
           set -euo pipefail
-          ERR="${{ steps.find-files.outputs.error_message }}"
+          CHANNEL_ID='${{ secrets.SLACK_RSRCH_FINDINGS_CHANNEL_ID }}'
+            if [ -z "$CHANNEL_ID" ] || [ "$CHANNEL_ID" = 'null' ]; then
+              echo "Missing secret SLACK_RSRCH_FINDINGS_CHANNEL_ID; cannot send Slack error notification." >&2
+              exit 1
+            fi
+          ERR='${{ steps.find-files.outputs.error_message }}'
           PAYLOAD=$(jq -c -n \
-            --arg channel "#research-ops" \
+            --arg channel_id "$CHANNEL_ID" \
             --arg err "$ERR" \
-            '{
-              channel:$channel,
-              text:"Research File Not Found",
-              blocks:[
-                {type:"section", text:{type:"mrkdwn", text:"❌ *Could not find the specified research file*\n\n" + $err + "\n\nPlease check the file path and try again."}}
-              ]
-            }')
+            '{ channel:$channel_id, text:"Research File Not Found", blocks:[ {type:"section", text:{type:"mrkdwn", text:"❌ *Could not find the specified research file*\n\n" + $err + "\n\nPlease check the file path and try again."}} ] }')
           echo "payload=$PAYLOAD" >> $GITHUB_OUTPUT
 
       - name: Send Slack notification - Error
         if: steps.find-files.outputs.skip == 'true' && steps.find-files.outputs.error_message && github.event_name == 'workflow_dispatch'
         uses: slackapi/slack-github-action@v1.26.0
         with:
+          channel-id: ${{ secrets.SLACK_RSRCH_FINDINGS_CHANNEL_ID }}
           payload: ${{ steps.build-slack-error.outputs.payload }}
         env:
           SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_ACCESS_TOKEN_RSRCH_OPS }}
