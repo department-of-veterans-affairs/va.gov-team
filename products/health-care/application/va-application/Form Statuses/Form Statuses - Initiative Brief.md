@@ -191,10 +191,10 @@ This work is supported by existing research:
 <details>
 
 - Office/Department: OCTO-DE Product Owner
-- Contact(s): Patrick Bateman, Premal Shah
+     - Contact(s): Patrick Bateman, Premal Shah
 
 - Office/Department: VA Healthcare Enrollment & Eligibility
-- Contact(s): Angela Fulton, Simone Gully, Amanda Scully, April Mims
+     - Contact(s): Angela Fulton, Simone Gully, Amanda Scully, April Mims
 
 </details>
 
