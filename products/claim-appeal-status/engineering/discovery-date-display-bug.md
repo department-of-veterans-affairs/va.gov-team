@@ -2,429 +2,371 @@
 
 Issue: [#117391](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117391)
 
+## Table of Contents
+- [Problem Statement](#problem-statement)
+- [Quick Root Cause Analysis](#quick-root-cause-analysis)
+- [Critical: VA.gov Deadline Rules](#critical-vagov-deadline-rules-pending-clarification)
+- [Where This Bug Impacts Veterans](#where-this-bug-impacts-veterans)
+- [Solution: Return ISO 8601 Timestamps](#solution-return-iso-8601-timestamps)
+- [Brainstorm of Possible UX Improvements While Awaiting API Fix](#brainstorm-of-possible-ux-improvements-while-awaiting-api-fix)
+- [Appendix A: Detailed Technical Flow](#appendix-detailed-technical-flow)
+- [Appendix B: Additional Affected Areas](#appendix-b-additional-affected-areas)
+
 ## Problem Statement
 
-When a veteran uploads a file after 7 PM EDT or 8 PM EST, the system displays the submission date as the following day.
+When a veteran uploads a file after 7 PM ET (8 PM during Standard Time), the system displays the submission date as the following day.
 
 **Example Scenario:**
 
-A veteran uploads additional evidence at 9:00 PM EDT on August 15, 2025. They look in their Documents Filed section and see "Received on August 16, 2025" instead of the expected "Received on August 15, 2025". This creates confusion and potentially distrust in the system as they may think" "How can a document be submitted in the future?" or potentially "Is the document not going to be submitted until tomorrow because its outside business hours right now? If so, why is it telling me its submitted when its not?"
+A veteran uploads evidence at 10:18 PM EDT on August 15, 2025. In the success alert they see "We received your file upload on August 15, 2025". They look in the Documents Filed section and see "Received on August 16, 2025" instead of the expected "Received on August 15, 2025".  This creates confusion and potentially distrust in the system as they may think "How can a document be submitted in the future?" or potentially "Is the document not going to be submitted until tomorrow because it's outside business hours right now?". They look in the Status tab in the Recent activity section and also see the confusing "August 16, 2025" as the day the VA.gov received their document.
 
-**Root Cause:**
+## Quick Root Cause Analysis
 
-The date formatting utility in the Claims Status application treats date strings like "2023-03-17" as UTC timestamps rather than calendar dates without time components. When the system converts these UTC timestamps to the user's local timezone for display, the dates shift backward or forward across day boundaries.
+The bug's root cause is visible in the API schemas:
 
-This issue occurs in the `buildDateFormatter` function within the claims status helpers file (`src/applications/claims-status/utils/helpers.js`), which uses date-fns's `parseISO` function. This function interprets date-only strings (like "2025-08-15") as midnight UTC, causing the timezone shift during display.
+### Benefits Documents API v1 (Upload)
+The upload endpoint (`POST /services/benefits-documents/v1/documents`) accepts NO date/time from the client:
 
-## Current Implementation Analysis
+![Benefits Documents API v1 Request Schema](<Screenshot 2025-09-12 at 9.29.23 AM.png>)
 
-### Request Flow with File References
+**Key insight**: Since no timestamp is sent with the upload, we can infer Lighthouse generates its own server-side timestamp in UTC.
 
-#### How Dates Move Through the System
+### Benefits Claims API v2 (Retrieval)
+The retrieval endpoint (`GET /services/claims/v2/veterans/{veteranId}/claims/{claimId}`) returns dates as date-only strings:
 
-When a veteran uploads a file, the date travels through several stages where timezone handling can go wrong:
+[Benefits Claims API v2 Response Schema](<Screenshot 2025-09-12 at 9.32.33 AM.png>)
 
-1. **File Upload Creates a Timestamp**
+**Key insight**: The API returns only date strings without time or timezone information: `"2025-08-16"` instead of `2025-08-16T02:18:00.000Z`.
 
-   When the upload succeeds, the system captures the current moment and formats it for display. This happens in the upload action handler:
+### How This Creates the Bug
 
-   File: `src/applications/claims-status/actions/index.js`
-   ```javascript
-   const now = new Date(Date.now());
-   const uploadDate = buildDateFormatter()(now.toISOString());
-   ```
+When a veteran uploads a document after 7 PM ET (after midnight UTC), the following sequence occurs:
 
-   - The code creates a Date object for "right now"
-   - Converts it to an ISO string (like "2025-08-15T21:00:00-04:00")
-   - The ISO conversion changes the time to UTC ("2025-08-16T01:00:00.000Z")
-   - This UTC string gets passed to the formatter, which will display it as August 16
+1. **Upload Time**: August 15 10:18 PM ET is August 16 2:18 AM UTC
+2. **Lighthouse Storage**: Since no timestamp is sent with upload, it means Lighthouse generates and stores UTC timestamp `2025-08-16T02:18:00.000Z`
+3. **API Response**: Returns only the UTC date portion: `"2025-08-16"` (losing time and timezone information)
+4. **Frontend Display**: Shows "August 16, 2025" instead of "August 15, 2025" since it can only display the date string it receives. Without time the frontend has no way of knowing if the file was uploaded in the evening of August 16 UTC and therefore for a ET user should remain August 16th or whether it was uploaded in the morning of August 16 UTC and therefore for a ET user should be August 15th.
 
-2. **API Returns Dates Without Timezone Information**
+**Root cause**: The external Lighthouse Benefits Claims API returns date-only strings instead of full ISO 8601 timestamps, which prevents the frontend from displaying the date in the user's timezone. Users naturally expect to see dates in their local timezone, causing confusion when documents appear to be submitted on the "next day."
 
-   The Lighthouse API provides dates in a simple format without timezone data:
+## Critical: VA.gov Deadline Rules
 
-   ```json
-   {
-     "attributes": {
-       "uploadDate": "2023-03-17",
-       "receivedDate": "2023-03-15",
-       "requestedDate": "2023-03-01"
-     }
-   }
-   ```
+**Key Question**: What timezone defines the legal deadline for evidence submission?
 
-   - These dates represent the day something happened, not a specific moment in time
-   - They should display the same regardless of the user's timezone
-   - The current system incorrectly treats them as UTC timestamps
+Until confirmed, we cannot determine if the current behavior is a bug or working as intended.
 
-3. **Component Displays the Formatted Date**
+**Example: Upload at 10 PM ET on Aug 15**
+- If deadlines are midnight UTC (8 PM ET): If Veteran missed deadline then showing "Aug 16" (the UTC date) is correct
+- If deadlines are ET: If Veteran is on time showing "Aug 16" (the UTC date) is wrong
+- If deadlines are local time: Need timestamps to display correctly
 
-   The DocumentsFiled component shows these dates to users:
+**Action Required**: Confirm deadline timezone with VA legal before implementing any fix, as displaying the wrong timezone could create legal liability.
 
-   File: `src/applications/claims-status/components/claim-files-tab/DocumentsFiled.jsx`
-   ```javascript
-   {`Received on ${formatDate(doc.uploadDate)}`}
-   ```
+## Where This Bug Impacts Veterans
 
-   - The component passes the date string to the formatter
-   - The formatter interprets "2023-03-17" as UTC midnight
-   - Users in US timezones see "March 16, 2023" instead
+Since the Claims API v2 returns all dates as date-only strings, this bug affects multiple areas where dates are displayed:
 
-### Core Functions
+### 1. Documents Filed Tab
+- **Location**: `/track-claims/your-claims/[claim-id]/files`
+- **Component**: `src/applications/claims-status/components/claim-files-tab/DocumentsFiled.jsx`
+- **Impact**: Uploaded documents show next day's date for evening submissions
+- **Data field**: `supportingDocuments[].uploadDate`
 
-#### The Problematic Date Formatter
+### 2. Recent Activity Tab (Critical - Deadline Impact)
+- **Location**: `/track-claims/your-claims/[claim-id]/status`
+- **Component**: `src/applications/claims-status/components/claim-status-tab/RecentActivity.jsx`
+- **Impact**: Evidence submission deadlines appear missed when submitted between 7 PM ET and midnight ET
+- **Data fields**:
+  - `trackedItems[].documents[].uploadDate`
+  - `trackedItems[].requestedDate`, `receivedDate`, `closedDate`
 
-The root of the issue lies in how the Claims Status application formats dates. The current implementation treats all dates as UTC timestamps:
+**Stakeholder Escalation**: A veteran submitted evidence before midnight ET on their deadline day, but the system showed it as received the next day, making it appear they missed the deadline.
 
-File: `src/applications/claims-status/utils/helpers.js`
+**Note**: Additional affected areas throughout the claims status application are documented in Appendix B.
+
+### Impact
+
+This date display issue creates several concerns across all affected areas:
+
+1. **Potential Compliance Issues**
+   - May cause confusion about whether deadlines were met
+   - Could lead to unnecessary appeals or inquiries
+   - Creates discrepancies between actual submission time and displayed date
+
+2. **Trust Erosion**
+   - Veterans lose confidence in the system's accuracy
+   - Creates doubt about whether documents are being processed correctly
+
+3. **Operational Impact**
+   - Increased support calls about deadline disputes
+   - Manual verification required to confirm actual submission times
+   - Additional workload for claims processors to investigate discrepancies
+
+4. **Equity Issues**
+   - Disproportionately affects veterans in Eastern/Central time zones
+   - Veterans working evening shifts more likely to encounter the bug
+   - Creates inconsistent experiences based on upload time
+
+## Solution: Return ISO 8601 Timestamps
+
+The solution requires updating the Lighthouse Benefits Claims API to return complete timestamp information rather than date-only strings.
+
+### The Fix
+**Lighthouse API should follow REST API standards (RFC 3339 / ISO 8601):**
+- Return full ISO 8601 timestamps instead of date-only strings
+- Change from: `"uploadDate": "2025-08-16"`
+- Change to: `"uploadDate": "2025-08-16T02:18:00.000Z"`
+
+### Benefits of This Approach
+- Frontend can display correct date in user's timezone
+- Preserves time information for future features
+- Follows industry standards (GitHub, AWS, Stripe, etc.)
+- No information loss
+- Enables relative time displays (e.g., "2 hours ago")
+
+### Frontend Implementation with Timestamps
+
+Once Lighthouse returns proper timestamps, the frontend can correctly display dates using existing platform utilities. The frontend cannot currently fix this issue because it only receives date strings with no time information.
+
+**Frontend Implementation** (`src/applications/claims-status/utils/helpers.js`):
 ```javascript
-export const buildDateFormatter = (formatString = DATE_FORMATS.LONG_DATE) => {
-  return date => {
-    const parsedDate = parseISO(date);
-    return isValid(parsedDate)
-      ? format(parsedDate, formatString)
-      : 'Invalid date';
-  };
+import { format, parseISO } from 'date-fns';
+import { formatDateLong } from 'platform/utilities/date';
+
+// Enhanced formatter that shows time if available in ISO 8601 format
+export const formatDateWithTime = dateString => {
+  if (!dateString) return 'Invalid date';
+
+  const dateOnly = formatDateLong(dateString);
+  const dateTime = parseISO(dateString);
+  const timeStr = format(dateTime, 'h:mm a');
+  return `${dateOnly} at ${timeStr}`;
 };
 ```
 
-What this code does:
-- Takes any date string (like "2025-08-15" or "2025-08-15T21:00:00-04:00")
-- Uses `parseISO` which interprets date-only strings as UTC midnight
-- For "2025-08-15", creates a Date object for midnight UTC on that date
-- When formatted for display, this UTC time converts to the previous evening in US timezones
+This centralized function is now used in `DocumentsFiled.jsx` and `RecentActivity.jsx` to display dates with times when available.
 
-#### How the Platform Handles Dates Correctly
+## Brainstorm of Possible UX Improvements While Awaiting API Fix
 
-The VA.gov platform provides utilities specifically designed to handle dates without timezone conversion:
+While we work with the Lighthouse API team to implement the fix (returning full timestamps), we can make immediate UX improvements to reduce confusion:
 
-File: `src/platform/utilities/date/index.js`
-```javascript
-export function formatDateParsedZoneLong(date) {
-  const localDate = stripTimezoneFromIsoDate(date);
-  return format(parseISO(localDate), 'MMMM d, yyyy');
-}
+### Upload Alert Enhancement
 
-export function stripTimezoneFromIsoDate(date) {
-  return date ? date.replace(/(Z|[-+](\d{4}|\d{2}:\d{2}))$/, '') : date;
-}
+**Current Alert:**
+```
+"We received your file upload on August 15, 2025"
+```
+*Issue: This date is generated on the frontend on successful submission (`new Date()`) in the user's local timezone, but the Documents Filed section shows "August 16, 2025" from the API (UTC date). This inconsistency likely confuses users.*
+
+**Option A: Remove Date from Alert**
+```
+"We successfully received your file upload"
 ```
 
-What this approach does:
-- Removes any timezone information from the date string
-- Treats the resulting date as a simple calendar date without timezone context
-- Ensures "2025-08-15" displays as "August 15, 2025" everywhere
-
-### VA.gov Date Handling Patterns
-
-#### How Other VA Applications Handle Dates
-
-The platform has established patterns for handling dates that the Claims Status application doesn't follow:
-
-**Pattern 1: Using Platform Utilities for Date-Only Display**
-
-The Dependents Verification application correctly uses platform utilities:
-
-File: `src/applications/dependents/dependents-verification/components/VeteranInformationComponent.jsx`
-```javascript
-import { formatDateParsedZoneLong } from 'platform/utilities/date';
-
-const dobDate = dob ? formatDateParsedZoneLong(dob) : null;
+**Option B: Show UTC and Local Time Comparison**
+Help users understand why dates may appear different by showing both timezones:
+```
+"We received your file upload on August 16, 2025 at 2:18 AM UTC (August 15, 2025 at 10:18 PM EDT)"
 ```
 
-This ensures birth dates display consistently regardless of timezone.
-
-**Pattern 2: Explicit Timezone Handling for Appointments**
-
-When actual times matter (like appointment scheduling), VA applications explicitly handle timezones:
-
-File: `src/applications/vaos/utils/timezone.js`
+**Implementation for Option B** (`src/applications/claims-status/actions/index.js`):
 ```javascript
-const timeZone = 'America/New_York';
-const easternTimeZoneDate = utcToZonedTime(date, timeZone);
-```
+import { format } from 'date-fns-tz';
+import { formatDateLong } from 'platform/utilities/date';
 
-This converts times to Eastern Time and clearly indicates the timezone to users.
-
-**Pattern 3: System-Wide Eastern Time Standard**
-
-For system notifications, VA.gov standardizes on Eastern Time:
-
-File: `src/platform/utilities/date/index.js`
-```javascript
-export const formatDowntime = (dateTime, dayPattern = 'd') => {
-  const timeZone = 'America/New_York';
-  const easternTimeZoneDate = utcToZonedTime(date, timeZone);
-  return format(easternTimeZoneDate, `${monthFormat} ${dayFormat} 'at' ${timeFormat} 'ET'`);
-};
-```
-
-This ensures all users see the same time for system events, with "ET" clearly labeled.
-
-### Components Using Date Formatting
-
-The date formatting issue affects multiple components throughout the Claims Status application:
-
-| Component | File Location | How It Uses Dates | Current Problem |
-|-----------|--------------|-------------------|-----------------|
-| DocumentsFiled | `components/claim-files-tab/DocumentsFiled.jsx` | Displays upload and received dates | Shows wrong day for evening uploads |
-| Upload Success Handler | `actions/index.js` | Creates upload confirmation date | Converts local time to UTC |
-| RecentActivity | `components/claim-status-tab/RecentActivity.jsx` | Shows timeline of claim events | Dates may appear on wrong day |
-| ClaimStatusHeader | `components/ClaimStatusHeader.jsx` | Displays claim submission date | Off by one day for some users |
-
-### Processing Logic
-
-#### How the Bug Manifests
-
-Understanding the exact flow helps explain why users see incorrect dates:
-
-**When Processing a Date from the API:**
-
-The API provides a simple date string without timezone information. Here's what happens:
-
-File: `src/applications/claims-status/utils/helpers.js` (buildDateFormatter function)
-```javascript
-// Step 1: API provides date
-const apiDate = "2025-08-15";
-
-// Step 2: parseISO interprets as UTC
-const parsed = parseISO("2025-08-15");
-console.log(parsed.toISOString());
-// Output: "2025-08-15T00:00:00.000Z"
-
-// Step 3: Format for display (user in ET timezone)
-const displayed = format(parsed, 'MMMM d, yyyy');
-// Output: "August 14, 2025"
-```
-
-The process:
-- API sends "2025-08-15" meaning August 15th
-- parseISO treats this as midnight UTC on August 15th
-- For a user in Eastern Time, midnight UTC is 7 or 8 PM the previous day
-- The formatted display shows August 14th instead of August 15th
-
-**When Processing an Evening Upload:**
-
-Here's what happens when a user uploads a file in the evening:
-
-File: `src/applications/claims-status/actions/index.js` (upload success handler)
-```javascript
-// User uploads at 9 PM ET on August 15
-const uploadTime = new Date('2025-08-15T21:00:00-04:00');
-
-// Current behavior
-const isoString = uploadTime.toISOString();
-// Result: "2025-08-16T01:00:00.000Z"
-
-const formatted = buildDateFormatter()(isoString);
-// Parses: "2025-08-16T01:00:00.000Z"
-// Displays: "August 16, 2025"
-```
-
-The process:
-- User uploads at 9 PM Eastern on August 15th
-- JavaScript converts this to 1 AM UTC on August 16th
-- The formatter uses the UTC date (August 16th)
-- User sees their upload dated as August 16th instead of August 15th
-
-## Technical Limitations
-
-### Testing Coverage Gaps
-
-The current test suite doesn't catch timezone-related bugs because it only tests simple cases:
-
-File: `src/applications/claims-status/tests/utils/helpers.unit.spec.jsx`
-```javascript
-describe('buildDateFormatter', () => {
-  it('should format date correctly', () => {
-    const formatter = buildDateFormatter();
-    expect(formatter('2020-01-28')).to.equal('January 28, 2020');
-  });
-});
-```
-
-This test:
-- Only checks a date in the middle of the day
-- Doesn't test evening times
-- Doesn't verify timezone boundaries
-- Would pass even with the bug present
-
-What we need to test:
-```javascript
-it('should display same date for evening uploads', () => {
-  const eveningDate = '2025-08-15T23:00:00-04:00';
-  const formatter = buildDateFormatter();
-  const result = formatter(eveningDate);
-  expect(result).to.equal('August 15, 2025');
-});
-
-it('should handle date-only strings without timezone shift', () => {
-  const dateOnly = '2025-08-15';
-  const formatter = buildDateFormatter();
-  const result = formatter(dateOnly);
-  expect(result).to.equal('August 15, 2025');
-});
-```
-
-### Maintainability Issues
-
-The Claims Status application uses a different date handling approach than the rest of VA.gov, creating maintenance challenges:
-
-**Inconsistent Approaches Across the Codebase:**
-- Claims Status: Custom `buildDateFormatter` that causes timezone shifts
-- Platform Standard: `formatDateParsedZoneLong` that preserves dates
-- Result: Developers must remember which approach to use where
-
-**Mixed Date Formats in the Same Component:**
-
-The DocumentsFiled component handles multiple date formats inconsistently:
-
-File: `src/applications/claims-status/components/claim-files-tab/DocumentsFiled.jsx`
-```javascript
-const items = [
-  { uploadDate: "2023-03-17" },        // Date-only from API
-  { receivedDate: "2023-03-15" },      // Date-only from API
-  { date: new Date().toISOString() }   // Full ISO with timezone
-];
-```
-
-All three formats go through the same formatter, but they represent different things:
-- API dates are simple calendar dates that should display as-is
-- JavaScript dates include time and timezone information
-- The current formatter treats them all as UTC timestamps
-
-### Semantic Accuracy Issues
-
-The date display bug has real impacts on veterans using the system:
-
-**User Trust and Confusion:**
-- Veterans uploading documents near deadlines see incorrect submission dates
-- Creates uncertainty about whether submissions were received on time
-- Generates support tickets and phone calls
-- Undermines confidence in the digital claims system
-
-**Specific Problem Scenarios:**
-
-| User's Upload Time | What They See | What They Expected | Impact |
-|-------------------|---------------|-------------------|---------|
-| 11:00 PM ET on the 15th | "Received on 16th" | "Received on 15th" | Deadline anxiety |
-| 9:00 PM PT on the 15th | "Received on 16th" | "Received on 15th" | West coast affected more severely |
-| 6:00 AM ET on the 16th | "Received on 16th" | "Received on 16th" | Works correctly |
-
-## Solution Evaluation
-
-### Option 1: Adopt Platform Standard (Recommended)
-
-The best solution aligns the Claims Status application with VA.gov platform standards by using the existing date utilities:
-
-**Implementation:**
-
-File: `src/applications/claims-status/utils/helpers.js`
-```javascript
-import { formatDateParsedZoneLong, formatDateParsedZoneShort } from 'platform/utilities/date';
-
-export const buildDateFormatter = (formatString = DATE_FORMATS.LONG_DATE) => {
-  return date => {
-    if (formatString === DATE_FORMATS.LONG_DATE) {
-      return formatDateParsedZoneLong(date);
-    }
-    return formatDateParsedZoneShort(date);
-  };
-};
-```
-
-**Why This Is The Best Approach:**
-- Uses battle-tested platform utilities already proven in other VA applications
-- Aligns with VA.gov standards for consistency
-- Platform team maintains the date handling logic
-- Handles all date formats correctly (date-only strings and full timestamps)
-- No custom code to maintain
-
-**Implementation Risk:**
-- Requires testing all components that display dates
-- Small chance of edge cases we haven't identified
-- Can be rolled back if issues arise
-
-### Option 2: Custom Timezone Stripping
-
-We could fix the issue by stripping timezone information before parsing:
-
-**Implementation:**
-
-File: `src/applications/claims-status/utils/helpers.js`
-```javascript
-export const buildDateFormatter = (formatString = DATE_FORMATS.LONG_DATE) => {
-  return date => {
-    const dateWithoutTimezone = date ? date.replace(/(Z|[-+](\d{4}|\d{2}:\d{2}))$/, '') : date;
-    const parsedDate = parseISO(dateWithoutTimezone);
-    return isValid(parsedDate)
-      ? format(parsedDate, formatString)
-      : 'Invalid date';
-  };
-};
-```
-
-**Why We Don't Recommend This:**
-- Duplicates logic that already exists in platform utilities
-- Creates another custom solution to maintain
-- Doesn't align with VA.gov standards
-- Risk of missing edge cases the platform utilities handle
-
-### Option 3: Fix Only New Uploads
-
-We could minimally fix just the upload date generation:
-
-**Implementation:**
-
-File: `src/applications/claims-status/actions/index.js`
-```javascript
 const now = new Date();
-const uploadDate = format(now, 'yyyy-MM-dd');
+
+// Format UTC using toLocaleString (simple, no extra dependencies)
+const utcDateTime = now.toLocaleString('en-US', {
+  timeZone: 'UTC',
+  month: 'long',
+  day: 'numeric',
+  year: 'numeric',
+  hour: 'numeric',
+  minute: '2-digit',
+  hour12: true,
+});
+
+// Format local using platform standard + date-fns-tz for timezone
+const localDate = formatDateLong(now);
+const localTime = format(now, 'h:mm a zzz'); // zzz gives timezone abbreviation
+
+const title = `We received your file upload on ${utcDateTime} UTC (${localDate} at ${localTime})`;
+// Result: "We received your file upload on August 16, 2025 at 2:18 AM UTC (August 15, 2025 at 10:18 PM PDT)"
 ```
 
-**Why This Is Insufficient:**
-- Only fixes dates for new uploads going forward
-- Doesn't fix dates coming from the API
-- Doesn't fix existing uploaded documents
-- Leaves the root cause unaddressed
+### Documents Filed / Recent Activity Disclaimers
 
-### Comparison Matrix
+**Option A: Simple Banner (Recommended for Simplicity)**
+Add above the documents list:
+```
+ℹ️ Note: All dates shown are based on Coordinated Universal Time (UTC) and will be displayed as one day later for files uploaded after 7 PM ET.
+```
 
-| Criteria | Option 1: Platform Standard | Option 2: Custom Fix | Option 3: Partial Fix |
-|----------|----------------------------|---------------------|---------------------|
-| Fixes all date displays | Yes | Yes | No |
-| Aligns with VA.gov standards | Yes | No | No |
-| Maintenance burden | Platform team | Claims team | Claims team |
-| Risk of regression | Low | Low | Very Low |
-| Long-term sustainability | Excellent | Poor | Poor |
-| Completeness of solution | Complete | Complete | Partial |
+**Option B: Additional Info Component (VA Design System Pattern)**
+Add a `va-additional-info` component near the "Documents Filed" and "Recent Activity" sections:
+```jsx
+<va-additional-info
+  trigger="About document dates"
+  disable-analytics
+>
+  <p>
+    Dates shown are based on UTC time. If you uploaded documents in the evening (after 7 PM ET), they will show the next day's date.
+  </p>
+</va-additional-info>
+```
 
-### Recommendation: Option 1 - Platform Standard
+## Appendix A: Detailed Technical Flow
 
-We recommend adopting the platform standard date utilities for the following reasons:
+### API Documentation
+- **Benefits Documents API v1 Spec**: https://api.va.gov/internal/docs/benefits-documents/v1/openapi.json
+- **Benefits Claims API v2 Spec**: https://developer.va.gov/explore/api/benefits-claims/docs?version=current
 
-1. **Consistency**: Aligns with how other VA.gov applications handle dates
-2. **Reliability**: Platform utilities are tested and proven across multiple applications
-3. **Maintenance**: Platform team maintains and updates the utilities
-4. **Completeness**: Fixes all date display issues, not just some
+### Part A: Document Upload Flow (10:18 PM ET, August 15, 2025)
 
-**Implementation Plan:**
+1. **User Action** (`src/applications/claims-status/components/claim-files-tab/AddFilesForm.jsx`)
+   - User navigates to https://va.gov/track-claims/your-claims/[claim-id]/files
+   - User selects a file and clicks "Submit documents for review" button at 10:18 PM ET
+   - Component calls `onSubmit(formattedFiles)`
 
-1. **Update the date formatter** to use platform utilities (shown above)
-2. **Fix upload date generation** to create date-only strings
-3. **Add comprehensive tests** for timezone edge cases
-4. **Deploy behind feature flag** for gradual rollout
-5. **Monitor for any date display issues** during rollout
+2. **Frontend Processing** (`src/applications/claims-status/components/claim-files-tab/AdditionalEvidencePage.jsx`)
+   - `onSubmitFiles` method called
+   - Invokes `submitFiles(claimId, null, files)` action
 
-**Success Metrics:**
-- Zero date discrepancies reported by users
-- All dates display as the actual day events occurred
-- No timezone-related support tickets
-- Tests pass for all timezone edge cases
+3. **Upload Action** (`src/applications/claims-status/actions/index.js`)
+   - Creates FineUploaderBasic instance
+   - Makes API call: `POST /v0/benefits_claims/{claimId}/benefits_documents`
+   - On success, creates notification with `now.toISOString()`
+   - Note: This notification date displays correctly in the alert
 
-**Next Steps:**
-1. Create implementation ticket with technical details
-2. Add timezone edge case tests
-3. Implement fix behind feature flag
-4. Test with team members in different timezones
-5. Gradual production rollout with monitoring
+4. **vets-api Controller** (`vets-api/app/controllers/v0/benefits_documents_controller.rb`)
+   - Receives file upload request
+   - Calls `service.queue_document_upload(params)`
+
+5. **vets-api Service** (`vets-api/lib/lighthouse/benefits_documents/service.rb`)
+   - `queue_document_upload` method processes file
+   - Creates `LighthouseDocument` object without any date
+   - Calls `submit_document` which uploads to Lighthouse API
+
+6. **Lighthouse API Call** (`vets-api/lib/lighthouse/benefits_documents/configuration.rb`)
+   - Makes `POST` request to external Lighthouse Benefits Documents API v1
+   - Endpoint: `POST /services/benefits-documents/v1/documents`
+   - Payload includes: file, claimId, participantId, fileName
+   - **No date/timestamp sent with upload**
+
+7. **External Lighthouse Processing**
+   - Lighthouse Benefits Documents API receives file at 2:18 AM UTC (August 16)
+   - Stores document with timestamp: `2025-08-16T02:18:00.000Z`
+
+### Part B: Document Retrieval and Display Flow (Page Refresh)
+
+8. **User Refreshes Page** (`src/applications/claims-status/containers/FilesPage.jsx`)
+   - FilesPage component mounts
+
+9. **Fetch Claim Details** (`src/applications/claims-status/actions/index.js`)
+   - `getClaim(id)` action dispatched
+   - Makes API call: `GET /v0/benefits_claims/{id}`
+
+10. **vets-api Controller** (`vets-api/app/controllers/v0/benefits_claims_controller.rb:32-61`)
+    - `show` action handles request
+    - Calls `service.get_claim(params[:id])`
+
+11. **vets-api Service** (`vets-api/lib/lighthouse/benefits_claims/service.rb:43-55`)
+    - `get_claim` method called
+    - Makes request to external API: `config.get("#{@icn}/claims/#{id}")`
+
+12. **External API Call** (`vets-api/lib/lighthouse/benefits_claims/configuration.rb`)
+    - Makes `GET` request to external Lighthouse Benefits Claims API v2
+    - Endpoint: `GET /services/claims/v2/veterans/{icn}/claims/{id}`
+
+13. **External Lighthouse Response**
+    - Returns claim data with `supportingDocuments` array
+    - Each document includes:
+    ```json
+    {
+      "uploadDate": "2025-08-16",  // Date in UTC
+      "documentType": "L029",
+      "fileName": "evidence.pdf"
+    }
+    ```
+
+14. **vets-api Returns Data**
+    - Passes through the response without date transformation
+    - Returns to frontend with `uploadDate: "2025-08-16"`
+
+15. **Redux State Update** (`src/applications/claims-status/actions/index.js`)
+    - Dispatches `SET_CLAIM_DETAIL` with claim data
+    - Stores in `state.disability.status.claimDetail.detail`
+
+16. **DocumentsFiled Component** (`src/applications/claims-status/components/claim-files-tab/DocumentsFiled.jsx`)
+    - Receives claim from props
+    - Extracts `supportingDocuments` from `claim.attributes`
+    - Maps through documents
+
+17. **Date Formatting** (`src/applications/claims-status/components/claim-files-tab/DocumentsFiled.jsx`)
+    - Calls `formatDate(doc.uploadDate)` where `doc.uploadDate = "2025-08-16"`
+    - `formatDate` uses `buildDateFormatter()`
+
+18. **Date Display** (`src/applications/claims-status/utils/helpers.js`)
+    - `buildDateFormatter` receives `"2025-08-16"`
+    - Calls `parseISO("2025-08-16")` creating date at midnight local time
+    - Formats as "August 16, 2025"
+    - **User sees UTC date instead of local date**
+
+## Appendix B: Additional Affected Areas
+
+Since the Claims API v2 returns all dates as date-only strings, the following additional areas are also affected by this bug:
+
+### Your Claims List
+- **Component**: `src/applications/claims-status/components/ClaimsListItem.jsx`
+- **Location**: `/track-claims/`
+- **Affected dates**:
+  - Claim received date (`claimDate`)
+  - Last updated date (`phaseChangeDate`)
+
+### Claim Overview Tab
+- **Component**: `src/applications/claims-status/components/claim-overview-tab/ClaimPhaseStepper.jsx`
+- **Location**: `/track-claims/your-claims/[claim-id]/overview`
+- **Affected dates**:
+  - Claim date (`claimDate`)
+  - Current phase date (`currentClaimPhaseDate`)
+
+### Claim Letters
+- **Component**: `src/applications/claims-status/components/claim-letters/ClaimLetterListItem.jsx`
+- **Location**: `/track-claims/your-claims/[claim-id]/letters`
+- **Affected dates**:
+  - Letter received date (`letter.receivedAt`)
+
+### Claim Status Header
+- **Component**: `src/applications/claims-status/components/ClaimStatusHeader.jsx`
+- **Location**: Displayed on all claim detail pages
+- **Affected dates**:
+  - "Last updated" date from tracked items
+
+### What We Are Doing Section
+- **Component**: `src/applications/claims-status/components/claim-status-tab/WhatWeAreDoing.jsx`
+- **Location**: `/track-claims/your-claims/[claim-id]/status`
+- **Affected dates**:
+  - Phase change date (`phaseChangeDate`)
+
+### Files Needed/Optional
+- **Components**:
+  - `src/applications/claims-status/components/claim-files-tab/FilesNeeded.jsx`
+  - `src/applications/claims-status/components/claim-files-tab/FilesOptional.jsx`
+- **Location**: `/track-claims/your-claims/[claim-id]/files`
+- **Affected dates**:
+  - Evidence suspense dates (`suspenseDate`)
+
+### Due Date Display
+- **Component**: `src/applications/claims-status/components/DueDate.jsx`
+- **Location**: Various pages showing evidence deadlines
+- **Affected dates**:
+  - Evidence suspense dates
+
+### Closed Claim Alert
+- **Component**: `src/applications/claims-status/components/claim-status-tab/ClosedClaimAlert.jsx`
+- **Location**: `/track-claims/your-claims/[claim-id]/status`
+- **Affected dates**:
+  - Claim close date (`closeDate`)
+
+All these components use the `buildDateFormatter()` utility function which correctly formats the date strings it receives, but cannot correct for the missing timezone information from the API.
