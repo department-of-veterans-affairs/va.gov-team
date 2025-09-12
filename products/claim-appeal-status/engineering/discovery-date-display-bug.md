@@ -5,11 +5,11 @@ Issue: [#117391](https://github.com/department-of-veterans-affairs/va.gov-team/i
 ## Table of Contents
 - [Problem Statement](#problem-statement)
 - [Quick Root Cause Analysis](#quick-root-cause-analysis)
-- [Critical: VA.gov Deadline Rules](#critical-vagov-deadline-rules-pending-clarification)
+- [Critical: VA.gov Deadline Rules](#critical-vagov-deadline-rules)
 - [Where This Bug Impacts Veterans](#where-this-bug-impacts-veterans)
 - [Solution: Return ISO 8601 Timestamps](#solution-return-iso-8601-timestamps)
 - [Brainstorm of Possible UX Improvements While Awaiting API Fix](#brainstorm-of-possible-ux-improvements-while-awaiting-api-fix)
-- [Appendix A: Detailed Technical Flow](#appendix-detailed-technical-flow)
+- [Appendix A: Detailed Technical Flow](#appendix-a-detailed-technical-flow)
 - [Appendix B: Additional Affected Areas](#appendix-b-additional-affected-areas)
 
 ## Problem Statement
@@ -27,14 +27,15 @@ The bug's root cause is visible in the API schemas:
 ### Benefits Documents API v1 (Upload)
 The upload endpoint (`POST /services/benefits-documents/v1/documents`) accepts NO date/time from the client:
 
-![Benefits Documents API v1 Request Schema](<Screenshot 2025-09-12 at 9.29.23 AM.png>)
+<img width="2630" height="1428" alt="image" src="https://github.com/user-attachments/assets/ede470a9-e834-45d4-b5b5-516010b86dee" />
 
 **Key insight**: Since no timestamp is sent with the upload, we can infer Lighthouse generates its own server-side timestamp in UTC.
 
 ### Benefits Claims API v2 (Retrieval)
 The retrieval endpoint (`GET /services/claims/v2/veterans/{veteranId}/claims/{claimId}`) returns dates as date-only strings:
 
-[Benefits Claims API v2 Response Schema](<Screenshot 2025-09-12 at 9.32.33 AM.png>)
+<img width="1356" height="1502" alt="image" src="https://github.com/user-attachments/assets/7c28c11d-561f-48b2-92d1-275a8b26d704" />
+
 
 **Key insight**: The API returns only date strings without time or timezone information: `"2025-08-16"` instead of `2025-08-16T02:18:00.000Z`.
 
