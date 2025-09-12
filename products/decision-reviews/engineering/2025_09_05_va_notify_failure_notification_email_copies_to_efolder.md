@@ -80,18 +80,7 @@
 - API authentication using existing keys successful
 
 ### ⚠️ Critical Unknowns
-
-#### 1. VA Notify Data Retention (HIGH RISK)
-
-- **Impact**: +0.5-2 sprint risk
-- **Issue**: UK.gov docs state 7-day retention, but VA Notify may differ
-- **Mitigation Options**:
-  - Process PDFs within 24 hours if retention is shorter
-  - Implement real-time processing if <7 days
-  - Store email content locally as backup
-- **Action**: Validate with VA Notify team ASAP
-
-#### 2. PDF Generation Requirements (MEDIUM RISK)
+#### 1. PDF Generation Requirements (MEDIUM RISK)
 
 - **Impact**: +0.5-1 sprint risk
 - **Issue**: Unclear how closely PDF must match email design
@@ -120,8 +109,7 @@ The following items are explicitly NOT included in this LOE:
 
 | Team             | Dependency                       | Status       | Risk   |
 | ---------------- | -------------------------------- | ------------ | ------ |
-| **VA Notify**    | Confirm 7-day retention policy   | 🔴 Pending    | High   |
-| **VA Notify**    | API availability and rate limits | 🟡 Assumed OK | Low    |
+| **VA Notify**    | API usage guidance and rate limits | 🟢 Received (Updated 9/12/25) | Low    |
 | **Lighthouse**   | Benefits Intake API guidance     | 🟢 Received   | None   |
 | **Lighthouse**   | 14-day polling window confirmed  | 🟢 Documented | None   |
 | **Enablement**   | Release plan approval            | 🟡 Future     | Low    |
@@ -154,11 +142,10 @@ Leverage existing `vets-api` infrastructure with minimal new components, process
     - We will need to update this table with new columns to support tracking the creation and upload of the PDF to VBMS
   - `VaNotify::Service` , which wraps UK.gov's open source `notifications-ruby-client` gem's `Notifications::Client`
     - [notifications-ruby-client gem docs](https://docs.notifications.service.gov.uk/ruby.html) 
-    - Although not explicitly exposed in `VaNotify::Service`, POC code below demonstrates that we can use the underlying `Notifications::Client` and existing API key to access the  `get_notification` method, which provides data for one message. Critically, the response from this endpoint provides key data needed for this feature:
+    - ~~Although not explicitly exposed in `VaNotify::Service`, POC code below demonstrates that we can use the underlying `Notifications::Client` and existing API key to access the  `get_notification` method, which provides data for one message.~~ We received some [additional guidance from the VANotify team](https://dsva.slack.com/archives/C010R6AUPHT/p1757536769497629?thread_ts=1757513765.094709&cid=C010R6AUPHT) and realized that we can use the response from sending the email. **Critically, this response provides the key data needed for this feature, and also represents no change in our current usage of the API**:
       - **the subject line and content of the email that was sent** **and the date the email was sent**
         - the personalisation fields are redacted, but we can recreate those easily with a database lookup
           - Notably: first name and submission attempt timestamps for all submissions, and filenames for evidence uploads
-    - **Notification data is retained for 7 days according to the [UK.gov documentation](https://docs.notifications.service.gov.uk/ruby.html#get-the-data-for-one-message), but this needs to be validated with the VA Notify team**
 - We will create the following new service classes and Sidekiq jobs in `vets-api` to facilitate generating PDF copies of delivered failure notification emails and uploading them to a Veteran's eFolder:
   - `DecisionReviews::NotificationEmailToPdfService` 
     - Given a notification ID, will fetch message data from VA Notify and generate a PDF version of the email
