@@ -1,5 +1,53 @@
 # Running Design and Research Agenda
 
+## September 11 2025
+Attendees: Renata Keck, Jamie Fiore, Amanda Klausmeier, Premal Shah, Mike Mooney, Andrea Merrill, Hieu Vo, Jessica Stump
+
+### Agenda
+- Review [UX Now/Next/Later](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1741036478284/cf85ff75ac061c0cb4edb8c246bbb0c4db453b8e)
+- Review updated [OHI headers in 1010d merge in figma]([updated OHI headers in 1010d merge](https://www.figma.com/design/UmAtr3ULQEInMXfNFwP0g0/Application-for-CHAMPVA---10-10d--and-OHI-Certification--10-7559c--WIP?node-id=8744-28742&t=nsqrtzisLFbEhvXh-4))
+- Talk about the [FMP Direct Deposit Figma](https://www.figma.com/design/WYZCqWcS2gJWIqLtmQlvl7/FMP-Claim-Cover-Sheet--10-7959f-2-?node-id=6219-44754&p=f&t=BL524fCx8N8eTLMR-0)
+### Notes
+- Review [UX Now/Next/Later](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1741036478284/cf85ff75ac061c0cb4edb8c246bbb0c4db453b8e)
+  - *Now:*
+    - 1010/merge: tying up UX before launch and contract end
+    - Claims:  Cleaning up MVP, working on Sendback suggestions
+    - FMP Claim jessica working Direct Deposit
+    - UX Figma clean up WIll working on Champva claims, F1 and OHI next
+    - UX mural documentation clean up
+  - *Next:*
+    - Multiple claims
+  - Renata will flesh out the  Next and Later columns as the Health apps team integrates more into IVC projects
+  - Premal interested in how we prioritize IVC forms with Health app forms
+  - *Action Item:* Andrea to set up a roadmapping call as we do for IVC right now.
+- Review updated [OHI headers in 1010d merge in figma]([updated OHI headers in 1010d merge](https://www.figma.com/design/UmAtr3ULQEInMXfNFwP0g0/Application-for-CHAMPVA---10-10d--and-OHI-Certification--10-7559c--WIP?node-id=8744-28742&t=nsqrtzisLFbEhvXh-4))
+  - We may want to condense down the content. We can wait for C/IA to give suggestions so we know better what we are working with. We may consider using additional components to better organize content and make it appear less
+  - These content updates are not a launch blocker but should be a fast follow to address concerns about usability we found within the recent claims studies
+  - We may be able to pull the updates to the headers in earlier
+  - Premal is okay with pushing all of these changes to after launch if we don’t have time to get it done by the 29th as we want to concentrate on getting the 1010d merge live to alleviate the duplicate health insurance cards faster; a major pain point for CHAMVPA partners
+  - Premal is concerned about it not stating that the OHI cert was completed in the email notification. We will need to do engineering discovery on the email to figure out if we can dynamically pull the form name in based on if the user completed it or not.
+  - Should we consider adding the backlog days in the email as MVP? Engineering has a component to update the backlog days in all areas on the form.
+  - Additional question from Premal but not urgent: Would CHAMVPA reclaim payment if an applicant stated that they did not have Medicare and they actually did have it.
+    - IVC found out in other stakeholder meetings that it’s rare that CHAMPVA has to reclaim money. Usually CHAMVPA will ask for a complete OHI form in that case. They are some small cases with it in necessary though to ask bene’s to pay CHAMVPA back
+    - *Action Item:* We need to ask CHAMPVA about how that works on the next bi-weeky call
+   - *Decision:* We decided on the header, confirmation page, and maybe emails will make it in the MVP.
+- Talk about the [FMP Direct Deposit Figma](https://www.figma.com/design/WYZCqWcS2gJWIqLtmQlvl7/FMP-Claim-Cover-Sheet--10-7959f-2-?node-id=6219-44754&p=f&t=BL524fCx8N8eTLMR-0)
+  - Jessica showed different options: One options follows the travel pay flow: A problem with that is that the instructions are lengthy (about 10 pages)> Users also have to open 2 tabs away from the form.  These links will be on the both the intro page and payment
+  - “FSC” is probably not a term the Veterans would have heard before
+  - We thought FMP is not able to mail paper checks but we found notes in the service blueprint sync talking about mailing paper check to foreign bank accounts. We may want to confirm with FMP about this
+  - May want to change the language on the 60 days alerts and not be so explicit about timing
+  - Questioned if it is more of a risk to let the Veteran update FSC than letting FMP do it? Would it fall out of sync with VA? VA and FSC should always match unless they changed their bank account recently.
+  - If they file a claim for the first time and add an VA account FMP will use that and add to FSC
+  - We can possibly step out the conditional logic branching questions to take the burden off the user to figure it out.
+  - Premal is trying to get FMP to change their payment process to something easier
+  - We would want to do some usability testing if we send them to the portal?
+  - *Action Item:* Jessica to explore more options using the stepped out logic with branching question
+  - *Action Item:* Holding off publishing until this is figured out? Told Andy a sprint or two but may take longer
+  - *Action Item:* Haven’t heard anything on CHAMVPA doing this as well. We may want to preempt them on the risks that we are discovering with FMP. 
+
+
+
+
 ## September 4 2025
 Attendees: Renata Keck, Jamie Fiore, Amanda Klausmeier, Premal Shah, Mike Mooney, Andrea Merrill, Hieu Vo, Jessica Stump
 
