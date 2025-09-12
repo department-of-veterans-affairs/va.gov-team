@@ -77,6 +77,10 @@
 * /my-health/medications/refill
 * /my-health/medications/prescription/*
 
+### Medical supplies
+Note: for forms (which this one is) the Medallia intercept survey is only included on the confirmation page. The "Feedback" button is on all pages of the form, though. 
+* /health-care/order-hearing-aid-or-CPAP-supplies-form/confirmation
+
 ### Medical records
 * /my-health/medical-records
 * /my-health/medical-records/
