@@ -9,7 +9,7 @@ This initiative focuses on improving the veteran experience by displaying health
 
 - [EZR Form Statuses Epic #117626](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117626)
 - [Figma for on-screen Intro page status messaging](https://www.figma.com/design/FIol4hCGVx9eTrY0AXDmnl/10-10EZR-Production?node-id=2711-51591&t=KDXhIY7IbTMot5EV-1)
-- [10-10EZR Form Statuses GitHub Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/health-update-form/Form%20Statuses)
+- [10-10EZ Form Statuses GitHub Folder](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/health-care/application/va-application/Form%20Statuses)
 - [VFF and MyVA submission statuses research](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues?q=is%3Aissue+label%3A%22DSP%3A+Help%20users%20to%20stay%20informed%20of%20app%20status%22)
 - [My VA: Benefit Applications and Forms Use Cases](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity-personalization/my-va/use-cases/benefit-applications-and-forms-use-cases)
 - [Figma file on Form Statuses](https://www.figma.com/design/15yOY4VEzitxm5tRMDiAzz/My-VA?node-id=2049-36392&p=f&t=8FmjsddG1O9L4aoJ-0)
@@ -31,7 +31,7 @@ This initiative focuses on improving the veteran experience by displaying health
 Veterans updating their health records through the 10-10EZR form currently have limited visibility into their form status outside of the form's introduction page. Unlike the 10-10EZ healthcare application which displays some status information on MyVA, the 10-10EZR health update form statuses are not shown on commonly accessed personalized pages. This creates a gap in veteran experience where health record updates may be forgotten or delayed due to lack of visibility.
 
 **Why do you think the problem is occurring?**
-- Health update form statuses are only visible on the form introduction page
+- Health update form statuses are not visible on the form introduction page
 - MyVA displays 10-10EZ application statuses but not 10-10EZR update form statuses
 - Veterans may not regularly check form-specific pages after submission
 - Lack of proactive notifications about form status changes (saved in-progress, review in-progress, pending more information)
@@ -103,7 +103,7 @@ This work is supported by existing research:
 - Design Lead (Lois Lewis) request based on identified user needs
 - Existing MyVA form status patterns and research from Benefits forms work
 
-**Additional research needed:**
+**Additional potential research:**
 - Veteran mental models for health record updates vs. initial applications
 - Optimal notification timing and methods for different 10-10EZR statuses
 - Impact assessment of status visibility on form completion rates
@@ -116,9 +116,8 @@ This work is supported by existing research:
   - 'Review In Progress' status on MyVA
   - 'Pending more information' status on MyVA
 - Clear guidance on next steps for each status
-- Integration with existing MyVA healthcare section
 - Consistency with existing form status display patterns
-- Responsive design across devices
+- Additional notifications through VA Notify, or working with HEC to develop a staff-side process
 
 **Explicitly not included:**
 - Changes to the 10-10EZR form itself
@@ -127,29 +126,11 @@ This work is supported by existing research:
 - SMS notification capabilities
 - Changes to 10-10EZ status displays (separate initiative)
 
-**Mobile application consideration:**
-Should align with existing VA mobile app form status patterns and be considered for future mobile implementation to maintain cross-platform consistency.
-
 **How this addresses Assumptions & Risks:**
 - Leverages existing MyVA form status infrastructure to reduce technical risk
 - Builds on established research and design patterns
 - Uses proven email notification patterns for saved forms
 - Aligns with existing healthcare section design
-
-#### Go-to-market
-
-**Marketing/Communications:**
-- Announcement through existing VA health update communication channels
-- Integration with existing healthcare enrollment communications
-- Training for VA support staff on new status display locations
-- Documentation updates for veteran-facing materials
-
-**Necessary groups/orgs:**
-- VA Healthcare teams managing 10-10EZR processing
-- MyVA product team
-- Identity Personalization team
-- VA.gov Platform team
-- Veterans Health Administration (VHA)
 
 ---
 
@@ -174,7 +155,7 @@ Should align with existing VA mobile app form status patterns and be considered 
 - Design alignment with existing MyVA patterns: [TBD]
 - Technical implementation using existing infrastructure: [TBD]
 
-* [Link to Release Plan for this Initiative](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/product-management/release-plan-template.md) - TBD
+* [Link to Release Plan for this Initiative] - TBD
 
 #### Initiative Launch Dates
 
@@ -186,8 +167,11 @@ Should align with existing VA mobile app form status patterns and be considered 
 ## Screenshots
 
 ### Before
-[Screenshots of current MyVA healthcare section showing 10-10EZ status but not 10-10EZR status]
-[Screenshots of 10-10EZR form introduction page with current status messaging]
+- MyVA dashboard showing application saved with "Draft" label (not yet submitted)
+     - <img width="470" height="268" alt="image" src="https://github.com/user-attachments/assets/db619667-c400-4465-baa4-7543d93aeb16" />
+
+- MyVA dashboard showing Health Care section with various links to manage health care details. (Veteran is enrolled, this is what displays)
+     - <img width="785" height="314" alt="image" src="https://github.com/user-attachments/assets/ea643314-29f6-45a7-a10e-173c0ab697a1" />
 
 ### After
 [Mockups of enhanced MyVA with 10-10EZR status displays]
@@ -201,10 +185,10 @@ Should align with existing VA mobile app form status patterns and be considered 
 
 <details>
 
-- Team Name: [Health Applications Team]
-- GitHub Label(s): [1010-team, 10-10ezr, 1010-form-status]
-- Slack channel: [1010-health-apps]
-- Product POCs: [Heather Justice]
+- Team Name: Health Applications Team
+- GitHub Label(s): 1010-team, 10-10ezr, 1010-form-status
+- Slack channel: 1010-health-apps
+- Product POCs: Heather Justice
 
 </details>
 
@@ -214,11 +198,11 @@ Should align with existing VA mobile app form status patterns and be considered 
 
 <details>
 
-- Office/Department: OCTO-DE MyVA Team / Personalization
-- Contact(s): [TBD]
+- Office/Department: OCTO-DE Product Owner
+     - Contact(s): Patrick Bateman, Premal Shah
 
 - Office/Department: VA Healthcare Enrollment & Eligibility
-- Contact(s): [Angela Fulton, Simone Gully, Amanda Scully, April Mims]
+     - Contact(s): Angela Fulton, Simone Gully, Amanda Scully, April Mims
 
 
 </details>
