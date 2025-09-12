@@ -9,35 +9,17 @@ This report brings together feedback from **four Design System users (2 Designer
   3. [Static/Expanded option 2](./images/component-checklist-layout-option-2.png)
   4. [Compact list option 3](./images/component-checklist-option-3.png)
 
-## Executive Summary  
+### Executive Summary  
 User feedback shows that the **component checklist** is not a primary decision-making tool but can provide value if improved. Key takeaways include:  
 - **Low usage overall**: Designers and Engineers rarely use the checklist day-to-day, but see value during audits (especially accessibility).  
 - **Trust depends on accuracy**: Users question whether statuses are updated; adding “last updated” dates could build confidence.  
 - **Status clarity is needed**: Current maturity and color states are confusing; users want clearer definitions and phase-based statuses.  
 - **Accessibility and layout matter**: Red/green icons are not inclusive; users had mixed preferences for accordion vs. summary-at-top layouts.
 
-Prototype feedback
-The checklist is rarely consulted for decision-making. Most users said they ignore it unless doing an audit or checking accessibility.
-
-“I’ll be honest. Whether or not I use a component is at the very top: is it deployed, is it green? I’m good.” – Designer
-
-Status indicators can be misleading. Users were confused when maturity at the top said “green,” but checklist details showed gaps.
-
-“What’s deceptive is it says at the top everything is green, but then at the bottom mobile isn’t even here.” – Designer
-
-Icons are not accessible. Red/green indicators without text alternatives fail for colorblind users.
-
-“My devs who are red-green color blind would not be able to tell the difference.” – Designer
-
-Preferences for layout varied. Some preferred compact accordions for less clutter, while others wanted a top-level summary with anchor links.
-
-“For me I’d probably say accordions, because I don’t really care about the completion status.” – Engineer
-
-“I’d prefer just a compact list at the top with a link down if I need details.” – Designer
-
 ---
+## Feedback
 
-## 1. Awareness and Use  
+### 1. Awareness and Use  
 - **Checklist is not a primary tool.** Many users said they rarely consult it, unless doing audits or checking accessibility.
   
   > *“I don’t think I’ve ever really looked at the checklist stuff… almost never actually.”* – Engineer
@@ -54,7 +36,7 @@ Preferences for layout varied. Some preferred compact accordions for less clutte
 
 ---
 
-## 2. Accuracy and Trust  
+### 2. Accuracy and Trust  
 - **Completion status is questioned.** Users were unsure how closely the checklist is maintained or how often it is updated.
 
   > *“How closely is that tracked and how often is that updated? That can get lost in the abyss.”* – Engineer
@@ -75,7 +57,7 @@ Preferences for layout varied. Some preferred compact accordions for less clutte
 
 ---
 
-## 3. Status Indicators and Clarity  
+### 3. Status Indicators and Clarity  
 - **Disconnect between top-level maturity and checklist detail.** Some noticed that a component could be marked “green” overall, while details showed incomplete items.
   
   > *“It says at the top everything is green, but then at the bottom mobile isn’t even here.”* – Designer
@@ -102,7 +84,7 @@ Preferences for layout varied. Some preferred compact accordions for less clutte
 
 ---
 
-## 4. Layout Preferences  
+### 4. Layout Preferences  
 - **Mixed reactions to accordions vs. flat lists.** Engineers leaned toward compact accordions, while some Designers preferred an overview at the top.
   
   > *“I’d probably say accordions… I don’t really care about the completion status.”* – Engineer
@@ -113,9 +95,10 @@ Preferences for layout varied. Some preferred compact accordions for less clutte
 
 ---
 
-## 5. Proposed Improvements  
-1. **Add “last updated” dates** to increase trust.  
-2. **Clarify status meanings** (e.g., design complete, development in progress).  
-3. **Improve accessibility** of status icons with text labels or alternative markers.  
-4. **Prioritize warnings/in-progress first**, instead of listing all completed items.  
-5. **Offer flexible layouts** (accordion for compactness; summary at top for scanning).  
+## Proposed Improvements  
+1. Reevaluate the component checklist is solving and how it could align with the maturity levels. 
+2. **Add “last updated” dates** to increase trust.  
+3. **Clarify status meanings** (e.g., design complete, development in progress).  
+4. **Improve accessibility** of status icons with text labels or alternative markers.  
+5. **Prioritize warnings/in-progress first**, instead of listing all completed items.  
+6. **Offer flexible layouts** (accordion for compactness; summary at top for scanning).  
