@@ -9,7 +9,7 @@ Follow these step-by-step instructions to create a Login.gov account for develop
 3. Click the link in the email to return to Login.gov. First create your password, then add your multifactor authentication (MFA) method(s). 
 
 > [!NOTE]  
-> Login.gov lower environments enforce real multifactor authentication (MFA) usage (unlike ID.me, which spoofs it). So choose methods that you actually plan to use.
+> Login.gov lower environments enforce real multifactor authentication (MFA) usage (unlike ID.me, which spoofs it). So choose methods that you actually plan to use. It's also a good idea to capture the MFA enrollment QR image/text code in order to share out authenticators for the account with other team members.
 
  <img width="779" height="858" alt="add_mfa" src="https://github.com/user-attachments/assets/6c4c21f0-415d-41a9-9bd5-5826f1e2e102" />
 
