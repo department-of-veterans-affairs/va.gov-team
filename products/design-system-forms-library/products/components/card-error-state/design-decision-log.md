@@ -160,7 +160,7 @@ After discussions with DST Engineers, we realized we should just build the card 
 ### Decision
 We can build a card status variant based on the work done here. Card statuses need a headline and body copy, at a minimum. Items supporting an error state need a tag, an error message, and a link to resolve the error.
 
-A discussion board was started and teams were invited to contribute. As of 9/12/25 no one has.
+A [discussion board](https://github.com/department-of-veterans-affairs/vets-design-system-documentation/discussions/4535) was started and teams were invited to contribute. As of 9/12/25 no one has.
 
 ### Consequences
 - A consequence could be building a status card component that is too restrictive for teams. 
