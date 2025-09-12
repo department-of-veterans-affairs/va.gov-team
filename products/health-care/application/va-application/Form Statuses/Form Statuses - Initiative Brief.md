@@ -23,6 +23,7 @@ This initiative focuses on improving the veteran experience by displaying health
 
 **Related/Associated product(s)**
 - VA Healthcare Application (10-10EZ) | [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/application/va-application/10-10EZ%20Health%20Care%20Application%20-%20Product%20Outline.md)
+- MyVA Dashboard | [Product outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity-personalization/my-va/README.md)
 
 ## Problem
 
@@ -94,6 +95,11 @@ This work is requested by Design Lead (Lois Lewis) based on identified user need
 - Understand veteran mental models for application progress
 - Identify any additional statuses or information veterans need
 
+This work is supported by existing research:
+- [VFF and MyVA submission statuses research](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues?q=is%3Aissue+label%3A%22DSP%3A+Help%20users%20to%20stay%20informed%20of%20app%20status%22)
+- Design Lead (Lois Lewis) request based on identified user needs
+- Existing MyVA form status patterns and research from Benefits forms work
+
 ### What're you building?
 
 **In scope:**
@@ -152,6 +158,10 @@ This work is requested by Design Lead (Lois Lewis) based on identified user need
 ### Before
 - MyVA dashboard showing application saved with "Draft" label (not yet submitted)
      - <img width="470" height="268" alt="image" src="https://github.com/user-attachments/assets/db619667-c400-4465-baa4-7543d93aeb16" />
+
+- MyVA dashboard showing Health Care section with various links to manage health care details. (Veteran is enrolled, this is what displays)
+     - <img width="785" height="314" alt="image" src="https://github.com/user-attachments/assets/ea643314-29f6-45a7-a10e-173c0ab697a1" />
+
 
 - Alerts that display on 10-10EZ for various statuses
      - [Mural board](https://app.mural.co/t/departmentofveteransaffairs9999/m/departmentofveteransaffairs9999/1683651181051/e0f47b9aaefbf78a3942df3028525cdc4336caff)
