@@ -56,8 +56,6 @@ When a veteran uploads a document after 7 PM ET (after midnight UTC), the follow
 
 **Key Question**: What timezone defines the legal deadline for evidence submission?
 
-Until confirmed, we cannot determine if the current behavior is a bug or working as intended.
-
 **Example: Upload at 10 PM ET on Aug 15**
 - If deadlines are midnight UTC (8 PM ET): If Veteran missed deadline then showing "Aug 16" (the UTC date) is correct
 - If deadlines are ET: If Veteran is on time showing "Aug 16" (the UTC date) is wrong
