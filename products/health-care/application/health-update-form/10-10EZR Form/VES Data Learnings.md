@@ -16,90 +16,98 @@
   <Summary>08/27/2025 Slack conversation with Derrick Ellerbie and Joshua Faulkner on the first round of Associations API errors</Summary>
 
 >**Heather Justice**
-> Aug 27th at 6:15 AM
+>Aug 27th at 6:15 AM
+>
 >Joshua Faulkner when you have a moment, we've seen 2 different errors with the associations api and wondered if there is anything on VES side that indicates an error in updating the associations data?
 >first issue was a 500 error "Error transforming VES association: VES association is missing the following field(s): relationship"
 >second issue was 400 error "10-10EZR update associations failed: The request could not be properly read.  Please check the information before trying again."
 >
 >**Joshua Faulkner**
 >  Aug 27th at 7:06 AM
+>
 >i don't see the 500, is that coming from the read or the update? Need the timestamp and/or the icn if you have it.
 >
 >**Heather Justice**
 > Aug 27th at 7:11 AM
+>
 >The timestamp is 4:49p ET.  Derrick Ellerbie was looking into the log yesterday, may be able to get the ICN
 >
 >**Joshua Faulkner**
 >  Aug 27th at 7:58 AM
+>
 >not one of the values accepted for Enum class: [BROTHER, CHILDINLAW, MOTHER, SISTER, DAUGHTER, UNRELATED_FRIEND, EXTENDED_FAMILY_MEMBER, STEPCHILD, WIFE, SON, NIECE_NEPHEW, HUSBAND, FATHER, GRANDCHILD, WARD]
+>
 >`fluentbit.@timestamp Aug 26, 2025 @ 23:46:06.814`
+>
 >what time was the 400?
+>
 >that timestamp above i put is UTC btw
 >
 >**Heather Justice**
 >Aug 27th at 8:03 AM
+>
 >the 400 error timestamp is 1:46:05am ET
 >
 >**Joshua Faulkner**
 >  Aug 27th at 8:51 AM
+>
 >yep so the 400 is the invalid relationship submitted in the update, appears there is a disconnect on allowed values
 >
 >**Heather Justice**
 >  Aug 27th at 8:52 AM
+>
 >Derrick Ellerbie can you confirm the allowed values for both EC and NOK?
 >
 >**Joshua Faulkner**
 >  Aug 27th at 8:54 AM
+>
 >the 500 appears to be a retrieve of a record that has no relationship currently defined on existing associate, which we do have some of those in the older data, it should not fail though ideally, can it be displayed as unpopulated/null then the user have to provide >the relationship when they update it?
 >
 >**Derrick Ellerbie**
 >  Aug 27th at 8:59 AM
+>
 >Yes, the first error is after we get the association data from VES, we see that there isn't a value for the attributes relationship or relationType in the payload and we throw an error
 >
 >As for the enums, I think the way we are formatting the enum values looks incompatible with how VES is expecting them:
 >https://github.com/department-of-veterans-affairs/vets-json-schema/blob/master/dist/10-10EZR-schema.json#L1237-L1252
 >
+>
 >Best guess is that we're not converting CHILD-IN-LAW or NIECE/NEPHEW into CHILDINLAW and NIECE_NEPHEW
 >
 >**Derrick Ellerbie**
 >  Aug 27th at 11:28 AM
+>
 >Joshua Faulkner Is it possible for the name or the role to ever be blank in the get_associations API response?
 >
 >**Joshua Faulkner**
 >  Aug 27th at 11:56 AM
+>
 >the name should not ever be completely blank, but there is some very old data where the role may not be populated, i am not sure if we filter them out before it gets sent back though, in general it should be unexpected that you get it as blank.
 >
 >**Derrick Ellerbie**
 >  Aug 27th at 1:54 PM
+>
 >Joshua Faulkner for the error involving the enum, are you able to tell me what value was submitted that caused that specific error?
 >
 >**Joshua Faulkner**
 >  Aug 27th at 1:56 PM
+>
 >i cannot, the raw payloads aren't enabled to be logged, but even if it were they don't get logged until after the failed binding up front anyways. Our error message should really be updated to capture which one it is when this happens, is what we should do for future.
 >
 >**Derrick Ellerbie**
 >  Aug 27th at 1:58 PM
+>
 >Thank you. If a blank or nil value was submitted for the relationship, would we see this enum error or would it say something like "relationship is required"
 >
 >**Joshua Faulkner**
 >  Aug 27th at 2:04 PM
->its just a generic 400 message for failed mapping, but that'll happen only for invalid value, if its blank value it'll be a different message as a 200. So whatever value it is is provided, but is not one of the valid ones.
 >
->`{
->  "messages": [
->    {
->      "description": "The request could not be properly read.  Please check the information before trying again.",
->      "code": "VES_107"
->    }
->  ],
->  "retryable": false
->}`
+>its just a generic 400 message for failed mapping, but that'll happen only for invalid value, if its blank value it'll be a different message as a 200. So whatever value it is is provided, but is not one of the valid ones.
+><img width="596" height="242" alt="image" src="https://github.com/user-attachments/assets/a622db00-9ee0-4c2a-ba80-308f02cf8119" />
+
 >
 >for a null/missing relationship it is:
->`{
->      "description": "associations[0].relationType: Relation type is required",
->      "code": "VES_109"
->    },`
+><img width="586" height="130" alt="image" src="https://github.com/user-attachments/assets/543e3573-0b2d-44f2-8681-36c285dcc4d9" />
 >    
 </details>
 
