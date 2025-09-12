@@ -42,6 +42,10 @@ Previously, the use of tokens were not tracked. The introduction of this questio
 
 The drawer is the latest pattern release. Applicable teams provided support in discovery sessions. The pattern is anticipated to be adopted by at least two teams that plan to use the drawer with the data grid.
 
+#### Reference
+- [FY25 Q3 Survey](https://dvagov.sharepoint.com/:x:/r/sites/CDSProgramTeam/Shared%20Documents/General/Clinical%20Design%20System/Clinical%20DS%20Metrics/FY25%20Q3%20VA%20Clinical%20Design%20System%20Usage%20Metrics.xlsx?d=w5eb09c25037e400ab292b56a712d4b7c&csf=1&web=1&e=xzV55V)
+- [FY25 Q3 Synthesis](https://dvagov.sharepoint.com/:x:/r/sites/CDSProgramTeam/Shared%20Documents/General/Clinical%20Design%20System/Clinical%20DS%20Metrics/FY25%20Q3%20Synthesis%20of%20VA%20CDS%20Design%20System%20Usage%20Metrics.xlsx?d=w8ef985410ad14734b402bb309f15ac8e&csf=1&web=1&e=p9URjX)
+
 ### FY25 Q2 Summary
 (added June 4, 2025 )
 
