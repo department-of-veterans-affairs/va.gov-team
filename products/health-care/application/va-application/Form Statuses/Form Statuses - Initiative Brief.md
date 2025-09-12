@@ -99,8 +99,8 @@ This work is requested by Design Lead (Lois Lewis) based on identified user need
 **In scope:**
 - Display of healthcare application statuses ('In Process,' 'Enrolled,' 'Declined,' 'Pending more information') on appropriate VA.gov personalized pages
 - Clear guidance on next steps for each status
-- Integration with existing MyVA healthcare section
-- Responsive design that works across devices
+- Possible integration with existing MyVA healthcare section
+- Additional notifications through VA Notify, or working with HEC to develop a staff-side process
 
 **Explicitly not included:**
 - Changes to the actual healthcare application form
@@ -108,26 +108,10 @@ This work is requested by Design Lead (Lois Lewis) based on identified user need
 - New notification systems (email/SMS alerts)
 - Historical status tracking or timeline views
 
-**Mobile application consideration:**
-Building for VA Health and Benefits mobile app should be considered as a future iteration to ensure consistent experience across platforms.
-
 **How this addresses Assumptions & Risks:**
 - User research will validate value and usability assumptions
 - Technical spikes will address feasibility concerns
 - Stakeholder engagement will ensure organizational viability
-
-#### Go-to-market
-
-**Marketing/Communications:**
-- Announcement through VA communication channels about improved status visibility
-- Training for VA call center staff on new status display locations
-- Documentation updates for veteran-facing support materials
-
-**Necessary groups/orgs:**
-- VA Healthcare Enrollment teams
-- MyVA product team
-- VA.gov Platform team
-- Veterans Experience Office (VEO)
 
 ---
 
