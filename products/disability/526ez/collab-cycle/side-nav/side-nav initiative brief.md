@@ -1,30 +1,9 @@
 # 526ez - Side Navigation Initiative Brief 
-#### Overview
 
-<details>
- 
- *There is roughly a 1:many relationship between products and initiatives, or our attempts to improve a product/achieve Veteran outcomes. The same goes for product outlines and initiative briefs. This template can be used as product documentation for the Collaboration Cycle, especially when iterating an existing product. In addition, the Brief is an important communication tool within a team and between the team and Crew Chief/PO/other teams.* 
- 
-</details>
-
-<details>
- <Summary>Examples:</Summary>
- 
- - *Product: On-site Search* 
-   - *Initiatives: Type-ahead, [Search Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/search-landing/initiative-brief.md), [Surfacing Other Search Tools](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/on-site-search/initiatives/surfacing%20other%20search%20tools/initiative-%20brief.md)*
- - *Product: VA.gov Profile*
-   - *Initiatives: Combine Account & Profile, Direct Deposit for Disability, Candidate Address Validation, Direct Deposit for Education, Notification Preferences*
- - *Product: Disability Claims*
-   - *Initiatives: Original Claims, Benefits Delivery at Discharge (BDD)*
- 
- </details>
- 
- > 💡 Helpful guidance/tips
- 
----
 
 ## Outcome Summary
-> *Brief statement describing opportunity you're pursuing e.g. "Increase Use of Search Tools on VA.gov." Include measurable outcome (i.e. metric) you're trying to affect.*
+
+Our [superepic](https://github.com/department-of-veterans-affairs/va.gov-team/issues/116289) describes the veteran outcomes we're aiming to achieve with this work. 
 
 We are implementing the [side navigation component](https://design.va.gov/components/sidenav) into the 526ez form. The side navigation will contain the 6 main steps of the form: (1) Veteran details (2) Conditions (3) Mental health (4) Suppporting evidence (5) Additional information (6) Review and submit. By implementing the `side navigation` we intend on giving Veterans the ability to skip sections and navigate back to sections without having to hit the `back` or `continue` button multiple times. Providing a navigation feature will also provide Veterans with an overview of all form section and help them have a stronger sense of progress across sections. By implementing the `side navigation` we will reduce the number of clicks it takes for a Veteran to complete the form, consequently making the act of filling out the form quicker and more efficient.
 
