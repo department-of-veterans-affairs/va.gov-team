@@ -58,6 +58,11 @@ Future iterations of this implementing the side navigation component will includ
   - (1) Track form completion status 
   - (2) Highlight current Step 
   - (3) Handle disabled/enabled states for navigation items
+- **Testing**: 
+  - (1) Implement Cypress tests for front-end tests
+- **Example Implementation**:
+  - (1) Can be found here: [Prototype Implementation](https://github.com/department-of-veterans-affairs/va.gov-team/issues/118561#issuecomment-3285628211)
+  
 
 ## Data Requirements and Considerations
 - The current form schema is inconsistent—some chunks are grouped under a single object, others spread out. This may affect how Side Nav maps sections and impacts stability. There is a risk that Side Nav can’t align cleanly with existing schema structure.
