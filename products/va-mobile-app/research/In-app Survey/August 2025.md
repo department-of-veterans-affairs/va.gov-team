@@ -1,17 +1,19 @@
 # RX In-App Survey Feedback from the VA Health & Benefits App from August, 2025 
 ## Summary
-Feedback includes 243 total responses, each with a rating ranging from not at all satisfied to very satisfied. Ratings of not at all satisfied and dissatisfied are considered negative, neither satisfied or dissatisfied represents neutral, and satisfied or very satisfied are positive.
+Feedback includes 244 total responses, each with a rating ranging from not at all satisfied to very satisfied. Ratings of not at all satisfied and dissatisfied are considered negative, neither satisfied or dissatisfied represents neutral, and satisfied or very satisfied are positive.
 
 ## Overall distribution of ratings
 
+<img width="525" height="420" alt="image" src="https://github.com/user-attachments/assets/83e747cf-8300-489a-b4f1-174923cec8d2" />
+
 | Rating | % of ratings | # of ratings |
 |--|--|--|
-| = Very satisfied | % | 157 |
-| = Satisfied | % | 49 |
-| = Neither satisfied or dissatisfied | % | 13 |
-| = Dissatisfied | % | 8 |
-| = Not at all satisfied | % | 5 |
-| = blank or not set | % | 19 |
+| = Very satisfied | 64.34% | 157 |
+| = Satisfied | 20.08% | 49 |
+| = Neither satisfied or dissatisfied | 5.33% | 13 |
+| = Dissatisfied | 3.28% | 8 |
+| = Not at all satisfied | 2.05% | 5 |
+| = not set | 4.92% | 12 |
 
 ### Outline
 1. [General/other feedback](link)
@@ -40,7 +42,7 @@ Feedback includes 243 total responses, each with a rating ranging from not at al
 Note: General feedback includes responses that reflect Veteran experiences with their healthcare teams, or the VA in general and may not specifically be related to the VA Health and Benefits app. 
 
 ### Summary of overall feedback
-1-2 paragraphs summarizing monthly feedback.
+The survey results reveal a high-level of user satisfaction with the service with over 84% of responses rating their experience as positive. For the remaining who rated the app either neutral or negative the primary reasons related to login difficulties, prescription refill problems, and lacking app functionality.
 
 ### Positive
 
@@ -65,7 +67,7 @@ Representative responses:
 |--|--|--|
 | = Dissatisfied | % | # |
 | = Not at all satisfied | % | # |
-1-2 sentences describing the general negative sentiment.
+Users who rated their experience negatively commonly 
 
 Representative responses:
 
