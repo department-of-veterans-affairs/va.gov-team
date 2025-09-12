@@ -361,6 +361,7 @@ Responses:
 | Feature | # of ratings |
 |--|--|
 | Letters and documents | 2 |
+
 Only two responses this month noted letters and documents in their feedback. Both rating the app as very satisfied for ease of use. 
 
 Responses:
@@ -434,6 +435,7 @@ Representative responses:
 | Feature | # of ratings |
 |--|--|
 | Messaging | 9 |
+
 Nine users specifically mentioned messaging, all in which were rated positive. However, users note challenges with list options needing to identify which department to reach with their concerns, naming, or missing needed providers from the list. One user specifically mentioned a believed bug where the button you type after entering a message saves your message as a draft by default, this resulted in unsent messages the user had believed they had sent. Another requested the ability to create folders.
 
 Representative responses:
