@@ -17,8 +17,7 @@ on:
       - master
       - main
   schedule:
-    # Run daily to check for reports that are ready to share
-    - cron: '0 14 * * *'  # 2 PM UTC = 10 AM ET / 7 AM PT
+    - cron: '0 14 * * *'
   workflow_dispatch:
     inputs:
       research_file_path:
@@ -38,12 +37,12 @@ permissions:
 jobs:
   share-research-findings:
     runs-on: ubuntu-latest
-    timeout-minutes: 60  # Extended per large repo guidance
+    timeout-minutes: 60
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 1  # shallow clone for performance
+          fetch-depth: 1
           sparse-checkout: |
             .github/workflows/
             products/
@@ -66,150 +65,47 @@ jobs:
             echo "jq not found; installing..."
             sudo apt-get update -y
             sudo apt-get install -y jq
-          else
-            echo "jq already installed"
           fi
           jq --version
 
-      - name: Find eligible research files
+      - name: Make scripts executable
+        run: |
+          chmod +x scripts/github-actions/share_to_slack/*.sh || true
+
+      - name: Find eligible research files (script)
         id: find-files
+        env:
+          RESEARCH_FILE_PATH: ${{ github.event.inputs.research_file_path }}
+          IGNORE_TIME_DELAY: ${{ github.event.inputs.ignore_time_delay }}
+          WAIT_DAYS: 3
+          SHARED_FILES_LOG: .github/workflows/shared-research-files.log
         run: |
           set -euo pipefail
-          SHARED_FILES_LOG=".github/workflows/shared-research-files.log"
-          mkdir -p "$(dirname "$SHARED_FILES_LOG")"; touch "$SHARED_FILES_LOG"
-          IGNORE_DELAY="${{ github.event.inputs.ignore_time_delay }}"
-          [ -z "$IGNORE_DELAY" ] && IGNORE_DELAY=false
-          match_target() { echo "$1" | grep -Eiq '(findings|report|insights)(\.md)$'; }
-          # If manual specific path provided, bypass discovery/age gating
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ] && [ -n "${{ github.event.inputs.research_file_path }}" ]; then
-            RESEARCH_FILE="${{ github.event.inputs.research_file_path }}"
-            if [ -f "$RESEARCH_FILE" ]; then
-              echo "eligible_file=$RESEARCH_FILE" >> $GITHUB_OUTPUT; echo "skip=false" >> $GITHUB_OUTPUT
-              exit 0
-            else
-              echo "skip=true" >> $GITHUB_OUTPUT; echo "error_message=File not found: $RESEARCH_FILE" >> $GITHUB_OUTPUT; exit 0
-            fi
-          fi
-          NOW_EPOCH=$(date +%s)
-          FIRST_FILE=""
-          while IFS= read -r f; do
-            match_target "$f" || continue
-            grep -Fxq "$f" "$SHARED_FILES_LOG" && continue
-            # Attempt to get last commit epoch (may fail if depth too shallow)
-            COMMIT_EPOCH=$(git log -1 --format=%ct -- "$f" 2>/dev/null || echo 0)
-            if [ "$COMMIT_EPOCH" -eq 0 ]; then
-              # Fallback to file modification time (stat) if commit not present in shallow clone
-              COMMIT_EPOCH=$(stat -c %Y "$f" 2>/dev/null || echo 0)
-            fi
-            [ "$COMMIT_EPOCH" -eq 0 ] && continue
-            AGE_DAYS=$(( (NOW_EPOCH - COMMIT_EPOCH) / 86400 ))
-            if [ "$IGNORE_DELAY" != "true" ] && [ $AGE_DAYS -lt 3 ]; then
-              continue
-            fi
-            FIRST_FILE="$f"; break
-          done < <(git ls-files 'products/**/*.md')
-          if [ -n "$FIRST_FILE" ]; then
-            echo "Discovered eligible file: $FIRST_FILE (age >= 3 days or delay ignored)"
-            echo "eligible_file=$FIRST_FILE" >> $GITHUB_OUTPUT; echo "skip=false" >> $GITHUB_OUTPUT
-          else
-            echo "skip=true" >> $GITHUB_OUTPUT; echo "error_message=No eligible files found" >> $GITHUB_OUTPUT
-          fi
+          ./scripts/github-actions/share_to_slack/find_eligible_research_file.sh
+          echo "Raw step output file contents:"; cat "$GITHUB_OUTPUT" || true
 
-      - name: Process and share research findings
+      - name: Process and share research findings (script)
         if: steps.find-files.outputs.skip != 'true'
         id: process
         run: |
           set -euo pipefail
-          RESEARCH_FILE="${{ steps.find-files.outputs.eligible_file }}"
-          [ -z "$RESEARCH_FILE" ] || [ ! -f "$RESEARCH_FILE" ] && { echo "No valid research file to process."; exit 0; }
-          echo "Processing: $RESEARCH_FILE"
-          if TITLE_LINE=$(grep -m 1 '^# ' "$RESEARCH_FILE" 2>/dev/null); then
-            TITLE=${TITLE_LINE#\# }
-          elif TITLE_LINE=$(grep -m 1 '^## ' "$RESEARCH_FILE" 2>/dev/null); then
-            TITLE=${TITLE_LINE#\#\# }
-          else
-            TITLE='Research Findings'
-          fi
-          KEY_FINDINGS=""
-          for pattern in 'Key findings' 'Key Findings' 'Summary' 'Findings' 'Results' 'Insights'; do
-            if grep -qi "^##.*$pattern" "$RESEARCH_FILE"; then
-              KEY_FINDINGS=$(awk -v pattern="$pattern" 'BEGIN{IGNORECASE=1;f=0;c=0} \
-                /^##.*'"$pattern"'/ {f=1;next} \
-                f && /^##/ {exit} \
-                f {print; if(++c>=20) exit}' "$RESEARCH_FILE")
-              [ -n "$KEY_FINDINGS" ] && break
-            fi
-          done
-          if [ -z "$KEY_FINDINGS" ]; then
-            KEY_FINDINGS=$(awk 'NR>3 && NF>0 {print; if(++c>=10) exit}' "$RESEARCH_FILE")
-          fi
-          KEY_FINDINGS=$(printf '%s' "$KEY_FINDINGS" | sed '/^$/d' | tr '\n' ' ' | sed 's/  */ /g')
-          if [ ${#KEY_FINDINGS} -gt 2000 ]; then
-            KEY_FINDINGS_TRUNCATED=1
-            KEY_FINDINGS="${KEY_FINDINGS:0:1997}..."
-          else
-            KEY_FINDINGS_TRUNCATED=0
-          fi
-          AUTHORS=$(git log --format='%an' "$RESEARCH_FILE" 2>/dev/null | sort -u | head -3 | paste -sd ', ' - || true)
-          [ -z "$AUTHORS" ] && AUTHORS="Unknown"
-          STUDY_DATE=$(git log -1 --format='%ai' "$RESEARCH_FILE" 2>/dev/null | cut -d' ' -f1 || true)
-          if [ -z "$STUDY_DATE" ]; then
-            STUDY_DATE=$(date -d @$(stat -c %Y "$RESEARCH_FILE" 2>/dev/null || date +%s) +%Y-%m-%d)
-          fi
-          PRODUCT_PATH=$(echo "$RESEARCH_FILE" | cut -d'/' -f2-3)
-          PREVIEW=${KEY_FINDINGS:0:200}
-          echo "Preview of extracted findings (first 200 chars):"
-          echo "$PREVIEW"
-          [ "$KEY_FINDINGS_TRUNCATED" -eq 1 ] && echo "(Truncated for Slack)"
-          # Persist full (truncated-if-needed) findings safely via base64 to avoid line wrapping or quoting issues
-          KEY_FINDINGS_B64=$(printf '%s' "$KEY_FINDINGS" | base64 -w0)
-          echo "(Length: ${#KEY_FINDINGS} chars; base64 size: ${#KEY_FINDINGS_B64} chars)"
-          {
-            echo "RESEARCH_FILE=$RESEARCH_FILE"
-            echo "RESEARCH_TITLE=$TITLE"
-            echo "AUTHORS=$AUTHORS"
-            echo "STUDY_DATE=$STUDY_DATE"
-            echo "PRODUCT_PATH=$PRODUCT_PATH"
-            echo "KEY_FINDINGS_B64=$KEY_FINDINGS_B64"
-          } >> $GITHUB_ENV
-          # Set outputs (keep legacy plain output for backward compat, but use B64 for downstream consumption)
-          echo "RESEARCH_FILE=$RESEARCH_FILE" >> $GITHUB_OUTPUT
-          echo "RESEARCH_TITLE=$TITLE" >> $GITHUB_OUTPUT
-          echo "KEY_FINDINGS_B64=$KEY_FINDINGS_B64" >> $GITHUB_OUTPUT
-          echo "AUTHORS=$AUTHORS" >> $GITHUB_OUTPUT
-          echo "STUDY_DATE=$STUDY_DATE" >> $GITHUB_OUTPUT
-          echo "PRODUCT_PATH=$PRODUCT_PATH" >> $GITHUB_OUTPUT
-          echo "$RESEARCH_FILE" >> .github/workflows/shared-research-files.log
+          FILE="${{ steps.find-files.outputs.eligible_file }}"
+          if [ -z "$FILE" ]; then
+            echo "No file provided from previous step"; exit 0; fi
+          ./scripts/github-actions/share_to_slack/process_research_file.sh "$FILE"
 
-      - name: Build Slack payload (success)
+      - name: Build Slack payload (success) (script)
         if: steps.find-files.outputs.skip != 'true' && steps.process.outputs.RESEARCH_FILE
         id: build-slack-success
+        env:
+          SLACK_CHANNEL_ID: ${{ secrets.SLACK_RSRCH_FINDINGS_CHANNEL_ID }}
+          EVENT_NAME: ${{ github.event_name }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          GITHUB_SHA: ${{ github.sha }}
         run: |
           set -euo pipefail
-          CHANNEL_ID='${{ secrets.SLACK_RSRCH_FINDINGS_CHANNEL_ID }}'
-          if [ -z "$CHANNEL_ID" ] || [ "$CHANNEL_ID" = 'null' ]; then
-            echo "Missing secret SLACK_RSRCH_FINDINGS_CHANNEL_ID; cannot send Slack notification." >&2
-            exit 1
-          fi
-          TITLE="${{ steps.process.outputs.RESEARCH_TITLE }}"
-          PRODUCT_PATH="${{ steps.process.outputs.PRODUCT_PATH }}"
-          STUDY_DATE="${{ steps.process.outputs.STUDY_DATE }}"
-          AUTHORS="${{ steps.process.outputs.AUTHORS }}"
-          KEY_FINDINGS=$(echo "${{ steps.process.outputs.KEY_FINDINGS_B64 }}" | base64 -d || true)
-          [ -z "$KEY_FINDINGS" ] && KEY_FINDINGS='See full report for details'
-          URL="https://github.com/${{ github.repository }}/blob/${{ github.sha }}/${{ steps.process.outputs.RESEARCH_FILE }}"
-          if [ '${{ github.event_name }}' = 'workflow_dispatch' ]; then CONTEXT_MSG='🧪 _Test notification - not tracked as shared_'; else CONTEXT_MSG='✨ _Shared after 3-day revision period_'; fi
-          PAYLOAD=$(jq -c -n \
-            --arg channel_id "$CHANNEL_ID" \
-            --arg title "$TITLE" \
-            --arg product "$PRODUCT_PATH" \
-            --arg date "$STUDY_DATE" \
-            --arg authors "$AUTHORS" \
-            --arg findings "$KEY_FINDINGS" \
-            --arg url "$URL" \
-            --arg ctx "$CONTEXT_MSG" \
-            '{ channel:$channel_id, text:("New Research Findings: " + $title), blocks:[ {type:"header", text:{type:"plain_text", text:"📊 New Research Findings Available", emoji:true}}, {type:"section", fields:[ {type:"mrkdwn", text:("*Study:*\n" + $title)}, {type:"mrkdwn", text:("*Product Area:*\n" + $product)}, {type:"mrkdwn", text:("*Date:*\n" + $date)}, {type:"mrkdwn", text:("*Authors:*\n" + $authors)} ]}, {type:"divider"}, {type:"section", text:{type:"mrkdwn", text:("*Key Findings Preview:*\n" + $findings)}}, {type:"divider"}, {type:"actions", elements:[ {type:"button", text:{type:"plain_text", text:"📖 Read Full Report", emoji:true}, url:$url, style:"primary"} ]}, {type:"context", elements:[{type:"mrkdwn", text:$ctx}]} ] }')
-          echo "payload=$PAYLOAD" >> $GITHUB_OUTPUT
+          if [ -z "${SLACK_CHANNEL_ID}" ]; then echo "Missing SLACK_RSRCH_FINDINGS_CHANNEL_ID" >&2; exit 1; fi
+          ./scripts/github-actions/share_to_slack/build_slack_payload_success.sh
 
       - name: Send Slack notification - Success
         if: steps.find-files.outputs.skip != 'true' && steps.process.outputs.RESEARCH_FILE
@@ -220,22 +116,16 @@ jobs:
         env:
           SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_ACCESS_TOKEN_RSRCH_OPS }}
 
-      - name: Build Slack payload (error)
+      - name: Build Slack payload (error) (script)
         if: steps.find-files.outputs.skip == 'true' && steps.find-files.outputs.error_message && github.event_name == 'workflow_dispatch'
         id: build-slack-error
+        env:
+            SLACK_CHANNEL_ID: ${{ secrets.SLACK_RSRCH_FINDINGS_CHANNEL_ID }}
+            ERROR_MESSAGE: ${{ steps.find-files.outputs.error_message }}
         run: |
           set -euo pipefail
-          CHANNEL_ID='${{ secrets.SLACK_RSRCH_FINDINGS_CHANNEL_ID }}'
-            if [ -z "$CHANNEL_ID" ] || [ "$CHANNEL_ID" = 'null' ]; then
-              echo "Missing secret SLACK_RSRCH_FINDINGS_CHANNEL_ID; cannot send Slack error notification." >&2
-              exit 1
-            fi
-          ERR='${{ steps.find-files.outputs.error_message }}'
-          PAYLOAD=$(jq -c -n \
-            --arg channel_id "$CHANNEL_ID" \
-            --arg err "$ERR" \
-            '{ channel:$channel_id, text:"Research File Not Found", blocks:[ {type:"section", text:{type:"mrkdwn", text:"❌ *Could not find the specified research file*\n\n" + $err + "\n\nPlease check the file path and try again."}} ] }')
-          echo "payload=$PAYLOAD" >> $GITHUB_OUTPUT
+          if [ -z "${SLACK_CHANNEL_ID}" ]; then echo "Missing SLACK_RSRCH_FINDINGS_CHANNEL_ID" >&2; exit 1; fi
+          ./scripts/github-actions/share_to_slack/build_slack_payload_error.sh
 
       - name: Send Slack notification - Error
         if: steps.find-files.outputs.skip == 'true' && steps.find-files.outputs.error_message && github.event_name == 'workflow_dispatch'
@@ -245,6 +135,11 @@ jobs:
           payload: ${{ steps.build-slack-error.outputs.payload }}
         env:
           SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_ACCESS_TOKEN_RSRCH_OPS }}
+
+      - name: Append tracking log
+        if: steps.find-files.outputs.skip != 'true' && github.event_name != 'workflow_dispatch' && steps.process.outputs.RESEARCH_FILE
+        run: |
+          echo "${{ steps.process.outputs.RESEARCH_FILE }}" >> .github/workflows/shared-research-files.log
 
       - name: Commit tracking file
         if: steps.find-files.outputs.skip != 'true' && github.event_name != 'workflow_dispatch' && steps.process.outputs.RESEARCH_FILE
