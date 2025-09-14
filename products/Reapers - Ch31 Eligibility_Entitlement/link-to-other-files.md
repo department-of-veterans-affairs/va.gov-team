@@ -6,6 +6,8 @@ This page houses the links to the GitHub files that do not live in the Reapers G
 
 ### Design Intent Feedback 
 - Design Intent Feedback #1 - https://github.com/department-of-veterans-affairs/va.gov-team/issues/119336
+- Design Intent Feedback #2 - https://github.com/department-of-veterans-affairs/va.gov-team/issues/119483
+- 
 
 ### Midpoint Review Feedback 
 
