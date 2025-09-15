@@ -37,8 +37,8 @@ The VA Mobile Platform team kicked off several surge support sprints to discover
 
 ## Dashboard/Visualization Designs
 
-**PowerBI designs**
-- We designed the following designs for implementation in PowerBI:
+**PowerBI Designs**
+- We designed the following mockups for implementation in PowerBI:
      - [Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/analytics/data-strategy/Mobile%20-%20PowerBI%20design%20landing%20page.png)
      - [Experience or Platform Page (example: Appointments)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/analytics/data-strategy/Mobile%20-%20PowerBI%20design%20experience%20page.png)
      - [Data Dictionary Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/analytics/data-strategy/Mobile%20-%20PowerBI%20design%20data%20dictionary%20page.png)
