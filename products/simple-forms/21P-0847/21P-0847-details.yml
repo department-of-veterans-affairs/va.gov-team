@@ -4,8 +4,8 @@ description: "Online form for eligible individuals to request to be a substitute
 team: "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/design-forms-systems/README.md"  # MUST be a link to the team README.md file in va.gov-team-sensitive repo
 github-label: "21P-0847"
 urls:
-  production: "https://www.va.gov/request-substitute-claimant-form-21p-0847"
-  staging: "https://staging.va.gov/request-substitute-claimant-form-21p-0847"
+  production: "https://www.va.gov/supporting-forms-for-claims/substitute-claimant-form-21P-0847/introduction"
+  staging: "https://staging.va.gov/supporting-forms-for-claims/substitute-claimant-form-21P-0847/introduction"
 manifest_url: "https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/simple-forms/21P-0847/manifest.json"
 measurement:
   datadog_dashboard: "https://vagov.ddog-gov.com/dashboard/a9w-jhk-den/simple-forms-api?fromUser=false&refresh_mode=sliding&from_ts=1755356924127&to_ts=1757948924127&live=true"

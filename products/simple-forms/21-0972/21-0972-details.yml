@@ -4,8 +4,8 @@ description: "Online form for individuals to certify that they are authorized to
 team: "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/design-forms-systems/README.md"  # MUST be a link to the team README.md file in va.gov-team-sensitive repo
 github-label: "21-0972"
 urls:
-  production: "https://www.va.gov/alternate-signer-certification-form-21-0972"
-  staging: "https://staging.va.gov/alternate-signer-certification-form-21-0972"
+  production: "https://www.va.gov/supporting-forms-for-claims/alternate-signer-form-21-0972/introduction"
+  staging: "https://staging.va.gov/supporting-forms-for-claims/alternate-signer-form-21-0972/introduction"
 manifest_url: "https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/simple-forms/21-0972/manifest.json"
 measurement:
   datadog_dashboard: "https://vagov.ddog-gov.com/dashboard/a9w-jhk-den/simple-forms-api?fromUser=false&refresh_mode=sliding&from_ts=1755356924127&to_ts=1757948924127&live=true"
