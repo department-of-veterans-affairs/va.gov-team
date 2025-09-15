@@ -5,11 +5,11 @@
 
 **Office of the CTO - Digital Experience (OCTO-DE), Accessibility Digital Experience (ADE)**
 
-**Date:** 09/09/2025
+**Date:** 09/15/2025
 
 **Contacts:** Cindy Merrill
 
-**[Research Readout (PDF)](./Save%20in%20Progress%20research%20readout-8_25_2025%20VA%20UX%20sync-rem-final.pdf)**  
+**[Research Readout (PDF)](./Save%20in%20Progress%20research%20readout-8_25_2025%20VA%20UX%20sync-rem-UPDATED.pdf)**  
 
 **Jump to:**
 
