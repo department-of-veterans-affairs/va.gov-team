@@ -160,6 +160,8 @@ While we work with the Lighthouse API team to implement the fix (returning full 
 ```
 *Issue: This date is generated on the frontend on successful submission (`new Date()`) in the user's local timezone, but the Documents Filed section shows "August 16, 2025" from the API (UTC date). This inconsistency likely confuses users.*
 
+<img width="666" height="279" alt="Screenshot 2025-09-15 at 8 08 39 AM" src="https://github.com/user-attachments/assets/68fc2c0e-31f3-45f2-9e62-19632595460e" />
+
 **Option A: Remove Date from Alert**
 ```
 "We successfully received your file upload"
@@ -199,13 +201,13 @@ const title = `We received your file upload on ${utcDateTime} UTC (${localDate} 
 
 ### Documents Filed / Recent Activity Disclaimers
 
-**Option A: Simple Banner (Recommended for Simplicity)**
+**Option A: Simple Note**
 Add above the documents list:
 ```
 ℹ️ Note: All dates shown are based on Coordinated Universal Time (UTC) and will be displayed as one day later for files uploaded after 7 PM ET.
 ```
 
-**Option B: Additional Info Component (VA Design System Pattern)**
+**Option B: Additional Info Component**
 Add a `va-additional-info` component near the "Documents Filed" and "Recent Activity" sections:
 ```jsx
 <va-additional-info
