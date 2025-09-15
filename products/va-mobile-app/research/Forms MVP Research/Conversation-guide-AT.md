@@ -289,9 +289,13 @@ Now that you have completed the form, navigate back to the general forms locatio
 
 
 ### SuS for testing participants:
-Now that you've completed the tasks above you can exit the VA testing app and return to your zoom app. You may need to engage the screen to display the menu at the bottom of the zoom app. Find and select 'Chat' from the menu. I'm going to supply you with a link to a 10 questions survey.
+Now that you've completed the tasks above you can exit the VA testing app and return to your zoom app. 
+I can now share a URL with you for our 10-question survey. 
 
-[Moderator copy/paste link to Qualitrix SuS into the chat] (SuS Link)(https://dj540s05.optimalworkshop.com/questions/vhbappformsmvp)
+How would you prefer to receive the URL? 
+I could dictate it to you, put it in the Zoom chat, email it to you, or (for smartphone only) text it to you.
+
+[Moderator supply the following link to Qualitrix SuS in the preferred delivery method] (SuS Link)(https://ows.io/qs/kanch3g3)
 
 Please select the link and take the survey.
 
