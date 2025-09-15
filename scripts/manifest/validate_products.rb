@@ -19,7 +19,9 @@ class ProductDetailsValidator
     /Product label/,
     %r{https://\.\.\.}, # URLs with just "https://..."
     %r{https://\.\.\./},
-    %r{https://github\.com/department-of-veterans-affairs/va\.gov-research-repository/issues$} # Generic research repo placeholder
+    %r{https://github\.com/department-of-veterans-affairs/va\.gov-team/blob/master/products/\[product-category\]/}, # Product outline placeholder
+    %r{https://github\.com/department-of-veterans-affairs/va\.gov-research-repository/issues$}, # Generic research repo placeholder
+    %r{https://github\.com/department-of-veterans-affairs/va\.gov-team-sensitive/blob/master/teams/\[portfolio\]/\[team-name\]/README\.md} # Team URL placeholder
   ].freeze
 
   def initialize(repo_root: nil, output_file: nil, verbose: false, target_product: nil)
@@ -255,6 +257,11 @@ class ProductDetailsValidator
     if yaml_content['manifest_url']
       result[:field_validation]['manifest_url'] = validate_manifest_url_field(yaml_content['manifest_url'])
     end
+    
+    # Validate product_outline if present
+    if yaml_content['product_outline']
+      result[:field_validation]['product_outline'] = validate_product_outline_field(yaml_content['product_outline'])
+    end
   end
 
   def validate_name_field(name)
@@ -305,14 +312,21 @@ class ProductDetailsValidator
     issues = []
     valid = true
     
-    if team.match?(/team-name/)
-      issues << 'Contains placeholder text'
-      valid = false
-    end
-    
     if team.to_s.strip.empty?
       issues << 'Field is empty'
       valid = false
+    elsif !team.match?(/^https:\/\/github\.com\/department-of-veterans-affairs\/va\.gov-team-sensitive\/(blob|tree)\/master\/teams\//)
+      issues << 'Must be a link to va.gov-team-sensitive repository teams directory'
+      valid = false
+    elsif team.match?(/\[portfolio\]/) || team.match?(/\[team-name\]/)
+      issues << 'Contains placeholder text - replace [portfolio] and [team-name] with actual values'
+      valid = false
+    end
+    
+    # Add a helpful suggestion for tree URLs (but don't mark as invalid)
+    if valid && team.match?(/\/tree\/master\//) && !team.match?(/\/README\.md$/)
+      issues << 'Suggestion: Consider using blob URL pointing to README.md: ' + team.gsub('/tree/', '/blob/') + '/README.md'
+      # Don't set valid = false for this - it's just a suggestion
     end
     
     { valid: valid, issues: issues }
@@ -367,6 +381,29 @@ class ProductDetailsValidator
       valid = false
     elsif !url.match?(/manifest\.json$/)
       issues << 'Should point to a manifest.json file'
+      valid = false
+    end
+    
+    { valid: valid, issues: issues }
+  end
+
+  def validate_product_outline_field(product_outline)
+    issues = []
+    valid = true
+    
+    url = product_outline.to_s
+    
+    if url.match?(/https:\/\.\.\./) || url.empty?
+      issues << 'Contains placeholder or is empty'
+      valid = false
+    elsif !url.match?(/^https:\/\/github\.com/)
+      issues << 'Should be a GitHub URL'
+      valid = false
+    elsif !url.match?(/\/va\.gov-team\//)
+      issues << 'Should point to va.gov-team repository'
+      valid = false
+    elsif !url.match?(/\.(md|markdown)$/i)
+      issues << 'Should point to a Markdown file (.md)'
       valid = false
     end
     

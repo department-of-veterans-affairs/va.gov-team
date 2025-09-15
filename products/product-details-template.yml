@@ -1,7 +1,7 @@
 name: "Product Display Name"
 entry_name: "manifest-entry-name"  # Must match vets-website manifest.json
 description: "Product description"
-team: "team-name"  # MUST match teams/[portfolio]/[team-name]/ directory and team name in va.gov-team-sensitive repo
+team: "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/[portfolio]/[team-name]/README.md"  # MUST be a link to the team README.md file in va.gov-team-sensitive repo
 github-label: "Product label"
 urls:
   production: "https://..."
@@ -14,4 +14,5 @@ measurement:
   metrics_dashboard: "https://..." # Link to additional metrics dashboard (optional)
   project_board: "https://" # Link to GitHub project board (optional)
   research_repo: "https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues" # Link to VA research repository, filtering for this product tag
+product_outline: "https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/[product-category]/[product-name]/[product-name]-product-outline.md" # Link to product outline document
 status: "active" # active, maintenance, sunset
