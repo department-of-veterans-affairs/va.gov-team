@@ -202,13 +202,12 @@ Login is so much easier on the mobile app du to being able to use biometrics to 
 ### User pain points
 Details about user pain points are noted in each relevant feature area below.
 
-#### Login challenges (13)
-#### Lacking functionality (7)
-#### Missing needed information (11)
-#### Expired refills (2)
-#### Latency (1)
-#### Missing medications from list (4)
-
+#### 1. Login challenges (13)
+#### 2. Missing needed information (11)
+#### 3. Lacking functionality (7)
+#### 4. Missing medications from list (4)
+#### 5. Expired refills (2)
+#### 6. Latency (1)
 
 ## Feature specific feedback
 | Feature | # of ratings |
