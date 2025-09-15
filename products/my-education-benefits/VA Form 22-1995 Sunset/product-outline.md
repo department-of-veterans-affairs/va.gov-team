@@ -39,7 +39,7 @@ Leveraging the same approach from the 'How to Apply' Recommender Tool - we have 
 
 ## Solution Approach
 
-We are going to build the routing tool that will live on the 22-1995 Landing Page so that users can be redirected to the right form for them. We decided to start our solution on this page since it will only be relevant for users looking to use the 1995 form. We are proposing this as an interim solution while additional considerations are being discussed for any updates needed in existing existing forms and features to ensure all 1995 use cases are accounted for prior to the 1995 sunsetting. This effort will be part of the beginning phase for the 1995 sunsetting. 
+We are going to build the routing tool that will live on the 22-1995 Landing Page so that users can be redirected to the right form for them. The solution starts on the 22-1995 ladning page since users do not need to be made aware of this update unless they are intending to use this form, users who are looking to use the 1995 form will be informed as needed from the landing page. We are proposing this as an interim solution while additional considerations are being discussed for any updates needed in existing existing forms and features to ensure all 1995 use cases are accounted for prior to the 1995 sunsetting. This effort will be part of the beginning phase for the 1995 sunsetting. 
 
 ### Supporting research
 
