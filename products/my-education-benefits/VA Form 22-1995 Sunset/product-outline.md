@@ -4,26 +4,26 @@
 ---
 
 ## Overview
-Redirecting Veterans, Service Members, and dependents to one of the VBA online education application forms (22-1990, 22-1990e, 22-5490) quickly and accurately as part of VA Form 22-1995 sunsettting.
+Redirecting Veterans, service members, and dependents to one of the VBA online education application forms (22-1990, 22-1990e, 22-5490) quickly and accurately as part of VA Form 22-1995 sunsettting.
 
 ## Problem Statement
-**How might we redirect Veterans, Service Members, and their dependents from the VA Form 22-1995 landing page the right VBA online education application forms (22-1990, 22-1990e, 22-5490) that will best fit their needs.**
+**How might we redirect Veterans, service members, and their dependents from the VA Form 22-1995 landing page the right VBA online education application forms (22-1990, 22-1990e, 22-5490) that will best fit their needs.**
 
-**Who:** Veterans, Service Memebers, Dependents.    
+**Who:** Veterans, Service Memebers, dependents.    
 **What:** Redirect users to one of VA Form 22-1990, VA Form 22-1990e, or VA Form 22-5490 education applications depending on who they are and their intention for using the 22-1995.    
 **Why:** VA Form 22-1995 is being sunset, users will need an alternative to method to accomplishing their goals.    
 **Where:** Changes will need to be made on the 22-1995 Application Instructions page as well as the VA Form 22-1990, VA Form 22-1990e, or VA Form 22-5490 Application Instructions pages.  
  
 ## Desired User Outcomes
 
-VA Form 22-1995 form will no longer be accepted by VA and thus users need an alternative way to get an updated Certificate of Eligbility (COE). By leveraging users' answers, via routing tool on the 1995 Application instructions page, we can accurately redirect users to the right form based on their needs.
+VA Form 22-1995 form will no longer be accepted by VA and thus users need an alternative way to get an updated Certificate of Eligbility (COE) or change their benefit and recieve a new COE. By leveraging users' answers, via routing tool on the 1995 Application instructions page, we can accurately redirect users to the right form based on their needs.
 
 ## Undesired User Outcomes
 
 Frustration or confusion for users expecting to use VA Form 22-1995.
 
 ## Desired Business Outcomes
-Consolidating forms and routing users effectively helps streamline the Veteran, Service Member, and dependent experience when using and applying for education benefits on VA.gov. 
+Consolidating forms and routing users effectively helps streamline the Veteran, service member, and dependent experience when using and applying for education benefits on VA.gov. 
 
 ## Undesired Business Outcomes
 <p>&nbsp;</p>
@@ -49,7 +49,7 @@ TBD
 
 ## Launch Strategy
 - We plan to coordinate with neccessary stakeholders for communications needed.  
-- Veterans, Service Memebers, and Dependents will be notified of this change from 22-1995 Application Instructions page. 
+- Veterans, Service Memebers, and dependents will be notified of this change from 22-1995 Application Instructions page. 
 
 ## Launch Dates
 - *Target Launch Date*
@@ -97,5 +97,5 @@ TBD
  - Team: My Education Benefits 
  - Slack Channel: #my-education-benefits
  - Product POCs: Joanna Yu (joanna.yu@afs.com), Alexander Ferzola (alexander.ferzola@afs.com)
- - Stakeholders: VA Education; Veterans, Service Members, Dependents  
+ - Stakeholders: VA Education; Veterans, service members, dependents  
 </details>
