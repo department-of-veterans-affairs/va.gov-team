@@ -19,7 +19,7 @@ These are use cases for which VA and Oracle Health staff are currently utilizing
 | 6 | Show VA clinicians or pharmacists how features such as secure messaging or pharmacy tools appear to Veterans.| **Recommendation**: Demo mode|
 | 7 | Orient new staff with hands-on experience using Veteran-facing tools in a controlled setting. | **Recommendation**: Demo mode|
 | 8 | Use a test account to present live demos to stakeholders showcasing the Veteran experience. | **Recommendation**: Demo mode|
-- * While HRC staff have access to prod test accounts, it sounds like they are more likely to screenshare with a Veteran if appropriate. Given low usage data on the prod test accounts since March, it does not appear these are being used at scale by call center staff. We do recommend that staff have a way to view MHV on VA.gov, which could be achieved through a demo mode.
+* *While HRC staff have access to prod test accounts, it sounds like they are more likely to screenshare with a Veteran if appropriate. Given low usage data on the prod test accounts since March, it does not appear these are being used at scale by call center staff. We do recommend that staff have a way to view MHV on VA.gov, which could be achieved through a demo mode.
 
 ### External integration use Case
 
