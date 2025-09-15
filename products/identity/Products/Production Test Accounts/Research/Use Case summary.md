@@ -4,6 +4,8 @@
 
 These are use cases for which VA and Oracle Health staff are currently utilizing the production test accounts we'd like to retire.
 
+- **9/8/2025**: Tom and Samara met with Patrick Bateman, who said that the MHV on VA.gov team is already conducting UAT and is less reliant on the prod test accounts.
+
 ### Internal VA use cases
 
 | # | Prod Test Account Use Cases | Production Workaround / Note|
