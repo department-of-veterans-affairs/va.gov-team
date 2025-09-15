@@ -107,6 +107,7 @@ O1: VA’s digital experiences are the easiest and most efficient way to access 
 |9/4/2025| Completed Content and Flow Alignment between Mobile and Web. | Michelle said that we could consider this work done in a Slack thread. |
 |9/4/2025| Understand how users navigate to payment website. | Michelle said that we could pass off the documentation to the Core Mobile team and close this out. |
 |9/10/2025| Mobile designs will include the Notice of rights and responsibilities for overpayments and copayments. | This notice is regulatory-related and needs to be included in the detail/overview pages. The FM team does not own the content. |
+|9/15/2025| We got the approval from Michelle to remove the Feedback-to-Vet label during UX refinement. | During our UX refinement, Michelle reviewed and approved the content feedback that we received on the updated prototype, as well as told us to move forward with the following tickets: [850](https://github.com/department-of-veterans-affairs/va-mobile-feature-support/issues/850), [853](https://github.com/department-of-veterans-affairs/va-mobile-feature-support/issues/853), [852](https://github.com/department-of-veterans-affairs/va-mobile-feature-support/issues/852), and [849](https://github.com/department-of-veterans-affairs/va-mobile-feature-support/issues/849). |
 
 
 ## Reference Materials
