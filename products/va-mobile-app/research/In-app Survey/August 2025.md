@@ -232,7 +232,6 @@ Details about user pain points are noted in each relevant feature area below.
 #### Missing medications from list (4)
 
 
-
 ## Feature specific feedback
 | Feature | # of ratings |
 |--|--|
@@ -314,7 +313,7 @@ You have to copy the whole spiel of the text, then compose a message and using t
 2. **Number of steps:** Users often express difficulty with the multi-factor authentication process increasing the number of steps required to login compared to previous signin methods.
 
 #### User pain points
-1. **Complexity and Multiple Steps:** Users express frustration with the login process requiring too many steps and taking significantly longer than before.
+1. **Complexity:** Users express frustration with the login process requiring too many steps and taking significantly longer than before.
 
 2. **Biometric Login Inconsistency:** Some users report that facial ID login is unreliable, working only some of the time.
 
@@ -436,7 +435,7 @@ Representative responses:
 |--|--|
 | Messaging | 9 |
 
-Nine users specifically mentioned messaging, all in which were rated positive. However, users note challenges with list options needing to identify which department to reach with their concerns, naming, or missing needed providers from the list. One user specifically mentioned a believed bug where the button you type after entering a message saves your message as a draft by default, this resulted in unsent messages the user had believed they had sent. Another requested the ability to create folders.
+Nine users specifically mentioned messaging, all in which were rated positive. However, some users note challenges with list options needing to identify which department to reach with their concerns, naming, or missing needed providers from the list. One user specifically mentioned a believed bug where the button you type after entering a message saves your message as a draft by default, this resulted in unsent messages the user had believed they had sent. Another requested the ability to create folders.
 
 Representative responses:
 
@@ -462,7 +461,7 @@ Representative responses:
 
 #### Common themes
 1. **Appreciated app feature:** Users frequently note messaging as a conveient feature in the app.
-2. **Messaging receivers:** Users often commented on not finding or identifying their desired providers on the list options to send messages to.
+2. **Messaging list options:** Users often commented on not finding or identifying their desired providers on the list options to send messages to.
 
 #### User pain points
 1. **Messaging list options:** Users couldn't always find the needed option to send messages to, and noted confusion around naming conventions of Teams.
@@ -561,15 +560,23 @@ Representative responses:
 A positively rated feature of the app, with only one response providing a neutral rating due to addiitonal information needed. Positive sentiment around appointments is the conveience, alerts, and overall ease of use. Comments about improvements are mostly related to missing content or desired functionality.
 
 #### User pain points
+
 1. **Lack of information:** Users request more information about their appointments such as appointment purpose, provider name,  notes from providers after an appointment being accessible from the app. 
+
 2. **Appointment scheduling:** One user noted the appt. scheduler does not work. 
+
 3. **Inabiltiy to check-in:** One user requested the ability to check-in for their appointment directly from the app.
+
 4. **Appointment reminders:** One user requested an update to appointment reminders without more context. 
 
 #### Feature enhancements
+
 1. **Check-in for appointments:** Provide a way for users to check-in for their appointments from the app.
+
 2. **Book appointments:** Provide an option to book appointments directly from the app.
+
 3. **Add additional details about the appointment:** Add access to notes following an appointment.
+
 4. **Alert customization:** Provide an ability for the user to customize their alert or notifications regarding appointments. 
 
 ### Other Enhancements
