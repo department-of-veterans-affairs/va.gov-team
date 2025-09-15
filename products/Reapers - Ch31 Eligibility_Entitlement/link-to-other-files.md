@@ -1,6 +1,10 @@
 # Links to Reapers GitHub files
 This page houses the links to the GitHub files that do not live in the Reapers GitHub folder to allow for easier acccess.
 
+## General
+- New VFS Team Request - https://github.com/department-of-veterans-affairs/va.gov-team/issues/118496
+- New Team Member Request - https://github.com/department-of-veterans-affairs/va.gov-team/issues/118421
+
 ## Reapers Collaboration Cycle
 - Reapers Phase 1 Collaboration Cycle - https://github.com/department-of-veterans-affairs/va.gov-team/issues/118500
 
