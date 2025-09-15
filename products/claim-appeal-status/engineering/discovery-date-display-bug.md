@@ -18,7 +18,7 @@
 
 ## Problem Statement
 
-When a veteran uploads a file after 7 PM ET (8 PM during Standard Time), the system displays the submission date as the following day.
+When a veteran uploads a file after 7 PM EDT (8 PM EST), the system displays the submission date as the following day.
 
 **Example Scenario:**
 
