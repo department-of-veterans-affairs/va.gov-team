@@ -27,6 +27,9 @@ We had three main questions for the content portion of this study.
 - **Findings:** We did not get enough data to answer this question.
 
 `3.` **Do Veterans understand that if they need to make changes to the dependents on their VA benefits they will need to fill out an additional form or forms?** 
+
+- **Findings:** Based on what we saw or heard in recordings, Veterans did read the content explaining that they would need to fill out additional forms. Most did not comment on needing to fill out an additional form.
+  When asked "If you left and came back to VA.gov, where would you expect to find information about about the additional forms to complete to finish updating your dependents?", about half of dependents answered their Profile.
   
 
 ## Data
@@ -167,7 +170,6 @@ This is an analysis of the answers participants gave to pre-study, prototype, an
      - "To make sure you and your dependents are enabled to entitlements"
  
  #### Where on VA.gov would you expect to view your dependents?
- - some participants mentioned more than place
  - 9 mentioned the Profile page
  - 4 mentioned myVA
  - 3 mentioned other reasons
@@ -178,6 +180,7 @@ This is an analysis of the answers participants gave to pre-study, prototype, an
 - 2 mentioned the Benefits section
 - 1 mentioned the Claim Status Tool
 - 1 mentioned the Dependents section
+  some participants mentioned more than place
 
 #### Would there ever be a case or cases where you would prefer dealing with an overpayment instead of updating your dependents right away? If so, when?
 - 16 said No
