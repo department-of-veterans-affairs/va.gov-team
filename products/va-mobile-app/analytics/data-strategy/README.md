@@ -38,5 +38,5 @@ The VA Mobile Platform team kicked off several surge support sprints to discover
 
 ## Dashboard/Visualization Designs
 - We designed a landing page, experience page, and data dictionary page for implementation in PowerBI.
-- An editable version of the designs and our brainstorming can be found in [Figma here]https://www.figma.com/board/V0rDE80KylZ5jod3SWxAzC/Mobile-Surge-Support---Measurement---Data-Strategy?node-id=80-679&t=Y6lHMElVgm9bwJSi-0. 
+- An editable version of the designs and our brainstorming can be found in [Figma here](https://www.figma.com/board/V0rDE80KylZ5jod3SWxAzC/Mobile-Surge-Support---Measurement---Data-Strategy?node-id=80-679&t=Y6lHMElVgm9bwJSi-0). 
 - Next steps: build out in PowerBI
