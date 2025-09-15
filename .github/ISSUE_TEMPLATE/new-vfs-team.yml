@@ -12,7 +12,7 @@ body:
     attributes:  
       label: "Team Name"  
       description: "Enter your team's name."  
-      placeholder: "Example: Digital Services Team"  
+      placeholder: "Example: VA Digital Services Team"  
     validations:  
       required: true  
 
@@ -180,4 +180,4 @@ body:
     attributes:  
       label: "Platform Checklist (For Platform Use Only)"  
       options:  
-        - label: "New VFS Team has been added to the VFS Team Roster located in [Atlas](https://www.va.gov/atlas/).
+        - label: "New VFS Team has been added to the VFS Team Roster located in [Atlas](https://www.va.gov/atlas/)."
