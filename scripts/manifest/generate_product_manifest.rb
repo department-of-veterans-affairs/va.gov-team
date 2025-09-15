@@ -124,7 +124,8 @@ class ProductManifestGenerator
   end
 
   def extract_product_info(file_path, yaml_content)
-    relative_path = file_path.sub(@repo_root + '/', '')
+    # Create relative path from the products directory for the manifest links
+    relative_path = file_path.sub(@products_dir + '/', '')
     
     # Extract team name from team URL if it's a valid URL
     team_display_name = extract_team_name_from_url(yaml_content['team'])
