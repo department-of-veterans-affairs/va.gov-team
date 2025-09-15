@@ -1,6 +1,6 @@
 # Discovery: File Upload Date Display Bug
 
-Issues:
+## Issues:
 - [[CST] [BUG] Evening file submissions display next day as submission date #117391](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117391)
 - [[CST] [Bug] Document Upload Receipts appearing in the future (Date/time discrepancy) #119384](https://github.com/department-of-veterans-affairs/va.gov-team/issues/119384)
 
