@@ -10,8 +10,7 @@ Veterans and their families enrolled in CHAMPVA currently lack digital infrastru
 **How might we** provide a seamless digital interface for CHAMPVA applications that enhances transparency, reduces delays, and decreases call center volume through efficient and automated processes without compromising user trust?
 
 ## Desired User Outcomes
-- **Real-Time Access:** Users can view real-time CHAMPVA application statuses.
-- **Timely Alerts:** Users receive notifications when the VA needs additional documents or information from the applicant. 
+- **Real-Time Access:** Users can view real-time CHAMPVA application statuses. 
 - **Seamless Document Handling:** Users can upload documents digitally, and it is routed directly to the applicants file for review by the VA.
 - **Centralized Tracking:** Users can track the entire lifecycle of their application in one place.
 
