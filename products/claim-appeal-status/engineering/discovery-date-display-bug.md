@@ -1,15 +1,18 @@
 # Discovery: File Upload Date Display Bug
 
-Issue: [#117391](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117391)
+Issues:
+- [[CST] [BUG] Evening file submissions display next day as submission date #117391](https://github.com/department-of-veterans-affairs/va.gov-team/issues/117391)
+- [[CST] [Bug] Document Upload Receipts appearing in the future (Date/time discrepancy) #119384](https://github.com/department-of-veterans-affairs/va.gov-team/issues/119384)
 
 ## Table of Contents
 - [Problem Statement](#problem-statement)
+- [Key Questions to Resolve](#key-questions-to-resolve)
 - [Root Cause Analysis](#root-cause-analysis)
-- [Critical: What are the VA.gov Deadline Rules?](#critical-what-are-the-vagov-deadline-rules)
+- [What are the VA.gov Deadline Rules?](#what-are-the-vagov-deadline-rules)
+- [What are the Timezone Handling Patterns Across VA.gov?](#what-are-the-timezone-handling-patterns-across-vagov)
 - [Where This Bug Impacts Veterans](#where-this-bug-impacts-veterans)
 - [Solution: Return ISO 8601 Timestamps](#solution-return-iso-8601-timestamps)
 - [Brainstorm of Possible UX Improvements While Awaiting API Fix](#brainstorm-of-possible-ux-improvements-while-awaiting-api-fix)
-- [Key Questions to Resolve](#key-questions-to-resolve)
 - [Appendix A: Detailed Technical Flow](#appendix-a-detailed-technical-flow)
 - [Appendix B: Additional Affected Areas](#appendix-b-additional-affected-areas)
 
@@ -23,6 +26,30 @@ A veteran uploads evidence at 10:18 PM EDT on August 15, 2025. In the success al
 
 This is a real screenshot from a user in which this Example Scenario was created out of:
 <img width="1167" height="591" alt="image (5)" src="https://github.com/user-attachments/assets/bad11660-bbae-43f3-b97c-58869968b677" />
+
+## Key Questions to Resolve
+
+1. **What are the VA.gov Deadline Rules?**
+   - What timezone defines the legal deadline for evidence submission (UTC, ET, or local)?
+   - How should dates be displayed to ensure veterans understand deadline compliance?
+   - See: [What are the VA.gov Deadline Rules?](#what-are-the-vagov-deadline-rules)
+
+2. **What is the Platform Standard for Timezone Display?**
+   - Given the different timezone patterns currently in use across VA.gov (as documented above), which pattern is most appropriate for claims data: user's local time, Eastern Time, or UTC?
+   - See: [What are the Timezone Handling Patterns Across VA.gov?](#what-are-the-timezone-handling-patterns-across-vagov)
+
+3. **Can Lighthouse Return ISO 8601 Timestamps?**
+   - Is the Lighthouse team able to modify their API to return full timestamps?
+   - Are there any technical constraints preventing this?
+   - What is the timeline for implementing this change?
+   - See: [Solution: Return ISO 8601 Timestamps](#solution-return-iso-8601-timestamps)
+
+4. **Should We Implement UX Improvements While Awaiting the API Fix?**
+   - Would removing the local date from the upload notification reduce confusion?
+   - Would showing both UTC and local times in upload notification reduce confusion?
+   - Should we add disclaimers to the Documents Filed and Recent Activity sections?
+   - How can we best communicate the timezone issue to veterans without causing more confusion?
+   - See: [Brainstorm of Possible UX Improvements While Awaiting API Fix](#brainstorm-of-possible-ux-improvements-while-awaiting-api-fix)
 
 ## Root Cause Analysis
 
@@ -53,7 +80,7 @@ When a veteran uploads a document after 7 PM ET (after midnight UTC), the follow
 
 **Root cause**: The external Lighthouse Benefits Claims API returns date-only strings instead of full ISO 8601 timestamps, which prevents the frontend from displaying the date in the user's timezone. Users naturally expect to see dates in their local timezone, causing confusion when documents appear to be submitted on the "next day."
 
-## Critical: What are the VA.gov Deadline Rules?
+## What are the VA.gov Deadline Rules?
 
 **Key Question**: What timezone defines the legal deadline for evidence submission?
 
@@ -63,6 +90,39 @@ When a veteran uploads a document after 7 PM ET (after midnight UTC), the follow
 - If deadlines are local time: Need timestamps to display correctly
 
 **Action Required**: Confirm deadline timezone with VA legal before implementing any fix, as displaying the wrong timezone could create legal liability.
+
+## What are the Timezone Handling Patterns Across VA.gov?
+
+There is no consistent timezone handling pattern across VA.gov applications. Different teams have implemented different approaches based on their specific needs:
+
+### 1. User's Local Timezone
+Applications that detect and use the user's browser timezone:
+- **MHV Medical Records**: Uses `Intl.DateTimeFormat().resolvedOptions().timeZone` to detect user's timezone
+- **MHV Secure Messaging**: Uses `moment.tz.guess()` for timezone detection
+- **Platform utility `formatDateLong`**: Uses `parseISO()` which automatically converts UTC to browser's local timezone
+- **Travel-pay**: Uses `utcToZonedTime()` without specifying timezone (defaults to local)
+- **Personalization/Dashboard**: Detects user's timezone for displaying dates
+
+### 2. Fixed Eastern Time
+Applications that always display in Eastern Time:
+- **Ask-VA**: Explicitly converts all dates to `'America/New_York'` and appends "E.T." suffix
+- **Appeals**: Falls back to `'America/New_York'` when timezone detection fails
+
+### 3. Entity-Specific Timezone
+Applications that use the timezone of the related entity:
+- **VAOS (Appointments)**: Uses `formatInTimeZone(appointmentDate, appointment.timezone, ...)` - displays in the facility's timezone
+- **Check-in**: Uses `utcToZonedTime(startTime, appointmentToFile.timezone)` - uses appointment's timezone
+
+### 4. Conditional Logic
+Applications with complex rules:
+- **Events**: If user is in US, uses their local timezone; otherwise uses event's timezone or defaults to Eastern Time
+
+### 5. No Timezone Handling (Date-Only)
+Applications receiving date-only strings without timezone information:
+- **Claims-status**: Currently receives date-only strings from Lighthouse API, cannot perform timezone conversion
+- **Personalization/Dashboard (claims display)**: Works around date-only limitation with `replaceDashesWithSlashes` helper
+
+This inconsistency across VA.gov reinforces that there is no single "correct" approach - the appropriate timezone handling depends on the specific use case and legal requirements of each application.
 
 ## Where This Bug Impacts Veterans
 
@@ -74,7 +134,7 @@ Since the Claims API v2 returns all dates as date-only strings, this bug affects
 - **Impact**: Uploaded documents show next day's date for evening submissions
 - **Data field**: `supportingDocuments[].uploadDate`
 
-### 2. Recent Activity Tab (Critical - Deadline Impact)
+### 2. Recent Activity Tab
 - **Location**: `/track-claims/your-claims/[claim-id]/status`
 - **Component**: `src/applications/claims-status/components/claim-status-tab/RecentActivity.jsx`
 - **Impact**: Evidence submission deadlines appear missed when submitted between 7 PM ET and midnight ET
@@ -125,6 +185,15 @@ The solution requires updating the Lighthouse Benefits Claims API to return comp
 - Follows industry standards (GitHub, AWS, Stripe, etc.)
 - No information loss
 - Enables relative time displays (e.g., "2 hours ago")
+
+### Potential Cross-Application Impact
+
+Currently, applications receiving date-only strings from Lighthouse. If Lighthouse returns ISO 8601 timestamps:
+
+- Applications would receive full timestamp information (e.g., "2025-08-16T02:18:00.000Z")
+- Dates could be displayed in the user's local timezone
+- **personalization/dashboard** (displays claim dates on My VA page) would be affected
+- Testing would be required to ensure applications handle the date display change correctly
 
 ### Frontend Implementation with Timestamps
 
@@ -219,23 +288,6 @@ Add a `va-additional-info` component near the "Documents Filed" and "Recent Acti
   </p>
 </va-additional-info>
 ```
-
-## Key Questions to Resolve
-
-1. **What are the VA.gov Deadline Rules?**
-   - What timezone defines the legal deadline for evidence submission (UTC, ET, or local)?
-   - How should dates be displayed to ensure veterans understand deadline compliance?
-
-2. **Can Lighthouse Return ISO 8601 Timestamps?**
-   - Is the Lighthouse team able to modify their API to return full timestamps?
-   - Are there any technical constraints preventing this?
-   - What is the timeline for implementing this change?
-
-3. **Should We Implement UX Improvements While Awaiting the API Fix?**
-   - Would removing the local date from the upload notification reduce confusion?
-   - Would showing both UTC and local times in upload notification reduce confusion?
-   - Should we add disclaimers to the Documents Filed and Recent Activity sections?
-   - How can we best communicate the timezone issue to veterans without causing more confusion?
 
 ## Appendix A: Detailed Technical Flow
 
