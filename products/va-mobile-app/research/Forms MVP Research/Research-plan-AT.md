@@ -219,10 +219,11 @@ If Android, pleae request their email where an invitation to the testing link wi
 - Yes would qualify them for the study
 - No would disqualify them
 
-7. How long have you been using this screen reader or screen magnifier?
+7. How long have you been using this screen reader or magnifier?
 
-- Less than 1 year would disqualify them
-- At least 1 year would qualify them
+- 1-4 years of experience (recruit 3 screen reader users min. )
+- Have 5+ years of experience (recruit 3 screen reader users min.)
+- Less than 1 year (disqualifies them)
 
 8. What is the name of the screen reader or screen magnifier technology that you will use during the Zoom session? (open text field--RECORD what they say AND ask the rest of the questions)
 
