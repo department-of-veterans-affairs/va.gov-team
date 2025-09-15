@@ -108,20 +108,40 @@ class ProductManifestGenerator
     sorted_products
   end
 
+  def extract_team_name_from_url(team_url)
+    return nil unless team_url && team_url.is_a?(String)
+    
+    # Extract team name from URL patterns:
+    # 1. https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/[portfolio]/[team-name]/README.md
+    # 2. https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/tree/master/teams/[portfolio]/[team-name]
+    if team_url.match?(/^https:\/\/github\.com\/department-of-veterans-affairs\/va\.gov-team-sensitive\/(blob|tree)\/master\/teams\/([^\/]+)\/([^\/]+)/)
+      match = team_url.match(/\/teams\/([^\/]+)\/([^\/]+)/)
+      return match[2] if match # Return the team name part
+    end
+    
+    # If it's not a valid URL format, return the original value for backwards compatibility
+    team_url
+  end
+
   def extract_product_info(file_path, yaml_content)
     relative_path = file_path.sub(@repo_root + '/', '')
+    
+    # Extract team name from team URL if it's a valid URL
+    team_display_name = extract_team_name_from_url(yaml_content['team'])
     
     {
       name: yaml_content['name'] || File.basename(file_path, '.yml').sub(/-details$/, ''),
       entry_name: yaml_content['entry_name'],
       description: yaml_content['description'],
       team: yaml_content['team'],
+      team_display_name: team_display_name,
       status: yaml_content['status'],
       file_path: relative_path,
       github_label: yaml_content['github-label'],
       production_url: yaml_content.dig('urls', 'production'),
       staging_url: yaml_content.dig('urls', 'staging'),
       manifest_url: yaml_content['manifest_url'],
+      product_outline: yaml_content['product_outline'],
       measurement: yaml_content['measurement'] || {}
     }
   end
@@ -192,10 +212,10 @@ class ProductManifestGenerator
       content << ""
       
       products.each do |product|
-        # Main product entry with link to YAML file
+        # 1. Main product entry with link to YAML file (Product name)
         content << "- [#{product[:name]}](#{product[:file_path]})"
         
-        # Add status indicator
+        # 2. Add status indicator
         status_indicator = case product[:status]
                           when 'active' then '🟢'
                           when 'maintenance' then '🟡'
@@ -204,10 +224,41 @@ class ProductManifestGenerator
                           end
         content << "  - Status: #{status_indicator} #{product[:status]&.capitalize || 'Unknown'}"
         
-        # Add team if available
-        if product[:team] && !product[:team].empty?
-          content << "  - Team: #{product[:team]}"
+        # 3. Add team if available - with link to team README
+        if product[:team] && !product[:team].empty? && 
+           product[:team].match?(/^https:\/\/github\.com\/department-of-veterans-affairs\/va\.gov-team-sensitive\//)
+          team_name = product[:team_display_name] || 'Team'
+          # Convert tree URLs to blob URLs pointing to README.md for better linking
+          team_url = product[:team]
+          if team_url.match?(/\/tree\/master\//) && !team_url.match?(/\/README\.md$/)
+            team_url = team_url.gsub('/tree/', '/blob/') + '/README.md'
+          end
+          content << "  - Team: [#{team_name}](#{team_url})"
+        elsif product[:team_display_name] && !product[:team_display_name].empty?
+          content << "  - Team: #{product[:team_display_name]}"
         end
+        
+        # 4. Add product outline URL if available
+        if product[:product_outline] && 
+           !product[:product_outline].empty? &&
+           !product[:product_outline].match?(/^https?:\/+\.\.\./)
+          content << "  - [Product Outline](#{product[:product_outline]})"
+        end
+        
+        # 5. Add manifest/application code URL if available
+        if product[:manifest_url] && 
+           !product[:manifest_url].empty? &&
+           !product[:manifest_url].match?(/^https?:\/+\.\.\./)
+          content << "  - [Application code](#{product[:manifest_url]})"
+        end
+        
+        # 6. Add GitHub project board link if label is available
+        if product[:github_label] && !product[:github_label].empty?
+          board_link = generate_github_project_link(product[:github_label])
+          content << "  - [GitHub Issues](#{board_link})"
+        end
+        
+        # Additional URLs section (after the core 6 items)
         
         # Add production URL if available and not a placeholder
         if product[:production_url] && 
@@ -223,13 +274,6 @@ class ProductManifestGenerator
            !product[:staging_url].match?(/^https?:\/+\s*$/) &&
            !product[:staging_url].empty?
           content << "  - [Staging URL](#{product[:staging_url]})"
-        end
-        
-        # Add manifest/application code URL if available
-        if product[:manifest_url] && 
-           !product[:manifest_url].empty? &&
-           !product[:manifest_url].match?(/^https?:\/+\.\.\./)
-          content << "  - [Application code](#{product[:manifest_url]})"
         end
         
         # Add measurement URLs if available
@@ -280,19 +324,11 @@ class ProductManifestGenerator
           end
         end
         
-        # Add GitHub project board link if label is available
-        if product[:github_label] && !product[:github_label].empty?
-          board_link = generate_github_project_link(product[:github_label])
-          content << "  - [GitHub Issues](#{board_link})"
-        end
-        
         content << ""
       end
     end
     
     content << "---"
-    content << ""
-    content << "*Last updated: #{Time.now.strftime('%Y-%m-%d %H:%M:%S')}*"
     content << ""
     
     content.join("\n")
@@ -308,12 +344,30 @@ class ProductManifestGenerator
     if File.exist?(@readme_path)
       current_content = File.read(@readme_path)
       updated_content = MarkdownUtils.replace_section(current_content, MANIFEST_SECTION_HEADER, manifest_content)
+      # Add timestamp at the very end
+      updated_content = add_timestamp_at_end(updated_content)
     else
       # Create a new README if it doesn't exist
       updated_content = generate_new_readme_with_manifest(manifest_content)
     end
     
     File.write(@readme_path, updated_content)
+  end
+
+  def add_timestamp_at_end(content)
+    # Remove any existing timestamp from the end
+    lines = content.split("\n")
+    
+    # Remove trailing empty lines and any existing timestamp or extra separators
+    while lines.last && (lines.last.strip.empty? || lines.last.match?(/^\*Last updated:/) || lines.last.strip == "---")
+      lines.pop
+    end
+    
+    # Add the timestamp at the very end (no extra separator needed since manifest already has one)
+    lines << ""
+    lines << "*Last updated: #{Time.now.strftime('%Y-%m-%d %H:%M:%S')}*"
+    
+    lines.join("\n") + "\n"
   end
 
   def generate_new_readme_with_manifest(manifest_content)
@@ -324,7 +378,9 @@ class ProductManifestGenerator
     content << ""
     content << MANIFEST_SECTION_HEADER
     content << manifest_content
-    content.join("\n")
+    content << ""
+    content << "*Last updated: #{Time.now.strftime('%Y-%m-%d %H:%M:%S')}*"
+    content.join("\n") + "\n"
   end
 end
 

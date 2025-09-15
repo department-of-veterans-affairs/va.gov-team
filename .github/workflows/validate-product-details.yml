@@ -1,0 +1,181 @@
+name: Validate Product Details
+
+on:
+  pull_request:
+    paths:
+      - 'products/**/*-details.yml'
+  push:
+    branches:
+      - master
+    paths:
+      - 'products/**/*-details.yml'
+
+jobs:
+  validate-product-details:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    permissions:
+      contents: read
+      issues: read
+      pull-requests: write
+
+    steps:
+      - name: Optimized checkout for large repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1  # Shallow clone for speed
+          sparse-checkout: |
+            scripts/manifest/
+            products/
+          sparse-checkout-cone-mode: false
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
+          bundler-cache: false
+
+      - name: Install dependencies
+        run: |
+          gem install yaml psych net-http uri
+
+      - name: Get changed product files
+        id: changed-files
+        uses: tj-actions/changed-files@v44
+        with:
+          files: 'products/**/*-details.yml'
+
+      - name: Validate changed product files
+        id: validation
+        if: steps.changed-files.outputs.any_changed == 'true'
+        continue-on-error: true  # Continue even if validation fails so we can post comments
+        run: |
+          FILES_TO_VALIDATE="${{ steps.changed-files.outputs.all_changed_files }}"
+          echo "🔍 Debug: Files to validate: '$FILES_TO_VALIDATE'"
+          
+          if [ -z "$FILES_TO_VALIDATE" ]; then
+            echo "❌ No files to validate (empty list)"
+            exit 1
+          fi
+          
+          # Convert space-separated list to array for processing
+          FILES_LIST="$FILES_TO_VALIDATE"
+          echo "🔍 Processing files: $FILES_LIST"
+          
+          # Run validation on changed files using the existing validation script
+          echo "🚀 Starting validation..."
+          
+          # Capture validation output to a file for PR comment
+          VALIDATION_OUTPUT_FILE="validation_results.txt"
+          
+          # Validate each file using the existing script
+          validation_success=true
+          for file in $FILES_LIST; do
+            if [ -f "$file" ]; then
+              product_name=$(basename "$file" .yml | sed 's/-details$//')
+              echo "🔍 Validating product: $product_name (from file: $file)"
+              echo "--- Validating $product_name ---" >> "$VALIDATION_OUTPUT_FILE"
+              if ruby scripts/manifest/validate_products.rb --product "$product_name" --verbose >> "$VALIDATION_OUTPUT_FILE" 2>&1; then
+                echo "✅ $product_name validation passed" | tee -a "$VALIDATION_OUTPUT_FILE"
+              else
+                echo "❌ $product_name validation failed" | tee -a "$VALIDATION_OUTPUT_FILE"
+                validation_success=false
+              fi
+              echo "" >> "$VALIDATION_OUTPUT_FILE"
+            fi
+          done
+          
+          # Set overall validation status
+          if [ "$validation_success" = true ]; then
+            echo "✅ All validations passed"
+            echo "validation_status=success" >> $GITHUB_OUTPUT
+          else
+            echo "❌ Some validations failed"
+            echo "validation_status=failure" >> $GITHUB_OUTPUT
+          fi
+          
+          # Always show the results
+          echo "📊 Validation Results:"
+          cat "$VALIDATION_OUTPUT_FILE"
+          
+          # Store results for PR comment (properly handle multiline output)
+          {
+            echo "validation_output<<EOF"
+            cat "$VALIDATION_OUTPUT_FILE"
+            echo "EOF"
+          } >> $GITHUB_OUTPUT
+
+      - name: Comment on PR with validation results
+        if: always() && github.event_name == 'pull_request' && steps.changed-files.outputs.any_changed == 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const changedFiles = "${{ steps.changed-files.outputs.all_changed_files }}".split(' ').filter(f => f.trim().length > 0);
+            const validationStatus = "${{ steps.validation.outputs.validation_status }}";
+            
+            // Use environment variables to safely pass multiline content
+            const validationOutput = process.env.VALIDATION_OUTPUT || 'No validation output captured';
+            
+            // Determine overall status and icon
+            const statusIcon = validationStatus === 'success' ? '✅' : '❌';
+            const statusText = validationStatus === 'success' ? 'PASSED' : 'FAILED';
+            
+            // Build comment content
+            let comment = `## ${statusIcon} Product Details Validation ${statusText}\n\n`;
+            comment += `**Files Validated:**\n`;
+            comment += changedFiles.map(f => `- \`${f}\``).join('\n') + '\n\n';
+            comment += `### 🔍 Validation Results\n\n`;
+            comment += '```\n';
+            comment += validationOutput;
+            comment += '\n```\n\n';
+
+            // Add footer with validation details
+            comment += `---\n\n`;
+            comment += `**Validation Checks Performed:**\n`;
+            comment += `- ✅ YAML syntax and required fields\n`;
+            comment += `- 🔗 URL format validation for all links\n`;
+            comment += `- 🏷️ GitHub label existence in va.gov-team repository\n`;
+            comment += `- 📋 Template placeholder detection\n\n`;
+            
+            if (validationStatus === 'failure') {
+              comment += `⚠️ **Action Required:** Please fix the validation errors above before merging.`;
+            } else {
+              comment += `🎉 **All checks passed!** This PR is ready for review.`;
+            }
+
+            // Post or update comment
+            const { data: comments } = await github.rest.issues.listComments({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+            });
+
+            // Look for existing validation comment
+            const existingComment = comments.find(comment => 
+              comment.body.includes('Product Details Validation') && 
+              comment.user.login === 'github-actions[bot]'
+            );
+
+            if (existingComment) {
+              // Update existing comment
+              await github.rest.issues.updateComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                comment_id: existingComment.id,
+                body: comment
+              });
+              console.log('Updated existing validation comment');
+            } else {
+              // Create new comment
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.issue.number,
+                body: comment
+              });
+              console.log('Created new validation comment');
+            }
+        env:
+          VALIDATION_OUTPUT: ${{ steps.validation.outputs.validation_output }}

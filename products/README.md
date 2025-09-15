@@ -23,39 +23,38 @@ This manifest lists all VA.gov products that have product details YAML files.
 
 - [10-10D Application for CHAMPVA benefits](products/health-care/champva/1010D/10-10D-details.yml)
   - Status: 🟢 Active
-  - Team: ivc-forms
-  - [Staging URL](https://staging.va.gov/ivc-champva/10-10d-extended/)
+  - Team: [ivc-forms](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/health-portfolio/ivc-forms/README.md)
+  - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/10-10d-product-outline.md)
   - [Application code](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/ivc-champva/10-10D/manifest.json)
   - [GitHub Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A10-10d)
+  - [Staging URL](https://staging.va.gov/ivc-champva/10-10d-extended/)
 
 - [10-7959C CHAMPVA Other Health Insurance Certification form](products/health-care/champva/10-7959c/10-7959c-details.yml)
   - Status: 🟢 Active
-  - Team: ivc-forms
-  - [Production URL](https://www.va.gov/family-and-caregiver-benefits/health-and-disability/champva/submit-other-insurance-form-10-7959c/)
-  - [Staging URL](https://staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/family-and-caregiver-benefits/health-and-disability/champva/submit-other-insurance-form-10-7959c)
+  - Team: [ivc-forms](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/health-portfolio/ivc-forms/README.md)
   - [Application code](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/ivc-champva/10-7959C/manifest.json)
   - [GitHub Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A10-7959c)
+  - [Production URL](https://www.va.gov/family-and-caregiver-benefits/health-and-disability/champva/submit-other-insurance-form-10-7959c/)
+  - [Staging URL](https://staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/family-and-caregiver-benefits/health-and-disability/champva/submit-other-insurance-form-10-7959c)
 
 ### Platform & Infrastructure (2)
 
 - [Forms System](products/platform/forms-system/forms-system-details.yml)
   - Status: 🟢 Active
-  - Team: design-forms-systems
+  - Team: [design-forms-systems](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/design-forms-systems/README.md)
   - [Production URL](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/platform/forms-system)
   - [Metrics Dashboard](https://design.va.gov/about/metrics/)
   - [Project Board](https://github.com/orgs/department-of-veterans-affairs/projects/1643/views/1)
 
 - [VA Design System (VADS)](products/platform/design-system/design-system-details.yml)
   - Status: 🟢 Active
-  - Team: design-forms-systems
+  - Team: [design-forms-systems](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/design-forms-systems/README.md)
   - [Production URL](https://design.va.gov)
   - [Metrics Dashboard](https://design.va.gov/about/metrics/)
   - [Project Board](https://github.com/orgs/department-of-veterans-affairs/projects/1643/views/1)
   - [Research Repository](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues?q=is%3Aissue%20state%3Aopen%20DSC)
 
 ---
-
-*Last updated: 2025-09-08 17:49:17*
 <details>
 <summary><h2>Archive: Previous Product Organization</h2></summary>
 
@@ -118,3 +117,5 @@ This section contains the previous way products were organized and documented. T
 - [Office and administration sites](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/office-administration)
 
 </details>
+
+*Last updated: 2025-09-10 14:41:24*
