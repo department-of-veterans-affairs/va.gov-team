@@ -14,5 +14,5 @@ measurement:
   metrics_dashboard: "https://vagov.ddog-gov.com/dashboard/ksx-spx-kfe/veteran-facing-forms-team-dashboard?fromUser=false&graphType=flamegraph&refresh_mode=sliding&shouldShowLegend=true&sort=time&from_ts=1755356931931&to_ts=1757948931931&live=true"
   project_board: "https://github.com/orgs/department-of-veterans-affairs/projects/1643/views/1" # Link to GitHub project board (optional)
   research_repo: "https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues" # Link to VA research repository, filtering for this product tag
-product_outline: "https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Forms/40-0247/40-0247-product-outline.md" # Link to product outline document
+product_outline: "https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Forms/40-0247/Product%20Outline.md" # Link to product outline document
 status: "active" # active, maintenance, sunset
