@@ -15,8 +15,8 @@ This manifest lists all VA.gov products that have product details YAML files.
 
 ### Statistics
 
-- Total Products: 16
-- Active Products: 16
+- Total Products: 17
+- Active Products: 17
 - Categories: 3
 
 ### Health Care (2)
@@ -54,7 +54,7 @@ This manifest lists all VA.gov products that have product details YAML files.
   - [Project Board](https://github.com/orgs/department-of-veterans-affairs/projects/1643/views/1)
   - [Research Repository](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues?q=is%3Aissue%20state%3Aopen%20DSC)
 
-### Simple Forms (12)
+### Simple Forms (13)
 
 - [20-10206 - Request for personal records](products/simple-forms/20-10206/20-10206-details.yml)
   - Status: 🟢 Active
@@ -62,8 +62,8 @@ This manifest lists all VA.gov products that have product details YAML files.
   - [Product Outline](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Forms/20-10206%20FOIA%20PA%20Request/Product%20Outline.md)
   - [Application code](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/simple-forms/20-10206/manifest.json)
   - [GitHub Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A20-10206+state%3Aopen)
-  - [Production URL](https://www.va.gov/request-personal-records-form-20-10206)
-  - [Staging URL](https://staging.va.gov/request-personal-records-form-20-10206)
+  - [Production URL](https://www.va.gov/records/request-personal-records-form-20-10206/introduction)
+  - [Staging URL](https://staging.va.gov/records/request-personal-records-form-20-10206/introduction)
   - [Metrics Dashboard](https://vagov.ddog-gov.com/dashboard/ksx-spx-kfe/veteran-facing-forms-team-dashboard?fromUser=false&graphType=flamegraph&refresh_mode=sliding&shouldShowLegend=true&sort=time&from_ts=1755356931931&to_ts=1757948931931&live=true)
   - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/a9w-jhk-den/simple-forms-api?fromUser=false&refresh_mode=sliding&from_ts=1755356924127&to_ts=1757948924127&live=true)
   - [Project Board](https://github.com/orgs/department-of-veterans-affairs/projects/1643/views/1)
@@ -74,8 +74,8 @@ This manifest lists all VA.gov products that have product details YAML files.
   - [Product Outline](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Forms/20-10207%20Priority%20Processing/Product%20Outline.md)
   - [Application code](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/simple-forms/20-10207/manifest.json)
   - [GitHub Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A20-10207+state%3Aopen)
-  - [Production URL](https://www.va.gov/request-priority-processing-form-20-10207)
-  - [Staging URL](https://staging.va.gov/request-priority-processing-form-20-10207)
+  - [Production URL](https://www.va.gov/supporting-forms-for-claims/request-priority-processing-form-20-10207/introduction)
+  - [Staging URL](https://staging.va.gov/supporting-forms-for-claims/request-priority-processing-form-20-10207/introduction)
   - [Metrics Dashboard](https://vagov.ddog-gov.com/dashboard/ksx-spx-kfe/veteran-facing-forms-team-dashboard?fromUser=false&graphType=flamegraph&refresh_mode=sliding&shouldShowLegend=true&sort=time&from_ts=1755356931931&to_ts=1757948931931&live=true)
   - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/a9w-jhk-den/simple-forms-api?fromUser=false&refresh_mode=sliding&from_ts=1755356924127&to_ts=1757948924127&live=true)
   - [Project Board](https://github.com/orgs/department-of-veterans-affairs/projects/1643/views/1)
@@ -86,8 +86,8 @@ This manifest lists all VA.gov products that have product details YAML files.
   - [Product Outline](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Forms/21-0845/Product%20Outline.md)
   - [Application code](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/simple-forms/21-0845/manifest.json)
   - [GitHub Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A21-0845+state%3Aopen)
-  - [Production URL](https://www.va.gov/authorization-for-release-of-information-form-21-0845)
-  - [Staging URL](https://staging.va.gov/authorization-for-release-of-information-form-21-0845)
+  - [Production URL](https://www.va.gov/supporting-forms-for-claims/third-party-authorization-form-21-0845/)
+  - [Staging URL](https://staging.va.gov/supporting-forms-for-claims/third-party-authorization-form-21-0845/)
   - [Metrics Dashboard](https://vagov.ddog-gov.com/dashboard/ksx-spx-kfe/veteran-facing-forms-team-dashboard?fromUser=false&graphType=flamegraph&refresh_mode=sliding&shouldShowLegend=true&sort=time&from_ts=1755356931931&to_ts=1757948931931&live=true)
   - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/a9w-jhk-den/simple-forms-api?fromUser=false&refresh_mode=sliding&from_ts=1755356924127&to_ts=1757948924127&live=true)
   - [Project Board](https://github.com/orgs/department-of-veterans-affairs/projects/1643/views/1)
@@ -98,8 +98,8 @@ This manifest lists all VA.gov products that have product details YAML files.
   - [Product Outline](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Forms/21-0966/Product%20Outline.md)
   - [Application code](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/simple-forms/21-0966/manifest.json)
   - [GitHub Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A21-0966+state%3Aopen)
-  - [Production URL](https://www.va.gov/intent-to-file-a-claim-form-21-0966)
-  - [Staging URL](https://staging.va.gov/intent-to-file-a-claim-form-21-0966)
+  - [Production URL](https://www.va.gov/supporting-forms-for-claims/intent-to-file-form-21-0966/introduction)
+  - [Staging URL](https://staging.va.gov/supporting-forms-for-claims/intent-to-file-form-21-0966/introduction)
   - [Metrics Dashboard](https://vagov.ddog-gov.com/dashboard/ksx-spx-kfe/veteran-facing-forms-team-dashboard?fromUser=false&graphType=flamegraph&refresh_mode=sliding&shouldShowLegend=true&sort=time&from_ts=1755356931931&to_ts=1757948931931&live=true)
   - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/a9w-jhk-den/simple-forms-api?fromUser=false&refresh_mode=sliding&from_ts=1755356924127&to_ts=1757948924127&live=true)
   - [Project Board](https://github.com/orgs/department-of-veterans-affairs/projects/1643/views/1)
@@ -110,8 +110,8 @@ This manifest lists all VA.gov products that have product details YAML files.
   - [Product Outline](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Forms/21-0972%20Alternate%20Signer/Product%20Outline.md)
   - [Application code](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/simple-forms/21-0972/manifest.json)
   - [GitHub Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A21-0972+state%3Aopen)
-  - [Production URL](https://www.va.gov/alternate-signer-certification-form-21-0972)
-  - [Staging URL](https://staging.va.gov/alternate-signer-certification-form-21-0972)
+  - [Production URL](https://www.va.gov/supporting-forms-for-claims/alternate-signer-form-21-0972/introduction)
+  - [Staging URL](https://staging.va.gov/supporting-forms-for-claims/alternate-signer-form-21-0972/introduction)
   - [Metrics Dashboard](https://vagov.ddog-gov.com/dashboard/ksx-spx-kfe/veteran-facing-forms-team-dashboard?fromUser=false&graphType=flamegraph&refresh_mode=sliding&shouldShowLegend=true&sort=time&from_ts=1755356931931&to_ts=1757948931931&live=true)
   - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/a9w-jhk-den/simple-forms-api?fromUser=false&refresh_mode=sliding&from_ts=1755356924127&to_ts=1757948924127&live=true)
   - [Project Board](https://github.com/orgs/department-of-veterans-affairs/projects/1643/views/1)
@@ -122,8 +122,8 @@ This manifest lists all VA.gov products that have product details YAML files.
   - [Product Outline](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Forms/21-10210/product%20outline.md)
   - [Application code](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/simple-forms/21-10210/manifest.json)
   - [GitHub Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A21-10210+state%3Aopen)
-  - [Production URL](https://www.va.gov/lay-witness-statement-form-21-10210)
-  - [Staging URL](https://staging.va.gov/lay-witness-statement-form-21-10210)
+  - [Production URL](https://www.va.gov/supporting-forms-for-claims/lay-witness-statement-form-21-10210/introduction)
+  - [Staging URL](https://staging.va.gov/supporting-forms-for-claims/lay-witness-statement-form-21-10210/introduction)
   - [Metrics Dashboard](https://vagov.ddog-gov.com/dashboard/ksx-spx-kfe/veteran-facing-forms-team-dashboard?fromUser=false&graphType=flamegraph&refresh_mode=sliding&shouldShowLegend=true&sort=time&from_ts=1755356931931&to_ts=1757948931931&live=true)
   - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/a9w-jhk-den/simple-forms-api?fromUser=false&refresh_mode=sliding&from_ts=1755356924127&to_ts=1757948924127&live=true)
   - [Project Board](https://github.com/orgs/department-of-veterans-affairs/projects/1643/views/1)
@@ -134,8 +134,7 @@ This manifest lists all VA.gov products that have product details YAML files.
   - [Product Outline](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Forms/21-4138/Product%20Outline.md)
   - [Application code](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/simple-forms/21-4138/manifest.json)
   - [GitHub Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A21-4138+state%3Aopen)
-  - [Production URL](https://www.va.gov/supporting-forms-for-claims/submit-statement-form-21-4138)
-  - [Staging URL](https://staging.va.gov/supporting-forms-for-claims/submit-statement-form-21-4138)
+  - [Staging URL](https://staging.va.gov/supporting-forms-for-claims/submit-statement-form-21-4138/introduction)
   - [Metrics Dashboard](https://vagov.ddog-gov.com/dashboard/ksx-spx-kfe/veteran-facing-forms-team-dashboard?fromUser=false&graphType=flamegraph&refresh_mode=sliding&shouldShowLegend=true&sort=time&from_ts=1755356931931&to_ts=1757948931931&live=true)
   - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/a9w-jhk-den/simple-forms-api?fromUser=false&refresh_mode=sliding&from_ts=1755356924127&to_ts=1757948924127&live=true)
   - [Project Board](https://github.com/orgs/department-of-veterans-affairs/projects/1643/views/1)
@@ -146,10 +145,17 @@ This manifest lists all VA.gov products that have product details YAML files.
   - [Product Outline](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Forms/21-4142%28a%29/Product%20Outline.md)
   - [Application code](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/simple-forms/21-4142/manifest.json)
   - [GitHub Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A21-4142+state%3Aopen)
-  - [Production URL](https://www.va.gov/authorization-for-release-of-medical-information-form-21-4142)
-  - [Staging URL](https://staging.va.gov/authorization-for-release-of-medical-information-form-21-4142)
+  - [Production URL](https://www.va.gov/supporting-forms-for-claims/release-information-to-va-form-21-4142/introduction)
+  - [Staging URL](https://staging.va.gov/supporting-forms-for-claims/release-information-to-va-form-21-4142/introduction)
   - [Metrics Dashboard](https://vagov.ddog-gov.com/dashboard/ksx-spx-kfe/veteran-facing-forms-team-dashboard?fromUser=false&graphType=flamegraph&refresh_mode=sliding&shouldShowLegend=true&sort=time&from_ts=1755356931931&to_ts=1757948931931&live=true)
   - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/a9w-jhk-den/simple-forms-api?fromUser=false&refresh_mode=sliding&from_ts=1755356924127&to_ts=1757948924127&live=true)
+  - [Project Board](https://github.com/orgs/department-of-veterans-affairs/projects/1643/views/1)
+
+- [21-8940 - Veteran's Application for increased compensation based on unemployability](products/simple-forms/21-8940/21-8940-details.yml)
+  - Status: 🟢 Active
+  - Team: [design-forms-systems](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/design-forms-systems/README.md)
+  - [Product Outline](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Forms/21-8940%20Increased%20Compensation/Product%20Outline.md)
+  - [GitHub Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A21-8940+state%3Aopen)
   - [Project Board](https://github.com/orgs/department-of-veterans-affairs/projects/1643/views/1)
 
 - [21P-0847 - Request to be substitute claimant](products/simple-forms/21P-0847/21P-0847-details.yml)
@@ -158,8 +164,8 @@ This manifest lists all VA.gov products that have product details YAML files.
   - [Product Outline](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Forms/21P-0847/product%20outline.md)
   - [Application code](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/simple-forms/21P-0847/manifest.json)
   - [GitHub Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A21P-0847+state%3Aopen)
-  - [Production URL](https://www.va.gov/request-substitute-claimant-form-21p-0847)
-  - [Staging URL](https://staging.va.gov/request-substitute-claimant-form-21p-0847)
+  - [Production URL](https://www.va.gov/supporting-forms-for-claims/substitute-claimant-form-21P-0847/introduction)
+  - [Staging URL](https://staging.va.gov/supporting-forms-for-claims/substitute-claimant-form-21P-0847/introduction)
   - [Metrics Dashboard](https://vagov.ddog-gov.com/dashboard/ksx-spx-kfe/veteran-facing-forms-team-dashboard?fromUser=false&graphType=flamegraph&refresh_mode=sliding&shouldShowLegend=true&sort=time&from_ts=1755356931931&to_ts=1757948931931&live=true)
   - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/a9w-jhk-den/simple-forms-api?fromUser=false&refresh_mode=sliding&from_ts=1755356924127&to_ts=1757948924127&live=true)
   - [Project Board](https://github.com/orgs/department-of-veterans-affairs/projects/1643/views/1)
@@ -170,8 +176,8 @@ This manifest lists all VA.gov products that have product details YAML files.
   - [Product Outline](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Forms/26-4555/Product%20Outline.md)
   - [Application code](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/simple-forms/26-4555/manifest.json)
   - [GitHub Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A26-4555+state%3Aopen)
-  - [Production URL](https://www.va.gov/application-adapted-housing-form-26-4555)
-  - [Staging URL](https://staging.va.gov/application-adapted-housing-form-26-4555)
+  - [Production URL](https://www.va.gov/housing-assistance/disability-housing-grants/apply-for-grant-form-26-4555)
+  - [Staging URL](https://staging.va.gov/housing-assistance/disability-housing-grants/apply-for-grant-form-26-4555)
   - [Metrics Dashboard](https://vagov.ddog-gov.com/dashboard/ksx-spx-kfe/veteran-facing-forms-team-dashboard?fromUser=false&graphType=flamegraph&refresh_mode=sliding&shouldShowLegend=true&sort=time&from_ts=1755356931931&to_ts=1757948931931&live=true)
   - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/a9w-jhk-den/simple-forms-api?fromUser=false&refresh_mode=sliding&from_ts=1755356924127&to_ts=1757948924127&live=true)
   - [Project Board](https://github.com/orgs/department-of-veterans-affairs/projects/1643/views/1)
@@ -182,8 +188,8 @@ This manifest lists all VA.gov products that have product details YAML files.
   - [Product Outline](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Forms/40-0247/Product%20Outline.md)
   - [Application code](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/simple-forms/40-0247/manifest.json)
   - [GitHub Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A40-0247+state%3Aopen)
-  - [Production URL](https://www.va.gov/request-headstone-marker-form-40-0247)
-  - [Staging URL](https://staging.va.gov/request-headstone-marker-form-40-0247)
+  - [Production URL](https://www.va.gov/burials-memorials/memorial-items/presidential-memorial-certificates/request-certificate-form-40-0247/introduction)
+  - [Staging URL](https://staging.va.gov/burials-memorials/memorial-items/presidential-memorial-certificates/request-certificate-form-40-0247/introduction)
   - [Metrics Dashboard](https://vagov.ddog-gov.com/dashboard/ksx-spx-kfe/veteran-facing-forms-team-dashboard?fromUser=false&graphType=flamegraph&refresh_mode=sliding&shouldShowLegend=true&sort=time&from_ts=1755356931931&to_ts=1757948931931&live=true)
   - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/a9w-jhk-den/simple-forms-api?fromUser=false&refresh_mode=sliding&from_ts=1755356924127&to_ts=1757948924127&live=true)
   - [Project Board](https://github.com/orgs/department-of-veterans-affairs/projects/1643/views/1)
@@ -194,7 +200,7 @@ This manifest lists all VA.gov products that have product details YAML files.
   - [Product Outline](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Forms/DocumentUpload_FindaForm/Product%20Outline%20File%20Upload.md)
   - [Application code](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/simple-forms/form-upload/manifest.json)
   - [GitHub Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3Aform-upload+state%3Aopen)
-  - [Production URL](https://va.gov/upload-form)
+  - [Production URL](https://www.va.gov/upload-form)
   - [Staging URL](https://staging.va.gov/upload-form)
   - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/fvg-irw-628/form-upload?fromUser=false&graphType=flamegraph&refresh_mode=sliding&shouldShowLegend=true&sort=time&spanID=1238785843163750371&spanViewType=errors&from_ts=1755270477372&to_ts=1757948877372&live=true)
   - [Project Board](https://github.com/orgs/department-of-veterans-affairs/projects/1643/views/1)
@@ -263,4 +269,4 @@ This section contains the previous way products were organized and documented. T
 
 </details>
 
-*Last updated: 2025-09-15 11:41:01*
+*Last updated: 2025-09-15 13:52:35*
