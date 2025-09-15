@@ -665,12 +665,10 @@ This research does not include the perspectives of the following marginalized Ve
 * Expat (living abroad)
 * Beginner AT user
 
-![Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers](./images/VA-recruitment-checker.png)
 
 ![Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers](./images/VA-recruitment-checker-NEW.png)
 
-<details>
-  <summary>A more accessible version of the table in the above image</summary>
+#### A more accessible version of the table in the above image:
    
 ### ADE Save in Progress usability testing recruitment of underserved groups
 
@@ -703,51 +701,3 @@ This research does not include the perspectives of the following marginalized Ve
 | Desktop Screen Reader (SR) | AT | 20% | 2 | 2 | yes | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | Mobile Screen Reader (SR) | AT | 20% | 2 | 2 | yes | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | Magnification/Zoom | AT | 20% | 2 | 2 | yes | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
-
----
-Old version below...
----
-
-**Final # of participants:** 11  
-**# of AT users:** 6  
-**# of no shows:** 1
-
-#### General
-
-| Category | % | Target | Study | p1 | p2 | p3 | p4 | p5 | p7 | p8 | p9 | p10 | p11 | p12 | p13 |
-|----------|---|---------|-------|---|---|---|---|---|---|---|---|----|----|----|----|
-| Age 55-64+ | 50% | 6 | 5 | 1 | 1 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
-| Cognitive Disability | 50% | 6 | 6 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 1 | 1 | 1 | 1 |
-| Mobile user | 50% | 6 | 6 | 0 | 0 | 0 | 1 | 1 | N | 1 | 1 | 1 | 0 | 1 | 0|
-| Rural | 25% | 3 | 3 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
-| No degree | 25% | 3 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 0 | 0 |
-| Other than honorable | 21% | ? | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Immigrant origin | 17% | ? | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Women | 10% | 2 | 2 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Expat (living abroad) | 0.4% | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
-#### Race
-
-| Category | % | Target | Study | p1 | p2 | p3 | p4 | p5 | p7 | p8 | p9 | p10 | p11 | p12 | p13 |
-|----------|---|---------|-------|---|---|---|---|---|---|---|---|----|----|----|----|
-| Black or African American | 15% | 2 | 3 | 0 | 0 | 0 | 1 | 0 | N | 1 | 0 | 1 | 0 | 0 | 0 |
-| Hispanic, Latino, or Spanish origin | 12% | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Biracial | 3.9% | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Asian | 3% | 1 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 | 1 | 0 |
-| Native Hawaiian or other Pacific Islander | 0% | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| First Nations (Canada) | 0% | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Native, American Indian or Alaska Native | 0.3% | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
-
-#### Assistive Tech (AT)
-
-| Category | % | Target | Study | p1 | p2 | p3 | p4 | p5 | p7 | p8 | p9 | p10 | p11 | p12 | p13 |
-|----------|---|---------|-------|---|---|---|---|---|---|---|---|----|----|----|----|
-| Beginner AT User | 50% | 3 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Experienced AT User | 50% | 3 | 6 | 1 | 1 | 1 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
-| Desktop Screen Reader (SR) | 20% | 2 | 2 | 1 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Mobile Screen Reader (SR) | 20% | 2 | 2 | 0 | 0 | 0 | 1 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-| Magnification/Zoom | 20% | 2 | 2 | 0 | 1 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1 |
-| Speech Input Tech (Siri, Dragon) | 20% | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-
- </details>
