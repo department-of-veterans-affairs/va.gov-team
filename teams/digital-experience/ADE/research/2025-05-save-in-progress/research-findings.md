@@ -670,7 +670,7 @@ This research does not include the perspectives of the following marginalized Ve
 
 #### A more accessible version of the table in the above image:
    
-### ADE Save in Progress usability testing recruitment of underserved groups
+### Recruitment of underserved groups in ADE Save in Progress usability testing 
 
 | Demographic | Category | Target % | Target # | # in Study | Target Achieved? | p1 | p2 | p3 | p4 | p5 | p7 | p8 | p9 | p10 | p11 | p12 | p13 |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
