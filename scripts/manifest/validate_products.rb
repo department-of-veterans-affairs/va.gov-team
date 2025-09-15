@@ -399,8 +399,8 @@ class ProductDetailsValidator
     elsif !url.match?(/^https:\/\/github\.com/)
       issues << 'Should be a GitHub URL'
       valid = false
-    elsif !url.match?(/\/va\.gov-team\//)
-      issues << 'Should point to va.gov-team repository'
+    elsif !url.match?(/\/department-of-veterans-affairs\//)
+      issues << 'Should point to a department-of-veterans-affairs repository'
       valid = false
     elsif !url.match?(/\.(md|markdown)$/i)
       issues << 'Should point to a Markdown file (.md)'

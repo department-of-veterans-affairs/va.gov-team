@@ -124,7 +124,8 @@ class ProductManifestGenerator
   end
 
   def extract_product_info(file_path, yaml_content)
-    relative_path = file_path.sub(@repo_root + '/', '')
+    # Create relative path from the products directory for the manifest links
+    relative_path = file_path.sub(@products_dir + '/', '')
     
     # Extract team name from team URL if it's a valid URL
     team_display_name = extract_team_name_from_url(yaml_content['team'])
@@ -335,9 +336,9 @@ class ProductManifestGenerator
   end
 
   def generate_github_project_link(github_label)
-    # Generate a GitHub issues link filtered by the product label
+    # Generate a GitHub issues link filtered by the product label and showing only open issues
     encoded_label = CGI.escape(github_label)
-    "https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A#{encoded_label}"
+    "https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A#{encoded_label}+state%3Aopen"
   end
 
   def update_readme_with_manifest(manifest_content)
