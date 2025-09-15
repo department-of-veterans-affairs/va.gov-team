@@ -23,8 +23,7 @@ The VA Mobile Platform team kicked off several surge support sprints to discover
 **[Future State Data Pipeline Documentation](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/analytics/data-strategy/Mobile%20future%20state%20data%20pipeline.png)**  
 - We also documented the potential future state data pipeline for the VAHB mobile app, with a focus on increasing automation, streamlining data processing, and removing deprecated systems.
 - An editable version of the diagram is in [FigJam here](https://www.figma.com/board/V0rDE80KylZ5jod3SWxAzC/Mobile-Surge-Support---Measurement---Data-Strategy?node-id=673-2731&t=LQrtgAmFB3YgJ4Rg-0).
-- Next steps:
-       - Update as changes are made to the data pipeline
+- Next steps: update as changes are made to the data pipeline
 
 **[Systems Inventory](./Mobile%20-%20Measurement%20System%20Inventory.pdf)**
 - We documented each relavant supporting system involved in the collection of data and use in analysis for the mobile app. 
@@ -38,5 +37,6 @@ The VA Mobile Platform team kicked off several surge support sprints to discover
 
 ## Dashboard/Visualization Designs
 - We designed a landing page, experience page, and data dictionary page for implementation in PowerBI.
-- An editable version of the designs and our brainstorming can be found in [Figma here](https://www.figma.com/board/V0rDE80KylZ5jod3SWxAzC/Mobile-Surge-Support---Measurement---Data-Strategy?node-id=80-679&t=Y6lHMElVgm9bwJSi-0). 
+- An editable version of the designs, documentation of existing reports, and data visualization brainstorming can be found in [Figma here](https://www.figma.com/board/V0rDE80KylZ5jod3SWxAzC/Mobile-Surge-Support---Measurement---Data-Strategy?node-id=80-679&t=Y6lHMElVgm9bwJSi-0). 
 - Next steps: build out in PowerBI
+- Considerations: to reduce dashboard load time, consider opportunities to optimize data queries.
