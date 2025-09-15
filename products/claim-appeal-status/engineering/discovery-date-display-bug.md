@@ -4,11 +4,12 @@ Issue: [#117391](https://github.com/department-of-veterans-affairs/va.gov-team/i
 
 ## Table of Contents
 - [Problem Statement](#problem-statement)
-- [Quick Root Cause Analysis](#quick-root-cause-analysis)
-- [Critical: VA.gov Deadline Rules](#critical-vagov-deadline-rules)
+- [Root Cause Analysis](#root-cause-analysis)
+- [Critical: What are the VA.gov Deadline Rules?](#critical-what-are-the-vagov-deadline-rules)
 - [Where This Bug Impacts Veterans](#where-this-bug-impacts-veterans)
 - [Solution: Return ISO 8601 Timestamps](#solution-return-iso-8601-timestamps)
 - [Brainstorm of Possible UX Improvements While Awaiting API Fix](#brainstorm-of-possible-ux-improvements-while-awaiting-api-fix)
+- [Key Questions](#key-questions)
 - [Appendix A: Detailed Technical Flow](#appendix-a-detailed-technical-flow)
 - [Appendix B: Additional Affected Areas](#appendix-b-additional-affected-areas)
 
@@ -23,7 +24,7 @@ A veteran uploads evidence at 10:18 PM EDT on August 15, 2025. In the success al
 This is a real screenshot from a user in which this Example Scenario was created out of:
 <img width="1167" height="591" alt="image (5)" src="https://github.com/user-attachments/assets/bad11660-bbae-43f3-b97c-58869968b677" />
 
-## Quick Root Cause Analysis
+## Root Cause Analysis
 
 The bug's root cause is visible in the API schemas:
 
@@ -52,7 +53,7 @@ When a veteran uploads a document after 7 PM ET (after midnight UTC), the follow
 
 **Root cause**: The external Lighthouse Benefits Claims API returns date-only strings instead of full ISO 8601 timestamps, which prevents the frontend from displaying the date in the user's timezone. Users naturally expect to see dates in their local timezone, causing confusion when documents appear to be submitted on the "next day."
 
-## Critical: VA.gov Deadline Rules
+## Critical: What are the VA.gov Deadline Rules?
 
 **Key Question**: What timezone defines the legal deadline for evidence submission?
 
@@ -216,6 +217,23 @@ Add a `va-additional-info` component near the "Documents Filed" and "Recent Acti
   </p>
 </va-additional-info>
 ```
+
+## Key Questions to Resolve
+
+1. **What are the VA.gov Deadline Rules?**
+   - What timezone defines the legal deadline for evidence submission (UTC, ET, or local)?
+   - How should dates be displayed to ensure veterans understand deadline compliance?
+
+2. **Can Lighthouse Return ISO 8601 Timestamps?**
+   - Is the Lighthouse team able to modify their API to return full timestamps?
+   - Are there any technical constraints preventing this?
+   - What is the timeline for implementing this change?
+
+3. **Should We Implement UX Improvements While Awaiting the API Fix?**
+   - Would removing the local date from the upload notification reduce confusion?
+   - Would showing both UTC and local times in upload notification reduce confusion?
+   - Should we add disclaimers to the Documents Filed and Recent Activity sections?
+   - How can we best communicate the timezone issue to veterans without causing more confusion?
 
 ## Appendix A: Detailed Technical Flow
 
