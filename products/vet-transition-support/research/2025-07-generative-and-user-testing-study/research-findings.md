@@ -1,17 +1,10 @@
-<br>**This is a template, PLEASE MAKE A COPY**
+# Veteran Transition Experience Research Findings
 
----
+**Office of the CTO - Digital Experience (OCTO-DE), Discover Your Benefits, VES Veteran Transition Experience Team**
 
-# [Study] Research Findings 
+**Date:** 08/01/2025
 
-**Office of the CTO - Digital Experience (OCTO-DE), Product Name, Team Name**
-
-**Date:** MM/DD/YYYY
-
-**Contacts:** [Researcher/Designer 1], [Researcher/Designer 2]
-
-**[Link to Research Readout](link-here)**  
-*Add a link to your research readout deck, if available.*
+**Contacts:** VES Veteran Transition Experience Team
 
 **Jump to:**
 
@@ -24,145 +17,228 @@
 - [Further research needed](#further-research-needed)
 - [Who we talked to](#who-we-talked-to)
 
-
 ## Research Goals
-*Provide context for this research by explaining how it fits into the Veteran’s journey.*  
-[See the Veteran journey](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/platform/design/va-product-journey-maps/Veteran%20Journey%20Map.pdf)  
 
-**Guiding Questions:**  
-- What are the key moments this tool supports in the Veteran’s journey?  
-- What outcomes are we aiming to achieve for Veterans and stakeholders?  
+This research supports Veterans and Transitioning Service Members (TSMs) during a critical phase of their journey - the transition from active military service to civilian life. The transition period represents a complex time when service members must navigate numerous benefits, deadlines, and administrative tasks while adapting to civilian life.
 
-[Example Research Goals](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-goals) 
+**Guiding Questions:**
 
+- How can we support TSMs' organizational needs during transition to reduce stress and improve outcomes?
+- What tools and support do TSMs need to effectively discover and apply for benefits they're eligible for?
+- How can we improve the current product to better serve TSMs' unmet needs?
 
+**Research Goals:**
+
+- Understand how to support TSMs' need to keep track of their transition progress/deadlines/tasks/to do list to reduce stress, minimize the possibility of missing deadlines, and improve transition outcomes
+- Understand how to improve the tool to address TSMs' unmet needs of support to take action and get help
+- Usability testing of the product in staging
 
 ## Research Questions
 
-*List the research questions that guided this study.*  
+* How do TSMs currently organize and track their transition progress and deadlines?
+* What are the pain points in the current Discover Your Benefits tool that prevent effective benefit discovery and application?
+* How do goals selected in the questionnaire relate to benefits participants actually explore?
+* What support do TSMs need to take action on benefits they discover?
+* How do TSMs prefer to save and return to their benefit results?
 
-* Question 1
-* Question 2
-* Question 3
+## Methodology
 
-[Example Research Questions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#research-questions)
+This was a mixed-methods study combining generative research with usability testing to understand both current TSM needs and evaluate the existing product.
 
-## Methodology 
-
-*Provide a brief description of the research methods used (e.g., usability testing, interviews).*  
-
-- Method 1: Description  
-- Method 2: Description  
-
-[Example Methodology](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#methodology)
-
+- **Generative Research:** In-depth interviews to understand transition organizational strategies and unmet needs
+- **Usability Testing:** Task-based testing of the Discover Your Benefits tool in staging environment
+- **Mixed Methods Analysis:** Quantitative coding of behaviors and qualitative analysis of feedback
 
 ## Hypotheses and Conclusions
 
-*List hypotheses explored in the research and the conclusions drawn. If applicable, list the success or task completion rate.*
+- **TSMs need a comprehensive tracking system for transition tasks and deadlines:** **Maybe True**
+  - While TSMs use various organizational strategies, most rely on the existing TAP checklist as their source of truth. Having any organized strategy (not necessarily comprehensive) correlates with easier transitions.
 
-> [!TIP]
-> Place true or false statements in bold for easier scanability
+- **The current goals-based approach effectively filters benefits to show relevant results:** **Likely False**
+  - There was surprisingly little relationship between goals participants selected and benefits they actually explored. 21 of 28 participants chose "Understand my benefits" suggesting they want broad results rather than filtered ones.
 
-- **Hypothesis Statement:** [Insert statement]  
-  - **"Maybe True", “Likely True”, “Definitely True”, “Likely False”, “Definitely False” or “Not enough information”**  
-  - Supporting evidence  
+- **Participants can easily save and return to their benefit results:** **Definitely False**
+  - 68% of participants thought they would need to retake the questionnaire to see results again. Only 25% noticed the save link functionality.
 
-[Example Hypotheses and Conclusions](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#hypotheses-and-conclusions)
-
+- **The current product provides adequate support for taking action on benefits:** **Likely False**
+  - Participants consistently requested easier access to human support and clearer pathways for getting help with benefits questions beyond technical support.
 
 ## Key Findings
 
-*Summarize the 5–10 most impactful findings from your study.* 
+**1.** There is surprisingly little relationship between the goals participants chose and the benefits they explored. Participants are not seeing or using filters in their current form, with only 25% organically interacting with filters.
 
-> [!TIP] 
-> Write findings as stand-alone insights that are easy to scan. For example:  
-> - "Most participants used the search field to locate forms, often searching for 'veteran health.'"  
-> - "Participants struggled with the secondary caregiver section on the form."  
+**2.** Participants want to return to results to apply for benefits, but 68% thought they would have to retake the questionnaire to see results again. The current "save link" option isn't visible, effective, or well understood.
 
-[Example Key Findings](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#key-findings)
+**3.** TSMs use diverse organizational strategies during transition (digital first, hybrid paper/digital, paper first, and no organized strategy), but having any proactive strategy correlates with easier transition experiences.
 
-**1.** Finding one
+**4.** The Discover Your Benefits tool fills a critical gap in VA benefits information shared during TAP and is especially valuable to National Guard and Reserves TSMs who receive less transition support.
 
-**2.** Finding two
+**5.** Content friction points create barriers: the length of service question topping out at 3 years confused long-serving Veterans, and displaying disability compensation to Veterans who already have ratings undermines personalization.
 
-**3.** Finding three
+**6.** Participants want easy access to knowledgeable human support for benefits questions (not just technical support), with strong preferences for phone contact and suggestions for chatbot-to-human escalation.
 
-**4.** Finding four
+**7.** All participants found the tool valuable and would recommend it to others, with quotes like "If I would have had this as a transitioning member, I would have had less doubt of transitioning."
 
-**5.** Finding five
+**9.** Key transition knowledge gaps exist across all participant groups, with critical information needs around timing of benefit applications, medical documentation requirements, and understanding of available support resources.
 
-**6.** Finding six
+## Details of Findings
 
-**7.** Finding seven
+**Finding 1: Goals and Benefits Disconnect**
 
+Despite careful goal selection, participants explored benefits based on curiosity, page position, or broad information-seeking rather than their selected goals.
 
-## Details of Findings 
+- _Supporting data: "21 of 28 participants chose 'Understand my benefits' as a goal, suggesting that they want to see a broad list of results"_
+- _Supporting data: "Most participants weren't afraid to click and explore, and often clicked on benefits out of curiosity, or it being listed high on the page, rather than a benefit being what they already knew they wanted"_
 
-*Provide detailed descriptions and supporting evidence for each key finding.*  
+**Finding 2: Save Functionality Invisible**
 
-**Finding 1:**  
-Brief description  
-- _Supporting data: Quote [add context]_  
-- _Supporting data: ![text](link - add image to github folder and link here with .png)_  
+The current method for saving results is not meeting user needs or expectations.
 
-**Finding 2:**  
-Brief description  
-- _Supporting data: Quote [add context]_  
+- _Supporting data: "19 participants (68%) thought they would have to retake the questionnaire to see their results again"_
+- _Supporting data: "Only 7 participants, about 25%, noticed the link to save results"_
+- _Supporting data: "[To save results] I would prefer 'send me text' 'send me email' 'save it to MyVA' and select as many of them as I wanted... The more places it comes to me, the more opportunities to get back into it" (P25)_
+- _Supporting data: "A significant and recurring need was the ability to save their results from the questionnaire [P4, P5, P6, P7, P8, P10, P12, P14, P15, P16, P18, P19, P20, P23, P24, P28, P30, P35, P36, P37, P38]"_
+- _Supporting data: "Emailing the results (either a link or a PDF) [P2, P4, P10, P12, P14, P15, P18, P19, P20, P23, P24, P28, P35] was a highly preferred method for easy reference and sharing"_
+
+**Finding 3: Diverse Organizational Styles**
+
+TSMs employ various strategies for managing transition, and success correlates with having any organized approach.
+
+- _Supporting data: "Having a hands on, proactive management style during transition is highly correlated with having an easy to somewhat easy transition experience"_
+- _Supporting data: "While digital first participants were most likely to have an easier transition, what matters most is that participants had an organizational strategy, whether paper first, digital first, or hybrid"_
+
+**Finding 4: Product Value and Gap-Filling**
+
+The tool addresses unmet needs in current transition support systems.
+
+- _Supporting data: "If I would have had this as a transitioning member, I would have had less doubt of transitioning [instead of] having to ask a bunch of people. It's pretty much, everything's right in front of me." (P14)_
+- _Supporting data: "I think something like this would be great for the instructors of DoD TAP to initially show transitioning service members during like the VA Workshop days, because we didn't do this." (P15)_
+
+**Finding 5: Content and Personalization Issues**
+
+Specific form elements and result displays create friction and confusion.
+
+- _Supporting data: "3 participants who served 15-20+ years felt confused and annoyed by seeing length of service options top out at 3 years"_
+- _Supporting data: "Several participants were confused that Disability compensation was listed as the first benefit on the results page because they already have it"_
+
+**Finding 6: Support and Help Needs**
+
+Participants need clearer pathways to human assistance for benefits questions.
+
+- _Supporting data: "Participants wanted to have an easy way to get help from someone knowledgeable about benefits (vs tech support)"_
+- _Supporting data: "Several looked for a help phone number on the page and were disappointed they didn't find it"_
+
+**Finding 7: Special Value for Guard/Reserves**
+
+National Guard and Reserve members face unique transition challenges that the tool helps address.
+
+- _Supporting data: "Compared to Active Duty only TSMs and Veterans, National Guard and Reserves members are: More likely to have had a somewhat difficult to very difficult transition experience, Less likely to have gone through TAP, Less likely to have received support from their unit during transition"_
+- _Supporting data: "Service members from National Guard and Reserve units often receive 'very little support' and feel 'thrown to the wolves' compared to active-duty counterparts, highlighting a significant variability in transition support across branches and units [P4, P12, P22, P24, P37, P38]"_
+
+**Finding 8: Strong Desire for Authenticated Integration**
+
+Participants expressed overwhelming support for integrating the tool with their authenticated VA experience.
+
+- _Supporting data: "Many participants indicated a strong desire for the tool to be linked to their VA account or profile, believing it would significantly enhance personalization and ease of use [P4, P5, P6, P10, P14, P15, P16, P17, P19, P20, P23, P28, P30, P35, P36, P37, P38]"_
+- _Supporting data: "Several participants explicitly stated that if they were logged in, they would expect the tool to automatically pull their existing VA data to tailor benefit results [P5, P6, P10, P14, P16, P17, P20, P23, P28, P30, P35, P36, P37, P38]"_
+- _Supporting data: "They wanted the tool to screen out benefits that don't apply to them based on their personal disability ratings, service history, or other qualifications already on file [P5, P10, P16, P20, P28, P35]"_
+**Finding 9: Critical Transition Knowledge Gaps**
+
+Participants across all groups identified significant knowledge gaps that hindered their transition success, particularly around timing, documentation, and benefit awareness.
+
+- _Supporting data: "Many service members 'don't know what they don't know' and will not seek out benefits if they are unaware of their existence [P5, P6, P22]"_
+- _Supporting data: "Wished he had known about the disability claim process and how to document medical issues, as his military records were 'thin vs reality of what issues would crop up later' (P4)"_
+- _Supporting data: "Wished he had known how much self-direction was required, as he expected a 'safety net and guided process' that was absent (P5, P19)"_
+- _Supporting data: "VA resources and benefits are often 'not sufficiently promoted' and veterans feel they 'have to go seek the information' rather than receiving proactive outreach [P8, P30, P38]"_
+- _Supporting data: "Time sensitive benefits need to be explicitly highlighted and prioritized, with clear explanations of application timelines (e.g., 'must do while in uniform') [P4, P15, P16, P20, P28, P35]"_
 
 ---
 
 ## **Additional Insights**
-*Include insights that do not represent patterns but are still valuable.*  
-> **TIP:** These could be powerful user comments or unexpected issues worth noting
 
+**Filter Usage Patterns:** Only 7 of 28 participants interacted with the filter section, and many missed the "see all results" link which blends into the filter list.
+
+**Results Page Expectations:** Participants expected benefits to be sorted by personalized relevance or time sensitivity rather than alphabetically, with 15 participants noticing time-sensitive tags but expecting those items at the top of the list.
+
+**MyVA Integration Desire:** Multiple participants expressed wanting to see their results integrated with their MyVA dashboard for a unified experience.
+
+**Authenticated Experience Expectations:** Participants envisioned a dashboard-like experience within their VA account showing relevant information at a glance, such as time left on a benefit (e.g., GI Bill), disability rating with dependents, or even benefits they haven't yet applied for but qualify for [P4, P5, P20]. This would address the feeling that "everything feels so siloed" and requires digging for information [P5].
+
+**Transition Experience Patterns:** Analysis of detailed participant profiles reveals that transition difficulty correlates with organizational preparedness, support system availability, and timing of medical issues. Veterans and TSMs with proactive organizational strategies, strong unit support, and clear timelines consistently rated their transitions as easier (ratings of 1-2) compared to those experiencing disrupted processes, medical complications, or lack of guidance (ratings of 4-5).
+
+**Critical Timing and Documentation Insights:** Participants consistently identified crucial timing-related knowledge gaps that impacted their transition success. Many wished they had known to start medical documentation "very early" [P5], with several participants noting that hiding medical issues during service to maintain job status complicated their disability rating process post-separation [P24]. The need for proactive medical documentation emerged as a critical theme, with participants wishing they had "gone to medical more during service for documentation purposes" [P11].
+
+**Support System Variability:** Participants who helped others transition observed significant variations in support quality, noting that younger service members are particularly "lost in the sauce" and lack life experience to navigate complex processes [P3, P12, P13]. The competence of assigned staff emerged as critically important, with participants preferring to learn from those who had "actually went through the process" rather than those "just reading off slides" [P5].
+
+**Information Overload vs. Personalization:** While participants received extensive information (described as "7 stacks of paperwork" [P37]), they struggled with prioritization and relevance. Multiple participants requested ranking systems or customization based on individual circumstances such as age, injuries, or career goals, rather than "one-size-fits-all" approaches [P3, P15, P16, P17, P20, P28, P35].
+
+**Spouse and Family Support Gaps:** A notable gap emerged around support for military spouses during transition, with participants noting spouses' struggles to find their post-military identity and adapt to civilian life [P20]. This represents an underserved population that could benefit from dedicated resources and support.
 
 ## Recommendations
 
-*Summarize actionable recommendations based on findings.*  
+1. **Redesign Goals and Filtering Approach:** Consider moving from having goals in the questionnaire to having enhanced filters on the results page
+   - _Supporting evidence: Weak relationship between selected goals and explored benefits; participants want broad results_
 
-1. **Recommendation:** [Insert action]  
-   - _Supporting evidence: [Insert data]_  
-2. **Recommendation:** [Insert action]  
-   - _Supporting evidence: [Insert data]_
+2. **Improve Save Functionality:** Short term: Make the "save link" button more visible and add an email option. Long term: Pursue authentication integration with MyVA
+   - _Supporting evidence: 68% thought they'd need to retake questionnaire; multiple save method preferences expressed; strong desire for integration with authenticated VA experience_
+
+3. **Support Multiple Organizational Styles:** Provide multiple ways to save and review benefits (email, print, SMS, PDF export) to accommodate different transition management approaches
+   - _Supporting evidence: TSMs use diverse organizational strategies; any organized approach correlates with success_
+
+4. **Address Content Friction Points:** Revisit length of service question options and how disability compensation is displayed to Veterans with existing ratings
+   - _Supporting evidence: Long-serving Veterans confused by 3-year maximum; existing rating holders confused by disability compensation recommendations_
+
+5. **Enhance Help and Support Access:** Short term: Make existing help resources more visible. Long term: Explore integration with AskVA
+   - _Supporting evidence: Strong preference for human support; requests for prominent phone numbers and chat functionality_
+
+6. **Maintain Unauthenticated Access:** Preserve the unauthenticated tool option while developing authenticated features
+   - _Supporting evidence: Tool valuable for Veterans without existing VA relationships; concerns about making unwanted account changes_
+
+7. **Develop Authenticated Integration Roadmap:** Prioritize integration with MyVA for personalized data pull, persistent results, and enhanced functionality
+   - _Supporting evidence: Overwhelming sentiment for authentication integration; expectations for automated data integration and dashboard-like experience_
+
+8. **Address Critical Knowledge Gaps Through Proactive Outreach:** Develop proactive communication strategies to inform TSMs about time-sensitive benefits, medical documentation requirements, and transition timelines
+   - _Supporting evidence: Many participants didn't know what they didn't know; time-sensitive benefits need explicit highlighting; medical documentation should start "very early"_
+
+9. **Create Transition-Stage Specific Resources:** Develop different information pathways for various transition stages and experience levels, including dedicated resources for newer veterans
+   - _Supporting evidence: Participants requested "New Veteran Information" tabs; younger service members are "more lost in the sauce"; need for step-by-step processes_
 
 ## Product User and Business Outcomes
 
-*Explain how findings and recommendations align with the product's goals.*
+**Desired User Outcome:** TSMs can effectively discover relevant benefits, track their transition progress, and successfully apply for benefits they're eligible for with appropriate support.
 
-> [!NOTE] 
-> Refer back to your Product Outline. 
+- This research supports our desired user outcome by identifying specific barriers to benefit discovery and application, and providing clear pathways to address organizational and support needs during transition.
 
-- **Desired User Outcome**
-  - This research supports our desired user outcome by....
- 
-- **Deisred Business Outcome**
-  - This research supports our desired business outcome by....
+**Desired Business Outcome:** Increased benefit discovery rates, reduced support burden through improved self-service capabilities, and better transition outcomes leading to improved long-term Veteran well-being.
 
+- This research supports our desired business outcome by showing the tool's effectiveness in filling TAP information gaps and providing actionable recommendations to improve user success rates while reducing the need for individual support interventions.
 
 ## Key Performance Indicators
 
-*Explain how findings will support KPI measurement.*  
+**Benefit Discovery Rate:** This research supports measurement of this KPI by showing that participants value broad benefit exploration over filtered results, suggesting success metrics should focus on total benefits viewed rather than goal-specific matches.
 
-> [!NOTE]
-> Refer back to your Product Outline. 
+**Application Completion Rate:** This research supports measurement of this KPI by identifying the critical importance of effective save/return functionality and support access in converting discovery to action.
 
-- **KPI 1**
-  -  This research supports measurement of this KPI by....
-
+**User Satisfaction and Recommendation Rate:** This research supports measurement of this KPI by demonstrating high user satisfaction (26 of 28 find it valuable) and strong recommendation intent, providing baseline metrics and improvement opportunities.
 
 ## Next Steps
 
-*Outline immediate actions based on findings, including owners if applicable.*  
-
+- **Immediate (1-2 months):** Prototype enhanced filter designs for A/B testing; improve save button visibility and add email option
+- **Short-term (3-6 months):** Implement multiple save modalities; make help resources more prominent; address length of service and disability compensation display issues; begin authenticated integration planning
+- **Long-term (6+ months):** Pursue MyVA authentication integration; explore AskVA integration; develop personalized dashboard features
 
 ## Further research needed
 
-*Identify gaps in the current study and areas requiring additional investigation––such as demographics that were not included in this study.* 
-
+- **Usability testing with assistive technology users** to ensure accessibility for the 75% of participants with cognitive disabilities and other accessibility needs
+- **Research with spouses, family members, and other user types** to understand broader support ecosystem needs
+- **A/B testing of filter vs. goals approaches** to validate recommended design changes
+- **Follow-up study on save functionality effectiveness** after implementing recommended improvements
+- **Research with underrepresented groups** including Veterans with less than honorable discharges, shorter service lengths, and younger TSMs
+- **Authenticated vs. unauthenticated experience testing** to optimize the balance between personalization and accessibility
+- **Further research needed on transition knowledge delivery methods** to determine most effective ways to provide time-sensitive information and proactive benefit awareness
+- **Research with military spouses and family members** to understand their transition support needs and develop appropriate resources
 
 ## Appendix
-[Product Outline](link here)
 
 [Research plan](link here)
 
@@ -170,115 +246,153 @@ Brief description
 
 [Interview transcripts](link here)
 
-
 ## Tools used for Synthesis
 
-*List tools or techniques used, e.g., Mural, affinity mapping.*  
-  
+- Mural board for collaborative analysis
+- Coded data spreadsheet for quantitative and qualitative analysis
+- Affinity mapping for pattern identification
+- Mixed methods analysis combining behavioral data with qualitative insights
+
 ## Pages and applications used
 
-*Link to prototypes or pages tested during the study.*  
-
+- Discover Your Benefits tool in staging environment
+- VA.gov benefit pages for context and comparison
 
 ## Other supporting documents created
 
-*Include links to additional materials, e.g., personas, user flows.*  
-
+- User quote compilation
+- Data visualization of goals-to-benefits pathways
 
 ## Secondary research
 
-*Include any relevant secondary research, e.g., web analytics, SME interviews.*  
+- TAP program analysis and gap identification
+- MyVA integration requirements research
+- VA.gov help system review for improvement opportunities
 
-## Who we talked to 
-_Complete the demographic info below using information from the Perigean recruitment survey. For those items where you didn't have participants, please mark with "0". You can use "unknown" if you aren't sure if your participants had a characteristic._ 
-_[See an example](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/find-a-va-form/initiatives/2021-post-mvp-releases/research/research-findings.md#who-we-talked-to)_
+## Who we talked to
 
 **Recruitment criteria**
 
-_If you had specific criteria that you recruited for, use this space to explain what those were along with other information you feel would be important to understanding your participants._
+We recruited Veterans and Transitioning Service Members with diverse service backgrounds, lengths of service, and transition experiences to understand the breadth of needs for the Discover Your Benefits tool.
 
-We talked to **x participants.**
+We talked to **28 participants.**
 
 Audience segment:
-* Veterans: x 
-* Caregivers: x 
-* Family members of a Veteran: x  
 
+* Veterans: 23
+* Transitioning Service Members: 5
+* Caregivers: 0
+* Family members of a Veteran: 0
 
 Gender:
-* Male: x 
-* Female: x 
 
+* Male: 21
+* Female: 7
 
 LGBTQ+:
-* Transgender: x 
-* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: x
-* Gay, lesbian, or bisexual: x
 
+* Transgender: 0
+* Nonbinary, gender fluid, gender queer, Two-Spirit (Indigenous only), or another gender beyond man or woman: 0
+* Gay, lesbian, or bisexual: Unknown
 
-Devices used during study: 
-* Desktop: x 
-* Tablet: x 
-* Smart phone: x 
-* Assistive Technology: x
+Devices used during study:
 
+* Desktop: 28
+* Tablet: 0
+* Smart phone: 0
+* Assistive Technology: 0
 
 Age:
-* 25-34: x
-* 35-44: x
-* 45-54: x
-* 55-64: x
-* 65+: x
-* Unknown: x
 
+* 25-34: 6
+* 35-44: 9
+* 45-54: 8
+* 55-64: 4
+* 65+: 0
+* Unknown: 1
 
 Education:
-* High school degree or equivalent: x
-* Some college (no degree): x
-* Associate's degree, trade certificate or vocational training: x
-* Bachelor's degree: x
-* Master's degree: x
-* Doctorate degree: x
-* Unknown: x
 
+* High school degree or equivalent: 1
+* Some college (no degree): 3
+* Associate's degree, trade certificate or vocational training: 9
+* Bachelor's degree: 7
+* Master's degree: 7
+* Professional degree: 1
+* Unknown: 0
 
 Geographic location:
-* Urban: x
-* Rural: x
-* Unknown: x
 
+* Urban: 18
+* Rural: 10
+* Unknown: 0
 
 Race:
-* White: x
-* Black: x
-* Hispanic: x
-* Biracial: x
-* Asian: x
-* Native: x
 
+* White: 15
+* Black: 6
+* Hispanic: 1
+* Biracial: 4
+* Asian: 2
+* Native: 0
+
+Service Branch:
+
+* Army: 17 (including Army National Guard and Army Reserve)
+* Air Force: 6 (including Air National Guard and Space Force)
+* Navy: 3 (including Navy Reserve)
+* Marines: 0
+* Coast Guard: 0
+* Multiple branches: 2
+
+Service Length:
+
+* 1-4 years: 3
+* 5-19 years: 11
+* 20 or more years: 14
+
+Separation Timeline:
+
+* 2020: 3
+* 2021: 5
+* 2022: 3
+* 2023: 8
+* 2024: 1
+* 2025: 4
+* Still serving (TSMs): 4
+
+TAP Participation:
+
+* Participated in TAP: 23
+* Did not participate in TAP: 5
+
+Transition Difficulty Rating (1=Very Easy, 5=Very Difficult):
+
+* 1 (Very Easy): 8
+* 2 (Easy): 7
+* 3 (Neutral): 0
+* 4 (Difficult): 9
+* 5 (Very Difficult): 4
 
 Disability and Assistive Technology (AT):
-* Cognitive: x
-* AT beginner: x
-* AT advanced user: x
-* Desktop screen reader: x
-* Mobile screen reader: x
-* Magnification/Zoom: x
-* [Speech Input Technology](https://www.w3.org/WAI/perspective-videos/voice/) like Siri/Dragon Naturally Speaking: x
-* Hearing aids: x
-* Sighted keyboard: x
-* Captions: x
 
+* Cognitive: 21
+* AT beginner: 0
+* AT advanced user: 0
+* Desktop screen reader: 0
+* Mobile screen reader: 0
+* Magnification/Zoom: 0
+* Speech Input Technology like Siri/Dragon Naturally Speaking: 0
+* Hearing aids: 0
+* Sighted keyboard: 0
+* Captions: 0
 
-## Underserved groups we haven’t talked to 
-
-_[Complete the VA recruitment checker for marginalized Veteran groups](https://docs.google.com/spreadsheets/d/1pq7TSHZonfpzAQBJj6B2geGHlNUwZEs4DzEvxcRgu0o/edit#gid=1221033726)_
+## Underserved groups we haven't talked to
 
 This research does not include the perspectives of the following marginalized Veteran groups:
-_List all groups in red from the spreadsheet_
-* Group 1
-* Group 2
-* Group 3
 
-_[insert screenshot of completed recruitment checker]_
-![VA-recruitment-checker](link - add image to github folder and link here with .png)
+* Veterans with less than honorable discharges
+* TSMs and Veterans with shorter length of service (sample underrepresents 1-4 year service members)
+* Marines and Coast Guard members
+* Assistive technology users
+* Veterans and TSMs under age 25 (sample skews older)
