@@ -2,7 +2,7 @@
 ## Summary
 Feedback includes 244 total responses, each with a rating ranging from not at all satisfied to very satisfied. Ratings of not at all satisfied and dissatisfied are considered negative, neither satisfied or dissatisfied represents neutral, and satisfied or very satisfied are positive.
 
-## Overall distribution of ratings
+## Overall distribution of ratings - User satisfaction score (244 responses)
 
 <img width="525" height="420" alt="image" src="https://github.com/user-attachments/assets/83e747cf-8300-489a-b4f1-174923cec8d2" />
 
@@ -14,7 +14,6 @@ Feedback includes 244 total responses, each with a rating ranging from not at al
 | = Dissatisfied | 3.28% | 8 |
 | = Not at all satisfied | 2.05% | 5 |
 | = not set | 4.92% | 12 |
-
 
 ## General/other feedback
 Note: General feedback includes responses that reflect Veteran experiences with their healthcare teams, or the VA in general and may not specifically be related to the VA Health and Benefits app. 
