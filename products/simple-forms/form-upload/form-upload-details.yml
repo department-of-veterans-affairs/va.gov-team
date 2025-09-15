@@ -1,0 +1,16 @@
+name: "Form upload tool"
+entry_name: "form-upload"
+description: "Generic online tool that allows veterans to upload completed PDF forms to VA when an online version is not available, providing basic veteran information and file upload capabilities"
+team: "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/design-forms-systems/README.md"
+github-label: "form-upload"
+urls:
+  production: "https://www.va.gov/upload-form"
+  staging: "https://staging.va.gov/upload-form"
+manifest_url: "https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/simple-forms/form-upload/manifest.json"
+measurement:
+  datadog_dashboard: "https://vagov.ddog-gov.com/dashboard/fvg-irw-628/form-upload?fromUser=false&graphType=flamegraph&refresh_mode=sliding&shouldShowLegend=true&sort=time&spanID=1238785843163750371&spanViewType=errors&from_ts=1755270477372&to_ts=1757948877372&live=true"
+  google_analytics: "https://analytics.google.com/analytics/web/#/analysis/a50123418p419143770/edit/onCQA4JnTIO2_f0bEXMUqg"
+  project_board: "https://github.com/orgs/department-of-veterans-affairs/projects/1643/views/1"
+  research_repo: "https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues" # Link to VA research repository, filtering for this product tag
+product_outline: "https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Forms/DocumentUpload_FindaForm/Product%20Outline%20File%20Upload.md" # Link to product outline document
+status: "active" # active, maintenance, sunset

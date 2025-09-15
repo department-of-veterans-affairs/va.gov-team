@@ -15,44 +15,222 @@ This manifest lists all VA.gov products that have product details YAML files.
 
 ### Statistics
 
-- Total Products: 4
-- Active Products: 4
-- Categories: 2
+- Total Products: 18
+- Active Products: 18
+- Categories: 3
 
 ### Health Care (2)
 
-- [10-10D Application for CHAMPVA benefits](products/health-care/champva/1010D/10-10D-details.yml)
+- [10-10D Application for CHAMPVA benefits](health-care/champva/1010D/10-10D-details.yml)
   - Status: 🟢 Active
   - Team: [ivc-forms](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/health-portfolio/ivc-forms/README.md)
   - [Product Outline](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/champva/1010D/10-10d-product-outline.md)
   - [Application code](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/ivc-champva/10-10D/manifest.json)
-  - [GitHub Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A10-10d)
+  - [GitHub Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A10-10d+state%3Aopen)
   - [Staging URL](https://staging.va.gov/ivc-champva/10-10d-extended/)
 
-- [10-7959C CHAMPVA Other Health Insurance Certification form](products/health-care/champva/10-7959c/10-7959c-details.yml)
+- [10-7959C CHAMPVA Other Health Insurance Certification form](health-care/champva/10-7959c/10-7959c-details.yml)
   - Status: 🟢 Active
   - Team: [ivc-forms](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/health-portfolio/ivc-forms/README.md)
   - [Application code](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/ivc-champva/10-7959C/manifest.json)
-  - [GitHub Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A10-7959c)
+  - [GitHub Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A10-7959c+state%3Aopen)
   - [Production URL](https://www.va.gov/family-and-caregiver-benefits/health-and-disability/champva/submit-other-insurance-form-10-7959c/)
   - [Staging URL](https://staging.va.gov/family-and-caregiver-benefits/health-and-disability/champva/family-and-caregiver-benefits/health-and-disability/champva/submit-other-insurance-form-10-7959c)
 
 ### Platform & Infrastructure (2)
 
-- [Forms System](products/platform/forms-system/forms-system-details.yml)
+- [Forms System](platform/forms-system/forms-system-details.yml)
   - Status: 🟢 Active
   - Team: [design-forms-systems](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/design-forms-systems/README.md)
   - [Production URL](https://github.com/department-of-veterans-affairs/vets-website/tree/main/src/platform/forms-system)
   - [Metrics Dashboard](https://design.va.gov/about/metrics/)
   - [Project Board](https://github.com/orgs/department-of-veterans-affairs/projects/1643/views/1)
 
-- [VA Design System (VADS)](products/platform/design-system/design-system-details.yml)
+- [VA Design System (VADS)](platform/design-system/design-system-details.yml)
   - Status: 🟢 Active
   - Team: [design-forms-systems](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/design-forms-systems/README.md)
   - [Production URL](https://design.va.gov)
   - [Metrics Dashboard](https://design.va.gov/about/metrics/)
   - [Project Board](https://github.com/orgs/department-of-veterans-affairs/projects/1643/views/1)
   - [Research Repository](https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues?q=is%3Aissue%20state%3Aopen%20DSC)
+
+### Simple Forms (14)
+
+- [20-10206 - Request for personal records](simple-forms/20-10206/20-10206-details.yml)
+  - Status: 🟢 Active
+  - Team: [design-forms-systems](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/design-forms-systems/README.md)
+  - [Product Outline](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Forms/20-10206%20FOIA%20PA%20Request/Product%20Outline.md)
+  - [Application code](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/simple-forms/20-10206/manifest.json)
+  - [GitHub Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A20-10206+state%3Aopen)
+  - [Production URL](https://www.va.gov/records/request-personal-records-form-20-10206/introduction)
+  - [Staging URL](https://staging.va.gov/records/request-personal-records-form-20-10206/introduction)
+  - [Metrics Dashboard](https://vagov.ddog-gov.com/dashboard/ksx-spx-kfe/veteran-facing-forms-team-dashboard?fromUser=false&graphType=flamegraph&refresh_mode=sliding&shouldShowLegend=true&sort=time&from_ts=1755356931931&to_ts=1757948931931&live=true)
+  - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/a9w-jhk-den/simple-forms-api?fromUser=false&refresh_mode=sliding&from_ts=1755356924127&to_ts=1757948924127&live=true)
+  - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
+  - [Google Analytics](https://analytics.google.com/analytics/web/#/analysis/a50123418p419143770/edit/8P77wbv7RU-w9uT_BSEVVw)
+  - [Project Board](https://github.com/orgs/department-of-veterans-affairs/projects/1643/views/1)
+
+- [20-10207 - Request for priority processing](simple-forms/20-10207/20-10207-details.yml)
+  - Status: 🟢 Active
+  - Team: [design-forms-systems](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/design-forms-systems/README.md)
+  - [Product Outline](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Forms/20-10207%20Priority%20Processing/Product%20Outline.md)
+  - [Application code](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/simple-forms/20-10207/manifest.json)
+  - [GitHub Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A20-10207+state%3Aopen)
+  - [Production URL](https://www.va.gov/supporting-forms-for-claims/request-priority-processing-form-20-10207/introduction)
+  - [Staging URL](https://staging.va.gov/supporting-forms-for-claims/request-priority-processing-form-20-10207/introduction)
+  - [Metrics Dashboard](https://vagov.ddog-gov.com/dashboard/ksx-spx-kfe/veteran-facing-forms-team-dashboard?fromUser=false&graphType=flamegraph&refresh_mode=sliding&shouldShowLegend=true&sort=time&from_ts=1755356931931&to_ts=1757948931931&live=true)
+  - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/a9w-jhk-den/simple-forms-api?fromUser=false&refresh_mode=sliding&from_ts=1755356924127&to_ts=1757948924127&live=true)
+  - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
+  - [Google Analytics](https://analytics.google.com/analytics/web/#/analysis/a50123418p419143770/edit/8P77wbv7RU-w9uT_BSEVVw)
+  - [Project Board](https://github.com/orgs/department-of-veterans-affairs/projects/1643/views/1)
+
+- [21-0845 - Authorization and consent to release information](simple-forms/21-0845/21-0845-details.yml)
+  - Status: 🟢 Active
+  - Team: [design-forms-systems](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/design-forms-systems/README.md)
+  - [Product Outline](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Forms/21-0845/Product%20Outline.md)
+  - [Application code](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/simple-forms/21-0845/manifest.json)
+  - [GitHub Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A21-0845+state%3Aopen)
+  - [Production URL](https://www.va.gov/supporting-forms-for-claims/third-party-authorization-form-21-0845/)
+  - [Staging URL](https://staging.va.gov/supporting-forms-for-claims/third-party-authorization-form-21-0845/)
+  - [Metrics Dashboard](https://vagov.ddog-gov.com/dashboard/ksx-spx-kfe/veteran-facing-forms-team-dashboard?fromUser=false&graphType=flamegraph&refresh_mode=sliding&shouldShowLegend=true&sort=time&from_ts=1755356931931&to_ts=1757948931931&live=true)
+  - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/a9w-jhk-den/simple-forms-api?fromUser=false&refresh_mode=sliding&from_ts=1755356924127&to_ts=1757948924127&live=true)
+  - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
+  - [Google Analytics](https://analytics.google.com/analytics/web/#/analysis/a50123418p419143770/edit/8P77wbv7RU-w9uT_BSEVVw)
+  - [Project Board](https://github.com/orgs/department-of-veterans-affairs/projects/1643/views/1)
+
+- [21-0966 - Intent to file](simple-forms/21-0966/21-0966-details.yml)
+  - Status: 🟢 Active
+  - Team: [design-forms-systems](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/design-forms-systems/README.md)
+  - [Product Outline](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Forms/21-0966/Product%20Outline.md)
+  - [Application code](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/simple-forms/21-0966/manifest.json)
+  - [GitHub Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A21-0966+state%3Aopen)
+  - [Production URL](https://www.va.gov/supporting-forms-for-claims/intent-to-file-form-21-0966/introduction)
+  - [Staging URL](https://staging.va.gov/supporting-forms-for-claims/intent-to-file-form-21-0966/introduction)
+  - [Metrics Dashboard](https://vagov.ddog-gov.com/dashboard/ksx-spx-kfe/veteran-facing-forms-team-dashboard?fromUser=false&graphType=flamegraph&refresh_mode=sliding&shouldShowLegend=true&sort=time&from_ts=1755356931931&to_ts=1757948931931&live=true)
+  - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/a9w-jhk-den/simple-forms-api?fromUser=false&refresh_mode=sliding&from_ts=1755356924127&to_ts=1757948924127&live=true)
+  - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
+  - [Google Analytics](https://analytics.google.com/analytics/web/#/analysis/a50123418p419143770/edit/8P77wbv7RU-w9uT_BSEVVw)
+  - [Project Board](https://github.com/orgs/department-of-veterans-affairs/projects/1643/views/1)
+
+- [21-0972 - Alternate signer certification](simple-forms/21-0972/21-0972-details.yml)
+  - Status: 🟢 Active
+  - Team: [design-forms-systems](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/design-forms-systems/README.md)
+  - [Product Outline](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Forms/21-0972%20Alternate%20Signer/Product%20Outline.md)
+  - [Application code](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/simple-forms/21-0972/manifest.json)
+  - [GitHub Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A21-0972+state%3Aopen)
+  - [Production URL](https://www.va.gov/supporting-forms-for-claims/alternate-signer-form-21-0972/introduction)
+  - [Staging URL](https://staging.va.gov/supporting-forms-for-claims/alternate-signer-form-21-0972/introduction)
+  - [Metrics Dashboard](https://vagov.ddog-gov.com/dashboard/ksx-spx-kfe/veteran-facing-forms-team-dashboard?fromUser=false&graphType=flamegraph&refresh_mode=sliding&shouldShowLegend=true&sort=time&from_ts=1755356931931&to_ts=1757948931931&live=true)
+  - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/a9w-jhk-den/simple-forms-api?fromUser=false&refresh_mode=sliding&from_ts=1755356924127&to_ts=1757948924127&live=true)
+  - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
+  - [Google Analytics](https://analytics.google.com/analytics/web/#/analysis/a50123418p419143770/edit/8P77wbv7RU-w9uT_BSEVVw)
+  - [Project Board](https://github.com/orgs/department-of-veterans-affairs/projects/1643/views/1)
+
+- [21-10210 - Lay witness statement](simple-forms/21-10210/21-10210-details.yml)
+  - Status: 🟢 Active
+  - Team: [design-forms-systems](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/design-forms-systems/README.md)
+  - [Product Outline](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Forms/21-10210/product%20outline.md)
+  - [Application code](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/simple-forms/21-10210/manifest.json)
+  - [GitHub Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A21-10210+state%3Aopen)
+  - [Production URL](https://www.va.gov/supporting-forms-for-claims/lay-witness-statement-form-21-10210/introduction)
+  - [Staging URL](https://staging.va.gov/supporting-forms-for-claims/lay-witness-statement-form-21-10210/introduction)
+  - [Metrics Dashboard](https://vagov.ddog-gov.com/dashboard/ksx-spx-kfe/veteran-facing-forms-team-dashboard?fromUser=false&graphType=flamegraph&refresh_mode=sliding&shouldShowLegend=true&sort=time&from_ts=1755356931931&to_ts=1757948931931&live=true)
+  - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/a9w-jhk-den/simple-forms-api?fromUser=false&refresh_mode=sliding&from_ts=1755356924127&to_ts=1757948924127&live=true)
+  - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
+  - [Google Analytics](https://analytics.google.com/analytics/web/#/analysis/a50123418p419143770/edit/8P77wbv7RU-w9uT_BSEVVw)
+  - [Project Board](https://github.com/orgs/department-of-veterans-affairs/projects/1643/views/1)
+
+- [21-4138 - Statement in support of claim](simple-forms/21-4138/21-4138-details.yml)
+  - Status: 🟢 Active
+  - Team: [design-forms-systems](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/design-forms-systems/README.md)
+  - [Product Outline](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Forms/21-4138/Product%20Outline.md)
+  - [Application code](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/simple-forms/21-4138/manifest.json)
+  - [GitHub Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A21-4138+state%3Aopen)
+  - [Staging URL](https://staging.va.gov/supporting-forms-for-claims/submit-statement-form-21-4138/introduction)
+  - [Metrics Dashboard](https://vagov.ddog-gov.com/dashboard/ksx-spx-kfe/veteran-facing-forms-team-dashboard?fromUser=false&graphType=flamegraph&refresh_mode=sliding&shouldShowLegend=true&sort=time&from_ts=1755356931931&to_ts=1757948931931&live=true)
+  - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/a9w-jhk-den/simple-forms-api?fromUser=false&refresh_mode=sliding&from_ts=1755356924127&to_ts=1757948924127&live=true)
+  - [Project Board](https://github.com/orgs/department-of-veterans-affairs/projects/1643/views/1)
+
+- [21-4140 - Income Verification for Disability Benefits](simple-forms/21-4140/21-4140-details.yml)
+  - Status: 🟢 Active
+  - Team: [design-forms-systems](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/design-forms-systems/README.md)
+  - [GitHub Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A21-4140+state%3Aopen)
+  - [Project Board](https://github.com/orgs/department-of-veterans-affairs/projects/1643/views/1)
+
+- [21-4142 - Authorization for release of medical information](simple-forms/21-4142/21-4142-details.yml)
+  - Status: 🟢 Active
+  - Team: [design-forms-systems](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/design-forms-systems/README.md)
+  - [Product Outline](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Forms/21-4142%28a%29/Product%20Outline.md)
+  - [Application code](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/simple-forms/21-4142/manifest.json)
+  - [GitHub Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A21-4142+state%3Aopen)
+  - [Production URL](https://www.va.gov/supporting-forms-for-claims/release-information-to-va-form-21-4142/introduction)
+  - [Staging URL](https://staging.va.gov/supporting-forms-for-claims/release-information-to-va-form-21-4142/introduction)
+  - [Metrics Dashboard](https://vagov.ddog-gov.com/dashboard/ksx-spx-kfe/veteran-facing-forms-team-dashboard?fromUser=false&graphType=flamegraph&refresh_mode=sliding&shouldShowLegend=true&sort=time&from_ts=1755356931931&to_ts=1757948931931&live=true)
+  - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/a9w-jhk-den/simple-forms-api?fromUser=false&refresh_mode=sliding&from_ts=1755356924127&to_ts=1757948924127&live=true)
+  - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
+  - [Google Analytics](https://analytics.google.com/analytics/web/#/analysis/a50123418p419143770/edit/8P77wbv7RU-w9uT_BSEVVw)
+  - [Project Board](https://github.com/orgs/department-of-veterans-affairs/projects/1643/views/1)
+
+- [21-8940 - Veteran's Application for increased compensation based on unemployability](simple-forms/21-8940/21-8940-details.yml)
+  - Status: 🟢 Active
+  - Team: [design-forms-systems](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/design-forms-systems/README.md)
+  - [Product Outline](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Forms/21-8940%20Increased%20Compensation/Product%20Outline.md)
+  - [GitHub Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A21-8940+state%3Aopen)
+  - [Project Board](https://github.com/orgs/department-of-veterans-affairs/projects/1643/views/1)
+
+- [21P-0847 - Request to be substitute claimant](simple-forms/21P-0847/21P-0847-details.yml)
+  - Status: 🟢 Active
+  - Team: [design-forms-systems](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/design-forms-systems/README.md)
+  - [Product Outline](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Forms/21P-0847/product%20outline.md)
+  - [Application code](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/simple-forms/21P-0847/manifest.json)
+  - [GitHub Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A21P-0847+state%3Aopen)
+  - [Production URL](https://www.va.gov/supporting-forms-for-claims/substitute-claimant-form-21P-0847/introduction)
+  - [Staging URL](https://staging.va.gov/supporting-forms-for-claims/substitute-claimant-form-21P-0847/introduction)
+  - [Metrics Dashboard](https://vagov.ddog-gov.com/dashboard/ksx-spx-kfe/veteran-facing-forms-team-dashboard?fromUser=false&graphType=flamegraph&refresh_mode=sliding&shouldShowLegend=true&sort=time&from_ts=1755356931931&to_ts=1757948931931&live=true)
+  - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/a9w-jhk-den/simple-forms-api?fromUser=false&refresh_mode=sliding&from_ts=1755356924127&to_ts=1757948924127&live=true)
+  - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
+  - [Google Analytics](https://analytics.google.com/analytics/web/#/analysis/a50123418p419143770/edit/8P77wbv7RU-w9uT_BSEVVw)
+  - [Project Board](https://github.com/orgs/department-of-veterans-affairs/projects/1643/views/1)
+
+- [26-4555 - Application for Specially Adapted Housing or Special Home Adaptation Grant](simple-forms/26-4555/26-4555-details.yml)
+  - Status: 🟢 Active
+  - Team: [design-forms-systems](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/design-forms-systems/README.md)
+  - [Product Outline](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Forms/26-4555/Product%20Outline.md)
+  - [Application code](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/simple-forms/26-4555/manifest.json)
+  - [GitHub Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A26-4555+state%3Aopen)
+  - [Production URL](https://www.va.gov/housing-assistance/disability-housing-grants/apply-for-grant-form-26-4555)
+  - [Staging URL](https://staging.va.gov/housing-assistance/disability-housing-grants/apply-for-grant-form-26-4555)
+  - [Metrics Dashboard](https://vagov.ddog-gov.com/dashboard/ksx-spx-kfe/veteran-facing-forms-team-dashboard?fromUser=false&graphType=flamegraph&refresh_mode=sliding&shouldShowLegend=true&sort=time&from_ts=1755356931931&to_ts=1757948931931&live=true)
+  - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/a9w-jhk-den/simple-forms-api?fromUser=false&refresh_mode=sliding&from_ts=1755356924127&to_ts=1757948924127&live=true)
+  - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
+  - [Google Analytics](https://analytics.google.com/analytics/web/#/analysis/a50123418p419143770/edit/8P77wbv7RU-w9uT_BSEVVw)
+  - [Project Board](https://github.com/orgs/department-of-veterans-affairs/projects/1643/views/1)
+
+- [40-0247 - Request a Presidential Memorial Certificate](simple-forms/40-0247/40-0247-details.yml)
+  - Status: 🟢 Active
+  - Team: [design-forms-systems](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/design-forms-systems/README.md)
+  - [Product Outline](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Forms/40-0247/Product%20Outline.md)
+  - [Application code](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/simple-forms/40-0247/manifest.json)
+  - [GitHub Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3A40-0247+state%3Aopen)
+  - [Production URL](https://www.va.gov/burials-memorials/memorial-items/presidential-memorial-certificates/request-certificate-form-40-0247/introduction)
+  - [Staging URL](https://staging.va.gov/burials-memorials/memorial-items/presidential-memorial-certificates/request-certificate-form-40-0247/introduction)
+  - [Metrics Dashboard](https://vagov.ddog-gov.com/dashboard/ksx-spx-kfe/veteran-facing-forms-team-dashboard?fromUser=false&graphType=flamegraph&refresh_mode=sliding&shouldShowLegend=true&sort=time&from_ts=1755356931931&to_ts=1757948931931&live=true)
+  - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/a9w-jhk-den/simple-forms-api?fromUser=false&refresh_mode=sliding&from_ts=1755356924127&to_ts=1757948924127&live=true)
+  - [Domo Dashboard](https://va-gov.domo.com/page/447193050)
+  - [Google Analytics](https://analytics.google.com/analytics/web/#/analysis/a50123418p419143770/edit/8P77wbv7RU-w9uT_BSEVVw)
+  - [Project Board](https://github.com/orgs/department-of-veterans-affairs/projects/1643/views/1)
+
+- [Form upload tool](simple-forms/form-upload/form-upload-details.yml)
+  - Status: 🟢 Active
+  - Team: [design-forms-systems](https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/blob/master/teams/digital-experience/design-forms-systems/README.md)
+  - [Product Outline](https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Forms/DocumentUpload_FindaForm/Product%20Outline%20File%20Upload.md)
+  - [Application code](https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/simple-forms/form-upload/manifest.json)
+  - [GitHub Issues](https://github.com/department-of-veterans-affairs/va.gov-team/issues?q=is%3Aissue+label%3Aform-upload+state%3Aopen)
+  - [Production URL](https://www.va.gov/upload-form)
+  - [Staging URL](https://staging.va.gov/upload-form)
+  - [Datadog Dashboard](https://vagov.ddog-gov.com/dashboard/fvg-irw-628/form-upload?fromUser=false&graphType=flamegraph&refresh_mode=sliding&shouldShowLegend=true&sort=time&spanID=1238785843163750371&spanViewType=errors&from_ts=1755270477372&to_ts=1757948877372&live=true)
+  - [Google Analytics](https://analytics.google.com/analytics/web/#/analysis/a50123418p419143770/edit/onCQA4JnTIO2_f0bEXMUqg)
+  - [Project Board](https://github.com/orgs/department-of-veterans-affairs/projects/1643/views/1)
 
 ---
 <details>
@@ -118,4 +296,4 @@ This section contains the previous way products were organized and documented. T
 
 </details>
 
-*Last updated: 2025-09-10 14:41:24*
+*Last updated: 2025-09-15 15:57:41*
