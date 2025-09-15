@@ -9,7 +9,8 @@ urls:
 manifest_url: "https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/simple-forms/20-10206/manifest.json"
 measurement:
   datadog_dashboard: "https://vagov.ddog-gov.com/dashboard/a9w-jhk-den/simple-forms-api?fromUser=false&refresh_mode=sliding&from_ts=1755356924127&to_ts=1757948924127&live=true"
-  google_analytics: "https://..." # Link to Google Analytics dashboard
+  domo_dashboard: "https://va-gov.domo.com/page/447193050"
+  google_analytics: "https://analytics.google.com/analytics/web/#/analysis/a50123418p419143770/edit/8P77wbv7RU-w9uT_BSEVVw"
   metrics_dashboard: "https://vagov.ddog-gov.com/dashboard/ksx-spx-kfe/veteran-facing-forms-team-dashboard?fromUser=false&graphType=flamegraph&refresh_mode=sliding&shouldShowLegend=true&sort=time&from_ts=1755356931931&to_ts=1757948931931&live=true"
   project_board: "https://github.com/orgs/department-of-veterans-affairs/projects/1643/views/1" # Link to GitHub project board (optional)
   research_repo: "https://github.com/department-of-veterans-affairs/va.gov-research-repository/issues" # Link to VA research repository, filtering for this product tag
