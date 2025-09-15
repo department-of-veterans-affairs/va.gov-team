@@ -35,6 +35,7 @@ Provide Veterans in the Philippines with timely, accessible guidance to transiti
 ---
 
 ## Webinar Requirements  
+- ✅ [Link](https://us06web.zoom.us/webinar/register/WN_R7SdHJPnTlqdz8pMo6v7OA) for participant registration
 - ✅ ID.me participation confirmed  
 - ✅ Participants cannot unmute themselves (webinar setting)  
 - ✅ Participants’ comments/questions not visible to each other (webinar setting)  
