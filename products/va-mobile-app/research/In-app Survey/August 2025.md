@@ -15,28 +15,6 @@ Feedback includes 244 total responses, each with a rating ranging from not at al
 | = Not at all satisfied | 2.05% | 5 |
 | = not set | 4.92% | 12 |
 
-### Outline
-1. [General/other feedback](link)
-- [Positive](link)
-- [Negative](link)
-- [Neutral](link)
-
-2. [Common themes](link)
-
-3. [User pain point](link)
-
-4. [Feature specific feedback](link)
-- [Navigation](link)
-- [Login](link)
-- [Disability rating](link)
-- [Claims](link)
-- [Letters and documents](link)
-- [Profile](link)
-- [Payments](link)
-- [Travel pay](link)
-- [Messaging](link)
-- [Prescriptions](link)
-- [Other enhancements](link)
 
 ## General/other feedback
 Note: General feedback includes responses that reflect Veteran experiences with their healthcare teams, or the VA in general and may not specifically be related to the VA Health and Benefits app. 
