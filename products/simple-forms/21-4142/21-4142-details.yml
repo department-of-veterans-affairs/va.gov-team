@@ -9,7 +9,6 @@ urls:
 manifest_url: "https://github.com/department-of-veterans-affairs/vets-website/blob/main/src/applications/simple-forms/21-4142/manifest.json"
 measurement:
   datadog_dashboard: "https://vagov.ddog-gov.com/dashboard/a9w-jhk-den/simple-forms-api?fromUser=false&refresh_mode=sliding&from_ts=1755356924127&to_ts=1757948924127&live=true"
-  domo_dashboard: "https://..." # Link to DOMO dashboard (optional)
   google_analytics: "https://..." # Link to Google Analytics dashboard
   metrics_dashboard: "https://vagov.ddog-gov.com/dashboard/ksx-spx-kfe/veteran-facing-forms-team-dashboard?fromUser=false&graphType=flamegraph&refresh_mode=sliding&shouldShowLegend=true&sort=time&from_ts=1755356931931&to_ts=1757948931931&live=true"
   project_board: "https://github.com/orgs/department-of-veterans-affairs/projects/1643/views/1" # Link to GitHub project board (optional)
