@@ -2,15 +2,16 @@
 ## Summary
 Feedback includes x total responses, each with a rating of 1-5. Ratings of 1-2 are considered negative, 3 represents neutral, and 4-5 are positive.
 
-## Overall distribution of ratings
+## Overall distribution of ratings (100 ratings total)
 
 | Rating | % of ratings | # of ratings |
 |--|--|--|
-| = Very satisfied | % | # |
-| = Satisfied | % | # |
-| = Neither satisfied or dissatisfied | % | # |
-| = Dissatisfied | % | # |
-| = Not at all satisfied | % | # |
+| = Very satisfied | 18% | 18 |
+| = Satisfied | 27% | 27 |
+| = Neither satisfied or dissatisfied | 16% | 16 |
+| = Dissatisfied | 22% | 22 |
+| = Not at all satisfied | 15% | 15 |
+| = Not set | 2% | 2 |
 
 
 ## General/other feedback
