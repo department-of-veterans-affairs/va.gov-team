@@ -29,17 +29,14 @@ The VA Mobile Platform team kicked off several surge support sprints to discover
 **[Systems Inventory](./Mobile%20-%20Measurement%20System%20Inventory.pdf)**
 - We documented each relavant supporting system involved in the collection of data and use in analysis for the mobile app. 
 - An editable version of the system inventory can be found in [Sharepoint here](https://dvagov.sharepoint.com/:f:/r/sites/VA.govMobileFlagshipTeam/Shared%20Documents/VA.gov%20Mobile%20Flagship%20Team%20Channel/Mobile%20App%20%26%20Platform%20Documentation/Data?csf=1&web=1&e=1ipJ01).
-- Next steps:
-       - Update as changes are made to the data pipeline
+- Next steps: update as changes are made to the data pipeline
 
 **List of Existing Data Points**
 - We documented the data points that are currently being collected across data systems.
 - An editable version of the list of data points can be found in [Sharepoint here](https://dvagov.sharepoint.com/:f:/r/sites/VA.govMobileFlagshipTeam/Shared%20Documents/VA.gov%20Mobile%20Flagship%20Team%20Channel/Mobile%20App%20%26%20Platform%20Documentation/Data?csf=1&web=1&e=1ipJ01).
-- Next steps:
-       - Update as new data points are added for data collection
+- Next steps: update as new data points are added for data collection
 
 ## Dashboard/Visualization Designs
 - We designed a landing page, experience page, and data dictionary page for implementation in PowerBI.
 - An editable version of the designs and our brainstorming can be found in [Figma here]https://www.figma.com/board/V0rDE80KylZ5jod3SWxAzC/Mobile-Surge-Support---Measurement---Data-Strategy?node-id=80-679&t=Y6lHMElVgm9bwJSi-0. 
-- Next steps:
-       - Build out in PowerBI
+- Next steps: build out in PowerBI
