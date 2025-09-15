@@ -17,13 +17,14 @@ For mental health care, users are shown the sub-type care page before choosing t
 
 [User flow](https://www.figma.com/design/ugE1APC20v8OcArGB2IMQy/User-Flows-%7C-Appointments-FE?node-id=3157-18721&t=oEnbwRSWMoaIl4vR-0)
 
-[Page template](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=2403-49117&mode=design)
+[Page template]
 
-[Page content](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/health-care/appointments/va-online-scheduling/content/schedule-all-flows.md#:~:text=Choose%20audiology%20care)
+[Page content]
+
 ## Metrics
 <!--Goals for this feature, and how we track them through analytics-->
 
-- Goal 1
+- We have a UAT planned to understand Veterans mental model around mental health care and how they classify sub-types of mental health care
 - Goal 2
 
 **Events tracked**
