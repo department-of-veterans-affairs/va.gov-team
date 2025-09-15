@@ -26,7 +26,7 @@ The VA Mobile Platform team kicked off several surge support sprints to discover
 - Next steps: update as changes are made to the data pipeline
 
 **[Systems Inventory](./Mobile%20-%20Measurement%20System%20Inventory.pdf)**
-- We documented each relavant supporting system involved in the collection of data and use in analysis for the mobile app. 
+- We documented each system involved in data collection, processing, and analysis for the mobile app. 
 - An editable version of the system inventory can be found in [Sharepoint here](https://dvagov.sharepoint.com/:f:/r/sites/VA.govMobileFlagshipTeam/Shared%20Documents/VA.gov%20Mobile%20Flagship%20Team%20Channel/Mobile%20App%20%26%20Platform%20Documentation/Data?csf=1&web=1&e=1ipJ01).
 - Next steps: update as changes are made to the data pipeline
 
