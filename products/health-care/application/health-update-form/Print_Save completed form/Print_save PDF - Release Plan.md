@@ -16,18 +16,17 @@ Since we use a [continuous delivery](https://depo-platform-documentation.scrollh
 
 Before enabling your feature toggle in production, you'll need to:
 
-- [ ] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
-- [ ] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
-- [ ] Work any downstream or dependant systems proactively to ensure that the feature is ready for use once it hits production.
+- [x] Follow [best practices for QA](https://depo-platform-documentation.scrollhelp.site/developer-docs/qa-and-accessibility-testing).
+- [x] Have your team perform as much validation in staging as possible. Validation may be challenging for some teams and systems due to downstream requirements, but the staging system should mimic the production system as much as possible.
+- [x] Work any downstream or dependent systems proactively to ensure that the feature is ready for use once it hits production.
 - [ ] Have a go/no go meeting with the team to ensure that the feature is ready for use and signed off by each discipline and your DEPO/OCTO contact. During this meeting, you'll need to:
   - [ ] review the plan with your DEPO/OCTO representative.
-  - [x] review the release plan with your team.
+  - [ ] review the release plan with your team.
 
 ## Step 3: Production rollout
 
 ### Define the Rollback process
 - PM and Data Analyst will monitor analytics. If they see a spike in errors or unexpected behavior, they will contact the Engineering team to disable the toggle and begin triage.
-- PM and Engineering will contact the VES Sustainment team for additional triage
 
 ### Phase I: moderated production testing (also known as User Acceptance Testing, or UAT)
 - No moderated testing will be done for this feature
