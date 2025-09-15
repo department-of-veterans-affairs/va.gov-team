@@ -7,10 +7,10 @@
 Redirecting Veterans, service members, and dependents to one of the VBA online education application forms (22-1990, 22-1990e, 22-5490) quickly and accurately as part of VA Form 22-1995 sunsettting.
 
 ## Problem Statement
-**How might we redirect Veterans, service members, and their dependents from the VA Form 22-1995 landing page the right VBA online education application forms (22-1990, 22-1990e, 22-5490) that will best fit their needs.**
+**How might we redirect Veterans, service members, and their dependents from the VA Form 22-1995 application instructions page to the right VBA online education application form (22-1990, 22-1990e, 22-5490) that will best fit their needs.**
 
-**Who:** Veterans, Service Memebers, dependents.    
-**What:** Redirect users to one of VA Form 22-1990, VA Form 22-1990e, or VA Form 22-5490 education applications depending on who they are and their intention for using the 22-1995.    
+**Who:** Veterans, service members, dependents.    
+**What:** Redirect users to one of VA Form 22-1990, VA Form 22-1990e, or VA Form 22-5490 depending on who they are and their intention for using the 22-1995.    
 **Why:** VA Form 22-1995 is being sunset, users will need an alternative to method to accomplishing their goals.    
 **Where:** Changes will need to be made on the 22-1995 Application Instructions page as well as the VA Form 22-1990, VA Form 22-1990e, or VA Form 22-5490 Application Instructions pages.  
  
@@ -64,7 +64,7 @@ TBD
 ## Solution Narrative
 
 ### Current Status
-- Use cases have been validated, high fidelity wireframes have been created, and both have been reviewed by the My Education Benefits team, Product Owner, and Development teams.
+- Created and validated all use cases and high fidelity wireframes. Designs have been reviewed by the My Education Benefits team, Product Owner, and Development teams.
   
 ---
    
@@ -75,7 +75,7 @@ TBD
 <img width="2201" height="2968" alt="screencapture-va-gov-education-apply-for-education-benefits-application-1995-introduction-2025-09-15-15_23_39" src="https://github.com/user-attachments/assets/4b6e0d92-0587-4712-8ed3-495b235f8ce8" />
 
 ### After
-**VA Form 22-1995 Application Instructions, Landing Page Routing Tool**
+**VA Form 22-1995 Application Instructions Page and Routing Tool**
 <img width="1280" height="2263" alt="image" src="https://github.com/user-attachments/assets/ea9163b8-194c-427c-9c5c-ed85b91f21a0" />
 <img width="1280" height="2007" alt="image" src="https://github.com/user-attachments/assets/6b7de233-e3a8-487d-8536-0cdbfaca708a" />
 <img width="1280" height="1826" alt="image" src="https://github.com/user-attachments/assets/8e478c35-700e-465d-a5ea-633650543cfd" />
