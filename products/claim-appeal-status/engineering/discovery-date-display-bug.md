@@ -9,7 +9,7 @@ Issue: [#117391](https://github.com/department-of-veterans-affairs/va.gov-team/i
 - [Where This Bug Impacts Veterans](#where-this-bug-impacts-veterans)
 - [Solution: Return ISO 8601 Timestamps](#solution-return-iso-8601-timestamps)
 - [Brainstorm of Possible UX Improvements While Awaiting API Fix](#brainstorm-of-possible-ux-improvements-while-awaiting-api-fix)
-- [Key Questions](#key-questions)
+- [Key Questions to Resolve](#key-questions-to-resolve)
 - [Appendix A: Detailed Technical Flow](#appendix-a-detailed-technical-flow)
 - [Appendix B: Additional Affected Areas](#appendix-b-additional-affected-areas)
 
