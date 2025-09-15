@@ -104,7 +104,7 @@ synthesis_tools_used:
 
 **Contacts:** [Researcher/Designer 1], [Researcher/Designer 2]
 
-**[Link to Research Readout](link-here)**  
+**[Research Readout (PDF)](link-here)**  
 *Add a link to your research readout deck, if available.*
 
 > [!TIP] 
@@ -374,13 +374,12 @@ _[insert screenshot of completed recruitment checker]_
 
 ![Table of underserved groups of Veterans showing how many of each were in this study as compared to target numbers. Data available in the table below this image](link - add image to github folder and link here with .png)
 
-<details>
-  <summary>A more accessible version of the table in the above image</summary>
+#### A more accessible version of the table in the above image
    
 _[In the Markdown table below, fill in your study name and all "--" placeholders for numbers and percentages of participants from your screenshot of the completed recruitment checker.]_
 
 
-### Underserved groups in [Study name]
+### Recruitment of underserved groups in [Study name]
 
 **Final # of participants:** --  
 **# of AT users:** --  
@@ -436,4 +435,3 @@ _[In the Markdown table below, fill in your study name and all "--" placeholders
 | Switch Device | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 | Braille Reader | --% | -- | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
 
- </details>
