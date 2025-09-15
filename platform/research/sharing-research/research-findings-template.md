@@ -372,7 +372,7 @@ _Complete the [VA recruitment checker for marginalized Veteran groups](https://d
 
 > b. Enter: "I want to convert these spreadsheet cells into a table in markdown:" 
 
- > c. Copy and paste the cells from the recruitment checker spreadsheet that you've filled in
+> c. Copy and paste the cells from the recruitment checker spreadsheet that you've filled in
 
 > d. Copy the resulting markdown table and paste it into your report
 
