@@ -139,6 +139,4 @@ _What offices/departments are critical to making this initiative successful?_
 
 </details>
 
----
 
-This Markdown formatted product brief includes all pertinent data from both the original product brief and the de-duplication project, ensuring a comprehensive communication of the goals, approach, and strategic plan for integrating CHAMPVA applications into CST.
