@@ -1,5 +1,5 @@
 
-# Product Outline Template
+# Product Outline - VA Form 2201995 Sunset and Redirect
 
 ---
 
@@ -91,8 +91,8 @@ This work does not plan to include user research. The routing tool designs lever
 ---
 
 #### Stakeholders
-
 <details>
+ 
  - Team: My Education Benefits 
  - Slack Channel: #my-education-benefits
  - Product POCs: Joanna Yu (joanna.yu@afs.com), Alexander Ferzola (alexander.ferzola@afs.com)
