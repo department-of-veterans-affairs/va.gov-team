@@ -5,4 +5,5 @@ team: "https://github.com/department-of-veterans-affairs/va.gov-team-sensitive/b
 github-label: "21-4140"
 measurement:
   project_board: "https://github.com/orgs/department-of-veterans-affairs/projects/1643/views/1" # Link to GitHub project board (optional)
+product-outline: "https://github.com/department-of-veterans-affairs/VA.gov-team-forms/blob/main/Forms/21-4140%20Employment%20Questionnaire/product%20outline.md"
 status: "active" # active, maintenance, sunset
