@@ -36,7 +36,11 @@ The VA Mobile Platform team kicked off several surge support sprints to discover
 - Next steps: update as new data points are added for data collection
 
 ## Dashboard/Visualization Designs
-- We designed a landing page, experience page, and data dictionary page for implementation in PowerBI.
-- An editable version of the designs, documentation of existing reports, and data visualization brainstorming can be found in [Figma here](https://www.figma.com/board/V0rDE80KylZ5jod3SWxAzC/Mobile-Surge-Support---Measurement---Data-Strategy?node-id=80-679&t=Y6lHMElVgm9bwJSi-0). 
+- We designed the following designs for implementation in PowerBI:
+     - [Landing Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/analytics/data-strategy/Mobile%20-%20PowerBI%20design%20landing%20page.png)
+     - [Experience or Platform Page (example: Appointments)](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/analytics/data-strategy/Mobile%20-%20PowerBI%20design%20experience%20page.png)
+     - [Data Dictionary Page](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/va-mobile-app/analytics/data-strategy/Mobile%20-%20PowerBI%20design%20data%20dictionary%20page.png)
+     - An editbale version of the designs can be found [Figma here](https://www.figma.com/board/V0rDE80KylZ5jod3SWxAzC/Mobile-Surge-Support---Measurement---Data-Strategy?node-id=1178-2795&t=HoJTu9cAZHt6l8iz-0)
+- Documentation of existing reports and data visualization brainstorming can be found in [Figma here](https://www.figma.com/board/V0rDE80KylZ5jod3SWxAzC/Mobile-Surge-Support---Measurement---Data-Strategy?node-id=80-679&t=Y6lHMElVgm9bwJSi-0). 
 - Next steps: build out in PowerBI
-- Considerations: to reduce dashboard load time, consider opportunities to optimize data queries.
+- Considerations: to reduce dashboard load time, consider opportunities to optimize data queries
