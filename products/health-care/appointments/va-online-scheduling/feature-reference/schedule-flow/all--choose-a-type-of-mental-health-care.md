@@ -10,11 +10,12 @@ Veterans choose the type of mental health care they need
 ## Requirements
 
 **Functional**
+
 For mental health care, users are shown the sub-type care page before choosing the specific clinic.
 
 ## Specifications
 
-[User flow](https://www.figma.com/file/xRs9s6QWoBPRhpdYCGc3cV/User-Flow?type=whiteboard&node-id=155-31179&t=h7voOZsnZQC7y70u-4) 
+[User flow](https://www.figma.com/design/ugE1APC20v8OcArGB2IMQy/User-Flows-%7C-Appointments-FE?node-id=3157-18721&t=oEnbwRSWMoaIl4vR-0)
 
 [Page template](https://www.figma.com/file/twogqAIoOL9WAFRqvUbwiS/VAOS-Templates?type=design&node-id=2403-49117&mode=design)
 
