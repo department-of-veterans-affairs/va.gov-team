@@ -7,7 +7,7 @@
 
 <img width="368" height="243" alt="Screenshot 2025-08-01 at 3 55 45 PM" src="https://github.com/user-attachments/assets/8720f0b3-a42a-4cd7-82b9-9da690fb16f4" />
 
-## 7/1/2025 - 8/15/2025
+## 7/1/2025 - 9/12/2025
 
 8/12/25 17:54
 
