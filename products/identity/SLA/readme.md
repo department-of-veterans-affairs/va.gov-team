@@ -5,7 +5,7 @@ Publishing the Service Level Agreement (SLA) targets we want to hit for Veterans
 
 While our audience for these are other VA.gov product teams, the SLA themselves should explain why each one is important to Veterans logging into VA.gov.
 
-This is a follow-up to the [Login SLO](https://github.com/department-of-veterans-affairs/va.gov-team/blob/master/products/identity/Products/Product%20Briefs/Login%20SLO.md) project.
+This is a follow-up to the [Login SLO](https://github.com/department-of-veterans-affairs/va.gov-team/tree/master/products/identity/SLO) project.
 
 ## Problem Statement: 
 
